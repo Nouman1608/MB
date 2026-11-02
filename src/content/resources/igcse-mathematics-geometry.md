@@ -115,19 +115,19 @@ equal chords are equidistant from the centre; the perpendicular
 bisector of a chord passes through the centre; and tangents from an
 external point are equal in length
 
-<figure class="topic-figure" data-review="draft-not-teacher-reviewed">
+<figure class="topic-figure">
   <img src="https://img.marlbridge.com/igcse-mathematics-geometry--01-parallel-line-angles.webp" width="900" height="1220" alt="Three panels of two parallel lines cut by a transversal. Corresponding angles are both 65 degrees. Alternate angles are both 115 degrees. Co-interior angles are 65 and 115 degrees, adding to 180. With a 65 degree transversal: corresponding angles are equal (F), alternate angles are equal (Z), co-interior angles add to 180 degrees (C)." loading="lazy">
-  <figcaption>Corresponding and alternate angles are equal; co-interior angles add to 180°. <span class="figure-draft-note">Draft diagram, not yet reviewed by a teacher.</span></figcaption>
+  <figcaption>Corresponding and alternate angles are equal; co-interior angles add to 180°.</figcaption>
 </figure>
 
-<figure class="topic-figure" data-review="draft-not-teacher-reviewed">
+<figure class="topic-figure">
   <img src="https://img.marlbridge.com/igcse-mathematics-geometry--02-regular-polygon-angles.webp" width="900" height="1070" alt="A regular hexagon with exterior angles of 60 degrees marked and one interior angle of 120 degrees. Six 60 degree wedges form a full circle of 360 degrees. Interior angle is 180 minus 60. A regular hexagon has six exterior angles of 60 degrees which fit round a point to make 360 degrees, so each interior angle is 120 degrees." loading="lazy">
-  <figcaption>Exterior angles add to 360°, so a regular hexagon has interior angles of 120°. <span class="figure-draft-note">Draft diagram, not yet reviewed by a teacher.</span></figcaption>
+  <figcaption>Exterior angles add to 360°, so a regular hexagon has interior angles of 120°.</figcaption>
 </figure>
 
-<figure class="topic-figure" data-review="draft-not-teacher-reviewed">
+<figure class="topic-figure">
   <img src="https://img.marlbridge.com/igcse-mathematics-geometry--03-right-angles-in-circles.webp" width="900" height="1055" alt="Top: a triangle ABC inside a circle with AB a diameter, right angle at C. Bottom: a radius OT meets a tangent at T with a right angle. The angle in a semicircle is 90 degrees, and a tangent meets a radius at 90 degrees." loading="lazy">
-  <figcaption>The angle in a semicircle and the angle between tangent and radius are both 90°. <span class="figure-draft-note">Draft diagram, not yet reviewed by a teacher.</span></figcaption>
+  <figcaption>The angle in a semicircle and the angle between tangent and radius are both 90°.</figcaption>
 </figure>
 
 
@@ -153,9 +153,9 @@ k² and volume scales by k³ — a very common source of error is
 applying the same scale factor to all three without adjusting the
 power.
 
-<figure class="topic-figure" data-review="draft-not-teacher-reviewed">
+<figure class="topic-figure">
   <img src="https://img.marlbridge.com/igcse-mathematics-geometry--06-similar-scale-factors.webp" width="900" height="1050" alt="A bar of length 1 becomes 2. A unit square becomes a 2 by 2 square of 4 squares. A unit cube becomes a 2 by 2 by 2 cube of 8 cubes. With length scale factor 2, a unit square becomes four unit squares and a unit cube becomes eight unit cubes." loading="lazy">
-  <figcaption>Length scale factor k multiplies area by k² and volume by k³ (shown for k = 2). <span class="figure-draft-note">Draft diagram, not yet reviewed by a teacher.</span></figcaption>
+  <figcaption>Length scale factor k multiplies area by k² and volume by k³ (shown for k = 2).</figcaption>
 </figure>
 
 
@@ -179,14 +179,14 @@ can be applied correctly within the same problem, which is why
 learning the full list as a connected set — rather than one theorem
 at a time in isolation — pays off directly in multi-part questions.
 
-<figure class="topic-figure" data-review="draft-not-teacher-reviewed">
+<figure class="topic-figure">
   <img src="https://img.marlbridge.com/igcse-mathematics-geometry--04-angle-at-centre.webp" width="900" height="830" alt="Circle with arc AB, centre angle AOB of 130 degrees, and points C and D each giving an angle of 65 degrees on the same arc. The angle at the centre (130 degrees) is twice the angle at the circumference (65 degrees) on the same arc, and angles in the same segment are equal." loading="lazy">
-  <figcaption>The angle at the centre is twice the angle at the circumference, and angles in the same segment are equal. <span class="figure-draft-note">Draft diagram, not yet reviewed by a teacher.</span></figcaption>
+  <figcaption>The angle at the centre is twice the angle at the circumference, and angles in the same segment are equal.</figcaption>
 </figure>
 
-<figure class="topic-figure" data-review="draft-not-teacher-reviewed">
+<figure class="topic-figure">
   <img src="https://img.marlbridge.com/igcse-mathematics-geometry--05-cyclic-quadrilateral.webp" width="900" height="850" alt="Quadrilateral ABCD inscribed in a circle with angles A 100, B 65, C 80, D 115 degrees. A plus C is 180 and B plus D is 180. In a cyclic quadrilateral opposite angles add to 180 degrees (100 + 80 and 65 + 115)." loading="lazy">
-  <figcaption>Opposite angles of a cyclic quadrilateral add to 180°. <span class="figure-draft-note">Draft diagram, not yet reviewed by a teacher.</span></figcaption>
+  <figcaption>Opposite angles of a cyclic quadrilateral add to 180°.</figcaption>
 </figure>
 
 

@@ -112,9 +112,9 @@ alkane general formula: CnH2n+2, with n = 5
 C5H(2x5)+2 = C5H12   (pentane)
 ```
 
-<figure class="topic-figure" data-review="draft-not-teacher-reviewed">
+<figure class="topic-figure">
   <img src="https://img.marlbridge.com/organic-chemistry-formulae-and-naming--01-displayed-formula.webp" width="900" height="1120" alt="Ethanol written three ways: molecular formula C2H6O, structural formula CH3CH2OH (Extended), and the displayed formula showing every atom and bond, with labels that carbon has 4 bonds, oxygen 2 and hydrogen 1." loading="lazy">
-  <figcaption>A displayed formula shows every atom and every bond, unlike molecular or structural formulae. <span class="figure-draft-note">Draft diagram, not yet reviewed by a teacher.</span></figcaption>
+  <figcaption>A displayed formula shows every atom and every bond, unlike molecular or structural formulae.</figcaption>
 </figure>
 
 
@@ -136,14 +136,14 @@ characteristics (Extended/5070) is:
 length)
 - Similar chemical properties across the series
 
-<figure class="topic-figure" data-review="draft-not-teacher-reviewed">
+<figure class="topic-figure">
   <img src="https://img.marlbridge.com/organic-chemistry-formulae-and-naming--02-functional-groups.webp" width="900" height="1170" alt="Displayed formulae of ethane, ethene, ethanol and ethanoic acid with the key feature highlighted (single C-C bonds only, C=C, -OH, -COOH) and each series general formula evaluated for the shown n." loading="lazy">
-  <figcaption>The functional group decides the series and its chemistry. <span class="figure-draft-note">Draft diagram, not yet reviewed by a teacher.</span></figcaption>
+  <figcaption>The functional group decides the series and its chemistry.</figcaption>
 </figure>
 
-<figure class="topic-figure" data-review="draft-not-teacher-reviewed">
+<figure class="topic-figure">
   <img src="https://img.marlbridge.com/organic-chemistry-formulae-and-naming--03-homologous-series.webp" width="900" height="1275" alt="Methane to butane drawn as displayed formulae, each one CH2 bigger than the last, with formula from CnH2n+2 and boiling point rising down the series. Extended chips list what members share." loading="lazy">
-  <figcaption>Each alkane is one CH2 bigger, following CnH2n+2. <span class="figure-draft-note">Draft diagram, not yet reviewed by a teacher.</span></figcaption>
+  <figcaption>Each alkane is one CH2 bigger, following CnH2n+2.</figcaption>
 </figure>
 
 
@@ -156,9 +156,9 @@ This distinction drives the different reactivity covered in
 [Petroleum, Alkanes and Alkenes](/resources/petroleum-alkanes-and-alkenes/):
 alkanes mostly undergo substitution, alkenes mostly undergo addition.
 
-<figure class="topic-figure" data-review="draft-not-teacher-reviewed">
+<figure class="topic-figure">
   <img src="https://img.marlbridge.com/organic-chemistry-formulae-and-naming--04-saturated-unsaturated.webp" width="900" height="910" alt="Ethane with only a single C-C bond is saturated and alkanes mostly undergo substitution; ethene with a C=C bond is unsaturated and alkenes mostly undergo addition." loading="lazy">
-  <figcaption>Alkanes have only single C-C bonds, alkenes have a C=C bond. <span class="figure-draft-note">Draft diagram, not yet reviewed by a teacher.</span></figcaption>
+  <figcaption>Alkanes have only single C-C bonds, alkenes have a C=C bond.</figcaption>
 </figure>
 
 
@@ -178,9 +178,9 @@ Both have exactly 4 carbon and 10 hydrogen atoms — the formula alone doesn't
 tell you which arrangement you're looking at, which is exactly why
 structural (not just molecular) formulae matter.
 
-<figure class="topic-figure" data-review="draft-not-teacher-reviewed">
+<figure class="topic-figure">
   <img src="https://img.marlbridge.com/organic-chemistry-formulae-and-naming--05-structural-isomers.webp" width="900" height="1110" alt="Butane and methylpropane both C4H10; but-1-ene and but-2-ene both C4H8; same atoms joined differently." loading="lazy">
-  <figcaption>Isomers share a molecular formula but have different structures. <span class="figure-draft-note">Draft diagram, not yet reviewed by a teacher.</span></figcaption>
+  <figcaption>Isomers share a molecular formula but have different structures.</figcaption>
 </figure>
 
 
@@ -205,19 +205,19 @@ end carbon, propan-**2**-ol has it on the middle carbon.
 ending in -yl, followed by the acid's -oate — ethanol + ethanoic acid gives
 **ethyl ethanoate**.
 
-<figure class="topic-figure" data-review="draft-not-teacher-reviewed">
+<figure class="topic-figure">
   <img src="https://img.marlbridge.com/organic-chemistry-formulae-and-naming--06-naming-stem-ending.webp" width="900" height="1090" alt="Stem gives carbon number (meth 1, eth 2, prop 3, but 4); ending gives the functional group (-ane, -ene, -ol, -oic acid), shown with ethane, ethene, ethanol and ethanoic acid." loading="lazy">
-  <figcaption>Name = stem for carbons + ending for the functional group. <span class="figure-draft-note">Draft diagram, not yet reviewed by a teacher.</span></figcaption>
+  <figcaption>Name = stem for carbons + ending for the functional group.</figcaption>
 </figure>
 
-<figure class="topic-figure" data-review="draft-not-teacher-reviewed">
+<figure class="topic-figure">
   <img src="https://img.marlbridge.com/organic-chemistry-formulae-and-naming--07-locant-numbers.webp" width="900" height="1150" alt="Propan-1-ol and propan-2-ol, and butan-1-ol and butan-2-ol, with carbons numbered along the chain and the carbon carrying -OH highlighted." loading="lazy">
-  <figcaption>The number says which carbon carries the -OH. <span class="figure-draft-note">Draft diagram, not yet reviewed by a teacher.</span></figcaption>
+  <figcaption>The number says which carbon carries the -OH.</figcaption>
 </figure>
 
-<figure class="topic-figure" data-review="draft-not-teacher-reviewed">
+<figure class="topic-figure">
   <img src="https://img.marlbridge.com/organic-chemistry-formulae-and-naming--08-ester-naming.webp" width="900" height="920" alt="Ethanol and ethanoic acid give ethyl ethanoate (CH3COOCH2CH3) plus water; ethyl comes from the alcohol, ethanoate from the acid." loading="lazy">
-  <figcaption>Ester names combine the alcohol part (-yl) and the acid part (-oate). <span class="figure-draft-note">Draft diagram, not yet reviewed by a teacher.</span></figcaption>
+  <figcaption>Ester names combine the alcohol part (-yl) and the acid part (-oate).</figcaption>
 </figure>
 
 

@@ -62,14 +62,14 @@ The syllabus limits you to five features.
 
 A chromosome in G1 is a single chromatid. It becomes two sister chromatids only after the S phase. Keep this in mind when you count chromosomes and chromatids.
 
-<figure class="topic-figure" data-review="draft-not-teacher-reviewed">
+<figure class="topic-figure">
   <img src="https://img.marlbridge.com/a-level-biology-9700-the-mitotic-cell-cycle--05-meiosis-halves-number.webp" width="900" height="1110" alt="A parent cell with four chromosomes in two homologous pairs divides twice. Meiosis I separates the homologous pairs into two haploid cells with double chromosomes; meiosis II separates chromatids into four haploid cells with single chromosomes. DNA per cell goes 4, 2, 1 units." loading="lazy">
-  <figcaption>Meiosis I halves the chromosome number; meiosis II separates chromatids. <span class="figure-draft-note">Draft diagram, not yet reviewed by a teacher.</span></figcaption>
+  <figcaption>Meiosis I halves the chromosome number; meiosis II separates chromatids.</figcaption>
 </figure>
 
-<figure class="topic-figure" data-review="draft-not-teacher-reviewed">
+<figure class="topic-figure">
   <img src="https://img.marlbridge.com/a-level-biology-9700-the-mitotic-cell-cycle--07-non-disjunction.webp" width="900" height="1030" alt="One homologous pair is followed. Failure in meiosis I gives two n+1 and two n-1 gametes; failure in meiosis II gives one n+1, one n-1 and two normal gametes. In humans these are 24 and 22 chromosomes, and fertilisation by a normal 23 gives 47 or 45." loading="lazy">
-  <figcaption>Non-disjunction gives gametes with an extra or a missing chromosome. <span class="figure-draft-note">Draft diagram, not yet reviewed by a teacher.</span></figcaption>
+  <figcaption>Non-disjunction gives gametes with an extra or a missing chromosome.</figcaption>
 </figure>
 
 
@@ -107,9 +107,9 @@ after cytokinesis: each daughter cell 16 pg
 
 On a graph of DNA per cell against time, the line rises during S, stays level through G2 and mitosis, and halves at cytokinesis.
 
-<figure class="topic-figure" data-review="draft-not-teacher-reviewed">
+<figure class="topic-figure">
   <img src="https://img.marlbridge.com/a-level-biology-9700-the-mitotic-cell-cycle--02-cell-cycle-dna.webp" width="900" height="1100" alt="A ring diagram of G1, S, G2 and M sized from a 500-cell count (53%, 25%, 14%, 8% of a 20 hour cycle) with a graph of DNA per cell: 16 pg in G1, rising to 32 pg in S, level through G2 and mitosis, halving at cytokinesis." loading="lazy">
-  <figcaption>DNA doubles during S phase and halves at cytokinesis. <span class="figure-draft-note">Draft diagram, not yet reviewed by a teacher.</span></figcaption>
+  <figcaption>DNA doubles during S phase and halves at cytokinesis.</figcaption>
 </figure>
 
 
@@ -126,9 +126,9 @@ A **stem cell** is an unspecialised cell that can divide by mitosis again and ag
 
 One daughter cell can stay as a stem cell while the other differentiates. This keeps the stem cell population going.
 
-<figure class="topic-figure" data-review="draft-not-teacher-reviewed">
+<figure class="topic-figure">
   <img src="https://img.marlbridge.com/a-level-biology-9700-the-mitotic-cell-cycle--04-mitotic-index.webp" width="900" height="1232" alt="A grid of 500 root tip cells, one symbol each: 440 interphase and 60 in mitosis (30 prophase, 12 metaphase, 8 anaphase, 10 telophase). A table gives time in a 24 hour cycle for each stage and the mitotic index 60/500 = 12%." loading="lazy">
-  <figcaption>The fraction of cells in a stage equals the fraction of the cycle spent in it. <span class="figure-draft-note">Draft diagram, not yet reviewed by a teacher.</span></figcaption>
+  <figcaption>The fraction of cells in a stage equals the fraction of the cycle spent in it.</figcaption>
 </figure>
 
 
@@ -136,14 +136,14 @@ One daughter cell can stay as a stem cell while the other differentiates. This k
 
 The cell cycle is controlled by genes. A **mutation** in a gene that controls cell division can mean the cell no longer responds to the signals that normally stop it dividing. The cell then divides by mitosis repeatedly and without control. All its descendants carry the same mutation and also divide uncontrollably. The result is a mass of cells called a **tumour**. Factors that increase the chance of mutation, such as some chemicals and ionising radiation, increase the risk. A tumour that invades other tissues is a cancer.
 
-<figure class="topic-figure" data-review="draft-not-teacher-reviewed">
+<figure class="topic-figure">
   <img src="https://img.marlbridge.com/a-level-biology-9700-the-mitotic-cell-cycle--01-chromosome-structure.webp" width="900" height="1230" alt="A replicated chromosome drawn as two sister chromatids joined at the centromere, with gold telomeres at the four ends. Zooming in, DNA is coiled round histone proteins. A final panel shows a DNA end shortening with each copy: the telomere is used up first and the genes stay intact." loading="lazy">
-  <figcaption>Telomeres are lost from chromosome ends at each replication, so genes are protected. <span class="figure-draft-note">Draft diagram, not yet reviewed by a teacher.</span></figcaption>
+  <figcaption>Telomeres are lost from chromosome ends at each replication, so genes are protected.</figcaption>
 </figure>
 
-<figure class="topic-figure" data-review="draft-not-teacher-reviewed">
+<figure class="topic-figure">
   <img src="https://img.marlbridge.com/a-level-biology-9700-the-mitotic-cell-cycle--09-mutation-to-tumour.webp" width="900" height="1240" alt="A proto-oncogene stimulates division and a tumour suppressor gene slows it. Mutation turns the first into an always-on oncogene and disables the second, so cells double each cycle (1, 2, 4, 8, 16) into a tumour. A benign tumour stays in a capsule; a malignant one invades and spreads through the blood." loading="lazy">
-  <figcaption>Mutations in genes that control division cause uncontrolled division and tumours. <span class="figure-draft-note">Draft diagram, not yet reviewed by a teacher.</span></figcaption>
+  <figcaption>Mutations in genes that control division cause uncontrolled division and tumours.</figcaption>
 </figure>
 
 
@@ -204,9 +204,9 @@ actual size = image size / magnification
 
 Convert mm to µm by multiplying by 1000.
 
-<figure class="topic-figure" data-review="draft-not-teacher-reviewed">
+<figure class="topic-figure">
   <img src="https://img.marlbridge.com/a-level-biology-9700-the-mitotic-cell-cycle--03-mitosis-stages.webp" width="900" height="1276" alt="Six drawings of an animal cell with four chromosomes: interphase, prophase, metaphase, anaphase, telophase and cytokinesis, each with a short description. Spindle fibres, centrioles and nuclei are labelled in a key; cytokinesis shows an animal cell pinching in and a plant cell forming a cell plate." loading="lazy">
-  <figcaption>Chromosomes condense, line up, separate as chromatids, and two nuclei form before the cytoplasm divides. <span class="figure-draft-note">Draft diagram, not yet reviewed by a teacher.</span></figcaption>
+  <figcaption>Chromosomes condense, line up, separate as chromatids, and two nuclei form before the cytoplasm divides.</figcaption>
 </figure>
 
 

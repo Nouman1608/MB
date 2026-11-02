@@ -119,19 +119,19 @@ organic compounds):
 C2H5OH + 3O2 → 2CO2 + 3H2O
 ```
 
-<figure class="topic-figure" data-review="draft-not-teacher-reviewed">
+<figure class="topic-figure">
   <img src="https://img.marlbridge.com/alcohols-and-carboxylic-acids--01-two-routes-to-ethanol.webp" width="900" height="1000" alt="Top: a sealed flask of glucose and yeast at 25-35 C with no oxygen gives dilute ethanol, and carbon dioxide leaves through a tube. Bottom: ethene and steam pass over an acid catalyst in a reactor at 300 C and 6000 kPa to give pure ethanol." loading="lazy">
-  <figcaption>Fermentation is sealed, mild and makes dilute ethanol; steam and ethene need 300 C, 6000 kPa and an acid catalyst. <span class="figure-draft-note">Draft diagram, not yet reviewed by a teacher.</span></figcaption>
+  <figcaption>Fermentation is sealed, mild and makes dilute ethanol; steam and ethene need 300 C, 6000 kPa and an acid catalyst.</figcaption>
 </figure>
 
-<figure class="topic-figure" data-review="draft-not-teacher-reviewed">
+<figure class="topic-figure">
   <img src="https://img.marlbridge.com/alcohols-and-carboxylic-acids--02-fermentation-vs-hydration.webp" width="900" height="1010" alt="Two columns compare fermentation and steam plus ethene: plants (renewable) versus crude oil (not renewable); slow versus fast; a dilute mixture versus pure ethanol; and mild 25-35 C versus 300 C and 6000 kPa." loading="lazy">
-  <figcaption>Neither route is simply better: renewable and mild but slow and dilute, or fast and pure but energy-intensive. <span class="figure-draft-note">Draft diagram, not yet reviewed by a teacher.</span></figcaption>
+  <figcaption>Neither route is simply better: renewable and mild but slow and dilute, or fast and pure but energy-intensive.</figcaption>
 </figure>
 
-<figure class="topic-figure" data-review="draft-not-teacher-reviewed">
+<figure class="topic-figure">
   <img src="https://img.marlbridge.com/alcohols-and-carboxylic-acids--03-ethanol-combustion.webp" width="900" height="950" alt="Ball models show one ethanol molecule and three oxygen molecules turning into two carbon dioxide and three water molecules, releasing heat. Both sides contain 2 carbon, 6 hydrogen and 7 oxygen atoms. Ethanol is used as a fuel and as a solvent." loading="lazy">
-  <figcaption>Burning ethanol makes carbon dioxide and water and releases heat; ethanol is a fuel and a solvent. <span class="figure-draft-note">Draft diagram, not yet reviewed by a teacher.</span></figcaption>
+  <figcaption>Burning ethanol makes carbon dioxide and water and releases heat; ethanol is a fuel and a solvent.</figcaption>
 </figure>
 
 
@@ -156,9 +156,9 @@ Salts of ethanoic acid are named **ethanoates** — sodium ethanoate,
 magnesium ethanoate — following the same salt-naming logic as inorganic
 acids.
 
-<figure class="topic-figure" data-review="draft-not-teacher-reviewed">
+<figure class="topic-figure">
   <img src="https://img.marlbridge.com/alcohols-and-carboxylic-acids--04-ethanoic-acid-salts.webp" width="900" height="1030" alt="Ethanoic acid reacts with magnesium to give magnesium ethanoate and hydrogen, with sodium hydroxide to give sodium ethanoate and water, and with sodium carbonate to give sodium ethanoate, water and carbon dioxide. Salts of ethanoic acid are ethanoates." loading="lazy">
-  <figcaption>Ethanoic acid reacts with a metal, a base or a carbonate to make an ethanoate salt. <span class="figure-draft-note">Draft diagram, not yet reviewed by a teacher.</span></figcaption>
+  <figcaption>Ethanoic acid reacts with a metal, a base or a carbonate to make an ethanoate salt.</figcaption>
 </figure>
 
 
@@ -177,9 +177,9 @@ ethanol + oxygen --[O]--> ethanoic acid + water
 CH3CH2OH + 2[O] → CH3COOH + H2O
 ```
 
-<figure class="topic-figure" data-review="draft-not-teacher-reviewed">
+<figure class="topic-figure">
   <img src="https://img.marlbridge.com/alcohols-and-carboxylic-acids--05-ethanol-oxidation.webp" width="900" height="900" alt="Displayed formulae show ethanol losing two hydrogen atoms from the CH2 carbon and gaining a double-bonded oxygen to become ethanoic acid, with water also made. Two ways to do it: acidified potassium manganate(VII) in the lab, and bacteria turning wine or cider into vinegar." loading="lazy">
-  <figcaption>Oxidation adds O and removes H, done by acidified manganate(VII) or by bacteria in vinegar making. <span class="figure-draft-note">Draft diagram, not yet reviewed by a teacher.</span></figcaption>
+  <figcaption>Oxidation adds O and removes H, done by acidified manganate(VII) or by bacteria in vinegar making.</figcaption>
 </figure>
 
 
@@ -200,9 +200,9 @@ ethanol + ethanoic acid gives **ethyl ethanoate** (see
 [Formulae and Naming](/resources/organic-chemistry-formulae-and-naming/)
 for more on naming esters).
 
-<figure class="topic-figure" data-review="draft-not-teacher-reviewed">
+<figure class="topic-figure">
   <img src="https://img.marlbridge.com/alcohols-and-carboxylic-acids--06-esterification.webp" width="900" height="960" alt="Ethanoic acid and ethanol react with an acid catalyst to make the ester ethyl ethanoate and water. The OH from the acid and the H from the alcohol leave as water. The alcohol supplies the ethyl part of the name and the acid supplies the ethanoate part." loading="lazy">
-  <figcaption>An acid and an alcohol with an acid catalyst make an ester and water; ethyl comes from the alcohol, ethanoate from the acid. <span class="figure-draft-note">Draft diagram, not yet reviewed by a teacher.</span></figcaption>
+  <figcaption>An acid and an alcohol with an acid catalyst make an ester and water; ethyl comes from the alcohol, ethanoate from the acid.</figcaption>
 </figure>
 
 
