@@ -166,12 +166,6 @@ Now a floor in the same market. Minimum price 110: Qd = 180, Qs = 240, surplus 6
 
 The link to price elasticity of demand helps in evaluation. With a minimum price, consumer spending (the revenue of sellers) rises only if demand is inelastic over the price rise. In a fictional alcohol market the price rises from 5 to 6 CU, a 20% rise, and quantity falls from 500 to 440, a 12% fall. PED = −12 ÷ 20 = −0.6, which is inelastic, so spending rises from 2,500 to 2,640 CU. A demerit good with inelastic demand is cut back only a little by a floor price, so the policy raises revenue for sellers more than it reduces consumption.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/cambridge-a-level-economics-reasons-for-government-intervention-in-markets--07-minimum-price-elasticity-spending.webp" width="900" height="1090" alt="Two demand diagrams for dried fruit with a minimum price of 80 above the equilibrium price of 70 at 150 tonnes. Top: with the lesson demand Q = 500 - 5P, which is elastic at this point, buyers fall to 100 tonnes and spending drops from 10,500 to 8,000. Bottom: with an illustrative inelastic demand Q = 255 - 1.5P, buyers fall only to 135 tonnes and spending rises from 10,500 to 10,800." loading="lazy">
-  <figcaption>With elastic demand a minimum price cuts what buyers spend; with inelastic demand it raises it (second curve is illustrative).</figcaption>
-</figure>
-
-
 ### Diagram checklist
 
 - Label the axes: price up the side, quantity along the bottom.
@@ -188,6 +182,11 @@ The link to price elasticity of demand helps in evaluation. With a minimum price
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/cambridge-a-level-economics-reasons-for-government-intervention-in-markets--11-minimum-price-surplus-cost.webp" width="900" height="930" alt="Dried fruit market with demand Q equals 500 minus 5P and supply Q equals 4P minus 130. Equilibrium is price 70 and 150 tonnes. A minimum price of 80 is above equilibrium, so buyers take 100 tonnes while farmers supply 190, a surplus of 90 tonnes. If the government buys the surplus it pays 90 times 80, which is 7,200 CU." loading="lazy">
   <figcaption>A floor above equilibrium: at 80 farmers supply 190 tonnes but buyers take 100, leaving 90 for the government to buy.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-reasons-for-government-intervention-in-markets--07-minimum-price-elasticity-spending.webp" width="900" height="1090" alt="Two demand diagrams for dried fruit with a minimum price of 80 above the equilibrium price of 70 at 150 tonnes. Top: with the lesson demand Q = 500 - 5P, which is elastic at this point, buyers fall to 100 tonnes and spending drops from 10,500 to 8,000. Bottom: with an illustrative inelastic demand Q = 255 - 1.5P, buyers fall only to 135 tonnes and spending rises from 10,500 to 10,800." loading="lazy">
+  <figcaption>With elastic demand a minimum price cuts what buyers spend; with inelastic demand it raises it (second curve is illustrative).</figcaption>
 </figure>
 
 <figure class="topic-figure">

@@ -181,12 +181,6 @@ Debit side 5,000 + 12,000 = 17,000. Credit side known: 9,500 + 200 + 400 = 10,10
 - An input error (wrong amount or wrong customer) is still carried through.
 - Access controls, passwords and backups protect the data the totals depend on.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-accounting-control-accounts--11-digital-control-accounts.webp" width="900" height="1090" alt="Journals and the cash book feed software that totals them into a control account report at any date, used to chase overdue accounts and decide supplier payments. A wrong amount typed in still gives a complete-looking report, so passwords, access controls and backups matter." loading="lazy">
-  <figcaption>Software builds totals fast but cannot check the data.</figcaption>
-</figure>
-
-
 ## Quick self-test
 
 1. On which side of the sales ledger control account does a customer's dishonoured cheque go?
@@ -218,6 +212,11 @@ Debit side 5,000 + 12,000 = 17,000. Credit side known: 9,500 + 200 + 400 = 10,10
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/igcse-accounting-control-accounts--08-missing-credit-sales.webp" width="900" height="830" alt="Marwick Tools control account: credits total 44,850 (receipts 31,800, discount 560, returns 940, irrecoverable 300, closing balance 11,250). Credit sales are 44,850 minus the opening 9,600, which is 35,250." loading="lazy">
   <figcaption>Credit sales are the balancing figure when all other items are known.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-accounting-control-accounts--11-digital-control-accounts.webp" width="900" height="1090" alt="Journals and the cash book feed software that totals them into a control account report at any date, used to chase overdue accounts and decide supplier payments. A wrong amount typed in still gives a complete-looking report, so passwords, access controls and backups matter." loading="lazy">
+  <figcaption>Software builds totals fast but cannot check the data.</figcaption>
 </figure>
 
 

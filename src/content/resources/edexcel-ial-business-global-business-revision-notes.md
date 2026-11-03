@@ -78,6 +78,22 @@ Reasons: protect jobs, young industries and security; reduce a trade deficit. Im
 
 **Method: payback (standard form).** Payback = initial cost ÷ annual saving or net cash inflow. Return on investment (standard form) = annual profit ÷ investment × 100.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-business-global-business--02-dollar-rises-eight-to-ten.webp" width="900" height="896" alt="When the dollar rises from 8 to 10 kellars, a 50 dollar product rises from 400 to 500 kellars for a Kellamar buyer, up 25%, so exports fall. Imports priced at 6,000 kellars fall from 750 to 600 dollars. Depreciation does the reverse." loading="lazy">
+  <figcaption>A stronger dollar makes exports dearer (+25%) and imports cheaper.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-business-global-business--04-site-cost-with-tariff.webp" width="900" height="860" alt="Corlane costs 16 dollars a unit (9 labour, 6 materials, 1 transport). Kellamar costs 15 (5, 6, 4), saving 1 million on 1 million units. But Kellamar is outside the bloc and a 10% tariff on 15 adds 1.50, making 16.50, dearer than Corlane." loading="lazy">
+  <figcaption>A 10% tariff turns the cheaper site into the dearer one.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-business-business-and-its-environment--04-five-forces.webp" width="900" height="900" alt="Rivalry sits in the centre with arrows from entry threat, substitutes, suppliers and buyers. Strong forces mean low margins; weak forces give firms pricing power." loading="lazy">
+  <figcaption>Five forces are pressures on industry profit that you then apply to the business.</figcaption>
+</figure>
+
+
 ## 4.3.3 Global marketing
 
 | Term | Meaning |
@@ -109,12 +125,6 @@ Controlling MNCs: their power; political influence; legal control; consumer pres
 
 **Joint venture.** An 8m project shared 75:25 costs the partners 6m and 2m. The smaller partner gains access at lower risk but also less control.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/edexcel-ial-business-global-business--03-offshoring-payback-nine-months.webp" width="900" height="940" alt="A jacket costs 22 dollars at home and 18 abroad (15 plus 3 shipping), saving 4 dollars. At 500,000 units that is 2 million dollars a year. The 1.5 million dollar relocation cost is recovered after 9 months." loading="lazy">
-  <figcaption>A $1.5m relocation is repaid by $2m a year of savings in 9 months.</figcaption>
-</figure>
-
-
 ## Judgement prompts
 Use these to turn a list into an assessment.
 - **Expansion abroad:** compare the size of the market with the risk. A big market with unstable politics or volatile exchange rates may not justify entry.
@@ -124,12 +134,6 @@ Use these to turn a list into an assessment.
 - **Protectionism:** good for protected jobs in the short run, but higher prices for consumers and the risk of retaliation.
 - **MNC impact:** jobs and tax revenue against pressure on local firms and the environment. Say which stakeholder you are judging.
 - **Controlling MNCs:** the stronger the MNC, the more control depends on consumers, pressure groups and social media.
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/edexcel-ial-business-global-business--05-brisca-mnc-host-economy.webp" width="900" height="820" alt="Brisca Drinks employs 1,200 people at 5,400 dollars against a local average of 4,000, which is 35% higher, a payroll of 6.48 million dollars. On 10 million dollars profit taxed at 20%, tax revenue is 2 million dollars, though profit may be moved to low-tax countries." loading="lazy">
-  <figcaption>An MNC brings pay and tax revenue, but profit can move abroad.</figcaption>
-</figure>
-
 
 ## Linking the sections
 The four sections are one story. Globalisation (4.3.1) creates the conditions; push and pull factors (4.3.2) explain why a firm goes abroad; the marketing choices (4.3.3) decide how it sells once there; and the MNC sections (4.3.4) ask what its size means for host countries and stakeholders. In an extended answer, show one link across sections, for example: falling transport costs (4.3.1) make off-shoring (4.3.2) cheaper, but supply chain ethics (4.3.4) may then damage the brand.
@@ -176,8 +180,13 @@ Use data from Units 1, 2 and 3 as well: break-even, cash flow, and the strategic
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/edexcel-ial-business-global-business--02-dollar-rises-eight-to-ten.webp" width="900" height="896" alt="When the dollar rises from 8 to 10 kellars, a 50 dollar product rises from 400 to 500 kellars for a Kellamar buyer, up 25%, so exports fall. Imports priced at 6,000 kellars fall from 750 to 600 dollars. Depreciation does the reverse." loading="lazy">
-  <figcaption>A stronger dollar makes exports dearer (+25%) and imports cheaper.</figcaption>
+  <img src="https://img.marlbridge.com/edexcel-ial-business-global-business--03-offshoring-payback-nine-months.webp" width="900" height="940" alt="A jacket costs 22 dollars at home and 18 abroad (15 plus 3 shipping), saving 4 dollars. At 500,000 units that is 2 million dollars a year. The 1.5 million dollar relocation cost is recovered after 9 months." loading="lazy">
+  <figcaption>A $1.5m relocation is repaid by $2m a year of savings in 9 months.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-business-global-business--05-brisca-mnc-host-economy.webp" width="900" height="820" alt="Brisca Drinks employs 1,200 people at 5,400 dollars against a local average of 4,000, which is 35% higher, a payroll of 6.48 million dollars. On 10 million dollars profit taxed at 20%, tax revenue is 2 million dollars, though profit may be moved to low-tax countries." loading="lazy">
+  <figcaption>An MNC brings pay and tax revenue, but profit can move abroad.</figcaption>
 </figure>
 
 

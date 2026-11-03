@@ -84,6 +84,16 @@ In this specification the scalar product is written with a dot. The vector produ
   <figcaption>A line is one point plus any multiple of a direction vector, in 2D or 3D.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-vectors--08-scalar-product-angle.webp" width="900" height="917" alt="Vector u = (2, 1) with (1, 2), (-1, 2) and (-2, 1): scalar products 4, 0 and -3 give 36.9 (acute), 90 and 126.9 degrees (obtuse). For lines, directions (2, 1, -2) and (1, -4, 8) give cos = -2/3: 131.8 degrees between the vectors, 48.2 degrees between the lines." loading="lazy">
+  <figcaption>The sign of u.v tells you whether the angle is acute, right or obtuse; for two lines quote the acute angle.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-vectors--09-foot-of-perpendicular.webp" width="900" height="957" alt="Point P(9, 1) and the line through A(1, 2) with direction (2, 1). Solving PX.d = 5t - 15 = 0 gives t = 3 and X = (7, 5); PX = (-2, 4) is perpendicular to the line and has length 2 root 5. Other points on the line are further from P." loading="lazy">
+  <figcaption>The closest point on a line is where the vector to it is perpendicular to the direction, so set PX.d = 0.</figcaption>
+</figure>
+
 
 ## Small worked reminders
 
@@ -143,6 +153,12 @@ So A, B and C lie on one straight line. State the multiple and the shared point 
 - The diagonals of a rhombus are perpendicular, so you can test a·b = 0 for the two diagonal vectors.
 - The diagonals of any parallelogram bisect each other, so both have the same midpoint.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-vectors--03-adding-vectors.webp" width="900" height="1161" alt="a = (2, 5) and b = (4, -3). Placing b at the end of a gives a + b = (6, 2) (triangle law); b and a from a common point give the same diagonal (parallelogram law). a - b = (-2, 8) runs from the tip of b to the tip of a." loading="lazy">
+  <figcaption>Add head to tail or complete the parallelogram; a - b joins the tip of b to the tip of a.</figcaption>
+</figure>
+
+
 ### Writing answers
 
 - Say "end minus start" in your head before you write each vector.
@@ -164,17 +180,6 @@ So A, B and C lie on one straight line. State the multiple and the shared point 
 - **Scalar product or magnitude.** a·a = |a|², which is a quick way to get a magnitude. The scalar product itself is a number.
 - **Vector or unit vector.** A vector of magnitude 1 only. Divide by |a|.
 - **Zero scalar product.** a·b = 0 means perpendicular only when both vectors are non-zero.
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-vectors--02-direction-quadrant.webp" width="900" height="1269" alt="Vectors -3i + 7j and 3i - 7j from the origin. Both have the calculator angle 66.8 degrees, but their directions anticlockwise from i are 113.2 degrees (second quadrant) and 293.2 degrees (fourth quadrant)." loading="lazy">
-  <figcaption>The calculator gives only the acute angle, so sketch the vector and adjust for its quadrant.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-vectors--09-foot-of-perpendicular.webp" width="900" height="957" alt="Point P(9, 1) and the line through A(1, 2) with direction (2, 1). Solving PX.d = 5t - 15 = 0 gives t = 3 and X = (7, 5); PX = (-2, 4) is perpendicular to the line and has length 2 root 5. Other points on the line are further from P." loading="lazy">
-  <figcaption>The closest point on a line is where the vector to it is perpendicular to the direction, so set PX.d = 0.</figcaption>
-</figure>
-
 
 ## Quick self-test
 
@@ -202,6 +207,12 @@ So A, B and C lie on one straight line. State the multiple and the shared point 
 9. i: 2 + t = 2 + 2s; j: 1 + t = 3; so t = 2, s = 1. k: 2 on the left and 3 − 1 = 2 on the right. **Yes, at (4, 3, 2).**
 10. **(2, 3, −1)**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-vectors--02-direction-quadrant.webp" width="900" height="1269" alt="Vectors -3i + 7j and 3i - 7j from the origin. Both have the calculator angle 66.8 degrees, but their directions anticlockwise from i are 113.2 degrees (second quadrant) and 293.2 degrees (fourth quadrant)." loading="lazy">
+  <figcaption>The calculator gives only the acute angle, so sketch the vector and adjust for its quadrant.</figcaption>
+</figure>
+
+
 ## Where marks are usually lost
 
 - Writing AB as a − b, which is really BA. Say "end minus start" every time.
@@ -213,12 +224,6 @@ So A, B and C lie on one straight line. State the multiple and the shared point 
 - Not showing the scalar product working when asked to show perpendicularity: state a·b = 0 and the arithmetic.
 - Calling lines skew without first ruling out parallel.
 - Dropping a minus sign in a component when a coordinate is negative.
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-vectors--08-scalar-product-angle.webp" width="900" height="917" alt="Vector u = (2, 1) with (1, 2), (-1, 2) and (-2, 1): scalar products 4, 0 and -3 give 36.9 (acute), 90 and 126.9 degrees (obtuse). For lines, directions (2, 1, -2) and (1, -4, 8) give cos = -2/3: 131.8 degrees between the vectors, 48.2 degrees between the lines." loading="lazy">
-  <figcaption>The sign of u.v tells you whether the angle is acute, right or obtuse; for two lines quote the acute angle.</figcaption>
-</figure>
-
 
 ## Official syllabus
 

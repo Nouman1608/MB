@@ -43,6 +43,11 @@ These notes condense outcomes 5.1.1(a) to 5.1.1(d) and 5.1.2(a) to 5.1.2(b) of t
 Peptide hormones bind to receptors on the surface membrane. Steroid hormones can cross the membrane and bind to receptors inside the cell.
 
 <figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-homeostasis--04-pct-reabsorption.webp" width="900" height="940" alt="One proximal tubule cell between filtrate (left) and blood (right) with microvilli, mitochondria and tight junctions. Step 1: a sodium-potassium pump moves Na+ out of the cell using ATP. Step 2: Na+ diffuses in through a co-transporter carrying glucose. Step 3: glucose leaves by facilitated diffusion. Step 4: water follows by osmosis." loading="lazy">
+  <figcaption>Active transport of sodium out of the cell drives co-transport of glucose in, and water follows by osmosis.</figcaption>
+</figure>
+
+<figure class="topic-figure">
   <img src="https://img.marlbridge.com/a-level-biology-9700-homeostasis--08-second-messenger.webp" width="900" height="1040" alt="A liver cell membrane with glucagon outside. Glucagon binds a receptor; a G-protein is activated; adenylyl cyclase makes cAMP from ATP; cAMP activates protein kinase A; an enzyme cascade amplifies the signal (for example 50 at each of three stages gives 125 000); glycogen is broken down to glucose." loading="lazy">
   <figcaption>Glucagon never enters the cell: cAMP relays the message and the enzyme cascade amplifies it.</figcaption>
 </figure>

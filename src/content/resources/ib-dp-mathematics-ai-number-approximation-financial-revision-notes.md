@@ -159,13 +159,13 @@ Sales over five weeks are 62, 70, 77, 86, 93. The differences are 8, 7, 9, 7, so
 - Choose accuracy that suits the data: money to the nearest cent, people as whole numbers.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ib-dp-mathematics-ai-number-approximation-financial--03-geometric-salary.webp" width="900" height="930" alt="A bar chart of a salary rising 3% a year for 8 years, each bar showing the starting 38 000 plus growth, labelled with the power of r used (r^0 to r^7). Year 8 is 38 000 x 1.03^7, about 46 700 pounds, and the 8-year total is about 338 000 pounds. A warning says the power is 7, not 8." loading="lazy">
-  <figcaption>Year n uses r^(n-1); the sum of the first n terms is a geometric series.</figcaption>
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-ai-number-approximation-financial--04-compound-real-value.webp" width="900" height="975" alt="A graph of 6000 euros at 3.6% per year compounded monthly for 5 years rising to 7181.37 euros, with the real value after 2.1% inflation rising more slowly to 6472.60 euros. The vertical axis starts at 5500. The key shows the formula and the TVM settings N = 60, I% = 3.6, PV = -6000, P/Y = C/Y = 12." loading="lazy">
+  <figcaption>Compounding monthly grows the money; dividing by the inflation factor gives its value in today's money.</figcaption>
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ib-dp-mathematics-ai-number-approximation-financial--04-compound-real-value.webp" width="900" height="975" alt="A graph of 6000 euros at 3.6% per year compounded monthly for 5 years rising to 7181.37 euros, with the real value after 2.1% inflation rising more slowly to 6472.60 euros. The vertical axis starts at 5500. The key shows the formula and the TVM settings N = 60, I% = 3.6, PV = -6000, P/Y = C/Y = 12." loading="lazy">
-  <figcaption>Compounding monthly grows the money; dividing by the inflation factor gives its value in today's money.</figcaption>
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-ai-number-approximation-financial--08-loan-amortization.webp" width="900" height="1020" alt="A graph of the amount owed on a 15 000 pound loan falling to zero over 48 monthly payments, with a bar showing total repaid 16 909.44 pounds as 15 000 borrowed plus 1909.44 interest. TVM settings N = 48, I% = 6, PV = 15 000, FV = 0, P/Y = C/Y = 12 give PMT = -352.275, so the payment is 352.28 pounds." loading="lazy">
+  <figcaption>Equal monthly payments clear the loan; the extra paid is interest.</figcaption>
 </figure>
 
 
@@ -213,8 +213,23 @@ Sales over five weeks are 62, 70, 77, 86, 93. The differences are 8, 7, 9, 7, so
 12. GDC polynomial solver: **x = −2.11, 0.254, 1.86** (3 s.f.)
 
 <figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-ai-number-approximation-financial--03-geometric-salary.webp" width="900" height="930" alt="A bar chart of a salary rising 3% a year for 8 years, each bar showing the starting 38 000 plus growth, labelled with the power of r used (r^0 to r^7). Year 8 is 38 000 x 1.03^7, about 46 700 pounds, and the 8-year total is about 338 000 pounds. A warning says the power is 7, not 8." loading="lazy">
+  <figcaption>Year n uses r^(n-1); the sum of the first n terms is a geometric series.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-ai-number-approximation-financial--05-depreciation.webp" width="900" height="920" alt="A bar chart of a car worth 24 500 pounds losing 14% a year, value 24 500 x 0.86^n for n = 0 to 8. A dashed line marks 10 000 pounds. Year 5 is 11 525.46 (above) and year 6 is 9911.90 (below), so the value first falls below 10 000 at the end of year 6." loading="lazy">
+  <figcaption>Depreciation multiplies by 0.86 each year; a table finds when the value passes 10 000.</figcaption>
+</figure>
+
+<figure class="topic-figure">
   <img src="https://img.marlbridge.com/ib-dp-mathematics-ai-number-approximation-financial--06-logarithm-power.webp" width="900" height="1220" alt="Two graphs. y = 10^x reaches 5000 at x = 3.70, so x = log 5000. y = e^x reaches 12 at x = 2.48, so x = ln 12. A further example is pH = -log(3.2 x 10^-5) = 4.49. An HL-only tag notes that the laws of logarithms are not needed here." loading="lazy">
   <figcaption>a^x = b is the same as x = log_a b; the GDC evaluates log and ln.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-ai-number-approximation-financial--07-bounds-percentage-error.webp" width="900" height="1060" alt="Two number lines. The radius 3.4 cm to one decimal place lies in 3.35 &lt;= r &lt; 3.45. The areas from the lower bound, measured value and upper bound are 35.257, 36.317 and 37.393 square centimetres. The percentage errors are 2.88% against the upper and 3.01% against the lower, so the maximum is about 3.01%." loading="lazy">
+  <figcaption>Bounds for the radius give bounds for the area; the maximum percentage error divides by the smaller true value.</figcaption>
 </figure>
 
 

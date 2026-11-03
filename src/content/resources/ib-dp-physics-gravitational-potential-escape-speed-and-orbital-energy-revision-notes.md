@@ -29,17 +29,6 @@ These notes condense the additional higher level (AHL) part of D.1 Gravitational
 - **Equipotential surface**: a surface on which Vg has the same value everywhere.
 - **Escape speed**: the speed at a given point that lets a body reach infinity with no kinetic energy left (no drag, no further push).
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ib-dp-physics-gravitational-potential-escape-speed-and-orbital-energy--01-potential-and-energy.webp" width="900" height="900" alt="Graph of gravitational potential Vg against distance from the centre of Ganymede. Vg is negative everywhere and rises towards zero at infinity. A 900 kg probe at 1.00 x 10^7 m has Vg of -9.87 x 10^5 J per kg and Ep of -8.88 x 10^8 J, which is the energy needed to lift it to infinity." loading="lazy">
-  <figcaption>Vg = -GM/r is negative everywhere and rises to zero at infinity.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ib-dp-physics-gravitational-potential-escape-speed-and-orbital-energy--06-escape-speed.webp" width="900" height="940" alt="Energy per kg at Ganymede surface for three speeds. Ep is -3.75 x 10^6 J per kg in each. At 1.94 km per s total is -1.88 (bound), at 2.74 km per s total is zero (escape), and at 6.0 km per s total is +14.2, leaving 5.34 km per s far away." loading="lazy">
-  <figcaption>Escape speed makes the total energy zero, and equals root 2 times the orbital speed.</figcaption>
-</figure>
-
-
 ## Formulas
 
 | Quantity | Result | Notes |
@@ -73,6 +62,22 @@ These notes condense the additional higher level (AHL) part of D.1 Gravitational
 **Launch from rest on a non-rotating planet to a circular orbit**
 1. Energy needed = E(orbit) - E(surface) = GMm(1/R - 1/2r).
 2. Split it: Ek at orbit = GMm/2r; the rest raises Ep.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-gravitational-potential-escape-speed-and-orbital-energy--03-work-and-potential-difference.webp" width="900" height="890" alt="Vg graph for Neptune with an arrow from R to 2R showing a rise of 1.383 x 10^8 J per kg. Bars compare the correct work, 4.84 x 10^10 J, with mgh using surface g, 9.68 x 10^10 J, which is twice as big." loading="lazy">
+  <figcaption>Use W = m times the change in Vg over large distances; mgh overestimates because g falls with height.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-gravitational-potential-escape-speed-and-orbital-energy--06-escape-speed.webp" width="900" height="940" alt="Energy per kg at Ganymede surface for three speeds. Ep is -3.75 x 10^6 J per kg in each. At 1.94 km per s total is -1.88 (bound), at 2.74 km per s total is zero (escape), and at 6.0 km per s total is +14.2, leaving 5.34 km per s far away." loading="lazy">
+  <figcaption>Escape speed makes the total energy zero, and equals root 2 times the orbital speed.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-gravitational-potential-escape-speed-and-orbital-energy--07-orbital-energy.webp" width="900" height="920" alt="Graph of Ek, Ep and E against orbital radius for a 640 kg satellite around Neptune. Ek = -E and Ep = 2E. Moving from 2.49 to 4.00 x 10^7 m raises E from -8.74 to -5.44 x 10^10 J, so 3.30 x 10^10 J is supplied." loading="lazy">
+  <figcaption>Ek = GMm/2r, Ep = -GMm/r, E = -GMm/2r; a bigger orbit has E nearer zero.</figcaption>
+</figure>
+
 
 ## Equipotentials and field lines
 
@@ -121,12 +126,6 @@ Drag is small, so treat the orbit as a slow spiral through near-circular orbits.
 **Escape from orbit.** At any circular orbit vesc = √2 × vorbital, so an increase in speed of 41% from orbital speed is enough to escape. The energy needed is |E| = GMm/2r, equal to the satellite's Ek.
 
 **Launch energetics with numbers.** For the same planet (GM = 1.2 × 10¹³, R = 4.0 × 10⁶ m), a 100 kg satellite is launched from rest at the surface into a circular orbit of radius 5.0 × 10⁶ m. The surface energy is -GMm/R = -3.0 × 10⁸ J. The orbit energy is -GMm/2r = -1.2 × 10⁸ J. The input is 1.8 × 10⁸ J. Of this, 1.2 × 10⁸ J is the orbital Ek and 6.0 × 10⁷ J is the rise in Ep (from -3.0 × 10⁸ J to -2.4 × 10⁸ J).
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ib-dp-physics-gravitational-potential-escape-speed-and-orbital-energy--07-orbital-energy.webp" width="900" height="920" alt="Graph of Ek, Ep and E against orbital radius for a 640 kg satellite around Neptune. Ek = -E and Ep = 2E. Moving from 2.49 to 4.00 x 10^7 m raises E from -8.74 to -5.44 x 10^10 J, so 3.30 x 10^10 J is supplied." loading="lazy">
-  <figcaption>Ek = GMm/2r, Ep = -GMm/r, E = -GMm/2r; a bigger orbit has E nearer zero.</figcaption>
-</figure>
-
 
 ## Reading graphs
 
@@ -188,6 +187,12 @@ Use GM = 1.2 × 10¹³ N m² kg⁻¹ for a planet, r measured from its centre, w
 10. The orbit shrinks and the speed increases.
 11. ΔVg = 0, so W = mΔVg = 0; the field is perpendicular to the surface.
 12. **√2** (about 1.41).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-gravitational-potential-escape-speed-and-orbital-energy--01-potential-and-energy.webp" width="900" height="900" alt="Graph of gravitational potential Vg against distance from the centre of Ganymede. Vg is negative everywhere and rises towards zero at infinity. A 900 kg probe at 1.00 x 10^7 m has Vg of -9.87 x 10^5 J per kg and Ep of -8.88 x 10^8 J, which is the energy needed to lift it to infinity." loading="lazy">
+  <figcaption>Vg = -GM/r is negative everywhere and rises to zero at infinity.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

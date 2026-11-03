@@ -197,6 +197,21 @@ If any part of a velocity-time graph goes below the axis, that part is motion in
   <figcaption>Area below the axis is motion the opposite way: it reduces displacement but adds to distance.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/kinematics--04-speed-time-area.webp" width="900" height="930" alt="Speed rises from 0 to 10 m/s in 5 s then stays constant for 8 s. Gradient of the slope is 2 m/s squared. Triangle area 25 m plus rectangle area 80 m gives 105 m." loading="lazy">
+  <figcaption>Gradient gives acceleration and area gives distance travelled.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/kinematics--05-same-shape.webp" width="900" height="975" alt="Four small graphs compare the same line shapes. A sloping line is constant speed on a distance-time graph but constant acceleration on a speed-time graph. A flat line is rest on distance-time but constant speed on speed-time." loading="lazy">
+  <figcaption>The same line shape means different things on the two graphs.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-physics-motion-forces-and-energy--02-speed-time-graph.webp" width="900" height="1010" alt="Speed rises from 0 to 10 m/s in 5 s, stays at 10 m/s for 10 s, then falls to 0 in 5 s. The gradients are 2, 0 and -2 m/s squared (acceleration, Extended). The area under the graph is 25 + 100 + 25 = 150 m, the distance travelled (Core)." loading="lazy">
+  <figcaption>The area under a speed-time graph is the distance travelled; its gradient is the acceleration.</figcaption>
+</figure>
+
 
 ## Average speed for non-uniform motion (P2.1g)
 

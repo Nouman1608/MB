@@ -72,12 +72,6 @@ constant at a specific temperature and pressure; the combined and
 ideal gas equations
 (pV = nRT)
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ib-dp-chemistry-structure-1--03-isotopes.webp" width="900" height="740" alt="Three nuclei show magnesium-24, -25 and -26, each with 12 protons and 12, 13 and 14 neutrons. Same proton number means the same element and chemistry; different neutron number means a different mass." loading="lazy">
-  <figcaption>Isotopes of an element have the same protons but different numbers of neutrons.</figcaption>
-</figure>
-
-
 ## How to approach it
 
 For 1.2, keep neutron count precise: neutrons equal mass number minus
@@ -255,3 +249,9 @@ Programme, first assessment 2025 (published February 2023, updated May
 same source is already cited by the [full syllabus
 guide](/resources/ib-dp-chemistry-syllabus-guide/). Verified
 2026-09-06.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-structure-1--03-isotopes.webp" width="900" height="740" alt="Three nuclei show magnesium-24, -25 and -26, each with 12 protons and 12, 13 and 14 neutrons. Same proton number means the same element and chemistry; different neutron number means a different mass." loading="lazy">
+  <figcaption>Isotopes of an element have the same protons but different numbers of neutrons.</figcaption>
+</figure>
+

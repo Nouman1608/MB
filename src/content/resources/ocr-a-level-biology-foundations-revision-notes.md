@@ -108,6 +108,17 @@ Water's hydrogen bonding underpins its biological roles (solvent, transport medi
 
 Nucleotide structure and how nucleotides combine to form DNA and RNA; the role of nucleic acids in storing and transmitting genetic information.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-nucleic-acids-and-protein-synthesis--01-nucleotide-chain.webp" width="900" height="1100" alt="Three nucleotides are stacked one below another. Each has a pentose sugar, a phosphate and a nitrogenous base. The 3′ carbon of one sugar is joined through a phosphate to the 5′ carbon of the next sugar by a phosphodiester bond, releasing one water molecule per bond. The top end has a free phosphate (5′) and the bottom end a free OH (3′); n nucleotides give n minus 1 bonds." loading="lazy">
+  <figcaption>Each condensation reaction joins two nucleotides with a phosphodiester bond and releases one water molecule.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-nucleic-acids-and-protein-synthesis--03-dna-helix.webp" width="900" height="880" alt="A double helix of two strands with the sugar-phosphate backbones outside and base pairs inside. One turn has 10 base pairs and measures 3.4 nanometres. A flattened ladder shows the strands are antiparallel: one runs 5′ to 3′ downwards, the other 3′ to 5′, with ATGCCG pairing with TACGGC." loading="lazy">
+  <figcaption>The two strands run in opposite directions and wind round each other, with base pairs inside.</figcaption>
+</figure>
+
+
 ## Worked example: rearranging the magnification formula for object size
 
 An electron micrograph shows a mitochondrion at a magnification of 12,000x, measuring 3.6 cm across the image. Find the real size of the mitochondrion.
@@ -171,6 +182,17 @@ The cytoskeleton provides mechanical strength, aids transport, and enables cell 
 6. An electron micrograph shows a structure at 8,000x magnification, measuring 4 cm across. Find its real size.
 
 **Answers:** 1. Convert 8 mm to 8,000 μm; magnification = 8,000 ÷ 4 = 2,000×. 2. Magnification is how much bigger an image appears; resolution is how much fine detail can be distinguished — a higher magnification does not guarantee higher resolution. 3. Condensation reaction; releases water. 4. Any two: presence of a membrane-bound nucleus, membrane-bound organelles, larger typical cell size, more complex internal organisation. 5. Water's polarity and hydrogen bonding allow it to surround and interact with polar and ionic substances, dissolving them. 6. Convert 4 cm to 40,000 um; object size = 40,000 ÷ 8,000 = 5 um.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-nucleic-acids-and-protein-synthesis--06-transcription-splicing.webp" width="900" height="1255" alt="RNA polymerase copies the template strand into mRNA using complementary base pairing with A pairing to U. Example: template TAC AAG CCG TTG ATT gives AUG UUC GGC AAC UAA, which matches the non-transcribed strand with U for T. In eukaryotes a 3,180 nucleotide primary transcript has its four introns removed and the exons joined to give a 1,550 nucleotide mRNA, which leaves the nucleus through a nuclear pore." loading="lazy">
+  <figcaption>mRNA is a copy of the template strand; in eukaryotes the introns are removed before mRNA leaves the nucleus.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-nucleic-acids-and-protein-synthesis--07-translation-ribosome.webp" width="900" height="1022" alt="mRNA AUG UUC GGC AAC UAA passes through a ribosome. The ribosome holds two tRNAs, each carrying one amino acid with an anticodon complementary to its codon: AAG pairs with UUC (Phe) and CCG pairs with GGC (Gly). A peptide bond forms between amino acids, the first tRNA leaves, and the ribosome moves one codon along. The codons code for Met, Phe, Gly and Asn, and UAA is a stop codon." loading="lazy">
+  <figcaption>tRNA anticodons pair with mRNA codons on the ribosome, adding one amino acid at a time until a stop codon.</figcaption>
+</figure>
+
 
 ## How this connects forward
 

@@ -59,6 +59,11 @@ Handy conversions: 1 eV = 1.60 × 10⁻¹⁹ J. With the values above, hc = 1.99
 **Reminder.** A 2.0 mW beam of 500 nm light: E = 3.98 × 10⁻¹⁹ J per photon, so N = 2.0 × 10⁻³ / 3.98 × 10⁻¹⁹ = 5.0 × 10¹⁵ s⁻¹.
 
 <figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-quantum-physics--06-aphy-quantum-antimatter.webp" width="900" height="1230" alt="An electron and positron at rest annihilate into two 0.511 MeV photons going opposite ways. A 3.50 MeV photon makes an electron-positron pair, using 1.022 MeV as rest energy and leaving 2.478 MeV as kinetic energy, 1.24 MeV each. A 0.80 MeV photon is below the 1.022 MeV minimum." loading="lazy">
+  <figcaption>Annihilation and pair production share energy as rest energy and kinetic energy.</figcaption>
+</figure>
+
+<figure class="topic-figure">
   <img src="https://img.marlbridge.com/a-physics-quantum-physics--08-aphy-quantum-energy-levels.webp" width="900" height="1230" alt="Hydrogen energy levels at -13.6, -3.40, -1.51 and -0.85 eV. Falls from n=3 and n=4 to n=2 give 658 nm red and 488 nm blue photons and n=2 to 1 gives 122 nm ultraviolet. A continuous spectrum is shown beside the hydrogen line spectrum with lines at the computed wavelengths." loading="lazy">
   <figcaption>Each spectral line is one photon whose energy equals a gap between two levels.</figcaption>
 </figure>

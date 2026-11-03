@@ -214,6 +214,17 @@ Sample B is the most variable. The ranges for A and C do not overlap, so their d
 9. 23 to 27.
 10. To remove bias, so every position has an equal chance of selection.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-classification-biodiversity-and-conservation--05-lincoln-index.webp" width="900" height="1010" alt="Catch 1 shows 48 marked beetles released. Catch 2 shows 60 beetles of which 12 are marked, one in five. So the 48 marked are one fifth of the population, giving N = 5 x 48 = 240, the same as 48 x 60 / 12." loading="lazy">
+  <figcaption>The marked fraction in the second catch tells you what fraction of the population the first catch was.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-classification-biodiversity-and-conservation--07-spearman-correlation.webp" width="900" height="1050" alt="A scatter of eight quadrats shows moss cover falling as light rises, with a downward trend line. On a scale from -1 to +1, rs = -0.952 lies beyond the critical value 0.738 for n = 8 at p = 0.05, so the negative correlation is significant, but it does not show cause." loading="lazy">
+  <figcaption>A significant negative correlation, which still does not prove cause.</figcaption>
+</figure>
+
+
 ## Where marks are usually lost
 
 - Leaving out "fertile" in the definition of a species.

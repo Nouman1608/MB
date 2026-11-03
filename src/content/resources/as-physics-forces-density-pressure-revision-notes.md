@@ -124,17 +124,6 @@ Note that V is the volume of fluid **displaced**, not necessarily the object's t
 
 An object floats if its **average density** is less than the fluid's — which is why a steel ship floats: its overall density including the enclosed air is below that of water, even though steel itself is denser. If the hull is breached and fills with water, the average density rises above that of water and the ship sinks.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/as-physics-forces-density-pressure-revision-notes--07-upthrust-origin.webp" width="900" height="950" alt="A 0.20 m cube has its top 0.30 m and its bottom 0.50 m below the surface. Force down on the top is 118 N, force up on the bottom is 196 N, net upthrust 78.5 N, equal to rho g V." loading="lazy">
-  <figcaption>Upthrust arises because pressure increases with depth.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/as-physics-forces-density-pressure-revision-notes--08-floating-average-density.webp" width="900" height="1030" alt="A 800 kg/m3 cube floats 80% submerged because upthrust equals weight (7.85 N). A hull of 5000 kg enclosing 10 m3 has average density 500 and floats; flooded to 11 000 kg its average density is 1100 and it sinks." loading="lazy">
-  <figcaption>A body floats when its average density is below the fluid density.</figcaption>
-</figure>
-
-
 ## Exam traps
 
 - Omitting "perpendicular" from the definition of a moment.
@@ -157,3 +146,14 @@ An object floats if its **average density** is less than the fluid's — which i
 7. How can three coplanar forces in equilibrium be represented graphically?
 
 **Answers:** 1. The product of the force and the perpendicular distance from the pivot to the line of action of the force. 2. The resultant force must be zero and the resultant moment about any point must be zero. 3. Pressure in a fluid is given by ρgh, which depends only on depth, density and gravitational field strength. 4. Upthrust equals the weight of fluid displaced; it arises because pressure increases with depth, so the upward pressure on the underside exceeds the downward pressure on the top. 5. Its average density, including the enclosed air, is less than that of water, so it displaces its own weight before becoming fully submerged. 6. 40 × 0.5 = 25 × d, so d = 20 ÷ 25 = 0.8 m. 7. As a closed vector triangle, with each force drawn as an arrow tip-to-tail, returning to the starting point.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/as-physics-forces-density-pressure-revision-notes--07-upthrust-origin.webp" width="900" height="950" alt="A 0.20 m cube has its top 0.30 m and its bottom 0.50 m below the surface. Force down on the top is 118 N, force up on the bottom is 196 N, net upthrust 78.5 N, equal to rho g V." loading="lazy">
+  <figcaption>Upthrust arises because pressure increases with depth.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/as-physics-forces-density-pressure-revision-notes--08-floating-average-density.webp" width="900" height="1030" alt="A 800 kg/m3 cube floats 80% submerged because upthrust equals weight (7.85 N). A hull of 5000 kg enclosing 10 m3 has average density 500 and floats; flooded to 11 000 kg its average density is 1100 and it sinks." loading="lazy">
+  <figcaption>A body floats when its average density is below the fluid density.</figcaption>
+</figure>
+

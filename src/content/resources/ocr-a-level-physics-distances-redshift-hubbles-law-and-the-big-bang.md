@@ -151,6 +151,11 @@ Each v/d is close to 72 (72, 73, 72, 72.5, 71.6). A best-fit line through the or
 **Why this supports an expanding universe.** Every distant galaxy recedes, and the speed is proportional to distance. This is just what a uniform expansion of space gives: the gaps between galaxies grow, and a more distant galaxy has more space between it and us to stretch. Because the Cosmological principle says no place is special, an observer in any galaxy would see the same pattern. Expansion therefore has no centre. Picture dots on an inflating balloon: from any dot, all others move away, faster for those farther away. The red shift is better described as the stretching of light's wavelength as space expands, though at A level it is analysed with the Doppler equation.
 
 <figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-astronomy-and-cosmology--02-aphy-astro-inverse-square.webp" width="900" height="1130" alt="A star emits light in a widening cone. At 2d the same light covers 4 times the area and at 3d 9 times, so the flux falls to F/4 and F/9. A standard candle has known L, so measuring F gives d; the worked example gives 5.6e18 m." loading="lazy">
+  <figcaption>Flux falls as 1/d^2, so a standard candle of known luminosity gives its distance.</figcaption>
+</figure>
+
+<figure class="topic-figure">
   <img src="https://img.marlbridge.com/a-physics-astronomy-and-cosmology--07-aphy-astro-hubble.webp" width="900" height="1140" alt="Speed against distance is a straight line through the origin with gradient H0 = 70 km/s/Mpc, including the worked example 85.5 Mpc at 5990 km/s. Farther galaxies recede proportionally faster. H0 = 2.3e-18 per second, so age is about 1/H0 = 4.4e17 s or 1.4e10 years." loading="lazy">
   <figcaption>Recession speed is proportional to distance (v = H0 d), and 1/H0 estimates the age of the universe.</figcaption>
 </figure>

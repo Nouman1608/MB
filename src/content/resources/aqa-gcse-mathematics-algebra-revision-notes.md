@@ -57,6 +57,27 @@ Linear, quadratic, simple cubic and reciprocal graphs are Foundation; exponentia
 
 **Higher tier also:** gradients/areas under graphs (kinematics, financial contexts), equation of a circle centred at the origin, tangent to a circle.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-mathematics-algebra--03-circle-tangent-higher.webp" width="900" height="1030" alt="Circle x squared plus y squared = 25 with the point P (3, 4). The radius to P has gradient 4/3; the tangent at P is perpendicular with gradient minus 3/4 (product minus 1), giving 3x + 4y = 25." loading="lazy">
+  <figcaption>Higher tier: the tangent at (3, 4) is perpendicular to the radius, giving 3x + 4y = 25.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-coordinate-geometry--04-y-mx-c.webp" width="900" height="990" alt="The line y = 2x - 1 crosses the y-axis at (0, -1) so c = -1. Between (1, 1) and (3, 5) it goes 2 across and 4 up, so m = 2." loading="lazy">
+  <figcaption>m is the gradient and c is where the line crosses the y-axis.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-algebra-and-graphs--04-inequality-region.webp" width="900" height="890" alt="A graph with a solid line y = 1, a dashed line y = x and a solid line x + y = 6 bounds a shaded triangle with corners (1, 1), (5, 1) and (3, 3). A test point inside satisfies all three inequalities. Solid lines are included; dashed lines are not." loading="lazy">
+  <figcaption>The region is where all the inequalities are true at once.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-exponential-growth-decay-and-surds--01-growth-vs-linear.webp" width="900" height="780" alt="A graph of a population of 25 000 growing 2.4% a year for 8 years. The curve reaches about 30 223, while adding 600 a year in a straight line reaches only 29 800. The curve pulls ahead because each percentage is taken of the current value." loading="lazy">
+  <figcaption>Exponential growth pulls ahead of linear growth because each year's percentage is taken of a larger value.</figcaption>
+</figure>
+
+
 ## Solving equations and inequalities (3.2.3)
 
 | Method | When |
@@ -78,6 +99,11 @@ Linear, quadratic, simple cubic and reciprocal graphs are Foundation; exponentia
   <figcaption>Do the same to both sides and the equation stays balanced.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-algebra-and-graphs--02-simultaneous-lines.webp" width="900" height="940" alt="The lines 2x + y = 7 and x − y = 2 are graphed and cross at (3, 1). Adding the equations gives 3x = 9, so x = 3, and then y = 1. The crossing point is the one pair of values that fits both equations." loading="lazy">
+  <figcaption>The solution of simultaneous equations is where their graphs cross.</figcaption>
+</figure>
+
 
 ## Sequences (3.2.4)
 
@@ -92,6 +118,17 @@ Linear, quadratic, simple cubic and reciprocal graphs are Foundation; exponentia
 Recognising and using Fibonacci-type, quadratic and simple geometric sequences is **Foundation** (A24); other sequences, a surd common ratio and the nth term of a quadratic sequence (A25) are **Higher**.
 
 **nth term of a linear sequence:** the coefficient of n is always the **common difference** — check quickly against the first few terms rather than memorising per question.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-algebra-and-graphs--05-linear-nth-term.webp" width="900" height="950" alt="The sequence 5, 8, 11, 14 rises by 3 each time. On a graph the terms lie on a straight line rising 3 per step and reaching 2 at n = 0. So the nth term is 3n + 2." loading="lazy">
+  <figcaption>A constant difference d gives dn plus the value the line has at n = 0.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-algebra-and-graphs--06-quadratic-nth-term.webp" width="900" height="980" alt="The sequence 2, 5, 10, 17, 26 has first differences 3, 5, 7, 9 and constant second difference 2. Dot squares show each term as n squared plus one extra dot, so the nth term is n squared plus 1." loading="lazy">
+  <figcaption>A constant second difference means a quadratic nth term.</figcaption>
+</figure>
+
 
 ## Worked example: nth term
 
@@ -153,17 +190,6 @@ Finding the second differences first, using them to identify the n² coefficient
 - Forgetting which content is **Higher-tier-only** — wastes revision time (Foundation) or leaves gaps (Higher).
 - Memorising nth-term formulas per question instead of deriving from the common difference.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/aqa-gcse-mathematics-algebra--01-identity-vs-equation.webp" width="900" height="1070" alt="Two graphs. y = 2x + 3x and y = 5x lie exactly on one line, so the statement is true for every x: an identity. y = 2x + 3 and y = 11 cross at one point, x = 4, so 2x + 3 = 11 is an equation true only for that value." loading="lazy">
-  <figcaption>An identity matches for every x; an equation for only one value.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/aqa-gcse-mathematics-algebra--02-gradient-rearranged-line.webp" width="900" height="1070" alt="Dividing 2y = 4x + 6 by 2 gives y = 2x + 3. The graph shows the line with a triangle one across and two up, gradient 2, crossing the y-axis at 3. A dashed steeper line y = 4x + 3 shows the slip of reading the gradient as 4." loading="lazy">
-  <figcaption>Rearrange to y = mx + c before reading the gradient: 2y = 4x + 6 has gradient 2.</figcaption>
-</figure>
-
-
 ## Quick self-test
 
 1. Simplify 4a × 3b, and rearrange 2y = 6x − 8 to identify the gradient and y-intercept.
@@ -174,16 +200,21 @@ Finding the second differences first, using them to identify the n² coefficient
 
 **Answers:** 1. 4a × 3b = 12ab; 2y = 6x − 8 gives y = 3x − 4, so the gradient is 3 and the y-intercept is −4. 2. (x − 3)(x + 2) = 0, so x = 3 or x = −2. 3. The common difference is 4, and 4n gives 4, 8, 12, 16, each 3 less than the sequence, so the nth term is 4n + 3. 4. 2x + 2 = x² − 1 gives x² − 2x − 3 = 0, so (x − 3)(x + 1) = 0 and x = 3 or x = −1; substituting back gives the solutions (3, 8) and (−1, 0). 5. Any three of: factorising ax² + bx + c; solving quadratics by completing the square or the quadratic formula; perpendicular lines; exponential and trigonometric graphs; inverse and composite functions; algebraic proof; the equation of a circle and its tangent; linear/quadratic simultaneous equations; iteration; quadratic inequalities; the nth term of a quadratic sequence.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/aqa-gcse-mathematics-algebra--03-circle-tangent-higher.webp" width="900" height="1030" alt="Circle x squared plus y squared = 25 with the point P (3, 4). The radius to P has gradient 4/3; the tangent at P is perpendicular with gradient minus 3/4 (product minus 1), giving 3x + 4y = 25." loading="lazy">
-  <figcaption>Higher tier: the tangent at (3, 4) is perpendicular to the radius, giving 3x + 4y = 25.</figcaption>
-</figure>
-
-
 ## Related resources
 
 - [Algebra study guide](/resources/aqa-gcse-mathematics-algebra/)
 - [Algebra practice questions](/resources/aqa-gcse-mathematics-algebra-practice/)
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-mathematics-algebra--01-identity-vs-equation.webp" width="900" height="1070" alt="Two graphs. y = 2x + 3x and y = 5x lie exactly on one line, so the statement is true for every x: an identity. y = 2x + 3 and y = 11 cross at one point, x = 4, so 2x + 3 = 11 is an equation true only for that value." loading="lazy">
+  <figcaption>An identity matches for every x; an equation for only one value.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-mathematics-algebra--02-gradient-rearranged-line.webp" width="900" height="1070" alt="Dividing 2y = 4x + 6 by 2 gives y = 2x + 3. The graph shows the line with a triangle one across and two up, gradient 2, crossing the y-axis at 3. A dashed steeper line y = 4x + 3 shows the slip of reading the gradient as 4." loading="lazy">
+  <figcaption>Rearrange to y = mx + c before reading the gradient: 2y = 4x + 6 has gradient 2.</figcaption>
+</figure>
+
 
 ## Official syllabus
 
@@ -230,5 +261,40 @@ fetched and verified in full 2026-09-02.
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/igcse-mathematics-0580-introduction-to-algebra-and-manipulation--05-factorise-hcf.webp" width="900" height="790" alt="The three terms are cells of a rectangle of height 4xy, the HCF. Dividing each by 4xy gives widths 2x, 3y and -1, so the answer is 4xy(2x + 3y - 1)." loading="lazy">
   <figcaption>Factorising is expanding in reverse: take out the highest common factor.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-introduction-to-algebra-and-manipulation--06-complete-the-square.webp" width="900" height="870" alt="A square of side x + 4 is built from x^2, two strips 4x and a 4 by 4 corner of 16. So x^2 + 8x = (x + 4)^2 - 16, and x^2 + 8x - 5 = (x + 4)^2 - 21." loading="lazy">
+  <figcaption>Half of 8 gives p = 4; the 16 added to complete the square must be taken away.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-functions--04-inverse-machine.webp" width="900" height="810" alt="The same four numbers 5, 10, 3, 1 in two rows. f multiplies by 2, subtracts 7, divides by 3, taking 5 to 1. The inverse runs right to left and undoes each step in reverse order: times 3, add 7, divide by 2, taking 1 back to 5." loading="lazy">
+  <figcaption>The inverse undoes each step of f in the reverse order.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-coordinate-geometry--05-parallel-lines.webp" width="900" height="1000" alt="Lines y = 2x - 1 and y = 2x + 3 each go 1 across and 2 up, so they are parallel. The parallel line through P (1, 5) has c = 3." loading="lazy">
+  <figcaption>Parallel lines share a gradient; use a point to find c.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-graphs-of-functions-and-sketching-curves--04-sketch-quadratic.webp" width="900" height="1160" alt="A sketch of y = x² + 2x − 15: a U-shape crossing the x-axis at (−5, 0) and (3, 0) and the y-axis at (0, −15), symmetrical about x = −1. The turning point (−1, −16), from completing the square, is Extended only." loading="lazy">
+  <figcaption>A sketch shows shape, roots, y-intercept and symmetry; Extended adds the turning point.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-graphs-of-functions-and-sketching-curves--05-sketch-cubic.webp" width="900" height="1030" alt="Sketch of y = x³ − 4x² + 3x = x(x − 1)(x − 3). The curve crosses the x-axis at 0, 1 and 3, coming up from bottom left, turning twice, and rising to top right because the x³ coefficient is positive." loading="lazy">
+  <figcaption>Factorise a cubic to find its roots, then follow the rise, turn, fall, turn, rise.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-graphs-of-functions-and-sketching-curves--06-asymptotes.webp" width="900" height="1230" alt="Two Extended sketches with dashed asymptotes. y = 2/x + 1 has asymptotes x = 0 and y = 1 and crosses the x-axis at (−2, 0). y = 3 × 2ˣ − 6 has asymptote y = −6, y-intercept (0, −3) and root x = 1." loading="lazy">
+  <figcaption>Reciprocal and exponential curves approach their asymptotes but never cross or touch them.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-algebra-and-graphs--03-inequality-number-line.webp" width="900" height="860" alt="Solving minus 5 less than 2x plus 3, at most 11, gives minus 4 less than x, at most 4. An open circle at minus 4 and a closed circle at 4 are joined by a line. The whole-number solutions are minus 3 to 4." loading="lazy">
+  <figcaption>Open circles exclude an end value, closed circles include it.</figcaption>
 </figure>
 

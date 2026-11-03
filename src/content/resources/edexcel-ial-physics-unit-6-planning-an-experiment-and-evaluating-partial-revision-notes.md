@@ -76,12 +76,6 @@ Name the change and the error it reduces.
 - Use a micrometer or vernier callipers for small diameters.
 - Wait for thermal equilibrium before reading.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/measurement-mass-weight-and-density--03-pendulum-period.webp" width="900" height="1010" alt="A pendulum swings from A to B and back, one oscillation. Bars compare timing one oscillation (0.92 s) with 20 oscillations (18.4 s) against the same 0.2 s reaction-time error, which is 22% of one period but 1.1% of the long time. Period = 18.4 / 20 = 0.92 s." loading="lazy">
-  <figcaption>Timing many oscillations and dividing shrinks the effect of reaction-time error.</figcaption>
-</figure>
-
-
 ### Readings, range and repeats
 
 - Number of readings: too few cannot show scatter. Use at least six.
@@ -198,6 +192,22 @@ Check: 75 kΩ × 200 μF = 15.0 s.
 8. Hold two set squares against the cylinder on a flat surface and read the distance between them with a rule, or use vernier callipers.
 9. A log needs a pure number. Plot lg (V / cm³) instead.
 10. The curve becomes a straight line, so a gradient of −1 shows p ∝ 1/V directly.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-physics-unit-3-planning-an-experiment-and-checking-another--01-zero-error-micrometer.webp" width="900" height="1010" alt="A micrometer with its jaws closed reads +0.02 mm instead of 0.00 mm. A wire reading of 1.5 mm on the sleeve plus 0.27 mm on the thimble is 1.77 mm. On a zoomed number line an arrow moves 1.77 back by 0.02 mm to the true diameter 1.75 mm. The error is systematic, so repeats do not remove it." loading="lazy">
+  <figcaption>A positive zero error is subtracted from every reading; repeating does not remove it.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/measurement-mass-weight-and-density--03-pendulum-period.webp" width="900" height="1010" alt="A pendulum swings from A to B and back, one oscillation. Bars compare timing one oscillation (0.92 s) with 20 oscillations (18.4 s) against the same 0.2 s reaction-time error, which is 22% of one period but 1.1% of the long time. Period = 18.4 / 20 = 0.92 s." loading="lazy">
+  <figcaption>Timing many oscillations and dividing shrinks the effect of reaction-time error.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-physics-unit-3-processing-results-graphs-and-uncertainties--03-gradient-large-triangle.webp" width="900" height="1010" alt="Graph of v squared against s with six points and a best-fit line through the origin. A large triangle from (0.20, 0.80) to (1.20, 4.76) has base 1.00 m and height 3.96. The gradient is 3.96 m s^-2 and, since v^2 = 2as, a = 1.98 m s^-2." loading="lazy">
+  <figcaption>Take the gradient from two points far apart on the best-fit line, then halve it to get a.</figcaption>
+</figure>
+
 
 ## Worked reminder: planning numbers
 

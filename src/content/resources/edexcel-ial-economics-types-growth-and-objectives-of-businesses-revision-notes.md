@@ -161,17 +161,6 @@ Two rival bus companies merge. Cost chain: one head office and shared depots, so
 
 A group that makes tools, toys and tiles struggles to manage three unrelated businesses. Managers lose focus, so costs rise and profit lags. After a demerger, each firm has a clear aim and its own management. The tile business is valued more highly and can raise finance easily. Workers may fear job losses in the old head office but may gain a clearer career path in the smaller firm.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/edexcel-ial-economics-types-growth-and-objectives-of-businesses--03-ial-profit-satisficing.webp" width="900" height="950" alt="Profit curve 108Q - 9Q^2 - 80 peaks at 244 at Q = 6, is 100 at Q = 10 and zero at Q = 11.2. A gold band for Q = 3.8 to 8.2 marks profit of at least 200." loading="lazy">
-  <figcaption>A satisficing manager can pick any output where profit meets the owners minimum.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/edexcel-ial-economics-types-growth-and-objectives-of-businesses--04-ial-principal-agent.webp" width="900" height="1000" alt="Owners earn 244 thousand pounds at Q = 6 but 100 thousand at Q = 10. A manager paid 2% of revenue earns 10,080 at Q = 6 and 12,000 at Q = 10, so prefers Q = 10 while owners lose 144 thousand." loading="lazy">
-  <figcaption>A revenue-linked bonus pulls the manager away from the owners profit.</figcaption>
-</figure>
-
-
 ## Quick self-test
 
 1. A charity-run shop reinvests its surplus. Is it for-profit or not-for-profit?
@@ -197,6 +186,17 @@ A group that makes tools, toys and tiles struggles to manage three unrelated bus
 8. MR = 84 − 12Q = 12, so Q = 6 (price 48).
 9. 480 − 350 = £130k.
 10. Pay linked to sales rewards extra revenue even if profit falls, so the manager pushes output beyond the owners' preferred level.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-types-growth-and-objectives-of-businesses--03-ial-profit-satisficing.webp" width="900" height="950" alt="Profit curve 108Q - 9Q^2 - 80 peaks at 244 at Q = 6, is 100 at Q = 10 and zero at Q = 11.2. A gold band for Q = 3.8 to 8.2 marks profit of at least 200." loading="lazy">
+  <figcaption>A satisficing manager can pick any output where profit meets the owners minimum.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-types-growth-and-objectives-of-businesses--04-ial-principal-agent.webp" width="900" height="1000" alt="Owners earn 244 thousand pounds at Q = 6 but 100 thousand at Q = 10. A manager paid 2% of revenue earns 10,080 at Q = 6 and 12,000 at Q = 10, so prefers Q = 10 while owners lose 144 thousand." loading="lazy">
+  <figcaption>A revenue-linked bonus pulls the manager away from the owners profit.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

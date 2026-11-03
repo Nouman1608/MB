@@ -37,6 +37,12 @@ Links to the revision notes, practice questions, course hub, checklist and
 | 3.3.1.2 Reaction mechanisms | Radical dot notation; balanced equations for free-radical steps; curly arrows for electron-pair movement | AS |
 | 3.3.1.3 Isomerism | Define structural isomer and stereoisomer; chain, position and functional group isomers; E–Z isomers; Cahn–Ingold–Prelog (CIP) priority rules | AS |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-organic-chemistry-naming-mechanisms-and-aromatic-shape--09-new-functional-groups.webp" width="900" height="1260" alt="Skeletal formulae of benzene, chlorobenzene, phenol, propanoyl chloride, propanamide, dimethylamine and 2-aminoethanoic acid with each new group highlighted." loading="lazy">
+  <figcaption>The functional groups first met at A Level (Cambridge).</figcaption>
+</figure>
+
+
 ## 3.3.1.1 Representing organic compounds
 
 Organic compounds can be written in six ways.
@@ -222,6 +228,11 @@ come in 3.3.3 to 3.3.5; bond polarity is in the [bonding study guide](/resources
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/a-organic-chemistry-naming-mechanisms-and-aromatic-shape--02-bond-fission.webp" width="900" height="1170" alt="Cl-Cl splits with one electron to each atom giving two free radicals; H-Br splits with both electrons to Br giving H+ and Br-. Curly arrows start on the bond and end on the atom receiving the electrons." loading="lazy">
   <figcaption>Homolytic fission gives radicals, heterolytic fission gives ions (AQA, Edexcel, OCR, OxfordAQA).</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-organic-chemistry-naming-mechanisms-and-aromatic-shape--05-cracking.webp" width="900" height="1070" alt="Dodecane is cracked, breaking two C-C bonds to give octane and two ethene molecules; conditions for thermal and catalytic cracking are shown (AQA)." loading="lazy">
+  <figcaption>Cracking breaks C-C bonds to make shorter alkanes and alkenes (AQA, Edexcel).</figcaption>
 </figure>
 
 

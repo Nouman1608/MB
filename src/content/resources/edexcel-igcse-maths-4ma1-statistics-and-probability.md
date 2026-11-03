@@ -154,6 +154,17 @@ Median = the 10.5th value: the 10th and 11th values are both 1 (running totals 4
 Mode = 1 (highest frequency)       Range = 4 − 0 = 4
 ```
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-statistics--01-three-averages.webp" width="900" height="770" alt="Six values 2, 3, 3, 4, 5, 13 on a dot plot. The mode is 3 (most common), the median is 3.5 (middle of 3 and 4), the mean is 30 divided by 6 = 5, and the range is 13 - 2 = 11. The large value 13 pulls the mean above the median." loading="lazy">
+  <figcaption>The mean, median, mode and range of one small list of data.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-statistics--02-frequency-table-averages.webp" width="900" height="950" alt="A frequency table of pets owned by 20 students. Multiplying pets by students gives 0, 8, 8, 6 and 4, a total of 26, so the mean is 26 / 20 = 1.3. The mode is 1 and the median is 1." loading="lazy">
+  <figcaption>For a frequency table, multiply each value by its frequency, add, then divide by the total frequency.</figcaption>
+</figure>
+
+
 ### Grouped data (both tiers)
 
 You do not know the exact values in a group, so use the **midpoint** of each class. The result is an **estimate** of the mean. The **modal class** is the class with the highest frequency.
@@ -166,6 +177,12 @@ f × midpoint: 30, 210, 300, 320     Σ = 860
 Estimated mean = 860 ÷ 40 = 21.5 minutes
 Modal class: 10 < t ≤ 20
 ```
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-statistics--03-grouped-mean-midpoints.webp" width="900" height="932" alt="Heights of 40 students in four 10 cm classes. Each class midpoint (155, 165, 175, 185) times its frequency totals 6740, giving an estimated mean of 168.5 cm. The modal class is 160 to under 170." loading="lazy">
+  <figcaption>Use the midpoint of each class, not a boundary, so the mean is only an estimate.</figcaption>
+</figure>
+
 
 ### Spread and quartiles (Higher tier only)
 
@@ -215,6 +232,17 @@ For equally likely outcomes, P(event) = number of favourable outcomes ÷ total n
 - **Mutually exclusive** events cannot happen together: P(A or B) = P(A) + P(B).
 - **Expected frequency** = probability × number of trials.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-probability-and-expected-frequency--01-probability-scale.webp" width="900" height="840" alt="A bag of 20 beads (4 green, 6 yellow, 10 white) above a number line from 0 impossible to 1 certain. A black bead sits at 0, a white bead at 0.5 and the event not green at 0.8. The left half is unlikely and the right half likely." loading="lazy">
+  <figcaption>Probabilities run from 0 (impossible) to 1 (certain), with 0.5 an even chance.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-probability-and-expected-frequency--02-adds-to-one.webp" width="900" height="850" alt="Two bars of length 1. The spinner bar is red 0.35, blue 0.2, green x, yellow 2x, so x = 0.15 and yellow 0.3. The rain bar is 35 percent rain and 65 percent no rain." loading="lazy">
+  <figcaption>All the probabilities of one event add to 1, so not happening is 1 minus happening.</figcaption>
+</figure>
+
+
 ### Sample spaces (both tiers)
 
 A **sample space** lists every possible outcome. For two coins it is (H, H), (H, T), (T, H), (T, T). For two successive events, list systematically or use a table.
@@ -224,6 +252,11 @@ A **sample space** lists every possible outcome. For two coins it is (H, H), (H,
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/edexcel-igcse-maths-4ma1-statistics-and-probability--01-spinner-sample-space.webp" width="900" height="790" alt="Two-way table of the 12 pairs from spinner X (1 to 4) and spinner Y (1 to 3). The three pairs (2, 3), (3, 2) and (4, 1) total 5 and are highlighted. So P(total = 5) = 3/12 = 1/4." loading="lazy">
   <figcaption>All 12 pairs of two spinners, three of which total 5.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-probability--01-two-dice-sample-space.webp" width="900" height="925" alt="A 6 by 6 grid with die faces along both edges; each cell shows the total. The six cells totalling 7 form a diagonal and are highlighted, giving 6 out of 36 = 1/6." loading="lazy">
+  <figcaption>A sample space diagram lists every equally likely outcome so you can count the favourable ones.</figcaption>
 </figure>
 
 
@@ -250,6 +283,11 @@ P(B but not A) = 12/50 = 6/25
   <figcaption>Worked example 10 as a Venn diagram, with each probability shaded.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-probability-and-expected-frequency--03-venn-two-sets.webp" width="900" height="680" alt="Three copies of a Venn diagram of 32 club members (swim only 9, both 5, tennis only 11, neither 7). Shading shows plays tennis 16/32, exactly one sport 20/32 and neither 7/32." loading="lazy">
+  <figcaption>Shade the region you want, add its counts, and divide by the total of 32.</figcaption>
+</figure>
+
 
 ### Tree diagrams and independent events (Higher tier only)
 
@@ -268,6 +306,11 @@ P(late at least once)  = 1 − 0.8 × 0.8 = 0.36
   <figcaption>1 − P(never late) is quicker than adding three routes.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-probability--02-tree-with-replacement.webp" width="900" height="1070" alt="Bag of 5 red and 3 blue, two draws with replacement. Branches are 5/8 and 3/8 both times; ends RR 25/64, RB 15/64, BR 15/64, BB 9/64. One of each is 15/64+15/64 = 15/32." loading="lazy">
+  <figcaption>With replacement the second branches repeat the first; multiply along paths and add the paths you want.</figcaption>
+</figure>
+
 
 ### Conditional probability without replacement (Higher tier only)
 
@@ -280,6 +323,22 @@ P(both red)  = 5/8 × 4/7 = 20/56
 P(both blue) = 3/8 × 2/7 = 6/56
 P(same colour) = 26/56 = 13/28
 ```
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-probability-and-expected-frequency--04-relative-frequency.webp" width="900" height="740" alt="A graph of relative frequency of a 4 against spins: 0.5 at 10, 0.38 at 50, 0.37 at 100 and 0.355 at 200. It falls then levels off, so more trials give a more reliable estimate." loading="lazy">
+  <figcaption>With more trials the relative frequency settles, so use the estimate from the most trials.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-probability-and-expected-frequency--06-expected-frequency.webp" width="900" height="990" alt="Three bars with the expected share shaded: a fair ten-sided dice rolled 150 times gives 45 multiples of 3; a spinner with P(4) 0.355 spun 600 times gives 213; a town of 18400 adults with probability 0.065 gives 1196 cyclists." loading="lazy">
+  <figcaption>Expected frequency is probability times number of trials, an average rather than an exact result.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-probability--03-tree-without-replacement.webp" width="900" height="1020" alt="Same bag, first counter not replaced. After a red, 4 red and 3 blue remain (4/7, 3/7); after a blue, 5 red and 2 blue remain (5/7, 2/7). Both red is 5/8 x 4/7 = 5/14." loading="lazy">
+  <figcaption>Without replacement the second branches change because the bag has one fewer counter.</figcaption>
+</figure>
+
 
 ## Common errors
 

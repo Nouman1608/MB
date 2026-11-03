@@ -175,6 +175,21 @@ Example: Class A has median 62 and range 30. Class B has median 55 and range 48.
   <figcaption>The mean, median, mode and range of one data set, with an outlier pulling the mean up.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-statistics--02-frequency-table-averages.webp" width="900" height="950" alt="A frequency table of pets owned by 20 students. Multiplying pets by students gives 0, 8, 8, 6 and 4, a total of 26, so the mean is 26 / 20 = 1.3. The mode is 1 and the median is 1." loading="lazy">
+  <figcaption>For a frequency table, multiply each value by its frequency, add, then divide by the total frequency.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-statistics--03-grouped-mean-midpoints.webp" width="900" height="932" alt="Heights of 40 students in four 10 cm classes. Each class midpoint (155, 165, 175, 185) times its frequency totals 6740, giving an estimated mean of 168.5 cm. The modal class is 160 to under 170." loading="lazy">
+  <figcaption>Use the midpoint of each class, not a boundary, so the mean is only an estimate.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-mathematics-statistics-classifying-data-averages-spread-and--06-compare-bus-routes.webp" width="900" height="970" alt="Two dot plots of minutes late for seven buses. Both routes have mean and median 4, but Route 1 has range 4 and Route 2 has range 8, so Route 1 is more consistent." loading="lazy">
+  <figcaption>Compare data sets with one comment on an average and one on spread.</figcaption>
+</figure>
+
 
 ## Histograms and cumulative frequency (S3) -- Higher tier only
 
@@ -226,6 +241,26 @@ The values here come from straight lines between the points. A curve gives sligh
   <figcaption>Read across at n ÷ 4, n ÷ 2 and 3n ÷ 4, then down to the axis; these straight-line readings are approximate.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-statistics--06-histogram-frequency-density.webp" width="900" height="850" alt="A histogram of ages of 120 people with unequal class widths. Frequency density = frequency / class width gives 2, 2.5, 3 and 1. The 10 to 30 class has most people (50) but the 30 to 40 bar is the tallest." loading="lazy">
+  <figcaption>With unequal class widths the bar height is frequency density, and the bar area equals the frequency.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-cumulative-frequency-diagrams--01-build-the-table.webp" width="900" height="800" alt="Six time classes with frequencies 6, 18, 36, 32, 20, 8 are shown as bars beside running-total bars that grow to 6, 24, 60, 92, 112, 120. The last total equals 120, the number of students." loading="lazy">
+  <figcaption>Each running total adds the new class to the total so far, and the last must equal the total frequency.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-cumulative-frequency-diagrams--02-draw-the-curve.webp" width="900" height="770" alt="Crosses at (0,0), (10,6), (20,24), (30,60), (40,92), (50,112), (60,120) are joined by one smooth S-shaped curve. The start at zero and the upper class boundary are highlighted." loading="lazy">
+  <figcaption>Plot each running total at the upper class boundary, start at (0, 0) and join with a smooth curve.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-cumulative-frequency-diagrams--03-median-quartiles-iqr.webp" width="900" height="920" alt="On the curve for 120 students, reading across at 30, 60 and 90 and down gives LQ about 22, median 30 and UQ about 39 minutes. The IQR is 39 minus 22 = 17 minutes." loading="lazy">
+  <figcaption>Read across at n/4, n/2 and 3n/4, then down; the IQR is UQ minus LQ.</figcaption>
+</figure>
+
 
 ## Box plots and interquartile range (S4) -- Higher tier only
 
@@ -247,6 +282,11 @@ To compare two box plots, compare the medians (average) and the IQRs (consistenc
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/aqa-gcse-maths-8300-statistics--11-box-plot-build.webp" width="900" height="760" alt="Eleven ordered values from 3 to 22 sit on a number line. The 3rd value 6 is the lower quartile, the 6th value 10 is the median and the 9th value 15 is the upper quartile. The box runs from 6 to 15 with a line at 10, and whiskers reach 3 and 22, so the IQR is 9 and the range is 19." loading="lazy">
   <figcaption>Pick the minimum, three quartiles and maximum from the ordered list and draw them on one scale.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-cumulative-frequency-diagrams--06-comparing-groups.webp" width="900" height="1070" alt="Two curves on one grid: teachers have median 26 and IQR 11, students median 30 and IQR about 17. Bars show the middle half of each group. Teachers were faster and more consistent." loading="lazy">
+  <figcaption>Compare a lower median (faster) and a smaller IQR (more consistent), in context.</figcaption>
 </figure>
 
 
@@ -278,6 +318,21 @@ An **outlier** on a scatter graph is a point far from the pattern. Ignore it whe
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/aqa-gcse-maths-8300-statistics--12-scatter-revision-score.webp" width="900" height="910" alt="A scatter graph of the 8 students: hours revised from 2 to 9 against test score, rising steadily (strong positive correlation). The mean point (5.5, 53.5) lies on the line of best fit. Reading at 6.5 hours gives about 59 marks, which is interpolation. Extending the line to 20 hours gives about 130 marks, which is extrapolation and impossible because the test is out of 100." loading="lazy">
   <figcaption>Inside the data the line is a fair guide; outside it the trend may not continue.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-statistics--04-correlation-types.webp" width="900" height="1010" alt="Three scatter diagrams: positive correlation (y rises with x), negative correlation (y falls as x rises) and zero correlation (no pattern, so no line of best fit)." loading="lazy">
+  <figcaption>Judge the correlation by eye before drawing any line.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-statistics--05-line-of-best-fit.webp" width="900" height="850" alt="A scatter diagram of revision hours and test score with a line of best fit through the mean point. Reading up from 6 hours gives a predicted score of about 67. The line is dashed beyond 8 hours where there is no data." loading="lazy">
+  <figcaption>A line of best fit passes through the mean point and is used to predict inside the range of the data.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-mathematics-scatter-diagrams-correlation-and-cumulative-frequency--03-using-the-line.webp" width="900" height="870" alt="The line of best fit gives about 10.3 thousand dollars at age 6.5. A triangle shows a drop of 2.85 over 2 years, gradient -1.425, so the value falls about 1 400 dollars a year. Beyond age 9 the line is dotted in a shaded region marked outside the data; age 12 gives about 2.4, which is unreliable." loading="lazy">
+  <figcaption>Readings inside the data are reliable; extending the line beyond age 9 is not.</figcaption>
 </figure>
 
 

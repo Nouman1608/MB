@@ -127,6 +127,17 @@ goes in parallel across the component whose p.d. it measures (see
 the supply and back, and identify every junction before applying
 Kirchhoff's laws.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-physics-electricity--02-iv-characteristics.webp" width="900" height="1115" alt="Four I-V graphs: a fixed resistor is a straight line through the origin; a filament lamp curves flat as it heats, with lesson data giving 10 ohm at 1.0 V and 25 ohm at 10 V; a diode conducts only above about 0.7 V forward; an NTC thermistor curve steepens as it heats." loading="lazy">
+  <figcaption>Four I–V shapes side by side, with R = V/I read at a point.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-physics-electricity--03-resistivity-wire.webp" width="900" height="1255" alt="Three wires drawn to scale show that doubling the length doubles R (11.9 to 23.9 ohm) and doubling the diameter quarters it (2.98 ohm). A graph of R against L for a 0.32 mm wire has gradient 13.7 ohm per metre, so resistivity equals gradient times area, 1.1 x 10^-6 ohm metre." loading="lazy">
+  <figcaption>How length and diameter change resistance, and how a graph gives resistivity.</figcaption>
+</figure>
+
+
 ## E.m.f., internal resistance and terminal p.d.
 
 **Electromotive force (e.m.f.)** is the energy transferred per unit charge by
@@ -218,6 +229,11 @@ Replacing one fixed resistor in a potential divider with a **thermistor** or
 **LDR** produces an output voltage that varies with temperature or light
 intensity respectively — a light- or temperature-sensing circuit, since the
 varying component's changing resistance changes the voltage division ratio.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-physics-electricity--04-resistance-temperature.webp" width="900" height="1275" alt="In a metal, heating makes the ions vibrate more so electrons collide more and resistance rises. In an NTC thermistor or an LDR, heat or light frees many more carriers so resistance falls. The graph shows a metal rising gently and an NTC thermistor falling from 2.4 kohm at 25 C to 0.50 kohm at 65 C." loading="lazy">
+  <figcaption>Collisions versus carrier number: why metals and NTC thermistors behave oppositely.</figcaption>
+</figure>
 
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/aqa-a-level-physics-electricity--08-potential-divider-load.webp" width="900" height="1170" alt="Left: 12 V across 4.7 kohm and 3.3 kohm gives 4.95 V across the 3.3 kohm resistor. Right: a 3.3 kohm load in parallel makes 1.65 kohm, so the output falls to 3.12 V. Below: a potentiometer slider 35.0 cm along a 100.0 cm track on a 6.0 V supply gives 2.1 V." loading="lazy">

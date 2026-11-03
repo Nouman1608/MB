@@ -141,17 +141,6 @@ y = 12/x
 When x = 6:  y = 12/6 = 2
 ```
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/sequences-and-proportion--04-direct-square.webp" width="900" height="910" alt="Graph of y = 5x squared. The given point (3, 45) gives k = 5, and then at x = 5 the graph gives y = 125." loading="lazy">
-  <figcaption>Use the given pair to find k, then use k to find the unknown value.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/sequences-and-proportion--05-inverse-constant-product.webp" width="900" height="940" alt="Graph of y = 24 over x with points (4, 6) and (8, 3). The rectangles from the origin to each point both have area 24, because x times y is always k. When x doubles, y halves." loading="lazy">
-  <figcaption>In inverse proportion x times y stays constant, so doubling x halves y.</figcaption>
-</figure>
-
-
 ## Exam traps
 
 - Check both difference rows before assuming linear.
@@ -175,3 +164,14 @@ Related: [Sequences and Proportion practice questions](/resources/sequences-and-
 7. y is directly proportional to x². y = 45 when x = 3. Find y when x = 5.
 
 **Answers:** 1. First difference 5 → 5n gives 5, 10, 15, 20; each term is 2 more → **5n + 2**. 2. First differences 4, 6, 8; second difference 2 → a = 1, n² gives 1, 4, 9, 16; subtracting leaves 1, 2, 3, 4 = n → **n² + n**. 3. k = 5, so y = 5x → y = **40**. 4. k = 12, p = 12/q → p = **3**. 5. Triangular numbers. 6. Constant ratio 3, so exponential: **2 × 3ⁿ⁻¹**. 7. k = 5, so y = 5x² → y = **125**.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/sequences-and-proportion--04-direct-square.webp" width="900" height="910" alt="Graph of y = 5x squared. The given point (3, 45) gives k = 5, and then at x = 5 the graph gives y = 125." loading="lazy">
+  <figcaption>Use the given pair to find k, then use k to find the unknown value.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/sequences-and-proportion--05-inverse-constant-product.webp" width="900" height="940" alt="Graph of y = 24 over x with points (4, 6) and (8, 3). The rectangles from the origin to each point both have area 24, because x times y is always k. When x doubles, y halves." loading="lazy">
+  <figcaption>In inverse proportion x times y stays constant, so doubling x halves y.</figcaption>
+</figure>
+

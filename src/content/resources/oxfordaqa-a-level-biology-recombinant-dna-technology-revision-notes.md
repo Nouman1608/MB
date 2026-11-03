@@ -186,6 +186,12 @@ State a benefit and a concern for each angle you use. Then give a judgement, wit
 10. For example, development costs, patent-protected seed or drug prices.
 11. A tube with no template shows whether contamination gave a false product.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-genetic-technology--07-dna-profile-paternity.webp" width="900" height="1010" alt="Four lanes of band sizes in kb show mother, child and two men. The child has bands 6.5 and 3.5 that the mother lacks, so they come from the father. Man A has both; Man B lacks 3.5 and is excluded. Five independent loci with chances 0.1, 0.05, 0.2, 0.08 and 0.125 give a chance match of 1 in 100 000." loading="lazy">
+  <figcaption>Bands the child lacks from the mother must come from the father: Man A fits, Man B is excluded.</figcaption>
+</figure>
+
+
 ## Where marks are usually lost
 
 - Writing "the code is the same" instead of saying the genetic code is universal.

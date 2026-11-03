@@ -85,8 +85,13 @@ using time and money, including currency conversion
 calculator
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-edexcel-mathematics-numbers-and-the-number-system--07-reverse-percentage-bar.webp" width="900" height="840" alt="A bar of ten 10 percent blocks: eight blocks are the 84 pound sale price (80 percent) and two are the 20 percent discount. One block is 10.50 pounds so the original is 105 pounds, not 100.80." loading="lazy">
-  <figcaption>Divide the sale price by 80 percent to get 10 percent, then scale up to the original 100 percent.</figcaption>
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-fractions-decimals-percentages-ordering-operations--01-fraction-decimal-percentage.webp" width="900" height="830" alt="A bar of 16 equal parts with 7 shaded, a 0 to 1 scale and a 0 to 100% scale mark the same point. Dividing 7 by 16 gives 0.4375, and multiplying by 100 gives 43.75%." loading="lazy">
+  <figcaption>7/16 as a fraction, decimal and percentage are all the same point.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-powers-roots-and-indices--01-squares-cubes.webp" width="900" height="940" alt="Squares of side 1 to 5 are drawn as grids with areas 1, 4, 9, 16, 25. Cubes of side 2, 3 and 4 are drawn from unit blocks, giving 8, 27 and 64. A root undoes a power by giving the side." loading="lazy">
+  <figcaption>A square of side n has n squared unit squares and a cube of side n has n cubed unit blocks.</figcaption>
 </figure>
 
 
@@ -144,6 +149,26 @@ form.
   <figcaption>Further left on the number line always means smaller, whatever the form or sign.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-powers-roots-and-indices--04-index-rules-tiles.webp" width="900" height="976" alt="Tiles show 2^3 x 2^4 as 7 factors (2^7 = 128), (3^2)^4 as 4 groups of 2 factors (3^8), and 2^4 / 2^7 with 4 pairs cancelling leaving 3 below (2^-3 = 1/8). The rules need the same base." loading="lazy">
+  <figcaption>Counting factors explains add, multiply and subtract for indices.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-powers-roots-and-indices--03-zero-negative-indices.webp" width="900" height="1032" alt="A staircase lists 5^3 down to 5^-3. Each step lowers the index by 1 and divides by 5, giving 125, 25, 5, 1, 1/5, 1/25, 1/125. So 5^0 = 1 and a negative index gives a small positive reciprocal." loading="lazy">
+  <figcaption>Each step down divides by 5, so 5^0 = 1 and 5^-n is 1 over 5^n.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-number--05-sharing-in-a-ratio.webp" width="900" height="680" alt="A bar of nine equal blocks worth 20 each is split 2, 3 and 4. The total 180 divided by 9 gives 20 per part, so the shares are 40, 60 and 80 dollars." loading="lazy">
+  <figcaption>Add the parts, divide the total by that number, then multiply by each share.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-number--03-standard-form.webp" width="900" height="880" alt="Digit boxes show the decimal point of 4 560 000 jumping 6 places left to give 4.56 x 10^6, and of 0.00032 jumping 4 places right to give 3.2 x 10^-4. A must lie between 1 and 10." loading="lazy">
+  <figcaption>Move the decimal point until the number is between 1 and 10; the count of moves is the power of 10.</figcaption>
+</figure>
+
 
 ## Worked example: upper and lower bounds
 
@@ -169,6 +194,16 @@ answer from a plausible-looking incorrect one.
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/igcse-edexcel-mathematics-numbers-and-the-number-system--08-bounds-8-4-cm.webp" width="900" height="840" alt="A number line shows 8.4 cm to 1 d.p. lies from 8.35 (included) to 8.45 (not included). With an illustrative 3.2 cm, the sum ranges 11.50 to 11.70 and the difference 5.10 to 5.30, using upper − lower for the maximum difference." loading="lazy">
   <figcaption>8.4 cm lies between 8.35 and 8.45; for a difference the maximum pairs the upper bound with the lower bound.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-exponential-growth-decay-and-surds--04-surd-diagonal.webp" width="900" height="940" alt="A square of side 4 cm has a diagonal of root 32, since 16 + 16 = 32. Taking out the square factor gives 4 root 2, which lands near 5.657 on the number line." loading="lazy">
+  <figcaption>The exact length 4√2 cm is a surd; 5.657 is only a rounded value.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-number--04-limits-of-accuracy.webp" width="900" height="810" alt="A number line from 4.50 to 4.70 kg shades the values from 4.55 to 4.65 that round to 4.6 kg. The lower bound 4.55 is included (filled dot); the upper bound 4.65 is not (open dot)." loading="lazy">
+  <figcaption>A value given to 1 d.p. can be up to half a unit (0.05) either side: 4.55 &lt;= mass &lt; 4.65.</figcaption>
 </figure>
 
 
@@ -203,8 +238,30 @@ candidates to shade a described region or to read off the number of
 elements satisfying a given combination of conditions directly from a
 labelled diagram.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-sets--02-two-set-regions.webp" width="900" height="1060" alt="Six two-set Venn diagrams with regions numbered 1 to 4 (A only, both, B only, neither). The shaded regions show A∩B, A∪B, A′, (A∪B)′, A∩B′ and A′∪B." loading="lazy">
+  <figcaption>Each set expression is just a list of numbered regions.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-sets--04-subset-or-not.webp" width="900" height="990" alt="Three Venn diagrams. A circle for {2, 4} sits wholly inside a circle for {1, 2, 3, 4}, so A ⊆ B. A = {2, 6} overlaps B but 6 is outside B, so A ⊈ B. Two separate circles show A ∩ B = ∅." loading="lazy">
+  <figcaption>A is a subset of B only if no element of A lies outside B.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-sets--03-unknown-overlap.webp" width="900" height="1010" alt="Two Venn diagrams of 50 tourists. First the regions are written with x for the overlap (31−x, x, 27−x, x÷2); solving gives x = 16. Then the filled counts 15, 16, 11 and 8 add to 50." loading="lazy">
+  <figcaption>Call the overlap x, write each region in terms of x, then solve.</figcaption>
+</figure>
+
+
 ## Official syllabus
 
 Pearson Edexcel International GCSE Mathematics A (4MA1) specification,
 Issue 2 —
 [qualifications.pearson.com](https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/Mathematics%20A/2016/Specification%20and%20sample%20assessments/international-gcse-in-mathematics-spec-a.pdf).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-mathematics-numbers-and-the-number-system--07-reverse-percentage-bar.webp" width="900" height="840" alt="A bar of ten 10 percent blocks: eight blocks are the 84 pound sale price (80 percent) and two are the 20 percent discount. One block is 10.50 pounds so the original is 105 pounds, not 100.80." loading="lazy">
+  <figcaption>Divide the sale price by 80 percent to get 10 percent, then scale up to the original 100 percent.</figcaption>
+</figure>
+

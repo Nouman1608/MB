@@ -81,6 +81,17 @@ y = x² + 6x + 8 factorises as (x + 2)(x + 4), so the roots are −2 and −4. T
 
 Add the line y = k, parallel to the x-axis. The x-values where it meets the curve are the solutions. Two solutions are the same distance from the axis of symmetry, so if you know one you can find the other: x₂ = 2 × (axis) − x₁.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-exact-trigonometric-values-and-trigonometric-functions--06-cos-tan-solutions.webp" width="900" height="1040" alt="Top: cosine curve crossed by y = 0.4 at 66.4 and 293.6 degrees (x and 360 minus x). Bottom: tangent curve crossed by y = 1 over root 3 at 30 and 210 degrees (x and x plus 180)." loading="lazy">
+  <figcaption>Cosine uses 360 minus x and tangent uses x plus 180 for the second solution.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-exact-trigonometric-values-and-trigonometric-functions--05-sin-solutions.webp" width="900" height="850" alt="The sine curve with dashed lines at y = 1/2 and y = minus 1/2. The lines cross at 30 and 150 degrees, and 210 and 330 degrees, showing x and 180 minus x, then 180 plus x and 360 minus x." loading="lazy">
+  <figcaption>Draw a horizontal line across the graph; each crossing is a solution.</figcaption>
+</figure>
+
+
 ## Completing the square (Extension only)
 
 | Form | Turning point | Type |
@@ -194,6 +205,16 @@ For angles of any size, take away or add 360° (or 180° for tan) until the angl
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/igcse-mathematics-0580-graphs-of-functions-and-sketching-curves--06-asymptotes.webp" width="900" height="1230" alt="Two Extended sketches with dashed asymptotes. y = 2/x + 1 has asymptotes x = 0 and y = 1 and crosses the x-axis at (−2, 0). y = 3 × 2ˣ − 6 has asymptote y = −6, y-intercept (0, −3) and root x = 1." loading="lazy">
   <figcaption>Reciprocal and exponential curves approach their asymptotes but never cross or touch them.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-exact-trigonometric-values-and-trigonometric-functions--03-sin-cos-graphs.webp" width="900" height="810" alt="Graphs of y = sin x and y = cos x from 0 to 360 degrees with key points marked at multiples of 90 degrees. Both are waves between minus 1 and 1 repeating every 360 degrees; cos is sin shifted by 90 degrees." loading="lazy">
+  <figcaption>Sin and cos are waves between -1 and 1 that repeat every 360 degrees.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-exact-trigonometric-values-and-trigonometric-functions--04-tan-graph.webp" width="900" height="860" alt="Graph of y = tan x from 0 to 360 degrees with dashed asymptotes at 90 and 270 degrees. Branches pass through (0,0), (180,0) and (360,0), approach the asymptotes without touching, and repeat every 180 degrees." loading="lazy">
+  <figcaption>Tan x has asymptotes at 90 and 270 degrees and repeats every 180 degrees.</figcaption>
 </figure>
 
 

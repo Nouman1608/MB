@@ -212,6 +212,17 @@ Example: h(t) = −12 cos(18t) + 15 has amplitude 12, period 20, principal axis 
 11. m = (11 − 3)/4 = 2, so **y = 2x + 3**.
 12. **2040 is outside the data range (extrapolation)**; conditions may change, so the pattern may not continue.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-ai-functions-modelling--02-inverse-reflection.webp" width="900" height="1045" alt="The curve f(x) = 3 + sqrt(x - 1) starts at (1, 3) and its inverse (x - 3)^2 + 1 starts at (3, 1). They are mirror images in the dashed line y = x and meet at (5, 5). Points (2, 4) and (4, 2) are swapped, showing the domain of the inverse is the range of f." loading="lazy">
+  <figcaption>The graph of f inverse is the graph of f reflected in y = x.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-ai-functions-modelling--08-extrapolation-danger.webp" width="900" height="890" alt="N(t) = 120 x 2.5^(t/5) is fitted through (0, 120) and (5, 300), drawn solid in the shaded data range. Beyond t = 5 it is dashed; the prediction N(12) = 1080 assumes the pattern continues." loading="lazy">
+  <figcaption>A fitted model is reliable inside the data range, but extrapolation assumes the pattern continues.</figcaption>
+</figure>
+
+
 ## Where marks are usually lost
 
 - Rearranging ax + by + d = 0 wrongly, so the gradient has the wrong sign.

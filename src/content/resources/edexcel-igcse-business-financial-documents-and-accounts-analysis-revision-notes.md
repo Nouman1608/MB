@@ -92,12 +92,6 @@ Supporting lines: gross profit = revenue − cost of sales; operating profit = g
 4. Compare: with the previous year, or with another business.
 5. Explain the cause, then the consequence, then a suggestion.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/edexcel-igcse-business-financial-documents-and-accounts-analysis--03-margins-fall.webp" width="900" height="1000" alt="Bars show gross margin 40.0% then 38.5% and operating margin 12.5% then 11.0%." loading="lazy">
-  <figcaption>Both margins fell 1.5 percentage points.</figcaption>
-</figure>
-
-
 ## 5. Worked reminder: Penhallow Print
 
 | | Year 1 | Year 2 |
@@ -121,6 +115,12 @@ Supporting lines: gross profit = revenue − cost of sales; operating profit = g
 | Acid test ratio | 0.75 : 1 | 0.60 : 1 |
 
 **Analysis.** Revenue rose by 50,000 but operating profit stayed at 30,000. The gross margin slipped 2 percentage points, and expenses grew at the same pace as revenue (28% of revenue in both years), so the operating margin fell from 12% to 10%. ROCE dropped because 35,000 more capital was employed while profit did not grow. Liquidity weakened on both measures, as current liabilities rose by 15,000 but current assets by only 6,000. An acid test below 1 : 1 means liquid assets do not cover short-term debts. The owner should review material costs, and slow the build-up of short-term debt.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-business-financial-documents-and-accounts-analysis--03-margins-fall.webp" width="900" height="1000" alt="Bars show gross margin 40.0% then 38.5% and operating margin 12.5% then 11.0%." loading="lazy">
+  <figcaption>Both margins fell 1.5 percentage points.</figcaption>
+</figure>
+
 
 ## 6. Must-know distinctions
 

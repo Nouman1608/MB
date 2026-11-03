@@ -230,6 +230,12 @@ Motivated employees perform better: more output, fewer mistakes, better service.
 | On-the-job | Learning while doing the actual job, with a colleague | Cheap, relevant | Trainer may pass on bad habits; slows output |
 | Off-the-job | Learning away from the workplace, for example at a college or course | Wider, specialist input | Costly; staff away from work |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-people-in-business--07-training-types.webp" width="900" height="1170" alt="Induction: a manager welcomes a new starter; helps staff settle in, takes staff time. On-the-job: trainer and trainee work together at the workplace; cheap and real, but mistakes can happen. Off-the-job: staff leave for a training centre; expert teaching, but costly and away from work." loading="lazy">
+  <figcaption>Induction, on-the-job and off-the-job training each have a benefit and a limitation.</figcaption>
+</figure>
+
+
 ### Why businesses train
 
 Reasons: development of the business, improved productivity, skill shortages, better customer service, and motivation and retention.

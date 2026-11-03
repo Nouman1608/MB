@@ -229,6 +229,17 @@ Do the same for the other two observations in the table, and always mention that
 11. The small number of alpha particles that **rebounded** through angles above 90 degrees.
 12. So each alpha particle is scattered by at most one nucleus and few are absorbed.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-quantum-physics--07-aphy-quantum-photoelectric.webp" width="900" height="1090" alt="Graph of maximum kinetic energy against frequency for two metals with work functions 2.3 eV and 3.2 eV: straight lines of equal gradient h, with threshold frequencies 5.55 and 7.72 times 10^14 Hz and vertical intercepts minus the work function. Two small graphs show that at fixed frequency, intensity changes photocurrent but not maximum kinetic energy." loading="lazy">
+  <figcaption>Frequency sets photoelectron energy and intensity sets how many are emitted.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-quantum-physics--08-aphy-quantum-energy-levels.webp" width="900" height="1230" alt="Hydrogen energy levels at -13.6, -3.40, -1.51 and -0.85 eV. Falls from n=3 and n=4 to n=2 give 658 nm red and 488 nm blue photons and n=2 to 1 gives 122 nm ultraviolet. A continuous spectrum is shown beside the hydrogen line spectrum with lines at the computed wavelengths." loading="lazy">
+  <figcaption>Each spectral line is one photon whose energy equals a gap between two levels.</figcaption>
+</figure>
+
+
 ## Where marks are usually lost
 
 - Giving the neutron count as A instead of A − Z.

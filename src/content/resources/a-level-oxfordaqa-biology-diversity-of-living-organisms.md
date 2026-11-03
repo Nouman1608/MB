@@ -61,6 +61,12 @@ deviation), DNA, genes and chromosomes (3.1.7), protein synthesis
 (3.1.8) and meiosis (3.1.9). Use the specification for those
 sections.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-classification-biodiversity-and-conservation--08-conservation-methods.webp" width="900" height="1030" alt="Icons show in situ methods in the natural habitat, a wildlife reserve and a marine conservation zone, and ex situ methods outside it: a zoo, a botanic garden, a seed bank and a frozen zoo storing material in liquid nitrogen (Cambridge only)." loading="lazy">
+  <figcaption>In situ protects species where they live; ex situ keeps them or their genes elsewhere.</figcaption>
+</figure>
+
+
 ## How to approach it
 
 Classification and biodiversity content rewards precise use of
@@ -108,6 +114,12 @@ A **species** is a group of organisms able to breed to produce fertile offspring
 
 Modern classification is **phylogenetic**: it reflects evolutionary relationships and common ancestry rather than superficial resemblance. Evidence comes from comparing DNA base sequences, mRNA sequences and amino acid sequences in proteins, and immunological comparison of proteins. The more similar the sequences, the more recent the common ancestor.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-classification-biodiversity-and-conservation--01-taxonomic-hierarchy.webp" width="900" height="1115" alt="A tree with eight ranks from domain to species for cat, lion, bear and frog. All share Eukarya, Animalia and Chordata; the frog splits at class, the bear at family, and cat and lion split only at genus. The cat is written Felis catus with a capital genus." loading="lazy">
+  <figcaption>Each rank sits wholly inside the one above, and closer relatives share more ranks.</figcaption>
+</figure>
+
+
 ## Biodiversity and how it is measured
 
 Biodiversity can be considered at three levels: within a habitat (species diversity), within a species (genetic diversity), and across habitats.
@@ -124,6 +136,11 @@ n = total number of organisms of each species
 A higher value indicates greater diversity. A community dominated by one species has low diversity even if species richness is high.
 
 Genetic diversity within, or between, species can be measured by comparing the base sequence of DNA or of mRNA, the frequency of specific base sequences or alleles in populations, or the amino acid sequence of encoded proteins (3.1.11.1). (The proportion of gene loci that are polymorphic is another measure used by biologists; it is background, not named in the specification.) It arises from **mutation**, from meiosis (crossing over and independent assortment), and from random fertilisation. *(The genetic bottleneck and founder effect, and the natural-selection content below, belong to Unit 3 and are included here only as forward references -- they are not assessed as part of Unit 1.)*
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-classification-biodiversity-and-conservation--06-richness-evenness.webp" width="900" height="950" alt="Two grids of 100 individuals have four species each. Site X is even (25 each) with D 0.75 and d 4.1; Site Y has 91 of one species and 3 of each other with D 0.17 and d 1.2. A higher value means a more diverse community." loading="lazy">
+  <figcaption>Same richness, very different evenness, and both indices separate them.</figcaption>
+</figure>
 
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/a-level-biology-9700-classification-biodiversity-and-conservation--09-genetic-diversity.webp" width="900" height="1210" alt="Two grids of 60 gene loci; split squares are loci with two or more alleles. Before, 18 of 60 vary (30%); later, in a smaller herd, 12 of 60 vary (20%), so fewer alleles are available to adapt with." loading="lazy">

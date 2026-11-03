@@ -127,6 +127,11 @@ Ammonium salts and nitrates supply nitrogen, applied together in a single NPK ap
   <figcaption>A quick map from each pollutant to its source and effects.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/chemistry-of-the-environment--07-catalytic-converter.webp" width="900" height="1060" alt="Harmful carbon monoxide and nitrogen monoxide enter a catalytic converter and leave as carbon dioxide and nitrogen: 2CO + 2NO gives 2CO2 + N2, with atoms balanced." loading="lazy">
+  <figcaption>A catalytic converter turns CO and NO into CO2 and N2.</figcaption>
+</figure>
+
 
 ## The greenhouse effect
 
@@ -142,12 +147,6 @@ Reduction strategies (the syllabus's closed list of five): planting trees, reduc
 - *(0620 Extended, 5070 required)* Symbol equation: `6CO₂ + 6H₂O → C₆H₁₂O₆ + 6O₂`
 
 Photosynthesis is the reverse of respiration (and of burning glucose), and it is why deforestation makes the enhanced greenhouse effect worse: fewer trees means less CO₂ removed from the atmosphere by this route.
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/chemistry-of-the-environment--06-greenhouse-effect.webp" width="900" height="1110" alt="Thermal energy rises from the Earth, is absorbed by carbon dioxide and methane, and some is re-emitted back down. Less escapes to space, so the Earth warms. Gases act by absorption and re-emission, not as a solid barrier." loading="lazy">
-  <figcaption>CO2 and methane absorb thermal energy and re-emit some back down, slowing loss to space.</figcaption>
-</figure>
-
 
 ## Exam traps
 
@@ -170,3 +169,9 @@ Photosynthesis is the reverse of respiration (and of burning glucose), and it is
 7. *(0620 Extended, 5070 required)* Give the symbol equation for photosynthesis, and explain why deforestation worsens the enhanced greenhouse effect.
 
 **Answers:** 1. Anhydrous copper(II) sulfate turns white → blue (or cobalt chloride blue → pink); pure water boils at 100 °C and freezes at 0 °C. 2. Filtration/sedimentation, carbon treatment, chlorination. 3. Excess fertiliser washes into waterways, ultimately depleting the oxygen dissolved in the water so that fish and other aquatic life suffocate. (Background detail, not required: fertiliser runoff → algal bloom blocks light → water plants die → bacteria decompose them, consuming oxygen → fish suffocate.) 4. Sulfur dioxide, from sulfur impurities burned in fossil fuels (nitrogen oxides also contribute). 5. It converts CO and NO together into CO₂ and N₂ — one reaction removes both a toxic gas and an acid-rain precursor. 6. Tap water contains dissolved impurities that could interfere with a reaction or a measurement, unlike distilled water. 7. 6CO₂ + 6H₂O → C₆H₁₂O₆ + 6O₂; fewer trees means less CO₂ is removed from the atmosphere by photosynthesis, so more remains to enhance the greenhouse effect.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/chemistry-of-the-environment--06-greenhouse-effect.webp" width="900" height="1110" alt="Thermal energy rises from the Earth, is absorbed by carbon dioxide and methane, and some is re-emitted back down. Less escapes to space, so the Earth warms. Gases act by absorption and re-emission, not as a solid barrier." loading="lazy">
+  <figcaption>CO2 and methane absorb thermal energy and re-emit some back down, slowing loss to space.</figcaption>
+</figure>
+

@@ -95,6 +95,12 @@ This is a hyperbola. The sign of t matters. For t > 0 we have t + 1/t ≥ 2, so 
 
 To find points with x = 5/2, solve t + 1/t = 5/2, so 2t² − 5t + 2 = 0 and (2t − 1)(t − 2) = 0. Then t = 2 gives y = 3/2, and t = 1/2 gives y = −3/2. The points are (5/2, 3/2) and (5/2, −3/2), and 25/4 − 9/4 = 4 confirms both.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-maths-9709-pure-mathematics-2-logarithms-and-exponentials--06-hidden-quadratic.webp" width="900" height="1080" alt="The parabola u^2 - 5u + 6 crosses the u-axis at 2 and 3; u &lt; 0 is shaded as impossible since e^x &gt; 0. The curve y = e^(2x) - 5e^x + 6 crosses the x-axis at x = ln 2 and ln 3." loading="lazy">
+  <figcaption>Substituting u = eˣ turns e²ˣ − 5eˣ + 6 = 0 into a quadratic with roots ln 2 and ln 3.</figcaption>
+</figure>
+
+
 ### Converting Cartesian to parametric
 
 Any Cartesian curve can be given a parametric form. There is more than one correct answer.
@@ -214,6 +220,17 @@ Combine: ln[x(x − 2)] = ln 3, so x² − 2x − 3 = 0 and (x − 3)(x + 1) = 0
 **Example 10.** Find the inverse of f(x) = 2eˣ + 1.
 
 Let y = 2eˣ + 1, so eˣ = (y − 1)/2 and x = ln[(y − 1)/2]. Hence f⁻¹(x) = ln[(x − 1)/2] with domain x > 1, which is the range of f.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-maths-9709-pure-mathematics-2-logarithms-and-exponentials--04-log-ruler-laws.webp" width="900" height="940" alt="A log ruler marks 1 to 10 at their base-10 logs. Bars of length lg 2 and lg 3 end at 6, so lg 2 + lg 3 = lg 6. A bar lg 8 minus lg 2 has length lg 4. Two bars of lg 3 end at 9, so 2 lg 3 = lg 9." loading="lazy">
+  <figcaption>Logarithms turn products into sums: lengths on a log ruler add.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-maths-9709-pure-mathematics-2-logarithms-and-exponentials--07-linear-form.webp" width="900" height="1110" alt="ln y against ln x is a straight line for y = ax^n: through (0.5, 1.85) and (2.5, 4.85), gradient n = 1.5 and intercept ln a = 1.10. lg y against x is a straight line for y = kb^x with intercept lg k = 0.70 and gradient lg b = 0.14." loading="lazy">
+  <figcaption>A straight line on log axes gives gradient and intercept for power and exponential laws.</figcaption>
+</figure>
+
 
 ## 4. Exponential growth and decay
 

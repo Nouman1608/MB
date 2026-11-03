@@ -72,12 +72,6 @@ Only the inverting amplifier needs a derivation. The specification says the LC, 
 - **Photodiode**: reverse biased (photoconductive mode); reverse current rises with light intensity. **Spectral response curve**: response against wavelength, with a peak and a long-wavelength cut-off. Optical detector; with a **scintillator** it detects particles.
 - **Hall effect sensor**: output depends on magnetic flux density. Attitude monitoring; tachometer (one pulse per turn). Principles not required.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/aqa-a-level-physics-electricity--05-series-parallel-circuit.webp" width="900" height="1060" alt="An 18 V supply drives a 6.0 ohm resistor in series with 12 ohm and 4.0 ohm resistors in parallel. The pair is 3.0 ohm, total 9.0 ohm, supply current 2.0 A; the branches carry 0.50 A and 1.5 A, with 6.0 V across both. Currents add at the junction and 18 V = 12 V + 6.0 V round the loop." loading="lazy">
-  <figcaption>One mixed circuit solved to show both Kirchhoff laws.</figcaption>
-</figure>
-
-
 ## Method boxes
 
 **Zener series resistor**
@@ -113,6 +107,12 @@ Only the inverting amplifier needs a derivation. The specification says the LC, 
 1. Carrier frequency = 1 / (time for one fast oscillation).
 2. Information frequency = 1 / (time for one repeat of the envelope or frequency pattern).
 3. Carrier cycles per information cycle = f_carrier / f_M.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-physics-electricity--05-series-parallel-circuit.webp" width="900" height="1060" alt="An 18 V supply drives a 6.0 ohm resistor in series with 12 ohm and 4.0 ohm resistors in parallel. The pair is 3.0 ohm, total 9.0 ohm, supply current 2.0 A; the branches carry 0.50 A and 1.5 A, with 6.0 V across both. Currents add at the junction and 18 V = 12 V + 6.0 V round the loop." loading="lazy">
+  <figcaption>One mixed circuit solved to show both Kirchhoff laws.</figcaption>
+</figure>
+
 
 ## 3.13.2 Analogue and digital: key facts
 

@@ -51,6 +51,22 @@ To culture a microorganism is to provide conditions in which it grows and divide
 
 **Making a pure culture on a plate.** Streaking spreads a small sample thinly over agar so that single cells end up far apart. Each cell divides to form a visible colony. A colony is a clone of one cell.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-immunity--04-clonal-selection.webp" width="900" height="1320" alt="A macrophage presents an antigen to a T helper cell, which divides to form a clone and releases cytokines. Cytokines stimulate a B cell with a matching antibody to divide, and most of its clone become plasma cells that release antibodies; cytokines also stimulate T killer cells to destroy infected cells. Some cells become memory cells." loading="lazy">
+  <figcaption>Only lymphocytes with a matching receptor are selected, cloned and activated by T helper cytokines.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-immunity--08-herd-immunity.webp" width="900" height="930" alt="Two grids of 100 people with one case and R0 of 6. With nobody immune the case infects 6 neighbours. With 84 immune, above the 83.3 per cent needed (1 minus 1/6), every neighbour is immune and spread is blocked, protecting those who cannot be vaccinated." loading="lazy">
+  <figcaption>When enough people are immune, a pathogen cannot find susceptible hosts and the outbreak stops.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-immunity--09-antibiotic-resistance.webp" width="900" height="1150" alt="Four panels. A chance mutation makes one bacterium in 20 resistant; the antibiotic kills the 19 susceptible ones; the survivor divides to 16 cells in four generations; plasmids can pass the resistance gene to other bacteria." loading="lazy">
+  <figcaption>The antibiotic selects for resistant bacteria, which then multiply and share the gene.</figcaption>
+</figure>
+
+
 ## 6.2 Measuring the growth of microorganisms
 
 ### Cell counts
@@ -175,6 +191,12 @@ The specification asks you to investigate the rate of growth of microorganisms i
 **Ethics.** Microorganisms raise fewer concerns than animals, but use them responsibly: never release cultures, never grow unknown organisms, and sterilise waste before disposal.
 
 **Evaluating.** Turbidity includes dead cells, sampling may contaminate a flask, and incubator temperatures can vary.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-immunity--06-primary-secondary-response.webp" width="900" height="1030" alt="Graph of antibody concentration against time. After exposure on day 0 antibody appears on day 6 and peaks at 15 units on day 14. After a second exposure on day 60 it rises within a day to 240 units on day 66, 16 times higher. Mean rates of rise are 1.9 and 47.6 units per day." loading="lazy">
+  <figcaption>Memory cells make the second response faster and 16 times bigger than the first.</figcaption>
+</figure>
+
 
 ## Common errors
 

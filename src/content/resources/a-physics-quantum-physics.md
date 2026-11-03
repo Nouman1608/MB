@@ -158,6 +158,11 @@ Eₖ(max) = hf − Φ = 3.31 − 2.0 = 1.31 eV
 ```
 
 <figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-quantum-physics--02-aphy-quantum-nuclear-size.webp" width="900" height="1190" alt="Radius R against A^(1/3) is a straight line through the origin with gradient r0 = 1.2 fm, with points for He-4, Al-27, Ca-40, Fe-56 and Pb-208. The three nuclei drawn to scale have equal density 2.3e17 kg/m3 because volume is proportional to A." loading="lazy">
+  <figcaption>Nuclear radius grows as A^(1/3), so every nucleus has the same very high density (OCR only for R = r0 A^(1/3)).</figcaption>
+</figure>
+
+<figure class="topic-figure">
   <img src="https://img.marlbridge.com/a-physics-quantum-physics--07-aphy-quantum-photoelectric.webp" width="900" height="1090" alt="Graph of maximum kinetic energy against frequency for two metals with work functions 2.3 eV and 3.2 eV: straight lines of equal gradient h, with threshold frequencies 5.55 and 7.72 times 10^14 Hz and vertical intercepts minus the work function. Two small graphs show that at fixed frequency, intensity changes photocurrent but not maximum kinetic energy." loading="lazy">
   <figcaption>Frequency sets photoelectron energy and intensity sets how many are emitted.</figcaption>
 </figure>

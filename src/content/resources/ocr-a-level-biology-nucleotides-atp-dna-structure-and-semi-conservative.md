@@ -210,6 +210,11 @@ After n rounds from one molecule, 2ⁿ molecules exist but only two contain an o
   <figcaption>Only semi-conservative replication predicts both the generation 1 and generation 2 bands.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-nucleic-acids-and-protein-synthesis--06-transcription-splicing.webp" width="900" height="1255" alt="RNA polymerase copies the template strand into mRNA using complementary base pairing with A pairing to U. Example: template TAC AAG CCG TTG ATT gives AUG UUC GGC AAC UAA, which matches the non-transcribed strand with U for T. In eukaryotes a 3,180 nucleotide primary transcript has its four introns removed and the exons joined to give a 1,550 nucleotide mRNA, which leaves the nucleus through a nuclear pore." loading="lazy">
+  <figcaption>mRNA is a copy of the template strand; in eukaryotes the introns are removed before mRNA leaves the nucleus.</figcaption>
+</figure>
+
 
 ## Spontaneous mutation (2.1.3(e))
 

@@ -148,6 +148,11 @@ The key difference is that greenhouse gases let short wavelength radiation throu
   <figcaption>Greenhouse gases let short wavelengths through but absorb long wavelength radiation.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/chemistry-of-the-environment--06-greenhouse-effect.webp" width="900" height="1110" alt="Thermal energy rises from the Earth, is absorbed by carbon dioxide and methane, and some is re-emitted back down. Less escapes to space, so the Earth warms. Gases act by absorption and re-emission, not as a solid barrier." loading="lazy">
+  <figcaption>CO2 and methane absorb thermal energy and re-emit some back down, slowing loss to space.</figcaption>
+</figure>
+
 
 ### Human activities (4.9.2.2)
 
@@ -262,6 +267,11 @@ To predict products for any fuel, list its elements. Carbon gives CO₂ (or CO o
   <figcaption>Worked example 3: atom bars prove both butane equations balance.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/chemistry-of-the-environment--04-combustion-products.webp" width="900" height="1060" alt="With plenty of oxygen carbon burns to carbon dioxide. With too little oxygen it makes toxic carbon monoxide and soot particulates instead." loading="lazy">
+  <figcaption>Complete combustion gives CO2; incomplete combustion gives CO and particulates.</figcaption>
+</figure>
+
 
 ### Effects of the pollutants (4.9.3.2)
 
@@ -277,6 +287,11 @@ Acid rain damages buildings and statues made of limestone, harms trees and plant
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/aqa-gcse-chemistry-8462-chemistry-of-the-atmosphere--10-atm-acid-rain.webp" width="900" height="900" alt="Sulfur dioxide from a chimney and nitrogen oxides from a vehicle dissolve in cloud water to make acid rain. Below, acid rain damages a limestone column, harms trees and lowers the pH of a lake so a fish dies." loading="lazy">
   <figcaption>How SO2 and oxides of nitrogen cause acid rain and its three effects.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/chemistry-of-the-environment--05-pollutant-matrix.webp" width="900" height="970" alt="A grid of six pollutants against global warming, acid rain, smog and harm to health, with each pollutant source. CO2 and methane cause warming; SO2 causes acid rain; oxides of nitrogen cause acid rain, smog and breathing harm; CO and particulates harm health." loading="lazy">
+  <figcaption>A quick map from each pollutant to its source and effects.</figcaption>
 </figure>
 
 

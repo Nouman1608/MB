@@ -164,6 +164,16 @@ or the side effects of particular vaccines.
   <figcaption>Antibiotics act on bacteria; painkillers act on symptoms only.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-drugs--03-bacterium-vs-virus.webp" width="900" height="1010" alt="A bacterium is a living cell with cell wall, cell membrane, cytoplasm and a DNA loop, giving an antibiotic something to act on. A virus is a protein coat around genetic material, not a cell, so an antibiotic has nothing to act on." loading="lazy">
+  <figcaption>Antibiotics need cell structures to act on, so they work on bacteria and not on viruses.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-drugs--05-only-when-essential.webp" width="900" height="1010" alt="Extended. A cold or flu (virus) and a minor bacterial infection the body clears itself do not need antibiotics; a serious bacterial infection does. Fewer uses mean fewer chances to select resistant bacteria, so antibiotics keep working." loading="lazy">
+  <figcaption>Using antibiotics only when essential gives resistant bacteria fewer chances to be selected.</figcaption>
+</figure>
+
 
 ## 4.3.1.9 Discovery and development of drugs
 
@@ -185,6 +195,22 @@ may still be a chemical extracted from a plant.
 3. If safe, further trials find the **optimum dose**.
 4. In **double blind** trials, some patients get a **placebo**; neither patients nor doctors know who has which.
 5. Results are published only after **peer review**.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-biology-infection-and-response--06-drug-origins.webp" width="900" height="860" alt="Foxglove gives digitalis, willow gives aspirin, and Penicillium mould (discovered by Fleming) gives penicillin. Most modern drugs are synthesised by chemists." loading="lazy">
+  <figcaption>Some traditional drugs came from plants and microorganisms.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-biology-infection-and-response--06-drug-trial-stages.webp" width="900" height="1060" alt="Stage 1 preclinical testing on cells, tissues and live animals. Stage 2 a low-dose clinical trial on healthy volunteers. Stage 3 an optimum-dose trial on patients in which one group gets the drug and one a placebo and neither patients nor researchers know which until results are analysed (double-blind)." loading="lazy">
+  <figcaption>Preclinical, low-dose and optimum-dose stages, ending in a double-blind trial.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-monoclonal-antibodies-aseptic-technique-and-drug--11-placebo-comparison.webp" width="900" height="980" alt="Two grids of 120 patients. 78 improved on the new drug (65 percent) and 42 on the placebo (35 percent). The difference of 30 percentage points is credited to the drug." loading="lazy">
+  <figcaption>A placebo group shows how much improvement is not caused by the drug.</figcaption>
+</figure>
+
 
 ## 4.3.2 Monoclonal antibodies (Higher tier only)
 
@@ -211,6 +237,22 @@ You do not need to recall specific tests or treatments, but you must be able to 
 given to you. Monoclonal antibodies have caused **more side effects than expected**, so they are not yet as
 widely used as was hoped.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-biology-infection-and-response--07-mab-production.webp" width="900" height="1060" alt="Higher tier only. A mouse lymphocyte is fused with a tumour cell to form a hybridoma cell. The hybridoma divides into many identical cells, which produce one specific antibody." loading="lazy">
+  <figcaption>Hybridoma cells make a single specific (monoclonal) antibody.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-biology-infection-and-response--08-mab-cancer-targeting.webp" width="900" height="960" alt="Higher tier only. An antibody carrying a drug or radioactive substance fits antigens on a cancer cell and delivers it there, but does not bind a healthy cell. Other uses: pregnancy tests, measuring hormone levels, research with a fluorescent dye." loading="lazy">
+  <figcaption>A monoclonal antibody delivers treatment only to cancer cells.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-monoclonal-antibodies-aseptic-technique-and-drug--08-pregnancy-strip.webp" width="900" height="1040" alt="A strip with mobile antibodies on beads at the wet end. hCG binds them and flows along; the test line fixes hCG-bead complexes; the control line fixes all mobile antibodies. Two lines: positive. Control only: negative. No control line: invalid." loading="lazy">
+  <figcaption>A pregnancy test uses antibodies to detect the hormone hCG; the control line shows the test worked.</figcaption>
+</figure>
+
+
 ## 4.3.3 Plant disease
 
 **Detection (Higher tier only):** stunted growth; spots on leaves; areas of decay (rot); growths; malformed
@@ -236,6 +278,17 @@ and **aphids** (insects).
 | Physical | Cellulose cell walls; tough waxy cuticle on leaves; layers of dead cells around stems (bark) that fall off |
 | Chemical | Antibacterial chemicals; poisons to deter herbivores |
 | Mechanical adaptations | Thorns and hairs; leaves that droop or curl when touched; mimicry to trick animals |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-biology-infection-and-response--09-ion-deficiency.webp" width="900" height="760" alt="Three plants: a tall healthy green plant, a half-height stunted plant short of nitrate, and a tall plant with yellow leaves (chlorosis) short of magnesium." loading="lazy">
+  <figcaption>Nitrate deficiency stunts growth; magnesium deficiency causes chlorosis.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-biology-infection-and-response--09-plant-defences.webp" width="900" height="1140" alt="Physical barriers: waxy cuticle, cellulose cell walls, bark. Chemical defences: antibacterial chemicals and poisons. Mechanical adaptations: thorns, hairs, leaf curling and mimicry (not drawn)." loading="lazy">
+  <figcaption>Plants defend themselves physically, chemically and mechanically.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 

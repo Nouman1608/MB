@@ -198,6 +198,11 @@ A **functional protein** may be one polypeptide or several, and must fold correc
 | Disulfide | Sulfur atoms of two cysteine R groups | Covalent and strongest; not broken by modest heating or pH change |
 
 <figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-carbohydrates-and-lipids--06-polysaccharides.webp" width="900" height="1268" alt="Glucose units drawn as beads. Amylose is one unbranched alpha-1,4 chain coiled into a helix with one free end. Amylopectin has alpha-1,4 chains with alpha-1,6 branch points and 4 free ends in the drawing; glycogen is more branched with 13 free ends, so enzymes can release glucose faster. Cellulose is straight beta-1,4 chains with every second glucose flipped, joined to neighbouring chains by hydrogen bonds." loading="lazy">
+  <figcaption>Branching gives many ends for fast release; straight cellulose chains bond sideways for strength.</figcaption>
+</figure>
+
+<figure class="topic-figure">
   <img src="https://img.marlbridge.com/a-level-biology-9700-carbohydrates-and-lipids--08-protein-structure.webp" width="900" height="1297" alt="Four panels. 1 Primary: nine amino acids in sequence joined by peptide bonds. 2 Secondary: an alpha-helix and a beta-pleated sheet held by hydrogen bonds between backbone groups. 3 Tertiary: a folded chain with a disulfide bond between two cysteines, an ionic bond between lysine and aspartate, a hydrogen bond between serine and asparagine, and hydrophobic interaction between leucines. 4 Quaternary: haemoglobin, two alpha and two beta chains each with a haem group holding Fe2+, binding up to four oxygen molecules." loading="lazy">
   <figcaption>Primary sequence leads to secondary folding, tertiary R-group interactions and quaternary assembly.</figcaption>
 </figure>

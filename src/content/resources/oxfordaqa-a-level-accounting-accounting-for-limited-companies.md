@@ -78,6 +78,12 @@ Disposal            carrying amount 16,000 - 11,000       =   5,000
 
 The 18,900 charge is an expense; 528,300 appears among non-current assets.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-accounting-for-limited-companies--04-both-sides-balance.webp" width="900" height="790" alt="Two columns of 367,900 pounds compare assets (premises 206,400, machinery 43,200, current assets 118,300) with equity and liabilities (share capital 150,000, share premium 40,000, retained earnings 56,700, debentures 60,000, current liabilities 61,200)." loading="lazy">
+  <figcaption>Total assets equal total equity plus total liabilities.</figcaption>
+</figure>
+
+
 ## Revaluation of non-current assets
 
 A gain on revaluation is **unrealised**: nothing has been sold and no cash has come in. So it is not profit. It is credited to a **revaluation reserve** in equity.
@@ -100,11 +106,6 @@ Dr Accumulated depreciation: premises            57,600
 - **Future depreciation** uses the new value: eight of the 50 years have gone, so 462,000 / 42 = **11,000** a year from 2026, up from 7,200.
 
 The reserve cannot fund a cash dividend because the gain is unrealised. A later fall in value is first set against that asset's revaluation reserve.
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/aqa-a-level-accounting-accounting-for-limited-companies--04-both-sides-balance.webp" width="900" height="790" alt="Two columns of 367,900 pounds compare assets (premises 206,400, machinery 43,200, current assets 118,300) with equity and liabilities (share capital 150,000, share premium 40,000, retained earnings 56,700, debentures 60,000, current liabilities 61,200)." loading="lazy">
-  <figcaption>Total assets equal total equity plus total liabilities.</figcaption>
-</figure>
 
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/aqa-a-level-accounting-accounting-for-limited-companies--05-revaluation.webp" width="900" height="970" alt="Buildings with a carrying amount of 272,000 pounds are revalued to 408,000. The 136,000 pound unrealised gain goes to a revaluation reserve in equity, not the income statement. Yearly depreciation rises from 8,000 to 12,000 pounds." loading="lazy">
@@ -158,6 +159,11 @@ Equity rose from 324,000 to 394,000 before profit and dividends: exactly the 70,
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/aqa-a-level-accounting-accounting-for-limited-companies--06-rights-vs-bonus.webp" width="900" height="1040" alt="Equity of 605,000 pounds rises to 725,000 after a 1 for 4 rights issue (120,000 of cash). A 1 for 5 bonus issue then moves 75,000 from share premium to share capital with no cash and no change in the 725,000 total." loading="lazy">
   <figcaption>A rights issue raises cash; a bonus issue only moves reserves into share capital.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-accounting-for-limited-companies--09-goodwill.webp" width="900" height="980" alt="Net assets taken over at agreed values are 316,000 pounds. Larchfield pays 370,000 pounds: 150,000 shares valued at 2.20 plus 40,000 cash. The 54,000 difference is goodwill, an intangible asset tested for impairment and not amortised." loading="lazy">
+  <figcaption>Goodwill is the price paid above the fair value of the net assets bought.</figcaption>
 </figure>
 
 

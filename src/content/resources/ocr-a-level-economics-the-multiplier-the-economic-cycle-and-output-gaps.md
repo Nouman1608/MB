@@ -176,6 +176,16 @@ Evaluation: the full multiplier appears only when SRAS is flat (spare capacity).
   <figcaption>With an upward-sloping SRAS part of the AD shift is lost to higher prices.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-aggregate-demand-supply--01-circular-flow.webp" width="900" height="1040" alt="Households and firms are linked by income and spending flows; saving, taxes and imports leak out and investment, government spending and exports flow back in. Two bar pairs show that equal injections and withdrawals keep income steady while higher injections raise it." loading="lazy">
+  <figcaption>Withdrawals (S, T, M) leave and injections (I, G, X) enter the circular flow; national income is in equilibrium when they are equal.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-aggregate-demand-supply--05-multiplier.webp" width="900" height="902" alt="Bars show £10bn of extra spending passed on at an MPC of 0.8: 10, 8, 6.4, 5.12 and so on. A long bar adds the rounds up to a £50bn rise in income, and the formula 1 ÷ (1 − MPC) = 5 is shown." loading="lazy">
+  <figcaption>With an MPC of 0.8 the multiplier is 5, so £10bn of extra spending raises national income by £50bn.</figcaption>
+</figure>
+
 
 ## 5. The multiplier-accelerator model
 
@@ -202,6 +212,11 @@ Investment peaks in year 3, when growth is fastest, though income rises until ye
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/ocr-a-level-economics-the-multiplier-the-economic-cycle-and-output-gaps--13-mac-accelerator-lesson-table.webp" width="900" height="1000" alt="Two aligned charts for years 1 to 8 with capital-output ratio v = 2. Income: 500, 520, 545, 565, 577, 581, 579, 570, peaking in year 6. Net investment is v times the change in income: 40, 50, 40, 24, 8, minus 4 and minus 18 for years 2 to 8. Investment peaks in year 3, when income growth is fastest, and falls from year 4 even though income keeps rising until year 6, so the slowdown starts before output peaks." loading="lazy">
   <figcaption>Net investment depends on the change in income, so it peaks in year 3 while income peaks in year 6.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-aggregate-demand-supply--06-accelerator.webp" width="900" height="1000" alt="Output rises every year over six years while net investment, equal to 2 times the change in output, rises then falls to 20 and 10 once growth slows. Investment depends on the rate of change of demand, not only its level." loading="lazy">
+  <figcaption>When demand growth slows, net investment can fall even though output is still rising.</figcaption>
 </figure>
 
 
@@ -263,6 +278,11 @@ Evaluation: effects depend on the size and duration of the gap, who is affected,
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/ocr-a-level-economics-the-multiplier-the-economic-cycle-and-output-gaps--14-mac-output-gap-after-spending.webp" width="900" height="990" alt="AD/AS graph. AD0 is 1,200 minus 4P, SRAS is 400 plus 4P, so equilibrium is price 100 and real GDP 800. LRAS is a vertical line at potential output 850. The output gap is (800 minus 850) divided by 850, minus 5.88 percent. Government spending rises by 24 with multiplier 2.5, shifting AD to AD1, 1,260 minus 4P. New equilibrium is price 107.5 and real GDP 830, and the gap narrows to (830 minus 850) divided by 850, minus 2.35 percent. Both equilibria are left of LRAS, so the gap stays negative." loading="lazy">
   <figcaption>AD shifts right and equilibrium moves from 800 to 830, narrowing the output gap from -5.88% to -2.35%.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-macroeconomics--02-ad-shift.webp" width="900" height="1020" alt="Aggregate demand shifts right from AD1 to AD2 along an upward-sloping SRAS, so equilibrium moves from E1 to E2 with higher output and price level. A vertical LRAS shows spare capacity remains." loading="lazy">
+  <figcaption>A rise in a component of AD (C, I, G or X minus M) shifts the whole AD curve and raises output and the price level.</figcaption>
 </figure>
 
 

@@ -104,13 +104,33 @@ Use the same three tests every time: how many sellers, how different the product
 - Judgement: a useful benchmark, but not a description of real markets.
 
 <figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-market-structures-perfect-competition-and-monopolistic--09-farm-f-loss-shutdown.webp" width="900" height="1066" alt="At a price of 28 the farm makes 5 crates with a loss of 15 but adds 25 towards fixed costs, so it stays open. At 21, below the lowest AVC of 22.50, it shuts down because producing would lose 46 against a fixed cost of 40." loading="lazy">
+  <figcaption>Price above AVC but below AC means a loss worth bearing; price below the lowest AVC means shut down.</figcaption>
+</figure>
+
+<figure class="topic-figure">
   <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-market-structures-perfect-competition-and-monopolistic--03-advertising-gain-copied.webp" width="900" height="920" alt="Revenue and cost bars for no advert (408, 408), advertising (575, 524, profit 51) and rivals copying (408, 438, loss 30). TR and TC recomputed from the lesson functions with fixed cost 144 or 174." loading="lazy">
   <figcaption>Advertising lifts profit to 51, but if rivals copy it becomes a loss of 30.</figcaption>
 </figure>
 
 <figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-market-structures-perfect-competition-and-monopolistic--04-farm-entry-exit-price.webp" width="900" height="920" alt="Market diagram: entry takes price from 40 to 31 and farms from 100 to 138; after a demand fall, exit takes 138 to 132. Qd = 1000-10P and 970-10P; 690/5 = 138, 660/5 = 132; axes start at 560 and 22." loading="lazy">
+  <figcaption>Entry and exit return the price to minimum AC of 31.</figcaption>
+</figure>
+
+<figure class="topic-figure">
   <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-market-structures-perfect-competition-and-monopolistic--05-competitive-efficiency-tests.webp" width="900" height="960" alt="Firm diagram at price 9.80 where P = MC and AC is at its minimum, output 60. Uses the lesson cost function TC = 144+5q+0.04q^2: MC = AC = 9.80 at q = 60 asserted." loading="lazy">
   <figcaption>In perfect competition P = MC and output is at minimum AC when the assumptions hold.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-microeconomics--02-economies-of-scale-and-mes.webp" width="900" height="830" alt="Illustrative long-run average cost curve falling to a minimum of 6 at output 100 (minimum efficient scale), then rising. Falling LRAC reflects purchasing, technical, financial, managerial and marketing economies; rising LRAC reflects communication and coordination problems." loading="lazy">
+  <figcaption>Long-run average cost falls until the minimum efficient scale and rises beyond it.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-demand-and-supply-of-labour-and-competitive-labour--06-mrp-wage-taker-shift.webp" width="900" height="920" alt="MRP against workers for the ceramics studio at mug prices of 8 and 10 pounds, from the lesson table. With a wage of 58 pounds the fourth worker adds 64 and the fifth only 48, so 4 workers are hired. At 10 pounds MRP is higher at every level, the fifth worker adds 60, the curve shifts right and 5 workers are hired." loading="lazy">
+  <figcaption>The MRP curve is the firm demand for labour and shifts right when product price rises.</figcaption>
 </figure>
 
 
@@ -153,6 +173,15 @@ In the long run, AC at 25 = 2 + 3 + 0.5 = 5.50, which equals price. Excess capac
 - TR = 180, TC = 70 + 90 + 18 = 178, profit = **2**. Without advertising, profit was zero.
 - If rivals copy and demand returns to P = 7 − 0.06q, output is 25 and price 5.50. TR = 137.5 but TC = 70 + 75 + 12.5 = 157.5, a **loss of 20**.
 
+## Diagram checklist
+
+- Label both axes: price or cost on the vertical axis, output on the horizontal axis.
+- Perfect competition: horizontal AR = MR, rising MC, U-shaped AC, with MC cutting AC at its lowest point.
+- Monopolistic competition: downward-sloping AR, MR below it, and MR = MC fixing output.
+- Mark the profit-maximising output, the price, and the AC at that output.
+- Shade supernormal profit or loss as a rectangle between price and AC.
+- Show the long-run position as a second diagram, or a shifted curve with an arrow, and state why the curve moved.
+
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-market-structures-perfect-competition-and-monopolistic--08-farm-f-profit-levels.webp" width="900" height="1020" alt="MC, AC and AVC points for 1 to 7 crates. At a price of 40 the farm makes 6 crates and earns 52 supernormal profit. At a price of 31 it makes 5 crates where price equals lowest AC, so profit is normal." loading="lazy">
   <figcaption>Each farm makes the last crate whose MC is no more than the price: 6 crates at 40 (profit 52), 5 at 31 (profit 0).</figcaption>
@@ -162,16 +191,6 @@ In the long run, AC at 25 = 2 + 3 + 0.5 = 5.50, which equals price. Excess capac
   <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-market-structures-perfect-competition-and-monopolistic--10-bakery-long-run.webp" width="900" height="928" alt="Demand just touches AC at 40 loaves and 10.20. MR equals MC at 40. MC there is 8.20, so price is 2.00 above MC. Lowest AC is at 60 loaves, so there is excess capacity of 20." loading="lazy">
   <figcaption>Demand touches AC at 40 loaves: normal profit, but price is above MC and output is 20 below the lowest-AC level of 60.</figcaption>
 </figure>
-
-
-## Diagram checklist
-
-- Label both axes: price or cost on the vertical axis, output on the horizontal axis.
-- Perfect competition: horizontal AR = MR, rising MC, U-shaped AC, with MC cutting AC at its lowest point.
-- Monopolistic competition: downward-sloping AR, MR below it, and MR = MC fixing output.
-- Mark the profit-maximising output, the price, and the AC at that output.
-- Shade supernormal profit or loss as a rectangle between price and AC.
-- Show the long-run position as a second diagram, or a shifted curve with an arrow, and state why the curve moved.
 
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-market-structures-perfect-competition-and-monopolistic--02-bakery-short-run.webp" width="900" height="940" alt="Bakery B diagram: MR = MC at 50, price 12.00, AC 9.88, profit rectangle 106. D = 15-0.06q, MR = 15-0.12q, MC = 5+0.08q, AC = 144/q+5+0.04q; q=50, TR 600, TC 494, profit 106 asserted." loading="lazy">
@@ -214,17 +233,6 @@ In the long run, AC at 25 = 2 + 3 + 0.5 = 5.50, which equals price. Excess capac
 8. **Brand loyalty** makes demand less elastic. **Better quality or information** helps buyers.
 9. Examples: **no externalities**, perfect knowledge, or free entry.
 10. (5.50 − 6.60) ÷ 6.60 × 100 = **−16.7%**.
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-market-structures-perfect-competition-and-monopolistic--09-farm-f-loss-shutdown.webp" width="900" height="1066" alt="At a price of 28 the farm makes 5 crates with a loss of 15 but adds 25 towards fixed costs, so it stays open. At 21, below the lowest AVC of 22.50, it shuts down because producing would lose 46 against a fixed cost of 40." loading="lazy">
-  <figcaption>Price above AVC but below AC means a loss worth bearing; price below the lowest AVC means shut down.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-market-structures-perfect-competition-and-monopolistic--04-farm-entry-exit-price.webp" width="900" height="920" alt="Market diagram: entry takes price from 40 to 31 and farms from 100 to 138; after a demand fall, exit takes 138 to 132. Qd = 1000-10P and 970-10P; 690/5 = 138, 660/5 = 132; axes start at 560 and 22." loading="lazy">
-  <figcaption>Entry and exit return the price to minimum AC of 31.</figcaption>
-</figure>
-
 
 ## Where marks are usually lost
 

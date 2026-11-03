@@ -213,6 +213,12 @@ Dilution leaves the ratio, and so the pH, nearly unchanged. It does lower the bu
 10. **Almost no change**; the ratio stays 1 : 4.
 11. Cl⁻ does not accept protons, so nothing removes added H⁺ (**no weak acid/conjugate pair**).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-proton-transfer-kw-ka-kb-buffers-and-titration-curves--03-weak-acid-ph.webp" width="900" height="890" alt="A grid of 100 HNO2 particles shows only about 5 split into ions, so [HA] stays about 0.250. The two assumptions give [H+] = sqrt(Ka x [HA]) = 1.18 x 10^-2 and pH 1.93. A panel repeats the method for 0.200 mol dm^-3 dimethylamine, giving pH 12.02." loading="lazy">
+  <figcaption>Only a few percent of a weak acid ionises, which is why [H+] = sqrt(Ka x [HA]) works (HL only).</figcaption>
+</figure>
+
+
 ## Where marks are usually lost
 
 - Giving pH when the question asks for pOH, or the other way round.

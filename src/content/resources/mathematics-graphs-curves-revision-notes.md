@@ -145,6 +145,11 @@ The answer is always the **x-coordinate**, not the coordinate pair.
   <figcaption>Reading the root of x³ + x − 4 = 0 from where the curve meets y = 0.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-graphs-of-functions-and-sketching-curves--02-solve-with-a-line.webp" width="900" height="1090" alt="The curve y = x² − 2x − 3 is drawn once. Its x-axis crossings (x = −1 and 3) solve x² − 2x − 3 = 0. Rearranging x² − 4x − 1 = 0 gives the line y = 2x − 2, which meets the curve at about x = −0.2 and 4.2." loading="lazy">
+  <figcaption>Draw the curve once, then choose the line that matches the equation to solve.</figcaption>
+</figure>
+
 
 ## Gradient of a curve
 
@@ -154,6 +159,17 @@ In context, the gradient is a **rate of change**:
 
 - Distance–time graph → gradient is **speed**.
 - Speed–time graph → gradient is **acceleration**, and the **area under** the graph is the **distance travelled**. This syllabus only requires areas made up of linear sections (e.g. triangles and trapezia), not curved regions.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-graphs-in-practical-situations--05-tangent-speed.webp" width="900" height="930" alt="A curved distance-time graph through (0, 0), (1, 1), (2, 4), (3, 9), (4, 16), (5, 25). A tangent at (3, 9) passes through (2, 3) and (5, 21), so its gradient is 18 divided by 3 = 6 m/s. A chord to (5, 25) has gradient 8 and only gives an average." loading="lazy">
+  <figcaption>Speed at one instant is the gradient of the tangent, not of a chord.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-graphs-in-practical-situations--06-speed-time-area.webp" width="900" height="890" alt="A speed-time graph for a cyclist: 0 to 12 m/s in 8 s, 12 m/s for 20 s, then to rest in 6 s. The area under the graph is the distance, 48 + 240 + 36 = 324 m, and the average speed is 324 divided by 34 = 9.53 m/s." loading="lazy">
+  <figcaption>Gradient is acceleration and area under the graph is distance.</figcaption>
+</figure>
+
 
 ## Sketching from a table of values vs recognising the equation
 
@@ -173,6 +189,12 @@ x = −2 to 4. At x = −1, y = (−1)² − 2(−1) − 3 = 1 + 2 − 3 = 0, so
 root. The turning point lies on the line of symmetry, halfway between
 the roots at x = 1, giving y = 1 − 2 − 3 = −4, so the minimum is
 (1, −4).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-graphs-of-functions-and-sketching-curves--01-table-to-curve.webp" width="900" height="1090" alt="A table of values for y = x² − 2x − 3 from x = −2 to 5 (y = 5, 0, −3, −4, −3, 0, 5, 12) is plotted as crosses and joined by a smooth U-shaped curve. The curve is symmetrical about the dashed line x = 1. It is drawn smoothly, not with ruler segments." loading="lazy">
+  <figcaption>Plot a table, then draw one smooth curve; the table is symmetrical about x = 1.</figcaption>
+</figure>
+
 
 ## Transformations of graphs (extension, not a 4024 learning outcome)
 
@@ -197,12 +219,6 @@ This lets you sketch, for example, `y = x² + 3` directly from the
 standard parabola shape shifted up 3 units, without plotting a single
 point.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/mathematics-graphs-curves-revision-notes--01-transform-parabola.webp" width="900" height="1300" alt="Three small graphs each show the dashed parabola y = x squared and a solid new curve. Adding 3 moves it up 3, replacing x by x + 2 moves it left 2, and putting a minus sign in front flips it in the x-axis." loading="lazy">
-  <figcaption>The three shifting rules applied to y = x².</figcaption>
-</figure>
-
-
 ## Exam traps
 
 - Plotting points without recognising the expected shape, so an error goes unnoticed.
@@ -220,3 +236,9 @@ point.
 4. On a speed–time graph, what do the gradient and the area under the graph represent?
 
 **Answers:** 1. A hyperbola with two branches; asymptotes along both the x-axis and the y-axis. 2. The product of their gradients is −1. 3. Draw a tangent to the curve at that point and calculate the gradient of the tangent. 4. The gradient is the acceleration; the area under the graph is the distance travelled.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/mathematics-graphs-curves-revision-notes--01-transform-parabola.webp" width="900" height="1300" alt="Three small graphs each show the dashed parabola y = x squared and a solid new curve. Adding 3 moves it up 3, replacing x by x + 2 moves it left 2, and putting a minus sign in front flips it in the x-axis." loading="lazy">
+  <figcaption>The three shifting rules applied to y = x².</figcaption>
+</figure>
+

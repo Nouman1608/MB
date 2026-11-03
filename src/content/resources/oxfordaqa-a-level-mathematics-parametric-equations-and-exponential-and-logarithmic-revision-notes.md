@@ -99,6 +99,12 @@ ln a + ln b = ln(ab)        ln a − ln b = ln(a/b)
 k ln a = ln(aᵏ)             ln 1 = 0,  ln e = 1
 ```
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-maths-9709-pure-mathematics-2-logarithms-and-exponentials--01-inverse-graphs.webp" width="900" height="900" alt="The orange curve y = e^x passes through (0, 1) and (1, e) and approaches the x-axis. The blue curve y = ln x passes through (1, 0) and (e, 1) and approaches the y-axis. They are mirror images in the dashed line y = x, so the functions are inverses." loading="lazy">
+  <figcaption>The graph of ln x is the reflection of eˣ in y = x.</figcaption>
+</figure>
+
+
 ## Transforming the graphs
 
 | Equation | Effect | Asymptote | Axis crossing |
@@ -194,6 +200,17 @@ Method in steps for a model problem:
 10. y = ln(x − 1) gives x = eʸ + 1, so f⁻¹(x) = eˣ + 1.
 11. e⁻⁵ᵏ = 1/2, so k = ln 2/5 = 0.139.
 12. e^(0.2t) = 4, so t = ln 4/0.2 = 6.93.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-maths-9709-pure-mathematics-2-logarithms-and-exponentials--04-log-ruler-laws.webp" width="900" height="940" alt="A log ruler marks 1 to 10 at their base-10 logs. Bars of length lg 2 and lg 3 end at 6, so lg 2 + lg 3 = lg 6. A bar lg 8 minus lg 2 has length lg 4. Two bars of lg 3 end at 9, so 2 lg 3 = lg 9." loading="lazy">
+  <figcaption>Logarithms turn products into sums: lengths on a log ruler add.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-maths-9709-pure-mathematics-2-logarithms-and-exponentials--05-solve-index.webp" width="900" height="1160" alt="The graph of 5^x meets y = 40 at x = 2.29 (ln 40 divided by ln 5). Below, points 0.8^n fall; n = 13 gives 0.0550 and n = 14 gives 0.0440, the first below 0.05. Dividing by the negative ln 0.8 reverses the inequality, so n &gt; 13.4." loading="lazy">
+  <figcaption>Taking logs solves aˣ = b, and a negative log reverses an inequality.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

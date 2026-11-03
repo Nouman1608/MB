@@ -95,6 +95,11 @@ Sketch the graph first; a labelled sketch makes the area method clear.
   <figcaption>Gradients give acceleration; areas give displacement, and distance counts every area as positive.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-kinematics--04-vertical-two-roots.webp" width="900" height="910" alt="A displacement-time parabola for a ball thrown up at 21 m/s peaks at 22.5 m. The line s = 15 m meets it at t = 0.91 s going up and t = 3.38 s coming down, with velocities plus and minus 12.1 m/s from the tangent gradients. The gap of 2.47 s is the time above 15 m." loading="lazy">
+  <figcaption>The two roots of the quadratic are the times going up and coming down through the same height.</figcaption>
+</figure>
+
 
 ## Q3: Constant acceleration (suvat)
 

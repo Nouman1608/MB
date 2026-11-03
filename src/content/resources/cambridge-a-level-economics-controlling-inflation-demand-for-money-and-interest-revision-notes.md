@@ -86,6 +86,11 @@ Key formulas:
   <figcaption>A fall in business confidence shifts AD left, cutting output and the price level in the short run while LRAS stays put.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-aggregate-demand-supply--04-supply-side-shock.webp" width="900" height="910" alt="A rise in world oil prices lifts production costs and shifts SRAS left from SRAS1 to SRAS2. Equilibrium moves from output 90, price level 65 to output 65, price level 77.5. LRAS does not move." loading="lazy">
+  <figcaption>A cost shock shifts SRAS left, raising prices and cutting output, without changing underlying capacity.</figcaption>
+</figure>
+
 
 ## 9.4.7 Demand for money: liquidity preference
 
@@ -146,6 +151,16 @@ Evaluation: the two theories are not rivals in every case. A central bank that s
   <figcaption>Real rate = nominal rate − inflation: 4 − 5 = −1% is loose, 7 − 5 = +2% is tight.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-how-markets-work--06-interest-rate-effects.webp" width="900" height="890" alt="A saver with 5,000 pounds earns 100 pounds at 2% and 150 pounds at 3%. A borrower of 10,000 pounds pays 500 pounds at 5% and 700 pounds at 7%. A higher rate rewards savers and costs borrowers more." loading="lazy">
+  <figcaption>A rise in interest rates makes saving more rewarding and borrowing more expensive.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-aggregate-demand-supply--08-keynesian-as.webp" width="900" height="1030" alt="The Keynesian AS curve is flat with spare capacity, rises as bottlenecks appear and becomes vertical at full capacity. Three AD curves cross it at E1 (output 30, price 40), E2 (output 60, price 50) and E3 (output 80, price 85), showing output-only, both, then price-only effects." loading="lazy">
+  <figcaption>On the Keynesian AS curve a rise in AD raises output on the flat part, both on the rising part and only prices on the vertical part.</figcaption>
+</figure>
+
 
 ## Chains of reasoning to rehearse
 
@@ -158,6 +173,12 @@ Evaluation: the two theories are not rivals in every case. A central bank that s
 **Supply-side policy against inflation.** Training and infrastructure raise productivity. Unit costs fall, SRAS and LRAS shift right, the price level falls relative to the baseline and real output rises. The benefit is lasting but slow, and the policy costs money.
 
 **Worked reminder (loanable funds).** Demand 80 − 5r, supply 20 + 5r. Then 60 = 10r, so r = 6% and the quantity is 50. If the supply rises by 10 at every rate, 80 − 5r = 30 + 5r gives r = 5% and the quantity is 55.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-aggregate-demand-supply--07-lras-growth.webp" width="900" height="1000" alt="LRAS shifts right from output 100 to 130, with SRAS shifted right by the same amount. Equilibrium moves from output 90, price level 65 to output 105, price level 57.5. Technology, productivity, enterprise, factor mobility, incentives and institutions are listed as causes." loading="lazy">
+  <figcaption>Underlying economic growth is a rightward shift in LRAS, raising output and easing prices.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 

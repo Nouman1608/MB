@@ -45,11 +45,6 @@ Links: [OCR GCSE Mathematics hub](/boards/ocr/gcse/mathematics/), [checklist](/c
 Slant height of a cone: l = √(r² + h²). Slant height of a face of a square-based pyramid: √(h² + (half the base side)²).
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-mathematics-0580-surface-area-and-volume--01-prism-volume.webp" width="900" height="740" alt="A triangular prism whose cross-section is a right-angled triangle with sides 6 cm, 8 cm and 10 cm. The triangle has area 24 square centimetres. The prism is 15 cm long, shown by an arrow along its length. Volume equals cross-section area times length, 24 times 15 equals 360 cubic centimetres." loading="lazy">
-  <figcaption>A triangular prism with a 6-8-10 cross-section of area 24 cm2 and length 15 cm has volume 24 x 15 = 360 cm3.</figcaption>
-</figure>
-
-<figure class="topic-figure">
   <img src="https://img.marlbridge.com/igcse-mathematics-0580-surface-area-and-volume--05-slant-vs-height.webp" width="900" height="1080" alt="Top, a square-based pyramid with base 16 and vertical height 15 from the apex to the centre of the base. A right-angled triangle inside it uses the vertical height 15, half the base 8, and the slant height 17 on a face. This slant-height step is Extended. Bottom, a cone with radius 6, vertical height 8 and slant height 10. Volume uses the vertical height; curved surface area uses the slant height." loading="lazy">
   <figcaption>The vertical height goes in the volume formula and the slant height in the curved surface area. Pythagoras links them: 15, 8, 17 in the pyramid and 6, 8, 10 in the cone.</figcaption>
 </figure>
@@ -96,8 +91,28 @@ Convert all lengths to one unit before you multiply. Area conversions use the sq
 3. For a cube root or square root, check the answer back in the formula.
 
 <figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-mathematics-surface-area-and-volume-of-prisms-cylinders-cones--02-composite-exposed-faces.webp" width="900" height="800" alt="A silo: a cylinder of radius 3 m and height 8 m with a hemisphere on top. The join circle is dashed because it is inside the solid and not counted, and the base is not painted. Curved wall 48 pi plus dome 18 pi gives 66 pi, about 207.3 square metres." loading="lazy">
+  <figcaption>In a composite solid, the face where two parts join disappears from the surface area.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-mathematics-surface-area-and-volume-of-prisms-cylinders-cones--09-slant-lesson-numbers.webp" width="900" height="820" alt="A cone with r = 12, h = 16 and slant l = 20, and a square-based pyramid with base side 14, h = 24, half-side 7 and face slant height 25. Each uses Pythagoras to turn perpendicular height into slant height." loading="lazy">
+  <figcaption>Slant height comes from Pythagoras; volume uses the perpendicular height.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-surface-area-and-volume--01-prism-volume.webp" width="900" height="740" alt="A triangular prism whose cross-section is a right-angled triangle with sides 6 cm, 8 cm and 10 cm. The triangle has area 24 square centimetres. The prism is 15 cm long, shown by an arrow along its length. Volume equals cross-section area times length, 24 times 15 equals 360 cubic centimetres." loading="lazy">
+  <figcaption>A triangular prism with a 6-8-10 cross-section of area 24 cm2 and length 15 cm has volume 24 x 15 = 360 cm3.</figcaption>
+</figure>
+
+<figure class="topic-figure">
   <img src="https://img.marlbridge.com/igcse-mathematics-0580-surface-area-and-volume--02-prism-net.webp" width="900" height="940" alt="The net of the triangular prism. Three rectangles side by side, 6 by 15, 8 by 15 and 10 by 15, with areas 90, 120 and 150 square centimetres, add to 360. A triangle of area 24 is attached above and another below the middle rectangle. The two ends total 48. Surface area is 48 plus 360, which is 408 square centimetres." loading="lazy">
   <figcaption>The net of the prism shows two triangular ends (48) and three rectangles (360), giving a surface area of 408 cm2.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-geometrical-terms-constructions-and-scale-drawings--03-pyramid-net.webp" width="900" height="1130" alt="Net of a square-based pyramid: 6 cm square (area 36) and four triangles 5 cm high (area 15 each), so surface area 96 cm squared. A 3-4-5 right-angled triangle shows the vertical height is 4 cm, so volume is 48 cm cubed." loading="lazy">
+  <figcaption>The slant height 5 is not the vertical height 4 used in the volume.</figcaption>
 </figure>
 
 
@@ -161,17 +176,6 @@ Surface area = 44π ≈ 138.2 cm²
 - Exact and rounded answers. Give π in the answer if the question asks for it, otherwise follow the stated accuracy.
 - A hemisphere as a bowl (open, one curved surface 2πr²) and as a solid (add the flat face πr²).
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ocr-gcse-mathematics-surface-area-and-volume-of-prisms-cylinders-cones--06-sphere-hemisphere.webp" width="900" height="820" alt="A sphere of radius 7.5 cm (V = 562.5 pi, area 225 pi) and a solid hemisphere of radius 9 cm (V = 486 pi, curved 162 pi, flat face 81 pi, total 243 pi). Working backwards: (4/3) pi r^3 = 2304 pi gives r^3 = 1728 and r = 12." loading="lazy">
-  <figcaption>Sphere and hemisphere values from worked examples 5 and 6, and finding r from the volume.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ocr-gcse-mathematics-surface-area-and-volume-of-prisms-cylinders-cones--09-slant-lesson-numbers.webp" width="900" height="820" alt="A cone with r = 12, h = 16 and slant l = 20, and a square-based pyramid with base side 14, h = 24, half-side 7 and face slant height 25. Each uses Pythagoras to turn perpendicular height into slant height." loading="lazy">
-  <figcaption>Slant height comes from Pythagoras; volume uses the perpendicular height.</figcaption>
-</figure>
-
-
 ## Quick self-test
 
 1. A cube has side 7 cm. Find its surface area.
@@ -199,6 +203,11 @@ Surface area = 44π ≈ 138.2 cm²
 10. 320 + (1/3) × 64 × 3 = 320 + 64 = **384 cm³**.
 
 <figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-mathematics-surface-area-and-volume-of-prisms-cylinders-cones--06-sphere-hemisphere.webp" width="900" height="820" alt="A sphere of radius 7.5 cm (V = 562.5 pi, area 225 pi) and a solid hemisphere of radius 9 cm (V = 486 pi, curved 162 pi, flat face 81 pi, total 243 pi). Working backwards: (4/3) pi r^3 = 2304 pi gives r^3 = 1728 and r = 12." loading="lazy">
+  <figcaption>Sphere and hemisphere values from worked examples 5 and 6, and finding r from the volume.</figcaption>
+</figure>
+
+<figure class="topic-figure">
   <img src="https://img.marlbridge.com/ocr-gcse-mathematics-surface-area-and-volume-of-prisms-cylinders-cones--08-cone-from-cylinder.webp" width="900" height="720" alt="A cylinder r = 3, h = 4 with a same-size cone hollowed out. Surface: base 9 pi, curved wall 24 pi, cone surface 15 pi, total 48 pi. Volume 36 pi - 12 pi = 24 pi." loading="lazy">
   <figcaption>The cone replaces the open end, so there is no top circle in the surface area.</figcaption>
 </figure>
@@ -213,11 +222,6 @@ Surface area = 44π ≈ 138.2 cm²
   <figcaption>A cone is one third of the cylinder with the same base and height, and a pyramid one third of the matching prism.</figcaption>
 </figure>
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-mathematics-0580-geometrical-terms-constructions-and-scale-drawings--03-pyramid-net.webp" width="900" height="1130" alt="Net of a square-based pyramid: 6 cm square (area 36) and four triangles 5 cm high (area 15 each), so surface area 96 cm squared. A 3-4-5 right-angled triangle shows the vertical height is 4 cm, so volume is 48 cm cubed." loading="lazy">
-  <figcaption>The slant height 5 is not the vertical height 4 used in the volume.</figcaption>
-</figure>
-
 
 ## Where marks are usually lost
 
@@ -230,12 +234,6 @@ Surface area = 44π ≈ 138.2 cm²
 - Rounding π to 3.14 or rounding mid-way and finishing a few units out. Examiners advise keeping exact values until the end.
 - Not showing the substitution. If you write only a final decimal and it is wrong, there is little to credit.
 - Writing the wrong unit, or none, on the final answer.
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ocr-gcse-mathematics-surface-area-and-volume-of-prisms-cylinders-cones--02-composite-exposed-faces.webp" width="900" height="800" alt="A silo: a cylinder of radius 3 m and height 8 m with a hemisphere on top. The join circle is dashed because it is inside the solid and not counted, and the base is not painted. Curved wall 48 pi plus dome 18 pi gives 66 pi, about 207.3 square metres." loading="lazy">
-  <figcaption>In a composite solid, the face where two parts join disappears from the surface area.</figcaption>
-</figure>
-
 
 ## Official syllabus
 

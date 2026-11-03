@@ -92,6 +92,11 @@ The same atoms give very different materials depending on bonding and arrangemen
   <figcaption>Graphite has layers held by weak forces and delocalised electrons that conduct.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-chemistry-4ch1-ionic-covalent-and-metallic-bonding--06-c60-fullerene.webp" width="900" height="920" alt="A C60 fullerene molecule drawn from computed coordinates is a hollow ball of 60 carbon atoms made of 20 hexagons and 12 pentagons, each carbon bonded to three others. Below, two separate C60 molecules are held to each other only by weak forces, so the substance is soft and conducts poorly, unlike diamond whose atoms form a giant covalent network." loading="lazy">
+  <figcaption>C60 is made only of carbon but is simple molecular, not a giant structure.</figcaption>
+</figure>
+
 
 ## Changes of state and bond strength (C2.3d, C2.3e)
 

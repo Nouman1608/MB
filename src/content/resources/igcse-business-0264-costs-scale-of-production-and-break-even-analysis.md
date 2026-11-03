@@ -263,6 +263,11 @@ A higher price lowers break-even output, but it may also cut the number of bikes
   <figcaption>Straight lines on a break-even chart hide assumptions about price, variable cost and fixed costs.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-business-finance--03-break-even-shifts.webp" width="900" height="1290" alt="Two charts with the old lines dashed. A price rise to 19.50 steepens revenue and moves break-even from 800 to 700. Fixed costs rising to 9,240 shift total costs up in parallel and move break-even to 880." loading="lazy">
+  <figcaption>A higher price lowers break-even; higher fixed costs raise it.</figcaption>
+</figure>
+
 
 ## Common errors
 

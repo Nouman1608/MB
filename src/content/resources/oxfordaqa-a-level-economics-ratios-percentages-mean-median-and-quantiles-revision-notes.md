@@ -45,6 +45,12 @@ Quick-recall notes for quantitative skills QS1 to QS3 in section 3.5 of the Oxfo
 | Percentile | Position out of 100 |
 | Interquartile range (IQR) | Q3 − Q1 |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-ratios-percentages-mean-median-and-quantiles--09-quartiles-iqr.webp" width="900" height="820" alt="Eleven ordered incomes with positions 1 to 11. Q1 is at position 3 (11), the median at position 6 (18) and Q3 at position 9 (30), so the IQR is 19. The mean of 28.55 is well above the median." loading="lazy">
+  <figcaption>Quartiles sit at position (n + 1) x fraction, and the IQR ignores extreme values.</figcaption>
+</figure>
+
+
 ## Formulas and rules
 
 | Task | Rule |
@@ -81,12 +87,6 @@ Quick-recall notes for quantitative skills QS1 to QS3 in section 3.5 of the Oxfo
 
 **Quartiles.** Order the data. Find the position (n + 1) × 0.25, 0.5 and 0.75. When the position falls between two places, add that fraction of the gap between the neighbouring values to the lower one. State the rule you used.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-ratios-percentages-mean-median-and-quantiles--06-sharing-in-a-ratio.webp" width="900" height="930" alt="A 360 budget in the ratio 5:3:1 is nine parts of 40, giving 200, 120 and 40. Exports of 48 and imports of 60 simplify to 4:5, so exports are 0.8 of imports." loading="lazy">
-  <figcaption>Add the parts, find one part, then multiply; ratios and fractions are two views of the same split.</figcaption>
-</figure>
-
-
 ## Small worked reminders
 
 ```
@@ -112,11 +112,6 @@ Pay 10 (3 workers), 20 (2), 50 (1) -> (30 + 40 + 50) / 6 = 20
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-ratios-percentages-mean-median-and-quantiles--08-mean-or-median.webp" width="900" height="930" alt="Nine household incomes in order; the median is 18 but the single income of 95 pulls the mean up to 26. Without it the mean is 17.4 and the median 17." loading="lazy">
   <figcaption>One extreme value moves the mean far more than the median.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-ratios-percentages-mean-median-and-quantiles--09-quartiles-iqr.webp" width="900" height="820" alt="Eleven ordered incomes with positions 1 to 11. Q1 is at position 3 (11), the median at position 6 (18) and Q3 at position 9 (30), so the IQR is 19. The mean of 28.55 is well above the median." loading="lazy">
-  <figcaption>Quartiles sit at position (n + 1) x fraction, and the IQR ignores extreme values.</figcaption>
 </figure>
 
 <figure class="topic-figure">
@@ -196,17 +191,22 @@ Step 1: the capital's mean is 29% above its median, so a few high earners are ra
 - Calculating well but not saying what the figure means for the economic question.
 - Using the mean to describe "typical" income when the data are skewed, with no comment on the skew.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-ratios-percentages-mean-median-and-quantiles--04-interpolated-quantiles.webp" width="900" height="900" alt="Eight ordered values numbered 1 to 8 with arrows at positions 2.25, 4.5 and 6.75 giving Q1 = 25.5, median = 33.5 and Q3 = 49, so IQR = 23.5." loading="lazy">
-  <figcaption>With n + 1 = 9, quantile positions fall between values and are interpolated.</figcaption>
-</figure>
-
-
 ## Next steps
 
 - Re-read the [study guide](/resources/oxfordaqa-a-level-economics-ratios-percentages-mean-median-and-quantiles/).
 - Try the [practice questions](/resources/oxfordaqa-a-level-economics-ratios-percentages-mean-median-and-quantiles-practice/).
 - Take a [free 10-minute diagnostic](/diagnostics/).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-ratios-percentages-mean-median-and-quantiles--06-sharing-in-a-ratio.webp" width="900" height="930" alt="A 360 budget in the ratio 5:3:1 is nine parts of 40, giving 200, 120 and 40. Exports of 48 and imports of 60 simplify to 4:5, so exports are 0.8 of imports." loading="lazy">
+  <figcaption>Add the parts, find one part, then multiply; ratios and fractions are two views of the same split.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-ratios-percentages-mean-median-and-quantiles--04-interpolated-quantiles.webp" width="900" height="900" alt="Eight ordered values numbered 1 to 8 with arrows at positions 2.25, 4.5 and 6.75 giving Q1 = 25.5, median = 33.5 and Q3 = 49, so IQR = 23.5." loading="lazy">
+  <figcaption>With n + 1 = 9, quantile positions fall between values and are interpolated.</figcaption>
+</figure>
+
 
 ## Official syllabus
 

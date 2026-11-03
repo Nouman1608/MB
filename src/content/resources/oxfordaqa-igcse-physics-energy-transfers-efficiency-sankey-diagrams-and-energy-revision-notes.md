@@ -150,6 +150,12 @@ Reminder: a diagram with input 40 mm wide and useful arrow 10 mm wide, at 1 mm f
 
 Some energy from burning a fuel goes to the surroundings, so the useful energy is less than the energy content. Fuel efficiency = useful energy transferred / energy released by the fuel. Energy released = mass x energy content per kilogram.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/energy-resources-and-efficiency--02-steam-power-station.webp" width="900" height="920" alt="Fossil fuels, biofuels, nuclear fuel and geothermal heat all supply heat to a boiler. The boiler turns water to steam, which spins a turbine. The turbine turns a generator that makes electricity." loading="lazy">
+  <figcaption>Fossil fuels, biofuels, nuclear fuel and geothermal all heat water to steam to spin a turbine and generator.</figcaption>
+</figure>
+
+
 ## Energy sources (3.2.3 c)
 
 | Source | Type | Environmental points |
@@ -188,6 +194,11 @@ For a scenario question, pick the source that suits the stated location, then gi
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/oxfordaqa-igcse-physics-energy-transfers-efficiency-sankey-diagrams-and-energy--09-en-geothermal.webp" width="900" height="925" alt="Water goes down one borehole into hot rock and comes back up as steam, which turns a turbine and a generator at the surface. Advantage: steady output day and night. Drawback: needs accessible hot rock." loading="lazy">
   <figcaption>Geothermal power uses heat from hot rock to make steam for a turbine.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/energy-resources-and-efficiency--03-direct-and-solar.webp" width="900" height="990" alt="Wind, falling water, tides and waves spin a turbine directly with no boiler, and the turbine turns a generator. Solar cells below convert radiation to electricity directly with no turbine or generator." loading="lazy">
+  <figcaption>Wind, water, tides and waves spin a turbine directly; solar cells skip the turbine and generator.</figcaption>
 </figure>
 
 

@@ -87,6 +87,12 @@ cumulative frequency diagrams
 with frequency density, defined as frequency density = frequency ÷
 class width, with the vertical axis labelled "Frequency density"
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-statistics--02-frequency-table-averages.webp" width="900" height="950" alt="A frequency table of pets owned by 20 students. Multiplying pets by students gives 0, 8, 8, 6 and 4, a total of 26, so the mean is 26 / 20 = 1.3. The mode is 1 and the median is 1." loading="lazy">
+  <figcaption>For a frequency table, multiply each value by its frequency, add, then divide by the total frequency.</figcaption>
+</figure>
+
+
 ## How to approach it
 
 The single most consequential Core/Extended distinction in this topic
@@ -104,11 +110,6 @@ onto it. For Extended histograms, remember that the vertical axis
 plots frequency density, not frequency directly — this is essential
 whenever class widths are unequal, since frequency alone would
 visually exaggerate wider classes.
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-mathematics-statistics--02-frequency-table-averages.webp" width="900" height="950" alt="A frequency table of pets owned by 20 students. Multiplying pets by students gives 0, 8, 8, 6 and 4, a total of 26, so the mean is 26 / 20 = 1.3. The mode is 1 and the median is 1." loading="lazy">
-  <figcaption>For a frequency table, multiply each value by its frequency, add, then divide by the total frequency.</figcaption>
-</figure>
 
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/igcse-mathematics-statistics--04-correlation-types.webp" width="900" height="1010" alt="Three scatter diagrams: positive correlation (y rises with x), negative correlation (y falls as x rises) and zero correlation (no pattern, so no line of best fit)." loading="lazy">
@@ -168,17 +169,6 @@ without first ordering the data within each stem. Reporting the mode
 of grouped data as a single value rather than correctly identifying
 only the modal class (Extended).
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-mathematics-statistics--06-histogram-frequency-density.webp" width="900" height="850" alt="A histogram of ages of 120 people with unequal class widths. Frequency density = frequency / class width gives 2, 2.5, 3 and 1. The 10 to 30 class has most people (50) but the 30 to 40 bar is the tallest." loading="lazy">
-  <figcaption>With unequal class widths the bar height is frequency density, and the bar area equals the frequency.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-mathematics-statistics--07-stem-and-leaf-order.webp" width="900" height="680" alt="The same 15 values as an unordered and an ordered stem-and-leaf diagram. Counting to the 8th leaf unordered gives 38, which is wrong. Ordered, the 8th leaf is 31, the median. Key: 3 | 1 means 31." loading="lazy">
-  <figcaption>Order the leaves in each row before counting to the median.</figcaption>
-</figure>
-
-
 ## Quick revision checklist
 
 - Practise distinguishing individual data (list or ungrouped
@@ -193,6 +183,17 @@ only the modal class (Extended).
   histograms with unequal class widths.
 - For Extended, practise reading percentiles, quartiles and the
   interquartile range directly from a cumulative frequency diagram.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-statistics--06-histogram-frequency-density.webp" width="900" height="850" alt="A histogram of ages of 120 people with unequal class widths. Frequency density = frequency / class width gives 2, 2.5, 3 and 1. The 10 to 30 class has most people (50) but the 30 to 40 bar is the tallest." loading="lazy">
+  <figcaption>With unequal class widths the bar height is frequency density, and the bar area equals the frequency.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-statistics--07-stem-and-leaf-order.webp" width="900" height="680" alt="The same 15 values as an unordered and an ordered stem-and-leaf diagram. Counting to the 8th leaf unordered gives 38, which is wrong. Ordered, the 8th leaf is 31, the median. Key: 3 | 1 means 31." loading="lazy">
+  <figcaption>Order the leaves in each row before counting to the median.</figcaption>
+</figure>
+
 
 ## Official syllabus
 

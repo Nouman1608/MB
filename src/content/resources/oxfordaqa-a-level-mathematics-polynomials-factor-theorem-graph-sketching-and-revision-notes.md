@@ -215,6 +215,12 @@ For y = x² − 4x + 7, the line of symmetry is x = 2 and the vertex is (2, 3). 
 9. Replace x by (x − 2) and subtract 3: y = (x − 2)² − 6(x − 2) − 3 = **x² − 10x + 13**.
 10. The y-intercept is (0, −2). The curve crosses the x-axis at (2, 0) and touches it at (−1, 0). The cubic has a positive leading coefficient, so it rises from the lower left to the upper right.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-polynomial-manipulation-algebraic-division-and-the--01-factor-theorem-graph.webp" width="900" height="1020" alt="Graph of f(x) = x cubed minus 4x squared minus 7x + 10 crossing the x-axis at minus 2, 1 and 5. Each root is marked and labelled with its linear factor (x + 2), (x - 1), (x - 5). A zero of the function corresponds to a linear factor." loading="lazy">
+  <figcaption>A root of f is where the graph meets the x-axis, and it gives a linear factor.</figcaption>
+</figure>
+
+
 ## Where marks are usually lost
 
 - Testing f(2) when the divisor is (x + 2), or f(−2) when it is (x − 2).
@@ -226,12 +232,6 @@ For y = x² − 4x + 7, the line of symmetry is x = 2 and the vertex is (2, 3). 
 - Forgetting that f(2x) halves the x-values: scale factor 1/2, not 2.
 - Giving intercepts as numbers when the question asks for coordinates.
 - Sketching a double root as a crossing.
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-polynomial-manipulation-algebraic-division-and-the--01-factor-theorem-graph.webp" width="900" height="1020" alt="Graph of f(x) = x cubed minus 4x squared minus 7x + 10 crossing the x-axis at minus 2, 1 and 5. Each root is marked and labelled with its linear factor (x + 2), (x - 1), (x - 5). A zero of the function corresponds to a linear factor." loading="lazy">
-  <figcaption>A root of f is where the graph meets the x-axis, and it gives a linear factor.</figcaption>
-</figure>
-
 
 ## Official syllabus
 

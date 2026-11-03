@@ -105,6 +105,12 @@ The biomass **transferred** is the part built into the consumer's own body, avai
 
 Because so little passes on, food chains are short and each level supports less biomass than the one below.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-biology-energy-transfer-and-productivity-in-ecosystems--01-energy-budget.webp" width="900" height="1000" alt="Two bars show where energy goes. A producer with GPP 9 800 kJ m-2 year-1 loses 45% in respiration (4 410) and stores 55% as NPP (5 390). A pig ingesting 36 000 kJ per day loses 15% in faeces, 5% in urine and 60% in respiration, leaving 20% (7 200) as net production N." loading="lazy">
+  <figcaption>Energy lost to respiration leaves as heat; only NPP and N are stored for the next trophic level.</figcaption>
+</figure>
+
+
 ### Human manipulation of biomass transfer
 
 Farmers raise the efficiency of conversion into human food.

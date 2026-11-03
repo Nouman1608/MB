@@ -35,6 +35,17 @@ Once these points come back without prompting, try the [Polyesters and polyamide
 
 The specification states you will not be expected to recall the structures of synthetic polyesters and polyamides or their monomers. Questions give you the monomers or a section of chain, so the skill being tested is applying the rules below to structures you have not seen before. Practise on unfamiliar examples rather than learning named polymers.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-amines--04-substitution-ladder.webp" width="900" height="1280" alt="Ammonia reacts with RX to give primary, secondary, tertiary amines and finally a quaternary ammonium ion; the first four have a lone pair on N, the quaternary ion has none so the sequence stops. Excess NH3 favours primary, excess RX the quaternary salt. AQA and OxfordAQA also need long-chain quaternary ammonium salts as cationic surfactants." loading="lazy">
+  <figcaption>Repeated substitution gives primary, secondary, tertiary amines and a quaternary salt; long-chain quaternary salts are cationic surfactants (AQA, OxfordAQA).</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/polymers--04-addition-vs-condensation.webp" width="900" height="1150" alt="Addition: monomers with C=C join into a chain and nothing else is made. Condensation: monomers with an end group at both ends join into a chain and a water molecule is given off at every join." loading="lazy">
+  <figcaption>Condensation releases a small molecule, usually water; addition releases nothing.</figcaption>
+</figure>
+
+
 ## 6.2.3(a): Which monomers make which link
 
 | Monomer pair or single monomer | Link | Small molecule lost |
@@ -61,6 +72,17 @@ Two reminders from 6.1.3(f):
 6. Count the small molecules: for n of each of two monomers, 2n − 1, often written 2n. For one monomer, n − 1.
 
 Reminder: ethanedioic acid, HOOC–COOH, with pentane-1,5-diamine, H₂N–(CH₂)₅–NH₂, gives –[CO–CO–NH–(CH₂)₅–NH]–, losing water.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/polymers--03-alkene-repeat-unit.webp" width="900" height="1140" alt="Ethene and propene are each shown turning into a bracketed repeat unit when the C=C opens, with an arrow back to show closing the bond recovers the monomer. A crossed-out version shows the wrong answer that keeps the C=C inside the brackets." loading="lazy">
+  <figcaption>Open the C=C to get the repeat unit; close it again to get the monomer.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/polymers--06-nylon-and-pet.webp" width="900" height="830" alt="Nylon is a diacid and a diamine alternating, joined by CO-NH and NH-CO amide links. PET is a diacid and a diol alternating, joined by CO-O and O-CO ester links. Each link releases water and each repeat unit contains two links." loading="lazy">
+  <figcaption>Nylon and PET follow the same pattern; only the second monomer and the link change.</figcaption>
+</figure>
+
 
 ## 6.2.3(b): Hydrolysis products
 
@@ -99,6 +121,11 @@ A polyester made from 3-hydroxypropanoic acid has repeat unit –[O–CH₂–CH
   <figcaption>A peptide link forms by condensation and is broken by hydrolysis.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-carboxylic-acids-and-derivatives--05-ester-hydrolysis.webp" width="900" height="1160" alt="Ethyl propanoate hydrolysed with dilute acid and water gives propanoic acid and ethanol in a reversible reaction. With sodium hydroxide solution it goes to completion giving sodium propanoate and ethanol, because the carboxylate ion cannot re-form the ester." loading="lazy">
+  <figcaption>Acid hydrolysis is reversible; alkaline hydrolysis goes to completion and gives a salt. All boards.</figcaption>
+</figure>
+
 
 ## 6.2.3(c): Predicting from monomers and chains
 
@@ -111,6 +138,12 @@ A polyester made from 3-hydroxypropanoic acid has repeat unit –[O–CH₂–CH
 | –COO– or –CONH– sits in the backbone | condensation |
 | –COO– or –CONH– only in side groups | still addition |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-amines--10-chirality.webp" width="900" height="1116" alt="Top: two mirror-image enantiomers of a chiral carbon with four different groups (NH2, COOH, CH3, H), drawn with wedge and dash bonds, which cannot be superimposed. Bottom (AQA only): an active site with three binding points fits one enantiomer; the mirror image has two groups swapped and does not fit." loading="lazy">
+  <figcaption>A chiral centre has four different groups; an enzyme active site binds only one enantiomer.</figcaption>
+</figure>
+
+
 ### Method in steps: monomers from a section of chain
 
 1. Check the backbone. All carbon means addition; go to step 5.
@@ -118,6 +151,22 @@ A polyester made from 3-hydroxypropanoic acid has repeat unit –[O–CH₂–CH
 3. Collect the pieces. One kind of piece means one monomer; two alternating kinds means two monomers.
 4. Add –OH (or –Cl for an acyl chloride) to each acyl end and H to each O or N end.
 5. For addition: take two backbone carbons as the repeat unit, put C=C between them and remove the open bonds.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-carboxylic-acids-and-derivatives--06-fats-soap-biodiesel.webp" width="900" height="1210" alt="A fat molecule has a glycerol backbone joined by three ester links to three twelve-carbon acid chains. Heating 31.9 g (0.0500 mol) with sodium hydroxide gives three soap molecules per fat (33.3 g maximum) and glycerol; reacting with methanol and a catalyst gives three methyl ester biodiesel molecules (32.1 g maximum) and glycerol." loading="lazy">
+  <figcaption>One fat gives three soap or three biodiesel molecules, the 1:3 ratio. AQA and OxfordAQA.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/polymers--01-monomers-polymers-plastics.webp" width="900" height="1055" alt="Eight separate circles join into one long chain labelled polymer. A plastic bottle is magnified to show tangled polymer chains inside the material." loading="lazy">
+  <figcaption>Monomers join into long polymer chains, and plastic is the material made from them.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/polymers--02-poly-ethene.webp" width="900" height="990" alt="Four ethene molecules each have a C=C double bond. The double bonds open and the molecules join into one long chain of single-bonded carbons with new bonds between units. One CH2-CH2 repeat unit is bracketed and repeated n times, and nothing else is made." loading="lazy">
+  <figcaption>Opening each C=C bond joins ethene monomers into poly(ethene) with no other product.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 
@@ -154,6 +203,17 @@ A polyester made from 3-hydroxypropanoic acid has repeat unit –[O–CH₂–CH
 9. **No.** The backbone is all carbon and the amide groups are side groups. It is an addition polymer of CH₂=CH–CONH₂.
 10. Two amide links per repeat unit: **1.00 mol**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-carboxylic-acids-and-derivatives--01-acid-ester-names.webp" width="900" height="1180" alt="Propanoic acid is drawn with its carbons numbered from the COOH carbon. Ethyl propanoate and methyl methanoate are drawn with the acid part in teal and the alcohol part in gold. The alcohol part is named first, then the acid part ending -oate." loading="lazy">
+  <figcaption>An ester name has two words: the alcohol part (alkyl) first, then the acid part ending -oate. All boards.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-carboxylic-acids-and-derivatives--07-acylation-reactions.webp" width="900" height="1240" alt="A strip shows a carboxylic acid converted to an acyl chloride with PCl5 (Edexcel) or SOCl2 (OCR). Ethanoyl chloride and ethanoic anhydride transfer the CH3CO group (teal) to water, methanol, ammonia and methylamine to give ethanoic acid, methyl ethanoate, ethanamide and N-methylethanamide. By-products are HCl or ethanoic acid, and ammonia and amines are needed in twos." loading="lazy">
+  <figcaption>Both reagents put an acyl group on water, an alcohol, ammonia or an amine. PCl5 is Edexcel only and SOCl2 is OCR only.</figcaption>
+</figure>
+
+
 ## Where marks are usually lost
 
 - Writing H₂O as the by-product when the monomer is a diacyl chloride.
@@ -169,6 +229,11 @@ A polyester made from 3-hydroxypropanoic acid has repeat unit –[O–CH₂–CH
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/aqa-a-level-chemistry-amines--09-protein-structure.webp" width="900" height="1200" alt="Primary: order of amino acids joined by peptide links. Secondary: an alpha-helix or beta-pleated sheet held by hydrogen bonds between peptide links. Tertiary: the whole chain folded in 3D, held by hydrogen bonds and S-S bonds between side chains such as two cysteines." loading="lazy">
   <figcaption>Primary, secondary and tertiary structure are held by peptide links, backbone hydrogen bonds, and side-chain bonds.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/polymers--05-amide-ester-links.webp" width="900" height="1130" alt="Bond by bond: an acid end loses OH and an amine end loses H, which leave as water, and the acid carbon bonds to nitrogen to make a CO-NH amide link. The same happens with an alcohol end to make a CO-O ester link." loading="lazy">
+  <figcaption>An amide or ester link forms when H and OH leave as water.</figcaption>
 </figure>
 
 

@@ -48,12 +48,6 @@ The second and third columns are Marlbridge memory aids. The guide only names th
 
 Must-know: scientific and technical innovation is the most natural fit for mathematics, but teachers are encouraged to offer all six.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ib-myp-mathematics-global-contexts-in-myp-mathematics-the-six-contexts--01-six-global-contexts.webp" width="900" height="800" alt="Six tiles, each with a simple icon. Identities and relationships: two linked people. Orientation in space and time: a compass. Personal and cultural expression: a four-petal pattern. Scientific and technical innovation: a light bulb. Globalization and sustainability: a globe. Fairness and development: a balance scale. A teacher must choose one context for a unit; a context answers why the mathematics matters." loading="lazy">
-  <figcaption>The six contexts, each with an icon.</figcaption>
-</figure>
-
-
 ## Key concepts and related concepts
 
 | Level | What the guide gives | Remember |
@@ -74,6 +68,12 @@ Must-know: scientific and technical innovation is the most natural fit for mathe
 | Global context and topic | The context says why it matters. The topic is the mathematics |
 | Statement and question | A statement asserts a general idea. Inquiry questions (factual, conceptual, debatable) come from it |
 | Context and decoration | A context shapes the inquiry. A picture on a worksheet does not |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-mathematics-global-contexts-in-myp-mathematics-the-six-contexts--01-six-global-contexts.webp" width="900" height="800" alt="Six tiles, each with a simple icon. Identities and relationships: two linked people. Orientation in space and time: a compass. Personal and cultural expression: a four-petal pattern. Scientific and technical innovation: a light bulb. Globalization and sustainability: a globe. Fairness and development: a balance scale. A teacher must choose one context for a unit; a context answers why the mathematics matters." loading="lazy">
+  <figcaption>The six contexts, each with an icon.</figcaption>
+</figure>
+
 
 ## Building a statement of inquiry: method in steps
 
@@ -124,6 +124,11 @@ Check the arithmetic inside every context.
 5. Sense-check: always add one line on whether the answer fits the situation, because criterion D asks for it.
 
 <figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-mathematics-global-contexts-in-myp-mathematics-the-six-contexts--03-hall-cost-crossover.webp" width="900" height="870" alt="A graph of cost against number of guests n from 0 to 50. Hall A costs 150 plus 8 per guest, a line starting at 150. Hall B costs 14 per guest, a steeper line starting at 0. They cross at n = 25 where both cost 350. Left of 25 guests hall B is cheaper (20 guests: 280 against 310); right of 25 guests hall A is cheaper (40 guests: 470 against 560)." loading="lazy">
+  <figcaption>The two hall plans cost the same at 25 guests.</figcaption>
+</figure>
+
+<figure class="topic-figure">
   <img src="https://img.marlbridge.com/igcse-mathematics-0580-geometrical-terms-constructions-and-scale-drawings--04-map-scale.webp" width="900" height="880" alt="Two map-scale conversions at 1 to 50 000. Map 7.3 cm times 50 000 is 365 000 cm, which is 3.65 km. Real 2.4 km is 240 000 cm, divided by 50 000 gives 4.8 cm on the map." loading="lazy">
   <figcaption>Map to real: multiply. Real to map: divide.</figcaption>
 </figure>
@@ -150,6 +155,11 @@ Unit: scale drawings and similar shapes (MYP 4-5).
 5. SOI: Knowing how shapes keep their form as they grow lets artists plan large works from small designs.
 6. Check the numbers: a 20 cm sketch enlarged by a factor of 4 becomes 80 cm long, and its area grows by 4² = 16 times.
 7. Sense-check: a wall must be big enough for the new size, and paint needed grows with area, not length.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-mathematics-global-contexts-in-myp-mathematics-the-six-contexts--08-tile-scale-factor-area.webp" width="900" height="780" alt="A square tile of side 40 cm, area 1600 square centimetres, made of 4 blocks of 20 by 20 cm, beside an enlarged tile of side 60 cm, area 3600 square centimetres, made of 9 blocks. Lengths are multiplied by 1.5 and area by 2.25, which is 1.5 squared, since 3600 divided by 1600 is 2.25." loading="lazy">
+  <figcaption>Scale factor 1.5 multiplies area by 2.25.</figcaption>
+</figure>
 
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/igcse-mathematics-geometry--06-similar-scale-factors.webp" width="900" height="1050" alt="A bar of length 1 becomes 2. A unit square becomes a 2 by 2 square of 4 squares. A unit cube becomes a 2 by 2 by 2 cube of 8 cubes. With length scale factor 2, a unit square becomes four unit squares and a unit cube becomes eight unit cubes." loading="lazy">

@@ -204,6 +204,11 @@ Ad valorem taxes: the supply curve pivots, so the vertical gap widens as price r
   <figcaption>A percentage tax makes the supply curve pivot upward, with the tax gap growing as the price rises, unlike a fixed tax that shifts the curve in parallel.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-economics-price-system-and-the-microeconomy--07-tax-burden-and-elasticity.webp" width="900" height="1280" alt="A tax of 2 per unit shifts supply up. With inelastic demand (PED 0.5) buyers pay 6.43 and firms keep 4.43, so buyers bear 71 percent of the tax. With elastic demand (PED 3.3) buyers pay 5.55 and firms keep 3.55, so firms bear 73 percent." loading="lazy">
+  <figcaption>With inelastic demand buyers bear most of an indirect tax; with elastic demand producers bear most.</figcaption>
+</figure>
+
 
 ## Subsidies (4c, 4d)
 
@@ -216,12 +221,6 @@ Cost to government: 5 x 300 = 1,500 cu
 ```
 
 Gains split 3 : 2 in favour of consumers, matching the tax. Evaluation: the subsidy raises output and may help a good with wider benefits, but it costs the government, has an opportunity cost, and may lead to dependence. The less price-responsive the demand, the more of the gain goes to consumers; the less price-responsive the supply, the more goes to producers.
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/edexcel-ial-economics-price-determination-surplus-the-price-mechanism--03-honey-subsidy-cost-and-gains.webp" width="900" height="1060" alt="Honey market graph, price in cu against jars per week. Demand P = 18 - Q/50, supply P = 2 + Q/50, and supply after a 4 cu subsidy P = -2 + Q/50, drawn dashed. The subsidy moves equilibrium from 10 cu and 400 jars to 8 cu and 500 jars. Consumers pay 8 and producers receive 12. The subsidy cost is the rectangle from price 8 to 12 across 500 jars, 2,000 cu. It splits into consumer gain 900 (teal), producer gain 900 (gold) and a small triangle of 200 for the extra 100 jars whose cost exceeds their value, so the net effect is minus 200. Edexcel IAL 1.3.4. Illustrative numbers." loading="lazy">
-  <figcaption>A 4 cu subsidy gives 900 to each side but costs 2,000, a net loss of 200.</figcaption>
-</figure>
-
 
 ## Quick self-test
 
@@ -254,6 +253,17 @@ Use Market R above unless a question says otherwise.
 10. Incentive (the price acts as a signal and the higher return is the incentive).
 11. False. The less elastic side bears more.
 12. False. It is measured against marginal cost and excludes fixed costs.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-price-determination-surplus-the-price-mechanism--03-honey-subsidy-cost-and-gains.webp" width="900" height="1060" alt="Honey market graph, price in cu against jars per week. Demand P = 18 - Q/50, supply P = 2 + Q/50, and supply after a 4 cu subsidy P = -2 + Q/50, drawn dashed. The subsidy moves equilibrium from 10 cu and 400 jars to 8 cu and 500 jars. Consumers pay 8 and producers receive 12. The subsidy cost is the rectangle from price 8 to 12 across 500 jars, 2,000 cu. It splits into consumer gain 900 (teal), producer gain 900 (gold) and a small triangle of 200 for the extra 100 jars whose cost exceeds their value, so the net effect is minus 200. Edexcel IAL 1.3.4. Illustrative numbers." loading="lazy">
+  <figcaption>A 4 cu subsidy gives 900 to each side but costs 2,000, a net loss of 200.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-economics-government-microeconomic-intervention--02-subsidy-incidence.webp" width="900" height="890" alt="Supply and demand diagram where a subsidy of 2 per unit shifts supply down from S1 to S2. Quantity rises from 50 to 60, the consumer price falls from 5 to 3.8 (gain 1.2 a unit) and the producer receives 5.8 (gain 0.8 a unit). The government pays 2 a unit." loading="lazy">
+  <figcaption>A subsidy lowers the price consumers pay and raises what producers receive; the split depends on elasticity.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 

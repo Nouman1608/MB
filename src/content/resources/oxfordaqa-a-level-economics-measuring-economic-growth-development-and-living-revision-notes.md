@@ -147,38 +147,17 @@ Weaknesses: averages hide distribution; informal and unpaid work missed; composi
   <figcaption>Real change per head is found by dividing, not subtracting.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-edexcel-economics-economic-growth--07-what-gdp-leaves-out.webp" width="900" height="880" alt="Four cards show what GDP/GNI miss: income distribution, unpaid non-market work, environmental costs, and subjective wellbeing. This is why happiness and wellbeing indicators are used alongside GDP." loading="lazy">
+  <figcaption>GDP says nothing about distribution, unpaid work, environmental costs or wellbeing.</figcaption>
+</figure>
+
 
 ## Limits to growth
 
 - **Environmental:** finite resources, pollution, climate change, habitat loss. Growth that depletes natural capital is not sustainable.
 - **Social:** congestion, rising inequality, weakened communities, stress. Output can rise while well-being falls.
 - **Evaluation:** cleaner technology and fair sharing can loosen the limits; the right balance depends on the country's stage and the time horizon.
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-measuring-economic-growth-development-and-living--01-gdp-gni-nni.webp" width="900" height="790" alt="Waterfall chart for Country B in billions with the axis starting at 500. GDP 640, plus 21 earned abroad, minus 58 sent abroad gives GNI 603. Minus 54 capital depreciation gives NNI 549. Per head the values are 32,000, 30,150 and 27,450." loading="lazy">
-  <figcaption>GNI adds income from abroad and subtracts income paid abroad; NNI also subtracts depreciation.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-measuring-economic-growth-development-and-living--07-low-base-gain.webp" width="900" height="770" alt="Gains of 168 (7% of 2,400) and 900 (2% of 45,000) with the gap widening from 42,600 to 43,332. 2400x7%, 45000x2%, 900/168 = 5.4 asserted; gap figures derived from lesson numbers." loading="lazy">
-  <figcaption>A high percentage growth from a low base can be a much smaller absolute gain.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-measuring-economic-growth-development-and-living--10-sustainable-adjustment.webp" width="900" height="920" alt="Waterfall from GDP 500 less depletion 35 and pollution 25 to 440, 12% lower. 500-35-25 = 440 and 60/500 = 12% asserted." loading="lazy">
-  <figcaption>Subtracting depletion and pollution gives a lower, sustainability-adjusted figure.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-level-edexcel-economics-economic-growth--02-real-and-nominal-gdp.webp" width="900" height="780" alt="Line chart over four years, index year 0 = 100. Real GDP, with inflation removed, grows about 2% a year to 108.2. Nominal GDP grows faster to 121.8 because prices also rise about 3% a year; the shaded gap is the effect of price rises." loading="lazy">
-  <figcaption>Nominal GDP includes price rises; real GDP removes them so growth in output can be seen.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/aqa-a-level-economics-aggregate-demand-supply--07-lras-growth.webp" width="900" height="1000" alt="LRAS shifts right from output 100 to 130, with SRAS shifted right by the same amount. Equilibrium moves from output 90, price level 65 to output 105, price level 57.5. Technology, productivity, enterprise, factor mobility, incentives and institutions are listed as causes." loading="lazy">
-  <figcaption>Underlying economic growth is a rightward shift in LRAS, raising output and easing prices.</figcaption>
-</figure>
-
 
 ## Quick self-test
 
@@ -210,6 +189,32 @@ Weaknesses: averages hide distribution; informal and unpaid work missed; composi
 11. Any two of: averages hide inequality; pollution and depletion are not deducted; output of harmful or repair activity is counted; long working hours are not penalised.
 12. Output grows from a mineral export, but profits go abroad or to a small group, so health, education and poverty do not improve.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-measuring-economic-growth-development-and-living--01-gdp-gni-nni.webp" width="900" height="790" alt="Waterfall chart for Country B in billions with the axis starting at 500. GDP 640, plus 21 earned abroad, minus 58 sent abroad gives GNI 603. Minus 54 capital depreciation gives NNI 549. Per head the values are 32,000, 30,150 and 27,450." loading="lazy">
+  <figcaption>GNI adds income from abroad and subtracts income paid abroad; NNI also subtracts depreciation.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-measuring-economic-growth-development-and-living--07-low-base-gain.webp" width="900" height="770" alt="Gains of 168 (7% of 2,400) and 900 (2% of 45,000) with the gap widening from 42,600 to 43,332. 2400x7%, 45000x2%, 900/168 = 5.4 asserted; gap figures derived from lesson numbers." loading="lazy">
+  <figcaption>A high percentage growth from a low base can be a much smaller absolute gain.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-measuring-economic-growth-development-and-living--10-sustainable-adjustment.webp" width="900" height="920" alt="Waterfall from GDP 500 less depletion 35 and pollution 25 to 440, 12% lower. 500-35-25 = 440 and 60/500 = 12% asserted." loading="lazy">
+  <figcaption>Subtracting depletion and pollution gives a lower, sustainability-adjusted figure.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-edexcel-economics-economic-growth--02-real-and-nominal-gdp.webp" width="900" height="780" alt="Line chart over four years, index year 0 = 100. Real GDP, with inflation removed, grows about 2% a year to 108.2. Nominal GDP grows faster to 121.8 because prices also rise about 3% a year; the shaded gap is the effect of price rises." loading="lazy">
+  <figcaption>Nominal GDP includes price rises; real GDP removes them so growth in output can be seen.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-aggregate-demand-supply--07-lras-growth.webp" width="900" height="1000" alt="LRAS shifts right from output 100 to 130, with SRAS shifted right by the same amount. Equilibrium moves from output 90, price level 65 to output 105, price level 57.5. Technology, productivity, enterprise, factor mobility, incentives and institutions are listed as causes." loading="lazy">
+  <figcaption>Underlying economic growth is a rightward shift in LRAS, raising output and easing prices.</figcaption>
+</figure>
+
+
 ## Where marks are usually lost
 
 - Quoting nominal growth when the question asks for real growth.
@@ -225,3 +230,14 @@ Weaknesses: averages hide distribution; informal and unpaid work missed; composi
 ## Official syllabus
 
 OxfordAQA International AS and A-level Economics (9640) specification, version 1.2, section 3.4.3.1, published by OxfordAQA (first teaching September 2020, first A-level exams May/June 2022).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-edexcel-economics-economic-growth--04-total-and-per-capita-gdp.webp" width="900" height="870" alt="Country A has total GDP of $900bn and B $300bn, so A has the bigger economy. Dividing by population (A 90m, B 20m) gives $10,000 per person in A and $15,000 in B, so B has the higher income per person." loading="lazy">
+  <figcaption>Dividing by population allows a fairer comparison of countries of different sizes.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-edexcel-economics-economic-growth--06-purchasing-power-parity.webp" width="900" height="872" alt="Country A earns $4,000 a month and a basket costs $100, so it buys 40 baskets. Country B earns $1,000 and a basket costs $40, so it buys 25. At exchange rates B looks 25% of A, but adjusted for PPP it is 62.5% of A." loading="lazy">
+  <figcaption>PPP adjusts incomes for what they buy locally, giving a truer comparison of living standards.</figcaption>
+</figure>
+

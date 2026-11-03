@@ -166,12 +166,6 @@ A student secure on the Core version of A5 (factorising x^2 + bx + c) is most of
 - Cancelling an additive term in a fraction rather than a genuine multiplicative common factor.
 - Treating an identity and an equation as interchangeable.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-mathematics-0580-introduction-to-algebra-and-manipulation--04-expand-two-brackets.webp" width="900" height="940" alt="An area diagram has widths 2x and +5 and heights 3x and -2. Its cells are 6x^2, 15x, -4x and -10, which sum to 6x^2 + 11x - 10." loading="lazy">
-  <figcaption>Multiply every term in one bracket by every term in the other, then collect like terms.</figcaption>
-</figure>
-
-
 ## Quick self-test
 
 1. Expand (x − 2)(x + 3).
@@ -182,6 +176,12 @@ A student secure on the Core version of A5 (factorising x^2 + bx + c) is most of
 6. Make r the subject of A = pi r^2.
 
 **Answers:** 1. x² + x − 6. 2. (x − 3)(x + 3). 3. x³. 4. Because like terms require identical powers of every variable, and here the powers of x and y don't match between the two terms, so they cannot be added together as like terms. (Multiplying them, rather than adding them, does correctly add the exponents of each matching base: x²y³ × x³y² = x⁵y⁵.) 5. An equation is true only for specific values of the variable; an identity is true for all values. 6. r = sqrt(A / pi).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-introduction-to-algebra-and-manipulation--04-expand-two-brackets.webp" width="900" height="940" alt="An area diagram has widths 2x and +5 and heights 3x and -2. Its cells are 6x^2, 15x, -4x and -10, which sum to 6x^2 + 11x - 10." loading="lazy">
+  <figcaption>Multiply every term in one bracket by every term in the other, then collect like terms.</figcaption>
+</figure>
+
 
 ## How this connects forward
 

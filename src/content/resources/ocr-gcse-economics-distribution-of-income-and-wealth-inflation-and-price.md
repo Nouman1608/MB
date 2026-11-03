@@ -238,6 +238,11 @@ When analysing a table, quote figures, describe the trend, calculate where usefu
   <figcaption>A falling currency and expectations of rising prices can each push prices up.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-objectives-of-government--02-inflation-causes.webp" width="900" height="1090" alt="Two illustrative AD/AS diagrams. Demand-pull: AD shifts right and the price level rises. Cost-push: AS shifts up and left and the price level rises. Boxes give the cause chain and the policy response from the lesson." loading="lazy">
+  <figcaption>Demand-pull starts with demand; cost-push starts with rising costs.</figcaption>
+</figure>
+
 
 ### Consequences of inflation
 

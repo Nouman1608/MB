@@ -103,12 +103,6 @@ Predict the effect on the equilibrium yield of hydrogen of each change.
 
 **(iii) Adding more steam.** The position shifts to the right to use up some of the added steam. The yield of hydrogen increases.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-chemical-equilibria-le-chateliers-principle-and-kc--03-temperature-k.webp" width="900" height="1020" alt="A graph of K against temperature shows K falling for an exothermic reaction and rising for an endothermic one. Two rows summarise: raising T lowers K and shifts left for exothermic, and raises K and shifts right for endothermic." loading="lazy">
-  <figcaption>Only temperature changes K: it falls for exothermic reactions and rises for endothermic ones as T increases.</figcaption>
-</figure>
-
-
 ### Worked example 3: when pressure does nothing
 
 ```
@@ -120,6 +114,11 @@ There are 2 gas moles on each side, so changing the pressure does not shift the 
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/aqa-a-level-chemistry-chemical-equilibria-le-chateliers-principle-and-kc--02-pressure-shift.webp" width="900" height="1030" alt="Two syringes hold the same gas particles at low and high pressure. Molecule models of 2SO2 + O2 and 2SO3 show 3 gas molecules on the left and 2 on the right, so higher pressure shifts right." loading="lazy">
   <figcaption>Higher pressure shifts the equilibrium towards the side with fewer gas molecules.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-chemical-equilibria-le-chateliers-principle-and-kc--03-temperature-k.webp" width="900" height="1020" alt="A graph of K against temperature shows K falling for an exothermic reaction and rising for an endothermic one. Two rows summarise: raising T lowers K and shifts left for exothermic, and raises K and shifts right for endothermic." loading="lazy">
+  <figcaption>Only temperature changes K: it falls for exothermic reactions and rises for endothermic ones as T increases.</figcaption>
 </figure>
 
 <figure class="topic-figure">

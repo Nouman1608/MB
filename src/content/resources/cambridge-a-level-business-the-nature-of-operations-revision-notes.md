@@ -47,6 +47,11 @@ Reminder: price £12, bought-in inputs £7.50. Added value = £4.50 per unit. At
   <figcaption>Inputs (the four factors of production) are transformed into outputs that add value.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-understanding-business-activity--03-added-value.webp" width="900" height="990" alt="Selling price 50 splits into materials 20 and added value 30; the 30 then pays wages 12, rent 6, other costs 4 and leaves profit 8. Added value can rise by raising price or cutting material cost." loading="lazy">
+  <figcaption>Added value is selling price minus bought-in materials, and profit is only what remains after other costs.</figcaption>
+</figure>
+
 
 ## 4.1.2 Efficiency, effectiveness, productivity, sustainability
 
@@ -241,12 +246,6 @@ Batch time lost. A line runs 35 hours a week, with 8 changeovers of 1.25 hours e
 - Naming an advantage or disadvantage but not explaining what it does to costs, quality or customers in the case.
 - Judging a sustainability measure without weighing its cost against its saving or image effect.
 - Describing the problems of changing method in general, rather than for the business and the method in the question.
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-business-understanding-business-activity--03-added-value.webp" width="900" height="990" alt="Selling price 50 splits into materials 20 and added value 30; the 30 then pays wages 12, rent 6, other costs 4 and leaves profit 8. Added value can rise by raising price or cutting material cost." loading="lazy">
-  <figcaption>Added value is selling price minus bought-in materials, and profit is only what remains after other costs.</figcaption>
-</figure>
-
 
 ## Official syllabus
 

@@ -67,6 +67,11 @@ Examples you should be able to use:
   <figcaption>Gases diffuse from high to low concentration into and out of leaf cells and respiring body cells.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-movement-into-and-out-of-cells--05-dialysis-tubing.webp" width="900" height="960" alt="A bag of dialysis tubing holding strong solution hangs in a beaker of water. At the start the bag is small. Later it has swollen because water entered by osmosis, while the same solute particles stay inside. Measuring its mass before and after shows the change." loading="lazy">
+  <figcaption>Water enters the tubing bag by osmosis, so it swells and gains mass.</figcaption>
+</figure>
+
 
 ### Osmosis
 

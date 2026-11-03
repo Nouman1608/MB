@@ -199,6 +199,11 @@ Multiply by 3 sin φ:
 This uses sin²φ + cos²φ = 1, a step you should always look for. At φ = π/3 the point is (3/2, √3) and the tangent is x + (3√3/2)y = 6.
 
 <figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-maths-9709-pure-mathematics-1-differentiation--01-chord-to-tangent.webp" width="900" height="880" alt="Graph of y = 2x squared. Point P is at x = 3, y = 18. Three chords from P to points a distance h to the right (h = 1, 0.5, 0.25) get closer to the gold tangent line as h shrinks. The chord gradient is 12 + 2h: 14, 13, 12.2 and 12.02 for h = 1, 0.5, 0.1 and 0.01. As h tends to 0 the gradient tends to 12, the gradient of the curve at x = 3, which agrees with dy/dx = 4x." loading="lazy">
+  <figcaption>How chord gradients 12 + 2h approach the tangent gradient 12 at x = 3 on y = 2x².</figcaption>
+</figure>
+
+<figure class="topic-figure">
   <img src="https://img.marlbridge.com/a-level-maths-9709-pure-mathematics-1-differentiation--07-exp-and-ln-slopes.webp" width="900" height="1200" alt="Top: the graph of y = e to the x with gold tangents at x = 0, 1 and 2. The slope at each point equals its height: 1, e and e squared, so the derivative of e to the x is e to the x. Bottom: the graph of y = ln x with tangents at x = 1, 2 and 4 having slopes 1, one half and one quarter, so the derivative of ln x is 1 over x." loading="lazy">
   <figcaption>The slope of eˣ equals its height and the slope of ln x at x is 1/x.</figcaption>
 </figure>
@@ -222,6 +227,12 @@ If you can eliminate the parameter, check your result with the Cartesian form, b
 ## Next steps
 
 Condense these methods with the [revision notes](/resources/oxfordaqa-a-level-mathematics-implicit-and-parametric-differentiation-tangents-and-revision-notes/), then test yourself on the [practice questions](/resources/oxfordaqa-a-level-mathematics-implicit-and-parametric-differentiation-tangents-and-practice/). Use the [free diagnostics](/diagnostics/) to find any gaps and the [checklist](/checklists/oxfordaqa/a-level/mathematics/) to track progress.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-maths-9709-pure-mathematics-1-differentiation--06-product-rule-area.webp" width="900" height="650" alt="A rectangle of width u and height v has area uv. When x increases a little, u grows by du and v by dv, adding a strip of area v du on the right, a strip u dv on the top, and a tiny corner du dv which vanishes in the limit. So the change in uv is v du + u dv, giving (uv)′ = u′v + uv′. Example: y = x cubed times e to the 2x at x = 1 has gradient 3e squared + 2e squared = 5e squared, about 36.9." loading="lazy">
+  <figcaption>Why the product rule has two terms: the rectangle area uv grows by v du + u dv.</figcaption>
+</figure>
+
 
 ## Official syllabus
 

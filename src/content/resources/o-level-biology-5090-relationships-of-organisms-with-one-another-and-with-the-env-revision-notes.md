@@ -125,6 +125,12 @@ Producers always go at the bottom. Label each bar with the trophic level or orga
 5. **Fossil fuel formation**: dead organisms that do not decay are compressed over millions of years into coal, oil and gas.
 6. **Combustion** of fossil fuels and wood releases carbon dioxide.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-organisms-and-their-environment--06-carbon-cycle.webp" width="900" height="1070" alt="Photosynthesis takes carbon dioxide from the air into plants. Feeding passes carbon to animals. Respiration by plants, animals and decomposers returns carbon dioxide to the air. Dead organisms and waste are broken down by decomposers (decomposition) or, if not fully decomposed, form fossil fuels over millions of years. Combustion of fossil fuels releases carbon dioxide." loading="lazy">
+  <figcaption>The six carbon-cycle processes shown as arrows between air, organisms, dead matter and fossil fuels.</figcaption>
+</figure>
+
+
 ### Nitrogen cycle: the seven syllabus stages
 
 | Stage | What happens |
@@ -138,6 +144,12 @@ Producers always go at the bottom. Label each bar with the trophic level or orga
 | (g) Denitrification | Denitrifying bacteria convert nitrate ions to **nitrogen gas** |
 
 Names of individual bacteria are not required.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-organisms-and-their-environment--07-nitrogen-cycle.webp" width="900" height="1090" alt="Extended. Nitrogen fixation (lightning, bacteria) converts nitrogen gas to nitrogen compounds in the soil. Decomposers form ammonium ions from dead matter; nitrifying bacteria make nitrate ions; plants absorb nitrate and make amino acids and proteins; animals eat plants; deamination produces urea returned to soil; denitrifying bacteria return nitrogen gas to the air." loading="lazy">
+  <figcaption>Bacteria drive four steps: decomposition, nitrification, fixation and denitrification.</figcaption>
+</figure>
+
 
 ### Decomposers
 
@@ -179,6 +191,12 @@ Factors affecting the rate of population growth: **food supply, competition, pre
 
 Loss of **biodiversity**; **extinction** of species; **loss of soil** (no roots to hold it); **flooding** (less water taken up, faster run-off); higher **carbon dioxide** concentration (less photosynthesis; burning releases carbon dioxide).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-human-influences-on-ecosystems--03-deforestation-effects.webp" width="900" height="1245" alt="A forest and a deforested hillside are compared. Five effects are numbered: biodiversity falls, extinction, soil loss, flooding and more carbon dioxide. A worked example shows forest area falling from 6.0 to 5.1 million hectares, a 15 percent decrease, found by dividing by the original value." loading="lazy">
+  <figcaption>Removing forest reduces biodiversity, loses soil, raises flood risk and adds carbon dioxide to the air.</figcaption>
+</figure>
+
+
 ### Over-harvesting and non-native species
 
 - **Over-harvesting**: species removed faster than they reproduce; populations fall, may become extinct; food webs disrupted.
@@ -199,6 +217,12 @@ Loss of **biodiversity**; **extinction** of species; **loss of soil** (no roots 
 5. Less dissolved oxygen.
 6. Death of organisms that need dissolved oxygen.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-human-influences-on-ecosystems--04-eutrophication-steps.webp" width="900" height="1200" alt="Extended. Six linked steps with pictures: more nitrate and ions, fast producer growth, producers die with more decomposition, decomposers respire aerobically using up oxygen (the key link), dissolved oxygen falls (9.0 to 2.7 mg per dm3, a 70 percent decrease), and fish die." loading="lazy">
+  <figcaption>It is the decomposers aerobic respiration, not the algae, that uses up the oxygen.</figcaption>
+</figure>
+
+
 ### Other pollution
 
 - **Greenhouse gases**: carbon dioxide and methane trap heat, contributing to global warming; likely effects include rising sea levels, more extreme weather and changes in species distribution.
@@ -216,6 +240,16 @@ Loss of **biodiversity**; **extinction** of species; **loss of soil** (no roots 
   <figcaption>Insecticides, herbicides and plastics each harm living things beyond the target.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-human-influences-on-ecosystems--06-co2-methane-sources.webp" width="900" height="850" alt="Carbon dioxide comes from burning fossil fuels and burning forests. Methane comes from cattle and other livestock, rice fields and waste decomposing in landfill sites." loading="lazy">
+  <figcaption>Fossil fuels and forest burning give CO2; livestock, rice fields and landfill give methane.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-human-influences-on-ecosystems--05-enhanced-greenhouse-effect.webp" width="900" height="1180" alt="Sunlight reaches the Earth, which gives out thermal energy upwards. Carbon dioxide and methane absorb thermal energy that would otherwise be lost and some returns to Earth. More of these gases gives more energy absorbed, a higher mean global temperature and climate change." loading="lazy">
+  <figcaption>More CO2 and methane trap more thermal energy, raising mean global temperature.</figcaption>
+</figure>
+
 
 ## 19.5 Conservation
 
@@ -223,12 +257,6 @@ Loss of **biodiversity**; **extinction** of species; **loss of soil** (no roots 
 - **Forests**: education, protected areas, quotas, replanting.
 - **Fish stocks**: education, closed seasons, protected areas, controlled net types and mesh size, quotas, monitoring.
 - **Sustainable resource**: one produced as rapidly as it is removed from the environment, so that it does not run out.
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/o-level-biology-5090-relationships-of-organisms-with-one-another-and-with-the-env--11-forest-conservation.webp" width="900" height="1030" alt="Four panels: protected areas where felling is banned, quotas limiting how much timber is felled, replanting felled trees, and education about the value of forests." loading="lazy">
-  <figcaption>Four ways to conserve forests: protected areas, quotas, replanting and education.</figcaption>
-</figure>
-
 
 ## Quick self-test
 
@@ -259,6 +287,17 @@ Loss of **biodiversity**; **extinction** of species; **loss of soil** (no roots 
 10. Decomposers (bacteria), by aerobic respiration.
 11. Carbon dioxide and methane.
 12. Young fish escape through the larger holes, survive and breed, so the stock is replaced.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-biology-5090-relationships-of-organisms-with-one-another-and-with-the-env--11-forest-conservation.webp" width="900" height="1030" alt="Four panels: protected areas where felling is banned, quotas limiting how much timber is felled, replanting felled trees, and education about the value of forests." loading="lazy">
+  <figcaption>Four ways to conserve forests: protected areas, quotas, replanting and education.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-human-influences-on-ecosystems--07-fish-net-mesh-size.webp" width="900" height="895" alt="Extended. Two side views of a net. With a small mesh both young and adult fish are caught. With a large mesh the gaps are bigger than young fish but smaller than adults, so young fish escape and survive to breed." loading="lazy">
+  <figcaption>A larger mesh lets young fish escape so they survive to breed.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

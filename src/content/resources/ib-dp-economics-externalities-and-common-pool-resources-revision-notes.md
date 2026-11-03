@@ -38,6 +38,11 @@ These notes follow the IB Diploma Programme *Economics guide* (first assessment 
 | Tragedy of the commons | Each user's rational overuse destroys the shared resource |
 
 <figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-economics-externalities-and-common-pool-resources--07-ext-subsidy-incidence.webp" width="900" height="885" alt="Norland subsidy of 12: output 20 to 24, students pay 32, providers receive 44, cost 288." loading="lazy">
+  <figcaption>Who gains from a subsidy of 12 NM a place.</figcaption>
+</figure>
+
+<figure class="topic-figure">
   <img src="https://img.marlbridge.com/ib-dp-economics-externalities-and-common-pool-resources--09-ext-merit-demerit.webp" width="900" height="1180" alt="Merit good output 20 versus optimum 24; demerit good output 14 versus optimum 11." loading="lazy">
   <figcaption>Merit goods are under-consumed and demerit goods over-consumed.</figcaption>
 </figure>
@@ -72,6 +77,11 @@ Method in steps for any diagram:
   <figcaption>With an external benefit MSB lies above MPB and the market underproduces.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-economics-externalities-and-common-pool-resources--08-ext-other-two-types.webp" width="900" height="1300" alt="Top: negative externality of consumption (Calder car journeys): MSB = 39 - 2Q below MPB; market output 14, optimum 11; HL area 13.5 thousand VC. Bottom: positive externality of production (Norland orchard): MSC = 2 + 2Q below MPC; market 15, optimum 17; HL area 8 thousand NM." loading="lazy">
+  <figcaption>The other two externality diagrams use the same welfare-loss triangle.</figcaption>
+</figure>
+
 
 ## Worked reminder: negative externality and a tax
 
@@ -88,11 +98,6 @@ The tax equals the marginal external cost. The tax revenue is a rectangle: tax p
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/ib-dp-economics-externalities-and-common-pool-resources--06-ext-negative-production.webp" width="900" height="970" alt="Demand P = 90 - 3Q, MPC P = 10 + 2Q and MSC P = 25 + 2Q. Market equilibrium is output 16 at price 42; social optimum is output 13 at price 51. The triangle between 13 and 16 is the welfare loss, height 15, area 22.5 thousand VC (HL)." loading="lazy">
   <figcaption>The market overproduces where MPC meets demand; the welfare loss is the triangle between the two outputs.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ib-dp-economics-externalities-and-common-pool-resources--08-ext-other-two-types.webp" width="900" height="1300" alt="Top: negative externality of consumption (Calder car journeys): MSB = 39 - 2Q below MPB; market output 14, optimum 11; HL area 13.5 thousand VC. Bottom: positive externality of production (Norland orchard): MSC = 2 + 2Q below MPC; market 15, optimum 17; HL area 8 thousand NM." loading="lazy">
-  <figcaption>The other two externality diagrams use the same welfare-loss triangle.</figcaption>
 </figure>
 
 <figure class="topic-figure">
@@ -228,6 +233,12 @@ Use this fictional market for questions 7 to 10: MPB P = 40 − Q, MPC P = 4 + Q
 8. MSC = 10 + Q; 40 − Q = 10 + Q gives Q = 15 (price 25).
 9. 6 per unit, equal to the marginal external cost.
 10. Gap at Q = 18 is 28 − 22 = 6; base is 3; ½ × 3 × 6 = 9.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-economics-government-microeconomic-intervention--05-tool-matching.webp" width="900" height="900" alt="A matching diagram joining four problems to six tools. Public good not provided: direct provision. Merit good under-consumed: direct provision, subsidy, information. Demerit good over-consumed: information, indirect tax, minimum price. Price too high or too low: maximum or minimum price, buffer stock." loading="lazy">
+  <figcaption>Match the tool to the problem: the mechanism, not just the name, earns marks.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

@@ -210,6 +210,16 @@ Interpretation means using the figures to say something about the business.
   <figcaption>February net flow is low because of the 6,000 equipment; the loan hides it.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-cash-flow--04-forecast-layout.webp" width="900" height="900" alt="Table of opening balance, inflows, outflows, net cash flow and closing balance for March to June. Closing balances 1,300, -11,800, -3,700, 11,400; each closing balance is the next opening balance. April outflows include 16,000 for kayaks." loading="lazy">
+  <figcaption>A forecast chains month to month, and one large purchase can make a profitable business overdrawn.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-0264-cash-flow-forecast--08-cf-four-remedies.webp" width="900" height="950" alt="Four cards: overdraft (bills paid at once; interest, can be withdrawn), delaying supplier payments (cash stays longer; lost trust or discount), customers paying sooner (cash earlier; customers annoyed), delaying a non-current asset (payment moves; output held back)." loading="lazy">
+  <figcaption>Four methods cover a short cash gap, each with a cost.</figcaption>
+</figure>
+
 
 ## Common errors
 

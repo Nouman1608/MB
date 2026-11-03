@@ -202,6 +202,16 @@ Artery wall ÷ lumen = 1.2 ÷ 4.8 = 0.25. Vein wall ÷ lumen = 0.3 ÷ 6.0 = 0.05
   <figcaption>Valves open and close in turn so blood only moves one way.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-transport-in-animals--04-blood-vessels.webp" width="900" height="1230" alt="Cross-sections of an artery (thick muscular elastic wall, narrow lumen), a vein (thin wall, wide lumen) and a capillary (wall one cell thick, very narrow lumen), plus a side view of a vein valve. Extended notes link structure to pressure and function." loading="lazy">
+  <figcaption>Wall thickness and lumen size are matched to the job of each vessel.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-transport-in-animals--05-capillary-exchange.webp" width="900" height="740" alt="A capillary with a wall one cell thick runs past body cells. Oxygen and glucose pass out of the blood to the cells; carbon dioxide and other wastes pass from the cells into the blood." loading="lazy">
+  <figcaption>Capillaries bring blood close to every cell so substances can be exchanged.</figcaption>
+</figure>
+
 
 ## B2.2e: Blood cells and plasma
 
@@ -216,6 +226,11 @@ Artery wall ÷ lumen = 1.2 ÷ 4.8 = 0.25. Vein wall ÷ lumen = 0.3 ÷ 6.0 = 0.05
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/ocr-gcse-biology-exchange-surfaces-and-the-human-circulatory-system--08-red-cell-adaptations.webp" width="900" height="910" alt="Side view of a red blood cell as a biconcave disc, thinner in the middle, with no nucleus and haemoglobin dots inside. Oxygen molecules diffuse in across the large surface, and notes give the three adaptations in the lesson." loading="lazy">
   <figcaption>A biconcave, nucleus-free, flexible cell carries oxygen as haemoglobin.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-transport-in-animals--06-blood-components.webp" width="900" height="1150" alt="Four parts of blood. Red blood cells carry oxygen, have no nucleus and a pale centre. White blood cells do phagocytosis and make antibodies and have a nucleus; Extended: lymphocytes (large round nucleus) make antibodies and phagocytes (lobed nucleus) engulf pathogens. Platelets are fragments that help clotting. Plasma carries cells, ions, nutrients, urea, hormones and carbon dioxide." loading="lazy">
+  <figcaption>Red cells, white cells, platelets and plasma each have a job in the blood.</figcaption>
 </figure>
 
 

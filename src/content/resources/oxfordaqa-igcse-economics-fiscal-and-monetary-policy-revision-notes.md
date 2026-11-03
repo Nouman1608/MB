@@ -109,6 +109,11 @@ Conflicts to mention: growth and jobs may raise inflation and imports; cutting i
   <figcaption>The government's four principal economic objectives and how each is measured.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-objectives-of-government--03-objectives-conflict.webp" width="900" height="1010" alt="Flow from an interest rate cut to higher borrowing and spending. Gains: growth rises and unemployment falls. Side effects: demand-pull inflation risk and a worse balance of payments through more imports. Raising rates does the reverse." loading="lazy">
+  <figcaption>A policy that helps one objective can harm another.</figcaption>
+</figure>
+
 
 ## Deficit versus surplus
 
@@ -216,6 +221,22 @@ Use this order for any "explain how policy X achieves objective Y" question.
 9. A loan of 40,000 has its rate cut from 6% to 4.5%. Calculate the fall in annual interest.
 10. Explain one way a lower interest rate could help the balance of payments.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-economics-fiscal-and-monetary-policy--09-rate-rise-three-decisions.webp" width="900" height="890" alt="A 1.5 point rise in the base rate raises the interest on a 150,000 aru mortgage from 4,500 to 6,750, raises a saver's interest on 10,000 aru from 150 to 300, and raises a firm's loan interest on 80,000 aru from 4,800 to 6,000." loading="lazy">
+  <figcaption>A 1.5 point rate rise: borrowers pay more, savers earn more.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-economics-fiscal-and-monetary-policy--10-inflation-2-96-vs-target.webp" width="900" height="760" alt="A price index rising from 108.0 to 111.2 gives inflation of 2.96 percent. On a 0 to 4 percent scale it sits about 0.96 percentage points above the 2 percent target." loading="lazy">
+  <figcaption>Inflation of 2.96% is almost one point above the 2% target.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-objectives-of-government--02-inflation-causes.webp" width="900" height="1090" alt="Two illustrative AD/AS diagrams. Demand-pull: AD shifts right and the price level rises. Cost-push: AS shifts up and left and the price level rises. Boxes give the cause chain and the policy response from the lesson." loading="lazy">
+  <figcaption>Demand-pull starts with demand; cost-push starts with rising costs.</figcaption>
+</figure>
+
+
 ### Answers
 
 1. Spending greater than revenue in a year.
@@ -232,11 +253,6 @@ Use this order for any "explain how policy X achieves objective Y" question.
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/oxfordaqa-igcse-economics-fiscal-and-monetary-policy--12-rate-transmission.webp" width="900" height="990" alt="A higher interest rate makes borrowing cost more and saving pay more. Firms invest less and households spend less, so total spending falls and demand-pull inflation eases. In the example consumption -3, investment -2 and net exports -1 make -6; with a factor of 1.5 the fall is 9 and GDP goes from 400 to 391, down 2.25 percent." loading="lazy">
   <figcaption>A rate rise cuts spending and eases demand-pull inflation.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/oxfordaqa-igcse-economics-fiscal-and-monetary-policy--09-rate-rise-three-decisions.webp" width="900" height="890" alt="A 1.5 point rise in the base rate raises the interest on a 150,000 aru mortgage from 4,500 to 6,750, raises a saver's interest on 10,000 aru from 150 to 300, and raises a firm's loan interest on 80,000 aru from 4,800 to 6,000." loading="lazy">
-  <figcaption>A 1.5 point rate rise: borrowers pay more, savers earn more.</figcaption>
 </figure>
 
 <figure class="topic-figure">

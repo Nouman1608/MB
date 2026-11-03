@@ -95,6 +95,12 @@ two parents: 8 388 608 × 8 388 608 ≈ 7.04 × 10^13 possible zygotes
 
 Crossing over adds far more variation.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-inheritance--09-continuous-variation.webp" width="900" height="1220" alt="Histograms count the additive alleles in offspring of heterozygous parents: one gene gives 1:2:1, two genes 1:4:6:4:1, three genes 1:6:15:20:15:6:1 and five genes eleven classes. With more genes the bars approach a bell-shaped curve; n genes give 2n + 1 classes." loading="lazy">
+  <figcaption>More genes, plus environment, turn separate steps into a smooth bell-shaped curve.</figcaption>
+</figure>
+
+
 ## 16.2 The roles of genes in determining the phenotype
 
 ### Terms you must define
@@ -291,12 +297,6 @@ A separate regulatory gene, **lacI**, with its own promoter, codes for the **rep
 ## Next steps
 
 Condense this with the [inheritance revision notes](/resources/a-level-biology-9700-inheritance-revision-notes/), then try the [inheritance practice questions](/resources/a-level-biology-inheritance-practice/). Carry the ideas of alleles, variation and chi-squared into [Selection and evolution](/resources/a-level-biology-9700-selection-and-evolution/).
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-level-biology-9700-inheritance--09-continuous-variation.webp" width="900" height="1220" alt="Histograms count the additive alleles in offspring of heterozygous parents: one gene gives 1:2:1, two genes 1:4:6:4:1, three genes 1:6:15:20:15:6:1 and five genes eleven classes. With more genes the bars approach a bell-shaped curve; n genes give 2n + 1 classes." loading="lazy">
-  <figcaption>More genes, plus environment, turn separate steps into a smooth bell-shaped curve.</figcaption>
-</figure>
-
 
 ## Official syllabus
 

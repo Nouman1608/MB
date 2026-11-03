@@ -51,6 +51,12 @@ Test yourself with the [Waves practice questions](/resources/aqa-gcse-physics-84
 
 **Evidence the wave moves, not the medium:** a floating object bobs up and down on ripples but stays in place; air particles vibrate about fixed positions as sound passes.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-physics-waves--02-transverse-longitudinal.webp" width="900" height="890" alt="A rope wave moves points up and down at right angles to travel (transverse). A spring wave moves coils back and forth along the direction of travel (longitudinal), bunching into compressions and spreading into rarefactions (Extended names)." loading="lazy">
+  <figcaption>Transverse waves vibrate at right angles to the direction of travel; longitudinal waves vibrate along it.</figcaption>
+</figure>
+
+
 ## Equations
 
 | Equation | Symbols and units | Status |
@@ -146,13 +152,28 @@ Worked reminder: sonar at 1500 m/s, echo after 0.20 s → 1500 × 0.20 = 300 m �
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-physics-waves--02-transverse-longitudinal.webp" width="900" height="890" alt="A rope wave moves points up and down at right angles to travel (transverse). A spring wave moves coils back and forth along the direction of travel (longitudinal), bunching into compressions and spreading into rarefactions (Extended names)." loading="lazy">
-  <figcaption>Transverse waves vibrate at right angles to the direction of travel; longitudinal waves vibrate along it.</figcaption>
+  <img src="https://img.marlbridge.com/igcse-physics-waves--01-measuring-a-wave.webp" width="900" height="890" alt="A sine graph of displacement against distance marks wavelength between two crests (0.40 m) and amplitude from rest position to crest. With f = 5 Hz, v = f x wavelength = 2.0 m/s and the period is 0.2 s." loading="lazy">
+  <figcaption>Wavelength is crest to crest; amplitude is from the middle to a crest; v = f x wavelength.</figcaption>
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-physics-waves--01-measuring-a-wave.webp" width="900" height="890" alt="A sine graph of displacement against distance marks wavelength between two crests (0.40 m) and amplitude from rest position to crest. With f = 5 Hz, v = f x wavelength = 2.0 m/s and the period is 0.2 s." loading="lazy">
-  <figcaption>Wavelength is crest to crest; amplitude is from the middle to a crest; v = f x wavelength.</figcaption>
+  <img src="https://img.marlbridge.com/igcse-physics-waves--08-sonar.webp" width="900" height="1060" alt="A pulse goes down and the echo returns in 0.40 s at 1500 m/s: 600 m there and back, so the depth is 300 m." loading="lazy">
+  <figcaption>Depth = speed x time / 2, because the pulse travels there and back.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-sound-waves-at-boundaries-and-hearing--09-hearing-range.webp" width="900" height="700" alt="On a log frequency axis a young listener hears 20 Hz to 20 kHz, with infrasound below and ultrasound above. In air the wavelengths are 17 m and 1.7 cm. With the upper limit at 14 kHz a 16 kHz tone is not heard." loading="lazy">
+  <figcaption>Human hearing spans about 20 Hz to 20 kHz, and the top end falls with age.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-sound-waves-at-boundaries-and-hearing--08-ear-conversion-chain.webp" width="900" height="1010" alt="Five steps: the outer ear collects sound, the eardrum vibrates, three ossicles pass the vibration on, the cochlea turns it into a pressure wave in fluid, and hair cells send electrical signals along the auditory nerve." loading="lazy">
+  <figcaption>In the ear, a sound wave becomes vibrations, a fluid wave and then nerve signals.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-uses-and-hazards-of-electromagnetic-radiation--05-radio-aerials.webp" width="900" height="830" alt="An alternating current in the transmitter circuit makes electrons oscillate in the transmitting aerial, which gives out radio waves. The waves make electrons oscillate in the receiving aerial, giving an alternating current of the same frequency in the receiver circuit." loading="lazy">
+  <figcaption>Radio waves are made by, and induce, oscillations in circuits at the same frequency.</figcaption>
 </figure>
 
 
@@ -186,6 +207,17 @@ Long λ, low f → short λ, high f:
 
 **Refraction ray rule:** into a slower (denser) medium, bend towards the normal; into a faster one, away from the normal; along the normal, no bending.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-physics-waves--03-refraction-block.webp" width="900" height="940" alt="A ray at 45 degrees in air bends towards the normal to 28 degrees in glass (n = 1.5) and leaves parallel, bending away. n = sin i / sin r = 1.50 (Extended)." loading="lazy">
+  <figcaption>Light slows and bends towards the normal entering glass, and speeds up and bends away leaving it.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-physics-waves--07-em-spectrum.webp" width="900" height="950" alt="Seven regions from radio to gamma, each with a wave of shorter wavelength than the one above (illustrative) and one use. All travel at 3.0 x 10^8 m/s in a vacuum (Extended)." loading="lazy">
+  <figcaption>Frequency rises and wavelength falls from radio waves to gamma rays.</figcaption>
+</figure>
+
+
 ## Lenses (4.6.2.5)
 
 - Convex lens: parallel rays meet at the **principal focus**; lens to principal focus = **focal length**. Image real or virtual.
@@ -196,6 +228,16 @@ Long λ, low f → short λ, high f:
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/aqa-gcse-physics-8463-waves--04-colour-filters.webp" width="900" height="910" alt="White light hits a red object, which reflects only red light, so the eye sees red. With a green filter in the way, the red light is absorbed by the filter, no light reaches the eye, and the object looks black." loading="lazy">
   <figcaption>A red object looks black through a green filter because the filter absorbs the red light the object reflects.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-physics-waves--05-lens-focus.webp" width="900" height="890" alt="Parallel rays meet at the principal focus after a converging lens. After a diverging lens they spread out and appear to come from a principal focus on the incoming side." loading="lazy">
+  <figcaption>A converging lens brings parallel rays to a focus; a diverging lens spreads them as if from a focus.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-physics-waves--06-lens-image.webp" width="900" height="770" alt="To-scale ray diagram with f = 120 and object at 300: image forms at 200, real, inverted and diminished." loading="lazy">
+  <figcaption>An object beyond 2F gives a real, inverted, diminished image.</figcaption>
 </figure>
 
 
@@ -218,6 +260,11 @@ Worked reminder: a white shirt seen through a blue filter looks **blue**; a red 
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/aqa-gcse-physics-8463-waves--05-blackbody-curves.webp" width="900" height="910" alt="Graph of radiation intensity against wavelength for a perfect black body at 1000 K, 1250 K and 1500 K. Each curve has a peak. The hotter object has a higher curve at every wavelength and its peak is at a shorter wavelength." loading="lazy">
   <figcaption>Hotter objects emit more at every wavelength, with the peak moving to shorter wavelength.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-radiation-from-bodies-the-solar-system-and-orbits--08-earth-balance.webp" width="900" height="1130" alt="Two diagrams of Earth with arrow widths proportional to amounts. First: 100 in, 30 reflected, 70 absorbed, 70 emitted, so steady. Second: only 66 escape, so net gain 4 and Earth warms until 70 escape again." loading="lazy">
+  <figcaption>Temperature depends on the balance of radiation absorbed and emitted.</figcaption>
 </figure>
 
 

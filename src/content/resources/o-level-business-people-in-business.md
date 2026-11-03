@@ -125,6 +125,12 @@ automation or falling demand.
 dismissal, discrimination, health and safety, and the legal minimum
 wage, and how each affects both employers and employees.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-business-business-activity-marketing-and-people--03-external-growth-types.webp" width="900" height="1070" alt="Three rows: horizontal (bakery + bakery), vertical (bakery + shop) and diversification (bakery + gym), each ending in one merged firm." loading="lazy">
+  <figcaption>External growth combines with another business: horizontal, vertical or diversification.</figcaption>
+</figure>
+
+
 ## 2.4 Internal and external communication
 
 The final sub-topic asks why effective communication matters to a

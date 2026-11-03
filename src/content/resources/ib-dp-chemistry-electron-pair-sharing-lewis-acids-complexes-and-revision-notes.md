@@ -177,12 +177,6 @@ Why the split? Three alkyl groups crowd the back of a tertiary carbon and stabil
 
 **Why substitution, not addition?** Keeping the delocalised ring is energetically favoured; addition would lose it. The guide says formation of E⁺ is not assessed. In nitration, HNO₃ behaves as a base towards H₂SO₄, giving NO₂⁺.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ib-dp-chemistry-electron-pair-sharing-lewis-acids-complexes-and--09-benzene-substitution.webp" width="900" height="1010" alt="Step 1: a curly arrow from the delocalised ring to E+ gives a broken-horseshoe cation with + over five carbons, the sixth carbon carrying H and E. Step 2: the C-H bonding pair returns to the ring, H+ leaves and the delocalised ring is restored, giving C6H5E." loading="lazy">
-  <figcaption>Benzene substitutes rather than adds: C6H6 + E+ -&gt; C6H5E + H+, keeping the delocalised ring.</figcaption>
-</figure>
-
-
 ## Quick self-test
 
 1. In Zn²⁺ + 4OH⁻ → [Zn(OH)₄]²⁻, which species is the Lewis acid?
@@ -212,6 +206,12 @@ Why the split? Three alkyl groups crowd the back of a tertiary carbon and stabil
 10. **Butan-2-ol**, from the secondary carbocation.
 11. Losing H⁺ **restores the delocalised ring**, which is more stable than any addition product.
 12. **HNO₃** accepts H⁺ from H₂SO₄.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-electron-pair-sharing-lewis-acids-complexes-and--09-benzene-substitution.webp" width="900" height="1010" alt="Step 1: a curly arrow from the delocalised ring to E+ gives a broken-horseshoe cation with + over five carbons, the sixth carbon carrying H and E. Step 2: the C-H bonding pair returns to the ring, H+ leaves and the delocalised ring is restored, giving C6H5E." loading="lazy">
+  <figcaption>Benzene substitutes rather than adds: C6H6 + E+ -&gt; C6H5E + H+, keeping the delocalised ring.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

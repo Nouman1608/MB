@@ -97,13 +97,8 @@ Closing balances: telephone credit 210 and bank interest debit 60 (accrued); rat
 | Income in advance | Too high | Liabilities too low |
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-accounting-other-payables-other-receivables-and-irrecoverable-debt--08-pr-income-ledgers.webp" width="900" height="944" alt="Two T-accounts in dollars. Hire fees: debit profit or loss 4,310; credit b/d 150, bank 3,900, c/d 260, so 260 is brought down as a debit (other receivable). Sponsorship: debit profit or loss 300 and c/d 1,500; credit bank 1,800, so 1,500 is brought down as a credit (other payable)." loading="lazy">
-  <figcaption>Accrued income is a debit balance and income in advance a credit balance.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/aqa-a-level-accounting-double-entry-model--07-paid-not-owed.webp" width="900" height="950" alt="Of 11,200 dollars of rent paid in 2027, 800 clears rent owed from 2026, 9,600 is the 2027 expense and 800 is paid for January 2028 (a prepayment, other receivable). The rent payable account balances at 11,200 and the 800 is brought down as a debit." loading="lazy">
-  <figcaption>Only the part of the cash paid that belongs to the year is charged to the income statement.</figcaption>
+  <img src="https://img.marlbridge.com/igcse-accounting-other-payables-other-receivables-and-irrecoverable-debt--06-prepaid-insurance-months.webp" width="900" height="785" alt="A twelve-month strip shows a 2,400 policy paid in December: seven months, 1,400, belong to the year to 30 June 2028 and five months, 1,000, are prepaid. The insurance account totals 3,300 on each side, with 2,300 to profit or loss and 1,000 carried down." loading="lazy">
+  <figcaption>Only the months used fall in this year; the rest is a prepaid asset carried down.</figcaption>
 </figure>
 
 
@@ -177,12 +172,6 @@ Closing balances: telephone credit 210 and bank interest debit 60 (accrued); rat
 - "Paid in full" for a debt written off in a past year: reinstate it, then record the money.
 - "Allowance of 4% of trade receivables": use the figure left after the write-offs, then compare with the opening allowance.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-accounting-other-payables-other-receivables-and-irrecoverable-debt--06-prepaid-insurance-months.webp" width="900" height="785" alt="A twelve-month strip shows a 2,400 policy paid in December: seven months, 1,400, belong to the year to 30 June 2028 and five months, 1,000, are prepaid. The insurance account totals 3,300 on each side, with 2,300 to profit or loss and 1,000 carried down." loading="lazy">
-  <figcaption>Only the months used fall in this year; the rest is a prepaid asset carried down.</figcaption>
-</figure>
-
-
 ## Must-know distinctions
 
 | Pair | Difference |
@@ -193,12 +182,6 @@ Closing balances: telephone credit 210 and bank interest debit 60 (accrued); rat
 | Accrued income and income in advance | Owed to the business (debit) and received early (credit). |
 | Other receivables and trade receivables | Trade receivables are credit customers. Other receivables are prepayments and accrued income. |
 | Charge in the year and allowance balance | The statement of profit or loss gets the change. The statement of financial position gets the whole balance. |
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/aqa-a-level-accounting-accounting-for-organisations-with-incomplete-records--01-adjustments-two-effects.webp" width="900" height="1010" alt="A four-row table shows accrued expenses, prepaid expenses, income due and income received in advance. An accrued expense is added to the expense and is a current liability (other payable); a prepaid expense is deducted and is a current asset (other receivable). Income due is added to income and is a current asset; income in advance is deducted and is a current liability." loading="lazy">
-  <figcaption>Each year-end adjustment changes both the income statement and the statement of financial position.</figcaption>
-</figure>
-
 
 ## Quick self-test
 
@@ -225,6 +208,26 @@ Closing balances: telephone credit 210 and bank interest debit 60 (accrued); rat
 8. The allowance falls by 250. That 250 is income, so profit rises by 250.
 9. 23,000 - 1,150 = 21,850.
 10. Prudence and matching / accruals.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-accounting-other-payables-other-receivables-and-irrecoverable-debt--07-four-adjustments-profit.webp" width="900" height="915" alt="A running change in profit. Accrued wages reduce profit by 440, prepaid insurance adds 1,000, accrued hire fees add 260 and sponsorship in advance reduces profit by 1,500. Together profit is 680 dollars lower." loading="lazy">
+  <figcaption>Each adjustment moves profit up or down; the four together lower it by $680.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-accounting-other-payables-other-receivables-and-irrecoverable-debt--08-pr-income-ledgers.webp" width="900" height="944" alt="Two T-accounts in dollars. Hire fees: debit profit or loss 4,310; credit b/d 150, bank 3,900, c/d 260, so 260 is brought down as a debit (other receivable). Sponsorship: debit profit or loss 300 and c/d 1,500; credit bank 1,800, so 1,500 is brought down as a credit (other payable)." loading="lazy">
+  <figcaption>Accrued income is a debit balance and income in advance a credit balance.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-accounting-for-organisations-with-incomplete-records--01-adjustments-two-effects.webp" width="900" height="1010" alt="A four-row table shows accrued expenses, prepaid expenses, income due and income received in advance. An accrued expense is added to the expense and is a current liability (other payable); a prepaid expense is deducted and is a current asset (other receivable). Income due is added to income and is a current asset; income in advance is deducted and is a current liability." loading="lazy">
+  <figcaption>Each year-end adjustment changes both the income statement and the statement of financial position.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-double-entry-model--07-paid-not-owed.webp" width="900" height="950" alt="Of 11,200 dollars of rent paid in 2027, 800 clears rent owed from 2026, 9,600 is the 2027 expense and 800 is paid for January 2028 (a prepayment, other receivable). The rent payable account balances at 11,200 and the 800 is brought down as a debit." loading="lazy">
+  <figcaption>Only the part of the cash paid that belongs to the year is charged to the income statement.</figcaption>
+</figure>
 
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/aqa-a-level-accounting-accounting-for-organisations-with-incomplete-records--02-accrual-expense.webp" width="900" height="780" alt="Cash paid of 2,610 pounds has 240 pounds taken off (owed at the start, last year's cost) and 310 pounds added (owed at the end), giving a heating expense of 2,680 pounds. The 310 pounds still owing is a current liability." loading="lazy">

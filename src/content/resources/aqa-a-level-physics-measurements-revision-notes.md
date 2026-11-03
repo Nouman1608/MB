@@ -146,6 +146,11 @@ The final answer is rounded to match the precision implied by the uncertainty â€
 </figure>
 
 <figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-oxfordaqa-physics-measurements-and-their-errors--06-combining-uncertainties.webp" width="900" height="1120" alt="Falling ball: h = 1.200 +/- 0.002 m, t = 0.495 +/- 0.005 s. A bar shows 0.17 percent from h and 1.01 percent from t counted twice, 2.19 percent total, so g = 9.8 +/- 0.2 m s^-2." loading="lazy">
+  <figcaption>Percentage uncertainties add for products and quotients; a power multiplies the percentage.</figcaption>
+</figure>
+
+<figure class="topic-figure">
   <img src="https://img.marlbridge.com/ocr-a-level-physics-development-of-practical-skills--07-target-dominant-uncertainty.webp" width="900" height="930" alt="Comparison of total percentage uncertainty: original 2.87%, better ruler 2.55%, timing 20 oscillations 0.74% (assuming the same +/-0.02 s timing uncertainty; illustrative)." loading="lazy">
   <figcaption>Improving the dominant measurement cuts the uncertainty far more than improving the other one.</figcaption>
 </figure>
@@ -169,12 +174,6 @@ Where error bars for two data sets **overlap**, the difference between them may 
 
 **Straight-line analysis:** rearrange into `y = mx + c` form, then the gradient and intercept give the physical quantities you want. Identifying what to plot against what is usually the first mark.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-level-oxfordaqa-physics-measurements-and-their-errors--07-error-bars-gradient.webp" width="900" height="1030" alt="Extension against force with +/-2 mm error bars. Best line gradient 12.0, steepest 13.0, shallowest 11.0 mm per N, so gradient = 12.0 +/- 1.0 mm per N." loading="lazy">
-  <figcaption>Half the difference between the steepest and shallowest gradients.</figcaption>
-</figure>
-
-
 ## Exam traps
 
 - Swapping accuracy and precision.
@@ -194,3 +193,9 @@ Where error bars for two data sets **overlap**, the difference between them may 
 5. How is the uncertainty in a gradient and in an intercept found from a graph?
 
 **Answers:** 1. Accuracy is closeness to the true value; precision is how closely repeated readings agree. A balance with a zero error gives tightly grouped readings that are all wrong by the same amount. 2. Averaging reduces random error; it does not reduce systematic error, which requires recalibration. 3. Add the percentage uncertainties. 4. 9% â€” the percentage uncertainty is multiplied by the power. 5. Draw the steepest and shallowest lines that still pass through all the error bars, then take half the difference between their gradients for the gradient uncertainty, and half the difference between their intercepts for the intercept uncertainty.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-oxfordaqa-physics-measurements-and-their-errors--07-error-bars-gradient.webp" width="900" height="1030" alt="Extension against force with +/-2 mm error bars. Best line gradient 12.0, steepest 13.0, shallowest 11.0 mm per N, so gradient = 12.0 +/- 1.0 mm per N." loading="lazy">
+  <figcaption>Half the difference between the steepest and shallowest gradients.</figcaption>
+</figure>
+

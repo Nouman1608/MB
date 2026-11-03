@@ -142,6 +142,11 @@ Analysis should include **percentages, percentage changes and index numbers**. P
   <figcaption>Levels, chain of command and span of control decide whether a structure is tall or short.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-business-organisational-structure-and-business-communication--09-centralised-decentralised.webp" width="900" height="920" alt="Two charts with head office and three branches. Centralised: decisions are taken at head office and branches refer upward. Decentralised: each branch takes decisions locally." loading="lazy">
+  <figcaption>Centralisation keeps decisions at the top; decentralisation moves them down.</figcaption>
+</figure>
+
 
 ## Leadership
 
@@ -217,6 +222,17 @@ Motivated employees work harder, stay longer and serve customers better. Benefit
 | Fringe benefits | Attract and retain | Costly; may not motivate |
 
 Non-financial methods are **delegation**, **empowerment**, **job enrichment**, **training and development**, and **remote, hybrid and flexible working**. They cost less in cash and meet higher needs, but they need trust and good management, and they cannot replace fair pay.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-business-human-resource-management--05-pay-methods.webp" width="900" height="1030" alt="Piece rate: 550 items at 0.80 pounds earns 440 pounds. Commission: 300 pound basic plus 4 percent of 12,500 pounds sales gives 300 plus 500, 800 pounds." loading="lazy">
+  <figcaption>Piece rate pays for output; commission adds a share of sales to a basic wage.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-people-in-business--03-motivation-methods.webp" width="900" height="834" alt="Financial methods: wage, salary, bonus, commission, profit sharing. Non-financial methods: job enrichment, job rotation, teamworking, training, promotion. Each has an icon and a short plain description." loading="lazy">
+  <figcaption>Motivation methods split into five financial and five non-financial.</figcaption>
+</figure>
+
 
 ## Employee wellbeing
 

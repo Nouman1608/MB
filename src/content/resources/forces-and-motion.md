@@ -79,6 +79,12 @@ perpendicular to the motion (1.5)
 quantitative circular motion equation F = mv²/r is explicitly **not
 required**; only the qualitative relationships below are examined.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/forces-and-motion--02-f-equals-ma.webp" width="900" height="870" alt="Two trolleys receive the same 15 N push. The 3 kg trolley accelerates at 5 m/s squared and the 6 kg trolley at 2.5 m/s squared, with arrows to scale." loading="lazy">
+  <figcaption>Acceleration = resultant force divided by mass.</figcaption>
+</figure>
+
+
 ## Types of force and free-body diagrams
 
 A **force** is a push or pull that can change an object's motion. The
@@ -248,12 +254,6 @@ final speed
 - Thinking distance vs braking distance, and which factors affect each
 - The three qualitative circular-motion relationships (F = mv²/r not
 required)
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/forces-and-motion--02-f-equals-ma.webp" width="900" height="870" alt="Two trolleys receive the same 15 N push. The 3 kg trolley accelerates at 5 m/s squared and the 6 kg trolley at 2.5 m/s squared, with arrows to scale." loading="lazy">
-  <figcaption>Acceleration = resultant force divided by mass.</figcaption>
-</figure>
-
 
 ## Related resources
 

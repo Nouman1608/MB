@@ -107,6 +107,12 @@ subtract:          18 - 6 = 12
 
 Multiplication and division have equal priority, so work left to right: 30 ÷ (2 + 3) × 2 = 6 × 2 = 12, not 30 ÷ 10 = 3.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-fractions-decimals-percentages-ordering-operations--04-order-of-operations.webp" width="900" height="960" alt="Two worked examples with the part being calculated highlighted at each step: (5 - 2^3) x 4 + 6 / (-2) = -15, and 18 - 12 / 4 x 3 = 9. Multiplication and division have equal rank, so work left to right." loading="lazy">
+  <figcaption>Work out indices and brackets first, then multiply and divide left to right, then add and subtract.</figcaption>
+</figure>
+
+
 ### Odd, even, primes, factors and multiples
 
 - An **even** number divides exactly by 2; an **odd** number does not.
@@ -244,6 +250,12 @@ A check: HCF × LCM = 12 × 840 = 10 080 = 84 × 120. This works for any two num
 
 A **surd** is a root that cannot be written as an exact fraction, such as √2, √5 or ∛4. Surds are irrational: their decimals never end or repeat. √49 = 7 is not a surd. Leaving an answer as a surd keeps it exact, and exam questions often ask for exactly that.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-exponential-growth-decay-and-surds--04-surd-diagonal.webp" width="900" height="940" alt="A square of side 4 cm has a diagonal of root 32, since 16 + 16 = 32. Taking out the square factor gives 4 root 2, which lands near 5.657 on the number line." loading="lazy">
+  <figcaption>The exact length 4√2 cm is a surd; 5.657 is only a rounded value.</figcaption>
+</figure>
+
+
 ### Rules for manipulating surds
 
 ```
@@ -290,6 +302,11 @@ To rationalise means to rewrite a fraction so that the denominator has no surd.
   <figcaption>Simplify, add and expand surds.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-exponential-growth-decay-and-surds--05-conjugate-area.webp" width="900" height="769" alt="A square of side 3 with a square of area 5 cut out leaves area 4. Rearranged, it makes a rectangle 3 + root 5 by 3 minus root 5. So the conjugate product is 9 minus 5 = 4, a whole number." loading="lazy">
+  <figcaption>Multiplying by the conjugate gives a difference of two squares, so the surd disappears.</figcaption>
+</figure>
+
 
 ## 1.4 Fractional and negative powers (Higher tier only)
 
@@ -313,6 +330,12 @@ a^(-m/n) = 1/a^(m/n)                 negative means reciprocal
 ```
 
 Doing the root first matters. 32^(3/5): the fifth root of 32 is 2, and 2³ = 8. Cubing first gives 32 768, whose fifth root is much harder to find without a calculator.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-powers-roots-and-indices--05-fractional-indices.webp" width="900" height="1000" alt="A cube of 125 blocks has side 5, so 125^(1/3) = 5. Two flow chains show 125^(-2/3): root 3, square, flip gives 1/25, and 32^(3/5): root 5, cube gives 8." loading="lazy">
+  <figcaption>The denominator is the root, the numerator is the power, and a minus sign flips.</figcaption>
+</figure>
+
 
 ## Common errors
 

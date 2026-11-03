@@ -69,6 +69,11 @@ The **alpha-particle scattering experiment** showed that an atom's mass and posi
   <figcaption>The strong force is repulsive below 0.5 fm, attractive up to about 3 fm and negligible beyond (AQA and OCR).</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-quantum-physics--09-aphy-quantum-de-broglie.webp" width="900" height="1190" alt="Electrons accelerated through a potential difference pass through graphite and form rings on a screen. Doubling V from 2.5 kV to 5 kV shortens lambda from 24.6 pm to 17.4 pm and shrinks the rings by 0.71. A log scale shows a 0.057 kg ball at 40 m/s with lambda about 3e-34 m, far smaller than an electron at 3.5 kV (2e-11 m)." loading="lazy">
+  <figcaption>Faster electrons have a shorter wavelength, and only atom-sized wavelengths diffract noticeably.</figcaption>
+</figure>
+
 
 ## The standard model
 
@@ -151,12 +156,6 @@ Strangeness is conserved in strong and electromagnetic interactions but **may ch
 
 Same mass, **opposite charge and opposite quantum numbers**. When a particle and its antiparticle annihilate **from rest (negligible initial kinetic energy)**, the two-photon channel produces **two photons travelling in opposite directions**, as required by conservation of momentum — the initial total momentum is zero, so the photons' momenta must cancel.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-physics-quantum-physics--06-aphy-quantum-antimatter.webp" width="900" height="1230" alt="An electron and positron at rest annihilate into two 0.511 MeV photons going opposite ways. A 3.50 MeV photon makes an electron-positron pair, using 1.022 MeV as rest energy and leaving 2.478 MeV as kinetic energy, 1.24 MeV each. A 0.80 MeV photon is below the 1.022 MeV minimum." loading="lazy">
-  <figcaption>Annihilation and pair production share energy as rest energy and kinetic energy.</figcaption>
-</figure>
-
-
 ## Exam traps
 
 - Calling a proton or neutron fundamental.
@@ -177,3 +176,14 @@ Same mass, **opposite charge and opposite quantum numbers**. When a particle and
 7. Why do β particles have a continuous range of energies while α particles have discrete energies?
 
 **Answers:** 1. Quarks and leptons are fundamental; the electron is fundamental, but the proton and neutron are composite. 2. udd gives (+2/3) + (−1/3) + (−1/3) = 0. 3. A baryon consists of three quarks; a meson consists of one quark and one antiquark. 4. Beta decay appeared to violate conservation of energy and momentum because the emitted electron had a range of energies; a neutrino was proposed to carry the missing energy and momentum. 5. The weak force; it explains beta decay, in which a down quark changes to an up quark or vice versa. 6. ⁴₂α (an alpha particle); nucleon number balances as 238 = 234 + 4, and proton number balances as 92 = 90 + 2. 7. A neutrino or antineutrino shares the released energy with the β particle in a variable proportion, giving a continuous spread; an α decay shares a fixed energy release between just two bodies, giving a single discrete value.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-quantum-physics--06-aphy-quantum-antimatter.webp" width="900" height="1230" alt="An electron and positron at rest annihilate into two 0.511 MeV photons going opposite ways. A 3.50 MeV photon makes an electron-positron pair, using 1.022 MeV as rest energy and leaving 2.478 MeV as kinetic energy, 1.24 MeV each. A 0.80 MeV photon is below the 1.022 MeV minimum." loading="lazy">
+  <figcaption>Annihilation and pair production share energy as rest energy and kinetic energy.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-quantum-physics--08-aphy-quantum-energy-levels.webp" width="900" height="1230" alt="Hydrogen energy levels at -13.6, -3.40, -1.51 and -0.85 eV. Falls from n=3 and n=4 to n=2 give 658 nm red and 488 nm blue photons and n=2 to 1 gives 122 nm ultraviolet. A continuous spectrum is shown beside the hydrogen line spectrum with lines at the computed wavelengths." loading="lazy">
+  <figcaption>Each spectral line is one photon whose energy equals a gap between two levels.</figcaption>
+</figure>
+

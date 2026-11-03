@@ -155,6 +155,11 @@ So 4960 bacteria did not. Methods that allow the successful ones to be found and
   <figcaption>Only 0.8 percent of the bacteria took up the plasmid.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-biotechnology-and-genetic-modification--06-gm-steps.webp" width="900" height="1260" alt="Extended. Six steps to make a human protein in bacteria. a: restriction enzymes cut out the human gene leaving sticky ends. b: the same enzymes cut a plasmid leaving complementary sticky ends. c: the gene is inserted and DNA ligase joins it, making a recombinant plasmid. d: plasmids are put into bacteria. e: bacteria multiply. f: bacteria make the human protein." loading="lazy">
+  <figcaption>Cut gene and plasmid with the same enzymes, join with ligase, put into bacteria, multiply, collect protein.</figcaption>
+</figure>
+
 
 ## 3.5.5 c: Transfer at an early stage of development
 
@@ -195,6 +200,11 @@ The data come from one site and one season, so they cannot show that GM maize wi
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/oxfordaqa-igcse-biology-genetic-manipulation-cloning-genetic-engineering-and--08-gm-maize-yield-trial.webp" width="900" height="900" alt="Dot plot of five plots each. GM mean 9.6 t/ha, non-GM mean 8.0 t/ha, a 20 percent increase. The highest non-GM plot (8.2) is below the lowest GM plot (9.4). Over 40 hectares this is 64 extra tonnes." loading="lazy">
   <figcaption>The GM plots all out-yielded the non-GM plots, but the trial covers one site and one season.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-biotechnology-and-genetic-modification--07-gm-examples.webp" width="900" height="1015" alt="Four examples: human insulin gene into bacteria so they make human insulin; herbicide resistance so the crop lives and weeds die; insect resistance in maize using a bacterial gene so pests die; rice that makes beta-carotene for vitamin A." loading="lazy">
+  <figcaption>GM moves a gene from one organism into another to give a useful new feature.</figcaption>
 </figure>
 
 

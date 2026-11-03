@@ -216,6 +216,11 @@ diseconomies of scale instead.
   <figcaption>Average unit cost = total cost ÷ output; it falls with economies of scale and rises again with diseconomies.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-business-business-in-the-real-world--09-external-factors-retailer.webp" width="900" height="980" alt="Two cause-and-effect chains. A rise in interest rates leaves households with less to spend, so clothing demand falls, and raises the retailer’s interest costs, squeezing profit and delaying stores: two costs. A fall in the exchange rate makes imported stock dearer, a cost, but makes exports cheaper abroad, a benefit." loading="lazy">
+  <figcaption>External factors usually bring a cost and often a partly offsetting benefit.</figcaption>
+</figure>
+
 
 ## Official syllabus
 

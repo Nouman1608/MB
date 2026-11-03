@@ -133,6 +133,11 @@ The image has vertices (3, −4), (3, −7) and (5, −7).
   <figcaption>A rotation followed by a translation is a rotation through the same angle about a new centre.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-transformations-and-vectors--02-rotation-about-origin.webp" width="900" height="1065" alt="Triangle ABC is rotated 90 degrees clockwise about the origin. B(1,4) moves to B'(4,-1); the lines OB and OB' are equal and meet at a right angle. A rotation needs centre, angle and direction." loading="lazy">
+  <figcaption>A rotation is described by its centre, angle and direction.</figcaption>
+</figure>
+
 
 ### Worked example: finding the centre, angle and sense
 
@@ -170,6 +175,12 @@ Inline on this page the same vector is written (−4 over 3).
 The point (1, 2) translated by (−4 over 3) goes to (−3, 5). To describe a translation, take any point and subtract: image minus object. Give the column vector, not just words such as "4 left and 3 up".
 
 The translation that undoes (a over b) is (−a over −b).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-mathematics-transformations-reflection-rotation-enlargement-and--05-translation.webp" width="900" height="1050" alt="Triangle B is translated by the column vector (-4, 3) to give B dash at (-3,5), (-1,5), (-1,8). Dotted lines show all vertices moving the same distance in the same direction, and arrows mark 4 units left and 3 units up. The shape is not turned." loading="lazy">
+  <figcaption>A translation slides every point by the same column vector, with no turning and no centre.</figcaption>
+</figure>
+
 
 ## Combinations of transformations (9.01d, Higher tier only)
 
@@ -230,12 +241,23 @@ Rotate a shape 90° clockwise about the origin, then translate by (4 over 0). Th
   <figcaption>Reflection reverses orientation; rotation and translation keep it.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-mathematics-transformations-reflection-rotation-enlargement-and--06-combination.webp" width="900" height="858" alt="Triangle B is reflected in the x-axis (dashed B1) then in the y-axis to give B2. A dashed line from (5,3) through the origin to (-5,-3) shows each point (x, y) goes to (-x, -y), which is a rotation of 180 degrees about the origin." loading="lazy">
+  <figcaption>Reflecting in the x-axis and then the y-axis equals a single rotation of 180 degrees about the origin.</figcaption>
+</figure>
+
 
 ## Column vectors (9.03b)
 
 A vector has size and direction but no fixed position. Write a 2D vector as a column. For points A(2, 1) and B(5, −3), the vector from A to B is **AB** = (5 − 2 over −3 − 1) = (3 over −4). On a grid, draw it as an arrow 3 right and 4 down.
 
 Reversing direction changes the sign: **BA** = −**AB** = (−3 over 4).  A single letter such as **a** is the usual label (bold in print, underlined by hand).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-vectors-and-magnitude--01-vector-between-points.webp" width="900" height="1020" alt="Grid with P(-3,5) and Q(4,-1). Going from P to Q is 7 right and 6 down, so PQ is the column vector (7, -6). QP goes the other way, (-7, 6), so QP = -PQ." loading="lazy">
+  <figcaption>Finish minus start gives the column vector; the reverse vector has both signs changed.</figcaption>
+</figure>
+
 
 ## Vector arithmetic (9.03a)
 
@@ -268,6 +290,26 @@ Check: **SR** = (5 over −3) = **PQ**.
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/ocr-gcse-mathematics-isometric-transformations-and-vectors--07-parallelogram-vectors.webp" width="900" height="1045" alt="Parallelogram PQRS on a grid with P (1,2), Q (6,-1), PQ = (5,-3) and PS = (-1,4). S = (0,6) and R = (5,3); SR = PQ and QR = PS." loading="lazy">
   <figcaption>Add the vector PS to P and to Q to find S and R.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-vectors-and-magnitude--02-adding-vectors.webp" width="900" height="1020" alt="p = (5,-2) is drawn from the origin, then q = (-1,7) from where p ends. The single arrow from the origin to (4,5) is p + q, found by adding tops and adding bottoms." loading="lazy">
+  <figcaption>p + q means do p, then q; add the tops and add the bottoms.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-vectors-and-magnitude--03-subtracting-vectors.webp" width="900" height="1026" alt="p = (5,-2), then -q = (1,-7) from the end of p. The arrow from the origin to (6,-9) is p - q, the same as subtracting entry by entry." loading="lazy">
+  <figcaption>p − q is p plus the opposite of q.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-vectors-and-magnitude--04-scalar-multiples.webp" width="900" height="866" alt="r = (6,-4) with 3r = (18,-12) three times as long, half r = (3,-2) half as long, and -2r = (-12,8) twice as long and reversed. All lie along the same line." loading="lazy">
+  <figcaption>Multiplying by k scales both entries and keeps the arrow parallel to r.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-mathematics-vectors-in-two-dimensions-column-vectors-magnitude-and--04-position-vectors.webp" width="900" height="1070" alt="Points A (3, 1) and B (minus 1, 5) with position vectors a and b from O. AB = b minus a = (minus 4, 4), of magnitude 4 root 2. The midpoint M is at (1, 3), half of a plus b." loading="lazy">
+  <figcaption>AB = OB − OA: end minus start, and the midpoint is half the sum of the position vectors.</figcaption>
 </figure>
 
 
@@ -305,6 +347,11 @@ PR = OR − OP = 6a + 9b = 3(2a + 3b) = 3PQ
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/ocr-gcse-mathematics-isometric-transformations-and-vectors--08-vector-multiples-proofs.webp" width="900" height="1270" alt="Top: trapezium ABCD drawn with p one square across and q one square up; DC = 2AB so they are parallel, BC and AD are not multiples. Bottom: P (1,-1), Q (3,2), R (7,8) with PQ = (2,3), PR = (6,9) = 3PQ so P, Q, R are collinear and PQ : QR = 1 : 2." loading="lazy">
   <figcaption>If one vector is a multiple of another the lines are parallel; with a shared point they are collinear.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-transformations-and-vectors--07-vector-proof-midpoints.webp" width="900" height="945" alt="In triangle OAB, M and N are midpoints of OA and OB. MN = ON - OM = half of (b - a), and AB = b - a, so MN is half of AB and parallel to it. Shown with a = (8,2), b = (2,6)." loading="lazy">
+  <figcaption>Writing every vector in terms of a and b shows MN = half of AB, so the lines are parallel.</figcaption>
 </figure>
 
 

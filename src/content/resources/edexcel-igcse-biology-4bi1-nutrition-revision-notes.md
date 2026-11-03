@@ -170,6 +170,12 @@ A balanced diet has carbohydrate, protein, lipid, vitamins, minerals, water and 
 | Water | Drinks | Solvent, transport, cooling |
 | Fibre | Vegetables, wholegrain | Bulk for peristalsis, prevents constipation |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-human-nutrition--01-balanced-diet.webp" width="900" height="1188" alt="Nine rows, each with a food picture: carbohydrates (rice) give energy; fats and oils are an energy store and insulate; proteins (egg) for growth and repair; vitamin C (orange) prevents scurvy; vitamin D (oily fish) prevents rickets; calcium (milk) for strong bones and teeth; iron (green leaves) makes haemoglobin; fibre (carrot) keeps food moving; water is the solvent and transport medium." loading="lazy">
+  <figcaption>Each part of the diet has a job; vitamin C and D deficiency cause scurvy and rickets.</figcaption>
+</figure>
+
+
 ### 2.26 Energy requirements
 
 - Higher with **more activity** (more respiration in muscles).
@@ -203,6 +209,11 @@ Order: mouth → oesophagus → stomach → duodenum → ileum → colon → rec
   <figcaption>Circular muscle contracts behind the food and relaxes in front, so the squeeze moves the food along.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-human-nutrition--02-alimentary-canal.webp" width="900" height="1240" alt="Schematic digestive system from mouth to anus with leader-line labels: mouth, salivary glands, oesophagus, stomach, liver, gall bladder, pancreas, duodenum, small intestine, ileum, colon, rectum and anus. Each label gives one short function; the small intestine absorbs nutrients and most water and the colon absorbs some water." loading="lazy">
+  <figcaption>Name the organs of the alimentary canal in order and say what each does.</figcaption>
+</figure>
+
 
 ### 2.29 Enzymes
 
@@ -213,12 +224,29 @@ Order: mouth → oesophagus → stomach → duodenum → ileum → colon → rec
 | Protease | Protein | Amino acids | Stomach, pancreas, small intestine |
 | Lipase | Lipid | Fatty acids + glycerol | Pancreas; acts in small intestine |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-human-nutrition--06-enzymes-products.webp" width="900" height="1140" alt="Three rows show a large insoluble molecule, an enzyme, and the small soluble products. Amylase turns starch into simple sugars; protease turns protein into amino acids; lipase turns fat into glycerol and fatty acids. An Extended panel shows amylase turning starch into maltose and maltase, at the lining of the small intestine, turning maltose into glucose." loading="lazy">
+  <figcaption>Each enzyme turns one large insoluble molecule into small soluble products.</figcaption>
+</figure>
+
+
 ### 2.30–2.31 Bile
 
 - Made in the **liver**, stored in the **gall bladder**, released into the duodenum.
 - **Alkaline:** neutralises stomach acid, giving the right pH for enzymes in the small intestine.
 - **Emulsifies lipids:** large drops → small droplets → larger surface area for lipase.
 - Not an enzyme. It does not break bonds.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-human-nutrition--05-physical-digestion.webp" width="900" height="1130" alt="Top: chewing and churning break one large cube of food into eight small cubes; the surface area doubles. Bottom, Extended: bile breaks one large fat droplet into eight small droplets, again doubling the surface area so twice as many lipase molecules can reach the fat. The fat molecules themselves are not changed." loading="lazy">
+  <figcaption>Smaller pieces give more surface area for enzymes, and bile does this to fat without changing the molecules.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-human-nutrition--07-gut-ph-enzymes.webp" width="900" height="1200" alt="The stomach is acidic because of hydrochloric acid, which kills microbes and gives the acid pH that pepsin needs. Food then enters the duodenum, where bile neutralises the acid and makes the contents alkaline for trypsin. A sketch graph of enzyme activity against pH shows pepsin most active in acid and trypsin most active in alkali. Pepsin, trypsin and bile are Extended." loading="lazy">
+  <figcaption>Pepsin works in acid and trypsin in alkali, because bile neutralises the acid leaving the stomach.</figcaption>
+</figure>
+
 
 ### 2.32 Villus
 
@@ -251,6 +279,12 @@ Order: mouth → oesophagus → stomach → duodenum → ileum → colon → rec
 **Reading a carbon dioxide curve.** If raising carbon dioxide from 0.02% to 0.06% raises the rate, but raising it from 0.10% to 0.14% does not, then carbon dioxide was limiting at low concentration but not at high concentration. At high concentration, light intensity or temperature is limiting.
 
 **Controlled variables in the pondweed practical.** When light is the independent variable, keep carbon dioxide (same amount of sodium hydrogencarbonate), temperature (heat shield) and the type and length of pondweed the same.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-human-nutrition--08-villus.webp" width="900" height="1250" alt="Extended. A row of villi on the folded small intestine lining, then one villus enlarged. Its surface epithelium is one cell thick with microvilli on the outside. Inside are a capillary network and a central lacteal. Sugars and amino acids enter the capillaries and go into the blood; fatty acids and glycerol enter the lacteal, which is part of the lymphatic system." loading="lazy">
+  <figcaption>Capillaries take sugars and amino acids; the lacteal takes fatty acids and glycerol.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 

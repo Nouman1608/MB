@@ -59,12 +59,6 @@ NCL = non-current liabilities; CA and CL = current assets and current liabilitie
 - Markup from margin: markup = margin / (100 - margin) × 100. Margin 40% gives markup 66.67%.
 - Inventory days = 365 / inventory turnover.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/aqa-a-level-accounting-analysis-and-evaluation-of-financial-information--02-margin-vs-markup.webp" width="900" height="810" alt="One bar shows revenue of 480,000 dollars made of cost of sales 312,000 and gross profit 168,000. Margin divides gross profit by revenue to give 35.00 percent; mark-up divides the same profit by cost of sales to give 53.85 percent." loading="lazy">
-  <figcaption>The same gross profit gives a larger percentage when measured against cost of sales than against revenue.</figcaption>
-</figure>
-
-
 ## What a change usually means
 
 | Ratio moves | Possible causes | Why it matters |
@@ -82,11 +76,6 @@ NCL = non-current liabilities; CA and CL = current assets and current liabilitie
 Treat these as possible causes. In an answer, pick the one the data supports and say why.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/aqa-a-level-accounting-analysis-and-evaluation-of-financial-information--03-roce.webp" width="900" height="800" alt="Capital of 237,000 dollars plus a 60,000 loan make capital employed of 297,000. Profit for the year of 57,600 plus 3,600 loan interest added back gives net profit before interest of 61,200, so ROCE is 20.61 percent. For a company, capital employed is shares plus reserves plus non-current liabilities." loading="lazy">
-  <figcaption>ROCE divides profit before loan interest by all long-term funds, loans included.</figcaption>
-</figure>
-
-<figure class="topic-figure">
   <img src="https://img.marlbridge.com/aqa-a-level-accounting-analysis-and-evaluation-of-financial-information--05-cash-tied-up-days.webp" width="900" height="690" alt="Inventory is held 43.8 days and customers pay a further 36.5 days later, 80.3 days after buying. Suppliers are paid after 45.0 days, so the business funds the 35.3 days in between. Calculated from average inventory, credit sales and credit purchases." loading="lazy">
   <figcaption>Inventory, receivable and payable days together show how long the business must fund its own working capital.</figcaption>
 </figure>
@@ -94,6 +83,11 @@ Treat these as possible causes. In an answer, pick the one the data supports and
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/aqa-a-level-accounting-analysis-and-evaluation-of-financial-information--08-gearing-interest-cover.webp" width="900" height="810" alt="Ardleigh funds 24.47 percent of long-term capital with debt and its operating profit covers interest 7.91 times. Merrowdale has 52.00 percent debt and covers interest only 3.00 times, so it is riskier if profit falls." loading="lazy">
   <figcaption>More borrowing and less interest cover mean more risk to lenders and shareholders.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-analysis-and-evaluation-of-financial-information--09-break-even-chart.webp" width="900" height="740" alt="Fixed costs are flat at 30,000 dollars, total costs start there and rise 22.50 per lamp, and revenue rises 37.50 per lamp from zero. They meet at 2,000 lamps and 75,000 dollars. Left of that is loss and right of it profit; the margin of safety to the budget of 4,000 lamps is 2,000 lamps; the angle of incidence is marked at the break-even point." loading="lazy">
+  <figcaption>The break-even point is where revenue meets total costs, and the margin of safety is the distance beyond it.</figcaption>
 </figure>
 
 
@@ -185,6 +179,21 @@ Treat these as possible causes. In an answer, pick the one the data supports and
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/aqa-a-level-accounting-analysis-and-evaluation-of-financial-information--01-ratio-map.webp" width="900" height="951" alt="Five rows group ratios by the question they answer: profitability asks if the business earns enough, liquidity if it can pay its debts, efficiency if it uses resources well, capital structure how it is funded (AQA and OxfordAQA), and investor ratios whether shares are worth owning (A Level companies)." loading="lazy">
   <figcaption>Each ratio group answers one question about the business.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-analysis-and-evaluation-of-financial-information--02-margin-vs-markup.webp" width="900" height="810" alt="One bar shows revenue of 480,000 dollars made of cost of sales 312,000 and gross profit 168,000. Margin divides gross profit by revenue to give 35.00 percent; mark-up divides the same profit by cost of sales to give 53.85 percent." loading="lazy">
+  <figcaption>The same gross profit gives a larger percentage when measured against cost of sales than against revenue.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-analysis-and-evaluation-of-financial-information--03-roce.webp" width="900" height="800" alt="Capital of 237,000 dollars plus a 60,000 loan make capital employed of 297,000. Profit for the year of 57,600 plus 3,600 loan interest added back gives net profit before interest of 61,200, so ROCE is 20.61 percent. For a company, capital employed is shares plus reserves plus non-current liabilities." loading="lazy">
+  <figcaption>ROCE divides profit before loan interest by all long-term funds, loans included.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-analysis-and-evaluation-of-financial-information--06-eps-and-pe.webp" width="900" height="830" alt="Profit for the year of 896,000 dollars less a 56,000 preference dividend leaves 840,000 of ordinary earnings. Divided by 6,000,000 shares this is 14.00 cents per share. A share price of 238 cents is 17 times that, so P/E is 17.00 times." loading="lazy">
+  <figcaption>EPS is profit per ordinary share; P/E says how many years of earnings the price represents.</figcaption>
 </figure>
 
 

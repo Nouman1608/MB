@@ -160,6 +160,12 @@ Real transformers lose some power, through **eddy currents** (reduced by laminat
 
 **Power transmission** is why transformers matter beyond the laboratory. Electricity is transmitted at **high voltage and low current**, because the power lost as heat in the cables is `I²R` — it depends on the **square of the current**, not the voltage. Stepping the transmission voltage up by a factor of 10 divides the current by 10 for the same power delivered, and so cuts the transmission loss by a factor of 100. Stating the reason in terms of current squared, rather than voltage, is what earns the explanation mark.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-alternating-currents--07-transformer.webp" width="900" height="935" alt="A laminated iron core carries a primary coil of 1840 turns on 230 V a.c. and a secondary of 120 turns on a 15 V, 30 W load. The changing flux links both coils; Ip = 0.13 A and Is = 2.0 A, so power in equals power out for an ideal transformer. Eddy currents are big loops in a solid core and small loops in a laminated core. A real transformer draws 34.5 W for 30 W out, 87 percent efficient." loading="lazy">
+  <figcaption>An ideal transformer has Ns/Np = Vs/Vp = Ip/Is; the laminated core reduces eddy-current losses.</figcaption>
+</figure>
+
+
 ## Rectification
 
 **Rectification** converts alternating current into a current that flows in

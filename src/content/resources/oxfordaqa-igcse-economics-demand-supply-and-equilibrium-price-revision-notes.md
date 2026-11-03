@@ -173,6 +173,16 @@ Take the notebook market again. A school campaign adds 20 to demand at every pri
   <figcaption>A shift of the whole demand curve is caused by a non-price condition such as income, tastes or the price of related goods.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-allocation-of-resources--04-shifts-of-supply.webp" width="900" height="1000" alt="Three parallel supply curves: S1 original, S2 to the right (increase; at price 5 quantity 50 to 70), S3 to the left (decrease; 50 to 30). Rightward shifts come from lower costs, better technology or more sellers; leftward from higher costs or fewer sellers." loading="lazy">
+  <figcaption>A shift of the whole supply curve is caused by costs of production, technology or the number of sellers.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-allocation-of-resources--05-equilibrium-price.webp" width="900" height="940" alt="Demand and supply cross at equilibrium: price 5, quantity 50. At price 8, quantity demanded 20 and supplied 87.5, a surplus, so price falls. At price 3, demanded 70 and supplied 25, a shortage, so price rises." loading="lazy">
+  <figcaption>Price moves towards the equilibrium where demand equals supply.</figcaption>
+</figure>
+
 
 ## Command words
 

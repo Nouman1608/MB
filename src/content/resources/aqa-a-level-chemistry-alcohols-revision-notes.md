@@ -215,12 +215,6 @@ Cyclohexene from cyclohexanol (suggested in the specification):
 Apparatus points: anti-bumping granules; thermometer bulb at the side arm; water in at the bottom of the
 condenser; never heat a sealed system; use an electric heater, not a flame, with flammable organic liquids.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-alcohols--05-distil-reflux.webp" width="900" height="1220" alt="Left: distillation with limited oxidant, the aldehyde distils off into a receiver. Right: reflux with excess oxidant, vertical condenser, vapour condenses and drips back so the acid forms. A bar chart of boiling points (ethanal 20, ethanol 78, ethanoic acid 118 degrees C, from the OCR lesson) shows why the aldehyde leaves first." loading="lazy">
-  <figcaption>Distil to collect the aldehyde; reflux with excess oxidant to make the carboxylic acid.</figcaption>
-</figure>
-
-
 ## Quick self-test
 
 1. Classify 2-methylpropan-1-ol.
@@ -250,6 +244,12 @@ condenser; never heat a sealed system; use an electric heater, not a flame, with
 10. (E)-pent-2-ene and (Z)-pent-2-ene.
 11. 0.0600 mol in, 3.28 ÷ 82.0 = 0.0400 mol out; 0.0400 ÷ 0.0600 × 100 = **66.7 %**.
 12. Fossil fuels are burned to power farm machinery, make fertiliser, distil the ethanol or transport it.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-alcohols--05-distil-reflux.webp" width="900" height="1220" alt="Left: distillation with limited oxidant, the aldehyde distils off into a receiver. Right: reflux with excess oxidant, vertical condenser, vapour condenses and drips back so the acid forms. A bar chart of boiling points (ethanal 20, ethanol 78, ethanoic acid 118 degrees C, from the OCR lesson) shows why the aldehyde leaves first." loading="lazy">
+  <figcaption>Distil to collect the aldehyde; reflux with excess oxidant to make the carboxylic acid.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

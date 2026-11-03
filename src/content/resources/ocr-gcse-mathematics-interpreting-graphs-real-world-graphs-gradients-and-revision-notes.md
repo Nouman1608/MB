@@ -91,6 +91,11 @@ Reminder: 6 workers take 10 days gives k = 60, so 15 workers take 60 ÷ 15 = 4 d
   <figcaption>Reading a conversion graph, and why a line through the origin lets you scale.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-graphs-in-practical-situations--03-van-journey.webp" width="900" height="930" alt="A distance-time graph of a van: 36 km out in 45 minutes (48 km/h), a flat 30 minute stop, then 36 km back in an hour (36 km/h). The whole trip is 72 km in 2.25 hours, so the average speed is 32 km/h, with the stop counted." loading="lazy">
+  <figcaption>Reading speed, stops and average speed from a distance-time graph.</figcaption>
+</figure>
+
 
 ## 7.04b Gradients and rates of change
 
@@ -173,6 +178,16 @@ Over or under: on a concave curve the trapezia fall short of it, so the estimate
   <figcaption>The area under a pounds-per-hour graph is the total money taken: 360 pounds.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-graphs-in-practical-situations--05-tangent-speed.webp" width="900" height="930" alt="A curved distance-time graph through (0, 0), (1, 1), (2, 4), (3, 9), (4, 16), (5, 25). A tangent at (3, 9) passes through (2, 3) and (5, 21), so its gradient is 18 divided by 3 = 6 m/s. A chord to (5, 25) has gradient 8 and only gives an average." loading="lazy">
+  <figcaption>Speed at one instant is the gradient of the tangent, not of a chord.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-graphs-in-practical-situations--06-speed-time-area.webp" width="900" height="890" alt="A speed-time graph for a cyclist: 0 to 12 m/s in 8 s, 12 m/s for 20 s, then to rest in 6 s. The area under the graph is the distance, 48 + 240 + 36 = 324 m, and the average speed is 324 divided by 34 = 9.53 m/s." loading="lazy">
+  <figcaption>Gradient is acceleration and area under the graph is distance.</figcaption>
+</figure>
+
 
 ## Worked reminders
 
@@ -201,17 +216,6 @@ Check: 16 + 48 + 16 = 80 m
 ```
 
 **Higher tier only: drawing a tangent.** Rest the ruler against the curve at the point so the curve sits evenly on both sides. Draw the line long. Pick two widely spaced points on the line, then divide the rise by the run. Give the answer as an estimate, because a different but sensible tangent will give a slightly different value.
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-mathematics-0580-graphs-in-practical-situations--03-van-journey.webp" width="900" height="930" alt="A distance-time graph of a van: 36 km out in 45 minutes (48 km/h), a flat 30 minute stop, then 36 km back in an hour (36 km/h). The whole trip is 72 km in 2.25 hours, so the average speed is 32 km/h, with the stop counted." loading="lazy">
-  <figcaption>Reading speed, stops and average speed from a distance-time graph.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-mathematics-0580-proportion--06-pumps-inverse.webp" width="900" height="1000" alt="The graph of t = 72 over n for pumps and hours. Rectangles to (4, 18), (6, 12) and (9, 8) all have area 72 because t times n is constant. 6 pumps take 12 hours and 9 pumps take 8 hours." loading="lazy">
-  <figcaption>In inverse proportion the product t × n stays the same.</figcaption>
-</figure>
-
 
 ## Must-know distinctions
 
@@ -248,6 +252,12 @@ Check: 16 + 48 + 16 = 80 m
 9. (3(2 + h)² - 12) ÷ h = (12h + 3h²) ÷ h = **12 + 3h**. As h gets very small, the gradient approaches **12**.
 10. Triangle area = ½ × 4 × 30 = **£60**.
 11. 3/4 × 20 = **15 m**.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-proportion--06-pumps-inverse.webp" width="900" height="1000" alt="The graph of t = 72 over n for pumps and hours. Rectangles to (4, 18), (6, 12) and (9, 8) all have area 72 because t times n is constant. 6 pumps take 12 hours and 9 pumps take 8 hours." loading="lazy">
+  <figcaption>In inverse proportion the product t × n stays the same.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

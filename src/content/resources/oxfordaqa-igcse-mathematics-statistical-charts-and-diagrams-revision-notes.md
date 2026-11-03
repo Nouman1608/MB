@@ -49,8 +49,23 @@ Put it into practice with the [practice set](/resources/oxfordaqa-igcse-mathemat
 </figure>
 
 <figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-classifying-and-interpreting-data--02-tally-table.webp" width="900" height="908" alt="A table for 24 students shows tally strokes grouped in fives and frequencies 3, 6, 8, 4, 2, 1 totalling 24. The rows for 3, 4 and 5 books are highlighted and sum to 7 students, 7/24 of the class." loading="lazy">
+  <figcaption>Group tally strokes in fives, then check the frequencies add up to the number of items.</figcaption>
+</figure>
+
+<figure class="topic-figure">
   <img src="https://img.marlbridge.com/igcse-mathematics-0580-statistical-charts-and-diagrams--02-composite-and-dual-bars.webp" width="900" height="1208" alt="The same lunch data is shown as stacked bars (totals 80, 90, 90) and as side-by-side bars starting at 0. Year 11 packed lunch runs from 60 to 90, so it is 30. Side-by-side bars make one option easy to compare across years." loading="lazy">
   <figcaption>A stacked bar shows totals and make-up; a dual bar chart compares one category across groups.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-statistics--07-stem-and-leaf-order.webp" width="900" height="680" alt="The same 15 values as an unordered and an ordered stem-and-leaf diagram. Counting to the 8th leaf unordered gives 38, which is wrong. Ordered, the 8th leaf is 31, the median. Key: 3 | 1 means 31." loading="lazy">
+  <figcaption>Order the leaves in each row before counting to the median.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-cumulative-frequency-diagrams--06-comparing-groups.webp" width="900" height="1070" alt="Two curves on one grid: teachers have median 26 and IQR 11, students median 30 and IQR about 17. Bars show the middle half of each group. Teachers were faster and more consistent." loading="lazy">
+  <figcaption>Compare a lower median (faster) and a smaller IQR (more consistent), in context.</figcaption>
 </figure>
 
 
@@ -93,13 +108,38 @@ Put it into practice with the [practice set](/resources/oxfordaqa-igcse-mathemat
 4. Extend whiskers out to the smallest and largest values.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-mathematics-0580-statistical-charts-and-diagrams--01-frequency-bar-chart.webp" width="900" height="790" alt="Bars for 1 to 5 people have heights 6, 13, 9, 8 and 4 flats, totalling 40. The bars for 3, 4 and 5 people are highlighted: 9 + 8 + 4 = 21 of 40 flats. The bars are separate and the axis starts at 0." loading="lazy">
-  <figcaption>Each bar height is the frequency, and adding the frequencies gives the number of flats.</figcaption>
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-statistical-charts-and-diagrams--05-reading-a-pie-chart.webp" width="900" height="840" alt="Spanish is 100 degrees and 75 students, so 1 degree is 0.75 students and 360 degrees is 270 students. The sectors are French 105, Spanish 75, German 54, Mandarin 36." loading="lazy">
+  <figcaption>One known angle and frequency give the scale for the whole pie chart.</figcaption>
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-mathematics-0580-statistical-charts-and-diagrams--04-drawing-a-pie-chart.webp" width="900" height="800" alt="A pie chart of 72 people has 5 degrees per person. Beach 130, City 90, Mountains 60, Cruise 20 and Other 60 degrees, adding to 360." loading="lazy">
-  <figcaption>Angle = frequency x (360 / total), and the angles must add to 360 degrees.</figcaption>
+  <img src="https://img.marlbridge.com/cambridge-o-level-mathematics-histograms-and-frequency-density-with-unequal-class--01-why-frequency-density.webp" width="900" height="1040" alt="The 71 phone calls from worked example 1 drawn twice. With frequency as the height, the 5 to 10 class looks tallest and the wide classes look too important. With frequency density (3, 5, 4, 1.8, 0.6) the 2 to 5 class is the tallest bar." loading="lazy">
+  <figcaption>Plotting frequency against unequal class widths misleads; frequency density gives a fair picture.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-statistics--06-histogram-frequency-density.webp" width="900" height="850" alt="A histogram of ages of 120 people with unequal class widths. Frequency density = frequency / class width gives 2, 2.5, 3 and 1. The 10 to 30 class has most people (50) but the 30 to 40 bar is the tallest." loading="lazy">
+  <figcaption>With unequal class widths the bar height is frequency density, and the bar area equals the frequency.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-cumulative-frequency-diagrams--02-draw-the-curve.webp" width="900" height="770" alt="Crosses at (0,0), (10,6), (20,24), (30,60), (40,92), (50,112), (60,120) are joined by one smooth S-shaped curve. The start at zero and the upper class boundary are highlighted." loading="lazy">
+  <figcaption>Plot each running total at the upper class boundary, start at (0, 0) and join with a smooth curve.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-cumulative-frequency-diagrams--03-median-quartiles-iqr.webp" width="900" height="920" alt="On the curve for 120 students, reading across at 30, 60 and 90 and down gives LQ about 22, median 30 and UQ about 39 minutes. The IQR is 39 minus 22 = 17 minutes." loading="lazy">
+  <figcaption>Read across at n/4, n/2 and 3n/4, then down; the IQR is UQ minus LQ.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-cumulative-frequency-diagrams--05-time-to-number.webp" width="900" height="918" alt="Starting at 35 minutes and reading up then across gives about 77 students. Starting at 45 gives about 103, so more than 45 minutes is 120 minus 103 = 17 students, about 14%." loading="lazy">
+  <figcaption>From a time, go up to the curve then across; for &quot;more than&quot;, subtract from the total.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-maths-8300-statistics--11-box-plot-build.webp" width="900" height="760" alt="Eleven ordered values from 3 to 22 sit on a number line. The 3rd value 6 is the lower quartile, the 6th value 10 is the median and the 9th value 15 is the upper quartile. The box runs from 6 to 15 with a line at 10, and whiskers reach 3 and 22, so the IQR is 9 and the range is 19." loading="lazy">
+  <figcaption>Pick the minimum, three quartiles and maximum from the ordered list and draw them on one scale.</figcaption>
 </figure>
 
 
@@ -141,6 +181,17 @@ The points are (20, 3), (40, 15), (60, 45), (80, 54), (100, 60), plus (0, 0). Th
 
 Shop B has the lower median (14 against 15) and the smaller interquartile range (5 against 12). Its deliveries are slightly quicker and much more consistent.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-mathematics-statistical-charts-and-diagrams--06-histogram-and-polygon.webp" width="900" height="910" alt="Five touching bars of width 10 minutes with heights 5, 12, 18, 10 and 5 show the journey times of 50 employees. The frequency polygon joins points at the class midpoints 5, 15, 25, 35 and 45." loading="lazy">
+  <figcaption>A frequency polygon is plotted at class midpoints; histogram bars touch.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-mathematics-statistical-charts-and-diagrams--03-box-plots-two-queues.webp" width="900" height="895" alt="Queue 1 has a box from 22 to 40 with median 30 and whiskers to 3 and 58. Queue 2 has quartiles 15 and 30 and median 22, so a lower median and smaller IQR." loading="lazy">
+  <figcaption>Compare two box plots with a median and a spread.</figcaption>
+</figure>
+
+
 ## Reading and describing a diagram
 
 - Start with the title, axis labels, units and key. Only then take values.
@@ -154,6 +205,16 @@ Shop B has the lower median (14 against 15) and the smaller interquartile range 
   <figcaption>Reading rises, falls and an estimated value from a line graph.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-statistics--04-correlation-types.webp" width="900" height="1010" alt="Three scatter diagrams: positive correlation (y rises with x), negative correlation (y falls as x rises) and zero correlation (no pattern, so no line of best fit)." loading="lazy">
+  <figcaption>Judge the correlation by eye before drawing any line.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-statistics--05-line-of-best-fit.webp" width="900" height="850" alt="A scatter diagram of revision hours and test score with a line of best fit through the mean point. Reading up from 6 hours gives a predicted score of about 67. The line is dashed beyond 8 hours where there is no data." loading="lazy">
+  <figcaption>A line of best fit passes through the mean point and is used to predict inside the range of the data.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 
@@ -162,12 +223,6 @@ Shop B has the lower median (14 against 15) and the smaller interquartile range 
 - **Dual or composite bar chart.** Dual bars sit beside each other. Composite bars stack to show a total.
 - **Frequency or frequency density (Extension only).** Frequency is the count. Frequency density is the bar height, and area stands for frequency.
 - **Histogram or cumulative frequency (Extension only).** A histogram shows how many are in each class. A cumulative frequency diagram shows how many are up to each boundary.
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/oxfordaqa-igcse-mathematics-statistical-charts-and-diagrams--06-histogram-and-polygon.webp" width="900" height="910" alt="Five touching bars of width 10 minutes with heights 5, 12, 18, 10 and 5 show the journey times of 50 employees. The frequency polygon joins points at the class midpoints 5, 15, 25, 35 and 45." loading="lazy">
-  <figcaption>A frequency polygon is plotted at class midpoints; histogram bars touch.</figcaption>
-</figure>
-
 
 ## Quick self-test
 
@@ -204,6 +259,31 @@ Shop B has the lower median (14 against 15) and the smaller interquartile range 
   <figcaption>The key sets the value of a symbol, and part symbols are the same fraction of it.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-statistical-charts-and-diagrams--01-frequency-bar-chart.webp" width="900" height="790" alt="Bars for 1 to 5 people have heights 6, 13, 9, 8 and 4 flats, totalling 40. The bars for 3, 4 and 5 people are highlighted: 9 + 8 + 4 = 21 of 40 flats. The bars are separate and the axis starts at 0." loading="lazy">
+  <figcaption>Each bar height is the frequency, and adding the frequencies gives the number of flats.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-statistical-charts-and-diagrams--04-drawing-a-pie-chart.webp" width="900" height="800" alt="A pie chart of 72 people has 5 degrees per person. Beach 130, City 90, Mountains 60, Cruise 20 and Other 60 degrees, adding to 360." loading="lazy">
+  <figcaption>Angle = frequency x (360 / total), and the angles must add to 360 degrees.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-statistical-charts-and-diagrams--06-stem-and-leaf.webp" width="900" height="866" alt="Rows 12 to 16 hold the 20 ordered times, with the key 12 | 5 meaning 12.5 seconds. The 10th and 11th values, 14.2 and 14.4, give the median 14.3 s. The range is 4.3 s." loading="lazy">
+  <figcaption>Count leaves, not stems, to find the median, and always include the key.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-maths-8300-statistics--12-histogram-estimate.webp" width="900" height="900" alt="A histogram of plant heights with frequency density 1.2, 3.6, 4.4, 1.6 and 0.4 for classes 0-10, 10-15, 15-20, 20-30 and 30-50. The area from 12 to 25 is shaded: 10.8 + 22 + 8 gives about 41 plants." loading="lazy">
+  <figcaption>Area is frequency, so shade the part you want and add the areas.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-cumulative-frequency-diagrams--01-build-the-table.webp" width="900" height="800" alt="Six time classes with frequencies 6, 18, 36, 32, 20, 8 are shown as bars beside running-total bars that grow to 6, 24, 60, 92, 112, 120. The last total equals 120, the number of students." loading="lazy">
+  <figcaption>Each running total adds the new class to the total so far, and the last must equal the total frequency.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 
@@ -216,17 +296,6 @@ Shop B has the lower median (14 against 15) and the smaller interquartile range 
 - Writing the answer without showing the reading lines or the working. Drawn lines help if the reading is off.
 - Comparing box plots by describing the shape only. Quote a median and a spread, with the figures.
 - Putting axis scales on a graph that do not use most of the grid, or have uneven steps.
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/oxfordaqa-igcse-mathematics-statistical-charts-and-diagrams--03-box-plots-two-queues.webp" width="900" height="895" alt="Queue 1 has a box from 22 to 40 with median 30 and whiskers to 3 and 58. Queue 2 has quartiles 15 and 30 and median 22, so a lower median and smaller IQR." loading="lazy">
-  <figcaption>Compare two box plots with a median and a spread.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-mathematics-0580-statistical-charts-and-diagrams--05-reading-a-pie-chart.webp" width="900" height="840" alt="Spanish is 100 degrees and 75 students, so 1 degree is 0.75 students and 360 degrees is 270 students. The sectors are French 105, Spanish 75, German 54, Mandarin 36." loading="lazy">
-  <figcaption>One known angle and frequency give the scale for the whole pie chart.</figcaption>
-</figure>
-
 
 ## Official syllabus
 

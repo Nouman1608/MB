@@ -193,17 +193,6 @@ Links: [course hub](/boards/cambridge/a-level/biology/) · [printable checklist]
 | Example of barrier | Mountain range, sea, river | Different food, habitat or breeding time; different courtship |
 | Common steps | No gene flow → different mutations, selection pressures and drift → gene pools diverge → can no longer interbreed to give fertile offspring | Same |
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-level-biology-9700-selection-and-evolution--08-speciation.webp" width="900" height="1080" alt="In allopatric speciation a river splits one population, gene flow stops, and the two groups diverge until they cannot produce fertile offspring together. In sympatric speciation the groups share an area but are isolated, for example by flowering in May or July, and diverge in the same way." loading="lazy">
-  <figcaption>Speciation needs reproductive isolation, either by a physical barrier or by another barrier in the same place.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-level-biology-9700-selection-and-evolution--09-dna-relatedness.webp" width="900" height="930" alt="Four rows show the same 27-base DNA section in species A to D with differences from A highlighted: B 1 (3.7 percent), C 3 (11.1 percent) and D 8 (29.6 percent). Fewer differences mean a more recent common ancestor, so B is closest to A." loading="lazy">
-  <figcaption>Fewer base differences suggest a more recent common ancestor.</figcaption>
-</figure>
-
-
 ## Quick self-test
 
 1. Is ABO blood group an example of continuous or discontinuous variation?
@@ -219,6 +208,12 @@ Links: [course hub](/boards/cambridge/a-level/biology/) · [printable checklist]
 11. A river changes course and splits a population of snails. Name the type of speciation that may follow.
 12. State four conditions needed for the Hardy–Weinberg principle to apply.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-selection-and-evolution--08-speciation.webp" width="900" height="1080" alt="In allopatric speciation a river splits one population, gene flow stops, and the two groups diverge until they cannot produce fertile offspring together. In sympatric speciation the groups share an area but are isolated, for example by flowering in May or July, and diverge in the same way." loading="lazy">
+  <figcaption>Speciation needs reproductive isolation, either by a physical barrier or by another barrier in the same place.</figcaption>
+</figure>
+
+
 ### Answers
 
 1. **Discontinuous.**
@@ -233,6 +228,12 @@ Links: [course hub](/boards/cambridge/a-level/biology/) · [printable checklist]
 10. 9/600 × 100 = **1.5%**.
 11. **Allopatric** speciation.
 12. Any four of: **large population, random mating, no mutation, no migration, no selection**.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-selection-and-evolution--09-dna-relatedness.webp" width="900" height="930" alt="Four rows show the same 27-base DNA section in species A to D with differences from A highlighted: B 1 (3.7 percent), C 3 (11.1 percent) and D 8 (29.6 percent). Fewer differences mean a more recent common ancestor, so B is closest to A." loading="lazy">
+  <figcaption>Fewer base differences suggest a more recent common ancestor.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

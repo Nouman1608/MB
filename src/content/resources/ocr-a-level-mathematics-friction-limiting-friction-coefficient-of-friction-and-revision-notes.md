@@ -81,11 +81,6 @@ Contact is lost when R = 0.
   <figcaption>A pull at an angle lowers R and so the friction limit; a push at an angle raises it.</figcaption>
 </figure>
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-level-maths-9709-mechanics--07-amth-forces-slope.webp" width="900" height="920" alt="A 4 kg block on a 30 degree rough slope with μ = 0.25. Weight 39.2 N splits into mg sin 30 = 19.6 N down the slope and mg cos 30 = 33.9 N into it, so R = 33.9 N and F = 8.49 N up the slope. 19.6 − 8.49 = 4a gives a = 2.78 m per second squared down the slope." loading="lazy">
-  <figcaption>Resolve the weight along and across the slope: R = mg cos θ and the net force down the slope is mg sin θ − μR.</figcaption>
-</figure>
-
 
 ## Worked reminders
 
@@ -165,6 +160,12 @@ Stage 2: deceleration = 0.2 × 9.8 = 1.96 m s⁻²
 8. Deceleration = 0.5 × 9.8 = 4.9, s = 100 ÷ 9.8 = **10.2 m**.
 9. R = 3 × 9.8 − 20 sin 40° = 29.4 − 12.86 = **16.5 N**.
 10. R = 49 − 12.5 = 36.5 N, maximum F = 10.95 N. The horizontal pull is 25 cos 30° = 21.65 N, which is greater, so **it moves**.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-maths-9709-mechanics--07-amth-forces-slope.webp" width="900" height="920" alt="A 4 kg block on a 30 degree rough slope with μ = 0.25. Weight 39.2 N splits into mg sin 30 = 19.6 N down the slope and mg cos 30 = 33.9 N into it, so R = 33.9 N and F = 8.49 N up the slope. 19.6 − 8.49 = 4a gives a = 2.78 m per second squared down the slope." loading="lazy">
+  <figcaption>Resolve the weight along and across the slope: R = mg cos θ and the net force down the slope is mg sin θ − μR.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

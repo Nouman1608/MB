@@ -74,12 +74,6 @@ Amounts are in dollars ($).
 | Mark-up | Profit as a percentage of cost |
 | Margin | Profit as a percentage of selling price |
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-accounting-valuation-of-inventory--01-inv-nrv-per-unit.webp" width="900" height="1045" alt="Three Beresford Cycles items, per unit in dollars. Each bar is the selling price split into NRV and costs still to pay, with a marker for cost. Helmets: NRV 31 is above cost 22, so use cost. Child bike K: 150 less 35 gives NRV 115, below cost 140, so use NRV. Frames: 340 less 45 gives 295, below cost 310, so use NRV." loading="lazy">
-  <figcaption>NRV is selling price less costs still to pay, and the lower of cost and NRV is used.</figcaption>
-</figure>
-
-
 ## Method: valuing inventory
 
 1. List each item (or group of identical items) with its units.
@@ -114,12 +108,6 @@ Lower          32 (NRV, not 34)
 Value          60 × 32              = 1,920
 Write-down     60 × (34 − 32)       =   120
 ```
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-level-edexcel-accounting-principles-and-double-entry-bookkeeping--05-stock-lower-of-cost-nrv.webp" width="900" height="1110" alt="Three stock lines each show cost and NRV bars with a tick on the lower. Desk lamps use cost (2,160 against 3,360); floor lamps use NRV (1,360 against 1,800); lampshades use NRV (900 against 1,200). Item by item gives 4,420; comparing totals would keep 5,160 and hide a 740 loss." loading="lazy">
-  <figcaption>Stock is valued at the lower of cost and NRV for each item, not on the totals.</figcaption>
-</figure>
-
 
 ## Method: adjusting a count taken on another date
 
@@ -190,6 +178,12 @@ is also 800 too high, that year's gross profit is 800 too low.
 **Corrected profit.** Corrected profit = draft profit ± the change in closing
 inventory (an increase in closing inventory increases profit).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-accounting-valuation-of-inventory--01-inv-error-two-years.webp" width="900" height="990" alt="Closing inventory of 15,000 was recorded instead of 18,000 in Year 1 and becomes Year 2 opening inventory. Year 1 profit is recorded as 17,000 against a correct 20,000 (understated by 3,000); Year 2 is recorded as 25,000 against a correct 22,000 (overstated by 3,000). Two-year profit is 42,000 and Year 2 equity is 77,000 either way." loading="lazy">
+  <figcaption>A closing inventory error moves profit between two years and then cancels.</figcaption>
+</figure>
+
+
 ## Must-know distinctions
 
 - **Cost versus NRV:** the lower is used, item by item, not in total.
@@ -200,12 +194,6 @@ inventory (an increase in closing inventory increases profit).
   the following year's opening inventory.
 - **Profit versus equity:** both are wrong at the end of the first year, but
   at the end of the second year only the profits are wrong, not equity.
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-accounting-valuation-of-inventory--01-inv-error-two-years.webp" width="900" height="990" alt="Closing inventory of 15,000 was recorded instead of 18,000 in Year 1 and becomes Year 2 opening inventory. Year 1 profit is recorded as 17,000 against a correct 20,000 (understated by 3,000); Year 2 is recorded as 25,000 against a correct 22,000 (overstated by 3,000). Two-year profit is 42,000 and Year 2 equity is 77,000 either way." loading="lazy">
-  <figcaption>A closing inventory error moves profit between two years and then cancels.</figcaption>
-</figure>
-
 
 ## Quick self-test
 
@@ -245,6 +233,17 @@ inventory (an increase in closing inventory increases profit).
    are recorded at historic cost, not at an expected price. Valuing at cost
    or NRV avoids overstating profit.
 10. **No effect**: the first year's error is reversed in the second year.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-accounting-valuation-of-inventory--01-inv-nrv-per-unit.webp" width="900" height="1045" alt="Three Beresford Cycles items, per unit in dollars. Each bar is the selling price split into NRV and costs still to pay, with a marker for cost. Helmets: NRV 31 is above cost 22, so use cost. Child bike K: 150 less 35 gives NRV 115, below cost 140, so use NRV. Frames: 340 less 45 gives 295, below cost 310, so use NRV." loading="lazy">
+  <figcaption>NRV is selling price less costs still to pay, and the lower of cost and NRV is used.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-edexcel-accounting-principles-and-double-entry-bookkeeping--05-stock-lower-of-cost-nrv.webp" width="900" height="1110" alt="Three stock lines each show cost and NRV bars with a tick on the lower. Desk lamps use cost (2,160 against 3,360); floor lamps use NRV (1,360 against 1,800); lampshades use NRV (900 against 1,200). Item by item gives 4,420; comparing totals would keep 5,160 and hide a 740 loss." loading="lazy">
+  <figcaption>Stock is valued at the lower of cost and NRV for each item, not on the totals.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

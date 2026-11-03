@@ -109,6 +109,21 @@ distinct areas:
   <figcaption>A minimum wage or union deal above equilibrium raises pay for those employed but can reduce jobs.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-economics-workers-occupations-wages-earnings-differences-and--07-eco52-tailors-min-wage.webp" width="900" height="1010" alt="Labour market diagram for tailors: equilibrium wage 10 with 600 tailors. A minimum wage of 12 gives demand 480 and supply 780, so 300 lack jobs and 120 jobs are lost (20%)." loading="lazy">
+  <figcaption>A minimum wage above equilibrium raises pay for those employed but reduces employment.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-economics-workers-occupations-wages-earnings-differences-and--08-eco52-crowding.webp" width="900" height="1030" alt="Supply shifts right from S0 to S1 along a downward demand curve; the wage falls from W0 to W1 and employment rises from Q0 to Q1. Bars show men at 14.0 and women at 11.9 an hour, a 15.0% gap." loading="lazy">
+  <figcaption>Crowding into fewer occupations raises supply and lowers pay there.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-economics-workers-occupations-wages-earnings-differences-and--09-eco52-training-payback.webp" width="900" height="910" alt="A bar shows training costs 33,000 (27,000 earnings given up plus 6,000 fees). A line of net gain rises 6,000 a year from -33,000 and reaches zero at 5.5 years." loading="lazy">
+  <figcaption>Higher skilled pay compensates for the cost and delay of training.</figcaption>
+</figure>
+
 
 ## 3.4 Trade unions
 
@@ -125,6 +140,11 @@ from one viewpoint and a cost from another.
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/o-level-economics-microeconomic-decision-makers--04-union-pay-claim-viewpoints.webp" width="900" height="1020" alt="Illustrative example: a union wins a 5% pay claim for 100 workers paid 400 a week. Workers gain 20 each (benefit); the firm weekly wage bill rises from 40,000 to 42,000 (cost); government income tax at an assumed 20% rises from 8,000 to 8,400 (benefit)." loading="lazy">
   <figcaption>The same pay claim can be a benefit or a cost depending on the viewpoint.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-economics-trade-unions-factor-demand-labour-and-capital--04-eco52-unions.webp" width="900" height="930" alt="A lone worker has little power while a group can bargain for all. Three boxes show the union roles: bargain over pay, hours and conditions; protect jobs; lobby government. Five chips list what makes a union stronger." loading="lazy">
+  <figcaption>A union gains power by acting together, and some conditions make it stronger.</figcaption>
 </figure>
 
 
@@ -163,6 +183,51 @@ This sub-topic covers how firms are classified and how they grow:
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/o-level-economics-microeconomic-decision-makers--08-factor-demand-drivers.webp" width="900" height="900" alt="Four boxes (demand for the firm's product, price of different factors, availability of factors, productivity of factors) all feed one box: the firm's demand for factors of production." loading="lazy">
   <figcaption>Demand for the product, factor prices, availability and productivity together drive a firm's demand for factors.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-economics-firms-classification-small-firms-growth-mergers-and--06-merger-types.webp" width="900" height="1040" alt="Horizontal: two bus firms in the same industry and stage join. Vertical: along a chain of timber yard, furniture maker and showrooms, backward towards suppliers or forward towards sellers. Conglomerate: a shipping group and a hotel group in different industries join." loading="lazy">
+  <figcaption>Horizontal firms are at the same stage; vertical firms are at different stages; conglomerate firms are in different industries.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-economics-firms-classification-small-firms-growth-mergers-and--07-share-vs-sales-growth.webp" width="900" height="820" alt="A firm sells 2.40 million of a 20 million market (12 percent), then 2.64 million of a 24 million market (11 percent). Sales grew 10 percent, the market 20 percent, so share fell one point." loading="lazy">
+  <figcaption>Grow faster than the market to gain share.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-economics-firms-classification-small-firms-growth-mergers-and--09-average-cost-table.webp" width="900" height="800" alt="Average cost from the lesson table: 6.00, 5.00, 4.50, 4.40, 4.70 and 5.30 at 10,000 to 60,000 units. It falls 26.7 percent to 40,000 units (economies) and at 60,000 is 20.5 percent above the minimum (diseconomies)." loading="lazy">
+  <figcaption>Average cost falls to 4.40 at 40,000 units and then rises.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-economics-firms-classification-small-firms-growth-mergers-and--10-small-firm-break-even.webp" width="900" height="920" alt="Revenue (25 per repair) and total cost (1,800 plus 9 per repair) cross at 112.5 repairs, so 113 are needed. Profit is 600 at 150 repairs and only 8 at 113 repairs." loading="lazy">
+  <figcaption>The stall needs 113 repairs a month just to break even.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-economics-microeconomic-decision-makers--06-production-and-productivity.webp" width="900" height="1230" alt="Four workers make 40 units (10 each). Eight workers make 80 units: production doubles but productivity stays at 10. Eight workers using better methods make 120 units: productivity rises to 15 per worker." loading="lazy">
+  <figcaption>Hiring more workers raises production, but productivity only rises if output per worker rises.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-economics-trade-unions-factor-demand-labour-and-capital--05-eco52-labour-capital.webp" width="900" height="890" alt="Line graph of weekly cost against weekly wage for 500 units. Labour-intensive cost is 12w+400, capital-intensive is 3w+2,200. They cross at wage 200 (cost 2,800); labour is cheaper below, capital above." loading="lazy">
+  <figcaption>Lower wages favour labour-intensive methods; higher wages favour capital-intensive ones.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-economics-microeconomic-decision-makers--05-costs-per-unit.webp" width="900" height="1280" alt="AFC falls as output rises, AVC is U-shaped and ATC is their sum, also U-shaped. At 30 units ATC 9 equals AVC 5 plus AFC 4. A table with fixed cost 120 shows total cost and ATC for outputs 10 to 40. Revenue is price times quantity." loading="lazy">
+  <figcaption>Average total cost is total cost divided by output, and is the sum of average fixed and variable cost.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-economics-costs-revenue-and-objectives-of-firms--08-bakery-total-costs.webp" width="900" height="810" alt="FC is a flat line at 480. VC starts at the origin and rises to 2,450 at 800 loaves. TC starts at 480 and is exactly 480 above VC at every output, for example 1,360 = 480 + 880 at 400 loaves." loading="lazy">
+  <figcaption>TC starts at the level of FC and stays 480 above VC.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-economics-costs-revenue-and-objectives-of-firms--09-bakery-average-costs.webp" width="900" height="840" alt="AFC falls from 4.80 to 0.60. AVC is U-shaped with a lowest 2.20 at 400 loaves. ATC is above AVC, U-shaped, with a lowest 3.26 at 500 loaves. The gap between ATC and AVC is AFC. From 400 to 500 loaves AFC falls 0.24 and AVC rises 0.10." loading="lazy">
+  <figcaption>ATC = AFC + AVC, and ATC is lowest at a larger output than AVC.</figcaption>
 </figure>
 
 

@@ -90,6 +90,11 @@ Check: 125⁶ = 5¹⁸ and 25⁹ = 5¹⁸. This only works when both sides can b
   <figcaption>Taking logs solves aˣ = b, and a negative log reverses an inequality.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-maths-9709-pure-mathematics-2-logarithms-and-exponentials--06-hidden-quadratic.webp" width="900" height="1080" alt="The parabola u^2 - 5u + 6 crosses the u-axis at 2 and 3; u &lt; 0 is shaded as impossible since e^x &gt; 0. The curve y = e^(2x) - 5e^x + 6 crosses the x-axis at x = ln 2 and ln 3." loading="lazy">
+  <figcaption>Substituting u = eˣ turns e²ˣ − 5eˣ + 6 = 0 into a quadratic with roots ln 2 and ln 3.</figcaption>
+</figure>
+
 
 ## 2. Logarithms and the equivalence with indices
 
@@ -253,6 +258,12 @@ n > log 0.2 / log 0.9 = 15.28
 ```
 
 The smallest whole number is **n = 16**. Check: 0.9¹⁵ = 0.206 (not below 0.2) and 0.9¹⁶ = 0.185 (below 0.2).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-maths-9709-pure-mathematics-2-logarithms-and-exponentials--09-decay-half-life.webp" width="900" height="1020" alt="C = 15e^(-0.2t) falls from 15 mg/L. It halves to 7.5 after 3.47 hours and to 3.75 after another 3.47 hours, so the half-life is constant (ln 2 divided by k). It reaches 2 mg/L at t = 10.1 hours." loading="lazy">
+  <figcaption>Exponential decay has a constant half-life of ln 2 ÷ k.</figcaption>
+</figure>
+
 
 ## Common errors
 

@@ -196,12 +196,6 @@ Outcome: falling asset prices, losses, loss of trust between banks, frozen lendi
 
 Neither regulates individual banks. National authorities do that. Evaluation points: size of resources, whether governments follow advice, speed of response, and side effects of conditions such as spending cuts.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ocr-a-level-economics-central-banks-and-financial-regulation--09-imf-conditionality-multiplier.webp" width="900" height="760" alt="Country P must cut its deficit from 6 percent to 3 percent of a GDP of CU 100 billion, a CU 3 billion spending cut. With a multiplier of 1.2, GDP falls by 3 times 1.2, which is CU 3.6 billion, or 3.6 percent. Conditionality like this can deepen a downturn." loading="lazy">
-  <figcaption>A CU 3bn spending cut with a multiplier of 1.2 reduces GDP by CU 3.6bn, or 3.6%.</figcaption>
-</figure>
-
-
 ## Quick self-test
 
 1. Name three functions of a central bank.
@@ -231,6 +225,12 @@ Neither regulates individual banks. National authorities do that. Evaluation poi
 10. **The national authority.**
 11. Capital ratio uses risk-weighted assets as the denominator. Leverage ratio uses total assets.
 12. Withdrawals 300 × 0.15 = CU 45m. Shortfall 45 − 36 = **CU 9m**.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-central-banks-and-financial-regulation--09-imf-conditionality-multiplier.webp" width="900" height="760" alt="Country P must cut its deficit from 6 percent to 3 percent of a GDP of CU 100 billion, a CU 3 billion spending cut. With a multiplier of 1.2, GDP falls by 3 times 1.2, which is CU 3.6 billion, or 3.6 percent. Conditionality like this can deepen a downturn." loading="lazy">
+  <figcaption>A CU 3bn spending cut with a multiplier of 1.2 reduces GDP by CU 3.6bn, or 3.6%.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 

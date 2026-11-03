@@ -42,6 +42,11 @@ These notes condense sections 2.9 and 2.10 of the Cambridge IGCSE Economics 0455
 **Evaluation lines.** Markets suit goods that people can be charged for and can judge for themselves. They suit goods with large external effects much less. The answer also depends on how competitive the market is and how incomes are shared.
 
 <figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-economics-the-market-economic-system-and-market-failure--11-monopoly-price-and-output.webp" width="900" height="1145" alt="Rectangles to the same scale: competition price 5, 10,000 sold, profit 10,000; monopoly price 7.50, 7,000 sold, profit 24,500." loading="lazy">
+  <figcaption>The monopolist raises price 50% and cuts quantity 30%.</figcaption>
+</figure>
+
+<figure class="topic-figure">
   <img src="https://img.marlbridge.com/cambridge-igcse-economics-the-market-economic-system-and-market-failure--05-price-signal-profit.webp" width="900" height="740" alt="Rectangles of profit per unit by units sold: 2 by 1,000 equals 2,000, then 8 by 1,200 equals 9,600." loading="lazy">
   <figcaption>Profit per unit and units sold both rise, lifting total profit from 2,000 to 9,600.</figcaption>
 </figure>
@@ -106,6 +111,11 @@ These notes condense sections 2.9 and 2.10 of the Cambridge IGCSE Economics 0455
   <figcaption>Public goods are non-excludable, so free riders stop private firms supplying them.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-allocation-of-resources--06-external-costs-and-benefits.webp" width="900" height="1160" alt="A factory has private cost 10 and its smoke harms neighbours with an external cost of 4, so social cost is 14. A vaccination has private benefit 6 and external benefit 3, so social benefit is 9. The market ignores the external parts." loading="lazy">
+  <figcaption>Social cost or benefit equals private plus external.</figcaption>
+</figure>
+
 
 ## Method in steps
 
@@ -154,6 +164,11 @@ Say what the consequences are in real terms: pollution, ill health, lower skills
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/cambridge-igcse-economics-the-market-economic-system-and-market-failure--08-over-consumption-units.webp" width="900" height="700" alt="Two bars: 5,000 socially best and 8,000 bought, with an excess of 3,000." loading="lazy">
   <figcaption>Buying 8,000 against a best 5,000 is 3,000 too many, 60% above the efficient level.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-allocation-of-resources--05-merit-and-demerit-goods.webp" width="900" height="1010" alt="For healthcare, a merit good, the market delivers 60 against a best amount of 100, so there is too little. For cigarettes, a demerit good, it delivers 100 against 40, so there is too much." loading="lazy">
+  <figcaption>Merit goods are under-consumed and demerit goods over-consumed.</figcaption>
 </figure>
 
 

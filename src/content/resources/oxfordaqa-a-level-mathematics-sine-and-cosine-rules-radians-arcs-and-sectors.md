@@ -179,6 +179,12 @@ c² = 5.7² + 8.6² − 2 × 5.7 × 8.6 × cos 47° = 39.58...
 c = 6.29 cm (3 s.f.)
 ```
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-maths-9709-pure-mathematics-1-circular-measure--09-inverse-trig-graphs.webp" width="900" height="1218" alt="y = sin x restricted to −π/2 ≤ x ≤ π/2 reflects in y = x to give y = arcsin x, with domain −1 to 1 and range −π/2 to π/2. y = arccos x has range 0 to π; y = arctan x has range strictly between −π/2 and π/2 with horizontal asymptotes." loading="lazy">
+  <figcaption>Restrict the domain so the function is one-to-one, then reflect in y = x to get the inverse.</figcaption>
+</figure>
+
+
 ### Worked example 6: working backwards from the area
 
 A triangle has sides 7 cm and 12 cm and area 35 cm². Find the possible sizes of the included angle.

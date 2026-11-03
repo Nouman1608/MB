@@ -55,6 +55,11 @@ State the unit every time. A value with no unit and no time period loses its mea
   <figcaption>Energy lost to respiration leaves as heat; only NPP and N are stored for the next trophic level.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-biology-energy-transfer-and-productivity-in-ecosystems--03-biomass-calorimetry.webp" width="900" height="1180" alt="A fresh 250 g sample is dried until its mass is constant at 62 g, so 188 g (75.2%) was water. A 0.50 g dried portion burned under 50.0 g of water raises the water 20.0 to 54.0 degrees C, giving 7 106 J and 14.2 kJ per gram, an underestimate because heat escapes." loading="lazy">
+  <figcaption>Dry to constant mass, then burn a portion under water to find energy per gram.</figcaption>
+</figure>
+
 
 ## 5.10 Efficiency of transfers between trophic levels
 
@@ -84,6 +89,11 @@ Always say which quantity is the denominator. The two answers in steps 2 and 3 a
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/aqa-a-level-biology-energy-transfer-and-productivity-in-ecosystems--02-trophic-efficiency.webp" width="900" height="1000" alt="Kelp stores 12 000 kJ m-2 year-1, sea urchins 1 500 and sea otters 180. Dashed outlines show energy available from the level below. Efficiency is 12.5% then 12.0%, and the overall 1.5% is the product, not the sum." loading="lazy">
   <figcaption>Divide by the level below, and multiply step efficiencies for a chain.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-biology-energy-transfer-and-productivity-in-ecosystems--04-farming-efficiency.webp" width="900" height="1090" alt="Indoor animals with restricted movement turn 13.5% of intake into net production; free-range animals turn 7.95%, because respiration takes more of the intake. Removing weeds and pests leaves more NPP in the crop, but there are welfare, habitat and pollution costs." loading="lazy">
+  <figcaption>Less respiration and fewer competitors mean more energy ends up in human food, at a cost.</figcaption>
 </figure>
 
 <figure class="topic-figure">
@@ -157,6 +167,12 @@ More quadrats make the estimate more reliable. A null hypothesis could be: there
 Describe: as light decreases from 11 800 to 650 lux, grass cover falls from 64% to 2%. The relationship is a positive correlation. Explain: less light reduces photosynthesis and NPP of the grass, so it grows less. Evaluate: the data show a correlation. They do not prove that light is the cause, because soil moisture, leaf litter and competition from trees also change with distance. A correlation coefficient can be used to test the strength of such a relationship, and five pairs of points is a small sample.
 
 Risk and ethics: handle plants and animals gently, return stones and logs to their place, keep to paths, wash your hands after contact with soil and water, and avoid damaging the habitat you are studying.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-biology-energy-transfer-and-productivity-in-ecosystems--08-population-growth.webp" width="900" height="900" alt="Counts of a mammal population on a predator-free island rise from 20 to about 200 in an S-shaped curve. The greatest yearly increase (+45) is between years 3 and 4; growth then slows and levels off at the carrying capacity. Population change equals births plus immigration minus deaths plus emigration." loading="lazy">
+  <figcaption>Limiting factors make growth level off at the carrying capacity.</figcaption>
+</figure>
+
 
 ## 5.15 Succession
 

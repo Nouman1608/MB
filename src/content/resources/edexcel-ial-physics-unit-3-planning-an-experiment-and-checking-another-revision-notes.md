@@ -133,6 +133,11 @@ Ways to reduce uncertainty:
 - Use a graph gradient instead of a single calculated value.
 
 <figure class="topic-figure">
+  <img src="https://img.marlbridge.com/measurement-mass-weight-and-density--03-pendulum-period.webp" width="900" height="1010" alt="A pendulum swings from A to B and back, one oscillation. Bars compare timing one oscillation (0.92 s) with 20 oscillations (18.4 s) against the same 0.2 s reaction-time error, which is 22% of one period but 1.1% of the long time. Period = 18.4 / 20 = 0.92 s." loading="lazy">
+  <figcaption>Timing many oscillations and dividing shrinks the effect of reaction-time error.</figcaption>
+</figure>
+
+<figure class="topic-figure">
   <img src="https://img.marlbridge.com/a-level-oxfordaqa-physics-measurements-and-their-errors--05-repeat-readings.webp" width="900" height="880" alt="Five timings 1.52, 1.58, 1.55, 1.49 and 1.56 s on a number line with mean 1.54 s. Range 0.09 s, half range 0.045 s, 2.9 percent; result 1.54 +/- 0.05 s." loading="lazy">
   <figcaption>Half the range is a common estimate of the uncertainty in a mean.</figcaption>
 </figure>
@@ -174,6 +179,12 @@ Typical improvements to quote:
 
 Data: load 1.0, 2.0, 3.0, 4.0, 5.0 N; extension 11, 22, 33, 54, 55 mm. The first three points give 11 mm per newton, so at 4.0 N the line predicts 44 mm. The recorded 54 mm is 10 mm too high. Check the reading for a slipped digit, re-measure and repeat.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-physics-unit-3-planning-an-experiment-and-checking-another--04-number-range-of-readings.webp" width="900" height="1070" alt="Two R against l graphs with the same scatter. With three points in a narrow range, lines of gradient about 3 and 11 ohm per metre both fit and they cut the R axis on opposite sides of the origin. With seven well-spaced points the possible gradients are only about 6.7 to 8.0." loading="lazy">
+  <figcaption>Few readings over a narrow range leave the gradient and intercept uncertain.</figcaption>
+</figure>
+
+
 ## Must-know distinctions
 
 | Pair | Difference |
@@ -211,6 +222,22 @@ Data: load 1.0, 2.0, 3.0, 4.0, 5.0 N; extension 11, 22, 33, 54, 55 mm. The first
 9. The last value has too many decimal places: 6.25 cm cannot be read with a mm ruler, so quote 6.2 or 6.3 cm.
 10. It uses all the readings, averages out random scatter and shows anomalies.
 11. Check the reading and calculation, then repeat the measurement.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-physics-unit-3-planning-an-experiment-and-checking-another--02-resistivity-apparatus.webp" width="900" height="570" alt="A wire is taped to a metre rule with a fixed clip at 0 and a movable clip. Supply, switch and ammeter are in series with the wire; the voltmeter is across the two clips. Length l is varied from 200 to 800 mm and d is measured with a micrometer at three places." loading="lazy">
+  <figcaption>Series ammeter, parallel voltmeter, and a movable clip set the length l.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-physics-unit-3-planning-an-experiment-and-checking-another--03-resistivity-graph-rho.webp" width="900" height="920" alt="R against l for seven readings from 0.2 to 0.8 m lies on a straight line through the origin. A large triangle gives a gradient of 4.44 / 0.60 = 7.4 ohm per metre, equal to rho/A. With A = 6.6e-8 m2, rho = 4.9e-7 ohm metre." loading="lazy">
+  <figcaption>The gradient of R against l is rho/A, so rho = gradient x A.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-oxfordaqa-physics-measurements-and-their-errors--04-precision-accuracy.webp" width="900" height="1160" alt="Four targets with six shots each: tight and centred (precise and accurate); tight but off-centre (systematic error); spread with mean on the bullseye (random error); spread and off-centre (both)." loading="lazy">
+  <figcaption>Systematic error shifts all readings; random error scatters them.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

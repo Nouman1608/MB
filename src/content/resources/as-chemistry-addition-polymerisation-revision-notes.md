@@ -120,12 +120,6 @@ The C–C backbone is **unreactive and non-polar**, with no bonds that enzymes o
 
 **Burning a plain poly(alkene)** like poly(ethene) produces the same products as burning any hydrocarbon (CO₂, CO and soot depending on how complete the combustion is). **Burning PVC is the specific hazard** worth naming — the chlorine produces hydrogen chloride, which is corrosive and toxic, so incinerators handling PVC require scrubbers. Incomplete or poorly controlled combustion of chlorinated plastics can also produce other harmful chlorinated by-products beyond HCl itself, which is why proper flue-gas treatment matters.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/as-chemistry-addition-polymerisation-revision-notes--03-polymer-disposal-routes.webp" width="900" height="1120" alt="Four tiles: landfill (cheap, but takes space and lasts centuries), incineration (releases energy, but makes CO2 and HCl from PVC), recycling (saves crude oil, but sorting is costly and quality drops), feedstock recycling (recovers monomers, but energy-intensive)." loading="lazy">
-  <figcaption>Each disposal route has an advantage and a drawback.</figcaption>
-</figure>
-
-
 ## Exam traps
 
 - Leaving the C=C in the repeat unit.
@@ -146,3 +140,9 @@ The C–C backbone is **unreactive and non-polar**, with no bonds that enzymes o
 7. A polymer section is drawn as ...–CH₂–CCl₂–CH₂–CCl₂–... Deduce the monomer.
 
 **Answers:** 1. All the atoms of the monomers end up in the polymer — there is only one product and nothing is eliminated. 2. Open the double bond to a single bond, draw the two backbone carbons, extend a bond from each end through the brackets, and write n outside. 3. Branches prevent the chains from packing closely, so there is less contact area and weaker total induced-dipole attraction between chains. 4. The C–Cl dipoles create permanent dipole–dipole attractions between chains; plasticisers force the chains apart and weaken these attractions. 5. The carbon–carbon backbone is unreactive and non-polar, with no bonds that enzymes or water can attack. 6. –[CH₂–CH(CH₃)]ₙ–, opening the double bond into two single bonds and keeping the CH₃ side-group in place. 7. CH₂=CCl₂ (1,1-dichloroethene), closing the two dangling bonds of the repeating unit –[CH₂–CCl₂]– back into a double bond.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/as-chemistry-addition-polymerisation-revision-notes--03-polymer-disposal-routes.webp" width="900" height="1120" alt="Four tiles: landfill (cheap, but takes space and lasts centuries), incineration (releases energy, but makes CO2 and HCl from PVC), recycling (saves crude oil, but sorting is costly and quality drops), feedstock recycling (recovers monomers, but energy-intensive)." loading="lazy">
+  <figcaption>Each disposal route has an advantage and a drawback.</figcaption>
+</figure>
+

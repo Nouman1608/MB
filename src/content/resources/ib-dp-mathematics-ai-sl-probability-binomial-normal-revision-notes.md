@@ -116,6 +116,12 @@ Binomial and normal probabilities, and inverse normal values, are found on your 
 4. Value: inverse normal(area to the LEFT, μ, σ).
 ```
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-ai-sl-probability-binomial-normal--01-imath-ai-sl-prob-venn-given.webp" width="900" height="1110" alt="A Venn diagram of 60 students with 22 studying only Biology, 12 studying both, 13 studying only Chemistry and 13 studying neither; the union of Biology and Chemistry contains 22 + 12 + 13 = 47 students, so P(B or C) = 47/60 which is about 0.783. A second copy of the diagram greys out everything outside Biology: given B, the sample space is the 34 students in Biology, of whom 12 also study Chemistry, so P(C given B) = 12/34 = 6/17 which is about 0.353. Circle areas and the overlap are drawn in proportion to the counts." loading="lazy">
+  <figcaption>P(B ∪ C) = 47/60 and P(C | B) = 12/34 read straight from the counts.</figcaption>
+</figure>
+
+
 ## Worked reminders
 
 **Tree diagram, reversed condition.** It rains on 30% of days. When it rains, a bus is late with probability 0.4; when it is dry, with probability 0.1.
@@ -154,6 +160,12 @@ E(X) = 0.8 + 0.6 − 1.4 = 0, so the game is fair
 
 **Normal then binomial.** If P(one item is faulty) comes from a normal model, the number of faulty items in a batch of n is B(n, p). Keep p unrounded on your GDC between the two steps.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-ai-sl-probability-binomial-normal--04-imath-ai-sl-prob-fair-game.webp" width="900" height="1060" alt="Two bar charts of the player gain X for a die game where a 6 pays 12 euros, a 4 or 5 pays 3 euros and other numbers pay nothing. With entry fee 3 euros the gains are −3, 0 and 9 with probabilities 3/6, 2/6 and 1/6, and the balance point E(X) is 0, so the game is fair. With entry fee 4 euros the gains are −4, −1 and 8 with the same probabilities and the balance point E(X) is −1, so the player loses 1 euro per game on average." loading="lazy">
+  <figcaption>A game is fair when E(X) = 0; at an entry of 4 euros the player loses 1 euro per game on average.</figcaption>
+</figure>
+
+
 ## Which model?
 
 | Situation | Model | Key check |
@@ -166,11 +178,6 @@ E(X) = 0.8 + 0.6 − 1.4 = 0, so the game is fair
 | Measurement clustered round a mean | N(μ, σ²) | Continuous, roughly symmetrical |
 
 A count of successes when items are drawn **without replacement** from a small group is not binomial, because p changes after each draw. Use a tree diagram instead.
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ib-dp-mathematics-ai-sl-probability-binomial-normal--02-imath-ai-sl-prob-independence.webp" width="900" height="1050" alt="Two horizontal bars compare P(B) times P(C), which is 34/60 times 25/60 = 0.236, with P(B and C) = 12/60 = 0.200. They are not equal, so Biology and Chemistry are not independent. Below, two events A and B drawn as non-overlapping circles have P(A and B) = 0, but with illustrative probabilities 0.3 and 0.4 the product P(A)P(B) = 0.12 is not 0, so mutually exclusive events with non-zero probabilities are never independent." loading="lazy">
-  <figcaption>Independence means P(A)P(B) = P(A ∩ B); mutually exclusive events with non-zero probabilities are never independent.</figcaption>
-</figure>
 
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/ib-dp-mathematics-ai-sl-probability-binomial-normal--03-imath-ai-sl-prob-tree.webp" width="900" height="1040" alt="A tree diagram for taking two pens without replacement from 12 pens of which 3 are faulty. First branches are 3/12 faulty and 9/12 not. After a faulty pen the second branches are 2/11 and 9/11; after a non-faulty pen they are 3/11 and 8/11. The four outcome probabilities are FF = 1/22, F then not F = 9/44, not F then F = 9/44 and not F not F = 6/11. Three strips show which outcomes make up each event: exactly one faulty is 9/22, at least one faulty is 5/11 and the second pen being faulty is 1/4." loading="lazy">
@@ -251,6 +258,17 @@ Menu names differ between calculator models, so practise on your own GDC.
 10. **0.200** (binomial pdf)
 11. 50 and 70 are μ ± 2σ, so about **95%**
 12. **0.1** (read straight from the branch)
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-ai-sl-probability-binomial-normal--02-imath-ai-sl-prob-independence.webp" width="900" height="1050" alt="Two horizontal bars compare P(B) times P(C), which is 34/60 times 25/60 = 0.236, with P(B and C) = 12/60 = 0.200. They are not equal, so Biology and Chemistry are not independent. Below, two events A and B drawn as non-overlapping circles have P(A and B) = 0, but with illustrative probabilities 0.3 and 0.4 the product P(A)P(B) = 0.12 is not 0, so mutually exclusive events with non-zero probabilities are never independent." loading="lazy">
+  <figcaption>Independence means P(A)P(B) = P(A ∩ B); mutually exclusive events with non-zero probabilities are never independent.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-ai-sl-probability-binomial-normal--07-imath-ai-sl-prob-normal-area.webp" width="900" height="1060" alt="Three copies of the normal curve for apple masses with mean 150 g and standard deviation 12 g. The first shades the region from 138 g to 162 g, within one standard deviation of the mean, which holds about 68 percent of apples. The second shades the right tail above 165 g, P(X &gt; 165) = 0.106. The third shades the area between 140 g and 160 g, P(140 &lt; X &lt; 160) = 0.595." loading="lazy">
+  <figcaption>Normal probabilities are areas under the curve: about 68% within one σ, then tails and bands from normal cdf.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

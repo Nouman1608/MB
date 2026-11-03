@@ -107,6 +107,16 @@ The potometer measures **water uptake**, which is close to, but not exactly, the
   <figcaption>Higher temperature and wind speed raise the rate; higher humidity lowers it.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-diseases-and-immunity--05-vaccination-memory.webp" width="900" height="1130" alt="Extended. Three steps: weakened pathogens or antigens go in; lymphocytes make antibodies; memory cells give long-term immunity. A sketch graph of antibody level against time shows a slow, small first response and, on meeting the same pathogen again, a fast, large second response." loading="lazy">
+  <figcaption>Memory cells make the second response faster and larger.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-biology-5090-transport-in-flowering-plants--10-light-and-stomata.webp" width="900" height="780" alt="Two stoma sections: in the dark the stoma is almost shut and one arrow of vapour escapes; in bright light it is wide open and more vapour escapes." loading="lazy">
+  <figcaption>Stomata open wider in light, so transpiration is faster.</figcaption>
+</figure>
+
 
 ## 2.59–2.61 Blood and plasma
 
@@ -135,6 +145,11 @@ The potometer measures **water uptake**, which is close to, but not exactly, the
   <figcaption>Red cells, white cells, platelets and plasma each have a job in the blood.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-diseases-and-immunity--04-antigen.webp" width="900" height="1090" alt="Extended. A pathogen has antigens with specific shapes. An antibody with a complementary shape fits and binds them; an antigen of a different shape does not fit, so there is no binding. Binding leads to direct destruction of the pathogen, or to marking it for destruction by a phagocyte." loading="lazy">
+  <figcaption>An antibody binds only the antigen whose shape is complementary to it.</figcaption>
+</figure>
+
 
 ## 2.62–2.64B Defence
 
@@ -142,6 +157,12 @@ The potometer measures **water uptake**, which is close to, but not exactly, the
 - **Lymphocytes**: release **antibodies specific** to the antigens on one pathogen.
 - **Vaccination (Paper 2 only)**: dead/weakened pathogen or its antigens → lymphocytes make antibodies and **memory cells** → on later infection, antibodies made **sooner, faster, in greater quantity** → no illness.
 - **Clotting (Paper 2 only)**: platelets → soluble fibrinogen converted to insoluble **fibrin** → mesh traps red blood cells → clot → stops **blood loss** and **entry of micro-organisms**.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-transport-in-animals--07-clotting.webp" width="900" height="1130" alt="Extended. A damaged vessel lets blood escape and pathogens enter. Soluble fibrinogen in the plasma is converted into insoluble fibrin fibres. The fibrin mesh traps blood cells and forms a clot, stopping blood loss and keeping pathogens out." loading="lazy">
+  <figcaption>A fibrin mesh traps blood cells to seal a wound.</figcaption>
+</figure>
+
 
 ## 2.65–2.67 The heart
 
@@ -162,6 +183,26 @@ The potometer measures **water uptake**, which is close to, but not exactly, the
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/edexcel-igcse-biology-4bi1-transport--03-heart-rate-two-triggers.webp" width="900" height="960" alt="Bars show 68 bpm at rest (17 beats in 15 s times 4) and 124 bpm after exercise (31 times 4), a rise of 56 bpm or 82.4 percent. Below, exercise and adrenaline are shown as two triggers that make the heart beat faster and harder." loading="lazy">
   <figcaption>Heart rate from pulse counts using the lesson numbers, and the two triggers that raise it.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-transport-in-animals--02-heart-structure.webp" width="900" height="1180" alt="Schematic heart section viewed as if facing the person. Four chambers (atria above, ventricles below), septum between left and right, vena cava and pulmonary vein entering the atria, pulmonary artery and aorta leaving the ventricles, coronary artery over the outer wall. Extended labels: atrioventricular valves, semilunar valves, thicker left ventricle wall." loading="lazy">
+  <figcaption>Left side of the heart is on the right of the page; gold labels are Extended only.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-transport-in-animals--03-heart-pump.webp" width="900" height="1300" alt="Extended. Three simplified stages of one heartbeat. 1: atria contract and push blood through open AV valves into the ventricles. 2: ventricles contract, AV valves close, semilunar valves open and blood leaves in the arteries. 3: ventricles relax and semilunar valves close, stopping back-flow into the ventricles. Closing valves make the heart sounds." loading="lazy">
+  <figcaption>Valves open and close in turn so blood only moves one way.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-transport-in-animals--08-heart-rate-exercise.webp" width="900" height="1130" alt="Bar chart from the lesson worked example: mean resting rate 74 beats per minute, mean after exercise 118, an increase of 44 (59 per cent). Extended panel: active muscles respire faster, need more oxygen and glucose and produce more carbon dioxide, so the heart rate rises to supply and remove them faster." loading="lazy">
+  <figcaption>After exercise the mean heart rate rose from 74 to 118 beats per minute, a 59% increase.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-biology-5090-transport-in-humans--05-coronary-heart-disease.webp" width="900" height="1010" alt="A heart shows a coronary artery on its surface with a blockage; muscle beyond it gets too little oxygen and glucose. Cross-sections compare a healthy artery with one narrowed by a fatty deposit and a clot." loading="lazy">
+  <figcaption>A blocked coronary artery starves part of the heart muscle of oxygen and glucose.</figcaption>
 </figure>
 
 
@@ -187,6 +228,21 @@ The potometer measures **water uptake**, which is close to, but not exactly, the
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/edexcel-igcse-biology-4bi1-transport--04-organ-vessel-names.webp" width="900" height="1030" alt="Four rows show the vessels to and from the heart, lungs, liver and kidneys, with arrows for flow direction and colour for oxygen-rich, oxygen-poor and gut blood." loading="lazy">
   <figcaption>Name the vessel that carries blood to and from each organ.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-transport-in-animals--04-blood-vessels.webp" width="900" height="1230" alt="Cross-sections of an artery (thick muscular elastic wall, narrow lumen), a vein (thin wall, wide lumen) and a capillary (wall one cell thick, very narrow lumen), plus a side view of a vein valve. Extended notes link structure to pressure and function." loading="lazy">
+  <figcaption>Wall thickness and lumen size are matched to the job of each vessel.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-transport-in-animals--01-circulation.webp" width="900" height="1290" alt="Extended. Top: in a fish the heart pumps blood to the gills, then on to the body and back, so blood passes through the heart once per circuit and pressure drops in the gills. Bottom: in a mammal the right side pumps deoxygenated blood to the lungs, oxygenated blood returns to the left side, which pumps it at high pressure to the body; blood passes through the heart twice per circuit. Left side of the heart is drawn on the right." loading="lazy">
+  <figcaption>A fish heart is passed once per circuit; a mammal heart twice, with the two sides kept separate.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-transport-in-animals--05-capillary-exchange.webp" width="900" height="740" alt="A capillary with a wall one cell thick runs past body cells. Oxygen and glucose pass out of the blood to the cells; carbon dioxide and other wastes pass from the cells into the blood." loading="lazy">
+  <figcaption>Capillaries bring blood close to every cell so substances can be exchanged.</figcaption>
 </figure>
 
 

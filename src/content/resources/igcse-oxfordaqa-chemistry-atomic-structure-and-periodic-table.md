@@ -72,8 +72,8 @@ as unreactive elements with stable outer-shell electron arrangements —
 eight outer electrons for all noble gases except helium, which has two
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/atomic-structure--01-element-compound-mixture.webp" width="900" height="1020" alt="Three boxes of particles: an element has one type of atom; a compound has bonded atoms in a fixed 1:2 ratio, separable only chemically; a mixture has unbonded atoms in any ratio, separable physically." loading="lazy">
-  <figcaption>An element, a compound and a mixture compared at particle level.</figcaption>
+  <img src="https://img.marlbridge.com/atomic-structure--02-inside-an-atom.webp" width="900" height="980" alt="A carbon atom with a nucleus of 6 protons and 6 neutrons and electrons 2 and 4 in two shells. A table gives relative charge and mass: proton +1, 1; neutron 0, 1; electron -1, almost 0." loading="lazy">
+  <figcaption>The nucleus holds protons and neutrons; electrons occupy shells around it.</figcaption>
 </figure>
 
 
@@ -101,6 +101,32 @@ in order to achieve a stable, noble-gas-like arrangement of outer
 electrons, which is the underlying logic behind ionic and covalent
 bonding covered in Topic 2. Learning Topic 1's electron-arrangement
 content thoroughly makes Topic 2 considerably easier.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-chemistry-atomic-structure-and-periodic-table--03-group-0-full-outer-shells.webp" width="900" height="810" alt="Shell diagrams of helium (2), neon (2,8) and argon (2,8,8) under a Group 0 label. Each has a full outer shell, 2 electrons for helium and 8 for neon and argon, which is a stable arrangement; other atoms react to get one like it." loading="lazy">
+  <figcaption>Group 0 elements have full outer shells, which makes them unreactive.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/atomic-structure--04-shells-groups-periods.webp" width="900" height="965" alt="The first 20 elements drawn as shell diagrams in group columns and period rows, each labelled with symbol and configuration. Outer-shell electrons are gold and equal the group number; occupied shells equal the period number; Group VIII has full outer shells." loading="lazy">
+  <figcaption>Electronic configurations 1-20 and how to read group and period from them.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/periodic-table-groups-and-trends--01-arrangement.webp" width="900" height="770" alt="A cut-down Periodic Table (periods 2 and 3, groups I to VIII) with outer electrons, typical ion charge and the metal to non-metal change across a period." loading="lazy">
+  <figcaption>Elements are arranged in periods (rows) and groups (columns); group number fixes the outer electrons and ion charge.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/periodic-table-groups-and-trends--08-noble-gases.webp" width="900" height="960" alt="Electron shells of He (2), Ne (2,8) and Ar (2,8,8) each have a full outer shell, so they do not gain, lose or share electrons. Noble gas particles are single atoms, whereas chlorine exists as Cl2 molecules." loading="lazy">
+  <figcaption>Noble gases are unreactive and monatomic because their outer shell is full.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-chemistry-atomic-structure--08-atomic-model-timeline.webp" width="900" height="1140" alt="Dalton: solid sphere (early 1800s). Thomson: plum pudding after the electron was found. Rutherford: tiny dense nucleus from alpha scattering. Bohr: electrons in fixed shells, matching atomic spectra." loading="lazy">
+  <figcaption>Each atom model replaced the last when new evidence disagreed with it.</figcaption>
+</figure>
+
 
 ## Worked example: finding sub-atomic particles
 
@@ -145,12 +171,6 @@ even when the question only states the mass and atomic numbers.
 Miscounting electron shells by not filling the lowest available energy
 level first.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/atomic-structure--02-inside-an-atom.webp" width="900" height="980" alt="A carbon atom with a nucleus of 6 protons and 6 neutrons and electrons 2 and 4 in two shells. A table gives relative charge and mass: proton +1, 1; neutron 0, 1; electron -1, almost 0." loading="lazy">
-  <figcaption>The nucleus holds protons and neutrons; electrons occupy shells around it.</figcaption>
-</figure>
-
-
 ## Quick revision checklist
 
 - Practise the protons/neutrons/electrons calculation from atomic and
@@ -161,12 +181,6 @@ neutrons.
 group number to outer-shell electron count.
 - Explain why the noble gases are unreactive in terms of their electron
 arrangement, not just as a memorised fact.
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-oxfordaqa-chemistry-atomic-structure-and-periodic-table--03-group-0-full-outer-shells.webp" width="900" height="810" alt="Shell diagrams of helium (2), neon (2,8) and argon (2,8,8) under a Group 0 label. Each has a full outer shell, 2 electrons for helium and 8 for neon and argon, which is a stable arrangement; other atoms react to get one like it." loading="lazy">
-  <figcaption>Group 0 elements have full outer shells, which makes them unreactive.</figcaption>
-</figure>
-
 
 ## States of matter and diffusion
 
@@ -183,6 +197,11 @@ ammonia and hydrochloric acid gases meeting to form a visible white ring
 of ammonium chloride, are used as *evidence* that particles are in
 constant, random motion — be ready to explain what a specific diffusion
 result shows about particle behaviour, not just to describe the setup.
+
+## Related resources
+
+- [Atomic Structure and the Periodic Table revision notes](/resources/oxfordaqa-igcse-chemistry-atomic-structure-revision-notes/)
+- [Atomic Structure and the Periodic Table practice questions](/resources/oxfordaqa-igcse-chemistry-atomic-structure-practice/)
 
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/igcse-oxfordaqa-chemistry-atomic-structure-and-periodic-table--07-diffusion-bromine-kmno4.webp" width="900" height="990" alt="Bromine vapour spreads up through a gas jar of air, and a purple potassium manganate(VII) crystal spreads through water, because particles move randomly from crowded to spread out." loading="lazy">
@@ -210,12 +229,13 @@ result shows about particle behaviour, not just to describe the setup.
 </figure>
 
 
-## Related resources
-
-- [Atomic Structure and the Periodic Table revision notes](/resources/oxfordaqa-igcse-chemistry-atomic-structure-revision-notes/)
-- [Atomic Structure and the Periodic Table practice questions](/resources/oxfordaqa-igcse-chemistry-atomic-structure-practice/)
-
 ## Official syllabus
 
 OxfordAQA International GCSE Chemistry (9202) specification, Version 6.2
 — [oxfordaqa.com/9202](https://www.oxfordaqa.com/wp-content/uploads/2026/07/oxfordaqa-gcse-chemistry-specification.pdf).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/atomic-structure--01-element-compound-mixture.webp" width="900" height="1020" alt="Three boxes of particles: an element has one type of atom; a compound has bonded atoms in a fixed 1:2 ratio, separable only chemically; a mixture has unbonded atoms in any ratio, separable physically." loading="lazy">
+  <figcaption>An element, a compound and a mixture compared at particle level.</figcaption>
+</figure>
+

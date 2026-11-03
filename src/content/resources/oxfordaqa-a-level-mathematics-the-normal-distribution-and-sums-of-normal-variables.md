@@ -86,6 +86,11 @@ Check each interval by writing the end points as μ plus or minus a whole number
 </figure>
 
 <figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-mathematics-the-continuous-uniform-distribution-and-the-normal--08-amth-normal-uniform.webp" width="900" height="1040" alt="For T uniform on 4 to 10 s the density is a rectangle of height 1/6 and the strip 5 to 8 has area 0.5. The cumulative function rises linearly from 0 at 4 to 1 at 10, with F(5) = 1/6 and F(8) = 2/3. Mean 7, variance 3." loading="lazy">
+  <figcaption>The uniform density is a rectangle, its cdf is a straight ramp, and probability is area.</figcaption>
+</figure>
+
+<figure class="topic-figure">
   <img src="https://img.marlbridge.com/edexcel-ial-mathematics-the-continuous-uniform-distribution-and-the-normal--09-amth-normal-model-limits.webp" width="900" height="1070" alt="N(6, 4²) for assembly time gives 0.0668 probability of a negative time, which is impossible. A second graph compares skewed data with a normal curve of the same mean and spread, which fits poorly and puts about 4% below zero." loading="lazy">
   <figcaption>A normal model gives some probability to impossible values and fits skewed data badly.</figcaption>
 </figure>

@@ -83,6 +83,56 @@ Related pages: [IB MYP Mathematics hub](/boards/ib/ib-myp/mathematics/), the [pr
   <figcaption>Silo volume is 144 pi + 16 pi = 160 pi, about 503 cubic metres.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-units-of-measure-area-and-perimeter--05-area-formulas.webp" width="900" height="1350" alt="A gold triangle slides from one end of a parallelogram to make a rectangle, so A = bh. Two trapeziums make a parallelogram of base a+b, and two triangles make a parallelogram of base b, giving the half formulas." loading="lazy">
+  <figcaption>Each formula comes from rearranging or doubling the shape.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-units-of-measure-area-and-perimeter--06-perpendicular-height.webp" width="900" height="1130" alt="A parallelogram with base 12 cm, slant 7.5 cm and height 6 cm. Area is 12 x 6 = 72 cm squared using the perpendicular height; perimeter adds all four sides to give 39 cm." loading="lazy">
+  <figcaption>Use the perpendicular height for area and every side for perimeter.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-mensuration--04-compound-shape.webp" width="900" height="830" alt="A 6 by 8 cm rectangle has a semicircle of diameter 6 cm on top. Area is 48 + 14.14 = 62.14 cm2. The perimeter is 8 + 8 + 6 + 3 pi = 31.42 cm; the dashed join line is not an edge." loading="lazy">
+  <figcaption>Split a compound shape into simple shapes for the area, and count only the outside edge for the perimeter.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-surface-area-and-volume--01-prism-volume.webp" width="900" height="740" alt="A triangular prism whose cross-section is a right-angled triangle with sides 6 cm, 8 cm and 10 cm. The triangle has area 24 square centimetres. The prism is 15 cm long, shown by an arrow along its length. Volume equals cross-section area times length, 24 times 15 equals 360 cubic centimetres." loading="lazy">
+  <figcaption>A triangular prism with a 6-8-10 cross-section of area 24 cm2 and length 15 cm has volume 24 x 15 = 360 cm3.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-surface-area-and-volume--02-prism-net.webp" width="900" height="940" alt="The net of the triangular prism. Three rectangles side by side, 6 by 15, 8 by 15 and 10 by 15, with areas 90, 120 and 150 square centimetres, add to 360. A triangle of area 24 is attached above and another below the middle rectangle. The two ends total 48. Surface area is 48 plus 360, which is 408 square centimetres." loading="lazy">
+  <figcaption>The net of the prism shows two triangular ends (48) and three rectangles (360), giving a surface area of 408 cm2.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-surface-area-and-volume--03-cylinder-unrolled.webp" width="900" height="990" alt="A cylinder of radius 5 cm and height 8 cm, then its net: a rectangle with two circles touching its top and bottom edges. The rectangle is the curved surface; its width equals the circumference 2 pi r = 10 pi and its height is 8, so its area is 80 pi. Each circle has area 25 pi. Total surface area is 130 pi square centimetres." loading="lazy">
+  <figcaption>The curved surface of a cylinder unrolls into a rectangle 2 pi r wide and h high, so the total surface area is 80 pi + 50 pi = 130 pi cm2.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-surface-area-and-volume--04-one-third.webp" width="900" height="890" alt="Top: a cone sits inside a cylinder with the same radius 6 cm and height 8 cm. A bar of three equal parts shows the cone is one part, 96 pi, of the cylinder, 288 pi. Bottom: a pyramid with a 16 by 16 base and height 15 sits inside a square prism. The pyramid volume 1280 is one third of the prism volume 3840." loading="lazy">
+  <figcaption>A cone is one third of the cylinder with the same base and height, and a pyramid one third of the matching prism.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-surface-area-and-volume--05-slant-vs-height.webp" width="900" height="1080" alt="Top, a square-based pyramid with base 16 and vertical height 15 from the apex to the centre of the base. A right-angled triangle inside it uses the vertical height 15, half the base 8, and the slant height 17 on a face. This slant-height step is Extended. Bottom, a cone with radius 6, vertical height 8 and slant height 10. Volume uses the vertical height; curved surface area uses the slant height." loading="lazy">
+  <figcaption>The vertical height goes in the volume formula and the slant height in the curved surface area. Pythagoras links them: 15, 8, 17 in the pyramid and 6, 8, 10 in the cone.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-geometrical-terms-constructions-and-scale-drawings--03-pyramid-net.webp" width="900" height="1130" alt="Net of a square-based pyramid: 6 cm square (area 36) and four triangles 5 cm high (area 15 each), so surface area 96 cm squared. A 3-4-5 right-angled triangle shows the vertical height is 4 cm, so volume is 48 cm cubed." loading="lazy">
+  <figcaption>The slant height 5 is not the vertical height 4 used in the volume.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-mensuration--05-compound-solid.webp" width="900" height="800" alt="A cylinder of radius 3 cm and height 8 cm has a hemisphere of radius 3 cm on top. Cylinder 72 pi = 226.2 cm3; hemisphere is half a sphere, 18 pi = 56.5 cm3. Total 90 pi = 282.7 cm3." loading="lazy">
+  <figcaption>Add the volumes of the simple solids; a hemisphere is half the sphere formula.</figcaption>
+</figure>
+
 
 ## Metric conversions
 
@@ -94,6 +144,22 @@ Related pages: [IB MYP Mathematics hub](/boards/ib/ib-myp/mathematics/), the [pr
 | Capacity (extended) | 1 mL = 1 cm³; 1 L = 1000 cm³; 1 m³ = 1000 L |
 
 **Reminder.** 7.5 L = 7500 cm³. Doubling every length multiplies area by 4 and volume by 8.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-units-of-measure-area-and-perimeter--01-unit-ladder.webp" width="900" height="960" alt="A ladder of km, m, cm and mm with x1000, x100 and x10 going down and the same divisions going up, beside kg-g and l-ml pairs. Below, 2.75 km becomes 2750 m then 275 000 cm." loading="lazy">
+  <figcaption>Going to a smaller unit multiplies; going to a larger unit divides.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-units-of-measure-area-and-perimeter--02-area-units.webp" width="900" height="1100" alt="A 1 cm square is a 10 by 10 grid of mm squares, so 1 cm squared is 100 mm squared. A 1 m square is 100 by 100 cm squares, 10 000 cm squared, and a shaded 0.6 m square shows 0.36 m squared is 3600 cm squared." loading="lazy">
+  <figcaption>The area factor is the length factor squared.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-units-of-measure-area-and-perimeter--03-volume-capacity.webp" width="900" height="1000" alt="A 10 cm cube is 10x10x10 cubes of 1 cm cubed, so 1000 cm cubed is 1 litre. A 1 m cube is 10x10x10 one-litre cubes, so 1 m cubed is 1000 litres." loading="lazy">
+  <figcaption>1000 cm cubed = 1 litre and 1 m cubed = 1000 litres.</figcaption>
+</figure>
+
 
 ## Solids
 
@@ -146,11 +212,6 @@ Slant height: l = √(r² + h²) for a cone. A cone with r = 15 and h = 8 has l 
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/ib-myp-mathematics-geometry-angles-circles-area-volume-and-metric-measure--12-perpendicular-bisector-construction.webp" width="900" height="1160" alt="Two equal-radius arcs from A and B cross above and below the segment at P and Q. The line PQ meets AB at its midpoint at a right angle. A point X on PQ is the same distance from A and from B." loading="lazy">
   <figcaption>Equal arcs from both ends give a line of points equidistant from A and B.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ib-myp-mathematics-geometry-angles-circles-area-volume-and-metric-measure--13-incircle-circumcircle.webp" width="900" height="740" alt="Two copies of a right-angled 5, 12, 13 triangle. The incircle touches all three sides with radius (5 + 12 − 13)/2 = 2. The circumcircle passes through all three corners with its centre at the hypotenuse midpoint and radius 6.5." loading="lazy">
-  <figcaption>Incircle radius 2 and circumcircle radius 6.5 for the 5-12-13 triangle.</figcaption>
 </figure>
 
 <figure class="topic-figure">
@@ -255,6 +316,12 @@ Spatial reasoning questions often ask you to justify as well as calculate. Write
 10. 45°
 11. 63 cm²
 12. 15 square units
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-mathematics-geometry-angles-circles-area-volume-and-metric-measure--13-incircle-circumcircle.webp" width="900" height="740" alt="Two copies of a right-angled 5, 12, 13 triangle. The incircle touches all three sides with radius (5 + 12 − 13)/2 = 2. The circumcircle passes through all three corners with its centre at the hypotenuse midpoint and radius 6.5." loading="lazy">
+  <figcaption>Incircle radius 2 and circumcircle radius 6.5 for the 5-12-13 triangle.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

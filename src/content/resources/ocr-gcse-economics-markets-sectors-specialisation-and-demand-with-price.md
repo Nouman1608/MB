@@ -209,6 +209,11 @@ If demand shifts right and supply does not change, there is a shortage at the ol
   <figcaption>A fall in the good's own price moves us along the demand curve: an extension of demand.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-allocation-of-resources--06-price-elasticity-of-demand.webp" width="900" height="1060" alt="Three demand curves through the same point: steep (inelastic, PED below 1), curved (unit, PED = 1), flat (elastic, PED above 1). PED = % change in quantity divided by % change in price. Example: price falls 10% (5 to 4.5), quantity rises 20% (50 to 60), PED = 2, elastic; revenue rises 250 to 270." loading="lazy">
+  <figcaption>PED measures how strongly quantity demanded responds to a price change, and decides whether revenue rises or falls.</figcaption>
+</figure>
+
 
 ## Price elasticity of demand
 
@@ -257,6 +262,12 @@ Check with example 1: before 3.00 × 400 = £1,200; after 3.30 × 380 = **£1,25
 For **producers**, PED guides pricing, forecasting sales after a price change, and deciding between sales and promotions. For **consumers**, inelastic demand means a price rise takes a bigger bite out of budgets because they cannot easily cut back. Buyers of necessities are hit hardest.
 
 **Evaluation.** Revenue is not profit: selling more costs more to make, so a price cut on an elastic good may not raise profit. PED is an estimate from past data, can change over time, and depends on rivals' reactions. A reasonable judgement: use PED as a guide, then check costs and competitors before changing price.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-economics-price-system-and-the-microeconomy--04-ped-and-total-revenue.webp" width="900" height="1270" alt="Two demand diagrams with the same price cut from 5 to 4. With elastic demand (PED 2.5) quantity rises from 40 to 60: 40 of revenue is lost on existing sales, 80 is gained on extra sales, so revenue rises from 200 to 240. With inelastic demand (PED 0.5) quantity rises only to 44: the loss of 40 outweighs the gain of 16, so revenue falls to 176." loading="lazy">
+  <figcaption>Whether a price cut raises revenue depends on whether demand is elastic or inelastic.</figcaption>
+</figure>
+
 
 ## Common errors
 

@@ -84,6 +84,11 @@ For full explanations and worked examples, read the [Chemistry of the atmosphere
 </figure>
 
 <figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-chemistry-8462-chemistry-of-the-atmosphere--05-atm-carbon-locked.webp" width="900" height="1030" alt="Three rows: shells and skeletons settle on the sea bed and are compressed into limestone; trees and ferns are buried and compressed and heated into coal; plankton buried in mud, with heat and pressure and little oxygen, become crude oil and natural gas." loading="lazy">
+  <figcaption>Limestone, coal and crude oil each lock carbon from the atmosphere in rock.</figcaption>
+</figure>
+
+<figure class="topic-figure">
   <img src="https://img.marlbridge.com/chemistry-of-the-environment--03-air-composition.webp" width="900" height="800" alt="A 10 by 10 grid where each square is 1 percent of air: 78 nitrogen, 21 oxygen and 1 square for noble gases and carbon dioxide." loading="lazy">
   <figcaption>Clean, dry air is about 78% nitrogen and 21% oxygen, with a small remainder.</figcaption>
 </figure>
@@ -142,8 +147,23 @@ For full explanations and worked examples, read the [Chemistry of the atmosphere
 </figure>
 
 <figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-chemistry-8462-chemistry-of-the-atmosphere--06-atm-human-activities.webp" width="900" height="900" alt="Carbon dioxide sources: power stations and vehicles burning fossil fuels, and deforestation. Methane sources: livestock farming, rice paddy fields and landfill sites where waste decays." loading="lazy">
+  <figcaption>Human activities that increase carbon dioxide and methane.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-chemistry-8462-chemistry-of-the-atmosphere--07-atm-percent-increase.webp" width="900" height="860" alt="Two stacked bars: 320 ppm split into four blocks of 80, and 400 ppm made of the same four blocks plus one more. The extra 80 is one quarter of 320, so the increase is 25 percent. Dividing by 400 would wrongly give 20 percent." loading="lazy">
+  <figcaption>Worked example 2: 80 is one quarter of 320, so the rise is 25%.</figcaption>
+</figure>
+
+<figure class="topic-figure">
   <img src="https://img.marlbridge.com/aqa-gcse-chemistry-8462-chemistry-of-the-atmosphere--08-atm-climate-effects.webp" width="900" height="910" alt="Six picture cards for the effects in the lesson: sea level rise with flooding and erosion, more severe storms, rainfall changes causing drought or flood, heat and water stress, changes in food-growing regions, and changes in wildlife distribution with some extinctions." loading="lazy">
   <figcaption>The potential effects of global climate change listed in the lesson.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/chemistry-of-the-environment--06-greenhouse-effect.webp" width="900" height="1110" alt="Thermal energy rises from the Earth, is absorbed by carbon dioxide and methane, and some is re-emitted back down. Less escapes to space, so the Earth warms. Gases act by absorption and re-emission, not as a solid barrier." loading="lazy">
+  <figcaption>CO2 and methane absorb thermal energy and re-emit some back down, slowing loss to space.</figcaption>
 </figure>
 
 
@@ -192,6 +212,16 @@ Small reminder: C₂H₆ burning to carbon monoxide gives 2C₂H₆ + 5O₂ → 
   <figcaption>How SO2 and oxides of nitrogen cause acid rain and its three effects.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/chemistry-of-the-environment--04-combustion-products.webp" width="900" height="1060" alt="With plenty of oxygen carbon burns to carbon dioxide. With too little oxygen it makes toxic carbon monoxide and soot particulates instead." loading="lazy">
+  <figcaption>Complete combustion gives CO2; incomplete combustion gives CO and particulates.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/chemistry-of-the-environment--05-pollutant-matrix.webp" width="900" height="970" alt="A grid of six pollutants against global warming, acid rain, smog and harm to health, with each pollutant source. CO2 and methane cause warming; SO2 causes acid rain; oxides of nitrogen cause acid rain, smog and breathing harm; CO and particulates harm health." loading="lazy">
+  <figcaption>A quick map from each pollutant to its source and effects.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 
@@ -232,8 +262,8 @@ Small reminder: C₂H₆ burning to carbon monoxide gives 2C₂H₆ + 5O₂ → 
 12. **CH₄ + O₂ → C + 2H₂O** (1 C, 4 H and 2 O on each side).
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/aqa-gcse-chemistry-8462-chemistry-of-the-atmosphere--06-atm-human-activities.webp" width="900" height="900" alt="Carbon dioxide sources: power stations and vehicles burning fossil fuels, and deforestation. Methane sources: livestock farming, rice paddy fields and landfill sites where waste decays." loading="lazy">
-  <figcaption>Human activities that increase carbon dioxide and methane.</figcaption>
+  <img src="https://img.marlbridge.com/chemistry-of-the-environment--08-photosynthesis.webp" width="900" height="1140" alt="Carbon dioxide and water enter a leaf; light is absorbed by chlorophyll; glucose and oxygen come out. The balanced equation 6CO2 + 6H2O gives C6H12O6 + 6O2 is Extended." loading="lazy">
+  <figcaption>In sunlight, chlorophyll helps plants turn carbon dioxide and water into glucose and oxygen.</figcaption>
 </figure>
 
 
@@ -249,12 +279,6 @@ Small reminder: C₂H₆ burning to carbon monoxide gives 2C₂H₆ + 5O₂ → 
 - Giving reasons why carbon footprint actions are limited that are too vague ("it's hard"). Name cost, cooperation or lifestyle.
 - Percentage change divided by the final value instead of the starting value.
 - Describing coal formation as "from dead animals". Coal came from plants.
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/aqa-gcse-chemistry-8462-chemistry-of-the-atmosphere--05-atm-carbon-locked.webp" width="900" height="1030" alt="Three rows: shells and skeletons settle on the sea bed and are compressed into limestone; trees and ferns are buried and compressed and heated into coal; plankton buried in mud, with heat and pressure and little oxygen, become crude oil and natural gas." loading="lazy">
-  <figcaption>Limestone, coal and crude oil each lock carbon from the atmosphere in rock.</figcaption>
-</figure>
-
 
 ## Official syllabus
 

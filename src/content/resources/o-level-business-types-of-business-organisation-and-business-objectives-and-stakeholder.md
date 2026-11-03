@@ -218,6 +218,12 @@ Internal stakeholders are inside the business: owners or shareholders, directors
 | Government | Tax revenue, jobs, legal compliance |
 | Local community | Local jobs, little pollution and noise, support for local causes |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-understanding-business-activity--08-stakeholder-conflicts.webp" width="900" height="1040" alt="Six stakeholder groups around a business (owners and employees internal; customers, suppliers, government, local community external). Two conflicts: owners cutting costs vs employees wanting higher wages; customers wanting low prices vs owners wanting higher margins." loading="lazy">
+  <figcaption>Stakeholders have differing objectives that often conflict.</figcaption>
+</figure>
+
+
 ### Conflicts between stakeholders
 
 Objectives often conflict. Examples:

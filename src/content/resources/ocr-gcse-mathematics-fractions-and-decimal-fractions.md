@@ -61,6 +61,11 @@ Whole numbers are fractions too: 6 = 6/1 = 18/3. Write a negative fraction with 
   <figcaption>A mixed number is whole bars plus extra parts, all counted in the same unit fraction.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-number--02-hcf-lcm-prime-factors.webp" width="900" height="920" alt="Two overlapping circles hold the prime factors of 24 and 36. The overlap 2, 2, 3 multiplies to the HCF 12. Every factor counted once, overlap plus the extra 2 and extra 3, multiplies to the LCM 72." loading="lazy">
+  <figcaption>The overlap gives the HCF; every prime factor used once gives the LCM.</figcaption>
+</figure>
+
 
 ## 2.01b Calculations with fractions
 

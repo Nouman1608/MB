@@ -63,6 +63,17 @@ pull or push   : along the slope, or at the stated angle
 
 Mark the angle α between the slope and the horizontal, then check that the angle between the weight and the perpendicular to the slope is also α.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-maths-9709-mechanics--01-amth-forces-lift.webp" width="900" height="1010" alt="Free-body diagrams of a 65 kg person in a lift with g = 9.8. At rest R = 637 N; accelerating up at 0.8 m per second squared R = 689 N; accelerating down R = 585 N. Arrow lengths are proportional to the forces. A strip below shows the third-law pair: the floor pushes the person up with R and the person pushes the floor down with R, on different bodies." loading="lazy">
+  <figcaption>The reaction R is larger than the weight when the lift accelerates upwards and smaller when it accelerates downwards; third-law pairs act on different bodies.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-maths-9709-mechanics--04-amth-forces-tow.webp" width="900" height="1010" alt="Whole system of 2000 kg: 3300 − 800 = 2000a gives a = 1.25 m per second squared. Trailer alone: T − 300 = 800 × 1.25 gives T = 1300 N. With a rigid bar and braking, the system slows at 1.15 m per second squared and the bar pushes back on the trailer with 620 N thrust (Cambridge 9709, OxfordAQA)." loading="lazy">
+  <figcaption>Treat the whole system first, then one part to find the tow-bar force; a rigid bar can push (thrust).</figcaption>
+</figure>
+
+
 ## 2. Forces as vectors
 
 A force in two dimensions can be written as Xi + Yj, with i horizontal and j vertical (or any perpendicular pair). The **resultant** of several forces acting at a point is their vector sum: add the i-components, then add the j-components.
@@ -145,6 +156,11 @@ Check: R cos 34° = 68.6 = 7g, the weight, as the vertical resolution requires.
 </figure>
 
 <figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-maths-9709-mechanics--03-amth-forces-pulley.webp" width="900" height="1210" alt="(Top) A 3 kg particle on a smooth table joined over a smooth pulley to a 2 kg hanging particle: T = 3a and 2g − T = 2a give a = 3.92 m per second squared, T = 11.8 N. (Bottom) 7 kg and 4 kg hanging masses: a = 3g/11 = 2.67 m per second squared, T = 49.9 N. Tension is the same on both sides." loading="lazy">
+  <figcaption>Write one F = ma equation per particle; tension is the same each side of a smooth pulley.</figcaption>
+</figure>
+
+<figure class="topic-figure">
   <img src="https://img.marlbridge.com/a-level-maths-9709-mechanics--06-amth-forces-rope-angle.webp" width="900" height="970" alt="A 12 kg box on rough ground (μ = 0.4) on the point of sliding. Pulled by a rope at 25 degrees above horizontal, T = 43.7 N and R = 99.1 N, less than the weight 117.6 N. Pushed at 25 degrees below horizontal, P = 63.8 N and R = 144.6 N, more than the weight. Dashed lines show components." loading="lazy">
   <figcaption>A pull at an angle lowers R and so the friction limit; a push at an angle raises it.</figcaption>
 </figure>
@@ -198,6 +214,11 @@ If P is small, the particle tends to slide down, so friction acts up the slope: 
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/a-level-maths-9709-mechanics--07-amth-forces-slope.webp" width="900" height="920" alt="A 4 kg block on a 30 degree rough slope with μ = 0.25. Weight 39.2 N splits into mg sin 30 = 19.6 N down the slope and mg cos 30 = 33.9 N into it, so R = 33.9 N and F = 8.49 N up the slope. 19.6 − 8.49 = 4a gives a = 2.78 m per second squared down the slope." loading="lazy">
   <figcaption>Resolve the weight along and across the slope: R = mg cos θ and the net force down the slope is mg sin θ − μR.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-maths-9709-mechanics--09-amth-forces-conical.webp" width="900" height="940" alt="A 0.4 kg bob on a 1.2 m string moves in a horizontal circle at 5 rad per second. T = mLω² = 12 N, cos θ = g/(Lω²) = 0.327 so θ = 70.9 degrees, r = 1.13 m, v = 5.67 m per second. Tension plus weight give a horizontal resultant 11.3 N to the centre; from above, v is tangent and a = 28.3 m per second squared points to the centre." loading="lazy">
+  <figcaption>The resultant of tension and weight points to the centre of the circle and equals mrω².</figcaption>
 </figure>
 
 

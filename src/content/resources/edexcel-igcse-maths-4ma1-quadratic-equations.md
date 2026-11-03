@@ -194,6 +194,11 @@ Completing the square is the better choice when the question asks for answers "i
   <figcaption>Half of 8 gives p = 4; the 16 added to complete the square must be taken away.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/indices-and-equations--05-quadratic-surd-roots.webp" width="900" height="970" alt="The parabola y = x^2 - 4x - 3 has line of symmetry x = 2 and crosses the x axis a distance sqrt(7) either side, giving x = 2 +/- sqrt(7)." loading="lazy">
+  <figcaption>The surd roots sit sqrt(7) either side of the line of symmetry x = 2.</figcaption>
+</figure>
+
 
 ## 2.7C Forming equations from a context -- Higher tier only
 
@@ -284,6 +289,11 @@ The commonest error is squaring (x + 1) as x² + 1. Write (x + 1)² as (x + 1)(x
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/edexcel-igcse-maths-4ma1-quadratic-equations--11-quad-parabola-line.webp" width="900" height="940" alt="The curve y = x squared - 3x + 4 and the line y = 2x - 2 meet at (2, 2) and (3, 4), the solutions of x squared - 5x + 6 = 0." loading="lazy">
   <figcaption>The solutions of a line and a parabola are the points where they cross.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-graphs-of-functions-and-sketching-curves--02-solve-with-a-line.webp" width="900" height="1090" alt="The curve y = x² − 2x − 3 is drawn once. Its x-axis crossings (x = −1 and 3) solve x² − 2x − 3 = 0. Rearranging x² − 4x − 1 = 0 gives the line y = 2x − 2, which meets the curve at about x = −0.2 and 4.2." loading="lazy">
+  <figcaption>Draw the curve once, then choose the line that matches the equation to solve.</figcaption>
 </figure>
 
 

@@ -70,6 +70,11 @@ These are condensed notes for section 2.11 of the Cambridge O Level Economics sy
   <figcaption>A minimum price of 22 creates a surplus of 100 that costs 2,200 to buy.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-economics-the-mixed-economic-system-and-government-intervention--04-mix-exchange-rate-limits.webp" width="900" height="900" alt="Equilibrium is at a rate of 4 and 500 million dinars. A ceiling of 3 gives excess demand of 150 million; a floor of 5 gives excess supply of 150 million and reserve spending of 750 million." loading="lazy">
+  <figcaption>Holding the dinar away from equilibrium leaves a 150 million gap the central bank must fill.</figcaption>
+</figure>
+
 
 ## Taxes and subsidies in steps
 
@@ -97,6 +102,11 @@ Key rules:
 - Equilibrium: 450 = 30P, so P = 15, Q = 250.
 - Subsidy 3: Qs = −50 + 20(P + 3) = 10 + 20P. Then 390 = 30P, so P = 13, Q = 270.
 - Consumers pay 2 less. Producers receive 13 + 3 = 16, which is 1 more. Cost = 3 × 270 = 810.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-economics-the-mixed-economic-system-and-government-intervention--07-indirect-tax-incidence.webp" width="900" height="960" alt="A tax of 6 shifts supply up by 6. Equilibrium moves from price 16 and 200 packs to price 20 and 160 packs. A rectangle 6 high and 160 wide is split into consumers 4 by 160 equals 640 and producers 2 by 160 equals 320, total 960." loading="lazy">
+  <figcaption>The tax is shared: consumers pay 4 more and producers keep 2 less.</figcaption>
+</figure>
 
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/cambridge-o-level-economics-the-mixed-economic-system-and-government-intervention--05-mix-subsidy-solar-heaters.webp" width="900" height="930" alt="A subsidy of 6 moves supply down. Price falls from 20 to 16 and quantity rises from 250 to 290. Sellers receive 22. Cost to government is 6 x 290 = 1,740." loading="lazy">
@@ -170,13 +180,18 @@ Use a short chain: aim, mechanism, result, drawback, judgement.
 10. Demand is price inelastic, or there are no close substitutes, or the good is habit-forming.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/cambridge-o-level-economics-the-mixed-economic-system-and-government-intervention--07-indirect-tax-incidence.webp" width="900" height="960" alt="A tax of 6 shifts supply up by 6. Equilibrium moves from price 16 and 200 packs to price 20 and 160 packs. A rectangle 6 high and 160 wide is split into consumers 4 by 160 equals 640 and producers 2 by 160 equals 320, total 960." loading="lazy">
-  <figcaption>The tax is shared: consumers pay 4 more and producers keep 2 less.</figcaption>
+  <img src="https://img.marlbridge.com/cambridge-o-level-economics-the-mixed-economic-system-and-government-intervention--08-minimum-wage-unemployment.webp" width="900" height="910" alt="Labour demand and supply meet at wage 15 and 450 hundred workers. A minimum wage of 18 gives demand for 360 and supply of 510, so 150 hundred workers are unemployed. Total pay falls from 6,750 to 6,480." loading="lazy">
+  <figcaption>A minimum wage above equilibrium raises pay for those in work but creates unemployment.</figcaption>
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/cambridge-o-level-economics-the-mixed-economic-system-and-government-intervention--04-mix-exchange-rate-limits.webp" width="900" height="900" alt="Equilibrium is at a rate of 4 and 500 million dinars. A ceiling of 3 gives excess demand of 150 million; a floor of 5 gives excess supply of 150 million and reserve spending of 750 million." loading="lazy">
-  <figcaption>Holding the dinar away from equilibrium leaves a 150 million gap the central bank must fill.</figcaption>
+  <img src="https://img.marlbridge.com/cambridge-igcse-economics-microeconomic-decision-makers--04-wage-above-equilibrium.webp" width="900" height="890" alt="With a wage floor of 9 above the equilibrium of 7, firms want 30 workers but 70 want jobs, leaving 40 without work. Workers in jobs earn more but fewer are employed." loading="lazy">
+  <figcaption>A minimum wage or union deal above equilibrium raises pay for those employed but can reduce jobs.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-allocation-of-resources--05-merit-and-demerit-goods.webp" width="900" height="1010" alt="For healthcare, a merit good, the market delivers 60 against a best amount of 100, so there is too little. For cigarettes, a demerit good, it delivers 100 against 40, so there is too much." loading="lazy">
+  <figcaption>Merit goods are under-consumed and demerit goods over-consumed.</figcaption>
 </figure>
 
 
@@ -190,17 +205,6 @@ Use a short chain: aim, mechanism, result, drawback, judgement.
 - Forgetting the cost to the government or taxpayers in an evaluation.
 - Giving only advantages of privatisation or only drawbacks of nationalisation.
 - Ending an evaluation without a judgement tied to the case.
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/cambridge-o-level-economics-the-mixed-economic-system-and-government-intervention--08-minimum-wage-unemployment.webp" width="900" height="910" alt="Labour demand and supply meet at wage 15 and 450 hundred workers. A minimum wage of 18 gives demand for 360 and supply of 510, so 150 hundred workers are unemployed. Total pay falls from 6,750 to 6,480." loading="lazy">
-  <figcaption>A minimum wage above equilibrium raises pay for those in work but creates unemployment.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/cambridge-igcse-economics-microeconomic-decision-makers--04-wage-above-equilibrium.webp" width="900" height="890" alt="With a wage floor of 9 above the equilibrium of 7, firms want 30 workers but 70 want jobs, leaving 40 without work. Workers in jobs earn more but fewer are employed." loading="lazy">
-  <figcaption>A minimum wage or union deal above equilibrium raises pay for those employed but can reduce jobs.</figcaption>
-</figure>
-
 
 ## Official syllabus
 
@@ -224,5 +228,15 @@ Cambridge O Level Economics 2281 syllabus for examination in 2026, published by 
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/igcse-economics-the-allocation-of-resources--08-tax-and-subsidy.webp" width="900" height="1370" alt="An indirect tax of 1.8 shifts supply up, raising price from 5 to 6 and cutting quantity from 50 to 40. A subsidy of 1.8 shifts supply down, cutting price from 5 to 4 and raising quantity from 50 to 60." loading="lazy">
   <figcaption>A tax shifts supply up and a subsidy shifts it down.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-basic-economic-problem--06-ppc-movement-opportunity-cost.webp" width="900" height="1050" alt="Three points on a PPC. Moving from 1 to 2 gains 20 Food and gives up 20 Machines; moving from 2 to 3 gains another 20 Food but gives up 60 Machines. Each extra unit of Food costs more Machines, which is why the curve bows outwards." loading="lazy">
+  <figcaption>Moving along a PPC reallocates resources, and the opportunity cost rises.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-allocation-of-resources--04-public-goods.webp" width="900" height="1060" alt="A street light shines on four people but only one pays. The three free riders use it without paying, so private firms make no profit and will not supply it. The government provides it, paid for by taxes." loading="lazy">
+  <figcaption>Public goods are non-excludable, so free riders stop private firms supplying them.</figcaption>
 </figure>
 

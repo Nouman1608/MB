@@ -52,11 +52,6 @@ These notes squeeze section 2.10 (Market failure) of the 2026 examination syllab
 Syllabus limit: give examples of these areas only.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/cambridge-o-level-economics-market-failure-public-merit-and-demerit-goods-and--06-fizzy-drink-demerit.webp" width="900" height="830" alt="A fizzy drink costs 2.00 and the buyer values it at 3.00, a gain of 1.00. Social cost is 2.00 + 1.50 + 0.50 = 4.00, so the net for society is minus 1.00 and consumption is too high." loading="lazy">
-  <figcaption>The buyer sees +1.00 but society loses 1.00.</figcaption>
-</figure>
-
-<figure class="topic-figure">
   <img src="https://img.marlbridge.com/igcse-economics-the-allocation-of-resources--03-causes-of-market-failure.webp" width="900" height="1060" alt="Five small pictures show the causes of market failure: public goods, merit and demerit goods, external costs and benefits, abuse of monopoly power and factor immobility. The result is the wrong amount produced or used." loading="lazy">
   <figcaption>Market failure has five causes limited to those in the 0455 syllabus.</figcaption>
 </figure>
@@ -105,6 +100,11 @@ Misallocation means resources are in the wrong uses. Too much goes into harmful 
 2. So output or consumption is too high or too low.
 3. So resources are misallocated.
 4. So society is worse off. Name who loses.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-economics-market-failure-public-merit-and-demerit-goods-and--06-fizzy-drink-demerit.webp" width="900" height="830" alt="A fizzy drink costs 2.00 and the buyer values it at 3.00, a gain of 1.00. Social cost is 2.00 + 1.50 + 0.50 = 4.00, so the net for society is minus 1.00 and consumption is too high." loading="lazy">
+  <figcaption>The buyer sees +1.00 but society loses 1.00.</figcaption>
+</figure>
 
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/cambridge-o-level-economics-market-failure-public-merit-and-demerit-goods-and--09-four-link-answer-chain.webp" width="900" height="830" alt="Two four-step chains. Demerit good: buyers ignore the harm, buy more than is best, resources flow into the good, other uses lose out. Merit good: buyers undervalue the benefit, buy too little, resources are left under-used, welfare is lower than possible." loading="lazy">
@@ -188,12 +188,6 @@ Use an example from the area the question asks about. Do not stretch to topics o
 
 Add the name of the good, one named person or group who gains or loses, and one number if the question gives data.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/cambridge-o-level-economics-market-failure-public-merit-and-demerit-goods-and--02-vaccination-merit-good.webp" width="900" height="870" alt="Three columns compared with a price line at 18. The buyer perceives a benefit of only 12, below the price, so net is minus 6 and the person does not buy. The true private benefit is 24, net plus 6. Adding the external benefit of 14 to other people and the health service gives a social benefit of 38, net plus 20. Because the buyer decides on the perceived 12, the merit good is under-consumed." loading="lazy">
-  <figcaption>The buyer perceives a benefit of 12 against a price of 18 and does not buy, although the true private benefit is 24 and the social benefit 38.</figcaption>
-</figure>
-
-
 ## Quick self-test
 
 1. State what makes a good non-excludable.
@@ -225,6 +219,26 @@ Add the name of the good, one named person or group who gains or loses, and one 
 12. For example smoke or noise that harms neighbours, or river pollution that harms downstream fishers.
 
 <figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-economics-market-failure-public-merit-and-demerit-goods-and--02-vaccination-merit-good.webp" width="900" height="870" alt="Three columns compared with a price line at 18. The buyer perceives a benefit of only 12, below the price, so net is minus 6 and the person does not buy. The true private benefit is 24, net plus 6. Adding the external benefit of 14 to other people and the health service gives a social benefit of 38, net plus 20. Because the buyer decides on the perceived 12, the merit good is under-consumed." loading="lazy">
+  <figcaption>The buyer perceives a benefit of 12 against a price of 18 and does not buy, although the true private benefit is 24 and the social benefit 38.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-economics-market-failure-public-merit-and-demerit-goods-and--03-kiln-external-cost.webp" width="900" height="920" alt="Bar chart of the value to buyers per bag of six batches of 1,000 bags: 16, 14, 12, 10, 9 and 6 dollars. Two dashed lines mark the private cost of 8 and the social cost of 11 (private cost plus 3 of smoke damage). Buyers purchase batches 1 to 5, where value exceeds 8. Only batches 1 to 3 are worth their social cost of 11, with net gains of plus 5, 3 and 1. Batches 4 and 5 have net values of minus 1 and minus 2, a total loss of 3,000. Batch 6 is not bought." loading="lazy">
+  <figcaption>Buyers keep buying while value exceeds the private cost of 8 (5 batches), but society gains only while value exceeds the social cost of 11 (3 batches).</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-economics-market-failure-public-merit-and-demerit-goods-and--04-monopoly-town-t.webp" width="900" height="930" alt="Paired bars compare several suppliers with one sole supplier. Price rises from 20 to 26 dollars, up 30 percent. Deliveries fall from 1,000 to 800 a month, down 20 percent. Profit rises from 5,000 to 8,800, up 3,800, with each delivery costing 15. The 200 lost deliveries were each worth at least 20 to buyers and cost 15 to supply, so at least 1,000 of gain disappears: that is the market failure." loading="lazy">
+  <figcaption>A sole supplier raises price 30% and cuts deliveries 20%, lifting profit by 3,800 while at least 1,000 of gain is lost.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-economics-market-failure-public-merit-and-demerit-goods-and--05-factor-immobility-town-m.webp" width="900" height="1010" alt="Three bars show unemployment in Town M with a labour force of 5,000: 250 unemployed (5 percent) before a mill closes, 650 (13 percent) after 400 workers lose their jobs, and 560 (11.2 percent) after 90 retrain for construction. Two cards show why the rest stay idle: 90 construction jobs need new skills (occupational immobility) and 260 jobs in a far city are too far or too costly to reach (geographical immobility)." loading="lazy">
+  <figcaption>Unemployment rises from 5% to 13% after the mill closes and only falls to 11.2% after 90 retrain, because the other jobs are far away or need skills.</figcaption>
+</figure>
+
+<figure class="topic-figure">
   <img src="https://img.marlbridge.com/cambridge-o-level-economics-market-failure-public-merit-and-demerit-goods-and--07-tree-plot-external-benefit.webp" width="900" height="780" alt="A plot costs 60 and gives the landowner timber worth 50 (net minus 10), so none is planted. Adding 30 of flood relief to farms makes the social benefit 80, a net of plus 20 per plot, so 20 plots would add 400." loading="lazy">
   <figcaption>External benefits mean too few plots are planted.</figcaption>
 </figure>
@@ -249,5 +263,15 @@ Source: Cambridge International, Cambridge O Level Economics (2281), examination
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/igcse-economics-the-allocation-of-resources--04-public-goods.webp" width="900" height="1060" alt="A street light shines on four people but only one pays. The three free riders use it without paying, so private firms make no profit and will not supply it. The government provides it, paid for by taxes." loading="lazy">
   <figcaption>Public goods are non-excludable, so free riders stop private firms supplying them.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-allocation-of-resources--05-merit-and-demerit-goods.webp" width="900" height="1010" alt="For healthcare, a merit good, the market delivers 60 against a best amount of 100, so there is too little. For cigarettes, a demerit good, it delivers 100 against 40, so there is too much." loading="lazy">
+  <figcaption>Merit goods are under-consumed and demerit goods over-consumed.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-allocation-of-resources--06-external-costs-and-benefits.webp" width="900" height="1160" alt="A factory has private cost 10 and its smoke harms neighbours with an external cost of 4, so social cost is 14. A vaccination has private benefit 6 and external benefit 3, so social benefit is 9. The market ignores the external parts." loading="lazy">
+  <figcaption>Social cost or benefit equals private plus external.</figcaption>
 </figure>
 

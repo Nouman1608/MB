@@ -122,6 +122,21 @@ m = 153 g = 0.153 kg
   <figcaption>The water that overflows has the same volume as the irregular solid.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/measurement-mass-weight-and-density--05-density-regular-solid.webp" width="900" height="1000" alt="A 10 cm by 5 cm by 4 cm block has volume 200 cm3. On a balance it has mass 540 g. Density = 540 / 200 = 2.7 g/cm3." loading="lazy">
+  <figcaption>For a regular solid, calculate the volume from its sides, find the mass on a balance, then divide.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/measurement-mass-weight-and-density--02-volume-by-displacement.webp" width="900" height="870" alt="A measuring cylinder reads 40 cm3 before a stone is lowered in and 65 cm3 after. The shaded rise is the stone volume, 65 - 40 = 25 cm3. The eye is level with the bottom of the meniscus." loading="lazy">
+  <figcaption>The volume of an irregular solid is the rise in liquid level, not the final reading.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/measurement-mass-weight-and-density--06-density-liquid.webp" width="900" height="930" alt="A measuring cylinder on a balance reads 80 g empty and 112 g with 40 cm3 of liquid. Liquid mass = 112 - 80 = 32 g, so density = 32 / 40 = 0.8 g/cm3." loading="lazy">
+  <figcaption>Subtract the empty container mass before dividing by the liquid volume.</figcaption>
+</figure>
+
 
 ### Required practical 5 -- density
 
@@ -321,6 +336,12 @@ Keep the pressure units the same on both sides; you do not need to convert kPa t
 of a bicycle pump, you transfer energy to the gas. This **increases its internal energy**, and the molecules' average
 kinetic energy rises, so the **temperature of the gas increases**. That is why the end of a bicycle pump gets warm
 when you pump up a tyre quickly.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-gas-pressure-compression-and-the-atmosphere--05-pump-work-heats-gas.webp" width="900" height="980" alt="A piston is pushed 0.20 m by 45 N. A particle bouncing off a fixed wall leaves at the same speed (3 units) but off the moving piston it leaves faster (5 units). The work done is 9.0 J, so the gas is hotter." loading="lazy">
+  <figcaption>Work done on a gas speeds up its particles and raises its temperature.</figcaption>
+</figure>
+
 
 ## Common errors
 

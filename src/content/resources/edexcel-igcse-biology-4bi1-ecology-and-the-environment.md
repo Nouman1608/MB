@@ -190,6 +190,12 @@ Primary → secondary: (216 ÷ 2160) × 100 = 10.0%
 - **Combustion** of fossil fuels and wood releases carbon dioxide.
 - Where decomposition is incomplete over long periods, carbon is locked in **fossil fuels**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-organisms-and-their-environment--06-carbon-cycle.webp" width="900" height="1070" alt="Photosynthesis takes carbon dioxide from the air into plants. Feeding passes carbon to animals. Respiration by plants, animals and decomposers returns carbon dioxide to the air. Dead organisms and waste are broken down by decomposers (decomposition) or, if not fully decomposed, form fossil fuels over millions of years. Combustion of fossil fuels releases carbon dioxide." loading="lazy">
+  <figcaption>The six carbon-cycle processes shown as arrows between air, organisms, dead matter and fossil fuels.</figcaption>
+</figure>
+
+
 ### The nitrogen cycle (4.11B) -- Paper 2 only
 
 Plants absorb nitrogen as **nitrate ions** to make proteins. You need the roles of four groups of bacteria (not their names):
@@ -202,6 +208,11 @@ Plants absorb nitrogen as **nitrate ions** to make proteins. You need the roles 
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/edexcel-igcse-biology-4bi1-ecology-and-the-environment--08-nitrogen-nodules-soil-air.webp" width="900" height="1010" alt="Legume root nodules hold nitrogen-fixing bacteria. In aerated soil nitrifying bacteria make nitrates, keeping soil fertile. In waterlogged soil with little oxygen denitrifying bacteria turn nitrates into nitrogen gas, reducing fertility." loading="lazy">
   <figcaption>Root nodules and the effect of soil oxygen on nitrification and denitrification.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-organisms-and-their-environment--07-nitrogen-cycle.webp" width="900" height="1090" alt="Extended. Nitrogen fixation (lightning, bacteria) converts nitrogen gas to nitrogen compounds in the soil. Decomposers form ammonium ions from dead matter; nitrifying bacteria make nitrate ions; plants absorb nitrate and make amino acids and proteins; animals eat plants; deamination produces urea returned to soil; denitrifying bacteria return nitrogen gas to the air." loading="lazy">
+  <figcaption>Bacteria drive four steps: decomposition, nitrification, fixation and denitrification.</figcaption>
 </figure>
 
 
@@ -237,6 +248,16 @@ The Sun's radiation passes through the atmosphere and warms the Earth's surface.
   <figcaption>The lesson table of greenhouse gases and their human sources as pictures.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-human-influences-on-ecosystems--05-enhanced-greenhouse-effect.webp" width="900" height="1180" alt="Sunlight reaches the Earth, which gives out thermal energy upwards. Carbon dioxide and methane absorb thermal energy that would otherwise be lost and some returns to Earth. More of these gases gives more energy absorbed, a higher mean global temperature and climate change." loading="lazy">
+  <figcaption>More CO2 and methane trap more thermal energy, raising mean global temperature.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-human-influences-on-ecosystems--06-co2-methane-sources.webp" width="900" height="850" alt="Carbon dioxide comes from burning fossil fuels and burning forests. Methane comes from cattle and other livestock, rice fields and waste decomposing in landfill sites." loading="lazy">
+  <figcaption>Fossil fuels and forest burning give CO2; livestock, rice fields and landfill give methane.</figcaption>
+</figure>
+
 
 ### Water pollution (4.16, 4.17)
 
@@ -257,6 +278,11 @@ The Sun's radiation passes through the atmosphere and warms the Earth's surface.
   <figcaption>Untreated sewage lowers dissolved oxygen and kills fish.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-human-influences-on-ecosystems--04-eutrophication-steps.webp" width="900" height="1200" alt="Extended. Six linked steps with pictures: more nitrate and ions, fast producer growth, producers die with more decomposition, decomposers respire aerobically using up oxygen (the key link), dissolved oxygen falls (9.0 to 2.7 mg per dm3, a 70 percent decrease), and fish die." loading="lazy">
+  <figcaption>It is the decomposers aerobic respiration, not the algae, that uses up the oxygen.</figcaption>
+</figure>
+
 
 ### Deforestation (4.18B) -- Paper 2 only
 
@@ -269,6 +295,11 @@ The Sun's radiation passes through the atmosphere and warms the Earth's surface.
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/edexcel-igcse-biology-4bi1-ecology-and-the-environment--03-deforestation-soil-water.webp" width="900" height="1020" alt="In a forest, trees release water vapour, giving cloud and rain, and roots hold mineral ions in the soil. When the trees are cleared there is less water vapour and rain, and rain washes mineral ions out of the soil (leaching), leaving it infertile." loading="lazy">
   <figcaption>Clearing trees reduces rainfall and lets rain leach ions from the soil.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-human-influences-on-ecosystems--03-deforestation-effects.webp" width="900" height="1245" alt="A forest and a deforested hillside are compared. Five effects are numbered: biodiversity falls, extinction, soil loss, flooding and more carbon dioxide. A worked example shows forest area falling from 6.0 to 5.1 million hectares, a 15 percent decrease, found by dividing by the original value." loading="lazy">
+  <figcaption>Removing forest reduces biodiversity, loses soil, raises flood risk and adds carbon dioxide to the air.</figcaption>
 </figure>
 
 

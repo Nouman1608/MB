@@ -104,6 +104,11 @@ Here the growth plan also raises profit, because the extra sales add £4.50 each
   <figcaption>Revenue and total cost cross at 400 chairs; at 500 chairs Alder makes the 3,000 profit of Plan 1.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-market-structures-firms-objectives-and-competitive--06-alder-survival.webp" width="900" height="780" alt="At a price of 56 producing loses 9,000 against 12,000 for stopping, so keep producing. At 48, below variable cost of 50, producing loses 13,000 against 12,000, so stop." loading="lazy">
+  <figcaption>In the short run a firm should keep producing while price covers variable cost, because stopping still costs the fixed 12,000.</figcaption>
+</figure>
+
 
 ## 3.1.4.3 Competitive markets
 
@@ -191,12 +196,6 @@ Where a few firms dominate and barriers are high, entry cannot compete the profi
 8. No barriers, supernormal profit attracts entry, supply rises, price falls, supernormal profit disappears.
 9. Any two of: number of firms, barriers to entry, product differentiation, information.
 10. In the short run, supernormal profit can exist before entry; or large firms' economies of scale may leave them with lower costs; or a price war may cut the few firms' profit.
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-market-structures-firms-objectives-and-competitive--06-alder-survival.webp" width="900" height="780" alt="At a price of 56 producing loses 9,000 against 12,000 for stopping, so keep producing. At 48, below variable cost of 50, producing loses 13,000 against 12,000, so stop." loading="lazy">
-  <figcaption>In the short run a firm should keep producing while price covers variable cost, because stopping still costs the fixed 12,000.</figcaption>
-</figure>
-
 
 ## Where marks are usually lost
 

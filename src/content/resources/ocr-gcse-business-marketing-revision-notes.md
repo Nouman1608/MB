@@ -37,6 +37,11 @@ Link each to the business in the question.
   <figcaption>The first two aims of marketing serve the third: more sales.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-business-business-activity-marketing-and-people--05-mix-consistency.webp" width="900" height="930" alt="Two sets of price, packaging and retailer sliders. Consistent: all at premium. Inconsistent: premium price with budget packaging and retailer." loading="lazy">
+  <figcaption>The marketing mix must be consistent: a premium price with poor packaging and discount retailers fails.</figcaption>
+</figure>
+
 
 ## 2.2 Market research
 
@@ -76,6 +81,11 @@ Purpose: to identify and understand customer needs.
 </figure>
 
 <figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-business-marketing--09-quant-qual-research.webp" width="900" height="930" alt="A grid of 200 circles with 124 filled shows that 62 percent of a 200-customer sample would buy a sourdough loaf each week (quantitative). Below, a focus group of eight customers says the loaf is too large for one person (qualitative), which suggests a smaller loaf." loading="lazy">
+  <figcaption>The 62% tells Pembrook how many would buy; the focus group tells it why, and what to change.</figcaption>
+</figure>
+
+<figure class="topic-figure">
   <img src="https://img.marlbridge.com/ocr-gcse-business-marketing--05-research-for-purpose.webp" width="900" height="1160" alt="Four situations matched to a method: a new business with no sales history needs primary research; census data (secondary, free) gives the size of an age group; a new recipe needs trialling or a focus group; a small budget and tight deadline suggests secondary sources plus a short questionnaire. Secondary sources shown: newspapers and magazines, census, websites and internal data." loading="lazy">
   <figcaption>Match the research method to the purpose: no method is best in every case.</figcaption>
 </figure>
@@ -94,6 +104,12 @@ Purpose: to identify and understand customer needs.
 ## 2.3 Market segmentation
 
 Segmentation splits a market into groups. The five bases in the specification are age, gender, income, location and lifestyle. Benefit: the whole mix can be aimed at one group. Drawback: extra research and sometimes extra products.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-marketing--02-market-segmentation.webp" width="900" height="860" alt="Four cards show a market split by age, location, gender and socio-economic group. Each group of people is a segment. Each segment can be given its own promotion and products." loading="lazy">
+  <figcaption>A market can be segmented by age, location, gender or socio-economic group.</figcaption>
+</figure>
+
 
 ## 2.4 The marketing mix
 
@@ -132,6 +148,11 @@ The four Ps: product, price, promotion, place. They must fit together.
 </figure>
 
 <figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-business-marketing--10-place-physical-digital.webp" width="900" height="830" alt="Two columns. Physical channels (shop, stall, delivery) let customers touch the goods but cost rent. Digital channels (website, app, online marketplace) reach customers far away and are open at all hours but customers cannot touch the goods." loading="lazy">
+  <figcaption>Place can be a physical or a digital channel, and each has a trade-off.</figcaption>
+</figure>
+
+<figure class="topic-figure">
   <img src="https://img.marlbridge.com/ocr-gcse-business-marketing--03-promotion-pos-and-media.webp" width="900" height="1250" alt="Four point-of-sale methods (price reductions, loss leaders sold at or below cost, competitions, free samples) and four advertising media chosen by audience and budget (social media cheap for an age group, television large audience but dearer, local radio for a local shop, print for readers of a magazine)." loading="lazy">
   <figcaption>Point-of-sale methods work at the till; advertising media are chosen by audience and budget.</figcaption>
 </figure>
@@ -139,6 +160,21 @@ The four Ps: product, price, promotion, place. They must fit together.
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/ocr-gcse-business-marketing--04-mix-decisions.webp" width="900" height="880" alt="Three rows run from a situation to the P to change to the decision: falling sales, price, a promotional price; a new competitor, product, a better design; a new target market, promotion, a different advertising medium." loading="lazy">
   <figcaption>A change in the situation points to one P of the mix to adjust.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-marketing--07-marketing-mix.webp" width="900" height="1230" alt="The customer sits among four linked boxes: Product, Price, Place, Promotion. Arrows show they interact. A dashed frame shows legal controls limit all four. A premium mix needs a luxury product, high price and glossy advertising. Technology adds e-commerce and social media." loading="lazy">
+  <figcaption>The four Ps work together, within legal limits.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-marketing--04-product-life-cycle.webp" width="900" height="950" alt="Illustrative sales curve over time in four stages: introduction (low sales), growth (rising fast), maturity (peak, levelling), decline (falling). A dashed line shows an extension strategy lifting sales again. Promotion and pricing change at each stage." loading="lazy">
+  <figcaption>The product life cycle, with an extension strategy shown dashed.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-marketing--05-pricing-methods.webp" width="900" height="990" alt="A graph shows skimming starting high and falling, and penetration starting low and rising, both towards the same price. Cost-plus adds a mark-up to cost (6 + 1.5 = 7.5). Competitive pricing matches rivals (5.00, 5.20, 5.10 so 5.10). Promotional pricing is a short-term cut (8 to 6)." loading="lazy">
+  <figcaption>Skimming, penetration, cost-plus, competitive and promotional pricing.</figcaption>
 </figure>
 
 
@@ -243,6 +279,17 @@ Wynstay Fitness runs gyms. Answer these.
 10. **Decline**.
 11. A focus group lets members explain why they feel as they do and respond to each other. A questionnaire gives short answers with little explanation.
 12. Lifestyle groups, such as people who train daily, want different classes and hours. The gym can design and advertise the offer for the group it targets.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-business-marketing--06-plc-cracker-sales.webp" width="900" height="850" alt="A bar chart of cracker sales in thousands for years 1 to 6 (3, 11, 24, 25, 23, 15) with the year-on-year percentage changes underneath. The lesson three readings are highlighted: years 1 to 2 growth (+266.7%), years 3 to 4 maturity (+4.2%) and years 5 to 6 decline (-34.8%)." loading="lazy">
+  <figcaption>The size of the percentage change in sales shows which life-cycle stage a product is in.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-business-marketing--02-design-invention-innovation.webp" width="900" height="980" alt="Three boxes: design (how a product looks, feels and works), invention (something new that did not exist before, rarer) and innovation (improving or changing an existing idea such as a new feature or process, the common route)." loading="lazy">
+  <figcaption>Invention creates something new; innovation improves what exists.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

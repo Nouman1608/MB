@@ -75,8 +75,23 @@ These notes condense section 6.3.1(a) to (e) of the OCR A Level Biology A (H420)
 **Worked reminder.** Herbivores take in 900 kJ m⁻² year⁻¹ and incorporate 117 kJ m⁻² year⁻¹ into their biomass: efficiency = 117 / 900 × 100 = 13.0%.
 
 <figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-biology-energy-transfer-and-productivity-in-ecosystems--02-trophic-efficiency.webp" width="900" height="1000" alt="Kelp stores 12 000 kJ m-2 year-1, sea urchins 1 500 and sea otters 180. Dashed outlines show energy available from the level below. Efficiency is 12.5% then 12.0%, and the overall 1.5% is the product, not the sum." loading="lazy">
+  <figcaption>Divide by the level below, and multiply step efficiencies for a chain.</figcaption>
+</figure>
+
+<figure class="topic-figure">
   <img src="https://img.marlbridge.com/aqa-a-level-biology-energy-transfer-and-productivity-in-ecosystems--03-biomass-calorimetry.webp" width="900" height="1180" alt="A fresh 250 g sample is dried until its mass is constant at 62 g, so 188 g (75.2%) was water. A 0.50 g dried portion burned under 50.0 g of water raises the water 20.0 to 54.0 degrees C, giving 7 106 J and 14.2 kJ per gram, an underestimate because heat escapes." loading="lazy">
   <figcaption>Dry to constant mass, then burn a portion under water to find energy per gram.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-biology-energy-transfer-and-productivity-in-ecosystems--04-farming-efficiency.webp" width="900" height="1090" alt="Indoor animals with restricted movement turn 13.5% of intake into net production; free-range animals turn 7.95%, because respiration takes more of the intake. Removing weeds and pests leaves more NPP in the crop, but there are welfare, habitat and pollution costs." loading="lazy">
+  <figcaption>Less respiration and fewer competitors mean more energy ends up in human food, at a cost.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-biology-energy-transfer-and-productivity-in-ecosystems--07-eutrophication.webp" width="900" height="1110" alt="Fertiliser nitrate and phosphate leach into a pond. Algae bloom and shade out plants; dead material feeds bacteria whose respiration lowers oxygen and fish die. Example data: nitrate +277%, algae x34.5, oxygen -73%." loading="lazy">
+  <figcaption>Leached ions trigger an algal bloom and then oxygen loss through bacterial respiration.</figcaption>
 </figure>
 
 

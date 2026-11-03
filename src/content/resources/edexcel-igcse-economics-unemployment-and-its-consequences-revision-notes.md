@@ -143,12 +143,6 @@ For 60,000 people: 60,000 × 8,600 = **516 million**.
 
 A household has one earner on 2,000 a month after tax. The earner is made redundant and the benefit is 900. New income = 900. Fall = (2,000 − 900) ÷ 2,000 × 100 = **55%**. A fall of this size means the household has to cut spending on non-essentials, and it risks poverty if savings run out.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/edexcel-igcse-economics-unemployment-and-its-consequences--06-household-income-drop.webp" width="900" height="840" alt="Household income falls from 3,000 (1,800 plus 1,200) to 2,300 (1,800 plus a 500 benefit) when the second earner loses the job. The 700 fall is 23.3 percent." loading="lazy">
-  <figcaption>A job loss cuts household income by 23.3% even with a benefit.</figcaption>
-</figure>
-
-
 ### Evaluation checklist
 
 - Type of unemployment (short frictional against long structural)
@@ -156,6 +150,11 @@ A household has one earner on 2,000 a month after tax. The earner is made redund
 - Who is affected: region, age, industry
 - Short run against long run
 - How generous benefits are (less poverty, higher government cost)
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-economics-unemployment-and-its-consequences--06-household-income-drop.webp" width="900" height="840" alt="Household income falls from 3,000 (1,800 plus 1,200) to 2,300 (1,800 plus a 500 benefit) when the second earner loses the job. The 700 fall is 23.3 percent." loading="lazy">
+  <figcaption>A job loss cuts household income by 23.3% even with a benefit.</figcaption>
+</figure>
 
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/edexcel-igcse-economics-unemployment-and-its-consequences--08-confidence-loop.webp" width="900" height="976" alt="A loop of five steps: households fear for jobs, save more and spend less, firms sell less and expect weak demand, firms postpone investment and hiring, fewer jobs, and back to fear. Cyclical unemployment can feed on itself." loading="lazy">

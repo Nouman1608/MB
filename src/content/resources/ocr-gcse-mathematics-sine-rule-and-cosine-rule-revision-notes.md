@@ -44,11 +44,6 @@ A side and the angle opposite it form a **pair**. The sine rule needs a pair. Th
   <figcaption>Turn bearings into a triangle angle, then chain the cosine and sine rules.</figcaption>
 </figure>
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ocr-gcse-mathematics-sine-rule-and-cosine-rule--05-label-the-triangle.webp" width="900" height="870" alt="A scalene triangle with the side opposite each angle given the matching lower-case letter and colour. A faces a, B faces b, C faces c. A side and the angle opposite it are always a pair." loading="lazy">
-  <figcaption>Side a faces angle A; mark each given angle and the side facing it first.</figcaption>
-</figure>
-
 
 ## Formulae
 
@@ -137,6 +132,12 @@ If only two angles are given, find the third first: the angles add up to 180°.
 1. Put the side opposite the wanted angle first in the numerator: cos A = (b² + c² - a²) / (2bc).
 2. Work the top and the bottom separately, then divide.
 3. Use cos⁻¹. A negative cosine gives an obtuse angle.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-mathematics-sine-rule-and-cosine-rule--05-label-the-triangle.webp" width="900" height="870" alt="A scalene triangle with the side opposite each angle given the matching lower-case letter and colour. A faces a, B faces b, C faces c. A side and the angle opposite it are always a pair." loading="lazy">
+  <figcaption>Side a faces angle A; mark each given angle and the side facing it first.</figcaption>
+</figure>
+
 
 ## Small worked reminders
 

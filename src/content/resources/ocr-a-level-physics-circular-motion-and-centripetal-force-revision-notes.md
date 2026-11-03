@@ -36,6 +36,12 @@ Condensed recall for section 5.2 (Circular motion) of the H556 Physics A specifi
 | 5.2.2(c) | Centripetal acceleration | a = v²/r = ω²r, towards the centre |
 | 5.2.2(d)(i) | Centripetal force | F = mv²/r = mω²r = 4π²mr/T² |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-motion-in-a-circle--06-shm-graphs.webp" width="900" height="1110" alt="Three stacked graphs over one period for amplitude 0.050 m and omega 4.0 per second: x is a cosine, v a negative sine with maximum 0.20 m/s a quarter cycle ahead of x, and a a negative cosine with maximum 0.80 m/s^2 in antiphase with x. Dotted lines mark quarter periods." loading="lazy">
+  <figcaption>v leads x by a quarter cycle and a is in antiphase with x.</figcaption>
+</figure>
+
+
 ## Radians and conversions
 
 - Going from degrees to radians, multiply by π/180; going back, multiply by 180/π.
@@ -93,6 +99,11 @@ F = ma = 0.90 × 55.3 = 50 N (two significant figures)
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/a-physics-motion-in-a-circle--03-centripetal-force-sources.webp" width="900" height="1090" alt="Four top-view pictures: a bung on a string (tension), a coin on a turntable (friction), a rider in a spinning drum (push of the wall) and a satellite (gravity). In each the real force points to the centre and the velocity is tangent. The resultant is mv^2/r = m omega^2 r." loading="lazy">
   <figcaption>Centripetal force is not an extra force: it is the real force or resultant pointing to the centre.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-motion-in-a-circle--07-shm-energy.webp" width="900" height="1080" alt="For a 0.250 kg oscillator with A 0.080 m and f 1.8 Hz the total energy is 0.102 J. Against displacement, Ep is an upright parabola and Ek an inverted parabola under a flat total line, crossing at plus and minus A over root 2. Against time each energy completes two cycles per oscillation and they are in antiphase." loading="lazy">
+  <figcaption>Energy swaps between kinetic and potential, with the total constant when there is no damping.</figcaption>
 </figure>
 
 
@@ -176,6 +187,11 @@ Notice that radius appears in the denominator in the first form but in the numer
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/a-physics-motion-in-a-circle--04-vertical-circle.webp" width="900" height="810" alt="A 0.50 kg ball on a 0.80 m string. At the top (4.0 m/s) tension 5.1 N and weight 4.9 N both point down; at the bottom (6.9 m/s) tension 34.5 N points up and weight 4.9 N down, arrows to scale. The bottom tension exceeds the top by 6mg = 29.4 N, and the minimum speed at the top (T = 0) is sqrt(gr) = 2.8 m/s." loading="lazy">
   <figcaption>Tension is least at the top and greatest at the bottom, differing by 6mg for a freely moving ball.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-motion-in-a-circle--09-moment-of-inertia.webp" width="900" height="1050" alt="Three beads of 0.20, 0.50 and 0.10 kg at 0.10, 0.30 and 0.60 m from an axis contribute mr^2 of 0.0020, 0.045 and 0.036 kg m^2, giving I = 0.083 kg m^2 and a kinetic energy of 1.5 J at 6.0 rad/s. A 3.0 kg 1.2 m rod has I = 0.36 kg m^2 about its centre and 1.44 kg m^2 about an end." loading="lazy">
+  <figcaption>I = Σmr² grows with the square of each mass’s distance from the axis, so the same object is harder to spin about its end.</figcaption>
 </figure>
 
 

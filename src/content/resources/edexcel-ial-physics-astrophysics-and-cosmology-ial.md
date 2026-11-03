@@ -121,6 +121,11 @@ supernovae — where measured intensity and known luminosity give distance
 via the inverse-square relationship above.
 
 <figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-astronomy-and-cosmology--01-aphy-astro-parallax.webp" width="900" height="1000" alt="Earth at opposite ends of its orbit sees a nearby star shift against far more distant stars. The parallax angle p is the angle at the star subtended by 1 AU. For p in arcseconds, d in parsecs is 1/p; 0.0625 arcsec gives 16.0 pc or 52.3 ly. The drawing is not to scale." loading="lazy">
+  <figcaption>Parallax angle p subtends 1 AU at the star, so d (pc) = 1/p (arcsec).</figcaption>
+</figure>
+
+<figure class="topic-figure">
   <img src="https://img.marlbridge.com/a-physics-astronomy-and-cosmology--02-aphy-astro-inverse-square.webp" width="900" height="1130" alt="A star emits light in a widening cone. At 2d the same light covers 4 times the area and at 3d 9 times, so the flux falls to F/4 and F/9. A standard candle has known L, so measuring F gives d; the worked example gives 5.6e18 m." loading="lazy">
   <figcaption>Flux falls as 1/d^2, so a standard candle of known luminosity gives its distance.</figcaption>
 </figure>
@@ -140,11 +145,6 @@ of stars** — a star's position on the diagram, and how it moves across it
 over time, reflects its stage of nuclear fusion and eventual fate
 (depending on initial mass, this may include red giant, white dwarf,
 supernova, neutron star or black hole stages).
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-physics-astronomy-and-cosmology--01-aphy-astro-parallax.webp" width="900" height="1000" alt="Earth at opposite ends of its orbit sees a nearby star shift against far more distant stars. The parallax angle p is the angle at the star subtended by 1 AU. For p in arcseconds, d in parsecs is 1/p; 0.0625 arcsec gives 16.0 pc or 52.3 ly. The drawing is not to scale." loading="lazy">
-  <figcaption>Parallax angle p subtends 1 AU at the star, so d (pc) = 1/p (arcsec).</figcaption>
-</figure>
 
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/a-physics-astronomy-and-cosmology--04-aphy-astro-hr-diagram.webp" width="900" height="1010" alt="Log-log plot of luminosity against surface temperature with spectral classes O to M across the top. Main sequence runs top left to bottom right; giants, supergiants and white dwarfs are marked, with the Sun. Dashed lines of constant radius come from L = 4 pi r^2 sigma T^4." loading="lazy">
@@ -190,6 +190,11 @@ wavelength at which it emits most strongly, using Wien's law.
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/a-physics-astronomy-and-cosmology--06-aphy-astro-redshift.webp" width="900" height="980" alt="Hydrogen absorption lines at 434.0, 486.1 and 656.3 nm in the laboratory are shifted to 442.7, 495.8 and 669.4 nm in a distant galaxy, all by the same fraction z = 0.020. z = delta lambda / lambda = v/c gives a recession speed of about 6.0e6 m/s." loading="lazy">
   <figcaption>Spectral lines of a receding galaxy shift to longer wavelength by z = v/c.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-astronomy-and-cosmology--07-aphy-astro-hubble.webp" width="900" height="1140" alt="Speed against distance is a straight line through the origin with gradient H0 = 70 km/s/Mpc, including the worked example 85.5 Mpc at 5990 km/s. Farther galaxies recede proportionally faster. H0 = 2.3e-18 per second, so age is about 1/H0 = 4.4e17 s or 1.4e10 years." loading="lazy">
+  <figcaption>Recession speed is proportional to distance (v = H0 d), and 1/H0 estimates the age of the universe.</figcaption>
 </figure>
 
 

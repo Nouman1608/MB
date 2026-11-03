@@ -59,12 +59,6 @@ Two facts to keep in mind: all three HL papers require technology, and HL papers
 - **Zero vector** 0; **−v** has the same length as v and the opposite direction.
 - **Resultant:** the sum of two or more vectors.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ib-dp-mathematics-ai-hl-trigonometry-matrix-transformations-vectors--09-scalar-vector-product.webp" width="900" height="972" alt="Vectors a and b drawn in their own plane at 76.5 degrees (1.34 rad). The parallelogram on a and b has area |a x b| = root 278 = 16.7, the triangle 8.34. The component of a along b is 0.873 and perpendicular to b is 3.64. a x b = (-14,-1,9) points into the page." loading="lazy">
-  <figcaption>The scalar product gives the angle and the component along b; the size of the vector product gives the area.</figcaption>
-</figure>
-
-
 ## Formula table
 
 | Topic | Result |
@@ -105,6 +99,12 @@ Rows separated by semicolons.
 | Rotation θ anticlockwise about O | (cos θ −sin θ; sin θ cos θ) | 1 |
 
 Quick check: the columns of a matrix are the images of (1, 0) and (0, 1).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-ai-hl-trigonometry-matrix-transformations-vectors--06-matrix-columns-determinant.webp" width="900" height="1141" alt="The unit square under M = (0 -1; 2 0): i goes to (0,2) and j goes to (-1,0), the columns of M. The image rectangle has area 2, equal to det M, compared with area 1." loading="lazy">
+  <figcaption>The columns of a matrix are the images of i and j, and |det| is the area scale factor.</figcaption>
+</figure>
+
 
 ## Method in steps
 
@@ -152,6 +152,11 @@ Quick check: the columns of a matrix are the images of (1, 0) and (0, 1).
   <figcaption>Graph both sides in radian mode and read the intersections on the given interval.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-ai-hl-trigonometry-matrix-transformations-vectors--08-variable-velocity-ball.webp" width="900" height="791" alt="The path of a ball starting at (0,2) with v = (12, 15 - 9.8t). Integrating gives x = 12t and y = 2 + 15t - 4.9t^2. It peaks near 13.5 m at 1.53 s and lands at t = 3.19 s, x = 38.3 m." loading="lazy">
+  <figcaption>Integrate each velocity component and use the start position to find the constants.</figcaption>
+</figure>
+
 
 ## Small worked reminders
 
@@ -173,12 +178,6 @@ Quick check: the columns of a matrix are the images of (1, 0) and (0, 1).
 - **Unit vector vs normalised velocity.** A unit vector has length 1; a velocity of speed s is s times that unit vector.
 - **Matrix part vs translation.** Only the matrix changes area. Translations never do.
 - **det negative vs positive.** Negative means a reflection is involved. Area still uses |det|.
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ib-dp-mathematics-ai-hl-trigonometry-matrix-transformations-vectors--06-matrix-columns-determinant.webp" width="900" height="1141" alt="The unit square under M = (0 -1; 2 0): i goes to (0,2) and j goes to (-1,0), the columns of M. The image rectangle has area 2, equal to det M, compared with area 1." loading="lazy">
-  <figcaption>The columns of a matrix are the images of i and j, and |det| is the area scale factor.</figcaption>
-</figure>
-
 
 ## Quick self-test
 
@@ -223,6 +222,11 @@ Quick check: the columns of a matrix are the images of (1, 0) and (0, 1).
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/ib-dp-mathematics-ai-hl-trigonometry-matrix-transformations-vectors--05-matrix-composition.webp" width="900" height="1175" alt="Triangle PQR with vertices (1,1), (4,1), (1,3) is rotated 90 degrees anticlockwise, then stretched vertically by 2. The single matrix is SR = (0 -1; 2 0) and the image vertices are (-1,2), (-1,8), (-3,2). Area goes from 3 to 6." loading="lazy">
   <figcaption>When A is applied first and then B, the single matrix is BA.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-ai-hl-trigonometry-matrix-transformations-vectors--09-scalar-vector-product.webp" width="900" height="972" alt="Vectors a and b drawn in their own plane at 76.5 degrees (1.34 rad). The parallelogram on a and b has area |a x b| = root 278 = 16.7, the triangle 8.34. The component of a along b is 0.873 and perpendicular to b is 3.64. a x b = (-14,-1,9) points into the page." loading="lazy">
+  <figcaption>The scalar product gives the angle and the component along b; the size of the vector product gives the area.</figcaption>
 </figure>
 
 

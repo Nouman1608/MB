@@ -128,6 +128,21 @@ When you are ready, test yourself with the [probability and distributions practi
   <figcaption>On the second branch the denominator drops from 8 to 7 without replacement.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-aa-probability-distributions--06-imath-aa-prob-normal.webp" width="900" height="1000" alt="Two curves for N(50, 4²). Area between 45 and 58 is 0.872 (z = −1.25 and 2). Area to the left of a is 0.9, giving a = 55.1." loading="lazy">
+  <figcaption>Shade the region first; normal cdf finds an area and inverse normal finds the value.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-aa-probability-distributions--07-imath-aa-prob-normal-unknowns.webp" width="900" height="1150" alt="Two examples: P(X &gt; 130) = 0.2 for N(120, σ²) gives z = 0.8416 and σ = 11.9. P(X &lt; 30) = 0.1 and P(X &gt; 60) = 0.05 give z = −1.2816 and 1.6449, so σ = 10.3 and μ = 43.1." loading="lazy">
+  <figcaption>Turn each area into a z-value, then solve for the unknown mean or standard deviation.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-aa-probability-distributions--08-imath-aa-prob-bayes.webp" width="900" height="1140" alt="Proportional bars: of 10 000 people 200 have a condition; 190 of them and 784 of the others test positive, so P(D|+) = 190/974 = 0.195. Machines A, B, C make 50%, 30%, 20% of output with fault rates 2%, 3%, 5%, giving 0.010, 0.009, 0.010 and P(A|faulty) = 0.345." loading="lazy">
+  <figcaption>Bayes’ theorem compares one branch with the total of all branches that lead to the observed result.</figcaption>
+</figure>
+
 
 ## Small worked reminders
 
@@ -147,17 +162,6 @@ When you are ready, test yourself with the [probability and distributions practi
 - **σ vs σ².** N(μ, σ²) gives the variance; the GDC asks for σ.
 - **Normal cdf vs inverse normal.** Given a value, find a probability with cdf. Given a probability, find a value with inverse normal.
 - **Mode vs median of a pdf (HL).** Mode is the highest point of f; median splits the area in half.
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ib-dp-mathematics-aa-probability-distributions--06-imath-aa-prob-normal.webp" width="900" height="1000" alt="Two curves for N(50, 4²). Area between 45 and 58 is 0.872 (z = −1.25 and 2). Area to the left of a is 0.9, giving a = 55.1." loading="lazy">
-  <figcaption>Shade the region first; normal cdf finds an area and inverse normal finds the value.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ib-dp-mathematics-aa-probability-distributions--09-imath-aa-prob-continuous.webp" width="900" height="950" alt="Graph of f(x) = x²/9 on 0 to 3 with total area 1. The median 3/2^(1/3) ≈ 2.38 splits the area into two halves, the mean is 9/4, the mode is 3 and Var(X) = 27/80." loading="lazy">
-  <figcaption>The median splits the area in half; mean, median and mode differ for a skewed pdf.</figcaption>
-</figure>
-
 
 ## Quick self-test
 
@@ -189,6 +193,12 @@ When you are ready, test yourself with the [probability and distributions practi
 11. P(A) = 0.2 + 0.12 = 0.32, so P(B | A) = 0.2/0.32 = 0.625
 12. E(2X + 1) = 9, Var(2X + 1) = 4 × 3 = 12
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-aa-probability-distributions--09-imath-aa-prob-continuous.webp" width="900" height="950" alt="Graph of f(x) = x²/9 on 0 to 3 with total area 1. The median 3/2^(1/3) ≈ 2.38 splits the area into two halves, the mean is 9/4, the mode is 3 and Var(X) = 27/80." loading="lazy">
+  <figcaption>The median splits the area in half; mean, median and mode differ for a skewed pdf.</figcaption>
+</figure>
+
+
 ## Where marks are usually lost
 
 - Adding P(A) and P(B) for "A or B" without subtracting P(A ∩ B).
@@ -201,6 +211,11 @@ When you are ready, test yourself with the [probability and distributions practi
 - Using the right-tail area in inverse normal when the calculator expects the left-tail area.
 - Rounding z or σ to 3 s.f. before finding μ, which shifts the final answer.
 - (HL) Writing Var(aX + b) = a Var(X) + b, or taking the mode of a pdf as a stationary point when the maximum is at an endpoint.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-aa-probability-distributions--02-imath-aa-prob-venn.webp" width="900" height="916" alt="A Venn diagram with circle areas drawn in proportion to P(A) = 0.45 and P(B) = 0.30, overlap 0.12. Regions are 0.33, 0.12, 0.18 and 0.37 outside. P(A or B) = 0.63, P(A|B) = 0.4, and P(A)P(B) = 0.135 is not 0.12 so A and B are not independent." loading="lazy">
+  <figcaption>The overlap is counted once in P(A ∪ B), and comparing P(A)P(B) with P(A ∩ B) tests independence.</figcaption>
+</figure>
 
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/ib-dp-mathematics-aa-probability-distributions--04-imath-aa-prob-discrete.webp" width="900" height="900" alt="Bar chart of P(X = x) = (x + 2)/18 for x = 1 to 4. Bars for 3 and 4 give P(X at least 3) = 11/18. A triangle marks E(X) = 25/9 as the balance point. HL note: Var(X) = 95/81." loading="lazy">

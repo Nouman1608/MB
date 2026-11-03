@@ -51,6 +51,12 @@ The guide sets this at AO3 depth. Your answers should weigh strengths and limita
 | Nudge | A change in presentation that steers choice without banning or repricing |
 | Satisficing | Aiming for a satisfactory outcome, not the best possible |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-economics-critique-of-maximising-behaviour--04-un193-bounded-selfishness.webp" width="900" height="730" alt="An offer of 10 is rejected 80% of the time, giving the proposer an expected 10. An offer of 24 is accepted 95% of the time, giving an expected 34.2." loading="lazy">
+  <figcaption>Because responders care about fairness, the fair offer earns the proposer more.</figcaption>
+</figure>
+
+
 ## Biases: what each one breaks
 
 - **Rule of thumb** breaks full comparison of options. Quick and often fine.
@@ -172,6 +178,17 @@ End with a short conclusion that takes a side and says when it would change.
 10. CSR, market share, satisficing, growth.
 11. The 310 option (the first that meets the target).
 12. Effects may fade (or: ethical concerns, hard to measure).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-economics-critique-of-maximising-behaviour--02-un193-rational-bike-rides.webp" width="900" height="770" alt="Five rides are worth 9, 7, 5, 3 and 1 crowns against a fare of 4. The first three have net benefits of 5, 3 and 1, total 9 crowns, so the rational consumer takes 3 rides and stops." loading="lazy">
+  <figcaption>A rational consumer rides until the extra benefit falls below the fare, earning net benefit 9.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-economics-critique-of-maximising-behaviour--03-un193-bounded-self-control.webp" width="900" height="850" alt="The saver picks 100 now over 120 in 4 weeks, but picks 120 in 56 weeks over 100 in 52 weeks, although the delay and 20% gain are identical." loading="lazy">
+  <figcaption>The same 4-week wait and 20% gain gives opposite choices depending on whether the reward is immediate.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

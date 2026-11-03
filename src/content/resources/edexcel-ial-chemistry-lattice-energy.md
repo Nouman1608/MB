@@ -38,6 +38,12 @@ Once you have read it, shorten it into memory aids with the [lattice energy revi
 | 12.18 | Explain how ionic charge and ionic radius affect ΔhydH and lattice energy |
 | 12.19 | Predict solubility from entropy and enthalpy changes of solution; explain the Unit 2 solubility trends |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-chemical-energetics-lattice-energy-entropy-and-gibbs-free-energy--06-entropy-change-calc.webp" width="900" height="1070" alt="Bar chart: CaCO3(s) 92.9 J per K per mole against products CaO(s) 40.0 stacked with CO2(g) 213.6, total 253.6. The difference, +160.7, is the entropy change; most of it is the gas." loading="lazy">
+  <figcaption>ΔS = ΣS°(products) − ΣS°(reactants) = +160.7 J K-1 mol-1 for CaCO3 → CaO + CO2.</figcaption>
+</figure>
+
+
 ## 12.12 Three definitions to learn word for word
 
 All three refer to standard conditions: a pressure of 100 kPa, normally quoted at 298 K.
@@ -63,6 +69,12 @@ The second value is positive because the new electron approaches a particle that
 - Mg²⁺(g) + 2F⁻(g) → MgF₂(s)
 
 It cannot be measured directly, so it is found indirectly with a Born-Haber cycle.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-chemical-energetics-lattice-energy-entropy-and-gibbs-free-energy--05-what-raises-entropy.webp" width="900" height="1110" alt="Three panels. Particles in a solid sit in fixed places, in a liquid slide past each other, and in a gas move freely, so entropy rises. Heating makes particles move faster, raising entropy. A reaction that makes gas (CaCO3 decomposing) has positive entropy change, while one that uses up gas (ethene plus steam forming ethanol) has negative." loading="lazy">
+  <figcaption>Entropy rises from solid to liquid to gas, with temperature, and when a reaction produces more moles of gas.</figcaption>
+</figure>
+
 
 ## 12.13 Building and using Born-Haber cycles
 
@@ -226,6 +238,12 @@ Outcome 8.15 ([Groups 1 and 2](/resources/edexcel-ial-chemistry-the-elements-of-
 
 - **Sulfates.** SO₄²⁻ is a large ion. As the cation grows down the group, the distance between ion centres changes only a little in proportion, so lattice energy becomes only slightly less exothermic. Cation hydration becomes much less exothermic. ΔsolH becomes more endothermic, and solubility falls.
 - **Hydroxides.** OH⁻ is small, so a larger cation makes a big proportional change to the distance between ions. Lattice energy becomes less exothermic faster than hydration enthalpy does, so ΔsolH becomes more favourable and solubility rises.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-chemical-energetics-lattice-energy-entropy-and-gibbs-free-energy--09-total-entropy.webp" width="900" height="1070" alt="Grouped bars for CaCO3 decomposition at 298, 1079 and 1500 K. System entropy change is +165 each time; surroundings entropy change is -ΔH/T: -597, -165, -119. Total is -432 (not feasible), about 0 (borderline) and +46 (feasible)." loading="lazy">
+  <figcaption>For Edexcel, a reaction is feasible when ΔS(total) = ΔS(system) + ΔS(surroundings) is positive, with ΔS(surroundings) = −ΔH/T.</figcaption>
+</figure>
+
 
 ## Common errors
 

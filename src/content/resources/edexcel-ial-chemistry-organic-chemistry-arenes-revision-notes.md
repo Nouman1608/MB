@@ -130,6 +130,12 @@ You can draw benzene as the Kekulé hexagon or as a hexagon with a circle, as ap
 - Fuming sulfuric acid supplies SO₃; it is not the same as concentrated sulfuric acid.
 - AlCl₃ must be anhydrous: water reacts with it and the catalyst is lost.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-aromatic-chemistry--04-nitration-mechanism.webp" width="900" height="1260" alt="Four stages: HNO3 and H2SO4 make NO2+; a curly arrow from inside the ring to N; a horseshoe intermediate with + and the attacked carbon bearing H and NO2; a second arrow from the C-H bond restores the ring, giving nitrobenzene and H+." loading="lazy">
+  <figcaption>The ring attacks NO2+, forms a positive intermediate, then loses H+ to restore the ring. (All boards)</figcaption>
+</figure>
+
+
 ## 18.6 Phenol with bromine water
 
 - Conditions: room temperature, bromine water, no catalyst.
@@ -139,12 +145,6 @@ You can draw benzene as the Kekulé hexagon or as a hexagon with a circle, as ap
 - Reason: a lone pair on O, in a p-orbital, overlaps with the ring π-system and is partly delocalised into it. Ring electron density increases, so the ring polarises Br₂ itself.
 - Phenol is used to make resins and antiseptics.
 - Practical work uses methylbenzene or methoxybenzene in place of benzene, which is carcinogenic.
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-aromatic-chemistry--07-phenol-bromine.webp" width="900" height="960" alt="Benzene with bromine water gives no reaction, so the tube stays orange. Phenol decolourises bromine water at room temperature and gives a white precipitate of 2,4,6-tribromophenol; the oxygen lone pair feeds electron density into the ring." loading="lazy">
-  <figcaption>Phenol, unlike benzene, decolourises bromine water at room temperature to give a white precipitate. (Edexcel and OCR)</figcaption>
-</figure>
-
 
 ## Quick self-test
 
@@ -175,6 +175,22 @@ You can draw benzene as the Kekulé hexagon or as a hexagon with a circle, as ap
 10. n = 6.24 ÷ 78.0 = 0.0800 mol; Mr(C₆H₅Br) = 156.9; mass = **12.6 g**.
 11. The attacked carbon is no longer part of the delocalised system, so the full delocalisation of six π-electrons over six carbons is lost.
 12. 72.0 ÷ 78.0 × 100 = **92.3%**; the high carbon content leads to incomplete combustion and a smoky flame.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-aromatic-chemistry--07-phenol-bromine.webp" width="900" height="960" alt="Benzene with bromine water gives no reaction, so the tube stays orange. Phenol decolourises bromine water at room temperature and gives a white precipitate of 2,4,6-tribromophenol; the oxygen lone pair feeds electron density into the ring." loading="lazy">
+  <figcaption>Phenol, unlike benzene, decolourises bromine water at room temperature to give a white precipitate. (Edexcel and OCR)</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-aromatic-chemistry--08-chlorine-uv.webp" width="900" height="1190" alt="With UV light, benzene adds chlorine to the ring to give C6H6Cl6, losing delocalisation, while methylbenzene is substituted in the CH3 side chain and the ring stays. Further substitution raises Mr from 92.0 to 126.5, 161.0 and 195.5." loading="lazy">
+  <figcaption>UV chlorine adds to the benzene ring but substitutes only the side chain of methylbenzene. (OxfordAQA only)</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-aromatic-chemistry--09-synthesis-route.webp" width="900" height="1120" alt="Seven structures joined by six arrows: benzene, nitrobenzene, phenylamine, benzenediazonium chloride, phenol, 4-nitrophenol and 4-nitrophenyl ethanoate, each arrow labelled with reaction type and reagents. Step 5 also gives 2-nitrophenol as a by-product." loading="lazy">
+  <figcaption>Six reactions turn benzene into 4-nitrophenyl ethanoate. (Cambridge only)</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

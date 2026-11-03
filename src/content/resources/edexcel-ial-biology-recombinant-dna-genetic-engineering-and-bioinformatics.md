@@ -89,6 +89,16 @@ A vector of 4,200 bp is cut once with EcoRI, and a gene fragment of 1,350 bp wit
   <figcaption>Restriction cutting keeps introns, whereas cDNA and machine-made genes have none.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-genetic-technology--05-pcr-cycle.webp" width="900" height="1230" alt="A temperature trace shows 95 C, about 60 C and 72 C plateaus. Three panels show one cycle: heat separates the strands, primers anneal to the 3 prime end of each template, and Taq polymerase extends each primer 5 prime to 3 prime. A bar chart shows copies doubling each cycle, from 4 to 256 in 6 cycles." loading="lazy">
+  <figcaption>Each PCR cycle denatures, anneals and extends, doubling the number of DNA molecules.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-genetic-technology--08-sanger-sequencing.webp" width="900" height="1061" alt="The template is copied by DNA polymerase. Strands of every length from 1 to 12 stop at a labelled dideoxynucleotide that lacks a 3 prime OH. Reading the last base from shortest to longest gives G A T T C G C T A A G C, the new strand 5 prime to 3 prime, complementary to the template." loading="lazy">
+  <figcaption>Chain-terminating nucleotides give fragments of every length, and the last bases read shortest to longest spell the new strand.</figcaption>
+</figure>
+
 
 ## Inserting recombinant DNA into cells (8.19)
 
@@ -114,18 +124,17 @@ A plasmid carries genes for resistance to ampicillin and to tetracycline. A gene
 3. Recombinant colonies: 164 − 31 = 133.
 4. Percentage recombinant: 133 ÷ 164 × 100 = 81.1%.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-level-biology-9700-genetic-technology--03-selecting-transformed-bacteria.webp" width="900" height="1010" alt="Two plates have the same colony positions. On nutrient agar 312 colonies grow; on agar with antibiotic only 41 grow, the ones that took up the plasmid with the resistance marker. 41/312 is 13.1 percent. GFP is the alternative marker, glowing under UV." loading="lazy">
-  <figcaption>Only bacteria carrying the plasmid survive on antibiotic agar, so 41 of 312 colonies (13.1%) were transformed.</figcaption>
-</figure>
-
-
 ### Worked example: transformation efficiency
 
 A tube receives 0.02 µg of plasmid DNA. After recovery the cells are in 1.0 cm³ of broth, and 0.1 cm³ is spread on a plate that grows 85 colonies.
 
 1. Colonies in the whole 1.0 cm³: 85 × 10 = 850.
 2. Efficiency: 850 ÷ 0.02 = 42,500 transformed colonies per µg of DNA.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-genetic-technology--03-selecting-transformed-bacteria.webp" width="900" height="1010" alt="Two plates have the same colony positions. On nutrient agar 312 colonies grow; on agar with antibiotic only 41 grow, the ones that took up the plasmid with the resistance marker. 41/312 is 13.1 percent. GFP is the alternative marker, glowing under UV." loading="lazy">
+  <figcaption>Only bacteria carrying the plasmid survive on antibiotic agar, so 41 of 312 colonies (13.1%) were transformed.</figcaption>
+</figure>
 
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/a-level-biology-9700-genetic-technology--09-scnt-cloning.webp" width="900" height="1300" alt="A body cell nucleus is moved into a donor egg whose own nucleus has been removed, using an electric pulse. The egg divides to an early embryo that is implanted in a surrogate mother. The clone has the nuclear DNA of the body-cell donor. In a trial 150 eggs gave 60 embryos, 12 pregnancies, 5 births and 3 survivors, 2 percent." loading="lazy">

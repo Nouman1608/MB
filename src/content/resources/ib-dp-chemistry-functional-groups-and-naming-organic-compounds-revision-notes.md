@@ -186,6 +186,11 @@ So (CH₃)₃CNH₂, 2-methylpropan-2-amine, is a **primary** amine, even though
 </figure>
 
 <figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-functional-groups-and-naming-organic-compounds--07-primary-secondary-tertiary.webp" width="900" height="1050" alt="Three alcohols classified by counting the carbons bonded to the C-OH carbon (1, 2, 3), and two amines classified by counting the carbons bonded to nitrogen (butan-2-amine primary, N,N-dimethylethanamine tertiary)." loading="lazy">
+  <figcaption>Alcohols are classified by the carbon bearing the OH, amines by the nitrogen.</figcaption>
+</figure>
+
+<figure class="topic-figure">
   <img src="https://img.marlbridge.com/ib-dp-chemistry-functional-groups-and-naming-organic-compounds--08-dibromobenzene-hl.webp" width="900" height="1000" alt="Higher Level only. A benzene ring with alternating single and double bonds would give two different 1,2-dibromobenzenes (C=C or C-C between the bromine carbons); only one exists, so all six ring bonds are equal." loading="lazy">
   <figcaption>Only one 1,2-dibromobenzene exists, which supports equal, delocalised bonds in benzene.</figcaption>
 </figure>
@@ -228,12 +233,6 @@ So (CH₃)₃CNH₂, 2-methylpropan-2-amine, is a **primary** amine, even though
 9. **Functional group isomerism** (carboxylic acid and ester, both C₃H₆O₂).
 10. **Butan-1-ol**: its –OH groups form hydrogen bonds between molecules; the ether cannot hydrogen bond to itself, so its molecules separate more easily.
 11. The branched molecule is more compact, so there is less surface contact and the London forces between molecules are weaker.
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ib-dp-chemistry-functional-groups-and-naming-organic-compounds--07-primary-secondary-tertiary.webp" width="900" height="1050" alt="Three alcohols classified by counting the carbons bonded to the C-OH carbon (1, 2, 3), and two amines classified by counting the carbons bonded to nitrogen (butan-2-amine primary, N,N-dimethylethanamine tertiary)." loading="lazy">
-  <figcaption>Alcohols are classified by the carbon bearing the OH, amines by the nitrogen.</figcaption>
-</figure>
-
 
 ## Where marks are usually lost
 

@@ -39,6 +39,12 @@ Then test yourself with the [practice set](/resources/ib-dp-biology-cell-structu
 | Atypical cell | One whose number of nuclei differs from the usual one |
 | Differentiation (HL only) | Cells becoming specialized through different gene expression |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-cell-structure-and-microscopy-prokaryotes-eukaryotes--09-differentiation-hl.webp" width="900" height="960" alt="Every cell holds the same genes, shown as a row of eight. Chemical signals from neighbouring cells lead to different patterns of gene expression, so a muscle cell and a nerve cell have different genes switched on and off, but neither loses any gene." loading="lazy">
+  <figcaption>Differentiation is a different pattern of gene expression, not loss of genes.</figcaption>
+</figure>
+
+
 ## Calculations
 
 | To find | Use | Units |

@@ -134,6 +134,11 @@ reactant ones, then state what happens to Kp. For an exothermic forward reaction
 moves left, product partial pressures fall, Kp decreases.
 
 <figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-chemical-equilibria-le-chateliers-principle-and-kc--01-dynamic-equilibrium.webp" width="900" height="1010" alt="Two graphs of a reversible reaction A to B. Concentrations of A and B level off at constant but unequal values. The forward rate falls and the reverse rate rises until they are equal, which marks equilibrium." loading="lazy">
+  <figcaption>At equilibrium the forward and reverse rates are equal and concentrations are constant, not equal.</figcaption>
+</figure>
+
+<figure class="topic-figure">
   <img src="https://img.marlbridge.com/aqa-a-level-chemistry-chemical-equilibria-le-chateliers-principle-and-kc--02-pressure-shift.webp" width="900" height="1030" alt="Two syringes hold the same gas particles at low and high pressure. Molecule models of 2SO2 + O2 and 2SO3 show 3 gas molecules on the left and 2 on the right, so higher pressure shifts right." loading="lazy">
   <figcaption>Higher pressure shifts the equilibrium towards the side with fewer gas molecules.</figcaption>
 </figure>
@@ -146,6 +151,11 @@ moves left, product partial pressures fall, Kp decreases.
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/aqa-a-level-chemistry-chemical-equilibria-le-chateliers-principle-and-kc--04-catalyst.webp" width="900" height="1000" alt="Product against time with and without a catalyst: the catalysed curve rises faster but both level at the same equilibrium amount. An energy profile shows the same start and end levels but a lower peak with the catalyst." loading="lazy">
   <figcaption>A catalyst makes equilibrium arrive sooner but leaves the position and K unchanged.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-chemical-equilibria-le-chateliers-principle-and-kc--05-haber-compromise.webp" width="900" height="900" alt="Percentage of ammonia at equilibrium falls as temperature rises and increases with pressure (10, 100, 200 atm). A bar shows rate rising with temperature, so a moderate temperature and high pressure are chosen. The catalyst only speeds up the approach." loading="lazy">
+  <figcaption>A moderate temperature and high pressure balance yield, rate and cost; the catalyst does not raise yield.</figcaption>
 </figure>
 
 

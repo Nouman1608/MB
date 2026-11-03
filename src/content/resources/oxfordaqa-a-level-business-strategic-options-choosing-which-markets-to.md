@@ -101,6 +101,12 @@ Gearing                 = 6 ÷ 20 × 100 = 30%
 
 **Judgement:** the data points towards selling existing products in new countries. The limits: SWOT is a snapshot, the factors are not weighted, and the export opportunity depends on prices, tariffs and distribution that this data does not show.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-business-types-of-strategies--02-unit-cost-capacity.webp" width="900" height="840" alt="Unit cost curves for one furnace and two furnaces with points A (1.8m bottles, 90% used, 0.60), B (3.2m, 80%, 0.54) and C (2.4m, 60%, 0.635). Growth lowers unit cost only if the new capacity is used." loading="lazy">
+  <figcaption>Unit cost falls with the second furnace only while capacity is well used.</figcaption>
+</figure>
+
+
 ## 4. The link between strategy and functional decisions
 
 Strategy sits between corporate objectives and the work of each function:
@@ -147,6 +153,12 @@ Risk generally rises as a business moves away from what it knows: market penetra
 - Limits: the business has neither product nor market knowledge; it often needs new skills, assets and finance, so failure rates are high.
 
 The matrix shows options and relative risk but does not say which to choose. That depends on objectives, resources, the SWOT position and the expected return.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-business-types-of-strategies--04-price-war.webp" width="900" height="1020" alt="Profit bars for the low cost and differentiated e-bike options before and after a price war: 460,000 to 190,000 (down 58.7%) against 420,000 to 346,500 (down 17.5%)." loading="lazy">
+  <figcaption>A low contribution per bike leaves the low cost option far more exposed to price cuts.</figcaption>
+</figure>
+
 
 ### Worked example: Orrisdale Cycles
 

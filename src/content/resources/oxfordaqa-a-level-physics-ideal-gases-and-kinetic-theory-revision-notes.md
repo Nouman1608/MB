@@ -38,6 +38,12 @@ Other links: the [course page](/boards/oxfordaqa/a-level/physics/), the [checkli
 - **Root mean square speed c_rms:** the square root of the mean of the squared speeds.
 - **Internal energy of an ideal gas:** the total kinetic energy of its atoms, with no potential energy.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-ideal-gases--07-maxwell-boltzmann.webp" width="900" height="1150" alt="Speed distribution curves for helium at 300 K and 1200 K, computed from the Maxwell-Boltzmann formula. Both start at zero, rise to a peak and have a long tail to high speeds. At 1200 K the peak is lower and further right, with equal area. The r.m.s. speed is 1370 m/s at 300 K and 2740 m/s at 1200 K: four times the kelvin temperature gives twice the r.m.s. speed." loading="lazy">
+  <figcaption>Molecular speeds are spread; a higher temperature shifts and flattens the distribution.</figcaption>
+</figure>
+
+
 ## Formulas
 
 | Quantity | Equation | Notes |
@@ -167,6 +173,21 @@ Visible smoke or pollen particles jitter randomly because unequal numbers of fas
 10. m = 0.0020 / 6.02 × 10²³ = 3.32 × 10⁻²⁷ kg. c_rms = √(3kT/m) = √(3 × 1.38 × 10⁻²³ × 273 / 3.32 × 10⁻²⁷) = **1.84 × 10³ m s⁻¹**.
 11. Air molecules, too small to see, strike a smoke particle at random and fast. The numbers hitting each side are unequal at any moment, so the net force changes in size and direction.
 12. They were found by experiment and describe how p, V and T behave. They do not explain why.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-ideal-gases--01-kelvin-celsius-scale.webp" width="900" height="1110" alt="A vertical scale from 0 K (absolute zero, -273.15 °C) through 77 K (nitrogen boils, -196 °C) and 273.16 K (triple point of water, 0.01 °C) to 293 K (a 20 °C room). T/K = θ/°C + 273.15, and a rise of 25 K equals a rise of 25 °C because the degrees are the same size." loading="lazy">
+  <figcaption>The kelvin and Celsius degrees are the same size; only the zero points differ.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-ideal-gases--02-heating-curve.webp" width="900" height="1210" alt="Temperature-time graph for 0.200 kg of ice at -15 °C heated at 150 W. 6300 J warms the ice to 0 °C, 66 800 J melts it at constant temperature, and 16 800 J warms the water to 20 °C; the total of 89 900 J takes about 600 s. Particle pictures show ice as a lattice, melting as a mixture and water as an irregular close arrangement." loading="lazy">
+  <figcaption>During melting the supplied energy increases potential energy, so the temperature stays constant.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-ideal-gases--06-kinetic-pressure.webp" width="900" height="1222" alt="A molecule rebounds elastically from the wall of a cube of side L, changing momentum by 2mv_x. The time between hits on that wall is 2L/v_x, so the force is mv_x²/L. For N molecules F = (Nm/L)&lt;v_x²&gt;; random motion gives &lt;c²&gt; = 3&lt;v_x²&gt;; dividing by area L² gives pV = 1/3 Nm&lt;c²&gt;. Comparing with pV = NkT gives 1/2 m&lt;c²&gt; = 3/2 kT. For nitrogen at 300 K the r.m.s. speed is 517 m/s." loading="lazy">
+  <figcaption>Pressure arises from the momentum change of molecules rebounding from the walls.</figcaption>
+</figure>
 
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/a-physics-ideal-gases--08-first-law.webp" width="900" height="1270" alt="Top: a gas absorbs 500 J of thermal energy and expands, doing 200 J of work on its surroundings, so W = -200 J and the internal energy rises by 300 J. Bottom: a piston does 340 J of work on a gas while 120 J leaves by heating, so internal energy rises by 220 J. Waterfall bars show q, W and ΔU. Cambridge only: isothermal ΔU = 0, adiabatic q = 0, isobaric constant pressure, isovolumetric W = 0." loading="lazy">

@@ -218,6 +218,11 @@ Boron melts at 2076 °C and nitrogen at −210 °C, a gap of 2286 °C. Boron is 
   <figcaption>Silicon melts by breaking covalent bonds; P4, S8, Cl2 and Ar melt by overcoming weak van der Waals forces that strengthen with electron count.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-periodicity--09-oxides-ph.webp" width="900" height="770" alt="A pH scale shows each oxide as a bar. Na2O (13 to 14) and MgO (9 to 10) are basic, Al2O3 is amphoteric and SiO2 acidic but both insoluble at pH 7, and P4O10 (0 to 1), SO2 (2 to 3) and SO3 (0 to 1) are acidic. Oxides change from basic to acidic across the period as bonding changes from ionic to molecular." loading="lazy">
+  <figcaption>A level only (AQA 3.2.4): across Period 3 the oxides go from basic (ionic) through amphoteric (Al2O3) to acidic (molecular).</figcaption>
+</figure>
+
 
 ## Common errors
 

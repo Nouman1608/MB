@@ -49,12 +49,6 @@ Muscle, then bundles of fibres, then one fibre, then myofibrils, then sarcomeres
 
 Under the optical microscope, skeletal muscle in longitudinal section shows parallel fibres, striations and several nuclei per fibre near the edge.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-level-biology-9700-control-and-coordination--08-sarcomere.webp" width="900" height="1170" alt="Two sarcomeres are drawn to the same scale (1 um = 280 px) with actin attached to Z lines and myosin in the middle. Relaxed, the sarcomere is 2.5 um: A band 1.6, I band 0.9 and H zone 0.5 um. Contracted, it is 2.0 um (20 percent shorter): I band 0.4 um, H zone gone, but the A band stays 1.6 um because the filaments slide rather than shorten." loading="lazy">
-  <figcaption>Sarcomere shortening drawn to scale: the I band and H zone shrink, the A band does not.</figcaption>
-</figure>
-
-
 ## Method: the cross-bridge cycle in order
 
 1. Nerve impulse, depolarisation of the sarcolemma, release of **calcium ions** from the sarcoplasmic reticulum.
@@ -188,6 +182,12 @@ After death, ATP is no longer made. Calcium ions stay in the sarcoplasm and cros
 8. 200 − 90 = 110; 110 ÷ 200 × 100 = **55%** slow twitch.
 9. Any two: many mitochondria, much myoglobin, rich capillary supply, resistance to fatigue.
 10. A muscle can only pull when it contracts, so a second muscle must pull the bone back the other way.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-control-and-coordination--08-sarcomere.webp" width="900" height="1170" alt="Two sarcomeres are drawn to the same scale (1 um = 280 px) with actin attached to Z lines and myosin in the middle. Relaxed, the sarcomere is 2.5 um: A band 1.6, I band 0.9 and H zone 0.5 um. Contracted, it is 2.0 um (20 percent shorter): I band 0.4 um, H zone gone, but the A band stays 1.6 um because the filaments slide rather than shorten." loading="lazy">
+  <figcaption>Sarcomere shortening drawn to scale: the I band and H zone shrink, the A band does not.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

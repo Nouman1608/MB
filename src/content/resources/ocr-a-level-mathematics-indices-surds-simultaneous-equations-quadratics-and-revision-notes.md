@@ -91,11 +91,6 @@ Reminder: y = x + 1 and y = x² − 5 give x² − x − 6 = 0, so (−2, −1) 
 Graphically, the solutions are the intersection points. The number of solutions comes from the discriminant of the combined quadratic.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-rational-indices-and-surds--03-hidden-quadratic.webp" width="900" height="1030" alt="Graph of 3^(2x) - 12 times 3^x + 27 crossing the x-axis at x = 1 and x = 2, with its lowest point -9. Below it, the substitution y = 3^x gives y = 3 or 9, and converting back gives x = 1 or 2." loading="lazy">
-  <figcaption>Substitute y = 3^x, solve the quadratic, then convert back to x.</figcaption>
-</figure>
-
-<figure class="topic-figure">
   <img src="https://img.marlbridge.com/aqa-a-level-mathematics-rational-indices-and-surds--09-line-meets-curve.webp" width="900" height="980" alt="Parabola y = x squared - 4x + 10 with three parallel lines y = 2x + k. k = 3 cuts it twice (x = 3 plus or minus root 2), k = 1 touches it at (3, 7) and k = -1 misses it. The discriminant 4k - 4 is positive, zero or negative." loading="lazy">
   <figcaption>The discriminant of the equation formed by equating a line and a curve tells you whether they cross, touch or miss.</figcaption>
 </figure>
@@ -150,6 +145,12 @@ Quadratics in a function of the unknown: spot the repeated pattern, substitute, 
 | fractions in (x + a) | u = 1/(x + a) | solve for u, then invert |
 
 Reject any value of u that cannot be a square or a root, such as √x = −2.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-rational-indices-and-surds--03-hidden-quadratic.webp" width="900" height="1030" alt="Graph of 3^(2x) - 12 times 3^x + 27 crossing the x-axis at x = 1 and x = 2, with its lowest point -9. Below it, the substitution y = 3^x gives y = 3 or 9, and converting back gives x = 1 or 2." loading="lazy">
+  <figcaption>Substitute y = 3^x, solve the quadratic, then convert back to x.</figcaption>
+</figure>
+
 
 ## 1.02g–h Inequalities and notation
 

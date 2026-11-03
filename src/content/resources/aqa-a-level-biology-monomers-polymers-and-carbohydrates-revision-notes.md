@@ -108,12 +108,6 @@ Ring: five carbons and one oxygen. Carbon 6 is outside the ring.
 - **Large:** cannot cross the membrane.
 - **Cellulose:** many hydrogen bonds between parallel chains give high tensile strength, so the wall resists the pressure from water entering by osmosis.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-level-biology-9700-carbohydrates-and-lipids--01-water-hydrogen-bonds.webp" width="900" height="860" alt="A central bent water molecule (H-O-H about 104.5 degrees) has a slightly negative oxygen and two slightly positive hydrogens. Dotted hydrogen bonds join each hydrogen to the oxygen of a neighbour below, and join a hydrogen of each of two neighbours above to the central oxygen, giving four hydrogen bonds. Solid lines are strong covalent bonds and dotted lines are weak hydrogen bonds." loading="lazy">
-  <figcaption>A polar water molecule can form up to four hydrogen bonds with its neighbours.</figcaption>
-</figure>
-
-
 ## Biochemical tests
 
 | Test | Reagent | Method | Positive | Negative |
@@ -231,6 +225,17 @@ Worked example of "explain": Cellulose has hydrogen bonds between chains (featur
 10. Benedict's solution only works in alkaline conditions, and the acid used for hydrolysis would stop it reacting.
 11. 4.2 ÷ 7.0 = 0.60.
 12. Straight chains held together by many hydrogen bonds, and microfibrils grouped into fibres.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-carbohydrates-and-lipids--01-water-hydrogen-bonds.webp" width="900" height="860" alt="A central bent water molecule (H-O-H about 104.5 degrees) has a slightly negative oxygen and two slightly positive hydrogens. Dotted hydrogen bonds join each hydrogen to the oxygen of a neighbour below, and join a hydrogen of each of two neighbours above to the central oxygen, giving four hydrogen bonds. Solid lines are strong covalent bonds and dotted lines are weak hydrogen bonds." loading="lazy">
+  <figcaption>A polar water molecule can form up to four hydrogen bonds with its neighbours.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-carbohydrates-and-lipids--02-water-solvent.webp" width="900" height="1080" alt="Water molecules surround a sodium ion with their slightly negative oxygen atoms facing it, and surround a chloride ion with their slightly positive hydrogens facing it. A glucose ring with OH groups hydrogen bonds to water and dissolves. A non-polar triglyceride droplet cannot, so the water molecules bond to each other around it." loading="lazy">
+  <figcaption>Water dissolves ions and polar molecules, but not non-polar triglycerides.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

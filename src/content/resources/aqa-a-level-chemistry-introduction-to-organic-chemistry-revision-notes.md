@@ -48,6 +48,12 @@ cover the whole specification, and the [free 10-minute diagnostics](/diagnostics
 | Structural isomers | Same molecular formula, different structural formula |
 | Stereoisomers | Same structural formula, different arrangement of atoms in space |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-organic-chemistry-naming-mechanisms-and-aromatic-shape--09-new-functional-groups.webp" width="900" height="1260" alt="Skeletal formulae of benzene, chlorobenzene, phenol, propanoyl chloride, propanamide, dimethylamine and 2-aminoethanoic acid with each new group highlighted." loading="lazy">
+  <figcaption>The functional groups first met at A Level (Cambridge).</figcaption>
+</figure>
+
+
 ## 3.3.1.1 Formulas and homologous series
 
 **Features of a homologous series**
@@ -134,6 +140,11 @@ carbons each.
   <figcaption>Homolytic fission gives radicals, heterolytic fission gives ions (AQA, Edexcel, OCR, OxfordAQA).</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-organic-chemistry-naming-mechanisms-and-aromatic-shape--03-radical-substitution.webp" width="900" height="1160" alt="Initiation by UV splits Cl2; two propagation steps form a repeating cycle (Cl radical to methyl radical and back) making HCl and CH3Cl; termination steps remove radicals." loading="lazy">
+  <figcaption>A chain reaction of initiation, propagation and termination (AQA, Edexcel, OCR, OxfordAQA).</figcaption>
+</figure>
+
 
 ## 3.3.1.3 Isomerism
 
@@ -218,6 +229,12 @@ opposite sides, it is the E isomer.
 10. From a lone pair of electrons, or from a covalent bond.
 11. Compounds with the same structural formula but a different arrangement of atoms in space.
 12. There is restricted rotation about the planar C=C, so groups on each carbon are fixed on one side.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-organic-chemistry-naming-mechanisms-and-aromatic-shape--05-cracking.webp" width="900" height="1070" alt="Dodecane is cracked, breaking two C-C bonds to give octane and two ethene molecules; conditions for thermal and catalytic cracking are shown (AQA)." loading="lazy">
+  <figcaption>Cracking breaks C-C bonds to make shorter alkanes and alkenes (AQA, Edexcel).</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

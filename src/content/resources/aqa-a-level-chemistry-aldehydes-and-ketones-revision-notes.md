@@ -184,12 +184,6 @@ Related pages: [alcohols](/resources/aqa-a-level-chemistry-alcohols-revision-not
 ketones) and [organic analysis](/resources/aqa-a-level-chemistry-organic-analysis-revision-notes/) (test order
 and IR).
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-aldehydes-and-ketones--02-carbonyl-tests.webp" width="900" height="1110" alt="Three rows of test tubes compare an aldehyde with a ketone. Tollens’ gives a silver mirror only with the aldehyde, Fehling’s a red precipitate on blue only with the aldehyde, and acidified dichromate(VI) turns orange to green only with the aldehyde." loading="lazy">
-  <figcaption>Aldehydes are oxidised by Tollens’, Fehling’s and dichromate; ketones are not (Fehling’s not on OCR; dichromate for OCR and Edexcel).</figcaption>
-</figure>
-
-
 ## Quick self-test
 
 1. Name the product when 2-methylpropanal is reduced by NaBH₄.
@@ -219,6 +213,16 @@ and IR).
 9. n(butanal) = 1.80 ÷ 72.0 = 0.0250 mol; mass = 0.0250 × 74.0 = **1.85 g**.
 10. No change: the solution stays blue (it is a ketone).
 11. HCN is toxic and volatile, so it is hard to handle; or HCN is a weak acid and supplies few CN⁻ ions.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-aldehydes-and-ketones--02-carbonyl-tests.webp" width="900" height="1110" alt="Three rows of test tubes compare an aldehyde with a ketone. Tollens’ gives a silver mirror only with the aldehyde, Fehling’s a red precipitate on blue only with the aldehyde, and acidified dichromate(VI) turns orange to green only with the aldehyde." loading="lazy">
+  <figcaption>Aldehydes are oxidised by Tollens’, Fehling’s and dichromate; ketones are not (Fehling’s not on OCR; dichromate for OCR and Edexcel).</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-aldehydes-and-ketones--03-silver-ratio.webp" width="900" height="1010" alt="RCHO is oxidised to RCOOH, releasing two electrons. Each electron reduces an Ag+ ion to Ag, so one mole of aldehyde gives two moles of silver. 1.16 g of propanal gives 0.0200 mol aldehyde, 0.0400 mol Ag and 4.32 g silver." loading="lazy">
+  <figcaption>One mole of aldehyde releases two electrons and so deposits two moles of silver.</figcaption>
+</figure>
 
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/aqa-a-level-chemistry-aldehydes-and-ketones--09-iodoform-test.webp" width="900" height="1100" alt="A yellow precipitate of CHI3 forms with iodine and sodium hydroxide. Five skeletal formulae have the CH3-C=O group shaded where present: ethanal, propanone and butanone are positive; propanal and pentan-3-one are negative." loading="lazy">

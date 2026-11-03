@@ -67,6 +67,11 @@ Reverse p.d.: I is about 0. Small forward p.d.: I is about 0. Then a steep rise.
 - A graph that goes through the origin is not enough to prove ohmic behaviour. It must also be a straight line.
 
 <figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-physics-resistance-i-v-characteristics-and-electronic--09-ohmic-test-data-plot.webp" width="900" height="890" alt="The five readings from worked example 3 lie on a straight line through the origin. V divided by I is 66.7, 69.0, 68.2, 67.8 and 67.6 ohms, so about 68 ohms every time." loading="lazy">
+  <figcaption>A constant V divided by I shows an ohmic resistor.</figcaption>
+</figure>
+
+<figure class="topic-figure">
   <img src="https://img.marlbridge.com/igcse-physics-0625-electricity-and-magnetism--04-iv-graphs.webp" width="900" height="1192" alt="Three I-V graphs: a fixed resistor gives a straight line through the origin; a filament lamp gives a curve that gets less steep because resistance rises; a diode carries no current in reverse and rises steeply forward after about 0.6 V." loading="lazy">
   <figcaption>The shape of each I-V graph tells you how the resistance behaves.</figcaption>
 </figure>
@@ -134,11 +139,6 @@ Use this order: shape, behaviour near the origin, behaviour at larger p.d., then
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/oxfordaqa-igcse-physics-resistance-i-v-characteristics-and-electronic--11-diode-resistance.webp" width="900" height="1050" alt="Log-scale bars of diode resistance: 5 kilohms at 0.50 V, 58 ohms at 0.70 V, 13 ohms at 0.80 V forward, and 5.0 megohms at 5.0 V reverse." loading="lazy">
   <figcaption>Diode resistance falls from kilohms to about ten ohms forward but is millions of ohms in reverse.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/oxfordaqa-igcse-physics-resistance-i-v-characteristics-and-electronic--09-ohmic-test-data-plot.webp" width="900" height="890" alt="The five readings from worked example 3 lie on a straight line through the origin. V divided by I is 66.7, 69.0, 68.2, 67.8 and 67.6 ohms, so about 68 ohms every time." loading="lazy">
-  <figcaption>A constant V divided by I shows an ohmic resistor.</figcaption>
 </figure>
 
 

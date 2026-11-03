@@ -126,6 +126,12 @@ More polarisation means more covalent character in an ionic bond.
 
 After a dative bond forms, all bonds of that type in the ion are identical (all four N–H in NH₄⁺; all three O–H in H₃O⁺).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-edexcel-chemistry-structure-bonding-organic-chemistry--08-intermolecular-forces.webp" width="900" height="1010" alt="Three panels from weakest to strongest. London forces: two electron clouds each shifted so one side is slightly negative and the other slightly positive, attracting across the gap. Permanent dipole-dipole: HCl molecules aligned so the hydrogen end of one attracts the chlorine end of the next. Hydrogen bond: H on oxygen attracted to a lone pair on a neighbouring oxygen, with O-H...O close to 180 degrees." loading="lazy">
+  <figcaption>London forces act between all molecules, dipole-dipole forces need a permanent dipole, and hydrogen bonds need H on N, O or F plus a lone pair.</figcaption>
+</figure>
+
+
 ### Giant lattices of carbon (3.12)
 
 | | Diamond | Graphite | Graphene |
@@ -193,12 +199,6 @@ Examples: SiCl₄ and BF₃ non-polar; PCl₃, CH₃Cl and H₂S polar.
 9. Each carbon uses three electrons in bonds; the fourth is delocalised and free to move along the layers.
 10. H–Cl. Difference 0.96 against 0.76 for H–Br.
 11. The C–Cl bonds are polar, but the molecule is tetrahedral and symmetrical, so the bond dipoles cancel.
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-level-edexcel-chemistry-structure-bonding-organic-chemistry--08-intermolecular-forces.webp" width="900" height="1010" alt="Three panels from weakest to strongest. London forces: two electron clouds each shifted so one side is slightly negative and the other slightly positive, attracting across the gap. Permanent dipole-dipole: HCl molecules aligned so the hydrogen end of one attracts the chlorine end of the next. Hydrogen bond: H on oxygen attracted to a lone pair on a neighbouring oxygen, with O-H...O close to 180 degrees." loading="lazy">
-  <figcaption>London forces act between all molecules, dipole-dipole forces need a permanent dipole, and hydrogen bonds need H on N, O or F plus a lone pair.</figcaption>
-</figure>
-
 
 ## Where marks are usually lost
 

@@ -75,6 +75,12 @@ Also useful: the [practice questions](/resources/oxfordaqa-a-level-business-huma
 
 **Training types:** induction (new starters), on the job (while working, cheap, relevant), off the job (away from work, wider skills, costlier). Benefit: productivity, quality, engagement. Risk: trained staff leave.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-business-human-resource-management--04-job-spec.webp" width="900" height="990" alt="Job analysis leads to a job description (the job: tasks, duties, responsibilities) and a person specification (the person: skills, qualifications, qualities), which is used to shortlist; advertising, interviewing and selection follow." loading="lazy">
+  <figcaption>The job description describes the job; the person specification describes the ideal person.</figcaption>
+</figure>
+
+
 ## 3.2.2.2 HR data -- formulas
 
 From the specification's Appendix: Formulae and Key data:
@@ -196,12 +202,6 @@ Profit per employee    = 2,000,000 ÷ 250 = £8,000
 - **Consultation v bargaining:** asking for views v negotiating an agreement.
 - **Bargaining v arbitration:** the two sides negotiate v an independent third party settles.
 - **Work to rule v overtime ban:** obeying every rule to slow work v refusing extra hours.
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-level-business-human-resource-management--04-job-spec.webp" width="900" height="990" alt="Job analysis leads to a job description (the job: tasks, duties, responsibilities) and a person specification (the person: skills, qualifications, qualities), which is used to shortlist; advertising, interviewing and selection follow." loading="lazy">
-  <figcaption>The job description describes the job; the person specification describes the ideal person.</figcaption>
-</figure>
-
 
 ## Quick self-test
 

@@ -161,6 +161,11 @@ Limits of GDP per head: an average that hides inequality, leaves out unpaid and 
   <figcaption>Points inside, on and beyond the PPC show how well resources are used.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-edexcel-economics-economic-growth--01-growth-rate-and-recession.webp" width="900" height="780" alt="Bar chart of quarterly real GDP growth: Q1 +0.5%, Q2 -0.3%, Q3 -0.6%. Q2 and Q3 are shaded as a recession because there are two consecutive quarters of negative growth, confirmed at the end of Q3. One negative quarter would not be a recession." loading="lazy">
+  <figcaption>Two consecutive quarters of negative growth make a recession, confirmed here at the end of Q3.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 

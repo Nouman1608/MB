@@ -236,12 +236,6 @@ Fluid resistance means the drag from a gas or a liquid. It opposes the velocity 
 - Uniform versus non-uniform: straight versus curved v-t line.
 - At terminal speed the acceleration is zero and the velocity is constant, but not because no force acts. There are two forces (weight and drag), and they cancel.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ib-dp-physics-kinematics--02-signs-in-vertical-motion.webp" width="900" height="1010" alt="The v-t graph of the thrown ball is one straight line from +9.9 to -9.9 m/s, gradient -9.81 m/s squared throughout, even at the top. Area above the axis is +5.0 m and below is -5.0 m, so total displacement is zero." loading="lazy">
-  <figcaption>With up positive the ball has a negative acceleration all the time, and signed areas give displacement.</figcaption>
-</figure>
-
-
 ## Quick self-test
 
 1. A runner completes one 400 m lap in 80 s. What are the average speed and the average velocity?
@@ -267,6 +261,12 @@ Fluid resistance means the drag from a gas or a liquid. It opposes the velocity 
 8. 8.0 m s⁻¹.
 9. The range is smaller.
 10. Drag rises with speed until it balances the weight. Net force and acceleration then drop to zero, so the speed stays constant.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-kinematics--02-signs-in-vertical-motion.webp" width="900" height="1010" alt="The v-t graph of the thrown ball is one straight line from +9.9 to -9.9 m/s, gradient -9.81 m/s squared throughout, even at the top. Area above the axis is +5.0 m and below is -5.0 m, so total displacement is zero." loading="lazy">
+  <figcaption>With up positive the ball has a negative acceleration all the time, and signed areas give displacement.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

@@ -171,6 +171,12 @@ Lower unit costs allow lower prices or higher margins, but growth needs investme
 
 Low utilisation means high fixed cost per unit; near 100% leaves no room for demand rises or maintenance. Change capacity by renting or buying premises, adding shifts, subcontracting or temporary staff; reduce it by closing sites or selling machinery. Manage it through demand forecasting, flexible contracts and planned maintenance.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-business-capacity-utilisation-and-outsourcing--08-capacity-utilisation-gauge.webp" width="900" height="760" alt="Ardmoor Kayaks at 72.5 percent (1,740 of 2,400) with an 85 percent target of 2,040 kayaks, and Oakshott Furniture at 112.5 percent (5,400 against 4,800), beyond the 100 percent line." loading="lazy">
+  <figcaption>Utilisation can sit below, or beyond, 100 percent of maximum output.</figcaption>
+</figure>
+
+
 ## Stock control
 **Stock control** is managing stock so the business neither runs out nor ties up cash. Holding stock protects against shortages but costs storage, insurance and cash, and risks waste.
 
@@ -198,12 +204,28 @@ Link to production method: job production needs stock for each order, flow needs
   <figcaption>EOQ is the order size that makes ordering plus holding cost lowest.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-business-business-operations--02-jit-vs-jic.webp" width="900" height="920" alt="Two stock graphs over 12 days with usage of 10 units a day. JIT holds 0-20 units and needs 6 deliveries; JIC holds a 40-unit buffer, stock 40-100, and needs 2 deliveries. JIC has higher storage cost but covers demand spikes." loading="lazy">
+  <figcaption>JIT cuts storage cost but needs frequent reliable deliveries; JIC holds buffer stock at a storage cost.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-business-inventory-management--02-inv-jit-impact.webp" width="900" height="922" alt="Materials arrive as needed and goods leave soon after being made. Possible benefits: less space and cash tied up, less waste, quick response, quality problems seen quickly. Drawbacks: late supplier stops production, lost discounts, more orders, hard to meet surges, staff training. Best with steady demand and close suppliers." loading="lazy">
+  <figcaption>JIT brings real savings but depends on reliable suppliers and predictable demand.</figcaption>
+</figure>
+
 
 ## Lean production
 **Lean production** minimises waste of materials, time, space and effort while keeping quality, to cut costs and respond to customers. Methods: JIT, kaizen (continuous improvement from small employee suggestions), cell production, time-based management. Impact: lower costs and faster delivery, but fragile supply and heavy reliance on staff commitment. Recommend JIT where suppliers are close and reliable; kaizen where staff are skilled and motivated.
 
 ## Technology
 Technology in operations includes computer-aided design and manufacture, robots, stock software and e-commerce. It raises productivity and consistency and lowers unit cost, but brings capital cost, job losses, retraining and system-failure risk.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-0264-technology-and-production-of-goods-and-services-and-related-topics--02-technology-gains-and-losses.webp" width="900" height="950" alt="Grid of advantages and disadvantages for businesses and for employees, with a note that one change can appear in both columns." loading="lazy">
+  <figcaption>Advantages and disadvantages of technology, kept separate for businesses and employees.</figcaption>
+</figure>
+
 
 ## Quality
 **Quality control** inspects output to find defects; **quality assurance** builds quality into the whole process to prevent them. Reasons: meet expectations, protect reputation, cut waste and returns.
@@ -217,6 +239,11 @@ Wastage rate (standard form) = units wasted / units input x 100. 150 of 3,000 sc
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/ocr-a-level-business-operational-strategy--06-wastage-rate.webp" width="900" height="1010" alt="A grid of 100 squares stands for 3,000 units, 30 units a square. Five red squares are the 150 scrapped units, so wastage rate is 150 / 3,000 x 100 = 5%." loading="lazy">
   <figcaption>Wastage rate is units wasted as a percentage of units input.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-business-business-operations--03-quality-control-assurance.webp" width="900" height="890" alt="Two three-stage production lines. Quality control: one check at the end finds defects after making. Quality assurance: a tick shield above each stage prevents defects during making." loading="lazy">
+  <figcaption>Quality control checks products after production; quality assurance builds checks into the process.</figcaption>
 </figure>
 
 
@@ -236,6 +263,22 @@ Services provide most UK employment and output and a large share of exports. Qua
 | Re-shoring | Bringing activities back home |
 
 Offshoring may cut labour cost but raises communication, quality and transport risk; re-shoring improves control but costs more.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-business-inventory-management--03-inv-supply-chain.webp" width="900" height="960" alt="Five links (supplier, maker, distributor, retailer, customer) with three flows: materials and goods forward, payments back, information both ways. Glenmere shares weekly sales so the supplier can prepare quantities." loading="lazy">
+  <figcaption>A supply chain carries materials, payments and information between linked businesses.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-business-location-and-scale--02-offshore-reshore-pushes.webp" width="900" height="930" alt="Arrows run both ways between home and overseas. Offshoring reasons: lower labour and land costs, skills, nearer markets, avoiding import taxes, incentives. Reshoring reasons: rising wages abroad, transport costs, quality failures, long lead times, supply disruption. Globalisation eases moves; protectionism and rising wages can push firms back." loading="lazy">
+  <figcaption>Firms move operations in both directions, for different reasons.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-business-business-in-the-real-world--04-location-factors.webp" width="900" height="960" alt="Two panels. A bakery sits near its customers with a thick arrow toward the market and a thin arrow toward distant raw materials. A steel plant sits near its raw materials with a thick arrow toward them and a thin arrow toward the market. Other factors are labour, transport links, rent and incentives." loading="lazy">
+  <figcaption>The dominant location factor differs by business: a bakery follows its market, a steel plant follows its raw materials.</figcaption>
+</figure>
+
 
 ## External influences on operations management
 Evaluate each in context: **social** (tastes, working patterns), **legal** (health and safety, employment), **ethical** (treatment of suppliers and workers), **environmental** (waste, energy), **economic** (exchange rates, demand), **political** (policy, trade rules), **technological** and **international** (global supply chains). Judge which matters most and how far the firm controls it.

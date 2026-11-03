@@ -48,6 +48,12 @@ Course pages: [Cambridge A Level Biology hub](/boards/cambridge/a-level/biology/
 | Activation energy | Energy that must be supplied before a reaction can start |
 | Specificity | Each enzyme catalyses one reaction (or a few very similar ones) because only a complementary substrate fits its active site |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-factors-that-affect-enzyme-action--07-inhibitor-types.webp" width="900" height="1060" alt="Three rows. No inhibitor: substrate fits the active site. Competitive: an inhibitor with a similar shape sits in the active site, blocking the substrate; more substrate out-competes it. Non-competitive: the inhibitor binds elsewhere and reshapes the active site, so extra substrate does not help." loading="lazy">
+  <figcaption>Competitive inhibitors compete for the active site; non-competitive inhibitors bind elsewhere and change its shape.</figcaption>
+</figure>
+
+
 ## Examples to quote
 
 | Type | Example | Where it acts |
@@ -186,8 +192,13 @@ Coloured substrate disappearing â†’ absorbance falls. Coloured product forming â
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-level-biology-9700-factors-that-affect-enzyme-action--07-inhibitor-types.webp" width="900" height="1060" alt="Three rows. No inhibitor: substrate fits the active site. Competitive: an inhibitor with a similar shape sits in the active site, blocking the substrate; more substrate out-competes it. Non-competitive: the inhibitor binds elsewhere and reshapes the active site, so extra substrate does not help." loading="lazy">
-  <figcaption>Competitive inhibitors compete for the active site; non-competitive inhibitors bind elsewhere and change its shape.</figcaption>
+  <img src="https://img.marlbridge.com/a-level-biology-9700-factors-that-affect-enzyme-action--06-substrate-km.webp" width="900" height="1060" alt="A graph of initial rate against substrate concentration with the lesson data (0.5 to 32 mmol per dm3) on a curve to Vmax 40. Half Vmax (20) gives Km 2.5; a second enzyme with Km 9 has lower affinity. Three panels of eight active sites show 1, 4 and 7 filled at low, Km and high substrate." loading="lazy">
+  <figcaption>Km is the substrate concentration at half Vmax; a low Km means high affinity.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-factors-that-affect-enzyme-action--08-inhibitor-graphs.webp" width="900" height="1090" alt="Rate against substrate concentration for no inhibitor (Vmax 40, Km 2.5), a competitive inhibitor (same Vmax, Km about 10) and a non-competitive inhibitor (Vmax 20, same Km). Bars show competitive inhibition cutting the rate to 29% of normal at low substrate but only to 82% at high substrate, while non-competitive inhibition gives 50% at both." loading="lazy">
+  <figcaption>Competitive inhibition keeps Vmax and raises Km; non-competitive inhibition lowers Vmax and leaves Km unchanged.</figcaption>
 </figure>
 
 
@@ -209,6 +220,12 @@ Coloured substrate disappearing â†’ absorbance falls. Coloured product forming â
 - [3.1 study guide](/resources/a-level-biology-9700-mode-of-action-of-enzymes/)
 - [Enzymes study guide](/resources/a-level-biology-enzymes/) and [Enzymes practice questions](/resources/a-level-biology-enzymes-practice/)
 - [AS Level Biology 9700 diagnostic](/practice/9700/diagnostic/as/)
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-factors-that-affect-enzyme-action--09-immobilised-enzymes.webp" width="900" height="1290" alt="Making beads: enzyme and sodium alginate drip from a syringe into calcium chloride and set as beads. Using them: beads packed in a column with substrate in and product out, so the enzyme is reused and the product is pure; smaller beads have a larger surface area to volume ratio (3.0 against 1.5 per mm). Four OCR immobilisation methods: adsorption, covalent bonding, entrapment and membrane separation." loading="lazy">
+  <figcaption>Immobilised enzymes stay in place, can be reused and do not contaminate the product.</figcaption>
+</figure>
+
 
 ## Official syllabus
 

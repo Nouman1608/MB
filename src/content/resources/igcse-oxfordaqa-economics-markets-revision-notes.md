@@ -141,12 +141,23 @@ This is why taxes on cigarettes and fuel raise so much revenue: demand is inelas
   <figcaption>A 10% price rise with elasticity -0.4 cuts quantity by only 4%.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-economics-related-markets-and-price-elasticity-of-demand-and--13-pes-factors.webp" width="900" height="868" alt="Six factors shown as inelastic to elastic scales." loading="lazy">
+  <figcaption>Spare capacity, stocks, flexibility, time, production period and inputs move PES.</figcaption>
+</figure>
+
 
 ## Competition and monopoly
 
 Competition benefits consumers in several ways: it tends to give **lower prices**, since firms must match rivals or lose customers; **better quality and more choice**, as firms differentiate to attract buyers; **innovation**, as firms invest in new products and processes to gain an edge; and **greater efficiency**, since firms must cut costs to survive. It also has costs — **duplication and wasted resources**, as competing firms each build their own networks or advertise heavily at a cost ultimately passed to consumers, and a possible **loss of economies of scale**, since several small firms may each face higher unit costs than one large one would.
 
 A **monopoly** — a single dominant firm — can **restrict output and charge a higher price** than would prevail under competition, so consumers pay more and consume less. With no competitive pressure it may also let quality fall and become slow to innovate, since it retains customers regardless. Governments can regulate a monopoly by **setting a maximum price or price cap**, by **using competition law to prevent mergers or break up the firm**, or by **opening the market to competition** by removing barriers to entry.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-economics-microeconomic-decision-makers--07-competition-and-monopoly.webp" width="900" height="930" alt="Six small shops stand for many firms and one large factory for a monopoly. Many firms mean lower price, improving quality, wide choice and lower profit. A monopoly means higher price, less pressure on quality, little choice and possibly high profit, with possible economies of scale and research funding." loading="lazy">
+  <figcaption>Competition tends to lower price and profit and widen choice; a monopoly can charge more and earn high profits.</figcaption>
+</figure>
+
 
 ## Market failure
 
@@ -181,3 +192,24 @@ Both need to be drawn on a diagram to score fully — and both must be set on th
 4. What happens when a maximum price is set below equilibrium?
 
 **Answers:** 1. A change in the good's own price causes a movement along; a change in any other condition of demand causes a shift. 2. Demand is inelastic, so quantity falls proportionally less than price rises and total revenue increases. 3. The availability of close substitutes. 4. Quantity demanded exceeds quantity supplied, producing excess demand — shortages, queues and potentially a black market.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-allocation-of-resources--06-external-costs-and-benefits.webp" width="900" height="1160" alt="A factory has private cost 10 and its smoke harms neighbours with an external cost of 4, so social cost is 14. A vaccination has private benefit 6 and external benefit 3, so social benefit is 9. The market ignores the external parts." loading="lazy">
+  <figcaption>Social cost or benefit equals private plus external.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-allocation-of-resources--08-tax-and-subsidy.webp" width="900" height="1370" alt="An indirect tax of 1.8 shifts supply up, raising price from 5 to 6 and cutting quantity from 50 to 40. A subsidy of 1.8 shifts supply down, cutting price from 5 to 4 and raising quantity from 50 to 60." loading="lazy">
+  <figcaption>A tax shifts supply up and a subsidy shifts it down.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-allocation-of-resources--07-price-controls.webp" width="900" height="1370" alt="Equilibrium E is at price 5 and quantity 50. A maximum price of 3 gives demand 70 and supply 25, a shortage of 45. A minimum price of 7 gives demand 30 and supply 75, a surplus of 45." loading="lazy">
+  <figcaption>A maximum price below equilibrium causes a shortage; a minimum price above it causes a surplus.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-economics-market-failure-and-externalities--06-intervention-methods.webp" width="900" height="920" alt="Five methods are shown with what each changes and one limit: tax, subsidy, regulation or ban, direct provision, and information." loading="lazy">
+  <figcaption>Each method of intervention changes something and has a limit.</figcaption>
+</figure>
+

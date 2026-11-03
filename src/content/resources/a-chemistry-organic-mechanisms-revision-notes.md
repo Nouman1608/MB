@@ -174,22 +174,6 @@ Friedel-Crafts acylation:   RCOCl / AlCl3          electrophile RCO+
 
 Every one proceeds by the same three-step pattern: generate the electrophile, attack by the delocalised ring to form an unstable intermediate, then **lose H⁺ to restore aromaticity**. That final step is the mark students most often omit.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-chemistry-organic-mechanisms-revision-notes--04-rn-four-substitutions.webp" width="900" height="1030" alt="Four rows from reagents to electrophile to product: nitration (conc. HNO3 and conc. H2SO4 at 55 C, NO2+), halogenation (Cl2 with AlCl3, Cl+), Friedel-Crafts alkylation (RCl, AlCl3, R+) and acylation (RCOCl, AlCl3, RCO+). Every one ends by losing H+ to restore the ring." loading="lazy">
-  <figcaption>Each substitution generates a different electrophile, and each ends by losing H+ to restore the ring. (A Level)</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-chemistry-organic-mechanisms-revision-notes--05-rn-benzene-lengths.webp" width="900" height="890" alt="A number line shows C=C 134 pm, benzene 139 pm and C-C 154 pm. An alternating hexagon would have 134 and 154 pm bonds, but real benzene has all six equal at 139 pm." loading="lazy">
-  <figcaption>All six benzene C-C bonds are 139 pm, between a single (154) and a double (134) bond. (A Level)</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-aromatic-chemistry--01-benzene-orbitals.webp" width="900" height="1230" alt="From above, six carbons form a flat regular hexagon, each bonded to one hydrogen, with 120 degree bond angles. From the side, p orbitals above and below each carbon overlap sideways into a ring of pi electron density above and below the plane, so six p electrons are delocalised." loading="lazy">
-  <figcaption>Benzene is flat with 120 degree angles and a delocalised pi ring above and below the plane. (All boards)</figcaption>
-</figure>
-
-
 ## Exam traps
 
 - Arrows starting at an atom or a + charge instead of a bond or lone pair.
@@ -209,3 +193,29 @@ Every one proceeds by the same three-step pattern: generate the electrophile, at
 6. Name the seven functional groups introduced for the first time at A Level.
 
 **Answers:** 1. Arrows represent a pair of electrons; they start from a bond or lone pair, never an atom or charge; charges must balance. 2. An alkene's localised π bond is expendable and addition gains two σ bonds; benzene's delocalised system confers extra stability that addition would destroy, so substitution is preferred. 3. The iodoalkane — C–I has the lowest bond enthalpy, so it breaks most readily; polarity is irrelevant here. 4. All C–C bond lengths equal at 139 pm; enthalpy of hydrogenation ~152 kJ mol⁻¹ less exothermic than predicted; resistance to addition and failure to decolourise bromine water. 5. Loss of H⁺ from the intermediate, restoring the delocalised aromatic ring. 6. Arene, halogenoarene, phenol, acyl chloride, amide, amino acid, and secondary/tertiary amines.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-chemistry-organic-mechanisms-revision-notes--04-rn-four-substitutions.webp" width="900" height="1030" alt="Four rows from reagents to electrophile to product: nitration (conc. HNO3 and conc. H2SO4 at 55 C, NO2+), halogenation (Cl2 with AlCl3, Cl+), Friedel-Crafts alkylation (RCl, AlCl3, R+) and acylation (RCOCl, AlCl3, RCO+). Every one ends by losing H+ to restore the ring." loading="lazy">
+  <figcaption>Each substitution generates a different electrophile, and each ends by losing H+ to restore the ring. (A Level)</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-chemistry-organic-mechanisms-revision-notes--05-rn-benzene-lengths.webp" width="900" height="890" alt="A number line shows C=C 134 pm, benzene 139 pm and C-C 154 pm. An alternating hexagon would have 134 and 154 pm bonds, but real benzene has all six equal at 139 pm." loading="lazy">
+  <figcaption>All six benzene C-C bonds are 139 pm, between a single (154) and a double (134) bond. (A Level)</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-aromatic-chemistry--01-benzene-orbitals.webp" width="900" height="1230" alt="From above, six carbons form a flat regular hexagon, each bonded to one hydrogen, with 120 degree bond angles. From the side, p orbitals above and below each carbon overlap sideways into a ring of pi electron density above and below the plane, so six p electrons are delocalised." loading="lazy">
+  <figcaption>Benzene is flat with 120 degree angles and a delocalised pi ring above and below the plane. (All boards)</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-aromatic-chemistry--03-hydrogenation-energy.webp" width="900" height="960" alt="Energy levels: cyclohexane at the bottom, benzene + 3H2 208 kJ/mol above, hypothetical triene + 3H2 360 kJ/mol above. The 152 kJ/mol gap is benzene extra stability from delocalisation." loading="lazy">
+  <figcaption>Benzene releases 152 kJ/mol less energy than three C=C bonds would, so it is more stable. (All boards)</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-aromatic-chemistry--04-nitration-mechanism.webp" width="900" height="1260" alt="Four stages: HNO3 and H2SO4 make NO2+; a curly arrow from inside the ring to N; a horseshoe intermediate with + and the attacked carbon bearing H and NO2; a second arrow from the C-H bond restores the ring, giving nitrobenzene and H+." loading="lazy">
+  <figcaption>The ring attacks NO2+, forms a positive intermediate, then loses H+ to restore the ring. (All boards)</figcaption>
+</figure>
+

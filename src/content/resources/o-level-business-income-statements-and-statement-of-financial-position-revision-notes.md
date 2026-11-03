@@ -177,12 +177,6 @@ The syllabus names revenue, cost of sales, gross profit, profit and retained pro
 - Selling below cost: less cash raised, and the loss reduces retained profit and equity.
 - Risk: too little stock left to serve customers.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/o-level-business-income-statements-and-statement-of-financial-position--11-sell-inventories.webp" width="900" height="872" alt="Three columns of current assets: before, stock sold at cost, stock sold below cost, with the effect on cash, loss, retained profit and net assets." loading="lazy">
-  <figcaption>Selling stock at cost raises cash with no loss; selling below cost raises less and creates a loss.</figcaption>
-</figure>
-
-
 ## Answering exam questions on this topic
 
 The syllabus says Paper 1 is short answer and data response, and Paper 2 is a case study, so expect both kinds of stimulus. The assessment objectives are knowledge, application, analysis and evaluation.
@@ -195,6 +189,12 @@ The syllabus says Paper 1 is short answer and data response, and Paper 2 is a ca
 | Explain | Give a reason, tied to the business described in the stimulus |
 | Analyse | Follow a cause through to a consequence, using figures |
 | Evaluate / justify | Weigh both sides, then reach a reasoned judgement |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-business-income-statements-and-statement-of-financial-position--11-sell-inventories.webp" width="900" height="872" alt="Three columns of current assets: before, stock sold at cost, stock sold below cost, with the effect on cash, loss, retained profit and net assets." loading="lazy">
+  <figcaption>Selling stock at cost raises cash with no loss; selling below cost raises less and creates a loss.</figcaption>
+</figure>
+
 
 ### A second worked reminder: reading a statement
 

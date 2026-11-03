@@ -200,6 +200,12 @@ Two metal/metal ion half-cells, an anode and a cathode, an external circuit and 
 
 **Hydrogenation:** each mole of C=C uses 1 mol H₂; each mole of C≡C uses 2 mol H₂ to reach the alkane. Adding hydrogen is reduction and lowers the degree of unsaturation.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-electron-transfer-redox-cells-and-electrolysis--08-distil-or-reflux.webp" width="900" height="1240" alt="Distillation: the aldehyde boils off as it forms and is collected before further oxidation. Reflux: a vertical condenser returns condensed vapour to the flask so the aldehyde is oxidized to the carboxylic acid. Cooling water enters at the bottom of the condenser and leaves at the top." loading="lazy">
+  <figcaption>The apparatus decides whether oxidation stops at the aldehyde or goes on to the acid.</figcaption>
+</figure>
+
+
 ## Must-know distinctions
 
 - **Oxidized species vs oxidizing agent:** opposite roles.

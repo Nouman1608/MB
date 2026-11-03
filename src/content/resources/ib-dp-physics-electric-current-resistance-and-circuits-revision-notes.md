@@ -121,11 +121,6 @@ Always say what R does as V rises, and give the reason, not only the shape.
 - **Non-ideal meter:** the guide says its resistance is constant. Treat it as an extra resistor in the circuit and recalculate.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ib-dp-physics-electric-current-resistance-and-circuits--01-current-and-pd.webp" width="900" height="1040" alt="A cell of e.m.f. 4.5 V drives current through a lamp, with an ammeter in series and a voltmeter in parallel across the lamp. Conventional current leaves the positive terminal while electrons move the opposite way. For 0.42 A for 900 s the charge is 378 C, about 2.4e21 electrons, and the energy is 1.7e3 J." loading="lazy">
-  <figcaption>Meters in a circuit and Worked example 1: charge, number of electrons and energy.</figcaption>
-</figure>
-
-<figure class="topic-figure">
   <img src="https://img.marlbridge.com/ib-dp-physics-electric-current-resistance-and-circuits--08-variable-dividers.webp" width="900" height="1230" alt="A 6.0 V supply across a 3.0 kilohm resistor and an NTC thermistor: at 25 °C the thermistor is 1.5 kilohm and has 2.0 V; when hot it is 0.50 kilohm and has 0.86 V. A potentiometer slider one third up the track gives 2.0 V, and the output can be set from 0 to 6.0 V." loading="lazy">
   <figcaption>A thermistor divider and a potentiometer both share the supply p.d. in proportion to resistance.</figcaption>
 </figure>
@@ -183,6 +178,11 @@ Always say what R does as V rises, and give the reason, not only the shape.
 8. Share of LDR = 8.0 × 6.0 ÷ 8.0 = 6.0 V.
 9. Infinite, so it draws no current from the circuit and does not change the p.d. being measured.
 10. Output depends on light intensity, so it is unreliable at night or in cloud (or: low power per unit area).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-electric-current-resistance-and-circuits--01-current-and-pd.webp" width="900" height="1040" alt="A cell of e.m.f. 4.5 V drives current through a lamp, with an ammeter in series and a voltmeter in parallel across the lamp. Conventional current leaves the positive terminal while electrons move the opposite way. For 0.42 A for 900 s the charge is 378 C, about 2.4e21 electrons, and the energy is 1.7e3 J." loading="lazy">
+  <figcaption>Meters in a circuit and Worked example 1: charge, number of electrons and energy.</figcaption>
+</figure>
 
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/ib-dp-physics-electric-current-resistance-and-circuits--05-electrical-power.webp" width="900" height="1210" alt="A heater rated 36 W at 12 V draws 3.0 A and has resistance 4.0 ohm. P against V and P against I are parabolas for the 4.0 ohm resistor; halving V or I gives a quarter of the power. Over 300 s the energy is about 1.1e4 J." loading="lazy">

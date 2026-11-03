@@ -135,6 +135,17 @@ fully) — recognisably built from the same two mechanistic steps
 (nucleophilic addition, then elimination) already met separately at AS
 Level.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-aromatic-chemistry--04-nitration-mechanism.webp" width="900" height="1260" alt="Four stages: HNO3 and H2SO4 make NO2+; a curly arrow from inside the ring to N; a horseshoe intermediate with + and the attacked carbon bearing H and NO2; a second arrow from the C-H bond restores the ring, giving nitrobenzene and H+." loading="lazy">
+  <figcaption>The ring attacks NO2+, forms a positive intermediate, then loses H+ to restore the ring. (All boards)</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-aromatic-chemistry--05-electrophiles.webp" width="900" height="1130" alt="Five rows: reagents, the electrophile formed, and the product. Nitration (NO2+) and acylation (RCO+) are in all boards; alkylation (R+) is OCR, Edexcel and OxfordAQA; bromination (Br+) is OCR and Edexcel; sulfonation (SO3) is Edexcel and OxfordAQA." loading="lazy">
+  <figcaption>Each electrophilic substitution replaces one ring hydrogen, but the electrophile depends on the reagents. (Mixed, board-tagged)</figcaption>
+</figure>
+
+
 ## The shape of benzene
 
 Each carbon in benzene is **sp² hybridised**: one 2s and two 2p orbitals
@@ -186,6 +197,21 @@ in comparison to reactions that leave it intact.
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/aqa-a-level-chemistry-aromatic-chemistry--03-hydrogenation-energy.webp" width="900" height="960" alt="Energy levels: cyclohexane at the bottom, benzene + 3H2 208 kJ/mol above, hypothetical triene + 3H2 360 kJ/mol above. The 152 kJ/mol gap is benzene extra stability from delocalisation." loading="lazy">
   <figcaption>Benzene releases 152 kJ/mol less energy than three C=C bonds would, so it is more stable. (All boards)</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-aromatic-chemistry--07-phenol-bromine.webp" width="900" height="960" alt="Benzene with bromine water gives no reaction, so the tube stays orange. Phenol decolourises bromine water at room temperature and gives a white precipitate of 2,4,6-tribromophenol; the oxygen lone pair feeds electron density into the ring." loading="lazy">
+  <figcaption>Phenol, unlike benzene, decolourises bromine water at room temperature to give a white precipitate. (Edexcel and OCR)</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-aromatic-chemistry--08-chlorine-uv.webp" width="900" height="1190" alt="With UV light, benzene adds chlorine to the ring to give C6H6Cl6, losing delocalisation, while methylbenzene is substituted in the CH3 side chain and the ring stays. Further substitution raises Mr from 92.0 to 126.5, 161.0 and 195.5." loading="lazy">
+  <figcaption>UV chlorine adds to the benzene ring but substitutes only the side chain of methylbenzene. (OxfordAQA only)</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-aromatic-chemistry--09-synthesis-route.webp" width="900" height="1120" alt="Seven structures joined by six arrows: benzene, nitrobenzene, phenylamine, benzenediazonium chloride, phenol, 4-nitrophenol and 4-nitrophenyl ethanoate, each arrow labelled with reaction type and reagents. Step 5 also gives 2-nitrophenol as a by-product." loading="lazy">
+  <figcaption>Six reactions turn benzene into 4-nitrophenyl ethanoate. (Cambridge only)</figcaption>
 </figure>
 
 

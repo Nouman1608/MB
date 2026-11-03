@@ -74,6 +74,11 @@ For three events in sequence: P(A ∩ B ∩ C) = P(A) × P(B | A) × P(C | A ∩
   <figcaption>The word given restricts you to one row or column, so its total is the denominator.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-maths-9709-probability-statistics-1--06-venn-conditional.webp" width="900" height="1050" alt="Venn regions A only 0.45, both 0.10, B only 0.25, neither 0.20. Given B the sample space is the B circle (0.35), so P(A|B) = 0.10/0.35 = 2/7. Given not A the space is 0.45, so P(B|A') = 0.25/0.45 = 5/9." loading="lazy">
+  <figcaption>The condition becomes the new sample space and sits in the denominator.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 
@@ -229,12 +234,6 @@ Before you move on, run through these checks.
 - Setting up the equation for an unknown probability correctly but not checking that the result is between 0 and 1.
 
 Exam-technique advice for the whole course is in [exam preparation](/resources/oxfordaqa-a-level-mathematics-exam-preparation/).
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-level-maths-9709-probability-statistics-1--06-venn-conditional.webp" width="900" height="1050" alt="Venn regions A only 0.45, both 0.10, B only 0.25, neither 0.20. Given B the sample space is the B circle (0.35), so P(A|B) = 0.10/0.35 = 2/7. Given not A the space is 0.45, so P(B|A') = 0.25/0.45 = 5/9." loading="lazy">
-  <figcaption>The condition becomes the new sample space and sits in the denominator.</figcaption>
-</figure>
-
 
 ## Official syllabus
 

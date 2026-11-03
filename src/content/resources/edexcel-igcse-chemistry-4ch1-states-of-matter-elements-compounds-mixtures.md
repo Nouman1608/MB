@@ -227,6 +227,12 @@ On a particle diagram: identical units of one kind of atom (single atoms or mole
 
 A **pure substance** (one element or one compound) has a **fixed melting point and boiling point**; pure water melts at 0 °C and boils at 100 °C at normal atmospheric pressure. A **mixture** may melt or boil **over a range of temperatures**. A sharp melting point matching the data-book value suggests a pure sample; melting over a range shows it is impure.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/practical-techniques-titrations-chromatography-separation--08-purity-melting-boiling.webp" width="900" height="950" alt="Two sketch graphs of temperature against time. A pure substance melts and boils at one flat, sharp temperature. An impure substance starts melting below the pure melting point and rises through a range, and boils over a range generally above the pure boiling point." loading="lazy">
+  <figcaption>Pure substances have a sharp melting and boiling point; impure ones melt and boil over a range.</figcaption>
+</figure>
+
+
 ### Separation techniques (1.10)
 
 | Technique | Separates | Key points |
@@ -236,6 +242,17 @@ A **pure substance** (one element or one compound) has a **fixed melting point a
 | Simple distillation | A solvent from a solution (e.g. water from salt water) | The solvent boils; its vapour cools in a condenser (water in at the bottom) and is collected; the solute stays behind |
 | Fractional distillation | Liquids that mix, with different boiling points (e.g. ethanol and water) | A fractionating column sits above the flask; the lower-boiling liquid (ethanol, about 78 °C) distils first; the thermometer at the top shows the boiling point of the liquid coming over |
 | Paper chromatography | Soluble substances in a mixture, such as dyes in an ink | Substances move different distances up the paper with the solvent |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/practical-techniques-titrations-chromatography-separation--06-filter-crystallise.webp" width="900" height="925" alt="Filtration: a mixture is poured through filter paper; the residue stays on the paper and the filtrate drips into a beaker. Crystallisation: a solution is heated so solvent evaporates, the saturated solution is cooled, and crystals form to be filtered and dried." loading="lazy">
+  <figcaption>Filtration separates an insoluble solid; crystallisation recovers a dissolved solid.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/practical-techniques-titrations-chromatography-separation--07-distillation.webp" width="900" height="1215" alt="Simple distillation: salt solution is heated, water vapour passes through a condenser (water in at the bottom, out at the top) and pure water is collected while salt stays behind. Fractional distillation adds a fractionating column; ethanol, with the lower boiling point, boils first and is collected from ethanol and water." loading="lazy">
+  <figcaption>Simple distillation recovers a solvent; fractional distillation separates miscible liquids by boiling point.</figcaption>
+</figure>
+
 
 ### Chromatography and Rf values (1.11–1.13)
 
@@ -268,6 +285,21 @@ spot 2: Rf = 5.6 / 8.0 = 0.70  → blue
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/edexcel-igcse-chemistry-4ch1-states-of-matter-elements-compounds-mixtures--10-rf-food-colouring.webp" width="900" height="740" alt="A chromatogram has a pencil baseline and the solvent front 8.0 cm above it. The food colouring has spots at 3.2 and 5.6 cm, giving Rf 0.40 (matches yellow) and 0.70 (matches blue). Red has Rf 0.55 so would be at 4.4 cm; no spot is there, so red is absent." loading="lazy">
   <figcaption>Rf = 3.2 ÷ 8.0 = 0.40 (yellow) and 5.6 ÷ 8.0 = 0.70 (blue); red is not present.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/practical-techniques-titrations-chromatography-separation--03-chromatography-method.webp" width="900" height="1185" alt="Paper with a pencil line and mixture spot stands in a little solvent. Later the solvent front has risen and three coloured spots have separated. A lower strip shows colourless spots invisible until a locating agent is sprayed (Extended)." loading="lazy">
+  <figcaption>The solvent carries the components different distances up the paper; colourless spots need a locating agent (Extended).</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/practical-techniques-titrations-chromatography-separation--04-reading-chromatogram.webp" width="900" height="770" alt="Lanes A, B and C are known substances with one spot each. Lane X has two spots level with A and C, so it is impure and contains A and C. Lane Y has one spot level with B, so it is pure and matches B." loading="lazy">
+  <figcaption>Matching heights identify substances; one spot means pure, two or more means impure.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/practical-techniques-titrations-chromatography-separation--05-rf-value.webp" width="900" height="1010" alt="A chromatogram shows a solvent front 80 mm above the baseline. A blue spot has moved 48 mm and an orange spot 24 mm. Dividing by 80 gives Rf 0.60 and 0.30. Rf is always less than 1." loading="lazy">
+  <figcaption>Rf = distance moved by substance / distance moved by solvent, both measured from the baseline.</figcaption>
 </figure>
 
 

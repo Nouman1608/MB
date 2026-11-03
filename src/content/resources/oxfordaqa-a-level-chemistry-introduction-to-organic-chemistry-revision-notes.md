@@ -106,6 +106,12 @@ structural formula → CH₃CH(CH₃)COCH(CH₃)CH₂CH₃     (C₈H₁₆O)
 **Reading skeletal formulas.** A zigzag of four lines has five carbons (three corners plus two ends). With
 Cl on the second carbon from one end, it is 2-chloropentane, C₅H₁₁Cl.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-organic-chemistry-naming-mechanisms-and-aromatic-shape--01-skeletal-isomers.webp" width="900" height="1240" alt="Butan-1-ol drawn as a skeletal formula with the three rules shown (end or corner is carbon, hydrogens on carbon not drawn, OH written in full), then skeletal formulae of the five structural isomers of C6H14." loading="lazy">
+  <figcaption>Each line is a bond and each end or corner is carbon; C6H14 has five structural isomers (AQA, Edexcel, OCR, OxfordAQA, Cambridge).</figcaption>
+</figure>
+
+
 ## 3.3.1.2 Reaction mechanisms
 
 ### Free-radical notation
@@ -158,6 +164,12 @@ lone pairs and charges, plus every arrow.
 
 - **Structural isomers:** same molecular formula, different structural formula.
 - **Stereoisomers:** structural formula identical, but the atoms are arranged differently in 3-D space.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-organic-chemistry-naming-mechanisms-and-aromatic-shape--05-cracking.webp" width="900" height="1070" alt="Dodecane is cracked, breaking two C-C bonds to give octane and two ethene molecules; conditions for thermal and catalytic cracking are shown (AQA)." loading="lazy">
+  <figcaption>Cracking breaks C-C bonds to make shorter alkanes and alkenes (AQA, Edexcel).</figcaption>
+</figure>
+
 
 ### Three types of structural isomer (all C₆H₁₂O)
 
@@ -247,8 +259,8 @@ because the decision is made one bond earlier.
 - Swapping E and Z: Z means the higher priorities are on the same side.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-organic-chemistry-naming-mechanisms-and-aromatic-shape--01-skeletal-isomers.webp" width="900" height="1240" alt="Butan-1-ol drawn as a skeletal formula with the three rules shown (end or corner is carbon, hydrogens on carbon not drawn, OH written in full), then skeletal formulae of the five structural isomers of C6H14." loading="lazy">
-  <figcaption>Each line is a bond and each end or corner is carbon; C6H14 has five structural isomers (AQA, Edexcel, OCR, OxfordAQA, Cambridge).</figcaption>
+  <img src="https://img.marlbridge.com/a-organic-chemistry-naming-mechanisms-and-aromatic-shape--09-new-functional-groups.webp" width="900" height="1260" alt="Skeletal formulae of benzene, chlorobenzene, phenol, propanoyl chloride, propanamide, dimethylamine and 2-aminoethanoic acid with each new group highlighted." loading="lazy">
+  <figcaption>The functional groups first met at A Level (Cambridge).</figcaption>
 </figure>
 
 

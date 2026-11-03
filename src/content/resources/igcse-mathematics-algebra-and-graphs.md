@@ -140,17 +140,6 @@ determining turning points (maxima and minima) by calculus
 and range; finding the inverse function f⁻¹(x); forming the composite
 function gf(x) = g(f(x))
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-mathematics-algebra-and-graphs--01-equation-balance.webp" width="900" height="1170" alt="A balance holds two x-bags and three 1-blocks on one side and eleven 1-blocks on the other. Taking three from both sides, then halving both sides, leaves one x-bag against four blocks, so x = 4. Whatever is done to one side is done to the other." loading="lazy">
-  <figcaption>Do the same to both sides and the equation stays balanced.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-mathematics-algebra-and-graphs--04-inequality-region.webp" width="900" height="890" alt="A graph with a solid line y = 1, a dashed line y = x and a solid line x + y = 6 bounds a shaded triangle with corners (1, 1), (5, 1) and (3, 3). A test point inside satisfies all three inequalities. Solid lines are included; dashed lines are not." loading="lazy">
-  <figcaption>The region is where all the inequalities are true at once.</figcaption>
-</figure>
-
-
 ## Worked examples
 
 **Solving a quadratic by factorisation (Extended).** Solve x² + 5x + 6 = 0.
@@ -281,3 +270,14 @@ f⁻¹(x) composite questions.
 Cambridge IGCSE Mathematics 0580 syllabus for 2025, 2026 and 2027,
 Topic 2 verified against the PDF on 29 August 2026 —
 [cambridgeinternational.org](https://www.cambridgeinternational.org/Images/662466-2025-2027-syllabus.pdf).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-algebra-and-graphs--01-equation-balance.webp" width="900" height="1170" alt="A balance holds two x-bags and three 1-blocks on one side and eleven 1-blocks on the other. Taking three from both sides, then halving both sides, leaves one x-bag against four blocks, so x = 4. Whatever is done to one side is done to the other." loading="lazy">
+  <figcaption>Do the same to both sides and the equation stays balanced.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-algebra-and-graphs--04-inequality-region.webp" width="900" height="890" alt="A graph with a solid line y = 1, a dashed line y = x and a solid line x + y = 6 bounds a shaded triangle with corners (1, 1), (5, 1) and (3, 3). A test point inside satisfies all three inequalities. Solid lines are included; dashed lines are not." loading="lazy">
+  <figcaption>The region is where all the inequalities are true at once.</figcaption>
+</figure>
+

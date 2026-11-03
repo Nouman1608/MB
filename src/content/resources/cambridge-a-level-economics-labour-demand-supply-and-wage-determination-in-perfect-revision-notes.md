@@ -174,6 +174,12 @@ At a wage of 100, the second worker's MRP of 120 exceeds the wage but the third 
 
 **Two curves shifting at once.** Start from QD = 200 − 5W and QS = −40 + 7W, which gives W = 20 and Q = 100. Now demand shifts to QD = 224 − 5W and supply shifts to QS = −4 + 7W. Setting them equal: 224 − 5W = −4 + 7W, so 228 = 12W, W = 19 and Q = 129 (check: 224 − 95 = 129 and −4 + 133 = 129). Employment rises 29%, but the wage falls 5%, because the supply shift was larger than the demand shift in its effect on the wage. If you are only told the directions, say the wage change is uncertain and explain why.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-labour-demand-supply-and-wage-determination-in-perfect--15-labour-shifts-equilibrium.webp" width="900" height="1110" alt="D1 to D2 (+30), S1 to S2 (+20) and both give equilibria (17, 82), (12, 72) and (15, 90) from the start (14, 64)." loading="lazy">
+  <figcaption>Each shift changes employment as well as the wage.</figcaption>
+</figure>
+
+
 ## Must-know distinctions
 
 - **MPP versus MRP.** MPP counts units of output. MRP counts money.
@@ -214,12 +220,6 @@ At a wage of 100, the second worker's MRP of 120 exceeds the wage but the third 
 8. 224 − 5W = −40 + 7W, so 264 = 12W, **W = 22** and **Q = 114**.
 9. For example: working conditions and the length of training required.
 10. No. Higher MRP shifts the demand curve right. The wage is unchanged, so this is a shift, not a movement.
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/cambridge-a-level-economics-labour-demand-supply-and-wage-determination-in-perfect--15-labour-shifts-equilibrium.webp" width="900" height="1110" alt="D1 to D2 (+30), S1 to S2 (+20) and both give equilibria (17, 82), (12, 72) and (15, 90) from the start (14, 64)." loading="lazy">
-  <figcaption>Each shift changes employment as well as the wage.</figcaption>
-</figure>
-
 
 ## Where marks are usually lost
 

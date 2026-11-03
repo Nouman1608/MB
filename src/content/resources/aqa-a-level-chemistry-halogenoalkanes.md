@@ -142,6 +142,12 @@ halogenoalkane molecule. Excess ammonia makes it more likely that the halogenoal
 amine, so the primary amine is the main product. Further substitution, giving secondary and tertiary amines
 and quaternary ammonium salts, is in [3.3.11 Amines](/resources/aqa-a-level-chemistry-amines/), which is **A-level only**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-halogenoalkanes--06-primary-secondary-tertiary.webp" width="900" height="1160" alt="Skeletal 1-bromopentane, 2-bromopentane and 2-bromo-2-methylbutane with the C-Br carbon ringed and rate bars (1/t) for 210 s, 95 s and 8 s." loading="lazy">
+  <figcaption>The more carbons attached to the C-Br carbon, the faster the hydrolysis; tertiary is about 26 times faster than primary (Edexcel only).</figcaption>
+</figure>
+
+
 ### Why bond enthalpy controls the rate
 
 To be substituted, the C–X bond must break. Down Group 7 the halogen atom gets bigger, the C–X bond gets

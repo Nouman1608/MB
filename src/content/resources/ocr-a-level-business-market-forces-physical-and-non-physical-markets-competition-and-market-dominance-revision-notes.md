@@ -79,6 +79,11 @@ Related pages: the wider [External influences revision notes](/resources/ocr-a-l
 4. Weigh the two. Give a judgement that depends on one named factor (for example, how fast the market is changing).
 
 <figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-business-market-forces-physical-and-non-physical-markets-competition-and-market-dominance--05-shop-or-website.webp" width="900" height="1010" alt="Monthly profit lines for Keswold Cycles. The shop (fixed costs £7,800, contribution £90) breaks even at 87 bikes; the website (fixed costs £3,100, contribution £72) at 44. At 120 bikes the shop earns £3,000 and the website £5,540. The lines cross at about 261 bikes." loading="lazy">
+  <figcaption>The website wins at modest volumes; the shop earns more only above about 261 bikes.</figcaption>
+</figure>
+
+<figure class="topic-figure">
   <img src="https://img.marlbridge.com/oxfordaqa-a-level-business-finance--02-break-even-chart.webp" width="900" height="990" alt="Break-even chart for Emberfold Candles: revenue, total costs and flat fixed costs against output. Lines cross at 800 candles and 14,400 pounds. Sales of 1,150 give a margin of safety of 350 candles and profit of 3,675 pounds." loading="lazy">
   <figcaption>Break-even is where revenue equals total costs; the margin of safety is how far sales sit above it.</figcaption>
 </figure>
@@ -191,6 +196,12 @@ A firm with 31% buys a firm with 8%. The next largest rival holds 25%.
 8. 22 + 17 = **39%**. Dominance depends on power over price and rivals: if the next rivals are also large or entry is easy, the merged firm may have little power.
 9. Organic growth: slow. Acquisition: integration costs or culture clash, or regulatory challenge (any one for each).
 10. Any two from investigate it, block it, allow it with conditions.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-business-market-forces-physical-and-non-physical-markets-competition-and-market-dominance--10-merger-share.webp" width="900" height="920" alt="Before merging: Danemoor 28, Linthorpe 19, next rival 15, others 38 per cent. After: 47 per cent, 3.1 times the rival. Organic growth to 47 per cent needs revenue to rise from 84 to 141 million pounds, plus 57 million or 67.9 per cent." loading="lazy">
+  <figcaption>A merger gives share immediately; the organic route needs a 67.9 per cent revenue rise.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

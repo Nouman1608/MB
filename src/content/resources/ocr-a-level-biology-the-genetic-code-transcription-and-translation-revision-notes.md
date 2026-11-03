@@ -63,6 +63,11 @@ mRNA matches the coding (non-template) strand, with U instead of T. A tRNA antic
   <figcaption>A purine always pairs with a pyrimidine: A with T (two hydrogen bonds), G with C (three).</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-nucleic-acids-and-protein-synthesis--03-dna-helix.webp" width="900" height="880" alt="A double helix of two strands with the sugar-phosphate backbones outside and base pairs inside. One turn has 10 base pairs and measures 3.4 nanometres. A flattened ladder shows the strands are antiparallel: one runs 5′ to 3′ downwards, the other 3′ to 5′, with ATGCCG pairing with TACGGC." loading="lazy">
+  <figcaption>The two strands run in opposite directions and wind round each other, with base pairs inside.</figcaption>
+</figure>
+
 
 ## Method in steps: from template to polypeptide
 
@@ -121,6 +126,12 @@ Many ribosomes can translate one mRNA at once, so many polypeptides are made fro
 - **mRNA:** single strand, copy of a gene, different length for each gene, carries codons.
 - **tRNA:** single strand folded by hydrogen bonds into a clover-leaf, anticodon at one end, specific amino acid at the other.
 - **rRNA:** forms most of the ribosome (large and small subunits, with proteins), holds mRNA and tRNA in place and takes part in peptide bond formation.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-nucleic-acids-and-protein-synthesis--01-nucleotide-chain.webp" width="900" height="1100" alt="Three nucleotides are stacked one below another. Each has a pentose sugar, a phosphate and a nitrogenous base. The 3′ carbon of one sugar is joined through a phosphate to the 5′ carbon of the next sugar by a phosphodiester bond, releasing one water molecule per bond. The top end has a free phosphate (5′) and the bottom end a free OH (3′); n nucleotides give n minus 1 bonds." loading="lazy">
+  <figcaption>Each condensation reaction joins two nucleotides with a phosphodiester bond and releases one water molecule.</figcaption>
+</figure>
+
 
 ## Key terms
 

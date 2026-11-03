@@ -198,12 +198,6 @@ Worked reminders:
 - TR 31,000, TC 33,500: 31,000 − 33,500 = −2,500 cu, so subnormal profit.
 - If accounting profit is 14,000 cu and the owner's next-best earnings are 11,000 cu, supernormal profit is 3,000 cu. If next-best earnings were 16,000 cu, profit would be subnormal by 2,000 cu even though the accounts show a gain.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/cambridge-a-level-economics-long-run-production-economies-of-scale-revenue-and--05-eco27-normal-profit-bars.webp" width="900" height="1060" alt="Bars compare revenue with total cost including normal profit for three cases: supernormal profit of 3,000, subnormal profit of 3,000 and subnormal profit of 3,500. The dashed box shows the gap between revenue and total cost." loading="lazy">
-  <figcaption>Profit is supernormal or subnormal only after normal profit is counted as a cost.</figcaption>
-</figure>
-
-
 ## Quick self-test
 
 1. Define returns to scale.
@@ -229,6 +223,12 @@ Worked reminders:
 8. 31,000 − 33,500 = −2,500 cu: subnormal profit.
 9. 300 units, the first output at which the minimum of 3.9 cu is reached.
 10. For example congestion, and wage or rent increases as firms compete for the same inputs.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-long-run-production-economies-of-scale-revenue-and--05-eco27-normal-profit-bars.webp" width="900" height="1060" alt="Bars compare revenue with total cost including normal profit for three cases: supernormal profit of 3,000, subnormal profit of 3,000 and subnormal profit of 3,500. The dashed box shows the gap between revenue and total cost." loading="lazy">
+  <figcaption>Profit is supernormal or subnormal only after normal profit is counted as a cost.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

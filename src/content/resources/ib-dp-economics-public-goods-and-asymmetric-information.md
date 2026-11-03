@@ -197,6 +197,10 @@ The contract causes the change, and the insurer cannot easily watch maintenance.
 
 High-risk customers choose X; low-risk customers choose Y. The choice reveals the type. The insurer still profits: 2,100 − 0.20 × 10,000 = 100 on X, and 700 − 0.05 × 2,000 = 600 on Y.
 
+## Evaluation in the exam papers
+
+In the guide, part (b) of Paper 1 carries 15 marks including evaluation, and part (g) of Paper 2 carries 15 marks for synthesis and evaluation. HL Paper 3 is a 60-mark policy paper. Paper 1 allows no calculator; Papers 2 and 3 do, and a four-function model suffices. As advice, not mark-scheme rules: support each point with a reason, weigh strengths against limitations, and end with a judgement tied to the context.
+
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/ib-dp-economics-public-goods-and-asymmetric-information--04-pg-warranty-signal.webp" width="900" height="762" alt="A good-piano seller gains 820 from offering the warranty against a seller value of 800; a poor-piano seller would get 330 by copying it against 400 without. So the warranty reveals quality." loading="lazy">
   <figcaption>A signal works because low-quality sellers find it too costly to copy.</figcaption>
@@ -212,10 +216,6 @@ High-risk customers choose X; low-risk customers choose Y. The choice reveals th
   <figcaption>With reliable information buyers pay 900 and 400, which exceed sellers’ minimums, so good pianos return to the market.</figcaption>
 </figure>
 
-
-## Evaluation in the exam papers
-
-In the guide, part (b) of Paper 1 carries 15 marks including evaluation, and part (g) of Paper 2 carries 15 marks for synthesis and evaluation. HL Paper 3 is a 60-mark policy paper. Paper 1 allows no calculator; Papers 2 and 3 do, and a four-function model suffices. As advice, not mark-scheme rules: support each point with a reason, weigh strengths against limitations, and end with a judgement tied to the context.
 
 ## Common errors
 

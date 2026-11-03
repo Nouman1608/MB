@@ -88,6 +88,12 @@ A student writes "Rana Temporaria" in a report. Correct it and explain why the n
 2. A second mention can be *R. temporaria*.
 3. The name identifies one species worldwide. A common name such as "frog" could mean many species.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-classification-biodiversity-and-conservation--06-richness-evenness.webp" width="900" height="950" alt="Two grids of 100 individuals have four species each. Site X is even (25 each) with D 0.75 and d 4.1; Site Y has 91 of one species and 3 of each other with D 0.17 and d 1.2. A higher value means a more diverse community." loading="lazy">
+  <figcaption>Same richness, very different evenness, and both indices separate them.</figcaption>
+</figure>
+
+
 ## 4.2.2(c)(i) The five kingdoms
 
 The specification asks you to know the features used to place organisms into five kingdoms. In the original classification the groupings were built mainly on **similarities in observable features**: what cells look like under a microscope, how the organism gets its food and how the body is organised.
@@ -175,8 +181,8 @@ For P and S: 45 ÷ 250 × 100 = 18.0 % different, so 82.0 % similar.
 Interpretation: P and Q differ least, so they share the most recent common ancestor. R is next closest to both. S differs most from all three, so it branched off earliest.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-level-biology-9700-classification-biodiversity-and-conservation--06-richness-evenness.webp" width="900" height="950" alt="Two grids of 100 individuals have four species each. Site X is even (25 each) with D 0.75 and d 4.1; Site Y has 91 of one species and 3 of each other with D 0.17 and d 1.2. A higher value means a more diverse community." loading="lazy">
-  <figcaption>Same richness, very different evenness, and both indices separate them.</figcaption>
+  <img src="https://img.marlbridge.com/a-level-biology-9700-classification-biodiversity-and-conservation--09-genetic-diversity.webp" width="900" height="1210" alt="Two grids of 60 gene loci; split squares are loci with two or more alleles. Before, 18 of 60 vary (30%); later, in a smaller herd, 12 of 60 vary (20%), so fewer alleles are available to adapt with." loading="lazy">
+  <figcaption>Proportion of polymorphic loci = polymorphic loci / total loci.</figcaption>
 </figure>
 
 
@@ -215,15 +221,15 @@ Evidence for relationships includes fossils and similarities in anatomy, but mol
 - Claiming the five-kingdom system was based on DNA. It was based on observable features; molecular evidence led to the domains.
 - Stating that more similar sequences mean more similar appearance. Similar sequences show a more recent common ancestor.
 
+## Next steps
+
+Test yourself with the [practice questions](/resources/ocr-a-level-biology-classification-and-taxonomy-practice/), then use the [revision notes](/resources/ocr-a-level-biology-classification-and-taxonomy-revision-notes/) for quick recall. Related content on sampling and species diversity is in [Measuring biodiversity](/resources/ocr-a-level-biology-measuring-biodiversity/).
+
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/a-level-biology-9700-classification-biodiversity-and-conservation--03-dna-comparison.webp" width="900" height="1000" alt="Four 24-base sequences A to D are aligned with differences from A highlighted. B differs at 1 base (4.2%), C at 5 (20.8%) and D at 9 (37.5%). Fewer differences mean a more recent common ancestor." loading="lazy">
   <figcaption>Fewer base differences mean a more recent common ancestor.</figcaption>
 </figure>
 
-
-## Next steps
-
-Test yourself with the [practice questions](/resources/ocr-a-level-biology-classification-and-taxonomy-practice/), then use the [revision notes](/resources/ocr-a-level-biology-classification-and-taxonomy-revision-notes/) for quick recall. Related content on sampling and species diversity is in [Measuring biodiversity](/resources/ocr-a-level-biology-measuring-biodiversity/).
 
 ## Official syllabus
 

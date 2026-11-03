@@ -172,6 +172,22 @@ Shortcut: the four O–H bonds appear on both sides, so they cancel. Bonds that 
 
 **Why calculated values differ from measured ones:** bond energies are average values from many compounds, so they only give an estimate.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-chemistry-energetics--05-en-propane-bonds.webp" width="900" height="1085" alt="Stacked columns to scale: 6490 kJ broken, 8542 kJ made, difference -2052 kJ/mol." loading="lazy">
+  <figcaption>Count every bond and multiply before adding.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-chemistry-energetics--01-en-ethene-br2.webp" width="900" height="800" alt="Displayed formulae of ethene, Br-Br and the product. Bonds broken total 805 kJ and bonds made total 900 kJ, giving -95 kJ/mol, exothermic. The four C-H bonds are unchanged." loading="lazy">
+  <figcaption>Only C=C, Br-Br, C-C and two C-Br change; broken 805 minus made 900 gives -95 kJ/mol.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/exothermic-and-endothermic-reactions--05-bond-energy-ladder.webp" width="900" height="930" alt="Energy levels drawn to scale: H2 + Cl2 rises 678 to separate atoms, then falls 862 to 2HCl, which is 184 kJ/mol below the reactants. Delta H is -184 kJ/mol." loading="lazy">
+  <figcaption>Up 678 to break bonds, down 862 as bonds form: a net fall of 184 kJ/mol.</figcaption>
+</figure>
+
+
 ## Must-know distinctions
 
 - **Temperature of the surroundings vs energy of the chemicals.** In an endothermic reaction the thermometer falls because the chemicals are *gaining* energy.
@@ -179,12 +195,6 @@ Shortcut: the four O–H bonds appear on both sides, so they cancel. Bonds that 
 - **Bond breaking vs bond making.** Breaking takes energy in; making gives energy out. Never the reverse.
 - **Broken − made (bond energies) vs products − reactants (profile levels).** Both give the same sign convention, but use the right one for the data you have.
 - **Exothermic vs needing heat to start.** A candle is exothermic even though it needs a match.
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/exothermic-and-endothermic-reactions--04-bond-energy-calculation.webp" width="900" height="1050" alt="H2 and Cl2 molecules have their bonds broken (436+242=678 kJ/mol in), then two H-Cl bonds are made (2x431=862 kJ/mol out). Delta H = 678-862 = -184 kJ/mol, so the reaction is exothermic." loading="lazy">
-  <figcaption>Breaking bonds takes in 678 kJ/mol and making bonds releases 862 kJ/mol, so delta H is -184 kJ/mol.</figcaption>
-</figure>
-
 
 ## Quick self-test
 
@@ -215,8 +225,8 @@ Shortcut: the four O–H bonds appear on both sides, so they cancel. Bonds that 
 11. Bonds that change. Broken: C=C + one O–H = 612 + 464 = 1076 kJ. Made: C–C + one C–H + C–O = 348 + 413 + 358 = 1119 kJ. Energy change = 1076 − 1119 = **−43 kJ/mol**, exothermic.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ocr-gcse-chemistry-energetics--05-en-propane-bonds.webp" width="900" height="1085" alt="Stacked columns to scale: 6490 kJ broken, 8542 kJ made, difference -2052 kJ/mol." loading="lazy">
-  <figcaption>Count every bond and multiply before adding.</figcaption>
+  <img src="https://img.marlbridge.com/exothermic-and-endothermic-reactions--04-bond-energy-calculation.webp" width="900" height="1050" alt="H2 and Cl2 molecules have their bonds broken (436+242=678 kJ/mol in), then two H-Cl bonds are made (2x431=862 kJ/mol out). Delta H = 678-862 = -184 kJ/mol, so the reaction is exothermic." loading="lazy">
+  <figcaption>Breaking bonds takes in 678 kJ/mol and making bonds releases 862 kJ/mol, so delta H is -184 kJ/mol.</figcaption>
 </figure>
 
 
@@ -232,12 +242,6 @@ Shortcut: the four O–H bonds appear on both sides, so they cancel. Bonds that 
 - Subtracting the wrong way round (made − broken) and getting the sign flipped.
 - Giving a final answer with no sign or no unit.
 - Including an anomalous repeat in the mean.
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ocr-gcse-chemistry-energetics--01-en-ethene-br2.webp" width="900" height="800" alt="Displayed formulae of ethene, Br-Br and the product. Bonds broken total 805 kJ and bonds made total 900 kJ, giving -95 kJ/mol, exothermic. The four C-H bonds are unchanged." loading="lazy">
-  <figcaption>Only C=C, Br-Br, C-C and two C-Br change; broken 805 minus made 900 gives -95 kJ/mol.</figcaption>
-</figure>
-
 
 ## Official syllabus
 

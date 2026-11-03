@@ -80,6 +80,12 @@ Stage 2: 0.50 × 3.34 × 10⁵ = 167 000 J
 Stage 3: 0.50 × 4200 × 30 = 63 000 J
 Total = 240 500 J = 2.4 × 10⁵ J. The melting stage is the largest, even though the temperature does not change during it.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-physics-kinetic-theory-specific-heat-and-latent-heat--05-heating-two-stage.webp" width="900" height="876" alt="A graph of temperature against energy supplied. Water rises from 20 to 100 degrees Celsius using 134 400 J (0.40 x 4200 x 80), then stays at 100 degrees while 226 000 J (0.10 x 2.26 x 10^6) boils 0.10 kg away. A bar below shows the two energies adding to 360 400 J, or 3.6 x 10^5 J." loading="lazy">
+  <figcaption>Split the problem at the state change: E = m c Δθ for warming, E = m L while the temperature stays constant.</figcaption>
+</figure>
+
+
 ## Temperature-time graphs
 
 * Sloping section: one state, temperature changing. Energy raises the kinetic energy of the particles.
@@ -104,18 +110,8 @@ Total = 240 500 J = 2.4 × 10⁵ J. The melting stage is the largest, even thoug
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/oxfordaqa-igcse-physics-kinetic-theory-specific-heat-and-latent-heat--05-heating-two-stage.webp" width="900" height="876" alt="A graph of temperature against energy supplied. Water rises from 20 to 100 degrees Celsius using 134 400 J (0.40 x 4200 x 80), then stays at 100 degrees while 226 000 J (0.10 x 2.26 x 10^6) boils 0.10 kg away. A bar below shows the two energies adding to 360 400 J, or 3.6 x 10^5 J." loading="lazy">
-  <figcaption>Split the problem at the state change: E = m c Δθ for warming, E = m L while the temperature stays constant.</figcaption>
-</figure>
-
-<figure class="topic-figure">
   <img src="https://img.marlbridge.com/oxfordaqa-igcse-physics-kinetic-theory-specific-heat-and-latent-heat--06-stearic-acid-apparatus.webp" width="900" height="1000" alt="Apparatus for the stearic acid practical: step 1 shows a boiling tube of acid standing in a beaker of hot water until fully liquid; step 2 shows the tube clamped with a thermometer, with the temperature read every 30 seconds. A graph below shows temperature falling, flat at about 69 degrees Celsius while the acid freezes, then falling again." loading="lazy">
   <figcaption>Melt the acid in hot water, then clamp the tube, read a thermometer every 30 seconds and plot the cooling curve.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-physics-thermal-physics--04-specific-heat-capacity.webp" width="900" height="1050" alt="An insulated metal block with a heater and thermometer, and a circuit with an ammeter in series and a voltmeter across the heater. E = 4.0 x 12 x 300 = 14 400 J and c = 14 400 / (1.0 x 16) = 900 J/(kg C)." loading="lazy">
-  <figcaption>Energy supplied divided by mass and temperature rise gives c.</figcaption>
 </figure>
 
 <figure class="topic-figure">
@@ -146,6 +142,11 @@ Total = 240 500 J = 2.4 × 10⁵ J. The melting stage is the largest, even thoug
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/igcse-physics-thermal-physics--06-conduction-rods.webp" width="900" height="920" alt="Four equal rods of copper, iron, glass and wood are heated at one end with a pin stuck on the far end by wax. The pins on copper and iron have fallen, copper first; the pins on glass and wood remain." loading="lazy">
   <figcaption>The pin on the best conductor falls first.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-physics-thermal-physics--05-convection-current.webp" width="900" height="880" alt="A beaker with a purple crystal at one bottom corner heated from below. The purple dye rises over the heated spot, crosses the top, sinks on the far side and returns along the bottom." loading="lazy">
+  <figcaption>Heated water becomes less dense and rises; cooler, denser water sinks to replace it.</figcaption>
 </figure>
 
 
@@ -214,6 +215,12 @@ Total = 240 500 J = 2.4 × 10⁵ J. The melting stage is the largest, even thoug
 8. The fastest particles leave the sweat, so the average kinetic energy of the remaining sweat falls and energy is taken from the skin.
 9. Warm air expands, so its particles are further apart, its density is lower, and it floats up through cooler air.
 10. The metal that expands more.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-physics-thermal-physics--04-specific-heat-capacity.webp" width="900" height="1050" alt="An insulated metal block with a heater and thermometer, and a circuit with an ammeter in series and a voltmeter across the heater. E = 4.0 x 12 x 300 = 14 400 J and c = 14 400 / (1.0 x 16) = 900 J/(kg C)." loading="lazy">
+  <figcaption>Energy supplied divided by mass and temperature rise gives c.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

@@ -169,6 +169,12 @@ T_right / sin 60° = 150 / sin 100°, so T_right = 132 N.
 
 Check: horizontal components 97.9 cos 30° and 132 cos 50° both equal 84.8 N.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-oxfordaqa-physics-motion-and-newtons-laws--03-lift-tension.webp" width="900" height="900" alt="Three free-body diagrams of a 640 kg lift to one scale. Accelerating upward the tension is 7.0 kN, at constant speed 6.3 kN, and decelerating while moving up 5.5 kN, always against a weight of 6.3 kN. Net force is 0.77 kN up, zero, and 0.77 kN down." loading="lazy">
+  <figcaption>Tension is larger than weight when acceleration is upward and smaller when it is downward, T = m(g + a).</figcaption>
+</figure>
+
+
 ## 3.2.4(a) Density
 
 Density is mass per unit volume:

@@ -30,12 +30,6 @@ Quick recall for **C.3 Wave phenomena (second half)** in the IB *Physics guide*,
 - **Fringe separation s:** distance between adjacent bright (or adjacent dark) fringes.
 - **Order n:** the whole number counting maxima outward from the central one (n = 0).
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ib-dp-physics-superposition-double-slit-interference-single-slit--04-ibp-ssd-young.webp" width="900" height="1030" alt="A laser lights two slits a distance d apart, with a screen at distance D. The next bright fringe has path difference one wavelength. For 532 nm, D = 1.80 m and d = 0.25 mm the fringe separation is 3.83 mm, shown as a computed fringe strip." loading="lazy">
-  <figcaption>s = lambda D / d gives the fringe separation from wavelength, screen distance and slit separation.</figcaption>
-</figure>
-
-
 ## Formulas
 
 | Result | Equation | Level |
@@ -76,6 +70,22 @@ Symbols: d = slit separation, D = slits to screen, b = slit width, θ in radians
 3. Maximum order is the largest whole n below d/λ.
 4. Total maxima = 2 × (maximum order) + 1.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-superposition-double-slit-interference-single-slit--03-ibp-ssd-path-difference.webp" width="900" height="1250" alt="For in-phase transmitters with wavelength 2.8 cm, point P (41.3 cm and 27.3 cm) has path difference 14.0 cm = 5.0 wavelengths, so constructive; point Q (36.4 cm and 26.6 cm) has 9.8 cm = 3.5 wavelengths, so destructive." loading="lazy">
+  <figcaption>A whole number of wavelengths gives a maximum; a half-integer gives a minimum.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-superposition-double-slit-interference-single-slit--07-ibp-ssd-modulation.webp" width="900" height="870" alt="Double-slit fringes with d = 0.30 mm and b = 0.050 mm sit inside a single-slit envelope. The sixth-order fringes are missing, leaving 11 bright fringes from n = -5 to 5." loading="lazy">
+  <figcaption>Fringe brightness follows the single-slit envelope, and a fringe on an envelope minimum is missing.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-superposition-double-slit-interference-single-slit--08-ibp-ssd-grating.webp" width="900" height="1060" alt="Light of 610 nm on a 750 lines per mm grating (d = 1.33 micrometres) gives maxima at 0 degrees and plus and minus 27.2 and 66.2 degrees, five in all, because d over lambda is 2.19." loading="lazy">
+  <figcaption>Maxima follow n lambda = d sin theta, and sin theta cannot exceed 1, which limits the highest order.</figcaption>
+</figure>
+
+
 ## Superposition reminders
 
 - Add displacements with their signs; a pulse is not changed by passing through another.
@@ -107,6 +117,12 @@ Symbols: d = slit separation, D = slits to screen, b = slit width, θ in radians
 
 White light: a white central maximum, then spectra with violet nearest the centre and red furthest. Higher orders overlap.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-superposition-double-slit-interference-single-slit--09-ibp-ssd-grating-white.webp" width="900" height="880" alt="On the same grating, white light gives a white centre and spectra with violet nearer the centre. Order 1 spans 17.5 to 31.7 degrees; order 2 starts at 36.9 degrees and loses wavelengths above 667 nm; order 3 starts at 64.2 degrees, so orders 2 and 3 overlap." loading="lazy">
+  <figcaption>Violet is deviated least, and higher orders spread out and overlap.</figcaption>
+</figure>
+
+
 ## Worked reminders
 
 **Fringes.** λ = 589 nm, d = 0.45 mm, D = 1.35 m: s = (589 × 10⁻⁹ × 1.35) / (0.45 × 10⁻³) = 1.77 × 10⁻³ m.
@@ -132,11 +148,6 @@ White light: a white central maximum, then spectra with violet nearest the centr
   <figcaption>The central maximum has width 2 lambda D / b, so a wider slit gives a narrower pattern.</figcaption>
 </figure>
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ib-dp-physics-superposition-double-slit-interference-single-slit--07-ibp-ssd-modulation.webp" width="900" height="870" alt="Double-slit fringes with d = 0.30 mm and b = 0.050 mm sit inside a single-slit envelope. The sixth-order fringes are missing, leaving 11 bright fringes from n = -5 to 5." loading="lazy">
-  <figcaption>Fringe brightness follows the single-slit envelope, and a fringe on an envelope minimum is missing.</figcaption>
-</figure>
-
 
 ## Model sentences for explain questions
 
@@ -150,11 +161,6 @@ White light: a white central maximum, then spectra with violet nearest the centr
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/ib-dp-physics-superposition-double-slit-interference-single-slit--02-ibp-ssd-coherence.webp" width="900" height="1010" alt="Top: two lamps emit in random bursts so the phase of each wave jumps and the phase difference changes in steps. Bottom: one laser split by two slits gives a constant phase difference." loading="lazy">
   <figcaption>Coherent sources keep a constant phase difference, so the pattern is stable.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ib-dp-physics-superposition-double-slit-interference-single-slit--03-ibp-ssd-path-difference.webp" width="900" height="1250" alt="For in-phase transmitters with wavelength 2.8 cm, point P (41.3 cm and 27.3 cm) has path difference 14.0 cm = 5.0 wavelengths, so constructive; point Q (36.4 cm and 26.6 cm) has 9.8 cm = 3.5 wavelengths, so destructive." loading="lazy">
-  <figcaption>A whole number of wavelengths gives a maximum; a half-integer gives a minimum.</figcaption>
 </figure>
 
 
@@ -192,6 +198,12 @@ White light: a white central maximum, then spectra with violet nearest the centr
 9. sin θ = 550 × 10⁻⁹ / 2.00 × 10⁻⁶ = 0.275, θ = **16.0°**. d/λ = 3.64, so the highest order is **3**.
 10. d = 480 × 10⁻⁹ / sin 20.0° = 1.40 × 10⁻⁶ m, giving **713 lines per mm** (to 3 s.f.).
 11. The central maximum is **white**. The first order is a **spectrum**, violet nearest the centre and red furthest.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-superposition-double-slit-interference-single-slit--04-ibp-ssd-young.webp" width="900" height="1030" alt="A laser lights two slits a distance d apart, with a screen at distance D. The next bright fringe has path difference one wavelength. For 532 nm, D = 1.80 m and d = 0.25 mm the fringe separation is 3.83 mm, shown as a computed fringe strip." loading="lazy">
+  <figcaption>s = lambda D / d gives the fringe separation from wavelength, screen distance and slit separation.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

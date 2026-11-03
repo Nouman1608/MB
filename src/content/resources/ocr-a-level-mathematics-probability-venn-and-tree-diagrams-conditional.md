@@ -116,6 +116,12 @@ P(exactly one) = P(train late, bus on time) + P(train on time, bus late)
 P(at least one) = 1 − P(neither) = 1 − 0.8 × 0.9 = 0.28
 ```
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-maths-9709-probability-statistics-1--01-venn-addition-law.webp" width="900" height="870" alt="Venn diagram for cards 1 to 20 with A multiples of 3 and B even: 3 only in A, 3 in both, 7 only in B, 7 in neither. 6 + 10 - 3 = 13 cards, so P(A or B) = 13/20 and P(A') = 7/10." loading="lazy">
+  <figcaption>Adding P(A) and P(B) counts the overlap twice, so it is subtracted once.</figcaption>
+</figure>
+
+
 ## 2.03c Conditional probability (A Level only)
 
 In P(B | A), the bar is read "given": the chance of B once A is known to have happened. Two formulae are required:
@@ -168,11 +174,6 @@ P(A' ∩ B') = 1 − P(A ∪ B) = 0.2
 P(B') = 1 − 0.35 = 0.65
 P(A' | B') = 0.2 / 0.65 = 4/13
 ```
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-level-maths-9709-probability-statistics-1--01-venn-addition-law.webp" width="900" height="870" alt="Venn diagram for cards 1 to 20 with A multiples of 3 and B even: 3 only in A, 3 in both, 7 only in B, 7 in neither. 6 + 10 - 3 = 13 cards, so P(A or B) = 13/20 and P(A') = 7/10." loading="lazy">
-  <figcaption>Adding P(A) and P(B) counts the overlap twice, so it is subtracted once.</figcaption>
-</figure>
 
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/a-level-maths-9709-probability-statistics-1--04-tree-without-replacement.webp" width="900" height="950" alt="Tree for two counters from 6 red and 4 blue without replacement. Second-stage probabilities change (5/9, 4/9 after red; 6/9, 3/9 after blue). Path probabilities RR 30/90, RB 24/90, BR 24/90, BB 12/90. At least one blue is 60/90 = 2/3, and P(first red given at least one blue) = 24/60 = 2/5." loading="lazy">

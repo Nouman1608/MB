@@ -138,6 +138,21 @@ Real GDP index: 100.0, then falls 0.3% and falls a further 0.6%, then rises 0.5%
   <figcaption>Short-run growth uses spare capacity; long-run growth raises capacity itself.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-basic-economic-problem--07-ppc-shift-vs-movement.webp" width="900" height="1190" alt="Top: a point inside the curve moves to the curve by using idle resources more fully; this is temporary, reversible and not economic growth on this syllabus. Bottom: the whole curve shifts outward because of more or better resources or better technology, a permanent increase in capacity, which is economic growth." loading="lazy">
+  <figcaption>Only an outward shift of the whole curve counts as economic growth.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-macroeconomics--02-ad-shift.webp" width="900" height="1020" alt="Aggregate demand shifts right from AD1 to AD2 along an upward-sloping SRAS, so equilibrium moves from E1 to E2 with higher output and price level. A vertical LRAS shows spare capacity remains." loading="lazy">
+  <figcaption>A rise in a component of AD (C, I, G or X minus M) shifts the whole AD curve and raises output and the price level.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-aggregate-demand-supply--07-lras-growth.webp" width="900" height="1000" alt="LRAS shifts right from output 100 to 130, with SRAS shifted right by the same amount. Equilibrium moves from output 90, price level 65 to output 105, price level 57.5. Technology, productivity, enterprise, factor mobility, incentives and institutions are listed as causes." loading="lazy">
+  <figcaption>Underlying economic growth is a rightward shift in LRAS, raising output and easing prices.</figcaption>
+</figure>
+
 
 ## Why GDP is measured, and its limits
 
@@ -184,6 +199,11 @@ Falling demand → lower output → firms cut jobs → unemployment rises → in
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/ocr-a-level-economics-economic-growth-gdp-and-recession--09-recession-quarterly-index.webp" width="900" height="860" alt="Line chart of the real GDP index 100.0, 99.2, 98.5, 98.9. Two falls in a row meet the recession rule; peak to trough is minus 1.5 percent and Q4 is still 1.1 percent below the peak." loading="lazy">
   <figcaption>Two consecutive falls, a 1.5% fall peak to trough, and a still-incomplete recovery.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-economics-macroeconomics-measuring-and-managing-the-economy--02-business-cycle.webp" width="900" height="880" alt="A wavy, upward-trending line of real GDP passes through expansion, a peak, a contraction (recession) and a trough, then expands again. A recession is a period when real output falls; slower growth is not a recession." loading="lazy">
+  <figcaption>The business cycle has expansion, peak, contraction (recession) and trough phases.</figcaption>
 </figure>
 
 

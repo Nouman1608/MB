@@ -85,6 +85,11 @@ Two methods: **proof by deduction** (a general algebraic argument that holds for
   <figcaption>The centre always lies on the perpendicular bisector of any chord, so two chords fix the centre.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-mathematics-pure-mathematics-1-coordinate-geometry--05-angle-in-semicircle.webp" width="900" height="1046" alt="Circle with diameter PQ, P(1,7), Q(7,-1), point R(8,6): gradients -1/7 and 7 multiply to -1, so angle PRQ is 90 degrees." loading="lazy">
+  <figcaption>A diameter subtends a right angle at any other point of the circle, which can be proved with gradients.</figcaption>
+</figure>
+
 
 ## Sequences and series (P2.4)
 
@@ -105,9 +110,46 @@ Don't assume every series has a finite sum — check the convergence condition f
 
 **Binomial expansion:** (a + bx)ⁿ for a positive integer n expands using the binomial coefficients (written ⁿCᵣ or `n choose r`). This is assessed in the same section as sequences and series, though it is a separate skill from summing a series.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-maths-9709-pure-mathematics-1-series--01-ap-vs-gp.webp" width="900" height="1060" alt="Two bar charts of six terms each. The arithmetic progression 5, 8, 11, 14, 17, 20 adds 3 each time, so the added amount on top of each bar is the same height every time. The geometric progression 3, 6, 12, 24, 48, 96 doubles each time, so the added amount grows. Three consecutive terms satisfy 2b = a + c for an arithmetic progression (8, 11, 14) and b squared = ac for a geometric one (6, 12, 24)." loading="lazy">
+  <figcaption>An arithmetic progression adds the same amount each time; a geometric progression multiplies by the same ratio.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-maths-9709-pure-mathematics-1-series--02-ap-sum-pairing.webp" width="900" height="1070" alt="The series 3 + 7 + 11 + 15 + 19 + 23 + 27, written as the sum from r = 1 to 7 of (4r minus 1), is drawn as seven columns. Each column stacks a term on the term in the reversed order and every column totals 30, the first term plus the last. Seven columns of 30 give twice the sum, 210, so the sum is 105." loading="lazy">
+  <figcaption>Pairing each term with its reverse shows why S_n = half n times (a + l).</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-maths-9709-pure-mathematics-1-series--04-gp-convergence.webp" width="900" height="1230" alt="Four stem plots of the first eight terms of a geometric series with first term 1. For r = 0.6 and r = minus 0.6 the terms shrink to zero (convergent). For r = 1.2 and r = minus 1.2 they grow (divergent). A number line shows convergence exactly when r is between minus 1 and 1." loading="lazy">
+  <figcaption>A geometric series has a sum to infinity only when |r| &lt; 1.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-maths-9709-pure-mathematics-1-series--03-gp-sum-to-infinity.webp" width="900" height="1030" alt="A graph of the partial sums of 81 + 54 + 36 + ... (first term 81, ratio 2/3) for n = 1 to 20. The points rise then flatten towards a dashed line at 243, the sum to infinity. At n = 5 the sum is 211, a gap of 32. The gap 243(2/3)^n first drops below 1 at n = 14." loading="lazy">
+  <figcaption>Partial sums of a convergent geometric series level off at S_infinity = a/(1 - r).</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-maths-9709-pure-mathematics-1-series--07-pascal-binomial.webp" width="900" height="1130" alt="Pascal’s triangle for n = 0 to 6, each entry the sum of the two above; row 5 (1, 5, 10, 10, 5, 1) is highlighted and 10 is shown as 4 + 6. Below, a bar chart of the six terms of (4 + 3x)^5: 1024, 3840x, 5760x^2, 4320x^3, 1620x^4, 243x^5. At x = 1 they add to 7^5 = 16807." loading="lazy">
+  <figcaption>Row n of Pascal’s triangle gives the binomial coefficients; the terms of (4 + 3x)^5 sum to 7^5 at x = 1.</figcaption>
+</figure>
+
+
 ## Exponentials and logarithms (P2.5)
 
 Laws of logarithms, and solving equations involving exponential/logarithmic functions. Questions frequently **combine geometric series with exponential growth/decay contexts** (investment growth, population change) — recognise this link rather than treating P2.4 and P2.5 as unrelated content.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-maths-9709-pure-mathematics-2-logarithms-and-exponentials--04-log-ruler-laws.webp" width="900" height="940" alt="A log ruler marks 1 to 10 at their base-10 logs. Bars of length lg 2 and lg 3 end at 6, so lg 2 + lg 3 = lg 6. A bar lg 8 minus lg 2 has length lg 4. Two bars of lg 3 end at 9, so 2 lg 3 = lg 9." loading="lazy">
+  <figcaption>Logarithms turn products into sums: lengths on a log ruler add.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-maths-9709-pure-mathematics-2-logarithms-and-exponentials--05-solve-index.webp" width="900" height="1160" alt="The graph of 5^x meets y = 40 at x = 2.29 (ln 40 divided by ln 5). Below, points 0.8^n fall; n = 13 gives 0.0550 and n = 14 gives 0.0440, the first below 0.05. Dividing by the negative ln 0.8 reverses the inequality, so n &gt; 13.4." loading="lazy">
+  <figcaption>Taking logs solves aˣ = b, and a negative log reverses an inequality.</figcaption>
+</figure>
+
 
 ## Trigonometry (P2.6)
 
@@ -116,6 +158,16 @@ Laws of logarithms, and solving equations involving exponential/logarithmic func
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/edexcel-a-level-mathematics-pure2-revision-notes--06-solve-2sin2-minus-1.webp" width="900" height="760" alt="The sine curve from 0 to 360 degrees meets y = 0.707 and y = -0.707 at 45, 135, 225 and 315 degrees, the four solutions of 2 sin squared theta minus 1 = 0." loading="lazy">
   <figcaption>Both roots of sin θ = ±√2/2 give four solutions in the interval.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-mathematics-reciprocal-and-inverse-trig-functions-identities--06-three-triangles.webp" width="900" height="770" alt="A quarter unit circle with a ray at 35°. The triangle with hypotenuse 1 gives sin² + cos² = 1; the triangle on the tangent line gives 1 + tan² = sec²; the triangle on the line y = 1 gives 1 + cot² = cosec²." loading="lazy">
+  <figcaption>Pythagoras in three similar triangles gives all three identities.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-mathematics-reciprocal-and-inverse-trig-functions-identities--09-solve-sin-symmetry.webp" width="900" height="960" alt="Sine graph with the line y = −0.4 meeting it at 203.6° and 336.4°, each a reference angle α = 23.58° from 180° and 360°. The calculator value −23.58° is outside the interval." loading="lazy">
+  <figcaption>Find the reference angle, then use symmetry to list every solution in the interval.</figcaption>
 </figure>
 
 
@@ -130,6 +182,21 @@ Laws of logarithms, and solving equations involving exponential/logarithmic func
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/edexcel-a-level-mathematics-pure2-revision-notes--05-cubic-stationary-points.webp" width="900" height="780" alt="Graph of y = x cubed minus 3x with a maximum at (-1, 2), where the second derivative is -6, and a minimum at (1, -2), where it is +6; dashed flat tangents mark dy/dx = 0." loading="lazy">
   <figcaption>Solve dy/dx = 0, then classify with the second derivative.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-mathematics-stationary-points-definite-integrals-areas-and-the--01-gradient-sign-nature.webp" width="900" height="870" alt="Graph of y = x^3 - 9x^2 + 15x + 8 with the gradient sign marked in three zones. The curve increases for x &lt; 1, decreases for 1 &lt; x &lt; 5 and increases for x &gt; 5. It has a maximum at (1, 15) and a minimum at (5, -17), both with horizontal tangents." loading="lazy">
+  <figcaption>The sign of dy/dx either side of a stationary point tells you whether it is a maximum or a minimum.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-mathematics-stationary-points-definite-integrals-areas-and-the--02-second-derivative-zero.webp" width="900" height="850" alt="Graph of y = 3x^5 - 5x^3 with a maximum at (-1, 2) and minimum at (1, -2). At the origin f″ = 0 so the second-derivative test fails; the gradient is -2.8125 at x = -0.5 and x = 0.5 and 0 at x = 0, so the origin is a point of inflection." loading="lazy">
+  <figcaption>When f″(x) = 0, check the gradient on both sides: the same sign means a point of inflection.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-mathematics-stationary-points-definite-integrals-areas-and-the--05-signed-area.webp" width="900" height="920" alt="Graph of y = x(x-2)(x-5) from 0 to 5. The region above the axis from 0 to 2 has area 16/3 and the region below from 2 to 5 has area 63/4, total 253/12. Integrating 0 to 5 in one step gives the signed value -125/12, not an area." loading="lazy">
+  <figcaption>Integrate each section between roots separately and add the magnitudes to get the true area.</figcaption>
 </figure>
 
 

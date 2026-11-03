@@ -92,6 +92,11 @@ The triangle with vertices (1, 2), (7, 2) and (4, 6) has two equal sides of leng
   <figcaption>A regular n-sided polygon has n lines and order n; the smallest turn is 360° ÷ n.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-mathematics-congruence-and-congruence-proofs--03-not-enough.webp" width="900" height="1120" alt="Top: two triangles with the same angles of 40, 60 and 80 degrees but sides of 7 cm and 12 cm, so not congruent. Bottom: a base of 8 cm with a 40 degree angle at A; a 6 cm side from B meets the ray from A at two points, giving two different triangles." loading="lazy">
+  <figcaption>AAA gives similar triangles, and SSA can fit two different triangles, so neither proves congruence.</figcaption>
+</figure>
+
 
 ## Congruence and its conditions (G7)
 
@@ -111,6 +116,11 @@ Not enough: AAA (same shape, size can differ) and SSA (can give two triangles).
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/oxfordaqa-igcse-mathematics-symmetry-congruence-similarity-and-3d-solids-with--05-congruence-conditions-oxfordaqa.webp" width="900" height="1165" alt="SSS, SAS, ASA or AAS and RHS prove congruence. AAA does not, because a larger triangle has the same angles. SSA does not, because the arc can cut the other arm in two places." loading="lazy">
   <figcaption>Four conditions prove congruence; AAA and SSA do not.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-mathematics-congruence-and-congruence-proofs--02-four-conditions.webp" width="900" height="940" alt="Four rows each show two equal triangles, the second turned or flipped. Tick marks and arcs show which sides and angles are equal for SSS, SAS (angle between the sides), ASA (side between the angles) and RHS (right angle, hypotenuse, one side)." loading="lazy">
+  <figcaption>Each of SSS, SAS, ASA and RHS is enough on its own to prove two triangles congruent.</figcaption>
 </figure>
 
 
@@ -165,6 +175,11 @@ Use the whole side AB, not the part DB, when AD is the small side.
   <figcaption>Compare whole sides AB and AD to find BC.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-mathematics-similarity-and-enlargement--03-similar-triangles-parallel.webp" width="900" height="930" alt="Triangle ADE sits inside triangle ABC with DE parallel to BC. Angle A is shared and the angles at D and B, and at E and C, are equal, so the triangles are similar with scale factor 9 / 6 = 1.5. BC = 8 x 1.5 = 12 cm." loading="lazy">
+  <figcaption>A line parallel to one side creates a smaller similar triangle; the scale factor gives the unknown side.</figcaption>
+</figure>
+
 
 ## Solids (G10)
 
@@ -185,6 +200,11 @@ Worked reminder: a prism with 9 faces has n + 2 = 9, so n = 7. It has 14 vertice
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/oxfordaqa-igcse-mathematics-symmetry-congruence-similarity-and-3d-solids-with--07-solids-faces-edges-vertices.webp" width="900" height="1115" alt="Cuboid 6, 0, 12, 8; cylinder 2 flat faces, 1 curved surface, 2 curved edges, 0 vertices; cone 1, 1, 1 curved edge, 1 vertex; sphere 0, 1, 0, 0." loading="lazy">
   <figcaption>Counts for a cuboid, cylinder, cone and sphere drawn on the solids.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-mathematics-geometry-notation-and-terms-instruments-3d-solids--09-solid-counts.webp" width="900" height="990" alt="A triangular prism (5 faces, 9 edges, 6 vertices) and a square-based pyramid (5 faces, 8 edges, 5 vertices) with hidden edges dashed and vertices marked. For both, faces + vertices - edges = 2." loading="lazy">
+  <figcaption>Count faces, edges and vertices from a drawing, and check with F + V - E = 2.</figcaption>
 </figure>
 
 
@@ -209,22 +229,6 @@ Worked reminder: a prism with 9 faces has n + 2 = 9, so n = 7. It has 14 vertice
 
 Draw on squared paper to a stated scale. Put the plan above or below the front elevation with matching widths in line. Put the side elevation beside the front elevation with matching heights in line. Label the dimensions.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/oxfordaqa-igcse-mathematics-symmetry-congruence-similarity-and-3d-solids-with--01-plans-elevations-solids.webp" width="900" height="1000" alt="A table of views. A cylinder on its end has a circle as plan and rectangles as front and side. A cone has a circle with a centre point as plan and triangles as front and side. A square-based pyramid has a square with lines from the corners to the centre as plan and triangles as front and side. The 6 cm triangular prism of Worked example 10 has a 6 by 4 rectangle with a ridge line as plan, a 6 by 3 rectangle as front elevation and a triangle of base 4 and height 3 as side elevation." loading="lazy">
-  <figcaption>Plan, front and side views of a cylinder, cone, square-based pyramid and the triangular prism of Worked example 10.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/oxfordaqa-igcse-mathematics-symmetry-congruence-similarity-and-3d-solids-with--02-cube-model-elevations.webp" width="900" height="990" alt="A 3 by 3 plan with back row 3, 0, 1, middle row 0, 1, 1 and front row 2, 2, 0. The front elevation shows stacks of 3, 2 and 1 cubes left to right. The side elevation from the right shows 2, 1 and 3, because the front row is on the left when viewed from the right. There are 10 cubes in total." loading="lazy">
-  <figcaption>Reading the front and right-hand elevations from a plan of cube stacks, with the front-on-the-left trap made visible.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/oxfordaqa-igcse-mathematics-symmetry-congruence-similarity-and-3d-solids-with--08-construct-plans-elevations.webp" width="900" height="770" alt="A 6 cm triangular prism: plan 6 by 4 with a ridge line, front elevation 6 by 3 below it, side elevation a triangle of base 4 and height 3 beside it, with dashed lines to align widths and heights." loading="lazy">
-  <figcaption>Plan first, then project down for the front and across for the side.</figcaption>
-</figure>
-
-
 ## Quick self-test
 
 1. How many mirror lines does a regular hexagon have, and what is its order of rotation symmetry?
@@ -240,6 +244,12 @@ Draw on squared paper to a stated scale. Put the plan above or below the front e
 11. A cube model has plan numbers: back row 4, 1 and front row 0, 3. Find the front elevation heights from left to right.
 12. For the model in question 11, give the side elevation heights viewed from the right, and the total number of cubes.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-mathematics-symmetry-congruence-similarity-and-3d-solids-with--08-construct-plans-elevations.webp" width="900" height="770" alt="A 6 cm triangular prism: plan 6 by 4 with a ridge line, front elevation 6 by 3 below it, side elevation a triangle of base 4 and height 3 beside it, with dashed lines to align widths and heights." loading="lazy">
+  <figcaption>Plan first, then project down for the front and across for the side.</figcaption>
+</figure>
+
+
 ### Answers
 
 1. 6 lines of symmetry and order 6.
@@ -254,6 +264,17 @@ Draw on squared paper to a stated scale. Put the plan above or below the front e
 10. The plan is a circle of diameter 5 cm. The front elevation is a rectangle 5 cm wide and 6 cm high.
 11. Column maxima: 4 and 3, so the heights are 4, 3.
 12. Row maxima are 4 (back) and 3 (front). From the right the front is on the left, so the heights are 3, 4. The total is 4 + 1 + 0 + 3 = 8 cubes.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-mathematics-symmetry-congruence-similarity-and-3d-solids-with--01-plans-elevations-solids.webp" width="900" height="1000" alt="A table of views. A cylinder on its end has a circle as plan and rectangles as front and side. A cone has a circle with a centre point as plan and triangles as front and side. A square-based pyramid has a square with lines from the corners to the centre as plan and triangles as front and side. The 6 cm triangular prism of Worked example 10 has a 6 by 4 rectangle with a ridge line as plan, a 6 by 3 rectangle as front elevation and a triangle of base 4 and height 3 as side elevation." loading="lazy">
+  <figcaption>Plan, front and side views of a cylinder, cone, square-based pyramid and the triangular prism of Worked example 10.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-mathematics-symmetry-congruence-similarity-and-3d-solids-with--02-cube-model-elevations.webp" width="900" height="990" alt="A 3 by 3 plan with back row 3, 0, 1, middle row 0, 1, 1 and front row 2, 2, 0. The front elevation shows stacks of 3, 2 and 1 cubes left to right. The side elevation from the right shows 2, 1 and 3, because the front row is on the left when viewed from the right. There are 10 cubes in total." loading="lazy">
+  <figcaption>Reading the front and right-hand elevations from a plan of cube stacks, with the front-on-the-left trap made visible.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

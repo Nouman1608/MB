@@ -120,6 +120,12 @@ total distance = 412.5 m
 
 The accelerations are **1.5, 0 and −3 m s⁻²** and the distance is **412.5 m**. The car never reverses, so distance and displacement agree.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-kinematics--02-vt-graph-areas.webp" width="900" height="900" alt="A velocity-time graph rises to 12 m/s in 5 s, stays level to t = 11, then falls to minus 4 m/s at t = 15, crossing zero at t = 14. The areas are 30, 72, 18 above the axis and 2 below. Displacement is 118 m and distance 122 m." loading="lazy">
+  <figcaption>Gradients give acceleration; areas give displacement, and distance counts every area as positive.</figcaption>
+</figure>
+
+
 ## Constant acceleration (3.02d)
 
 Use only when acceleration is constant and motion is in a straight line.
@@ -223,12 +229,6 @@ speed at t = 2: 1 m/s
 
 At **t = 2** the particle is at **(4, 2)** with speed **1 m s⁻¹**.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-kinematics--06-vector-motion-plane.webp" width="900" height="900" alt="The path of r = (t³ − 3t)i + (2t² + 1)j from t = 0 to 2 with velocity arrows. At t = 0 the velocity is minus 3i, at t = 1 it is 4j (i component zero) and at t = 2 it is 9i + 8j, speed 12.0 m/s, with acceleration 12i + 4j." loading="lazy">
-  <figcaption>Differentiate each component separately; parallel to j means the i component of velocity is zero.</figcaption>
-</figure>
-
-
 ## Quick self-test
 
 1. Write the newton in terms of kg, m and s.
@@ -259,6 +259,12 @@ At **t = 2** the particle is at **(4, 2)** with speed **1 m s⁻¹**.
 11. s = vt − ½at².
 12. 20 × 0.15 = **3 N m**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-kinematics--06-vector-motion-plane.webp" width="900" height="900" alt="The path of r = (t³ − 3t)i + (2t² + 1)j from t = 0 to 2 with velocity arrows. At t = 0 the velocity is minus 3i, at t = 1 it is 4j (i component zero) and at t = 2 it is 9i + 8j, speed 12.0 m/s, with acceleration 12i + 4j." loading="lazy">
+  <figcaption>Differentiate each component separately; parallel to j means the i component of velocity is zero.</figcaption>
+</figure>
+
+
 ## Where marks are usually lost
 
 - Using a constant acceleration formula when acceleration varies.
@@ -270,11 +276,6 @@ At **t = 2** the particle is at **(4, 2)** with speed **1 m s⁻¹**.
 - Quoting a speed as a vector, or a velocity without its direction.
 - Leaving out units on the final answer.
 - Not showing the formula and substitution when a question says "show that".
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-kinematics--02-vt-graph-areas.webp" width="900" height="900" alt="A velocity-time graph rises to 12 m/s in 5 s, stays level to t = 11, then falls to minus 4 m/s at t = 15, crossing zero at t = 14. The areas are 30, 72, 18 above the axis and 2 below. Displacement is 118 m and distance 122 m." loading="lazy">
-  <figcaption>Gradients give acceleration; areas give displacement, and distance counts every area as positive.</figcaption>
-</figure>
 
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/aqa-a-level-mathematics-kinematics--04-vertical-two-roots.webp" width="900" height="910" alt="A displacement-time parabola for a ball thrown up at 21 m/s peaks at 22.5 m. The line s = 15 m meets it at t = 0.91 s going up and t = 3.38 s coming down, with velocities plus and minus 12.1 m/s from the tangent gradients. The gap of 2.47 s is the time above 15 m." loading="lazy">

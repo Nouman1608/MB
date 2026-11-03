@@ -62,6 +62,12 @@ Use elimination and substitution on pairs of equations in two unknowns, includin
 5. Return to the linear equation for each matching value.
 6. Write the answers as pairs.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-solving-simultaneous-equations-by-elimination-and--03-amth-simultaneous-line-circle.webp" width="900" height="972" alt="The line y=2x+1 meets the circle x^2+y^2=34 at two points. Substituting gives 5x^2+4x-33=0 so x=11/5 or -3, and the line gives y=27/5 and -5." loading="lazy">
+  <figcaption>Substitute the linear equation into the quadratic, then use the line to find each partner value.</figcaption>
+</figure>
+
+
 ## Discriminant cases for a line and a curve
 
 After equating, you have ax² + bx + c = 0 in x. Then:
@@ -143,11 +149,6 @@ Compare the ratios of coefficients before you start. If the x and y coefficients
   <figcaption>A solution is a point on both lines, so lines can cross once, never, or coincide.</figcaption>
 </figure>
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-solving-simultaneous-equations-by-elimination-and--03-amth-simultaneous-line-circle.webp" width="900" height="972" alt="The line y=2x+1 meets the circle x^2+y^2=34 at two points. Substituting gives 5x^2+4x-33=0 so x=11/5 or -3, and the line gives y=27/5 and -5." loading="lazy">
-  <figcaption>Substitute the linear equation into the quadratic, then use the line to find each partner value.</figcaption>
-</figure>
-
 
 ## Checking your answers
 
@@ -168,12 +169,6 @@ Finding where a line meets a curve is the algebra behind many coordinate geometr
 - **Tangent versus intersection.** A tangent gives one repeated root, so one point, not two.
 - **x-values versus points.** The quadratic in x gives only x-values. The question wants points.
 - **Exact versus decimal.** Surd answers stay as surds unless you are asked for a rounded form.
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-solving-simultaneous-equations-by-elimination-and--02-amth-simultaneous-elimination.webp" width="900" height="962" alt="The lines 5x+3y=11 and 2x-7y=4 cross at (89/41, 2/41). Scaling by 7 and 3 and adding gives 41x = 89, a vertical line through the same crossing point; substituting gives y = 2/41." loading="lazy">
-  <figcaption>Adding the scaled equations produces a new line through the same intersection point.</figcaption>
-</figure>
-
 
 ## Quick self-test
 
@@ -209,6 +204,17 @@ Attempt every question before checking the answers below.
 - If a question says "show that", reach the printed result with every line of working.
 - Read the command words: "solve" wants points, "find the range of k" wants an inequality in k.
 - Keep exact fractions and surds in the working and round only at the end.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-solving-simultaneous-equations-by-elimination-and--02-amth-simultaneous-elimination.webp" width="900" height="962" alt="The lines 5x+3y=11 and 2x-7y=4 cross at (89/41, 2/41). Scaling by 7 and 3 and adding gives 41x = 89, a vertical line through the same crossing point; substituting gives y = 2/41." loading="lazy">
+  <figcaption>Adding the scaled equations produces a new line through the same intersection point.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-solving-simultaneous-equations-by-elimination-and--05-amth-simultaneous-surd-chord.webp" width="900" height="955" alt="The line y=x+3 meets y=x^2-2x at x=(3 plus or minus root 21)/2, about (3.79, 6.79) and (-0.791, 2.21). A right-angled triangle with legs root 21 shows the distance between them is root 42, about 6.48." loading="lazy">
+  <figcaption>Keep surd solutions exact and match the signs; the gradient-1 line makes the chord length root 42.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

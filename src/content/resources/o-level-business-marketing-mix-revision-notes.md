@@ -187,6 +187,12 @@ Cost-effectiveness: compare cost per extra sale and the profit earned per sale. 
 
 Social media promotion: low cost, targeted, measurable, two-way. Limits: bad comments spread fast, takes staff time, followers may not buy.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-business-influences-on-business--01-ecommerce-reach.webp" width="900" height="1090" alt="A shop selling only to a few nearby customers inside a small dashed circle, then the same shop with a website reaching many customers spread widely. Labels say e-commerce affects marketing (wider markets) and operations (order fulfilment)." loading="lazy">
+  <figcaption>E-commerce lets a business reach customers well beyond its local area.</figcaption>
+</figure>
+
+
 ## Small worked reminders
 
 Life cycle reading. A board game sells 5, 14, 26, 31, 31.5 and 28 thousand over six years. Year-on-year changes are +180%, +85.7%, +19.2%, +1.6% and -11.1%. Growth is strong at first, slows sharply by year 4, is almost flat in year 5, and falls in year 6. So: introduction and growth, maturity around years 4 and 5, early decline in year 6. A sensible next step is an extension strategy such as a new edition.

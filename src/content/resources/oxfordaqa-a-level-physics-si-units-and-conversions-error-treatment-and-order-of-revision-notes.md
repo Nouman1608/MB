@@ -188,12 +188,6 @@ Whenever a quantity is found from a gradient or intercept, carry the percentage 
 
 **Worked reminder.** A sprinter of mass 70 kg runs at 8 m s⁻¹. Kinetic energy = ½ × 70 × 8² = 2240 J, so about **10³ J**.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-level-oxfordaqa-physics-measurements-and-their-errors--08-order-of-magnitude.webp" width="900" height="910" alt="A log ruler with decades 10^5, 10^6, 10^7 and crossover marks at 3.16 times each power. 2 x 10^5 is order 10^5; 3.4 x 10^5 and 8 x 10^5 are order 10^6; 4 x 10^6 is order 10^7. OxfordAQA gives the crossover as about 3.2." loading="lazy">
-  <figcaption>Above 3.16 x 10^n the order of magnitude is 10^(n+1).</figcaption>
-</figure>
-
-
 ## Quick self-test
 
 1. Convert 450 cm³ to m³.
@@ -219,6 +213,12 @@ Whenever a quantity is found from a gradient or intercept, carry the percentage 
 8. (5.2 − 4.6) ÷ 2 = 0.3, so **4.9 ± 0.3**.
 9. **0.35 ± 0.02**.
 10. **10⁸** and **10⁹**.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-oxfordaqa-physics-measurements-and-their-errors--08-order-of-magnitude.webp" width="900" height="910" alt="A log ruler with decades 10^5, 10^6, 10^7 and crossover marks at 3.16 times each power. 2 x 10^5 is order 10^5; 3.4 x 10^5 and 8 x 10^5 are order 10^6; 4 x 10^6 is order 10^7. OxfordAQA gives the crossover as about 3.2." loading="lazy">
+  <figcaption>Above 3.16 x 10^n the order of magnitude is 10^(n+1).</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

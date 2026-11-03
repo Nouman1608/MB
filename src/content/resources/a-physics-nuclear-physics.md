@@ -67,17 +67,6 @@ x = x₀e^(−λt), where x could represent activity, number of undecayed
 nuclei or received count rate; recalling and using the relation between
 decay constant and half-life, and applying this relation to solve problems.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-physics-nuclear-physics--08-aphy-nuclear-reactor.webp" width="900" height="960" alt="Cross-section of a reactor with fuel rods in a moderator, control rods that absorb neutrons, coolant leaving hot and returning cool, and thick shielding. Heat passes to a heat exchanger, turbine and generator. Control rods hold k at 1." loading="lazy">
-  <figcaption>The moderator slows neutrons and the control rods absorb them.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-physics-nuclear-physics--09-aphy-nuclear-radius.webp" width="900" height="1110" alt="Nuclei with A = 4, 64 and 216 have radii 1.9, 4.8 and 7.2 fm from R = 1.2 A^(1/3) fm. R plotted against the cube root of A is a straight line of gradient R0. Mass and volume both scale with A, so every nucleus has the same density, about 2.3 x 10^17 kg per cubic metre." loading="lazy">
-  <figcaption>Nuclear radius grows as the cube root of A, so nuclear density is constant.</figcaption>
-</figure>
-
-
 ## Mass-energy equivalence and mass defect
 
 Einstein's mass-energy equivalence states that mass and energy are
@@ -151,6 +140,11 @@ superscripts) sum to the same total on both sides, and the proton numbers
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/a-physics-nuclear-physics--02-aphy-nuclear-decay-modes.webp" width="900" height="990" alt="Graph of neutron number against proton number with a narrow band of stable nuclei above the N = Z line. Neutron-rich nuclei above the band decay by beta-minus (Z+1, N-1), proton-rich nuclei below it by beta-plus or electron capture (Z-1, N+1), and very heavy nuclei by alpha (Z-2, N-2)." loading="lazy">
   <figcaption>The position of a nucleus relative to the stable band decides its decay mode.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-nuclear-physics--09-aphy-nuclear-radius.webp" width="900" height="1110" alt="Nuclei with A = 4, 64 and 216 have radii 1.9, 4.8 and 7.2 fm from R = 1.2 A^(1/3) fm. R plotted against the cube root of A is a straight line of gradient R0. Mass and volume both scale with A, so every nucleus has the same density, about 2.3 x 10^17 kg per cubic metre." loading="lazy">
+  <figcaption>Nuclear radius grows as the cube root of A, so nuclear density is constant.</figcaption>
 </figure>
 
 

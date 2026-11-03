@@ -170,17 +170,6 @@ Productivity gains can lower export prices, which lowers the index but raises co
 - Is the advantage likely to last?
 - Who gains and who loses?
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/cambridge-a-level-economics-absolute-and-comparative-advantage-free-trade-and-the--09-increasing-opportunity-costs.webp" width="900" height="840" alt="Each extra 20 cloth costs 10, then 15, then 25 tea, which is 0.50, 0.75 and 1.25 tea per cloth. Comparative advantage shrinks as cloth output rises." loading="lazy">
-  <figcaption>Opportunity cost rises as a country specialises.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/cambridge-a-level-economics-absolute-and-comparative-advantage-free-trade-and-the--10-transport-costs-erase-gain.webp" width="900" height="830" alt="The gain from specialising was 3 cloth. Shipping worth 3 cloth leaves a net gain of 0, and shipping worth more (4 is illustrative) leaves a net loss." loading="lazy">
-  <figcaption>Transport costs can wipe out the gain from trade.</figcaption>
-</figure>
-
-
 ## Quick self-test
 
 1. Define comparative advantage.
@@ -210,6 +199,17 @@ Productivity gains can lower export prices, which lowers the index but raises co
 10. Consumption possibilities after trade, which can lie outside the PPC.
 11. For example, transport costs, increasing opportunity costs, immobile factors, dependence, changing advantage.
 12. 200 × 15 ÷ 12 = 250 units.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-absolute-and-comparative-advantage-free-trade-and-the--09-increasing-opportunity-costs.webp" width="900" height="840" alt="Each extra 20 cloth costs 10, then 15, then 25 tea, which is 0.50, 0.75 and 1.25 tea per cloth. Comparative advantage shrinks as cloth output rises." loading="lazy">
+  <figcaption>Opportunity cost rises as a country specialises.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-absolute-and-comparative-advantage-free-trade-and-the--10-transport-costs-erase-gain.webp" width="900" height="830" alt="The gain from specialising was 3 cloth. Shipping worth 3 cloth leaves a net gain of 0, and shipping worth more (4 is illustrative) leaves a net loss." loading="lazy">
+  <figcaption>Transport costs can wipe out the gain from trade.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

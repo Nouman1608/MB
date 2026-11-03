@@ -33,6 +33,12 @@ Gradients, first principles, standard derivatives, tangents, stationary points a
 | 1.07s | Differentiate functions and relations defined implicitly or parametrically (first derivative only); find the gradient at a point and use it for tangents and normals | Implicit and parametric differentiation |
 | 1.07t | Construct simple differential equations in pure mathematics and in context (kinematics, population growth, price and demand are the contexts the specification names) | Constructing differential equations |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-maths-9709-pure-mathematics-1-differentiation--07-exp-and-ln-slopes.webp" width="900" height="1200" alt="Top: the graph of y = e to the x with gold tangents at x = 0, 1 and 2. The slope at each point equals its height: 1, e and e squared, so the derivative of e to the x is e to the x. Bottom: the graph of y = ln x with tangents at x = 1, 2 and 4 having slopes 1, one half and one quarter, so the derivative of ln x is 1 over x." loading="lazy">
+  <figcaption>The slope of eˣ equals its height and the slope of ln x at x is 1/x.</figcaption>
+</figure>
+
+
 ## Product and quotient rules (1.07q)
 
 Use the **product rule** when two functions of x are multiplied. Write y = uv, where u and v are both functions of x.
@@ -269,6 +275,12 @@ Look for the independent variable (usually time) and the sign of the rate. Rates
 Acceleration is dv/dt, so dv/dt = 6 − 0.2v. Differentiate the proposed solution: dv/dt = 30 × 0.2 e^(−0.2t) = 6e^(−0.2t). The right-hand side is 6 − 0.2 × 30(1 − e^(−0.2t)) = 6 − 6 + 6e^(−0.2t) = 6e^(−0.2t). The two sides agree, and v = 0 when t = 0. As t becomes large, v approaches 30, so the model gives a limiting speed of 30 m/s.
 
 **Connecting to separable equations (1.08k).** Equations of the form dP/dt = kP are solved by separating the variables, giving P = P₀eᵏᵗ. The solving is taught under 1.08k, but you need 1.07t to build the equation correctly first. Combining the chain rule with construction is common: if water leaves a tank of cross-section 4 m² at a rate proportional to the square root of the depth h, then 4(dh/dt) = −c√h, because dV/dt = (dV/dh)(dh/dt) with V = 4h.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-maths-9709-pure-mathematics-1-differentiation--04-tangent-and-normal.webp" width="900" height="942" alt="Graph of y = square root of (2x + 5) with equal scales on both axes. At P(2, 3) the gradient is one third, so the gold tangent is 3y = x + 7. The teal normal is perpendicular, with gradient minus 3, y = 9 minus 3x, and crosses the x-axis at (3, 0). A right-angle mark at P shows the lines are perpendicular because one third times minus 3 equals minus 1." loading="lazy">
+  <figcaption>The tangent and normal at P(2, 3) are perpendicular because their gradients multiply to −1.</figcaption>
+</figure>
+
 
 ## Common errors
 

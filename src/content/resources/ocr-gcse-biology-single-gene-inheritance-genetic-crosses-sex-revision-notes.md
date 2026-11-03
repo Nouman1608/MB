@@ -84,11 +84,6 @@ Probability: each box is 1/4, so 1 box = 25%, 2 boxes = 50%, 3 boxes = 75%.
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ocr-gcse-biology-single-gene-inheritance-genetic-crosses-sex--02-huntington-cross.webp" width="900" height="1030" alt="Punnett square of an affected Hh father and unaffected hh mother: two Hh and two hh boxes, so each child has a 1 in 2 chance. Four children are independent, so all four unaffected is 1/16." loading="lazy">
-  <figcaption>Hh x hh gives 50% affected for each child; four unaffected children in a row is 1/16.</figcaption>
-</figure>
-
-<figure class="topic-figure">
   <img src="https://img.marlbridge.com/ocr-gcse-biology-single-gene-inheritance-genetic-crosses-sex--04-genotype-count.webp" width="900" height="850" alt="Grids of squares show 3 genotypes for one gene, 9 for two and 27 for three, following 3^n." loading="lazy">
   <figcaption>Genotypes multiply as 3 to the power n, so one Punnett square cannot cope.</figcaption>
 </figure>
@@ -255,6 +250,11 @@ Working scientifically links:
 10. Gregor Mendel.
 11. Chromosomes and genes were not yet known, so his units had no physical explanation (or: his work was not widely read).
 12. Fertilisation is random, so small samples vary; larger samples come closer to the prediction.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-single-gene-inheritance-genetic-crosses-sex--02-huntington-cross.webp" width="900" height="1030" alt="Punnett square of an affected Hh father and unaffected hh mother: two Hh and two hh boxes, so each child has a 1 in 2 chance. Four children are independent, so all four unaffected is 1/16." loading="lazy">
+  <figcaption>Hh x hh gives 50% affected for each child; four unaffected children in a row is 1/16.</figcaption>
+</figure>
 
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/igcse-biology-0610-inheritance--06-monohybrid-1-to-1.webp" width="900" height="1074" alt="Punnett square for a heterozygous green beetle (Gg) crossed with a brown beetle (gg): two Gg green and two gg brown, a 1 : 1 ratio, because half the green parent’s gametes carry g." loading="lazy">

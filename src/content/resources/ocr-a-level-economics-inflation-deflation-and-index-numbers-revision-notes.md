@@ -40,6 +40,12 @@ These notes condense the topic **Inflation** from Component 2, Macroeconomics (H
 
 Why not zero inflation? A little inflation lets real wages adjust without cutting money pay and keeps the economy away from the risks of deflation.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-inflation-deflation-and-index-numbers--10-real-pay.webp" width="900" height="940" alt="Pay rises from 2,400 z to 2,760 z (+15%) but prices rise 21.4%, so real pay in year A prices is 2,273 z, a fall of 5.3%." loading="lazy">
+  <figcaption>Nominal pay rose 15% but real pay fell 5.3%.</figcaption>
+</figure>
+
+
 ## Distinctions to keep straight
 
 - **Disinflation versus deflation.** Inflation falls from 6% to 2%: disinflation, the price level still rises. Inflation of −1%: deflation, the price level falls.
@@ -47,11 +53,6 @@ Why not zero inflation? A little inflation lets real wages adjust without cuttin
 - **Nominal versus real.** Pay up 4% with prices up 6% means falling real pay.
 - **Demand-pull versus cost-push.** Demand-pull shifts AD right and raises output as well as prices. Cost-push shifts SRAS left and lowers output while prices rise.
 - **CPI versus RPI.** Different averaging methods, different treatment of housing, different household coverage.
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ocr-a-level-economics-inflation-deflation-and-index-numbers--10-real-pay.webp" width="900" height="940" alt="Pay rises from 2,400 z to 2,760 z (+15%) but prices rise 21.4%, so real pay in year A prices is 2,273 z, a fall of 5.3%." loading="lazy">
-  <figcaption>Nominal pay rose 15% but real pay fell 5.3%.</figcaption>
-</figure>
 
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/ib-dp-economics-macroeconomics-measuring-and-managing-the-economy--07-rate-versus-level.webp" width="900" height="1030" alt="Growth falls from 4% to 1% but real GDP still rises from 100 to 104 to 105.04. Inflation rises from 2% to 6%, so prices rise from 100 to 102 to 108.12, faster in year 2. Slower growth is not a recession." loading="lazy">
@@ -160,6 +161,16 @@ CPI tracks the cost of a basket of goods and services. The steps: choose the bas
   <figcaption>A weaker currency and wages outpacing productivity both push costs up.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-economics-macroeconomics-measuring-and-managing-the-economy--05-shifts-of-ad.webp" width="900" height="900" alt="With SRAS fixed, a rightward AD shift raises output from 120 to 140 and the price level from 80 to 90. A leftward shift lowers output to 100 and the price level to 70." loading="lazy">
+  <figcaption>A change in a component of AD shifts the AD curve and moves equilibrium output and prices together.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-economics-macroeconomics-measuring-and-managing-the-economy--06-shifts-of-sras.webp" width="900" height="900" alt="With AD fixed, a leftward SRAS shift (higher costs) cuts output from 120 to 90 and raises the price level from 80 to 95. A rightward shift raises output to 150 and lowers prices to 65." loading="lazy">
+  <figcaption>A change in production costs, productivity or capacity shifts AS.</figcaption>
+</figure>
+
 
 ## Consequences of inflation
 
@@ -225,6 +236,12 @@ CPI tracks the cost of a basket of goods and services. The steps: choose the bas
 9. 50 × 1.2³ = **86.4 z**.
 10. 1.06 ÷ 1.025 − 1 = **3.4%**.
 11. For example, deflation caused by productivity gains lowers prices and raises real incomes, or it makes exports cheaper.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-inflation-deflation-and-index-numbers--09-hyperinflation-compounding.webp" width="900" height="920" alt="A loaf costing 10 z rises 50% a month: 15 z after one month, about 114 after six and 1,297 after twelve. The curve steepens because rises compound." loading="lazy">
+  <figcaption>At 50% a month a 10 z loaf costs 1,297 z after a year.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

@@ -64,11 +64,6 @@ Worked reminder (unit cost). Sundrake Joinery has fixed costs of £18,000 a mont
   <figcaption>Job production makes single made-to-order items; flow production makes large volumes of identical items non-stop.</figcaption>
 </figure>
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/aqa-gcse-business-business-operations--06-break-even.webp" width="900" height="900" alt="Break-even chart for price 20 pounds, variable cost 12 pounds a unit and fixed costs 4,800 pounds. Revenue and total cost cross at 600 units and 12,000 pounds; left of it is a loss, right of it a profit." loading="lazy">
-  <figcaption>At £20 price, £12 variable cost and £4,800 fixed costs, a business breaks even at 600 units a month.</figcaption>
-</figure>
-
 
 ## 3.3.2 The role of procurement
 
@@ -166,12 +161,6 @@ Worked reminder. A café has 2,000 customers a month spending £9 each. Poor ser
 
 ICT has changed service: websites give information and support at any hour; e-commerce lets customers order online; social media allows quick two-way contact and public replies to complaints, which also means poor service becomes visible quickly.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/aqa-gcse-business-business-operations--05-customer-service-chain.webp" width="900" height="850" alt="Three methods of good service (product knowledge, customer engagement, after-sales service). Good service leads to a satisfied, loyal customer who spends more so profit rises. Poor service leads to an unhappy customer, bad word of mouth and falling revenue." loading="lazy">
-  <figcaption>Good service builds loyalty and profit; poor service damages reputation and revenue.</figcaption>
-</figure>
-
-
 ## Quick self-test
 
 1. Name the production method that makes one item to order.
@@ -201,6 +190,17 @@ ICT has changed service: websites give information and support at any hour; e-co
 10. Any two: user training, help lines, servicing.
 11. Any two: dissatisfied customers, poor word-of-mouth reputation, reduced revenue.
 12. Customers can contact the business quickly and publicly, so a complaint can be answered fast, but a poor reply is seen by many people.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-business-business-operations--05-customer-service-chain.webp" width="900" height="850" alt="Three methods of good service (product knowledge, customer engagement, after-sales service). Good service leads to a satisfied, loyal customer who spends more so profit rises. Poor service leads to an unhappy customer, bad word of mouth and falling revenue." loading="lazy">
+  <figcaption>Good service builds loyalty and profit; poor service damages reputation and revenue.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-business-business-operations--06-break-even.webp" width="900" height="900" alt="Break-even chart for price 20 pounds, variable cost 12 pounds a unit and fixed costs 4,800 pounds. Revenue and total cost cross at 600 units and 12,000 pounds; left of it is a loss, right of it a profit." loading="lazy">
+  <figcaption>At £20 price, £12 variable cost and £4,800 fixed costs, a business breaks even at 600 units a month.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

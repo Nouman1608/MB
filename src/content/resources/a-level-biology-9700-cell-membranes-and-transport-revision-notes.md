@@ -168,12 +168,6 @@ SA:V = 69.1 / 31.4 = 2.2 : 1
 4. Calculate SA:V for each cube and plot it against the result.
 5. Conclusion: larger SA:V gives faster complete colour change.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-level-biology-9700-cell-membranes-and-transport--07-agar-cubes.webp" width="900" height="990" alt="Cross-sections of 1, 2 and 3 cm agar cubes drawn to scale, each with a 0.25 cm band reached by acid and a pink unchanged core. The share of volume reached is 87.5, 57.8 and 42.1 percent." loading="lazy">
-  <figcaption>The cube with the largest SA:V has the largest proportion reached by diffusion.</figcaption>
-</figure>
-
-
 ### Method in steps: water potential of a tissue
 
 1. Cut equal-sized cylinders from one tissue; blot and weigh each.
@@ -245,6 +239,17 @@ At about 0.38 mol dm⁻³ the tissue gains and loses water equally, so its water
 10. Water enters both by osmosis, but the red blood cell has no cell wall. The leaf cell wall resists expansion, so the cell becomes turgid instead.
 11. The 1 cm cube: its SA:V is 6 : 1 compared with 3 : 1, and the acid has a shorter distance to diffuse to the centre.
 12. Facilitated diffusion through carrier proteins; the rate levels off when all the carriers are in use.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-cell-membranes-and-transport--06-sa-v-cubes.webp" width="900" height="1000" alt="Cubes of side 0.5, 1, 2 and 4 cm have SA:V of 12, 6, 3 and 1.5 to 1, halving each time the side doubles. A 4 by 1 by 1 cm cuboid has 4.5 to 1, higher than the 3 to 1 of a 2 cm cube." loading="lazy">
+  <figcaption>SA:V falls as size rises, and long thin shapes keep a high ratio.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-cell-membranes-and-transport--07-agar-cubes.webp" width="900" height="990" alt="Cross-sections of 1, 2 and 3 cm agar cubes drawn to scale, each with a 0.25 cm band reached by acid and a pink unchanged core. The share of volume reached is 87.5, 57.8 and 42.1 percent." loading="lazy">
+  <figcaption>The cube with the largest SA:V has the largest proportion reached by diffusion.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

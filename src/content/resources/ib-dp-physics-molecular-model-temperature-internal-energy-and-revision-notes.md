@@ -184,6 +184,12 @@ Answers score best when they name the correct energy store. Use these sentence f
 10. Potential energy rises; average kinetic energy stays the same because the temperature is constant.
 11. From P to Q, because P has the higher temperature, even though Q is larger.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-molecular-model-temperature-internal-energy-and--05-transfer-direction.webp" width="900" height="940" alt="A small cup of tea at 90 C and a large lake at 12 C with an arrow from tea to lake. Bars (not to scale) show the lake has far more internal energy, yet energy still flows from the hotter tea, because direction depends on temperature difference." loading="lazy">
+  <figcaption>Energy flows from hotter to cooler, regardless of which body has more internal energy.</figcaption>
+</figure>
+
+
 ## Where marks are usually lost
 
 - Using °C in Ek = 3/2 kB T, or doubling a Celsius temperature and calling it a doubling of energy.

@@ -172,12 +172,6 @@ mechanism a business might face. This is a small but genuinely
 examinable point that a general business-studies answer, written
 without reference to this specific syllabus, would likely miss.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-oxfordaqa-business-influences-revision-notes--02-sharia-finance.webp" width="900" height="1060" alt="Conventional borrowing: a lender lends and the business repays the loan plus interest. Sharia-compliant finance avoids interest (riba) through profit-sharing or asset-backed arrangements, where the financier buys the asset and the business pays for it." loading="lazy">
-  <figcaption>Sharia-compliant finance avoids interest by sharing profit or backing finance with an asset.</figcaption>
-</figure>
-
-
 ## Self-test
 
 1. What is the difference between ethics and legislation as influences
@@ -204,3 +198,9 @@ international competition — any valid pair is acceptable. 5. It can
 create a level playing field by forcing all competitors to meet the same
 safety, pay or consumer-protection standards, preventing a rival from
 undercutting through non-compliance.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-business-influences-revision-notes--02-sharia-finance.webp" width="900" height="1060" alt="Conventional borrowing: a lender lends and the business repays the loan plus interest. Sharia-compliant finance avoids interest (riba) through profit-sharing or asset-backed arrangements, where the financier buys the asset and the business pays for it." loading="lazy">
+  <figcaption>Sharia-compliant finance avoids interest by sharing profit or backing finance with an asset.</figcaption>
+</figure>
+

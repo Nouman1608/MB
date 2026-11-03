@@ -44,6 +44,12 @@ A virus is acellular. It has no cytoplasm, no ribosomes, no cell surface membran
 
 Two consequences matter in exams. First, antibiotics that target bacterial cell walls or bacterial ribosomes do not work on viruses, because viruses have neither. Second, drugs against viruses must target a step that the virus needs, usually a viral enzyme, without harming the host cell.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-immunity--06-primary-secondary-response.webp" width="900" height="1030" alt="Graph of antibody concentration against time. After exposure on day 0 antibody appears on day 6 and peaks at 15 units on day 14. After a second exposure on day 60 it rises within a day to 240 units on day 66, 16 times higher. Mean rates of rise are 1.9 and 47.6 units per day." loading="lazy">
+  <figcaption>Memory cells make the second response faster and 16 times bigger than the first.</figcaption>
+</figure>
+
+
 ## 3.2.4.1 The structure of HIV
 
 HIV is the human immunodeficiency virus. Working from the inside out:
@@ -100,6 +106,11 @@ HIV infects CD4 helper T-cells, the cells that initiate the body's response to i
 6. **Assembly and release.** New RNA, proteins and enzymes are packaged into capsids and released from the cell as new virus particles, which take a piece of host membrane as their envelope. This completes the replication cycle.
 
 The word "may" matters: integrated viral DNA does not have to be transcribed straight away, so infected cells can carry the virus without producing it. As more helper T-cells are lost, the immune response is weakened. The patient becomes open to infections that a healthy immune system keeps in check. That is the stage called AIDS.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-immunity--04-clonal-selection.webp" width="900" height="1320" alt="A macrophage presents an antigen to a T helper cell, which divides to form a clone and releases cytokines. Cytokines stimulate a B cell with a matching antibody to divide, and most of its clone become plasma cells that release antibodies; cytokines also stimulate T killer cells to destroy infected cells. Some cells become memory cells." loading="lazy">
+  <figcaption>Only lymphocytes with a matching receptor are selected, cloned and activated by T helper cytokines.</figcaption>
+</figure>
 
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/a-level-biology-9700-immunity--07-hiv-replication.webp" width="900" height="1310" alt="Six steps in a helper T cell: glycoproteins bind CD4; capsid contents enter; reverse transcriptase makes DNA from RNA; integrase inserts the DNA into a host chromosome; host ribosomes make proteins which protease cuts; new particles bud off with an envelope. The enzymes of steps 3, 4 and 5 are drug targets." loading="lazy">
@@ -191,12 +202,6 @@ Suction-trap data over six weeks from a field of 400 monitored plants:
 ## Next steps
 
 Test yourself with the [practice questions](/resources/oxfordaqa-a-level-biology-hiv-and-plant-virus-transmission-by-aphids-practice/) and condense with the [revision notes](/resources/oxfordaqa-a-level-biology-hiv-and-plant-virus-transmission-by-aphids-revision-notes/).
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-level-biology-9700-immunity--03-phagocytosis.webp" width="900" height="1340" alt="Five steps in one phagocyte. Chemicals attract it and receptors bind the pathogen; the membrane wraps round it by endocytosis; it is sealed in a phagosome; a lysosome fuses with the phagosome; enzymes digest the pathogen and antigens are displayed on the cell surface." loading="lazy">
-  <figcaption>A phagocyte engulfs a pathogen, digests it with lysosome enzymes and displays its antigens.</figcaption>
-</figure>
-
 
 ## Official syllabus
 

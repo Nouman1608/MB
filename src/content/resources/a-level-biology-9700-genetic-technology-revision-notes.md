@@ -220,6 +220,12 @@ Implications: gene flow to wild relatives; herbicide-resistant weeds; insects re
 11. No risk of infection from donated blood (or a reliable supply).
 12. Herbicide-resistance genes could spread to wild relatives, producing resistant weeds.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-genetic-technology--08-sanger-sequencing.webp" width="900" height="1061" alt="The template is copied by DNA polymerase. Strands of every length from 1 to 12 stop at a labelled dideoxynucleotide that lacks a 3 prime OH. Reading the last base from shortest to longest gives G A T T C G C T A A G C, the new strand 5 prime to 3 prime, complementary to the template." loading="lazy">
+  <figcaption>Chain-terminating nucleotides give fragments of every length, and the last bases read shortest to longest spell the new strand.</figcaption>
+</figure>
+
+
 ## Where marks are usually lost
 
 - Writing "restriction enzymes cut DNA into pieces" without "at a specific recognition sequence".

@@ -81,6 +81,11 @@ Related pages: [Cambridge O Level Physics hub](/boards/cambridge/o-level/physics
   <figcaption>Orbital speed is the circumference of the orbit divided by the time for one orbit.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-physics-solar-system-orbits-red-shift-and-the-big-bang--08-orbital-speed-radius.webp" width="900" height="1010" alt="Two circular orbits to the same scale. A at 6.78e6 m moves at 7660 m/s and B at 1.25e7 m at 5650 m/s, with arrow length proportional to speed. Larger radius means lower speed and longer orbit time. The Moon moves at about 1020 m/s." loading="lazy">
+  <figcaption>A larger orbital radius goes with a lower orbital speed.</figcaption>
+</figure>
+
 
 ## 6.1.2 The Solar System
 
@@ -117,6 +122,16 @@ Related pages: [Cambridge O Level Physics hub](/boards/cambridge/o-level/physics
 **Quick reminder: the Sun's light.** The Sun is about 1.5 × 10⁸ km away. At 3.0 × 10⁵ km/s, light takes 1.5 × 10⁸ / 3.0 × 10⁵ = 500 s to arrive, which matches the recall fact.
 
 <figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-physics-space-physics--12-sp-gravity-vs-density.webp" width="900" height="900" alt="A scatter graph of surface field strength against density for four practice planets. Planet D has the lowest density but the strongest field, so density does not decide field strength." loading="lazy">
+  <figcaption>The planet with the strongest surface field is not the densest.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-physics-space-physics--07-gravity-field-strength.webp" width="900" height="1090" alt="Two same-size planets, mass M and 2M: the 2M planet has twice the field arrow. A graph shows g falling with distance from the planet centre." loading="lazy">
+  <figcaption>Field strength rises with planet mass and falls with distance.</figcaption>
+</figure>
+
+<figure class="topic-figure">
   <img src="https://img.marlbridge.com/o-level-physics-space-physics--09-minor-bodies-map.webp" width="900" height="960" alt="Plan view with the planets in order, the asteroid belt between Mars and Jupiter, the dwarf planet Pluto, and a comet on an elongated orbit with its tail pointing away from the Sun." loading="lazy">
   <figcaption>Asteroid belt, dwarf planet and comet in the Solar System.</figcaption>
 </figure>
@@ -124,6 +139,11 @@ Related pages: [Cambridge O Level Physics hub](/boards/cambridge/o-level/physics
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/igcse-physics-0625-space-physics--03-solar-system.webp" width="900" height="930" alt="Four small rocky planets and the asteroid belt sit in the hot inner region; four large gaseous planets sit in the cold outer region. Planet sizes are to scale with each other. Near the Sun only rock and metal stayed solid; further out gas and ice also formed large planets." loading="lazy">
   <figcaption>Small rocky planets formed where it was hot, large gaseous planets where it was cold.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-radiation-from-bodies-the-solar-system-and-orbits--07-orbit-speed-radius.webp" width="900" height="1040" alt="Earth with an inner orbit (satellite A, 7540 m/s, 5830 s) and an outer orbit (satellite B, 6310 m/s, 9950 s). Arrow lengths show speed: the lower orbit is faster and has the shorter period." loading="lazy">
+  <figcaption>A satellite in a lower orbit moves faster than one in a higher orbit.</figcaption>
 </figure>
 
 
@@ -137,6 +157,11 @@ Related pages: [Cambridge O Level Physics hub](/boards/cambridge/o-level/physics
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/o-level-physics-space-physics--08-sun-radiation-spectrum.webp" width="900" height="960" alt="A 5800 K black-body curve peaks near 500 nm; ultraviolet (below 400 nm), visible (400 to 700 nm) and infrared (above 700 nm) regions are shaded and hold almost all the energy." loading="lazy">
   <figcaption>The Sun radiates mostly infrared, visible and ultraviolet.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-physics-life-cycle-of-a-star--01-star-balance.webp" width="900" height="1290" alt="Three stars with inward gravity arrows and outward push arrows. A small star has longer outward arrows and swells; a steady main sequence star has equal arrows; a large star has longer inward arrows and shrinks. The star settles where the forces are balanced." loading="lazy">
+  <figcaption>A star is steady because gravity in equals the push out from hot gas.</figcaption>
 </figure>
 
 
@@ -171,6 +196,16 @@ Other stars in the Milky Way are much further from the Earth than the Sun is.
   <figcaption>A light-year is a distance, and the Milky Way is about 100 000 light-years across.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-physics-0625-space-physics--05-star-life-cycle.webp" width="900" height="1110" alt="A cloud of gas and dust collapses into a protostar and becomes a stable star. Less massive stars become red giants, then a planetary nebula with a white dwarf. More massive stars become red supergiants, explode as supernovae and leave a neutron star or black hole. The nebula may form new stars." loading="lazy">
+  <figcaption>A star's mass decides whether it ends as a white dwarf, a neutron star or a black hole.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-physics-life-cycle-of-a-star--03-star-elements.webp" width="900" height="1110" alt="A five-step chain: the early universe had only hydrogen; main sequence stars fuse hydrogen to helium; red giants make carbon then nitrogen and oxygen; the hottest cores make the heaviest nuclei up to iron; elements heavier than iron come only from a supernova, which spreads all the elements into space." loading="lazy">
+  <figcaption>Stars made the elements, and supernovae spread them.</figcaption>
+</figure>
+
 
 ## 6.2.3 The Universe
 
@@ -178,6 +213,22 @@ Other stars in the Milky Way are much further from the Earth than the Sun is.
 - **Redshift:** an increase in the observed wavelength of electromagnetic radiation from receding stars and galaxies.
 - Light from distant galaxies is redshifted. The further the galaxy, the greater the redshift and the faster it moves away from the Earth.
 - **Big Bang evidence (qualitative):** galaxies are receding, so the Universe is expanding. Reversing the expansion, everything started close together.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-physics-0625-space-physics--06-redshift.webp" width="900" height="990" alt="Two waves on the same scale: light from a source on Earth, and light from a distant galaxy with a wavelength 1.5 times longer, shown in red. Redshift means the galaxy is moving away, so the Universe is expanding, supporting the Big Bang." loading="lazy">
+  <figcaption>Longer observed wavelength means the galaxy is moving away.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-physics-8463-space-physics--14-redshift-spectra.webp" width="900" height="900" alt="Three spectra from 400 to 750 nm with a dark line at 656 nm (laboratory), 689 nm (galaxy A) and 722 nm (galaxy B). The increases are 33 nm (5.0 %) and 66 nm (10 %), so galaxy B is moving away faster." loading="lazy">
+  <figcaption>A bigger increase in wavelength means a faster, more distant galaxy.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-physics-8463-space-physics--15-galaxy-speed-distance.webp" width="900" height="980" alt="A graph of galaxy speed against distance with points (1, 2300), (2, 4600), (3, 6900), (4, 9200) on a straight line through the origin. The galaxy at 2.5 is predicted at 5750 km/s." loading="lazy">
+  <figcaption>Speed is directly proportional to distance: the further the galaxy, the faster it recedes.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 
@@ -218,12 +269,6 @@ Other stars in the Milky Way are much further from the Earth than the Sun is.
 9. A neutron star or a black hole.
 10. X is further away and moving away from the Earth faster than Y.
 11. Fusion of hydrogen into helium.
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/o-level-physics-space-physics--07-gravity-field-strength.webp" width="900" height="1090" alt="Two same-size planets, mass M and 2M: the 2M planet has twice the field arrow. A graph shows g falling with distance from the planet centre." loading="lazy">
-  <figcaption>Field strength rises with planet mass and falls with distance.</figcaption>
-</figure>
-
 
 ## Where marks are usually lost
 

@@ -146,6 +146,16 @@ Beta here means β⁻, the electron. Strong ionisation and weak penetration go t
   <figcaption>Alpha and beta curve in opposite directions in a magnetic field; gamma is not deflected.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-physics-0625-nuclear-physics--03-penetration.webp" width="900" height="780" alt="Alpha is stopped by paper. Beta passes paper but is stopped by a few millimetres of aluminium. Gamma passes both and is only reduced by thick lead. Ionising effect runs the opposite way: alpha strongest, gamma weakest." loading="lazy">
+  <figcaption>Alpha, beta and gamma are stopped by different barriers.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-physics-0625-nuclear-physics--06-field-deflection.webp" width="900" height="920" alt="Between a positive plate above and a negative plate below, beta curves strongly up towards the positive plate, alpha bends slightly down towards the negative plate, and gamma goes straight on." loading="lazy">
+  <figcaption>Charged radiation is deflected by an electric field; gamma is not.</figcaption>
+</figure>
+
 
 ## 5.2.3 Radioactive decay
 
@@ -167,6 +177,12 @@ Write each particle in nuclide notation and make the top numbers balance and the
 **Worked example 4.** Uranium-238, ²³⁸₉₂U, emits an alpha particle, and the product then emits a beta particle. Find the nuclide after both decays.
 - After alpha: ²³⁴₉₀Th.
 - After beta: Z = 90 + 1 = 91, A = 234, giving ²³⁴₉₁Pa.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-physics-0625-nuclear-physics--04-decay-equations.webp" width="900" height="1060" alt="Radium-226 decays by alpha emission to radon-222 plus a helium-4 nucleus: 226 = 222 + 4 and 88 = 86 + 2. Carbon-14 decays by beta emission to nitrogen-14 plus an electron: 14 = 14 + 0 and 6 = 7 + (-1)." loading="lazy">
+  <figcaption>In a decay equation the top numbers balance and the bottom numbers balance.</figcaption>
+</figure>
+
 
 ## 5.2.4 Fission and fusion
 
@@ -195,6 +211,21 @@ To keep the power steady, on average one neutron from each fission must go on to
   <figcaption>The moderator slows neutrons, control rods absorb them and the coolant carries the heat away.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-physics-half-life-contamination-nuclear-fission-and-fusion--01-fission-event.webp" width="900" height="780" alt="A neutron is absorbed by a uranium-235 nucleus, which splits into barium-141 and krypton-92 and releases three neutrons and energy. Mass numbers balance (1 + 235 = 141 + 92 + 3) and proton numbers balance (92 = 56 + 36)." loading="lazy">
+  <figcaption>Fission of U-235: two smaller nuclei, three neutrons and energy, with both numbers balanced.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-physics-half-life-contamination-nuclear-fission-and-fusion--02-chain-control-rods.webp" width="900" height="1060" alt="Top: with each fission releasing two neutrons that each cause a fission, the number of fissions doubles each generation: 1, 2, 4, 8 and so on (16 in the fifth). Bottom: in a reactor, boron control rods absorb the extra neutrons so only one neutron from each fission goes on to cause another fission." loading="lazy">
+  <figcaption>A chain reaction doubles each generation unless control rods absorb the spare neutrons.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-physics-half-life-contamination-nuclear-fission-and-fusion--03-fusion-conditions.webp" width="900" height="940" alt="Two positively charged nuclei, hydrogen-2 and hydrogen-3, move towards each other but repel. Very high temperature and pressure let them get close enough to fuse into helium-4, a neutron and energy. Mass number 2 + 3 = 4 + 1 and proton number 1 + 1 = 2." loading="lazy">
+  <figcaption>Fusion needs very high temperature and pressure to overcome the repulsion between positive nuclei.</figcaption>
+</figure>
+
 
 ## 5.2.5 Half-life
 
@@ -220,6 +251,12 @@ Living things take in carbon, including a small constant fraction of radioactive
 **Worked example 6.** A wooden tool has one quarter of the carbon-14 activity of living wood. Estimate its age.
 - One quarter means two halvings.
 - Age = 2 × 5730 = **11 460 years**.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-activity-half-life-and-the-radioactive-decay-law--06-carbon-dating.webp" width="900" height="1170" alt="Bars of activity per gram of carbon halve from 0.24 Bq (living) to 0.12, 0.060 and 0.030 at 5730, 11 460 and 17 190 years. The bone at 0.030 has ratio 8 = 2 cubed, so 3 half-lives, 17 190 years." loading="lazy">
+  <figcaption>Ratio of activities gives the number of half-lives; multiply by 5730 years.</figcaption>
+</figure>
+
 
 ### Choosing an isotope for a use
 
@@ -248,6 +285,21 @@ Match the **type of radiation** (penetration and ionisation) and the **half-life
   <figcaption>Worked example 5: correct for background, then find the half-life.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-physics-0625-nuclear-physics--05-half-life-curve.webp" width="900" height="810" alt="A decay curve of count rate against time for half-life 8.0 days. The rate falls 1200, 600, 300, 150, 75 at 0, 8, 16, 24 and 32 days. After 24 days (three half-lives) it is 150 counts/s." loading="lazy">
+  <figcaption>The count rate halves after each half-life.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-ionisation-half-life-and-penetrating-power--07-decline-ratios.webp" width="900" height="920" alt="Bars for 0 to 5 half-lives show the remaining fraction 1, 1/2, 1/4, 1/8, 1/16, 1/32 and the original to remaining ratios 1:1 to 32:1. Worked example: 1280 Bq with a 7.5 h half-life gives 80 Bq after 30 h, ratio 16 : 1." loading="lazy">
+  <figcaption>After n half-lives the amount left is 1 divided by 2 to the n.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-physics-radioactivity-and-particles--07-thickness-gauge.webp" width="900" height="940" alt="A source, a sheet and a counter above a graph of count rate against sheet thickness. Beta falls smoothly as the sheet thickens, alpha is stopped completely, and gamma hardly changes, so beta is used to monitor thickness." loading="lazy">
+  <figcaption>Only beta radiation changes noticeably when the thickness changes.</figcaption>
+</figure>
+
 
 ## 5.2.6 Safety precautions
 
@@ -261,6 +313,11 @@ To use, move and store radioactive materials safely:
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/o-level-physics-nuclear-physics--03-safety-rules.webp" width="900" height="890" alt="Three rules: less time (short exposure beats long), more distance (long tongs, never by hand), shielding (lead or concrete absorbs radiation)." loading="lazy">
   <figcaption>Time, distance and shielding reduce exposure.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-physics-half-life-contamination-nuclear-fission-and-fusion--04-contamination-irradiation.webp" width="900" height="1000" alt="Top panel: a source outside the body sends radiation to a person; the exposure lasts only while the person is near the source and the person does not become radioactive. Bottom panel: radioactive atoms on and inside a person, each emitting radiation, so the body is irradiated until the atoms are removed or decay." loading="lazy">
+  <figcaption>Irradiation is exposure to an outside source; contamination is having radioactive atoms on or in the body.</figcaption>
 </figure>
 
 

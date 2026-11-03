@@ -93,6 +93,11 @@ n HOOC–(CH₂)₅–COOH  +  n HO–(CH₂)₄–OH
   <figcaption>Opening each C=C bond joins ethene monomers into poly(ethene) with no other product.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/polymers--03-alkene-repeat-unit.webp" width="900" height="1140" alt="Ethene and propene are each shown turning into a bracketed repeat unit when the C=C opens, with an arrow back to show closing the bond recovers the monomer. A crossed-out version shows the wrong answer that keeps the C=C inside the brackets." loading="lazy">
+  <figcaption>Open the C=C to get the repeat unit; close it again to get the monomer.</figcaption>
+</figure>
+
 
 ### Polyamides from amino acids
 
@@ -213,6 +218,12 @@ A polyalkene backbone is made only of C–C and C–H bonds. These bonds are str
 | Chemical recycling | Breaks polymers into monomers or other useful chemicals; condensation polymers can be hydrolysed back to their monomers | Needs energy and specialist plant |
 
 To evaluate disposal, pair each advantage with a disadvantage and link both to the chemistry.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/polymers--08-plastic-waste.webp" width="900" height="1040" alt="Four tiles: plastic buried in landfill is still there after a hundred years; plastic collects in the sea and harms marine life; burning can give off toxic gases; and PET can be broken back into monomers and made into new PET." loading="lazy">
+  <figcaption>Plastics persist in landfill and oceans, burning gives toxic gases, and only some plastics like PET can be recycled to monomers.</figcaption>
+</figure>
+
 
 ## Common errors
 

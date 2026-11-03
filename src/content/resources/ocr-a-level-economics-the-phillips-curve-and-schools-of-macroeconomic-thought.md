@@ -227,6 +227,11 @@ Each school answers the same questions: does the economy self-correct, why do re
   <figcaption>On the Keynesian AS curve a rise in AD raises output on the flat part, both on the rising part and only prices on the vertical part.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-economics-macroeconomics-measuring-and-managing-the-economy--04-ad-as-equilibrium.webp" width="900" height="940" alt="AD slopes down and SRAS slopes up, crossing at equilibrium E with price level 80 and real output 120. A vertical LRAS is drawn at output 120." loading="lazy">
+  <figcaption>Equilibrium price level and real output are set where AD meets SRAS.</figcaption>
+</figure>
+
 
 ## Common errors
 

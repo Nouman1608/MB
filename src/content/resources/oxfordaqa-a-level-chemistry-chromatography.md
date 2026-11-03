@@ -189,6 +189,11 @@ C4H6N2O : 4(12.0000) + 6(1.0078) + 2(14.0031) + 15.9949 = 98.0479
 All four have a whole-number Mr of 98, but only **C₆H₁₀O** matches the measured value.
 
 <figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-nuclear-magnetic-resonance-spectroscopy--04-nmr-integration.webp" width="900" height="990" alt="Pentan-3-one with its spectrum: quartet at 2.4 and triplet at 1.1 with an integration trace of 32 mm and 48 mm. Ratio 2:3 doubles to 4 H and 6 H." loading="lazy">
+  <figcaption>Integration step heights 32:48 = 2:3, scaled to 10 H gives 4 H and 6 H (pentan-3-one).</figcaption>
+</figure>
+
+<figure class="topic-figure">
   <img src="https://img.marlbridge.com/aqa-a-level-chemistry-nuclear-magnetic-resonance-spectroscopy--06-ms-fragmentation.webp" width="900" height="970" alt="Molecular ion m/z 72 of 2,2-dimethylpropane breaks to C4H9+ (57) and an undetected CH3 radical. Observed peaks 72, 57, 15; pentane would also give 43 and 29, drawn dashed." loading="lazy">
   <figcaption>Only the charged fragment is detected; peaks at 72, 57 and 15 fit 2,2-dimethylpropane, not pentane (Edexcel content).</figcaption>
 </figure>

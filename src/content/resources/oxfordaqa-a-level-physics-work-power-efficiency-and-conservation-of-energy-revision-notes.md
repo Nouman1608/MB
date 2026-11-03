@@ -74,6 +74,11 @@ These notes are aligned to the *OxfordAQA International AS and A-level Physics (
   <figcaption>The work done by a varying force is the area under its force-displacement graph.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/as-physics-work-energy-and-power--03-kinetic-energy.webp" width="900" height="1280" alt="A mass accelerated from rest by a constant force F over distance x gains work W = Fx = ma x v²/2a = ½mv². The graph of Ek against v for a 7500 kg lorry is a parabola: 1.2 MJ at 18 m/s and 4.9 MJ at 36 m/s, four times as much for double the speed." loading="lazy">
+  <figcaption>Ek = ½mv² follows from W = Fx and v² = 2ax; doubling speed quadruples Ek.</figcaption>
+</figure>
+
 
 ## Power and efficiency
 
@@ -198,12 +203,6 @@ Write each as a chain with the direction of change and the dissipation:
 10. Ek is proportional to v², so it rises by a factor of **4**.
 11. cos 90° = 0, so the work done is **zero**.
 12. h = v² ÷ 2g = 144 ÷ 19.62 = **7.3 m**.
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/as-physics-work-energy-and-power--03-kinetic-energy.webp" width="900" height="1280" alt="A mass accelerated from rest by a constant force F over distance x gains work W = Fx = ma x v²/2a = ½mv². The graph of Ek against v for a 7500 kg lorry is a parabola: 1.2 MJ at 18 m/s and 4.9 MJ at 36 m/s, four times as much for double the speed." loading="lazy">
-  <figcaption>Ek = ½mv² follows from W = Fx and v² = 2ax; doubling speed quadruples Ek.</figcaption>
-</figure>
-
 
 ## Official syllabus
 

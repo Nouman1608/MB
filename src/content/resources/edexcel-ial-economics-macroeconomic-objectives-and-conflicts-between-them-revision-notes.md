@@ -90,6 +90,11 @@ Equality     Top 20% hold 42% of income, bottom 20% hold 7%: ratio 6.0
   <figcaption>Real data strips out inflation so genuine output change can be compared.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-objectives-of-government--03-objectives-conflict.webp" width="900" height="1010" alt="Flow from an interest rate cut to higher borrowing and spending. Gains: growth rises and unemployment falls. Side effects: demand-pull inflation risk and a worse balance of payments through more imports. Raising rates does the reverse." loading="lazy">
+  <figcaption>A policy that helps one objective can harm another.</figcaption>
+</figure>
+
 
 ## 2. The conflicts (item 2, a to d)
 
@@ -160,6 +165,11 @@ Evaluate: elasticities; exchange rate adjustment; whether the deficit is finance
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/edexcel-ial-economics-macroeconomic-objectives-and-conflicts-between-them--09-inflation-and-current-account.webp" width="900" height="906" alt="Home prices rise 6.5% against 3.0% abroad, a 3.4% relative rise. Exports fall from 640 to 605.2 and imports rise from 692 to 720.2, so the goods balance worsens from -52.0 to -115.0." loading="lazy">
   <figcaption>Higher relative prices cut exports and raise imports, worsening the current account.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-economics-measurement-of-macroeconomic-performance--02-growth-vs-current-account.webp" width="900" height="1040" alt="A four-step chain: growth policy raises aggregate demand, incomes rise, some spending goes on imports, and the current account worsens. Bars show exports 100 and imports rising from 100 to 118, a deficit of 18." loading="lazy">
+  <figcaption>Growth policy can raise imports faster than exports, creating a short-run conflict.</figcaption>
 </figure>
 
 

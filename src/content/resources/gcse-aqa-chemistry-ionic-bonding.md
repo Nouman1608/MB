@@ -100,17 +100,6 @@ Explicitly stating both ions' resulting electronic structures, and
 naming the noble gas each now matches, demonstrates the full
 understanding this content requires, not just the final formula.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/gcse-aqa-chemistry-ionic-bonding--01-ion-charge-from-group.webp" width="900" height="885" alt="Four columns show sodium (Group 1), magnesium (Group 2), oxygen (Group 6) and chlorine (Group 7). Each atom loses or gains electrons to form Na+ and Mg2+ (2,8, like neon), O2- (2,8, like neon) and Cl- (2,8,8, like argon)." loading="lazy">
-  <figcaption>Groups 1, 2, 6 and 7 form ions with a noble gas structure, and the charge follows from the group number.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ionic-covalent-and-metallic-bonding--01-ionic-transfer.webp" width="900" height="945" alt="Outer shells only: sodium gives one electron to chlorine, giving Na+ with none left and Cl- with eight. Magnesium gives two electrons to oxygen, giving Mg2+ and O2- with eight. Dots are the metal's electrons and crosses the non-metal's." loading="lazy">
-  <figcaption>Metal atoms transfer outer electrons to non-metal atoms, giving ions with full outer shells (MgO is Extended).</figcaption>
-</figure>
-
-
 ## Key terms to define precisely
 
 **Ion** — an atom or group of atoms that has lost or gained one or
@@ -131,6 +120,11 @@ like "they stick together" — is exactly the kind of terminology GCSE
 mark schemes are looking for in a full-mark explanation.
 
 <figure class="topic-figure">
+  <img src="https://img.marlbridge.com/gcse-aqa-chemistry-ionic-bonding--01-ion-charge-from-group.webp" width="900" height="885" alt="Four columns show sodium (Group 1), magnesium (Group 2), oxygen (Group 6) and chlorine (Group 7). Each atom loses or gains electrons to form Na+ and Mg2+ (2,8, like neon), O2- (2,8, like neon) and Cl- (2,8,8, like argon)." loading="lazy">
+  <figcaption>Groups 1, 2, 6 and 7 form ions with a noble gas structure, and the charge follows from the group number.</figcaption>
+</figure>
+
+<figure class="topic-figure">
   <img src="https://img.marlbridge.com/ionic-covalent-and-metallic-bonding--04-covalent-sharing.webp" width="900" height="1010" alt="Overlapping outer shells show each shared pair as one dot and one cross. HCl and the water and methane molecules use single bonds; carbon dioxide has two double bonds. Each atom ends with 8 outer electrons, hydrogen with 2." loading="lazy">
   <figcaption>Shared pairs sit in the overlap of the shells, giving every atom a full outer shell.</figcaption>
 </figure>
@@ -143,6 +137,16 @@ mark schemes are looking for in a full-mark explanation.
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/atomic-structure--05-atoms-and-ions.webp" width="900" height="940" alt="A sodium atom loses one electron to become Na+ (2,8, 10 electrons); a chlorine atom gains one to become Cl- (2,8,8, 18 electrons). The nucleus (11 or 17 protons) is unchanged." loading="lazy">
   <figcaption>Removing or adding electrons changes the configuration and charge, never the protons.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ionic-covalent-and-metallic-bonding--02-ionic-lattice.webp" width="900" height="924" alt="A regular grid of positive and negative ions alternating in every direction. Every ion is attracted to its neighbours, so many strong attractions run throughout the lattice, giving a high melting point." loading="lazy">
+  <figcaption>Alternating ions in a giant lattice are held by many strong electrostatic attractions.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ionic-covalent-and-metallic-bonding--01-ionic-transfer.webp" width="900" height="945" alt="Outer shells only: sodium gives one electron to chlorine, giving Na+ with none left and Cl- with eight. Magnesium gives two electrons to oxygen, giving Mg2+ and O2- with eight. Dots are the metal's electrons and crosses the non-metal's." loading="lazy">
+  <figcaption>Metal atoms transfer outer electrons to non-metal atoms, giving ions with full outer shells (MgO is Extended).</figcaption>
 </figure>
 
 

@@ -97,12 +97,6 @@ Gross investment 120, depreciation 80 → net 40. Capital stock 1,000 → 1,040,
 ### Method: productivity and labour
 Output per worker = output ÷ workers. If output per worker rises 5% and the labour force rises 2%, potential output rises by 1.05 × 1.02 = 1.071, which is 7.1% (not 7%). Multiply the changes.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/cambridge-igcse-economics-causes-consequences-and-policies-of-economic-growth--06-growth-labour-quality-and-tax.webp" width="900" height="880" alt="An area diagram: 20 million workers × 20 output per worker = 400. A 5% training gain adds a strip of 20, a 2% rise in workers adds a strip of 8, and the two multiply to leave a corner of 0.4, giving 20.4 × 21 = 428.4 (+7.1%). Bars then show tax at 25% rising from 100 to 107.1, an extra 7.1." loading="lazy">
-  <figcaption>Because the two causes multiply, output rises 7.1%, slightly more than 5% + 2%, and tax revenue rises with it.</figcaption>
-</figure>
-
-
 ### PPC table reminder (Country A, invented)
 | Consumer goods | 0 | 40 | 70 | 90 | 100 |
 |---|---|---|---|---|---|
@@ -111,6 +105,12 @@ Output per worker = output ÷ workers. If output per worker rises 5% and the lab
 A point (50, 50) lies inside the curve. A 10% rise in capacity shifts every point out: (70, 70) becomes (77, 77). Opportunity cost rises along the curve: going from 70 to 90 consumer goods costs 30 capital goods, that is 1.5 capital goods per extra consumer good.
 
 **Link to opportunity cost:** investing more now means fewer consumer goods now, but a PPC further out later.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-economics-causes-consequences-and-policies-of-economic-growth--06-growth-labour-quality-and-tax.webp" width="900" height="880" alt="An area diagram: 20 million workers × 20 output per worker = 400. A 5% training gain adds a strip of 20, a 2% rise in workers adds a strip of 8, and the two multiply to leave a corner of 0.4, giving 20.4 × 21 = 428.4 (+7.1%). Bars then show tax at 25% rising from 100 to 107.1, an extra 7.1." loading="lazy">
+  <figcaption>Because the two causes multiply, output rises 7.1%, slightly more than 5% + 2%, and tax revenue rises with it.</figcaption>
+</figure>
+
 
 ## 4.6.5 Costs and benefits of growth
 

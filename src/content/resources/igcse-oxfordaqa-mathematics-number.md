@@ -49,12 +49,6 @@ calculating with fractions, decimals and percentages
 - **3.1.3 Ratio and proportion (N16-N20)** — solving problems involving ratio, direct
 and inverse proportion
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-mathematics-0580-fractions-decimals-percentages-ordering-operations--04-order-of-operations.webp" width="900" height="960" alt="Two worked examples with the part being calculated highlighted at each step: (5 - 2^3) x 4 + 6 / (-2) = -15, and 18 - 12 / 4 x 3 = 9. Multiplication and division have equal rank, so work left to right." loading="lazy">
-  <figcaption>Work out indices and brackets first, then multiply and divide left to right, then add and subtract.</figcaption>
-</figure>
-
-
 ## How to approach it
 
 Structure and calculation (1.1) needs to be automatic before
@@ -81,6 +75,12 @@ topic demands.
 OxfordAQA International GCSE Mathematics (9260) specification, Version
 5.1, for exams May/June 2018 onwards —
 [oxfordaqa.com](https://www.oxfordaqa.com/wp-content/uploads/2022/06/oxfordaqa-gcse-mathematics-specification.pdf).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-fractions-decimals-percentages-ordering-operations--04-order-of-operations.webp" width="900" height="960" alt="Two worked examples with the part being calculated highlighted at each step: (5 - 2^3) x 4 + 6 / (-2) = -15, and 18 - 12 / 4 x 3 = 9. Multiplication and division have equal rank, so work left to right." loading="lazy">
+  <figcaption>Work out indices and brackets first, then multiply and divide left to right, then add and subtract.</figcaption>
+</figure>
+
 
 ## Integers, primes and factorisation
 
@@ -172,6 +172,31 @@ Standard form is A x 10^n with 1 <= A < 10 (Core and Extension, N8). Multiply by
   <figcaption>Counting factors explains add, multiply and subtract for indices.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-powers-roots-and-indices--03-zero-negative-indices.webp" width="900" height="1032" alt="A staircase lists 5^3 down to 5^-3. Each step lowers the index by 1 and divides by 5, giving 125, 25, 5, 1, 1/5, 1/25, 1/125. So 5^0 = 1 and a negative index gives a small positive reciprocal." loading="lazy">
+  <figcaption>Each step down divides by 5, so 5^0 = 1 and 5^-n is 1 over 5^n.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-powers-roots-and-indices--05-fractional-indices.webp" width="900" height="1000" alt="A cube of 125 blocks has side 5, so 125^(1/3) = 5. Two flow chains show 125^(-2/3): root 3, square, flip gives 1/25, and 32^(3/5): root 5, cube gives 8." loading="lazy">
+  <figcaption>The denominator is the root, the numerator is the power, and a minus sign flips.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-number--03-standard-form.webp" width="900" height="880" alt="Digit boxes show the decimal point of 4 560 000 jumping 6 places left to give 4.56 x 10^6, and of 0.00032 jumping 4 places right to give 3.2 x 10^-4. A must lie between 1 and 10." loading="lazy">
+  <figcaption>Move the decimal point until the number is between 1 and 10; the count of moves is the power of 10.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-exponential-growth-decay-and-surds--04-surd-diagonal.webp" width="900" height="940" alt="A square of side 4 cm has a diagonal of root 32, since 16 + 16 = 32. Taking out the square factor gives 4 root 2, which lands near 5.657 on the number line." loading="lazy">
+  <figcaption>The exact length 4√2 cm is a surd; 5.657 is only a rounded value.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-exponential-growth-decay-and-surds--05-conjugate-area.webp" width="900" height="769" alt="A square of side 3 with a square of area 5 cut out leaves area 4. Rearranged, it makes a rectangle 3 + root 5 by 3 minus root 5. So the conjugate product is 9 minus 5 = 4, a whole number." loading="lazy">
+  <figcaption>Multiplying by the conjugate gives a difference of two squares, so the surd disappears.</figcaption>
+</figure>
+
 
 ## Bounds and accuracy
 
@@ -191,6 +216,11 @@ When combining bounds: the greatest sum uses both upper bounds; the greatest dif
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/igcse-oxfordaqa-mathematics-number--03-bounds-greatest-rules.webp" width="900" height="960" alt="Four panels for a = 12.4 and b = 7.8, each with two short number lines marking a lower bound L and an upper bound U. Greatest sum uses U and U, 20.3. Greatest difference uses U for a and L for b, 4.7. Greatest product uses U and U, 97.7325. Greatest quotient uses U for a and L for b, 12.45 divided by 7.75, about 1.606." loading="lazy">
   <figcaption>For the greatest answer: add and multiply with upper bounds, subtract and divide with upper then lower.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-number--04-limits-of-accuracy.webp" width="900" height="810" alt="A number line from 4.50 to 4.70 kg shades the values from 4.55 to 4.65 that round to 4.6 kg. The lower bound 4.55 is included (filled dot); the upper bound 4.65 is not (open dot)." loading="lazy">
+  <figcaption>A value given to 1 d.p. can be up to half a unit (0.05) either side: 4.55 &lt;= mass &lt; 4.65.</figcaption>
 </figure>
 
 

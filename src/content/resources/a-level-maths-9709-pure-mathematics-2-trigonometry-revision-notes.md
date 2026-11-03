@@ -42,6 +42,12 @@ Course links: [A Level Mathematics hub](/boards/cambridge/a-level/mathematics/),
 | R-form | Write a sin θ + b cos θ as R sin(θ ± α) or R cos(θ ± α) |
 | Applying them | Simplify, find exact values, prove identities, solve equations |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-maths-9709-pure-mathematics-1-circular-measure--01-unit-circle-any-angle.webp" width="900" height="850" alt="A circle of radius 1 with P at 210 degrees, measured anticlockwise from the positive x-axis. P = (cos 210°, sin 210°) = (−√3/2, −1/2) lies in the third quadrant, with reference angle 30°. Corner notes give where sin, cos and tan are positive." loading="lazy">
+  <figcaption>The point P on the unit circle gives cos θ and sin θ for any angle, and its quadrant gives the signs.</figcaption>
+</figure>
+
+
 ## Definitions
 
 - **sec θ** = 1/cos θ, undefined where cos θ = 0.
@@ -127,6 +133,12 @@ Sketch the parent curve lightly first. Asymptotes sit where the parent is zero. 
 2. For cos 2θ, pick the form that leaves one function only.
 3. Factorise. Never divide by a function that could be zero.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-maths-9709-pure-mathematics-1-circular-measure--09-inverse-trig-graphs.webp" width="900" height="1218" alt="y = sin x restricted to −π/2 ≤ x ≤ π/2 reflects in y = x to give y = arcsin x, with domain −1 to 1 and range −π/2 to π/2. y = arccos x has range 0 to π; y = arctan x has range strictly between −π/2 and π/2 with horizontal asymptotes." loading="lazy">
+  <figcaption>Restrict the domain so the function is one-to-one, then reflect in y = x to get the inverse.</figcaption>
+</figure>
+
+
 ## Small worked reminders
 
 *Proof.* (1 − sin θ)/cos θ ≡ cos θ/(1 + sin θ): multiply top and bottom of the left side by (1 + sin θ) to get (1 − sin²θ)/(cos θ(1 + sin θ)) = cos²θ/(cos θ(1 + sin θ)) = cos θ/(1 + sin θ).
@@ -158,12 +170,6 @@ Sketch the parent curve lightly first. Asymptotes sit where the parent is zero. 
 - **Identity vs equation.** An identity (≡) is true for every θ and is proved. An equation (=) is true for some θ and is solved.
 - **No solution vs one solution.** sec θ = 0.5 has no solution; sec θ = 1 does (cos θ = 1).
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-level-maths-9709-pure-mathematics-1-circular-measure--09-inverse-trig-graphs.webp" width="900" height="1218" alt="y = sin x restricted to −π/2 ≤ x ≤ π/2 reflects in y = x to give y = arcsin x, with domain −1 to 1 and range −π/2 to π/2. y = arccos x has range 0 to π; y = arctan x has range strictly between −π/2 and π/2 with horizontal asymptotes." loading="lazy">
-  <figcaption>Restrict the domain so the function is one-to-one, then reflect in y = x to get the inverse.</figcaption>
-</figure>
-
-
 ## Quick self-test
 
 1. Find the exact value of sec 300°.
@@ -193,6 +199,12 @@ Sketch the parent curve lightly first. Asymptotes sit where the parent is zero. 
 10. cos x = −1/2: **x = 2π/3, 4π/3**.
 11. sin θ(2 cos θ − 1) = 0: **θ = 0°, 60°, 180°**.
 12. (3 − 1/2)/(1 + 3/2) = **1**.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-maths-9709-pure-mathematics-1-circular-measure--02-exact-value-triangles.webp" width="900" height="948" alt="Two right-angled triangles: legs 1, 1 and hypotenuse √2 (45°, 45°); and half an equilateral triangle with sides 1, √3, 2 (30°, 60°). A table gives sin, cos and tan of 30°, 45° and 60° read from them, with radian equivalents." loading="lazy">
+  <figcaption>Two triangles generate every exact value you need for 30°, 45° and 60°.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

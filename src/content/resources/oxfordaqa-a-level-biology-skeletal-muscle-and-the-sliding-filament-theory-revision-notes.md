@@ -150,12 +150,6 @@ Convert mm to µm: multiply by 1000.
 
 **"Suggest why phosphocreatine is useful at the start of a sprint."** It makes ATP in one fast step, needs no oxygen, and the supply of ATP from respiration has not yet risen to match the demand.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-level-biology-9700-control-and-coordination--08-sarcomere.webp" width="900" height="1170" alt="Two sarcomeres are drawn to the same scale (1 um = 280 px) with actin attached to Z lines and myosin in the middle. Relaxed, the sarcomere is 2.5 um: A band 1.6, I band 0.9 and H zone 0.5 um. Contracted, it is 2.0 um (20 percent shorter): I band 0.4 um, H zone gone, but the A band stays 1.6 um because the filaments slide rather than shorten." loading="lazy">
-  <figcaption>Sarcomere shortening drawn to scale: the I band and H zone shrink, the A band does not.</figcaption>
-</figure>
-
-
 ## Quick comparison of what is seen at each stage
 
 | State | Sarcomere | I band | H zone | A band |
@@ -204,6 +198,12 @@ Percentage of slow fibres = slow fibres ÷ total fibres × 100. In 200 fibres, 1
 8. (5.0 + 10.0) ÷ 2.5 = 6.0 s.
 9. Any two of: many mitochondria, myoglobin, rich blood supply, aerobic respiration, resistance to fatigue.
 10. In the sarcoplasm of the muscle fibre, during rest, using ATP made by aerobic respiration.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-control-and-coordination--08-sarcomere.webp" width="900" height="1170" alt="Two sarcomeres are drawn to the same scale (1 um = 280 px) with actin attached to Z lines and myosin in the middle. Relaxed, the sarcomere is 2.5 um: A band 1.6, I band 0.9 and H zone 0.5 um. Contracted, it is 2.0 um (20 percent shorter): I band 0.4 um, H zone gone, but the A band stays 1.6 um because the filaments slide rather than shorten." loading="lazy">
+  <figcaption>Sarcomere shortening drawn to scale: the I band and H zone shrink, the A band does not.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

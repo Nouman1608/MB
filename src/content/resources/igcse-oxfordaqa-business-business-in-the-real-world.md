@@ -170,6 +170,11 @@ The external environment includes interest rates (borrowing and consumer spendin
 **Applying this to a clothing retailer** shows how these factors interact rather than acting in isolation. A **rise in interest rates** leaves consumers with mortgages and loans with less disposable income, so demand for non-essential clothing falls, while the retailer's own borrowing costs rise, squeezing profit and possibly delaying investment in new stores. A **fall in the exchange rate** makes imported stock more expensive, forcing either higher prices or lower margins — though if the retailer also exports, its goods become cheaper abroad, boosting overseas sales. **New employment legislation**, such as a higher minimum wage, raises the wage bill and may force higher prices or reduced hours, but better-paid staff can also be more motivated and less likely to leave, reducing recruitment costs — a reminder that most external factors bring both a cost and a partly offsetting benefit.
 
 <figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-business-business-in-the-real-world--02-average-unit-cost.webp" width="900" height="700" alt="A U-shaped average unit cost curve against output. At 10,000 units, £80,000 gives £8 a unit. At 20,000 units, £135,000 gives £6.75 a unit, a fall that is an economy of scale. Beyond about 21,000 units the curve rises, showing diseconomies of scale." loading="lazy">
+  <figcaption>Average unit cost = total cost ÷ output; it falls with economies of scale and rises again with diseconomies.</figcaption>
+</figure>
+
+<figure class="topic-figure">
   <img src="https://img.marlbridge.com/aqa-gcse-business-business-in-the-real-world--06-integration-types.webp" width="900" height="740" alt="A firm in the centre with four targets. Backward integration takes over a supplier, forward integration a retailer, horizontal integration a rival at the same stage, and conglomerate growth a business in an unrelated industry." loading="lazy">
   <figcaption>External growth is classified by where the target sits relative to the firm.</figcaption>
 </figure>

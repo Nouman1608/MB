@@ -81,6 +81,16 @@ Check: 20,000 + 52,000 = 72,000. Both credits are equity. The premium is not tra
   <figcaption>The premium above nominal value goes to share premium, not to the income statement.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-accounting-for-limited-companies--05-revaluation.webp" width="900" height="970" alt="Buildings with a carrying amount of 272,000 pounds are revalued to 408,000. The 136,000 pound unrealised gain goes to a revaluation reserve in equity, not the income statement. Yearly depreciation rises from 8,000 to 12,000 pounds." loading="lazy">
+  <figcaption>An unrealised revaluation gain goes to a reserve, not profit.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-accounting-for-limited-companies--09-goodwill.webp" width="900" height="980" alt="Net assets taken over at agreed values are 316,000 pounds. Larchfield pays 370,000 pounds: 150,000 shares valued at 2.20 plus 40,000 cash. The 54,000 difference is goodwill, an intangible asset tested for impairment and not amortised." loading="lazy">
+  <figcaption>Goodwill is the price paid above the fair value of the net assets bought.</figcaption>
+</figure>
+
 
 ## The income statement of a limited company
 
@@ -130,6 +140,11 @@ If the company made a loss, show it in brackets in the profit row; it reduces re
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/aqa-a-level-accounting-accounting-for-limited-companies--03-changes-in-equity.webp" width="900" height="870" alt="Equity builds from 143,200 pounds to 246,700 pounds. A share issue adds 50,000 to share capital and 30,000 to share premium, profit after tax adds 38,500 to retained earnings and dividends paid deduct 15,000 from retained earnings." loading="lazy">
   <figcaption>Each movement in the year lands in one component of equity.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-accounting-for-limited-companies--07-profit-to-cash.webp" width="900" height="964" alt="Profit from operations of 96,400 pounds becomes cash generated of 158,300 after adding back depreciation 61,500 and loss on disposal 2,500 and adjusting for inventory (-7,700), receivables (+3,300) and payables (+2,300). Interest paid 6,000 and tax paid 15,600 leave net operating cash of 136,700." loading="lazy">
+  <figcaption>The indirect method turns profit into cash by reversing non-cash items and working capital changes.</figcaption>
 </figure>
 
 
@@ -288,19 +303,13 @@ Preference shares and general reserves sit outside the examined content, accordi
 - Treating an entire instalment loan as non-current when part is due within 12 months.
 - Using trial balance share figures as opening balances when the trial balance already includes an issue made during the year.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/aqa-a-level-accounting-accounting-for-limited-companies--06-rights-vs-bonus.webp" width="900" height="1040" alt="Equity of 605,000 pounds rises to 725,000 after a 1 for 4 rights issue (120,000 of cash). A 1 for 5 bonus issue then moves 75,000 from share premium to share capital with no cash and no change in the 725,000 total." loading="lazy">
-  <figcaption>A rights issue raises cash; a bonus issue only moves reserves into share capital.</figcaption>
-</figure>
-
-
 ## Next steps
 
 Test what you remember using the [revision notes](/resources/oxfordaqa-a-level-accounting-limited-company-accounts-revision-notes/), and move on to the [practice questions](/resources/oxfordaqa-a-level-accounting-limited-company-accounts-practice/). How the AS and A-level papers fit together is explained in the [exam preparation guide](/resources/oxfordaqa-a-level-accounting-exam-preparation/) for 9615.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/aqa-a-level-accounting-accounting-for-limited-companies--05-revaluation.webp" width="900" height="970" alt="Buildings with a carrying amount of 272,000 pounds are revalued to 408,000. The 136,000 pound unrealised gain goes to a revaluation reserve in equity, not the income statement. Yearly depreciation rises from 8,000 to 12,000 pounds." loading="lazy">
-  <figcaption>An unrealised revaluation gain goes to a reserve, not profit.</figcaption>
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-accounting-for-limited-companies--06-rights-vs-bonus.webp" width="900" height="1040" alt="Equity of 605,000 pounds rises to 725,000 after a 1 for 4 rights issue (120,000 of cash). A 1 for 5 bonus issue then moves 75,000 from share premium to share capital with no cash and no change in the 725,000 total." loading="lazy">
+  <figcaption>A rights issue raises cash; a bonus issue only moves reserves into share capital.</figcaption>
 </figure>
 
 

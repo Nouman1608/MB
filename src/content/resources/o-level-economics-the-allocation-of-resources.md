@@ -86,47 +86,6 @@ consequences (2.10.3).
 - 2.11 Mixed economic system — its definition (2.11.1) and government
 intervention to address market failure (2.11.2).
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/o-level-economics-the-allocation-of-resources--01-micro-or-macro.webp" width="900" height="880" alt="Two panels. Microeconomics shows buyers and a firm in one market with the price of one good. Macroeconomics shows all markets together as the whole economy: total output, prices overall and jobs overall. They are the same economy at different scales." loading="lazy">
-  <figcaption>Micro looks at one market; macro looks at all markets together.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/o-level-economics-the-allocation-of-resources--04-price-elasticity-of-supply.webp" width="900" height="890" alt="Two upward-sloping supply curves through price 10, quantity 100. A 10 percent price rise to 11 raises quantity 20 percent to 120 on the flatter curve (PES 2, elastic) and 5 percent to 105 on the steeper curve (PES 0.5, inelastic)." loading="lazy">
-  <figcaption>PES is the percentage change in quantity supplied divided by the percentage change in price.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-economics-the-allocation-of-resources--02-price-mechanism.webp" width="900" height="990" alt="Buyers pay money to sellers and sellers send goods back, with a price between them. The price answers what, how and for whom. An advantage is wide choice and a drawback is market failure." loading="lazy">
-  <figcaption>In a market the price answers what to produce, how, and for whom.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-economics-the-allocation-of-resources--01-demand-curve.webp" width="900" height="900" alt="Illustrative demand curve slopes downward on Price and Quantity axes. At A price is 8 and quantity demanded 20; at B price falls to 4 and quantity demanded rises to 60. The arrow A to B is a movement along the curve (extension)." loading="lazy">
-  <figcaption>A fall in the good's own price moves us along the demand curve: an extension of demand.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-economics-the-allocation-of-resources--03-shifts-of-demand.webp" width="900" height="1000" alt="Three parallel demand curves: D1 original, D2 to the right (increase; at price 5 quantity 40 to 60), D3 to the left (decrease; 40 to 20). Rightward shifts come from rising income, tastes favouring the good, or a dearer substitute; leftward shifts from the opposite." loading="lazy">
-  <figcaption>A shift of the whole demand curve is caused by a non-price condition such as income, tastes or the price of related goods.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-economics-the-allocation-of-resources--02-supply-curve.webp" width="900" height="900" alt="Illustrative supply curve slopes upward. At A price is 3 and quantity supplied 25; at B price rises to 7 and quantity supplied rises to 75. The arrow is a movement along the curve (extension)." loading="lazy">
-  <figcaption>A rise in the good's own price moves us along the supply curve: an extension of supply.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-economics-the-allocation-of-resources--04-shifts-of-supply.webp" width="900" height="1000" alt="Three parallel supply curves: S1 original, S2 to the right (increase; at price 5 quantity 50 to 70), S3 to the left (decrease; 50 to 30). Rightward shifts come from lower costs, better technology or more sellers; leftward from higher costs or fewer sellers." loading="lazy">
-  <figcaption>A shift of the whole supply curve is caused by costs of production, technology or the number of sellers.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-economics-the-allocation-of-resources--05-equilibrium-price.webp" width="900" height="940" alt="Demand and supply cross at equilibrium: price 5, quantity 50. At price 8, quantity demanded 20 and supplied 87.5, a surplus, so price falls. At price 3, demanded 70 and supplied 25, a shortage, so price rises." loading="lazy">
-  <figcaption>Price moves towards the equilibrium where demand equals supply.</figcaption>
-</figure>
-
-
 ## Building on Topic 1
 
 Topic 2 answers the question Topic 1 poses. The basic economic problem
@@ -194,6 +153,11 @@ memorisation.
   <figcaption>A rising price is the signal that moves resources toward what consumers want more.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-allocation-of-resources--05-equilibrium-price.webp" width="900" height="940" alt="Demand and supply cross at equilibrium: price 5, quantity 50. At price 8, quantity demanded 20 and supplied 87.5, a surplus, so price falls. At price 3, demanded 70 and supplied 25, a shortage, so price rises." loading="lazy">
+  <figcaption>Price moves towards the equilibrium where demand equals supply.</figcaption>
+</figure>
+
 
 ## Official syllabus
 
@@ -212,3 +176,64 @@ verified against the PDF on 24 August 2026 —
 - [The Basic Economic Problem](/resources/the-basic-economic-problem/) —
   the preceding topic that introduces scarcity, opportunity cost and
   production possibility curves
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-economics-the-allocation-of-resources--01-micro-or-macro.webp" width="900" height="880" alt="Two panels. Microeconomics shows buyers and a firm in one market with the price of one good. Macroeconomics shows all markets together as the whole economy: total output, prices overall and jobs overall. They are the same economy at different scales." loading="lazy">
+  <figcaption>Micro looks at one market; macro looks at all markets together.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-economics-the-allocation-of-resources--04-price-elasticity-of-supply.webp" width="900" height="890" alt="Two upward-sloping supply curves through price 10, quantity 100. A 10 percent price rise to 11 raises quantity 20 percent to 120 on the flatter curve (PES 2, elastic) and 5 percent to 105 on the steeper curve (PES 0.5, inelastic)." loading="lazy">
+  <figcaption>PES is the percentage change in quantity supplied divided by the percentage change in price.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-allocation-of-resources--02-price-mechanism.webp" width="900" height="990" alt="Buyers pay money to sellers and sellers send goods back, with a price between them. The price answers what, how and for whom. An advantage is wide choice and a drawback is market failure." loading="lazy">
+  <figcaption>In a market the price answers what to produce, how, and for whom.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-allocation-of-resources--01-demand-curve.webp" width="900" height="900" alt="Illustrative demand curve slopes downward on Price and Quantity axes. At A price is 8 and quantity demanded 20; at B price falls to 4 and quantity demanded rises to 60. The arrow A to B is a movement along the curve (extension)." loading="lazy">
+  <figcaption>A fall in the good's own price moves us along the demand curve: an extension of demand.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-allocation-of-resources--03-shifts-of-demand.webp" width="900" height="1000" alt="Three parallel demand curves: D1 original, D2 to the right (increase; at price 5 quantity 40 to 60), D3 to the left (decrease; 40 to 20). Rightward shifts come from rising income, tastes favouring the good, or a dearer substitute; leftward shifts from the opposite." loading="lazy">
+  <figcaption>A shift of the whole demand curve is caused by a non-price condition such as income, tastes or the price of related goods.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-allocation-of-resources--02-supply-curve.webp" width="900" height="900" alt="Illustrative supply curve slopes upward. At A price is 3 and quantity supplied 25; at B price rises to 7 and quantity supplied rises to 75. The arrow is a movement along the curve (extension)." loading="lazy">
+  <figcaption>A rise in the good's own price moves us along the supply curve: an extension of supply.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-allocation-of-resources--04-shifts-of-supply.webp" width="900" height="1000" alt="Three parallel supply curves: S1 original, S2 to the right (increase; at price 5 quantity 50 to 70), S3 to the left (decrease; 50 to 30). Rightward shifts come from lower costs, better technology or more sellers; leftward from higher costs or fewer sellers." loading="lazy">
+  <figcaption>A shift of the whole supply curve is caused by costs of production, technology or the number of sellers.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-allocation-of-resources--06-price-elasticity-of-demand.webp" width="900" height="1060" alt="Three demand curves through the same point: steep (inelastic, PED below 1), curved (unit, PED = 1), flat (elastic, PED above 1). PED = % change in quantity divided by % change in price. Example: price falls 10% (5 to 4.5), quantity rises 20% (50 to 60), PED = 2, elastic; revenue rises 250 to 270." loading="lazy">
+  <figcaption>PED measures how strongly quantity demanded responds to a price change, and decides whether revenue rises or falls.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-allocation-of-resources--01-economic-systems.webp" width="900" height="940" alt="Three bars show who decides what is produced. A market system is decided entirely by prices and firms. A mixed system uses markets (about 60% in the picture) plus government (about 40%). A planned economy, shown for contrast, is decided by government." loading="lazy">
+  <figcaption>A market economy lets prices decide, a mixed economy adds government, a planned economy leaves it all to government.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-allocation-of-resources--03-causes-of-market-failure.webp" width="900" height="1060" alt="Five small pictures show the causes of market failure: public goods, merit and demerit goods, external costs and benefits, abuse of monopoly power and factor immobility. The result is the wrong amount produced or used." loading="lazy">
+  <figcaption>Market failure has five causes limited to those in the 0455 syllabus.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-allocation-of-resources--07-price-controls.webp" width="900" height="1370" alt="Equilibrium E is at price 5 and quantity 50. A maximum price of 3 gives demand 70 and supply 25, a shortage of 45. A minimum price of 7 gives demand 30 and supply 75, a surplus of 45." loading="lazy">
+  <figcaption>A maximum price below equilibrium causes a shortage; a minimum price above it causes a surplus.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-allocation-of-resources--08-tax-and-subsidy.webp" width="900" height="1370" alt="An indirect tax of 1.8 shifts supply up, raising price from 5 to 6 and cutting quantity from 50 to 40. A subsidy of 1.8 shifts supply down, cutting price from 5 to 4 and raising quantity from 50 to 60." loading="lazy">
+  <figcaption>A tax shifts supply up and a subsidy shifts it down.</figcaption>
+</figure>
+

@@ -108,6 +108,12 @@ Some legal systems now give nature legal standing. Ecuador's 2008 constitution r
 
 An **externality** is a cost (or benefit) felt by people outside a transaction. Air pollution from a power station is a negative externality: people downwind pay in ill health, but the electricity price ignores it. Correcting this is **internalising the externality**. Hardin's **tragedy of the commons** (1968) describes a related failure: when a resource is open to all, each user gains from taking more, so the resource is overused.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-market-failure-public-goods-and-externalities--03-shared-pasture.webp" width="900" height="930" alt="Output per sheep, 20 minus N, falls to the cost of 8 at 12 sheep, where herders stop adding and net gain is zero. The extra output from one more sheep, 20 minus 2N, equals 8 at 6 sheep, where net gain is highest at 36. Bars show net gain of 36, 20 and 0 at 6, 10 and 12 sheep." loading="lazy">
+  <figcaption>Each herder adds sheep until output per sheep falls to the cost of 8 (12 sheep); the best number for the community is 6.</figcaption>
+</figure>
+
+
 ### Valuing nature: total economic value
 
 **Total economic value (TEV)** adds up:

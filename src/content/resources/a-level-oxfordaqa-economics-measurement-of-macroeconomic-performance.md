@@ -53,17 +53,6 @@ significance; understanding how index numbers are used to measure
 changes in the price level and other economic variables, including how
 they are calculated using a base year and weights
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-level-aqa-economics-measurement-of-macroeconomic-performance--01-macro-objectives-indicators.webp" width="900" height="970" alt="Four cards show the four main objectives and the indicator measuring each: real GDP (per capita) for growth, CPI/RPI for price stability, unemployment measures, and the current account balance. Pills list other objectives: balanced budget, fair income and wealth, and (OxfordAQA only) protecting the environment." loading="lazy">
-  <figcaption>Each objective is matched to the indicator that measures it.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-level-aqa-economics-measurement-of-macroeconomic-performance--05-lorenz-gini.webp" width="900" height="1075" alt="A Lorenz curve from illustrative quintile income shares 5, 10, 15, 25, 45 sags below the equality line. Area A is 0.19 and B is 0.31, so Gini = A/(A+B) = 0.38; 0 is perfect equality, 1 perfect inequality." loading="lazy">
-  <figcaption>The Gini coefficient is the share of the area under the equality line that lies between it and the Lorenz curve.</figcaption>
-</figure>
-
-
 ## How to approach it
 
 The four core objectives (economic growth, price stability, minimising
@@ -93,6 +82,22 @@ inflation, allowing genuine comparison of economic performance over
 time. Index numbers are the tool used to make that adjustment, anchored
 to a base year set at a value of 100 and built from weighted
 components.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-economics-measurement-of-macroeconomic-performance--02-growth-vs-current-account.webp" width="900" height="1040" alt="A four-step chain: growth policy raises aggregate demand, incomes rise, some spending goes on imports, and the current account worsens. Bars show exports 100 and imports rising from 100 to 118, a deficit of 18." loading="lazy">
+  <figcaption>Growth policy can raise imports faster than exports, creating a short-run conflict.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-economics-measurement-of-macroeconomic-performance--03-index-numbers.webp" width="900" height="980" alt="Bars have widths equal to weights (food 50%, housing 30%, transport 20%) and heights equal to item indices 104, 106 and 96 against a base-year line at 100. The weighted average is 103, meaning prices are 3% above the base year." loading="lazy">
+  <figcaption>Weights make bigger spending items count more in an index anchored at 100.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-economics-measurement-of-macroeconomic-performance--04-real-vs-nominal-gdp.webp" width="900" height="880" alt="Line graph over five years: real and nominal GDP both start at 1000 in the base year; real reaches 1100 while nominal reaches 1342 because prices rose. The gap is higher prices only. Real GDP divided by population gives real GDP per capita." loading="lazy">
+  <figcaption>Real data strips out inflation so genuine output change can be compared.</figcaption>
+</figure>
+
 
 ## Worked example: matching an indicator to an objective
 
@@ -139,13 +144,8 @@ indicator named in 3.2.1.2, so it is worth over-learning rather than
 treating as a one-line definition.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-level-aqa-economics-measurement-of-macroeconomic-performance--03-index-numbers.webp" width="900" height="980" alt="Bars have widths equal to weights (food 50%, housing 30%, transport 20%) and heights equal to item indices 104, 106 and 96 against a base-year line at 100. The weighted average is 103, meaning prices are 3% above the base year." loading="lazy">
-  <figcaption>Weights make bigger spending items count more in an index anchored at 100.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-level-aqa-economics-measurement-of-macroeconomic-performance--04-real-vs-nominal-gdp.webp" width="900" height="880" alt="Line graph over five years: real and nominal GDP both start at 1000 in the base year; real reaches 1100 while nominal reaches 1342 because prices rose. The gap is higher prices only. Real GDP divided by population gives real GDP per capita." loading="lazy">
-  <figcaption>Real data strips out inflation so genuine output change can be compared.</figcaption>
+  <img src="https://img.marlbridge.com/a-level-aqa-economics-measurement-of-macroeconomic-performance--06-gdp-limitations.webp" width="900" height="930" alt="An iceberg: the visible tip is measured GDP per capita; below the surface are the informal economy, unpaid work, externalities and income distribution, which national income data ignores." loading="lazy">
+  <figcaption>National income data is useful but limited as a measure of living standards.</figcaption>
 </figure>
 
 
@@ -181,3 +181,14 @@ of a base year in index numbers.
 
 OxfordAQA International AS and A-level Economics (9640) specification —
 [oxfordaqa.com/9640](https://www.oxfordaqa.com/wp-content/uploads/2022/08/oxfordaqa-a-level-economics-specification.pdf).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-economics-measurement-of-macroeconomic-performance--01-macro-objectives-indicators.webp" width="900" height="970" alt="Four cards show the four main objectives and the indicator measuring each: real GDP (per capita) for growth, CPI/RPI for price stability, unemployment measures, and the current account balance. Pills list other objectives: balanced budget, fair income and wealth, and (OxfordAQA only) protecting the environment." loading="lazy">
+  <figcaption>Each objective is matched to the indicator that measures it.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-economics-measurement-of-macroeconomic-performance--05-lorenz-gini.webp" width="900" height="1075" alt="A Lorenz curve from illustrative quintile income shares 5, 10, 15, 25, 45 sags below the equality line. Area A is 0.19 and B is 0.31, so Gini = A/(A+B) = 0.38; 0 is perfect equality, 1 perfect inequality." loading="lazy">
+  <figcaption>The Gini coefficient is the share of the area under the equality line that lies between it and the Lorenz curve.</figcaption>
+</figure>
+

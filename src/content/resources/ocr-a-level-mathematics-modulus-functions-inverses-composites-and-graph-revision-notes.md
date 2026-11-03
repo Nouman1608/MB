@@ -66,6 +66,16 @@ Check by inequality: |3x + 5| = x + 1 needs x + 1 ≥ 0, so x ≥ −1, but both
   <figcaption>Always check modulus roots: a root from the wrong branch does not fit the graph.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-mathematics-pure-mathematics-1-functions--07-modulus-inequality.webp" width="900" height="820" alt="Graphs of y = |x + 2| and y = 3|x| meet at x = -1/2 and x = 1. The graph of |x + 2| is below 3|x| for x less than -1/2 and for x greater than 1, so those are the solutions, shown on a number line with open circles." loading="lazy">
+  <figcaption>Solve the equation first, then read from the graph where one modulus graph lies below the other.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-mathematics-pure-mathematics-1-functions--08-modulus-transformations.webp" width="900" height="940" alt="The dashed curve is f(x) = x squared - 2x - 3. Top: y = |f(x)| reflects the part below the x-axis upwards, giving a maximum (1, 4) between the roots -1 and 3. Bottom: y = f(|x|) copies the right-hand part onto the left by reflection in the y-axis, giving a symmetric W shape with roots plus and minus 3." loading="lazy">
+  <figcaption>|f(x)| flips negative parts up; f(|x|) mirrors the right-hand half into the left.</figcaption>
+</figure>
+
 
 ## 2. Functions (1.02u, A Level only)
 
@@ -159,6 +169,12 @@ They are different, so the order of composition matters.
 - When describing, give the full name: "translation by the vector", "stretch, scale factor, parallel to the axis".
 - You may be asked for an equation, a description, or a sketch with labelled points.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-mathematics-pure-mathematics-1-functions--01-range-depends-on-domain.webp" width="900" height="830" alt="Graph of f(x) = x squared - 10x + 29. The whole parabola has its turning point at (5, 4) but the domain x at least 6 uses only the solid right-hand part, starting at (6, 5). The range is therefore f(x) at least 5, not at least 4." loading="lazy">
+  <figcaption>Restricting the domain can change the range, because the lowest point may fall outside it.</figcaption>
+</figure>
+
+
 ## Must-know distinctions
 
 | Often confused | Difference |
@@ -196,6 +212,12 @@ They are different, so the order of composition matters.
 9. (a) Translate 5 left: **(1, −2)**. (b) Divide x by 3: **(2, −2)**.
 10. **(7, −1).**
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-mathematics-pure-mathematics-1-functions--02-horizontal-line-test.webp" width="900" height="960" alt="Two graphs of y = x squared. For all real x a horizontal line crosses twice (x = -2 and 2), so the function is many-one with no inverse. With x at least 0 the same line crosses once, so it is one-one and has an inverse." loading="lazy">
+  <figcaption>A horizontal line cutting the graph more than once means no inverse exists.</figcaption>
+</figure>
+
+
 ## Where marks are usually lost
 
 - Not checking solutions of |linear| = linear for a negative right side.
@@ -207,12 +229,6 @@ They are different, so the order of composition matters.
 - Forgetting the domain and range statement for an inverse when the question asks for it.
 - Choosing the wrong root sign when inverting a restricted quadratic.
 - Describing a transformation without its vector or scale factor.
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-level-mathematics-pure-mathematics-1-functions--07-modulus-inequality.webp" width="900" height="820" alt="Graphs of y = |x + 2| and y = 3|x| meet at x = -1/2 and x = 1. The graph of |x + 2| is below 3|x| for x less than -1/2 and for x greater than 1, so those are the solutions, shown on a number line with open circles." loading="lazy">
-  <figcaption>Solve the equation first, then read from the graph where one modulus graph lies below the other.</figcaption>
-</figure>
-
 
 ## Official syllabus
 

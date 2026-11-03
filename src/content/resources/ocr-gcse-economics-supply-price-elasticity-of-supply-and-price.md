@@ -233,10 +233,21 @@ On a diagram, equilibrium is the point where the downward-sloping demand curve D
   <figcaption>Price moves towards the equilibrium where demand equals supply.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-economics-demand-supply-equilibrium--02-ib-single-shift-equilibrium.webp" width="900" height="1160" alt="Four small diagrams show demand rising, demand falling, supply rising and supply falling, with the original curve dashed. Demand rising raises price and quantity; demand falling lowers both; supply rising lowers price and raises quantity; supply falling raises price and lowers quantity." loading="lazy">
+  <figcaption>A shift of one curve moves equilibrium along the other, unchanged curve.</figcaption>
+</figure>
+
 
 ### The role of markets
 
 In a market economy, millions of buying and selling decisions determine what is produced, how and for whom, with no central planner. The price mechanism moves price towards equilibrium, which allocates resources to where demand is. Markets can fail to give fair outcomes, however, and may not reflect effects on people outside the transaction.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-allocation-of-resources--02-price-mechanism.webp" width="900" height="990" alt="Buyers pay money to sellers and sellers send goods back, with a price between them. The price answers what, how and for whom. An advantage is wide choice and a drawback is market failure." loading="lazy">
+  <figcaption>In a market the price answers what to produce, how, and for whom.</figcaption>
+</figure>
+
 
 ### How market forces change equilibrium
 

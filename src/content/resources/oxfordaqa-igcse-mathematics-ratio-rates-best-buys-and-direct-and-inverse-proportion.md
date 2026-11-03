@@ -264,6 +264,11 @@ The offer bottle is the better buy. The cheapest total price is not always the b
   <figcaption>25% extra free turns 400 ml into 500 ml, so compare 500 ml for 3.50 with 500 ml for 4.00.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-rates-time-and-money--02-minutes-not-tenths.webp" width="900" height="860" alt="Two one-hour bars compare minutes with decimal hours: 36 minutes is 0.6 h, so 1 h 36 min is 1.6 h; 0.35 h is 21 minutes, so 2.35 h is 2 h 21 min." loading="lazy">
+  <figcaption>Minutes and decimal hours are different scales, so convert by dividing or multiplying by 60.</figcaption>
+</figure>
+
 
 ## N20: direct and inverse proportion
 
@@ -345,6 +350,11 @@ The overall change is not "-8% + 5% = -3%". Percentages of different amounts can
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/sequences-and-proportion--05-inverse-constant-product.webp" width="900" height="940" alt="Graph of y = 24 over x with points (4, 6) and (8, 3). The rectangles from the origin to each point both have area 24, because x times y is always k. When x doubles, y halves." loading="lazy">
   <figcaption>In inverse proportion x times y stays constant, so doubling x halves y.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-number--06-percentage-multiplier.webp" width="900" height="780" alt="Bars drawn to scale show $70 as 100%. Multiplying by 1.2 gives $84 (120%); multiplying by 0.8 gives $56 (80%). The decrease panel extends the lesson example for contrast." loading="lazy">
+  <figcaption>A percentage change is a single multiplication: increase 20% is x 1.2, decrease 20% is x 0.8.</figcaption>
 </figure>
 
 

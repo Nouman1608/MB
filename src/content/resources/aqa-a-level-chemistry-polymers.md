@@ -52,12 +52,6 @@ dipole–dipole forces in [bonding](/resources/aqa-a-level-chemistry-bonding/).
 Section 3.3.12 lists no required practical. It suggests making nylon 6,6 (AT k, PS 1.2) and researching
 the problems of disposing of different polymers.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/polymers--01-monomers-polymers-plastics.webp" width="900" height="1055" alt="Eight separate circles join into one long chain labelled polymer. A plastic bottle is magnified to show tangled polymer chains inside the material." loading="lazy">
-  <figcaption>Monomers join into long polymer chains, and plastic is the material made from them.</figcaption>
-</figure>
-
-
 ## Condensation polymerisation (3.3.12.1)
 
 In **condensation polymerisation** each monomer has **two** reactive functional groups. When two
@@ -145,6 +139,12 @@ propane-1,3-diol, and state what else forms.
 - Repeating unit: **–[CO–CH₂CH₂–CO–O–CH₂CH₂CH₂–O]–**, with the n outside the brackets.
 - The other product is **water**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/polymers--07-proteins.webp" width="900" height="1140" alt="Three amino acid monomers, each with an NH2 end and a COOH end, join into a chain. Each join is a CO-NH peptide bond and releases water. A comparison shows nylon uses two monomers while a protein uses one monomer carrying both groups." loading="lazy">
+  <figcaption>Proteins are condensation polymers of amino acids joined by peptide (amide) bonds.</figcaption>
+</figure>
+
+
 ### Repeating units from a section of chain
 
 1. Find the linkages (–CO–O– or –CO–NH–) along the chain.
@@ -185,6 +185,17 @@ hexane-1,6-diamine, taking two water molecules lost per repeating unit.
 
 - Atom economy = 226.0 / (146.0 + 116.0) × 100 = **86.3%**.
 - It is below 100% because water is a by-product. Addition polymerisation has an atom economy of 100%.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/polymers--01-monomers-polymers-plastics.webp" width="900" height="1055" alt="Eight separate circles join into one long chain labelled polymer. A plastic bottle is magnified to show tangled polymer chains inside the material." loading="lazy">
+  <figcaption>Monomers join into long polymer chains, and plastic is the material made from them.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/polymers--08-plastic-waste.webp" width="900" height="1040" alt="Four tiles: plastic buried in landfill is still there after a hundred years; plastic collects in the sea and harms marine life; burning can give off toxic gases; and PET can be broken back into monomers and made into new PET." loading="lazy">
+  <figcaption>Plastics persist in landfill and oceans, burning gives toxic gases, and only some plastics like PET can be recycled to monomers.</figcaption>
+</figure>
+
 
 ### Intermolecular forces between condensation polymers
 
@@ -232,6 +243,16 @@ have only van der Waals forces, are softer.
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/polymers--04-addition-vs-condensation.webp" width="900" height="1150" alt="Addition: monomers with C=C join into a chain and nothing else is made. Condensation: monomers with an end group at both ends join into a chain and a water molecule is given off at every join." loading="lazy">
   <figcaption>Condensation releases a small molecule, usually water; addition releases nothing.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/polymers--05-amide-ester-links.webp" width="900" height="1130" alt="Bond by bond: an acid end loses OH and an amine end loses H, which leave as water, and the acid carbon bonds to nitrogen to make a CO-NH amide link. The same happens with an alcohol end to make a CO-O ester link." loading="lazy">
+  <figcaption>An amide or ester link forms when H and OH leave as water.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/polymers--06-nylon-and-pet.webp" width="900" height="830" alt="Nylon is a diacid and a diamine alternating, joined by CO-NH and NH-CO amide links. PET is a diacid and a diol alternating, joined by CO-O and O-CO ester links. Each link releases water and each repeat unit contains two links." loading="lazy">
+  <figcaption>Nylon and PET follow the same pattern; only the second monomer and the link change.</figcaption>
 </figure>
 
 

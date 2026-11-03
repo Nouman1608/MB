@@ -53,6 +53,12 @@ An accounting decision is any choice informed by accounting figures: closing a d
 
 Social effects often feed back into the accounts later: a business that pollutes may face fines or lost customers, and one that cuts safety spending may face compensation claims and staff absence. Not every social effect is negative, either. Automation may remove dangerous jobs, and a move may create jobs in a poorer area. Balanced answers consider both sides.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-the-impact-of-ethical-considerations--09-spreadsheet-whatif.webp" width="900" height="1010" alt="Two grids show the production budget before and after one input changes from 38 to 41. Materials cost goes from 15,770, 18,050, 19,570 (total 53,390) to 17,015, 19,475, 21,115 (total 57,605), an increase of 4,215." loading="lazy">
+  <figcaption>Changing one input cell recalculates every formula that depends on it.</figcaption>
+</figure>
+
+
 ## 1.6.2 Non-financial factors
 
 A **non-financial factor** is anything relevant to a decision that cannot be measured reliably in money. The money measurement concept (1.1.9) means the accounts record only items that can be expressed in money. So the accounts are silent on staff morale, reputation, customer loyalty, quality and the effect on the community, even when these matter more than the profit figure.
@@ -121,6 +127,12 @@ Farida wants to close the café because it "makes a loss". The café employs loc
 
 **Step 5: judgement.** Farida should keep the café open: it contributes 8,000, and the social factors point the same way. The apportioned overhead made it look loss-making; the decision depends on contribution, not on a share of costs that will remain anyway.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-the-impact-of-ethical-considerations--06-governance-checks.webp" width="900" height="910" alt="Shareholders appoint the board and the external auditors; auditors report back to shareholders. The board has a chair and a CEO who are different people, plus independent non-executive directors. Audit and remuneration committees, made of independent NEDs, sit below; the remuneration committee sets directors’ pay. AQA only: comply or explain." loading="lazy">
+  <figcaption>Independent checks stop directors from marking their own homework.</figcaption>
+</figure>
+
+
 ## 1.6.4 Ethics in accounting analysis and decision making
 
 **Ethics** means acting honestly and fairly. The specification puts it plainly: "Accounting involves presenting a true and fair representation of the information." Ethical accounting means that the figures, and the analysis built on them, are not bent to suit the person preparing or using them.
@@ -137,6 +149,11 @@ Ethical issues arise in two places.
 **In decisions.** A decision can be legal and profitable yet unethical: buying from a supplier that uses unsafe working conditions, paying suppliers late on purpose, or hiding a product fault. Ethics asks whether the decision is fair to everyone it affects, not only whether it raises profit.
 
 If asked to do something unethical, an accountant should explain the correct treatment, refuse to record misleading figures, keep a written note, and raise the issue with someone independent if pressure continues.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-the-impact-of-ethical-considerations--01-five-principles.webp" width="900" height="802" alt="Five cards show the principles with an icon and an example breach: integrity (signing off misleading figures), objectivity (choosing an estimate to lift your bonus), professional competence and due care (unchecked tax rules), confidentiality (telling a friend a client’s takeover plans) and professional behaviour (exaggerating qualifications)." loading="lazy">
+  <figcaption>Each principle has a typical way of being broken.</figcaption>
+</figure>
 
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/aqa-a-level-accounting-the-impact-of-ethical-considerations--08-pressure-on-profit.webp" width="900" height="940" alt="A waterfall from draft profit 41,600 to 51,040: switching depreciation method adds 2,520 (breaks consistency), cutting the debt allowance adds 2,720 (breaks prudence) and recording an undelivered order adds 4,200 (breaks realisation). Profit is overstated by 9,440." loading="lazy">
@@ -185,12 +202,6 @@ Callum Reyes owns Northgate Tiles. Draft profit for the year is 41,600 on revenu
 - Depreciation methods and the accounting concepts: [principles and double entry guide](/resources/a-level-edexcel-accounting-principles-and-double-entry-bookkeeping/)
 - Time and question choice on the Unit 1 paper: [exam preparation guide](/resources/edexcel-ial-accounting-exam-preparation/)
 - Find your weak spots: [all free 10-minute diagnostics](/diagnostics/)
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/aqa-a-level-accounting-the-impact-of-ethical-considerations--04-wrongdoing-steps.webp" width="900" height="880" alt="Seven numbered steps: establish the facts, evaluate the threats, apply safeguards, resolve conflicts of interest, escalate internally, take professional or legal advice, and refuse or resign as a last resort. They are grouped as your own checks, inside the organisation, and outside if needed." loading="lazy">
-  <figcaption>Work from your own checks, to internal escalation, to outside help.</figcaption>
-</figure>
-
 
 ## Official syllabus
 

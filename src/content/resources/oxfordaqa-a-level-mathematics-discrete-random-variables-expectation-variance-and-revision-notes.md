@@ -35,6 +35,11 @@ These revision notes condense section S1.2 (Discrete random variables) of the Ox
 </figure>
 
 <figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-oxfordaqa-mathematics-bernoulli-and-binomial-distributions--03-linear-change-ax-b.webp" width="900" height="920" alt="Two bar charts on one scale. X takes 0 to 4 with mean 1.8 and variance 1.06. Y = 4X - 3 takes -3, 1, 5, 9, 13 with the same bar heights: the mean moves to 4.2 and the variance is 16 times larger, 16.96. Adding b shifts, multiplying by a stretches." loading="lazy">
+  <figcaption>Shifting moves the mean only; scaling by a multiplies the variance by a squared.</figcaption>
+</figure>
+
+<figure class="topic-figure">
   <img src="https://img.marlbridge.com/a-level-oxfordaqa-mathematics-bernoulli-and-binomial-distributions--04-discrete-uniform.webp" width="900" height="770" alt="Ten equal bars of height 0.1 for X = 1 to 10. The mean 5.5 is at the centre and a gold band marks one standard deviation either side. For n = 10, E(X) = 5.5 and Var(X) = 99/12 = 8.25; a fair die (n = 6) has mean 3.5 and variance 35/12." loading="lazy">
   <figcaption>Equal bars: the mean sits at the centre, (n + 1)/2.</figcaption>
 </figure>
@@ -86,6 +91,12 @@ Examples of functions named in the specification: E(2X + 3), E(5X²), E(10X⁻¹
 1. Write down E and Var of each variable.
 2. Means follow the signs and coefficients. Variances use the squared coefficients and are always added.
 3. Take the square root last if a standard deviation is wanted.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-oxfordaqa-mathematics-bernoulli-and-binomial-distributions--05-variance-adds.webp" width="900" height="930" alt="Two bar charts on the same scale for two independent fair dice. X + Y runs from 2 to 12 with mean 7. X - Y runs from -5 to 5 with mean 0. Both have the same spread, variance 35/6 = 5.83, because Var(X +/- Y) = Var(X) + Var(Y)." loading="lazy">
+  <figcaption>Means follow the sign; variances always add, so X + Y and X - Y have the same spread.</figcaption>
+</figure>
+
 
 ## Worked reminder
 
@@ -179,6 +190,12 @@ For comparison, 6A has mean 48 and variance 36 × 2.5 = 90.
 11. The probabilities are k, 2k, 3k, so 6k = 1 and **k = 1/6**. E(X) = (0 + 2 + 6)/6 = **4/3**.
 12. Var(X) = 13 − 9 = **4**; σ = **2**; Var(5 − X) = (−1)² × 4 = **4**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-oxfordaqa-mathematics-bernoulli-and-binomial-distributions--08-binomial-probabilities.webp" width="900" height="1040" alt="Two bar charts of B(12, 0.35). The bar at x = 4 is highlighted: P(X = 4) = 495 x 0.35^4 x 0.65^8 = 0.2367. In the second chart the bars up to 4 sum to 0.5833 and those from 5 upward sum to 1 - 0.5833 = 0.4167, so P(X &gt;= 5) = 1 - P(X &lt;= 4)." loading="lazy">
+  <figcaption>A single probability, and why &quot;at least 5&quot; is one minus the cumulative probability up to 4.</figcaption>
+</figure>
+
+
 ## How to present working
 
 Examiners can only reward what they can see, so set the working out in the order of the method boxes.
@@ -200,6 +217,12 @@ Examiners can only reward what they can see, so set the working out in the order
 - Giving the variance when the standard deviation is asked for, or the reverse.
 - Not stating independence when you add variances; say it in your working.
 - Not checking that probabilities add to 1 before finding E(X).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-oxfordaqa-mathematics-bernoulli-and-binomial-distributions--06-binomial-conditions.webp" width="900" height="1000" alt="Four cards show the conditions for B(n, p): a fixed number of trials, two outcomes, independent trials and the same probability p each time. Three failures are listed: cards dealt without replacement, throws until the first six, and rain on following days." loading="lazy">
+  <figcaption>The four conditions, and three situations where the model fails.</figcaption>
+</figure>
+
 
 ## Official syllabus
 

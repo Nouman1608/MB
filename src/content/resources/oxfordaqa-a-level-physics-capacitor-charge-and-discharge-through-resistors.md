@@ -52,6 +52,11 @@ Charge: an uncharged capacitor is connected in series with a resistor and a supp
   <figcaption>Series: same charge, p.d.s add, smaller C. Parallel: same p.d., charges add, larger C.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-capacitance--05-isolated-sphere-capacitance.webp" width="900" height="980" alt="Two isolated spheres with radii 0.10 m and 0.20 m are shown at the same potential, 1000 V. C = 4 pi epsilon0 r depends only on the radius, so the larger sphere has capacitance 22.2 pF against 11.1 pF and holds twice the charge, 22.2 nC against 11.1 nC." loading="lazy">
+  <figcaption>The capacitance of an isolated sphere is proportional to its radius.</figcaption>
+</figure>
+
 
 ## 2. The graphs
 

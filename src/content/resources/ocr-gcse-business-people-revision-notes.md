@@ -213,6 +213,11 @@ Staff development: vocational and academic qualifications, apprenticeships.
   <figcaption>Larkhill saves 6,912 pounds a year in rework against a one-off cost of 2,220 pounds.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-people-in-business--07-training-types.webp" width="900" height="1170" alt="Induction: a manager welcomes a new starter; helps staff settle in, takes staff time. On-the-job: trainer and trainee work together at the workplace; cheap and real, but mistakes can happen. Off-the-job: staff leave for a training centre; expert teaching, but costly and away from work." loading="lazy">
+  <figcaption>Induction, on-the-job and off-the-job training each have a benefit and a limitation.</figcaption>
+</figure>
+
 
 ## 3.7 Employment law
 

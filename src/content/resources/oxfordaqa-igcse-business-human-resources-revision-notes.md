@@ -65,6 +65,11 @@ Small reminder: a manager with 5 supervisors, each with 12 workers, has a span o
 Centralised: consistent decisions and tight control, but slow and may demotivate. Decentralised: quick, local and trusting, but less control and risk of inconsistency. Choose by size, type of work and skills of staff. Structure also affects communication, because every extra level is another link where a message can be delayed or changed.
 
 <figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-business-human-resources--01-delayering-lindenfold.webp" width="900" height="950" alt="Two stacks of levels. Before: owner 1, managers 3, team leaders 12, operatives 96 with spans 3, 4 and 8. After the team leaders go: owner, 3 managers, 96 operatives; each manager now has 96 divided by 3, which is 32, operatives." loading="lazy">
+  <figcaption>Removing a level cuts cost but widens each manager’s span from 4 to 32.</figcaption>
+</figure>
+
+<figure class="topic-figure">
   <img src="https://img.marlbridge.com/igcse-business-people-in-business--04-organisation-chart.webp" width="900" height="1110" alt="Chart with directors above one manager, who has three supervisors with two staff each. A downward arrow marks the chain of command; the manager's span of control is 3. A lower panel shows the same 8 workers as a tall structure (4 levels, span 2) and a short structure (2 levels, span 8)." loading="lazy">
   <figcaption>Levels, chain of command and span of control decide whether a structure is tall or short.</figcaption>
 </figure>
@@ -115,12 +120,6 @@ Non-financial methods:
 - Fringe benefits: extras beyond pay, such as discounts, meals, health cover or a company vehicle.
 
 Pay calculation reminder: commission is the percentage multiplied by the sales that qualify, then added to any basic pay. Profit sharing is profit × percentage shared, then divided by the number of employees.
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/oxfordaqa-igcse-business-human-resources--02-pay-calculations.webp" width="900" height="790" alt="A 52,000 sales bar splits into 20,000 and 32,000 above the threshold; 3% of 32,000 is 960 commission added to 1,400 salary for 2,360. A wage of 11.50 for 38 hours is 437. A 5% profit share of 240,000 is 12,000, or 300 each across 40 staff." loading="lazy">
-  <figcaption>Commission applies only to sales above the threshold; wage follows hours; profit sharing is split equally.</figcaption>
-</figure>
-
 
 ## 3.4.4 Training
 
@@ -195,6 +194,12 @@ For an evaluate or justify question on any method (a structure, a way of recruit
 9. Induction training.
 10. Trained staff feel valued and can do the job well, so they are likelier to stay, which saves the cost of replacing them.
 11. Any one: less control for senior managers, inconsistent decisions between sites, or more need for communication.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-business-human-resources--02-pay-calculations.webp" width="900" height="790" alt="A 52,000 sales bar splits into 20,000 and 32,000 above the threshold; 3% of 32,000 is 960 commission added to 1,400 salary for 2,360. A wage of 11.50 for 38 hours is 437. A 5% profit share of 240,000 is 12,000, or 300 each across 40 staff." loading="lazy">
+  <figcaption>Commission applies only to sales above the threshold; wage follows hours; profit sharing is split equally.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

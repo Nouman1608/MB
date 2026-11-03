@@ -90,12 +90,6 @@ Check                  = 800 × 21            = 16,800
 
 When fixed costs step up at an output level, work out a break-even point for each band separately. Keep a result only if it lies inside its own band. A step can push a profitable business back into a loss for a stretch of output just above the step.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/aqa-a-level-accounting-analysis-and-evaluation-of-financial-information--09-break-even-chart.webp" width="900" height="740" alt="Fixed costs are flat at 30,000 dollars, total costs start there and rise 22.50 per lamp, and revenue rises 37.50 per lamp from zero. They meet at 2,000 lamps and 75,000 dollars. Left of that is loss and right of it profit; the margin of safety to the budget of 4,000 lamps is 2,000 lamps; the angle of incidence is marked at the break-even point." loading="lazy">
-  <figcaption>The break-even point is where revenue meets total costs, and the margin of safety is the distance beyond it.</figcaption>
-</figure>
-
-
 ## 2.7.3 Break-even chart checklist
 
 | Feature | How it appears |
@@ -131,6 +125,12 @@ Profit at 2,000 bikes  = (2,000 − 1,200) × 18 = 14,400
 
 The chart assumes a constant price, a constant variable cost per unit, fixed costs that do not change within the range shown, and that all output is sold.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-analysis-and-evaluation-of-financial-information--09-break-even-chart.webp" width="900" height="740" alt="Fixed costs are flat at 30,000 dollars, total costs start there and rise 22.50 per lamp, and revenue rises 37.50 per lamp from zero. They meet at 2,000 lamps and 75,000 dollars. Left of that is loss and right of it profit; the margin of safety to the budget of 4,000 lamps is 2,000 lamps; the angle of incidence is marked at the break-even point." loading="lazy">
+  <figcaption>The break-even point is where revenue meets total costs, and the margin of safety is the distance beyond it.</figcaption>
+</figure>
+
+
 ## Must-know distinctions
 
 - **Contribution vs net profit**: contribution is before fixed costs; net profit is after them.
@@ -138,12 +138,6 @@ The chart assumes a constant price, a constant variable cost per unit, fixed cos
 - **Fixed costs line vs total costs line**: both start at the same point, but only total costs slopes upwards.
 - **Break-even point vs margin of safety**: one is a level of output; the other is the gap between that level and budgeted sales.
 - **Mark-up vs margin**: a mark-up is measured against cost; a margin is measured against selling price.
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/aqa-a-level-accounting-analysis-and-evaluation-of-financial-information--02-margin-vs-markup.webp" width="900" height="810" alt="One bar shows revenue of 480,000 dollars made of cost of sales 312,000 and gross profit 168,000. Margin divides gross profit by revenue to give 35.00 percent; mark-up divides the same profit by cost of sales to give 53.85 percent." loading="lazy">
-  <figcaption>The same gross profit gives a larger percentage when measured against cost of sales than against revenue.</figcaption>
-</figure>
-
 
 ## Quick self-test
 
@@ -176,6 +170,16 @@ The chart assumes a constant price, a constant variable cost per unit, fixed cos
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/aqa-a-level-accounting-analysis-and-evaluation-of-financial-information--01-ratio-map.webp" width="900" height="951" alt="Five rows group ratios by the question they answer: profitability asks if the business earns enough, liquidity if it can pay its debts, efficiency if it uses resources well, capital structure how it is funded (AQA and OxfordAQA), and investor ratios whether shares are worth owning (A Level companies)." loading="lazy">
   <figcaption>Each ratio group answers one question about the business.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-analysis-and-evaluation-of-financial-information--02-margin-vs-markup.webp" width="900" height="810" alt="One bar shows revenue of 480,000 dollars made of cost of sales 312,000 and gross profit 168,000. Margin divides gross profit by revenue to give 35.00 percent; mark-up divides the same profit by cost of sales to give 53.85 percent." loading="lazy">
+  <figcaption>The same gross profit gives a larger percentage when measured against cost of sales than against revenue.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-analysis-and-evaluation-of-financial-information--05-cash-tied-up-days.webp" width="900" height="690" alt="Inventory is held 43.8 days and customers pay a further 36.5 days later, 80.3 days after buying. Suppliers are paid after 45.0 days, so the business funds the 35.3 days in between. Calculated from average inventory, credit sales and credit purchases." loading="lazy">
+  <figcaption>Inventory, receivable and payable days together show how long the business must fund its own working capital.</figcaption>
 </figure>
 
 <figure class="topic-figure">

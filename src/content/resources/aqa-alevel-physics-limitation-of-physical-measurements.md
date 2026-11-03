@@ -29,12 +29,6 @@ This guide covers sub-topic **3.1.2 Limitation of physical measurements**, the s
 
 Read [Use of SI Units and Their Prefixes](/resources/aqa-alevel-physics-use-of-si-units-and-their-prefixes/) first. This sub-topic also underpins the required practical activities threaded through the rest of the course.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-level-oxfordaqa-physics-measurements-and-their-errors--02-prefix-powers.webp" width="900" height="956" alt="Bars show prefixes from tera 10^12 down to femto 10^-15. Deci is used by Cambridge and OCR only; femto by AQA and OxfordAQA only. Examples: 250 mA = 0.25 A and 5.6 MeV = 5.6 x 10^6 eV." loading="lazy">
-  <figcaption>Replace the prefix with its power of ten before substituting.</figcaption>
-</figure>
-
-
 ## Syllabus coverage
 
 **AQA A-LEVEL PHYSICS (7408) — Sub-topic 3.1.2**
@@ -42,6 +36,12 @@ Read [Use of SI Units and Their Prefixes](/resources/aqa-alevel-physics-use-of-s
 Random and systematic errors. Precision, repeatability, reproducibility, resolution and accuracy. Uncertainty: absolute, fractional and percentage uncertainties represent uncertainty in the final answer for a quantity. Combination of absolute and percentage uncertainties. Represent uncertainty in a data point on a graph using error bars. Determine the uncertainties in the gradient and intercept of a straight-line graph. Individual points on the graph may or may not have associated error bars.
 
 Students should be able to identify random and systematic errors and suggest ways to reduce or remove them. Students should understand the link between the number of significant figures in the value of a quantity and its associated uncertainty. Students should be able to combine uncertainties in cases where the measurements that give rise to the uncertainties are added, subtracted, multiplied, divided, or raised to powers. Combinations involving trigonometric or logarithmic functions will not be required.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-oxfordaqa-physics-measurements-and-their-errors--02-prefix-powers.webp" width="900" height="956" alt="Bars show prefixes from tera 10^12 down to femto 10^-15. Deci is used by Cambridge and OCR only; femto by AQA and OxfordAQA only. Examples: 250 mA = 0.25 A and 5.6 MeV = 5.6 x 10^6 eV." loading="lazy">
+  <figcaption>Replace the prefix with its power of ten before substituting.</figcaption>
+</figure>
+
 
 ## Random and systematic errors
 
@@ -128,3 +128,9 @@ Confusing random error (reduced by repeating and averaging) with systematic erro
 - [AQA A Level Physics hub](/boards/aqa/a-level/physics/)
 
 *This guide is intended to support, not replace, engagement with the official AQA specification and your own teacher's guidance. Always check the current version of the specification for authoritative detail.*
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-oxfordaqa-physics-measurements-and-their-errors--08-order-of-magnitude.webp" width="900" height="910" alt="A log ruler with decades 10^5, 10^6, 10^7 and crossover marks at 3.16 times each power. 2 x 10^5 is order 10^5; 3.4 x 10^5 and 8 x 10^5 are order 10^6; 4 x 10^6 is order 10^7. OxfordAQA gives the crossover as about 3.2." loading="lazy">
+  <figcaption>Above 3.16 x 10^n the order of magnitude is 10^(n+1).</figcaption>
+</figure>
+

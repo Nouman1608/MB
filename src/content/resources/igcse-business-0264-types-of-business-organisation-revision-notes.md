@@ -53,6 +53,11 @@ All candidates take Paper 1 (Short Answer and Data Response) and Paper 2 (Case S
   <figcaption>Unlimited liability puts personal assets at risk; limited liability caps the loss at the amount invested.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-understanding-business-activity--07-ownership-control.webp" width="900" height="1060" alt="Sole trader and partners both own and run the business; in a plc many shareholders own it but a few directors run it, so ownership and control are divorced." loading="lazy">
+  <figcaption>In a plc owners and managers are different groups, whose objectives may diverge.</figcaption>
+</figure>
+
 
 ## The four main types at a glance
 
@@ -93,6 +98,12 @@ All candidates take Paper 1 (Short Answer and Data Response) and Paper 2 (Case S
 **Public limited company**
 - For: large capital, limited liability, easy to trade shares, easier borrowing.
 - Against: high costs, strict regulation, accounts widely available, risk of takeover, pressure for short-term results.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-0264-types-of-business-organisation--01-share-control.webp" width="900" height="820" alt="A bar of 100,000 shares with the founder holding 60,000 (60%, a majority). After 25,000 new shares are sold there are 125,000 shares and the founder’s 60,000 are 48%, below the 50% line. Others hold 32% and the new investor 20%." loading="lazy">
+  <figcaption>Selling new shares to an outside investor can cost the founder a majority.</figcaption>
+</figure>
+
 
 ## Franchise: both sides
 
@@ -238,6 +249,11 @@ Cambridge lists these command words with the meanings below.
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/igcse-business-0264-types-of-business-organisation--08-kittiwake-dividend-control.webp" width="900" height="942" alt="Flow from profit after tax 1,600,000 to dividends 800,000 to 0.20 per share to 5,000 for 25,000 shares. A share bar shows 2,000,000 as half and 2,100,000 shares as a 52.5% majority; 25,000 shares is 0.625%." loading="lazy">
   <figcaption>From company profit to a dividend, and what a majority needs.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-business-business-in-the-real-world--07-franchising.webp" width="900" height="800" alt="The franchisor gives the franchisee its brand, training and support. The franchisee pays fees and royalties and uses their own capital for the outlet. Franchising is not a form of ownership: the franchisee trades as a sole trader, partnership or company, and that sets liability." loading="lazy">
+  <figcaption>Franchising grows a brand using the franchisee’s capital, but liability follows the franchisee’s own legal form.</figcaption>
 </figure>
 
 

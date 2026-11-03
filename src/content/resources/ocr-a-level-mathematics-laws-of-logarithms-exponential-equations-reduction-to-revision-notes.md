@@ -109,11 +109,6 @@ e^(2x) − 7e^x + 12 = 0. Let t = e^x, so t² − 7t + 12 = 0 and (t − 3)(t �
   <figcaption>Substituting u = eˣ turns e²ˣ − 5eˣ + 6 = 0 into a quadratic with roots ln 2 and ln 3.</figcaption>
 </figure>
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-level-maths-9709-pure-mathematics-2-logarithms-and-exponentials--09-decay-half-life.webp" width="900" height="1020" alt="C = 15e^(-0.2t) falls from 15 mg/L. It halves to 7.5 after 3.47 hours and to 3.75 after another 3.47 hours, so the half-life is constant (ln 2 divided by k). It reaches 2 mg/L at t = 10.1 hours." loading="lazy">
-  <figcaption>Exponential decay has a constant half-life of ln 2 ÷ k.</figcaption>
-</figure>
-
 
 ## Reduction to linear form (1.06h)
 
@@ -195,6 +190,22 @@ Always link the comment to the context. A statement like "the model is not accur
 9. A mass decays as m = m₀e^(−0.2t). Find the half-life to 3 significant figures.
 10. Give one limitation of the model P = P₀e^(kt) for a population.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-maths-9709-pure-mathematics-2-logarithms-and-exponentials--03-gradient-ekx.webp" width="900" height="1040" alt="On y = e^(2x), the tangent at (0, 1) has gradient 2 and at x = 0.6 (height 3.32) has gradient 6.64, shown by a triangle with run 0.4 and rise 2.66. Each gradient is 2 times the height, so dy/dx = ky." loading="lazy">
+  <figcaption>The gradient of e^kx is k times its height, so growth is proportional to size.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-maths-9709-pure-mathematics-2-logarithms-and-exponentials--08-ln-calculus.webp" width="900" height="1050" alt="The tangent to y = ln x at x = 2 has gradient one half, equal to 1/x. Below, the area under y = 1/x from 1 to e is shaded and equals 1, because the integral is ln x and ln e minus ln 1 is 1." loading="lazy">
+  <figcaption>ln x differentiates to 1/x and the area under 1/x from 1 to e is 1.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-maths-9709-pure-mathematics-2-logarithms-and-exponentials--09-decay-half-life.webp" width="900" height="1020" alt="C = 15e^(-0.2t) falls from 15 mg/L. It halves to 7.5 after 3.47 hours and to 3.75 after another 3.47 hours, so the half-life is constant (ln 2 divided by k). It reaches 2 mg/L at t = 10.1 hours." loading="lazy">
+  <figcaption>Exponential decay has a constant half-life of ln 2 ÷ k.</figcaption>
+</figure>
+
+
 ### Answers
 
 1. log₅ (50/2) = log₅ 25 = **2**.
@@ -218,6 +229,12 @@ Always link the comment to the context. A statement like "the model is not accur
 - Choosing points from the data table, not from the line of best fit, to find a gradient.
 - Giving an exact answer when the question asks for 3 significant figures, or the reverse.
 - Making a comment about a model that is generic ("it is not realistic") with no link to the context.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-maths-9709-pure-mathematics-2-logarithms-and-exponentials--01-inverse-graphs.webp" width="900" height="900" alt="The orange curve y = e^x passes through (0, 1) and (1, e) and approaches the x-axis. The blue curve y = ln x passes through (1, 0) and (e, 1) and approaches the y-axis. They are mirror images in the dashed line y = x, so the functions are inverses." loading="lazy">
+  <figcaption>The graph of ln x is the reflection of eˣ in y = x.</figcaption>
+</figure>
+
 
 ## Official syllabus
 

@@ -217,6 +217,11 @@ Also useful: the [OCR A Level Biology hub](/boards/ocr/a-level/biology/), the [p
   <figcaption>A polar water molecule can form up to four hydrogen bonds with its neighbours.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-carbohydrates-and-lipids--06-polysaccharides.webp" width="900" height="1268" alt="Glucose units drawn as beads. Amylose is one unbranched alpha-1,4 chain coiled into a helix with one free end. Amylopectin has alpha-1,4 chains with alpha-1,6 branch points and 4 free ends in the drawing; glycogen is more branched with 13 free ends, so enzymes can release glucose faster. Cellulose is straight beta-1,4 chains with every second glucose flipped, joined to neighbouring chains by hydrogen bonds." loading="lazy">
+  <figcaption>Branching gives many ends for fast release; straight cellulose chains bond sideways for strength.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

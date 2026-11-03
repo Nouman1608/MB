@@ -54,6 +54,11 @@ energy             W = VIt
   <figcaption>Solving a two-source circuit with Kirchhoff laws and checking energy.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-physics-electricity--07-internal-resistance.webp" width="900" height="1290" alt="A real cell is an e.m.f. E in series with internal resistance r. With E = 12.0 V, r = 0.50 ohm and R = 5.5 ohm, I = 2.0 A, the terminal p.d. is 11.0 V and 1.0 V is lost across r. A V-I graph of a cell is a straight line with gradient -r and intercept E: data give E = 1.50 V and r = 0.60 ohm, short-circuit current 2.5 A." loading="lazy">
+  <figcaption>Where the e.m.f. goes: terminal p.d. plus lost volts, and how a V–I graph gives E and r.</figcaption>
+</figure>
+
 
 ## Ohm's law and its limits
 
@@ -112,12 +117,6 @@ I = n A v q
 
 For a given current, a **thinner** wire (smaller A) means a **higher drift velocity** — the standard exam application. Metals have very large n, so drift velocity is tiny (millimetres per second) despite the near-instant effect — the electric field that starts the current flowing propagates through the conductor far faster than any individual electron actually moves.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/aqa-a-level-physics-electricity--01-drift-velocity.webp" width="900" height="1260" alt="A wire carries free electrons that drift slowly against the conventional current. In time t the carriers in a slab of length vt cross a plane, so I = nAvq. For a 13 A copper cable the drift speed is 3.8 x 10^-4 m/s, and halving the diameter makes the drift speed four times larger for the same current." loading="lazy">
-  <figcaption>Why a current of many amperes needs only a tiny drift speed: I = nAvq.</figcaption>
-</figure>
-
-
 ## Exam traps
 
 - Stating Ohm's law without the constant-temperature condition.
@@ -140,6 +139,11 @@ For a given current, a **thinner** wire (smaller A) means a **higher drift veloc
 7. State how the resistance of an LDR changes as light intensity increases, and why.
 
 **Answers:** 1. The work done (energy transferred) per unit charge as charge passes between two points, V = W/Q. 2. As current increases, the filament's temperature rises; lattice ions vibrate with greater amplitude, so electrons collide more frequently; resistance increases and the graph curves away from the straight line. 3. Area is proportional to d², so quadrupling the area **quarters** the resistance. 4. Current is directly proportional to potential difference provided physical conditions, particularly temperature, remain constant. 5. It increases — from I = nAvq, if I and n are fixed and A falls, v must rise. 6. R = ρL/A = (2.8 × 10⁻⁸ × 1.5) ÷ (2.0 × 10⁻⁷) = **0.21 Ω**. 7. It falls — more light energy releases more charge carriers, increasing the number density n available to carry current.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-physics-electricity--01-drift-velocity.webp" width="900" height="1260" alt="A wire carries free electrons that drift slowly against the conventional current. In time t the carriers in a slab of length vt cross a plane, so I = nAvq. For a 13 A copper cable the drift speed is 3.8 x 10^-4 m/s, and halving the diameter makes the drift speed four times larger for the same current." loading="lazy">
+  <figcaption>Why a current of many amperes needs only a tiny drift speed: I = nAvq.</figcaption>
+</figure>
 
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/aqa-a-level-physics-electricity--04-resistance-temperature.webp" width="900" height="1275" alt="In a metal, heating makes the ions vibrate more so electrons collide more and resistance rises. In an NTC thermistor or an LDR, heat or light frees many more carriers so resistance falls. The graph shows a metal rising gently and an NTC thermistor falling from 2.4 kohm at 25 C to 0.50 kohm at 65 C." loading="lazy">

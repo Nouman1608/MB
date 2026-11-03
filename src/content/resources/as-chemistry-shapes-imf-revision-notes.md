@@ -54,6 +54,11 @@ A **single bond is always one σ bond alone**. A **double bond is one σ bond pl
   <figcaption>Sigma bonds overlap head-on on the axis; pi bonds overlap sideways above and below it.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/as-chemistry-organic-introduction-revision-notes--01-rn34-hybridisation.webp" width="900" height="940" alt="Three columns: sp3 carbon (methane, 4 sigma, tetrahedral 109.5), sp2 carbon (ethene, 3 sigma + 1 pi, trigonal planar 120, all six atoms flat) and sp carbon (ethyne, 2 sigma + 2 pi, linear 180). Orbital icons show hybrids making sigma bonds and left-over p orbitals making pi bonds." loading="lazy">
+  <figcaption>Hybrid orbitals make sigma bonds, and each left-over p orbital makes a pi bond, which fixes the shape.</figcaption>
+</figure>
+
 
 ## Covalent and coordinate bonds, expanded octets, bond energy (3.4)
 
@@ -215,3 +220,19 @@ The ice-density explanation must mention the **open lattice** and the **tetrahed
 5. Why is ice less dense than liquid water?
 
 **Answers:** 1. Electron pairs repel and arrange themselves as far apart as possible; lone–lone > lone–bond > bond–bond. 2. Tetrahedral 109.5°, trigonal pyramidal 107°, bent 104.5°; each lone pair repels more strongly than a bonding pair, compressing the bond angle by about 2.5°. 3. Both have polar bonds, but CO₂ is linear so the dipoles cancel, while H₂O is bent so they do not. 4. Hydrogen bonded directly to N or O (the Cambridge 9701 assessed condition), and a lone pair on an N or O of a neighbouring molecule. 5. Each molecule forms four hydrogen bonds in a tetrahedral arrangement, producing an open lattice containing holes; melting partly collapses this, so liquid water is denser.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-group-2-the-alkaline-earth-metals--06-halogen-boiling-points.webp" width="900" height="1050" alt="Diatomic molecules F2 to I2 grow larger with 18, 34, 70 and 106 electrons and stronger dashed van der Waals forces. Boiling points are minus 188, minus 34, 59 and 184 degrees Celsius. Only forces between molecules are overcome on boiling." loading="lazy">
+  <figcaption>Boiling point rises down Group 7 because more electrons give stronger van der Waals forces.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-organic-chemistry-naming-mechanisms-and-aromatic-shape--07-boiling-points.webp" width="900" height="1200" alt="Boiling points of methane to decane rise with chain length (data from the OCR lesson); methane to butane are gases at 20 C. Heptane 98, 2-methylhexane 90 and 2,2-dimethylpentane 79 C show branching lowers boiling point." loading="lazy">
+  <figcaption>More electrons and contact give stronger London forces; branching lowers boiling point (AQA, OCR, OxfordAQA).</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-the-covalent-model-bonds-lewis-formulas-shapes-and--08-imf-boiling-point.webp" width="900" height="985" alt="Butane (58.14 g/mol, London forces only) boils at -0.5 C. Propanone (58.09, adds dipole-dipole) boils at 56 C. Propan-1-ol (60.11, adds hydrogen bonding) boils at 97 C. Gold bars show boiling point rising with force strength." loading="lazy">
+  <figcaption>At similar molar mass, London &lt; dipole-dipole &lt; hydrogen bonding.</figcaption>
+</figure>
+

@@ -73,6 +73,17 @@ agent: X₂ + 2e⁻ → 2X⁻. An electron arriving at a larger atom enters a sh
 more shielding between them, so it is attracted less. Iodine therefore gains electrons least readily and
 is the weakest oxidising agent of the three.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-group-2-the-alkaline-earth-metals--01-group2-trends.webp" width="900" height="970" alt="Four Group 2 atoms are drawn with 3 to 6 shells and two gold outer electrons. Bars show first ionisation energy falling from Mg 738 to Ba 503 kJ per mole. More shells and shielding outweigh the extra nuclear charge." loading="lazy">
+  <figcaption>Atomic radius increases and first ionisation energy decreases from Mg to Ba.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-group-2-the-alkaline-earth-metals--06-halogen-boiling-points.webp" width="900" height="1050" alt="Diatomic molecules F2 to I2 grow larger with 18, 34, 70 and 106 electrons and stronger dashed van der Waals forces. Boiling points are minus 188, minus 34, 59 and 184 degrees Celsius. Only forces between molecules are overcome on boiling." loading="lazy">
+  <figcaption>Boiling point rises down Group 7 because more electrons give stronger van der Waals forces.</figcaption>
+</figure>
+
+
 ## 8.25 Displacement reactions and colours
 
 Any halogen higher in the group will oxidise the halide ions of one lower down. Learn the colours first.

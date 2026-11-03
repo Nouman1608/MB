@@ -194,6 +194,12 @@ Revenue rose from £450,000 to £480,000 (6.67%), but the appraisal reads like t
 
 A sound conclusion: sales growth has been bought with lower margins and looser credit control, and the owner should tighten collection before liquidity becomes a problem.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-analysis-and-evaluation-of-financial-information--10-profit-variance-waterfall.webp" width="900" height="806" alt="Budgeted profit of 27,200 dollars becomes actual profit of 31,749: sales price 6,900 favourable, sales volume 3,300 adverse, wool price 2,115 favourable, wool usage 1,350 adverse, labour rate 1,656 adverse and labour efficiency 1,840 favourable. Fixed overheads match the budget." loading="lazy">
+  <figcaption>Favourable variances raise profit above budget and adverse ones lower it.</figcaption>
+</figure>
+
+
 ## Cash and profit are different
 
 Profit is income earned less expenses incurred, measured under the accruals concept. Cash is money actually received and paid. They differ because:

@@ -175,12 +175,6 @@ Evaluation point: costs fall on particular groups and regions, while the benefit
 
 Method for a pattern question: pick two reasons, give a chain for each, then judge which has the larger or longer-lasting effect, and say why.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/aqa-a-level-economics-comparative-advantage-and-the-costs-and-benefits-of--05-advantage-reversal.webp" width="900" height="780" alt="Bars give the opportunity cost of one software in steel. Before training K pays 2 steel against L at 1.5, so L has the advantage; after K cuts its software time to 5 hours K pays 1.25, below 1.5, so K gains the advantage and L moves to steel. The pattern of trade reverses." loading="lazy">
-  <figcaption>Comparative advantage changes over time, so the pattern of trade changes too.</figcaption>
-</figure>
-
-
 ## Quick self-test
 
 1. Define comparative advantage.
@@ -206,6 +200,12 @@ Method for a pattern question: pick two reasons, give a chain for each, then jud
 8. Any two, such as structural unemployment and over-specialisation.
 9. Any two, such as changing comparative advantage and the growth of emerging economies.
 10. Any two, such as constant opportunity costs and no transport costs.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-comparative-advantage-and-the-costs-and-benefits-of--05-advantage-reversal.webp" width="900" height="780" alt="Bars give the opportunity cost of one software in steel. Before training K pays 2 steel against L at 1.5, so L has the advantage; after K cuts its software time to 5 hours K pays 1.25, below 1.5, so K gains the advantage and L moves to steel. The pattern of trade reverses." loading="lazy">
+  <figcaption>Comparative advantage changes over time, so the pattern of trade changes too.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

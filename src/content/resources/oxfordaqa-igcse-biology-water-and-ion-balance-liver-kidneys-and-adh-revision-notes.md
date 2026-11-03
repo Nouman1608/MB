@@ -177,12 +177,6 @@ Quick check: in each sequence, name the organ or gland that acts at every arrow.
 
 Worked reminder: a volunteer produces 135 cm³ of urine in 90 minutes. Convert 90 minutes to 1.5 hours. Rate = 135 ÷ 1.5 = **90 cm³ per hour**.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/oxfordaqa-igcse-biology-water-and-ion-balance-liver-kidneys-and-adh--03-urine-no-drink.webp" width="900" height="905" alt="Two beakers show urine at the start (60 cm3 per hour, concentration 20) and after 3 hours without drinking (22 cm3 per hour, concentration 55). Volume falls 63.3 percent and concentration rises 2.75 times." loading="lazy">
-  <figcaption>Less water in the blood means more ADH, so less, more concentrated urine.</figcaption>
-</figure>
-
-
 ## Worked reminders
 
 Percentage change = (new value − old value) ÷ old value × 100.
@@ -221,6 +215,22 @@ Reading data: a table or graph showing urine volume down and concentration up po
 9. (900 − 1500) ÷ 1500 × 100 = **−40%** (a 40% decrease).
 10. Blood water content rises, so the pituitary gland releases less ADH. The kidneys reabsorb less water, so more water is lost in a larger volume of dilute urine.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-biology-water-and-ion-balance-liver-kidneys-and-adh--01-water-budget.webp" width="900" height="975" alt="Horizontal bars show water in and out per day. Normal day: 2350 cm3 in, urine 1450 cm3. Hot day: 2850 cm3 in, 1650 cm3 lost as sweat, urine 680 cm3. Urine falls by 53.1 percent." loading="lazy">
+  <figcaption>On a hot day more water leaves in sweat, so the kidneys release 53.1% less urine.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-biology-water-and-ion-balance-liver-kidneys-and-adh--03-urine-no-drink.webp" width="900" height="905" alt="Two beakers show urine at the start (60 cm3 per hour, concentration 20) and after 3 hours without drinking (22 cm3 per hour, concentration 55). Volume falls 63.3 percent and concentration rises 2.75 times." loading="lazy">
+  <figcaption>Less water in the blood means more ADH, so less, more concentrated urine.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-biology-water-and-ion-balance-liver-kidneys-and-adh--05-urea-sweat-urine.webp" width="900" height="790" alt="Of 28 g of urea made in a day, 0.6 g (2.1%) is lost in sweat and 27.4 g leaves in urine. A urine sample with 12 g of urea in 1.5 dm3 has a concentration of 8 g per dm3." loading="lazy">
+  <figcaption>Only 2.1% of the urea is lost in sweat; the kidneys remove the rest.</figcaption>
+</figure>
+
+
 ## Where marks are usually lost
 
 - Saying the kidneys make urea, or that amino acids become urea without ammonia.
@@ -232,17 +242,6 @@ Reading data: a table or graph showing urine volume down and concentration up po
 - Stating that negative feedback "makes the change bigger".
 - Forgetting units, or mixing cm³ and dm³ in the same calculation.
 - Saying glucose is lost in the urine of a healthy person.
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/oxfordaqa-igcse-biology-water-and-ion-balance-liver-kidneys-and-adh--01-water-budget.webp" width="900" height="975" alt="Horizontal bars show water in and out per day. Normal day: 2350 cm3 in, urine 1450 cm3. Hot day: 2850 cm3 in, 1650 cm3 lost as sweat, urine 680 cm3. Urine falls by 53.1 percent." loading="lazy">
-  <figcaption>On a hot day more water leaves in sweat, so the kidneys release 53.1% less urine.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/oxfordaqa-igcse-biology-water-and-ion-balance-liver-kidneys-and-adh--05-urea-sweat-urine.webp" width="900" height="790" alt="Of 28 g of urea made in a day, 0.6 g (2.1%) is lost in sweat and 27.4 g leaves in urine. A urine sample with 12 g of urea in 1.5 dm3 has a concentration of 8 g per dm3." loading="lazy">
-  <figcaption>Only 2.1% of the urea is lost in sweat; the kidneys remove the rest.</figcaption>
-</figure>
-
 
 ## Official syllabus
 

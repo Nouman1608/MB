@@ -228,6 +228,11 @@ The standard sub-types are backward (towards suppliers) and forward (towards ret
   <figcaption>Internal growth builds on existing operations; external growth combines two businesses.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-business-business-in-the-real-world--06-integration-types.webp" width="900" height="740" alt="A firm in the centre with four targets. Backward integration takes over a supplier, forward integration a retailer, horizontal integration a rival at the same stage, and conglomerate growth a business in an unrelated industry." loading="lazy">
+  <figcaption>External growth is classified by where the target sits relative to the firm.</figcaption>
+</figure>
+
 
 ### Problems linked to growth
 
@@ -237,6 +242,12 @@ The standard sub-types are backward (towards suppliers) and forward (towards ret
 - **Higher average costs** if the firm becomes too big to manage well.
 - **Lower quality or service** as the business stretches.
 - **Finance risk** if growth is paid for by borrowing.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/enterprise-business-growth-and-size--06-problems-of-growth.webp" width="900" height="990" alt="A small firm has the owner talking directly to all staff; a larger firm needs managers in between. Growth strains cash flow, makes control and communication harder and distances the owner from staff and customers. These are managed by financial planning, clearer management structures and delegation." loading="lazy">
+  <figcaption>Growth strains cash, control and the owner's closeness to people; planning, structure and delegation help.</figcaption>
+</figure>
+
 
 ### Why some businesses remain small
 
@@ -268,6 +279,16 @@ The standard sub-types are backward (towards suppliers) and forward (towards ret
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/igcse-business-0264-enterprise-business-growth-and-size--09-stainmore-factors.webp" width="900" height="1007" alt="Timeline of supplier paid weeks before the customer. Six factors: management skills and availability of finance are the causes; product and demand were fine; economy and competition are not in the case." loading="lazy">
   <figcaption>Applying the six success and failure factors to Stainmore Joinery.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/enterprise-business-growth-and-size--07-liquidity-failure.webp" width="900" height="990" alt="Example with invented numbers. Sales of $100 less costs of $80 give a paper profit of $20, but bills of $80 fall due at day 30 and customers pay only at day 60. Cash falls from $20 to minus $60 and the firm cannot pay its bills, so a profitable firm can still fail." loading="lazy">
+  <figcaption>A firm can be profitable on paper but fail if cash runs out before customers pay.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/enterprise-business-growth-and-size--08-new-business-risk.webp" width="900" height="1000" alt="Example with invented numbers. A new business with $20m capital and an established one with $100m both lose $30m early. The new firm is $10m short and fails; the established one keeps $70m. New firms have less capital, market knowledge, customers and experience." loading="lazy">
+  <figcaption>The same early loss can finish a new business but not an established one.</figcaption>
 </figure>
 
 

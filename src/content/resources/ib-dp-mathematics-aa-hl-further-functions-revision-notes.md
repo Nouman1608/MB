@@ -110,6 +110,12 @@ When you can recall everything here, move on to the [further functions practice 
 2. \|f(x)\| = \|g(x)\| or \|f\| < \|g\|: square both sides, then factorise.
 3. \|f(x)\| < k (k > 0): −k < f(x) < k. \|f(x)\| > k: f(x) > k or f(x) < −k.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-aa-hl-further-functions--08-reciprocal-and-square.webp" width="900" height="1120" alt="From f(x) = x^2 - 2x - 3 (dotted): y = 1/f(x) has asymptotes x = -1 and x = 3 and the minimum (1, -4) becomes a local maximum (1, -1/4); y = [f(x)]^2 touches the x-axis at -1 and 3 with maximum (1, 16). Points where f = +/-1 stay on 1/f and sit at height 1 on f squared." loading="lazy">
+  <figcaption>1/f flips minima to maxima and turns zeros into asymptotes; f squared is never negative and touches at the zeros.</figcaption>
+</figure>
+
+
 ## Graph transformations (2.16)
 
 | From y = f(x) to | Key features |

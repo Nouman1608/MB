@@ -64,6 +64,12 @@ facilitated diffusion), active transport (including the role of ATP as
 an immediate source of energy), endocytosis and exocytosis; understand
 the involvement of carrier and channel proteins in membrane transport
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-cell-membranes-and-transport--01-fluid-mosaic.webp" width="900" height="970" alt="Cross-section of a cell surface membrane. Phospholipid heads face the watery outside and inside, with hydrophobic tails forming a core. A channel protein with a water-filled pore, a carrier protein and a glycoprotein span the bilayer, cholesterol sits in both layers, and carbohydrate chains on the glycoprotein and a glycolipid face outwards only." loading="lazy">
+  <figcaption>The bilayer, proteins, cholesterol and outward-facing carbohydrate chains of the fluid mosaic model.</figcaption>
+</figure>
+
+
 ## How to approach it
 
 Fick's Law (2.1) is the mathematical thread connecting this whole
@@ -85,6 +91,51 @@ energy (ATP), whether it moves substances with or against a
 concentration gradient, and whether it involves a carrier/channel
 protein or membrane vesicle formation. This is one of the most
 frequently tested comparison structures in cell biology at this level.
+
+## Worked example: applying Fick's Law to an exam scenario
+
+A question describes an organism with a thickened gas exchange surface
+due to a respiratory condition, and asks candidates to explain the
+effect on the rate of gas exchange.
+
+```
+Relationship:  rate of diffusion is proportional to (surface area x
+               concentration difference) / diffusion distance
+Change:        diffusion distance has increased (the surface has
+               thickened)
+Effect:        since diffusion distance is in the denominator of
+               Fick's Law, an increase in diffusion distance reduces
+               the rate of diffusion, assuming surface area and
+               concentration difference remain constant
+Consequence:   the organism experiences a reduced rate of gas exchange,
+               which could impair oxygen supply to tissues
+```
+
+Explicitly identifying which variable in Fick's Law has changed, and
+reasoning through its effect on rate, is the specific analytical skill
+this outcome is built to test.
+
+## Key terms to define precisely
+
+**Diffusion** — the net movement of particles from a region of higher
+concentration to a region of lower concentration, down a concentration
+gradient, requiring no energy input. **Facilitated diffusion** —
+diffusion of larger or charged particles through specific channel or
+carrier proteins in a membrane, still moving down a concentration
+gradient and requiring no ATP. **Active transport** — the movement of
+particles against a concentration gradient, using ATP as an energy
+source and carrier proteins. **Osmosis** — the movement of free water
+molecules from a region of higher water potential to a region of lower
+water potential, through a partially permeable membrane. **Water
+potential** — a measure of the tendency of water molecules to move out
+of a solution, with pure water having the highest possible water
+potential. **Fluid mosaic model** — the current scientific model of
+cell membrane structure, describing a fluid phospholipid bilayer with
+a varied ("mosaic") arrangement of embedded proteins, cholesterol and
+other components. Precision about osmosis referring specifically to
+water movement, rather than being used loosely as a synonym for
+diffusion in general, is one of the most consistently tested points of
+vocabulary across this entire outcome cluster.
 
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/a-level-biology-9700-cell-membranes-and-transport--02-cell-signalling.webp" width="900" height="1000" alt="A secreting cell releases triangular ligands, which are carried in the blood. The target cell has a receptor with a triangular binding site, so the ligand binds and the cell responds. A second cell with a square binding site cannot bind the ligand and does not respond." loading="lazy">
@@ -111,57 +162,11 @@ frequently tested comparison structures in cell biology at this level.
   <figcaption>The zero-change concentration gives the tissue water potential.</figcaption>
 </figure>
 
-
-## Worked example: applying Fick's Law to an exam scenario
-
-A question describes an organism with a thickened gas exchange surface
-due to a respiratory condition, and asks candidates to explain the
-effect on the rate of gas exchange.
-
-```
-Relationship:  rate of diffusion is proportional to (surface area x
-               concentration difference) / diffusion distance
-Change:        diffusion distance has increased (the surface has
-               thickened)
-Effect:        since diffusion distance is in the denominator of
-               Fick's Law, an increase in diffusion distance reduces
-               the rate of diffusion, assuming surface area and
-               concentration difference remain constant
-Consequence:   the organism experiences a reduced rate of gas exchange,
-               which could impair oxygen supply to tissues
-```
-
-Explicitly identifying which variable in Fick's Law has changed, and
-reasoning through its effect on rate, is the specific analytical skill
-this outcome is built to test.
-
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/a-level-biology-9700-cell-membranes-and-transport--09-ficks-law.webp" width="900" height="1238" alt="Four panels show a barrier with a crowded and a sparse side. Baseline relative rate is 1; doubling the thickness halves it to 0.5; doubling the area or the concentration difference doubles it to 2." loading="lazy">
   <figcaption>Rate is proportional to area times concentration difference divided by distance.</figcaption>
 </figure>
 
-
-## Key terms to define precisely
-
-**Diffusion** — the net movement of particles from a region of higher
-concentration to a region of lower concentration, down a concentration
-gradient, requiring no energy input. **Facilitated diffusion** —
-diffusion of larger or charged particles through specific channel or
-carrier proteins in a membrane, still moving down a concentration
-gradient and requiring no ATP. **Active transport** — the movement of
-particles against a concentration gradient, using ATP as an energy
-source and carrier proteins. **Osmosis** — the movement of free water
-molecules from a region of higher water potential to a region of lower
-water potential, through a partially permeable membrane. **Water
-potential** — a measure of the tendency of water molecules to move out
-of a solution, with pure water having the highest possible water
-potential. **Fluid mosaic model** — the current scientific model of
-cell membrane structure, describing a fluid phospholipid bilayer with
-a varied ("mosaic") arrangement of embedded proteins, cholesterol and
-other components. Precision about osmosis referring specifically to
-water movement, rather than being used loosely as a synonym for
-diffusion in general, is one of the most consistently tested points of
-vocabulary across this entire outcome cluster.
 
 ## Common mistakes
 

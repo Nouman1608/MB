@@ -233,6 +233,12 @@ y = (x + 2)² − 5  →  x + 2 = √(y + 5)    (positive root, since x + 2 ≥ 
 f⁻¹(x) = √(x + 5) − 2,   domain x ≥ −5,   range f⁻¹(x) ≥ −2
 ```
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-mathematics-pure-mathematics-1-functions--01-range-depends-on-domain.webp" width="900" height="830" alt="Graph of f(x) = x squared - 10x + 29. The whole parabola has its turning point at (5, 4) but the domain x at least 6 uses only the solid right-hand part, starting at (6, 5). The range is therefore f(x) at least 5, not at least 4." loading="lazy">
+  <figcaption>Restricting the domain can change the range, because the lowest point may fall outside it.</figcaption>
+</figure>
+
+
 ## Common errors
 
 - Reading gf as "f then g". It is g(f(x)): f acts first.

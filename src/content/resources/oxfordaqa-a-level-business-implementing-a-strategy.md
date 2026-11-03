@@ -48,6 +48,12 @@ A chosen strategy delivers nothing until people, money and time are organised to
 
 The first four can be managed. External factors cannot, but good monitoring lets the firm respond quickly, for example by delaying a launch.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-business-types-of-strategies--01-ansoff-matrix.webp" width="900" height="1048" alt="A two by two grid of existing/new products against existing/new markets giving market penetration, product development, market development and diversification, with risk rising towards diversification. Orrisdale example: raising share from 15% to 20% needs a 40% revenue rise." loading="lazy">
+  <figcaption>Four options sit in a grid by product and market, and risk rises as the business moves away from what it knows.</figcaption>
+</figure>
+
+
 ## 2. Why the links from mission to functional decisions matter
 
 The [strategic options guide](/resources/oxfordaqa-a-level-business-strategic-options-choosing-which-markets-to/) sets out the chain from mission to functional decisions. Here the focus is on **why the links matter when implementing**.

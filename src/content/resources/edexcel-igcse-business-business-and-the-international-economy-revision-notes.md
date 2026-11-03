@@ -91,6 +91,11 @@ Must-know distinction: a benefit to the multinational (for example lower costs) 
   <figcaption>Six advantages to a business of becoming a multinational company.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-0264-business-and-the-international-economy--13-mnc-host-country.webp" width="900" height="880" alt="A balance: jobs, exports, more choice and investment on the gains side; more competition, environmental damage, resources taken and profits sent home on the losses side." loading="lazy">
+  <figcaption>A host country gains and loses from an MNC.</figcaption>
+</figure>
+
 
 ## 1.5.3 Exchange rate calculations
 
@@ -177,12 +182,6 @@ Short model for an explain answer: "If the pound strengthens, a UK exporter's go
 
 Short model for a judgement: "Becoming a multinational gives the firm access to a larger market, but the cost of building abroad is high. Overall it is worthwhile only if overseas demand is likely to be large enough to repay that cost."
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/edexcel-igcse-business-business-and-the-international-economy--01-quillbeck-threat-opportunity.webp" width="900" height="960" alt="Quillbeck Cycles, an invented business with 30 employees, faces a threat and an opportunity. Threat: a larger overseas maker selling at lower prices takes local customers, so local sales revenue falls. Opportunity: its website reaches buyers in other countries, far more customers than the home market holds. The judgement is to compare what each costs or earns and whether craftsmanship can hold overseas buyers." loading="lazy">
-  <figcaption>The same website brings a threat and an opportunity; a good answer weighs them.</figcaption>
-</figure>
-
-
 ## Quick self-test
 
 1. Define globalisation.
@@ -210,8 +209,8 @@ Short model for a judgement: "Becoming a multinational gives the firm access to 
 10. Each pound buys less foreign currency, so imported materials cost more in pounds. Costs rise, so profit falls unless the business raises its prices, and a price rise could lose customers.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-business-0264-business-and-the-international-economy--13-mnc-host-country.webp" width="900" height="880" alt="A balance: jobs, exports, more choice and investment on the gains side; more competition, environmental damage, resources taken and profits sent home on the losses side." loading="lazy">
-  <figcaption>A host country gains and loses from an MNC.</figcaption>
+  <img src="https://img.marlbridge.com/edexcel-igcse-business-business-and-the-international-economy--01-quillbeck-threat-opportunity.webp" width="900" height="960" alt="Quillbeck Cycles, an invented business with 30 employees, faces a threat and an opportunity. Threat: a larger overseas maker selling at lower prices takes local customers, so local sales revenue falls. Opportunity: its website reaches buyers in other countries, far more customers than the home market holds. The judgement is to compare what each costs or earns and whether craftsmanship can hold overseas buyers." loading="lazy">
+  <figcaption>The same website brings a threat and an opportunity; a good answer weighs them.</figcaption>
 </figure>
 
 

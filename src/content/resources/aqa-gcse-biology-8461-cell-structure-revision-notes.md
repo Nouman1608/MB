@@ -201,6 +201,11 @@ magnification = size of image / size of real object
   <figcaption>A scale bar gives the magnification, from which real size follows.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-organisation-of-the-organism--07-magnification.webp" width="900" height="1200" alt="A tiny real cell of 0.02 mm is magnified to a 60 mm image measured on a ruler. Magnification equals image size divided by actual size, 60 mm divided by 0.02 mm, which is times 3000. Both sizes must be in the same units. Extended: 1 mm equals 1000 micrometres, so 0.02 mm is 20 micrometres." loading="lazy">
+  <figcaption>Magnification is image size divided by actual size, using the same units.</figcaption>
+</figure>
+
 
 ## 4.1.1.6 Culturing microorganisms
 
@@ -279,6 +284,12 @@ magnification = size of image / size of real object
 10. r = 7 mm; π × 7² = **154 mm²**.
 11. 4 h = 240 min; 240 / 30 = 8 divisions; 40 × 2⁸ = 10 240 = **1.024 × 10⁴ bacteria**.
 12. Magnification is how many times bigger the image is; resolution is the ability to **distinguish two close points** as separate.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-drugs--07-bacteria-doubling.webp" width="900" height="890" alt="Extended worked example. A resistant bacterium dividing every 30 minutes makes 8 divisions in 4 hours, so 2 to the power 8 = 256 bacteria. The line graph curves steeply upwards." loading="lazy">
+  <figcaption>A resistant strain can become common very quickly because numbers double with every division.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

@@ -163,17 +163,6 @@ These notes condense the AQA AS and A-level Economics specification (version 1.3
 
 **Evaluating.** Government failure does not prove that markets should be left alone. Compare realistic magnitudes of market and government failure, flexibility and reversibility of the policy, time lags and the quality of information.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/aqa-a-level-economics-competition-policy-public-ownership-regulation-and--10-government-failure-tax.webp" width="900" height="930" alt="Marginal private benefit, private cost and social cost with an external cost of 20. With no tax output is 40 and the welfare loss is 100. The right tax of 20 gives output 30. A tax of 40 cuts output to 20, which is too low, and the welfare loss is again 100." loading="lazy">
-  <figcaption>Intervention based on wrong information can cause as much harm as the market failure it was meant to correct.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-level-economics-government-microeconomic-intervention--04-corrective-tax.webp" width="900" height="900" alt="Demand (MPB) and supply (MPC) cross at price 5 and quantity 50. Marginal social cost (MSC) lies 2 above MPC and crosses demand at price 6.2, quantity 40. The triangle between 40 and 50 is the welfare loss, area 10. A tax of 2 shifts supply up onto MSC and moves output to 40." loading="lazy">
-  <figcaption>A tax equal to the external cost moves output from the market level to the socially optimal level.</figcaption>
-</figure>
-
-
 ## Quick self-test
 
 1. Define regulatory capture.
@@ -199,6 +188,17 @@ These notes condense the AQA AS and A-level Economics specification (version 1.3
 8. For example, inadequate information gives a wrong tax rate and output moves away from the optimum. Administrative costs use resources that exceed the benefit.
 9. 30,000 × 600 = £18 million benefit. Cost £23 million. Net = −£5 million.
 10. The private owner has market power and a profit motive. Without competition or a cap it raises price and cuts output.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-competition-policy-public-ownership-regulation-and--10-government-failure-tax.webp" width="900" height="930" alt="Marginal private benefit, private cost and social cost with an external cost of 20. With no tax output is 40 and the welfare loss is 100. The right tax of 20 gives output 30. A tax of 40 cuts output to 20, which is too low, and the welfare loss is again 100." loading="lazy">
+  <figcaption>Intervention based on wrong information can cause as much harm as the market failure it was meant to correct.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-economics-government-microeconomic-intervention--04-corrective-tax.webp" width="900" height="900" alt="Demand (MPB) and supply (MPC) cross at price 5 and quantity 50. Marginal social cost (MSC) lies 2 above MPC and crosses demand at price 6.2, quantity 40. The triangle between 40 and 50 is the welfare loss, area 10. A tax of 2 shifts supply up onto MSC and moves output to 40." loading="lazy">
+  <figcaption>A tax equal to the external cost moves output from the market level to the socially optimal level.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

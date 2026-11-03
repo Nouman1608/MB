@@ -199,6 +199,11 @@ A price rise of 10% gives a quantity response of 0% immediately, 4% in the short
   <figcaption>Supply is more elastic when firms have more time.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-how-markets-work--03-pes-short-long-run.webp" width="900" height="900" alt="The same rise in demand is shown twice. Where supply is inelastic (short run) price rises 27% and output 13%; where supply is elastic (long run) price rises 11% and output 29%. This is why agricultural supply shocks cause price spikes." loading="lazy">
+  <figcaption>Inelastic short-run supply turns a demand rise into a big price rise; long-run supply adjusts more.</figcaption>
+</figure>
+
 
 ## Chains of reasoning
 

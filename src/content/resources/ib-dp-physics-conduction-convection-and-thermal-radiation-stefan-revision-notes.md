@@ -188,6 +188,12 @@ It needs a fluid and cannot occur in a solid. It needs the heating to be below t
 10. Particles at the hot end have more kinetic energy. They vibrate more and collide with or push on neighbours, passing energy on. The net flow is toward the cold end.
 11. 0.50 × 3.83 × 10²⁶ = **1.9 × 10²⁶ W**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-conduction-convection-and-thermal-radiation-stefan--06-inverse-square.webp" width="900" height="960" alt="Light from a source spreads over 1, 4 and 9 equal squares at distances d, 2d and 3d. The same power is shared out, so apparent brightness is b, b over 4 and b over 9. Doubling the distance cuts b to a quarter." loading="lazy">
+  <figcaption>Apparent brightness follows an inverse square law with distance.</figcaption>
+</figure>
+
+
 ## Where marks are usually lost
 
 - Using °C in σAT⁴ or in Wien's law.

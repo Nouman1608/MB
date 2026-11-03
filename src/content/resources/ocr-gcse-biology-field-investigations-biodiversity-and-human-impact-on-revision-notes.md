@@ -222,17 +222,6 @@ Ecotourism links conservation to income, so the people who live near wildlife ga
 4. Comment on other variables that were not controlled.
 5. Say what extra evidence would improve the conclusion.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ocr-gcse-biology-field-investigations-biodiversity-and-human-impact-on--13-river-evidence.webp" width="900" height="880" alt="A river strip shows an outflow with sample sites above and below. Bar charts show dissolved oxygen falling from 8.4 to 3.1 (63 percent) and mayfly nymphs from 46 to 12 (74 percent). Both fall together, a link not proof." loading="lazy">
-  <figcaption>Oxygen fell 63% and mayflies 74% below the outflow; one sample each is weak evidence.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-biology-0610-human-influences-on-ecosystems--04-eutrophication-steps.webp" width="900" height="1200" alt="Extended. Six linked steps with pictures: more nitrate and ions, fast producer growth, producers die with more decomposition, decomposers respire aerobically using up oxygen (the key link), dissolved oxygen falls (9.0 to 2.7 mg per dm3, a 70 percent decrease), and fish die." loading="lazy">
-  <figcaption>It is the decomposers aerobic respiration, not the algae, that uses up the oxygen.</figcaption>
-</figure>
-
-
 ## Quick self-test
 
 1. A field is 30 m by 20 m. What is its area?
@@ -262,6 +251,17 @@ Ecotourism links conservation to income, so the people who live near wildlife ga
 10. For example, remote areas are costly to survey, or illegal hunting may go unnoticed.
 11. Sewage or fertiliser feeds microorganisms that use up dissolved oxygen, and mayfly nymphs need high oxygen levels.
 12. It may not be typical, so a repeat is needed to see whether the pattern is reliable.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-field-investigations-biodiversity-and-human-impact-on--13-river-evidence.webp" width="900" height="880" alt="A river strip shows an outflow with sample sites above and below. Bar charts show dissolved oxygen falling from 8.4 to 3.1 (63 percent) and mayfly nymphs from 46 to 12 (74 percent). Both fall together, a link not proof." loading="lazy">
+  <figcaption>Oxygen fell 63% and mayflies 74% below the outflow; one sample each is weak evidence.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-human-influences-on-ecosystems--04-eutrophication-steps.webp" width="900" height="1200" alt="Extended. Six linked steps with pictures: more nitrate and ions, fast producer growth, producers die with more decomposition, decomposers respire aerobically using up oxygen (the key link), dissolved oxygen falls (9.0 to 2.7 mg per dm3, a 70 percent decrease), and fish die." loading="lazy">
+  <figcaption>It is the decomposers aerobic respiration, not the algae, that uses up the oxygen.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

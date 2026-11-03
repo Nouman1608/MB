@@ -246,6 +246,16 @@ If these 2000 are resistant, they reproduce with little competition and the next
   <figcaption>Memory cells make the second response faster and larger.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-drugs--04-resistance-develops.webp" width="900" height="1290" alt="Extended. Four steps of natural selection in bacteria: one of ten bacteria has a random mutation making it resistant; the antibiotic kills the nine non-resistant ones; the survivor divides and passes on the gene; later all bacteria are resistant and the antibiotic no longer works." loading="lazy">
+  <figcaption>The antibiotic selects resistant bacteria that already exist; it does not cause the mutation.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-drugs--03-bacterium-vs-virus.webp" width="900" height="1010" alt="A bacterium is a living cell with cell wall, cell membrane, cytoplasm and a DNA loop, giving an antibiotic something to act on. A virus is a protein coat around genetic material, not a cell, so an antibiotic has nothing to act on." loading="lazy">
+  <figcaption>Antibiotics need cell structures to act on, so they work on bacteria and not on viruses.</figcaption>
+</figure>
+
 
 ## Common errors
 

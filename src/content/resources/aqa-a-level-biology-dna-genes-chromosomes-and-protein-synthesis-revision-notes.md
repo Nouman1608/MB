@@ -101,6 +101,12 @@ Eukaryotic nuclear DNA also contains non-coding multiple repeats between genes, 
 4. Stop at a stop codon. Do not count it as an amino acid.
 5. For anticodons, complement the codon again.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-nucleic-acids-and-protein-synthesis--01-nucleotide-chain.webp" width="900" height="1100" alt="Three nucleotides are stacked one below another. Each has a pentose sugar, a phosphate and a nitrogenous base. The 3′ carbon of one sugar is joined through a phosphate to the 5′ carbon of the next sugar by a phosphodiester bond, releasing one water molecule per bond. The top end has a free phosphate (5′) and the bottom end a free OH (3′); n nucleotides give n minus 1 bonds." loading="lazy">
+  <figcaption>Each condensation reaction joins two nucleotides with a phosphodiester bond and releases one water molecule.</figcaption>
+</figure>
+
+
 ## Worked reminders
 
 **Length of a coding region.** A polypeptide of n amino acids needs at least 3n + 3 nucleotides from start to stop codon inclusive. For 150 amino acids: 3 x 150 + 3 = 453.
@@ -208,6 +214,12 @@ Typical roles to recognise: no mRNA means no polypeptide; no ATP means a much lo
 - Saying tRNA "carries amino acids" without stating one specific amino acid per type of tRNA.
 - Giving only a description in an "explain" question, with no reason linked to the code or the structure.
 - Drawing a conclusion from experimental data that goes further than the data support, for example claiming the label shows mRNA specifically.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-nucleic-acids-and-protein-synthesis--02-bases-pairing.webp" width="900" height="990" alt="Adenine and guanine are purines with a double ring. Cytosine, thymine and uracil are pyrimidines with a single ring; thymine is only in DNA and uracil only in RNA. Adenine pairs with thymine through two hydrogen bonds and guanine with cytosine through three. Each pair is one double ring plus one single ring, so every pair has the same width." loading="lazy">
+  <figcaption>A purine always pairs with a pyrimidine: A with T (two hydrogen bonds), G with C (three).</figcaption>
+</figure>
+
 
 ## Official syllabus
 

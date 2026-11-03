@@ -139,17 +139,6 @@ Increases with:
 
 Metallic bonding follows the same electrostatic logic: metal atoms release outer-shell electrons into a shared "sea" free to move through the whole structure, leaving a regular lattice of positive ions. This is **not** a bond between any two specific atoms but a force extending through the entire structure — which is exactly why metals conduct electricity in both solid and molten states (the delocalised electrons carry charge freely) and are malleable (layers of ions slide past each other while the electron sea simply redistributes, so no specific bond has to break).
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ionic-covalent-and-metallic-bonding--08-metallic-bonding.webp" width="900" height="1212" alt="A lattice of positive metal ions in a sea of free electrons. The attraction holds the structure together. Free electrons drifting carry current, and when layers of ions slide the electron sea still holds them together, so metals are malleable." loading="lazy">
-  <figcaption>Positive ions in a sea of delocalised electrons explain conduction and malleability.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ib-dp-chemistry-the-metallic-model--04-bond-strength.webp" width="900" height="860" alt="Two cations of equal size with 1+ and 2+ charge each have a delocalized electron the same distance away; the 2+ ion pulls harder (thicker arrow). K+ and the larger Cs+ are drawn to scale; the electron is closer to K+, so the pull is stronger. A stronger bond means a higher melting point." loading="lazy">
-  <figcaption>Higher cation charge and smaller ion radius give a stronger metallic bond and so a higher melting point.</figcaption>
-</figure>
-
-
 ## Exam traps
 
 - Defining bonds without "electrostatic attraction".
@@ -168,3 +157,14 @@ Metallic bonding follows the same electrostatic logic: metal atoms release outer
 5. Why do simple molecular substances have low melting points?
 
 **Answers:** 1. The ability of an atom to attract the bonding electrons in a covalent bond; it increases across a period and decreases down a group. 2. One in which both electrons of the shared pair come from the same atom; once formed it is indistinguishable from an ordinary covalent bond. 3. HCl: difference 1.0, polar covalent; NaCl: difference 2.3, ionic. 4. Each carbon in graphite forms only three covalent bonds, leaving one delocalised electron per atom free to move along the layers; in diamond all four outer electrons are used in covalent bonds, so none are free. 5. Only the weak intermolecular forces between molecules need to be overcome; the strong covalent bonds within the molecules remain intact.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ionic-covalent-and-metallic-bonding--08-metallic-bonding.webp" width="900" height="1212" alt="A lattice of positive metal ions in a sea of free electrons. The attraction holds the structure together. Free electrons drifting carry current, and when layers of ions slide the electron sea still holds them together, so metals are malleable." loading="lazy">
+  <figcaption>Positive ions in a sea of delocalised electrons explain conduction and malleability.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-the-metallic-model--04-bond-strength.webp" width="900" height="860" alt="Two cations of equal size with 1+ and 2+ charge each have a delocalized electron the same distance away; the 2+ ion pulls harder (thicker arrow). K+ and the larger Cs+ are drawn to scale; the electron is closer to K+, so the pull is stronger. A stronger bond means a higher melting point." loading="lazy">
+  <figcaption>Higher cation charge and smaller ion radius give a stronger metallic bond and so a higher melting point.</figcaption>
+</figure>
+

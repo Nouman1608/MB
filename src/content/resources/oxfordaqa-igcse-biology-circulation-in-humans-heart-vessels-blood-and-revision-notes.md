@@ -105,6 +105,11 @@ These notes condense section 3.2.3, Circulation in humans (statements a to t), o
   <figcaption>Wall thickness and lumen size are matched to the job of each vessel.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-transport-in-animals--05-capillary-exchange.webp" width="900" height="740" alt="A capillary with a wall one cell thick runs past body cells. Oxygen and glucose pass out of the blood to the cells; carbon dioxide and other wastes pass from the cells into the blood." loading="lazy">
+  <figcaption>Capillaries bring blood close to every cell so substances can be exchanged.</figcaption>
+</figure>
+
 
 ## Blood (l to q)
 
@@ -145,6 +150,16 @@ These notes condense section 3.2.3, Circulation in humans (statements a to t), o
   <figcaption>Magnification = image size ÷ real size: 36 mm ÷ 0.0075 mm = ×4800.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-transport-in-animals--06-blood-components.webp" width="900" height="1150" alt="Four parts of blood. Red blood cells carry oxygen, have no nucleus and a pale centre. White blood cells do phagocytosis and make antibodies and have a nucleus; Extended: lymphocytes (large round nucleus) make antibodies and phagocytes (lobed nucleus) engulf pathogens. Platelets are fragments that help clotting. Plasma carries cells, ions, nutrients, urea, hormones and carbon dioxide." loading="lazy">
+  <figcaption>Red cells, white cells, platelets and plasma each have a job in the blood.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-transport-in-animals--07-clotting.webp" width="900" height="1130" alt="Extended. A damaged vessel lets blood escape and pathogens enter. Soluble fibrinogen in the plasma is converted into insoluble fibrin fibres. The fibrin mesh traps blood cells and forms a clot, stopping blood loss and keeping pathogens out." loading="lazy">
+  <figcaption>A fibrin mesh traps blood cells to seal a wound.</figcaption>
+</figure>
+
 
 ## Heart problems and treatments (d, e, f, g)
 
@@ -167,6 +182,11 @@ These notes condense section 3.2.3, Circulation in humans (statements a to t), o
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/oxfordaqa-igcse-biology-circulation-in-humans-heart-vessels-blood-and--06-pacemaker.webp" width="900" height="1060" alt="A heart outline with the right atrium labelled and a cluster of cells in it marked as the natural pacemaker. A device box labelled artificial pacemaker is joined to the heart by a wire and sends electrical signals. Below, an irregular heartbeat trace with uneven gaps is compared with a regular trace with equal gaps when the artificial pacemaker is used." loading="lazy">
   <figcaption>A group of cells in the right atrium is the natural pacemaker; an artificial pacemaker sends electrical signals to keep an irregular heartbeat regular.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-biology-circulation-in-humans-heart-vessels-blood-and--08-device-vs-transplant.webp" width="900" height="1050" alt="A grid compares a mechanical device and a transplant on five points. Donor: the device needs none, the transplant faces a shortage and waiting. Rejection: none for the device, a risk for the transplant. Infection: a risk for both, more likely for the transplant because of drugs. Machine failure: the device can fail, the transplant has no moving machinery. Drugs: the device may need anticoagulants, the transplant needs immunosuppressants." loading="lazy">
+  <figcaption>Five points from the lesson on which a mechanical device and a transplant differ; finish an evaluation with a judgement for the patient described.</figcaption>
 </figure>
 
 

@@ -170,6 +170,12 @@ After 4 s:  s = ½at² = 16i + 16j,  |s| = 22.6 m
 9. 5g − T = 5a and T − 6g sin 30° = 6a give 11a = 49 − 29.4, so a = 1.78 m s⁻²; T = 5(g − a) = 40.1 N.
 10. While the string is taut, both particles have the same speed and acceleration size.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-maths-9709-mechanics--01-amth-forces-lift.webp" width="900" height="1010" alt="Free-body diagrams of a 65 kg person in a lift with g = 9.8. At rest R = 637 N; accelerating up at 0.8 m per second squared R = 689 N; accelerating down R = 585 N. Arrow lengths are proportional to the forces. A strip below shows the third-law pair: the floor pushes the person up with R and the person pushes the floor down with R, on different bodies." loading="lazy">
+  <figcaption>The reaction R is larger than the weight when the lift accelerates upwards and smaller when it accelerates downwards; third-law pairs act on different bodies.</figcaption>
+</figure>
+
+
 ## Where marks are usually lost
 
 - Mixing sin and cos on an inclined plane.

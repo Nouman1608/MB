@@ -123,6 +123,11 @@ The line is the least-squares line of y on x. Derivations are not required.
   <figcaption>r measures how tightly the points hug a line, not how steep the line is.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-mathematics-probability-and-correlation-and-regression--09-c-sample-size.webp" width="900" height="850" alt="Graph of the 5% one-tail critical value of r against n, falling with n. The line r = 0.5 is below the critical value at n = 6 (0.7293) and above it at n = 30 (0.3061), crossing at n = 12." loading="lazy">
+  <figcaption>A larger sample means a smaller r is enough to reject H0.</figcaption>
+</figure>
+
 
 ### Linear change of variable
 
@@ -153,27 +158,6 @@ r = Sxy / √(Sxx Syy), with −1 ≤ r ≤ 1.
 - Limits: correlation is not causation; r detects only linear patterns; outliers distort r; extrapolation stays risky.
 - Tests of significance and derivations are not required.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/edexcel-ial-mathematics-probability-and-correlation-and-regression--01-c-what-r-shows.webp" width="900" height="1100" alt="Six scatter diagrams of 12 points with computed r: 1, about 0.96, about 0.49, about -0.10, about -0.96 and -1. Closer to a line means r nearer 1 or -1 and the sign gives the direction." loading="lazy">
-  <figcaption>How close the points lie to a straight line, and which way it slopes, decide r.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/edexcel-ial-mathematics-probability-and-correlation-and-regression--04-c-r-straight-only.webp" width="900" height="930" alt="Two exact parabolas, y = (x-5)^2 and y = x^2, each with r = 0 and a flat best straight line." loading="lazy">
-  <figcaption>A perfect curved relationship can still give r = 0, because r only measures straight-line fit.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/edexcel-ial-mathematics-probability-and-correlation-and-regression--05-c-outlier.webp" width="900" height="860" alt="Eight points close to a line give r about 0.99; adding one outlier at (9, 2) drops r to about 0.45 and tilts the regression line." loading="lazy">
-  <figcaption>A single outlier can change r a lot.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/edexcel-ial-mathematics-probability-and-correlation-and-regression--08-c-test-regions.webp" width="900" height="1010" alt="For n = 10, r = 0.62 lies in the rejection region of the one-tail 5% test (r &gt; 0.5494) but not the two-tail 5% test (|r| &gt; 0.6319) or the one-tail 1% test (r &gt; 0.7155)." loading="lazy">
-  <figcaption>The same sample r can lead to different decisions depending on the alternative hypothesis and significance level.</figcaption>
-</figure>
-
-
 ## Quick self-test
 
 1. A and B are independent, P(A) = 0.35, P(B) = 0.5. Find P(A ∩ B) and P(A ∪ B).
@@ -199,6 +183,27 @@ r = Sxy / √(Sxx Syy), with −1 ≤ r ≤ 1.
 8. y = 20 + 4 + 3(x − 5)/2 = **16.5 + 1.5x**.
 9. **r = 0.8**: multiplying y by −1 reverses the direction of the association but keeps its strength.
 10. Art or music: 14 + 11 − 5 = 20, so neither = **10**. P(art | music) = **5/11**.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-mathematics-probability-and-correlation-and-regression--01-c-what-r-shows.webp" width="900" height="1100" alt="Six scatter diagrams of 12 points with computed r: 1, about 0.96, about 0.49, about -0.10, about -0.96 and -1. Closer to a line means r nearer 1 or -1 and the sign gives the direction." loading="lazy">
+  <figcaption>How close the points lie to a straight line, and which way it slopes, decide r.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-mathematics-probability-and-correlation-and-regression--04-c-r-straight-only.webp" width="900" height="930" alt="Two exact parabolas, y = (x-5)^2 and y = x^2, each with r = 0 and a flat best straight line." loading="lazy">
+  <figcaption>A perfect curved relationship can still give r = 0, because r only measures straight-line fit.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-mathematics-probability-and-correlation-and-regression--05-c-outlier.webp" width="900" height="860" alt="Eight points close to a line give r about 0.99; adding one outlier at (9, 2) drops r to about 0.45 and tilts the regression line." loading="lazy">
+  <figcaption>A single outlier can change r a lot.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-mathematics-probability-and-correlation-and-regression--08-c-test-regions.webp" width="900" height="1010" alt="For n = 10, r = 0.62 lies in the rejection region of the one-tail 5% test (r &gt; 0.5494) but not the two-tail 5% test (|r| &gt; 0.6319) or the one-tail 1% test (r &gt; 0.7155)." loading="lazy">
+  <figcaption>The same sample r can lead to different decisions depending on the alternative hypothesis and significance level.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

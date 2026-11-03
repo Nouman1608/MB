@@ -48,12 +48,6 @@ Implication in one line each:
 
 Reminder: a business owes £27,500 and its assets raise £19,000. Shortfall = 27,500 - 19,000 = £8,500.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/edexcel-gcse-business-limited-liability-and-business-location--01-elmstead-shortfall.webp" width="900" height="880" alt="Elmstead Ceramics fails owing £48,000 and its assets raise £31,000, a £17,000 shortfall. As a sole trader Imran must find the £17,000 himself. As a private limited company where he paid £12,000 for shares, he loses at most £12,000 and the creditors lose the £17,000." loading="lazy">
-  <figcaption>Limited liability caps the owner’s loss and moves the shortfall onto creditors.</figcaption>
-</figure>
-
-
 ## 1.4.1 Ownership types at a glance
 
 | | Sole trader | Partnership | Private limited company |
@@ -212,6 +206,12 @@ Which location factor first?
 10. Fish is perishable, so being close to the source cuts transport time and spoilage.
 11. Customers do not visit, so premises can be cheap and need only store and dispatch goods.
 12. The service is delivered in person, so customers must come to fixed premises.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-gcse-business-limited-liability-and-business-location--01-elmstead-shortfall.webp" width="900" height="880" alt="Elmstead Ceramics fails owing £48,000 and its assets raise £31,000, a £17,000 shortfall. As a sole trader Imran must find the £17,000 himself. As a private limited company where he paid £12,000 for shares, he loses at most £12,000 and the creditors lose the £17,000." loading="lazy">
+  <figcaption>Limited liability caps the owner’s loss and moves the shortfall onto creditors.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

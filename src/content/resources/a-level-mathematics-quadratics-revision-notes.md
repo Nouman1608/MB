@@ -137,17 +137,6 @@ x - 7 sqrt(x) + 12 = 0    let u = sqrt(x)  ->  u^2 - 7u + 12 = 0
 
 **Two things must follow:** substitute back to find x, and **reject impossible values** — √x cannot be negative, and 2^x is always positive for real x. Marks are routinely lost by stopping at u, or by keeping a negative root for u = √x.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-level-mathematics-quadratics-revision-notes--03-reject-impossible-roots.webp" width="900" height="994" alt="u=2^x meets u=3 at x=log2 3 but never reaches u=-2, so that root is rejected." loading="lazy">
-  <figcaption>Substitute back and reject values the function cannot take.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-level-aqa-mathematics-quadratics-and-inequalities--08-disguised-quadratic.webp" width="900" height="1255" alt="With u = x^2 the equation x^4 - 5x^2 + 4 = 0 becomes u^2 - 5u + 4 = 0 with roots u = 1 and 4. Going back gives x = -2, -1, 1 and 2, the four x-intercepts of the quartic." loading="lazy">
-  <figcaption>Substitute u for the repeated function, solve the quadratic, then solve back for x using both signs. (Cambridge 9709 only.)</figcaption>
-</figure>
-
-
 ## Exam traps
 
 - Not multiplying `q` by `a` when completing the square with a ≠ 1.
@@ -167,3 +156,14 @@ x - 7 sqrt(x) + 12 = 0    let u = sqrt(x)  ->  u^2 - 7u + 12 = 0
 6. Solve `3x² + 5x − 2 = 0` using the quadratic formula.
 
 **Answers:** 1. `2(x − 3)² − 13`, minimum at (3, −13). 2. The curve touches the x-axis at exactly one point — a repeated root, so the line is a tangent. 3. Roots 2 and 5; the parabola is above the axis outside them, so x < 2 or x > 5. 4. a > 0 and b² − 4ac < 0. 5. Let u = √x: u² − 7u + 12 = 0, so u = 3 or 4, both valid as they are positive; x = 9 or x = 16. 6. x = (−5 ± √(25+24)) ÷ 6 = (−5 ± 7) ÷ 6, giving x = 1/3 or x = −2.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-mathematics-quadratics-revision-notes--03-reject-impossible-roots.webp" width="900" height="994" alt="u=2^x meets u=3 at x=log2 3 but never reaches u=-2, so that root is rejected." loading="lazy">
+  <figcaption>Substitute back and reject values the function cannot take.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-mathematics-quadratics-and-inequalities--08-disguised-quadratic.webp" width="900" height="1255" alt="With u = x^2 the equation x^4 - 5x^2 + 4 = 0 becomes u^2 - 5u + 4 = 0 with roots u = 1 and 4. Going back gives x = -2, -1, 1 and 2, the four x-intercepts of the quartic." loading="lazy">
+  <figcaption>Substitute u for the repeated function, solve the quadratic, then solve back for x using both signs. (Cambridge 9709 only.)</figcaption>
+</figure>
+

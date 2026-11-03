@@ -101,6 +101,12 @@ effects on businesses of competition in terms of competitor numbers,
 size and behaviour, including ways for a small business to compete in
 a competitive market
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-business-managers-leadership-decision-making--09-margins-fall.webp" width="900" height="1010" alt="Revenue grew 20 percent and cost of sales 30 percent. Gross margin fell from 40 to 35 percent, operating margin from 15 to 12 percent and net margin from 10.7 to 7.8 percent." loading="lazy">
+  <figcaption>Cost of sales grew faster than revenue, so every profit margin fell.</figcaption>
+</figure>
+
+
 ## How to approach it
 
 This unit is the most calculation-heavy part of the AS course, so

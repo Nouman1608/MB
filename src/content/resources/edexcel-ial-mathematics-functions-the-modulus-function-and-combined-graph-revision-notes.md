@@ -72,6 +72,11 @@ Useful factorisations: difference of two squares a² − b² = (a − b)(a + b),
 **Reminder.** f(x) = 4x − 3 gives y = 4x − 3, x = (y + 3)/4, so f⁻¹(x) = (x + 3)/4. For f(x) = 1/(x + 3), x ≠ −3, the value 0 is never reached, so the range is f(x) ≠ 0 and f⁻¹(x) = 1/x − 3 has domain x ≠ 0.
 
 <figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-mathematics-pure-mathematics-1-functions--01-range-depends-on-domain.webp" width="900" height="830" alt="Graph of f(x) = x squared - 10x + 29. The whole parabola has its turning point at (5, 4) but the domain x at least 6 uses only the solid right-hand part, starting at (6, 5). The range is therefore f(x) at least 5, not at least 4." loading="lazy">
+  <figcaption>Restricting the domain can change the range, because the lowest point may fall outside it.</figcaption>
+</figure>
+
+<figure class="topic-figure">
   <img src="https://img.marlbridge.com/a-level-mathematics-pure-mathematics-1-functions--02-horizontal-line-test.webp" width="900" height="960" alt="Two graphs of y = x squared. For all real x a horizontal line crosses twice (x = -2 and 2), so the function is many-one with no inverse. With x at least 0 the same line crosses once, so it is one-one and has an inverse." loading="lazy">
   <figcaption>A horizontal line cutting the graph more than once means no inverse exists.</figcaption>
 </figure>
@@ -205,12 +210,6 @@ To sketch y = −f(x + a) on a trig graph, translate first, then reflect in the 
 9. (4, 5)
 10. x < −5 or x > 3
 11. Maximum 3, minimum 1, period 2π/3
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-level-mathematics-pure-mathematics-1-functions--01-range-depends-on-domain.webp" width="900" height="830" alt="Graph of f(x) = x squared - 10x + 29. The whole parabola has its turning point at (5, 4) but the domain x at least 6 uses only the solid right-hand part, starting at (6, 5). The range is therefore f(x) at least 5, not at least 4." loading="lazy">
-  <figcaption>Restricting the domain can change the range, because the lowest point may fall outside it.</figcaption>
-</figure>
-
 
 ## Where marks are usually lost
 

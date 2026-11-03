@@ -70,6 +70,11 @@ particles      N = n x 6.02 x 10^23
   <figcaption>Convert to moles first, then to the quantity you need.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/formulae-equations-and-the-mole--07-concentration.webp" width="900" height="980" alt="Four beakers of 250 cm3, each with 0.5 mol, make 1 dm3 holding 2 mol, so concentration is 2 mol/dm3. 250 cm3 divided by 1000 is 0.25 dm3 and 0.5 divided by 0.25 is 2." loading="lazy">
+  <figcaption>Concentration is moles per dm3; convert cm3 to dm3 by dividing by 1000.</figcaption>
+</figure>
+
 
 ## The universal method *(0620 Extended, 5070 required)*
 
@@ -81,12 +86,6 @@ Almost every stoichiometry question is the same four steps:
 4. Convert the unknown moles back to mass, volume or concentration.
 
 Skipping step 1 invalidates step 3, which is where most lost marks originate — an unbalanced equation gives the wrong mole ratio, and every later step inherits that error.
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/formulae-equations-and-the-mole--06-reacting-masses.webp" width="900" height="990" alt="Three steps: 50 g divided by Mr 100 is 0.5 mol; the 1:1 ratio gives 0.5 mol CO2; 0.5 times 24 is 12 dm3 of CO2 at r.t.p." loading="lazy">
-  <figcaption>Mass to moles, use the equation ratio, then moles to gas volume.</figcaption>
-</figure>
-
 
 ## Common ions to know by heart
 
@@ -119,6 +118,11 @@ Skipping step 1 invalidates step 3, which is where most lost marks originate —
 ```
 
 Molecular formula = empirical formula × n, where n = (molecular mass) / (empirical mass).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/formulae-equations-and-the-mole--01-formula-from-model.webp" width="900" height="890" alt="Two ball-and-stick models. One nitrogen bonded to three hydrogens gives NH3. Two carbons each with three hydrogens give C2H6, which is not simplified to CH3." loading="lazy">
+  <figcaption>Count every atom in a molecule to write its molecular formula.</figcaption>
+</figure>
 
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/formulae-equations-and-the-mole--08-empirical-formula.webp" width="900" height="980" alt="Using example masses of 2.4 g carbon and 0.6 g hydrogen: moles are 0.2 and 0.6, ratio 1:3, empirical formula CH3 (mass 15). With Mr 30, multiply by 2 to give C2H6." loading="lazy">
@@ -182,3 +186,19 @@ it, with no Core/Extended split.
 7. *(0620 Extended, 5070 required)* Find the percentage by mass of oxygen in CaCO₃ (Ar: Ca 40, C 12, O 16).
 
 **Answers:** 1. Mr = 40+12+48 = 100; mass = 0.25 × 100 = **25 g**. 2. 0.5 × 24 = **12 dm³**. 3. V = 0.025 dm³; n = 0.1 × 0.025 = **0.0025 mol**. 4. 40/12 = 3.33, 6.7/1 = 6.7, 53.3/16 = 3.33; divide by 3.33 → 1 : 2 : 1 → **CH₂O**. 5. The ratio of coefficients *is* the mole ratio; an unbalanced equation gives the wrong ratio and every subsequent step is wrong. 6. LCM of 3 and 2 is 6, so 2 Al³⁺ balances 3 O²⁻ → **Al₂O₃**. 7. Mr(CaCO₃) = 100, mass of O = 3 × 16 = 48; % O = (48 ÷ 100) × 100 = **48%**.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/formulae-equations-and-the-mole--03-balancing-equations.webp" width="900" height="1130" alt="Molecule pictures show CH4 plus two O2 on the left and CO2 plus two H2O on the right, each side with 1 C, 4 H and 4 O. Only coefficients change. A key shows (s), (l), (g) and (aq)." loading="lazy">
+  <figcaption>A balanced equation has the same atoms on both sides; state symbols show the physical state.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/formulae-equations-and-the-mole--04-relative-formula-mass.webp" width="900" height="630" alt="A scaled bar of five blocks: Ca 40, C 12 and three O of 16. Added together, Mr of CaCO3 is 100." loading="lazy">
+  <figcaption>Mr is the sum of the Ar values of all atoms in the formula.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/formulae-equations-and-the-mole--06-reacting-masses.webp" width="900" height="990" alt="Three steps: 50 g divided by Mr 100 is 0.5 mol; the 1:1 ratio gives 0.5 mol CO2; 0.5 times 24 is 12 dm3 of CO2 at r.t.p." loading="lazy">
+  <figcaption>Mass to moles, use the equation ratio, then moles to gas volume.</figcaption>
+</figure>
+

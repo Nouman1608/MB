@@ -106,6 +106,12 @@ A fermenter is a large vessel where conditions are kept at their best for the or
 - **Nutrients.** A balanced supply of carbon and nitrogen prevents any one nutrient from limiting growth.
 - **Stirring.** It spreads nutrients, oxygen and heat evenly.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-factors-that-affect-enzyme-action--04-initial-rate.webp" width="900" height="1000" alt="A graph of oxygen volume against time with points at 0 to 120 seconds from the lesson. The tangent at t = 0 passes through (0,0) and (20,10), so the initial rate is 0.50 cm3 per second; a line from 60 to 120 s gives 0.10 cm3 per second. A flask and gas syringe show how the oxygen is collected." loading="lazy">
+  <figcaption>The initial rate is the gradient of the tangent at t = 0 and is the best value for comparing experiments.</figcaption>
+</figure>
+
+
 ## 6.2.1(h)(i) The growth curve
 
 In a **closed culture** no nutrients are added and nothing is removed. A plot of the logarithm of cell number against time has four phases.
@@ -193,8 +199,23 @@ Examples include glucose isomerase (glucose to fructose, a sweeter sugar), lacta
 </figure>
 
 <figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-factors-that-affect-enzyme-action--02-lock-key-induced-fit.webp" width="900" height="1130" alt="Three rows. Lock and key: a rigid notch-shaped active site that the substrate fits exactly. Induced fit: the site starts close to but not exactly complementary, and moulds round the substrate as it binds, straining bonds. Specificity: a round substrate of the wrong shape cannot bind." loading="lazy">
+  <figcaption>Lock and key has a fixed active site; in induced fit the site changes shape slightly as the substrate binds.</figcaption>
+</figure>
+
+<figure class="topic-figure">
   <img src="https://img.marlbridge.com/a-level-biology-9700-factors-that-affect-enzyme-action--03-activation-energy.webp" width="900" height="1060" alt="An energy profile from substrates to lower-energy products. The uncatalysed route has a high peak (large Ea); with an enzyme the peak is lower between the same substrates and products, so the overall energy change is unchanged. Two small pictures show an active site holding two substrates close in the correct orientation (building) and straining a bond (breaking)." loading="lazy">
   <figcaption>An enzyme lowers the activation energy without changing the overall energy change of the reaction.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-factors-that-affect-enzyme-action--05-temperature-ph.webp" width="900" height="1140" alt="Two graphs. Temperature: rate rises to an optimum a little below 45 degrees Celsius then falls steeply as the active site is distorted and the enzyme denatured. pH: a bell-shaped curve with an optimum near 7; at low and high pH charges on R groups change. A buffer holds pH constant." loading="lazy">
+  <figcaption>Away from the optimum, the active site changes shape so fewer enzyme-substrate complexes form.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-factors-that-affect-enzyme-action--07-inhibitor-types.webp" width="900" height="1060" alt="Three rows. No inhibitor: substrate fits the active site. Competitive: an inhibitor with a similar shape sits in the active site, blocking the substrate; more substrate out-competes it. Non-competitive: the inhibitor binds elsewhere and reshapes the active site, so extra substrate does not help." loading="lazy">
+  <figcaption>Competitive inhibitors compete for the active site; non-competitive inhibitors bind elsewhere and change its shape.</figcaption>
 </figure>
 
 <figure class="topic-figure">

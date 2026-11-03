@@ -65,11 +65,6 @@ The rule behind the table: a receivables control account behaves like a customer
 6. Compare it with the total of the list of balances taken from the ledger and explain any difference.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/oxfordaqa-igcse-accounting-trade-payables-and-trade-receivables-control-accounts--04-mp16-control-sources.webp" width="900" height="1006" alt="Each control account line is a total from a book of prime entry: sales journal, returns journals, purchases journal, cash book, general journal or bank statement. The account is a memorandum record outside the double entry and excludes cash sales and cash purchases." loading="lazy">
-  <figcaption>Every line is a total taken from a book of prime entry.</figcaption>
-</figure>
-
-<figure class="topic-figure">
   <img src="https://img.marlbridge.com/oxfordaqa-igcse-accounting-trade-payables-and-trade-receivables-control-accounts--07-un16-opposite-balances.webp" width="900" height="1054" alt="Credit balances in the receivables ledger (340 closing on the debit side, 260 opening on the credit side) and debit balances in the payables ledger (150 opening on the debit side, 210 closing on the credit side) sit opposite to the normal side of each control account." loading="lazy">
   <figcaption>Overpayments and returns create balances on the opposite side.</figcaption>
 </figure>
@@ -169,12 +164,6 @@ Balance c/d (credit balances)
 
 For a contra of 940, the general journal shows: debit the trader's account in the payables ledger 940, credit the same trader's account in the receivables ledger 940. The narrative should say that it is a set-off between ledgers.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/oxfordaqa-igcse-accounting-trade-payables-and-trade-receivables-control-accounts--06-mp16-contra.webp" width="900" height="770" alt="Norbury owes 700 and is owed 1,150, so 700 is set off. It is credited in the receivables control account and debited in the payables control account, and 450 is still owed." loading="lazy">
-  <figcaption>A contra reduces both control accounts by the same amount, so enter it in both.</figcaption>
-</figure>
-
-
 ## Quick self-test
 
 1. Is a control account part of the double-entry system?
@@ -200,6 +189,22 @@ For a contra of 940, the general journal shows: debit the trader's account in th
 8. The difference is **210** (the list is lower). One cause: a sales invoice not posted to a customer account.
 9. A payment or receipt posted to the wrong customer's account, which leaves the total unchanged.
 10. The credit side.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-accounting-trade-payables-and-trade-receivables-control-accounts--04-mp16-control-sources.webp" width="900" height="1006" alt="Each control account line is a total from a book of prime entry: sales journal, returns journals, purchases journal, cash book, general journal or bank statement. The account is a memorandum record outside the double entry and excludes cash sales and cash purchases." loading="lazy">
+  <figcaption>Every line is a total taken from a book of prime entry.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-accounting-trade-payables-and-trade-receivables-control-accounts--06-mp16-contra.webp" width="900" height="770" alt="Norbury owes 700 and is owed 1,150, so 700 is set off. It is credited in the receivables control account and debited in the payables control account, and 450 is still owed." loading="lazy">
+  <figcaption>A contra reduces both control accounts by the same amount, so enter it in both.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-accounting-types-of-business-organisation--06-prime-entry-trial-balance.webp" width="900" height="1250" alt="Six books of prime entry feed ledger accounts, which feed a trial balance. The example trial balance has debits of 12,000 (cash, equipment, stock) equal to credits of 12,000 (capital, creditors). Equal totals do not prove the absence of errors." loading="lazy">
+  <figcaption>Transactions flow from books of prime entry to ledgers to a trial balance that checks debits equal credits.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

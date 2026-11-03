@@ -89,8 +89,13 @@ Memory aid: each leakage pairs with the injection on its row (saving–investmen
 **HDI goalposts (UNDP):** life expectancy 20–85 years; expected schooling 0–18 years; mean schooling 0–15 years; GNI per capita (PPP) 100–75,000, using natural logarithms. Education index = average of the two schooling indices. Groups: very high 0.800+, high 0.700–0.799, medium 0.550–0.699, low below 0.550.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ib-myp-individuals-and-societies-economic-agents-measurements-trends--03-nominal-real-per-person-growth.webp" width="900" height="900" alt="Three bars for fictional Aldmere: nominal GDP growth 8.3 percent, real GDP growth 4.2 percent after dividing by the price index of 104, and real GDP per person growth 2.6 percent after allowing for population rising from 32.0 to 32.5 million. About half of the nominal rise (40 of 80 billion crowns) was only higher prices." loading="lazy">
-  <figcaption>Removing price rises and then population growth shrinks 8.3% nominal growth to 2.6% growth per person.</figcaption>
+  <img src="https://img.marlbridge.com/ib-myp-individuals-and-societies-economic-agents-measurements-trends--06-hdi-aldmere.webp" width="900" height="960" alt="Four gauges for fictional Aldmere, each between lesson goalposts: life expectancy 77.0 years (20 to 85) gives 0.877; expected schooling 15.0 years (0 to 18) gives 0.833 and mean schooling 10.5 years (0 to 15) gives 0.700, averaging to an education index of 0.767; GNI per capita of $20,000 (100 to 75,000, logarithmic) gives 0.800. The HDI is their geometric mean, 0.813, in the very high band (0.800 and above)." loading="lazy">
+  <figcaption>Each indicator becomes a 0 to 1 index between goalposts, and the HDI is the geometric mean of the three dimension indices.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-individuals-and-societies-economic-agents-measurements-trends--09-myp-real-wages.webp" width="900" height="770" alt="A line graph of two indexes starting at 100. Prices, from the lesson's weighted price index, rise to 103.15. Wages rise 2 percent to 102. The shaded gap shows wages falling behind prices. Real wage = 102 divided by 103.15 times 100 = 98.9, so real wages fall by about 1.1 percent. The vertical axis starts at 98, not zero." loading="lazy">
+  <figcaption>Wages up 2% while prices rise 3.15% means real wages fall about 1.1%.</figcaption>
 </figure>
 
 
@@ -134,6 +139,22 @@ Memory aid: each leakage pairs with the injection on its row (saving–investmen
 4. **L**inks -- between two variables, worded "is consistent with", never "proves".
 
 Small reminder: CPI 140 → 147 is inflation of 7 ÷ 140 × 100 = 5%.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-individuals-and-societies-economic-agents-measurements-trends--03-nominal-real-per-person-growth.webp" width="900" height="900" alt="Three bars for fictional Aldmere: nominal GDP growth 8.3 percent, real GDP growth 4.2 percent after dividing by the price index of 104, and real GDP per person growth 2.6 percent after allowing for population rising from 32.0 to 32.5 million. About half of the nominal rise (40 of 80 billion crowns) was only higher prices." loading="lazy">
+  <figcaption>Removing price rises and then population growth shrinks 8.3% nominal growth to 2.6% growth per person.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-individuals-and-societies-economic-agents-measurements-trends--04-weighted-price-index.webp" width="900" height="930" alt="Four columns for a fictional price basket: width is each category’s weight and height is its price change. Food (weight 30) rose 6 percent, housing (25) rose 4, transport (20) fell 2 and other (25) rose 3. The weighted change is 315 divided by 100, which is 3.15 percent, taking the index from 100 to 103.15; the simple average of 2.75 percent is wrong." loading="lazy">
+  <figcaption>Each price change counts in proportion to its weight, giving 3.15% rather than the simple average of 2.75%.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-individuals-and-societies-economic-agents-measurements-trends--07-brenvale-trends.webp" width="900" height="1000" alt="Line chart of fictional Brenvale, 2020 to 2025. Unemployment falls from 7.9 to 5.5 percent, fastest between 2020 and 2022 (1.9 percentage points). Real GDP growth is negative only in 2020 (minus 3.2) and inflation peaks at 6.8 percent in 2022. Inflation falls to 2.6 percent by 2025 but prices still rose every year." loading="lazy">
+  <figcaption>Plotting the Brenvale table shows the overall trend, how fast it changed, and the anomalies.</figcaption>
+</figure>
+
 
 ## Types of unemployment
 

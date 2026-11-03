@@ -172,22 +172,6 @@ Use when there is no history (new product) or conditions have changed. Weakness:
 
 Production schedules, stock, seasonal hiring, finance for a peak, marketing timing, and whether to invest or cut costs. Flexibility reduces the cost of a wrong forecast. A forecast of rising sales may support new equipment, extra finance or a bigger marketing budget. A forecast of falling sales may lead to a cost review, a new product or a search for new markets. In a case study, link the forecast to the specific decision in the question and say how sure the firm can be of it.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/cambridge-a-level-business-marketing-analysis--04-centred-moving-average.webp" width="900" height="1040" alt="Quarterly sales over three years with the centred four-quarter moving average rising from 63.25 to 70.625. Seasonal variation is actual minus trend, such as plus 25.75 in Year 1 Quarter 4. Forecasts are 74.8 for Year 4 Quarter 1 and 103.4 for Year 4 Quarter 4." loading="lazy">
-  <figcaption>Four-quarter centred average gives the trend; forecast is trend plus seasonal variation.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-level-business-marketing--09-delphi-technique.webp" width="900" height="916" alt="Five anonymous expert forecasts over three rounds. The range narrows from 80 to 45 to 20 and the median moves from 70 to 68 to 66 as experts see a summary and revise." loading="lazy">
-  <figcaption>In the Delphi technique anonymous experts revise their forecasts over rounds until they converge.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-level-business-marketing--07-forecast-and-capacity.webp" width="900" height="1114" alt="Bars compare August actual and September and October forecasts with a 540 capacity line. October is 6 above capacity. Cards show operations, HR and finance consequences and the warning to test the forecast before a bigger workshop." loading="lazy">
-  <figcaption>A forecast above capacity triggers decisions in operations, HR and finance.</figcaption>
-</figure>
-
-
 ## Quick self-test
 
 1. A firm raises a price by 6% and quantity demanded falls by 9%. Calculate PED.
@@ -203,6 +187,12 @@ Production schedules, stock, seasonal hiring, finance for a peak, marketing timi
 11. Give one reason a qualitative method suits a brand-new product.
 12. Give two limitations of using elasticity to make a pricing decision.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-business-marketing--07-forecast-and-capacity.webp" width="900" height="1114" alt="Bars compare August actual and September and October forecasts with a 540 capacity line. October is 6 above capacity. Cards show operations, HR and finance consequences and the warning to test the forecast before a bigger workshop." loading="lazy">
+  <figcaption>A forecast above capacity triggers decisions in operations, HR and finance.</figcaption>
+</figure>
+
+
 ### Answers
 
 1. 9 ÷ 6 gives **−1.5**: elastic.
@@ -217,6 +207,17 @@ Production schedules, stock, seasonal hiring, finance for a peak, marketing timi
 10. Benefit: new products or competitive advantage. Drawback: high cost or uncertain results.
 11. No sales history exists, so past figures cannot be used.
 12. Any two of: past data may be out of date; other factors change at the same time; the figure may differ for a different size of price change; rivals may react.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-business-marketing-analysis--04-centred-moving-average.webp" width="900" height="1040" alt="Quarterly sales over three years with the centred four-quarter moving average rising from 63.25 to 70.625. Seasonal variation is actual minus trend, such as plus 25.75 in Year 1 Quarter 4. Forecasts are 74.8 for Year 4 Quarter 1 and 103.4 for Year 4 Quarter 4." loading="lazy">
+  <figcaption>Four-quarter centred average gives the trend; forecast is trend plus seasonal variation.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-business-marketing--09-delphi-technique.webp" width="900" height="916" alt="Five anonymous expert forecasts over three rounds. The range narrows from 80 to 45 to 20 and the median moves from 70 to 68 to 66 as experts see a summary and revise." loading="lazy">
+  <figcaption>In the Delphi technique anonymous experts revise their forecasts over rounds until they converge.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

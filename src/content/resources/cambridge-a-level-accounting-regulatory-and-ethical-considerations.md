@@ -160,6 +160,11 @@ Ethical behaviour affects the business and other stakeholders. Reliable figures 
   <figcaption>Three convenient changes lift profit by $9,440 and each breaks an accounting concept.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-the-impact-of-ethical-considerations--07-cafe-closure.webp" width="900" height="1060" alt="A waterfall for the café: gross profit 54,000 less wages 46,000 leaves 8,000; less apportioned overheads of 12,600 gives a 4,600 loss on paper. Closing it leaves the 63,000 overheads in place, so total profit falls from 53,000 to 45,000." loading="lazy">
+  <figcaption>A department that makes a loss after apportioned overheads can still add to total profit.</figcaption>
+</figure>
+
 
 ## 3.2.3 Auditing and stewardship of limited companies
 
@@ -188,6 +193,16 @@ An **unqualified** (clean) report says the statements give a true and fair view.
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/cambridge-a-level-accounting-regulatory-and-ethical-considerations--03-reg-audit-two-kinds.webp" width="900" height="1110" alt="Two columns compare the audits. External audit: shareholders appoint an auditor who is independent of the company; the auditor does not prepare the accounts, and gives an opinion on whether they give a true and fair view; the report goes to shareholders and is often required by law. The outcome is an unqualified report (true and fair) or a qualified report (true and fair except for a stated matter). Internal audit: directors or management appoint an employee or outsourced auditor who reviews controls, risks and efficiency and reports to directors; it is usually a choice." loading="lazy">
   <figcaption>External and internal audit differ in who appoints, who reports and what is reviewed.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-the-impact-of-ethical-considerations--06-governance-checks.webp" width="900" height="910" alt="Shareholders appoint the board and the external auditors; auditors report back to shareholders. The board has a chair and a CEO who are different people, plus independent non-executive directors. Audit and remuneration committees, made of independent NEDs, sit below; the remuneration committee sets directors’ pay. AQA only: comply or explain." loading="lazy">
+  <figcaption>Independent checks stop directors from marking their own homework.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-the-impact-of-ethical-considerations--03-audit-opinions.webp" width="900" height="1030" alt="A question chain: enough evidence? If not, disclaimer. Material misstatement? If not, unmodified. Pervasive? If not, qualified (except for); if so, adverse. An OxfordAQA example shows 85,000 left out of 940,000 profit before tax, 9.0 percent, material but not pervasive, so qualified." loading="lazy">
+  <figcaption>Three questions decide which of the four audit opinions is given.</figcaption>
 </figure>
 
 

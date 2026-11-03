@@ -81,12 +81,6 @@ Both DP mathematics courses are assessed to the same demanding IB standard and c
 
 As with every DP subject, command terms signal the depth of response expected: **calculate**, **find** and **write down** point to a direct computational answer; **hence** or **hence or otherwise** require building on a previous part of the same question; **interpret** and **comment on** require connecting a mathematical result back to the real-world context the question describes -- a step students sometimes skip, losing marks even when the underlying calculation is correct. Since this course is explicitly framed around applying mathematics to real situations, questions ending in **interpret** or **in context** appear more frequently here than in a purely abstract mathematics course, and should be revised as a distinct skill from the calculation itself.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ib-dp-mathematics-applications-and-interpretation-assessment-revision-notes--05-ai-command-terms.webp" width="900" height="920" alt="Three stepped boxes: calculate, find and write down need a direct answer; hence and hence or otherwise build on the previous part; interpret and comment on link the result to the real-world context, a distinct skill." loading="lazy">
-  <figcaption>Interpret and comment on need a link back to the context.</figcaption>
-</figure>
-
-
 ## Exam traps
 
 - Not practising efficient use of allowed technology (GDC/software), since every paper permits it here.
@@ -103,6 +97,12 @@ As with every DP subject, command terms signal the depth of response expected: *
 6. What command term specifically requires connecting a mathematical result back to its real-world context?
 
 **Answers:** 1. All of them — Paper 1, Paper 2 and (at HL) Paper 3. 2. An area of mathematics chosen by the student (a real-world dataset or context is a natural choice for this course, not a requirement). 3. Technology is permitted here, unlike Analysis and Approaches, where Paper 1 is calculator/technology-free. 4. 20%, sat only by HL students. 5. Any two of: presentation, mathematical communication, personal engagement, reflection, use of mathematics. 6. "Interpret" (or "comment on").
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-applications-and-interpretation-assessment-revision-notes--05-ai-command-terms.webp" width="900" height="920" alt="Three stepped boxes: calculate, find and write down need a direct answer; hence and hence or otherwise build on the previous part; interpret and comment on link the result to the real-world context, a distinct skill." loading="lazy">
+  <figcaption>Interpret and comment on need a link back to the context.</figcaption>
+</figure>
+
 
 ## Official syllabus
 

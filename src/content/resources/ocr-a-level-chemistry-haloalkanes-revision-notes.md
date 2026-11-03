@@ -59,6 +59,11 @@ For full explanations and worked examples, read the [haloalkanes study guide](/r
   <figcaption>Two curly arrows: the lone pair on O forms the C-O bond and the C-Br pair moves onto Br (OCR adds that attack is from the side opposite the halogen).</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-halogenoalkanes--08-elimination-mechanism.webp" width="900" height="1070" alt="Arrow 1 from an O lone pair to an H on the carbon next to C-Br, arrow 2 from that C-H bond into the C-C bond forming C=C, arrow 3 from C-Br to Br. Products are propene, water and bromide." loading="lazy">
+  <figcaption>Hydroxide takes a proton from the neighbouring carbon, the C-H pair becomes the C=C bond and Br leaves.</figcaption>
+</figure>
+
 
 ## 4.2.2(b): Nucleophiles
 
@@ -118,6 +123,17 @@ Method in steps:
 
 Controlled variables: temperature, volumes, chain length and type of haloalkane (all primary), concentration of AgNO₃(aq).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-halogenoalkanes--05-silver-nitrate-test.webp" width="900" height="990" alt="Three tubes in one water bath with AgI yellow, AgBr cream and AgCl white precipitates after 45 s, 540 s and over 30 min, with Ag+ + X- -&gt; AgX." loading="lazy">
+  <figcaption>Water hydrolyses the halogenoalkane and the halide ion precipitates with Ag+; the iodoalkane gives its precipitate first.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-halogenoalkanes--07-substitution-vs-elimination.webp" width="900" height="1050" alt="2-bromopropane with warm aqueous KOH gives propan-2-ol (OH- as nucleophile); with hot ethanolic KOH under reflux it gives propene, water and bromide (OH- as base)." loading="lazy">
+  <figcaption>Solvent and temperature decide whether hydroxide substitutes or eliminates (AQA, Edexcel, OxfordAQA; not in the OCR lesson).</figcaption>
+</figure>
+
+
 ## 4.2.2(d): Bond enthalpy and rate
 
 Strongest to weakest: C–F, then C–Cl, then C–Br, then C–I. Rounded averages are roughly 470, 350, 290 and 230 kJ mol⁻¹ in that order. Published figures vary a little, so in an exam use whatever values the question supplies.
@@ -129,6 +145,12 @@ Three-point answer:
 3. Less energy is needed to break C–I, so iodoalkanes hydrolyse fastest. Rate order: C–I > C–Br > C–Cl > C–F.
 
 If you add polarity: C–F is most polar but slowest, so polarity is not the controlling factor.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-halogenoalkanes--04-bond-enthalpy-rate.webp" width="900" height="1110" alt="Bars of mean bond enthalpy C-F 470, C-Cl 350, C-Br 290, C-I 230 kJ/mol with a rate indicator, plus a note that C-F is the most polar yet slowest, so bond enthalpy not polarity decides the rate." loading="lazy">
+  <figcaption>The weaker the C-X bond, the faster it hydrolyses; polarity predicts the opposite order.</figcaption>
+</figure>
+
 
 ## 4.2.2(e): CFCs and ozone
 
@@ -153,6 +175,12 @@ Overall for every cycle: **O₃ + O → 2O₂**
 - Dots go on every single-unpaired-electron species. O atoms do not need a dot.
 
 **How science works:** CFCs are non-toxic, non-flammable and unreactive (refrigerants, aerosols, solvents). Evidence linking them to ozone loss was accepted, and governments acted through the Montreal Protocol (1987) to phase them out. Replacements such as hydrofluorocarbons contain no chlorine.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-halogenoalkanes--09-cfc-ozone-cycle.webp" width="900" height="1110" alt="UV breaks C-Cl in CCl2F2 to give a Cl atom; Cl + O3 -&gt; ClO + O2 and ClO + O3 -&gt; Cl + 2 O2; net 2 O3 -&gt; 3 O2. OCR tag: NO radicals or Br atoms work the same way." loading="lazy">
+  <figcaption>A Cl atom from a CFC is regenerated in the cycle, so it catalyses 2 O3 -&gt; 3 O2 (AQA and OCR; OxfordAQA does not include ozone).</figcaption>
+</figure>
+
 
 ## Small worked reminders
 
@@ -200,6 +228,12 @@ Overall for every cycle: **O₃ + O → 2O₂**
 9. •Br + O₃ → •BrO + O₂, then •BrO + O → •Br + O₂
 10. The C–Cl bond enthalpy is greater than the C–I bond enthalpy, so more energy is needed to break C–Cl and the reaction is slower.
 11. O₃ + O → 2O₂; •NO is a catalyst because it is regenerated in step 2.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-halogenoalkanes--06-primary-secondary-tertiary.webp" width="900" height="1160" alt="Skeletal 1-bromopentane, 2-bromopentane and 2-bromo-2-methylbutane with the C-Br carbon ringed and rate bars (1/t) for 210 s, 95 s and 8 s." loading="lazy">
+  <figcaption>The more carbons attached to the C-Br carbon, the faster the hydrolysis; tertiary is about 26 times faster than primary (Edexcel only).</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

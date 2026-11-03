@@ -176,27 +176,6 @@ Worked reminder. Normal enzyme makes product at 3.0 units per minute; the varian
 | Influences phenotype | Phenotype is altered a little | One amino acid swapped, enzyme works more slowly |
 | Determines phenotype | The characteristic is set by the variant | Enzyme made so short that it cannot work |
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ocr-gcse-biology-genome-alleles-variants-and-mutations--10-mp18-codon-variants.webp" width="900" height="940" alt="Rows of mRNA codons. Normal AUG UUU GAA AAG GGU UAA gives Met-Phe-Glu-Lys-Gly. Variant A (GAG) still gives Glu so no effect; variant B (GUA) gives Val so one amino acid changes; variant C (UAA) is a stop codon so the protein ends after Met-Phe." loading="lazy">
-  <figcaption>One base change can have no effect, change one amino acid, or stop the protein early.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ocr-gcse-biology-genome-alleles-variants-and-mutations--11-mp18-noncoding-switch.webp" width="900" height="1130" alt="Usual: a switch protein attaches to non-coding DNA next to the lactase gene and stops transcription, so lactase is off after weaning. With a variant in the non-coding DNA the protein cannot attach, mRNA is made and lactase stays on in adults. The lactase protein itself is unchanged." loading="lazy">
-  <figcaption>A non-coding variant changes how much protein is made, not its amino acid sequence.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ocr-gcse-biology-genome-alleles-variants-and-mutations--08-mp036-variant-active-site.webp" width="900" height="1190" alt="Normal codon GAA gives Glu and an enzyme whose active site fits the substrate. Variant GUA gives Val; the folded enzyme has a changed active site, the substrate fits poorly and the reaction slows or stops." loading="lazy">
-  <figcaption>A changed amino acid can change the active-site shape and so the enzyme activity.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-biology-0610-inheritance--03-gene-to-protein.webp" width="900" height="1120" alt="Extended. The gene stays in the nucleus; a copy of it, mRNA, is made and moves out through a pore to the cytoplasm; a ribosome joins amino acids in the order set by the mRNA bases; the chain folds into a protein whose shape decides what it does." loading="lazy">
-  <figcaption>mRNA carries the gene’s base sequence to a ribosome, which sets the order of amino acids in the protein.</figcaption>
-</figure>
-
-
 ## Quick self-test
 
 1. Define a gene.
@@ -222,6 +201,27 @@ Worked reminder. Normal enzyme makes product at 3.0 units per minute; the varian
 8. No; influence; determine.
 9. The base change alters the amino acid sequence, so the protein folds into a different shape. If the active site changes, the substrate no longer fits, so the reaction slows or stops.
 10. It alters how the gene is expressed, such as whether transcription to mRNA happens. More or less protein, or protein at a different time, changes the phenotype.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-genome-alleles-variants-and-mutations--10-mp18-codon-variants.webp" width="900" height="940" alt="Rows of mRNA codons. Normal AUG UUU GAA AAG GGU UAA gives Met-Phe-Glu-Lys-Gly. Variant A (GAG) still gives Glu so no effect; variant B (GUA) gives Val so one amino acid changes; variant C (UAA) is a stop codon so the protein ends after Met-Phe." loading="lazy">
+  <figcaption>One base change can have no effect, change one amino acid, or stop the protein early.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-genome-alleles-variants-and-mutations--11-mp18-noncoding-switch.webp" width="900" height="1130" alt="Usual: a switch protein attaches to non-coding DNA next to the lactase gene and stops transcription, so lactase is off after weaning. With a variant in the non-coding DNA the protein cannot attach, mRNA is made and lactase stays on in adults. The lactase protein itself is unchanged." loading="lazy">
+  <figcaption>A non-coding variant changes how much protein is made, not its amino acid sequence.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-genome-alleles-variants-and-mutations--08-mp036-variant-active-site.webp" width="900" height="1190" alt="Normal codon GAA gives Glu and an enzyme whose active site fits the substrate. Variant GUA gives Val; the folded enzyme has a changed active site, the substrate fits poorly and the reaction slows or stops." loading="lazy">
+  <figcaption>A changed amino acid can change the active-site shape and so the enzyme activity.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-inheritance--03-gene-to-protein.webp" width="900" height="1120" alt="Extended. The gene stays in the nucleus; a copy of it, mRNA, is made and moves out through a pore to the cytoplasm; a ribosome joins amino acids in the order set by the mRNA bases; the chain folds into a protein whose shape decides what it does." loading="lazy">
+  <figcaption>mRNA carries the gene’s base sequence to a ribosome, which sets the order of amino acids in the protein.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

@@ -185,6 +185,61 @@ to treat.
   <figcaption>Variation comes from different genes, different conditions, or both.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-inheritance--01-chromosomes-genes-alleles.webp" width="900" height="1120" alt="Schematic zoom from a cell to its nucleus and chromosomes, then to the DNA of one chromosome where a gene is a highlighted length of DNA that codes for a protein. A pair of chromosomes carries the same gene at the same position, with different forms G and g called alleles." loading="lazy">
+  <figcaption>A gene is a length of DNA on a chromosome, and alleles are different forms of the same gene.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-biological-molecules--06-dna-structure.webp" width="900" height="1000" alt="DNA has two strands coiled into a double helix. Each strand carries bases and bonds between paired bases hold the strands together. A always pairs with T and C with G, so strand 1 A T G C C G T A pairs with strand 2 T A C G G C A T." loading="lazy">
+  <figcaption>A pairs with T, C pairs with G.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-inheritance--03-gene-to-protein.webp" width="900" height="1120" alt="Extended. The gene stays in the nucleus; a copy of it, mRNA, is made and moves out through a pore to the cytoplasm; a ribosome joins amino acids in the order set by the mRNA bases; the chain folds into a protein whose shape decides what it does." loading="lazy">
+  <figcaption>mRNA carries the gene’s base sequence to a ribosome, which sets the order of amino acids in the protein.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-inheritance--05-monohybrid-3-to-1.webp" width="900" height="1229" alt="Punnett square for two heterozygous green beetles (Gg x Gg) giving GG, Gg, Gg, gg: three green to one brown. From 160 offspring expect 120 green and 40 brown; real results are close, not exact." loading="lazy">
+  <figcaption>Two heterozygous parents give a 3 : 1 phenotype ratio.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-inheritance--06-monohybrid-1-to-1.webp" width="900" height="1074" alt="Punnett square for a heterozygous green beetle (Gg) crossed with a brown beetle (gg): two Gg green and two gg brown, a 1 : 1 ratio, because half the green parent’s gametes carry g." loading="lazy">
+  <figcaption>A heterozygous by homozygous recessive cross gives a 1 : 1 ratio.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-inheritance--07-pedigree-recessive.webp" width="900" height="1140" alt="Pedigree: two unaffected parents have an affected daughter (shaded circle), so the condition is recessive and both parents are Aa. A Aa x Aa Punnett square gives a 1 in 4 chance of aa for each further child." loading="lazy">
+  <figcaption>Unaffected parents with an affected child show the allele is recessive.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-inheritance--02-sex-inheritance.webp" width="900" height="990" alt="Punnett square: mother XX gives X eggs, father XY gives X or Y sperm. Four equally likely children: two XX girls and two XY boys, ratio 1:1, so each child has a 50% chance of being a boy. The sperm decides the sex." loading="lazy">
+  <figcaption>Half of sperm carry Y, so each child has a 50% chance of being a boy.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-inheritance--04-mitosis-vs-meiosis.webp" width="900" height="1260" alt="Extended. A diploid cell with four chromosomes (two pairs) divides by mitosis into two identical cells with four chromosomes each, or by meiosis into four different cells with two chromosomes each. Fertilisation joins two haploid gametes to restore the diploid number; in humans 23 + 23 = 46." loading="lazy">
+  <figcaption>Mitosis keeps the chromosome number; meiosis halves it, and fertilisation restores it.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-variation-and-selection--02-mutation.webp" width="900" height="1215" alt="Core: mutation is genetic change that forms new alleles; ionising radiation and some chemicals raise its rate. Extended: a gene mutation changes one base in the DNA sequence, which can change the protein shape; sources of variation are mutation, meiosis, random mating and random fertilisation." loading="lazy">
+  <figcaption>Mutation forms new alleles; radiation and some chemicals raise the rate.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-variation-and-selection--05-natural-selection.webp" width="900" height="1110" alt="Ten beetles per row. Generation 1 has 3 brown and 7 green. Birds eat green beetles more often, leaving 3 brown and 2 green. Survivors breed, giving 6 brown of 10 in generation 2, and after many generations 9 brown of 10. Illustrative numbers show the brown allele becoming more common." loading="lazy">
+  <figcaption>Better-adapted individuals survive and breed, so their alleles become more common.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-variation-and-selection--06-antibiotic-resistance.webp" width="900" height="1190" alt="Five dishes of bacteria: a random mutation makes one bacterium resistant; the antibiotic kills the six non-resistant ones; the survivor has less competition; it reproduces and passes on the allele; a resistant strain forms quickly." loading="lazy">
+  <figcaption>The mutation was already there; the antibiotic selected the resistant bacterium.</figcaption>
+</figure>
+
 
 ## How to approach it
 

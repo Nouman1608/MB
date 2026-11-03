@@ -108,8 +108,33 @@ Reminder: s = 10% and k = 2.5 give g = 4.0%. If k falls to 2, g = 5.0%. For 4% g
 **Institutions.** Rule of law, property rights, governance, corruption, instability, war and conflict. Strong institutions make investment safe; corruption and conflict destroy capital and trust.
 
 <figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-factors-that-affect-economic-development--01-harrod-domar-growth.webp" width="900" height="1176" alt="Lines g = s/3 and g = s/2.5 on axes of savings rate and growth. Points A to D show 5%, 7%, 6% and the 18% saving needed for 6% growth with k = 3. The 3 point savings gap on GDP of 200bn is 6bn a year." loading="lazy">
+  <figcaption>Growth rises with saving and falls with a higher capital-output ratio.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-factors-that-affect-economic-development--02-kuznets-curves.webp" width="900" height="1180" alt="Two inverted-U graphs against income per head. Top: the lesson data, Gini 30, 38, 45, 40, 34 at incomes 1,000 to 20,000, peaking at 6,000. Bottom: the shape of the environmental curve (no real data). The curves are not laws." loading="lazy">
+  <figcaption>Inequality and pollution may rise then fall as income grows, but there is no automatic turning point.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-factors-that-affect-economic-development--03-primary-price-swings.webp" width="900" height="1200" alt="Demand is steep (PED -0.4). A 10% fall in supply raises price 25% and sector revenue 12.5%; a 10% rise in supply cuts price 25% and revenue 17.5%. A farmer with a ruined crop gains nothing from the high price." loading="lazy">
+  <figcaption>With inelastic demand, small harvest changes cause large price and revenue swings.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-factors-that-affect-economic-development--05-dependency-ratio.webp" width="900" height="990" alt="Two bars of 100 million people by age band. Year 1 has ratio 66.7 and year 20 has 53.8. A falling ratio can give a demographic dividend if jobs exist, otherwise youth unemployment." loading="lazy">
+  <figcaption>Fewer dependants per worker is an opportunity only if jobs are created.</figcaption>
+</figure>
+
+<figure class="topic-figure">
   <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-factors-that-affect-economic-development--10-financial-access-circle.webp" width="900" height="1000" alt="Access to financial services leads to more saving captured, more lending, more investment, higher output and income, and so more saving: a circle that feeds itself. Without access, savings sit as cash or livestock and the chain never starts." loading="lazy">
   <figcaption>Financial access sets off a self-reinforcing chain of saving, lending and investment.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-how-markets-work--01-harvest-shock.webp" width="900" height="960" alt="Bad weather cuts the coffee harvest, so supply shifts left from S1 to S2. Equilibrium moves from price 8, quantity 60 to price 9, quantity 55. Because demand is inelastic (PED about 0.67), revenue rises from 480 to 495." loading="lazy">
+  <figcaption>A supply shock raises price a lot and cuts quantity a little, so growers' total revenue can rise.</figcaption>
 </figure>
 
 
@@ -122,6 +147,12 @@ Reminder: s = 10% and k = 2.5 give g = 4.0%. If k falls to 2, g = 5.0%. For 4% g
 - Who gains? Growth that leaves the poor behind may not count as development.
 - Interrelated factors: better health raises the return on education, and secure property rights raise saving and borrowing.
 - Sustainability: do gains today reduce well-being for future generations?
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-factors-that-affect-economic-development--06-human-capital-payback.webp" width="900" height="930" alt="A year of schooling costs 3,000 and raises earnings of 4,000 by 8%, a gain of 320 a year. Cumulative gain reaches the 3,000 cost after 3,000 / 320 = 9.4 years." loading="lazy">
+  <figcaption>Extra earnings of 320 a year repay a 3,000 cost in 9.4 years.</figcaption>
+</figure>
+
 
 ## Answer structure for an extended question
 
@@ -138,12 +169,6 @@ Reminder: s = 10% and k = 2.5 give g = 4.0%. If k falls to 2, g = 5.0%. For 4% g
 - Fluctuations in commodity prices (short run, supply shocks) versus Prebisch-Singer (long-run trend in relative prices).
 - Growth versus development: a factor can raise GDP and still leave health, equality or sustainability behind.
 - Debt level versus debt burden: compare debt-service ratio, interest rate and growth, not the raw total.
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-factors-that-affect-economic-development--09-debt-to-gdp-deficit.webp" width="900" height="960" alt="Debt of 40 and GDP of 100 give a ratio of 40%. A deficit of 5 lifts debt to 45 while nominal GDP grows 6% to 106, so the ratio becomes 42.5%. Debt grew 12.5% but GDP only 6%." loading="lazy">
-  <figcaption>A deficit can raise the debt to GDP ratio even when GDP is growing.</figcaption>
-</figure>
-
 
 ## Quick self-test
 
@@ -176,11 +201,6 @@ Reminder: s = 10% and k = 2.5 give g = 4.0%. If k falls to 2, g = 5.0%. For 4% g
 12. For example: no automatic turning point, and pollution may be moved abroad rather than reduced; some damage may be irreversible before the peak.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-factors-that-affect-economic-development--01-harrod-domar-growth.webp" width="900" height="1176" alt="Lines g = s/3 and g = s/2.5 on axes of savings rate and growth. Points A to D show 5%, 7%, 6% and the 18% saving needed for 6% growth with k = 3. The 3 point savings gap on GDP of 200bn is 6bn a year." loading="lazy">
-  <figcaption>Growth rises with saving and falls with a higher capital-output ratio.</figcaption>
-</figure>
-
-<figure class="topic-figure">
   <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-factors-that-affect-economic-development--07-quintile-income-ratio.webp" width="900" height="880" alt="Before reform the top 20% get 55% of income and the bottom 20% get 4%, a ratio of 13.75. After reform the shares are 48% and 6%, a ratio of 8.0, a narrower gap." loading="lazy">
   <figcaption>The top-to-bottom quintile ratio falls from 13.75 to 8.0.</figcaption>
 </figure>
@@ -188,6 +208,11 @@ Reminder: s = 10% and k = 2.5 give g = 4.0%. If k falls to 2, g = 5.0%. For 4% g
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-factors-that-affect-economic-development--08-openness-debt-ratios.webp" width="900" height="850" alt="Three ratios drawn as parts of a whole bar: openness (30 + 36) / 120 = 55%; debt to GDP 30 / 60 = 50%; debt-service ratio 3 / 12 = 25%." loading="lazy">
   <figcaption>Each ratio is a part divided by a whole.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-factors-that-affect-economic-development--09-debt-to-gdp-deficit.webp" width="900" height="960" alt="Debt of 40 and GDP of 100 give a ratio of 40%. A deficit of 5 lifts debt to 45 while nominal GDP grows 6% to 106, so the ratio becomes 42.5%. Debt grew 12.5% but GDP only 6%." loading="lazy">
+  <figcaption>A deficit can raise the debt to GDP ratio even when GDP is growing.</figcaption>
 </figure>
 
 

@@ -131,6 +131,12 @@ depth = 1540 × 84 × 10⁻⁶ / 2 = 0.0647 m = 6.5 cm
 
 Malus's law is not expected, so you do not need to calculate transmitted intensity from the angle.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-physics-waves--08-aphy-waves-gap-diffraction.webp" width="900" height="1210" alt="Plane waves meet a gap of 6, 2 and 1 wavelengths. With a wide gap the waves go through nearly straight; as the gap approaches one wavelength they spread into near-semicircular fronts. Wavelength, frequency and speed are unchanged." loading="lazy">
+  <figcaption>Diffraction is greatest when the gap is about one wavelength.</figcaption>
+</figure>
+
+
 ## Must-know distinctions
 
 - Frequency (set by the source, unchanged when the wave enters a new medium) against wavelength and speed (change with the medium).
@@ -164,6 +170,12 @@ Malus's law is not expected, so you do not need to calculate transmitted intensi
 8. **Microwaves and X-rays** (transverse). Sound and ultrasound are longitudinal.
 9. **Parallel** to the direction of travel (along the same line).
 10. **Horizontal**, parallel to the transmitter. At 90° the signal is close to zero, because the rod is at right angles to the electric field oscillation.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-physics-waves--03-aphy-waves-stationary-formation.webp" width="900" height="1050" alt="Two identical waves of equal amplitude travel in opposite directions and are added at t = 0, T/4 and T/2. At t = 0 the resultant has double amplitude; at T/4 the waves cancel to a flat line; at T/2 it is the t = 0 pattern upside down. Nodes never move, antinodes swing most, and adjacent nodes are half a wavelength apart." loading="lazy">
+  <figcaption>Superposing two opposite waves gives fixed nodes and antinodes half a wavelength apart.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

@@ -230,6 +230,12 @@ Parts may be needed more than once. Reduction formulae are excluded.
 - Rounding a "find the exact value" answer, or giving a decimal where a log form was asked for.
 - Stating a model's long-term value but not commenting on whether it is realistic.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-maths-9709-pure-mathematics-1-integration--01-constant-of-integration.webp" width="900" height="748" alt="Three curves y = 3√(4x + 1) + c are vertical shifts of each other with identical gold tangents at x = 2. Only c = 1 passes through (2, 10), so a point on the curve fixes the constant. This is the lesson's worked example 5." loading="lazy">
+  <figcaption>Integrating gives a family of curves; a known point picks out one of them.</figcaption>
+</figure>
+
+
 ## Official syllabus
 
 AQA A-level Mathematics (7357) specification, version 1.3, 31 January 2018, A-level exams June 2018 onwards, published by AQA. Section 3.9, H: Integration (H1 to H8), with Appendix A (mathematical notation) and Appendix B (mathematical formulae and identities).

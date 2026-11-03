@@ -261,6 +261,11 @@ Rising oestrogen inhibits FSH, so no more eggs mature, and stimulates the LH sur
   <figcaption>FSH and LH act on the ovary, and oestrogen and progesterone feed back to the pituitary.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-reproduction--08-menstrual-cycle.webp" width="900" height="1010" alt="Two graphs over 28 days: the uterus lining is lost on days 1-5, then rebuilt, with ovulation around day 14; Extended sketch of FSH, oestrogen, LH and progesterone, with oestrogen peaking before the LH peak at ovulation and progesterone high afterwards." loading="lazy">
+  <figcaption>Link the lining and hormone changes to the days of the cycle.</figcaption>
+</figure>
+
 
 ### The placenta and nutrition (3.11)
 
@@ -269,6 +274,12 @@ The **placenta** forms where the embryo attaches to the uterus wall. It is linke
 Substances cross by diffusion. Glucose, amino acids, fatty acids, minerals, vitamins, water and oxygen pass from mother to embryo; carbon dioxide and urea pass back.
 
 The placenta has a **large surface area** (many villi), a **thin barrier** for a short diffusion distance, and a **good blood supply** on both sides to keep concentration gradients steep.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-reproduction--07-placenta-exchange.webp" width="900" height="1200" alt="The fetus in an amniotic sac inside the uterus, joined by the umbilical cord to the placenta. Extended panel: oxygen, glucose and amino acids pass from mother to fetus and carbon dioxide and urea the other way without the bloods mixing; some viruses and nicotine can cross." loading="lazy">
+  <figcaption>Show what the placenta does and what crosses it.</figcaption>
+</figure>
+
 
 ### Amniotic fluid (3.12)
 

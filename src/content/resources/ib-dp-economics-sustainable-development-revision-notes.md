@@ -166,11 +166,6 @@ Together they can form a vicious circle. Policies that tackle both at once, such
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ib-dp-economics-sustainable-development--08-sd-brimble-woodland.webp" width="900" height="1110" alt="300 households burn 720 tonnes against regrowth of 600, taking 120 tonnes a year from a 4,800 tonne stock (40 years). Gas stoves for 60 households cost 9,000 sols; the other 240 burn 576 tonnes, 24 tonnes below regrowth, so use is sustainable." loading="lazy">
-  <figcaption>A fuel switch cuts poverty and environmental pressure together.</figcaption>
-</figure>
-
-<figure class="topic-figure">
   <img src="https://img.marlbridge.com/ib-dp-economics-sustainable-development--04-poverty-circle-hl.webp" width="900" height="930" alt="A four-box loop: poverty leads to over-use of local resources, then a degraded resource, then lower incomes, then deeper poverty. A note says the circle can run the other way." loading="lazy">
   <figcaption>Poverty and environmental pressure feed each other.</figcaption>
 </figure>
@@ -211,6 +206,12 @@ Together they can form a vicious circle. Policies that tackle both at once, such
 9. It needs fuel or income now, has few alternatives, and places a high value on the present over the future.
 10. Poverty leads to overuse of local resources, overuse degrades them, and the lost income and health deepen poverty again.
 11. 90 ÷ 1.5 = **60 years**.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-economics-sustainable-development--08-sd-brimble-woodland.webp" width="900" height="1110" alt="300 households burn 720 tonnes against regrowth of 600, taking 120 tonnes a year from a 4,800 tonne stock (40 years). Gas stoves for 60 households cost 9,000 sols; the other 240 burn 576 tonnes, 24 tonnes below regrowth, so use is sustainable." loading="lazy">
+  <figcaption>A fuel switch cuts poverty and environmental pressure together.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

@@ -174,6 +174,15 @@ If Pennerley kept its profit at 152,000 dollars, it would need to raise the pric
 
 Ashgrave Metals is refused permission to expand its smelter beside a village. The only other site is 40 km away. Moving adds 4.50 dollars per tonne in transport for 20,000 tonnes a year, so 90,000 dollars a year. The firm weighs this cost against giving up the expansion. Note that the rule affected where it produces and also its costs.
 
+## Writing good exam answers
+
+The syllabus includes the skill of making recommendations. In several places it asks you to "recommend and justify" a choice for a given situation. On this topic a good answer follows these steps.
+
+1. **Identify** the environmental issue in the question, using the business's own details.
+2. **Explain** the effect, linking cause to consequence to the business, for example "so costs rise, which may force a higher price".
+3. **Weigh up**: compare costs and benefits and the short run with the long run.
+4. **Reach a decision** and support it with evidence from the case, using the **justify** command word: support a case with evidence or argument.
+
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/igcse-business-0264-business-and-the-environment--08-legal-control-effects.webp" width="900" height="920" alt="Four effects of legal controls: how to produce, what to produce or sell, where to produce or sell, and influence on costs." loading="lazy">
   <figcaption>The four effects of environmental legal controls named in the syllabus.</figcaption>
@@ -184,15 +193,6 @@ Ashgrave Metals is refused permission to expand its smelter beside a village. Th
   <figcaption>A rule about where to produce also changes costs: $90,000 a year for Ashgrave.</figcaption>
 </figure>
 
-
-## Writing good exam answers
-
-The syllabus includes the skill of making recommendations. In several places it asks you to "recommend and justify" a choice for a given situation. On this topic a good answer follows these steps.
-
-1. **Identify** the environmental issue in the question, using the business's own details.
-2. **Explain** the effect, linking cause to consequence to the business, for example "so costs rise, which may force a higher price".
-3. **Weigh up**: compare costs and benefits and the short run with the long run.
-4. **Reach a decision** and support it with evidence from the case, using the **justify** command word: support a case with evidence or argument.
 
 ## Common errors
 

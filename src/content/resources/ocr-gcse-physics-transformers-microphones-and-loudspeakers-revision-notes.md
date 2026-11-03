@@ -131,12 +131,6 @@ Ip = 30 / 80 = 0.375 A
 
 The current in the primary is smaller than in the secondary, as it must be when the potential difference is larger.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ocr-gcse-physics-transformers-microphones-and-loudspeakers--02-power-in-equals-power-out.webp" width="900" height="870" alt="Two rectangles on identical axes of p.d. against current. The primary, 225 V by 0.10 A, is tall and thin; the secondary, 9.0 V by 2.5 A, is short and wide. Both have the same area, 22.5 W." loading="lazy">
-  <figcaption>In an ideal transformer p.d. falls by 25 times while current rises by 25 times, so power is unchanged.</figcaption>
-</figure>
-
-
 ### Second worked reminder: find the turns
 
 A transformer must change 160 V to 20 V. The primary has 960 turns.
@@ -244,6 +238,12 @@ All questions are Higher Tier only.
 9. The coil, which is attached to the diaphragm, moves; a **potential difference** is induced across it.
 10. A force acts on the current-carrying coil in the permanent magnet's field (a current in a magnetic field gives a force).
 11. A microphone changes sound to current. A loudspeaker (or headphones) changes current to sound.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-transformers-microphones-and-loudspeakers--02-power-in-equals-power-out.webp" width="900" height="870" alt="Two rectangles on identical axes of p.d. against current. The primary, 225 V by 0.10 A, is tall and thin; the secondary, 9.0 V by 2.5 A, is short and wide. Both have the same area, 22.5 W." loading="lazy">
+  <figcaption>In an ideal transformer p.d. falls by 25 times while current rises by 25 times, so power is unchanged.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

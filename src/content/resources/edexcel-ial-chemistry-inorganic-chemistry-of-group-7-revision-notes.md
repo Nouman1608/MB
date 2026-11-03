@@ -244,6 +244,12 @@ Relative atomic masses for this test: Na 23.0, K 39.1, Cl 35.5, Br 79.9, Ag 107.
 10. Mr(KBr) = 119.0, n = 0.595 ÷ 119.0 = 0.00500 mol; Mr(AgBr) = 187.8; mass = 0.00500 × 187.8 = **0.939 g**.
 11. No. Astatine is a weaker oxidising agent than iodine.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-group-2-the-alkaline-earth-metals--03-group2-solubility.webp" width="900" height="1070" alt="Two rows of test tubes for Mg to Ba. Hydroxide solubility rises down the group, shown by less undissolved solid and more dissolved ions. Sulfate solubility falls, ending with insoluble BaSO4." loading="lazy">
+  <figcaption>Hydroxides become more soluble and sulfates less soluble down Group 2 (schematic).</figcaption>
+</figure>
+
+
 ## Where marks are usually lost
 
 - Writing "chlorine is reduced" for the reaction with water, without the oxidation to +1.

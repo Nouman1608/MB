@@ -105,8 +105,18 @@ These revision notes condense OCR GCSE (9-1) Biology A, Gateway Science (J247), 
 - Mass-gain experiments: plants gain dry mass from carbon dioxide and water.
 
 <figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-photosynthesis-process-investigation-and-limiting--03-priestley-ingenhousz-history.webp" width="900" height="890" alt="Three rows. Priestley (1770s): a plant restores air in which a candle had stopped burning. Ingenhousz: a green leaf gives off gas in light but not in the dark. Mass gain: a plant given only water, air and light gains dry mass, so the new mass comes from carbon dioxide and water." loading="lazy">
+  <figcaption>The three historical clues that led to the photosynthesis equation.</figcaption>
+</figure>
+
+<figure class="topic-figure">
   <img src="https://img.marlbridge.com/igcse-biology-0610-plant-nutrition--04-starch-test-variegated-leaf.webp" width="900" height="1030" alt="A destarched variegated leaf with a foil strip is kept in light then tested with iodine. Green uncovered area a turns blue-black; white area b and foil-covered green area c stay orange-brown. a vs b tests chlorophyll; a vs c tests light." loading="lazy">
   <figcaption>Only the green, lit area makes starch and turns blue-black.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-plant-nutrition--06-hydrogencarbonate-indicator.webp" width="900" height="1010" alt="Bright light: plant photosynthesises faster than it respires, CO2 falls, indicator purple. Dim light: rates balance, orange-red. Dark: respiration only, CO2 rises, yellow. Control tube with no plant stays orange-red." loading="lazy">
+  <figcaption>Colour depends on whether photosynthesis or respiration is faster.</figcaption>
 </figure>
 
 
@@ -145,6 +155,16 @@ Rate is a compound measure: amount per unit time. Rate = volume (or number) ÷ t
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/ocr-gcse-biology-photosynthesis-process-investigation-and-limiting--05-lamp-distance-worked.webp" width="900" height="880" alt="Two rows with a lamp, a near screen and a far screen. The same light that fills one tile at the near screen spreads over 4 tiles at 50 cm, or 16 tiles at 40 cm. Moving from 25 to 50 cm gives one quarter of the intensity; moving from 40 to 10 cm gives 16 times." loading="lazy">
   <figcaption>Why doubling the lamp distance quarters the intensity and bringing it four times closer multiplies it by 16.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-plant-nutrition--05-pondweed-light-distance.webp" width="900" height="1090" alt="A lamp shines on pondweed; the lamp distance changes light intensity and bubbles are counted. Bar chart of means: 42 at 10 cm, 30 at 20 cm, 19 at 30 cm, 10 at 40 cm. Closer lamp gives a faster rate." loading="lazy">
+  <figcaption>The closer the lamp, the more bubbles per minute.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-enzymes--04-temperature-graph.webp" width="900" height="800" alt="Sketch graph of enzyme activity against temperature. Activity rises to a peak at the optimum (about 37 degrees Celsius for many human enzymes) then falls quickly to near zero. Cold enzymes are slow but not denatured; hot enzymes are denatured and do not recover on cooling." loading="lazy">
+  <figcaption>Activity peaks at the optimum temperature, then falls as the enzyme is denatured.</figcaption>
 </figure>
 
 
@@ -234,12 +254,6 @@ Always repeat and take a mean. Let the plant settle for a few minutes after each
 - In plateau questions, naming the x-axis factor instead of a different one.
 - Using the 1/d² rule backwards, so a bigger distance gives a bigger intensity.
 - Forgetting to keep other factors constant when asked how to make a test fair.
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-biology-0610-plant-nutrition--05-pondweed-light-distance.webp" width="900" height="1090" alt="A lamp shines on pondweed; the lamp distance changes light intensity and bubbles are counted. Bar chart of means: 42 at 10 cm, 30 at 20 cm, 19 at 30 cm, 10 at 40 cm. Closer lamp gives a faster rate." loading="lazy">
-  <figcaption>The closer the lamp, the more bubbles per minute.</figcaption>
-</figure>
-
 
 ## Official syllabus
 

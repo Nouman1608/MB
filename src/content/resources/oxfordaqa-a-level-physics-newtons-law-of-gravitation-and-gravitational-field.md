@@ -94,6 +94,11 @@ The force is proportional to M/R². The factor is 8 / 2² = 8 / 4 = **2**. The f
   <figcaption>Double the distance and g falls to a quarter; triple it and g falls to a ninth.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-gravitational-fields--09-kepler-second.webp" width="900" height="970" alt="An elliptical orbit with the Sun at one focus. The line from the Sun sweeps equal areas in equal times, so the comet moves fast (54 km per s) near the Sun and slowly (10.8 km per s) far away. At closest and furthest points v1 r1 = v2 r2." loading="lazy">
+  <figcaption>Equal areas in equal times: fastest when closest to the Sun, with v1r1 = v2r2 at the two extremes.</figcaption>
+</figure>
+
 
 ## 3.7.2 Gravitational field strength
 
@@ -214,6 +219,12 @@ M = g R² / G
   = 12.4 × 5.184 × 10¹³ / 6.67 × 10⁻¹¹
   = 9.6 × 10²⁴ kg   (2 s.f.)
 ```
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-gravitational-fields--08-escape-velocity.webp" width="900" height="1210" alt="The Earth’s potential well is -62.5 MJ per kg at the surface and zero at infinity. Launching with kinetic energy 62.5 MJ per kg brings the total energy to zero, giving escape velocity root(2GM/R) = 11.2 km per s. Bars compare Moon 2.37, Mars 5.03 and Earth 11.2 km per s; light-gas atoms at 1.9 km per s are 80% of the Moon value." loading="lazy">
+  <figcaption>Escape velocity v = root(2GM/r) makes total energy zero; it is independent of the escaping mass.</figcaption>
+</figure>
+
 
 ### Worked example 5: Sun's field at Earth
 

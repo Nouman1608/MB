@@ -129,6 +129,16 @@ A cold enzyme is only slow. A too-hot enzyme is permanently damaged.
   <figcaption>Activity peaks at the optimum temperature, then falls as the enzyme is denatured.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-enzymes--06-ph-graph.webp" width="900" height="1000" alt="Sketch graph of enzyme activity against pH 0 to 14. Pepsin peaks in acidic conditions, trypsin in alkaline conditions; each falls on both sides of its optimum and is denatured far from it. Below, three small pictures (Extended) show the substrate fitting at the optimum, fitting less well when pH moves away, and not fitting at extreme pH." loading="lazy">
+  <figcaption>Each enzyme has its own optimum pH; away from it the active site changes shape.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-enzymes--07-starch-iodine-end-point.webp" width="900" height="990" alt="Starch and amylase tubes stand in a water bath at a set temperature. After mixing, one drop every 30 seconds goes on iodine in a spotting tile. Wells at 30 to 120 seconds are blue-black; the well at 150 seconds is the first orange-brown, the end point. Rate = 1000 ÷ 150 = 6.7." loading="lazy">
+  <figcaption>The end point is the first well where iodine stays orange-brown.</figcaption>
+</figure>
+
 
 ### pH
 
@@ -182,6 +192,16 @@ Percentage digested = 0.75 ÷ 1.20 × 100 = **62.5%**.
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/oxfordaqa-igcse-biology-digestion-and-enzymes--04-washing-protease-activity.webp" width="900" height="820" alt="Bar chart of relative activity at 20, 40, 60 and 80 degrees C: 15, 60, 100 and 35. Activity rises fourfold from 20 to 40 and falls 65 percent from 60 to 80. A 40 degree wash uses 60 percent of the best." loading="lazy">
   <figcaption>The enzyme works best at 60 degrees C and falls sharply above it.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-human-nutrition--07-gut-ph-enzymes.webp" width="900" height="1200" alt="The stomach is acidic because of hydrochloric acid, which kills microbes and gives the acid pH that pepsin needs. Food then enters the duodenum, where bile neutralises the acid and makes the contents alkaline for trypsin. A sketch graph of enzyme activity against pH shows pepsin most active in acid and trypsin most active in alkali. Pepsin, trypsin and bile are Extended." loading="lazy">
+  <figcaption>Pepsin works in acid and trypsin in alkali, because bile neutralises the acid leaving the stomach.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-biotechnology-and-genetic-modification--04-enzymes-use.webp" width="900" height="920" alt="Protease breaks protein into amino acids, lipase breaks fats and oils into glycerol and fatty acids, amylase breaks starch into simpler sugars; these work in biological washing powders. Extended: lactase breaks lactose into glucose and galactose, making lactose-free milk." loading="lazy">
+  <figcaption>Each enzyme breaks a large molecule into smaller soluble ones.</figcaption>
 </figure>
 
 
@@ -262,6 +282,12 @@ Treat a fat drop as a cube of side 2 cm. Bile breaks it into eight cubes of side
 | Eight cubes, side 1 cm | 8 × 6 × 1 × 1 = 48 cm² | 8 × 1³ = 8 cm³ | 48 ÷ 8 = 6 |
 
 The volume of fat is unchanged. The total surface area **doubles** (48 ÷ 24 = 2). Lipase acts at the surface of fat, so digestion is faster.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-human-nutrition--05-physical-digestion.webp" width="900" height="1130" alt="Top: chewing and churning break one large cube of food into eight small cubes; the surface area doubles. Bottom, Extended: bile breaks one large fat droplet into eight small droplets, again doubling the surface area so twice as many lipase molecules can reach the fat. The fat molecules themselves are not changed." loading="lazy">
+  <figcaption>Smaller pieces give more surface area for enzymes, and bile does this to fat without changing the molecules.</figcaption>
+</figure>
+
 
 ## Microbial enzymes at home and in industry
 

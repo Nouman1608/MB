@@ -84,6 +84,12 @@ rest of Unit 3.1 build on directly.
     government); the impact of business activity on stakeholders;
     ethical responsibilities to stakeholders
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-business-business-and-its-environment--02-ownership-liability.webp" width="900" height="1216" alt="Six forms of ownership with liability: sole trader unlimited, partnership usually unlimited, Ltd and plc limited, non-profit and social enterprise varies. Limited liability caps the loss at the amount invested." loading="lazy">
+  <figcaption>Liability is the key difference between forms of ownership.</figcaption>
+</figure>
+
+
 ## How to approach it
 
 Because AS Business is examined as a stand-alone qualification with its
@@ -131,6 +137,12 @@ sentiment and the wider economy. Finally, be ready to distinguish
 **external stakeholders** (customers, suppliers, other creditors, the
 community, government), and to explain how business activity affects
 them and what ethical responsibilities a business has toward them.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-business-business-and-its-environment--01-objectives-hierarchy.webp" width="900" height="1060" alt="Mission informs corporate objectives (profit, growth, market share, survival, cash flow, social and ethical), which inform functional objectives in marketing, operations, finance and HR. Objectives can conflict, such as growth against cash flow." loading="lazy">
+  <figcaption>Objectives flow from mission to corporate to functional level, and can conflict.</figcaption>
+</figure>
+
 
 ## Worked example: dividend yield
 

@@ -119,6 +119,11 @@ Take care with negative numbers: −196 °C is lower than −7 °C.
 </figure>
 
 <figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-chemistry-bonding-structure-and-properties--04-state-at-25c.webp" width="900" height="980" alt="Four strips for substances A to D, each split into solid, liquid and gas with melting and boiling points at the boundaries and a 25 degree marker in the correct zone: A gas, B liquid, C liquid, D solid. Strips are not to scale." loading="lazy">
+  <figcaption>Compare 25 degrees Celsius with each melting and boiling point to find the state.</figcaption>
+</figure>
+
+<figure class="topic-figure">
   <img src="https://img.marlbridge.com/ionic-covalent-and-metallic-bonding--05-simple-molecules-melting.webp" width="900" height="995" alt="CO2 molecules in a solid are held by weak forces (dashed) between molecules. Heating breaks only these weak forces, so the molecules separate into a liquid while the strong double bonds inside each molecule stay intact." loading="lazy">
   <figcaption>Melting breaks weak forces between molecules, not the strong covalent bonds inside them.</figcaption>
 </figure>

@@ -42,11 +42,6 @@ In text and tables, a slash separates rows: (0 −1 / 1 0) has top row 0, −1 a
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/oxfordaqa-igcse-mathematics-matrices-and-matrix-transformations--03-matrix-transform-triangle.webp" width="900" height="1035" alt="Triangle T with vertices (2,1), (4,1) and (4,3) is reflected in the line y = -x by multiplying each vertex by the matrix (0 -1 / -1 0). The image has vertices (-1,-2), (-1,-4) and (-3,-4). Each vertex and its image are joined by a dashed line crossing the mirror at its midpoint." loading="lazy">
-  <figcaption>Multiplying each vertex by (0 −1 / −1 0) sends (x, y) to (−y, −x).</figcaption>
-</figure>
-
-<figure class="topic-figure">
   <img src="https://img.marlbridge.com/oxfordaqa-igcse-mathematics-matrices-and-matrix-transformations--06-matrix-columns-are-images.webp" width="900" height="890" alt="The unit square and its image under the matrix (0 -1 / -1 0), reflection in y = -x. A(1, 0) goes to (0, -1), the first column, and C(0, 1) goes to (-1, 0), the second column." loading="lazy">
   <figcaption>The columns of a transformation matrix are the images of A(1, 0) and C(0, 1).</figcaption>
 </figure>
@@ -149,6 +144,11 @@ Rotations in this unit are about the origin. A 270° anticlockwise turn is the s
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/oxfordaqa-igcse-mathematics-matrices-and-matrix-transformations--02-matrix-standard-set.webp" width="900" height="1080" alt="Eight small grids show the unit square and its image for rotations of 90, 180 and 270 degrees, reflections in x = 0, y = 0, y = x and y = -x, and an enlargement of scale factor 2, each with its matrix. In every grid the first column of the matrix is where A lands and the second column is where C lands." loading="lazy">
   <figcaption>Each standard matrix can be rebuilt from where A(1, 0) and C(0, 1) land.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-mathematics-matrices-and-matrix-transformations--03-matrix-transform-triangle.webp" width="900" height="1035" alt="Triangle T with vertices (2,1), (4,1) and (4,3) is reflected in the line y = -x by multiplying each vertex by the matrix (0 -1 / -1 0). The image has vertices (-1,-2), (-1,-4) and (-3,-4). Each vertex and its image are joined by a dashed line crossing the mirror at its midpoint." loading="lazy">
+  <figcaption>Multiplying each vertex by (0 −1 / −1 0) sends (x, y) to (−y, −x).</figcaption>
 </figure>
 
 <figure class="topic-figure">

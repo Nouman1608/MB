@@ -142,27 +142,6 @@ Stakeholder: a person or group with an interest in the business.
 
 **Stakeholder link.** A bank sees profit of 24,000 and a loan repayment of 6,000 a year. 24,000 ÷ 6,000 = **4 times**, so repayment looks affordable.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/edexcel-igcse-accounting-types-of-business-organisation-and-accounting-concepts--03-g15-consistency-vehicle.webp" width="900" height="820" alt="Year 2 depreciation on a 15,000 vehicle at 20% is 3,000 on straight line but 2,400 on reducing balance from a 12,000 book value. Switching raises year 2 profit by 600 only because of the method." loading="lazy">
-  <figcaption>Switching depreciation method moves year 2 profit by 600 with no change in trading.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/edexcel-igcse-accounting-types-of-business-organisation-and-accounting-concepts--04-g15-prudence-paper.webp" width="900" height="820" alt="150 reams at cost 14 are worth 2,100, but at net realisable value 11 they are worth 1,650. Prudence uses the lower value, so inventory and profit fall by 450 now." loading="lazy">
-  <figcaption>Prudence records the likely 450 loss now, not when the paper is sold.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/edexcel-igcse-accounting-types-of-business-organisation-and-accounting-concepts--05-g15-accruals-insurance.webp" width="900" height="700" alt="Twelve monthly boxes of 200 show insurance of 2,400 paid on 1 October. Only October to December, 600, is this year's expense; the other nine months, 1,800, are a prepayment." loading="lazy">
-  <figcaption>Only 600 of the 2,400 insurance is this year's expense.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/edexcel-igcse-accounting-types-of-business-organisation-and-accounting-concepts--06-g15-business-entity-drawings.webp" width="900" height="880" alt="Sigrun takes 14,000 cash, 300 of goods and pays a 410 household bill from the business. These are drawings of 14,710, not expenses, so profit stays 24,450 and closing capital is 41,000 + 24,450 - 14,710 = 50,740." loading="lazy">
-  <figcaption>Owner's personal spending is drawings, which reduce capital but not profit.</figcaption>
-</figure>
-
-
 ## Quick self-test
 
 1. State two characteristics of a public sector organisation.
@@ -192,6 +171,32 @@ Stakeholder: a person or group with an interest in the business.
 10. 30,000 + 12,500 − 9,200 = **33,300**.
 11. Its cost is tiny compared with the size of the business, so it is immaterial and is charged as an expense instead.
 12. Prudence: 20 × 26 = **520** against a cost of 20 × 30 = 600, so inventory is shown at 520 and profit falls by **80**.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-accounting-types-of-business-organisation-and-accounting-concepts--03-g15-consistency-vehicle.webp" width="900" height="820" alt="Year 2 depreciation on a 15,000 vehicle at 20% is 3,000 on straight line but 2,400 on reducing balance from a 12,000 book value. Switching raises year 2 profit by 600 only because of the method." loading="lazy">
+  <figcaption>Switching depreciation method moves year 2 profit by 600 with no change in trading.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-accounting-types-of-business-organisation-and-accounting-concepts--04-g15-prudence-paper.webp" width="900" height="820" alt="150 reams at cost 14 are worth 2,100, but at net realisable value 11 they are worth 1,650. Prudence uses the lower value, so inventory and profit fall by 450 now." loading="lazy">
+  <figcaption>Prudence records the likely 450 loss now, not when the paper is sold.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-accounting-types-of-business-organisation-and-accounting-concepts--05-g15-accruals-insurance.webp" width="900" height="700" alt="Twelve monthly boxes of 200 show insurance of 2,400 paid on 1 October. Only October to December, 600, is this year's expense; the other nine months, 1,800, are a prepayment." loading="lazy">
+  <figcaption>Only 600 of the 2,400 insurance is this year's expense.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-accounting-types-of-business-organisation-and-accounting-concepts--06-g15-business-entity-drawings.webp" width="900" height="880" alt="Sigrun takes 14,000 cash, 300 of goods and pays a 410 household bill from the business. These are drawings of 14,710, not expenses, so profit stays 24,450 and closing capital is 41,000 + 24,450 - 14,710 = 50,740." loading="lazy">
+  <figcaption>Owner's personal spending is drawings, which reduce capital but not profit.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-accounting-types-of-business-organisation-and-accounting-concepts--01-u2-009-materiality-stapler-press.webp" width="900" height="920" alt="A bar shows revenue of 126,500 dollars. The printing press at 14,500 dollars fills 11.5 percent of it and is material, so it is a non-current asset. The stapler at 18 dollars is 0.014 percent, too thin to draw, so it is immaterial and expensed. There is no fixed cut-off." loading="lazy">
+  <figcaption>The same test gives different treatment: 0.014% of revenue is expensed, 11.5% is capitalised.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

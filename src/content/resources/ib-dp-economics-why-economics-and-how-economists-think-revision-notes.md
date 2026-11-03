@@ -97,6 +97,12 @@ Three questions: what and how much, how, for whom.
 | Planned | Government or central planners | Output and distribution set centrally |
 | Mixed | Both | Markets plus government intervention |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-economics-basic-economic-ideas-and-resource-allocation--02-economic-systems.webp" width="900" height="990" alt="Three questions, what, how and for whom, are answered in different ways. In a market economy prices and firms decide, in a planned economy the state decides, and a mixed economy shares decisions between both." loading="lazy">
+  <figcaption>Market, planned and mixed economies differ in who answers what, how and for whom.</figcaption>
+</figure>
+
+
 ## PPC diagram notes
 
 Axes: one good on each axis, both labelled. A rough sketch of an outward-bowed PPC:
@@ -126,6 +132,12 @@ Increasing opportunity cost gives a curve bowed outwards: resources are not equa
 
 **Assumptions:** two goods; fixed resources; fixed technology; full and efficient use for points on the curve.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-basic-economic-problem--07-ppc-shift-vs-movement.webp" width="900" height="1190" alt="Top: a point inside the curve moves to the curve by using idle resources more fully; this is temporary, reversible and not economic growth on this syllabus. Bottom: the whole curve shifts outward because of more or better resources or better technology, a permanent increase in capacity, which is economic growth." loading="lazy">
+  <figcaption>Only an outward shift of the whole curve counts as economic growth.</figcaption>
+</figure>
+
+
 ## Circular flow notes
 
 Households supply factors and receive income; firms supply goods and receive spending. Extended: government, banks and financial sector, foreign sector.
@@ -145,6 +157,11 @@ Method: add the three leakages, add the three injections, compare. Equal means s
   <figcaption>Leakages and injections each total 220, and a rise in investment to 110 makes injections 250, 30 above leakages.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-aggregate-demand-supply--01-circular-flow.webp" width="900" height="1040" alt="Households and firms are linked by income and spending flows; saving, taxes and imports leak out and investment, government spending and exports flow back in. Two bar pairs show that equal injections and withdrawals keep income steady while higher injections raise it." loading="lazy">
+  <figcaption>Withdrawals (S, T, M) leave and injections (I, G, X) enter the circular flow; national income is in equilibrium when they are equal.</figcaption>
+</figure>
+
 
 ## Positive and normative
 
@@ -154,6 +171,12 @@ Method: add the three leakages, add the three injections, compare. Equal means s
 | "The fictional city of Dunmere has 4% unemployment" | "Dunmere must reduce unemployment first" |
 
 A positive statement can still be false. It is positive because it can be checked. Equality is equal shares; equity is fairness, which may mean unequal shares. Which is fairer is normative.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-economics-basic-economic-ideas-and-resource-allocation--01-positive-vs-normative.webp" width="900" height="910" alt="Two cards. Positive: &quot;Unemployment rose by 2%&quot; can be tested against data, shown by bars (illustrative 5% to 7%) and a magnifying glass, so it is true or false. Normative: &quot;The government should reduce unemployment&quot; is a value judgement, shown by a balance scale; data alone cannot settle it." loading="lazy">
+  <figcaption>A positive statement can be tested against evidence; a normative one rests on values.</figcaption>
+</figure>
+
 
 ## Methodology chain
 
@@ -274,5 +297,10 @@ IB Diploma Programme *Economics guide*, first assessment 2022, published by the 
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/igcse-economics-the-basic-economic-problem--03-factors-of-production.webp" width="900" height="940" alt="Four cards: land (natural resources) earns rent, labour (human effort) earns wages, capital (machines and factories) earns interest, and enterprise (organises and takes risks) earns profit." loading="lazy">
   <figcaption>Each factor of production earns its own reward.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-basic-economic-problem--05-ppc-points.webp" width="900" height="1080" alt="An illustrative PPC with Food and Machines axes. A on the curve means all resources fully used, B inside means idle or wasted resources, C beyond the curve cannot be reached with current resources." loading="lazy">
+  <figcaption>Points inside, on and beyond the PPC show how well resources are used.</figcaption>
 </figure>
 

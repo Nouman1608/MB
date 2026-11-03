@@ -75,6 +75,11 @@ Check the pdf first if you are unsure: ∫ 4x³/15 dx from 1 to 2 is (16 − 1)/
 </figure>
 
 <figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-mathematics-continuous-random-variables-pdf-cdf-mean-variance-mode--03-cdf-to-pdf.webp" width="900" height="1030" alt="The cdf F(x) = (x³ − 1)/26 is drawn with tangents at x = 1.5 and 2.5. Below it, the pdf 3x²/26 has heights 0.26 and 0.72 at those x values, equal to the tangent slopes." loading="lazy">
+  <figcaption>Differentiating F gives f, so a steeper cdf means a taller pdf.</figcaption>
+</figure>
+
+<figure class="topic-figure">
   <img src="https://img.marlbridge.com/edexcel-ial-mathematics-continuous-random-variables-pdf-cdf-mean-variance-mode--04-mean-median-mode.webp" width="900" height="830" alt="The pdf (4/27)x²(3 − x) on 0 to 3 peaks at x = 2. Lines mark the mean 1.8, median about 1.84 and mode 2; the median splits the area into two halves of 1/2." loading="lazy">
   <figcaption>The median halves the area, and here mean &lt; median &lt; mode.</figcaption>
 </figure>

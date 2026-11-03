@@ -205,6 +205,17 @@ Why fuse? Plasma cells make the antibody but cannot divide; myeloma cells divide
 11. Any one: HIV mutates rapidly, so its antigens change; it lives inside T-helper cells, hidden from antibodies; it destroys the T-helper cells needed for the immune response.
 12. 11 280 ÷ 12 000 × 100 = **94.0%** (94%).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-immunity--02-four-diseases.webp" width="900" height="1190" alt="Four panels. Cholera (bacterium Vibrio cholerae) spreads through contaminated water or food. Malaria (protoctist Plasmodium) is passed by the bite of a female Anopheles mosquito. TB (bacterium Mycobacterium tuberculosis) spreads in droplets breathed in. HIV (a virus) spreads in body fluids: sexual contact, blood and from mother to child." loading="lazy">
+  <figcaption>Each disease has a named pathogen type and a main transmission route.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-immunity--07-hiv-replication.webp" width="900" height="1310" alt="Six steps in a helper T cell: glycoproteins bind CD4; capsid contents enter; reverse transcriptase makes DNA from RNA; integrase inserts the DNA into a host chromosome; host ribosomes make proteins which protease cuts; new particles bud off with an envelope. The enzymes of steps 3, 4 and 5 are drug targets." loading="lazy">
+  <figcaption>HIV uses the host cell to make new virus particles, destroying helper T cells.</figcaption>
+</figure>
+
+
 ## Where marks are usually lost
 
 - Describing phagocytes with the wrong organelle (e.g. "ribosomes release enzymes") instead of **lysosomes**.

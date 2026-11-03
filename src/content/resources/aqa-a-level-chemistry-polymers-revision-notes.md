@@ -54,6 +54,11 @@ plasticisers are in the [alkenes revision notes](/resources/aqa-a-level-chemistr
   <figcaption>Condensation releases a small molecule, usually water; addition releases nothing.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/polymers--06-nylon-and-pet.webp" width="900" height="830" alt="Nylon is a diacid and a diamine alternating, joined by CO-NH and NH-CO amide links. PET is a diacid and a diol alternating, joined by CO-O and O-CO ester links. Each link releases water and each repeat unit contains two links." loading="lazy">
+  <figcaption>Nylon and PET follow the same pattern; only the second monomer and the link change.</figcaption>
+</figure>
+
 
 ## The polymers you must know (3.3.12.1)
 
@@ -181,6 +186,11 @@ Stronger forces between chains → higher melting point and stronger fibres.
   <figcaption>Monomers join into long polymer chains, and plastic is the material made from them.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/polymers--07-proteins.webp" width="900" height="1140" alt="Three amino acid monomers, each with an NH2 end and a COOH end, join into a chain. Each join is a CO-NH peptide bond and releases water. A comparison shows nylon uses two monomers while a protein uses one monomer carrying both groups." loading="lazy">
+  <figcaption>Proteins are condensation polymers of amino acids joined by peptide (amide) bonds.</figcaption>
+</figure>
+
 
 ## Links to other topics
 
@@ -233,6 +243,11 @@ Stronger forces between chains → higher melting point and stronger fibres.
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/aqa-a-level-chemistry-polymers--03-nylon-formation.webp" width="900" height="1065" alt="Hexanedioic acid above hexane-1,6-diamine; the OH from the acid and an H from the amine leave as water and an amide link forms in the product, which still has free COOH and NH2 ends. A strip shows the diacyl chloride laboratory route losing HCl instead." loading="lazy">
   <figcaption>The OH of an acid and an H of an amine leave as water, leaving an amide link and free ends that can react again. (All boards; acyl chloride OCR/AQA)</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/polymers--05-amide-ester-links.webp" width="900" height="1130" alt="Bond by bond: an acid end loses OH and an amine end loses H, which leave as water, and the acid carbon bonds to nitrogen to make a CO-NH amide link. The same happens with an alcohol end to make a CO-O ester link." loading="lazy">
+  <figcaption>An amide or ester link forms when H and OH leave as water.</figcaption>
 </figure>
 
 

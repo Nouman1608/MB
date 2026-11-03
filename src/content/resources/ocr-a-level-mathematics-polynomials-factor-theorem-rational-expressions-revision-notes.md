@@ -202,6 +202,12 @@ Always give the domain, interpret a root in context, and reject values that make
 9. 1/[(1 + x)(1 − 2x)] = (1/3)/(1 + x) + (2/3)/(1 − 2x), which gives 1 + x + 3x² + … for |x| < 1/2.
 10. A negative height is impossible, so the model only holds on a limited domain. A refinement is to use the model only up to the time when the height reaches zero, or to choose a function that stays positive.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-polynomial-manipulation-algebraic-division-and-the--06-transform-track-points.webp" width="900" height="960" alt="A downward parabola y = f(x) with maximum (2, 5) and its image y = 4 - 2f(3x - 6), an upward parabola. Three marked points move: (2, 5) to (8/3, -6), (-1, 0) to (5/3, 4) and (5, 0) to (11/3, 4). The maximum becomes a minimum." loading="lazy">
+  <figcaption>Solve the bracket for the new x-value, then apply the outside changes to y.</figcaption>
+</figure>
+
+
 ## Where marks are usually lost
 
 - Testing (2x − 1) with x = 2 instead of x = 1/2.

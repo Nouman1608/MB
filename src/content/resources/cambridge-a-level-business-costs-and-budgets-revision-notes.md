@@ -118,11 +118,6 @@ Worked reminder. Talgarth Tea Rooms gets a one-off order for 200 afternoon teas 
   <figcaption>Fixed costs do not change with output; variable costs rise with it; revenue = price x quantity.</figcaption>
 </figure>
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/oxfordaqa-a-level-business-finance--08-capacity-unit-cost.webp" width="900" height="920" alt="Unit cost falls as output rises (fixed 18,000, variable 0.45 per loaf). March: 24,000 loaves, 80% capacity, 1.20 pounds a loaf. April: 27,000 loaves, 90% capacity, 1.12 pounds a loaf; little spare room near capacity." loading="lazy">
-  <figcaption>Higher capacity utilisation spreads fixed costs and lowers unit cost, but leaves little spare room.</figcaption>
-</figure>
-
 
 ## Break-even in steps
 
@@ -162,6 +157,11 @@ Horizontal axis: output. Vertical axis: money. Lines: fixed costs (flat), total 
   <figcaption>Break-even is where revenue equals total costs; the margin of safety is how far sales sit above it.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-business-finance--03-break-even-shifts.webp" width="900" height="1290" alt="Two charts with the old lines dashed. A price rise to 19.50 steepens revenue and moves break-even from 800 to 700. Fixed costs rising to 9,240 shift total costs up in parallel and move break-even to 880." loading="lazy">
+  <figcaption>A higher price lowers break-even; higher fixed costs raise it.</figcaption>
+</figure>
+
 
 ## Budgets
 
@@ -193,6 +193,11 @@ Worked reminder: Talgarth budgets for 2,000 covers and £8,000 of food. Food is 
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/cambridge-a-level-business-costs-and-budgets--05-cb-budget-types.webp" width="900" height="770" alt="Incremental: 18,000 plus 4 percent is 18,720. Flexible: materials budget 30,000 at 6,000 units becomes 27,500 at 5,500. Zero-based: start from 0 pounds and justify every item." loading="lazy">
   <figcaption>Incremental, flexible and zero budgets start from different places.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-business-finance--05-budget-variances.webp" width="900" height="950" alt="Variances grow right when favourable and left when adverse: revenue 3,600 F, ingredients 1,800 A, wages 600 F, rent 0, profit 2,400 F. The profit variance equals the net of the others." loading="lazy">
+  <figcaption>A variance is favourable if it raises profit and adverse if it lowers it; a cost above budget is adverse.</figcaption>
 </figure>
 
 
@@ -233,6 +238,12 @@ Numbers alone earn little in a case study. After a calculation, say what it mean
 8. £8,000 ÷ 2,000 = £4 a cover; £4 × 2,400 = £9,600.
 9. It ignores fixed costs, so prices set on contribution alone may not cover overheads over time (or it relies on a clear fixed/variable split).
 10. £13,500 ÷ £5 = 2,700 units.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-business-finance--08-capacity-unit-cost.webp" width="900" height="920" alt="Unit cost falls as output rises (fixed 18,000, variable 0.45 per loaf). March: 24,000 loaves, 80% capacity, 1.20 pounds a loaf. April: 27,000 loaves, 90% capacity, 1.12 pounds a loaf; little spare room near capacity." loading="lazy">
+  <figcaption>Higher capacity utilisation spreads fixed costs and lowers unit cost, but leaves little spare room.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

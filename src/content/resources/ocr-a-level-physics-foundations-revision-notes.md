@@ -162,6 +162,11 @@ For two forces that are NOT perpendicular, a scale drawing (a vector triangle) o
   <figcaption>Perpendicular forces combine by Pythagoras, not by adding sizes.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-oxfordaqa-physics-measurements-and-their-errors--09-vector-addition.webp" width="900" height="910" alt="12 N and 7 N forces with 50 degrees between them drawn tip to tail. Resultant 17.3 N at 18.0 degrees to the 12 N force from the cosine rule (interior angle 130) and checked by components 16.50 N and 5.36 N." loading="lazy">
+  <figcaption>The resultant joins the start of the first vector to the tip of the last.</figcaption>
+</figure>
+
 
 ## Why estimating quantities matters
 

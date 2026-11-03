@@ -138,6 +138,11 @@ The composition matters as much as the share. Capital spending on transport or o
   <figcaption>Spending of 600bn with a deficit cap of 60bn needs tax of 540bn, 27.0% of GDP.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-aggregate-demand-supply--07-lras-growth.webp" width="900" height="1000" alt="LRAS shifts right from output 100 to 130, with SRAS shifted right by the same amount. Equilibrium moves from output 90, price level 65 to output 105, price level 57.5. Technology, productivity, enterprise, factor mobility, incentives and institutions are listed as causes." loading="lazy">
+  <figcaption>Underlying economic growth is a rightward shift in LRAS, raising output and easing prices.</figcaption>
+</figure>
+
 
 ## 2a: Direct and indirect taxes
 
@@ -212,6 +217,12 @@ Revenue
 ```
 
 Revenue rises to a maximum at t* then falls. Above t*, cutting the rate raises revenue and the base. The peak is not known in advance, and it differs by tax, country and time horizon. Do not assume a country is on the downward slope.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-macroeconomics--06-laffer-curve.webp" width="900" height="910" alt="Tax revenue rises with the tax rate to a peak, then falls. Points X (20%) and Y (80%) raise the same revenue, so beyond the peak cutting the rate raises revenue." loading="lazy">
+  <figcaption>Beyond the revenue-maximising rate, a higher tax rate lowers tax revenue.</figcaption>
+</figure>
+
 
 ### Income distribution
 

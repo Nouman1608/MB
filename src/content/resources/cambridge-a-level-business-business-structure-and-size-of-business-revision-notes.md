@@ -57,6 +57,11 @@ Related pages: [Enterprise (1.1)](/resources/cambridge-a-level-business-enterpri
   <figcaption>Primary extracts, secondary makes, tertiary provides services.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-0264-business-activity-and-economic-sectors--02-sector-and-ownership.webp" width="900" height="730" alt="A grid of primary, secondary and tertiary rows against private and public columns. An iron-ore mine is primary and private, a bakery with its own shop is secondary and tertiary and private, a phone retailer is tertiary and private, a state hospital is tertiary and public." loading="lazy">
+  <figcaption>Sector (type of work) and ownership are two separate classifications.</figcaption>
+</figure>
+
 
 ## 1.2.2 Ownership
 
@@ -119,6 +124,17 @@ Related pages: [Enterprise (1.1)](/resources/cambridge-a-level-business-enterpri
 | Market share | Firm sales ÷ market sales × 100 | Depends on how the market is defined |
 
 The syllabus does not list the measures in 1.3.1. These are the standard ones. It asks how appropriate each is, so tie your choice to what the question wants to know.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/enterprise-business-growth-and-size--02-measuring-size.webp" width="900" height="960" alt="Four ways to measure business size: number of people employed, value of output, capital employed and market share, each shown with a simple icon. Profit is crossed out because it is not a measure of size." loading="lazy">
+  <figcaption>Size can be measured by employees, output, capital employed or market share, but not by profit.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/enterprise-business-growth-and-size--03-measure-limitations.webp" width="900" height="940" alt="Example with invented numbers: an automated factory has 20 employees but output of $60m, while a call centre has 200 employees but output of $8m. The factory is small by employees but large by output; the call centre is the reverse, so more than one measure should be used." loading="lazy">
+  <figcaption>Each measure of size has a limitation, so different measures can give different answers.</figcaption>
+</figure>
+
 
 ## 1.3.2 Small businesses and family businesses
 
@@ -193,6 +209,16 @@ The syllabus does not list the measures in 1.3.1. These are the standard ones. I
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/aqa-gcse-business-business-in-the-real-world--07-franchising.webp" width="900" height="800" alt="The franchisor gives the franchisee its brand, training and support. The franchisee pays fees and royalties and uses their own capital for the outlet. Franchising is not a form of ownership: the franchisee trades as a sole trader, partnership or company, and that sets liability." loading="lazy">
   <figcaption>Franchising grows a brand using the franchisee’s capital, but liability follows the franchisee’s own legal form.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/enterprise-business-growth-and-size--04-internal-external-growth.webp" width="900" height="940" alt="Internal (organic) growth means one firm builds on its own operations, for example new branches, products or markets. External growth means combining with another business through a merger or takeover to form one bigger firm." loading="lazy">
+  <figcaption>Internal growth builds on existing operations; external growth combines two businesses.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-business-business-in-the-real-world--06-integration-types.webp" width="900" height="740" alt="A firm in the centre with four targets. Backward integration takes over a supplier, forward integration a retailer, horizontal integration a rival at the same stage, and conglomerate growth a business in an unrelated industry." loading="lazy">
+  <figcaption>External growth is classified by where the target sits relative to the firm.</figcaption>
 </figure>
 
 

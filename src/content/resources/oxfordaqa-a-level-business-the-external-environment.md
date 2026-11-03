@@ -179,6 +179,17 @@ An interest rate is the price of borrowing (and the reward for saving). A rise h
 
 A fall works in the opposite direction. 
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-business-influences-on-business--05-interest-rates.webp" width="900" height="950" alt="Rates rise from 4% to 6%. Direct effect: interest on a 100,000 pound loan rises from 4,000 to 6,000 pounds a year. Indirect effect: customers' loans cost more, they have less to spend and demand may fall. Together this is double pressure on profit." loading="lazy">
+  <figcaption>A rate rise hits a business directly through its loan and indirectly through its customers' spending.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-business-business-and-its-environment--08-interest-repayment.webp" width="900" height="920" alt="A 1,500,000 pound loan repaying 300,000 a year plus interest on the opening balance. At 5 percent the payment is 375,000; at 6.5 percent it is 397,500, an extra 22,500 or 6 percent." loading="lazy">
+  <figcaption>A higher interest rate raises the cost of a variable-rate loan.</figcaption>
+</figure>
+
+
 ### 5.3 Exchange rates
 
 The **exchange rate** is the price of one currency in terms of another. When the home currency rises in value (strengthens), imports become cheaper in home currency terms and exports become dearer for overseas buyers. A weaker home currency does the reverse.
@@ -240,6 +251,11 @@ A new entrant takes share and can force a price response, cutting profit per sal
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/oxfordaqa-a-level-business-the-external-environment--12-policy-competition-chain.webp" width="900" height="715" alt="Five rows lead to profit: tax on inputs raises costs, subsidy to buyers raises demand, a rule forcing a new product changes a decision, many rivals mean little power over price, few rivals mean more." loading="lazy">
   <figcaption>Follow the chain from change to effect to profit.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-business-influences-on-business--08-competition.webp" width="900" height="860" alt="Three columns: no rivals (one shop, little pressure to improve), a few rivals (three shops, some pressure on price) and many rivals (six shops, strong pressure on price and quality), shown with one, two and three filled bars." loading="lazy">
+  <figcaption>The more rivals a business has, the more pressure it faces to compete.</figcaption>
 </figure>
 
 

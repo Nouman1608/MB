@@ -38,12 +38,6 @@ Wider topic pages: [topic study guide](/resources/aqa-gcse-business-business-in-
 | Shareholder value | The worth of a business to its shareholders, seen in share price and dividends |
 | Dividend | A share of profit paid to shareholders |
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/aqa-gcse-business-setting-business-aims-and-objectives-and-stakeholders--06-shareholder-value.webp" width="900" height="930" alt="Half of 240,000 pounds profit is paid as a 120,000 pound dividend, 30p on each of 400,000 shares; a 25% holder gets 30,000 pounds. A share price rise from 2.40 to 2.76 pounds is 15%." loading="lazy">
-  <figcaption>Dividends and a rising share price both add to shareholder value.</figcaption>
-</figure>
-
-
 ## 3.1.3 The objectives to know
 
 1. **Survival**: stay in business, cover costs. Main concern for start-ups.
@@ -71,6 +65,11 @@ Mini example. A company pays £90,000 in dividends on 300,000 shares: 90,000 / 3
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/aqa-gcse-business-setting-business-aims-and-objectives-and-stakeholders--03-aim-or-objective.webp" width="900" height="990" alt="A staircase rises to a flag labelled aim. The aim is the long-term goal of being the best-known bakery in town; an objective is a specific target on the way, such as 500 regular customers in a year." loading="lazy">
   <figcaption>An aim is the direction; an objective is a specific target on the way.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-business-setting-business-aims-and-objectives-and-stakeholders--06-shareholder-value.webp" width="900" height="930" alt="Half of 240,000 pounds profit is paid as a 120,000 pound dividend, 30p on each of 400,000 shares; a 25% holder gets 30,000 pounds. A share price rise from 2.40 to 2.76 pounds is 15%." loading="lazy">
+  <figcaption>Dividends and a rising share price both add to shareholder value.</figcaption>
 </figure>
 
 
@@ -230,6 +229,12 @@ This is the pattern for any "judging success" question: compare with the objecti
 8. For example customers choose to buy elsewhere, forcing a price cut; or employees take industrial action.
 9. For example owners want high dividend payments while employees want higher pay; both draw on the same profit.
 10. 90,000 / 300,000 = **30p per share**.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-business-setting-business-aims-and-objectives-and-stakeholders--04-market-share-trap.webp" width="900" height="990" alt="Bar chart of market share: 7.5% today, 8.0% if sales rise 20% in a market that has grown to 27 million pounds, and the 10% target. The market also grew, so a 20% sales rise falls short." loading="lazy">
+  <figcaption>A rise in sales does not guarantee the target market share if the market grows too.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

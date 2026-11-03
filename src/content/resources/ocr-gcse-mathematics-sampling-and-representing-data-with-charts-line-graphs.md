@@ -154,6 +154,11 @@ A **two-way table** classifies the same people by two features at once, for exam
 </figure>
 
 <figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-statistical-charts-and-diagrams--03-pictogram.webp" width="900" height="801" alt="A whole circle is 8 books and a quarter circle is 2. Monday to Wednesday and Friday read 28, 18, 32 and 14. Thursday is 130 minus 92 = 38 books, which is 4 and three quarters circles." loading="lazy">
+  <figcaption>The key sets the value of a symbol, and part symbols are the same fraction of it.</figcaption>
+</figure>
+
+<figure class="topic-figure">
   <img src="https://img.marlbridge.com/igcse-mathematics-0580-statistical-charts-and-diagrams--02-composite-and-dual-bars.webp" width="900" height="1208" alt="The same lunch data is shown as stacked bars (totals 80, 90, 90) and as side-by-side bars starting at 0. Year 11 packed lunch runs from 60 to 90, so it is 30. Side-by-side bars make one option easy to compare across years." loading="lazy">
   <figcaption>A stacked bar shows totals and make-up; a dual bar chart compares one category across groups.</figcaption>
 </figure>
@@ -209,6 +214,21 @@ Values read from a drawn curve are estimates. State "about" and show your readin
   <figcaption>Median and quartiles read from the cumulative frequency graph of Worked example 4.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-cumulative-frequency-diagrams--01-build-the-table.webp" width="900" height="800" alt="Six time classes with frequencies 6, 18, 36, 32, 20, 8 are shown as bars beside running-total bars that grow to 6, 24, 60, 92, 112, 120. The last total equals 120, the number of students." loading="lazy">
+  <figcaption>Each running total adds the new class to the total so far, and the last must equal the total frequency.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-cumulative-frequency-diagrams--02-draw-the-curve.webp" width="900" height="770" alt="Crosses at (0,0), (10,6), (20,24), (30,60), (40,92), (50,112), (60,120) are joined by one smooth S-shaped curve. The start at zero and the upper class boundary are highlighted." loading="lazy">
+  <figcaption>Plot each running total at the upper class boundary, start at (0, 0) and join with a smooth curve.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-cumulative-frequency-diagrams--03-median-quartiles-iqr.webp" width="900" height="920" alt="On the curve for 120 students, reading across at 30, 60 and 90 and down gives LQ about 22, median 30 and UQ about 39 minutes. The IQR is 39 minus 22 = 17 minutes." loading="lazy">
+  <figcaption>Read across at n/4, n/2 and 3n/4, then down; the IQR is UQ minus LQ.</figcaption>
+</figure>
+
 
 ## Histograms (12.02b, Higher tier only)
 
@@ -242,6 +262,11 @@ estimate = 15 + 36 = 51
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/ocr-gcse-mathematics-sampling-and-representing-data-with-charts-line-graphs--12-histogram-part-bar.webp" width="900" height="990" alt="Museum ages histogram: 25 to 30 is 5 x 3 = 15 and 30 to 40 is 36, so about 51 people are aged 25 to 40." loading="lazy">
   <figcaption>Estimating a frequency from part of a histogram bar.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-statistics--06-histogram-frequency-density.webp" width="900" height="850" alt="A histogram of ages of 120 people with unequal class widths. Frequency density = frequency / class width gives 2, 2.5, 3 and 1. The 10 to 30 class has most people (50) but the 30 to 40 bar is the tallest." loading="lazy">
+  <figcaption>With unequal class widths the bar height is frequency density, and the bar area equals the frequency.</figcaption>
 </figure>
 
 

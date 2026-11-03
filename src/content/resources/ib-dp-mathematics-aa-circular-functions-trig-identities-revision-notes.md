@@ -184,6 +184,17 @@ Signs by quadrant: first, all positive; second, sin only; third, tan only; fourt
 
 **Inverse (HL only).** arccos(−1/2) = 2π/3, not −π/3, because the range of arccos is [0, π].
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-aa-circular-functions-trig-identities--05-tan-2x-interval.webp" width="900" height="960" alt="y = tan 2x for 0 to 2π meets y = 1/√3 at four points: π/12, 7π/12, 13π/12 and 19π/12, spaced by the period π/2. Because 0 ≤ 2x ≤ 4π there are four solutions." loading="lazy">
+  <figcaption>Doubling the angle doubles the interval, so the solutions repeat every π/2.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-aa-circular-functions-trig-identities--09-graph-symmetry.webp" width="900" height="1140" alt="Top: y = sin x on 0 to π is mirror-symmetric about x = π/2, so sin(π − θ) = sin θ. Bottom: y = cos x has half-turn symmetry about (π/2, 0), so cos(π − θ) = −cos θ and hence tan(π − θ) = −tan θ." loading="lazy">
+  <figcaption>The graphs of sine and cosine show why π − θ gives the same or opposite value.</figcaption>
+</figure>
+
+
 ## Must-know distinctions
 
 - **Period vs frequency factor:** b is not the period; the period is 2π/b.
@@ -194,12 +205,6 @@ Signs by quadrant: first, all positive; second, sin only; third, tan only; fourt
 - **Finite interval vs general solution:** the guide only requires solutions in a stated interval.
 - **Degrees vs radians:** match the interval. An interval like 0 ≤ x ≤ 2π means radians.
 - **Given angle obtuse:** if the given angle is 90° or more, the ambiguous case cannot give two triangles.
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ib-dp-mathematics-aa-circular-functions-trig-identities--06-quadratic-in-sin.webp" width="900" height="940" alt="The graph of y = 2cos²x + sin x − 1 for 0 to 360 degrees crosses the axis at 210 and 330 degrees and touches it at 90 degrees. Substituting cos²x = 1 − sin²x gives (2 sin x + 1)(sin x − 1) = 0." loading="lazy">
-  <figcaption>The repeated root at 90 degrees shows as a touch, not a crossing.</figcaption>
-</figure>
-
 
 ## Quick self-test
 
@@ -231,6 +236,12 @@ Signs by quadrant: first, all positive; second, sin only; third, tan only; fourt
 11. π/3, π/2, π/6
 12. (√6 + √2)/4
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-aa-circular-functions-trig-identities--06-quadratic-in-sin.webp" width="900" height="940" alt="The graph of y = 2cos²x + sin x − 1 for 0 to 360 degrees crosses the axis at 210 and 330 degrees and touches it at 90 degrees. Substituting cos²x = 1 − sin²x gives (2 sin x + 1)(sin x − 1) = 0." loading="lazy">
+  <figcaption>The repeated root at 90 degrees shows as a touch, not a crossing.</figcaption>
+</figure>
+
+
 ## Where marks are usually lost
 
 - Using the period b instead of 2π/b when writing or reading a model.
@@ -243,12 +254,6 @@ Signs by quadrant: first, all positive; second, sin only; third, tan only; fourt
 - Decimal answers on Paper 1 where exact values are expected.
 - (HL only) Giving arccos of a negative number as a negative angle.
 - (HL only) Sign errors in cos(A + B): the sign in the middle is a minus.
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ib-dp-mathematics-aa-circular-functions-trig-identities--05-tan-2x-interval.webp" width="900" height="960" alt="y = tan 2x for 0 to 2π meets y = 1/√3 at four points: π/12, 7π/12, 13π/12 and 19π/12, spaced by the period π/2. Because 0 ≤ 2x ≤ 4π there are four solutions." loading="lazy">
-  <figcaption>Doubling the angle doubles the interval, so the solutions repeat every π/2.</figcaption>
-</figure>
-
 
 ## Official syllabus
 

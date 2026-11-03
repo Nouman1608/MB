@@ -205,12 +205,6 @@ Aims can also support each other. Growth can create jobs and raise the tax reven
 
 Two checks before you write a conflict answer. First, say which aim the government is pursuing and which one suffers; the direction matters. Second, decide how large the clash is in the case given. The same policy that causes a sharp conflict in a busy economy may cause almost none when many workers are idle, so tie your judgement to the country described.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/aqa-gcse-economics-objectives-of-government--03-objectives-conflict.webp" width="900" height="1010" alt="Flow from an interest rate cut to higher borrowing and spending. Gains: growth rises and unemployment falls. Side effects: demand-pull inflation risk and a worse balance of payments through more imports. Raising rates does the reverse." loading="lazy">
-  <figcaption>A policy that helps one objective can harm another.</figcaption>
-</figure>
-
-
 ## Quick self-test
 
 1. Name the three levels at which the syllabus asks you to consider the role of government.
@@ -236,6 +230,12 @@ Two checks before you write a conflict answer. First, say which aim the governme
 8. Some people are always between jobs, so full employment allows a small amount of unemployment.
 9. 3,000 / 20,000 x 100 = 15%.
 10. Full employment versus stable prices.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-objectives-of-government--03-objectives-conflict.webp" width="900" height="1010" alt="Flow from an interest rate cut to higher borrowing and spending. Gains: growth rises and unemployment falls. Side effects: demand-pull inflation risk and a worse balance of payments through more imports. Raising rates does the reverse." loading="lazy">
+  <figcaption>A policy that helps one objective can harm another.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

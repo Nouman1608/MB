@@ -54,6 +54,12 @@ The significance level is given in the question. You must understand Type I and 
 | Type I error | Rejecting H₀ when H₀ is true |
 | Type II error | Accepting H₀ when H₀ is false |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-statistical-hypothesis-testing--03-type-i-and-ii-errors.webp" width="900" height="1060" alt="Two bar charts with critical region X at most 4 or at least 14 for n = 20. If H0 (p = 0.45) is true the chance of rejecting it, a Type I error, is 0.0403. If the true p is 0.7 the chance of keeping H0, a Type II error, is 0.392 (0.762 if the true p is 0.3)." loading="lazy">
+  <figcaption>Type I is rejecting a true H0; Type II is keeping a false H0.</figcaption>
+</figure>
+
+
 ## Key facts to recall
 
 - Unbiased estimators: x̄ for μ, and s² = [Σx² − (Σx)²/n]/(n − 1) for σ².
@@ -160,12 +166,6 @@ A good final sentence has three parts: the decision, the level, and the context.
 9. Standard error = 2, and 1.960 × 2 = 3.92. Critical region: **x̄ ≤ 96.08 or x̄ ≥ 103.92**.
 10. −1.9 < −1.753, so **reject H₀**.
 11. s from 5 values is an unreliable estimate of σ, so the statistic does not follow N(0, 1). It follows a t-distribution with 4 degrees of freedom, which has heavier tails.
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-statistical-hypothesis-testing--03-type-i-and-ii-errors.webp" width="900" height="1060" alt="Two bar charts with critical region X at most 4 or at least 14 for n = 20. If H0 (p = 0.45) is true the chance of rejecting it, a Type I error, is 0.0403. If the true p is 0.7 the chance of keeping H0, a Type II error, is 0.392 (0.762 if the true p is 0.3)." loading="lazy">
-  <figcaption>Type I is rejecting a true H0; Type II is keeping a false H0.</figcaption>
-</figure>
-
 
 ## Where marks are usually lost
 

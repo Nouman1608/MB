@@ -131,6 +131,11 @@ Compound K is HOC₆H₄COCH₂CH₂COOH, with the OH and the side chain at posi
 6. **Properties.** Two O–H groups hydrogen bond, so K is a solid with a fairly high melting point.
 
 <figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-organic-synthesis--03-cyanide-mechanisms.webp" width="900" height="1195" alt="Curly-arrow mechanisms: the cyanide lone pair attacks the delta-positive carbon of bromoethane and the C-Br bond breaks to give Br-; then the same lone pair attacks the carbonyl carbon of propanone, the C=O pi bond moves onto O, and O- takes H+ to give a hydroxynitrile." loading="lazy">
+  <figcaption>The cyanide arrow starts on the lone pair on carbon; the mechanisms are required by OCR (tagged in the figure).</figcaption>
+</figure>
+
+<figure class="topic-figure">
   <img src="https://img.marlbridge.com/aqa-a-level-chemistry-organic-synthesis--04-grignard-reagent.webp" width="900" height="1120" alt="Ethylmagnesium bromide, made in dry ether, adds its ethyl group to carbon dioxide, methanal, ethanal and propanone. After dilute acid the products are propanoic acid, propan-1-ol, butan-2-ol and 2-methylbutan-2-ol: an acid and a primary, secondary and tertiary alcohol." loading="lazy">
   <figcaption>Edexcel only: a Grignard reagent adds carbons from its alkyl group to a carbonyl compound, giving an acid or a primary, secondary or tertiary alcohol.</figcaption>
 </figure>
@@ -234,17 +239,6 @@ Step 2 is needed because phenol is not readily esterified by a carboxylic acid.
 - The reactions behind the toolkit: [arenes and phenols (6.1.1)](/resources/ocr-a-level-chemistry-aromatic-compounds/), [aldehydes and ketones (6.1.2)](/resources/ocr-a-level-chemistry-carbonyl-compounds/), [acids, esters and acyl chlorides (6.1.3)](/resources/ocr-a-level-chemistry-carboxylic-acids-and-esters/), [amines (6.2.1)](/resources/ocr-a-level-chemistry-amines/)
 - Techniques across the course: [PAG and endorsement techniques](/resources/ocr-a-level-chemistry-practical-skills-practical-endorsement/)
 - Check your gaps: [diagnostic quizzes](/diagnostics/)
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-organic-synthesis--03-cyanide-mechanisms.webp" width="900" height="1195" alt="Curly-arrow mechanisms: the cyanide lone pair attacks the delta-positive carbon of bromoethane and the C-Br bond breaks to give Br-; then the same lone pair attacks the carbonyl carbon of propanone, the C=O pi bond moves onto O, and O- takes H+ to give a hydroxynitrile." loading="lazy">
-  <figcaption>The cyanide arrow starts on the lone pair on carbon; the mechanisms are required by OCR (tagged in the figure).</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-organic-synthesis--07-overall-yield.webp" width="900" height="976" alt="Two routes with the same 80 percent step yield. Four steps leave 41.0 percent so 2.00 mol gives 0.819 mol; two steps leave 64.0 percent giving 1.28 mol." loading="lazy">
-  <figcaption>Overall yield is the product of the step yields, so each extra step lowers it.</figcaption>
-</figure>
-
 
 ## Official syllabus
 

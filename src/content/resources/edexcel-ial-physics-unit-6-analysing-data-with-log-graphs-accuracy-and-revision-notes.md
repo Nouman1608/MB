@@ -172,12 +172,6 @@ Straight and passing through the expected point means the model is supported. Cu
 * Give each processed column of a table a consistent number of significant figures, usually 3. Mixing 3 and 4 is acceptable only when the data cross a power of ten.
 * Say what the percentage uncertainty is dominated by and name the one measurement to improve.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/edexcel-ial-physics-unit-6-analysing-data-with-log-graphs-accuracy-and--12-accuracy-from-uncertainty-range.webp" width="900" height="700" alt="A number line with the result 338 m/s and its +/-2% range 331 to 345. The accepted value 343 lies inside, so the result is accurate within the uncertainty. Without a stated uncertainty, a 1.5% difference (below 5%) also counts as accurate." loading="lazy">
-  <figcaption>Compare the accepted value with the range your result allows.</figcaption>
-</figure>
-
-
 ## Quick self-test
 
 1. A rule has a resolution of 1 mm and gives 37 mm for a single length. Find the percentage uncertainty.
@@ -203,6 +197,12 @@ Straight and passing through the expected point means the model is supported. Cu
 8. The least precise value has 2 significant figures: 14.335 becomes **14**.
 9. (9.81 - 9.5) / 9.81 × 100 = **3.2%**, below 5%, so the result is accurate by this guide.
 10. A **systematic error**, such as a zero error or a constant offset. Check the instrument zero, correct each reading, and repeat.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-physics-unit-6-analysing-data-with-log-graphs-accuracy-and--12-accuracy-from-uncertainty-range.webp" width="900" height="700" alt="A number line with the result 338 m/s and its +/-2% range 331 to 345. The accepted value 343 lies inside, so the result is accurate within the uncertainty. Without a stated uncertainty, a 1.5% difference (below 5%) also counts as accurate." loading="lazy">
+  <figcaption>Compare the accepted value with the range your result allows.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

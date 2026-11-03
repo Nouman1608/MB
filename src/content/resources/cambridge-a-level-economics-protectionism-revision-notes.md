@@ -59,13 +59,8 @@ Worked reminder (Country D, illustrative): the world price is 50 and a tariff of
 - Imports fell 25% for a 20% price rise: −25 ÷ 20 = −1.25, so the response of imports is elastic. The tariff cuts imports well, and revenue is limited.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/cambridge-a-level-economics-protectionism--04-tariff-welfare-areas.webp" width="900" height="1110" alt="A home market for water pumps with demand Q equals 200 minus P and supply Q equals P minus 40. At the world price of 80, home buyers want 120 and home firms supply 40, so imports are 80. A 25 percent tariff lifts the price to 100: buyers want 100, firms supply 60, imports fall to 40. Four areas between the prices of 80 and 100 are marked: producer gain 1,000, tariff revenue 800, production-side loss 200 and consumption-side loss 200. They add to the consumer loss of 2,200, and the two triangles are the net loss of 400." loading="lazy">
-  <figcaption>The consumer loss of 2,200 splits into producer gain, tariff revenue and two triangles of net loss.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/cambridge-a-level-economics-protectionism--04-tariff-cost-per-job.webp" width="900" height="930" alt="Twenty worker icons, each standing for 10 jobs, show 200 jobs protected when home output rises by 20 thousand pumps with 10 workers per thousand. A bar of 2,200 thousand c, the consumer loss, is split into producer gain 1,000, government revenue 800 and net loss 400. Dividing the consumer loss by 200 jobs gives 11,000 c per job; dividing the net loss gives 2,000 c per job." loading="lazy">
-  <figcaption>Spread over 200 protected jobs, the consumer loss is 11,000 c per job, or 2,000 c per job once the producer gain and revenue are netted off.</figcaption>
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-protectionism--03-tariff-demand-elasticity.webp" width="900" height="1030" alt="A home demand curve for water pumps, Q equals 200 minus P. At the world price of 80 buyers want 120 thousand pumps. After a 25 percent tariff the price is 100 and they want 100 thousand. Below the graph two bars show the price rising 25 percent and the quantity demanded falling 16.7 percent. Dividing gives minus 0.67, which is inelastic because it is smaller than 1 in size." loading="lazy">
+  <figcaption>A 25% price rise cuts purchases by only 16.7%, so demand is inelastic (−0.67) and the tariff raises plenty of revenue.</figcaption>
 </figure>
 
 
@@ -80,16 +75,6 @@ Worked reminder (Country D, illustrative): the world price is 50 and a tariff of
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/cambridge-a-level-economics-protectionism--05-quota-who-collects-gap.webp" width="900" height="900" alt="A quota of 40 thousand pumps raises the home price from 80 to 100, because only at 100 does demand minus supply equal 40. The gap of 20 on 40 thousand pumps is 800. If licences are auctioned the government collects the 800; if licences are free to home importers they collect it; if foreign exporters hold the right to sell, they collect it and Country A loses the 800 as well." loading="lazy">
   <figcaption>A quota creates the same 800 gap as the tariff, but who keeps it depends on who holds the licences.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/cambridge-a-level-economics-protectionism--07-export-subsidy-unit-bars.webp" width="900" height="810" alt="Country B firm has a unit cost of 54 and rivals sell at 50 on the world market. Without a subsidy, selling at 50 leaves a loss of 4 per unit. With a subsidy of 8 per unit, the firm charges 48 and receives 56 in total, a profit of 2 per unit. On 300,000 units the subsidy costs taxpayers 2.4 million, which is 4,000 per job for 600 jobs." loading="lazy">
-  <figcaption>The subsidy of 8 lets the firm charge 48, beat the rivals at 50 and still cover its cost of 54.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/cambridge-a-level-economics-protectionism--01-tool-gainers-losers-grid.webp" width="900" height="895" alt="A grid with five protectionist tools down the side (tariff, quota, export subsidy, embargo, red tape) and four groups across (home producers, home consumers, government, foreign exporters). Home producers gain under every tool, a little under red tape. Home consumers lose under tariff, quota, embargo (heavily) and red tape, with little direct effect from an export subsidy. The government gains revenue from a tariff, gets revenue from a quota only if licences are sold, pays for an export subsidy, and gets no revenue from an embargo or red tape (which carries an admin cost). Foreign exporters lose under a tariff, embargo (all trade) and red tape, lose volume but may gain per-unit price under a quota, and rivals lose under an export subsidy." loading="lazy">
-  <figcaption>Home producers gain from every tool; consumers and foreign exporters mostly lose, and only a tariff reliably earns revenue.</figcaption>
 </figure>
 
 <figure class="topic-figure">
@@ -152,8 +137,23 @@ Embargo: trade stops, home supply falls, price rises to the no-trade level, cons
 Red tape: paperwork and delays raise the cost of each consignment, fewer firms export, the home price rises a little, and foreign exporters lose. Small firms and perishable goods are hit hardest, and no revenue is collected.
 
 <figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-protectionism--04-tariff-welfare-areas.webp" width="900" height="1110" alt="A home market for water pumps with demand Q equals 200 minus P and supply Q equals P minus 40. At the world price of 80, home buyers want 120 and home firms supply 40, so imports are 80. A 25 percent tariff lifts the price to 100: buyers want 100, firms supply 60, imports fall to 40. Four areas between the prices of 80 and 100 are marked: producer gain 1,000, tariff revenue 800, production-side loss 200 and consumption-side loss 200. They add to the consumer loss of 2,200, and the two triangles are the net loss of 400." loading="lazy">
+  <figcaption>The consumer loss of 2,200 splits into producer gain, tariff revenue and two triangles of net loss.</figcaption>
+</figure>
+
+<figure class="topic-figure">
   <img src="https://img.marlbridge.com/cambridge-a-level-economics-protectionism--06-embargo-market-effect.webp" width="900" height="1010" alt="The same pump market with demand Q equals 200 minus P and supply Q equals P minus 40. An embargo removes imports, so the price rises from the world price of 80 to the no-trade price of 120 and quantity is 80. Consumers lose 4,000. Home producers gain 2,400. The remaining triangle of 1,600 is a net loss with no tariff revenue to offset it." loading="lazy">
   <figcaption>With imports banned, consumers lose 4,000; producers regain 2,400; the 1,600 left is lost for good.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-protectionism--07-export-subsidy-unit-bars.webp" width="900" height="810" alt="Country B firm has a unit cost of 54 and rivals sell at 50 on the world market. Without a subsidy, selling at 50 leaves a loss of 4 per unit. With a subsidy of 8 per unit, the firm charges 48 and receives 56 in total, a profit of 2 per unit. On 300,000 units the subsidy costs taxpayers 2.4 million, which is 4,000 per job for 600 jobs." loading="lazy">
+  <figcaption>The subsidy of 8 lets the firm charge 48, beat the rivals at 50 and still cover its cost of 54.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-protectionism--01-tool-gainers-losers-grid.webp" width="900" height="895" alt="A grid with five protectionist tools down the side (tariff, quota, export subsidy, embargo, red tape) and four groups across (home producers, home consumers, government, foreign exporters). Home producers gain under every tool, a little under red tape. Home consumers lose under tariff, quota, embargo (heavily) and red tape, with little direct effect from an export subsidy. The government gains revenue from a tariff, gets revenue from a quota only if licences are sold, pays for an export subsidy, and gets no revenue from an embargo or red tape (which carries an admin cost). Foreign exporters lose under a tariff, embargo (all trade) and red tape, lose volume but may gain per-unit price under a quota, and rivals lose under an export subsidy." loading="lazy">
+  <figcaption>Home producers gain from every tool; consumers and foreign exporters mostly lose, and only a tariff reliably earns revenue.</figcaption>
 </figure>
 
 
@@ -194,6 +194,12 @@ Label the vertical axis price and the horizontal axis quantity. Draw home demand
 8. Political, security, health or ethical grounds.
 9. 600 ÷ 20 000 = 3%.
 10. Other countries may restrict the home country's exports, so home exporters lose sales and jobs.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-protectionism--04-tariff-cost-per-job.webp" width="900" height="930" alt="Twenty worker icons, each standing for 10 jobs, show 200 jobs protected when home output rises by 20 thousand pumps with 10 workers per thousand. A bar of 2,200 thousand c, the consumer loss, is split into producer gain 1,000, government revenue 800 and net loss 400. Dividing the consumer loss by 200 jobs gives 11,000 c per job; dividing the net loss gives 2,000 c per job." loading="lazy">
+  <figcaption>Spread over 200 protected jobs, the consumer loss is 11,000 c per job, or 2,000 c per job once the producer gain and revenue are netted off.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

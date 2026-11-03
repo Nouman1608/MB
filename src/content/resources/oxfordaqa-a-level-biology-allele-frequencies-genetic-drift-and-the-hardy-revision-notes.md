@@ -62,11 +62,6 @@ Link them in an answer: a bottleneck leaves a small population, and drift acts s
   <figcaption>Chance changes in allele frequency are large in small populations and small in large ones.</figcaption>
 </figure>
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-level-biology-9700-selection-and-evolution--07-bottleneck-founder.webp" width="900" height="1070" alt="In a bottleneck 5000 animals fall to 40 survivors and allele A drops from 0.30 to 0.15. In the founder effect 25 birds found an island and a rare allele rises from 0.02 to 0.10. A small sample of the gene pool differs from the original by chance." loading="lazy">
-  <figcaption>A small sample of a gene pool can change allele frequencies without any selection.</figcaption>
-</figure>
-
 
 ## Hardy-Weinberg: conditions and results
 
@@ -147,6 +142,22 @@ If they hold, allele frequencies stay constant from generation to generation.
 8. The few survivors carried only part of the original gene pool, so the new population has low genetic variety. If few individuals have an allele giving resistance, most may be susceptible, and the variety lost is not restored quickly.
 9. Total copies of the gene = 2 × 12 = 24. Copies of the allele = 0.125 × 24 = **3**.
 10. Advantage: the yield of offspring is high and more consistent. Disadvantage: reduced genetic variety, so more individuals may be susceptible to a new disease or a change in conditions; breeding between relatives raises the chance of harmful recessive genotypes.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-selection-and-evolution--01-polygenes-bell-curve.webp" width="900" height="1040" alt="A bar chart of offspring from AaBbCc x AaBbCc across 0 to 6 height-adding alleles: 1, 6, 15, 20, 15, 6, 1 out of 64. A plant under each bar gets taller as the number of adding alleles rises. Many small additive genes, blurred by the environment, give a smooth continuous range." loading="lazy">
+  <figcaption>Many genes with small additive effects give a bell-shaped distribution of offspring.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-selection-and-evolution--02-three-types-of-selection.webp" width="900" height="1274" alt="Three panels each show a dashed bell curve before selection and a solid curve after. Stabilising selection narrows the curve with the mean unchanged, directional selection shifts it toward one extreme, and disruptive selection leaves two peaks and removes the middle." loading="lazy">
+  <figcaption>Selection can narrow, shift or split the distribution of a phenotype.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-selection-and-evolution--07-bottleneck-founder.webp" width="900" height="1070" alt="In a bottleneck 5000 animals fall to 40 survivors and allele A drops from 0.30 to 0.15. In the founder effect 25 birds found an island and a rare allele rises from 0.02 to 0.10. A small sample of the gene pool differs from the original by chance." loading="lazy">
+  <figcaption>A small sample of a gene pool can change allele frequencies without any selection.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

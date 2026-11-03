@@ -189,6 +189,11 @@ forms caesium hydroxide, CsOH, and hydrogen.
   <figcaption>Group 1 metals make oxides, chlorides and hydroxides, more vigorously down the group.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/periodic-table-groups-and-trends--02-group-i-electrons.webp" width="900" height="800" alt="Electron shell diagrams of Li (2,1), Na (2,8,1) and K (2,8,8,1), each with one outer electron shown in gold that sits further from the nucleus down the group." loading="lazy">
+  <figcaption>Each Group I atom has one outer electron, which is further out and lost more easily down the group.</figcaption>
+</figure>
+
 
 ## 4.1.2.6 Group 7: halogens
 
@@ -239,6 +244,16 @@ Br₂ + 2NaI → 2NaBr + I₂     solution turns from orange to brown
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/atomic-structure--04-shells-groups-periods.webp" width="900" height="965" alt="The first 20 elements drawn as shell diagrams in group columns and period rows, each labelled with symbol and configuration. Outer-shell electrons are gold and equal the group number; occupied shells equal the period number; Group VIII has full outer shells." loading="lazy">
   <figcaption>Electronic configurations 1-20 and how to read group and period from them.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/periodic-table-groups-and-trends--04-halogens.webp" width="900" height="790" alt="Chlorine, bromine and iodine as diatomic molecules: a pale yellow-green gas, a red-brown liquid and a grey-black solid. Density increases and reactivity decreases down the group." loading="lazy">
+  <figcaption>The halogens are diatomic non-metals whose state and colour change down the group.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/periodic-table-groups-and-trends--05-halogen-displacement.webp" width="900" height="1090" alt="Chlorine added to colourless potassium iodide forms brown iodine, with the balanced equation. A grid shows which halogen and halide pairs react: only a more reactive halogen displaces a less reactive one (Cl &gt; Br &gt; I)." loading="lazy">
+  <figcaption>A more reactive halogen displaces a less reactive halogen from its halide solution.</figcaption>
 </figure>
 
 

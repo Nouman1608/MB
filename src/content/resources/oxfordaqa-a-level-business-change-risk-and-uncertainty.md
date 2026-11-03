@@ -105,6 +105,12 @@ Step 4. Plan action on restraining forces. A guarantee of retraining rather than
 
 **Value and limits.** It makes managers list every force and plan how to tackle each. But scores are subjective, so two managers may reach different totals, and forces shift over time.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-business-types-of-strategies--05-decision-tree.webp" width="900" height="1120" alt="Decision tree with a decision square and two chance circles: A costs 45,000 (EV 91,500, net gain 46,500), B costs 70,000 (EV 121,500, net gain 51,500) and doing nothing is 0. B has the highest net gain." loading="lazy">
+  <figcaption>Expected value is worked from right to left, then cost is subtracted to give net gain.</figcaption>
+</figure>
+
+
 ### Kotter and Schlesinger's six ways of overcoming resistance
 
 | Method | What it involves | Best when | Drawback |

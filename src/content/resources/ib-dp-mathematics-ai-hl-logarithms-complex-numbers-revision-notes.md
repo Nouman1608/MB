@@ -109,6 +109,12 @@ Total distance = h + 2 × (hr) / (1 − r). The 2 counts each rise and its fall.
 3. The modulus is the new amplitude and the argument is the new phase.
 4. Answer in the form V = R cos(ωt + β).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-ai-hl-logarithms-complex-numbers--05-bouncing-ball.webp" width="900" height="940" alt="A ball dropped from 8 m then bouncing to 6 m, 4.5 m, 3.375 m and so on. The rises form a geometric series with sum 24; with matching falls the total distance is 8 + 2 x 24 = 56 m." loading="lazy">
+  <figcaption>Total distance of the bouncing ball: 8 + 2 x 24 = 56 m.</figcaption>
+</figure>
+
+
 ## Small worked reminders
 
 - 243^(2/5) → fifth root of 243 is 3, then 3² = 9.
@@ -126,6 +132,12 @@ Total distance = h + 2 × (hr) / (1 − r). The 2 counts each rise and its fall.
 - For conversions, set the GDC to radians before you ask for an argument. Check the answer against a quick sketch of the point.
 - For sums to infinity, the GDC can confirm S_n for a large n is close to your S_∞. Treat this as a check, not the method.
 - For log equations, a graph of each side and the intersection gives a check on your algebraic root. It also shows you whether a rejected root was genuinely outside the domain.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-ai-hl-logarithms-complex-numbers--02-log-equation-domain.webp" width="900" height="940" alt="Graph of y = log x + log (x - 15), defined only for x greater than 15, meeting y = 2 at x = 20. The region x up to 15 is shaded as undefined. The other root of the quadratic, x = -5, lies in that region and is crossed out." loading="lazy">
+  <figcaption>Graph of log x + log (x - 15) showing the valid root x = 20 and the rejected root x = -5.</figcaption>
+</figure>
+
 
 ## How the subtopics connect
 
@@ -162,12 +174,6 @@ Total distance = h + 2 × (hr) / (1 − r). The 2 counts each rise and its fall.
 - **Powers vs roots.** You must find integer powers. The guide says you will not be asked to find roots of complex numbers in examinations.
 - **Converges vs diverges.** A geometric series with r = −0.9 has a sum to infinity; one with r = 1.1 or r = −1 does not.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ib-dp-mathematics-ai-hl-logarithms-complex-numbers--07-polar-quadrant.webp" width="900" height="1040" alt="Argand diagram with -3 + 3i in the second quadrant, modulus 3 root 2 and argument 3 pi over 4 (pi minus the reference angle pi over 4). The calculator value -pi over 4 points into the wrong quadrant and is crossed out." loading="lazy">
-  <figcaption>Finding the argument of -3 + 3i: sketch the quadrant, do not trust arctan alone.</figcaption>
-</figure>
-
-
 ## Quick self-test
 
 1. Evaluate 64^(−2/3).
@@ -203,6 +209,16 @@ Total distance = h + 2 × (hr) / (1 − r). The 2 counts each rise and its fall.
   <figcaption>27^(2/3) = 9 and 16^(-3/4) = 1/8 by taking the root first.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-ai-hl-logarithms-complex-numbers--04-infinite-sum-partial.webp" width="900" height="870" alt="Bar chart of partial sums of a geometric series with first term 10 and ratio 0.75. The bars approach the dashed line at 40, the sum to infinity, reaching 38.7 at n = 12." loading="lazy">
+  <figcaption>Partial sums of 10 + 7.5 + ... approach S_inf = 40.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-ai-hl-logarithms-complex-numbers--07-polar-quadrant.webp" width="900" height="1040" alt="Argand diagram with -3 + 3i in the second quadrant, modulus 3 root 2 and argument 3 pi over 4 (pi minus the reference angle pi over 4). The calculator value -pi over 4 points into the wrong quadrant and is crossed out." loading="lazy">
+  <figcaption>Finding the argument of -3 + 3i: sketch the quadrant, do not trust arctan alone.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 
@@ -216,12 +232,6 @@ Total distance = h + 2 × (hr) / (1 − r). The 2 counts each rise and its fall.
 - Writing an exponential form with the angle in degrees.
 - Adding sinusoid amplitudes directly instead of adding the complex numbers.
 - Giving only a GDC answer with no complex number written down, so no method mark can be awarded if the answer is wrong.
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ib-dp-mathematics-ai-hl-logarithms-complex-numbers--05-bouncing-ball.webp" width="900" height="940" alt="A ball dropped from 8 m then bouncing to 6 m, 4.5 m, 3.375 m and so on. The rises form a geometric series with sum 24; with matching falls the total distance is 8 + 2 x 24 = 56 m." loading="lazy">
-  <figcaption>Total distance of the bouncing ball: 8 + 2 x 24 = 56 m.</figcaption>
-</figure>
-
 
 ## Official syllabus
 

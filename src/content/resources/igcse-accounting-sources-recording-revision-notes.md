@@ -180,12 +180,6 @@ assets, expenses, income, capital). Knowing which ledger a given account belongs
 alongside the double-entry postings themselves, particularly in scenario questions that present a mix
 of customer, supplier and expense transactions together.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-accounting-the-double-entry-system-of-book-keeping--01-ledger-divisions.webp" width="900" height="738" alt="Three books: the sales ledger holds credit customers (Garnet Row Hotel), the purchases ledger holds credit suppliers (Kirtle Clay), and the nominal ledger holds every other account, such as Shop fittings, Rent, Sales, Capital and Drawings." loading="lazy">
-  <figcaption>The ledger is split into sales, purchases and nominal ledgers.</figcaption>
-</figure>
-
-
 ## Exam traps
 
 - Leaving the Dr/Cr label off a running balance, or treating the imprest amount to restore as the
@@ -193,6 +187,12 @@ of customer, supplier and expense transactions together.
 - Confusing a book of prime entry with a ledger account.
 - Posting a sales return directly against the sales journal instead of the sales returns journal.
 - Miscalculating imprest reimbursement through arithmetic error rather than conceptual confusion.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-accounting-the-double-entry-system-of-book-keeping--01-ledger-divisions.webp" width="900" height="738" alt="Three books: the sales ledger holds credit customers (Garnet Row Hotel), the purchases ledger holds credit suppliers (Kirtle Clay), and the nominal ledger holds every other account, such as Shop fittings, Rent, Sales, Capital and Drawings." loading="lazy">
+  <figcaption>The ledger is split into sales, purchases and nominal ledgers.</figcaption>
+</figure>
+
 
 ## The cash book's dual role, explained
 

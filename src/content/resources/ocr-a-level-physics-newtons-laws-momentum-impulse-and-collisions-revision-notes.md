@@ -113,17 +113,6 @@ Loss = **5400 J**, so the collision is inelastic.
 - **Third-law pair versus balanced forces:** the members of a pair act on separate bodies, whereas balanced forces share one body.
 - **Exact versus estimated area:** straight-line graphs give an exact area; curves give an estimate.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-level-oxfordaqa-physics-motion-and-newtons-laws--06-impulse-area.webp" width="900" height="1140" alt="Two force-time graphs. A triangle rising to 800 N at 6 ms and falling to zero at 18 ms has area 7.2 N s, so a 0.16 kg ball leaves at 45 m s-1. Readings at 2 ms intervals are estimated with trapezium strips as 0.0020 x 1630 = 3.26 N s, about 20 m s-1." loading="lazy">
-  <figcaption>Impulse is the area under a force-time graph; use exact shapes for straight lines and strips for a curve.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-level-oxfordaqa-physics-motion-and-newtons-laws--07-collisions-1d.webp" width="900" height="1240" alt="Two one-dimensional collisions with bar charts. Gliders sticking together keep momentum 0.378 kg m s-1 but kinetic energy falls from 0.170 J to 0.102 J. Elastic trolleys keep both momentum (1.44) and kinetic energy (1.728 J), and the speeds of approach and separation are both 2.4 m s-1." loading="lazy">
-  <figcaption>Momentum is conserved in both kinds of collision; kinetic energy is conserved only if the collision is perfectly elastic.</figcaption>
-</figure>
-
-
 ## Quick self-test
 
 1. A 0.25 kg ball moving at 14 m s⁻¹ rebounds along the same line at 6.0 m s⁻¹. Find the magnitude of its change in momentum.
@@ -153,6 +142,26 @@ Loss = **5400 J**, so the collision is inelastic.
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/a-level-oxfordaqa-physics-motion-and-newtons-laws--01-slope-forces.webp" width="900" height="840" alt="Free-body diagram of a 12 kg block on a 25 degree slope with arrows to scale. Weight 118 N acts down, the normal contact force 107 N is perpendicular to the slope and friction 18 N acts up the slope. Weight is resolved into mg sin 25 = 49.8 N down the slope and mg cos 25 = 107 N into it, giving a net 31.8 N and a = 2.6 m s-2." loading="lazy">
   <figcaption>The normal force is perpendicular to the slope, and the weight splits into components along and into it.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-oxfordaqa-physics-motion-and-newtons-laws--03-lift-tension.webp" width="900" height="900" alt="Three free-body diagrams of a 640 kg lift to one scale. Accelerating upward the tension is 7.0 kN, at constant speed 6.3 kN, and decelerating while moving up 5.5 kN, always against a weight of 6.3 kN. Net force is 0.77 kN up, zero, and 0.77 kN down." loading="lazy">
+  <figcaption>Tension is larger than weight when acceleration is upward and smaller when it is downward, T = m(g + a).</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-oxfordaqa-physics-motion-and-newtons-laws--05-momentum-change.webp" width="900" height="1090" alt="A ball hits a wall at 32 m s-1 and rebounds at 24 m s-1. Taking towards the wall as positive, the initial momentum is +1.824 and the final is -1.368 kg m s-1, so the change is -3.192. The velocity change is 56 m s-1, not 8. Over 4.5 ms the average force is 709 N away from the wall." loading="lazy">
+  <figcaption>Because momentum is a vector, a rebound changes it by the sum of the two sizes, and F = Δp/Δt gives the force.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-oxfordaqa-physics-motion-and-newtons-laws--06-impulse-area.webp" width="900" height="1140" alt="Two force-time graphs. A triangle rising to 800 N at 6 ms and falling to zero at 18 ms has area 7.2 N s, so a 0.16 kg ball leaves at 45 m s-1. Readings at 2 ms intervals are estimated with trapezium strips as 0.0020 x 1630 = 3.26 N s, about 20 m s-1." loading="lazy">
+  <figcaption>Impulse is the area under a force-time graph; use exact shapes for straight lines and strips for a curve.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-oxfordaqa-physics-motion-and-newtons-laws--07-collisions-1d.webp" width="900" height="1240" alt="Two one-dimensional collisions with bar charts. Gliders sticking together keep momentum 0.378 kg m s-1 but kinetic energy falls from 0.170 J to 0.102 J. Elastic trolleys keep both momentum (1.44) and kinetic energy (1.728 J), and the speeds of approach and separation are both 2.4 m s-1." loading="lazy">
+  <figcaption>Momentum is conserved in both kinds of collision; kinetic energy is conserved only if the collision is perfectly elastic.</figcaption>
 </figure>
 
 

@@ -125,6 +125,11 @@ Quick calculations (standard forms):
   <figcaption>Participation ranges from being asked for views to having a vote, so judge how real the influence is.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-business-human-resource-management--05-pay-methods.webp" width="900" height="1030" alt="Piece rate: 550 items at 0.80 pounds earns 440 pounds. Commission: 300 pound basic plus 4 percent of 12,500 pounds sales gives 300 plus 500, 800 pounds." loading="lazy">
+  <figcaption>Piece rate pays for output; commission adds a share of sales to a basic wage.</figcaption>
+</figure>
+
 
 ### Non-financial
 
@@ -155,6 +160,12 @@ Judge each by how real the influence is: being informed, being asked, or having 
 - Repetitive, short-term, low-paid work: piece rate or bonus can work, but watch quality.
 - Skilled, well-paid staff: autonomy, enrichment and development tend to matter more.
 - Always say why a method fits this workforce and what could stop it working.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-business-human-resource-management--06-vroom.webp" width="900" height="910" alt="Effort leads to performance, which leads to a reward. Motivation is high only if the person expects effort to produce performance and performance to produce a reward they value." loading="lazy">
+  <figcaption>Vroom: motivation depends on expecting effort to lead to a valued reward.</figcaption>
+</figure>
+
 
 ## 2.3.1 Management
 
@@ -207,6 +218,16 @@ These are a manager's beliefs, not facts about staff.
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/cambridge-a-level-business-motivation-and-management--05-sablecombe-productivity.webp" width="900" height="790" alt="Two bars show crates per worker on an 18-person packing line: 70 before and 84 after the new supervisor, a rise of 14 or 20 percent. A question mark warns that new equipment or season may explain part of the rise." loading="lazy">
   <figcaption>Output per worker rose 20%, but check the case before crediting the manager.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-people-in-business--05-leadership-styles.webp" width="900" height="1150" alt="Autocratic: arrows run only from leader to staff. Democratic: arrows run both ways between leader and staff. Laissez-faire: the leader is only faintly linked, and staff link with each other to decide." loading="lazy">
+  <figcaption>The three styles differ in who makes the decision.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-business-managers-leadership-decision-making--01-leadership-continuum.webp" width="900" height="870" alt="Four columns from autocratic to laissez-faire, each split into the share of the decision kept by the boss and given to the team: 90/10, 65/35, 35/65 and 10/90 (illustrative). Control passes from the boss to the team along the continuum." loading="lazy">
+  <figcaption>The four styles sit on one scale from boss-controlled to team-controlled.</figcaption>
 </figure>
 
 

@@ -165,6 +165,11 @@ Energy released = binding energy after the reaction − binding energy before it
 </figure>
 
 <figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-nuclear-physics--05-aphy-nuclear-log-graph.webp" width="900" height="990" alt="ln of corrected count rate against time is a straight line falling from 6.461 to 4.710 over 50 minutes. The gradient is -0.0350 per minute, so lambda = 0.0350 per minute and the half-life is 19.8 minutes." loading="lazy">
+  <figcaption>A straight ln graph supports the exponential law and its gradient is minus lambda.</figcaption>
+</figure>
+
+<figure class="topic-figure">
   <img src="https://img.marlbridge.com/a-physics-nuclear-physics--07-aphy-nuclear-binding-curve.webp" width="900" height="980" alt="Binding energy per nucleon rises steeply for light nuclei, peaks near iron-56 at about 8.8 MeV and falls slowly to about 7.6 MeV for uranium-235. Fusion of light nuclei and fission of heavy nuclei both move nuclei towards the peak and release energy: 17.6 MeV for deuterium plus tritium and about 184 MeV for a uranium-235 fission." loading="lazy">
   <figcaption>Both fusion and fission release energy because their products sit nearer the peak of the curve.</figcaption>
 </figure>

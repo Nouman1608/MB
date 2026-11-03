@@ -129,6 +129,12 @@ Reasons: pests eat crops, spread disease, or (weeds) compete for light, water an
 
 Worked reminder: 42 bubbles in 3 minutes gives a rate of 42 ÷ 3 = **14 bubbles per minute**. Bubbles vary in size, so a gas syringe is more accurate.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-respiration--04-yeast-temperature.webp" width="900" height="1195" alt="A boiling tube of yeast and glucose stands in a water bath; a delivery tube carries carbon dioxide into a small tube of water where bubbles are counted per minute. A graph of the lesson means shows 4, 9, 18, 11 and 1 bubbles per minute at 15, 25, 35, 45 and 55 degrees Celsius; the optimum lies somewhere between 25 and 45 degrees." loading="lazy">
+  <figcaption>Rate rises to a peak then falls as enzymes are denatured at high temperature.</figcaption>
+</figure>
+
+
 ### Yoghurt (5.7)
 
 1. Heat (pasteurise) milk to kill unwanted bacteria; cool.
@@ -153,6 +159,12 @@ Worked reminder: 42 bubbles in 3 minutes gives a rate of 42 ÷ 3 = **14 bubbles 
 | pH | Probe; add acid or alkali | Enzymes at optimum pH |
 | Oxygen | Sterile air pumped in | Aerobic respiration |
 | Agitation | Paddles | Even spread of microbes, nutrients, oxygen, heat |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-biotechnology-and-genetic-modification--05-fermenter.webp" width="900" height="1150" alt="Extended. A labelled fermenter: motor and paddles mix the contents; nutrients enter at the top and gas leaves; sterile air enters at the bottom; a water jacket with cold water in and warm water out removes heat from respiration; pH and temperature probes monitor conditions; product leaves at the bottom. Fermenters make insulin (GM bacteria), penicillin (Penicillium) and mycoprotein (Fusarium)." loading="lazy">
+  <figcaption>A fermenter controls temperature, pH, oxygen, nutrients and wastes so microorganisms make a product.</figcaption>
+</figure>
+
 
 ### Fish farming (5.9B) -- Paper 2 only
 
@@ -184,6 +196,12 @@ Worked reminder: 42 bubbles in 3 minutes gives a rate of 42 ÷ 3 = **14 bubbles 
 
 Plants: yield, disease resistance, short stems, drought tolerance. Animals: milk yield, meat, wool, egg production. Drawback: slow; less variation.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-variation-and-selection--07-selective-breeding.webp" width="900" height="1180" alt="A loop shows choosing the best plants, crossing them, and growing offspring and choosing the best, repeated for many generations. A line graph shows wheat yield rising over four rounds: 3.2, 3.5, 3.9, 4.3 tonnes per hectare, a 34.4% increase. Uses are higher yield and disease resistance in crops and more milk, meat and calmer temperament in animals." loading="lazy">
+  <figcaption>Choosing and crossing the best plants over many generations raises yield.</figcaption>
+</figure>
+
+
 ## 5(c) Genetic modification (5.12–5.16)
 
 | Term | Meaning |
@@ -211,6 +229,16 @@ Pest resistance, herbicide resistance, drought tolerance, improved nutritional v
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/edexcel-igcse-biology-4bi1-use-of-biological-resources--10-restriction-ligase.webp" width="900" height="1040" alt="DNA is drawn base by base. A restriction enzyme cuts at GAATTC leaving sticky ends, matching ends from another piece of DNA pair up, and ligase joins them into recombinant DNA." loading="lazy">
   <figcaption>Restriction enzymes cut DNA and ligase joins it.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-biotechnology-and-genetic-modification--06-gm-steps.webp" width="900" height="1260" alt="Extended. Six steps to make a human protein in bacteria. a: restriction enzymes cut out the human gene leaving sticky ends. b: the same enzymes cut a plasmid leaving complementary sticky ends. c: the gene is inserted and DNA ligase joins it, making a recombinant plasmid. d: plasmids are put into bacteria. e: bacteria multiply. f: bacteria make the human protein." loading="lazy">
+  <figcaption>Cut gene and plasmid with the same enzymes, join with ligase, put into bacteria, multiply, collect protein.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-biotechnology-and-genetic-modification--07-gm-examples.webp" width="900" height="1015" alt="Four examples: human insulin gene into bacteria so they make human insulin; herbicide resistance so the crop lives and weeds die; insect resistance in maize using a bacterial gene so pests die; rice that makes beta-carotene for vitamin A." loading="lazy">
+  <figcaption>GM moves a gene from one organism into another to give a useful new feature.</figcaption>
 </figure>
 
 

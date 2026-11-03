@@ -127,6 +127,12 @@ gaining or losing genetic material, so a nerve cell and a muscle cell in the sam
 same genes but express different subsets of them, producing very different structures suited to very
 different functions.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-cell-structure-and-microscopy-prokaryotes-eukaryotes--09-differentiation-hl.webp" width="900" height="960" alt="Every cell holds the same genes, shown as a row of eight. Chemical signals from neighbouring cells lead to different patterns of gene expression, so a muscle cell and a nerve cell have different genes switched on and off, but neither loses any gene." loading="lazy">
+  <figcaption>Differentiation is a different pattern of gene expression, not loss of genes.</figcaption>
+</figure>
+
+
 ## Gas exchange and transport
 
 Covers how organisms exchange gases with their environment and move substances internally, at scales
@@ -145,6 +151,11 @@ substances over the distances a given organism's body size requires.
   <figcaption>Surface properties and gradient-maintaining features are two separate lists.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-gas-exchange-surfaces-lungs-leaves-and-haemoglobin--02-exchange-surface.webp" width="900" height="740" alt="A thin, wavy, moist wall separates fresh ventilated air from flowing blood. Oxygen is plentiful in the air and scarce in the blood, carbon dioxide the reverse, so oxygen diffuses in and carbon dioxide out. Labels mark permeable, thin (one cell), moist film and large area." loading="lazy">
+  <figcaption>Ventilation and blood flow keep both gradients steep across a thin, moist, permeable, large-area surface.</figcaption>
+</figure>
+
 
 ## Muscle and motility (HL only)
 
@@ -153,6 +164,12 @@ and builds directly on Proteins (contractile proteins' structure enabling the sl
 mechanism) and Membranes (ion movement across membranes triggering contraction) -- revising Muscle and
 motility in isolation from those two earlier sub-topics leaves genuine gaps in understanding the
 underlying mechanism.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-muscle-and-motility-sliding-filaments-joints-and--01-sarcomere-sliding.webp" width="900" height="1170" alt="A relaxed sarcomere (2.4 micrometres) is drawn above a contracted one (1.8 micrometres) with thick myosin and thin actin filaments, Z lines and A, I and H bands marked. The A band stays 1.6 micrometres, the I band falls from 0.8 to 0.2 micrometres (75%) and the H zone disappears, so filaments slide rather than shorten." loading="lazy">
+  <figcaption>Filaments keep their length and slide past each other, so the overlap increases and the Z lines move closer.</figcaption>
+</figure>
+
 
 ## Adaptation to environment and ecological niches
 
@@ -165,6 +182,11 @@ in general terms disconnected from a specific environmental pressure.
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/ib-dp-biology-theme-b-form-function--04-adaptation-chain.webp" width="900" height="870" alt="A chain runs from desert (water scarce) to reduced leaf surface area to less water lost by transpiration. Bars with illustrative numbers show 100 units for a large leaf and 40 for a reduced leaf." loading="lazy">
   <figcaption>Explain an adaptation by linking a named feature to a named environmental pressure.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-adaptation-to-environment-abiotic-factors-tolerance--01-marram.webp" width="900" height="1080" alt="Top: a marram leaf cross-section rolled inwards, with a thick waxy cuticle on the outside and sunken stomata with hairs in grooves on the inside, around a humid air pocket so little vapour escapes. Bottom: the plant in sand with very long roots, rhizomes and growth up through buried sand." loading="lazy">
+  <figcaption>A rolled leaf traps humid air by the stomata, and roots, rhizomes and upward growth cope with dry, shifting sand.</figcaption>
 </figure>
 
 

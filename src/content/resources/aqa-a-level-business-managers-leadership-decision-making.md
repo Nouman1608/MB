@@ -62,12 +62,6 @@ conflict of different stakeholder needs; how to manage relationships
 with different stakeholders, including through communication and
 consultation
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/aqa-a-level-business-managers-leadership-decision-making--01-leadership-continuum.webp" width="900" height="870" alt="Four columns from autocratic to laissez-faire, each split into the share of the decision kept by the boss and given to the team: 90/10, 65/35, 35/65 and 10/90 (illustrative). Control passes from the boss to the team along the continuum." loading="lazy">
-  <figcaption>The four styles sit on one scale from boss-controlled to team-controlled.</figcaption>
-</figure>
-
-
 ## How to approach it
 
 This sub-topic (3.2.1) puts an explicit focus on **the distinction
@@ -101,6 +95,11 @@ influence the business) and interest (how much the decision affects
 them), since this two-dimensional mapping is exactly what the
 specification names and is a common way exam questions frame a
 stakeholder-management question.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-business-managers-leadership-decision-making--01-leadership-continuum.webp" width="900" height="870" alt="Four columns from autocratic to laissez-faire, each split into the share of the decision kept by the boss and given to the team: 90/10, 65/35, 35/65 and 10/90 (illustrative). Control passes from the boss to the team along the continuum." loading="lazy">
+  <figcaption>The four styles sit on one scale from boss-controlled to team-controlled.</figcaption>
+</figure>
 
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/aqa-a-level-business-managers-leadership-decision-making--05-stakeholder-map.webp" width="900" height="990" alt="A power-interest grid. Planning authority is high power, high interest (manage closely); shareholders high power and moderate interest; residents low power, high interest (keep informed), with an arrow showing their power rising if they campaign." loading="lazy">

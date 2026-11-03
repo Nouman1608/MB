@@ -59,11 +59,6 @@ The model in one line: **cations fixed in a lattice, held together by a mobile c
   <figcaption>Mobile delocalized electrons carry charge and energy; the cations do not move.</figcaption>
 </figure>
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ib-dp-chemistry-the-metallic-model--03-malleability.webp" width="900" height="910" alt="In a metal, a layer of cations slides one position and each cation is still surrounded by the electron cloud, so the metal bends. In an ionic solid the same slide puts three pairs of like-charged ions face to face; they repel and the crystal cracks." loading="lazy">
-  <figcaption>Non-directional metallic bonding lets layers slide, whereas the same slide in an ionic solid brings like charges together.</figcaption>
-</figure>
-
 
 ## Structure 2.3.2: strength of the metallic bond
 
@@ -183,6 +178,11 @@ For p-block metals such as aluminium, apply the same two factors: Al³⁺ has th
 10. 302 − 273 = **29 °C**.
 11. Their 3d electrons, as well as their 4s electrons, can be delocalized, giving a higher electron density and stronger attraction to small, highly charged cations.
 12. Both 4s electrons and the 3d electrons (valence configuration 3d² 4s²).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-the-metallic-model--03-malleability.webp" width="900" height="910" alt="In a metal, a layer of cations slides one position and each cation is still surrounded by the electron cloud, so the metal bends. In an ionic solid the same slide puts three pairs of like-charged ions face to face; they repel and the crystal cracks." loading="lazy">
+  <figcaption>Non-directional metallic bonding lets layers slide, whereas the same slide in an ionic solid brings like charges together.</figcaption>
+</figure>
 
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/ib-dp-chemistry-the-metallic-model--05-electron-density.webp" width="900" height="900" alt="Each square stands for 1 x 10^22 delocalized electrons. 1.00 cm3 of potassium holds 1.37 squares (1.37 x 10^22 atoms, one electron each); 1.00 cm3 of calcium holds 4.66 squares (2.33 x 10^22 atoms, two electrons each), about 3.4 times as many." loading="lazy">

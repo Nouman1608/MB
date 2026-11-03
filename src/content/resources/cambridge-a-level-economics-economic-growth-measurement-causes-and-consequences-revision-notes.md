@@ -181,6 +181,11 @@ Evaluation prompts: the source of growth, per capita or total, who gains, the ti
   <figcaption>Each area of growth has a possible benefit and a possible cost.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-economics-measurement-of-macroeconomic-performance--02-growth-vs-current-account.webp" width="900" height="1040" alt="A four-step chain: growth policy raises aggregate demand, incomes rise, some spending goes on imports, and the current account worsens. Bars show exports 100 and imports rising from 100 to 118, a deficit of 18." loading="lazy">
+  <figcaption>Growth policy can raise imports faster than exports, creating a short-run conflict.</figcaption>
+</figure>
+
 
 ## Worked reminder 7: comparing two economies
 

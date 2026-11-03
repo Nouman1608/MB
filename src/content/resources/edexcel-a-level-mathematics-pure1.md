@@ -274,6 +274,16 @@ Check that the midpoint lies on the line: 3(2) − 2(4) + 2 = 6 − 8 + 2 = 0.
   <figcaption>Equal gradients AB and BC with a shared point show three points are collinear.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-coordinate-geometry--07-perpendicular-bisector.webp" width="900" height="1050" alt="AB joins (-3, 8) and (9, -2) with gradient -5/6. The bisector has gradient 6/5 and passes through M (3, 3), giving y = 6/5 x - 3/5." loading="lazy">
+  <figcaption>Combine gradient, perpendicular rule, midpoint and y = mx + c.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-maths-4ma1-vectors-and-transformation-geometry--07-vec-proof-collinear.webp" width="900" height="1010" alt="Triangle OAB is drawn with a = (3,1), b = (1,4). N divides AB in ratio 1:2 and ON = (1/3)(2a + b). D has OD = 2a + b = 3 ON, so O, N and D are on one line with ON : ND = 1 : 2." loading="lazy">
+  <figcaption>OD is a multiple of ON and both start at O, so O, N and D are collinear.</figcaption>
+</figure>
+
 
 ## Common errors
 

@@ -213,6 +213,12 @@ Place covers how the product reaches the customer through distribution channels.
 
 Match the channel to the product: a luxury item may need a controlled channel to protect its image, while a low-price item needs wide availability.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-marketing--06-distribution-channels.webp" width="900" height="1060" alt="Three routes from producer to consumer: via wholesaler then retailer, via retailer only, or direct. Longer chains reach many shops but add cost; the direct route keeps the whole margin but means doing the selling yourself." loading="lazy">
+  <figcaption>Channels of distribution from producer to consumer.</figcaption>
+</figure>
+
+
 ## The three service Ps
 
 A service is intangible, produced and consumed together, and varies with who delivers it. That is why the guide asks for the three extra Ps in a service context.
@@ -240,6 +246,12 @@ The guide ends with the judgement that matters most. There is no best mix, only 
 | Local dental studio | Emphasis on people, processes and physical evidence; modest promotion |
 
 A mix is inconsistent if, for example, a premium price is paired with sale-bin distribution. State the link between Ps explicitly.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-business-business-activity-marketing-and-people--05-mix-consistency.webp" width="900" height="930" alt="Two sets of price, packaging and retailer sliders. Consistent: all at premium. Inconsistent: premium price with budget packaging and retailer." loading="lazy">
+  <figcaption>The marketing mix must be consistent: a premium price with poor packaging and discount retailers fails.</figcaption>
+</figure>
+
 
 ## Common errors
 

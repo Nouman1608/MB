@@ -182,17 +182,6 @@ Always finish by saying which side is larger for the stakeholder named in the qu
 - Offshoring payback: payback (years) = set-up cost ÷ annual saving. Landed cost per unit = unit cost + tariff + shipping.
 - International influences appear in the lists of external influences on marketing, operations, finance and people.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ocr-a-level-business-the-global-environment-of-business--03-mossbarrow-offshoring.webp" width="900" height="1040" alt="UK unit cost 18.00 pounds against offshore landed cost 14.28 (11.00 plus 0.88 tariff plus 2.40 shipping), a saving of 3.72 a unit, 148,800 pounds a year at 40,000 units. The 90,000 pound set-up cost is repaid in 0.60 years, about 7.3 months." loading="lazy">
-  <figcaption>Landed cost, annual saving and payback for Mossbarrow Stationery.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/aqa-gcse-business-globalisation-and-legislation--07-globalisation-four-functions.webp" width="900" height="880" alt="A plus (bigger market, cheaper parts, new ideas) and a minus (foreign rivals, longer chains, currency risk), then four cards: operations (longer supply chains), human resources (cheaper rivals, language skills), marketing (adapt per country) and finance (shipping costs, other currencies)." loading="lazy">
-  <figcaption>Globalisation brings opportunity and risk to each functional area.</figcaption>
-</figure>
-
-
 ## Quick self-test
 
 1. Define globalisation.
@@ -224,8 +213,18 @@ Always finish by saying which side is larger for the stakeholder named in the qu
 12. 125 × 1.08 = £135.
 
 <figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-business-the-global-environment-of-business--03-mossbarrow-offshoring.webp" width="900" height="1040" alt="UK unit cost 18.00 pounds against offshore landed cost 14.28 (11.00 plus 0.88 tariff plus 2.40 shipping), a saving of 3.72 a unit, 148,800 pounds a year at 40,000 units. The 90,000 pound set-up cost is repaid in 0.60 years, about 7.3 months." loading="lazy">
+  <figcaption>Landed cost, annual saving and payback for Mossbarrow Stationery.</figcaption>
+</figure>
+
+<figure class="topic-figure">
   <img src="https://img.marlbridge.com/ocr-a-level-business-the-global-environment-of-business--06-trend-or-plan.webp" width="900" height="1100" alt="Globalisation is a trend that draws many firms into tighter links with nobody in control. A global strategy is one firm's own plan to compete in several markets. A firm with no plan can still be hit, for example by an overseas rival." loading="lazy">
   <figcaption>Globalisation is a trend; a global strategy is a firm's plan.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-business-globalisation-and-legislation--07-globalisation-four-functions.webp" width="900" height="880" alt="A plus (bigger market, cheaper parts, new ideas) and a minus (foreign rivals, longer chains, currency risk), then four cards: operations (longer supply chains), human resources (cheaper rivals, language skills), marketing (adapt per country) and finance (shipping costs, other currencies)." loading="lazy">
+  <figcaption>Globalisation brings opportunity and risk to each functional area.</figcaption>
 </figure>
 
 

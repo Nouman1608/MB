@@ -82,6 +82,12 @@ Think of wavefronts. If a wave meets a boundary at an angle, one end of each wav
 
 The **normal** is a line at 90° to the surface at the point where the ray hits. All angles are measured from the normal, never from the surface.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-physics-8463-waves--03-wavefronts-refraction.webp" width="900" height="920" alt="Wave fronts arrive at a slant at an air-glass boundary. The end of each front entering glass first slows first, so the fronts turn. In glass the wave fronts are closer together (shorter wavelength) and the ray bends towards the normal." loading="lazy">
+  <figcaption>Refraction happens because the wave slows in glass: the wave fronts bunch up and turn.</figcaption>
+</figure>
+
+
 ### Worked example 1: wavelength in glass
 
 Red light has frequency 4.8 × 10¹⁴ Hz. Its speed in air is 3.00 × 10⁸ m/s. In a block of glass its speed is 2.0 × 10⁸ m/s. Find its wavelength in air and in the glass.
@@ -240,6 +246,11 @@ The specification's practical suggestions include investigating how a convex len
   <figcaption>A concave lens only ever makes a virtual, upright, smaller image.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-physics-lenses-image-formation-and-the-eye--11-sight-defects.webp" width="900" height="1000" alt="Four schematic eyes in two rows. Long sight: rays from a near object focus behind the retina, and a convex lens in front of the eye brings them to a focus on the retina. Short sight: parallel rays from a distant object focus in front of the retina, and a concave lens in front of the eye moves the focus back onto the retina." loading="lazy">
+  <figcaption>A convex lens corrects long sight and a concave lens corrects short sight.</figcaption>
+</figure>
+
 
 ## P5.3e: colour (Higher Tier only)
 
@@ -271,6 +282,11 @@ Ordinary coloured objects scatter their colour. A glossy surface also gives a sp
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/ocr-gcse-physics-reflection-refraction-lenses-and-colour--07-filters-and-colour.webp" width="900" height="1010" alt="Primary colours as red, green and blue bars. A red filter leaves red; magenta leaves red and blue; red then green leaves nothing; green light on a red book is absorbed so it looks black." loading="lazy">
   <figcaption>Filters and objects only remove colours from the light; they never add any.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-physics-8463-waves--02-reflection-specular-diffuse.webp" width="900" height="925" alt="A smooth surface reflects parallel rays in one direction, each leaving at the same angle from the normal as it arrived (40 degrees). A rough surface is made of tiny faces tilted differently; each ray still obeys angle in equals angle out at its face, but the rays scatter." loading="lazy">
+  <figcaption>Smooth surfaces give specular reflection and rough surfaces give diffuse reflection; both obey the law of reflection.</figcaption>
 </figure>
 
 

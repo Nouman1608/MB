@@ -37,12 +37,6 @@ These notes condense section 5.2 (Cash-flow forecasting and working capital) of 
 | Overdraft | Bank permission to spend more than is in the account, up to a limit |
 | Working capital | Current assets minus current liabilities (the standard form) |
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/oxfordaqa-a-level-business-finance--06-cash-flow-forecast.webp" width="900" height="1110" alt="Paired bars show cash in and cash out for three months, with closing balances 1,300, (1,300) and 1,500. Each opening balance is the previous closing balance; month 2 is overdrawn by 1,300." loading="lazy">
-  <figcaption>A business can run out of cash in a month even when it trades well overall.</figcaption>
-</figure>
-
-
 ## Why cash is important
 
 - Pays wages, suppliers, bills, loan repayments and tax on time.
@@ -207,6 +201,12 @@ Quick check: inventories 9,000, receivables 3,000, cash 500; payables 4,000, ove
 10. **No change**: receivables fall by 1,000 and cash rises by 1,000.
 11. Sales or costs were estimated wrongly; or an unexpected event, such as a late-paying customer.
 12. Customers have not yet paid for credit sales, or cash has been spent on stock or equipment, so there is not enough cash for bills even though profit is shown.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-business-finance--06-cash-flow-forecast.webp" width="900" height="1110" alt="Paired bars show cash in and cash out for three months, with closing balances 1,300, (1,300) and 1,500. Each opening balance is the previous closing balance; month 2 is overdrawn by 1,300." loading="lazy">
+  <figcaption>A business can run out of cash in a month even when it trades well overall.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

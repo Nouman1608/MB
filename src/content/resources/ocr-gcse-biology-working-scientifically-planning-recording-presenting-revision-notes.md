@@ -239,6 +239,12 @@ A conclusion refers to the data, matches the hypothesis, and goes no further tha
 - Concluding that one variable causes another from correlation alone.
 - Giving an improvement such as "be more careful" instead of a specific change.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-working-scientifically-planning-recording-presenting--03-accuracy-precision.webp" width="900" height="930" alt="Dot plot on a number line from 9.5 to 12.0 cm3 with a dashed true value at 10.0. Student A (10.1, 9.9, 10.0) is close together and centred on 10.0. Student B (11.4, 11.5, 11.4) is close together but about 1.4 higher every time: a systematic error." loading="lazy">
+  <figcaption>Precise means close together; accurate means close to the true value.</figcaption>
+</figure>
+
+
 ## Official syllabus
 
 OCR GCSE (9-1) Gateway Science Biology A (J247), Version 4.0 (August 2026), first assessment 2018, published by OCR: section 5e Working scientifically (statements 1.2, 1.3, 1.4 and 2a to 2d), section 5f mathematical skills, and Topic B7 Practical skills.

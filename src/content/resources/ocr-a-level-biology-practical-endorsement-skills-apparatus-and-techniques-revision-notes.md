@@ -59,6 +59,17 @@ These notes condense sections 1.2.1 and 1.2.2 of OCR A Level Biology A (H420, sp
 | (k) | Fieldwork | random or systematic |
 | (l) | ICT | logger, modelling, spreadsheet |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-biology-practical-endorsement-skills-apparatus-and-techniques--02-potometer-rate.webp" width="900" height="840" alt="A potometer capillary with a bubble that moves 42 mm toward the cut shoot in 5.0 minutes. With radius 0.50 mm the volume is about 33 mm³, so the rate is 6.6 mm³ per minute, or 0.14 mm³ per cm² per minute for a 48 cm² leaf area." loading="lazy">
+  <figcaption>Volume of water taken up is pi r squared times the distance the bubble moves, then divide by time.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-biology-practical-endorsement-skills-apparatus-and-techniques--04-serial-dilution.webp" width="900" height="920" alt="Four tubes show a doubling dilution from 1.0 to 0.50, 0.25 and 0.125 mol dm⁻³, moving 5 cm³ and adding 5 cm³ water each time. A bar shows 10 cm³ of stock plus 40 cm³ of water makes 50 cm³ of 0.20." loading="lazy">
+  <figcaption>A serial dilution uses the same factor at every step.</figcaption>
+</figure>
+
+
 ## Formulas
 
 | Quantity | Formula |
@@ -74,12 +85,6 @@ These notes condense sections 1.2.1 and 1.2.2 of OCR A Level Biology A (H420, sp
 
 Rearrangements matter: actual size = image size / magnification. An image of 45 mm at ×1500 is 45 / 1500 = 0.030 mm = 30 µm.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ocr-a-level-biology-practical-endorsement-skills-apparatus-and-techniques--06-chromatography-rf.webp" width="900" height="980" alt="A chromatography strip stands in solvent below a pencil baseline. The solvent front is 9.5 cm from the baseline and spots at 2.85, 5.70 and 7.60 cm give Rf values 0.30, 0.60 and 0.80. Rf has no units." loading="lazy">
-  <figcaption>Rf is the spot distance divided by the solvent front distance, both from the baseline.</figcaption>
-</figure>
-
-
 ## Reagent results
 
 | Test | Positive result |
@@ -93,6 +98,11 @@ Rearrangements matter: actual size = image size / magnification. An image of 45 
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/ocr-a-level-biology-practical-endorsement-skills-apparatus-and-techniques--08-non-reducing-sugar-test.webp" width="900" height="1020" alt="Three tubes: Benedict test stays blue; after acid boil and neutralising it is colourless; Benedict again gives brick red, so non-reducing sugar. Positive colours for reducing sugar, starch, protein and lipid are shown below." loading="lazy">
   <figcaption>A non-reducing sugar only gives a Benedict colour change after acid hydrolysis and neutralising.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-biological-molecules--03-colour-tests.webp" width="900" height="1030" alt="Test tubes before and after. Iodine: orange-brown if starch absent, blue-black if present, no heat. Benedict’s: blue if absent; green, yellow, orange then brick-red as more reducing sugar is present; heat at about 80 degrees Celsius. Biuret: blue if protein absent, purple if present, no heat." loading="lazy">
+  <figcaption>Compare the colour before and after to read each test.</figcaption>
 </figure>
 
 
@@ -142,6 +152,22 @@ Rearrangements matter: actual size = image size / magnification. An image of 45 
 5. Reset the bubble with the reservoir between runs.
 
 *Reminder.* Radius 0.35 mm, bubble moves 30 mm in 4.0 min: volume = π × 0.35² × 30 = 11.5 mm³; rate = 2.9 mm³ per minute.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-biology-practical-endorsement-skills-apparatus-and-techniques--03-graticule-magnification.webp" width="900" height="1060" alt="Rulers show 20 graticule divisions spanning 100 µm at x10 (5.0 µm each) and 80 divisions at x40 (1.25 µm each). A cell 14 divisions long at x40 is 17.5 µm. A drawing 52.5 mm long gives magnification 52.5 / 0.0175 = x3000." loading="lazy">
+  <figcaption>Calibrate the graticule for each objective, then convert and use consistent units for magnification.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-biology-practical-endorsement-skills-apparatus-and-techniques--05-colony-count.webp" width="900" height="830" alt="A tenfold series (1 cm³ plus 9 cm³ diluent) reaches 10⁻⁴. 0.1 cm³ spread on agar gives 36 colonies, so 360 per cm³ in the diluted sample and 3.6 x 10⁶ per cm³ in the original culture." loading="lazy">
+  <figcaption>Divide the colony count by the volume plated, then by the dilution factor.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-biology-practical-endorsement-skills-apparatus-and-techniques--06-chromatography-rf.webp" width="900" height="980" alt="A chromatography strip stands in solvent below a pencil baseline. The solvent front is 9.5 cm from the baseline and spots at 2.85, 5.70 and 7.60 cm give Rf values 0.30, 0.60 and 0.80. Rf has no units." loading="lazy">
+  <figcaption>Rf is the spot distance divided by the solvent front distance, both from the baseline.</figcaption>
+</figure>
+
 
 ## Colorimetry and ICT
 
@@ -197,6 +223,11 @@ Mark–recapture assumptions: population closed, marks last and cause no harm, m
   <figcaption>The marked fraction in the second catch estimates the marked fraction of the whole population.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-classification-biodiversity-and-conservation--04-sampling-methods.webp" width="900" height="1070" alt="Three fields show quadrat placement. Random quadrats are scattered by coordinates from two tapes. A transect has quadrats at equal intervals from path to woodland. Stratified sampling puts 14 quadrats in grass and 6 in a hollow, matching 70% and 30% of the area." loading="lazy">
+  <figcaption>Random avoids bias, transects show change along a gradient, and stratified samples each area in proportion.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 
@@ -233,6 +264,12 @@ Mark–recapture assumptions: population closed, marks last and cause no harm, m
 8. Its phosphate groups are negatively charged.
 9. Condensation collects in the lid, not on the agar surface.
 10. 15 / 10 = **1.5 °C per minute**.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-biology-practical-endorsement-skills-apparatus-and-techniques--10-antibiotic-disc-zones.webp" width="900" height="1050" alt="A Petri dish with a bacterial lawn and discs with clear zones of radius 9 mm (A) and 6 mm (B) and a control disc with none. Areas are 254 and 113 mm2, so A clears 2.25 times the area." loading="lazy">
+  <figcaption>Compare clear zones by area (pi r squared), with a no-antibiotic disc as the control.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

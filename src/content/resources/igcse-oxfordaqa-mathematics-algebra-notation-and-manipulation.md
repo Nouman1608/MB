@@ -65,13 +65,8 @@ equivalent, and using algebra to support and construct arguments
 (Extension: to include proofs)
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-oxfordaqa-mathematics-algebra-notation-and-manipulation--06-identity-vs-equation.webp" width="900" height="1180" alt="The graphs of (x + 2)(x + 3) and x squared + 5x + 6 coincide everywhere, an identity. The curve x squared + 5x + 6 meets y = 12 only at x = -6 and x = 1, so that equation is true only for those values." loading="lazy">
-  <figcaption>An identity is true for every x; an equation is true only for particular values.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-oxfordaqa-mathematics-algebra-notation-and-manipulation--01-change-subject-twice.webp" width="900" height="1286" alt="A five-step worked example making x the subject of y = (2x + 1)/(x - 3). Multiply out, expand, collect the x terms on one side, factorise to take x out, then divide to get x = (3y + 1)/(y - 2). Terms containing x are teal. A check with x = 5 confirms it." loading="lazy">
-  <figcaption>When the subject appears twice, collect its terms on one side and factorise.</figcaption>
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-introduction-to-algebra-and-manipulation--03-collect-like-terms.webp" width="900" height="800" alt="Tiles for 4x^2 - 3xy + 7 - x^2 + 5xy - 9 are sorted into x^2, xy and number bins. Added and taken-away tiles leave 3x^2, 2xy and -2, so the answer is 3x^2 + 2xy - 2." loading="lazy">
+  <figcaption>Only like terms combine: x^2 tiles with x^2, xy with xy, numbers with numbers.</figcaption>
 </figure>
 
 
@@ -99,6 +94,22 @@ mentally is faster than keying it in, so practise the multiplication
 law (add the powers), the division law (subtract the powers) and, on
 the Extension tier, fractional powers (a rational power represents a
 root) until they are automatic.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-powers-roots-and-indices--04-index-rules-tiles.webp" width="900" height="976" alt="Tiles show 2^3 x 2^4 as 7 factors (2^7 = 128), (3^2)^4 as 4 groups of 2 factors (3^8), and 2^4 / 2^7 with 4 pairs cancelling leaving 3 below (2^-3 = 1/8). The rules need the same base." loading="lazy">
+  <figcaption>Counting factors explains add, multiply and subtract for indices.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-algebraic-fractions-and-indices-ii--04-fractional-index.webp" width="900" height="1060" alt="64 is a 4 by 4 by 4 cube, so its cube root is 4; squaring gives 16, so 64^(2/3)=16 and 64^(-2/3)=1/16." loading="lazy">
+  <figcaption>Take the root first, then the power; a negative index means one over.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-mathematics-use-of-symbols-and-algebraic-manipulation--03-expand-three-brackets.webp" width="900" height="880" alt="An area grid multiplies x squared + 5x + 6 by (x - 1): the cells x cubed, 5x squared, 6x, minus x squared, minus 5x and minus 6 collect to x cubed + 4x squared + x - 6. Check at x = 2 gives 20 both ways." loading="lazy">
+  <figcaption>Expand two brackets first, then multiply the result by the third.</figcaption>
+</figure>
+
 
 ## Worked example: expand then factorise
 
@@ -137,12 +148,6 @@ factors -- for example, attempting to cancel an 'x' that appears added
 within an expression rather than multiplied as a genuine common factor,
 which is not mathematically valid.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-mathematics-0580-introduction-to-algebra-and-manipulation--05-factorise-hcf.webp" width="900" height="790" alt="The three terms are cells of a rectangle of height 4xy, the HCF. Dividing each by 4xy gives widths 2x, 3y and -1, so the answer is 4xy(2x + 3y - 1)." loading="lazy">
-  <figcaption>Factorising is expanding in reverse: take out the highest common factor.</figcaption>
-</figure>
-
-
 ## Quick revision checklist
 
 - When cancelling algebraic fractions, cancel common multiplicative factors only, never additive terms.
@@ -153,6 +158,22 @@ directions to self-check.
 - Drill the index laws without a calculator until automatic.
 - Keep expressions, equations, formulae and identities as distinct,
 correctly-used terms.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-mathematics-algebra-notation-and-manipulation--06-identity-vs-equation.webp" width="900" height="1180" alt="The graphs of (x + 2)(x + 3) and x squared + 5x + 6 coincide everywhere, an identity. The curve x squared + 5x + 6 meets y = 12 only at x = -6 and x = 1, so that equation is true only for those values." loading="lazy">
+  <figcaption>An identity is true for every x; an equation is true only for particular values.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-introduction-to-algebra-and-manipulation--05-factorise-hcf.webp" width="900" height="790" alt="The three terms are cells of a rectangle of height 4xy, the HCF. Dividing each by 4xy gives widths 2x, 3y and -1, so the answer is 4xy(2x + 3y - 1)." loading="lazy">
+  <figcaption>Factorising is expanding in reverse: take out the highest common factor.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/algebraic-manipulation--05-cancel-factors-graph.webp" width="900" height="1060" alt="The fraction factorises to x(x minus 2) over (x minus 2)(x minus 3), which cancels to x over (x minus 3), x not 2 or 3. The graph of x over (x minus 3) has dashed lines at x = 3 and y = 1; the original fraction has the same graph with an open circle gap at (2, minus 2)." loading="lazy">
+  <figcaption>Cancelling a common factor gives the same graph, except the original has a gap where the factor was zero.</figcaption>
+</figure>
+
 
 ## Worked example: algebraic fractions
 
@@ -179,8 +200,24 @@ several of them at once is what a strong answer actually requires.
   <figcaption>Rewrite over the common denominator, then combine numerators carefully.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-algebraic-fractions-and-indices-ii--05-cancel-algebraic-fraction.webp" width="900" height="1130" alt="(2x^2+5x-3)/(4x^2-1) factorises to (2x-1)(x+3) over (2x-1)(2x+1); cancelling (2x-1) leaves (x+3)/(2x+1), checked at x=5 as 8/11. Terms that are added, such as x^2 in (x^2+3)/(x^2-1), cannot be cancelled." loading="lazy">
+  <figcaption>Factorise, then cancel whole brackets only.</figcaption>
+</figure>
+
 
 ## Official syllabus
 
 OxfordAQA International GCSE Mathematics (9260) specification, Version
 5.1 — [oxfordaqa.com](https://www.oxfordaqa.com/wp-content/uploads/2022/06/oxfordaqa-gcse-mathematics-specification.pdf).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-mathematics-algebra-notation-and-manipulation--01-change-subject-twice.webp" width="900" height="1286" alt="A five-step worked example making x the subject of y = (2x + 1)/(x - 3). Multiply out, expand, collect the x terms on one side, factorise to take x out, then divide to get x = (3y + 1)/(y - 2). Terms containing x are teal. A check with x = 5 confirms it." loading="lazy">
+  <figcaption>When the subject appears twice, collect its terms on one side and factorise.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-mathematics-use-of-symbols-and-algebraic-manipulation--04-factorise-ax2-split.webp" width="900" height="880" alt="Product 6 x (-6) = -36 and sum -5 give -9 and +4, so 6x squared - 5x - 6 splits into 6x squared - 9x + 4x - 6, which fills a grid with columns 2x and -3 and rows 3x and +2. It factorises to (3x + 2)(2x - 3)." loading="lazy">
+  <figcaption>When a is not 1, multiply a by c and split the middle term.</figcaption>
+</figure>
+

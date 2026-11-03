@@ -171,12 +171,6 @@ Reasons to hold inventory: unexpected demand, late deliveries, bulk discounts, s
 - Supply chain issues: delays and shortages halt production and hurt reputation.
 - **Transparency** (knowing where inputs come from) and **third-party accreditation** (independent certification of suppliers) support ethical claims and protect reputation.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/oxfordaqa-a-level-business-finance--09-inventory-control.webp" width="900" height="870" alt="Inventory falls 150 tins a week from the maximum 1,100. At week 4 it hits the re-order level of 500 and 900 tins are ordered; after the 2-week lead time it reaches the buffer of 200 and delivery lifts it to 1,100." loading="lazy">
-  <figcaption>Re-order level is buffer plus usage during lead time; re-order quantity is maximum minus buffer.</figcaption>
-</figure>
-
-
 ## Quick self-test
 
 1. Define capacity.
@@ -202,6 +196,12 @@ Reasons to hold inventory: unexpected demand, late deliveries, bulk discounts, s
 8. **Just in Time, Kaizen, standardised processes, teamwork.**
 9. Quality control inspects finished output to find faults; quality assurance builds checks into every stage to prevent them.
 10. 7,560 ÷ 18 = **420 units per employee per month**.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-business-finance--09-inventory-control.webp" width="900" height="870" alt="Inventory falls 150 tins a week from the maximum 1,100. At week 4 it hits the re-order level of 500 and 900 tins are ordered; after the 2-week lead time it reaches the buffer of 200 and delivery lifts it to 1,100." loading="lazy">
+  <figcaption>Re-order level is buffer plus usage during lead time; re-order quantity is maximum minus buffer.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

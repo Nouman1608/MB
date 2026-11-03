@@ -207,6 +207,21 @@ External growth is fast and can win market share or a supply, but it costs money
   <figcaption>Farrowdale grows output from 8,000 to 10,200 jars a month, which is 27.5% organic growth.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-business-business-activity-marketing-and-people--03-external-growth-types.webp" width="900" height="1070" alt="Three rows: horizontal (bakery + bakery), vertical (bakery + shop) and diversification (bakery + gym), each ending in one merged firm." loading="lazy">
+  <figcaption>External growth combines with another business: horizontal, vertical or diversification.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/enterprise-business-growth-and-size--04-internal-external-growth.webp" width="900" height="940" alt="Internal (organic) growth means one firm builds on its own operations, for example new branches, products or markets. External growth means combining with another business through a merger or takeover to form one bigger firm." loading="lazy">
+  <figcaption>Internal growth builds on existing operations; external growth combines two businesses.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-business-business-in-the-real-world--05-growth-speed-control.webp" width="900" height="990" alt="Two routes to growth on five-step scales. Organic growth (new stores, e-commerce, franchising) is slower but owners keep full control. External growth (merger or takeover) is faster but brings integration challenges and can dilute control." loading="lazy">
+  <figcaption>Organic growth is slower but controlled; external growth is faster but harder to integrate.</figcaption>
+</figure>
+
 
 ## How to answer section 1 questions
 

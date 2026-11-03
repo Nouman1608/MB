@@ -61,6 +61,12 @@ The ranges below are approximate values for the examples on this page. In a ques
 
 Chemical shift is measured in ppm from a reference compound, tetramethylsilane (TMS), which is set at δ = 0. The more electronegative atoms near a nucleus, the higher its δ value tends to be.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-nuclear-magnetic-resonance-spectroscopy--05-nmr-ester-shift.webp" width="900" height="1000" alt="Ethyl ethanoate and methyl propanoate both give singlet 3H, quartet 2H, triplet 3H; shift of the group bonded to O decides." loading="lazy">
+  <figcaption>Both esters show a singlet, quartet and triplet, but only chemical shift shows which group is bonded to oxygen.</figcaption>
+</figure>
+
+
 ## 15.17 Accurate relative molecular mass
 
 In Topic 10D the molecular ion gave a whole-number Mr, which many formulae share. A high resolution mass spectrometer measures m/z to four decimal places. Atomic masses are not exact whole numbers, so each formula has its own accurate mass.
@@ -172,6 +178,11 @@ This separates the isomers from worked example 2: heptan-2-one, for instance, wo
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/aqa-a-level-chemistry-nuclear-magnetic-resonance-spectroscopy--04-nmr-integration.webp" width="900" height="990" alt="Pentan-3-one with its spectrum: quartet at 2.4 and triplet at 1.1 with an integration trace of 32 mm and 48 mm. Ratio 2:3 doubles to 4 H and 6 H." loading="lazy">
   <figcaption>Integration step heights 32:48 = 2:3, scaled to 10 H gives 4 H and 6 H (pentan-3-one).</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-nuclear-magnetic-resonance-spectroscopy--09-combine-butanone.webp" width="900" height="1080" alt="Four mini spectra for compound C: M+ 72, IR C=O 1715 with no O-H, four 13C peaks including 209, and a quartet, singlet and triplet in the 1H spectrum, leading to butanone." loading="lazy">
+  <figcaption>Mass, IR, 13C and 1H data together identify compound C as butanone.</figcaption>
 </figure>
 
 

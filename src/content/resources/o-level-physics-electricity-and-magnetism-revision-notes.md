@@ -112,6 +112,56 @@ A hotter metal conductor has higher resistance: atoms vibrate more and collide w
   <figcaption>Equally spaced parallel field lines run from the positive to the negative plate.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-physics-electricity-and-magnetism--11-ewq-worked.webp" width="900" height="740" alt="A circuit with a 9.0 V cell and a lamp. Six coulombs of charge travel round, and the cell does 9 J of work on each one, a total of 54 J. Dividing the work by the charge gives E = W/Q = 54 J divided by 6.0 C = 9.0 V, so one volt is one joule per coulomb." loading="lazy">
+  <figcaption>54 J of work on 6.0 C gives E = 9.0 V, i.e. 9 J per coulomb.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-physics-electricity--04-charging-by-friction.webp" width="900" height="980" alt="A cloth and a rod each with 6 positive and 6 negative charges, neutral. After rubbing 3 electrons move to the rod: cloth net +3, rod net -3, total still zero." loading="lazy">
+  <figcaption>Rubbing moves electrons; the one that loses them is positive, the one that gains them is negative.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-physics-8463-electricity--04-sphere-field-lines.webp" width="900" height="810" alt="Two charged spheres each with twelve straight radial field lines. Arrows point out of the positive sphere and into the negative one. Lines are closest together near the sphere, where the field is strongest." loading="lazy">
+  <figcaption>Field lines of an isolated sphere are radial, outward for positive and inward for negative.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-physics-electricity--01-ac-vs-dc.webp" width="900" height="950" alt="Two graphs of voltage against time. Top: d.c. is a flat line at a constant positive voltage, so current flows one way. Bottom: a.c. is a sine wave that goes above and below zero, so current keeps reversing. Shapes are illustrative." loading="lazy">
+  <figcaption>a.c. mains reverses direction; a cell or battery gives one-direction d.c.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-current-charge-and-circuit-conventions--03-meters-and-current-direction.webp" width="900" height="900" alt="A single loop with a cell, an ammeter in series and a lamp. A voltmeter is on a branch across the lamp. Copper arrows show conventional current clockwise from + to -; teal electron symbols move the opposite way." loading="lazy">
+  <figcaption>Ammeters go in series, voltmeters across a component; electrons move opposite to conventional current.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-physics-series-and-parallel-circuits-and-heating-effect-of--03-cells-in-series.webp" width="900" height="830" alt="Five 1.5 V cells joined end to end with a lamp. Brackets show 3 cells give 4.5 V, 4 give 6.0 V and 5 give 7.5 V. Voltages add, so 6.0 V needs 6.0 divided by 1.5 = 4 cells." loading="lazy">
+  <figcaption>Cells in series add their voltages.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-resistance-ohms-law-and-i-v-characteristics--01-resistance-measuring-circuit.webp" width="900" height="850" alt="A cell, variable resistor, ammeter and lamp in one loop, with a voltmeter connected across the lamp only. Example readings are 0.45 A and 3.0 V, giving R = 6.7 ohms." loading="lazy">
+  <figcaption>To find R, put the ammeter in series and the voltmeter across the component only.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-resistance-ohms-law-and-i-v-characteristics--02-wire-length-resistance.webp" width="900" height="740" alt="Resistance against length for a wire at constant current gives 1.2, 2.4, 3.6 and 4.8 ohms at 0.2 to 0.8 m on a straight line through the origin. Doubling the length doubles the resistance, reaching 6.0 ohms at 1.00 m." loading="lazy">
+  <figcaption>For one wire, resistance is directly proportional to length.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-physics-0625-electricity-and-magnetism--04-iv-graphs.webp" width="900" height="1192" alt="Three I-V graphs: a fixed resistor gives a straight line through the origin; a filament lamp gives a curve that gets less steep because resistance rises; a diode carries no current in reverse and rises steeply forward after about 0.6 V." loading="lazy">
+  <figcaption>The shape of each I-V graph tells you how the resistance behaves.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-physics-resistance-i-v-characteristics-and-electronic--08-lamp-ions.webp" width="900" height="940" alt="Two panels compare a cool filament (1 V, R = 5.6 ohms) and a hot filament (6 V, R = 12.0 ohms). In the hot filament the ions vibrate with larger amplitude, so the electron collides more often. Collision counts are schematic." loading="lazy">
+  <figcaption>A hotter filament has more vibrating ions in the electron path, so more collisions and higher resistance.</figcaption>
+</figure>
+
 
 ## 4.3 Circuits
 
@@ -129,6 +179,16 @@ A hotter metal conductor has higher resistance: atoms vibrate more and collide w
   <figcaption>Series resistors share the supply p.d. in proportion to their resistances, and a slider picks off a fraction.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-physics-0625-electricity-and-magnetism--03-series-parallel.webp" width="900" height="870" alt="Two circuits with a 6.0 V cell and 20 and 40 ohm resistors. In series, 0.10 A flows everywhere and the p.d.s are 2.0 V and 4.0 V, adding to 6.0 V. In parallel each branch has 6.0 V; branch currents 0.30 A and 0.15 A add to 0.45 A." loading="lazy">
+  <figcaption>In series the current is shared by one path; in parallel the branches share the current and each gets the full p.d.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-series-and-parallel-circuit-calculations-and--04-series-parallel-mixed.webp" width="900" height="830" alt="A 4.0 ohm resistor has 6.0 V across it, leaving 6.0 V across both parallel branches. The branches carry 1.0 A and 0.50 A, which add to the 1.5 A ammeter reading." loading="lazy">
+  <figcaption>Find the p.d. or current you are sure of, then apply the series and parallel rules one section at a time.</figcaption>
+</figure>
+
 
 ### Components
 
@@ -140,8 +200,13 @@ A hotter metal conductor has higher resistance: atoms vibrate more and collide w
 - Fuse: wire melts when the current is too large.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/o-level-physics-electricity-and-magnetism--02-em-relay.webp" width="900" height="1040" alt="Two panels of a relay. With the switch open the armature is raised and the lamp is off. With the switch closed the coil magnetises the iron core, which pulls the armature down, closes the contacts and lights the lamp." loading="lazy">
-  <figcaption>A small current in an electromagnet closes contacts in a separate larger-current circuit.</figcaption>
+  <img src="https://img.marlbridge.com/igcse-physics-0625-electricity-and-magnetism--02-circuit-symbols.webp" width="900" height="986" alt="Fourteen standard circuit symbols with names: cell, battery, open switch, fixed resistor, variable resistor, lamp, ammeter, voltmeter, fuse, thermistor, LDR, motor, and (Extended) diode and LED." loading="lazy">
+  <figcaption>The standard symbols to draw and recognise; diode and LED are Extended only.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-physics-electricity--03-ldr-thermistor.webp" width="900" height="1000" alt="Two graphs of resistance against light level (LDR) and against temperature (thermistor). Both curves fall as the quantity increases. Shapes are illustrative." loading="lazy">
+  <figcaption>Both an LDR and a thermistor lose resistance as light or temperature rises.</figcaption>
 </figure>
 
 
@@ -195,6 +260,11 @@ Put the sensor in series with a fixed resistor. Whichever has more resistance ge
   <figcaption>Parallel wires carrying current in the same direction attract; in opposite directions they repel.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-physics-electricity-and-magnetism--02-em-relay.webp" width="900" height="1040" alt="Two panels of a relay. With the switch open the armature is raised and the lamp is off. With the switch closed the coil magnetises the iron core, which pulls the armature down, closes the contacts and lights the lamp." loading="lazy">
+  <figcaption>A small current in an electromagnet closes contacts in a separate larger-current circuit.</figcaption>
+</figure>
+
 
 ## 4.6 Oscilloscope
 
@@ -217,12 +287,6 @@ Put the sensor in series with a fixed resistor. Whichever has more resistance ge
 - **Fuse versus trip switch:** both protect; only the trip switch resets.
 - **Earthing versus double insulation:** one gives the fault current a path to ground; the other prevents the case becoming live.
 - **Generator versus motor:** a generator turns motion into an induced e.m.f.; a motor turns a current in a field into motion.
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/o-level-physics-electricity-and-magnetism--11-ewq-worked.webp" width="900" height="740" alt="A circuit with a 9.0 V cell and a lamp. Six coulombs of charge travel round, and the cell does 9 J of work on each one, a total of 54 J. Dividing the work by the charge gives E = W/Q = 54 J divided by 6.0 C = 9.0 V, so one volt is one joule per coulomb." loading="lazy">
-  <figcaption>54 J of work on 6.0 C gives E = 9.0 V, i.e. 9 J per coulomb.</figcaption>
-</figure>
-
 
 ## Quick self-test
 

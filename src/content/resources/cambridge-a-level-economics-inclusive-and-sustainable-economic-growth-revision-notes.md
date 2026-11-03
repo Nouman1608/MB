@@ -235,6 +235,12 @@ Two firms each emit 100 tonnes. The cap is 140 in total, so the cut is 60. Firm 
 9. Subsidies cost taxpayers money and may back a technology that does not succeed.
 10. It raises skills and productivity of lower-income workers, so they can earn more and share in the gains from growth.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-inclusive-and-sustainable-economic-growth--05-training-payback.webp" width="900" height="970" alt="Cumulative extra earnings per trainee rise by 960 a year (0.8 x 1,200) and cross the 3,000 cost at 3.125 years, the payback point; later years are gain." loading="lazy">
+  <figcaption>Expected extra earnings of 960 a year repay the 3,000 cost in about 3.1 years.</figcaption>
+</figure>
+
+
 ## Where marks are usually lost
 
 - Defining inclusive growth as faster growth rather than shared growth.

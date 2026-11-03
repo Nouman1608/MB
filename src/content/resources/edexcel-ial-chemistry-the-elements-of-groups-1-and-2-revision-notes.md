@@ -49,11 +49,6 @@ The metals act as reducing agents: Na → Na⁺ + e⁻; Ca → Ca²⁺ + 2e⁻.
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-group-2-the-alkaline-earth-metals--02-group2-water.webp" width="900" height="985" alt="Four tubes show increasing bubbling from Mg to Ba in cold water, giving hydroxide and hydrogen. Below, magnesium burns in steam with bright white light to give white MgO and hydrogen." loading="lazy">
-  <figcaption>Reactivity with water increases down Group 2; magnesium with steam gives the oxide, not the hydroxide.</figcaption>
-</figure>
-
-<figure class="topic-figure">
   <img src="https://img.marlbridge.com/aqa-a-level-chemistry-group-2-the-alkaline-earth-metals--06-halogen-boiling-points.webp" width="900" height="1050" alt="Diatomic molecules F2 to I2 grow larger with 18, 34, 70 and 106 electrons and stronger dashed van der Waals forces. Boiling points are minus 188, minus 34, 59 and 184 degrees Celsius. Only forces between molecules are overcome on boiling." loading="lazy">
   <figcaption>Boiling point rises down Group 7 because more electrons give stronger van der Waals forces.</figcaption>
 </figure>
@@ -75,6 +70,12 @@ water; magnesium burns with a dazzling white light; calcium in water gives stead
 suspension.
 
 **Oxidation number of oxygen:** oxide −2, peroxide (O₂²⁻) −1, superoxide (O₂⁻) −½.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-group-2-the-alkaline-earth-metals--02-group2-water.webp" width="900" height="985" alt="Four tubes show increasing bubbling from Mg to Ba in cold water, giving hydroxide and hydrogen. Below, magnesium burns in steam with bright white light to give white MgO and hydrogen." loading="lazy">
+  <figcaption>Reactivity with water increases down Group 2; magnesium with steam gives the oxide, not the hydroxide.</figcaption>
+</figure>
+
 
 ## Solubility (8.15)
 

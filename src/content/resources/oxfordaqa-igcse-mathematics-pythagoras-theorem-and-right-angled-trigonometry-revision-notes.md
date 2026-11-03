@@ -177,6 +177,12 @@ The other acute angle is 90° − θ.
 
 **Reminder (Extension only).** Pyramid on a 6 by 6 square base with height 9: half the base diagonal is 3√2 = 4.243, the edge is √(18 + 81) = √99 = 9.95 cm, and the edge makes tan θ = 9/4.243, so θ = 64.8° (1 d.p.) with the base.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-mathematics-pythagoras-theorem-and-right-angled-trigonometry--07-pyth-cuboid.webp" width="900" height="1050" alt="A 10 by 6 by 7 cuboid. Base diagonal AC = root 136; with the 7 cm edge CG it forms right-angled triangle ACG. AG squared = 136 + 49 = 185, so AG = 13.6 cm, and tan theta = 7/root 136 gives 31.0 degrees with the base." loading="lazy">
+  <figcaption>The space diagonal is the hypotenuse of a triangle built on the base diagonal.</figcaption>
+</figure>
+
+
 ## Must-know distinctions
 
 - **Theorem versus ratio.** Pythagoras links three sides and uses no angle. Trigonometry links an angle to two sides.
@@ -184,12 +190,6 @@ The other acute angle is 90° − θ.
 - **Hypotenuse versus longest line.** The hypotenuse is the longest side of the right-angled triangle only. In a 3D figure the longest line is the space diagonal.
 - **Angle with a plane versus angle with an edge.** In a 3D figure, use the shadow of the line on the plane, not a random edge.
 - **Rounding.** Keep unrounded values in the calculator until the final line.
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/oxfordaqa-igcse-mathematics-pythagoras-theorem-and-right-angled-trigonometry--07-pyth-cuboid.webp" width="900" height="1050" alt="A 10 by 6 by 7 cuboid. Base diagonal AC = root 136; with the 7 cm edge CG it forms right-angled triangle ACG. AG squared = 136 + 49 = 185, so AG = 13.6 cm, and tan theta = 7/root 136 gives 31.0 degrees with the base." loading="lazy">
-  <figcaption>The space diagonal is the hypotenuse of a triangle built on the base diagonal.</figcaption>
-</figure>
-
 
 ## Quick self-test
 

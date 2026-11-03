@@ -147,6 +147,12 @@ Standard methods: job advertisement, recruitment agency, headhunting, employee r
 | For | Cheaper, faster, known person, promotion prospects | Larger pool, new skills and ideas |
 | Against | Small pool, few new ideas, creates another vacancy | Costly, slower, longer induction, may upset existing staff |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-people-in-business--06-recruitment-and-selection.webp" width="900" height="936" alt="Six steps in order: vacancy arises, write job description, advertise the job, shortlist applicants, interview and test, select and offer. At the advertising step the job can be filled internally from existing staff or externally from outside." loading="lazy">
+  <figcaption>Recruitment runs through set stages, and the job can be filled internally or externally.</figcaption>
+</figure>
+
+
 ## Financial rewards (SL and HL)
 
 | Reward | Detail | Watch for |

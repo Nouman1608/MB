@@ -228,6 +228,11 @@ Answer: **£105**. Check: £75 − £30 = £45. The key step is turning "2/7 of 
   <figcaption>Turn &quot;2/7 of the money&quot; into the ratio 2 : 5, then use the difference in parts.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-number--05-sharing-in-a-ratio.webp" width="900" height="680" alt="A bar of nine equal blocks worth 20 each is split 2, 3 and 4. The total 180 divided by 9 gives 20 per part, so the shares are 40, 60 and 80 dollars." loading="lazy">
+  <figcaption>Add the parts, divide the total by that number, then multiply by each share.</figcaption>
+</figure>
+
 
 ## Fractions and percentages as operators (N12)
 

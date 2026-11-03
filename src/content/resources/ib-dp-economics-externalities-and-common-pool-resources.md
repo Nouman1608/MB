@@ -201,6 +201,11 @@ Boats keep entering while the **average** catch exceeds the cost of 11, so open 
   <figcaption>A tax equal to the external cost moves output from the market level to the socially optimal level.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-economics-government-microeconomic-intervention--05-tool-matching.webp" width="900" height="900" alt="A matching diagram joining four problems to six tools. Public good not provided: direct provision. Merit good under-consumed: direct provision, subsidy, information. Demerit good over-consumed: information, indirect tax, minimum price. Price too high or too low: maximum or minimum price, buffer stock." loading="lazy">
+  <figcaption>Match the tool to the problem: the mechanism, not just the name, earns marks.</figcaption>
+</figure>
+
 
 ## Strengths and limitations
 

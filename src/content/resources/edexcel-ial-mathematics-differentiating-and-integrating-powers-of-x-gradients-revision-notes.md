@@ -205,6 +205,12 @@ A fraction with a single term in the denominator is split into separate powers. 
 11. f(x) = x² + 3x + c; 1 + 3 + c = 6, so c = 2 and f(x) = x² + 3x + 2
 12. dh/dt = 4 + t = 10, so 10 cm per minute
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-maths-9709-pure-mathematics-1-differentiation--06-product-rule-area.webp" width="900" height="650" alt="A rectangle of width u and height v has area uv. When x increases a little, u grows by du and v by dv, adding a strip of area v du on the right, a strip u dv on the top, and a tiny corner du dv which vanishes in the limit. So the change in uv is v du + u dv, giving (uv)′ = u′v + uv′. Example: y = x cubed times e to the 2x at x = 1 has gradient 3e squared + 2e squared = 5e squared, about 36.9." loading="lazy">
+  <figcaption>Why the product rule has two terms: the rectangle area uv grows by v du + u dv.</figcaption>
+</figure>
+
+
 ## Where marks are usually lost
 
 - Not expanding brackets before differentiating, or integrating a product term by term.

@@ -67,6 +67,12 @@ amide/amine interconversions — considerably widening what a single
 synthesis route can achieve, and correspondingly widening what can go
 wrong if a step is misapplied.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-organic-synthesis--02-new-cc-bonds.webp" width="900" height="1040" alt="Three reactions that make a new C-C bond: bromoethane with KCN (2 C to 3 C), propanone with HCN (3 C to 4 C) and benzene with an acyl chloride and AlCl3 (6 C to 8 C). New carbons are circled in gold." loading="lazy">
+  <figcaption>Only a few reactions change the carbon count: KCN with a haloalkane, HCN or KCN with a carbonyl, and Friedel-Crafts acylation.</figcaption>
+</figure>
+
+
 ## Worked example: synthesis of 4-nitrophenyl ethanoate
 
 **Devise a synthesis of 4-nitrophenyl ethanoate from benzene.**
@@ -107,6 +113,16 @@ finally esterification. A possible by-product to flag at step 5 is the
 2-nitrophenol isomer formed alongside the wanted 4-nitrophenol — the
 hydroxyl group's 2,4-directing effect means both are produced together and
 must be separated, not that the reaction only makes the 4-isomer.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-aromatic-chemistry--06-directing-effects.webp" width="900" height="1000" alt="Numbered benzene rings: OH (also NH2, CH3) directs to positions 2, 4, 6 and NO2 directs to 3 and 5. Phenol with dilute HNO3 gives 2- and 4-nitrophenol; nitrobenzene gives 1,3-dinitrobenzene." loading="lazy">
+  <figcaption>OH, NH2 and CH3 direct to 2, 4 and 6; NO2 directs to 3 and 5. (OCR and Cambridge)</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-aromatic-chemistry--07-phenol-bromine.webp" width="900" height="960" alt="Benzene with bromine water gives no reaction, so the tube stays orange. Phenol decolourises bromine water at room temperature and gives a white precipitate of 2,4,6-tribromophenol; the oxygen lone pair feeds electron density into the ring." loading="lazy">
+  <figcaption>Phenol, unlike benzene, decolourises bromine water at room temperature to give a white precipitate. (Edexcel and OCR)</figcaption>
+</figure>
 
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/aqa-a-level-chemistry-aromatic-chemistry--09-synthesis-route.webp" width="900" height="1120" alt="Seven structures joined by six arrows: benzene, nitrobenzene, phenylamine, benzenediazonium chloride, phenol, 4-nitrophenol and 4-nitrophenyl ethanoate, each arrow labelled with reaction type and reagents. Step 5 also gives 2-nitrophenol as a by-product." loading="lazy">
@@ -150,6 +166,12 @@ since different oxidising/reducing agents are specified for different
 transformations throughout the syllabus), and check for a by-product at
 every step that releases a small molecule (H₂O, HCl, NH₄Cl and similar
 salts are the most common).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-organic-synthesis--05-route-planning.webp" width="900" height="1010" alt="Three-step route from ethene (2 C) to propan-1-amine (3 C): HBr gives bromoethane, KCN in ethanol under reflux gives propanenitrile (+1 C), and LiAlH4 reduction gives the amine. A crossed-out side branch shows that ammonia would give ethylamine, only 2 C." loading="lazy">
+  <figcaption>Count carbons first: a longer chain needs the cyanide step, because bromoethane with ammonia only gives ethylamine.</figcaption>
+</figure>
+
 
 ## Common mistakes
 
@@ -206,3 +228,19 @@ conditions, not because it matches one specific "intended" answer.
 Written against Cambridge International AS & A Level Chemistry 9701,
 2025–2027 series. Always check the current syllabus for your examination
 year.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-aromatic-chemistry--05-electrophiles.webp" width="900" height="1130" alt="Five rows: reagents, the electrophile formed, and the product. Nitration (NO2+) and acylation (RCO+) are in all boards; alkylation (R+) is OCR, Edexcel and OxfordAQA; bromination (Br+) is OCR and Edexcel; sulfonation (SO3) is Edexcel and OxfordAQA." loading="lazy">
+  <figcaption>Each electrophilic substitution replaces one ring hydrogen, but the electrophile depends on the reagents. (Mixed, board-tagged)</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-organic-synthesis--01-reaction-map.webp" width="900" height="830" alt="A map linking alkene, haloalkane, alcohol, carbonyl, acid, ester, nitrile and amine with reagent labels. The gold arrow (haloalkane to nitrile with KCN) is the one that adds a carbon. Following arrows end to end gives a multi-step route." loading="lazy">
+  <figcaption>Plan routes by following arrows from start to target; only reactions in the specification count (steam hydration is not in OxfordAQA; nitrile hydrolysis is OCR).</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-organic-synthesis--07-overall-yield.webp" width="900" height="976" alt="Two routes with the same 80 percent step yield. Four steps leave 41.0 percent so 2.00 mol gives 0.819 mol; two steps leave 64.0 percent giving 1.28 mol." loading="lazy">
+  <figcaption>Overall yield is the product of the step yields, so each extra step lowers it.</figcaption>
+</figure>
+

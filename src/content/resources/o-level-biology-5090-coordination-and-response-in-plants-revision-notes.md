@@ -101,12 +101,6 @@ The auxin explanation is for **shoots only**. For roots, describe the response; 
 | Region below tip covered, tip exposed | Bends towards light | Auxin redistributed at the tip, then spreads down to the covered region |
 | Even light from all sides | Grows straight up | Auxin spread evenly |
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/o-level-biology-5090-coordination-and-response-in-plants--09-gravitropism-auxin-shoot.webp" width="900" height="920" alt="A shoot lying on its side in the dark. Auxin from the tip collects on the lower side (many more dots below than above). Auxin stimulates cell elongation, so the lower cells are longer and the shoot curves upwards." loading="lazy">
-  <figcaption>More auxin below makes the lower cells longer, so the shoot curves up.</figcaption>
-</figure>
-
-
 ## 15.1.4 Investigations
 
 ### Phototropism (shoots)
@@ -218,6 +212,17 @@ The inner side of the curve always faces the light (phototropism) or points upwa
 10. It is the control: it rotates the seedlings so gravity acts on all sides equally, showing that the curve in the still dish is caused by gravity.
 11. 108 ÷ 4 = **27°**.
 12. (35 − 15) ÷ 4 = 20 ÷ 4 = **5 mm per day**.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-biology-5090-coordination-and-response-in-plants--09-gravitropism-auxin-shoot.webp" width="900" height="920" alt="A shoot lying on its side in the dark. Auxin from the tip collects on the lower side (many more dots below than above). Auxin stimulates cell elongation, so the lower cells are longer and the shoot curves upwards." loading="lazy">
+  <figcaption>More auxin below makes the lower cells longer, so the shoot curves up.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-biology-5090-coordination-and-response-in-plants--08-results-data.webp" width="900" height="830" alt="Five angles 32, 35, 28, 41 and 34 degrees sum to 170 so the mean is 34 degrees. A root growing from 12 mm to 30 mm in 3 days grew 18 mm, 6 mm per day." loading="lazy">
+  <figcaption>Worked examples 3 and 4 shown as charts with the arithmetic.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

@@ -118,17 +118,6 @@ GPE regained on rebound = mgh2 = 0.40 x 9.81 x 3.5 = 13.7 J
 energy dissipated = 23.5 - 13.7 = 9.81 J
 ```
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/as-physics-work-energy-revision-notes--01-rebound-dissipation.webp" width="900" height="800" alt="A 0.40 kg ball is dropped from 6.0 m and rebounds to 3.5 m. Gravitational potential energy at the top is 23.5 J and at the rebound peak 13.7 J. The 9.81 J difference is the energy dissipated, found by subtracting the two values." loading="lazy">
-  <figcaption>Dissipated energy is the difference between the GPE at the two heights.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/as-physics-work-energy-and-power--08-efficiency.webp" width="900" height="1200" alt="A hoist drawing 2400 W lifts 150 kg at 0.90 m/s, giving 1324 W useful output; the Sankey diagram shows 1076 W wasted as heat and sound, so efficiency is 55 percent. OCR only: an 80 percent motor driving a 90 percent gearbox gives 72 percent overall, and 1 kW h = 3.6 x 10^6 J." loading="lazy">
-  <figcaption>Efficiency = useful output / total input; efficiencies of machines in series multiply.</figcaption>
-</figure>
-
-
 ## Exam traps
 
 - Omitting `cos θ` where force and displacement are not parallel.
@@ -151,3 +140,14 @@ energy dissipated = 23.5 - 13.7 = 9.81 J
 7. A 0.50 kg ball is dropped from 4.0 m and rebounds to 2.0 m. Find the energy dissipated during the bounce.
 
 **Answers:** 1. W = 50 × 8 × cos 30° = **346 J**. 2. From v² = u² + 2as with u = 0, s = v²/2a; W = Fs = ma × v²/2a = ½mv². 3. At constant velocity the driving force equals resistance, so P = Fv = 800 × 25 = **20 kW**. 4. It acts perpendicular to the velocity at every instant, so cos θ = cos 90° = 0 and no work is done. 5. v = √(2 × 9.81 × 20) = **19.8 m/s**. 6. Useful power = mgh/t = 200 × 9.81 × 8.0 ÷ 20 = **784.8 W**; efficiency = (784.8 ÷ 1000) × 100 = **78.5%**. 7. GPE lost = 0.50 × 9.81 × 4.0 = 19.6 J; GPE regained = 0.50 × 9.81 × 2.0 = 9.81 J; energy dissipated = 19.6 − 9.81 = **9.81 J**.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/as-physics-work-energy-revision-notes--01-rebound-dissipation.webp" width="900" height="800" alt="A 0.40 kg ball is dropped from 6.0 m and rebounds to 3.5 m. Gravitational potential energy at the top is 23.5 J and at the rebound peak 13.7 J. The 9.81 J difference is the energy dissipated, found by subtracting the two values." loading="lazy">
+  <figcaption>Dissipated energy is the difference between the GPE at the two heights.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/as-physics-work-energy-and-power--08-efficiency.webp" width="900" height="1200" alt="A hoist drawing 2400 W lifts 150 kg at 0.90 m/s, giving 1324 W useful output; the Sankey diagram shows 1076 W wasted as heat and sound, so efficiency is 55 percent. OCR only: an 80 percent motor driving a 90 percent gearbox gives 72 percent overall, and 1 kW h = 3.6 x 10^6 J." loading="lazy">
+  <figcaption>Efficiency = useful output / total input; efficiencies of machines in series multiply.</figcaption>
+</figure>
+

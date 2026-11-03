@@ -79,6 +79,21 @@ Quick recall for section 3.2 (Methods and effects of government intervention in 
 - Time: demand and supply usually become more elastic over time.
 
 <figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-methods-and-effects-of-microeconomic-intervention--01-candle-tax-incidence.webp" width="900" height="910" alt="Supply and demand for candles. A tax of 3 shifts supply up; price rises from 10 to 12, quantity falls from 100 to 80, producers keep 9. Consumer burden 160, producer burden 80, revenue 240, welfare loss triangle 30." loading="lazy">
+  <figcaption>A specific tax is shared: consumers pay 2 more, producers keep 1 less, and 30 of surplus is lost.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-methods-and-effects-of-microeconomic-intervention--08-less-elastic-demand-tax.webp" width="900" height="770" alt="With Qd = 200 - 10P (PED -1) a 3 cu tax splits 160 consumers and 80 producers, revenue 240, quantity down 20. With Qd = 150 - 5P (PED -0.5) it splits 211.2 and 52.8, revenue 264, price paid 12.4, quantity down only 12." loading="lazy">
+  <figcaption>Worked example 2: less elastic demand puts more of the tax on consumers and cuts quantity less.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-economics-government-microeconomic-intervention--04-corrective-tax.webp" width="900" height="900" alt="Demand (MPB) and supply (MPC) cross at price 5 and quantity 50. Marginal social cost (MSC) lies 2 above MPC and crosses demand at price 6.2, quantity 40. The triangle between 40 and 50 is the welfare loss, area 10. A tax of 2 shifts supply up onto MSC and moves output to 40." loading="lazy">
+  <figcaption>A tax equal to the external cost moves output from the market level to the socially optimal level.</figcaption>
+</figure>
+
+<figure class="topic-figure">
   <img src="https://img.marlbridge.com/a-level-economics-government-microeconomic-intervention--02-subsidy-incidence.webp" width="900" height="890" alt="Supply and demand diagram where a subsidy of 2 per unit shifts supply down from S1 to S2. Quantity rises from 50 to 60, the consumer price falls from 5 to 3.8 (gain 1.2 a unit) and the producer receives 5.8 (gain 0.8 a unit). The government pays 2 a unit." loading="lazy">
   <figcaption>A subsidy lowers the price consumers pay and raises what producers receive; the split depends on elasticity.</figcaption>
 </figure>
@@ -215,23 +230,8 @@ Strengths: cheap, keeps choice, no price rise. Limits: slow, uncertain, may be i
 10. If demand is inelastic, quantity falls little and the tax mainly raises revenue.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/cambridge-a-level-economics-methods-and-effects-of-microeconomic-intervention--01-candle-tax-incidence.webp" width="900" height="910" alt="Supply and demand for candles. A tax of 3 shifts supply up; price rises from 10 to 12, quantity falls from 100 to 80, producers keep 9. Consumer burden 160, producer burden 80, revenue 240, welfare loss triangle 30." loading="lazy">
-  <figcaption>A specific tax is shared: consumers pay 2 more, producers keep 1 less, and 30 of surplus is lost.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/cambridge-a-level-economics-methods-and-effects-of-microeconomic-intervention--08-less-elastic-demand-tax.webp" width="900" height="770" alt="With Qd = 200 - 10P (PED -1) a 3 cu tax splits 160 consumers and 80 producers, revenue 240, quantity down 20. With Qd = 150 - 5P (PED -0.5) it splits 211.2 and 52.8, revenue 264, price paid 12.4, quantity down only 12." loading="lazy">
-  <figcaption>Worked example 2: less elastic demand puts more of the tax on consumers and cuts quantity less.</figcaption>
-</figure>
-
-<figure class="topic-figure">
   <img src="https://img.marlbridge.com/a-level-economics-government-microeconomic-intervention--01-tax-incidence.webp" width="900" height="1320" alt="Two supply and demand diagrams with a tax of 3 per unit shifting supply up from S1 to S2. With steep (inelastic) demand consumers pay 2.2 of the tax and producers 0.8; quantity falls from 50 to 40. With flat (elastic) demand consumers pay 0.6 and producers 2.4; quantity falls from 50 to 20. The more inelastic side bears more of the tax." loading="lazy">
   <figcaption>The more inelastic side of the market bears the larger share of an indirect tax.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-level-economics-government-microeconomic-intervention--04-corrective-tax.webp" width="900" height="900" alt="Demand (MPB) and supply (MPC) cross at price 5 and quantity 50. Marginal social cost (MSC) lies 2 above MPC and crosses demand at price 6.2, quantity 40. The triangle between 40 and 50 is the welfare loss, area 10. A tax of 2 shifts supply up onto MSC and moves output to 40." loading="lazy">
-  <figcaption>A tax equal to the external cost moves output from the market level to the socially optimal level.</figcaption>
 </figure>
 
 

@@ -201,6 +201,12 @@ Problems: in tall structures, messages pass through many levels and become delay
 | Many levels | Distorted message | Delayering; direct briefings |
 | Technical failure | System outage | Backup methods |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-people-in-business--08-communication-and-barriers.webp" width="900" height="1010" alt="Internal communication runs both ways between staff and a manager inside the business; external communication runs both ways between the manager and a customer outside. A message travels from sender to receiver, a barrier can block it, and feedback returns. Barriers: unclear wording, different languages, too many levels, equipment fails. Fix: clear words and asking for feedback." loading="lazy">
+  <figcaption>Messages can be blocked by barriers, so senders need feedback.</figcaption>
+</figure>
+
+
 ## 7.2.5 The role of management
 
 Informal communication, such as conversations in corridors or social messaging groups, is not part of the formal chain of command. It can build relationships, spread useful information quickly and reveal staff concerns, but it also carries rumour and may bypass managers.

@@ -106,12 +106,6 @@ Event B has the highest expected loss, although it is the least likely. Suppose 
 
 Always follow the sum with a comment on what it leaves out: reputation, safety, the accuracy of the probability, and whether the loss could be larger than estimated.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ocr-a-level-business-contingency-planning-and-crisis-management--01-cp-plan-worth-cost.webp" width="900" height="1000" alt="A line graph of chance of failure per year against pounds per year. A flat line shows the plan cost of 9,000 pounds and a rising line shows the loss the plan saves. At the estimated 4% the saving is 7,200 pounds, 1,800 below the cost; the lines cross at 5%, the break-even probability." loading="lazy">
-  <figcaption>The plan pays for itself only if the chance of failure is 5% or more.</figcaption>
-</figure>
-
-
 ## Events and typical responses
 
 Use this table to generate specific ideas for a "recommend" answer. Adapt each to the case; do not copy it.
@@ -197,6 +191,12 @@ Then decide how effective it was overall, and say what depends on the time frame
 8. For example: the probability is only an estimate; the plan may be untested or out of date; the event may not match the plan.
 9. For example: quick, honest communication; clear leadership; putting people's safety first; containing the problem.
 10. For example: speed of response; honesty of communication; recovery time; cost against harm avoided.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-business-contingency-planning-and-crisis-management--01-cp-plan-worth-cost.webp" width="900" height="1000" alt="A line graph of chance of failure per year against pounds per year. A flat line shows the plan cost of 9,000 pounds and a rising line shows the loss the plan saves. At the estimated 4% the saving is 7,200 pounds, 1,800 below the cost; the lines cross at 5%, the break-even probability." loading="lazy">
+  <figcaption>The plan pays for itself only if the chance of failure is 5% or more.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

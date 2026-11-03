@@ -157,12 +157,6 @@ that deliberately link a Unit 3.2 topic back to marketing or finance
 sample materials show end-points reaching into content outside the
 paper's primary unit.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/aqa-as-level-business-course-structure--05-case-study-use.webp" width="900" height="1064" alt="A case study with size, sector, objectives and numbers highlighted, leading to a comparison of a theory-only answer that plateaus in the middle bands and an answer adding case evidence that reaches higher." loading="lazy">
-  <figcaption>Note the business context first, then use it as evidence in every answer.</figcaption>
-</figure>
-
-
 ## Related resources
 
 - [AQA AS-Level Business: What Is Business? (3.1.1-3.1.2)](/resources/aqa-as-level-business-what-is-business/) — business and objectives, and forms of business and stakeholders
@@ -171,3 +165,9 @@ paper's primary unit.
 *Written against AQA AS Business 7137. Always confirm the current
 specification code and content for your examination year at
 [aqa.org.uk](https://www.aqa.org.uk/subjects/business/as-level/business-7137).*
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-as-level-business-course-structure--05-case-study-use.webp" width="900" height="1064" alt="A case study with size, sector, objectives and numbers highlighted, leading to a comparison of a theory-only answer that plateaus in the middle bands and an answer adding case evidence that reaches higher." loading="lazy">
+  <figcaption>Note the business context first, then use it as evidence in every answer.</figcaption>
+</figure>
+

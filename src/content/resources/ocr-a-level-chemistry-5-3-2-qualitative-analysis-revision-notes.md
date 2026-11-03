@@ -201,6 +201,11 @@ A violet solution shows no fizzing with acid and no precipitate with Ba²⁺ or 
 - Testing for sulfate or halide before removing carbonate.
 
 <figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-reactions-of-ions-in-aqueous-solution--02-deprotonation-ladder.webp" width="900" height="970" alt="Two rows of hexa-aqua complexes with six ligand circles. Water ligands (teal) become hydroxide ligands (gold) one at a time, each step removing H+ and lowering the charge by 1. A 2+ ion reaches charge 0 after two steps and a 3+ ion after three; the neutral complex is the precipitate." loading="lazy">
+  <figcaption>A complex that has lost enough H+ to reach zero charge is no longer attracted to water and precipitates.</figcaption>
+</figure>
+
+<figure class="topic-figure">
   <img src="https://img.marlbridge.com/aqa-a-level-chemistry-reactions-of-ions-in-aqueous-solution--03-hydroxide-ammonia-tests.webp" width="900" height="1220" alt="A grid of test tubes for Fe2+, Cu2+, Fe3+ and Al3+ showing the starting solution and the result with a few drops and excess NaOH, then NH3. Fe2+ gives a green and Fe3+ a brown precipitate that never dissolves; Cu2+ gives a pale blue precipitate that dissolves only in excess NH3 to a deep blue solution; Al3+ gives a white precipitate that dissolves only in excess NaOH." loading="lazy">
   <figcaption>Two results are special: Al(OH)3 dissolves in excess NaOH and Cu(OH)2 dissolves in excess NH3.</figcaption>
 </figure>

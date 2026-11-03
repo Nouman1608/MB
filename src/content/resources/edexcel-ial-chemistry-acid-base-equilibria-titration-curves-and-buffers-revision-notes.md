@@ -219,6 +219,12 @@ Assumptions for buffer pH: the weak acid's own dissociation is negligible, and a
 10. HA = 0.0150 mol, A⁻ = 0.0050 mol; pH = 4.35 − log 3.0 = **3.87**.
 11. pKa₁ at **5.5 cm³**; pKa₂ at **16.5 cm³**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-chemical-equilibria-le-chateliers-principle-and-kc--03-temperature-k.webp" width="900" height="1020" alt="A graph of K against temperature shows K falling for an exothermic reaction and rising for an endothermic one. Two rows summarise: raising T lowers K and shifts left for exothermic, and raises K and shifts right for endothermic." loading="lazy">
+  <figcaption>Only temperature changes K: it falls for exothermic reactions and rises for endothermic ones as T increases.</figcaption>
+</figure>
+
+
 ## Where marks are usually lost
 
 - Putting every equivalence point at pH 7.

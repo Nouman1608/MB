@@ -146,37 +146,6 @@ The exact values are 0.129 and 0.132 for the binomial, and 0.148 for the Poisson
 - Strict and non-strict inequalities matter for discrete variables (X > 29 versus X ≥ 29) but not for continuous ones.
 - N(μ, σ²): the second parameter is the variance.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/edexcel-ial-mathematics-the-continuous-uniform-distribution-and-the-normal--01-amth-normal-shape.webp" width="900" height="1250" alt="Three graphs: two bell curves with means 40 and 60 show that changing the mean slides the curve; two curves centred on 50 with standard deviations 4 and 8 show that a larger spread gives a lower, wider curve of the same area; a curve with mean 50 and sd 9 has points of inflection at 41 and 59. A note says N(30, 16) and N(30, 4²) are the same curve." loading="lazy">
-  <figcaption>Changing μ slides the curve, changing σ squeezes or spreads it, and the points of inflection are at μ ± σ; the second number is the variance.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/edexcel-ial-mathematics-the-continuous-uniform-distribution-and-the-normal--02-amth-normal-spread-rule.webp" width="900" height="850" alt="Plank lengths with mean 2.40 m and sd 0.03 m: nested bands show about 2/3 (0.683) within one sd, about 95% (0.954) within two, and almost all (0.997) within three. About 0.0228 lies above μ + 2σ." loading="lazy">
-  <figcaption>About 2/3, 95% and almost all values lie within 1, 2 and 3 standard deviations of the mean.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/edexcel-ial-mathematics-the-continuous-uniform-distribution-and-the-normal--04-amth-normal-inverse.webp" width="900" height="1100" alt="Using the mango model, the top 10% start at k with area 0.90 to the left, z = 1.2816, so k = 335.6 g. The lowest 20% use the mirror value 0.8416, so z = −0.8416 and k = 293.2 g." loading="lazy">
-  <figcaption>Work from the area to the left to find z, then use x = μ + zσ; below 0.5 means z is negative.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/edexcel-ial-mathematics-the-continuous-uniform-distribution-and-the-normal--06-amth-normal-sums.webp" width="900" height="1120" alt="For X ~ N(30, 4²), X1 + X2 + X3 is N(90, 48) and 3X is N(90, 144). Both have mean 90 but the sum of independent values is narrower: P(&gt; 102) is 0.0418 for the sum and 0.1587 for 3X." loading="lazy">
-  <figcaption>Variances add for independent values, so a sum is less spread out than a multiple of one value.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/edexcel-ial-mathematics-the-continuous-uniform-distribution-and-the-normal--07-amth-normal-continuity.webp" width="900" height="780" alt="Bars for B(80, 0.35) with N(28, 18.2) over them. P(X ≤ 25) uses bars up to the edge at 25.5, so it becomes P(Y &lt; 25.5) = 0.279 against an exact 0.282; P(X ≥ 30) becomes P(Y &gt; 29.5) = 0.363; P(X = 28) becomes P(27.5 &lt; Y &lt; 28.5) = 0.0933." loading="lazy">
-  <figcaption>A whole number r becomes a band from r − 0.5 to r + 0.5 when approximating with a normal curve.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/edexcel-ial-mathematics-the-continuous-uniform-distribution-and-the-normal--09-amth-normal-model-limits.webp" width="900" height="1070" alt="N(6, 4²) for assembly time gives 0.0668 probability of a negative time, which is impossible. A second graph compares skewed data with a normal curve of the same mean and spread, which fits poorly and puts about 4% below zero." loading="lazy">
-  <figcaption>A normal model gives some probability to impossible values and fits skewed data badly.</figcaption>
-</figure>
-
-
 ## Quick self-test
 
 1. X ~ U[3, 9]. State f(x), the mean and the variance.
@@ -208,8 +177,38 @@ The exact values are 0.129 and 0.132 for the binomial, and 0.148 for the Poisson
 12. P(39.5 < Y < 40.5).
 
 <figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-mathematics-the-continuous-uniform-distribution-and-the-normal--01-amth-normal-shape.webp" width="900" height="1250" alt="Three graphs: two bell curves with means 40 and 60 show that changing the mean slides the curve; two curves centred on 50 with standard deviations 4 and 8 show that a larger spread gives a lower, wider curve of the same area; a curve with mean 50 and sd 9 has points of inflection at 41 and 59. A note says N(30, 16) and N(30, 4²) are the same curve." loading="lazy">
+  <figcaption>Changing μ slides the curve, changing σ squeezes or spreads it, and the points of inflection are at μ ± σ; the second number is the variance.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-mathematics-the-continuous-uniform-distribution-and-the-normal--02-amth-normal-spread-rule.webp" width="900" height="850" alt="Plank lengths with mean 2.40 m and sd 0.03 m: nested bands show about 2/3 (0.683) within one sd, about 95% (0.954) within two, and almost all (0.997) within three. About 0.0228 lies above μ + 2σ." loading="lazy">
+  <figcaption>About 2/3, 95% and almost all values lie within 1, 2 and 3 standard deviations of the mean.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-mathematics-the-continuous-uniform-distribution-and-the-normal--04-amth-normal-inverse.webp" width="900" height="1100" alt="Using the mango model, the top 10% start at k with area 0.90 to the left, z = 1.2816, so k = 335.6 g. The lowest 20% use the mirror value 0.8416, so z = −0.8416 and k = 293.2 g." loading="lazy">
+  <figcaption>Work from the area to the left to find z, then use x = μ + zσ; below 0.5 means z is negative.</figcaption>
+</figure>
+
+<figure class="topic-figure">
   <img src="https://img.marlbridge.com/edexcel-ial-mathematics-the-continuous-uniform-distribution-and-the-normal--05-amth-normal-two-unknowns.webp" width="900" height="870" alt="With P(X &lt; 30) = 0.20 and P(X &gt; 46) = 0.10, 30 lies 0.8416σ below the mean and 46 lies 1.2816σ above it, so 16 = 2.1232σ, giving σ = 7.54 and μ = 36.3." loading="lazy">
   <figcaption>Two probability statements give two linear equations in μ and σ.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-mathematics-the-continuous-uniform-distribution-and-the-normal--06-amth-normal-sums.webp" width="900" height="1120" alt="For X ~ N(30, 4²), X1 + X2 + X3 is N(90, 48) and 3X is N(90, 144). Both have mean 90 but the sum of independent values is narrower: P(&gt; 102) is 0.0418 for the sum and 0.1587 for 3X." loading="lazy">
+  <figcaption>Variances add for independent values, so a sum is less spread out than a multiple of one value.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-mathematics-the-continuous-uniform-distribution-and-the-normal--07-amth-normal-continuity.webp" width="900" height="780" alt="Bars for B(80, 0.35) with N(28, 18.2) over them. P(X ≤ 25) uses bars up to the edge at 25.5, so it becomes P(Y &lt; 25.5) = 0.279 against an exact 0.282; P(X ≥ 30) becomes P(Y &gt; 29.5) = 0.363; P(X = 28) becomes P(27.5 &lt; Y &lt; 28.5) = 0.0933." loading="lazy">
+  <figcaption>A whole number r becomes a band from r − 0.5 to r + 0.5 when approximating with a normal curve.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-mathematics-the-continuous-uniform-distribution-and-the-normal--09-amth-normal-model-limits.webp" width="900" height="1070" alt="N(6, 4²) for assembly time gives 0.0668 probability of a negative time, which is impossible. A second graph compares skewed data with a normal curve of the same mean and spread, which fits poorly and puts about 4% below zero." loading="lazy">
+  <figcaption>A normal model gives some probability to impossible values and fits skewed data badly.</figcaption>
 </figure>
 
 

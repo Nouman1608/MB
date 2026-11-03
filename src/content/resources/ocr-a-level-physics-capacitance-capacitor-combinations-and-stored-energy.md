@@ -165,6 +165,12 @@ The charge is 2.7 mC. The capacitor does not change the steady current.
 
 **Joining capacitors.** If a charged capacitor is joined in parallel to an uncharged one, charge flows until the p.d.s match. Total charge is conserved, so the final p.d. is total charge divided by total capacitance.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-capacitance--07-time-constant-tau.webp" width="900" height="930" alt="A discharge curve plotted against multiples of the time constant falls to 36.8, 13.5 and 5.0 percent at 1, 2 and 3 tau. The tangent at t = 0 meets the time axis at t = RC. For 470 microfarad and 33 kilohm tau is 15.5 s, and 37 percent is still left after one tau." loading="lazy">
+  <figcaption>After one time constant a capacitor has not fully discharged: 37% remains.</figcaption>
+</figure>
+
+
 ## 6.1.1(e)(ii) Investigating series and parallel combinations
 
 The specification names ammeters and voltmeters. One approach uses a reed switch. It measures C for one capacitor, then for series and parallel combinations.

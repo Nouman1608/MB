@@ -132,12 +132,6 @@ mg = m v^2 / r      ->      v_min = sqrt(g r)
 
 Below that speed the object leaves the circular path — the string would go slack, or the bucket of water would spill — because gravity alone is more than enough to provide the (now smaller) required centripetal force, so the path curves away from the intended circle.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-physics-motion-in-a-circle--04-vertical-circle.webp" width="900" height="810" alt="A 0.50 kg ball on a 0.80 m string. At the top (4.0 m/s) tension 5.1 N and weight 4.9 N both point down; at the bottom (6.9 m/s) tension 34.5 N points up and weight 4.9 N down, arrows to scale. The bottom tension exceeds the top by 6mg = 29.4 N, and the minimum speed at the top (T = 0) is sqrt(gr) = 2.8 m/s." loading="lazy">
-  <figcaption>Tension is least at the top and greatest at the bottom, differing by 6mg for a freely moving ball.</figcaption>
-</figure>
-
-
 ## Exam traps
 
 - Drawing centripetal force as an extra arrow instead of identifying the real force providing it.
@@ -160,3 +154,9 @@ Below that speed the object leaves the circular path — the string would go sla
 7. *(Extension, beyond the syllabus)* A track is banked at 15° for cars travelling at 20 m/s. Find the design radius.
 
 **Answers:** 1. a = v²/r and a = rω². 2. Velocity is a vector and its direction changes continuously, so the velocity changes even though the speed does not. 3. Friction between the tyres and the road surface. 4. At minimum speed the tension is zero, so weight alone supplies the centripetal force: mg = mv²/r, giving v = √(gr). 5. At the bottom; if the speed is the same at the top and bottom it exceeds the tension at the top by 2mg (if energy is conserved instead, so the object is faster at the bottom, by 6mg). 6. Resolving the normal contact force: N cos θ = mg (vertical) and N sin θ = mv²/r (horizontal); dividing gives tan θ = v²/(rg). 7. r = v² ÷ (g tan θ) = 20² ÷ (9.81 × tan 15°) = 400 ÷ (9.81 × 0.268) = **152 m**.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-motion-in-a-circle--04-vertical-circle.webp" width="900" height="810" alt="A 0.50 kg ball on a 0.80 m string. At the top (4.0 m/s) tension 5.1 N and weight 4.9 N both point down; at the bottom (6.9 m/s) tension 34.5 N points up and weight 4.9 N down, arrows to scale. The bottom tension exceeds the top by 6mg = 29.4 N, and the minimum speed at the top (T = 0) is sqrt(gr) = 2.8 m/s." loading="lazy">
+  <figcaption>Tension is least at the top and greatest at the bottom, differing by 6mg for a freely moving ball.</figcaption>
+</figure>
+

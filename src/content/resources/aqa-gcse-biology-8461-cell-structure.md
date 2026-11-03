@@ -227,6 +227,11 @@ real length = 45 mm / 1000 = 0.045 mm = 45 μm
   <figcaption>A scale bar gives the magnification, from which real size follows.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-organisation-of-the-organism--07-magnification.webp" width="900" height="1200" alt="A tiny real cell of 0.02 mm is magnified to a 60 mm image measured on a ruler. Magnification equals image size divided by actual size, 60 mm divided by 0.02 mm, which is times 3000. Both sizes must be in the same units. Extended: 1 mm equals 1000 micrometres, so 0.02 mm is 20 micrometres." loading="lazy">
+  <figcaption>Magnification is image size divided by actual size, using the same units.</figcaption>
+</figure>
+
 
 ## 4.1.1.6 Culturing microorganisms
 
@@ -260,6 +265,12 @@ number = 150 × 2⁶ = 150 × 64 = 9600
 ```
 
 **Higher tier only:** give the answer in standard form: **9.6 × 10³ bacteria**.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-drugs--07-bacteria-doubling.webp" width="900" height="890" alt="Extended worked example. A resistant bacterium dividing every 30 minutes makes 8 divisions in 4 hours, so 2 to the power 8 = 256 bacteria. The line graph curves steeply upwards." loading="lazy">
+  <figcaption>A resistant strain can become common very quickly because numbers double with every division.</figcaption>
+</figure>
+
 
 ### Area of a colony or clear zone
 

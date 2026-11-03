@@ -237,6 +237,11 @@ It is cheaper in London by **£3.21**. Convert to one currency before comparing.
   <figcaption>One rate converts directly: multiply for pounds to euros, divide to go back.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-rates-time-and-money--05-currency-via-euros.webp" width="900" height="960" alt="Two rows of coins show conversions through euros: 440 dollars is 400 euros is 64 000 yen, and a 27 200 yen watch is 170 euros is 187 dollars, 2 dollars more than the 185 dollars in New York." loading="lazy">
+  <figcaption>Convert through the currency you have a rate for, then compare in one currency.</figcaption>
+</figure>
+
 
 ## 1.10 A: Everyday problems
 
@@ -253,6 +258,11 @@ Tariff questions often ask when two options cost the same. Set the totals equal,
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/igcse-mathematics-0580-units-of-measure-area-and-perimeter--04-tiling-floor.webp" width="900" height="772" alt="A 3.6 m by 2.4 m floor, shown as 360 cm by 240 cm, is covered by 12 by 8 square tiles of side 30 cm. That gives 96 tiles, checked by dividing the areas." loading="lazy">
   <figcaption>Convert to one unit first, then count 12 x 8 = 96 tiles.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-estimation-and-using-a-calculator--05-round-up-or-down.webp" width="900" height="1000" alt="157 students in 12-seat minibuses: 13 buses seat only 156, so 13.08 rounds up to 14. Tickets at $3.85 with $50: twelve cost $46.20 but a thirteenth reaches $50.05, so 12.98 rounds down to 12." loading="lazy">
+  <figcaption>The context, not the digit after the point, decides whether to round up or down.</figcaption>
 </figure>
 
 
@@ -275,6 +285,11 @@ Typing `2.7 + 5.85 ÷ 1.9 × 0.4 =` gives 3.9315..., because the calculator divi
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/edexcel-igcse-maths-4ma1-applying-number-and-calculators--09-calculator-brackets.webp" width="900" height="990" alt="(2.7 + 5.85) / (1.9 x 0.4) = 8.55 / 0.76 = 11.25 when keyed with brackets. Without brackets 2.7 + 5.85 / 1.9 x 0.4 gives about 3.93 because only 5.85 is divided by 1.9." loading="lazy">
   <figcaption>Brackets must be keyed so the whole numerator and denominator are grouped.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-fractions-decimals-percentages-ordering-operations--04-order-of-operations.webp" width="900" height="960" alt="Two worked examples with the part being calculated highlighted at each step: (5 - 2^3) x 4 + 6 / (-2) = -15, and 18 - 12 / 4 x 3 = 9. Multiplication and division have equal rank, so work left to right." loading="lazy">
+  <figcaption>Work out indices and brackets first, then multiply and divide left to right, then add and subtract.</figcaption>
 </figure>
 
 
@@ -311,6 +326,16 @@ Use the square-root template over the whole of 15.2² − 6.8², or press `=` an
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/igcse-mathematics-0580-estimation-and-using-a-calculator--06-entering-time.webp" width="900" height="1000" alt="A clock shows 50 minutes as 50/60 of an hour, so 1 h 50 min is 1.8333 h. Dividing 148 by 1 + 50/60 gives 80.7 km/h. Typing 1.50 gives 98.7 and rounding to 1.83 first gives 80.9, both wrong." loading="lazy">
   <figcaption>Convert minutes by dividing by 60 and keep the full value.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-estimation-and-using-a-calculator--07-dont-round-early.webp" width="900" height="890" alt="A circle has circumference 30 cm, so r = 30 / (2 pi) = 4.774648... cm. Using the full value in A = pi r^2 gives 71.6 cm squared; using the rounded 4.77 gives 71.5, which is wrong." loading="lazy">
+  <figcaption>Carry the full calculator value forward and round only the final answer.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-estimation-and-using-a-calculator--03-estimate-calculation.webp" width="900" height="800" alt="62.4, 0.187 and 3.87 are rounded to 60, 0.2 and 4. The estimate is (60 x 0.2) / 4 = 3. On a number line it lies right next to the calculator value 3.015." loading="lazy">
+  <figcaption>Round every number to 1 s.f., write the rounded calculation, and work it out.</figcaption>
 </figure>
 
 

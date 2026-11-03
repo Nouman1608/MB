@@ -107,6 +107,12 @@ Growth form: M +6%, V −2%, Q +2%. Approximately %ΔP = 6 − 2 − 2 = 2%. Exa
 
 Criticisms: V unstable (recession, hoarding, new payment methods); Q can rise in the short run when money rises; money is hard to define; causation may run from prices or demand to credit and money.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-inflation-and-deflation--02-equation-of-exchange.webp" width="900" height="990" alt="Two rows of equal-area rectangles. M = 400 and V = 5 give MV = 2,000 which equals P = 2.0 times Q = 1,000. Raising M 10% to 440 with V and Q fixed gives MV = 2,200 so P = 2.2, a 10% rise." loading="lazy">
+  <figcaption>With V and Q unchanged a 10% rise in M raises the price level 10%.</figcaption>
+</figure>
+
+
 ## Expectations
 
 - Expected inflation feeds into wage claims, firms' price decisions, interest rates and the timing of purchases.
@@ -147,6 +153,11 @@ Judgement points: rate, stability, whether anticipated, and cause. Inflation tha
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/aqa-a-level-economics-aggregate-demand-supply--07-lras-growth.webp" width="900" height="1000" alt="LRAS shifts right from output 100 to 130, with SRAS shifted right by the same amount. Equilibrium moves from output 90, price level 65 to output 105, price level 57.5. Technology, productivity, enterprise, factor mobility, incentives and institutions are listed as causes." loading="lazy">
   <figcaption>Underlying economic growth is a rightward shift in LRAS, raising output and easing prices.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-aggregate-demand-supply--03-demand-side-shock.webp" width="900" height="910" alt="AD and AS diagram with vertical LRAS. AD shifts left from AD1 to AD2 after a fall in business confidence, moving equilibrium from output 90, price level 65 to output 75, price level 57.5. LRAS is unchanged." loading="lazy">
+  <figcaption>A fall in business confidence shifts AD left, cutting output and the price level in the short run while LRAS stays put.</figcaption>
 </figure>
 
 

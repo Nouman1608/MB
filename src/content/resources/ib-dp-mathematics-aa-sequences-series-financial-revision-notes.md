@@ -54,11 +54,6 @@ See the [IB DP Maths AA course hub](/boards/ib/ib-dp/mathematics-analysis-and-ap
 - **Real value:** a future amount expressed in today's money, after allowing for inflation.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ib-dp-mathematics-aa-sequences-series-financial--06-depreciation.webp" width="900" height="1030" alt="A falling curve and bars show a £60 000 machine losing 12% of its value each year, so each year multiplies the value by 0.88. The drops get smaller each year. After 4 years the value is 60 000 × 0.88⁴ = £35 981.72." loading="lazy">
-  <figcaption>Depreciation is a geometric sequence with ratio 0.88, less than 1.</figcaption>
-</figure>
-
-<figure class="topic-figure">
   <img src="https://img.marlbridge.com/ib-dp-mathematics-aa-sequences-series-financial--07-real-value-inflation.webp" width="900" height="940" alt="Three bars show £5000 invested, a future value of £6425.73 after 7 years, and a real value of £5517.81. An arrow from the future value to the real value is labelled divide by 1.022 to the power 7, for 2.2% inflation. Using the rounded future value would give £5517.80." loading="lazy">
   <figcaption>Dividing by the inflation factor turns future money into today’s money.</figcaption>
 </figure>
@@ -172,12 +167,6 @@ When you use technology, the guide expects you to identify the first term and th
 - **S_n vs S∞.** S_n exists for any geometric sequence (r ≠ 1). S∞ exists only when |r| < 1.
 - **nth term vs "after n years".** If u₁ is the starting value, then after n years you have u₁rⁿ, which is u_(n+1). Decide which labelling the question uses.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ib-dp-mathematics-aa-sequences-series-financial--05-simple-vs-compound.webp" width="900" height="1250" alt="Over 7 years, £5000 at 3.6% grows in a straight line with simple interest (£180 a year, ending at £6260) but along a bending curve with quarterly compound interest, ending at £6425.73 after 28 periods at 0.9% each. A short list shows yearly, half-yearly, quarterly and monthly compounding giving £6404.55, £6418.58, £6425.73 and £6430.55." loading="lazy">
-  <figcaption>Compound interest multiplies each period, so it pulls ahead of the straight simple-interest line.</figcaption>
-</figure>
-
-
 ## Quick self-test
 
 1. Write 0.000 407 in the form a × 10ᵏ.
@@ -207,6 +196,27 @@ When you use technology, the guide expects you to identify the first term and th
 10. 18 000 × 0.8³ = **£9216**
 11. |x − 2| < 1, so **1 < x < 3**
 12. **8/9**
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-aa-sequences-series-financial--01-standard-form-check.webp" width="900" height="1130" alt="A gauge from 1 to 10 shows the allowed values of a, with 3.6 inside and 36 and 0.36 outside. The worked example (7.2 × 10⁻³) × (5 × 10⁸) gives 36 × 10⁵. Because 36 is too big it becomes 3.6 × 10¹, and the powers combine to give 3.6 × 10⁶. Addition first matches the powers of ten: 4.3 × 10⁵ + 0.21 × 10⁵ = 4.51 × 10⁵." loading="lazy">
+  <figcaption>The front number a must lie from 1 up to (not including) 10.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-aa-sequences-series-financial--05-simple-vs-compound.webp" width="900" height="1250" alt="Over 7 years, £5000 at 3.6% grows in a straight line with simple interest (£180 a year, ending at £6260) but along a bending curve with quarterly compound interest, ending at £6425.73 after 28 periods at 0.9% each. A short list shows yearly, half-yearly, quarterly and monthly compounding giving £6404.55, £6418.58, £6425.73 and £6430.55." loading="lazy">
+  <figcaption>Compound interest multiplies each period, so it pulls ahead of the straight simple-interest line.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-aa-sequences-series-financial--06-depreciation.webp" width="900" height="1030" alt="A falling curve and bars show a £60 000 machine losing 12% of its value each year, so each year multiplies the value by 0.88. The drops get smaller each year. After 4 years the value is 60 000 × 0.88⁴ = £35 981.72." loading="lazy">
+  <figcaption>Depreciation is a geometric sequence with ratio 0.88, less than 1.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-aa-sequences-series-financial--09-convergence-range-x.webp" width="900" height="980" alt="The line r = 2x − 1 is plotted against x with a band showing where |r| &lt; 1. The line is inside the band only for x between 0 and 1; the open circles at x = 0 and x = 1 show those values are excluded. Solving −1 &lt; 2x − 1 &lt; 1 gives 0 &lt; x &lt; 1." loading="lazy">
+  <figcaption>The series converges only when the ratio line lies inside the band, 0 &lt; x &lt; 1.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

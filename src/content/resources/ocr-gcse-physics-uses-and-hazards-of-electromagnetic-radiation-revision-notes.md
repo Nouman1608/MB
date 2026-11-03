@@ -79,6 +79,11 @@ Key points:
   <figcaption>Radiation can kill cells or damage their DNA, and the risk grows with dose and time.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-uses-and-hazards-of-electromagnetic-radiation--06-radiotherapy-beams.webp" width="900" height="880" alt="A cross-section of the body with five beams converging on a small tumour. All five overlap at the tumour so its dose is high; healthy tissue on any one path receives only one beam." loading="lazy">
+  <figcaption>Beams from several directions give the tumour a high dose and healthy tissue a low one.</figcaption>
+</figure>
+
 
 ## Detecting hidden structures (P5.2i, Higher Tier only)
 

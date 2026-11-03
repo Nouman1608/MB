@@ -209,12 +209,6 @@ cause an imbalance in the first place, none of them require a suspense
 account on their own — a frequent exam mistake is opening one anyway
 "to be safe" when the trial balance was never actually out of balance.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/oxfordaqa-igcse-accounting-correcting-errors-and-the-effect-of-errors-on-profit--02-mereside-suspense.webp" width="900" height="777" alt="The suspense account opens with a credit balance of 1,320. Debits of 1,200, 90 and 180 and a credit of 150 correct four errors and both sides total 1,470. Errors 5 and 6 never pass through suspense." loading="lazy">
-  <figcaption>Four errors explain the whole 1,320 difference, so the suspense account closes to nil.</figcaption>
-</figure>
-
-
 ## Exam traps
 
 - Assuming a balancing trial balance proves the accounts are error-free.
@@ -251,3 +245,9 @@ and deposits recorded but not yet credited; the reconciliation
 statement explains them, and they are not entered in the cash book. 5. Built from totals in the books of prime entry; it checks
 the accuracy of the (more detailed) sales or purchases ledger by
 providing an independent summary total to compare against.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-accounting-correcting-errors-and-the-effect-of-errors-on-profit--02-mereside-suspense.webp" width="900" height="777" alt="The suspense account opens with a credit balance of 1,320. Debits of 1,200, 90 and 180 and a credit of 150 correct four errors and both sides total 1,470. Errors 5 and 6 never pass through suspense." loading="lazy">
+  <figcaption>Four errors explain the whole 1,320 difference, so the suspense account closes to nil.</figcaption>
+</figure>
+

@@ -53,6 +53,12 @@ These notes condense sections 5.1 (Living standards) and 5.2 (Poverty) of the Ca
 | Relative poverty line | A chosen fraction (for example 50% or 60%) of median income |
 | Quintile income | Share x 5 x mean income |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-economics-living-standards-and-poverty--11-growth-per-head.webp" width="900" height="900" alt="Bars for two examples. GDP +5% and population +2.5% give 1.05 divided by 1.025 minus 1, which is 2.44 percent. GDP +6% and population +2% give 3.92 percent." loading="lazy">
+  <figcaption>Exact growth per head is the ratio of growth factors; GDP growth minus population growth is a quick rule.</figcaption>
+</figure>
+
+
 ## Worked reminders
 
 **Real and per head.** Nominal GDP 880 billion, price index 110, population 20 million.
@@ -98,6 +104,11 @@ Because the share taken climbs from 12.5% to 20%, the tax is progressive.
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/cambridge-igcse-economics-living-standards-and-poverty--03-quintile-shares.webp" width="900" height="950" alt="Horizontal bars of income by fifth of households for Countries C and D, both with mean 15,000. The richest 20% earn 15 times the poorest in C and 5 times in D." loading="lazy">
   <figcaption>Equal GDP per head can hide very different incomes for the poor.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-economics-measurement-of-macroeconomic-performance--04-real-vs-nominal-gdp.webp" width="900" height="880" alt="Line graph over five years: real and nominal GDP both start at 1000 in the base year; real reaches 1100 while nominal reaches 1342 because prices rose. The gap is higher prices only. Real GDP divided by population gives real GDP per capita." loading="lazy">
+  <figcaption>Real data strips out inflation so genuine output change can be compared.</figcaption>
 </figure>
 
 <figure class="topic-figure">
@@ -158,6 +169,16 @@ If a benefit of 1,200 goes to a poorest household, its income rises to 4,200, a 
   <figcaption>Each cause of poverty works through income to living standards.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-objectives-of-government--07-types-of-tax.webp" width="900" height="1110" alt="Bar charts of tax as a percentage of income for low, middle and high earners: progressive rises (10, 15, 22.5 percent), regressive falls (2, 1.5, 1 percent). Below, a direct tax goes from you to the government; an indirect tax goes via a shop." loading="lazy">
+  <figcaption>Direct/indirect and progressive/regressive are two separate ways to classify taxes.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-objectives-of-government--09-minimum-wage.webp" width="900" height="990" alt="Labour market diagram: equilibrium $10 and 120,000 workers. A $14 minimum wage gives 150,000 supplied and 100,000 demanded, so 50,000 excess supply (unemployment). Those still employed gain; those unemployed lose." loading="lazy">
+  <figcaption>A minimum wage above equilibrium raises pay for some and creates unemployment for others.</figcaption>
+</figure>
+
 
 ## 5.2.3 Policies: one-line evaluation each
 
@@ -211,11 +232,6 @@ Pay bill rises from 900 x 5 = 4,500 to 700 x 7 = 4,900, but some workers lose ou
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/cambridge-igcse-economics-living-standards-and-poverty--10-gdp-per-head-still.webp" width="900" height="930" alt="Year 1: real GDP 420 billion shared by 28 million people is 15,000 each. Year 2: 450 billion shared by 30 million is also 15,000. Both grew 7.14 percent." loading="lazy">
   <figcaption>Output can grow while real GDP per head does not move.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/cambridge-igcse-economics-living-standards-and-poverty--11-growth-per-head.webp" width="900" height="900" alt="Bars for two examples. GDP +5% and population +2.5% give 1.05 divided by 1.025 minus 1, which is 2.44 percent. GDP +6% and population +2% give 3.92 percent." loading="lazy">
-  <figcaption>Exact growth per head is the ratio of growth factors; GDP growth minus population growth is a quick rule.</figcaption>
 </figure>
 
 

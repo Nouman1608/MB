@@ -59,12 +59,6 @@ Learn the seven aims, then pair each with a tool and an example.
 - **Price paid versus price received.** With a tax, consumers pay the new equilibrium price and producers keep that price minus the tax. With a subsidy, producers receive the new price plus the subsidy.
 - **Direct provision versus command and control.** One supplies a service; the other sets rules.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-level-economics-government-microeconomic-intervention--02-subsidy-incidence.webp" width="900" height="890" alt="Supply and demand diagram where a subsidy of 2 per unit shifts supply down from S1 to S2. Quantity rises from 50 to 60, the consumer price falls from 5 to 3.8 (gain 1.2 a unit) and the producer receives 5.8 (gain 0.8 a unit). The government pays 2 a unit." loading="lazy">
-  <figcaption>A subsidy lowers the price consumers pay and raises what producers receive; the split depends on elasticity.</figcaption>
-</figure>
-
-
 ## Method: drawing the diagram
 
 1. Axes: price (vertical), quantity (horizontal).
@@ -138,12 +132,6 @@ Buyers who cannot find gas at 48 cu may pay up to 84 cu on a black market. This 
 | Workers | Jobs may be lost if output falls | May gain if output is supported | May lose hours | May gain hours |
 | Society | Welfare loss; black market | Welfare loss; wasted stock | Welfare loss, but may fix a market failure | Welfare loss, but may fix a market failure |
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ib-dp-economics-role-of-government-in-microeconomics--09-gov-subsidy-pellar-hl.webp" width="900" height="1096" alt="An 18 cu subsidy shifts supply down. Quantity rises 30 to 36, consumers pay 84 and producers receive 102. Consumers gain 216, producers 432, cost 648; the over-provision loss is 54." loading="lazy">
-  <figcaption>A subsidy cost is shared as consumer and producer gains, with a welfare loss if there was no market failure.</figcaption>
-</figure>
-
-
 ## Other forms of intervention: short notes
 
 - **Direct provision of services.** The government supplies the service itself and pays from taxation. Strength: access for households on low incomes. Limit: opportunity cost of public money, and quality or queues may suffer.
@@ -151,12 +139,6 @@ Buyers who cannot find gas at 48 cu may pay up to 84 cu on a black market. This 
 - **Consumer nudges (HL only).** A change in how a choice is framed or set by default. Strength: cheap and keeps freedom of choice. Limit: effects can be small or uncertain, and people may disagree on who decides what is best for them.
 
 When asked to compare two forms, pick one criterion (cost, speed, fairness, effect on choice) and apply it to both throughout.
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ib-dp-economics-role-of-government-in-microeconomics--02-gov-other-tools.webp" width="900" height="1040" alt="Three panels: command and control uses rules and penalties; direct provision means the government supplies a service like a public clinic paid for by taxpayers; a consumer nudge (HL only) changes the default without banning anything." loading="lazy">
-  <figcaption>Command and control, direct provision and HL nudges compared.</figcaption>
-</figure>
-
 
 ## Evaluation checklist (AO3)
 
@@ -207,6 +189,26 @@ The guide asks you to weigh consequences for markets and stakeholders. Use these
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/ib-dp-economics-role-of-government-in-microeconomics--07-gov-price-floor-veldmark.webp" width="900" height="910" alt="Demand P = 120 - Q and supply P = 30 + 0.5Q meet at 60 and 60. A floor of 75 gives 45 demanded and 90 supplied, a surplus of 45. Buying the surplus costs 45 x 75 = 3,375 cu." loading="lazy">
   <figcaption>A floor above equilibrium creates a surplus the government may have to buy.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-economics-role-of-government-in-microeconomics--09-gov-subsidy-pellar-hl.webp" width="900" height="1096" alt="An 18 cu subsidy shifts supply down. Quantity rises 30 to 36, consumers pay 84 and producers receive 102. Consumers gain 216, producers 432, cost 648; the over-provision loss is 54." loading="lazy">
+  <figcaption>A subsidy cost is shared as consumer and producer gains, with a welfare loss if there was no market failure.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-economics-role-of-government-in-microeconomics--02-gov-other-tools.webp" width="900" height="1040" alt="Three panels: command and control uses rules and penalties; direct provision means the government supplies a service like a public clinic paid for by taxpayers; a consumer nudge (HL only) changes the default without banning anything." loading="lazy">
+  <figcaption>Command and control, direct provision and HL nudges compared.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-economics-government-microeconomic-intervention--05-tool-matching.webp" width="900" height="900" alt="A matching diagram joining four problems to six tools. Public good not provided: direct provision. Merit good under-consumed: direct provision, subsidy, information. Demerit good over-consumed: information, indirect tax, minimum price. Price too high or too low: maximum or minimum price, buffer stock." loading="lazy">
+  <figcaption>Match the tool to the problem: the mechanism, not just the name, earns marks.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-economics-government-microeconomic-intervention--02-subsidy-incidence.webp" width="900" height="890" alt="Supply and demand diagram where a subsidy of 2 per unit shifts supply down from S1 to S2. Quantity rises from 50 to 60, the consumer price falls from 5 to 3.8 (gain 1.2 a unit) and the producer receives 5.8 (gain 0.8 a unit). The government pays 2 a unit." loading="lazy">
+  <figcaption>A subsidy lowers the price consumers pay and raises what producers receive; the split depends on elasticity.</figcaption>
 </figure>
 
 

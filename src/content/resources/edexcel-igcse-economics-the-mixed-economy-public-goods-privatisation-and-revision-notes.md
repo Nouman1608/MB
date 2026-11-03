@@ -195,6 +195,11 @@ Chain for an external benefit: buyer counts only own gain, so demand is low, so 
   <figcaption>A 14-minute trip adds 6 minutes for others; at 0.30 a minute the driver sees 4.20 but society bears 6.00.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-allocation-of-resources--06-external-costs-and-benefits.webp" width="900" height="1160" alt="A factory has private cost 10 and its smoke harms neighbours with an external cost of 4, so social cost is 14. A vaccination has private benefit 6 and external benefit 3, so social benefit is 9. The market ignores the external parts." loading="lazy">
+  <figcaption>Social cost or benefit equals private plus external.</figcaption>
+</figure>
+
 
 ## Building a longer answer
 

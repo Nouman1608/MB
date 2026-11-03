@@ -37,6 +37,12 @@ These notes condense section 3.5.1 (Photosynthesis) of the AQA AS and A-level Bi
 | TP | Triose phosphate, three carbons, made by reducing GP |
 | Limiting factor | The factor that, when changed, changes the rate while the others stay as they are |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-photosynthesis--09-pondweed-practical.webp" width="900" height="1090" alt="Apparatus for the pondweed investigation: a lamp at distance d, a water heat shield, and pondweed in hydrogencarbonate solution releasing oxygen into a capillary. A bar chart shows intensity is proportional to 1/d squared: 1, 0.25 and 0.0625 at 10, 20 and 40 cm." loading="lazy">
+  <figcaption>How moving the lamp changes light intensity in the pondweed practical.</figcaption>
+</figure>
+
+
 ## Where things happen
 
 | Stage | Site in the chloroplast | Inputs | Outputs |
@@ -118,12 +124,6 @@ The pattern: whatever is made by a step that has stopped falls, and whatever is 
 
 Reading a graph: on the rising part, the x-axis factor limits. On a plateau, another factor limits and the x-axis factor does not.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-level-biology-9700-photosynthesis--08-limiting-factor-graphs.webp" width="900" height="1180" alt="Top: oxygen release against light intensity rises to 60 units then plateaus, and a higher-CO2 curve plateaus higher, so CO2 limited the first plateau. Bottom: rate against temperature rises 125 percent then 50 percent to 35 degrees and falls 78 percent at 45 degrees as enzymes denature." loading="lazy">
-  <figcaption>Rising parts are limited by the x-axis factor; plateaus mean another factor limits.</figcaption>
-</figure>
-
-
 ## Agricultural practices
 
 | Practice | Limiting factor addressed | Cost to weigh |
@@ -138,6 +138,12 @@ Method to evaluate data:
 2. Multiply extra yield by selling price to get extra income.
 3. Subtract the extra cost to get net gain.
 4. Comment on the quality of the evidence: size of trial, repeats, one crop, one site.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-photosynthesis--08-limiting-factor-graphs.webp" width="900" height="1180" alt="Top: oxygen release against light intensity rises to 60 units then plateaus, and a higher-CO2 curve plateaus higher, so CO2 limited the first plateau. Bottom: rate against temperature rises 125 percent then 50 percent to 35 degrees and falls 78 percent at 45 degrees as enzymes denature." loading="lazy">
+  <figcaption>Rising parts are limited by the x-axis factor; plateaus mean another factor limits.</figcaption>
+</figure>
+
 
 ## Required practical 7: chromatography
 

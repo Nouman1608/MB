@@ -143,12 +143,6 @@ x = (y + 2)^2 - 3
 ```
 When the subject is under a root, isolate the root first, then square both sides to remove it — squaring is always the last step, once the root stands alone. This rearrangement is only valid when y + 2 ≥ 0, since a square root cannot itself be negative; squaring both sides must always be checked for reversibility like this.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/indices-and-equations--06-subject-root.webp" width="900" height="850" alt="The graph of x = (y + 2)^2 - 3 is a sideways parabola; only the upper branch (y + 2 &gt;= 0) is the original function, and the lower dotted branch is added by squaring." loading="lazy">
-  <figcaption>Squaring adds a second branch, so the rearrangement is valid only when y + 2 &gt;= 0.</figcaption>
-</figure>
-
-
 ## Exam traps
 
 - `a^-n` is a reciprocal, not a negative number: 2⁻³ = 1/8, not −8.
@@ -174,3 +168,9 @@ When the subject is under a root, isolate the root first, then square both sides
 **Answers:** 1. 2⁴ × x¹² = **16x¹²**. 2. 27^(2/3) = (∛27)² = 3² = **9**; 5⁻² = 1/25 = **0.04**. 3. Adding: 3x = 12 → x = 4, y = 3. 4. (x − 2)(x − 3) = 0 → x = **2 or 3**. 5. h = V / (πr²). 6. Rewrite 25 as 5²: x + 1 = 2x → x = **1**. 7. x = **(y + 2)² − 3**, valid provided y + 2 ≥ 0.
 
 For worked examples with full explanations, see the [Indices and Equations study guide](/resources/indices-and-equations/); for exam-style practice with full mark schemes, see the [Indices and Equations practice questions](/resources/indices-and-equations-practice/).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/indices-and-equations--06-subject-root.webp" width="900" height="850" alt="The graph of x = (y + 2)^2 - 3 is a sideways parabola; only the upper branch (y + 2 &gt;= 0) is the original function, and the lower dotted branch is added by squaring." loading="lazy">
+  <figcaption>Squaring adds a second branch, so the rearrangement is valid only when y + 2 &gt;= 0.</figcaption>
+</figure>
+

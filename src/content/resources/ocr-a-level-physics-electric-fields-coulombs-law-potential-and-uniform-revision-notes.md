@@ -40,11 +40,6 @@ Condensed notes for section 6.2 (Electric fields) of OCR A Level Physics A (H556
   <figcaption>Outside a charged sphere, measure distance from its centre and use the point-charge formula.</figcaption>
 </figure>
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-physics-electric-fields--06-particle-in-uniform-field.webp" width="900" height="840" alt="An electron enters midway between plates at 2.0×10⁷ m s⁻¹. Along the plates its speed is constant (t = 2.5 ns); across them it accelerates at 1.76×10¹⁵ m s⁻², deflecting 5.5 mm towards the positive plate and leaving at 12.4° to its original path." loading="lazy">
-  <figcaption>The path is a parabola between the plates and a straight line after them.</figcaption>
-</figure>
-
 
 ## Formulae
 
@@ -89,6 +84,11 @@ Data used in the examples: ε₀ = 8.85 × 10⁻¹² F m⁻¹; elementary charge
   <figcaption>The force between point charges follows an inverse square law and acts along the line joining them.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-electric-fields--06-particle-in-uniform-field.webp" width="900" height="840" alt="An electron enters midway between plates at 2.0×10⁷ m s⁻¹. Along the plates its speed is constant (t = 2.5 ns); across them it accelerates at 1.76×10¹⁵ m s⁻², deflecting 5.5 mm towards the positive plate and leaving at 12.4° to its original path." loading="lazy">
+  <figcaption>The path is a parabola between the plates and a straight line after them.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 
@@ -123,12 +123,6 @@ Data used in the examples: ε₀ = 8.85 × 10⁻¹² F m⁻¹; elementary charge
 **Uniform field and an electron:** plates 1.8 cm apart with 450 V. E = 450/0.018 = 2.5 × 10⁴ V m⁻¹, F = eE = 4.0 × 10⁻¹⁵ N, and a = F/m = 4.4 × 10¹⁵ m s⁻², directed towards the positive plate (opposite to E).
 
 **V against r:** for a +6.0 nC point charge V = 270 V at 0.20 m and 135 V at 0.40 m. Doubling r halves V (V ∝ 1/r) but quarters E (E ∝ 1/r²).
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-physics-electric-fields--05-uniform-field-plates.webp" width="900" height="1250" alt="Between plates 3.0 cm apart at 1500 V the field is E = V/d = 5.0×10⁴ V m⁻¹ and a charge feels F = QE. Halving the gap at the same p.d. doubles E. OxfordAQA only: a droplet held still by QE = mg carries 4.9×10⁻¹⁹ C, about 3.1e." loading="lazy">
-  <figcaption>E = V/d for the uniform field between charged parallel plates.</figcaption>
-</figure>
-
 
 ## Graph and diagram reminders
 
@@ -186,6 +180,17 @@ Data used in the examples: ε₀ = 8.85 × 10⁻¹² F m⁻¹; elementary charge
 11. Work done moving the charge between the two distances.
 12. Alike: both follow an inverse square law for a point source. Different: gravity only attracts, but electric forces can attract or repel.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-electric-fields--05-uniform-field-plates.webp" width="900" height="1250" alt="Between plates 3.0 cm apart at 1500 V the field is E = V/d = 5.0×10⁴ V m⁻¹ and a charge feels F = QE. Halving the gap at the same p.d. doubles E. OxfordAQA only: a droplet held still by QE = mg carries 4.9×10⁻¹⁹ C, about 3.1e." loading="lazy">
+  <figcaption>E = V/d for the uniform field between charged parallel plates.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-electric-fields--08-gravity-vs-electric.webp" width="900" height="1290" alt="Both forces are inverse square laws. Gravity always attracts so its potential is always negative; the electric force can attract or repel, so potential takes the sign of the source charge. Between an electron and a proton the electric force is about 2.3×10³⁹ times the gravitational force." loading="lazy">
+  <figcaption>Gravity and electric force are alike in form but the electric force is vastly stronger and can repel.</figcaption>
+</figure>
+
+
 ## Where marks are usually lost
 
 - Measuring r from the surface of a sphere instead of from its centre.
@@ -197,12 +202,6 @@ Data used in the examples: ε₀ = 8.85 × 10⁻¹² F m⁻¹; elementary charge
 - Writing C = ε₀A/d when a material with εᵣ is present.
 - Deriving C = 4πε₀R without stating that V = Q/(4πε₀R) applies at the surface, or without starting from C = Q/V.
 - Ignoring the sideways displacement limit: checking whether a charged particle actually leaves the plates.
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-physics-electric-fields--08-gravity-vs-electric.webp" width="900" height="1290" alt="Both forces are inverse square laws. Gravity always attracts so its potential is always negative; the electric force can attract or repel, so potential takes the sign of the source charge. Between an electron and a proton the electric force is about 2.3×10³⁹ times the gravitational force." loading="lazy">
-  <figcaption>Gravity and electric force are alike in form but the electric force is vastly stronger and can repel.</figcaption>
-</figure>
-
 
 ## Official syllabus
 

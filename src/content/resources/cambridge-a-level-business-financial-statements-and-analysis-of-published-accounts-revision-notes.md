@@ -131,18 +131,8 @@ Earnings per share is not in the appendix. The standard form is profit for the y
 | Investment ratios | Return to shareholders; affects the share price and ability to raise capital | Raise profit; raise dividend; reinvest for growth; build investor confidence |
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/cambridge-a-level-business-financial-statements-and-analysis-of-published-accounts--05-ratio-compare.webp" width="900" height="1060" alt="Paired bars: current ratio 2.0 v 1.1, gross margin 35% v 38%, operating margin 10% v 7%, ROCE 19.2% v 14%, gearing 28% v 52%." loading="lazy">
-  <figcaption>Corrabeck is more liquid and less risky; Wentwater loses its better gross margin in expenses.</figcaption>
-</figure>
-
-<figure class="topic-figure">
   <img src="https://img.marlbridge.com/cambridge-a-level-business-financial-statements-and-analysis-of-published-accounts--01-liquidity-ratios.webp" width="900" height="930" alt="Stacked columns ($000): current assets 1,000 (cash 80, receivables 400, inventory 520) over current liabilities 500 give a current ratio of 2.0 to 1. Removing inventory leaves 480, so the acid test is 0.96 to 1." loading="lazy">
   <figcaption>The acid test removes inventory, the hardest current asset to turn into cash.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/cambridge-a-level-business-financial-statements-and-analysis-of-published-accounts--02-efficiency-days.webp" width="900" height="990" alt="Cost of sales 3,120 is 6.24 times average inventory 500. Receivables days are 38.0 and payables days 50.0, drawn as bars on a 0 to 60 day scale." loading="lazy">
-  <figcaption>Turnover and days ratios show how fast stock, receivables and payables move.</figcaption>
 </figure>
 
 <figure class="topic-figure">
@@ -202,6 +192,17 @@ Earnings per share is not in the appendix. The standard form is profit for the y
 10. Current ratio **1.5 : 1**; acid test = 360 ÷ 400 = **0.9 : 1**.
 11. Repay a loan; issue new shares; retain more profit.
 12. The cost was paid when the asset was bought; depreciation only spreads it across years.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-business-financial-statements-and-analysis-of-published-accounts--05-ratio-compare.webp" width="900" height="1060" alt="Paired bars: current ratio 2.0 v 1.1, gross margin 35% v 38%, operating margin 10% v 7%, ROCE 19.2% v 14%, gearing 28% v 52%." loading="lazy">
+  <figcaption>Corrabeck is more liquid and less risky; Wentwater loses its better gross margin in expenses.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-business-financial-statements-and-analysis-of-published-accounts--02-efficiency-days.webp" width="900" height="990" alt="Cost of sales 3,120 is 6.24 times average inventory 500. Receivables days are 38.0 and payables days 50.0, drawn as bars on a 0 to 60 day scale." loading="lazy">
+  <figcaption>Turnover and days ratios show how fast stock, receivables and payables move.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

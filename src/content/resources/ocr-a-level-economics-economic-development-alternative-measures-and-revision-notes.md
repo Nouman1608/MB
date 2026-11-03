@@ -102,6 +102,12 @@ These notes condense the development statements of "Economic growth and developm
 - **ODA:** a donor with GNI of 500bn meets the 0.7% target by giving 500 x 0.007 = **3.5bn**.
 - **Tariff cut:** a good priced at 50 faces a 10% tariff (consumer price 55). The tariff falls to 4% (consumer price 52). Change = 52 / 55 - 1 = **-5.5%**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-economic-development-alternative-measures-and--15-environmental-kuznets-curve.webp" width="900" height="760" alt="An inverted-U curve of pollution against income per head: pollution rises, reaches a turning point, then falls as higher income funds cleaner technology and regulation. It is an idea, not measured data, and depends on policy and on the pollutant." loading="lazy">
+  <figcaption>The environmental Kuznets curve says pollution first rises and then falls as income grows.</figcaption>
+</figure>
+
+
 ## Must-know distinctions
 
 - **Growth versus development:** growth is one quantity (real GDP); development is many outcomes.
@@ -170,6 +176,21 @@ When writing about these, name the mechanism (for example "conditionality reduce
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/ocr-a-level-economics-economic-development-alternative-measures-and--07-easterlin-paradox.webp" width="900" height="1100" alt="Two line charts: GDP per head index rises 100 to 260 while average life satisfaction stays about 6.8 to 6.9." loading="lazy">
   <figcaption>Average happiness barely rises as GDP per head grows.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-economic-development-alternative-measures-and--13-net-exports-contribution-growth.webp" width="900" height="830" alt="A ladder of bars splits GDP growth of 24% (100 to 124) into contributions: consumption 10, investment 6, government 2 and net exports 6 percentage points. Net exports moved from -4 (30 - 34) to +2 (42 - 40)." loading="lazy">
+  <figcaption>Net exports supplied 6 of the 24 percentage points of Country F’s growth.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-economic-development-alternative-measures-and--14-oda-share-and-tied-aid.webp" width="900" height="790" alt="Top: Donor D gives 6.3bn of ODA, 0.35% of its 1,800bn GNI, against a UN target of 0.7% (12.6bn), a shortfall of 6.3bn. Bottom: Recipient E receives 1.2bn (5% of GNI); if tied aid makes goods 25% dearer, it buys only 0.96bn of goods, losing 0.24bn." loading="lazy">
+  <figcaption>Aid can fall short of the target and tied aid buys less than its face value.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-economics-measurement-of-macroeconomic-performance--06-gdp-limitations.webp" width="900" height="930" alt="An iceberg: the visible tip is measured GDP per capita; below the surface are the informal economy, unpaid work, externalities and income distribution, which national income data ignores." loading="lazy">
+  <figcaption>National income data is useful but limited as a measure of living standards.</figcaption>
 </figure>
 
 

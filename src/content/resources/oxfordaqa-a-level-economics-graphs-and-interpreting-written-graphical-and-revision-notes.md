@@ -37,11 +37,6 @@ These notes condense quantitative skills QS4 (construct and interpret a range of
 | Economics diagram | Markets, costs, revenue | Label axes, curves, equilibrium |
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-graphs-and-interpreting-written-graphical-and--11-gr-pie-angles.webp" width="900" height="970" alt="A pie chart of Country B spending of 80 billion units. Health 24 is 30% and 108 degrees, education 16 is 20% and 72 degrees, welfare 20 is 25% and 90 degrees, defence 8 is 10% and 36 degrees, debt interest 6 is 7.5% and 27 degrees, other 6 is 7.5% and 27 degrees. The angles sum to 360 degrees. A pie shows shares only, not whether the total rose." loading="lazy">
-  <figcaption>Each slice angle is item ÷ total × 360, and the six angles must add to 360 degrees.</figcaption>
-</figure>
-
-<figure class="topic-figure">
   <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-graphs-and-interpreting-written-graphical-and--04-un227-gr-choose-form.webp" width="900" height="990" alt="Six small example graphs: line graph for change over time, bar chart for comparing categories, compound bar for total and parts, pie chart for shares of one total, scatter graph for whether two variables move together, and an economics diagram for price, quantity and cost." loading="lazy">
   <figcaption>Pick the graphical form that matches the question being asked.</figcaption>
 </figure>
@@ -71,6 +66,12 @@ These notes condense quantitative skills QS4 (construct and interpret a range of
 
 Check any pie by adding the angles. For a country's tax revenue of 50 split into income tax 20, sales tax 15, company tax 10 and other 5, the angles are 144, 108, 72 and 36, which sum to 360.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-graphs-and-interpreting-written-graphical-and--11-gr-pie-angles.webp" width="900" height="970" alt="A pie chart of Country B spending of 80 billion units. Health 24 is 30% and 108 degrees, education 16 is 20% and 72 degrees, welfare 20 is 25% and 90 degrees, defence 8 is 10% and 36 degrees, debt interest 6 is 7.5% and 27 degrees, other 6 is 7.5% and 27 degrees. The angles sum to 360 degrees. A pie shows shares only, not whether the total rose." loading="lazy">
+  <figcaption>Each slice angle is item ÷ total × 360, and the six angles must add to 360 degrees.</figcaption>
+</figure>
+
+
 ## Method for a scatter graph
 
 1. Plot each pair as a point.
@@ -94,17 +95,6 @@ Check any pie by adding the angles. For a country's tax revenue of 50 split into
 4. For a tax, shift supply up by the tax; for a subsidy, shift it down.
 5. Re-solve, then compare the price consumers pay with the price producers receive.
 6. Tax revenue (or subsidy cost) is the per-unit amount times the new quantity.
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-graphs-and-interpreting-written-graphical-and--01-un227-gr-tax-diagram.webp" width="900" height="1030" alt="A price against quantity diagram with demand Qd = 110 - 4P and supply Qs = 6P - 30 meeting at price 14 and quantity 54. A dashed supply line shifted up by the tax of 5 meets demand at price 17 and quantity 42. Two boxes up to quantity 42 split the tax: consumers pay 3 more (126) and producers keep 2 less (84), so revenue is 210." loading="lazy">
-  <figcaption>The tax of 5 on suppliers moves price from 14 to 17 and splits the tax 60:40 between consumers and producers.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-level-economics-price-system-and-the-microeconomy--07-tax-burden-and-elasticity.webp" width="900" height="1280" alt="A tax of 2 per unit shifts supply up. With inelastic demand (PED 0.5) buyers pay 6.43 and firms keep 4.43, so buyers bear 71 percent of the tax. With elastic demand (PED 3.3) buyers pay 5.55 and firms keep 3.55, so firms bear 73 percent." loading="lazy">
-  <figcaption>With inelastic demand buyers bear most of an indirect tax; with elastic demand producers bear most.</figcaption>
-</figure>
-
 
 ## Must-know distinctions
 
@@ -155,6 +145,21 @@ Year 3 growth is positive, yet output is still below the original 150. A line gr
   <figcaption>In 2021 growth is positive (+2.5%) but real GDP (210.78) is still below its 2018 peak (217.47); it passes the peak only in 2022.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-graphs-and-interpreting-written-graphical-and--01-un227-gr-tax-diagram.webp" width="900" height="1030" alt="A price against quantity diagram with demand Qd = 110 - 4P and supply Qs = 6P - 30 meeting at price 14 and quantity 54. A dashed supply line shifted up by the tax of 5 meets demand at price 17 and quantity 42. Two boxes up to quantity 42 split the tax: consumers pay 3 more (126) and producers keep 2 less (84), so revenue is 210." loading="lazy">
+  <figcaption>The tax of 5 on suppliers moves price from 14 to 17 and splits the tax 60:40 between consumers and producers.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-economics-macroeconomics-measuring-and-managing-the-economy--07-rate-versus-level.webp" width="900" height="1030" alt="Growth falls from 4% to 1% but real GDP still rises from 100 to 104 to 105.04. Inflation rises from 2% to 6%, so prices rise from 100 to 102 to 108.12, faster in year 2. Slower growth is not a recession." loading="lazy">
+  <figcaption>A falling growth rate is not a fall in the level of output.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-economics-price-system-and-the-microeconomy--07-tax-burden-and-elasticity.webp" width="900" height="1280" alt="A tax of 2 per unit shifts supply up. With inelastic demand (PED 0.5) buyers pay 6.43 and firms keep 4.43, so buyers bear 71 percent of the tax. With elastic demand (PED 3.3) buyers pay 5.55 and firms keep 3.55, so firms bear 73 percent." loading="lazy">
+  <figcaption>With inelastic demand buyers bear most of an indirect tax; with elastic demand producers bear most.</figcaption>
+</figure>
+
 
 ## Reading a table of data
 
@@ -163,22 +168,6 @@ Year 3 growth is positive, yet output is still below the original 150. A line gr
 3. Calculate change, share or ratio rather than saying "it went up".
 4. Compare like with like: same base year, same unit, same period.
 5. Write one sentence of meaning for each calculation.
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-graphs-and-interpreting-written-graphical-and--13-gr-truncated-axis.webp" width="900" height="910" alt="The same two bars of sales, 480 and 504, drawn twice. On the left the axis starts at zero and the bars look almost equal, which is correct for a 5% rise. On the right the axis starts at 470, so the bars are 10 and 34 units tall and the second bar looks 3.4 times the first." loading="lazy">
-  <figcaption>Sales rise 5% from 480 to 504; starting the axis at 470 makes the second bar look 3.4 times as tall.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-graphs-and-interpreting-written-graphical-and--02-un227-gr-dual-axes.webp" width="900" height="1010" alt="Two charts of the same two series. On scale choice A the lines stay apart; on scale choice B, with the right axis starting at 280, they cross. X rose 40% and Y 13.3%, so the crossing is created by the scales." loading="lazy">
-  <figcaption>The same two series can be made to run apart or cross by changing the axis scales.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-graphs-and-interpreting-written-graphical-and--03-un227-gr-points-vs-percent.webp" width="900" height="900" alt="One bar of 6.0 with an extra 1.5 is shown twice. Measured in percent it is a rise of 1.5 percentage points; measured against the starting 6.0 it is a rise of 25%." loading="lazy">
-  <figcaption>An unemployment rate rising from 6.0% to 7.5% is 1.5 percentage points, or 25% in relative terms.</figcaption>
-</figure>
-
 
 ## Quick self-test
 
@@ -207,8 +196,33 @@ Year 3 growth is positive, yet output is still below the original 150. A line gr
 10. 100 - 5P = 3P + 20 gives 80 = 8P, so P = 10; Q = 100 - 50 = 50.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ib-dp-economics-macroeconomics-measuring-and-managing-the-economy--07-rate-versus-level.webp" width="900" height="1030" alt="Growth falls from 4% to 1% but real GDP still rises from 100 to 104 to 105.04. Inflation rises from 2% to 6%, so prices rise from 100 to 102 to 108.12, faster in year 2. Slower growth is not a recession." loading="lazy">
-  <figcaption>A falling growth rate is not a fall in the level of output.</figcaption>
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-graphs-and-interpreting-written-graphical-and--13-gr-truncated-axis.webp" width="900" height="910" alt="The same two bars of sales, 480 and 504, drawn twice. On the left the axis starts at zero and the bars look almost equal, which is correct for a 5% rise. On the right the axis starts at 470, so the bars are 10 and 34 units tall and the second bar looks 3.4 times the first." loading="lazy">
+  <figcaption>Sales rise 5% from 480 to 504; starting the axis at 470 makes the second bar look 3.4 times as tall.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-graphs-and-interpreting-written-graphical-and--14-gr-compound-bar.webp" width="900" height="990" alt="Two stacked columns of Country E exports. In 2019 goods are 60 and services 40, total 100. In 2024 goods are 66 and services 54, total 120. Goods rose 10%, services 35% and the total 20%. The services share rose from 40% to 45%, which is 5 percentage points. A 100% stacked bar would show the shares but hide that the total grew." loading="lazy">
+  <figcaption>Services grew 35% against 10% for goods, so their share of exports rose from 40% to 45% as the total grew 20%.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-graphs-and-interpreting-written-graphical-and--02-un227-gr-dual-axes.webp" width="900" height="1010" alt="Two charts of the same two series. On scale choice A the lines stay apart; on scale choice B, with the right axis starting at 280, they cross. X rose 40% and Y 13.3%, so the crossing is created by the scales." loading="lazy">
+  <figcaption>The same two series can be made to run apart or cross by changing the axis scales.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-graphs-and-interpreting-written-graphical-and--03-un227-gr-points-vs-percent.webp" width="900" height="900" alt="One bar of 6.0 with an extra 1.5 is shown twice. Measured in percent it is a rise of 1.5 percentage points; measured against the starting 6.0 it is a rise of 25%." loading="lazy">
+  <figcaption>An unemployment rate rising from 6.0% to 7.5% is 1.5 percentage points, or 25% in relative terms.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-economics-measurement-of-macroeconomic-performance--03-index-numbers.webp" width="900" height="980" alt="Bars have widths equal to weights (food 50%, housing 30%, transport 20%) and heights equal to item indices 104, 106 and 96 against a base-year line at 100. The weighted average is 103, meaning prices are 3% above the base year." loading="lazy">
+  <figcaption>Weights make bigger spending items count more in an index anchored at 100.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-economics-price-system-and-the-microeconomy--04-ped-and-total-revenue.webp" width="900" height="1270" alt="Two demand diagrams with the same price cut from 5 to 4. With elastic demand (PED 2.5) quantity rises from 40 to 60: 40 of revenue is lost on existing sales, 80 is gained on extra sales, so revenue rises from 200 to 240. With inelastic demand (PED 0.5) quantity rises only to 44: the loss of 40 outweighs the gain of 16, so revenue falls to 176." loading="lazy">
+  <figcaption>Whether a price cut raises revenue depends on whether demand is elastic or inelastic.</figcaption>
 </figure>
 
 

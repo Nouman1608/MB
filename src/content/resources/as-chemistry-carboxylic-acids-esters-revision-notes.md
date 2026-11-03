@@ -144,12 +144,6 @@ Esters are **volatile with pleasant, fruity smells**, so they are used in flavou
 
 **A common mistake:** treating acid and alkaline hydrolysis as the same reaction with different reagents. One is a reversible equilibrium; the other goes to completion — this difference is often exactly what a question is testing.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-carboxylic-acids-and-derivatives--06-fats-soap-biodiesel.webp" width="900" height="1210" alt="A fat molecule has a glycerol backbone joined by three ester links to three twelve-carbon acid chains. Heating 31.9 g (0.0500 mol) with sodium hydroxide gives three soap molecules per fat (33.3 g maximum) and glycerol; reacting with methanol and a catalyst gives three methyl ester biodiesel molecules (32.1 g maximum) and glycerol." loading="lazy">
-  <figcaption>One fat gives three soap or three biodiesel molecules, the 1:3 ratio. AQA and OxfordAQA.</figcaption>
-</figure>
-
-
 ## Exam traps
 
 - Refluxing when distillation is needed, or vice versa.
@@ -169,3 +163,9 @@ Esters are **volatile with pleasant, fruity smells**, so they are used in flavou
 6. Write the equation for ethyl ethanoate hydrolysed by excess NaOH, and name both organic products.
 
 **Answers:** 1. Reflux instead of distilling, so the aldehyde is returned to the flask and oxidised further. 2. The carboxylate ion formed is stabilised by delocalisation of the negative charge over both oxygen atoms; an alkoxide ion has no such stabilisation. 3. Ethyl propanoate. 4. The carboxylate salt formed cannot react back with the alcohol, so the product is removed from the equilibrium and the reaction goes to completion. 5. From the alkaline hydrolysis (saponification) of triesters of glycerol with long-chain fatty acids, found in vegetable oils and animal fats. 6. CH₃COOC₂H₅ + NaOH → CH₃COONa + C₂H₅OH; the products are sodium ethanoate and ethanol.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-carboxylic-acids-and-derivatives--06-fats-soap-biodiesel.webp" width="900" height="1210" alt="A fat molecule has a glycerol backbone joined by three ester links to three twelve-carbon acid chains. Heating 31.9 g (0.0500 mol) with sodium hydroxide gives three soap molecules per fat (33.3 g maximum) and glycerol; reacting with methanol and a catalyst gives three methyl ester biodiesel molecules (32.1 g maximum) and glycerol." loading="lazy">
+  <figcaption>One fat gives three soap or three biodiesel molecules, the 1:3 ratio. AQA and OxfordAQA.</figcaption>
+</figure>
+

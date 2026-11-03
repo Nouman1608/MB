@@ -134,12 +134,6 @@ pairs stay on Cl, and OH⁻ can attack the δ+ carbon.
 **Relative ease of hydrolysis** (links to topic 33.3): acyl chlorides (fast, cold water) > alkyl
 chlorides (need heating with NaOH(aq)) > aryl chlorides (no reaction under these conditions).
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-chemistry-halogen-compounds-revision-notes--05-hal-aryl-unreactive.webp" width="900" height="1120" alt="Chloroethane is attacked by OH- at its delta plus carbon and is hydrolysed. In chlorobenzene a chlorine lone pair overlaps the ring pi system, strengthening the C-Cl bond, and the pi cloud repels OH-, so nothing happens." loading="lazy">
-  <figcaption>Overlap of the Cl lone pair with the ring and repulsion of OH- explain no reaction.</figcaption>
-</figure>
-
-
 ## Exam traps
 
 - The catalyst is **AlCl₃** for Cl₂ and **AlBr₃** for Br₂. It must be **anhydrous**; say "halogen carrier"
@@ -186,3 +180,9 @@ chlorides (need heating with NaOH(aq)) > aryl chlorides (no reaction under these
 *These are original notes written for revision. The percentage yield in question 9 is illustrative.
 Check the full syllabus wording in the
 [official 9701 syllabus](https://www.cambridgeinternational.org/Images/664563-2025-2027-syllabus.pdf).*
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-chemistry-halogen-compounds-revision-notes--05-hal-aryl-unreactive.webp" width="900" height="1120" alt="Chloroethane is attacked by OH- at its delta plus carbon and is hydrolysed. In chlorobenzene a chlorine lone pair overlaps the ring pi system, strengthening the C-Cl bond, and the pi cloud repels OH-, so nothing happens." loading="lazy">
+  <figcaption>Overlap of the Cl lone pair with the ring and repulsion of OH- explain no reaction.</figcaption>
+</figure>
+

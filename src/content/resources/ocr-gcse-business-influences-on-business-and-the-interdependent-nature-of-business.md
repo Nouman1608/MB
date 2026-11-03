@@ -163,6 +163,11 @@ The overseas site saves £4.20 per jacket, which is £105,000 a year across 25,0
   <figcaption>The dominant location factor differs by business: a bakery follows its market, a steel plant follows its raw materials.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-business-influences-on-business--01-ecommerce-reach.webp" width="900" height="1090" alt="A shop selling only to a few nearby customers inside a small dashed circle, then the same shop with a website reaching many customers spread widely. Labels say e-commerce affects marketing (wider markets) and operations (order fulfilment)." loading="lazy">
+  <figcaption>E-commerce lets a business reach customers well beyond its local area.</figcaption>
+</figure>
+
 
 ## 7 The interdependent nature of business
 
@@ -245,6 +250,11 @@ A 25% ARR looks attractive, but it rests on forecasts. The machine also means a 
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/ocr-gcse-business-influences-on-business-and-the-interdependent-nature-of-business--05-margins-fall-revenue-rises.webp" width="900" height="900" alt="Two bars show where each pound of revenue goes. In year 1 cost of sales takes 62.5p, other expenses 27.5p and net profit 10.0p (gross margin 37.5 percent). In year 2 cost of sales takes 65.0p, other expenses 26.1p and net profit 8.9p (gross margin 35.0 percent). Revenue rose 15 percent but net profit rose only 600 pounds, so both margins fell." loading="lazy">
   <figcaption>Revenue grew 15% but both margins fell, so profit hardly rose.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-business-business-operations--06-break-even.webp" width="900" height="900" alt="Break-even chart for price 20 pounds, variable cost 12 pounds a unit and fixed costs 4,800 pounds. Revenue and total cost cross at 600 units and 12,000 pounds; left of it is a loss, right of it a profit." loading="lazy">
+  <figcaption>At £20 price, £12 variable cost and £4,800 fixed costs, a business breaks even at 600 units a month.</figcaption>
 </figure>
 
 

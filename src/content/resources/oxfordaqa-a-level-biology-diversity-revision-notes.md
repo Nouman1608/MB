@@ -155,12 +155,6 @@ d = 210 / 102 = 2.06
 
 **Species richness alone would simply report "3 species"** and miss that one species heavily dominates the community — exactly why the index, which weights by relative abundance, is preferred over a raw species count.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/oxfordaqa-a-level-biology-diversity-revision-notes--03-diversity-index-worked.webp" width="900" height="1020" alt="Three species with 10, 4 and 1 individuals are drawn as shapes beside n and n(n-1) values 90, 12 and 0. With N = 15, N(N-1) = 210 and the sum is 102, so d = 210/102 = 2.06. An even community of 5, 5, 5 gives 3.50." loading="lazy">
-  <figcaption>Index of diversity d = N(N-1) / sum of n(n-1) for 10, 4 and 1 individuals gives 2.06.</figcaption>
-</figure>
-
-
 ## Exam traps
 
 - Omitting "fertile" from the species definition.
@@ -178,3 +172,9 @@ d = 210 / 102 = 2.06
 5. Why is comparing DNA sequences more reliable than comparing appearance?
 
 **Answers:** 1. A group of organisms with similar characteristics that can interbreed to produce **fertile** offspring; without "fertile", different species such as horse and donkey would be classed as one. 2. Domain, Kingdom, Phylum, Class, Order, Family, Genus, Species. 3. Greater diversity -- a larger number of species and/or a more even distribution of individuals between them. 4. Any two of the three 3.1.11.1 comparisons: the base sequence of DNA or mRNA; the frequency of specific base sequences or alleles in populations; the amino acid sequence of encoded proteins. 5. Appearance is influenced by the environment as well as by genes, and unrelated species can resemble each other through convergent evolution.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-biology-diversity-revision-notes--03-diversity-index-worked.webp" width="900" height="1020" alt="Three species with 10, 4 and 1 individuals are drawn as shapes beside n and n(n-1) values 90, 12 and 0. With N = 15, N(N-1) = 210 and the sum is 102, so d = 210/102 = 2.06. An even community of 5, 5, 5 gives 3.50." loading="lazy">
+  <figcaption>Index of diversity d = N(N-1) / sum of n(n-1) for 10, 4 and 1 individuals gives 2.06.</figcaption>
+</figure>
+

@@ -93,6 +93,17 @@ f is rising for x > 3        so f' > 0 there
 
 So f' is a U-shaped parabola crossing the x-axis at −1 and 3. It is symmetrical about x = 1, which is where its lowest point lies. For f(x) = x³ − 3x² − 9x, f'(x) = 3(x + 1)(x − 3), with f'(0) = −9 and a minimum value of −12 at x = 1. Label the intercepts and the minimum on your sketch.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-maths-9709-pure-mathematics-1-differentiation--02-gradient-function.webp" width="900" height="1110" alt="Two graphs aligned on the same x values. Top: the cubic f(x) = x cubed minus 3x squared minus 9x plus 4, rising to a maximum (minus 1, 9), falling to a minimum (3, minus 23), then rising. Bottom: its gradient function f dash = 3(x + 1)(x minus 3), a U-shaped parabola crossing zero at x = minus 1 and x = 3. Where f dash is positive f is rising, where negative f is falling, and f dash = 0 at the maximum and minimum." loading="lazy">
+  <figcaption>The sign of f′ tells you where f rises or falls, and f′ = 0 at turning points.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-maths-9709-pure-mathematics-1-differentiation--04-tangent-and-normal.webp" width="900" height="942" alt="Graph of y = square root of (2x + 5) with equal scales on both axes. At P(2, 3) the gradient is one third, so the gold tangent is 3y = x + 7. The teal normal is perpendicular, with gradient minus 3, y = 9 minus 3x, and crosses the x-axis at (3, 0). A right-angle mark at P shows the lines are perpendicular because one third times minus 3 equals minus 1." loading="lazy">
+  <figcaption>The tangent and normal at P(2, 3) are perpendicular because their gradients multiply to −1.</figcaption>
+</figure>
+
+
 ## 3. Second derivatives (1.07d, 1.07e)
 
 Differentiate f'(x) again to get the **second derivative**, written f''(x) or d²y/dx². It is the **rate of change of the gradient**.

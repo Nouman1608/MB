@@ -151,12 +151,6 @@ Features: few firms, large firms dominate, different products, barriers to entry
 
 **Small reminder.** Firms each earn (8 - 5) x 4,000 = 12,000 at a price of 8 and cost of 5. A cartel lifting price to 10 and cutting sales to 3,000 each gives (10 - 5) x 3,000 = 15,000. Profit rises by 3,000 each, although sales fall 25%.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/edexcel-igcse-economics-business-competition--05-igcse-cartel-price-war.webp" width="900" height="940" alt="Profit per firm is 30,000 under normal rivalry, 40,000 when a cartel holds, 48,000 for a cheater (30,000 for the others) and 12,000 in a price war. Cheating beats the cartel, so cartels break down." loading="lazy">
-  <figcaption>Cheating on a cartel pays, which leads to a price war.</figcaption>
-</figure>
-
-
 ## Evaluation checklist
 
 Use this when a question says discuss, evaluate or assess.
@@ -169,6 +163,12 @@ Use this when a question says discuss, evaluate or assess.
 **Worked pattern: "A cartel is always bad for consumers."** For: it can fund research from higher profit. Against: price is fixed above the competitive level and sales fall. Deciding factor: whether the extra profit is really spent on new products. Judgement: mostly bad for consumers, because the higher price is certain while the extra innovation is only possible.
 
 **Worked pattern: "Small firms are better than large firms."** For small: quick decisions and personal service. For large: economies of scale and finance. Deciding factor: the market. A niche market may favour small firms, and a mass market may favour large ones.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-economics-business-competition--05-igcse-cartel-price-war.webp" width="900" height="940" alt="Profit per firm is 30,000 under normal rivalry, 40,000 when a cartel holds, 48,000 for a cheater (30,000 for the others) and 12,000 in a price war. Cheating beats the cartel, so cartels break down." loading="lazy">
+  <figcaption>Cheating on a cartel pays, which leads to a price war.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 

@@ -173,12 +173,6 @@ When you are ready, test yourself with the [complex numbers practice questions](
 - **n-th roots vs a single root.** zⁿ = w has exactly n roots (w ≠ 0), equally spaced by 2π/n on a circle of radius |w|^(1/n).
 - **Exact vs 3 s.f.** Calculator-free answers are exact (surds, multiples of π). Calculator-allowed answers are exact or given to 3 significant figures.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ib-dp-mathematics-aa-hl-complex-numbers--04-multiply-scale-turn.webp" width="900" height="877" alt="Argand diagram with z1 = 6 cis(5pi/6) and z2 = 2 cis(pi/3). The product 12 cis(7pi/6) is z1 enlarged by factor 2 and turned anticlockwise by pi/3. It equals 12 cis(-5pi/6) in the range -pi &lt; theta &lt;= pi." loading="lazy">
-  <figcaption>Multiplying by r cis theta scales by r and turns anticlockwise by theta.</figcaption>
-</figure>
-
-
 ## Quick self-test
 
 1. Simplify i²³.
@@ -208,6 +202,12 @@ When you are ready, test yourself with the [complex numbers practice questions](
 10. −2i is also a root, so (z − 1)(z² + 4) = **z³ − z² + 4z − 4**.
 11. |2 + i|⁴ = (√5)⁴ = **25**.
 12. **A rotation of π/2 anticlockwise about the origin** (the modulus is unchanged).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-aa-hl-complex-numbers--04-multiply-scale-turn.webp" width="900" height="877" alt="Argand diagram with z1 = 6 cis(5pi/6) and z2 = 2 cis(pi/3). The product 12 cis(7pi/6) is z1 enlarged by factor 2 and turned anticlockwise by pi/3. It equals 12 cis(-5pi/6) in the range -pi &lt; theta &lt;= pi." loading="lazy">
+  <figcaption>Multiplying by r cis theta scales by r and turns anticlockwise by theta.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

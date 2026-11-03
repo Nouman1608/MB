@@ -136,6 +136,12 @@ depreciation policy — for instance a full year's charge in the year of
 purchase and none in the year of disposal, or a charge on a monthly
 basis — follow that policy exactly.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-double-entry-model--01-debit-credit-rules.webp" width="900" height="956" alt="Six T-accounts show which side increases each account type: assets, expenses and drawings on the debit side; liabilities, income and capital on the credit side. An example buys a 4,000 dollar van by bank: debit Van, credit Bank. The rule is debit the receiver, credit the giver." loading="lazy">
+  <figcaption>Debit the account that receives value and credit the one that gives it; each account type increases on one side only.</figcaption>
+</figure>
+
+
 ## Worked example: capital or revenue, and the cost of getting it wrong
 
 Riverside Deliveries charges depreciation on vehicles at 20% per year on
@@ -230,6 +236,12 @@ practical and a year-end valuation is a better guide to how much has
 been used up. Once a method is chosen, it is applied consistently from
 year to year.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-double-entry-model--05-depreciation-methods.webp" width="900" height="1090" alt="For a 20,000 pound asset with 2,000 residual and four years, straight line charges 4,500 each year to reach 2,000. Reducing balance at 25 percent charges 5,000, 3,750, 2,813 and 2,109 and ends at 6,328. Lines and bars show the carrying value and yearly charge." loading="lazy">
+  <figcaption>Reducing balance front-loads the charge; straight line is level.</figcaption>
+</figure>
+
+
 ## Worked example: depreciation and disposal in the ledger
 
 Hassan's financial year ends on 31 December. He depreciates equipment at
@@ -318,6 +330,11 @@ profit on disposal would be added as other income). At 31 December 2027
 the statement of financial position shows equipment at cost $45,000,
 less accumulated depreciation $17,400 (the balance on the provision
 account), giving a net book value of $27,600.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-double-entry-model--02-balancing-account.webp" width="900" height="1020" alt="A K Lee ledger account is balanced: debits 300 and 450, credits 500 and 50, balance carried down 200, both sides 750, and 200 brought down on the debit side. A running balance layout (Cambridge only) gives the same 200 Dr." loading="lazy">
+  <figcaption>Balancing adds both sides, inserts the balance carried down, and brings it down on the opposite side.</figcaption>
+</figure>
 
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/aqa-a-level-accounting-double-entry-model--06-disposal-profit-loss.webp" width="900" height="1000" alt="Equipment that cost 9,000 dollars with 2,700 depreciation has a net book value of 6,300. Sold for 4,800 it gives a 1,500 loss. The disposal account shows debit 9,000 and credits 2,700, 4,800 and 1,500." loading="lazy">
@@ -582,6 +599,12 @@ the year, equity and current assets are all understated in Year 1, and
 gross profit and profit for the year are overstated in Year 2. Over the
 two years the total profit is the same; the error moves profit from one
 year to the other.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-double-entry-model--09-trial-balance-blind-spots.webp" width="900" height="968" alt="Six small debit and credit examples show omission, commission, principle, original entry, reversal and compensating errors. In each, total debits still equal total credits, so the trial balance agrees even though the books are wrong." loading="lazy">
+  <figcaption>A balanced trial balance does not prove the books are correct.</figcaption>
+</figure>
+
 
 ## Common mistakes
 

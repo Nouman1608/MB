@@ -117,6 +117,11 @@ To compare isotopes using symbols, state three things: same element (same bottom
 - Two-step chain: ²¹²₈₂Pb → ²¹²₈₃Bi + ⁰₋₁e, then ²¹²₈₃Bi → ²¹²₈₄Po + ⁰₋₁e.
 
 <figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-nuclear-structure-isotopes-and-decay-equations--04-gamma-neutron-equations.webp" width="900" height="850" alt="Excited magnesium-24 emits a gamma ray (0, 0) and stays magnesium-24, so 24 = 24 + 0 and 12 = 12 + 0. Helium-5 emits a neutron (1, 0) to become helium-4, so 5 = 4 + 1 and 2 = 2 + 0." loading="lazy">
+  <figcaption>Gamma and neutron emission equations, with both numbers balanced.</figcaption>
+</figure>
+
+<figure class="topic-figure">
   <img src="https://img.marlbridge.com/igcse-physics-0625-nuclear-physics--04-decay-equations.webp" width="900" height="1060" alt="Radium-226 decays by alpha emission to radon-222 plus a helium-4 nucleus: 226 = 222 + 4 and 88 = 86 + 2. Carbon-14 decays by beta emission to nitrogen-14 plus an electron: 14 = 14 + 0 and 6 = 7 + (-1)." loading="lazy">
   <figcaption>In a decay equation the top numbers balance and the bottom numbers balance.</figcaption>
 </figure>
@@ -178,12 +183,6 @@ Beta emission moves you one place along the periodic table to the right. Alpha e
 - Gamma is the only emission here that leaves both numbers alone.
 - The sum of top numbers and the sum of bottom numbers are both conserved in every equation.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ocr-gcse-physics-nuclear-structure-isotopes-and-decay-equations--04-gamma-neutron-equations.webp" width="900" height="850" alt="Excited magnesium-24 emits a gamma ray (0, 0) and stays magnesium-24, so 24 = 24 + 0 and 12 = 12 + 0. Helium-5 emits a neutron (1, 0) to become helium-4, so 5 = 4 + 1 and 2 = 2 + 0." loading="lazy">
-  <figcaption>Gamma and neutron emission equations, with both numbers balanced.</figcaption>
-</figure>
-
-
 ## Must-know distinctions
 
 - **Isotope vs element:** isotopes of one element differ in neutrons only.
@@ -229,6 +228,12 @@ Beta emission moves you one place along the periodic table to the right. Alpha e
 10. A = 26, Z = 12: ²⁶₁₂Mg, a different isotope of magnesium.
 11. Neither changes. The nucleus loses energy only.
 12. ²⁰⁶₈₂Pb (A = 210 - 4 = 206, Z = 84 - 2 = 82). The nuclear charge falls from +84 to +82 because two protons leave in the alpha particle.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-nuclear-structure-isotopes-and-decay-equations--05-bismuth-chain.webp" width="900" height="1040" alt="Bismuth-212 emits a beta particle to become polonium-212, one square up and left. Polonium-212 emits an alpha particle to become lead-208, two squares down and left. Both steps balance in mass number and charge." loading="lazy">
+  <figcaption>Bi-212 to Po-212 to Pb-208 plotted step by step, with balance checks.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

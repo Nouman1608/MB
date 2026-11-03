@@ -101,6 +101,11 @@ n² + n + 11 = 100 + 10 + 11 = 121 = 11 × 11
 </figure>
 
 <figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-mathematical-language-set-notation-functions-and--05-counter-example-graph.webp" width="900" height="920" alt="The graph of y = x² with the line y = 25 shows x² &gt; 25 for x &lt; −5 or x &gt; 5. The claim only fits x &gt; 5. The point (−6, 36) is above the line but −6 is not greater than 5, so it disproves the claim." loading="lazy">
+  <figcaption>One case that meets the condition but breaks the conclusion disproves a general claim.</figcaption>
+</figure>
+
+<figure class="topic-figure">
   <img src="https://img.marlbridge.com/aqa-a-level-mathematics-mathematical-language-set-notation-functions-and--06-examples-not-proof.webp" width="900" height="860" alt="Four rows of dots, one per n, show each expression is prime until a single failure. 3^n + 2 fails at n = 5 (245), n² + n + 11 at n = 10 (121), 2n² + 11 at n = 11 (253) and n² + n + 41 at n = 40 (1681 = 41²)." loading="lazy">
   <figcaption>Long runs of examples can still end in a counter-example, so examples are not a proof.</figcaption>
 </figure>
@@ -113,6 +118,11 @@ n² + n + 11 = 100 + 10 + 11 = 121 = 11 × 11
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/aqa-a-level-mathematics-mathematical-language-set-notation-functions-and--08-infinite-primes.webp" width="900" height="880" alt="Six primes 2 to 13 each leave remainder 1 into N = 30031. N = 59 × 509, two primes not on the list. N need not be prime, only have a prime factor missing from the list." loading="lazy">
   <figcaption>Multiplying the listed primes and adding 1 always yields a prime factor not on the list.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-mathematical-language-set-notation-functions-and--09-multiple-of-three-gap.webp" width="900" height="690" alt="On a number line from 93 to 108 the multiples of 3 are filled. 6m + 9n = 3(2m + 3n) is always one of them, but 100 = 3 × 33 + 1 sits between 99 and 102, so no integers m, n exist." loading="lazy">
+  <figcaption>Every value of 6m + 9n is a multiple of 3, and 100 is not.</figcaption>
 </figure>
 
 

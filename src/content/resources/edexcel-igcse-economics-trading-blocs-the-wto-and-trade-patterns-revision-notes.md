@@ -212,6 +212,11 @@ Many developing countries now export more manufactures and trade more with each 
   <figcaption>Spreading fixed costs over more units cuts average cost by 30%.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-economics-trading-blocs-the-wto-and-trade-patterns--03-outsider-v-response.webp" width="900" height="900" alt="Bars show T’s price 50, V’s current price 46 plus a 9.20 tariff giving 55.2, and the pre-tariff price 41.67 V needs for 50 after tariff. This is a cut of 9.4 percent and cuts V’s revenue on 10,000 tyres from 460,000 to about 416,667." loading="lazy">
+  <figcaption>What an outsider must do to match a partner’s price inside a bloc.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

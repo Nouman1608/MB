@@ -70,11 +70,6 @@ In butane-1,2-diol, C1 is a CH₂ group, so C2 is the only chiral centre. In 1-p
   <figcaption>A carbon bonded to four different groups is a chiral centre; two identical groups mean it is not.</figcaption>
 </figure>
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-optical-isomerism--02-spot-chiral-centre.webp" width="900" height="950" alt="Four skeletal formulae with the tested carbon ringed and its four groups as colour-coded chips. 3-methylhexane C3 (H, CH3, C2H5, C3H7) is chiral; 3-methylpentane C3 has two identical ethyl groups so is not; 2-bromo-2-chlorobutane C2 has no hydrogen but four different groups so is chiral; 2-hydroxypropanoic acid C2 is chiral." loading="lazy">
-  <figcaption>Compare whole groups: two ethyl groups make a carbon achiral, and a chiral carbon need not carry hydrogen.</figcaption>
-</figure>
-
 
 ## Drawing enantiomers: method in steps
 
@@ -148,6 +143,11 @@ In butane-1,2-diol, C1 is a CH₂ group, so C2 is the only chiral centre. In 1-p
   <figcaption>A planar carbon is attacked equally from both faces, so a chiral product forms as a 1:1 racemate.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-optical-isomerism--08-sn1-sn2-evidence.webp" width="900" height="1110" alt="Edexcel only. SN1: one enantiomer of 3-chloro-3-methylheptane loses chloride to a planar carbocation; OH minus attacks either face, giving both enantiomers 1:1, a racemate with no rotation. SN2: hydroxide attacks 2-iodohexane from the side opposite iodine; the other three groups flip and a single inverted enantiomer forms, which is optically active." loading="lazy">
+  <figcaption>No rotation points to a planar intermediate (SN1); a single inverted enantiomer that rotates points to SN2 (Edexcel only).</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 
@@ -156,17 +156,6 @@ In butane-1,2-diol, C1 is a CH₂ group, so C2 is the only chiral centre. In 1-p
 - **Optical vs E–Z isomerism.** Optical: a carbon with four different groups. E–Z: a C=C that cannot rotate, where both carbons carry two unlike groups.
 - **Aldehyde or unsymmetrical ketone vs symmetrical ketone** with KCN then dilute acid. Aldehydes and unsymmetrical ketones lead to a racemate. With a symmetrical ketone, the new C–OH carbon carries two identical groups, so the product is not chiral. Methanal gives no chiral product either, because it has two hydrogens on its C=O carbon.
 - **Structural vs displayed formula.** Both must show the 3D arrangement at the chiral carbon. Only the displayed formula shows every bond.
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-optical-isomerism--04-non-superimposable.webp" width="900" height="970" alt="Ball-and-stick models of enantiomer A and its mirror image B. B is turned by a computed rotation so COOH and CH3 coincide with A; then NH2 and H are in each other places, marked with dashed rings and crosses, so B cannot be superimposed on A." loading="lazy">
-  <figcaption>Enantiomers are mirror images that cannot be superimposed: after lining up two groups, the other two are swapped.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-optical-isomerism--09-stereospecific-enzyme.webp" width="900" height="750" alt="Two enzyme active sites with three pockets (circle, triangle, square). Enantiomer A fits all three. Its mirror image B can match only one pocket, whichever way it is turned, so only one group fits. The fourth group, H, points away. A racemate drug therefore has only half its molecules able to fit." loading="lazy">
-  <figcaption>An active site fits only one enantiomer, so only that enantiomer binds (AQA only).</figcaption>
-</figure>
-
 
 ## Quick self-test
 
@@ -193,6 +182,22 @@ In butane-1,2-diol, C1 is a CH₂ group, so C2 is the only chiral centre. In 1-p
 8. Mr of C₆H₁₃Br = 6(12.0) + 13(1.0) + 79.9 = 164.9. Each enantiomer is 0.0125 mol, so mass = 0.0125 × 164.9 = **2.06 g**.
 9. C2: it carries OH, CN, CH₃ and CH₂CH(CH₃)₂. C4 carries two CH₃ groups.
 10. E–Z isomerism. It has no carbon with four different groups, so it does not show optical isomerism.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-optical-isomerism--02-spot-chiral-centre.webp" width="900" height="950" alt="Four skeletal formulae with the tested carbon ringed and its four groups as colour-coded chips. 3-methylhexane C3 (H, CH3, C2H5, C3H7) is chiral; 3-methylpentane C3 has two identical ethyl groups so is not; 2-bromo-2-chlorobutane C2 has no hydrogen but four different groups so is chiral; 2-hydroxypropanoic acid C2 is chiral." loading="lazy">
+  <figcaption>Compare whole groups: two ethyl groups make a carbon achiral, and a chiral carbon need not carry hydrogen.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-optical-isomerism--04-non-superimposable.webp" width="900" height="970" alt="Ball-and-stick models of enantiomer A and its mirror image B. B is turned by a computed rotation so COOH and CH3 coincide with A; then NH2 and H are in each other places, marked with dashed rings and crosses, so B cannot be superimposed on A." loading="lazy">
+  <figcaption>Enantiomers are mirror images that cannot be superimposed: after lining up two groups, the other two are swapped.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-optical-isomerism--09-stereospecific-enzyme.webp" width="900" height="750" alt="Two enzyme active sites with three pockets (circle, triangle, square). Enantiomer A fits all three. Its mirror image B can match only one pocket, whichever way it is turned, so only one group fits. The fourth group, H, points away. A racemate drug therefore has only half its molecules able to fit." loading="lazy">
+  <figcaption>An active site fits only one enantiomer, so only that enantiomer binds (AQA only).</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

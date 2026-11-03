@@ -54,6 +54,11 @@ These notes condense section 3.1.2.4, The marketing mix, from the OxfordAQA Inte
   <figcaption>The product life cycle, with an extension strategy shown dashed.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-business-marketing--04-ped-and-revenue.webp" width="900" height="910" alt="A demand curve with two revenue rectangles. A 10 percent price rise from $10 to $11 cuts quantity 4 percent from 1,000 to 960. Revenue gained of $960 outweighs revenue lost of $400, so revenue rises from $10,000 to $10,560." loading="lazy">
+  <figcaption>When demand is price inelastic, raising price raises total revenue.</figcaption>
+</figure>
+
 
 ## Product
 
@@ -81,6 +86,16 @@ Memory hook: "I Should Choose Better Products Locally."
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/oxfordaqa-a-level-business-the-marketing-mix--06-npd-six-stages.webp" width="900" height="899" alt="Six numbered rows: 14 ideas, screening drops 9 and keeps 5, concept testing rates 2 highly, business analysis compares break-even 400,000 with demand 520,000, then product testing and launch." loading="lazy">
   <figcaption>New products pass through six stages in order.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-business-the-marketing-mix--01-extension-strategies.webp" width="900" height="1110" alt="A sales curve rises, peaks and declines; a shaded band marks maturity and a dashed line shows sales held up by an extension strategy. Four cards give a gain and a cost for advertising, rebranding, lower price and adapting the product." loading="lazy">
+  <figcaption>Each extension strategy delays decline but carries a cost.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-business-the-marketing-mix--02-brand-own-label.webp" width="900" height="700" alt="Two packs: one with the maker’s name (brand) and one with the retailer’s name (own label), with the value and risk of each." loading="lazy">
+  <figcaption>A brand carries the maker’s name; an own label carries the retailer’s.</figcaption>
 </figure>
 
 
@@ -134,6 +149,11 @@ Rule of thumb: elastic, a price rise cuts revenue; inelastic, a price rise lifts
   <figcaption>A mark-up is on cost; a margin is on price.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-marketing--05-pricing-methods.webp" width="900" height="990" alt="A graph shows skimming starting high and falling, and penetration starting low and rising, both towards the same price. Cost-plus adds a mark-up to cost (6 + 1.5 = 7.5). Competitive pricing matches rivals (5.00, 5.20, 5.10 so 5.10). Promotional pricing is a short-term cut (8 to 6)." loading="lazy">
+  <figcaption>Skimming, penetration, cost-plus, competitive and promotional pricing.</figcaption>
+</figure>
+
 
 ## Promotion
 
@@ -167,6 +187,11 @@ Rule of thumb: elastic, a price rise cuts revenue; inelastic, a price rise lifts
   <figcaption>An agent sells on commission without stock; multi-channel combines routes.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-marketing--06-distribution-channels.webp" width="900" height="1060" alt="Three routes from producer to consumer: via wholesaler then retailer, via retailer only, or direct. Longer chains reach many shops but add cost; the direct route keeps the whole margin but means doing the selling yourself." loading="lazy">
+  <figcaption>Channels of distribution from producer to consumer.</figcaption>
+</figure>
+
 
 ## If your course is 9625 (different content)
 
@@ -179,6 +204,16 @@ Rule of thumb: elastic, a price rise cuts revenue; inelastic, a price rise lifts
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/oxfordaqa-a-level-business-the-marketing-mix--05-discrimination-dynamic.webp" width="900" height="1040" alt="Two prices for two separate groups, and a line graph of a price that rises at busy hours of the day." loading="lazy">
   <figcaption>Discrimination uses fixed groups; dynamic pricing changes with demand.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-marketing--06-seven-ps.webp" width="900" height="990" alt="Four core Ps (Product, Price, Place, Promotion) apply to every business. Three extra Ps matter especially for services: People, Process and Physical evidence. A service is experienced, not just bought." loading="lazy">
+  <figcaption>Four core Ps plus three extra Ps that matter especially for service businesses.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-business-marketing--01-boston-matrix.webp" width="900" height="1000" alt="Chart of relative market share (high left, low right, log scale) against market growth. Star, Question mark, Cash cow and Dog quadrants each carry a one-line strategy, with four illustrative products A to D placed in them." loading="lazy">
+  <figcaption>The Boston Matrix classifies products by market share and market growth and suggests a strategy for each.</figcaption>
 </figure>
 
 
@@ -243,12 +278,6 @@ Rule of thumb: elastic, a price rise cuts revenue; inelastic, a price rise lifts
 9. Advertising, rebranding, lowering the price, adapting the product.
 10. Agent: less control over how the product is presented. Social media: negative comments spread quickly.
 11. Mixed messages confuse customers and waste spend; the elements should reinforce one positioning for one target market.
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/oxfordaqa-a-level-business-the-marketing-mix--02-brand-own-label.webp" width="900" height="700" alt="Two packs: one with the maker’s name (brand) and one with the retailer’s name (own label), with the value and risk of each." loading="lazy">
-  <figcaption>A brand carries the maker’s name; an own label carries the retailer’s.</figcaption>
-</figure>
-
 
 ## Where marks are usually lost
 

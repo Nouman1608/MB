@@ -51,11 +51,6 @@ These notes condense four parts of the AQA AS and A-level Economics specificatio
 | Expected higher future price | Left now (stock held back) |
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/aqa-a-level-economics-supply-elasticity-of-supply-equilibrium-and-related--09-sup-tax-shift.webp" width="900" height="1050" alt="The tax shifts supply up by £2. The new equilibrium is £9.20 and 532 units. Buyers pay £1.20 more and firms keep £0.80 less. A £2 tax moves price by only £1.20: buyers bear 60%." loading="lazy">
-  <figcaption>A £2 tax moves price by only £1.20: buyers bear 60%.</figcaption>
-</figure>
-
-<figure class="topic-figure">
   <img src="https://img.marlbridge.com/igcse-economics-the-allocation-of-resources--04-shifts-of-supply.webp" width="900" height="1000" alt="Three parallel supply curves: S1 original, S2 to the right (increase; at price 5 quantity 50 to 70), S3 to the left (decrease; 50 to 30). Rightward shifts come from lower costs, better technology or more sellers; leftward from higher costs or fewer sellers." loading="lazy">
   <figcaption>A shift of the whole supply curve is caused by costs of production, technology or the number of sellers.</figcaption>
 </figure>
@@ -134,6 +129,11 @@ The less elastic the supply, the larger the price rise and the smaller the quant
   <figcaption>Between prices 8 and 9 on Qs = 100 + 60P, PES is 0.83, which is inelastic.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-economics-price-system-and-the-microeconomy--03-price-elasticity-of-supply.webp" width="900" height="1000" alt="Two supply curves pass through the same point at price 5 and quantity 50. A 20 percent price rise to 6 lifts short-run quantity by 10 percent to 55 (PES 0.5, inelastic) but long-run quantity by 40 percent to 70 (PES 2, elastic). More time and spare capacity make supply more elastic." loading="lazy">
+  <figcaption>The same price rise brings a bigger supply response when firms have more time and spare capacity.</figcaption>
+</figure>
+
 
 ## Equilibrium and disequilibrium
 
@@ -155,12 +155,6 @@ The less elastic the supply, the larger the price rise and the smaller the quant
 
 Many buyers and sellers who are price takers; identical products; rational, well-informed participants; ceteris paribus; flexible prices; no intervention; no externalities. **Limits:** firms with market power, branded goods, imperfect information, sticky prices, slow adjustment and irrational behaviour all weaken the model, though it remains a useful benchmark.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/aqa-a-level-economics-supply-elasticity-of-supply-equilibrium-and-related--07-sup-equilibrium-gaps.webp" width="900" height="990" alt="Qd = 900 - 40P and Qs = 100 + 60P meet at £8 and 580 units. At £10 supply exceeds demand by 200; at £6 demand exceeds supply by 200. Excess supply at £10 and excess demand at £6 push price to £8." loading="lazy">
-  <figcaption>Excess supply at £10 and excess demand at £6 push price to £8.</figcaption>
-</figure>
-
-
 ## Related markets
 
 | Term | Key idea | Typical effect of a change in good A's market |
@@ -176,6 +170,16 @@ Many buyers and sellers who are price takers; identical products; rational, well
 **Chain-of-reasoning template:** cause, which curve shifts, new price and quantity in market 1, link to market 2 (substitute, complement, input, by-product), which curve shifts there, and the new price and quantity.
 
 <figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-supply-elasticity-of-supply-equilibrium-and-related--07-sup-equilibrium-gaps.webp" width="900" height="990" alt="Qd = 900 - 40P and Qs = 100 + 60P meet at £8 and 580 units. At £10 supply exceeds demand by 200; at £6 demand exceeds supply by 200. Excess supply at £10 and excess demand at £6 push price to £8." loading="lazy">
+  <figcaption>Excess supply at £10 and excess demand at £6 push price to £8.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-supply-elasticity-of-supply-equilibrium-and-related--09-sup-tax-shift.webp" width="900" height="1050" alt="The tax shifts supply up by £2. The new equilibrium is £9.20 and 532 units. Buyers pay £1.20 more and firms keep £0.80 less. A £2 tax moves price by only £1.20: buyers bear 60%." loading="lazy">
+  <figcaption>A £2 tax moves price by only £1.20: buyers bear 60%.</figcaption>
+</figure>
+
+<figure class="topic-figure">
   <img src="https://img.marlbridge.com/aqa-a-level-economics-supply-elasticity-of-supply-equilibrium-and-related--12-composite-demand-milk.webp" width="900" height="770" alt="Two bars show milk shared between cheese, butter and yoghurt with illustrative shares. When cheese demand rises, cheese gets 15 more and butter 15 less." loading="lazy">
   <figcaption>With composite demand, more of the good for one use leaves less for another.</figcaption>
 </figure>
@@ -188,6 +192,16 @@ Many buyers and sellers who are price takers; identical products; rational, well
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/aqa-a-level-economics-supply-elasticity-of-supply-equilibrium-and-related--14-multi-market-chain.webp" width="900" height="820" alt="A poor wheat harvest cuts wheat supply and raises its price. Flour costs push bread supply left and its price up. Buyers switch to rice, raising its demand and price. Mills use less labour, so demand for labour falls." loading="lazy">
   <figcaption>A change in the wheat market spreads to bread, rice and labour.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-allocation-of-resources--05-equilibrium-price.webp" width="900" height="940" alt="Demand and supply cross at equilibrium: price 5, quantity 50. At price 8, quantity demanded 20 and supplied 87.5, a surplus, so price falls. At price 3, demanded 70 and supplied 25, a shortage, so price rises." loading="lazy">
+  <figcaption>Price moves towards the equilibrium where demand equals supply.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-economics-price-system-and-the-microeconomy--09-related-markets.webp" width="900" height="1000" alt="Four pairs of linked markets. Joint demand: more demand for printers raises demand for ink. Alternative demand: a rise in the price of tea raises demand for coffee. Derived demand: more demand for cars raises demand for steel. Joint supply: more beef output raises the supply of leather." loading="lazy">
+  <figcaption>Markets are linked by joint demand, alternative demand, derived demand and joint supply.</figcaption>
 </figure>
 
 

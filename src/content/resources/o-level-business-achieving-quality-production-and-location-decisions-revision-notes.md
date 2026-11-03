@@ -151,6 +151,12 @@ Worked reminder: Ostwick Tiles samples 400 tiles and finds 14 cracked. The rate 
 | Government incentives | Lower start-up costs |
 | Legal controls | May restrict, delay or add cost |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-business-achieving-quality-production-and-location-decisions--07-country-unit-cost.webp" width="900" height="900" alt="Stacked bars of unit cost. Country X totals 4.80; Country Y totals 5.12 including a 0.32 tariff. X is 0.32 cheaper per candle, 64,000 a year on 200,000 candles." loading="lazy">
+  <figcaption>Cheaper labour in country Y is outweighed by shipping and the import tariff.</figcaption>
+</figure>
+
+
 ### Legal controls on location
 
 - limits on how land can be used, such as keeping factories out of residential or protected areas

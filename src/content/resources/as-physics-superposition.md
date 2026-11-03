@@ -223,6 +223,11 @@ fringes spaced 1.2 mm apart on a screen 1.5 m away.
   <figcaption>Path difference n lambda gives reinforcement; (n + 1/2) lambda gives cancellation.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-physics-waves--07-aphy-waves-double-slit.webp" width="900" height="1120" alt="A laser lights two slits a distance s apart, giving equally spaced fringes of spacing w = lambda D / s on a screen distance D away (not to scale). For 633 nm, 0.50 mm and 1.80 m, w = 2.28 mm. With white light the central fringe is white and violet fringes lie nearer the centre than red ones." loading="lazy">
+  <figcaption>Fringe spacing w = lambda D / s; white light gives a white centre and coloured fringes.</figcaption>
+</figure>
+
 
 ## The diffraction grating
 

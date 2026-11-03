@@ -43,6 +43,11 @@ If the quadratic has no real roots, the line and curve do not meet. If it has on
   <figcaption>After substitution, the discriminant shows whether the line cuts, touches or misses the curve.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-mathematics-quadratics-and-inequalities--08-disguised-quadratic.webp" width="900" height="1255" alt="With u = x^2 the equation x^4 - 5x^2 + 4 = 0 becomes u^2 - 5u + 4 = 0 with roots u = 1 and 4. Going back gives x = -2, -1, 1 and 2, the four x-intercepts of the quartic." loading="lazy">
+  <figcaption>Substitute u for the repeated function, solve the quadratic, then solve back for x using both signs. (Cambridge 9709 only.)</figcaption>
+</figure>
+
 
 ## 1.7 and 1.9 Inequalities
 
@@ -147,6 +152,11 @@ Cubic checklist: sign of the x³ coefficient (end behaviour), roots from factors
   <figcaption>Completed-square form gives the vertex, line of symmetry and maximum value at a glance.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-mathematics-quadratics-and-inequalities--02-discriminant-roots.webp" width="900" height="1150" alt="Three parabolas y = x^2 - 4x + k for k = 1, 4 and 7. Discriminants 12, 0 and -12 give two distinct real roots, one repeated root and no real roots respectively." loading="lazy">
+  <figcaption>The sign of b^2 - 4ac tells you whether the curve crosses, touches or misses the x-axis.</figcaption>
+</figure>
+
 
 ## 1.12 Transformations
 
@@ -215,12 +225,6 @@ Given any graph, apply the rule to each labelled point: maximum, minimum, interc
 - Applying f(2x) as a doubling of x-coordinates rather than halving.
 - Forgetting that a double root touches rather than crosses the axis.
 - Treating a dotted boundary as part of the region.
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-level-aqa-mathematics-quadratics-and-inequalities--02-discriminant-roots.webp" width="900" height="1150" alt="Three parabolas y = x^2 - 4x + k for k = 1, 4 and 7. Discriminants 12, 0 and -12 give two distinct real roots, one repeated root and no real roots respectively." loading="lazy">
-  <figcaption>The sign of b^2 - 4ac tells you whether the curve crosses, touches or misses the x-axis.</figcaption>
-</figure>
-
 
 ## Official syllabus
 

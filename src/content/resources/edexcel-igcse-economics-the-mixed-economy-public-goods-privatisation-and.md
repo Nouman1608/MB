@@ -118,22 +118,6 @@ A fictional town has 200 households. Lighting a lane costs 900 units a year. Eac
 
 The market failed although the good was worth providing. Taxation removes the free rider problem because payment is compulsory.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/edexcel-igcse-economics-the-mixed-economy-public-goods-privatisation-and--01-street-light-funding.webp" width="900" height="1040" alt="A grid of 200 household dots, 40 filled (paying) and 160 free riders, above three bars: cost 900, voluntary payments 240 (660 short) and tax revenue 900. Only compulsory tax covers the cost." loading="lazy">
-  <figcaption>Why voluntary payment fails for a public good but tax succeeds.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-economics-the-allocation-of-resources--04-public-goods.webp" width="900" height="1060" alt="A street light shines on four people but only one pays. The three free riders use it without paying, so private firms make no profit and will not supply it. The government provides it, paid for by taxes." loading="lazy">
-  <figcaption>Public goods are non-excludable, so free riders stop private firms supplying them.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-level-economics-basic-economic-ideas-and-resource-allocation--04-free-rider-problem.webp" width="900" height="890" alt="A street lamp lights five people but only one pays; four free ride because nobody can be excluded. The collected 25 is far below the lamp's cost of 100, so a private firm cannot supply it profitably." loading="lazy">
-  <figcaption>Non-excludability lets people free ride, so private firms cannot profitably supply public goods.</figcaption>
-</figure>
-
-
 ## The public and private sectors in practice (1.1.5 h, i)
 
 **Roles in production.** The private sector produces most goods and services that consumers buy: food, clothing, phones, many services. The public sector produces public goods, and often provides education, healthcare, policing and some transport and utilities. Some goods are provided by both, such as schools and hospitals.
@@ -151,8 +135,23 @@ Fictional data, all in billions of units:
 Working: 126 ÷ 420 × 100 = 30.0%; 231 ÷ 420 × 100 = 55.0%; 50 ÷ 400 × 100 = 12.5%. Country B has the largest public sector, Country C the smallest. Other measures are the share of workers employed by the government and the share of output made by state-owned firms. Which balance is best depends on aims: a larger public sector gives more equal access to services but needs higher taxes.
 
 <figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-economics-the-mixed-economy-public-goods-privatisation-and--01-street-light-funding.webp" width="900" height="1040" alt="A grid of 200 household dots, 40 filled (paying) and 160 free riders, above three bars: cost 900, voluntary payments 240 (660 short) and tax revenue 900. Only compulsory tax covers the cost." loading="lazy">
+  <figcaption>Why voluntary payment fails for a public good but tax succeeds.</figcaption>
+</figure>
+
+<figure class="topic-figure">
   <img src="https://img.marlbridge.com/edexcel-igcse-economics-the-mixed-economy-public-goods-privatisation-and--02-public-sector-size.webp" width="900" height="910" alt="Three bars show government spending as a share of national output: A 30%, B 55%, C 12.5%. B has the largest public sector and C the smallest." loading="lazy">
   <figcaption>Government spending as a share of output in three fictional countries.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-allocation-of-resources--04-public-goods.webp" width="900" height="1060" alt="A street light shines on four people but only one pays. The three free riders use it without paying, so private firms make no profit and will not supply it. The government provides it, paid for by taxes." loading="lazy">
+  <figcaption>Public goods are non-excludable, so free riders stop private firms supplying them.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-economics-basic-economic-ideas-and-resource-allocation--04-free-rider-problem.webp" width="900" height="890" alt="A street lamp lights five people but only one pays; four free ride because nobody can be excluded. The collected 25 is far below the lamp's cost of 100, so a private firm cannot supply it profitably." loading="lazy">
+  <figcaption>Non-excludability lets people free ride, so private firms cannot profitably supply public goods.</figcaption>
 </figure>
 
 
@@ -249,6 +248,11 @@ The driver decides on 4.20, not 6.00, so too many trips are made.
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/edexcel-igcse-economics-the-mixed-economy-public-goods-privatisation-and--15-mx-congestion.webp" width="900" height="850" alt="A driver’s trip takes 14 minutes, costing 14 times 0.30, which is 4.20. Their presence adds 6 minutes to other drivers in total, an external cost of 6 times 0.30, which is 1.80. Social cost is 4.20 plus 1.80, which is 6.00, equal to 20 minutes. The driver decides on 4.20, not 6.00, so too many trips are made." loading="lazy">
   <figcaption>A 14-minute trip adds 6 minutes for others; at 0.30 a minute the driver sees 4.20 but society bears 6.00.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-allocation-of-resources--06-external-costs-and-benefits.webp" width="900" height="1160" alt="A factory has private cost 10 and its smoke harms neighbours with an external cost of 4, so social cost is 14. A vaccination has private benefit 6 and external benefit 3, so social benefit is 9. The market ignores the external parts." loading="lazy">
+  <figcaption>Social cost or benefit equals private plus external.</figcaption>
 </figure>
 
 

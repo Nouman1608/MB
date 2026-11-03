@@ -317,3 +317,9 @@ higher dose.
 
 *Written against Cambridge International AS & A Level Physics 9702, 2025–2027
 series. Always check the current syllabus for your examination year.*
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-medical-physics--07-aphy-medical-gamma-camera.webp" width="900" height="990" alt="Gamma photons from tracer in an organ pass through a lead collimator that only lets photons travelling straight along a hole through; photons at an angle are absorbed. Each photon makes a flash in the crystal, the photomultiplier tubes give pulses (largest from the nearest tube) and the computer uses them to add a count at that place in the image." loading="lazy">
+  <figcaption>A gamma camera forms an image of tracer distribution, one counted photon at a time.</figcaption>
+</figure>
+

@@ -55,6 +55,12 @@ These notes condense section 3.3.1 of the OxfordAQA International AS and A-level
 
 **Worked reminder.** Aphids rise from 480 to 1200 per plant between week 2 and week 6. Percentage change = (1200 − 480) / 480 × 100 = **+150%**. The starting figure is the divisor.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-biology-energy-transfer-and-productivity-in-ecosystems--08-population-growth.webp" width="900" height="900" alt="Counts of a mammal population on a predator-free island rise from 20 to about 200 in an S-shaped curve. The greatest yearly increase (+45) is between years 3 and 4; growth then slows and levels off at the carrying capacity. Population change equals births plus immigration minus deaths plus emigration." loading="lazy">
+  <figcaption>Limiting factors make growth level off at the carrying capacity.</figcaption>
+</figure>
+
+
 ## Analysing data: correlation and cause
 
 - A **positive correlation** means both variables rise together. A **negative correlation** means one rises as the other falls.
@@ -101,6 +107,12 @@ These notes condense section 3.3.1 of the OxfordAQA International AS and A-level
 **Worked reminder.** Mean mass per seedling falls from 48 mg at 8 per tray to 30 mg at 32 per tray. Percentage decrease = (48 − 30) / 48 × 100 = **37.5%**. Total mass per tray rises from 384 mg to 960 mg (8 × 48 and 32 × 30), so competition lowers the mass per plant, not the total.
 
 **Evaluation points:** edge effects (more light at the tray edge), one harvest time only, small number of replicates, seedlings of different size at the start.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-biology-energy-transfer-and-productivity-in-ecosystems--03-biomass-calorimetry.webp" width="900" height="1180" alt="A fresh 250 g sample is dried until its mass is constant at 62 g, so 188 g (75.2%) was water. A 0.50 g dried portion burned under 50.0 g of water raises the water 20.0 to 54.0 degrees C, giving 7 106 J and 14.2 kJ per gram, an underestimate because heat escapes." loading="lazy">
+  <figcaption>Dry to constant mass, then burn a portion under water to find energy per gram.</figcaption>
+</figure>
+
 
 ## 3.3.1.3 Primary succession
 

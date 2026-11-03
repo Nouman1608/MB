@@ -67,6 +67,11 @@ One chain of n amino acids contains n − 1 peptide bonds. The order of amino ac
 </figure>
 
 <figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-carbohydrates-and-lipids--04-alpha-beta-glucose.webp" width="900" height="870" alt="Two ring drawings of glucose, each with five carbons and one oxygen, numbered 1 to 5 clockwise from the right-hand carbon, with CH2OH on carbon 5. OH on carbons 2 and 4 is below the ring and on carbon 3 above, in both. In alpha-glucose the OH on carbon 1 is below the ring and H above; in beta-glucose the OH is above and H below. Both are C6H12O6." loading="lazy">
+  <figcaption>The alpha and beta forms differ only in the position of the OH on carbon 1.</figcaption>
+</figure>
+
+<figure class="topic-figure">
   <img src="https://img.marlbridge.com/a-level-biology-9700-carbohydrates-and-lipids--05-condensation-hydrolysis.webp" width="900" height="1300" alt="Top: two alpha-glucose rings join; the OH on carbon 1 of one and the H of the OH on carbon 4 of the other leave as water, leaving a C-O-C glycosidic bond. The product is maltose, Mr 342 (180 + 180 - 18). Bottom: glycine and alanine join the same way; OH from glycine and H from alanine leave as water, forming a peptide bond. Gly-Ala has Mr 146 (75 + 89 - 18). Hydrolysis reverses each change by adding water." loading="lazy">
   <figcaption>Condensation joins monomers and releases water; hydrolysis adds water and splits the bond.</figcaption>
 </figure>

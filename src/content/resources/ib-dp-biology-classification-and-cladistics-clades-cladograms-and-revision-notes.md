@@ -198,12 +198,6 @@ root
 | Key change | Archaea separated from bacteria; a level above kingdoms was added |
 | Kingdoms | Fungi, plants and animals sit within Eukarya |
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ib-dp-biology-classification-and-cladistics-clades-cladograms-and--08-three-domains.webp" width="900" height="790" alt="A tree based on rRNA sequences with Bacteria branching first and Archaea sharing a more recent ancestor with Eukarya. Bacteria and Archaea lack a nucleus; Eukarya have one and include protists, fungi, plants and animals." loading="lazy">
-  <figcaption>rRNA sequences (1977) placed life into three domains, with archaea closer to eukaryotes than to bacteria.</figcaption>
-</figure>
-
-
 ## Quick self-test
 
 1. Give two reasons why organisms are classified.
@@ -231,6 +225,12 @@ root
 9. It shows which base is ancestral, so derived bases can be identified.
 10. Bacteria, Archaea, Eukarya; ribosomal RNA base sequences.
 11. Sequence-based cladistics showed that groupings based on similar form combined lineages without a single shared ancestor, so genera were moved to other families.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-classification-and-cladistics-clades-cladograms-and--08-three-domains.webp" width="900" height="790" alt="A tree based on rRNA sequences with Bacteria branching first and Archaea sharing a more recent ancestor with Eukarya. Bacteria and Archaea lack a nucleus; Eukarya have one and include protists, fungi, plants and animals." loading="lazy">
+  <figcaption>rRNA sequences (1977) placed life into three domains, with archaea closer to eukaryotes than to bacteria.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

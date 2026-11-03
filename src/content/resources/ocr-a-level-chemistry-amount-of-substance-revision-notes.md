@@ -58,6 +58,11 @@ Converting cm³ to m³ and kPa to Pa **before** substituting is what makes this 
   <figcaption>The mole is the bridge between mass, particle number, gas volume and solution quantities.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-chemistry-relative-mass-and-the-mole--04-ideal-gas.webp" width="900" height="925" alt="Three arrows convert pressure, volume and temperature to SI units: 96.0 kPa to 96 000 Pa, 0.750 dm3 to 7.50 x 10^-4 m3 and 18 C to 291 K. Below, n = pV/RT gives 0.0298 mol and a mass of 2.11 g." loading="lazy">
+  <figcaption>Convert to Pa, m3 and K before using pV = nRT.</figcaption>
+</figure>
+
 
 ## Empirical and molecular formulae
 
@@ -110,6 +115,11 @@ atom economy      = (Mr of desired product / sum of Mr of ALL reactants) x 100
 **High atom economy matters industrially** because it means less waste to dispose of, lower raw-material cost, and better sustainability — an addition reaction has 100% atom economy by definition, which is why addition routes are preferred where available.
 
 <figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-chemistry-relative-mass-and-the-mole--02-relative-atomic-mass.webp" width="900" height="960" alt="Two bars show chlorine-35 at 75% and chlorine-37 at 25%. A dashed line marks the weighted mean, 35.5, nearer the taller bar. A carbon-12 atom is shown as the exact standard of 12." loading="lazy">
+  <figcaption>Ar is the weighted mean isotope mass on a scale where carbon-12 is exactly 12, so it has no units.</figcaption>
+</figure>
+
+<figure class="topic-figure">
   <img src="https://img.marlbridge.com/a-level-aqa-chemistry-relative-mass-and-the-mole--08-atom-economy-yield.webp" width="900" height="1050" alt="Panel one is a bar of total reactant mass 238.5 where only the 47.9 of titanium is useful, so atom economy is 20.1%. Panel two compares the possible 5.00 g with 4.25 g collected, an 85% yield." loading="lazy">
   <figcaption>Atom economy is fixed by the equation; yield depends on the experiment.</figcaption>
 </figure>
@@ -128,12 +138,6 @@ concentration in mol dm-3  x  M  =  concentration in g dm-3
 ```
 
 **Dilution:** `c₁V₁ = c₂V₂`. A standard solution is prepared by dissolving a weighed mass, transferring quantitatively with washings, and making up to the mark in a volumetric flask — the washings matter, because solute left in the beaker lowers the true concentration.
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-level-aqa-chemistry-relative-mass-and-the-mole--03-solution-to-ions.webp" width="900" height="960" alt="A flask of sodium chloride solution sits above four stacked steps: cm3 to dm3 gives 0.250 dm3, c times V gives 0.050 mol, times the Avogadro constant gives 3.0 x 10^22 formula units, and times 2 gives 6.0 x 10^22 ions." loading="lazy">
-  <figcaption>Convert cm3 to dm3, find moles, then particles, then multiply by the ions per formula unit.</figcaption>
-</figure>
-
 
 ## Exam traps
 
@@ -154,3 +158,9 @@ concentration in mol dm-3  x  M  =  concentration in g dm-3
 5. How do you identify the limiting reagent?
 
 **Answers:** 1. n = m/M, n = cV, n = V/24 for gases at RTP, and n = N/N_A. 2. Titres within 0.10 cm³ of each other; only concordant titres are averaged, and the rough titre is excluded. 3. Each titre requires an initial and a final reading, and each carries ±0.05 cm³, so the uncertainties combine. 4. Yield compares the product actually obtained with the theoretical maximum; atom economy measures what proportion of the total reactant mass ends up in the desired product. 5. Convert both reactants to moles and divide each by its stoichiometric coefficient; the smaller value is the limiting reagent.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-chemistry-relative-mass-and-the-mole--03-solution-to-ions.webp" width="900" height="960" alt="A flask of sodium chloride solution sits above four stacked steps: cm3 to dm3 gives 0.250 dm3, c times V gives 0.050 mol, times the Avogadro constant gives 3.0 x 10^22 formula units, and times 2 gives 6.0 x 10^22 ions." loading="lazy">
+  <figcaption>Convert cm3 to dm3, find moles, then particles, then multiply by the ions per formula unit.</figcaption>
+</figure>
+

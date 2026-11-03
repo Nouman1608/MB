@@ -129,6 +129,21 @@ Shifts of the natural rate:
 
 Worked reminder: Country B, expected inflation 3%, slope 0.6, U* = 5%. For wage growth of 4.2%: U = 5 − (4.2 − 3) ÷ 0.6 = 3.0%. If U* is really 6%, the same U gives 3 + 0.6 × 3 = 4.8%, an overshoot. A small error in U* gives a large policy error.
 
+## Diagram checklist
+
+Label the axes (unemployment % across, inflation % up) and name each curve:
+
+| Curve | Shape and position |
+|---|---|
+| LRPC | Vertical line at U* on the unemployment axis |
+| SRPC, lower expected inflation | Downward-sloping, convex, crossing the LRPC at a low inflation rate |
+| SRPC, higher expected inflation | Same shape, shifted up, crossing the LRPC at a higher inflation rate |
+
+
+- Two SRPCs: the higher one has higher expected inflation. Both cross the LRPC at U*.
+- Government pushes unemployment left of U*: a move up the first SRPC, then a shift up to the second as expectations rise.
+- Supply-side reform: LRPC shifts left to a lower U*.
+
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/ocr-a-level-economics-the-phillips-curve-and-schools-of-macroeconomic-thought--11-expectations-spiral.webp" width="900" height="960" alt="Five short-run Phillips curves for expected inflation of 2% to 6% each cross the vertical long-run curve at 6% unemployment. Holding unemployment at 4% for four years makes inflation climb from 3% to 6%, and returning to 6% unemployment leaves inflation at 6%." loading="lazy">
   <figcaption>As expectations catch up the short-run curve shifts up, so there is no long-run trade-off.</figcaption>
@@ -144,21 +159,6 @@ Worked reminder: Country B, expected inflation 3%, slope 0.6, U* = 5%. For wage 
   <figcaption>Only supply-side policy moves the long-run Phillips curve.</figcaption>
 </figure>
 
-
-## Diagram checklist
-
-Label the axes (unemployment % across, inflation % up) and name each curve:
-
-| Curve | Shape and position |
-|---|---|
-| LRPC | Vertical line at U* on the unemployment axis |
-| SRPC, lower expected inflation | Downward-sloping, convex, crossing the LRPC at a low inflation rate |
-| SRPC, higher expected inflation | Same shape, shifted up, crossing the LRPC at a higher inflation rate |
-
-
-- Two SRPCs: the higher one has higher expected inflation. Both cross the LRPC at U*.
-- Government pushes unemployment left of U*: a move up the first SRPC, then a shift up to the second as expectations rise.
-- Supply-side reform: LRPC shifts left to a lower U*.
 
 ## A plan for an evaluation answer
 
@@ -188,22 +188,6 @@ Label the axes (unemployment % across, inflation % up) and name each curve:
 
 **Evaluating a school.** Check the time period, the cause of the problem (demand, supply or credit) and the costs of acting or waiting. Do not declare one school simply correct.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ocr-a-level-economics-the-phillips-curve-and-schools-of-macroeconomic-thought--15-austrian-credit-income.webp" width="900" height="960" alt="Credit growing 12% a year rises 76.2% in five years while income growing 3% a year rises only 15.9%, a widening gap that the Austrian school says cannot last." loading="lazy">
-  <figcaption>Credit outgrowing income is the kind of imbalance the Austrian school warns about.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ocr-a-level-economics-the-phillips-curve-and-schools-of-macroeconomic-thought--05-three-schools-compared.webp" width="900" height="1110" alt="Keynesian: flat aggregate supply, so more demand lifts output. Neo-classical: vertical long-run aggregate supply, so demand moves only prices. Austrian: cheap credit leads to malinvestment and then a bust." loading="lazy">
-  <figcaption>The three schools differ on aggregate supply, the cause of slumps and the role of the state.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/aqa-a-level-economics-aggregate-demand-supply--08-keynesian-as.webp" width="900" height="1030" alt="The Keynesian AS curve is flat with spare capacity, rises as bottlenecks appear and becomes vertical at full capacity. Three AD curves cross it at E1 (output 30, price 40), E2 (output 60, price 50) and E3 (output 80, price 85), showing output-only, both, then price-only effects." loading="lazy">
-  <figcaption>On the Keynesian AS curve a rise in AD raises output on the flat part, both on the rising part and only prices on the vertical part.</figcaption>
-</figure>
-
-
 ## Quick self-test
 
 1. A country has 50 million in the labour force and 2.5 million unemployed. Calculate the unemployment rate.
@@ -231,6 +215,27 @@ Label the axes (unemployment % across, inflation % up) and name each curve:
 9. Artificially cheap credit causes malinvestment in a boom, and the recession liquidates it.
 10. Wages and prices are sticky, so the economy can stay below full employment without help.
 11. 1.08⁴ − 1 = **36.0%**.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-the-phillips-curve-and-schools-of-macroeconomic-thought--15-austrian-credit-income.webp" width="900" height="960" alt="Credit growing 12% a year rises 76.2% in five years while income growing 3% a year rises only 15.9%, a widening gap that the Austrian school says cannot last." loading="lazy">
+  <figcaption>Credit outgrowing income is the kind of imbalance the Austrian school warns about.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-the-phillips-curve-and-schools-of-macroeconomic-thought--05-three-schools-compared.webp" width="900" height="1110" alt="Keynesian: flat aggregate supply, so more demand lifts output. Neo-classical: vertical long-run aggregate supply, so demand moves only prices. Austrian: cheap credit leads to malinvestment and then a bust." loading="lazy">
+  <figcaption>The three schools differ on aggregate supply, the cause of slumps and the role of the state.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-aggregate-demand-supply--08-keynesian-as.webp" width="900" height="1030" alt="The Keynesian AS curve is flat with spare capacity, rises as bottlenecks appear and becomes vertical at full capacity. Three AD curves cross it at E1 (output 30, price 40), E2 (output 60, price 50) and E3 (output 80, price 85), showing output-only, both, then price-only effects." loading="lazy">
+  <figcaption>On the Keynesian AS curve a rise in AD raises output on the flat part, both on the rising part and only prices on the vertical part.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-economics-macroeconomics-measuring-and-managing-the-economy--04-ad-as-equilibrium.webp" width="900" height="940" alt="AD slopes down and SRAS slopes up, crossing at equilibrium E with price level 80 and real output 120. A vertical LRAS is drawn at output 120." loading="lazy">
+  <figcaption>Equilibrium price level and real output are set where AD meets SRAS.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

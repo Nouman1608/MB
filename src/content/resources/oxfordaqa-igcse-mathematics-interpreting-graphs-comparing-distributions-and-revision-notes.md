@@ -71,6 +71,26 @@ Signs a graph may mislead:
   <figcaption>A vertical axis that does not start at zero exaggerates differences.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-mathematics-interpreting-graphs-comparing-distributions-and--10-line-graph-museum.webp" width="900" height="864" alt="Line graph of museum visitors in thousands, January to June: 12, 16, 22, 30, 27, 18. Monthly changes are +4, +6, +8, -3, -9. The steepest rise is March to April (+8) and the peak is 30 in April. April to June is down 12, which is 40 percent. July is marked as no data." loading="lazy">
+  <figcaption>Read the changes, the steepest section and the peak, and only conclude what the data supports.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-statistical-charts-and-diagrams--05-reading-a-pie-chart.webp" width="900" height="840" alt="Spanish is 100 degrees and 75 students, so 1 degree is 0.75 students and 360 degrees is 270 students. The sectors are French 105, Spanish 75, German 54, Mandarin 36." loading="lazy">
+  <figcaption>One known angle and frequency give the scale for the whole pie chart.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-statistical-charts-and-diagrams--02-composite-and-dual-bars.webp" width="900" height="1208" alt="The same lunch data is shown as stacked bars (totals 80, 90, 90) and as side-by-side bars starting at 0. Year 11 packed lunch runs from 60 to 90, so it is 30. Side-by-side bars make one option easy to compare across years." loading="lazy">
+  <figcaption>A stacked bar shows totals and make-up; a dual bar chart compares one category across groups.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-statistical-charts-and-diagrams--06-stem-and-leaf.webp" width="900" height="866" alt="Rows 12 to 16 hold the 20 ordered times, with the key 12 | 5 meaning 12.5 seconds. The 10th and 11th values, 14.2 and 14.4, give the median 14.3 s. The range is 4.3 s." loading="lazy">
+  <figcaption>Count leaves, not stems, to find the median, and always include the key.</figcaption>
+</figure>
+
 
 ## S7: Comparing distributions
 
@@ -117,8 +137,18 @@ Words to use precisely:
 | Modal class | The class with the highest frequency in grouped data |
 
 <figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-mathematics-interpreting-graphs-comparing-distributions-and--11-stem-leaf-back-to-back.webp" width="900" height="936" alt="Back-to-back stem and leaf diagram of puzzle times for two classes of 11. Class A medians 34 s, range 30, mean about 36.6; class B median 41 s, range 18, mean about 40.7. The median is the 6th value and is ringed." loading="lazy">
+  <figcaption>Class A is faster on average; class B is more consistent.</figcaption>
+</figure>
+
+<figure class="topic-figure">
   <img src="https://img.marlbridge.com/cambridge-o-level-mathematics-statistics-classifying-data-averages-spread-and--06-compare-bus-routes.webp" width="900" height="970" alt="Two dot plots of minutes late for seven buses. Both routes have mean and median 4, but Route 1 has range 4 and Route 2 has range 8, so Route 1 is more consistent." loading="lazy">
   <figcaption>Compare data sets with one comment on an average and one on spread.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-mathematics-statistics-classifying-data-averages-spread-and--01-four-measures-outlier.webp" width="900" height="700" alt="A dot plot of eight delivery times: 9, 9, 9, 11, 12, 14, 22, 35. Mode 9, median 11.5, mean 121/8 = 15.1 and range 26. The outlier 35 pulls the mean above six of the eight values." loading="lazy">
+  <figcaption>The mean, median, mode and range of one data set, with an outlier pulling the mean up.</figcaption>
 </figure>
 
 
@@ -154,22 +184,6 @@ Must-know distinction: correlation shows a relationship, not that one variable c
 
 Worked reminder: a line passes through (0, 10) and (5, 35). Gradient = 25 ÷ 5 = 5, intercept 10, so y = 5x + 10. At x = 3, y = 5(3) + 10 = 25.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/oxfordaqa-igcse-mathematics-interpreting-graphs-comparing-distributions-and--03-line-of-best-fit-example.webp" width="900" height="1010" alt="Scatter graph of ten pupils revision hours against score with line y = 6x + 32 through the mean point (4.3, 57.9). At 6.5 hours the line gives 71 (interpolation). At 12 hours it gives 104, above the maximum 100, so extrapolation is unreliable." loading="lazy">
-  <figcaption>Worked example 5: interpolating inside the data is reliable, extrapolating is not.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/oxfordaqa-igcse-mathematics-interpreting-graphs-comparing-distributions-and--12-correlation-strength.webp" width="900" height="1140" alt="Four scatter graphs: strong positive, weak positive, strong negative and weak negative. Strong means points hug a straight line; weak means a loose band; positive rises, negative falls." loading="lazy">
-  <figcaption>Strength is how tightly the points follow a line; direction is positive or negative.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/cambridge-o-level-mathematics-scatter-diagrams-correlation-and-cumulative-frequency--01-correlation-types.webp" width="900" height="1110" alt="Three scatter diagrams in a column. Positive correlation: points rise from left to right (height and arm length). Negative correlation: points fall from left to right (age of a bicycle and price). Zero correlation: points are scattered with no pattern (shoe size and test mark)." loading="lazy">
-  <figcaption>Positive points rise, negative points fall, zero correlation shows no pattern.</figcaption>
-</figure>
-
-
 ## Quick self-test
 
 1. A pie chart shows 200 people. One sector has angle 54°. How many people is that?
@@ -197,13 +211,33 @@ Worked reminder: a line passes through (0, 10) and (5, 35). Gradient = 25 ÷ 5 =
 10. Age 40 is far outside the data range 4 to 10 (extrapolation), and children stop growing, so the straight-line trend does not continue.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/oxfordaqa-igcse-mathematics-interpreting-graphs-comparing-distributions-and--11-stem-leaf-back-to-back.webp" width="900" height="936" alt="Back-to-back stem and leaf diagram of puzzle times for two classes of 11. Class A medians 34 s, range 30, mean about 36.6; class B median 41 s, range 18, mean about 40.7. The median is the 6th value and is ringed." loading="lazy">
-  <figcaption>Class A is faster on average; class B is more consistent.</figcaption>
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-mathematics-interpreting-graphs-comparing-distributions-and--03-line-of-best-fit-example.webp" width="900" height="1010" alt="Scatter graph of ten pupils revision hours against score with line y = 6x + 32 through the mean point (4.3, 57.9). At 6.5 hours the line gives 71 (interpolation). At 12 hours it gives 104, above the maximum 100, so extrapolation is unreliable." loading="lazy">
+  <figcaption>Worked example 5: interpolating inside the data is reliable, extrapolating is not.</figcaption>
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/cambridge-o-level-mathematics-statistics-classifying-data-averages-spread-and--01-four-measures-outlier.webp" width="900" height="700" alt="A dot plot of eight delivery times: 9, 9, 9, 11, 12, 14, 22, 35. Mode 9, median 11.5, mean 121/8 = 15.1 and range 26. The outlier 35 pulls the mean above six of the eight values." loading="lazy">
-  <figcaption>The mean, median, mode and range of one data set, with an outlier pulling the mean up.</figcaption>
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-mathematics-interpreting-graphs-comparing-distributions-and--12-correlation-strength.webp" width="900" height="1140" alt="Four scatter graphs: strong positive, weak positive, strong negative and weak negative. Strong means points hug a straight line; weak means a loose band; positive rises, negative falls." loading="lazy">
+  <figcaption>Strength is how tightly the points follow a line; direction is positive or negative.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-mathematics-interpreting-graphs-comparing-distributions-and--13-correlation-third-factor.webp" width="900" height="1210" alt="Hot weather points to both sun cream sales and ice lolly sales. A crossed dashed link between the two shows neither causes the other. A scatter graph of ice lollies against sun cream shows strong positive correlation, but the cause is the temperature." loading="lazy">
+  <figcaption>Two variables can rise together because a third factor drives both.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-mathematics-scatter-diagrams-correlation-and-cumulative-frequency--01-correlation-types.webp" width="900" height="1110" alt="Three scatter diagrams in a column. Positive correlation: points rise from left to right (height and arm length). Negative correlation: points fall from left to right (age of a bicycle and price). Zero correlation: points are scattered with no pattern (shoe size and test mark)." loading="lazy">
+  <figcaption>Positive points rise, negative points fall, zero correlation shows no pattern.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-mathematics-scatter-diagrams-correlation-and-cumulative-frequency--02-line-of-best-fit.webp" width="900" height="930" alt="Scatter diagram of age and value for nine cars with the mean point (5, 12.4) and a ruled line from (1, 18.1) to (9, 6.7) through it. Five points lie above the line (teal) and four below (orange), spread along its length." loading="lazy">
+  <figcaption>The line of best fit passes through the mean point and leaves about as many points on each side.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-mathematics-scatter-diagrams-correlation-and-cumulative-frequency--03-using-the-line.webp" width="900" height="870" alt="The line of best fit gives about 10.3 thousand dollars at age 6.5. A triangle shows a drop of 2.85 over 2 years, gradient -1.425, so the value falls about 1 400 dollars a year. Beyond age 9 the line is dotted in a shaded region marked outside the data; age 12 gives about 2.4, which is unreliable." loading="lazy">
+  <figcaption>Readings inside the data are reliable; extending the line beyond age 9 is not.</figcaption>
 </figure>
 
 
@@ -219,12 +253,6 @@ Worked reminder: a line passes through (0, 10) and (5, 35). Gradient = 25 ÷ 5 =
 - Drawing a line of best fit that bends, joins the first and last point, or ignores the trend.
 - Trusting an extrapolated estimate without comment.
 - Claiming that correlation proves cause.
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-mathematics-0580-statistical-charts-and-diagrams--05-reading-a-pie-chart.webp" width="900" height="840" alt="Spanish is 100 degrees and 75 students, so 1 degree is 0.75 students and 360 degrees is 270 students. The sectors are French 105, Spanish 75, German 54, Mandarin 36." loading="lazy">
-  <figcaption>One known angle and frequency give the scale for the whole pie chart.</figcaption>
-</figure>
-
 
 ## Official syllabus
 

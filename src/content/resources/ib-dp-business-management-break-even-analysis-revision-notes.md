@@ -61,12 +61,6 @@ The guide does not supply formulas here, so the formulas below are the usual tex
 
 For the target price row, the output is 900 boxes, so variable costs are 900 × 10 = 9,000, and the target profit is 5,400.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ib-dp-business-management-break-even-analysis--11-contribution-waterfall.webp" width="900" height="1140" alt="A mug sells for 40: 16 variable and 24 contribution. At 650 mugs revenue 26,000 less variable 10,400 is contribution 15,600, less fixed 12,000 is profit 3,600." loading="lazy">
-  <figcaption>Total contribution pays the fixed costs; what is left is profit.</figcaption>
-</figure>
-
-
 ## Method in steps: any break-even question
 
 1. Write down price, variable cost per unit, fixed costs and output.
@@ -117,6 +111,11 @@ Chart movements:
 * Price down: revenue line flatter, break-even point moves right.
 * Variable cost up: total cost line steeper, break-even point moves right.
 * Fixed costs up: total cost line shifts up with the same slope, break-even point moves right.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-break-even-analysis--11-contribution-waterfall.webp" width="900" height="1140" alt="A mug sells for 40: 16 variable and 24 contribution. At 650 mugs revenue 26,000 less variable 10,400 is contribution 15,600, less fixed 12,000 is profit 3,600." loading="lazy">
+  <figcaption>Total contribution pays the fixed costs; what is left is profit.</figcaption>
+</figure>
 
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/ib-dp-business-management-break-even-analysis--14-break-even-change-cases.webp" width="900" height="1030" alt="Four bars along 0 to 800 mugs: base break-even 500, safety 150, profit 3,600; price 44: 429, 221, 6,200; variable cost 20: 600, 50, 1,000; fixed costs 15,000: 625, 25, 600." loading="lazy">
@@ -180,22 +179,6 @@ Learn at least five, with a reason each.
 
 For an AO3 answer, link one or two limitations to the business described, then give a judgement on how useful the tool is.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ib-dp-business-management-break-even-analysis--13-break-even-step-fixed-costs.webp" width="900" height="1030" alt="The model total cost line is straight. An illustrative 4,000 step above 700 mugs reduces profit at 800 mugs from 7,200 to 3,200 while break-even stays at 500." loading="lazy">
-  <figcaption>If fixed costs step up, the straight-line break-even model overstates profit.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ib-dp-business-management-break-even-analysis--11-break-even-other-limitations.webp" width="900" height="1250" alt="Four rows: one product (shared fixed costs hard to split), forecast data (price 40 vs 38 moves break-even from 500 to 546), static (chart drawn once, costs, rivals and demand move later) and non-financial factors (quality, reputation, welfare, ethics are not on the chart)." loading="lazy">
-  <figcaption>Four more reasons break-even analysis can mislead.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/aqa-gcse-business-business-operations--06-break-even.webp" width="900" height="900" alt="Break-even chart for price 20 pounds, variable cost 12 pounds a unit and fixed costs 4,800 pounds. Revenue and total cost cross at 600 units and 12,000 pounds; left of it is a loss, right of it a profit." loading="lazy">
-  <figcaption>At £20 price, £12 variable cost and £4,800 fixed costs, a business breaks even at 600 units a month.</figcaption>
-</figure>
-
-
 ## Quick self-test
 
 1. Write the formula for contribution per unit.
@@ -225,6 +208,22 @@ For an AO3 answer, link one or two limitations to the business described, then g
 10. Contribution per unit is the amount one sale adds towards fixed costs and profit. Total contribution is that amount multiplied by all units sold.
 11. The total needed is 9,000 + 9,000 + 5,400 = 23,400, and 23,400 / 900 = 26.
 12. A fraction of a unit cannot be sold, and selling 692 boxes would still leave a small loss.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-break-even-analysis--13-break-even-step-fixed-costs.webp" width="900" height="1030" alt="The model total cost line is straight. An illustrative 4,000 step above 700 mugs reduces profit at 800 mugs from 7,200 to 3,200 while break-even stays at 500." loading="lazy">
+  <figcaption>If fixed costs step up, the straight-line break-even model overstates profit.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-break-even-analysis--11-break-even-other-limitations.webp" width="900" height="1250" alt="Four rows: one product (shared fixed costs hard to split), forecast data (price 40 vs 38 moves break-even from 500 to 546), static (chart drawn once, costs, rivals and demand move later) and non-financial factors (quality, reputation, welfare, ethics are not on the chart)." loading="lazy">
+  <figcaption>Four more reasons break-even analysis can mislead.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-business-business-operations--06-break-even.webp" width="900" height="900" alt="Break-even chart for price 20 pounds, variable cost 12 pounds a unit and fixed costs 4,800 pounds. Revenue and total cost cross at 600 units and 12,000 pounds; left of it is a loss, right of it a profit." loading="lazy">
+  <figcaption>At £20 price, £12 variable cost and £4,800 fixed costs, a business breaks even at 600 units a month.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

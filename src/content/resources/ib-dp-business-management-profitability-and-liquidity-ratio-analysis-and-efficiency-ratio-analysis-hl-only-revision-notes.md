@@ -185,28 +185,23 @@ For every strategy, add the cost or risk. A strategy without a trade-off earns l
 
 The result is a shortage of cash even with a healthy statement of profit or loss. Liquidity ratios and the gap between debtor days and creditor days help to show this.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-finance-accounts--07-profit-vs-cash.webp" width="900" height="1030" alt="Three-month bar chart: a $10,000 credit sale less $6,000 costs shows $4,000 profit in month 1 but cash flow of -$6,000; the customer pays $10,000 in month 3." loading="lazy">
+  <figcaption>Profit is an accounting measure; cash is money actually received and paid.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/enterprise-business-growth-and-size--07-liquidity-failure.webp" width="900" height="990" alt="Example with invented numbers. Sales of $100 less costs of $80 give a paper profit of $20, but bills of $80 fall due at day 30 and customers pay only at day 60. Cash falls from $20 to minus $60 and the firm cannot pay its bills, so a profitable firm can still fail." loading="lazy">
+  <figcaption>A firm can be profitable on paper but fail if cash runs out before customers pay.</figcaption>
+</figure>
+
+
 ## Interpreting ratios
 
 - Compare over time, with similar businesses and with the objective stated in the case.
 - One ratio is not enough. A strong gross profit margin with weak liquidity points to a cash problem, not a pricing problem.
 - Accounts rely on choices and estimates, so treat a ratio as evidence, not proof.
 - Name the stakeholder: owners look at ROCE and margins, suppliers at liquidity and creditor days, lenders at gearing.
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ib-dp-business-management-profitability-and-liquidity-ratio-analysis-and-efficiency-ratio-analysis-hl-only--04-brisling-days.webp" width="900" height="1050" alt="Three bars on a day scale: stock held 47.1 days, customers take 40.0 days to pay, Brisling takes 50.0 days to pay suppliers, so supplier credit helps fund customer credit. Stock turnover is 7.75 times." loading="lazy">
-  <figcaption>Stock, debtor and creditor days compared on one scale.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ib-dp-business-management-profitability-and-liquidity-ratio-analysis-and-efficiency-ratio-analysis-hl-only--05-capital-employed-gearing.webp" width="900" height="870" alt="One bar for capital employed 450 thousand dollars: non-current liabilities 180 and equity 270. Gearing is 180 divided by 450 times 100, 40.0%. Higher gearing means more fixed interest and repayments and more risk when profit is falling." loading="lazy">
-  <figcaption>Gearing is the share of long-term funds that is borrowed.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/oxfordaqa-a-level-business-finance--07-cash-gap-days.webp" width="900" height="930" alt="A copper bar of 20 days (payables days) and a teal bar of 35 days (receivables days) share a day scale. The 15 days between them is a cash gap the business must finance." loading="lazy">
-  <figcaption>Paying suppliers 15 days before customers pay creates a gap the business must fund.</figcaption>
-</figure>
-
 
 ## Quick self-test
 
@@ -235,6 +230,27 @@ The result is a shortage of cash even with a healthy statement of profit or loss
 9. (18,000 + 22,000) ÷ 2 = **20,000**
 10. Any sensible pair, for example a stock clearance sale for cash (acid test) and early payment discounts or stricter credit control (debtor days).
 11. Insolvency means being unable to pay debts when they fall due. Bankruptcy is the legal status or procedure that can follow it.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-profitability-and-liquidity-ratio-analysis-and-efficiency-ratio-analysis-hl-only--04-brisling-days.webp" width="900" height="1050" alt="Three bars on a day scale: stock held 47.1 days, customers take 40.0 days to pay, Brisling takes 50.0 days to pay suppliers, so supplier credit helps fund customer credit. Stock turnover is 7.75 times." loading="lazy">
+  <figcaption>Stock, debtor and creditor days compared on one scale.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-profitability-and-liquidity-ratio-analysis-and-efficiency-ratio-analysis-hl-only--05-capital-employed-gearing.webp" width="900" height="870" alt="One bar for capital employed 450 thousand dollars: non-current liabilities 180 and equity 270. Gearing is 180 divided by 450 times 100, 40.0%. Higher gearing means more fixed interest and repayments and more risk when profit is falling." loading="lazy">
+  <figcaption>Gearing is the share of long-term funds that is borrowed.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-business-finance--07-cash-gap-days.webp" width="900" height="930" alt="A copper bar of 20 days (payables days) and a teal bar of 35 days (receivables days) share a day scale. The 15 days between them is a cash gap the business must finance." loading="lazy">
+  <figcaption>Paying suppliers 15 days before customers pay creates a gap the business must fund.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-finance-accounts--06-gearing.webp" width="900" height="1120" alt="Two firms with $100k capital employed: 20% geared (loans 20, equity 80) and 70% geared (loans 70, equity 30). With 8% interest, return on equity is 23.0% and 3.0% (low gearing) versus 48.0% and -5.3% (high gearing) in a good and bad year." loading="lazy">
+  <figcaption>Higher gearing magnifies returns in good years and losses in bad years, because interest is paid either way.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

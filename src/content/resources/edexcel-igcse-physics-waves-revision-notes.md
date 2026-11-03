@@ -148,17 +148,6 @@ Sound is **longitudinal**; it reflects and refracts like any wave (3.23, both Ph
 
 **Physics only (3.24P–3.29P):** Human hearing range: **20 Hz to 20,000 Hz**. An oscilloscope + microphone displays a sound wave's waveform. **Pitch** = frequency (higher frequency = higher pitch). **Loudness** = amplitude (greater amplitude = louder).
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/edexcel-igcse-physics-waves--03-sound-oscilloscope.webp" width="900" height="980" alt="Three oscilloscope traces: 200 Hz reference (2 waves in 10 ms), 400 Hz (4 waves, higher pitch) and 200 Hz with larger amplitude (louder, same pitch)." loading="lazy">
-  <figcaption>Higher frequency means higher pitch; larger amplitude means louder sound.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ocr-gcse-physics-wave-properties-transverse-and-longitudinal-waves--08-echo-speed-of-sound.webp" width="900" height="860" alt="A pupil 51 m from a wall hears the echo 0.30 s after a clap. The sound travels 2 x 51 = 102 m, so the speed is 102 / 0.30 = 340 m/s." loading="lazy">
-  <figcaption>Echo method: speed = 2d divided by t.</figcaption>
-</figure>
-
-
 ## Exam traps
 
 - Confusing transverse and longitudinal waves — light/water are transverse; sound is longitudinal.
@@ -179,3 +168,14 @@ Sound is **longitudinal**; it reflects and refracts like any wave (3.23, both Ph
 7. Distinguish between pitch and loudness in terms of the physical quantities they correspond to.
 
 **Answers:** 1. `v = fλ` and `f = 1/T`. 2. `v = fλ = 250 x 1.2 = 300 m/s`. 3. As the car approaches, each successive sound wavefront is emitted closer to you than the last, so the wavefronts bunch up, shortening the wavelength and raising the observed frequency (pitch). 4. Radio, microwave, infrared, visible, ultraviolet, x-ray, gamma. 5. Use: fluorescent lamps (or sterilising); hazard: damage to surface skin cells, or blindness. 6. `n = 1/sin c = 1/sin 42° = 1/0.669 = 1.5` (2 s.f.). 7. Pitch corresponds to frequency (higher frequency = higher pitch); loudness corresponds to amplitude (greater amplitude = louder sound).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-physics-waves--03-sound-oscilloscope.webp" width="900" height="980" alt="Three oscilloscope traces: 200 Hz reference (2 waves in 10 ms), 400 Hz (4 waves, higher pitch) and 200 Hz with larger amplitude (louder, same pitch)." loading="lazy">
+  <figcaption>Higher frequency means higher pitch; larger amplitude means louder sound.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-wave-properties-transverse-and-longitudinal-waves--08-echo-speed-of-sound.webp" width="900" height="860" alt="A pupil 51 m from a wall hears the echo 0.30 s after a clap. The sound travels 2 x 51 = 102 m, so the speed is 102 / 0.30 = 340 m/s." loading="lazy">
+  <figcaption>Echo method: speed = 2d divided by t.</figcaption>
+</figure>
+

@@ -97,6 +97,36 @@ market growth (%) = change in market size / original size x 100
   <figcaption>Market share and retention rate are calculated from the figures in the lesson.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-marketing--03-market-research.webp" width="900" height="1262" alt="Primary research (postal questionnaire, online survey, interview, focus group) is collected by you: costlier and slower but fits your question. Secondary research (online sources, government statistics, paid reports) already exists: cheaper and quicker but not made for you. A sample of a few people stands for the whole target market." loading="lazy">
+  <figcaption>Primary research is collected first-hand, secondary research already exists, and a sample stands for the whole market.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-marketing--04-research-types.webp" width="900" height="820" alt="A two by two grid. Columns: primary (new data you collect) and secondary (existing data reused). Rows: quantitative (numbers) and qualitative (views and reasons). Examples: tick-box questionnaire, published sales statistics, interview or focus group, press articles and reviews." loading="lazy">
+  <figcaption>Research is primary or secondary, and quantitative or qualitative.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-marketing--05-sampling-methods.webp" width="900" height="1100" alt="Three panels show the same 50 people (30 circles, 20 squares) with 5 chosen. Random: everyone equally likely, most representative but costly and slow. Quota: 3 circles and 2 squares to mirror the mix, cost and speed in between. Convenience: the 5 nearest the door, cheap and fast but may not represent everyone." loading="lazy">
+  <figcaption>Sampling methods trade representativeness against cost and speed.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-marketing--01-market-vs-product-orientation.webp" width="900" height="910" alt="Two three-step flows. Market orientation: ask customers what they need, design the product to match, sell to buyers who want it. Product orientation: start with what the business can make, make it, then look for buyers. The orientation shapes every later marketing decision." loading="lazy">
+  <figcaption>Market orientation starts from customer needs; product orientation starts from what the business can make.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-business-types-of-strategies--03-market-map.webp" width="900" height="836" alt="Scatter of five swimming schools by price and benefits score. Finwise Academy is dearest but scores below two rivals (2.29 pounds per point). No school scores over 8 for under 12 pounds, a possible gap, but a map shows a gap, not demand." loading="lazy">
+  <figcaption>A market map shows close rivals and gaps, but a gap is not proof of demand.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-marketing--02-market-segmentation.webp" width="900" height="860" alt="Four cards show a market split by age, location, gender and socio-economic group. Each group of people is a segment. Each segment can be given its own promotion and products." loading="lazy">
+  <figcaption>A market can be segmented by age, location, gender or socio-economic group.</figcaption>
+</figure>
+
 
 ## 1.3.1 (2): Market research
 
@@ -202,6 +232,11 @@ PED is normally negative, because price and quantity move in opposite directions
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/edexcel-ial-business-meeting-customer-needs-and-the-market--05-elasticity-influences.webp" width="900" height="1180" alt="Five bars contrast what makes demand more or less price elastic: substitutes, type of good, share of income, brand loyalty and time. A number line shows YED: inferior below 0 (budget jam -0.8), inelastic 0 to 1, income elastic above 1 (premium bikes +2.0)." loading="lazy">
   <figcaption>What pushes PED and YED up or down.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-business-marketing--04-ped-and-revenue.webp" width="900" height="910" alt="A demand curve with two revenue rectangles. A 10 percent price rise from $10 to $11 cuts quantity 4 percent from 1,000 to 960. Revenue gained of $960 outweighs revenue lost of $400, so revenue rises from $10,000 to $10,560." loading="lazy">
+  <figcaption>When demand is price inelastic, raising price raises total revenue.</figcaption>
 </figure>
 
 

@@ -57,6 +57,21 @@ Each adjustment applies a concept. Knowing which one lets you explain a treatmen
   <figcaption>Each year-end adjustment changes both the income statement and the statement of financial position.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-edexcel-accounting-principles-and-double-entry-bookkeeping--05-stock-lower-of-cost-nrv.webp" width="900" height="1110" alt="Three stock lines each show cost and NRV bars with a tick on the lower. Desk lamps use cost (2,160 against 3,360); floor lamps use NRV (1,360 against 1,800); lampshades use NRV (900 against 1,200). Item by item gives 4,420; comparing totals would keep 5,160 and hide a 740 loss." loading="lazy">
+  <figcaption>Stock is valued at the lower of cost and NRV for each item, not on the totals.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-edexcel-accounting-principles-and-double-entry-bookkeeping--09-prepaid-rent.webp" width="900" height="940" alt="Twelve monthly boxes show 12,000 pounds of rent paid on 1 October with a 31 December year end. Three months (3,000) are an expense in the income statement; nine months (9,000) are a prepayment shown as a current asset." loading="lazy">
+  <figcaption>Only the part of rent used in the year is an expense; the rest is a prepayment.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-edexcel-accounting-principles-and-double-entry-bookkeeping--04-concepts-change-profit.webp" width="900" height="880" alt="A horizontal waterfall starting from 52,000 pounds draft profit. Business entity adds back 1,800 (holiday was drawings), accruals subtracts 1,200 (electricity), prudence subtracts 900 (inventory written down from 2,400 to net realisable value 1,500). Corrected profit is 51,700 pounds." loading="lazy">
+  <figcaption>Each accounting concept has a measurable effect on profit.</figcaption>
+</figure>
+
 
 ## Worked example 1: a trading business
 
@@ -244,6 +259,16 @@ The disposal account compares net book value (15,000 - 12,300 = 2,700) with proc
   <figcaption>Compare proceeds with carrying amount to find the profit or loss on disposal.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-double-entry-model--06-disposal-profit-loss.webp" width="900" height="1000" alt="Equipment that cost 9,000 dollars with 2,700 depreciation has a net book value of 6,300. Sold for 4,800 it gives a 1,500 loss. The disposal account shows debit 9,000 and credits 2,700, 4,800 and 1,500." loading="lazy">
+  <figcaption>Profit or loss on disposal compares proceeds with net book value, not cost.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/accounting-non-current-assets--05-disposal.webp" width="900" height="1110" alt="An illustrative van (cost 20,000, accumulated depreciation 15,000) is sold for 6,000. Cost and depreciation are moved into a disposal account, which balances at 21,000 each side after a 1,000 profit. Carrying value is 5,000. A note explains part exchange allowance replaces cash proceeds." loading="lazy">
+  <figcaption>Close cost and accumulated depreciation through a disposal account to find profit or loss on disposal.</figcaption>
+</figure>
+
 
 ## Goods taken for own use
 
@@ -265,6 +290,17 @@ The owner and the business are separate (business entity). Taking stock is drawi
 
 Match points to the case. A sole trader wanting to raise a large sum for a second site could consider a company for the capital, but the answer should weigh the loss of control and extra rules.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-accounting-types-of-business-organisation--01-ownership-ladder.webp" width="900" height="1000" alt="Four columns compare sole trader, partnership, private Ltd and public plc: number of owners, liability (unlimited for the first two, limited for the last two) and a rising staircase of reporting duties. Reporting grows from minimal to the most extensive disclosure and audit for a plc." loading="lazy">
+  <figcaption>As a business becomes more formal, liability becomes limited and reporting duties grow.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-accounting-types-of-business-organisation--02-liability.webp" width="900" height="870" alt="With illustrative numbers, debts of 50,000 pounds exceed business assets of 20,000 pounds by 30,000. A sole trader's own assets can be used to pay the shortfall, while a limited company shareholder loses at most the 10,000 pounds invested." loading="lazy">
+  <figcaption>Unlimited liability puts personal assets at risk; limited liability caps the loss at the amount invested.</figcaption>
+</figure>
+
+
 ## A method for any trial balance question
 
 1. Read every adjustment first and mark which accounts it touches.
@@ -272,6 +308,17 @@ Match points to the case. A sole trader wanting to raise a large sum for a secon
 3. Build the income statement from revenue down, then add any income and deduct expenses.
 4. Build the statement of financial position, placing each balance under non-current assets, current assets, current liabilities or non-current liabilities.
 5. Roll capital forward: opening capital plus net profit less drawings. If net assets differ from closing capital, look for an adjustment entered once instead of twice.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-accounting-for-organisations-with-incomplete-records--06-trial-balance-to-statements.webp" width="900" height="1126" alt="The trial balance totals 274,470 pounds each side and is adjusted by seven notes. Gross profit of 84,200 pounds plus commission of 2,100 pounds less expenses of 56,175 pounds gives profit of 30,125 pounds. Opening capital 39,670 plus profit less drawings 19,200 gives closing capital of 50,595 pounds, equal to net assets." loading="lazy">
+  <figcaption>Profit flows into capital, and capital equals net assets, which proves the statements balance.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-accounting-types-of-business-organisation--05-accounting-equation.webp" width="900" height="966" alt="Three transactions are shown with two equal bars each: assets on top and liabilities plus capital below. Owner capital of 10,000, then equipment bought for 4,000 cash, then 2,000 of stock bought on credit raising both sides to 12,000." loading="lazy">
+  <figcaption>Every transaction keeps assets equal to liabilities plus capital.</figcaption>
+</figure>
+
 
 ## Commenting on the statements
 

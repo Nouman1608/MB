@@ -128,6 +128,12 @@ the "correct" category from a textbook definition.
   the information age and rapid technological change as having their
   own specific opportunities and threats worth analysing separately.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-business-business-and-its-environment--03-pestle-opportunity-threat.webp" width="900" height="1010" alt="The six PESTLE factors, then one social change (an ageing population) shown as an opportunity for Ivybrook Care and a threat for Rushbank Couriers." loading="lazy">
+  <figcaption>One external change can be an opportunity for one firm and a threat for another.</figcaption>
+</figure>
+
+
 ## How to approach it
 
 Build a bank of real, named business examples for each external

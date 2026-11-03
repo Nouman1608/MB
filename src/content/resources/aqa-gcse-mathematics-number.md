@@ -62,12 +62,6 @@ rationalising denominators (N8), changing recurring decimals into
 fractions (N10), and upper and lower bounds (N16). Everything else here
 is Foundation content, assessed at both tiers.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/aqa-gcse-mathematics-number--07-systematic-listing.webp" width="900" height="850" alt="A tree of the first, second and third digits from 1, 2, 3 gives six numbers in order: 123, 132, 213, 231, 312, 321. 3 x 2 x 1 = 6." loading="lazy">
-  <figcaption>Listing in order from a tree means no outcome is missed or repeated.</figcaption>
-</figure>
-
-
 ## How to approach it
 
 Structure and calculation (3.1.1) is the largest and most
@@ -88,6 +82,12 @@ lower bounds of a measured or rounded quantity.
 AQA GCSE Mathematics (8300) specification, for exams from May/June
 2017 onwards —
 [aqa.org.uk](https://www.aqa.org.uk/subjects/mathematics/gcse/mathematics-8300/specification/subject-content).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-mathematics-number--07-systematic-listing.webp" width="900" height="850" alt="A tree of the first, second and third digits from 1, 2, 3 gives six numbers in order: 123, 132, 213, 231, 312, 321. 3 x 2 x 1 = 6." loading="lazy">
+  <figcaption>Listing in order from a tree means no outcome is missed or repeated.</figcaption>
+</figure>
+
 
 ## Types of number and place value
 
@@ -145,6 +145,16 @@ For **reverse percentage** questions, divide by the multiplier rather than multi
   <figcaption>Multiplying by 100 lines up the repeating tails so that subtracting removes them.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-fractions-decimals-percentages-ordering-operations--04-order-of-operations.webp" width="900" height="960" alt="Two worked examples with the part being calculated highlighted at each step: (5 - 2^3) x 4 + 6 / (-2) = -15, and 18 - 12 / 4 x 3 = 9. Multiplication and division have equal rank, so work left to right." loading="lazy">
+  <figcaption>Work out indices and brackets first, then multiply and divide left to right, then add and subtract.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-mathematics-ratio-proportion-rates-of-change--07-simple-vs-compound-interest.webp" width="900" height="950" alt="A graph of 1000 pounds over 5 years at 3 percent. Simple interest rises in equal steps to 1150 pounds (multiplier 1.15). Compound interest curves slightly higher to 1159.27 pounds (multiplier 1.03 to the power 5, about 1.159). The vertical axis starts at 1000." loading="lazy">
+  <figcaption>Compound interest multiplies by 1.03^5 = 1.159; simple interest by 1.15.</figcaption>
+</figure>
+
 
 ## Indices, standard form and surds
 
@@ -167,6 +177,21 @@ Standard form is A x 10^n where 1 <= A < 10. **(Higher tier, N8)** Surds are exa
   <figcaption>Each step down divides by 5, so 5^0 = 1 and 5^-n is 1 over 5^n.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-powers-roots-and-indices--05-fractional-indices.webp" width="900" height="1000" alt="A cube of 125 blocks has side 5, so 125^(1/3) = 5. Two flow chains show 125^(-2/3): root 3, square, flip gives 1/25, and 32^(3/5): root 5, cube gives 8." loading="lazy">
+  <figcaption>The denominator is the root, the numerator is the power, and a minus sign flips.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-number--03-standard-form.webp" width="900" height="880" alt="Digit boxes show the decimal point of 4 560 000 jumping 6 places left to give 4.56 x 10^6, and of 0.00032 jumping 4 places right to give 3.2 x 10^-4. A must lie between 1 and 10." loading="lazy">
+  <figcaption>Move the decimal point until the number is between 1 and 10; the count of moves is the power of 10.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-exponential-growth-decay-and-surds--04-surd-diagonal.webp" width="900" height="940" alt="A square of side 4 cm has a diagonal of root 32, since 16 + 16 = 32. Taking out the square factor gives 4 root 2, which lands near 5.657 on the number line." loading="lazy">
+  <figcaption>The exact length 4√2 cm is a surd; 5.657 is only a rounded value.</figcaption>
+</figure>
+
 
 ## Rounding, bounds and estimation
 
@@ -180,6 +205,16 @@ Estimate by rounding each value to 1 significant figure. A length given as 8.4 c
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/aqa-gcse-mathematics-number--08-truncate-vs-round.webp" width="900" height="810" alt="On a number line from 3.7 to 3.8, 3.72 rounds and truncates to 3.7. 3.78 rounds to 3.8 but truncates to 3.7, because truncation just cuts off the digits." loading="lazy">
   <figcaption>Rounding goes to the nearest value; truncating simply cuts digits off.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-number--04-limits-of-accuracy.webp" width="900" height="810" alt="A number line from 4.50 to 4.70 kg shades the values from 4.55 to 4.65 that round to 4.6 kg. The lower bound 4.55 is included (filled dot); the upper bound 4.65 is not (open dot)." loading="lazy">
+  <figcaption>A value given to 1 d.p. can be up to half a unit (0.05) either side: 4.55 &lt;= mass &lt; 4.65.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-estimation-and-using-a-calculator--03-estimate-calculation.webp" width="900" height="800" alt="62.4, 0.187 and 3.87 are rounded to 60, 0.2 and 4. The estimate is (60 x 0.2) / 4 = 3. On a number line it lies right next to the calculator value 3.015." loading="lazy">
+  <figcaption>Round every number to 1 s.f., write the rounded calculation, and work it out.</figcaption>
 </figure>
 
 

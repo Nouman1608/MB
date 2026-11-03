@@ -70,6 +70,11 @@ mRNA: AUG CAA UUC GGC UGA gives Met-Gln-Phe-Gly, then stop.
   <figcaption>Six mutation types shown as base strips; duplication, inversion and translocation are AQA only.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-biology-gene-mutations-and-stem-cells--02-mutation-effects.webp" width="900" height="1110" alt="The mRNA AUG CUU GGC ACC AAG GAU CGU UAG is read in triplets. A silent change (CUU to CUC) keeps Leu, a missense change (CUU to CCU) gives Pro, a nonsense change (AAG to UAG) stops the chain after four amino acids, one added G causes a frame shift so every later amino acid changes, and deleting three bases keeps the frame and loses only Leu." loading="lazy">
+  <figcaption>Silent, missense, nonsense, frame shift and in-frame deletion followed through one mRNA.</figcaption>
+</figure>
+
 
 ## 6.1.1(b) Control of gene expression
 
@@ -190,6 +195,12 @@ Hormone binds a surface receptor, so the cell makes **cAMP**. cAMP binds an inac
 10. 180 / 3 = **60** amino acids.
 11. Any two of: separating the digits; removing a tadpole's tail; removing cells that are damaged or not needed.
 12. 18 / 240 × 100 = **7.5%**.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-biology-gene-mutations-and-stem-cells--06-rna-interference.webp" width="900" height="1140" alt="An enzyme cuts double-stranded RNA into siRNA. One siRNA strand in a protein complex pairs with mRNA of matching sequence (example pairing GCUCCGUUAGCA with CGAGGCAAUCGU), and the mRNA is broken down so no protein is made. The gene is still transcribed." loading="lazy">
+  <figcaption>How siRNA stops translation of one mRNA.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

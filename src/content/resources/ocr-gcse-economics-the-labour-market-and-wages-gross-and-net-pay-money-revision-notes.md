@@ -77,18 +77,8 @@ Wage falls 1/8 = 12.5%; employment rises 20/50 = 40%
 Why wages differ: a high wage goes with scarce skills, long training and high-value work. A low wage goes with plentiful workers and easy entry.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ocr-gcse-economics-the-labour-market-and-wages-gross-and-net-pay-money--05-wage-demand-rise-bakers.webp" width="900" height="1010" alt="Demand for bakers shifts right by 50 at every wage while supply is unchanged. Equilibrium moves from £10 and 80 bakers to £11 and 110 bakers, a wage rise of 10 per cent and employment rise of 37.5 per cent." loading="lazy">
-  <figcaption>A rise in demand for labour raises both the wage and employment.</figcaption>
-</figure>
-
-<figure class="topic-figure">
   <img src="https://img.marlbridge.com/ocr-gcse-economics-the-labour-market-and-wages-gross-and-net-pay-money--04-wages-surgeon-shelf-stacker.webp" width="900" height="720" alt="Two labour-market graphs on the same scales. Surgeon: steep supply and high demand give a high wage with few workers. Shelf-stacker: large supply gives a low wage with many workers." loading="lazy">
   <figcaption>Wages differ because supply and demand differ: few can be surgeons, anyone can stack shelves.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ocr-gcse-economics-the-labour-market-and-wages-gross-and-net-pay-money--05-labour-shifts-causes.webp" width="900" height="1010" alt="Two graphs for bakers. Demand shifting right by 50 at every wage moves equilibrium from 10 pounds and 80 bakers to 11 pounds and 110. A supply shift right by an illustrative 30 gives 9.40 pounds and 92 bakers. Side lists give what shifts each curve right or left." loading="lazy">
-  <figcaption>Demand and supply of labour shift for named reasons; the wage and employment then move to a new equilibrium.</figcaption>
 </figure>
 
 <figure class="topic-figure">
@@ -171,6 +161,16 @@ Judgement stems: "most important because...", "depends on...", "less important i
   <figcaption>The financial sector turns money in into loans, mortgages and payouts, with benefits and limits for each user.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-economics-microeconomic-decision-makers--02-central-and-commercial-banks.webp" width="900" height="1090" alt="A central bank sets the base interest rate for commercial banks. Households and firms deposit money with commercial banks and receive loans from them." loading="lazy">
+  <figcaption>The central bank sets the base rate; commercial banks take deposits and make loans.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-how-markets-work--06-interest-rate-effects.webp" width="900" height="890" alt="A saver with 5,000 pounds earns 100 pounds at 2% and 150 pounds at 3%. A borrower of 10,000 pounds pays 500 pounds at 5% and 700 pounds at 7%. A higher rate rewards savers and costs borrowers more." loading="lazy">
+  <figcaption>A rise in interest rates makes saving more rewarding and borrowing more expensive.</figcaption>
+</figure>
+
 
 ## Interest rates
 
@@ -196,6 +196,11 @@ For compound interest, multiply by (1 + rate) once per year: balance = amount ×
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/ocr-gcse-economics-the-labour-market-and-wages-gross-and-net-pay-money--02-interest-savings-mortgage.webp" width="900" height="1050" alt="Top: yearly interest on 3,800 saved at 2.5% and 1.5% with interest added each year (about 95, 97, 100 and 57, 58, 59 pounds), totals 292.18 and 173.58. Bottom: on a 150,000 mortgage one year of interest is 4,500 at 3% and 6,000 at 4%, an extra 1,500 a year or 125 a month." loading="lazy">
   <figcaption>Compound interest grows each year, and a large loan magnifies a one-point rate rise.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-objectives-of-government--06-interest-rates.webp" width="900" height="1010" alt="Top: 1,800 pounds at 5 percent earns 90 pounds in a year (1,800 x 0.05). Bottom: when rates rise, consumers save more but borrow and spend less; producers save more but borrow and invest less." loading="lazy">
+  <figcaption>Higher interest rates reward saving and discourage borrowing, spending and investment.</figcaption>
 </figure>
 
 
@@ -238,8 +243,23 @@ For compound interest, multiply by (1 + rate) once per year: balance = amount ×
 12. Barter needs each side to want what the other holds. With money, a seller accepts payment and spends it anywhere, so no matching of wants is needed.
 
 <figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-economics-the-labour-market-and-wages-gross-and-net-pay-money--05-wage-demand-rise-bakers.webp" width="900" height="1010" alt="Demand for bakers shifts right by 50 at every wage while supply is unchanged. Equilibrium moves from £10 and 80 bakers to £11 and 110 bakers, a wage rise of 10 per cent and employment rise of 37.5 per cent." loading="lazy">
+  <figcaption>A rise in demand for labour raises both the wage and employment.</figcaption>
+</figure>
+
+<figure class="topic-figure">
   <img src="https://img.marlbridge.com/ocr-gcse-economics-the-labour-market-and-wages-gross-and-net-pay-money--07-invest-interest-rate-machine.webp" width="900" height="960" alt="A £40,000 machine adds £2,600 profit a year before loan costs. At 5 per cent interest is £2,000, leaving £600, so it is worth doing. At 7 per cent interest is £2,800, a £200 loss, so it is not." loading="lazy">
   <figcaption>A rise in the loan rate from 5% to 7% turns the investment from profit to loss.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-economics-the-labour-market-and-wages-gross-and-net-pay-money--05-labour-shifts-causes.webp" width="900" height="1010" alt="Two graphs for bakers. Demand shifting right by 50 at every wage moves equilibrium from 10 pounds and 80 bakers to 11 pounds and 110. A supply shift right by an illustrative 30 gives 9.40 pounds and 92 bakers. Side lists give what shifts each curve right or left." loading="lazy">
+  <figcaption>Demand and supply of labour shift for named reasons; the wage and employment then move to a new equilibrium.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-how-markets-work--09-barter-and-money.webp" width="900" height="1250" alt="Three people each have goods the next person does not want, so barter fails. With money, each is paid in pounds and then buys what they want, so trade works." loading="lazy">
+  <figcaption>Money removes the need for a double coincidence of wants.</figcaption>
 </figure>
 
 

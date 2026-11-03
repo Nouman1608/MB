@@ -70,6 +70,11 @@ At 5,000 units sold: margin of safety = 5,000 - 4,000 = 1,000 units
   <figcaption>Break-even at 4,000 units; sales of 5,000 give a margin of safety of 1,000 units.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-business-financial-planning-and-managing-finance--04-budget-historical-v-zero.webp" width="900" height="850" alt="A historical budget starts from last actual spending of 3,000 plus 5% to give 3,150. A zero-based budget starts at 0 and adds only justified items (1,200, 600, 500) to reach 2,300." loading="lazy">
+  <figcaption>Historical budgets start from last period; zero-based budgets start from nothing.</figcaption>
+</figure>
+
 
 ## Managing finance (2.3.3)
 
@@ -149,6 +154,16 @@ Capacity utilisation = current output / maximum possible output x 100
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/oxfordaqa-a-level-business-finance--09-inventory-control.webp" width="900" height="870" alt="Inventory falls 150 tins a week from the maximum 1,100. At week 4 it hits the re-order level of 500 and 900 tins are ordered; after the 2-week lead time it reaches the buffer of 200 and delivery lifts it to 1,100." loading="lazy">
   <figcaption>Re-order level is buffer plus usage during lead time; re-order quantity is maximum minus buffer.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-business-business-operations--02-jit-vs-jic.webp" width="900" height="920" alt="Two stock graphs over 12 days with usage of 10 units a day. JIT holds 0-20 units and needs 6 deliveries; JIC holds a 40-unit buffer, stock 40-100, and needs 2 deliveries. JIC has higher storage cost but covers demand spikes." loading="lazy">
+  <figcaption>JIT cuts storage cost but needs frequent reliable deliveries; JIC holds buffer stock at a storage cost.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-business-business-operations--03-quality-control-assurance.webp" width="900" height="890" alt="Two three-stage production lines. Quality control: one check at the end finds defects after making. Quality assurance: a tick shield above each stage prevents defects during making." loading="lazy">
+  <figcaption>Quality control checks products after production; quality assurance builds checks into the process.</figcaption>
 </figure>
 
 

@@ -193,12 +193,6 @@ ABO alleles: Iᴬ, Iᴮ, i. Group A = IᴬIᴬ or Iᴬi. Group B = IᴮIᴮ or I
 - IQR = 6, so 1.5 × IQR = 9. Limits: 55 and 79. The value 90 is an outlier.
 - Whiskers: 62 and 71. Mean = 554 ÷ 8 = 69.25. Mode = 64.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ib-dp-biology-inheritance-alleles-monohybrid-crosses-pedigrees-and--07-box-plot-student-heights.webp" width="900" height="840" alt="Fifteen heights (150 to 181 cm) shown as dots and as a box plot on one scale. Median 161, Q1 156, Q3 165, IQR 9. Limits 142.5 and 178.5 lie 1.5 x IQR beyond the box; 181 is an outlier plotted separately. Whiskers reach 150 and 168." loading="lazy">
-  <figcaption>A box plot shows median, quartiles, whiskers and any outlier, here 181 cm.</figcaption>
-</figure>
-
-
 ## Quick self-test
 
 1. A plant has 2n = 20. How many chromosomes are in one of its gametes?
@@ -224,6 +218,12 @@ ABO alleles: Iᴬ, Iᴮ, i. Group A = IᴬIᴬ or Iᴬi. Group B = IᴮIᴮ or I
 8. It shows a smooth range of values, produced by many genes and by sun exposure.
 9. Range = 90 − 62 = 28 g. IQR = 70 − 64 = 6 g.
 10. Plasticity changes gene expression, not the DNA sequence, and can be reversible.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-inheritance-alleles-monohybrid-crosses-pedigrees-and--07-box-plot-student-heights.webp" width="900" height="840" alt="Fifteen heights (150 to 181 cm) shown as dots and as a box plot on one scale. Median 161, Q1 156, Q3 165, IQR 9. Limits 142.5 and 178.5 lie 1.5 x IQR beyond the box; 181 is an outlier plotted separately. Whiskers reach 150 and 168." loading="lazy">
+  <figcaption>A box plot shows median, quartiles, whiskers and any outlier, here 181 cm.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

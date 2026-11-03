@@ -146,17 +146,6 @@ Average inventory = (opening inventory + closing inventory) ÷ 2.
 - *Reasons:* new leader or owner, merger or takeover, poor performance, scandal, new customer expectations, a new strategy the old culture blocks.
 - *Problems:* slow; resistance (strongest in strong cultures); key staff may leave; fails unless rewards, structure and leaders' behaviour change too.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/aqa-a-level-business-managers-leadership-decision-making--08-dividend-yield.webp" width="900" height="1050" alt="Market capitalisation 48 million x 3.25 = 156 million pounds; dividend per share 7.2m / 48m = 15p; yield 15p / 3.25 x 100 = 4.62 percent. If the price falls to 3.00 the yield is 5.00 percent and market capitalisation 144 million pounds." loading="lazy">
-  <figcaption>A falling share price raises dividend yield but lowers market capitalisation, so a higher yield can signal lost confidence.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/aqa-a-level-business-managers-leadership-decision-making--09-margins-fall.webp" width="900" height="1010" alt="Revenue grew 20 percent and cost of sales 30 percent. Gross margin fell from 40 to 35 percent, operating margin from 15 to 12 percent and net margin from 10.7 to 7.8 percent." loading="lazy">
-  <figcaption>Cost of sales grew faster than revenue, so every profit margin fell.</figcaption>
-</figure>
-
-
 ## Quick self-test
 
 1. A product has 12% market growth and a relative market share of 0.3. Which Boston Matrix category is it?
@@ -186,6 +175,17 @@ Average inventory = (opening inventory + closing inventory) ÷ 2.
 10. Any two: staff morale, brand reputation, environmental impact.
 11. Shared values make staff resist new ways of working when the market changes.
 12. A controlled, competitive culture: staff follow instructions and compete with each other rather than share ideas, because leadership style and reward systems both push that way.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-business-managers-leadership-decision-making--08-dividend-yield.webp" width="900" height="1050" alt="Market capitalisation 48 million x 3.25 = 156 million pounds; dividend per share 7.2m / 48m = 15p; yield 15p / 3.25 x 100 = 4.62 percent. If the price falls to 3.00 the yield is 5.00 percent and market capitalisation 144 million pounds." loading="lazy">
+  <figcaption>A falling share price raises dividend yield but lowers market capitalisation, so a higher yield can signal lost confidence.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-business-managers-leadership-decision-making--09-margins-fall.webp" width="900" height="1010" alt="Revenue grew 20 percent and cost of sales 30 percent. Gross margin fell from 40 to 35 percent, operating margin from 15 to 12 percent and net margin from 10.7 to 7.8 percent." loading="lazy">
+  <figcaption>Cost of sales grew faster than revenue, so every profit margin fell.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

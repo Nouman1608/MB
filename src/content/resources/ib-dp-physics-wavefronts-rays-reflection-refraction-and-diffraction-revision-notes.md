@@ -122,12 +122,6 @@ Slower medium (higher n): wavefronts closer together, ray bends **towards** the 
 
 **Small reminder.** Ripples go from deep water to a shelf where the speed halves. The wavelength halves too, because the frequency is fixed, so the wavefront spacing on the shelf is half the spacing in deep water.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ib-dp-physics-wavefronts-rays-reflection-refraction-and-diffraction--03-refraction-wavefronts.webp" width="900" height="1000" alt="Water waves go from deep water at 0.30 m/s into a shallow shelf at 0.21 m/s with the same 6.0 Hz frequency. Wavelength shrinks from 0.050 m to 0.035 m, wavefronts get closer, and the ray moves from 40 to 26.7 degrees from the normal." loading="lazy">
-  <figcaption>Slower medium, same frequency: shorter wavelength and a ray nearer the normal.</figcaption>
-</figure>
-
-
 ## Diffraction in brief
 
 | Situation | What you see |
@@ -184,6 +178,12 @@ Speed, wavelength and frequency do not change on diffraction. The wavefront shap
 9. C = sin⁻¹(1.00 / 1.60) = 38.7°. The angle 38° is below C, so the ray emerges. sin θ2 = 1.60 × sin 38° = 0.985, so θ2 = 80.1°. Some light is also reflected.
 10. C = sin⁻¹(1.00 / 1.33) = 48.8°. The angle 55° is greater than C, so there is total internal reflection and no light escapes.
 11. The 2 cm waves spread more, because their wavelength is closer to the gap width. The 0.5 cm waves pass with less spreading.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-wavefronts-rays-reflection-refraction-and-diffraction--03-refraction-wavefronts.webp" width="900" height="1000" alt="Water waves go from deep water at 0.30 m/s into a shallow shelf at 0.21 m/s with the same 6.0 Hz frequency. Wavelength shrinks from 0.050 m to 0.035 m, wavefronts get closer, and the ray moves from 40 to 26.7 degrees from the normal." loading="lazy">
+  <figcaption>Slower medium, same frequency: shorter wavelength and a ray nearer the normal.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

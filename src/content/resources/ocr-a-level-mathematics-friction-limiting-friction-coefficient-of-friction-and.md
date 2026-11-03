@@ -195,6 +195,17 @@ a = 9.8(0.3420 − 0.45 × 0.9397) = 9.8(−0.0809) = −0.792 m s⁻²
 
 The body decelerates and stops after 5.68 m. Since tan 20° = 0.364 is less than μ = 0.45, the friction needed to hold it is less than the maximum, so it stays at rest. If μ were less than tan 20°, the acceleration would be positive and it would speed up.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-maths-9709-mechanics--01-amth-forces-lift.webp" width="900" height="1010" alt="Free-body diagrams of a 65 kg person in a lift with g = 9.8. At rest R = 637 N; accelerating up at 0.8 m per second squared R = 689 N; accelerating down R = 585 N. Arrow lengths are proportional to the forces. A strip below shows the third-law pair: the floor pushes the person up with R and the person pushes the floor down with R, on different bodies." loading="lazy">
+  <figcaption>The reaction R is larger than the weight when the lift accelerates upwards and smaller when it accelerates downwards; third-law pairs act on different bodies.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-maths-9709-mechanics--09-amth-forces-conical.webp" width="900" height="940" alt="A 0.4 kg bob on a 1.2 m string moves in a horizontal circle at 5 rad per second. T = mLω² = 12 N, cos θ = g/(Lω²) = 0.327 so θ = 70.9 degrees, r = 1.13 m, v = 5.67 m per second. Tension plus weight give a horizontal resultant 11.3 N to the centre; from above, v is tangent and a = 28.3 m per second squared points to the centre." loading="lazy">
+  <figcaption>The resultant of tension and weight points to the centre of the circle and equals mrω².</figcaption>
+</figure>
+
+
 ## Common errors
 
 - Writing F = μR for a stationary body that is not close to slipping.

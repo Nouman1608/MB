@@ -231,6 +231,12 @@ Evaluation: the cap guarantees the quantity of pollution but not the price. The 
 
 For any recommendation, ask: does it target the cause of the failure, how big is the effect given the elasticities, who gains and loses, and what does it cost? Then judge, for example: a tax is best here because demand is elastic and the cost is measurable, but a ban is safer if the harm is severe.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-economics-government-microeconomic-intervention--05-tool-matching.webp" width="900" height="900" alt="A matching diagram joining four problems to six tools. Public good not provided: direct provision. Merit good under-consumed: direct provision, subsidy, information. Demerit good over-consumed: information, indirect tax, minimum price. Price too high or too low: maximum or minimum price, buffer stock." loading="lazy">
+  <figcaption>Match the tool to the problem: the mechanism, not just the name, earns marks.</figcaption>
+</figure>
+
+
 ## Common errors
 
 - Moving the demand curve when a tax or subsidy changes costs.

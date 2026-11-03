@@ -84,6 +84,11 @@ H — C — C — O — H
   <figcaption>The functional group decides the series and its chemistry.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/petroleum-alkanes-and-alkenes--02-alkane-alkene-structure.webp" width="900" height="830" alt="Displayed formulae of ethane and ethene. Ethane has only single bonds, so it is saturated, general formula CnH2n+2 (C2H6). Ethene has a C=C double bond, so it is unsaturated, general formula CnH2n (C2H4). Every carbon makes four bonds." loading="lazy">
+  <figcaption>Ethane has only single bonds; ethene has a C=C double bond.</figcaption>
+</figure>
+
 
 ## CM6.2i: 3D and 2D
 
@@ -160,6 +165,12 @@ Worked reminder: propan-1-ol, C₃H₇OH. 3CO₂ and 4H₂O give 10 O atoms; sub
 | poly(but-1-ene) | but-1-ene, CH₂=CHC₂H₅ | –[CH₂–CH(C₂H₅)]– |
 | poly(ethene) | ethene, CH₂=CH₂ | –[CH₂–CH₂]– |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/polymers--03-alkene-repeat-unit.webp" width="900" height="1140" alt="Ethene and propene are each shown turning into a bracketed repeat unit when the C=C opens, with an arrow back to show closing the bond recovers the monomer. A crossed-out version shows the wrong answer that keeps the C=C inside the brackets." loading="lazy">
+  <figcaption>Open the C=C to get the repeat unit; close it again to get the monomer.</figcaption>
+</figure>
+
+
 ## C6.2e, C6.2f: condensation polymers (Higher Tier only)
 
 - Each monomer has **two** functional groups; one group per monomer would end the chain.
@@ -173,6 +184,16 @@ Worked reminder: propan-1-ol, C₃H₇OH. 3CO₂ and 4H₂O give 10 O atoms; sub
   <figcaption>Nylon forms as a film where the two layers meet.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/polymers--04-addition-vs-condensation.webp" width="900" height="1150" alt="Addition: monomers with C=C join into a chain and nothing else is made. Condensation: monomers with an end group at both ends join into a chain and a water molecule is given off at every join." loading="lazy">
+  <figcaption>Condensation releases a small molecule, usually water; addition releases nothing.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/polymers--06-nylon-and-pet.webp" width="900" height="830" alt="Nylon is a diacid and a diamine alternating, joined by CO-NH and NH-CO amide links. PET is a diacid and a diol alternating, joined by CO-O and O-CO ester links. Each link releases water and each repeat unit contains two links." loading="lazy">
+  <figcaption>Nylon and PET follow the same pattern; only the second monomer and the link change.</figcaption>
+</figure>
+
 
 ## C6.2h: natural polymers
 
@@ -182,6 +203,17 @@ Worked reminder: propan-1-ol, C₃H₇OH. 3CO₂ and 4H₂O give 10 O atoms; sub
 | Starch, cellulose | sugars (glucose) |
 | Proteins | amino acids |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/polymers--07-proteins.webp" width="900" height="1140" alt="Three amino acid monomers, each with an NH2 end and a COOH end, join into a chain. Each join is a CO-NH peptide bond and releases water. A comparison shows nylon uses two monomers while a protein uses one monomer carrying both groups." loading="lazy">
+  <figcaption>Proteins are condensation polymers of amino acids joined by peptide (amide) bonds.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-chemistry-8462-organic-chemistry--11-aqa-natural-polymers.webp" width="900" height="1010" alt="Four rows show natural polymers as chains of beads. DNA is two chains in a double helix, made from four different monomers called nucleotides, drawn as four different bead shapes. A protein is a chain of amino acids, drawn as beads of different colours. Starch is a chain of glucose, a sugar, drawn as identical beads labelled G." loading="lazy">
+  <figcaption>DNA, proteins, starch and cellulose are chains built from nucleotides, amino acids and glucose.</figcaption>
+</figure>
+
+
 ## C6.2j–C6.2n: crude oil
 
 - Crude oil: a mixture of hydrocarbons, mostly **alkanes**, CₙH₂ₙ₊₂.
@@ -190,6 +222,12 @@ Worked reminder: propan-1-ol, C₃H₇OH. 3CO₂ and 4H₂O give 10 O atoms; sub
 - Bigger molecules: stronger intermolecular forces, higher boiling point, collected lower.
 - Crude oil supplies fuels and is the **feedstock** for plastics, solvents and many other products.
 - It is **finite**: it formed over millions of years and is used much faster.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/petroleum-alkanes-and-alkenes--01-fractional-distillation.webp" width="900" height="1000" alt="A fractionating column is hotter at the bottom and cooler at the top, with crude oil entering near the bottom. Eight fractions leave at different heights: refinery gas, gasoline, naphtha, kerosene, diesel oil, fuel oil, lubricating oil and bitumen, each with its use. Going up, chains get shorter, boiling points lower, fractions more volatile and less viscous." loading="lazy">
+  <figcaption>Fractions leave the column at different heights; shorter chains with lower boiling points rise higher.</figcaption>
+</figure>
+
 
 ## C6.2o: cracking
 
@@ -208,6 +246,11 @@ Worked reminder: propan-1-ol, C₃H₇OH. 3CO₂ and 4H₂O give 10 O atoms; sub
   <figcaption>Subtract the known product from C15H32 and share the rest between the two identical molecules: each is C3H6, propene.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/petroleum-alkanes-and-alkenes--03-cracking.webp" width="900" height="1050" alt="A ten-bead chain, decane C10H22, passes into a cracking vessel that needs high temperature and a catalyst. Out come octane C8H18, a shorter alkane, and ethene C2H4, an alkene. Atoms balance: 10 C and 22 H on both sides. Cracking is done because short chains and alkenes are in higher demand than distillation supplies." loading="lazy">
+  <figcaption>Heat and a catalyst crack decane into octane and ethene.</figcaption>
+</figure>
+
 
 ## C6.2p, C6.2q: cells and fuel cells
 
@@ -220,6 +263,11 @@ Worked reminder: propan-1-ol, C₃H₇OH. 3CO₂ and 4H₂O give 10 O atoms; sub
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/ocr-gcse-chemistry-organic-chemistry--04-un112-fuel-cell-halves.webp" width="900" height="920" alt="Hydrogen enters at the negative electrode and oxygen at the positive, with an acid electrolyte between. Electrons go round the external circuit and H+ ions through the electrolyte; both half-equations and the overall equation are shown." loading="lazy">
   <figcaption>Half-equations at each electrode of the acidic hydrogen fuel cell.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/electrolysis-and-fuel-cells--07-fuel-cell.webp" width="900" height="1040" alt="Hydrogen enters on one side and oxygen on the other, either side of an electrolyte between two electrodes. Electrons pass through a motor in an external circuit, and water is the only chemical product." loading="lazy">
+  <figcaption>A fuel cell turns hydrogen and oxygen into electricity, with water the only chemical product.</figcaption>
 </figure>
 
 

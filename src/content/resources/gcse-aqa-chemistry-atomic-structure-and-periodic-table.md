@@ -136,6 +136,12 @@ Ar = [(mass 1 x abundance 1) + (mass 2 x abundance 2)] / 100
 
 Electrons occupy shells from the innermost outwards, holding a maximum of 2, then 8, then 8. Chlorine (17 electrons) is 2,8,7. The number of outer-shell electrons determines the group, and the number of occupied shells determines the period.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/atomic-structure--04-shells-groups-periods.webp" width="900" height="965" alt="The first 20 elements drawn as shell diagrams in group columns and period rows, each labelled with symbol and configuration. Outer-shell electrons are gold and equal the group number; occupied shells equal the period number; Group VIII has full outer shells." loading="lazy">
+  <figcaption>Electronic configurations 1-20 and how to read group and period from them.</figcaption>
+</figure>
+
+
 ## Development of the model
 
 Ideas about the atom changed as experimental evidence accumulated: Dalton's solid spheres, then Thomson's plum pudding model, then Rutherford's alpha-scattering experiment which showed most of an atom is empty space with a dense positive nucleus, then Bohr's shells, and finally the discovery of the neutron. This sequence is a favourite context for questions about how scientific models respond to new evidence.
@@ -162,6 +168,16 @@ Elements are arranged in the periodic table by **increasing atomic number**. **M
   <figcaption>AQA numbers the groups 1 to 7 then 0, with the transition metals between Groups 2 and 3.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/periodic-table-groups-and-trends--01-arrangement.webp" width="900" height="770" alt="A cut-down Periodic Table (periods 2 and 3, groups I to VIII) with outer electrons, typical ion charge and the metal to non-metal change across a period." loading="lazy">
+  <figcaption>Elements are arranged in periods (rows) and groups (columns); group number fixes the outer electrons and ion charge.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-chemistry-atomic-structure-and-periodic-table--06-mendeleev-gaps.webp" width="900" height="1090" alt="Groups III to V: Mendeleev left two gaps with predicted masses of about 68 and 72; gallium (69.7) and germanium (72.6) were later found and filled them." loading="lazy">
+  <figcaption>Grouping by similar properties let Mendeleev predict undiscovered elements.</figcaption>
+</figure>
+
 
 ## Group 1 -- the alkali metals
 
@@ -172,6 +188,16 @@ Group 1 elements react with water to form a metal hydroxide and hydrogen: **meta
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/gcse-aqa-chemistry-atomic-structure-and-periodic-table--06-group1-shielding.webp" width="900" height="1095" alt="Lithium, sodium and potassium atoms with 2, 3 and 4 shells and one outer electron each. Inner shells shield the outer electron more as shells increase, so the pull from the nucleus shown as a bar falls from strong to weaker to weakest, and the outer electron is lost more easily." loading="lazy">
   <figcaption>More shells give more shielding and a weaker pull on the outer electron, so Group 1 reactivity rises down the group.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/periodic-table-groups-and-trends--02-group-i-electrons.webp" width="900" height="800" alt="Electron shell diagrams of Li (2,1), Na (2,8,1) and K (2,8,8,1), each with one outer electron shown in gold that sits further from the nucleus down the group." loading="lazy">
+  <figcaption>Each Group I atom has one outer electron, which is further out and lost more easily down the group.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/periodic-table-groups-and-trends--03-group-i-water.webp" width="900" height="900" alt="Three beakers show lithium fizzing steadily, sodium fizzing and possibly melting into a ball, and potassium igniting the hydrogen. Hydrogen bubbles rise in each and the solution becomes alkaline. Reactivity increases down the group; melting point decreases and density increases." loading="lazy">
+  <figcaption>Group I metals react with cold water to give hydrogen and an alkaline solution, more vigorously down the group.</figcaption>
 </figure>
 
 
@@ -186,14 +212,46 @@ A more reactive halogen will **displace** a less reactive one from a solution of
   <figcaption>Boiling points rise down Group 7 and Group 0 because larger particles have stronger intermolecular forces.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/periodic-table-groups-and-trends--04-halogens.webp" width="900" height="790" alt="Chlorine, bromine and iodine as diatomic molecules: a pale yellow-green gas, a red-brown liquid and a grey-black solid. Density increases and reactivity decreases down the group." loading="lazy">
+  <figcaption>The halogens are diatomic non-metals whose state and colour change down the group.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/periodic-table-groups-and-trends--05-halogen-displacement.webp" width="900" height="1090" alt="Chlorine added to colourless potassium iodide forms brown iodine, with the balanced equation. A grid shows which halogen and halide pairs react: only a more reactive halogen displaces a less reactive one (Cl &gt; Br &gt; I)." loading="lazy">
+  <figcaption>A more reactive halogen displaces a less reactive halogen from its halide solution.</figcaption>
+</figure>
+
 
 ## Group 0 -- the noble gases
 
 Group 0 elements are unreactive because their outer shell is already full, and this is why they exist as single, monatomic atoms rather than forming molecules. Boiling point **increases** going down the group as the atoms get larger and the intermolecular forces between them get stronger. The number of electrons in the outer shell equals the group number pattern used across the table (8 for Group 0, except helium with 2), which is why the noble gases sit in their own group rather than being folded into Group 7.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/periodic-table-groups-and-trends--08-noble-gases.webp" width="900" height="960" alt="Electron shells of He (2), Ne (2,8) and Ar (2,8,8) each have a full outer shell, so they do not gain, lose or share electrons. Noble gas particles are single atoms, whereas chlorine exists as Cl2 molecules." loading="lazy">
+  <figcaption>Noble gases are unreactive and monatomic because their outer shell is full.</figcaption>
+</figure>
+
+
 ## Topic 4.1.1.2 -- separating mixtures
 
 A mixture is two or more elements or compounds not chemically combined together, so the substances keep their own properties and can be separated by **physical** methods rather than chemical reactions: filtration, crystallisation, simple distillation, fractional distillation and chromatography, chosen according to the mixture's components and the property being exploited (particle size, solubility, or boiling point).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/practical-techniques-titrations-chromatography-separation--06-filter-crystallise.webp" width="900" height="925" alt="Filtration: a mixture is poured through filter paper; the residue stays on the paper and the filtrate drips into a beaker. Crystallisation: a solution is heated so solvent evaporates, the saturated solution is cooled, and crystals form to be filtered and dried." loading="lazy">
+  <figcaption>Filtration separates an insoluble solid; crystallisation recovers a dissolved solid.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/practical-techniques-titrations-chromatography-separation--07-distillation.webp" width="900" height="1215" alt="Simple distillation: salt solution is heated, water vapour passes through a condenser (water in at the bottom, out at the top) and pure water is collected while salt stays behind. Fractional distillation adds a fractionating column; ethanol, with the lower boiling point, boils first and is collected from ethanol and water." loading="lazy">
+  <figcaption>Simple distillation recovers a solvent; fractional distillation separates miscible liquids by boiling point.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/practical-techniques-titrations-chromatography-separation--03-chromatography-method.webp" width="900" height="1185" alt="Paper with a pencil line and mixture spot stands in a little solvent. Later the solvent front has risen and three coloured spots have separated. A lower strip shows colourless spots invisible until a locating agent is sprayed (Extended)." loading="lazy">
+  <figcaption>The solvent carries the components different distances up the paper; colourless spots need a locating agent (Extended).</figcaption>
+</figure>
+
 
 ## Properties of transition metals (chemistry only)
 
@@ -204,6 +262,16 @@ Beyond the metallic comparison, transition metals share three typical properties
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/gcse-aqa-chemistry-atomic-structure-and-periodic-table--15-transition-vs-group1.webp" width="900" height="880" alt="Group 1 metal such as sodium: soft enough to cut with a knife, and fizzes in water making hydrogen. Transition metal such as iron: hard and strong so the knife does not cut it, and no vigorous reaction with water." loading="lazy">
   <figcaption>Compared with Group 1, transition metals are harder and much less reactive.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/periodic-table-groups-and-trends--06-transition-elements.webp" width="900" height="1226" alt="Four panels: a balance where an iron block outweighs an equal sodium block; melting-point bars (Na 98 °C, Fe 1538 °C); coloured transition-metal solutions beside colourless NaCl; and Fe or MnO2 as catalysts." loading="lazy">
+  <figcaption>Transition elements are dense, high-melting, form coloured compounds and often act as catalysts.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/periodic-table-groups-and-trends--07-iron-ions.webp" width="900" height="910" alt="Group I sodium only forms Na+. Iron forms Fe2+ (iron(II), in FeSO4) by losing two electrons and Fe3+ (iron(III), in FeCl3) by losing three, so transition elements have variable oxidation numbers." loading="lazy">
+  <figcaption>Iron forms two stable ions, iron(II) and iron(III), unlike Group I metals.</figcaption>
 </figure>
 
 

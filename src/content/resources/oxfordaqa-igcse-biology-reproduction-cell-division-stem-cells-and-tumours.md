@@ -211,6 +211,11 @@ Do not just say "it is wrong". Say who is affected and why, then reach a conclus
   <figcaption>Embryonic, adult and meristem stem cells differ in the range of cells they can become.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-biology-8461-cell-division--05-therapeutic-cloning-rejection.webp" width="900" height="1020" alt="Two lanes. An embryo made with the patient's genes gives stem cells with the same genes, which the body does not reject. An unrelated donor embryo gives stem cells with different genes, which are rejected." loading="lazy">
+  <figcaption>Stem cells with the patient's own genes are not rejected.</figcaption>
+</figure>
+
 
 ## 3.5.2 n-o: Tumours and their causes
 
@@ -249,6 +254,11 @@ Growth alone does not show a tumour is malignant. Secondary tumours in other org
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/oxfordaqa-igcse-biology-reproduction-cell-division-stem-cells-and-tumours--10-tumour-causes.webp" width="900" height="1050" alt="Tobacco smoke and asbestos (chemical carcinogens), and UV and X-rays (ionising radiation) damage genetic material; uncontrolled mitosis then forms a tumour." loading="lazy">
   <figcaption>Carcinogens and ionising radiation can lead to uncontrolled cell division.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-non-communicable-disease-cardiovascular-treatment--05-benign-malignant.webp" width="900" height="1220" alt="A benign tumour is a mass of abnormal cells that grows in one place, does not spread and is not cancer. A malignant tumour invades nearby tissue; cells break off, travel in the blood and form secondary tumours elsewhere." loading="lazy">
+  <figcaption>Malignant tumours spread and form secondary tumours; benign tumours stay in one place.</figcaption>
 </figure>
 
 

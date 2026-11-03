@@ -169,6 +169,21 @@ Closing accumulated fund: 48,300 + 8,080 = 56,380. This agrees with net assets: 
   <figcaption>The balancing figure in the subscriptions account is the income for the year.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-accounting-clubs-and-non-profit-making-organisations--03-bar-profit.webp" width="900" height="866" alt="Bar takings of 26,300 split into cost of sales 14,580, steward wages 5,200 and bar profit 6,520, with gross profit 11,720. Only the bar profit goes to the income and expenditure account, as one line. Cost of sales is opening 1,850 plus purchases 14,870 minus closing 2,140." loading="lazy">
+  <figcaption>A club bar appears in the income and expenditure account as one bar profit line.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-accounting-clubs-and-non-profit-making-organisations--04-gifts-and-fees.webp" width="900" height="970" alt="Life fees of 2,400 go into the life membership fund; one tenth of 12,400, which is 1,240, is released to income, leaving a fund of 7,160. The 5,000 floodlights donation goes to the accumulated fund and the 300 general donation is income." loading="lazy">
+  <figcaption>Life fees, capital donations and general donations each go to a different place.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-accounting-clubs-and-non-profit-making-organisations--05-accumulated-fund.webp" width="900" height="1010" alt="Bars compare assets with fund plus amounts owed at 1 January (100,080) and 31 December (112,090). The accumulated fund grows from 92,350 to 102,850 through the 5,000 donation and the 5,500 surplus; the life fund of 7,160 is shown separately." loading="lazy">
+  <figcaption>The accumulated fund grows by capital donations and the surplus.</figcaption>
+</figure>
+
 
 ## 3.1.4 Manufacturing businesses
 
@@ -182,6 +197,22 @@ Brookvane Cabinets: opening raw materials 12,000, purchases 74,000, carriage inw
 Brookvane transfers goods to the statement of profit or loss at cost plus 20%. Factory profit is 31,500 and the transfer price is 189,000. Opening finished goods at transfer price were 21,600 and closing are 27,000, so cost of sales is 21,600 + 189,000 − 27,000 = 183,600. Closing inventory includes unrealised profit of 27,000 × 20/120 = 4,500, and opening included 3,600. Increase the **provision for unrealised profit** by 900 (a charge in the statement of profit or loss) and show closing inventory at 22,500 (27,000 − 4,500).
 
 Reasons for showing manufacturing profit: it compares the in-house cost with buying the goods in, it measures the factory's performance apart from selling, and it can set a transfer price.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-accounting-manufacturing-accounts--06-factory-cost-buildup.webp" width="900" height="984" alt="A waterfall builds up direct materials 185,100, direct wages 142,000 and royalties 6,800 to prime cost 333,900, adds overheads 110,800, adjusts work in progress by minus 2,200 to a factory cost of 442,500, then adds 15% profit on manufacture 66,375 for a transfer of 508,875." loading="lazy">
+  <figcaption>Factory cost builds up from prime cost and overheads, adjusted for work in progress, then profit on manufacture is added.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-accounting-manufacturing-accounts--07-direct-or-overhead.webp" width="900" height="1132" alt="Costs are sorted into prime cost (materials, direct wages, royalties, 333,900), factory overheads (110,800) and costs for the income statement instead. A bar splits 36,000 rent and insurance into 27,000 factory and 9,000 office." loading="lazy">
+  <figcaption>Only direct costs and the factory share of overheads belong in the manufacturing account.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-accounting-manufacturing-accounts--08-unrealised-profit.webp" width="900" height="1056" alt="Closing finished goods of 29,900 at transfer price contain 26,000 cost and 3,900 unearned profit (29,900 x 15/115). The provision rose from 3,150 to 3,900, so only 750 is deducted from profit on manufacture of 66,375, leaving 65,625. Taking 15% of 29,900 is wrong." loading="lazy">
+  <figcaption>Remove unearned profit from closing finished goods using m/(100+m), and charge only the change in the provision.</figcaption>
+</figure>
+
 
 ## 3.1.5 Limited companies
 
@@ -207,6 +238,26 @@ The 40,000 share issue was 25,000 shares of 1 each at 1.60. The statement of cha
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/cambridge-a-level-accounting-preparation-of-financial-statements-a-level--07-nca-schedule.webp" width="900" height="910" alt="A schedule rolls cost from 200,000 to 265,000 (additions 70,000, disposals 15,000, revaluation 10,000) and depreciation from 60,000 to 76,000 (charge 22,000, disposals 6,000), giving a carrying amount of 189,000. Figures are illustrative but tied to the Cranleigh purchase, depreciation, proceeds and profit on disposal." loading="lazy">
   <figcaption>A schedule of non-current assets rolls cost and depreciation forward to carrying amount.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-accounting-for-limited-companies--01-share-premium.webp" width="900" height="970" alt="A bar for one 1.20 pound share splits into 0.50 nominal and 0.70 premium. Multiplied by 200,000 shares, 240,000 pounds arrives in the bank: 100,000 to share capital and 140,000 to share premium, both equity. The premium is not income and never reaches the income statement." loading="lazy">
+  <figcaption>The premium above nominal value goes to share premium, not to the income statement.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-accounting-for-limited-companies--03-changes-in-equity.webp" width="900" height="870" alt="Equity builds from 143,200 pounds to 246,700 pounds. A share issue adds 50,000 to share capital and 30,000 to share premium, profit after tax adds 38,500 to retained earnings and dividends paid deduct 15,000 from retained earnings." loading="lazy">
+  <figcaption>Each movement in the year lands in one component of equity.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-accounting-for-limited-companies--07-profit-to-cash.webp" width="900" height="964" alt="Profit from operations of 96,400 pounds becomes cash generated of 158,300 after adding back depreciation 61,500 and loss on disposal 2,500 and adjusting for inventory (-7,700), receivables (+3,300) and payables (+2,300). Interest paid 6,000 and tax paid 15,600 leave net operating cash of 136,700." loading="lazy">
+  <figcaption>The indirect method turns profit into cash by reversing non-cash items and working capital changes.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-accounting-for-limited-companies--08-where-cash-went.webp" width="900" height="1020" alt="Starting from an overdraft of 23,400 pounds, operating activities add 136,700, investing activities subtract 57,500 and financing activities add 72,000, a net increase of 151,200 and closing cash of 127,800. A bonus issue and a revaluation involve no cash." loading="lazy">
+  <figcaption>Operating, investing and financing flows explain the change in cash.</figcaption>
 </figure>
 
 

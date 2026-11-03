@@ -107,27 +107,6 @@ In accelerator collisions the kinetic energy of the colliding particles can beco
 
 **Detection:** in a magnetic field, the **radius of curvature gives momentum** (`r = p/BQ`) and the **direction of curvature gives the sign of the charge**. A particle and its antiparticle curve in opposite directions.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/edexcel-ial-physics-nuclear-particle-revision-notes--01-linac-tubes.webp" width="900" height="960" alt="Five tubes with lengths in ratio 1, 1.41, 1.73, 2, 2.24 connected alternately to an alternating supply, with a bar chart of kinetic energy rising in equal steps. Equal transit time in each tube requires longer tubes as speed grows." loading="lazy">
-  <figcaption>Tubes lengthen because the particle speeds up while the alternating p.d. keeps its timing.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/edexcel-ial-physics-nuclear-particle-revision-notes--02-cyclotron-spiral.webp" width="900" height="1080" alt="Two dees in a magnetic field into the page with a spiral path of semicircles whose radii grow as the square root of 1, 2, 3 and so on. A note states the relativistic limit: mass rises, the half-turn lengthens and the particle falls out of step." loading="lazy">
-  <figcaption>Radius grows with speed (r = mv/BQ) while each half-turn takes the same time until relativistic effects.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/edexcel-ial-physics-nuclear-particle-revision-notes--03-track-curvature.webp" width="900" height="730" alt="An electron and positron created at one point in a field into the page curve in opposite directions; the positron track has twice the radius of the electron track, showing radius gives momentum (r = p/BQ)." loading="lazy">
-  <figcaption>Curvature direction gives the sign of the charge; radius gives momentum.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-physics-alternating-currents--03-charged-particle-circles.webp" width="900" height="920" alt="A proton accelerated through 1500 V enters a uniform 0.20 T field pointing into the page, moving upward. The magnetic force points left, so it circles; the radius is 2.8 cm at speed v and 5.6 cm at 2v. Both take the same time, T = 3.3 x 10^-7 s. An electron through the same voltage has a 43 times smaller radius and the opposite sense." loading="lazy">
-  <figcaption>A faster charged particle moves on a bigger circle but takes the same time per revolution.</figcaption>
-</figure>
-
-
 ## Exam traps
 
 - Calling protons or neutrons fundamental.
@@ -149,3 +128,24 @@ In accelerator collisions the kinetic energy of the colliding particles can beco
 8. What did the symmetry of the standard model successfully predict, before it was confirmed experimentally?
 
 **Answers:** 1. Quarks and leptons; protons and neutrons are composite. 2. The weak force; it explains beta decay, where a down quark becomes an up quark or vice versa. 3. Two photons travelling in opposite directions (so momentum is conserved), each with energy 0.511 MeV, the rest energy of one electron. 4. 2.0 × 10⁹ × 1.60 × 10⁻¹⁹ = 3.2 × 10⁻¹⁰ J; 938 × 1.60 × 10⁻¹³ = 1.50 × 10⁻¹⁰ J, and dividing by c² = (3.00 × 10⁸)² gives 1.67 × 10⁻²⁷ kg. 5. As the particle approaches the speed of light its mass increases, so the time to complete each semicircle is no longer constant and it loses synchronisation with the alternating supply. 6. Nucleon number (mass number) is the total number of protons and neutrons in a nucleus; proton number (atomic number) is the number of protons only. 7. It increases a fast-moving particle's observed lifetime, so particles that would otherwise decay almost instantly can travel measurable distances and be detected in accelerator experiments. 8. The existence of the top quark, before it was experimentally confirmed.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-physics-nuclear-particle-revision-notes--01-linac-tubes.webp" width="900" height="960" alt="Five tubes with lengths in ratio 1, 1.41, 1.73, 2, 2.24 connected alternately to an alternating supply, with a bar chart of kinetic energy rising in equal steps. Equal transit time in each tube requires longer tubes as speed grows." loading="lazy">
+  <figcaption>Tubes lengthen because the particle speeds up while the alternating p.d. keeps its timing.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-physics-nuclear-particle-revision-notes--02-cyclotron-spiral.webp" width="900" height="1080" alt="Two dees in a magnetic field into the page with a spiral path of semicircles whose radii grow as the square root of 1, 2, 3 and so on. A note states the relativistic limit: mass rises, the half-turn lengthens and the particle falls out of step." loading="lazy">
+  <figcaption>Radius grows with speed (r = mv/BQ) while each half-turn takes the same time until relativistic effects.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-physics-nuclear-particle-revision-notes--03-track-curvature.webp" width="900" height="730" alt="An electron and positron created at one point in a field into the page curve in opposite directions; the positron track has twice the radius of the electron track, showing radius gives momentum (r = p/BQ)." loading="lazy">
+  <figcaption>Curvature direction gives the sign of the charge; radius gives momentum.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-alternating-currents--03-charged-particle-circles.webp" width="900" height="920" alt="A proton accelerated through 1500 V enters a uniform 0.20 T field pointing into the page, moving upward. The magnetic force points left, so it circles; the radius is 2.8 cm at speed v and 5.6 cm at 2v. Both take the same time, T = 3.3 x 10^-7 s. An electron through the same voltage has a 43 times smaller radius and the opposite sense." loading="lazy">
+  <figcaption>A faster charged particle moves on a bigger circle but takes the same time per revolution.</figcaption>
+</figure>
+

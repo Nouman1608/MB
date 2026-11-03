@@ -227,6 +227,12 @@ When expenses exceed gross profit plus other income, the result is a loss for th
 11. No. It is capital expenditure, so it is a non-current asset in the statement of financial position. Only its depreciation is an expense.
 12. The income statement.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-accounting-financial-statements-of-a-sole-trader--04-ss-loss-and-drawings.webp" width="900" height="920" alt="Alder Row Bakery has income of 25,200 and expenses of 28,580, so there is a loss of 3,380. The loss and drawings of 7,200 are both deducted from opening capital of 13,000, leaving 2,420, which equals net assets." loading="lazy">
+  <figcaption>A loss is deducted from capital, and drawings reduce it further.</figcaption>
+</figure>
+
+
 ## Where marks are usually lost
 
 - Using closing inventories at the start of cost of sales, or forgetting to deduct them.
@@ -239,11 +245,6 @@ When expenses exceed gross profit plus other income, the result is a loss for th
 - Giving gross profit but not carrying on to profit for the year.
 - Showing a bank overdraft as an asset.
 - Not checking that net assets equal equity.
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/edexcel-igcse-accounting-financial-statements-of-a-sole-trader--04-ss-loss-and-drawings.webp" width="900" height="920" alt="Alder Row Bakery has income of 25,200 and expenses of 28,580, so there is a loss of 3,380. The loss and drawings of 7,200 are both deducted from opening capital of 13,000, leaving 2,420, which equals net assets." loading="lazy">
-  <figcaption>A loss is deducted from capital, and drawings reduce it further.</figcaption>
-</figure>
 
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/edexcel-igcse-accounting-financial-statements-of-a-sole-trader--01-ss-where-does-it-go.webp" width="900" height="1036" alt="Six items sorted by where they belong. Carriage inwards of $1,200 goes into cost of sales. Carriage outwards of $1,150 and loan interest of $360 are expenses in the income statement. A loan repayment reduces the loan liability, buying a vehicle adds a non-current asset, and drawings of $9,000 reduce equity; none of these three is an expense." loading="lazy">

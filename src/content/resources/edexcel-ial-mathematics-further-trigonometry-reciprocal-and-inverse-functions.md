@@ -156,6 +156,11 @@ tan(A − B) = (3 − 1/2)/(1 + 3 × 1/2) = (5/2)/(5/2) = 1
   <figcaption>Segment area is sector area minus triangle area.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-maths-9709-pure-mathematics-1-circular-measure--04-which-rule.webp" width="900" height="846" alt="Four triangles show the given information. Two sides and the angle between (SAS) or three sides (SSS) need the cosine rule: missing side 9.23, largest angle 96.4°. Two angles and a side (AAS) need the sine rule: missing side 22.9. Two sides and a non-included angle (SSA) use the sine rule but may have two answers." loading="lazy">
+  <figcaption>Match the known sides and angles to the rule: cosine for SAS and SSS, sine for AAS and SSA.</figcaption>
+</figure>
+
 
 ## 2.3 Double angle and half angle formulae
 

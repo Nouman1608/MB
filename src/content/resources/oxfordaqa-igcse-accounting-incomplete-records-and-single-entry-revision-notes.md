@@ -81,6 +81,11 @@ Capital fell by 1,240. Drawings were 900 and nothing was introduced. Profit = 3,
   <figcaption>Rebuilt sales and purchases give a full income statement.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-accounting-incomplete-records-and-single-entry--12-ir-statement-of-affairs.webp" width="900" height="860" alt="Maple Row Cycles has assets of 11,400 at 1 January (equipment 4,800, inventory 3,150, receivables 1,260, bank and cash 2,190) and payables of 1,900, so capital is the balancing figure 9,500." loading="lazy">
+  <figcaption>Capital is assets minus liabilities, the balancing figure.</figcaption>
+</figure>
+
 
 ## Method: finding a missing figure from a bank summary
 
@@ -201,11 +206,6 @@ Points to use in a judgement answer: size of the business, number of credit cust
 8. For example: trial balance gives an arithmetic check; income statement and statement of financial position can be prepared directly; records are fuller and easier to prove.
 9. Lowers it, because trade receivables and closing capital fall by that amount.
 10. Deducted, because it increases capital without being profit.
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/oxfordaqa-igcse-accounting-incomplete-records-and-single-entry--12-ir-statement-of-affairs.webp" width="900" height="860" alt="Maple Row Cycles has assets of 11,400 at 1 January (equipment 4,800, inventory 3,150, receivables 1,260, bank and cash 2,190) and payables of 1,900, so capital is the balancing figure 9,500." loading="lazy">
-  <figcaption>Capital is assets minus liabilities, the balancing figure.</figcaption>
-</figure>
 
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/oxfordaqa-igcse-accounting-incomplete-records-and-single-entry--13-ir-profit-from-capital.webp" width="900" height="750" alt="Closing capital 10,780 less opening 9,500 gives a rise of 1,280. Adding drawings of 9,600 and deducting capital introduced of 2,500 gives profit of 8,380." loading="lazy">

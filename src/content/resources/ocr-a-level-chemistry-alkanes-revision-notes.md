@@ -192,12 +192,6 @@ Worked reminder, 2,2-dimethylbutane, CH₃C(CH₃)₂CH₂CH₃:
 - **Propagation vs termination.** Propagation keeps the number of radicals the same; termination removes two.
 - **Complete vs incomplete combustion.** Same fuel; the difference is the oxygen supply.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-organic-chemistry-naming-mechanisms-and-aromatic-shape--02-bond-fission.webp" width="900" height="1170" alt="Cl-Cl splits with one electron to each atom giving two free radicals; H-Br splits with both electrons to Br giving H+ and Br-. Curly arrows start on the bond and end on the atom receiving the electrons." loading="lazy">
-  <figcaption>Homolytic fission gives radicals, heterolytic fission gives ions (AQA, Edexcel, OCR, OxfordAQA).</figcaption>
-</figure>
-
-
 ## Quick self-test
 
 1. Give the molecular formula of nonane.
@@ -225,6 +219,17 @@ Worked reminder, 2,2-dimethylbutane, CH₃C(CH₃)₂CH₂CH₃:
 9. **Three**: **1-chlorohexane, 2-chlorohexane and 3-chlorohexane**. Carbons 1 and 6, 2 and 5, and 3 and 4 are equivalent pairs.
 10. **High bond enthalpy** of C–C and C–H bonds, and **very low polarity** of those bonds.
 11. **Hexane**, CH₃CH₂CH₂CH₂CH₂CH₃ (a termination step).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-organic-chemistry-naming-mechanisms-and-aromatic-shape--02-bond-fission.webp" width="900" height="1170" alt="Cl-Cl splits with one electron to each atom giving two free radicals; H-Br splits with both electrons to Br giving H+ and Br-. Curly arrows start on the bond and end on the atom receiving the electrons." loading="lazy">
+  <figcaption>Homolytic fission gives radicals, heterolytic fission gives ions (AQA, Edexcel, OCR, OxfordAQA).</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-organic-chemistry-naming-mechanisms-and-aromatic-shape--05-cracking.webp" width="900" height="1070" alt="Dodecane is cracked, breaking two C-C bonds to give octane and two ethene molecules; conditions for thermal and catalytic cracking are shown (AQA)." loading="lazy">
+  <figcaption>Cracking breaks C-C bonds to make shorter alkanes and alkenes (AQA, Edexcel).</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

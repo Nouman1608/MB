@@ -229,6 +229,11 @@ x = 80.2
 Ar(X) ≈ 80, so X is **bromine**, and the precipitate would be cream.
 
 <figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-group-2-the-alkaline-earth-metals--04-sulfate-test.webp" width="900" height="950" alt="Three test tubes show dilute HCl removing carbonate as CO2, then BaCl2 solution added, then a white precipitate of BaSO4. An ion picture shows Ba2+ and SO4 2- joining, with a warning not to acidify with sulfuric acid." loading="lazy">
+  <figcaption>Acidify with dilute HCl or HNO3, then add BaCl2: a white precipitate shows sulfate ions.</figcaption>
+</figure>
+
+<figure class="topic-figure">
   <img src="https://img.marlbridge.com/aqa-a-level-chemistry-group-2-the-alkaline-earth-metals--09-silver-nitrate-test.webp" width="900" height="920" alt="A grid of tubes for Cl-, Br- and I- shows precipitate colours with acidified silver nitrate and their solubility in dilute and concentrated ammonia. AgCl dissolves in dilute ammonia, AgBr only in concentrated, AgI in neither." loading="lazy">
   <figcaption>Acidified AgNO3 gives white, cream and yellow precipitates; solubility in ammonia confirms which halide.</figcaption>
 </figure>
@@ -304,12 +309,6 @@ mass    = 0.200 × 74.5 = 14.9 g
 | CO₃²⁻ | add dilute acid; bubble gas through limewater | effervescence; limewater turns cloudy |
 | SO₄²⁻ | add acidified BaCl₂(aq) | white precipitate |
 | Halide ions | add dilute HNO₃ then AgNO₃(aq); then NH₃(aq) | white, cream or yellow precipitate, as above |
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-group-2-the-alkaline-earth-metals--04-sulfate-test.webp" width="900" height="950" alt="Three test tubes show dilute HCl removing carbonate as CO2, then BaCl2 solution added, then a white precipitate of BaSO4. An ion picture shows Ba2+ and SO4 2- joining, with a warning not to acidify with sulfuric acid." loading="lazy">
-  <figcaption>Acidify with dilute HCl or HNO3, then add BaCl2: a white precipitate shows sulfate ions.</figcaption>
-</figure>
-
 
 ## Common errors
 

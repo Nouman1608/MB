@@ -222,8 +222,23 @@ A population of 3 000 000 bacteria, antibiotic kills 99.9 %.
 </figure>
 
 <figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-white-blood-cells-the-immune-system-and-vaccination--07-survivors-grid.webp" width="900" height="950" alt="A grid of 2000 squares stands for 4 000 000 bacteria, each square 2000. One red square marks the 0.05 percent that survive, which is 2000 resistant bacteria. The two calculation lines are shown below." loading="lazy">
+  <figcaption>0.05% of 4 000 000 is 2000, one square out of 2000.</figcaption>
+</figure>
+
+<figure class="topic-figure">
   <img src="https://img.marlbridge.com/igcse-biology-0610-diseases-and-immunity--05-vaccination-memory.webp" width="900" height="1130" alt="Extended. Three steps: weakened pathogens or antigens go in; lymphocytes make antibodies; memory cells give long-term immunity. A sketch graph of antibody level against time shows a slow, small first response and, on meeting the same pathogen again, a fast, large second response." loading="lazy">
   <figcaption>Memory cells make the second response faster and larger.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-drugs--04-resistance-develops.webp" width="900" height="1290" alt="Extended. Four steps of natural selection in bacteria: one of ten bacteria has a random mutation making it resistant; the antibiotic kills the nine non-resistant ones; the survivor divides and passes on the gene; later all bacteria are resistant and the antibiotic no longer works." loading="lazy">
+  <figcaption>The antibiotic selects resistant bacteria that already exist; it does not cause the mutation.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-drugs--03-bacterium-vs-virus.webp" width="900" height="1010" alt="A bacterium is a living cell with cell wall, cell membrane, cytoplasm and a DNA loop, giving an antibiotic something to act on. A virus is a protein coat around genetic material, not a cell, so an antibiotic has nothing to act on." loading="lazy">
+  <figcaption>Antibiotics need cell structures to act on, so they work on bacteria and not on viruses.</figcaption>
 </figure>
 
 

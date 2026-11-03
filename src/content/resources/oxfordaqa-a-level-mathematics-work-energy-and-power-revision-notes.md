@@ -36,6 +36,12 @@ Links: [course hub](/boards/oxfordaqa/a-level/mathematics/), [printable checklis
 
 The specification lists work = Fd cos θ, GPE = mgh and KE = ½mv² among the formulae you should learn. Learn P = Fv as well.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-mathematics-work-energy-and-power-and-collisions-with-the--06-impulse-vector.webp" width="900" height="1055" alt="Edexcel IAL only. Ball 0.4 kg changes velocity from (5i−2j) to (−i+4j): impulse mv−mu = (−2.4, 2.4) N s, magnitude 3.39 N s, force (−48, 48) N over 0.05 s." loading="lazy">
+  <figcaption>Impulse is the vector difference between final and initial momentum.</figcaption>
+</figure>
+
+
 ## Work done
 
 - Work comes only from the part of the force that points along the motion.

@@ -67,47 +67,6 @@ values** to identify substances
 chromatographic methods for separating and identifying the components
 of a given mixture
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ocr-gcse-chemistry-purity-and-separating-mixtures--01-mr-caco3.webp" width="900" height="790" alt="A bar of blocks scaled to relative atomic mass: Ca 40, C 12 and three O of 16 give 100. Below, 1 x 40, 1 x 12 and 3 x 16 = 48 sum to 100." loading="lazy">
-  <figcaption>Mr of CaCO3 is the sum of every atom Ar: 100.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ocr-gcse-chemistry-purity-and-separating-mixtures--02-empirical-ch3.webp" width="900" height="1060" alt="2.4 g C and 0.6 g H become 0.2 mol and 0.6 mol (2 and 6 circles of 0.1 mol), then 1 and 3 groups of 0.2 mol, giving C:H = 1:3 and CH3." loading="lazy">
-  <figcaption>Convert masses to moles, then divide by the smaller: CH3.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ocr-gcse-chemistry-purity-and-separating-mixtures--03-pure-everyday-vs-chemical.webp" width="900" height="820" alt="Pure orange juice contains several different substances, shown as four shapes, so it is not chemically pure. A chemically pure substance has one kind of particle and melts and boils at one sharp temperature." loading="lazy">
-  <figcaption>Everyday pure is not the same as chemically pure.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/practical-techniques-titrations-chromatography-separation--06-filter-crystallise.webp" width="900" height="925" alt="Filtration: a mixture is poured through filter paper; the residue stays on the paper and the filtrate drips into a beaker. Crystallisation: a solution is heated so solvent evaporates, the saturated solution is cooled, and crystals form to be filtered and dried." loading="lazy">
-  <figcaption>Filtration separates an insoluble solid; crystallisation recovers a dissolved solid.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/practical-techniques-titrations-chromatography-separation--07-distillation.webp" width="900" height="1215" alt="Simple distillation: salt solution is heated, water vapour passes through a condenser (water in at the bottom, out at the top) and pure water is collected while salt stays behind. Fractional distillation adds a fractionating column; ethanol, with the lower boiling point, boils first and is collected from ethanol and water." loading="lazy">
-  <figcaption>Simple distillation recovers a solvent; fractional distillation separates miscible liquids by boiling point.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/practical-techniques-titrations-chromatography-separation--03-chromatography-method.webp" width="900" height="1185" alt="Paper with a pencil line and mixture spot stands in a little solvent. Later the solvent front has risen and three coloured spots have separated. A lower strip shows colourless spots invisible until a locating agent is sprayed (Extended)." loading="lazy">
-  <figcaption>The solvent carries the components different distances up the paper; colourless spots need a locating agent (Extended).</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/practical-techniques-titrations-chromatography-separation--08-purity-melting-boiling.webp" width="900" height="950" alt="Two sketch graphs of temperature against time. A pure substance melts and boils at one flat, sharp temperature. An impure substance starts melting below the pure melting point and rises through a range, and boils over a range generally above the pure boiling point." loading="lazy">
-  <figcaption>Pure substances have a sharp melting and boiling point; impure ones melt and boil over a range.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/atomic-structure--01-element-compound-mixture.webp" width="900" height="1020" alt="Three boxes of particles: an element has one type of atom; a compound has bonded atoms in a fixed 1:2 ratio, separable only chemically; a mixture has unbonded atoms in any ratio, separable physically." loading="lazy">
-  <figcaption>An element, a compound and a mixture compared at particle level.</figcaption>
-</figure>
-
-
 ## How to approach it
 
 Because this subtopic mixes conceptual understanding (what purity
@@ -169,6 +128,17 @@ smallest whole-number ratio -- avoids the most common error, which is
 attempting to compare raw masses directly without first converting to
 moles.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-chemistry-purity-and-separating-mixtures--01-mr-caco3.webp" width="900" height="790" alt="A bar of blocks scaled to relative atomic mass: Ca 40, C 12 and three O of 16 give 100. Below, 1 x 40, 1 x 12 and 3 x 16 = 48 sum to 100." loading="lazy">
+  <figcaption>Mr of CaCO3 is the sum of every atom Ar: 100.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-chemistry-purity-and-separating-mixtures--02-empirical-ch3.webp" width="900" height="1060" alt="2.4 g C and 0.6 g H become 0.2 mol and 0.6 mol (2 and 6 circles of 0.1 mol), then 1 and 3 groups of 0.2 mol, giving C:H = 1:3 and CH3." loading="lazy">
+  <figcaption>Convert masses to moles, then divide by the smaller: CH3.</figcaption>
+</figure>
+
+
 ## Common mistakes
 
 Assuming "pure" always means a single element or compound in the
@@ -207,3 +177,34 @@ method for an unfamiliar mixture described in an exam question.
 OCR GCSE (9-1) Chemistry A (Gateway Science) J248 specification,
 Version 4.0, August 2026 —
 [ocr.org.uk](https://www.ocr.org.uk/Images/234598-specification-accredited-gcse-gateway-science-suite-chemistry-a-j248.pdf).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-chemistry-purity-and-separating-mixtures--03-pure-everyday-vs-chemical.webp" width="900" height="820" alt="Pure orange juice contains several different substances, shown as four shapes, so it is not chemically pure. A chemically pure substance has one kind of particle and melts and boils at one sharp temperature." loading="lazy">
+  <figcaption>Everyday pure is not the same as chemically pure.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/practical-techniques-titrations-chromatography-separation--06-filter-crystallise.webp" width="900" height="925" alt="Filtration: a mixture is poured through filter paper; the residue stays on the paper and the filtrate drips into a beaker. Crystallisation: a solution is heated so solvent evaporates, the saturated solution is cooled, and crystals form to be filtered and dried." loading="lazy">
+  <figcaption>Filtration separates an insoluble solid; crystallisation recovers a dissolved solid.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/practical-techniques-titrations-chromatography-separation--07-distillation.webp" width="900" height="1215" alt="Simple distillation: salt solution is heated, water vapour passes through a condenser (water in at the bottom, out at the top) and pure water is collected while salt stays behind. Fractional distillation adds a fractionating column; ethanol, with the lower boiling point, boils first and is collected from ethanol and water." loading="lazy">
+  <figcaption>Simple distillation recovers a solvent; fractional distillation separates miscible liquids by boiling point.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/practical-techniques-titrations-chromatography-separation--03-chromatography-method.webp" width="900" height="1185" alt="Paper with a pencil line and mixture spot stands in a little solvent. Later the solvent front has risen and three coloured spots have separated. A lower strip shows colourless spots invisible until a locating agent is sprayed (Extended)." loading="lazy">
+  <figcaption>The solvent carries the components different distances up the paper; colourless spots need a locating agent (Extended).</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/practical-techniques-titrations-chromatography-separation--08-purity-melting-boiling.webp" width="900" height="950" alt="Two sketch graphs of temperature against time. A pure substance melts and boils at one flat, sharp temperature. An impure substance starts melting below the pure melting point and rises through a range, and boils over a range generally above the pure boiling point." loading="lazy">
+  <figcaption>Pure substances have a sharp melting and boiling point; impure ones melt and boil over a range.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/atomic-structure--01-element-compound-mixture.webp" width="900" height="1020" alt="Three boxes of particles: an element has one type of atom; a compound has bonded atoms in a fixed 1:2 ratio, separable only chemically; a mixture has unbonded atoms in any ratio, separable physically." loading="lazy">
+  <figcaption>An element, a compound and a mixture compared at particle level.</figcaption>
+</figure>
+

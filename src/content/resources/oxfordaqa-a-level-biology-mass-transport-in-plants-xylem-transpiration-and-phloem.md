@@ -97,6 +97,11 @@ Root pressure is a small force. It helps most when transpiration is low. It cann
   <figcaption>Root pressure: ions pumped into the xylem draw water in by osmosis and push sap upwards (OxfordAQA).</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-transport-in-plants--08-phloem-loading.webp" width="900" height="950" alt="A proton pump in the companion cell membrane uses ATP to pump hydrogen ions out into the cell wall space, giving high H+ outside and low inside. H+ diffuse back in through a cotransporter protein, bringing sucrose with them into the companion cell. Sucrose then passes into the sieve tube element through plasmodesmata." loading="lazy">
+  <figcaption>Protons are pumped out; sucrose enters the companion cell by cotransport with H+ and moves on through plasmodesmata.</figcaption>
+</figure>
+
 
 ## Transpiration
 

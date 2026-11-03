@@ -64,6 +64,22 @@ In answers, pair each concept with its effect: which figure changes, and in whic
 Prudence means caution, not pessimism: it never lets you invent losses. Materiality has no fixed cut-off; it
 depends on the size of the business.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-edexcel-accounting-principles-and-double-entry-bookkeeping--01-two-branches.webp" width="900" height="960" alt="Two cards compare financial accounting (looks back, read by outside users such as owners, lenders and tax authorities, fixed format set by law; income statement and statement of financial position) with management accounting (looks forward, read by managers, any format at any time; budgets, costing, investment appraisal)." loading="lazy">
+  <figcaption>Financial accounting reports the past to outsiders; management accounting informs managers about the future.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-edexcel-accounting-principles-and-double-entry-bookkeeping--02-who-reads-accounts.webp" width="900" height="1110" alt="A hub labelled Accounts links to six users: shareholders (profit and dividends), lenders (can they repay), suppliers (will bills be paid), managers (plan and control), employees (secure jobs and pay) and government (tax due). A highlighted box shows shareholders wanting dividends now while lenders prefer profit kept in." loading="lazy">
+  <figcaption>Different users want different things from the same accounts, and their needs can conflict.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-edexcel-accounting-principles-and-double-entry-bookkeeping--03-equation-loan-drawings.webp" width="900" height="1130" alt="Three panels show assets equal to liabilities plus capital. Starting at 10,000 dollars each side (illustrative split 2,000 liabilities, 8,000 capital), a 5,000 dollar loan raises assets and liabilities to 15,000, then 500 dollars of drawings lowers assets and capital so both sides are 14,500." loading="lazy">
+  <figcaption>A loan raises assets and liabilities; drawings lower assets and capital; the equation always balances.</figcaption>
+</figure>
+
+
 ## Situation 1: preparation of financial statements
 
 Year-end adjustments are where the concepts turn into figures. Work through each item, naming the concept and the direction of the change to profit.

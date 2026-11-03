@@ -200,6 +200,12 @@ Wording: if calculated χ² is smaller than the critical value, the difference i
 10. 54 ÷ 300 × 100 = 18%.
 11. The value of χ² depends on the sample size; percentages sum to 100 and hide how many individuals were counted.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-inheritance--05-dihybrid-cross.webp" width="900" height="1110" alt="The 16-box Punnett square for AaDd by AaDd shows 9 purple tall, 3 purple dwarf, 3 green tall and 1 green dwarf plants, a 9 : 3 : 3 : 1 ratio. Purple dwarf has probability 3/4 times 1/4, which is 3/16." loading="lazy">
+  <figcaption>Two genes on different chromosomes assort independently to give 9 : 3 : 3 : 1.</figcaption>
+</figure>
+
+
 ## Where marks are usually lost
 
 - Missing a key, so the symbols in the diagram have no meaning.

@@ -87,12 +87,6 @@ Simple atoms and monatomic ions only need electrons to balance the charge. Balan
 
 The number in front of e⁻ equals the total change in oxidation state. In 2O²⁻ → O₂ + 4e⁻, two oxygen atoms each rise by 2, so four electrons are lost.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-electrochemistry-electrolysis-and-electrode-potentials--03-series-ladder.webp" width="900" height="1120" alt="Ten half-equations are ranked from E° +1.51 V (MnO4-/Mn2+) at the top to -2.37 V (Mg2+/Mg) at the bottom. The left-hand species gain electrons and are the oxidising agents, strongest at the top; the right-hand species give electrons and are reducing agents, strongest at the bottom." loading="lazy">
-  <figcaption>A more positive E° means a stronger oxidising agent; a more negative E° means a stronger reducing agent.</figcaption>
-</figure>
-
-
 ## Method in steps
 
 ### Oxidation state from a formula
@@ -241,12 +235,6 @@ Cover the answers and work through each one.
 - Leaving electrons, or H⁺ and H₂O on both sides, in the final equation.
 - Naming an element ("chlorine") when the question asks for a species such as Cl₂ or Cl⁻.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-electrochemistry-electrolysis-and-electrode-potentials--01-zinc-copper-cell.webp" width="900" height="1130" alt="Two beakers are joined by a salt bridge. Zinc in Zn2+ is the negative electrode where zinc is oxidised; copper in Cu2+ is the positive electrode where Cu2+ is reduced. Electrons flow through a wire past a 1.10 V voltmeter from zinc to copper, and the cell is written Zn(s) | Zn2+(aq) || Cu2+(aq) | Cu(s)." loading="lazy">
-  <figcaption>In the zinc-copper cell electrons flow from the negative zinc electrode to the positive copper electrode, giving E° cell = +1.10 V.</figcaption>
-</figure>
-
-
 ## Related pages
 
 - [Study guide for this section](/resources/oxfordaqa-a-level-chemistry-oxidation-reduction-and-redox-equations/)
@@ -254,6 +242,17 @@ Cover the answers and work through each one.
 - [Atomic structure: electron arrangements and ions](/resources/oxfordaqa-a-level-chemistry-atomic-structure/)
 - [Amount of substance: using reacting ratios](/resources/oxfordaqa-a-level-chemistry-amount-of-substance/)
 - [Free diagnostics](/diagnostics/)
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-electrochemistry-electrolysis-and-electrode-potentials--01-zinc-copper-cell.webp" width="900" height="1130" alt="Two beakers are joined by a salt bridge. Zinc in Zn2+ is the negative electrode where zinc is oxidised; copper in Cu2+ is the positive electrode where Cu2+ is reduced. Electrons flow through a wire past a 1.10 V voltmeter from zinc to copper, and the cell is written Zn(s) | Zn2+(aq) || Cu2+(aq) | Cu(s)." loading="lazy">
+  <figcaption>In the zinc-copper cell electrons flow from the negative zinc electrode to the positive copper electrode, giving E° cell = +1.10 V.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-electrochemistry-electrolysis-and-electrode-potentials--03-series-ladder.webp" width="900" height="1120" alt="Ten half-equations are ranked from E° +1.51 V (MnO4-/Mn2+) at the top to -2.37 V (Mg2+/Mg) at the bottom. The left-hand species gain electrons and are the oxidising agents, strongest at the top; the right-hand species give electrons and are reducing agents, strongest at the bottom." loading="lazy">
+  <figcaption>A more positive E° means a stronger oxidising agent; a more negative E° means a stronger reducing agent.</figcaption>
+</figure>
+
 
 ## Official syllabus
 

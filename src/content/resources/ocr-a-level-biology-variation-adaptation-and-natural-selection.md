@@ -31,6 +31,12 @@ This guide covers section 4.2.2(e) to (i) of the OCR A Level Biology A (H420) sp
 | 4.2.2(h) | Explain how natural selection changes the characteristics of a population over time |
 | 4.2.2(i) | Explain the implications for humans of evolution, including pesticide resistance in insects and drug resistance in microorganisms |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-selection-and-evolution--05-hardy-weinberg-square.webp" width="900" height="1010" alt="A unit square is divided by p = 0.8 and q = 0.2 into AA 0.64, two Aa areas of 0.16 and aa 0.04. For 400 animals with 16 recessive, q squared is 0.04, so q is 0.2, p is 0.8, 2pq is 0.32 and there are 128 carriers." loading="lazy">
+  <figcaption>p squared, 2pq and q squared are the areas of a square split by the two allele frequencies.</figcaption>
+</figure>
+
+
 ## Evidence for evolution (4.2.2(e))
 
 Evolution is the change in the inherited characteristics of a population over many generations. The theory of evolution by natural selection says that populations change because individuals with advantageous inherited features survive and reproduce more than others.

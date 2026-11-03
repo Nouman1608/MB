@@ -205,6 +205,12 @@ Question type: should a small clinic introduce TQM? Gains: fewer complaints, les
 9. Explain one way better quality can allow a business to charge a higher price.
 10. State one disadvantage of relying only on end-of-process inspection.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-business-factors-of-production-and-quality--02-orrin-shop-online.webp" width="900" height="850" alt="Two cost bars for Orrin Books. In the shop, rent of 30,000 dollars is 13.6 percent of 220,000 dollars of costs. Online, rent of 14,000 dollars is 7.0 percent of 200,000 dollars of costs. Wages fall from 64,000 to 40,000 and website, delivery and other costs rise from 16,000 to 36,000 dollars." loading="lazy">
+  <figcaption>Moving online cuts rent and wages but raises technology costs at Orrin Books.</figcaption>
+</figure>
+
+
 ### Answers
 
 1. Enterprise, capital, land, labour.

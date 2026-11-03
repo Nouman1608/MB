@@ -125,6 +125,16 @@ Evaluation: the band must match the long-run price. A floor set too high builds 
   <figcaption>A cap below equilibrium creates a shortage of 150 and invites a black market.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-allocation-of-resources--07-price-controls.webp" width="900" height="1370" alt="Equilibrium E is at price 5 and quantity 50. A maximum price of 3 gives demand 70 and supply 25, a shortage of 45. A minimum price of 7 gives demand 30 and supply 75, a surplus of 45." loading="lazy">
+  <figcaption>A maximum price below equilibrium causes a shortage; a minimum price above it causes a surplus.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-economics-government-microeconomic-intervention--03-buffer-stock.webp" width="900" height="1030" alt="Demand slopes down; supply is three vertical lines for a bad (30), normal (50) and good (70) harvest. The agency sets a lower price of 4 and an upper price of 6. In a good harvest it buys 10 units to stop the price falling below 4; in a bad harvest it sells 10 units from store to stop the price rising above 6." loading="lazy">
+  <figcaption>A buffer stock buys when price is low and sells when price is high, keeping price between two limits.</figcaption>
+</figure>
+
 
 ## 5. Legislation, regulation and tradable pollution permits
 
@@ -173,6 +183,12 @@ Judge any method on these criteria and say which matter most in the context.
 | Equity | Who gains and who pays? |
 
 A strong answer ranks the methods for the case. For pollution, a tax set at the marginal external cost is efficient in theory, yet a ban may suit a harm that must stop outright. For inequity, state provision and transfers act directly but cost taxpayers.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-economics-government-microeconomic-intervention--05-tool-matching.webp" width="900" height="900" alt="A matching diagram joining four problems to six tools. Public good not provided: direct provision. Merit good under-consumed: direct provision, subsidy, information. Demerit good over-consumed: information, indirect tax, minimum price. Price too high or too low: maximum or minimum price, buffer stock." loading="lazy">
+  <figcaption>Match the tool to the problem: the mechanism, not just the name, earns marks.</figcaption>
+</figure>
+
 
 ## 7. Cost Benefit Analysis (CBA)
 

@@ -113,6 +113,11 @@ Link each point to a chain: lower prices, so higher real incomes; lower input co
 </figure>
 
 <figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-economics-free-trade-protectionism-and-tariff-quota-and-subsidy--04-tiles-subsidy.webp" width="900" height="910" alt="Subsidy diagram: supply shifts down, buyers keep the world price, taxpayers pay. With a 3 c subsidy home firms receive 18 c and supply 46 thousand. Buyers pay 15 c and demand 90, so imports are 44. The cost to taxpayers is 3 x 46 = 138." loading="lazy">
+  <figcaption>A 3 c subsidy lifts home output to 46 at a cost of 138 to taxpayers.</figcaption>
+</figure>
+
+<figure class="topic-figure">
   <img src="https://img.marlbridge.com/edexcel-igcse-economics-free-trade-protectionism-and-tariff-quota-and-subsidy--13-subsidy-closed-market.webp" width="900" height="930" alt="Demand Qd = 120 minus 2P, supply Qs = 2P plus 10 shifting down to Qs = 2P plus 16. Equilibrium moves from 27.5 c and 65 thousand to 26 c and 68 thousand." loading="lazy">
   <figcaption>In a closed market a 3 c subsidy cuts the price from 27.5 to 26 and raises output from 65 to 68.</figcaption>
 </figure>
@@ -160,12 +165,6 @@ Check: 325 + 75 + 62.5 = 462.5. At 4 workers per thousand bicycles the tariff pr
 
 - *Infant industry.* A bicycle maker has a unit cost of 24 c at low output, 20% above the 20 c world price. Protection is justified only if its cost is expected to fall to the world price or below, and if the protection has an end date.
 - *Dumping.* A foreign firm charges 12 c in Country B but 16 c in its own market. The gap is 4 ÷ 16 = 25% of the home price. An anti-dumping duty of 4 c lifts the import price back to 16 c.
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/edexcel-igcse-economics-free-trade-protectionism-and-tariff-quota-and-subsidy--04-tiles-subsidy.webp" width="900" height="910" alt="Subsidy diagram: supply shifts down, buyers keep the world price, taxpayers pay. With a 3 c subsidy home firms receive 18 c and supply 46 thousand. Buyers pay 15 c and demand 90, so imports are 44. The cost to taxpayers is 3 x 46 = 138." loading="lazy">
-  <figcaption>A 3 c subsidy lifts home output to 46 at a cost of 138 to taxpayers.</figcaption>
-</figure>
-
 
 ## Must-know distinctions
 

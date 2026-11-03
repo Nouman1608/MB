@@ -55,6 +55,12 @@ These notes condense sections 3.3.5.1 and 3.3.5.2 of the OxfordAQA International
 
 Wealth is usually more unequal than income, and the two feed each other: income allows saving, saving builds assets, assets earn income.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-poverty-inequality-and-government-redistribution--01-income-wealth-loop.webp" width="900" height="890" alt="A four-step loop: higher income allows more saving, saving buys assets, assets earn income and rise in value, which raises income again. Below, a house price rise adds to an owner's wealth and does nothing for a renter." loading="lazy">
+  <figcaption>Income and wealth inequality can reinforce each other through saving and asset ownership.</figcaption>
+</figure>
+
+
 ## Method: reading a Lorenz curve or Gini
 
 1. Turn shares into cumulative shares (add as you go from the poorest).
@@ -205,11 +211,6 @@ Real value = nominal value × 100 / price index. A wage of 36,000 when prices ha
 8. Regressive: 5% of the low income and 1% of the high income.
 9. It can encourage avoidance, such as gifts before death or moving assets abroad, and it may discourage saving.
 10. Low-income households cannot afford education or health care, so merit goods are under-consumed.
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-poverty-inequality-and-government-redistribution--01-income-wealth-loop.webp" width="900" height="890" alt="A four-step loop: higher income allows more saving, saving buys assets, assets earn income and rise in value, which raises income again. Below, a house price rise adds to an owner's wealth and does nothing for a renter." loading="lazy">
-  <figcaption>Income and wealth inequality can reinforce each other through saving and asset ownership.</figcaption>
-</figure>
 
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/a-level-economics-government-microeconomic-intervention--07-income-vs-wealth.webp" width="900" height="940" alt="A tap pours water into a bath. The tap is income, a flow: money received over a period, such as wages, interest and dividends. The water level in the bath is wealth, a stock: the value of assets owned at a point in time, such as property, savings and shares." loading="lazy">

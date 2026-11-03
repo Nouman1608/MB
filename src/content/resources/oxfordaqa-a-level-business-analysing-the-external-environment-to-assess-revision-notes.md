@@ -192,6 +192,12 @@ A strong answer picks the response that fits the firm's resources and the likely
 11. It creates a new product or business model that displaces established ones, often starting as a cheaper, simpler offer.
 12. Any one: harder to recruit; pressure to raise pay; more training of existing staff; more reason to automate.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-business-business-and-its-environment--05-granthorn-forces.webp" width="900" height="1140" alt="Granthorn market shares give a four-firm ratio of 84 percent; its three biggest buyers take 45 percent of sales. Ratings: rivalry medium, buyer power high, supplier power high, entry threat low, substitute threat low to medium." loading="lazy">
+  <figcaption>Calculate what you can, then rate each force with evidence.</figcaption>
+</figure>
+
+
 ## Where marks are usually lost
 
 - Converting the wrong way: dividing when the rate has to be multiplied, or the reverse.

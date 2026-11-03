@@ -72,6 +72,12 @@ perceived and actual risk can differ, interpreting cholesterol and
 lipoprotein data, and weighing the benefits and risks of CVD treatments
 such as statins and anticoagulants
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-transport-in-mammals--05-heart-structure.webp" width="900" height="1110" alt="Frontal section of the heart with the four chambers, septum, tricuspid and bicuspid valves, tendons and papillary muscles, semilunar valves, coronary artery and the four main vessels with flow arrows. The left ventricle wall is thicker than the right. Red marks oxygenated and blue deoxygenated blood." loading="lazy">
+  <figcaption>Where each vessel and valve sits and which way blood flows.</figcaption>
+</figure>
+
+
 ## Core practicals in detail
 
 **Core Practical 1 — testing for reducing sugars and starch.** For a reducing sugar (all monosaccharides and some disaccharides, including maltose and lactose, but not sucrose), heat the sample with an excess of **Benedict's reagent** in a water bath: a positive result is a colour change from blue through green and orange to a **brick-red precipitate** of copper(I) oxide, and the test can be made semi-quantitative by comparing colours or timing the change. For starch, adding **iodine/potassium iodide solution** gives a colour change from orange-brown to **blue-black** if starch is present.

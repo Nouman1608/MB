@@ -103,12 +103,6 @@ The circular flow of income models injections (investment, government spending, 
 - Misreading the Phillips Curve as a fixed, permanent relationship.
 - Ignoring the global context (exchange rates, trade policy) when answering a domestic policy question -- remember these notes do not cover that content area in depth, so revise it separately.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ocr-a-level-economics-macroeconomics--05-phillips-curve.webp" width="900" height="910" alt="The short-run Phillips curve slopes down, so lower unemployment (A to B) brings higher inflation. Higher expectations shift it up to SRPC2 and the economy ends at C on the vertical long-run curve at the NAIRU." loading="lazy">
-  <figcaption>In the short run there is a trade-off; in the long run unemployment returns to the NAIRU.</figcaption>
-</figure>
-
-
 ## Quick self-test
 
 1. MPC = 0.8. Calculate the multiplier.
@@ -119,6 +113,12 @@ The circular flow of income models injections (investment, government spending, 
 6. Explain how a domestic interest rate cut can affect the exchange rate and, in turn, the balance of payments.
 
 **Answers:** 1. Multiplier = 1 ÷ (1 − 0.8) = 1 ÷ 0.2 = 5. 2. Shift: a change in any AD component (consumption, investment, government spending, net exports) for a reason other than price. Movement: a change in the price level. 3. Short-run: a trade-off exists between inflation and unemployment. Long-run: vertical at the natural rate of unemployment (NAIRU), no trade-off. 4. Fiscal, monetary, supply-side. 5. Any valid example, e.g. a policy that boosts growth (lower interest rates) may also raise inflation, or reducing unemployment through demand-side stimulus may worsen the balance of payments. 6. Lower interest rates make the currency less attractive to hold (lower returns for savers/investors), which can weaken it; a weaker currency makes exports cheaper and imports more expensive, potentially improving the trade balance but also raising import-driven inflation.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-macroeconomics--05-phillips-curve.webp" width="900" height="910" alt="The short-run Phillips curve slopes down, so lower unemployment (A to B) brings higher inflation. Higher expectations shift it up to SRPC2 and the economy ends at C on the vertical long-run curve at the NAIRU." loading="lazy">
+  <figcaption>In the short run there is a trade-off; in the long run unemployment returns to the NAIRU.</figcaption>
+</figure>
+
 
 ## How this connects to the synoptic paper
 

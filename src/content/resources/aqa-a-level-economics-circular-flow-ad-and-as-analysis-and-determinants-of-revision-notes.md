@@ -187,17 +187,6 @@ In year 4 output still rises, yet net investment has halved. A slowdown in growt
 
 They are decided by different people, so planned saving and planned investment may differ. Saving that is not matched by injections lowers national income.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/aqa-a-level-economics-circular-flow-ad-and-as-analysis-and-determinants-of-revision-notes--05-accelerator-country-f.webp" width="900" height="1000" alt="Output 80, 88, 96, 100, 100, 96 with growth rates and net investment 12, 12, 6, 0, -6. In year 4 output still rises but net investment halves." loading="lazy">
-  <figcaption>Net investment follows the change in output, not its level.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/aqa-a-level-economics-aggregate-demand-supply--02-ad-components.webp" width="900" height="906" alt="A waterfall adds consumption 60, investment 15, government spending 25 and exports 30 and subtracts imports 35 to reach AD of 95. Each bar lists the main determinants named in the lesson, and imports are shown as a subtraction." loading="lazy">
-  <figcaption>AD = C + I + G + (X − M): imports are subtracted, and a change in any component shifts the whole AD curve.</figcaption>
-</figure>
-
-
 ## 5. Quick self-test
 
 1. Nominal income is 880 and the price index is 110. Find real income.
@@ -223,6 +212,17 @@ They are decided by different people, so planned saving and planned investment m
 8. Short-run AS shifts **left**.
 9. A **movement along** AD.
 10. Investment depends on the rate of change of demand; when the rate falls, firms need fewer new machines, so net investment falls even as output rises.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-circular-flow-ad-and-as-analysis-and-determinants-of-revision-notes--05-accelerator-country-f.webp" width="900" height="1000" alt="Output 80, 88, 96, 100, 100, 96 with growth rates and net investment 12, 12, 6, 0, -6. In year 4 output still rises but net investment halves." loading="lazy">
+  <figcaption>Net investment follows the change in output, not its level.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-aggregate-demand-supply--02-ad-components.webp" width="900" height="906" alt="A waterfall adds consumption 60, investment 15, government spending 25 and exports 30 and subtracts imports 35 to reach AD of 95. Each bar lists the main determinants named in the lesson, and imports are shown as a subtraction." loading="lazy">
+  <figcaption>AD = C + I + G + (X − M): imports are subtracted, and a change in any component shifts the whole AD curve.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

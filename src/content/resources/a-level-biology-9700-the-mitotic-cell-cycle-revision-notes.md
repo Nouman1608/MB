@@ -45,6 +45,12 @@ Then test yourself with the [mitotic cell cycle practice questions](/resources/a
 | Centromere | Region joining sister chromatids; spindle attachment point |
 | Telomeres | Repeated non-coding sequences at the chromosome ends |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-the-mitotic-cell-cycle--07-non-disjunction.webp" width="900" height="1030" alt="One homologous pair is followed. Failure in meiosis I gives two n+1 and two n-1 gametes; failure in meiosis II gives one n+1, one n-1 and two normal gametes. In humans these are 24 and 22 chromosomes, and fertilisation by a normal 23 gives 47 or 45." loading="lazy">
+  <figcaption>Non-disjunction gives gametes with an extra or a missing chromosome.</figcaption>
+</figure>
+
+
 ### Why genetically identical cells matter
 
 | Need | Example |
@@ -190,11 +196,6 @@ time = 0.05 × 16 = 0.8 h = 48 min
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/a-level-biology-9700-the-mitotic-cell-cycle--03-mitosis-stages.webp" width="900" height="1276" alt="Six drawings of an animal cell with four chromosomes: interphase, prophase, metaphase, anaphase, telophase and cytokinesis, each with a short description. Spindle fibres, centrioles and nuclei are labelled in a key; cytokinesis shows an animal cell pinching in and a plant cell forming a cell plate." loading="lazy">
   <figcaption>Chromosomes condense, line up, separate as chromatids, and two nuclei form before the cytoplasm divides.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-level-biology-9700-the-mitotic-cell-cycle--07-non-disjunction.webp" width="900" height="1030" alt="One homologous pair is followed. Failure in meiosis I gives two n+1 and two n-1 gametes; failure in meiosis II gives one n+1, one n-1 and two normal gametes. In humans these are 24 and 22 chromosomes, and fertilisation by a normal 23 gives 47 or 45." loading="lazy">
-  <figcaption>Non-disjunction gives gametes with an extra or a missing chromosome.</figcaption>
 </figure>
 
 

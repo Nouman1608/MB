@@ -73,17 +73,6 @@ prokaryote and protoctist — the features used to place plants into ferns
 and flowering plants (dicotyledons and monocotyledons), and the features
 of viruses (a protein coat and genetic material)
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-biology-characteristics-and-classification-of-living-organisms--03-species-and-binomial.webp" width="900" height="1010" alt="Two animals of one species breed and produce fertile offspring. A binomial name has the genus first (capital letter) then the species (small letter), in italics, e.g. Panthera leo, Panthera tigris, Homo sapiens." loading="lazy">
-  <figcaption>A binomial name is genus plus species.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-biology-characteristics-and-classification-of-living-organisms--08-dna-similarity.webp" width="900" height="930" alt="Extended. A sketch tree: A and B share a recent common ancestor, C an older one. Invented base sequences show B differs from A at 1 base and C at 4. The more recently two groups shared an ancestor, the more similar their DNA." loading="lazy">
-  <figcaption>More recent common ancestor means more similar DNA.</figcaption>
-</figure>
-
-
 ## The seven characteristics — MRS GREN
 
 | Letter | Characteristic | What it means |
@@ -225,3 +214,14 @@ common source of dropped marks.
 
 Cambridge IGCSE Biology 0610 syllabus for 2026, 2027 and 2028 —
 [cambridgeinternational.org](https://www.cambridgeinternational.org/Images/697203-2026-2028-syllabus.pdf).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-characteristics-and-classification-of-living-organisms--03-species-and-binomial.webp" width="900" height="1010" alt="Two animals of one species breed and produce fertile offspring. A binomial name has the genus first (capital letter) then the species (small letter), in italics, e.g. Panthera leo, Panthera tigris, Homo sapiens." loading="lazy">
+  <figcaption>A binomial name is genus plus species.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-characteristics-and-classification-of-living-organisms--08-dna-similarity.webp" width="900" height="930" alt="Extended. A sketch tree: A and B share a recent common ancestor, C an older one. Invented base sequences show B differs from A at 1 base and C at 4. The more recently two groups shared an ancestor, the more similar their DNA." loading="lazy">
+  <figcaption>More recent common ancestor means more similar DNA.</figcaption>
+</figure>
+

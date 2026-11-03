@@ -69,6 +69,11 @@ Condensed, exam-focused notes for Topic 2 of Cambridge AS & A Level Biology (970
   to mechanical strength.
 
 <figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-carbohydrates-and-lipids--04-alpha-beta-glucose.webp" width="900" height="870" alt="Two ring drawings of glucose, each with five carbons and one oxygen, numbered 1 to 5 clockwise from the right-hand carbon, with CH2OH on carbon 5. OH on carbons 2 and 4 is below the ring and on carbon 3 above, in both. In alpha-glucose the OH on carbon 1 is below the ring and H above; in beta-glucose the OH is above and H below. Both are C6H12O6." loading="lazy">
+  <figcaption>The alpha and beta forms differ only in the position of the OH on carbon 1.</figcaption>
+</figure>
+
+<figure class="topic-figure">
   <img src="https://img.marlbridge.com/a-level-biology-9700-carbohydrates-and-lipids--08-protein-structure.webp" width="900" height="1297" alt="Four panels. 1 Primary: nine amino acids in sequence joined by peptide bonds. 2 Secondary: an alpha-helix and a beta-pleated sheet held by hydrogen bonds between backbone groups. 3 Tertiary: a folded chain with a disulfide bond between two cysteines, an ionic bond between lysine and aspartate, a hydrogen bond between serine and asparagine, and hydrophobic interaction between leucines. 4 Quaternary: haemoglobin, two alpha and two beta chains each with a haem group holding Fe2+, binding up to four oxygen molecules." loading="lazy">
   <figcaption>Primary sequence leads to secondary folding, tertiary R-group interactions and quaternary assembly.</figcaption>
 </figure>
@@ -81,6 +86,18 @@ Condensed, exam-focused notes for Topic 2 of Cambridge AS & A Level Biology (970
 - Effective solvent → transport of dissolved substances in blood plasma.
 - Every property traces back to hydrogen bonding between polar water molecules — always link property →
   hydrogen bonding → biological consequence.
+
+## Exam technique for this topic
+
+The single highest-value habit in this topic is always pairing a structural feature with its functional
+consequence, never stopping at naming a molecule or reaction alone. For example, don't just state that
+cellulose is "strong" — link that strength to straight chains of beta-glucose held together by many
+hydrogen bonds between adjacent chains, forming microfibrils. This structure-to-function reasoning is
+not unique to this topic: it recurs directly in Enzymes (how a denatured active site loses function) and
+Cell membranes and transport (how lipid structure enables selective permeability), so building the habit
+here pays off well beyond this topic's own questions. Expect practical-style questions asking you to
+interpret an unfamiliar biochemical test result or design a simple experiment applying the tests in 2.1,
+not just recall reagents and colours from memory.
 
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/a-level-biology-9700-carbohydrates-and-lipids--01-water-hydrogen-bonds.webp" width="900" height="860" alt="A central bent water molecule (H-O-H about 104.5 degrees) has a slightly negative oxygen and two slightly positive hydrogens. Dotted hydrogen bonds join each hydrogen to the oxygen of a neighbour below, and join a hydrogen of each of two neighbours above to the central oxygen, giving four hydrogen bonds. Solid lines are strong covalent bonds and dotted lines are weak hydrogen bonds." loading="lazy">
@@ -103,18 +120,6 @@ Condensed, exam-focused notes for Topic 2 of Cambridge AS & A Level Biology (970
 </figure>
 
 
-## Exam technique for this topic
-
-The single highest-value habit in this topic is always pairing a structural feature with its functional
-consequence, never stopping at naming a molecule or reaction alone. For example, don't just state that
-cellulose is "strong" — link that strength to straight chains of beta-glucose held together by many
-hydrogen bonds between adjacent chains, forming microfibrils. This structure-to-function reasoning is
-not unique to this topic: it recurs directly in Enzymes (how a denatured active site loses function) and
-Cell membranes and transport (how lipid structure enables selective permeability), so building the habit
-here pays off well beyond this topic's own questions. Expect practical-style questions asking you to
-interpret an unfamiliar biochemical test result or design a simple experiment applying the tests in 2.1,
-not just recall reagents and colours from memory.
-
 ## Worked example: interpreting an unfamiliar test result
 
 A student tests an unknown solution and observes a blue-black colour with iodine solution, but no
@@ -126,6 +131,12 @@ polysaccharide) without any free reducing sugar present, since starch itself doe
 Benedict's reagent unless first hydrolysed into its constituent glucose units. This kind of
 two-result-together reasoning, rather than treating each test as a separate fact, is exactly the skill
 practical-style questions on this topic are designed to assess.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-carbohydrates-and-lipids--09-biochemical-tests.webp" width="900" height="1300" alt="Four pairs of test tubes: Benedict’s (heated) stays blue without reducing sugar and turns brick-red with it; iodine stays orange-brown without starch and turns blue-black with it; biuret stays blue without protein and turns purple with it; in the emulsion test, ethanol then water stays clear without lipid and turns cloudy white with it. A strip shows the Benedict’s colours blue, green, yellow, orange, brick-red with more reducing sugar. A three-step flow shows the non-reducing sugar test: boil with dilute HCl, neutralise with sodium hydrogencarbonate, then Benedict’s and heat." loading="lazy">
+  <figcaption>Each test has a clear colour change; non-reducing sugars need acid hydrolysis first.</figcaption>
+</figure>
+
 
 ## Structure-to-function: a worked comparison
 
@@ -153,12 +164,6 @@ hydrophobic interactions. 4. Only when a protein consists of more than one polyp
 high specific heat capacity → thermal stability of aquatic habitats (or latent heat of vaporisation →
 evaporative cooling by sweating/transpiration; solvent property → transport of dissolved substances in
 blood).
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-level-biology-9700-carbohydrates-and-lipids--09-biochemical-tests.webp" width="900" height="1300" alt="Four pairs of test tubes: Benedict’s (heated) stays blue without reducing sugar and turns brick-red with it; iodine stays orange-brown without starch and turns blue-black with it; biuret stays blue without protein and turns purple with it; in the emulsion test, ethanol then water stays clear without lipid and turns cloudy white with it. A strip shows the Benedict’s colours blue, green, yellow, orange, brick-red with more reducing sugar. A three-step flow shows the non-reducing sugar test: boil with dilute HCl, neutralise with sodium hydrogencarbonate, then Benedict’s and heat." loading="lazy">
-  <figcaption>Each test has a clear colour change; non-reducing sugars need acid hydrolysis first.</figcaption>
-</figure>
-
 
 ## Why this topic underpins the rest of the course
 

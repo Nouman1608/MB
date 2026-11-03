@@ -163,6 +163,12 @@ Orbit results to derive, not just quote: v = √(GM/r), T² = (4π²/GM)r³, tot
 2. Substitute into the right equation for charge or discharge.
 3. To find time, take natural logs: t = −RC ln(Q/Q₀) for discharge.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-electric-fields--03-inverse-square-force.webp" width="900" height="880" alt="A graph of F against r for +8.0 nC and +0.60 nC falls as 1/r²: F at 0.10 m, F/4 at 0.20 m, F/9 at 0.30 m. OCR only: the area under the curve from 0.40 m to 0.10 m is the work done, 3.2×10⁻⁷ J." loading="lazy">
+  <figcaption>Doubling the separation divides the force by four.</figcaption>
+</figure>
+
+
 ## 3.7.5 Magnetic fields: key points
 
 - **Tesla**: 1 T gives a force of 1 N on 1 m of wire carrying 1 A perpendicular to the field.

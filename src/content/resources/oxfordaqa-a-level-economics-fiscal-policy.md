@@ -147,11 +147,27 @@ A higher tax on one product shifts demand to substitutes. Spending on, say, rene
   <figcaption>A tax of 3 moves the gadget fizz price from 4 to 6 and quantity from 110 to 90; buyers bear 2 per unit (180) and sellers 1 (90).</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-economics-price-system-and-the-microeconomy--07-tax-burden-and-elasticity.webp" width="900" height="1280" alt="A tax of 2 per unit shifts supply up. With inelastic demand (PED 0.5) buyers pay 6.43 and firms keep 4.43, so buyers bear 71 percent of the tax. With elastic demand (PED 3.3) buyers pay 5.55 and firms keep 3.55, so firms bear 73 percent." loading="lazy">
+  <figcaption>With inelastic demand buyers bear most of an indirect tax; with elastic demand producers bear most.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-economics-government-microeconomic-intervention--04-corrective-tax.webp" width="900" height="900" alt="Demand (MPB) and supply (MPC) cross at price 5 and quantity 50. Marginal social cost (MSC) lies 2 above MPC and crosses demand at price 6.2, quantity 40. The triangle between 40 and 50 is the welfare loss, area 10. A tax of 2 shifts supply up onto MSC and moves output to 40." loading="lazy">
+  <figcaption>A tax equal to the external cost moves output from the market level to the socially optimal level.</figcaption>
+</figure>
+
 
 ## Direct and indirect taxes
 
 - Direct taxes are paid by the person or firm on whom they fall, out of income or wealth: income tax, corporation tax.
 - Indirect taxes are levied on spending, so they are collected by sellers: a sales tax, an excise duty on fuel.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-objectives-of-government--07-types-of-tax.webp" width="900" height="1110" alt="Bar charts of tax as a percentage of income for low, middle and high earners: progressive rises (10, 15, 22.5 percent), regressive falls (2, 1.5, 1 percent). Below, a direct tax goes from you to the government; an indirect tax goes via a shop." loading="lazy">
+  <figcaption>Direct/indirect and progressive/regressive are two separate ways to classify taxes.</figcaption>
+</figure>
+
 
 ## Progressive, proportional and regressive taxes
 

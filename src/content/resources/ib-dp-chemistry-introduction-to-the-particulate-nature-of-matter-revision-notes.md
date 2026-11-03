@@ -178,17 +178,6 @@ Worked reminder: a freezer at −18 °C is at −18 + 273.15 = 255.15 K. A tempe
 
 Worked reminder: a pure solid heated steadily shows plateaus at 44 °C and 280 °C. Melting point = 44 + 273.15 = 317.15 K; boiling point = 280 + 273.15 = 553.15 K. At 100 °C the substance is a liquid, (l).
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ib-dp-chemistry-introduction-to-the-particulate-nature-of-matter--07-heating-curve.webp" width="900" height="890" alt="A heating curve with a Celsius axis and a matching kelvin axis. It rises from -20 degrees to a 3 minute plateau at 17 degrees (290.15 K), rises to an 11 minute plateau at 118 degrees (391.15 K), then rises again. Plateaus are where energy changes potential energy, not temperature." loading="lazy">
-  <figcaption>Temperature is constant on the plateaus, and the boiling plateau is longer than the melting one.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ib-dp-chemistry-introduction-to-the-particulate-nature-of-matter--08-kelvin-ke.webp" width="900" height="850" alt="Bars proportional to kelvin temperature. Heating from 27 to 327 degrees Celsius (300.15 to 600.15 K) doubles the average kinetic energy. Heating from 10 to 20 degrees Celsius (283.15 to 293.15 K) raises it by only about 3.5 percent." loading="lazy">
-  <figcaption>Average kinetic energy is proportional to the kelvin temperature, so use K for ratios.</figcaption>
-</figure>
-
-
 ## Quick self-test
 
 1. Classify: (a) bronze; (b) P₄; (c) glucose; (d) oil and water shaken together.
@@ -218,6 +207,17 @@ Worked reminder: a pure solid heated steadily shows plateaus at 44 °C and 280 �
 10. A pure substance melts at one sharp temperature. Impurities spread melting over a range (and usually lower it).
 11. 273.15 K → 546.15 K, so the factor is **2** (it doubles).
 12. Fractional distillation; the liquid boiling at 65 °C distils first.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-introduction-to-the-particulate-nature-of-matter--07-heating-curve.webp" width="900" height="890" alt="A heating curve with a Celsius axis and a matching kelvin axis. It rises from -20 degrees to a 3 minute plateau at 17 degrees (290.15 K), rises to an 11 minute plateau at 118 degrees (391.15 K), then rises again. Plateaus are where energy changes potential energy, not temperature." loading="lazy">
+  <figcaption>Temperature is constant on the plateaus, and the boiling plateau is longer than the melting one.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-introduction-to-the-particulate-nature-of-matter--08-kelvin-ke.webp" width="900" height="850" alt="Bars proportional to kelvin temperature. Heating from 27 to 327 degrees Celsius (300.15 to 600.15 K) doubles the average kinetic energy. Heating from 10 to 20 degrees Celsius (283.15 to 293.15 K) raises it by only about 3.5 percent." loading="lazy">
+  <figcaption>Average kinetic energy is proportional to the kelvin temperature, so use K for ratios.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

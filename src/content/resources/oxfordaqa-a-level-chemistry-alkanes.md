@@ -100,6 +100,16 @@ separation, and that is what sets it apart from cracking.
   <figcaption>Fractions separate by boiling point, which rises with chain length (AQA, Edexcel).</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-organic-chemistry-naming-mechanisms-and-aromatic-shape--07-boiling-points.webp" width="900" height="1200" alt="Boiling points of methane to decane rise with chain length (data from the OCR lesson); methane to butane are gases at 20 C. Heptane 98, 2-methylhexane 90 and 2,2-dimethylpentane 79 C show branching lowers boiling point." loading="lazy">
+  <figcaption>More electrons and contact give stronger London forces; branching lowers boiling point (AQA, OCR, OxfordAQA).</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-organic-chemistry-naming-mechanisms-and-aromatic-shape--09-new-functional-groups.webp" width="900" height="1260" alt="Skeletal formulae of benzene, chlorobenzene, phenol, propanoyl chloride, propanamide, dimethylamine and 2-aminoethanoic acid with each new group highlighted." loading="lazy">
+  <figcaption>The functional groups first met at A Level (Cambridge).</figcaption>
+</figure>
+
 
 ## Cracking (3.3.2.2)
 

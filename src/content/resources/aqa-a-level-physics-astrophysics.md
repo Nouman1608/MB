@@ -171,6 +171,11 @@ Absolute magnitude (+15 bottom to −10 top) against temperature **falling** lef
 </figure>
 
 <figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-astronomy-and-cosmology--02-aphy-astro-inverse-square.webp" width="900" height="1130" alt="A star emits light in a widening cone. At 2d the same light covers 4 times the area and at 3d 9 times, so the flux falls to F/4 and F/9. A standard candle has known L, so measuring F gives d; the worked example gives 5.6e18 m." loading="lazy">
+  <figcaption>Flux falls as 1/d^2, so a standard candle of known luminosity gives its distance.</figcaption>
+</figure>
+
+<figure class="topic-figure">
   <img src="https://img.marlbridge.com/a-physics-astronomy-and-cosmology--05-aphy-astro-star-life-cycle.webp" width="900" height="1210" alt="A low-mass star goes from gas cloud to protostar, main sequence, red giant, planetary nebula and white dwarf (electron degeneracy pressure, at most 1.4 solar masses). A massive star ends as a red supergiant, supernova, then a neutron star or black hole. A main-sequence star is stable because gas and radiation pressure balance gravity." loading="lazy">
   <figcaption>Mass decides whether a star ends as a white dwarf, neutron star or black hole.</figcaption>
 </figure>

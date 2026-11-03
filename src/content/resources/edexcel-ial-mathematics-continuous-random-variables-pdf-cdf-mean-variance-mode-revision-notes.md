@@ -27,6 +27,12 @@ These are condensed notes for section 2 (topics 2.1 to 2.5) of Unit S2 in the Pe
 - P(X = a) = 0 for every a, so P(X < a) = P(X ≤ a) and the inequality signs do not change a probability.
 - Outside the stated interval f(x) = 0. Write that in your answer.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-mathematics-continuous-random-variables-pdf-cdf-mean-variance-mode--01-probability-is-area.webp" width="900" height="830" alt="Graph of f(x) = (6 − x)/8 on 2 to 6, a right-angled triangle of area 1. The strip from x = 3 to 5 is shaded and has area 1/2. A single line at x = 4 has no width, so P(X = 4) = 0." loading="lazy">
+  <figcaption>Probability is the area under the pdf, and a single value has zero area.</figcaption>
+</figure>
+
+
 ## Definitions and formulae
 
 | Item | Result | Spec |
@@ -44,6 +50,17 @@ These are condensed notes for section 2 (topics 2.1 to 2.5) of Unit S2 in the Pe
 | Quartiles | F(x) = 1/4 (lower) and F(x) = 3/4 (upper) | 2.5 |
 
 The specification lists P(a < X ≤ b) = ∫ f(x) dx and f(x) = dF(x)/dx among the formulae you are expected to remember. Learn the others in the table too.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-mathematics-continuous-random-variables-pdf-cdf-mean-variance-mode--02-pdf-to-cdf.webp" width="900" height="985" alt="Two aligned graphs. The upper is the pdf x/6 then 1/3 with areas 1/12 and 7/12 shaded; the lower is the cdf rising to 1. Heights of the cdf at x = 1 and 3 are 1/12 and 2/3, and their gap 7/12 is P(1 &lt; X &lt; 3)." loading="lazy">
+  <figcaption>F(x) is the area collected so far, so P(a &lt; X &lt; b) = F(b) − F(a).</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-mathematics-continuous-random-variables-pdf-cdf-mean-variance-mode--04-mean-median-mode.webp" width="900" height="830" alt="The pdf (4/27)x²(3 − x) on 0 to 3 peaks at x = 2. Lines mark the mean 1.8, median about 1.84 and mode 2; the median splits the area into two halves of 1/2." loading="lazy">
+  <figcaption>The median halves the area, and here mean &lt; median &lt; mode.</figcaption>
+</figure>
+
 
 ## Method boxes
 
@@ -79,6 +96,17 @@ The specification lists P(a < X ≤ b) = ∫ f(x) dx and f(x) = dF(x)/dx among t
 2. Compare 1/2 (or 1/4, 3/4) with those values to choose the piece.
 3. Solve F(x) = the target in that piece.
 4. Reject any root outside the piece.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-mathematics-continuous-random-variables-pdf-cdf-mean-variance-mode--03-cdf-to-pdf.webp" width="900" height="1030" alt="The cdf F(x) = (x³ − 1)/26 is drawn with tangents at x = 1.5 and 2.5. Below it, the pdf 3x²/26 has heights 0.26 and 0.72 at those x values, equal to the tangent slopes." loading="lazy">
+  <figcaption>Differentiating F gives f, so a steeper cdf means a taller pdf.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-mathematics-continuous-random-variables-pdf-cdf-mean-variance-mode--05-quartiles-piecewise.webp" width="900" height="870" alt="The piecewise cdf x²/12 then (x − 1)/3 meets at F(2) = 1/3. Horizontal lines at 1/4, 1/2 and 3/4 hit the curve and drop to Q1 = √3 ≈ 1.73, median 2.5 and Q3 = 3.25. 1/4 uses the first piece; 1/2 and 3/4 use the second." loading="lazy">
+  <figcaption>Compare the target probability with F at the break point to choose the piece.</figcaption>
+</figure>
+
 
 ## Worked reminder
 
@@ -121,12 +149,6 @@ E(X) = ∫ x/4 dx (0 to 2) + ∫ x(4 − x)/4 dx (2 to 4) = 1/2 + 4/3 = 11/6
 
 Notice that f jumps at x = 2 but F does not. Probabilities are areas, so F is continuous even when f is not.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/edexcel-ial-mathematics-continuous-random-variables-pdf-cdf-mean-variance-mode--05-quartiles-piecewise.webp" width="900" height="870" alt="The piecewise cdf x²/12 then (x − 1)/3 meets at F(2) = 1/3. Horizontal lines at 1/4, 1/2 and 3/4 hit the curve and drop to Q1 = √3 ≈ 1.73, median 2.5 and Q3 = 3.25. 1/4 uses the first piece; 1/2 and 3/4 use the second." loading="lazy">
-  <figcaption>Compare the target probability with F at the break point to choose the piece.</figcaption>
-</figure>
-
-
 ## Before you hand in an answer
 
 - Does your cdf equal 0 at the bottom and 1 at the top?
@@ -142,12 +164,6 @@ Notice that f jumps at x = 2 but F does not. Probabilities are areas, so F is co
 - **Differentiate or integrate.** From f to F you integrate. From F to f you differentiate.
 - **Mode and median.** The mode is found from f, so you do not use the cdf for it. The median and quartiles are found from F.
 - **Symmetry.** If f is symmetric about a, then E(X) = a and the median is also a.
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/edexcel-ial-mathematics-continuous-random-variables-pdf-cdf-mean-variance-mode--04-mean-median-mode.webp" width="900" height="830" alt="The pdf (4/27)x²(3 − x) on 0 to 3 peaks at x = 2. Lines mark the mean 1.8, median about 1.84 and mode 2; the median splits the area into two halves of 1/2." loading="lazy">
-  <figcaption>The median halves the area, and here mean &lt; median &lt; mode.</figcaption>
-</figure>
-
 
 ## Quick self-test
 
@@ -175,12 +191,6 @@ Notice that f jumps at x = 2 but F does not. Probabilities are areas, so F is co
 9. **f(x) = 3(x − 2)²/8** for 2 ≤ x ≤ 4, and 0 otherwise.
 10. F(2) = 4/16 = 1/4, which is below 1/2, so use the second piece. (3m − 4)/8 = 1/2 gives 3m = 8, so **m = 8/3**.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/edexcel-ial-mathematics-continuous-random-variables-pdf-cdf-mean-variance-mode--02-pdf-to-cdf.webp" width="900" height="985" alt="Two aligned graphs. The upper is the pdf x/6 then 1/3 with areas 1/12 and 7/12 shaded; the lower is the cdf rising to 1. Heights of the cdf at x = 1 and 3 are 1/12 and 2/3, and their gap 7/12 is P(1 &lt; X &lt; 3)." loading="lazy">
-  <figcaption>F(x) is the area collected so far, so P(a &lt; X &lt; b) = F(b) − F(a).</figcaption>
-</figure>
-
-
 ## Where marks are usually lost
 
 - Integrating a piecewise pdf over one formula for the whole range instead of splitting at the boundary.
@@ -191,6 +201,11 @@ Notice that f jumps at x = 2 but F does not. Probabilities are areas, so F is co
 - Stating f′(x) = 0 as the mode with no check that it is a maximum, or missing an endpoint mode.
 - Dropping the "0 otherwise" or the limits when defining f(x) or F(x).
 - Giving a rounded answer where the question asks for an exact value, or the other way round.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-mathematics-continuous-random-variables-pdf-cdf-mean-variance-mode--06-linear-function-of-x.webp" width="900" height="915" alt="Two graphs on one scale. X, with pdf 4x³/15 on 1 to 2, has mean 1.65 and σ 0.26. 2X + 3 lies on 5 to 7 with mean 6.31 and σ 0.52: shifted by the +3 and spread doubled by the ×2." loading="lazy">
+  <figcaption>Adding b slides the distribution, and multiplying by a multiplies the variance by a².</figcaption>
+</figure>
 
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/edexcel-ial-mathematics-continuous-random-variables-pdf-cdf-mean-variance-mode--07-exponential-pdf.webp" width="900" height="850" alt="The pdf 0.4e^(−0.4x) falls from 0.4. The area from 2 to 6 is 0.359. A line marks the mean 2.5, equal to the standard deviation." loading="lazy">

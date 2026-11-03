@@ -63,6 +63,12 @@ Fall from 04:00 to 13:00 = 468 − 352 = **116 ppm**, which is 116 ÷ 468 × 100
 
 At 04:00 there is no light, so no photosynthesis, and respiration by crop, soil organisms and decomposers raises the concentration. By 13:00 photosynthesis runs faster than respiration, so the crop takes in more carbon dioxide than is released. By 19:00 light is falling, photosynthesis slows and the concentration rises again.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-biology-energy-transfer-and-productivity-in-ecosystems--09-succession.webp" width="900" height="1050" alt="Four quarry floors aged 5, 20, 50 and 120 years show soil depth rising from 0.5 to 25 cm. Plant species per 100 square metres rise from 3 to 22 at 50 years then fall to 19 at 120 years as light at the ground drops from 100% to 8%." loading="lazy">
+  <figcaption>Each stage changes soil and light for the next; diversity can fall under a dense canopy.</figcaption>
+</figure>
+
+
 ### Long-term change and human activity
 
 Combustion of fossil fuels moves carbon from deposits formed over a very long time into the air. Clearing forest removes trees that fix carbon dioxide, and burning or decay of the wood releases the carbon. The result is a rise in the average concentration, with the short-term cycles still visible on top.

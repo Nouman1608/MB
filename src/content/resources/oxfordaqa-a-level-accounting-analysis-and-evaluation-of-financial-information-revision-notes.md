@@ -56,8 +56,18 @@ OxfordAQA's guide *Formulae for accounting ratios* says students will be require
 The OxfordAQA guide lists the days version of inventory turnover; the times version above is the same pair of figures inverted. Average inventory = (opening + closing) / 2. For ROCE, either the opening or the closing capital figure may be used. A sole trader has no share capital, so gearing uses the owner's capital as the equity figure.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/aqa-a-level-accounting-analysis-and-evaluation-of-financial-information--03-roce.webp" width="900" height="800" alt="Capital of 237,000 dollars plus a 60,000 loan make capital employed of 297,000. Profit for the year of 57,600 plus 3,600 loan interest added back gives net profit before interest of 61,200, so ROCE is 20.61 percent. For a company, capital employed is shares plus reserves plus non-current liabilities." loading="lazy">
-  <figcaption>ROCE divides profit before loan interest by all long-term funds, loans included.</figcaption>
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-analysis-and-evaluation-of-financial-information--06-eps-and-pe.webp" width="900" height="830" alt="Profit for the year of 896,000 dollars less a 56,000 preference dividend leaves 840,000 of ordinary earnings. Divided by 6,000,000 shares this is 14.00 cents per share. A share price of 238 cents is 17 times that, so P/E is 17.00 times." loading="lazy">
+  <figcaption>EPS is profit per ordinary share; P/E says how many years of earnings the price represents.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-analysis-and-evaluation-of-financial-information--07-dividend-cover-yield.webp" width="900" height="820" alt="Ordinary earnings of 840,000 dollars hold the 360,000 dividend 2.33 times, which is the dividend cover. A dividend of 6.00 cents per share on a 238-cent share price is a yield of 2.52 percent." loading="lazy">
+  <figcaption>Cover shows how safe the dividend is; yield shows the cash return on the share price.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-analysis-and-evaluation-of-financial-information--08-gearing-interest-cover.webp" width="900" height="810" alt="Ardleigh funds 24.47 percent of long-term capital with debt and its operating profit covers interest 7.91 times. Merrowdale has 52.00 percent debt and covers interest only 3.00 times, so it is riskier if profit falls." loading="lazy">
+  <figcaption>More borrowing and less interest cover mean more risk to lenders and shareholders.</figcaption>
 </figure>
 
 
@@ -121,6 +131,12 @@ Profit follows the accruals concept; the bank balance follows money in and out. 
 - Depreciation lowers profit and leaves both liquidity ratios unchanged.
 - A long-term loan received raises both liquidity ratios with no effect on profit.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-analysis-and-evaluation-of-financial-information--03-roce.webp" width="900" height="800" alt="Capital of 237,000 dollars plus a 60,000 loan make capital employed of 297,000. Profit for the year of 57,600 plus 3,600 loan interest added back gives net profit before interest of 61,200, so ROCE is 20.61 percent. For a company, capital employed is shares plus reserves plus non-current liabilities." loading="lazy">
+  <figcaption>ROCE divides profit before loan interest by all long-term funds, loans included.</figcaption>
+</figure>
+
+
 ## Limitations
 
 **Financial:** historic figures; no inflation adjustment; different accounting policies between firms; year-end snapshot may be untypical; estimates such as depreciation; missing data such as the credit sales split.
@@ -135,12 +151,6 @@ Profit follows the accruals concept; the bank balance follows money in and out. 
 - **Profit vs cash:** profit is earned and incurred; cash is received and paid.
 - **Receivable vs payable days:** credit sales against credit purchases.
 - **Liquidity vs efficiency:** liquidity is the ability to pay short-term debts; efficiency is how quickly inventory, receivables and payables turn over.
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/aqa-a-level-accounting-analysis-and-evaluation-of-financial-information--05-cash-tied-up-days.webp" width="900" height="690" alt="Inventory is held 43.8 days and customers pay a further 36.5 days later, 80.3 days after buying. Suppliers are paid after 45.0 days, so the business funds the 35.3 days in between. Calculated from average inventory, credit sales and credit purchases." loading="lazy">
-  <figcaption>Inventory, receivable and payable days together show how long the business must fund its own working capital.</figcaption>
-</figure>
-
 
 ## Quick self-test
 
@@ -176,8 +186,18 @@ Profit follows the accruals concept; the bank balance follows money in and out. 
 </figure>
 
 <figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-analysis-and-evaluation-of-financial-information--02-margin-vs-markup.webp" width="900" height="810" alt="One bar shows revenue of 480,000 dollars made of cost of sales 312,000 and gross profit 168,000. Margin divides gross profit by revenue to give 35.00 percent; mark-up divides the same profit by cost of sales to give 53.85 percent." loading="lazy">
+  <figcaption>The same gross profit gives a larger percentage when measured against cost of sales than against revenue.</figcaption>
+</figure>
+
+<figure class="topic-figure">
   <img src="https://img.marlbridge.com/aqa-a-level-accounting-analysis-and-evaluation-of-financial-information--04-liquidity-ratios.webp" width="900" height="810" alt="Current assets of 95,000 dollars (bank 7,000, receivables 46,000, inventory 42,000) are compared with current liabilities of 38,000. The current ratio is 2.50 to 1; removing inventory leaves 53,000, so the acid test is 1.39 to 1." loading="lazy">
   <figcaption>The acid test removes inventory, the least liquid current asset.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-analysis-and-evaluation-of-financial-information--05-cash-tied-up-days.webp" width="900" height="690" alt="Inventory is held 43.8 days and customers pay a further 36.5 days later, 80.3 days after buying. Suppliers are paid after 45.0 days, so the business funds the 35.3 days in between. Calculated from average inventory, credit sales and credit purchases." loading="lazy">
+  <figcaption>Inventory, receivable and payable days together show how long the business must fund its own working capital.</figcaption>
 </figure>
 
 
@@ -193,11 +213,6 @@ Profit follows the accruals concept; the bank balance follows money in and out. 
 - Treating a higher current ratio as automatically good when inventory or receivables have swollen.
 - Listing limitations without linking them to the business in the question.
 - Saying depreciation or a provision for doubtful debts uses cash.
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/aqa-a-level-accounting-analysis-and-evaluation-of-financial-information--02-margin-vs-markup.webp" width="900" height="810" alt="One bar shows revenue of 480,000 dollars made of cost of sales 312,000 and gross profit 168,000. Margin divides gross profit by revenue to give 35.00 percent; mark-up divides the same profit by cost of sales to give 53.85 percent." loading="lazy">
-  <figcaption>The same gross profit gives a larger percentage when measured against cost of sales than against revenue.</figcaption>
-</figure>
 
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/aqa-a-level-accounting-analysis-and-evaluation-of-financial-information--09-break-even-chart.webp" width="900" height="740" alt="Fixed costs are flat at 30,000 dollars, total costs start there and rise 22.50 per lamp, and revenue rises 37.50 per lamp from zero. They meet at 2,000 lamps and 75,000 dollars. Left of that is loss and right of it profit; the margin of safety to the budget of 4,000 lamps is 2,000 lamps; the angle of incidence is marked at the break-even point." loading="lazy">

@@ -85,6 +85,11 @@ Comparing the acidity of different carboxylic acids is not required. The full se
 3. Bubble the gas through limewater; it turns milky, confirming CO₂ and a carboxylic acid.
 
 <figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-carboxylic-acids-and-derivatives--02-hydrogen-bonding.webp" width="900" height="1030" alt="Two carboxylic acid molecules form a hydrogen-bonded dimer through two O-H...O=C bonds. A bar chart of boiling points for pentane, butanal, butan-1-ol and propanoic acid (all Mr 72 to 74) shows 36, 75, 118 and 141 degrees Celsius as the intermolecular forces strengthen." loading="lazy">
+  <figcaption>Hydrogen-bonded dimers give propanoic acid the highest boiling point of four substances with similar Mr. Edexcel and OCR content.</figcaption>
+</figure>
+
+<figure class="topic-figure">
   <img src="https://img.marlbridge.com/aqa-a-level-chemistry-carboxylic-acids-and-derivatives--07-acylation-reactions.webp" width="900" height="1240" alt="A strip shows a carboxylic acid converted to an acyl chloride with PCl5 (Edexcel) or SOCl2 (OCR). Ethanoyl chloride and ethanoic anhydride transfer the CH3CO group (teal) to water, methanol, ammonia and methylamine to give ethanoic acid, methyl ethanoate, ethanamide and N-methylethanamide. By-products are HCl or ethanoic acid, and ammonia and amines are needed in twos." loading="lazy">
   <figcaption>Both reagents put an acyl group on water, an alcohol, ammonia or an amine. PCl5 is Edexcel only and SOCl2 is OCR only.</figcaption>
 </figure>
@@ -258,6 +263,11 @@ All of these happen readily at room temperature and are not reversible. Every on
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/aqa-a-level-chemistry-carboxylic-acids-and-derivatives--03-acid-carbonate-test.webp" width="900" height="950" alt="Ethanoic acid reacts with calcium carbonate in a test tube and carbon dioxide bubbles pass along a delivery tube into limewater, which turns cloudy. The balanced equation needs two acid molecules for each carbonate, and the acid is only partly ionised." loading="lazy">
   <figcaption>A weak carboxylic acid still releases CO2 from carbonates; limewater turns cloudy. All boards.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-carboxylic-acids-and-derivatives--06-fats-soap-biodiesel.webp" width="900" height="1210" alt="A fat molecule has a glycerol backbone joined by three ester links to three twelve-carbon acid chains. Heating 31.9 g (0.0500 mol) with sodium hydroxide gives three soap molecules per fat (33.3 g maximum) and glycerol; reacting with methanol and a catalyst gives three methyl ester biodiesel molecules (32.1 g maximum) and glycerol." loading="lazy">
+  <figcaption>One fat gives three soap or three biodiesel molecules, the 1:3 ratio. AQA and OxfordAQA.</figcaption>
 </figure>
 
 

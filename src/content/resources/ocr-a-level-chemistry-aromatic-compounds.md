@@ -64,6 +64,11 @@ You may draw benzene as a Kekulé hexagon or a hexagon with a circle (the π-sys
   <figcaption>All six benzene C-C bonds are equal, between a single and a double bond in length. (All boards)</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-aromatic-chemistry--09-synthesis-route.webp" width="900" height="1120" alt="Seven structures joined by six arrows: benzene, nitrobenzene, phenylamine, benzenediazonium chloride, phenol, 4-nitrophenol and 4-nitrophenyl ethanoate, each arrow labelled with reaction type and reagents. Step 5 also gives 2-nitrophenol as a by-product." loading="lazy">
+  <figcaption>Six reactions turn benzene into 4-nitrophenyl ethanoate. (Cambridge only)</figcaption>
+</figure>
+
 
 ## 6.1.1(b): Evidence for delocalisation
 

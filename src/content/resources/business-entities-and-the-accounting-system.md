@@ -71,12 +71,6 @@ Level candidates study all of 1.1–4.4. Questions on Limited Liability
 Partnerships will not be set. Knowledge of specific accounting software or
 applications is not required.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-level-aqa-accounting-types-of-business-organisation--03-finance-access.webp" width="900" height="1086" alt="A grid shows which of seven named sources each ownership type can use: owner's capital for sole traders, partners' capital for partnerships, shares and debentures for limited companies (mainly large-scale for plcs), and overdraft, loan and mortgage for all. A Cambridge-only box names instalments, leasing, trade credit and secured/unsecured loans." loading="lazy">
-  <figcaption>Match each source of finance to the ownership types that can realistically use it.</figcaption>
-</figure>
-
-
 ## Types of business entity
 
 Three types of business entity are named in this subtopic:
@@ -119,6 +113,11 @@ and **trade credit** (buying goods now, paying the supplier later).
 Understanding types of business entity is expected to inform which of
 these sources of finance is realistic or appropriate for a given business
 to use.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-accounting-types-of-business-organisation--03-finance-access.webp" width="900" height="1086" alt="A grid shows which of seven named sources each ownership type can use: owner's capital for sole traders, partners' capital for partnerships, shares and debentures for limited companies (mainly large-scale for plcs), and overdraft, loan and mortgage for all. A Cambridge-only box names instalments, leasing, trade credit and secured/unsecured loans." loading="lazy">
+  <figcaption>Match each source of finance to the ownership types that can realistically use it.</figcaption>
+</figure>
 
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/a-level-aqa-accounting-types-of-business-organisation--04-debt-vs-shares.webp" width="900" height="960" alt="A 100,000 pound loan at 6 percent costs 6,000 pounds interest every year whatever the profit (illustrative bars of 20,000, 6,000 and 0). Issuing 100 new shares to investors cuts an owner's stake from 100 percent to 50 percent." loading="lazy">

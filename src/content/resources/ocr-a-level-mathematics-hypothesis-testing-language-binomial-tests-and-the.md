@@ -97,6 +97,12 @@ The critical region is X ≤ 13. The critical value is 13. The probability of fa
 
 If 12 members renew, 12 is in the region (P(X ≤ 12) = 0.0212), so reject H₀. If 14 renew, it is not, so there is no evidence of a fall.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-statistical-hypothesis-testing--07-testing-correlation.webp" width="900" height="1060" alt="Three scatter diagrams show r about -0.9, about 0 and about +0.9. A number line for H0: rho = 0 against H1: rho &gt; 0 with n = 20 at 5% shows the critical value 0.3783 and the observed r = 0.412 in the reject region." loading="lazy">
+  <figcaption>r above the critical value means evidence of positive correlation in the population.</figcaption>
+</figure>
+
+
 ### Example 3: two-tail test
 
 A café claims 45% of customers order a hot drink. A sample of 20 is taken to see whether the proportion differs, at the 10% level. Each tail gets 5%.

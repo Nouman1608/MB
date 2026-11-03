@@ -206,6 +206,12 @@ Use Ar: H = 1.0, C = 12.0, O = 16.0, S = 32.1, Cl = 35.5.
 11. C₇H₈SO₃: 84.0 + 8.0 + 32.1 + 48.0 = **172.1**.
 12. n = 3.12 / 78.0 = 0.0400 mol; 0.0400 × 206 = **8.24 kJ**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-aromatic-chemistry--07-phenol-bromine.webp" width="900" height="960" alt="Benzene with bromine water gives no reaction, so the tube stays orange. Phenol decolourises bromine water at room temperature and gives a white precipitate of 2,4,6-tribromophenol; the oxygen lone pair feeds electron density into the ring." loading="lazy">
+  <figcaption>Phenol, unlike benzene, decolourises bromine water at room temperature to give a white precipitate. (Edexcel and OCR)</figcaption>
+</figure>
+
+
 ## Where marks are usually lost
 
 - Saying the bonds are "in between" but never naming bond **length**.

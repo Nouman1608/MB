@@ -107,6 +107,11 @@ These notes condense Unit 3, Business decisions and strategy (sections 3.3.1 to 
   <figcaption>Net EV is the expected value of the outcomes minus the cost of the option.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-business-business-decisions-and-strategy--05-crowdace-critical-path.webp" width="900" height="1040" alt="Six-node network with earliest start and latest finish times; C and E have 1 day float; critical path A, B, D, F is 15 days." loading="lazy">
+  <figcaption>Activities with zero float form the critical path.</figcaption>
+</figure>
+
 
 ## 3.3.4 Influences on decisions
 
@@ -140,6 +145,11 @@ Ratio limitations: historic, accounting policies differ, ignore non-financial fa
   <figcaption>Gearing and ROCE share capital employed; the acid test leaves out inventory.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-business-business-decisions-and-strategy--03-sandlow-hr-measures.webp" width="900" height="1000" alt="Four tiles with formulas and results: productivity 48,000 / 120 = 400 each; labour turnover 18 / 150 = 12%; retention 132 / 150 = 88%; absenteeism 300 / (120 x 250) = 1.0%." loading="lazy">
+  <figcaption>Four HR measures calculated from the Sandlow Foods figures.</figcaption>
+</figure>
+
 
 ## 3.3.6 Managing change
 
@@ -160,6 +170,11 @@ Ratio limitations: historic, accounting policies differ, ignore non-financial fa
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/edexcel-ial-business-business-decisions-and-strategy--02-zelbury-trend-seasonal.webp" width="900" height="950" alt="Zelbury quarterly sales with the centred trend 30.5, 31.5, 32.5, 33.5 and seasonal gaps of -2.5, +8.5, -8.5 and +2.5." loading="lazy">
   <figcaption>Seasonal gap is actual sales minus the centred trend.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-business-business-decisions-and-strategy--02-duskwell-special-order.webp" width="900" height="800" alt="Two stacked bars. A regular jar sells at 18 with variable cost 11, so contribution is 7. A special order at 13 gives contribution 2 per jar. 2,000 jars at 2 each add 4,000." loading="lazy">
+  <figcaption>A special order at a lower price still adds 2 per jar towards fixed costs and profit: 4,000 on 2,000 jars.</figcaption>
 </figure>
 
 
@@ -200,12 +215,6 @@ Ratio limitations: historic, accounting policies differ, ignore non-financial fa
 10. 9 / 60 x 100 = 15%.
 11. For example natural disasters, IT systems failure, loss of key staff (any two).
 12. Expanding sales faster than working capital can finance, causing cash shortage.
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/edexcel-ial-business-business-decisions-and-strategy--02-duskwell-special-order.webp" width="900" height="800" alt="Two stacked bars. A regular jar sells at 18 with variable cost 11, so contribution is 7. A special order at 13 gives contribution 2 per jar. 2,000 jars at 2 each add 4,000." loading="lazy">
-  <figcaption>A special order at a lower price still adds 2 per jar towards fixed costs and profit: 4,000 on 2,000 jars.</figcaption>
-</figure>
-
 
 ## Where marks are usually lost
 

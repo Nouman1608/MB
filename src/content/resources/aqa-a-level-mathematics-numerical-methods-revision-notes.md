@@ -170,6 +170,11 @@ T = 0.25 × (1 + 1.4142 + 2.4495) = 1.2159. The curve is concave, so this is an 
 </figure>
 
 <figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-maths-9709-pure-mathematics-2-numerical-solution-of-equations--07-rectangle-bounds.webp" width="900" height="1070" alt="Left-hand rectangles under the increasing curve ln x sum to 1.0075 and right-hand rectangles over it sum to 1.5568, so 1.0075 &lt; I &lt; 1.5568; the trapezium value 1.2821 is their mean." loading="lazy">
+  <figcaption>For an increasing function left-hand rectangles give a lower bound and right-hand rectangles an upper bound.</figcaption>
+</figure>
+
+<figure class="topic-figure">
   <img src="https://img.marlbridge.com/a-level-maths-9709-pure-mathematics-2-numerical-solution-of-equations--08-mid-ordinate-rule.webp" width="900" height="890" alt="y = 1/x on 1 to 3 with 2 strips: midpoint heights 0.667 and 0.4 give 1.0667, below ln 3 = 1.0986, because tangents at the midpoints lie below the convex curve." loading="lazy">
   <figcaption>Each mid-ordinate rectangle equals the trapezium under the tangent at the midpoint, so a convex curve is under-estimated.</figcaption>
 </figure>
@@ -217,12 +222,6 @@ T = 0.25 × (1 + 1.4142 + 2.4495) = 1.2159. The curve is concave, so this is an 
 10. f′(x) = 3x² − 3, so f′(1) = 0. The tangent is horizontal and the formula divides by zero.
 11. f(1.515) = −0.0077 < 0, f(1.525) = 0.0716 > 0. Change of sign, so 1.515 < α < 1.525 and
     α = 1.52 to 2 d.p.
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-level-maths-9709-pure-mathematics-2-numerical-solution-of-equations--07-rectangle-bounds.webp" width="900" height="1070" alt="Left-hand rectangles under the increasing curve ln x sum to 1.0075 and right-hand rectangles over it sum to 1.5568, so 1.0075 &lt; I &lt; 1.5568; the trapezium value 1.2821 is their mean." loading="lazy">
-  <figcaption>For an increasing function left-hand rectangles give a lower bound and right-hand rectangles an upper bound.</figcaption>
-</figure>
-
 
 ## Where marks are usually lost
 

@@ -218,6 +218,11 @@ A full answer names the process **and** the change in carbon dioxide concentrati
   <figcaption>Testing a leaf for starch.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-plant-nutrition--08-leaf-cross-section.webp" width="900" height="790" alt="Leaf section from top down: cuticle, upper epidermis, palisade mesophyll with many chloroplasts, spongy mesophyll with air spaces, vascular bundle with xylem (water in) and phloem (sugar out), lower epidermis with stomata and guard cells. CO2 enters and O2 leaves through stomata." loading="lazy">
+  <figcaption>Labelled leaf section showing where light, CO2 and water are used.</figcaption>
+</figure>
+
 
 ## Mineral nutrition (6.3.1–6.3.2)
 
@@ -225,6 +230,12 @@ A full answer names the process **and** the change in carbon dioxide concentrati
 |---|---|---|
 | Nitrate | Making amino acids, then proteins | Glucose has no nitrogen; proteins are needed for growth |
 | Magnesium | Making chlorophyll | Less chlorophyll means less light absorbed, less photosynthesis |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-plant-nutrition--03-mineral-ions.webp" width="900" height="1050" alt="Nitrate ions are needed for amino acids and so proteins; without nitrate, growth is poor. Magnesium ions are needed for chlorophyll; without magnesium, leaves turn yellow. Ions come from the soil via root hairs." loading="lazy">
+  <figcaption>Nitrate makes amino acids and proteins; magnesium makes chlorophyll.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 

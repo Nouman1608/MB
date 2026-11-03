@@ -46,6 +46,12 @@ The same three outcomes also open section 3.1 of Pure Mathematics 3. The [Pure M
 
 **Calculator.** A scientific calculator is allowed in every 9709 paper, but no marks are given for unsupported answers from a calculator. Algebra questions are about the working: show every case, every substitution and every division step. The list of formulae (MF19) gives the quadratic formula but none of the results in this unit, so you must recall them.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-edexcel-mathematics-pure-mathematics-1--03-quotient-stationary.webp" width="900" height="1060" alt="Two aligned graphs. Top: y = ln x divided by x, which crosses the axis at x = 1, rises to a maximum at (e, 1 over e), about (2.72, 0.37), then falls slowly. Bottom: its gradient dy by dx = (1 minus ln x) over x squared, which is positive before x = e, zero at x = e and negative after. The quotient rule gives (x times 1 over x minus ln x times 1) over x squared." loading="lazy">
+  <figcaption>The quotient rule gives dy/dx = (1 − ln x)/x², which is zero at the maximum x = e.</figcaption>
+</figure>
+
+
 ## The modulus function
 
 The modulus |x| is the size of x, ignoring its sign:

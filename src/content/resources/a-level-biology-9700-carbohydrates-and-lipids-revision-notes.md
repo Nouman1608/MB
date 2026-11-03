@@ -208,12 +208,6 @@ Triglycerides are large but **not polymers** (no repeating monomer chain).
 | Triglyceride vs phospholipid | 3 fatty acids, wholly hydrophobic vs 2 fatty acids + phosphate, hydrophilic head |
 | Saturated vs unsaturated | No C=C vs at least one C=C |
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-level-biology-9700-carbohydrates-and-lipids--06-polysaccharides.webp" width="900" height="1268" alt="Glucose units drawn as beads. Amylose is one unbranched alpha-1,4 chain coiled into a helix with one free end. Amylopectin has alpha-1,4 chains with alpha-1,6 branch points and 4 free ends in the drawing; glycogen is more branched with 13 free ends, so enzymes can release glucose faster. Cellulose is straight beta-1,4 chains with every second glucose flipped, joined to neighbouring chains by hydrogen bonds." loading="lazy">
-  <figcaption>Branching gives many ends for fast release; straight cellulose chains bond sideways for strength.</figcaption>
-</figure>
-
-
 ## Quick self-test
 
 1. How many carbon atoms are in the ring of a glucose molecule?
@@ -243,6 +237,17 @@ Triglycerides are large but **not polymers** (no repeating monomer chain).
 10. **Two.** Saturated C₁₈ would be C₁₈H₃₆O₂; each C=C removes 2 H, and 36 − 32 = 4 H, so 2 double bonds.
 11. **Two.**
 12. It is **non-polar** overall: its long hydrocarbon tails cannot form hydrogen bonds with water, so it does not mix with or dissolve in water.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-carbohydrates-and-lipids--01-water-hydrogen-bonds.webp" width="900" height="860" alt="A central bent water molecule (H-O-H about 104.5 degrees) has a slightly negative oxygen and two slightly positive hydrogens. Dotted hydrogen bonds join each hydrogen to the oxygen of a neighbour below, and join a hydrogen of each of two neighbours above to the central oxygen, giving four hydrogen bonds. Solid lines are strong covalent bonds and dotted lines are weak hydrogen bonds." loading="lazy">
+  <figcaption>A polar water molecule can form up to four hydrogen bonds with its neighbours.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-carbohydrates-and-lipids--06-polysaccharides.webp" width="900" height="1268" alt="Glucose units drawn as beads. Amylose is one unbranched alpha-1,4 chain coiled into a helix with one free end. Amylopectin has alpha-1,4 chains with alpha-1,6 branch points and 4 free ends in the drawing; glycogen is more branched with 13 free ends, so enzymes can release glucose faster. Cellulose is straight beta-1,4 chains with every second glucose flipped, joined to neighbouring chains by hydrogen bonds." loading="lazy">
+  <figcaption>Branching gives many ends for fast release; straight cellulose chains bond sideways for strength.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

@@ -193,6 +193,16 @@ A farm cooperative sees the price of its crop rise from 50 to 55 (+10.0%) and qu
   <figcaption>Two PES calculations from the lesson: 0.5 (inelastic) and +1.5 (elastic).</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-economics-price-system-and-the-microeconomy--03-price-elasticity-of-supply.webp" width="900" height="1000" alt="Two supply curves pass through the same point at price 5 and quantity 50. A 20 percent price rise to 6 lifts short-run quantity by 10 percent to 55 (PES 0.5, inelastic) but long-run quantity by 40 percent to 70 (PES 2, elastic). More time and spare capacity make supply more elastic." loading="lazy">
+  <figcaption>The same price rise brings a bigger supply response when firms have more time and spare capacity.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-allocation-of-resources--06-price-elasticity-of-demand.webp" width="900" height="1060" alt="Three demand curves through the same point: steep (inelastic, PED below 1), curved (unit, PED = 1), flat (elastic, PED above 1). PED = % change in quantity divided by % change in price. Example: price falls 10% (5 to 4.5), quantity rises 20% (50 to 60), PED = 2, elastic; revenue rises 250 to 270." loading="lazy">
+  <figcaption>PED measures how strongly quantity demanded responds to a price change, and decides whether revenue rises or falls.</figcaption>
+</figure>
+
 
 ## A2: marginal revenue and PED
 

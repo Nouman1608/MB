@@ -125,6 +125,11 @@ The supply curve slopes upwards. A price rise from 10 to 12 moves along the curv
   <figcaption>A shift of the whole supply curve is caused by costs of production, technology or the number of sellers.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-allocation-of-resources--08-tax-and-subsidy.webp" width="900" height="1370" alt="An indirect tax of 1.8 shifts supply up, raising price from 5 to 6 and cutting quantity from 50 to 40. A subsidy of 1.8 shifts supply down, cutting price from 5 to 4 and raising quantity from 50 to 60." loading="lazy">
+  <figcaption>A tax shifts supply up and a subsidy shifts it down.</figcaption>
+</figure>
+
 
 ## Market equilibrium
 

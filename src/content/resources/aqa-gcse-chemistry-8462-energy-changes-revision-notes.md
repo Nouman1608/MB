@@ -121,6 +121,11 @@ Activation energy = 250 − 80 = **170 kJ**. Overall change = 150 − 80 = **+70
   <figcaption>In an exothermic reaction the products end lower than the reactants, so delta H is negative.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/exothermic-and-endothermic-reactions--03-endothermic-profile.webp" width="900" height="950" alt="Energy against progress of reaction. Products sit higher than reactants, so delta H is positive and energy is absorbed. Ea is the climb from reactants to the top of the hump." loading="lazy">
+  <figcaption>In an endothermic reaction the products end higher than the reactants, so delta H is positive.</figcaption>
+</figure>
+
 
 ## 4.5.1.3 Bond energies (Higher tier only)
 
@@ -207,6 +212,12 @@ positive electrode:  O₂ + 4H⁺ + 4e⁻ → 2H₂O     (reduction)
 ```
 
 Alkaline electrolyte: 2H₂ + 4OH⁻ → 4H₂O + 4e⁻ and O₂ + 2H₂O + 4e⁻ → 4OH⁻.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/electrolysis-and-fuel-cells--07-fuel-cell.webp" width="900" height="1040" alt="Hydrogen enters on one side and oxygen on the other, either side of an electrolyte between two electrodes. Electrons pass through a motor in an external circuit, and water is the only chemical product." loading="lazy">
+  <figcaption>A fuel cell turns hydrogen and oxygen into electricity, with water the only chemical product.</figcaption>
+</figure>
+
 
 ## Reading cell data -- method in steps
 

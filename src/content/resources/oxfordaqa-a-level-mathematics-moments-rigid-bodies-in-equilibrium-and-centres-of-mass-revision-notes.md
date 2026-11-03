@@ -39,12 +39,6 @@ Course pages: [OxfordAQA A-level Mathematics hub](/boards/oxfordaqa/a-level/math
 
 The specification lists the centre of mass formulae among the results you must learn. Integration methods are not required.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-moments--01-moment-of-a-force.webp" width="900" height="860" alt="A 24 N force acts at A on a 2.5 m rod OA at 40 degrees to the rod. The perpendicular distance from O to the line of action is 2.5 sin 40 = 1.61 m, and F sin theta turns the rod while F cos theta passes through O. Moment = 24 x 2.5 x sin 40 = 38.6 N m anticlockwise." loading="lazy">
-  <figcaption>Only the part of the force at right angles to the rod turns it: moment = F d sin theta.</figcaption>
-</figure>
-
-
 ## Moments: method in steps
 
 1. Draw a large diagram. Mark every force, including weights, with its point of action.
@@ -192,6 +186,17 @@ A ladder question that says "on the point of slipping" is the same idea with fri
 8. The centre of the rod is 0.5 m from the pivot on the B side. About the pivot: m × 1 = 6 × 0.5, so m = 3 kg.
 9. Vertically below P.
 10. About A: T sin 30° × 2 = 50 × 2, so T = 100 N.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-moments--01-moment-of-a-force.webp" width="900" height="860" alt="A 24 N force acts at A on a 2.5 m rod OA at 40 degrees to the rod. The perpendicular distance from O to the line of action is 2.5 sin 40 = 1.61 m, and F sin theta turns the rod while F cos theta passes through O. Moment = 24 x 2.5 x sin 40 = 38.6 N m anticlockwise." loading="lazy">
+  <figcaption>Only the part of the force at right angles to the rod turns it: moment = F d sin theta.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-moments--05-hinged-rod.webp" width="900" height="1000" alt="A 1.8 m, 4 kg rod is hinged at A and held horizontal by a string at 40 degrees to the rod, with a 2 kg particle 1.5 m from A. Moments about A give T = 55.9 N; resolving gives H = 42.8 N and V = 22.9 N, a hinge force of 48.5 N at 28.1 degrees above the horizontal." loading="lazy">
+  <figcaption>Taking moments about the hinge removes both hinge components, leaving the tension to find first.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

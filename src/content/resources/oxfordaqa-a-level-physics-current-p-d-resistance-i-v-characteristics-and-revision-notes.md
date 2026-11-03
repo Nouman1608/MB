@@ -198,6 +198,11 @@ Only ntc thermistors are on the specification. A thermistor with a fixed resisto
   <figcaption>How length and diameter change resistance, and how a graph gives resistivity.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-physics-electricity--06-two-source-kirchhoff.webp" width="900" height="1100" alt="Two branches (12 V with 3.0 ohm, 8.0 V with 2.0 ohm) share a 2.0 ohm resistor. The junction law and two loop equations give I1 = 2.0 A, I2 = 1.0 A and 3.0 A through the shared resistor, with 6.0 V across it. Power from sources (32 W) equals power in the resistors (12 + 2 + 18 W)." loading="lazy">
+  <figcaption>Solving a two-source circuit with Kirchhoff laws and checking energy.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

@@ -122,12 +122,6 @@ perpendicular height: h^2 = 5^2 - 3^2 = 25 - 9 = 16 -> h = 4 cm
 volume = (1/3) x pi x 3^2 x 4 = 37.7 cm^3 (3 s.f.)
 ```
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-mathematics-mensuration--06-frustum.webp" width="900" height="810" alt="A cone with radius 6 cm and height 12 cm has a similar small cone (radius 2, height 4) cut off its top. The frustum volume is 144 pi minus 16 pi over 3 = 435.6 cm3." loading="lazy">
-  <figcaption>A frustum is a big cone with a similar small cone removed.</figcaption>
-</figure>
-
-
 ## Compound shapes and parts of shapes
 
 A compound shape's area or volume is found by **adding or subtracting** the areas or volumes of the simpler shapes it is built from -- decide which operation applies by checking whether a piece has been joined on or removed.
@@ -140,17 +134,6 @@ remaining area  = 60 - 14.14 = 45.9 cm^2 (3 s.f.)
 ```
 
 The same add-or-subtract principle applies to compound **solids** as to compound areas -- a solid made of a cylinder with a cone removed from one end uses the same subtraction logic as the 2D rectangle-minus-semicircle example above, just with volume formulas in place of area formulas.
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-mathematics-mensuration--04-compound-shape.webp" width="900" height="830" alt="A 6 by 8 cm rectangle has a semicircle of diameter 6 cm on top. Area is 48 + 14.14 = 62.14 cm2. The perimeter is 8 + 8 + 6 + 3 pi = 31.42 cm; the dashed join line is not an edge." loading="lazy">
-  <figcaption>Split a compound shape into simple shapes for the area, and count only the outside edge for the perimeter.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-mathematics-mensuration--05-compound-solid.webp" width="900" height="800" alt="A cylinder of radius 3 cm and height 8 cm has a hemisphere of radius 3 cm on top. Cylinder 72 pi = 226.2 cm3; hemisphere is half a sphere, 18 pi = 56.5 cm3. Total 90 pi = 282.7 cm3." loading="lazy">
-  <figcaption>Add the volumes of the simple solids; a hemisphere is half the sphere formula.</figcaption>
-</figure>
-
 
 ## Exam traps
 
@@ -171,3 +154,19 @@ The same add-or-subtract principle applies to compound **solids** as to compound
 6. Write down the area formula for a trapezium with parallel sides a and b and height h.
 
 **Answers:** 1. 10 000 (100^2), since 1 m = 100 cm. 2. Sector area = (angle / 360) x pi x r^2. 3. The perpendicular height. 4. 360 - 80 = 280 degrees. 5. Subtraction -- subtract the removed piece's area from the whole shape's area. 6. Area = (1/2)(a + b) x h.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-mensuration--04-compound-shape.webp" width="900" height="830" alt="A 6 by 8 cm rectangle has a semicircle of diameter 6 cm on top. Area is 48 + 14.14 = 62.14 cm2. The perimeter is 8 + 8 + 6 + 3 pi = 31.42 cm; the dashed join line is not an edge." loading="lazy">
+  <figcaption>Split a compound shape into simple shapes for the area, and count only the outside edge for the perimeter.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-mensuration--05-compound-solid.webp" width="900" height="800" alt="A cylinder of radius 3 cm and height 8 cm has a hemisphere of radius 3 cm on top. Cylinder 72 pi = 226.2 cm3; hemisphere is half a sphere, 18 pi = 56.5 cm3. Total 90 pi = 282.7 cm3." loading="lazy">
+  <figcaption>Add the volumes of the simple solids; a hemisphere is half the sphere formula.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-mensuration--06-frustum.webp" width="900" height="810" alt="A cone with radius 6 cm and height 12 cm has a similar small cone (radius 2, height 4) cut off its top. The frustum volume is 144 pi minus 16 pi over 3 = 435.6 cm3." loading="lazy">
+  <figcaption>A frustum is a big cone with a similar small cone removed.</figcaption>
+</figure>
+

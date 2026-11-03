@@ -59,11 +59,6 @@ No derivations of the means or variances are required.
   <figcaption>Poisson counts events in an interval with no upper limit; binomial counts successes in a fixed number of trials.</figcaption>
 </figure>
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/edexcel-ial-mathematics-the-binomial-and-poisson-distributions-and-the-poisson--05-poisson-variance-equals-mean.webp" width="900" height="940" alt="A number line of variance divided by mean. B(50, 0.3) gives 0.70, data with mean 2.3 and variance 2.2 give 0.96, Po(λ) gives exactly 1, and data with mean 2.6 and variance 5.9 give 2.27. Values near 1 suit Poisson, values above 1 suggest clustering." loading="lazy">
-  <figcaption>A Poisson count has variance equal to its mean; a ratio well above 1 signals clustered events or a varying rate.</figcaption>
-</figure>
-
 
 ## Method: cumulative probabilities
 
@@ -105,6 +100,11 @@ If the interval is five times as long, the mean is five times as large: Po(λ) b
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/edexcel-ial-mathematics-the-binomial-and-poisson-distributions-and-the-poisson--03-poisson-scaling-interval.webp" width="900" height="1080" alt="Six 10-minute blocks each with mean 1.5 show 20 minutes has λ = 3 and one hour has λ = 9. Po(3) with r ≤ 3 shaded gives 0.647 and Po(9) with r ≥ 10 shaded gives 0.413." loading="lazy">
   <figcaption>Rescale the mean to the interval you observe before calculating any probability.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-mathematics-the-binomial-and-poisson-distributions-and-the-poisson--05-poisson-variance-equals-mean.webp" width="900" height="940" alt="A number line of variance divided by mean. B(50, 0.3) gives 0.70, data with mean 2.3 and variance 2.2 give 0.96, Po(λ) gives exactly 1, and data with mean 2.6 and variance 5.9 give 2.27. Values near 1 suit Poisson, values above 1 suggest clustering." loading="lazy">
+  <figcaption>A Poisson count has variance equal to its mean; a ratio well above 1 signals clustered events or a varying rate.</figcaption>
 </figure>
 
 <figure class="topic-figure">

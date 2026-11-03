@@ -139,12 +139,6 @@ rewards this reflection over a correct number alone. Keep theoretical
 and experimental probability distinct, and check which one a question
 is actually asking for before calculating.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ib-myp-mathematics-reasoning-with-data--06-theoretical-vs-experimental.webp" width="900" height="1150" alt="Rolling a 6: theoretical probability counts one favourable face of six (0.167); an illustrative 60-roll experiment with 12 sixes gives 12/60 = 0.20." loading="lazy">
-  <figcaption>The same event has a theoretical and an experimental probability, calculated differently.</figcaption>
-</figure>
-
-
 ## Exam and assessment traps
 
 Calculating a mean, median or probability correctly (Criterion A) but
@@ -159,8 +153,8 @@ calculated from repeated trials, when a question specifically asks for
 one or the other -- the two are calculated in genuinely different ways and are not interchangeable answers to the same question.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-mathematics-0580-probability-and-expected-frequency--04-relative-frequency.webp" width="900" height="740" alt="A graph of relative frequency of a 4 against spins: 0.5 at 10, 0.38 at 50, 0.37 at 100 and 0.355 at 200. It falls then levels off, so more trials give a more reliable estimate." loading="lazy">
-  <figcaption>With more trials the relative frequency settles, so use the estimate from the most trials.</figcaption>
+  <img src="https://img.marlbridge.com/ib-myp-mathematics-reasoning-with-data--06-theoretical-vs-experimental.webp" width="900" height="1150" alt="Rolling a 6: theoretical probability counts one favourable face of six (0.167); an illustrative 60-roll experiment with 12 sixes gives 12/60 = 0.20." loading="lazy">
+  <figcaption>The same event has a theoretical and an experimental probability, calculated differently.</figcaption>
 </figure>
 
 

@@ -102,6 +102,11 @@ n(n+1) is a multiple of 2. Hence 4n(n+1) is a multiple of 8.
 </figure>
 
 <figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-mathematical-language-set-notation-functions-and--07-root2-contradiction.webp" width="900" height="830" alt="Assume √2 = p/q in lowest terms. Squaring gives p² = 2q², so p is even, and p = 2r then gives q even. Both are even so they share the factor 2, shown as a Venn overlap, which clashes with lowest terms. So √2 is irrational." loading="lazy">
+  <figcaption>The assumption of lowest terms is what the contradiction clashes with.</figcaption>
+</figure>
+
+<figure class="topic-figure">
   <img src="https://img.marlbridge.com/aqa-a-level-mathematics-mathematical-language-set-notation-functions-and--01-proof-anatomy.webp" width="900" height="680" alt="A 7 by 7 grid with a 5 by 5 square in one corner shows 7² − 5² = 24 left over. Beside it are the three parts of a proof: assume 2n+1 and 2n+3, show (2n+3)² − (2n+1)² = 8(n+1), conclude a multiple of 8 for every n. For n = 2 this is 49 − 25 = 24 = 8 × 3." loading="lazy">
   <figcaption>A proof starts from stated assumptions, makes valid steps and ends with a conclusion that holds for every n.</figcaption>
 </figure>
@@ -178,7 +183,7 @@ Know what the calculator can and cannot do. It can solve equations, integrate nu
 **Answers:** 1. A general statement claims something for all cases, so one failing case refutes it; but confirming any finite number of cases leaves the remaining ones untested. 2. Assume the opposite of the statement, derive a logical contradiction, and conclude that the original statement must be true. 3. ⟹ means implies in one direction only: x = 2 ⟹ x² = 4, but x² = 4 does not imply x = 2, so ⟺ would be false there. 4. The direction of the resulting error — for example, ignoring air resistance overestimates the range. 5. Method marks are awarded for a correct approach independently of the final answer, so working can earn most of the marks even after an arithmetic slip.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-mathematical-language-set-notation-functions-and--07-root2-contradiction.webp" width="900" height="830" alt="Assume √2 = p/q in lowest terms. Squaring gives p² = 2q², so p is even, and p = 2r then gives q even. Both are even so they share the factor 2, shown as a Venn overlap, which clashes with lowest terms. So √2 is irrational." loading="lazy">
-  <figcaption>The assumption of lowest terms is what the contradiction clashes with.</figcaption>
+  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-mathematical-language-set-notation-functions-and--04-squaring-implication.webp" width="900" height="955" alt="The line y = x meets the upper curve y = √(x+2) at (2, 2), a true solution. Squaring brings in the lower branch y = −√(x+2), which the line meets at (−1, −1), an extra root. Check every answer in the original equation, because squaring gives ⇒ only." loading="lazy">
+  <figcaption>Squaring is an implication one way only, so it can add false roots.</figcaption>
 </figure>
 

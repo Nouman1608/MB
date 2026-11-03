@@ -42,8 +42,8 @@ These are condensed notes for **D.3, Motion in electromagnetic fields**, from th
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ib-dp-physics-charged-particles-and-conductors-in-electric-and--06-charge-to-mass-ratio.webp" width="900" height="940" alt="A beam is speed-selected (v = E/B = 1.5e5 m/s), then bent into a 6.3 mm radius semicircle by 0.25 T. q/m = v/(Br) = 9.5e7 C/kg, close to the proton value 9.58e7." loading="lazy">
-  <figcaption>Selecting the speed and measuring the radius gives q/m = v/(Br).</figcaption>
+  <img src="https://img.marlbridge.com/ib-dp-physics-charged-particles-and-conductors-in-electric-and--07-force-on-a-wire-angle.webp" width="900" height="1010" alt="A 0.35 m wire carrying 4.5 A in 0.12 T feels 0.189 N at 90 degrees, 0.0945 N at 30 degrees and no force when parallel to the field. The force is always into the page, perpendicular to wire and field." loading="lazy">
+  <figcaption>F = BIL sin theta: the force depends on the angle between wire and field.</figcaption>
 </figure>
 
 
@@ -54,12 +54,6 @@ These are condensed notes for **D.3, Motion in electromagnetic fields**, from th
 - The magnetic force is at its largest when velocity and field are at 90°.
 - **Same-direction currents attract. Opposite-direction currents repel.** The two forces form a Newton's third law pair, so they are equal and opposite.
 - Charge and mass cancel in qE = qvB, so a velocity selector passes any particle of speed E/B.
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ib-dp-physics-charged-particles-and-conductors-in-electric-and--03-circular-path-in-b-field.webp" width="900" height="980" alt="A proton moves anticlockwise in a field into the page. At four points the velocity is tangent to the circle and the force points to the centre, so no work is done and speed is constant. Worked values: F = 1.44e-14 N, r = 10.4 mm, T = 2.19e-7 s." loading="lazy">
-  <figcaption>The magnetic force supplies the centripetal force, giving a circle of radius mv/(qB).</figcaption>
-</figure>
-
 
 ## Direction rules
 
@@ -111,6 +105,12 @@ A worked reminder for rule 1: a proton moves to the right in a field into the pa
 3. Decide attraction or repulsion from the current directions.
 4. For three or more wires, find each force separately, then combine them as vectors along the line.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-charged-particles-and-conductors-in-electric-and--06-charge-to-mass-ratio.webp" width="900" height="940" alt="A beam is speed-selected (v = E/B = 1.5e5 m/s), then bent into a 6.3 mm radius semicircle by 0.25 T. q/m = v/(Br) = 9.5e7 C/kg, close to the proton value 9.58e7." loading="lazy">
+  <figcaption>Selecting the speed and measuring the radius gives q/m = v/(Br).</figcaption>
+</figure>
+
+
 ## Small worked reminders
 
 **Electron in a magnetic field.** v = 5.0 × 10^6 m s^-1 at right angles to B = 0.20 T. F = qvB = 1.60 × 10^-19 × 5.0 × 10^6 × 0.20 = 1.6 × 10^-13 N. Radius r = mv/(qB) = 9.11 × 10^-31 × 5.0 × 10^6 / (1.60 × 10^-19 × 0.20) = 1.4 × 10^-4 m.
@@ -132,12 +132,6 @@ A worked reminder for rule 1: a proton moves to the right in a field into the pa
 ## Worked check: crossed fields then a circle
 
 Particles go straight through crossed fields with E = 4.0 × 10^3 V m^-1 and B = 0.020 T. So v = E/B = 2.0 × 10^5 m s^-1. They then enter a second field of 0.50 T at right angles and move on a circle of radius 2.1 mm. Then q/m = v/(Br) = 2.0 × 10^5 / (0.50 × 2.1 × 10^-3) = 1.9 × 10^8 C kg^-1.
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ib-dp-physics-charged-particles-and-conductors-in-electric-and--05-velocity-selector.webp" width="900" height="850" alt="A positive particle moves between plates with E down and B into the page. Electric force is down and magnetic force up. Only v = E/B goes straight through the slit; a faster particle bends up, a slower one bends down." loading="lazy">
-  <figcaption>Only particles with v = E/B pass straight through crossed fields.</figcaption>
-</figure>
-
 
 ## Quick self-test
 
@@ -168,8 +162,18 @@ Constants: e = 1.60 × 10^-19 C, proton mass 1.67 × 10^-27 kg, μ0 = 4π × 10^
 10. q/m = v/(Br) = 4.0 × 10^5 / (0.30 × 0.020) = **6.7 × 10^7 C kg^-1**.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ib-dp-physics-charged-particles-and-conductors-in-electric-and--07-force-on-a-wire-angle.webp" width="900" height="1010" alt="A 0.35 m wire carrying 4.5 A in 0.12 T feels 0.189 N at 90 degrees, 0.0945 N at 30 degrees and no force when parallel to the field. The force is always into the page, perpendicular to wire and field." loading="lazy">
-  <figcaption>F = BIL sin theta: the force depends on the angle between wire and field.</figcaption>
+  <img src="https://img.marlbridge.com/ib-dp-physics-charged-particles-and-conductors-in-electric-and--03-circular-path-in-b-field.webp" width="900" height="980" alt="A proton moves anticlockwise in a field into the page. At four points the velocity is tangent to the circle and the force points to the centre, so no work is done and speed is constant. Worked values: F = 1.44e-14 N, r = 10.4 mm, T = 2.19e-7 s." loading="lazy">
+  <figcaption>The magnetic force supplies the centripetal force, giving a circle of radius mv/(qB).</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-charged-particles-and-conductors-in-electric-and--04-what-sets-the-radius.webp" width="900" height="1060" alt="Three comparisons start at the same point. Doubling speed or mass doubles the radius; doubling the field halves it. The period 2 pi m/(qB) does not depend on speed." loading="lazy">
+  <figcaption>Radius grows with speed and mass and shrinks with field strength; the period does not depend on speed.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-charged-particles-and-conductors-in-electric-and--05-velocity-selector.webp" width="900" height="850" alt="A positive particle moves between plates with E down and B into the page. Electric force is down and magnetic force up. Only v = E/B goes straight through the slit; a faster particle bends up, a slower one bends down." loading="lazy">
+  <figcaption>Only particles with v = E/B pass straight through crossed fields.</figcaption>
 </figure>
 
 

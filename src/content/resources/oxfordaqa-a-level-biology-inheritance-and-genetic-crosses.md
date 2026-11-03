@@ -63,11 +63,6 @@ Use one letter per gene, capital for dominant. For codominance or multiple allel
   <figcaption>Gametes, a Punnett square and the ratio, then a test cross to reveal an unknown genotype.</figcaption>
 </figure>
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-level-biology-9700-inheritance--09-continuous-variation.webp" width="900" height="1220" alt="Histograms count the additive alleles in offspring of heterozygous parents: one gene gives 1:2:1, two genes 1:4:6:4:1, three genes 1:6:15:20:15:6:1 and five genes eleven classes. With more genes the bars approach a bell-shaped curve; n genes give 2n + 1 classes." loading="lazy">
-  <figcaption>More genes, plus environment, turn separate steps into a smooth bell-shaped curve.</figcaption>
-</figure>
-
 
 ## Monohybrid crosses
 
@@ -105,6 +100,11 @@ Ratio 2 group A : 1 group AB : 1 group B. Group O is impossible, because the fat
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/a-level-biology-9700-inheritance--03-codominance-multiple-alleles.webp" width="900" height="980" alt="Crossing two patched plants CRCW gives red, patched and white in a 1 : 2 : 1 ratio, where the genotype ratio equals the phenotype ratio. The ABO cross IAi by IBi gives one each of groups AB, A, B and O; three alleles exist in a population but each person carries two." loading="lazy">
   <figcaption>A 1 : 2 : 1 ratio signals codominance; ABO has three alleles, two codominant and one recessive.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-inheritance--09-continuous-variation.webp" width="900" height="1220" alt="Histograms count the additive alleles in offspring of heterozygous parents: one gene gives 1:2:1, two genes 1:4:6:4:1, three genes 1:6:15:20:15:6:1 and five genes eleven classes. With more genes the bars approach a bell-shaped curve; n genes give 2n + 1 classes." loading="lazy">
+  <figcaption>More genes, plus environment, turn separate steps into a smooth bell-shaped curve.</figcaption>
 </figure>
 
 

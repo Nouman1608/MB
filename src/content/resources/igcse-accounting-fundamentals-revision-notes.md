@@ -192,12 +192,6 @@ Treating capital expenditure as revenue **understates profit and understates non
 
 **Book-keeping versus accounting:** book-keeping is the routine, day-to-day recording of transactions; accounting is the broader, analytical activity of using those records to interpret performance, monitor progress and inform decisions. Accounting is not simply the mechanical act of writing entries down — this exact distinction is specifically tested.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/edexcel-igcse-accounting-types-of-business-organisation-and-accounting-concepts--04-g15-prudence-paper.webp" width="900" height="820" alt="150 reams at cost 14 are worth 2,100, but at net realisable value 11 they are worth 1,650. Prudence uses the lower value, so inventory and profit fall by 450 now." loading="lazy">
-  <figcaption>Prudence records the likely 450 loss now, not when the paper is sold.</figcaption>
-</figure>
-
-
 ## Exam traps
 
 - Recording cash sales in the sales journal.
@@ -216,3 +210,24 @@ Treating capital expenditure as revenue **understates profit and understates non
 5. What is the effect of treating capital expenditure as revenue expenditure?
 
 **Answers:** 1. Assets = Capital + Liabilities; from the business's perspective capital is owed back to the owner, so it is treated as a liability of the business. 2. Debit Expenses, Assets, Drawings; Credit Liabilities, Income, Capital. 3. Credit purchases of goods for resale only — not cash purchases and not purchases of non-current assets. 4. Omission, commission, principle, original entry, complete reversal, compensating — any three. 5. Profit is understated and non-current assets are understated.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-accounting-types-of-business-organisation-and-accounting-concepts--04-g15-prudence-paper.webp" width="900" height="820" alt="150 reams at cost 14 are worth 2,100, but at net realisable value 11 they are worth 1,650. Prudence uses the lower value, so inventory and profit fall by 450 now." loading="lazy">
+  <figcaption>Prudence records the likely 450 loss now, not when the paper is sold.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-accounting-types-of-business-organisation-and-accounting-concepts--05-g15-accruals-insurance.webp" width="900" height="700" alt="Twelve monthly boxes of 200 show insurance of 2,400 paid on 1 October. Only October to December, 600, is this year's expense; the other nine months, 1,800, are a prepayment." loading="lazy">
+  <figcaption>Only 600 of the 2,400 insurance is this year's expense.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-accounting-the-role-and-purpose-of-accounting-and-accounting-conce--08-going-concern-oven.webp" width="900" height="810" alt="An oven with a carrying value of 9,000 dollars stays at 9,000 if trading continues. If the owner will close next month and the oven would sell for 3,500, the 5,500 fall means going concern is no longer suitable." loading="lazy">
+  <figcaption>The going concern assumption keeps assets at carrying value; closure changes that.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-accounting-accounting-concepts-ethics-technology-and-sustainabilit--01-concepts-consistency.webp" width="900" height="940" alt="Three bars show profit of 15,200 in year 1 (straight line, charge 4,800), 16,160 in year 2 (reducing balance, charge 3,840) and 15,200 in year 3 (straight line). Trading is unchanged, so the 960 rise and fall comes only from switching depreciation method." loading="lazy">
+  <figcaption>Switching depreciation method moves profit by 960 with no change in trading.</figcaption>
+</figure>
+

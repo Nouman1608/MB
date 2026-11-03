@@ -244,6 +244,16 @@ Those who keep jobs gain (8 - 6) x 800 = 1,600; the 200 who lose jobs lose 6 x 2
   <figcaption>A minimum above the market wage raises pay for some and leaves others unemployed.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-objectives-of-government--07-types-of-tax.webp" width="900" height="1110" alt="Bar charts of tax as a percentage of income for low, middle and high earners: progressive rises (10, 15, 22.5 percent), regressive falls (2, 1.5, 1 percent). Below, a direct tax goes from you to the government; an indirect tax goes via a shop." loading="lazy">
+  <figcaption>Direct/indirect and progressive/regressive are two separate ways to classify taxes.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-objectives-of-government--09-minimum-wage.webp" width="900" height="990" alt="Labour market diagram: equilibrium $10 and 120,000 workers. A $14 minimum wage gives 150,000 supplied and 100,000 demanded, so 50,000 excess supply (unemployment). Those still employed gain; those unemployed lose." loading="lazy">
+  <figcaption>A minimum wage above equilibrium raises pay for some and creates unemployment for others.</figcaption>
+</figure>
+
 
 ## Common errors
 

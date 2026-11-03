@@ -89,27 +89,6 @@ Cost-effectiveness check: 48 000 divided by 320 bikes is 150 dollars of marketin
 
 Justification: the strategy puts most money into the elements that matter most to this buyer, which are a product that suits commuting and a chance to test it. The risk is that the rivals cut their prices, which would force Willowmere to reduce its own mark-up. A sensible judgement is that the strategy is appropriate if sales reach about 320, but the owner should watch rivals' prices and sales after the first months.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/o-level-business-marketing-strategy--07-marketing-budget-split.webp" width="900" height="910" alt="Social media and online adverts take 40% (19,200 dollars), local radio 15% (7,200), test-ride days 20% (9,600) and shop displays 25% (12,000). Over 320 bikes that is 150 dollars per bike." loading="lazy">
-  <figcaption>The budget is split in proportion to the elements that matter most to the target buyer.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/o-level-business-marketing-strategy--09-which-element-matters.webp" width="900" height="830" alt="A grid of six circumstances against product, price, place and promotion with a tick for the key element: basic item, price; new product, promotion; impulse buy, place; technical or status purchase, product; online shopping, price and place; decline stage, price and promotion." loading="lazy">
-  <figcaption>No element is always most important; it depends on the circumstances.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/o-level-business-marketing-strategy--10-five-step-strategy.webp" width="900" height="850" alt="Five steps shown with the Willowmere Cycles example: aim and target customers (commuters aged 25 to 45), key element (product and test rides), fit the others within budget ($1,450, budget $48,000), reason from the case (rivals $1,300 to $1,600), weigh a risk and conclude (rivals may cut prices)." loading="lazy">
-  <figcaption>Each step of the method applied to the Willowmere Cycles case.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-business-marketing--07-marketing-mix.webp" width="900" height="1230" alt="The customer sits among four linked boxes: Product, Price, Place, Promotion. Arrows show they interact. A dashed frame shows legal controls limit all four. A premium mix needs a luxury product, high price and glossy advertising. Technology adds e-commerce and social media." loading="lazy">
-  <figcaption>The four Ps work together, within legal limits.</figcaption>
-</figure>
-
-
 ## 3.4.2 Legal controls related to marketing
 
 Governments make laws to protect consumers from unfair treatment. The syllabus names two areas: misleading promotion, and faulty and dangerous goods. Laws differ between countries, so describe them in general terms rather than quoting a particular law.
@@ -147,13 +126,33 @@ Juniper Bay Skincare sells a face cream for 24 dollars a jar. Its adverts say "r
 Strategy changes: the advert is changed to say "visibly smoother-looking skin", which the company can support with evidence. Quality testing becomes part of the product stage, and packaging gains a batch code to help any future recall. A good answer links each change to the legal control: the advert change answers misleading promotion; the extra testing answers faulty and dangerous goods.
 
 <figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-business-marketing-strategy--07-marketing-budget-split.webp" width="900" height="910" alt="Social media and online adverts take 40% (19,200 dollars), local radio 15% (7,200), test-ride days 20% (9,600) and shop displays 25% (12,000). Over 320 bikes that is 150 dollars per bike." loading="lazy">
+  <figcaption>The budget is split in proportion to the elements that matter most to the target buyer.</figcaption>
+</figure>
+
+<figure class="topic-figure">
   <img src="https://img.marlbridge.com/o-level-business-marketing-strategy--09-recall-vs-testing.webp" width="900" height="760" alt="Recalling 3,000 jars costs 72,000 in refunds plus 12,000 to collect them, 84,000 in all. Testing the batch first would have cost 6,500, so the recall costs about 12.9 times as much." loading="lazy">
   <figcaption>Faulty goods cost far more to recall than to test.</figcaption>
 </figure>
 
 <figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-business-marketing-strategy--09-which-element-matters.webp" width="900" height="830" alt="A grid of six circumstances against product, price, place and promotion with a tick for the key element: basic item, price; new product, promotion; impulse buy, place; technical or status purchase, product; online shopping, price and place; decline stage, price and promotion." loading="lazy">
+  <figcaption>No element is always most important; it depends on the circumstances.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-business-marketing-strategy--10-five-step-strategy.webp" width="900" height="850" alt="Five steps shown with the Willowmere Cycles example: aim and target customers (commuters aged 25 to 45), key element (product and test rides), fit the others within budget ($1,450, budget $48,000), reason from the case (rivals $1,300 to $1,600), weigh a risk and conclude (rivals may cut prices)." loading="lazy">
+  <figcaption>Each step of the method applied to the Willowmere Cycles case.</figcaption>
+</figure>
+
+<figure class="topic-figure">
   <img src="https://img.marlbridge.com/o-level-business-marketing-strategy--11-legal-controls-change-plan.webp" width="900" height="840" alt="Misleading promotion: the advert claim removes wrinkles in 7 days is replaced by visibly smoother-looking skin, backed by evidence. Faulty goods: a contaminated batch of 3,000 jars is recalled at 84,000 dollars, so quality testing (6,500 dollars) and a batch code are added." loading="lazy">
   <figcaption>Each legal control leads to a specific change in the marketing plan.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-marketing--07-marketing-mix.webp" width="900" height="1230" alt="The customer sits among four linked boxes: Product, Price, Place, Promotion. Arrows show they interact. A dashed frame shows legal controls limit all four. A premium mix needs a luxury product, high price and glossy advertising. Technology adds e-commerce and social media." loading="lazy">
+  <figcaption>The four Ps work together, within legal limits.</figcaption>
 </figure>
 
 

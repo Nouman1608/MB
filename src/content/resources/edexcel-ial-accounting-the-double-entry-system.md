@@ -121,6 +121,11 @@ Agreement shows debits equal credits. It does not prove every entry is correct, 
   <figcaption>Balancing adds both sides, inserts the balance carried down, and brings it down on the opposite side.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-double-entry-model--09-trial-balance-blind-spots.webp" width="900" height="968" alt="Six small debit and credit examples show omission, commission, principle, original entry, reversal and compensating errors. In each, total debits still equal total credits, so the trial balance agrees even though the books are wrong." loading="lazy">
+  <figcaption>A balanced trial balance does not prove the books are correct.</figcaption>
+</figure>
+
 
 ## 1.1.4 Books of prime entry
 
@@ -143,6 +148,12 @@ Kestrel Ridge Hardware's April invoices are 1,200 to Ellerby Builders, 860 to Ro
 ### Cash book
 
 The cash book does two jobs: it is a first record of cash and bank items and also the cash and bank ledger account. In a three-column cash book, columns for discount allowed (left) and discount received (right) sit beside the cash and bank columns. The individual discounts are posted to the personal accounts straight away. At the end of the period, the left column total is debited to Discount allowed and the right column total credited to Discount received. In transactions 9 and 10 above, the 200 and 100 would appear in those columns.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-double-entry-model--03-trade-cash-discount.webp" width="900" height="980" alt="A 3,200 dollar list price less 15 percent trade discount (480, never recorded) gives an invoice of 2,720. A 2.5 percent cash discount of 68 is recorded on payment, so the cheque is 2,652. Entries: debit supplier 2,720, credit bank 2,652, credit discounts received 68." loading="lazy">
+  <figcaption>Trade discount is netted off before recording; cash discount is recorded when payment is made.</figcaption>
+</figure>
+
 
 ### Petty cash book
 
@@ -194,6 +205,17 @@ Kestrel Ridge Hardware pays rent of 9,600 in the year. At the start of the year 
 | | 10,600 | | 10,600 |
 
 The charge is 9,600 + 1,000 − 800 = 9,800. On insurance, 400 was prepaid at the start. On 1 October 2,880 was paid for twelve months. Three months (720) have been used, so 2,160 is prepaid (an other receivable). The charge is 400 + 2,880 − 2,160 = 1,120. Income works the same way: commission received of 3,300, with 500 accrued at the start and 700 at the end, gives income of 3,300 − 500 + 700 = 3,500.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-double-entry-model--07-paid-not-owed.webp" width="900" height="950" alt="Of 11,200 dollars of rent paid in 2027, 800 clears rent owed from 2026, 9,600 is the 2027 expense and 800 is paid for January 2028 (a prepayment, other receivable). The rent payable account balances at 11,200 and the 800 is brought down as a debit." loading="lazy">
+  <figcaption>Only the part of the cash paid that belongs to the year is charged to the income statement.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-edexcel-accounting-principles-and-double-entry-bookkeeping--09-prepaid-rent.webp" width="900" height="940" alt="Twelve monthly boxes show 12,000 pounds of rent paid on 1 October with a 31 December year end. Three months (3,000) are an expense in the income statement; nine months (9,000) are a prepayment shown as a current asset." loading="lazy">
+  <figcaption>Only the part of rent used in the year is an expense; the rest is a prepayment.</figcaption>
+</figure>
+
 
 ### Other adjustments and transfers
 
@@ -256,6 +278,11 @@ If the next year's schedule produced an allowance of 2,540, the allowance accoun
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/edexcel-ial-accounting-the-double-entry-system--05-allowance-schedule.webp" width="900" height="930" alt="Receivables of 64,100 less a 1,600 write-off leave 62,500, split by age with rates of 1, 4, 10 and 30 percent giving 380, 496, 850 and 1,080, a total allowance of 2,806. The increase of 456 on the existing 2,350 is charged to profit or loss and the statement of financial position shows 59,694." loading="lazy">
   <figcaption>Write off first, then apply age-band rates; only the increase reaches profit or loss.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-double-entry-model--08-allowance-irrecoverable.webp" width="900" height="1114" alt="Receivables of 48,600 less a 1,100 write-off give 47,500. A 3 percent allowance of 1,425 gives 46,075 in the statement of financial position. The allowance rises from 1,280 to 1,425 (145 expense) and falls to 1,260 the next year (165 income)." loading="lazy">
+  <figcaption>Only the change in the allowance is charged or credited to profit.</figcaption>
 </figure>
 
 

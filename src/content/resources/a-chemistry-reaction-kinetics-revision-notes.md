@@ -265,17 +265,6 @@ If Fe³⁺ is added instead, step 2 happens first and then step 1; either ion wo
 between the +2 and +3 oxidation states. Both steps are feasible because E⦵ for Fe³⁺/Fe²⁺ (+0.77 V) lies
 between E⦵ for I₂/I⁻ (+0.54 V) and E⦵ for S₂O₈²⁻/SO₄²⁻ (+2.01 V).
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-chemistry-reaction-kinetics-revision-notes--10-rn-fe-catalysis.webp" width="900" height="980" alt="A ladder of electrode potentials: S2O8 2-/SO4 2- +2.01 V, Fe3+/Fe2+ +0.77 V, I2/I- +0.54 V. Step 1 (S2O8 2- oxidises Fe2+) has E cell +1.24 V and step 2 (Fe3+ oxidises I-) +0.23 V, so both are feasible." loading="lazy">
-  <figcaption>Fe3+/Fe2+ lies between the other two couples, so both catalysed steps are feasible. (A Level)</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-kinetics--04-catalyst.webp" width="900" height="1130" alt="Top: an enthalpy profile with the same reactant and product levels, with a high peak without a catalyst (Ea 180) and a lower peak with one (Ea 105), so delta H is unchanged. Bottom: a single Maxwell-Boltzmann curve with two Ea lines; the shaded strip between them shows extra molecules that can react by the catalysed route." loading="lazy">
-  <figcaption>A catalyst offers a lower-Ea route, so more molecules can react at the same temperature, and delta H does not change.</figcaption>
-</figure>
-
-
 ## Exam traps
 
 - Never take orders from the coefficients of the balanced equation; use the data.
@@ -322,3 +311,19 @@ between E⦵ for I₂/I⁻ (+0.54 V) and E⦵ for S₂O₈²⁻/SO₄²⁻ (+2.0
 *These are original notes written for revision. Rate data and rate constants marked illustrative are not
 data-book values. Check the full syllabus wording in the
 [official 9701 syllabus](https://www.cambridgeinternational.org/Images/664563-2025-2027-syllabus.pdf).*
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-chemistry-reaction-kinetics-revision-notes--10-rn-fe-catalysis.webp" width="900" height="980" alt="A ladder of electrode potentials: S2O8 2-/SO4 2- +2.01 V, Fe3+/Fe2+ +0.77 V, I2/I- +0.54 V. Step 1 (S2O8 2- oxidises Fe2+) has E cell +1.24 V and step 2 (Fe3+ oxidises I-) +0.23 V, so both are feasible." loading="lazy">
+  <figcaption>Fe3+/Fe2+ lies between the other two couples, so both catalysed steps are feasible. (A Level)</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-kinetics--04-catalyst.webp" width="900" height="1130" alt="Top: an enthalpy profile with the same reactant and product levels, with a high peak without a catalyst (Ea 180) and a lower peak with one (Ea 105), so delta H is unchanged. Bottom: a single Maxwell-Boltzmann curve with two Ea lines; the shaded strip between them shows extra molecules that can react by the catalysed route." loading="lazy">
+  <figcaption>A catalyst offers a lower-Ea route, so more molecules can react at the same temperature, and delta H does not change.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-transition-metals--09-catalyst-cycles.webp" width="900" height="1270" alt="Two cycles. Top, heterogeneous: V2O5 (V +5) reacts with SO2 giving SO3 and becomes V2O4 (V +4), then reacts with half an O2 to return to V2O5. Bottom, homogeneous: Fe2+ is oxidised by S2O8 2- to Fe3+, which is reduced back by I- forming iodine." loading="lazy">
+  <figcaption>A transition metal catalyst changes oxidation state to give an easier route and is then regenerated.</figcaption>
+</figure>
+

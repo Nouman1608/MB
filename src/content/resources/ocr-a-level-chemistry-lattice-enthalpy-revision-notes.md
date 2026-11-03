@@ -207,6 +207,12 @@ Questions sometimes give a part-drawn Born–Haber or solution cycle with one ar
 10. Mg²⁺ carries a 2+ charge and is smaller than Na⁺, so water's δ− oxygen atoms are pulled closer and held more strongly, and more energy is released.
 11. A solid can be weighed and dissolved in water in a calorimeter. Gaseous ions cannot be produced and added to water, so ΔhydH comes from a cycle.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-chemical-energetics-lattice-energy-entropy-and-gibbs-free-energy--06-entropy-change-calc.webp" width="900" height="1070" alt="Bar chart: CaCO3(s) 92.9 J per K per mole against products CaO(s) 40.0 stacked with CO2(g) 213.6, total 253.6. The difference, +160.7, is the entropy change; most of it is the gas." loading="lazy">
+  <figcaption>ΔS = ΣS°(products) − ΣS°(reactants) = +160.7 J K-1 mol-1 for CaCO3 → CaO + CO2.</figcaption>
+</figure>
+
+
 ## Where marks are usually lost
 
 - Writing lattice enthalpy as the breaking of a lattice, which gives the wrong sign under the H432 definition.

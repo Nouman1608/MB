@@ -41,6 +41,12 @@ A business strategy is a long-term plan of action that sets the direction of the
 
 Its purposes are to give the business direction, to match its resources to its market, to help managers choose between competing uses of scarce funds, and to give everyone the same target so that departments pull together.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-business-managers-leadership-decision-making--02-mission-to-tactics.webp" width="900" height="1060" alt="Four narrowing cards from mission to objective to strategy to tactic with a fresh-food shop example: affordable fresh food; 10 percent more sales in 2 years; open shops in a new region; launch week two-for-one offer." loading="lazy">
+  <figcaption>Mission states purpose, objectives set targets, strategy is the long-term plan and tactics are short-term actions.</figcaption>
+</figure>
+
+
 ### Strategic management: analysis, choice and implementation
 
 Strategic management is the process of deciding and carrying out strategy. The syllabus gives three stages.
@@ -130,6 +136,12 @@ The Ansoff matrix shows four growth strategies, using existing or new products a
 
 Risk usually rises as the business moves away from what it knows, so diversification is normally the riskiest. Maplecote could sell more of its current range to current customers (market penetration), launch a thermal mug range (product development), export current ranges (market development) or open a cafe chain (diversification). The matrix lists choices but does not judge fit: finance, skills and timing must be weighed separately.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-business-managers-leadership-decision-making--06-ansoff-matrix.webp" width="900" height="880" alt="Two by two grid of existing and new products against existing and new markets: market penetration (lowest risk), product development and market development (higher risk), diversification (highest risk)." loading="lazy">
+  <figcaption>Ansoff’s matrix ranks growth options by risk; moving into new products and new markets together is riskiest.</figcaption>
+</figure>
+
+
 ### Blue ocean strategy
 
 Blue ocean strategy is about creating a new, uncontested market space instead of competing in an existing crowded one (a "red ocean"). The standard approach is value innovation: delivering high customer value at low cost by removing features customers do not value and adding ones they do. Kim and Mauborgne describe four actions: eliminate, reduce, raise and create. As with the core competence tests, the syllabus names the strategy only.
@@ -174,6 +186,12 @@ Maplecote considers a new automated glazing line.
 | Total | 12 | Total | 9 |
 
 The net score is 12 − 9 = +3, so the case for change narrows but holds. Managers can then target the largest restraining force, here job fears. The limit is subjectivity: the scores are judgements and different managers may score differently.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-business-types-of-strategies--09-force-field.webp" width="900" height="1070" alt="Arrows scaled to scores for driving and restraining forces before and after action: drivers 12 against restrainers 10 (lead 2), then restrainers fall to 7 (lead 5) after a retraining pledge and course." loading="lazy">
+  <figcaption>Weakening restraining forces widens the lead of driving forces.</figcaption>
+</figure>
+
 
 ### Decision trees
 

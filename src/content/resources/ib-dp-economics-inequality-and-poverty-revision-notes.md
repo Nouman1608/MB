@@ -195,17 +195,6 @@ A 10% sales tax on 6,200 of taxed spending: 6,200 x 0.10 = 620.
 | Anti-discrimination policies | Narrow pay gaps | Enforcement; slow |
 | Minimum wages | Raises low pay | May reduce jobs if set too high |
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ib-dp-economics-inequality-and-poverty--02-ubi-cost.webp" width="900" height="950" alt="Forty person icons stand for 4 million adults, each icon being 100,000 adults. Every adult receives 3,000 vrels with no conditions. 4 million times 3,000 equals 12 billion vrels a year, which must be funded by taxes or lower spending elsewhere." loading="lazy">
-  <figcaption>4 million adults paid 3,000 each costs 12 billion vrels a year.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ib-dp-economics-inequality-and-poverty--03-minimum-wage-floor.webp" width="900" height="950" alt="Illustrative labour market, demand Q = 600 − 10w and supply Q = 20w, with the market wage at 20 for 400 thousand hours. A legal floor of 25 cuts the hours employers want to 350 and raises the hours offered to 500, so 150 thousand hours of labour are unwanted and 50 thousand jobs are lost. Workers who keep jobs earn more, and here the total pay bill rises from 8,000 to 8,750, but the net effect depends on how many are priced out." loading="lazy">
-  <figcaption>A wage floor above the market wage raises pay for those employed but prices some workers out.</figcaption>
-</figure>
-
-
 ## Quick self-test
 
 1. Distinguish income inequality from wealth inequality.
@@ -233,6 +222,17 @@ A 10% sales tax on 6,200 of taxed spending: 6,200 x 0.10 = 620.
 9. Health, education and living standards.
 10. Strength: simple, no means test. Weakness: very expensive, so it needs high taxes or cuts elsewhere.
 11. If the wage is set above the market level, some employers cut jobs or hours, so some workers lose income.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-economics-inequality-and-poverty--02-ubi-cost.webp" width="900" height="950" alt="Forty person icons stand for 4 million adults, each icon being 100,000 adults. Every adult receives 3,000 vrels with no conditions. 4 million times 3,000 equals 12 billion vrels a year, which must be funded by taxes or lower spending elsewhere." loading="lazy">
+  <figcaption>4 million adults paid 3,000 each costs 12 billion vrels a year.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-economics-inequality-and-poverty--03-minimum-wage-floor.webp" width="900" height="950" alt="Illustrative labour market, demand Q = 600 − 10w and supply Q = 20w, with the market wage at 20 for 400 thousand hours. A legal floor of 25 cuts the hours employers want to 350 and raises the hours offered to 500, so 150 thousand hours of labour are unwanted and 50 thousand jobs are lost. Workers who keep jobs earn more, and here the total pay bill rises from 8,000 to 8,750, but the net effect depends on how many are priced out." loading="lazy">
+  <figcaption>A wage floor above the market wage raises pay for those employed but prices some workers out.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

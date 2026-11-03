@@ -123,12 +123,6 @@ Emissions per unit of GDP = emissions / GDP
 
 Percentage change in exports: (108 - 120) / 120 x 100 = -10%.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/edexcel-igcse-economics-supply-side-policy-and-trade-offs-between-objectives--11-inflation-current-account.webp" width="900" height="820" alt="Country B has 6% inflation against 2% abroad. Exports fall from 120 to 108 (-10%) and imports rise from 100 to 112 (+12%), so the balance moves from +20 surplus to -4 deficit." loading="lazy">
-  <figcaption>Higher relative inflation cuts exports, lifts imports and pushes the current account into deficit.</figcaption>
-</figure>
-
-
 ## Must-know distinctions
 
 - **Supply-side versus demand-side**: supply-side policy increases the ability to produce. Fiscal and monetary policy mainly change spending and are covered separately.
@@ -146,6 +140,12 @@ Percentage change in exports: (108 - 120) / 120 x 100 = -10%.
 **Growth and the environment.** Higher output needs more energy and materials, so emissions and waste rise. A government that limits pollution raises costs for firms, which can slow growth. The judgement depends on whether cleaner technology is available and on how much the country values present income against future damage.
 
 **Inflation and the current account.** If prices at home rise faster than abroad, foreign buyers switch away from our exports, and domestic buyers switch towards imports. The trade balance moves towards deficit. Higher imports are a leakage from the circular flow, and a large deficit can put pressure on the exchange rate.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-economics-supply-side-policy-and-trade-offs-between-objectives--11-inflation-current-account.webp" width="900" height="820" alt="Country B has 6% inflation against 2% abroad. Exports fall from 120 to 108 (-10%) and imports rise from 100 to 112 (+12%), so the balance moves from +20 surplus to -4 deficit." loading="lazy">
+  <figcaption>Higher relative inflation cuts exports, lifts imports and pushes the current account into deficit.</figcaption>
+</figure>
+
 
 ## Evaluation toolkit
 

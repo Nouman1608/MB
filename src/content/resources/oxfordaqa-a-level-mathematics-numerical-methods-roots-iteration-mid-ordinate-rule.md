@@ -149,6 +149,16 @@ The values climb away from α in a diverging staircase.
   <figcaption>Where the curve y = g(x) meets y = x is the root; the path converges when the curve is flatter than the line there.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-maths-9709-pure-mathematics-2-numerical-solution-of-equations--04-newton-raphson-tangent.webp" width="900" height="880" alt="On y = x^3+2x-9 the tangent at x1 = 1.5 meets the axis at x2 = 1.8, the tangent there meets it at x3 = 1.7631, and x4 = 1.7625." loading="lazy">
+  <figcaption>Each step replaces the curve by its tangent and moves to where the tangent meets the x-axis.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-maths-9709-pure-mathematics-2-numerical-solution-of-equations--05-newton-raphson-fails.webp" width="900" height="920" alt="On y = x^3-12x+7 a start at x=2 has a flat tangent, x=2.1 throws the next value to 9.37, and x=3 converges to 3.1240." loading="lazy">
+  <figcaption>Starting at or near a stationary point sends Newton-Raphson away from the root you want.</figcaption>
+</figure>
+
 
 ## The mid-ordinate rule
 

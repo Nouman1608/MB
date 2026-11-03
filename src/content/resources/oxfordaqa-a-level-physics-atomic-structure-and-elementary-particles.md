@@ -201,6 +201,11 @@ A proton and an antiproton at rest annihilate. Total energy = 2 × 938.3 = **187
   <figcaption>Annihilation and pair production share energy as rest energy and kinetic energy.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-quantum-physics--08-aphy-quantum-energy-levels.webp" width="900" height="1230" alt="Hydrogen energy levels at -13.6, -3.40, -1.51 and -0.85 eV. Falls from n=3 and n=4 to n=2 give 658 nm red and 488 nm blue photons and n=2 to 1 gives 122 nm ultraviolet. A continuous spectrum is shown beside the hydrogen line spectrum with lines at the computed wavelengths." loading="lazy">
+  <figcaption>Each spectral line is one photon whose energy equals a gap between two levels.</figcaption>
+</figure>
+
 
 ## Pair production
 

@@ -70,6 +70,11 @@ Give the effect on both profit and assets in the same answer, and add the reason
   <figcaption>The saw is recorded at 5,300, and a mixed invoice of 6,300 is split 5,400 capital and 900 expense.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-accounting-capital-and-revenue-expenditure-and-depreciation--03-elmstead-profit.webp" width="900" height="856" alt="Reported profit 46,200 falls by 3,150 for a repair wrongly capitalised (3,500 less 350 depreciation) and rises by 10,800 for a press wrongly expensed (12,000 less 1,200 depreciation), giving 53,850." loading="lazy">
+  <figcaption>Two misclassifications turn a reported profit of 46,200 into a corrected 53,850.</figcaption>
+</figure>
+
 
 ## 2.5 a Causes of depreciation
 
@@ -174,12 +179,6 @@ Before you build the disposal account, make sure the depreciation charged up to 
 - **Depreciation expense vs provision for depreciation:** the yearly cost in the income statement vs the running total in the statement of financial position.
 - **Depreciation vs cash:** depreciation is an allocation of past spending, not money paid out in the year.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/edexcel-igcse-accounting-capital-and-revenue-expenditure-and-depreciation--04-brightwater-methods.webp" width="900" height="996" alt="Straight line charges 8,000 every year. Reducing balance at 25% charges 16,000, 12,000, 9,000 and 6,750. Four-year totals are 32,000 and 43,750; carrying values are 32,000 and 20,250." loading="lazy">
-  <figcaption>Reducing balance charges more early; after four years it has charged 43,750 against 32,000.</figcaption>
-</figure>
-
-
 ## Quick self-test
 
 1. Define capital expenditure.
@@ -209,8 +208,8 @@ Before you build the disposal account, make sure the depreciation charged up to 
 11. Two from: wear and tear, obsolescence, time running out (a lease), inadequacy.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/edexcel-igcse-accounting-capital-and-revenue-expenditure-and-depreciation--03-elmstead-profit.webp" width="900" height="856" alt="Reported profit 46,200 falls by 3,150 for a repair wrongly capitalised (3,500 less 350 depreciation) and rises by 10,800 for a press wrongly expensed (12,000 less 1,200 depreciation), giving 53,850." loading="lazy">
-  <figcaption>Two misclassifications turn a reported profit of 46,200 into a corrected 53,850.</figcaption>
+  <img src="https://img.marlbridge.com/edexcel-igcse-accounting-capital-and-revenue-expenditure-and-depreciation--04-brightwater-methods.webp" width="900" height="996" alt="Straight line charges 8,000 every year. Reducing balance at 25% charges 16,000, 12,000, 9,000 and 6,750. Four-year totals are 32,000 and 43,750; carrying values are 32,000 and 20,250." loading="lazy">
+  <figcaption>Reducing balance charges more early; after four years it has charged 43,750 against 32,000.</figcaption>
 </figure>
 
 

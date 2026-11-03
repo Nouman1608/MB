@@ -124,12 +124,6 @@ Momentum before is zero, so momentum after must total zero — the fragments mov
 
 **Worked example.** A 2.0 kg trolley moving at 3.0 m s⁻¹ collides with a stationary 1.0 kg trolley and they stick together. By conservation of momentum: (2.0 × 3.0) + (1.0 × 0) = (2.0 + 1.0)v, so v = 2.0 m s⁻¹. KE before = ½ × 2.0 × 3.0² = 9.0 J; KE after = ½ × 3.0 × 2.0² = 6.0 J — the 3.0 J difference is lost to heat and sound, confirming a perfectly inelastic collision.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/as-physics-dynamics-revision-notes--01-explosion.webp" width="900" height="1070" alt="Two trolleys of 1.0 kg and 3.0 kg start at rest with a compressed spring between them. After release they move apart at 3.0 and 1.0 m/s. Momenta are -3.0 and +3.0 kg m/s so the total stays zero, while kinetic energy rises from 0 to 6.0 J." loading="lazy">
-  <figcaption>Explosion: equal and opposite momenta, but kinetic energy increases.</figcaption>
-</figure>
-
-
 ## Exam traps
 
 - Quoting F = ma as Newton's second law without the momentum form.
@@ -150,3 +144,9 @@ Momentum before is zero, so momentum after must total zero — the fragments mov
 7. Distinguish between weight and mass.
 
 **Answers:** 1. The rate of change of momentum is proportional to the resultant force and acts in its direction; F = ma follows only when mass is constant. 2. The two forces act on different bodies and are of the same type. 3. It increases the time over which the momentum change occurs, and since force equals rate of change of momentum, a longer time gives a smaller force. 4. Momentum is always conserved; kinetic energy is conserved only in elastic collisions. 5. It is transferred to thermal energy, sound and the work done deforming the objects. 6. As speed increases, air resistance (drag) increases, reducing the resultant force and acceleration, until drag equals weight and the resultant force is zero — the object then falls at a constant terminal velocity. 7. Weight is the gravitational force on a mass (weight = mg) and depends on the local gravitational field; mass is the amount of matter in an object and is constant everywhere.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/as-physics-dynamics-revision-notes--01-explosion.webp" width="900" height="1070" alt="Two trolleys of 1.0 kg and 3.0 kg start at rest with a compressed spring between them. After release they move apart at 3.0 and 1.0 m/s. Momenta are -3.0 and +3.0 kg m/s so the total stays zero, while kinetic energy rises from 0 to 6.0 J." loading="lazy">
+  <figcaption>Explosion: equal and opposite momenta, but kinetic energy increases.</figcaption>
+</figure>
+

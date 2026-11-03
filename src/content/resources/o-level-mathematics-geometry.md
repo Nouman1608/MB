@@ -168,6 +168,11 @@ So the volume ratio equals (length ratio)³, as the syllabus notes: Volume of A 
   <figcaption>A line parallel to one side creates a smaller similar triangle; the scale factor gives the unknown side.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-mathematics-similar-figures-and-arcs-sectors--02-area-volume-via-length.webp" width="900" height="1252" alt="Areas 36 to 25 are square-rooted to give lengths 6 to 5, which are cubed to give volumes 216 to 125. With the larger volume 1296 the smaller is 750 cubic centimetres." loading="lazy">
+  <figcaption>Convert to a length ratio first, then raise it to the power you need.</figcaption>
+</figure>
+
 
 ## 4.5 Symmetry
 
@@ -185,6 +190,17 @@ A shape has line symmetry if a mirror line maps it onto itself. Its order of rot
 | Regular polygon with n sides | n | n |
 
 For solids, identify planes of symmetry (mirror planes that cut the solid into reflected halves) and axes of symmetry (lines about which the solid can be turned to look the same). A cuboid with three different edge lengths has 3 planes and 3 axes, each of order 2. A square-based pyramid has 4 planes and 1 axis of order 4. A regular triangular prism has 4 planes and 4 axes: one of order 3 along its length and three of order 2. A cone has one axis, with infinitely many planes containing it. A cylinder has the same planes and axis, one plane across its middle, and order-2 axes through its middle perpendicular to the main axis.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-symmetry--03-shapes-lines-order.webp" width="900" height="1260" alt="Ten triangles and quadrilaterals with their mirror lines dashed and the number of lines and order stated: equilateral 3 and 3, isosceles 1 and 1, scalene 0 and 1, square 4 and 4, rectangle 2 and 2, rhombus 2 and 2, parallelogram 0 and 2, kite 1 and 1, isosceles trapezium 1 and 1, trapezium 0 and 1." loading="lazy">
+  <figcaption>If a shape has any lines, its order equals its number of lines; the parallelogram is the exception with order 2.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-symmetry--08-solids-symmetry.webp" width="900" height="1140" alt="A cylinder has one axis, endless vertical planes and one horizontal plane. A cone has one axis, endless vertical planes and no horizontal plane. A square-based pyramid has one axis of order 4, four vertical planes and no horizontal plane." loading="lazy">
+  <figcaption>Extended only: axes and planes of symmetry of a cylinder, cone and pyramid.</figcaption>
+</figure>
+
 
 ## 4.6 Angles
 
@@ -205,6 +221,27 @@ Give the reason with every angle, using the correct terms. Use three-letter nota
 
 **Worked example (irregular).** Five angles of a hexagon are 130°, 95°, 140°, 118° and 126°. These total 609°. A hexagon's angles total 4 × 180° = 720°, so the sixth angle is 720° − 609° = **111°**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-mathematics-angle-facts-polygons-and-quadrilaterals--01-angle-rules-point-line-opposite.webp" width="900" height="1170" alt="Figure showing: Angles at a point (120+75+65+100), on a straight line (105+75) and vertically opposite (75=75, 105=105). Angles at a point add to 360°, on a line to 180°, and vertically opposite angles are equal." loading="lazy">
+  <figcaption>Angles at a point add to 360°, on a line to 180°, and vertically opposite angles are equal.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-geometry--01-parallel-line-angles.webp" width="900" height="1220" alt="Three panels of two parallel lines cut by a transversal. Corresponding angles are both 65 degrees. Alternate angles are both 115 degrees. Co-interior angles are 65 and 115 degrees, adding to 180. With a 65 degree transversal: corresponding angles are equal (F), alternate angles are equal (Z), co-interior angles add to 180 degrees (C)." loading="lazy">
+  <figcaption>Corresponding and alternate angles are equal; co-interior angles add to 180°.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-geometry--02-regular-polygon-angles.webp" width="900" height="1070" alt="A regular hexagon with exterior angles of 60 degrees marked and one interior angle of 120 degrees. Six 60 degree wedges form a full circle of 360 degrees. Interior angle is 180 minus 60. A regular hexagon has six exterior angles of 60 degrees which fit round a point to make 360 degrees, so each interior angle is 120 degrees." loading="lazy">
+  <figcaption>Exterior angles add to 360°, so a regular hexagon has interior angles of 120°.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-mathematics-angle-facts-polygons-and-quadrilaterals--04-polygon-triangles-angle-sum.webp" width="900" height="1010" alt="Figure showing: A heptagon splits into 5 triangles from one vertex, so interior angles total 900 degrees; smaller polygons with 3 to 7 sides split into 1 to 5 triangles. A polygon with n sides splits into n − 2 triangles, so its angles sum to (n − 2) × 180°." loading="lazy">
+  <figcaption>A polygon with n sides splits into n − 2 triangles, so its angles sum to (n − 2) × 180°.</figcaption>
+</figure>
+
+
 ## 4.7 Circle theorems I
 
 1. The angle in a semicircle is 90°.
@@ -219,6 +256,37 @@ Give the reason with every angle, using the correct terms. Use three-letter nota
 **Worked example.** Points A, B, C lie on a circle with centre O and angle AOB = 118°. Angle ACB = 118° ÷ 2 = **59°** (angle at the centre is twice the angle at the circumference), when C is on the major arc.
 
 For a cyclic quadrilateral WXYZ with angle WXY = 87°, angle WZY = **93°**. If chord PQ makes 52° with the tangent at P, any point R in the alternate segment gives angle PRQ = **52°**.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-geometry--03-right-angles-in-circles.webp" width="900" height="1055" alt="Top: a triangle ABC inside a circle with AB a diameter, right angle at C. Bottom: a radius OT meets a tangent at T with a right angle. The angle in a semicircle is 90 degrees, and a tangent meets a radius at 90 degrees." loading="lazy">
+  <figcaption>The angle in a semicircle and the angle between tangent and radius are both 90°.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-geometry--04-angle-at-centre.webp" width="900" height="830" alt="Circle with arc AB, centre angle AOB of 130 degrees, and points C and D each giving an angle of 65 degrees on the same arc. The angle at the centre (130 degrees) is twice the angle at the circumference (65 degrees) on the same arc, and angles in the same segment are equal." loading="lazy">
+  <figcaption>The angle at the centre is twice the angle at the circumference, and angles in the same segment are equal.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-geometry--05-cyclic-quadrilateral.webp" width="900" height="850" alt="Quadrilateral ABCD inscribed in a circle with angles A 100, B 65, C 80, D 115 degrees. A plus C is 180 and B plus D is 180. In a cyclic quadrilateral opposite angles add to 180 degrees (100 + 80 and 65 + 115)." loading="lazy">
+  <figcaption>Opposite angles of a cyclic quadrilateral add to 180°.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-maths-4ma1-geometry-and-trigonometry--09-alternate-segment.webp" width="900" height="860" alt="A tangent at T and chord TA make a 50° angle; the angle TBA at B in the alternate segment is also 50°. Computed from coordinates." loading="lazy">
+  <figcaption>The angle between a tangent and a chord equals the angle in the alternate segment.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-circle-theorems-ii--02-chord-bisector.webp" width="900" height="850" alt="Circle of radius 10 with chord AB of length 16. OM meets AB at right angles at the midpoint M, so AM = MB = 8. Triangle OMB has sides 6, 8, 10. A line from the centre perpendicular to a chord cuts the chord in half, giving a right-angled triangle (radius 10, half-chord 8, distance 6)." loading="lazy">
+  <figcaption>The perpendicular from the centre bisects the chord, so Pythagoras finds the missing length.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-circle-theorems-ii--01-equal-chords.webp" width="900" height="940" alt="Circle with centre O and two equal chords, each marked with double ticks. A dashed perpendicular from O to each chord is labelled d, with right-angle marks. Both distances are equal. Two chords of equal length are the same perpendicular distance d from the centre, and the reverse also holds." loading="lazy">
+  <figcaption>Equal chords are equidistant from the centre.</figcaption>
+</figure>
+
 
 ## 4.8 Circle theorems II
 

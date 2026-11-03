@@ -267,6 +267,16 @@ Step-up transformers raise the p.d. for transmission; step-down transformers low
   <figcaption>Worked examples 3 to 5: the charger transformer and the grid loss at two voltages.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-physics-0625-electricity-and-magnetism--06-transformer.webp" width="900" height="880" alt="A soft-iron core with a primary coil of 920 turns on the left taking 230 V a.c. and a secondary coil of 48 turns on the right giving 12 V. Vs = 230 x 48 / 920 = 12 V, a step-down transformer. Extended: power in equals power out, 18 W." loading="lazy">
+  <figcaption>A step-down transformer has fewer turns on the secondary, so the output voltage is lower.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-physics-0625-electricity-and-magnetism--07-transmission-loss.webp" width="900" height="880" alt="Sending 50 MW through 4.0 ohm cables: at 25 kV the current is 2000 A (thick cable) and 16 MW is lost as heat; at 250 kV the current is 200 A (thin cable) and only 0.16 MW is lost, one hundredth." loading="lazy">
+  <figcaption>Ten times the voltage means one tenth of the current and one hundredth of the heating loss.</figcaption>
+</figure>
+
 
 ## Common errors
 

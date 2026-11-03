@@ -168,6 +168,11 @@ Worked reminder: an object weighs 7.4 N where g = 3.7 N/kg. Its mass is 7.4 / 3.
   <figcaption>Pressure at a point acts at right angles to the surface, and is the same in every direction.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/pressure--01-pressure-force-area.webp" width="900" height="850" alt="Two blocks each press with 600 N. On 0.5 m2 the pressure is 1200 Pa and the block sinks little into sand; on 0.1 m2 it is 6000 Pa and it sinks deeper." loading="lazy">
+  <figcaption>For the same force, a smaller area gives a larger pressure.</figcaption>
+</figure>
+
 
 ## P2.3o: p = F / A and hydraulics (Higher Tier only)
 
@@ -191,12 +196,6 @@ Idea behind the practical suggestion: one drawing pin concentrates the force on 
 
 Worked reminder: pistons of area 3.0 × 10⁻⁴ m² and 9.0 × 10⁻³ m², with 50 N on the small one. The area ratio is 9.0 × 10⁻³ / 3.0 × 10⁻⁴ = 30, so the force on the large piston is 50 × 30 = 1500 N. If the small piston moves 0.12 m, the large one moves 0.12 / 30 = 0.0040 m.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ocr-gcse-physics-gravity-weight-and-pressure-force-in-fluids--06-hydraulic-press.webp" width="900" height="1110" alt="A small piston of area 4.0 x 10^-4 m2 pushed with 120 N moves 0.30 m. The pressure, 3.0 x 10^5 Pa, is the same throughout, so the 6.0 x 10^-3 m2 piston gives 1800 N and moves 0.020 m. Work in and out are both 36 J." loading="lazy">
-  <figcaption>A hydraulic system multiplies force by the area ratio and divides distance by the same factor.</figcaption>
-</figure>
-
-
 ## Quick self-test
 
 Questions 1 to 4 are both tiers. Questions 5 to 12 are Higher Tier only.
@@ -213,6 +212,12 @@ Questions 1 to 4 are both tiers. Questions 5 to 12 are Higher Tier only.
 10. A force of 600 N is produced by a pressure of 2.4 × 10⁵ Pa. Find the area.
 11. Convert 400 cm² to m².
 12. A hydraulic system has small piston area 5.0 × 10⁻⁴ m² and large piston area 2.0 × 10⁻² m². A force of 40 N acts on the small piston. Find the force on the large piston.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-gravity-weight-and-pressure-force-in-fluids--06-hydraulic-press.webp" width="900" height="1110" alt="A small piston of area 4.0 x 10^-4 m2 pushed with 120 N moves 0.30 m. The pressure, 3.0 x 10^5 Pa, is the same throughout, so the 6.0 x 10^-3 m2 piston gives 1800 N and moves 0.020 m. Work in and out are both 36 J." loading="lazy">
+  <figcaption>A hydraulic system multiplies force by the area ratio and divides distance by the same factor.</figcaption>
+</figure>
+
 
 ### Answers
 

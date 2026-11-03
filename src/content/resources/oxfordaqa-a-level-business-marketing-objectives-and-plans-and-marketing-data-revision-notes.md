@@ -193,6 +193,11 @@ Stratified method in steps: split the population into groups, work out each grou
   <figcaption>Sampling methods trade representativeness against cost and speed.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-business-marketing--07-forecast-and-capacity.webp" width="900" height="1114" alt="Bars compare August actual and September and October forecasts with a 540 capacity line. October is 6 above capacity. Cards show operations, HR and finance consequences and the warning to test the forecast before a bigger workshop." loading="lazy">
+  <figcaption>A forecast above capacity triggers decisions in operations, HR and finance.</figcaption>
+</figure>
+
 
 ## Interpreting marketing data
 
@@ -203,22 +208,6 @@ Stratified method in steps: split the population into groups, work out each grou
 - Illustration only: 50% in a sample of 900 gives about a 3 percentage point margin at 95% confidence. You need the idea, not the formula.
 - **Big data and data mining (9625 only)**: very large data sets (purchases, web clicks, social media) searched for patterns. Value: targeting and early warning. Limits: cost, data quality, chance patterns, privacy concerns.
 - Use data in decisions: state what it shows, how reliable it is, what to do.
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/oxfordaqa-a-level-business-marketing-objectives-and-plans-and-marketing-data--05-correlation-value.webp" width="900" height="1215" alt="Two scatter plots with trend lines and a scale from -1 to +1: +0.86 is strong and positive, +0.18 is weak and positive. Correlation shows association, not cause." loading="lazy">
-  <figcaption>A correlation near 1 means a strong link and near 0 a weak one, but neither proves cause.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/oxfordaqa-a-level-business-marketing-objectives-and-plans-and-marketing-data--03-confidence-interval-width.webp" width="900" height="936" alt="Three ranges around a sample result of 62 per cent: 57 to 67 per cent for 400 people at 95 per cent, 52 to 72 per cent for 100 people at 95 per cent, and 56 to 68 per cent for 400 people at 99 per cent. A bigger sample narrows the range and a higher level widens it." loading="lazy">
-  <figcaption>A bigger sample narrows the interval; a higher confidence level widens it.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/oxfordaqa-a-level-business-marketing-objectives-and-plans-and-marketing-data--04-big-data-mining.webp" width="900" height="900" alt="Three very large data sources (purchases, website clicks, social media) feed data mining, which finds patterns such as items bought together and customers about to leave. Value: better targeting, early warning. Limits: cost, poor data, chance patterns, privacy concerns." loading="lazy">
-  <figcaption>Data mining searches big data for patterns, with limits.</figcaption>
-</figure>
-
 
 ## Quick self-test
 
@@ -251,6 +240,22 @@ Stratified method in steps: split the population into groups, work out each grou
 11. Less information about the whole market, so the estimate is less precise and the range of likely true values is larger.
 12. Cost, time required, reliability of findings.
 13. For example a changing taste, a rival's reaction or no sales history for a new product.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-business-marketing-objectives-and-plans-and-marketing-data--05-correlation-value.webp" width="900" height="1215" alt="Two scatter plots with trend lines and a scale from -1 to +1: +0.86 is strong and positive, +0.18 is weak and positive. Correlation shows association, not cause." loading="lazy">
+  <figcaption>A correlation near 1 means a strong link and near 0 a weak one, but neither proves cause.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-business-marketing-objectives-and-plans-and-marketing-data--03-confidence-interval-width.webp" width="900" height="936" alt="Three ranges around a sample result of 62 per cent: 57 to 67 per cent for 400 people at 95 per cent, 52 to 72 per cent for 100 people at 95 per cent, and 56 to 68 per cent for 400 people at 99 per cent. A bigger sample narrows the range and a higher level widens it." loading="lazy">
+  <figcaption>A bigger sample narrows the interval; a higher confidence level widens it.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-business-marketing-objectives-and-plans-and-marketing-data--04-big-data-mining.webp" width="900" height="900" alt="Three very large data sources (purchases, website clicks, social media) feed data mining, which finds patterns such as items bought together and customers about to leave. Value: better targeting, early warning. Limits: cost, poor data, chance patterns, privacy concerns." loading="lazy">
+  <figcaption>Data mining searches big data for patterns, with limits.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

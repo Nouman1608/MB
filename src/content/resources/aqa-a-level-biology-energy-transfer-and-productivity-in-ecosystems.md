@@ -98,6 +98,12 @@ R is the respiratory loss. The same relationship can be turned round: GPP = NPP 
 2. NPP as a percentage of GPP = 3.12 ÷ 4.80 × 100 = 65.0%.
 3. If the field receives 3.8 × 10¹⁰ kJ ha⁻¹ year⁻¹ of light energy, GPP is 4.80 × 10⁸ ÷ 3.8 × 10¹⁰ × 100 = 1.26% of the light received. This is a percentage yield (MS 0.3), and it shows that only a small fraction of incident light ends up in plant biomass.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-biology-energy-transfer-and-productivity-in-ecosystems--09-succession.webp" width="900" height="1050" alt="Four quarry floors aged 5, 20, 50 and 120 years show soil depth rising from 0.5 to 25 cm. Plant species per 100 square metres rise from 3 to 22 at 50 years then fall to 19 at 120 years as light at the ground drops from 100% to 8%." loading="lazy">
+  <figcaption>Each stage changes soil and light for the next; diversity can fall under a dense canopy.</figcaption>
+</figure>
+
+
 ## Net production of consumers
 
 Animals cannot photosynthesise. Their net production is what is left of their food energy after losses:

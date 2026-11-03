@@ -137,6 +137,11 @@ Identical twins have the same profile, so profiling cannot separate them.
 </figure>
 
 <figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-genetic-technology--04-three-ways-to-get-a-gene.webp" width="900" height="1070" alt="Three routes are shown. Restriction enzymes cut the gene from the genome but it keeps its introns. Reverse transcriptase copies mRNA to cDNA and DNA polymerase makes the second strand, giving a gene with no introns. A gene machine builds the gene from a known base sequence." loading="lazy">
+  <figcaption>Restriction cutting keeps introns, whereas cDNA and machine-made genes have none.</figcaption>
+</figure>
+
+<figure class="topic-figure">
   <img src="https://img.marlbridge.com/a-level-biology-9700-genetic-technology--07-dna-profile-paternity.webp" width="900" height="1010" alt="Four lanes of band sizes in kb show mother, child and two men. The child has bands 6.5 and 3.5 that the mother lacks, so they come from the father. Man A has both; Man B lacks 3.5 and is excluded. Five independent loci with chances 0.1, 0.05, 0.2, 0.08 and 0.125 give a chance match of 1 in 100 000." loading="lazy">
   <figcaption>Bands the child lacks from the mother must come from the father: Man A fits, Man B is excluded.</figcaption>
 </figure>

@@ -220,6 +220,12 @@ The capillary network around the alveoli is supplied by the **pulmonary artery**
 11. They are narrow enough to stay open without support, and smooth muscle lets their diameter change to control airflow.
 12. The pulmonary artery.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-gas-exchange--07-ileum-villus.webp" width="900" height="1010" alt="A finger-shaped villus lined by one layer of epithelial cells with microvilli. Inside are blood capillaries and a central lacteal. A model villus with radius 0.10 mm and height 1.0 mm has a curved area 20 times its footprint." loading="lazy">
+  <figcaption>Villi and microvilli give a huge surface; capillaries and the lacteal carry absorbed products away.</figcaption>
+</figure>
+
+
 ## Where marks are usually lost
 
 - Writing that bronchioles have cartilage "rings".

@@ -210,6 +210,16 @@ ignores non-financial factors such as quality.
   <figcaption>Each ratio group answers one question about the business.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-analysis-and-evaluation-of-financial-information--02-margin-vs-markup.webp" width="900" height="810" alt="One bar shows revenue of 480,000 dollars made of cost of sales 312,000 and gross profit 168,000. Margin divides gross profit by revenue to give 35.00 percent; mark-up divides the same profit by cost of sales to give 53.85 percent." loading="lazy">
+  <figcaption>The same gross profit gives a larger percentage when measured against cost of sales than against revenue.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-analysis-and-evaluation-of-financial-information--06-eps-and-pe.webp" width="900" height="830" alt="Profit for the year of 896,000 dollars less a 56,000 preference dividend leaves 840,000 of ordinary earnings. Divided by 6,000,000 shares this is 14.00 cents per share. A share price of 238 cents is 17 times that, so P/E is 17.00 times." loading="lazy">
+  <figcaption>EPS is profit per ordinary share; P/E says how many years of earnings the price represents.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

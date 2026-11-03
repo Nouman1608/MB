@@ -78,17 +78,6 @@ students for this sub-topic, which is unusual across the DP Physics
 syllabus and worth knowing so revision time is not spent hunting for
 HL-only extension material that does not exist here.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ib-dp-physics-forces-and-momentum--03-named-forces.webp" width="900" height="1118" alt="Nine small pictures: normal force, friction, tension, elastic (Hooke) force, viscous drag and buoyancy as contact forces; weight, electric and magnetic force as field forces, each with its arrow and formula." loading="lazy">
-  <figcaption>The syllabus names six contact forces and three field forces.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ib-dp-physics-forces-and-momentum--07-explosion.webp" width="900" height="890" alt="Two trolleys of 2 kg and 3 kg, at rest with a spring between them, fly apart at 3 m/s left and 2 m/s right. Their momenta of minus 6 and plus 6 sum to zero, while 15 J of stored spring energy becomes 9 J plus 6 J of kinetic energy." loading="lazy">
-  <figcaption>In an explosion total momentum stays zero while kinetic energy increases.</figcaption>
-</figure>
-
-
 ## How to approach it
 
 Because A.2 spans several distinct but related ideas -- forces,
@@ -113,6 +102,11 @@ an independent force is one of the most common errors at this level.
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/ib-dp-physics-forces-and-momentum--01-free-body-slope.webp" width="900" height="940" alt="A 5.0 kg block slides down a 30 degree slope. Its free-body diagram shows weight 49 N, normal force 42.5 N, friction 8.5 N up the slope and resultant 16.0 N down the slope, giving a = 3.2 m/s squared." loading="lazy">
   <figcaption>A free-body diagram shows only the forces on one body; the resultant along the slope is mg sin theta minus friction.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-forces-and-momentum--02-newton-third-law.webp" width="900" height="810" alt="Two force pairs: a block and table push each other, and Earth and an apple pull each other. In each pair the forces are equal and opposite and act on different bodies. Weight and normal force on one block are not a pair." loading="lazy">
+  <figcaption>Third law forces are equal and opposite but act on different bodies.</figcaption>
 </figure>
 
 <figure class="topic-figure">
@@ -183,9 +177,20 @@ scenario's description alone.
   <figcaption>Momentum is conserved in every collision; kinetic energy only in elastic ones.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-forces-and-momentum--07-explosion.webp" width="900" height="890" alt="Two trolleys of 2 kg and 3 kg, at rest with a spring between them, fly apart at 3 m/s left and 2 m/s right. Their momenta of minus 6 and plus 6 sum to zero, while 15 J of stored spring energy becomes 9 J plus 6 J of kinetic energy." loading="lazy">
+  <figcaption>In an explosion total momentum stays zero while kinetic energy increases.</figcaption>
+</figure>
+
 
 ## Official syllabus
 
 International Baccalaureate Organization, Physics guide (Diploma
 Programme), first assessment 2025, sub-topic A.2. Overview at
 [ibo.org](https://www.ibo.org/en/programmes/diploma-programme/curriculum/sciences/physics/).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-forces-and-momentum--03-named-forces.webp" width="900" height="1118" alt="Nine small pictures: normal force, friction, tension, elastic (Hooke) force, viscous drag and buoyancy as contact forces; weight, electric and magnetic force as field forces, each with its arrow and formula." loading="lazy">
+  <figcaption>The syllabus names six contact forces and three field forces.</figcaption>
+</figure>
+

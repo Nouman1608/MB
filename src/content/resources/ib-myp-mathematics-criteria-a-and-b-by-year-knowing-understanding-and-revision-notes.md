@@ -177,21 +177,20 @@ Pattern: 3, 6, 12, 24. Ratio is 2 each time, so u = 3 × 2^(n − 1). Test n = 5
   <figcaption>Counting the border tiles gives the rule 4n + 4, tested on n = 7.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-algebra-and-graphs--05-linear-nth-term.webp" width="900" height="950" alt="The sequence 5, 8, 11, 14 rises by 3 each time. On a graph the terms lie on a straight line rising 3 per step and reaching 2 at n = 0. So the nth term is 3n + 2." loading="lazy">
+  <figcaption>A constant difference d gives dn plus the value the line has at n = 0.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-exponential-growth-decay-and-surds--01-growth-vs-linear.webp" width="900" height="780" alt="A graph of a population of 25 000 growing 2.4% a year for 8 years. The curve reaches about 30 223, while adding 600 a year in a straight line reaches only 29 800. The curve pulls ahead because each percentage is taken of the current value." loading="lazy">
+  <figcaption>Exponential growth pulls ahead of linear growth because each year's percentage is taken of a larger value.</figcaption>
+</figure>
+
 
 ### Worked reminder: proof
 
 Claim: the product of two consecutive integers is always even. Take n and n + 1. If n is even, the product n(n + 1) has an even factor. If n is odd, then n + 1 is even, so again the product is even. Both cases are covered, so the claim holds for every integer n.
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ib-myp-mathematics-criteria-a-and-b-by-year-knowing-understanding-and--05-ab-proof-pairing.webp" width="900" height="960" alt="Pair the outer factors n(n+3) = m and the inner factors (n+1)(n+2) = m+2, so the expression is m(m+2)+1 = (m+1)^2 = (n^2+3n+1)^2. For n = 1, a 4 by 6 rectangle plus one square makes a 5 by 5 square." loading="lazy">
-  <figcaption>Pairing the factors turns the product into m(m + 2) + 1, which is always a perfect square.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/sequences-and-proportion--02-differences-type.webp" width="900" height="1202" alt="Four sequences with their difference rows. Linear 3, 7, 11, 15 has constant first differences of 4. Quadratic 1, 4, 9, 16 has constant second differences of 2. Cubic 1, 8, 27, 64 has constant third differences of 6. Exponential 3, 6, 12, 24 has a constant ratio of 2." loading="lazy">
-  <figcaption>Keep taking differences until a row is constant; that row tells you the type.</figcaption>
-</figure>
-
 
 ## Quick self-test
 
@@ -206,6 +205,12 @@ Claim: the product of two consecutive integers is always even. Take n and n + 1.
 9. A Year 5 student writes a rule that fits their (wrong) data. What is the highest level, and what condition applies?
 10. For 3, 6, 12, 24, what is the sum of the first 5 terms?
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-mathematics-criteria-a-and-b-by-year-knowing-understanding-and--05-ab-proof-pairing.webp" width="900" height="960" alt="Pair the outer factors n(n+3) = m and the inner factors (n+1)(n+2) = m+2, so the expression is m(m+2)+1 = (m+1)^2 = (n^2+3n+1)^2. For n = 1, a 4 by 6 rectangle plus one square makes a 5 by 5 square." loading="lazy">
+  <figcaption>Pairing the factors turns the product into m(m + 2) + 1, which is always a perfect square.</figcaption>
+</figure>
+
+
 ### Answers
 
 1. 5-6.
@@ -219,6 +224,12 @@ Claim: the product of two consecutive integers is always even. Take n and n + 1.
 9. 6, provided the rule is of equivalent complexity to a correct one.
 10. 3(2^5 − 1) = 93.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/sequences-and-proportion--02-differences-type.webp" width="900" height="1202" alt="Four sequences with their difference rows. Linear 3, 7, 11, 15 has constant first differences of 4. Quadratic 1, 4, 9, 16 has constant second differences of 2. Cubic 1, 8, 27, 64 has constant third differences of 6. Exponential 3, 6, 12, 24 has a constant ratio of 2." loading="lazy">
+  <figcaption>Keep taking differences until a row is constant; that row tells you the type.</figcaption>
+</figure>
+
+
 ## Where marks are usually lost
 
 - Describing a pattern as "going up by 4" without writing a rule in n.
@@ -230,6 +241,12 @@ Claim: the product of two consecutive integers is always even. Take n and n + 1.
 - Rounding a "how many whole" answer down when the question needs the first value that exceeds a limit.
 - Treating a familiar-looking problem as unfamiliar and over-complicating it, or the reverse.
 - Following a task's instructions step by step in an investigation, which limits the level available for choosing techniques.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-mathematics-criteria-a-and-b-by-year-knowing-understanding-and--11-polygon-diagonals.webp" width="900" height="1070" alt="Polygons with 3 to 8 sides drawn with all diagonals give 0, 2, 5, 9, 14 and 20. From each vertex there are n minus 3 diagonals. First differences 2 to 6 and constant second difference 1 lead to d = n(n - 3)/2, which gives 27 for n = 9." loading="lazy">
+  <figcaption>Counting diagonals and differences leads to d = n(n − 3)/2.</figcaption>
+</figure>
+
 
 ## Official syllabus
 

@@ -79,17 +79,6 @@ All firms and numbers are invented for illustration. Money is in currency units 
 - Deadweight loss = 0.5 × (30 − 18) × (64 − 28) = 216 (MC at 18 is 28).
 - The firm is allocatively inefficient (P = 64 against MC = 28) and productively inefficient (ATC 41.2 against a minimum of 38.28).
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ocr-a-level-economics-monopoly-natural-monopoly-and-price-discrimination--01-mono-equilibrium.webp" width="900" height="980" alt="Graph of price and cost against quantity. Falling average revenue (demand) AR = 158 − 3Q, marginal revenue MR = 158 − 6Q below it, rising marginal cost MC = 30 + 2Q and U-shaped average total cost. MR meets MC at 16 units where MR and MC are both 62. Going up to AR gives a price of 110. Average total cost at 16 units is 83.5, so the shaded box between price 110 and ATC 83.5 across 16 units is supernormal profit of 424." loading="lazy">
-  <figcaption>The monopolist sets MC = MR at 16 units, reads price 110 from AR and earns supernormal profit of 424.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ocr-a-level-economics-microeconomics--05-monopoly.webp" width="900" height="960" alt="Illustrative monopoly: MC = MR at output 60 gives price 14 on the AR curve and supernormal profit of 420 above AC. A competitive market would produce at price = MC, output 90 and price 11. The triangle between is the welfare loss." loading="lazy">
-  <figcaption>A monopoly restricts output and raises price above the competitive level, earning supernormal profit.</figcaption>
-</figure>
-
-
 ## Diagram checklist (draw it every time)
 
 - Axes labelled: price/costs and quantity.
@@ -107,6 +96,17 @@ Price
     +------+------ Quantity
           18
 ```
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-monopoly-natural-monopoly-and-price-discrimination--01-mono-equilibrium.webp" width="900" height="980" alt="Graph of price and cost against quantity. Falling average revenue (demand) AR = 158 − 3Q, marginal revenue MR = 158 − 6Q below it, rising marginal cost MC = 30 + 2Q and U-shaped average total cost. MR meets MC at 16 units where MR and MC are both 62. Going up to AR gives a price of 110. Average total cost at 16 units is 83.5, so the shaded box between price 110 and ATC 83.5 across 16 units is supernormal profit of 424." loading="lazy">
+  <figcaption>The monopolist sets MC = MR at 16 units, reads price 110 from AR and earns supernormal profit of 424.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-microeconomics--05-monopoly.webp" width="900" height="960" alt="Illustrative monopoly: MC = MR at output 60 gives price 14 on the AR curve and supernormal profit of 420 above AC. A competitive market would produce at price = MC, output 90 and price 11. The triangle between is the welfare loss." loading="lazy">
+  <figcaption>A monopoly restricts output and raises price above the competitive level, earning supernormal profit.</figcaption>
+</figure>
+
 
 ## Supernormal profit: short run and long run
 

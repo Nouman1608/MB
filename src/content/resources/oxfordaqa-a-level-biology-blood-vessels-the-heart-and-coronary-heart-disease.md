@@ -89,6 +89,11 @@ Fluid is forced out at the start and drawn back in at the end. Reabsorption is n
 </figure>
 
 <figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-transport-in-mammals--03-co2-transport.webp" width="900" height="800" alt="Numbered flow inside a red cell: CO2 enters, carbonic anhydrase makes H2CO3, which splits to H+ and HCO3-. H+ forms haemoglobinic acid and releases O2; HCO3- leaves while Cl- enters; some CO2 binds Hb directly." loading="lazy">
+  <figcaption>How a red cell carries CO2 and why chloride moves in.</figcaption>
+</figure>
+
+<figure class="topic-figure">
   <img src="https://img.marlbridge.com/a-level-biology-9700-transport-in-mammals--07-heart-conduction.webp" width="900" height="820" alt="Heart section showing the SAN starting a wave across the atria, a non-conducting gap, the AVN delay, the bundle of His down the septum and Purkyne tissue carrying the wave up the ventricle walls from the apex." loading="lazy">
   <figcaption>The order in which excitation travels explains why atria contract before ventricles.</figcaption>
 </figure>
@@ -231,6 +236,12 @@ Top group against bottom: 11.9 / 4.2 = 2.8 times the rate (183 % higher). The ra
 **Correlation is not causation.** A correlation shows that two variables change together. It does not prove one causes the other. Other (confounding) variables, such as age, sex, smoking and activity, may differ between the groups. A cause is more convincing when a plausible mechanism exists, as it does for cholesterol and atheroma, and when large, well-controlled studies repeat the result.
 
 When you evaluate data, comment on sample size, how groups were chosen, control of other variables and consistency of the trend.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-transport-in-mammals--04-oxygen-dissociation.webp" width="900" height="1010" alt="Graph of haemoglobin saturation against pO2: the S-shaped adult curve, the same curve shifted right by high CO2 (Bohr shift) and a fetal curve to the left. The lesson numbers show 97% in the lungs and 45% or 30% at 3 kPa, releasing 10.4 or 13.4 cm3 per 100 cm3." loading="lazy">
+  <figcaption>Higher CO2 shifts the curve right so more oxygen is unloaded.</figcaption>
+</figure>
+
 
 ## Required practical 5: heart rate or pulse rate
 

@@ -56,11 +56,6 @@ Test yourself afterwards with the [graph theory practice questions](/resources/i
   <figcaption>Each type of graph has a distinguishing feature: loops, completeness, weights, arrows or no cycles.</figcaption>
 </figure>
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ib-dp-mathematics-ai-hl-graph-theory--02-in-out-degree.webp" width="900" height="890" alt="The directed graph with edges P to Q, Q to P, Q to R, R to P, R to S and S to Q. In/out degrees are P 2/1, Q 2/2, R 1/2, S 1/1; totals are 6 and 6, equal to the number of edges. The numbered walk P, Q, R, S, Q, P visits every vertex and returns, so the graph is strongly connected." loading="lazy">
-  <figcaption>Total in degree equals total out degree equals the number of edges; a closed walk through every vertex shows strong connection.</figcaption>
-</figure>
-
 
 ## Key results
 
@@ -195,8 +190,18 @@ Test yourself afterwards with the [graph theory practice questions](/resources/i
 12. Column j lists the probabilities of every possible move from vertex j, and one of them must happen.
 
 <figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-ai-hl-graph-theory--02-in-out-degree.webp" width="900" height="890" alt="The directed graph with edges P to Q, Q to P, Q to R, R to P, R to S and S to Q. In/out degrees are P 2/1, Q 2/2, R 1/2, S 1/1; totals are 6 and 6, equal to the number of edges. The numbered walk P, Q, R, S, Q, P visits every vertex and returns, so the graph is strongly connected." loading="lazy">
+  <figcaption>Total in degree equals total out degree equals the number of edges; a closed walk through every vertex shows strong connection.</figcaption>
+</figure>
+
+<figure class="topic-figure">
   <img src="https://img.marlbridge.com/ib-dp-mathematics-ai-hl-graph-theory--03-adjacency-walks.webp" width="900" height="1045" alt="Graph with edges AB, AC, BC, BD, CD and its adjacency matrix A and A cubed. The (A, D) entry of A cubed is 2, matching the two walks A-B-C-D and A-C-B-D drawn above. Adding the (A, D) entries of A, A squared and A cubed gives 0 + 2 + 2 = 4 walks of length at most 3." loading="lazy">
   <figcaption>The (i, j) entry of A^k counts walks of length k from i to j.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-ai-hl-graph-theory--04-transition-pagerank.webp" width="900" height="1015" alt="The directed graph with probabilities on each edge, the transition matrix T (columns are from, rows are to, columns sum to 1) and the steady state s = (0.3, 0.4, 0.2, 0.1) with Ts = s, giving the ranking Q, P, R, S." loading="lazy">
+  <figcaption>Columns of T are probabilities of leaving a vertex; the steady-state vector gives the PageRank ranking.</figcaption>
 </figure>
 
 
@@ -211,12 +216,6 @@ Test yourself afterwards with the [graph theory practice questions](/resources/i
 - Running the nearest neighbour algorithm on a table that has not been converted to least distances.
 - Adding only one edge from the deleted vertex, or the two edges from the MST, in the deleted vertex method.
 - Claiming a graph "has no Hamiltonian cycle" because it fails the Eulerian test; they are different questions.
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ib-dp-mathematics-ai-hl-graph-theory--04-transition-pagerank.webp" width="900" height="1015" alt="The directed graph with probabilities on each edge, the transition matrix T (columns are from, rows are to, columns sum to 1) and the steady state s = (0.3, 0.4, 0.2, 0.1) with Ts = s, giving the ranking Q, P, R, S." loading="lazy">
-  <figcaption>Columns of T are probabilities of leaving a vertex; the steady-state vector gives the PageRank ranking.</figcaption>
-</figure>
-
 
 ## Official syllabus
 

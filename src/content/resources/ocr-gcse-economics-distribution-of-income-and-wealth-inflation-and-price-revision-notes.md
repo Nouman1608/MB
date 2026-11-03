@@ -104,12 +104,6 @@ Condensed notes for the final weeks on sections 3.3 and 3.4 of the OCR GCSE (9-1
 4. Remember that positive inflation means prices are still rising.
 5. Suggest a cause (demand-pull, cost-push, imported) and a consequence, and say how confident you are.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ocr-gcse-economics-distribution-of-income-and-wealth-inflation-and-price--04-falling-inflation-rising-prices.webp" width="900" height="1060" alt="Bars show the inflation rate for years 1 to 10, peaking at 9.2% in year 8. A line shows the price level (year 5 = 100) which rises every year to 130.4 by year 10, even in years 9 and 10 when inflation falls." loading="lazy">
-  <figcaption>When inflation falls, prices still rise, only more slowly.</figcaption>
-</figure>
-
-
 ## Causes of unequal income and wealth
 
 - Differences in education, skills and training
@@ -167,6 +161,11 @@ Condensed notes for the final weeks on sections 3.3 and 3.4 of the OCR GCSE (9-1
 </figure>
 
 <figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-economics-distribution-of-income-and-wealth-inflation-and-price--04-falling-inflation-rising-prices.webp" width="900" height="1060" alt="Bars show the inflation rate for years 1 to 10, peaking at 9.2% in year 8. A line shows the price level (year 5 = 100) which rises every year to 130.4 by year 10, even in years 9 and 10 when inflation falls." loading="lazy">
+  <figcaption>When inflation falls, prices still rise, only more slowly.</figcaption>
+</figure>
+
+<figure class="topic-figure">
   <img src="https://img.marlbridge.com/ocr-gcse-economics-distribution-of-income-and-wealth-inflation-and-price--07-cpi-weighted-basket.webp" width="900" height="920" alt="Five categories with weights and Year 1 price indexes: food 0.30 times 106 is 31.8; housing and energy 0.25 times 112 is 28.0; transport 0.15 times 104 is 15.6; clothing 0.10 times 101 is 10.1; recreation 0.20 times 103 is 20.6. They stack to a CPI of 106.1 against the base year of 100, so inflation in Year 1 is 6.1 percent. With a CPI of 109.3 in Year 2, inflation is 3.0 percent, so prices still rise but more slowly. Illustrative figures from the lesson." loading="lazy">
   <figcaption>Each category weight multiplied by its index adds up to the CPI of 106.1, giving 6.1% inflation in Year 1 and 3.0% in Year 2.</figcaption>
 </figure>
@@ -179,6 +178,11 @@ Condensed notes for the final weeks on sections 3.3 and 3.4 of the OCR GCSE (9-1
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/a-level-aqa-economics-measurement-of-macroeconomic-performance--03-index-numbers.webp" width="900" height="980" alt="Bars have widths equal to weights (food 50%, housing 30%, transport 20%) and heights equal to item indices 104, 106 and 96 against a base-year line at 100. The weighted average is 103, meaning prices are 3% above the base year." loading="lazy">
   <figcaption>Weights make bigger spending items count more in an index anchored at 100.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-objectives-of-government--02-inflation-causes.webp" width="900" height="1090" alt="Two illustrative AD/AS diagrams. Demand-pull: AD shifts right and the price level rises. Cost-push: AS shifts up and left and the price level rises. Boxes give the cause chain and the policy response from the lesson." loading="lazy">
+  <figcaption>Demand-pull starts with demand; cost-push starts with rising costs.</figcaption>
 </figure>
 
 

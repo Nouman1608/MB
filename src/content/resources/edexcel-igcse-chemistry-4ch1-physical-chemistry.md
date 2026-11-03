@@ -76,6 +76,11 @@ Heat lost to the surroundings makes measured ΔH values less negative than data-
   <figcaption>Combustion calorimetry: heat water in a copper can and find the fuel burned from the burner mass loss.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/rates-of-reaction-and-reversible-reactions--03-rate-graph.webp" width="900" height="1020" alt="A flask connects to a gas syringe. A graph of gas volume against time shows a steep curve for a fast reaction and a shallow one for a slow reaction, both levelling at 60 cm3." loading="lazy">
+  <figcaption>Steeper gradient means faster rate; the line flattens when the reaction has finished.</figcaption>
+</figure>
+
 
 ### Calculating Q and ΔH (3.3, 3.4)
 
@@ -220,6 +225,17 @@ Particles must **collide** with at least the **activation energy** to react. Any
 
 Temperature has two effects and a full answer gives both.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/rates-of-reaction-and-reversible-reactions--01-collision-theory.webp" width="900" height="910" alt="Two particles that collide slowly bounce apart, while fast ones with at least the activation energy react." loading="lazy">
+  <figcaption>Slow collisions bounce apart; collisions with at least E_a produce a new substance.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/rates-of-reaction-and-reversible-reactions--02-rate-factors.webp" width="900" height="1154" alt="Before/after boxes show more particles per volume, a gas squeezed by a piston, a cube crushed into eight (area doubles), and more particles with enough energy at higher temperature." loading="lazy">
+  <figcaption>Each factor increases collision frequency or the share of collisions with enough energy.</figcaption>
+</figure>
+
+
 ### Catalysts (3.12, 3.13)
 
 A **catalyst** increases the rate of a reaction but is **chemically unchanged** at the end. It works by providing an **alternative pathway** with a **lower activation energy**, so a larger proportion of collisions are successful.
@@ -239,6 +255,12 @@ Energy        ___                 Exothermic profile
 ```
 
 With a catalyst the peak is lower but ΔH does not change. For an endothermic profile the products end higher than the reactants. Start the Ea arrow at the reactants line, not the axis.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/rates-of-reaction-and-reversible-reactions--04-catalyst-profile.webp" width="900" height="860" alt="Energy against progress of reaction for an exothermic reaction. A high hump without a catalyst and a lower dashed hump with a catalyst; the arrow from reactants to hump top is E_a, smaller with a catalyst." loading="lazy">
+  <figcaption>A catalyst provides an alternative pathway with lower activation energy.</figcaption>
+</figure>
+
 
 ## (c) Reversible reactions and equilibria
 
@@ -276,6 +298,12 @@ In a **sealed container** nothing can escape, so a reversible reaction can reach
 
 "Dynamic" means both reactions are still happening. The concentrations are constant, not equal.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/rates-of-reaction-and-reversible-reactions--06-dynamic-equilibrium.webp" width="900" height="990" alt="Rate against time: forward rate falls, reverse rate rises from zero, and they meet and stay level. Particle boxes show 12 A at the start and 4 A plus 8 B at equilibrium with fixed numbers." loading="lazy">
+  <figcaption>At equilibrium the forward and reverse rates are equal and the amounts no longer change.</figcaption>
+</figure>
+
+
 ### Changing the conditions (3.21C, 3.22C) -- Paper 2 only
 
 **Catalyst.** A catalyst speeds up the forward and reverse reactions by the same amount, so the **position of equilibrium does not change**. Equilibrium is simply reached sooner.
@@ -298,6 +326,11 @@ Adding a catalyst → no change in the amount of SO₃ at equilibrium
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/edexcel-igcse-chemistry-4ch1-physical-chemistry--02-equilibrium-so2-shifts.webp" width="900" height="1080" alt="2SO2 + O2 in equilibrium with 2SO3 has 3 gas molecules on the left and 2 on the right, and the forward reaction is exothermic. Higher pressure shifts right, giving more SO3. Higher temperature shifts left (endothermic direction), giving less SO3. A catalyst changes both rates equally so the amount of SO3 is unchanged." loading="lazy">
   <figcaption>Pressure favours the side with fewer gas molecules, temperature favours the endothermic direction, and a catalyst changes nothing about the position.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/rates-of-reaction-and-reversible-reactions--05-hydrated-anhydrous.webp" width="900" height="970" alt="Copper(II) sulfate: blue hydrated crystals turn white when heated and blue again on adding water. Cobalt(II) chloride: pink hydrated turns blue when heated and pink again with water." loading="lazy">
+  <figcaption>Heating hydrated crystals drives off water; adding water reverses the change.</figcaption>
 </figure>
 
 

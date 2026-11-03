@@ -150,6 +150,11 @@ Reminder on required stimulus: gap of −40 and multiplier of 1.6 gives an injec
   <figcaption>A cost shock shifts SRAS left, raising prices and cutting output, without changing underlying capacity.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-macroeconomics--05-phillips-curve.webp" width="900" height="910" alt="The short-run Phillips curve slopes down, so lower unemployment (A to B) brings higher inflation. Higher expectations shift it up to SRPC2 and the economy ends at C on the vertical long-run curve at the NAIRU." loading="lazy">
+  <figcaption>In the short run there is a trade-off; in the long run unemployment returns to the NAIRU.</figcaption>
+</figure>
+
 
 ## Monetarist/supply-side view and evaluation
 

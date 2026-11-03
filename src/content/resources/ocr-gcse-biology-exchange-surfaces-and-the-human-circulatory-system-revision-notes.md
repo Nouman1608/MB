@@ -50,6 +50,17 @@ Quick recall for OCR GCSE (9-1) Gateway Science Biology A (J247), specification 
 
 **Shape example.** Both blocks 60 mm³: flat 12 × 5 × 1 mm has SA 154 mm², ratio 2.6 : 1. Compact 5 × 4 × 3 mm has SA 94 mm², ratio 1.6 : 1. Flat means higher ratio and shorter diffusion distance.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-exchange-surfaces-and-the-human-circulatory-system--06-shape-sav.webp" width="900" height="790" alt="A flat 12 by 5 by 1 mm block and a compact 5 by 4 by 3 mm block both have volume 60 cubic millimetres. The flat block has surface area 154 mm2 and ratio 2.6 to 1, the compact one 94 mm2 and 1.6 to 1." loading="lazy">
+  <figcaption>For the same volume, the flatter shape has the larger ratio.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-movement-into-and-out-of-cells--02-diffusion-factors.webp" width="900" height="1130" alt="Four paired pictures. Larger surface area: one block versus the same amount cut into four pieces. Higher temperature: short versus long movement arrows. Steeper concentration gradient: small versus big difference between two sides. Shorter distance: thick versus thin layer to cross." loading="lazy">
+  <figcaption>Diffusion is faster with more surface area, higher temperature, a steeper gradient and a shorter distance.</figcaption>
+</figure>
+
+
 ## Substances moved (B2.2b)
 
 | Substance | Direction and reason |
@@ -131,6 +142,16 @@ Cardiac muscle contracts and relaxes regularly without tiring. Valves stop backf
   <figcaption>Valves open and close in turn so blood only moves one way.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-transport-in-animals--04-blood-vessels.webp" width="900" height="1230" alt="Cross-sections of an artery (thick muscular elastic wall, narrow lumen), a vein (thin wall, wide lumen) and a capillary (wall one cell thick, very narrow lumen), plus a side view of a vein valve. Extended notes link structure to pressure and function." loading="lazy">
+  <figcaption>Wall thickness and lumen size are matched to the job of each vessel.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-transport-in-animals--05-capillary-exchange.webp" width="900" height="740" alt="A capillary with a wall one cell thick runs past body cells. Oxygen and glucose pass out of the blood to the cells; carbon dioxide and other wastes pass from the cells into the blood." loading="lazy">
+  <figcaption>Capillaries bring blood close to every cell so substances can be exchanged.</figcaption>
+</figure>
+
 
 ## Blood (B2.2e)
 
@@ -144,6 +165,11 @@ Cardiac muscle contracts and relaxes regularly without tiring. Valves stop backf
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/ocr-gcse-biology-exchange-surfaces-and-the-human-circulatory-system--08-red-cell-adaptations.webp" width="900" height="910" alt="Side view of a red blood cell as a biconcave disc, thinner in the middle, with no nucleus and haemoglobin dots inside. Oxygen molecules diffuse in across the large surface, and notes give the three adaptations in the lesson." loading="lazy">
   <figcaption>A biconcave, nucleus-free, flexible cell carries oxygen as haemoglobin.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-transport-in-animals--06-blood-components.webp" width="900" height="1150" alt="Four parts of blood. Red blood cells carry oxygen, have no nucleus and a pale centre. White blood cells do phagocytosis and make antibodies and have a nucleus; Extended: lymphocytes (large round nucleus) make antibodies and phagocytes (lobed nucleus) engulf pathogens. Platelets are fragments that help clotting. Plasma carries cells, ions, nutrients, urea, hormones and carbon dioxide." loading="lazy">
+  <figcaption>Red cells, white cells, platelets and plasma each have a job in the blood.</figcaption>
 </figure>
 
 
@@ -167,16 +193,6 @@ Rate = amount ÷ time. A pulse of 41 beats in 30 s is 41 × 2 = 82 beats per min
 Cubes of agar with indicator are placed in acid. After a set time the acid has reached 2 mm in from every face. For a 10 mm cube the unaffected core is 10 − 4 = 6 mm across, so its volume is 6 × 6 × 6 = 216 mm³. The cube volume is 1000 mm³, so 21.6% is unaffected and 78.4% has been reached. For a 20 mm cube the core is 16 mm across: 4096 mm³ of 8000 mm³, so 51.2% unaffected and 48.8% reached.
 
 Conclusion: the smaller cube is reached more completely in the same time because it has the larger SA : V ratio and a shorter distance from surface to centre. This is the model for why large organisms need transport systems.
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ocr-gcse-biology-exchange-surfaces-and-the-human-circulatory-system--05-sav-cubes.webp" width="900" height="980" alt="Cubes with sides 1, 6, 12 and 24 mm are drawn to scale. A bar chart shows surface area to volume falling from 6 to 1, 0.5 and 0.25." loading="lazy">
-  <figcaption>As a cube gets bigger its surface area to volume ratio falls.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ocr-gcse-biology-exchange-surfaces-and-the-human-circulatory-system--06-shape-sav.webp" width="900" height="790" alt="A flat 12 by 5 by 1 mm block and a compact 5 by 4 by 3 mm block both have volume 60 cubic millimetres. The flat block has surface area 154 mm2 and ratio 2.6 to 1, the compact one 94 mm2 and 1.6 to 1." loading="lazy">
-  <figcaption>For the same volume, the flatter shape has the larger ratio.</figcaption>
-</figure>
 
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/ocr-gcse-biology-exchange-surfaces-and-the-human-circulatory-system--04-agar-cube-acid.webp" width="900" height="845" alt="Cross-sections of a 10 mm and a 20 mm agar cube left in acid for the same time. The small cube has a ratio of 0.6 to 1 and 93.6 percent has changed colour; the large cube has 0.3 to 1 and 65.7 percent has changed." loading="lazy">
@@ -223,8 +239,8 @@ Conclusion: the smaller cube is reached more completely in the same time because
 10. Their total cross-sectional area is much larger than the aorta's.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-biology-movement-into-and-out-of-cells--02-diffusion-factors.webp" width="900" height="1130" alt="Four paired pictures. Larger surface area: one block versus the same amount cut into four pieces. Higher temperature: short versus long movement arrows. Steeper concentration gradient: small versus big difference between two sides. Shorter distance: thick versus thin layer to cross." loading="lazy">
-  <figcaption>Diffusion is faster with more surface area, higher temperature, a steeper gradient and a shorter distance.</figcaption>
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-exchange-surfaces-and-the-human-circulatory-system--05-sav-cubes.webp" width="900" height="980" alt="Cubes with sides 1, 6, 12 and 24 mm are drawn to scale. A bar chart shows surface area to volume falling from 6 to 1, 0.5 and 0.25." loading="lazy">
+  <figcaption>As a cube gets bigger its surface area to volume ratio falls.</figcaption>
 </figure>
 
 

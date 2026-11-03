@@ -175,6 +175,12 @@ Diseconomy. Total cost is £4,200 at 1,400 units, so average unit cost is £3.00
 
 Always test the suggestion against the facts in the stem. The same method can suit one business and not another.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-business-expanding-a-business--05-franchise-income.webp" width="900" height="760" alt="An outlet has sales of 180,000 pounds. The franchisor receives a 6 percent share, 10,800 pounds, plus a 15,000 pound initial fee, a year 1 total of 25,800 pounds." loading="lazy">
+  <figcaption>The franchisor gains £25,800 in year 1 without paying for the premises.</figcaption>
+</figure>
+
+
 ## Applying and evaluating
 
 - Name the method, then explain a benefit and a drawback in the context of the case study.

@@ -61,11 +61,6 @@ Test yourself with the [practice questions](/resources/ib-dp-mathematics-aa-sl-l
 - **Roots / zeros:** solutions of f(x) = 0; the x-intercepts of y = f(x).
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ib-dp-mathematics-aa-sl-lines-functions-quadratics--02-domain-and-range.webp" width="900" height="810" alt="Graph of f(x) = 3 + root(x + 4) starting at (-4, 3). The domain, on the x-axis, is x at least -4 because the root needs x + 4 at least 0. The range, on the y-axis, is f(x) at least 3." loading="lazy">
-  <figcaption>A quick sketch shows the range: here it starts at 3, not at all real numbers.</figcaption>
-</figure>
-
-<figure class="topic-figure">
   <img src="https://img.marlbridge.com/ib-dp-mathematics-aa-sl-lines-functions-quadratics--03-composite-order.webp" width="900" height="810" alt="Two function machines with f(x) = 3x - 2 and g(x) = x squared + 1. Input 2 through g then f gives 5 then 13; through f then g gives 4 then 17. The composites are 3x squared + 1 and 9x squared - 12x + 5, so the order matters." loading="lazy">
   <figcaption>(f o g)(2) = 13 but (g o f)(2) = 17: apply the inner function first.</figcaption>
 </figure>
@@ -162,6 +157,11 @@ Test yourself with the [practice questions](/resources/ib-dp-mathematics-aa-sl-l
   <figcaption>Perpendicular gradients are negative reciprocals, so they multiply to -1.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-aa-sl-lines-functions-quadratics--09-quadratic-inequality.webp" width="900" height="890" alt="Graph of y = (x - 4)(x + 3) with roots -3 and 4. The curve is above the x-axis for x &lt; -3 and x &gt; 4; those parts of the axis are highlighted with open circles at -3 and 4." loading="lazy">
+  <figcaption>An upward parabola is above the axis outside its roots, so x &lt; -3 or x &gt; 4.</figcaption>
+</figure>
+
 
 ## Small worked reminders
 
@@ -221,8 +221,18 @@ Paper 1 allows no technology; Paper 2 requires it. With a GDC, find zeros, maxim
 12. **(x − 5)² − 7**
 
 <figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-aa-sl-lines-functions-quadratics--02-domain-and-range.webp" width="900" height="810" alt="Graph of f(x) = 3 + root(x + 4) starting at (-4, 3). The domain, on the x-axis, is x at least -4 because the root needs x + 4 at least 0. The range, on the y-axis, is f(x) at least 3." loading="lazy">
+  <figcaption>A quick sketch shows the range: here it starts at 3, not at all real numbers.</figcaption>
+</figure>
+
+<figure class="topic-figure">
   <img src="https://img.marlbridge.com/ib-dp-mathematics-aa-sl-lines-functions-quadratics--07-discriminant-cases.webp" width="900" height="1010" alt="Three parabolas y = x^2 - 4x + c. For c = 3 the discriminant is 4 and the curve crosses the x-axis at 1 and 3. For c = 4 it is 0 and the curve touches the axis at 2. For c = 5 it is -4 and the curve stays above the axis." loading="lazy">
   <figcaption>Delta &gt; 0, = 0 and &lt; 0 mean two, one repeated and no real roots.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-aa-sl-lines-functions-quadratics--08-discriminant-k.webp" width="900" height="970" alt="Graph of Delta = -4(k - 4)(k + 1) against k, an inverted parabola crossing the k-axis at -1 and 4. Between them Delta is positive (two distinct roots, but k = 0 excluded as the equation is then linear); at -1 and 4 it is zero; outside, negative." loading="lazy">
+  <figcaption>The sign of the discriminant gives the ranges of k, with k = 0 excluded.</figcaption>
 </figure>
 
 
@@ -238,12 +248,6 @@ Paper 1 allows no technology; Paper 2 requires it. With a GDC, find zeros, maxim
 - Writing the vertex of a(x + h)² + k as (h, k) instead of (−h, k).
 - Giving the region between the roots of a quadratic inequality when the sketch shows it is outside them (or the reverse).
 - Forgetting that k making the x² coefficient zero turns the quadratic into a linear equation.
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ib-dp-mathematics-aa-sl-lines-functions-quadratics--09-quadratic-inequality.webp" width="900" height="890" alt="Graph of y = (x - 4)(x + 3) with roots -3 and 4. The curve is above the x-axis for x &lt; -3 and x &gt; 4; those parts of the axis are highlighted with open circles at -3 and 4." loading="lazy">
-  <figcaption>An upward parabola is above the axis outside its roots, so x &lt; -3 or x &gt; 4.</figcaption>
-</figure>
-
 
 ## Official syllabus
 

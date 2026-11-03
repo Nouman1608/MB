@@ -174,6 +174,12 @@ sin x = 1   → x = 90°
 
 **Worked example 8.** Solve tan(θ + 45°) = 4 for 0 ≤ θ < 180°. Expand: (tan θ + 1)/(1 − tan θ) = 4, so tan θ + 1 = 4 − 4 tan θ, giving tan θ = 3/5 and θ = **31.0°**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-mathematics-reciprocal-and-inverse-trig-functions-identities--09-solve-sin-symmetry.webp" width="900" height="960" alt="Sine graph with the line y = −0.4 meeting it at 203.6° and 336.4°, each a reference angle α = 23.58° from 180° and 360°. The calculator value −23.58° is outside the interval." loading="lazy">
+  <figcaption>Find the reference angle, then use symmetry to list every solution in the interval.</figcaption>
+</figure>
+
+
 ## 1.05m: geometrical proofs
 
 You should understand where the formulae come from. Here is a proof of sin(A + B) for acute A and B.
@@ -244,12 +250,6 @@ x = 23.2°, 136.8°, 203.2°, 316.8°
 ```
 
 A doubled angle gives twice as many solutions.
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ocr-a-level-mathematics-reciprocal-and-inverse-trig-functions-identities--09-solve-sin-symmetry.webp" width="900" height="960" alt="Sine graph with the line y = −0.4 meeting it at 203.6° and 336.4°, each a reference angle α = 23.58° from 180° and 360°. The calculator value −23.58° is outside the interval." loading="lazy">
-  <figcaption>Find the reference angle, then use symmetry to list every solution in the interval.</figcaption>
-</figure>
-
 
 ## 1.05p: proof
 

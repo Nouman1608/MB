@@ -88,6 +88,21 @@ Objectives should be **SMART**. Corporate objectives include profit maximisation
   <figcaption>Drivers that make each force weaker or stronger.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-business-models-of-strategic-choice--04-generic-strategies-grid.webp" width="900" height="970" alt="A two by two grid of source of advantage (lower cost, differentiation) against scope (whole market, narrow segment), naming cost leadership, cost focus, differentiation and differentiation focus, with Seabright in cost leadership and Ironwell in differentiation focus." loading="lazy">
+  <figcaption>The generic strategies combine a source of advantage with a market scope.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-business-models-of-strategic-choice--11-models-usefulness.webp" width="900" height="910" alt="For and against each model; use as a diagnosis not a recipe." loading="lazy">
+  <figcaption>Strengths and limits of the two models.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-business-models-of-strategic-choice--12-models-linked-piperwick.webp" width="900" height="920" alt="Piperwick top three customers are 62.5 percent of sales, so buyer power is strong, so differentiate through reliability and service contracts." loading="lazy">
+  <figcaption>Each model tests the other.</figcaption>
+</figure>
+
 
 ## Ansoff's Matrix
 
@@ -97,6 +112,12 @@ Objectives should be **SMART**. Corporate objectives include profit maximisation
 | **New market** | **Market development** | **Diversification** — highest risk |
 
 Risk rises as you move away from what the business already knows. **Diversification is riskiest because both the product and the market are unfamiliar** — the business has no existing competence in either.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-business-managers-leadership-decision-making--06-ansoff-matrix.webp" width="900" height="880" alt="Two by two grid of existing and new products against existing and new markets: market penetration (lowest risk), product development and market development (higher risk), diversification (highest risk)." loading="lazy">
+  <figcaption>Ansoff’s matrix ranks growth options by risk; moving into new products and new markets together is riskiest.</figcaption>
+</figure>
+
 
 ## Decision trees
 
@@ -123,6 +144,16 @@ Option A is recommended, since its net gain (£78,000) exceeds Option B's (£43,
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/a-business-strategy-revision-notes--01-decision-tree-worked.webp" width="900" height="1050" alt="A decision square branches to Option A costing 50,000 and Option B costing 30,000. A has a 0.6 chance of 200,000 and 0.4 of 20,000, so expected value 128,000. B has 0.7 of 100,000 and 0.3 of 10,000, so expected value 73,000. Net gains are 78,000 and 43,000, so A is recommended." loading="lazy">
   <figcaption>Expected values are worked right to left, then cost is subtracted to give net gain.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-business-managers-leadership-decision-making--03-decision-tree.webp" width="900" height="1020" alt="Decision tree: launching costs 300 thousand pounds and leads to success (60 percent, 800) or failure (40 percent, 200). Expected value 560, net gain 260. An illustrative do-nothing branch worth 0 is shown dashed." loading="lazy">
+  <figcaption>Expected value is the sum of probability times payoff; net gain subtracts the cost of the option.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-business-decision-making-and-decision-trees--04-dt-two-stage-tree.webp" width="900" height="1170" alt="A decision tree: launch (cost 60,000) or not. High demand (0.4) leads to a second decision, stay for 140,000 or expand for 30,000 with 0.7 chance of 300,000 and 0.3 of 120,000; low demand (0.6) gives 50,000. Working right to left gives 216,000 for expanding, 116,400 at the launch node and a net gain of 56,400." loading="lazy">
+  <figcaption>Work right to left: solve the later decision first, then the first chance node.</figcaption>
 </figure>
 
 
@@ -164,12 +195,43 @@ Neither payback nor ARR discounts these cash flows, so both treat a pound receiv
   <figcaption>A higher discount rate turns an accept into a reject, so NPV is only as good as its rate.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-business-investment-appraisal-and-finance-and-accounting-strategy--05-ia-method-compare.webp" width="900" height="1010" alt="Mini charts compare payback (stops at repayment), ARR (average) and NPV (discounted flows). Payback uses neither all years nor timing, ARR uses all years but not timing, NPV uses both. Qualitative factors to add: strategy fit, employees, brand, environment, reliable forecasts, competitors, flexibility, funding." loading="lazy">
+  <figcaption>Each appraisal method uses and ignores different information, so add qualitative judgement.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-business-investment-appraisal-and-finance-and-accounting-strategy--04-ia-valdrick-npv.webp" width="900" height="964" alt="Each cash flow is shrunk by its discount factor: 54,540; 74,340; 90,120; 54,640; 31,050 and 18,630 for the resale. They total 323,320; less the 240,000 cost (not discounted) leaves an NPV of 83,320 pounds." loading="lazy">
+  <figcaption>Project A at 10% has a net present value of £83,320.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-business-ansoffs-matrix-and-conflicts-in-business-decision-making--01-tools-cumulative-cash.webp" width="900" height="730" alt="Line chart of cumulative net cash (thousand pounds) over five years for two 200 thousand pound projects. A reaches zero at 2.0 years then flattens to plus 80. B reaches zero at 3.09 years, overtakes A near year 3.6 and ends at plus 230." loading="lazy">
+  <figcaption>Project A recovers its cost sooner, but Project B ends far ahead.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-investment-appraisal--07-ia-same-arr-timing.webp" width="900" height="940" alt="Line A returns 120, 80, 40 and 20 thousand on a 200 thousand cost: ARR 7.5%, payback 2.0 years. The same returns reversed give ARR 7.5% but payback 3.5 years, showing ARR ignores timing." loading="lazy">
+  <figcaption>Same ARR, very different payback.</figcaption>
+</figure>
+
 
 ## Risk and uncertainty
 
 **Risk** can be quantified with probabilities; **uncertainty** cannot. That distinction matters because decision trees and expected values handle risk, but not uncertainty — and most genuinely strategic decisions involve uncertainty.
 
 **Contingency planning** and **crisis management** address what cannot be predicted: business continuity plans, succession planning, insurance, and diversified suppliers.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-business-enterprise--08-en-risk-uncertainty.webp" width="900" height="770" alt="Risk: outcomes and odds can be estimated, shown by a pie chart; manage with research and insurance. Uncertainty: no reliable odds, shown by question marks; manage with flexibility and contingency plans." loading="lazy">
+  <figcaption>Risk can be estimated; uncertainty cannot.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-business-contingency-planning-and-crisis-management--02-cp-before-during-after.webp" width="900" height="1030" alt="A timeline in three columns. Before the event, contingency planning spots and rates risks, assigns roles and tests the plan. During, crisis management puts people first, names one decision-maker and spokesperson and tells stakeholders. After, it restores operations, rebuilds confidence, reviews and updates the plan." loading="lazy">
+  <figcaption>Contingency planning happens before an event; crisis management happens during and after it.</figcaption>
+</figure>
+
 
 ## Answering strategy questions
 
@@ -195,3 +257,9 @@ Then judge, and say what the judgement **depends on**. "It depends on whether th
 5. Why is NPV theoretically superior to ARR?
 
 **Answers:** 1. Strengths and weaknesses are internal; opportunities and threats are external. 2. The attractiveness and profitability of an *industry*, not the competitive strength of an individual firm. 3. Both the product and the market are new to the business, so it has no existing competence in either. 4. Probabilities are estimates and often subjective; the model ignores qualitative factors such as morale and reputation — also that it assumes outcomes are quantifiable and ignores timing. 5. It discounts future cash flows to present value, accounting for the time value of money, which ARR ignores entirely.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-business-ansoffs-matrix-and-conflicts-in-business-decision-making--13-five-step-judgement.webp" width="900" height="926" alt="Five numbered steps using Truvane Cycles: state each tool result, explain why they differ, test the inputs (these three quantitative), bring in qualitative factors, then make a justified judgement and say what would change it." loading="lazy">
+  <figcaption>A strong evaluation moves from numbers to qualitative factors to a justified judgement.</figcaption>
+</figure>
+

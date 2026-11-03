@@ -199,12 +199,6 @@ Control rods absorb neutrons. Lowering them slows the reaction; raising them let
 | Before it happens | A neutron is absorbed | Repulsion is overcome |
 | Used in | Reactors | Stars |
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/oxfordaqa-igcse-physics-half-life-contamination-nuclear-fission-and-fusion--03-fusion-conditions.webp" width="900" height="940" alt="Two positively charged nuclei, hydrogen-2 and hydrogen-3, move towards each other but repel. Very high temperature and pressure let them get close enough to fuse into helium-4, a neutron and energy. Mass number 2 + 3 = 4 + 1 and proton number 1 + 1 = 2." loading="lazy">
-  <figcaption>Fusion needs very high temperature and pressure to overcome the repulsion between positive nuclei.</figcaption>
-</figure>
-
-
 ## Quick self-test
 
 1. A sample has 5.0 × 10¹⁰ nuclei and a half-life of 3 hours. How many remain undecayed after 12 hours?
@@ -230,6 +224,12 @@ Control rods absorb neutrons. Lowering them slows the reaction; raising them let
 8. Absorb a neutron, which makes it unstable.
 9. They absorb fission neutrons so that on average only one neutron per fission goes on to cause another, keeping the rate steady.
 10. The positive nuclei repel each other. High temperature gives them enough speed to get close; high pressure packs them close together.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-physics-half-life-contamination-nuclear-fission-and-fusion--03-fusion-conditions.webp" width="900" height="940" alt="Two positively charged nuclei, hydrogen-2 and hydrogen-3, move towards each other but repel. Very high temperature and pressure let them get close enough to fuse into helium-4, a neutron and energy. Mass number 2 + 3 = 4 + 1 and proton number 1 + 1 = 2." loading="lazy">
+  <figcaption>Fusion needs very high temperature and pressure to overcome the repulsion between positive nuclei.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

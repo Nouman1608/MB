@@ -103,6 +103,11 @@ Method in steps:
 
 **Memory hook.** Anything that raises cost per unit shifts S left. Anything that lowers cost per unit, or adds producers, shifts S right.
 
+## Related goods in one line each
+
+- **Competitive supply**: same inputs, either good. Oats up in price, wheat supply down.
+- **Joint supply**: produced together. Lamb up in price, wool supply up.
+
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/ib-dp-economics-supply--12-sup-tax-subsidy-shift.webp" width="900" height="890" alt="A per-unit tax of 2 shifts supply up by 2, so 70 thousand litres needs 8 not 6. A subsidy of 2 shifts it down, so 70 needs 4. At price 6 supply is 70, 40 with tax and 100 with subsidy." loading="lazy">
   <figcaption>A tax shifts supply up by its amount; a subsidy shifts it down.</figcaption>
@@ -123,11 +128,6 @@ Method in steps:
   <figcaption>A shift of the whole supply curve is caused by costs of production, technology or the number of sellers.</figcaption>
 </figure>
 
-
-## Related goods in one line each
-
-- **Competitive supply**: same inputs, either good. Oats up in price, wheat supply down.
-- **Joint supply**: produced together. Lamb up in price, wool supply up.
 
 ## Tax and subsidy on the diagram
 

@@ -39,6 +39,12 @@ Quick recall for sections 3.1 Introduction to finance and 3.2 Sources of finance
 | Collateral | An asset pledged to a lender as security for a loan |
 | Dilution | A fall in each existing owner's percentage share when new shares are issued |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-introduction-to-finance-and-sources-of-finance--02-share-issue-ownership.webp" width="900" height="840" alt="Before the issue the founder holds all 60,000 shares. After 20,000 new shares are issued at 5 dollars there are 80,000 shares: the founder holds 75 percent and investors 25 percent. The business gains 100,000 dollars that never has to be repaid." loading="lazy">
+  <figcaption>Issuing shares raises money that is never repaid but gives away part of the ownership.</figcaption>
+</figure>
+
+
 ## 3.1 in a nutshell
 
 - Role of finance: start-up costs, day-to-day cash needs, and growth or change. It also gives a cushion in a poor period.
@@ -113,11 +119,6 @@ Small example: Mossby Signs buys a cutting machine for USD 12,000 and a large-fo
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/ib-dp-business-management-introduction-to-finance-and-sources-of-finance--02-retained-profit-funding.webp" width="900" height="920" alt="Waterfall chart in dollars: profit before tax 58,000, tax 11,600, dividends 20,000 leaves retained profit 26,400. Ten e-bikes cost 40,000, so there is a gap of 13,600 and retained profit covers 66 percent." loading="lazy">
   <figcaption>Retained profit is what is left after tax and dividends, and it may not cover the whole purchase.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ib-dp-business-management-introduction-to-finance-and-sources-of-finance--02-share-issue-ownership.webp" width="900" height="840" alt="Before the issue the founder holds all 60,000 shares. After 20,000 new shares are issued at 5 dollars there are 80,000 shares: the founder holds 75 percent and investors 25 percent. The business gains 100,000 dollars that never has to be repaid." loading="lazy">
-  <figcaption>Issuing shares raises money that is never repaid but gives away part of the ownership.</figcaption>
 </figure>
 
 

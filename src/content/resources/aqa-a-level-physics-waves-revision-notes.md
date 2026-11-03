@@ -123,6 +123,11 @@ AQA uses "first harmonic", not "fundamental", and does not use "overtone".
 </figure>
 
 <figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-physics-waves--04-aphy-waves-string-harmonics.webp" width="900" height="1060" alt="First, second and third harmonics on a string fixed at both ends have 1, 2 and 3 loops, with lambda = 2L/n. For L = 0.80 m, T = 40 N and mu = 2.5e-3 kg/m the wave speed is 126.5 m/s and the first harmonic is 79.1 Hz, giving 158 Hz and 237 Hz. Quadrupling the tension doubles the frequency." loading="lazy">
+  <figcaption>Harmonic n has n loops and frequency n times the first; f1 = (1/2l)sqrt(T/mu).</figcaption>
+</figure>
+
+<figure class="topic-figure">
   <img src="https://img.marlbridge.com/aqa-a-level-physics-waves--05-aphy-waves-air-columns.webp" width="900" height="1080" alt="Displacement patterns for a tube 0.375 m long: closed at one end it has a node at the closed end and an antinode at the open end, giving only odd harmonics (227, 680, 1130 Hz). Open at both ends it has antinodes at each end and all harmonics (453, 907 Hz), so it sounds an octave higher." loading="lazy">
   <figcaption>A closed tube supports only odd harmonics; an open tube has twice the fundamental frequency.</figcaption>
 </figure>
@@ -216,12 +221,6 @@ Central maximum **wider** if λ increases or slit width decreases.
 10. sin θ₂ = sin 50°/1.33 = 0.576, θ₂ = **35.2°**.
 11. sin θc = 1/1.60 = 0.625, θc = **38.7°**.
 12. Total internal reflection only happens when light meets a boundary with a medium of **lower** refractive index.
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/aqa-a-level-physics-waves--04-aphy-waves-string-harmonics.webp" width="900" height="1060" alt="First, second and third harmonics on a string fixed at both ends have 1, 2 and 3 loops, with lambda = 2L/n. For L = 0.80 m, T = 40 N and mu = 2.5e-3 kg/m the wave speed is 126.5 m/s and the first harmonic is 79.1 Hz, giving 158 Hz and 237 Hz. Quadrupling the tension doubles the frequency." loading="lazy">
-  <figcaption>Harmonic n has n loops and frequency n times the first; f1 = (1/2l)sqrt(T/mu).</figcaption>
-</figure>
-
 
 ## Where marks are usually lost
 

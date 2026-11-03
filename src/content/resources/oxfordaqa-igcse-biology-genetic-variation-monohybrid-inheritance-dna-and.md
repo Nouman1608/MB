@@ -153,6 +153,11 @@ Genetic diagrams are **models**. They predict probabilities. They do not say wha
   <figcaption>Crossing with a recessive plant reveals whether a dominant-looking parent is AA or Aa.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-inheritance--05-monohybrid-3-to-1.webp" width="900" height="1229" alt="Punnett square for two heterozygous green beetles (Gg x Gg) giving GG, Gg, Gg, gg: three green to one brown. From 160 offspring expect 120 green and 40 brown; real results are close, not exact." loading="lazy">
+  <figcaption>Two heterozygous parents give a 3 : 1 phenotype ratio.</figcaption>
+</figure>
+
 
 ## Mendel and monohybrid inheritance
 
@@ -196,6 +201,11 @@ Persons 1 and 2 are both affected but have an unaffected child, so the allele is
   <figcaption>Two affected parents with an unaffected child show a dominant allele.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-inheritance--07-pedigree-recessive.webp" width="900" height="1140" alt="Pedigree: two unaffected parents have an affected daughter (shaded circle), so the condition is recessive and both parents are Aa. A Aa x Aa Punnett square gives a 1 in 4 chance of aa for each further child." loading="lazy">
+  <figcaption>Unaffected parents with an affected child show the allele is recessive.</figcaption>
+</figure>
+
 
 ## DNA, genes and proteins (3.5.3 h to k)
 
@@ -213,6 +223,11 @@ There are 4 × 4 × 4 = 64 different triplets of four bases, enough to code for 
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/oxfordaqa-igcse-biology-genetic-variation-monohybrid-inheritance-dna-and--11-triplet-code-reading.webp" width="900" height="860" alt="The invented sequence WXYZZWXWY splits into WXY, ZZW, XWY, giving amino acids 1, 2, 3. A 150 amino acid protein needs at least 450 bases. Four bases give 64 triplets." loading="lazy">
   <figcaption>Split the bases into threes first, then read each triplet as one amino acid.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-inheritance--03-gene-to-protein.webp" width="900" height="1120" alt="Extended. The gene stays in the nucleus; a copy of it, mRNA, is made and moves out through a pore to the cytoplasm; a ribosome joins amino acids in the order set by the mRNA bases; the chain folds into a protein whose shape decides what it does." loading="lazy">
+  <figcaption>mRNA carries the gene’s base sequence to a ribosome, which sets the order of amino acids in the protein.</figcaption>
 </figure>
 
 

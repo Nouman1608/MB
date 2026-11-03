@@ -138,6 +138,26 @@ When solving trigonometric equations, find **all** solutions in the stated inter
   <figcaption>The tangent is perpendicular to the radius, and the normal runs along it through the centre.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-mathematics-pure-mathematics-1-coordinate-geometry--06-chord-bisector-centre.webp" width="900" height="1070" alt="Chord AB with A(2,1), B(6,5); its perpendicular bisector y=-x+7 meets y=x-3 at the centre (5,2); d^2 + half-chord^2 = r^2. AQA worked example 5." loading="lazy">
+  <figcaption>The centre always lies on the perpendicular bisector of any chord, so two chords fix the centre.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-mathematics-pure-mathematics-1-coordinate-geometry--05-angle-in-semicircle.webp" width="900" height="1046" alt="Circle with diameter PQ, P(1,7), Q(7,-1), point R(8,6): gradients -1/7 and 7 multiply to -1, so angle PRQ is 90 degrees." loading="lazy">
+  <figcaption>A diameter subtends a right angle at any other point of the circle, which can be proved with gradients.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-mathematics-pure-mathematics-1-coordinate-geometry--04-is-it-a-circle.webp" width="900" height="1070" alt="Equation x^2+y^2-4x+6y+k=0 completes to (x-2)^2+(y+3)^2=13-k: circles for k=0 and 9, a point at k=13 and nothing for k&gt;13." loading="lazy">
+  <figcaption>After completing the square the right-hand side is r squared, so it must be positive for a circle to exist.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-maths-9709-pure-mathematics-1-circular-measure--05-ambiguous-case.webp" width="900" height="890" alt="Angle A = 34°, a = 9, b = 13. A circle of radius 9 centred on C meets the line through A at two points, giving two triangles: B = 126.1° with c = 5.47, and B = 53.9° with c = 16.1. Two triangles exist when b sin A &lt; a &lt; b, here 7.27 &lt; 9 &lt; 13." loading="lazy">
+  <figcaption>Two sides and a non-included angle can fit two different triangles.</figcaption>
+</figure>
+
 
 ## Differentiation (P1)
 
@@ -168,6 +188,26 @@ Completing the square gives (x − 4)² − 13, confirming the same turning poin
   <figcaption>The lesson worked example drawn on its graph.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-maths-9709-pure-mathematics-1-differentiation--01-chord-to-tangent.webp" width="900" height="880" alt="Graph of y = 2x squared. Point P is at x = 3, y = 18. Three chords from P to points a distance h to the right (h = 1, 0.5, 0.25) get closer to the gold tangent line as h shrinks. The chord gradient is 12 + 2h: 14, 13, 12.2 and 12.02 for h = 1, 0.5, 0.1 and 0.01. As h tends to 0 the gradient tends to 12, the gradient of the curve at x = 3, which agrees with dy/dx = 4x." loading="lazy">
+  <figcaption>How chord gradients 12 + 2h approach the tangent gradient 12 at x = 3 on y = 2x².</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-maths-9709-pure-mathematics-1-differentiation--04-tangent-and-normal.webp" width="900" height="942" alt="Graph of y = square root of (2x + 5) with equal scales on both axes. At P(2, 3) the gradient is one third, so the gold tangent is 3y = x + 7. The teal normal is perpendicular, with gradient minus 3, y = 9 minus 3x, and crosses the x-axis at (3, 0). A right-angle mark at P shows the lines are perpendicular because one third times minus 3 equals minus 1." loading="lazy">
+  <figcaption>The tangent and normal at P(2, 3) are perpendicular because their gradients multiply to −1.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-mathematics-stationary-points-definite-integrals-areas-and-the--01-gradient-sign-nature.webp" width="900" height="870" alt="Graph of y = x^3 - 9x^2 + 15x + 8 with the gradient sign marked in three zones. The curve increases for x &lt; 1, decreases for 1 &lt; x &lt; 5 and increases for x &gt; 5. It has a maximum at (1, 15) and a minimum at (5, -17), both with horizontal tangents." loading="lazy">
+  <figcaption>The sign of dy/dx either side of a stationary point tells you whether it is a maximum or a minimum.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-mathematics-stationary-points-definite-integrals-areas-and-the--02-second-derivative-zero.webp" width="900" height="850" alt="Graph of y = 3x^5 - 5x^3 with a maximum at (-1, 2) and minimum at (1, -2). At the origin f″ = 0 so the second-derivative test fails; the gradient is -2.8125 at x = -0.5 and x = 0.5 and 0 at x = 0, so the origin is a point of inflection." loading="lazy">
+  <figcaption>When f″(x) = 0, check the gradient on both sides: the same sign means a point of inflection.</figcaption>
+</figure>
+
 
 ## Integration
 
@@ -193,12 +233,6 @@ The curve lies entirely below the axis on this interval, so the signed integral 
 
 For the area between two curves, find the intersections first: they are the limits, and you integrate (upper − lower).
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/oxfordaqa-a-level-mathematics-p1-revision-notes--05-area-below-axis-x2-4.webp" width="900" height="890" alt="Parabola y = x^2 - 4 wholly below the x-axis from -2 to 2, shaded. The integral gives -32/3, so the area is its magnitude, 32/3." loading="lazy">
-  <figcaption>A region wholly below the axis: negative integral, positive area.</figcaption>
-</figure>
-
-
 ## Exam traps
 
 - Giving one condition for "always positive".
@@ -217,3 +251,19 @@ For the area between two curves, find the intersections first: they are the limi
 5. A curve lies entirely below the x-axis between x = a and x = b. Why doesn't the signed integral directly give the area, and how do you find the area?
 
 **Answers:** 1. The curve is tangent to the x-axis — one repeated root. 2. a > 0 and b² − 4ac < 0. 3. The tangent is perpendicular to the radius at the point of contact; the perpendicular bisector of a chord passes through the centre; the angle in a semicircle is 90°. 4. When d²y/dx² = 0; you must then examine the sign of the gradient on either side of the stationary point. 5. The signed integral comes out negative because the curve is below the axis throughout, so the area is the magnitude (absolute value) of that negative value. (Splitting a region at the roots and taking absolute values of each part is needed only when a region is partially above and partially below the axis -- P1 will not set that case.)
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-mathematics-p1-revision-notes--05-area-below-axis-x2-4.webp" width="900" height="890" alt="Parabola y = x^2 - 4 wholly below the x-axis from -2 to 2, shaded. The integral gives -32/3, so the area is its magnitude, 32/3." loading="lazy">
+  <figcaption>A region wholly below the axis: negative integral, positive area.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-maths-9709-pure-mathematics-1-integration--01-constant-of-integration.webp" width="900" height="748" alt="Three curves y = 3√(4x + 1) + c are vertical shifts of each other with identical gold tangents at x = 2. Only c = 1 passes through (2, 10), so a point on the curve fixes the constant. This is the lesson's worked example 5." loading="lazy">
+  <figcaption>Integrating gives a family of curves; a known point picks out one of them.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-maths-9709-pure-mathematics-1-integration--03-area-between-curves.webp" width="900" height="764" alt="The parabola y = 6x − x² and line y = 2x meet at (0, 0) and (4, 8). The region between is cut into vertical strips of height top minus bottom, 4x − x². The integral of that from 0 to 4 is 32/3." loading="lazy">
+  <figcaption>The area between two curves is the integral of the top curve minus the bottom curve.</figcaption>
+</figure>
+

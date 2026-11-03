@@ -147,20 +147,16 @@ y = 12(1.5) - 5(1.5)² = 18 - 11.25 = 6.75
   <figcaption>Substituting times into both equations gives positions; the path is a parabola.</figcaption>
 </figure>
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ocr-a-level-mathematics-parametric-equations-of-curves-and-their-use-in--09-wheel-model.webp" width="900" height="1184" alt="x = 14sin(pi t/15), y = 16 - 14cos(pi t/15) is a circle centre (0,16) radius 14, lowest 2 m, highest 30 m, period 30 s; above 25 m for 10.83 &lt; t &lt; 19.17, about 8.33 s per turn." loading="lazy">
-  <figcaption>The seat moves round a circle, and the heights above 25 m form one arc.</figcaption>
-</figure>
+
+## Paths versus objects
+
+To find where two **paths** cross, eliminate the parameter in each and solve the Cartesian equations together. To find whether two **objects** meet, the parameters must also be equal at that point, because the objects must be there at the same time. Two paths can cross with no collision.
 
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/ocr-a-level-mathematics-parametric-equations-of-curves-and-their-use-in--10-meet-or-cross.webp" width="900" height="1152" alt="P (2t,t^2) and Q (10-2s,4s-8) have paths crossing at (4,4); P is there at t=2 but Q at s=3, so they do not meet." loading="lazy">
   <figcaption>Paths cross where the Cartesian equations meet; objects meet only if the times match.</figcaption>
 </figure>
 
-
-## Paths versus objects
-
-To find where two **paths** cross, eliminate the parameter in each and solve the Cartesian equations together. To find whether two **objects** meet, the parameters must also be equal at that point, because the objects must be there at the same time. Two paths can cross with no collision.
 
 ## Must-know distinctions
 
@@ -195,6 +191,12 @@ To find where two **paths** cross, eliminate the parameter in each and solve the
 8. Greatest height at cos = −1, so y = 10 + 8 = **18**, reached at t = 6. One turn is 2π ÷ (π/6) = **12 s**.
 9. x = 7 gives t = 3. Then y = 9 − 12 = −3. **Yes**, at t = 3.
 10. −1 ≤ cos θ ≤ 1, so **1 ≤ x ≤ 5**.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-mathematics-parametric-equations-of-curves-and-their-use-in--09-wheel-model.webp" width="900" height="1184" alt="x = 14sin(pi t/15), y = 16 - 14cos(pi t/15) is a circle centre (0,16) radius 14, lowest 2 m, highest 30 m, period 30 s; above 25 m for 10.83 &lt; t &lt; 19.17, about 8.33 s per turn." loading="lazy">
+  <figcaption>The seat moves round a circle, and the heights above 25 m form one arc.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

@@ -84,6 +84,11 @@ Two conditions together: find where both are true. For x < 6 and x ≥ −2 that
   <figcaption>Dividing by a negative number reverses the inequality sign, as testing values confirms.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/inequalities--03-double-inequality-integers.webp" width="900" height="990" alt="Three number lines for −7 ⩽ 3x + 2 &lt; 11. Subtracting 2 from every part gives −9 ⩽ 3x &lt; 9; dividing every part by 3 gives −3 ⩽ x &lt; 3. The integers −3, −2, −1, 0, 1, 2 are marked; 3 has an open circle and is excluded." loading="lazy">
+  <figcaption>Operate on all three parts at once, then check each endpoint separately for integer solutions.</figcaption>
+</figure>
+
 
 ## Quadratic inequalities (Extension only)
 
@@ -169,6 +174,17 @@ Method in steps:
 | x < k | To the left of a dashed vertical line |
 
 To write inequalities from a graph: find each line's equation from two points, check the line style, then test a point inside the region to choose the sign.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-mathematics-inequalities-on-number-lines-and-graphs--07-ineq-triangle-write.webp" width="900" height="950" alt="A triangle with corners (1,1), (7,1) and (3,5) with solid edges: y at least 1 along the bottom, y at most 2x - 1 along the left edge and x + y at most 8 along the right edge. The test point (3,2) satisfies all three." loading="lazy">
+  <figcaption>Find each edge line, then test an inside point to choose the sign.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/inequalities--05-reading-a-region.webp" width="900" height="970" alt="An unshaded triangle with corners (1, 0), (1, 4) and (5, 4). Its edges give x ⩾ 1 (solid, right), y &lt; 4 (broken, below) and y ⩾ x − 1 (solid, above). The test point (2, 3) satisfies all three." loading="lazy">
+  <figcaption>Name each boundary, choose solid or broken, then pick the side that holds the unshaded region.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 
@@ -266,12 +282,6 @@ Cover the answers and try each question.
 9. (3x − 1)(x + 2) ≥ 0, so **x ≤ −2 or x ≥ 1/3**.
 10. **y ≥ 3** with a solid line, and **y < 2x − 2** with a dashed line.
 11. x² − 9 ≤ 0, so **−3 ≤ x ≤ 3**.
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/oxfordaqa-igcse-mathematics-inequalities-on-number-lines-and-graphs--07-ineq-triangle-write.webp" width="900" height="950" alt="A triangle with corners (1,1), (7,1) and (3,5) with solid edges: y at least 1 along the bottom, y at most 2x - 1 along the left edge and x + y at most 8 along the right edge. The test point (3,2) satisfies all three." loading="lazy">
-  <figcaption>Find each edge line, then test an inside point to choose the sign.</figcaption>
-</figure>
-
 
 ## Where marks are usually lost
 

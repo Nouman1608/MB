@@ -57,12 +57,6 @@ These notes condense sections 3.2.3.3 (Supply-side policies) and 3.2.3.4 (Polici
 - **Deregulation:** fewer barriers → more firms → competition → lower prices and better service.
 - **Privatisation:** profit motive → cost cutting → lower costs; but profit may be put above poorer customers.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/oxfordaqa-igcse-economics-supply-side-policies-and-correcting-externalities--02-take-home-pay.webp" width="900" height="880" alt="Two bars of 2,800 monthly pay: tax 980 and keep 1,820 at 35 percent, tax 840 and keep 1,960 at 30 percent, a gain of 140. An overtime hour of 40 leaves 26 then 28." loading="lazy">
-  <figcaption>Cutting the tax rate from 35% to 30% adds 140 a month but only 2 per overtime hour.</figcaption>
-</figure>
-
-
 ## Linking to objectives
 
 | Objective | Likely effect | Possible problem |
@@ -101,6 +95,12 @@ These notes condense sections 3.2.3.3 (Supply-side policies) and 3.2.3.4 (Polici
 
 **Training bill.** 20 trainees at 1,500 each: `20 × 1,500 = 30,000`.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-economics-supply-side-policies-and-correcting-externalities--04-profit-tax-cut.webp" width="900" height="930" alt="Bar chart of tax collected from 1,000 workshops each earning 72,000. At 30 percent it is 21.6 million; at 24 percent with the same profits it is 17.28 million. To collect 21.6 million again at 24 percent each workshop needs profit of 90,000, up 25 percent." loading="lazy">
+  <figcaption>A profit tax cut pays for itself only if profits rise by a lot (25 percent in this example).</figcaption>
+</figure>
+
+
 ## Externalities: policy toolkit
 
 | Tool | Used for | How it works | Drawback |
@@ -138,6 +138,16 @@ These notes condense sections 3.2.3.3 (Supply-side policies) and 3.2.3.4 (Polici
   <figcaption>A subsidy equal to the external benefit lowers the price buyers pay and raises output from 40 to 44.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-economics-supply-side-policies-and-correcting-externalities--04-output-cap.webp" width="900" height="910" alt="Charcoal market with a vertical cap at 40 tonnes. Price is 35 and sellers keep 40 x (35 - 25) = 400 more than under the tax, which gave the 400 to the government." loading="lazy">
+  <figcaption>A 40-tonne cap gives the same quantity as the tax, but the 400 goes to sellers instead of the government.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-economics-government-microeconomic-intervention--04-corrective-tax.webp" width="900" height="900" alt="Demand (MPB) and supply (MPC) cross at price 5 and quantity 50. Marginal social cost (MSC) lies 2 above MPC and crosses demand at price 6.2, quantity 40. The triangle between 40 and 50 is the welfare loss, area 10. A tax of 2 shifts supply up onto MSC and moves output to 40." loading="lazy">
+  <figcaption>A tax equal to the external cost moves output from the market level to the socially optimal level.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 
@@ -145,12 +155,6 @@ These notes condense sections 3.2.3.3 (Supply-side policies) and 3.2.3.4 (Polici
 - **Tax and subsidy shifts:** both move the supply curve. A tax shifts it left, a subsidy shifts it right. Demand does not move.
 - **Direct and indirect taxes:** direct taxes (income, profit) are supply-side tools; indirect taxes (on goods) are the usual tool for a negative externality.
 - **Efficiency and fairness:** a policy can raise output but widen inequality.
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/oxfordaqa-igcse-economics-supply-side-policies-and-correcting-externalities--04-output-cap.webp" width="900" height="910" alt="Charcoal market with a vertical cap at 40 tonnes. Price is 35 and sellers keep 40 x (35 - 25) = 400 more than under the tax, which gave the 400 to the government." loading="lazy">
-  <figcaption>A 40-tonne cap gives the same quantity as the tax, but the 400 goes to sellers instead of the government.</figcaption>
-</figure>
-
 
 ## Quick self-test
 
@@ -177,6 +181,17 @@ These notes condense sections 3.2.3.3 (Supply-side policies) and 3.2.3.4 (Polici
 8. `8 × 400 = 3,200`.
 9. Subsidy; direct provision; information campaign.
 10. It needs inspection and punishment of breaches, and firms have a reason to hide them.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-economics-supply-side-policies-and-correcting-externalities--02-take-home-pay.webp" width="900" height="880" alt="Two bars of 2,800 monthly pay: tax 980 and keep 1,820 at 35 percent, tax 840 and keep 1,960 at 30 percent, a gain of 140. An overtime hour of 40 leaves 26 then 28." loading="lazy">
+  <figcaption>Cutting the tax rate from 35% to 30% adds 140 a month but only 2 per overtime hour.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-economics-supply-side-policies-and-correcting-externalities--03-bus-privatisation.webp" width="900" height="920" alt="Bars of cost and fare per trip: state-owned cost 12 and fare 10 (subsidy 10 million); private cost 10.5 and fare 11 (profit 2.5 million). Fare rises 10 percent." loading="lazy">
+  <figcaption>Privatising the bus company ends the 10m subsidy and makes 2.5m profit, but fares rise 10%.</figcaption>
+</figure>
+
 
 ## Evaluation prompts to keep ready
 

@@ -203,6 +203,17 @@ The order is placed at the end of week 4, when inventory hits 500. It arrives at
 
 **Amending the chart.** If sales rise to 200 tins a week from week 5, inventory falls to 300 (week 5) and 100 (week 6): 100 tins into the buffer before the delivery, which then lifts it only to 1,000. The fix is a higher re-order level or quantity.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-business-finance--02-break-even-chart.webp" width="900" height="990" alt="Break-even chart for Emberfold Candles: revenue, total costs and flat fixed costs against output. Lines cross at 800 candles and 14,400 pounds. Sales of 1,150 give a margin of safety of 350 candles and profit of 3,675 pounds." loading="lazy">
+  <figcaption>Break-even is where revenue equals total costs; the margin of safety is how far sales sit above it.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-business-finance--03-break-even-shifts.webp" width="900" height="1290" alt="Two charts with the old lines dashed. A price rise to 19.50 steepens revenue and moves break-even from 800 to 700. Fixed costs rising to 9,240 shift total costs up in parallel and move break-even to 880." loading="lazy">
+  <figcaption>A higher price lowers break-even; higher fixed costs raise it.</figcaption>
+</figure>
+
+
 ### JIT versus JIC
 
 | Just in Time | Just in Case |

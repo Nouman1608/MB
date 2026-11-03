@@ -179,6 +179,16 @@ Growth rates need care too. A poor country growing 7% from 2,400 per head gains 
   <figcaption>A high percentage growth from a low base can be a much smaller absolute gain.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-edexcel-economics-economic-growth--04-total-and-per-capita-gdp.webp" width="900" height="870" alt="Country A has total GDP of $900bn and B $300bn, so A has the bigger economy. Dividing by population (A 90m, B 20m) gives $10,000 per person in A and $15,000 in B, so B has the higher income per person." loading="lazy">
+  <figcaption>Dividing by population allows a fairer comparison of countries of different sizes.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-edexcel-economics-economic-growth--06-purchasing-power-parity.webp" width="900" height="872" alt="Country A earns $4,000 a month and a basket costs $100, so it buys 40 baskets. Country B earns $1,000 and a basket costs $40, so it buys 25. At exchange rates B looks 25% of A, but adjusted for PPP it is 62.5% of A." loading="lazy">
+  <figcaption>PPP adjusts incomes for what they buy locally, giving a truer comparison of living standards.</figcaption>
+</figure>
+
 
 ## Real GDP per head: strengths and weaknesses
 
@@ -195,6 +205,11 @@ Weaknesses, each with a consequence:
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-measuring-economic-growth-development-and-living--04-mean-vs-median-income.webp" width="900" height="850" alt="Bars for nine household incomes: 120, 140, 150, 160, 175, 190, 210, 260 and 1,295. The mean is 300 and the median 175; eight of nine households earn less than the mean." loading="lazy">
   <figcaption>One very high income pulls the mean far above the typical household.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-edexcel-economics-economic-growth--07-what-gdp-leaves-out.webp" width="900" height="880" alt="Four cards show what GDP/GNI miss: income distribution, unpaid non-market work, environmental costs, and subjective wellbeing. This is why happiness and wellbeing indicators are used alongside GDP." loading="lazy">
+  <figcaption>GDP says nothing about distribution, unpaid work, environmental costs or wellbeing.</figcaption>
 </figure>
 
 

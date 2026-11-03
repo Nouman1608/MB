@@ -32,12 +32,6 @@ These notes condense section 3.4 Computerised accounting systems (A Level) of th
 
 AS Level background (reasons for computerising, advantages, disadvantages, data security) is assumed. Revisit it in the [business entities revision notes](/resources/accounting-business-entities-revision-notes/).
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/cambridge-a-level-accounting-computerised-accounting-systems--07-changeover-approaches.webp" width="900" height="1070" alt="Three timelines show the old manual books and the new system. Direct: one switch at the cut-over date, cheapest but any fault is live. Parallel: both run for a period and results are compared, finding errors early at the cost of double work. Phased: one ledger moves at a time, keeping faults small but running two systems for longer." loading="lazy">
-  <figcaption>Each changeover approach trades the cost of running two systems against the risk to the data.</figcaption>
-</figure>
-
-
 ## The transfer in eight steps
 
 1. **Plan:** scope, people, timetable, coding scheme, changeover approach.
@@ -179,6 +173,11 @@ Paper 3 questions that ask for a recommendation or decision expect reasons on bo
 10. The keyer tends to see what they meant to type, so a second person is more likely to spot a slip.
 11. It shows one account is missing. It does not show which account or the amount.
 12. By 2 × 2,100 = 4,200.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-accounting-computerised-accounting-systems--07-changeover-approaches.webp" width="900" height="1070" alt="Three timelines show the old manual books and the new system. Direct: one switch at the cut-over date, cheapest but any fault is live. Parallel: both run for a period and results are compared, finding errors early at the cost of double work. Phased: one ledger moves at a time, keeping faults small but running two systems for longer." loading="lazy">
+  <figcaption>Each changeover approach trades the cost of running two systems against the risk to the data.</figcaption>
+</figure>
 
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/cambridge-a-level-accounting-computerised-accounting-systems--06-cas-opening-trial-balance.webp" width="900" height="1142" alt="Bars for the fourteen trial balance lines: eight debit lines and six credit lines each total 173,810 dollars, so a keying slip in the opening journal would show at once." loading="lazy">

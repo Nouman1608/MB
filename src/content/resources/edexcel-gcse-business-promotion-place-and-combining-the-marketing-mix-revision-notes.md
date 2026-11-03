@@ -153,17 +153,6 @@ Method: name the change, name the element it affects, say what the business shou
 - An integrated mix is hard for a rival to copy, because it relies on four connected decisions.
 - A mix that sends mixed messages, such as a premium product sold in a discount outlet with a low-price advert, weakens the advantage.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-business-marketing--07-marketing-mix.webp" width="900" height="1230" alt="The customer sits among four linked boxes: Product, Price, Place, Promotion. Arrows show they interact. A dashed frame shows legal controls limit all four. A premium mix needs a luxury product, high price and glossy advertising. Technology adds e-commerce and social media." loading="lazy">
-  <figcaption>The four Ps work together, within legal limits.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ocr-gcse-business-business-activity-marketing-and-people--05-mix-consistency.webp" width="900" height="930" alt="Two sets of price, packaging and retailer sliders. Consistent: all at premium. Inconsistent: premium price with budget packaging and retailer." loading="lazy">
-  <figcaption>The marketing mix must be consistent: a premium price with poor packaging and discount retailers fails.</figcaption>
-</figure>
-
-
 ## Quick self-test
 
 1. Name the five promotion strategies the specification lists.
@@ -189,6 +178,17 @@ Method: name the change, name the element it affects, say what the business shou
 8. A retailer sells to the public from a shop or similar outlet. An e-tailer sells to the public online.
 9. 12 ÷ 30 × 100 = **40%**.
 10. For example: a higher price signals quality, so promotion should stress quality and good service, aimed at customers who will pay more, instead of low-price offers.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-marketing--07-marketing-mix.webp" width="900" height="1230" alt="The customer sits among four linked boxes: Product, Price, Place, Promotion. Arrows show they interact. A dashed frame shows legal controls limit all four. A premium mix needs a luxury product, high price and glossy advertising. Technology adds e-commerce and social media." loading="lazy">
+  <figcaption>The four Ps work together, within legal limits.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-business-business-activity-marketing-and-people--05-mix-consistency.webp" width="900" height="930" alt="Two sets of price, packaging and retailer sliders. Consistent: all at premium. Inconsistent: premium price with budget packaging and retailer." loading="lazy">
+  <figcaption>The marketing mix must be consistent: a premium price with poor packaging and discount retailers fails.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

@@ -188,22 +188,6 @@ F = ma and a = (v - u) / t combine to give F = (m v - m u) / t. So force = chang
 | Force and momentum | Force changes momentum. Momentum is mass × velocity. |
 | Momentum before and after | The total is equal. One object's momentum can change. |
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ocr-gcse-physics-newtons-second-law-inertia-momentum-and-circular-motion--03-string-breaks.webp" width="900" height="880" alt="A bung whirled on a string is pulled inwards by the string. When the string breaks at the right of the circle there is no resultant force, so the bung moves off in a straight line at constant velocity." loading="lazy">
-  <figcaption>With no force the bung travels in a straight line along the tangent.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ocr-gcse-physics-newtons-second-law-inertia-momentum-and-circular-motion--03-roundabout-velocity.webp" width="900" height="870" alt="A car circles a roundabout at 8 m/s. At the start it heads north, then east after a quarter turn, south after a half turn and west after three quarters. The speed never changes but the velocity does, so the car accelerates." loading="lazy">
-  <figcaption>Constant speed, changing direction: the velocity changes.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/forces-and-motion--06-circular-motion.webp" width="900" height="930" alt="A ball moves anticlockwise in a circle. At four positions the velocity arrow is along the tangent and the force arrow points to the centre at 90 degrees to it, so direction changes while speed stays constant." loading="lazy">
-  <figcaption>A force perpendicular to the motion changes direction, not speed.</figcaption>
-</figure>
-
-
 ## Quick self-test
 
 1. A 6.0 kg cart has a resultant force of 15 N. Find its acceleration.
@@ -229,6 +213,22 @@ F = ma and a = (v - u) / t combine to give F = (m v - m u) / t. So force = chang
 8. F = 0.30 × 12 / 0.020 = 180 N.
 9. The direction of travel keeps changing. Velocity is a vector, so a change in direction is a change in velocity, even though the speed is constant.
 10. m = 650 / 0.50 = 1300 kg.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-newtons-second-law-inertia-momentum-and-circular-motion--03-string-breaks.webp" width="900" height="880" alt="A bung whirled on a string is pulled inwards by the string. When the string breaks at the right of the circle there is no resultant force, so the bung moves off in a straight line at constant velocity." loading="lazy">
+  <figcaption>With no force the bung travels in a straight line along the tangent.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-newtons-second-law-inertia-momentum-and-circular-motion--03-roundabout-velocity.webp" width="900" height="870" alt="A car circles a roundabout at 8 m/s. At the start it heads north, then east after a quarter turn, south after a half turn and west after three quarters. The speed never changes but the velocity does, so the car accelerates." loading="lazy">
+  <figcaption>Constant speed, changing direction: the velocity changes.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/forces-and-motion--06-circular-motion.webp" width="900" height="930" alt="A ball moves anticlockwise in a circle. At four positions the velocity arrow is along the tangent and the force arrow points to the centre at 90 degrees to it, so direction changes while speed stays constant." loading="lazy">
+  <figcaption>A force perpendicular to the motion changes direction, not speed.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

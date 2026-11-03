@@ -72,6 +72,11 @@ Joint demand and joint supply are not the same thing. The first is about buyers,
 2. Income: real income rises, so more can be bought. For a normal good this adds to the extra quantity.
 
 <figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-demand-supply-and-consumer-and-producer-surplus--04-marginal-utility-cups.webp" width="900" height="1000" alt="Bars show the value of five cups of tea (3.00 to 0.60). At 1.50 cups 1 to 3 are worth buying; at 1.00 cup 4 is too." loading="lazy">
+  <figcaption>A lower price makes another cup worth buying, so quantity demanded rises.</figcaption>
+</figure>
+
+<figure class="topic-figure">
   <img src="https://img.marlbridge.com/ocr-a-level-economics-demand-supply-and-consumer-and-producer-surplus--08-income-substitution-effects.webp" width="900" height="800" alt="A price cut from £4 to £3.20 (-20%) has a substitution effect (the good is relatively cheaper, so buyers switch to it) and an income effect (£400 buys 125 units instead of 100, up 25%). For a normal good both raise quantity demanded; for an inferior good the income effect works the other way." loading="lazy">
   <figcaption>A price fall makes a good relatively cheaper and raises real purchasing power.</figcaption>
 </figure>
@@ -111,6 +116,11 @@ Chain for a written answer: a factor changes, so the amount wanted (or offered) 
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/igcse-economics-the-allocation-of-resources--03-shifts-of-demand.webp" width="900" height="1000" alt="Three parallel demand curves: D1 original, D2 to the right (increase; at price 5 quantity 40 to 60), D3 to the left (decrease; 40 to 20). Rightward shifts come from rising income, tastes favouring the good, or a dearer substitute; leftward shifts from the opposite." loading="lazy">
   <figcaption>A shift of the whole demand curve is caused by a non-price condition such as income, tastes or the price of related goods.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-allocation-of-resources--04-shifts-of-supply.webp" width="900" height="1000" alt="Three parallel supply curves: S1 original, S2 to the right (increase; at price 5 quantity 50 to 70), S3 to the left (decrease; 50 to 30). Rightward shifts come from lower costs, better technology or more sellers; leftward from higher costs or fewer sellers." loading="lazy">
+  <figcaption>A shift of the whole supply curve is caused by costs of production, technology or the number of sellers.</figcaption>
 </figure>
 
 
@@ -192,12 +202,6 @@ A fall of £3 cuts surplus by 7.5. Check: rectangle 2 × 3 = 6 plus triangle ½ 
 - Surplus rectangle: existing units gain. Surplus triangle: new units gain.
 - Derived demand is about inputs; composite demand is about uses.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ocr-a-level-economics-demand-supply-and-consumer-and-producer-surplus--03-market-demand-sum.webp" width="900" height="990" alt="Stacked bars show households X, Y and Z demand at prices of 4 to 12 pounds and their totals 29, 22, 15, 9 and 3." loading="lazy">
-  <figcaption>Market demand is found by adding quantities at each price.</figcaption>
-</figure>
-
-
 ## Quick self-test
 
 1. Three firms supply 12, 18 and 25 units at £5. What is market supply at £5?
@@ -223,6 +227,12 @@ A fall of £3 cuts surplus by 7.5. Check: rectangle 2 × 3 = 6 plus triangle ½ 
 8. Q = (9 − 3) ÷ 2 = 3; surplus = ½ × 3 × 6 = 9; fall = **£7**, made of rectangle 3 × 2 = 6 and triangle ½ × 1 × 2 = 1.
 9. A **shift left** (a decrease in supply), because tax is not the good's own price.
 10. Joint: beef and hides. Competitive: a farmer's land used for wheat or barley (other valid examples gain credit).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-demand-supply-and-consumer-and-producer-surplus--03-market-demand-sum.webp" width="900" height="990" alt="Stacked bars show households X, Y and Z demand at prices of 4 to 12 pounds and their totals 29, 22, 15, 9 and 3." loading="lazy">
+  <figcaption>Market demand is found by adding quantities at each price.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

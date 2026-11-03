@@ -153,6 +153,11 @@ Shifts: more demand (higher MRP) raises wage and employment; less supply (for ex
   <figcaption>A firm hires workers while their marginal revenue product is at least the wage.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-economics-microeconomic-decision-makers--03-wage-determination.webp" width="900" height="940" alt="Labour demand slopes down and labour supply slopes up, meeting at a wage of 7 with 50 workers. At wage 10 there are too many workers so wages fall; at wage 4 there are too few so wages rise." loading="lazy">
+  <figcaption>Wages settle where labour demand and supply meet; surpluses push wages down and shortages push them up.</figcaption>
+</figure>
+
 
 ## Trade unions
 
@@ -178,6 +183,11 @@ When demand is elastic, the union's gain per worker comes at a larger loss of jo
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/ocr-a-level-economics-supply-of-labour-economic-rent-and-wage-determination--08-lab-union-competitive.webp" width="900" height="890" alt="At a union wage of 13 pounds firms demand 350 workers while 550 want work, leaving 200 unemployed; employment falls from 400 to 350. The wage bill rises from 4,000 to 4,550 because demand is inelastic (-0.51)." loading="lazy">
   <figcaption>A union wage above equilibrium cuts jobs but raises the wage bill when demand is inelastic.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-economics-microeconomic-decision-makers--04-wage-above-equilibrium.webp" width="900" height="890" alt="With a wage floor of 9 above the equilibrium of 7, firms want 30 workers but 70 want jobs, leaving 40 without work. Workers in jobs earn more but fewer are employed." loading="lazy">
+  <figcaption>A minimum wage or union deal above equilibrium raises pay for those employed but can reduce jobs.</figcaption>
 </figure>
 
 

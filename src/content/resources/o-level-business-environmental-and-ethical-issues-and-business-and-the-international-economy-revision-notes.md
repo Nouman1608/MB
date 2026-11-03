@@ -46,6 +46,12 @@ Other links: [Cambridge O Level Business hub](/boards/cambridge/o-level/business
 | Appreciation | A currency buys more foreign currency |
 | Depreciation | A currency buys less foreign currency |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-business-environmental-and-ethical-issues-and-business-and-the-international-economy--08-mnc-host-lists.webp" width="900" height="772" alt="Four benefits and four drawbacks of a multinational for the host country, each with an icon." loading="lazy">
+  <figcaption>Host-country benefits and drawbacks of a multinational.</figcaption>
+</figure>
+
+
 ## 6.2.1 Environment and ethics at a glance
 
 ### How business harms and helps the environment
@@ -200,6 +206,22 @@ Method in steps for a host-country question:
 | Depreciates | Foreign price falls, more competitive | Inputs dearer, costs rise |
 
 Exchange rate calculations are not assessed, so learn the direction of each effect and the reason.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-business-influences-on-business--06-exchange-rates.webp" width="900" height="970" alt="The pound weakens from 1.50 to 1.25 dollars. A 100 pound export costs the US buyer 150 then 125 dollars (cheaper, helps the exporter). A 100 dollar import costs the UK buyer 66.67 then 80.00 pounds (dearer, hurts the importer). If the pound strengthens, the effects reverse." loading="lazy">
+  <figcaption>A weaker home currency helps exporters and hurts importers; a stronger one reverses this.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-business-business-and-its-environment--06-exchange-import-cost.webp" width="900" height="960" alt="The pound falls from 200 to 180 yen, so a 36,000 yen motor rises from 180 to 200 pounds (11.1 percent), and an order of 4,000 motors costs 80,000 pounds more." loading="lazy">
+  <figcaption>A weaker pound makes imported inputs dearer.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-business-business-and-its-environment--07-exchange-export-price.webp" width="900" height="960" alt="The pound rises from 1.15 to 1.25 euro. Keeping the 12 pound price lifts the euro price from 13.80 to 15.00 (8.7 percent); holding the euro price cuts income to 11.04 pounds a jar (8 percent less)." loading="lazy">
+  <figcaption>A stronger pound makes exports dearer or less profitable.</figcaption>
+</figure>
+
 
 ## Worked reminders
 

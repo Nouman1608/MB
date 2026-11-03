@@ -179,12 +179,6 @@ Importance is greater where the business sells on trust or image, is highly visi
 4. Make claims verifiable (independent reporting).
 5. Justify by linking to the case: finances, customers, competitors, and the time period.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ocr-a-level-business-mission-statement-and-corporate-social-responsibility-csr--03-dunmore-csr-cost.webp" width="900" height="1010" alt="Profit falls from 140,000 to 80,000 pounds when variable cost rises 1.20 pounds per set. To restore it, sell 57,693 sets (15.4 percent more) or raise the price to 25.20 pounds (5.0 percent more)." loading="lazy">
-  <figcaption>CSR costs can be recovered by volume or price, if customers respond.</figcaption>
-</figure>
-
-
 ## Evaluation checklist for extended answers
 
 - Point, explanation, and a link to the case.
@@ -192,6 +186,12 @@ Importance is greater where the business sells on trust or image, is highly visi
 - Short run against long run.
 - Size and sector of the business.
 - A judgement with a reason ("it depends" is not enough; say on what).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-business-mission-statement-and-corporate-social-responsibility-csr--03-dunmore-csr-cost.webp" width="900" height="1010" alt="Profit falls from 140,000 to 80,000 pounds when variable cost rises 1.20 pounds per set. To restore it, sell 57,693 sets (15.4 percent more) or raise the price to 25.20 pounds (5.0 percent more)." loading="lazy">
+  <figcaption>CSR costs can be recovered by volume or price, if customers respond.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 

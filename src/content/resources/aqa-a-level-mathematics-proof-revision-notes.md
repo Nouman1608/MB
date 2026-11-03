@@ -243,6 +243,12 @@ If the question names the method ("prove by contradiction"), you must use that m
 9. "There exist integers x and y with 6x + 9y = 1." (A proof would then note 6x + 9y = 3(2x + 3y) is a multiple of 3, but 1 is not.)
 10. No. x = −2: x² = 4 > 1, but x is not greater than 1.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-mathematical-language-set-notation-functions-and--04-squaring-implication.webp" width="900" height="955" alt="The line y = x meets the upper curve y = √(x+2) at (2, 2), a true solution. Squaring brings in the lower branch y = −√(x+2), which the line meets at (−1, −1), an extra root. Check every answer in the original equation, because squaring gives ⇒ only." loading="lazy">
+  <figcaption>Squaring is an implication one way only, so it can add false roots.</figcaption>
+</figure>
+
+
 ## Where marks are usually lost
 
 - Testing a few values and calling it a proof. Only a complete set of cases counts.

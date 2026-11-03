@@ -109,12 +109,6 @@ Causes: poor information and forecasts, time lags, short-term political aims, lo
 
 Effects: policy arrives at the wrong point in the cycle, inflation or unemployment worsens, debt rises, resources are wasted, the government loses credibility.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/cambridge-a-level-economics-effectiveness-of-supply-side-exchange-rate-and-trade--03-sd-stimulus-timing.webp" width="900" height="850" alt="Line chart of the output gap as a percentage of potential output over periods 1 to 6. Without stimulus the gap goes from minus 3 to zero in period 5 and plus 1 in period 6. With a stimulus decided in period 1 that only takes effect in period 5, the gap jumps to plus 2 and plus 3, pushing the economy into overheating. With the lesson's invented rule of 0.5 points of inflation per point of positive gap, the stimulus adds 1.0 point of inflation by period 6." loading="lazy">
-  <figcaption>A stimulus that arrives after the gap has closed pushes the economy into overheating.</figcaption>
-</figure>
-
-
 ## Evaluation checklist
 
 Time horizon, size of the response, spare capacity, type of inflation or unemployment, openness of the economy, exchange rate system, effects on other objectives, retaliation, cost and who pays.
@@ -156,8 +150,18 @@ Time horizon, size of the response, spare capacity, type of inflation or unemplo
 </figure>
 
 <figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-effectiveness-of-supply-side-exchange-rate-and-trade--03-sd-stimulus-timing.webp" width="900" height="850" alt="Line chart of the output gap as a percentage of potential output over periods 1 to 6. Without stimulus the gap goes from minus 3 to zero in period 5 and plus 1 in period 6. With a stimulus decided in period 1 that only takes effect in period 5, the gap jumps to plus 2 and plus 3, pushing the economy into overheating. With the lesson's invented rule of 0.5 points of inflation per point of positive gap, the stimulus adds 1.0 point of inflation by period 6." loading="lazy">
+  <figcaption>A stimulus that arrives after the gap has closed pushes the economy into overheating.</figcaption>
+</figure>
+
+<figure class="topic-figure">
   <img src="https://img.marlbridge.com/cambridge-a-level-economics-effectiveness-of-supply-side-exchange-rate-and-trade--08-depreciation-conflicts.webp" width="900" height="810" alt="A 10% depreciation raises net exports by 38.6. With a multiplier of 1.6 output rises 61.8 (3.1% of 2,000), so growth gains. Import prices rise 11.1% with a 25% weight, adding about 2.8 points to the price level. The deficit narrows from 40 to 1.4." loading="lazy">
   <figcaption>Depreciation helps growth and the trade balance but worsens inflation.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-effectiveness-of-supply-side-exchange-rate-and-trade--09-training-payback.webp" width="900" height="870" alt="Line chart of net gain in million cu. Best case gains 1,980 a year at once, paying back the 1,500 cost in 0.76 years. Realistic case gains nothing for two years then 990 a year, paying back in 3.5 years." loading="lazy">
+  <figcaption>Training pays back in 0.76 years at best but about 3.5 years in the realistic case.</figcaption>
 </figure>
 
 <figure class="topic-figure">

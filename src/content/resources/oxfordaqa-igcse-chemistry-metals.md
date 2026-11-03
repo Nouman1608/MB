@@ -131,6 +131,17 @@ A strip of magnesium ribbon is placed in zinc chloride solution. A grey coating 
 3. Ionic equation: **Mg + Zn²⁺ → Mg²⁺ + Zn**.
 4. Magnesium atoms lose two electrons each: magnesium is **oxidised**. Zinc ions gain two electrons each: zinc ions are **reduced**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/metal-properties-and-reactivity--04-displacement.webp" width="900" height="940" alt="An iron nail in blue copper(II) sulfate becomes coated in pink-brown copper while the solution turns pale green. Iron atoms lose two electrons to form Fe2+ and the copper ions gain them to form copper atoms." loading="lazy">
+  <figcaption>The more reactive metal loses electrons and displaces the less reactive metal.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/redox-reactions--02-electron-transfer.webp" width="900" height="920" alt="A zinc atom becomes a Zn2+ ion by losing two electrons (oxidation). A downward arrow carries the two electrons to a Cu2+ ion, which becomes a copper atom (reduction). No oxygen is involved." loading="lazy">
+  <figcaption>Zinc loses two electrons and Cu2+ gains them: oxidation and reduction without any oxygen.</figcaption>
+</figure>
+
+
 ## Where metals come from (3.3.1.1 c to e)
 
 **Gold** and other very unreactive metals occur in the ground uncombined, because they do not react with oxygen, water or other substances in rocks. Most metals are found as compounds, so a chemical reaction is needed to extract the metal.
@@ -240,6 +251,11 @@ How much iron reacts to produce 3.20 g of copper? (Aᵣ: Fe = 56, Cu = 64)
   <figcaption>Mass to moles to ratio to mass, for the carbon and scrap-iron examples.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/electrolysis-and-fuel-cells--05-copper-sulfate-electrodes.webp" width="900" height="1200" alt="Blue copper(II) sulfate solution is electrolysed twice. With graphite, copper coats the cathode and oxygen bubbles form at the anode. With copper electrodes copper again deposits, but the anode dissolves and gets smaller." loading="lazy">
+  <figcaption>Copper deposits at the cathode either way; the anode gives oxygen with graphite but dissolves if it is copper.</figcaption>
+</figure>
+
 
 ## Recycling metals (3.3.1.1 i)
 
@@ -285,6 +301,11 @@ You see fizzing; the gas turns limewater cloudy white.
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/oxfordaqa-igcse-chemistry-metals--08-carbonate-thermal-decomposition.webp" width="900" height="1110" alt="A carbonate is heated and CO2 escapes. CuCO3 goes green to black; ZnCO3 white, yellow hot, white cold. Li2CO3 decomposes but Na2CO3 and K2CO3 do not at Bunsen temperatures. 2.10 g MgCO3 leaves 1.00 g MgO and 1.10 g CO2." loading="lazy">
   <figcaption>Thermal decomposition: what you see, which carbonates decompose, and the mass balance.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-chemistry-identification-of-ions--05-carbonate-test.webp" width="900" height="950" alt="Dilute acid on a carbonate fizzes; the gas goes along a delivery tube into limewater, which turns cloudy white. Fizzing alone is not enough because metals in acid also fizz. Equation CuCO3 + 2HNO3 gives Cu(NO3)2 + H2O + CO2." loading="lazy">
+  <figcaption>Fizz, then confirm the gas as CO2 with limewater.</figcaption>
 </figure>
 
 

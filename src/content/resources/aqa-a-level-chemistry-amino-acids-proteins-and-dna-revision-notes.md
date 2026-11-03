@@ -114,6 +114,11 @@ Hydrogen bond in proteins: a lone pair on the δ− O of C=O attracts the δ+ H 
 </figure>
 
 <figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-amines--04-substitution-ladder.webp" width="900" height="1280" alt="Ammonia reacts with RX to give primary, secondary, tertiary amines and finally a quaternary ammonium ion; the first four have a lone pair on N, the quaternary ion has none so the sequence stops. Excess NH3 favours primary, excess RX the quaternary salt. AQA and OxfordAQA also need long-chain quaternary ammonium salts as cationic surfactants." loading="lazy">
+  <figcaption>Repeated substitution gives primary, secondary, tertiary amines and a quaternary salt; long-chain quaternary salts are cationic surfactants (AQA, OxfordAQA).</figcaption>
+</figure>
+
+<figure class="topic-figure">
   <img src="https://img.marlbridge.com/aqa-a-level-chemistry-amines--09-protein-structure.webp" width="900" height="1200" alt="Primary: order of amino acids joined by peptide links. Secondary: an alpha-helix or beta-pleated sheet held by hydrogen bonds between peptide links. Tertiary: the whole chain folded in 3D, held by hydrogen bonds and S-S bonds between side chains such as two cysteines." loading="lazy">
   <figcaption>Primary, secondary and tertiary structure are held by peptide links, backbone hydrogen bonds, and side-chain bonds.</figcaption>
 </figure>

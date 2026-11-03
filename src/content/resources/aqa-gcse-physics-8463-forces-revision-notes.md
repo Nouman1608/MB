@@ -184,6 +184,16 @@ Step 3  solve for the unknown force or distance
   <figcaption>Pressure rises with depth, which gives upthrust; the atmosphere thins with height.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/pressure--01-pressure-force-area.webp" width="900" height="850" alt="Two blocks each press with 600 N. On 0.5 m2 the pressure is 1200 Pa and the block sinks little into sand; on 0.1 m2 it is 6000 Pa and it sinks deeper." loading="lazy">
+  <figcaption>For the same force, a smaller area gives a larger pressure.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/pressure--03-pressure-with-depth.webp" width="900" height="960" alt="A tank of water with arrows on the wall that lengthen with depth: 9800 Pa at 1 m, 19600 Pa at 2 m, 29400 Pa at 3 m, matching the worked example 1000 x 9.8 x 3." loading="lazy">
+  <figcaption>Pressure beneath a liquid increases in proportion to depth.</figcaption>
+</figure>
+
 
 ## 4.5.6 Forces and motion
 
@@ -229,6 +239,17 @@ Step 3  rearrange; a negative a means deceleration
 - **Required practical 7**: trolley, pulley, hanging masses, light gates. Constant mass: move masses from
   trolley to hanger.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/forces-and-motion--02-f-equals-ma.webp" width="900" height="870" alt="Two trolleys receive the same 15 N push. The 3 kg trolley accelerates at 5 m/s squared and the 6 kg trolley at 2.5 m/s squared, with arrows to scale." loading="lazy">
+  <figcaption>Acceleration = resultant force divided by mass.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/forces-and-motion--03-third-law-pairs.webp" width="900" height="870" alt="A book rests on a table on the Earth. The table pushes the book up and the book pushes the table down (contact pair); the Earth pulls the book down and the book pulls the Earth up (gravity pair). Weight and table push act on one object so are not a pair." loading="lazy">
+  <figcaption>A third-law pair is the same type of force acting on two different objects.</figcaption>
+</figure>
+
+
 ### Stopping distances
 
 - Stopping distance = thinking distance + braking distance.
@@ -245,12 +266,58 @@ Step 3  rearrange; a negative a means deceleration
   <figcaption>The distance a dropped ruler falls before it is caught measures reaction time.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/kinematics--01-distance-displacement.webp" width="900" height="920" alt="A runner doing one lap of a 400 m track has distance 400 m and displacement 0. A walker going 300 m east then 100 m west has distance 400 m and displacement 200 m east." loading="lazy">
+  <figcaption>Distance is the path length; displacement is the straight-line change from the start, with direction.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/kinematics--02-distance-time-gradient.webp" width="900" height="900" alt="A distance-time graph rises 20 m in 4 s (5 m/s), stays flat for 4 s (at rest), then rises 50 m in 4 s (12.5 m/s). The steeper line is faster." loading="lazy">
+  <figcaption>On a distance-time graph the gradient is the speed, and a flat line means at rest.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/kinematics--03-distance-time-tangent.webp" width="900" height="900" alt="A curved distance-time graph gets steeper, so the object accelerates. A tangent at 4 s rises 32 m over 4 s, so the speed at that instant is 8 m/s." loading="lazy">
+  <figcaption>For a curve, the speed at an instant is the gradient of the tangent.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/kinematics--04-speed-time-area.webp" width="900" height="930" alt="Speed rises from 0 to 10 m/s in 5 s then stays constant for 8 s. Gradient of the slope is 2 m/s squared. Triangle area 25 m plus rectangle area 80 m gives 105 m." loading="lazy">
+  <figcaption>Gradient gives acceleration and area gives distance travelled.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/kinematics--06-free-fall.webp" width="900" height="920" alt="A ball dropped from rest is shown at 0, 1, 2 and 3 seconds with gaps that grow. Its downward speed is 9.8, 19.6 and 29.4 m/s, so it gains 9.8 m/s each second." loading="lazy">
+  <figcaption>In free fall, speed increases by about 9.8 m/s every second.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/forces-and-motion--04-terminal-velocity.webp" width="900" height="880" alt="A speed-time graph rises then levels at 50 m/s. Free-body diagrams at A, B and C show weight 800 N with drag 0, about 290 N and about 800 N, so the resultant falls from 800 N to about zero." loading="lazy">
+  <figcaption>As speed rises drag grows until it equals the weight; resultant force is zero and speed stays constant.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/forces-and-motion--05-stopping-distance.webp" width="900" height="910" alt="Bars to scale: at 20 m/s thinking 14 m plus braking 33 m gives 47 m; at 30 m/s thinking 21 m plus braking 75 m gives 96 m. Tiredness, alcohol and drugs lengthen thinking; tyres, road and load lengthen braking; speed lengthens both." loading="lazy">
+  <figcaption>Stopping distance = thinking distance + braking distance.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/forces-and-motion--06-circular-motion.webp" width="900" height="930" alt="A ball moves anticlockwise in a circle. At four positions the velocity arrow is along the tangent and the force arrow points to the centre at 90 degrees to it, so direction changes while speed stays constant." loading="lazy">
+  <figcaption>A force perpendicular to the motion changes direction, not speed.</figcaption>
+</figure>
+
 
 ## 4.5.7 Momentum (Higher tier only)
 
 - Closed system: total momentum before = total momentum after.
 - Safety features (air bags, seat belts, crash mats, helmets, soft surfaces) increase the time of the
   collision, so the rate of change of momentum, and so the force, is smaller.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/momentum--02-collision-stick.webp" width="900" height="780" alt="A 2 kg trolley at 3 m/s hits a stationary 1 kg trolley. Momentum before is 6 kg m/s, shown as a bar. After they stick, 3 kg moves at 2 m/s and the bar is the same length." loading="lazy">
+  <figcaption>Total momentum before a collision equals total momentum after it.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 

@@ -71,11 +71,6 @@ ROCE = 32,000 / 250,000 × 100 = 12.8%.
   <figcaption>Margins divide by revenue; ROCE divides by capital employed.</figcaption>
 </figure>
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-business-0264-analysis-of-accounts--10-yarrick-trend.webp" width="900" height="940" alt="Gross profit margin falls from 40% to 35%, profit margin from 10% to 7.5% and ROCE from 12.5% to 10%, although revenue rose 28% and capital employed rose by 80,000 while profit fell from 50,000 to 48,000." loading="lazy">
-  <figcaption>All three ratios fell even though revenue grew 28%.</figcaption>
-</figure>
-
 
 ## 5.5.2 Liquidity
 
@@ -204,6 +199,12 @@ An investor is told that a business's ROCE rose from 8% to 11% while its current
 9. Identify two external users of accounts and one thing each might check.
 10. Revenue is 550,000 and the gross profit margin is 32%. Calculate gross profit.
 11. State two limitations of ratio analysis.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-0264-analysis-of-accounts--10-yarrick-trend.webp" width="900" height="940" alt="Gross profit margin falls from 40% to 35%, profit margin from 10% to 7.5% and ROCE from 12.5% to 10%, although revenue rose 28% and capital employed rose by 80,000 while profit fell from 50,000 to 48,000." loading="lazy">
+  <figcaption>All three ratios fell even though revenue grew 28%.</figcaption>
+</figure>
+
 
 ### Answers
 

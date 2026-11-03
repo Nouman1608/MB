@@ -91,6 +91,12 @@ Illustrate each property with at least two elements. No detail of how colour ari
 
 Industry uses iron in the Haber process and vanadium(V) oxide in the Contact process. As 3.2.2(d) explains, catalysts allow lower temperatures and so cut fossil-fuel use. No process detail is required. HSW9 weighs this against the toxicity of many transition metals.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-transition-metals--08-vanadium-oxidation-states.webp" width="900" height="810" alt="Four test tubes show yellow VO2+ (+5), blue VO2+ (+4), green V3+ (+3) and violet V2+ (+2), joined by arrows labelled Zn with E cell values +1.76 V, +1.10 V and +0.50 V. An arrow shows the oxidation state falling from +5 to +2." loading="lazy">
+  <figcaption>Zinc reduces vanadium from +5 to +2 in steps, each with a colour change.</figcaption>
+</figure>
+
+
 ## 5.3.1(d) and (e): Ligands, complexes and shapes
 
 A **ligand** donates a lone pair of electrons to a central metal ion (or atom); it may be a molecule or an ion. The bond formed is coordinate (dative covalent). A **complex ion** is a central metal ion surrounded by ligands. The **coordination number** is the number of coordinate bonds to the central ion, not the number of ligands.
@@ -255,12 +261,6 @@ For example, cobalt(II) turning from pink to blue in concentrated HCl matches th
 - Original questions with mark-by-mark answers: [Transition elements practice questions](/resources/ocr-a-level-chemistry-transition-elements-practice/)
 - Oxidation numbers and half-equations: [Redox](/resources/ocr-a-level-chemistry-redox/)
 - Catalysts and activation energy: [Reaction rates](/resources/ocr-a-level-chemistry-reaction-rates/)
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-transition-metals--08-vanadium-oxidation-states.webp" width="900" height="810" alt="Four test tubes show yellow VO2+ (+5), blue VO2+ (+4), green V3+ (+3) and violet V2+ (+2), joined by arrows labelled Zn with E cell values +1.76 V, +1.10 V and +0.50 V. An arrow shows the oxidation state falling from +5 to +2." loading="lazy">
-  <figcaption>Zinc reduces vanadium from +5 to +2 in steps, each with a colour change.</figcaption>
-</figure>
-
 
 ## Official syllabus
 

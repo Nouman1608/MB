@@ -89,6 +89,12 @@ Net gain of B = 121,500 - 70,000 = £51,500
 
 An expected value is a weighted average: Option B will actually earn £180,000 or £50,000, never £121,500.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-business-types-of-strategies--02-unit-cost-capacity.webp" width="900" height="840" alt="Unit cost curves for one furnace and two furnaces with points A (1.8m bottles, 90% used, 0.60), B (3.2m, 80%, 0.54) and C (2.4m, 60%, 0.635). Growth lowers unit cost only if the new capacity is used." loading="lazy">
+  <figcaption>Unit cost falls with the second furnace only while capacity is well used.</figcaption>
+</figure>
+
+
 ### Limitations of decision trees
 
 - The probabilities are often estimates or guesses, especially for new products or markets.

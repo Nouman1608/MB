@@ -108,6 +108,12 @@ Links: [course hub](/boards/oxfordaqa/a-level/mathematics/) · [checklist](/chec
 
 **Poisson scaling.** A mean of 1.8 flaws per metre of ribbon becomes 9 over 5 metres. Under H₀ the count is Po(9). If you wrongly keep Po(1.8), every probability in the test is wrong.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-mathematics-the-binomial-and-poisson-distributions-and-the-poisson--03-poisson-scaling-interval.webp" width="900" height="1080" alt="Six 10-minute blocks each with mean 1.5 show 20 minutes has λ = 3 and one hour has λ = 9. Po(3) with r ≤ 3 shaded gives 0.647 and Po(9) with r ≥ 10 shaded gives 0.413." loading="lazy">
+  <figcaption>Rescale the mean to the interval you observe before calculating any probability.</figcaption>
+</figure>
+
+
 ## Wording bank
 
 Hypotheses:
@@ -161,6 +167,12 @@ Type II error: "Failing to conclude that [change] has happened when H₀ is in f
 10. Concluding that there is insufficient evidence that the mean has risen, when it really has risen.
 11. P(X ≥ 9) = 1 − P(X ≤ 8).
 12. "There is insufficient evidence at the 5% level to suggest that the mean differs from 2.4."
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-mathematics-the-binomial-and-poisson-distributions-and-the-poisson--05-poisson-variance-equals-mean.webp" width="900" height="940" alt="A number line of variance divided by mean. B(50, 0.3) gives 0.70, data with mean 2.3 and variance 2.2 give 0.96, Po(λ) gives exactly 1, and data with mean 2.6 and variance 5.9 give 2.27. Values near 1 suit Poisson, values above 1 suggest clustering." loading="lazy">
+  <figcaption>A Poisson count has variance equal to its mean; a ratio well above 1 signals clustered events or a varying rate.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

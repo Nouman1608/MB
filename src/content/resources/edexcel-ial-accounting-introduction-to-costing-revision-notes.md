@@ -89,6 +89,11 @@ LIFO periodic:   issues 55 = 25 at 35 + 30 at 32 left 20 at 30 = 600
 </figure>
 
 <figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-absorption-and-activity-based-costing--09-limiting-factor.webp" width="900" height="1060" alt="Contribution per unit is 24, 36 and 15 pounds for A, B and C, but per scarce hour it is 12, 9 and 15, so the ranking is C, A, B. Filling 4,000 hours in that order gives 1,000 C, 800 A and 350 B, contribution 46,800 and profit 16,800 after fixed costs of 30,000." loading="lazy">
+  <figcaption>With a limiting factor, rank products by contribution per unit of the scarce resource, not per unit.</figcaption>
+</figure>
+
+<figure class="topic-figure">
   <img src="https://img.marlbridge.com/aqa-a-level-accounting-absorption-and-activity-based-costing--10-relevant-costs.webp" width="900" height="1160" alt="Making a bracket costs 8.20 pounds extra and buying 9.40, so buying costs 1.20 more, 14,400 pounds a year; the 2.50 fixed share is paid either way. The Gifts line shows a 1,500 pound loss, but closing it loses 18,000 contribution and saves 6,000 fixed costs, so profit falls by 12,000." loading="lazy">
   <figcaption>Only costs and revenues that change with the decision are relevant; apportioned fixed costs often are not.</figcaption>
 </figure>
@@ -220,12 +225,6 @@ Causes: actual hours differ from budget, actual spending differs from budget, or
 10. 3,360 / 480 = **7.00 per unit**.
 11. 1,800 / 600 = **3 units per labour hour**.
 12. 200 + 0.40 x 3,000 = **1,400**.
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/aqa-a-level-accounting-absorption-and-activity-based-costing--09-limiting-factor.webp" width="900" height="1060" alt="Contribution per unit is 24, 36 and 15 pounds for A, B and C, but per scarce hour it is 12, 9 and 15, so the ranking is C, A, B. Filling 4,000 hours in that order gives 1,000 C, 800 A and 350 B, contribution 46,800 and profit 16,800 after fixed costs of 30,000." loading="lazy">
-  <figcaption>With a limiting factor, rank products by contribution per unit of the scarce resource, not per unit.</figcaption>
-</figure>
-
 
 ## Where marks are usually lost
 

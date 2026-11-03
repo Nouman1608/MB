@@ -54,6 +54,12 @@ questions routinely expect a graphical display calculator to be used, not avoide
 - **Graph theory (HL only, AHL 3.14-3.16)** -- graphs, vertices and edges; adjacency matrices and
   walks; tree and cycle algorithms.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-ai-geometry-trigonometry--09-adjacency-walks.webp" width="900" height="970" alt="A five-vertex graph with its adjacency matrix M and M squared. The entry for A to D in M squared is 1, the walk A, C, D; the diagonal of M squared lists the vertex degrees 2, 2, 3, 2, 1." loading="lazy">
+  <figcaption>Entry (i, j) of M to the power n counts the walks of length n from i to j.</figcaption>
+</figure>
+
+
 ## Worked example: bearings and the cosine rule
 
 A ship sails from port A on a bearing of $070°$ for 40 km to point B, then changes course to a bearing
@@ -109,6 +115,11 @@ to an SAS triangle is one of the most common technique errors in this strand.
 </figure>
 
 <figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-ai-geometry-trigonometry--04-radian-definition.webp" width="900" height="900" alt="A semicircle whose arc is marked off in lengths equal to the radius. One radius length subtends 1 radian (about 57.3 degrees); three fit with 0.14 left over, so pi radians is 180 degrees." loading="lazy">
+  <figcaption>One radian is the angle at which the arc length equals the radius.</figcaption>
+</figure>
+
+<figure class="topic-figure">
   <img src="https://img.marlbridge.com/ib-dp-mathematics-ai-geometry-trigonometry--05-circular-functions.webp" width="900" height="760" alt="A unit circle point at angle π/3 with legs cos θ and sin θ, and the arc of length θ. A dashed line carries the height across to the graph of y = sin θ from 0 to 2π." loading="lazy">
   <figcaption>Sine is the height of the point on the unit circle plotted against the angle in radians.</figcaption>
 </figure>
@@ -125,12 +136,6 @@ requires (subtracting, for instance, where one solid has a cavity removed from a
 the solid and labelling which faces are "internal" (and therefore excluded from a surface area total)
 before calculating is the single most effective way to avoid the most common error in this content:
 including or excluding the wrong faces from a compound surface area.
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ib-dp-mathematics-ai-geometry-trigonometry--03-compound-solid.webp" width="900" height="840" alt="A cylinder (r = 3, h = 8) with a hemisphere on top. Dome 18π, curved wall 48π and base 9π give surface area 75π (about 235.6); the joint circle is internal and not counted. Volume is 72π + 18π (about 282.7)." loading="lazy">
-  <figcaption>Add the outer faces only; the joint between the solids is excluded.</figcaption>
-</figure>
-
 
 ## Exam traps
 
@@ -168,3 +173,19 @@ and Approaches treats the same strand more abstractly with less emphasis on appl
 Because every external paper in this course allows technology throughout, so using the calculator to
 verify an algebraic or trigonometric answer is both permitted and expected, unlike Analysis and
 Approaches' no-technology Paper 1.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-ai-geometry-trigonometry--03-compound-solid.webp" width="900" height="840" alt="A cylinder (r = 3, h = 8) with a hemisphere on top. Dome 18π, curved wall 48π and base 9π give surface area 75π (about 235.6); the joint circle is internal and not counted. Volume is 72π + 18π (about 282.7)." loading="lazy">
+  <figcaption>Add the outer faces only; the joint between the solids is excluded.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-ai-geometry-trigonometry--07-lines-meet-or-skew.webp" width="900" height="1116" alt="Lines l1 and l2 in 3D: x and y equations give s = 2, t = 1 and the z equation holds, so they meet at (5, 0, 5). Changing the z constant of l2 from 3 to 4 gives 5 not equal to 6, so the lines are skew." loading="lazy">
+  <figcaption>Solve two coordinate equations, then check the third to decide between intersecting and skew lines.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-ai-geometry-trigonometry--08-scalar-vector-product.webp" width="900" height="1050" alt="For a = (4,1) and b = (2,3): a·b = 11 = |a||b|cos θ with projection 2.67, and |a × b| = 10 = area of the parallelogram, with a × b perpendicular to both." loading="lazy">
+  <figcaption>The scalar product measures the projection of one vector on another; the vector product gives parallelogram area.</figcaption>
+</figure>
+

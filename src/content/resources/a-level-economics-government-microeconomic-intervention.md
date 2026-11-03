@@ -49,6 +49,12 @@ Three specific reasons are named:
   where the free-market price is judged undesirable, whether too high
   (harming consumers) or too low (harming producers).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-economics-government-microeconomic-intervention--08-monopoly-welfare-loss.webp" width="900" height="910" alt="Demand (AR) slopes down with marginal revenue below it and marginal cost sloping up. The monopolist produces where MR = MC: output 40 at price 10. The allocatively efficient output is where price = MC: output 60 at price 8. The triangle between 40 and 60 is the welfare loss, area 40." loading="lazy">
+  <figcaption>A monopolist restricts output below the allocatively efficient level and charges a higher price.</figcaption>
+</figure>
+
+
 ## 3.2 Methods and effects of government intervention in markets
 
 This sub-topic covers six specific tools, each with its own

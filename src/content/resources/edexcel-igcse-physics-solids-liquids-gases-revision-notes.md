@@ -148,22 +148,6 @@ E = m c dt = 2.0 x 4200 x 80 = 672 000 J
 
 **Thermal expansion** occurs because particles vibrate more vigorously and take up more space — the particles themselves do not expand.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/edexcel-igcse-physics-solids-liquids-gases-revision-notes--03-heat-2kg-water-edexcel.webp" width="900" height="840" alt="Two beakers each hold 2.0 kg of water, at 20 and 100 degrees Celsius. The rise is 80 degrees, so E = 2.0 x 4200 x 80 = 672000 J." loading="lazy">
-  <figcaption>Heating 2.0 kg of water through 80 degrees needs 672 000 J.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-physics-thermal-physics--03-heating-curve.webp" width="900" height="920" alt="A schematic temperature-energy graph from ice to steam with flat parts at 0 and 100 degrees Celsius while melting and boiling. Particle pictures under each part show the arrangement in that state." loading="lazy">
-  <figcaption>During melting and boiling energy is supplied but the temperature stays constant.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/o-level-physics-thermal-physics--01-thermal-expansion.webp" width="900" height="1296" alt="Two grids of equal-sized particles: in the cold solid they vibrate a little and sit close together, in the hot solid they vibrate more widely and sit further apart, so the solid is longer. Bars show gas expands most, then liquid, then solid. Rail gaps, slack cables and a thermometer are shown as applications." loading="lazy">
-  <figcaption>Heated particles vibrate wider, so the material expands; the particles do not get bigger.</figcaption>
-</figure>
-
-
 ## Exam traps
 
 - Using °C in the gas laws.
@@ -186,3 +170,19 @@ E = m c dt = 2.0 x 4200 x 80 = 672 000 J
 8. A gas at 2.0 × 10⁵ Pa and 0.30 m³ is compressed at constant temperature to 0.10 m³. Find the new pressure.
 
 **Answers:** 1. Depth, density of the liquid and gravitational field strength — not the container's shape or total volume. 2. The molecules have less space, so they collide with the walls more frequently, and more frequent collisions mean a greater force per unit area. 3. The molecules move faster, so they hit the walls both more frequently and with greater force, raising the pressure. 4. The energy supplied is used to overcome the forces holding the particles together rather than to increase their kinetic energy. 5. Particles have the minimum possible kinetic energy — not zero energy. 6. p = hρg = 5.0 × 1000 × 9.8 = **49 000 Pa**. 7. E = mcΔθ = 2.0 × 4200 × 80 = **672 000 J**. 8. p₁V₁ = p₂V₂, so p₂ = (2.0×10⁵ × 0.30) ÷ 0.10 = **6.0×10⁵ Pa**.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-physics-solids-liquids-gases-revision-notes--03-heat-2kg-water-edexcel.webp" width="900" height="840" alt="Two beakers each hold 2.0 kg of water, at 20 and 100 degrees Celsius. The rise is 80 degrees, so E = 2.0 x 4200 x 80 = 672000 J." loading="lazy">
+  <figcaption>Heating 2.0 kg of water through 80 degrees needs 672 000 J.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-physics-thermal-physics--03-heating-curve.webp" width="900" height="920" alt="A schematic temperature-energy graph from ice to steam with flat parts at 0 and 100 degrees Celsius while melting and boiling. Particle pictures under each part show the arrangement in that state." loading="lazy">
+  <figcaption>During melting and boiling energy is supplied but the temperature stays constant.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-physics-thermal-physics--01-thermal-expansion.webp" width="900" height="1296" alt="Two grids of equal-sized particles: in the cold solid they vibrate a little and sit close together, in the hot solid they vibrate more widely and sit further apart, so the solid is longer. Bars show gas expands most, then liquid, then solid. Rail gaps, slack cables and a thermometer are shown as applications." loading="lazy">
+  <figcaption>Heated particles vibrate wider, so the material expands; the particles do not get bigger.</figcaption>
+</figure>
+

@@ -195,6 +195,12 @@ Why is silicon's melting point far above phosphorus's? Silicon: giant covalent, 
 11. Both are simple molecular. S₈ has 128 electrons and P₄ has 60, so London forces between S₈ molecules are stronger.
 12. Al³⁺ has a higher charge and is smaller than Na⁺, and aluminium gives three delocalised electrons per atom against sodium's one, so the metallic bonding is stronger.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-periodicity--07-metallic-bonding.webp" width="900" height="870" alt="Three panels show four metal ions with gold dots for delocalised electrons: Na+ with one electron per atom, Mg2+ with two and Al3+ with three. The ions shrink from left to right (drawn to scale). Melting points are 371, 923 and 933 K because the attraction between ions and electrons gets stronger." loading="lazy">
+  <figcaption>From Na to Al the ion charge and number of delocalised electrons rise and the ion gets smaller, so metallic bonding strengthens.</figcaption>
+</figure>
+
+
 ## Where marks are usually lost
 
 - Leaving (g) off the atom or ion in an ionisation equation.
@@ -206,12 +212,6 @@ Why is silicon's melting point far above phosphorus's? Silicon: giant covalent, 
 - Saying silicon or diamond conducts because "electrons are free".
 - Stating that melting chlorine or phosphorus breaks covalent bonds.
 - Using "atoms" in a metallic bonding answer instead of cations and delocalised electrons.
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-periodicity--07-metallic-bonding.webp" width="900" height="870" alt="Three panels show four metal ions with gold dots for delocalised electrons: Na+ with one electron per atom, Mg2+ with two and Al3+ with three. The ions shrink from left to right (drawn to scale). Melting points are 371, 923 and 933 K because the attraction between ions and electrons gets stronger." loading="lazy">
-  <figcaption>From Na to Al the ion charge and number of delocalised electrons rise and the ion gets smaller, so metallic bonding strengthens.</figcaption>
-</figure>
-
 
 ## Official syllabus
 

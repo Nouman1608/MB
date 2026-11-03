@@ -93,6 +93,26 @@ Quick recall for OCR GCSE (9-1) Biology A (J247), statements B2.2f to B2.2j (pla
   <figcaption>Removing a ring of bark shows sugars travel in the phloem, not the xylem.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-transport-in-plants--05-transpiration-in-leaf.webp" width="900" height="1130" alt="A leaf cross-section. Step 1: water evaporates from the wet surfaces of mesophyll cells into the air spaces. Step 2: water vapour diffuses out through the stomata. Extended step 3: water lost from the leaf is pulled up the xylem. Steps 1 and 2 are Core; step 3 is tagged Extended." loading="lazy">
+  <figcaption>Water evaporates inside the leaf, then the vapour diffuses out through the stomata.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-biology-bioenergetics--01-stomata-guard-cells.webp" width="900" height="1040" alt="Two panels showing a stoma from above. When guard cells take in water they swell and bow apart, opening the stoma so carbon dioxide enters and oxygen and water vapour leave. When they lose water they go limp, the stoma closes and little water vapour escapes." loading="lazy">
+  <figcaption>Guard cells open and close the stoma, controlling gas exchange and water loss.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-transport-in-plants--02-xylem-vessel-structure.webp" width="900" height="1130" alt="Extended. A xylem vessel drawn lengthways as a long hollow tube. Thick walls strengthened with lignin stop it collapsing and support the plant. It has no cell contents, so nothing blocks the water. Cells are joined end to end with no cross walls, forming one tube from root to leaf." loading="lazy">
+  <figcaption>Three features make a xylem vessel a good water pipe.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-transport-in-plants--08-sources-and-sinks.webp" width="900" height="1290" alt="Extended. A plant diagram: a mature photosynthesising leaf is a source releasing sucrose into the phloem; arrows show it moving up to the shoot tip, along to a fruit and down to roots, which are sinks that use or store it. Below, a young leaf is a sink and becomes a source when mature." loading="lazy">
+  <figcaption>Phloem carries sucrose from sources to sinks, and a leaf can be both at different times.</figcaption>
+</figure>
+
 
 ## B2.2i: Factors and rate
 
@@ -113,6 +133,11 @@ Write the cause (stomata or gradient) in every explanation, and say that uptake 
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/ocr-gcse-biology-transport-in-plants-water-uptake-transpiration-and--10-light-stomata-transpiration.webp" width="900" height="900" alt="Two leaf cross-sections. In light the guard cells are turgid, the stoma is open and water vapour from mesophyll diffuses out. In the dark guard cells are flaccid, the stoma is closed and little vapour escapes." loading="lazy">
   <figcaption>Light opens stomata so more water vapour is lost.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-transport-in-plants--06-transpiration-factors.webp" width="900" height="1290" alt="Three side-by-side comparisons of a leaf with copper arrows for water vapour leaving; more arrows mean a faster rate. Warm air gives more than cool air, windy air more than still air, and humid air less than dry air. Explanations (kinetic energy, concentration gradient) are Extended; humidity is Extended." loading="lazy">
+  <figcaption>Higher temperature and wind speed raise the rate; higher humidity lowers it.</figcaption>
 </figure>
 
 
@@ -156,6 +181,11 @@ percentage loss = 2.7 / 130.0 x 100 = 2.1% (2 s.f.)
 mean    = (6 + 8 + 7 + 7) / 4 = 7
 density = 7 / 0.20 = 35 stomata per mm^2
 ```
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-transport-in-plants-water-uptake-transpiration-and--12-shoot-mass-loss-oil.webp" width="900" height="840" alt="Two balances: shoot, water and oil layer read 212.6 g at the start and 208.1 g after 3.0 hours. Loss 4.5 g is 2.1 percent of the starting mass, 1.5 g per hour." loading="lazy">
+  <figcaption>Percentage mass loss is found from the starting value.</figcaption>
+</figure>
 
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/ocr-gcse-biology-transport-in-plants-water-uptake-transpiration-and--13-potometer-cut-underwater.webp" width="900" height="770" alt="Two stem bases. Cut in air: air enters the xylem and breaks the water column. Cut under water at a slant: xylem stays full of water." loading="lazy">
@@ -237,11 +267,6 @@ A source is where sugar is made or released, such as a photosynthesising leaf. A
   <figcaption>Stomatal density from five field counts.</figcaption>
 </figure>
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ocr-gcse-biology-transport-in-plants-water-uptake-transpiration-and--12-shoot-mass-loss-oil.webp" width="900" height="840" alt="Two balances: shoot, water and oil layer read 212.6 g at the start and 208.1 g after 3.0 hours. Loss 4.5 g is 2.1 percent of the starting mass, 1.5 g per hour." loading="lazy">
-  <figcaption>Percentage mass loss is found from the starting value.</figcaption>
-</figure>
-
 
 ## Where marks are usually lost
 
@@ -253,6 +278,12 @@ A source is where sugar is made or released, such as a photosynthesising leaf. A
 - Dividing by the final value in a percentage change.
 - Giving the volume rate without multiplying by cross-sectional area, or mixing mm and cm.
 - Explaining a factor with "faster" and no mention of gradient or stomata.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-transport-in-plants--01-xylem-phloem-positions.webp" width="900" height="1130" alt="Three schematic cross-sections. Root: xylem in the centre in a star or cross shape, phloem in small groups between its arms. Stem: a ring of vascular bundles near the outside, xylem on the inner side and phloem on the outer side. Leaf: xylem on the upper side and phloem on the lower side of the midrib and veins. A key gives the function of each tissue." loading="lazy">
+  <figcaption>In roots, stems and leaves, xylem (blue) and phloem (gold) sit in set positions.</figcaption>
+</figure>
+
 
 ## Official syllabus
 

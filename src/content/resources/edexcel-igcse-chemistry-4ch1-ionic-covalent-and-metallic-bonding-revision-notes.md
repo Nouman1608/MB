@@ -205,6 +205,16 @@ Small reminder (halogens, Mr from A_r F = 19, Cl = 35.5, Br = 80, I = 127):
   <figcaption>C60 is made only of carbon but is simple molecular, not a giant structure.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ionic-covalent-and-metallic-bonding--06-giant-covalent.webp" width="900" height="980" alt="Diamond is a rigid 3D network where every carbon bonds to four others, so it is very hard with a very high melting point and is used in cutting tools. Silicon dioxide has each silicon bonded to four oxygens and each oxygen to two silicons, with properties like diamond." loading="lazy">
+  <figcaption>Diamond and SiO2 are giant networks of covalent bonds, hard and with very high melting points.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ionic-covalent-and-metallic-bonding--07-graphite.webp" width="900" height="813" alt="Three flat layers of carbon atoms in hexagons, each atom bonded to three others. Weak forces (dashed) lie between the layers so they slide, making graphite soft and slippery, a lubricant. Delocalised electrons between layers let it conduct electricity." loading="lazy">
+  <figcaption>Graphite has layers held by weak forces and delocalised electrons that conduct.</figcaption>
+</figure>
+
 
 ### Conductivity (1.51)
 
@@ -233,6 +243,12 @@ Covalent compounds do not usually conduct electricity. Graphite is the exception
 | Malleable | Layers of positive ions slide over each other; attraction to the delocalised electrons is kept |
 | Usually high melting point | Many strong attractions to overcome |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ionic-covalent-and-metallic-bonding--08-metallic-bonding.webp" width="900" height="1212" alt="A lattice of positive metal ions in a sea of free electrons. The attraction holds the structure together. Free electrons drifting carry current, and when layers of ions slide the electron sea still holds them together, so metals are malleable." loading="lazy">
+  <figcaption>Positive ions in a sea of delocalised electrons explain conduction and malleability.</figcaption>
+</figure>
+
+
 ## Must-know distinctions
 
 - **Ionic diagram vs covalent diagram:** brackets and charges (transfer) vs overlapping circles (sharing). Never mix them.
@@ -240,12 +256,6 @@ Covalent compounds do not usually conduct electricity. Graphite is the exception
 - **Graphite vs C60:** both have three bonds per carbon, but graphite is a giant layered structure that conducts; C60 is molecular and a poor conductor.
 - **Ionic vs metallic conduction:** ions must be free to move (molten or aqueous only) vs delocalised electrons move (solid too).
 - **Lose vs gain:** metals lose electrons; nothing gains protons.
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/periodic-table-groups-and-trends--01-arrangement.webp" width="900" height="770" alt="A cut-down Periodic Table (periods 2 and 3, groups I to VIII) with outer electrons, typical ion charge and the metal to non-metal change across a period." loading="lazy">
-  <figcaption>Elements are arranged in periods (rows) and groups (columns); group number fixes the outer electrons and ion charge.</figcaption>
-</figure>
-
 
 ## Quick self-test
 
@@ -276,6 +286,12 @@ Covalent compounds do not usually conduct electricity. Graphite is the exception
 10. C60 is simple molecular: only weak intermolecular forces hold the molecules together. Diamond is giant covalent: every carbon is held by four strong covalent bonds in a rigid network.
 11. In the solid the ions are fixed in the lattice. In solution the ions are free to move and carry charge.
 12. The electrostatic attraction between positive metal ions and delocalised electrons.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/periodic-table-groups-and-trends--01-arrangement.webp" width="900" height="770" alt="A cut-down Periodic Table (periods 2 and 3, groups I to VIII) with outer electrons, typical ion charge and the metal to non-metal change across a period." loading="lazy">
+  <figcaption>Elements are arranged in periods (rows) and groups (columns); group number fixes the outer electrons and ion charge.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

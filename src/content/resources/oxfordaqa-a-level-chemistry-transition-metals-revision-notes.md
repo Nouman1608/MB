@@ -54,12 +54,6 @@ After that, try the [practice questions](/resources/oxfordaqa-a-level-chemistry-
 
 Ions lose 4s electrons before 3d. Cu²⁺ is [Ar] 3d⁹; V³⁺ is [Ar] 3d².
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-transition-metals--01-complex-anatomy.webp" width="900" height="1160" alt="An octahedral copper(II) ion has six water ligands, each joined by a dative bond (a lone pair donated by the ligand); labels name the metal ion, ligand and dative bond. Below, three bidentate ethanedioate ligands (coloured curves) give six bonds to chromium, so the coordination number is 6 and Cr is +3." loading="lazy">
-  <figcaption>A complex is a metal ion with ligands bonded by dative bonds; count the bonds, not the ligands, for coordination number.</figcaption>
-</figure>
-
-
 ## 3.2.5.2 Ligand substitution
 
 | Swap | Co-ordination number | Why |
@@ -241,6 +235,17 @@ MnO₄⁻ + 8H⁺ + 4Mn²⁺ → 5Mn³⁺ + 4H₂O        C₂O₄²⁻ + 2Mn³�
 9. 0.0120 × 0.02160 = 2.592 × 10⁻⁴ mol MnO₄⁻, × 5/2 = **6.48 × 10⁻⁴ mol**.
 10. Two **negative ions repel**, and the catalyst, **Mn²⁺**, has not formed yet.
 11. **Linear, 180°**.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-transition-metals--01-complex-anatomy.webp" width="900" height="1160" alt="An octahedral copper(II) ion has six water ligands, each joined by a dative bond (a lone pair donated by the ligand); labels name the metal ion, ligand and dative bond. Below, three bidentate ethanedioate ligands (coloured curves) give six bonds to chromium, so the coordination number is 6 and Cr is +3." loading="lazy">
+  <figcaption>A complex is a metal ion with ligands bonded by dative bonds; count the bonds, not the ligands, for coordination number.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-transition-metals--07-colour-d-orbitals.webp" width="900" height="1050" alt="A spectrum bar from 400 to 700 nm has the 620 nm band removed. An energy diagram shows split d orbitals (three lower, two upper) with a photon lifting a d electron across the gap delta E. Delta E = hc/lambda = 3.21e-19 J per ion = 193 kJ/mol." loading="lazy">
+  <figcaption>A complex absorbs light whose energy matches delta E, promoting a d electron; we see the remaining colours.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

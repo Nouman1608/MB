@@ -236,6 +236,12 @@ E_k = (3/2)kT = 1.5 × 1.38 × 10⁻²³ × 300 = 6.21 × 10⁻²¹ J
 c_rms = √(3kT/m) = √(3 × 1.38 × 10⁻²³ × 300 / 4.65 × 10⁻²⁶) = 517 m s⁻¹
 ```
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-oxfordaqa-physics-motion-and-newtons-laws--07-collisions-1d.webp" width="900" height="1240" alt="Two one-dimensional collisions with bar charts. Gliders sticking together keep momentum 0.378 kg m s-1 but kinetic energy falls from 0.170 J to 0.102 J. Elastic trolleys keep both momentum (1.44) and kinetic energy (1.728 J), and the speeds of approach and separation are both 2.4 m s-1." loading="lazy">
+  <figcaption>Momentum is conserved in both kinds of collision; kinetic energy is conserved only if the collision is perfectly elastic.</figcaption>
+</figure>
+
+
 ## Common errors
 
 - Using revolutions per minute as f, or a calculator in degrees for A cos ωt.

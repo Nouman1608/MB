@@ -46,6 +46,12 @@ Distance travelled = **400 m** (the total path length). Displacement =
 from start to finish is zero) — a clean illustration of why distance and
 displacement are not the same quantity, even for real motion.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/kinematics--01-distance-displacement.webp" width="900" height="920" alt="A runner doing one lap of a 400 m track has distance 400 m and displacement 0. A walker going 300 m east then 100 m west has distance 400 m and displacement 200 m east." loading="lazy">
+  <figcaption>Distance is the path length; displacement is the straight-line change from the start, with direction.</figcaption>
+</figure>
+
+
 ## Equations
 
 ```
@@ -97,11 +103,6 @@ Total distance                       = 105 m
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/kinematics--03-distance-time-tangent.webp" width="900" height="900" alt="A curved distance-time graph gets steeper, so the object accelerates. A tangent at 4 s rises 32 m over 4 s, so the speed at that instant is 8 m/s." loading="lazy">
-  <figcaption>For a curve, the speed at an instant is the gradient of the tangent.</figcaption>
-</figure>
-
-<figure class="topic-figure">
   <img src="https://img.marlbridge.com/kinematics--04-speed-time-area.webp" width="900" height="930" alt="Speed rises from 0 to 10 m/s in 5 s then stays constant for 8 s. Gradient of the slope is 2 m/s squared. Triangle area 25 m plus rectangle area 80 m gives 105 m." loading="lazy">
   <figcaption>Gradient gives acceleration and area gives distance travelled.</figcaption>
 </figure>
@@ -119,12 +120,6 @@ Total distance                       = 105 m
 - With air resistance: drag rises with speed until drag = weight, resultant force = 0, and the object falls at constant **terminal velocity**.
 - On a speed–time graph, terminal velocity is where the curve **flattens** — the object does not slow down.
 - A skydiver's speed–time graph before and after the parachute opens shows: a rising curve that flattens as the object approaches its (higher) terminal velocity in free fall, then a sharp drop in speed the instant the parachute opens (drag suddenly increases), followed by the curve flattening again at a much lower terminal velocity for the rest of the descent.
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/kinematics--06-free-fall.webp" width="900" height="920" alt="A ball dropped from rest is shown at 0, 1, 2 and 3 seconds with gaps that grow. Its downward speed is 9.8, 19.6 and 29.4 m/s, so it gains 9.8 m/s each second." loading="lazy">
-  <figcaption>In free fall, speed increases by about 9.8 m/s every second.</figcaption>
-</figure>
-
 
 ## Exam traps
 
@@ -152,7 +147,12 @@ Total distance                       = 105 m
 For the full worked explanations behind every example above, see the [Kinematics and Motion Graphs study guide](/resources/kinematics/); for exam-style questions with full mark schemes, see the [Kinematics practice questions](/resources/kinematics-practice/).
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/kinematics--01-distance-displacement.webp" width="900" height="920" alt="A runner doing one lap of a 400 m track has distance 400 m and displacement 0. A walker going 300 m east then 100 m west has distance 400 m and displacement 200 m east." loading="lazy">
-  <figcaption>Distance is the path length; displacement is the straight-line change from the start, with direction.</figcaption>
+  <img src="https://img.marlbridge.com/kinematics--03-distance-time-tangent.webp" width="900" height="900" alt="A curved distance-time graph gets steeper, so the object accelerates. A tangent at 4 s rises 32 m over 4 s, so the speed at that instant is 8 m/s." loading="lazy">
+  <figcaption>For a curve, the speed at an instant is the gradient of the tangent.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/kinematics--06-free-fall.webp" width="900" height="920" alt="A ball dropped from rest is shown at 0, 1, 2 and 3 seconds with gaps that grow. Its downward speed is 9.8, 19.6 and 29.4 m/s, so it gains 9.8 m/s each second." loading="lazy">
+  <figcaption>In free fall, speed increases by about 9.8 m/s every second.</figcaption>
 </figure>
 

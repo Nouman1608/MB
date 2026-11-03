@@ -135,11 +135,6 @@ Core asks for the nth term of linear, **simple** quadratic and **simple** cubic 
 **Method:** write out the sequence, then the differences between consecutive terms, then the differences of those (2nd differences), then — if the 2nd differences are still changing — the differences of *those* (3rd differences), to identify the type before finding the nth term. A cubic sequence is identified by a constant 3rd difference, not by a roughly constant ratio between 2nd differences; for n³, for example, the 2nd differences are 12, 18, 24, ... (a changing ratio) while the 3rd differences are a constant 6.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-mathematics-algebra-and-graphs--05-linear-nth-term.webp" width="900" height="950" alt="The sequence 5, 8, 11, 14 rises by 3 each time. On a graph the terms lie on a straight line rising 3 per step and reaching 2 at n = 0. So the nth term is 3n + 2." loading="lazy">
-  <figcaption>A constant difference d gives dn plus the value the line has at n = 0.</figcaption>
-</figure>
-
-<figure class="topic-figure">
   <img src="https://img.marlbridge.com/igcse-mathematics-algebra-and-graphs--06-quadratic-nth-term.webp" width="900" height="980" alt="The sequence 2, 5, 10, 17, 26 has first differences 3, 5, 7, 9 and constant second difference 2. Dot squares show each term as n squared plus one extra dot, so the nth term is n squared plus 1." loading="lazy">
   <figcaption>A constant second difference means a quadratic nth term.</figcaption>
 </figure>
@@ -190,3 +185,9 @@ Core asks for the nth term of linear, **simple** quadratic and **simple** cubic 
 5. *(Extended)* A straight line passes through (0, 3) and (4, 11). Find its gradient.
 
 **Answers:** 1. (x + 7)(x − 7). 2. 3x = 18, x = 6. 3. −2x ≥ 6, x ≤ −3 (dividing by a negative reverses the sign) — filled circle at −3, shading to the left. 4. Constant difference of 3, so nth term = 3n + 2. 5. gradient = (11 − 3)/(4 − 0) = 8/4 = 2.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-algebra-and-graphs--05-linear-nth-term.webp" width="900" height="950" alt="The sequence 5, 8, 11, 14 rises by 3 each time. On a graph the terms lie on a straight line rising 3 per step and reaching 2 at n = 0. So the nth term is 3n + 2." loading="lazy">
+  <figcaption>A constant difference d gives dn plus the value the line has at n = 0.</figcaption>
+</figure>
+

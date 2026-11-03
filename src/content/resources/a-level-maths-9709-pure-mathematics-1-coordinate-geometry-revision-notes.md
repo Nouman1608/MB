@@ -209,12 +209,6 @@ For "the line meets the curve" (at least once) use b² − 4ac ≥ 0. When the l
 - **Two points vs at least one.** "Two distinct points" is b² − 4ac > 0; "meets" is ≥ 0; "touches" is = 0.
 - **Distance vs distance squared.** Compare squared distances with r² when testing a point; take the square root only for a final length.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-level-maths-9709-pure-mathematics-1-coordinate-geometry-revision-notes--01-perpendicular-gradients.webp" width="900" height="1176" alt="Four lines through the origin. Gradient 2 is perpendicular only to gradient -1/2 (product -1); gradient -2 gives 53.1 degrees and gradient 1/2 gives 36.9 degrees." loading="lazy">
-  <figcaption>Perpendicular means flip the gradient and change its sign.</figcaption>
-</figure>
-
-
 ## Quick self-test
 
 1. Find the gradient and the midpoint of the line joining (−2, 5) and (4, −7).
@@ -244,6 +238,12 @@ For "the line meets the curve" (at least once) use b² − 4ac ≥ 0. When the l
 10. x² − 2x + 3 − k = 0; discriminant 4k − 8. Tangent: **k = 2**. Two points: **k > 2**.
 11. Radius gradient −4/3, so tangent gradient 3/4: y + 4 = (3/4)(x − 3), **3x − 4y − 25 = 0**.
 12. Centre (1, 5), r² = 4² + 3² = 25: **(x − 1)² + (y − 5)² = 25**.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-maths-9709-pure-mathematics-1-coordinate-geometry-revision-notes--01-perpendicular-gradients.webp" width="900" height="1176" alt="Four lines through the origin. Gradient 2 is perpendicular only to gradient -1/2 (product -1); gradient -2 gives 53.1 degrees and gradient 1/2 gives 36.9 degrees." loading="lazy">
+  <figcaption>Perpendicular means flip the gradient and change its sign.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

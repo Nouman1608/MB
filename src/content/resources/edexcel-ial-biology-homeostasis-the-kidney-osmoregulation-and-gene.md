@@ -165,6 +165,12 @@ A **transcription factor** is a protein that binds to a specific DNA sequence ne
 
 **Peptide hormones** (such as insulin and ADH) are water-soluble and cannot cross the membrane. They bind receptors on the cell surface membrane, acting extracellularly. This triggers a chain of reactions involving a second messenger such as cyclic AMP, which activates transcription factors in the cell and so changes which genes are expressed.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-homeostasis--08-second-messenger.webp" width="900" height="1040" alt="A liver cell membrane with glucagon outside. Glucagon binds a receptor; a G-protein is activated; adenylyl cyclase makes cAMP from ATP; cAMP activates protein kinase A; an enzyme cascade amplifies the signal (for example 50 at each of three stages gives 125 000); glycogen is broken down to glucose." loading="lazy">
+  <figcaption>Glucagon never enters the cell: cAMP relays the message and the enzyme cascade amplifies it.</figcaption>
+</figure>
+
+
 ## Common errors
 
 - Saying negative feedback "stops" a change instead of reversing it.

@@ -117,12 +117,6 @@ Seeing two peaks two units apart in roughly equal height means **bromine**; a 3:
 
 **M+1** arises from ¹³C, and its size relative to M indicates the **number of carbon atoms**, since each carbon contributes about 1.1%. As a rough rule, the **number of carbon atoms ≈ (height of M+1 as a % of M) ÷ 1.1** — so an M+1 peak at roughly 3.3% of the height of M suggests a three-carbon compound.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/as-chemistry-ir-mass-spec-revision-notes--02-ms-isotope-patterns.webp" width="900" height="1180" alt="Three small spectra. Chlorine gives M and M+2 in a 3 to 1 ratio, bromine gives M and M+2 in a 1 to 1 ratio, and an M+1 peak 3.3 percent the height of M means 3 carbon atoms at 1.1 percent per carbon." loading="lazy">
-  <figcaption>Chlorine 3:1, bromine 1:1, and counting carbon atoms from M+1.</figcaption>
-</figure>
-
-
 ## Exam traps
 
 - Confusing the broad acid O–H (2500–3000) with the alcohol O–H (3200–3600).
@@ -143,3 +137,9 @@ Seeing two peaks two units apart in roughly equal height means **bromine**; a 3:
 7. A compound's mass spectrum shows an M+1 peak at about 6.6% of the height of M. Roughly how many carbon atoms does it contain?
 
 **Answers:** 1. The strength of the bond and the masses of the atoms it joins. 2. A broad O–H at 3200–3600 with no C=O indicates an alcohol; a C=O with a very broad O–H at 2500–3000 indicates a carboxylic acid; a C=O with no O–H indicates an aldehyde or ketone. 3. The relative molecular mass of the compound. 4. Chlorine gives M : M+2 of 3 : 1; bromine gives 1 : 1. 5. Identifying a compound by comparing the whole pattern with a reference database, since it is unique to each substance. 6. An amine (N–H absorption at 3300–3500 cm⁻¹). Distinguishing primary from secondary amines by counting N–H peaks is background context beyond what AS 19.1 requires — 19.1 states that classifying amines this way is not tested at AS. 7. About six carbon atoms (6.6 ÷ 1.1 = 6).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/as-chemistry-ir-mass-spec-revision-notes--02-ms-isotope-patterns.webp" width="900" height="1180" alt="Three small spectra. Chlorine gives M and M+2 in a 3 to 1 ratio, bromine gives M and M+2 in a 1 to 1 ratio, and an M+1 peak 3.3 percent the height of M means 3 carbon atoms at 1.1 percent per carbon." loading="lazy">
+  <figcaption>Chlorine 3:1, bromine 1:1, and counting carbon atoms from M+1.</figcaption>
+</figure>
+

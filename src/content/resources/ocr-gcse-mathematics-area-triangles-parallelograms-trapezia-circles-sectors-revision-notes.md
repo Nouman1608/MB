@@ -82,6 +82,11 @@ Be ready to leave an answer as a multiple of π as well as to round it.
 4. Round at the end and give the unit.
 
 <figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-mathematics-area-triangles-parallelograms-trapezia-circles-sectors--02-circle-area-radius-first.webp" width="900" height="840" alt="A circle of diameter 18 cm is halved to a radius of 9 cm. Three r-squared squares and a 0.14 strip show the area is about 3.14 squares of side r. Area = 81π cm², about 254 cm²." loading="lazy">
+  <figcaption>Halve the diameter, square the radius, then multiply by π; 81π is the exact answer.</figcaption>
+</figure>
+
+<figure class="topic-figure">
   <img src="https://img.marlbridge.com/ocr-gcse-mathematics-area-triangles-parallelograms-trapezia-circles-sectors--04-area-find-missing-length.webp" width="900" height="920" alt="Three to-scale shapes: a parallelogram (84 = 12h, h = 7), a trapezium (96 = 12h, h = 8) and a circle (πr² = 200, r = 7.98 cm)." loading="lazy">
   <figcaption>Undo the formula: divide the area by the other factors, or take a square root.</figcaption>
 </figure>
@@ -151,12 +156,6 @@ Cost = 7.5 × 3.60 = £27
 ½ × 7 × 12 × sin 30° = 42 × 0.5 = 21 cm²
 ```
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ocr-gcse-mathematics-area-triangles-parallelograms-trapezia-circles-sectors--01-height-outside-triangle.webp" width="900" height="800" alt="A leaning sail with base 8.5 m. The top corner is 6.2 m above the extended base line, joined by a dashed line and a right angle. The slanting side is longer and is not the height. Area = half times 8.5 times 6.2 = 26.35 m²." loading="lazy">
-  <figcaption>The height is measured to the extended base line even when the top corner is not above the base.</figcaption>
-</figure>
-
-
 ## Check that your answer is sensible
 
 - A triangle is always smaller than the rectangle with the same base and height.
@@ -168,18 +167,8 @@ Cost = 7.5 × 3.60 = £27
 If an answer fails one of these checks, look for a wrong height, a missing ½ or a diameter used as a radius.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ocr-gcse-mathematics-area-triangles-parallelograms-trapezia-circles-sectors--03-area-of-a-ring.webp" width="900" height="800" alt="A ring has outer radius 9 cm and inner radius 6 cm. Its area is pi times 9 squared minus pi times 6 squared, which is 45 pi, about 141 square centimetres. The two areas are subtracted; the radii difference is not squared." loading="lazy">
-  <figcaption>Subtract the hole from the full circle.</figcaption>
-</figure>
-
-<figure class="topic-figure">
   <img src="https://img.marlbridge.com/ocr-gcse-mathematics-area-triangles-parallelograms-trapezia-circles-sectors--04-segment-sector-minus-triangle.webp" width="900" height="800" alt="A quarter circle of radius 10 cm has a chord joining the ends of its radii. The triangle has area 50. The gold region between chord and arc is 25 pi minus 50, about 28.5 square centimetres." loading="lazy">
   <figcaption>Segment area is sector area minus triangle area.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ocr-gcse-mathematics-area-triangles-parallelograms-trapezia-circles-sectors--02-circle-area-radius-first.webp" width="900" height="840" alt="A circle of diameter 18 cm is halved to a radius of 9 cm. Three r-squared squares and a 0.14 strip show the area is about 3.14 squares of side r. Area = 81π cm², about 254 cm²." loading="lazy">
-  <figcaption>Halve the diameter, square the radius, then multiply by π; 81π is the exact answer.</figcaption>
 </figure>
 
 
@@ -191,12 +180,6 @@ If an answer fails one of these checks, look for a wrong height, a missing ½ or
 - **Area against perimeter.** Area uses square units. Perimeter and circumference use plain units. Section 10.03 is about area only.
 - **Ring against smaller circle.** The area of a ring is πR² − πr². It is not π(R − r)².
 - **Exact against rounded.** 24π is exact. 75.4 is a rounded value. Give the form the question asks for.
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-mathematics-0580-units-of-measure-area-and-perimeter--06-perpendicular-height.webp" width="900" height="1130" alt="A parallelogram with base 12 cm, slant 7.5 cm and height 6 cm. Area is 12 x 6 = 72 cm squared using the perpendicular height; perimeter adds all four sides to give 39 cm." loading="lazy">
-  <figcaption>Use the perpendicular height for area and every side for perimeter.</figcaption>
-</figure>
-
 
 ## Quick self-test
 
@@ -229,8 +212,18 @@ Try each one before you look at the answers. Questions 9 and 10 are Higher tier 
 11. 3/4 × π × 4² = 3/4 × 16π = **12π cm²**
 
 <figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-mathematics-area-triangles-parallelograms-trapezia-circles-sectors--03-area-of-a-ring.webp" width="900" height="800" alt="A ring has outer radius 9 cm and inner radius 6 cm. Its area is pi times 9 squared minus pi times 6 squared, which is 45 pi, about 141 square centimetres. The two areas are subtracted; the radii difference is not squared." loading="lazy">
+  <figcaption>Subtract the hole from the full circle.</figcaption>
+</figure>
+
+<figure class="topic-figure">
   <img src="https://img.marlbridge.com/ocr-gcse-mathematics-area-triangles-parallelograms-trapezia-circles-sectors--03-sector-find-angle.webp" width="900" height="660" alt="A circle of radius 12 cm with a sector of area 40π cm² and unknown angle. The whole circle is 144π, so the fraction is 5/18 and the angle is 100°." loading="lazy">
   <figcaption>Divide the sector area by the whole circle area, then multiply the fraction by 360°.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-units-of-measure-area-and-perimeter--06-perpendicular-height.webp" width="900" height="1130" alt="A parallelogram with base 12 cm, slant 7.5 cm and height 6 cm. Area is 12 x 6 = 72 cm squared using the perpendicular height; perimeter adds all four sides to give 39 cm." loading="lazy">
+  <figcaption>Use the perpendicular height for area and every side for perimeter.</figcaption>
 </figure>
 
 
@@ -249,15 +242,20 @@ Try each one before you look at the answers. Questions 9 and 10 are Higher tier 
 
 Writing out each formula with the numbers substituted lets whoever marks your work see what you intended, even if the final value slips.
 
+## Next steps
+
+Test yourself on the [practice questions](/resources/ocr-gcse-mathematics-area-triangles-parallelograms-trapezia-circles-sectors-practice/), then return to the study guide for any step that felt uncertain.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-mathematics-area-triangles-parallelograms-trapezia-circles-sectors--01-height-outside-triangle.webp" width="900" height="800" alt="A leaning sail with base 8.5 m. The top corner is 6.2 m above the extended base line, joined by a dashed line and a right angle. The slanting side is longer and is not the height. Area = half times 8.5 times 6.2 = 26.35 m²." loading="lazy">
+  <figcaption>The height is measured to the extended base line even when the top corner is not above the base.</figcaption>
+</figure>
+
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/igcse-mathematics-mensuration--03-arc-and-sector.webp" width="900" height="1010" alt="A 90 degree sector of radius 6 cm is a quarter of the circle: arc 9.42 cm, area 28.3 cm2. A 110 degree sector of radius 8 cm is 110/360 of the circle: arc 15.36 cm, area 61.4 cm2. Core angles are factors of 360; Extended allows any angle." loading="lazy">
   <figcaption>Arc length and sector area are the same fraction, angle over 360, of the circumference and the area.</figcaption>
 </figure>
 
-
-## Next steps
-
-Test yourself on the [practice questions](/resources/ocr-gcse-mathematics-area-triangles-parallelograms-trapezia-circles-sectors-practice/), then return to the study guide for any step that felt uncertain.
 
 ## Official syllabus
 
@@ -271,5 +269,10 @@ OCR GCSE (9-1) Mathematics J560, Version 2.1 (August 2026), first assessment 201
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/igcse-mathematics-trigonometry--06-area-sine.webp" width="900" height="800" alt="Triangle with a = 8, b = 10 and C = 40 degrees. Height h = 8 sin 40 = 5.14 cm, so area = half of 10 times 5.14 = 25.7 cm squared, which is half a b sin C." loading="lazy">
   <figcaption>The area formula comes from base times height with h = a sin C.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-mensuration--04-compound-shape.webp" width="900" height="830" alt="A 6 by 8 cm rectangle has a semicircle of diameter 6 cm on top. Area is 48 + 14.14 = 62.14 cm2. The perimeter is 8 + 8 + 6 + 3 pi = 31.42 cm; the dashed join line is not an edge." loading="lazy">
+  <figcaption>Split a compound shape into simple shapes for the area, and count only the outside edge for the perimeter.</figcaption>
 </figure>
 

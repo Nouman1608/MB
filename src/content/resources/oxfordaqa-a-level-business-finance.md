@@ -165,6 +165,11 @@ The gap between a 40% gross margin and a 13% operating margin tells you overhead
   <figcaption>Each profit level leaves a smaller share of revenue as costs are deducted.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-business-finance--08-capacity-unit-cost.webp" width="900" height="920" alt="Unit cost falls as output rises (fixed 18,000, variable 0.45 per loaf). March: 24,000 loaves, 80% capacity, 1.20 pounds a loaf. April: 27,000 loaves, 90% capacity, 1.12 pounds a loaf; little spare room near capacity." loading="lazy">
+  <figcaption>Higher capacity utilisation spreads fixed costs and lowers unit cost, but leaves little spare room.</figcaption>
+</figure>
+
 
 ### Budgeting
 

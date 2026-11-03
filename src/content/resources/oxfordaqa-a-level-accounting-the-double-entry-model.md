@@ -57,6 +57,17 @@ Every transaction has an equal debit and credit. Debit an increase in an asset, 
 
 **Balancing an account.** Add both sides. Put the difference on the smaller side as "Balance c/d" so the two totals match. Bring it down on the opposite side as "Balance b/d" on the first day of the next period. Income and expense accounts are not carried down. Instead, the year's figure is transferred to the income statement.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-double-entry-model--01-debit-credit-rules.webp" width="900" height="956" alt="Six T-accounts show which side increases each account type: assets, expenses and drawings on the debit side; liabilities, income and capital on the credit side. An example buys a 4,000 dollar van by bank: debit Van, credit Bank. The rule is debit the receiver, credit the giver." loading="lazy">
+  <figcaption>Debit the account that receives value and credit the one that gives it; each account type increases on one side only.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-double-entry-model--02-balancing-account.webp" width="900" height="1020" alt="A K Lee ledger account is balanced: debits 300 and 450, credits 500 and 50, balance carried down 200, both sides 750, and 200 brought down on the debit side. A running balance layout (Cambridge only) gives the same 200 Dr." loading="lazy">
+  <figcaption>Balancing adds both sides, inserts the balance carried down, and brings it down on the opposite side.</figcaption>
+</figure>
+
+
 ## The three column cash book
 
 The three column cash book has discount, cash and bank columns on each side. Discounts allowed go in the debit-side discount column; discounts received go in the credit-side one. The discount columns are memorandum totals. They are not balanced. At the period end their totals are posted to the Discounts allowed account (debit) and the Discounts received account (credit).
@@ -179,17 +190,6 @@ Carrying amount 9,000 − proceeds 8,600 = loss on disposal 400, charged as an e
 
 In the electricity ledger account, the 280 appears as Balance c/d on the debit side, the 2,590 transfer to the income statement on the credit side, and the 280 comes down as a credit balance b/d.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/aqa-a-level-accounting-double-entry-model--02-balancing-account.webp" width="900" height="1020" alt="A K Lee ledger account is balanced: debits 300 and 450, credits 500 and 50, balance carried down 200, both sides 750, and 200 brought down on the debit side. A running balance layout (Cambridge only) gives the same 200 Dr." loading="lazy">
-  <figcaption>Balancing adds both sides, inserts the balance carried down, and brings it down on the opposite side.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/aqa-a-level-accounting-double-entry-model--07-paid-not-owed.webp" width="900" height="950" alt="Of 11,200 dollars of rent paid in 2027, 800 clears rent owed from 2026, 9,600 is the 2027 expense and 800 is paid for January 2028 (a prepayment, other receivable). The rent payable account balances at 11,200 and the 800 is brought down as a debit." loading="lazy">
-  <figcaption>Only the part of the cash paid that belongs to the year is charged to the income statement.</figcaption>
-</figure>
-
-
 ## Opening and closing inventory
 
 Cost of sales = opening inventory + purchases − purchases returns − closing inventory. Closing inventory is a current asset at the year end and becomes next year's opening inventory. Service businesses have no cost of sales, so their income statement starts with fees or revenue and deducts expenses.
@@ -249,6 +249,11 @@ Equity
 ```
 
 Net assets equal equity, so the statement balances.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-double-entry-model--07-paid-not-owed.webp" width="900" height="950" alt="Of 11,200 dollars of rent paid in 2027, 800 clears rent owed from 2026, 9,600 is the 2027 expense and 800 is paid for January 2028 (a prepayment, other receivable). The rent payable account balances at 11,200 and the 800 is brought down as a debit." loading="lazy">
+  <figcaption>Only the part of the cash paid that belongs to the year is charged to the income statement.</figcaption>
+</figure>
 
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/aqa-a-level-accounting-double-entry-model--09-trial-balance-blind-spots.webp" width="900" height="968" alt="Six small debit and credit examples show omission, commission, principle, original entry, reversal and compensating errors. In each, total debits still equal total credits, so the trial balance agrees even though the books are wrong." loading="lazy">

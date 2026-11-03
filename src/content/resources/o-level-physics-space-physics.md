@@ -110,6 +110,17 @@ The Solar System contains:
 
 The Sun contains most of the mass of the Solar System.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-physics-solar-system-orbits-red-shift-and-the-big-bang--08-orbital-speed-radius.webp" width="900" height="1010" alt="Two circular orbits to the same scale. A at 6.78e6 m moves at 7660 m/s and B at 1.25e7 m at 5650 m/s, with arrow length proportional to speed. Larger radius means lower speed and longer orbit time. The Moon moves at about 1020 m/s." loading="lazy">
+  <figcaption>A larger orbital radius goes with a lower orbital speed.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-radiation-from-bodies-the-solar-system-and-orbits--07-orbit-speed-radius.webp" width="900" height="1040" alt="Earth with an inner orbit (satellite A, 7540 m/s, 5830 s) and an outer orbit (satellite B, 6310 m/s, 9950 s). Arrow lengths show speed: the lower orbit is faster and has the shorter period." loading="lazy">
+  <figcaption>A satellite in a lower orbit moves faster than one in a higher orbit.</figcaption>
+</figure>
+
+
 ### Gravitational field strength
 
 Three ideas link the strength of a gravitational field to mass and distance.
@@ -195,6 +206,11 @@ Stars are powered by **nuclear reactions** that release energy. In stable stars,
   <figcaption>The Sun radiates mostly infrared, visible and ultraviolet.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-physics-life-cycle-of-a-star--01-star-balance.webp" width="900" height="1290" alt="Three stars with inward gravity arrows and outward push arrows. A small star has longer outward arrows and swells; a steady main sequence star has equal arrows; a large star has longer inward arrows and shrinks. The star settles where the forces are balanced." loading="lazy">
+  <figcaption>A star is steady because gravity in equals the push out from hot gas.</figcaption>
+</figure>
+
 
 ## 6.2.2 Stars
 
@@ -231,6 +247,16 @@ The word "planetary" in "planetary nebula" does not mean the nebula contains pla
   <figcaption>A light-year is a distance, and the Milky Way is about 100 000 light-years across.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-physics-0625-space-physics--05-star-life-cycle.webp" width="900" height="1110" alt="A cloud of gas and dust collapses into a protostar and becomes a stable star. Less massive stars become red giants, then a planetary nebula with a white dwarf. More massive stars become red supergiants, explode as supernovae and leave a neutron star or black hole. The nebula may form new stars." loading="lazy">
+  <figcaption>A star's mass decides whether it ends as a white dwarf, a neutron star or a black hole.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-physics-life-cycle-of-a-star--03-star-elements.webp" width="900" height="1110" alt="A five-step chain: the early universe had only hydrogen; main sequence stars fuse hydrogen to helium; red giants make carbon then nitrogen and oxygen; the hottest cores make the heaviest nuclei up to iron; elements heavier than iron come only from a supernova, which spreads all the elements into space." loading="lazy">
+  <figcaption>Stars made the elements, and supernovae spread them.</figcaption>
+</figure>
+
 
 ## 6.2.3 The Universe
 
@@ -243,6 +269,17 @@ The word "planetary" in "planetary nebula" does not mean the nebula contains pla
 
 The light from distant galaxies shows redshift. The further away the galaxy, the greater the observed redshift, and the faster the galaxy is moving away from the Earth.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-physics-0625-space-physics--06-redshift.webp" width="900" height="990" alt="Two waves on the same scale: light from a source on Earth, and light from a distant galaxy with a wavelength 1.5 times longer, shown in red. Redshift means the galaxy is moving away, so the Universe is expanding, supporting the Big Bang." loading="lazy">
+  <figcaption>Longer observed wavelength means the galaxy is moving away.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-physics-8463-space-physics--14-redshift-spectra.webp" width="900" height="900" alt="Three spectra from 400 to 750 nm with a dark line at 656 nm (laboratory), 689 nm (galaxy A) and 722 nm (galaxy B). The increases are 33 nm (5.0 %) and 66 nm (10 %), so galaxy B is moving away faster." loading="lazy">
+  <figcaption>A bigger increase in wavelength means a faster, more distant galaxy.</figcaption>
+</figure>
+
+
 ### Evidence for the Big Bang
 
 Describe this qualitatively, in three steps.
@@ -250,6 +287,17 @@ Describe this qualitatively, in three steps.
 1. Light from distant galaxies is redshifted, so the galaxies are moving away from us.
 2. The further the galaxy, the faster it recedes, so the Universe is expanding.
 3. Running the expansion backwards, everything was once much closer together, which is the idea of the Big Bang theory.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-physics-8463-space-physics--15-galaxy-speed-distance.webp" width="900" height="980" alt="A graph of galaxy speed against distance with points (1, 2300), (2, 4600), (3, 6900), (4, 9200) on a straight line through the origin. The galaxy at 2.5 is predicted at 5750 km/s." loading="lazy">
+  <figcaption>Speed is directly proportional to distance: the further the galaxy, the faster it recedes.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-physics-astrophysics--07-expanding-space.webp" width="900" height="1150" alt="Rows of five galaxies at an earlier time (spacing 100) and later (spacing 150). Arrows from the viewing galaxy get longer for galaxies that were farther away. The same pattern is seen when another galaxy is the viewer, so there is no special centre." loading="lazy">
+  <figcaption>Every galaxy sees the others recede, farther ones faster, with no centre.</figcaption>
+</figure>
+
 
 ## Common errors
 

@@ -133,6 +133,11 @@ the relative atomic masses in the formula.
   <figcaption>Ar is the weighted mean isotope mass on a scale where carbon-12 is exactly 12, so it has no units.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-chemistry-relative-mass-and-the-mole--06-hydrated-salt.webp" width="900" height="900" alt="A crucible of blue hydrated copper sulfate (2.50 g) is heated and becomes white anhydrous copper sulfate (1.60 g) with 0.90 g of water driven off as steam. Moles of 0.0100 CuSO4 and 0.0500 H2O give a 1:5 ratio, so CuSO4.5H2O." loading="lazy">
+  <figcaption>Mass lost on heating gives the moles of water per mole of salt. OCR content.</figcaption>
+</figure>
+
 
 ## 1.5 Concentration of solutions
 

@@ -129,12 +129,6 @@ These come from the guide's conventions for on-screen examinations, and they are
 
 For a rule such as C = 18 + 22m: table rows give 40, 62, 84 for m = 1, 2, 3 after adding 18 to each 22m. The graph is a line with intercept 18 and gradient 22. In words, "18 to join and 22 each month". Reading back from the graph, C = 260 gives 22m = 242, so m = 11. Always check that each form agrees with the others.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ib-myp-mathematics-criteria-c-and-d-by-year-communicating-and-applying--01-tank-three-forms.webp" width="900" height="1130" alt="A water tank starts with 40 litres and a pump adds 12 litres each minute. The table, the rule V = 40 + 12t and the graph carry the same facts. The graph starts at (0, 40), has gradient 12 and stops at the full tank, t = 17.5. Reading back, V = 190 gives t = 12.5." loading="lazy">
-  <figcaption>The same tank as a table, a rule and a graph, with the domain 0 ≤ t ≤ 17.5.</figcaption>
-</figure>
-
-
 ## Model validity checklist
 
 - State the domain where the model works.
@@ -144,6 +138,11 @@ For a rule such as C = 18 + 22m: table rows give 40, 62, 84 for m = 1, 2, 3 afte
 - Do not predict outside the domain, or say clearly that the prediction is unreliable.
 
 **Reminder.** A savings model B = 800 × 1.04ⁿ gives B = 1012.26 after 6 years, rounded to the nearest penny. It assumes the 4% rate never changes. If the bank changes the rate, the model is no longer valid.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-mathematics-criteria-c-and-d-by-year-communicating-and-applying--01-tank-three-forms.webp" width="900" height="1130" alt="A water tank starts with 40 litres and a pump adds 12 litres each minute. The table, the rule V = 40 + 12t and the graph carry the same facts. The graph starts at (0, 40), has gradient 12 and stops at the full tank, t = 17.5. Reading back, V = 190 gives t = 12.5." loading="lazy">
+  <figcaption>The same tank as a table, a rule and a graph, with the domain 0 ≤ t ≤ 17.5.</figcaption>
+</figure>
 
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/ib-myp-mathematics-criteria-c-and-d-by-year-communicating-and-applying--03-candle-model-validity.webp" width="900" height="1100" alt="The candle model h = 24 − 1.5t is a straight line valid until it reaches 0 at t = 16; beyond that it gives impossible negative heights. Measured heights differ from the model by 0.1, 0.2 and 0.4 cm, a growing gap, so the real rate is about 1.46 cm per hour." loading="lazy">
@@ -218,6 +217,11 @@ Check: left side 3(7 + 4) = 33, right side 2(7) + 19 = 33.
 8. 800 × 1.04¹⁰ = 1184.20, so £1184.20.
 9. Complete, coherent and concise.
 10. The real situation may curve, level off or hit a physical limit, such as a negative height.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-mathematics-criteria-c-and-d-by-year-communicating-and-applying--04-five-consecutive-sum.webp" width="900" height="1210" alt="Five columns of blocks stand for n − 2 to n + 2. The extra blocks on the two taller columns fill the gaps in the two shorter ones, leaving five equal columns of n, so the sum is 5n for every integer n." loading="lazy">
+  <figcaption>Moving blocks from the big columns to the small ones shows why the sum is always 5n.</figcaption>
+</figure>
 
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/igcse-mathematics-0580-estimation-and-using-a-calculator--05-round-up-or-down.webp" width="900" height="1000" alt="157 students in 12-seat minibuses: 13 buses seat only 156, so 13.08 rounds up to 14. Tickets at $3.85 with $50: twelve cost $46.20 but a thirteenth reaches $50.05, so 12.98 rounds down to 12." loading="lazy">

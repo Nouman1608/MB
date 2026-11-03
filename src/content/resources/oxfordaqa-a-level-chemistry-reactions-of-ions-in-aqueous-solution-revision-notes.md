@@ -91,11 +91,6 @@ Every idea here is explained at length, with worked examples, in the [study guid
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-reactions-of-ions-in-aqueous-solution--07-silver-halides.webp" width="900" height="1060" alt="A 3 by 3 grid of tubes for chloride, bromide and iodide. With silver nitrate the precipitates are white, cream and yellow. Dilute ammonia dissolves only silver chloride; concentrated ammonia dissolves silver chloride and silver bromide; silver iodide never dissolves." loading="lazy">
-  <figcaption>Chloride dissolves in dilute NH3, bromide only in concentrated NH3, and iodide does not dissolve.</figcaption>
-</figure>
-
-<figure class="topic-figure">
   <img src="https://img.marlbridge.com/aqa-a-level-chemistry-reactions-of-ions-in-aqueous-solution--09-mn-cr-tests.webp" width="900" height="770" alt="A grid of tubes for the two extra OCR ions. Mn2+ (very pale pink) gives a light brown precipitate with NaOH or NH3 that does not dissolve in excess and darkens in air. Cr3+ (violet) gives a grey-green precipitate that dissolves in excess NaOH to a dark green solution and in excess NH3 to a purple solution." loading="lazy">
   <figcaption>OCR adds Mn2+ and Cr3+; only Cr(OH)3 dissolves in excess NaOH, and Cr(OH)3 dissolves in excess NH3 too.</figcaption>
 </figure>
@@ -205,6 +200,16 @@ Mole ratios you will use in calculations:
   <figcaption>Two results are special: Al(OH)3 dissolves in excess NaOH and Cu(OH)2 dissolves in excess NH3.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-reactions-of-ions-in-aqueous-solution--05-carbonate-tests.webp" width="900" height="1005" alt="Two panels add carbonate ions to a tube. M2+ ions (Fe2+, Cu2+) are weakly acidic and give a metal carbonate precipitate with no gas. M3+ ions (Fe3+, Al3+) give H+ to carbonate, so the tube fizzes with CO2 and a metal hydroxide precipitate forms. The balanced aluminium equation is shown." loading="lazy">
+  <figcaption>3+ ions are acidic enough to turn carbonate into CO2, leaving a hydroxide; 2+ ions simply precipitate the carbonate.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-reactions-of-ions-in-aqueous-solution--07-silver-halides.webp" width="900" height="1060" alt="A 3 by 3 grid of tubes for chloride, bromide and iodide. With silver nitrate the precipitates are white, cream and yellow. Dilute ammonia dissolves only silver chloride; concentrated ammonia dissolves silver chloride and silver bromide; silver iodide never dissolves." loading="lazy">
+  <figcaption>Chloride dissolves in dilute NH3, bromide only in concentrated NH3, and iodide does not dissolve.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 
@@ -216,6 +221,12 @@ Mole ratios you will use in calculations:
 - Giving effervescence for Fe²⁺ or Cu²⁺ with carbonate.
 - Using a 1 : 1 or 1 : 3 ratio between M³⁺ and CO₂ instead of 2 : 3.
 - Naming the reagent without saying "dropwise" and "in excess" when a question asks how to tell two ions apart.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-reactions-of-ions-in-aqueous-solution--02-deprotonation-ladder.webp" width="900" height="970" alt="Two rows of hexa-aqua complexes with six ligand circles. Water ligands (teal) become hydroxide ligands (gold) one at a time, each step removing H+ and lowering the charge by 1. A 2+ ion reaches charge 0 after two steps and a 3+ ion after three; the neutral complex is the precipitate." loading="lazy">
+  <figcaption>A complex that has lost enough H+ to reach zero charge is no longer attracted to water and precipitates.</figcaption>
+</figure>
+
 
 ## Official syllabus
 

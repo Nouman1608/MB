@@ -66,6 +66,11 @@ Imperial conversions (miles, pounds, pints and so on) are **given** in the quest
 **Compound measures** (speed, density, pressure, rates of pay, unit price) follow the same unit rules. See the [Ratio, proportion and rates of change revision notes](/resources/aqa-gcse-maths-8300-ratio-proportion-and-rates-of-change-revision-notes/) for the formulas.
 
 <figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-units-of-measure-area-and-perimeter--02-area-units.webp" width="900" height="1100" alt="A 1 cm square is a 10 by 10 grid of mm squares, so 1 cm squared is 100 mm squared. A 1 m square is 100 by 100 cm squares, 10 000 cm squared, and a shaded 0.6 m square shows 0.36 m squared is 3600 cm squared." loading="lazy">
+  <figcaption>The area factor is the length factor squared.</figcaption>
+</figure>
+
+<figure class="topic-figure">
   <img src="https://img.marlbridge.com/igcse-mathematics-0580-units-of-measure-area-and-perimeter--03-volume-capacity.webp" width="900" height="1000" alt="A 10 cm cube is 10x10x10 cubes of 1 cm cubed, so 1000 cm cubed is 1 litre. A 1 m cube is 10x10x10 one-litre cubes, so 1 m cubed is 1000 litres." loading="lazy">
   <figcaption>1000 cm cubed = 1 litre and 1 m cubed = 1000 litres.</figcaption>
 </figure>
@@ -126,6 +131,11 @@ Use your estimate to check a calculator answer. If the estimate is 10 and the di
   <figcaption>Count significant figures from the first non-zero digit and keep zeros that show accuracy, as in 0.070.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-estimation-and-using-a-calculator--01-rounding-number-line.webp" width="900" height="960" alt="Two number lines show 46 285 between 46 200 and 46 300, past the halfway point 46 250, so it rounds up to 46 300. Between 46 000 and 47 000 it lies before halfway 46 500, so it rounds to 46 000." loading="lazy">
+  <figcaption>Compare 46 285 with the halfway point to round to the nearest 100 or 1000.</figcaption>
+</figure>
+
 
 ## N15: Error intervals
 
@@ -154,6 +164,11 @@ Upper limit = value + one whole unit (<)
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/aqa-gcse-maths-8300-measures-and-accuracy--01-rounded-or-truncated.webp" width="900" height="890" alt="A pair of number lines from 6.20 to 6.45. Rounding 6.3 to 1 d.p. gives 6.25 &lt;= x &lt; 6.35 (closed dot at 6.25, open dot at 6.35). Truncating to 6.3 gives 6.3 &lt;= y &lt; 6.4." loading="lazy">
   <figcaption>Rounding allows half a unit either side; truncation only goes up by one whole unit.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-number--04-limits-of-accuracy.webp" width="900" height="810" alt="A number line from 4.50 to 4.70 kg shades the values from 4.55 to 4.65 that round to 4.6 kg. The lower bound 4.55 is included (filled dot); the upper bound 4.65 is not (open dot)." loading="lazy">
+  <figcaption>A value given to 1 d.p. can be up to half a unit (0.05) either side: 4.55 &lt;= mass &lt; 4.65.</figcaption>
 </figure>
 
 
@@ -188,6 +203,12 @@ LB = 6.45 × 3.15 = 20.3175 m²
 
 For the rectangle: to 1 s.f. both bounds round to 20; to 2 s.f. they are 21 and 20. So the area is **20 m²** (1 s.f.).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-maths-8300-measures-and-accuracy--03-bounds-speed-agree.webp" width="900" height="830" alt="A number line from 15.25 to 15.45 m/s marks the speed bounds 15.31 (1495 / 97.65) and 15.43 (1505 / 97.55). To 3 s.f. they give 15.3 and 15.4 so disagree; to 2 s.f. both give 15, so the speed is 15 m/s." loading="lazy">
+  <figcaption>Round both bounds until they agree to find the appropriate degree of accuracy.</figcaption>
+</figure>
+
+
 ## Must-know distinctions
 
 - **Rounding vs truncation**: rounding goes half a unit either way; truncation goes a whole unit upwards only.
@@ -195,22 +216,6 @@ For the rectangle: to 1 s.f. both bounds round to 20; to 2 s.f. they are 21 and 
 - **d.p. vs s.f.**: 0.0503 is 4 d.p. but 3 s.f.
 - **Length factor vs area/volume factor**: 100 for cm to m; 10 000 for cm² to m²; 1 000 000 for cm³ to m³.
 - **Decimal time vs clock time**: 1.3 hours is 1 h 18 min, not 1 h 30 min.
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-mathematics-0580-units-of-measure-area-and-perimeter--02-area-units.webp" width="900" height="1100" alt="A 1 cm square is a 10 by 10 grid of mm squares, so 1 cm squared is 100 mm squared. A 1 m square is 100 by 100 cm squares, 10 000 cm squared, and a shaded 0.6 m square shows 0.36 m squared is 3600 cm squared." loading="lazy">
-  <figcaption>The area factor is the length factor squared.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-mathematics-0580-units-of-measure-area-and-perimeter--01-unit-ladder.webp" width="900" height="960" alt="A ladder of km, m, cm and mm with x1000, x100 and x10 going down and the same divisions going up, beside kg-g and l-ml pairs. Below, 2.75 km becomes 2750 m then 275 000 cm." loading="lazy">
-  <figcaption>Going to a smaller unit multiplies; going to a larger unit divides.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-mathematics-0580-rates-time-and-money--02-minutes-not-tenths.webp" width="900" height="860" alt="Two one-hour bars compare minutes with decimal hours: 36 minutes is 0.6 h, so 1 h 36 min is 1.6 h; 0.35 h is 21 minutes, so 2.35 h is 2 h 21 min." loading="lazy">
-  <figcaption>Minutes and decimal hours are different scales, so convert by dividing or multiplying by 60.</figcaption>
-</figure>
-
 
 ## Quick self-test
 
@@ -242,6 +247,22 @@ For the rectangle: to 1 s.f. both bounds round to 20; to 2 s.f. they are 21 and 
 11. 7.45 − 2.55 = **4.9**
 12. 7.45 ÷ 2.55 = 2.9215... = **2.92**
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-units-of-measure-area-and-perimeter--01-unit-ladder.webp" width="900" height="960" alt="A ladder of km, m, cm and mm with x1000, x100 and x10 going down and the same divisions going up, beside kg-g and l-ml pairs. Below, 2.75 km becomes 2750 m then 275 000 cm." loading="lazy">
+  <figcaption>Going to a smaller unit multiplies; going to a larger unit divides.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-rates-time-and-money--02-minutes-not-tenths.webp" width="900" height="860" alt="Two one-hour bars compare minutes with decimal hours: 36 minutes is 0.6 h, so 1 h 36 min is 1.6 h; 0.35 h is 21 minutes, so 2.35 h is 2 h 21 min." loading="lazy">
+  <figcaption>Minutes and decimal hours are different scales, so convert by dividing or multiplying by 60.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-estimation-and-using-a-calculator--05-round-up-or-down.webp" width="900" height="1000" alt="157 students in 12-seat minibuses: 13 buses seat only 156, so 13.08 rounds up to 14. Tickets at $3.85 with $50: twelve cost $46.20 but a thirteenth reaches $50.05, so 12.98 rounds down to 12." loading="lazy">
+  <figcaption>The context, not the digit after the point, decides whether to round up or down.</figcaption>
+</figure>
+
+
 ## Where marks are usually lost
 
 - Converting m² to cm² with × 100, or m³ to litres with × 1 000 000 instead of × 1000.
@@ -256,8 +277,8 @@ For the rectangle: to 1 s.f. both bounds round to 20; to 2 s.f. they are 21 and 
 - (Higher) Stating an answer to "appropriate accuracy" with no reason.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/aqa-gcse-maths-8300-measures-and-accuracy--03-bounds-speed-agree.webp" width="900" height="830" alt="A number line from 15.25 to 15.45 m/s marks the speed bounds 15.31 (1495 / 97.65) and 15.43 (1505 / 97.55). To 3 s.f. they give 15.3 and 15.4 so disagree; to 2 s.f. both give 15, so the speed is 15 m/s." loading="lazy">
-  <figcaption>Round both bounds until they agree to find the appropriate degree of accuracy.</figcaption>
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-estimation-and-using-a-calculator--07-dont-round-early.webp" width="900" height="890" alt="A circle has circumference 30 cm, so r = 30 / (2 pi) = 4.774648... cm. Using the full value in A = pi r^2 gives 71.6 cm squared; using the rounded 4.77 gives 71.5, which is wrong." loading="lazy">
+  <figcaption>Carry the full calculator value forward and round only the final answer.</figcaption>
 </figure>
 
 

@@ -90,11 +90,6 @@ Quick test for parallel lines: scale one equation until its x and y terms match 
   <figcaption>Two lines meet once, never, or everywhere.</figcaption>
 </figure>
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-mathematics-0580-graphs-of-functions-and-sketching-curves--02-solve-with-a-line.webp" width="900" height="1090" alt="The curve y = x² − 2x − 3 is drawn once. Its x-axis crossings (x = −1 and 3) solve x² − 2x − 3 = 0. Rearranging x² − 4x − 1 = 0 gives the line y = 2x − 2, which meets the curve at about x = −0.2 and 4.2." loading="lazy">
-  <figcaption>Draw the curve once, then choose the line that matches the equation to solve.</figcaption>
-</figure>
-
 
 ## Graphs
 
@@ -211,6 +206,11 @@ If the linear equation is not already in the form y = …, rearrange it first. W
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/oxfordaqa-igcse-mathematics-simultaneous-equations-linear-and-linear-quadratic--02-surd-intersections.webp" width="900" height="1031" alt="The line y = 3 - 2x meets y = x squared + x - 4 at two points. x squared + 3x - 7 = 0 gives x = (-3 plus or minus root 37)/2, which is 1.54 or -4.54 to 3 s.f., so the points are (1.54, -0.0828) and (-4.54, 12.1)." loading="lazy">
   <figcaption>Keep the surd in the working and round only in the last line.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-graphs-of-functions-and-sketching-curves--02-solve-with-a-line.webp" width="900" height="1090" alt="The curve y = x² − 2x − 3 is drawn once. Its x-axis crossings (x = −1 and 3) solve x² − 2x − 3 = 0. Rearranging x² − 4x − 1 = 0 gives the line y = 2x − 2, which meets the curve at about x = −0.2 and 4.2." loading="lazy">
+  <figcaption>Draw the curve once, then choose the line that matches the equation to solve.</figcaption>
 </figure>
 
 

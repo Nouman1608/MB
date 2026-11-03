@@ -104,6 +104,12 @@ The equation is: (CH₃)₂CHCH₂CH₂OH + NaBr + H₂SO₄ → (CH₃)₂CHCH�
 
 Losses at each transfer, in aqueous layers and on the drying agent make yields well below 100% normal.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-organic-synthesis--07-overall-yield.webp" width="900" height="976" alt="Two routes with the same 80 percent step yield. Four steps leave 41.0 percent so 2.00 mol gives 0.819 mol; two steps leave 64.0 percent giving 1.28 mol." loading="lazy">
+  <figcaption>Overall yield is the product of the step yields, so each extra step lowers it.</figcaption>
+</figure>
+
+
 ## 4.2.3(b): Molecules with several functional groups
 
 You must recognise the functional groups met in Module 4 and predict how each behaves. Treat each group on its own, then check whether a reagent would attack more than one group.
@@ -139,6 +145,11 @@ Compound A is CH₂=CHCH₂CH₂CH(OH)CH₂Cl, 1-chlorohex-5-en-2-ol.
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/aqa-a-level-chemistry-organic-synthesis--04-grignard-reagent.webp" width="900" height="1120" alt="Ethylmagnesium bromide, made in dry ether, adds its ethyl group to carbon dioxide, methanal, ethanal and propanone. After dilute acid the products are propanoic acid, propan-1-ol, butan-2-ol and 2-methylbutan-2-ol: an acid and a primary, secondary and tertiary alcohol." loading="lazy">
   <figcaption>Edexcel only: a Grignard reagent adds carbons from its alkyl group to a carbonyl compound, giving an acid or a primary, secondary or tertiary alcohol.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-organic-synthesis--05-route-planning.webp" width="900" height="1010" alt="Three-step route from ethene (2 C) to propan-1-amine (3 C): HBr gives bromoethane, KCN in ethanol under reflux gives propanenitrile (+1 C), and LiAlH4 reduction gives the amine. A crossed-out side branch shows that ammonia would give ethylamine, only 2 C." loading="lazy">
+  <figcaption>Count carbons first: a longer chain needs the cyanide step, because bromoethane with ammonia only gives ethylamine.</figcaption>
 </figure>
 
 
@@ -213,17 +224,6 @@ The specification says you should devise two-stage routes using transformations 
 - Yield calculations: [Amount of substance](/resources/ocr-a-level-chemistry-amount-of-substance/)
 - Related: [Alcohols](/resources/ocr-a-level-chemistry-alcohols/), [Haloalkanes](/resources/ocr-a-level-chemistry-haloalkanes/), [Module 6 organic synthesis](/resources/ocr-a-level-chemistry-6-2-5-organic-synthesis/)
 - Find your gaps first: [free diagnostics](/diagnostics/)
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-organic-synthesis--03-cyanide-mechanisms.webp" width="900" height="1195" alt="Curly-arrow mechanisms: the cyanide lone pair attacks the delta-positive carbon of bromoethane and the C-Br bond breaks to give Br-; then the same lone pair attacks the carbonyl carbon of propanone, the C=O pi bond moves onto O, and O- takes H+ to give a hydroxynitrile." loading="lazy">
-  <figcaption>The cyanide arrow starts on the lone pair on carbon; the mechanisms are required by OCR (tagged in the figure).</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-organic-synthesis--07-overall-yield.webp" width="900" height="976" alt="Two routes with the same 80 percent step yield. Four steps leave 41.0 percent so 2.00 mol gives 0.819 mol; two steps leave 64.0 percent giving 1.28 mol." loading="lazy">
-  <figcaption>Overall yield is the product of the step yields, so each extra step lowers it.</figcaption>
-</figure>
-
 
 ## Official syllabus
 

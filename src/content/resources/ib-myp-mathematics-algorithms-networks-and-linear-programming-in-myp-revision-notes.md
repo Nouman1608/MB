@@ -68,6 +68,11 @@ Also useful: the [MYP Mathematics hub](/boards/ib/ib-myp/mathematics/), the [pri
   <figcaption>Each pass fixes more decimal places until two passes agree.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-mathematics-algorithms-networks-and-linear-programming-in-myp--08-myp-search-efficiency.webp" width="900" height="1140" alt="A long bar for up to 1000 linear checks beside a tiny bar for at most 10 halving checks, with the list size 1000, 500, 250, 125, 62, 31, 15, 7, 3, 1 before each halving check." loading="lazy">
+  <figcaption>Halving a sorted list needs at most 10 checks for 1000 names.</figcaption>
+</figure>
+
 
 ## Inequalities and linear programming (extended)
 
@@ -110,6 +115,11 @@ The minimum is **12 at (0, 6)**. With only "at least" constraints the region is 
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/ib-myp-mathematics-algorithms-networks-and-linear-programming-in-myp--02-lp-candle-stall.webp" width="900" height="1090" alt="Graph of candles x against soaps y with the feasible region bounded by the axes, 3x + 2y = 60 and x + y = 25. Corners O(0,0), A(20,0), B(10,15) and C(0,25) give profits 0, 160, 170 and 150. A dashed profit line 8x + 6y = 170 touches the region only at B." loading="lazy">
   <figcaption>The feasible region, its four corners and the best corner B(10, 15) with P = 170.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-mathematics-algorithms-networks-and-linear-programming-in-myp--09-myp-strict-inequality-region.webp" width="900" height="1140" alt="The triangle with corners (1, 0), (4, 0), (1, 6): x = 1 is solid, the other two edges dashed, and all three corners are open circles because each lies on a strict edge. (2, 2) is inside." loading="lazy">
+  <figcaption>Solid edges are included, dashed ones are not, so all three corners are excluded.</figcaption>
 </figure>
 
 <figure class="topic-figure">
@@ -202,12 +212,6 @@ Always say whether the assumption is reasonable and how the answer would change 
 9. For example, profit per item is constant, or items can be split.
 10. 11.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ib-myp-mathematics-algorithms-networks-and-linear-programming-in-myp--08-myp-search-efficiency.webp" width="900" height="1140" alt="A long bar for up to 1000 linear checks beside a tiny bar for at most 10 halving checks, with the list size 1000, 500, 250, 125, 62, 31, 15, 7, 3, 1 before each halving check." loading="lazy">
-  <figcaption>Halving a sorted list needs at most 10 checks for 1000 names.</figcaption>
-</figure>
-
-
 ## Where marks are usually lost
 
 - Skipping a pass in a trace table, or writing the new value in the wrong row.
@@ -220,12 +224,6 @@ Always say whether the assumption is reasonable and how the answer would change 
 - Stopping a shortest-path search once the destination first receives a label.
 - Following an arc against its arrow.
 - Calling a model's answer exact without stating an assumption.
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ib-myp-mathematics-algorithms-networks-and-linear-programming-in-myp--09-myp-strict-inequality-region.webp" width="900" height="1140" alt="The triangle with corners (1, 0), (4, 0), (1, 6): x = 1 is solid, the other two edges dashed, and all three corners are open circles because each lies on a strict edge. (2, 2) is inside." loading="lazy">
-  <figcaption>Solid edges are included, dashed ones are not, so all three corners are excluded.</figcaption>
-</figure>
-
 
 ## Official syllabus
 

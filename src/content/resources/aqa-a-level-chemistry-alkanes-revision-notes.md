@@ -74,6 +74,11 @@ is suggested as a skills opportunity.
   <figcaption>Fractions separate by boiling point, which rises with chain length (AQA, Edexcel).</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-organic-chemistry-naming-mechanisms-and-aromatic-shape--07-boiling-points.webp" width="900" height="1200" alt="Boiling points of methane to decane rise with chain length (data from the OCR lesson); methane to butane are gases at 20 C. Heptane 98, 2-methylhexane 90 and 2,2-dimethylpentane 79 C show branching lowers boiling point." loading="lazy">
+  <figcaption>More electrons and contact give stronger London forces; branching lowers boiling point (AQA, OCR, OxfordAQA).</figcaption>
+</figure>
+
 
 ## Cracking (3.3.2.2)
 
@@ -186,6 +191,11 @@ No curly arrows are required for radical mechanisms. The dot goes on the atom wi
 **Further substitution** gives CH₂Cl₂, CHCl₃ and CCl₄. Excess methane favours CH₃Cl; excess chlorine
 favours more substitution. Overall for full substitution: CH₄ + 4Cl₂ → CCl₄ + 4HCl. The products are
 [halogenoalkanes](/resources/aqa-a-level-chemistry-halogenoalkanes-revision-notes/), the next topic.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-organic-chemistry-naming-mechanisms-and-aromatic-shape--02-bond-fission.webp" width="900" height="1170" alt="Cl-Cl splits with one electron to each atom giving two free radicals; H-Br splits with both electrons to Br giving H+ and Br-. Curly arrows start on the bond and end on the atom receiving the electrons." loading="lazy">
+  <figcaption>Homolytic fission gives radicals, heterolytic fission gives ions (AQA, Edexcel, OCR, OxfordAQA).</figcaption>
+</figure>
 
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/a-organic-chemistry-naming-mechanisms-and-aromatic-shape--03-radical-substitution.webp" width="900" height="1160" alt="Initiation by UV splits Cl2; two propagation steps form a repeating cycle (Cl radical to methyl radical and back) making HCl and CH3Cl; termination steps remove radicals." loading="lazy">

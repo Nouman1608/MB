@@ -82,6 +82,12 @@ These notes condense section 3.4.7 of the OxfordAQA *International AS and A-leve
 
 **Worked reminder.** Incidence is 2.2 cases per 1000 per year in the lowest-risk group and 16.5 in the highest. Ratio = 16.5 ÷ 2.2 = **7.5**, so the highest group is 7.5 times as likely to develop the disease.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-homeostasis--06-adh-osmoregulation.webp" width="900" height="1010" alt="Top: a fall in blood water potential makes hypothalamus osmoreceptors shrink and signal the posterior pituitary by impulses, which releases ADH into the blood, going to the kidney. Bottom: two collecting duct cells. With little ADH vesicles stay inside and little water leaves; with ADH the vesicles fuse, aquaporin pores open and more water leaves by osmosis, giving small concentrated urine." loading="lazy">
+  <figcaption>ADH makes the collecting duct more permeable to water by inserting aquaporins, so less water is lost in urine.</figcaption>
+</figure>
+
+
 ## 3.4.7.2 Insulin
 
 Protein hormone, from the pancreas, carried in blood. It acts only on cells with matching receptors.
@@ -142,6 +148,12 @@ Adrenaline attaches to receptors on the surface of target cells and activates en
 5. Glucose enters the blood and the concentration rises.
 
 Because each chain reverses the other's effect, the system shows **negative feedback**.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-homeostasis--01-temperature-control.webp" width="900" height="1030" alt="A strip shows receptors in skin and blood, the hypothalamus as coordinator, effectors in skin and muscle and the restored set point, with a feedback line back to the start. Two skin cross-sections follow. Too hot: wide blood vessel loop (vasodilation), sweat droplets and flat hairs. Too cold: narrow loop (vasoconstriction), no sweat, raised hairs and shivering muscle." loading="lazy">
+  <figcaption>Temperature control is negative feedback: receptors, hypothalamus and effectors reverse any change from the set point.</figcaption>
+</figure>
+
 
 ## Data skills
 
@@ -211,6 +223,12 @@ Because each chain reverses the other's effect, the system shows **negative feed
 10. Glycogen is large and insoluble, so it has almost no effect on water potential, and it can be rapidly broken down when needed.
 11. Any two of: obesity, inactivity, a diet high in refined sugar and fat, increasing age, family history.
 12. Glucose stays dissolved in the filtrate and holds water in the tubule, so less water is recovered.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-homeostasis--04-pct-reabsorption.webp" width="900" height="940" alt="One proximal tubule cell between filtrate (left) and blood (right) with microvilli, mitochondria and tight junctions. Step 1: a sodium-potassium pump moves Na+ out of the cell using ATP. Step 2: Na+ diffuses in through a co-transporter carrying glucose. Step 3: glucose leaves by facilitated diffusion. Step 4: water follows by osmosis." loading="lazy">
+  <figcaption>Active transport of sodium out of the cell drives co-transport of glucose in, and water follows by osmosis.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

@@ -176,6 +176,12 @@ Use more strips (a smaller h). The estimate moves towards the true value, from t
 - **Exact vs estimate.** The trapezium rule gives an approximation; an integral done by hand gives the exact value.
 - **Integrating vs differentiating a power.** Integrating divides by the new power; differentiating multiplies by the old one.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-maths-9709-pure-mathematics-1-integration--01-constant-of-integration.webp" width="900" height="748" alt="Three curves y = 3√(4x + 1) + c are vertical shifts of each other with identical gold tangents at x = 2. Only c = 1 passes through (2, 10), so a point on the curve fixes the constant. This is the lesson's worked example 5." loading="lazy">
+  <figcaption>Integrating gives a family of curves; a known point picks out one of them.</figcaption>
+</figure>
+
+
 ## A routine for any area question
 
 1. Sketch the graph or graphs, marking where they meet the axis or each other.

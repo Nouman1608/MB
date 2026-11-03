@@ -184,6 +184,17 @@ These notes are for OCR A Level Biology A (H420), written to the OCR specificati
 9. It unfolds the proteins and gives them a negative charge in proportion to their length, so they separate by mass.
 10. 0.25 × 0.2 × 0.04 = 0.002, or 1 in 500.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-genetic-technology--03-selecting-transformed-bacteria.webp" width="900" height="1010" alt="Two plates have the same colony positions. On nutrient agar 312 colonies grow; on agar with antibiotic only 41 grow, the ones that took up the plasmid with the resistance marker. 41/312 is 13.1 percent. GFP is the alternative marker, glowing under UV." loading="lazy">
+  <figcaption>Only bacteria carrying the plasmid survive on antibiotic agar, so 41 of 312 colonies (13.1%) were transformed.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-genetic-technology--04-three-ways-to-get-a-gene.webp" width="900" height="1070" alt="Three routes are shown. Restriction enzymes cut the gene from the genome but it keeps its introns. Reverse transcriptase copies mRNA to cDNA and DNA polymerase makes the second strand, giving a gene with no introns. A gene machine builds the gene from a known base sequence." loading="lazy">
+  <figcaption>Restriction cutting keeps introns, whereas cDNA and machine-made genes have none.</figcaption>
+</figure>
+
+
 ## Where marks are usually lost
 
 * Reading the template from the detector instead of the new strand, or forgetting that the template is antiparallel.

@@ -82,47 +82,6 @@ with everything else assessed on both tiers.
   to a surface, including the relationship between force, pressure and
   area used in simple hydraulic systems.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/forces-and-motion--01-resultant-force.webp" width="900" height="830" alt="A block has a 4 N and a 7 N force to the right and a 3 N force to the left, drawn to one scale. (4 + 7) - 3 = 8 N, shown as a single 8 N arrow to the right." loading="lazy">
-  <figcaption>Resultant force: add forces in one direction and subtract those opposing.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/forces-and-motion--06-circular-motion.webp" width="900" height="930" alt="A ball moves anticlockwise in a circle. At four positions the velocity arrow is along the tangent and the force arrow points to the centre at 90 degrees to it, so direction changes while speed stays constant." loading="lazy">
-  <figcaption>A force perpendicular to the motion changes direction, not speed.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/kinematics--02-distance-time-gradient.webp" width="900" height="900" alt="A distance-time graph rises 20 m in 4 s (5 m/s), stays flat for 4 s (at rest), then rises 50 m in 4 s (12.5 m/s). The steeper line is faster." loading="lazy">
-  <figcaption>On a distance-time graph the gradient is the speed, and a flat line means at rest.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/kinematics--04-speed-time-area.webp" width="900" height="930" alt="Speed rises from 0 to 10 m/s in 5 s then stays constant for 8 s. Gradient of the slope is 2 m/s squared. Triangle area 25 m plus rectangle area 80 m gives 105 m." loading="lazy">
-  <figcaption>Gradient gives acceleration and area gives distance travelled.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/energy-work-and-power--05-work-done.webp" width="900" height="690" alt="A 40 N force arrow pushes a crate 6 m, shown by a dimension line. Work done is 40 x 6 = 240 J, the energy transferred." loading="lazy">
-  <figcaption>Work done is force times distance moved in the direction of the force.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/energy-work-and-power--06-power-graph.webp" width="900" height="810" alt="Energy against time graph. A 400 W motor reaches 6000 J in 15 s. A 200 W motor needs 30 s for the same energy. A steeper line means more power." loading="lazy">
-  <figcaption>Power is energy transferred per second.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/elastic-deformation-moments-and-centre-of-gravity--01-load-extension-graph.webp" width="900" height="940" alt="Load-extension graph for a spring of constant 50 N/m: straight through the origin to 0.16 m and 8 N, where the limit of proportionality is marked, then curving. A gradient triangle (4 N over 0.08 m) gives k = 50 N/m." loading="lazy">
-  <figcaption>The gradient of the straight part is the spring constant; the line stops being straight at the limit of proportionality.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/pressure--01-pressure-force-area.webp" width="900" height="850" alt="Two blocks each press with 600 N. On 0.5 m2 the pressure is 1200 Pa and the block sinks little into sand; on 0.1 m2 it is 6000 Pa and it sinks deeper." loading="lazy">
-  <figcaption>For the same force, a smaller area gives a larger pressure.</figcaption>
-</figure>
-
-
 ## Where Forces sits in the course
 
 Topic P1 Matter established the particle model, changes of state and
@@ -203,6 +162,36 @@ obtain it.
   <figcaption>Weight times height gives the energy gained, and 1 N m equals 1 J.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/forces-and-motion--03-third-law-pairs.webp" width="900" height="870" alt="A book rests on a table on the Earth. The table pushes the book up and the book pushes the table down (contact pair); the Earth pulls the book down and the book pulls the Earth up (gravity pair). Weight and table push act on one object so are not a pair." loading="lazy">
+  <figcaption>A third-law pair is the same type of force acting on two different objects.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/measurement-mass-weight-and-density--04-mass-vs-weight.webp" width="900" height="950" alt="The same 10 kg mass hangs from a force meter on the Earth (98 N, g = 9.8 N/kg) and on the Moon (16 N, g = 1.6 N/kg). The weight arrows are drawn in proportion to the weights. The mass does not change." loading="lazy">
+  <figcaption>Weight is a force that depends on the gravitational field strength; mass does not change.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/momentum--01-momentum-vector.webp" width="900" height="720" alt="A 1200 kg car at 15 m/s to the right has momentum 18000 kg m/s to the right, drawn as a long arrow. The same car going left has velocity and momentum with a minus sign." loading="lazy">
+  <figcaption>Momentum p = mv is a vector: it points the way the object moves.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/momentum--02-collision-stick.webp" width="900" height="780" alt="A 2 kg trolley at 3 m/s hits a stationary 1 kg trolley. Momentum before is 6 kg m/s, shown as a bar. After they stick, 3 kg moves at 2 m/s and the bar is the same length." loading="lazy">
+  <figcaption>Total momentum before a collision equals total momentum after it.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/energy-work-and-power--04-kinetic-energy-graph.webp" width="900" height="880" alt="Graph of Ek in kJ against speed for a 1500 kg car. Ek is 300 kJ at 20 m/s and 1200 kJ at 40 m/s, so doubling speed gives four times the energy." loading="lazy">
+  <figcaption>Because v is squared, doubling speed quadruples kinetic energy.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/elastic-deformation-moments-and-centre-of-gravity--03-moment-of-a-force.webp" width="900" height="1010" alt="A spanner pivoted at one end. A 20 N force at right angles, 0.3 m from the pivot, gives a moment of 6 N m. The same force at 30 degrees to the spanner has a perpendicular distance of 0.15 m and gives 3 N m." loading="lazy">
+  <figcaption>Use the perpendicular distance from the pivot to the line of the force.</figcaption>
+</figure>
+
 
 ## How to approach it
 
@@ -229,9 +218,81 @@ controlled, and the reliability of results from practicals like these.
 - [Forces revision notes](/resources/ocr-gcse-physics-forces-revision-notes/)
 - [Forces practice questions](/resources/ocr-gcse-physics-forces-practice/)
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/forces-and-motion--04-terminal-velocity.webp" width="900" height="880" alt="A speed-time graph rises then levels at 50 m/s. Free-body diagrams at A, B and C show weight 800 N with drag 0, about 290 N and about 800 N, so the resultant falls from 800 N to about zero." loading="lazy">
+  <figcaption>As speed rises drag grows until it equals the weight; resultant force is zero and speed stays constant.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-interacting-forces-vectors-and-free-body-diagrams--01-fbd-book-and-car.webp" width="900" height="1040" alt="Two free body diagrams. A book at rest has an upward normal contact force and a downward weight of equal length. A car at constant speed has the same vertical pair plus forward thrust and shorter drag and friction arrows backward whose lengths add up to the thrust. Only forces on the one object are drawn." loading="lazy">
+  <figcaption>Balanced forces on one object give arrows that match in length.</figcaption>
+</figure>
+
+
 ## Official syllabus
 
 OCR, *GCSE (9-1) Physics A (Gateway Science) J249 Specification*,
 version 5.0 (July 2026), Topic P2 Forces,
 https://www.ocr.org.uk/Images/234600-specification-accredited-gcse-gateway-science-suite-physics-a-j249.pdf,
 fetched and verified in full 2026-09-02.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/forces-and-motion--01-resultant-force.webp" width="900" height="830" alt="A block has a 4 N and a 7 N force to the right and a 3 N force to the left, drawn to one scale. (4 + 7) - 3 = 8 N, shown as a single 8 N arrow to the right." loading="lazy">
+  <figcaption>Resultant force: add forces in one direction and subtract those opposing.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/forces-and-motion--06-circular-motion.webp" width="900" height="930" alt="A ball moves anticlockwise in a circle. At four positions the velocity arrow is along the tangent and the force arrow points to the centre at 90 degrees to it, so direction changes while speed stays constant." loading="lazy">
+  <figcaption>A force perpendicular to the motion changes direction, not speed.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/kinematics--02-distance-time-gradient.webp" width="900" height="900" alt="A distance-time graph rises 20 m in 4 s (5 m/s), stays flat for 4 s (at rest), then rises 50 m in 4 s (12.5 m/s). The steeper line is faster." loading="lazy">
+  <figcaption>On a distance-time graph the gradient is the speed, and a flat line means at rest.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/kinematics--04-speed-time-area.webp" width="900" height="930" alt="Speed rises from 0 to 10 m/s in 5 s then stays constant for 8 s. Gradient of the slope is 2 m/s squared. Triangle area 25 m plus rectangle area 80 m gives 105 m." loading="lazy">
+  <figcaption>Gradient gives acceleration and area gives distance travelled.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/energy-work-and-power--05-work-done.webp" width="900" height="690" alt="A 40 N force arrow pushes a crate 6 m, shown by a dimension line. Work done is 40 x 6 = 240 J, the energy transferred." loading="lazy">
+  <figcaption>Work done is force times distance moved in the direction of the force.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/energy-work-and-power--06-power-graph.webp" width="900" height="810" alt="Energy against time graph. A 400 W motor reaches 6000 J in 15 s. A 200 W motor needs 30 s for the same energy. A steeper line means more power." loading="lazy">
+  <figcaption>Power is energy transferred per second.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/elastic-deformation-moments-and-centre-of-gravity--01-load-extension-graph.webp" width="900" height="940" alt="Load-extension graph for a spring of constant 50 N/m: straight through the origin to 0.16 m and 8 N, where the limit of proportionality is marked, then curving. A gradient triangle (4 N over 0.08 m) gives k = 50 N/m." loading="lazy">
+  <figcaption>The gradient of the straight part is the spring constant; the line stops being straight at the limit of proportionality.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/pressure--01-pressure-force-area.webp" width="900" height="850" alt="Two blocks each press with 600 N. On 0.5 m2 the pressure is 1200 Pa and the block sinks little into sand; on 0.1 m2 it is 6000 Pa and it sinks deeper." loading="lazy">
+  <figcaption>For the same force, a smaller area gives a larger pressure.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-deformation-springs-and-hookes-law--02-elastic-or-plastic.webp" width="900" height="1080" alt="Two force-extension graphs. Elastic: loading goes straight to 2 N at 10 cm and unloading returns along the same line to zero extension. Plastic: loading follows the lesson Table 1 values, straight to 2.5 N at 12.5 cm (limit of proportionality), then bending to 3.5 N at 21.5 cm; unloading falls parallel to the straight section and reaches zero force with the spring still 4.0 cm longer." loading="lazy">
+  <figcaption>Elastic objects return to their natural length when the load is removed; plastic deformation leaves a permanent extension.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-deformation-springs-and-hookes-law--03-spring-energy-area.webp" width="900" height="1000" alt="Force-extension graph for a spring of constant 20 N/m. The line rises to 2.00 N at 10.0 cm and the triangle beneath it is shaded. Its area, ½ × 2.00 × 0.100, is 0.10 J. The formula ½ke² also gives 0.10 J when the extension is in metres." loading="lazy">
+  <figcaption>Work done in stretching a spring is the area under the force-extension line.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-moments-levers-and-gears--08-lever.webp" width="900" height="1170" alt="A wheelbarrow as a lever pivoting at the axle: a 480 N load at 0.60 m and a 240 N effort at 1.20 m both give 288 N m. Below, the tilted lever shows the effort end rising twice as far as the load end, so no energy is gained." loading="lazy">
+  <figcaption>A longer effort arm halves the force needed but the effort moves twice as far.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-moments-levers-and-gears--09-gears.webp" width="900" height="950" alt="A 15-tooth driver at 240 rpm and 2.5 N m turns clockwise and meshes with a 60-tooth driven gear turning anticlockwise. Ratio 4 gives 10 N m and 60 rpm. In a gear train ratios multiply, 4 times 2.5 = 10." loading="lazy">
+  <figcaption>A larger driven gear gives a larger moment but a slower turn, by the gear ratio.</figcaption>
+</figure>
+

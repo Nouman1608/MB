@@ -52,12 +52,6 @@ confined to a single question.
   between the three forms as needed to compare and order a mixed set
   of values.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-mathematics-0580-fractions-decimals-percentages-ordering-operations--01-fraction-decimal-percentage.webp" width="900" height="830" alt="A bar of 16 equal parts with 7 shaded, a 0 to 1 scale and a 0 to 100% scale mark the same point. Dividing 7 by 16 gives 0.4375, and multiplying by 100 gives 43.75%." loading="lazy">
-  <figcaption>7/16 as a fraction, decimal and percentage are all the same point.</figcaption>
-</figure>
-
-
 ## Why this topic follows Number directly
 
 Topic 1 (Number operations and integers) established calculation with
@@ -205,3 +199,9 @@ Content overview, Topic 2 Fractions, decimals and percentages,
 https://www.ocr.org.uk/qualifications/gcse/mathematics-j560-from-2015/specification-at-a-glance/,
 fetched and verified in full 2026-09-02. Full specification PDF:
 https://www.ocr.org.uk/Images/168982-specification-gcse-mathematics.pdf.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-fractions-decimals-percentages-ordering-operations--01-fraction-decimal-percentage.webp" width="900" height="830" alt="A bar of 16 equal parts with 7 shaded, a 0 to 1 scale and a 0 to 100% scale mark the same point. Dividing 7 by 16 gives 0.4375, and multiplying by 100 gives 43.75%." loading="lazy">
+  <figcaption>7/16 as a fraction, decimal and percentage are all the same point.</figcaption>
+</figure>
+

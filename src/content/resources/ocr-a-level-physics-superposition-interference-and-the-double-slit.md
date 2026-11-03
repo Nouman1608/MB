@@ -189,6 +189,11 @@ Highest order: d/λ = 1.333 × 10⁻⁶ / 4.2 × 10⁻⁷ ≈ 3.2, so **3**.
 With white light, each order other than the zeroth is a spectrum with violet nearest the centre. For two slits (d = a) and small angles, d sin θ = nλ reduces to the fringe spacing in λ = ax/D.
 
 <figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-physics-waves--02-aphy-waves-polarisation.webp" width="900" height="1080" alt="Unpolarised light oscillates in every direction; a first Polaroid leaves one plane. A second Polaroid at 30 degrees transmits cos 30 of the amplitude, so 8.0 W per square metre becomes 6.0. Sound oscillates along its direction of travel, so there is nothing to filter. A small graph shows I = I0 cos squared theta (Cambridge only)." loading="lazy">
+  <figcaption>Only transverse waves can be polarised; sound cannot.</figcaption>
+</figure>
+
+<figure class="topic-figure">
   <img src="https://img.marlbridge.com/aqa-a-level-physics-waves--08-aphy-waves-gap-diffraction.webp" width="900" height="1210" alt="Plane waves meet a gap of 6, 2 and 1 wavelengths. With a wide gap the waves go through nearly straight; as the gap approaches one wavelength they spread into near-semicircular fronts. Wavelength, frequency and speed are unchanged." loading="lazy">
   <figcaption>Diffraction is greatest when the gap is about one wavelength.</figcaption>
 </figure>

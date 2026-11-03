@@ -297,6 +297,12 @@ labour cost was 15,840 against 15,000: 840 adverse. The production manager answe
 sales manager for revenue. Splitting differences into detailed variances is section 3.2.1, Standard
 costing and variance analysis, which is International A-level only.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-budgeting--06-flexed-budget.webp" width="900" height="960" alt="A waterfall from budget profit of 30,000 pounds adds 6,000 for 200 extra lamps to give a flexed profit of 36,000, then subtracts adverse price (3,300), materials (1,650) and fixed overhead (1,100) variances and adds a favourable labour variance (440) to reach actual profit of 30,390." loading="lazy">
+  <figcaption>Flex the budget to actual output first; then the variances show the real story.</figcaption>
+</figure>
+
+
 ## Common errors to avoid
 
 - Putting depreciation in a cash budget, or leaving it out of a budgeted income statement.

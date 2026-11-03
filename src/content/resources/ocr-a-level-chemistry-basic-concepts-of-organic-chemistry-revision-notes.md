@@ -73,6 +73,12 @@ Naming is limited to the functional groups in the specification. Give a locant w
 - Cyclohexane is a plain hexagon. Benzene is a hexagon with a circle inside.
 - In a skeletal formula, every line end and every corner is a carbon atom unless a different atom is written there.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-organic-chemistry-naming-mechanisms-and-aromatic-shape--09-new-functional-groups.webp" width="900" height="1260" alt="Skeletal formulae of benzene, chlorobenzene, phenol, propanoyl chloride, propanamide, dimethylamine and 2-aminoethanoic acid with each new group highlighted." loading="lazy">
+  <figcaption>The functional groups first met at A Level (Cambridge).</figcaption>
+</figure>
+
+
 ## 4.1.1(c): Key terms
 
 **Homologous series (definition required):** a series of organic compounds having the same functional group, with each successive member differing by CH₂.
@@ -121,6 +127,12 @@ R can also stand for any fragment of a molecule that is not involved in the reac
 4. Name every structure. A repeated name is a repeated structure, so cross it out.
 
 The fastest check on a list of isomers is to name them all. A structure that bends round a corner is still the same chain, so look for the longest continuous run of carbons each time.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-organic-chemistry-naming-mechanisms-and-aromatic-shape--03-radical-substitution.webp" width="900" height="1160" alt="Initiation by UV splits Cl2; two propagation steps form a repeating cycle (Cl radical to methyl radical and back) making HCl and CH3Cl; termination steps remove radicals." loading="lazy">
+  <figcaption>A chain reaction of initiation, propagation and termination (AQA, Edexcel, OCR, OxfordAQA).</figcaption>
+</figure>
+
 
 ## 4.1.1(f) and (g): Fission and radicals
 

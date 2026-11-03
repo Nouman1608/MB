@@ -108,6 +108,16 @@ Tertiary structure fixes the shape of the active site. A different amino acid se
   <figcaption>Rate rises with substrate until enzyme concentration is limiting, and with enzyme until substrate runs short.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-factors-that-affect-enzyme-action--05-temperature-ph.webp" width="900" height="1140" alt="Two graphs. Temperature: rate rises to an optimum a little below 45 degrees Celsius then falls steeply as the active site is distorted and the enzyme denatured. pH: a bell-shaped curve with an optimum near 7; at low and high pH charges on R groups change. A buffer holds pH constant." loading="lazy">
+  <figcaption>Away from the optimum, the active site changes shape so fewer enzyme-substrate complexes form.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-factors-that-affect-enzyme-action--07-inhibitor-types.webp" width="900" height="1060" alt="Three rows. No inhibitor: substrate fits the active site. Competitive: an inhibitor with a similar shape sits in the active site, blocking the substrate; more substrate out-competes it. Non-competitive: the inhibitor binds elsewhere and reshapes the active site, so extra substrate does not help." loading="lazy">
+  <figcaption>Competitive inhibitors compete for the active site; non-competitive inhibitors bind elsewhere and change its shape.</figcaption>
+</figure>
+
 
 ## Method in steps: pH calculation (MS 0.5)
 
@@ -116,6 +126,12 @@ Tertiary structure fixes the shape of the active site. A different amino acid se
 - From concentration to pH: [H⁺] = 4.0 × 10⁻⁴ gives pH = **3.40**.
 - From pH to concentration: [H⁺] = 10⁻ᵖᴴ. pH 3.5 gives 10⁻³·⁵ = **3.2 × 10⁻⁴ mol dm⁻³**.
 - One unit lower in pH means ten times more H⁺. Two units means 100 times.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-biology-enzymes-and-required-practical-1--05-ph-calculations.webp" width="900" height="810" alt="pH scale marking pH 2.60 for 2.5e-3, pH 8.2 for 6.3e-9 and a fall from pH 7 to pH 5 making [H+] 100 times greater." loading="lazy">
+  <figcaption>pH is minus log10 of [H+]; one pH unit is a tenfold change.</figcaption>
+</figure>
+
 
 ## Method in steps: Required Practical 1
 

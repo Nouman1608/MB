@@ -101,6 +101,11 @@ Fusion processes in stars produce **all** the naturally occurring elements.
   <figcaption>A star's mass decides whether it ends as a white dwarf, a neutron star or a black hole.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-physics-life-cycle-of-a-star--03-star-elements.webp" width="900" height="1110" alt="A five-step chain: the early universe had only hydrogen; main sequence stars fuse hydrogen to helium; red giants make carbon then nitrogen and oxygen; the hottest cores make the heaviest nuclei up to iron; elements heavier than iron come only from a supernova, which spreads all the elements into space." loading="lazy">
+  <figcaption>Stars made the elements, and supernovae spread them.</figcaption>
+</figure>
+
 
 ## 4.8.1.3 Orbits and satellites
 

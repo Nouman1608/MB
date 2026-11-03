@@ -123,17 +123,6 @@ V_out = V_in x R2 / (R1 + R2)
 
 Substituting a **thermistor** or **LDR** makes the output respond to temperature or light. To predict the direction of change, ask what happens to that component's **share** of the total resistance.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/aqa-a-level-physics-electricity--08-potential-divider-load.webp" width="900" height="1170" alt="Left: 12 V across 4.7 kohm and 3.3 kohm gives 4.95 V across the 3.3 kohm resistor. Right: a 3.3 kohm load in parallel makes 1.65 kohm, so the output falls to 3.12 V. Below: a potentiometer slider 35.0 cm along a 100.0 cm track on a 6.0 V supply gives 2.1 V." loading="lazy">
-  <figcaption>A loaded divider lowers the output; a slider on a track gives a variable output.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/aqa-a-level-physics-electricity--09-sensing-dividers.webp" width="900" height="1210" alt="With an NTC thermistor and a 2.2 kohm resistor on 9.0 V, the output across the fixed resistor rises from 4.95 V at 20 C to 7.07 V at 60 C while the output across the thermistor falls from 4.05 V to 1.93 V. With an LDR in series with 10 kohm on 6.0 V, the 10 kohm resistor has 5.45 V in bright light and 0.29 V in the dark." loading="lazy">
-  <figcaption>Which component the output is across decides whether it rises or falls.</figcaption>
-</figure>
-
-
 ## Exam traps
 
 - Confusing resistivity with resistance.
@@ -154,3 +143,14 @@ Substituting a **thermistor** or **LDR** makes the output respond to temperature
 7. Why does an LDR's resistance fall as light intensity increases?
 
 **Answers:** 1. For the same current a smaller cross-sectional area requires a higher drift velocity, so electrons collide with the lattice more frequently and transfer more energy there. 2. Resistivity is a property of the material; resistance depends additionally on the length and cross-sectional area of the specimen. 3. The current heats the filament, increasing lattice vibration so electrons collide more frequently and resistance rises. 4. Heating releases additional charge carriers in the semiconductor, and that increase outweighs the effect of greater lattice vibration, so resistance falls. 5. Gradient = −r (internal resistance); intercept = E (e.m.f.). 6. Total resistance = 8.0 + 1.0 = 9.0 Ω; I = 9.0 ÷ 9.0 = 1.0 A; terminal p.d. = 9.0 − (1.0 × 1.0) = 8.0 V. 7. Brighter light releases more charge carriers in the LDR's semiconductor material, and more carriers means a lower resistance, by the same conduction-electron logic used for an NTC thermistor.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-physics-electricity--08-potential-divider-load.webp" width="900" height="1170" alt="Left: 12 V across 4.7 kohm and 3.3 kohm gives 4.95 V across the 3.3 kohm resistor. Right: a 3.3 kohm load in parallel makes 1.65 kohm, so the output falls to 3.12 V. Below: a potentiometer slider 35.0 cm along a 100.0 cm track on a 6.0 V supply gives 2.1 V." loading="lazy">
+  <figcaption>A loaded divider lowers the output; a slider on a track gives a variable output.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-physics-electricity--09-sensing-dividers.webp" width="900" height="1210" alt="With an NTC thermistor and a 2.2 kohm resistor on 9.0 V, the output across the fixed resistor rises from 4.95 V at 20 C to 7.07 V at 60 C while the output across the thermistor falls from 4.05 V to 1.93 V. With an LDR in series with 10 kohm on 6.0 V, the 10 kohm resistor has 5.45 V in bright light and 0.29 V in the dark." loading="lazy">
+  <figcaption>Which component the output is across decides whether it rises or falls.</figcaption>
+</figure>
+

@@ -187,6 +187,12 @@ Remember the trap: a market with many differentiated sellers and easy entry (bak
 
 **Monopoly price reminder.** A sole supplier raises its price from Z60 to Z66. Rise = 6 ÷ 60 × 100 = **10%**. If sales are 1,000 units before and 950 after (a 5% fall), revenue goes from 60 × 1,000 = Z60,000 to 66 × 950 = Z62,700, a rise of **4.5%**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-economics-market-structures-competitive-and-non-competitive--08-ferry-monopoly-fare.webp" width="900" height="990" alt="The fare rises 30% from Z40 to Z52 while passengers fall 8% from 10,000 to 9,200, so revenue rises 19.6% from Z400,000 to Z478,400. A rival then cuts the fare to Z42." loading="lazy">
+  <figcaption>With few alternatives a monopoly ferry raises revenue by raising its fare.</figcaption>
+</figure>
+
+
 ## Must-know distinctions
 
 | Compare | Key difference |

@@ -171,27 +171,6 @@ Switching only 4 hectares from wheat to potatoes: gain 4 × 1,150 = £4,600, los
 
 **Cost-benefit decision rule:** compare net benefit (benefit minus cost) for each option, then question the data. Estimates can be wrong, some benefits cannot be priced, and different groups gain or lose.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/aqa-gcse-economics-economic-foundations-needs-and-wants-factors-of--09-oven-opportunity-cost.webp" width="900" height="920" alt="Three oven hours make 72 cakes or 180 loaves; choosing cakes gives up 180 loaves, so one cake costs 2.5 loaves. Numbers come from the lesson's worked example." loading="lazy">
-  <figcaption>Opportunity cost in a bakery.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/aqa-gcse-economics-economic-foundations-needs-and-wants-factors-of--10-net-benefit-choice.webp" width="900" height="980" alt="Park net 30, car park net 35, library net 25. The car park is chosen and the park is the opportunity cost. Numbers come from the lesson's worked example." loading="lazy">
-  <figcaption>Choose the highest net benefit; opportunity cost is the next best.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/aqa-gcse-economics-economic-foundations-needs-and-wants-factors-of--07-hospital-or-schools.webp" width="900" height="830" alt="120 million pounds buys one hospital wing or three 40 million schools. Choosing the wing costs three schools; choosing three schools costs the wing." loading="lazy">
-  <figcaption>Opportunity cost is the best alternative given up, not the money spent.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-economics-the-basic-economic-problem--04-opportunity-cost.webp" width="900" height="900" alt="A single government budget splits into two uses. A new fleet is chosen; hospitals and staff are given up, shown dashed. Opportunity cost is the next best alternative given up, not simply the money spent." loading="lazy">
-  <figcaption>Opportunity cost is what you give up, not what you spend.</figcaption>
-</figure>
-
-
 ## Quick self-test
 
 1. State one difference between a need and a want.
@@ -217,6 +196,27 @@ Switching only 4 hectares from wheat to potatoes: gain 4 × 1,150 = £4,600, los
 8. The bypass, with a net benefit of £41m.
 9. Resources are limited but wants are unlimited, so not everything can be produced and choices must be made.
 10. Examples: taxing firms, subsidising them, or regulating safety or pollution.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-economic-foundations-needs-and-wants-factors-of--09-oven-opportunity-cost.webp" width="900" height="920" alt="Three oven hours make 72 cakes or 180 loaves; choosing cakes gives up 180 loaves, so one cake costs 2.5 loaves. Numbers come from the lesson's worked example." loading="lazy">
+  <figcaption>Opportunity cost in a bakery.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-economic-foundations-needs-and-wants-factors-of--10-net-benefit-choice.webp" width="900" height="980" alt="Park net 30, car park net 35, library net 25. The car park is chosen and the park is the opportunity cost. Numbers come from the lesson's worked example." loading="lazy">
+  <figcaption>Choose the highest net benefit; opportunity cost is the next best.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-economic-foundations-needs-and-wants-factors-of--07-hospital-or-schools.webp" width="900" height="830" alt="120 million pounds buys one hospital wing or three 40 million schools. Choosing the wing costs three schools; choosing three schools costs the wing." loading="lazy">
+  <figcaption>Opportunity cost is the best alternative given up, not the money spent.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-basic-economic-problem--04-opportunity-cost.webp" width="900" height="900" alt="A single government budget splits into two uses. A new fleet is chosen; hospitals and staff are given up, shown dashed. Opportunity cost is the next best alternative given up, not simply the money spent." loading="lazy">
+  <figcaption>Opportunity cost is what you give up, not what you spend.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

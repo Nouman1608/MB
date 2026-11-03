@@ -161,6 +161,15 @@ Worked reminder: if one B cell divides every 8 hours for 48 hours, there are 48 
 
 Suppose a data item says M. tuberculosis doubles about every 20 hours. Starting from 50 bacteria, after 100 hours there are 100 ÷ 20 = 5 doublings, so 50 × 2⁵ = 1 600 bacteria. Slow division is one reason TB develops over weeks or months and why treatment is long. Use the figure given in the question rather than one you remember.
 
+## Antibody structure checklist
+
+- Four polypeptide chains: two heavy, two light.
+- Chains are joined by disulfide bonds.
+- A flexible hinge region lets the two arms move.
+- Two identical antigen-binding sites in the variable regions.
+- The constant region is the same within a class and is not the binding site.
+- The shape of the binding site is complementary to one antigen only, which is why a different pathogen needs a different antibody.
+
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/a-level-biology-9700-immunity--03-phagocytosis.webp" width="900" height="1340" alt="Five steps in one phagocyte. Chemicals attract it and receptors bind the pathogen; the membrane wraps round it by endocytosis; it is sealed in a phagosome; a lysosome fuses with the phagosome; enzymes digest the pathogen and antigens are displayed on the cell surface." loading="lazy">
   <figcaption>A phagocyte engulfs a pathogen, digests it with lysosome enzymes and displays its antigens.</figcaption>
@@ -181,15 +190,6 @@ Suppose a data item says M. tuberculosis doubles about every 20 hours. Starting 
   <figcaption>When enough people are immune, a pathogen cannot find susceptible hosts and the outbreak stops.</figcaption>
 </figure>
 
-
-## Antibody structure checklist
-
-- Four polypeptide chains: two heavy, two light.
-- Chains are joined by disulfide bonds.
-- A flexible hinge region lets the two arms move.
-- Two identical antigen-binding sites in the variable regions.
-- The constant region is the same within a class and is not the binding site.
-- The shape of the binding site is complementary to one antigen only, which is why a different pathogen needs a different antibody.
 
 ## Command words and how to answer
 

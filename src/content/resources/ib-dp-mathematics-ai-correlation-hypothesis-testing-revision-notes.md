@@ -113,6 +113,11 @@ Say "linear" for r and "monotonic" for rₛ.
 4. Conclude in context. State the normality assumption if asked.
 
 <figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-ai-correlation-hypothesis-testing--04-i-spearman-ranks-ties.webp" width="900" height="900" alt="Seven pairs ranked separately in x and y; the two 5s share rank 2.5. Lines join each x rank to its y rank. Pearson r of the rank lists gives rₛ = 0.955." loading="lazy">
+  <figcaption>Tied values share the average of the ranks they would occupy, and rₛ is Pearson r of the ranks.</figcaption>
+</figure>
+
+<figure class="topic-figure">
   <img src="https://img.marlbridge.com/ib-dp-mathematics-ai-correlation-hypothesis-testing--08-i-t-test-two-means.webp" width="900" height="960" alt="Dot strips for Method A (mean 67.6) and Method B (mean 60.2), and the t distribution with 11 degrees of freedom. The t = 2.62 lies beyond the one-tailed 5% critical value 1.80, with p = 0.0120, so reject H0." loading="lazy">
   <figcaption>A pooled one-tailed t-test compares two means using the upper tail of the t distribution.</figcaption>
 </figure>
@@ -151,12 +156,6 @@ pooled 2-sample t-test: t = 2.62, p-value = 0.0120
 
 Conclusion: there is evidence that Method A gives a higher mean score. If the question had asked whether the means **differ**, the test would be two-tailed and the p-value would double to 0.0240.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ib-dp-mathematics-ai-correlation-hypothesis-testing--05-i-chi2-independence.webp" width="900" height="960" alt="A 2 by 3 table of 150 students with observed bars and dashed expected lines (20 each for Year 12, 30 each for Year 13). Cell contributions sum to 5.70 + 3.80 = 9.5, with df = 2." loading="lazy">
-  <figcaption>Each cell contributes (o − e)²/e and the contributions add to χ²calc.</figcaption>
-</figure>
-
-
 ## Exam conditions stated in the guide
 
 - Contingency tables have at most 4 rows or 4 columns.
@@ -168,6 +167,12 @@ Conclusion: there is evidence that Method A gives a higher mean score. If the qu
 - At SL, t-test samples are unpaired and the population variance is unknown; assume equal variances and use the pooled test.
 - rₛ is found with technology in examinations.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-ai-correlation-hypothesis-testing--05-i-chi2-independence.webp" width="900" height="960" alt="A 2 by 3 table of 150 students with observed bars and dashed expected lines (20 each for Year 12, 30 each for Year 13). Cell contributions sum to 5.70 + 3.80 = 9.5, with df = 2." loading="lazy">
+  <figcaption>Each cell contributes (o − e)²/e and the contributions add to χ²calc.</figcaption>
+</figure>
+
+
 ## Must-know distinctions
 
 - **Pearson vs Spearman**: Pearson tests only for linearity; Spearman tests for any monotonic relationship and is less sensitive to outliers.
@@ -177,12 +182,6 @@ Conclusion: there is evidence that Method A gives a higher mean score. If the qu
 - **One-tailed vs two-tailed**: "greater", "higher", "less" → one-tailed; "different", "differ" → two-tailed.
 - **p-value vs critical value**: small p-value means reject; large χ²calc means reject.
 - **"Do not reject H₀" vs "accept H₀"**: a test never proves H₀. Say there is insufficient evidence.
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ib-dp-mathematics-ai-correlation-hypothesis-testing--02-i-interpolate-extrapolate.webp" width="900" height="920" alt="The same line with the data range 14 to 30 °C shaded. 23 °C gives about 80 drinks (interpolation, reasonable). 40 °C gives 131 drinks (extrapolation, may be unreliable)." loading="lazy">
-  <figcaption>Predict inside the range of the data; outside it the line may not hold.</figcaption>
-</figure>
-
 
 ## Quick self-test
 
@@ -215,8 +214,23 @@ Conclusion: there is evidence that Method A gives a higher mean score. If the qu
 12. ȳ = 2.5 × 6 + 4 = **19** (the line passes through the mean point).
 
 <figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-ai-correlation-hypothesis-testing--02-i-interpolate-extrapolate.webp" width="900" height="920" alt="The same line with the data range 14 to 30 °C shaded. 23 °C gives about 80 drinks (interpolation, reasonable). 40 °C gives 131 drinks (extrapolation, may be unreliable)." loading="lazy">
+  <figcaption>Predict inside the range of the data; outside it the line may not hold.</figcaption>
+</figure>
+
+<figure class="topic-figure">
   <img src="https://img.marlbridge.com/ib-dp-mathematics-ai-correlation-hypothesis-testing--03-i-pearson-vs-spearman.webp" width="900" height="880" alt="Six rising points that curve upward. A straight line fits roughly (Pearson r = 0.906) but y always increases with x, so Spearman rₛ = 1." loading="lazy">
   <figcaption>Pearson tests for a straight line; Spearman tests for any monotonic relationship.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-ai-correlation-hypothesis-testing--06-i-chi2-decision.webp" width="900" height="860" alt="The χ² distribution with 2 degrees of freedom. The 5% critical value 5.99 cuts off a tail of area 0.05. The calculated 9.5 lies in the tail with p-value 0.00865, so reject H0." loading="lazy">
+  <figcaption>Reject H0 when χ²calc passes the critical value, equivalently when the p-value is below the significance level.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-ai-correlation-hypothesis-testing--07-i-chi2-goodness-of-fit.webp" width="900" height="940" alt="Observed customers Monday to Friday (38, 45, 52, 30, 35) against an expected 40 a day. Contributions 0.1, 0.625, 3.6, 2.5, 0.625 give χ² = 7.45, df = 4, p = 0.114, so do not reject H0." loading="lazy">
+  <figcaption>Each day contributes (o − e)²/e; here the total is not large enough to reject H0.</figcaption>
 </figure>
 
 
@@ -232,12 +246,6 @@ Conclusion: there is evidence that Method A gives a higher mean score. If the qu
 - Comparing the p-value with the critical value, or χ²calc with the significance level.
 - Choosing a two-tailed alternative when the question asks whether one mean is higher.
 - Stating the decision ("reject H₀") without a sentence in the context of the question.
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ib-dp-mathematics-ai-correlation-hypothesis-testing--06-i-chi2-decision.webp" width="900" height="860" alt="The χ² distribution with 2 degrees of freedom. The 5% critical value 5.99 cuts off a tail of area 0.05. The calculated 9.5 lies in the tail with p-value 0.00865, so reject H0." loading="lazy">
-  <figcaption>Reject H0 when χ²calc passes the critical value, equivalently when the p-value is below the significance level.</figcaption>
-</figure>
-
 
 ## Official syllabus
 

@@ -35,12 +35,6 @@ these mean diffusion across the body surface alone becomes too slow to meet the 
 single principle underlies almost every structure covered in this module, from gas exchange surfaces to
 the circulatory system.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-level-biology-9700-gas-exchange--04-surface-area-volume.webp" width="900" height="900" alt="Cubes of side 1, 2 and 4 cm have surface area to volume ratios of 6, 3 and 1.5, so the ratio falls as size rises. One alveolus of diameter 0.2 mm has area 1.26 x 10^-7 m2; multiplied by 4.5 x 10^8 alveoli this gives 56.5 m2." loading="lazy">
-  <figcaption>Larger bodies have less surface per unit volume, so lungs divide the surface into hundreds of millions of tiny sacs.</figcaption>
-</figure>
-
-
 ## Syllabus coverage
 
 **OCR A LEVEL BIOLOGY A (H420) -- MODULE 3: EXCHANGE AND TRANSPORT**
@@ -54,6 +48,17 @@ the circulatory system.
   transport and unloading of oxygen and carbon dioxide
 - Transport in plants: the structure and function of xylem and phloem, and the mechanisms of water and
   assimilate movement through each
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-gas-exchange--03-alveolar-gradients.webp" width="900" height="850" alt="Graph of partial pressure along an alveolar capillary. Alveolar oxygen is 13.3 kPa. Blood oxygen rises from 5.3 to 13.1 kPa, so the gap shrinks from 8.0 to 0.2 kPa. Blood carbon dioxide starts at 6.1 kPa against 5.3 kPa in the air, a gap of 0.8 kPa." loading="lazy">
+  <figcaption>The oxygen gradient is steep when blood arrives and almost gone by the end of the capillary.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-gas-exchange--04-surface-area-volume.webp" width="900" height="900" alt="Cubes of side 1, 2 and 4 cm have surface area to volume ratios of 6, 3 and 1.5, so the ratio falls as size rises. One alveolus of diameter 0.2 mm has area 1.26 x 10^-7 m2; multiplied by 4.5 x 10^8 alveoli this gives 56.5 m2." loading="lazy">
+  <figcaption>Larger bodies have less surface per unit volume, so lungs divide the surface into hundreds of millions of tiny sacs.</figcaption>
+</figure>
+
 
 ## How to approach it
 
@@ -156,3 +161,9 @@ level, and environment.
   specific demands.
 - Revise the surface-area-to-volume principle that motivates the whole module, since many exam questions
   return to it explicitly.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-gas-exchange--05-fish-countercurrent.webp" width="900" height="1150" alt="Two panels compare parallel flow with counter-current flow in a five-segment model of a gill lamella. With parallel flow, water and blood both settle at 50 percent oxygen saturation. With counter-current flow, blood leaves at 83 percent because the water is always at higher saturation than the adjacent blood." loading="lazy">
+  <figcaption>Opposite flows keep a gradient along the whole lamella, so more oxygen is taken up.</figcaption>
+</figure>
+

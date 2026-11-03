@@ -136,6 +136,11 @@ Quick check: a point and its image must be equally far from the centre.
   <figcaption>An enlargement multiplies every distance from the centre, and every side, by the scale factor.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-mathematics-similarity-and-enlargement--04-find-the-centre.webp" width="900" height="1060" alt="Triangle K with vertices (4,1), (6,1), (4,3) is enlarged to K-prime with vertices (5,2), (9,2), (5,6). A line through each matching pair of vertices runs to (3, 0), the centre, and the base lengths 2 and 4 give scale factor 2." loading="lazy">
+  <figcaption>Lines through matching vertices meet at the centre of enlargement.</figcaption>
+</figure>
+
 
 ## Extension only: fractional and negative scale factors
 
@@ -182,6 +187,21 @@ Quick check: a point and its image must be equally far from the centre.
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/oxfordaqa-igcse-mathematics-transformations-of-2d-shapes--13-combined-order-matters.webp" width="900" height="900" alt="Reflect in the x-axis then rotate 90 degrees anticlockwise gives (1,1), (1,3), (2,3), a reflection in y = x. Rotating first then reflecting gives (-1,-1), (-1,-3), (-2,-3), a reflection in y = -x." loading="lazy">
   <figcaption>Example 8 with both orders drawn.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-mathematics-isometric-transformations-and-vectors--01-parallel-mirrors-translation.webp" width="900" height="700" alt="A triangle is reflected in x = 1 and then in x = 5. Each point ends 8 units right of where it began, twice the 4 units between the mirrors, so the combination is a translation by the column vector (8, 0)." loading="lazy">
+  <figcaption>Two reflections in parallel lines give a translation of twice the distance between them.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-mathematics-isometric-transformations-and-vectors--02-order-of-reflections.webp" width="900" height="970" alt="The point (2, 1) is reflected in the x-axis then y = x, ending at (-1, 2), a 90 degree anticlockwise turn about the origin. In the other order it ends at (1, -2), a clockwise turn." loading="lazy">
+  <figcaption>Reflecting in the same two lines in a different order gives a different image.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-mathematics-transformations-reflection-rotation-enlargement-and--06-combination.webp" width="900" height="858" alt="Triangle B is reflected in the x-axis (dashed B1) then in the y-axis to give B2. A dashed line from (5,3) through the origin to (-5,-3) shows each point (x, y) goes to (-x, -y), which is a rotation of 180 degrees about the origin." loading="lazy">
+  <figcaption>Reflecting in the x-axis and then the y-axis equals a single rotation of 180 degrees about the origin.</figcaption>
 </figure>
 
 

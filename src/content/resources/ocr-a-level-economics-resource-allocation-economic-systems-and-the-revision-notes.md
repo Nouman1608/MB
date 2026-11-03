@@ -141,6 +141,11 @@ A price below equilibrium creates a shortage. A price above it creates a surplus
   <figcaption>Market, planned and mixed economies differ in who coordinates choices.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-allocation-of-resources--07-price-controls.webp" width="900" height="1370" alt="Equilibrium E is at price 5 and quantity 50. A maximum price of 3 gives demand 70 and supply 25, a shortage of 45. A minimum price of 7 gives demand 30 and supply 75, a surplus of 45." loading="lazy">
+  <figcaption>A maximum price below equilibrium causes a shortage; a minimum price above it causes a surplus.</figcaption>
+</figure>
+
 
 ## Objectives of economic agents
 
@@ -251,6 +256,12 @@ The weight given to each aim is a value judgement. A strong answer says which ai
 8. Where MR is zero, or where it changes from positive to negative.
 9. Shift spending from Y to X until MU per £ is equal.
 10. Managers may prefer a quiet life, a satisfactory return, or other goals such as ethical aims or growth.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-basic-economic-problem--04-opportunity-cost.webp" width="900" height="900" alt="A single government budget splits into two uses. A new fleet is chosen; hospitals and staff are given up, shown dashed. Opportunity cost is the next best alternative given up, not simply the money spent." loading="lazy">
+  <figcaption>Opportunity cost is what you give up, not what you spend.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

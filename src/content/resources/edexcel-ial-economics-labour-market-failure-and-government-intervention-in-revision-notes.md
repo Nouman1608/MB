@@ -173,6 +173,12 @@ Payback = 2.0 / 1.75 = 1.14 years
 ```
 Geographical check: pay gap 22,500 - 18,000 = 4,500 (25.0%); less extra housing 1,500 = 3,000 net; moving cost 6,000 / 3,000 = 2.0 years.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-labour-market-failure-and-government-intervention-in--01-geo-immobility-payback.webp" width="900" height="920" alt="Shows a 7,000 yearly pay gap split into 3,000 net gain and 4,000 extra housing, a one-off moving cost of 9,500, and blocks of yearly gain that repay the cost. With housing the payback is 3.17 years; ignoring housing it would be 1.36 years." loading="lazy">
+  <figcaption>Housing costs make the real payback from moving more than double the naive one, so the regional pay gap persists.</figcaption>
+</figure>
+
+
 ## Discrimination and exploitation
 
 - Anti-discrimination and equal-pay law, with penalties.

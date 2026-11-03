@@ -220,12 +220,6 @@ up**, not as a money value — this is the same next-best-alternative
 logic from the earlier worked example, just read directly off a
 diagram instead of a written scenario.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/o-level-economics-basic-economic-problem-revision-notes--01-ppc-worked-numbers.webp" width="900" height="920" alt="A bowed PPC with Good A on the x-axis and Good B on the y-axis. Point X is at 40 A and 100 B; point Y is at 60 A and 70 B. Moving from X to Y gains 20 A and gives up 30 B, so the opportunity cost of 20 more A is 30 B, not a money value." loading="lazy">
-  <figcaption>Gaining 20 units of Good A costs 30 units of Good B.</figcaption>
-</figure>
-
-
 ## Exam traps
 
 - Describing a free-with-no-price-tag good (like a promotional
@@ -238,6 +232,12 @@ recognising labour and capital have varying degrees of mobility.
 specifically the single best alternative forgone.
 - Forgetting opportunity cost applies to all four named
 decision-makers, not just consumers.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-economics-basic-economic-problem-revision-notes--01-ppc-worked-numbers.webp" width="900" height="920" alt="A bowed PPC with Good A on the x-axis and Good B on the y-axis. Point X is at 40 A and 100 B; point Y is at 60 A and 70 B. Moving from X to Y gains 20 A and gives up 30 B, so the opportunity cost of 20 more A is 30 B, not a money value." loading="lazy">
+  <figcaption>Gaining 20 units of Good A costs 30 units of Good B.</figcaption>
+</figure>
+
 
 ## Why this topic underpins the rest of the syllabus
 

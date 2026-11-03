@@ -129,6 +129,11 @@ The specification excludes tests for the mean of a non-normal distribution, the 
   <figcaption>A sample mean outside the critical region, equivalently a p-value above the level, means H0 is not rejected.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-statistical-hypothesis-testing--07-testing-correlation.webp" width="900" height="1060" alt="Three scatter diagrams show r about -0.9, about 0 and about +0.9. A number line for H0: rho = 0 against H1: rho &gt; 0 with n = 20 at 5% shows the critical value 0.3783 and the observed r = 0.412 in the reject region." loading="lazy">
+  <figcaption>r above the critical value means evidence of positive correlation in the population.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 
@@ -172,6 +177,11 @@ The specification excludes tests for the mean of a non-normal distribution, the 
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/aqa-a-level-mathematics-statistical-hypothesis-testing--03-type-i-and-ii-errors.webp" width="900" height="1060" alt="Two bar charts with critical region X at most 4 or at least 14 for n = 20. If H0 (p = 0.45) is true the chance of rejecting it, a Type I error, is 0.0403. If the true p is 0.7 the chance of keeping H0, a Type II error, is 0.392 (0.762 if the true p is 0.3)." loading="lazy">
   <figcaption>Type I is rejecting a true H0; Type II is keeping a false H0.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-statistical-hypothesis-testing--06-z-versus-t.webp" width="900" height="1130" alt="N(0, 1) and t with 8 degrees of freedom are both symmetric, but t has a lower peak and fatter tails. In the zoomed right tail the one-tail 5% critical value is 1.860 for t compared with 1.645 for z, and cards show it falls towards 1.645 as the degrees of freedom increase." loading="lazy">
+  <figcaption>When sigma is unknown and n is small, t gives larger critical values than z.</figcaption>
 </figure>
 
 

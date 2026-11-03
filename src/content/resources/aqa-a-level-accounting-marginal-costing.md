@@ -99,6 +99,11 @@ Each bench sells for £110. Variable costs are timber £38, labour £22 and vari
 </figure>
 
 <figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-absorption-and-activity-based-costing--04-oar-full-cost.webp" width="900" height="1243" alt="Rates of 3.20 pounds per machine hour and 3.80 per labour hour are budgeted overheads divided by budgeted hours. They build the full cost of one table to 175 pounds, which gives 245 pounds with a 40 percent mark-up or 250 with a 30 percent margin." loading="lazy">
+  <figcaption>The OAR charges each product its share of overheads, giving a full cost to which a mark-up or margin is added.</figcaption>
+</figure>
+
+<figure class="topic-figure">
   <img src="https://img.marlbridge.com/aqa-a-level-accounting-absorption-and-activity-based-costing--06-continuous-allotment.webp" width="900" height="995" alt="Stores (8,800) and Maintenance (6,000) share their costs with each other and with Machining and Finishing at stated percentages, repeating until nothing remains. Machining ends with 40,000 plus 9,800 and Finishing with 29,000 plus 5,000, a total of 83,800." loading="lazy">
   <figcaption>Service departments pass costs to each other and to production until all costs sit in production departments.</figcaption>
 </figure>
@@ -318,12 +323,6 @@ Test yourself with the [marginal costing practice questions](/resources/aqa-a-le
 condense with the [revision notes](/resources/aqa-a-level-accounting-marginal-costing-revision-notes/),
 check gaps with the [diagnostics](/diagnostics/), and see how the papers are built in
 [AQA A-level Accounting exam preparation](/resources/aqa-a-level-accounting-exam-preparation/).
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/aqa-a-level-accounting-absorption-and-activity-based-costing--04-oar-full-cost.webp" width="900" height="1243" alt="Rates of 3.20 pounds per machine hour and 3.80 per labour hour are budgeted overheads divided by budgeted hours. They build the full cost of one table to 175 pounds, which gives 245 pounds with a 40 percent mark-up or 250 with a 30 percent margin." loading="lazy">
-  <figcaption>The OAR charges each product its share of overheads, giving a full cost to which a mark-up or margin is added.</figcaption>
-</figure>
-
 
 ## Official syllabus
 

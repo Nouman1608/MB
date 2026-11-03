@@ -140,11 +140,6 @@ Two consequences follow:
   <figcaption>Only lymphocytes with a matching receptor are selected, cloned and activated by T helper cytokines.</figcaption>
 </figure>
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-level-biology-9700-immunity--08-herd-immunity.webp" width="900" height="930" alt="Two grids of 100 people with one case and R0 of 6. With nobody immune the case infects 6 neighbours. With 84 immune, above the 83.3 per cent needed (1 minus 1/6), every neighbour is immune and spread is blocked, protecting those who cannot be vaccinated." loading="lazy">
-  <figcaption>When enough people are immune, a pathogen cannot find susceptible hosts and the outbreak stops.</figcaption>
-</figure>
-
 
 ### Why antibiotics do not affect viruses
 
@@ -180,6 +175,12 @@ Antibiotics work by interfering with structures or processes found in bacteria: 
 - Reduce antibiotic use in farming, especially to promote growth.
 - Improve hospital hygiene (hand-washing, isolating infected patients) so resistant bacteria spread less.
 - Fund research into new antibiotics.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-immunity--08-herd-immunity.webp" width="900" height="930" alt="Two grids of 100 people with one case and R0 of 6. With nobody immune the case infects 6 neighbours. With 84 immune, above the 83.3 per cent needed (1 minus 1/6), every neighbour is immune and spread is blocked, protecting those who cannot be vaccinated." loading="lazy">
+  <figcaption>When enough people are immune, a pathogen cannot find susceptible hosts and the outbreak stops.</figcaption>
+</figure>
+
 
 ### Worked example: interpreting resistance data
 

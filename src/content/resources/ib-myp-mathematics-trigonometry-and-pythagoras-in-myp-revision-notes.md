@@ -50,13 +50,18 @@ Labels follow the framework: **standard** is MYP 4-5 (standard), **extended** is
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-mathematics-0580-pythagoras-theorem--01-squares-on-sides.webp" width="900" height="890" alt="A 3, 4, 5 right-angled triangle has a square on each side, with 9, 16 and 25 unit cells. 9 plus 16 equals 25, so the squares on the short sides together equal the square on the hypotenuse." loading="lazy">
-  <figcaption>The squares on the two shorter sides add up to the square on the hypotenuse.</figcaption>
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-pythagoras-theorem--06-is-it-right-angled.webp" width="900" height="940" alt="Triangle 20, 21, 29 satisfies 400 plus 441 equals 841 equals 29 squared, so it is right-angled. Triangle 9, 11, 14 gives 202 against 196, so it is not; its largest angle is 88.3 degrees." loading="lazy">
+  <figcaption>Compare the longest side squared with the sum of the other two squares.</figcaption>
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-mathematics-0580-pythagoras-theorem--06-is-it-right-angled.webp" width="900" height="940" alt="Triangle 20, 21, 29 satisfies 400 plus 441 equals 841 equals 29 squared, so it is right-angled. Triangle 9, 11, 14 gives 202 against 196, so it is not; its largest angle is 88.3 degrees." loading="lazy">
-  <figcaption>Compare the longest side squared with the sum of the other two squares.</figcaption>
+  <img src="https://img.marlbridge.com/igcse-mathematics-trigonometry--03-sine-rule.webp" width="900" height="860" alt="Triangle ABC with A = 48, B = 65, C = 67 degrees and a = 9 cm drawn to scale. a over sin A equals b over sin B gives b = 9 sin 65 over sin 48 = 11.0 cm. The rule needs a side and its opposite angle." loading="lazy">
+  <figcaption>Pair each side with the angle opposite it.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-trigonometry--05-cosine-rule.webp" width="900" height="860" alt="The lesson worked example drawn to scale: AB = 7, AC = 10, angle A = 110 degrees. A bar shows BC squared = 149 + 47.9 = 196.9, so BC = 14.0 cm. The extra 47.9 is added because cos 110 degrees is negative." loading="lazy">
+  <figcaption>With an obtuse angle the cosine term adds, so BC is longer than the right-angle case.</figcaption>
 </figure>
 
 
@@ -131,6 +136,11 @@ Labels follow the framework: **standard** is MYP 4-5 (standard), **extended** is
   <figcaption>At 150° the point is (cos 150°, sin 150°) = (−0.866, 0.5), which lies on x² + y² = 1.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-trigonometry--06-area-sine.webp" width="900" height="800" alt="Triangle with a = 8, b = 10 and C = 40 degrees. Height h = 8 sin 40 = 5.14 cm, so area = half of 10 times 5.14 = 25.7 cm squared, which is half a b sin C." loading="lazy">
+  <figcaption>The area formula comes from base times height with h = a sin C.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 
@@ -140,12 +150,6 @@ Labels follow the framework: **standard** is MYP 4-5 (standard), **extended** is
 - **Elevation vs depression.** Elevation is upward from the horizontal. Depression is downward from the horizontal.
 - **Bearing vs angle in the diagram.** A bearing is clockwise from north. The triangle angle you need is often a different angle, found from parallel north lines.
 - **Radians vs degrees.** Multiply degrees by π/180 to get radians. The two modes must match the angle you enter.
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-mathematics-trigonometry--03-sine-rule.webp" width="900" height="860" alt="Triangle ABC with A = 48, B = 65, C = 67 degrees and a = 9 cm drawn to scale. a over sin A equals b over sin B gives b = 9 sin 65 over sin 48 = 11.0 cm. The rule needs a side and its opposite angle." loading="lazy">
-  <figcaption>Pair each side with the angle opposite it.</figcaption>
-</figure>
-
 
 ## Presenting solutions
 
@@ -162,17 +166,6 @@ Labels follow the framework: **standard** is MYP 4-5 (standard), **extended** is
 - Sides: before drawing, test the triangle inequality for the three lengths.
 - Isosceles: if two angles are equal, the sides opposite them are equal too.
 - Right-angled: if the hypotenuse is given, no other side can be longer than it.
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ib-myp-mathematics-trigonometry-and-pythagoras-in-myp--01-triangle-angle-facts.webp" width="900" height="980" alt="Two triangles. The top one has angles 50, 60 and 70 degrees (from x + 20, 2x and 3x − 20 with x = 30), adding to 180. The bottom one has interior angles 48 and 77 degrees and an exterior angle of 125 degrees, equal to 48 + 77." loading="lazy">
-  <figcaption>The interior angles add to 180 degrees and an exterior angle equals the two opposite interior angles.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ib-myp-mathematics-trigonometry-and-pythagoras-in-myp--02-triangle-inequality-chain.webp" width="900" height="790" alt="Bars show sides 5, 7, 13 cm and 6, 7, 12 cm. 5 + 7 = 12 falls short of 13 so no triangle; 6 + 7 = 13 reaches past 12 so a triangle exists." loading="lazy">
-  <figcaption>Two shorter sides must together be longer than the third side.</figcaption>
-</figure>
-
 
 ## Quick self-test
 
@@ -202,6 +195,22 @@ Labels follow the framework: **standard** is MYP 4-5 (standard), **extended** is
 10. √(4 + 9 + 36) = **7**. 100° = 100π/180 = **5π/9**.
 11. cos²θ = 1 − 144/169 = 25/169, so cos θ = **5/13**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-mathematics-trigonometry-and-pythagoras-in-myp--01-triangle-angle-facts.webp" width="900" height="980" alt="Two triangles. The top one has angles 50, 60 and 70 degrees (from x + 20, 2x and 3x − 20 with x = 30), adding to 180. The bottom one has interior angles 48 and 77 degrees and an exterior angle of 125 degrees, equal to 48 + 77." loading="lazy">
+  <figcaption>The interior angles add to 180 degrees and an exterior angle equals the two opposite interior angles.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-mathematics-trigonometry-and-pythagoras-in-myp--02-triangle-inequality-chain.webp" width="900" height="790" alt="Bars show sides 5, 7, 13 cm and 6, 7, 12 cm. 5 + 7 = 12 falls short of 13 so no triangle; 6 + 7 = 13 reaches past 12 so a triangle exists." loading="lazy">
+  <figcaption>Two shorter sides must together be longer than the third side.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-pythagoras-theorem--01-squares-on-sides.webp" width="900" height="890" alt="A 3, 4, 5 right-angled triangle has a square on each side, with 9, 16 and 25 unit cells. 9 plus 16 equals 25, so the squares on the short sides together equal the square on the hypotenuse." loading="lazy">
+  <figcaption>The squares on the two shorter sides add up to the square on the hypotenuse.</figcaption>
+</figure>
+
+
 ## Where marks are usually lost
 
 - Not drawing a sketch, so the wrong sides or angles are used.
@@ -227,5 +236,10 @@ IB *Mathematics guide (for use from September 2020/January 2021)*, first assessm
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/igcse-mathematics-trigonometry--02-elevation-depression.webp" width="900" height="950" alt="A person 55 m from a 40 m tower. The angle of elevation to the top is 36.0 degrees since tan x = 40/55. From the top, the angle of depression to the person is also 36.0 degrees, measured from a horizontal line, as they are alternate angles." loading="lazy">
   <figcaption>Elevation and depression are both measured from the horizontal and are equal for the same line of sight.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-trigonometry--04-ambiguous-case.webp" width="900" height="850" alt="Angle A = 30 degrees, AC = 10, BC = 6. BC can meet the base at two points, giving two triangles with B = 56.4 degrees (acute) or 123.6 degrees (obtuse), both with sin B = 0.833." loading="lazy">
+  <figcaption>Two different triangles can fit the same sine rule data.</figcaption>
 </figure>
 

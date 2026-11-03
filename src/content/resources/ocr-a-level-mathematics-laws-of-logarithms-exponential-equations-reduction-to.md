@@ -157,6 +157,12 @@ t = 5 or t = −2
 
 Since 3^x > 0 for every x, t = −2 gives no solution. Then 3^x = 5, so x = ln 5 / ln 3 = **1.46** (3 s.f.).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-maths-9709-pure-mathematics-2-logarithms-and-exponentials--05-solve-index.webp" width="900" height="1160" alt="The graph of 5^x meets y = 40 at x = 2.29 (ln 40 divided by ln 5). Below, points 0.8^n fall; n = 13 gives 0.0550 and n = 14 gives 0.0440, the first below 0.05. Dividing by the negative ln 0.8 reverses the inequality, so n &gt; 13.4." loading="lazy">
+  <figcaption>Taking logs solves aˣ = b, and a negative log reverses an inequality.</figcaption>
+</figure>
+
+
 ## Reduction to linear form (1.06h)
 
 Experimental data often follows y = ax^n or y = kb^x. You turn each curve into a straight line by taking logs, then read the parameters from the gradient and intercept. The specification expects you to estimate the parameters by drawing graphs from given data, using appropriate calculator functions to find the logarithms.

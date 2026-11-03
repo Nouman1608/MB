@@ -65,6 +65,11 @@ Cell signalling means one cell releasing or displaying a signal that changes ano
 | Duration | Short; stops when the stimulus stops | Usually longer lasting |
 
 <figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-homeostasis--04-pct-reabsorption.webp" width="900" height="940" alt="One proximal tubule cell between filtrate (left) and blood (right) with microvilli, mitochondria and tight junctions. Step 1: a sodium-potassium pump moves Na+ out of the cell using ATP. Step 2: Na+ diffuses in through a co-transporter carrying glucose. Step 3: glucose leaves by facilitated diffusion. Step 4: water follows by osmosis." loading="lazy">
+  <figcaption>Active transport of sodium out of the cell drives co-transport of glucose in, and water follows by osmosis.</figcaption>
+</figure>
+
+<figure class="topic-figure">
   <img src="https://img.marlbridge.com/a-level-biology-9700-homeostasis--08-second-messenger.webp" width="900" height="1040" alt="A liver cell membrane with glucagon outside. Glucagon binds a receptor; a G-protein is activated; adenylyl cyclase makes cAMP from ATP; cAMP activates protein kinase A; an enzyme cascade amplifies the signal (for example 50 at each of three stages gives 125 000); glycogen is broken down to glucose." loading="lazy">
   <figcaption>Glucagon never enters the cell: cAMP relays the message and the enzyme cascade amplifies it.</figcaption>
 </figure>
@@ -134,6 +139,12 @@ A lizard and a small mammal are placed in a chamber warmed from 18 °C. After 40
 2. Mammal: change = 37.4 − 37.0 = 0.4 °C. Rate = 0.4 ÷ 40 = **0.010 °C per minute**.
 3. The lizard's temperature followed the environment because it relies on external heat. The mammal's barely changed because negative feedback kept its core temperature near the set point.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-homeostasis--06-adh-osmoregulation.webp" width="900" height="1010" alt="Top: a fall in blood water potential makes hypothalamus osmoreceptors shrink and signal the posterior pituitary by impulses, which releases ADH into the blood, going to the kidney. Bottom: two collecting duct cells. With little ADH vesicles stay inside and little water leaves; with ADH the vesicles fuse, aquaporin pores open and more water leaves by osmosis, giving small concentrated urine." loading="lazy">
+  <figcaption>ADH makes the collecting duct more permeable to water by inserting aquaporins, so less water is lost in urine.</figcaption>
+</figure>
+
+
 ## Excretion (5.1.2(a))
 
 **Excretion** means getting metabolic waste out of the body. It is different from egestion, which removes undigested food that has never entered body cells.
@@ -202,17 +213,6 @@ Ammonia in the blood of a patient is 0.24 mmol dm⁻³ in the hepatic portal vei
 ## Next steps
 
 Try the [practice questions](/resources/ocr-a-level-biology-cell-communication-homeostasis-and-the-liver-practice/), then use the [revision notes](/resources/ocr-a-level-biology-cell-communication-homeostasis-and-the-liver-revision-notes/) and [diagnostics](/diagnostics/) to find gaps.
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-level-biology-9700-homeostasis--04-pct-reabsorption.webp" width="900" height="940" alt="One proximal tubule cell between filtrate (left) and blood (right) with microvilli, mitochondria and tight junctions. Step 1: a sodium-potassium pump moves Na+ out of the cell using ATP. Step 2: Na+ diffuses in through a co-transporter carrying glucose. Step 3: glucose leaves by facilitated diffusion. Step 4: water follows by osmosis." loading="lazy">
-  <figcaption>Active transport of sodium out of the cell drives co-transport of glucose in, and water follows by osmosis.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-level-biology-9700-homeostasis--06-adh-osmoregulation.webp" width="900" height="1010" alt="Top: a fall in blood water potential makes hypothalamus osmoreceptors shrink and signal the posterior pituitary by impulses, which releases ADH into the blood, going to the kidney. Bottom: two collecting duct cells. With little ADH vesicles stay inside and little water leaves; with ADH the vesicles fuse, aquaporin pores open and more water leaves by osmosis, giving small concentrated urine." loading="lazy">
-  <figcaption>ADH makes the collecting duct more permeable to water by inserting aquaporins, so less water is lost in urine.</figcaption>
-</figure>
-
 
 ## Official syllabus
 

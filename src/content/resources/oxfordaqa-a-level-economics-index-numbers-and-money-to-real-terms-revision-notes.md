@@ -190,6 +190,12 @@ Reminder: nominal income 5,250 with a price index of 105 gives 5,250 / 105 x 100
 10. 1.04 / 1.07 = 0.9720, so real wages **fall by 2.8%**.
 11. **Not necessarily.** The indices show how much each price has changed since the base year, so Y's price rose by more. They do not give the actual prices.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-index-numbers-and-money-to-real-terms--09-un227-ix-real-growth-approx.webp" width="900" height="960" alt="A graph of real growth against inflation for 9% nominal growth. The line 9 minus inflation and the exact line 1.09 divided by (1 plus inflation) nearly coincide at small rates and part at higher rates. At 6% they give 3.0% and 2.8%." loading="lazy">
+  <figcaption>Subtracting inflation is a good approximation at low rates; exact division is safer.</figcaption>
+</figure>
+
+
 ## Where marks are usually lost
 
 - Showing only a final figure with no formula or working, so a slip leaves your method unclear.
@@ -201,12 +207,6 @@ Reminder: nominal income 5,250 with a price index of 105 gives 5,250 / 105 x 100
 - Reading an index of 120 and an index of 90 as actual price levels.
 - Dropping the division by total weights in a weighted index.
 - Concluding that living standards rose from nominal data alone.
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-index-numbers-and-money-to-real-terms--09-un227-ix-real-growth-approx.webp" width="900" height="960" alt="A graph of real growth against inflation for 9% nominal growth. The line 9 minus inflation and the exact line 1.09 divided by (1 plus inflation) nearly coincide at small rates and part at higher rates. At 6% they give 3.0% and 2.8%." loading="lazy">
-  <figcaption>Subtracting inflation is a good approximation at low rates; exact division is safer.</figcaption>
-</figure>
-
 
 ## Official syllabus
 

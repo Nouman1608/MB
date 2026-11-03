@@ -230,6 +230,16 @@ The rate falls with time because the acid concentration falls, so collisions bec
   <figcaption>The rate at any time is the size of the tangent gradient, and the gradient at t = 0 is the initial rate.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-kinetics--07-half-life.webp" width="900" height="1060" alt="Two concentration-time graphs. For a first-order reaction each halving (0.80 to 0.40 to 0.20 to 0.10) takes the same 60 s, so k = ln 2 divided by the half-life. For a zero-order reaction the line is straight and successive halvings take 100, 50 and 25 s, with k equal to minus the gradient." loading="lazy">
+  <figcaption>A constant half-life shows first order; in a zero-order reaction successive half-lives shorten.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-kinetics--09-rate-determining-step.webp" width="900" height="1170" alt="A two-hill enthalpy profile for 2P + Q going to P2Q. The first hill (P + Q forming PQ) is higher, so it is the slow, rate-determining step; the second (PQ + P forming P2Q) is lower and fast. Because the slow step has one P and one Q, Rate = k[P][Q]." loading="lazy">
+  <figcaption>The slowest step sets the rate, and the orders show how many particles of each reactant take part in it.</figcaption>
+</figure>
+
 
 ## 3.1.5.5 Catalysts
 

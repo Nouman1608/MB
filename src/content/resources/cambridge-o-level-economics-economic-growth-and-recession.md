@@ -134,6 +134,11 @@ These effects reinforce each other. Falling spending cuts firms' sales, firms cu
   <figcaption>Growth rates for workers, output per worker, real GDP, population and GDP per head.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-basic-economic-problem--07-ppc-shift-vs-movement.webp" width="900" height="1190" alt="Top: a point inside the curve moves to the curve by using idle resources more fully; this is temporary, reversible and not economic growth on this syllabus. Bottom: the whole curve shifts outward because of more or better resources or better technology, a permanent increase in capacity, which is economic growth." loading="lazy">
+  <figcaption>Only an outward shift of the whole curve counts as economic growth.</figcaption>
+</figure>
+
 
 ### Worked example 3: a recession in numbers
 
@@ -166,6 +171,16 @@ In a recession the economy is inside its PPC because some resources are unemploy
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/cambridge-o-level-economics-economic-growth-and-recession--09-growth-recession-gap.webp" width="900" height="800" alt="Real GDP falls from 250 to 244 over two quarters, a recession, and the gap below potential grows from 10 to 16. Illustrative numbers from the lesson." loading="lazy">
   <figcaption>Real GDP per quarter for Country B against potential output of 260.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-edexcel-economics-economic-growth--01-growth-rate-and-recession.webp" width="900" height="780" alt="Bar chart of quarterly real GDP growth: Q1 +0.5%, Q2 -0.3%, Q3 -0.6%. Q2 and Q3 are shaded as a recession because there are two consecutive quarters of negative growth, confirmed at the end of Q3. One negative quarter would not be a recession." loading="lazy">
+  <figcaption>Two consecutive quarters of negative growth make a recession, confirmed here at the end of Q3.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-basic-economic-problem--05-ppc-points.webp" width="900" height="1080" alt="An illustrative PPC with Food and Machines axes. A on the curve means all resources fully used, B inside means idle or wasted resources, C beyond the curve cannot be reached with current resources." loading="lazy">
+  <figcaption>Points inside, on and beyond the PPC show how well resources are used.</figcaption>
 </figure>
 
 

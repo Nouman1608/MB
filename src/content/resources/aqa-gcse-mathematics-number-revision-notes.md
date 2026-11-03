@@ -63,6 +63,12 @@ The conjugate works because `(a + √b)(a − √b) = a² − b`, which contains
 
 `√a + √b ≠ √(a+b)` — check with √9 + √16 = 7, not √25 = 5.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-exponential-growth-decay-and-surds--04-surd-diagonal.webp" width="900" height="940" alt="A square of side 4 cm has a diagonal of root 32, since 16 + 16 = 32. Taking out the square factor gives 4 root 2, which lands near 5.657 on the number line." loading="lazy">
+  <figcaption>The exact length 4√2 cm is a surd; 5.657 is only a rounded value.</figcaption>
+</figure>
+
+
 ## Standard form
 
 ```
@@ -84,6 +90,16 @@ Multiplying and dividing: handle the numbers and the powers separately, then **r
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/igcse-mathematics-0580-powers-roots-and-indices--03-zero-negative-indices.webp" width="900" height="1032" alt="A staircase lists 5^3 down to 5^-3. Each step lowers the index by 1 and divides by 5, giving 125, 25, 5, 1, 1/5, 1/25, 1/125. So 5^0 = 1 and a negative index gives a small positive reciprocal." loading="lazy">
   <figcaption>Each step down divides by 5, so 5^0 = 1 and 5^-n is 1 over 5^n.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-powers-roots-and-indices--05-fractional-indices.webp" width="900" height="1000" alt="A cube of 125 blocks has side 5, so 125^(1/3) = 5. Two flow chains show 125^(-2/3): root 3, square, flip gives 1/25, and 32^(3/5): root 5, cube gives 8." loading="lazy">
+  <figcaption>The denominator is the root, the numerator is the power, and a minus sign flips.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-number--03-standard-form.webp" width="900" height="880" alt="Digit boxes show the decimal point of 4 560 000 jumping 6 places left to give 4.56 x 10^6, and of 0.00032 jumping 4 places right to give 3.2 x 10^-4. A must lie between 1 and 10." loading="lazy">
+  <figcaption>Move the decimal point until the number is between 1 and 10; the count of moves is the power of 10.</figcaption>
 </figure>
 
 
@@ -114,10 +130,21 @@ A 15% rise followed by a 15% fall does **not** return you to the start: 1.15 × 
   <figcaption>Multiplying by 100 lines up the repeating tails so that subtracting removes them.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-mathematics-ratio-proportion-rates-of-change--07-simple-vs-compound-interest.webp" width="900" height="950" alt="A graph of 1000 pounds over 5 years at 3 percent. Simple interest rises in equal steps to 1150 pounds (multiplier 1.15). Compound interest curves slightly higher to 1159.27 pounds (multiplier 1.03 to the power 5, about 1.159). The vertical axis starts at 1000." loading="lazy">
+  <figcaption>Compound interest multiplies by 1.03^5 = 1.159; simple interest by 1.15.</figcaption>
+</figure>
+
 
 ## Fractions
 
 Multiply: multiply across. Divide: **multiply by the reciprocal** of the second fraction. Add and subtract: common denominator first. Always convert mixed numbers to improper fractions before multiplying or dividing.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-fractions-decimals-percentages-ordering-operations--04-order-of-operations.webp" width="900" height="960" alt="Two worked examples with the part being calculated highlighted at each step: (5 - 2^3) x 4 + 6 / (-2) = -15, and 18 - 12 / 4 x 3 = 9. Multiplication and division have equal rank, so work left to right." loading="lazy">
+  <figcaption>Work out indices and brackets first, then multiply and divide left to right, then add and subtract.</figcaption>
+</figure>
+
 
 ## Bounds
 
@@ -148,6 +175,16 @@ Writing this error interval is Foundation (N15). **(Higher)** Combining bounds �
   <figcaption>Rounding goes to the nearest value; truncating simply cuts digits off.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-number--04-limits-of-accuracy.webp" width="900" height="810" alt="A number line from 4.50 to 4.70 kg shades the values from 4.55 to 4.65 that round to 4.6 kg. The lower bound 4.55 is included (filled dot); the upper bound 4.65 is not (open dot)." loading="lazy">
+  <figcaption>A value given to 1 d.p. can be up to half a unit (0.05) either side: 4.55 &lt;= mass &lt; 4.65.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-estimation-and-using-a-calculator--03-estimate-calculation.webp" width="900" height="800" alt="62.4, 0.187 and 3.87 are rounded to 60, 0.2 and 4. The estimate is (60 x 0.2) / 4 = 3. On a number line it lies right next to the calculator value 3.015." loading="lazy">
+  <figcaption>Round every number to 1 s.f., write the rounded calculation, and work it out.</figcaption>
+</figure>
+
 
 ## HCF and LCM
 
@@ -175,12 +212,6 @@ A jacket costs £68 after a 15% **reduction**. The sale price is 85% of the orig
 
 The trap here is finding 15% of £68 and adding it on — that gives £78.20, which is wrong, because the percentage applies to the **original** price, not the sale price. **Estimating** by rounding each value to 1 significant figure before a calculation is also useful for sanity-checking whether an answer is plausible.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/aqa-gcse-mathematics-number--04-reverse-percentage-jacket.webp" width="900" height="900" alt="A bar for the sale price 68 pounds is 85 percent. Dividing by 0.85 gives the original, 80 pounds, as 100 percent. The slip of adding 15 percent of 68 gives 78.20 pounds, which is wrong." loading="lazy">
-  <figcaption>Divide by the multiplier to get back to the original price.</figcaption>
-</figure>
-
-
 ## Exam traps
 
 - Reading a negative index as a negative answer.
@@ -201,3 +232,9 @@ The trap here is finding 15% of £68 and adding it on — that gives £78.20, wh
 7. Find the HCF and LCM of 60 and 72 using prime factorisation.
 
 **Answers:** 1. 4; and 3/2. 2. Multiply top and bottom by (3 − √2) to get (3 − √2)/7. 3. 69 ÷ 1.15 = £60. 4. 23.5 ≤ L < 24.5. 5. Upper bound of a divided by the **lower** bound of b. 6. £80, since the multiplier for an 85% sale price is 0.85 and 68 ÷ 0.85 = £80; the common error is finding 15% of £68 and adding it on, which wrongly applies the percentage to the sale price rather than the original. 7. 60 = 2² × 3 × 5 and 72 = 2³ × 3², so HCF = 2² × 3 = 12 and LCM = 2³ × 3² × 5 = 360.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-mathematics-number--04-reverse-percentage-jacket.webp" width="900" height="900" alt="A bar for the sale price 68 pounds is 85 percent. Dividing by 0.85 gives the original, 80 pounds, as 100 percent. The slip of adding 15 percent of 68 gives 78.20 pounds, which is wrong." loading="lazy">
+  <figcaption>Divide by the multiplier to get back to the original price.</figcaption>
+</figure>
+

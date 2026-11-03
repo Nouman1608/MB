@@ -140,22 +140,6 @@ gearing       = non-current liabilities / capital employed x 100
 
 **Limitations of ratio analysis:** historic data, ignores non-financial factors, distorted by different accounting policies, affected by inflation and seasonality, and vulnerable to year-end window dressing.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/aqa-a-level-accounting-analysis-and-evaluation-of-financial-information--01-ratio-map.webp" width="900" height="951" alt="Five rows group ratios by the question they answer: profitability asks if the business earns enough, liquidity if it can pay its debts, efficiency if it uses resources well, capital structure how it is funded (AQA and OxfordAQA), and investor ratios whether shares are worth owning (A Level companies)." loading="lazy">
-  <figcaption>Each ratio group answers one question about the business.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/aqa-a-level-accounting-analysis-and-evaluation-of-financial-information--04-liquidity-ratios.webp" width="900" height="810" alt="Current assets of 95,000 dollars (bank 7,000, receivables 46,000, inventory 42,000) are compared with current liabilities of 38,000. The current ratio is 2.50 to 1; removing inventory leaves 53,000, so the acid test is 1.39 to 1." loading="lazy">
-  <figcaption>The acid test removes inventory, the least liquid current asset.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/aqa-a-level-accounting-analysis-and-evaluation-of-financial-information--08-gearing-interest-cover.webp" width="900" height="810" alt="Ardleigh funds 24.47 percent of long-term capital with debt and its operating profit covers interest 7.91 times. Merrowdale has 52.00 percent debt and covers interest only 3.00 times, so it is riskier if profit falls." loading="lazy">
-  <figcaption>More borrowing and less interest cover mean more risk to lenders and shareholders.</figcaption>
-</figure>
-
-
 ## Exam traps
 
 - Giving one effect of an adjustment.
@@ -177,3 +161,19 @@ gearing       = non-current liabilities / capital employed x 100
 6. Name the five ethical principles accountants are expected to show.
 
 **Answers:** 1. The accruals or matching concept — income and expenses are recorded when incurred rather than when cash moves. 2. It reduces profit for the year and appears as a current liability. 3. A profitable business can still fail if it cannot pay debts as they fall due, so the ability to generate cash matters more than reported profit for repayment. 4. It may mean excess inventory, receivables collected too slowly, or cash held idle rather than invested productively. 5. It magnifies returns to shareholders when profits are strong, but increases risk sharply if interest rates rise or profits fall. 6. Integrity, objectivity, professional competence, confidentiality and professional behaviour.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-analysis-and-evaluation-of-financial-information--01-ratio-map.webp" width="900" height="951" alt="Five rows group ratios by the question they answer: profitability asks if the business earns enough, liquidity if it can pay its debts, efficiency if it uses resources well, capital structure how it is funded (AQA and OxfordAQA), and investor ratios whether shares are worth owning (A Level companies)." loading="lazy">
+  <figcaption>Each ratio group answers one question about the business.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-analysis-and-evaluation-of-financial-information--04-liquidity-ratios.webp" width="900" height="810" alt="Current assets of 95,000 dollars (bank 7,000, receivables 46,000, inventory 42,000) are compared with current liabilities of 38,000. The current ratio is 2.50 to 1; removing inventory leaves 53,000, so the acid test is 1.39 to 1." loading="lazy">
+  <figcaption>The acid test removes inventory, the least liquid current asset.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-analysis-and-evaluation-of-financial-information--08-gearing-interest-cover.webp" width="900" height="810" alt="Ardleigh funds 24.47 percent of long-term capital with debt and its operating profit covers interest 7.91 times. Merrowdale has 52.00 percent debt and covers interest only 3.00 times, so it is riskier if profit falls." loading="lazy">
+  <figcaption>More borrowing and less interest cover mean more risk to lenders and shareholders.</figcaption>
+</figure>
+

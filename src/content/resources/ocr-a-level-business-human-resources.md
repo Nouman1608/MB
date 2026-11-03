@@ -85,6 +85,21 @@ Evaluation: the best structure depends on size, the skills of staff and how fast
   <figcaption>Authority can be delegated; accountability stays with the delegator.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-business-organisational-structure-and-business-communication--09-centralised-decentralised.webp" width="900" height="920" alt="Two charts with head office and three branches. Centralised: decisions are taken at head office and branches refer upward. Decentralised: each branch takes decisions locally." loading="lazy">
+  <figcaption>Centralisation keeps decisions at the top; decentralisation moves them down.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-introduction-to-human-resource-management-and-organizational-structure--05-structure-types.webp" width="900" height="920" alt="Four small organisation charts: by function (marketing, finance, HR), by product, by region, and a matrix where each employee reports to a function manager and a project manager." loading="lazy">
+  <figcaption>Staff can be grouped by function, product or region, or in a matrix with two reporting lines.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-business-organisational-structure-and-business-communication--08-matrix-structure.webp" width="900" height="880" alt="A grid of functional departments (columns) and project managers (rows). A highlighted worker has arrows to both a functional manager and a project manager. Matrix structures share skills but two bosses can cause conflict and slower decisions." loading="lazy">
+  <figcaption>In a matrix structure staff report to a functional manager and a project manager.</figcaption>
+</figure>
+
 
 ## 3. Communication
 
@@ -162,6 +177,21 @@ Benefits: retention, wider recruitment pool, matching staff to demand. Costs: co
   <figcaption>Compressed hours keep the 40 hours but fit them into four days.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-business-human-resource-management--04-job-spec.webp" width="900" height="990" alt="Job analysis leads to a job description (the job: tasks, duties, responsibilities) and a person specification (the person: skills, qualifications, qualities), which is used to shortlist; advertising, interviewing and selection follow." loading="lazy">
+  <figcaption>The job description describes the job; the person specification describes the ideal person.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-business-managing-people-and-entrepreneurs-and-leaders--05-recruitment-cost.webp" width="900" height="980" alt="Bars itemise external recruitment costs (advert, agency fee, interviews, induction) totalling £5,212 and internal costs (advert, interviews, training and cover) totalling £2,640. Internal is £2,572 cheaper." loading="lazy">
+  <figcaption>Internal recruitment costs £2,572 less than external recruitment in this example.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-business-recruitment-selection-and-training-of-employees-and-internal-and-external--04-dismissal-vs-redundancy.webp" width="900" height="730" alt="Two panels. Dismissal concerns the person: an employee ignores safety rules after warnings and leaves; the post is often refilled. Redundancy concerns the job: a machine does the work of five, the post is crossed out and usually removed, through no fault of the worker." loading="lazy">
+  <figcaption>Dismissal is about the employee; redundancy is about the job.</figcaption>
+</figure>
+
 
 ## 5. Appraisal, workforce performance, redundancy and dismissal
 
@@ -204,6 +234,12 @@ Leadership is influencing others to follow towards goals.
 
 **Styles:** autocratic (leader decides), democratic (consults), laissez-faire (staff decide), paternalistic (decides with the staff's interests in mind). Autocratic suits crises and unskilled work; democratic suits skilled staff. Recommend a style that fits the task, the staff and the time available.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-business-motivation-and-management--04-mcgregor-xy.webp" width="900" height="870" alt="Theory X managers assume people dislike work and avoid responsibility, leading to close control and autocratic management. Theory Y managers assume people enjoy work and seek responsibility, leading to democratic or laissez-faire management. These are the manager beliefs, not facts about workers." loading="lazy">
+  <figcaption>A manager beliefs about workers (X or Y) shape the management style.</figcaption>
+</figure>
+
+
 ## 7. Motivation
 
 Motivation is the desire to work to achieve something.
@@ -218,6 +254,21 @@ Motivation is the desire to work to achieve something.
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/ocr-a-level-business-human-resources--02-herzberg-two-scales.webp" width="900" height="860" alt="Two scales. Hygiene factors run from dissatisfied to not dissatisfied: they stop dissatisfaction. Motivators such as achievement and recognition run from not satisfied to satisfied: they raise satisfaction." loading="lazy">
   <figcaption>Hygiene factors prevent dissatisfaction; motivators raise satisfaction.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-business-motivation-and-management--05-mcclelland-needs.webp" width="900" height="870" alt="Three rows: achievement (challenges and feedback) suits stretching targets; affiliation (belonging) suits team projects; power (influencing others) suits a chance to lead." loading="lazy">
+  <figcaption>McClelland needs of achievement, affiliation and power each call for a different motivator.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-business-motivation-and-management--01-vroom-worked.webp" width="900" height="860" alt="Two rows multiply expectancy, instrumentality and valence. A team bonus gives 0.9 x 0.4 x 7 = 2.52; an individual bonus with instrumentality 0.9 gives 0.9 x 0.9 x 7 = 5.67, 2.25 times higher, with the reward unchanged. The scores are illustrative." loading="lazy">
+  <figcaption>Vroom: raising the link between performance and reward more than doubles motivational force (illustrative scores).</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-motivation-and-demotivation--05-job-redesign.webp" width="900" height="950" alt="Enlargement adds more tasks at the same level (wider). Enrichment adds planning and decision-making on top of doing (deeper) and targets Herzberg motivators. Rotation moves staff between tasks or departments." loading="lazy">
+  <figcaption>Enrichment adds depth; enlargement adds more of the same; rotation swaps tasks.</figcaption>
 </figure>
 
 

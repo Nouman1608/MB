@@ -147,8 +147,8 @@ Forces and motion are written as vectors in i and j (or as column vectors; the s
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-kinematics--06-vector-motion-plane.webp" width="900" height="900" alt="The path of r = (t³ − 3t)i + (2t² + 1)j from t = 0 to 2 with velocity arrows. At t = 0 the velocity is minus 3i, at t = 1 it is 4j (i component zero) and at t = 2 it is 9i + 8j, speed 12.0 m/s, with acceleration 12i + 4j." loading="lazy">
-  <figcaption>Differentiate each component separately; parallel to j means the i component of velocity is zero.</figcaption>
+  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-kinematics--09-two-angles-one-point.webp" width="900" height="910" alt="Two parabolas from the origin at 14 m/s pass through (10, 5). Using sec²α = 1 + tan²α gives T² − 4T + 3 = 0, so tan α = 1 or 3, α = 45° or 71.6°. The 45° path has range 20 m and is at its top at the point; the 71.6° path has range 12 m and passes it on the way down." loading="lazy">
+  <figcaption>Eliminating t gives a quadratic in tan α, so there are usually two launch angles.</figcaption>
 </figure>
 
 
@@ -169,6 +169,12 @@ Sometimes you are given the position vector r(t) and asked for the force. Then y
         v = 4√2 i + 4 k,  speed = √(32 + 16) = √48 = 4√3 = 6.93 m s⁻¹
 
 **(a) F = 8i + 12t j N, (b) t = 0.5 s, (c) 6.93 m s⁻¹.**
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-kinematics--06-vector-motion-plane.webp" width="900" height="900" alt="The path of r = (t³ − 3t)i + (2t² + 1)j from t = 0 to 2 with velocity arrows. At t = 0 the velocity is minus 3i, at t = 1 it is 4j (i component zero) and at t = 2 it is 9i + 8j, speed 12.0 m/s, with acceleration 12i + 4j." loading="lazy">
+  <figcaption>Differentiate each component separately; parallel to j means the i component of velocity is zero.</figcaption>
+</figure>
+
 
 ## 6. Modelling comments
 

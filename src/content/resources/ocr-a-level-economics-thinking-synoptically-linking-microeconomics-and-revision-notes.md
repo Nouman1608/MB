@@ -92,11 +92,6 @@ Micro: inelastic demand for an input means firms cannot adjust quickly, so spend
   <figcaption>Good links name the mechanism and run in both directions.</figcaption>
 </figure>
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-level-economics-price-system-and-the-microeconomy--04-ped-and-total-revenue.webp" width="900" height="1270" alt="Two demand diagrams with the same price cut from 5 to 4. With elastic demand (PED 2.5) quantity rises from 40 to 60: 40 of revenue is lost on existing sales, 80 is gained on extra sales, so revenue rises from 200 to 240. With inelastic demand (PED 0.5) quantity rises only to 44: the loss of 40 outweighs the gain of 16, so revenue falls to 176." loading="lazy">
-  <figcaption>Whether a price cut raises revenue depends on whether demand is elastic or inelastic.</figcaption>
-</figure>
-
 
 ## Quantitative toolkit
 
@@ -114,6 +109,11 @@ Micro: inelastic demand for an input means firms cannot adjust quickly, so spend
 | Ratios | Share = part / whole | Express as a fraction, ratio or percentage |
 
 <figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-thinking-synoptically-linking-microeconomics-and--02-multiplier-leakages.webp" width="900" height="1000" alt="Case A: leakages of 0.15 saving, 0.15 tax and 0.10 imports give a withdrawal of 0.40, a multiplier of 2.5 and a rise of cu 20m from cu 8m. Case B: withdrawals of 0.50 give a multiplier of 2 and a rise of cu 16m." loading="lazy">
+  <figcaption>A larger share of spending on imports lowers the multiplier from 2.5 to 2.</figcaption>
+</figure>
+
+<figure class="topic-figure">
   <img src="https://img.marlbridge.com/ocr-a-level-economics-thinking-synoptically-linking-microeconomics-and--04-mean-vs-median-pay.webp" width="900" height="940" alt="Five bars of weekly pay (220, 240, 250, 260, 530) with a mean line at 300 and a median line at 250. The 530 pulls the mean above the typical rider." loading="lazy">
   <figcaption>One high value pulls the mean up, so the median describes a typical rider better.</figcaption>
 </figure>
@@ -126,6 +126,11 @@ Micro: inelastic demand for an input means firms cannot adjust quickly, so spend
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/ocr-a-level-economics-thinking-synoptically-linking-microeconomics-and--09-index-points-vs-percent.webp" width="900" height="900" alt="An employment index rises from 115 to 130: 15 index points, which is 13.0 percent, not 15 percent." loading="lazy">
   <figcaption>Index points and percentage change are different measures.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-economics-measurement-of-macroeconomic-performance--03-index-numbers.webp" width="900" height="980" alt="Bars have widths equal to weights (food 50%, housing 30%, transport 20%) and heights equal to item indices 104, 106 and 96 against a base-year line at 100. The weighted average is 103, meaning prices are 3% above the base year." loading="lazy">
+  <figcaption>Weights make bigger spending items count more in an index anchored at 100.</figcaption>
 </figure>
 
 
@@ -145,6 +150,11 @@ Micro: inelastic demand for an input means firms cannot adjust quickly, so spend
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/aqa-a-level-economics-aggregate-demand-supply--04-supply-side-shock.webp" width="900" height="910" alt="A rise in world oil prices lifts production costs and shifts SRAS left from SRAS1 to SRAS2. Equilibrium moves from output 90, price level 65 to output 65, price level 77.5. LRAS does not move." loading="lazy">
   <figcaption>A cost shock shifts SRAS left, raising prices and cutting output, without changing underlying capacity.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-edexcel-economics-economic-growth--02-real-and-nominal-gdp.webp" width="900" height="780" alt="Line chart over four years, index year 0 = 100. Real GDP, with inflation removed, grows about 2% a year to 108.2. Nominal GDP grows faster to 121.8 because prices also rise about 3% a year; the shaded gap is the effect of price rises." loading="lazy">
+  <figcaption>Nominal GDP includes price rises; real GDP removes them so growth in output can be seen.</figcaption>
 </figure>
 
 
@@ -201,6 +211,17 @@ Pay rose in money terms but bought nothing extra. At macro level this limits con
 9. 24 / 800 x 100 = **3%**.
 10. 1.4 x 5 = **7% rise**.
 11. It should name the mechanism in stages (cause, then effect, then consequence) and cross from one level of the economy to the other, for example from a market to the price level.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-thinking-synoptically-linking-microeconomics-and--01-delivery-fee-revenue.webp" width="900" height="1080" alt="Two rectangles of fee times orders per week. The fee rose 20% and orders fell 12%, so PED is -0.6 (inelastic) and revenue rose from 300,000 to 316,800." loading="lazy">
+  <figcaption>Inelastic demand means a higher fee raised platform revenue in the delivery example.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-economics-price-system-and-the-microeconomy--04-ped-and-total-revenue.webp" width="900" height="1270" alt="Two demand diagrams with the same price cut from 5 to 4. With elastic demand (PED 2.5) quantity rises from 40 to 60: 40 of revenue is lost on existing sales, 80 is gained on extra sales, so revenue rises from 200 to 240. With inelastic demand (PED 0.5) quantity rises only to 44: the loss of 40 outweighs the gain of 16, so revenue falls to 176." loading="lazy">
+  <figcaption>Whether a price cut raises revenue depends on whether demand is elastic or inelastic.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

@@ -138,6 +138,31 @@ Example: estate 380,000, threshold 200,000, rate 40%. Tax = 180,000 × 0.40 = 72
   <figcaption>A minimum wage above equilibrium creates unemployment but can raise the pay of those still employed.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-income-and-wealth-inequality-and-redistribution--05-ineq-progressive-tax.webp" width="900" height="1000" alt="Marginal rate steps 0, 20, 40 percent; the average rate rises from 0 to 10, 24 and 32 percent and always lies below it. The richest-to-poorest ratio falls from 12.5 to 8.5." loading="lazy">
+  <figcaption>A tax is progressive when the average rate rises with income because the marginal rate exceeds it.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-income-and-wealth-inequality-and-redistribution--07-tax-then-transfer.webp" width="900" height="1040" alt="Horizontal bars for a poorest (8,000) and richest (100,000) household. The richest to poorest ratio is 12.5 before tax, 8.5 after tax (68,000 and 8,000) and about 6.2 after a 3,000 transfer to the poorest." loading="lazy">
+  <figcaption>Tax cuts the richest-to-poorest ratio from 12.5 to 8.5, and a 3,000 transfer cuts it to 6.2.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-income-and-wealth-inequality-and-redistribution--08-inheritance-capital-gains-tax.webp" width="900" height="840" alt="Inheritance tax: 450,000 estate, 250,000 free, 200,000 taxed at 30 percent gives 60,000, 13.3 percent of the estate. Capital gains tax: gain 60,000, allowance 10,000, 50,000 taxed at 25 percent gives 12,500." loading="lazy">
+  <figcaption>Only the part of an estate above 250,000, or of a gain above the allowance, is taxed.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-income-and-wealth-inequality-and-redistribution--09-state-provision-benefit-in-kind.webp" width="900" height="1010" alt="Two bars: income 10,000 and 90,000, each plus services worth 5,000, which is 50 percent and 5.6 percent of income. The ratio falls from 9.0 to about 6.3." loading="lazy">
+  <figcaption>The same 5,000 of services is 50% of a low income but 5.6% of a high one.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-objectives-of-government--07-types-of-tax.webp" width="900" height="1110" alt="Bar charts of tax as a percentage of income for low, middle and high earners: progressive rises (10, 15, 22.5 percent), regressive falls (2, 1.5, 1 percent). Below, a direct tax goes from you to the government; an indirect tax goes via a shop." loading="lazy">
+  <figcaption>Direct/indirect and progressive/regressive are two separate ways to classify taxes.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 
@@ -147,17 +172,6 @@ Example: estate 380,000, threshold 200,000, rate 40%. Tax = 180,000 × 0.40 = 72
 - Universal versus means-tested benefits.
 - Redistribution of income (flow) versus redistribution of wealth (stock).
 - Equality (same outcome) versus equity (fairness). Say which you are using.
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/cambridge-a-level-economics-income-and-wealth-inequality-and-redistribution--05-ineq-progressive-tax.webp" width="900" height="1000" alt="Marginal rate steps 0, 20, 40 percent; the average rate rises from 0 to 10, 24 and 32 percent and always lies below it. The richest-to-poorest ratio falls from 12.5 to 8.5." loading="lazy">
-  <figcaption>A tax is progressive when the average rate rises with income because the marginal rate exceeds it.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/aqa-gcse-economics-objectives-of-government--07-types-of-tax.webp" width="900" height="1110" alt="Bar charts of tax as a percentage of income for low, middle and high earners: progressive rises (10, 15, 22.5 percent), regressive falls (2, 1.5, 1 percent). Below, a direct tax goes from you to the government; an indirect tax goes via a shop." loading="lazy">
-  <figcaption>Direct/indirect and progressive/regressive are two separate ways to classify taxes.</figcaption>
-</figure>
-
 
 ## Evaluation prompts
 
@@ -196,12 +210,6 @@ Example: estate 380,000, threshold 200,000, rate 40%. Tax = 180,000 × 0.40 = 72
 9. Some low-paid workers live in better-off households; job losses; hours cut; the unemployed gain nothing.
 10. Hides the shape of the distribution; ignores absolute living standards; can depend on the measure used.
 11. 4,000 ÷ 16,000 = 25%.
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/cambridge-a-level-economics-income-and-wealth-inequality-and-redistribution--08-inheritance-capital-gains-tax.webp" width="900" height="840" alt="Inheritance tax: 450,000 estate, 250,000 free, 200,000 taxed at 30 percent gives 60,000, 13.3 percent of the estate. Capital gains tax: gain 60,000, allowance 10,000, 50,000 taxed at 25 percent gives 12,500." loading="lazy">
-  <figcaption>Only the part of an estate above 250,000, or of a gain above the allowance, is taxed.</figcaption>
-</figure>
-
 
 ## Where marks are usually lost
 

@@ -120,11 +120,6 @@ Here Q is output.
 - If a cleaner costs £40 an hour and each car needs £0.50 of materials, MC at the second cleaner is 40 ÷ 9 + 0.50 = £4.94. At the third it is 40 ÷ 8 + 0.50 = £5.50. MC rises because MP falls.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ocr-a-level-economics-short-run-costs-diminishing-returns-and-cost-curves--05-sr-unit-cost-curves.webp" width="900" height="950" alt="AFC, AVC, AC and MC for the bookbinding workshop are plotted against output. AFC is the exact hyperbola 120 divided by output; the other curves join the lesson table points. MC is lowest at 7.00, AVC at 8.49 and AC at 11.73 to 11.77." loading="lazy">
-  <figcaption>MC, AVC, AC and AFC drawn together show the order of the turning points.</figcaption>
-</figure>
-
-<figure class="topic-figure">
   <img src="https://img.marlbridge.com/cambridge-igcse-economics-microeconomic-decision-makers--05-costs-per-unit.webp" width="900" height="1280" alt="AFC falls as output rises, AVC is U-shaped and ATC is their sum, also U-shaped. At 30 units ATC 9 equals AVC 5 plus AFC 4. A table with fixed cost 120 shows total cost and ATC for outputs 10 to 40. Revenue is price times quantity." loading="lazy">
   <figcaption>Average total cost is total cost divided by output, and is the sum of average fixed and variable cost.</figcaption>
 </figure>
@@ -161,8 +156,23 @@ Here Q is output.
 | Better technology or training (higher MP) | MC, AVC and AC shift down |
 
 <figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-short-run-costs-diminishing-returns-and-cost-curves--03-sr-total-cost-gap.webp" width="900" height="840" alt="TFC is flat at 120 pounds, TVC rises from the origin and TC is TVC shifted up. The vertical gap between TC and TVC is 120 pounds at every output, for example 434 minus 314 at 37 notebooks." loading="lazy">
+  <figcaption>The vertical gap between TC and TVC is always TFC.</figcaption>
+</figure>
+
+<figure class="topic-figure">
   <img src="https://img.marlbridge.com/ocr-a-level-economics-short-run-costs-diminishing-returns-and-cost-curves--04-sr-mc-pulls-ac.webp" width="900" height="885" alt="Average cost bars at outputs 27, 37 and 43 are 13.11, 11.73 and 11.77 pounds. Marginal cost of 8.00 is below AC so AC falls; marginal cost of 12.00 is above AC so AC rises. MC therefore cuts AC at its lowest point." loading="lazy">
   <figcaption>MC below AC pulls AC down and MC above AC pulls it up.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-short-run-costs-diminishing-returns-and-cost-curves--05-sr-ac-avc-afc.webp" width="900" height="910" alt="Stacked bars give average variable cost plus average fixed cost for each output, with the top of the bar equal to AC. AFC shrinks as output grows but never reaches zero, so AC is lowest a little to the right of AVC." loading="lazy">
+  <figcaption>AC is AVC plus AFC, and the AFC gap narrows but never closes.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-short-run-costs-diminishing-returns-and-cost-curves--05-sr-unit-cost-curves.webp" width="900" height="950" alt="AFC, AVC, AC and MC for the bookbinding workshop are plotted against output. AFC is the exact hyperbola 120 divided by output; the other curves join the lesson table points. MC is lowest at 7.00, AVC at 8.49 and AC at 11.73 to 11.77." loading="lazy">
+  <figcaption>MC, AVC, AC and AFC drawn together show the order of the turning points.</figcaption>
 </figure>
 
 
@@ -217,17 +227,6 @@ Always finish with a view: the law matters most to firms with large fixed capaci
 8. The gap is TFC, which does not change with output.
 9. TC at 10 units is £150, so TC at 11 is £169 and AC = 169 ÷ 11 = £15.36. AC **rises** because MC is above AC.
 10. Any two: timescale for adding capacity, flexibility such as outsourcing, level of demand relative to capacity, changes in technology or training.
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ocr-a-level-economics-short-run-costs-diminishing-returns-and-cost-curves--03-sr-total-cost-gap.webp" width="900" height="840" alt="TFC is flat at 120 pounds, TVC rises from the origin and TC is TVC shifted up. The vertical gap between TC and TVC is 120 pounds at every output, for example 434 minus 314 at 37 notebooks." loading="lazy">
-  <figcaption>The vertical gap between TC and TVC is always TFC.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ocr-a-level-economics-short-run-costs-diminishing-returns-and-cost-curves--05-sr-ac-avc-afc.webp" width="900" height="910" alt="Stacked bars give average variable cost plus average fixed cost for each output, with the top of the bar equal to AC. AFC shrinks as output grows but never reaches zero, so AC is lowest a little to the right of AVC." loading="lazy">
-  <figcaption>AC is AVC plus AFC, and the AFC gap narrows but never closes.</figcaption>
-</figure>
-
 
 ## Where marks are usually lost
 

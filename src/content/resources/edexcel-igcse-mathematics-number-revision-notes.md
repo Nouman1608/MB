@@ -139,6 +139,11 @@ Carry full accuracy through the calculation and **round only the final answer** 
   <figcaption>Multiply the multipliers: 1.25 × 0.88 = 1.1, an overall increase of 10%.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-mathematics-numbers-and-the-number-system--02-compound-interest-bars.webp" width="900" height="890" alt="Five bars show 2,000 pounds growing by 3 percent a year to 2,060.00, 2,121.80, 2,185.45 and 2,251.02. Total interest is 251.02, compared with 240 for simple interest." loading="lazy">
+  <figcaption>Each year the 3% is taken on the new balance, so the interest itself earns interest.</figcaption>
+</figure>
+
 
 ## Indices and standard form
 
@@ -155,6 +160,27 @@ standard form: A x 10^n     with 1 <= A < 10
 
 After multiplying or dividing, **re-check A is between 1 and 10** and adjust the power.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-maths-4ma1-integers-powers-and-roots--12-indexExample.webp" width="900" height="760" alt="Powers of 3 from 3^-2 to 3^5 are shown with values; multiplying by 3^-2 moves the index from 5 to 3 and dividing by 3^4 moves it to -1, giving 1/3." loading="lazy">
+  <figcaption>Index laws add and subtract the indices.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-powers-roots-and-indices--03-zero-negative-indices.webp" width="900" height="1032" alt="A staircase lists 5^3 down to 5^-3. Each step lowers the index by 1 and divides by 5, giving 125, 25, 5, 1, 1/5, 1/25, 1/125. So 5^0 = 1 and a negative index gives a small positive reciprocal." loading="lazy">
+  <figcaption>Each step down divides by 5, so 5^0 = 1 and 5^-n is 1 over 5^n.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-number--03-standard-form.webp" width="900" height="880" alt="Digit boxes show the decimal point of 4 560 000 jumping 6 places left to give 4.56 x 10^6, and of 0.00032 jumping 4 places right to give 3.2 x 10^-4. A must lie between 1 and 10." loading="lazy">
+  <figcaption>Move the decimal point until the number is between 1 and 10; the count of moves is the power of 10.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-maths-4ma1-degree-of-accuracy-and-standard-form--01-std-form-adjust-front.webp" width="900" height="1145" alt="On a log scale from 0.1 to 100 with 1 to 10 shaded: 13.5 slides left to 1.35 (power up one, giving 1.35 x 10^5), 0.3 slides right to 3 (power down one, giving 3 x 10^-6), and in the Higher example 25 x 10^(2n) becomes 2.5 x 10^(2n+1)." loading="lazy">
+  <figcaption>A front number outside 1 to 10 is slid back, and the power changes to match.</figcaption>
+</figure>
+
+
 ## Surds
 
 ```
@@ -164,6 +190,22 @@ sqrt(a) x sqrt(b) = sqrt(ab)        sqrt(50) = 5 sqrt(2)
 Rationalise a single term by multiplying top and bottom by the surd; for `a + √b`, multiply by the **conjugate** `a − √b`, since `(a+√b)(a−√b) = a² − b`.
 
 `√a + √b ≠ √(a+b)` — check with √9 + √16 = 7, not √25 = 5.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-maths-4ma1-integers-powers-and-roots--11-surds.webp" width="900" height="1270" alt="Three panels: root 72 = 6 root 2 by a square factor; root 45 + root 20 = 5 root 5 as blocks; (2 + root 3)(4 - root 3) = 5 + 2 root 3 using a grid." loading="lazy">
+  <figcaption>Simplify, add and expand surds.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-mathematics-number--11-num-rationalise-denominator.webp" width="900" height="1030" alt="Four steps: find the conjugate 3 + root 5, multiply top and bottom by it, the new denominator is 9 - 5 = 4, and the fraction cancels to 3 + root 5. A second example 1/(root 6 - 2) becomes (root 6 + 2)/2." loading="lazy">
+  <figcaption>Multiply by the conjugate so the denominator becomes a whole number.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-mathematics-exact-calculations-with-fractions-pi-and-surds--08-root-sum.webp" width="900" height="850" alt="A right-angled triangle with short sides root 9 equals 3 and root 16 equals 4 and hypotenuse root of 9 plus 16 equals 5. Walking along the two short sides is 3 plus 4 equals 7, longer than the direct hypotenuse of 5, so the square root of a sum is not the sum of the square roots." loading="lazy">
+  <figcaption>Walking the two short sides of a 3-4-5 triangle is further than the direct hypotenuse.</figcaption>
+</figure>
+
 
 ## Bounds
 
@@ -179,6 +221,22 @@ mass 3.7 kg to 1 d.p.:   3.65 <= m < 3.75
 | **Minimum** | LB + LB | LB − **UB** | LB × LB | LB ÷ **UB** |
 
 **Subtraction and division cross over.** That single fact is most of the topic.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-number--04-limits-of-accuracy.webp" width="900" height="810" alt="A number line from 4.50 to 4.70 kg shades the values from 4.55 to 4.65 that round to 4.6 kg. The lower bound 4.55 is included (filled dot); the upper bound 4.65 is not (open dot)." loading="lazy">
+  <figcaption>A value given to 1 d.p. can be up to half a unit (0.05) either side: 4.55 &lt;= mass &lt; 4.65.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-mathematics-numbers-and-the-number-system--08-bounds-8-4-cm.webp" width="900" height="840" alt="A number line shows 8.4 cm to 1 d.p. lies from 8.35 (included) to 8.45 (not included). With an illustrative 3.2 cm, the sum ranges 11.50 to 11.70 and the difference 5.10 to 5.30, using upper − lower for the maximum difference." loading="lazy">
+  <figcaption>8.4 cm lies between 8.35 and 8.45; for a difference the maximum pairs the upper bound with the lower bound.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-maths-4ma1-degree-of-accuracy-and-standard-form--04-bounds-two-values.webp" width="900" height="1120" alt="Illustrative a = 8 and b = 3 to the nearest whole number. Upper and lower bounds: a+b 12 and 10; a-b 6 and 4 (upper a minus lower b, lower a minus upper b); a x b 29.75 and 18.75; a / b 3.4 and about 2.14. Gold boxes are upper bounds and teal boxes are lower bounds." loading="lazy">
+  <figcaption>Pick the upper or lower bound of each value that makes the answer as large or as small as possible.</figcaption>
+</figure>
+
 
 ## Set notation
 
@@ -207,3 +265,14 @@ The **universal set** 𝓔 contains every element under consideration. **A′** 
 6. What does A ∩ B mean, and how does it differ from A ∪ B?
 
 **Answers:** 1. 36 = 2²×3², 60 = 2²×3×5; HCF = 2²×3 = 12, LCM = 2²×3²×5 = 180. 2. 90 ÷ 1.2 = $75. 3. Flip to (9/4)^(1/2) = 3/2. 4. Multiply top and bottom by (5 + √3) to get 2(5 + √3)/22 = (5 + √3)/11. 5. Upper bound of a divided by the **lower** bound of b. 6. A ∩ B is the intersection — elements in both A and B; A ∪ B is the union — elements in A, B, or both.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-sets--02-two-set-regions.webp" width="900" height="1060" alt="Six two-set Venn diagrams with regions numbered 1 to 4 (A only, both, B only, neither). The shaded regions show A∩B, A∪B, A′, (A∪B)′, A∩B′ and A′∪B." loading="lazy">
+  <figcaption>Each set expression is just a list of numbered regions.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-maths-4ma1-set-language-and-notation--08-complement-shading.webp" width="900" height="1060" alt="Two Venn diagrams of the worked example 1 sets with (A ∩ B)′ and A′ ∩ B shaded. See the SVG description for the full text equivalent." loading="lazy">
+  <figcaption>Shading everything except the overlap is (A ∩ B)′; B only is A′ ∩ B.</figcaption>
+</figure>
+

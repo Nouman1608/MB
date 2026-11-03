@@ -44,12 +44,6 @@ These notes condense section C.4 of the IB *Physics guide* (first assessment 202
 - All points oscillate at the same frequency. Only the amplitude changes with position.
 - Travelling wave: every point has the same amplitude, energy moves along the medium. Standing wave: amplitude varies with position, no net energy transfer along the medium.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ib-dp-physics-standing-waves-resonance-and-damping--02-amplitude-and-phase.webp" width="900" height="1034" alt="A two-loop standing wave with A = 6.0 mm has points P (3.0 mm), Q (about 5.8 mm) in loop 1 and R (6.0 mm) in loop 2. Their displacement-time graphs show the same frequency; P and Q move together and R moves oppositely, a phase difference of pi." loading="lazy">
-  <figcaption>Points in one loop are in phase; neighbouring loops are in antiphase.</figcaption>
-</figure>
-
-
 ## Strings and pipes at a glance
 
 | System | Ends | Allowed harmonics n | Wavelength | Frequency |
@@ -194,6 +188,12 @@ Damping and the peak: more damping means more energy dissipated per cycle, so th
 10. Critical damping.
 11. The closed pipe's first harmonic is half that of the open pipe.
 12. The driving frequency is at or very near the natural frequency.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-standing-waves-resonance-and-damping--02-amplitude-and-phase.webp" width="900" height="1034" alt="A two-loop standing wave with A = 6.0 mm has points P (3.0 mm), Q (about 5.8 mm) in loop 1 and R (6.0 mm) in loop 2. Their displacement-time graphs show the same frequency; P and Q move together and R moves oppositely, a phase difference of pi." loading="lazy">
+  <figcaption>Points in one loop are in phase; neighbouring loops are in antiphase.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

@@ -206,6 +206,11 @@ The advertising belongs to this year, so leaving it out breaks matching / accrua
   <figcaption>Each principle has a typical way of being broken.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-edexcel-accounting-principles-and-double-entry-bookkeeping--02-who-reads-accounts.webp" width="900" height="1110" alt="A hub labelled Accounts links to six users: shareholders (profit and dividends), lenders (can they repay), suppliers (will bills be paid), managers (plan and control), employees (secure jobs and pay) and government (tax due). A highlighted box shows shareholders wanting dividends now while lenders prefer profit kept in." loading="lazy">
+  <figcaption>Different users want different things from the same accounts, and their needs can conflict.</figcaption>
+</figure>
+
 
 ## 6. Technology and sustainability (7.3)
 

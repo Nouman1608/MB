@@ -195,6 +195,11 @@ A two-step route to remember: propan-2-ol → (Cr₂O₇²⁻/H⁺, reflux) → 
 12. Ethanal, CH₃CHO: remove the CN carbon and turn the C(OH) back into C=O.
 
 <figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-aldehydes-and-ketones--01-carbonyl-group.webp" width="900" height="660" alt="An aldehyde (propanal) and a ketone (propanone) are drawn with the carbonyl carbon at the centre of a flat shaded triangle. The three bonds are 120 degrees apart. The carbon is marked delta plus and the oxygen delta minus." loading="lazy">
+  <figcaption>The C=O carbon is delta plus and trigonal planar, so nucleophiles attack it.</figcaption>
+</figure>
+
+<figure class="topic-figure">
   <img src="https://img.marlbridge.com/aqa-a-level-chemistry-aldehydes-and-ketones--04-hydride-mechanism.webp" width="900" height="1300" alt="Step 1 shows a hydride ion with a lone pair attacking the carbonyl carbon by a curly arrow, while a second arrow moves the C=O bond onto oxygen. Step 2 shows the O- taking H from water, giving propan-2-ol." loading="lazy">
   <figcaption>H- attacks the delta plus carbon, then O- is protonated, giving a secondary alcohol from a ketone.</figcaption>
 </figure>
@@ -202,6 +207,11 @@ A two-step route to remember: propan-2-ol → (Cr₂O₇²⁻/H⁺, reflux) → 
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/aqa-a-level-chemistry-aldehydes-and-ketones--05-cyanide-mechanism.webp" width="900" height="1300" alt="The lone pair on the carbon of CN- attacks the carbonyl carbon of ethanal, and the C=O bond moves onto oxygen. The O- then takes H+ from dilute acid to give 2-hydroxypropanenitrile, numbered from the nitrile carbon." loading="lazy">
   <figcaption>CN- attacks with its carbon, then O- is protonated, giving a hydroxynitrile one carbon longer.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-aldehydes-and-ketones--06-racemic-product.webp" width="900" height="1290" alt="Ethanal lies in a flat plane and cyanide can attack from above or below with equal probability. The two attacks give two mirror-image products, shown with wedge and dash bonds. Propanone, with two identical CH3 groups, gives no chiral centre." loading="lazy">
+  <figcaption>Equal attack from both faces of the planar C=O gives equal amounts of two enantiomers, a racemic mixture.</figcaption>
 </figure>
 
 

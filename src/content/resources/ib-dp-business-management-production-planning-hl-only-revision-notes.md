@@ -69,6 +69,12 @@ The guide's formulae section gives the first two rows. The rest are standard for
 | CTB | price per unit × quantity | No, standard form |
 | CTM | variable cost per unit × quantity + extra fixed cost | No, standard form |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-production-planning-hl-only--02-defect-rate-grid.webp" width="900" height="800" alt="Two grids of 100 squares, each square 150 pies of 15,000. Before training 3 squares are red (450 pies, 3%). After training 1.5 squares are red (225 pies, 1.5%)." loading="lazy">
+  <figcaption>Defect rate halved from 3% to 1.5% after staff training.</figcaption>
+</figure>
+
+
 ## Method in steps
 
 Stock control chart
@@ -113,12 +119,6 @@ Sedgewick Tiles makes 18,000 tiles with 45 workers. Sales value is USD 90,000 an
 
 Total contribution = 90,000 − 45,000 = USD 45,000 and profit = 90,000 − 75,000 = USD 15,000, so operating leverage = 45,000 ÷ 15,000 = 3. A 5% rise in sales volume gives about a 15% rise in profit.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ib-dp-business-management-production-planning-hl-only--14-operating-leverage.webp" width="900" height="940" alt="Bars show contribution at $8 a pump against fixed costs of $144,000. At 24,000 pumps profit is $48,000 and leverage 4.0. A 10% rise in volume lifts profit 40% to $67,200; a 10% fall cuts it 40% to $28,800." loading="lazy">
-  <figcaption>High operating leverage magnifies changes in sales into larger changes in profit.</figcaption>
-</figure>
-
-
 ## Must-know distinctions
 
 JIT versus JIC
@@ -149,12 +149,6 @@ Several points in 5.6 carry AO3, so practise weighing, not only calculating. For
 - CTB or CTM: Is the demand forecast reliable enough to commit to the fixed cost of making? What happens to the answer if volume falls below the crossover? Does the business have spare capacity, skills and space? Would making protect quality or confidential designs?
 
 A short model structure for a 6-mark or 8-mark answer: one definition, two developed points for one side, two for the other, a link to the business named in the case, and a final sentence beginning "overall" that makes a choice and gives its condition.
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/aqa-gcse-business-business-operations--02-jit-vs-jic.webp" width="900" height="920" alt="Two stock graphs over 12 days with usage of 10 units a day. JIT holds 0-20 units and needs 6 deliveries; JIC holds a 40-unit buffer, stock 40-100, and needs 2 deliveries. JIC has higher storage cost but covers demand spikes." loading="lazy">
-  <figcaption>JIT cuts storage cost but needs frequent reliable deliveries; JIC holds buffer stock at a storage cost.</figcaption>
-</figure>
-
 
 ## Linking the measures
 
@@ -197,8 +191,18 @@ The measures work together. A rise in capacity utilization usually raises labour
 </figure>
 
 <figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-production-planning-hl-only--14-operating-leverage.webp" width="900" height="940" alt="Bars show contribution at $8 a pump against fixed costs of $144,000. At 24,000 pumps profit is $48,000 and leverage 4.0. A 10% rise in volume lifts profit 40% to $67,200; a 10% fall cuts it 40% to $28,800." loading="lazy">
+  <figcaption>High operating leverage magnifies changes in sales into larger changes in profit.</figcaption>
+</figure>
+
+<figure class="topic-figure">
   <img src="https://img.marlbridge.com/ib-dp-business-management-production-planning-hl-only--15-make-or-buy.webp" width="900" height="880" alt="Buying costs $3.20 a handle; making costs a $4,400 lease plus $1.90 a handle. The lines cross at 3,385 handles. Below it buying is cheaper; at 5,000 handles making saves $2,100 a year." loading="lazy">
   <figcaption>The quantity at which make-or-buy flips matters as much as the cost at one quantity.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-business-business-operations--02-jit-vs-jic.webp" width="900" height="920" alt="Two stock graphs over 12 days with usage of 10 units a day. JIT holds 0-20 units and needs 6 deliveries; JIC holds a 40-unit buffer, stock 40-100, and needs 2 deliveries. JIC has higher storage cost but covers demand spikes." loading="lazy">
+  <figcaption>JIT cuts storage cost but needs frequent reliable deliveries; JIC holds buffer stock at a storage cost.</figcaption>
 </figure>
 
 

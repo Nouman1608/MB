@@ -46,6 +46,12 @@ Superposing two progressive waves gives a stationary wave when they share a freq
 
 **Air columns.** A loudspeaker (or a vibrating tuning fork) sends sound into a tube. The wave reflects from the far end and superposes with the incoming wave. At resonance the sound is noticeably loud.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-physics-waves--08-aphy-waves-gap-diffraction.webp" width="900" height="1210" alt="Plane waves meet a gap of 6, 2 and 1 wavelengths. With a wide gap the waves go through nearly straight; as the gap approaches one wavelength they spread into near-semicircular fronts. Wavelength, frequency and speed are unchanged." loading="lazy">
+  <figcaption>Diffraction is greatest when the gap is about one wavelength.</figcaption>
+</figure>
+
+
 ## Graphs of a stationary wave (4.4.4(b))
 
 A graph of displacement against position, for one instant, looks like a sine curve. Draw it again a quarter of a period later and every particle is at zero displacement, so the line is flat. After half a period you get the mirror image of the first graph. Between these times the curve rises and falls inside a fixed outline, the envelope. The envelope is the pair of curves showing the maximum displacement at each position.
@@ -96,6 +102,11 @@ Similarities to quote: both can be produced by the same source, and both have a 
   <figcaption>Superposing two opposite waves gives fixed nodes and antinodes half a wavelength apart.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-physics-waves--06-aphy-waves-two-source-interference.webp" width="900" height="1065" alt="Two in-phase coherent sources emit circular waves. Gold solid lines mark path difference n lambda (loud or bright); navy dashed lines mark (n + 1/2) lambda (quiet or dark). P lies at 2 lambda and is loud; Q lies at 1.5 lambda and is quiet. A loudspeaker example at 850 Hz confirms both." loading="lazy">
+  <figcaption>Path difference n lambda gives reinforcement; (n + 1/2) lambda gives cancellation.</figcaption>
+</figure>
+
 
 ## Nodes and antinodes (4.4.4(d)) and the lambda/2 rule (4.4.4(f))
 
@@ -112,6 +123,12 @@ A probe moved between a transmitter and a metal plate finds six successive minim
 3. f = v / lambda = 3.00 x 10^8 / 3.16 x 10^-2 = **9.5 x 10^9 Hz**.
 
 Counting minima instead of gaps is a very common slip. Measuring across many gaps also reduces the percentage uncertainty in lambda.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-physics-waves--09-aphy-waves-grating.webp" width="900" height="1060" alt="Two neighbouring slits show the path difference d sin theta between adjacent rays; a maximum occurs when it equals n lambda. For 300 lines per mm and 589 nm, d = 3.33 micrometres and maxima appear at 10.2, 20.7, 32.0, 45.0 and 62.1 degrees for orders 1 to 5 each side, so 11 maxima; the highest order is 5." loading="lazy">
+  <figcaption>Maxima occur where d sin theta = n lambda; the highest order is d/lambda rounded down.</figcaption>
+</figure>
+
 
 ## Patterns and harmonics (4.4.4(e)(i) and (g))
 

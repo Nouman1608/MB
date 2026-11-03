@@ -67,11 +67,6 @@ These notes condense section 3.5, Decision making to improve financial performan
   <figcaption>Return on investment is profit gained over the amount invested; debt share is long-term debt over total long-term funding.</figcaption>
 </figure>
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/aqa-a-level-business-financial-management--06-margins-ludbrook.webp" width="900" height="980" alt="Paired bars compare this year and last year margins: gross 44.0 against 42.0 percent, operations 11.2 against 6.0, and profit for the year 7.5 against 3.0, with this year amounts of 550,000, 140,000 and 93,150 pounds." loading="lazy">
-  <figcaption>The operating margin nearly doubled, so costs grew more slowly than sales.</figcaption>
-</figure>
-
 
 ## Method boxes
 
@@ -108,6 +103,16 @@ These notes condense section 3.5, Decision making to improve financial performan
   <figcaption>A variance is favourable if it raises profit and adverse if it cuts it; ask why, not just the sign.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-business-financial-management--04-break-even-strathwick.webp" width="900" height="1030" alt="Revenue, total cost and fixed cost lines against output in units. Revenue and total cost cross at 3,500 units and 140,000 pounds. The shaded loss area is left of that point and profit area right of it. Planned output of 4,400 is 900 units beyond break-even." loading="lazy">
+  <figcaption>Break-even is where revenue equals total cost; the gap to planned output is the margin of safety.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-business-financial-management--05-break-even-changes.webp" width="900" height="940" alt="Four bars show break-even output: 3,500 now, 2,864 if price rises to 44 pounds, 4,200 if variable cost rises to 25 pounds and 3,900 if fixed costs rise to 70,200 pounds. A dashed line marks the original 3,500." loading="lazy">
+  <figcaption>Each change in price or cost moves break-even; a change in output alone does not.</figcaption>
+</figure>
+
 
 ## Small worked reminders
 
@@ -120,13 +125,8 @@ These notes condense section 3.5, Decision making to improve financial performan
 **Margins.** Revenue £200,000, cost of sales £120,000, operating expenses £52,000, finance costs £6,000, tax 20% of profit before tax. Gross profit £80,000 (40.0%). Profit from operations £28,000 (14.0%). Profit before tax £22,000, tax £4,400, profit for the year **£17,600** (8.8%).
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/aqa-a-level-business-financial-management--04-break-even-strathwick.webp" width="900" height="1030" alt="Revenue, total cost and fixed cost lines against output in units. Revenue and total cost cross at 3,500 units and 140,000 pounds. The shaded loss area is left of that point and profit area right of it. Planned output of 4,400 is 900 units beyond break-even." loading="lazy">
-  <figcaption>Break-even is where revenue equals total cost; the gap to planned output is the margin of safety.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/aqa-a-level-business-financial-management--05-break-even-changes.webp" width="900" height="940" alt="Four bars show break-even output: 3,500 now, 2,864 if price rises to 44 pounds, 4,200 if variable cost rises to 25 pounds and 3,900 if fixed costs rise to 70,200 pounds. A dashed line marks the original 3,500." loading="lazy">
-  <figcaption>Each change in price or cost moves break-even; a change in output alone does not.</figcaption>
+  <img src="https://img.marlbridge.com/aqa-a-level-business-financial-management--06-margins-ludbrook.webp" width="900" height="980" alt="Paired bars compare this year and last year margins: gross 44.0 against 42.0 percent, operations 11.2 against 6.0, and profit for the year 7.5 against 3.0, with this year amounts of 550,000, 140,000 and 93,150 pounds." loading="lazy">
+  <figcaption>The operating margin nearly doubled, so costs grew more slowly than sales.</figcaption>
 </figure>
 
 
@@ -215,6 +215,12 @@ These notes condense section 3.5, Decision making to improve financial performan
 9. 0.9 × 20,000 = **£18,000**.
 10. Internal: retained profits. External: any of overdraft, debt factoring, loans, share capital or venture capital.
 11. 1,000 + 9,000 − 11,500 = **−£1,500** (an overdrawn position).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-business-financial-management--01-cash-timing.webp" width="900" height="975" alt="A timeline shows customers paying after two months and suppliers after one month. Net cash is £0 in January, minus £18,000 in February and plus £18,000 in March, so the running balance is minus £18,000 at the end of February." loading="lazy">
+  <figcaption>Paying suppliers before customers pay leaves Wynnstay £18,000 out of pocket at the end of February.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

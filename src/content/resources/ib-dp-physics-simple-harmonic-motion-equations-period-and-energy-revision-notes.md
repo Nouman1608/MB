@@ -44,11 +44,6 @@ Also useful: the [course hub](/boards/ib/ib-dp/physics/), the [printable checkli
   <figcaption>The minus sign in a = -w^2 x means the acceleration always points back towards equilibrium.</figcaption>
 </figure>
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ib-dp-physics-simple-harmonic-motion-equations-period-and-energy--03-describing-oscillation.webp" width="900" height="950" alt="A sine graph of displacement against time with amplitude 0.040 m and period 0.80 s. Frequency is 1/0.80 = 1.25 Hz and angular frequency is 2 pi/0.80 = 7.85 rad/s, so T = 1/f = 2 pi/w." loading="lazy">
-  <figcaption>Amplitude, period, frequency and angular frequency are linked by T = 1/f = 2 pi/w.</figcaption>
-</figure>
-
 
 ## Formulas
 
@@ -110,8 +105,8 @@ Taking x = x₀ sin(ωt) with φ = 0, the three graphs are related like this:
 - A non-zero φ shifts every curve sideways along the time axis. It does not change the amplitude or the period.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ib-dp-physics-simple-harmonic-motion-equations-period-and-energy--07-phase-angle.webp" width="900" height="960" alt="Displacement and velocity graphs for x0 = 0.040 m, T = 0.80 s, starting at +0.020 m moving positively, so phi = pi/6 rad. At t = 0.30 s x = 0.0104 m and v = -0.303 m/s, moving back towards equilibrium." loading="lazy">
-  <figcaption>The phase angle phi fixes where in its cycle the oscillator is at t = 0.</figcaption>
+  <img src="https://img.marlbridge.com/ib-dp-physics-simple-harmonic-motion-equations-period-and-energy--03-describing-oscillation.webp" width="900" height="950" alt="A sine graph of displacement against time with amplitude 0.040 m and period 0.80 s. Frequency is 1/0.80 = 1.25 Hz and angular frequency is 2 pi/0.80 = 7.85 rad/s, so T = 1/f = 2 pi/w." loading="lazy">
+  <figcaption>Amplitude, period, frequency and angular frequency are linked by T = 1/f = 2 pi/w.</figcaption>
 </figure>
 
 
@@ -197,6 +192,12 @@ Taking x = x₀ sin(ωt) with φ = 0, the three graphs are related like this:
 10. E_T = ½ × 0.50 × 4.0² × 0.10² = 0.040 J.
 11. sin φ = 1, so φ = π/2 rad.
 12. T is proportional to √l, so the period is multiplied by three.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-simple-harmonic-motion-equations-period-and-energy--07-phase-angle.webp" width="900" height="960" alt="Displacement and velocity graphs for x0 = 0.040 m, T = 0.80 s, starting at +0.020 m moving positively, so phi = pi/6 rad. At t = 0.30 s x = 0.0104 m and v = -0.303 m/s, moving back towards equilibrium." loading="lazy">
+  <figcaption>The phase angle phi fixes where in its cycle the oscillator is at t = 0.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

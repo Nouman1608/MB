@@ -72,11 +72,6 @@ This applies to **every** carbon, so a long chain is a zig-zag, not a straight l
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-organic-chemistry-naming-mechanisms-and-aromatic-shape--02-bond-fission.webp" width="900" height="1170" alt="Cl-Cl splits with one electron to each atom giving two free radicals; H-Br splits with both electrons to Br giving H+ and Br-. Curly arrows start on the bond and end on the atom receiving the electrons." loading="lazy">
-  <figcaption>Homolytic fission gives radicals, heterolytic fission gives ions (AQA, Edexcel, OCR, OxfordAQA).</figcaption>
-</figure>
-
-<figure class="topic-figure">
   <img src="https://img.marlbridge.com/a-organic-chemistry-naming-mechanisms-and-aromatic-shape--08-benzene-shape.webp" width="900" height="1180" alt="Top view: flat hexagon with 120 degree angles and three sigma bonds per carbon. Side view: p orbitals above and below the ring overlap into one delocalised pi system of six electrons." loading="lazy">
   <figcaption>Benzene is a flat ring with a delocalised pi system, not three double bonds (Cambridge).</figcaption>
 </figure>
@@ -199,6 +194,11 @@ CH₃CH₂CH₂CH₂• + CH₃CH₂CH₂CH₂• → C₈H₁₈ (octane)
 Check each propagation step: the number of radicals is one on each side. Check each termination step: two radicals become none. Half curly arrows are not required for this mechanism; the specification shows radical mechanisms as a sequence of equations.
 
 Chlorine reacts in exactly the same way, starting with Cl₂ → 2Cl•.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-organic-chemistry-naming-mechanisms-and-aromatic-shape--02-bond-fission.webp" width="900" height="1170" alt="Cl-Cl splits with one electron to each atom giving two free radicals; H-Br splits with both electrons to Br giving H+ and Br-. Curly arrows start on the bond and end on the atom receiving the electrons." loading="lazy">
+  <figcaption>Homolytic fission gives radicals, heterolytic fission gives ions (AQA, Edexcel, OCR, OxfordAQA).</figcaption>
+</figure>
 
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/a-organic-chemistry-naming-mechanisms-and-aromatic-shape--03-radical-substitution.webp" width="900" height="1160" alt="Initiation by UV splits Cl2; two propagation steps form a repeating cycle (Cl radical to methyl radical and back) making HCl and CH3Cl; termination steps remove radicals." loading="lazy">

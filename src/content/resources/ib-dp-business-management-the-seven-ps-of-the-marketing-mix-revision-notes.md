@@ -195,6 +195,12 @@ Social media marketing, to evaluate:
 - Online: wide reach at low cost, but needs delivery and returns systems.
 - Match to product: image products need control; low-price products need wide availability.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-marketing--06-distribution-channels.webp" width="900" height="1060" alt="Three routes from producer to consumer: via wholesaler then retailer, via retailer only, or direct. Longer chains reach many shops but add cost; the direct route keeps the whole margin but means doing the selling yourself." loading="lazy">
+  <figcaption>Channels of distribution from producer to consumer.</figcaption>
+</figure>
+
+
 ## People, processes, physical evidence
 
 | P | Importance | Key point to add |
@@ -212,6 +218,12 @@ Social media marketing, to evaluate:
 ## Appropriate marketing mixes
 
 Check three things: fit with the target market, fit with the stage in the life cycle and objective, and consistency across the seven Ps. Example: a premium watch needs premium price, controlled distribution and quality physical evidence, while a budget product relies on competitive pricing and wide distribution.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-business-business-activity-marketing-and-people--05-mix-consistency.webp" width="900" height="930" alt="Two sets of price, packaging and retailer sliders. Consistent: all at premium. Inconsistent: premium price with budget packaging and retailer." loading="lazy">
+  <figcaption>The marketing mix must be consistent: a premium price with poor packaging and discount retailers fails.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 

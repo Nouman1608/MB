@@ -57,6 +57,11 @@ Money entering the country is a **credit**. Money leaving is a **debit**. The **
   <figcaption>Each component has credits in, debits out and a balance; the four balances sum to the CAB.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-economics-price-system-and-the-microeconomy--02-yed-and-xed-signs.webp" width="900" height="960" alt="Two number lines from minus 1 to plus 2. For income elasticity, negative values mean an inferior good and positive values a normal good; examples are YED minus 0.5 (income up 10 percent, demand down 5 percent) and plus 1.5. For cross elasticity, negative means complements and positive means substitutes; examples are XED minus 0.5 and plus 1.5 when the price of B rises 20 percent." loading="lazy">
+  <figcaption>The sign of YED shows inferior or normal; the sign of XED shows complements or substitutes.</figcaption>
+</figure>
+
 
 ## 6.3.2: the calculations
 

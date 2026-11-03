@@ -80,12 +80,6 @@ Capital employed = issued shares + reserves + non-current liabilities. Average i
 5. Give a reason taken from the scenario.
 6. Say what it means, then recommend something specific.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-accounting-calculating-and-interpreting-accounting-ratios--11-ratios-days-vs-terms.webp" width="900" height="915" alt="Receivable days rose from 47.15 to 63.48 against 45 allowed (18.48 over). Payable days rose from 41.93 to 56.41 against 60 allowed (3.59 inside). Inventory days fell from 50.69 to 46.64." loading="lazy">
-  <figcaption>Compare actual days with the credit terms in the scenario.</figcaption>
-</figure>
-
-
 ## 3. Quick worked reminders
 
 **Sundial Clocks (sole trader).** Revenue 84,000, of which 63,000 was on credit. Cost of sales 54,600. Expenses 19,320. Trade receivables 7,350. Credit purchases 42,000. Trade payables 4,200.
@@ -108,12 +102,6 @@ ROCE               (31,500 + 4,500)/230,000 x 100 = 15.65%
 Current ratio      98,000 : 49,000 = 2.00 : 1
 Acid test          (98,000 - 38,000) : 49,000 = 1.22 : 1
 ```
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-accounting-calculating-and-interpreting-accounting-ratios--10-ratios-collect-in-45-days.webp" width="900" height="930" alt="Trade receivables of 96,000 (63.48 days) would be about 68,055 at 45 days (552,000 x 45 / 365), releasing 27,945 of cash." loading="lazy">
-  <figcaption>Collecting in 45 days would free about 27,945.</figcaption>
-</figure>
-
 
 ## 4. Must-know distinctions
 
@@ -148,6 +136,11 @@ Acid test          (98,000 - 38,000) : 49,000 = 1.22 : 1
 **Comparison statement:** show each item for two years with the change, then comment on the largest changes.
 
 **Model comment.** If Sundial's receivables days rose from 35.00 to 42.58 against 30 days allowed, write: "Customers are paying later, so cash is tied up in receivables. Sundial should send statements promptly and offer a cash discount for early payment." The comment gives both figures, the direction, the meaning and one fitting action.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-accounting-calculating-and-interpreting-accounting-ratios--11-ratios-days-vs-terms.webp" width="900" height="915" alt="Receivable days rose from 47.15 to 63.48 against 45 allowed (18.48 over). Payable days rose from 41.93 to 56.41 against 60 allowed (3.59 inside). Inventory days fell from 50.69 to 46.64." loading="lazy">
+  <figcaption>Compare actual days with the credit terms in the scenario.</figcaption>
+</figure>
 
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/aqa-a-level-accounting-analysis-and-evaluation-of-financial-information--01-ratio-map.webp" width="900" height="951" alt="Five rows group ratios by the question they answer: profitability asks if the business earns enough, liquidity if it can pay its debts, efficiency if it uses resources well, capital structure how it is funded (AQA and OxfordAQA), and investor ratios whether shares are worth owning (A Level companies)." loading="lazy">
@@ -192,12 +185,6 @@ Profit for the year = gross profit + other income - expenses (and interest). It 
 
 Also: accruals, prepayments and irrecoverable debts move profit without matching cash.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-accounting-calculating-and-interpreting-accounting-ratios--09-ratios-cash-bridge.webp" width="900" height="926" alt="A waterfall runs from profit 70,600 through depreciation, asset purchases, working capital, dividends and the new loan to a change in bank of -5,000." loading="lazy">
-  <figcaption>Profit and cash differ because of non-cash costs, asset purchases, working capital, dividends and loans.</figcaption>
-</figure>
-
-
 ## 8. Quick self-test
 
 1. State the ROCE formula and what capital employed contains.
@@ -223,6 +210,21 @@ Also: accruals, prepayments and irrecoverable debts move profit without matching
 8. Both are understated by 1,500.
 9. It falls, because cost of sales rises while revenue does not.
 10. Any two: non-current assets bought; inventory increased; receivables increased; drawings or dividends paid; loan repaid.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-accounting-calculating-and-interpreting-accounting-ratios--09-ratios-cash-bridge.webp" width="900" height="926" alt="A waterfall runs from profit 70,600 through depreciation, asset purchases, working capital, dividends and the new loan to a change in bank of -5,000." loading="lazy">
+  <figcaption>Profit and cash differ because of non-cash costs, asset purchases, working capital, dividends and loans.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-accounting-calculating-and-interpreting-accounting-ratios--10-ratios-scorecard.webp" width="900" height="1040" alt="Ten Ferndale ratios for 2025 and 2026 with an arrow for rise or fall and a verdict: better, worse or watch (payables days)." loading="lazy">
+  <figcaption>See at a glance which ratios improved and which worsened.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-accounting-calculating-and-interpreting-accounting-ratios--10-ratios-collect-in-45-days.webp" width="900" height="930" alt="Trade receivables of 96,000 (63.48 days) would be about 68,055 at 45 days (552,000 x 45 / 365), releasing 27,945 of cash." loading="lazy">
+  <figcaption>Collecting in 45 days would free about 27,945.</figcaption>
+</figure>
 
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/aqa-a-level-accounting-analysis-and-evaluation-of-financial-information--03-roce.webp" width="900" height="800" alt="Capital of 237,000 dollars plus a 60,000 loan make capital employed of 297,000. Profit for the year of 57,600 plus 3,600 loan interest added back gives net profit before interest of 61,200, so ROCE is 20.61 percent. For a company, capital employed is shares plus reserves plus non-current liabilities." loading="lazy">

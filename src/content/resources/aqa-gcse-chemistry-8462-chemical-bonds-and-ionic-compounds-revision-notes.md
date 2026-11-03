@@ -84,6 +84,11 @@ attracts what.
   <figcaption>Classify a substance by its elements.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ionic-covalent-and-metallic-bonding--04-covalent-sharing.webp" width="900" height="1010" alt="Overlapping outer shells show each shared pair as one dot and one cross. HCl and the water and methane molecules use single bonds; carbon dioxide has two double bonds. Each atom ends with 8 outer electrons, hydrogen with 2." loading="lazy">
+  <figcaption>Shared pairs sit in the overlap of the shells, giving every atom a full outer shell.</figcaption>
+</figure>
+
 
 ## 4.2.1.3 Ionic compounds
 
@@ -132,11 +137,6 @@ A good limitation names a **specific** feature of that diagram and says what is 
   <figcaption>Each model shows some features and hides others.</figcaption>
 </figure>
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ionic-covalent-and-metallic-bonding--04-covalent-sharing.webp" width="900" height="1010" alt="Overlapping outer shells show each shared pair as one dot and one cross. HCl and the water and methane molecules use single bonds; carbon dioxide has two double bonds. Each atom ends with 8 outer electrons, hydrogen with 2." loading="lazy">
-  <figcaption>Shared pairs sit in the overlap of the shells, giving every atom a full outer shell.</figcaption>
-</figure>
-
 
 ### Method: empirical formula from a model
 
@@ -169,6 +169,11 @@ Trust the repeating pattern and the charges, not a raw count from a tiny model.
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/aqa-gcse-chemistry-8462-chemical-bonds-and-ionic-compounds--13-empirical-formula-2d.webp" width="900" height="880" alt="Three rows each with Li+ O2- Li+ twice. 12 Li+ and 6 O2- is 2:1, so each outline is Li2O and charges cancel." loading="lazy">
   <figcaption>Count ions, simplify the ratio and check charges.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-chemistry-8462-chemical-bonds-and-ionic-compounds--14-cube-count-trap.webp" width="900" height="970" alt="Three layers of a 3x3x3 sodium chloride block give 14 Na+ and 13 Cl-. Edges do not split evenly; a real crystal has equal numbers, so NaCl." loading="lazy">
+  <figcaption>Small models have edge effects; a real lattice is 1:1.</figcaption>
 </figure>
 
 <figure class="topic-figure">

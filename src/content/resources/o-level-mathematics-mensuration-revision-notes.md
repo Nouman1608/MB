@@ -107,6 +107,12 @@ Cuboid volume is lwh, which you build from the prism rule.
 1. Area of the large shape minus area of the small shape.
 2. Keep π in until the last line.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-mathematics-similar-figures-and-arcs-sectors--03-sector-perimeter.webp" width="900" height="880" alt="A sector of radius 12 cm and angle 105 degrees has arc length 7 pi = 21.99 cm and two straight radii of 12 cm each. The perimeter is 21.99 + 24 = 46.0 cm." loading="lazy">
+  <figcaption>The perimeter of a sector is the arc plus two radii.</figcaption>
+</figure>
+
+
 ## Worked reminders
 
 **Ring (annulus).** Outer radius 10 cm, inner radius 6 cm. Area = π(10² − 6²) = π × 64 = **64π cm²**.
@@ -164,22 +170,6 @@ The syllabus says to give non-exact answers to 3 significant figures unless a di
 - A frustum is a cone with a smaller, similar cone removed from the top. Find both cones, then subtract volumes. Add the base, the top circle and the difference of the two curved surfaces.
 - A prism can have any uniform cross-section, so find the cross-section area first.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/o-level-mathematics-mensuration--02-half-cylinder-net.webp" width="900" height="1000" alt="The net of a solid half-cylinder, radius 4 cm and length 10 cm, has a flat 8 by 10 rectangle, a curved rectangle of 40 pi and two semicircular ends of 8 pi each. Surface area is 56 pi + 80 and volume 80 pi." loading="lazy">
-  <figcaption>A solid half-cylinder has four faces: two semicircles, a curved face and a flat face.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/o-level-mathematics-mensuration--05-mens-frustum-surface-area.webp" width="900" height="830" alt="A frustum from a cone of height 18 and radius 9 with a cone of height 6 and radius 3 removed. Slant edges 9 root 5 and 3 root 5 give curved area 72 root 5 pi (about 506 cm squared); adding 90 pi for the two circles gives about 789 cm squared." loading="lazy">
-  <figcaption>Curved area is large cone minus small cone; add the top and base circles.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/o-level-mathematics-mensuration--06-mens-quarter-cylinder-net.webp" width="900" height="985" alt="A quarter of a cylinder of radius 4 cm and height 10 cm shown as its five faces to one scale: two cut faces of 40 cm squared, a curved face of 20 pi and two quarter-circle ends of 4 pi. Surface area is 80 + 28 pi, volume 40 pi." loading="lazy">
-  <figcaption>Take the fraction of the whole, then add the new flat faces made by the cut.</figcaption>
-</figure>
-
-
 ## Quick self-test
 
 Try these without notes. Questions 3 and 10 are best done without a calculator.
@@ -211,6 +201,67 @@ Try these without notes. Questions 3 and 10 are best done without a calculator.
 10. Volume = ⅓ × 36 × 4 = **48 cm³**. Slant height = √(4² + 3²) = 5 cm. Four faces = 4 × ½ × 6 × 5 = 60. Total = 36 + 60 = **96 cm²**.
 11. 2 × (40 + 24 + 15) = **158 cm²**.
 12. Sphere volume = (4/3) × π × 27 = 36π. Cone: ⅓ × π × 9 × h = 36π, so 3πh = 36π and h = **12 cm**.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-mathematics-mensuration--02-half-cylinder-net.webp" width="900" height="1000" alt="The net of a solid half-cylinder, radius 4 cm and length 10 cm, has a flat 8 by 10 rectangle, a curved rectangle of 40 pi and two semicircular ends of 8 pi each. Surface area is 56 pi + 80 and volume 80 pi." loading="lazy">
+  <figcaption>A solid half-cylinder has four faces: two semicircles, a curved face and a flat face.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-mathematics-mensuration--05-mens-frustum-surface-area.webp" width="900" height="830" alt="A frustum from a cone of height 18 and radius 9 with a cone of height 6 and radius 3 removed. Slant edges 9 root 5 and 3 root 5 give curved area 72 root 5 pi (about 506 cm squared); adding 90 pi for the two circles gives about 789 cm squared." loading="lazy">
+  <figcaption>Curved area is large cone minus small cone; add the top and base circles.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-mathematics-mensuration--06-mens-quarter-cylinder-net.webp" width="900" height="985" alt="A quarter of a cylinder of radius 4 cm and height 10 cm shown as its five faces to one scale: two cut faces of 40 cm squared, a curved face of 20 pi and two quarter-circle ends of 4 pi. Surface area is 80 + 28 pi, volume 40 pi." loading="lazy">
+  <figcaption>Take the fraction of the whole, then add the new flat faces made by the cut.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-mensuration--03-arc-and-sector.webp" width="900" height="1010" alt="A 90 degree sector of radius 6 cm is a quarter of the circle: arc 9.42 cm, area 28.3 cm2. A 110 degree sector of radius 8 cm is 110/360 of the circle: arc 15.36 cm, area 61.4 cm2. Core angles are factors of 360; Extended allows any angle." loading="lazy">
+  <figcaption>Arc length and sector area are the same fraction, angle over 360, of the circumference and the area.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-surface-area-and-volume--01-prism-volume.webp" width="900" height="740" alt="A triangular prism whose cross-section is a right-angled triangle with sides 6 cm, 8 cm and 10 cm. The triangle has area 24 square centimetres. The prism is 15 cm long, shown by an arrow along its length. Volume equals cross-section area times length, 24 times 15 equals 360 cubic centimetres." loading="lazy">
+  <figcaption>A triangular prism with a 6-8-10 cross-section of area 24 cm2 and length 15 cm has volume 24 x 15 = 360 cm3.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-surface-area-and-volume--02-prism-net.webp" width="900" height="940" alt="The net of the triangular prism. Three rectangles side by side, 6 by 15, 8 by 15 and 10 by 15, with areas 90, 120 and 150 square centimetres, add to 360. A triangle of area 24 is attached above and another below the middle rectangle. The two ends total 48. Surface area is 48 plus 360, which is 408 square centimetres." loading="lazy">
+  <figcaption>The net of the prism shows two triangular ends (48) and three rectangles (360), giving a surface area of 408 cm2.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-surface-area-and-volume--03-cylinder-unrolled.webp" width="900" height="990" alt="A cylinder of radius 5 cm and height 8 cm, then its net: a rectangle with two circles touching its top and bottom edges. The rectangle is the curved surface; its width equals the circumference 2 pi r = 10 pi and its height is 8, so its area is 80 pi. Each circle has area 25 pi. Total surface area is 130 pi square centimetres." loading="lazy">
+  <figcaption>The curved surface of a cylinder unrolls into a rectangle 2 pi r wide and h high, so the total surface area is 80 pi + 50 pi = 130 pi cm2.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-surface-area-and-volume--04-one-third.webp" width="900" height="890" alt="Top: a cone sits inside a cylinder with the same radius 6 cm and height 8 cm. A bar of three equal parts shows the cone is one part, 96 pi, of the cylinder, 288 pi. Bottom: a pyramid with a 16 by 16 base and height 15 sits inside a square prism. The pyramid volume 1280 is one third of the prism volume 3840." loading="lazy">
+  <figcaption>A cone is one third of the cylinder with the same base and height, and a pyramid one third of the matching prism.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-surface-area-and-volume--05-slant-vs-height.webp" width="900" height="1080" alt="Top, a square-based pyramid with base 16 and vertical height 15 from the apex to the centre of the base. A right-angled triangle inside it uses the vertical height 15, half the base 8, and the slant height 17 on a face. This slant-height step is Extended. Bottom, a cone with radius 6, vertical height 8 and slant height 10. Volume uses the vertical height; curved surface area uses the slant height." loading="lazy">
+  <figcaption>The vertical height goes in the volume formula and the slant height in the curved surface area. Pythagoras links them: 15, 8, 17 in the pyramid and 6, 8, 10 in the cone.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-mensuration--04-compound-shape.webp" width="900" height="830" alt="A 6 by 8 cm rectangle has a semicircle of diameter 6 cm on top. Area is 48 + 14.14 = 62.14 cm2. The perimeter is 8 + 8 + 6 + 3 pi = 31.42 cm; the dashed join line is not an edge." loading="lazy">
+  <figcaption>Split a compound shape into simple shapes for the area, and count only the outside edge for the perimeter.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-mensuration--05-compound-solid.webp" width="900" height="800" alt="A cylinder of radius 3 cm and height 8 cm has a hemisphere of radius 3 cm on top. Cylinder 72 pi = 226.2 cm3; hemisphere is half a sphere, 18 pi = 56.5 cm3. Total 90 pi = 282.7 cm3." loading="lazy">
+  <figcaption>Add the volumes of the simple solids; a hemisphere is half the sphere formula.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-mensuration--06-frustum.webp" width="900" height="810" alt="A cone with radius 6 cm and height 12 cm has a similar small cone (radius 2, height 4) cut off its top. The frustum volume is 144 pi minus 16 pi over 3 = 435.6 cm3." loading="lazy">
+  <figcaption>A frustum is a big cone with a similar small cone removed.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

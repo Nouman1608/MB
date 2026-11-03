@@ -218,6 +218,11 @@ A **trade-off** exists between present and future. Choosing d (more K) over c gi
   <figcaption>More capital now means less consumption now but a higher boundary later.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-basic-economic-problem--06-ppc-movement-opportunity-cost.webp" width="900" height="1050" alt="Three points on a PPC. Moving from 1 to 2 gains 20 Food and gives up 20 Machines; moving from 2 to 3 gains another 20 Food but gives up 60 Machines. Each extra unit of Food costs more Machines, which is why the curve bows outwards." loading="lazy">
+  <figcaption>Moving along a PPC reallocates resources, and the opportunity cost rises.</figcaption>
+</figure>
+
 
 ### Unemployed resources
 
@@ -242,11 +247,22 @@ Suppose the boundary becomes K² + C² = 12,100. Then point c at (60, 80) become
   <figcaption>Potential growth shifts the boundary out, evenly or in only one good.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-basic-economic-problem--07-ppc-shift-vs-movement.webp" width="900" height="1190" alt="Top: a point inside the curve moves to the curve by using idle resources more fully; this is temporary, reversible and not economic growth on this syllabus. Bottom: the whole curve shifts outward because of more or better resources or better technology, a permanent increase in capacity, which is economic growth." loading="lazy">
+  <figcaption>Only an outward shift of the whole curve counts as economic growth.</figcaption>
+</figure>
+
 
 ### Efficiency on the boundary
 
 - **Productive efficiency**: resources are used fully and at lowest cost, so more of one good is possible only by producing less of the other. Every boundary point is productively efficient. Points inside are not.
 - **Allocative efficiency**: output matches what society values most, where the benefit from the last unit equals its cost. Only one boundary point usually has this property. The diagram alone cannot show which, because that depends on preferences (value judgements). Points c and d are both productively efficient, but society may prefer one.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-basic-economic-problem--05-ppc-points.webp" width="900" height="1080" alt="An illustrative PPC with Food and Machines axes. A on the curve means all resources fully used, B inside means idle or wasted resources, C beyond the curve cannot be reached with current resources." loading="lazy">
+  <figcaption>Points inside, on and beyond the PPC show how well resources are used.</figcaption>
+</figure>
+
 
 ## Common errors
 

@@ -169,17 +169,6 @@ Use these to turn a list into a judgement:
 - **Policy.** Education, jobs growth, family policy and migration rules can change the outcome.
 - **Evidence.** What do the figures in the question actually show? Use two or three of them.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/cambridge-o-level-economics-population--08-population-pyramids.webp" width="900" height="1200" alt="Three pyramids in percent of population: Country N is youthful (35 percent under 15, 59 dependants per 100 workers), Country M is ageing (16 percent aged 65+, 41 per 100) and Country P has 58 percent males bunched at 15 to 44 (32 per 100)." loading="lazy">
-  <figcaption>Check the width of the base, the middle and the top, then compare the two sides.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/cambridge-o-level-economics-population--09-age-structure-dependants.webp" width="900" height="810" alt="Shares of population aged 0-14, 15-64 and 65+: Country N 35, 63 and 2 percent, Country M 13, 71 and 16 percent, Country P 12, 76 and 12 percent. Dependants per 100 workers are 59 for N, 41 for M and 32 for P. Country M has 4.4 workers for each person aged 65 or over, Country N has 31.5." loading="lazy">
-  <figcaption>Country N has many children, Country M many pensioners; both carry more dependants per 100 workers than Country P.</figcaption>
-</figure>
-
-
 ## Quick self-test
 
 1. Define net migration.
@@ -207,6 +196,17 @@ Use these to turn a list into a judgement:
 9. 8 million: output per head falls to 18 and each extra person adds less than the average.
 10. Higher pensions and higher healthcare spending.
 11. Many children become workers together; if jobs grow more slowly than the labour force, unemployment rises.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-economics-population--08-population-pyramids.webp" width="900" height="1200" alt="Three pyramids in percent of population: Country N is youthful (35 percent under 15, 59 dependants per 100 workers), Country M is ageing (16 percent aged 65+, 41 per 100) and Country P has 58 percent males bunched at 15 to 44 (32 per 100)." loading="lazy">
+  <figcaption>Check the width of the base, the middle and the top, then compare the two sides.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-economics-population--09-age-structure-dependants.webp" width="900" height="810" alt="Shares of population aged 0-14, 15-64 and 65+: Country N 35, 63 and 2 percent, Country M 13, 71 and 16 percent, Country P 12, 76 and 12 percent. Dependants per 100 workers are 59 for N, 41 for M and 32 for P. Country M has 4.4 workers for each person aged 65 or over, Country N has 31.5." loading="lazy">
+  <figcaption>Country N has many children, Country M many pensioners; both carry more dependants per 100 workers than Country P.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

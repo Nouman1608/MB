@@ -276,6 +276,16 @@ C60 is carbon only, but it is **not** a giant structure: each molecule is a holl
   <figcaption>C60 is made only of carbon but is simple molecular, not a giant structure.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ionic-covalent-and-metallic-bonding--06-giant-covalent.webp" width="900" height="980" alt="Diamond is a rigid 3D network where every carbon bonds to four others, so it is very hard with a very high melting point and is used in cutting tools. Silicon dioxide has each silicon bonded to four oxygens and each oxygen to two silicons, with properties like diamond." loading="lazy">
+  <figcaption>Diamond and SiO2 are giant networks of covalent bonds, hard and with very high melting points.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ionic-covalent-and-metallic-bonding--07-graphite.webp" width="900" height="813" alt="Three flat layers of carbon atoms in hexagons, each atom bonded to three others. Weak forces (dashed) lie between the layers so they slide, making graphite soft and slippery, a lubricant. Delocalised electrons between layers let it conduct electricity." loading="lazy">
+  <figcaption>Graphite has layers held by weak forces and delocalised electrons that conduct.</figcaption>
+</figure>
+
 
 ### Conductivity of covalent compounds (1.51)
 
@@ -296,6 +306,12 @@ Draw rows of circles, closely packed and regularly arranged, each marked with a 
 ### Metallic bonding (1.53C)
 
 A metal is a giant lattice of **positive metal ions** surrounded by **delocalised electrons**. The outer electrons have left the atoms and are free to move through the whole structure. **Metallic bonding is the electrostatic attraction between the positive metal ions and the delocalised electrons.**
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ionic-covalent-and-metallic-bonding--08-metallic-bonding.webp" width="900" height="1212" alt="A lattice of positive metal ions in a sea of free electrons. The attraction holds the structure together. Free electrons drifting carry current, and when layers of ions slide the electron sea still holds them together, so metals are malleable." loading="lazy">
+  <figcaption>Positive ions in a sea of delocalised electrons explain conduction and malleability.</figcaption>
+</figure>
+
 
 ### Properties of metals (1.54C)
 

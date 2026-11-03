@@ -69,6 +69,11 @@ Geometry: a + b is the diagonal of the parallelogram on a and b, and also the tr
 </figure>
 
 <figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-vectors--03-adding-vectors.webp" width="900" height="1161" alt="a = (2, 5) and b = (4, -3). Placing b at the end of a gives a + b = (6, 2) (triangle law); b and a from a common point give the same diagonal (parallelogram law). a - b = (-2, 8) runs from the tip of b to the tip of a." loading="lazy">
+  <figcaption>Add head to tail or complete the parallelogram; a - b joins the tip of b to the tip of a.</figcaption>
+</figure>
+
+<figure class="topic-figure">
   <img src="https://img.marlbridge.com/aqa-a-level-mathematics-vectors--08-scalar-product-angle.webp" width="900" height="917" alt="Vector u = (2, 1) with (1, 2), (-1, 2) and (-2, 1): scalar products 4, 0 and -3 give 36.9 (acute), 90 and 126.9 degrees (obtuse). For lines, directions (2, 1, -2) and (1, -4, 8) give cos = -2/3: 131.8 degrees between the vectors, 48.2 degrees between the lines." loading="lazy">
   <figcaption>The sign of u.v tells you whether the angle is acute, right or obtuse; for two lines quote the acute angle.</figcaption>
 </figure>

@@ -125,6 +125,28 @@ p1 V1 = p2 V2        (constant temperature)
 
 **Doing work on a gas raises its temperature** — which is why a bicycle pump warms up when compressing air. The work done on the gas increases the internal energy.
 
+## Exam traps
+
+- Forgetting to subtract the container mass when finding a liquid's density.
+- Saying a change of state is a chemical change.
+- Explaining constant temperature during melting without mentioning bonds or potential energy.
+- Giving only one effect when temperature rises in a fixed volume.
+- Confusing pressure increasing with depth in a liquid with pressure decreasing with height in the atmosphere.
+- Using E = mcΔθ during a change of state.
+- Forgetting to convert g/cm³ to kg/m³ (× 1000), or cm³ to m³, when units are mixed.
+
+## Self-test
+
+1. How would you find the density of an irregular solid?
+2. Why is melting a physical rather than chemical change?
+3. Why does temperature stay constant while a substance boils?
+4. Explain why heating a gas in a sealed container raises its pressure — give both effects.
+5. Why does a bicycle pump get warm?
+6. Convert a density of 2.7 g/cm³ into kg/m³.
+7. Calculate the total energy to turn 0.50 kg of ice at 0 °C into water at 20 °C (L of fusion = 334,000 J/kg, c of water = 4200 J/kg°C).
+
+**Answers:** 1. Measure its mass on a balance, then find its volume by the water displaced in a displacement can, and divide mass by volume. 2. No new substance is formed and the change is reversible — the particles are unchanged, only their arrangement and energy differ. 3. The energy supplied is used to overcome the forces between particles, increasing potential energy rather than kinetic energy, and temperature depends on kinetic energy. 4. The particles move faster, so they hit the walls more frequently and each collision exerts a greater force. 5. Work is done on the air as it is compressed, which increases its internal energy and therefore its temperature. 6. 2.7 × 1000 = 2700 kg/m³. 7. Melting: E = mL = 0.50 × 334,000 = 167,000 J; heating: E = mcΔθ = 0.50 × 4200 × 20 = 42,000 J; total = 209,000 J.
+
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/ocr-gcse-physics-matter--07-upthrust.webp" width="900" height="1270" alt="A 0.10 m cube 0.20 m under water: 2000 Pa on its top face gives 20 N down and 3000 Pa on its bottom face gives 30 N up, so there is a net 10 N upthrust equal to the weight of water displaced. A block of density 800 kg/m3 floats with weight equal to upthrust; a block of 2700 kg/m3 sinks because its weight 27 N exceeds the 10 N maximum upthrust." loading="lazy">
   <figcaption>Upthrust comes from the pressure difference between the bottom and top of a submerged object.</figcaption>
@@ -150,25 +172,8 @@ p1 V1 = p2 V2        (constant temperature)
   <figcaption>Pressure beneath a liquid increases in proportion to depth.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-gas-pressure-compression-and-the-atmosphere--03-air-column-pressure.webp" width="900" height="1060" alt="Three boxes of air particles at weather-balloon height, the top of the highest mountains and the ground have pressures of 25 kPa, about 33 kPa and 100 kPa. The weight of air above 1 m2 is 1.0 x 10^5 N, a mass of 1.0 x 10^4 kg." loading="lazy">
+  <figcaption>Less air above means lower pressure; every square metre of ground carries about ten tonnes of air.</figcaption>
+</figure>
 
-## Exam traps
-
-- Forgetting to subtract the container mass when finding a liquid's density.
-- Saying a change of state is a chemical change.
-- Explaining constant temperature during melting without mentioning bonds or potential energy.
-- Giving only one effect when temperature rises in a fixed volume.
-- Confusing pressure increasing with depth in a liquid with pressure decreasing with height in the atmosphere.
-- Using E = mcΔθ during a change of state.
-- Forgetting to convert g/cm³ to kg/m³ (× 1000), or cm³ to m³, when units are mixed.
-
-## Self-test
-
-1. How would you find the density of an irregular solid?
-2. Why is melting a physical rather than chemical change?
-3. Why does temperature stay constant while a substance boils?
-4. Explain why heating a gas in a sealed container raises its pressure — give both effects.
-5. Why does a bicycle pump get warm?
-6. Convert a density of 2.7 g/cm³ into kg/m³.
-7. Calculate the total energy to turn 0.50 kg of ice at 0 °C into water at 20 °C (L of fusion = 334,000 J/kg, c of water = 4200 J/kg°C).
-
-**Answers:** 1. Measure its mass on a balance, then find its volume by the water displaced in a displacement can, and divide mass by volume. 2. No new substance is formed and the change is reversible — the particles are unchanged, only their arrangement and energy differ. 3. The energy supplied is used to overcome the forces between particles, increasing potential energy rather than kinetic energy, and temperature depends on kinetic energy. 4. The particles move faster, so they hit the walls more frequently and each collision exerts a greater force. 5. Work is done on the air as it is compressed, which increases its internal energy and therefore its temperature. 6. 2.7 × 1000 = 2700 kg/m³. 7. Melting: E = mL = 0.50 × 334,000 = 167,000 J; heating: E = mcΔθ = 0.50 × 4200 × 20 = 42,000 J; total = 209,000 J.

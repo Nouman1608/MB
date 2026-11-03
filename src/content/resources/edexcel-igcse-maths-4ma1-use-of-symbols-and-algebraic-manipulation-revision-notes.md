@@ -127,6 +127,12 @@ Subtracting a negative adds. Work out the whole numerator before dividing, becau
 | positive | negative | both negative |
 | negative | either | one of each; the larger has the sign of b |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-introduction-to-algebra-and-manipulation--04-expand-two-brackets.webp" width="900" height="940" alt="An area diagram has widths 2x and +5 and heights 3x and -2. Its cells are 6x^2, 15x, -4x and -10, which sum to 6x^2 + 11x - 10." loading="lazy">
+  <figcaption>Multiply every term in one bracket by every term in the other, then collect like terms.</figcaption>
+</figure>
+
+
 ## Higher tier only (2.2A to 2.2E)
 
 ### Three or more brackets
@@ -169,6 +175,16 @@ Difference of two squares: p² − q² = (p − q)(p + q). It has no middle term
   <figcaption>Factorising is expanding in reverse: take out the highest common factor.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/algebraic-manipulation--02-factorise-trinomial-tiles.webp" width="900" height="670" alt="Tiles for x squared plus 5x plus 6 fit into a rectangle of width x plus 3 and height x plus 2. The six unit tiles fill the corner, which is why the numbers must multiply to 6 and add to 5. So the expression equals (x + 2)(x + 3)." loading="lazy">
+  <figcaption>The tiles for x² + 5x + 6 build a rectangle with sides x + 2 and x + 3.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/algebraic-manipulation--03-difference-of-squares.webp" width="900" height="886" alt="A square of side a with a b-by-b square removed leaves a shape of area a squared minus b squared. Cut and rearranged it forms a rectangle a plus b by a minus b. With a = 5 and b = 3, 25 minus 9 equals 2 times 8." loading="lazy">
+  <figcaption>a² − b² is the area of a rectangle with sides (a − b) and (a + b).</figcaption>
+</figure>
+
 
 ### Algebraic fractions
 
@@ -186,6 +202,21 @@ Numeric denominators work the same way: use the lowest common multiple (for 4 an
   <figcaption>Dividing by a fraction: flip, factorise, cancel.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-algebraic-fractions-and-indices-ii--05-cancel-algebraic-fraction.webp" width="900" height="1130" alt="(2x^2+5x-3)/(4x^2-1) factorises to (2x-1)(x+3) over (2x-1)(2x+1); cancelling (2x-1) leaves (x+3)/(2x+1), checked at x=5 as 8/11. Terms that are added, such as x^2 in (x^2+3)/(x^2-1), cannot be cancelled." loading="lazy">
+  <figcaption>Factorise, then cancel whole brackets only.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/algebraic-manipulation--05-cancel-factors-graph.webp" width="900" height="1060" alt="The fraction factorises to x(x minus 2) over (x minus 2)(x minus 3), which cancels to x over (x minus 3), x not 2 or 3. The graph of x over (x minus 3) has dashed lines at x = 3 and y = 1; the original fraction has the same graph with an open circle gap at (2, minus 2)." loading="lazy">
+  <figcaption>Cancelling a common factor gives the same graph, except the original has a gap where the factor was zero.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-algebraic-fractions-and-indices-ii--06-common-denominator.webp" width="900" height="1020" alt="Bars of twelve cells show 1/4 = 3/12 and 1/6 = 2/12. Then 3(2x+1)-2(x-3) = 6x+3-2x+6 = 4x+9, so the answer is (4x+9)/12." loading="lazy">
+  <figcaption>Rewrite over the common denominator, then combine numerators carefully.</figcaption>
+</figure>
+
 
 ### Completing the square
 
@@ -198,6 +229,11 @@ Small reminder: x² + 6x − 2 = (x + 3)² − 9 − 2 = (x + 3)² − 11.
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/edexcel-igcse-maths-4ma1-use-of-symbols-and-algebraic-manipulation--04-complete-square-a5.webp" width="900" height="960" alt="Working for 5x squared + 20x + 7 = 5(x+2) squared - 13, beside the graph of the curve. The lowest point is (-2, -13) on the line of symmetry x = -2, and the curve crosses the y axis at 7." loading="lazy">
   <figcaption>The a = 5 completed square read from the graph vertex.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-introduction-to-algebra-and-manipulation--06-complete-the-square.webp" width="900" height="870" alt="A square of side x + 4 is built from x^2, two strips 4x and a 4 by 4 corner of 16. So x^2 + 8x = (x + 4)^2 - 16, and x^2 + 8x - 5 = (x + 4)^2 - 21." loading="lazy">
+  <figcaption>Half of 8 gives p = 4; the 16 added to complete the square must be taken away.</figcaption>
 </figure>
 
 

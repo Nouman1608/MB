@@ -63,11 +63,6 @@ Every diagram needs the following. Mark each as you draw.
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ib-dp-economics-types-of-trade-protection--08-quota-diagram.webp" width="900" height="1040" alt="The shirt market with a quota of 35 shown as a gap between supply and demand at price 25, rent 175, and two cards: rent stays home (net minus 87.5) or leaves abroad (net minus 262.5)." loading="lazy">
-  <figcaption>A quota matches a tariff of 5 except for who holds the rent.</figcaption>
-</figure>
-
-<figure class="topic-figure">
   <img src="https://img.marlbridge.com/ib-dp-economics-demand-supply-equilibrium--04-ib-consumer-producer-surplus.webp" width="900" height="962" alt="Demand and supply meet at price 7 and quantity 50. The triangle below demand and above price is consumer surplus (125); the triangle above supply and below price is producer surplus (125). Together they make social surplus of 250." loading="lazy">
   <figcaption>Consumer surplus plus producer surplus equals social surplus, shown as areas on the equilibrium diagram.</figcaption>
 </figure>
@@ -100,6 +95,27 @@ Every diagram needs the following. Mark each as you draw.
 2. New Qd and Qs at that price. Exports = Qs − Qd.
 3. Cost = s × exports. Consumer loss and producer gain are trapezoids over the price rise s.
 4. Net = producer gain − consumer loss − cost.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-economics-types-of-trade-protection--11-tp-producer-subsidy.webp" width="900" height="1090" alt="With a subsidy of 5, producers receive 25 and output rises to 70 while consumers still pay 20 and buy 120, so imports fall from 70 to 50. Producers gain 300, the government pays 350, and the net welfare change is -50." loading="lazy">
+  <figcaption>A producer subsidy raises output without raising the consumer price.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-economics-types-of-trade-protection--12-tp-export-subsidy.webp" width="900" height="1060" alt="Domestic price rises from 30 to 35, consumption falls 40 to 30, output rises 70 to 85 and exports rise 30 to 55. Consumers lose 175, producers gain 387.5, taxpayers pay 275; net -62.5." loading="lazy">
+  <figcaption>Export subsidies are paid by taxpayers and hurt home buyers.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-economics-types-of-trade-protection--09-import-subsidy.webp" width="900" height="1020" alt="Supply shifts down by 5 so output rises from 50 to 70 while consumers still pay 20. Government pays 350, producer gain is 300 and 50 is lost. Imports fall from 70 to 50." loading="lazy">
+  <figcaption>A producer subsidy leaves consumers untouched and taxpayers pay.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-economics-types-of-trade-protection--10-export-subsidy.webp" width="900" height="1040" alt="Tessaly grain market: world price 30, home price rises to 35 with a subsidy of 5, exports rise from 30 to 55. A bar tally shows producers +387.5, consumers minus 175, taxpayers minus 275, net minus 62.5." loading="lazy">
+  <figcaption>An export subsidy raises the home price and costs taxpayers.</figcaption>
+</figure>
+
 
 ## Worked reminder: Lorvan
 
@@ -138,17 +154,6 @@ At Pw: Qd = 100, Qs = 50, imports = **50**.
 
 Whether the net loss is the whole story is a question for [arguments for and against protection](/resources/ib-dp-economics-arguments-for-and-against-protection/), where jobs, security and infant industries are weighed.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ib-dp-economics-types-of-trade-protection--09-tp-tariff.webp" width="900" height="1100" alt="Shirt market with D, S, Pw = 20 and Pt = 25. Output rises 50 to 70, consumption falls 120 to 105, imports fall 70 to 35. Producers gain 300 (a), triangles b and c lose 50 and 37.5, government revenue is 175 (d). Net welfare change is -87.5." loading="lazy">
-  <figcaption>Tariff effects on price, output, imports, revenue and welfare.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ib-dp-economics-types-of-trade-protection--12-tp-export-subsidy.webp" width="900" height="1060" alt="Domestic price rises from 30 to 35, consumption falls 40 to 30, output rises 70 to 85 and exports rise 30 to 55. Consumers lose 175, producers gain 387.5, taxpayers pay 275; net -62.5." loading="lazy">
-  <figcaption>Export subsidies are paid by taxpayers and hurt home buyers.</figcaption>
-</figure>
-
-
 ## Must-know distinctions
 
 | Compare | Tariff | Quota |
@@ -168,22 +173,6 @@ Whether the net loss is the whole story is a question for [arguments for and aga
 | Revenue | Collected by government | Nobody collects it |
 | Cost to society | Triangles of lost surplus | Triangles plus resources spent on compliance |
 | Evaluation point | Clearly a trade tool | May also serve safety or consumer protection |
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ib-dp-economics-types-of-trade-protection--11-tp-producer-subsidy.webp" width="900" height="1090" alt="With a subsidy of 5, producers receive 25 and output rises to 70 while consumers still pay 20 and buy 120, so imports fall from 70 to 50. Producers gain 300, the government pays 350, and the net welfare change is -50." loading="lazy">
-  <figcaption>A producer subsidy raises output without raising the consumer price.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ib-dp-economics-types-of-trade-protection--09-import-subsidy.webp" width="900" height="1020" alt="Supply shifts down by 5 so output rises from 50 to 70 while consumers still pay 20. Government pays 350, producer gain is 300 and 50 is lost. Imports fall from 70 to 50." loading="lazy">
-  <figcaption>A producer subsidy leaves consumers untouched and taxpayers pay.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ib-dp-economics-types-of-trade-protection--10-export-subsidy.webp" width="900" height="1040" alt="Tessaly grain market: world price 30, home price rises to 35 with a subsidy of 5, exports rise from 30 to 55. A bar tally shows producers +387.5, consumers minus 175, taxpayers minus 275, net minus 62.5." loading="lazy">
-  <figcaption>An export subsidy raises the home price and costs taxpayers.</figcaption>
-</figure>
-
 
 ## Evaluating administrative barriers
 
@@ -237,6 +226,22 @@ Use the Lorvan market: Qd = 140 − 2P, Qs = 3P − 10, Pw = 20, quantities in t
 10. The cost is spent on compliance, testing or delay, and not paid to government.
 11. Solve 140 − 2P − (3P − 10) = 30, giving P = **24**. Rent = (24 − 20) × 30 = **120**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-economics-types-of-trade-protection--09-tp-tariff.webp" width="900" height="1100" alt="Shirt market with D, S, Pw = 20 and Pt = 25. Output rises 50 to 70, consumption falls 120 to 105, imports fall 70 to 35. Producers gain 300 (a), triangles b and c lose 50 and 37.5, government revenue is 175 (d). Net welfare change is -87.5." loading="lazy">
+  <figcaption>Tariff effects on price, output, imports, revenue and welfare.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-economics-types-of-trade-protection--10-tp-quota.webp" width="900" height="1130" alt="Same shirt market. A quota of 35 raises the domestic price to 25. The quota rent of 175 goes to licence holders: net welfare -87.5 if they are domestic, -262.5 if foreign." loading="lazy">
+  <figcaption>A quota matches a tariff except that the rent goes to licence holders.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-economics-types-of-trade-protection--08-quota-diagram.webp" width="900" height="1040" alt="The shirt market with a quota of 35 shown as a gap between supply and demand at price 25, rent 175, and two cards: rent stays home (net minus 87.5) or leaves abroad (net minus 262.5)." loading="lazy">
+  <figcaption>A quota matches a tariff of 5 except for who holds the rent.</figcaption>
+</figure>
+
+
 ## Where marks are usually lost
 
 - Calculating revenue with the free-trade import figure instead of the smaller figure after the tariff.
@@ -248,11 +253,6 @@ Use the Lorvan market: Qd = 140 − 2P, Qs = 3P − 10, Pw = 20, quantities in t
 - Using the trapezoid formula with the wrong two quantities. Take the old and new values on the same curve.
 - Treating a standard as protectionist without considering any safety purpose it may serve.
 - Writing "calculate" answers without showing the working.
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ib-dp-economics-types-of-trade-protection--10-tp-quota.webp" width="900" height="1130" alt="Same shirt market. A quota of 35 raises the domestic price to 25. The quota rent of 175 goes to licence holders: net welfare -87.5 if they are domestic, -262.5 if foreign." loading="lazy">
-  <figcaption>A quota matches a tariff except that the rent goes to licence holders.</figcaption>
-</figure>
 
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/ib-dp-economics-types-of-trade-protection--07-tariff-welfare-hl.webp" width="900" height="890" alt="Consumers lose 562.5, which equals producers’ gain 300 plus government revenue 175 plus 87.5 lost to everyone. Net welfare change is minus 87.5." loading="lazy">

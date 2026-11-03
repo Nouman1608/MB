@@ -136,6 +136,12 @@ You can also plot the moving averages against their middle months, draw a line o
 
 **Judgement:** extrapolation is most valuable for short-term forecasts in stable conditions and least valuable when the business or its market is changing quickly.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-business-marketing--03-segment-target-position.webp" width="900" height="1280" alt="Three stacked panels: twenty people split into four segments, one segment chosen as the target, then a price-quality map where the business places its product in a gap away from rivals." loading="lazy">
+  <figcaption>Segment the market, target one segment, then position the product for it.</figcaption>
+</figure>
+
+
 ## 4. Qualitative sales forecasting
 
 Qualitative forecasting relies on informed judgement rather than past figures. Common forms include:
@@ -159,6 +165,11 @@ Hollinbrae Paints is launching a range of low-odour paints for children's bedroo
 - **Advantage in this case:** the sales managers know which retailers are asking for low-odour products, information that no past data holds.
 - **Disadvantage in this case:** the managers are paid a bonus for beating targets, so they may give low estimates. The designers may be enthusiastic about a product that ordinary buyers see as a luxury.
 - **Judgement:** for a new range, qualitative forecasting is the only realistic option. Hollinbrae should treat the result as a range, not a single figure, and replace it with actual sales data as soon as the first months are in.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-business-marketing--05-share-and-retention.webp" width="900" height="970" alt="Two panels. Market share: 2 of 10 blocks of a $12m market is 20 percent. Customer retention: 800 customers at the start, 750 kept and 50 lost, 150 gained to end on 900, giving 93.75 percent." loading="lazy">
+  <figcaption>Market share and retention rate are calculated from the figures in the lesson.</figcaption>
+</figure>
 
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/a-level-business-marketing--09-delphi-technique.webp" width="900" height="916" alt="Five anonymous expert forecasts over three rounds. The range narrows from 80 to 45 to 20 and the median moves from 70 to 68 to 66 as experts see a summary and revise." loading="lazy">
@@ -194,6 +205,11 @@ Forecast error = (509 − 531) ÷ 531 × 100 = −4.1% (1 d.p.)
 ```
 
 The negative sign shows that sales came in **below** the forecast.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-business-marketing--02-ansoff-matrix.webp" width="900" height="850" alt="A grid of existing or new products against existing or new markets for a UK clothing retailer. Market penetration is lowest risk; product development and market development carry more; diversification (new product, new market) is highest." loading="lazy">
+  <figcaption>Ansoff's Matrix links growth options to how much is new, and so to risk.</figcaption>
+</figure>
 
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/a-level-business-marketing--08-forecast-error.webp" width="900" height="760" alt="Two bars show the September forecast of 531 and the actual 509, 22 units lower. Forecast error is (509 - 531) / 531 x 100 = -4.1 percent: sales came in below forecast." loading="lazy">

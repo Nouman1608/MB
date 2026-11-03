@@ -30,6 +30,12 @@ This guide covers AQA A-level Biology (7402) sections 3.4.5, *Species and taxono
 
 The specification says you do not need to recall different taxonomic systems, such as the three domain or five kingdom systems. It also says knowledge of gene technologies will not be tested, and that you will not be required to calculate standard deviations in written papers. Interpreting them is required.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-classification-biodiversity-and-conservation--05-lincoln-index.webp" width="900" height="1010" alt="Catch 1 shows 48 marked beetles released. Catch 2 shows 60 beetles of which 12 are marked, one in five. So the 48 marked are one fifth of the population, giving N = 5 x 48 = 240, the same as 48 x 60 / 12." loading="lazy">
+  <figcaption>The marked fraction in the second catch tells you what fraction of the population the first catch was.</figcaption>
+</figure>
+
+
 ## 3.4.5 Species
 
 Two organisms belong to the same species if they are able to **produce fertile offspring**. Both words matter. A pairing that produces no offspring, or offspring that cannot themselves breed, does not show membership of one species. If the offspring are fertile, the parents' genes can pass into the next generation and mix in a shared gene pool.

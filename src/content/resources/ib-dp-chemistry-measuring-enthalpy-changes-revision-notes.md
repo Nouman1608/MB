@@ -68,12 +68,6 @@ The notes follow the IB Diploma Programme Chemistry guide (first assessment 2025
 
 **Key idea:** the thermometer reads the surroundings. Reading goes up → system lost energy → ΔH negative. Reading goes down → ΔH positive.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ib-dp-chemistry-measuring-enthalpy-changes--02-exo-endo-direction.webp" width="900" height="830" alt="Two beakers with a dashed system circle in water (surroundings). Exothermic: arrows out, thermometer 19.5 to 27.1 C, delta H negative. Endothermic: arrows in, thermometer 19.5 to 12.8 C, delta H positive." loading="lazy">
-  <figcaption>Exothermic reactions warm the surroundings (DeltaH &lt; 0); endothermic ones cool them (DeltaH &gt; 0).</figcaption>
-</figure>
-
-
 ## Reactivity 1.1.3 Stability and energy profiles
 
 - Lower potential energy means **more stable**.
@@ -187,6 +181,12 @@ For a reaction in solution, plot a temperature–time graph with readings before
 8. **Endothermic**; the **reactants** are more stable.
 9. Horizontal: **reaction coordinate**; vertical: **potential energy**.
 10. Any two: energy lost to the air; energy taken up by the can; incomplete combustion; evaporation of fuel from the wick.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-measuring-enthalpy-changes--02-exo-endo-direction.webp" width="900" height="830" alt="Two beakers with a dashed system circle in water (surroundings). Exothermic: arrows out, thermometer 19.5 to 27.1 C, delta H negative. Endothermic: arrows in, thermometer 19.5 to 12.8 C, delta H positive." loading="lazy">
+  <figcaption>Exothermic reactions warm the surroundings (DeltaH &lt; 0); endothermic ones cool them (DeltaH &gt; 0).</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

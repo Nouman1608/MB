@@ -84,11 +84,6 @@ atoms furthest apart. Hydrogen bonds are the strongest of the three, but far wea
   interactions.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-level-edexcel-chemistry-structure-bonding-organic-chemistry--05-shapes-lone-pairs.webp" width="900" height="1175" alt="Four molecules each have four electron pairs. CH4 and NH4+ have four bonding pairs, are tetrahedral and have 109.5 degree angles. NH3 has three bonding pairs and one lone pair, is pyramidal and has a 107 degree angle. H2O has two bonding pairs and two lone pairs, is bent and has a 104.5 degree angle." loading="lazy">
-  <figcaption>Each lone pair closes the bond angle by about 2.5 degrees because lone pairs repel more strongly than bonding pairs.</figcaption>
-</figure>
-
-<figure class="topic-figure">
   <img src="https://img.marlbridge.com/a-level-edexcel-chemistry-structure-bonding-organic-chemistry--07-bond-polarity.webp" width="900" height="1100" alt="Bond dipole arrows point to the more electronegative atom. In linear CO2 and tetrahedral CCl4 the dipoles cancel, so the molecules are non-polar. In bent H2O and tetrahedral SiH3Cl they do not cancel, so the molecules are polar." loading="lazy">
   <figcaption>A molecule with polar bonds is polar overall only if the bond dipoles do not cancel.</figcaption>
 </figure>
@@ -121,6 +116,12 @@ most H atoms unused. Water is balanced, so in ice every molecule takes part in f
 This explains the order of boiling temperatures: H₂O (373 K) > HF (293 K) > NH₃ (240 K). An individual F-H···F
 bond is stronger than an O-H···O bond because F is more electronegative, but water forms **twice as many**
 hydrogen bonds per molecule, so overall more energy is needed to separate water molecules.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-edexcel-chemistry-structure-bonding-organic-chemistry--05-shapes-lone-pairs.webp" width="900" height="1175" alt="Four molecules each have four electron pairs. CH4 and NH4+ have four bonding pairs, are tetrahedral and have 109.5 degree angles. NH3 has three bonding pairs and one lone pair, is pyramidal and has a 107 degree angle. H2O has two bonding pairs and two lone pairs, is bent and has a 104.5 degree angle." loading="lazy">
+  <figcaption>Each lone pair closes the bond angle by about 2.5 degrees because lone pairs repel more strongly than bonding pairs.</figcaption>
+</figure>
+
 
 ## 7.3 The anomalous properties of water
 
@@ -171,6 +172,12 @@ methoxymethane (CH₃OCH₃), fluoromethane (CH₃F), hydrogen peroxide (HO-OH)?
   bond from a water molecule, which matters for solubility.)
 - Fluoromethane: the H atoms are on C, not on F. **No.** It has permanent dipole-permanent dipole and London forces.
 - Hydrogen peroxide: O-H bonds and lone pairs on O. **Yes.**
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-edexcel-chemistry-structure-bonding-organic-chemistry--06-shapes-other.webp" width="900" height="1175" alt="Six molecules with no lone pairs on the centre except XeF4. BeCl2 and CO2 are linear at 180 degrees, with each double bond counting as one region. BCl3 is trigonal planar at 120 degrees. SF6 is octahedral at 90 degrees. PCl5 (Edexcel) is trigonal bipyramidal with 90 and 120 degree angles. XeF4 (OCR) is square planar with two lone pairs above and below the plane." loading="lazy">
+  <figcaption>The number of bonding regions fixes the shape: linear 180, trigonal planar 120, octahedral 90, plus the board-specific PCl5 and XeF4.</figcaption>
+</figure>
+
 
 ## 7.5 Explaining physical properties
 

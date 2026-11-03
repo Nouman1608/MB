@@ -117,6 +117,11 @@ The values are equal at x = 2 (both 3), so the lines cross at (2, 3) and the sol
 </figure>
 
 <figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-mathematics-linear-equations-and-forming-equations-from-problems--04-consecutive-odd-numbers.webp" width="900" height="780" alt="A number line with 35, 37 and 39 marked as x, x + 2 and x + 4, with steps of 2, and a bar showing 35 + 37 + 39 = 111, so 3x + 6 = 111 and x = 35." loading="lazy">
+  <figcaption>Consecutive odd numbers differ by 2, so they are x, x + 2 and x + 4.</figcaption>
+</figure>
+
+<figure class="topic-figure">
   <img src="https://img.marlbridge.com/indices-and-equations--03-linear-intersection.webp" width="900" height="970" alt="Graphs of y = 5 - 2x and y = 3(x + 7) cross at x = -3.2, y = 11.4, the solution of the equation." loading="lazy">
   <figcaption>The solution of an equation is the x where both sides have the same value.</figcaption>
 </figure>
@@ -224,12 +229,6 @@ Both firms charge £15 for 6 km. For a shorter journey Firm A is cheaper because
 
 Reminder K. A rectangle has width x cm and length (x + 5) cm, and a perimeter of 4x + 10. A student sets the perimeter equal to 3x + 4 and finds x = −6. A width cannot be negative, so no such rectangle exists. When you reach an impossible value, say so in a sentence and check the equation for a slip before concluding.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/oxfordaqa-igcse-mathematics-linear-equations-and-forming-equations-from-problems--03-rectangle-perimeter-equation.webp" width="900" height="850" alt="A rectangle drawn to scale, length (3x - 2) cm and width (x + 4) cm, perimeter 60 cm. 2[(3x - 2) + (x + 4)] = 60 gives x = 7, so it is 19 cm by 11 cm." loading="lazy">
-  <figcaption>Perimeter is twice (length + width), which gives an equation in x.</figcaption>
-</figure>
-
-
 ## Must-know distinctions
 
 - Expression versus equation: an expression has no equals sign and cannot be "solved"; an equation can.
@@ -263,6 +262,12 @@ Reminder K. A rectangle has width x cm and length (x + 5) cm, and a perimeter of
 8. 4 + 1.5d = 16 gives 1.5d = 12, so **d = 8 km**.
 9. The graphs meet where y = 7, at **x = 3**.
 10. 3n + 3 = 66 gives n = 21, so **21, 22, 23**.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-mathematics-linear-equations-and-forming-equations-from-problems--03-rectangle-perimeter-equation.webp" width="900" height="850" alt="A rectangle drawn to scale, length (3x - 2) cm and width (x + 4) cm, perimeter 60 cm. 2[(3x - 2) + (x + 4)] = 60 gives x = 7, so it is 19 cm by 11 cm." loading="lazy">
+  <figcaption>Perimeter is twice (length + width), which gives an equation in x.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

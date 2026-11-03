@@ -88,27 +88,6 @@ Extended — Extended candidates should be ready to calculate the
 surface area and volume of a frustum (a cone or pyramid with its top
 cut off), not just simpler compound shapes
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-mathematics-mensuration--01-unit-conversion.webp" width="900" height="1060" alt="A square metre is drawn as a 10 by 10 grid of 10 cm squares, so 1 m2 is 100 times 100 = 10 000 cm2. A 1 m cube has 10 by 10 grids on its faces, and one small cube is 1 litre (1000 cm3). So 1 m3 = 1 000 000 cm3 = 1000 litres." loading="lazy">
-  <figcaption>Square or cube the conversion factor when converting areas and volumes.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-mathematics-mensuration--02-parallelogram-trapezium.webp" width="900" height="810" alt="A parallelogram 8 cm by 5 cm high has a triangle moved from one end to the other to make an 8 by 5 rectangle, so its area is 40 cm2. A trapezium with parallel sides 4 and 8 and height 5, joined to a turned copy, makes a parallelogram of base 12, so its area is half of 12 times 5 = 30 cm2." loading="lazy">
-  <figcaption>Move a triangle to turn a parallelogram into a rectangle, and join two trapeziums to make a parallelogram.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-mathematics-mensuration--04-compound-shape.webp" width="900" height="830" alt="A 6 by 8 cm rectangle has a semicircle of diameter 6 cm on top. Area is 48 + 14.14 = 62.14 cm2. The perimeter is 8 + 8 + 6 + 3 pi = 31.42 cm; the dashed join line is not an edge." loading="lazy">
-  <figcaption>Split a compound shape into simple shapes for the area, and count only the outside edge for the perimeter.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-mathematics-mensuration--05-compound-solid.webp" width="900" height="800" alt="A cylinder of radius 3 cm and height 8 cm has a hemisphere of radius 3 cm on top. Cylinder 72 pi = 226.2 cm3; hemisphere is half a sphere, 18 pi = 56.5 cm3. Total 90 pi = 282.7 cm3." loading="lazy">
-  <figcaption>Add the volumes of the simple solids; a hemisphere is half the sphere formula.</figcaption>
-</figure>
-
-
 ## How to approach it
 
 Because formulas for circles, arcs, sectors, and 3D surface area and
@@ -130,6 +109,17 @@ sketching a quick decomposition (a compound shape as a rectangle plus
 a triangle, for example, or a compound solid as a cylinder plus a
 cone) makes the arithmetic that follows far less error-prone than
 trying to compute the whole figure at once.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-mensuration--01-unit-conversion.webp" width="900" height="1060" alt="A square metre is drawn as a 10 by 10 grid of 10 cm squares, so 1 m2 is 100 times 100 = 10 000 cm2. A 1 m cube has 10 by 10 grids on its faces, and one small cube is 1 litre (1000 cm3). So 1 m3 = 1 000 000 cm3 = 1000 litres." loading="lazy">
+  <figcaption>Square or cube the conversion factor when converting areas and volumes.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-mensuration--02-parallelogram-trapezium.webp" width="900" height="810" alt="A parallelogram 8 cm by 5 cm high has a triangle moved from one end to the other to make an 8 by 5 rectangle, so its area is 40 cm2. A trapezium with parallel sides 4 and 8 and height 5, joined to a turned copy, makes a parallelogram of base 12, so its area is half of 12 times 5 = 30 cm2." loading="lazy">
+  <figcaption>Move a triangle to turn a parallelogram into a rectangle, and join two trapeziums to make a parallelogram.</figcaption>
+</figure>
+
 
 ## Worked example: sector area with a non-factor angle (Extended)
 
@@ -190,3 +180,14 @@ Cambridge International, *Cambridge IGCSE Mathematics (0580) syllabus
 for examination in 2025, 2026 and 2027*: [official syllabus
 PDF](https://www.cambridgeinternational.org/Images/662466-2025-2027-syllabus.pdf),
 Subject content, section 5 "Mensuration". Verified 2026-09-06.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-mensuration--04-compound-shape.webp" width="900" height="830" alt="A 6 by 8 cm rectangle has a semicircle of diameter 6 cm on top. Area is 48 + 14.14 = 62.14 cm2. The perimeter is 8 + 8 + 6 + 3 pi = 31.42 cm; the dashed join line is not an edge." loading="lazy">
+  <figcaption>Split a compound shape into simple shapes for the area, and count only the outside edge for the perimeter.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-mensuration--05-compound-solid.webp" width="900" height="800" alt="A cylinder of radius 3 cm and height 8 cm has a hemisphere of radius 3 cm on top. Cylinder 72 pi = 226.2 cm3; hemisphere is half a sphere, 18 pi = 56.5 cm3. Total 90 pi = 282.7 cm3." loading="lazy">
+  <figcaption>Add the volumes of the simple solids; a hemisphere is half the sphere formula.</figcaption>
+</figure>
+

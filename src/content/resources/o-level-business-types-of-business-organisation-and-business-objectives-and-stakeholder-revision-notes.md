@@ -57,11 +57,6 @@ Other links: [Cambridge O Level Business hub](/boards/cambridge/o-level/business
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/o-level-business-types-of-business-organisation-and-business-objectives-and-stakeholder--07-joint-venture-60-40.webp" width="900" height="810" alt="Harcastle Joinery and a timber supplier, two separate firms, share a 500,000 dollar project 60:40 (300,000 and 200,000). A 120,000 dollar profit splits 72,000 and 48,000." loading="lazy">
-  <figcaption>Costs and profit are shared in the agreed 60:40 ratio.</figcaption>
-</figure>
-
-<figure class="topic-figure">
   <img src="https://img.marlbridge.com/o-level-business-types-of-business-organisation-and-business-objectives-and-stakeholder--08-culver-franchise-year1.webp" width="900" height="780" alt="Sales of 410,000 dollars; 6 percent, 24,600 dollars, goes to the franchisor as royalty. The first-year licence cost is the 25,000 initial fee plus the 24,600 royalty, 49,600 dollars. The fee is paid once, the royalty every year." loading="lazy">
   <figcaption>Year-one franchise cost is the initial fee plus the 6% royalty: $49,600.</figcaption>
 </figure>
@@ -125,6 +120,11 @@ Reminder example on liability. A trader owes 160,000 and the sale of assets rais
 Reminder on franchise and joint venture money. A franchisee paying an 8% royalty on sales revenue of 250,000 pays 250,000 × 0.08 = 20,000. A joint venture project costing 90,000 shared 70 : 30 costs the partners 63,000 and 27,000.
 
 <figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-business-types-of-business-organisation-and-business-objectives-and-stakeholder--07-joint-venture-60-40.webp" width="900" height="810" alt="Harcastle Joinery and a timber supplier, two separate firms, share a 500,000 dollar project 60:40 (300,000 and 200,000). A 120,000 dollar profit splits 72,000 and 48,000." loading="lazy">
+  <figcaption>Costs and profit are shared in the agreed 60:40 ratio.</figcaption>
+</figure>
+
+<figure class="topic-figure">
   <img src="https://img.marlbridge.com/o-level-business-types-of-business-organisation-and-business-objectives-and-stakeholder--10-which-form-four-clues.webp" width="900" height="970" alt="Four clue tiles (capital, risk, control, growth speed) and two examples. A home tutoring service with 3,000 dollars of savings whose founder wants control suits a sole trader, with unlimited liability as the drawback. Ten centres financed by heavy borrowing suit a private limited company, protecting personal assets and bringing in investors." loading="lazy">
   <figcaption>Match the form of business to the clues in the question, then weigh a drawback.</figcaption>
 </figure>
@@ -183,6 +183,12 @@ Reminder: market share and growth can differ. A business whose sales revenue ris
 
 Method for a conflict question: name the two groups, state each objective, explain why both cannot be fully met, and where asked say which should come first and why.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-understanding-business-activity--08-stakeholder-conflicts.webp" width="900" height="1040" alt="Six stakeholder groups around a business (owners and employees internal; customers, suppliers, government, local community external). Two conflicts: owners cutting costs vs employees wanting higher wages; customers wanting low prices vs owners wanting higher margins." loading="lazy">
+  <figcaption>Stakeholders have differing objectives that often conflict.</figcaption>
+</figure>
+
+
 ## Private and public sector objectives
 
 | | Private sector | Public sector |
@@ -229,6 +235,12 @@ Method for a conflict question: name the two groups, state each objective, expla
 8. It puts social or environmental aims first and reinvests most profit, instead of paying it out to owners.
 9. Any one: provide a service to everyone, keep prices affordable, protect jobs.
 10. The dentists share equipment costs, skills and workload and can raise more capital than one person, which suits a joint practice. The drawback is unlimited liability and possible disagreement, but a written agreement can reduce this.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-business-types-of-business-organisation-and-business-objectives-and-stakeholder--07-dividend-flow.webp" width="900" height="810" alt="A 60,000 dollar profit is split 40% retained (24,000, for a new machine) and 60% dividends (36,000). 36,000 over 600,000 shares is 0.06 a share; a holder of 150,000 shares (25%) receives 9,000 dollars." loading="lazy">
+  <figcaption>Retained profit buys assets; dividends are shared per share.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

@@ -182,6 +182,11 @@ Overall:         8NaI + 9H₂SO₄ → 8NaHSO₄ + 4I₂ + H₂S + 4H₂O
 Check: S 9 = 8 + 1; O 36 = 32 + 4; H 18 = 8 + 2 + 8.
 
 <figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-group-2-the-alkaline-earth-metals--01-group2-trends.webp" width="900" height="970" alt="Four Group 2 atoms are drawn with 3 to 6 shells and two gold outer electrons. Bars show first ionisation energy falling from Mg 738 to Ba 503 kJ per mole. More shells and shielding outweigh the extra nuclear charge." loading="lazy">
+  <figcaption>Atomic radius increases and first ionisation energy decreases from Mg to Ba.</figcaption>
+</figure>
+
+<figure class="topic-figure">
   <img src="https://img.marlbridge.com/aqa-a-level-chemistry-group-2-the-alkaline-earth-metals--08-halides-sulfuric-acid.webp" width="900" height="1075" alt="Tubes of NaCl, NaBr and NaI with concentrated sulfuric acid, beside a scale of sulfur oxidation number. Chloride leaves sulfur at +6, bromide reduces it to +4 (SO2), iodide reduces it to +4, 0 and minus 2 (SO2, S, H2S)." loading="lazy">
   <figcaption>Larger halide ions are stronger reducing agents, so they reduce sulfuric acid further.</figcaption>
 </figure>

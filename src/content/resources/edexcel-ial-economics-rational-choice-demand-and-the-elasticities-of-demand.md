@@ -107,6 +107,16 @@ A rational consumer buys another slice only while the money value of its margina
   <figcaption>Elasticity falls along a straight demand line, and revenue peaks where PED = 1.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-economics-price-system-and-the-microeconomy--02-yed-and-xed-signs.webp" width="900" height="960" alt="Two number lines from minus 1 to plus 2. For income elasticity, negative values mean an inferior good and positive values a normal good; examples are YED minus 0.5 (income up 10 percent, demand down 5 percent) and plus 1.5. For cross elasticity, negative means complements and positive means substitutes; examples are XED minus 0.5 and plus 1.5 when the price of B rises 20 percent." loading="lazy">
+  <figcaption>The sign of YED shows inferior or normal; the sign of XED shows complements or substitutes.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-how-markets-work--04-cross-elasticity.webp" width="900" height="930" alt="When tea rises from 2 to 3 pounds, coffee demand rises 25%, so XED is +0.5 (substitutes). When printers rise 50%, ink demand falls 50%, so XED is -1 (complements). The sign tells you the relationship." loading="lazy">
+  <figcaption>A positive XED means substitutes; a negative XED means complements.</figcaption>
+</figure>
+
 
 ## 3. Price, income and cross elasticities
 

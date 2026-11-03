@@ -58,12 +58,6 @@ introduces the conventions -- units, uncertainty, scalars and vectors
   vectors; and resolving a vector into two perpendicular components
   using Fx = F cos θ and Fy = F sin θ.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-level-oxfordaqa-physics-measurements-and-their-errors--01-units-from-base.webp" width="900" height="890" alt="Six base unit boxes (kg, m, s, A, K, mol) above a chain of derived units. The newton, kg m s^-2, times metre gives the joule, divided by second gives the watt, and divided by ampere gives the volt (OCR). Newton divided by metre squared gives the pascal. Cambridge 9702 does not use the mole." loading="lazy">
-  <figcaption>Each derived unit is a product or quotient of base units.</figcaption>
-</figure>
-
-
 ## Why this module is genuinely foundational
 
 Module 2's aim, stated directly in the specification, is to
@@ -94,6 +88,12 @@ perpendicular to that axis -- reappears
 throughout Module 3 (Forces and motion) whenever an object moves or is
 acted on at an angle, so fluency here pays off well beyond Module 2
 itself.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-oxfordaqa-physics-measurements-and-their-errors--09-vector-addition.webp" width="900" height="910" alt="12 N and 7 N forces with 50 degrees between them drawn tip to tail. Resultant 17.3 N at 18.0 degrees to the 12 N force from the cosine rule (interior angle 130) and checked by components 16.50 N and 5.36 N." loading="lazy">
+  <figcaption>The resultant joins the start of the first vector to the tip of the last.</figcaption>
+</figure>
+
 
 ## Worked example: combining percentage uncertainties
 

@@ -156,6 +156,11 @@ R × 20 = 17          R = 0.85 N
 ```
 
 <figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-mathematics-work-energy-and-power-and-collisions-with-the--06-impulse-vector.webp" width="900" height="1055" alt="Edexcel IAL only. Ball 0.4 kg changes velocity from (5i−2j) to (−i+4j): impulse mv−mu = (−2.4, 2.4) N s, magnitude 3.39 N s, force (−48, 48) N over 0.05 s." loading="lazy">
+  <figcaption>Impulse is the vector difference between final and initial momentum.</figcaption>
+</figure>
+
+<figure class="topic-figure">
   <img src="https://img.marlbridge.com/edexcel-ial-mathematics-work-energy-and-power-and-collisions-with-the--07-direct-impact.webp" width="900" height="930" alt="Edexcel IAL only. 2 kg at 5 m/s hits 3 kg at 1 m/s with e = 0.6: speeds 1.16 and 3.56 m/s, KE 26.5 J to 20.356 J." loading="lazy">
   <figcaption>Use conservation of momentum and the restitution law together; kinetic energy is lost when e &lt; 1.</figcaption>
 </figure>

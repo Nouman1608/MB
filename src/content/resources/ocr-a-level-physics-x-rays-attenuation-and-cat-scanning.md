@@ -79,6 +79,11 @@ If 1% of the power becomes X-rays, about 10 W is radiated and about 1010 W is th
   <figcaption>Tube voltage sets the shortest wavelength (maximum photon energy); tube current sets the intensity.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-medical-physics--07-aphy-medical-gamma-camera.webp" width="900" height="990" alt="Gamma photons from tracer in an organ pass through a lead collimator that only lets photons travelling straight along a hole through; photons at an angle are absorbed. Each photon makes a flash in the crystal, the photomultiplier tubes give pulses (largest from the nearest tube) and the computer uses them to add a count at that place in the image." loading="lazy">
+  <figcaption>A gamma camera forms an image of tracer distribution, one counted photon at a time.</figcaption>
+</figure>
+
 
 ## 6.5.1(c) Attenuation mechanisms
 

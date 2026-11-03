@@ -53,6 +53,12 @@ An alternating current changes direction continually. A sinusoidal supply gives 
 
 The same words apply to current: Io and 2Io.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-alternating-currents--06-rotating-coil-generator.webp" width="900" height="1165" alt="Four end-on pictures show a coil turning in a uniform field at 0, 90, 180 and 270 degrees. Graphs for one 40 ms period (120 turns, 0.25 T, 4.5e-3 m2, 25 Hz) show N phi = NBA cos wt between plus and minus 0.135 Wb turns and E = NBAw sin wt with peak 21.2 V. E is zero when flux linkage is maximum and largest when it changes fastest." loading="lazy">
+  <figcaption>The e.m.f. of a rotating coil is minus the gradient of the flux linkage, so a cosine flux linkage gives a sine e.m.f.</figcaption>
+</figure>
+
+
 ## The root mean square value
 
 The average of a sine wave over a cycle is zero, so the mean value says nothing about its heating effect. Instead we use the **root mean square (rms) value**: the steady direct current or voltage that gives the same mean power in a given resistor.
@@ -126,6 +132,12 @@ The Y-gain is 0.50 V per division and the time-base is 2.0 ms per division. The 
 - T = 4.0 × 2.0 ms = 8.0 ms, so f = 1/0.0080 = **125 Hz**
 
 If you switch the time-base to 1.0 ms per division, the same cycle spans 8.0 divisions, so fewer cycles fit on the screen. Increasing the Y-gain to 1.0 V per division halves the trace height. The signal itself does not change, only the display.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-alternating-currents--09-rectification-smoothing.webp" width="900" height="1140" alt="Three graphs share the same 50 Hz input (dashed). One diode gives half-wave rectification with a gap; a bridge of four diodes gives full-wave rectification with no gap and pulses at twice the frequency; a smoothing capacitor fills the gaps, with small RC giving large ripple and large RC giving small ripple." loading="lazy">
+  <figcaption>Half-wave leaves gaps, full-wave does not, and a capacitor with a larger time constant RC gives a smoother output.</figcaption>
+</figure>
+
 
 ## The transformer
 

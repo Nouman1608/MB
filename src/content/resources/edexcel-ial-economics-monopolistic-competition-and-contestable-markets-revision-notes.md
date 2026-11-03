@@ -74,6 +74,12 @@ Physical: change the product. Marketing: change how it is seen. Distribution: ch
 
 **Long-run shapes to remember.** Demand is downward sloping and tangent to ATC on the downward-sloping part of ATC. That is why the tangency output lies to the left of minimum ATC.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-monopolistic-competition-and-contestable-markets--01-monopolistic-sr-profit.webp" width="900" height="880" alt="Firm diagram for the lesson's Shop A. AR = 14 − 0.03Q, MR = 14 − 0.06Q, MC = 2 + 0.02Q and ATC = 400/Q + 2 + 0.01Q. MC = MR at 150 cakes, price 9.50, ATC 6.17, so the shaded rectangle is supernormal profit of 500." loading="lazy">
+  <figcaption>At 150 cakes Shop A earns supernormal profit of 500 cu, which signals entry.</figcaption>
+</figure>
+
+
 ## 4d: Efficiency
 
 | Test | Condition | Long run, cake shop example |
@@ -155,11 +161,6 @@ Higher sunk costs mean a weaker threat, a higher sustainable price and more prof
 **Short-run profit.** The same curves, but AR lies above ATC at the profit-maximising output. Shade the rectangle between price and ATC for supernormal profit. For a loss, ATC lies above AR; shade the rectangle between ATC and price.
 
 **Limit pricing.** Describe a price line below the monopoly price. At the limit price the entrant's expected profit just covers its sunk cost, so no entry occurs. The incumbent's profit is smaller than at the monopoly price.
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/edexcel-ial-economics-monopolistic-competition-and-contestable-markets--01-monopolistic-sr-profit.webp" width="900" height="880" alt="Firm diagram for the lesson's Shop A. AR = 14 − 0.03Q, MR = 14 − 0.06Q, MC = 2 + 0.02Q and ATC = 400/Q + 2 + 0.01Q. MC = MR at 150 cakes, price 9.50, ATC 6.17, so the shaded rectangle is supernormal profit of 500." loading="lazy">
-  <figcaption>At 150 cakes Shop A earns supernormal profit of 500 cu, which signals entry.</figcaption>
-</figure>
 
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/edexcel-ial-economics-monopolistic-competition-and-contestable-markets--03-monopolistic-sr-loss.webp" width="900" height="880" alt="With demand AR = 8 − 0.03Q, MC = MR at 75 cakes and price 5.75, below ATC of 8.08, so the loss rectangle is 175. AVC is 2.75, below the price, so the firm carries on in the short run." loading="lazy">

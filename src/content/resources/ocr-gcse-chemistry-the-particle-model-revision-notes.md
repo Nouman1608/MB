@@ -174,12 +174,6 @@ The model also cannot explain why different substances have different properties
 
 Robert Brown described the random jiggling of tiny particles from pollen grains in water in 1827. Einstein explained it in 1905 as the particles being hit by moving water molecules, and Perrin's experiments in 1908–1909 confirmed this. A model gains support when it explains new observations.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ocr-gcse-chemistry-the-particle-model--08-brownian-motion.webp" width="900" height="880" alt="A pollen grain follows a random zig-zag path as water molecules strike it. Timeline: Brown 1827, Einstein 1905, Perrin 1908-09." loading="lazy">
-  <figcaption>Brownian motion is evidence for moving particles.</figcaption>
-</figure>
-
-
 ## Quick self-test
 
 1. What is a gas turning into a liquid called?
@@ -207,6 +201,12 @@ Robert Brown described the random jiggling of tiny particles from pollen grains 
 9. The forces of attraction between particles, the size of the particles and the space between them.
 10. ∛125 = 5 times.
 11. 3³ = 27 in total; 9 on one face; (3 − 2)³ = 1 hidden.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-chemistry-the-particle-model--08-brownian-motion.webp" width="900" height="880" alt="A pollen grain follows a random zig-zag path as water molecules strike it. Timeline: Brown 1827, Einstein 1905, Perrin 1908-09." loading="lazy">
+  <figcaption>Brownian motion is evidence for moving particles.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

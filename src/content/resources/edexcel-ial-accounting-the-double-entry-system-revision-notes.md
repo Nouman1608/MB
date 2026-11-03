@@ -61,6 +61,11 @@ Ledgers: sales ledger (customers), purchases ledger (suppliers), general ledger 
 | Loan received | Bank | Loan |
 
 <figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-accounting-the-double-entry-system--03-ial-trial-balance-kestrel.webp" width="900" height="984" alt="The Kestrel Ridge trial balance lists seven debit balances and four credit balances, each with a bar. Both columns total 32,500 dollars." loading="lazy">
+  <figcaption>Debits and credits both total 32,500, so the trial balance agrees.</figcaption>
+</figure>
+
+<figure class="topic-figure">
   <img src="https://img.marlbridge.com/aqa-a-level-accounting-double-entry-model--01-debit-credit-rules.webp" width="900" height="956" alt="Six T-accounts show which side increases each account type: assets, expenses and drawings on the debit side; liabilities, income and capital on the credit side. An example buys a 4,000 dollar van by bank: debit Van, credit Bank. The rule is debit the receiver, credit the giver." loading="lazy">
   <figcaption>Debit the account that receives value and credit the one that gives it; each account type increases on one side only.</figcaption>
 </figure>
@@ -104,6 +109,11 @@ Ledgers: sales ledger (customers), purchases ledger (suppliers), general ledger 
   <figcaption>Every book of prime entry leads to an equal debit and credit in the ledger.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-double-entry-model--09-trial-balance-blind-spots.webp" width="900" height="968" alt="Six small debit and credit examples show omission, commission, principle, original entry, reversal and compensating errors. In each, total debits still equal total credits, so the trial balance agrees even though the books are wrong." loading="lazy">
+  <figcaption>A balanced trial balance does not prove the books are correct.</figcaption>
+</figure>
+
 
 ## 1.1.5 End of period transfers and adjustments
 
@@ -139,6 +149,11 @@ Transfers in the ledger: opening inventory is credited to Inventory and debited 
   <figcaption>The four year-end transfers build cost of sales: 5,200 + 41,300 - 1,100 - 6,400 = 39,000.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-edexcel-accounting-principles-and-double-entry-bookkeeping--09-prepaid-rent.webp" width="900" height="940" alt="Twelve monthly boxes show 12,000 pounds of rent paid on 1 October with a 31 December year end. Three months (3,000) are an expense in the income statement; nine months (9,000) are a prepayment shown as a current asset." loading="lazy">
+  <figcaption>Only the part of rent used in the year is an expense; the rest is a prepayment.</figcaption>
+</figure>
+
 
 ## 1.1.6 Allowance for irrecoverable debts
 
@@ -171,6 +186,11 @@ Transfers in the ledger: opening inventory is credited to Inventory and debited 
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/edexcel-ial-accounting-the-double-entry-system--05-allowance-schedule.webp" width="900" height="930" alt="Receivables of 64,100 less a 1,600 write-off leave 62,500, split by age with rates of 1, 4, 10 and 30 percent giving 380, 496, 850 and 1,080, a total allowance of 2,806. The increase of 456 on the existing 2,350 is charged to profit or loss and the statement of financial position shows 59,694." loading="lazy">
   <figcaption>Write off first, then apply age-band rates; only the increase reaches profit or loss.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-double-entry-model--08-allowance-irrecoverable.webp" width="900" height="1114" alt="Receivables of 48,600 less a 1,100 write-off give 47,500. A 3 percent allowance of 1,425 gives 46,075 in the statement of financial position. The allowance rises from 1,280 to 1,425 (145 expense) and falls to 1,260 the next year (165 income)." loading="lazy">
+  <figcaption>Only the change in the allowance is charged or credited to profit.</figcaption>
 </figure>
 
 
@@ -225,6 +245,27 @@ The specification says no specific applications or software packages are examine
 8. The purchases returns day book.
 9. The software posts the wrong amount to both sides equally, so debits still equal credits.
 10. Benefits: speed, fewer arithmetical errors. Limits: input errors still produce wrong output, cost and security risks.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-accounting-the-double-entry-system--02-ial-bank-account-11.webp" width="900" height="842" alt="Of eleven transactions, seven touch the bank. The bank account shows debits of 31,400 and credits of 14,900 plus a balance carried down of 16,500, which is brought down as a debit." loading="lazy">
+  <figcaption>Seven of the eleven transactions pass through the bank account, leaving a debit balance of 16,500.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-double-entry-model--02-balancing-account.webp" width="900" height="1020" alt="A K Lee ledger account is balanced: debits 300 and 450, credits 500 and 50, balance carried down 200, both sides 750, and 200 brought down on the debit side. A running balance layout (Cambridge only) gives the same 200 Dr." loading="lazy">
+  <figcaption>Balancing adds both sides, inserts the balance carried down, and brings it down on the opposite side.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-double-entry-model--07-paid-not-owed.webp" width="900" height="950" alt="Of 11,200 dollars of rent paid in 2027, 800 clears rent owed from 2026, 9,600 is the 2027 expense and 800 is paid for January 2028 (a prepayment, other receivable). The rent payable account balances at 11,200 and the 800 is brought down as a debit." loading="lazy">
+  <figcaption>Only the part of the cash paid that belongs to the year is charged to the income statement.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-double-entry-model--03-trade-cash-discount.webp" width="900" height="980" alt="A 3,200 dollar list price less 15 percent trade discount (480, never recorded) gives an invoice of 2,720. A 2.5 percent cash discount of 68 is recorded on payment, so the cheque is 2,652. Entries: debit supplier 2,720, credit bank 2,652, credit discounts received 68." loading="lazy">
+  <figcaption>Trade discount is netted off before recording; cash discount is recorded when payment is made.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

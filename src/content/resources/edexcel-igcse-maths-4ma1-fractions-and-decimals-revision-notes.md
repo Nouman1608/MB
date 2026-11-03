@@ -165,6 +165,11 @@ The pattern table is a quick check. When a question says **"prove"** or **"show 
   <figcaption>Choose the two multiples of x whose recurring tails line up.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-fractions-decimals-percentages-ordering-operations--03-recurring-to-fraction.webp" width="900" height="870" alt="Two rows of digit boxes show x = 0.3636... and 100x = 36.3636... with identical tails after the decimal point. Subtracting gives 99x = 36, so x = 36/99 = 4/11." loading="lazy">
+  <figcaption>Multiplying by 100 lines up the repeating tails so that subtracting removes them.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 
@@ -215,6 +220,11 @@ The pattern table is a quick check. When a question says **"prove"** or **"show 
 - Rounding a recurring decimal too early, then giving a percentage that is slightly wrong.
 - (Higher) Subtracting 100x − x when only one digit recurs after a non-recurring digit, so the tails do not cancel.
 - (Higher) Giving a calculator conversion with no algebra on a "prove" question.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-maths-4ma1-fractions-and-decimals--11-mixed-improper-cells.webp" width="900" height="748" alt="A grid of eighths: 4 full rows and 3 cells make 35 eighths, so 4 3/8 = 35/8. A grid of sixths: 47 cells make 7 full rows and 5 left over, so 47/6 = 7 5/6." loading="lazy">
+  <figcaption>Count equal parts to convert between mixed and improper forms.</figcaption>
+</figure>
 
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/igcse-mathematics-0580-fractions-decimals-percentages-ordering-operations--01-fraction-decimal-percentage.webp" width="900" height="830" alt="A bar of 16 equal parts with 7 shaded, a 0 to 1 scale and a 0 to 100% scale mark the same point. Dividing 7 by 16 gives 0.4375, and multiplying by 100 gives 43.75%." loading="lazy">

@@ -270,6 +270,11 @@ Link back to 3.5.4: horizontal mergers aim at economies of scale, but the saving
   <figcaption>Internal economies come from the firm's own size; external economies come from where the whole industry is located.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-economics-production-and-business-costs--06-lrac-curve.webp" width="900" height="880" alt="A U-shaped long-run average cost curve with cost per unit against output. Cost falls while the firm gains economies of scale, reaches a lowest point at 500 units and $4 per unit where the firm is most efficient, then rises in the region of diseconomies of scale." loading="lazy">
+  <figcaption>Average cost falls with economies of scale, bottoms out at the efficient point, then rises with diseconomies of scale.</figcaption>
+</figure>
+
 
 ## Evaluating a merger
 

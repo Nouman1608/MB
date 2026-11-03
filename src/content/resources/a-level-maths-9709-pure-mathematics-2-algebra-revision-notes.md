@@ -95,6 +95,12 @@ None of these is in the list of formulae (MF19). Learn them.
 3. Divide (or compare coefficients) to get the quadratic factor.
 4. Factorise the quadratic, or use the formula, or the discriminant to show no real roots.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-edexcel-mathematics-pure-mathematics-1--06-conjugate-roots.webp" width="900" height="1290" alt="Top: the graph of y = z cubed minus 5z squared plus 11z minus 15, which is always increasing and crosses the real axis only at x = 3. Bottom: an Argand diagram of the three roots of the cubic: the real root 3 and the complex pair 1 plus 2i and 1 minus 2i, which are mirror images in the real axis. Because the coefficients are real, non-real roots come in conjugate pairs. The cubic factorises as (z minus 3)(z squared minus 2z plus 5)." loading="lazy">
+  <figcaption>A real cubic with one real root has a conjugate pair of complex roots.</figcaption>
+</figure>
+
+
 ## Worked reminders
 
 **Comparing coefficients instead of long division.** Divide x³ + 4x² − x + 7 by x² + 2.

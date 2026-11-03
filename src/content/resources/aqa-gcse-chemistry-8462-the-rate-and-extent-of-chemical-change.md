@@ -240,6 +240,11 @@ ammonium chloride ⇌ ammonia + hydrogen chloride
   <figcaption>The same energy is transferred in each direction of a reversible reaction.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/rates-of-reaction-and-reversible-reactions--05-hydrated-anhydrous.webp" width="900" height="970" alt="Copper(II) sulfate: blue hydrated crystals turn white when heated and blue again on adding water. Cobalt(II) chloride: pink hydrated turns blue when heated and pink again with water." loading="lazy">
+  <figcaption>Heating hydrated crystals drives off water; adding water reverses the change.</figcaption>
+</figure>
+
 
 ## 4.6.2.2 Energy changes and reversible reactions
 
@@ -267,6 +272,11 @@ rate**. The reactions have not stopped; the amounts stay constant because they h
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/aqa-gcse-chemistry-8462-the-rate-and-extent-of-chemical-change--15-rt-temperature-concentration.webp" width="900" height="970" alt="A 2x2 grid: for a forward endothermic reaction, raising temperature gives more products and lowering gives fewer; for a forward exothermic reaction the opposite. Below, adding reactant or removing product shifts the equilibrium right, so more products form." loading="lazy">
   <figcaption>Temperature and concentration changes shift equilibrium in a predictable direction.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/rates-of-reaction-and-reversible-reactions--06-dynamic-equilibrium.webp" width="900" height="990" alt="Rate against time: forward rate falls, reverse rate rises from zero, and they meet and stay level. Particle boxes show 12 A at the start and 4 A plus 8 B at equilibrium with fixed numbers." loading="lazy">
+  <figcaption>At equilibrium the forward and reverse rates are equal and the amounts no longer change.</figcaption>
 </figure>
 
 

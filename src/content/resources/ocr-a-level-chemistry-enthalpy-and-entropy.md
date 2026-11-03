@@ -237,12 +237,6 @@ When you are asked to estimate an outcome (M0.3), state both parts: the ∆G con
 
 Condense this with the [Enthalpy and entropy revision notes](/resources/ocr-a-level-chemistry-enthalpy-and-entropy-revision-notes/), then test yourself with the [Enthalpy and entropy practice questions](/resources/ocr-a-level-chemistry-enthalpy-and-entropy-practice/). The same feasibility-versus-rate argument returns in 5.2.3, where electrode potentials predict feasibility; the oxidation-number skills you need there are in [Redox](/resources/ocr-a-level-chemistry-redox/).
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-chemical-energetics-lattice-energy-entropy-and-gibbs-free-energy--01-born-haber-nacl.webp" width="900" height="1090" alt="Energy level diagram: Na(s) and half a Cl2 at 0 rise through atomisation of Na (+107), atomisation of Cl (+122) and ionisation of Na (+496) to 725, fall 349 on electron affinity to 376, then fall 787 as the lattice forms to minus 411. A direct arrow shows the enthalpy of formation, minus 411, so lattice energy is minus 787 kJ per mole." loading="lazy">
-  <figcaption>Born-Haber cycle for NaCl: the five steps sum to the enthalpy of formation, giving a lattice energy of -787 kJ mol-1.</figcaption>
-</figure>
-
-
 ## Official syllabus
 
 OCR A Level Chemistry A (H432) specification, Version 3.1 (May 2026), for first assessment in 2017, section 5.2.2 Enthalpy and entropy, learning outcomes (a) to (f). Published by OCR.

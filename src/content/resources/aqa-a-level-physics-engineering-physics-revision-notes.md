@@ -174,6 +174,12 @@ overall    = thermal × mechanical
 11. 255/45 = **5.7**
 12. 24/30 = **0.80**; friction power = **6 kW**
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-medical-physics--03-aphy-medical-doppler.webp" width="900" height="1100" alt="A probe sends ultrasound at 60 degrees to blood flowing along a vessel and the echo is shifted in frequency by delta f = 2 f v cos(theta)/c. For 5.0 MHz, 0.45 m/s and c = 1570 m/s the shift is 1.4 kHz at 60 degrees; it is largest along the flow and zero at 90 degrees." loading="lazy">
+  <figcaption>The Doppler shift depends on cos of the angle between beam and flow, so the beam must not be directed across the vessel.</figcaption>
+</figure>
+
+
 ## Where marks are usually lost
 
 - Leaving ω in rpm or rev s⁻¹ inside E_k = ½Iω², P = Tω or L = Iω.

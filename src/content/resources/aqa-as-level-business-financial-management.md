@@ -197,6 +197,12 @@ The drop from 35.0% to 9.4% shows operating expenses absorb most of the gross pr
 
 Ways to shorten the gap: longer payables terms, prompt-payment discounts, chasing receivables, or debt factoring (section 6).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-business-finance--07-cash-gap-days.webp" width="900" height="930" alt="A copper bar of 20 days (payables days) and a teal bar of 35 days (receivables days) share a day scale. The 15 days between them is a cash gap the business must finance." loading="lazy">
+  <figcaption>Paying suppliers 15 days before customers pay creates a gap the business must fund.</figcaption>
+</figure>
+
+
 ## 6. Sources of finance
 
 **Internal** sources come from within the business (retained profits). **External** sources come from outside it.
@@ -222,6 +228,11 @@ Match source to need: a short-term gap suits an overdraft or factoring; a long-t
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/aqa-as-level-business-financial-management--09-sources-by-time.webp" width="900" height="784" alt="Grid of six sources by internal or external and short, medium to long or long term, matching the lesson table." loading="lazy">
   <figcaption>Match the source to the time need.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-business-finance--01-sources-of-finance.webp" width="900" height="970" alt="Internal sources (retained profits, sale of assets, sale and leaseback, working capital) sit inside a dashed business box; seven external sources point in from outside. Loans is highlighted for the Quillcote printer example." loading="lazy">
+  <figcaption>Money comes from inside the business (internal) or from outside it (external).</figcaption>
 </figure>
 
 

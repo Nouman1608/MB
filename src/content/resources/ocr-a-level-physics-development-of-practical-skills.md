@@ -57,12 +57,6 @@ procedures and apparatus)
 separately-reported, teacher-assessed competencies confirming a
 student can work safely and competently in a practical context
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ocr-a-level-physics-development-of-practical-skills--01-skills-two-routes.webp" width="900" height="920" alt="Module 1 splits into the written-exam skills 1.1 (four parts) and the Practical Endorsement 1.2." loading="lazy">
-  <figcaption>Module 1 has a written-exam route with four parts and a separately reported teacher-assessed Endorsement.</figcaption>
-</figure>
-
-
 ## How to approach it
 
 Because this module has no dedicated exam paper, the most effective
@@ -87,6 +81,12 @@ single block near the end of the qualification.
 OCR A Level GCE Physics A (H556) specification, accredited PDF, for
 first teaching September 2015 —
 [ocr.org.uk](https://www.ocr.org.uk/Images/171726-specification-accredited-a-level-gce-physics-a-h556.pdf).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-physics-development-of-practical-skills--01-skills-two-routes.webp" width="900" height="920" alt="Module 1 splits into the written-exam skills 1.1 (four parts) and the Practical Endorsement 1.2." loading="lazy">
+  <figcaption>Module 1 has a written-exam route with four parts and a separately reported teacher-assessed Endorsement.</figcaption>
+</figure>
+
 
 ## Planning an investigation
 
@@ -176,6 +176,11 @@ Anomalous results should be identified, excluded from the mean, and — where po
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/a-level-oxfordaqa-physics-measurements-and-their-errors--07-error-bars-gradient.webp" width="900" height="1030" alt="Extension against force with +/-2 mm error bars. Best line gradient 12.0, steepest 13.0, shallowest 11.0 mm per N, so gradient = 12.0 +/- 1.0 mm per N." loading="lazy">
   <figcaption>Half the difference between the steepest and shallowest gradients.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-oxfordaqa-physics-measurements-and-their-errors--06-combining-uncertainties.webp" width="900" height="1120" alt="Falling ball: h = 1.200 +/- 0.002 m, t = 0.495 +/- 0.005 s. A bar shows 0.17 percent from h and 1.01 percent from t counted twice, 2.19 percent total, so g = 9.8 +/- 0.2 m s^-2." loading="lazy">
+  <figcaption>Percentage uncertainties add for products and quotients; a power multiplies the percentage.</figcaption>
 </figure>
 
 

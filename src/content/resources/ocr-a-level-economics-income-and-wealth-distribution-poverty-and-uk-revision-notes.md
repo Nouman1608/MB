@@ -83,12 +83,6 @@ Straight-line segments slightly understate the true Gini, so state it as approxi
 | Mean and median | The mean is pulled up by high incomes; the median is the middle household |
 | Level and rate of growth | A catch-up economy can grow faster and still be poorer |
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ocr-a-level-economics-income-and-wealth-distribution-poverty-and-uk--06-mean-vs-median.webp" width="900" height="980" alt="Ten household incomes with mean 32 and median 22. The top income of 112 is 35% of the total and pulls the mean above the median." loading="lazy">
-  <figcaption>One very high income lifts the mean well above the median.</figcaption>
-</figure>
-
-
 ## Why more equal may be an objective
 
 - Less poverty and better basic living standards.
@@ -168,12 +162,6 @@ If all real incomes rise by the same percentage, absolute poverty can fall while
 - Catch-up: 30,000 growing 1% and 5,000 growing 7% for 10 years gives 33,139 and 9,836. The ratio falls from 6.0 to **3.4**, and the money gap narrows from 25,000 to **23,303**.
 - Limits: different definitions, informal economies, exchange rates and price levels, year chosen.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ocr-a-level-economics-income-and-wealth-distribution-poverty-and-uk--10-inc-catch-up.webp" width="900" height="750" alt="D starts at 40,000 growing 1.5% a year to 53,874; E starts at 8,000 growing 6% a year to 25,657. The ratio D to E falls from 5.0 to 2.1 and the gap from 32,000 to 28,217." loading="lazy">
-  <figcaption>Faster percentage growth from a low base narrows the ratio far more than the absolute gap.</figcaption>
-</figure>
-
-
 ## Quick self-test
 
 1. Define wealth.
@@ -199,6 +187,22 @@ If all real incomes rise by the same percentage, absolute poverty can fall while
 8. -50 + 150 = +100m.
 9. For example inheritance and compounding of savings.
 10. Catch-up growth from a low base: the level of income per head may still be far below.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-income-and-wealth-distribution-poverty-and-uk--06-mean-vs-median.webp" width="900" height="980" alt="Ten household incomes with mean 32 and median 22. The top income of 112 is 35% of the total and pulls the mean above the median." loading="lazy">
+  <figcaption>One very high income lifts the mean well above the median.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-income-and-wealth-distribution-poverty-and-uk--10-inc-catch-up.webp" width="900" height="750" alt="D starts at 40,000 growing 1.5% a year to 53,874; E starts at 8,000 growing 6% a year to 25,657. The ratio D to E falls from 5.0 to 2.1 and the gap from 32,000 to 28,217." loading="lazy">
+  <figcaption>Faster percentage growth from a low base narrows the ratio far more than the absolute gap.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-income-and-wealth-distribution-poverty-and-uk--11-inc-wealth-compounding.webp" width="900" height="770" alt="X inherits 100,000 and earns 4% for 25 years, ending with 266,584. Y saves 3,000 a year and ends with 124,938 having paid in 75,000." loading="lazy">
+  <figcaption>Inherited wealth compounds for longer, so X ends with over twice as much as Y.</figcaption>
+</figure>
+
 
 ## Using the topic in Component 2
 

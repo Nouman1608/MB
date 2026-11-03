@@ -68,6 +68,11 @@ Why the real effect can be smaller than the formula:
 - Expectations can change saving or tax behaviour.
 
 <figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-aggregate-demand-and-activity-short-run-and-long-run--11-multiplier-gap-assumed-vs-true.webp" width="900" height="820" alt="Output gap 60m. A planner assuming k = 4 injects 15m expecting 60m. With the true k = 2.5, 15m raises income by 37.5m and leaves 22.5m of the gap." loading="lazy">
+  <figcaption>A wrong estimate of the multiplier leaves part of the output gap open.</figcaption>
+</figure>
+
+<figure class="topic-figure">
   <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-aggregate-demand-and-activity-short-run-and-long-run--12-multiplier-local-town.webp" width="900" height="790" alt="A workshop pays 2m a year. Rounds of local spending are 2.00, 1.10, 0.61, 0.33, 0.18 and later 0.22, each round leaking 45% out of town. Local k is 2.22 so extra income is about 4.44m." loading="lazy">
   <figcaption>A small town spends little locally, so its multiplier is small.</figcaption>
 </figure>
@@ -196,12 +201,6 @@ Suppose raw material prices rise in Country A (invented). Write the chain in thi
 - **Actual versus potential growth.** A rise in AD can raise actual output (if there is spare capacity). Only a rightward LRAS shift raises normal capacity.
 - **Keynesian view.** An economy can stay well below normal capacity for many years, so waiting for wages and prices to adjust may be too slow. The counter-argument is that stimulus can be inflationary if the output gap has been overstated.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-aggregate-demand-and-activity-short-run-and-long-run--14-keynesian-stuck-below-capacity.webp" width="900" height="870" alt="AD and AS graph with vertical LRAS at 1,000m. AD falls from AD1 to AD2 and equilibrium sits at 940m, 60 below capacity. Four steps: AD falls, wages and prices fall slowly, weak demand keeps investment low, so raise AD deliberately." loading="lazy">
-  <figcaption>The Keynesian view says an economy can stay below normal capacity for years.</figcaption>
-</figure>
-
-
 ## Quick self-test
 
 1. Define the multiplier in your own words.
@@ -231,6 +230,12 @@ Suppose raw material prices rise in Country A (invented). Write the chain in thi
 10. The normal capacity level of output.
 11. Any two from capital stock, technology, working population, productivity, attitudes, enterprise, factor mobility, economic incentives.
 12. An economy can get stuck well below its normal capacity level of output for many years.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-aggregate-demand-and-activity-short-run-and-long-run--14-keynesian-stuck-below-capacity.webp" width="900" height="870" alt="AD and AS graph with vertical LRAS at 1,000m. AD falls from AD1 to AD2 and equilibrium sits at 940m, 60 below capacity. Four steps: AD falls, wages and prices fall slowly, weak demand keeps investment low, so raise AD deliberately." loading="lazy">
+  <figcaption>The Keynesian view says an economy can stay below normal capacity for years.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

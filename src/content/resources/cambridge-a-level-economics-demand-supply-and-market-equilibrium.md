@@ -214,6 +214,16 @@ Evaluate the mechanism. Rationing by price favours ability to pay over need, and
   <figcaption>Price rises from 100 to 130 to ration a fixed 500 seats after demand increases.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-economics-price-system-and-the-microeconomy--08-functions-of-price.webp" width="900" height="940" alt="Demand rises from D1 to D2, moving equilibrium from E1 (price 5.0, quantity 50) to E2 (price 6.3, quantity 67). Rationing: buyers further down D2 are priced out. Signalling: the rising price shows demand has grown. Incentivising: the higher price makes producers supply more, along S from 50 to 67." loading="lazy">
+  <figcaption>A change in price rations scarce goods, signals where demand lies and gives producers an incentive to respond.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-economics-demand-supply-equilibrium--01-ib-price-mechanism-functions.webp" width="900" height="1102" alt="A demand rise creates a shortage at the old price (70 demanded, 50 supplied); price rises from 7 to 8 until 60 units clear. Three icons show signalling (higher price signals demand is up), incentive (sellers supply more, buyers want less) and rationing (goods go to those willing and able to pay)." loading="lazy">
+  <figcaption>A price change performs three linked functions without central planning: signalling, incentive and rationing.</figcaption>
+</figure>
+
 
 ## Common errors
 

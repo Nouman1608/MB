@@ -298,6 +298,16 @@ Also know the square numbers up to 15² = 225 and the first ten cubes.
   <figcaption>Even powers are never negative, so only odd roots of negatives exist.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-powers-roots-and-indices--01-squares-cubes.webp" width="900" height="940" alt="Squares of side 1 to 5 are drawn as grids with areas 1, 4, 9, 16, 25. Cubes of side 2, 3 and 4 are drawn from unit blocks, giving 8, 27 and 64. A root undoes a power by giving the side." loading="lazy">
+  <figcaption>A square of side n has n squared unit squares and a cube of side n has n cubed unit blocks.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-powers-roots-and-indices--02-negative-powers.webp" width="900" height="890" alt="Bars show (-2) to the powers 1 to 5: -2, 4, -8, 16, -32, alternating negative and positive. A second pair shows (-2)^4 = 16 but -2^4 = -16." loading="lazy">
+  <figcaption>Odd powers of a negative number are negative, even powers are positive, and brackets decide what is raised to the power.</figcaption>
+</figure>
+
 
 ## N10: Using a calculator well
 

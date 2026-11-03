@@ -162,22 +162,6 @@ receivables days    = receivables / credit sales x 365
 
 **A ratio alone means nothing.** Every analysis needs a comparison — prior year, competitor, or industry — and a reason for the change. And note that a **high current ratio is not automatically good**: it can signal excess inventory, slow-collecting receivables, or idle cash.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-accounting-role-revision-notes--02-high-current-ratio.webp" width="900" height="1040" alt="Two firms share current liabilities of 20,000. Firm X has current assets of 60,000 (ratio 3.0, acid test 2.4) with 30,000 cash; Firm Y has 40,000 (ratio 2.0, acid test 1.4) with 8,000 cash. X holds 22,000 more cash that could be invested." loading="lazy">
-  <figcaption>A higher current ratio can mean idle cash, slow receivables or excess stock.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/aqa-a-level-accounting-analysis-and-evaluation-of-financial-information--04-liquidity-ratios.webp" width="900" height="810" alt="Current assets of 95,000 dollars (bank 7,000, receivables 46,000, inventory 42,000) are compared with current liabilities of 38,000. The current ratio is 2.50 to 1; removing inventory leaves 53,000, so the acid test is 1.39 to 1." loading="lazy">
-  <figcaption>The acid test removes inventory, the least liquid current asset.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/aqa-a-level-accounting-analysis-and-evaluation-of-financial-information--05-cash-tied-up-days.webp" width="900" height="690" alt="Inventory is held 43.8 days and customers pay a further 36.5 days later, 80.3 days after buying. Suppliers are paid after 45.0 days, so the business funds the 35.3 days in between. Calculated from average inventory, credit sales and credit purchases." loading="lazy">
-  <figcaption>Inventory, receivable and payable days together show how long the business must fund its own working capital.</figcaption>
-</figure>
-
-
 ## Exam traps
 
 - Giving one effect of an adjustment instead of two.
@@ -196,3 +180,19 @@ receivables days    = receivables / credit sales x 365
 5. Why might a high current ratio be a warning sign?
 
 **Answers:** 1. Under the business entity concept the business is separate from its owner, so capital is an amount the business owes back to the owner. 2. It increases profit for the year and appears as a current asset in the statement of financial position. 3. To check the arithmetical accuracy of the personal ledgers, to localise errors, and to provide quick totals for the financial statements — with the added benefit of acting as an internal control when prepared independently. 4. Update the cash book first for items the bank knew of first (charges, interest, direct debits), then reconcile the adjusted cash book to the statement using timing differences; reversing the order produces a figure that reconciles to nothing meaningful. 5. It may indicate excess inventory, receivables being collected too slowly, or cash sitting idle rather than being invested.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-accounting-role-revision-notes--02-high-current-ratio.webp" width="900" height="1040" alt="Two firms share current liabilities of 20,000. Firm X has current assets of 60,000 (ratio 3.0, acid test 2.4) with 30,000 cash; Firm Y has 40,000 (ratio 2.0, acid test 1.4) with 8,000 cash. X holds 22,000 more cash that could be invested." loading="lazy">
+  <figcaption>A higher current ratio can mean idle cash, slow receivables or excess stock.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-analysis-and-evaluation-of-financial-information--04-liquidity-ratios.webp" width="900" height="810" alt="Current assets of 95,000 dollars (bank 7,000, receivables 46,000, inventory 42,000) are compared with current liabilities of 38,000. The current ratio is 2.50 to 1; removing inventory leaves 53,000, so the acid test is 1.39 to 1." loading="lazy">
+  <figcaption>The acid test removes inventory, the least liquid current asset.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-analysis-and-evaluation-of-financial-information--05-cash-tied-up-days.webp" width="900" height="690" alt="Inventory is held 43.8 days and customers pay a further 36.5 days later, 80.3 days after buying. Suppliers are paid after 45.0 days, so the business funds the 35.3 days in between. Calculated from average inventory, credit sales and credit purchases." loading="lazy">
+  <figcaption>Inventory, receivable and payable days together show how long the business must fund its own working capital.</figcaption>
+</figure>
+

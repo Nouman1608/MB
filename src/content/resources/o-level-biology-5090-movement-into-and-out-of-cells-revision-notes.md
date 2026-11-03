@@ -179,6 +179,17 @@ These notes cover Topic 3, Movement into and out of cells, of the Cambridge O Le
 - **Root hair cells** take up mineral ions, such as nitrate and magnesium, from soil water where the ion concentration is lower than in the cell. Diffusion alone could not do this.
 - Lack of oxygen (for example waterlogged soil) or a respiratory poison reduces respiration and so reduces ion uptake.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-movement-into-and-out-of-cells--06-active-transport.webp" width="900" height="1120" alt="A membrane separates low concentration (top) from high concentration (bottom). Step 1: a particle binds a carrier protein facing the low side. Step 2: energy from respiration changes the carrier and the particle is released on the high side, so it moves against the gradient. Extended: protein carriers, for example ion uptake by root hairs." loading="lazy">
+  <figcaption>Active transport moves particles from low to high concentration using energy from respiration.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-movement-into-and-out-of-cells--07-three-processes.webp" width="900" height="1030" alt="Three pictures. Diffusion is passive: particles move from high to low concentration, no energy needed. Osmosis is passive: water moves through a partially permeable membrane, no energy needed. Active transport is active: a carrier moves particles from low to high concentration using energy from respiration." loading="lazy">
+  <figcaption>Diffusion and osmosis are passive; active transport uses energy from respiration to move particles against the gradient.</figcaption>
+</figure>
+
+
 ## Must-know distinctions
 
 | Diffusion | Osmosis | Active transport |

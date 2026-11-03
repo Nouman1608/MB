@@ -112,6 +112,11 @@ Links: [course hub](/boards/oxfordaqa/a-level/business/) · [printable checklist
   <figcaption>A higher price lowers break-even; higher fixed costs raise it.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-business-finance--08-capacity-unit-cost.webp" width="900" height="920" alt="Unit cost falls as output rises (fixed 18,000, variable 0.45 per loaf). March: 24,000 loaves, 80% capacity, 1.20 pounds a loaf. April: 27,000 loaves, 90% capacity, 1.12 pounds a loaf; little spare room near capacity." loading="lazy">
+  <figcaption>Higher capacity utilisation spreads fixed costs and lowers unit cost, but leaves little spare room.</figcaption>
+</figure>
+
 
 ## 3.2.3.3 Profit and cash
 
@@ -230,8 +235,8 @@ Links: [course hub](/boards/oxfordaqa/a-level/business/) · [printable checklist
 12. Selling an asset, usually property, to raise cash and then leasing it back so the business keeps using it.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/oxfordaqa-a-level-business-finance--08-capacity-unit-cost.webp" width="900" height="920" alt="Unit cost falls as output rises (fixed 18,000, variable 0.45 per loaf). March: 24,000 loaves, 80% capacity, 1.20 pounds a loaf. April: 27,000 loaves, 90% capacity, 1.12 pounds a loaf; little spare room near capacity." loading="lazy">
-  <figcaption>Higher capacity utilisation spreads fixed costs and lowers unit cost, but leaves little spare room.</figcaption>
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-business-finance--09-inventory-control.webp" width="900" height="870" alt="Inventory falls 150 tins a week from the maximum 1,100. At week 4 it hits the re-order level of 500 and 900 tins are ordered; after the 2-week lead time it reaches the buffer of 200 and delivery lifts it to 1,100." loading="lazy">
+  <figcaption>Re-order level is buffer plus usage during lead time; re-order quantity is maximum minus buffer.</figcaption>
 </figure>
 
 

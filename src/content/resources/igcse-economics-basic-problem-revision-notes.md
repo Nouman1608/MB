@@ -127,12 +127,6 @@ The curve is normally drawn **concave to the origin** because resources are not 
 
 As countries develop, the primary sector shrinks and the tertiary sector grows.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-economics-basic-problem-revision-notes--04-rn63-sectors.webp" width="900" height="850" alt="Three sector cards and two bars of illustrative shares: less developed 55/15/30 and more developed 8/22/70 (primary/secondary/tertiary)." loading="lazy">
-  <figcaption>As countries develop the primary sector shrinks and the tertiary sector grows.</figcaption>
-</figure>
-
-
 ## Exam traps
 
 - Saying opportunity cost is "everything you give up" rather than the next best alternative.
@@ -153,3 +147,9 @@ As countries develop, the primary sector shrinks and the tertiary sector grows.
 7. Distinguish between a movement towards a PPC and an outward shift of the whole PPC.
 
 **Answers:** 1. Wants are unlimited but resources are limited, so choices must be made. 2. The next best alternative forgone; for example, government spending on a new hospital means a new school is forgone. 3. Land–rent, labour–wages, capital–interest, enterprise–profit. 4. Unemployment or inefficiency — the economy is not using all its resources fully, so output could be increased without any opportunity cost. 5. More or better resources, improved technology, better education and training raising productivity, or greater investment in capital goods — any three. 6. Air is unlimited in supply, so obtaining it requires no sacrifice of resources and it has no opportunity cost; oil is scarce relative to demand, so extracting it has an opportunity cost. 7. A movement towards the curve uses existing idle resources more fully and is temporary and reversible; an outward shift is a permanent increase in what the economy is capable of producing at maximum, caused by more or better resources or improved technology.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-basic-problem-revision-notes--04-rn63-sectors.webp" width="900" height="850" alt="Three sector cards and two bars of illustrative shares: less developed 55/15/30 and more developed 8/22/70 (primary/secondary/tertiary)." loading="lazy">
+  <figcaption>As countries develop the primary sector shrinks and the tertiary sector grows.</figcaption>
+</figure>
+

@@ -196,6 +196,12 @@ Try each question before you open the answers.
 9. Consult affected groups before deciding, or phase the change in over time with support such as retraining.
 10. It might refuse more credit, ask for earlier repayment, or charge a higher rate on new borrowing.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-stakeholders--02-pay-rise-vs-dividend.webp" width="900" height="940" alt="Profit of 610,000 splits into a 244,000 dividend and 366,000 kept. A 3% pay rise costs 123,900, cutting profit to 486,100, and equals 50.8% of the dividend. Pay and dividends compete for the same profit." loading="lazy">
+  <figcaption>A 3% pay rise is worth half the dividend, so employees and shareholders clash over the same profit.</figcaption>
+</figure>
+
+
 ## Where marks are usually lost
 
 - Writing a list of stakeholders with no tie to the particular business in the case.

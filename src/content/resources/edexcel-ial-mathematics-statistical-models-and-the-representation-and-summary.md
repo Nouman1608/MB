@@ -54,6 +54,12 @@ The total is 20, so the mean is 2.0 per day. That agrees with the model. The spr
 
 Strengths of a model: it is cheap, quick and can predict. Limits: it depends on its assumptions, and results outside the range of the data are unreliable.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-data-presentation-and-interpretation--07-extrapolation.webp" width="900" height="818" alt="A graph of the regression line y = 78 minus 2.4x for resting heart rate against weekly training hours. The data covered 2 to 10 hours, shown as a shaded band; the line is solid there and dashed outside. At 5 hours the prediction is 66 beats per minute, which is interpolation and reasonably reliable. At 30 hours the line gives 6 beats per minute, which is not credible, so predicting outside the data range is unreliable. The intercept 78 at x = 0 also lies outside the data." loading="lazy">
+  <figcaption>Predictions are reliable inside the range of the data and unreliable outside it.</figcaption>
+</figure>
+
+
 ## 2.1 Histograms
 
 For grouped continuous data, the **area** of each bar is proportional to frequency.
@@ -115,6 +121,12 @@ For n = 15 the positions are 3.75, 7.5 and 11.25, so Q1, median and Q3 are the 4
 A **box plot** shows the minimum, Q1, median, Q3 and maximum on a scale. A box runs from Q1 to Q3 with a line at the median. Whiskers reach to the lowest and highest values that are not outliers.
 
 **Comparing distributions.** Make one comment on location and one on spread, each with numbers and in context. Here P has the higher median (55 against 48), so P delivers more on a typical day. Q has the larger interquartile range (16 against 13), so Q is less consistent.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-data-presentation-and-interpretation--05-sample-variability.webp" width="900" height="955" alt="Three dot plots of one-way commuting times in minutes. Analyst A's random sample of 8 (18, 22, 25, 27, 30, 35, 38, 41) has mean 29.5. Analyst B's random sample of 8 (15, 17, 19, 20, 21, 24, 26, 33) has mean 21.9. Together the 16 values have mean 25.7. Triangles mark each mean. Both samples came from a fair method, so the 7.6 minute gap is sampling variability; combining the samples, or using larger ones, reduces it." loading="lazy">
+  <figcaption>Two fair random samples from the same firm give different means, so samples are only estimates.</figcaption>
+</figure>
+
 
 ## 2.2 Measures of location
 

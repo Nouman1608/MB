@@ -36,6 +36,12 @@ These notes condense section 6.1, Economic issues, of the Cambridge O Level Busi
 | Variable-rate loan | Rate moves with market rates (standard term) |
 | Fixed-rate loan | Rate stays the same for an agreed period (standard term) |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-business-business-and-its-environment--08-interest-repayment.webp" width="900" height="920" alt="A 1,500,000 pound loan repaying 300,000 a year plus interest on the opening balance. At 5 percent the payment is 375,000; at 6.5 percent it is 397,500, an extra 22,500 or 6 percent." loading="lazy">
+  <figcaption>A higher interest rate raises the cost of a variable-rate loan.</figcaption>
+</figure>
+
+
 ## The business cycle (6.1.1)
 
 Learn the four stages the syllabus gives as examples, in order of a typical cycle.
@@ -182,12 +188,6 @@ The effect depends on the business, so check the stem for these clues.
 
 Use at least one such clue in each answer. It turns a general point into application.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/o-level-business-economic-issues--07-halbrook-rate-rise.webp" width="900" height="790" alt="Two bars split a 60,000 profit before interest into profit after interest and interest paid. At 5 percent: 50,000 and 10,000. At 8 percent: 44,000 and 16,000. Interest rises 60 percent and profit after interest falls 12 percent." loading="lazy">
-  <figcaption>On a 200,000 loan, 5% to 8% lifts interest from 10,000 to 16,000 and cuts profit after interest from 50,000 to 44,000.</figcaption>
-</figure>
-
-
 ## Small worked reminders
 
 Varnley Bakery has a 100,000 loan at 6%. Interest is 100,000 × 0.06 = 6,000 a year. At 9% it is 9,000. The bill is up 3,000, or 50%. The rate rose by 3 percentage points, not 50%.
@@ -236,6 +236,12 @@ A magazine costs 50 before sales tax. A 12% sales tax makes the shelf price 50 �
 8. Customers often buy furniture with loans, so higher interest makes the purchase dearer and some delay it; fewer sales follow.
 9. 2.4 / 40 × 100 = 6%.
 10. For example, cut prices to hold sales, which lowers the margin on every item. Other valid pairs: cut costs (staff morale suffers), delay investment (may fall behind rivals).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-business-economic-issues--07-halbrook-rate-rise.webp" width="900" height="790" alt="Two bars split a 60,000 profit before interest into profit after interest and interest paid. At 5 percent: 50,000 and 10,000. At 8 percent: 44,000 and 16,000. Interest rises 60 percent and profit after interest falls 12 percent." loading="lazy">
+  <figcaption>On a 200,000 loan, 5% to 8% lifts interest from 10,000 to 16,000 and cuts profit after interest from 50,000 to 44,000.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

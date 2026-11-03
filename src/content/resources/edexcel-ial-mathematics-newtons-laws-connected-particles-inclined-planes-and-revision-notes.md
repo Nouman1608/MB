@@ -42,12 +42,6 @@ v = u + at          s = ut + ½at²
 s = vt − ½at²       v² = u² + 2as       s = ½(u + v)t
 ```
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-level-maths-9709-mechanics--05-amth-forces-friction-model.webp" width="900" height="940" alt="Graph of friction against push for a 5 kg box with μ = 0.4 (R = 49 N, maximum friction 19.6 N). F equals P until P = 19.6 N, then stays at 19.6 N when the box slides. P = 15 N gives F = 15 N, not 19.6 N. Three mini diagrams show at rest, limiting and sliding (a = 1.08 m per second squared)." loading="lazy">
-  <figcaption>Friction matches the push up to a maximum μR; only when on the point of moving or sliding is F = μR.</figcaption>
-</figure>
-
-
 ## Models and assumptions (4.2)
 
 | Term | What you may assume |
@@ -163,12 +157,6 @@ Mass cancels on a slope when only gravity, R and friction act. If a question giv
 - Speed is a magnitude. Velocity and acceleration in ai + bj form have direction. Find the speed as √(a² + b²).
 - A smooth surface has no friction. A rough surface has F = μR only while the particle is moving. Once it stops, there is no sliding friction to use in this unit.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-level-maths-9709-mechanics--06-amth-forces-rope-angle.webp" width="900" height="970" alt="A 12 kg box on rough ground (μ = 0.4) on the point of sliding. Pulled by a rope at 25 degrees above horizontal, T = 43.7 N and R = 99.1 N, less than the weight 117.6 N. Pushed at 25 degrees below horizontal, P = 63.8 N and R = 144.6 N, more than the weight. Dashed lines show components." loading="lazy">
-  <figcaption>A pull at an angle lowers R and so the friction limit; a push at an angle raises it.</figcaption>
-</figure>
-
-
 ## Quick self-test
 
 1. A particle of mass 5 kg is acted on by a single force (10i − 15j) N. Find its acceleration as a vector and its magnitude.
@@ -194,6 +182,27 @@ Mass cancels on a slope when only gravity, R and friction act. If a question giv
 8. a = −0.25g = −2.45, so 0 = 49 − 2 × 2.45 × s, s = 10 m.
 9. 1g − T = 1a and T = 3a, so a = g/4 = 2.45 m s⁻² and T = 7.35 N.
 10. Total force = 3(2i + j) = (6i + 3j) N, so F = (6i + 3j) − (4i − j) = (2i + 4j) N.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-maths-9709-mechanics--02-amth-forces-two-strings.webp" width="900" height="960" alt="A 5 kg particle hangs on two strings at 30 and 45 degrees to the horizontal. Solving the horizontal and vertical balances gives T1 = 35.9 N and T2 = 43.9 N. Drawn head to tail, W, T1 and T2 form a closed triangle, so the resultant is zero." loading="lazy">
+  <figcaption>In equilibrium the forces sum to zero in every direction, so they close into a triangle.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-maths-9709-mechanics--05-amth-forces-friction-model.webp" width="900" height="940" alt="Graph of friction against push for a 5 kg box with μ = 0.4 (R = 49 N, maximum friction 19.6 N). F equals P until P = 19.6 N, then stays at 19.6 N when the box slides. P = 15 N gives F = 15 N, not 19.6 N. Three mini diagrams show at rest, limiting and sliding (a = 1.08 m per second squared)." loading="lazy">
+  <figcaption>Friction matches the push up to a maximum μR; only when on the point of moving or sliding is F = μR.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-maths-9709-mechanics--06-amth-forces-rope-angle.webp" width="900" height="970" alt="A 12 kg box on rough ground (μ = 0.4) on the point of sliding. Pulled by a rope at 25 degrees above horizontal, T = 43.7 N and R = 99.1 N, less than the weight 117.6 N. Pushed at 25 degrees below horizontal, P = 63.8 N and R = 144.6 N, more than the weight. Dashed lines show components." loading="lazy">
+  <figcaption>A pull at an angle lowers R and so the friction limit; a push at an angle raises it.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-maths-9709-mechanics--09-amth-forces-conical.webp" width="900" height="940" alt="A 0.4 kg bob on a 1.2 m string moves in a horizontal circle at 5 rad per second. T = mLω² = 12 N, cos θ = g/(Lω²) = 0.327 so θ = 70.9 degrees, r = 1.13 m, v = 5.67 m per second. Tension plus weight give a horizontal resultant 11.3 N to the centre; from above, v is tangent and a = 28.3 m per second squared points to the centre." loading="lazy">
+  <figcaption>The resultant of tension and weight points to the centre of the circle and equals mrω².</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

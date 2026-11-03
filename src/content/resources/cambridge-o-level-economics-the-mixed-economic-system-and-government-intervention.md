@@ -225,6 +225,16 @@ A small calculation: if a state firm is sold for 450 and it was costing the gove
   <figcaption>Each extra bridge costs 1.5 flood barriers in this budget.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-basic-economic-problem--06-ppc-movement-opportunity-cost.webp" width="900" height="1050" alt="Three points on a PPC. Moving from 1 to 2 gains 20 Food and gives up 20 Machines; moving from 2 to 3 gains another 20 Food but gives up 60 Machines. Each extra unit of Food costs more Machines, which is why the curve bows outwards." loading="lazy">
+  <figcaption>Moving along a PPC reallocates resources, and the opportunity cost rises.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-allocation-of-resources--04-public-goods.webp" width="900" height="1060" alt="A street light shines on four people but only one pays. The three free riders use it without paying, so private firms make no profit and will not supply it. The government provides it, paid for by taxes." loading="lazy">
+  <figcaption>Public goods are non-excludable, so free riders stop private firms supplying them.</figcaption>
+</figure>
+
 
 ## Judging effectiveness
 
@@ -238,6 +248,12 @@ A small calculation: if a state firm is sold for 450 and it was costing the gove
 | Harmful external costs | Regulation | Direct limit | Enforcement cost |
 
 To evaluate, weigh intended benefits against side effects, cost, time and who gains and loses. Intervention can also fail through poor information or political aims, which creates **government failure**. In your conclusion, make a judgement that depends on the context, such as how elastic demand is or how well a rule can be enforced.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-allocation-of-resources--05-merit-and-demerit-goods.webp" width="900" height="1010" alt="For healthcare, a merit good, the market delivers 60 against a best amount of 100, so there is too little. For cigarettes, a demerit good, it delivers 100 against 40, so there is too much." loading="lazy">
+  <figcaption>Merit goods are under-consumed and demerit goods over-consumed.</figcaption>
+</figure>
+
 
 ## Common errors
 

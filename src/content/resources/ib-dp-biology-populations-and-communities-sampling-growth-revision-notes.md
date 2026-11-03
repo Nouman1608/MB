@@ -153,6 +153,11 @@ Invasive example: the grey squirrel digests acorns more efficiently than the red
   <figcaption>Each interspecific relationship is defined by whether each partner gains or loses.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-populations-and-communities-sampling-growth--08-mutualism.webp" width="900" height="1000" alt="Three panels each show two partners with arrows in both directions. Rhizobium gives fixed nitrogen (ammonia) and the legume gives carbohydrates and a protected home. Zooxanthellae give sugars and organic compounds and the coral gives shelter, light, carbon dioxide and nitrogen wastes. Fungus gives an orchid seedling carbon and minerals and the orchid gives habitat and some carbon." loading="lazy">
+  <figcaption>In each mutualism both partners supply something the other needs.</figcaption>
+</figure>
+
 
 ## Testing for competition (C4.1.14 to C4.1.15)
 
@@ -183,17 +188,6 @@ Worked reminder: 100 sites, A at 40, B at 30. Expected both present = 40 × 30 �
 - Allelopathy: plant releases chemicals deterring neighbours, such as juglone from black walnut.
 - Antibiotic secretion: microbes kill rivals, such as penicillin from *Penicillium*.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ib-dp-biology-populations-and-communities-sampling-growth--05-predator-prey.webp" width="900" height="840" alt="Computed illustrative curves show prey and predator populations rising and falling every 10 years, with the predator peak about a year after the prey peak. Numbered stages follow the cycle: more prey, more predators, fewer prey, fewer predators and prey recovery." loading="lazy">
-  <figcaption>Delayed negative feedback makes predator numbers follow prey numbers in a cycle.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ib-dp-biology-populations-and-communities-sampling-growth--06-top-down-bottom-up.webp" width="900" height="960" alt="Three trophic levels (producers, herbivores, predators) sit above a nutrient supply. An upward arrow shows bottom-up control, where nutrients limit producers and everything above. A downward arrow shows top-down control, where predators limit herbivores." loading="lazy">
-  <figcaption>Control can come from resources below (bottom-up) or from consumers above (top-down).</figcaption>
-</figure>
-
-
 ## Quick self-test
 
 1. State why reproductive isolation matters for the definition of a population.
@@ -223,6 +217,17 @@ Worked reminder: 100 sites, A at 40, B at 30. Expected both present = 40 × 30 �
 10. Another factor, such as different habitat preferences, could explain the pattern.
 11. 40 ÷ 80 × 100 = **50%**.
 12. Top-down: consumers limit lower trophic levels. Bottom-up: resources limit producers and everything above.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-populations-and-communities-sampling-growth--05-predator-prey.webp" width="900" height="840" alt="Computed illustrative curves show prey and predator populations rising and falling every 10 years, with the predator peak about a year after the prey peak. Numbered stages follow the cycle: more prey, more predators, fewer prey, fewer predators and prey recovery." loading="lazy">
+  <figcaption>Delayed negative feedback makes predator numbers follow prey numbers in a cycle.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-populations-and-communities-sampling-growth--06-top-down-bottom-up.webp" width="900" height="960" alt="Three trophic levels (producers, herbivores, predators) sit above a nutrient supply. An upward arrow shows bottom-up control, where nutrients limit producers and everything above. A downward arrow shows top-down control, where predators limit herbivores." loading="lazy">
+  <figcaption>Control can come from resources below (bottom-up) or from consumers above (top-down).</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

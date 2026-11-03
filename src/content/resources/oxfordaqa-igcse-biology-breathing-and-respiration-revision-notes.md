@@ -115,6 +115,16 @@ Method in steps for a 4-mark explanation:
   <figcaption>Both pulse and breathing rate rise with exercise, but breathing rate rises by the larger percentage because the change is divided by the smaller starting value.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-gas-exchange-in-humans--06-exercise-breathing.webp" width="900" height="960" alt="Lesson example: at rest 16 breaths per minute, after two minutes of skipping 44 (2.75 times). Depth rises from 0.5 to 2.0 dm3 per breath (4 times). Air moved per minute rises from 8 to 88 dm3, 11 times, because rate times depth gives volume per minute." loading="lazy">
+  <figcaption>Exercise raises both the rate and depth of breathing, so air moved per minute rises 11 times.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-transport-in-animals--08-heart-rate-exercise.webp" width="900" height="1130" alt="Bar chart from the lesson worked example: mean resting rate 74 beats per minute, mean after exercise 118, an increase of 44 (59 per cent). Extended panel: active muscles respire faster, need more oxygen and glucose and produce more carbon dioxide, so the heart rate rises to supply and remove them faster." loading="lazy">
+  <figcaption>After exercise the mean heart rate rose from 74 to 118 beats per minute, a 59% increase.</figcaption>
+</figure>
+
 
 ### Anaerobic respiration (3.2.6 i-m)
 
@@ -147,6 +157,21 @@ Method in steps for a 4-mark explanation:
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/igcse-biology-0610-respiration--02-aerobic-respiration.webp" width="900" height="1010" alt="Inside a cell, glucose and oxygen react to give carbon dioxide and water, releasing much energy. Extended panel: C6H12O6 + 6O2 gives 6CO2 + 6H2O, with 6 C, 12 H and 18 O atoms on each side." loading="lazy">
   <figcaption>Aerobic respiration uses oxygen and releases much energy per glucose.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-respiration--01-uses-of-energy.webp" width="900" height="1100" alt="Glucose is respired and energy is released. Seven small pictures show its uses: muscle contraction, protein synthesis, cell division, active transport, growth, passage of nerve impulses and maintaining a constant body temperature (37 degrees Celsius)." loading="lazy">
+  <figcaption>Respiration releases the energy cells use for these seven jobs.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-respiration--03-anaerobic-respiration.webp" width="900" height="1290" alt="Without oxygen, yeast turns glucose into ethanol and carbon dioxide; muscles in vigorous exercise turn glucose into lactic acid only, with no carbon dioxide. Schematic bars show both release much less energy than aerobic respiration. Extended panel: C6H12O6 gives 2C2H5OH + 2CO2." loading="lazy">
+  <figcaption>Anaerobic respiration releases much less energy, and yeast and muscle make different products.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-respiration--05-oxygen-debt.webp" width="900" height="1290" alt="Extended. Lactic acid built up in the muscles is carried by the blood, driven by a fast heart rate, to the liver, where it is broken down by aerobic respiration using extra oxygen supplied by deeper, faster breathing. Charts of the cyclist example show heart rate 64, 172, 118, 66 and breathing rate 14, 40, 26, 15 at rest, end of sprint, 5 and 15 minutes after." loading="lazy">
+  <figcaption>Fast heart rate moves lactic acid to the liver and fast breathing supplies the oxygen to break it down.</figcaption>
 </figure>
 
 

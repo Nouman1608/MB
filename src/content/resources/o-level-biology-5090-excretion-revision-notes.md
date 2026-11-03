@@ -47,12 +47,6 @@ When you are ready, move on to the [practice questions](/resources/o-level-biolo
 
 **Carbon dioxide route:** cell → plasma → lungs → diffuses into alveoli → breathed out.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/o-level-biology-5090-excretion--13-carbon-dioxide-route-to-lungs.webp" width="900" height="980" alt="Four steps: body cells make carbon dioxide in respiration, it diffuses into plasma and is carried to the lungs, diffuses into the alveoli, and is breathed out." loading="lazy">
-  <figcaption>Carbon dioxide travels from cells in plasma to the lungs and is breathed out.</figcaption>
-</figure>
-
-
 ## 13.2.5 and 13.2.6 The liver and amino acids
 
 ```
@@ -168,17 +162,6 @@ Details of how filtration and reabsorption happen are not required.
 - Urea in plasma 0.25 g/dm³, in urine 15 g/dm³: 15 ÷ 0.25 = **60 times** more concentrated, because water is reabsorbed but urea is not.
 - Filtrate 150 dm³ per day, urine 1.5 dm³ per day: (150 − 1.5) ÷ 150 × 100 = **99%** of the water reabsorbed.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/o-level-biology-5090-excretion--08-o-plasma-filtrate-urine.webp" width="900" height="1095" alt="Bar charts of protein (70, 0, 0), glucose (1.0, 1.0, 0) and urea (0.30, 0.30, 18) g per dm cubed in plasma, filtrate and urine; urea is 60 times more concentrated in urine." loading="lazy">
-  <figcaption>Uses the lesson table values.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/o-level-biology-5090-excretion--09-o-water-reabsorbed.webp" width="900" height="816" alt="120 squares of filtrate per minute: 118.8 reabsorbed, 99.0 percent, and 1.2 leave as urine. Per day 172.8 dm cubed filtered and 1.728 dm cubed urine." loading="lazy">
-  <figcaption>Uses the lesson figures of 120 and 1.2 cm3 per minute.</figcaption>
-</figure>
-
-
 ## Answer frames to learn
 
 Short model answers you can adapt. Each line is one separate point.
@@ -205,6 +188,12 @@ Short model answers you can adapt. Each line is one separate point.
 **"Explain why blood in the renal vein has less urea than blood in the renal artery."**
 - Urea is filtered out of the blood in the glomerulus.
 - It is not reabsorbed, so it leaves in urine instead of returning to the blood.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-biology-5090-excretion--13-carbon-dioxide-route-to-lungs.webp" width="900" height="980" alt="Four steps: body cells make carbon dioxide in respiration, it diffuses into plasma and is carried to the lungs, diffuses into the alveoli, and is breathed out." loading="lazy">
+  <figcaption>Carbon dioxide travels from cells in plasma to the lungs and is breathed out.</figcaption>
+</figure>
+
 
 ## Links to other topics
 
@@ -252,6 +241,22 @@ Short model answers you can adapt. Each line is one separate point.
 10. Glucose.
 11. Urea is toxic; if it built up in the blood it would damage cells.
 12. (180 − 1.8) ÷ 180 × 100 = **99%**; 24 ÷ 0.4 = **60 times**.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-biology-5090-excretion--08-o-plasma-filtrate-urine.webp" width="900" height="1095" alt="Bar charts of protein (70, 0, 0), glucose (1.0, 1.0, 0) and urea (0.30, 0.30, 18) g per dm cubed in plasma, filtrate and urine; urea is 60 times more concentrated in urine." loading="lazy">
+  <figcaption>Uses the lesson table values.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-biology-5090-excretion--09-o-water-reabsorbed.webp" width="900" height="816" alt="120 squares of filtrate per minute: 118.8 reabsorbed, 99.0 percent, and 1.2 leave as urine. Per day 172.8 dm cubed filtered and 1.728 dm cubed urine." loading="lazy">
+  <figcaption>Uses the lesson figures of 120 and 1.2 cm3 per minute.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-biology-5090-excretion--12-urea-rise-500-percent.webp" width="900" height="900" alt="Blood urea rises from 0.25 to 1.5 g per dm3 in five days with failed kidneys: an increase of 1.25, which is 500 percent. The liver still makes urea and the kidneys do not remove it." loading="lazy">
+  <figcaption>Blood urea rose by 500% in five days when the kidneys stopped working.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

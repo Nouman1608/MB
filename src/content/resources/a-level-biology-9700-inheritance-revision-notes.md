@@ -80,12 +80,6 @@ Links: [course hub](/boards/cambridge/a-level/biology/) · [printable checklist]
 | Linkage vs epistasis | Genes on one chromosome inherited together vs one gene affecting expression of another |
 | Test cross vs F2 cross | Unknown × homozygous recessive vs F1 × F1 |
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-level-biology-9700-inheritance--01-alleles-genotype-phenotype.webp" width="900" height="1080" alt="Three pairs of homologous chromosomes show AA, Aa and aa with the alleles at the same locus; AA and aa are homozygous and Aa heterozygous, and A is dominant. Below, two hydrangea flowers of the same genotype look different in soils of different pH." loading="lazy">
-  <figcaption>Alleles sit at the same locus on homologous chromosomes, and the environment can change the phenotype of one genotype.</figcaption>
-</figure>
-
-
 ### Expected ratios to recognise
 
 | Cross | Expected phenotype ratio |
@@ -171,12 +165,6 @@ Order on the DNA: **promoter → operator → lacZ → lacY → lacA**. The regu
 4. Transcription factors are released, bind to promoters and increase transcription.
 5. Growth proteins are made; stem cells elongate.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-level-biology-9700-inheritance--07-epistasis.webp" width="900" height="1222" alt="Allele A makes the enzyme that turns a colourless precursor into yellow pigment and B the enzyme that turns yellow into red; aa gives white whatever B is, so AaBb by AaBb gives 9 red, 3 yellow and 4 white. Rows of 16 squares show how 12:3:1, 9:7 and 15:1 arise from other gene interactions." loading="lazy">
-  <figcaption>One gene can mask another, merging classes of the 16 boxes.</figcaption>
-</figure>
-
-
 ## Quick self-test
 
 1. A cell with 2n = 12 undergoes meiosis. How many chromosomes are in each cell at the end of telophase I?
@@ -191,6 +179,27 @@ Order on the DNA: **promoter → operator → lacZ → lacY → lacA**. The regu
 10. A person heterozygous for the Huntington's disease allele has a child with a person who does not carry it. What is the probability the child inherits the allele?
 11. A cross expected to give 3 : 1 produces 68 and 32 of 100 offspring. Calculate χ².
 12. What binds to the lac operator when lactose is absent?
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-inheritance--01-alleles-genotype-phenotype.webp" width="900" height="1080" alt="Three pairs of homologous chromosomes show AA, Aa and aa with the alleles at the same locus; AA and aa are homozygous and Aa heterozygous, and A is dominant. Below, two hydrangea flowers of the same genotype look different in soils of different pH." loading="lazy">
+  <figcaption>Alleles sit at the same locus on homologous chromosomes, and the environment can change the phenotype of one genotype.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-inheritance--04-sex-linkage.webp" width="900" height="1000" alt="A carrier mother XHXh and unaffected father XHY give an unaffected girl, a carrier girl, an unaffected boy and an affected boy. One child in four is affected, half the sons and no daughters. In birds, a non-barred male ZbZb crossed with a barred female ZBW gives barred sons and non-barred daughters (AQA and OxfordAQA)." loading="lazy">
+  <figcaption>A son has one X, so one recessive allele shows; the father passes his Y to sons.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-inheritance--05-dihybrid-cross.webp" width="900" height="1110" alt="The 16-box Punnett square for AaDd by AaDd shows 9 purple tall, 3 purple dwarf, 3 green tall and 1 green dwarf plants, a 9 : 3 : 3 : 1 ratio. Purple dwarf has probability 3/4 times 1/4, which is 3/16." loading="lazy">
+  <figcaption>Two genes on different chromosomes assort independently to give 9 : 3 : 3 : 1.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-inheritance--09-continuous-variation.webp" width="900" height="1220" alt="Histograms count the additive alleles in offspring of heterozygous parents: one gene gives 1:2:1, two genes 1:4:6:4:1, three genes 1:6:15:20:15:6:1 and five genes eleven classes. With more genes the bars approach a bell-shaped curve; n genes give 2n + 1 classes." loading="lazy">
+  <figcaption>More genes, plus environment, turn separate steps into a smooth bell-shaped curve.</figcaption>
+</figure>
+
 
 ### Answers
 
@@ -208,13 +217,8 @@ Order on the DNA: **promoter → operator → lacZ → lacY → lacA**. The regu
 12. The **repressor protein** coded by the regulatory gene lacI.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-level-biology-9700-inheritance--04-sex-linkage.webp" width="900" height="1000" alt="A carrier mother XHXh and unaffected father XHY give an unaffected girl, a carrier girl, an unaffected boy and an affected boy. One child in four is affected, half the sons and no daughters. In birds, a non-barred male ZbZb crossed with a barred female ZBW gives barred sons and non-barred daughters (AQA and OxfordAQA)." loading="lazy">
-  <figcaption>A son has one X, so one recessive allele shows; the father passes his Y to sons.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-level-biology-9700-inheritance--05-dihybrid-cross.webp" width="900" height="1110" alt="The 16-box Punnett square for AaDd by AaDd shows 9 purple tall, 3 purple dwarf, 3 green tall and 1 green dwarf plants, a 9 : 3 : 3 : 1 ratio. Purple dwarf has probability 3/4 times 1/4, which is 3/16." loading="lazy">
-  <figcaption>Two genes on different chromosomes assort independently to give 9 : 3 : 3 : 1.</figcaption>
+  <img src="https://img.marlbridge.com/a-level-biology-9700-inheritance--07-epistasis.webp" width="900" height="1222" alt="Allele A makes the enzyme that turns a colourless precursor into yellow pigment and B the enzyme that turns yellow into red; aa gives white whatever B is, so AaBb by AaBb gives 9 red, 3 yellow and 4 white. Rows of 16 squares show how 12:3:1, 9:7 and 15:1 arise from other gene interactions." loading="lazy">
+  <figcaption>One gene can mask another, merging classes of the 16 boxes.</figcaption>
 </figure>
 
 

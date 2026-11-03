@@ -130,6 +130,16 @@ Notation carries marks: **=>** for implies, **<=** for is implied by, and **<=>*
   <figcaption>One case that meets the condition but breaks the conclusion disproves a general claim.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-mathematical-language-set-notation-functions-and--08-infinite-primes.webp" width="900" height="880" alt="Six primes 2 to 13 each leave remainder 1 into N = 30031. N = 59 × 509, two primes not on the list. N need not be prime, only have a prime factor missing from the list." loading="lazy">
+  <figcaption>Multiplying the listed primes and adding 1 always yields a prime factor not on the list.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-mathematical-language-set-notation-functions-and--07-root2-contradiction.webp" width="900" height="830" alt="Assume √2 = p/q in lowest terms. Squaring gives p² = 2q², so p is even, and p = 2r then gives q even. Both are even so they share the factor 2, shown as a Venn overlap, which clashes with lowest terms. So √2 is irrational." loading="lazy">
+  <figcaption>The assumption of lowest terms is what the contradiction clashes with.</figcaption>
+</figure>
+
 
 ## Problem solving
 
@@ -207,3 +217,9 @@ Offering examples as proof of a general statement — examples never prove, thou
 - Set out an unstructured problem with clear notation before solving.
 - State the modelling cycle and the standard assumptions with their consequences.
 - Criticise a model by naming an assumption and its effect on the result.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-mathematical-language-set-notation-functions-and--06-examples-not-proof.webp" width="900" height="860" alt="Four rows of dots, one per n, show each expression is prime until a single failure. 3^n + 2 fails at n = 5 (245), n² + n + 11 at n = 10 (121), 2n² + 11 at n = 11 (253) and n² + n + 41 at n = 40 (1681 = 41²)." loading="lazy">
+  <figcaption>Long runs of examples can still end in a counter-example, so examples are not a proof.</figcaption>
+</figure>
+

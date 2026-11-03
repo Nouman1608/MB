@@ -55,17 +55,6 @@ Helpful extra vocabulary from data tables (not required by the guide): gross pro
 
 Worked reminder: ingested 80, egested 30, respired 35 (all g C m⁻² yr⁻¹). Assimilated = 50. Secondary production = 15. As a percentage of assimilated carbon: 15 ÷ 50 = 30%.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ib-dp-biology-production-and-the-carbon-cycle-primary-and-secondary--01-net-primary-production.webp" width="900" height="900" alt="Two stacked bars compare a woodland and a grassland. In the woodland, 2400 g per square metre per year of carbon is fixed by photosynthesis and 1100 is released by the plants’ own respiration, leaving a net primary production of 1300. In the grassland 900 is fixed and 480 respired, leaving 420. The woodland accumulates 3.1 times more biomass; 54% of fixed carbon is kept in X and 47% in Y." loading="lazy">
-  <figcaption>Net primary production is the carbon fixed minus the plants’ own respiration.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ib-dp-biology-production-and-the-carbon-cycle-primary-and-secondary--02-secondary-production.webp" width="900" height="900" alt="A wide bar shows net primary production of 1300 grams of carbon per square metre per year. Of it, 1040 is not eaten and 260 (20 per cent) is eaten by herbivores. The eaten 260 is expanded in a second bar: 90 is egested as faeces and goes to decomposers, 120 is released as carbon dioxide by herbivore respiration, and 50 becomes new herbivore biomass. 50 is 3.8 per cent of net primary production, so secondary production is much lower than primary production." loading="lazy">
-  <figcaption>Respiration and faeces mean only a small share of net primary production becomes secondary production.</figcaption>
-</figure>
-
-
 ## Carbon cycle diagram: checklist
 
 Stores: CO₂ in air and water, producers, consumers, dead organic matter, decomposers, and (optionally) fossil fuels.
@@ -77,6 +66,16 @@ Processes to label:
 - Decomposition: dead organic matter to decomposers.
 - Cell respiration: every living box, including decomposers, to CO₂.
 - Combustion: biomass and fossil fuels to CO₂.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-production-and-the-carbon-cycle-primary-and-secondary--01-net-primary-production.webp" width="900" height="900" alt="Two stacked bars compare a woodland and a grassland. In the woodland, 2400 g per square metre per year of carbon is fixed by photosynthesis and 1100 is released by the plants’ own respiration, leaving a net primary production of 1300. In the grassland 900 is fixed and 480 respired, leaving 420. The woodland accumulates 3.1 times more biomass; 54% of fixed carbon is kept in X and 47% in Y." loading="lazy">
+  <figcaption>Net primary production is the carbon fixed minus the plants’ own respiration.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-production-and-the-carbon-cycle-primary-and-secondary--02-secondary-production.webp" width="900" height="900" alt="A wide bar shows net primary production of 1300 grams of carbon per square metre per year. Of it, 1040 is not eaten and 260 (20 per cent) is eaten by herbivores. The eaten 260 is expanded in a second bar: 90 is egested as faeces and goes to decomposers, 120 is released as carbon dioxide by herbivore respiration, and 50 becomes new herbivore biomass. 50 is 3.8 per cent of net primary production, so secondary production is much lower than primary production." loading="lazy">
+  <figcaption>Respiration and faeces mean only a small share of net primary production becomes secondary production.</figcaption>
+</figure>
 
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/ib-dp-biology-production-and-the-carbon-cycle-primary-and-secondary--03-carbon-cycle.webp" width="900" height="960" alt="Carbon dioxide in air and water enters producers by photosynthesis. Feeding arrows pass carbon from producers to primary consumers to secondary consumers. Producers and consumers add carbon to dead organic matter through death and faeces; decomposers feed on and digest it. Producers, both consumer levels and decomposers all release carbon dioxide by respiration." loading="lazy">

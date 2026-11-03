@@ -174,6 +174,12 @@ A good evaluation names the factor that matters most for the case in the questio
 11. There may be little spare capacity, or demand for exports and imports may respond slowly or weakly.
 12. The effect depends on spare capacity, price responsiveness, imported inputs and timing. A lower rate also raises import prices.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-floating-exchange-rates--03-fx-spare-capacity.webp" width="900" height="1030" alt="Two AD/AS diagrams with the same rightward AD shift. With a flat SRAS (spare capacity) output rises about 29 and prices about 6; with a steep SRAS (near full capacity) output rises about 13 and prices about 13." loading="lazy">
+  <figcaption>The same rise in AD raises output more when there is spare capacity and prices more near full capacity.</figcaption>
+</figure>
+
+
 ## Where marks are usually lost
 
 - Quoting the rate without saying which currency is the price.
@@ -188,6 +194,11 @@ A good evaluation names the factor that matters most for the case in the questio
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/cambridge-a-level-economics-floating-exchange-rates--06-kora-market.webp" width="900" height="880" alt="Dalos per kora against millions of koras. Demand D = 250 - 75r and supply S = 75r - 50 cross at 2.00 and 100. At 2.40 there is excess supply of 60 so the rate falls; at 1.60 there is excess demand of 60 so the rate rises." loading="lazy">
   <figcaption>The rate settles where demand for and supply of koras are equal.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-floating-exchange-rates--01-fx-convert.webp" width="900" height="790" alt="Two conversion rows with 1 kora = 2.00 dalos. 3,000 dalos divided by 2.00 gives 1,500 koras; 400 koras multiplied by 2.00 gives 800 dalos." loading="lazy">
+  <figcaption>Divide to convert into the currency you are pricing; multiply to convert out of it.</figcaption>
 </figure>
 
 

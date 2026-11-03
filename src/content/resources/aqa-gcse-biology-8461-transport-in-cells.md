@@ -237,6 +237,11 @@ Always give the unit.
   <figcaption>Rate = amount divided by time: 0.36 g in 30 min is 0.012 g/min.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-movement-into-and-out-of-cells--03-osmosis.webp" width="900" height="960" alt="A container split by a membrane with small gaps. Dilute solution (many water molecules, 3 solute particles) on the left, concentrated solution (fewer water molecules, 11 solute particles) on the right. Solute is too big to pass; arrows show water moving to the concentrated side. An Extended card gives the water potential wording: higher on the dilute side, lower on the concentrated side." loading="lazy">
+  <figcaption>Water moves through the membrane from the dilute to the concentrated solution; solute particles cannot pass.</figcaption>
+</figure>
+
 
 ## Required practical activity 3
 
@@ -302,6 +307,11 @@ aerobic respiration slows and mineral ion uptake falls.
   <figcaption>Active transport in roots needs energy from respiration, so waterlogging reduces ion uptake.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-movement-into-and-out-of-cells--06-active-transport.webp" width="900" height="1120" alt="A membrane separates low concentration (top) from high concentration (bottom). Step 1: a particle binds a carrier protein facing the low side. Step 2: energy from respiration changes the carrier and the particle is released on the high side, so it moves against the gradient. Extended: protein carriers, for example ion uptake by root hairs." loading="lazy">
+  <figcaption>Active transport moves particles from low to high concentration using energy from respiration.</figcaption>
+</figure>
+
 
 ## Comparing the three processes
 
@@ -315,6 +325,12 @@ aerobic respiration slows and mineral ion uptake falls.
 
 The trap: osmosis and active transport both go "dilute to concentrated" in terms of the **solution**, but in osmosis
 water moves down its own gradient, while in active transport the solute moves up its gradient.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-movement-into-and-out-of-cells--07-three-processes.webp" width="900" height="1030" alt="Three pictures. Diffusion is passive: particles move from high to low concentration, no energy needed. Osmosis is passive: water moves through a partially permeable membrane, no energy needed. Active transport is active: a carrier moves particles from low to high concentration using energy from respiration." loading="lazy">
+  <figcaption>Diffusion and osmosis are passive; active transport uses energy from respiration to move particles against the gradient.</figcaption>
+</figure>
+
 
 ## Common errors
 

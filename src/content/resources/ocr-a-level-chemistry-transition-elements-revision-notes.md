@@ -210,6 +210,12 @@ You need not recall these equations, but you must be able to build them.
 11. 2Fe³⁺ gives one I₂, so 0.0180 ÷ 2 = 9.00 × 10⁻³ mol
 12. A light brown precipitate that does not dissolve in excess, and darkens on standing in air.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-transition-metals--08-vanadium-oxidation-states.webp" width="900" height="810" alt="Four test tubes show yellow VO2+ (+5), blue VO2+ (+4), green V3+ (+3) and violet V2+ (+2), joined by arrows labelled Zn with E cell values +1.76 V, +1.10 V and +0.50 V. An arrow shows the oxidation state falling from +5 to +2." loading="lazy">
+  <figcaption>Zinc reduces vanadium from +5 to +2 in steps, each with a colour change.</figcaption>
+</figure>
+
+
 ## Where marks are usually lost
 
 - Taking 3d electrons off before 4s, giving Fe²⁺ as [Ar]3d⁴4s².

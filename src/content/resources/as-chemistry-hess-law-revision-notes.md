@@ -156,17 +156,6 @@ Four points that decide the marks:
 
 **Why experimental values are less exothermic than data-book values:** heat loss to the surroundings, incomplete combustion, evaporation of the fuel, heat absorbed by the apparatus, and non-standard conditions. A good answer names two or three and says how each would be reduced — insulation, a lid, a shorter distance between flame and beaker.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ib-dp-chemistry-measuring-enthalpy-changes--04-cup-calorimetry.webp" width="900" height="1040" alt="A lidded polystyrene cup with thermometer holds 45.0 g of acid solution and 0.150 g Mg; temperature rises 14.8 K. Steps: n(Mg) 6.170e-3 mol limiting, Q = 2.784 kJ using the solution mass, DeltaH = -451 kJ per mol." loading="lazy">
-  <figcaption>Use the mass of the solution and the limiting reactant: DeltaH = -Q/n = -451 kJ per mol.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ib-dp-chemistry-measuring-enthalpy-changes--05-fuel-calorimetry.webp" width="900" height="970" alt="A methanol spirit burner under a can of 150.0 g water with thermometer and stirrer. Arrows show heat lost to air; the can warms and soot forms. The measured -566 kJ per mol is compared with the data -726 kJ per mol, 22 percent less exothermic." loading="lazy">
-  <figcaption>Heat losses and incomplete burning make the measured value 22 % less exothermic than the data value.</figcaption>
-</figure>
-
-
 ## Exam traps
 
 - Omitting "one mole" or "standard states" from a definition.
@@ -186,3 +175,14 @@ Four points that decide the marks:
 5. Give three reasons an experimental enthalpy of combustion is less exothermic than the data-book value.
 
 **Answers:** 1. The enthalpy change when one mole of a compound is formed from its elements in their standard states under standard conditions; zero for O₂, as for any element in its standard state. 2. With formation data, ΣΔH_f(products) − ΣΔH_f(reactants); with combustion data, ΣΔH_c(reactants) − ΣΔH_c(products). 3. The mass of water (or solution) being heated, not the mass of fuel. 4. Bond enthalpies are mean values averaged over many different compounds, and apply only to gaseous species. 5. Heat lost to the surroundings, incomplete combustion, evaporation of the fuel, heat absorbed by the apparatus, non-standard conditions — any three.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-measuring-enthalpy-changes--04-cup-calorimetry.webp" width="900" height="1040" alt="A lidded polystyrene cup with thermometer holds 45.0 g of acid solution and 0.150 g Mg; temperature rises 14.8 K. Steps: n(Mg) 6.170e-3 mol limiting, Q = 2.784 kJ using the solution mass, DeltaH = -451 kJ per mol." loading="lazy">
+  <figcaption>Use the mass of the solution and the limiting reactant: DeltaH = -Q/n = -451 kJ per mol.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-measuring-enthalpy-changes--05-fuel-calorimetry.webp" width="900" height="970" alt="A methanol spirit burner under a can of 150.0 g water with thermometer and stirrer. Arrows show heat lost to air; the can warms and soot forms. The measured -566 kJ per mol is compared with the data -726 kJ per mol, 22 percent less exothermic." loading="lazy">
+  <figcaption>Heat losses and incomplete burning make the measured value 22 % less exothermic than the data value.</figcaption>
+</figure>
+

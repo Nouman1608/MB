@@ -51,6 +51,12 @@ A valid probability function has every p(x) between 0 and 1 and a total of exact
 | P(a < X ≤ b) | F(b) − F(a) |
 | p(x) | F(x) − F(x − 1) |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-oxfordaqa-mathematics-bernoulli-and-binomial-distributions--06-binomial-conditions.webp" width="900" height="1000" alt="Four cards show the conditions for B(n, p): a fixed number of trials, two outcomes, independent trials and the same probability p each time. Three failures are listed: cards dealt without replacement, throws until the first six, and rain on following days." loading="lazy">
+  <figcaption>The four conditions, and three situations where the model fails.</figcaption>
+</figure>
+
+
 ### Method: finding an unknown constant
 
 1. Write Σ p(x) = 1 using every value in the table or formula.

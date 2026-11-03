@@ -47,6 +47,11 @@ These three structures are linked to decision-making power and barriers to entry
 Firms **enter** a market where profit opportunity and low barriers exist, and **exit** where losses persist or barriers to survival rise — the strength of competition directly affects both decisions.
 
 <figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-business-business-and-its-environment--04-five-forces.webp" width="900" height="900" alt="Rivalry sits in the centre with arrows from entry threat, substitutes, suppliers and buyers. Strong forces mean low margins; weak forces give firms pricing power." loading="lazy">
+  <figcaption>Five forces are pressures on industry profit that you then apply to the business.</figcaption>
+</figure>
+
+<figure class="topic-figure">
   <img src="https://img.marlbridge.com/a-level-business-business-and-its-environment--05-granthorn-forces.webp" width="900" height="1140" alt="Granthorn market shares give a four-firm ratio of 84 percent; its three biggest buyers take 45 percent of sales. Ratings: rivalry medium, buyer power high, supplier power high, entry threat low, substitute threat low to medium." loading="lazy">
   <figcaption>Calculate what you can, then rate each force with evidence.</figcaption>
 </figure>

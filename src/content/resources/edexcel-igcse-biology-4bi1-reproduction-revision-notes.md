@@ -229,6 +229,11 @@ If an embryo implants, progesterone stays high, the lining is kept, and there is
   <figcaption>FSH and LH act on the ovary, and oestrogen and progesterone feed back to the pituitary.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-reproduction--08-menstrual-cycle.webp" width="900" height="1010" alt="Two graphs over 28 days: the uterus lining is lost on days 1-5, then rebuilt, with ovulation around day 14; Extended sketch of FSH, oestrogen, LH and progesterone, with oestrogen peaking before the LH peak at ovulation and progesterone high afterwards." loading="lazy">
+  <figcaption>Link the lining and hormone changes to the days of the cycle.</figcaption>
+</figure>
+
 
 ## 3.11–3.12 Placenta and amniotic fluid
 
@@ -241,6 +246,12 @@ If an embryo implants, progesterone stays high, the lining is kept, and there is
 Small reminder, a two-mark explanation: "The placenta has many villi, which give a large surface area [1], so more glucose and oxygen diffuse into the embryo's blood per second [1]."
 
 **Amniotic fluid:** shock absorber; supports and cushions the embryo against knocks; lets it move.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-reproduction--07-placenta-exchange.webp" width="900" height="1200" alt="The fetus in an amniotic sac inside the uterus, joined by the umbilical cord to the placenta. Extended panel: oxygen, glucose and amino acids pass from mother to fetus and carbon dioxide and urea the other way without the bloods mixing; some viruses and nicotine can cross." loading="lazy">
+  <figcaption>Show what the placenta does and what crosses it.</figcaption>
+</figure>
+
 
 ## 3.13 Secondary sexual characteristics
 

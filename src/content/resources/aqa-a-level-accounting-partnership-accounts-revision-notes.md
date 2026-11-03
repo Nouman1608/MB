@@ -77,12 +77,6 @@ Apply only where there is no agreement (or the agreement is silent):
 | Residual profit share | Appropriation account | Credited (a loss is debited) |
 | Drawings | Current account (debit) | Not in the appropriation account |
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/aqa-a-level-accounting-partnership-accounts--02-loan-interest-vs-appropriation.webp" width="900" height="930" alt="Profit before loan interest of 84,900 pounds has 900 pounds of partner loan interest deducted as an expense, leaving 84,000 pounds. That profit passes to the appropriation account, whose items (interest on capital, salary, residual shares) are shares of profit, with interest on drawings added." loading="lazy">
-  <figcaption>Loan interest is an expense before profit; salaries and interest on capital are shares of profit after it.</figcaption>
-</figure>
-
-
 ## Method in steps: appropriation account
 
 ```
@@ -151,12 +145,6 @@ The new partner pays for the share of goodwill gained, and the old partners who 
 
 **Retiring partner.** Amount due = capital + current account credit balance (or minus a debit balance) + revaluation share + goodwill share. Anything not paid in cash becomes a loan, shown as a liability.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/aqa-a-level-accounting-partnership-accounts--05-goodwill-admission.webp" width="900" height="900" alt="Goodwill of 20,000 pounds is created in the old ratio 3:2 (Fox 12,000, Gale 8,000) and written off in the new ratio 2:2:1 (Fox 8,000, Gale 8,000, Hart 4,000), so net Fox gains 4,000 pounds, Gale nil and Hart loses 4,000 pounds." loading="lazy">
-  <figcaption>Creating goodwill in the old ratio and writing it off in the new ratio makes the new partner pay for it.</figcaption>
-</figure>
-
-
 ## Commenting on partnership statements
 
 - Compare each partner's total share (salary + interest + residual) with the capital and work they contribute.
@@ -175,12 +163,6 @@ The new partner pays for the share of goodwill gained, and the old partners who 
 | Old ratio vs new ratio | Old for revaluation and creating goodwill; new for writing goodwill off. |
 | Goodwill kept vs not kept | Kept: shown as a non-current asset. Not kept: created then written off, closing to nil. |
 | Admission vs retirement | Admission: new partner brings capital. Retirement: retiring partner is paid in cash or left as a loan. |
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/aqa-a-level-accounting-partnership-accounts--07-retirement-of-partner.webp" width="900" height="1000" alt="Kemp is owed 36,200 pounds (capital 25,000, current account 3,200, revaluation 2,000, goodwill 6,000). He receives 10,000 pounds in cash and 26,200 pounds is left as a loan, a liability of the firm. Irwin and Jay close at 46,600 and 28,400 pounds." loading="lazy">
-  <figcaption>A retiring partner is paid what is due in cash; the rest left in becomes a loan.</figcaption>
-</figure>
-
 
 ## Quick self-test
 
@@ -211,8 +193,23 @@ The new partner pays for the share of goodwill gained, and the old partners who 
 11. The partner has drawn more than the opening balance plus everything credited for the year.
 
 <figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-partnership-accounts--02-loan-interest-vs-appropriation.webp" width="900" height="930" alt="Profit before loan interest of 84,900 pounds has 900 pounds of partner loan interest deducted as an expense, leaving 84,000 pounds. That profit passes to the appropriation account, whose items (interest on capital, salary, residual shares) are shares of profit, with interest on drawings added." loading="lazy">
+  <figcaption>Loan interest is an expense before profit; salaries and interest on capital are shares of profit after it.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-partnership-accounts--05-goodwill-admission.webp" width="900" height="900" alt="Goodwill of 20,000 pounds is created in the old ratio 3:2 (Fox 12,000, Gale 8,000) and written off in the new ratio 2:2:1 (Fox 8,000, Gale 8,000, Hart 4,000), so net Fox gains 4,000 pounds, Gale nil and Hart loses 4,000 pounds." loading="lazy">
+  <figcaption>Creating goodwill in the old ratio and writing it off in the new ratio makes the new partner pay for it.</figcaption>
+</figure>
+
+<figure class="topic-figure">
   <img src="https://img.marlbridge.com/aqa-a-level-accounting-partnership-accounts--06-admission-closing-capitals.webp" width="900" height="860" alt="Fox closes at 51,800 pounds (40,000 old capital, 7,800 revaluation, 4,000 net goodwill), Gale at 35,200 pounds, and Hart at 21,000 pounds after paying 25,000 pounds of cash of which 4,000 effectively buys goodwill. Total capital is 108,000 pounds." loading="lazy">
   <figcaption>Closing capitals are old capital plus revaluation share plus net goodwill, and total old capitals plus cash plus revaluation profit.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-partnership-accounts--07-retirement-of-partner.webp" width="900" height="1000" alt="Kemp is owed 36,200 pounds (capital 25,000, current account 3,200, revaluation 2,000, goodwill 6,000). He receives 10,000 pounds in cash and 26,200 pounds is left as a loan, a liability of the firm. Irwin and Jay close at 46,600 and 28,400 pounds." loading="lazy">
+  <figcaption>A retiring partner is paid what is due in cash; the rest left in becomes a loan.</figcaption>
 </figure>
 
 

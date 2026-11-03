@@ -168,6 +168,12 @@ Magnification = image size ÷ actual size. A drawing of 36 mm for a mouthpart of
 - **Fundamental or realized.** Fundamental is what the species could use. Realized is what it does use because of competitors.
 - **Elimination or restriction.** In elimination one species disappears. In restriction both persist in part of their fundamental niche.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-ecological-niches-nutrition-feeding-adaptations-and--07-toxin.webp" width="900" height="990" alt="Three plant defences are shown: spines and thorns, tough cuticle and hairs, toxins such as alkaloids and tannins. A dot plot gives percentage of leaf area eaten: low-toxin plants 18, 25, 12, 30, 22 (mean 21.4) and high-toxin plants 4, 6, 3, 8, 5 (mean 5.2), a reduction of 75.7 percent with no overlap in ranges." loading="lazy">
+  <figcaption>Plants with high toxin content lose far less leaf area, so toxins protect the plant.</figcaption>
+</figure>
+
+
 ## Method boxes
 
 **Explaining an adaptation.** Name the feature, say what it does, then link it to survival or feeding. Example: a stylet reaches phloem, so the aphid obtains sugar-rich sap without chewing tough tissue.

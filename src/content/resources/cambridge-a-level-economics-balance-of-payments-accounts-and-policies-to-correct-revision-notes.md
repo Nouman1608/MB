@@ -59,11 +59,6 @@ Country L: goods −18, services +9, primary income −4, secondary income +2. C
   <figcaption>Every transaction has two sides, so the accounts sum to zero.</figcaption>
 </figure>
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/cambridge-a-level-economics-balance-of-payments-accounts-and-policies-to-correct--02-bop-deficit-funding.webp" width="900" height="950" alt="A deficit of 23 is matched by a financial account inflow of 22 made of direct investment 9, portfolio investment 7, other investment 3 and reserves 3. Direct investment is stable; portfolio flows can reverse and reserves are finite." loading="lazy">
-  <figcaption>The source of finance matters as much as the size of the deficit.</figcaption>
-</figure>
-
 
 ## 11.1.2: policies and their routes
 
@@ -207,6 +202,12 @@ Finish with a judgement that names a condition, such as "if the elasticities are
 8. A higher rate attracts hot money, which raises the exchange rate and so makes exports dearer and imports cheaper. This can offset the fall in import spending from lower demand.
 9. Hot money can leave quickly if rates or confidence change, forcing a sharp fall in the currency or reserves. Direct investment is long term and adds capacity.
 10. Trade may be inelastic (the sum of the elasticities is too low), or the effect may come slowly because of the J curve, or imported inflation may erode the gain.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-balance-of-payments-accounts-and-policies-to-correct--02-bop-deficit-funding.webp" width="900" height="950" alt="A deficit of 23 is matched by a financial account inflow of 22 made of direct investment 9, portfolio investment 7, other investment 3 and reserves 3. Direct investment is stable; portfolio flows can reverse and reserves are finite." loading="lazy">
+  <figcaption>The source of finance matters as much as the size of the deficit.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

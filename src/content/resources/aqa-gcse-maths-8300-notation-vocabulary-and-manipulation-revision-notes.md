@@ -100,6 +100,12 @@ Unfamiliar formulae are given in the question. The specification lists the kinem
 
 Deal with the numbers first, then each letter. 6x⁵ × 4x² = 24x⁷: multiply 6 × 4, add the powers 5 + 2. Zero and negative indices are additional foundation content (N7); fractional indices are Higher tier only (N7).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-algebraic-fractions-and-indices-ii--01-index-rules-tiles.webp" width="900" height="1070" alt="Tiles each represent one factor of x. x^3 times x^2 is five tiles, x^5. x^5 divided by x^2 cancels two pairs leaving x^3. (x^2)^3 is three groups of two tiles, x^6." loading="lazy">
+  <figcaption>Multiply adds indices, divide subtracts, power of a power multiplies.</figcaption>
+</figure>
+
+
 ### Method: expanding two binomials
 
 1. First × first, first × second, second × first, second × second.
@@ -186,6 +192,22 @@ Expand any two brackets, simplify, then multiply each term of the result by the 
 
 Cancel **factors** (whole brackets), never single terms.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-algebraic-fractions-and-indices-ii--05-cancel-algebraic-fraction.webp" width="900" height="1130" alt="(2x^2+5x-3)/(4x^2-1) factorises to (2x-1)(x+3) over (2x-1)(2x+1); cancelling (2x-1) leaves (x+3)/(2x+1), checked at x=5 as 8/11. Terms that are added, such as x^2 in (x^2+3)/(x^2-1), cannot be cancelled." loading="lazy">
+  <figcaption>Factorise, then cancel whole brackets only.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/algebraic-manipulation--05-cancel-factors-graph.webp" width="900" height="1060" alt="The fraction factorises to x(x minus 2) over (x minus 2)(x minus 3), which cancels to x over (x minus 3), x not 2 or 3. The graph of x over (x minus 3) has dashed lines at x = 3 and y = 1; the original fraction has the same graph with an open circle gap at (2, minus 2)." loading="lazy">
+  <figcaption>Cancelling a common factor gives the same graph, except the original has a gap where the factor was zero.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-algebraic-fractions-and-indices-ii--06-common-denominator.webp" width="900" height="1020" alt="Bars of twelve cells show 1/4 = 3/12 and 1/6 = 2/12. Then 3(2x+1)-2(x-3) = 6x+3-2x+6 = 4x+9, so the answer is (4x+9)/12." loading="lazy">
+  <figcaption>Rewrite over the common denominator, then combine numerators carefully.</figcaption>
+</figure>
+
+
 ### Surds inside brackets
 
 Expand as normal and use √k × √k = k. Collect whole numbers together and surd terms together.
@@ -236,6 +258,22 @@ Both tiers: a function machine turns an input into an output. Reverse a machine 
 | gf(x) | f first, then g | Put f(x) into g |
 
 fg(x) and gf(x) are usually different.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-functions--01-function-machine.webp" width="900" height="1030" alt="A function machine for f(x) = 3x minus 5. The input 4 is multiplied by 3 to give 12, then 5 is subtracted to give 7. Putting 2a in the brackets gives 6a and then 6a minus 5. Whatever is in the brackets replaces x." loading="lazy">
+  <figcaption>Whatever goes in the brackets replaces x in the rule.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-functions--04-inverse-machine.webp" width="900" height="810" alt="The same four numbers 5, 10, 3, 1 in two rows. f multiplies by 2, subtracts 7, divides by 3, taking 5 to 1. The inverse runs right to left and undoes each step in reverse order: times 3, add 7, divide by 2, taking 1 back to 5." loading="lazy">
+  <figcaption>The inverse undoes each step of f in the reverse order.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-functions--06-composite-order.webp" width="900" height="840" alt="With f(x) = 3x minus 1 and g(x) = x squared plus 4, starting from 2: fg(2) applies g first to give 8 then f to give 23; gf(2) applies f first to give 5 then g to give 29. So fg(x) = 3x squared plus 11 and gf(x) = 9x squared minus 6x plus 5 differ." loading="lazy">
+  <figcaption>In gf(x) the function nearest x acts first, so fg(x) and gf(x) usually differ.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 

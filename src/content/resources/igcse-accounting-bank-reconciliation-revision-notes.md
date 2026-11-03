@@ -175,12 +175,6 @@ If this had started from the cash book instead, the signs would reverse and the 
 - Giving only one effect of digital payments when the question asks for two.
 - Writing "the bank made a mistake" with no statement of what happens to the cash book or to the statement balance.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-accounting-bank-reconciliation--01-bank-tick-off.webp" width="900" height="850" alt="Larkhaven Garden Supplies lines are sorted by where they appear. Cheque 0422 and the 1,740 deposit are only in the cash book (timing, reconciliation only). The credit transfer, standing order, direct debit, interest and charges are only on the statement (enter in cash book). Cheque 0421 (351 v 315) is a cash book error and cheque 0431 (85) is a bank error." loading="lazy">
-  <figcaption>Tick off first: each unmatched line needs a different action.</figcaption>
-</figure>
-
-
 ## Quick self-test
 
 1. On which side of the cash book are bank charges entered?
@@ -206,6 +200,12 @@ If this had started from the cash book instead, the signs would reverse and the 
 8. Debit the cash book with 450, because the payment was overstated by 720 − 270.
 9. Any two of: faster clearing and fewer timing differences; more frequent checking; software matching; errors and duplicates found sooner. Items such as charges and direct debits still need entering.
 10. It is produced independently of the business, so it can reveal omissions, errors and unauthorised payments.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-accounting-bank-reconciliation--01-bank-tick-off.webp" width="900" height="850" alt="Larkhaven Garden Supplies lines are sorted by where they appear. Cheque 0422 and the 1,740 deposit are only in the cash book (timing, reconciliation only). The credit transfer, standing order, direct debit, interest and charges are only on the statement (enter in cash book). Cheque 0421 (351 v 315) is a cash book error and cheque 0431 (85) is a bank error." loading="lazy">
+  <figcaption>Tick off first: each unmatched line needs a different action.</figcaption>
+</figure>
+
 
 ## Official syllabus
 

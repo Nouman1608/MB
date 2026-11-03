@@ -204,6 +204,12 @@ Typical order: react → distil off crude product → wash in separating funnel 
 
 Go back to the [study guide](/resources/edexcel-ial-chemistry-alcohols/) for any answer you got wrong, then work through the [practice questions](/resources/edexcel-ial-chemistry-alcohols-practice/) under timed conditions.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-alcohols--02-fermentation.webp" width="900" height="1020" alt="Glucose with yeast in a flask at about 35 degrees C with air excluded, CO2 bubbling out through an airlock, then fractional distillation where ethanol (78 degrees C) leaves the top and water stays behind. The equation C6H12O6 -&gt; 2C2H5OH + 2CO2 is shown." loading="lazy">
+  <figcaption>Fermentation needs yeast, about 35 degrees C and no air, followed by fractional distillation.</figcaption>
+</figure>
+
+
 ## Official syllabus
 
 Pearson Edexcel International Advanced Subsidiary/Advanced Level in Chemistry (XCH11/YCH11), Specification, Issue 1, September 2017, Pearson Education Limited. Topic 10: Organic Chemistry: Halogenoalkanes, Alcohols and Spectra, part 10C: Alcohols (outcomes 10.15 to 10.20, Core Practical 7).

@@ -122,6 +122,12 @@ The business environment changes continuously: customer tastes, technology, comp
 
 Common causes of failure: weak planning, too little finance or poor cash control, costs above revenue, strong competition, poor management, and failing to adapt to change. Common causes of success: meeting a real customer need, good control of cash and costs, effective management, a clear difference from competitors, and adapting as conditions change. In an exam, tie the cause to the figures or facts in the case rather than listing causes.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/enterprise-business-growth-and-size--08-new-business-risk.webp" width="900" height="1000" alt="Example with invented numbers. A new business with $20m capital and an established one with $100m both lose $30m early. The new firm is $10m short and fails; the established one keeps $70m. New firms have less capital, market knowledge, customers and experience." loading="lazy">
+  <figcaption>The same early loss can finish a new business but not an established one.</figcaption>
+</figure>
+
+
 ### Local, national, international and multinational businesses
 
 | Type | Standard distinction |
@@ -206,6 +212,11 @@ A cautious reader tests the assumption. If orders are 25% lower, they fall to 90
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/enterprise-business-growth-and-size--01-starting-a-business.webp" width="900" height="1040" alt="An entrepreneur takes the financial risk of starting a business and writes a business plan. The plan sets out the idea and objectives, target market, financing and forecast costs, revenue and profit. It tests the idea, persuades lenders and gives a benchmark. Governments support start-ups with grants, training schemes, low-interest loans and advice." loading="lazy">
   <figcaption>An entrepreneur writes a business plan, and governments often support start-ups.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-business-business-in-the-real-world--03-business-plan.webp" width="900" height="760" alt="A business plan with five parts: the idea, target market, marketing, objectives and financial forecasts covering start-up costs, sales and cash flow. Arrows lead to its two readers. Lenders and investors judge viability and risk; the entrepreneur spots costly mistakes before spending money." loading="lazy">
+  <figcaption>A plan helps secure finance and reduces the entrepreneur’s own risk of costly mistakes.</figcaption>
 </figure>
 
 

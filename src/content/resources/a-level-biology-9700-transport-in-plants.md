@@ -71,12 +71,6 @@ Good drawing practice also means:
 
 Before you draw, look at the whole section. Estimate what fraction of the diameter each layer takes up, then keep those proportions.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-level-biology-9700-transport-in-plants--01-plan-diagrams.webp" width="900" height="1090" alt="Three plan diagrams of herbaceous dicot sections. Stem: a ring of vascular bundles near the outside, xylem towards the centre and phloem towards the outside in each. Root: a central xylem star with phloem groups between the arms, inside the endodermis. Leaf: midrib bundle with xylem on the upper side and phloem on the lower side, plus small veins." loading="lazy">
-  <figcaption>Plan diagrams show tissue distribution only: xylem inside phloem in stems, a central xylem star in roots, xylem above phloem in leaves.</figcaption>
-</figure>
-
-
 ## 7.1 Structure related to function
 
 ### Xylem vessel elements
@@ -90,6 +84,12 @@ Xylem vessel elements are joined end to end to form **xylem vessels**, which car
 | Walls thickened with **lignin** | Strengthens the vessel so it does not collapse under tension; also waterproofs it |
 | **Pits** (unlignified areas in the wall) | Let water move sideways into and out of neighbouring vessels and cells |
 | Narrow lumen | Water adheres to the walls, which helps the column move |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-transport-in-plants--02-xylem-phloem-cells.webp" width="900" height="960" alt="A xylem vessel is a hollow tube of dead cells with thick lignified walls, lost end walls, an empty lumen and pits for sideways water movement. A phloem sieve tube element is living but has no nucleus and a thin cytoplasm lining, with a sieve plate to the next element; a companion cell with a nucleus, dense cytoplasm and many mitochondria is joined to it by plasmodesmata." loading="lazy">
+  <figcaption>Xylem vessels are dead, hollow and lignified; sieve tubes are living but emptied, supported by a companion cell.</figcaption>
+</figure>
+
 
 ### Phloem sieve tube elements and companion cells
 
@@ -129,8 +129,8 @@ vessel = 35 × 4 = 140 µm
 Recalibrate at every objective lens. The value of 1 epu changes with magnification.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-level-biology-9700-transport-in-plants--02-xylem-phloem-cells.webp" width="900" height="960" alt="A xylem vessel is a hollow tube of dead cells with thick lignified walls, lost end walls, an empty lumen and pits for sideways water movement. A phloem sieve tube element is living but has no nucleus and a thin cytoplasm lining, with a sieve plate to the next element; a companion cell with a nucleus, dense cytoplasm and many mitochondria is joined to it by plasmodesmata." loading="lazy">
-  <figcaption>Xylem vessels are dead, hollow and lignified; sieve tubes are living but emptied, supported by a companion cell.</figcaption>
+  <img src="https://img.marlbridge.com/a-level-biology-9700-transport-in-plants--01-plan-diagrams.webp" width="900" height="1090" alt="Three plan diagrams of herbaceous dicot sections. Stem: a ring of vascular bundles near the outside, xylem towards the centre and phloem towards the outside in each. Root: a central xylem star with phloem groups between the arms, inside the endodermis. Leaf: midrib bundle with xylem on the upper side and phloem on the lower side, plus small veins." loading="lazy">
+  <figcaption>Plan diagrams show tissue distribution only: xylem inside phloem in stems, a central xylem star in roots, xylem above phloem in leaves.</figcaption>
 </figure>
 
 

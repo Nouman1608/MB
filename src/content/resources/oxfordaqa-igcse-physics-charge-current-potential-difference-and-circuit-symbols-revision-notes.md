@@ -52,12 +52,6 @@ E = Q V = (I t) V
 
 Unit prefixes to recall: 1 mA = 0.001 A, 1 ms = 0.001 s, 1 kJ = 1000 J, 1 minute = 60 s and 1 hour = 3600 s.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/oxfordaqa-igcse-physics-charge-current-potential-difference-and-circuit-symbols--12-charge-flow-q-equals-it.webp" width="900" height="930" alt="1 A is 1 C per second. For 0.45 A the Q-t graph is a straight line, giving 94.5 C at 210 s (3.5 minutes)." loading="lazy">
-  <figcaption>Charge = current x time, with time in seconds.</figcaption>
-</figure>
-
-
 ## Method in steps
 
 1. Write the quantity you want and list the data.
@@ -128,6 +122,12 @@ Buzzer transfers = 240 - 100 = 140 J, so V = 140 / 40 = 3.5 V
 ```
 
 **Reading thermistor data.** A thermistor on a fixed supply carries 8.0 mA at 25 °C and 26 mA at 55 °C. The current rises, so the resistance falls. In 5.0 minutes at 55 °C, Q = 0.026 × 300 = 7.8 C.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-physics-charge-current-potential-difference-and-circuit-symbols--03-energy-per-coulomb.webp" width="900" height="1000" alt="12 V battery drives 20 C through a lamp (7.5 V, 150 J) and a motor (4.5 V, 90 J) in series; battery supplies 240 J." loading="lazy">
+  <figcaption>Energy supplied by the battery is shared between components.</figcaption>
+</figure>
+
 
 ## Circuit symbols
 
@@ -229,8 +229,8 @@ Buzzer transfers = 240 - 100 = 140 J, so V = 140 / 40 = 3.5 V
 11. The **long thin line**.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/oxfordaqa-igcse-physics-charge-current-potential-difference-and-circuit-symbols--03-energy-per-coulomb.webp" width="900" height="1000" alt="12 V battery drives 20 C through a lamp (7.5 V, 150 J) and a motor (4.5 V, 90 J) in series; battery supplies 240 J." loading="lazy">
-  <figcaption>Energy supplied by the battery is shared between components.</figcaption>
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-physics-charge-current-potential-difference-and-circuit-symbols--12-charge-flow-q-equals-it.webp" width="900" height="930" alt="1 A is 1 C per second. For 0.45 A the Q-t graph is a straight line, giving 94.5 C at 210 s (3.5 minutes)." loading="lazy">
+  <figcaption>Charge = current x time, with time in seconds.</figcaption>
 </figure>
 
 

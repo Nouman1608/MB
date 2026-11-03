@@ -146,6 +146,11 @@ X stops growth, so it is bacteriostatic. Y reduces the number of living cells, s
 Mutation produces a resistant bacterium by chance. The antibiotic kills the sensitive bacteria, so the resistant ones reproduce with less competition. Resistance alleles pass to offspring and, by plasmids, to other bacteria. Methicillin-resistant Staphylococcus aureus (MRSA) is an example.
 
 <figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-immunity--01-bacterium-vs-virus.webp" width="900" height="1070" alt="A bacterium is a living prokaryotic cell with a cell wall, ribosomes, a circular chromosome and plasmids. HIV is not a cell: it has an envelope carrying glycoproteins, a protein capsid, two RNA copies and enzymes such as reverse transcriptase. HIV is about 120 nm across and a bacterium about 17 times longer." loading="lazy">
+  <figcaption>A bacterium is a cell; HIV is a particle with RNA, enzymes, a capsid and an envelope.</figcaption>
+</figure>
+
+<figure class="topic-figure">
   <img src="https://img.marlbridge.com/a-level-biology-9700-immunity--09-antibiotic-resistance.webp" width="900" height="1150" alt="Four panels. A chance mutation makes one bacterium in 20 resistant; the antibiotic kills the 19 susceptible ones; the survivor divides to 16 cells in four generations; plasmids can pass the resistance gene to other bacteria." loading="lazy">
   <figcaption>The antibiotic selects for resistant bacteria, which then multiply and share the gene.</figcaption>
 </figure>

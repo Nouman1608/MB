@@ -202,12 +202,6 @@ A simple lever is a bar that turns about a pivot. Effort × distance from pivot 
 
 Examples: crowbar, wheelbarrow, nutcracker.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/oxfordaqa-igcse-physics-terminal-velocity-centre-of-mass-moments-and-levers--02-crowbar-force-multiplier.webp" width="900" height="930" alt="A crowbar with the load 0.15 m and the 80 N effort 1.20 m from the pivot. 80 x 1.20 = 96 N m, so the load is 640 N: the force is multiplied by 8 and the effort end moves 8 times as far." loading="lazy">
-  <figcaption>A long effort distance and a short load distance multiply the force.</figcaption>
-</figure>
-
-
 ## Quick self-test
 
 1. State what happens to drag as the speed of an object in a fluid increases.
@@ -235,6 +229,12 @@ Examples: crowbar, wheelbarrow, nutcracker.
 9. Anticlockwise = 120 × 0.50 = 60 N m. F = 60 ÷ 0.80 = 75 N.
 10. When the line of action of its weight lies outside its base.
 11. Load = 40 × 0.90 ÷ 0.15 = 240 N.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-physics-terminal-velocity-centre-of-mass-moments-and-levers--02-crowbar-force-multiplier.webp" width="900" height="930" alt="A crowbar with the load 0.15 m and the 80 N effort 1.20 m from the pivot. 80 x 1.20 = 96 N m, so the load is 640 N: the force is multiplied by 8 and the effort end moves 8 times as far." loading="lazy">
+  <figcaption>A long effort distance and a short load distance multiply the force.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

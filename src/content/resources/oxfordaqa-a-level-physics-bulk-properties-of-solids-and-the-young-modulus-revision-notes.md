@@ -85,6 +85,12 @@ The ½kΔL² form only works when F = kΔL holds. For a non-linear graph, use th
 4. Plot extension against force. Gradient = L/(EA).
 5. E = L/(A × gradient). The diameter gives the largest percentage uncertainty because A depends on d².
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/as-physics-deformation-of-solids--06-measuring-young-modulus.webp" width="900" height="1215" alt="A long thin wire is loaded in equal steps while a marker moves along a fixed scale; the diameter is measured with a micrometer. The extension-force gradient 4.3e-4 m/N gives E = L / (A x gradient) = 1.96e11 Pa." loading="lazy">
+  <figcaption>Measure L, d and the extensions, plot extension against force, and use E = L / (A x gradient).</figcaption>
+</figure>
+
+
 ## Worked reminders
 
 **Reminder 1.** Stress 4.5 × 10⁸ Pa with strain 2.5 × 10⁻³ gives E = 4.5 × 10⁸ / 2.5 × 10⁻³ = 1.8 × 10¹¹ Pa.
@@ -142,12 +148,6 @@ For a metal such as copper, describe the curve in order. The line is straight an
 - **Area between loading and unloading lines:** energy transferred to internal energy of the material, not recovered.
 - **Straight line ending at fracture:** brittle behaviour.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/as-physics-deformation-of-solids--04-loading-unloading.webp" width="900" height="960" alt="Loading a metal strip to 36 N at 0.100 m does 2.08 J of work. Unloading runs parallel to the first line and reaches zero force at 0.028 m, the permanent extension. 1.30 J is recovered and 0.78 J is dissipated as heat." loading="lazy">
-  <figcaption>After plastic deformation the unloading line is parallel to the first line, leaving a permanent extension and wasted energy.</figcaption>
-</figure>
-
-
 ## Quick self-test
 
 1. A block of volume 3.2 × 10⁻⁴ m³ has mass 0.88 kg. Find its density.
@@ -177,6 +177,11 @@ For a metal such as copper, describe the curve in order. The line is straight an
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/as-physics-deformation-of-solids--02-force-extension-graph.webp" width="900" height="960" alt="Force against extension for a stiff spring (gradient 160 N/m) and a softer one (80 N/m). The stiff spring is straight to its limit of proportionality at 0.07 m and 11.2 N, then curves." loading="lazy">
   <figcaption>The gradient of a force-extension graph is the spring constant; a steeper line is a stiffer spring.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/as-physics-deformation-of-solids--04-loading-unloading.webp" width="900" height="960" alt="Loading a metal strip to 36 N at 0.100 m does 2.08 J of work. Unloading runs parallel to the first line and reaches zero force at 0.028 m, the permanent extension. 1.30 J is recovered and 0.78 J is dissipated as heat." loading="lazy">
+  <figcaption>After plastic deformation the unloading line is parallel to the first line, leaving a permanent extension and wasted energy.</figcaption>
 </figure>
 
 

@@ -64,6 +64,11 @@ The [study guide](/resources/ocr-gcse-chemistry-properties-of-materials/) explai
   <figcaption>Graphite has layers held by weak forces and delocalised electrons that conduct.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-chemistry-4ch1-ionic-covalent-and-metallic-bonding--06-c60-fullerene.webp" width="900" height="920" alt="A C60 fullerene molecule drawn from computed coordinates is a hollow ball of 60 carbon atoms made of 20 hexagons and 12 pentagons, each carbon bonded to three others. Below, two separate C60 molecules are held to each other only by weak forces, so the substance is soft and conducts poorly, unlike diamond whose atoms form a giant covalent network." loading="lazy">
+  <figcaption>C60 is made only of carbon but is simple molecular, not a giant structure.</figcaption>
+</figure>
+
 
 ## C2.3d: changes of state
 
@@ -148,6 +153,12 @@ Watch negative numbers. −50 °C is **higher** than −120 °C. A substance wit
 3. State "about ... times larger", with the number to a sensible precision.
 
 **Small reminder.** A particle 16.8 nm across, atoms 0.28 nm across: 16.8 ÷ 0.28 = **60 atoms** across.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-chemistry-properties-of-materials--01-mp-che-16-nano-scale.webp" width="900" height="980" alt="A logarithmic size line from 0.1 nm to 1 mm. An atom is about 0.2 nm across, C60 about 1 nm, nanoparticles 1 to 100 nm, and a salt grain 1 mm. A 32 nm particle is 3.2 x 10^-8 m, about 160 atoms across, and 31 250 times narrower than a 1 mm grain." loading="lazy">
+  <figcaption>Nanoparticles sit between atoms and everything you can see.</figcaption>
+</figure>
+
 
 ## C2.3h: surface area to volume
 

@@ -37,6 +37,12 @@ Test yourself afterwards with the [Qualitative analysis practice questions](/res
 
 Limewater equation: Ca(OH)₂(aq) + CO₂(g) → CaCO₃(s) + H₂O(l).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-reactions-of-ions-in-aqueous-solution--02-deprotonation-ladder.webp" width="900" height="970" alt="Two rows of hexa-aqua complexes with six ligand circles. Water ligands (teal) become hydroxide ligands (gold) one at a time, each step removing H+ and lowering the charge by 1. A 2+ ion reaches charge 0 after two steps and a 3+ ion after three; the neutral complex is the precipitate." loading="lazy">
+  <figcaption>A complex that has lost enough H+ to reach zero charge is no longer attracted to water and precipitates.</figcaption>
+</figure>
+
+
 ## Silver halides and ammonia
 
 | Precipitate | Dilute NH₃(aq) | Concentrated NH₃(aq) |
@@ -149,12 +155,6 @@ The assessment overview places Module 3 in component 01, Periodic table, element
 - **Same sample vs fresh sample.** The anion tests run in sequence on one acidified solution; the NH₄⁺ test needs a fresh portion, since NaOH would precipitate or neutralise what the other tests rely on.
 - **Observation vs inference.** "Yellow precipitate" is seen; "iodide present" is deduced.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-reactions-of-ions-in-aqueous-solution--04-amphoteric-aluminium.webp" width="900" height="940" alt="A tube of white aluminium hydroxide precipitate sits in the centre. With acid it dissolves to colourless [Al(H2O)6]3+, and with excess hydroxide it dissolves to colourless [Al(OH)4]-. A second row shows that excess ammonia leaves the precipitate unchanged because ammonia is too weak a base." loading="lazy">
-  <figcaption>Aluminium hydroxide dissolves in acid and in excess alkali, but not in excess ammonia.</figcaption>
-</figure>
-
-
 ## Quick self-test
 
 1. Name the reagent, and the observation, that confirm the gas from a carbonate test is CO₂.
@@ -186,8 +186,18 @@ The assessment overview places Module 3 in component 01, Periodic table, element
 12. Silver iodide, AgI. Add concentrated aqueous ammonia: the precipitate does not dissolve, which confirms iodide rather than bromide.
 
 <figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-reactions-of-ions-in-aqueous-solution--04-amphoteric-aluminium.webp" width="900" height="940" alt="A tube of white aluminium hydroxide precipitate sits in the centre. With acid it dissolves to colourless [Al(H2O)6]3+, and with excess hydroxide it dissolves to colourless [Al(OH)4]-. A second row shows that excess ammonia leaves the precipitate unchanged because ammonia is too weak a base." loading="lazy">
+  <figcaption>Aluminium hydroxide dissolves in acid and in excess alkali, but not in excess ammonia.</figcaption>
+</figure>
+
+<figure class="topic-figure">
   <img src="https://img.marlbridge.com/aqa-a-level-chemistry-reactions-of-ions-in-aqueous-solution--05-carbonate-tests.webp" width="900" height="1005" alt="Two panels add carbonate ions to a tube. M2+ ions (Fe2+, Cu2+) are weakly acidic and give a metal carbonate precipitate with no gas. M3+ ions (Fe3+, Al3+) give H+ to carbonate, so the tube fizzes with CO2 and a metal hydroxide precipitate forms. The balanced aluminium equation is shown." loading="lazy">
   <figcaption>3+ ions are acidic enough to turn carbonate into CO2, leaving a hydroxide; 2+ ions simply precipitate the carbonate.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-reactions-of-ions-in-aqueous-solution--09-mn-cr-tests.webp" width="900" height="770" alt="A grid of tubes for the two extra OCR ions. Mn2+ (very pale pink) gives a light brown precipitate with NaOH or NH3 that does not dissolve in excess and darkens in air. Cr3+ (violet) gives a grey-green precipitate that dissolves in excess NaOH to a dark green solution and in excess NH3 to a purple solution." loading="lazy">
+  <figcaption>OCR adds Mn2+ and Cr3+; only Cr(OH)3 dissolves in excess NaOH, and Cr(OH)3 dissolves in excess NH3 too.</figcaption>
 </figure>
 
 

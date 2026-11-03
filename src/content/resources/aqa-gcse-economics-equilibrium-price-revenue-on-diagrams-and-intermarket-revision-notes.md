@@ -93,6 +93,16 @@ If both curves shift, one of price or quantity is certain. In the two reminders 
 </figure>
 
 <figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-equilibrium-price-revenue-on-diagrams-and-intermarket--06-eq-related-markets-chain.webp" width="900" height="1350" alt="Three diagrams. Coffee supply shifts left, price 7.50 to 8.50 and quantity 340 to 300, a movement along demand. Tea, a substitute, has demand shifting right: 4 and 340 to 4.50 and 370. Milk, a complement, has demand shifting left: 12 and 360 to 11 and 340." loading="lazy">
+  <figcaption>A supply change in one market shifts demand in substitute and complement markets.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-equilibrium-price-revenue-on-diagrams-and-intermarket--03-eq-wheat-barley-link.webp" width="900" height="930" alt="A farmer can grow wheat or barley. When demand for wheat rises, the wheat price goes up, so the farmer plants more wheat; in the illustrative bar, wheat takes 70 per cent of the field instead of 50 per cent. That leaves less land for barley, so the supply curve of barley shifts left, which raises the barley price and cuts the barley quantity. A change in one market therefore reaches the other through the producer's choice." loading="lazy">
+  <figcaption>A higher wheat price pulls land from barley and shifts barley supply left.</figcaption>
+</figure>
+
+<figure class="topic-figure">
   <img src="https://img.marlbridge.com/igcse-economics-the-allocation-of-resources--03-shifts-of-demand.webp" width="900" height="1000" alt="Three parallel demand curves: D1 original, D2 to the right (increase; at price 5 quantity 40 to 60), D3 to the left (decrease; 40 to 20). Rightward shifts come from rising income, tastes favouring the good, or a dearer substitute; leftward shifts from the opposite." loading="lazy">
   <figcaption>A shift of the whole demand curve is caused by a non-price condition such as income, tastes or the price of related goods.</figcaption>
 </figure>
@@ -154,12 +164,6 @@ Related markets also react to changes in demand. If demand for a console rises, 
 
 On the supply side, if a farmer can grow either wheat or barley, a higher wheat price shifts barley supply left.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/aqa-gcse-economics-how-markets-work--04-cross-elasticity.webp" width="900" height="930" alt="When tea rises from 2 to 3 pounds, coffee demand rises 25%, so XED is +0.5 (substitutes). When printers rise 50%, ink demand falls 50%, so XED is -1 (complements). The sign tells you the relationship." loading="lazy">
-  <figcaption>A positive XED means substitutes; a negative XED means complements.</figcaption>
-</figure>
-
-
 ## Diagram checklist
 
 - Both axes labelled: price up the side, quantity along the bottom.
@@ -181,13 +185,8 @@ A short numerical chain for a made-up Town B. Suppose bus fares and train fares 
 Now take cars and fuel as complements. If a tax makes cars dearer, fewer cars are bought. Demand for fuel shifts left, so the fuel price and quantity fall. Stating each step in order makes the chain clear and earns credit.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/aqa-gcse-economics-equilibrium-price-revenue-on-diagrams-and-intermarket--06-eq-related-markets-chain.webp" width="900" height="1350" alt="Three diagrams. Coffee supply shifts left, price 7.50 to 8.50 and quantity 340 to 300, a movement along demand. Tea, a substitute, has demand shifting right: 4 and 340 to 4.50 and 370. Milk, a complement, has demand shifting left: 12 and 360 to 11 and 340." loading="lazy">
-  <figcaption>A supply change in one market shifts demand in substitute and complement markets.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/aqa-gcse-economics-equilibrium-price-revenue-on-diagrams-and-intermarket--03-eq-wheat-barley-link.webp" width="900" height="930" alt="A farmer can grow wheat or barley. When demand for wheat rises, the wheat price goes up, so the farmer plants more wheat; in the illustrative bar, wheat takes 70 per cent of the field instead of 50 per cent. That leaves less land for barley, so the supply curve of barley shifts left, which raises the barley price and cuts the barley quantity. A change in one market therefore reaches the other through the producer's choice." loading="lazy">
-  <figcaption>A higher wheat price pulls land from barley and shifts barley supply left.</figcaption>
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-how-markets-work--04-cross-elasticity.webp" width="900" height="930" alt="When tea rises from 2 to 3 pounds, coffee demand rises 25%, so XED is +0.5 (substitutes). When printers rise 50%, ink demand falls 50%, so XED is -1 (complements). The sign tells you the relationship." loading="lazy">
+  <figcaption>A positive XED means substitutes; a negative XED means complements.</figcaption>
 </figure>
 
 

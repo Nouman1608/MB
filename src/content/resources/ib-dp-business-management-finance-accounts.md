@@ -80,6 +80,16 @@ comparing actual results against budgeted figures
   <figcaption>Finance can come from inside or outside the business, and the right source depends on the situation and the time needed.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-finance-accounts--02-cost-behaviour.webp" width="900" height="1010" alt="Line chart: fixed cost flat at $6,000, variable cost $4 a unit, total cost = fixed + variable, revenue $10 a unit. Revenue meets total cost at 1,000 units ($10,000)." loading="lazy">
+  <figcaption>Fixed costs do not change with output; variable costs rise with it; revenue = price x quantity.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-finance-accounts--03-accounting-equation.webp" width="900" height="1050" alt="Two equal stacked bars: assets 100 (non-current 60, current 40) equal liabilities plus equity 100 (share capital 40, retained profit 10, non-current liabilities 30, current liabilities 20). A balance sheet is a snapshot; the profit and loss account covers a period." loading="lazy">
+  <figcaption>Assets always equal liabilities plus equity; the balance sheet shows one moment, the P&amp;L a period.</figcaption>
+</figure>
+
 
 ## How to approach it
 
@@ -106,6 +116,21 @@ a single calculated figure.
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/ib-dp-business-management-finance-accounts--04-depreciation.webp" width="900" height="1124" alt="Asset costing $12,000, residual $2,000, 5 years. Straight line charges $2,000 each year; units of production charges $1,000, $2,000, $3,000, $2,400 and $1,600 for 5k, 10k, 15k, 12k and 8k units. Both total $10,000." loading="lazy">
   <figcaption>Straight line spreads depreciation evenly; units of production follows how much the asset is used.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-finance-accounts--06-gearing.webp" width="900" height="1120" alt="Two firms with $100k capital employed: 20% geared (loans 20, equity 80) and 70% geared (loans 70, equity 30). With 8% interest, return on equity is 23.0% and 3.0% (low gearing) versus 48.0% and -5.3% (high gearing) in a good and bad year." loading="lazy">
+  <figcaption>Higher gearing magnifies returns in good years and losses in bad years, because interest is paid either way.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-finance-accounts--08-payback-arr.webp" width="900" height="1130" alt="Project costing $100k returns 20, 30, 40, 40, 30. Cumulative cash turns positive a quarter of the way into year 4: payback 3 years 3 months. Average annual profit is 12 on 100 invested: ARR 12%. Payback ignores later profit; ARR ignores timing." loading="lazy">
+  <figcaption>Payback measures time to recover the cost; ARR measures average yearly profit as a percentage of cost.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-finance-accounts--09-npv.webp" width="900" height="1020" alt="Same project discounted at 10%: present values 18.2, 24.8, 30.1, 27.3 and 18.6 total 119.0, so NPV after the $100k cost is +19.0 ($k). Weakness: depends on the chosen discount rate." loading="lazy">
+  <figcaption>NPV discounts future cash to today’s value and subtracts the cost; the result depends on the discount rate.</figcaption>
 </figure>
 
 
@@ -159,12 +184,6 @@ collected. For HL students, calculating the gearing ratio correctly
 but failing to discuss the risk-return trade-off it represents, which
 is where the evaluative marks in this sub-topic are earned.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ib-dp-business-management-finance-accounts--07-profit-vs-cash.webp" width="900" height="1030" alt="Three-month bar chart: a $10,000 credit sale less $6,000 costs shows $4,000 profit in month 1 but cash flow of -$6,000; the customer pays $10,000 in month 3." loading="lazy">
-  <figcaption>Profit is an accounting measure; cash is money actually received and paid.</figcaption>
-</figure>
-
-
 ## Quick revision checklist
 
 - Be able to match a described business situation to the most
@@ -180,8 +199,8 @@ is where the evaluative marks in this sub-topic are earned.
   method marks under Paper 2's timed, calculation-heavy conditions.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ib-dp-business-management-finance-accounts--03-accounting-equation.webp" width="900" height="1050" alt="Two equal stacked bars: assets 100 (non-current 60, current 40) equal liabilities plus equity 100 (share capital 40, retained profit 10, non-current liabilities 30, current liabilities 20). A balance sheet is a snapshot; the profit and loss account covers a period." loading="lazy">
-  <figcaption>Assets always equal liabilities plus equity; the balance sheet shows one moment, the P&amp;L a period.</figcaption>
+  <img src="https://img.marlbridge.com/ib-dp-business-management-finance-accounts--07-profit-vs-cash.webp" width="900" height="1030" alt="Three-month bar chart: a $10,000 credit sale less $6,000 costs shows $4,000 profit in month 1 but cash flow of -$6,000; the customer pays $10,000 in month 3." loading="lazy">
+  <figcaption>Profit is an accounting measure; cash is money actually received and paid.</figcaption>
 </figure>
 
 

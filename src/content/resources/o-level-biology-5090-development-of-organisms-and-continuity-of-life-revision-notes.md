@@ -104,6 +104,12 @@ Asexual examples: binary fission in bacteria, budding in yeast, potato tubers, s
 | Stigmas | Inside, sticky | Outside, feathery |
 | Pollen | Larger, sticky/spiky, less | Small, light, smooth, huge amounts |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-reproduction--03-wind-vs-insect.webp" width="900" height="1000" alt="Two flowers compared: an insect-pollinated flower with large coloured petals, anthers and stigma inside and sticky or spiky pollen, and a wind-pollinated flower with small green petals, anthers and feathery stigma hanging outside and light smooth pollen made in huge numbers." loading="lazy">
+  <figcaption>Compare the features of insect- and wind-pollinated flowers.</figcaption>
+</figure>
+
+
 ### Self- v cross-pollination
 
 | | Self | Cross |
@@ -165,6 +171,11 @@ Process in steps:
   <figcaption>Dot grids show 36, 0, 2 and 6 seeds out of 40 germinating.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-reproduction--04-pollen-tube.webp" width="900" height="960" alt="Section through a carpel: pollen lands on the stigma (pollination), a pollen tube grows down the style, enters the ovule through the micropyle, and the pollen nucleus fuses with the ovule nucleus (fertilisation)." loading="lazy">
+  <figcaption>Follow pollen from the stigma to fertilisation in the ovule.</figcaption>
+</figure>
+
 
 ## 16.4 Humans
 
@@ -192,6 +203,17 @@ Process in steps:
 
 **Worked reminder.** A sperm cell 0.05 mm long, drawn at ×400, gives an image 0.05 × 400 = **20 mm** long (image size = actual size × magnification).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-biology-5090-development-of-organisms-and-continuity-of-life--03-pollen-grain-magnification.webp" width="900" height="930" alt="A 45 mm drawing of a pollen grain beside a speck for the 0.03 mm real grain. Magnification = image / actual = 45 / 0.03 = x1500." loading="lazy">
+  <figcaption>A 45 mm drawing of a 0.03 mm pollen grain has a magnification of x1500.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-reproduction--06-sperm-and-egg.webp" width="900" height="1010" alt="Labelled egg (jelly coat, nucleus, cytoplasm with energy stores) and sperm (acrosome with enzymes, nucleus, mitochondria, flagellum), with a summary of size, movement and numbers." loading="lazy">
+  <figcaption>Show how sperm and egg are adapted for their functions.</figcaption>
+</figure>
+
+
 ### Puberty
 
 - **Testosterone**: facial and body hair, deeper voice, muscle growth, sperm production starts.
@@ -200,6 +222,11 @@ Process in steps:
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/o-level-biology-5090-development-of-organisms-and-continuity-of-life--05-puberty-secondary-characteristics.webp" width="900" height="1120" alt="Testosterone from the testes causes facial and body hair, a deeper voice, muscle growth and sperm production. Oestrogen from the ovaries causes breast development, wider hips and the start of the menstrual cycle." loading="lazy">
   <figcaption>Testosterone and oestrogen cause the secondary sexual characteristics at puberty.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-reproduction--08-menstrual-cycle.webp" width="900" height="1010" alt="Two graphs over 28 days: the uterus lining is lost on days 1-5, then rebuilt, with ovulation around day 14; Extended sketch of FSH, oestrogen, LH and progesterone, with oestrogen peaking before the LH peak at ovulation and progesterone high afterwards." loading="lazy">
+  <figcaption>Link the lining and hormone changes to the days of the cycle.</figcaption>
 </figure>
 
 
@@ -225,6 +252,16 @@ Progesterone falls → lining breaks down (menstruation) → FSH rises again.
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/o-level-biology-5090-development-of-organisms-and-continuity-of-life--04-implantation-of-the-embryo.webp" width="900" height="890" alt="Four stages: fertilisation in the oviduct, the zygote dividing by mitosis, a ball of cells reaching the uterus, and the embryo implanting in the thick uterus lining. A schematic shows where each happens." loading="lazy">
   <figcaption>The zygote divides to a ball of cells that implants in the lining of the uterus.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-reproduction--05-reproductive-systems.webp" width="900" height="1240" alt="Front-view schematics of the male (testes in scrotum, sperm ducts, prostate gland, urethra, penis) and female (ovaries, oviducts, uterus, cervix, vagina) systems with the function of each part." loading="lazy">
+  <figcaption>Identify the parts of the human reproductive systems and their jobs.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-reproduction--07-placenta-exchange.webp" width="900" height="1200" alt="The fetus in an amniotic sac inside the uterus, joined by the umbilical cord to the placenta. Extended panel: oxygen, glucose and amino acids pass from mother to fetus and carbon dioxide and urea the other way without the bloods mixing; some viruses and nicotine can cross." loading="lazy">
+  <figcaption>Show what the placenta does and what crosses it.</figcaption>
 </figure>
 
 

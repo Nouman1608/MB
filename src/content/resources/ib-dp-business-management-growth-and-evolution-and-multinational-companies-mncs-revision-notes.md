@@ -203,12 +203,6 @@ A mining MNC in a host country makes 18m profit (in $). Tax at 30% takes 5.4m, l
 4. Weigh short term against long term.
 5. Judge using a criterion such as long-term benefit to the host economy.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ib-dp-business-management-growth-and-evolution-and-multinational-companies-mncs--04-mnc-host-country-money.webp" width="900" height="880" alt="Two columns in millions of dollars. Staying in Sandrovia: wages 4.32, tax 3.0, local inputs 5.5, reinvested profit 2.7, total 15.52. Leaving: 6.3, which is 70 percent of the 9.0 after-tax profit." loading="lazy">
-  <figcaption>Wages, tax and local purchases stay in the host country while repatriated profit leaves.</figcaption>
-</figure>
-
-
 ## Quick self-test
 
 1. Define "economies of scale".
@@ -234,6 +228,12 @@ A mining MNC in a host country makes 18m profit (in $). Tax at 30% takes 5.4m, l
 8. 250,000 x 6% = 15,000.
 9. (23 - 20) / 20 = 15.0%.
 10. For example profits repatriated, local firms displaced or environmental damage.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-growth-and-evolution-and-multinational-companies-mncs--04-mnc-host-country-money.webp" width="900" height="880" alt="Two columns in millions of dollars. Staying in Sandrovia: wages 4.32, tax 3.0, local inputs 5.5, reinvested profit 2.7, total 15.52. Leaving: 6.3, which is 70 percent of the 9.0 after-tax profit." loading="lazy">
+  <figcaption>Wages, tax and local purchases stay in the host country while repatriated profit leaves.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

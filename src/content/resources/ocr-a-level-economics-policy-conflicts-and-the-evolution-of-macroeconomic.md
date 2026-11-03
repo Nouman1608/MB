@@ -135,6 +135,12 @@ Chain: if growth is led by a few high-skill or capital-heavy sectors, top earner
 
 **Evaluation:** judge by the starting position (spare capacity or not), the source of the problem (demand or supply shock), the time horizon and who bears the cost. Supply-side measures reduce conflicts most in the long run but give little relief in a short inflation spell.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-aggregate-demand-supply--07-lras-growth.webp" width="900" height="1000" alt="LRAS shifts right from output 100 to 130, with SRAS shifted right by the same amount. Equilibrium moves from output 90, price level 65 to output 105, price level 57.5. Technology, productivity, enterprise, factor mobility, incentives and institutions are listed as causes." loading="lazy">
+  <figcaption>Underlying economic growth is a rightward shift in LRAS, raising output and easing prices.</figcaption>
+</figure>
+
+
 ## 3. Debates in macroeconomic thinking
 
 ### Flexibility of prices and wages

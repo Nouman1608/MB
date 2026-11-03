@@ -189,6 +189,12 @@ Find the pH of 0.00650 mol dm⁻³ Ba(OH)₂ at 298 K.
 
 Using pKw: pOH = −log₁₀(0.0130) = 1.89, and pH = 14.00 − 1.89 = 12.11. Both routes agree.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-acids-and-bases--03-kw-temperature.webp" width="900" height="980" alt="Two panels show equal bars of H+ and OH- in pure water. At 25 C each is 1.00e-7 and pH is 7.00; at 50 C each is 2.35e-7 and pH is 6.63. The bars are equal in both, so the water is neutral." loading="lazy">
+  <figcaption>Kw rises with temperature, lowering the pH of pure water, but [H+] = [OH-] so it stays neutral.</figcaption>
+</figure>
+
+
 ## 14.13 Analysing pH data
 
 ### (i) Equimolar solutions

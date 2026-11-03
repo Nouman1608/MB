@@ -98,6 +98,11 @@ Electron microscopes have **higher magnification and higher resolution** than li
   <figcaption>Convert to the same units first, then divide image size by real size.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-microscopy-eukaryotic-and-prokaryotic-cells-and--05-resolution-tem.webp" width="900" height="830" alt="A log size scale from 10 nm to 100 micrometres with a dashed line at 200 nm, the limit of a light microscope. Ribosomes (25 nm) lie left of it. A mitochondrion (1.2 micrometres), bacterium (a few micrometres) and cheek cell (60 micrometres) lie right. Worked TEM example: 36 mm at x30 000 is 1.2 micrometres." loading="lazy">
+  <figcaption>Structures smaller than 200 nm cannot be resolved by a light microscope, so a TEM is needed.</figcaption>
+</figure>
+
 
 ## Mitosis and the cell cycle
 
@@ -156,17 +161,6 @@ Rate of diffusion increases with a **steeper concentration gradient, higher temp
 
 **Surface area to volume ratio** falls as an organism gets larger, which is why large organisms need exchange surfaces — lungs, gills, villi — that are large, thin, well-supplied with blood, and ventilated.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/aqa-gcse-biology-cell-biology--05-gut-glucose-active.webp" width="900" height="720" alt="Glucose moves from the gut, where its concentration is low, through a gut wall cell that uses energy from respiration, into the blood, where its concentration is higher. This is against the concentration gradient." loading="lazy">
-  <figcaption>Glucose is absorbed from the gut into the blood by active transport.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-biology-movement-into-and-out-of-cells--01-diffusion.webp" width="900" height="1010" alt="Two stages in a container. At the start 18 particles are crowded on the left (high concentration) with the right empty (low). Small arrows show random movement and a large arrow shows net movement from high to low concentration. Later the 18 particles are spread evenly, 9 each side, still moving but with no net movement." loading="lazy">
-  <figcaption>Particles move randomly, so there is a net movement from high to low concentration until they are evenly spread.</figcaption>
-</figure>
-
-
 ## Exam traps
 
 - Listing an adaptation without saying what it achieves.
@@ -185,3 +179,34 @@ Rate of diffusion increases with a **steeper concentration gradient, higher temp
 5. Give two examples of active transport and say why energy is needed.
 
 **Answers:** 1. Cell wall, chloroplasts, permanent vacuole. 2. To release energy by respiration for the tail to move, so the sperm can swim to the egg. 3. Growth with DNA replication and duplication of organelles; mitosis, in which chromosomes separate to opposite poles and the nucleus divides; then division of the cytoplasm and membrane to give two identical cells. 4. The movement of water from a dilute solution to a more concentrated solution through a partially permeable membrane. 5. Mineral uptake by root hairs and glucose absorption in the gut; both move substances against the concentration gradient, which requires energy from respiration.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-biology-cell-biology--05-gut-glucose-active.webp" width="900" height="720" alt="Glucose moves from the gut, where its concentration is low, through a gut wall cell that uses energy from respiration, into the blood, where its concentration is higher. This is against the concentration gradient." loading="lazy">
+  <figcaption>Glucose is absorbed from the gut into the blood by active transport.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-movement-into-and-out-of-cells--01-diffusion.webp" width="900" height="1010" alt="Two stages in a container. At the start 18 particles are crowded on the left (high concentration) with the right empty (low). Small arrows show random movement and a large arrow shows net movement from high to low concentration. Later the 18 particles are spread evenly, 9 each side, still moving but with no net movement." loading="lazy">
+  <figcaption>Particles move randomly, so there is a net movement from high to low concentration until they are evenly spread.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-movement-into-and-out-of-cells--02-diffusion-factors.webp" width="900" height="1130" alt="Four paired pictures. Larger surface area: one block versus the same amount cut into four pieces. Higher temperature: short versus long movement arrows. Steeper concentration gradient: small versus big difference between two sides. Shorter distance: thick versus thin layer to cross." loading="lazy">
+  <figcaption>Diffusion is faster with more surface area, higher temperature, a steeper gradient and a shorter distance.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-movement-into-and-out-of-cells--03-osmosis.webp" width="900" height="960" alt="A container split by a membrane with small gaps. Dilute solution (many water molecules, 3 solute particles) on the left, concentrated solution (fewer water molecules, 11 solute particles) on the right. Solute is too big to pass; arrows show water moving to the concentrated side. An Extended card gives the water potential wording: higher on the dilute side, lower on the concentrated side." loading="lazy">
+  <figcaption>Water moves through the membrane from the dilute to the concentrated solution; solute particles cannot pass.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-movement-into-and-out-of-cells--06-active-transport.webp" width="900" height="1120" alt="A membrane separates low concentration (top) from high concentration (bottom). Step 1: a particle binds a carrier protein facing the low side. Step 2: energy from respiration changes the carrier and the particle is released on the high side, so it moves against the gradient. Extended: protein carriers, for example ion uptake by root hairs." loading="lazy">
+  <figcaption>Active transport moves particles from low to high concentration using energy from respiration.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-movement-into-and-out-of-cells--07-three-processes.webp" width="900" height="1030" alt="Three pictures. Diffusion is passive: particles move from high to low concentration, no energy needed. Osmosis is passive: water moves through a partially permeable membrane, no energy needed. Active transport is active: a carrier moves particles from low to high concentration using energy from respiration." loading="lazy">
+  <figcaption>Diffusion and osmosis are passive; active transport uses energy from respiration to move particles against the gradient.</figcaption>
+</figure>
+

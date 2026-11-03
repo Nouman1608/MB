@@ -214,6 +214,11 @@ The 9725 text names these primary and secondary methods and asks for their advan
   <figcaption>Sampling methods trade representativeness against cost and speed.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-business-marketing--07-forecast-and-capacity.webp" width="900" height="1114" alt="Bars compare August actual and September and October forecasts with a 540 capacity line. October is 6 above capacity. Cards show operations, HR and finance consequences and the warning to test the forecast before a bigger workshop." loading="lazy">
+  <figcaption>A forecast above capacity triggers decisions in operations, HR and finance.</figcaption>
+</figure>
+
 
 ## Interpretation of marketing data
 

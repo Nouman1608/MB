@@ -134,12 +134,6 @@ half-wave case and no flat gaps.
 
 **Smoothing** uses a capacitor in **parallel** with the load. It charges at the peak and discharges through the load during the gap, so the output falls only slightly before the next peak arrives. A **larger capacitance** gives a longer time constant (τ = RC) and therefore **less ripple**; so does a **larger load resistance**, since τ = RC increases either way — a smaller load current draws the capacitor's charge down more slowly between peaks. Increasing either only **reduces** the ripple, though: the capacitor still discharges to some extent between pulses, so the output is never a perfectly constant, ripple-free voltage.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-physics-alternating-currents--09-rectification-smoothing.webp" width="900" height="1140" alt="Three graphs share the same 50 Hz input (dashed). One diode gives half-wave rectification with a gap; a bridge of four diodes gives full-wave rectification with no gap and pulses at twice the frequency; a smoothing capacitor fills the gaps, with small RC giving large ripple and large RC giving small ripple." loading="lazy">
-  <figcaption>Half-wave leaves gaps, full-wave does not, and a capacitor with a larger time constant RC gives a smoother output.</figcaption>
-</figure>
-
-
 ## Exam traps
 
 - Using peak values where r.m.s. is required, or vice versa.
@@ -159,3 +153,9 @@ half-wave case and no flat gaps.
 5. Why is electricity transmitted at high voltage?
 
 **Answers:** 1. The value of the direct current that would dissipate the same mean power in the same resistor. 2. The current spends equal time in each direction so the mean is zero; squaring makes all values positive, so the mean of the squares is non-zero and reflects the power actually dissipated. 3. Mean power is half the peak power for a resistive load. 4. D.c. produces a constant magnetic flux, so there is no rate of change of flux linkage in the secondary and no e.m.f. is induced. 5. Power loss in the cables is I²R, so high voltage allows low current for the same power, and the loss falls with the square of the current.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-alternating-currents--09-rectification-smoothing.webp" width="900" height="1140" alt="Three graphs share the same 50 Hz input (dashed). One diode gives half-wave rectification with a gap; a bridge of four diodes gives full-wave rectification with no gap and pulses at twice the frequency; a smoothing capacitor fills the gaps, with small RC giving large ripple and large RC giving small ripple." loading="lazy">
+  <figcaption>Half-wave leaves gaps, full-wave does not, and a capacitor with a larger time constant RC gives a smoother output.</figcaption>
+</figure>
+

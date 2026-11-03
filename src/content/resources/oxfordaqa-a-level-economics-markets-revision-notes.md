@@ -123,6 +123,16 @@ AC = TC/Q     MC = dTC/dQ     profit maximised where MC = MR
   <figcaption>MP rises then falls (diminishing returns after worker 3) and cuts AP at its maximum.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-costs-of-production-economies-of-scale-revenue-and--07-lrac-flat-section-mes.webp" width="900" height="930" alt="LRAC per bottle is 12, 9.6, 8, 7.2, 7.2, 7.2, 7.8, 9 for outputs 10 to 80. It falls to the minimum efficient scale of 40, stays flat to 60, then rises. A firm at 20 is 33.3 percent above the cost of one at MES." loading="lazy">
+  <figcaption>LRAC falls to MES, runs flat, then rises, with a cost gap for small firms.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-market-structures-perfect-competition-and-monopolistic--08-farm-f-profit-levels.webp" width="900" height="1020" alt="MC, AC and AVC points for 1 to 7 crates. At a price of 40 the farm makes 6 crates and earns 52 supernormal profit. At a price of 31 it makes 5 crates where price equals lowest AC, so profit is normal." loading="lazy">
+  <figcaption>Each farm makes the last crate whose MC is no more than the price: 6 crates at 40 (profit 52), 5 at 31 (profit 0).</figcaption>
+</figure>
+
 
 ## Market structures
 
@@ -139,6 +149,27 @@ AC = TC/Q     MC = dTC/dQ     profit maximised where MC = MR
 
 **Monopoly is not automatically bad**: it may deliver economies of scale and fund research (dynamic efficiency). A balanced answer weighs higher prices and restricted output against those.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-market-structures-and-the-objectives-of-firms--04-market-structure-spectrum.webp" width="900" height="1020" alt="A spectrum from perfect competition to pure monopoly with three double-headed arrows for number of firms, product and entry. Markets W, X, Y and Z from the lesson are placed in perfect competition, monopolistic competition, oligopoly and pure monopoly." loading="lazy">
+  <figcaption>Place a market using number of firms, product differentiation and ease of entry together.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-market-structures-firms-objectives-and-competitive--07-grain-entry-price.webp" width="900" height="974" alt="Demand rises so price goes from 20 to 22 and quantity from 200 to 240. At average cost 20 supernormal profit is 480 thousand. Entry shifts supply right, price falls to 20 and quantity rises to 320." loading="lazy">
+  <figcaption>A demand rise lifts the price to 22; entry shifts supply right and the price returns to 20 with output 320.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-monopoly-natural-monopoly-and-price-discrimination--06-barriers-keep-profit.webp" width="900" height="945" alt="Two columns. In a competitive market supernormal profit attracts new firms, supply shifts right, price falls and only normal profit remains. In a monopoly the supernormal profit of 424 is protected by a wall of barriers to entry (economies of scale, patents and licences, key resource, sunk costs, strong branding), so no one enters, demand does not shift and the profit continues. It lasts only as long as the barriers do: patents expire, substitutes appear and regulators step in." loading="lazy">
+  <figcaption>Entry removes supernormal profit in a competitive market, but barriers to entry let a monopolist keep its profit of 424.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-oligopoly-interdependence-collusion-and-the-kinked--09-kinked-demand.webp" width="900" height="1010" alt="Kinked demand: elastic above the kink (P = 14 - 0.1Q), inelastic below (P = 30 - 0.5Q), kink at 10 pounds and 40 units. MR jumps from 6 to -10 at 40 units, so MC of 2 or 5 leaves price unchanged. Raising price lowers revenue to 330, cutting to 378." loading="lazy">
+  <figcaption>Interdependence makes price stable because MR has a gap at the kink.</figcaption>
+</figure>
+
+
 ## Market failure
 
 Negative and positive externalities, public goods (**non-excludable and non-rival**), information failure, factor immobility, monopoly power.
@@ -154,12 +185,6 @@ Negative and positive externalities, public goods (**non-excludable and non-riva
 - **State provision** guarantees public goods but risks inefficiency.
 
 **Government failure** — information gaps, administrative cost, unintended consequences such as smuggling, and regulatory capture. **A strong evaluation of intervention usually raises it.**
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-markets-revision-notes--04-positive-externality-labelled.webp" width="900" height="930" alt="Price against quantity. MPC equals MSC rises; MPB falls; MSB lies 15 above MPB. Market outcome where MPB meets MPC at quantity 20, price 50. Social optimum where MSB meets MSC at quantity 25, price 60. The shaded triangle between 20 and 25, area 37.5, is the welfare gain missed." loading="lazy">
-  <figcaption>With a positive externality the market produces 20, below the social optimum of 25.</figcaption>
-</figure>
-
 
 ## Exam traps
 
@@ -183,3 +208,44 @@ Negative and positive externalities, public goods (**non-excludable and non-riva
 7. Why is a production possibility curve concave to the origin?
 
 **Answers:** 1. A positive statement is factual and can be tested against evidence; a normative statement contains a value judgement and cannot be tested. 2. All other things held equal; it isolates the effect of one variable so a relationship can be modelled. 3. The more inelastic side of the market, because it can least easily adjust quantity in response to the price change. 4. Barriers to entry prevent new firms entering to compete the profit away, whereas perfect competition has none. 5. Because intervention can produce a worse outcome than the market, so a balanced judgement must weigh that possibility rather than assuming intervention improves matters. 6. The value of the next best alternative forgone when a choice is made — not the total of everything given up. 7. Because resources are not perfectly substitutable between uses, so each additional unit of one good requires giving up an increasing amount of the other.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-markets-revision-notes--04-positive-externality-labelled.webp" width="900" height="930" alt="Price against quantity. MPC equals MSC rises; MPB falls; MSB lies 15 above MPB. Market outcome where MPB meets MPC at quantity 20, price 50. Social optimum where MSB meets MSC at quantity 25, price 60. The shaded triangle between 20 and 25, area 37.5, is the welfare gain missed." loading="lazy">
+  <figcaption>With a positive externality the market produces 20, below the social optimum of 25.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-economics-government-microeconomic-intervention--04-corrective-tax.webp" width="900" height="900" alt="Demand (MPB) and supply (MPC) cross at price 5 and quantity 50. Marginal social cost (MSC) lies 2 above MPC and crosses demand at price 6.2, quantity 40. The triangle between 40 and 50 is the welfare loss, area 10. A tax of 2 shifts supply up onto MSC and moves output to 40." loading="lazy">
+  <figcaption>A tax equal to the external cost moves output from the market level to the socially optimal level.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-public-goods-and-externalities--07-quasi-public-goods-shift.webp" width="900" height="990" alt="A two by two grid of rival and non-rival against excludable and non-excludable. Private good (a meal) is rival and excludable; common resource (open-sea fish) is rival and non-excludable; club or quasi-public good (uncongested toll road) is non-rival and excludable; pure public good (street lighting) is non-rival and non-excludable. Arrow 1: congestion moves a non-rival good up to rival, for example a bridge at rush hour. Arrow 2: technology such as encryption moves a non-excludable good across to excludable, so a supplier can charge." loading="lazy">
+  <figcaption>Congestion makes a non-rival good rival; technology such as encryption makes a non-excludable good excludable.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-government-intervention-in-markets-and-government--06-gi-permits.webp" width="900" height="1080" alt="Three firms X, Y and Z each emit 30 tonnes and must cut 30 tonnes in total. Abatement costs per tonne are 8, 14 and 30. With equal cuts of 10 tonnes each the cost is 80, 140 and 300, total 520. With trading, X cuts 20 tonnes (cost 160) and sells 10 permits to Z, Y cuts 10 (140) and Z cuts none, total 300. Total cost falls by 220, which is 42.3%." loading="lazy">
+  <figcaption>With a cap of 60 tonnes, letting firms trade permits makes the cheapest cutter (X) do the most cutting, so the 30-tonne cut costs 300, not 520.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-uk-government-revenue-spending-direct-and-indirect--04-regressive-indirect-taxes.webp" width="900" height="920" alt="A 20% sales tax takes 13.3% of household J's 15,000 income but 10.0% of household K's 90,000. A 0.50 per litre fuel duty takes 3.3% of L's 18,000 but 1.3% of M's 72,000." loading="lazy">
+  <figcaption>Indirect taxes can take a larger share of lower incomes.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-government-intervention-in-markets-and-government--12-un226-gi-failure-sources.webp" width="900" height="1075" alt="Four rows. First, conflicting objectives: cutting a fuel tax protects living standards but undermines the emissions target. Second, administrative costs: a permit scheme with an environmental benefit of 90 costs 12 to run, so the net gain is 78. Third, corruption: a permit or contract goes to the best-connected firm instead of the best use. Fourth, unintended consequences: a price ceiling can produce a black market, a floor a surplus, and a ban can push trade underground." loading="lazy">
+  <figcaption>Conflicting objectives, administrative costs, corruption and unintended consequences can each leave resources worse allocated.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-government-intervention-in-markets-and-government--13-un226-gi-choose-method.webp" width="900" height="970" alt="Top: the six criteria for judging a policy are effectiveness, cost, fairness, information needed, side effects and speed. Middle: a three-row comparison. Regulation: the result is certain if obeyed and it needs monitoring, but it can cost firms more. Tax: cost to firms is lower, but the cut in pollution is not certain because with inelastic demand output barely falls. Tradable permits: the amount of pollution is certain because it is capped, cost is lower, but the permit price is uncertain. Bottom: a ban suits a hazard with severe, irreversible harm; a tax suits a pollutant where firms abatement costs differ widely." loading="lazy">
+  <figcaption>Compare methods on the same criteria; a ban suits severe, irreversible harm, while a tax or permits suit a pollutant whose abatement costs differ widely.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-merit-and-demerit-goods-market-imperfections-and--06-asymmetric-information-vans.webp" width="900" height="870" alt="One in four vans is sound (worth 12,000; faulty 6,000). Buyers can only offer 7,500 for a random van, below the 10,000 owners of sound vans need, so sound vans are withdrawn." loading="lazy">
+  <figcaption>Buyers cannot tell good from bad, so the offer is too low for sound vans to sell.</figcaption>
+</figure>
+

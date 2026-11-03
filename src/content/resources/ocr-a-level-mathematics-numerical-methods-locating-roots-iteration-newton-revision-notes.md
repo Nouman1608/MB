@@ -149,6 +149,17 @@ The exact value is 8/3 = 2.667. The curve is convex (f″ = 2 > 0), so 2.75 is a
 
 **Accuracy by bounds (1.09a).** To confirm a root of x³ + 2x − 9 = 0 is 1.762 to 3 decimal places, test 1.7615 and 1.7625 and show opposite signs. Quote both function values.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-maths-9709-pure-mathematics-2-numerical-solution-of-equations--02-sign-change-fails.webp" width="900" height="1000" alt="Three graphs: 1/(x-2) on 1 to 3 changes sign across an asymptote with no root; (2x-3)^2 on 1 to 2 touches the axis with equal signs at the ends; (x-1)(x-2)(x+3) on 0.5 to 2.5 has two roots but positive ends." loading="lazy">
+  <figcaption>A sign change proves a root only if the function is continuous, and no sign change proves nothing.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-maths-9709-pure-mathematics-2-numerical-solution-of-equations--07-rectangle-bounds.webp" width="900" height="1070" alt="Left-hand rectangles under the increasing curve ln x sum to 1.0075 and right-hand rectangles over it sum to 1.5568, so 1.0075 &lt; I &lt; 1.5568; the trapezium value 1.2821 is their mean." loading="lazy">
+  <figcaption>For an increasing function left-hand rectangles give a lower bound and right-hand rectangles an upper bound.</figcaption>
+</figure>
+
+
 ## Must-know distinctions
 
 - **A sign change** proves a root only if f is continuous. **No sign change** proves nothing.
@@ -184,12 +195,6 @@ The exact value is 8/3 = 2.667. The curve is convex (f″ = 2 > 0), so 2.75 is a
 8. Overestimate.
 9. h = 1/5 = 0.2. The x-values are 2, 2.2, 2.4, 2.6, 2.8, 3.
 10. Only x = 2. At x = 2, g′ = 0.8, so it converges. At x = 3, g′ = 1.2, so it diverges.
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-level-maths-9709-pure-mathematics-2-numerical-solution-of-equations--02-sign-change-fails.webp" width="900" height="1000" alt="Three graphs: 1/(x-2) on 1 to 3 changes sign across an asymptote with no root; (2x-3)^2 on 1 to 2 touches the axis with equal signs at the ends; (x-1)(x-2)(x+3) on 0.5 to 2.5 has two roots but positive ends." loading="lazy">
-  <figcaption>A sign change proves a root only if the function is continuous, and no sign change proves nothing.</figcaption>
-</figure>
-
 
 ## Where marks are usually lost
 

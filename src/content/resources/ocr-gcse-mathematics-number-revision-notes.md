@@ -185,12 +185,6 @@ For a value rounded to the nearest unit u, bounds are **± u/2**. Writing the er
 
 A value rounded to a given precision could have come from a range either side of it — a length recorded as 6.3 cm to 1 decimal place satisfies **6.25 ≤ length < 6.35**. The lower bound uses ≤ and the upper uses <, because 6.35 would itself round up to 6.4.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ocr-gcse-mathematics-rounding-estimation-error-intervals-and-bounds--05-error-interval-rounded-truncated.webp" width="900" height="840" alt="A number line from 2.00 to 2.25. For 2.1 rounded to 1 decimal place the true value lies from 2.05, included, up to 2.15, not included: half a unit either side. For 2.1 truncated to 1 decimal place the digits were cut off, so the true value lies from 2.1, included, up to 2.2, not included: a whole unit above. The value 2.1 is marked on both lines." loading="lazy">
-  <figcaption>Rounded to 1 dp, 2.1 stands for 2.05 ≤ x &lt; 2.15; truncated, it stands for 2.1 ≤ x &lt; 2.2.</figcaption>
-</figure>
-
-
 ## Exam traps
 
 - Treating 1 as prime.
@@ -212,3 +206,9 @@ A value rounded to a given precision could have come from a range either side of
 7. Write the error interval for a length recorded as 6.3 cm to 1 decimal place.
 
 **Answers:** 1. 48 = 2⁴×3, 72 = 2³×3²; HCF = 2³×3 = 24, LCM = 2⁴×3² = 144. 2. 78 ÷ 1.3 = £60. 3. Flip to (16/9)^(1/2) = 4/3. 4. Multiply top and bottom by (4 − √2) to get 3(4 − √2)/14. 5. Upper bound of a minus the **lower** bound of b. 6. LCM of 84 and 120 = 2³×3×5×7 = 840 s = 14 minutes, so 09:14. 7. 6.25 ≤ length < 6.35.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-mathematics-rounding-estimation-error-intervals-and-bounds--05-error-interval-rounded-truncated.webp" width="900" height="840" alt="A number line from 2.00 to 2.25. For 2.1 rounded to 1 decimal place the true value lies from 2.05, included, up to 2.15, not included: half a unit either side. For 2.1 truncated to 1 decimal place the digits were cut off, so the true value lies from 2.1, included, up to 2.2, not included: a whole unit above. The value 2.1 is marked on both lines." loading="lazy">
+  <figcaption>Rounded to 1 dp, 2.1 stands for 2.05 ≤ x &lt; 2.15; truncated, it stands for 2.1 ≤ x &lt; 2.2.</figcaption>
+</figure>
+

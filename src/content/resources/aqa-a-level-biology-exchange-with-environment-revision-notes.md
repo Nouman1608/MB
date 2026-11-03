@@ -54,6 +54,12 @@ Doubling the side halves the ratio. A sphere of radius r has SA:V = 3/r.
 
 **Counter-current principle:** blood in the lamellae runs opposite to the water. The water always meets blood with a lower oxygen content, so a diffusion gradient exists along the full length of the lamella and a large share of the oxygen is taken up. Parallel flow would let the two streams reach equilibrium part-way along.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-gas-exchange--01-airway-tissues.webp" width="900" height="1210" alt="Four cross-sections from trachea to alveolus. The trachea has a C-shaped cartilage ring, a smooth muscle ring and a ciliated lining with goblet cells. The bronchus has cartilage in separate plates. The bronchiole has no cartilage and thick smooth muscle. The alveolus has only a thin squamous layer with capillaries." loading="lazy">
+  <figcaption>Moving down the airways, cartilage disappears and smooth muscle becomes proportionally larger (not to scale).</figcaption>
+</figure>
+
+
 ### Water loss against gas exchange
 
 - Insects: spiracles can close, which limits water loss, and a waterproof cuticle covers the body. The cost is less gas entry while closed.
@@ -124,6 +130,11 @@ Digestion is hydrolysis: large molecules are split by water into units small eno
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/a-level-biology-9700-gas-exchange--08-cotransport-glucose.webp" width="900" height="1040" alt="An ileum epithelial cell with gut lumen above and blood below. A pump in the blood-side membrane moves sodium ions out using ATP, keeping sodium low inside the cell. Sodium ions re-enter through a co-transporter carrying glucose, which builds up and leaves into blood by facilitated diffusion." loading="lazy">
   <figcaption>Sodium ions pumped out of the cell drive glucose in through a co-transporter.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-gas-exchange--09-cholera-toxin.webp" width="900" height="1010" alt="A gut epithelial cell with an open chloride channel. Chloride ions move out into the lumen and sodium ions follow, lowering the lumen water potential. Water leaves the tissue by osmosis into the lumen, causing watery diarrhoea." loading="lazy">
+  <figcaption>Cholera toxin keeps chloride channels open, so ions then water flood into the gut.</figcaption>
 </figure>
 
 

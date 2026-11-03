@@ -104,6 +104,21 @@ Plot time on the x-axis and draw a line of best fit through the origin. Gradient
   <figcaption>The gradient of the mass-time line is the rate copper is deposited.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/alloys-and-extraction-of-metals--06-aluminium-cell.webp" width="900" height="1080" alt="An electrolysis cell: carbon anodes dip into molten cryolite containing dissolved aluminium oxide. Al3+ ions move to the cathode and form molten aluminium; O2- ions go to the anodes and form oxygen, which burns the carbon anodes away as carbon dioxide." loading="lazy">
+  <figcaption>Aluminium oxide is dissolved in molten cryolite and electrolysed; the carbon anodes burn away and are replaced.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/electrolysis-and-fuel-cells--04-aqueous-worked.webp" width="900" height="1290" alt="Two cells with gas tubes over each electrode. Concentrated sodium chloride gives hydrogen at the cathode and chlorine at the anode. Dilute sulfuric acid gives hydrogen and oxygen in a 2:1 volume ratio. Half-equations are Extended." loading="lazy">
+  <figcaption>Concentrated NaCl gives H2 and Cl2; dilute H2SO4 gives H2 and O2 in the ratio 2 : 1.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/electrolysis-and-fuel-cells--05-copper-sulfate-electrodes.webp" width="900" height="1200" alt="Blue copper(II) sulfate solution is electrolysed twice. With graphite, copper coats the cathode and oxygen bubbles form at the anode. With copper electrodes copper again deposits, but the anode dissolves and gets smaller." loading="lazy">
+  <figcaption>Copper deposits at the cathode either way; the anode gives oxygen with graphite but dissolves if it is copper.</figcaption>
+</figure>
+
 
 ## Biological extraction (C6.1c, Higher Tier only)
 
@@ -156,6 +171,11 @@ An "evaluate" answer weighs both sides and ends with a judgement.
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/ocr-gcse-chemistry-improving-processes-and-products--04-rate-concentration-proportional.webp" width="900" height="890" alt="Rate-concentration graph with points (0.40, 0.021) and (0.80, 0.042) on one straight line through the origin. Doubling concentration doubles rate, so rate is directly proportional to concentration (rate / concentration = 0.0525)." loading="lazy">
   <figcaption>Doubling the concentration doubles the initial rate: a straight line through the origin.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/rates-of-reaction-and-reversible-reactions--03-rate-graph.webp" width="900" height="1020" alt="A flask connects to a gas syringe. A graph of gas volume against time shows a steep curve for a fast reaction and a shallow one for a slow reaction, both levelling at 60 cm3." loading="lazy">
+  <figcaption>Steeper gradient means faster rate; the line flattens when the reaction has finished.</figcaption>
 </figure>
 
 
@@ -237,6 +257,22 @@ Factors in recycling decisions: cost and energy of collection, transport and sor
 **Corrosion** is a metal reacting with substances around it. Iron rusts only when **both oxygen and water** are present, forming hydrated iron(III) oxide, which flakes off and exposes more metal. Salt speeds rusting. Aluminium's thin oxide layer protects it; copper slowly turns green.
 
 **Mitigation:** a **physical barrier** (paint, oil, grease, plastic coating, plating) keeps oxygen and water off. **Sacrificial protection** attaches a more reactive metal, such as zinc or magnesium, which oxidises instead of the iron. Galvanising (a zinc coating) is both, so it still protects when scratched.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/alloys-and-extraction-of-metals--01-alloy-layers.webp" width="900" height="1290" alt="Two particle diagrams: a pure metal with same-size atoms in neat layers that slide when pushed, and an alloy with some larger atoms that jam the layers. Atoms of two different sizes mark a diagram as an alloy." loading="lazy">
+  <figcaption>Different-sized atoms stop the layers sliding, so an alloy is harder than the pure metal.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/metal-properties-and-reactivity--06-rusting-conditions.webp" width="900" height="790" alt="Three tubes with iron nails: in air and water the nail rusts; in dry air above a drying agent it does not; in boiled water under oil it does not. Both oxygen and water are required." loading="lazy">
+  <figcaption>Remove either oxygen or water and rusting stops.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/metal-properties-and-reactivity--07-sacrificial-protection.webp" width="900" height="1000" alt="A scratched painted steel sheet rusts at the scratch because the barrier is broken. A scratched zinc-coated sheet does not rust: zinc, being more reactive, loses electrons and corrodes instead while electrons flow to the steel." loading="lazy">
+  <figcaption>Sacrificial protection keeps working after the barrier is broken.</figcaption>
+</figure>
+
 
 ## Choosing materials (C6.1r, C6.1s)
 

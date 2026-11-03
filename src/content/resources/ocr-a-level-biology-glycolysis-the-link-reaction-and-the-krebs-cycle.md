@@ -221,6 +221,12 @@ Oxidative phosphorylation takes place on the **inner mitochondrial membrane**, i
 
 How the released energy builds ATP is a separate outcome (chemiosmosis), covered in the [chemiosmosis and anaerobic respiration guide](/resources/ocr-a-level-biology-chemiosmosis-anaerobic-respiration-and-respiratory/), so only the site and roles are needed here.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-energy-and-respiration--07-chemiosmosis.webp" width="900" height="1060" alt="Reduced NAD gives hydrogen to carriers in the inner membrane. Electrons pass along the chain and the energy released pumps H+ into the intermembrane space. H+ flows back through ATP synthase, making ATP from ADP and Pi (chemiosmosis). Oxygen is the final electron acceptor and forms water." loading="lazy">
+  <figcaption>Energy from electron transport builds a proton gradient; protons flow back through ATP synthase to make ATP.</figcaption>
+</figure>
+
+
 ## Common errors
 
 - Saying glycolysis happens in the mitochondrion. It is in the cytoplasm.
@@ -233,12 +239,6 @@ How the released energy builds ATP is a separate outcome (chemiosmosis), covered
 ## Next steps
 
 Condense the content with the [revision notes](/resources/ocr-a-level-biology-glycolysis-the-link-reaction-and-the-krebs-cycle-revision-notes/), then test yourself with the [practice questions](/resources/ocr-a-level-biology-glycolysis-the-link-reaction-and-the-krebs-cycle-practice/). The [Foundations in biology guide](/resources/ocr-a-level-biology-foundations-in-biology/) covers microscopy and magnification calculations.
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-level-biology-9700-energy-and-respiration--07-chemiosmosis.webp" width="900" height="1060" alt="Reduced NAD gives hydrogen to carriers in the inner membrane. Electrons pass along the chain and the energy released pumps H+ into the intermembrane space. H+ flows back through ATP synthase, making ATP from ADP and Pi (chemiosmosis). Oxygen is the final electron acceptor and forms water." loading="lazy">
-  <figcaption>Energy from electron transport builds a proton gradient; protons flow back through ATP synthase to make ATP.</figcaption>
-</figure>
-
 
 ## Official syllabus
 

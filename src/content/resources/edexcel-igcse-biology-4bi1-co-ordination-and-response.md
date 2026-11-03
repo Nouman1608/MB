@@ -167,6 +167,12 @@ Explain why the hand is pulled away before the person feels pain.
 - Only a few neurones and synapses are involved, so the impulse travels a short route quickly [1].
 - Impulses do also travel up the spinal cord to the brain, but this takes longer, so pain is felt after the hand has already moved [1].
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-coordination-and-response--01-reflex-arc.webp" width="900" height="1000" alt="Schematic reflex arc: a pin pricks the skin, a receptor starts an impulse that travels along a sensory neurone into the spinal cord, a relay neurone, a motor neurone, then to the leg muscle (effector) which contracts. Arrowheads show impulse direction. The sensory neurone cell body sits on a short branch; the motor neurone cell body is in the cord." loading="lazy">
+  <figcaption>Follow the numbered pathway from stimulus to response.</figcaption>
+</figure>
+
+
 ## 5. The eye (2.91–2.92)
 
 The eye is a sense organ containing light receptors.
@@ -206,6 +212,12 @@ The iris has **circular** and **radial** muscles.
 
 - **Bright light:** circular muscles contract, radial muscles relax, pupil gets **smaller**. Less light enters, so the retina is not damaged.
 - **Dim light:** radial muscles contract, circular muscles relax, pupil gets **wider**. More light reaches the retina.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-coordination-and-response--04-pupil-reflex.webp" width="900" height="960" alt="Two front views of the eye. Bright light: pupil narrows, less light enters. Dim light: pupil widens, more light enters. Extended panel: in bright light circular muscles contract and radial relax; in dim light radial contract and circular relax." loading="lazy">
+  <figcaption>The pupil narrows in bright light and widens in dim light because two sets of iris muscles work against each other.</figcaption>
+</figure>
+
 
 ### Worked example 3
 
@@ -278,6 +290,11 @@ ADH links back to homeostasis of body water content. If the blood becomes too co
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/edexcel-igcse-biology-4bi1-co-ordination-and-response--04-insulin-lowers-glucose.webp" width="900" height="1065" alt="High blood glucose makes the pancreas release insulin, which makes the liver and muscles convert glucose to glycogen and cells take up glucose, so blood glucose falls. Glycogen (the store) is not glucagon." loading="lazy">
   <figcaption>Insulin lowers blood glucose by turning glucose into glycogen; the lesson does not teach glucagon.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-biology-4bi1-excretion--06-adh-feedback.webp" width="900" height="1020" alt="When blood water content is too low, more ADH is released, the collecting duct becomes more permeable, more water is reabsorbed and a small volume of concentrated urine is made. When it is too high, less ADH is released and a large volume of dilute urine is made. Either way blood water content returns to normal." loading="lazy">
+  <figcaption>More ADH gives less, more concentrated urine; less ADH gives more, dilute urine.</figcaption>
 </figure>
 
 

@@ -75,6 +75,16 @@ So a coefficient near zero supports the statement "no linear correlation". It ne
 </figure>
 
 <figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-mathematics-probability-and-correlation-and-regression--04-c-r-straight-only.webp" width="900" height="930" alt="Two exact parabolas, y = (x-5)^2 and y = x^2, each with r = 0 and a flat best straight line." loading="lazy">
+  <figcaption>A perfect curved relationship can still give r = 0, because r only measures straight-line fit.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-mathematics-probability-and-correlation-and-regression--05-c-outlier.webp" width="900" height="860" alt="Eight points close to a line give r about 0.99; adding one outlier at (9, 2) drops r to about 0.45 and tilts the regression line." loading="lazy">
+  <figcaption>A single outlier can change r a lot.</figcaption>
+</figure>
+
+<figure class="topic-figure">
   <img src="https://img.marlbridge.com/edexcel-ial-mathematics-probability-and-correlation-and-regression--06-c-same-r-different-slope.webp" width="900" height="900" alt="The same points with y values multiplied by 6 give the same r (about 0.96) although the gradient changes from 0.5 to about 2.9." loading="lazy">
   <figcaption>r measures how tightly the points hug a line, not how steep the line is.</figcaption>
 </figure>
@@ -195,11 +205,6 @@ One value of r supports different conclusions, because a two-tail test is harder
 A given r is more convincing when n is larger. Take r = 0.5 as a one-tail 5% test. With n = 6 the critical value is 0.7293, so you do not reject H₀. With n = 30 it is 0.3061, so you do reject H₀. A tiny sample cannot rule out chance, even when the points look close to a line.
 
 The reverse also holds. With n = 100 and r = 0.21, the 5% value is 0.1654 so H₀ is rejected, but the scatter is still wide. Evidence of correlation in the population is not the same as strong correlation. Say "significant" about the test and "strong" or "weak" about |r|.
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/edexcel-ial-mathematics-probability-and-correlation-and-regression--05-c-outlier.webp" width="900" height="860" alt="Eight points close to a line give r about 0.99; adding one outlier at (9, 2) drops r to about 0.45 and tilts the regression line." loading="lazy">
-  <figcaption>A single outlier can change r a lot.</figcaption>
-</figure>
 
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/edexcel-ial-mathematics-probability-and-correlation-and-regression--09-c-sample-size.webp" width="900" height="850" alt="Graph of the 5% one-tail critical value of r against n, falling with n. The line r = 0.5 is below the critical value at n = 6 (0.7293) and above it at n = 30 (0.3061), crossing at n = 12." loading="lazy">

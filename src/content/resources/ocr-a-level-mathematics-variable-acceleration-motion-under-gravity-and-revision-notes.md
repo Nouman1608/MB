@@ -61,6 +61,17 @@ These notes condense content references 3.02f to 3.02i of the OCR A Level Mathem
 4. Use t to connect the two directions. Find t from the vertical equation first.
 5. Reject roots that make no sense, such as negative times.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-kinematics--05-calculus-turning-points.webp" width="900" height="1040" alt="Two graphs share a time axis. Displacement x = 2t³ − 15t² + 24t reaches 11 m at t = 1, minus 16 m at t = 4 and minus 5 m at t = 5. Velocity, its derivative, is zero at t = 1 and 4 and negative between. Displacement is minus 5 m but distance is 11 + 27 + 11 = 49 m." loading="lazy">
+  <figcaption>Find where v = 0, split the motion there, and add the sizes of the stages for distance.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-kinematics--06-vector-motion-plane.webp" width="900" height="900" alt="The path of r = (t³ − 3t)i + (2t² + 1)j from t = 0 to 2 with velocity arrows. At t = 0 the velocity is minus 3i, at t = 1 it is 4j (i component zero) and at t = 2 it is 9i + 8j, speed 12.0 m/s, with acceleration 12i + 4j." loading="lazy">
+  <figcaption>Differentiate each component separately; parallel to j means the i component of velocity is zero.</figcaption>
+</figure>
+
+
 ## Worked reminders
 
 **A. Distance travelled.** A particle has s = 2t³ − 9t² + 12t for 0 ≤ t ≤ 3.
@@ -98,12 +109,6 @@ y = 1.732x − 0.0871x²
 horizontal distance = 10 × 2.673 ≈ 26.7 m
 ```
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-kinematics--01-distance-displacement.webp" width="900" height="910" alt="A number line from minus 4 to 14 m shows a particle moving 12 m forward, 5 m back and 9 m back, ending at minus 2 m after 20 s. Distance is 26 m, giving average speed 1.3 m/s. Displacement is minus 2 m, giving average velocity minus 0.1 m/s." loading="lazy">
-  <figcaption>Distance adds every leg; displacement only compares start and end, so the two averages differ.</figcaption>
-</figure>
-
-
 ## Phrases decoded
 
 | The question says | You do |
@@ -132,12 +137,6 @@ r = 6t i + (2 + 10t − 4.9t²)j     v = 6i + (10 − 9.8t)j
 
 At the highest point 10 − 9.8t = 0, so t = 1.02 s, and the height is 2 + 100/19.6 ≈ 7.10 m.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-kinematics--08-cliff-landing.webp" width="900" height="830" alt="A stone is thrown from a 20 m cliff at 18 m/s and 25 degrees above horizontal. Setting y = minus 20 gives 4.9t² − 7.607t − 20 = 0, with roots 2.94 s and minus 1.39 s. The negative root belongs to the dashed backward extension inside the cliff and is rejected. It lands 48.0 m away at 26.8 m/s." loading="lazy">
-  <figcaption>When the landing level differs, put the landing height into y and reject the negative root.</figcaption>
-</figure>
-
-
 ## Must-know distinctions
 
 - **Displacement and distance:** ∫v dt gives displacement. Distance needs the sign changes of v.
@@ -146,12 +145,6 @@ At the highest point 10 − 9.8t = 0, so t = 1.02 s, and the height is 2 + 100/1
 - **Maximum speed and maximum velocity:** a = 0 finds a stationary value of v, but check the ends of the interval for the greatest speed.
 - **Cartesian path and time equations:** the path equation has no t. Use it for "passes through a point" and shape questions, not for timing.
 - **Model and reality:** the model ignores air resistance, treats the object as a particle, keeps g constant and ignores wind.
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-kinematics--06-vector-motion-plane.webp" width="900" height="900" alt="The path of r = (t³ − 3t)i + (2t² + 1)j from t = 0 to 2 with velocity arrows. At t = 0 the velocity is minus 3i, at t = 1 it is 4j (i component zero) and at t = 2 it is 9i + 8j, speed 12.0 m/s, with acceleration 12i + 4j." loading="lazy">
-  <figcaption>Differentiate each component separately; parallel to j means the i component of velocity is zero.</figcaption>
-</figure>
-
 
 ## Quick self-test
 
@@ -182,8 +175,23 @@ At the highest point 10 − 9.8t = 0, so t = 1.02 s, and the height is 2 + 100/1
 11. v_y = 9.8 × 2.673 ≈ 26.2, so speed = √(10² + 26.2²) ≈ 28.0 m s⁻¹.
 
 <figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-kinematics--02-vt-graph-areas.webp" width="900" height="900" alt="A velocity-time graph rises to 12 m/s in 5 s, stays level to t = 11, then falls to minus 4 m/s at t = 15, crossing zero at t = 14. The areas are 30, 72, 18 above the axis and 2 below. Displacement is 118 m and distance 122 m." loading="lazy">
+  <figcaption>Gradients give acceleration; areas give displacement, and distance counts every area as positive.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-kinematics--04-vertical-two-roots.webp" width="900" height="910" alt="A displacement-time parabola for a ball thrown up at 21 m/s peaks at 22.5 m. The line s = 15 m meets it at t = 0.91 s going up and t = 3.38 s coming down, with velocities plus and minus 12.1 m/s from the tangent gradients. The gap of 2.47 s is the time above 15 m." loading="lazy">
+  <figcaption>The two roots of the quadratic are the times going up and coming down through the same height.</figcaption>
+</figure>
+
+<figure class="topic-figure">
   <img src="https://img.marlbridge.com/aqa-a-level-mathematics-kinematics--07-projectile-two-motions.webp" width="900" height="800" alt="A projectile launched at 24.5 m/s with sin α = 0.6, drawn to scale with dots every 0.5 s. The dots are 9.8 m apart horizontally (constant 19.6 m/s) while vertical speed falls from 14.7 to zero at the top and to minus 14.7 on landing. T = 3 s, R = 58.8 m, H = 11.0 m." loading="lazy">
   <figcaption>Horizontal motion is uniform and vertical motion has acceleration −g; time links the two.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-kinematics--08-cliff-landing.webp" width="900" height="830" alt="A stone is thrown from a 20 m cliff at 18 m/s and 25 degrees above horizontal. Setting y = minus 20 gives 4.9t² − 7.607t − 20 = 0, with roots 2.94 s and minus 1.39 s. The negative root belongs to the dashed backward extension inside the cliff and is rejected. It lands 48.0 m away at 26.8 m/s." loading="lazy">
+  <figcaption>When the landing level differs, put the landing height into y and reject the negative root.</figcaption>
 </figure>
 
 

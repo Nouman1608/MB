@@ -130,6 +130,11 @@ less → inside; equal → on; greater → outside.
 </figure>
 
 <figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-mathematics-pure-mathematics-1-coordinate-geometry--04-is-it-a-circle.webp" width="900" height="1070" alt="Equation x^2+y^2-4x+6y+k=0 completes to (x-2)^2+(y+3)^2=13-k: circles for k=0 and 9, a point at k=13 and nothing for k&gt;13." loading="lazy">
+  <figcaption>After completing the square the right-hand side is r squared, so it must be positive for a circle to exist.</figcaption>
+</figure>
+
+<figure class="topic-figure">
   <img src="https://img.marlbridge.com/a-level-mathematics-pure-mathematics-1-coordinate-geometry--05-angle-in-semicircle.webp" width="900" height="1046" alt="Circle with diameter PQ, P(1,7), Q(7,-1), point R(8,6): gradients -1/7 and 7 multiply to -1, so angle PRQ is 90 degrees." loading="lazy">
   <figcaption>A diameter subtends a right angle at any other point of the circle, which can be proved with gradients.</figcaption>
 </figure>
@@ -196,12 +201,6 @@ x(t) = 0.
   tangent (= 0).
 - **Cartesian vs parametric domain.** x = 3cos θ forces −3 ≤ x ≤ 3, even though the Cartesian equation
   may be defined for all x.
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-level-mathematics-pure-mathematics-1-coordinate-geometry--04-is-it-a-circle.webp" width="900" height="1070" alt="Equation x^2+y^2-4x+6y+k=0 completes to (x-2)^2+(y+3)^2=13-k: circles for k=0 and 9, a point at k=13 and nothing for k&gt;13." loading="lazy">
-  <figcaption>After completing the square the right-hand side is r squared, so it must be positive for a circle to exist.</figcaption>
-</figure>
-
 
 ## Quick self-test
 

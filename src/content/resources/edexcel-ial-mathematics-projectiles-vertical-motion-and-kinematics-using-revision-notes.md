@@ -80,6 +80,11 @@ Result for landing at launch level:
   <figcaption>Horizontal motion is uniform and vertical motion has acceleration −g; time links the two.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-kinematics--08-cliff-landing.webp" width="900" height="830" alt="A stone is thrown from a 20 m cliff at 18 m/s and 25 degrees above horizontal. Setting y = minus 20 gives 4.9t² − 7.607t − 20 = 0, with roots 2.94 s and minus 1.39 s. The negative root belongs to the dashed backward extension inside the cliff and is rejected. It lands 48.0 m away at 26.8 m/s." loading="lazy">
+  <figcaption>When the landing level differs, put the landing height into y and reject the negative root.</figcaption>
+</figure>
+
 
 ## 1.3 Calculus with displacement
 
@@ -130,12 +135,6 @@ v = dr/dt     a = dv/dt     r = ∫v dt     v = ∫a dt
 
 **Small worked reminder.** r = 2t³ i − 5t j: v = 6t² i − 5j, a = 12t i. At t = 1: v = 6i − 5j and speed = √61 = 7.81.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-kinematics--06-vector-motion-plane.webp" width="900" height="900" alt="The path of r = (t³ − 3t)i + (2t² + 1)j from t = 0 to 2 with velocity arrows. At t = 0 the velocity is minus 3i, at t = 1 it is 4j (i component zero) and at t = 2 it is 9i + 8j, speed 12.0 m/s, with acceleration 12i + 4j." loading="lazy">
-  <figcaption>Differentiate each component separately; parallel to j means the i component of velocity is zero.</figcaption>
-</figure>
-
-
 ## Worked reminders for exam-style steps
 
 **Vertical motion, two roots.** A ball is thrown up at 21 m s⁻¹ from the ground. For the time above 15 m, solve 4.9t² − 21t + 15 = 0. The roots are (21 ± √147)/9.8, so the time above is 2√147/9.8 = 2.47 s.
@@ -147,6 +146,12 @@ v = dr/dt     a = dv/dt     r = ∫v dt     v = ∫a dt
 **Vector constant.** Given a = 6t i − 2j and v = 4i + 5j at t = 0: v = 3t² i − 2t j + (4i + 5j) = (3t² + 4)i + (5 − 2t)j.
 
 **Exponential velocity.** v = 12e^(−t/2) integrates to x = −24e^(−t/2) + c. If x = 0 at t = 0, then c = 24 and x tends to 24 as t increases.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-kinematics--06-vector-motion-plane.webp" width="900" height="900" alt="The path of r = (t³ − 3t)i + (2t² + 1)j from t = 0 to 2 with velocity arrows. At t = 0 the velocity is minus 3i, at t = 1 it is 4j (i component zero) and at t = 2 it is 9i + 8j, speed 12.0 m/s, with acceleration 12i + 4j." loading="lazy">
+  <figcaption>Differentiate each component separately; parallel to j means the i component of velocity is zero.</figcaption>
+</figure>
+
 
 ## Checks before you write the answer
 
@@ -206,11 +211,6 @@ v = dr/dt     a = dv/dt     r = ∫v dt     v = ∫a dt
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/aqa-a-level-mathematics-kinematics--03-suvat-trapezium.webp" width="900" height="920" alt="A straight-line velocity-time graph from 5 to 13 m/s over 4 s has gradient 2. The area is a 36 m trapezium that splits into a rectangle of 20 and a triangle of 16. These give v = u + at, s = ½(u+v)t, s = ut + ½at², and eliminating t gives v² = u² + 2as." loading="lazy">
   <figcaption>The suvat equations are the gradient and area of one straight-line velocity-time graph.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-kinematics--08-cliff-landing.webp" width="900" height="830" alt="A stone is thrown from a 20 m cliff at 18 m/s and 25 degrees above horizontal. Setting y = minus 20 gives 4.9t² − 7.607t − 20 = 0, with roots 2.94 s and minus 1.39 s. The negative root belongs to the dashed backward extension inside the cliff and is rejected. It lands 48.0 m away at 26.8 m/s." loading="lazy">
-  <figcaption>When the landing level differs, put the landing height into y and reject the negative root.</figcaption>
 </figure>
 
 <figure class="topic-figure">

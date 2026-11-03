@@ -142,6 +142,21 @@ Typical examples: iron, copper, nickel, manganese, chromium.
   <figcaption>Transition elements are dense, high-melting, form coloured compounds and often act as catalysts.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/periodic-table-groups-and-trends--07-iron-ions.webp" width="900" height="910" alt="Group I sodium only forms Na+. Iron forms Fe2+ (iron(II), in FeSO4) by losing two electrons and Fe3+ (iron(III), in FeCl3) by losing three, so transition elements have variable oxidation numbers." loading="lazy">
+  <figcaption>Iron forms two stable ions, iron(II) and iron(III), unlike Group I metals.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/metal-properties-and-reactivity--02-reactivity-ladder.webp" width="900" height="1089" alt="A ladder from potassium (most reactive) to gold (least) with carbon and hydrogen as dashed reference rows. Ticks, half circles and crosses show reaction with cold water, steam and dilute hydrochloric acid; aluminium is starred for its oxide layer." loading="lazy">
+  <figcaption>Position in the series predicts reactions with water, steam and acid.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/metal-properties-and-reactivity--03-acid-test.webp" width="900" height="970" alt="Three test tubes of dilute hydrochloric acid. Magnesium fizzes fast with many hydrogen bubbles, iron fizzes slowly with a few, and copper shows none, giving the order magnesium, iron, copper." loading="lazy">
+  <figcaption>More vigorous fizzing in dilute acid means a more reactive metal.</figcaption>
+</figure>
+
 
 ## Predicting from position (C4.1d)
 
@@ -182,6 +197,12 @@ A useful order, most reactive first: potassium, sodium, lithium, calcium, magnes
 5. Check that your order is consistent with every result, not just one.
 
 Worked reminder: sodium in water gives 45 cm³ of hydrogen in 15 s. Mean rate = 45 ÷ 15 = **3.0 cm³/s**.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/metal-properties-and-reactivity--04-displacement.webp" width="900" height="940" alt="An iron nail in blue copper(II) sulfate becomes coated in pink-brown copper while the solution turns pale green. Iron atoms lose two electrons to form Fe2+ and the copper ions gain them to form copper atoms." loading="lazy">
+  <figcaption>The more reactive metal loses electrons and displaces the less reactive metal.</figcaption>
+</figure>
+
 
 ## Practical links
 

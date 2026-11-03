@@ -143,6 +143,12 @@ For Kc only (the specification says not for Kp). Typical esterification or ester
 
 **Worked reminder.** For an equilibrium, Kc = 4.6 at 400 K and 1.9 at 500 K. Kc falls as temperature rises, so the forward reaction is **exothermic**, and the equilibrium yield of products is lower at 500 K. A catalyst at 500 K would give the same Kc of 1.9; it would just reach it sooner.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-chemical-equilibria-le-chateliers-principle-and-kc--05-haber-compromise.webp" width="900" height="900" alt="Percentage of ammonia at equilibrium falls as temperature rises and increases with pressure (10, 100, 200 atm). A bar shows rate rising with temperature, so a moderate temperature and high pressure are chosen. The catalyst only speeds up the approach." loading="lazy">
+  <figcaption>A moderate temperature and high pressure balance yield, rate and cost; the catalyst does not raise yield.</figcaption>
+</figure>
+
+
 ## How K controls position, 5.1.2(g)
 
 Work out the same expression with the new, non-equilibrium values (the quotient) and compare with K:

@@ -94,6 +94,11 @@ don't unbalance it) of the trial balance as a verification tool.
   <figcaption>The size of a trial balance difference points to the type of error.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-edexcel-accounting-control-accounts-and-correction-of-errors--03-suspense-clears.webp" width="900" height="776" alt="A suspense account opens with a credit of 630 because debits of 186,420 exceed credits of 185,790. Debit corrections of 400, 270 and 140 and credit corrections of the opening 630 and 180 each total 810, so the account clears to zero. Errors of commission and principle bypass suspense." loading="lazy">
+  <figcaption>Each correction that caused the imbalance passes through suspense until it clears to nil.</figcaption>
+</figure>
+
 
 ## 1.4.3 Bank reconciliation statements
 

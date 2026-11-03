@@ -243,6 +243,12 @@ Human females are **XX** and males are **XY**. Every egg carries an X. Half the 
 
 The ratio is **1 female : 1 male**, so each child has an equal chance of being either sex. The sperm decides the sex.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-inheritance--02-sex-inheritance.webp" width="900" height="990" alt="Punnett square: mother XX gives X eggs, father XY gives X or Y sperm. Four equally likely children: two XX girls and two XY boys, ratio 1:1, so each child has a 50% chance of being a boy. The sperm decides the sex." loading="lazy">
+  <figcaption>Half of sperm carry Y, so each child has a 50% chance of being a boy.</figcaption>
+</figure>
+
+
 ### Mutation (17.3.9–17.3.12)
 
 - A **gene mutation** is a **random change in the base sequence of DNA**. Example: **sickle cell anaemia**. A change in the base sequence of the gene for haemoglobin changes the amino acid sequence, so the haemoglobin has a different shape. Red blood cells can become sickle-shaped. This links straight back to 17.2.4–17.2.5.
@@ -253,6 +259,11 @@ The ratio is **1 female : 1 male**, so each child has an equal chance of being e
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/o-level-biology-5090-inheritance--09-gene-vs-chromosome-mutation.webp" width="900" height="1260" alt="A one-base change in an illustrative DNA sequence changes an amino acid and so the protein shape, as in sickle cell anaemia. A chromosome mutation changes number: Down syndrome has 47 chromosomes instead of 46." loading="lazy">
   <figcaption>Gene mutation changes bases; chromosome mutation changes number or structure.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-variation-and-selection--02-mutation.webp" width="900" height="1215" alt="Core: mutation is genetic change that forms new alleles; ionising radiation and some chemicals raise its rate. Extended: a gene mutation changes one base in the DNA sequence, which can change the protein shape; sources of variation are mutation, meiosis, random mating and random fertilisation." loading="lazy">
+  <figcaption>Mutation forms new alleles; radiation and some chemicals raise the rate.</figcaption>
 </figure>
 
 
@@ -272,6 +283,12 @@ Repeated over many generations, the alleles for the useful feature become more c
 
 Within a population of bacteria, a few may be resistant to an antibiotic because of a mutation. The antibiotic kills the others; the resistant bacteria survive, reproduce and pass on the resistance allele. Repeated use builds up a **resistant strain**. **MRSA** (methicillin-resistant *Staphylococcus aureus*) is such a strain, resistant to many commonly used antibiotics. Limiting antibiotic use is covered in [Disease and immunity](/resources/o-level-biology-5090-disease-and-immunity/).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-variation-and-selection--06-antibiotic-resistance.webp" width="900" height="1190" alt="Five dishes of bacteria: a random mutation makes one bacterium resistant; the antibiotic kills the six non-resistant ones; the survivor has less competition; it reproduces and passes on the allele; a resistant strain forms quickly." loading="lazy">
+  <figcaption>The mutation was already there; the antibiotic selected the resistant bacterium.</figcaption>
+</figure>
+
+
 ### Artificial selection (17.4.4–17.4.5)
 
 **Artificial selection** (selective breeding):
@@ -287,6 +304,17 @@ It is used to produce **economically important** plants and animals: crops with 
 |---|---|---|
 | Who or what selects | The environment | Humans |
 | Features favoured | Those that help survival and reproduction | Those useful to humans |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-variation-and-selection--05-natural-selection.webp" width="900" height="1110" alt="Ten beetles per row. Generation 1 has 3 brown and 7 green. Birds eat green beetles more often, leaving 3 brown and 2 green. Survivors breed, giving 6 brown of 10 in generation 2, and after many generations 9 brown of 10. Illustrative numbers show the brown allele becoming more common." loading="lazy">
+  <figcaption>Better-adapted individuals survive and breed, so their alleles become more common.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-variation-and-selection--07-selective-breeding.webp" width="900" height="1180" alt="A loop shows choosing the best plants, crossing them, and growing offspring and choosing the best, repeated for many generations. A line graph shows wheat yield rising over four rounds: 3.2, 3.5, 3.9, 4.3 tonnes per hectare, a 34.4% increase. Uses are higher yield and disease resistance in crops and more milk, meat and calmer temperament in animals." loading="lazy">
+  <figcaption>Choosing and crossing the best plants over many generations raises yield.</figcaption>
+</figure>
+
 
 ## Common errors
 

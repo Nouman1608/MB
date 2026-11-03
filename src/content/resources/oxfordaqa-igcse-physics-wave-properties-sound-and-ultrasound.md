@@ -187,6 +187,16 @@ Sound is **reflected** (an echo is a reflected sound heard after the original) a
   <figcaption>One cycle of 4 divisions at 0.5 ms per division is 2.0 ms, giving 500 Hz.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-physics-waves--03-sound-oscilloscope.webp" width="900" height="980" alt="Three oscilloscope traces: 200 Hz reference (2 waves in 10 ms), 400 Hz (4 waves, higher pitch) and 200 Hz with larger amplitude (louder, same pitch)." loading="lazy">
+  <figcaption>Higher frequency means higher pitch; larger amplitude means louder sound.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-sound-waves-at-boundaries-and-hearing--09-hearing-range.webp" width="900" height="700" alt="On a log frequency axis a young listener hears 20 Hz to 20 kHz, with infrasound below and ultrasound above. In air the wavelengths are 17 m and 1.7 cm. With the upper limit at 14 kHz a 16 kHz tone is not heard." loading="lazy">
+  <figcaption>Human hearing spans about 20 Hz to 20 kHz, and the top end falls with age.</figcaption>
+</figure>
+
 
 ## Ultrasound (3.3.3 d to f, P)
 
@@ -230,6 +240,16 @@ Distance between the boundaries = 0.105 - 0.045 = 0.060 m (6.0 cm)
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/oxfordaqa-igcse-physics-wave-properties-sound-and-ultrasound--02-ultrasound-two-echoes.webp" width="900" height="1170" alt="A probe sends an ultrasound pulse that reflects partly at boundaries A and B. On the oscilloscope (20 microseconds per division) the sent pulse is at 0 and echoes at 3 and 7 divisions. Halving the round-trip times gives 4.5 cm and 10.5 cm, so the boundaries are 6.0 cm apart." loading="lazy">
   <figcaption>Halve each echo time, then use s = vt to find each boundary and the gap between them.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-wave-properties-transverse-and-longitudinal-waves--08-echo-speed-of-sound.webp" width="900" height="860" alt="A pupil 51 m from a wall hears the echo 0.30 s after a clap. The sound travels 2 x 51 = 102 m, so the speed is 102 / 0.30 = 340 m/s." loading="lazy">
+  <figcaption>Echo method: speed = 2d divided by t.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-physics-waves--08-sonar.webp" width="900" height="1060" alt="A pulse goes down and the echo returns in 0.40 s at 1500 m/s: 600 m there and back, so the depth is 300 m." loading="lazy">
+  <figcaption>Depth = speed x time / 2, because the pulse travels there and back.</figcaption>
 </figure>
 
 

@@ -33,6 +33,12 @@ Once you have worked through it, condense with the [revision notes](/resources/o
 
 This unit builds on the gene pool and allele frequency ideas of section 3.3.7. The specification's Unit 3 principles include "selection leads to the accumulation of genetic differences in populations", which is the thread running through this guide.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-selection-and-evolution--05-hardy-weinberg-square.webp" width="900" height="1010" alt="A unit square is divided by p = 0.8 and q = 0.2 into AA 0.64, two Aa areas of 0.16 and aa 0.04. For 400 animals with 16 recessive, q squared is 0.04, so q is 0.2, p is 0.8, 2pq is 0.32 and there are 128 carriers." loading="lazy">
+  <figcaption>p squared, 2pq and q squared are the areas of a square split by the two allele frequencies.</figcaption>
+</figure>
+
+
 ## 3.3.8.1 The theory of evolution
 
 ### Evolution is a change in allele frequency
@@ -128,6 +134,11 @@ Success peaks at a clutch of 3. A clutch of 5 fledges 1.1 ÷ 2.1 = 52%, so 48% f
 | Adults | 28 | 18 | 26 |
 
 Adults number 72 out of 140 juveniles (51%). Medium is the most common juvenile class but the least common adult class, so the next generation will have two peaks. If breeding then stops between the two peaks, disruptive selection can lead to speciation.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-selection-and-evolution--01-polygenes-bell-curve.webp" width="900" height="1040" alt="A bar chart of offspring from AaBbCc x AaBbCc across 0 to 6 height-adding alleles: 1, 6, 15, 20, 15, 6, 1 out of 64. A plant under each bar gets taller as the number of adding alleles rises. Many small additive genes, blurred by the environment, give a smooth continuous range." loading="lazy">
+  <figcaption>Many genes with small additive effects give a bell-shaped distribution of offspring.</figcaption>
+</figure>
 
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/a-level-biology-9700-selection-and-evolution--02-three-types-of-selection.webp" width="900" height="1274" alt="Three panels each show a dashed bell curve before selection and a solid curve after. Stabilising selection narrows the curve with the mean unchanged, directional selection shifts it toward one extreme, and disruptive selection leaves two peaks and removes the middle." loading="lazy">

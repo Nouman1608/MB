@@ -76,6 +76,11 @@ Osmosis is passive. It only moves water. Solute particles are too large to follo
   <figcaption>Water moves through the membrane from the dilute to the concentrated solution; solute particles cannot pass.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-movement-into-and-out-of-cells--04-plant-cell-osmosis.webp" width="900" height="1190" alt="Three plant cells. Turgid: in a dilute solution water moves in, the vacuole is large and turgor pressure pushes on the cell wall so the cell is firm. Flaccid: no net water movement, the cell is limp. Plasmolysed: in a concentrated solution water moves out and the cytoplasm and membrane pull away from the wall. The terms are Extended." loading="lazy">
+  <figcaption>A turgid cell is firm because water pressure pushes on the wall; in a concentrated solution the cell loses water and is plasmolysed.</figcaption>
+</figure>
+
 
 ### Active transport
 
@@ -93,6 +98,16 @@ Examples: root hair cells take up mineral ions from soil water when the soil con
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/ocr-gcse-biology-transport-across-membranes-mitosis-and-stem-cells--01-nitrate-uptake-oxygen.webp" width="900" height="1210" alt="Two beakers hold a root, one bubbled with air and one with nitrogen. Bars show nitrate uptake of 5.0 and 1.0 units per hour, an 80 percent fall. Uptake needing oxygen means it needs respiration energy, pointing to active transport." loading="lazy">
   <figcaption>Nitrate uptake falls 80% without oxygen, so it needs respiration: active transport.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-movement-into-and-out-of-cells--06-active-transport.webp" width="900" height="1120" alt="A membrane separates low concentration (top) from high concentration (bottom). Step 1: a particle binds a carrier protein facing the low side. Step 2: energy from respiration changes the carrier and the particle is released on the high side, so it moves against the gradient. Extended: protein carriers, for example ion uptake by root hairs." loading="lazy">
+  <figcaption>Active transport moves particles from low to high concentration using energy from respiration.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-movement-into-and-out-of-cells--07-three-processes.webp" width="900" height="1030" alt="Three pictures. Diffusion is passive: particles move from high to low concentration, no energy needed. Osmosis is passive: water moves through a partially permeable membrane, no energy needed. Active transport is active: a carrier moves particles from low to high concentration using energy from respiration." loading="lazy">
+  <figcaption>Diffusion and osmosis are passive; active transport uses energy from respiration to move particles against the gradient.</figcaption>
 </figure>
 
 
@@ -121,6 +136,16 @@ Explaining the 0.6 result: the solution had a lower water potential than the cel
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/ocr-gcse-biology-transport-across-membranes-mitosis-and-stem-cells--06-swede-cylinders-graph.webp" width="900" height="800" alt="Graph of percentage change in mass against sucrose concentration: +12.0, +5.0, -2.0, -10.0 percent at 0.0, 0.2, 0.4, 0.6 mol/dm3. The line crosses zero at about 0.34 mol/dm3 where there is no net water movement." loading="lazy">
   <figcaption>Percentage mass change falls with sucrose concentration and crosses zero near 0.34 mol/dm3.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-biology-8461-transport-in-cells--04-rp3-zero-crossing.webp" width="900" height="880" alt="Graph of percentage change in mass against concentration. A straight line through (0.2, +4.0) and (0.4, −6.0) crosses zero at 0.28 mol/dm³, where the solution matches the cell contents. Above zero the tissue gains mass; below zero it loses mass." loading="lazy">
+  <figcaption>The zero crossing of the line estimates the concentration of the cell contents.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-biology-8461-transport-in-cells--03-percentage-change-mass.webp" width="900" height="800" alt="Bar chart of two potato cylinders. Cylinder 1 goes from 2.50 g to 2.80 g (+12.0 %); cylinder 2 from 2.40 g to 2.04 g (−15.0 %). The formula is (final − initial) ÷ initial × 100." loading="lazy">
+  <figcaption>A gain gives a positive percentage, a loss a negative one.</figcaption>
 </figure>
 
 
@@ -195,6 +220,11 @@ This is high because cells near the tip are dividing for growth. A section furth
   <figcaption>35 of 250 cells in mitosis is 14.0%, high because cells near the tip divide for growth.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-biology-8461-cell-division--03-cell-cycle-dna.webp" width="900" height="980" alt="Three drawn stages: grow and copy DNA, mitosis moves one set of chromosomes to each end, the cell splits into two identical cells. Graph of DNA per cell: 8 units, rising to 16 in stage 1, flat at 16 through mitosis, then 8 in each new cell." loading="lazy">
+  <figcaption>DNA doubles from 8 to 16 units, then each new cell has 8 again.</figcaption>
+</figure>
+
 
 ## Differentiation (B2.1c)
 
@@ -214,6 +244,11 @@ Examples to be able to explain for each: structure first, then how it helps the 
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/ocr-gcse-biology-transport-across-membranes-mitosis-and-stem-cells--05-muscle-cell-adaptations.webp" width="900" height="790" alt="Elongated muscle cell drawn relaxed and contracted. Each shows three parallel contractile fibres and ten mitochondria. Fibres shorten to contract; mitochondria supply energy from respiration." loading="lazy">
   <figcaption>Muscle cell: contractile fibres and many mitochondria.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-organisation-of-the-organism--05-specialised-cells.webp" width="900" height="1190" alt="Six schematic cells with the syllabus function of each: ciliated cell (movement of mucus in trachea and bronchi), root hair cell (absorption), palisade mesophyll cell (photosynthesis), neurone (conduction of electrical impulses), red blood cell (transport of oxygen, no nucleus) and sperm and egg cells (reproduction)." loading="lazy">
+  <figcaption>Each specialised cell has a shape and structures that suit its job.</figcaption>
 </figure>
 
 
@@ -238,6 +273,12 @@ Stem cells divide to produce a range of cell types for development, growth and r
 | Source | Early embryo | Tissues such as bone marrow |
 | Range of cells it can become | Any cell type in the body | Limited range, often only cells of its own tissue |
 | Role | Forming the embryo and its growth | Repair and replacement during life |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-biology-8461-cell-division--04-stem-cell-sources.webp" width="900" height="910" alt="Three panels: embryonic stem cells make most human cell types (six shown), adult bone marrow stem cells make blood cells and a narrower range (two shown), plant meristem stem cells make any plant cell type throughout life." loading="lazy">
+  <figcaption>Embryonic, adult and meristem stem cells differ in the range of cells they can become.</figcaption>
+</figure>
+
 
 ## Percentage gain and percentiles
 

@@ -106,6 +106,11 @@ potassium  sodium  lithium  calcium  magnesium  [carbon]  zinc  iron  [hydrogen]
   <figcaption>The more reactive metal loses electrons and displaces the less reactive metal.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/alloys-and-extraction-of-metals--02-extraction-method.webp" width="900" height="920" alt="A ladder of metals from most to least reactive with carbon marked in the middle. Metals above carbon, such as aluminium, are extracted by electrolysis; zinc and iron below carbon by heating with carbon; gold is found uncombined." loading="lazy">
+  <figcaption>Carbon can only reduce oxides of metals less reactive than itself; more reactive metals need electrolysis.</figcaption>
+</figure>
+
 
 ## 4.4.2 Reactions of acids
 
@@ -132,6 +137,12 @@ Balance the charges to zero. Use brackets when more than one polyatomic ion is n
 
 **Higher tier only:** metal + acid is a redox reaction. Mg + 2H⁺ → Mg²⁺ + H₂: Mg is oxidised, H⁺ is reduced.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/formulae-equations-and-the-mole--02-ionic-formula.webp" width="900" height="950" alt="One Mg2+ ion balances two Cl- ions, giving MgCl2. Two Al3+ ions (+6) balance three O2- ions (-6), giving Al2O3." loading="lazy">
+  <figcaption>The formula is the ratio of ions that makes total positive and negative charge equal.</figcaption>
+</figure>
+
+
 ### Required practical 1 -- method in steps
 
 1. Warm dilute acid with a Bunsen burner.
@@ -147,6 +158,16 @@ Why excess solid? So all the acid reacts and the salt is not contaminated with a
   <figcaption>Worked example 5 as four steps: moles of acid, ratio, concentration, then g/dm3 (Higher tier only).</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/acids-bases-and-salts--06-soluble-salt-prep.webp" width="900" height="1130" alt="Four steps: add excess solid to acid, filter off the unreacted solid, evaporate the filtrate until crystals start to form, then crystallise, filter and dry. A note says that with an alkali you titrate to the exact volume." loading="lazy">
+  <figcaption>Excess solid guarantees all the acid reacts; filter before evaporating.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/practical-techniques-titrations-chromatography-separation--02-titration.webp" width="900" height="1075" alt="A burette of acid sits above a conical flask of alkali plus indicator, with a pipette measuring the alkali. An inset shows reading the bottom of the meniscus at eye level. Three flasks show the colour at first, a flash that fades on swirling, and one drop giving a permanent colour change: the end-point." loading="lazy">
+  <figcaption>The end-point is where one drop makes the colour change permanent; read the burette at the bottom of the meniscus.</figcaption>
+</figure>
+
 
 ### pH and neutralisation
 
@@ -154,6 +175,22 @@ Why excess solid? So all the acid reacts and the salt is not contaminated with a
 - pH 0–14; 7 neutral; below 7 acid; above 7 alkali.
 - Universal indicator (or wide range indicator) gives an approximate pH by colour; a pH probe gives a reading.
 - Neutralisation: **H⁺ + OH⁻ → H₂O**.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/acids-bases-and-salts--02-acid-reactions.webp" width="900" height="975" alt="Four test tubes: acid with metal gives salt and hydrogen; acid with base gives salt and water; acid with carbonate gives salt, water and carbon dioxide; a base warmed with an ammonium salt releases ammonia." loading="lazy">
+  <figcaption>Know the products of each reaction, including the easily forgotten carbon dioxide.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/acids-bases-and-salts--01-ph-and-indicators.webp" width="900" height="1010" alt="The universal indicator bar runs from red (pH 0) through green (pH 7) to purple (pH 14). Acidic solutions have more H+ ions, alkaline ones more OH- ions. Three tube pairs show litmus, thymolphthalein and methyl orange in acid and alkali." loading="lazy">
+  <figcaption>pH colours and indicator colours show what ions the solution holds.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/acids-bases-and-salts--03-neutralisation.webp" width="900" height="900" alt="A larger oval of bases contains a smaller oval of alkalis; copper(II) oxide is a base but not an alkali. Beakers show five H+ ions plus five OH- ions giving five water molecules." loading="lazy">
+  <figcaption>Every alkali is a base, and neutralisation is H+ + OH- making water.</figcaption>
+</figure>
+
 
 ### Required practical 2: titration -- method in steps
 
@@ -180,6 +217,11 @@ in g/dm³: 0.0880 × 56 = 4.93 g/dm³
   <figcaption>Spectator ions are removed to get the ionic equation, then split into half equations (Higher tier only).</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/redox-reactions--02-electron-transfer.webp" width="900" height="920" alt="A zinc atom becomes a Zn2+ ion by losing two electrons (oxidation). A downward arrow carries the two electrons to a Cu2+ ion, which becomes a copper atom (reduction). No oxygen is involved." loading="lazy">
+  <figcaption>Zinc loses two electrons and Cu2+ gains them: oxidation and reduction without any oxygen.</figcaption>
+</figure>
+
 
 ### Strong and weak acids (Higher tier only)
 
@@ -197,12 +239,23 @@ in g/dm³: 0.0880 × 56 = 4.93 g/dm³
   <figcaption>Higher tier: Zn + 2H+ as electron transfer, with oxidation and reduction labelled.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/acids-bases-and-salts--04-strong-weak-acids.webp" width="900" height="1090" alt="Two boxes of ten acid particles. In hydrochloric acid all ten split into H+ and Cl- ions. In ethanoic acid only two split and eight stay as molecules, so it uses a reversible arrow." loading="lazy">
+  <figcaption>Strong acids split completely; weak acids only partly.</figcaption>
+</figure>
+
 
 ## 4.4.3 Electrolysis
 
 ### Molten compounds
 
 Metal at the cathode, non-metal at the anode (inert electrodes). Molten lead bromide → lead + bromine.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/electrolysis-and-fuel-cells--01-molten-electrolysis.webp" width="900" height="1170" alt="A crucible of molten lead(II) bromide has two graphite electrodes joined to a power supply. Pb2+ ions move to the cathode and form lead; Br- ions move to the anode and form bromine. Electrons flow from the supply to the cathode and back from the anode (Extended), with the two half-equations." loading="lazy">
+  <figcaption>Ions carry charge through the melt and electrons through the wires; lead forms at the cathode and bromine at the anode.</figcaption>
+</figure>
+
 
 ### Aluminium
 
@@ -238,6 +291,21 @@ Check that atoms and charges balance on each side.
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/aqa-gcse-chemistry-8462-chemical-changes--05-cc-half-equations.webp" width="900" height="1110" alt="An electrolysis cell with hydrogen ions moving to the negative cathode to form hydrogen, and hydroxide ions moving to the positive anode to form oxygen and water. The half equations 2H+ + 2e- gives H2 and 4OH- gives O2 + 2H2O + 4e- are shown with reduction and oxidation labelled." loading="lazy">
   <figcaption>Higher tier: where the half equations 2H+ + 2e- and 4OH- happen in an aqueous electrolysis cell.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/electrolysis-and-fuel-cells--02-free-ions.webp" width="900" height="910" alt="Four panels compare solid ionic, molten ionic, ionic in water and covalent substances. Only the molten and dissolved ionic ones have free ions, so only they conduct and can be electrolysed." loading="lazy">
+  <figcaption>Electrolysis needs free-moving ions: molten or dissolved ionic compounds, never solids or covalent substances.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/alloys-and-extraction-of-metals--06-aluminium-cell.webp" width="900" height="1080" alt="An electrolysis cell: carbon anodes dip into molten cryolite containing dissolved aluminium oxide. Al3+ ions move to the cathode and form molten aluminium; O2- ions go to the anodes and form oxygen, which burns the carbon anodes away as carbon dioxide." loading="lazy">
+  <figcaption>Aluminium oxide is dissolved in molten cryolite and electrolysed; the carbon anodes burn away and are replaced.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/electrolysis-and-fuel-cells--03-aqueous-rules.webp" width="900" height="1215" alt="At the cathode, a reactivity ladder shows that metals above hydrogen stay dissolved and hydrogen forms, while copper and silver below hydrogen form the metal. At the anode a concentrated halide gives a halogen, but a dilute halide or none gives oxygen (Extended)." loading="lazy">
+  <figcaption>Hydrogen forms unless the metal is below it in reactivity; a halide is discharged only if concentrated, otherwise oxygen forms.</figcaption>
 </figure>
 
 
@@ -279,6 +347,12 @@ Check that atoms and charges balance on each side.
 10. Hydrogen at the cathode; chlorine at the anode.
 11. It lowers the melting temperature, so less energy is needed.
 12. 2Cl⁻ → Cl₂ + 2e⁻.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/redox-reactions--01-oxygen-transfer.webp" width="900" height="960" alt="Copper(II) oxide has a copper atom bonded to oxygen, beside a hydrogen molecule. A dashed arrow shows the oxygen moving to the hydrogen. Afterwards there is a copper atom and a water molecule: copper lost oxygen (reduced) and hydrogen gained oxygen (oxidised)." loading="lazy">
+  <figcaption>In CuO + H2 -&gt; Cu + H2O oxygen moves from copper to hydrogen, so reduction and oxidation happen together.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

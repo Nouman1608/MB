@@ -170,11 +170,6 @@ The notation sin⁻¹x means "the angle whose sine is x". It does not mean 1/sin
   <figcaption>The area of one triangle, written two ways, proves the sin(A + B) formula.</figcaption>
 </figure>
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ocr-a-level-mathematics-reciprocal-and-inverse-trig-functions-identities--08-r-form-wave.webp" width="900" height="1100" alt="y = 7 sin x − 24 cos x equals 25 sin(x − 73.74°): a sine wave of amplitude 25 shifted right by α. The 7, 24, 25 triangle gives R cos α = 7 and R sin α = 24. The line y = 10 meets the curve at 97.3° and 230.2°." loading="lazy">
-  <figcaption>R is the amplitude and α the shift of the combined wave.</figcaption>
-</figure>
-
 
 ### Graphs as reflections in y = x
 
@@ -195,6 +190,12 @@ The domain is the same as for cos⁻¹x: −1 ≤ x ≤ 1. For the range, 0 ≤ 
 **Worked example 7.** Find the domain of g(x) = sin⁻¹(2x − 1).
 
 The input to sin⁻¹ must lie in [−1, 1]: −1 ≤ 2x − 1 ≤ 1, so 0 ≤ 2x ≤ 2, giving **0 ≤ x ≤ 1**.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-mathematics-reciprocal-and-inverse-trig-functions-identities--09-solve-sin-symmetry.webp" width="900" height="960" alt="Sine graph with the line y = −0.4 meeting it at 203.6° and 336.4°, each a reference angle α = 23.58° from 180° and 360°. The calculator value −23.58° is outside the interval." loading="lazy">
+  <figcaption>Find the reference angle, then use symmetry to list every solution in the interval.</figcaption>
+</figure>
+
 
 ### Exact values
 
@@ -265,6 +266,11 @@ Answer: **−4/3**.
   <figcaption>arcsin(sin x) always lands in [−π/2, π/2], so it equals x only on that interval.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-mathematics-reciprocal-and-inverse-trig-functions-identities--08-r-form-wave.webp" width="900" height="1100" alt="y = 7 sin x − 24 cos x equals 25 sin(x − 73.74°): a sine wave of amplitude 25 shifted right by α. The 7, 24, 25 triangle gives R cos α = 7 and R sin α = 24. The line y = 10 meets the curve at 97.3° and 230.2°." loading="lazy">
+  <figcaption>R is the amplitude and α the shift of the combined wave.</figcaption>
+</figure>
+
 
 ## Common errors
 
@@ -276,12 +282,6 @@ Answer: **−4/3**.
 - Forgetting that tan⁻¹x has asymptotes but no end points, while sin⁻¹x and cos⁻¹x stop at x = ±1.
 - Using 1 + tan²x = sec²x in an equation and then stopping at the quadratic. Solve for tan x, then go back to find the angles, including every solution in the interval.
 - Taking the wrong sign for the root when finding sin(cos⁻¹x) or cos(sin⁻¹x). Use the range to decide.
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ocr-a-level-mathematics-reciprocal-and-inverse-trig-functions-identities--09-solve-sin-symmetry.webp" width="900" height="960" alt="Sine graph with the line y = −0.4 meeting it at 203.6° and 336.4°, each a reference angle α = 23.58° from 180° and 360°. The calculator value −23.58° is outside the interval." loading="lazy">
-  <figcaption>Find the reference angle, then use symmetry to list every solution in the interval.</figcaption>
-</figure>
-
 
 ## Next steps
 

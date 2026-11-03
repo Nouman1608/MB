@@ -97,6 +97,11 @@ Contact force = 52 + 0.060 × 9.81 = 53 N.
 </figure>
 
 <figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-oxfordaqa-physics-motion-and-newtons-laws--03-lift-tension.webp" width="900" height="900" alt="Three free-body diagrams of a 640 kg lift to one scale. Accelerating upward the tension is 7.0 kN, at constant speed 6.3 kN, and decelerating while moving up 5.5 kN, always against a weight of 6.3 kN. Net force is 0.77 kN up, zero, and 0.77 kN down." loading="lazy">
+  <figcaption>Tension is larger than weight when acceleration is upward and smaller when it is downward, T = m(g + a).</figcaption>
+</figure>
+
+<figure class="topic-figure">
   <img src="https://img.marlbridge.com/a-level-oxfordaqa-physics-motion-and-newtons-laws--05-momentum-change.webp" width="900" height="1090" alt="A ball hits a wall at 32 m s-1 and rebounds at 24 m s-1. Taking towards the wall as positive, the initial momentum is +1.824 and the final is -1.368 kg m s-1, so the change is -3.192. The velocity change is 56 m s-1, not 8. Over 4.5 ms the average force is 709 N away from the wall." loading="lazy">
   <figcaption>Because momentum is a vector, a rebound changes it by the sum of the two sizes, and F = Δp/Δt gives the force.</figcaption>
 </figure>
@@ -124,6 +129,12 @@ Contact force = 52 + 0.060 × 9.81 = 53 N.
 Area = ½ × 0.0050 × 300 + 0.010 × 300 + ½ × 0.0050 × 300 = 0.75 + 3.0 + 0.75 = 4.5 N s.
 For a 0.30 kg ball starting from rest, v = 4.5 / 0.30 = 15 m s⁻¹.
 Average force = 4.5 / 0.020 = 225 N, which is below the 300 N plateau.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-oxfordaqa-physics-motion-and-newtons-laws--04-terminal-velocity.webp" width="900" height="1130" alt="A velocity-time graph for a faller computed from a drag-squared model, with points A to E and matching free-body diagrams. Drag grows from zero until it equals the weight at terminal velocity (40 m s-1), then the parachute opens, drag exceeds weight and the speed falls to a smaller terminal velocity (8 m s-1) where drag again equals weight." loading="lazy">
+  <figcaption>Acceleration falls to zero as drag grows to equal weight; opening a parachute gives a new, smaller terminal velocity.</figcaption>
+</figure>
+
 
 ## Impact forces and contact times
 

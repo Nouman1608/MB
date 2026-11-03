@@ -80,6 +80,21 @@ At P = 18: Qd = 270, Qs = 390, surplus of 120
   <figcaption>In financial markets the price is an interest rate or yield, and a lower bond price means a higher yield.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-how-markets-work--05-product-and-factor-markets.webp" width="900" height="880" alt="A loop diagram: in the product market firms supply goods and services to households and households pay money. In the factor market households supply labour, land and capital and receive wages, rent, interest and profit." loading="lazy">
+  <figcaption>Households and firms meet in two markets: one for products and one for factors of production.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-objectives-of-government--08-labour-market-shifts.webp" width="900" height="1296" alt="Wage and workers diagrams starting at $10 and 120 thousand workers. Automation shifts demand left: wage 7.6, employment 102 thousand. A higher school-leaving age shifts supply left: wage 12.4, employment 108 thousand." loading="lazy">
+  <figcaption>Shifts of labour demand or supply change the equilibrium wage and employment.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-how-markets-work--03-pes-short-long-run.webp" width="900" height="900" alt="The same rise in demand is shown twice. Where supply is inelastic (short run) price rises 27% and output 13%; where supply is elastic (long run) price rises 11% and output 29%. This is why agricultural supply shocks cause price spikes." loading="lazy">
+  <figcaption>Inelastic short-run supply turns a demand rise into a big price rise; long-run supply adjusts more.</figcaption>
+</figure>
+
 
 ## Shifts and the new equilibrium
 
@@ -117,13 +132,28 @@ The supply increase cuts price by 13.33% and raises quantity by 9.52%. The deman
 Evaluate by asking how close the goods are, how big and lasting the original change is, how quickly the second market can respond, and whether other factors are moving too.
 
 <figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-market-equilibrium-price-volatility-and-evaluating-the--02-eq-honey-shifts.webp" width="900" height="1040" alt="Honey market with original equilibrium A at £14 and 360 jars. Demand rising by 80 moves it to B at £15.60 and 408 jars; supply falling by 60 moves it to C at £15.20 and 336 jars; both together give D at £16.80 and 384 jars. Price rises in every case but quantity depends on the relative shifts." loading="lazy">
+  <figcaption>Honey demand up gives B, supply down gives C, both give D: price is certain to rise, quantity is not.</figcaption>
+</figure>
+
+<figure class="topic-figure">
   <img src="https://img.marlbridge.com/ocr-a-level-economics-market-equilibrium-price-volatility-and-evaluating-the--07-jam-honey-substitutes.webp" width="900" height="890" alt="Honey rises from 14 to 15.20 pounds, shifting jam demand right by 6 jars. On zoomed axes jam moves from 10.40 and 262 to 10.52 and 265.6: price +1.15%, quantity +1.37%." loading="lazy">
   <figcaption>A rise in the price of a substitute shifts demand right, but for a loose substitute the effect is small.</figcaption>
 </figure>
 
 <figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-economics-demand-supply-equilibrium--03-ib-both-curves-shift.webp" width="900" height="890" alt="Two diagrams where demand and supply both shift right. If demand shifts further, price rises; if supply shifts further, price falls. Quantity rises either way, and equal shifts leave price unchanged at 7." loading="lazy">
+  <figcaption>When both curves shift, the direction of the price change depends on the relative size of the shifts.</figcaption>
+</figure>
+
+<figure class="topic-figure">
   <img src="https://img.marlbridge.com/a-level-economics-price-system-and-the-microeconomy--09-related-markets.webp" width="900" height="1000" alt="Four pairs of linked markets. Joint demand: more demand for printers raises demand for ink. Alternative demand: a rise in the price of tea raises demand for coffee. Derived demand: more demand for cars raises demand for steel. Joint supply: more beef output raises the supply of leather." loading="lazy">
   <figcaption>Markets are linked by joint demand, alternative demand, derived demand and joint supply.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-how-markets-work--01-harvest-shock.webp" width="900" height="960" alt="Bad weather cuts the coffee harvest, so supply shifts left from S1 to S2. Equilibrium moves from price 8, quantity 60 to price 9, quantity 55. Because demand is inelastic (PED about 0.67), revenue rises from 480 to 495." loading="lazy">
+  <figcaption>A supply shock raises price a lot and cuts quantity a little, so growers' total revenue can rise.</figcaption>
 </figure>
 
 
@@ -175,6 +205,11 @@ A 20% change in output produces a 50% change in price. Steeper curves magnify sh
   <figcaption>The same 16.67% harvest swing moves price 40% when demand is inelastic and 10% when it is more elastic.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-market-equilibrium-price-volatility-and-evaluating-the--04-eq-cobweb.webp" width="900" height="920" alt="A cobweb path between demand and lagged supply starting at £24 and spiralling in through 18, 21, 19.50, 20.25 and 19.875 to the equilibrium of £20 and 90 units. The cycles settle because supply responds less than demand does." loading="lazy">
+  <figcaption>When supply responds to last year’s price, prices spiral in towards £20.</figcaption>
+</figure>
+
 
 ## Evaluating the model
 
@@ -202,6 +237,11 @@ A 20% change in output produces a 50% change in price. Steeper curves magnify sh
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/ocr-a-level-economics-market-equilibrium-price-volatility-and-evaluating-the--09-housing-fixed-stock.webp" width="900" height="830" alt="Supply is a vertical line at 800 homes. Demand 2,000 - 10P gives 120 thousand pounds; demand 2,100 - 10P gives 130 thousand (+8.33%) with quantity still 800 until builders respond." loading="lazy">
   <figcaption>With a fixed stock, a rise in demand shows up entirely as a higher price in the short run.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-economics-government-microeconomic-intervention--03-buffer-stock.webp" width="900" height="1030" alt="Demand slopes down; supply is three vertical lines for a bad (30), normal (50) and good (70) harvest. The agency sets a lower price of 4 and an upper price of 6. In a good harvest it buys 10 units to stop the price falling below 4; in a bad harvest it sells 10 units from store to stop the price rising above 6." loading="lazy">
+  <figcaption>A buffer stock buys when price is low and sells when price is high, keeping price between two limits.</figcaption>
 </figure>
 
 
@@ -249,17 +289,6 @@ A 20% change in output produces a 50% change in price. Steeper curves magnify sh
 - Describing a shortage without saying what happens next, such as queues or higher prices.
 - Using a formula where the working does not show the substitution step.
 - Stopping an evaluation at one side of the argument, without a judgement.
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ocr-a-level-economics-market-equilibrium-price-volatility-and-evaluating-the--02-eq-honey-shifts.webp" width="900" height="1040" alt="Honey market with original equilibrium A at £14 and 360 jars. Demand rising by 80 moves it to B at £15.60 and 408 jars; supply falling by 60 moves it to C at £15.20 and 336 jars; both together give D at £16.80 and 384 jars. Price rises in every case but quantity depends on the relative shifts." loading="lazy">
-  <figcaption>Honey demand up gives B, supply down gives C, both give D: price is certain to rise, quantity is not.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ib-dp-economics-demand-supply-equilibrium--03-ib-both-curves-shift.webp" width="900" height="890" alt="Two diagrams where demand and supply both shift right. If demand shifts further, price rises; if supply shifts further, price falls. Quantity rises either way, and equal shifts leave price unchanged at 7." loading="lazy">
-  <figcaption>When both curves shift, the direction of the price change depends on the relative size of the shifts.</figcaption>
-</figure>
-
 
 ## Official syllabus
 

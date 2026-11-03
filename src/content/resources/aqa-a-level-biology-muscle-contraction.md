@@ -156,6 +156,12 @@ A sprinter's muscle contains 6 mmol of ATP and 24 mmol of phosphocreatine per kg
 
 After this, the muscle depends on glycolysis and aerobic respiration.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-control-and-coordination--03-resting-potential.webp" width="900" height="1010" alt="A membrane separates the outside above from the inside of the axon below. A sodium-potassium pump moves 3 Na+ out for every 2 K+ in, using ATP. Open K+ channels let K+ diffuse out quickly while Na+ channels are mostly closed, and negatively charged proteins stay inside. The inside is therefore negative, about -70 mV." loading="lazy">
+  <figcaption>The pump, leaky K+ channels and trapped negative proteins make the inside of the axon about -70 mV.</figcaption>
+</figure>
+
+
 ## Slow and fast twitch fibres
 
 | Property | Slow twitch | Fast twitch |

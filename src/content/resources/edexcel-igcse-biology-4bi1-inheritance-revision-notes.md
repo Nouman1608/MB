@@ -50,6 +50,11 @@ Practise with the [Inheritance practice questions](/resources/edexcel-igcse-biol
   <figcaption>Genotype is the alleles; phenotype is the characteristic shown.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-inheritance--01-chromosomes-genes-alleles.webp" width="900" height="1120" alt="Schematic zoom from a cell to its nucleus and chromosomes, then to the DNA of one chromosome where a gene is a highlighted length of DNA that codes for a protein. A pair of chromosomes carries the same gene at the same position, with different forms G and g called alleles." loading="lazy">
+  <figcaption>A gene is a length of DNA on a chromosome, and alleles are different forms of the same gene.</figcaption>
+</figure>
+
 
 ## 3.16B–3.17B DNA and RNA -- Paper 2 only
 
@@ -106,11 +111,6 @@ Practise with the [Inheritance practice questions](/resources/edexcel-igcse-biol
   <figcaption>More genes acting together give more classes and a smoother range of values.</figcaption>
 </figure>
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-biology-0610-inheritance--01-chromosomes-genes-alleles.webp" width="900" height="1120" alt="Schematic zoom from a cell to its nucleus and chromosomes, then to the DNA of one chromosome where a gene is a highlighted length of DNA that codes for a protein. A pair of chromosomes carries the same gene at the same position, with different forms G and g called alleles." loading="lazy">
-  <figcaption>A gene is a length of DNA on a chromosome, and alleles are different forms of the same gene.</figcaption>
-</figure>
-
 
 ## 3.23 and 3.25 Genetic diagrams and probability
 
@@ -146,6 +146,11 @@ Practise with the [Inheritance practice questions](/resources/edexcel-igcse-biol
   <figcaption>Two heterozygous parents give a 3 : 1 phenotype ratio.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-inheritance--06-monohybrid-1-to-1.webp" width="900" height="1074" alt="Punnett square for a heterozygous green beetle (Gg) crossed with a brown beetle (gg): two Gg green and two gg brown, a 1 : 1 ratio, because half the green parent’s gametes carry g." loading="lazy">
+  <figcaption>A heterozygous by homozygous recessive cross gives a 1 : 1 ratio.</figcaption>
+</figure>
+
 
 ## 3.24 Pedigree clues
 
@@ -155,11 +160,6 @@ Practise with the [Inheritance practice questions](/resources/edexcel-igcse-biol
 - Anyone showing a recessive condition must be homozygous recessive.
 - An unaffected person with an affected parent (recessive condition) must be heterozygous.
 - Work out the certain genotypes first, then use them to deduce the others.
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-biology-0610-inheritance--06-monohybrid-1-to-1.webp" width="900" height="1074" alt="Punnett square for a heterozygous green beetle (Gg) crossed with a brown beetle (gg): two Gg green and two gg brown, a 1 : 1 ratio, because half the green parent’s gametes carry g." loading="lazy">
-  <figcaption>A heterozygous by homozygous recessive cross gives a 1 : 1 ratio.</figcaption>
-</figure>
 
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/igcse-biology-0610-inheritance--07-pedigree-recessive.webp" width="900" height="1140" alt="Pedigree: two unaffected parents have an affected daughter (shaded circle), so the condition is recessive and both parents are Aa. A Aa x Aa Punnett square gives a 1 in 4 chance of aa for each further child." loading="lazy">
@@ -198,6 +198,11 @@ Practise with the [Inheritance practice questions](/resources/edexcel-igcse-biol
   <figcaption>Chromosome counts for diploid number 20 through mitosis, meiosis and fertilisation.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-inheritance--04-mitosis-vs-meiosis.webp" width="900" height="1260" alt="Extended. A diploid cell with four chromosomes (two pairs) divides by mitosis into two identical cells with four chromosomes each, or by meiosis into four different cells with two chromosomes each. Fertilisation joins two haploid gametes to restore the diploid number; in humans 23 + 23 = 46." loading="lazy">
+  <figcaption>Mitosis keeps the chromosome number; meiosis halves it, and fertilisation restores it.</figcaption>
+</figure>
+
 
 ## 3.33–3.37B Variation and mutation
 
@@ -213,6 +218,17 @@ Practise with the [Inheritance practice questions](/resources/edexcel-igcse-biol
 - **3.36B** Most mutations: **no effect**. Some: **small effect**. Rarely: **significant effect**.
 - **3.37B** Mutation rate increased by **ionising radiation** (gamma rays, X-rays, ultraviolet rays) and **chemical mutagens** (e.g. chemicals in tobacco).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-variation-and-selection--01-variation-types.webp" width="900" height="1050" alt="Two sketch graphs. A histogram with touching bars shows continuous variation using the hand span example (3, 7, 12, 6, 2 students in 2 cm classes from 16 to 26 cm); it has a range between two extremes and is caused by genes and the environment. A bar chart with separate bars for blood groups A, B, AB and O shows discontinuous variation: limited groups, genes only. Blood group bar heights are illustrative." loading="lazy">
+  <figcaption>Continuous data give a histogram with touching bars; discontinuous data give a bar chart with gaps.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-variation-and-selection--02-mutation.webp" width="900" height="1215" alt="Core: mutation is genetic change that forms new alleles; ionising radiation and some chemicals raise its rate. Extended: a gene mutation changes one base in the DNA sequence, which can change the protein shape; sources of variation are mutation, meiosis, random mating and random fertilisation." loading="lazy">
+  <figcaption>Mutation forms new alleles; radiation and some chemicals raise the rate.</figcaption>
+</figure>
+
+
 ## 3.38–3.39 Natural selection
 
 **Method in steps** -- use these words in this order:
@@ -220,6 +236,17 @@ Practise with the [Inheritance practice questions](/resources/edexcel-igcse-biol
 **variation** (from mutation) → **competition** / selection pressure → **survival** of the better-adapted → **reproduction** → **alleles passed on** → **allele frequency increases** over many generations.
 
 Antibiotic resistance: a random mutation gives resistance → the antibiotic kills non-resistant bacteria → resistant bacteria survive and multiply → the resistant population grows → infections become **difficult to control** because the antibiotic no longer works against them.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-variation-and-selection--05-natural-selection.webp" width="900" height="1110" alt="Ten beetles per row. Generation 1 has 3 brown and 7 green. Birds eat green beetles more often, leaving 3 brown and 2 green. Survivors breed, giving 6 brown of 10 in generation 2, and after many generations 9 brown of 10. Illustrative numbers show the brown allele becoming more common." loading="lazy">
+  <figcaption>Better-adapted individuals survive and breed, so their alleles become more common.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-variation-and-selection--06-antibiotic-resistance.webp" width="900" height="1190" alt="Five dishes of bacteria: a random mutation makes one bacterium resistant; the antibiotic kills the six non-resistant ones; the survivor has less competition; it reproduces and passes on the allele; a resistant strain forms quickly." loading="lazy">
+  <figcaption>The mutation was already there; the antibiotic selected the resistant bacterium.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 

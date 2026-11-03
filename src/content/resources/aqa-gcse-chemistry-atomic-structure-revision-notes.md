@@ -159,6 +159,17 @@ The reason is the same physics applied to the opposite process: a halogen must *
 
 Unreactive because they have **full outer shells**, so there is no tendency to lose, gain or share electrons. Boiling points increase down the group as atoms get larger.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/periodic-table-groups-and-trends--08-noble-gases.webp" width="900" height="960" alt="Electron shells of He (2), Ne (2,8) and Ar (2,8,8) each have a full outer shell, so they do not gain, lose or share electrons. Noble gas particles are single atoms, whereas chlorine exists as Cl2 molecules." loading="lazy">
+  <figcaption>Noble gases are unreactive and monatomic because their outer shell is full.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-chemistry-8462-the-periodic-table--03-pt-noble-gas-bp.webp" width="900" height="760" alt="A graph of boiling point against He, Ne, Ar, Kr and Xe. Known points rise from -269 to -107 degrees Celsius. Krypton is predicted at the midpoint of argon and xenon, -146.5, about -150 degrees Celsius, inside a shaded band between its neighbours." loading="lazy">
+  <figcaption>Boiling points rise down Group 0, so krypton can be predicted from its neighbours.</figcaption>
+</figure>
+
+
 ## Separation techniques
 
 | Technique | Separates |
@@ -191,3 +202,24 @@ Unreactive because they have **full outer shells**, so there is no tendency to l
 5. Which technique separates two liquids, and on what property?
 
 **Answers:** 1. Most passed through — the atom is mostly empty space; some deflected — the nucleus is positive; a few rebounded — the nucleus is tiny and holds most of the mass. 2. It is a weighted average of the masses of the element's isotopes, allowing for their relative abundances. 3. The outer electron is further from the nucleus, there is more shielding by inner shells, so the attraction between nucleus and outer electron is weaker and it is lost more easily. 4. A halogen must gain an electron, and further down the group the outer shell is further from the nucleus with more shielding, so the incoming electron is attracted less strongly. 5. Fractional distillation, exploiting their different boiling points.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/practical-techniques-titrations-chromatography-separation--06-filter-crystallise.webp" width="900" height="925" alt="Filtration: a mixture is poured through filter paper; the residue stays on the paper and the filtrate drips into a beaker. Crystallisation: a solution is heated so solvent evaporates, the saturated solution is cooled, and crystals form to be filtered and dried." loading="lazy">
+  <figcaption>Filtration separates an insoluble solid; crystallisation recovers a dissolved solid.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/practical-techniques-titrations-chromatography-separation--07-distillation.webp" width="900" height="1215" alt="Simple distillation: salt solution is heated, water vapour passes through a condenser (water in at the bottom, out at the top) and pure water is collected while salt stays behind. Fractional distillation adds a fractionating column; ethanol, with the lower boiling point, boils first and is collected from ethanol and water." loading="lazy">
+  <figcaption>Simple distillation recovers a solvent; fractional distillation separates miscible liquids by boiling point.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/practical-techniques-titrations-chromatography-separation--03-chromatography-method.webp" width="900" height="1185" alt="Paper with a pencil line and mixture spot stands in a little solvent. Later the solvent front has risen and three coloured spots have separated. A lower strip shows colourless spots invisible until a locating agent is sprayed (Extended)." loading="lazy">
+  <figcaption>The solvent carries the components different distances up the paper; colourless spots need a locating agent (Extended).</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-chemistry-purity-separating-revision-notes--03-rn73-salt-sand.webp" width="900" height="1010" alt="Filtration leaves sand as residue and passes salt solution as filtrate; heating the filtrate then evaporates water and leaves salt crystals." loading="lazy">
+  <figcaption>Filter the insoluble solid first, then crystallise the dissolved one.</figcaption>
+</figure>
+

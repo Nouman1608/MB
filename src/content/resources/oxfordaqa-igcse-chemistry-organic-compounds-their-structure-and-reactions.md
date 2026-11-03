@@ -291,6 +291,16 @@ You will collect less than this. Because the reaction is reversible it never goe
   <figcaption>Three worked mole calculations drawn as mass-moles-ratio chains.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/alcohols-and-carboxylic-acids--06-esterification.webp" width="900" height="960" alt="Ethanoic acid and ethanol react with an acid catalyst to make the ester ethyl ethanoate and water. The OH from the acid and the H from the alcohol leave as water. The alcohol supplies the ethyl part of the name and the acid supplies the ethanoate part." loading="lazy">
+  <figcaption>An acid and an alcohol with an acid catalyst make an ester and water; ethyl comes from the alcohol, ethanoate from the acid.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/organic-chemistry-formulae-and-naming--08-ester-naming.webp" width="900" height="920" alt="Ethanol and ethanoic acid give ethyl ethanoate (CH3COOCH2CH3) plus water; ethyl comes from the alcohol, ethanoate from the acid." loading="lazy">
+  <figcaption>Ester names combine the alcohol part (-yl) and the acid part (-oate).</figcaption>
+</figure>
+
 
 ## 3.10.3.3 b: properties and uses of esters
 

@@ -123,17 +123,6 @@ Condensed, exam-focused notes for Topic 2 of Cambridge AS & A Level Economics (9
   consumer surplus for a given supply shift, and the more inelastic supply is, the greater the change
   in producer surplus for a given demand shift.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-level-economics-price-system-and-the-microeconomy--05-consumer-producer-surplus.webp" width="900" height="940" alt="Demand and supply meet at price 5 and quantity 50. Consumer surplus is the triangle between demand and the price line (area 125); a buyer who would pay 7 but pays 5 gains 2. Producer surplus is the triangle between the price line and supply (area 100); a seller who would accept 3 but gets 5 gains 2." loading="lazy">
-  <figcaption>Consumer surplus is willingness to pay minus price paid; producer surplus is price received minus the minimum accepted.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-level-economics-price-system-and-the-microeconomy--06-surplus-and-elasticity.webp" width="900" height="1290" alt="The same supply increase (supply shifts down by 1) is applied to two markets that start at price 5 and quantity 50. With inelastic demand (PED 0.5) price falls to 4.29 and consumer surplus rises by about 37. With elastic demand (PED 3.3) price falls to 4.73 and consumer surplus rises by about 15. The more inelastic demand, the larger the change in consumer surplus." loading="lazy">
-  <figcaption>The more inelastic demand is, the more a given supply shift changes consumer surplus.</figcaption>
-</figure>
-
-
 ## Exam technique for this topic
 
 Practise sketching a diagram for every concept in this topic — a shifted curve, a changed equilibrium, a
@@ -145,6 +134,17 @@ than complements, for instance) is one of the most common ways marks are lost on
 well-attempted calculation. When a question asks about the effect of a price change on revenue, always
 identify whether demand is elastic or inelastic at that specific point on the curve before answering,
 since the direction of the revenue change depends entirely on that.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-economics-price-system-and-the-microeconomy--05-consumer-producer-surplus.webp" width="900" height="940" alt="Demand and supply meet at price 5 and quantity 50. Consumer surplus is the triangle between demand and the price line (area 125); a buyer who would pay 7 but pays 5 gains 2. Producer surplus is the triangle between the price line and supply (area 100); a seller who would accept 3 but gets 5 gains 2." loading="lazy">
+  <figcaption>Consumer surplus is willingness to pay minus price paid; producer surplus is price received minus the minimum accepted.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-economics-price-system-and-the-microeconomy--06-surplus-and-elasticity.webp" width="900" height="1290" alt="The same supply increase (supply shifts down by 1) is applied to two markets that start at price 5 and quantity 50. With inelastic demand (PED 0.5) price falls to 4.29 and consumer surplus rises by about 37. With elastic demand (PED 3.3) price falls to 4.73 and consumer surplus rises by about 15. The more inelastic demand, the larger the change in consumer surplus." loading="lazy">
+  <figcaption>The more inelastic demand is, the more a given supply shift changes consumer surplus.</figcaption>
+</figure>
+
 
 ## Worked calculation approach
 

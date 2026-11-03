@@ -89,32 +89,6 @@ calculations and solving problems in three dimensions using
 Pythagoras' theorem and trigonometry, including calculating the angle
 between a line and a plane
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-mathematics-trigonometry--01-soh-cah-toa.webp" width="900" height="890" alt="A right-angled triangle with sides 3, 4, 5 and angle theta. Opposite is 3, adjacent 4, hypotenuse 5. Sine is 3/5 = 0.6, cosine 4/5 = 0.8, tangent 3/4 = 0.75, and inverse sine of 0.6 gives theta = 36.9 degrees." loading="lazy">
-  <figcaption>Name the sides from the angle, then pick sin, cos or tan.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-mathematics-trigonometry--02-elevation-depression.webp" width="900" height="950" alt="A person 55 m from a 40 m tower. The angle of elevation to the top is 36.0 degrees since tan x = 40/55. From the top, the angle of depression to the person is also 36.0 degrees, measured from a horizontal line, as they are alternate angles." loading="lazy">
-  <figcaption>Elevation and depression are both measured from the horizontal and are equal for the same line of sight.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-mathematics-trigonometry--04-ambiguous-case.webp" width="900" height="850" alt="Angle A = 30 degrees, AC = 10, BC = 6. BC can meet the base at two points, giving two triangles with B = 56.4 degrees (acute) or 123.6 degrees (obtuse), both with sin B = 0.833." loading="lazy">
-  <figcaption>Two different triangles can fit the same sine rule data.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-mathematics-trigonometry--06-area-sine.webp" width="900" height="800" alt="Triangle with a = 8, b = 10 and C = 40 degrees. Height h = 8 sin 40 = 5.14 cm, so area = half of 10 times 5.14 = 25.7 cm squared, which is half a b sin C." loading="lazy">
-  <figcaption>The area formula comes from base times height with h = a sin C.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-mathematics-trigonometry--07-trig-3d.webp" width="900" height="960" alt="A cuboid 8 by 6 by 5 cm. The base diagonal AC = 10 cm, and with CG = 5 and AG = 11.2 it forms a right-angled triangle. The angle between AG and the base has tan x = 5/10, so x = 26.6 degrees. The triangle is also shown flat." loading="lazy">
-  <figcaption>Pull the right-angled triangle out of the solid, then use ordinary trigonometry.</figcaption>
-</figure>
-
-
 ## How to approach it
 
 Before reaching for a formula, identify what kind of triangle the
@@ -132,6 +106,11 @@ always start by sketching the single 2D right-angled triangle hidden
 inside the solid — usually formed by a diagonal, a height, and a
 base length — since the calculation itself is then identical to a 2D
 question.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-trigonometry--02-elevation-depression.webp" width="900" height="950" alt="A person 55 m from a 40 m tower. The angle of elevation to the top is 36.0 degrees since tan x = 40/55. From the top, the angle of depression to the person is also 36.0 degrees, measured from a horizontal line, as they are alternate angles." loading="lazy">
+  <figcaption>Elevation and depression are both measured from the horizontal and are equal for the same line of sight.</figcaption>
+</figure>
 
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/igcse-mathematics-trigonometry--03-sine-rule.webp" width="900" height="860" alt="Triangle ABC with A = 48, B = 65, C = 67 degrees and a = 9 cm drawn to scale. a over sin A equals b over sin B gives b = 9 sin 65 over sin 48 = 11.0 cm. The rule needs a side and its opposite angle." loading="lazy">
@@ -196,3 +175,24 @@ Cambridge International, *Cambridge IGCSE Mathematics (0580) syllabus
 for examination in 2025, 2026 and 2027*: [official syllabus
 PDF](https://www.cambridgeinternational.org/Images/662466-2025-2027-syllabus.pdf),
 Subject content, section 6 "Trigonometry". Verified 2026-09-06.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-trigonometry--01-soh-cah-toa.webp" width="900" height="890" alt="A right-angled triangle with sides 3, 4, 5 and angle theta. Opposite is 3, adjacent 4, hypotenuse 5. Sine is 3/5 = 0.6, cosine 4/5 = 0.8, tangent 3/4 = 0.75, and inverse sine of 0.6 gives theta = 36.9 degrees." loading="lazy">
+  <figcaption>Name the sides from the angle, then pick sin, cos or tan.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-trigonometry--04-ambiguous-case.webp" width="900" height="850" alt="Angle A = 30 degrees, AC = 10, BC = 6. BC can meet the base at two points, giving two triangles with B = 56.4 degrees (acute) or 123.6 degrees (obtuse), both with sin B = 0.833." loading="lazy">
+  <figcaption>Two different triangles can fit the same sine rule data.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-trigonometry--06-area-sine.webp" width="900" height="800" alt="Triangle with a = 8, b = 10 and C = 40 degrees. Height h = 8 sin 40 = 5.14 cm, so area = half of 10 times 5.14 = 25.7 cm squared, which is half a b sin C." loading="lazy">
+  <figcaption>The area formula comes from base times height with h = a sin C.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-trigonometry--07-trig-3d.webp" width="900" height="960" alt="A cuboid 8 by 6 by 5 cm. The base diagonal AC = 10 cm, and with CG = 5 and AG = 11.2 it forms a right-angled triangle. The angle between AG and the base has tan x = 5/10, so x = 26.6 degrees. The triangle is also shown flat." loading="lazy">
+  <figcaption>Pull the right-angled triangle out of the solid, then use ordinary trigonometry.</figcaption>
+</figure>
+

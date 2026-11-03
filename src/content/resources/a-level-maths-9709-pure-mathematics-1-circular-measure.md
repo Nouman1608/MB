@@ -201,6 +201,11 @@ Do not quote the segment formula without working. Write the sector and the trian
   <figcaption>Two triangles generate every exact value you need for 30°, 45° and 60°.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-maths-9709-pure-mathematics-1-circular-measure--09-inverse-trig-graphs.webp" width="900" height="1218" alt="y = sin x restricted to −π/2 ≤ x ≤ π/2 reflects in y = x to give y = arcsin x, with domain −1 to 1 and range −π/2 to π/2. y = arccos x has range 0 to π; y = arctan x has range strictly between −π/2 and π/2 with horizontal asymptotes." loading="lazy">
+  <figcaption>Restrict the domain so the function is one-to-one, then reflect in y = x to get the inverse.</figcaption>
+</figure>
+
 
 ### Worked example 4: exact segment area and perimeter
 
@@ -248,6 +253,17 @@ segment  = 38.98... − 24.49... = 14.489...
 
 Answers: angle POQ = **1.59 radians**, segment area = **14.5 cm²**. Keep the full calculator value of the angle for the later steps. Using 1.59 instead gives a segment area of 14.46 rather than 14.49. Both happen to round to 14.5 here, but in many questions early rounding changes the third figure and costs the accuracy mark.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-maths-9709-pure-mathematics-1-circular-measure--01-unit-circle-any-angle.webp" width="900" height="850" alt="A circle of radius 1 with P at 210 degrees, measured anticlockwise from the positive x-axis. P = (cos 210°, sin 210°) = (−√3/2, −1/2) lies in the third quadrant, with reference angle 30°. Corner notes give where sin, cos and tan are positive." loading="lazy">
+  <figcaption>The point P on the unit circle gives cos θ and sin θ for any angle, and its quadrant gives the signs.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-maths-9709-pure-mathematics-1-circular-measure--06-trig-graphs.webp" width="900" height="930" alt="y = sin x and y = cos x over 0 to 360° have period 360° and range −1 to 1; cos is sin shifted. y = tan x has period 180°, zeros at 0, 180 and 360 degrees, passes through 1 at 45° and 225°, and has asymptotes at 90° and 270°." loading="lazy">
+  <figcaption>Sine and cosine repeat every 360°; tangent repeats every 180° and has asymptotes.</figcaption>
+</figure>
+
+
 ## 5. Tangents and composite shapes
 
 Many questions add tangents. Two facts from IGCSE do most of the work:
@@ -292,12 +308,6 @@ Answers: area **25√3 − 25π/3 cm²**, perimeter **10√3 + 10π/3 cm**.
 3. Split the shaded region into sectors, triangles and segments. Write each piece's area on its own line.
 4. For a perimeter, list every boundary piece: arcs, radii, chords, tangents. Do not include radii that lie inside the region.
 5. Give exact answers when asked. Otherwise give 3 significant figures, keeping full values until the end.
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-level-maths-9709-pure-mathematics-1-circular-measure--01-unit-circle-any-angle.webp" width="900" height="850" alt="A circle of radius 1 with P at 210 degrees, measured anticlockwise from the positive x-axis. P = (cos 210°, sin 210°) = (−√3/2, −1/2) lies in the third quadrant, with reference angle 30°. Corner notes give where sin, cos and tan are positive." loading="lazy">
-  <figcaption>The point P on the unit circle gives cos θ and sin θ for any angle, and its quadrant gives the signs.</figcaption>
-</figure>
-
 
 ## Common errors
 

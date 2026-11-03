@@ -92,6 +92,11 @@ Match reason to remedy:
   <figcaption>Each internal and external factor leads to a consequence for the HR plan.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-business-types-of-strategies--09-force-field.webp" width="900" height="1070" alt="Arrows scaled to scores for driving and restraining forces before and after action: drivers 12 against restrainers 10 (lead 2), then restrainers fall to 7 (lead 5) after a retraining pledge and course." loading="lazy">
+  <figcaption>Weakening restraining forces widens the lead of driving forces.</figcaption>
+</figure>
+
 
 ## 2.2 at a glance
 

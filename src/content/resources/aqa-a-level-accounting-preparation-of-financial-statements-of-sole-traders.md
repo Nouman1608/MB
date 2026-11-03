@@ -276,6 +276,16 @@ A service business uses the same layout without the trading section: list the fe
   <figcaption>Profit flows into capital, and capital equals net assets, which proves the statements balance.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-accounting-for-organisations-with-incomplete-records--07-profit-from-capital.webp" width="900" height="900" alt="Opening capital of 13,480 pounds plus the missing profit of 10,420 pounds, plus 5,000 pounds introduced, less 19,200 pounds drawings, gives closing capital of 9,700 pounds. Capital fell by 3,780 pounds although there was a profit." loading="lazy">
+  <figcaption>Profit = closing capital - opening capital + drawings - capital introduced.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-accounting-for-organisations-with-incomplete-records--08-total-accounts.webp" width="900" height="896" alt="Two T-accounts show credit sales of 42,800 pounds and cash sales of 45,400 pounds as balancing figures. Each account balances at 46,000 and 45,550 pounds, and revenue is 88,200 pounds." loading="lazy">
+  <figcaption>The missing figure in a total account is the one that makes it balance.</figcaption>
+</figure>
+
 
 ## Common errors
 

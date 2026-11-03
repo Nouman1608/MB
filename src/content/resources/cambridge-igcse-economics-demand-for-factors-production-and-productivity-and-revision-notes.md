@@ -145,6 +145,12 @@ If the same factory makes 4,000 units with 25 workers, productivity is 4,000 ÷ 
 
 Evaluation: low prices can push firms to cut corners; small firms may miss economies of scale; weak firms may leave the market. The theory of perfect and imperfect competition and diagrams are not required.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-economics-microeconomic-decision-makers--07-competition-and-monopoly.webp" width="900" height="930" alt="Six small shops stand for many firms and one large factory for a monopoly. Many firms mean lower price, improving quality, wide choice and lower profit. A monopoly means higher price, less pressure on quality, little choice and possibly high profit, with possible economies of scale and research funding." loading="lazy">
+  <figcaption>Competition tends to lower price and profit and widen choice; a monopoly can charge more and earn high profits.</figcaption>
+</figure>
+
+
 ## 3.8.2 Monopoly
 
 **Characteristics:** one firm or a very large market share; barriers to entry (high start-up cost, patents, legal protection, control of resources); few or no close substitutes; price-setting power; potential for long-lasting high profit.

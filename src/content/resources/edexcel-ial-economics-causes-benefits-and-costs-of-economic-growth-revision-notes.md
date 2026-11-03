@@ -108,12 +108,6 @@ Condensed recall for 2.3.5 Economic growth, statements 1 to 3, in the Pearson Ed
 - **Competition:** pressure to cut waste and innovate. Too little competition allows complacency; very intense competition may squeeze the profits needed for investment.
 - **Productivity:** sustained growth in GDP per head depends on it, since the labour force cannot grow forever.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/edexcel-ial-economics-causes-benefits-and-costs-of-economic-growth--08-growth-workers-productivity.webp" width="900" height="870" alt="A rectangle with width equal to the labour force and height equal to output per worker; its area is GDP. Workers rise 2.0% and output per worker 3.0%, so GDP rises from 400bn to 420.24bn, 5.06%, close to 2 plus 3. The corner adds only 0.06%." loading="lazy">
-  <figcaption>Growth is roughly employment growth plus productivity growth, and only productivity can keep rising.</figcaption>
-</figure>
-
-
 ## Worked reminders
 
 ```
@@ -143,6 +137,11 @@ Emissions: 0.98 x 1.05 = 1.029, up 2.9%
   <figcaption>Growth lifts tax revenue, living standards and jobs, but less if population grows or skills are missing.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-edexcel-economics-economic-growth--04-total-and-per-capita-gdp.webp" width="900" height="870" alt="Country A has total GDP of $900bn and B $300bn, so A has the bigger economy. Dividing by population (A 90m, B 20m) gives $10,000 per person in A and $15,000 in B, so B has the higher income per person." loading="lazy">
+  <figcaption>Dividing by population allows a fairer comparison of countries of different sizes.</figcaption>
+</figure>
+
 
 ## Costs
 
@@ -162,6 +161,16 @@ Emissions: 0.98 x 1.05 = 1.029, up 2.9%
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/edexcel-ial-economics-causes-benefits-and-costs-of-economic-growth--04-emissions-area.webp" width="900" height="960" alt="Emissions are shown as the area of a rectangle, output wide and emissions per unit tall. Before is 100 by 100. After is 105 by 98, an area of 102.9, so total emissions rise 2.9% even though emissions per unit fall 2%." loading="lazy">
   <figcaption>Cleaner technology can fail to offset growth: 0.98 x 1.05 = 1.029.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-basic-economic-problem--06-ppc-movement-opportunity-cost.webp" width="900" height="1050" alt="Three points on a PPC. Moving from 1 to 2 gains 20 Food and gives up 20 Machines; moving from 2 to 3 gains another 20 Food but gives up 60 Machines. Each extra unit of Food costs more Machines, which is why the curve bows outwards." loading="lazy">
+  <figcaption>Moving along a PPC reallocates resources, and the opportunity cost rises.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-economics-measurement-of-macroeconomic-performance--02-growth-vs-current-account.webp" width="900" height="1040" alt="A four-step chain: growth policy raises aggregate demand, incomes rise, some spending goes on imports, and the current account worsens. Bars show exports 100 and imports rising from 100 to 118, a deficit of 18." loading="lazy">
+  <figcaption>Growth policy can raise imports faster than exports, creating a short-run conflict.</figcaption>
 </figure>
 
 
@@ -230,6 +239,17 @@ A good conclusion picks a side and says what it depends on: "Growth is most like
 9. 1.06/1.02 - 1 = 3.9% (approximately 4%).
 10. Higher incomes raise spending on imports.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-causes-benefits-and-costs-of-economic-growth--08-growth-workers-productivity.webp" width="900" height="870" alt="A rectangle with width equal to the labour force and height equal to output per worker; its area is GDP. Workers rise 2.0% and output per worker 3.0%, so GDP rises from 400bn to 420.24bn, 5.06%, close to 2 plus 3. The corner adds only 0.06%." loading="lazy">
+  <figcaption>Growth is roughly employment growth plus productivity growth, and only productivity can keep rising.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-causes-benefits-and-costs-of-economic-growth--01-export-led-contribution.webp" width="900" height="820" alt="Country B has GDP 500 with exports of 150. A 9% rise adds 13.5, which is 2.7 percentage points of growth if imports are unchanged. If imports rise by 4, 0.8 points is lost and the net contribution is 1.9 points." loading="lazy">
+  <figcaption>Exports add to growth but rising imports take part of it away.</figcaption>
+</figure>
+
+
 ## Where marks are usually lost
 
 - Using the wrong base year when calculating growth.
@@ -240,12 +260,6 @@ A good conclusion picks a side and says what it depends on: "Growth is most like
 - Concluding "growth is good" without weighing costs.
 - Forgetting that the same growth rate has different consequences depending on its source.
 - Missing the context in a data question, such as the country's stage of development.
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/edexcel-ial-economics-causes-benefits-and-costs-of-economic-growth--01-export-led-contribution.webp" width="900" height="820" alt="Country B has GDP 500 with exports of 150. A 9% rise adds 13.5, which is 2.7 percentage points of growth if imports are unchanged. If imports rise by 4, 0.8 points is lost and the net contribution is 1.9 points." loading="lazy">
-  <figcaption>Exports add to growth but rising imports take part of it away.</figcaption>
-</figure>
-
 
 ## Official syllabus
 

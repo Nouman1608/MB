@@ -73,6 +73,20 @@ The specification's skills-development column also suggests identifying the stru
 substance by experiment (for example by testing its solubility, conductivity and ease of melting); that
 is a practical opportunity, not a separate content statement.
 
+## How to approach it
+
+This section is best learned as a single connected argument rather than four separate bonding types:
+bonding type determines structure, structure determines the forces that must be overcome to melt or
+boil a substance, and those forces explain the physical properties examiners actually ask about.
+Practise relating a substance's melting point and electrical conductivity to its type of crystal
+structure and the bonding present -- that explanatory skill, not just definitions, is what higher-mark
+questions test.
+
+## Official syllabus
+
+AQA A-level Chemistry (7405) specification, first teaching 2015 --
+[aqa.org.uk](https://www.aqa.org.uk/subjects/chemistry/a-level/chemistry-7405/specification/subject-content/physical-chemistry).
+
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/a-level-edexcel-chemistry-structure-bonding-organic-chemistry--01-ionic-lattice.webp" width="900" height="930" alt="A sodium chloride lattice layer shows alternating small Na+ and larger Cl- ions in rows and columns, 15 of each. A ringed Na+ touches four Cl- in the layer plus one above and one below. Every ion attracts oppositely charged neighbours in all directions, so there are no separate molecules." loading="lazy">
   <figcaption>In an ionic lattice each Na+ is held by six Cl- neighbours, with strong attraction acting in every direction.</figcaption>
@@ -88,25 +102,6 @@ is a practical opportunity, not a separate content statement.
   <figcaption>In a dative covalent bond both shared electrons come from one atom, shown as an arrow from donor to acceptor (H3N to BCl3, NH4+).</figcaption>
 </figure>
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-level-edexcel-chemistry-structure-bonding-organic-chemistry--04-crystal-types.webp" width="900" height="1140" alt="Four panels show the four crystal types. Ionic (sodium chloride) is a lattice of ions and melting overcomes attractions between ions. Metallic (magnesium) is positive ions in a sea of electrons. Giant covalent (diamond) is a network of carbon atoms, and melting breaks covalent bonds. Molecular (iodine, ice) has only weak forces between molecules to overcome, so the melting point is low." loading="lazy">
-  <figcaption>The type of structure decides what has to be overcome on melting: ions, ion-electron attraction, covalent bonds or only weak forces between molecules.</figcaption>
-</figure>
-
-
-## How to approach it
-
-This section is best learned as a single connected argument rather than four separate bonding types:
-bonding type determines structure, structure determines the forces that must be overcome to melt or
-boil a substance, and those forces explain the physical properties examiners actually ask about.
-Practise relating a substance's melting point and electrical conductivity to its type of crystal
-structure and the bonding present -- that explanatory skill, not just definitions, is what higher-mark
-questions test.
-
-## Official syllabus
-
-AQA A-level Chemistry (7405) specification, first teaching 2015 --
-[aqa.org.uk](https://www.aqa.org.uk/subjects/chemistry/a-level/chemistry-7405/specification/subject-content/physical-chemistry).
 
 ## Three bonding types, four types of crystal structure
 
@@ -125,6 +120,12 @@ Together these give the specification's four types of crystal structure, each wi
 graphite) and **molecular** (iodine and ice). Melting a molecular crystal such as iodine or ice
 overcomes only the relatively weak forces between molecules, not the covalent bonds inside them, which
 is why molecular substances have much lower melting points than macromolecular ones.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-edexcel-chemistry-structure-bonding-organic-chemistry--04-crystal-types.webp" width="900" height="1140" alt="Four panels show the four crystal types. Ionic (sodium chloride) is a lattice of ions and melting overcomes attractions between ions. Metallic (magnesium) is positive ions in a sea of electrons. Giant covalent (diamond) is a network of carbon atoms, and melting breaks covalent bonds. Molecular (iodine, ice) has only weak forces between molecules to overcome, so the melting point is low." loading="lazy">
+  <figcaption>The type of structure decides what has to be overcome on melting: ions, ion-electron attraction, covalent bonds or only weak forces between molecules.</figcaption>
+</figure>
+
 
 ## Shapes of molecules: electron-pair repulsion in three steps
 
@@ -191,6 +192,11 @@ water and floats. Hydrogen bonding also explains the anomalously high boiling po
 compared with the hydrides of the other elements in their groups.
 
 <figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-edexcel-chemistry-structure-bonding-organic-chemistry--07-bond-polarity.webp" width="900" height="1100" alt="Bond dipole arrows point to the more electronegative atom. In linear CO2 and tetrahedral CCl4 the dipoles cancel, so the molecules are non-polar. In bent H2O and tetrahedral SiH3Cl they do not cancel, so the molecules are polar." loading="lazy">
+  <figcaption>A molecule with polar bonds is polar overall only if the bond dipoles do not cancel.</figcaption>
+</figure>
+
+<figure class="topic-figure">
   <img src="https://img.marlbridge.com/a-level-edexcel-chemistry-structure-bonding-organic-chemistry--08-intermolecular-forces.webp" width="900" height="1010" alt="Three panels from weakest to strongest. London forces: two electron clouds each shifted so one side is slightly negative and the other slightly positive, attracting across the gap. Permanent dipole-dipole: HCl molecules aligned so the hydrogen end of one attracts the chlorine end of the next. Hydrogen bond: H on oxygen attracted to a lone pair on a neighbouring oxygen, with O-H...O close to 180 degrees." loading="lazy">
   <figcaption>London forces act between all molecules, dipole-dipole forces need a permanent dipole, and hydrogen bonds need H on N, O or F plus a lone pair.</figcaption>
 </figure>
@@ -209,12 +215,6 @@ molecular shape. Stating a bond angle without explaining the lone-pair compressi
 Treating van der Waals forces as absent in polar molecules -- they are always present alongside any
 stronger forces. Confusing electronegativity (an atom's pull on shared electrons) with polarity (a
 property of the bond or molecule that results from an electronegativity difference).
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-level-edexcel-chemistry-structure-bonding-organic-chemistry--07-bond-polarity.webp" width="900" height="1100" alt="Bond dipole arrows point to the more electronegative atom. In linear CO2 and tetrahedral CCl4 the dipoles cancel, so the molecules are non-polar. In bent H2O and tetrahedral SiH3Cl they do not cancel, so the molecules are polar." loading="lazy">
-  <figcaption>A molecule with polar bonds is polar overall only if the bond dipoles do not cancel.</figcaption>
-</figure>
-
 
 ## Quick revision checklist
 

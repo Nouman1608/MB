@@ -86,12 +86,6 @@ d/dx ((g(x))ⁿ)      = n(g(x))ⁿ⁻¹ g'(x)
 
 Trigonometric derivatives only hold with x in radians.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ib-dp-mathematics-aa-sl-differentiation--04-chain-rule-inner-factor.webp" width="900" height="1030" alt="Two graphs drawn at the same size. Top: y = sin u near u = pi, where the gradient is cos pi = minus 1. Bottom: y = sin(4x + 1) near x = (pi minus 1)/4, about 0.54, which is the same wave repeating 4 times faster, so the gold tangent is 4 times steeper with gradient minus 4. This is the chain rule: dy/dx = cos(4x + 1) times 4, and at this point cos pi times 4 = minus 4." loading="lazy">
-  <figcaption>The inner function 4x + 1 makes y = sin(4x + 1) four times steeper than sin u.</figcaption>
-</figure>
-
-
 ## Method in steps
 
 ### Tangent and normal at x = a (5.4)
@@ -268,6 +262,12 @@ On Paper 2 you can sketch f′ and f″ with the GDC to check the table. On Pape
 10. x = −2: f′ changes from − (f′(−3) = −16) to + (f′(0) = 2), so a **minimum**. x = 1: f′ is positive on both sides (f′(0) = 2, f′(2) = 4), so no max or min; it is a **point of inflexion with zero gradient**.
 11. y″ = 6x − 12 = 0 at x = 2, and y″ changes from − to +. Point **(2, −11)**.
 12. g′(x) = 6x² − 18x + 12 = 6(x − 1)(x − 2) < 0 for **1 < x < 2**.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-aa-sl-differentiation--04-chain-rule-inner-factor.webp" width="900" height="1030" alt="Two graphs drawn at the same size. Top: y = sin u near u = pi, where the gradient is cos pi = minus 1. Bottom: y = sin(4x + 1) near x = (pi minus 1)/4, about 0.54, which is the same wave repeating 4 times faster, so the gold tangent is 4 times steeper with gradient minus 4. This is the chain rule: dy/dx = cos(4x + 1) times 4, and at this point cos pi times 4 = minus 4." loading="lazy">
+  <figcaption>The inner function 4x + 1 makes y = sin(4x + 1) four times steeper than sin u.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

@@ -119,6 +119,11 @@ A rising average rate narrows the gap: the tax is progressive.
 </figure>
 
 <figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-objectives-of-government--05-trade-and-current-account.webp" width="900" height="1080" alt="Waterfall in illustrative pounds billion: exports 100 and imports 110 give a trade balance of minus 10; net income of plus 4 gives a current account deficit of 6." loading="lazy">
+  <figcaption>The current account adds income flows to the balance of trade.</figcaption>
+</figure>
+
+<figure class="topic-figure">
   <img src="https://img.marlbridge.com/a-level-aqa-economics-measurement-of-macroeconomic-performance--04-real-vs-nominal-gdp.webp" width="900" height="880" alt="Line graph over five years: real and nominal GDP both start at 1000 in the base year; real reaches 1100 while nominal reaches 1342 because prices rose. The gap is higher prices only. Real GDP divided by population gives real GDP per capita." loading="lazy">
   <figcaption>Real data strips out inflation so genuine output change can be compared.</figcaption>
 </figure>
@@ -186,27 +191,6 @@ Redistribution moves purchasing power from higher to lower earners. A progressiv
 
 A target such as "annual inflation between 1% and 3%" can be tested. It lets voters judge the government, helps firms plan, and shows when policy must change. A vague aim such as "a strong economy" cannot be tested. Criteria are usually set over a period, such as a year, so that short-lived swings do not look like failure.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/cambridge-o-level-economics-the-role-of-government-and-macroeconomic-aims--03-eco52-employment-prices.webp" width="900" height="940" alt="A four-step chain (demand rises, firms hire, wages rise, prices rise) above two bar charts: unemployment 9% to 6% (360 to 240 thousand) and inflation 2.0% to 5.5%." loading="lazy">
-  <figcaption>Pushing unemployment down can push inflation up.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/cambridge-o-level-economics-the-role-of-government-and-macroeconomic-aims--07-aims-jobs-leak-into-imports.webp" width="900" height="820" alt="100,000 workers earning 15,000 add 1,500 million of income. 28% (420 million) goes on imports, 1,080 million at home. The import rise worsens the current account." loading="lazy">
-  <figcaption>New jobs lift incomes, and 420 million of the 1,500 million leaks into imports.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/aqa-gcse-economics-objectives-of-government--03-objectives-conflict.webp" width="900" height="1010" alt="Flow from an interest rate cut to higher borrowing and spending. Gains: growth rises and unemployment falls. Side effects: demand-pull inflation risk and a worse balance of payments through more imports. Raising rates does the reverse." loading="lazy">
-  <figcaption>A policy that helps one objective can harm another.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-level-aqa-economics-measurement-of-macroeconomic-performance--02-growth-vs-current-account.webp" width="900" height="1040" alt="A four-step chain: growth policy raises aggregate demand, incomes rise, some spending goes on imports, and the current account worsens. Bars show exports 100 and imports rising from 100 to 118, a deficit of 18." loading="lazy">
-  <figcaption>Growth policy can raise imports faster than exports, creating a short-run conflict.</figcaption>
-</figure>
-
-
 ## Quick self-test
 
 1. Name the five macroeconomic aims in the syllabus.
@@ -232,6 +216,27 @@ A target such as "annual inflation between 1% and 3%" can be tested. It lets vot
 8. Tax = (35,000 - 5,000) x 20% = 6,000; average rate = 6,000 / 35,000 x 100 = 17.14%.
 9. Full employment versus stable prices; economic growth versus balance of payments stability; full employment versus balance of payments stability.
 10. For example, when growth is led by exports, or when the extra imports are machinery that raises future output.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-economics-the-role-of-government-and-macroeconomic-aims--03-eco52-employment-prices.webp" width="900" height="940" alt="A four-step chain (demand rises, firms hire, wages rise, prices rise) above two bar charts: unemployment 9% to 6% (360 to 240 thousand) and inflation 2.0% to 5.5%." loading="lazy">
+  <figcaption>Pushing unemployment down can push inflation up.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-economics-the-role-of-government-and-macroeconomic-aims--07-aims-jobs-leak-into-imports.webp" width="900" height="820" alt="100,000 workers earning 15,000 add 1,500 million of income. 28% (420 million) goes on imports, 1,080 million at home. The import rise worsens the current account." loading="lazy">
+  <figcaption>New jobs lift incomes, and 420 million of the 1,500 million leaks into imports.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-objectives-of-government--03-objectives-conflict.webp" width="900" height="1010" alt="Flow from an interest rate cut to higher borrowing and spending. Gains: growth rises and unemployment falls. Side effects: demand-pull inflation risk and a worse balance of payments through more imports. Raising rates does the reverse." loading="lazy">
+  <figcaption>A policy that helps one objective can harm another.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-economics-measurement-of-macroeconomic-performance--02-growth-vs-current-account.webp" width="900" height="1040" alt="A four-step chain: growth policy raises aggregate demand, incomes rise, some spending goes on imports, and the current account worsens. Bars show exports 100 and imports rising from 100 to 118, a deficit of 18." loading="lazy">
+  <figcaption>Growth policy can raise imports faster than exports, creating a short-run conflict.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

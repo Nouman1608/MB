@@ -72,6 +72,11 @@ Liquidation ends the business. Administration tries to keep all or part of it al
   <figcaption>Liquidation ends the business; administration tries to keep all or part of it alive; bankruptcy is for individuals.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/enterprise-business-growth-and-size--07-liquidity-failure.webp" width="900" height="990" alt="Example with invented numbers. Sales of $100 less costs of $80 give a paper profit of $20, but bills of $80 fall due at day 30 and customers pay only at day 60. Cash falls from $20 to minus $60 and the firm cannot pay its bills, so a profitable firm can still fail." loading="lazy">
+  <figcaption>A firm can be profitable on paper but fail if cash runs out before customers pay.</figcaption>
+</figure>
+
 
 ## 5.1.2 Working capital
 
@@ -101,6 +106,12 @@ Working capital is current assets minus current liabilities (standard form).
 ### Trade payables
 
 Using the credit period fully keeps cash in the business. Paying late risks lost supplier goodwill, refusal to deliver or extra charges.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-business-finance--07-cash-gap-days.webp" width="900" height="930" alt="A copper bar of 20 days (payables days) and a teal bar of 35 days (receivables days) share a day scale. The 15 days between them is a cash gap the business must finance." loading="lazy">
+  <figcaption>Paying suppliers 15 days before customers pay creates a gap the business must fund.</figcaption>
+</figure>
+
 
 ### Capital and revenue expenditure
 
@@ -145,6 +156,11 @@ Using the credit period fully keeps cash in the business. Paying late risks lost
   <figcaption>A bank loan costs 16,000 of interest over five years; shares cost no interest but share ownership.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-accounting-types-of-business-organisation--03-finance-access.webp" width="900" height="1086" alt="A grid shows which of seven named sources each ownership type can use: owner's capital for sole traders, partners' capital for partnerships, shares and debentures for limited companies (mainly large-scale for plcs), and overdraft, loan and mortgage for all. A Cambridge-only box names instalments, leasing, trade credit and secured/unsecured loans." loading="lazy">
+  <figcaption>Match each source of finance to the ownership types that can realistically use it.</figcaption>
+</figure>
+
 
 ## 5.2.2 Sources of finance
 
@@ -175,6 +191,11 @@ Using the credit period fully keeps cash in the business. Paying late risks lost
   <figcaption>Each external source asks for something different in return.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-business-finance--01-sources-of-finance.webp" width="900" height="970" alt="Internal sources (retained profits, sale of assets, sale and leaseback, working capital) sit inside a dashed business box; seven external sources point in from outside. Loans is highlighted for the Quillcote printer example." loading="lazy">
+  <figcaption>Money comes from inside the business (internal) or from outside it (external).</figcaption>
+</figure>
+
 
 ### External
 
@@ -194,6 +215,17 @@ Using the credit period fully keeps cash in the business. Paying late risks lost
 | Micro-finance | Very small loans, often for those outside ordinary banking |
 | Crowd funding | Small sums from many people, usually online |
 | Government grants | Need not be repaid; conditions and limited supply |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-finance-accounts--01-sources-of-finance.webp" width="900" height="1060" alt="Eleven finance sources as picture tiles: internal (personal funds, retained profit, sale of assets) and external (share capital, loan capital, overdraft, trade credit, crowdfunding, leasing, microfinance, business angels). Overdraft and trade credit are shaded short-term; share capital, loan capital and leasing long-term." loading="lazy">
+  <figcaption>Finance can come from inside or outside the business, and the right source depends on the situation and the time needed.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-accounting-types-of-business-organisation--04-debt-vs-shares.webp" width="900" height="960" alt="A 100,000 pound loan at 6 percent costs 6,000 pounds interest every year whatever the profit (illustrative bars of 20,000, 6,000 and 0). Issuing 100 new shares to investors cuts an owner's stake from 100 percent to 50 percent." loading="lazy">
+  <figcaption>Debt carries fixed interest whatever the profit; new shares dilute ownership and control.</figcaption>
+</figure>
+
 
 ## 5.2.3 and 5.2.4 Choosing the source
 

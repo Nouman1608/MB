@@ -153,11 +153,6 @@ Mass loss is poor for hydrogen-producing reactions: hydrogen is so light that th
 **Reaction profile with a catalyst.** Same reactant level, same product level, lower hump. Activation energy is drawn from the reactant line up to the peak.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ocr-gcse-chemistry-controlling-reactions--06-catalyst-powders.webp" width="900" height="1010" alt="A catalyst must speed up the reaction and be recovered with its full mass. Powder A does both; B is no faster; C is faster but 0.07 g is used up." loading="lazy">
-  <figcaption>A catalyst makes the reaction faster and is recovered unchanged.</figcaption>
-</figure>
-
-<figure class="topic-figure">
   <img src="https://img.marlbridge.com/ocr-gcse-chemistry-controlling-reactions--03-cr-catalyst-numbers.webp" width="900" height="850" alt="Energy against progress of reaction. Reactants and products are at the same levels for both curves, so the overall energy change is unchanged. The uncatalysed hump is 75 kJ/mol above the reactants and the catalysed hump is 58 kJ/mol above them, so the catalyst lowers the activation energy by 17 kJ/mol." loading="lazy">
   <figcaption>A catalyst lowers activation energy from 75 to 58 kJ/mol without changing the energy change.</figcaption>
 </figure>
@@ -220,6 +215,11 @@ Enzymes are **biological catalysts**: they speed up reactions in living things a
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/ocr-gcse-chemistry-controlling-reactions--04-rate-tangent.webp" width="900" height="930" alt="Gas volume against time using the lesson table. A tangent at 50 s through 18 cm3 at 0 s and 82 cm3 at 100 s has gradient 0.64 cm3/s. Mean rate falls from 1.0 to 0.44 cm3/s." loading="lazy">
   <figcaption>The gradient of a tangent gives the rate at one moment.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-chemistry-controlling-reactions--06-catalyst-powders.webp" width="900" height="1010" alt="A catalyst must speed up the reaction and be recovered with its full mass. Powder A does both; B is no faster; C is faster but 0.07 g is used up." loading="lazy">
+  <figcaption>A catalyst makes the reaction faster and is recovered unchanged.</figcaption>
 </figure>
 
 

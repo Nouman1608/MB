@@ -75,6 +75,11 @@ To lower the rate the central bank sells its own currency, cuts interest rates o
   <figcaption>Higher interest rates shift demand right and clear the peg.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-monetary-policy--11-qe-bond-yield-money.webp" width="900" height="914" alt="Central bank buys 36bn of bonds. A bond paying 9 a year yields 4.5% at price 200 and 4.0% at 225. Money supply rises from 480bn to 516bn, +7.5%." loading="lazy">
+  <figcaption>QE raises bond prices, lowers yields and increases the money supply.</figcaption>
+</figure>
+
 
 ## Floating rate factors (2c)
 

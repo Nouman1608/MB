@@ -66,6 +66,11 @@ Quick recall for outcomes OT2.1 to OT2.7 and OT3.1 to OT3.5 of the AQA A-level M
 </figure>
 
 <figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-problem-solving-cycle-numerical-accuracy-and--04-lamp-two-strings.webp" width="900" height="880" alt="A 6 kg lamp hangs from two strings at 30 and 50 degrees to the ceiling. Force arrows are drawn to scale: T1 38.4 N, T2 51.7 N and weight 58.8 N. Both horizontal components are 33.2 N so they balance." loading="lazy">
+  <figcaption>The horizontal components of the tensions balance and the vertical components support the 58.8 N weight.</figcaption>
+</figure>
+
+<figure class="topic-figure">
   <img src="https://img.marlbridge.com/a-level-maths-9709-pure-mathematics-2-numerical-solution-of-equations--03-staircase-cobweb.webp" width="900" height="1270" alt="Four cobweb diagrams with g-prime at the root 0.358 (staircase in), -0.215 (cobweb in), 2.795 (staircase out) and -1.217 (cobweb out). The iteration converges when |g-prime| &lt; 1." loading="lazy">
   <figcaption>Where the curve y = g(x) meets y = x is the root; the path converges when the curve is flatter than the line there.</figcaption>
 </figure>
@@ -112,6 +117,11 @@ Quick recall for outcomes OT2.1 to OT2.7 and OT3.1 to OT3.5 of the AQA A-level M
   <figcaption>Both area bounds round to 100, so the area is 100 cm² to 2 significant figures.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-problem-solving-cycle-numerical-accuracy-and--05-pool-estimate.webp" width="900" height="810" alt="A pool 25 m by 10 m by 1.5 m holds 375 cubic metres, which is 375 000 litres. If the hose delivers between 10 and 30 litres per minute, filling takes between 12 500 and 37 500 minutes. On a number line of days the range runs from about 8.7 days (30 L/min) to 26 days (10 L/min): weeks, not hours, and the flow rate matters most." loading="lazy">
+  <figcaption>A reasoned estimate gives a range and names the assumption that matters most.</figcaption>
+</figure>
+
 
 ## Modelling assumptions (OT3.5)
 
@@ -127,6 +137,12 @@ Quick recall for outcomes OT2.1 to OT2.7 and OT3.1 to OT3.5 of the AQA A-level M
 | Unlimited growth | Exponential model | Overestimates once a limit is reached |
 
 **To evaluate a model (OT3.4):** compare predictions with data, find the largest disagreement, link it to a named assumption, say how to change it, then test the new version on new data. A model is appropriate when it is accurate enough for its purpose over the range where it is used.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-problem-solving-cycle-numerical-accuracy-and--07-model-refinement.webp" width="900" height="1060" alt="A trolley and hanging mass: the smooth model predicts 1.63 m per second squared against a trial value of 1.20, an overestimate. Adding friction with mu = 0.053 matches the trial. With 0.8 kg hanging the smooth model predicts 2.38 and the refined model 1.98. Mu was fitted to one trial." loading="lazy">
+  <figcaption>A model that overestimates in the expected direction is refined by adding an assumption back, then tested again.</figcaption>
+</figure>
+
 
 ## Interpreting outputs (OT2.3, OT3.3)
 

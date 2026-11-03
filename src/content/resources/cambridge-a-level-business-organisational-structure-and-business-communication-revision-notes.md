@@ -221,6 +221,11 @@ Problems: delay and distortion through many levels; no check of understanding in
   <figcaption>Redundancy of 168,000 pounds is repaid in about 3.7 months.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-people-in-business--08-communication-and-barriers.webp" width="900" height="1010" alt="Internal communication runs both ways between staff and a manager inside the business; external communication runs both ways between the manager and a customer outside. A message travels from sender to receiver, a barrier can block it, and feedback returns. Barriers: unclear wording, different languages, too many levels, equipment fails. Fix: clear words and asking for feedback." loading="lazy">
+  <figcaption>Messages can be blocked by barriers, so senders need feedback.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 

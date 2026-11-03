@@ -75,17 +75,6 @@ Carbon dioxide from marble chips and acid is much heavier, so mass loss works th
 
 **Fair test.** Change one variable only; keep acid volume and concentration, solid mass and size, and temperature fixed. Repeat, discard anomalies and take a mean.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ocr-gcse-chemistry-controlling-reactions--01-cr-rate-apparatus.webp" width="900" height="1020" alt="Top: a conical flask of reacting mixture stands on a balance with a loose cotton wool plug in its neck. Gas escapes through the plug and the balance reading falls. Bottom: a conical flask stands on paper with a cross beneath it. Seen from above, the mixture starts clear so the cross is visible, then turns cloudy as sulfur solid forms, and finally the cross cannot be seen. The clock is stopped at that point." loading="lazy">
-  <figcaption>Two methods for following a rate: mass lost with a plug in the flask, and timing a cross to disappear.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/practical-techniques-titrations-chromatography-separation--01-apparatus.webp" width="900" height="940" alt="Seven pieces of apparatus are each labelled with what they measure: stop-watch for time, thermometer for temperature, balance for mass, burette for a variable volume of liquid, volumetric pipette for one fixed volume, measuring cylinder for an approximate volume, gas syringe for gas volume." loading="lazy">
-  <figcaption>Match each quantity to its apparatus.</figcaption>
-</figure>
-
-
 ## Interpreting rate graphs (C5.2b, CM5.2ii, CM5.2iii)
 
 Plot time along the horizontal axis and the amount of product (or flask mass) up the vertical axis.
@@ -125,8 +114,18 @@ Gradient = (82 − 18) ÷ (100 − 0) = 64 ÷ 100 = **0.64 cm³/s**.
 When every run ends at the same fixed point (cross gone, ribbon gone), rate is proportional to 1/t. Halving the time doubles the rate.
 
 <figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-chemistry-controlling-reactions--01-cr-rate-apparatus.webp" width="900" height="1020" alt="Top: a conical flask of reacting mixture stands on a balance with a loose cotton wool plug in its neck. Gas escapes through the plug and the balance reading falls. Bottom: a conical flask stands on paper with a cross beneath it. Seen from above, the mixture starts clear so the cross is visible, then turns cloudy as sulfur solid forms, and finally the cross cannot be seen. The clock is stopped at that point." loading="lazy">
+  <figcaption>Two methods for following a rate: mass lost with a plug in the flask, and timing a cross to disappear.</figcaption>
+</figure>
+
+<figure class="topic-figure">
   <img src="https://img.marlbridge.com/ocr-gcse-chemistry-controlling-reactions--02-cr-one-over-t.webp" width="900" height="880" alt="Graph of 1/t in per second against volume of sodium thiosulfate in cm3. The four points for 50, 40, 30 and 20 cm3 (times 36, 45, 60 and 90 seconds) lie on a straight line through the origin. Doubling the volume from 20 to 40 cm3 doubles 1/t from 0.0111 to 0.0222. A table shows 1/t divided by volume is 0.00056 each time, so rate is directly proportional to concentration." loading="lazy">
   <figcaption>Doubling the thiosulfate volume doubles 1/t, so rate is proportional to concentration.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/practical-techniques-titrations-chromatography-separation--01-apparatus.webp" width="900" height="940" alt="Seven pieces of apparatus are each labelled with what they measure: stop-watch for time, thermometer for temperature, balance for mass, burette for a variable volume of liquid, volumetric pipette for one fixed volume, measuring cylinder for an approximate volume, gas syringe for gas volume." loading="lazy">
+  <figcaption>Match each quantity to its apparatus.</figcaption>
 </figure>
 
 

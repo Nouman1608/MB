@@ -89,12 +89,6 @@ UK revenue sources to recall: VAT, income tax, National Insurance contributions,
 - **Budget position versus fiscal stance**: position is the balance; stance is the direction policy pushes demand.
 - **Cyclical versus structural**: cyclical changes with the economic cycle without any new decision. Structural needs a policy change or lasting economic change.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ocr-a-level-economics-fiscal-policy-1-the-budget-and-taxation--02-overall-vs-current-budget.webp" width="900" height="960" alt="Receipts of 350 bn cu against spending of 330 current plus 50 capital, 380 in total. Overall position is minus 30, a deficit of 1.5 percent of GDP; current position is plus 20, a surplus." loading="lazy">
-  <figcaption>Capital spending turns a current surplus into an overall deficit.</figcaption>
-</figure>
-
-
 ## Features of a good tax
 
 Equity (vertical and horizontal), certainty, convenience, economy (cheap to collect), efficiency (few distortions) and adequate yield. Evaluate by saying which criteria matter most for the aim in the question. A tax that is equitable but costly to collect, or simple but regressive, scores differently on different criteria.
@@ -141,12 +135,6 @@ Example: deficit 3.5% of GDP, output gap +2%, and each 1% of gap shifts the bala
 
 Overall versus current: Country B receipts 410 bn cu, current spending 395, capital spending 40, GDP 2,500. Overall = 410 - 435 = -25 (1.0% of GDP, deficit). Current = 410 - 395 = +15 (0.6% of GDP, surplus).
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ocr-a-level-economics-fiscal-policy-1-the-budget-and-taxation--03-cyclical-vs-structural-deficit.webp" width="900" height="710" alt="Three columns in percent of GDP. A deficit of 4 percent with output gap minus 5 percent splits into 2 cyclical (5 x 0.4) and 2 structural. Closing the gap leaves a 2 percent deficit. With a plus 2 percent gap a cyclical surplus of 0.8 flatters the position." loading="lazy">
-  <figcaption>Part of a deficit disappears with growth and part does not.</figcaption>
-</figure>
-
-
 ## Quick self-test
 
 1. Using Country B's bands, find the tax on 30,000 cu and the average rate.
@@ -176,6 +164,17 @@ Overall versus current: Country B receipts 410 bn cu, current spending 395, capi
 10. Any two: equity, certainty, convenience, economy, efficiency, adequate yield.
 11. The peak rate is unknown and varies with the tax, the time period and ease of avoidance.
 12. Position is the size of the surplus or deficit; stance is whether policy is expanding or contracting demand, and is better judged from the structural balance.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-fiscal-policy-1-the-budget-and-taxation--02-overall-vs-current-budget.webp" width="900" height="960" alt="Receipts of 350 bn cu against spending of 330 current plus 50 capital, 380 in total. Overall position is minus 30, a deficit of 1.5 percent of GDP; current position is plus 20, a surplus." loading="lazy">
+  <figcaption>Capital spending turns a current surplus into an overall deficit.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-fiscal-policy-1-the-budget-and-taxation--03-cyclical-vs-structural-deficit.webp" width="900" height="710" alt="Three columns in percent of GDP. A deficit of 4 percent with output gap minus 5 percent splits into 2 cyclical (5 x 0.4) and 2 structural. Closing the gap leaves a 2 percent deficit. With a plus 2 percent gap a cyclical surplus of 0.8 flatters the position." loading="lazy">
+  <figcaption>Part of a deficit disappears with growth and part does not.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

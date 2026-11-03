@@ -194,6 +194,11 @@ To the left of the crossing the gap between the lines is loss; to the right it i
   <figcaption>Break-even is where revenue equals total costs; the margin of safety is how far sales sit above it.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-business-finance--03-break-even-shifts.webp" width="900" height="1290" alt="Two charts with the old lines dashed. A price rise to 19.50 steepens revenue and moves break-even from 800 to 700. Fixed costs rising to 9,240 shift total costs up in parallel and move break-even to 880." loading="lazy">
+  <figcaption>A higher price lowers break-even; higher fixed costs raise it.</figcaption>
+</figure>
+
 
 ## 5.5.1 The meaning and purpose of budgets
 
@@ -241,6 +246,11 @@ Check: 5,500 + 2,400 − 900 + 600 = £7,600.
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/cambridge-a-level-business-costs-and-budgets--04-cb-flexed-budget.webp" width="900" height="840" alt="Budget, flexed budget and actual bars for materials and labour. Materials variance is 2,400 adverse unflexed but 4,900 adverse flexed. Labour is 900 favourable unflexed but 600 adverse flexed." loading="lazy">
   <figcaption>Flexing the budget to actual output shows whether costs were really controlled.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-business-finance--05-budget-variances.webp" width="900" height="950" alt="Variances grow right when favourable and left when adverse: revenue 3,600 F, ingredients 1,800 A, wages 600 F, rent 0, profit 2,400 F. The profit variance equals the net of the others." loading="lazy">
+  <figcaption>A variance is favourable if it raises profit and adverse if it lowers it; a cost above budget is adverse.</figcaption>
 </figure>
 
 

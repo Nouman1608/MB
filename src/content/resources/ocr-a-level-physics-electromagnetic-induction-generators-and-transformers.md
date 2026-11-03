@@ -54,6 +54,17 @@ The unit of flux is the weber (Wb). One weber is the flux through an area of 1 m
 
 With the normal along the field the same frame has Φ = 1.4 × 10⁻³ Wb, its largest value.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-alternating-currents--01-fields-due-to-currents.webp" width="900" height="1210" alt="Three panels show field lines of a long straight wire (circles, with B falling as 1/r), a flat circular coil and a long solenoid. The wire panel has a 1/r graph; the coil and solenoid lines are computed with the Biot-Savart law. The solenoid has a uniform field inside and a bar-magnet pattern outside." loading="lazy">
+  <figcaption>Field lines of a straight wire, a flat coil and a solenoid, with B falling as 1/r away from the wire.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-alternating-currents--03-charged-particle-circles.webp" width="900" height="920" alt="A proton accelerated through 1500 V enters a uniform 0.20 T field pointing into the page, moving upward. The magnetic force points left, so it circles; the radius is 2.8 cm at speed v and 5.6 cm at 2v. Both take the same time, T = 3.3 x 10^-7 s. An electron through the same voltage has a 43 times smaller radius and the opposite sense." loading="lazy">
+  <figcaption>A faster charged particle moves on a bigger circle but takes the same time per revolution.</figcaption>
+</figure>
+
+
 ## 6.3.3(b) Magnetic flux linkage
 
 A coil of N turns has the same flux Φ passing through every turn. Each turn is linked by the flux, so the total is the flux linkage:
@@ -67,12 +78,6 @@ Its unit is the weber turn (Wb turn).
 1. A = πr² = π × (0.020)² = 1.257 × 10⁻³ m²
 2. Perpendicular: NΦ = NBA = 250 × 0.18 × 1.257 × 10⁻³ = 5.65 × 10⁻² Wb turns
 3. At 60°: NΦ = 5.65 × 10⁻² × cos 60° = 2.83 × 10⁻² Wb turns
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-physics-alternating-currents--01-fields-due-to-currents.webp" width="900" height="1210" alt="Three panels show field lines of a long straight wire (circles, with B falling as 1/r), a flat circular coil and a long solenoid. The wire panel has a 1/r graph; the coil and solenoid lines are computed with the Biot-Savart law. The solenoid has a uniform field inside and a bar-magnet pattern outside." loading="lazy">
-  <figcaption>Field lines of a straight wire, a flat coil and a solenoid, with B falling as 1/r away from the wire.</figcaption>
-</figure>
-
 
 ## 6.3.3(c) Faraday's law and Lenz's law
 
@@ -157,6 +162,11 @@ E = NBAω sin ωt, with peak value E₀ = NBAω
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/a-physics-alternating-currents--06-rotating-coil-generator.webp" width="900" height="1165" alt="Four end-on pictures show a coil turning in a uniform field at 0, 90, 180 and 270 degrees. Graphs for one 40 ms period (120 turns, 0.25 T, 4.5e-3 m2, 25 Hz) show N phi = NBA cos wt between plus and minus 0.135 Wb turns and E = NBAw sin wt with peak 21.2 V. E is zero when flux linkage is maximum and largest when it changes fastest." loading="lazy">
   <figcaption>The e.m.f. of a rotating coil is minus the gradient of the flux linkage, so a cosine flux linkage gives a sine e.m.f.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-alternating-currents--08-ac-rms-and-power.webp" width="900" height="945" alt="A mains voltage with peak 325 V and period 20 ms is plotted for two cycles with dashed lines at 230 V r.m.s. and a 650 V peak-to-peak arrow. Below, the power in a resistor, proportional to sin squared and never negative, has a mean of exactly half the peak power." loading="lazy">
+  <figcaption>The r.m.s. value is the peak divided by root 2, and the mean power is half the peak power.</figcaption>
 </figure>
 
 

@@ -61,12 +61,6 @@ Quick recall for fiscal policy, section 3.2.4.2 of the OxfordAQA International A
 3. Compare the average rates: rising is progressive, equal is proportional, falling is regressive.
 4. Say which measure you used. A fixed licence fee of 300 is 2% of 15,000 and 0.5% of 60,000, so it is regressive. An income tax paying 3,000 on 30,000 (10%) and 9,000 on 60,000 (15%) is progressive.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-fiscal-policy--03-un226-fp-tax-bands.webp" width="900" height="850" alt="Three horizontal bars show incomes of 9,000, 30,000 and 80,000 split into tax slices. The first 12,000 is untaxed. The slice from 12,000 to 45,000 is taxed at 25 percent and the slice above 45,000 at 45 percent. Income 9,000 pays nothing. Income 30,000 pays 25 percent of 18,000, which is 4,500, an average rate of 15 percent. Income 80,000 pays 25 percent of 33,000, which is 8,250, plus 45 percent of 35,000, which is 15,750, a total of 24,000 and an average rate of 30 percent." loading="lazy">
-  <figcaption>Each slice of income is taxed at its own rate: 0% to 12,000, 25% to 45,000 and 45% above, so 80,000 pays 24,000, an average of 30%.</figcaption>
-</figure>
-
-
 ## Method in steps: the fiscal effect on AD
 
 1. Name the instrument (spending up, tax down, or the reverse).
@@ -80,6 +74,11 @@ Reminder: MPS = 0.05, MPT = 0.15, MPM = 0.20 gives MPW = 0.40 and a multiplier o
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-fiscal-policy--11-spending-vs-tax-cut-multiplier.webp" width="900" height="1090" alt="MPW 0.50 gives multiplier 2. Spending of 50 raises income by 100. A tax cut of 50 of which 70% is spent gives a first round of 35 and income up 70." loading="lazy">
   <figcaption>Spending has a larger effect than an equal tax cut because none leaks in round one.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-fiscal-policy--02-un226-fp-spare-capacity.webp" width="900" height="1030" alt="Two aggregate demand and supply diagrams with price level on the vertical axis and real output on the horizontal axis. Both use the same upward-sloping short-run aggregate supply curve, flat at low output and steep at high output, and the same rightward shift of AD from AD1 to AD2. With spare capacity, the equilibrium moves along the flat part, so output rises about 45 percent and the price level about 9 percent. Near full capacity, on the steep part, output rises only about 5 percent while the price level rises about 15 percent. Time lags, confidence and the multiplier can still change the result." loading="lazy">
+  <figcaption>The same rightward shift of AD raises output a lot and prices a little when there is spare capacity, and the reverse near full capacity.</figcaption>
 </figure>
 
 <figure class="topic-figure">
@@ -113,12 +112,6 @@ Reminder: MPS = 0.05, MPT = 0.15, MPM = 0.20 gives MPW = 0.40 and a multiplier o
 3. Reminder: actual deficit 45, structural deficit 25, so the cyclical deficit is 20.
 4. In a downturn revenue falls and benefit spending rises, so the cyclical deficit grows. In a boom it shrinks.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-fiscal-policy--14-structural-and-cyclical-deficit.webp" width="900" height="980" alt="Actual GDP is 6.25% below potential. Revenue falls by 42 and spending rises by 20, so the cyclical deficit is 62. With the structural deficit of 18 the actual deficit is 80." loading="lazy">
-  <figcaption>Recovery removes the cyclical part but not the structural part of a deficit.</figcaption>
-</figure>
-
-
 ## Evaluation checklist
 
 Use these prompts to finish an answer on any fiscal measure.
@@ -129,6 +122,12 @@ Use these prompts to finish an answer on any fiscal measure.
 - Cost: what is the opportunity cost of the spending, and what happens to the deficit and the debt?
 - Conflict: does helping one objective hurt another, such as growth against equity, or unemployment against the budget?
 - Judgement: which factor matters most in this case, and why?
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-fiscal-policy--14-structural-and-cyclical-deficit.webp" width="900" height="980" alt="Actual GDP is 6.25% below potential. Revenue falls by 42 and spending rises by 20, so the cyclical deficit is 62. With the structural deficit of 18 the actual deficit is 80." loading="lazy">
+  <figcaption>Recovery removes the cyclical part but not the structural part of a deficit.</figcaption>
+</figure>
+
 
 ## Fiscal policy and AS in one table
 
@@ -149,6 +148,12 @@ The aim is to shift LRAS right. The result is a higher potential output, and low
 - Move resources: a tax on one product shifts demand to substitutes; spending on a sector expands it.
 
 Reminder: tax of 1.5 per unit with 80 units sold raises 1.5 x 80 = 120. Where demand is inelastic, the tax raises more revenue and cuts quantity less.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-economics-price-system-and-the-microeconomy--07-tax-burden-and-elasticity.webp" width="900" height="1280" alt="A tax of 2 per unit shifts supply up. With inelastic demand (PED 0.5) buyers pay 6.43 and firms keep 4.43, so buyers bear 71 percent of the tax. With elastic demand (PED 3.3) buyers pay 5.55 and firms keep 3.55, so firms bear 73 percent." loading="lazy">
+  <figcaption>With inelastic demand buyers bear most of an indirect tax; with elastic demand producers bear most.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 
@@ -191,6 +196,16 @@ Reminder: tax of 1.5 per unit with 80 units sold raises 1.5 x 80 = 120. Where de
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-fiscal-policy--12-average-tax-rate-progressive-regressive.webp" width="900" height="1050" alt="Average income tax rate rises with income: 0% at 9,000, 15% at 30,000, 30% at 80,000, so progressive. A 10% sales tax takes 8.2% of household L income (22,000) but 5.0% of household H income (90,000), so regressive." loading="lazy">
   <figcaption>Classify a tax by what happens to the average rate as income rises.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-fiscal-policy--03-un226-fp-tax-bands.webp" width="900" height="850" alt="Three horizontal bars show incomes of 9,000, 30,000 and 80,000 split into tax slices. The first 12,000 is untaxed. The slice from 12,000 to 45,000 is taxed at 25 percent and the slice above 45,000 at 45 percent. Income 9,000 pays nothing. Income 30,000 pays 25 percent of 18,000, which is 4,500, an average rate of 15 percent. Income 80,000 pays 25 percent of 33,000, which is 8,250, plus 45 percent of 35,000, which is 15,750, a total of 24,000 and an average rate of 30 percent." loading="lazy">
+  <figcaption>Each slice of income is taxed at its own rate: 0% to 12,000, 25% to 45,000 and 45% above, so 80,000 pays 24,000, an average of 30%.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-objectives-of-government--07-types-of-tax.webp" width="900" height="1110" alt="Bar charts of tax as a percentage of income for low, middle and high earners: progressive rises (10, 15, 22.5 percent), regressive falls (2, 1.5, 1 percent). Below, a direct tax goes from you to the government; an indirect tax goes via a shop." loading="lazy">
+  <figcaption>Direct/indirect and progressive/regressive are two separate ways to classify taxes.</figcaption>
 </figure>
 
 

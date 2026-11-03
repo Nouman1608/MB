@@ -50,11 +50,6 @@ Section 3.6 asks you to use accounting concepts to record: accruals and prepayme
   <figcaption>Each year-end adjustment changes both the income statement and the statement of financial position.</figcaption>
 </figure>
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/aqa-a-level-accounting-accounting-for-organisations-with-incomplete-records--04-disposal-loss.webp" width="900" height="870" alt="A machine costing 18,000 pounds with 10,800 pounds accumulated depreciation has a carrying amount of 7,200 pounds. Sold for 6,000 pounds, the 1,200 pound shortfall is a loss on disposal, an expense. Proceeds above carrying amount would be a profit." loading="lazy">
-  <figcaption>Compare proceeds with carrying amount to find the profit or loss on disposal.</figcaption>
-</figure>
-
 
 ## Key formulas
 
@@ -78,12 +73,6 @@ Section 3.6 asks you to use accounting concepts to record: accruals and prepayme
 **Service business income statement:** fees or other income first, then expenses, then profit for the year. There is no cost of sales or gross profit.
 
 **Statement of financial position** (subheadings named by the specification): non-current assets (cost, accumulated depreciation, carrying amount); current assets (inventory, trade receivables less provision, other receivables, bank); current liabilities (trade payables, accrued expenses, income received in advance, bank overdraft); non-current liabilities (long-term loans); capital (equity), ending with closing capital equal to net assets.
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/aqa-a-level-accounting-accounting-for-organisations-with-incomplete-records--07-profit-from-capital.webp" width="900" height="900" alt="Opening capital of 13,480 pounds plus the missing profit of 10,420 pounds, plus 5,000 pounds introduced, less 19,200 pounds drawings, gives closing capital of 9,700 pounds. Capital fell by 3,780 pounds although there was a profit." loading="lazy">
-  <figcaption>Profit = closing capital - opening capital + drawings - capital introduced.</figcaption>
-</figure>
-
 
 ## Method: trial balance plus notes
 
@@ -111,12 +100,6 @@ Section 3.6 asks you to use accounting concepts to record: accruals and prepayme
 - **Prepayment vs income due:** both are current assets ("other receivables").
 - **Drawings vs expenses:** drawings reduce capital and never appear in the income statement.
 - **Service vs trading:** only a trading business has inventory, cost of sales and gross profit.
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/aqa-a-level-accounting-accounting-for-organisations-with-incomplete-records--05-doubtful-debts-provision.webp" width="900" height="800" alt="Receivables of 19,100 pounds carry a 5 percent provision of 955 pounds, so the statement of financial position shows 18,145 pounds. The old provision was 900 pounds, so only the 55 pound increase is charged as an expense." loading="lazy">
-  <figcaption>Only the change in the provision goes to the income statement; the full provision is deducted from receivables.</figcaption>
-</figure>
-
 
 ## Quick self-test
 
@@ -149,8 +132,33 @@ Section 3.6 asks you to use accounting concepts to record: accruals and prepayme
 12. The £600 belonged to last year and the £400 to next year: 7,200 - 600 - 400 = **£6,200**; the £400 is a current liability.
 
 <figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-accounting-for-organisations-with-incomplete-records--02-accrual-expense.webp" width="900" height="780" alt="Cash paid of 2,610 pounds has 240 pounds taken off (owed at the start, last year's cost) and 310 pounds added (owed at the end), giving a heating expense of 2,680 pounds. The 310 pounds still owing is a current liability." loading="lazy">
+  <figcaption>Expense = cash paid - owed at the start + owed at the end.</figcaption>
+</figure>
+
+<figure class="topic-figure">
   <img src="https://img.marlbridge.com/aqa-a-level-accounting-accounting-for-organisations-with-incomplete-records--03-depreciation-methods.webp" width="900" height="1000" alt="A line graph for an asset costing 24,000 pounds at 25 percent: straight line falls 6,000 pounds a year to zero in year 4; reducing balance charges 6,000, 4,500, 3,375 and 2,531 pounds, leaving a carrying amount of 7,594 pounds after four years." loading="lazy">
   <figcaption>Straight line charges the same each year; reducing balance charges a percentage of the falling carrying amount.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-accounting-for-organisations-with-incomplete-records--04-disposal-loss.webp" width="900" height="870" alt="A machine costing 18,000 pounds with 10,800 pounds accumulated depreciation has a carrying amount of 7,200 pounds. Sold for 6,000 pounds, the 1,200 pound shortfall is a loss on disposal, an expense. Proceeds above carrying amount would be a profit." loading="lazy">
+  <figcaption>Compare proceeds with carrying amount to find the profit or loss on disposal.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-accounting-for-organisations-with-incomplete-records--05-doubtful-debts-provision.webp" width="900" height="800" alt="Receivables of 19,100 pounds carry a 5 percent provision of 955 pounds, so the statement of financial position shows 18,145 pounds. The old provision was 900 pounds, so only the 55 pound increase is charged as an expense." loading="lazy">
+  <figcaption>Only the change in the provision goes to the income statement; the full provision is deducted from receivables.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-accounting-for-organisations-with-incomplete-records--07-profit-from-capital.webp" width="900" height="900" alt="Opening capital of 13,480 pounds plus the missing profit of 10,420 pounds, plus 5,000 pounds introduced, less 19,200 pounds drawings, gives closing capital of 9,700 pounds. Capital fell by 3,780 pounds although there was a profit." loading="lazy">
+  <figcaption>Profit = closing capital - opening capital + drawings - capital introduced.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-accounting-for-organisations-with-incomplete-records--08-total-accounts.webp" width="900" height="896" alt="Two T-accounts show credit sales of 42,800 pounds and cash sales of 45,400 pounds as balancing figures. Each account balances at 46,000 and 45,550 pounds, and revenue is 88,200 pounds." loading="lazy">
+  <figcaption>The missing figure in a total account is the one that makes it balance.</figcaption>
 </figure>
 
 <figure class="topic-figure">

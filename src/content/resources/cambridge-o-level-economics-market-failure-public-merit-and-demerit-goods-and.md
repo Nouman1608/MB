@@ -53,6 +53,12 @@ Three good types need exact definitions.
 - **Merit good:** a good that is under-consumed because people undervalue its benefits. It usually also brings external benefits. Education and healthcare are standard examples.
 - **Demerit good:** a good that is over-consumed because people underestimate its harm to themselves and others. Tobacco and alcohol are standard examples.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-allocation-of-resources--06-external-costs-and-benefits.webp" width="900" height="1160" alt="A factory has private cost 10 and its smoke harms neighbours with an external cost of 4, so social cost is 14. A vaccination has private benefit 6 and external benefit 3, so social benefit is 9. The market ignores the external parts." loading="lazy">
+  <figcaption>Social cost or benefit equals private plus external.</figcaption>
+</figure>
+
+
 ## 2.10.2 Causes of market failure
 
 ### Public goods and the free rider
@@ -137,6 +143,11 @@ The buyer sees a surplus of 1.00 (3.00 - 2.00) and buys, ignoring the harm. Cons
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/cambridge-o-level-economics-market-failure-public-merit-and-demerit-goods-and--06-fizzy-drink-demerit.webp" width="900" height="830" alt="A fizzy drink costs 2.00 and the buyer values it at 3.00, a gain of 1.00. Social cost is 2.00 + 1.50 + 0.50 = 4.00, so the net for society is minus 1.00 and consumption is too high." loading="lazy">
   <figcaption>The buyer sees +1.00 but society loses 1.00.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-allocation-of-resources--05-merit-and-demerit-goods.webp" width="900" height="1010" alt="For healthcare, a merit good, the market delivers 60 against a best amount of 100, so there is too little. For cigarettes, a demerit good, it delivers 100 against 40, so there is too much." loading="lazy">
+  <figcaption>Merit goods are under-consumed and demerit goods over-consumed.</figcaption>
 </figure>
 
 

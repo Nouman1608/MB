@@ -114,6 +114,11 @@ So μ/3 = 1 − μ  →  μ = 3/4, λ = 1/2
 →OX = (1/4)(a + b), so X is the midpoint of OM, and BX : XN = 3 : 1. Always state why you may equate coefficients: a and b are not parallel.
 
 <figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-vectors--06-line-equation.webp" width="900" height="1253" alt="The line r = (3, -1) + t(2, 5): a position vector to the point, the direction vector (2, 5), and points for t = -1, 0, 1, 2. Its gradient is 5/2 so y = 5x/2 - 17/2." loading="lazy">
+  <figcaption>A line is one point plus any multiple of a direction vector, in 2D or 3D.</figcaption>
+</figure>
+
+<figure class="topic-figure">
   <img src="https://img.marlbridge.com/aqa-a-level-mathematics-vectors--08-scalar-product-angle.webp" width="900" height="917" alt="Vector u = (2, 1) with (1, 2), (-1, 2) and (-2, 1): scalar products 4, 0 and -3 give 36.9 (acute), 90 and 126.9 degrees (obtuse). For lines, directions (2, 1, -2) and (1, -4, 8) give cos = -2/3: 131.8 degrees between the vectors, 48.2 degrees between the lines." loading="lazy">
   <figcaption>The sign of u.v tells you whether the angle is acute, right or obtuse; for two lines quote the acute angle.</figcaption>
 </figure>
@@ -135,11 +140,6 @@ Reminder: X(−2, 5) and Y(6, −1). →XY = 8i − 6j, XY = √(64 + 36) = 10. 
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/aqa-a-level-mathematics-vectors--03-adding-vectors.webp" width="900" height="1161" alt="a = (2, 5) and b = (4, -3). Placing b at the end of a gives a + b = (6, 2) (triangle law); b and a from a common point give the same diagonal (parallelogram law). a - b = (-2, 8) runs from the tip of b to the tip of a." loading="lazy">
   <figcaption>Add head to tail or complete the parallelogram; a - b joins the tip of b to the tip of a.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-vectors--06-line-equation.webp" width="900" height="1253" alt="The line r = (3, -1) + t(2, 5): a position vector to the point, the direction vector (2, 5), and points for t = -1, 0, 1, 2. Its gradient is 5/2 so y = 5x/2 - 17/2." loading="lazy">
-  <figcaption>A line is one point plus any multiple of a direction vector, in 2D or 3D.</figcaption>
 </figure>
 
 

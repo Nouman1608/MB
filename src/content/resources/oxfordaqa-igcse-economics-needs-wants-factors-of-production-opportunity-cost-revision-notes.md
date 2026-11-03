@@ -187,6 +187,11 @@ Change = 20 - 30 = -10 percentage points
   <figcaption>Points describe a change in a share; per cent describes a change in a number.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-economics-production-and-business-costs--02-three-sectors.webp" width="900" height="970" alt="Three cards describe the primary sector (extracting raw materials), secondary sector (making things) and tertiary sector (services). Two bars of illustrative job shares show a developing economy with mostly primary jobs and a developed economy with mostly tertiary jobs. A factory is secondary, not tertiary." loading="lazy">
+  <figcaption>As economies develop, jobs move from the primary sector towards the tertiary sector (illustrative shares).</figcaption>
+</figure>
+
 
 ## 3.1.2.3 Specialisation, division of labour and exchange
 
@@ -228,6 +233,11 @@ Must-know distinction: a 20% fall in one price caused only a 14% fall in total e
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/oxfordaqa-igcse-economics-needs-wants-factors-of-production-opportunity-cost--15-fp-export-reliance.webp" width="900" height="870" alt="Export earnings fall from 500 to 400 million when the crop price falls 25 per cent, because the crop is 80 per cent of exports." loading="lazy">
   <figcaption>A narrow export range exposes a country to price falls.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-economics-production-and-business-costs--04-division-of-labour.webp" width="900" height="960" alt="Top: one worker does four tasks in turn. Below: four workers each do one task and pass the work on. The advantage for the firm is faster output; the disadvantage for workers is boredom and over-specialisation. Answers should give both sides." loading="lazy">
+  <figcaption>Splitting a job into tasks speeds up output but can leave workers bored and over-specialised.</figcaption>
 </figure>
 
 

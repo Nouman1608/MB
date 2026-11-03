@@ -95,6 +95,11 @@ Notation from Appendix A: s, u, v, a, t, g; bold **r**, **s**, **v**, **a** for 
   <figcaption>The suvat equations are the gradient and area of one straight-line velocity-time graph.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-kinematics--04-vertical-two-roots.webp" width="900" height="910" alt="A displacement-time parabola for a ball thrown up at 21 m/s peaks at 22.5 m. The line s = 15 m meets it at t = 0.91 s going up and t = 3.38 s coming down, with velocities plus and minus 12.1 m/s from the tangent gradients. The gap of 2.47 s is the time above 15 m." loading="lazy">
+  <figcaption>The two roots of the quadratic are the times going up and coming down through the same height.</figcaption>
+</figure>
+
 
 ## Q4: Calculus
 
@@ -215,6 +220,12 @@ Kinematics feeds straight into the [Forces and Newton's laws revision notes](/re
 10. 19.6t − 4.9t² = 0 gives t = 4 s; range = 10 × 4 = 40 m; greatest height = 19.6²/(2 × 9.8) = 19.6 m.
 11. v = (6t² − 18t)i + (6 − 2t)j; at t = 3, v = (54 − 54)i + (6 − 6)j = 0, so it is at rest.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-kinematics--01-distance-displacement.webp" width="900" height="910" alt="A number line from minus 4 to 14 m shows a particle moving 12 m forward, 5 m back and 9 m back, ending at minus 2 m after 20 s. Distance is 26 m, giving average speed 1.3 m/s. Displacement is minus 2 m, giving average velocity minus 0.1 m/s." loading="lazy">
+  <figcaption>Distance adds every leg; displacement only compares start and end, so the two averages differ.</figcaption>
+</figure>
+
+
 ## Where marks are usually lost
 
 - Applying suvat to an acceleration that depends on t.
@@ -226,11 +237,6 @@ Kinematics feeds straight into the [Forces and Newton's laws revision notes](/re
 - Rounding an intermediate time before using it for a range or a height.
 - Keeping the negative root of a quadratic in t, or a root before the motion starts.
 - Writing only the final number in a "show that" derivation, with no substitution shown.
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-kinematics--04-vertical-two-roots.webp" width="900" height="910" alt="A displacement-time parabola for a ball thrown up at 21 m/s peaks at 22.5 m. The line s = 15 m meets it at t = 0.91 s going up and t = 3.38 s coming down, with velocities plus and minus 12.1 m/s from the tangent gradients. The gap of 2.47 s is the time above 15 m." loading="lazy">
-  <figcaption>The two roots of the quadratic are the times going up and coming down through the same height.</figcaption>
-</figure>
 
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/aqa-a-level-mathematics-kinematics--09-two-angles-one-point.webp" width="900" height="910" alt="Two parabolas from the origin at 14 m/s pass through (10, 5). Using sec²α = 1 + tan²α gives T² − 4T + 3 = 0, so tan α = 1 or 3, α = 45° or 71.6°. The 45° path has range 20 m and is at its top at the point; the 71.6° path has range 12 m and passes it on the way down." loading="lazy">

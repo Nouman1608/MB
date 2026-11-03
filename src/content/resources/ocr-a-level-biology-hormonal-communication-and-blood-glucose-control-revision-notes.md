@@ -123,6 +123,11 @@ Predictions: a drug that closes the potassium channels causes secretion at low g
 **Worked reminder.** Fasting glucose is 11.0 mmol dm⁻³, then falls to 6.6 after treatment. Percentage fall = (11.0 − 6.6) ÷ 11.0 × 100 = **40%**.
 
 <figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-homeostasis--04-pct-reabsorption.webp" width="900" height="940" alt="One proximal tubule cell between filtrate (left) and blood (right) with microvilli, mitochondria and tight junctions. Step 1: a sodium-potassium pump moves Na+ out of the cell using ATP. Step 2: Na+ diffuses in through a co-transporter carrying glucose. Step 3: glucose leaves by facilitated diffusion. Step 4: water follows by osmosis." loading="lazy">
+  <figcaption>Active transport of sodium out of the cell drives co-transport of glucose in, and water follows by osmosis.</figcaption>
+</figure>
+
+<figure class="topic-figure">
   <img src="https://img.marlbridge.com/a-level-biology-9700-homeostasis--07-blood-glucose-control.webp" width="900" height="1110" alt="A graph of blood glucose against time with a shaded 4 to 6 mmol per dm cubed band: a meal raises it and insulin brings it back, exercise lowers it and glucagon raises it. Below, glucose too high: beta cells release insulin, the liver makes glycogen and muscle and fat cells gain glucose channels. Glucose too low: alpha cells release glucagon, the liver breaks glycogen down and makes glucose from amino acids and glycerol." loading="lazy">
   <figcaption>Insulin lowers and glucagon raises blood glucose, acting on the liver and on muscle and fat cells.</figcaption>
 </figure>
@@ -163,17 +168,6 @@ Advantages over animal insulin: human sequence, so a lower chance of immune reac
 
 Idea: turn stem cells into beta cells and transplant them. Issues: rejection and the need for immunosuppression, possible renewed autoimmune attack in Type 1, ethical objections to embryonic cells, tumour risk, and limited evidence so far.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-level-biology-9700-homeostasis--03-ultrafiltration.webp" width="900" height="1100" alt="Blood with red cells, plasma proteins and small molecules lies on the left. Fluid crosses the endothelium with gaps, the basement membrane mesh and the podocyte slits into the capsule space. Water, glucose, urea and ions pass; cells and proteins stay. A bar diagram of AQA example pressures (9.6 out, 2.1 and 4.5 back) gives 3.0 kPa net outward." loading="lazy">
-  <figcaption>Blood is forced through three layers; the basement membrane is the main filter, and cells and proteins stay in the blood.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-level-biology-9700-homeostasis--06-adh-osmoregulation.webp" width="900" height="1010" alt="Top: a fall in blood water potential makes hypothalamus osmoreceptors shrink and signal the posterior pituitary by impulses, which releases ADH into the blood, going to the kidney. Bottom: two collecting duct cells. With little ADH vesicles stay inside and little water leaves; with ADH the vesicles fuse, aquaporin pores open and more water leaves by osmosis, giving small concentrated urine." loading="lazy">
-  <figcaption>ADH makes the collecting duct more permeable to water by inserting aquaporins, so less water is lost in urine.</figcaption>
-</figure>
-
-
 ## Quick self-test
 
 1. State the three stages of endocrine communication.
@@ -187,6 +181,12 @@ Idea: turn stem cells into beta cells and transplant them. Issues: rejection and
 9. Blood glucose is 9.6 mmol dm⁻³ before a drug and 5.2 after. Calculate the percentage change.
 10. State why bacteria are given a gene without introns.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-homeostasis--03-ultrafiltration.webp" width="900" height="1100" alt="Blood with red cells, plasma proteins and small molecules lies on the left. Fluid crosses the endothelium with gaps, the basement membrane mesh and the podocyte slits into the capsule space. Water, glucose, urea and ions pass; cells and proteins stay. A bar diagram of AQA example pressures (9.6 out, 2.1 and 4.5 back) gives 3.0 kPa net outward." loading="lazy">
+  <figcaption>Blood is forced through three layers; the basement membrane is the main filter, and cells and proteins stay in the blood.</figcaption>
+</figure>
+
+
 ### Answers
 
 1. Secretion into the blood, transport by the blood, detection by target cells.
@@ -199,6 +199,12 @@ Idea: turn stem cells into beta cells and transplant them. Issues: rejection and
 8. (12.4 − 7.0) ÷ 1.5 = **3.6 mmol dm⁻³ per hour**.
 9. (5.2 − 9.6) ÷ 9.6 × 100 = **−46%**, a fall of 46%.
 10. Bacteria cannot remove introns from RNA.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-homeostasis--06-adh-osmoregulation.webp" width="900" height="1010" alt="Top: a fall in blood water potential makes hypothalamus osmoreceptors shrink and signal the posterior pituitary by impulses, which releases ADH into the blood, going to the kidney. Bottom: two collecting duct cells. With little ADH vesicles stay inside and little water leaves; with ADH the vesicles fuse, aquaporin pores open and more water leaves by osmosis, giving small concentrated urine." loading="lazy">
+  <figcaption>ADH makes the collecting duct more permeable to water by inserting aquaporins, so less water is lost in urine.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 

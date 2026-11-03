@@ -49,11 +49,6 @@ These revision notes cover section 8.02 (8.02a to 8.02d) of the OCR GCSE (9-1) M
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ocr-gcse-mathematics-ruler-and-compass-constructions-and-loci--02-angle-bisector.webp" width="900" height="720" alt="An arc from V cuts both lines at P and Q; equal arcs from P and Q cross at R; VR splits 84 degrees into 42 and 42." loading="lazy">
-  <figcaption>How to bisect an angle with arcs, on the lesson's 84 degree example.</figcaption>
-</figure>
-
-<figure class="topic-figure">
   <img src="https://img.marlbridge.com/ocr-gcse-mathematics-ruler-and-compass-constructions-and-loci--06-perpendicular-at-point.webp" width="900" height="700" alt="Arcs from T cut the line at A and B, 2 cm each side; arcs of radius 3 cm from A and B cross at Y; the line through T and Y is perpendicular, with X 5 cm from T." loading="lazy">
   <figcaption>Equal arcs either side of T, then crossing arcs give the perpendicular at T.</figcaption>
 </figure>
@@ -228,6 +223,17 @@ Setting both radii to the side length gives an equilateral triangle, so each ang
 8. 8 cm.
 9. Two straight lines 2 m either side of the path, each 10 m long, joined by a semicircle of radius 2 m at each end.
 10. PX² = 8² + 6² = 64 + 36 = 100, so PX = 10 cm.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-mathematics-ruler-and-compass-constructions-and-loci--02-angle-bisector.webp" width="900" height="720" alt="An arc from V cuts both lines at P and Q; equal arcs from P and Q cross at R; VR splits 84 degrees into 42 and 42." loading="lazy">
+  <figcaption>How to bisect an angle with arcs, on the lesson's 84 degree example.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-mathematics-ruler-and-compass-constructions-and-loci--08-garden-lamp.webp" width="900" height="810" alt="A 6 cm by 4 cm garden at 1 cm to 2 m with a shaded quarter circle of radius 2.5 cm round the lamp A. The pond is 5 cm (10 m) from A, outside the lit area." loading="lazy">
+  <figcaption>Convert to the scale drawing, then compare 10 m with the 5 m radius.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

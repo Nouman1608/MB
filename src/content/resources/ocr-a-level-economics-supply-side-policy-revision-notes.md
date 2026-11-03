@@ -108,6 +108,11 @@ Example: tax 30%, benefit loss 45% of net. Net = 70. Benefit lost = 31.5. Kept =
 </figure>
 
 <figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-supply-side-policy--01-ssp-training-npv.webp" width="900" height="1100" alt="A cost column of 1,800 sits beside a column of five yearly slices, each smaller than the last because of discounting, totalling 2,003. The slices pass the 1,800 line by 203, the net present value." loading="lazy">
+  <figcaption>Discounted extra output of 2,003 beats the 1,800 training cost, so the net present value is +203.</figcaption>
+</figure>
+
+<figure class="topic-figure">
   <img src="https://img.marlbridge.com/ocr-a-level-economics-supply-side-policy--02-ssp-housing-move.webp" width="900" height="1060" alt="Two waterfalls: a pay gap of +3,600 less a rent gap of 5,400 gives a net of -1,800 (the worker stays), while a rent gap of 2,400 gives +1,200 (the worker moves)." loading="lazy">
   <figcaption>High rents can cancel the pay gain from moving; closing the rent gap makes the move worthwhile.</figcaption>
 </figure>

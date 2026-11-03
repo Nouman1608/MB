@@ -194,6 +194,17 @@ Under a 2.5 N load the extension is 0.050 m = 5.0 cm, so the length is 12.0 + 5.
 
 Convert centimetres to metres before using k in N/m, and never put the new length into the equation.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/elastic-deformation-moments-and-centre-of-gravity--02-extension-springs.webp" width="900" height="820" alt="Four springs hang with loads of 0, 2, 4 and 6 N. A dashed line marks the natural length; extension x is measured from it and is 0.04, 0.08 and 0.12 m. F divided by x is 50 N/m each time." loading="lazy">
+  <figcaption>Extension is the increase in length from the natural length, not the total length.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/elastic-deformation-moments-and-centre-of-gravity--01-load-extension-graph.webp" width="900" height="940" alt="Load-extension graph for a spring of constant 50 N/m: straight through the origin to 0.16 m and 8 N, where the limit of proportionality is marked, then curving. A gradient triangle (4 N over 0.08 m) gives k = 50 N/m." loading="lazy">
+  <figcaption>The gradient of the straight part is the spring constant; the line stops being straight at the limit of proportionality.</figcaption>
+</figure>
+
+
 ## Required practical: force and extension of a spring
 
 **Aim:** investigate the relationship between force and extension for a spring.
@@ -251,6 +262,22 @@ speed = change in distance ÷ change in time
 ```
 
 For a curve, draw a tangent at the time you want and find the gradient of the tangent.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-physics-motion-forces-and-energy--01-distance-time-graph.webp" width="900" height="970" alt="A distance-time graph rises steeply for 40 m in 10 s, is flat for 10 s, then rises less steeply by 60 m in 20 s. Steeper means faster, flat means stopped; the last gradient triangle gives 60 / 20 = 3 m/s." loading="lazy">
+  <figcaption>The gradient of a distance-time graph is the speed.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/kinematics--02-distance-time-gradient.webp" width="900" height="900" alt="A distance-time graph rises 20 m in 4 s (5 m/s), stays flat for 4 s (at rest), then rises 50 m in 4 s (12.5 m/s). The steeper line is faster." loading="lazy">
+  <figcaption>On a distance-time graph the gradient is the speed, and a flat line means at rest.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/kinematics--03-distance-time-tangent.webp" width="900" height="900" alt="A curved distance-time graph gets steeper, so the object accelerates. A tangent at 4 s rises 32 m over 4 s, so the speed at that instant is 8 m/s." loading="lazy">
+  <figcaption>For a curve, the speed at an instant is the gradient of the tangent.</figcaption>
+</figure>
+
 
 ## Velocity and average speed (3.1.2 c-d)
 

@@ -159,17 +159,6 @@ Use this when the question asks only for the distance. If it asks for the foot, 
 - Perpendicular test versus parallel test: perpendicular needs u.v = 0. Parallel needs one vector to be a multiple of the other.
 - Unknown constants: set u.v = 0 for perpendicular. For a given angle, use the cosine form and expect a quadratic after squaring, then check which roots fit the sign of the scalar product.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-vectors--02-direction-quadrant.webp" width="900" height="1269" alt="Vectors -3i + 7j and 3i - 7j from the origin. Both have the calculator angle 66.8 degrees, but their directions anticlockwise from i are 113.2 degrees (second quadrant) and 293.2 degrees (fourth quadrant)." loading="lazy">
-  <figcaption>The calculator gives only the acute angle, so sketch the vector and adjust for its quadrant.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-vectors--06-line-equation.webp" width="900" height="1253" alt="The line r = (3, -1) + t(2, 5): a position vector to the point, the direction vector (2, 5), and points for t = -1, 0, 1, 2. Its gradient is 5/2 so y = 5x/2 - 17/2." loading="lazy">
-  <figcaption>A line is one point plus any multiple of a direction vector, in 2D or 3D.</figcaption>
-</figure>
-
-
 ## Exam habits
 
 - Write the vectors in full before the scalar product, with brackets round negatives.
@@ -198,17 +187,6 @@ A = 74.2° (1 d.p.)
 ```
 
 Both vectors start at A, which is the vertex of the angle. Using AB and CA instead would give the supplement.
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-vectors--03-adding-vectors.webp" width="900" height="1161" alt="a = (2, 5) and b = (4, -3). Placing b at the end of a gives a + b = (6, 2) (triangle law); b and a from a common point give the same diagonal (parallelogram law). a - b = (-2, 8) runs from the tip of b to the tip of a." loading="lazy">
-  <figcaption>Add head to tail or complete the parallelogram; a - b joins the tip of b to the tip of a.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-vectors--05-forces-equilibrium.webp" width="900" height="1137" alt="Forces (3, -2), (-5, 7) and (2, -5) N drawn head to tail form a closed triangle, so the sum is zero and the particle is in equilibrium. The resultant of the first two is (-2, 5) N, magnitude 5.39 N at 111.8 degrees to i; a 2 kg particle would accelerate at (-1, 2.5) m s^-2." loading="lazy">
-  <figcaption>Forces add as vectors, and equilibrium means the head-to-tail loop closes.</figcaption>
-</figure>
-
 
 ## Quick self-test
 
@@ -239,6 +217,22 @@ Both vectors start at A, which is the vertex of the angle. Using AB and CA inste
 10. Two lines make a pair of supplementary angles, 60° and 120°, and the convention is to quote the acute one, 60°.
 11. Directions (1, 1) and (1, 3). Scalar product 4, magnitudes √2 and √10, cos θ = 4/√20 = 2/√5, so θ = 26.6°.
 12. The line is r = t(1, 1). X = (t, t) and PX = (t − 4, t), so PX.d = 2t − 4 = 0 and t = 2. The foot is (2, 2) and the distance is √(4 + 4) = 2√2.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-vectors--02-direction-quadrant.webp" width="900" height="1269" alt="Vectors -3i + 7j and 3i - 7j from the origin. Both have the calculator angle 66.8 degrees, but their directions anticlockwise from i are 113.2 degrees (second quadrant) and 293.2 degrees (fourth quadrant)." loading="lazy">
+  <figcaption>The calculator gives only the acute angle, so sketch the vector and adjust for its quadrant.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-vectors--03-adding-vectors.webp" width="900" height="1161" alt="a = (2, 5) and b = (4, -3). Placing b at the end of a gives a + b = (6, 2) (triangle law); b and a from a common point give the same diagonal (parallelogram law). a - b = (-2, 8) runs from the tip of b to the tip of a." loading="lazy">
+  <figcaption>Add head to tail or complete the parallelogram; a - b joins the tip of b to the tip of a.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-vectors--06-line-equation.webp" width="900" height="1253" alt="The line r = (3, -1) + t(2, 5): a position vector to the point, the direction vector (2, 5), and points for t = -1, 0, 1, 2. Its gradient is 5/2 so y = 5x/2 - 17/2." loading="lazy">
+  <figcaption>A line is one point plus any multiple of a direction vector, in 2D or 3D.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

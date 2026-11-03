@@ -123,17 +123,6 @@ Efficiency = colonies in the whole tube ÷ mass of DNA used. If 120 colonies gro
 
 A patient has 40% of T cells carrying a working gene at 1 month and 20% at 12 months. The fall is 40 − 20 = 20 percentage points, which is (20 ÷ 40) × 100 = 50% of the earlier value. Explain with reference to treated cells being lost or replaced. Say whether the result suggests repeat treatment is needed.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-level-biology-9700-genetic-technology--02-recombinant-plasmid.webp" width="900" height="1120" alt="A plasmid of 4700 bp is cut once and a 1150 bp gene cut with the same enzyme is ligated in to give a 5850 bp recombinant plasmid. The gene arc is drawn in proportion to its size. A promoter and terminator flank the gene and an antibiotic-resistance marker gene is on the vector." loading="lazy">
-  <figcaption>A recombinant plasmid carries the gene with a working promoter and terminator, plus a marker gene.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-level-biology-9700-genetic-technology--04-three-ways-to-get-a-gene.webp" width="900" height="1070" alt="Three routes are shown. Restriction enzymes cut the gene from the genome but it keeps its introns. Reverse transcriptase copies mRNA to cDNA and DNA polymerase makes the second strand, giving a gene with no introns. A gene machine builds the gene from a known base sequence." loading="lazy">
-  <figcaption>Restriction cutting keeps introns, whereas cDNA and machine-made genes have none.</figcaption>
-</figure>
-
-
 ## Quick self-test
 
 1. State the role of DNA ligase in making recombinant DNA.
@@ -146,6 +135,22 @@ A patient has 40% of T cells carrying a working gene at 1 month and 20% at 12 mo
 8. A pharming goat gives 500 dm³ of milk a year containing 2.0 g of the human protein per dm³. How much protein is that in kg?
 9. State two differences between somatic and germ line gene therapy.
 10. Give one negative ethical argument relating to patenting of modified seed.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-genetic-technology--03-selecting-transformed-bacteria.webp" width="900" height="1010" alt="Two plates have the same colony positions. On nutrient agar 312 colonies grow; on agar with antibiotic only 41 grow, the ones that took up the plasmid with the resistance marker. 41/312 is 13.1 percent. GFP is the alternative marker, glowing under UV." loading="lazy">
+  <figcaption>Only bacteria carrying the plasmid survive on antibiotic agar, so 41 of 312 colonies (13.1%) were transformed.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-genetic-technology--06-gel-electrophoresis.webp" width="900" height="1109" alt="An agarose gel has wells at the negative end and DNA runs towards the positive electrode. Smaller fragments travel further. Linear 6000 bp DNA cut twice gives 3300, 1500 and 1200 bp bands; a 5000 bp circle cut twice gives 2300 and 2700 bp bands." loading="lazy">
+  <figcaption>Negatively charged DNA runs to the anode, with smaller fragments travelling further.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-genetic-technology--07-dna-profile-paternity.webp" width="900" height="1010" alt="Four lanes of band sizes in kb show mother, child and two men. The child has bands 6.5 and 3.5 that the mother lacks, so they come from the father. Man A has both; Man B lacks 3.5 and is excluded. Five independent loci with chances 0.1, 0.05, 0.2, 0.08 and 0.125 give a chance match of 1 in 100 000." loading="lazy">
+  <figcaption>Bands the child lacks from the mother must come from the father: Man A fits, Man B is excluded.</figcaption>
+</figure>
+
 
 ### Answers
 
@@ -161,8 +166,13 @@ A patient has 40% of T cells carrying a working gene at 1 month and 20% at 12 mo
 10. Patent holders can set high prices, so poor farmers may not afford the seed, or they become dependent on one company.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-level-biology-9700-genetic-technology--03-selecting-transformed-bacteria.webp" width="900" height="1010" alt="Two plates have the same colony positions. On nutrient agar 312 colonies grow; on agar with antibiotic only 41 grow, the ones that took up the plasmid with the resistance marker. 41/312 is 13.1 percent. GFP is the alternative marker, glowing under UV." loading="lazy">
-  <figcaption>Only bacteria carrying the plasmid survive on antibiotic agar, so 41 of 312 colonies (13.1%) were transformed.</figcaption>
+  <img src="https://img.marlbridge.com/a-level-biology-9700-genetic-technology--02-recombinant-plasmid.webp" width="900" height="1120" alt="A plasmid of 4700 bp is cut once and a 1150 bp gene cut with the same enzyme is ligated in to give a 5850 bp recombinant plasmid. The gene arc is drawn in proportion to its size. A promoter and terminator flank the gene and an antibiotic-resistance marker gene is on the vector." loading="lazy">
+  <figcaption>A recombinant plasmid carries the gene with a working promoter and terminator, plus a marker gene.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-genetic-technology--04-three-ways-to-get-a-gene.webp" width="900" height="1070" alt="Three routes are shown. Restriction enzymes cut the gene from the genome but it keeps its introns. Reverse transcriptase copies mRNA to cDNA and DNA polymerase makes the second strand, giving a gene with no introns. A gene machine builds the gene from a known base sequence." loading="lazy">
+  <figcaption>Restriction cutting keeps introns, whereas cDNA and machine-made genes have none.</figcaption>
 </figure>
 
 

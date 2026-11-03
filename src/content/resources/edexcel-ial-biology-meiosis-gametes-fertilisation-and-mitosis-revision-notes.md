@@ -63,11 +63,6 @@ Names of the stages of prophase are not required.
 Reminder: n = 4 gives 2^4 = 16 gamete types; two such parents give 16 × 16 = 256 zygote combinations before crossing over.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-level-biology-9700-the-mitotic-cell-cycle--03-mitosis-stages.webp" width="900" height="1276" alt="Six drawings of an animal cell with four chromosomes: interphase, prophase, metaphase, anaphase, telophase and cytokinesis, each with a short description. Spindle fibres, centrioles and nuclei are labelled in a key; cytokinesis shows an animal cell pinching in and a plant cell forming a cell plate." loading="lazy">
-  <figcaption>Chromosomes condense, line up, separate as chromatids, and two nuclei form before the cytoplasm divides.</figcaption>
-</figure>
-
-<figure class="topic-figure">
   <img src="https://img.marlbridge.com/a-level-biology-9700-the-mitotic-cell-cycle--05-meiosis-halves-number.webp" width="900" height="1110" alt="A parent cell with four chromosomes in two homologous pairs divides twice. Meiosis I separates the homologous pairs into two haploid cells with double chromosomes; meiosis II separates chromatids into four haploid cells with single chromosomes. DNA per cell goes 4, 2, 1 units." loading="lazy">
   <figcaption>Meiosis I halves the chromosome number; meiosis II separates chromatids.</figcaption>
 </figure>
@@ -129,6 +124,12 @@ Root tip squash in steps (typical method; follow your centre's version):
 5. View, identify stages, draw and label.
 
 Practical points: use only the tip, because cells further back are not dividing; keep acid and stain off skin; view at low power first, then increase magnification; draw only what you see, with clear lines and labels, and note the stage of each cell.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-the-mitotic-cell-cycle--03-mitosis-stages.webp" width="900" height="1276" alt="Six drawings of an animal cell with four chromosomes: interphase, prophase, metaphase, anaphase, telophase and cytokinesis, each with a short description. Spindle fibres, centrioles and nuclei are labelled in a key; cytokinesis shows an animal cell pinching in and a plant cell forming a cell plate." loading="lazy">
+  <figcaption>Chromosomes condense, line up, separate as chromatids, and two nuclei form before the cytoplasm divides.</figcaption>
+</figure>
+
 
 ## 3.16 Mitotic index: method
 

@@ -163,6 +163,11 @@ Ammonia complexes: observations only. In a full anion sequence (3.1.4) test for 
 **Molar masses for halide calculations** (Ar: Ag 107.9, Cl 35.5, Br 79.9, I 126.9): AgCl 143.4, AgBr 187.8, AgI 234.8.
 
 <figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-group-2-the-alkaline-earth-metals--04-sulfate-test.webp" width="900" height="950" alt="Three test tubes show dilute HCl removing carbonate as CO2, then BaCl2 solution added, then a white precipitate of BaSO4. An ion picture shows Ba2+ and SO4 2- joining, with a warning not to acidify with sulfuric acid." loading="lazy">
+  <figcaption>Acidify with dilute HCl or HNO3, then add BaCl2: a white precipitate shows sulfate ions.</figcaption>
+</figure>
+
+<figure class="topic-figure">
   <img src="https://img.marlbridge.com/aqa-a-level-chemistry-group-2-the-alkaline-earth-metals--09-silver-nitrate-test.webp" width="900" height="920" alt="A grid of tubes for Cl-, Br- and I- shows precipitate colours with acidified silver nitrate and their solubility in dilute and concentrated ammonia. AgCl dissolves in dilute ammonia, AgBr only in concentrated, AgI in neither." loading="lazy">
   <figcaption>Acidified AgNO3 gives white, cream and yellow precipitates; solubility in ammonia confirms which halide.</figcaption>
 </figure>
@@ -226,8 +231,8 @@ Divide the mass by the Mr of the whole silver halide, then by the volume in dm³
 12. Ozone or ultraviolet light.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-group-2-the-alkaline-earth-metals--04-sulfate-test.webp" width="900" height="950" alt="Three test tubes show dilute HCl removing carbonate as CO2, then BaCl2 solution added, then a white precipitate of BaSO4. An ion picture shows Ba2+ and SO4 2- joining, with a warning not to acidify with sulfuric acid." loading="lazy">
-  <figcaption>Acidify with dilute HCl or HNO3, then add BaCl2: a white precipitate shows sulfate ions.</figcaption>
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-group-2-the-alkaline-earth-metals--08-halides-sulfuric-acid.webp" width="900" height="1075" alt="Tubes of NaCl, NaBr and NaI with concentrated sulfuric acid, beside a scale of sulfur oxidation number. Chloride leaves sulfur at +6, bromide reduces it to +4 (SO2), iodide reduces it to +4, 0 and minus 2 (SO2, S, H2S)." loading="lazy">
+  <figcaption>Larger halide ions are stronger reducing agents, so they reduce sulfuric acid further.</figcaption>
 </figure>
 
 

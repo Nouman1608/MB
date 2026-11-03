@@ -50,12 +50,6 @@ Supplement content of its own within 2.1 — the cell-structure outcomes
 are examined identically for Core and Extended candidates, with the
 tier distinction only appearing in the unit-conversion skill in 2.2.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-biology-organisation-of-the-organism--06-levels-of-organisation.webp" width="900" height="1117" alt="Five stacked levels with an arrow down each step: cell (basic unit of structure and function), tissue (group of similar cells with a shared function), organ (several tissues working together), organ system (organs with related functions working together) and organism (an individual living thing carrying out all life processes). The running example is heart muscle in a human. A bacterium is an organism made of one cell." loading="lazy">
-  <figcaption>Each level of organisation is built from the one before.</figcaption>
-</figure>
-
-
 ## Syllabus coverage
 
 **CAMBRIDGE IGCSE BIOLOGY 0610 — TOPIC 2 ORGANISATION OF THE ORGANISM**
@@ -116,6 +110,11 @@ lose marks that a slightly more careful revision pass would have kept.
   <figcaption>Compare the three cell types structure by structure.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-organisation-of-the-organism--06-levels-of-organisation.webp" width="900" height="1117" alt="Five stacked levels with an arrow down each step: cell (basic unit of structure and function), tissue (group of similar cells with a shared function), organ (several tissues working together), organ system (organs with related functions working together) and organism (an individual living thing carrying out all life processes). The running example is heart muscle in a human. A bacterium is an organism made of one cell." loading="lazy">
+  <figcaption>Each level of organisation is built from the one before.</figcaption>
+</figure>
+
 
 ## How to approach it
 
@@ -165,6 +164,11 @@ recall them.
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/igcse-biology-organisation-of-the-organism--05-specialised-cells.webp" width="900" height="1190" alt="Six schematic cells with the syllabus function of each: ciliated cell (movement of mucus in trachea and bronchi), root hair cell (absorption), palisade mesophyll cell (photosynthesis), neurone (conduction of electrical impulses), red blood cell (transport of oxygen, no nucleus) and sperm and egg cells (reproduction)." loading="lazy">
   <figcaption>Each specialised cell has a shape and structures that suit its job.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-organisation-of-the-organism--07-magnification.webp" width="900" height="1200" alt="A tiny real cell of 0.02 mm is magnified to a 60 mm image measured on a ruler. Magnification equals image size divided by actual size, 60 mm divided by 0.02 mm, which is times 3000. Both sizes must be in the same units. Extended: 1 mm equals 1000 micrometres, so 0.02 mm is 20 micrometres." loading="lazy">
+  <figcaption>Magnification is image size divided by actual size, using the same units.</figcaption>
 </figure>
 
 

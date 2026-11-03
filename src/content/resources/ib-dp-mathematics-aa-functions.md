@@ -59,12 +59,6 @@ and Approaches expects fluency in both routes
 exponential, logarithmic, and rational functions, each with a
 recognisable graph shape and characteristic transformations
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ib-dp-mathematics-aa-functions--01-domain-and-range.webp" width="900" height="810" alt="Graph of f(x) = square root of (x + 2) between x = -2 and x = 7. The allowed inputs, the domain, are marked on the x-axis from -2 to 7, and the outputs, the range, on the y-axis from 0 to 3. Dashed lines from the end point (7, 3) show where the range ends." loading="lazy">
-  <figcaption>The domain is the set of inputs, the range the set of outputs, shown here for f(x) = √(x + 2).</figcaption>
-</figure>
-
-
 ## Transformations at a glance
 
 | Transformation | Effect on $y = f(x)$ |
@@ -186,3 +180,9 @@ guide](/resources/ib-dp-mathematics-analysis-and-approaches-syllabus-guide/)
 and the
 [revision notes](/resources/ib-dp-mathematics-aa-functions-revision-notes/)
 already on the site. Verified 2026-09-06.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-aa-functions--01-domain-and-range.webp" width="900" height="810" alt="Graph of f(x) = square root of (x + 2) between x = -2 and x = 7. The allowed inputs, the domain, are marked on the x-axis from -2 to 7, and the outputs, the range, on the y-axis from 0 to 3. Dashed lines from the end point (7, 3) show where the range ends." loading="lazy">
+  <figcaption>The domain is the set of inputs, the range the set of outputs, shown here for f(x) = √(x + 2).</figcaption>
+</figure>
+

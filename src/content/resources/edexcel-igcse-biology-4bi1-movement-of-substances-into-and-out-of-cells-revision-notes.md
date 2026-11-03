@@ -106,27 +106,6 @@ Reminders, checked:
 
 Smaller objects have larger ratios. As an object grows, volume rises faster than surface area.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/edexcel-igcse-biology-4bi1-movement-of-substances-into-and-out-of-cells--06-sav-cubes.webp" width="900" height="990" alt="A 1 cm cube has surface area 6 cm2, volume 1 cm3 and ratio 6 : 1. A 3 cm cube has surface area 54 cm2, volume 27 cm3 and ratio 2 : 1: 27 times the volume but only 9 times the surface area." loading="lazy">
-  <figcaption>As a cube gets bigger its surface area to volume ratio falls.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/edexcel-igcse-biology-4bi1-movement-of-substances-into-and-out-of-cells--07-agar-penetration.webp" width="900" height="1050" alt="Centre slices of 2 cm and 4 cm agar cubes with acid 0.5 cm in from every face. The 2 cm cube has a 1 cm core, 87.5 percent changed (ratio 3 : 1). The 4 cm cube has a 3 cm core, 57.8 percent changed (ratio 1.5 : 1)." loading="lazy">
-  <figcaption>The same distance in reaches a smaller fraction of a bigger cube.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-biology-movement-into-and-out-of-cells--01-diffusion.webp" width="900" height="1010" alt="Two stages in a container. At the start 18 particles are crowded on the left (high concentration) with the right empty (low). Small arrows show random movement and a large arrow shows net movement from high to low concentration. Later the 18 particles are spread evenly, 9 each side, still moving but with no net movement." loading="lazy">
-  <figcaption>Particles move randomly, so there is a net movement from high to low concentration until they are evenly spread.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-biology-movement-into-and-out-of-cells--02-diffusion-factors.webp" width="900" height="1130" alt="Four paired pictures. Larger surface area: one block versus the same amount cut into four pieces. Higher temperature: short versus long movement arrows. Steeper concentration gradient: small versus big difference between two sides. Shorter distance: thick versus thin layer to cross." loading="lazy">
-  <figcaption>Diffusion is faster with more surface area, higher temperature, a steeper gradient and a shorter distance.</figcaption>
-</figure>
-
-
 ## 2.17 Practical checklist
 
 You need one **non-living** and one **living** system for diffusion and osmosis.
@@ -139,6 +118,12 @@ You need one **non-living** and one **living** system for diffusion and osmosis.
 **Living**
 
 - Potato (or other plant tissue) cylinders in a range of sucrose solutions.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-biology-4bi1-movement-of-substances-into-and-out-of-cells--02-visking-glucose-starch.webp" width="900" height="840" alt="A tied bag of Visking tubing holds starch and glucose in a beaker of water. Small glucose molecules pass out through the tubing; large starch molecules cannot." loading="lazy">
+  <figcaption>Glucose diffuses out of Visking tubing but starch stays inside.</figcaption>
+</figure>
+
 
 ### Method in steps: potato cylinders
 
@@ -169,6 +154,12 @@ Reminders, checked:
 
 **Improvements:** repeats and a mean; more concentrations near the crossing point; consistent blotting.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-biology-4bi1-movement-of-substances-into-and-out-of-cells--08-potato-sucrose-graph.webp" width="900" height="1070" alt="Percentage change in mass of potato cylinders against sucrose concentration: +15.0, +8.0, -1.8, -10.0 and -14.0 percent at 0.0 to 0.8 mol/dm3. The line crosses zero at about 0.36 mol/dm3, where there is no net water movement, estimating the concentration of the cell contents." loading="lazy">
+  <figcaption>The line crosses zero at about 0.36 mol/dm3.</figcaption>
+</figure>
+
+
 ### Method in steps: explaining an osmosis result
 
 Most "explain" marks on this practical come from a chain of three linked points. Write all three.
@@ -182,32 +173,6 @@ Most "explain" marks on this practical come from a chain of three linked points.
 ```
 
 For a plant cell that lost water, add the state: flaccid, or plasmolysed if the membrane pulled away from the wall. For no change in mass, say the concentrations were equal, so there was no net movement of water.
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/edexcel-igcse-biology-4bi1-movement-of-substances-into-and-out-of-cells--08-potato-sucrose-graph.webp" width="900" height="1070" alt="Percentage change in mass of potato cylinders against sucrose concentration: +15.0, +8.0, -1.8, -10.0 and -14.0 percent at 0.0 to 0.8 mol/dm3. The line crosses zero at about 0.36 mol/dm3, where there is no net water movement, estimating the concentration of the cell contents." loading="lazy">
-  <figcaption>The line crosses zero at about 0.36 mol/dm3.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/edexcel-igcse-biology-4bi1-movement-of-substances-into-and-out-of-cells--01-rbc-three-solutions.webp" width="900" height="1043" alt="A red blood cell is shown in a solution more dilute than its contents, the same concentration, and more concentrated. Water enters and the cell swells and may burst in the dilute solution, there is no net movement in the equal solution, and water leaves so the cell shrivels in the concentrated solution." loading="lazy">
-  <figcaption>A red blood cell swells, stays the same or shrivels depending on the solution around it.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/edexcel-igcse-biology-4bi1-movement-of-substances-into-and-out-of-cells--02-visking-glucose-starch.webp" width="900" height="840" alt="A tied bag of Visking tubing holds starch and glucose in a beaker of water. Small glucose molecules pass out through the tubing; large starch molecules cannot." loading="lazy">
-  <figcaption>Glucose diffuses out of Visking tubing but starch stays inside.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-biology-movement-into-and-out-of-cells--03-osmosis.webp" width="900" height="960" alt="A container split by a membrane with small gaps. Dilute solution (many water molecules, 3 solute particles) on the left, concentrated solution (fewer water molecules, 11 solute particles) on the right. Solute is too big to pass; arrows show water moving to the concentrated side. An Extended card gives the water potential wording: higher on the dilute side, lower on the concentrated side." loading="lazy">
-  <figcaption>Water moves through the membrane from the dilute to the concentrated solution; solute particles cannot pass.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-biology-movement-into-and-out-of-cells--04-plant-cell-osmosis.webp" width="900" height="1190" alt="Three plant cells. Turgid: in a dilute solution water moves in, the vacuole is large and turgor pressure pushes on the cell wall so the cell is firm. Flaccid: no net water movement, the cell is limp. Plasmolysed: in a concentrated solution water moves out and the cytoplasm and membrane pull away from the wall. The terms are Extended." loading="lazy">
-  <figcaption>A turgid cell is firm because water pressure pushes on the wall; in a concentrated solution the cell loses water and is plasmolysed.</figcaption>
-</figure>
-
 
 ## Quick self-test
 
@@ -224,6 +189,27 @@ For a plant cell that lost water, add the state: flaccid, or plasmolysed if the 
 11. Calculate the surface area to volume ratio of a cuboid 1 cm × 1 cm × 3 cm, to 2 significant figures.
 12. Visking tubing containing sucrose solution is placed in water. State and explain what happens to its mass.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-biology-4bi1-movement-of-substances-into-and-out-of-cells--01-rbc-three-solutions.webp" width="900" height="1043" alt="A red blood cell is shown in a solution more dilute than its contents, the same concentration, and more concentrated. Water enters and the cell swells and may burst in the dilute solution, there is no net movement in the equal solution, and water leaves so the cell shrivels in the concentrated solution." loading="lazy">
+  <figcaption>A red blood cell swells, stays the same or shrivels depending on the solution around it.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-movement-into-and-out-of-cells--03-osmosis.webp" width="900" height="960" alt="A container split by a membrane with small gaps. Dilute solution (many water molecules, 3 solute particles) on the left, concentrated solution (fewer water molecules, 11 solute particles) on the right. Solute is too big to pass; arrows show water moving to the concentrated side. An Extended card gives the water potential wording: higher on the dilute side, lower on the concentrated side." loading="lazy">
+  <figcaption>Water moves through the membrane from the dilute to the concentrated solution; solute particles cannot pass.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-movement-into-and-out-of-cells--04-plant-cell-osmosis.webp" width="900" height="1190" alt="Three plant cells. Turgid: in a dilute solution water moves in, the vacuole is large and turgor pressure pushes on the cell wall so the cell is firm. Flaccid: no net water movement, the cell is limp. Plasmolysed: in a concentrated solution water moves out and the cytoplasm and membrane pull away from the wall. The terms are Extended." loading="lazy">
+  <figcaption>A turgid cell is firm because water pressure pushes on the wall; in a concentrated solution the cell loses water and is plasmolysed.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-movement-into-and-out-of-cells--05-dialysis-tubing.webp" width="900" height="960" alt="A bag of dialysis tubing holding strong solution hangs in a beaker of water. At the start the bag is small. Later it has swollen because water entered by osmosis, while the same solute particles stay inside. Measuring its mass before and after shows the change." loading="lazy">
+  <figcaption>Water enters the tubing bag by osmosis, so it swells and gains mass.</figcaption>
+</figure>
+
+
 ### Answers
 
 1. Net movement of particles from a region of higher concentration to a region of lower concentration.
@@ -238,6 +224,27 @@ For a plant cell that lost water, add the state: flaccid, or plasmolysed if the 
 10. Percentage change in mass.
 11. Surface area = 2(1 + 3 + 3) = 14 cm²; volume = 3 cm³; ratio = **4.7 : 1**.
 12. It increases: water moves into the tubing by osmosis from the dilute water to the concentrated sucrose solution; sucrose molecules are too large to leave.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-biology-4bi1-movement-of-substances-into-and-out-of-cells--06-sav-cubes.webp" width="900" height="990" alt="A 1 cm cube has surface area 6 cm2, volume 1 cm3 and ratio 6 : 1. A 3 cm cube has surface area 54 cm2, volume 27 cm3 and ratio 2 : 1: 27 times the volume but only 9 times the surface area." loading="lazy">
+  <figcaption>As a cube gets bigger its surface area to volume ratio falls.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-biology-4bi1-movement-of-substances-into-and-out-of-cells--07-agar-penetration.webp" width="900" height="1050" alt="Centre slices of 2 cm and 4 cm agar cubes with acid 0.5 cm in from every face. The 2 cm cube has a 1 cm core, 87.5 percent changed (ratio 3 : 1). The 4 cm cube has a 3 cm core, 57.8 percent changed (ratio 1.5 : 1)." loading="lazy">
+  <figcaption>The same distance in reaches a smaller fraction of a bigger cube.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-movement-into-and-out-of-cells--01-diffusion.webp" width="900" height="1010" alt="Two stages in a container. At the start 18 particles are crowded on the left (high concentration) with the right empty (low). Small arrows show random movement and a large arrow shows net movement from high to low concentration. Later the 18 particles are spread evenly, 9 each side, still moving but with no net movement." loading="lazy">
+  <figcaption>Particles move randomly, so there is a net movement from high to low concentration until they are evenly spread.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-movement-into-and-out-of-cells--02-diffusion-factors.webp" width="900" height="1130" alt="Four paired pictures. Larger surface area: one block versus the same amount cut into four pieces. Higher temperature: short versus long movement arrows. Steeper concentration gradient: small versus big difference between two sides. Shorter distance: thick versus thin layer to cross." loading="lazy">
+  <figcaption>Diffusion is faster with more surface area, higher temperature, a steeper gradient and a shorter distance.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

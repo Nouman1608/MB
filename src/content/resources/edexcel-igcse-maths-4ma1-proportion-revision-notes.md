@@ -102,6 +102,11 @@ Pick a point where both coordinates can be read exactly, ideally one marked on t
   <figcaption>Find k from one point, then read the graph either way.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/sequences-and-proportion--05-inverse-constant-product.webp" width="900" height="940" alt="Graph of y = 24 over x with points (4, 6) and (8, 3). The rectangles from the origin to each point both have area 24, because x times y is always k. When x doubles, y halves." loading="lazy">
+  <figcaption>In inverse proportion x times y stays constant, so doubling x halves y.</figcaption>
+</figure>
+
 
 ### Worked reminder: no k needed
 
@@ -118,6 +123,11 @@ Finding k (k = 60, y = 60/12 = 5) gives the same answer. Use whichever you are l
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/edexcel-igcse-maths-4ma1-proportion--08-four-step-method.webp" width="900" height="850" alt="Four numbered boxes using E proportional to v squared with E = 36 when v = 3: write with k, substitute, solve for k and rewrite as E = 4v squared, then use the formula to find E = 100 when v = 5." loading="lazy">
   <figcaption>The four steps worked through one example.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/sequences-and-proportion--04-direct-square.webp" width="900" height="910" alt="Graph of y = 5x squared. The given point (3, 45) gives k = 5, and then at x = 5 the graph gives y = 125." loading="lazy">
+  <figcaption>Use the given pair to find k, then use k to find the unknown value.</figcaption>
 </figure>
 
 
@@ -193,17 +203,6 @@ Straight-line test: y ∝ x² gives a straight line through the origin if you pl
 - **A straight line not through the origin** (such as y = 3x + 2) is a linear relationship but **not** direct proportion.
 - **k is a constant**: if your value of k changes between two pairs of data, the relationship is not the one you assumed.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/edexcel-igcse-maths-4ma1-proportion--02-prop-table-test.webp" width="900" height="910" alt="The table x = 2, 4, 5, 8 and y = 40, 20, 16, 10 with three check rows: y/x, xy and x squared times y, with bars scaled to each row. Only xy stays at 80, so y = 80/x and y = 2.5 when x = 32." loading="lazy">
-  <figcaption>Work out the quantity that should stay constant; the row that does not change shows the relationship.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-mathematics-0580-proportion--06-pumps-inverse.webp" width="900" height="1000" alt="The graph of t = 72 over n for pumps and hours. Rectangles to (4, 18), (6, 12) and (9, 8) all have area 72 because t times n is constant. 6 pumps take 12 hours and 9 pumps take 8 hours." loading="lazy">
-  <figcaption>In inverse proportion the product t × n stays the same.</figcaption>
-</figure>
-
-
 ## Quick self-test
 
 1. y is directly proportional to x. y = 14 when x = 4. Find y when x = 10.
@@ -233,6 +232,17 @@ Straight-line test: y ∝ x² gives a straight line through the origin if you pl
 10. **y ∝ x** only.
 11. 1.1³ = 1.331, so a **33.1%** increase.
 12. y/x² = 4 every time, so **y = 4x²**.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-maths-4ma1-proportion--02-prop-table-test.webp" width="900" height="910" alt="The table x = 2, 4, 5, 8 and y = 40, 20, 16, 10 with three check rows: y/x, xy and x squared times y, with bars scaled to each row. Only xy stays at 80, so y = 80/x and y = 2.5 when x = 32." loading="lazy">
+  <figcaption>Work out the quantity that should stay constant; the row that does not change shows the relationship.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-proportion--06-pumps-inverse.webp" width="900" height="1000" alt="The graph of t = 72 over n for pumps and hours. Rectangles to (4, 18), (6, 12) and (9, 8) all have area 72 because t times n is constant. 6 pumps take 12 hours and 9 pumps take 8 hours." loading="lazy">
+  <figcaption>In inverse proportion the product t × n stays the same.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

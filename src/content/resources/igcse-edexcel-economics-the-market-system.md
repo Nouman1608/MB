@@ -90,6 +90,12 @@ across the topic — where the free market succeeds on its own, and
 where government intervention is needed to address the specific
 failures identified in 1.1.6.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-how-markets-work--05-product-and-factor-markets.webp" width="900" height="880" alt="A loop diagram: in the product market firms supply goods and services to households and households pay money. In the factor market households supply labour, land and capital and receive wages, rent, interest and profit." loading="lazy">
+  <figcaption>Households and firms meet in two markets: one for products and one for factors of production.</figcaption>
+</figure>
+
+
 ## Elasticity — the concept behind the calculation
 
 Price elasticity of demand measures how responsive quantity demanded is to a change in price:

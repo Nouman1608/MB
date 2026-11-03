@@ -115,6 +115,12 @@ Procedure checklist:
 
 Worked reminder: a search coil with 200 turns and area 2.5 × 10⁻⁴ m² gives a peak e.m.f. of 25 mV at 100 Hz. ω = 628 rad s⁻¹, so B₀ = 0.025/(200 × 2.5 × 10⁻⁴ × 628) = 8.0 × 10⁻⁴ T.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-alternating-currents--01-fields-due-to-currents.webp" width="900" height="1210" alt="Three panels show field lines of a long straight wire (circles, with B falling as 1/r), a flat circular coil and a long solenoid. The wire panel has a 1/r graph; the coil and solenoid lines are computed with the Biot-Savart law. The solenoid has a uniform field inside and a bar-magnet pattern outside." loading="lazy">
+  <figcaption>Field lines of a straight wire, a flat coil and a solenoid, with B falling as 1/r away from the wire.</figcaption>
+</figure>
+
+
 ## 6.3.3(e) The a.c. generator
 
 Parts and their jobs:

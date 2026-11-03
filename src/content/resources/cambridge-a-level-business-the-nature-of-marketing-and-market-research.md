@@ -181,6 +181,12 @@ Market research is the collection and analysis of information about a market. It
 
 Usefulness: primary data can answer a precise question (would this recipe sell at this price?) and give detailed qualitative reasons. Secondary data is useful for market size and trends and for planning primary research.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-marketing--03-market-research.webp" width="900" height="1262" alt="Primary research (postal questionnaire, online survey, interview, focus group) is collected by you: costlier and slower but fits your question. Secondary research (online sources, government statistics, paid reports) already exists: cheaper and quicker but not made for you. A sample of a few people stands for the whole target market." loading="lazy">
+  <figcaption>Primary research is collected first-hand, secondary research already exists, and a sample stands for the whole market.</figcaption>
+</figure>
+
+
 ## 3.2.3 Sampling
 
 A **sample** is a smaller group chosen from the target population. It is needed because questioning everyone would cost too much and take too long, and sometimes testing destroys the product. **Limitations**: a sample may not represent the population, giving biased results; a small sample gives less reliable findings; some people refuse or answer carelessly; and a larger, better sample costs more. The syllabus names no sampling methods, so concentrate on the need and the limitations.

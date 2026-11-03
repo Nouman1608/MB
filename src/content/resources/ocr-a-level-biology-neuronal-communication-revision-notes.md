@@ -200,12 +200,6 @@ Spatial summation uses many presynaptic neurones at once. Temporal summation use
 
 Synaptic delay is separate. Each synapse adds a delay because diffusion of the transmitter takes time. Pathways with fewer synapses respond faster.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-level-biology-9700-control-and-coordination--02-saltatory-conduction.webp" width="900" height="1080" alt="Two axons are compared. In the non-myelinated axon every patch of membrane depolarises in turn, with local current flowing to the next patch. In the myelinated axon, Schwann cell myelin insulates the axon so the local current runs from node of Ranvier to node and the impulse jumps between nodes. In the lesson example the myelinated axon conducts at 70 m/s and the non-myelinated at 2.0 m/s, 35 times slower." loading="lazy">
-  <figcaption>Myelin makes the action potential jump from node to node, so conduction is much faster.</figcaption>
-</figure>
-
-
 ## Quick self-test
 
 1. Name the type of energy a Pacinian corpuscle converts, and the type it produces.
@@ -231,6 +225,12 @@ Synaptic delay is separate. Each synapse adds a delay because diffusion of the t
 8. (80 − 50) / 50 × 100 = 60%.
 9. Acetylcholinesterase. It hydrolyses acetylcholine into choline and ethanoic acid, so the receptors are cleared.
 10. It hyperpolarises the postsynaptic membrane, for example by opening chloride channels, so more depolarisation is needed to reach threshold.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-control-and-coordination--02-saltatory-conduction.webp" width="900" height="1080" alt="Two axons are compared. In the non-myelinated axon every patch of membrane depolarises in turn, with local current flowing to the next patch. In the myelinated axon, Schwann cell myelin insulates the axon so the local current runs from node of Ranvier to node and the impulse jumps between nodes. In the lesson example the myelinated axon conducts at 70 m/s and the non-myelinated at 2.0 m/s, 35 times slower." loading="lazy">
+  <figcaption>Myelin makes the action potential jump from node to node, so conduction is much faster.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

@@ -170,6 +170,12 @@ N_A is 6.02 × 10²³ mol⁻¹ in the calculations on this page. In an exam ques
 11. Measured rate = source rate + background. The ln of a sum is not the sum of the ln values, so with background left in the points curve and the gradient is not −λ.
 12. Taking ln of A = A₀e^(−λt) gives ln A = ln A₀ − λt, which is of the form y = mx + c.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-nuclear-physics--02-aphy-nuclear-decay-modes.webp" width="900" height="990" alt="Graph of neutron number against proton number with a narrow band of stable nuclei above the N = Z line. Neutron-rich nuclei above the band decay by beta-minus (Z+1, N-1), proton-rich nuclei below it by beta-plus or electron capture (Z-1, N+1), and very heavy nuclei by alpha (Z-2, N-2)." loading="lazy">
+  <figcaption>The position of a nucleus relative to the stable band decides its decay mode.</figcaption>
+</figure>
+
+
 ## Where marks are usually lost
 
 - Using the exponential law with λ in one time unit and t in another.

@@ -184,12 +184,6 @@ Use this chain whenever a question asks about the significance of interdependenc
 
 **Evaluation points:** depends on how much profit is reinvested, how strong rivalry is, how long barriers last and how active regulators are. Always end with a supported judgement.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/aqa-a-level-economics-oligopoly-interdependence-collusion-and-the-kinked--04-olig-evaluation-chain.webp" width="900" height="960" alt="Barriers to entry lead to supernormal profit, which funds research and a new product. That benefit is set against the cost of higher prices. Which is bigger depends on how much is reinvested, how strong rivalry is, the regulator's attitude and the time period, and a good answer reaches a judgement." loading="lazy">
-  <figcaption>Evaluate by weighing better products against higher prices and then judging.</figcaption>
-</figure>
-
-
 ## Quick self-test
 
 1. Shares of 40%, 25%, 15%, 12% and 8%: what is the three-firm concentration ratio?
@@ -215,6 +209,12 @@ Use this chain whenever a question asks about the significance of interdependenc
 8. Any two: incentive to cheat, falling demand, entry, different costs, detection and fines.
 9. 12 / 240 = 5%.
 10. Barometric: a respected, not necessarily largest, firm moves first because it reads conditions. Dominant: the largest, often lowest-cost, firm sets price.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-oligopoly-interdependence-collusion-and-the-kinked--04-olig-evaluation-chain.webp" width="900" height="960" alt="Barriers to entry lead to supernormal profit, which funds research and a new product. That benefit is set against the cost of higher prices. Which is bigger depends on how much is reinvested, how strong rivalry is, the regulator's attitude and the time period, and a good answer reaches a judgement." loading="lazy">
+  <figcaption>Evaluate by weighing better products against higher prices and then judging.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

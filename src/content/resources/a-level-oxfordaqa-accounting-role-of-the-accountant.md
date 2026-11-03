@@ -154,6 +154,11 @@ Charging the full $50,000 as an expense would breach the accruals concept, becau
   <figcaption>Both methods write off the same total but reducing balance charges more early.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-edexcel-accounting-principles-and-double-entry-bookkeeping--09-prepaid-rent.webp" width="900" height="940" alt="Twelve monthly boxes show 12,000 pounds of rent paid on 1 October with a 31 December year end. Three months (3,000) are an expense in the income statement; nine months (9,000) are a prepayment shown as a current asset." loading="lazy">
+  <figcaption>Only the part of rent used in the year is an expense; the rest is a prepayment.</figcaption>
+</figure>
+
 
 ## Common mistakes
 

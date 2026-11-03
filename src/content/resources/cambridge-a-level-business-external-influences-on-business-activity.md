@@ -118,6 +118,11 @@ The key macroeconomic objectives named in the syllabus are low unemployment, low
   <figcaption>The four policy types and how each reaches businesses.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-business-business-in-the-real-world--09-external-factors-retailer.webp" width="900" height="980" alt="Two cause-and-effect chains. A rise in interest rates leaves households with less to spend, so clothing demand falls, and raises the retailer’s interest costs, squeezing profit and delaying stores: two costs. A fall in the exchange rate makes imported stock dearer, a cost, but makes exports cheaper abroad, a benefit." loading="lazy">
+  <figcaption>External factors usually bring a cost and often a partly offsetting benefit.</figcaption>
+</figure>
+
 
 ### Worked example: interest rates
 
@@ -139,6 +144,11 @@ Analysis: the extra cost cuts profit unless prices rise, and higher rates may re
   <figcaption>A higher interest rate raises the cost of a variable-rate loan.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-business-influences-on-business--05-interest-rates.webp" width="900" height="950" alt="Rates rise from 4% to 6%. Direct effect: interest on a 100,000 pound loan rises from 4,000 to 6,000 pounds a year. Indirect effect: customers' loans cost more, they have less to spend and demand may fall. Together this is double pressure on profit." loading="lazy">
+  <figcaption>A rate rise hits a business directly through its loan and indirectly through its customers' spending.</figcaption>
+</figure>
+
 
 ### Worked example: exchange rate
 
@@ -152,6 +162,21 @@ Revenue per bicycle falls by 11.1% and profit by 55.6%. Norvane could raise its 
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/cambridge-a-level-business-external-influences-on-business-activity--12-ex-exchange-rate-exporter.webp" width="900" height="806" alt="Two stacked bars of the sterling price of a bicycle priced at 540 euros with a cost of 360 pounds. At 1.20 euros per pound the price is 450 pounds and the margin 90, so 2,000 bikes give 180,000 pounds profit. After the pound strengthens to 1.35 the price is 400, the margin 40 and profit 80,000. Revenue per bike falls 11.1 percent and profit 55.6 percent." loading="lazy">
   <figcaption>A stronger pound cuts the sterling price and margin per bike, so profit falls much faster than price.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-business-business-and-its-environment--07-exchange-export-price.webp" width="900" height="960" alt="The pound rises from 1.15 to 1.25 euro. Keeping the 12 pound price lifts the euro price from 13.80 to 15.00 (8.7 percent); holding the euro price cuts income to 11.04 pounds a jar (8 percent less)." loading="lazy">
+  <figcaption>A stronger pound makes exports dearer or less profitable.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-business-influences-on-business--06-exchange-rates.webp" width="900" height="970" alt="The pound weakens from 1.50 to 1.25 dollars. A 100 pound export costs the US buyer 150 then 125 dollars (cheaper, helps the exporter). A 100 dollar import costs the UK buyer 66.67 then 80.00 pounds (dearer, hurts the importer). If the pound strengthens, the effects reverse." loading="lazy">
+  <figcaption>A weaker home currency helps exporters and hurts importers; a stronger one reverses this.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-business-business-and-its-environment--06-exchange-import-cost.webp" width="900" height="960" alt="The pound falls from 200 to 180 yen, so a 36,000 yen motor rises from 180 to 200 pounds (11.1 percent), and an order of 4,000 motors costs 80,000 pounds more." loading="lazy">
+  <figcaption>A weaker pound makes imported inputs dearer.</figcaption>
 </figure>
 
 
@@ -179,6 +204,12 @@ CSR means a business accepting duties to society beyond its legal and profit dut
 
 Impact: CSR can improve reputation, loyalty and recruitment, but costs money and may raise prices. Issues arise when a claim is empty marketing, or when lower-standard rivals undercut you.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-business-influences-on-business--07-law-or-ethics.webp" width="900" height="860" alt="Three bands: ethics (a choice: charitable giving, fair prices to suppliers, religious observance) above a line marking the legal minimum; law (a requirement: safe workplace, national minimum wage, consumer protection); and breaking the law, which brings consequences of non-compliance." loading="lazy">
+  <figcaption>Law is what a business must do; ethics is what it chooses to do beyond that.</figcaption>
+</figure>
+
+
 ### The community and pressure groups
 
 A business needs the community's goodwill: its labour, its customers, and its permission to expand. Pressure groups campaign on issues such as pollution, labour practices or product safety. They can change customer attitudes through publicity and boycotts, and influence law. A small local firm may react quickly to a petition; a global brand may face coordinated campaigns.
@@ -194,6 +225,11 @@ Worked example: a town has 50,000 people, of whom 16% are over 65, so 8,000. Ten
   <figcaption>An ageing population grows some markets and shrinks others.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-business-business-and-its-environment--03-pestle-opportunity-threat.webp" width="900" height="1010" alt="The six PESTLE factors, then one social change (an ageing population) shown as an opportunity for Ivybrook Care and a threat for Rushbank Couriers." loading="lazy">
+  <figcaption>One external change can be an opportunity for one firm and a threat for another.</figcaption>
+</figure>
+
 
 ## 6.1.4 Technological
 
@@ -202,6 +238,12 @@ Technological change affects decisions about products, production and marketing.
 ## 6.1.5 Competitors and suppliers
 
 Competitors affect pricing, product features, promotion and entry decisions. Many close rivals mean pressure on price and a need to differentiate. New entrants or a rival's innovation can force a response. Suppliers affect cost, quality and reliability. A single supplier of a key input holds power over price and delivery. A business can reduce dependence by using several suppliers, signing longer contracts or integrating backwards.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-business-influences-on-business--08-competition.webp" width="900" height="860" alt="Three columns: no rivals (one shop, little pressure to improve), a few rivals (three shops, some pressure on price) and many rivals (six shops, strong pressure on price and quality), shown with one, two and three filled bars." loading="lazy">
+  <figcaption>The more rivals a business has, the more pressure it faces to compete.</figcaption>
+</figure>
+
 
 ## 6.1.6 International
 
@@ -248,6 +290,11 @@ Sustainability means meeting present needs without harming the ability of the fu
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/cambridge-a-level-business-external-influences-on-business-activity--13-ex-waste-per-unit.webp" width="900" height="720" alt="Waste per unit falls from 0.60 kg (54,000 kg over 90,000 units) to 0.36 kg (39,600 kg over 110,000 units), a fall of 40 percent." loading="lazy">
   <figcaption>An environmental audit can show waste per unit falling even as output rises.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-business-influences-on-business--04-green-considerations.webp" width="900" height="970" alt="Environmental impacts shown as a car, recycling arrows, a bin and a smoking factory; sustainability shown as a thermometer and a tree stump. A banner says each is a trade-off with profit." loading="lazy">
+  <figcaption>Environmental impacts and sustainability both involve weighing costs now against benefits later.</figcaption>
 </figure>
 
 

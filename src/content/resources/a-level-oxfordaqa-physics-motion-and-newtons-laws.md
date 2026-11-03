@@ -143,12 +143,6 @@ This pattern — use Newton's second law to find acceleration, then feed
 it into the appropriate SUVAT equation — is one of the most frequently
 tested calculation sequences in this pair of sub-topics.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-level-oxfordaqa-physics-motion-and-newtons-laws--02-third-law-pairs.webp" width="900" height="1090" alt="Two third-law pairs for a book on a table: Earth pulls book with book pulls Earth, and table pushes book with book pushes table. A pair is the same kind of force, equal and opposite, on different bodies. Weight and the normal force both act on the book, so they are not a pair." loading="lazy">
-  <figcaption>Third-law pairs act on different bodies; weight and the normal contact force act on one body and are not a pair.</figcaption>
-</figure>
-
-
 ## Key terms to define precisely
 
 **Displacement** — the distance an object has moved in a specified
@@ -167,6 +161,12 @@ pair acts on two separate objects — rather than being two forces
 balancing on the same object, which is instead an application of the
 first law — is one of the most commonly tested points of confusion in
 this content.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-oxfordaqa-physics-motion-and-newtons-laws--02-third-law-pairs.webp" width="900" height="1090" alt="Two third-law pairs for a book on a table: Earth pulls book with book pulls Earth, and table pushes book with book pushes table. A pair is the same kind of force, equal and opposite, on different bodies. Weight and the normal force both act on the book, so they are not a pair." loading="lazy">
+  <figcaption>Third-law pairs act on different bodies; weight and the normal contact force act on one body and are not a pair.</figcaption>
+</figure>
+
 
 ## Common mistakes
 

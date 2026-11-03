@@ -83,6 +83,12 @@ These notes condense the budget balance and national debt points of AQA A-level 
 5. Say what it financed.
 6. Conclude: a judgement tied to those points, not just "high" or "low".
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-budget-balance-national-debt-and-the-consequences-of--02-debt-ratio-rate-vs-growth.webp" width="900" height="860" alt="Country A debt ratio rises from 60.0% to 61.2% (interest 5% above growth 3%). Country B falls from 90.0% to 89.4% (interest 2% below growth 4%). Same 3.0% deficit." loading="lazy">
+  <figcaption>Compare the interest rate with nominal growth, not just the deficit.</figcaption>
+</figure>
+
+
 ## Worked reminders
 
 **Surplus and debt (Country P, illustrative year).** Revenue is 540, spending 500, opening debt 800, GDP 1,500.
@@ -178,6 +184,11 @@ When the interest rate is above nominal growth, the ratio climbs even with a bal
   <figcaption>Underlying economic growth is a rightward shift in LRAS, raising output and easing prices.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-aggregate-demand-supply--01-circular-flow.webp" width="900" height="1040" alt="Households and firms are linked by income and spending flows; saving, taxes and imports leak out and investment, government spending and exports flow back in. Two bar pairs show that equal injections and withdrawals keep income steady while higher injections raise it." loading="lazy">
+  <figcaption>Withdrawals (S, T, M) leave and injections (I, G, X) enter the circular flow; national income is in equilibrium when they are equal.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 
@@ -236,8 +247,8 @@ For any claim about a deficit, surplus, debt or rebalancing measure, test it aga
 12. A surplus removes demand, so it can deepen the downturn, raise unemployment and reduce tax revenue.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/aqa-a-level-economics-budget-balance-national-debt-and-the-consequences-of--02-debt-ratio-rate-vs-growth.webp" width="900" height="860" alt="Country A debt ratio rises from 60.0% to 61.2% (interest 5% above growth 3%). Country B falls from 90.0% to 89.4% (interest 2% below growth 4%). Same 3.0% deficit." loading="lazy">
-  <figcaption>Compare the interest rate with nominal growth, not just the deficit.</figcaption>
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-budget-balance-national-debt-and-the-consequences-of--06-budget-interest-share.webp" width="900" height="780" alt="A three-step chain (lenders doubt repayment, higher yields, bigger interest bill) and two bars of Country A revenue 420: interest of 36 is 8.6 per cent, and if the share doubled to 72 it is 17.1 per cent, leaving 348 instead of 384." loading="lazy">
+  <figcaption>A larger interest bill leaves less revenue for schools and hospitals.</figcaption>
 </figure>
 
 

@@ -205,6 +205,26 @@ The trolley's speed at t = 4 is about **6 m/s**. It is an estimate, because it d
   <figcaption>Every direct proportion graph starts at O; powers curve upwards and roots flatten.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-proportion--02-inverse-shapes.webp" width="900" height="940" alt="Five inverse proportion graphs with k = 1: 1 over the cube root of x, the square root of x, x, x squared and x cubed. All pass through (1, 1) and fall towards the x-axis without reaching zero. Higher powers fall faster." loading="lazy">
+  <figcaption>In inverse proportion y falls as x rises, and a higher power falls faster.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-proportion--03-square-the-change.webp" width="900" height="680" alt="Squares with sides 1, 2 and 3 contain 1, 4 and 9 unit squares. Doubling x multiplies y by 4 and tripling x multiplies y by 9. The multiplier on x is squared." loading="lazy">
+  <figcaption>For y = kx squared, multiplying x by a number multiplies y by that number squared.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-proportion--05-root-worked.webp" width="900" height="1000" alt="The graph of P = 3 times the square root of Q. The given point (16, 12) gives k = 3. Reading up from Q = 49 gives P = 21, and reading across from P = 27 gives Q = 81 because squaring undoes the root." loading="lazy">
+  <figcaption>Find k from one point, then read the graph either way.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-proportion--06-pumps-inverse.webp" width="900" height="1000" alt="The graph of t = 72 over n for pumps and hours. Rectangles to (4, 18), (6, 12) and (9, 8) all have area 72 because t times n is constant. 6 pumps take 12 hours and 9 pumps take 8 hours." loading="lazy">
+  <figcaption>In inverse proportion the product t × n stays the same.</figcaption>
+</figure>
+
 
 ### Area under a curve (Extension only)
 

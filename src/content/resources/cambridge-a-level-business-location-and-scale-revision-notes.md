@@ -172,12 +172,6 @@ Another Otterburne plan makes 40,000 units a year. Home site: variable cost 9.00
 - Add non-financial effects: control, speed, image, staff, risk.
 - End with a decision and the condition on which it depends.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/cambridge-a-level-business-location-and-scale--02-sundermere-unit-cost.webp" width="900" height="950" alt="Line chart of the lesson data: unit cost falls from 14.00 at 1,000 loaves to 8.00 at 8,000 then rises to 10.00 at 16,000. Doubling from 4,000 to 8,000 cuts unit cost 11.1 percent; doubling from 8,000 to 16,000 raises it 25 percent." loading="lazy">
-  <figcaption>Unit cost is lowest at 8,000 loaves; beyond that diseconomies of scale push it up.</figcaption>
-</figure>
-
-
 ## Quick self-test
 
 1. Define offshoring.
@@ -203,6 +197,12 @@ Another Otterburne plan makes 40,000 units a year. Home site: variable cost 9.00
 8. For example, international decisions involve different currencies, laws and longer supply chains; local decisions do not.
 9. Any two of: rising wages abroad, higher freight costs, quality problems, long lead times, supply disruption, automation, demand for locally made goods.
 10. 0.75 × 120,000 = 90,000. It may be smaller if freight, duty, extra stock or exchange-rate moves add costs, or if wages abroad rise.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-business-location-and-scale--02-sundermere-unit-cost.webp" width="900" height="950" alt="Line chart of the lesson data: unit cost falls from 14.00 at 1,000 loaves to 8.00 at 8,000 then rises to 10.00 at 16,000. Doubling from 4,000 to 8,000 cuts unit cost 11.1 percent; doubling from 8,000 to 16,000 raises it 25 percent." loading="lazy">
+  <figcaption>Unit cost is lowest at 8,000 loaves; beyond that diseconomies of scale push it up.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

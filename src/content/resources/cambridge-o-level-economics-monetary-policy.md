@@ -175,6 +175,16 @@ Diagram in words: draw a market for A-dollars with the exchange rate (B-dollars 
   <figcaption>Tight policy slows inflation, growth and jobs growth and worsens the current account, and savers gain; loose policy does the reverse. Each effect depends on a chain that may not hold.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-objectives-of-government--03-objectives-conflict.webp" width="900" height="1010" alt="Flow from an interest rate cut to higher borrowing and spending. Gains: growth rises and unemployment falls. Side effects: demand-pull inflation risk and a worse balance of payments through more imports. Raising rates does the reverse." loading="lazy">
+  <figcaption>A policy that helps one objective can harm another.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-objectives-of-government--02-inflation-causes.webp" width="900" height="1090" alt="Two illustrative AD/AS diagrams. Demand-pull: AD shifts right and the price level rises. Cost-push: AS shifts up and left and the price level rises. Boxes give the cause chain and the policy response from the lesson." loading="lazy">
+  <figcaption>Demand-pull starts with demand; cost-push starts with rising costs.</figcaption>
+</figure>
+
 
 ## Common errors
 

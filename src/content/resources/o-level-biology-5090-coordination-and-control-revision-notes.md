@@ -69,6 +69,11 @@ When you are ready, test yourself with the [practice questions](/resources/o-lev
   <figcaption>Follow the numbered pathway from stimulus to response.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-coordination-and-response--02-synapse.webp" width="900" height="1010" alt="Extended. A schematic synapse: an impulse in neurone 1 makes vesicles release neurotransmitter into the synaptic gap, the molecules diffuse across, bind receptor proteins on neurone 2 and start a new impulse. Only neurone 1 releases neurotransmitter and only neurone 2 has receptors, so the impulse goes one way." loading="lazy">
+  <figcaption>Neurotransmitter crosses the gap and binds receptors, so impulses go one way only.</figcaption>
+</figure>
+
 
 ## 14.2 Sense organs and the eye
 
@@ -111,6 +116,11 @@ Memory hook: *near = contract = fat lens*.
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/o-level-biology-5090-coordination-and-control--04-accommodation.webp" width="900" height="1190" alt="Two diagrams. Near object: ciliary muscles contract, suspensory ligaments slacken, the lens is fatter and bends light more so the object is focused on the retina. Distant object: ciliary muscles relax, ligaments are pulled tight, the lens is thinner and bends light less." loading="lazy">
   <figcaption>Near and distant focusing differ in ciliary muscles, ligament tension and lens shape.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-coordination-and-response--04-pupil-reflex.webp" width="900" height="960" alt="Two front views of the eye. Bright light: pupil narrows, less light enters. Dim light: pupil widens, more light enters. Extended panel: in bright light circular muscles contract and radial relax; in dim light radial contract and circular relax." loading="lazy">
+  <figcaption>The pupil narrows in bright light and widens in dim light because two sets of iris muscles work against each other.</figcaption>
 </figure>
 
 
@@ -204,6 +214,11 @@ Rise → response lowers it. Fall → response raises it.
   <figcaption>Type 1 diabetes in three steps: cause, signs, treatment.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-coordination-and-response--05-blood-glucose-feedback.webp" width="900" height="1290" alt="Extended. Two loops keep blood glucose near its set point: after a meal insulin makes the liver store glucose as glycogen so glucose falls; between meals glucagon makes the liver release glucose so it rises. The sketch graph uses the lesson example: 5.0 to 8.0 mmol per dm3 in 30 minutes (60% rise) then 5.2 by 120 minutes." loading="lazy">
+  <figcaption>Each response reverses the change, returning glucose towards the set point.</figcaption>
+</figure>
+
 
 ## Worked reminders
 
@@ -268,12 +283,6 @@ The excitement causes the adrenal glands to release adrenaline. Adrenaline incre
 10. Hypothalamus.
 11. Muscles contract rapidly; the extra respiration releases heat.
 12. Increased blood glucose concentration; glucose in the urine.
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-biology-0610-coordination-and-response--02-synapse.webp" width="900" height="1010" alt="Extended. A schematic synapse: an impulse in neurone 1 makes vesicles release neurotransmitter into the synaptic gap, the molecules diffuse across, bind receptor proteins on neurone 2 and start a new impulse. Only neurone 1 releases neurotransmitter and only neurone 2 has receptors, so the impulse goes one way." loading="lazy">
-  <figcaption>Neurotransmitter crosses the gap and binds receptors, so impulses go one way only.</figcaption>
-</figure>
-
 
 ## Where marks are usually lost
 

@@ -189,6 +189,11 @@ Interpretation: as t → ∞, T → 22, so the pie approaches room temperature a
   <figcaption>The temperature approaches room temperature but never reaches it, because the model uses the gap T − 20.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-mathematics-volumes-of-revolution-separable-differential-equations--06-finite-or-never.webp" width="900" height="920" alt="Water depth against time for two models with the same start (4 m) and the same depth after 10 minutes (2.25 m). The solid curve from dh/dt = −k√h hits zero at exactly 40 minutes. The dashed exponential curve from dh/dt = −ch keeps falling but never reaches zero." loading="lazy">
+  <figcaption>The form of the equation decides whether the tank empties in finite time.</figcaption>
+</figure>
+
 
 ## Kinematics
 

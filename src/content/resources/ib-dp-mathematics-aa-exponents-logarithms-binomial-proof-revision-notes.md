@@ -120,6 +120,16 @@ Test yourself afterwards with the [practice questions](/resources/ib-dp-mathemat
   <figcaption>Changing base counts how many steps of one size fit in another length.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-aa-exponents-logarithms-binomial-proof--06-hidden-quadratic.webp" width="900" height="990" alt="The graph of y = 9^x - 4(3^x) + 3 crosses the x-axis at x = 0 and x = 1. Substituting y = 3^x gives y^2 - 4y + 3 = 0, so (y-1)(y-3) = 0, 3^x = 1 or 3. Because 3^x is always positive, a negative root for y must be rejected." loading="lazy">
+  <figcaption>A 9^x term is (3^x)^2, so substitute y = 3^x and solve the quadratic.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-aa-exponents-logarithms-binomial-proof--07-identity-lhs-rhs.webp" width="900" height="950" alt="The curves y = 1/n - 1/(n+2) (dashed) and y = 2/(n(n+2)) (thick) lie exactly on top of each other, with asymptotes at n = 0 and n = -2. At n = 3 both equal 2/15, matching the numerical check. Because they agree for every allowed n, the statement is an identity." loading="lazy">
+  <figcaption>An identity (the symbol identical-to) is true for every allowed n: both sides trace one curve.</figcaption>
+</figure>
+
 
 ## Worked reminders
 
@@ -136,6 +146,12 @@ Test yourself afterwards with the [practice questions](/resources/ib-dp-mathemat
 **Binomial term.** In (x² − 2/x)⁶ the general term is 6Cr (−2)^r x^(12 − 3r). The constant term has r = 4: 15 × 16 = 240.
 
 **nCr by technology.** To find r when 8Cr = 56, tabulate 8Cr for r = 0 to 8. The table gives r = 3 and r = 5.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-aa-exponents-logarithms-binomial-proof--09-term-independent-of-x.webp" width="900" height="880" alt="A bar chart of the seven terms of (x^2 - 2/x)^6 with coefficients 1, -12, 60, -160, 240, -192, 64 and powers of x equal to 12 - 3r. The term at r = 4 has power 0, so the term independent of x is 6C4 x (-2)^4 = 15 x 16 = 240." loading="lazy">
+  <figcaption>Solve 12 - 3r = 0 to find which term has no x.</figcaption>
+</figure>
+
 
 ## Pascal's triangle, rows 0 to 6
 
@@ -219,6 +235,12 @@ AA Paper 1 allows no technology; Paper 2 requires it. Be fluent by hand with exp
 - Losing the negative sign of b in (a − b)^n, so the terms no longer alternate.
 - Quoting nCr as the coefficient and forgetting the powers of the numbers in the bracket.
 - Finding one value of r from an nCr equation and missing the symmetric second value.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-aa-exponents-logarithms-binomial-proof--05-solve-by-logs.webp" width="900" height="970" alt="The curves y = 5^(x+1) and y = 3^(2x) cross at x = 2.74 where both equal about 410. Taking logs gives (x+1) ln 5 = 2x ln 3, so x = ln 5 / ln(9/5) = 2.74." loading="lazy">
+  <figcaption>The solution of 5^(x+1) = 3^(2x) is where the curves meet, found with logs.</figcaption>
+</figure>
+
 
 ## Official syllabus
 

@@ -47,6 +47,12 @@ These notes condense the "Globalisation" content point of the AQA A-level Econom
 | Transfer pricing | Prices charged between parts of the same firm |
 | Footloose | Free to move production when costs change |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-globalisation-and-multinational-corporations--12-transfer-pricing.webp" width="900" height="940" alt="Shifting 15 of profit from the 30 percent country to the 10 percent country cuts group tax from 13 to 10: the MNC saves 3, one government loses 4.5 and the other gains 1.5." loading="lazy">
+  <figcaption>Transfer pricing cuts the MNC tax bill and shifts revenue between governments.</figcaption>
+</figure>
+
+
 ## Causes: chains to remember
 
 1. **Trade liberalisation:** barriers fall, so import prices fall and export markets widen, so trade rises.
@@ -65,12 +71,6 @@ Trade relative to output = trade index / output index x 100
 
 Illustrative example: trade index 100 to 190 and output index 100 to 140 over 20 years.
 Trade grows 3.3% a year, output 1.7% a year, and trade relative to output is 135.7.
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/aqa-a-level-economics-globalisation-and-multinational-corporations--13-trade-vs-output.webp" width="900" height="880" alt="Indices over 20 years: freight cost falls to 64, world trade rises to 190 and world output to 140, growth rates -2.2, +3.3 and +1.7 percent a year. Trade relative to output rises 35.7 percent." loading="lazy">
-  <figcaption>Trade has grown faster than output as freight costs fell.</figcaption>
-</figure>
-
 
 ## Characteristics checklist
 
@@ -94,6 +94,11 @@ Illustrative: output sold for 60 using 50 of imported inputs gives value added o
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/aqa-a-level-economics-globalisation-and-multinational-corporations--10-supply-chain-value-added.webp" width="900" height="1000" alt="Value added is X 20, Y 30, Z 10 and D 40, totalling the final price of 100. Recorded trade is 130 because inputs are counted at each border. Z exports 60 but adds 10." loading="lazy">
   <figcaption>Gross trade overstates the value a country captures in a supply chain.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-globalisation-and-multinational-corporations--13-trade-vs-output.webp" width="900" height="880" alt="Indices over 20 years: freight cost falls to 64, world trade rises to 190 and world output to 140, growth rates -2.2, +3.3 and +1.7 percent a year. Trade relative to output rises 35.7 percent." loading="lazy">
+  <figcaption>Trade has grown faster than output as freight costs fell.</figcaption>
 </figure>
 
 
@@ -130,6 +135,11 @@ Small reminders (illustrative):
   <figcaption>The national rate barely moves but 25 thousand workers bear the loss.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-globalisation-and-multinational-corporations--08-mnc-employment-multiplier.webp" width="900" height="910" alt="2,000 direct jobs support 1,200 indirect jobs (0.6 each), a total of 3,200 and a multiplier of 1.6. Some indirect jobs may replace local jobs, so the net gain is lower." loading="lazy">
+  <figcaption>The plant creates 3,200 jobs in total, less any jobs lost elsewhere.</figcaption>
+</figure>
+
 
 ## MNC role: reasons and effects
 
@@ -144,12 +154,6 @@ Small reminders (illustrative):
 | Tax and export earnings | Transfer pricing and tax loss |
 | Supplier links | Footloose behaviour |
 | | Weaker standards possible |
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/aqa-a-level-economics-globalisation-and-multinational-corporations--12-transfer-pricing.webp" width="900" height="940" alt="Shifting 15 of profit from the 30 percent country to the 10 percent country cuts group tax from 13 to 10: the MNC saves 3, one government loses 4.5 and the other gains 1.5." loading="lazy">
-  <figcaption>Transfer pricing cuts the MNC tax bill and shifts revenue between governments.</figcaption>
-</figure>
-
 
 ## Two chains to learn in full
 
@@ -207,12 +211,6 @@ Use these to move from description to judgement:
 8. Any two from: repatriated profit, crowding out of local firms, transfer pricing, footloose behaviour, weaker labour or environmental standards.
 9. Competition from low-wage producers and offshoring can reduce demand and pay for lower-skilled workers, while skilled workers and owners may gain.
 10. A higher share measures integration, not how gains are shared. Some workers or regions may lose.
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/aqa-a-level-economics-globalisation-and-multinational-corporations--08-mnc-employment-multiplier.webp" width="900" height="910" alt="2,000 direct jobs support 1,200 indirect jobs (0.6 each), a total of 3,200 and a multiplier of 1.6. Some indirect jobs may replace local jobs, so the net gain is lower." loading="lazy">
-  <figcaption>The plant creates 3,200 jobs in total, less any jobs lost elsewhere.</figcaption>
-</figure>
-
 
 ## Where marks are usually lost
 

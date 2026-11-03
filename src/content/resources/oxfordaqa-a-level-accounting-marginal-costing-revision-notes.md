@@ -164,12 +164,6 @@ Only amounts that the choice itself would alter belong in the working. An overhe
 - **Semi-variable and stepped.** Picture a ramp starting above zero versus a staircase.
 - **Break-even in units and in dollars.** Always write which one you are giving.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/aqa-a-level-accounting-absorption-and-activity-based-costing--04-oar-full-cost.webp" width="900" height="1243" alt="Rates of 3.20 pounds per machine hour and 3.80 per labour hour are budgeted overheads divided by budgeted hours. They build the full cost of one table to 175 pounds, which gives 245 pounds with a 40 percent mark-up or 250 with a 30 percent margin." loading="lazy">
-  <figcaption>The OAR charges each product its share of overheads, giving a full cost to which a mark-up or margin is added.</figcaption>
-</figure>
-
-
 ## Quick self-test
 
 1. A warehouse pays 1,800 a month for each forklift driver, and one driver can move up to 12,000 cartons a month. Classify the cost by behaviour and calculate it for a month of 30,000 cartons.
@@ -197,6 +191,27 @@ Only amounts that the choice itself would alter belong in the working. An overhe
 9. R: 18 ÷ 1.5 = 12 per hour. S: 30 ÷ 3 = 10 per hour. **R first**, despite its lower contribution per unit.
 10. −22,000 + 15,000 + 4,000: profit **falls by 3,000**. Keep it open on financial grounds.
 11. 350 × 13.50 = **4,725**.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-absorption-and-activity-based-costing--04-oar-full-cost.webp" width="900" height="1243" alt="Rates of 3.20 pounds per machine hour and 3.80 per labour hour are budgeted overheads divided by budgeted hours. They build the full cost of one table to 175 pounds, which gives 245 pounds with a 40 percent mark-up or 250 with a 30 percent margin." loading="lazy">
+  <figcaption>The OAR charges each product its share of overheads, giving a full cost to which a mark-up or margin is added.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-absorption-and-activity-based-costing--05-under-over-absorption.webp" width="900" height="904" alt="Machining absorbed 132,800 pounds against 131,000 actual, over-absorbed by 1,800. Assembly absorbed 109,440 against 113,200, under-absorbed by 3,760. Net 1,960 pounds under-absorbed is deducted from profit." loading="lazy">
+  <figcaption>Absorbed = OAR x actual hours; absorbing more than actual is over-absorption and adds to profit.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-absorption-and-activity-based-costing--06-continuous-allotment.webp" width="900" height="995" alt="Stores (8,800) and Maintenance (6,000) share their costs with each other and with Machining and Finishing at stated percentages, repeating until nothing remains. Machining ends with 40,000 plus 9,800 and Finishing with 29,000 plus 5,000, a total of 83,800." loading="lazy">
+  <figcaption>Service departments pass costs to each other and to production until all costs sit in production departments.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-absorption-and-activity-based-costing--07-activity-based-costing.webp" width="900" height="1246" alt="Four cost pools are shared between Standard and Premium by use of their cost drivers (set-ups, inspections, orders, machine hours). Overhead per unit is 8.25 pounds for Standard and 55 for Premium under ABC, against 16 and 24 under a single labour-hour rate. Priced at 20 percent over the old cost, Premium sells at 168, below its ABC cost of 171." loading="lazy">
+  <figcaption>ABC charges overheads by the activities that cause them, which can change product costs and prices sharply.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

@@ -241,6 +241,11 @@ x = 2y^2 - 3
   <figcaption>Collect every x-term on one side, then factorise x out.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/indices-and-equations--06-subject-root.webp" width="900" height="850" alt="The graph of x = (y + 2)^2 - 3 is a sideways parabola; only the upper branch (y + 2 &gt;= 0) is the original function, and the lower dotted branch is added by squaring." loading="lazy">
+  <figcaption>Squaring adds a second branch, so the rearrangement is valid only when y + 2 &gt;= 0.</figcaption>
+</figure>
+
 
 ## 2.4A Solving linear equations
 

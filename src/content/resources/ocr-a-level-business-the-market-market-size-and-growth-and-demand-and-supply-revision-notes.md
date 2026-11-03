@@ -193,17 +193,6 @@ A good paragraph links a cause to a consequence for the named business, then add
 - A fall in the price of a substitute, demand for the firm's product shifts left, so price and quantity fall; the firm may respond with promotion.
 - Fashion moves away from a product, so demand shifts left and stock builds up, which may force discounting.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ocr-a-level-business-the-market-market-size-and-growth-and-demand-and-supply--12-helmet-supply-shift.webp" width="900" height="1000" alt="A new machine moves supply to QS = 20P + 50. Equilibrium moves from £20 and 300 to £17 and 390; revenue rises from £6,000 to £6,630." loading="lazy">
-  <figcaption>Lower costs shift supply right: price falls, quantity rises.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ocr-a-level-business-the-market-market-size-and-growth-and-demand-and-supply--13-helmet-demand-shift.webp" width="900" height="1000" alt="Demand falls to QD = 780 - 30P. Equilibrium moves from £20 and 300 to £17.60 and 252, so price and quantity both fall." loading="lazy">
-  <figcaption>Weaker demand shifts the curve left: price and quantity fall.</figcaption>
-</figure>
-
-
 ## Evaluation checklist
 
 1. Which determinant is largest in this case?
@@ -238,6 +227,17 @@ A good paragraph links a cause to a consequence for the named business, then add
 8. At £15: QD = 200, QS = 350, so **excess supply of 150**.
 9. At £9: QD = 320, QS = 170, so **shortage of 150**.
 10. The supply curve shifts left; at the starting price buyers want more than is offered, so price rises and the equilibrium quantity falls. Example: if supply falls by 75 at each price (QS = 30P − 175), P = £13.50 and Q = 230.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-business-the-market-market-size-and-growth-and-demand-and-supply--12-helmet-supply-shift.webp" width="900" height="1000" alt="A new machine moves supply to QS = 20P + 50. Equilibrium moves from £20 and 300 to £17 and 390; revenue rises from £6,000 to £6,630." loading="lazy">
+  <figcaption>Lower costs shift supply right: price falls, quantity rises.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-business-the-market-market-size-and-growth-and-demand-and-supply--13-helmet-demand-shift.webp" width="900" height="1000" alt="Demand falls to QD = 780 - 30P. Equilibrium moves from £20 and 300 to £17.60 and 252, so price and quantity both fall." loading="lazy">
+  <figcaption>Weaker demand shifts the curve left: price and quantity fall.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

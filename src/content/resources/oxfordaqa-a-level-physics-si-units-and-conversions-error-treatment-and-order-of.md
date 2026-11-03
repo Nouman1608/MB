@@ -255,15 +255,15 @@ Rounding every intermediate estimate to a power of ten before multiplying can sh
 - Quoting a result with more decimal places than its uncertainty.
 - Treating the steepest line as the best-fit line.
 
+## Next steps
+
+Work through the [practice questions](/resources/oxfordaqa-a-level-physics-si-units-and-conversions-error-treatment-and-order-of-practice/), then use the [revision notes](/resources/oxfordaqa-a-level-physics-si-units-and-conversions-error-treatment-and-order-of-revision-notes/) to check recall. The [earlier measurements practice set](/resources/oxfordaqa-a-level-physics-measurements-practice/) gives extra questions.
+
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/a-level-oxfordaqa-physics-measurements-and-their-errors--04-precision-accuracy.webp" width="900" height="1160" alt="Four targets with six shots each: tight and centred (precise and accurate); tight but off-centre (systematic error); spread with mean on the bullseye (random error); spread and off-centre (both)." loading="lazy">
   <figcaption>Systematic error shifts all readings; random error scatters them.</figcaption>
 </figure>
 
-
-## Next steps
-
-Work through the [practice questions](/resources/oxfordaqa-a-level-physics-si-units-and-conversions-error-treatment-and-order-of-practice/), then use the [revision notes](/resources/oxfordaqa-a-level-physics-si-units-and-conversions-error-treatment-and-order-of-revision-notes/) to check recall. The [earlier measurements practice set](/resources/oxfordaqa-a-level-physics-measurements-practice/) gives extra questions.
 
 ## Official syllabus
 

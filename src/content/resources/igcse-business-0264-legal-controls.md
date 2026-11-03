@@ -198,18 +198,18 @@ Legal controls are not a separate subject from the marketing mix. They shape eac
 
 For ecommerce (section 3.3.5), customers cannot touch the product before buying, so accurate descriptions and photographs matter even more.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-business-0264-legal-controls--04-legal-controls-four-ps.webp" width="900" height="900" alt="Four rows link each element of the mix to a legal effect: product quality and labels, honest prices, accurate place descriptions and returns, and evidence for promotion claims. Ecommerce makes accurate descriptions matter more." loading="lazy">
-  <figcaption>Legal controls touch product, price, place and promotion.</figcaption>
-</figure>
-
-
 ## Writing good exam answers
 
 - **Define briefly, then apply.** If the question says "explain", give a point, a reason and a link to the business in the question.
 - **Use the context.** If the case study is about a food business, talk about labels and ingredients, not jackets.
 - **For "evaluate" or "justify" questions, weigh both sides.** Costs of following the rules against benefits of trust, then reach a judgement that depends on the business's situation.
 - **Show your working.** For a percentage or cost, write the formula and units.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-0264-legal-controls--04-legal-controls-four-ps.webp" width="900" height="900" alt="Four rows link each element of the mix to a legal effect: product quality and labels, honest prices, accurate place descriptions and returns, and evidence for promotion claims. Ecommerce makes accurate descriptions matter more." loading="lazy">
+  <figcaption>Legal controls touch product, price, place and promotion.</figcaption>
+</figure>
+
 
 ## Common errors
 

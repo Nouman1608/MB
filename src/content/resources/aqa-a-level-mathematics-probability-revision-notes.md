@@ -208,12 +208,6 @@ P(late on all 5 weekdays) = 0.15⁵ = 0.0000759 (3 s.f.). Bad weather or roadwor
 days, so late days cluster; the true probability of a late run is probably **higher** than the
 model gives.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-level-maths-9709-probability-statistics-1--08-independence-model-check.webp" width="900" height="900" alt="Two students chosen when 45% are girls: the independent model gives 0.2025. The exact value without replacement is 0.2023 for 1200 students (gap 0.0002); illustrative sizes of 100 and 20 students give gaps 0.0025 and 0.0130." loading="lazy">
-  <figcaption>Independence is a good approximation for a large population but poor for a small group.</figcaption>
-</figure>
-
-
 ## Quick self-test
 
 1. P(A) = 0.25, P(B) = 0.4, and A and B are independent. Find P(A ∩ B) and P(A ∪ B).
@@ -244,6 +238,12 @@ model gives.
 10. **Yes**, because P(A | B) = 0.5 = P(A).
 11. 1 − (1/2)⁴ = **15/16**.
 12. P(+) = 0.09 + 0.18 = 0.27; P(D | +) = 0.09/0.27 = **1/3**.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-maths-9709-probability-statistics-1--08-independence-model-check.webp" width="900" height="900" alt="Two students chosen when 45% are girls: the independent model gives 0.2025. The exact value without replacement is 0.2023 for 1200 students (gap 0.0002); illustrative sizes of 100 and 20 students give gaps 0.0025 and 0.0130." loading="lazy">
+  <figcaption>Independence is a good approximation for a large population but poor for a small group.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

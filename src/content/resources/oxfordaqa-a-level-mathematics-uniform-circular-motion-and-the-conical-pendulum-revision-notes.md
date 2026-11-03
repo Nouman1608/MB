@@ -54,6 +54,12 @@ Units: ω in rad s⁻¹, v in m s⁻¹, a in m s⁻². Angular speed is the rate
 4. Resolve vertically: forces balance if there is no vertical motion.
 5. Solve and give units and the right accuracy.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-maths-9709-mechanics--02-amth-forces-two-strings.webp" width="900" height="960" alt="A 5 kg particle hangs on two strings at 30 and 45 degrees to the horizontal. Solving the horizontal and vertical balances gives T1 = 35.9 N and T2 = 43.9 N. Drawn head to tail, W, T1 and T2 form a closed triangle, so the resultant is zero." loading="lazy">
+  <figcaption>In equilibrium the forces sum to zero in every direction, so they close into a triangle.</figcaption>
+</figure>
+
+
 ## Setting up common situations
 
 | Situation | Force towards the centre | Vertical balance |
@@ -186,6 +192,17 @@ Take g = 9.8 m s⁻² and give 3 significant figures unless exact.
 10. ω² = g/h = 9.8/0.49 = 20, so ω = **4.47 rad s⁻¹** (exactly 2√5)
 11. **ω² > g/L**, equivalently ω > √(g/L)
 12. At the limit, μg = rω². So 16 × 0.2/9.8 ≤ μ < 25 × 0.2/9.8, giving **0.327 ≤ μ < 0.510** (3 s.f.)
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-maths-9709-mechanics--05-amth-forces-friction-model.webp" width="900" height="940" alt="Graph of friction against push for a 5 kg box with μ = 0.4 (R = 49 N, maximum friction 19.6 N). F equals P until P = 19.6 N, then stays at 19.6 N when the box slides. P = 15 N gives F = 15 N, not 19.6 N. Three mini diagrams show at rest, limiting and sliding (a = 1.08 m per second squared)." loading="lazy">
+  <figcaption>Friction matches the push up to a maximum μR; only when on the point of moving or sliding is F = μR.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-maths-9709-mechanics--07-amth-forces-slope.webp" width="900" height="920" alt="A 4 kg block on a 30 degree rough slope with μ = 0.25. Weight 39.2 N splits into mg sin 30 = 19.6 N down the slope and mg cos 30 = 33.9 N into it, so R = 33.9 N and F = 8.49 N up the slope. 19.6 − 8.49 = 4a gives a = 2.78 m per second squared down the slope." loading="lazy">
+  <figcaption>Resolve the weight along and across the slope: R = mg cos θ and the net force down the slope is mg sin θ − μR.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

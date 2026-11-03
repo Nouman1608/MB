@@ -168,18 +168,22 @@ Contact:  2SO2 + O2 <=> 2SO3    450 C, 1-2 atm, V2O5 catalyst
   <figcaption>Both are exothermic with fewer product gas molecules, but only Haber pays for high pressure.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-chemical-equilibria-le-chateliers-principle-and-kc--05-haber-compromise.webp" width="900" height="900" alt="Percentage of ammonia at equilibrium falls as temperature rises and increases with pressure (10, 100, 200 atm). A bar shows rate rising with temperature, so a moderate temperature and high pressure are chosen. The catalyst only speeds up the approach." loading="lazy">
+  <figcaption>A moderate temperature and high pressure balance yield, rate and cost; the catalyst does not raise yield.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-chemistry-equilibrium-ammonia-and-sulfuric-acid--03-contact-process-stages.webp" width="900" height="960" alt="Three stages: burn sulfur to SO2; convert SO2 to SO3 over vanadium(V) oxide at about 450 C and atmospheric pressure (exothermic, reversible); add water to SO3 to make sulfuric acid." loading="lazy">
+  <figcaption>The three stages of the contact process with Stage 2 conditions.</figcaption>
+</figure>
+
 
 ## Calculations
 
 Use an **ICE table** — Initial, Change, Equilibrium. Change values follow the **stoichiometric ratios**. Convert moles to concentrations by dividing by volume **before** substituting into Kc.
 
 Units of K vary with the equation and must be worked out each time; if Δn(gas) = 0, K has no units.
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/oxfordaqa-a-level-chemistry-equilibria-revision-notes--01-rn-ice-ratio.webp" width="900" height="890" alt="ICE table for N2 + 3H2 to 2NH3. Initial 0.80, 2.40, 0 mol; change shown as 1, 3 and 2 blocks of 0.40 mol (-0.40, -1.20, +0.80); equilibrium 0.40, 1.20, 0.80 mol." loading="lazy">
-  <figcaption>Changes in an ICE table follow the 1 : 3 : 2 coefficients.</figcaption>
-</figure>
-
 
 ## Exam traps
 
@@ -201,3 +205,14 @@ Units of K vary with the equation and must be worked out each time; if Δn(gas) 
 6. For N₂ + 3H₂ ⇌ 2NH₃, why does Kc carry units, and what must be done to moles before they are substituted into the Kc expression?
 
 **Answers:** 1. The rates of the forward and reverse reactions are equal, and the concentrations of all species remain constant, in a closed system. 2. Temperature — it alters the rate constants of the forward and reverse reactions unequally. 3. Nothing; it increases the rate of both directions equally, so equilibrium is reached sooner at the same position. 4. A lower temperature would give a higher yield but an uneconomically slow rate, so 450 °C is a compromise between yield and rate. 5. When there are equal numbers of moles of gas on both sides of the equation. 6. Kc carries units because the total moles of gas differ on each side (4 on the left, 2 on the right), so the concentration units in the expression don't fully cancel; moles must first be divided by the volume to convert them into concentrations before substitution.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-chemistry-equilibria-revision-notes--01-rn-ice-ratio.webp" width="900" height="890" alt="ICE table for N2 + 3H2 to 2NH3. Initial 0.80, 2.40, 0 mol; change shown as 1, 3 and 2 blocks of 0.40 mol (-0.40, -1.20, +0.80); equilibrium 0.40, 1.20, 0.80 mol." loading="lazy">
+  <figcaption>Changes in an ICE table follow the 1 : 3 : 2 coefficients.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-chemical-equilibria-le-chateliers-principle-and-kc--07-kc-calculation.webp" width="900" height="1020" alt="Bars show PCl5 falling from 0.250 to 0.150 mol while PCl3 and Cl2 rise to 0.100 mol. Dividing by 5.00 dm3 gives concentrations, and Kc = 0.0200 x 0.0200 / 0.0300 = 0.0133 mol dm-3." loading="lazy">
+  <figcaption>Convert equilibrium amounts to concentrations before substituting into Kc.</figcaption>
+</figure>
+

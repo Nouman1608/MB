@@ -168,6 +168,11 @@ You may leave the denominator factorised. Do not expand it unless asked.
   <figcaption>Cancelling a common factor gives the same graph, except the original has a gap where the factor was zero.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-algebraic-fractions-and-indices-ii--06-common-denominator.webp" width="900" height="1020" alt="Bars of twelve cells show 1/4 = 3/12 and 1/6 = 2/12. Then 3(2x+1)-2(x-3) = 6x+3-2x+6 = 4x+9, so the answer is (4x+9)/12." loading="lazy">
+  <figcaption>Rewrite over the common denominator, then combine numerators carefully.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 

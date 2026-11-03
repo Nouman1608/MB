@@ -49,6 +49,18 @@ change questions -- like every other topic -- can appear on any paper, calculato
 - Ratio expressed in its simplest form, dividing a quantity into a given ratio, and using ratio to compare
   quantities of different units after conversion
 
+## How to approach it
+
+Ratio and proportion questions reward careful reading of what quantity is being asked for and in what
+form (a ratio, a fraction, a percentage, or an absolute amount), since a numerically correct answer given
+in the wrong form still loses marks. Building fluency in converting between ratios, fractions and
+percentages -- rather than treating them as separate skills -- pays off across this entire topic.
+
+## Official syllabus
+
+AQA GCSE Mathematics (8300) specification, first teaching September 2015 --
+[aqa.org.uk](https://www.aqa.org.uk/subjects/mathematics/gcse/mathematics-8300/specification/subject-content/ratio-proportion-and-rates-of-change).
+
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/aqa-gcse-mathematics-ratio-proportion-rates-of-change--11-ratio-unequal-units.webp" width="900" height="850" alt="40 cm and 1.2 m are compared by converting 1.2 m to 120 cm, giving 40:120, which simplifies to 1:3. Writing 40:1.2 would be wrong." loading="lazy">
   <figcaption>Convert to the same unit before simplifying a ratio.</figcaption>
@@ -64,18 +76,11 @@ change questions -- like every other topic -- can appear on any paper, calculato
   <figcaption>Speed, density and pressure are each one quantity divided by another.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-exponential-growth-decay-and-surds--03-fish-decay-target.webp" width="900" height="740" alt="A curve of 3600 fish falling 6% a year with a dashed line at 2000. Year 9 gives 2063 (above) and year 10 gives 1939 (below), so year 10 is the first year below 2000." loading="lazy">
+  <figcaption>Show the years either side of the target to prove which year first passes it.</figcaption>
+</figure>
 
-## How to approach it
-
-Ratio and proportion questions reward careful reading of what quantity is being asked for and in what
-form (a ratio, a fraction, a percentage, or an absolute amount), since a numerically correct answer given
-in the wrong form still loses marks. Building fluency in converting between ratios, fractions and
-percentages -- rather than treating them as separate skills -- pays off across this entire topic.
-
-## Official syllabus
-
-AQA GCSE Mathematics (8300) specification, first teaching September 2015 --
-[aqa.org.uk](https://www.aqa.org.uk/subjects/mathematics/gcse/mathematics-8300/specification/subject-content/ratio-proportion-and-rates-of-change).
 
 ## Direct vs inverse proportion, side by side
 
@@ -99,6 +104,11 @@ one quantity make the other one bigger (direct) or smaller (inverse)?
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/igcse-mathematics-0580-proportion--06-pumps-inverse.webp" width="900" height="1000" alt="The graph of t = 72 over n for pumps and hours. Rectangles to (4, 18), (6, 12) and (9, 8) all have area 72 because t times n is constant. 6 pumps take 12 hours and 9 pumps take 8 hours." loading="lazy">
   <figcaption>In inverse proportion the product t × n stays the same.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-graphs-in-practical-situations--01-miles-to-km.webp" width="900" height="930" alt="A conversion graph for miles and kilometres is a straight line through the origin and (50, 80). Reading up from 30 miles and across gives 48 km, and the gradient 80 divided by 50 is 1.6 km per mile. Because the line passes through (0, 0), values can be scaled." loading="lazy">
+  <figcaption>Reading a conversion graph, and why a line through the origin lets you scale.</figcaption>
 </figure>
 
 
@@ -181,6 +191,11 @@ multiplies the original amount by 1 + 0.03 x 5 = 1.15, whereas compound interest
   <figcaption>Compound interest multiplies by 1.03^5 = 1.159; simple interest by 1.15.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-exponential-growth-decay-and-surds--01-growth-vs-linear.webp" width="900" height="780" alt="A graph of a population of 25 000 growing 2.4% a year for 8 years. The curve reaches about 30 223, while adding 600 a year in a straight line reaches only 29 800. The curve pulls ahead because each percentage is taken of the current value." loading="lazy">
+  <figcaption>Exponential growth pulls ahead of linear growth because each year's percentage is taken of a larger value.</figcaption>
+</figure>
+
 
 ## Common mistakes
 
@@ -201,3 +216,9 @@ a compound-unit formula, such as mixing minutes and hours within a speed calcula
   arithmetic for growth/decay problems.
 - Always check units are consistent before applying a compound-unit formula (speed, density, pressure,
   rates of pay).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-rates-time-and-money--02-minutes-not-tenths.webp" width="900" height="860" alt="Two one-hour bars compare minutes with decimal hours: 36 minutes is 0.6 h, so 1 h 36 min is 1.6 h; 0.35 h is 21 minutes, so 2.35 h is 2 h 21 min." loading="lazy">
+  <figcaption>Minutes and decimal hours are different scales, so convert by dividing or multiplying by 60.</figcaption>
+</figure>
+

@@ -86,6 +86,11 @@ Ketone: 4.16 ÷ 6.40 = **0.65**. Alcohol: 1.28 ÷ 6.40 = **0.20**.
 **Limitation.** Two compounds can share an Rf value, so a match supports an identification but does not prove it.
 
 <figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-nuclear-magnetic-resonance-spectroscopy--04-nmr-integration.webp" width="900" height="990" alt="Pentan-3-one with its spectrum: quartet at 2.4 and triplet at 1.1 with an integration trace of 32 mm and 48 mm. Ratio 2:3 doubles to 4 H and 6 H." loading="lazy">
+  <figcaption>Integration step heights 32:48 = 2:3, scaled to 10 H gives 4 H and 6 H (pentan-3-one).</figcaption>
+</figure>
+
+<figure class="topic-figure">
   <img src="https://img.marlbridge.com/aqa-a-level-chemistry-nuclear-magnetic-resonance-spectroscopy--07-tlc-rf-standards.webp" width="900" height="900" alt="TLC plate with standards A, B, C and a tablet: Rf 0.30, 0.55, 0.75; tablet spots match A and C, no B." loading="lazy">
   <figcaption>Rf = distance moved by spot / distance moved by solvent; tablet matches A and C (AQA, OxfordAQA, OCR, Edexcel).</figcaption>
 </figure>
@@ -114,6 +119,12 @@ Each peak's **area** shows how much of that component the sample contains. The i
 Percentage of a component = (its peak area ÷ total of all peak areas) × 100
 
 This simple method assumes the detector responds equally to each component. For an exact concentration you need a calibration curve.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-nuclear-magnetic-resonance-spectroscopy--01-nmr-c13-environments.webp" width="900" height="976" alt="Skeletal drawings of pentane, 2-methylbutane and 2,2-dimethylpropane with each carbon coloured by environment. Pentane gives 3 peaks, 2-methylbutane 4 and 2,2-dimethylpropane 2. Peak positions are schematic." loading="lazy">
+  <figcaption>Symmetry-equivalent carbons give one 13C peak, so the three C5H12 isomers give 3, 4 and 2 peaks (all boards).</figcaption>
+</figure>
+
 
 ### Worked example 2: proportions in a fruit flavouring
 
@@ -201,6 +212,36 @@ Bottles A to D hold butanal, butanone, butan-2-ol and 2-methylpropan-2-ol, in so
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/aqa-a-level-chemistry-reactions-of-ions-in-aqueous-solution--03-hydroxide-ammonia-tests.webp" width="900" height="1220" alt="A grid of test tubes for Fe2+, Cu2+, Fe3+ and Al3+ showing the starting solution and the result with a few drops and excess NaOH, then NH3. Fe2+ gives a green and Fe3+ a brown precipitate that never dissolves; Cu2+ gives a pale blue precipitate that dissolves only in excess NH3 to a deep blue solution; Al3+ gives a white precipitate that dissolves only in excess NaOH." loading="lazy">
   <figcaption>Two results are special: Al(OH)3 dissolves in excess NaOH and Cu(OH)2 dissolves in excess NH3.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-reactions-of-ions-in-aqueous-solution--04-amphoteric-aluminium.webp" width="900" height="940" alt="A tube of white aluminium hydroxide precipitate sits in the centre. With acid it dissolves to colourless [Al(H2O)6]3+, and with excess hydroxide it dissolves to colourless [Al(OH)4]-. A second row shows that excess ammonia leaves the precipitate unchanged because ammonia is too weak a base." loading="lazy">
+  <figcaption>Aluminium hydroxide dissolves in acid and in excess alkali, but not in excess ammonia.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-reactions-of-ions-in-aqueous-solution--05-carbonate-tests.webp" width="900" height="1005" alt="Two panels add carbonate ions to a tube. M2+ ions (Fe2+, Cu2+) are weakly acidic and give a metal carbonate precipitate with no gas. M3+ ions (Fe3+, Al3+) give H+ to carbonate, so the tube fizzes with CO2 and a metal hydroxide precipitate forms. The balanced aluminium equation is shown." loading="lazy">
+  <figcaption>3+ ions are acidic enough to turn carbonate into CO2, leaving a hydroxide; 2+ ions simply precipitate the carbonate.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-reactions-of-ions-in-aqueous-solution--06-anion-sequence.webp" width="900" height="1090" alt="Three numbered steps. Add dilute nitric acid first: fizzing shows carbonate and removes it. Then barium nitrate: a white precipitate shows sulfate, and carbonate must already be gone because BaCO3 is also insoluble. Then silver nitrate followed by ammonia: white, cream or yellow shows a halide, and sulfate must be gone because Ag2SO4 is insoluble." loading="lazy">
+  <figcaption>Test for carbonate, then sulfate, then halide, because each later reagent would also precipitate the ion tested earlier.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-reactions-of-ions-in-aqueous-solution--07-silver-halides.webp" width="900" height="1060" alt="A 3 by 3 grid of tubes for chloride, bromide and iodide. With silver nitrate the precipitates are white, cream and yellow. Dilute ammonia dissolves only silver chloride; concentrated ammonia dissolves silver chloride and silver bromide; silver iodide never dissolves." loading="lazy">
+  <figcaption>Chloride dissolves in dilute NH3, bromide only in concentrated NH3, and iodide does not dissolve.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-reactions-of-ions-in-aqueous-solution--08-ammonium-test.webp" width="900" height="990" alt="A test tube of ammonium salt and sodium hydroxide solution stands in a warm water bath with bubbles rising. Ammonia gas leaves the mouth of the tube and reaches damp red litmus paper held just above it, not touching the glass. The paper turns blue, showing an alkaline gas." loading="lazy">
+  <figcaption>Warm with NaOH and hold damp red litmus at the mouth of the tube: it turns blue if NH4+ is present.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-reactions-of-ions-in-aqueous-solution--09-mn-cr-tests.webp" width="900" height="770" alt="A grid of tubes for the two extra OCR ions. Mn2+ (very pale pink) gives a light brown precipitate with NaOH or NH3 that does not dissolve in excess and darkens in air. Cr3+ (violet) gives a grey-green precipitate that dissolves in excess NaOH to a dark green solution and in excess NH3 to a purple solution." loading="lazy">
+  <figcaption>OCR adds Mn2+ and Cr3+; only Cr(OH)3 dissolves in excess NaOH, and Cr(OH)3 dissolves in excess NH3 too.</figcaption>
 </figure>
 
 

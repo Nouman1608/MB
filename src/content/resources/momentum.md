@@ -171,12 +171,6 @@ force acting on it** (e.g. friction bringing a trolley to rest over a long
 time) — the principle assumes a closed system with no significant external
 force during the event.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/momentum--04-head-on-signs.webp" width="900" height="790" alt="A 2 kg trolley at +3 m/s meets a 1 kg trolley at -3 m/s. Momenta +6 and -3 give +3 in total. Stuck together, 3v = +3 so v = +1 m/s to the right." loading="lazy">
-  <figcaption>Pick a positive direction and treat motion the other way as negative.</figcaption>
-</figure>
-
-
 ## Quick revision checklist
 
 - p = mv, and that momentum is a vector
@@ -196,3 +190,9 @@ that momentum is built from
 
 *Written against Cambridge O Level Physics 5054, 2026–2028 series. Always
 check the current syllabus for your examination year.*
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/momentum--04-head-on-signs.webp" width="900" height="790" alt="A 2 kg trolley at +3 m/s meets a 1 kg trolley at -3 m/s. Momenta +6 and -3 give +3 in total. Stuck together, 3v = +3 so v = +1 m/s to the right." loading="lazy">
+  <figcaption>Pick a positive direction and treat motion the other way as negative.</figcaption>
+</figure>
+

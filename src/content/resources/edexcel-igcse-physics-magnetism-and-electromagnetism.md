@@ -94,6 +94,16 @@ their opposite poles.
   <figcaption>Field lines run from N to S and are closest together where the field is strongest.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-physics-magnets-magnetic-fields-and-electromagnets--05-induced-magnet.webp" width="900" height="940" alt="A bar magnet near an iron nail. With an N pole near, the nail end nearest becomes S and the far end N; with an S pole near the nearest end becomes N. Both cases attract. With the magnet removed the nail loses most of its magnetism." loading="lazy">
+  <figcaption>Induced magnetism always gives attraction.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-physics-magnets-magnetic-fields-and-electromagnets--04-magnet-pair-fields.webp" width="900" height="1130" alt="Field lines computed from point poles. Unlike poles facing: lines run straight across the gap from N to S. Like poles facing: lines curve away without crossing and the field is zero at a point midway. Between flat opposite poles the field is uniform with parallel, equally spaced lines." loading="lazy">
+  <figcaption>Field patterns for unlike poles, like poles and a uniform field.</figcaption>
+</figure>
+
 
 ## Electromagnetism
 

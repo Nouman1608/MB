@@ -79,6 +79,11 @@ Both cases give an even number. ∎
 </figure>
 
 <figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-mathematical-language-set-notation-functions-and--07-root2-contradiction.webp" width="900" height="830" alt="Assume √2 = p/q in lowest terms. Squaring gives p² = 2q², so p is even, and p = 2r then gives q even. Both are even so they share the factor 2, shown as a Venn overlap, which clashes with lowest terms. So √2 is irrational." loading="lazy">
+  <figcaption>The assumption of lowest terms is what the contradiction clashes with.</figcaption>
+</figure>
+
+<figure class="topic-figure">
   <img src="https://img.marlbridge.com/aqa-a-level-mathematics-mathematical-language-set-notation-functions-and--09-multiple-of-three-gap.webp" width="900" height="690" alt="On a number line from 93 to 108 the multiples of 3 are filled. 6m + 9n = 3(2m + 3n) is always one of them, but 100 = 3 × 33 + 1 sits between 99 and 102, so no integers m, n exist." loading="lazy">
   <figcaption>Every value of 6m + 9n is a multiple of 3, and 100 is not.</figcaption>
 </figure>

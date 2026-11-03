@@ -193,17 +193,6 @@ Trend moves from 92.3 to 107.7 over four years, so the average rise is 3.8 a yea
 - To **justify**, give the reason and compare it with a realistic alternative.
 - **Importance of accuracy:** high when decisions are expensive or hard to reverse, when the lead time is long, or when stakeholders such as lenders rely on the figures.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-level-business-marketing--07-forecast-and-capacity.webp" width="900" height="1114" alt="Bars compare August actual and September and October forecasts with a 540 capacity line. October is 6 above capacity. Cards show operations, HR and finance consequences and the warning to test the forecast before a bigger workshop." loading="lazy">
-  <figcaption>A forecast above capacity triggers decisions in operations, HR and finance.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-level-business-marketing--08-forecast-error.webp" width="900" height="760" alt="Two bars show the September forecast of 531 and the actual 509, 22 units lower. Forecast error is (509 - 531) / 531 x 100 = -4.1 percent: sales came in below forecast." loading="lazy">
-  <figcaption>Forecast error compares actual with forecast as a percentage of the forecast.</figcaption>
-</figure>
-
-
 ## Quick self-test
 
 1. Define a forecast.
@@ -233,6 +222,17 @@ Trend moves from 92.3 to 107.7 over four years, so the average rise is 3.8 a yea
 10. 130 + 3 × 6 = 148.
 11. A three-year average needs the following year's value, which does not exist yet.
 12. They rely on cash-flow forecasts to judge whether repayments will be met, so an error raises the risk of default.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-business-marketing--07-forecast-and-capacity.webp" width="900" height="1114" alt="Bars compare August actual and September and October forecasts with a 540 capacity line. October is 6 above capacity. Cards show operations, HR and finance consequences and the warning to test the forecast before a bigger workshop." loading="lazy">
+  <figcaption>A forecast above capacity triggers decisions in operations, HR and finance.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-business-marketing--08-forecast-error.webp" width="900" height="760" alt="Two bars show the September forecast of 531 and the actual 509, 22 units lower. Forecast error is (509 - 531) / 531 x 100 = -4.1 percent: sales came in below forecast." loading="lazy">
+  <figcaption>Forecast error compares actual with forecast as a percentage of the forecast.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

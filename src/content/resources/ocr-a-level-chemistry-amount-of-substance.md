@@ -38,12 +38,6 @@ and analytical techniques -- Modules 1, 2, 4 and 6), and Component 03
 (Unified chemistry -- all six modules). It also reappears constantly in
 later modules, so it's worth being completely fluent in before moving on.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-level-aqa-chemistry-relative-mass-and-the-mole--09-spectator-ions.webp" width="900" height="930" alt="Two beakers show silver, chloride, sodium and nitrate ions before mixing. After reaction, solid silver chloride lies at the bottom and only sodium and nitrate ions remain dissolved. They are spectators, leaving Ag+(aq) + Cl-(aq) -&gt; AgCl(s)." loading="lazy">
-  <figcaption>Spectator ions are unchanged and are cancelled to give the ionic equation.</figcaption>
-</figure>
-
-
 ## Syllabus coverage
 
 **OCR A LEVEL CHEMISTRY A H432 — Module 2.1.3, Amount of substance**
@@ -59,6 +53,12 @@ calculations; calculating percentage yield and atom economy, including
 the sustainability benefits of a high atom economy; and the techniques and
 procedures required during experiments requiring the measurement of mass,
 volumes of solutions and gas volumes (Practical Activity Group PAG1).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-chemistry-relative-mass-and-the-mole--09-spectator-ions.webp" width="900" height="930" alt="Two beakers show silver, chloride, sodium and nitrate ions before mixing. After reaction, solid silver chloride lies at the bottom and only sodium and nitrate ions remain dissolved. They are spectators, leaving Ag+(aq) + Cl-(aq) -&gt; AgCl(s)." loading="lazy">
+  <figcaption>Spectator ions are unchanged and are cancelled to give the ionic equation.</figcaption>
+</figure>
+
 
 ## The mole and the Avogadro constant
 

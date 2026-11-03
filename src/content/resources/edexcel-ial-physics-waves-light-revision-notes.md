@@ -217,3 +217,9 @@ hf = E2 - E1
 5. Why are line spectra discrete?
 
 **Answers:** 1. Only transverse waves oscillate in planes perpendicular to the direction of travel, so their oscillations can be restricted to one plane; the fact that light can be polarised shows it is transverse. 2. Light must pass from a denser to a less dense medium, and the angle of incidence must exceed the critical angle. 3. One photon interacts with one electron and transfers all its energy at once; increasing intensity supplies more photons but each still carries too little energy, and energy is not accumulated. 4. Electron diffraction — electrons passing through a thin graphite film produce diffraction rings, which is a wave phenomenon. 5. Electron energy levels are discrete, so only photons whose energy exactly matches a difference between two levels can be emitted or absorbed.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-quantum-physics--08-aphy-quantum-energy-levels.webp" width="900" height="1230" alt="Hydrogen energy levels at -13.6, -3.40, -1.51 and -0.85 eV. Falls from n=3 and n=4 to n=2 give 658 nm red and 488 nm blue photons and n=2 to 1 gives 122 nm ultraviolet. A continuous spectrum is shown beside the hydrogen line spectrum with lines at the computed wavelengths." loading="lazy">
+  <figcaption>Each spectral line is one photon whose energy equals a gap between two levels.</figcaption>
+</figure>
+

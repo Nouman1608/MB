@@ -159,32 +159,6 @@ For 2, 5, 9, 14, 20, ... the first differences are 3, 4, 5, 6 and the second dif
 
 To find the 10th term, substitute n = 10: 200 + 30 + 1 = 231. To test whether a number is a term, set the nth term equal to it, rearrange to equal zero and solve the quadratic (see [solving quadratic equations](/resources/oxfordaqa-igcse-mathematics-solving-quadratic-equations-by-factorising-completing/)). A term exists only if you get a positive whole number for n. Reject any negative root.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/oxfordaqa-igcse-mathematics-sequences-nth-terms-and-quadratic-sequences--04-quadratic-a-three.webp" width="900" height="700" alt="The sequence 4, 12, 26, 46, 72 has first differences 8, 14, 20, 26 and constant second differences 6. Half of 6 gives a = 3. Subtracting 3n squared (3, 12, 27, 48, 75) leaves 1, 0, minus 1, minus 2, minus 3, which is minus n plus 2. The nth term is 3n squared minus n plus 2." loading="lazy">
-  <figcaption>Worked example 8: second difference 6 gives a = 3, and what is left over is linear.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/oxfordaqa-igcse-mathematics-sequences-nth-terms-and-quadratic-sequences--05-quadratic-negative-fractional-a.webp" width="900" height="1146" alt="Two difference tables. For 10, 16, 20, 22, 22 the second differences are all minus 2, so a = minus 1; subtracting minus n squared leaves 11, 20, 29, 38, 47 which is 9n plus 2, giving minus n squared plus 9n plus 2. For 4, 9, 15, 22, 30 the second differences are all 1, so a = one half; subtracting n squared over 2 leaves 3.5, 7, 10.5, 14, 17.5 which is 3.5n, giving n squared over 2 plus 7n over 2." loading="lazy">
-  <figcaption>Halve the second difference even when it is negative or odd.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/oxfordaqa-igcse-mathematics-sequences-nth-terms-and-quadratic-sequences--06-is-it-a-term.webp" width="900" height="850" alt="A graph of the terms of 3n squared minus n plus 2 for positions n from 5 to 8, with the smooth curve. The horizontal line at 142 meets a plotted term exactly at n = 7, so 142 is a term. The horizontal line at 150 meets the curve at n about 7.19, between the 7th and 8th terms, so 150 is not a term. The discriminants are 1681 which is 41 squared, and 1777 which is not a perfect square." loading="lazy">
-  <figcaption>A value is a term only if the line meets the curve at a whole-number position.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-mathematics-algebra-and-graphs--06-quadratic-nth-term.webp" width="900" height="980" alt="The sequence 2, 5, 10, 17, 26 has first differences 3, 5, 7, 9 and constant second difference 2. Dot squares show each term as n squared plus one extra dot, so the nth term is n squared plus 1." loading="lazy">
-  <figcaption>A constant second difference means a quadratic nth term.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/sequences-and-proportion--02-differences-type.webp" width="900" height="1202" alt="Four sequences with their difference rows. Linear 3, 7, 11, 15 has constant first differences of 4. Quadratic 1, 4, 9, 16 has constant second differences of 2. Cubic 1, 8, 27, 64 has constant third differences of 6. Exponential 3, 6, 12, 24 has a constant ratio of 2." loading="lazy">
-  <figcaption>Keep taking differences until a row is constant; that row tells you the type.</figcaption>
-</figure>
-
-
 ## Quick self-test
 
 1. A sequence starts at 5 and the rule is "add 4 to the previous term, then double". Write the first three terms.
@@ -210,6 +184,32 @@ To find the 10th term, substitute n = 10: 200 + 30 + 1 = 231. To test whether a 
 8. a = 10 ÷ 2 = **5**.
 9. First differences 5, 9, 13, 17 and second differences 4, so a = 2. The terms of 2n² are 2, 8, 18, 32, 50, and subtracting leaves 3, 2, 1, 0, −1, which is 4 − n. The nth term is **2n² − n + 4**.
 10. n² + 6 = 70 gives n² = 64, so n = 8 (reject −8). **Yes**, it is the 8th term.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-mathematics-sequences-nth-terms-and-quadratic-sequences--04-quadratic-a-three.webp" width="900" height="700" alt="The sequence 4, 12, 26, 46, 72 has first differences 8, 14, 20, 26 and constant second differences 6. Half of 6 gives a = 3. Subtracting 3n squared (3, 12, 27, 48, 75) leaves 1, 0, minus 1, minus 2, minus 3, which is minus n plus 2. The nth term is 3n squared minus n plus 2." loading="lazy">
+  <figcaption>Worked example 8: second difference 6 gives a = 3, and what is left over is linear.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-mathematics-sequences-nth-terms-and-quadratic-sequences--05-quadratic-negative-fractional-a.webp" width="900" height="1146" alt="Two difference tables. For 10, 16, 20, 22, 22 the second differences are all minus 2, so a = minus 1; subtracting minus n squared leaves 11, 20, 29, 38, 47 which is 9n plus 2, giving minus n squared plus 9n plus 2. For 4, 9, 15, 22, 30 the second differences are all 1, so a = one half; subtracting n squared over 2 leaves 3.5, 7, 10.5, 14, 17.5 which is 3.5n, giving n squared over 2 plus 7n over 2." loading="lazy">
+  <figcaption>Halve the second difference even when it is negative or odd.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-mathematics-sequences-nth-terms-and-quadratic-sequences--06-is-it-a-term.webp" width="900" height="850" alt="A graph of the terms of 3n squared minus n plus 2 for positions n from 5 to 8, with the smooth curve. The horizontal line at 142 meets a plotted term exactly at n = 7, so 142 is a term. The horizontal line at 150 meets the curve at n about 7.19, between the 7th and 8th terms, so 150 is not a term. The discriminants are 1681 which is 41 squared, and 1777 which is not a perfect square." loading="lazy">
+  <figcaption>A value is a term only if the line meets the curve at a whole-number position.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-algebra-and-graphs--06-quadratic-nth-term.webp" width="900" height="980" alt="The sequence 2, 5, 10, 17, 26 has first differences 3, 5, 7, 9 and constant second difference 2. Dot squares show each term as n squared plus one extra dot, so the nth term is n squared plus 1." loading="lazy">
+  <figcaption>A constant second difference means a quadratic nth term.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/sequences-and-proportion--02-differences-type.webp" width="900" height="1202" alt="Four sequences with their difference rows. Linear 3, 7, 11, 15 has constant first differences of 4. Quadratic 1, 4, 9, 16 has constant second differences of 2. Cubic 1, 8, 27, 64 has constant third differences of 6. Exponential 3, 6, 12, 24 has a constant ratio of 2." loading="lazy">
+  <figcaption>Keep taking differences until a row is constant; that row tells you the type.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

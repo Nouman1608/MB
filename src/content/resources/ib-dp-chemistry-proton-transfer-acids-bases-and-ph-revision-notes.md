@@ -187,12 +187,6 @@ Base in the flask gives the mirror image. The equivalence point is also called t
 
 Reminder: if 18.75 cm³ of 0.0800 mol dm⁻³ NaOH reaches equivalence with 15.00 cm³ of HCl, then [HCl] = (0.0800 × 18.75) / 15.00 = 0.100 mol dm⁻³, and the curve's starting pH is 1.00.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ib-dp-chemistry-proton-transfer-acids-bases-and-ph--08-strong-strong-ph-curve.webp" width="900" height="900" alt="A computed curve for 20.00 cm cubed of 0.0800 mol per dm cubed HNO3 titrated with 0.100 mol per dm cubed KOH. It starts at pH 1.10, rises slowly, jumps from 3.56 to 10.44 over 0.20 cm cubed, passes equivalence at 16.00 cm cubed and pH 7, then flattens towards pH 13.0." loading="lazy">
-  <figcaption>The curve starts at the acid pH, has a near-vertical section at 16.00 cm3, and flattens towards the pH of the KOH.</figcaption>
-</figure>
-
-
 ## Quick self-test
 
 1. State the conjugate base of H₂O and the conjugate acid of H₂O.
@@ -220,6 +214,12 @@ Reminder: if 18.75 cm³ of 0.0800 mol dm⁻³ NaOH reaches equivalence with 15.0
 9. CH₃CH₂COOH(aq) + NaHCO₃(aq) → CH₃CH₂COONa(aq) + H₂O(l) + CO₂(g).
 10. Ethanoic acid and potassium hydroxide.
 11. The pH of the acid before any base is added; for a strong monoprotic acid, [acid] = 10⁻ᵖᴴ.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-proton-transfer-acids-bases-and-ph--08-strong-strong-ph-curve.webp" width="900" height="900" alt="A computed curve for 20.00 cm cubed of 0.0800 mol per dm cubed HNO3 titrated with 0.100 mol per dm cubed KOH. It starts at pH 1.10, rises slowly, jumps from 3.56 to 10.44 over 0.20 cm cubed, passes equivalence at 16.00 cm cubed and pH 7, then flattens towards pH 13.0." loading="lazy">
+  <figcaption>The curve starts at the acid pH, has a near-vertical section at 16.00 cm3, and flattens towards the pH of the KOH.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

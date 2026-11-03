@@ -123,6 +123,11 @@ The higher carbon content of benzene is why its flame is much sootier.
 4. Yield = 12.4 ÷ 18.2 × 100 = **68.1%**.
 
 <figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-aromatic-chemistry--06-directing-effects.webp" width="900" height="1000" alt="Numbered benzene rings: OH (also NH2, CH3) directs to positions 2, 4, 6 and NO2 directs to 3 and 5. Phenol with dilute HNO3 gives 2- and 4-nitrophenol; nitrobenzene gives 1,3-dinitrobenzene." loading="lazy">
+  <figcaption>OH, NH2 and CH3 direct to 2, 4 and 6; NO2 directs to 3 and 5. (OCR and Cambridge)</figcaption>
+</figure>
+
+<figure class="topic-figure">
   <img src="https://img.marlbridge.com/aqa-a-level-chemistry-aromatic-chemistry--08-chlorine-uv.webp" width="900" height="1190" alt="With UV light, benzene adds chlorine to the ring to give C6H6Cl6, losing delocalisation, while methylbenzene is substituted in the CH3 side chain and the ring stays. Further substitution raises Mr from 92.0 to 126.5, 161.0 and 195.5." loading="lazy">
   <figcaption>UV chlorine adds to the benzene ring but substitutes only the side chain of methylbenzene. (OxfordAQA only)</figcaption>
 </figure>

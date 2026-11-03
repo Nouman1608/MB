@@ -153,6 +153,11 @@ For explain and justify answers, use a chain: the figure, what it means, why it 
 Always compare with an earlier year, a competitor or a target. One figure alone is hard to judge.
 
 <figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-business-analysis-of-accounts--03-judge-with-yardsticks.webp" width="900" height="1050" alt="Hollin Year 2 ROCE of 10% is compared with last year (16%), an illustrative similar firm (12%) and an illustrative target (15%). Prompts then ask why the figure changed." loading="lazy">
+  <figcaption>Judge a ratio against the trend, competitors and targets, then ask why.</figcaption>
+</figure>
+
+<figure class="topic-figure">
   <img src="https://img.marlbridge.com/oxfordaqa-a-level-business-finance--04-profit-margins.webp" width="900" height="880" alt="Four bars on one scale: revenue 640,000, gross profit 256,000 (40%), operating profit 83,200 (13%) and net profit 57,600 (9%). Overheads, not production costs, absorb most of the gross profit." loading="lazy">
   <figcaption>Each profit level leaves a smaller share of revenue as costs are deducted.</figcaption>
 </figure>

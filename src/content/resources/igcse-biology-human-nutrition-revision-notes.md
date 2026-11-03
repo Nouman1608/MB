@@ -179,12 +179,6 @@ villus and the distinct roles of its two internal transport routes:
 glycerol (fat digestion products) specifically — not sugars or
 amino acids.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-biology-human-nutrition--08-villus.webp" width="900" height="1250" alt="Extended. A row of villi on the folded small intestine lining, then one villus enlarged. Its surface epithelium is one cell thick with microvilli on the outside. Inside are a capillary network and a central lacteal. Sugars and amino acids enter the capillaries and go into the blood; fatty acids and glycerol enter the lacteal, which is part of the lymphatic system." loading="lazy">
-  <figcaption>Capillaries take sugars and amino acids; the lacteal takes fatty acids and glycerol.</figcaption>
-</figure>
-
-
 ## Exam traps
 
 - Confusing egestion (undigested food leaving the body) with
@@ -220,3 +214,9 @@ one, since the fat molecules themselves are unchanged. 4. Killing
 harmful microorganisms in food, and providing an acidic pH for
 optimum enzyme activity. 5. Capillaries absorb sugars and amino
 acids; lacteals absorb fatty acids and glycerol.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-human-nutrition--08-villus.webp" width="900" height="1250" alt="Extended. A row of villi on the folded small intestine lining, then one villus enlarged. Its surface epithelium is one cell thick with microvilli on the outside. Inside are a capillary network and a central lacteal. Sugars and amino acids enter the capillaries and go into the blood; fatty acids and glycerol enter the lacteal, which is part of the lymphatic system." loading="lazy">
+  <figcaption>Capillaries take sugars and amino acids; the lacteal takes fatty acids and glycerol.</figcaption>
+</figure>
+

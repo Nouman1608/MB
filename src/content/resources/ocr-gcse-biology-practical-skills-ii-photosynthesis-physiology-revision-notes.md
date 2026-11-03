@@ -96,6 +96,11 @@ Conversions: 1 cm = 10 mm; 1 mm = 1000 µm. For magnification, convert both leng
 </figure>
 
 <figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-practical-skills-ii-photosynthesis-physiology--02-light-intensity-prediction.webp" width="900" height="810" alt="Bars compare measured bubble rates (27.0, 6.5, 1.5 per minute at 10, 20, 40 cm) with predictions from 27.0 multiplied by relative intensity 1, 1/4 and 1/16 (27.0, 6.8, 1.7). The close agreement shows light intensity is the limiting factor." loading="lazy">
+  <figcaption>Predicting the rate at 20 cm and 40 cm from the rate at 10 cm using the inverse square law.</figcaption>
+</figure>
+
+<figure class="topic-figure">
   <img src="https://img.marlbridge.com/ocr-gcse-biology-practical-skills-ii-photosynthesis-physiology--03-pulse-before-after-exercise.webp" width="900" height="780" alt="Strips show 36 beats at rest and 69 beats straight after exercise in 30 seconds. Doubling gives 72 and 138 beats per minute, a rise of 66, which is a 91.7 percent increase." loading="lazy">
   <figcaption>From a 30 second count to beats per minute and percentage increase.</figcaption>
 </figure>
@@ -103,6 +108,16 @@ Conversions: 1 cm = 10 mm; 1 mm = 1000 µm. For magnification, convert both leng
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/ocr-gcse-biology-practical-skills-ii-photosynthesis-physiology--06-sucrose-dilution.webp" width="900" height="700" alt="Three measuring cylinders at the same scale: 20 cm3 of 1.0 M sucrose stock plus 30 cm3 of distilled water make 50 cm3 of 0.4 M sucrose, because 0.4 x 50 = 20." loading="lazy">
   <figcaption>Making a 0.4 M sucrose solution from 1.0 M stock.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-practical-skills-ii-photosynthesis-physiology--11-gas-collection-rate.webp" width="900" height="830" alt="Cabomba in a boiling tube gives oxygen that is collected in a gas syringe; the plunger reads 4.5 cm3 on a 0 to 10 scale. A time line shows 15 minutes. Rate is 4.5 divided by 15, which is 0.30 cm3 per minute." loading="lazy">
+  <figcaption>Collecting gas and dividing volume by time gives a better rate than counting bubbles.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-monoclonal-antibodies-aseptic-technique-and-drug--09-aseptic-technique.webp" width="900" height="1140" alt="Six panels: wipe the bench with alcohol; autoclave glassware and media at about 121 degrees for 15 minutes; flame the loop red hot and cool it in air; work near a Bunsen flame whose updraught carries microbes away; lift the lid only slightly and briefly; hold the lid on with a few short pieces of tape." loading="lazy">
+  <figcaption>Aseptic technique keeps unwanted microorganisms out of a culture.</figcaption>
 </figure>
 
 
@@ -123,12 +138,6 @@ Conversions: 1 cm = 10 mm; 1 mm = 1000 µm. For magnification, convert both leng
 - To improve reliability, repeat more times, use more volunteers or more plates, and control the variables better.
 - To improve accuracy, use a smaller measuring scale (for example a syringe graduated in 0.1 cm³ rather than 1 cm³), a balance that reads to 0.01 g, and a timer, not a guess.
 - Suggest a follow-up: a narrower range of concentrations, another agent, a different plant or a longer soak.
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ocr-gcse-biology-practical-skills-ii-photosynthesis-physiology--11-gas-collection-rate.webp" width="900" height="830" alt="Cabomba in a boiling tube gives oxygen that is collected in a gas syringe; the plunger reads 4.5 cm3 on a 0 to 10 scale. A time line shows 15 minutes. Rate is 4.5 divided by 15, which is 0.30 cm3 per minute." loading="lazy">
-  <figcaption>Collecting gas and dividing volume by time gives a better rate than counting bubbles.</figcaption>
-</figure>
-
 
 ## Worked reminders
 
@@ -186,11 +195,6 @@ Conversions: 1 cm = 10 mm; 1 mm = 1000 µm. For magnification, convert both leng
 8. **It is a negative control: no clear zone shows the disc and agar do not stop growth.**
 9. **Chips begin with different masses, so percentage change allows a fair comparison.**
 10. **Keep mains equipment away from water and dry; handle the plant gently and take only the material needed (any two sensible answers).**
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ocr-gcse-biology-practical-skills-ii-photosynthesis-physiology--02-light-intensity-prediction.webp" width="900" height="810" alt="Bars compare measured bubble rates (27.0, 6.5, 1.5 per minute at 10, 20, 40 cm) with predictions from 27.0 multiplied by relative intensity 1, 1/4 and 1/16 (27.0, 6.8, 1.7). The close agreement shows light intensity is the limiting factor." loading="lazy">
-  <figcaption>Predicting the rate at 20 cm and 40 cm from the rate at 10 cm using the inverse square law.</figcaption>
-</figure>
 
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/ocr-gcse-biology-practical-skills-ii-photosynthesis-physiology--05-potato-chips-zero-crossing.webp" width="900" height="760" alt="Percentage change in chip mass against sucrose concentration: +15.3, +6.7, -2.0, -11.8 and -16.7 percent at 0.0 to 0.8 M. Chips gain mass in dilute solution and lose it in strong solution. A straight line between 0.2 and 0.4 M crosses zero at about 0.35 M, where there is no net water movement." loading="lazy">

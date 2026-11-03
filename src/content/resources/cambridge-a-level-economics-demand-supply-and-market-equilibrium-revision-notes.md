@@ -137,12 +137,6 @@ With two shifts at once, one outcome can be stated with confidence while the oth
 
 Evaluation prompts: how close are the substitutes? What share of final cost is the input? Can producers hold stocks? How long does adjustment take?
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-level-economics-price-system-and-the-microeconomy--09-related-markets.webp" width="900" height="1000" alt="Four pairs of linked markets. Joint demand: more demand for printers raises demand for ink. Alternative demand: a rise in the price of tea raises demand for coffee. Derived demand: more demand for cars raises demand for steel. Joint supply: more beef output raises the supply of leather." loading="lazy">
-  <figcaption>Markets are linked by joint demand, alternative demand, derived demand and joint supply.</figcaption>
-</figure>
-
-
 ## Functions of price (2.4.4)
 
 - **Rationing.** Price rises until quantity demanded matches the limited quantity available.
@@ -159,6 +153,21 @@ Evaluation prompts: rationing by price depends on ability to pay, not need. Sign
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/cambridge-a-level-economics-demand-supply-and-market-equilibrium--13-ds-tickets.webp" width="900" height="1034" alt="With 500 seats fixed, demand 1500 - 10P sells out at 100. When demand rises to 1800 - 10P, 300 people miss out at 100 and price rises to 130 to clear the market: rationing, signalling and incentivising." loading="lazy">
   <figcaption>Price rises from 100 to 130 to ration a fixed 500 seats after demand increases.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-economics-price-system-and-the-microeconomy--09-related-markets.webp" width="900" height="1000" alt="Four pairs of linked markets. Joint demand: more demand for printers raises demand for ink. Alternative demand: a rise in the price of tea raises demand for coffee. Derived demand: more demand for cars raises demand for steel. Joint supply: more beef output raises the supply of leather." loading="lazy">
+  <figcaption>Markets are linked by joint demand, alternative demand, derived demand and joint supply.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-economics-price-system-and-the-microeconomy--08-functions-of-price.webp" width="900" height="940" alt="Demand rises from D1 to D2, moving equilibrium from E1 (price 5.0, quantity 50) to E2 (price 6.3, quantity 67). Rationing: buyers further down D2 are priced out. Signalling: the rising price shows demand has grown. Incentivising: the higher price makes producers supply more, along S from 50 to 67." loading="lazy">
+  <figcaption>A change in price rations scarce goods, signals where demand lies and gives producers an incentive to respond.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-economics-demand-supply-equilibrium--01-ib-price-mechanism-functions.webp" width="900" height="1102" alt="A demand rise creates a shortage at the old price (70 demanded, 50 supplied); price rises from 7 to 8 until 60 units clear. Three icons show signalling (higher price signals demand is up), incentive (sellers supply more, buyers want less) and rationing (goods go to those willing and able to pay)." loading="lazy">
+  <figcaption>A price change performs three linked functions without central planning: signalling, incentive and rationing.</figcaption>
 </figure>
 
 

@@ -125,6 +125,11 @@ Always convert λ to the **same time unit** as the answer requires — a day⁻�
   <figcaption>A straight ln graph supports the exponential law and its gradient is minus lambda.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-nuclear-physics--09-aphy-nuclear-radius.webp" width="900" height="1110" alt="Nuclei with A = 4, 64 and 216 have radii 1.9, 4.8 and 7.2 fm from R = 1.2 A^(1/3) fm. R plotted against the cube root of A is a straight line of gradient R0. Mass and volume both scale with A, so every nucleus has the same density, about 2.3 x 10^17 kg per cubic metre." loading="lazy">
+  <figcaption>Nuclear radius grows as the cube root of A, so nuclear density is constant.</figcaption>
+</figure>
+
 
 ## The three radiations
 
@@ -150,12 +155,6 @@ gamma:   no change to A or Z
 
 Both nucleon number and proton number must **balance** on each side.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-physics-nuclear-physics--02-aphy-nuclear-decay-modes.webp" width="900" height="990" alt="Graph of neutron number against proton number with a narrow band of stable nuclei above the N = Z line. Neutron-rich nuclei above the band decay by beta-minus (Z+1, N-1), proton-rich nuclei below it by beta-plus or electron capture (Z-1, N+1), and very heavy nuclei by alpha (Z-2, N-2)." loading="lazy">
-  <figcaption>The position of a nucleus relative to the stable band decides its decay mode.</figcaption>
-</figure>
-
-
 ## Exam traps
 
 - Binding energy is the energy to **separate** nucleons, not the energy holding them "stored".
@@ -178,3 +177,9 @@ Both nucleon number and proton number must **balance** on each side.
 7. A source has half-life 8.0 days and initial activity 4.8 × 10⁵ Bq. Find its activity after 20 days.
 
 **Answers:** 1. The total binding energy of the nucleus divided by the number of nucleons; the higher it is, the more stable the nucleus. 2. Both move the products towards the peak of the binding-energy-per-nucleon curve near iron-56, so binding energy per nucleon increases and the surplus is released. 3. t½ = 0.693/0.023 = **30 s**. 4. Alpha — its large charge and mass mean it interacts strongly with matter, losing energy rapidly over a short distance, so it is stopped by paper. 5. A is unchanged; Z increases by 1. 6. Mass of nucleons = 2(1.00728) + 2(1.00867) = 4.03190 u; Δm = 4.03190 − 4.00150 = 0.03040 u; E = 0.03040 × 931.5 = 28.3 MeV; per nucleon = 28.3 ÷ 4 = **7.08 MeV**. 7. λ = 0.693 ÷ 8.0 = 0.0866 day⁻¹; A = 4.8 × 10⁵ × e^(−0.0866×20) = **8.49 × 10⁴ Bq**.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-nuclear-physics--02-aphy-nuclear-decay-modes.webp" width="900" height="990" alt="Graph of neutron number against proton number with a narrow band of stable nuclei above the N = Z line. Neutron-rich nuclei above the band decay by beta-minus (Z+1, N-1), proton-rich nuclei below it by beta-plus or electron capture (Z-1, N+1), and very heavy nuclei by alpha (Z-2, N-2)." loading="lazy">
+  <figcaption>The position of a nucleus relative to the stable band decides its decay mode.</figcaption>
+</figure>
+

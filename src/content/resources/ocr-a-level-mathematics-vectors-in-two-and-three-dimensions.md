@@ -53,6 +53,12 @@ The same vector can be written in either form:
 
 Here i, j and k each have length 1 and point along the x-, y- and z-axes. Equal vectors have equal components, so a vector does not depend on where it is drawn.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-vectors--09-foot-of-perpendicular.webp" width="900" height="957" alt="Point P(9, 1) and the line through A(1, 2) with direction (2, 1). Solving PX.d = 5t - 15 = 0 gives t = 3 and X = (7, 5); PX = (-2, 4) is perpendicular to the line and has length 2 root 5. Other points on the line are further from P." loading="lazy">
+  <figcaption>The closest point on a line is where the vector to it is perpendicular to the direction, so set PX.d = 0.</figcaption>
+</figure>
+
+
 ## 1.10c: magnitude, direction and unit vectors
 
 The **magnitude** (modulus) of a vector is its length. Write |a| for the magnitude of a and |→AB| for the magnitude of →AB.
@@ -166,6 +172,12 @@ AB = √(16 + 36 + 16) = √68 = 2√17 ≈ 8.25
 
 **Dividing a line.** When AP : PB = m : n, the point P has position vector p = a + m(b − a)/(m + n). Setting m = n gives the midpoint, (a + b)/2.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-vectors--06-line-equation.webp" width="900" height="1253" alt="The line r = (3, -1) + t(2, 5): a position vector to the point, the direction vector (2, 5), and points for t = -1, 0, 1, 2. Its gradient is 5/2 so y = 5x/2 - 17/2." loading="lazy">
+  <figcaption>A line is one point plus any multiple of a direction vector, in 2D or 3D.</figcaption>
+</figure>
+
+
 ## 1.10g: problems in pure mathematics
 
 Vectors prove geometric facts without coordinates. Pick two non-parallel vectors as a base, write every other vector in terms of them, and compare.
@@ -233,12 +245,6 @@ Parallel to i: the j-component of v is zero.
         r = (4 + 12 − 8)i + (6 − 8 + 4)j = 8i + 2j
 ```
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-vectors--09-foot-of-perpendicular.webp" width="900" height="957" alt="Point P(9, 1) and the line through A(1, 2) with direction (2, 1). Solving PX.d = 5t - 15 = 0 gives t = 3 and X = (7, 5); PX = (-2, 4) is perpendicular to the line and has length 2 root 5. Other points on the line are further from P." loading="lazy">
-  <figcaption>The closest point on a line is where the vector to it is perpendicular to the direction, so set PX.d = 0.</figcaption>
-</figure>
-
-
 ## Common errors
 
 - Forgetting the order in →AB = b − a. It is end minus start.
@@ -248,12 +254,6 @@ Parallel to i: the j-component of v is zero.
 - Mixing scalars and vectors, for example writing a force as "6" when its direction matters, or giving speed as a vector.
 - Proving collinearity with only one vector. You need two vectors with a common point, or equal ratios of components.
 - Giving a direction for a 3D vector. The specification excludes it.
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-vectors--06-line-equation.webp" width="900" height="1253" alt="The line r = (3, -1) + t(2, 5): a position vector to the point, the direction vector (2, 5), and points for t = -1, 0, 1, 2. Its gradient is 5/2 so y = 5x/2 - 17/2." loading="lazy">
-  <figcaption>A line is one point plus any multiple of a direction vector, in 2D or 3D.</figcaption>
-</figure>
-
 
 ## Next steps
 

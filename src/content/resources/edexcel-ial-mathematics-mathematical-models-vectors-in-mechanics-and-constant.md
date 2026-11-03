@@ -228,6 +228,11 @@ The velocity is −34.8 m s⁻¹, downwards; speed is the magnitude, 34.8 m s⁻
   <figcaption>Horizontal motion is uniform and vertical motion has acceleration −g; time links the two.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-kinematics--08-cliff-landing.webp" width="900" height="830" alt="A stone is thrown from a 20 m cliff at 18 m/s and 25 degrees above horizontal. Setting y = minus 20 gives 4.9t² − 7.607t − 20 = 0, with roots 2.94 s and minus 1.39 s. The negative root belongs to the dashed backward extension inside the cliff and is rejected. It lands 48.0 m away at 26.8 m/s." loading="lazy">
+  <figcaption>When the landing level differs, put the landing height into y and reject the negative root.</figcaption>
+</figure>
+
 
 ## Motion graphs
 

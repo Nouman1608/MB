@@ -68,27 +68,6 @@ chemistry, including the formation of transition-element complexes
 (identifying coordination bonds is standard level content, in
 Structure 2.2.3; transition-element complexes are HL)
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ib-dp-chemistry-reactivity-3-mechanisms--01-proton-transfer.webp" width="900" height="910" alt="HCl, the acid, passes an H plus to a water molecule, the base, shown by a curved arrow. The acid becomes chloride, its conjugate base; water becomes H3O plus, its conjugate acid." loading="lazy">
-  <figcaption>An acid donates H+ to a base, producing a conjugate base and a conjugate acid.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ib-dp-chemistry-reactivity-3-mechanisms--03-weak-acid-titration.webp" width="900" height="760" alt="Computed pH curve for 25.0 cm3 of 0.100 M ethanoic acid titrated with 0.100 M NaOH. A shaded buffer region lies before the steep rise; pH equals pKa at half-equivalence and is above 7 at equivalence." loading="lazy">
-  <figcaption>At HL, the weak acid curve shows a buffer region, pH = pKa at half-equivalence and an equivalence pH above 7.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ib-dp-chemistry-reactivity-3-mechanisms--08-lewis-acid-base.webp" width="900" height="930" alt="Ammonia, the Lewis base, donates its nitrogen lone pair to boron in BF3, the Lewis acid, using a curly arrow. A coordinate bond forms and nitrogen and boron each have four bonds in H3N-BF3." loading="lazy">
-  <figcaption>A Lewis base donates an electron pair and a Lewis acid accepts it, forming a coordinate bond.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ib-dp-chemistry-reactivity-3-mechanisms--09-complex-ion.webp" width="900" height="910" alt="A Cu2 plus ion at the centre with six water ligands. Arrows from each water point to the ion, showing donated lone pairs. Water is the Lewis base, copper the Lewis acid, and the coordination number is 6." loading="lazy">
-  <figcaption>In a complex ion, ligands (Lewis bases) donate pairs to the metal ion (Lewis acid).</figcaption>
-</figure>
-
-
 ## How to approach it
 
 For 3.1, keep two entirely separate scales distinct: concentrated
@@ -213,3 +192,24 @@ same source is already cited by the [full syllabus
 guide](/resources/ib-dp-chemistry-syllabus-guide/), which lists this
 component's four numbered sub-topics directly from it. Verified
 2026-09-06.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-reactivity-3-mechanisms--01-proton-transfer.webp" width="900" height="910" alt="HCl, the acid, passes an H plus to a water molecule, the base, shown by a curved arrow. The acid becomes chloride, its conjugate base; water becomes H3O plus, its conjugate acid." loading="lazy">
+  <figcaption>An acid donates H+ to a base, producing a conjugate base and a conjugate acid.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-reactivity-3-mechanisms--03-weak-acid-titration.webp" width="900" height="760" alt="Computed pH curve for 25.0 cm3 of 0.100 M ethanoic acid titrated with 0.100 M NaOH. A shaded buffer region lies before the steep rise; pH equals pKa at half-equivalence and is above 7 at equivalence." loading="lazy">
+  <figcaption>At HL, the weak acid curve shows a buffer region, pH = pKa at half-equivalence and an equivalence pH above 7.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-reactivity-3-mechanisms--08-lewis-acid-base.webp" width="900" height="930" alt="Ammonia, the Lewis base, donates its nitrogen lone pair to boron in BF3, the Lewis acid, using a curly arrow. A coordinate bond forms and nitrogen and boron each have four bonds in H3N-BF3." loading="lazy">
+  <figcaption>A Lewis base donates an electron pair and a Lewis acid accepts it, forming a coordinate bond.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-reactivity-3-mechanisms--09-complex-ion.webp" width="900" height="910" alt="A Cu2 plus ion at the centre with six water ligands. Arrows from each water point to the ion, showing donated lone pairs. Water is the Lewis base, copper the Lewis acid, and the coordination number is 6." loading="lazy">
+  <figcaption>In a complex ion, ligands (Lewis bases) donate pairs to the metal ion (Lewis acid).</figcaption>
+</figure>
+

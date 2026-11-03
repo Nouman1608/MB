@@ -89,6 +89,11 @@ k = 4/5
 Perpendicular means the scalar product is zero. You do not need the magnitudes.
 
 <figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-vectors--02-direction-quadrant.webp" width="900" height="1269" alt="Vectors -3i + 7j and 3i - 7j from the origin. Both have the calculator angle 66.8 degrees, but their directions anticlockwise from i are 113.2 degrees (second quadrant) and 293.2 degrees (fourth quadrant)." loading="lazy">
+  <figcaption>The calculator gives only the acute angle, so sketch the vector and adjust for its quadrant.</figcaption>
+</figure>
+
+<figure class="topic-figure">
   <img src="https://img.marlbridge.com/aqa-a-level-mathematics-vectors--04-collinear-proof.webp" width="900" height="1029" alt="Trapezium ABCD with AB = a, AD = b, DC = 2a and F on AC with AF:FC = 1:2. Then BF = one third of BD, so B, F and D are collinear and BF:FD = 1:2." loading="lazy">
   <figcaption>Write each vector in terms of a and b; two parallel vectors sharing a point prove the points are collinear.</figcaption>
 </figure>
@@ -138,6 +143,11 @@ A shortcut is to use the modulus: cos θ = |d₁.d₂| / (|d₁||d₂|) = 2/3, w
 ### Lines in two dimensions
 
 A line y = mx + c has direction vector (1, m). Use that in the same formula. If a line is given as ax + by = c, its direction vector is (b, −a).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-vectors--01-magnitude-in-3d.webp" width="900" height="910" alt="A box with sides 3, 2 and 6: the floor diagonal is root 13, then the vector a = 3i + 2j + 6k has magnitude 7 (13 + 36 = 49). The angle with the z-axis has cosine 6/7, 31.0 degrees (AQA only; OCR excludes 3D direction)." loading="lazy">
+  <figcaption>The 3D magnitude formula is Pythagoras applied twice, first on the floor and then up the height.</figcaption>
+</figure>
 
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/aqa-a-level-mathematics-vectors--07-intersect-or-skew.webp" width="900" height="916" alt="Top views of two pairs of 3D lines. l1 and l2 cross at (5, 4) and both have z = 5 there, so they intersect at (5, 4, 5). l1 and l3 cross in the top view at (-1, 1) but have z = -4 and z = 2, so they are skew." loading="lazy">
@@ -235,20 +245,15 @@ For triangle ABC, the angle at B is the angle between BA and BC. Use BA.BC = |BA
 - Reporting |AP| as the distance. It is the distance to a point on the line, not the shortest one.
 - Rounding too early. Keep exact surds until the last line.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-vectors--02-direction-quadrant.webp" width="900" height="1269" alt="Vectors -3i + 7j and 3i - 7j from the origin. Both have the calculator angle 66.8 degrees, but their directions anticlockwise from i are 113.2 degrees (second quadrant) and 293.2 degrees (fourth quadrant)." loading="lazy">
-  <figcaption>The calculator gives only the acute angle, so sketch the vector and adjust for its quadrant.</figcaption>
-</figure>
+## Next steps
+
+Work through the [practice questions](/resources/oxfordaqa-a-level-mathematics-the-scalar-product-angles-between-lines-and-practice/), then condense your notes with the [revision notes](/resources/oxfordaqa-a-level-mathematics-the-scalar-product-angles-between-lines-and-revision-notes/).
 
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/aqa-a-level-mathematics-vectors--03-adding-vectors.webp" width="900" height="1161" alt="a = (2, 5) and b = (4, -3). Placing b at the end of a gives a + b = (6, 2) (triangle law); b and a from a common point give the same diagonal (parallelogram law). a - b = (-2, 8) runs from the tip of b to the tip of a." loading="lazy">
   <figcaption>Add head to tail or complete the parallelogram; a - b joins the tip of b to the tip of a.</figcaption>
 </figure>
 
-
-## Next steps
-
-Work through the [practice questions](/resources/oxfordaqa-a-level-mathematics-the-scalar-product-angles-between-lines-and-practice/), then condense your notes with the [revision notes](/resources/oxfordaqa-a-level-mathematics-the-scalar-product-angles-between-lines-and-revision-notes/).
 
 ## Official syllabus
 

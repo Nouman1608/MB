@@ -40,12 +40,6 @@ pressure.
 - **Equality vs growth** — redistributing income through higher taxation
 can reduce the incentive to work or invest, potentially slowing growth.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/aqa-gcse-economics-objectives-of-government--03-objectives-conflict.webp" width="900" height="1010" alt="Flow from an interest rate cut to higher borrowing and spending. Gains: growth rises and unemployment falls. Side effects: demand-pull inflation risk and a worse balance of payments through more imports. Raising rates does the reverse." loading="lazy">
-  <figcaption>A policy that helps one objective can harm another.</figcaption>
-</figure>
-
-
 ## Growth vs development — keep them separate
 
 **Growth** is a rise in output, measured by GDP, real GDP, or GDP per
@@ -88,6 +82,11 @@ question asks which type applies.
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/aqa-gcse-economics-objectives-of-government--02-inflation-causes.webp" width="900" height="1090" alt="Two illustrative AD/AS diagrams. Demand-pull: AD shifts right and the price level rises. Cost-push: AS shifts up and left and the price level rises. Boxes give the cause chain and the policy response from the lesson." loading="lazy">
   <figcaption>Demand-pull starts with demand; cost-push starts with rising costs.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-objectives-of-government--08-labour-market-shifts.webp" width="900" height="1296" alt="Wage and workers diagrams starting at $10 and 120 thousand workers. Automation shifts demand left: wage 7.6, employment 102 thousand. A higher school-leaving age shifts supply left: wage 12.4, employment 108 thousand." loading="lazy">
+  <figcaption>Shifts of labour demand or supply change the equilibrium wage and employment.</figcaption>
 </figure>
 
 
@@ -185,3 +184,9 @@ starts with rising production costs passed on as higher prices;
 demand-pull starts with demand outstripping supply, pulling prices up.
 5. The balance of payments is broader — it includes investment and
 financial flows as well as the balance of trade's goods and services.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-objectives-of-government--03-objectives-conflict.webp" width="900" height="1010" alt="Flow from an interest rate cut to higher borrowing and spending. Gains: growth rises and unemployment falls. Side effects: demand-pull inflation risk and a worse balance of payments through more imports. Raising rates does the reverse." loading="lazy">
+  <figcaption>A policy that helps one objective can harm another.</figcaption>
+</figure>
+

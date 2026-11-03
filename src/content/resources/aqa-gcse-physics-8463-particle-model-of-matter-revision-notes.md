@@ -111,6 +111,16 @@ Unit traps: 1 cm³ = 1 × 10⁻⁶ m³; 1 g = 0.001 kg; 1 g/cm³ = 1000 kg/m³; 
   <figcaption>During melting and boiling energy is supplied but the temperature stays constant.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/measurement-mass-weight-and-density--05-density-regular-solid.webp" width="900" height="1000" alt="A 10 cm by 5 cm by 4 cm block has volume 200 cm3. On a balance it has mass 540 g. Density = 540 / 200 = 2.7 g/cm3." loading="lazy">
+  <figcaption>For a regular solid, calculate the volume from its sides, find the mass on a balance, then divide.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/measurement-mass-weight-and-density--06-density-liquid.webp" width="900" height="930" alt="A measuring cylinder on a balance reads 80 g empty and 112 g with 40 cm3 of liquid. Liquid mass = 112 - 80 = 32 g, so density = 32 / 40 = 0.8 g/cm3." loading="lazy">
+  <figcaption>Subtract the empty container mass before dividing by the liquid volume.</figcaption>
+</figure>
+
 
 ## Required practical 5 -- method in steps
 
@@ -126,6 +136,11 @@ Worked reminder: 0.60 kg in 2.4 × 10⁻⁴ m³ → ρ = **2500 kg/m³**.
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/aqa-gcse-physics-8463-particle-model-of-matter--03-eureka-can-volume.webp" width="900" height="1120" alt="A displacement (eureka) can filled to its spout with a stone lowered fully under the water on a string. The overflow runs into a measuring cylinder reading 18.0 cm3, which is the stone volume, 1.80 x 10^-5 m3. With mass 0.153 kg the density is 8500 kg/m3." loading="lazy">
   <figcaption>The water that overflows has the same volume as the irregular solid.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/measurement-mass-weight-and-density--02-volume-by-displacement.webp" width="900" height="870" alt="A measuring cylinder reads 40 cm3 before a stone is lowered in and 65 cm3 after. The shaded rise is the stone volume, 65 - 40 = 25 cm3. The eye is level with the bottom of the meniscus." loading="lazy">
+  <figcaption>The volume of an irregular solid is the rise in liquid level, not the final reading.</figcaption>
 </figure>
 
 
@@ -160,6 +175,11 @@ Worked reminder: boiling 0.050 kg of water at 100 °C with L = 2 260 000 J/kg �
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/aqa-gcse-physics-8463-particle-model-of-matter--07-internal-energy.webp" width="900" height="810" alt="Three boxes of six particles: a solid, the same solid hotter (arrows twice as long, kinetic energy up) and the solid melted (same speeds, bonds gone, potential energy up). Equal energy is added in both heated cases, so the totals are both 6 against 4 at the start." loading="lazy">
   <figcaption>Heating either raises the temperature (kinetic energy) or changes the state (potential energy).</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-physics-8463-particle-model-of-matter--08-ice-melt-then-warm.webp" width="900" height="850" alt="A graph of temperature against energy for 0.40 kg of ice. A flat part at 0 degrees Celsius takes 133 600 J (E = mL). A sloping part from 0 to 25 degrees Celsius takes 42 000 J (E = mc delta theta). The total is 175 600 J." loading="lazy">
+  <figcaption>The flat part needs more energy than warming the water by 25 degrees.</figcaption>
 </figure>
 
 <figure class="topic-figure">
@@ -199,12 +219,6 @@ Worked reminder: 200 kPa in 0.050 m³, compressed to 0.020 m³ → p₂ = 200 ×
 **Higher tier only (4.3.3.3):** work is the transfer of energy by a force. Doing work on a gas (such as pushing a
 bicycle pump) increases its internal energy, which can raise its temperature.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/aqa-gcse-physics-8463-particle-model-of-matter--09-gas-pv-constant.webp" width="900" height="1030" alt="Two cylinders hold the same six particles at 0.030 and 0.020 cubic metres. A pressure against volume graph is a falling curve for pV = 3.6. Point A is 120 kPa at 0.030 m3 and point B is 180 kPa at 0.020 m3, with dashed guides." loading="lazy">
-  <figcaption>At constant temperature, pressure times volume is constant, so squeezing a gas raises its pressure.</figcaption>
-</figure>
-
-
 ## Quick self-test
 
 1. A block of mass 0.60 kg has a volume of 2.4 × 10⁻⁴ m³. Calculate its density.
@@ -236,6 +250,17 @@ bicycle pump) increases its internal energy, which can raise its temperature.
 11. Work is done on the gas, which **increases its internal energy** and so its temperature.
 12. Δθ = 12 600 ÷ (0.30 × 4200) = **10 °C**
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-physics-8463-particle-model-of-matter--09-gas-pv-constant.webp" width="900" height="1030" alt="Two cylinders hold the same six particles at 0.030 and 0.020 cubic metres. A pressure against volume graph is a falling curve for pV = 3.6. Point A is 120 kPa at 0.030 m3 and point B is 180 kPa at 0.020 m3, with dashed guides." loading="lazy">
+  <figcaption>At constant temperature, pressure times volume is constant, so squeezing a gas raises its pressure.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-gas-pressure-compression-and-the-atmosphere--05-pump-work-heats-gas.webp" width="900" height="980" alt="A piston is pushed 0.20 m by 45 N. A particle bouncing off a fixed wall leaves at the same speed (3 units) but off the moving piston it leaves faster (5 units). The work done is 9.0 J, so the gas is hotter." loading="lazy">
+  <figcaption>Work done on a gas speeds up its particles and raises its temperature.</figcaption>
+</figure>
+
+
 ## Where marks are usually lost
 
 - Leaving volume in cm³ while giving density in kg/m³.
@@ -247,12 +272,6 @@ bicycle pump) increases its internal energy, which can raise its temperature.
 - Saying the particles themselves get bigger when a substance is heated.
 - In gas pressure answers, giving "more collisions" without "per second" or "more often".
 - Applying pV = constant when the temperature is not constant.
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/aqa-gcse-physics-8463-particle-model-of-matter--08-ice-melt-then-warm.webp" width="900" height="850" alt="A graph of temperature against energy for 0.40 kg of ice. A flat part at 0 degrees Celsius takes 133 600 J (E = mL). A sloping part from 0 to 25 degrees Celsius takes 42 000 J (E = mc delta theta). The total is 175 600 J." loading="lazy">
-  <figcaption>The flat part needs more energy than warming the water by 25 degrees.</figcaption>
-</figure>
-
 
 ## Official syllabus
 

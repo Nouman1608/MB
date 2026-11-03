@@ -47,11 +47,6 @@ Afterwards, try the original [practice questions](/resources/oxfordaqa-a-level-a
   <figcaption>The premium above nominal value goes to share premium, not to the income statement.</figcaption>
 </figure>
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/aqa-a-level-accounting-accounting-for-limited-companies--06-rights-vs-bonus.webp" width="900" height="1040" alt="Equity of 605,000 pounds rises to 725,000 after a 1 for 4 rights issue (120,000 of cash). A 1 for 5 bonus issue then moves 75,000 from share premium to share capital with no cash and no change in the 725,000 total." loading="lazy">
-  <figcaption>A rights issue raises cash; a bonus issue only moves reserves into share capital.</figcaption>
-</figure>
-
 
 ## Formulas to know
 
@@ -183,6 +178,16 @@ Afterwards, try the original [practice questions](/resources/oxfordaqa-a-level-a
   <figcaption>Total assets equal total equity plus total liabilities.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-accounting-for-limited-companies--06-rights-vs-bonus.webp" width="900" height="1040" alt="Equity of 605,000 pounds rises to 725,000 after a 1 for 4 rights issue (120,000 of cash). A 1 for 5 bonus issue then moves 75,000 from share premium to share capital with no cash and no change in the 725,000 total." loading="lazy">
+  <figcaption>A rights issue raises cash; a bonus issue only moves reserves into share capital.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-accounting-for-limited-companies--09-goodwill.webp" width="900" height="980" alt="Net assets taken over at agreed values are 316,000 pounds. Larchfield pays 370,000 pounds: 150,000 shares valued at 2.20 plus 40,000 cash. The 54,000 difference is goodwill, an intangible asset tested for impairment and not amortised." loading="lazy">
+  <figcaption>Goodwill is the price paid above the fair value of the net assets bought.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 
@@ -196,6 +201,12 @@ Afterwards, try the original [practice questions](/resources/oxfordaqa-a-level-a
 - Forgetting to add back finance costs when starting from profit before tax.
 - Not labelling where interest and dividends paid are shown.
 - Listing published-accounts elements without stating the purpose of each when the question asks for it.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-accounting-for-limited-companies--02-three-profit-lines.webp" width="900" height="970" alt="A waterfall for Brackwood Joinery Ltd takes revenue 612,000 down through cost of sales to gross profit 264,700, then operating expenses to profit from operations 63,100, finance costs to profit before tax 59,500 and tax to profit after tax 38,500. Dividends are not an expense and do not appear." loading="lazy">
+  <figcaption>Companies show three profit lines; dividends are not an expense.</figcaption>
+</figure>
+
 
 ## Official syllabus
 

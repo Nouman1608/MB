@@ -51,6 +51,11 @@ Class intervals must not overlap and must leave no gaps. With classes 30 ≤ x <
   <figcaption>Use the midpoint of each class, not a boundary, so the mean is only an estimate.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-mathematics-statistics-classifying-data-averages-spread-and--06-compare-bus-routes.webp" width="900" height="970" alt="Two dot plots of minutes late for seven buses. Both routes have mean and median 4, but Route 1 has range 4 and Route 2 has range 8, so Route 1 is more consistent." loading="lazy">
+  <figcaption>Compare data sets with one comment on an average and one on spread.</figcaption>
+</figure>
+
 
 ## Reading tables and lists (S2)
 
@@ -191,6 +196,11 @@ The IQR describes the middle half of the data, so it is not changed by one extre
   <figcaption>Read across at n/4, n/2 and 3n/4, then down; the IQR is UQ minus LQ.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-cumulative-frequency-diagrams--04-percentiles.webp" width="900" height="830" alt="Reading across at 12 gives the 10th percentile, about 14 minutes; reading across at 108 gives the 90th percentile, about 47 minutes. The slowest 10% need the 90th percentile." loading="lazy">
+  <figcaption>The p-th percentile is read at p/100 of the total; the slowest 10% is the 90th percentile.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 
@@ -230,6 +240,12 @@ Which average? Use the median when there is an extreme value, the mode for quali
 9. Position 0.9 × 100 = 90, so the 90th value.
 10. (8 × 5 + 2 × 10) ÷ 10 = 6.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-mathematics-data-types-tables-and-averages--03-mean-vs-extreme.webp" width="900" height="860" alt="Two dot plots on a 0 to 100 scale. The ten message counts from Worked example 4 have median 15.5 and mean 16.6. If the largest value 31 is changed to 91 (an illustrative change not in the lesson), the mean rises to 22.6 while the median stays at 15.5." loading="lazy">
+  <figcaption>One extreme value drags the mean but not the median, which is why the median is chosen when there is an outlier.</figcaption>
+</figure>
+
+
 ## Where marks are usually lost
 
 - Taking a median or quartile from data that has not been put in order.
@@ -242,12 +258,6 @@ Which average? Use the median when there is an extreme value, the mode for quali
 - Leaving out units or totals in a two-way table.
 - Giving the position of a quartile instead of the value there (Extension only).
 - Rounding part-way through a calculation, rather than at the end.
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/oxfordaqa-igcse-mathematics-data-types-tables-and-averages--03-mean-vs-extreme.webp" width="900" height="860" alt="Two dot plots on a 0 to 100 scale. The ten message counts from Worked example 4 have median 15.5 and mean 16.6. If the largest value 31 is changed to 91 (an illustrative change not in the lesson), the mean rises to 22.6 while the median stays at 15.5." loading="lazy">
-  <figcaption>One extreme value drags the mean but not the median, which is why the median is chosen when there is an outlier.</figcaption>
-</figure>
-
 
 ## Official syllabus
 

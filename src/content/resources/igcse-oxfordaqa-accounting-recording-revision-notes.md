@@ -166,12 +166,6 @@ Errors that **do** unbalance the trial balance — a single entry, two debits, o
 
 Treating capital expenditure as revenue **understates profit and understates non-current assets**. Stating the effect on **both** statements is what earns full marks.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/oxfordaqa-igcse-accounting-capital-and-revenue-items-depreciation-and-disposal-of--04-four-kinds.webp" width="900" height="850" alt="A two by two grid of capital or revenue against spending or income, with the Thorncombe Bakery examples and where each is recorded: statement of financial position, income statement, or disposal account or capital." loading="lazy">
-  <figcaption>Capital and revenue, spending and income: four kinds, each with its own home in the accounts.</figcaption>
-</figure>
-
-
 ## Exam traps
 
 - Recording cash sales in the sales journal.
@@ -190,3 +184,14 @@ Treating capital expenditure as revenue **understates profit and understates non
 5. What is the effect of treating capital expenditure as revenue expenditure?
 
 **Answers:** 1. Assets = Capital + Liabilities; under the business entity concept the business is separate from its owner, so capital is money the business owes back to the owner. 2. Credit sales of goods only; cash sales go to the cash book, and sales of non-current assets go to the general journal. 3. A fixed float is restored each period by reimbursing exactly the amount spent, so the reimbursement must equal the total of the vouchers — a discrepancy immediately signals an error or a missing voucher. 4. Commission is posting to the wrong account of the correct type, such as the wrong customer; principle is posting to an entirely wrong type of account, such as an asset recorded as an expense. 5. Profit is understated and non-current assets are understated.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-accounting-capital-and-revenue-items-depreciation-and-disposal-of--04-four-kinds.webp" width="900" height="850" alt="A two by two grid of capital or revenue against spending or income, with the Thorncombe Bakery examples and where each is recorded: statement of financial position, income statement, or disposal account or capital." loading="lazy">
+  <figcaption>Capital and revenue, spending and income: four kinds, each with its own home in the accounts.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-accounting-capital-and-revenue-items-depreciation-and-disposal-of--04-thorncombe-correction.webp" width="900" height="904" alt="Installation 350 wrongly expensed is added back, repair 120 wrongly capitalised is deducted: 21,400 becomes 21,630." loading="lazy">
+  <figcaption>Correcting two misclassifications raises profit by a net 230.</figcaption>
+</figure>
+

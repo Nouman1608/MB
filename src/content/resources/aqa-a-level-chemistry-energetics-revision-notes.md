@@ -55,6 +55,12 @@ Course links: [AQA A-level Chemistry hub](/boards/aqa/a-level/chemistry/) |
 - **Elements in their standard states have ΔfH⦵ = 0** (O₂(g), C(s), Br₂(l), Na(s)). Br₂(g) and O₃(g)
   are not in their standard states, so their ΔfH⦵ is not zero.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-chemical-energetics-lattice-energy-entropy-and-gibbs-free-energy--09-total-entropy.webp" width="900" height="1070" alt="Grouped bars for CaCO3 decomposition at 298, 1079 and 1500 K. System entropy change is +165 each time; surroundings entropy change is -ΔH/T: -597, -165, -119. Total is -432 (not feasible), about 0 (borderline) and +46 (feasible)." loading="lazy">
+  <figcaption>For Edexcel, a reaction is feasible when ΔS(total) = ΔS(system) + ΔS(surroundings) is positive, with ΔS(surroundings) = −ΔH/T.</figcaption>
+</figure>
+
+
 ## Formula table
 
 | Use | Formula | Units and notes |

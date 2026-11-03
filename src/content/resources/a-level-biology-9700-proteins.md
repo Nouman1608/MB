@@ -121,6 +121,11 @@ Two amino acids make a **dipeptide**; many make a **polypeptide**, with a free a
 **Quaternary structure** is the association of **two or more polypeptide chains** into one functional protein. The same interactions as in tertiary structure hold the chains together. A protein made of a single chain has no quaternary structure.
 
 <figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-carbohydrates-and-lipids--01-water-hydrogen-bonds.webp" width="900" height="860" alt="A central bent water molecule (H-O-H about 104.5 degrees) has a slightly negative oxygen and two slightly positive hydrogens. Dotted hydrogen bonds join each hydrogen to the oxygen of a neighbour below, and join a hydrogen of each of two neighbours above to the central oxygen, giving four hydrogen bonds. Solid lines are strong covalent bonds and dotted lines are weak hydrogen bonds." loading="lazy">
+  <figcaption>A polar water molecule can form up to four hydrogen bonds with its neighbours.</figcaption>
+</figure>
+
+<figure class="topic-figure">
   <img src="https://img.marlbridge.com/a-level-biology-9700-carbohydrates-and-lipids--08-protein-structure.webp" width="900" height="1297" alt="Four panels. 1 Primary: nine amino acids in sequence joined by peptide bonds. 2 Secondary: an alpha-helix and a beta-pleated sheet held by hydrogen bonds between backbone groups. 3 Tertiary: a folded chain with a disulfide bond between two cysteines, an ionic bond between lysine and aspartate, a hydrogen bond between serine and asparagine, and hydrophobic interaction between leucines. 4 Quaternary: haemoglobin, two alpha and two beta chains each with a haem group holding Fe2+, binding up to four oxygen molecules." loading="lazy">
   <figcaption>Primary sequence leads to secondary folding, tertiary R-group interactions and quaternary assembly.</figcaption>
 </figure>
@@ -140,6 +145,12 @@ Name the actual interaction and the groups involved: "an ionic bond between oppo
 **Worked example 2.** In a folded protein, a cysteine at position 23 lies next to a cysteine at position 88, a lysine R group (–NH₃⁺) lies next to an aspartate R group (–COO⁻), and several leucine R groups (non-polar) sit in the centre. Name the interaction in each case and state which is most likely to survive heating to 60 °C.
 
 *Solution.* Cysteine–cysteine: a **disulfide bond**. Lysine–aspartate: an **ionic bond**. Leucines: **hydrophobic interactions**. The disulfide bond is covalent, so it is the strongest and most likely to survive heating; hydrogen bonds, ionic bonds and hydrophobic interactions are weaker and are disrupted first.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-carbohydrates-and-lipids--02-water-solvent.webp" width="900" height="1080" alt="Water molecules surround a sodium ion with their slightly negative oxygen atoms facing it, and surround a chloride ion with their slightly positive hydrogens facing it. A glucose ring with OH groups hydrogen bonds to water and dissolves. A non-polar triglyceride droplet cannot, so the water molecules bond to each other around it." loading="lazy">
+  <figcaption>Water dissolves ions and polar molecules, but not non-polar triglycerides.</figcaption>
+</figure>
+
 
 ## 2.3.4 Globular and fibrous proteins
 
@@ -173,12 +184,6 @@ Each chain has its own primary, secondary (mostly α-helix) and tertiary structu
 *Solution.* Four haem groups per molecule, one O₂ per haem: 4 × 2.8 × 10⁸ = **1.12 × 10⁹ oxygen molecules**.
 
 For transport of oxygen and carbon dioxide, and the dissociation curve, see the [Transport in mammals study guide](/resources/a-level-biology-9700-transport-in-mammals/).
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-level-biology-9700-carbohydrates-and-lipids--01-water-hydrogen-bonds.webp" width="900" height="860" alt="A central bent water molecule (H-O-H about 104.5 degrees) has a slightly negative oxygen and two slightly positive hydrogens. Dotted hydrogen bonds join each hydrogen to the oxygen of a neighbour below, and join a hydrogen of each of two neighbours above to the central oxygen, giving four hydrogen bonds. Solid lines are strong covalent bonds and dotted lines are weak hydrogen bonds." loading="lazy">
-  <figcaption>A polar water molecule can form up to four hydrogen bonds with its neighbours.</figcaption>
-</figure>
-
 
 ## 2.3.7 The structure of collagen
 

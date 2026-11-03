@@ -86,6 +86,11 @@ Glutamic acid is HOOC–CH₂CH₂–CH(NH₂)–COOH. Draw the ions formed in a
 3. Excess alkali: both –COOH become –COO⁻; the –NH₂ stays. **⁻OOC–CH₂CH₂–CH(NH₂)–COO⁻**, charge −2.
 
 <figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-amines--04-substitution-ladder.webp" width="900" height="1280" alt="Ammonia reacts with RX to give primary, secondary, tertiary amines and finally a quaternary ammonium ion; the first four have a lone pair on N, the quaternary ion has none so the sequence stops. Excess NH3 favours primary, excess RX the quaternary salt. AQA and OxfordAQA also need long-chain quaternary ammonium salts as cationic surfactants." loading="lazy">
+  <figcaption>Repeated substitution gives primary, secondary, tertiary amines and a quaternary salt; long-chain quaternary salts are cationic surfactants (AQA, OxfordAQA).</figcaption>
+</figure>
+
+<figure class="topic-figure">
   <img src="https://img.marlbridge.com/aqa-a-level-chemistry-amines--07-amino-acid-ions.webp" width="900" height="930" alt="Glycine shown as H3N+CH2COOH (overall +1) in acid, the zwitterion H3N+CH2COO- (0) in neutral solution and H2NCH2COO- (-1) in alkali, with arrows for adding OH- (down) and H+ (up)." loading="lazy">
   <figcaption>In acid, neutral and alkaline solution an amino acid is a +1 ion, a zwitterion and a -1 ion.</figcaption>
 </figure>
@@ -157,6 +162,11 @@ The dipeptide H₂N–CH(CH₂C₆H₅)–CO–NH–CH(CH(CH₃)CH₂CH₃)–CO
 - **β-pleated sheet**: stretches of chain lie side by side, and C=O groups on one stretch hydrogen bond to N–H groups on the next.
 
 **Sulfur–sulfur bonds.** The side chain of cysteine is –CH₂SH. Two such –SH groups that meet in the folded chain can be oxidised to an S–S link: a covalent bond, much stronger than a hydrogen bond, that ties together distant parts of the chain and locks the tertiary shape. Methionine's –CH₂CH₂SCH₃ cannot do this, as it has no S–H bond.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-amines--02-base-strength.webp" width="900" height="1030" alt="Three rows compare the lone pair on N as a teal cloud: dense in ethylamine (alkyl pushes electrons onto N), average in ammonia, spread into the ring in phenylamine. A gauge ranks base strength ethylamine &gt; ammonia &gt; phenylamine." loading="lazy">
+  <figcaption>The more available the nitrogen lone pair, the stronger the base: ethylamine &gt; ammonia &gt; phenylamine.</figcaption>
+</figure>
 
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/aqa-a-level-chemistry-amines--09-protein-structure.webp" width="900" height="1200" alt="Primary: order of amino acids joined by peptide links. Secondary: an alpha-helix or beta-pleated sheet held by hydrogen bonds between peptide links. Tertiary: the whole chain folded in 3D, held by hydrogen bonds and S-S bonds between side chains such as two cysteines." loading="lazy">

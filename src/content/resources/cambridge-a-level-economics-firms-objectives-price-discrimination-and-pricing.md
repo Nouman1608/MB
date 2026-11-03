@@ -229,6 +229,11 @@ Limits: the theory does not explain how the price was set, and firms do sometime
   <figcaption>Whether a price cut raises revenue depends on whether demand is elastic or inelastic.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-economics-price-system-and-the-microeconomy--01-ped-along-a-straight-line.webp" width="900" height="1030" alt="Straight-line demand curve D with price = 10 minus 0.1 times quantity, teal in its upper half and gold in its lower half. PED is 4 at quantity 20, exactly 1 at quantity 50 and 0.25 at quantity 80, so elasticity falls as you move down the line although the slope is constant. Below, total revenue is 160, then a maximum of 250 at quantity 50 where PED is 1, then 160 again." loading="lazy">
+  <figcaption>Elasticity falls along a straight demand line, and revenue peaks where PED = 1.</figcaption>
+</figure>
+
 
 ## Common errors
 

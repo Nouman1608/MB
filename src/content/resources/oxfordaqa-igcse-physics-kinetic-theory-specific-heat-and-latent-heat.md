@@ -179,6 +179,11 @@ The curve falls, stays flat at the freezing point while the acid solidifies, the
   <figcaption>The pin on the best conductor falls first.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-physics-thermal-physics--05-convection-current.webp" width="900" height="880" alt="A beaker with a purple crystal at one bottom corner heated from below. The purple dye rises over the heated spot, crosses the top, sinks on the far side and returns along the bottom." loading="lazy">
+  <figcaption>Heated water becomes less dense and rises; cooler, denser water sinks to replace it.</figcaption>
+</figure>
+
 
 ## Evaporation and condensation (3.4.2 b)
 

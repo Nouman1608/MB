@@ -190,6 +190,16 @@ Non-cash deals, such as shares issued in exchange for a building, are not cash f
   <figcaption>External and internal audit differ in who appoints, who reports and what is reviewed.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-the-impact-of-ethical-considerations--06-governance-checks.webp" width="900" height="910" alt="Shareholders appoint the board and the external auditors; auditors report back to shareholders. The board has a chair and a CEO who are different people, plus independent non-executive directors. Audit and remuneration committees, made of independent NEDs, sit below; the remuneration committee sets directors’ pay. AQA only: comply or explain." loading="lazy">
+  <figcaption>Independent checks stop directors from marking their own homework.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-the-impact-of-ethical-considerations--03-audit-opinions.webp" width="900" height="1030" alt="A question chain: enough evidence? If not, disclaimer. Material misstatement? If not, unmodified. Pervasive? If not, qualified (except for); if so, adverse. An OxfordAQA example shows 85,000 left out of 940,000 profit before tax, 9.0 percent, material but not pervasive, so qualified." loading="lazy">
+  <figcaption>Three questions decide which of the four audit opinions is given.</figcaption>
+</figure>
+
 
 ## Evaluation points to have ready
 

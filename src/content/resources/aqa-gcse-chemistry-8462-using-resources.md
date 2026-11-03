@@ -116,6 +116,11 @@ Copper is then obtained by **displacement using scrap iron** (Fe + CuSO₄ → F
   <figcaption>The more reactive metal loses electrons and displaces the less reactive metal.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-chemistry-metals--07-phytomining-bioleaching.webp" width="900" height="990" alt="Phytomining: plants grow on copper-rich soil, are harvested and burned and the ash holds copper compounds. Bioleaching: bacteria produce a leachate, a solution with copper compounds. Copper is then obtained by electrolysis or scrap-iron displacement." loading="lazy">
+  <figcaption>Two newer ways to get copper from low-grade ores.</figcaption>
+</figure>
+
 
 ## 4.10.2 Life cycle assessment and recycling
 
@@ -226,6 +231,12 @@ mass of gold = 14/24 × 6.0 = 3.5 g
 
 You may be given data to compare glass, ceramics, polymers, composites and metals, and asked to select a material. Match each property to the job: density, strength, brittleness, melting point, cost.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-chemistry-synthetic-and-naturally-occurring-polymers--02-thermosoftening-thermosetting.webp" width="900" height="1040" alt="Top: separate chains joined only by weak dashed intermolecular forces; heating overcomes them so chains slide and the plastic softens. Bottom: chains joined by strong covalent cross-links drawn as thick bars; heating does not break them so the plastic does not melt." loading="lazy">
+  <figcaption>Weak forces between chains let a thermosoftening polymer soften; covalent cross-links stop a thermosetting polymer melting.</figcaption>
+</figure>
+
+
 ## 4.10.4 The Haber process and NPK fertilisers
 
 ### The Haber process (4.10.4.1)
@@ -277,6 +288,16 @@ mass of N = 2 × 14 = 28
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/aqa-gcse-chemistry-8462-using-resources--03-phosphate-rock-routes.webp" width="900" height="940" alt="Insoluble phosphate rock reacts with nitric, sulfuric or phosphoric acid to give phosphoric acid and calcium nitrate, single superphosphate, or triple superphosphate. N comes from ammonium nitrate and K from mined salts." loading="lazy">
   <figcaption>Phosphate rock must be treated with acid to make soluble fertilisers.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/rates-of-reaction-and-reversible-reactions--06-dynamic-equilibrium.webp" width="900" height="990" alt="Rate against time: forward rate falls, reverse rate rises from zero, and they meet and stay level. Particle boxes show 12 A at the start and 4 A plus 8 B at equilibrium with fixed numbers." loading="lazy">
+  <figcaption>At equilibrium the forward and reverse rates are equal and the amounts no longer change.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/rates-of-reaction-and-reversible-reactions--04-catalyst-profile.webp" width="900" height="860" alt="Energy against progress of reaction for an exothermic reaction. A high hump without a catalyst and a lower dashed hump with a catalyst; the arrow from reactants to hump top is E_a, smaller with a catalyst." loading="lazy">
+  <figcaption>A catalyst provides an alternative pathway with lower activation energy.</figcaption>
 </figure>
 
 

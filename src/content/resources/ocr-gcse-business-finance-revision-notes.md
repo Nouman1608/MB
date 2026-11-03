@@ -167,6 +167,11 @@ Sales above 500 earn £3.50 profit each; sales below 500 make a loss.
   <figcaption>At £20 price, £12 variable cost and £4,800 fixed costs, a business breaks even at 600 units a month.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-business-business-activity-marketing-and-people--06-bakery-break-even.webp" width="900" height="1060" alt="Revenue at 2.20 per loaf, fixed costs 400 and 0.80 variable cost per loaf. The lines cross at 286 loaves; at 500 loaves profit is 300 pounds." loading="lazy">
+  <figcaption>Break-even output is fixed costs divided by contribution per loaf: 400 / 1.40 = 286 loaves.</figcaption>
+</figure>
+
 
 ## 5.5 Cash and cash flow
 
@@ -197,6 +202,16 @@ Sales above 500 earn £3.50 profit each; sales below 500 make a loss.
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/ocr-gcse-business-finance--04-drovers-cash-carried-forward.webp" width="900" height="810" alt="Bars show opening and closing cash for January to March. January opens at 2,400 pounds and closes at 1,600 after net cash flow of minus 800. February opens at 1,600 and closes 200 pounds overdrawn after minus 1,800. March opens at minus 200 and closes at 1,000 after plus 1,200. Dashed arrows carry each closing balance forward as the next opening balance." loading="lazy">
   <figcaption>Each month closing balance is the next month opening balance; Drovers is 200 pounds overdrawn at the end of February.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-business-business-operations--07-profit-not-cash.webp" width="900" height="985" alt="Illustrative: profit of 2,000 pounds each month, but cash at month end is minus 3,000, minus 1,000 then plus 1,000 pounds because customers pay a month late." loading="lazy">
+  <figcaption>A business can make a profit on paper yet run out of cash if customers pay late.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-business-finance--06-cash-flow-forecast.webp" width="900" height="1110" alt="Paired bars show cash in and cash out for three months, with closing balances 1,300, (1,300) and 1,500. Each opening balance is the previous closing balance; month 2 is overdrawn by 1,300." loading="lazy">
+  <figcaption>A business can run out of cash in a month even when it trades well overall.</figcaption>
 </figure>
 
 

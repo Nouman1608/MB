@@ -36,6 +36,12 @@ This guide is aligned to the AQA AS and A-level Biology specification (A-level 7
 
 The specification links this section to apparatus and techniques d, e and f (light microscope use including a graticule, scientific drawing, and qualitative reagents). It suggests that you could use iodine in potassium iodide solution to identify starch grains in plant cells.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-biology-eukaryotic-and-prokaryotic-cell-structure--02-plant-cell.webp" width="900" height="830" alt="A plant cell drawn above part of its neighbour. A thick cellulose cell wall surrounds the cell surface membrane. Inside are a nucleus, a chloroplast with grana, an amyloplast with starch grains, and a large permanent vacuole bounded by the tonoplast. Between the two cells are the middle lamella, plasmodesmata channels through both walls, and a pair of aligned pits." loading="lazy">
+  <figcaption>Plant cells add a cellulose wall, chloroplasts, a large vacuole with a tonoplast and plasmodesmata; amyloplast, middle lamella and pits are Edexcel statements.</figcaption>
+</figure>
+
+
 ## Magnification and resolution
 
 **Magnification** tells you how much bigger the image appears than the specimen really is. **Resolution** is the smallest separation at which two neighbouring points are still seen as two, not one blob.

@@ -93,6 +93,11 @@ Example: sales demand is 5,000 units but machines can make 4,200. The sales budg
   <figcaption>The cash budget warns months ahead that an overdraft will be needed.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-budgeting--05-profit-not-cash.webp" width="900" height="910" alt="A waterfall starts at budgeted profit of 17,700 pounds, adds back 2,000 depreciation, then subtracts the van (15,000), drawings (7,500) and higher receivables (7,500) and adds higher payables (3,600). The bank falls by 6,700, from 3,200 to a 3,500 overdraft." loading="lazy">
+  <figcaption>A profitable budget can still leave the bank overdrawn because profit is not cash.</figcaption>
+</figure>
+
 
 ## Formula table
 
@@ -185,6 +190,12 @@ Fixed budget profit 8,000 plus volume effect 3,300 (150 extra bikes x 22 contrib
 - Managers are held to account for price, efficiency and spending, not for sales volume they did not control.
 - Targets look fairer, so they are more likely to be accepted.
 - The size of the difference caused by volume alone can be shown separately (extra units x contribution per unit).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-budgeting--06-flexed-budget.webp" width="900" height="960" alt="A waterfall from budget profit of 30,000 pounds adds 6,000 for 200 extra lamps to give a flexed profit of 36,000, then subtracts adverse price (3,300), materials (1,650) and fixed overhead (1,100) variances and adds a favourable labour variance (440) to reach actual profit of 30,390." loading="lazy">
+  <figcaption>Flex the budget to actual output first; then the variances show the real story.</figcaption>
+</figure>
+
 
 ## Layout of the two reconciliations
 

@@ -226,6 +226,11 @@ NO₂⁻ + H₂O → NO₃⁻ + 2H⁺ + 2e⁻
 5. Check: N goes from +3 to +5, a rise of 2, and 2 electrons are lost. This is an **oxidation**.
 
 <figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-electrochemistry-electrolysis-and-electrode-potentials--01-zinc-copper-cell.webp" width="900" height="1130" alt="Two beakers are joined by a salt bridge. Zinc in Zn2+ is the negative electrode where zinc is oxidised; copper in Cu2+ is the positive electrode where Cu2+ is reduced. Electrons flow through a wire past a 1.10 V voltmeter from zinc to copper, and the cell is written Zn(s) | Zn2+(aq) || Cu2+(aq) | Cu(s)." loading="lazy">
+  <figcaption>In the zinc-copper cell electrons flow from the negative zinc electrode to the positive copper electrode, giving E° cell = +1.10 V.</figcaption>
+</figure>
+
+<figure class="topic-figure">
   <img src="https://img.marlbridge.com/a-electrochemistry-electrolysis-and-electrode-potentials--03-series-ladder.webp" width="900" height="1120" alt="Ten half-equations are ranked from E° +1.51 V (MnO4-/Mn2+) at the top to -2.37 V (Mg2+/Mg) at the bottom. The left-hand species gain electrons and are the oxidising agents, strongest at the top; the right-hand species give electrons and are reducing agents, strongest at the bottom." loading="lazy">
   <figcaption>A more positive E° means a stronger oxidising agent; a more negative E° means a stronger reducing agent.</figcaption>
 </figure>

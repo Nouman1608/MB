@@ -52,12 +52,6 @@ These are condensed notes for section 1.1 Enterprise of the Cambridge Internatio
 
 Value added = selling price − cost of bought-in materials and services. It is a standard form. It is not profit, because wages and overheads come out of it.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-business-understanding-business-activity--03-added-value.webp" width="900" height="990" alt="Selling price 50 splits into materials 20 and added value 30; the 30 then pays wages 12, rent 6, other costs 4 and leaves profit 8. Added value can rise by raising price or cutting material cost." loading="lazy">
-  <figcaption>Added value is selling price minus bought-in materials, and profit is only what remains after other costs.</figcaption>
-</figure>
-
-
 ### Reminders
 
 - To add value: branding, design, quality, service, convenience, speed.
@@ -96,6 +90,11 @@ Must-know distinction: international is about where it sells; multinational is a
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/ocr-gcse-business-business-activity-marketing-and-people--01-entrepreneur-risk-reward.webp" width="900" height="1120" alt="Land, labour and capital feed into the entrepreneur, who organises them into business activity. Below, risks (failure, lost capital, long hours) are set against rewards (profit, control)." loading="lazy">
   <figcaption>The entrepreneur organises the factors of production and bears risk in return for reward.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/enterprise-business-growth-and-size--08-new-business-risk.webp" width="900" height="1000" alt="Example with invented numbers. A new business with $20m capital and an established one with $100m both lose $30m early. The new firm is $10m short and fails; the established one keeps $70m. New firms have less capital, market knowledge, customers and experience." loading="lazy">
+  <figcaption>The same early loss can finish a new business but not an established one.</figcaption>
 </figure>
 
 
@@ -172,6 +171,11 @@ Small worked reminder: a forecast of 150 orders at £12 gives monthly sales reve
   <figcaption>An entrepreneur writes a business plan, and governments often support start-ups.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-business-business-in-the-real-world--03-business-plan.webp" width="900" height="760" alt="A business plan with five parts: the idea, target market, marketing, objectives and financial forecasts covering start-up costs, sales and cash flow. Arrows lead to its two readers. Lenders and investors judge viability and risk; the entrepreneur spots costly mistakes before spending money." loading="lazy">
+  <figcaption>A plan helps secure finance and reduces the entrepreneur’s own risk of costly mistakes.</figcaption>
+</figure>
+
 
 ## Worked reminders
 
@@ -180,6 +184,11 @@ Small worked reminder: a forecast of 150 orders at £12 gives monthly sales reve
 **Opportunity cost.** A florist can accept a wedding order worth £640 with £280 of materials, a net £360, or run an events stall worth £430 with £120 of materials, a net £310. If she takes the wedding, the opportunity cost is the £310 net she gives up. Take net figures where costs are given, and name only the next best option.
 
 **Scale and risk in context.** A bakery selling in one town is local. If it ships across the country it is national. If it exports to three countries it is international. If it opens its own ovens in two of them it is multinational. Whenever a case shows a risk, ask whether the probabilities could be estimated; if not, call it uncertainty.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-business-enterprise--05-en-value-added.webp" width="900" height="770" alt="Two stacked bars per loaf. A plain loaf sells at 4.60 pounds with 1.00 of bought-in ingredients and packaging, so value added is 3.60 and 700 loaves a week add 2,520 pounds. With a printed bag and story card the price is 4.90, bought-in cost 1.10, value added 3.80 and weekly value added 2,660, a rise of 140 if sales volume holds. Value added is not profit." loading="lazy">
+  <figcaption>Adding a printed bag and story card raises value added per loaf and per week.</figcaption>
+</figure>
 
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/cambridge-a-level-business-enterprise--06-en-opportunity-cost.webp" width="900" height="780" alt="Two bars to the same scale. Repairs for 40 hours at 27 pounds an hour bring in 1,080. Two custom frames each selling at 620 with 150 of materials bring in 2 times 470, which is 940. If Bastian builds the frames, the opportunity cost is the next best alternative given up: the 1,080 of repair income. Opportunity cost shows what a decision costs; it does not by itself say which choice is right." loading="lazy">
@@ -230,6 +239,12 @@ For case studies, quote at least one figure or fact in every developed paragraph
 9. Any two, such as clarifying the idea and persuading a lender.
 10. Any two, such as unreliable assumptions and going out of date.
 11. Wages, rent and other overheads must still be paid out of value added.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-understanding-business-activity--03-added-value.webp" width="900" height="990" alt="Selling price 50 splits into materials 20 and added value 30; the 30 then pays wages 12, rent 6, other costs 4 and leaves profit 8. Added value can rise by raising price or cutting material cost." loading="lazy">
+  <figcaption>Added value is selling price minus bought-in materials, and profit is only what remains after other costs.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

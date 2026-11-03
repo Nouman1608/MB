@@ -244,6 +244,17 @@ and **valves** stop it flowing backwards.
 thick, so the diffusion distance is short. Oxygen and glucose diffuse out to the cells, and carbon dioxide and other
 wastes diffuse in. Huge numbers of capillaries mean every cell is close to one.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-transport-in-animals--04-blood-vessels.webp" width="900" height="1230" alt="Cross-sections of an artery (thick muscular elastic wall, narrow lumen), a vein (thin wall, wide lumen) and a capillary (wall one cell thick, very narrow lumen), plus a side view of a vein valve. Extended notes link structure to pressure and function." loading="lazy">
+  <figcaption>Wall thickness and lumen size are matched to the job of each vessel.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-transport-in-animals--05-capillary-exchange.webp" width="900" height="740" alt="A capillary with a wall one cell thick runs past body cells. Oxygen and glucose pass out of the blood to the cells; carbon dioxide and other wastes pass from the cells into the blood." loading="lazy">
+  <figcaption>Capillaries bring blood close to every cell so substances can be exchanged.</figcaption>
+</figure>
+
+
 ## Rate calculations for blood flow (MS 1a, 1c)
 
 A rate is an amount divided by time. Write the formula, substitute, and give the unit.

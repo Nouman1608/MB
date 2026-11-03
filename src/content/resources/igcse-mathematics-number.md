@@ -94,17 +94,6 @@ interest (reverse percentages are Extended only, E1.13)
 
 (C1.17 and C1.18 are Extended-only and not part of Core content.)
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-mathematics-number--01-types-of-number.webp" width="900" height="930" alt="Nested ovals show natural numbers inside integers inside rational numbers, with irrational numbers (pi, root 2, root 3) outside, a separate group that cannot be written as a fraction." loading="lazy">
-  <figcaption>Every natural number is an integer, and every integer is rational; irrational numbers are a separate group.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-mathematics-number--03-standard-form.webp" width="900" height="880" alt="Digit boxes show the decimal point of 4 560 000 jumping 6 places left to give 4.56 x 10^6, and of 0.00032 jumping 4 places right to give 3.2 x 10^-4. A must lie between 1 and 10." loading="lazy">
-  <figcaption>Move the decimal point until the number is between 1 and 10; the count of moves is the power of 10.</figcaption>
-</figure>
-
-
 ## Worked examples
 
 **Prime factorisation, HCF and LCM.** Writing a number as a product of
@@ -220,3 +209,14 @@ for exam-style practice with full mark schemes, see the
 
 Cambridge IGCSE Mathematics 0580 syllabus for 2025, 2026 and 2027 —
 [cambridgeinternational.org](https://www.cambridgeinternational.org/Images/662466-2025-2027-syllabus.pdf).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-number--01-types-of-number.webp" width="900" height="930" alt="Nested ovals show natural numbers inside integers inside rational numbers, with irrational numbers (pi, root 2, root 3) outside, a separate group that cannot be written as a fraction." loading="lazy">
+  <figcaption>Every natural number is an integer, and every integer is rational; irrational numbers are a separate group.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-number--03-standard-form.webp" width="900" height="880" alt="Digit boxes show the decimal point of 4 560 000 jumping 6 places left to give 4.56 x 10^6, and of 0.00032 jumping 4 places right to give 3.2 x 10^-4. A must lie between 1 and 10." loading="lazy">
+  <figcaption>Move the decimal point until the number is between 1 and 10; the count of moves is the power of 10.</figcaption>
+</figure>
+

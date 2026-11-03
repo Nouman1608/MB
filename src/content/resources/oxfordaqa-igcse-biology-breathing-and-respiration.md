@@ -156,6 +156,16 @@ Plants and animals both respire aerobically without a break, and a plant does so
   <figcaption>Aerobic respiration uses oxygen and releases much energy per glucose.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-respiration--03-anaerobic-respiration.webp" width="900" height="1290" alt="Without oxygen, yeast turns glucose into ethanol and carbon dioxide; muscles in vigorous exercise turn glucose into lactic acid only, with no carbon dioxide. Schematic bars show both release much less energy than aerobic respiration. Extended panel: C6H12O6 gives 2C2H5OH + 2CO2." loading="lazy">
+  <figcaption>Anaerobic respiration releases much less energy, and yeast and muscle make different products.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-respiration--05-oxygen-debt.webp" width="900" height="1290" alt="Extended. Lactic acid built up in the muscles is carried by the blood, driven by a fast heart rate, to the liver, where it is broken down by aerobic respiration using extra oxygen supplied by deeper, faster breathing. Charts of the cyclist example show heart rate 64, 172, 118, 66 and breathing rate 14, 40, 26, 15 at rest, end of sprint, 5 and 15 minutes after." loading="lazy">
+  <figcaption>Fast heart rate moves lactic acid to the liver and fast breathing supplies the oxygen to break it down.</figcaption>
+</figure>
+
 
 ## 3.2.6 f: what the energy is used for
 
@@ -169,6 +179,11 @@ Notice that the energy transferred is used by the cell; it is not "made". Energy
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/oxfordaqa-igcse-biology-breathing-and-respiration--02-plant-respiration-energy.webp" width="900" height="810" alt="A plant cell contains several labelled mitochondria, where most respiration reactions happen. An energy arrow runs from the cell to a reaction in which sugar and nitrate join to make an amino acid, and amino acids are then built into a protein chain." loading="lazy">
   <figcaption>Respiration in mitochondria transfers the energy a plant cell uses to build sugars and nitrates into amino acids and then proteins.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-respiration--01-uses-of-energy.webp" width="900" height="1100" alt="Glucose is respired and energy is released. Seven small pictures show its uses: muscle contraction, protein synthesis, cell division, active transport, growth, passage of nerve impulses and maintaining a constant body temperature (37 degrees Celsius)." loading="lazy">
+  <figcaption>Respiration releases the energy cells use for these seven jobs.</figcaption>
 </figure>
 
 
@@ -196,6 +211,11 @@ Breathing rate rose by a larger percentage than pulse. Counting for 15 seconds a
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/oxfordaqa-igcse-biology-breathing-and-respiration--04-exercise-percent-change.webp" width="900" height="990" alt="Two pairs of horizontal bars. Pulse rises from 68 to 112 beats per minute, a 64.7 percent increase (about 65 percent). Breathing rate rises from 15 to 31 breaths per minute, a 106.7 percent increase (about 107 percent). A third pair of bars compares the percentages, showing breathing rate rose by more. The formula divides the change by the original value." loading="lazy">
   <figcaption>Both pulse and breathing rate rise with exercise, but breathing rate rises by the larger percentage because the change is divided by the smaller starting value.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-gas-exchange-in-humans--06-exercise-breathing.webp" width="900" height="960" alt="Lesson example: at rest 16 breaths per minute, after two minutes of skipping 44 (2.75 times). Depth rises from 0.5 to 2.0 dm3 per breath (4 times). Air moved per minute rises from 8 to 88 dm3, 11 times, because rate times depth gives volume per minute." loading="lazy">
+  <figcaption>Exercise raises both the rate and depth of breathing, so air moved per minute rises 11 times.</figcaption>
 </figure>
 
 
@@ -246,6 +266,11 @@ A typical plan: measure pulse and breathing rate at rest, then after a set exerc
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/oxfordaqa-igcse-biology-breathing-and-respiration--03-step-test-plan.webp" width="900" height="1030" alt="A timeline of three stages: rest, two minutes of stepping on and off a step, and recovery, with pulse and breathing rate measured at each. Below, three labelled rows show the variable that is changed (exercise), the variables measured (pulse rate and breathing rate) and the things kept the same (same person, step height and rate, timing and room). A final strip shows three resting pulse readings of 66, 70 and 68 giving a mean of 68." loading="lazy">
   <figcaption>The step-test plan: change the exercise, measure pulse and breathing rate, keep everything else the same, then repeat and take a mean.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-transport-in-animals--08-heart-rate-exercise.webp" width="900" height="1130" alt="Bar chart from the lesson worked example: mean resting rate 74 beats per minute, mean after exercise 118, an increase of 44 (59 per cent). Extended panel: active muscles respire faster, need more oxygen and glucose and produce more carbon dioxide, so the heart rate rises to supply and remove them faster." loading="lazy">
+  <figcaption>After exercise the mean heart rate rose from 74 to 118 beats per minute, a 59% increase.</figcaption>
 </figure>
 
 

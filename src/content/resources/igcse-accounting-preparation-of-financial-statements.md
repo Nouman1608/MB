@@ -212,12 +212,6 @@ period, not a record of what happened during it.
 | Non-current liabilities | Amounts due for payment after more than twelve months | Long-term bank loan |
 | Capital | The owner's equity: what the business owes the owner | Opening capital + capital introduced + profit for the year – drawings |
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/aqa-a-level-accounting-accounting-for-organisations-with-incomplete-records--05-doubtful-debts-provision.webp" width="900" height="800" alt="Receivables of 19,100 pounds carry a 5 percent provision of 955 pounds, so the statement of financial position shows 18,145 pounds. The old provision was 900 pounds, so only the 55 pound increase is charged as an expense." loading="lazy">
-  <figcaption>Only the change in the provision goes to the income statement; the full provision is deducted from receivables.</figcaption>
-</figure>
-
-
 ### The adjustments and where they go
 
 The ledger entries for each adjustment are taught in Topic 4,
@@ -246,8 +240,8 @@ In the financial statements:
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/aqa-a-level-accounting-accounting-for-organisations-with-incomplete-records--04-disposal-loss.webp" width="900" height="870" alt="A machine costing 18,000 pounds with 10,800 pounds accumulated depreciation has a carrying amount of 7,200 pounds. Sold for 6,000 pounds, the 1,200 pound shortfall is a loss on disposal, an expense. Proceeds above carrying amount would be a profit." loading="lazy">
-  <figcaption>Compare proceeds with carrying amount to find the profit or loss on disposal.</figcaption>
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-accounting-for-organisations-with-incomplete-records--05-doubtful-debts-provision.webp" width="900" height="800" alt="Receivables of 19,100 pounds carry a 5 percent provision of 955 pounds, so the statement of financial position shows 18,145 pounds. The old provision was 900 pounds, so only the 55 pound increase is charged as an expense." loading="lazy">
+  <figcaption>Only the change in the provision goes to the income statement; the full provision is deducted from receivables.</figcaption>
 </figure>
 
 
@@ -421,6 +415,12 @@ change through both statements:
 
 In each row the statement of financial position still balances, because
 the change to assets or liabilities equals the change to capital.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-accounting-for-organisations-with-incomplete-records--04-disposal-loss.webp" width="900" height="870" alt="A machine costing 18,000 pounds with 10,800 pounds accumulated depreciation has a carrying amount of 7,200 pounds. Sold for 6,000 pounds, the 1,200 pound shortfall is a loss on disposal, an expense. Proceeds above carrying amount would be a profit." loading="lazy">
+  <figcaption>Compare proceeds with carrying amount to find the profit or loss on disposal.</figcaption>
+</figure>
+
 
 ## 5.2 Partnerships
 

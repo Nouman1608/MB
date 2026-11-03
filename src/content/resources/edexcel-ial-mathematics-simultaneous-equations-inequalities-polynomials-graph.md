@@ -62,6 +62,11 @@ Each pair gives the coordinates of one intersection of the two graphs. If the su
   <figcaption>After substitution, the discriminant shows whether the line cuts, touches or misses the curve.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-mathematics-quadratics-and-inequalities--08-disguised-quadratic.webp" width="900" height="1255" alt="With u = x^2 the equation x^4 - 5x^2 + 4 = 0 becomes u^2 - 5u + 4 = 0 with roots u = 1 and 4. Going back gives x = -2, -1, 1 and 2, the four x-intercepts of the quartic." loading="lazy">
+  <figcaption>Substitute u for the repeated function, solve the quadratic, then solve back for x using both signs. (Cambridge 9709 only.)</figcaption>
+</figure>
+
 
 ## 1.7 and 1.9 Solving inequalities
 
@@ -91,11 +96,6 @@ Check x = −1: −6 < 5, true. Check x = 1: 6 < 5, false. Check x = 2: 3 < 5, t
 **Example 6.** Solve x² − 3x < 2x − 6. Rearrange to x² − 5x + 6 < 0, so (x − 2)(x − 3) < 0. The curve y = x² − 3x meets the line y = 2x − 6 at (2, −2) and (3, 0), and is below it between those points. **Answer: 2 < x < 3.**
 
 When two conditions must hold together, solve each separately and keep the values that satisfy both, using a number line.
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-level-aqa-mathematics-quadratics-and-inequalities--02-discriminant-roots.webp" width="900" height="1150" alt="Three parabolas y = x^2 - 4x + k for k = 1, 4 and 7. Discriminants 12, 0 and -12 give two distinct real roots, one repeated root and no real roots respectively." loading="lazy">
-  <figcaption>The sign of b^2 - 4ac tells you whether the curve crosses, touches or misses the x-axis.</figcaption>
-</figure>
 
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/a-level-aqa-mathematics-quadratics-and-inequalities--03-quadratic-inequality.webp" width="900" height="1130" alt="The graph of x^2 - x - 6 shown twice. Above the axis the solution is x &lt; -2 or x &gt; 3 (two outer regions); below the axis it is -2 &lt; x &lt; 3 (one bounded region)." loading="lazy">
@@ -182,6 +182,11 @@ Neither graph is defined at x = 0, and neither crosses an axis.
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/a-level-aqa-mathematics-quadratics-and-inequalities--01-completing-the-square.webp" width="900" height="910" alt="Graph of y = -2x^2 + 8x + 3 rewritten as -2(x - 2)^2 + 11. The vertex (2, 11) is the maximum because a is negative, the line of symmetry is x = 2, the y-intercept is 3 and the roots are about -0.35 and 4.35." loading="lazy">
   <figcaption>Completed-square form gives the vertex, line of symmetry and maximum value at a glance.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-mathematics-quadratics-and-inequalities--02-discriminant-roots.webp" width="900" height="1150" alt="Three parabolas y = x^2 - 4x + k for k = 1, 4 and 7. Discriminants 12, 0 and -12 give two distinct real roots, one repeated root and no real roots respectively." loading="lazy">
+  <figcaption>The sign of b^2 - 4ac tells you whether the curve crosses, touches or misses the x-axis.</figcaption>
 </figure>
 
 

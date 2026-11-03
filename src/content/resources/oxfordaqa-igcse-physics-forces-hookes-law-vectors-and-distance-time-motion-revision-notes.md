@@ -118,6 +118,12 @@ The value of g is given in the question. Use that value.
 3. Curve: speed changing. Use a tangent for the speed at one instant.
 4. Average speed: total distance ÷ total time, including any rests.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/kinematics--03-distance-time-tangent.webp" width="900" height="900" alt="A curved distance-time graph gets steeper, so the object accelerates. A tangent at 4 s rises 32 m over 4 s, so the speed at that instant is 8 m/s." loading="lazy">
+  <figcaption>For a curve, the speed at an instant is the gradient of the tangent.</figcaption>
+</figure>
+
+
 ## Worked reminders
 
 **Spring.** A spring of original length 20.0 cm is 26.0 cm long under 3.0 N. Extension = 6.0 cm = 0.060 m. k = 3.0 ÷ 0.060 = 50 N/m. A 5.0 N load then gives e = 5.0 ÷ 50 = 0.10 m, so the length is 30.0 cm (if the limit is not exceeded).
@@ -166,6 +172,16 @@ The value of g is given in the question. Use that value.
   <figcaption>Work done stretching a spring is stored as elastic potential energy.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/elastic-deformation-moments-and-centre-of-gravity--01-load-extension-graph.webp" width="900" height="940" alt="Load-extension graph for a spring of constant 50 N/m: straight through the origin to 0.16 m and 8 N, where the limit of proportionality is marked, then curving. A gradient triangle (4 N over 0.08 m) gives k = 50 N/m." loading="lazy">
+  <figcaption>The gradient of the straight part is the spring constant; the line stops being straight at the limit of proportionality.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/kinematics--02-distance-time-gradient.webp" width="900" height="900" alt="A distance-time graph rises 20 m in 4 s (5 m/s), stays flat for 4 s (at rest), then rises 50 m in 4 s (12.5 m/s). The steeper line is faster." loading="lazy">
+  <figcaption>On a distance-time graph the gradient is the speed, and a flat line means at rest.</figcaption>
+</figure>
+
 
 ## Required practical: force and extension
 
@@ -200,12 +216,6 @@ Unloading the spring and re-measuring checks whether the distortion was elastic.
 - **Length and extension:** extension is the increase in length.
 - **Elastic and inelastic:** elastic recovers fully; inelastic does not.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/kinematics--01-distance-displacement.webp" width="900" height="920" alt="A runner doing one lap of a 400 m track has distance 400 m and displacement 0. A walker going 300 m east then 100 m west has distance 400 m and displacement 200 m east." loading="lazy">
-  <figcaption>Distance is the path length; displacement is the straight-line change from the start, with direction.</figcaption>
-</figure>
-
-
 ## Quick self-test
 
 1. Is tension a contact or a non-contact force?
@@ -234,6 +244,17 @@ Unloading the spring and re-measuring checks whether the distortion was elastic.
 10. Scalars: any two of distance, speed, time. Vectors: any two of displacement, velocity, acceleration, force, momentum.
 11. Once the forces stop, the object stays out of shape.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/kinematics--01-distance-displacement.webp" width="900" height="920" alt="A runner doing one lap of a 400 m track has distance 400 m and displacement 0. A walker going 300 m east then 100 m west has distance 400 m and displacement 200 m east." loading="lazy">
+  <figcaption>Distance is the path length; displacement is the straight-line change from the start, with direction.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-physics-motion-forces-and-energy--01-distance-time-graph.webp" width="900" height="970" alt="A distance-time graph rises steeply for 40 m in 10 s, is flat for 10 s, then rises less steeply by 60 m in 20 s. Steeper means faster, flat means stopped; the last gradient triangle gives 60 / 20 = 3 m/s." loading="lazy">
+  <figcaption>The gradient of a distance-time graph is the speed.</figcaption>
+</figure>
+
+
 ## Where marks are usually lost
 
 - Giving the new length of a spring where the extension is needed.
@@ -254,6 +275,11 @@ Unloading the spring and re-measuring checks whether the distortion was elastic.
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/oxfordaqa-igcse-physics-forces-hookes-law-vectors-and-distance-time-motion--12-fo-weight-and-g.webp" width="900" height="940" alt="A 3.5 kg sample where g is 3.7 N/kg weighs 12.95 N, about 13 N. A tool weighing 20 N where g is 1.6 N/kg has mass 12.5 kg, which it keeps anywhere." loading="lazy">
   <figcaption>Mass stays the same wherever you are; weight changes with g.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/elastic-deformation-moments-and-centre-of-gravity--02-extension-springs.webp" width="900" height="820" alt="Four springs hang with loads of 0, 2, 4 and 6 N. A dashed line marks the natural length; extension x is measured from it and is 0.04, 0.08 and 0.12 m. F divided by x is 50 N/m each time." loading="lazy">
+  <figcaption>Extension is the increase in length from the natural length, not the total length.</figcaption>
 </figure>
 
 

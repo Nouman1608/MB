@@ -155,11 +155,6 @@ When all firms match, nobody gains share and total revenue falls because demand 
 **Limit pricing.** Lower profit now to keep future profit. The threat must be believable: the incumbent needs low enough cost, and spare capacity helps.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/edexcel-ial-economics-oligopoly-interdependence-collusion-and-competition--06-cartel-incentive-to-cheat.webp" width="900" height="1020" alt="Profit per firm under competition (0), a cartel (1,800 each at price 90) and when Firm 1 secretly raises output to 40 (Firm 1 2,000, Firm 2 1,500, price 80). Cheating pays one firm but if both cheat the cartel collapses." loading="lazy">
-  <figcaption>Cheating pays one cartel member, which is why cartels are unstable.</figcaption>
-</figure>
-
-<figure class="topic-figure">
   <img src="https://img.marlbridge.com/edexcel-ial-economics-oligopoly-interdependence-collusion-and-competition--01-oli-price-leadership-and-war.webp" width="900" height="1140" alt="Two stylised price-against-time graphs with invented prices. In price leadership one firm raises price and the others raise theirs one step later, with no written agreement, which is tacit collusion. A dominant leader is usually the largest firm and a barometric leader is trusted for reading market conditions. In a price war two firms keep cutting price, each matching the other, and price falls towards cost, so profits fall and weaker firms may exit." loading="lazy">
   <figcaption>Dominant and barometric leaders set a price that followers match, while a price war drives price towards cost.</figcaption>
 </figure>
@@ -216,6 +211,12 @@ When all firms match, nobody gains share and total revenue falls because demand 
 8. Predatory pricing is below cost to remove a rival; limit pricing is above own cost but below the entrant's cost.
 9. Sunk costs and redundancy costs (also long contracts).
 10. Benefit: information or choice. Cost: spending paid for in the price, or persuasion.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-oligopoly-interdependence-collusion-and-competition--06-cartel-incentive-to-cheat.webp" width="900" height="1020" alt="Profit per firm under competition (0), a cartel (1,800 each at price 90) and when Firm 1 secretly raises output to 40 (Firm 1 2,000, Firm 2 1,500, price 80). Cheating pays one firm but if both cheat the cartel collapses." loading="lazy">
+  <figcaption>Cheating pays one cartel member, which is why cartels are unstable.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

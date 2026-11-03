@@ -170,6 +170,12 @@ The guide lists "methods of recruitment" without naming them. Standard methods i
 - Internal recruitment (filling a vacancy from current staff). Advantages: cheaper and faster, shows that promotion is possible, and the person already knows the business. Disadvantages: a smaller pool, few new ideas, and a gap left elsewhere.
 - External recruitment (from outside the business). Advantages: a bigger pool and fresh skills. Disadvantages: higher cost and a longer induction, with a risk of upsetting staff who expected promotion.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-people-in-business--06-recruitment-and-selection.webp" width="900" height="936" alt="Six steps in order: vacancy arises, write job description, advertise the job, shortlist applicants, interview and test, select and offer. At the advertising step the job can be filled internally from existing staff or externally from outside." loading="lazy">
+  <figcaption>Recruitment runs through set stages, and the job can be filled internally or externally.</figcaption>
+</figure>
+
+
 ## Financial rewards
 
 | Reward | What it is | Motivation point |

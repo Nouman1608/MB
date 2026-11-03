@@ -67,6 +67,17 @@ Two habits prevent most mistakes.
 
 Speed at time t is √((V cos α)² + (V sin α − gt)²). The direction of motion is tan θ = (vertical component)/(horizontal component), measured above or below the horizontal.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-kinematics--01-distance-displacement.webp" width="900" height="910" alt="A number line from minus 4 to 14 m shows a particle moving 12 m forward, 5 m back and 9 m back, ending at minus 2 m after 20 s. Distance is 26 m, giving average speed 1.3 m/s. Displacement is minus 2 m, giving average velocity minus 0.1 m/s." loading="lazy">
+  <figcaption>Distance adds every leg; displacement only compares start and end, so the two averages differ.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-kinematics--06-vector-motion-plane.webp" width="900" height="900" alt="The path of r = (t³ − 3t)i + (2t² + 1)j from t = 0 to 2 with velocity arrows. At t = 0 the velocity is minus 3i, at t = 1 it is 4j (i component zero) and at t = 2 it is 9i + 8j, speed 12.0 m/s, with acceleration 12i + 4j." loading="lazy">
+  <figcaption>Differentiate each component separately; parallel to j means the i component of velocity is zero.</figcaption>
+</figure>
+
+
 ## 3. Time of flight, greatest height and range on level ground
 
 You derive each result from the equations rather than quote it.
@@ -98,6 +109,17 @@ Range: x = 15.427 × 3.752 = 57.88 m
 ```
 
 The time of flight is **3.75 s**, the greatest height is **17.2 m** and the range is **57.9 m** (3 s.f.). A check is to find the range from V² sin 2α / g = 576 sin 100° / 9.8, which gives the same 57.9 m.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-kinematics--02-vt-graph-areas.webp" width="900" height="900" alt="A velocity-time graph rises to 12 m/s in 5 s, stays level to t = 11, then falls to minus 4 m/s at t = 15, crossing zero at t = 14. The areas are 30, 72, 18 above the axis and 2 below. Displacement is 118 m and distance 122 m." loading="lazy">
+  <figcaption>Gradients give acceleration; areas give displacement, and distance counts every area as positive.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-kinematics--04-vertical-two-roots.webp" width="900" height="910" alt="A displacement-time parabola for a ball thrown up at 21 m/s peaks at 22.5 m. The line s = 15 m meets it at t = 0.91 s going up and t = 3.38 s coming down, with velocities plus and minus 12.1 m/s from the tangent gradients. The gap of 2.47 s is the time above 15 m." loading="lazy">
+  <figcaption>The two roots of the quadratic are the times going up and coming down through the same height.</figcaption>
+</figure>
+
 
 ## 4. Launching from a height, or below the horizontal
 

@@ -35,6 +35,11 @@ Pair it with the [revision notes](/resources/oxfordaqa-a-level-mathematics-strai
 Every method below is algebra you can do by hand, and the working is what shows your understanding.
 
 <figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-mathematics-pure-mathematics-1-coordinate-geometry--04-is-it-a-circle.webp" width="900" height="1070" alt="Equation x^2+y^2-4x+6y+k=0 completes to (x-2)^2+(y+3)^2=13-k: circles for k=0 and 9, a point at k=13 and nothing for k&gt;13." loading="lazy">
+  <figcaption>After completing the square the right-hand side is r squared, so it must be positive for a circle to exist.</figcaption>
+</figure>
+
+<figure class="topic-figure">
   <img src="https://img.marlbridge.com/a-level-mathematics-pure-mathematics-1-coordinate-geometry--09-two-circles.webp" width="900" height="1058" alt="OCR only. Circles x^2+y^2=16 and (x-6)^2+(y-2)^2=9 with d=sqrt(40) between 1 and 7 so they cross at two points; number line of d shows the touching and separate cases." loading="lazy">
   <figcaption>Compare the distance between centres with the sum and difference of the radii.</figcaption>
 </figure>
@@ -61,6 +66,12 @@ Length: √(8² + (−6)²) = √(64 + 36) = √100 = 10
 ```
 
 Keep brackets round negative coordinates. Writing 5 − −3 is how sign errors start.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-mathematics-pure-mathematics-1-coordinate-geometry--03-circle-equation.webp" width="900" height="1046" alt="Circle centre (3,-5) radius 5 with a 3-4-5 right triangle from the centre to P(6,-1), showing the equation (x-3)^2+(y+5)^2=25 is Pythagoras." loading="lazy">
+  <figcaption>Every point on the circle satisfies Pythagoras with the centre, which is why the equation has that form.</figcaption>
+</figure>
+
 
 ## Three forms of a straight line
 

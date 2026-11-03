@@ -75,6 +75,11 @@ Long food chains are rare because so little reaches the top.
   <figcaption>Less respiration and fewer competitors mean more energy ends up in human food, at a cost.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-biology-energy-transfer-and-productivity-in-ecosystems--06-carbon-cycle.webp" width="900" height="1230" alt="Producers fix carbon dioxide by photosynthesis and carbon passes along food chains. Respiration by all organisms and decomposition return carbon dioxide; combustion releases it quickly, fossilisation stores carbon for very long periods, and the oceans dissolve carbon dioxide and form shells and limestone." loading="lazy">
+  <figcaption>Carbon moves between air, organisms, fossil stores and the sea.</figcaption>
+</figure>
+
 
 ## 5.11 Key terms
 

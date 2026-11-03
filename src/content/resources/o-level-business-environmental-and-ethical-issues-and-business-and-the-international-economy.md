@@ -212,6 +212,22 @@ An exchange rate is the price of one currency in terms of another. Appreciation 
 
 Profitability depends on the mix. Mereford Shoes imports leather and sells shoes abroad. If its currency depreciates, leather costs more but its shoes look cheaper abroad. Whether profit rises depends on which effect is larger, and on whether the business can change its supplier or price. This is how to evaluate.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-business-influences-on-business--06-exchange-rates.webp" width="900" height="970" alt="The pound weakens from 1.50 to 1.25 dollars. A 100 pound export costs the US buyer 150 then 125 dollars (cheaper, helps the exporter). A 100 dollar import costs the UK buyer 66.67 then 80.00 pounds (dearer, hurts the importer). If the pound strengthens, the effects reverse." loading="lazy">
+  <figcaption>A weaker home currency helps exporters and hurts importers; a stronger one reverses this.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-business-business-and-its-environment--06-exchange-import-cost.webp" width="900" height="960" alt="The pound falls from 200 to 180 yen, so a 36,000 yen motor rises from 180 to 200 pounds (11.1 percent), and an order of 4,000 motors costs 80,000 pounds more." loading="lazy">
+  <figcaption>A weaker pound makes imported inputs dearer.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-business-business-and-its-environment--07-exchange-export-price.webp" width="900" height="960" alt="The pound rises from 1.15 to 1.25 euro. Keeping the 12 pound price lifts the euro price from 13.80 to 15.00 (8.7 percent); holding the euro price cuts income to 11.04 pounds a jar (8 percent less)." loading="lazy">
+  <figcaption>A stronger pound makes exports dearer or less profitable.</figcaption>
+</figure>
+
+
 ## Common errors
 
 - Naming costs to the business itself as external costs.

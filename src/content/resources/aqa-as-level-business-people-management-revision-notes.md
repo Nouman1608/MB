@@ -128,6 +128,17 @@ Comment: fewer staff are doing more, and turnover has fallen, so the position ha
 
 **Quick sum**: levels needed fall as span widens. With 56 staff and a span of 8, seven supervisors are needed.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-business-human-resource-management--03-delayering.webp" width="900" height="970" alt="Two charts of Pelican Freight. Before: CEO, 3 directors, 15 managers and 180 drivers, with the CEO span at 3. After removing directors the 15 managers report to the CEO, span 15, saving 270,000 pounds a year." loading="lazy">
+  <figcaption>Delayering saves cost but widens the span of control.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-business-organisational-structure-and-business-communication--09-centralised-decentralised.webp" width="900" height="920" alt="Two charts with head office and three branches. Centralised: decisions are taken at head office and branches refer upward. Decentralised: each branch takes decisions locally." loading="lazy">
+  <figcaption>Centralisation keeps decisions at the top; decentralisation moves them down.</figcaption>
+</figure>
+
+
 ## Leadership
 
 | Style | Feature | Fits | Risk |
@@ -179,6 +190,11 @@ Impact: individuals (motivation, stress), teams (cooperation), the business (per
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/igcse-business-people-in-business--02-taylor-and-herzberg.webp" width="900" height="890" alt="Taylor: more output by a worker earns more pay, so pay is the main motivator. Herzberg: on a scale from dissatisfied to satisfied, hygiene factors (pay, conditions, job security) only lift people to neutral, while motivators (achievement, recognition, interesting work) create satisfaction." loading="lazy">
   <figcaption>Taylor saw pay as the motivator; Herzberg separated hygiene factors from true motivators.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-business-human-resource-management--05-pay-methods.webp" width="900" height="1030" alt="Piece rate: 550 items at 0.80 pounds earns 440 pounds. Commission: 300 pound basic plus 4 percent of 12,500 pounds sales gives 300 plus 500, 800 pounds." loading="lazy">
+  <figcaption>Piece rate pays for output; commission adds a share of sales to a basic wage.</figcaption>
 </figure>
 
 
@@ -273,5 +289,10 @@ AQA AS and A-level Business specification (7137, 7138), for first teaching from 
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/igcse-business-people-in-business--04-organisation-chart.webp" width="900" height="1110" alt="Chart with directors above one manager, who has three supervisors with two staff each. A downward arrow marks the chain of command; the manager's span of control is 3. A lower panel shows the same 8 workers as a tall structure (4 levels, span 2) and a short structure (2 levels, span 8)." loading="lazy">
   <figcaption>Levels, chain of command and span of control decide whether a structure is tall or short.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-people-in-business--03-motivation-methods.webp" width="900" height="834" alt="Financial methods: wage, salary, bonus, commission, profit sharing. Non-financial methods: job enrichment, job rotation, teamworking, training, promotion. Each has an icon and a short plain description." loading="lazy">
+  <figcaption>Motivation methods split into five financial and five non-financial.</figcaption>
 </figure>
 

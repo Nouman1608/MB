@@ -131,6 +131,12 @@ When you **draw** a flower, use clear single lines and no shading. In a wind-pol
 | Stigmas | Inside the flower, often sticky | Large and feathery, hanging outside to catch pollen |
 | Pollen | Larger, sticky or spiky so it clings to insects; smaller amounts | Small, light and smooth so it is carried by air; very large amounts |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-reproduction--03-wind-vs-insect.webp" width="900" height="1000" alt="Two flowers compared: an insect-pollinated flower with large coloured petals, anthers and stigma inside and sticky or spiky pollen, and a wind-pollinated flower with small green petals, anthers and feathery stigma hanging outside and light smooth pollen made in huge numbers." loading="lazy">
+  <figcaption>Compare the features of insect- and wind-pollinated flowers.</figcaption>
+</figure>
+
+
 ### Pollination (16.3.5–16.3.6)
 
 **Pollination** is the transfer of pollen grains from an anther to a stigma.
@@ -152,6 +158,12 @@ Effects on a population:
 ### Fertilisation, seeds and fruits (16.3.7–16.3.8)
 
 After pollination, a **pollen tube** grows out of the pollen grain, down through the style to the ovary. It enters the ovule through a small hole (the micropyle). The male nucleus passes down the tube and **fuses with the female nucleus** in the ovule: this is fertilisation. Afterwards, the **ovules develop into seeds** and the **ovary develops into a fruit**.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-reproduction--04-pollen-tube.webp" width="900" height="960" alt="Section through a carpel: pollen lands on the stigma (pollination), a pollen tube grows down the style, enters the ovule through the micropyle, and the pollen nucleus fuses with the ovule nucleus (fertilisation)." loading="lazy">
+  <figcaption>Follow pollen from the stigma to fertilisation in the ovule.</figcaption>
+</figure>
+
 
 ### Seeds, dispersal and germination (16.3.9–16.3.13)
 
@@ -227,6 +239,12 @@ Four tubes each held 40 seeds on cotton wool for five days.
 | Cervix | Ring of muscle at the base of the uterus; widens at birth |
 | Vagina | Receives the penis and semen; the birth canal |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-reproduction--05-reproductive-systems.webp" width="900" height="1240" alt="Front-view schematics of the male (testes in scrotum, sperm ducts, prostate gland, urethra, penis) and female (ovaries, oviducts, uterus, cervix, vagina) systems with the function of each part." loading="lazy">
+  <figcaption>Identify the parts of the human reproductive systems and their jobs.</figcaption>
+</figure>
+
+
 ### Gametes and fertilisation (16.4.3–16.4.6)
 
 **Sperm cell:**
@@ -247,6 +265,12 @@ Four tubes each held 40 seeds on cotton wool for five days.
 | Numbers | Millions released at a time | Usually one released each cycle |
 | Motility | Swims | Cannot swim; moved along the oviduct |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-reproduction--06-sperm-and-egg.webp" width="900" height="1010" alt="Labelled egg (jelly coat, nucleus, cytoplasm with energy stores) and sperm (acrosome with enzymes, nucleus, mitochondria, flagellum), with a summary of size, movement and numbers." loading="lazy">
+  <figcaption>Show how sperm and egg are adapted for their functions.</figcaption>
+</figure>
+
+
 ### Puberty and the menstrual cycle (16.4.7–16.4.9)
 
 **Testosterone** (from the testes) causes male secondary sexual characteristics: facial and body hair, a deeper voice, muscle growth, and the start of sperm production. **Oestrogen** (from the ovaries) causes female ones: breast development, wider hips, and the start of the menstrual cycle.
@@ -263,6 +287,11 @@ In the **menstrual cycle** the uterus lining breaks down (menstruation), then th
   <figcaption>Testosterone and oestrogen cause the secondary sexual characteristics at puberty.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-reproduction--08-menstrual-cycle.webp" width="900" height="1010" alt="Two graphs over 28 days: the uterus lining is lost on days 1-5, then rebuilt, with ovulation around day 14; Extended sketch of FSH, oestrogen, LH and progesterone, with oestrogen peaking before the LH peak at ovulation and progesterone high afterwards." loading="lazy">
+  <figcaption>Link the lining and hormone changes to the days of the cycle.</figcaption>
+</figure>
+
 
 ### Pregnancy (16.4.10–16.4.13)
 
@@ -273,6 +302,11 @@ The **placenta** is where substances are exchanged between the mother's blood an
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/o-level-biology-5090-development-of-organisms-and-continuity-of-life--04-implantation-of-the-embryo.webp" width="900" height="890" alt="Four stages: fertilisation in the oviduct, the zygote dividing by mitosis, a ball of cells reaching the uterus, and the embryo implanting in the thick uterus lining. A schematic shows where each happens." loading="lazy">
   <figcaption>The zygote divides to a ball of cells that implants in the lining of the uterus.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-reproduction--07-placenta-exchange.webp" width="900" height="1200" alt="The fetus in an amniotic sac inside the uterus, joined by the umbilical cord to the placenta. Extended panel: oxygen, glucose and amino acids pass from mother to fetus and carbon dioxide and urea the other way without the bloods mixing; some viruses and nicotine can cross." loading="lazy">
+  <figcaption>Show what the placenta does and what crosses it.</figcaption>
 </figure>
 
 

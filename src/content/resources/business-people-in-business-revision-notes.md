@@ -78,6 +78,16 @@ turnover — name these specifically, not just "workers work harder."
   <figcaption>The five functions link in a loop: controlling checks results against the plan.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-business-organisation-and-management--06-delegation-passes-authority.webp" width="900" height="880" alt="A manager passes task and authority down to an employee while remaining accountable; four benefits and three risks are shown as chips." loading="lazy">
+  <figcaption>Delegation passes authority, not accountability.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-business-organisation-and-management--07-trust-vs-control.webp" width="900" height="830" alt="A trust-to-control scale with an experienced employee on a routine task near trust and a new employee on a risky job near control; benefits and costs of each end." loading="lazy">
+  <figcaption>The balance of trust and control depends on the case.</figcaption>
+</figure>
+
 
 ## Recruitment, selection and training
 

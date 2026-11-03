@@ -167,6 +167,21 @@ A service business has the same adjustments but no inventory or cost of sales: f
   <figcaption>Straight line charges the same each year; reducing balance charges a percentage of the falling carrying amount.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-accounting-for-organisations-with-incomplete-records--06-trial-balance-to-statements.webp" width="900" height="1126" alt="The trial balance totals 274,470 pounds each side and is adjusted by seven notes. Gross profit of 84,200 pounds plus commission of 2,100 pounds less expenses of 56,175 pounds gives profit of 30,125 pounds. Opening capital 39,670 plus profit less drawings 19,200 gives closing capital of 50,595 pounds, equal to net assets." loading="lazy">
+  <figcaption>Profit flows into capital, and capital equals net assets, which proves the statements balance.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-accounting-for-organisations-with-incomplete-records--07-profit-from-capital.webp" width="900" height="900" alt="Opening capital of 13,480 pounds plus the missing profit of 10,420 pounds, plus 5,000 pounds introduced, less 19,200 pounds drawings, gives closing capital of 9,700 pounds. Capital fell by 3,780 pounds although there was a profit." loading="lazy">
+  <figcaption>Profit = closing capital - opening capital + drawings - capital introduced.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-accounting-for-organisations-with-incomplete-records--08-total-accounts.webp" width="900" height="896" alt="Two T-accounts show credit sales of 42,800 pounds and cash sales of 45,400 pounds as balancing figures. Each account balances at 46,000 and 45,550 pounds, and revenue is 88,200 pounds." loading="lazy">
+  <figcaption>The missing figure in a total account is the one that makes it balance.</figcaption>
+</figure>
+
 
 ## Partnerships (1.5.3)
 
@@ -203,6 +218,27 @@ Profit for the year: 214,300 − 154,960 − 1,000 = **58,340**.
 | **Closing balance (Cr)** | **10,740** | **15,300** |
 
 The statement of financial position shows capital 100,000, current accounts 26,040 and the partner's loan 20,000 (non-current liability): 146,040 in total. Without an agreement, the Act would share the 58,340 equally: 29,170 each.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-partnership-accounts--01-agreement-vs-default.webp" width="900" height="830" alt="Four bars compare how a 48,000 pound profit is shared between Ryder and Sloane. With no agreement each receives 24,000 pounds. With an agreed 15,000 pound salary for Sloane and 8 percent interest on capital, Ryder receives 18,100 pounds and Sloane 29,900 pounds." loading="lazy">
+  <figcaption>Without an agreement profit is shared equally; an agreement lets reward match capital and effort.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-partnership-accounts--02-loan-interest-vs-appropriation.webp" width="900" height="930" alt="Profit before loan interest of 84,900 pounds has 900 pounds of partner loan interest deducted as an expense, leaving 84,000 pounds. That profit passes to the appropriation account, whose items (interest on capital, salary, residual shares) are shares of profit, with interest on drawings added." loading="lazy">
+  <figcaption>Loan interest is an expense before profit; salaries and interest on capital are shares of profit after it.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-partnership-accounts--03-appropriation-flow.webp" width="900" height="846" alt="A waterfall takes profit for the year of 84,000 pounds, adds 1,350 pounds interest on drawings, deducts 6,000 pounds interest on capital and Nash's 18,000 pound salary, leaving 61,350 pounds shared 3:2:1 as 30,675, 20,450 and 10,225 pounds." loading="lazy">
+  <figcaption>Profit plus drawings interest is shared out as interest, salary and residual shares.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-partnership-accounts--04-current-account-overdrawn.webp" width="900" height="890" alt="Marsh's current account debits (drawings 24,000 and interest on drawings 450 pounds) total 24,450 pounds while credits total 23,550 pounds, so a 900 pound debit balance balances the account. Capital accounts of 120,000 pounds plus current accounts of 4,700 pounds give equity of 124,700 pounds." loading="lazy">
+  <figcaption>Drawing more than is credited leaves a debit balance on the current account.</figcaption>
+</figure>
+
 
 ## Limited companies (1.5.4)
 
@@ -256,6 +292,26 @@ The statement of financial position shows the same closing equity. Adding debent
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/cambridge-a-level-accounting-preparation-of-financial-statements-as--10-rights-issue-ledger.webp" width="900" height="958" alt="A 1 for 4 rights issue at 1.50 on 200,000 shares gives 50,000 new shares and 75,000 cash: debit bank 75,000, credit share capital 50,000 and share premium 25,000." loading="lazy">
   <figcaption>A rights issue at a premium splits cash into share capital and share premium.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-accounting-for-limited-companies--01-share-premium.webp" width="900" height="970" alt="A bar for one 1.20 pound share splits into 0.50 nominal and 0.70 premium. Multiplied by 200,000 shares, 240,000 pounds arrives in the bank: 100,000 to share capital and 140,000 to share premium, both equity. The premium is not income and never reaches the income statement." loading="lazy">
+  <figcaption>The premium above nominal value goes to share premium, not to the income statement.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-accounting-for-limited-companies--06-rights-vs-bonus.webp" width="900" height="1040" alt="Equity of 605,000 pounds rises to 725,000 after a 1 for 4 rights issue (120,000 of cash). A 1 for 5 bonus issue then moves 75,000 from share premium to share capital with no cash and no change in the 725,000 total." loading="lazy">
+  <figcaption>A rights issue raises cash; a bonus issue only moves reserves into share capital.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-accounting-for-limited-companies--02-three-profit-lines.webp" width="900" height="970" alt="A waterfall for Brackwood Joinery Ltd takes revenue 612,000 down through cost of sales to gross profit 264,700, then operating expenses to profit from operations 63,100, finance costs to profit before tax 59,500 and tax to profit after tax 38,500. Dividends are not an expense and do not appear." loading="lazy">
+  <figcaption>Companies show three profit lines; dividends are not an expense.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-accounting-for-limited-companies--03-changes-in-equity.webp" width="900" height="870" alt="Equity builds from 143,200 pounds to 246,700 pounds. A share issue adds 50,000 to share capital and 30,000 to share premium, profit after tax adds 38,500 to retained earnings and dividends paid deduct 15,000 from retained earnings." loading="lazy">
+  <figcaption>Each movement in the year lands in one component of equity.</figcaption>
 </figure>
 
 

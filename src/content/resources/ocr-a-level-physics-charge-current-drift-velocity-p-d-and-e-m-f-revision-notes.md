@@ -91,12 +91,6 @@ Hub: [OCR A Level Physics](/boards/ocr/a-level/physics/). Checklist: [printable 
 - A lamp comes on at once when the switch closes because the field travels through the circuit very quickly. The carriers already in the filament start to drift together.
 - The volt measures energy per unit charge for both p.d. and e.m.f. The difference is the direction of the energy change.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/aqa-a-level-physics-electricity--05-series-parallel-circuit.webp" width="900" height="1060" alt="An 18 V supply drives a 6.0 ohm resistor in series with 12 ohm and 4.0 ohm resistors in parallel. The pair is 3.0 ohm, total 9.0 ohm, supply current 2.0 A; the branches carry 0.50 A and 1.5 A, with 6.0 V across both. Currents add at the junction and 18 V = 12 V + 6.0 V round the loop." loading="lazy">
-  <figcaption>One mixed circuit solved to show both Kirchhoff laws.</figcaption>
-</figure>
-
-
 ## Method in steps: e.m.f. and p.d. questions
 
 1. Find the charge: Q = It, with t in seconds.
@@ -167,6 +161,22 @@ Be able to draw: cell, battery, switch, fixed resistor, variable resistor, filam
 9. J C⁻¹ = kg m² s⁻² / (A s) = **kg m² s⁻³ A⁻¹**.
 10. Heating releases more carriers, so **n increases** and, for the same drift velocity, the current rises.
 11. E = eV = 1.6 × 10⁻¹⁹ × 2000 = **3.2 × 10⁻¹⁶ J**.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-physics-electricity--02-iv-characteristics.webp" width="900" height="1115" alt="Four I-V graphs: a fixed resistor is a straight line through the origin; a filament lamp curves flat as it heats, with lesson data giving 10 ohm at 1.0 V and 25 ohm at 10 V; a diode conducts only above about 0.7 V forward; an NTC thermistor curve steepens as it heats." loading="lazy">
+  <figcaption>Four I–V shapes side by side, with R = V/I read at a point.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-physics-electricity--05-series-parallel-circuit.webp" width="900" height="1060" alt="An 18 V supply drives a 6.0 ohm resistor in series with 12 ohm and 4.0 ohm resistors in parallel. The pair is 3.0 ohm, total 9.0 ohm, supply current 2.0 A; the branches carry 0.50 A and 1.5 A, with 6.0 V across both. Currents add at the junction and 18 V = 12 V + 6.0 V round the loop." loading="lazy">
+  <figcaption>One mixed circuit solved to show both Kirchhoff laws.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-physics-electricity--09-sensing-dividers.webp" width="900" height="1210" alt="With an NTC thermistor and a 2.2 kohm resistor on 9.0 V, the output across the fixed resistor rises from 4.95 V at 20 C to 7.07 V at 60 C while the output across the thermistor falls from 4.05 V to 1.93 V. With an LDR in series with 10 kohm on 6.0 V, the 10 kohm resistor has 5.45 V in bright light and 0.29 V in the dark." loading="lazy">
+  <figcaption>Which component the output is across decides whether it rises or falls.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

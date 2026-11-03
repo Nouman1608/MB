@@ -112,12 +112,6 @@ entry is a more reliable route to full marks than jumping straight to
 the double entry, since the specific correcting entries differ by error
 type.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-level-edexcel-accounting-control-accounts-and-correction-of-errors--07-control-vs-list.webp" width="900" height="810" alt="Totals from the books of prime entry build the control account (25,015); the individual customer accounts give a list of balances (25,195). The 180 difference is an invoice posted twice to one customer and the list agrees once corrected. Agreement does not prove every entry is right. IGCSE 0452 candidates do not need to reconcile control account balances to the ledger." loading="lazy">
-  <figcaption>A control account is built from different records than the ledger, so a difference signals an error.</figcaption>
-</figure>
-
-
 ## Worked example: correction of errors
 
 A business pays $450 for vehicle repairs but posts the amount to the
@@ -172,12 +166,6 @@ a control account is built from totals of source documents or books of
 prime entry, not by adding up the individual personal ledger balances
 it is meant to check.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-level-edexcel-accounting-control-accounts-and-correction-of-errors--05-bank-reconciliation.webp" width="900" height="762" alt="The cash book balance of 4,215 is updated for a credit transfer, bank charges, a standing order, a dishonoured cheque and a cheque error, reaching 4,560. The bank statement balance of 5,790 plus an outstanding lodgement of 1,925 less unpresented cheques of 3,155 also reaches 4,560. The updated cash book figure is the one used in the statement of financial position." loading="lazy">
-  <figcaption>Update the cash book first, then adjust the statement for timing so both agree.</figcaption>
-</figure>
-
-
 ## Digital transactions and records
 
 The 2027-2029 syllabus adds two questions about technology to this
@@ -214,6 +202,22 @@ bank errors.
 reconciliation and control accounts.
 - Explain how a control account provides an independent check on the
 sales or purchases ledger.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-edexcel-accounting-control-accounts-and-correction-of-errors--05-bank-reconciliation.webp" width="900" height="762" alt="The cash book balance of 4,215 is updated for a credit transfer, bank charges, a standing order, a dishonoured cheque and a cheque error, reaching 4,560. The bank statement balance of 5,790 plus an outstanding lodgement of 1,925 less unpresented cheques of 3,155 also reaches 4,560. The updated cash book figure is the one used in the statement of financial position." loading="lazy">
+  <figcaption>Update the cash book first, then adjust the statement for timing so both agree.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-edexcel-accounting-control-accounts-and-correction-of-errors--06-receivables-control.webp" width="900" height="854" alt="A T-account for April. Debit side: opening balance 24,560, credit sales, interest charged on overdue accounts, a dishonoured cheque and a credit balance carried down. Credit side: opening credit balance, receipts, discounts allowed, sales returns, irrecoverable debts, a contra entry and the closing debit balance of 25,015. Both sides total 67,295. Cash sales and the provision for doubtful debts are excluded." loading="lazy">
+  <figcaption>Only items that change what credit customers owe belong in a control account.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-edexcel-accounting-control-accounts-and-correction-of-errors--07-control-vs-list.webp" width="900" height="810" alt="Totals from the books of prime entry build the control account (25,015); the individual customer accounts give a list of balances (25,195). The 180 difference is an invoice posted twice to one customer and the list agrees once corrected. Agreement does not prove every entry is right. IGCSE 0452 candidates do not need to reconcile control account balances to the ledger." loading="lazy">
+  <figcaption>A control account is built from different records than the ledger, so a difference signals an error.</figcaption>
+</figure>
+
 
 ## Official syllabus
 

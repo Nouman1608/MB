@@ -163,6 +163,12 @@ An ECG sensor gives the same information. At a chart speed of 25 mm/s, an R-to-R
 
 In a **longitudinal** section, skeletal muscle shows parallel fibres with regular cross-striations (alternating dark and light bands) and several nuclei at the edge of each fibre. In a **transverse** section, fibres appear as rounded polygons with nuclei at the edge. Cardiac muscle shows branching and darker intercalated discs. To find an actual size, use actual = image ÷ magnification, after converting to the same units (1 mm = 1000 µm).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-transport-in-mammals--09-atheroma.webp" width="900" height="1180" alt="Two artery cross-sections to the same scale: a 4.0 mm lumen (12.57 mm2) and a lumen narrowed by atheroma to 2.8 mm (6.16 mm2), a 30% fall in diameter but 51% in area. A chain shows clot formation, a blocked coronary artery and heart muscle death." loading="lazy">
+  <figcaption>A 30% narrowing in diameter halves the cross-sectional area.</figcaption>
+</figure>
+
+
 ### Structure of a skeletal muscle fibre
 
 A fibre contains many **myofibrils**, each made of repeating **sarcomeres** between Z lines. Thin **actin** filaments (with tropomyosin and troponin) attach to the Z lines; thick **myosin** filaments, with heads, lie between them. The fibre is wrapped in the sarcolemma, which folds into **T tubules**, and it is full of sarcoplasmic reticulum and mitochondria.
@@ -172,6 +178,12 @@ A fibre contains many **myofibrils**, each made of repeating **sarcomeres** betw
 | A band | The whole length of the myosin filaments | Dark |
 | I band | Actin only | Light |
 | H zone | Myosin only (centre of A band) | Lighter band within A band |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-transport-in-mammals--01-vessels.webp" width="900" height="1150" alt="Three cross-sections side by side: a thick-walled artery with a narrow lumen (wall to lumen 3:5 as in the lesson example), a thin-walled vein with a wide lumen and a long section showing a valve, and a capillary whose one-cell wall holds red cells in single file. Each layer is labelled." loading="lazy">
+  <figcaption>Artery, vein and capillary structure matched to function.</figcaption>
+</figure>
+
 
 ### Neuromuscular junction
 

@@ -165,6 +165,16 @@ Factors: temperature, availability of water, composition of atmospheric gases. C
   <figcaption>Removing forest reduces biodiversity, loses soil, raises flood risk and adds carbon dioxide to the air.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-human-influences-on-ecosystems--05-enhanced-greenhouse-effect.webp" width="900" height="1180" alt="Sunlight reaches the Earth, which gives out thermal energy upwards. Carbon dioxide and methane absorb thermal energy that would otherwise be lost and some returns to Earth. More of these gases gives more energy absorbed, a higher mean global temperature and climate change." loading="lazy">
+  <figcaption>More CO2 and methane trap more thermal energy, raising mean global temperature.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-human-influences-on-ecosystems--06-co2-methane-sources.webp" width="900" height="850" alt="Carbon dioxide comes from burning fossil fuels and burning forests. Methane comes from cattle and other livestock, rice fields and waste decomposing in landfill sites." loading="lazy">
+  <figcaption>Fossil fuels and forest burning give CO2; livestock, rice fields and landfill give methane.</figcaption>
+</figure>
+
 
 ## Trophic levels and biomass (4.7.4)
 
@@ -208,6 +218,11 @@ Factors: temperature, availability of water, composition of atmospheric gases. C
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/igcse-biology-0610-organisms-and-their-environment--03-web-change.webp" width="900" height="1150" alt="Web: grass eaten by rabbits and voles; rabbits and voles eaten by foxes; voles also eaten by owls. Disease kills most rabbits (1), foxes eat more voles so voles fall (2), owls may fall (3), grass may rise (4)." loading="lazy">
   <figcaption>Follow every arrow: fewer rabbits means more voles eaten, fewer owls and more grass.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-human-influences-on-ecosystems--07-fish-net-mesh-size.webp" width="900" height="895" alt="Extended. Two side views of a net. With a small mesh both young and adult fish are caught. With a large mesh the gaps are bigger than young fish but smaller than adults, so young fish escape and survive to breed." loading="lazy">
+  <figcaption>A larger mesh lets young fish escape so they survive to breed.</figcaption>
 </figure>
 
 

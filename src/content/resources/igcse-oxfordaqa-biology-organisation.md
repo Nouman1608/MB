@@ -152,6 +152,11 @@ Examples of plant tissue: **epidermal tissue** (covers the plant), **palisade me
   <figcaption>In roots, stems and leaves, xylem (blue) and phloem (gold) sit in set positions.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-plant-nutrition--08-leaf-cross-section.webp" width="900" height="790" alt="Leaf section from top down: cuticle, upper epidermis, palisade mesophyll with many chloroplasts, spongy mesophyll with air spaces, vascular bundle with xylem (water in) and phloem (sugar out), lower epidermis with stomata and guard cells. CO2 enters and O2 leaves through stomata." loading="lazy">
+  <figcaption>Labelled leaf section showing where light, CO2 and water are used.</figcaption>
+</figure>
+
 
 ## Transport in cells (3.1.5)
 
@@ -171,6 +176,46 @@ A single-celled organism has a large surface area to volume ratio, so all necess
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/igcse-oxfordaqa-biology-organisation--03-animal-cell-osmosis-tonicity.webp" width="900" height="805" alt="An animal cell is drawn in three solutions. Hypotonic: fewer dissolved particles outside, water moves in, cell swells and may burst. Isotonic: equal concentration, no net movement, normal shape. Hypertonic: more particles outside, water moves out, cell shrinks and crinkles." loading="lazy">
   <figcaption>Hypotonic, isotonic and hypertonic solutions change the shape of an animal cell by osmosis.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-movement-into-and-out-of-cells--01-diffusion.webp" width="900" height="1010" alt="Two stages in a container. At the start 18 particles are crowded on the left (high concentration) with the right empty (low). Small arrows show random movement and a large arrow shows net movement from high to low concentration. Later the 18 particles are spread evenly, 9 each side, still moving but with no net movement." loading="lazy">
+  <figcaption>Particles move randomly, so there is a net movement from high to low concentration until they are evenly spread.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-movement-into-and-out-of-cells--03-osmosis.webp" width="900" height="960" alt="A container split by a membrane with small gaps. Dilute solution (many water molecules, 3 solute particles) on the left, concentrated solution (fewer water molecules, 11 solute particles) on the right. Solute is too big to pass; arrows show water moving to the concentrated side. An Extended card gives the water potential wording: higher on the dilute side, lower on the concentrated side." loading="lazy">
+  <figcaption>Water moves through the membrane from the dilute to the concentrated solution; solute particles cannot pass.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-movement-into-and-out-of-cells--04-plant-cell-osmosis.webp" width="900" height="1190" alt="Three plant cells. Turgid: in a dilute solution water moves in, the vacuole is large and turgor pressure pushes on the cell wall so the cell is firm. Flaccid: no net water movement, the cell is limp. Plasmolysed: in a concentrated solution water moves out and the cytoplasm and membrane pull away from the wall. The terms are Extended." loading="lazy">
+  <figcaption>A turgid cell is firm because water pressure pushes on the wall; in a concentrated solution the cell loses water and is plasmolysed.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-movement-into-and-out-of-cells--06-active-transport.webp" width="900" height="1120" alt="A membrane separates low concentration (top) from high concentration (bottom). Step 1: a particle binds a carrier protein facing the low side. Step 2: energy from respiration changes the carrier and the particle is released on the high side, so it moves against the gradient. Extended: protein carriers, for example ion uptake by root hairs." loading="lazy">
+  <figcaption>Active transport moves particles from low to high concentration using energy from respiration.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-movement-into-and-out-of-cells--07-three-processes.webp" width="900" height="1030" alt="Three pictures. Diffusion is passive: particles move from high to low concentration, no energy needed. Osmosis is passive: water moves through a partially permeable membrane, no energy needed. Active transport is active: a carrier moves particles from low to high concentration using energy from respiration." loading="lazy">
+  <figcaption>Diffusion and osmosis are passive; active transport uses energy from respiration to move particles against the gradient.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-human-nutrition--08-villus.webp" width="900" height="1250" alt="Extended. A row of villi on the folded small intestine lining, then one villus enlarged. Its surface epithelium is one cell thick with microvilli on the outside. Inside are a capillary network and a central lacteal. Sugars and amino acids enter the capillaries and go into the blood; fatty acids and glycerol enter the lacteal, which is part of the lymphatic system." loading="lazy">
+  <figcaption>Capillaries take sugars and amino acids; the lacteal takes fatty acids and glycerol.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-gas-exchange-in-humans--02-alveolus-gas-exchange.webp" width="900" height="1080" alt="One alveolus at the end of a bronchiole is wrapped by a capillary. Oxygen diffuses from the air through the thin walls into the blood and carbon dioxide diffuses out into the air. Blood arrives with more carbon dioxide and leaves with more oxygen. Four numbered features (large surface area, thin walls, good blood supply, good ventilation) make the surface efficient." loading="lazy">
+  <figcaption>Oxygen diffuses into the blood and carbon dioxide out, across two walls each one cell thick.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-transport-in-plants-water-uptake-transpiration-and--05-root-hair-cell-adaptations.webp" width="900" height="1290" alt="A root hair cell with a long thin hair in soil, thin wall, large vacuole, many mitochondria and carrier proteins. Water enters by osmosis and mineral ions by active transport." loading="lazy">
+  <figcaption>Each feature of the root hair cell is linked to water uptake by osmosis or ion uptake by active transport.</figcaption>
 </figure>
 
 

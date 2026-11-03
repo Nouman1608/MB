@@ -164,12 +164,6 @@ A second reminder, for the pendulum. A 2.5 m pendulum swings through a small ang
 - Total energy against energy at a point. Total energy is constant; Ek and Ep change with x.
 - Equilibrium against extremes. Speed is maximum and acceleration zero at equilibrium. At the extremes it is the reverse.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-physics-motion-in-a-circle--02-centripetal-acceleration.webp" width="900" height="710" alt="Balls on a circle have tangent velocity arrows of equal length and acceleration arrows pointing to the centre, at right angles to the velocity. A vector triangle shows v1 and v2 and their difference delta v pointing towards the centre. A dashed line shows a ball moving straight on if the force is removed." loading="lazy">
-  <figcaption>Speed is constant but the velocity turns, so the change in velocity and the acceleration point towards the centre.</figcaption>
-</figure>
-
-
 ## Quick self-test
 
 1. An oscillator has ω = 5.0 rad s⁻¹. What is its acceleration at x = +0.20 m?
@@ -199,6 +193,17 @@ A second reminder, for the pendulum. A 2.5 m pendulum swings through a small ang
 10. **π rad** (antiphase).
 11. T is proportional to √m, so the period **doubles**.
 12. At the **extremes**, x = ±A, where v = 0 and |a| = ω²A.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-motion-in-a-circle--02-centripetal-acceleration.webp" width="900" height="710" alt="Balls on a circle have tangent velocity arrows of equal length and acceleration arrows pointing to the centre, at right angles to the velocity. A vector triangle shows v1 and v2 and their difference delta v pointing towards the centre. A dashed line shows a ball moving straight on if the force is removed." loading="lazy">
+  <figcaption>Speed is constant but the velocity turns, so the change in velocity and the acceleration point towards the centre.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-motion-in-a-circle--04-vertical-circle.webp" width="900" height="810" alt="A 0.50 kg ball on a 0.80 m string. At the top (4.0 m/s) tension 5.1 N and weight 4.9 N both point down; at the bottom (6.9 m/s) tension 34.5 N points up and weight 4.9 N down, arrows to scale. The bottom tension exceeds the top by 6mg = 29.4 N, and the minimum speed at the top (T = 0) is sqrt(gr) = 2.8 m/s." loading="lazy">
+  <figcaption>Tension is least at the top and greatest at the bottom, differing by 6mg for a freely moving ball.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

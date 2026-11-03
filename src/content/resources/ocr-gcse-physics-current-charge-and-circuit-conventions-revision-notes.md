@@ -125,6 +125,12 @@ I = 0.280 A
 Q = 0.280 × 50 = 14 C
 ```
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-current-charge-and-circuit-conventions--10-q-equals-it-examples.webp" width="900" height="1020" alt="Three examples: 0.35 A for 2.0 min = 42 C; 540 C in 15 min = 0.60 A; 250 mA with 90 C takes 360 s = 6.0 min. Convert minutes to seconds and mA to A first." loading="lazy">
+  <figcaption>Convert time to seconds and mA to A before using Q = I t.</figcaption>
+</figure>
+
+
 ## P3.2a: series against parallel
 
 | Feature | Series | Parallel |
@@ -255,12 +261,6 @@ t = Q / I = 450 / 0.50 = 900 s
 - Drawing a circuit with a gap that was not meant to be there, so no current could flow.
 
 An examiner reading an explanation is looking for the physics idea written in a full sentence. A bare "it is a series circuit" gains little; "there is only one path, so the current is the same at each point" is the idea the question is after.
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ocr-gcse-physics-current-charge-and-circuit-conventions--10-q-equals-it-examples.webp" width="900" height="1020" alt="Three examples: 0.35 A for 2.0 min = 42 C; 540 C in 15 min = 0.60 A; 250 mA with 90 C takes 360 s = 6.0 min. Convert minutes to seconds and mA to A first." loading="lazy">
-  <figcaption>Convert time to seconds and mA to A before using Q = I t.</figcaption>
-</figure>
-
 
 ## Official syllabus
 

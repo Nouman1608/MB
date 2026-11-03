@@ -81,16 +81,6 @@ Links: [Edexcel economics hub](/boards/edexcel/a-level/economics/), [printable c
 - The PPF cannot say which point is best. That depends on values.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/edexcel-ial-economics-scarcity-models-production-possibility-frontiers-and--08-ppf-country-a.webp" width="900" height="970" alt="Frontier through A to E from the lesson table, with F inside and an unattainable point outside. Opportunity cost rises from 2.4 to 6 consumer goods per capital good." loading="lazy">
-  <figcaption>Rising opportunity cost bows the frontier outwards.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/edexcel-ial-economics-scarcity-models-production-possibility-frontiers-and--09-ppf-invest-now-grow-later.webp" width="900" height="850" alt="Country A gives up 36 consumer goods now for a frontier 20% higher (max 120); Country B gives up 4 for a frontier 5% higher (105)." loading="lazy">
-  <figcaption>Investment costs consumption now for potential later.</figcaption>
-</figure>
-
-<figure class="topic-figure">
   <img src="https://img.marlbridge.com/edexcel-ial-economics-scarcity-models-production-possibility-frontiers-and--05-ppf-shift-causes.webp" width="900" height="980" alt="Country A frontier shown with an outward shift (growth) and an inward shift (decline), both scaled by 20% for illustration, with the causes of each listed." loading="lazy">
   <figcaption>Outward shifts come from more or better resources and technology; inward shifts from destruction or loss.</figcaption>
 </figure>
@@ -143,6 +133,16 @@ Inflation erodes the store of value. 5,000 units held for two years at 3% inflat
   <figcaption>Forward contracts give price certainty; equities pay a dividend and a possible capital gain.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-economics-production-and-business-costs--04-division-of-labour.webp" width="900" height="960" alt="Top: one worker does four tasks in turn. Below: four workers each do one task and pass the work on. The advantage for the firm is faster output; the disadvantage for workers is boredom and over-specialisation. Answers should give both sides." loading="lazy">
+  <figcaption>Splitting a job into tasks speeds up output but can leave workers bored and over-specialised.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-economics-microeconomic-decision-makers--01-functions-of-money.webp" width="900" height="850" alt="Four panels: goods swapped for money (medium of exchange), bread and shoes priced in one unit (unit of account), coins saved in a jar to spend later (store of value), and a debt of 50 paid at a later date (deferred payment)." loading="lazy">
+  <figcaption>Money acts as a medium of exchange, unit of account, store of value and standard for deferred payment.</figcaption>
+</figure>
+
 
 ## Economic systems
 
@@ -157,6 +157,16 @@ Role of the state in a mixed economy: public and merit goods, regulation, tax an
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/igcse-economics-the-basic-economic-problem--02-free-and-economic-goods.webp" width="900" height="910" alt="Two cards compare air, a free good with unlimited supply, no opportunity cost and no price, with oil, an economic good that is scarce, needs resources sacrificed and commands a price. The test is whether resources were sacrificed, not whether it costs money at the till." loading="lazy">
   <figcaption>A good is free only if no resources have to be sacrificed to get it.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-basic-economic-problem--07-ppc-shift-vs-movement.webp" width="900" height="1190" alt="Top: a point inside the curve moves to the curve by using idle resources more fully; this is temporary, reversible and not economic growth on this syllabus. Bottom: the whole curve shifts outward because of more or better resources or better technology, a permanent increase in capacity, which is economic growth." loading="lazy">
+  <figcaption>Only an outward shift of the whole curve counts as economic growth.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-economics-basic-economic-ideas-and-resource-allocation--02-economic-systems.webp" width="900" height="990" alt="Three questions, what, how and for whom, are answered in different ways. In a market economy prices and firms decide, in a planned economy the state decides, and a mixed economy shares decisions between both." loading="lazy">
+  <figcaption>Market, planned and mixed economies differ in who answers what, how and for whom.</figcaption>
 </figure>
 
 
@@ -217,6 +227,22 @@ Look for "should", "fair", "too high" and "better". These signal value judgement
 9. Medium of exchange, measure of value, store of value, method of deferred payment.
 10. Advantage: resources can be directed to social goals and equality. Disadvantage: planners lack full information, so shortages and surpluses arise.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-scarcity-models-production-possibility-frontiers-and--08-ppf-country-a.webp" width="900" height="970" alt="Frontier through A to E from the lesson table, with F inside and an unattainable point outside. Opportunity cost rises from 2.4 to 6 consumer goods per capital good." loading="lazy">
+  <figcaption>Rising opportunity cost bows the frontier outwards.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-scarcity-models-production-possibility-frontiers-and--09-ppf-invest-now-grow-later.webp" width="900" height="850" alt="Country A gives up 36 consumer goods now for a frontier 20% higher (max 120); Country B gives up 4 for a frontier 5% higher (105)." loading="lazy">
+  <figcaption>Investment costs consumption now for potential later.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-scarcity-models-production-possibility-frontiers-and--02-renewable-vs-non-renewable.webp" width="900" height="900" alt="Stock against time with illustrative numbers. If use equals regrowth a renewable stock stays level; if use exceeds regrowth it shrinks; a non-renewable stock has no regrowth and runs out fastest." loading="lazy">
+  <figcaption>Renewable stocks can last if use does not exceed regrowth; non-renewable stocks are used up.</figcaption>
+</figure>
+
+
 ## Where marks are usually lost
 
 - Defining opportunity cost as the cost in money, or as all the alternatives rather than the next best.
@@ -240,5 +266,15 @@ Source: Pearson Education Limited, Edexcel International Advanced Subsidiary/Adv
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/igcse-economics-the-basic-economic-problem--03-factors-of-production.webp" width="900" height="940" alt="Four cards: land (natural resources) earns rent, labour (human effort) earns wages, capital (machines and factories) earns interest, and enterprise (organises and takes risks) earns profit." loading="lazy">
   <figcaption>Each factor of production earns its own reward.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-basic-economic-problem--05-ppc-points.webp" width="900" height="1080" alt="An illustrative PPC with Food and Machines axes. A on the curve means all resources fully used, B inside means idle or wasted resources, C beyond the curve cannot be reached with current resources." loading="lazy">
+  <figcaption>Points inside, on and beyond the PPC show how well resources are used.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-basic-economic-problem--06-ppc-movement-opportunity-cost.webp" width="900" height="1050" alt="Three points on a PPC. Moving from 1 to 2 gains 20 Food and gives up 20 Machines; moving from 2 to 3 gains another 20 Food but gives up 60 Machines. Each extra unit of Food costs more Machines, which is why the curve bows outwards." loading="lazy">
+  <figcaption>Moving along a PPC reallocates resources, and the opportunity cost rises.</figcaption>
 </figure>
 

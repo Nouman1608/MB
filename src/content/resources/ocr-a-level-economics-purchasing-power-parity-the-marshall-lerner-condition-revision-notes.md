@@ -50,12 +50,6 @@ Read the [study guide](/resources/ocr-a-level-economics-purchasing-power-parity-
 | Marshall-Lerner | PEDx + PEDm > 1 |
 | Multiplier | 1 / marginal propensity to withdraw (save + tax + import) |
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ocr-a-level-economics-purchasing-power-parity-the-marshall-lerner-condition--07-unit-labour-cost-exchange-rate.webp" width="900" height="930" alt="Wages of 2,400 arcs for 40 units give 60 arcs per unit, 30 bels at 0.50 and 27 bels at 0.45, which is 10% lower." loading="lazy">
-  <figcaption>A depreciation cuts unit labour cost by 10% in foreign-currency terms.</figcaption>
-</figure>
-
-
 ## PPP in steps
 
 1. Find the PPP rate: basket cost at home divided by basket cost abroad.
@@ -123,6 +117,16 @@ Read the [study guide](/resources/ocr-a-level-economics-purchasing-power-parity-
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/ocr-a-level-economics-purchasing-power-parity-the-marshall-lerner-condition--04-marshall-lerner-cases.webp" width="900" height="930" alt="Trade starts balanced at 20,000 arcs each way and the arc depreciates 10%. In Case 1, PEDx 0.6 plus PEDm 0.3 is 0.9 (below 1): export revenue rises 1,200 but the import bill rises 1,340, so the balance worsens by 140 arcs. In Case 2, the sum is 1.5 (above 1): export revenue rises 1,800 and the import bill only 680, so the balance improves by 1,120 arcs." loading="lazy">
   <figcaption>The worked example: a sum of elasticities below 1 worsens the balance and above 1 improves it.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-purchasing-power-parity-the-marshall-lerner-condition--05-j-curve-quarters.webp" width="900" height="880" alt="The trade balance starts at minus 2.0 billion arcs, falls to a trough of minus 3.8 in quarter 2 (1.8 below the start), passes the starting level in quarter 4 and reaches plus 1.1 by quarter 7, 3.1 above the start. The curve is shaped like the letter J. It only recovers if the Marshall-Lerner condition holds in the long run." loading="lazy">
+  <figcaption>The lesson’s table of balances plotted as a J-curve.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-purchasing-power-parity-the-marshall-lerner-condition--07-unit-labour-cost-exchange-rate.webp" width="900" height="930" alt="Wages of 2,400 arcs for 40 units give 60 arcs per unit, 30 bels at 0.50 and 27 bels at 0.45, which is 10% lower." loading="lazy">
+  <figcaption>A depreciation cuts unit labour cost by 10% in foreign-currency terms.</figcaption>
 </figure>
 
 

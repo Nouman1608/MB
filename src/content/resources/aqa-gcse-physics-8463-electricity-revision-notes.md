@@ -102,6 +102,11 @@ Worked reminder: 3.0 V across a lamp, 0.60 A through it → R = 3.0 ÷ 0.60 = **
 </figure>
 
 <figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-physics-0625-electricity-and-magnetism--02-circuit-symbols.webp" width="900" height="986" alt="Fourteen standard circuit symbols with names: cell, battery, open switch, fixed resistor, variable resistor, lamp, ammeter, voltmeter, fuse, thermistor, LDR, motor, and (Extended) diode and LED." loading="lazy">
+  <figcaption>The standard symbols to draw and recognise; diode and LED are Extended only.</figcaption>
+</figure>
+
+<figure class="topic-figure">
   <img src="https://img.marlbridge.com/igcse-physics-0625-electricity-and-magnetism--04-iv-graphs.webp" width="900" height="1192" alt="Three I-V graphs: a fixed resistor gives a straight line through the origin; a filament lamp gives a curve that gets less steep because resistance rises; a diode carries no current in reverse and rises steeply forward after about 0.6 V." loading="lazy">
   <figcaption>The shape of each I-V graph tells you how the resistance behaves.</figcaption>
 </figure>
@@ -203,17 +208,6 @@ of the cables (P = I²R), so less energy is wasted.
 - Field is strongest close to the object; force increases as distance decreases.
 - **Sparking:** charge builds up, the pd to a nearby earthed object gets large, electrons jump the gap.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/aqa-gcse-physics-8463-electricity--04-sphere-field-lines.webp" width="900" height="810" alt="Two charged spheres each with twelve straight radial field lines. Arrows point out of the positive sphere and into the negative one. Lines are closest together near the sphere, where the field is strongest." loading="lazy">
-  <figcaption>Field lines of an isolated sphere are radial, outward for positive and inward for negative.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/aqa-gcse-physics-8463-electricity--05-static-charge.webp" width="900" height="1150" alt="Rubbing moves electrons from the rod to the cloth, leaving the cloth negative and the rod positive. Hanging balls with the same charge swing apart and with opposite charges swing together. A charged insulated sphere sparks to an earthed sphere when the field in the gap is strong enough." loading="lazy">
-  <figcaption>Only electrons move; like charges repel, unlike attract, and a strong field in a gap gives a spark.</figcaption>
-</figure>
-
-
 ## Quick self-test
 
 1. A current of 2.0 A flows for 45 s. Calculate the charge.
@@ -244,6 +238,17 @@ of the cables (P = I²R), so less energy is wasted.
 11. It **decreases**
 12. 0.10 + 0.20 = **0.30 A**
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-physics-8463-electricity--04-sphere-field-lines.webp" width="900" height="810" alt="Two charged spheres each with twelve straight radial field lines. Arrows point out of the positive sphere and into the negative one. Lines are closest together near the sphere, where the field is strongest." loading="lazy">
+  <figcaption>Field lines of an isolated sphere are radial, outward for positive and inward for negative.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-physics-8463-electricity--05-static-charge.webp" width="900" height="1150" alt="Rubbing moves electrons from the rod to the cloth, leaving the cloth negative and the rod positive. Hanging balls with the same charge swing apart and with opposite charges swing together. A charged insulated sphere sparks to an earthed sphere when the field in the gap is strong enough." loading="lazy">
+  <figcaption>Only electrons move; like charges repel, unlike attract, and a strong field in a gap gives a spark.</figcaption>
+</figure>
+
+
 ## Where marks are usually lost
 
 - Leaving time in minutes or hours in Q = It and E = Pt.
@@ -256,12 +261,6 @@ of the cables (P = I²R), so less energy is wasted.
 - Explaining static with protons or "positive charge" moving; only electrons move.
 - In National Grid answers, saying the step-up transformer "increases the current".
 - Dropping units, or giving 1.38 MJ as "1.38" with no prefix.
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-physics-0625-electricity-and-magnetism--02-circuit-symbols.webp" width="900" height="986" alt="Fourteen standard circuit symbols with names: cell, battery, open switch, fixed resistor, variable resistor, lamp, ammeter, voltmeter, fuse, thermistor, LDR, motor, and (Extended) diode and LED." loading="lazy">
-  <figcaption>The standard symbols to draw and recognise; diode and LED are Extended only.</figcaption>
-</figure>
-
 
 ## Official syllabus
 

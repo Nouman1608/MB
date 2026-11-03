@@ -116,6 +116,12 @@ Any one of these three can be used as the test. Independent and exclusive are di
 
 (b) Here P(A ∩ B) = 0, so 2/5 + p = 7/10 and p = 3/10.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-mathematics-probability-and-correlation-and-regression--08-c-test-regions.webp" width="900" height="1010" alt="For n = 10, r = 0.62 lies in the rejection region of the one-tail 5% test (r &gt; 0.5494) but not the two-tail 5% test (|r| &gt; 0.6319) or the one-tail 1% test (r &gt; 0.7155)." loading="lazy">
+  <figcaption>The same sample r can lead to different decisions depending on the alternative hypothesis and significance level.</figcaption>
+</figure>
+
+
 ## Sampling with and without replacement (3.4)
 
 With replacement, the probabilities stay the same at each draw, so the draws are independent. Without replacement, both the number of items and the number of the chosen kind change, so each draw depends on the earlier ones.

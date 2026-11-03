@@ -40,6 +40,12 @@ These notes condense sections 2.03 and 2.04 of the OCR GCSE (9-1) Mathematics (J
 | Original value | New value ÷ multiplier |
 | Simple interest | Same amount each year, on the original sum |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-fractions-decimals-percentages-ordering-operations--01-fraction-decimal-percentage.webp" width="900" height="830" alt="A bar of 16 equal parts with 7 shaded, a 0 to 1 scale and a 0 to 100% scale mark the same point. Dividing 7 by 16 gives 0.4375, and multiplying by 100 gives 43.75%." loading="lazy">
+  <figcaption>7/16 as a fraction, decimal and percentage are all the same point.</figcaption>
+</figure>
+
+
 ## 2.03a Conversion table to learn
 
 | Percentage | As a decimal | As a fraction |
@@ -58,12 +64,6 @@ Method for any fraction: divide, then multiply by 100.
 17/40 = 0.425 → 42.5%
 0.07 = 7/100 → 7%
 ```
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-mathematics-0580-fractions-decimals-percentages-ordering-operations--01-fraction-decimal-percentage.webp" width="900" height="830" alt="A bar of 16 equal parts with 7 shaded, a 0 to 1 scale and a 0 to 100% scale mark the same point. Dividing 7 by 16 gives 0.4375, and multiplying by 100 gives 43.75%." loading="lazy">
-  <figcaption>7/16 as a fraction, decimal and percentage are all the same point.</figcaption>
-</figure>
-
 
 ## 2.03b Percentage of a quantity
 

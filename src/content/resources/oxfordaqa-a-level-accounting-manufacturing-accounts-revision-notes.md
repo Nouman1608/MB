@@ -133,12 +133,6 @@ Transfer to income statement                            x
 6. Sole trader: profit for the year. Limited company: profit from operations, then profit for the year
    before and after tax.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/oxfordaqa-a-level-accounting-clubs-and-non-profit-making-organisations--03-bar-profit.webp" width="900" height="866" alt="Bar takings of 26,300 split into cost of sales 14,580, steward wages 5,200 and bar profit 6,520, with gross profit 11,720. Only the bar profit goes to the income and expenditure account, as one line. Cost of sales is opening 1,850 plus purchases 14,870 minus closing 2,140." loading="lazy">
-  <figcaption>A club bar appears in the income and expenditure account as one bar profit line.</figcaption>
-</figure>
-
-
 ## Method in steps: the statement of financial position
 
 Under current assets list inventories of raw materials, work in progress, and finished goods **less**
@@ -182,6 +176,12 @@ manufacturing account and 10,200 in the income statement.
 *Provision over two years.* Closing finished goods at transfer price are 24,700 in year 1 and 21,320
 in year 2. The provision is 5,700 then 4,920. In year 2 the provision account is debited with 780 and
 the income statement credited, so profit on manufacture is shown **plus** 780.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-accounting-clubs-and-non-profit-making-organisations--03-bar-profit.webp" width="900" height="866" alt="Bar takings of 26,300 split into cost of sales 14,580, steward wages 5,200 and bar profit 6,520, with gross profit 11,720. Only the bar profit goes to the income and expenditure account, as one line. Cost of sales is opening 1,850 plus purchases 14,870 minus closing 2,140." loading="lazy">
+  <figcaption>A club bar appears in the income and expenditure account as one bar profit line.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 
@@ -239,6 +239,12 @@ the income statement credited, so profit on manufacture is shown **plus** 780.
 10. Realisation and prudence.
 11. Income statement, as a selling and distribution expense.
 12. 14,400 × 7/9 = **11,200**.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-accounting-clubs-and-non-profit-making-organisations--04-gifts-and-fees.webp" width="900" height="970" alt="Life fees of 2,400 go into the life membership fund; one tenth of 12,400, which is 1,240, is released to income, leaving a fund of 7,160. The 5,000 floodlights donation goes to the accumulated fund and the 300 general donation is income." loading="lazy">
+  <figcaption>Life fees, capital donations and general donations each go to a different place.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

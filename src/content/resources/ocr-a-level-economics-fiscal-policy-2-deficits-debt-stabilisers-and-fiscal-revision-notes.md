@@ -182,12 +182,6 @@ Judgement depends on the ratio to GDP, use of the borrowing (capital or current)
 
 **Worked reminder.** Current spending 430, capital 30, revenue 400, GDP 1,500, debt 1,200. Current deficit 30. Total deficit 60 (4.0% of GDP). Borrowing 60 is above capital spending of 30, so the golden rule fails. A 3% limit allows 45, so 15 of correction. Debt of 80% breaks a 60% ceiling.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ocr-a-level-economics-fiscal-policy-2-deficits-debt-stabilisers-and-fiscal--13-fiscal-rules-country-a.webp" width="900" height="850" alt="Country A borrows 60 against capital spending of 30, breaking the golden rule by 30. A 3% of GDP limit allows 45, so 15 of correction is needed. Debt of 80% of GDP exceeds a 60% ceiling by 20 points." loading="lazy">
-  <figcaption>Country A breaks all three example fiscal rules.</figcaption>
-</figure>
-
-
 ## Quick self-test
 
 1. State the difference between a budget deficit and the national debt.
@@ -215,6 +209,12 @@ Judgement depends on the ratio to GDP, use of the borrowing (capital or current)
 9. Spare capacity, rising confidence or public investment that raises private returns (any one).
 10. Closing debt 540; 540 / 1,050 = 51.4%.
 11. Strength: credibility with lenders. Weakness: rigidity in a recession (other answers possible).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-fiscal-policy-2-deficits-debt-stabilisers-and-fiscal--13-fiscal-rules-country-a.webp" width="900" height="850" alt="Country A borrows 60 against capital spending of 30, breaking the golden rule by 30. A 3% of GDP limit allows 45, so 15 of correction is needed. Debt of 80% of GDP exceeds a 60% ceiling by 20 points." loading="lazy">
+  <figcaption>Country A breaks all three example fiscal rules.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

@@ -70,6 +70,17 @@ At Q = 3, MR 40 exceeds MC 26. At Q = 4, MR 30 is below MC 32. Profit is highest
 
 Long-run average cost is 250 ÷ 120 + 4 = **£6.08**. Price must reach that for the stall to stay in business in the long run.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-objectives-and-growth-of-firms--10-laundry-shutdown.webp" width="900" height="960" alt="Fixed cost 900, variable cost 3.00, 400 loads. At price 4.50 operating loses 300 against 900 shut, so stay. At 2.50 operating loses 1,100, so shut. Price bands: below 3.00 shut, 3.00 to 5.25 stay in the short run, above 5.25 normal profit." loading="lazy">
+  <figcaption>Shut down when price is below variable cost; stay in the long run only above average cost.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-objectives-and-growth-of-firms--03-merger-unit-cost.webp" width="900" height="930" alt="Blocks with area equal to total cost: R is 6m units at 9 (54m), S is 5m at 8.80 (44m). Joined they cost 98m for 11m units, 8.91 each; removing 5m of duplicated overhead leaves 93m, 8.45 each." loading="lazy">
+  <figcaption>Merging cut cost per unit from about 8.91 to 8.45 once 5m of overhead is removed.</figcaption>
+</figure>
+
+
 ## Other objectives
 
 | Objective | What the firm does | Typical effect |
@@ -88,6 +99,11 @@ At the revenue-maximising output, PED = 1 in absolute value, because MR = 0. A p
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-objectives-and-growth-of-firms--08-lamp-objectives-diagram.webp" width="900" height="980" alt="Lamp workshop curves AR = 70 - 0.5Q, MR = 70 - Q, MC = 10 + 0.2Q and AC from TC. Profit max is 50 lamps at 45; revenue max 70 at 35; normal-profit output about 78.9 at 30.6." loading="lazy">
   <figcaption>Each objective picks a different output and price.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-objectives-and-growth-of-firms--09-lamp-satisficing-profit-curve.webp" width="900" height="900" alt="Profit = 60Q - 0.6Q^2 - 1,000 peaks at 500 at 50 lamps. Profit is at least 400 between 37.1 and 62.9 lamps; 62 lamps earns 413.60." loading="lazy">
+  <figcaption>A satisficer can pick any output that meets the target.</figcaption>
 </figure>
 
 
@@ -157,6 +173,11 @@ Reasons for growth: economies of scale, market power, risk spreading, new market
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-objectives-and-growth-of-firms--12-conglomerate-risk-spread.webp" width="900" height="890" alt="Firm F profit 12, 4, 14, 6 and Firm G 4, 12, 5, 11 swing widely; combined 16, 16, 19, 17. Range falls from 10 and 8 to 3." loading="lazy">
   <figcaption>Combining unrelated firms smooths profit.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-objectives-and-growth-of-firms--04-takeover-premium-payback.webp" width="900" height="840" alt="A bar shows market value 100m plus a 30m premium (3.25 a share, 130m paid). Six blocks of 5m annual savings repay the 30m premium in six years, before integration costs." loading="lazy">
+  <figcaption>A 30m premium is recovered from 5m savings in six years.</figcaption>
 </figure>
 
 <figure class="topic-figure">

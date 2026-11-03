@@ -119,12 +119,6 @@ L    ..........##
 
 Worker 1 takes the critical activities: G (0–4), K (4–10), L (10–12). Worker 2 takes H (0–3) and J (4–9). J starts at day 4, after G and H have both finished, and L starts at day 10, after J and K. So 2 workers meet the 12-day project time, which matches the lower bound.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/edexcel-ial-mathematics-critical-path-analysis-activity-networks-floats-gantt--07-float-shared.webp" width="900" height="1100" alt="Two cascade charts: A starting 1 day late keeps the project at 15 days but cuts C’s float from 4 to 3; A starting 3 days late pushes D, F and G back so the project ends on day 17, two days late." loading="lazy">
-  <figcaption>Delaying one activity uses float that later activities in its chain share.</figcaption>
-</figure>
-
-
 ### Reading a table from a network
 
 Take arcs X (1→2), Y (1→3), a dummy (2→3), Z (3→4) and W (2→4). Z starts at event 3, which is reached by Y and, through the dummy, by X, so Z has predecessors X and Y. W starts at event 2, reached by X only, so W has the single predecessor X. The dummy is why Z has two predecessors while W has one.
@@ -169,17 +163,6 @@ A project can have more than one critical path. Delaying a critical activity del
 
 Float is shared along a chain. In the worked reminder, H has 2 days of float and J has 1, but they sit on the same route into event 5, so delaying H by 2 days leaves J with no float at all. Check every activity on a route before you promise that a delay is harmless.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/edexcel-ial-mathematics-critical-path-analysis-activity-networks-floats-gantt--04-forward-pass.webp" width="900" height="820" alt="The example network shows earliest times 0, 3, 4, 5, 9, 13, 15 for events 1 to 7. Events 3, 5 and 6 take the largest of two values; the minimum project time is 15 days." loading="lazy">
-  <figcaption>The forward pass takes the largest value at each event, giving the minimum project time.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/edexcel-ial-mathematics-critical-path-analysis-activity-networks-floats-gantt--08-scheduling-workers.webp" width="900" height="726" alt="One worker takes 23 days; two workers finish in 15. Worker 1 does B, D, F, G; worker 2 does A, C, E. The lower bound is 23 divided by 15 = 1.53, so at least 2 workers." loading="lazy">
-  <figcaption>Two workers can finish the project in the minimum 15 days.</figcaption>
-</figure>
-
-
 ## Quick self-test
 
 1. Write the formula for total float F(i, j).
@@ -211,8 +194,28 @@ Float is shared along a chain. In the worked reminder, H has 2 days of float and
 12. Yes, and every activity on either path has float 0.
 
 <figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-mathematics-critical-path-analysis-activity-networks-floats-gantt--04-forward-pass.webp" width="900" height="820" alt="The example network shows earliest times 0, 3, 4, 5, 9, 13, 15 for events 1 to 7. Events 3, 5 and 6 take the largest of two values; the minimum project time is 15 days." loading="lazy">
+  <figcaption>The forward pass takes the largest value at each event, giving the minimum project time.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-mathematics-critical-path-analysis-activity-networks-floats-gantt--05-backward-pass-critical.webp" width="900" height="930" alt="The network shows earliest and latest times in each event. Latest times are 0, 4, 4, 9, 9, 13, 15. The critical path B, D, F, G is drawn thick and sums to 15; A is not critical since event 2 has e = 3 but l = 4." loading="lazy">
+  <figcaption>The backward pass takes the smallest value; critical activities need matching event times and duration.</figcaption>
+</figure>
+
+<figure class="topic-figure">
   <img src="https://img.marlbridge.com/edexcel-ial-mathematics-critical-path-analysis-activity-networks-floats-gantt--06-cascade-float.webp" width="900" height="786" alt="A cascade chart with rows A to G over 0 to 15 days. Critical activities B, D, F, G are solid with no float; A, C and E are followed by dashed float of 1, 4 and 5 days." loading="lazy">
   <figcaption>Total float is the slack after an activity’s earliest finish.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-mathematics-critical-path-analysis-activity-networks-floats-gantt--07-float-shared.webp" width="900" height="1100" alt="Two cascade charts: A starting 1 day late keeps the project at 15 days but cuts C’s float from 4 to 3; A starting 3 days late pushes D, F and G back so the project ends on day 17, two days late." loading="lazy">
+  <figcaption>Delaying one activity uses float that later activities in its chain share.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-mathematics-critical-path-analysis-activity-networks-floats-gantt--08-scheduling-workers.webp" width="900" height="726" alt="One worker takes 23 days; two workers finish in 15. Worker 1 does B, D, F, G; worker 2 does A, C, E. The lower bound is 23 divided by 15 = 1.53, so at least 2 workers." loading="lazy">
+  <figcaption>Two workers can finish the project in the minimum 15 days.</figcaption>
 </figure>
 
 
@@ -227,12 +230,6 @@ Float is shared along a chain. In the worked reminder, H has 2 days of float and
 - Reading float off the wrong events: it is lⱼ − eᵢ − duration, with i the start event and j the end event.
 - Stopping at the lower bound for workers and giving no schedule.
 - Starting a Gantt bar before a predecessor has finished.
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/edexcel-ial-mathematics-critical-path-analysis-activity-networks-floats-gantt--05-backward-pass-critical.webp" width="900" height="930" alt="The network shows earliest and latest times in each event. Latest times are 0, 4, 4, 9, 9, 13, 15. The critical path B, D, F, G is drawn thick and sums to 15; A is not critical since event 2 has e = 3 but l = 4." loading="lazy">
-  <figcaption>The backward pass takes the smallest value; critical activities need matching event times and duration.</figcaption>
-</figure>
-
 
 ## Official syllabus
 

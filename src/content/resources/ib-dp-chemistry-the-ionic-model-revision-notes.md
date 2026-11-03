@@ -53,6 +53,12 @@ Need the full explanations and longer worked examples? Go to the [Structure 2.1 
 
 **Transition elements** lose 4s electrons first, then may lose 3d electrons. So one element gives several ions: Fe²⁺ and Fe³⁺; Cu⁺ and Cu²⁺. Show the charge with a Roman numeral in the name.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-the-ionic-model--03-transition-charges.webp" width="900" height="850" alt="Iron loses two 4s electrons to give Fe2+, iron(II), then a 3d electron to give Fe3+, iron(III). Copper loses its 4s electron to give Cu+, copper(I), then a 3d electron to give Cu2+, copper(II)." loading="lazy">
+  <figcaption>Transition elements lose 4s electrons first, then 3d, so the Roman numeral in the name gives the charge.</figcaption>
+</figure>
+
+
 ## 2.1.2 Formulas and names
 
 ### Method in steps: formula from a name
@@ -66,12 +72,6 @@ Need the full explanations and longer worked examples? Go to the [Structure 2.1 
 
 1. Name the cation. For a transition metal, find its charge from the anion total and add a Roman numeral.
 2. Name the anion: element stem + -ide for a single atom; the ion's own name if polyatomic.
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ib-dp-chemistry-the-ionic-model--03-transition-charges.webp" width="900" height="850" alt="Iron loses two 4s electrons to give Fe2+, iron(II), then a 3d electron to give Fe3+, iron(III). Copper loses its 4s electron to give Cu+, copper(I), then a 3d electron to give Cu2+, copper(II)." loading="lazy">
-  <figcaption>Transition elements lose 4s electrons first, then 3d, so the Roman numeral in the name gives the charge.</figcaption>
-</figure>
-
 
 ### Polyatomic ions (learn all seven)
 

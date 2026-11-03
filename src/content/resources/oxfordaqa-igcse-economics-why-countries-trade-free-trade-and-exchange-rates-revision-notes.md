@@ -158,6 +158,11 @@ The rate is set where the demand for a currency equals its supply.
   <figcaption>The exchange rate settles where demand for the currency equals its supply.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-economics-why-countries-trade-free-trade-and-exchange-rates--03-exchange-rate-shifts.webp" width="900" height="1260" alt="Two graphs: demand shifting right by 20 million moves the rate from 2.0 to 2.2 (10% appreciation); supply shifting right by 20 million moves it to 1.8 (10% depreciation)." loading="lazy">
+  <figcaption>A rise in demand appreciates the currency; a rise in supply depreciates it.</figcaption>
+</figure>
+
 
 ## Effects of exchange rate changes
 
@@ -186,6 +191,11 @@ An **appreciation** reverses every row.
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/oxfordaqa-igcse-economics-why-countries-trade-free-trade-and-exchange-rates--10-depreciation-elasticity-profit.webp" width="900" height="920" alt="Profit bars: 1,500,000 before; 1,852,500 if PED is -1.5 (13,000 sold); 1,567,500 if PED is -0.5 (11,000 sold) after a depreciation from 2.0 to 1.6." loading="lazy">
   <figcaption>Elastic demand makes a depreciation far more profitable for the exporter.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-macroeconomics--07-exchange-rate.webp" width="900" height="910" alt="Demand for pounds shifts right from D1 to D2 against a fixed supply S, so the price of a pound rises from 1.50 to 1.60 dollars. The pound has appreciated." loading="lazy">
+  <figcaption>A rise in demand for a currency makes it appreciate, making exports dearer and imports cheaper.</figcaption>
 </figure>
 
 
@@ -221,12 +231,6 @@ An **appreciation** reverses every row.
 8. (1.5 - 2.0)/2.0 x 100 = **-25%**. Part cost 90/2.0 = **45 arlo**, then 90/1.5 = **60 arlo**, 15 more.
 9. New supply is 70, 60, 50, 40, 30 against demand 50, 60, 70, 80, 90. They match at **2.2** (60 = 60), a **10% appreciation**.
 10. Benefit: exports become cheaper abroad, so sales may rise. Cost: imported components cost more in local currency, so unit costs rise.
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/oxfordaqa-igcse-economics-why-countries-trade-free-trade-and-exchange-rates--03-exchange-rate-shifts.webp" width="900" height="1260" alt="Two graphs: demand shifting right by 20 million moves the rate from 2.0 to 2.2 (10% appreciation); supply shifting right by 20 million moves it to 1.8 (10% depreciation)." loading="lazy">
-  <figcaption>A rise in demand appreciates the currency; a rise in supply depreciates it.</figcaption>
-</figure>
-
 
 ## Where marks are usually lost
 

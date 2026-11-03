@@ -120,11 +120,6 @@ The specification names these sources only. The descriptions, pluses and minuses
 | Bulk inventory bought, unsold | None yet | Falls |
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/edexcel-igcse-business-sources-of-business-finance-and-cash-flow-forecasting--03-g59-profit-vs-cash.webp" width="900" height="1040" alt="A sale of 4,000 on credit with goods costing 2,500 paid in cash gives profit of plus 1,500 but a cash movement of minus 2,500 this month, because the customer has not paid." loading="lazy">
-  <figcaption>The same sale gives +1,500 profit but -2,500 cash this month.</figcaption>
-</figure>
-
-<figure class="topic-figure">
   <img src="https://img.marlbridge.com/o-level-business-income-statements-and-statement-of-financial-position--10-vellam-profit-cash.webp" width="900" height="934" alt="Bars show Vellam Bikes profit of 9,000 but cash change of minus 18,000, taking cash from 20,000 to 2,000." loading="lazy">
   <figcaption>A profitable quarter can still drain cash.</figcaption>
 </figure>
@@ -152,6 +147,11 @@ The specification names these sources only. The descriptions, pluses and minuses
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/edexcel-igcse-business-sources-of-business-finance-and-cash-flow-forecasting--05-g59-feb-loan.webp" width="900" height="960" alt="Inflows of 13,500 are 8,500 sales plus a 5,000 loan; outflows of 13,000 include 6,000 equipment. Net cash flow is +500, but would be -4,500 without the loan, so the equipment causes the dip." loading="lazy">
   <figcaption>February net flow is low because of the 6,000 equipment; the loan hides it.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-cash-flow--04-forecast-layout.webp" width="900" height="900" alt="Table of opening balance, inflows, outflows, net cash flow and closing balance for March to June. Closing balances 1,300, -11,800, -3,700, 11,400; each closing balance is the next opening balance. April outflows include 16,000 for kayaks." loading="lazy">
+  <figcaption>A forecast chains month to month, and one large purchase can make a profitable business overdrawn.</figcaption>
 </figure>
 
 
@@ -186,6 +186,11 @@ Check: 1,500 - 300 - 400 + 1,300 = 2,100. The balance never goes negative, but i
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/o-level-business-cash-flow-forecasting-and-working-capital--11-forecast-fill-order.webp" width="900" height="940" alt="A May and June forecast table with the lesson's eight steps numbered: months across the top, opening balance, inflows, outflows, add up, net cash flow, closing balance, and copying the closing balance to the next opening. May closes at 2,800 and June at 3,100. A May credit sale paid in June is June cash in; depreciation is not cash." loading="lazy">
   <figcaption>The order in which a cash-flow forecast table is completed.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-0264-cash-flow-forecast--08-cf-four-remedies.webp" width="900" height="950" alt="Four cards: overdraft (bills paid at once; interest, can be withdrawn), delaying supplier payments (cash stays longer; lost trust or discount), customers paying sooner (cash earlier; customers annoyed), delaying a non-current asset (payment moves; output held back)." loading="lazy">
+  <figcaption>Four methods cover a short cash gap, each with a cost.</figcaption>
 </figure>
 
 
@@ -235,6 +240,12 @@ For a cash-flow question, show each line of working: totals first, then net cash
 8. 12,400 - 14,100 = -1,700.
 9. 2,300 + (-3,000) = -700. The business is forecast to be overdrawn, so it needs finance or action to improve cash.
 10. It has no past profit yet to retain, so there is nothing to reinvest.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-business-sources-of-business-finance-and-cash-flow-forecasting--03-g59-profit-vs-cash.webp" width="900" height="1040" alt="A sale of 4,000 on credit with goods costing 2,500 paid in cash gives profit of plus 1,500 but a cash movement of minus 2,500 this month, because the customer has not paid." loading="lazy">
+  <figcaption>The same sale gives +1,500 profit but -2,500 cash this month.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

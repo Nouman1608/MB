@@ -182,6 +182,11 @@ Useful angles are the short run against the long run, the size of the firm, how 
 10. Customers who find out may stop trusting the business, which damages its reputation and its sales.
 
 <figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-0264-business-and-the-environment--06-packaging-two-years.webp" width="900" height="920" alt="Two waterfall charts. Extra contribution of 33,000 dollars minus extra packaging of 25,200 and a one-off redesign of 15,000 gives a year 1 loss of 7,200. In year 2 without the redesign the gain is 7,800 dollars." loading="lazy">
+  <figcaption>A green change can lose money in year 1 and pay in year 2, if the sales rise lasts.</figcaption>
+</figure>
+
+<figure class="topic-figure">
   <img src="https://img.marlbridge.com/igcse-business-0264-business-and-the-environment--09-ashgrave-where-rule.webp" width="900" height="840" alt="A smelter beside a village is refused permission to expand; the only other site is 40 km away. Extra transport of 4.50 dollars a tonne on 20,000 tonnes is 90,000 dollars a year." loading="lazy">
   <figcaption>A rule about where to produce also changes costs: $90,000 a year for Ashgrave.</figcaption>
 </figure>

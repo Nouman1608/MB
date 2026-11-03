@@ -139,6 +139,11 @@ Worked reminder: k(x) = (x + 1)/(x − 2). Then y(x − 2) = x + 1, so x(y − 1
   <figcaption>Opposite sides of a parallelogram make the same move, which locates the fourth vertex.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-coordinates-and-drawing-linear-graphs--02-quadrants.webp" width="900" height="980" alt="A grid from -6 to 6 is split into four coloured quadrants labelled with the signs of x and y, with a point in each: (3, 4), (-3, 4), (-3, -4), (3, -4). (6, 0) lies on the x-axis and (0, -2) on the y-axis." loading="lazy">
+  <figcaption>The signs of x and y tell you the quadrant; on the x-axis y = 0 and on the y-axis x = 0.</figcaption>
+</figure>
+
 
 ## A11 Core: straight lines
 
@@ -155,6 +160,17 @@ Worked reminder: k(x) = (x + 1)/(x − 2). Then y(x − 2) = x + 1, so x(y − 1
 
 - Positive gradient: the line slopes up to the right. Negative: down to the right.
 - Worked reminder: y = 1.5x − 3 has gradient 1.5, y-intercept −3 and x-intercept 2.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-coordinates-and-drawing-linear-graphs--05-draw-line-table.webp" width="900" height="1180" alt="A table gives six points for y = -3x + 4 from x = -2 to 3. They lie on one straight line and a step triangle shows y falls by 3 for each +1 in x. The line crosses the y-axis at (0, 4)." loading="lazy">
+  <figcaption>Make a table, plot every point and rule one line across the whole range.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-coordinate-geometry--05-parallel-lines.webp" width="900" height="1000" alt="Lines y = 2x - 1 and y = 2x + 3 each go 1 across and 2 up, so they are parallel. The parallel line through P (1, 5) has c = 3." loading="lazy">
+  <figcaption>Parallel lines share a gradient; use a point to find c.</figcaption>
+</figure>
+
 
 ## A11 Extension only: equations and perpendiculars
 
@@ -182,6 +198,11 @@ Worked reminder: take A(1, 3) and B(5, 6). Then gradient AB = 3/4. The line thro
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/oxfordaqa-igcse-mathematics-functions-coordinates-and-straight-line-graphs--06-point-gradient-line.webp" width="900" height="880" alt="A line through (4, minus 1) with gradient minus 2/3 drawn on a grid. A step triangle goes across 3 and down 2 to (7, minus 3). The equation y minus (minus 1) = minus 2/3 (x minus 4) rearranges to y = minus 2/3 x + 5/3, or 2x + 3y = 5, and the line crosses the y-axis at (0, 5/3)." loading="lazy">
   <figcaption>A point and a gradient fix the line: y - y1 = m(x - x1), checked by substituting the point.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-coordinate-geometry--06-perpendicular-lines.webp" width="900" height="960" alt="Two lines meet at right angles at (0, 1). One has gradient 2/3 and the other -3/2; their product is -1." loading="lazy">
+  <figcaption>Perpendicular gradients multiply to -1.</figcaption>
 </figure>
 
 
@@ -219,6 +240,12 @@ Equal gradients with equal intercepts mean the same line.
 - Use the written steps of a method as a checklist, and glance at the sign of every gradient before moving on.
 - Check that a line you have drawn passes through the axis crossings you calculated. A mismatch tells you to recheck the table of values.
 - For an inverse function, test one value: put a number into f, then put the result into your f⁻¹. You should get the number back.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-coordinates-and-drawing-linear-graphs--06-axis-intercepts.webp" width="900" height="1120" alt="The line 4x + 3y = 12 is drawn through (0, 4) and (3, 0), found by putting x = 0 then y = 0, with a check point (6, -4). All three points are on one line." loading="lazy">
+  <figcaption>For x and y on the same side, set x = 0 and y = 0 to find the axis crossing points, then check a third point.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 
@@ -269,3 +296,14 @@ Equal gradients with equal intercepts mean the same line.
 ## Official syllabus
 
 OxfordAQA International GCSE Mathematics (9260), specification Version 5.1, for exams May/June 2018 onwards, published by OxfordAQA. Section 3.2.2, statements A9, A10 and A11.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-coordinate-geometry--04-y-mx-c.webp" width="900" height="990" alt="The line y = 2x - 1 crosses the y-axis at (0, -1) so c = -1. Between (1, 1) and (3, 5) it goes 2 across and 4 up, so m = 2." loading="lazy">
+  <figcaption>m is the gradient and c is where the line crosses the y-axis.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-coordinate-geometry--02-gradient-signs.webp" width="900" height="880" alt="Four small graphs: a rising line has positive gradient, a falling line negative, a horizontal line zero, and a vertical line has no gradient because the run is zero." loading="lazy">
+  <figcaption>Uphill is positive, downhill is negative, flat is zero.</figcaption>
+</figure>
+

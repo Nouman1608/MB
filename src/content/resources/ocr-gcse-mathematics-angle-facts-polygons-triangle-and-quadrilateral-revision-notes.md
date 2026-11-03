@@ -176,12 +176,6 @@ Order of rotation symmetry = number of positions in a full turn. Order 1 means n
 | Isosceles trapezium | 1 | 1 |
 | Regular n-gon | n | n |
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-mathematics-0580-symmetry--05-regular-polygons.webp" width="900" height="1100" alt="A pentagon has 5 lines each from a vertex to the opposite side midpoint, order 5 and turn 72 degrees. An octagon has 8 lines, 4 vertex to vertex and 4 midpoint to midpoint, order 8 and turn 45 degrees. A turn of 24 degrees gives 15 sides and an interior angle of 156 degrees." loading="lazy">
-  <figcaption>A regular n-sided polygon has n lines and order n; the smallest turn is 360° ÷ n.</figcaption>
-</figure>
-
-
 ## Proof checklist
 
 A proof is a list of statements, each with a reason. Both tiers justify results in simple proofs.
@@ -192,6 +186,17 @@ A proof is a list of statements, each with a reason. Both tiers justify results 
 4. Finish by stating the result you were asked to show.
 
 **Higher tier only:** more formal proofs of geometrical results. The specification names circle theorems as an example. Typical tools are isosceles triangles (base angles), parallel lines (alternate angles) and the triangle angle sum. For example, to show that the angle at the centre of a circle is twice the angle at the circumference, join the circumference point to the centre, use the equal radii to get base angles, and use the exterior angle of a triangle.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-symmetry--05-regular-polygons.webp" width="900" height="1100" alt="A pentagon has 5 lines each from a vertex to the opposite side midpoint, order 5 and turn 72 degrees. An octagon has 8 lines, 4 vertex to vertex and 4 midpoint to midpoint, order 8 and turn 45 degrees. A turn of 24 degrees gives 15 sides and an interior angle of 156 degrees." loading="lazy">
+  <figcaption>A regular n-sided polygon has n lines and order n; the smallest turn is 360° ÷ n.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-symmetry--03-shapes-lines-order.webp" width="900" height="1260" alt="Ten triangles and quadrilaterals with their mirror lines dashed and the number of lines and order stated: equilateral 3 and 3, isosceles 1 and 1, scalene 0 and 1, square 4 and 4, rectangle 2 and 2, rhombus 2 and 2, parallelogram 0 and 2, kite 1 and 1, isosceles trapezium 1 and 1, trapezium 0 and 1." loading="lazy">
+  <figcaption>If a shape has any lines, its order equals its number of lines; the parallelogram is the exception with order 2.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 
@@ -276,5 +281,10 @@ OCR, GCSE (9-1) Mathematics J560, specification Version 2.1 (August 2026), for f
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/igcse-mathematics-geometry--01-parallel-line-angles.webp" width="900" height="1220" alt="Three panels of two parallel lines cut by a transversal. Corresponding angles are both 65 degrees. Alternate angles are both 115 degrees. Co-interior angles are 65 and 115 degrees, adding to 180. With a 65 degree transversal: corresponding angles are equal (F), alternate angles are equal (Z), co-interior angles add to 180 degrees (C)." loading="lazy">
   <figcaption>Corresponding and alternate angles are equal; co-interior angles add to 180°.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-geometry--03-right-angles-in-circles.webp" width="900" height="1055" alt="Top: a triangle ABC inside a circle with AB a diameter, right angle at C. Bottom: a radius OT meets a tangent at T with a right angle. The angle in a semicircle is 90 degrees, and a tangent meets a radius at 90 degrees." loading="lazy">
+  <figcaption>The angle in a semicircle and the angle between tangent and radius are both 90°.</figcaption>
 </figure>
 

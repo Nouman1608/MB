@@ -32,12 +32,6 @@ These notes condense section 2.1.1 (a) to (k) of the OCR A Level Biology A speci
 - **Calibration**: finding what real length one eyepiece graticule division represents, using a stage micrometer.
 - **Cytoskeleton**: a network of protein fibres and tubules in the cytoplasm.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-level-aqa-biology-eukaryotic-and-prokaryotic-cell-structure--06-resolution-scale.webp" width="900" height="900" alt="A logarithmic size scale from 0.1 nm to 100 micrometres. Bars show the smallest detail each microscope resolves: about 200 nm for light, 3 to 10 nm for SEM and 0.5 nm for TEM. Below, a ribosome (20 to 30 nm) needs an electron microscope, a mitochondrion (0.5 to 1 micrometre) appears as a dot in light microscopy, and a bacterium and a cell are visible in a light microscope." loading="lazy">
-  <figcaption>Resolution, set by wavelength, decides what you can see; extra magnification adds no detail.</figcaption>
-</figure>
-
-
 ## Microscopes at a glance (a, f, h)
 
 | | Light | TEM | SEM |
@@ -52,6 +46,12 @@ These notes condense section 2.1.1 (a) to (k) of the OCR A Level Biology A speci
 Why electron microscopes resolve better: the beam has a shorter wavelength than visible light. Magnification beyond the resolution limit adds no detail.
 
 You are not required to recall exact resolution or magnification values for each microscope.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-biology-eukaryotic-and-prokaryotic-cell-structure--06-resolution-scale.webp" width="900" height="900" alt="A logarithmic size scale from 0.1 nm to 100 micrometres. Bars show the smallest detail each microscope resolves: about 200 nm for light, 3 to 10 nm for SEM and 0.5 nm for TEM. Below, a ribosome (20 to 30 nm) needs an electron microscope, a mitochondrion (0.5 to 1 micrometre) appears as a dot in light microscopy, and a bacterium and a cell are visible in a light microscope." loading="lazy">
+  <figcaption>Resolution, set by wavelength, decides what you can see; extra magnification adds no detail.</figcaption>
+</figure>
+
 
 ## Methods in steps
 
@@ -77,6 +77,11 @@ You are not required to recall exact resolution or magnification values for each
 1. Measure the bar with a ruler.
 2. Magnification = measured bar length ÷ length it stands for (same units).
 3. Use that magnification to find any real size.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-biology-eukaryotic-and-prokaryotic-cell-structure--07-magnification-scale-bar.webp" width="900" height="960" alt="A micrograph with a cell 112 mm wide and a 32 mm scale bar labelled 2 micrometres. Magnification = 32 000 micrometres / 2 micrometres = x16 000. Actual width = 112 000 micrometres / 16 000 = 7.0 micrometres, checked by proportion: 3.5 bars of 2 micrometres." loading="lazy">
+  <figcaption>Convert to one unit, find magnification from the scale bar, then divide the image size by it.</figcaption>
+</figure>
 
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/a-level-aqa-biology-eukaryotic-and-prokaryotic-cell-structure--08-graticule-calibration.webp" width="900" height="930" alt="Two calibrations against a stage micrometer with 10 micrometre divisions. At x10, 40 graticule units match 28 stage divisions (280 micrometres), so one unit is 7 micrometres and a cell of 5 units is 35 micrometres. At x40, 100 units match 22 divisions (220 micrometres), so one unit is 2.2 micrometres. Recalibrate for every objective." loading="lazy">
@@ -155,12 +160,6 @@ Sharp pencil, continuous lines, no shading, no colour. Large, in proportion, tit
 **Drawing magnification.** A cell is 0.045 mm long and your drawing of it is 135 mm long. Magnification = 135 ÷ 0.045 = **×3000**. A 10 µm scale bar on that drawing would be 10 × 3000 = 30 000 µm = 30 mm long.
 
 **Order of magnitude.** A mitochondrion of about 1 µm in a cell of about 20 µm is a factor of about 20, so the cell is just over one order of magnitude wider.
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-level-aqa-biology-eukaryotic-and-prokaryotic-cell-structure--07-magnification-scale-bar.webp" width="900" height="960" alt="A micrograph with a cell 112 mm wide and a 32 mm scale bar labelled 2 micrometres. Magnification = 32 000 micrometres / 2 micrometres = x16 000. Actual width = 112 000 micrometres / 16 000 = 7.0 micrometres, checked by proportion: 3.5 bars of 2 micrometres." loading="lazy">
-  <figcaption>Convert to one unit, find magnification from the scale bar, then divide the image size by it.</figcaption>
-</figure>
-
 
 ## Reading a photomicrograph (h)
 

@@ -93,6 +93,11 @@ Every choice carries an **opportunity cost** — the next best alternative given
   <figcaption>Households and firms meet in two markets: one for products and one for factors of production.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-how-markets-work--09-barter-and-money.webp" width="900" height="1250" alt="Three people each have goods the next person does not want, so barter fails. With money, each is paid in pounds and then buys what they want, so trade works." loading="lazy">
+  <figcaption>Money removes the need for a double coincidence of wants.</figcaption>
+</figure>
+
 
 ## The demand side
 
@@ -109,6 +114,12 @@ Supply slopes upward because higher prices raise profitability and justify the h
 Conditions of supply are production costs, technology, indirect taxes and subsidies, the number of suppliers, weather for agricultural goods, and the prices of related goods a firm could produce instead.
 
 An **indirect tax** shifts supply left; a **subsidy** shifts it right.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-how-markets-work--08-social-cost-and-benefit.webp" width="900" height="890" alt="Left: private cost 60 plus external cost 40 on third parties gives social cost 100. Right: private benefit 50 plus external benefit 30 gives social benefit 80." loading="lazy">
+  <figcaption>Social cost = private cost + external cost; social benefit = private benefit + external benefit.</figcaption>
+</figure>
+
 
 ## Equilibrium and elasticity
 

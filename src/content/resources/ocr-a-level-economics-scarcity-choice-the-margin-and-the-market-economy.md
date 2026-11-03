@@ -177,6 +177,16 @@ In a market economy, private owners and consumers make most decisions, and price
   <figcaption>In a market the price answers what to produce, how, and for whom.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-economics-price-system-and-the-microeconomy--08-functions-of-price.webp" width="900" height="940" alt="Demand rises from D1 to D2, moving equilibrium from E1 (price 5.0, quantity 50) to E2 (price 6.3, quantity 67). Rationing: buyers further down D2 are priced out. Signalling: the rising price shows demand has grown. Incentivising: the higher price makes producers supply more, along S from 50 to 67." loading="lazy">
+  <figcaption>A change in price rations scarce goods, signals where demand lies and gives producers an incentive to respond.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-economics-government-microeconomic-intervention--05-tool-matching.webp" width="900" height="900" alt="A matching diagram joining four problems to six tools. Public good not provided: direct provision. Merit good under-consumed: direct provision, subsidy, information. Demerit good over-consumed: information, indirect tax, minimum price. Price too high or too low: maximum or minimum price, buffer stock." loading="lazy">
+  <figcaption>Match the tool to the problem: the mechanism, not just the name, earns marks.</figcaption>
+</figure>
+
 
 ## 6. The concept of the margin
 
@@ -230,3 +240,9 @@ See the [revision notes](/resources/ocr-a-level-economics-scarcity-choice-the-ma
 ## Official syllabus
 
 OCR, *A Level in Economics (H460)* specification, Version 3.0 (June 2026), for first assessment in 2021, Component 1 content, area of study Scarcity and choice.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-allocation-of-resources--03-causes-of-market-failure.webp" width="900" height="1060" alt="Five small pictures show the causes of market failure: public goods, merit and demerit goods, external costs and benefits, abuse of monopoly power and factor immobility. The result is the wrong amount produced or used." loading="lazy">
+  <figcaption>Market failure has five causes limited to those in the 0455 syllabus.</figcaption>
+</figure>
+

@@ -115,6 +115,16 @@ Key point: objectives conflict, and ranking them is a value judgement. A good an
   <figcaption>Whether inflation hurts the current account depends on elasticities.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-objectives-of-government--02-inflation-causes.webp" width="900" height="1090" alt="Two illustrative AD/AS diagrams. Demand-pull: AD shifts right and the price level rises. Cost-push: AS shifts up and left and the price level rises. Boxes give the cause chain and the policy response from the lesson." loading="lazy">
+  <figcaption>Demand-pull starts with demand; cost-push starts with rising costs.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-economics-measurement-of-macroeconomic-performance--02-growth-vs-current-account.webp" width="900" height="1040" alt="A four-step chain: growth policy raises aggregate demand, incomes rise, some spending goes on imports, and the current account worsens. Bars show exports 100 and imports rising from 100 to 118, a deficit of 18." loading="lazy">
+  <figcaption>Growth policy can raise imports faster than exports, creating a short-run conflict.</figcaption>
+</figure>
+
 
 ## 10.2.5 Phillips curves
 
@@ -154,6 +164,11 @@ Worked reminder with inflation = expected inflation − 0.4 × (unemployment −
   <figcaption>Supply-side policy can shift the LRPC left.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-macroeconomics--05-phillips-curve.webp" width="900" height="910" alt="The short-run Phillips curve slopes down, so lower unemployment (A to B) brings higher inflation. Higher expectations shift it up to SRPC2 and the economy ends at C on the vertical long-run curve at the NAIRU." loading="lazy">
+  <figcaption>In the short run there is a trade-off; in the long run unemployment returns to the NAIRU.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 
@@ -162,6 +177,12 @@ Worked reminder with inflation = expected inflation − 0.4 × (unemployment −
 - **Demand-pull vs cost-push**: AD shift vs short-run aggregate supply shift. The Phillips curve fits demand-pull; a cost-push shock moves the curve.
 - **Internal vs external value**: price level at home vs exchange rate.
 - **Cyclical vs natural unemployment**: the natural rate remains when the economy is at its potential.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-aggregate-demand-supply--07-lras-growth.webp" width="900" height="1000" alt="LRAS shifts right from output 100 to 130, with SRAS shifted right by the same amount. Equilibrium moves from output 90, price level 65 to output 105, price level 57.5. Technology, productivity, enterprise, factor mobility, incentives and institutions are listed as causes." loading="lazy">
+  <figcaption>Underlying economic growth is a rightward shift in LRAS, raising output and easing prices.</figcaption>
+</figure>
+
 
 ## Small worked reminders
 

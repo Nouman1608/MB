@@ -122,6 +122,12 @@ The force and the acceleration point towards the centre. If the force vanishes, 
 
 On a free-body diagram, draw the real forces only.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-motion-in-a-circle--07-shm-energy.webp" width="900" height="1080" alt="For a 0.250 kg oscillator with A 0.080 m and f 1.8 Hz the total energy is 0.102 J. Against displacement, Ep is an upright parabola and Ek an inverted parabola under a flat total line, crossing at plus and minus A over root 2. Against time each energy completes two cycles per oscillation and they are in antiphase." loading="lazy">
+  <figcaption>Energy swaps between kinetic and potential, with the total constant when there is no damping.</figcaption>
+</figure>
+
+
 ## 5.2.2(b) Speed in a circle: v = ωr
 
 In one period the object travels the circumference 2πr, so

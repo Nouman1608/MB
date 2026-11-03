@@ -161,6 +161,12 @@ Picture price up the side and quantity along the base. The downward demand curve
 
 If planners had fixed the price at £16, then Qd = 700 and Qs = 1,000, which leaves a surplus of 300 tonnes.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-allocation-of-resources--07-price-controls.webp" width="900" height="1370" alt="Equilibrium E is at price 5 and quantity 50. A maximum price of 3 gives demand 70 and supply 25, a shortage of 45. A minimum price of 7 gives demand 30 and supply 75, a surplus of 45." loading="lazy">
+  <figcaption>A maximum price below equilibrium causes a shortage; a minimum price above it causes a surplus.</figcaption>
+</figure>
+
+
 ### Evaluating the three types
 
 | | Advantages | Disadvantages |

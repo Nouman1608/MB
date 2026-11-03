@@ -210,6 +210,17 @@ A good judgement names the condition on which the conclusion depends. Use this o
 9. Inequality in the distribution of income and wealth.
 10. £55 − £40 = £15.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-the-price-mechanism-and-the-meaning-of-market-failure--04-missing-market-street-light.webp" width="900" height="1000" alt="Three neighbours would pay 10, 8 and 6 pounds a month for a street light, a total of 24 pounds, which exceeds its cost of 15 pounds a month, so providing it would give a net benefit of 9 pounds. A bar chart shows the cost bar of 15 and the stacked willingness to pay bars reaching 24. The picture below shows a lamp lighting three neighbours who each hope the others will pay. Nobody can be stopped from using the light, so a private firm cannot collect revenue, no market forms, and the 9 pounds of net benefit is lost. This is a complete market failure because the market is missing." loading="lazy">
+  <figcaption>The light is worth 24 to its users against a cost of 15, yet no market forms because nobody can be made to pay.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-economics-basic-economic-ideas-and-resource-allocation--04-free-rider-problem.webp" width="900" height="890" alt="A street lamp lights five people but only one pays; four free ride because nobody can be excluded. The collected 25 is far below the lamp's cost of 100, so a private firm cannot supply it profitably." loading="lazy">
+  <figcaption>Non-excludability lets people free ride, so private firms cannot profitably supply public goods.</figcaption>
+</figure>
+
+
 ## Where marks are usually lost
 
 - Describing a price change without naming the function it performs.

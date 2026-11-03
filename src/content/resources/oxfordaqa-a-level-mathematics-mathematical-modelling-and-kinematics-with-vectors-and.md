@@ -64,6 +64,12 @@ v = u + at = 9.8 × 2.4744… = 24.2 m s⁻¹ (3 s.f.)
 
 The model predicts 2.47 s, but the measured time is longer. That fits an assumption that ignores air resistance, which slows the fall. A refinement is to include a resistive force. Timing error is another source of difference, so you would repeat the timing before blaming the model.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-kinematics--07-projectile-two-motions.webp" width="900" height="800" alt="A projectile launched at 24.5 m/s with sin α = 0.6, drawn to scale with dots every 0.5 s. The dots are 9.8 m apart horizontally (constant 19.6 m/s) while vertical speed falls from 14.7 to zero at the top and to minus 14.7 on landing. T = 3 s, R = 58.8 m, H = 11.0 m." loading="lazy">
+  <figcaption>Horizontal motion is uniform and vertical motion has acceleration −g; time links the two.</figcaption>
+</figure>
+
+
 ## M2.2 Position, velocity and acceleration with calculus
 
 For a particle with position vector r relative to a fixed origin O, at time t:

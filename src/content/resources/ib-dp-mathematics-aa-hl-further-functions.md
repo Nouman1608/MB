@@ -227,12 +227,6 @@ Solve eˣ ≥ x + 2.
 
 Graph y = eˣ and y = x + 2 and find the intersections: x = −1.84 and x = 1.15 (3 s.f.). The exponential is above the line outside these values, so **x ≤ −1.84 or x ≥ 1.15**.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ib-dp-mathematics-aa-hl-further-functions--09-cubic-inequality.webp" width="900" height="880" alt="Graphs of y = x^3 and y = 2x^2 + 5x - 6 meet at x = -2, 1 and 3. Teal shading marks where the cubic is above the quadratic (-2 &lt;= x &lt;= 1 and x &gt;= 3), gold where it is below. So x^3 &gt;= 2x^2 + 5x - 6 for -2 &lt;= x &lt;= 1 or x &gt;= 3." loading="lazy">
-  <figcaption>The solution of g(x) &gt;= f(x) is where the graph of g lies on or above the graph of f.</figcaption>
-</figure>
-
-
 ## 2.16 Modulus and related graphs
 
 | Graph | How to get it from y = f(x) |
@@ -252,6 +246,12 @@ f(x) = x² − 2x − 3 = (x + 1)(x − 3), with minimum point (1, −4).
 - y = f(2x − 4): points map to ((p + 4)/2, q). The minimum goes to **(5/2, −4)** and the zeros to x = **3/2** and **7/2**.
 - y = 1/f(x): vertical asymptotes **x = −1** and **x = 3**; the minimum (1, −4) becomes a local maximum **(1, −1/4)**.
 - y = [f(x)]²: touches the axis at x = −1 and x = 3; local maximum **(1, 16)**.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-aa-hl-further-functions--08-reciprocal-and-square.webp" width="900" height="1120" alt="From f(x) = x^2 - 2x - 3 (dotted): y = 1/f(x) has asymptotes x = -1 and x = 3 and the minimum (1, -4) becomes a local maximum (1, -1/4); y = [f(x)]^2 touches the x-axis at -1 and 3 with maximum (1, 16). Points where f = +/-1 stay on 1/f and sit at height 1 on f squared." loading="lazy">
+  <figcaption>1/f flips minima to maxima and turns zeros into asymptotes; f squared is never negative and touches at the zeros.</figcaption>
+</figure>
+
 
 ### Modulus equations and inequalities
 
@@ -273,8 +273,8 @@ Solve \|x − 2\| < \|2x + 1\|.
 Square: x² − 4x + 4 < 4x² + 4x + 1, so 0 < 3x² + 8x − 3 = (3x − 1)(x + 3). Hence **x < −3 or x > 1/3**.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ib-dp-mathematics-aa-hl-further-functions--08-reciprocal-and-square.webp" width="900" height="1120" alt="From f(x) = x^2 - 2x - 3 (dotted): y = 1/f(x) has asymptotes x = -1 and x = 3 and the minimum (1, -4) becomes a local maximum (1, -1/4); y = [f(x)]^2 touches the x-axis at -1 and 3 with maximum (1, 16). Points where f = +/-1 stay on 1/f and sit at height 1 on f squared." loading="lazy">
-  <figcaption>1/f flips minima to maxima and turns zeros into asymptotes; f squared is never negative and touches at the zeros.</figcaption>
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-aa-hl-further-functions--09-cubic-inequality.webp" width="900" height="880" alt="Graphs of y = x^3 and y = 2x^2 + 5x - 6 meet at x = -2, 1 and 3. Teal shading marks where the cubic is above the quadratic (-2 &lt;= x &lt;= 1 and x &gt;= 3), gold where it is below. So x^3 &gt;= 2x^2 + 5x - 6 for -2 &lt;= x &lt;= 1 or x &gt;= 3." loading="lazy">
+  <figcaption>The solution of g(x) &gt;= f(x) is where the graph of g lies on or above the graph of f.</figcaption>
 </figure>
 
 

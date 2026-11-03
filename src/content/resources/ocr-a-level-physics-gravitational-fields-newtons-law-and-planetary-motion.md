@@ -80,6 +80,16 @@ The direction is towards the planet's centre, and free fall is at 8.8 m s⁻².
   <figcaption>Radial lines get closer as g gets stronger; near the surface they are parallel; two masses give a point where g = 0.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-gravitational-fields--03-g-and-v-graphs.webp" width="900" height="1030" alt="Two graphs for Earth against distance r. g falls from 9.81 N per kg at the surface to 2.45 at 2R and never reaches zero. V rises from -62.5 MJ per kg at the surface towards zero at infinity. The gradient of V at 2R is 2.45 N per kg, the size of g there." loading="lazy">
+  <figcaption>g falls as 1/r2; V = -GM/r rises towards 0; the gradient of the V graph gives g.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-gravitational-fields--08-escape-velocity.webp" width="900" height="1210" alt="The Earth’s potential well is -62.5 MJ per kg at the surface and zero at infinity. Launching with kinetic energy 62.5 MJ per kg brings the total energy to zero, giving escape velocity root(2GM/R) = 11.2 km per s. Bars compare Moon 2.37, Mars 5.03 and Earth 11.2 km per s; light-gas atoms at 1.9 km per s are 80% of the Moon value." loading="lazy">
+  <figcaption>Escape velocity v = root(2GM/r) makes total energy zero; it is independent of the escaping mass.</figcaption>
+</figure>
+
 
 ## 5.4.2 Newton's law of gravitation
 

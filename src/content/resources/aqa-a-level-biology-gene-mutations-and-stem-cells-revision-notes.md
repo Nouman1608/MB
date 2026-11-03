@@ -142,17 +142,6 @@ End with a judgement that weighs the points.
 
 The specification suggests this as an opportunity for aseptic technique. Cut explants, sterilise, place on sterile nutrient agar with growth regulators, incubate, and watch for callus and shoots. It shows that plant cells can keep the ability to form every cell type. It is not listed as a required practical.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/aqa-a-level-biology-gene-mutations-and-stem-cells--05-epigenetic-switch.webp" width="900" height="1200" alt="Acetylated histones hold DNA loosely so RNA polymerase can reach the gene and make mRNA. Without acetyl groups, and with methyl groups on the DNA, DNA is tight and the gene is off. The methylation pattern is copied when a cell divides, so both daughter cells keep it. The base sequence does not change." loading="lazy">
-  <figcaption>Acetylation, methylation and their inheritance on cell division.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/aqa-a-level-biology-gene-mutations-and-stem-cells--08-stem-cell-potency.webp" width="900" height="1230" alt="A zygote divides into a solid morula, then a hollow blastocyst with trophoblast, cavity and inner cell mass (Edexcel). Four bars narrow from totipotent (any cell type and placenta) through pluripotent and multipotent to unipotent (one cell type). Treating an adult skin cell with transcription factors makes an induced pluripotent stem cell (AQA)." loading="lazy">
-  <figcaption>Potency from totipotent to unipotent, the early embryo, and iPS cells.</figcaption>
-</figure>
-
-
 ## Quick self-test
 
 1. Name the six types of gene mutation in the specification.
@@ -182,6 +171,17 @@ The specification suggests this as an opportunity for aseptic technique. Cut exp
 10. 36 ÷ 45 × 100 = 80%.
 11. Two doublings (2 × 2 = 4).
 12. Advantage: made from the patient's own cells, so no embryo is destroyed. Risk: the cells may form tumours.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-biology-gene-mutations-and-stem-cells--05-epigenetic-switch.webp" width="900" height="1200" alt="Acetylated histones hold DNA loosely so RNA polymerase can reach the gene and make mRNA. Without acetyl groups, and with methyl groups on the DNA, DNA is tight and the gene is off. The methylation pattern is copied when a cell divides, so both daughter cells keep it. The base sequence does not change." loading="lazy">
+  <figcaption>Acetylation, methylation and their inheritance on cell division.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-biology-gene-mutations-and-stem-cells--08-stem-cell-potency.webp" width="900" height="1230" alt="A zygote divides into a solid morula, then a hollow blastocyst with trophoblast, cavity and inner cell mass (Edexcel). Four bars narrow from totipotent (any cell type and placenta) through pluripotent and multipotent to unipotent (one cell type). Treating an adult skin cell with transcription factors makes an induced pluripotent stem cell (AQA)." loading="lazy">
+  <figcaption>Potency from totipotent to unipotent, the early embryo, and iPS cells.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

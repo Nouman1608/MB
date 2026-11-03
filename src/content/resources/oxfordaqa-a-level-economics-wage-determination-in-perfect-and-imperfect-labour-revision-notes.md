@@ -165,12 +165,6 @@ Employment is the lower of supply and demand at the fixed wage. Wages from 10 up
 - **Index number** = value ÷ base value × 100. A wage of 40 rising to 46 is an index of 115.
 - **Real wage** change = (1 + nominal change) ÷ (1 + inflation) − 1. Nominal pay up 3% when prices rise 5% gives 1.03 ÷ 1.05 − 1 = −1.9%.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-wage-determination-in-perfect-and-imperfect-labour--03-real-wage.webp" width="900" height="860" alt="Bars from 100: pay 106, prices 104 and real pay 101.9. Real pay rises 1.9% because 1.06 divided by 1.04 minus 1 is 0.019." loading="lazy">
-  <figcaption>A 6% pay rise with 4% price rises is only a 1.9% real rise.</figcaption>
-</figure>
-
-
 ## Quick self-test
 
 1. State the profit-maximising hiring rule for a firm in a perfectly competitive labour market.
@@ -196,6 +190,12 @@ Employment is the lower of supply and demand at the fixed wage. Wages from 10 up
 8. About −1.9%.
 9. Any two of high membership density, inelastic labour demand, profitable employer, scarce skills, low unemployment, supportive laws.
 10. A worker who does not know higher pay is available elsewhere accepts less. Search costs and hidden productivity also stop wages equalising.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-wage-determination-in-perfect-and-imperfect-labour--03-real-wage.webp" width="900" height="860" alt="Bars from 100: pay 106, prices 104 and real pay 101.9. Real pay rises 1.9% because 1.06 divided by 1.04 minus 1 is 0.019." loading="lazy">
+  <figcaption>A 6% pay rise with 4% price rises is only a 1.9% real rise.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

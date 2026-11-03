@@ -100,11 +100,6 @@ Three-question test:
 3. Is that effect covered by the price? If not, it is an externality.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/aqa-gcse-economics-market-failure-misallocation-of-resources--04-mf-externality-grid.webp" width="900" height="1010" alt="A two by two grid. Columns are negative externality (a cost to others) and positive externality (a benefit to others); rows are production and consumption. Production, negative: a chemical works releases fumes that harm nearby homes. Production, positive: a firm trains apprentices and some later move to rival local firms. Consumption, negative: drivers add congestion and exhaust fumes for everyone else. Consumption, positive: vaccinated people lower the chance of passing on disease. In each case the people affected are outsiders to the deal." loading="lazy">
-  <figcaption>Production and consumption can each cause a negative or a positive externality.</figcaption>
-</figure>
-
-<figure class="topic-figure">
   <img src="https://img.marlbridge.com/aqa-gcse-economics-how-markets-work--08-social-cost-and-benefit.webp" width="900" height="890" alt="Left: private cost 60 plus external cost 40 on third parties gives social cost 100. Right: private benefit 50 plus external benefit 30 gives social benefit 80." loading="lazy">
   <figcaption>Social cost = private cost + external cost; social benefit = private benefit + external benefit.</figcaption>
 </figure>
@@ -156,6 +151,12 @@ Three-question test:
 3. The market produces too little.
 4. A subsidy lowers cost per unit, price falls and output rises.
 5. Evaluation: the subsidy is paid by taxpayers and could be spent elsewhere.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-market-failure-misallocation-of-resources--04-mf-externality-grid.webp" width="900" height="1010" alt="A two by two grid. Columns are negative externality (a cost to others) and positive externality (a benefit to others); rows are production and consumption. Production, negative: a chemical works releases fumes that harm nearby homes. Production, positive: a firm trains apprentices and some later move to rival local firms. Consumption, negative: drivers add congestion and exhaust fumes for everyone else. Consumption, positive: vaccinated people lower the chance of passing on disease. In each case the people affected are outsiders to the deal." loading="lazy">
+  <figcaption>Production and consumption can each cause a negative or a positive externality.</figcaption>
+</figure>
+
 
 ## Worked reminder with a table (invented)
 

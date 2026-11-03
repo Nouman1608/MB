@@ -102,6 +102,12 @@ P(X > b | X > a) = P(X > b)/P(X > a) = (1 − F(b))/(1 − F(a)), for b > a.
 
 **Upper quartile.** f(x) = 3x²/8 for 0 ≤ x ≤ 2. F(x) = x³/8. Solve x³/8 = 3/4, so x³ = 6 and Q₃ = ∛6 ≈ 1.817.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-mathematics-continuous-random-variables-pdf-cdf-mean-variance-mode--02-pdf-to-cdf.webp" width="900" height="985" alt="Two aligned graphs. The upper is the pdf x/6 then 1/3 with areas 1/12 and 7/12 shaded; the lower is the cdf rising to 1. Heights of the cdf at x = 1 and 3 are 1/12 and 2/3, and their gap 7/12 is P(1 &lt; X &lt; 3)." loading="lazy">
+  <figcaption>F(x) is the area collected so far, so P(a &lt; X &lt; b) = F(b) − F(a).</figcaption>
+</figure>
+
+
 ## A full two-piece reminder
 
 ```
@@ -119,22 +125,6 @@ F(5) = −25/8 + 25/4 − 17/8 = 1  (check)
 ```
 
 Median: F(3) = 1/2 exactly, so the median is **3**, the break point itself. Upper quartile: F(x) = 3/4 lies in the second piece, giving x² − 10x + 23 = 0, so x = 5 ± √2. Only **5 − √2 ≈ 3.59** is in 3 ≤ x ≤ 5. Interval: P(2 < X < 4) = F(4) − F(2) = 7/8 − 1/3 = **13/24**.
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/edexcel-ial-mathematics-continuous-random-variables-pdf-cdf-mean-variance-mode--02-pdf-to-cdf.webp" width="900" height="985" alt="Two aligned graphs. The upper is the pdf x/6 then 1/3 with areas 1/12 and 7/12 shaded; the lower is the cdf rising to 1. Heights of the cdf at x = 1 and 3 are 1/12 and 2/3, and their gap 7/12 is P(1 &lt; X &lt; 3)." loading="lazy">
-  <figcaption>F(x) is the area collected so far, so P(a &lt; X &lt; b) = F(b) − F(a).</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/edexcel-ial-mathematics-continuous-random-variables-pdf-cdf-mean-variance-mode--04-mean-median-mode.webp" width="900" height="830" alt="The pdf (4/27)x²(3 − x) on 0 to 3 peaks at x = 2. Lines mark the mean 1.8, median about 1.84 and mode 2; the median splits the area into two halves of 1/2." loading="lazy">
-  <figcaption>The median halves the area, and here mean &lt; median &lt; mode.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/edexcel-ial-mathematics-continuous-random-variables-pdf-cdf-mean-variance-mode--06-linear-function-of-x.webp" width="900" height="915" alt="Two graphs on one scale. X, with pdf 4x³/15 on 1 to 2, has mean 1.65 and σ 0.26. 2X + 3 lies on 5 to 7 with mean 6.31 and σ 0.52: shifted by the +3 and spread doubled by the ×2." loading="lazy">
-  <figcaption>Adding b slides the distribution, and multiplying by a multiplies the variance by a².</figcaption>
-</figure>
-
 
 ## Reading the question
 
@@ -189,6 +179,12 @@ A pdf that rises then falls has its highest point where the probability density 
 9. a²/9 = 0.9 gives a² = 8.1, so **a ≈ 2.85**.
 10. F(x) = x²/36. P(X > 4 | X > 2) = (1 − 16/36)/(1 − 4/36) = (20/36)/(32/36) = **5/8**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-mathematics-continuous-random-variables-pdf-cdf-mean-variance-mode--04-mean-median-mode.webp" width="900" height="830" alt="The pdf (4/27)x²(3 − x) on 0 to 3 peaks at x = 2. Lines mark the mean 1.8, median about 1.84 and mode 2; the median splits the area into two halves of 1/2." loading="lazy">
+  <figcaption>The median halves the area, and here mean &lt; median &lt; mode.</figcaption>
+</figure>
+
+
 ## Where marks are usually lost
 
 - Writing f(x) = 1 or "total probability = 1" instead of showing that the integral equals 1.
@@ -199,6 +195,12 @@ A pdf that rises then falls has its highest point where the probability density 
 - Using a percentage (50) instead of a probability (0.5) in F(m) = ...
 - Differentiating F and forgetting to state the range, or that f = 0 elsewhere.
 - Rounding an exact answer early and then giving an inaccurate final value.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-mathematics-continuous-random-variables-pdf-cdf-mean-variance-mode--07-exponential-pdf.webp" width="900" height="850" alt="The pdf 0.4e^(−0.4x) falls from 0.4. The area from 2 to 6 is 0.359. A line marks the mean 2.5, equal to the standard deviation." loading="lazy">
+  <figcaption>An exponential pdf starts at λ and decays; its mean and standard deviation are both 1/λ.</figcaption>
+</figure>
+
 
 ## Official syllabus
 

@@ -165,6 +165,11 @@ The frequency of a has risen from 0.30 to 0.44, so the allele frequency is chang
   <figcaption>p squared, 2pq and q squared are the areas of a square split by the two allele frequencies.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-selection-and-evolution--06-genetic-drift.webp" width="900" height="1200" alt="Two graphs show eight simulated populations starting with an allele at 0.5. With 20 gene copies the lines wander and several are lost or fixed by chance; with 1000 gene copies they stay near 0.5." loading="lazy">
+  <figcaption>Chance changes in allele frequency are large in small populations and small in large ones.</figcaption>
+</figure>
+
 
 ### (ii) Causes of change
 

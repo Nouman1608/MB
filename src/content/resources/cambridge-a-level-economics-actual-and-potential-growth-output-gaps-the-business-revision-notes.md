@@ -40,6 +40,11 @@ Track your coverage on the [Cambridge A Level Economics hub](/boards/cambridge/a
   <figcaption>Output gap is actual minus potential, divided by potential.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-aggregate-demand-supply--07-lras-growth.webp" width="900" height="1000" alt="LRAS shifts right from output 100 to 130, with SRAS shifted right by the same amount. Equilibrium moves from output 90, price level 65 to output 105, price level 57.5. Technology, productivity, enterprise, factor mobility, incentives and institutions are listed as causes." loading="lazy">
+  <figcaption>Underlying economic growth is a rightward shift in LRAS, raising output and easing prices.</figcaption>
+</figure>
+
 
 ## Formulas
 
@@ -91,8 +96,8 @@ mps is the marginal propensity to save, mpt the marginal rate of tax and mpm the
 **Index numbers across the cycle.** Growth of +2%, −1% and −2% from a base of 100 gives 102, 100.98 and 98.96. Output has fallen below the base year, so the economy is in recession. Two further years of +3% give 101.93 and 104.99. Output regains the peak of 102 only in the final year, even though growth was positive in both years.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/cambridge-a-level-economics-actual-and-potential-growth-output-gaps-the-business--03-gap-estimate-uncertainty.webp" width="900" height="830" alt="With actual output 1,070, potential of 1,092.7 gives a gap of -2.1%, but an illustrative revised capacity of 1,050 gives +1.9%. The same output can be a negative or a positive gap depending on the estimate of potential." loading="lazy">
-  <figcaption>Potential output is estimated, so the size and even the sign of an output gap is uncertain.</figcaption>
+  <img src="https://img.marlbridge.com/igcse-economics-the-basic-economic-problem--07-ppc-shift-vs-movement.webp" width="900" height="1190" alt="Top: a point inside the curve moves to the curve by using idle resources more fully; this is temporary, reversible and not economic growth on this syllabus. Bottom: the whole curve shifts outward because of more or better resources or better technology, a permanent increase in capacity, which is economic growth." loading="lazy">
+  <figcaption>Only an outward shift of the whole curve counts as economic growth.</figcaption>
 </figure>
 
 
@@ -139,6 +144,16 @@ mps is the marginal propensity to save, mpt the marginal rate of tax and mpm the
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/ib-dp-economics-macroeconomics-measuring-and-managing-the-economy--02-business-cycle.webp" width="900" height="880" alt="A wavy, upward-trending line of real GDP passes through expansion, a peak, a contraction (recession) and a trough, then expands again. A recession is a period when real output falls; slower growth is not a recession." loading="lazy">
   <figcaption>The business cycle has expansion, peak, contraction (recession) and trough phases.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-aggregate-demand-supply--06-accelerator.webp" width="900" height="1000" alt="Output rises every year over six years while net investment, equal to 2 times the change in output, rises then falls to 20 and 10 once growth slows. Investment depends on the rate of change of demand, not only its level." loading="lazy">
+  <figcaption>When demand growth slows, net investment can fall even though output is still rising.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-aggregate-demand-supply--05-multiplier.webp" width="900" height="902" alt="Bars show £10bn of extra spending passed on at an MPC of 0.8: 10, 8, 6.4, 5.12 and so on. A long bar adds the rounds up to a £50bn rise in income, and the formula 1 ÷ (1 − MPC) = 5 is shown." loading="lazy">
+  <figcaption>With an MPC of 0.8 the multiplier is 5, so £10bn of extra spending raises national income by £50bn.</figcaption>
 </figure>
 
 
@@ -206,6 +221,12 @@ mps is the marginal propensity to save, mpt the marginal rate of tax and mpm the
 8. Multiplier = 1 / 0.5 = 2.0; fall = 30.
 9. A downturn: growth is positive but slowing.
 10. Potential output is estimated, not observed, and is revised.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-actual-and-potential-growth-output-gaps-the-business--03-gap-estimate-uncertainty.webp" width="900" height="830" alt="With actual output 1,070, potential of 1,092.7 gives a gap of -2.1%, but an illustrative revised capacity of 1,050 gives +1.9%. The same output can be a negative or a positive gap depending on the estimate of potential." loading="lazy">
+  <figcaption>Potential output is estimated, so the size and even the sign of an output gap is uncertain.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

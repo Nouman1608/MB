@@ -223,15 +223,15 @@ Usefulness: staff know what to aim for and feel involved, and the business can c
 
 IT holds employee records in one system, supports online recruitment, training and payroll, and tracks performance data. AI can screen applications, answer staff queries and analyse patterns in turnover or absence to help planning. Benefits: speed, lower administration cost and consistent handling of data. Risks: bias copied from past data, loss of personal contact, privacy worries about monitoring staff, system cost and over-reliance. Decisions affecting people still need human judgement.
 
+## Exam technique
+
+Papers 3 and 4 give a case study. The syllabus says the last part of Question 3 and of Question 4 on Paper 3, Question 5 on Paper 3, and both essays on Paper 4 should show evaluation. Use the case figures, weigh both sides, then give a reasoned judgement. Judge leadership by context and flexible contracts by the workforce and the market.
+
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/cambridge-a-level-business-leadership-and-human-resource-management-hrm-strategy--12-hr-it-ai.webp" width="900" height="960" alt="IT holds records and supports recruitment, training, payroll and performance data; AI screens applications, answers queries and spots patterns. Benefits are speed, lower admin cost and consistency; risks are bias, less personal contact, privacy worries and cost or over-reliance. Humans still decide." loading="lazy">
   <figcaption>IT and AI speed up HR work but carry risks, and people still decide.</figcaption>
 </figure>
 
-
-## Exam technique
-
-Papers 3 and 4 give a case study. The syllabus says the last part of Question 3 and of Question 4 on Paper 3, Question 5 on Paper 3, and both essays on Paper 4 should show evaluation. Use the case figures, weigh both sides, then give a reasoned judgement. Judge leadership by context and flexible contracts by the workforce and the market.
 
 ## Common errors
 

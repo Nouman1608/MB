@@ -141,6 +141,29 @@ continuity correction, because a whole number r covers r − 0.5 to r + 0.5. For
 P(X ≥ 55) ≈ P(Y > 54.5) with Y ~ N(50, 25), giving 0.184; the exact binomial value is also 0.184
 to 3 s.f.
 
+## Calculator checklist
+
+- Binomial pd for one value; binomial cd for "at most".
+- Normal cd needs a lower and an upper limit. For "greater than 31", use 31 and a very large number.
+- Inverse Normal needs the area and, on most models, whether it is to the left. Check yours.
+- Store unrounded values in the memory and round only the final answer.
+- Write the distribution and the probability statement before each calculator result.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-maths-9709-probability-statistics-2--03-poisson-normal-correction.webp" width="900" height="950" alt="Bars for Po(25) with the curve N(25, 25) drawn over them. Bars from r = 31 are gold and a dashed line at 30.5 shows the continuity-corrected boundary. z = 1.1 gives 1 − Φ(1.1) = 0.136." loading="lazy">
+  <figcaption>Why P(X &gt; 30) becomes P(Y &gt; 30.5) when a Poisson is approximated by a normal.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-maths-9709-probability-statistics-2--04-linear-combinations-variance.webp" width="900" height="940" alt="Two normal curves share mean 4040 g. The tall narrow one is the total of four separate bags (variance 4σ² = 256) and the low wide one is four times one bag (variance 16σ² = 1024)." loading="lazy">
+  <figcaption>Adding four independent bags gives variance 4σ², but scaling one bag by 4 gives 16σ².</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-maths-9709-probability-statistics-2--05-pdf-area-mean-median.webp" width="900" height="950" alt="Graph of f(x) = (4x − x²)/9 on 0 to 3. The total area is 1 and a dashed line at the median 1.79 splits it into two halves. The mean, 7/4, sits just left of the median. Variance is 0.538." loading="lazy">
+  <figcaption>A pdf has area 1; the median splits the area in half and the mean is the balance point.</figcaption>
+</figure>
+
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/a-level-maths-9709-probability-statistics-2--06-sample-mean-distribution.webp" width="900" height="890" alt="Two normal curves centred on 30: a wide one for a single value (sd 6) and a narrow one for the mean of 50 values (sd 0.85). The area of the narrow curve above 31 is shaded and equals 0.119." loading="lazy">
   <figcaption>The mean of 50 values varies far less than one value, so P(X̄ &gt; 31) is only 0.119.</figcaption>
@@ -156,14 +179,6 @@ to 3 s.f.
   <figcaption>The Normal curve is symmetrical, has inflection points at μ ± σ and holds about 68%, 95% and 99.7% of values within 1, 2 and 3 sd.</figcaption>
 </figure>
 
-
-## Calculator checklist
-
-- Binomial pd for one value; binomial cd for "at most".
-- Normal cd needs a lower and an upper limit. For "greater than 31", use 31 and a very large number.
-- Inverse Normal needs the area and, on most models, whether it is to the left. Check yours.
-- Store unrounded values in the memory and round only the final answer.
-- Write the distribution and the probability statement before each calculator result.
 
 ## Choosing a model
 

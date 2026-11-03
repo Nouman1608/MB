@@ -110,6 +110,16 @@ These notes are for the final weeks of revision on sections 1.3.4 Managing peopl
   <figcaption>Halving the span of control doubles the supervision bill, here by £408,000.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-people-in-business--04-organisation-chart.webp" width="900" height="1110" alt="Chart with directors above one manager, who has three supervisors with two staff each. A downward arrow marks the chain of command; the manager's span of control is 3. A lower panel shows the same 8 workers as a tall structure (4 levels, span 2) and a short structure (2 levels, span 8)." loading="lazy">
+  <figcaption>Levels, chain of command and span of control decide whether a structure is tall or short.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-business-human-resource-management--03-delayering.webp" width="900" height="970" alt="Two charts of Pelican Freight. Before: CEO, 3 directors, 15 managers and 180 drivers, with the CEO span at 3. After removing directors the 15 managers report to the CEO, span 15, saving 270,000 pounds a year." loading="lazy">
+  <figcaption>Delayering saves cost but widens the span of control.</figcaption>
+</figure>
+
 
 ### Motivation
 
@@ -160,6 +170,26 @@ These notes are for the final weeks of revision on sections 1.3.4 Managing peopl
   <figcaption>Taylor relies on pay; Mayo relies on belonging and attention.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-people-in-business--01-maslow-hierarchy.webp" width="900" height="762" alt="Five-level stepped pyramid of needs, bottom to top: physiological (pay for food and rent), safety (secure job, safe workplace), social (friends, teamwork), esteem (praise, promotion), self-actualisation (challenging work). An arrow shows needs are met from the bottom up." loading="lazy">
+  <figcaption>Maslow's hierarchy ranks human needs, and each level can be linked to what work offers.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-people-in-business--02-taylor-and-herzberg.webp" width="900" height="890" alt="Taylor: more output by a worker earns more pay, so pay is the main motivator. Herzberg: on a scale from dissatisfied to satisfied, hygiene factors (pay, conditions, job security) only lift people to neutral, while motivators (achievement, recognition, interesting work) create satisfaction." loading="lazy">
+  <figcaption>Taylor saw pay as the motivator; Herzberg separated hygiene factors from true motivators.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-business-human-resource-management--05-pay-methods.webp" width="900" height="1030" alt="Piece rate: 550 items at 0.80 pounds earns 440 pounds. Commission: 300 pound basic plus 4 percent of 12,500 pounds sales gives 300 plus 500, 800 pounds." loading="lazy">
+  <figcaption>Piece rate pays for output; commission adds a share of sales to a basic wage.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-people-in-business--03-motivation-methods.webp" width="900" height="834" alt="Financial methods: wage, salary, bonus, commission, profit sharing. Non-financial methods: job enrichment, job rotation, teamworking, training, promotion. Each has an icon and a short plain description." loading="lazy">
+  <figcaption>Motivation methods split into five financial and five non-financial.</figcaption>
+</figure>
+
 
 ### Leadership
 
@@ -175,6 +205,11 @@ These notes are for the final weeks of revision on sections 1.3.4 Managing peopl
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/edexcel-ial-business-managing-people-and-entrepreneurs-and-leaders--08-founder-to-leader.webp" width="900" height="950" alt="Left: a founder personally handles sales, cash, staff and quality. Right: a leader delegates to two managers who each look after two areas. A box defines an intrapreneur, and barriers are listed." loading="lazy">
   <figcaption>As a firm grows the founder must delegate and become a leader.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-people-in-business--05-leadership-styles.webp" width="900" height="1150" alt="Autocratic: arrows run only from leader to staff. Democratic: arrows run both ways between leader and staff. Laissez-faire: the leader is only faintly linked, and staff link with each other to decide." loading="lazy">
+  <figcaption>The three styles differ in who makes the decision.</figcaption>
 </figure>
 
 
@@ -193,6 +228,11 @@ These notes are for the final weeks of revision on sections 1.3.4 Managing peopl
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/edexcel-ial-business-managing-people-and-entrepreneurs-and-leaders--08-risk-uncertainty.webp" width="900" height="900" alt="Ten teal and copper circles (7 in 10) show a risk with an estimable chance; ten grey question-mark circles show uncertainty with unknown odds. Research, a cash buffer and flexible plans reduce both." loading="lazy">
   <figcaption>Risk can be estimated; uncertainty cannot be measured.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-business-business-activity-marketing-and-people--01-entrepreneur-risk-reward.webp" width="900" height="1120" alt="Land, labour and capital feed into the entrepreneur, who organises them into business activity. Below, risks (failure, lost capital, long hours) are set against rewards (profit, control)." loading="lazy">
+  <figcaption>The entrepreneur organises the factors of production and bears risk in return for reward.</figcaption>
 </figure>
 
 
@@ -223,6 +263,12 @@ These notes are for the final weeks of revision on sections 1.3.4 Managing peopl
 
 **Quick calculation.** Market share: £2.4m of a £30m market is 8%.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-business-business-activity-marketing-and-people--02-objectives-by-stage.webp" width="900" height="950" alt="A start-up, shown as one small shop, prioritises survival and cash flow. An established firm, shown as larger buildings, pursues profit, growth or market share (pie slice)." loading="lazy">
+  <figcaption>Objectives change with stage: survival and cash flow first, then profit, growth or market share.</figcaption>
+</figure>
+
+
 ### Business choices
 
 - **Opportunity cost:** the next best alternative given up. Two uses of £20,000 earn £3,000 and £2,600 a year. Choosing the first gives a net gain of £400 and an opportunity cost of £2,600.
@@ -231,6 +277,11 @@ These notes are for the final weeks of revision on sections 1.3.4 Managing peopl
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/edexcel-ial-business-managing-people-and-entrepreneurs-and-leaders--10-caldwyn-opportunity-cost.webp" width="900" height="900" alt="The oven adds 9,000 a year and advertising adds 7,500. Choosing the oven gives up 7,500, the opportunity cost, leaving a net gain of 1,500." loading="lazy">
   <figcaption>Opportunity cost is the next best option forgone, here 7,500.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-understanding-business-activity--02-opportunity-cost.webp" width="900" height="940" alt="A budget of 60 buys only one of three items costing 60. The trainers are chosen, so the concert (second choice) is the opportunity cost." loading="lazy">
+  <figcaption>Opportunity cost is the next best alternative given up, not everything given up.</figcaption>
 </figure>
 
 

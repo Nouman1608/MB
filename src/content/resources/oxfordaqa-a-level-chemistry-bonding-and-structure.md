@@ -95,6 +95,11 @@ the atom donating both electrons to the atom receiving them.
   <figcaption>In a dative covalent bond both shared electrons come from one atom, shown as an arrow from donor to acceptor (H3N to BCl3, NH4+).</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-edexcel-chemistry-structure-bonding-organic-chemistry--07-bond-polarity.webp" width="900" height="1100" alt="Bond dipole arrows point to the more electronegative atom. In linear CO2 and tetrahedral CCl4 the dipoles cancel, so the molecules are non-polar. In bent H2O and tetrahedral SiH3Cl they do not cancel, so the molecules are polar." loading="lazy">
+  <figcaption>A molecule with polar bonds is polar overall only if the bond dipoles do not cancel.</figcaption>
+</figure>
+
 
 ## Metallic bonding
 

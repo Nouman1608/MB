@@ -190,6 +190,12 @@ Both choose Low, getting 25 each. Collusion at High gives 40 each, but each has 
 
 For evaluation: effect on consumers against firms, short run against long run, how much information the regulator has, and whether the market is contestable.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-microeconomics--02-economies-of-scale-and-mes.webp" width="900" height="830" alt="Illustrative long-run average cost curve falling to a minimum of 6 at output 100 (minimum efficient scale), then rising. Falling LRAC reflects purchasing, technical, financial, managerial and marketing economies; rising LRAC reflects communication and coordination problems." loading="lazy">
+  <figcaption>Long-run average cost falls until the minimum efficient scale and rises beyond it.</figcaption>
+</figure>
+
+
 ## Where 2.11 is examined
 
 Because 2.11 is a topic studied at HL only, it can appear in the HL papers and not in the SL ones.

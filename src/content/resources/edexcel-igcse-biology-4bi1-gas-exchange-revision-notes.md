@@ -171,6 +171,12 @@ Then test yourself with the [gas exchange practice questions](/resources/edexcel
 | Ventilation | Replaces air, keeps gradient steep |
 | Moist lining | Gases dissolve before diffusing |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-gas-exchange-in-humans--02-alveolus-gas-exchange.webp" width="900" height="1080" alt="One alveolus at the end of a bronchiole is wrapped by a capillary. Oxygen diffuses from the air through the thin walls into the blood and carbon dioxide diffuses out into the air. Blood arrives with more carbon dioxide and leaves with more oxygen. Four numbered features (large surface area, thin walls, good blood supply, good ventilation) make the surface efficient." loading="lazy">
+  <figcaption>Oxygen diffuses into the blood and carbon dioxide out, across two walls each one cell thick.</figcaption>
+</figure>
+
+
 ### 2.49 Smoking
 
 | Component | Effect |
@@ -198,6 +204,11 @@ Then test yourself with the [gas exchange practice questions](/resources/edexcel
   <figcaption>Tar harms the airways, carbon monoxide cuts oxygen carried and nicotine narrows blood vessels.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-gas-exchange-in-humans--08-airway-protection.webp" width="900" height="900" alt="Extended. Goblet cells make mucus that forms a layer on the airway lining and traps dust and bacteria from the air. Ciliated cells have cilia that beat and move the mucus to the throat, where it is swallowed. The mucus traps; the cilia move the mucus." loading="lazy">
+  <figcaption>Goblet cells make mucus to trap particles and ciliated cells move it to the throat.</figcaption>
+</figure>
+
 
 ### 2.50 Breathing practical
 
@@ -209,6 +220,16 @@ Then test yourself with the [gas exchange practice questions](/resources/edexcel
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/edexcel-igcse-biology-4bi1-gas-exchange--01-breathing-rate-worked-example.webp" width="900" height="1000" alt="Bars show three one-minute counts at rest (14, 15, 16; mean 15) and after skipping (26, 29, 29; mean 28). The increase of 13 gives 13 / 15 x 100 = 86.7 %." loading="lazy">
   <figcaption>The lesson worked example: mean breathing rate rises from 15 to 28 breaths per minute, an 86.7 % increase.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-gas-exchange-in-humans--04-inspired-expired-air.webp" width="900" height="930" alt="Bars compare breathed-in (In) and breathed-out (Out) air. Oxygen falls from about 21% to about 16%, 5 points lower or 23.8% of the oxygen breathed in. Carbon dioxide rises from about 0.04% to about 4%, 100 times more. Water vapour is higher in breathed-out air and usually lower in breathed-in air." loading="lazy">
+  <figcaption>Breathed-out air has less oxygen, 100 times more carbon dioxide and more water vapour.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-gas-exchange-in-humans--05-limewater-test.webp" width="900" height="900" alt="Two boiling tubes, A and B, hold equal limewater and are joined to one mouthpiece. Breathing in draws room air through tube A; breathing out pushes breath through tube B. Tube B turns milky much sooner, showing that breathed-out air contains more carbon dioxide." loading="lazy">
+  <figcaption>Limewater in tube B turns milky sooner because breathed-out air has more carbon dioxide.</figcaption>
 </figure>
 
 

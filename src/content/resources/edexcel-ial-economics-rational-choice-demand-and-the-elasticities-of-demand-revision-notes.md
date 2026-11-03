@@ -142,8 +142,18 @@ The slope is the same all along the line, yet PED falls in size as price falls. 
 **Worked reminders for YED and XED**. Incomes rise 5% and demand for foreign holidays rises 9%: YED = 9 / 5 = +1.8, income elastic. Demand for own-brand rice falls 2%: YED = -2 / 5 = -0.4, inferior. The price of bus tickets rises 10% and demand for taxis rises 4%: XED = +0.4, weak substitutes.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/edexcel-ial-economics-rational-choice-demand-and-the-elasticities-of-demand--10-yed-xed-forecasting.webp" width="900" height="1060" alt="Two forecasts: 3% income growth with YED 2.0 lifts demand 6%, 50,000 to 53,000. A rival 5% price rise with XED 2.0 lifts demand 10%, 50,000 to 55,000 on an assumed base." loading="lazy">
-  <figcaption>Percentage change in income or rival price times the elasticity gives the demand forecast.</figcaption>
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-rational-choice-demand-and-the-elasticities-of-demand--08-ped-determinants.webp" width="900" height="1010" alt="Five rows compare a more elastic case with a more inelastic case for substitutes, branding, share of spending, addictiveness and durability, each with a flatter or steeper demand icon." loading="lazy">
+  <figcaption>Five determinants push demand towards more or less elastic.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-economics-price-system-and-the-microeconomy--02-yed-and-xed-signs.webp" width="900" height="960" alt="Two number lines from minus 1 to plus 2. For income elasticity, negative values mean an inferior good and positive values a normal good; examples are YED minus 0.5 (income up 10 percent, demand down 5 percent) and plus 1.5. For cross elasticity, negative means complements and positive means substitutes; examples are XED minus 0.5 and plus 1.5 when the price of B rises 20 percent." loading="lazy">
+  <figcaption>The sign of YED shows inferior or normal; the sign of XED shows complements or substitutes.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-how-markets-work--04-cross-elasticity.webp" width="900" height="930" alt="When tea rises from 2 to 3 pounds, coffee demand rises 25%, so XED is +0.5 (substitutes). When printers rise 50%, ink demand falls 50%, so XED is -1 (complements). The sign tells you the relationship." loading="lazy">
+  <figcaption>A positive XED means substitutes; a negative XED means complements.</figcaption>
 </figure>
 
 
@@ -166,6 +176,16 @@ The slope is the same all along the line, yet PED falls in size as price falls. 
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/edexcel-ial-economics-rational-choice-demand-and-the-elasticities-of-demand--09-florist-ped-revenue.webp" width="900" height="930" alt="Revenue rectangles on a demand graph for the florist: the 816 shared area, +81.6 gained from the higher price and 144 lost on 12 fewer bouquets. PED is -1.5 and revenue falls from 960 to 897.60." loading="lazy">
   <figcaption>A 10% price rise with a 15% quantity fall gives PED of -1.5 and lower revenue.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-rational-choice-demand-and-the-elasticities-of-demand--10-yed-xed-forecasting.webp" width="900" height="1060" alt="Two forecasts: 3% income growth with YED 2.0 lifts demand 6%, 50,000 to 53,000. A rival 5% price rise with XED 2.0 lifts demand 10%, 50,000 to 55,000 on an assumed base." loading="lazy">
+  <figcaption>Percentage change in income or rival price times the elasticity gives the demand forecast.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-economics-price-system-and-the-microeconomy--04-ped-and-total-revenue.webp" width="900" height="1270" alt="Two demand diagrams with the same price cut from 5 to 4. With elastic demand (PED 2.5) quantity rises from 40 to 60: 40 of revenue is lost on existing sales, 80 is gained on extra sales, so revenue rises from 200 to 240. With inelastic demand (PED 0.5) quantity rises only to 44: the loss of 40 outweighs the gain of 16, so revenue falls to 176." loading="lazy">
+  <figcaption>Whether a price cut raises revenue depends on whether demand is elastic or inelastic.</figcaption>
 </figure>
 
 
@@ -201,12 +221,6 @@ The slope is the same all along the line, yet PED falls in size as price falls. 
 8. Strong branding and addictiveness (a lack of close substitutes is also correct).
 9. **-1**, unitary.
 10. Buyers cut back little after the tax raises the price, so more units remain to be taxed.
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-level-economics-price-system-and-the-microeconomy--04-ped-and-total-revenue.webp" width="900" height="1270" alt="Two demand diagrams with the same price cut from 5 to 4. With elastic demand (PED 2.5) quantity rises from 40 to 60: 40 of revenue is lost on existing sales, 80 is gained on extra sales, so revenue rises from 200 to 240. With inelastic demand (PED 0.5) quantity rises only to 44: the loss of 40 outweighs the gain of 16, so revenue falls to 176." loading="lazy">
-  <figcaption>Whether a price cut raises revenue depends on whether demand is elastic or inelastic.</figcaption>
-</figure>
-
 
 ## Where marks are usually lost
 

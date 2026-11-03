@@ -165,6 +165,11 @@ uncertainty in the area is the sum: 0.83% + 2.0% ≈ 2.8%.
   <figcaption>Percentage uncertainties add for products and quotients; a power multiplies the percentage.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-oxfordaqa-physics-measurements-and-their-errors--08-order-of-magnitude.webp" width="900" height="910" alt="A log ruler with decades 10^5, 10^6, 10^7 and crossover marks at 3.16 times each power. 2 x 10^5 is order 10^5; 3.4 x 10^5 and 8 x 10^5 are order 10^6; 4 x 10^6 is order 10^7. OxfordAQA gives the crossover as about 3.2." loading="lazy">
+  <figcaption>Above 3.16 x 10^n the order of magnitude is 10^(n+1).</figcaption>
+</figure>
+
 
 ## Scalars and vectors
 
@@ -206,12 +211,6 @@ along the vector's own reference direction and sin θ for the perpendicular
 component** — mixing these up is the single most common error carried forward
 into Topics 3 and 4.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-level-oxfordaqa-physics-measurements-and-their-errors--05-repeat-readings.webp" width="900" height="880" alt="Five timings 1.52, 1.58, 1.55, 1.49 and 1.56 s on a number line with mean 1.54 s. Range 0.09 s, half range 0.045 s, 2.9 percent; result 1.54 +/- 0.05 s." loading="lazy">
-  <figcaption>Half the range is a common estimate of the uncertainty in a mean.</figcaption>
-</figure>
-
-
 ## Quick revision checklist
 
 - The five SI base quantities and units used at this level, and the ten
@@ -230,3 +229,9 @@ matched to the operation)
 
 *Written against Cambridge International AS & A Level Physics 9702, 2025–2027
 series. Always check the current syllabus for your examination year.*
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-oxfordaqa-physics-measurements-and-their-errors--05-repeat-readings.webp" width="900" height="880" alt="Five timings 1.52, 1.58, 1.55, 1.49 and 1.56 s on a number line with mean 1.54 s. Range 0.09 s, half range 0.045 s, 2.9 percent; result 1.54 +/- 0.05 s." loading="lazy">
+  <figcaption>Half the range is a common estimate of the uncertainty in a mean.</figcaption>
+</figure>
+

@@ -180,12 +180,6 @@ velocity).
 each other**, when the syllabus explicitly treats them as independent
 directions that are only combined at the end if needed.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/as-physics-kinematics-equations-of-motion--08-terminal-speed.webp" width="900" height="1020" alt="A speed-time graph for an 80 kg skydiver starts with gradient g and flattens at about 55 m/s. Force diagrams show A: drag 0, a = 9.81; B: drag 500 N, a = 3.56 m/s squared; C: drag = weight = 785 N, a = 0." loading="lazy">
-  <figcaption>At terminal speed drag equals weight, the resultant force is zero and the speed is constant.</figcaption>
-</figure>
-
-
 ## Quick revision checklist
 
 - Distance vs. displacement, speed vs. velocity (scalar/vector pairs)
@@ -205,3 +199,9 @@ independently
 
 *Written against Cambridge International AS & A Level Physics 9702, 2025–2027
 series. Always check the current syllabus for your examination year.*
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/as-physics-kinematics-equations-of-motion--08-terminal-speed.webp" width="900" height="1020" alt="A speed-time graph for an 80 kg skydiver starts with gradient g and flattens at about 55 m/s. Force diagrams show A: drag 0, a = 9.81; B: drag 500 N, a = 3.56 m/s squared; C: drag = weight = 785 N, a = 0." loading="lazy">
+  <figcaption>At terminal speed drag equals weight, the resultant force is zero and the speed is constant.</figcaption>
+</figure>
+

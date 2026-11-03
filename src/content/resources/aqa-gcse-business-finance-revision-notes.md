@@ -204,6 +204,11 @@ Worked reminder (Pell Joinery): sales revenue £120,000, cost of sales £78,000,
   <figcaption>Assets minus liabilities gives net assets, which equal share capital plus retained profit.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-business-finance--06-ashwick-margins.webp" width="900" height="990" alt="Last year revenue 220,000 pounds: cost of sales 143,000, expenses 55,000, net profit 22,000 (gross 35%, net 10%). This year revenue 250,000: 150,000, 70,000, 30,000 (gross 40%, net 12%). Revenue +14% but expenses +27%." loading="lazy">
+  <figcaption>Both margins rose, but expenses grew about twice as fast as revenue.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 
@@ -243,12 +248,6 @@ Worked reminder (Pell Joinery): sales revenue £120,000, cost of sales £78,000,
 9. It shows assets and liabilities on one date only; the position changes the next day.
 10. Interest is high and the bank can withdraw it (either).
 11. Any two, such as a lender wanting evidence it can repay, and an employee wanting evidence the job is secure.
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/aqa-gcse-business-finance--06-ashwick-margins.webp" width="900" height="990" alt="Last year revenue 220,000 pounds: cost of sales 143,000, expenses 55,000, net profit 22,000 (gross 35%, net 10%). This year revenue 250,000: 150,000, 70,000, 30,000 (gross 40%, net 12%). Revenue +14% but expenses +27%." loading="lazy">
-  <figcaption>Both margins rose, but expenses grew about twice as fast as revenue.</figcaption>
-</figure>
-
 
 ## Where marks are usually lost
 

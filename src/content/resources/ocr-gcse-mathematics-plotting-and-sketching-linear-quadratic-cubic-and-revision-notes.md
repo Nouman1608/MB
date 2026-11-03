@@ -166,6 +166,11 @@ y-intercept (0, −24)
   <figcaption>The turning point is halfway between the roots; substitute to find y.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-graphs-of-functions-and-sketching-curves--04-sketch-quadratic.webp" width="900" height="1160" alt="A sketch of y = x² + 2x − 15: a U-shape crossing the x-axis at (−5, 0) and (3, 0) and the y-axis at (0, −15), symmetrical about x = −1. The turning point (−1, −16), from completing the square, is Extended only." loading="lazy">
+  <figcaption>A sketch shows shape, roots, y-intercept and symmetry; Extended adds the turning point.</figcaption>
+</figure>
+
 
 ## Completing the square (Higher tier only)
 
@@ -185,6 +190,16 @@ For a negative x², take out the minus sign first: −x² + 4x − 7 = −(x −
 
 Quick test for roots: a minimum below the x-axis, or a maximum above it, means two roots. A minimum above the x-axis, or a maximum below it, means none.
 
+## Sketch checklist
+
+Run through this before you move on from any sketch question:
+
+1. Are both axes labelled, with x and y written at the ends?
+2. Is the curve in the right quadrants for its equation?
+3. Does it show the right behaviour at each end, such as rising on the right for a positive cube or levelling towards an axis for a reciprocal?
+4. Does it meet the axes only where it should?
+5. Have you labelled every feature the question asked for, using coordinates and not only numbers on the axes?
+
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/ocr-gcse-mathematics-plotting-and-sketching-linear-quadratic-cubic-and--05-complete-square-turning-point.webp" width="900" height="1270" alt="Two parabolas. (x + 3)² − 2 has minimum (−3, −2), y-intercept (0, 7) and roots near −4.41 and −1.59. −(x − 2)² − 3 has maximum (2, −3), y-intercept (0, −7) and never reaches the x-axis, so has no roots." loading="lazy">
   <figcaption>Completed-square form (x + p)² + q shows the turning point (−p, q) and whether there are roots.</figcaption>
@@ -195,16 +210,6 @@ Quick test for roots: a minimum below the x-axis, or a maximum above it, means t
   <figcaption>The quadratic formula gives roots 3 +/- root 6, symmetric about the turning point.</figcaption>
 </figure>
 
-
-## Sketch checklist
-
-Run through this before you move on from any sketch question:
-
-1. Are both axes labelled, with x and y written at the ends?
-2. Is the curve in the right quadrants for its equation?
-3. Does it show the right behaviour at each end, such as rising on the right for a positive cube or levelling towards an axis for a reciprocal?
-4. Does it meet the axes only where it should?
-5. Have you labelled every feature the question asked for, using coordinates and not only numbers on the axes?
 
 ## Sketch method in steps
 
@@ -217,12 +222,6 @@ For a quadratic that factorises:
 5. Draw the smooth parabola through all four features and label them.
 
 For a cubic or reciprocal such as y = x³ or y = 1/x, you do not need a table. Recall the shape, check the quadrants, and show that the curve never crosses an axis where it should not.
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-mathematics-0580-coordinates-and-drawing-linear-graphs--06-axis-intercepts.webp" width="900" height="1120" alt="The line 4x + 3y = 12 is drawn through (0, 4) and (3, 0), found by putting x = 0 then y = 0, with a check point (6, -4). All three points are on one line." loading="lazy">
-  <figcaption>For x and y on the same side, set x = 0 and y = 0 to find the axis crossing points, then check a third point.</figcaption>
-</figure>
-
 
 ## Quick self-test
 
@@ -253,6 +252,12 @@ For a cubic or reciprocal such as y = x³ or y = 1/x, you do not need a table. R
 10. Maximum, because the x² coefficient is negative. The y-intercept is (0, 6).
 11. (x + 6)² − 6.
 12. (−6, −6).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-coordinates-and-drawing-linear-graphs--06-axis-intercepts.webp" width="900" height="1120" alt="The line 4x + 3y = 12 is drawn through (0, 4) and (3, 0), found by putting x = 0 then y = 0, with a check point (6, -4). All three points are on one line." loading="lazy">
+  <figcaption>For x and y on the same side, set x = 0 and y = 0 to find the axis crossing points, then check a third point.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

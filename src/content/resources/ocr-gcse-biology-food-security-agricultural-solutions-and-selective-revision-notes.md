@@ -248,6 +248,12 @@ Impact:
 10. Few parents means little variation, so the plants are genetically very similar. If none carries an allele for resistance, all are susceptible and the disease can spread through the whole crop.
 11. 40 000 × 0.10 × 0.10 = 400 kJ.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-food-security-agricultural-solutions-and-selective--01-mp18-crop-vs-cattle.webp" width="900" height="880" alt="Bar chart to scale. People eating the crop get up to 600 000 kJ. If cattle eat the crop and people eat beef, only 60 000 kJ is stored in beef and 540 000 kJ is lost as heat, waste and uneaten parts. The crop route gives 10 times as much energy." loading="lazy">
+  <figcaption>A meat-based diet needs far more farmland: with 10 % transfer, eating the crop gives 10 times the energy.</figcaption>
+</figure>
+
+
 ## Where marks are usually lost
 
 - Writing that fertiliser is "plant food". Say it supplies mineral ions.

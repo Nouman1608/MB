@@ -135,6 +135,11 @@ Genetic diagrams are **models**. They predict probabilities. They do not say wha
   <figcaption>The genotype is the pair of alleles; the phenotype is the visible result, here purple or green stems.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-inheritance--05-monohybrid-3-to-1.webp" width="900" height="1229" alt="Punnett square for two heterozygous green beetles (Gg x Gg) giving GG, Gg, Gg, gg: three green to one brown. From 160 offspring expect 120 green and 40 brown; real results are close, not exact." loading="lazy">
+  <figcaption>Two heterozygous parents give a 3 : 1 phenotype ratio.</figcaption>
+</figure>
+
 
 ## Mendel
 
@@ -180,6 +185,11 @@ Two parents are both unaffected by a recessive disorder. They have one affected 
   <figcaption>Two affected parents with an unaffected child show a dominant allele.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-inheritance--07-pedigree-recessive.webp" width="900" height="1140" alt="Pedigree: two unaffected parents have an affected daughter (shaded circle), so the condition is recessive and both parents are Aa. A Aa x Aa Punnett square gives a 1 in 4 chance of aa for each further child." loading="lazy">
+  <figcaption>Unaffected parents with an affected child show the allele is recessive.</figcaption>
+</figure>
+
 
 ## DNA, genes and proteins (3.5.3 h to k)
 
@@ -207,6 +217,11 @@ Chromosome link: chromosomes contain many genes, and each gene is a different se
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/oxfordaqa-igcse-biology-genetic-variation-monohybrid-inheritance-dna-and--11-triplet-code-reading.webp" width="900" height="860" alt="The invented sequence WXYZZWXWY splits into WXY, ZZW, XWY, giving amino acids 1, 2, 3. A 150 amino acid protein needs at least 450 bases. Four bases give 64 triplets." loading="lazy">
   <figcaption>Split the bases into threes first, then read each triplet as one amino acid.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-inheritance--03-gene-to-protein.webp" width="900" height="1120" alt="Extended. The gene stays in the nucleus; a copy of it, mRNA, is made and moves out through a pore to the cytoplasm; a ribosome joins amino acids in the order set by the mRNA bases; the chain folds into a protein whose shape decides what it does." loading="lazy">
+  <figcaption>mRNA carries the gene’s base sequence to a ribosome, which sets the order of amino acids in the protein.</figcaption>
 </figure>
 
 
@@ -238,17 +253,6 @@ Worked reminder: 12 children, 4 affected. 4 ÷ 12 × 100 = 33.3%. Prediction 25%
 - Where it comes from: a gamete with 24 chromosomes joins with a normal gamete with 23, giving 47 in the zygote.
 - Exam use: you may be given a table of cases against age or country. Describe the trend with numbers, then calculate any rate or ratio asked for.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/oxfordaqa-igcse-biology-genetic-variation-monohybrid-inheritance-dna-and--12-downs-syndrome-extra-21.webp" width="900" height="860" alt="A typical body cell has 46 chromosomes and two copies of 21. In Down’s syndrome there are 47 with three copies. A 24-chromosome gamete joining a 23-chromosome gamete gives 47." loading="lazy">
-  <figcaption>An extra copy of chromosome 21 gives 47 chromosomes; it is a chromosome number change, not an allele.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/oxfordaqa-igcse-biology-genetic-variation-monohybrid-inheritance-dna-and--03-cf-carrier-punnett.webp" width="900" height="790" alt="A Punnett square for Cc × Cc gives CC, Cc, Cc and cc. One box in four is affected. Of the three unaffected boxes two are carriers, so an unaffected child has a 2/3 chance of being a carrier." loading="lazy">
-  <figcaption>In Cc × Cc, 1/4 of children are affected, and 2 of the 3 unaffected boxes are carriers.</figcaption>
-</figure>
-
-
 ## Quick self-test
 
 1. A plant is grown from a cutting in two different soils and ends up different heights. Name the cause of the height difference.
@@ -274,6 +278,17 @@ Worked reminder: 12 children, 4 affected. 4 ÷ 12 × 100 = 33.3%. Prediction 25%
 8. 90 × 3 = 270 bases.
 9. 47.
 10. Polydactyly.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-biology-genetic-variation-monohybrid-inheritance-dna-and--12-downs-syndrome-extra-21.webp" width="900" height="860" alt="A typical body cell has 46 chromosomes and two copies of 21. In Down’s syndrome there are 47 with three copies. A 24-chromosome gamete joining a 23-chromosome gamete gives 47." loading="lazy">
+  <figcaption>An extra copy of chromosome 21 gives 47 chromosomes; it is a chromosome number change, not an allele.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-biology-genetic-variation-monohybrid-inheritance-dna-and--03-cf-carrier-punnett.webp" width="900" height="790" alt="A Punnett square for Cc × Cc gives CC, Cc, Cc and cc. One box in four is affected. Of the three unaffected boxes two are carriers, so an unaffected child has a 2/3 chance of being a carrier." loading="lazy">
+  <figcaption>In Cc × Cc, 1/4 of children are affected, and 2 of the 3 unaffected boxes are carriers.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

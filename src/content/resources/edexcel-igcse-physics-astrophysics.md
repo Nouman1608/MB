@@ -220,12 +220,6 @@ partial one.
 - **Mixing up absolute magnitude (brightness at a standard distance) with
 apparent brightness (brightness as actually observed from Earth)**.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/edexcel-igcse-physics-astrophysics--07-expanding-space.webp" width="900" height="1150" alt="Rows of five galaxies at an earlier time (spacing 100) and later (spacing 150). Arrows from the viewing galaxy get longer for galaxies that were farther away. The same pattern is seen when another galaxy is the viewer, so there is no special centre." loading="lazy">
-  <figcaption>Every galaxy sees the others recede, farther ones faster, with no centre.</figcaption>
-</figure>
-
-
 ## Quick revision checklist
 
 - v = 2πr/T for orbital motion; gravitational force causing orbits
@@ -241,3 +235,9 @@ apparent brightness (brightness as actually observed from Earth)**.
 *Written against the Pearson Edexcel International GCSE in Physics (4PH1)
 specification, Issue 4. Always check the current specification for your
 examination year.*
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-physics-astrophysics--07-expanding-space.webp" width="900" height="1150" alt="Rows of five galaxies at an earlier time (spacing 100) and later (spacing 150). Arrows from the viewing galaxy get longer for galaxies that were farther away. The same pattern is seen when another galaxy is the viewer, so there is no special centre." loading="lazy">
+  <figcaption>Every galaxy sees the others recede, farther ones faster, with no centre.</figcaption>
+</figure>
+

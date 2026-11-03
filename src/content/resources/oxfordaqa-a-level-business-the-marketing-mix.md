@@ -143,6 +143,12 @@ A **brand** (writer's wording) is a name, symbol or design that identifies and d
 
 The rule: with elastic demand a price rise cuts revenue and a cut raises it; with inelastic demand a rise raises revenue. PED is an estimate, and revenue is not profit.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-business-marketing--04-ped-and-revenue.webp" width="900" height="910" alt="A demand curve with two revenue rectangles. A 10 percent price rise from $10 to $11 cuts quantity 4 percent from 1,000 to 960. Revenue gained of $960 outweighs revenue lost of $400, so revenue rises from $10,000 to $10,560." loading="lazy">
+  <figcaption>When demand is price inelastic, raising price raises total revenue.</figcaption>
+</figure>
+
+
 ### Cross-price elasticity of demand (XED)
 
 **XED = % change in quantity demanded of product A ÷ % change in price of product B.** (Standard form.) A **positive** result means **substitutes**; a **negative** result means **complements**. A larger size means a stronger link.
@@ -162,6 +168,11 @@ The rule: with elastic demand a price rise cuts revenue and a cut raises it; wit
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/oxfordaqa-a-level-business-the-marketing-mix--09-cost-plus-markup-margin.webp" width="900" height="930" alt="A bar shows cost 1.20 plus profit 0.42 giving a price of 1.62. Mark-up divides profit by cost (35%); margin divides by price (25.9%)." loading="lazy">
   <figcaption>A mark-up is on cost; a margin is on price.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-marketing--05-pricing-methods.webp" width="900" height="990" alt="A graph shows skimming starting high and falling, and penetration starting low and rising, both towards the same price. Cost-plus adds a mark-up to cost (6 + 1.5 = 7.5). Competitive pricing matches rivals (5.00, 5.20, 5.10 so 5.10). Promotional pricing is a short-term cut (8 to 6)." loading="lazy">
+  <figcaption>Skimming, penetration, cost-plus, competitive and promotional pricing.</figcaption>
 </figure>
 
 
@@ -204,6 +215,11 @@ A **channel of distribution** is the route from producer to customer. **Intermed
   <figcaption>An agent sells on commission without stock; multi-channel combines routes.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-marketing--06-distribution-channels.webp" width="900" height="1060" alt="Three routes from producer to consumer: via wholesaler then retailer, via retailer only, or direct. Longer chains reach many shops but add cost; the direct route keeps the whole margin but means doing the selling yourself." loading="lazy">
+  <figcaption>Channels of distribution from producer to consumer.</figcaption>
+</figure>
+
 
 ## The importance of marketing
 
@@ -233,6 +249,16 @@ Definitions below are standard forms or the writer's own wording, not the specif
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/oxfordaqa-a-level-business-the-marketing-mix--05-discrimination-dynamic.webp" width="900" height="1040" alt="Two prices for two separate groups, and a line graph of a price that rises at busy hours of the day." loading="lazy">
   <figcaption>Discrimination uses fixed groups; dynamic pricing changes with demand.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-marketing--06-seven-ps.webp" width="900" height="990" alt="Four core Ps (Product, Price, Place, Promotion) apply to every business. Three extra Ps matter especially for services: People, Process and Physical evidence. A service is experienced, not just bought." loading="lazy">
+  <figcaption>Four core Ps plus three extra Ps that matter especially for service businesses.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-business-marketing--01-boston-matrix.webp" width="900" height="1000" alt="Chart of relative market share (high left, low right, log scale) against market growth. Star, Question mark, Cash cow and Dog quadrants each carry a one-line strategy, with four illustrative products A to D placed in them." loading="lazy">
+  <figcaption>The Boston Matrix classifies products by market share and market growth and suggests a strategy for each.</figcaption>
 </figure>
 
 

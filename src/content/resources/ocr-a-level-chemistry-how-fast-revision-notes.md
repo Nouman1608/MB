@@ -209,6 +209,12 @@ Higher temperature: Boltzmann curve shifts to higher energy, a greater proportio
 10. Ea = 1.05 × 10⁴ × 8.314 = 8.73 × 10⁴ J mol⁻¹ = **87.3 kJ mol⁻¹**
 11. Only a small fixed amount of product forms in time t, so the rate is nearly constant and close to the initial rate; rate = amount ÷ t, so **rate ∝ 1/t**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-kinetics--03-concentration-pressure.webp" width="900" height="950" alt="Two equal boxes hold gas particles: 6 in the left (low concentration) and 18 in the right (three times as many). The crowded box has more collisions per second. The energy of the particles is unchanged, so the fraction able to react is the same, but the rate rises." loading="lazy">
+  <figcaption>Raising concentration or gas pressure increases collision frequency, not the fraction of collisions that succeed.</figcaption>
+</figure>
+
+
 ## Where marks are usually lost
 
 - Writing orders that match the coefficients in the balanced equation.

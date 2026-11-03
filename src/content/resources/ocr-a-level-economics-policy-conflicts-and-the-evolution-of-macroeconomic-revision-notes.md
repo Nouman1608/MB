@@ -54,18 +54,23 @@ These notes condense the topics **Policy conflicts** and **Approaches to policy 
 Describe diagrams in words: for example, AD shifts right along a steep SRAS, so the price level rises with little extra output.
 
 <figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-policy-conflicts-and-the-evolution-of-macroeconomic--06-growth-widens-gap.webp" width="900" height="980" alt="Groups growing 1, 3 and 7 percent gain 80, 660 and 6,300 per person. Mean income rises 4.3 percent, yet the top 10 percent share rises from 38.8 to 39.8 percent and the bottom 40 percent share falls from 13.8 to 13.4 percent." loading="lazy">
+  <figcaption>Strong growth can still widen the gap when the gains go mainly to the top.</figcaption>
+</figure>
+
+<figure class="topic-figure">
   <img src="https://img.marlbridge.com/ocr-a-level-economics-macroeconomics--05-phillips-curve.webp" width="900" height="910" alt="The short-run Phillips curve slopes down, so lower unemployment (A to B) brings higher inflation. Higher expectations shift it up to SRPC2 and the economy ends at C on the vertical long-run curve at the NAIRU." loading="lazy">
   <figcaption>In the short run there is a trade-off; in the long run unemployment returns to the NAIRU.</figcaption>
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-level-aqa-economics-measurement-of-macroeconomic-performance--02-growth-vs-current-account.webp" width="900" height="1040" alt="A four-step chain: growth policy raises aggregate demand, incomes rise, some spending goes on imports, and the current account worsens. Bars show exports 100 and imports rising from 100 to 118, a deficit of 18." loading="lazy">
-  <figcaption>Growth policy can raise imports faster than exports, creating a short-run conflict.</figcaption>
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-aggregate-demand-supply--08-keynesian-as.webp" width="900" height="1030" alt="The Keynesian AS curve is flat with spare capacity, rises as bottlenecks appear and becomes vertical at full capacity. Three AD curves cross it at E1 (output 30, price 40), E2 (output 60, price 50) and E3 (output 80, price 85), showing output-only, both, then price-only effects." loading="lazy">
+  <figcaption>On the Keynesian AS curve a rise in AD raises output on the flat part, both on the rising part and only prices on the vertical part.</figcaption>
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/aqa-a-level-economics-aggregate-demand-supply--08-keynesian-as.webp" width="900" height="1030" alt="The Keynesian AS curve is flat with spare capacity, rises as bottlenecks appear and becomes vertical at full capacity. Three AD curves cross it at E1 (output 30, price 40), E2 (output 60, price 50) and E3 (output 80, price 85), showing output-only, both, then price-only effects." loading="lazy">
-  <figcaption>On the Keynesian AS curve a rise in AD raises output on the flat part, both on the rising part and only prices on the vertical part.</figcaption>
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-aggregate-demand-supply--07-lras-growth.webp" width="900" height="1000" alt="LRAS shifts right from output 100 to 130, with SRAS shifted right by the same amount. Equilibrium moves from output 90, price level 65 to output 105, price level 57.5. Technology, productivity, enterprise, factor mobility, incentives and institutions are listed as causes." loading="lazy">
+  <figcaption>Underlying economic growth is a rightward shift in LRAS, raising output and easing prices.</figcaption>
 </figure>
 
 
@@ -102,12 +107,6 @@ Describe diagrams in words: for example, AD shifts right along a steep SRAS, so 
 | Timing | Act when capacity allows | Lags, uncertain output gap |
 
 **Evaluation hooks:** short run against long run; size of spare capacity; demand-pull against cost-push; credibility; who pays.
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/aqa-gcse-economics-objectives-of-government--03-objectives-conflict.webp" width="900" height="1010" alt="Flow from an interest rate cut to higher borrowing and spending. Gains: growth rises and unemployment falls. Side effects: demand-pull inflation risk and a worse balance of payments through more imports. Raising rates does the reverse." loading="lazy">
-  <figcaption>A policy that helps one objective can harm another.</figcaption>
-</figure>
-
 
 ## Worked reminders
 
@@ -166,12 +165,6 @@ Describe diagrams in words: for example, AD shifts right along a steep SRAS, so 
 
 **Pattern to remember:** each approach was shaped by the problem of its day. Mass unemployment favoured demand management. Inflation with unemployment favoured control of money, expectations and supply. A banking collapse brought unusual central bank tools and a lasting argument about the right balance between stimulus and consolidation. In an answer, name the circumstance, the policy response, and one limit of that response.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ocr-a-level-economics-policy-conflicts-and-the-evolution-of-macroeconomic--07-policy-approaches-timeline.webp" width="900" height="1290" alt="Four episodes with the lesson key numbers: Depression (a 30 percent fall needs 42.9 percent to recover), 1970s stagflation (unit labour costs up about 10 percent), 1980s monetarism (money growth 9 percent gives 6.9 percent inflation, 5 percent gives 2.9), 2007-08 (a 5 percent asset loss wipes out equity of 4)." loading="lazy">
-  <figcaption>Each change of policy approach followed a failure of the previous one.</figcaption>
-</figure>
-
-
 ## Quick self-test
 
 1. Define a policy trade-off.
@@ -201,6 +194,22 @@ Describe diagrams in words: for example, AD shifts right along a steep SRAS, so 
 10. For example, education and training, and investment in infrastructure or capital, shifting long-run AS right.
 11. Supply shocks and wage pressure produced inflation and unemployment together, and AD expansion fed inflation.
 12. For example, policy rates cut very low with quantitative easing, and tighter regulation of bank capital.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-policy-conflicts-and-the-evolution-of-macroeconomic--07-policy-approaches-timeline.webp" width="900" height="1290" alt="Four episodes with the lesson key numbers: Depression (a 30 percent fall needs 42.9 percent to recover), 1970s stagflation (unit labour costs up about 10 percent), 1980s monetarism (money growth 9 percent gives 6.9 percent inflation, 5 percent gives 2.9), 2007-08 (a 5 percent asset loss wipes out equity of 4)." loading="lazy">
+  <figcaption>Each change of policy approach followed a failure of the previous one.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-objectives-of-government--03-objectives-conflict.webp" width="900" height="1010" alt="Flow from an interest rate cut to higher borrowing and spending. Gains: growth rises and unemployment falls. Side effects: demand-pull inflation risk and a worse balance of payments through more imports. Raising rates does the reverse." loading="lazy">
+  <figcaption>A policy that helps one objective can harm another.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-economics-measurement-of-macroeconomic-performance--02-growth-vs-current-account.webp" width="900" height="1040" alt="A four-step chain: growth policy raises aggregate demand, incomes rise, some spending goes on imports, and the current account worsens. Bars show exports 100 and imports rising from 100 to 118, a deficit of 18." loading="lazy">
+  <figcaption>Growth policy can raise imports faster than exports, creating a short-run conflict.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

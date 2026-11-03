@@ -53,6 +53,11 @@ A typical fasting concentration is about 4 to 6 mmol dm⁻³. Do not write "cons
 Hormone levels sit behind this table. Insulin lowers glucose; glucagon and adrenaline raise it.
 
 <figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-homeostasis--01-temperature-control.webp" width="900" height="1030" alt="A strip shows receptors in skin and blood, the hypothalamus as coordinator, effectors in skin and muscle and the restored set point, with a feedback line back to the start. Two skin cross-sections follow. Too hot: wide blood vessel loop (vasodilation), sweat droplets and flat hairs. Too cold: narrow loop (vasoconstriction), no sweat, raised hairs and shivering muscle." loading="lazy">
+  <figcaption>Temperature control is negative feedback: receptors, hypothalamus and effectors reverse any change from the set point.</figcaption>
+</figure>
+
+<figure class="topic-figure">
   <img src="https://img.marlbridge.com/a-level-biology-9700-homeostasis--07-blood-glucose-control.webp" width="900" height="1110" alt="A graph of blood glucose against time with a shaded 4 to 6 mmol per dm cubed band: a meal raises it and insulin brings it back, exercise lowers it and glucagon raises it. Below, glucose too high: beta cells release insulin, the liver makes glycogen and muscle and fat cells gain glucose channels. Glucose too low: alpha cells release glucagon, the liver breaks glycogen down and makes glucose from amino acids and glycerol." loading="lazy">
   <figcaption>Insulin lowers and glucagon raises blood glucose, acting on the liver and on muscle and fat cells.</figcaption>
 </figure>
@@ -72,6 +77,11 @@ Hormone levels sit behind this table. Insulin lowers glucose; glucagon and adren
 | Gluconeogenesis | glycerol and amino acids to glucose | stores of glycogen are running low |
 
 Glycogen is a branched polymer of glucose stored in liver and muscle cells. Because it is insoluble and large, it has almost no effect on water potential, unlike the same number of free glucose molecules. Note that gluconeogenesis makes glucose from *non-carbohydrate* molecules.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-homeostasis--03-ultrafiltration.webp" width="900" height="1100" alt="Blood with red cells, plasma proteins and small molecules lies on the left. Fluid crosses the endothelium with gaps, the basement membrane mesh and the podocyte slits into the capsule space. Water, glucose, urea and ions pass; cells and proteins stay. A bar diagram of AQA example pressures (9.6 out, 2.1 and 4.5 back) gives 3.0 kPa net outward." loading="lazy">
+  <figcaption>Blood is forced through three layers; the basement membrane is the main filter, and cells and proteins stay in the blood.</figcaption>
+</figure>
 
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/a-level-biology-9700-homeostasis--04-pct-reabsorption.webp" width="900" height="940" alt="One proximal tubule cell between filtrate (left) and blood (right) with microvilli, mitochondria and tight junctions. Step 1: a sodium-potassium pump moves Na+ out of the cell using ATP. Step 2: Na+ diffuses in through a co-transporter carrying glucose. Step 3: glucose leaves by facilitated diffusion. Step 4: water follows by osmosis." loading="lazy">

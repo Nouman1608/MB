@@ -95,6 +95,12 @@ Calculate force = mass × 9.81 N kg⁻¹, area = π (d / 2)², then tensile stre
 
 **Controls and limits:** same fibre length, same moisture state, same rate of loading, and a diameter that is measured rather than assumed. Fibres are not perfect cylinders and vary along their length, so repeat measurements and give a mean.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-biology-plant-minerals-antimicrobial-plant-substances-and-drug--02-gravitropism-shoot-root.webp" width="900" height="1100" alt="A horizontal shoot and root both have more IAA on the lower side. In the shoot this stimulates lower cells, so it curves up. In the root it inhibits lower cells, so upper cells grow more and it curves down." loading="lazy">
+  <figcaption>The same hormone bends a shoot up and a root down because roots are inhibited by high IAA.</figcaption>
+</figure>
+
+
 ## 4.10 Conditions for bacterial growth
 
 Bacteria reproduce by binary fission, so numbers double each generation: N = N₀ × 2ⁿ, where n is the number of generations.

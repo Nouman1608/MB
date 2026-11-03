@@ -70,6 +70,11 @@ Course hub: [Edexcel IGCSE Mathematics](/boards/edexcel/igcse/mathematics/). Tic
 </figure>
 
 <figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-estimation-and-using-a-calculator--01-rounding-number-line.webp" width="900" height="960" alt="Two number lines show 46 285 between 46 200 and 46 300, past the halfway point 46 250, so it rounds up to 46 300. Between 46 000 and 47 000 it lies before halfway 46 500, so it rounds to 46 000." loading="lazy">
+  <figcaption>Compare 46 285 with the halfway point to round to the nearest 100 or 1000.</figcaption>
+</figure>
+
+<figure class="topic-figure">
   <img src="https://img.marlbridge.com/igcse-mathematics-0580-estimation-and-using-a-calculator--02-significant-figures.webp" width="900" height="900" alt="The digits of 0.07049 are boxed. The leading zeros are greyed because they never count; counting starts at the 7. The digit after the last kept one decides: 0 and 4 leave it (0.07, 0.070) and 9 rounds up (0.0705)." loading="lazy">
   <figcaption>Count significant figures from the first non-zero digit and keep zeros that show accuracy, as in 0.070.</figcaption>
 </figure>
@@ -190,6 +195,11 @@ lower bound of P - Q = 17.55 - 9.255 = 8.295
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/igcse-mathematics-number--03-standard-form.webp" width="900" height="880" alt="Digit boxes show the decimal point of 4 560 000 jumping 6 places left to give 4.56 x 10^6, and of 0.00032 jumping 4 places right to give 3.2 x 10^-4. A must lie between 1 and 10." loading="lazy">
   <figcaption>Move the decimal point until the number is between 1 and 10; the count of moves is the power of 10.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-fractions-decimals-percentages-ordering-operations--02-ordering-number-line.webp" width="900" height="930" alt="Two number lines. The first, zoomed to 0.69 to 0.73, places 7/10, 0.705, 0.71, 5/7 and 72% in that order. The second places -2.4, -2 1/3, -2 1/4 and -2.04 in order, the furthest from zero being smallest." loading="lazy">
+  <figcaption>Further left on the number line always means smaller, whatever the form or sign.</figcaption>
 </figure>
 
 

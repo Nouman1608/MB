@@ -168,6 +168,16 @@ Two rules follow.
   <figcaption>An antibiotic kills bacteria so the immune system can clear the rest.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-drugs--03-bacterium-vs-virus.webp" width="900" height="1010" alt="A bacterium is a living cell with cell wall, cell membrane, cytoplasm and a DNA loop, giving an antibiotic something to act on. A virus is a protein coat around genetic material, not a cell, so an antibiotic has nothing to act on." loading="lazy">
+  <figcaption>Antibiotics need cell structures to act on, so they work on bacteria and not on viruses.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-drugs--05-only-when-essential.webp" width="900" height="1010" alt="Extended. A cold or flu (virus) and a minor bacterial infection the body clears itself do not need antibiotics; a serious bacterial infection does. Fewer uses mean fewer chances to select resistant bacteria, so antibiotics keep working." loading="lazy">
+  <figcaption>Using antibiotics only when essential gives resistant bacteria fewer chances to be selected.</figcaption>
+</figure>
+
 
 ## 3.4.7 h: mutation and new strains
 
@@ -191,6 +201,11 @@ A strain that began as 1 in a million is now the whole infection, and the same a
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/oxfordaqa-igcse-biology-infection-immunity-vaccination-and-antibiotics--11-resistant-strain-takes-over.webp" width="900" height="750" alt="On a log-scale chart, 2 resistant bacteria dividing every 20 minutes reach 65 536 after 5 hours (15 divisions, 2 × 32 768), after the antibiotic has killed the non-resistant bacteria." loading="lazy">
   <figcaption>After the antibiotic removes the rest, 2 resistant bacteria grow to 65 536 in 5 hours.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-drugs--04-resistance-develops.webp" width="900" height="1290" alt="Extended. Four steps of natural selection in bacteria: one of ten bacteria has a random mutation making it resistant; the antibiotic kills the nine non-resistant ones; the survivor divides and passes on the gene; later all bacteria are resistant and the antibiotic no longer works." loading="lazy">
+  <figcaption>The antibiotic selects resistant bacteria that already exist; it does not cause the mutation.</figcaption>
 </figure>
 
 
@@ -226,6 +241,12 @@ A clear zone means the bacteria were killed or could not grow near that disc. A 
 Conclusion: P was the most effective of the three against this bacterium. You cannot say P is best against all bacteria, because only one was tested.
 
 Reasons for variation to control: the same bacterium, the same agar depth, the same disc size and volume of liquid, the same incubation time and temperature. Risk assessment matters because cultures could contain harmful microorganisms: wash hands, disinfect the bench, and do not open sealed plates.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-biology-infection-immunity-vaccination-and-antibiotics--07-clear-zones-discs.webp" width="900" height="1100" alt="Plate from above with discs P (16 mm zone), Q (9 mm zone), R and water (no zone), with zone areas 201.1 and 63.6 mm squared, ratio about 3.2." loading="lazy">
+  <figcaption>A larger clear zone means a more effective antibiotic; compare areas, not diameters.</figcaption>
+</figure>
+
 
 ## Common errors
 

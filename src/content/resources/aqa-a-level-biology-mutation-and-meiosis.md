@@ -196,6 +196,11 @@ Mitosis keeps identical DNA because chromatids separate once after replication a
   <figcaption>Chromosomes condense, line up, separate as chromatids, and two nuclei form before the cytoplasm divides.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-the-mitotic-cell-cycle--04-mitotic-index.webp" width="900" height="1232" alt="A grid of 500 root tip cells, one symbol each: 440 interphase and 60 in mitosis (30 prophase, 12 metaphase, 8 anaphase, 10 telophase). A table gives time in a 24 hour cycle for each stage and the mitotic index 60/500 = 12%." loading="lazy">
+  <figcaption>The fraction of cells in a stage equals the fraction of the cycle spent in it.</figcaption>
+</figure>
+
 
 ## Meiosis in life cycles
 

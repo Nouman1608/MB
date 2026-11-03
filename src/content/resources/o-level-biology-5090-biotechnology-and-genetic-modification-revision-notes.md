@@ -231,6 +231,12 @@ Reminder: percentage increase = (change ÷ starting value) × 100. If juice volu
 11. Resistance to herbicides; resistance to insect pests; additional vitamins.
 12. Change = 9 cm³; (9 ÷ 15) × 100 = **60%**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-biology-5090-biotechnology-and-genetic-modification--04-dough-rising-data.webp" width="900" height="770" alt="Two measuring cylinders show dough at 50 cm3 at the start and 125 cm3 after 60 minutes. The increase is 75 cm3, a 150 percent increase, at a mean rate of 1.25 cm3 per minute, because carbon dioxide from yeast is trapped in the dough." loading="lazy">
+  <figcaption>Dough rises from 50 to 125 cm3 in 60 minutes: 150% increase, 1.25 cm3 per minute.</figcaption>
+</figure>
+
+
 ## Where marks are usually lost
 
 - Writing "yeast produces oxygen" or "alcohol makes bread rise".

@@ -79,11 +79,6 @@ dissolving a solid in water, mixing sand with salt, and separating a mixture by 
   <figcaption>Gas, a precipitate, a permanent colour change or a self-made temperature change point to a new substance; outside heating does not.</figcaption>
 </figure>
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/physical-and-chemical-changes--03-dissolving-physical.webp" width="900" height="770" alt="Twelve salt pieces sit in water, then spread out when dissolved, then reappear as a solid when the water evaporates from a dish. The same twelve pieces appear each time, so no new substance forms." loading="lazy">
-  <figcaption>Dissolved salt is still salt and can be recovered by evaporation.</figcaption>
-</figure>
-
 
 ## Worked classification
 
@@ -171,3 +166,9 @@ When a question asks you to identify a change **and** explain:
 *These are original notes written for revision. Check the full syllabus wording in the
 [official 0620 syllabus](https://www.cambridgeinternational.org/Images/697205-2026-2028-syllabus.pdf) and
 [official 5070 syllabus](https://www.cambridgeinternational.org/Images/697326-2026-2028-syllabus.pdf).*
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/physical-and-chemical-changes--03-dissolving-physical.webp" width="900" height="770" alt="Twelve salt pieces sit in water, then spread out when dissolved, then reappear as a solid when the water evaporates from a dish. The same twelve pieces appear each time, so no new substance forms." loading="lazy">
+  <figcaption>Dissolved salt is still salt and can be recovered by evaporation.</figcaption>
+</figure>
+

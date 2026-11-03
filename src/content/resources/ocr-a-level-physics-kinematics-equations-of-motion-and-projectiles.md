@@ -241,6 +241,11 @@ For a launch from height, put s = −(height) in s = vᵧt − ½gt² and solve 
   <figcaption>At the top vertical velocity is zero but the speed equals vx and the acceleration is still g.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/as-physics-kinematics-equations-of-motion--07-higher-landing.webp" width="900" height="880" alt="A ball thrown at 15 m/s, 60 degrees, crosses the 3.0 m platform height at 0.256 s (rising) and 2.39 s (falling). Only the second root is the landing, with vy = -10.5 m/s and horizontal distance 17.9 m." loading="lazy">
+  <figcaption>A quadratic gives two times at the platform height; the landing is the later one, when vy is negative.</figcaption>
+</figure>
+
 
 ## Common errors
 

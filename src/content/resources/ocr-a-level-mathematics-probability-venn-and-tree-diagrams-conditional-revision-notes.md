@@ -90,6 +90,27 @@ Independence also means P(B \| A) = P(B). The specification excludes using the c
 2. Say why it may fail in the context given.
 3. State which way the answer would move.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-maths-9709-probability-statistics-1--01-venn-addition-law.webp" width="900" height="870" alt="Venn diagram for cards 1 to 20 with A multiples of 3 and B even: 3 only in A, 3 in both, 7 only in B, 7 in neither. 6 + 10 - 3 = 13 cards, so P(A or B) = 13/20 and P(A') = 7/10." loading="lazy">
+  <figcaption>Adding P(A) and P(B) counts the overlap twice, so it is subtracted once.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-maths-9709-probability-statistics-1--05-two-way-table-given.webp" width="900" height="970" alt="Café table of 250 orders. P(hot and takeaway) = 85/250 = 0.34 uses the grand total; P(hot given takeaway) = 85/150 = 17/30 uses only the takeaway row. Hot and takeaway are not independent since 0.62 x 0.6 = 0.372, not 0.34." loading="lazy">
+  <figcaption>The word given restricts you to one row or column, so its total is the denominator.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-maths-9709-probability-statistics-1--06-venn-conditional.webp" width="900" height="1050" alt="Venn regions A only 0.45, both 0.10, B only 0.25, neither 0.20. Given B the sample space is the B circle (0.35), so P(A|B) = 0.10/0.35 = 2/7. Given not A the space is 0.45, so P(B|A') = 0.25/0.45 = 5/9." loading="lazy">
+  <figcaption>The condition becomes the new sample space and sits in the denominator.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-maths-9709-probability-statistics-1--07-reversing-the-condition.webp" width="900" height="910" alt="Out of 10 000 components, 400 faulty and 9 600 good. The test flags 380 faulty and 288 good, 668 in all, so P(faulty given flagged) = 380/668 = 0.569, matching 0.038/0.0668 on a tree." loading="lazy">
+  <figcaption>Reversing the condition means dividing one tree path by all paths that end in the observed outcome.</figcaption>
+</figure>
+
+
 ## Choosing a diagram (Stage 1)
 
 | Situation | Best tool | Why |
@@ -98,11 +119,6 @@ Independence also means P(B \| A) = P(B). The specification excludes using the c
 | Ordered stages, possibly dependent | tree diagram | branches carry the changing probabilities |
 | Overlapping groups with a total | Venn diagram | the overlap and the "neither" region are visible |
 | Counts in two categories | two-way table | rows and columns give conditional probabilities directly |
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-level-maths-9709-probability-statistics-1--01-venn-addition-law.webp" width="900" height="870" alt="Venn diagram for cards 1 to 20 with A multiples of 3 and B even: 3 only in A, 3 in both, 7 only in B, 7 in neither. 6 + 10 - 3 = 13 cards, so P(A or B) = 13/20 and P(A') = 7/10." loading="lazy">
-  <figcaption>Adding P(A) and P(B) counts the overlap twice, so it is subtracted once.</figcaption>
-</figure>
 
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/a-level-maths-9709-probability-statistics-1--04-tree-without-replacement.webp" width="900" height="950" alt="Tree for two counters from 6 red and 4 blue without replacement. Second-stage probabilities change (5/9, 4/9 after red; 6/9, 3/9 after blue). Path probabilities RR 30/90, RB 24/90, BR 24/90, BB 12/90. At least one blue is 60/90 = 2/3, and P(first red given at least one blue) = 24/60 = 2/5." loading="lazy">
@@ -216,6 +232,12 @@ The gap is tiny because the population is large. With 12 students the same idea 
 9. 0.3 × 0.6 = 0.18 = P(A ∩ B), so **independent**. P(A' | B) = P(A' ∩ B)/P(B) = (0.6 − 0.18)/0.6 = **0.7**.
 10. For example, wet days tend to come in spells, so rain on one day makes rain the next day more likely. The days are not independent.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-maths-9709-probability-statistics-1--03-dice-sample-space-independence.webp" width="900" height="1106" alt="A 6 by 6 grid of two-dice totals. A (first die even) covers 18 cells, B (total 7) 6 cells, both 3 cells. 1/2 x 1/6 = 1/12 = 3/36, so A and B are independent." loading="lazy">
+  <figcaption>Counting cells in the sample space shows P(A and B) equals P(A) x P(B).</figcaption>
+</figure>
+
+
 ## Where marks are usually lost
 
 - Writing "independent" because the numbers look similar, with no product test shown.
@@ -227,17 +249,6 @@ The gap is tiny because the population is large. With 12 students the same idea 
 - Missing the "neither" region in a Venn diagram, so the regions do not total the full sample.
 - Answering a modelling question with "not realistic" and no named assumption or direction of effect.
 - Leaving out the final conclusion in words when the question asks you to decide or comment.
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-level-maths-9709-probability-statistics-1--03-dice-sample-space-independence.webp" width="900" height="1106" alt="A 6 by 6 grid of two-dice totals. A (first die even) covers 18 cells, B (total 7) 6 cells, both 3 cells. 1/2 x 1/6 = 1/12 = 3/36, so A and B are independent." loading="lazy">
-  <figcaption>Counting cells in the sample space shows P(A and B) equals P(A) x P(B).</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-level-maths-9709-probability-statistics-1--06-venn-conditional.webp" width="900" height="1050" alt="Venn regions A only 0.45, both 0.10, B only 0.25, neither 0.20. Given B the sample space is the B circle (0.35), so P(A|B) = 0.10/0.35 = 2/7. Given not A the space is 0.45, so P(B|A') = 0.25/0.45 = 5/9." loading="lazy">
-  <figcaption>The condition becomes the new sample space and sits in the denominator.</figcaption>
-</figure>
-
 
 ## Official syllabus
 

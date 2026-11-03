@@ -50,12 +50,6 @@ calculations
 - 1.4 Inverse operations — recognising and using inverse operations to
 check or reverse a calculation
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ocr-gcse-mathematics-number-operations-and-integers--14-inverse-operations-undo.webp" width="900" height="1030" alt="A forward chain 4, x3 = 12, +5 = 17 is undone by 17, -5 = 12, divide by 3 = 4. Inverse pairs are + and -, x and divide, square and square root. To check 156 divided by 12 = 13, compute 13 x 12 = 156." loading="lazy">
-  <figcaption>Undo a calculation by reversing the order and using the inverse of each step.</figcaption>
-</figure>
-
-
 ## How to approach it
 
 Calculations with integers (1.1) is foundational and needs to be
@@ -75,6 +69,12 @@ any topic can appear on any paper, this content is never confined to a
 single "number" question -- expect it to surface as a supporting step
 within algebra, ratio and statistics questions too, so treat fluency
 here as a standing requirement rather than a box to tick once.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-mathematics-number-operations-and-integers--14-inverse-operations-undo.webp" width="900" height="1030" alt="A forward chain 4, x3 = 12, +5 = 17 is undone by 17, -5 = 12, divide by 3 = 4. Inverse pairs are + and -, x and divide, square and square root. To check 156 divided by 12 = 13, compute 13 x 12 = 156." loading="lazy">
+  <figcaption>Undo a calculation by reversing the order and using the inverse of each step.</figcaption>
+</figure>
+
 
 ## Official syllabus
 
@@ -105,6 +105,11 @@ With negative numbers, two signs together combine: subtracting a negative is equ
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/igcse-mathematics-0580-fractions-decimals-percentages-ordering-operations--04-order-of-operations.webp" width="900" height="960" alt="Two worked examples with the part being calculated highlighted at each step: (5 - 2^3) x 4 + 6 / (-2) = -15, and 18 - 12 / 4 x 3 = 9. Multiplication and division have equal rank, so work left to right." loading="lazy">
   <figcaption>Work out indices and brackets first, then multiply and divide left to right, then add and subtract.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-mathematics-integer-arithmetic-number-theory-priority-of--05-subtract-negative-line.webp" width="900" height="820" alt="A number line from -10 to 15. Starting at -8, subtracting -15 hops right 15 to 7, then +6 hops to 13. So -8 - (-15) + 6 = 13, not -23." loading="lazy">
+  <figcaption>Subtracting a negative is the same as adding.</figcaption>
 </figure>
 
 
@@ -184,6 +189,16 @@ The lower bound uses <= and the upper uses <, because 6.35 would round up. Writi
   <figcaption>The lower bound of the area uses both lower bounds; the upper bound uses both upper bounds.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-estimation-and-using-a-calculator--02-significant-figures.webp" width="900" height="900" alt="The digits of 0.07049 are boxed. The leading zeros are greyed because they never count; counting starts at the 7. The digit after the last kept one decides: 0 and 4 leave it (0.07, 0.070) and 9 rounds up (0.0705)." loading="lazy">
+  <figcaption>Count significant figures from the first non-zero digit and keep zeros that show accuracy, as in 0.070.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-number--04-limits-of-accuracy.webp" width="900" height="810" alt="A number line from 4.50 to 4.70 kg shades the values from 4.55 to 4.65 that round to 4.6 kg. The lower bound 4.55 is included (filled dot); the upper bound 4.65 is not (open dot)." loading="lazy">
+  <figcaption>A value given to 1 d.p. can be up to half a unit (0.05) either side: 4.55 &lt;= mass &lt; 4.65.</figcaption>
+</figure>
+
 
 ## Worked example
 
@@ -205,12 +220,6 @@ Choosing between HCF and LCM is the real difficulty. LCM answers "when do things
 
 Treating 1 as prime. Applying BIDMAS by doing all multiplication before all division rather than left to right. Using HCF where LCM is needed. Writing standard form with A outside 1 to 10. Rounding partway through a multi-step calculation instead of at the end. Using <= for the upper bound of an error interval.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ocr-gcse-mathematics-number-operations-and-integers--06-bells-lcm-timeline.webp" width="900" height="790" alt="Two timelines show bell A every 84 seconds and bell B every 120 seconds. They coincide only at 0 and 840 seconds, so the bells next ring together 14 minutes later, at 09:14." loading="lazy">
-  <figcaption>Bells coincide at the lowest common multiple, 840 s = 14 minutes.</figcaption>
-</figure>
-
-
 ## Quick revision checklist
 
 - Apply BIDMAS correctly, including left-to-right rules for equal-priority operations.
@@ -219,3 +228,9 @@ Treating 1 as prime. Applying BIDMAS by doing all multiplication before all divi
 - Decide correctly between HCF and LCM from the wording of a problem.
 - Apply all index laws and calculate in standard form.
 - Round to decimal places and significant figures, estimate, and write error intervals with the correct inequality signs.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-mathematics-number-operations-and-integers--06-bells-lcm-timeline.webp" width="900" height="790" alt="Two timelines show bell A every 84 seconds and bell B every 120 seconds. They coincide only at 0 and 840 seconds, so the bells next ring together 14 minutes later, at 09:14." loading="lazy">
+  <figcaption>Bells coincide at the lowest common multiple, 840 s = 14 minutes.</figcaption>
+</figure>
+

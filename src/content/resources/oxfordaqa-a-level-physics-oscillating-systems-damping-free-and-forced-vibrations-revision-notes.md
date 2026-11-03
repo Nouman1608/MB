@@ -116,6 +116,12 @@ If the resistive force grows with speed, the amplitude falls by the same fractio
 
 **What to write in a "describe" answer on damping.** Name the resistive force. State that energy is transferred out of the oscillator. State that the amplitude decreases with time. State what happens to the period (almost no change for light damping). Name the type if asked: light, critical or heavy.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-motion-in-a-circle--04-vertical-circle.webp" width="900" height="810" alt="A 0.50 kg ball on a 0.80 m string. At the top (4.0 m/s) tension 5.1 N and weight 4.9 N both point down; at the bottom (6.9 m/s) tension 34.5 N points up and weight 4.9 N down, arrows to scale. The bottom tension exceeds the top by 6mg = 29.4 N, and the minimum speed at the top (T = 0) is sqrt(gr) = 2.8 m/s." loading="lazy">
+  <figcaption>Tension is least at the top and greatest at the bottom, differing by 6mg for a freely moving ball.</figcaption>
+</figure>
+
+
 ## Forced vibrations and resonance
 
 1. A driver applies a periodic force at frequency f.
@@ -172,6 +178,17 @@ If the resistive force grows with speed, the amplitude falls by the same fractio
 9. The peak is lower and broader.
 10. λ = 4 × 0.20 = 0.80 m, so f = 340 / 0.80 = **425 Hz**.
 11. ω = √(18/0.50) = **6.0 rad s⁻¹**. Maximum speed = ωA = 6.0 × 0.050 = **0.30 m s⁻¹**. Total energy = ½kA² = ½ × 18 × 0.050² = **0.0225 J**.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-motion-in-a-circle--01-radian-omega-v.webp" width="900" height="1160" alt="A circle with a 1 radian sector: the arc along the edge is as long as the radius and the angle is about 57.3 degrees, with quarter, half and three-quarter turns marked as pi/2, pi, 3pi/2 and 2pi. Below, a turntable at 45 rpm has omega 4.71 rad/s everywhere; a point at 0.10 m moves at 0.47 m/s and a point at 0.20 m at 0.94 m/s, so v = omega r." loading="lazy">
+  <figcaption>One radian is the angle whose arc equals the radius, and at the same ω a point further out moves faster.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-motion-in-a-circle--02-centripetal-acceleration.webp" width="900" height="710" alt="Balls on a circle have tangent velocity arrows of equal length and acceleration arrows pointing to the centre, at right angles to the velocity. A vector triangle shows v1 and v2 and their difference delta v pointing towards the centre. A dashed line shows a ball moving straight on if the force is removed." loading="lazy">
+  <figcaption>Speed is constant but the velocity turns, so the change in velocity and the acceleration point towards the centre.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

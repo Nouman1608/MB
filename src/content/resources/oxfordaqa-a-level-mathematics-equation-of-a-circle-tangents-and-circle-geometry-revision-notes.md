@@ -99,6 +99,11 @@ Uses of the chord property:
 - A line through the centre perpendicular to a chord meets it at its midpoint.
 
 <figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-mathematics-pure-mathematics-1-coordinate-geometry--01-line-segment-toolkit.webp" width="900" height="950" alt="A(-2,5) and B(4,1): gradient, midpoint M, line 2x+3y-11=0 and perpendicular bisector 3x-2y+3=0 whose gradients multiply to -1." loading="lazy">
+  <figcaption>The gradient triangle, the midpoint and the perpendicular bisector all come from the same two points.</figcaption>
+</figure>
+
+<figure class="topic-figure">
   <img src="https://img.marlbridge.com/a-level-mathematics-pure-mathematics-1-coordinate-geometry--05-angle-in-semicircle.webp" width="900" height="1046" alt="Circle with diameter PQ, P(1,7), Q(7,-1), point R(8,6): gradients -1/7 and 7 multiply to -1, so angle PRQ is 90 degrees." loading="lazy">
   <figcaption>A diameter subtends a right angle at any other point of the circle, which can be proved with gradients.</figcaption>
 </figure>
@@ -106,11 +111,6 @@ Uses of the chord property:
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/a-level-mathematics-pure-mathematics-1-coordinate-geometry--06-chord-bisector-centre.webp" width="900" height="1070" alt="Chord AB with A(2,1), B(6,5); its perpendicular bisector y=-x+7 meets y=x-3 at the centre (5,2); d^2 + half-chord^2 = r^2. AQA worked example 5." loading="lazy">
   <figcaption>The centre always lies on the perpendicular bisector of any chord, so two chords fix the centre.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-level-mathematics-pure-mathematics-1-coordinate-geometry--08-line-meets-circle.webp" width="900" height="1124" alt="Lines y=x+k against x^2+y^2=18: discriminant 144-4k^2 gives two points at k=0, a tangent at k=6 and no points at k=8." loading="lazy">
-  <figcaption>Substituting a line into a circle gives a quadratic whose discriminant counts the intersections.</figcaption>
 </figure>
 
 
@@ -147,12 +147,6 @@ Implicit differentiation is not required by the specification. Gradients come fr
 
 **Line meeting a circle.** Substitute the line into the circle equation and get a quadratic. Two roots mean two intersections (a chord), a repeated root means the line is a tangent, and no real roots mean no intersection. This uses quadratics knowledge from the Unit P1 content, so see the [Pure Maths 1 revision notes](/resources/oxfordaqa-a-level-mathematics-p1-revision-notes/) if it feels rusty.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-level-mathematics-pure-mathematics-1-coordinate-geometry--01-line-segment-toolkit.webp" width="900" height="950" alt="A(-2,5) and B(4,1): gradient, midpoint M, line 2x+3y-11=0 and perpendicular bisector 3x-2y+3=0 whose gradients multiply to -1." loading="lazy">
-  <figcaption>The gradient triangle, the midpoint and the perpendicular bisector all come from the same two points.</figcaption>
-</figure>
-
-
 ## Exam-style patterns to recognise
 
 | Wording in the question | What it is asking for |
@@ -165,6 +159,12 @@ Implicit differentiation is not required by the specification. Gradients come fr
 | "The circle is translated by" | Move the centre only |
 | "Touches the x-axis" | Radius equals the distance from the centre to the axis |
 | "Touches the y-axis" | Radius equals the distance from the centre to that axis |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-mathematics-pure-mathematics-1-coordinate-geometry--08-line-meets-circle.webp" width="900" height="1124" alt="Lines y=x+k against x^2+y^2=18: discriminant 144-4k^2 gives two points at k=0, a tangent at k=6 and no points at k=8." loading="lazy">
+  <figcaption>Substituting a line into a circle gives a quadratic whose discriminant counts the intersections.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 

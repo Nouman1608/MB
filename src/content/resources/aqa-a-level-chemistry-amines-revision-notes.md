@@ -55,6 +55,11 @@ N is tertiary.
   <figcaption>Amines are classed by the number of carbons bonded directly to nitrogen.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-amines--09-protein-structure.webp" width="900" height="1200" alt="Primary: order of amino acids joined by peptide links. Secondary: an alpha-helix or beta-pleated sheet held by hydrogen bonds between peptide links. Tertiary: the whole chain folded in 3D, held by hydrogen bonds and S-S bonds between side chains such as two cysteines." loading="lazy">
+  <figcaption>Primary, secondary and tertiary structure are held by peptide links, backbone hydrogen bonds, and side-chain bonds.</figcaption>
+</figure>
+
 
 ## 3.3.11.1 Preparation summary
 

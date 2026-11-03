@@ -109,6 +109,17 @@ Share of sales to a buyer     = sales to that buyer ÷ total sales × 100
 
 **Worked reminder.** A regional parcel courier learns that its largest client, an online retailer, plans to build its own delivery fleet. Buyer power has risen, because the client can now supply the service itself. Options: cut prices to keep the contract (defend), offer services the client cannot easily copy, such as next-morning rural delivery (adapt), or win many smaller online sellers to replace the lost volume (spread the risk). The third reduces dependence on one buyer for good, but takes longest.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-business-business-and-its-environment--03-pestle-opportunity-threat.webp" width="900" height="1010" alt="The six PESTLE factors, then one social change (an ageing population) shown as an opportunity for Ivybrook Care and a threat for Rushbank Couriers." loading="lazy">
+  <figcaption>One external change can be an opportunity for one firm and a threat for another.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-business-business-and-its-environment--09-inflation-index.webp" width="900" height="990" alt="A price index rising from 106.0 to 110.24 is 4 percent inflation (divide by the earlier index). Quenby raising prices 3 percent against 4 percent generally is about 1 percent lower in real terms. 100.0 to 98.5 is 1.5 percent deflation." loading="lazy">
+  <figcaption>Inflation is the change in the index divided by the earlier index.</figcaption>
+</figure>
+
+
 ## Impact on functional areas
 
 | Area | Typical effect of strong forces |
@@ -117,6 +128,12 @@ Share of sales to a buyer     = sales to that buyer ÷ total sales × 100
 | Operations | Push to cut unit costs; search for alternative suppliers or inputs |
 | Finance | Lower margins and retained profit; powerful buyers may delay payment |
 | Human resources | Less room for pay rises; possible job cuts or retraining |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-business-business-and-its-environment--01-objectives-hierarchy.webp" width="900" height="1060" alt="Mission informs corporate objectives (profit, growth, market share, survival, cash flow, social and ethical), which inform functional objectives in marketing, operations, finance and HR. Objectives can conflict, such as growth against cash flow." loading="lazy">
+  <figcaption>Objectives flow from mission to corporate to functional level, and can conflict.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 

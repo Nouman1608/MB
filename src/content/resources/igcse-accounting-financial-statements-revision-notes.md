@@ -279,12 +279,6 @@ The $500 loan interest was charged in the statement of profit or loss
 **before** the $48,000 was found — it is not in the appropriation
 account.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-accounting-financial-statements-revision-notes--02-appropriation-worked.webp" width="900" height="930" alt="Profit 48,000 plus interest on drawings 900 gives 48,900. Interest on capital (Amir 3,000, Bea 2,000) and Bea salary 8,000 total 13,000 are deducted, leaving 35,900 shared 3:2 as Amir 21,540 and Bea 14,360. Bea loan interest 500 was charged earlier and is not here." loading="lazy">
-  <figcaption>Loan interest comes before profit; the appropriation account only shares the profit out.</figcaption>
-</figure>
-
-
 ## Exam traps
 
 - Adjusting only one statement, so the SOFP does not balance.
@@ -336,3 +330,9 @@ equity, debenture interest is a finance cost in the statement of profit
 or loss. 6. $77,000 + $31,100 + $5,000 – $6,100 = $107,000. 7. $6,300 +
 $180 + $160 – $240 – $300 = $6,100. 8. $17,000 – $15,600 + $9,000 –
 $2,000 = $8,400.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-accounting-financial-statements-revision-notes--02-appropriation-worked.webp" width="900" height="930" alt="Profit 48,000 plus interest on drawings 900 gives 48,900. Interest on capital (Amir 3,000, Bea 2,000) and Bea salary 8,000 total 13,000 are deducted, leaving 35,900 shared 3:2 as Amir 21,540 and Bea 14,360. Bea loan interest 500 was charged earlier and is not here." loading="lazy">
+  <figcaption>Loan interest comes before profit; the appropriation account only shares the profit out.</figcaption>
+</figure>
+

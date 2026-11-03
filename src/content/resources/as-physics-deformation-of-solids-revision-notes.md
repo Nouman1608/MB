@@ -101,11 +101,6 @@ For a material loaded beyond its elastic limit, the loading and unloading curves
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/as-physics-deformation-of-solids--04-loading-unloading.webp" width="900" height="960" alt="Loading a metal strip to 36 N at 0.100 m does 2.08 J of work. Unloading runs parallel to the first line and reaches zero force at 0.028 m, the permanent extension. 1.30 J is recovered and 0.78 J is dissipated as heat." loading="lazy">
-  <figcaption>After plastic deformation the unloading line is parallel to the first line, leaving a permanent extension and wasted energy.</figcaption>
-</figure>
-
-<figure class="topic-figure">
   <img src="https://img.marlbridge.com/as-physics-deformation-of-solids--07-ductile-stress-strain.webp" width="900" height="1040" alt="A sketch of stress against strain for a ductile metal: straight line to the limit of proportionality, elastic limit, yield point, peak (UTS), necking and breaking. The gradient of the straight part is the Young modulus." loading="lazy">
   <figcaption>A ductile metal shows an elastic region, then plastic deformation, necking and fracture; the gradient of the straight part is E.</figcaption>
 </figure>
@@ -142,3 +137,9 @@ For a material loaded beyond its elastic limit, the loading and unloading curves
 7. Why is an unstretched reference wire run alongside the test wire in this experiment?
 
 **Answers:** 1. The force applied is directly proportional to the extension produced, up to the limit of proportionality. 2. The Young modulus is defined using stress and strain, which account for cross-sectional area and original length, so it depends only on the material. 3. While the deformation stays within the elastic limit, the area under the loading curve is both the total work done stretching the material and the elastic strain energy stored, since all of it is recoverable. Once the material has been stretched beyond its elastic limit, this is no longer true: the total work done is still the full area under the loading curve, but only the smaller area under the *unloading* curve is recoverable elastic strain energy — the area between the two curves has instead been dissipated (mostly as thermal energy) in permanently deforming the material. 4. Strong means a high breaking stress; stiff means a high Young modulus; tough means absorbing a large amount of energy before fracture. 5. A long wire gives a measurably large extension and a thin wire gives a large stress for a modest load, reducing percentage uncertainty in both measurements. 6. stress = 80 ÷ (2.0 × 10⁻⁶) = 4.0 × 10⁷ Pa; strain = (1.2 × 10⁻³) ÷ 1.5 = 8.0 × 10⁻⁴; E = 4.0 × 10⁷ ÷ 8.0 × 10⁻⁴ = 5.0 × 10¹⁰ Pa. 7. It cancels out effects such as thermal expansion during the experiment, since both wires expand or contract by the same amount, isolating the extension due to the load alone.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/as-physics-deformation-of-solids--04-loading-unloading.webp" width="900" height="960" alt="Loading a metal strip to 36 N at 0.100 m does 2.08 J of work. Unloading runs parallel to the first line and reaches zero force at 0.028 m, the permanent extension. 1.30 J is recovered and 0.78 J is dissipated as heat." loading="lazy">
+  <figcaption>After plastic deformation the unloading line is parallel to the first line, leaving a permanent extension and wasted energy.</figcaption>
+</figure>
+

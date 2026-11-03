@@ -74,6 +74,16 @@ Profit                = total contribution − fixed costs
 </figure>
 
 <figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-absorption-and-activity-based-costing--03-allocate-apportion.webp" width="900" height="952" alt="Five bars show indirect labour allocated, and rent, depreciation, power and canteen apportioned between Machining and Assembly on stated bases. Totals are 128,000 and 114,000 pounds, summing to 242,000." loading="lazy">
+  <figcaption>Overheads are allocated where one department caused them and apportioned on a fair basis where they are shared.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-absorption-and-activity-based-costing--04-oar-full-cost.webp" width="900" height="1243" alt="Rates of 3.20 pounds per machine hour and 3.80 per labour hour are budgeted overheads divided by budgeted hours. They build the full cost of one table to 175 pounds, which gives 245 pounds with a 40 percent mark-up or 250 with a 30 percent margin." loading="lazy">
+  <figcaption>The OAR charges each product its share of overheads, giving a full cost to which a mark-up or margin is added.</figcaption>
+</figure>
+
+<figure class="topic-figure">
   <img src="https://img.marlbridge.com/aqa-a-level-accounting-absorption-and-activity-based-costing--06-continuous-allotment.webp" width="900" height="995" alt="Stores (8,800) and Maintenance (6,000) share their costs with each other and with Machining and Finishing at stated percentages, repeating until nothing remains. Machining ends with 40,000 plus 9,800 and Finishing with 29,000 plus 5,000, a total of 83,800." loading="lazy">
   <figcaption>Service departments pass costs to each other and to production until all costs sit in production departments.</figcaption>
 </figure>
@@ -241,12 +251,6 @@ All demand needs 2,300 hours, so hours are limiting. Rank: Runner, Medallion, Ki
 | Total | | 1,880 | 28,560 |
 
 Maximum profit = 28,560 − 19,000 = **9,560**. Ranking by contribution per rug instead (Medallion, Kilim, Runner) would give only 26,040 of contribution. Non-financial point: Kilim customers turned away may not return.
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/aqa-a-level-accounting-absorption-and-activity-based-costing--04-oar-full-cost.webp" width="900" height="1243" alt="Rates of 3.20 pounds per machine hour and 3.80 per labour hour are budgeted overheads divided by budgeted hours. They build the full cost of one table to 175 pounds, which gives 245 pounds with a 40 percent mark-up or 250 with a 30 percent margin." loading="lazy">
-  <figcaption>The OAR charges each product its share of overheads, giving a full cost to which a mark-up or margin is added.</figcaption>
-</figure>
-
 
 ### Closing a potentially loss-making line or production department
 

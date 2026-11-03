@@ -110,6 +110,12 @@ Every figure below is invented for illustration.
 3. But heavy lending to borrowers who cannot repay leads to losses and a cut in lending.
 4. So supervision and a lender of last resort matter. Judge by how strong the banks and borrowers are in the situation given.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-economics-money-banking-and-household-spending-saving-and--04-bank-interest-margin.webp" width="900" height="890" alt="A bank lends 800,000 of 1,000,000 deposits, earns 72,000 interest at 9 percent and pays depositors 30,000 at 3 percent, leaving a gross margin of 42,000 before running costs." loading="lazy">
+  <figcaption>Banks earn by charging borrowers more than they pay depositors.</figcaption>
+</figure>
+
+
 ## 3.2.1 Spending, saving and borrowing
 
 **Key terms.** Disposable income = income after tax. Saving = disposable income − spending. Saving ratio = saving ÷ disposable income × 100.
@@ -139,6 +145,11 @@ Every figure below is invented for illustration.
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/cambridge-o-level-economics-money-banking-and-household-spending-saving-and--05-saving-ratio.webp" width="900" height="850" alt="Household A with income 3,000 saves 450, a ratio of 15 percent. Household B with income 1,200 saves 24, a ratio of 2 percent. Bars share one scale." loading="lazy">
   <figcaption>The saving ratio is a share of income, not an amount saved.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-economics-money-banking-and-household-spending-saving-and--04-flat-rate-loan-cost.webp" width="900" height="800" alt="A 12,000 loan over 2 years in 24 monthly instalments. At 8 percent the interest is 1,920, the total 13,920 and each instalment 580. At 10 percent the interest is 2,400, the total 14,400 and each instalment 600, which is 20 a month or 3.45 percent more and 480 more in total." loading="lazy">
+  <figcaption>Raising the flat rate from 8 to 10 percent adds 20 to each monthly instalment and 480 to the total repaid.</figcaption>
 </figure>
 
 <figure class="topic-figure">

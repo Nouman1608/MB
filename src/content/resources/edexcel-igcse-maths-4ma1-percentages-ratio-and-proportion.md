@@ -378,6 +378,12 @@ A map scale 1 : 25 000 means 1 cm on the map is 25 000 cm in real life. Convert 
 
 **Scale diagrams.** A floor plan is drawn at 1 : 200. A room measures 4.6 cm by 3.2 cm on the plan. Its real size is 4.6 x 200 = 920 cm = 9.2 m by 3.2 x 200 = 640 cm = 6.4 m.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-geometrical-terms-constructions-and-scale-drawings--04-map-scale.webp" width="900" height="880" alt="Two map-scale conversions at 1 to 50 000. Map 7.3 cm times 50 000 is 365 000 cm, which is 3.65 km. Real 2.4 km is 240 000 cm, divided by 50 000 gives 4.8 cm on the map." loading="lazy">
+  <figcaption>Map to real: multiply. Real to map: divide.</figcaption>
+</figure>
+
+
 ## Common errors
 
 - Dividing by the new value instead of the original in percentage change.

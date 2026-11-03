@@ -120,12 +120,6 @@ nuclear, solar; Supplement: efficiency calculations), and power
 how pressure varies with force and area; (Supplement) the equation for
 pressure change with depth in a liquid, Δp = ρgΔh
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-physics-motion-forces-and-energy--02-speed-time-graph.webp" width="900" height="1010" alt="Speed rises from 0 to 10 m/s in 5 s, stays at 10 m/s for 10 s, then falls to 0 in 5 s. The gradients are 2, 0 and -2 m/s squared (acceleration, Extended). The area under the graph is 25 + 100 + 25 = 150 m, the distance travelled (Core)." loading="lazy">
-  <figcaption>The area under a speed-time graph is the distance travelled; its gradient is the acceleration.</figcaption>
-</figure>
-
-
 ## How to approach it
 
 This topic rewards fluency with a small set of equations (v = s/t,
@@ -398,3 +392,9 @@ generate electricity on a large scale.
 Cambridge IGCSE Physics 0625 syllabus for 2026, 2027 and 2028 (Version
 2, December 2025) —
 [cambridgeinternational.org](https://www.cambridgeinternational.org/Images/697209-2026-2028-syllabus.pdf).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-physics-motion-forces-and-energy--02-speed-time-graph.webp" width="900" height="1010" alt="Speed rises from 0 to 10 m/s in 5 s, stays at 10 m/s for 10 s, then falls to 0 in 5 s. The gradients are 2, 0 and -2 m/s squared (acceleration, Extended). The area under the graph is 25 + 100 + 25 = 150 m, the distance travelled (Core)." loading="lazy">
+  <figcaption>The area under a speed-time graph is the distance travelled; its gradient is the acceleration.</figcaption>
+</figure>
+

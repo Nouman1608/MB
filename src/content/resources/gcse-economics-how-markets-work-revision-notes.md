@@ -137,6 +137,11 @@ The analysis mark is that last line — most candidates stop at "the price rises
   <figcaption>PED measures how strongly quantity demanded responds to a price change, and decides whether revenue rises or falls.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-how-markets-work--01-harvest-shock.webp" width="900" height="960" alt="Bad weather cuts the coffee harvest, so supply shifts left from S1 to S2. Equilibrium moves from price 8, quantity 60 to price 9, quantity 55. Because demand is inelastic (PED about 0.67), revenue rises from 480 to 495." loading="lazy">
+  <figcaption>A supply shock raises price a lot and cuts quantity a little, so growers' total revenue can rise.</figcaption>
+</figure>
+
 
 ## Production and costs
 
@@ -156,6 +161,16 @@ profit     = total revenue - total costs
   <figcaption>Economies of scale cut average cost, not total cost.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-economics-production-and-business-costs--05-revenue-costs-profit.webp" width="900" height="920" alt="A firm sells 1,000 units at $50. Total revenue is $50,000. Total costs of $35,000 are fixed costs $10,000 plus variable costs $25,000. Profit is $15,000. Average total cost is $35,000 divided by 1,000, which is $35 per unit, leaving $15 per unit of the $50 price." loading="lazy">
+  <figcaption>The lesson example in pictures: $50,000 revenue less $35,000 costs leaves $15,000 profit, and average cost is $35 a unit.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-economics-production-and-business-costs--06-lrac-curve.webp" width="900" height="880" alt="A U-shaped long-run average cost curve with cost per unit against output. Cost falls while the firm gains economies of scale, reaches a lowest point at 500 units and $4 per unit where the firm is most efficient, then rises in the region of diseconomies of scale." loading="lazy">
+  <figcaption>Average cost falls with economies of scale, bottoms out at the efficient point, then rises with diseconomies of scale.</figcaption>
+</figure>
+
 
 ## Competition
 
@@ -165,6 +180,12 @@ profit     = total revenue - total costs
 | **Monopoly** | One dominant | Higher prices, less choice, but possible economies of scale and R&D funding |
 
 Competition benefits consumers through price, choice and quality. Monopoly is not automatically bad — the balanced answer weighs higher prices against lower unit costs from economies of scale.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-economics-microeconomic-decision-makers--07-competition-and-monopoly.webp" width="900" height="930" alt="Six small shops stand for many firms and one large factory for a monopoly. Many firms mean lower price, improving quality, wide choice and lower profit. A monopoly means higher price, less pressure on quality, little choice and possibly high profit, with possible economies of scale and research funding." loading="lazy">
+  <figcaption>Competition tends to lower price and profit and widen choice; a monopoly can charge more and earn high profits.</figcaption>
+</figure>
+
 
 ## Market failure
 
@@ -185,12 +206,6 @@ Competition benefits consumers through price, choice and quality. Monopoly is no
 
 Both only have an effect on the correct side of equilibrium — a maximum price set above equilibrium changes nothing.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/gcse-economics-how-markets-work-revision-notes--01-public-good-both-properties.webp" width="900" height="880" alt="A two by two grid of excludable/non-excludable and rival/non-rival. Only non-excludable and non-rival (street lighting, national defence) is a public good. Healthcare and education can be sold privately, so they are merit goods." loading="lazy">
-  <figcaption>A public good must be both non-excludable and non-rival.</figcaption>
-</figure>
-
-
 ## Exam traps
 
 - Treating a price change as a shift of the demand curve.
@@ -210,3 +225,34 @@ Both only have an effect on the correct side of equilibrium — a maximum price 
 5. What happens when a maximum price is set below equilibrium?
 
 **Answers:** 1. The next best alternative forgone when a choice is made. 2. A change in the good's own price causes a movement along; a change in any other condition of demand causes a shift. 3. Revenue rises — demand is inelastic, so quantity falls proportionally less than the price increases. 4. Non-excludable and non-rival. 5. Quantity demanded exceeds quantity supplied, creating a shortage — with queues and potentially a black market.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/gcse-economics-how-markets-work-revision-notes--01-public-good-both-properties.webp" width="900" height="880" alt="A two by two grid of excludable/non-excludable and rival/non-rival. Only non-excludable and non-rival (street lighting, national defence) is a public good. Healthcare and education can be sold privately, so they are merit goods." loading="lazy">
+  <figcaption>A public good must be both non-excludable and non-rival.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-allocation-of-resources--06-external-costs-and-benefits.webp" width="900" height="1160" alt="A factory has private cost 10 and its smoke harms neighbours with an external cost of 4, so social cost is 14. A vaccination has private benefit 6 and external benefit 3, so social benefit is 9. The market ignores the external parts." loading="lazy">
+  <figcaption>Social cost or benefit equals private plus external.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-allocation-of-resources--04-public-goods.webp" width="900" height="1060" alt="A street light shines on four people but only one pays. The three free riders use it without paying, so private firms make no profit and will not supply it. The government provides it, paid for by taxes." loading="lazy">
+  <figcaption>Public goods are non-excludable, so free riders stop private firms supplying them.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-allocation-of-resources--05-merit-and-demerit-goods.webp" width="900" height="1010" alt="For healthcare, a merit good, the market delivers 60 against a best amount of 100, so there is too little. For cigarettes, a demerit good, it delivers 100 against 40, so there is too much." loading="lazy">
+  <figcaption>Merit goods are under-consumed and demerit goods over-consumed.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-allocation-of-resources--07-price-controls.webp" width="900" height="1370" alt="Equilibrium E is at price 5 and quantity 50. A maximum price of 3 gives demand 70 and supply 25, a shortage of 45. A minimum price of 7 gives demand 30 and supply 75, a surplus of 45." loading="lazy">
+  <figcaption>A maximum price below equilibrium causes a shortage; a minimum price above it causes a surplus.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-allocation-of-resources--08-tax-and-subsidy.webp" width="900" height="1370" alt="An indirect tax of 1.8 shifts supply up, raising price from 5 to 6 and cutting quantity from 50 to 40. A subsidy of 1.8 shifts supply down, cutting price from 5 to 4 and raising quantity from 50 to 60." loading="lazy">
+  <figcaption>A tax shifts supply up and a subsidy shifts it down.</figcaption>
+</figure>
+

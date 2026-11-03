@@ -177,12 +177,6 @@ frequency density = 30/10 = 3
 
 Even though the second class has a higher frequency, its frequency density is lower because the class is wider -- the bar heights on a histogram reflect this density, not the raw frequency count.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-mathematics-statistics--06-histogram-frequency-density.webp" width="900" height="850" alt="A histogram of ages of 120 people with unequal class widths. Frequency density = frequency / class width gives 2, 2.5, 3 and 1. The 10 to 30 class has most people (50) but the 30 to 40 bar is the tallest." loading="lazy">
-  <figcaption>With unequal class widths the bar height is frequency density, and the bar area equals the frequency.</figcaption>
-</figure>
-
-
 ## Exam traps
 
 - Using a class boundary instead of the midpoint when estimating a grouped mean.
@@ -203,6 +197,12 @@ Even though the second class has a higher frequency, its frequency density is lo
 7. Is the number of goals scored in a match discrete or continuous data?
 
 **Answers:** 1. The median. 2. Estimate of mean = sum of (midpoint x frequency) / total frequency. 3. Zero correlation. 4. Frequency density = frequency / class width. 5. n/2 = 40. 6. Because the median is the middle value once data is in order -- an unordered stem-and-leaf diagram does not let you correctly identify which value is actually in the middle position. 7. Discrete -- it is counted, and can only take whole-number values.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-statistics--06-histogram-frequency-density.webp" width="900" height="850" alt="A histogram of ages of 120 people with unequal class widths. Frequency density = frequency / class width gives 2, 2.5, 3 and 1. The 10 to 30 class has most people (50) but the 30 to 40 bar is the tallest." loading="lazy">
+  <figcaption>With unequal class widths the bar height is frequency density, and the bar area equals the frequency.</figcaption>
+</figure>
+
 
 ## Official syllabus
 

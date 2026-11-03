@@ -46,6 +46,12 @@ For full explanations and worked examples, read the [solving equations and inequ
 | Set notation | {x : x ≥ 2}; two parts joined with ∪ | Higher tier only |
 | Iteration notation | xₙ₊₁ is the next term, xₙ the current one | Higher tier only |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/inequalities--01-open-closed-number-line.webp" width="900" height="1110" alt="Four number lines from minus 4 to 4: x &lt; 1 (open circle at 1, shaded left), x at most 1 (closed circle), x &gt; minus 2 (open circle at minus 2, shaded right) and minus 3 at most x &lt; 1 (closed circle at minus 3, open at 1, shaded between). Closed means included, open means excluded." loading="lazy">
+  <figcaption>Closed circles include the value (⩽ ⩾); open circles exclude it (&lt; &gt;).</figcaption>
+</figure>
+
+
 ## A17: Linear equations -- method in steps
 
 1. Expand brackets.
@@ -118,6 +124,11 @@ x = 1, y = -1   and   x = 4, y = 2
   <figcaption>Make the coefficients of one letter equal in size, then add if the signs differ and subtract if they match.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-algebra-and-graphs--02-simultaneous-lines.webp" width="900" height="940" alt="The lines 2x + y = 7 and x − y = 2 are graphed and cross at (3, 1). Adding the equations gives 3x = 9, so x = 3, and then y = 1. The crossing point is the one pair of values that fits both equations." loading="lazy">
+  <figcaption>The solution of simultaneous equations is where their graphs cross.</figcaption>
+</figure>
+
 
 ## A20: Iteration -- method in steps (Higher tier only)
 
@@ -164,6 +175,26 @@ x = 1, y = -1   and   x = 4, y = 2
   <figcaption>Both sides equal where the curve and line cross; moving everything to one side makes the equation ready to factorise.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/algebraic-manipulation--04-complete-square-tiles.webp" width="900" height="730" alt="Tiles for x squared plus 6x plus 5 nearly make a square of side x plus 3, but the 3 by 3 corner needs 9 unit squares and only 5 are there. So 4 are missing and x squared plus 6x plus 5 equals (x + 3) squared minus 4." loading="lazy">
+  <figcaption>Completing the square fills the corner of (x + 3)² and then takes away what was never there.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/indices-and-equations--05-quadratic-surd-roots.webp" width="900" height="970" alt="The parabola y = x^2 - 4x - 3 has line of symmetry x = 2 and crosses the x axis a distance sqrt(7) either side, giving x = 2 +/- sqrt(7)." loading="lazy">
+  <figcaption>The surd roots sit sqrt(7) either side of the line of symmetry x = 2.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/inequalities--04-two-variable-shading.webp" width="900" height="950" alt="A grid with a broken vertical line at x = 1 (shade right) and a solid horizontal line at y = 1 (shade below). The unshaded region R at upper left satisfies both inequalities; the point (−1, 3) is inside it." loading="lazy">
+  <figcaption>Broken line for strict inequalities, solid for inclusive; shade the unwanted region and leave R clear.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/inequalities--05-reading-a-region.webp" width="900" height="970" alt="An unshaded triangle with corners (1, 0), (1, 4) and (5, 4). Its edges give x ⩾ 1 (solid, right), y &lt; 4 (broken, below) and y ⩾ x − 1 (solid, above). The test point (2, 3) satisfies all three." loading="lazy">
+  <figcaption>Name each boundary, choose solid or broken, then pick the side that holds the unshaded region.</figcaption>
+</figure>
+
 
 ## A21: Forming equations -- method in steps
 
@@ -198,6 +229,22 @@ x = 1, y = -1   and   x = 4, y = 2
 
 **Regions (Higher tier only):** draw each boundary line (dashed for strict, solid for included), test a point not on the line, and identify the region that satisfies every inequality.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-graphs-of-functions-and-sketching-curves--02-solve-with-a-line.webp" width="900" height="1090" alt="The curve y = x² − 2x − 3 is drawn once. Its x-axis crossings (x = −1 and 3) solve x² − 2x − 3 = 0. Rearranging x² − 4x − 1 = 0 gives the line y = 2x − 2, which meets the curve at about x = −0.2 and 4.2." loading="lazy">
+  <figcaption>Draw the curve once, then choose the line that matches the equation to solve.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/inequalities--02-negative-flips-sign.webp" width="900" height="1030" alt="Values of x from minus 5 to 2 are put through minus 2x and compared with 6. Only x greater than minus 3 passes, so −2x &lt; 6 becomes x &gt; −3, shown on a number line with an open circle at minus 3. Dividing by a negative reverses the sign." loading="lazy">
+  <figcaption>Dividing by a negative number reverses the inequality sign, as testing values confirms.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/inequalities--03-double-inequality-integers.webp" width="900" height="990" alt="Three number lines for −7 ⩽ 3x + 2 &lt; 11. Subtracting 2 from every part gives −9 ⩽ 3x &lt; 9; dividing every part by 3 gives −3 ⩽ x &lt; 3. The integers −3, −2, −1, 0, 1, 2 are marked; 3 has an open circle and is excluded." loading="lazy">
+  <figcaption>Operate on all three parts at once, then check each endpoint separately for integer solutions.</figcaption>
+</figure>
+
+
 ## Must-know distinctions
 
 - **Exact vs approximate:** factorising, completing the square and surd answers are exact; graph readings and iteration are approximate.
@@ -205,12 +252,6 @@ x = 1, y = -1   and   x = 4, y = 2
 - **Between vs outside** for quadratic inequalities: < 0 is between the roots; > 0 is outside.
 - **Open vs closed circle**, and **dashed vs solid line**: strict boundaries are open or dashed.
 - **Elimination vs substitution:** elimination for two linear equations; substitution whenever one equation is quadratic.
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/aqa-gcse-maths-8300-solving-equations-and-inequalities--08-common-factor-zero.webp" width="900" height="930" alt="The curve y = x squared minus 9x crosses the x-axis at x = 0 and x = 9, so x squared minus 9x = 0 has two solutions. Factorising gives x(x − 9) = 0, so x = 0 or x = 9. Dividing both sides by x would lose the solution x = 0." loading="lazy">
-  <figcaption>x(x − 9) = 0 has two solutions, x = 0 and x = 9; dividing by x throws one away.</figcaption>
-</figure>
-
 
 ## Quick self-test
 
@@ -241,6 +282,12 @@ x = 1, y = -1   and   x = 4, y = 2
 10. x = (4 ± √28)/2 = 2 ± √7: **x = 4.65 or x = −0.65**.
 11. (x − 4)(x + 2) ≤ 0, between the roots: **{x : −2 ≤ x ≤ 4}**.
 12. x₂ = 2 + 1/2 = **2.5**; x₃ = 2 + 1/2.5 = **2.4**.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-maths-8300-solving-equations-and-inequalities--08-common-factor-zero.webp" width="900" height="930" alt="The curve y = x squared minus 9x crosses the x-axis at x = 0 and x = 9, so x squared minus 9x = 0 has two solutions. Factorising gives x(x − 9) = 0, so x = 0 or x = 9. Dividing both sides by x would lose the solution x = 0." loading="lazy">
+  <figcaption>x(x − 9) = 0 has two solutions, x = 0 and x = 9; dividing by x throws one away.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

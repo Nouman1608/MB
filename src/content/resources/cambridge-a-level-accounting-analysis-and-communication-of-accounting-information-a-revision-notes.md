@@ -76,6 +76,12 @@ Invented figures in $000: revenue 5,000; credit sales 4,000; cost of sales 3,000
 | Dividend yield | 0.08 ÷ 4.80 | 0.0167 (1.67%) |
 | Dividend cover | 360 ÷ 120 | 3.0 times |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-analysis-and-evaluation-of-financial-information--07-dividend-cover-yield.webp" width="900" height="820" alt="Ordinary earnings of 840,000 dollars hold the 360,000 dividend 2.33 times, which is the dividend cover. A dividend of 6.00 cents per share on a 238-cent share price is a yield of 2.52 percent." loading="lazy">
+  <figcaption>Cover shows how safe the dividend is; yield shows the cash return on the share price.</figcaption>
+</figure>
+
+
 ## Must-know distinctions
 
 - **Working capital cycle versus net working assets to revenue.** One is in days and measures time; the other is a percentage and measures the amount invested per dollar of sales.
@@ -101,16 +107,6 @@ Invented figures in $000: revenue 5,000; credit sales 4,000; cost of sales 3,000
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/cambridge-a-level-accounting-analysis-and-communication-of-accounting-information-a--06-ard-ratios-connect.webp" width="900" height="1070" alt="A chain: cycle 52.7 to 90.2 days, interest payable 120 to 280, interest cover 10.5 to 4.8, gearing 15.6% to 25.2%, EPS 28.5 to 26.6 cents." loading="lazy">
   <figcaption>A longer working capital cycle leads to borrowing, higher interest and lower earnings.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/cambridge-a-level-accounting-analysis-and-communication-of-accounting-information-a--03-ard-gearing-interest-cover.webp" width="900" height="875" alt="Gearing rises from 15.6% (1,000 of 6,400) to 25.2% (2,000 of 7,928) while interest cover falls from 10.5 times (1,260 over 120) to 4.8 times (1,344 over 280)." loading="lazy">
-  <figcaption>More loan notes raise gearing and shrink the cushion of operating profit over interest.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/aqa-a-level-accounting-analysis-and-evaluation-of-financial-information--07-dividend-cover-yield.webp" width="900" height="820" alt="Ordinary earnings of 840,000 dollars hold the 360,000 dividend 2.33 times, which is the dividend cover. A dividend of 6.00 cents per share on a 238-cent share price is a yield of 2.52 percent." loading="lazy">
-  <figcaption>Cover shows how safe the dividend is; yield shows the cash return on the share price.</figcaption>
 </figure>
 
 
@@ -155,17 +151,6 @@ Name the user, state the recommendation, give one reason for and one against, qu
 - **Lower gearing:** issue shares, retain profit, repay loan notes.
 - **Support the share price and dividend:** raise earnings per share, keep a comfortable dividend cover.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/cambridge-a-level-accounting-analysis-and-communication-of-accounting-information-a--07-ard-dividend-cover-rose.webp" width="900" height="880" alt="EPS fell 6.7%, price 19.8% and dividend 22.2%, so dividend cover rose from 3.2 to 3.8 and P/E fell from 14.0 to 12.0." loading="lazy">
-  <figcaption>Cover rose because the dividend was cut harder than earnings fell.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/cambridge-a-level-accounting-analysis-and-communication-of-accounting-information-a--08-ard-release-cash.webp" width="900" height="770" alt="Cutting receivables to 45 days frees 231 and inventory to 70 days frees 100; using 300 to repay loan notes saves 36 interest, lifts cover to 5.5 and cuts gearing to 22.3%." loading="lazy">
-  <figcaption>Releasing working capital can repay debt, improving interest cover and gearing.</figcaption>
-</figure>
-
-
 ## Quick self-test
 
 1. Trade receivables 270 and credit sales 2,190. Find receivables days.
@@ -193,6 +178,21 @@ Name the user, state the recommendation, give one reason for and one against, qu
 9. 0.05 ÷ 1.25 = **0.04** (4%).
 10. 450 ÷ 90 = **5.0 times**.
 11. Cover rises, because the dividend fell by more than earnings. For example, from 5.0 to 405 ÷ 67.5 = **6.0**.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-accounting-analysis-and-communication-of-accounting-information-a--07-ard-dividend-cover-rose.webp" width="900" height="880" alt="EPS fell 6.7%, price 19.8% and dividend 22.2%, so dividend cover rose from 3.2 to 3.8 and P/E fell from 14.0 to 12.0." loading="lazy">
+  <figcaption>Cover rose because the dividend was cut harder than earnings fell.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-accounting-analysis-and-communication-of-accounting-information-a--08-ard-release-cash.webp" width="900" height="770" alt="Cutting receivables to 45 days frees 231 and inventory to 70 days frees 100; using 300 to repay loan notes saves 36 interest, lifts cover to 5.5 and cuts gearing to 22.3%." loading="lazy">
+  <figcaption>Releasing working capital can repay debt, improving interest cover and gearing.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-accounting-analysis-and-communication-of-accounting-information-a--03-ard-gearing-interest-cover.webp" width="900" height="875" alt="Gearing rises from 15.6% (1,000 of 6,400) to 25.2% (2,000 of 7,928) while interest cover falls from 10.5 times (1,260 over 120) to 4.8 times (1,344 over 280)." loading="lazy">
+  <figcaption>More loan notes raise gearing and shrink the cushion of operating profit over interest.</figcaption>
+</figure>
 
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/aqa-a-level-accounting-analysis-and-evaluation-of-financial-information--06-eps-and-pe.webp" width="900" height="830" alt="Profit for the year of 896,000 dollars less a 56,000 preference dividend leaves 840,000 of ordinary earnings. Divided by 6,000,000 shares this is 14.00 cents per share. A share price of 238 cents is 17 times that, so P/E is 17.00 times." loading="lazy">

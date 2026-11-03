@@ -50,6 +50,11 @@ Formulas: total variable cost = variable cost per unit x output. Total cost = fi
 **Reminder.** A product earns 4 800 in revenue, with 3 900 of variable costs and 1 500 of fixed costs charged to it. Contribution is 900, but the product shows a loss of 600 once the fixed costs are included. If the 1 500 would be paid anyway, stopping increases the loss to 1 500, so continue.
 
 <figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-business-costs-scale-of-production-and-break-even-analysis--06-fixed-cost-shared.webp" width="900" height="860" alt="Two stacked bars show cost per candle. At 3,000 candles fixed costs add 4.00 dollars each, at 6,000 candles 2.00 dollars, while variable cost stays 4.00, so average cost falls from 8.00 to 6.00 dollars." loading="lazy">
+  <figcaption>Fixed costs are shared over more candles, so average cost falls.</figcaption>
+</figure>
+
+<figure class="topic-figure">
   <img src="https://img.marlbridge.com/o-level-business-costs-scale-of-production-and-break-even-analysis--09-scarf-stop-or-continue.webp" width="900" height="950" alt="A waterfall takes revenue of 18,000 dollars, subtracts variable costs of 13,000 for a 5,000 contribution, then fixed costs of 7,000 for a 2,000 loss. Stopping loses the full 7,000, so the line should continue for now." loading="lazy">
   <figcaption>Continuing loses $2,000; stopping loses $7,000, so continue.</figcaption>
 </figure>
@@ -151,32 +156,6 @@ The syllabus does not print these formulas, so they are the standard forms. Use 
 - It normally covers a single product.
 - Forecasts may be inaccurate and the picture is out of date quickly.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/o-level-business-costs-scale-of-production-and-break-even-analysis--08-kite-break-even-mos.webp" width="900" height="970" alt="A break-even chart for Ostenfield Kites with fixed cost 33,000 dollars, total cost and revenue lines crossing at 3,000 kites and 54,000 dollars. Expected sales of 3,800 kites sit 800 kites above break-even, a margin of safety of 21.1% of expected sales." loading="lazy">
-  <figcaption>Break-even is 3,000 kites; expecting 3,800 gives a margin of safety of 800 kites (21.1%).</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/o-level-business-costs-scale-of-production-and-break-even-analysis--02-kite-price-rise.webp" width="900" height="1044" alt="Break-even chart for Ostenfield Kites showing total cost, revenue at $18 and revenue at $20. Break-even falls from 3,000 to 2,539 kites; profit is 8,800 at the old plan and 9,900 at the new plan." loading="lazy">
-  <figcaption>A price rise to $20 lowers break-even to 2,539 kites and lifts profit from 8,800 to 9,900.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/o-level-business-costs-scale-of-production-and-break-even-analysis--03-break-even-limits.webp" width="900" height="1060" alt="Four small charts compare what break-even analysis assumes with what can happen: bulk discounts bend revenue, bulk buying flattens cost, a new factory steps up fixed costs, and unsold stock still costs money. Two more limits are one product only and reliance on forecasts." loading="lazy">
-  <figcaption>Break-even assumptions against what can really happen (illustrative shapes).</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/aqa-gcse-business-business-operations--06-break-even.webp" width="900" height="900" alt="Break-even chart for price 20 pounds, variable cost 12 pounds a unit and fixed costs 4,800 pounds. Revenue and total cost cross at 600 units and 12,000 pounds; left of it is a loss, right of it a profit." loading="lazy">
-  <figcaption>At £20 price, £12 variable cost and £4,800 fixed costs, a business breaks even at 600 units a month.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/oxfordaqa-a-level-business-finance--03-break-even-shifts.webp" width="900" height="1290" alt="Two charts with the old lines dashed. A price rise to 19.50 steepens revenue and moves break-even from 800 to 700. Fixed costs rising to 9,240 shift total costs up in parallel and move break-even to 880." loading="lazy">
-  <figcaption>A higher price lowers break-even; higher fixed costs raise it.</figcaption>
-</figure>
-
-
 ## Quick self-test
 
 1. Define variable costs.
@@ -203,6 +182,32 @@ The syllabus does not print these formulas, so they are the standard forms. Use 
 9. Any one, such as: assumes all output is sold; assumes a constant price; assumes constant variable cost per unit.
 10. Contribution = 9 000 - 7 500 = 1 500, which is positive, and the fixed costs of 2 000 are paid anyway. Stopping would turn a loss of 500 into a loss of 2 000, so **continue**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-business-costs-scale-of-production-and-break-even-analysis--08-kite-break-even-mos.webp" width="900" height="970" alt="A break-even chart for Ostenfield Kites with fixed cost 33,000 dollars, total cost and revenue lines crossing at 3,000 kites and 54,000 dollars. Expected sales of 3,800 kites sit 800 kites above break-even, a margin of safety of 21.1% of expected sales." loading="lazy">
+  <figcaption>Break-even is 3,000 kites; expecting 3,800 gives a margin of safety of 800 kites (21.1%).</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-business-costs-scale-of-production-and-break-even-analysis--02-kite-price-rise.webp" width="900" height="1044" alt="Break-even chart for Ostenfield Kites showing total cost, revenue at $18 and revenue at $20. Break-even falls from 3,000 to 2,539 kites; profit is 8,800 at the old plan and 9,900 at the new plan." loading="lazy">
+  <figcaption>A price rise to $20 lowers break-even to 2,539 kites and lifts profit from 8,800 to 9,900.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-business-costs-scale-of-production-and-break-even-analysis--03-break-even-limits.webp" width="900" height="1060" alt="Four small charts compare what break-even analysis assumes with what can happen: bulk discounts bend revenue, bulk buying flattens cost, a new factory steps up fixed costs, and unsold stock still costs money. Two more limits are one product only and reliance on forecasts." loading="lazy">
+  <figcaption>Break-even assumptions against what can really happen (illustrative shapes).</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-business-business-operations--06-break-even.webp" width="900" height="900" alt="Break-even chart for price 20 pounds, variable cost 12 pounds a unit and fixed costs 4,800 pounds. Revenue and total cost cross at 600 units and 12,000 pounds; left of it is a loss, right of it a profit." loading="lazy">
+  <figcaption>At £20 price, £12 variable cost and £4,800 fixed costs, a business breaks even at 600 units a month.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-business-finance--03-break-even-shifts.webp" width="900" height="1290" alt="Two charts with the old lines dashed. A price rise to 19.50 steepens revenue and moves break-even from 800 to 700. Fixed costs rising to 9,240 shift total costs up in parallel and move break-even to 880." loading="lazy">
+  <figcaption>A higher price lowers break-even; higher fixed costs raise it.</figcaption>
+</figure>
+
+
 ## Writing it up in the exam
 
 For a calculation, write the formula, substitute the figures, then give the answer with its unit. For a written question, make a point, say how it changes cost or profit, and link it to the business in the stem. For a decision question, give a reason on each side and finish with a clear choice. Break-even results rest on forecasts, so say what would change your decision.
@@ -217,12 +222,6 @@ For a calculation, write the formula, substitute the figures, then give the answ
 - Stopping a product because it makes a loss, without checking contribution or whether the fixed costs would remain.
 - Copying the case study's facts without applying them to the question asked.
 - Listing limitations of break-even without explaining why each one matters.
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/o-level-business-costs-scale-of-production-and-break-even-analysis--06-fixed-cost-shared.webp" width="900" height="860" alt="Two stacked bars show cost per candle. At 3,000 candles fixed costs add 4.00 dollars each, at 6,000 candles 2.00 dollars, while variable cost stays 4.00, so average cost falls from 8.00 to 6.00 dollars." loading="lazy">
-  <figcaption>Fixed costs are shared over more candles, so average cost falls.</figcaption>
-</figure>
-
 
 ## Official syllabus
 

@@ -146,12 +146,6 @@ The 4s and 3d sub-shells are close in energy, so electrons from both can be lost
 
 Each change alters ΔE, so a different frequency is absorbed.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-transition-metals--05-ligand-exchange.webp" width="900" height="1295" alt="Pale blue [Cu(H2O)6]2+ gives deep blue [Cu(NH3)4(H2O)2]2+ with ammonia (still six bonds) and yellow tetrahedral [CuCl4]2- with concentrated HCl (six bonds to four). Pink [Co(H2O)6]2+ becomes blue [CoCl4]2- with chloride." loading="lazy">
-  <figcaption>Ammonia swaps for water without changing coordination number, but larger chloride ions give a four-coordinate tetrahedral complex.</figcaption>
-</figure>
-
-
 ## 17.17 Haemoglobin
 
 - Iron(II) complex; the iron is held by a polydentate ligand (and the protein).
@@ -197,6 +191,12 @@ Each change alters ΔE, so a different frequency is absorbed.
 10. **180°** (the NH₃ ligands are opposite each other).
 11. CO **replaces O₂ on the iron(II)** of haemoglobin by ligand exchange and binds more strongly, so less oxygen is carried.
 12. A molecule or ion that **donates a lone pair** to a central metal ion, forming a dative bond.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-transition-metals--05-ligand-exchange.webp" width="900" height="1295" alt="Pale blue [Cu(H2O)6]2+ gives deep blue [Cu(NH3)4(H2O)2]2+ with ammonia (still six bonds) and yellow tetrahedral [CuCl4]2- with concentrated HCl (six bonds to four). Pink [Co(H2O)6]2+ becomes blue [CoCl4]2- with chloride." loading="lazy">
+  <figcaption>Ammonia swaps for water without changing coordination number, but larger chloride ions give a four-coordinate tetrahedral complex.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

@@ -129,12 +129,6 @@ from the scenario it was drawn from.
 - Confusing theoretical probability (calculated from possible outcomes) with experimental probability
   (calculated from repeated trials) when a question specifically asks for one or the other.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-mathematics-0580-probability-and-expected-frequency--04-relative-frequency.webp" width="900" height="740" alt="A graph of relative frequency of a 4 against spins: 0.5 at 10, 0.38 at 50, 0.37 at 100 and 0.355 at 200. It falls then levels off, so more trials give a more reliable estimate." loading="lazy">
-  <figcaption>With more trials the relative frequency settles, so use the estimate from the most trials.</figcaption>
-</figure>
-
-
 ## Self-test
 
 1. Which measure of central tendency is least affected by outliers, and why?
@@ -151,3 +145,9 @@ experimental probability is calculated from the results of actually repeating a 
 Because the branch is named for *reasoning* with data, and the MYP's own assessment criteria (B and D
 specifically) reward investigating patterns and drawing real-world conclusions, not just producing a
 correct number.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-mathematics-reasoning-with-data--06-theoretical-vs-experimental.webp" width="900" height="1150" alt="Rolling a 6: theoretical probability counts one favourable face of six (0.167); an illustrative 60-roll experiment with 12 sixes gives 12/60 = 0.20." loading="lazy">
+  <figcaption>The same event has a theoretical and an experimental probability, calculated differently.</figcaption>
+</figure>
+

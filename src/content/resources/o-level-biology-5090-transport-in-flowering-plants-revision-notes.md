@@ -172,6 +172,11 @@ If the plant is watered, or water loss falls (for example in the cool of the eve
   <figcaption>Cortex is the band of cells between the outside and the vascular tissue.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-transport-in-plants--01-xylem-phloem-positions.webp" width="900" height="1130" alt="Three schematic cross-sections. Root: xylem in the centre in a star or cross shape, phloem in small groups between its arms. Stem: a ring of vascular bundles near the outside, xylem on the inner side and phloem on the outer side. Leaf: xylem on the upper side and phloem on the lower side of the midrib and veins. A key gives the function of each tissue." loading="lazy">
+  <figcaption>In roots, stems and leaves, xylem (blue) and phloem (gold) sit in set positions.</figcaption>
+</figure>
+
 
 ### Xylem (7.2.8–7.2.9)
 
@@ -206,6 +211,16 @@ If the plant is watered, or water loss falls (for example in the cool of the eve
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/igcse-biology-0610-transport-in-plants--05-transpiration-in-leaf.webp" width="900" height="1130" alt="A leaf cross-section. Step 1: water evaporates from the wet surfaces of mesophyll cells into the air spaces. Step 2: water vapour diffuses out through the stomata. Extended step 3: water lost from the leaf is pulled up the xylem. Steps 1 and 2 are Core; step 3 is tagged Extended." loading="lazy">
   <figcaption>Water evaporates inside the leaf, then the vapour diffuses out through the stomata.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-transport-in-plants--08-sources-and-sinks.webp" width="900" height="1290" alt="Extended. A plant diagram: a mature photosynthesising leaf is a source releasing sucrose into the phloem; arrows show it moving up to the shoot tip, along to a fruit and down to roots, which are sinks that use or store it. Below, a young leaf is a sink and becomes a source when mature." loading="lazy">
+  <figcaption>Phloem carries sucrose from sources to sinks, and a leaf can be both at different times.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-transport-in-plants--02-xylem-vessel-structure.webp" width="900" height="1130" alt="Extended. A xylem vessel drawn lengthways as a long hollow tube. Thick walls strengthened with lignin stop it collapsing and support the plant. It has no cell contents, so nothing blocks the water. Cells are joined end to end with no cross walls, forming one tube from root to leaf." loading="lazy">
+  <figcaption>Three features make a xylem vessel a good water pipe.</figcaption>
 </figure>
 
 

@@ -114,6 +114,17 @@ The specification includes management information. A month's variance report fro
 
 Look past the total. A favourable price variance beside an adverse usage variance suggests cheaper, lower-grade metal that produced more scrap. A higher labour rate with favourable efficiency suggests more skilled staff working faster. Methods: [standard costing and variance analysis](/resources/oxfordaqa-a-level-accounting-standard-costing-and-variance-analysis/) and [budgeting](/resources/oxfordaqa-a-level-accounting-budgeting/).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-analysis-and-evaluation-of-financial-information--10-profit-variance-waterfall.webp" width="900" height="806" alt="Budgeted profit of 27,200 dollars becomes actual profit of 31,749: sales price 6,900 favourable, sales volume 3,300 adverse, wool price 2,115 favourable, wool usage 1,350 adverse, labour rate 1,656 adverse and labour efficiency 1,840 favourable. Fixed overheads match the budget." loading="lazy">
+  <figcaption>Favourable variances raise profit above budget and adverse ones lower it.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-analysis-and-evaluation-of-financial-information--11-price-usage-variance.webp" width="900" height="940" alt="Wool was bought at 8.70 dollars against a standard 9.00, saving 0.30 on all 7,050 kilograms: 2,115 favourable. 150 kilograms more than the standard 6,900 were used, worth 1,350 at the standard price: adverse. The axes are zoomed in." loading="lazy">
+  <figcaption>Price variance uses actual quantity; usage variance uses standard price.</figcaption>
+</figure>
+
+
 ## Evaluating performance across periods and against competitors
 
 **Internal comparison** sets this year against earlier years, a budget or a target. **External comparison** sets the business against a competitor or the industry average. Organise both under profitability, liquidity, efficiency and capital structure.
@@ -152,6 +163,27 @@ ROCE for 2026 is 1,488,000 / (8,024,000 + 2,600,000) × 100 = 14.01%.
 - Dividend policy is a choice: a low yield may mean reinvestment, not weakness.
 - Ratios ignore non-financial factors such as staff morale, product quality and reputation.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-analysis-and-evaluation-of-financial-information--02-margin-vs-markup.webp" width="900" height="810" alt="One bar shows revenue of 480,000 dollars made of cost of sales 312,000 and gross profit 168,000. Margin divides gross profit by revenue to give 35.00 percent; mark-up divides the same profit by cost of sales to give 53.85 percent." loading="lazy">
+  <figcaption>The same gross profit gives a larger percentage when measured against cost of sales than against revenue.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-analysis-and-evaluation-of-financial-information--03-roce.webp" width="900" height="800" alt="Capital of 237,000 dollars plus a 60,000 loan make capital employed of 297,000. Profit for the year of 57,600 plus 3,600 loan interest added back gives net profit before interest of 61,200, so ROCE is 20.61 percent. For a company, capital employed is shares plus reserves plus non-current liabilities." loading="lazy">
+  <figcaption>ROCE divides profit before loan interest by all long-term funds, loans included.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-analysis-and-evaluation-of-financial-information--04-liquidity-ratios.webp" width="900" height="810" alt="Current assets of 95,000 dollars (bank 7,000, receivables 46,000, inventory 42,000) are compared with current liabilities of 38,000. The current ratio is 2.50 to 1; removing inventory leaves 53,000, so the acid test is 1.39 to 1." loading="lazy">
+  <figcaption>The acid test removes inventory, the least liquid current asset.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-analysis-and-evaluation-of-financial-information--05-cash-tied-up-days.webp" width="900" height="690" alt="Inventory is held 43.8 days and customers pay a further 36.5 days later, 80.3 days after buying. Suppliers are paid after 45.0 days, so the business funds the 35.3 days in between. Calculated from average inventory, credit sales and credit purchases." loading="lazy">
+  <figcaption>Inventory, receivable and payable days together show how long the business must fund its own working capital.</figcaption>
+</figure>
+
+
 ## Cash, profit and company transactions
 
 Profit follows the accruals concept; cash moves only on receipt or payment. Each line below starts from Ardleigh's 2026 position (current assets 3,150,000; current liabilities 1,750,000) and is taken separately.
@@ -164,12 +196,6 @@ Profit follows the accruals concept; cash moves only on receipt or payment. Each
 | Debentures of 600,000 redeemed from the bank | None now; future interest saved | Down 600,000 | Current ratio 1.46 : 1; gearing 19.95% |
 
 The disposal moves profit and cash in opposite directions; the revaluation improves gearing with no cash moving.
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/aqa-a-level-accounting-analysis-and-evaluation-of-financial-information--04-liquidity-ratios.webp" width="900" height="810" alt="Current assets of 95,000 dollars (bank 7,000, receivables 46,000, inventory 42,000) are compared with current liabilities of 38,000. The current ratio is 2.50 to 1; removing inventory leaves 53,000, so the acid test is 1.39 to 1." loading="lazy">
-  <figcaption>The acid test removes inventory, the least liquid current asset.</figcaption>
-</figure>
-
 
 ## Stakeholders and communication
 

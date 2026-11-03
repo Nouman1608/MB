@@ -139,6 +139,16 @@ A strong evaluation uses both columns and ends with a judgement.
   <figcaption>An antibiotic kills bacteria so the immune system can clear the rest.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-drugs--03-bacterium-vs-virus.webp" width="900" height="1010" alt="A bacterium is a living cell with cell wall, cell membrane, cytoplasm and a DNA loop, giving an antibiotic something to act on. A virus is a protein coat around genetic material, not a cell, so an antibiotic has nothing to act on." loading="lazy">
+  <figcaption>Antibiotics need cell structures to act on, so they work on bacteria and not on viruses.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-drugs--05-only-when-essential.webp" width="900" height="1010" alt="Extended. A cold or flu (virus) and a minor bacterial infection the body clears itself do not need antibiotics; a serious bacterial infection does. Fewer uses mean fewer chances to select resistant bacteria, so antibiotics keep working." loading="lazy">
+  <figcaption>Using antibiotics only when essential gives resistant bacteria fewer chances to be selected.</figcaption>
+</figure>
+
 
 ## Resistance (3.4.7 h, i, j)
 
@@ -156,6 +166,11 @@ Overuse and inappropriate use increase the rate at which resistant strains devel
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/igcse-biology-0610-drugs--07-bacteria-doubling.webp" width="900" height="890" alt="Extended worked example. A resistant bacterium dividing every 30 minutes makes 8 divisions in 4 hours, so 2 to the power 8 = 256 bacteria. The line graph curves steeply upwards." loading="lazy">
   <figcaption>A resistant strain can become common very quickly because numbers double with every division.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-drugs--04-resistance-develops.webp" width="900" height="1290" alt="Extended. Four steps of natural selection in bacteria: one of ten bacteria has a random mutation making it resistant; the antibiotic kills the nine non-resistant ones; the survivor divides and passes on the gene; later all bacteria are resistant and the antibiotic no longer works." loading="lazy">
+  <figcaption>The antibiotic selects resistant bacteria that already exist; it does not cause the mutation.</figcaption>
 </figure>
 
 
@@ -184,12 +199,6 @@ Area of zone = πr², where r is half the diameter. A control disc with no zone 
 - Percentage fall: (old − new) ÷ old × 100. For 10 000 cases falling to 1500, (10 000 − 1500) ÷ 10 000 × 100 = 85%.
 - Not immune: 1200 people with 90% immune leaves 10% of 1200 = 120 not immune.
 - Zone area for a diameter of 10 mm: r = 5, so π × 5² = 78.5 mm² (1 d.p.).
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/oxfordaqa-igcse-biology-infection-immunity-vaccination-and-antibiotics--11-resistant-strain-takes-over.webp" width="900" height="750" alt="On a log-scale chart, 2 resistant bacteria dividing every 20 minutes reach 65 536 after 5 hours (15 divisions, 2 × 32 768), after the antibiotic has killed the non-resistant bacteria." loading="lazy">
-  <figcaption>After the antibiotic removes the rest, 2 resistant bacteria grow to 65 536 in 5 hours.</figcaption>
-</figure>
-
 
 ## Model answer shapes
 
@@ -250,6 +259,12 @@ Area of zone = πr², where r is half the diameter. A control disc with no zone 
 8. 6 divisions give 2⁶ = 64.
 9. To slow the rate at which resistant strains develop.
 10. π × 5² = 78.5 mm².
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-biology-infection-immunity-vaccination-and-antibiotics--11-resistant-strain-takes-over.webp" width="900" height="750" alt="On a log-scale chart, 2 resistant bacteria dividing every 20 minutes reach 65 536 after 5 hours (15 divisions, 2 × 32 768), after the antibiotic has killed the non-resistant bacteria." loading="lazy">
+  <figcaption>After the antibiotic removes the rest, 2 resistant bacteria grow to 65 536 in 5 hours.</figcaption>
+</figure>
+
 
 ## Last-day checks
 

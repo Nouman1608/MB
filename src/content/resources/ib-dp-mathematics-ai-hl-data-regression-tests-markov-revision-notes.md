@@ -73,6 +73,22 @@ When you are ready, test yourself with the [practice questions](/resources/ib-dp
 - **Regular chain**: some power of T has all entries positive.
 - **Steady state s**: Ts = s, entries sum to 1. It is the eigenvector for eigenvalue 1, scaled so its entries add to 1.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-ai-hl-data-regression-tests-markov--03-imath-ai-hl-regression-r-squared.webp" width="900" height="1010" alt="Scatter plot of algae area against weeks 1 to 7 with a linear fit (R² 0.930) and a quadratic fit (R² 0.999). Dashed extensions predict 28.2 m² and 22.4 m² at week 8. A note warns that higher R² alone does not prove a better model." loading="lazy">
+  <figcaption>A quadratic explains 99.9% of the variation against 93.0% for the line, but R² alone is not enough to choose a model.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-ai-hl-data-regression-tests-markov--04-imath-ai-hl-ssres.webp" width="900" height="1250" alt="Two plots of the data (1,5), (2,9), (3,14), (4,22) with models A and B. Gold squares on each residual have side proportional to the residual (drawn 3 times larger). SSres is 2 for model A and 2.52 for model B, so A fits better." loading="lazy">
+  <figcaption>SSres is the sum of squared residuals, and a smaller value means a better fit.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-ai-hl-data-regression-tests-markov--06-imath-ai-hl-normal-test-errors.webp" width="900" height="950" alt="Two normal curves for the sample mean, N(500, 0.8²) and N(498, 0.8²). The left tail of the first below 498.68 is the Type I error (0.05); the part of the second above 498.68 is the Type II error (0.196). The observed 498.3 lies in the critical region." loading="lazy">
+  <figcaption>The same critical value splits both curves: its tail under H0 is Type I, its tail under the true mean is Type II.</figcaption>
+</figure>
+
+
 ## Formulas
 
 | Result | Formula |
@@ -121,6 +137,16 @@ When you are ready, test yourself with the [practice questions](/resources/ib-dp
   <figcaption>Merge categories until every expected frequency exceeds 5, then subtract the estimated parameters from the number of categories minus 1.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-ai-hl-data-regression-tests-markov--05-imath-ai-hl-binomial-errors.webp" width="900" height="960" alt="Two bar charts. For B(20, 0.3) the bars 0 to 2 form the critical region with Type I probability 0.0355. For B(20, 0.15) the bars 3 or more are the Type II error with probability 0.595." loading="lazy">
+  <figcaption>The critical region is the largest one with probability under the significance level; a Type II error depends on the true parameter.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-ai-hl-data-regression-tests-markov--07-imath-ai-hl-poisson-critical-region.webp" width="900" height="830" alt="Bar chart of Po(28) with bars 12 to 19 shaded as the critical region, probability 0.0478. Including 20 would give 0.0727, over 0.05. The observed 19 lies in the region." loading="lazy">
+  <figcaption>For discrete variables take the largest critical region whose probability stays under the significance level.</figcaption>
+</figure>
+
 
 ## Small worked reminders
 
@@ -142,12 +168,6 @@ When you are ready, test yourself with the [practice questions](/resources/ib-dp
 - **Continuous vs discrete tests**: for the normal test P(Type I) equals the significance level. For binomial and Poisson tests it is at most the significance level.
 - **Type I vs Type II**: wrongly reject vs wrongly accept H₀.
 - **Row vs column convention**: IB uses columns summing to 1 and sₙ = Tⁿs₀ with s₀ a column.
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ib-dp-mathematics-ai-hl-data-regression-tests-markov--01-imath-ai-hl-reliability-validity.webp" width="900" height="1065" alt="Four dartboards with seven crosses each. Top row clusters tightly (reliable); bottom row is scattered (not reliable). Left column is centred on the bullseye (valid); right column is centred off target (not valid). A box lists the checks: test-retest and parallel forms for reliability, content and criterion-related for validity." loading="lazy">
-  <figcaption>Reliable means consistent, valid means accurate; the two are independent.</figcaption>
-</figure>
-
 
 ## Quick self-test
 
@@ -178,13 +198,13 @@ When you are ready, test yourself with the [practice questions](/resources/ib-dp
 11. 0.1a = 0.4b with a + b = 1, so s = **(4/5, 1/5)ᵀ**.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ib-dp-mathematics-ai-hl-data-regression-tests-markov--06-imath-ai-hl-normal-test-errors.webp" width="900" height="950" alt="Two normal curves for the sample mean, N(500, 0.8²) and N(498, 0.8²). The left tail of the first below 498.68 is the Type I error (0.05); the part of the second above 498.68 is the Type II error (0.196). The observed 498.3 lies in the critical region." loading="lazy">
-  <figcaption>The same critical value splits both curves: its tail under H0 is Type I, its tail under the true mean is Type II.</figcaption>
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-ai-hl-data-regression-tests-markov--01-imath-ai-hl-reliability-validity.webp" width="900" height="1065" alt="Four dartboards with seven crosses each. Top row clusters tightly (reliable); bottom row is scattered (not reliable). Left column is centred on the bullseye (valid); right column is centred off target (not valid). A box lists the checks: test-retest and parallel forms for reliability, content and criterion-related for validity." loading="lazy">
+  <figcaption>Reliable means consistent, valid means accurate; the two are independent.</figcaption>
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ib-dp-mathematics-ai-hl-data-regression-tests-markov--07-imath-ai-hl-poisson-critical-region.webp" width="900" height="830" alt="Bar chart of Po(28) with bars 12 to 19 shaded as the critical region, probability 0.0478. Including 20 would give 0.0727, over 0.05. The observed 19 lies in the region." loading="lazy">
-  <figcaption>For discrete variables take the largest critical region whose probability stays under the significance level.</figcaption>
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-ai-hl-data-regression-tests-markov--08-imath-ai-hl-markov-transitions.webp" width="900" height="1010" alt="Two-state diagram for gym attendance with probabilities 0.8, 0.2, 0.3 and 0.7, matched to the transition matrix whose columns are the from-states and sum to 1. Starting at (0.5, 0.5), the states after one and two weeks are (0.55, 0.45) and (0.575, 0.425)." loading="lazy">
+  <figcaption>Each column of T sums to 1 and s_n = Tⁿ s₀.</figcaption>
 </figure>
 
 
@@ -200,12 +220,6 @@ When you are ready, test yourself with the [practice questions](/resources/ib-dp
 - Finding P(Type II) with the H₀ parameter instead of the stated true value.
 - Writing T with rows summing to 1, or finding s₀T instead of Ts₀.
 - Giving a decimal steady state when the question asks for an exact answer.
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ib-dp-mathematics-ai-hl-data-regression-tests-markov--05-imath-ai-hl-binomial-errors.webp" width="900" height="960" alt="Two bar charts. For B(20, 0.3) the bars 0 to 2 form the critical region with Type I probability 0.0355. For B(20, 0.15) the bars 3 or more are the Type II error with probability 0.595." loading="lazy">
-  <figcaption>The critical region is the largest one with probability under the significance level; a Type II error depends on the true parameter.</figcaption>
-</figure>
-
 
 ## Official syllabus
 

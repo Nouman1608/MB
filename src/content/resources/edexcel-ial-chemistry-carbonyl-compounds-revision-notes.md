@@ -36,6 +36,11 @@ Also useful: the [practice questions](/resources/edexcel-ial-chemistry-carbonyl-
 - **Oxidation in organic terms:** gain of oxygen or loss of hydrogen, shown with [O]. **Reduction:** gain of hydrogen, shown with [H].
 
 <figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-aldehydes-and-ketones--04-hydride-mechanism.webp" width="900" height="1300" alt="Step 1 shows a hydride ion with a lone pair attacking the carbonyl carbon by a curly arrow, while a second arrow moves the C=O bond onto oxygen. Step 2 shows the O- taking H from water, giving propan-2-ol." loading="lazy">
+  <figcaption>H- attacks the delta plus carbon, then O- is protonated, giving a secondary alcohol from a ketone.</figcaption>
+</figure>
+
+<figure class="topic-figure">
   <img src="https://img.marlbridge.com/aqa-a-level-chemistry-aldehydes-and-ketones--05-cyanide-mechanism.webp" width="900" height="1300" alt="The lone pair on the carbon of CN- attacks the carbonyl carbon of ethanal, and the C=O bond moves onto oxygen. The O- then takes H+ from dilute acid to give 2-hydroxypropanenitrile, numbered from the nitrile carbon." loading="lazy">
   <figcaption>CN- attacks with its carbon, then O- is protonated, giving a hydroxynitrile one carbon longer.</figcaption>
 </figure>

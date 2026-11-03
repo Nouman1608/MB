@@ -115,6 +115,11 @@ As an energy level diagram: the gaseous ions sit at the top, the solid 2074 belo
   <figcaption>ΔS = ΣS°(products) − ΣS°(reactants) = +160.7 J K-1 mol-1 for CaCO3 → CaO + CO2.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-chemical-energetics-lattice-energy-entropy-and-gibbs-free-energy--09-total-entropy.webp" width="900" height="1070" alt="Grouped bars for CaCO3 decomposition at 298, 1079 and 1500 K. System entropy change is +165 each time; surroundings entropy change is -ΔH/T: -597, -165, -119. Total is -432 (not feasible), about 0 (borderline) and +46 (feasible)." loading="lazy">
+  <figcaption>For Edexcel, a reaction is feasible when ΔS(total) = ΔS(system) + ΔS(surroundings) is positive, with ΔS(surroundings) = −ΔH/T.</figcaption>
+</figure>
+
 
 ## Covalent character and polarisation (12.14, 12.15)
 
@@ -174,6 +179,12 @@ Charge normally has the larger effect. Quick comparisons: Ca²⁺ is hydrated mo
 8. The values agree closely, so the bonding is almost purely ionic with very little polarisation.
 9. ΔSsurroundings = −25 000 / 298 = −83.9; ΔStotal = 60.0 − 83.9 = **−23.9 J mol⁻¹ K⁻¹**, so it is not expected to dissolve to give a standard solution at 298 K.
 10. ΔStotal = 0 when T = 25 000 / 60.0 = **417 K** (assuming ΔsolH and ΔSsystem stay constant).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-chemical-energetics-lattice-energy-entropy-and-gibbs-free-energy--07-gibbs-vs-temperature.webp" width="900" height="1000" alt="Graph of ΔG against temperature: a straight line starting at +178 kJ per mole, sloping down at -0.165 kJ per K, crossing zero at 1079 K. Above 1079 K ΔG is negative and the reaction is feasible; below it is not. A note says feasible does not mean fast." loading="lazy">
+  <figcaption>ΔG = ΔH − TΔS gives a straight line whose intercept is ΔH and gradient is −ΔS; it crosses zero at T = ΔH/ΔS = 1079 K.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

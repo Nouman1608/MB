@@ -220,6 +220,12 @@ The catalyst is not used up: the same mass and composition remain at the end.
 11. The curve stays the same; the activation energy line moves to the left (lower Ea by an alternative route),
     so the area to its right is larger.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-kinetics--07-half-life.webp" width="900" height="1060" alt="Two concentration-time graphs. For a first-order reaction each halving (0.80 to 0.40 to 0.20 to 0.10) takes the same 60 s, so k = ln 2 divided by the half-life. For a zero-order reaction the line is straight and successive halvings take 100, 50 and 25 s, with k equal to minus the gradient." loading="lazy">
+  <figcaption>A constant half-life shows first order; in a zero-order reaction successive half-lives shorten.</figcaption>
+</figure>
+
+
 ## Where marks are usually lost
 
 - Leaving out "minimum" from the activation energy definition, or writing "energy to start a reaction".

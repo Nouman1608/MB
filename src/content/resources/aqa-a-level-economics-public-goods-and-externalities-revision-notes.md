@@ -194,12 +194,6 @@ MPB = 19 - Q, MPC = MSC = 3 + Q, and the external benefit is 4 per unit, so MSB 
 - A sole owner of a resource bears the cost of over-use, so tends to limit use to the efficient level.
 - Rights can be hard to define for shared resources and to enforce across borders.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/aqa-a-level-economics-public-goods-and-externalities--08-property-rights-missing-market.webp" width="900" height="1000" alt="Two scenes of a factory beside a river with a farm downstream. In the first, nobody owns the river: the factory pays nothing, waste flows downstream and the farm bears the cost, with no market to price the damage. In the second, an owner with enforceable property rights can exclude and charge, so the factory pays and the cost now reaches the polluter. Illustrative scene with no numbers." loading="lazy">
-  <figcaption>Without property rights nobody can charge the factory for using the river, so the cost lands on downstream users; with enforceable rights the cost reaches the polluter.</figcaption>
-</figure>
-
-
 ## Evaluation checklist
 
 - Are external costs and benefits really measurable, and is the per-unit figure constant?
@@ -232,6 +226,17 @@ MPB = 19 - Q, MPC = MSC = 3 + Q, and the external benefit is 4 per unit, so MSB 
 8. 20 - 2Q = 2 + Q, so 18 = 3Q and Q = 6.
 9. 20 - 2Q = 8 + Q, so 12 = 3Q and Q = 4. (Market output of 6 is 2 above the social output.)
 10. The producer or consumer receives only the private benefit and ignores the external benefit, so MSB (or MSC) is not reflected in price and output is below the social optimum.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-public-goods-and-externalities--05-lamps-vertical-sum.webp" width="900" height="990" alt="Stacked bars for lamps 1 to 4 showing marginal benefit of households A, B and C: 30+25+20=75, 20+15+12=47, 10+8+6=24, 5+4+2=11. A dashed line at marginal cost 22 shows lamps 1 to 3 are worth building (efficient 3), lamp 4 is not. Only lamp 1 gives household A alone a benefit above 22, so voluntary payment provides 1 lamp." loading="lazy">
+  <figcaption>Benefits add up across households, so 3 lamps are worth building; voluntary payment funds only 1.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-public-goods-and-externalities--08-property-rights-missing-market.webp" width="900" height="1000" alt="Two scenes of a factory beside a river with a farm downstream. In the first, nobody owns the river: the factory pays nothing, waste flows downstream and the farm bears the cost, with no market to price the damage. In the second, an owner with enforceable property rights can exclude and charge, so the factory pays and the cost now reaches the polluter. Illustrative scene with no numbers." loading="lazy">
+  <figcaption>Without property rights nobody can charge the factory for using the river, so the cost lands on downstream users; with enforceable rights the cost reaches the polluter.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

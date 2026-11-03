@@ -147,6 +147,12 @@ Related mechanics notes: [Forces and Newton's laws](/resources/aqa-a-level-mathe
 
 With a vertical string there is no horizontal force at all. An angled string gives the hinge a horizontal component too.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-moments--05-hinged-rod.webp" width="900" height="1000" alt="A 1.8 m, 4 kg rod is hinged at A and held horizontal by a string at 40 degrees to the rod, with a 2 kg particle 1.5 m from A. Moments about A give T = 55.9 N; resolving gives H = 42.8 N and V = 22.9 N, a hinge force of 48.5 N at 28.1 degrees above the horizontal." loading="lazy">
+  <figcaption>Taking moments about the hinge removes both hinge components, leaving the tension to find first.</figcaption>
+</figure>
+
+
 ## Choosing where to take moments
 
 | Unknowns in the problem | Take moments about |
@@ -214,12 +220,6 @@ A second moments equation, about a different point, can replace the resolving st
 - Dropping the direction in a "magnitude and direction" answer.
 - Using centimetres in a moment and giving an answer 100 times too large.
 - Rounding a tension early, then using it to find a reaction.
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-moments--05-hinged-rod.webp" width="900" height="1000" alt="A 1.8 m, 4 kg rod is hinged at A and held horizontal by a string at 40 degrees to the rod, with a 2 kg particle 1.5 m from A. Moments about A give T = 55.9 N; resolving gives H = 42.8 N and V = 22.9 N, a hinge force of 48.5 N at 28.1 degrees above the horizontal." loading="lazy">
-  <figcaption>Taking moments about the hinge removes both hinge components, leaving the tension to find first.</figcaption>
-</figure>
-
 
 ## Official syllabus
 

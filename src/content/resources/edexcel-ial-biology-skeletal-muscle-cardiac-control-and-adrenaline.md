@@ -65,6 +65,12 @@ Each myofibril is divided along its length into repeating units called sarcomere
 | H zone | Lighter area in the middle of the A band | Thick filaments only |
 | M line | Centre of the sarcomere | Where the thick filaments are linked |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-control-and-coordination--08-sarcomere.webp" width="900" height="1170" alt="Two sarcomeres are drawn to the same scale (1 um = 280 px) with actin attached to Z lines and myosin in the middle. Relaxed, the sarcomere is 2.5 um: A band 1.6, I band 0.9 and H zone 0.5 um. Contracted, it is 2.0 um (20 percent shorter): I band 0.4 um, H zone gone, but the A band stays 1.6 um because the filaments slide rather than shorten." loading="lazy">
+  <figcaption>Sarcomere shortening drawn to scale: the I band and H zone shrink, the A band does not.</figcaption>
+</figure>
+
+
 ### (ii) Fast and slow twitch fibres
 
 | Feature | Slow twitch | Fast twitch |
@@ -89,12 +95,6 @@ An electron micrograph is at a magnification of ×20 000. A relaxed sarcomere me
 
 The A band stays the same because the filaments do not shorten; the I band and H zone shorten because the filaments slide past each other.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-level-biology-9700-control-and-coordination--08-sarcomere.webp" width="900" height="1170" alt="Two sarcomeres are drawn to the same scale (1 um = 280 px) with actin attached to Z lines and myosin in the middle. Relaxed, the sarcomere is 2.5 um: A band 1.6, I band 0.9 and H zone 0.5 um. Contracted, it is 2.0 um (20 percent shorter): I band 0.4 um, H zone gone, but the A band stays 1.6 um because the filaments slide rather than shorten." loading="lazy">
-  <figcaption>Sarcomere shortening drawn to scale: the I band and H zone shrink, the A band does not.</figcaption>
-</figure>
-
-
 ## 7.11 The sliding filament theory
 
 When a motor neurone stimulates the fibre, an action potential spreads over the sarcolemma and down the T tubules. This opens channels in the sarcoplasmic reticulum and calcium ions (Ca2+) diffuse into the sarcoplasm.
@@ -109,6 +109,16 @@ When a motor neurone stimulates the fibre, an action potential spreads over the 
 This repeats many times each second. The thin filaments slide inwards, the Z lines move closer and the sarcomere shortens. When stimulation stops, calcium ions are pumped back into the sarcoplasmic reticulum and tropomyosin covers the binding sites again.
 
 ATP therefore has two roles: it detaches myosin from actin, and its hydrolysis provides the energy to re-set the head. Returning calcium ions to the store by active transport also uses ATP.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-control-and-coordination--05-cholinergic-synapse.webp" width="900" height="1110" alt="A presynaptic knob sits above a postsynaptic neurone with a 20 nm cleft between. An action potential opens Ca2+ channels, Ca2+ enters and vesicles release acetylcholine by exocytosis. ACh binds receptors that are Na+ channels, so Na+ enters and the membrane depolarises. Acetylcholinesterase splits ACh and choline is taken back in. Receptors are only on the postsynaptic side, so transmission is one way." loading="lazy">
+  <figcaption>The six steps of transmission across a cholinergic synapse.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-control-and-coordination--07-pacinian-corpuscle.webp" width="900" height="1130" alt="A Pacinian corpuscle has concentric lamellae separated by gel, with a sensory neurone ending at the centre. Pressure stretches the membrane and widens stretch-mediated Na+ channels, so Na+ enters and the membrane depolarises: the generator potential. In the lesson example pressures of 0.5, 1.0 and 1.5 kPa give 6, 12 and 18 mV; only 1.5 kPa passes the 15 mV needed to reach threshold and fire an action potential." loading="lazy">
+  <figcaption>Pressure opens stretch-mediated Na+ channels; only a generator potential reaching threshold fires an impulse.</figcaption>
+</figure>
 
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/a-level-biology-9700-control-and-coordination--09-cross-bridge-cycle.webp" width="900" height="1290" alt="Five stages show a myosin head and an actin filament with tropomyosin and troponin. At rest tropomyosin blocks the binding sites. Ca2+ binds troponin, tropomyosin moves aside and the head binds actin. The head tilts in the power stroke, pulling actin toward the M line and releasing ADP and Pi. ATP binds and the head detaches; hydrolysis of ATP resets it. AQA does not require troponin." loading="lazy">

@@ -276,6 +276,11 @@ In a photomicrograph, find the tightly packed palisade layer first: epidermis is
   <figcaption>Testing a leaf for starch.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-plant-nutrition--08-leaf-cross-section.webp" width="900" height="790" alt="Leaf section from top down: cuticle, upper epidermis, palisade mesophyll with many chloroplasts, spongy mesophyll with air spaces, vascular bundle with xylem (water in) and phloem (sugar out), lower epidermis with stomata and guard cells. CO2 enters and O2 leaves through stomata." loading="lazy">
+  <figcaption>Labelled leaf section showing where light, CO2 and water are used.</figcaption>
+</figure>
+
 
 ## 6.3 Mineral nutrition
 
@@ -283,6 +288,12 @@ In a photomicrograph, find the tightly packed palisade layer first: epidermis is
 - **Magnesium ions** are needed to make **chlorophyll**. Without enough magnesium the plant makes less chlorophyll, absorbs less light and photosynthesises less.
 
 The effect of mineral ions on plant growth is a listed practical context: grow identical seedlings in solutions each lacking one ion, with a complete solution as the control.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-plant-nutrition--03-mineral-ions.webp" width="900" height="1050" alt="Nitrate ions are needed for amino acids and so proteins; without nitrate, growth is poor. Magnesium ions are needed for chlorophyll; without magnesium, leaves turn yellow. Ions come from the soil via root hairs." loading="lazy">
+  <figcaption>Nitrate makes amino acids and proteins; magnesium makes chlorophyll.</figcaption>
+</figure>
+
 
 ## Common errors
 

@@ -103,6 +103,11 @@ An empirical scale depends on a **physical property that varies with temperature
   <figcaption>At constant temperature pV is constant, so p against 1/V is a straight line through the origin.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-ideal-gases--06-kinetic-pressure.webp" width="900" height="1222" alt="A molecule rebounds elastically from the wall of a cube of side L, changing momentum by 2mv_x. The time between hits on that wall is 2L/v_x, so the force is mv_x²/L. For N molecules F = (Nm/L)&lt;v_x²&gt;; random motion gives &lt;c²&gt; = 3&lt;v_x²&gt;; dividing by area L² gives pV = 1/3 Nm&lt;c²&gt;. Comparing with pV = NkT gives 1/2 m&lt;c²&gt; = 3/2 kT. For nitrogen at 300 K the r.m.s. speed is 517 m/s." loading="lazy">
+  <figcaption>Pressure arises from the momentum change of molecules rebounding from the walls.</figcaption>
+</figure>
+
 
 ## Specific heat capacity and specific latent heat
 
@@ -121,12 +126,6 @@ Q = mL
 ```
 
 Fusion refers to melting/freezing; vaporisation refers to boiling/condensing. On a cooling curve (temperature against time), temperature falls steadily while the substance stays in one state, but is **constant during a change of state**, since the energy transferred is latent heat rather than energy that raises or lowers temperature.
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-physics-ideal-gases--03-shc-electrical.webp" width="900" height="1290" alt="A lagged metal block of 1.00 kg holds a heater and a thermometer. The heater is connected through an ammeter in series with a voltmeter across it; conventional current flows from the positive terminal. At 12.0 V and 4.20 A (50.4 W) the temperature rises 24.0 K in 420 s, a straight line of gradient 0.0571 K/s, so c = P/(m × gradient) = 882 J/kg/K." loading="lazy">
-  <figcaption>The gradient of a temperature-time graph at constant power gives c = P / (m × gradient).</figcaption>
-</figure>
-
 
 ## Exam traps
 
@@ -150,3 +149,14 @@ Fusion refers to melting/freezing; vaporisation refers to boiling/condensing. On
 7. Why does temperature stay constant while a solid melts, even though energy is still being supplied?
 
 **Answers:** 1. The mean translational kinetic energy of the molecules — not the total thermal energy. 2. No net flow of thermal energy between two bodies, which occurs when they are at the same temperature; energy flows from higher to lower *temperature*, regardless of internal energy. 3. The triple point occurs at one unique temperature and pressure, so it is perfectly reproducible, whereas a melting point varies with pressure. 4. Yes — intervals are identical on the two scales; only absolute temperatures differ, by 273.15. 5. It has a small thermal capacity, so it responds quickly and absorbs very little energy from the system being measured. 6. Specific latent heat is the energy needed to change state without a change of temperature, while specific heat capacity is the energy needed to change temperature without a change of state. 7. During melting the temperature stays constant because the energy supplied is latent heat, going into breaking intermolecular bonds rather than increasing mean translational kinetic energy.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-ideal-gases--02-heating-curve.webp" width="900" height="1210" alt="Temperature-time graph for 0.200 kg of ice at -15 °C heated at 150 W. 6300 J warms the ice to 0 °C, 66 800 J melts it at constant temperature, and 16 800 J warms the water to 20 °C; the total of 89 900 J takes about 600 s. Particle pictures show ice as a lattice, melting as a mixture and water as an irregular close arrangement." loading="lazy">
+  <figcaption>During melting the supplied energy increases potential energy, so the temperature stays constant.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-ideal-gases--03-shc-electrical.webp" width="900" height="1290" alt="A lagged metal block of 1.00 kg holds a heater and a thermometer. The heater is connected through an ammeter in series with a voltmeter across it; conventional current flows from the positive terminal. At 12.0 V and 4.20 A (50.4 W) the temperature rises 24.0 K in 420 s, a straight line of gradient 0.0571 K/s, so c = P/(m × gradient) = 882 J/kg/K." loading="lazy">
+  <figcaption>The gradient of a temperature-time graph at constant power gives c = P / (m × gradient).</figcaption>
+</figure>
+

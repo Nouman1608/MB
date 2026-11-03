@@ -195,6 +195,12 @@ Answer each in a line or two, then check below. Use Tarnovia's table where it he
 11. Scarce skills usually need costly training. A household with little income and no savings may be unable to pay for it, so the supply of the skill stays small and its price stays high.
 12. The arrow from firms to households through the factor market.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-economics-market-inability-to-achieve-equity--12-equity-two-labour-markets.webp" width="900" height="1010" alt="HL only. Hourly wage in veld against hours of work in thousands. Basic service workers: demand Qd = 600 − 10w and supply Qs = 20w meet at wage 20 and 400 thousand hours. Specialist engineers: demand Qd = 500 − 2w and supply Qs = 3w meet at wage 100 and 300 thousand hours. The engineers’ wage is five times the basic wage, and no one set the gap; it came out of the two markets." loading="lazy">
+  <figcaption>Two labour markets clear at wages of 20 and 100.</figcaption>
+</figure>
+
+
 ## Where marks are usually lost
 
 - Leaving the factor market unlabelled, or omitting one of the four factor incomes.

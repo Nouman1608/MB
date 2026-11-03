@@ -41,6 +41,12 @@ Key idea in one line: the π bond is weaker and its electrons are exposed, so al
 
 Shape: each C of the C=C is trigonal planar, bond angle about 120°.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-alkenes--01-sigma-pi-bond.webp" width="900" height="1080" alt="Top view of ethene with computed 120 degree angles in one plane; edge-on view with a sigma bond on the axis and pi clouds above and below; bars show C=C 612 = sigma 347 + pi 265 kJ/mol (Edexcel data; OCR 614 and 348)." loading="lazy">
+  <figcaption>The C=C is one σ bond plus a weaker π bond, in a flat trigonal planar arrangement (Edexcel, OCR).</figcaption>
+</figure>
+
+
 ## Geometric isomerism (5.2) and E–Z naming (5.3)
 
 **Two conditions, both needed**
@@ -128,6 +134,11 @@ Add bromine water and shake. **Orange-brown → colourless** with an alkene. No 
   <figcaption>Br2 becomes polar near the C=C, then adds by the same two-step pattern (OCR also accepts a bromonium ion).</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-alkenes--07-major-minor-product.webp" width="900" height="1236" alt="H adds to C1 giving a secondary carbocation (two alkyl groups) and 2-bromopropane as major product; H adds to C2 giving a primary carbocation (one alkyl group) and 1-bromopropane as minor. Bars show stability rising primary &lt; secondary &lt; tertiary." loading="lazy">
+  <figcaption>The more stable secondary carbocation forms faster, so 2-bromopropane is the major product.</figcaption>
+</figure>
+
 
 ## Addition polymerisation (5.7)
 
@@ -164,12 +175,6 @@ These are suggested in the specification, not Core Practicals: comparing alkanes
 - **Major vs minor product:** decided by the more stable carbocation, not by which carbon "looks" more crowded.
 - **Repeat unit vs monomer:** repeat unit has no C=C; monomer does.
 - **Cis–trans vs E–Z:** cis–trans needs a matching group; E–Z uses priority by atomic number.
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-alkenes--07-major-minor-product.webp" width="900" height="1236" alt="H adds to C1 giving a secondary carbocation (two alkyl groups) and 2-bromopropane as major product; H adds to C2 giving a primary carbocation (one alkyl group) and 1-bromopropane as minor. Bars show stability rising primary &lt; secondary &lt; tertiary." loading="lazy">
-  <figcaption>The more stable secondary carbocation forms faster, so 2-bromopropane is the major product.</figcaption>
-</figure>
-
 
 ## Quick self-test
 

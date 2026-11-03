@@ -180,6 +180,11 @@ Evaluation points: standardised products suit division of labour; made-to-order 
   <figcaption>Weigh the advantages and disadvantages for workers and for businesses.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-economics-production-and-business-costs--04-division-of-labour.webp" width="900" height="960" alt="Top: one worker does four tasks in turn. Below: four workers each do one task and pass the work on. The advantage for the firm is faster output; the disadvantage for workers is boredom and over-specialisation. Answers should give both sides." loading="lazy">
+  <figcaption>Splitting a job into tasks speeds up output but can leave workers bored and over-specialised.</figcaption>
+</figure>
+
 
 ## Sketch: shares of employment over time
 

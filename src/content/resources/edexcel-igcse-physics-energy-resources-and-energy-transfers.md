@@ -146,6 +146,11 @@ principles.
   <figcaption>Dull black surfaces absorb infrared best; shiny ones reflect it.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-physics-conservation-and-dissipation-of-energy--07-wall-conduction-rate.webp" width="900" height="1085" alt="Three walls, hot inside and cold outside, with arrows showing energy transferred. A thin high-conductivity wall transfers at rate 8, a wall twice as thick at rate 4, and a wall twice as thick with a quarter of the conductivity at rate 1." loading="lazy">
+  <figcaption>Energy transfer through a wall falls with greater thickness and with lower thermal conductivity.</figcaption>
+</figure>
+
 
 ## Work and power
 
@@ -234,6 +239,16 @@ risk.
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/energy-resources-and-efficiency--02-steam-power-station.webp" width="900" height="920" alt="Fossil fuels, biofuels, nuclear fuel and geothermal heat all supply heat to a boiler. The boiler turns water to steam, which spins a turbine. The turbine turns a generator that makes electricity." loading="lazy">
   <figcaption>Fossil fuels, biofuels, nuclear fuel and geothermal all heat water to steam to spin a turbine and generator.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/energy-resources-and-efficiency--03-direct-and-solar.webp" width="900" height="990" alt="Wind, falling water, tides and waves spin a turbine directly with no boiler, and the turbine turns a generator. Solar cells below convert radiation to electricity directly with no turbine or generator." loading="lazy">
+  <figcaption>Wind, water, tides and waves spin a turbine directly; solar cells skip the turbine and generator.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/energy-resources-and-efficiency--04-availability.webp" width="900" height="950" alt="Three graphs of power over 24 hours. Solar is non-zero only from 06:00 to 18:00 and peaks at midday. Tidal power rises and falls repeatedly in a regular pattern. Fossil and nuclear stations can run steadily at any time." loading="lazy">
+  <figcaption>Availability differs: solar only in daylight, tides in a predictable cycle, fossil and nuclear on demand.</figcaption>
 </figure>
 
 

@@ -146,17 +146,6 @@ Business objectives: survival (the priority for a start-up), profit, growth, mar
 
 Measured by **number of employees, capital employed, value of output, or market share** — never by one measure alone, since a capital-intensive firm may employ few people yet be very large. Profit is not a measure of size.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/enterprise-business-growth-and-size--02-measuring-size.webp" width="900" height="960" alt="Four ways to measure business size: number of people employed, value of output, capital employed and market share, each shown with a simple icon. Profit is crossed out because it is not a measure of size." loading="lazy">
-  <figcaption>Size can be measured by employees, output, capital employed or market share, but not by profit.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/enterprise-business-growth-and-size--03-measure-limitations.webp" width="900" height="940" alt="Example with invented numbers: an automated factory has 20 employees but output of $60m, while a call centre has 200 employees but output of $8m. The factory is small by employees but large by output; the call centre is the reverse, so more than one measure should be used." loading="lazy">
-  <figcaption>Each measure of size has a limitation, so different measures can give different answers.</figcaption>
-</figure>
-
-
 ## Exam traps
 
 - Confusing added value with profit.
@@ -175,3 +164,14 @@ Measured by **number of employees, capital employed, value of output, or market 
 5. Give three ways of measuring business size and one limitation of using employees alone.
 
 **Answers:** 1. Selling price minus the cost of bought-in materials; raise it by branding or improved service and design, or by reducing input costs. 2. With unlimited liability the owner's personal assets can be seized to pay business debts; with limited liability the owner can lose only the amount invested. 3. For example owners, employees and customers; owners want to cut costs to raise profit while employees want higher wages. 4. Shareholders own a plc but directors control day-to-day decisions, so the two groups' objectives may diverge. 5. Number of employees, capital employed, value of output or market share; employee numbers mislead for capital-intensive firms that produce a great deal with few staff.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/enterprise-business-growth-and-size--02-measuring-size.webp" width="900" height="960" alt="Four ways to measure business size: number of people employed, value of output, capital employed and market share, each shown with a simple icon. Profit is crossed out because it is not a measure of size." loading="lazy">
+  <figcaption>Size can be measured by employees, output, capital employed or market share, but not by profit.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/enterprise-business-growth-and-size--03-measure-limitations.webp" width="900" height="940" alt="Example with invented numbers: an automated factory has 20 employees but output of $60m, while a call centre has 200 employees but output of $8m. The factory is small by employees but large by output; the call centre is the reverse, so more than one measure should be used." loading="lazy">
+  <figcaption>Each measure of size has a limitation, so different measures can give different answers.</figcaption>
+</figure>
+

@@ -74,6 +74,11 @@ Read across: every point reaches its maximum at the same time and passes through
   <figcaption>Superposing two opposite waves gives fixed nodes and antinodes half a wavelength apart.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-physics-waves--08-aphy-waves-gap-diffraction.webp" width="900" height="1210" alt="Plane waves meet a gap of 6, 2 and 1 wavelengths. With a wide gap the waves go through nearly straight; as the gap approaches one wavelength they spread into near-semicircular fronts. Wavelength, frequency and speed are unchanged." loading="lazy">
+  <figcaption>Diffraction is greatest when the gap is about one wavelength.</figcaption>
+</figure>
+
 
 ### Stationary and progressive waves compared
 

@@ -188,6 +188,12 @@ If the target payback is 3 years, the project passes. If the target ARR is 10%, 
 
 Use a chain: point, evidence, reason, consequence, judgement. For example: "Payback favours the accessories project because it returns the cash in two years (evidence). NPV favours the export bike because its later cash flows are larger even after discounting (evidence). The tools conflict because payback ignores what happens after the cost is recovered, while NPV values the whole project (reason). If the business is short of cash, the quicker payback may matter more, but if it can wait, the higher NPV is stronger (consequence). On balance I would back the export bike, provided the demand forecast is tested first (judgement)."
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-business-ansoffs-matrix-and-conflicts-in-business-decision-making--01-tools-cumulative-cash.webp" width="900" height="730" alt="Line chart of cumulative net cash (thousand pounds) over five years for two 200 thousand pound projects. A reaches zero at 2.0 years then flattens to plus 80. B reaches zero at 3.09 years, overtakes A near year 3.6 and ends at plus 230." loading="lazy">
+  <figcaption>Project A recovers its cost sooner, but Project B ends far ahead.</figcaption>
+</figure>
+
+
 ### Which tool for which question
 
 | If the question asks about | Lead with | Then add |

@@ -58,12 +58,6 @@ These notes condense sections A4.1 (Evolution and speciation) and A4.2 (Conserva
 
 **Reminder.** Sequences of 12 amino acids that differ at 3 positions differ by 3 ÷ 12 × 100 = 25.0%. DNA can differ at positions where the protein does not, because the genetic code is degenerate.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ib-dp-biology-evolution-speciation-and-conservation-of-biodiversity--01-sequence-differences.webp" width="900" height="880" alt="Four 12-letter protein sequences with differences from P highlighted, the six pairwise difference counts and percentages, and a tree showing P and Q most closely related and S most distant. A gap-free count of differences shows the branching order. Data are hypothetical." loading="lazy">
-  <figcaption>More differences between sequences means a longer time since the lineages shared an ancestor.</figcaption>
-</figure>
-
-
 ### Must-know distinction: homologous or analogous?
 
 | Feature | Homologous | Analogous |
@@ -72,6 +66,11 @@ These notes condense sections A4.1 (Evolution and speciation) and A4.2 (Conserva
 | Function | Often different | Same |
 | Internal structure | Same plan | Different plan |
 | Explained by | Common descent | Convergent evolution |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-evolution-speciation-and-conservation-of-biodiversity--01-sequence-differences.webp" width="900" height="880" alt="Four 12-letter protein sequences with differences from P highlighted, the six pairwise difference counts and percentages, and a tree showing P and Q most closely related and S most distant. A gap-free count of differences shows the branching order. Data are hypothetical." loading="lazy">
+  <figcaption>More differences between sequences means a longer time since the lineages shared an ancestor.</figcaption>
+</figure>
 
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/ib-dp-biology-evolution-speciation-and-conservation-of-biodiversity--02-homologous-limbs.webp" width="900" height="1010" alt="Four schematic forelimbs (human arm, bat wing, whale flipper, horse leg) share one humerus, radius and ulna, wrist bones and digits, but with different proportions. This shared plan with different jobs points to a common ancestor." loading="lazy">
@@ -142,6 +141,12 @@ Isolation may take three forms: geographic, behavioural or temporal.
 
 **Abrupt speciation in plants (HL only).** Hybridization gives a sterile hybrid. Polyploidy doubles the chromosomes, so they pair, and the plant is fertile. A new species can appear in one generation. *Persicaria* (knotweed or smartweed) has many species formed this way.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-evolution-speciation-and-conservation-of-biodiversity--06-adaptive-radiation-hl.webp" width="900" height="940" alt="One ancestor reaches a new island with vacant niches. Four descendants each use a different food (seeds, insects, nectar, fruit) with a matching beak, so close relatives coexist with little competition." loading="lazy">
+  <figcaption>Adaptive radiation produces many related species, each in a different niche.</figcaption>
+</figure>
+
+
 ## Biodiversity and extinction (A4.2.1 to A4.2.4)
 
 - **Three levels:** ecosystem diversity, species diversity, genetic diversity.
@@ -161,6 +166,12 @@ Isolation may take three forms: geographic, behavioural or temporal.
 - **EDGE of Existence:** prioritizes species that are both evolutionarily distinct and globally endangered, because losing them loses a large amount of evolutionary history. Prioritization is a matter for debate.
 
 **Reminder.** Richness is the number of species. Evenness is how similar their abundances are. A change from 48 to 39 species is (39 − 48) ÷ 48 × 100 = −18.8%.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-evolution-speciation-and-conservation-of-biodiversity--09-edge-species.webp" width="900" height="1130" alt="A species on a long unique branch of the tree of life loses much evolutionary history if it goes extinct, unlike one of several close relatives. EDGE species are both evolutionarily distinct and globally endangered, and choosing priorities raises ethical, political, cultural and economic questions." loading="lazy">
+  <figcaption>EDGE prioritises species that are evolutionarily distinct and globally endangered.</figcaption>
+</figure>
+
 
 ## Small worked reminders
 

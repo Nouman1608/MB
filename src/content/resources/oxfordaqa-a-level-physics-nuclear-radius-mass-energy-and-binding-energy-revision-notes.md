@@ -91,6 +91,11 @@ Unit conversions: 1 MeV = 1.60 × 10⁻¹³ J; 1 fm = 10⁻¹⁵ m.
   <figcaption>Each nucleus has a constant chance of decaying, so unpredictable single decays give a smooth exponential for a large sample.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-nuclear-physics--05-aphy-nuclear-log-graph.webp" width="900" height="990" alt="ln of corrected count rate against time is a straight line falling from 6.461 to 4.710 over 50 minutes. The gradient is -0.0350 per minute, so lambda = 0.0350 per minute and the half-life is 19.8 minutes." loading="lazy">
+  <figcaption>A straight ln graph supports the exponential law and its gradient is minus lambda.</figcaption>
+</figure>
+
 
 ## 3.12.2 Mass and energy
 

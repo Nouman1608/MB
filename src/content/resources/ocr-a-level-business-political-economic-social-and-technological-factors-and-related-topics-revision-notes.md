@@ -95,6 +95,32 @@ These notes condense the external influences content in the OCR A Level Business
 - Slump: cut waste, renegotiate, buy assets cheaply.
 - Recovery: restock, recruit and launch early.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-business-political-economic-social-and-technological-factors-and-related-topics--01-business-cycle-phases.webp" width="900" height="1070" alt="A wave graph of output against time passes through recovery, boom, downturn, slump and recovery. Advice for each phase is shown: build cash in a boom, cut costs and buy cheaply in a slump, rebuild stock and recruit in recovery." loading="lazy">
+  <figcaption>The business cycle repeats, and each phase calls for a different response.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-business-political-economic-social-and-technological-factors-and-related-topics--03-subsidy-break-even.webp" width="900" height="960" alt="A break-even chart: revenue 5 pounds a unit, total cost 96,000 fixed plus 4.20 a unit, crossing at 120,000 units. With a 30p subsidy per unit the cost line is flatter and they cross at 87,273 units." loading="lazy">
+  <figcaption>A per-unit subsidy raises contribution and lowers break-even by 32,727 units.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-business-business-and-its-environment--09-inflation-index.webp" width="900" height="990" alt="A price index rising from 106.0 to 110.24 is 4 percent inflation (divide by the earlier index). Quenby raising prices 3 percent against 4 percent generally is about 1 percent lower in real terms. 100.0 to 98.5 is 1.5 percent deflation." loading="lazy">
+  <figcaption>Inflation is the change in the index divided by the earlier index.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-business-business-and-its-environment--06-exchange-import-cost.webp" width="900" height="960" alt="The pound falls from 200 to 180 yen, so a 36,000 yen motor rises from 180 to 200 pounds (11.1 percent), and an order of 4,000 motors costs 80,000 pounds more." loading="lazy">
+  <figcaption>A weaker pound makes imported inputs dearer.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-business-business-and-its-environment--07-exchange-export-price.webp" width="900" height="960" alt="The pound rises from 1.15 to 1.25 euro. Keeping the 12 pound price lifts the euro price from 13.80 to 15.00 (8.7 percent); holding the euro price cuts income to 11.04 pounds a jar (8 percent less)." loading="lazy">
+  <figcaption>A stronger pound makes exports dearer or less profitable.</figcaption>
+</figure>
+
+
 ## Social, technological and digital factors
 
 **Social:** age structure, population movement, lifestyle, attitudes and fashion. They shift demand and the labour supply. Evaluate by speed, predictability and who has to change.
@@ -157,6 +183,16 @@ These notes condense the external influences content in the OCR A Level Business
   <figcaption>Ethical sourcing can cut the margin when the price is held.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-business-influences-on-business--07-law-or-ethics.webp" width="900" height="860" alt="Three bands: ethics (a choice: charitable giving, fair prices to suppliers, religious observance) above a line marking the legal minimum; law (a requirement: safe workplace, national minimum wage, consumer protection); and breaking the law, which brings consequences of non-compliance." loading="lazy">
+  <figcaption>Law is what a business must do; ethics is what it chooses to do beyond that.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-business-influences-on-business--03-ethics-profit-tradeoff.webp" width="900" height="800" alt="A level balance scale with a question mark on the pivot: coins on the left for higher costs and lower margin, heart, star and box on the right for loyalty, reputation and reliable supply. The judgement depends on whether customers value it enough." loading="lazy">
+  <figcaption>Ethical action has a cost and a benefit, and the judgement depends on the business and its customers.</figcaption>
+</figure>
+
 
 ## Legal factors
 
@@ -187,6 +223,11 @@ Legislation covers employment, equality, company and partnership matters, health
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/ocr-a-level-business-political-economic-social-and-technological-factors-and-related-topics--03-solar-payback.webp" width="900" height="830" alt="Cumulative saving rises 9,000 pounds a year and crosses the 60,000 pound cost at 6.7 years, about 6 years 8 months." loading="lazy">
   <figcaption>Payback is the time for cumulative savings to equal the cost.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-business-influences-on-business--04-green-considerations.webp" width="900" height="970" alt="Environmental impacts shown as a car, recycling arrows, a bin and a smoking factory; sustainability shown as a thermometer and a tree stump. A banner says each is a trade-off with profit." loading="lazy">
+  <figcaption>Environmental impacts and sustainability both involve weighing costs now against benefits later.</figcaption>
 </figure>
 
 
@@ -236,8 +277,8 @@ An ethical change that cuts margin from 35% to 32% is a trade-off. Argue whether
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ocr-a-level-business-political-economic-social-and-technological-factors-and-related-topics--03-subsidy-break-even.webp" width="900" height="960" alt="A break-even chart: revenue 5 pounds a unit, total cost 96,000 fixed plus 4.20 a unit, crossing at 120,000 units. With a 30p subsidy per unit the cost line is flatter and they cross at 87,273 units." loading="lazy">
-  <figcaption>A per-unit subsidy raises contribution and lowers break-even by 32,727 units.</figcaption>
+  <img src="https://img.marlbridge.com/a-level-business-business-and-its-environment--08-interest-repayment.webp" width="900" height="920" alt="A 1,500,000 pound loan repaying 300,000 a year plus interest on the opening balance. At 5 percent the payment is 375,000; at 6.5 percent it is 397,500, an extra 22,500 or 6 percent." loading="lazy">
+  <figcaption>A higher interest rate raises the cost of a variable-rate loan.</figcaption>
 </figure>
 
 

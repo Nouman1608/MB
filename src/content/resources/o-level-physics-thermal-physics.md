@@ -209,6 +209,11 @@ Some energy leaks to the surroundings, so the temperature rise is smaller than e
   <figcaption>The lesson’s four calculations drawn as pictures.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-physics-thermal-physics--04-specific-heat-capacity.webp" width="900" height="1050" alt="An insulated metal block with a heater and thermometer, and a circuit with an ammeter in series and a voltmeter across the heater. E = 4.0 x 12 x 300 = 14 400 J and c = 14 400 / (1.0 x 16) = 900 J/(kg C)." loading="lazy">
+  <figcaption>Energy supplied divided by mass and temperature rise gives c.</figcaption>
+</figure>
+
 
 ## 2.2.3 Melting, boiling and evaporation
 
@@ -217,6 +222,12 @@ Some energy leaks to the surroundings, so the temperature rise is smaller than e
 At melting and boiling, energy goes in, but the temperature stays constant until the change is complete. At solidification and condensation, energy goes out, again at constant temperature.
 
 Under standard atmospheric pressure, water melts at 0 °C and its boiling temperature is 100 °C.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-physics-thermal-physics--03-heating-curve.webp" width="900" height="920" alt="A schematic temperature-energy graph from ice to steam with flat parts at 0 and 100 degrees Celsius while melting and boiling. Particle pictures under each part show the arrangement in that state." loading="lazy">
+  <figcaption>During melting and boiling energy is supplied but the temperature stays constant.</figcaption>
+</figure>
+
 
 ### Latent heat
 
@@ -245,6 +256,11 @@ Evaporation is faster when:
   <figcaption>Latent heat increases particle potential energy.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-physics-kinetic-theory-specific-heat-and-latent-heat--05-evaporation-cooling.webp" width="900" height="960" alt="A beaker of liquid with particles; at the surface two fast particles, drawn with gold arrows, escape as vapour. The particles left behind have lower average kinetic energy, so the liquid cools. Evaporation is faster when the liquid is warmer, the surface larger, there is a draught or the air is drier." loading="lazy">
+  <figcaption>The fastest particles leave, so the liquid left behind is cooler.</figcaption>
+</figure>
+
 
 ## 2.3 Transfer of thermal energy
 
@@ -259,12 +275,23 @@ In a solid, vibrating atoms pass energy to their neighbours through the lattice.
   <figcaption>Metals conduct better because free electrons carry energy as well as atom vibrations.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-physics-thermal-physics--06-conduction-rods.webp" width="900" height="920" alt="Four equal rods of copper, iron, glass and wood are heated at one end with a pin stuck on the far end by wax. The pins on copper and iron have fallen, copper first; the pins on glass and wood remain." loading="lazy">
+  <figcaption>The pin on the best conductor falls first.</figcaption>
+</figure>
+
 
 ### 2.3.2 Convection
 
 Convection happens in liquids and gases. A heated region of fluid expands, so its density decreases. It rises, and cooler, denser fluid sinks to take its place. A circulating convection current forms.
 
 **Experiment.** Place one small crystal of potassium permanganate at the bottom of a beaker of water, near one edge, and heat the glass directly below it. The purple streak rises over the flame and sinks on the other side. In air, smoke shows the same circulation above a warm object.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-physics-thermal-physics--05-convection-current.webp" width="900" height="880" alt="A beaker with a purple crystal at one bottom corner heated from below. The purple dye rises over the heated spot, crosses the top, sinks on the far side and returns along the bottom." loading="lazy">
+  <figcaption>Heated water becomes less dense and rises; cooler, denser water sinks to replace it.</figcaption>
+</figure>
+
 
 ### 2.3.3 Radiation
 
@@ -287,6 +314,11 @@ Dull surfaces emit and absorb better than shiny ones. A hotter object, and one w
   <figcaption>Leslie cube and what changes the rate of emission.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-physics-thermal-physics--07-radiation-plates.webp" width="900" height="950" alt="A radiant heater faces a dull black and a shiny plate at equal distance. The black plate absorbs the infrared, its wax melts and its pin falls first; the shiny plate reflects most of it and its pin stays." loading="lazy">
+  <figcaption>Dull black surfaces absorb infrared best; shiny ones reflect it.</figcaption>
+</figure>
+
 
 ### 2.3.4 Everyday applications
 
@@ -298,6 +330,11 @@ Dull surfaces emit and absorb better than shiny ones. A hotter object, and one w
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/o-level-physics-thermal-physics--14-heat-transfer-at-home.webp" width="900" height="1190" alt="Pan: metal base conducts, plastic handle insulates. Radiator: convection loop. Infrared thermometer detects emitted infrared. Loft insulation and double glazing trap air." loading="lazy">
   <figcaption>Everyday pictures of conduction, convection and radiation.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-physics-conservation-and-dissipation-of-energy--07-wall-conduction-rate.webp" width="900" height="1085" alt="Three walls, hot inside and cold outside, with arrows showing energy transferred. A thin high-conductivity wall transfers at rate 8, a wall twice as thick at rate 4, and a wall twice as thick with a quarter of the conductivity at rate 1." loading="lazy">
+  <figcaption>Energy transfer through a wall falls with greater thickness and with lower thermal conductivity.</figcaption>
 </figure>
 
 

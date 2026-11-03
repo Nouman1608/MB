@@ -110,6 +110,12 @@ Three coplanar forces in equilibrium:
 
 **Reminder.** A 60 N weight hangs from a rope and is pulled sideways by a horizontal force until the rope makes 40° with the vertical. Tension = 60 / cos 40° = 78.3 N. Horizontal force = 60 tan 40° = 50.3 N.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-oxfordaqa-physics-motion-and-newtons-laws--03-lift-tension.webp" width="900" height="900" alt="Three free-body diagrams of a 640 kg lift to one scale. Accelerating upward the tension is 7.0 kN, at constant speed 6.3 kN, and decelerating while moving up 5.5 kN, always against a weight of 6.3 kN. Net force is 0.77 kN up, zero, and 0.77 kN down." loading="lazy">
+  <figcaption>Tension is larger than weight when acceleration is upward and smaller when it is downward, T = m(g + a).</figcaption>
+</figure>
+
+
 ## Density, pressure and upthrust (3.2.4)
 
 - ρ = m/V. Convert volumes to m³ before substituting.
@@ -158,6 +164,12 @@ Three coplanar forces in equilibrium:
 8. The forces sum to zero and the moments about any point sum to zero.
 9. Make three holes. Hang the card freely from one hole with a weighted string from the same pin and draw the vertical. Repeat for the other holes. The intersection is the centre of gravity.
 10. The rule's weight acts at 50.0 cm, 10.0 cm from the pivot. M × 10.0 = 0.30 × 30.0, so M = **0.90 kg**.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-oxfordaqa-physics-motion-and-newtons-laws--06-impulse-area.webp" width="900" height="1140" alt="Two force-time graphs. A triangle rising to 800 N at 6 ms and falling to zero at 18 ms has area 7.2 N s, so a 0.16 kg ball leaves at 45 m s-1. Readings at 2 ms intervals are estimated with trapezium strips as 0.0020 x 1630 = 3.26 N s, about 20 m s-1." loading="lazy">
+  <figcaption>Impulse is the area under a force-time graph; use exact shapes for straight lines and strips for a curve.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

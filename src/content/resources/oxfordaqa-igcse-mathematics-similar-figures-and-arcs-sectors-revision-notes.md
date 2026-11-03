@@ -172,6 +172,12 @@ Area = 70/360 × π × (14² − 9²) = 7/36 × 115π = 70.2 cm²
 θ = 20/(24π) × 360 = 95.5° (1 d.p.)
 ```
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-mathematics-similar-figures-and-arcs-sectors--08-similar-sectors-k-k2.webp" width="900" height="780" alt="Two sectors with the same 50 degree angle, drawn to scale: sector A with radius 6 cm and sector B with radius 15 cm. The scale factor is 2.5. The arc lengths are 5 pi over 3 and 25 pi over 6, which are in ratio 2.5, equal to k. The areas are 5 pi and 31.25 pi, in ratio 6.25, equal to k squared." loading="lazy">
+  <figcaption>In similar sectors the arc scales by k and the area by k².</figcaption>
+</figure>
+
+
 ## Order of attack for mixed problems
 
 1. Sketch or label the figure, and mark which measurements match.
@@ -189,12 +195,6 @@ Area = 70/360 × π × (14² − 9²) = 7/36 × 115π = 70.2 cm²
 * **Length ratio versus area ratio.** If areas are in the ratio 16 : 25, lengths are in the ratio 4 : 5.
 * **Proportion in one circle.** For a fixed radius, arc length and sector area are both proportional to the angle.
 * **Two sectors with equal angles are similar.** Their arcs scale by k and their areas by k².
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/oxfordaqa-igcse-mathematics-similar-figures-and-arcs-sectors--08-similar-sectors-k-k2.webp" width="900" height="780" alt="Two sectors with the same 50 degree angle, drawn to scale: sector A with radius 6 cm and sector B with radius 15 cm. The scale factor is 2.5. The arc lengths are 5 pi over 3 and 25 pi over 6, which are in ratio 2.5, equal to k. The areas are 5 pi and 31.25 pi, in ratio 6.25, equal to k squared." loading="lazy">
-  <figcaption>In similar sectors the arc scales by k and the area by k².</figcaption>
-</figure>
-
 
 ## Quick self-test
 

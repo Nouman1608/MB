@@ -196,17 +196,6 @@ Longer, less branched chains pack more closely: stronger and denser. Cross-linke
 
 A chain of N monomer units has N − 1 links, so N − 1 water molecules are released when it forms, and N − 1 are needed to hydrolyse it completely.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ib-dp-chemistry-from-models-to-materials--07-polyester-hl.webp" width="900" height="1010" alt="Butane-1,4-diol and butanedioic acid are drawn bond by bond with the leaving H and OH highlighted in gold. Two H2O are lost per unit to give the ester-linked repeating unit. Atom economy = 172.20 / (90.14 + 118.10) x 100 = 82.7%." loading="lazy">
-  <figcaption>HL only: each ester link forms with loss of water, so atom economy is below 100%.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ib-dp-chemistry-from-models-to-materials--08-polyamide-hydrolysis-hl.webp" width="900" height="1030" alt="Two 4-aminobutanoic acid molecules join head to tail with loss of one H2O to give an amide link, -CONH-; hydrolysis reverses it. A chain of 6 units releases 5 H2O and a protein of 120 amino acids releases 119 H2O." loading="lazy">
-  <figcaption>HL only: condensation releases one water per link; hydrolysis adds it back.</figcaption>
-</figure>
-
-
 ## Quick self-test
 
 1. State what is plotted on each axis of the bonding triangle.
@@ -236,6 +225,17 @@ A chain of N monomer units has N − 1 links, so N − 1 water molecules are rel
 10. The only product is the polymer; every atom of every monomer ends up in it.
 11. An **amide link**, –CONH–, and **water**.
 12. **59**
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-from-models-to-materials--07-polyester-hl.webp" width="900" height="1010" alt="Butane-1,4-diol and butanedioic acid are drawn bond by bond with the leaving H and OH highlighted in gold. Two H2O are lost per unit to give the ester-linked repeating unit. Atom economy = 172.20 / (90.14 + 118.10) x 100 = 82.7%." loading="lazy">
+  <figcaption>HL only: each ester link forms with loss of water, so atom economy is below 100%.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-from-models-to-materials--08-polyamide-hydrolysis-hl.webp" width="900" height="1030" alt="Two 4-aminobutanoic acid molecules join head to tail with loss of one H2O to give an amide link, -CONH-; hydrolysis reverses it. A chain of 6 units releases 5 H2O and a protein of 120 amino acids releases 119 H2O." loading="lazy">
+  <figcaption>HL only: condensation releases one water per link; hydrolysis adds it back.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

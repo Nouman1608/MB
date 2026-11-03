@@ -61,6 +61,11 @@ A firm faces P = 100 - 4Q and has TC = 200 + 24Q (illustrative, mu per week).
 </figure>
 
 <figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-firms-objectives-price-discrimination-and-pricing--12-principal-agent-profit-gap.webp" width="900" height="900" alt="Owners hire managers but cannot see costs and demand well. Firm X's profit maximiser produces 8 at 44 for profit 12; a manager with a target of 9 can choose 7 at 46 and earn 9, 3 mu below the maximum." loading="lazy">
+  <figcaption>Managers may settle for less profit than owners want.</figcaption>
+</figure>
+
+<figure class="topic-figure">
   <img src="https://img.marlbridge.com/ocr-a-level-economics-microeconomics--03-business-objectives.webp" width="900" height="990" alt="Illustrative firm with AR, MR, MC and AC. Profit is maximised at output 60 where MC = MR (price 14, shaded profit). Revenue is maximised at output 100 where MR = 0 (price 10), with lower profit than at 60. Satisficing means aiming for an acceptable, not maximum, profit." loading="lazy">
   <figcaption>Profit is maximised where MC = MR, revenue where MR = 0, and satisficers settle for acceptable profit.</figcaption>
 </figure>
@@ -184,6 +189,11 @@ Price falls from 80 to 72 (a 10% fall) and quantity rises from 500 to 560 (a 12%
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/a-level-economics-price-system-and-the-microeconomy--04-ped-and-total-revenue.webp" width="900" height="1270" alt="Two demand diagrams with the same price cut from 5 to 4. With elastic demand (PED 2.5) quantity rises from 40 to 60: 40 of revenue is lost on existing sales, 80 is gained on extra sales, so revenue rises from 200 to 240. With inelastic demand (PED 0.5) quantity rises only to 44: the loss of 40 outweighs the gain of 16, so revenue falls to 176." loading="lazy">
   <figcaption>Whether a price cut raises revenue depends on whether demand is elastic or inelastic.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-economics-price-system-and-the-microeconomy--01-ped-along-a-straight-line.webp" width="900" height="1030" alt="Straight-line demand curve D with price = 10 minus 0.1 times quantity, teal in its upper half and gold in its lower half. PED is 4 at quantity 20, exactly 1 at quantity 50 and 0.25 at quantity 80, so elasticity falls as you move down the line although the slope is constant. Below, total revenue is 160, then a maximum of 250 at quantity 50 where PED is 1, then 160 again." loading="lazy">
+  <figcaption>Elasticity falls along a straight demand line, and revenue peaks where PED = 1.</figcaption>
 </figure>
 
 

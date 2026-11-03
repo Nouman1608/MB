@@ -115,12 +115,6 @@ With Maclaurin series instead: 1 − cos 2x = 1 − (1 − 2x² + …) = 2x² �
 
 Limits at infinity link to horizontal asymptotes: lim (x→∞) (ln x)/x has form ∞/∞, and one application gives (1/x)/1 → 0.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ib-dp-mathematics-aa-hl-further-calculus--01-limit-at-a-hole.webp" width="900" height="758" alt="The graph of (1 − cos 2x)/x² has an open circle at x = 0 because the expression is 0/0 there. From both sides the values climb towards the dashed line at 2, for example 1.42 at x = ±1 and 1.84 at x = ±0.5. l’Hôpital’s rule applied twice gives (4 cos 2x)/2, which tends to 2." loading="lazy">
-  <figcaption>A 0/0 limit can exist even where the function is undefined; here it equals 2.</figcaption>
-</figure>
-
-
 ## 5.14 Implicit differentiation, related rates, optimisation
 
 When y is not given explicitly, differentiate every term with respect to x and use the chain rule on terms in y: d/dx(y²) = 2y dy/dx, and d/dx(xy) = y + x dy/dx.
@@ -139,8 +133,8 @@ dy/dx = −(2x + y)/(x + 2y) = −4/5 at (1, 2)
 **Optimisation.** Find stationary points, then check the ends of the allowed interval. If A = x(20 − 2x) with 0 ≤ x ≤ 4, the stationary point x = 5 lies outside the domain, so the maximum is at the end point: A(4) = 48.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ib-dp-mathematics-aa-hl-further-calculus--03-implicit-slope.webp" width="900" height="996" alt="The tilted closed curve x² + xy + y² = 7 is drawn with equal axis scales. The point (1, 2) lies on it since 1 + 2 + 4 = 7, and the gold tangent there has gradient −4/5, matching dy/dx = −(2x + y)/(x + 2y)." loading="lazy">
-  <figcaption>Differentiating every term, with dy/dx on y terms, gives the tangent gradient on an implicit curve.</figcaption>
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-aa-hl-further-calculus--01-limit-at-a-hole.webp" width="900" height="758" alt="The graph of (1 − cos 2x)/x² has an open circle at x = 0 because the expression is 0/0 there. From both sides the values climb towards the dashed line at 2, for example 1.42 at x = ±1 and 1.84 at x = ±0.5. l’Hôpital’s rule applied twice gives (4 cos 2x)/2, which tends to 2." loading="lazy">
+  <figcaption>A 0/0 limit can exist even where the function is undefined; here it equals 2.</figcaption>
 </figure>
 
 <figure class="topic-figure">
@@ -209,6 +203,11 @@ Area between a curve and the y-axis from y = a to y = b is ∫ₐᵇ |x| dy. Vol
 ### Worked example 6
 
 For y = x³ between y = 1 and y = 8, x = y^(1/3). The area to the y-axis is ∫₁⁸ y^(1/3) dy = (3/4)(16 − 1) = 45/4. Rotating the same region about the y-axis gives π ∫₁⁸ y^(2/3) dy = (3π/5)(32 − 1) = 93π/5. Rotating y = 1/x, 1 ≤ x ≤ 3, about the x-axis gives π ∫₁³ x⁻² dx = 2π/3.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-aa-hl-further-calculus--03-implicit-slope.webp" width="900" height="996" alt="The tilted closed curve x² + xy + y² = 7 is drawn with equal axis scales. The point (1, 2) lies on it since 1 + 2 + 4 = 7, and the gold tangent there has gradient −4/5, matching dy/dx = −(2x + y)/(x + 2y)." loading="lazy">
+  <figcaption>Differentiating every term, with dy/dx on y terms, gives the tangent gradient on an implicit curve.</figcaption>
+</figure>
 
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/ib-dp-mathematics-aa-hl-further-calculus--05-rotate-about-y-axis.webp" width="900" height="876" alt="The region between x = y^(1/3) and the y-axis for 1 ≤ y ≤ 8 is shaded, with its mirror image. A thin horizontal strip at y = 4 is a disc of radius x. The area to the y-axis is ∫x dy = 45/4 and the volume about the y-axis is π∫x² dy = 93π/5." loading="lazy">

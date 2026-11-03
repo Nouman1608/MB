@@ -105,11 +105,6 @@ Remember: **no malarial life cycle** is needed.
 So penicillin affects only **growing** bacteria, and it does not harm human cells, which have no cell wall.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-level-biology-9700-immunity--01-bacterium-vs-virus.webp" width="900" height="1070" alt="A bacterium is a living prokaryotic cell with a cell wall, ribosomes, a circular chromosome and plasmids. HIV is not a cell: it has an envelope carrying glycoproteins, a protein capsid, two RNA copies and enzymes such as reverse transcriptase. HIV is about 120 nm across and a bacterium about 17 times longer." loading="lazy">
-  <figcaption>A bacterium is a cell; HIV is a particle with RNA, enzymes, a capsid and an envelope.</figcaption>
-</figure>
-
-<figure class="topic-figure">
   <img src="https://img.marlbridge.com/a-level-biology-9700-immunity--03-phagocytosis.webp" width="900" height="1340" alt="Five steps in one phagocyte. Chemicals attract it and receptors bind the pathogen; the membrane wraps round it by endocytosis; it is sealed in a phagosome; a lysosome fuses with the phagosome; enzymes digest the pathogen and antigens are displayed on the cell surface." loading="lazy">
   <figcaption>A phagocyte engulfs a pathogen, digests it with lysosome enzymes and displays its antigens.</figcaption>
 </figure>
@@ -189,6 +184,17 @@ So penicillin affects only **growing** bacteria, and it does not harm human cell
 10. Influenza is caused by a virus. Viruses have no cell wall, ribosomes or metabolism of their own, so there is nothing for the antibiotic to act on.
 11. Resistance genes are often carried on plasmids, which can pass from one bacterium to another, even of a different species, so resistance spreads faster than by reproduction alone.
 12. (250 − 190) ÷ 250 × 100 = **24.0%** (24%).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-immunity--01-bacterium-vs-virus.webp" width="900" height="1070" alt="A bacterium is a living prokaryotic cell with a cell wall, ribosomes, a circular chromosome and plasmids. HIV is not a cell: it has an envelope carrying glycoproteins, a protein capsid, two RNA copies and enzymes such as reverse transcriptase. HIV is about 120 nm across and a bacterium about 17 times longer." loading="lazy">
+  <figcaption>A bacterium is a cell; HIV is a particle with RNA, enzymes, a capsid and an envelope.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-immunity--08-herd-immunity.webp" width="900" height="930" alt="Two grids of 100 people with one case and R0 of 6. With nobody immune the case infects 6 neighbours. With 84 immune, above the 83.3 per cent needed (1 minus 1/6), every neighbour is immune and spread is blocked, protecting those who cannot be vaccinated." loading="lazy">
+  <figcaption>When enough people are immune, a pathogen cannot find susceptible hosts and the outbreak stops.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

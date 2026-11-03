@@ -148,17 +148,6 @@ Every arrow needs a reason. For example, profit falls under a cap because price 
 | Inadequate resources | Low detection, expected fine below gain, rule-breaking pays |
 | Lack of regulatory power | Cannot compel data or fine, firm ignores the regulator |
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/edexcel-ial-economics-competition-policy-and-government-intervention-in--01-firm-m-monopoly.webp" width="900" height="970" alt="Firm M: MR = MC at 45 units gives price 55 and profit 1,225; efficient output is 90 units; the gold triangle is the 1,012.5 cu welfare loss." loading="lazy">
-  <figcaption>The monopolist restricts output to 45 units, leaving a welfare loss of 1,012.5 cu.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/edexcel-ial-economics-competition-policy-and-government-intervention-in--14-limits-to-intervention.webp" width="900" height="740" alt="If Firm M reports fixed costs of 1,064 not 800, the average-cost cap is 24 against true cost 20.5, an extra profit of 264 equal to the overstated cost. A cartel gaining 350 is not deterred by a 200 fine at 40% detection (expected 80); the fine must exceed 875." loading="lazy">
-  <figcaption>Weak information and weak enforcement let firms keep gains the regulator meant to remove.</figcaption>
-</figure>
-
-
 ## Quick self-test
 
 1. Define a contestable market and name one measure that makes a market more contestable.
@@ -190,6 +179,11 @@ Every arrow needs a reason. For example, profit falls under a cap because price 
 12. The regulator relies on the firm's data and staff links, so it sets the cap too high. The firm keeps excess profit and has little pressure to cut costs.
 
 <figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-competition-policy-and-government-intervention-in--01-firm-m-monopoly.webp" width="900" height="970" alt="Firm M: MR = MC at 45 units gives price 55 and profit 1,225; efficient output is 90 units; the gold triangle is the 1,012.5 cu welfare loss." loading="lazy">
+  <figcaption>The monopolist restricts output to 45 units, leaving a welfare loss of 1,012.5 cu.</figcaption>
+</figure>
+
+<figure class="topic-figure">
   <img src="https://img.marlbridge.com/edexcel-ial-economics-competition-policy-and-government-intervention-in--11-return-vs-interest.webp" width="900" height="740" alt="A firm sold for 900 gave the state 60 a year; interest saved at 5% is 45, so the state is 15 a year worse off. Nationalising for 120 million earns 6 million, which beats borrowing at 4% (4.8m) but not at 6% (7.2m)." loading="lazy">
   <figcaption>Whether the state gains depends on whether the earnings beat the interest cost.</figcaption>
 </figure>
@@ -197,6 +191,11 @@ Every arrow needs a reason. For example, profit falls under a cap because price 
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/edexcel-ial-economics-competition-policy-and-government-intervention-in--13-infant-industry-cost.webp" width="900" height="870" alt="A home firm with cost 70 falling 8% a year is plotted against a rival at 50. Cost is 50.1 after 4 years and 46.1 after 5, so about 5 years of protection are needed." loading="lazy">
   <figcaption>Infant-industry protection must last until costs fall to the rival level.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-competition-policy-and-government-intervention-in--14-limits-to-intervention.webp" width="900" height="740" alt="If Firm M reports fixed costs of 1,064 not 800, the average-cost cap is 24 against true cost 20.5, an extra profit of 264 equal to the overstated cost. A cartel gaining 350 is not deterred by a 200 fine at 40% detection (expected 80); the fine must exceed 875." loading="lazy">
+  <figcaption>Weak information and weak enforcement let firms keep gains the regulator meant to remove.</figcaption>
 </figure>
 
 
@@ -210,6 +209,12 @@ Every arrow needs a reason. For example, profit falls under a cap because price 
 - Ignoring time: entry, tendering and trade liberalisation take years to work.
 - No judgement: evaluation stops at "it depends" without saying on what.
 - Quoting the right percentage with the wrong base, such as dividing by the new price instead of the old.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-competition-policy-and-government-intervention-in--12-tender-scores.webp" width="900" height="880" alt="Four bids of 120, 112, 105 and 98 with quality scores 90, 80, 70 and 50 are scored 60% price and 40% quality. Scores are 85.0, 84.5, 84.0 and 80.0, so the dearest bid wins although the lowest saves 27 (21.6%)." loading="lazy">
+  <figcaption>A weighted score stops price-only tendering from choosing the weakest quality.</figcaption>
+</figure>
+
 
 ## Official syllabus
 

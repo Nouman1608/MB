@@ -112,6 +112,11 @@ Total present value = £323,320. **NPV = 323,320 − 240,000 = £83,320.** The p
   <figcaption>NPV discounts future cash to today’s value and subtracts the cost; the result depends on the discount rate.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-business-types-of-strategies--07-net-present-value.webp" width="900" height="890" alt="Cash flows and their present values for years 1 to 5 at 7% using the lesson discount factors; total 269,661 less 222,000 cost gives NPV +47,661." loading="lazy">
+  <figcaption>Discounting makes later cash flows worth less; NPV compares their total with the cost.</figcaption>
+</figure>
+
 
 ## 10.3.4 Investment appraisal decisions
 
@@ -216,6 +221,16 @@ ROCE is the same because it uses profit from operations, before interest. Gearin
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/cambridge-a-level-business-investment-appraisal-and-finance-and-accounting-strategy--07-ia-dividend.webp" width="900" height="940" alt="Profit of 1.08 million pounds split as 0.54 dividend and 0.54 kept gives cover 2.0; halving the dividend to 0.27 keeps 0.81, doubles cover to 4.0 and halves yield. More cash is kept but income investors may be disappointed." loading="lazy">
   <figcaption>Halving the dividend doubles dividend cover and keeps more cash.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-business-managers-leadership-decision-making--09-margins-fall.webp" width="900" height="1010" alt="Revenue grew 20 percent and cost of sales 30 percent. Gross margin fell from 40 to 35 percent, operating margin from 15 to 12 percent and net margin from 10.7 to 7.8 percent." loading="lazy">
+  <figcaption>Cost of sales grew faster than revenue, so every profit margin fell.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-finance-accounts--06-gearing.webp" width="900" height="1120" alt="Two firms with $100k capital employed: 20% geared (loans 20, equity 80) and 70% geared (loans 70, equity 30). With 8% interest, return on equity is 23.0% and 3.0% (low gearing) versus 48.0% and -5.3% (high gearing) in a good and bad year." loading="lazy">
+  <figcaption>Higher gearing magnifies returns in good years and losses in bad years, because interest is paid either way.</figcaption>
 </figure>
 
 

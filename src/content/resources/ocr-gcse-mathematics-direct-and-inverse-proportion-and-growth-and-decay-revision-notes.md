@@ -91,6 +91,11 @@ Use y = kxⁿ with the same four steps. Apply the power or root to x before usin
 </figure>
 
 <figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-mathematics-direct-and-inverse-proportion-and-growth-and-decay--02-currency.webp" width="900" height="770" alt="With an exchange rate of 1 pound equals 1.14 euros, multiply by 1.14 to convert pounds into euros: 450 pounds becomes 513 euros. Divide by 1.14 to convert euros into pounds: 300 euros becomes 263.16 pounds. The pound amount is always the smaller number." loading="lazy">
+  <figcaption>Multiply by 1.14 to go into euros and divide by 1.14 to come back to pounds.</figcaption>
+</figure>
+
+<figure class="topic-figure">
   <img src="https://img.marlbridge.com/igcse-mathematics-0580-proportion--01-direct-shapes.webp" width="900" height="990" alt="Five direct proportion graphs for x from 0 to 4 with k = 1: y = x cubed, x squared, x, square root of x and cube root of x. All start at the origin and pass through (1, 1). The powers rise steeply; the roots flatten." loading="lazy">
   <figcaption>Every direct proportion graph starts at O; powers curve upwards and roots flatten.</figcaption>
 </figure>
@@ -191,6 +196,12 @@ Interest is added to the balance, so the base grows each year. Depreciation is a
 **Different rates each year.** Multiply different multipliers. For falls of 10% then 20%, the multiplier is 0.9 × 0.8 = 0.72. That is a 28% fall overall, not 30%.
 
 **Reversing a change.** Divide by the multiplier. If a price after a 20% rise is £360, the original is 360 ÷ 1.2 = £300.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-mathematics-direct-and-inverse-proportion-and-growth-and-decay--07-van-depreciation.webp" width="900" height="1030" alt="Four bars for a van worth 22,000, 16,500, 14,025 and 12,622.50 pounds after multiplying by 0.75, 0.85 and 0.90. A dashed line marks 11,000 pounds, a 50 per cent fall. The overall multiplier is 0.57375, a fall of 42.6 per cent, not 50." loading="lazy">
+  <figcaption>Multiply the yearly multipliers; the percentages cannot simply be added.</figcaption>
+</figure>
+
 
 ### Higher tier only: exponential formulas
 

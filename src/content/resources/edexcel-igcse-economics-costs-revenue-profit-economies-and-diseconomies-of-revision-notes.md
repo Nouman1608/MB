@@ -59,12 +59,6 @@ ATC = 2,100 / 250   = 8.40
 
 Break-even is where TR = TC, so profit is zero and price equals ATC.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/cambridge-igcse-economics-microeconomic-decision-makers--05-costs-per-unit.webp" width="900" height="1280" alt="AFC falls as output rises, AVC is U-shaped and ATC is their sum, also U-shaped. At 30 units ATC 9 equals AVC 5 plus AFC 4. A table with fixed cost 120 shows total cost and ATC for outputs 10 to 40. Revenue is price times quantity." loading="lazy">
-  <figcaption>Average total cost is total cost divided by output, and is the sum of average fixed and variable cost.</figcaption>
-</figure>
-
-
 ## Economies of scale (1.2.3 b)
 
 - **Economies of scale:** a fall in average cost as the scale of production rises (long run).
@@ -131,6 +125,12 @@ Break-even is where TR = TC, so profit is zero and price equals ATC.
 | Economies of scale and spreading fixed costs | Economies of scale are long-run falls in average cost when all inputs can change; spreading fixed costs is what happens to average fixed cost when output rises with the same premises |
 | Internal and external economies | Inside the firm (own growth) or outside it (industry or area growth) |
 | Economies and diseconomies | Falling average cost on the downward part of LRAC; rising average cost on the upward part |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-economics-microeconomic-decision-makers--05-costs-per-unit.webp" width="900" height="1280" alt="AFC falls as output rises, AVC is U-shaped and ATC is their sum, also U-shaped. At 30 units ATC 9 equals AVC 5 plus AFC 4. A table with fixed cost 120 shows total cost and ATC for outputs 10 to 40. Revenue is price times quantity." loading="lazy">
+  <figcaption>Average total cost is total cost divided by output, and is the sum of average fixed and variable cost.</figcaption>
+</figure>
+
 
 ## More worked reminders
 

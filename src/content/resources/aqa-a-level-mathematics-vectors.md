@@ -59,6 +59,12 @@ a  =  ( −4 )   =  3i − 4j + 2k
 
 In 2D there is no k component. Every method on this page works in 2D and 3D, with one extra component in 3D.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-vectors--07-intersect-or-skew.webp" width="900" height="916" alt="Top views of two pairs of 3D lines. l1 and l2 cross at (5, 4) and both have z = 5 there, so they intersect at (5, 4, 5). l1 and l3 cross in the top view at (-1, 1) but have z = -4 and z = 2, so they are skew." loading="lazy">
+  <figcaption>Two lines can cross in a top view and still miss; the third component decides.</figcaption>
+</figure>
+
+
 ## J2: magnitude and direction
 
 **Magnitude.** By Pythagoras, |xi + yj| = √(x² + y²), and in 3D |xi + yj + zk| = √(x² + y² + z²).

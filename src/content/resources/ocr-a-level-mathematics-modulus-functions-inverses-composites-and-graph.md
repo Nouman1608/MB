@@ -146,6 +146,11 @@ Complete the square: f(x) = (x − 5)² + 5, so the minimum is 5 at x = 5, which
 </figure>
 
 <figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-mathematics-pure-mathematics-1-functions--02-horizontal-line-test.webp" width="900" height="960" alt="Two graphs of y = x squared. For all real x a horizontal line crosses twice (x = -2 and 2), so the function is many-one with no inverse. With x at least 0 the same line crosses once, so it is one-one and has an inverse." loading="lazy">
+  <figcaption>A horizontal line cutting the graph more than once means no inverse exists.</figcaption>
+</figure>
+
+<figure class="topic-figure">
   <img src="https://img.marlbridge.com/a-level-mathematics-pure-mathematics-1-functions--04-composite-domain.webp" width="900" height="780" alt="f(x) = root(x - 1) needs its input to be at least 1. g(x) = x squared - 10 gives an output of at least 1 only when x is at most minus root 11 or at least root 11, so fg has that domain. The graph of g is solid only where g(x) is at least 1." loading="lazy">
   <figcaption>A composite is only defined where the inner function gives an output the outer function accepts.</figcaption>
 </figure>
@@ -220,6 +225,12 @@ Changes inside the brackets act on x and "do the opposite" of what you expect. C
 **Example 13.** y = f(x) has a minimum at (2, −3) and crosses the y-axis at (0, 1). Write down the image of these points under (a) y = f(x − 4), (b) y = f(x/2), (c) y = −2f(x).
 
 (a) Translate 4 right: (6, −3) and (4, 1). (b) Stretch, scale factor 2, from the y-axis: (4, −3) and (0, 1). (c) Multiply y-coordinates by −2: (2, 6) and (0, −2). The minimum becomes a maximum.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-mathematics-pure-mathematics-1-functions--08-modulus-transformations.webp" width="900" height="940" alt="The dashed curve is f(x) = x squared - 2x - 3. Top: y = |f(x)| reflects the part below the x-axis upwards, giving a maximum (1, 4) between the roots -1 and 3. Bottom: y = f(|x|) copies the right-hand part onto the left by reflection in the y-axis, giving a symmetric W shape with roots plus and minus 3." loading="lazy">
+  <figcaption>|f(x)| flips negative parts up; f(|x|) mirrors the right-hand half into the left.</figcaption>
+</figure>
+
 
 ## 7. Combinations of transformations (1.02x, Stage 2)
 

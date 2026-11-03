@@ -42,11 +42,6 @@ These notes condense section 3.3 Business acquisition and merger (A Level conten
   <figcaption>Goodwill is the price paid above the net assets acquired at agreed values: 65,000 - 57,000 = 8,000.</figcaption>
 </figure>
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/cambridge-a-level-accounting-business-acquisition-and-merger--04-acq-whole-or-assets.webp" width="900" height="928" alt="Buying a whole business takes all assets and liabilities for one price and can create goodwill (65,000 against net assets 57,000 gives 8,000). Buying individual assets takes only chosen items at agreed values with no goodwill." loading="lazy">
-  <figcaption>The two kinds of purchase compared: one price and goodwill, or item-by-item values and none.</figcaption>
-</figure>
-
 
 ## The three routes and what changes
 
@@ -83,6 +78,11 @@ These notes condense section 3.3 Business acquisition and merger (A Level conten
 4. Use the new ratio for profits from then on.
 
 <figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-accounting-business-acquisition-and-merger--03-acq-merger.webp" width="900" height="970" alt="Gresley (net assets 24,100 plus goodwill 5,000) and Hobday (16,100 plus 3,000) open with capital of 29,100 and 19,100, giving 48,200 in the new partnership. This equals assets of 56,400 less liabilities of 8,200." loading="lazy">
+  <figcaption>Each partner opens with net assets at agreed values plus agreed goodwill.</figcaption>
+</figure>
+
+<figure class="topic-figure">
   <img src="https://img.marlbridge.com/cambridge-a-level-accounting-business-acquisition-and-merger--02-acq-purchase-account.webp" width="900" height="1030" alt="Journal 1 credits the business purchase account 65,000; Journal 2 debits it 65,000 and credits share capital 24,000, share premium 18,000, debentures 12,000 and bank 11,000, so it clears to nil." loading="lazy">
   <figcaption>Journals 1 and 2 leave the business purchase account at nil.</figcaption>
 </figure>
@@ -101,8 +101,8 @@ These notes condense section 3.3 Business acquisition and merger (A Level conten
 **Seller's profit.** If the buyer pays 65,000 for a business with book net assets of 60,500, the realisation profit is 4,500. It goes to the seller's capital account, or to the partners in their profit-sharing ratio.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/cambridge-a-level-accounting-business-acquisition-and-merger--03-acq-merger.webp" width="900" height="970" alt="Gresley (net assets 24,100 plus goodwill 5,000) and Hobday (16,100 plus 3,000) open with capital of 29,100 and 19,100, giving 48,200 in the new partnership. This equals assets of 56,400 less liabilities of 8,200." loading="lazy">
-  <figcaption>Each partner opens with net assets at agreed values plus agreed goodwill.</figcaption>
+  <img src="https://img.marlbridge.com/cambridge-a-level-accounting-business-acquisition-and-merger--02-acq-consideration.webp" width="900" height="850" alt="The 65,000 price is 24,000 share capital, 18,000 share premium, 12,000 debentures and 11,000 cash. Shares are recorded at nominal 1.00 plus 0.75 premium. Debentures are a liability." loading="lazy">
+  <figcaption>Shares issued at 1.75 split into 1.00 share capital and 0.75 share premium; debentures are debt, not equity.</figcaption>
 </figure>
 
 <figure class="topic-figure">
@@ -179,13 +179,18 @@ For evaluation, always use the figures given, state whether the benefit outweigh
 12. 9,000 and 3,000.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/cambridge-a-level-accounting-business-acquisition-and-merger--02-acq-consideration.webp" width="900" height="850" alt="The 65,000 price is 24,000 share capital, 18,000 share premium, 12,000 debentures and 11,000 cash. Shares are recorded at nominal 1.00 plus 0.75 premium. Debentures are a liability." loading="lazy">
-  <figcaption>Shares issued at 1.75 split into 1.00 share capital and 0.75 share premium; debentures are debt, not equity.</figcaption>
+  <img src="https://img.marlbridge.com/cambridge-a-level-accounting-business-acquisition-and-merger--01-acq-realisation.webp" width="900" height="1076" alt="Vickery Crates realisation account: debits 40,000, 22,000, 13,000 and profit 4,500, credits 14,500 and 65,000, both totals 79,500. The seller receives 65,000 as shares, debentures and cash." loading="lazy">
+  <figcaption>The seller's realisation account balances at 79,500 with a profit to capital of 4,500.</figcaption>
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/cambridge-a-level-accounting-business-acquisition-and-merger--01-acq-realisation.webp" width="900" height="1076" alt="Vickery Crates realisation account: debits 40,000, 22,000, 13,000 and profit 4,500, credits 14,500 and 65,000, both totals 79,500. The seller receives 65,000 as shares, debentures and cash." loading="lazy">
-  <figcaption>The seller's realisation account balances at 79,500 with a profit to capital of 4,500.</figcaption>
+  <img src="https://img.marlbridge.com/cambridge-a-level-accounting-business-acquisition-and-merger--04-acq-whole-or-assets.webp" width="900" height="928" alt="Buying a whole business takes all assets and liabilities for one price and can create goodwill (65,000 against net assets 57,000 gives 8,000). Buying individual assets takes only chosen items at agreed values with no goodwill." loading="lazy">
+  <figcaption>The two kinds of purchase compared: one price and goodwill, or item-by-item values and none.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-accounting-business-acquisition-and-merger--05-acq-weigh-up.webp" width="900" height="990" alt="Four comparisons on Garsdale's own figures: revenue 480,000 to 630,000, goodwill 8,000 against acquired profit 15,280, bank 30,000 to 19,000, interest 4,500 to 5,220." loading="lazy">
+  <figcaption>Weigh an acquisition with the actual figures: gains in scale against costs in cash and interest.</figcaption>
 </figure>
 
 

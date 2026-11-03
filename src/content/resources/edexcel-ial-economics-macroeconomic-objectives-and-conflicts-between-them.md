@@ -118,6 +118,12 @@ Use a chain: **cause** (what raises one objective) → **mechanism** (how it hit
 - **Spare capacity.** Near full capacity, conflicts sharpen; with spare capacity, objectives often move together.
 - **Policy choice.** Governments can tolerate one outcome deliberately.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-objectives-of-government--03-objectives-conflict.webp" width="900" height="1010" alt="Flow from an interest rate cut to higher borrowing and spending. Gains: growth rises and unemployment falls. Side effects: demand-pull inflation risk and a worse balance of payments through more imports. Raising rates does the reverse." loading="lazy">
+  <figcaption>A policy that helps one objective can harm another.</figcaption>
+</figure>
+
+
 ## 3. Inflation and unemployment: the short-run Phillips curve (2a)
 
 The short-run Phillips curve plots **unemployment (horizontal axis)** against **inflation (vertical axis)**. It slopes down and is convex (steeper at low unemployment).
@@ -197,6 +203,11 @@ Goods balance = 605.2 - 720.2 = -115.0 (from -52.0), a worsening of 63.0
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/edexcel-ial-economics-macroeconomic-objectives-and-conflicts-between-them--09-inflation-and-current-account.webp" width="900" height="906" alt="Home prices rise 6.5% against 3.0% abroad, a 3.4% relative rise. Exports fall from 640 to 605.2 and imports rise from 692 to 720.2, so the goods balance worsens from -52.0 to -115.0." loading="lazy">
   <figcaption>Higher relative prices cut exports and raise imports, worsening the current account.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-economics-measurement-of-macroeconomic-performance--02-growth-vs-current-account.webp" width="900" height="1040" alt="A four-step chain: growth policy raises aggregate demand, incomes rise, some spending goes on imports, and the current account worsens. Bars show exports 100 and imports rising from 100 to 118, a deficit of 18." loading="lazy">
+  <figcaption>Growth policy can raise imports faster than exports, creating a short-run conflict.</figcaption>
 </figure>
 
 

@@ -129,12 +129,6 @@ the general graphical signature of any function and its inverse. Questions combi
 growth/decay models with logarithms to solve for an unknown exponent are common, and rely on this
 inverse relationship rather than a separate memorised technique.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ib-dp-mathematics-aa-functions--08-exp-log-inverse.webp" width="900" height="990" alt="Graphs of y = 2 to the x and y = log base 2 of x with the dashed line y = x. They mirror each other in y = x. The point (3, 8) on the exponential reflects to (8, 3) on the logarithm, and (0, 1) to (1, 0). The exponential has horizontal asymptote y = 0 and the logarithm has vertical asymptote x = 0." loading="lazy">
-  <figcaption>y = aˣ and y = logₐ x are inverses, so their graphs are reflections in y = x.</figcaption>
-</figure>
-
-
 ## Exam traps
 
 - Swapping $x$ and $y$ mechanically to find an inverse without first checking the function is
@@ -171,3 +165,14 @@ inverse function can recover the original input without restricting the domain. 
 differentiation and integration operate on functions, so fluency with function notation, graphing and
 equation-solving underpins nearly every Calculus technique. 5. Any two of: linear, quadratic,
 exponential, logarithmic, rational.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-aa-functions--01-domain-and-range.webp" width="900" height="810" alt="Graph of f(x) = square root of (x + 2) between x = -2 and x = 7. The allowed inputs, the domain, are marked on the x-axis from -2 to 7, and the outputs, the range, on the y-axis from 0 to 3. Dashed lines from the end point (7, 3) show where the range ends." loading="lazy">
+  <figcaption>The domain is the set of inputs, the range the set of outputs, shown here for f(x) = √(x + 2).</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-aa-functions--08-exp-log-inverse.webp" width="900" height="990" alt="Graphs of y = 2 to the x and y = log base 2 of x with the dashed line y = x. They mirror each other in y = x. The point (3, 8) on the exponential reflects to (8, 3) on the logarithm, and (0, 1) to (1, 0). The exponential has horizontal asymptote y = 0 and the logarithm has vertical asymptote x = 0." loading="lazy">
+  <figcaption>y = aˣ and y = logₐ x are inverses, so their graphs are reflections in y = x.</figcaption>
+</figure>
+

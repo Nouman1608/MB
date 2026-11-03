@@ -154,6 +154,11 @@ Match the finance to four things: how long the money is needed, how much is need
   <figcaption>Finance can come from inside or outside the business, and the right source depends on the situation and the time needed.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-accounting-types-of-business-organisation--04-debt-vs-shares.webp" width="900" height="960" alt="A 100,000 pound loan at 6 percent costs 6,000 pounds interest every year whatever the profit (illustrative bars of 20,000, 6,000 and 0). Issuing 100 new shares to investors cuts an owner's stake from 100 percent to 50 percent." loading="lazy">
+  <figcaption>Debt carries fixed interest whatever the profit; new shares dilute ownership and control.</figcaption>
+</figure>
+
 
 ## 4 Forms of business
 
@@ -189,6 +194,16 @@ A public limited company (plc) can offer its shares to the public. Stock market 
   <figcaption>Gains and costs of floating on the stock market.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-accounting-types-of-business-organisation--01-ownership-ladder.webp" width="900" height="1000" alt="Four columns compare sole trader, partnership, private Ltd and public plc: number of owners, liability (unlimited for the first two, limited for the last two) and a rising staircase of reporting duties. Reporting grows from minimal to the most extensive disclosure and audit for a plc." loading="lazy">
+  <figcaption>As a business becomes more formal, liability becomes limited and reporting duties grow.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-business-business-in-the-real-world--07-franchising.webp" width="900" height="800" alt="The franchisor gives the franchisee its brand, training and support. The franchisee pays fees and royalties and uses their own capital for the outlet. Franchising is not a form of ownership: the franchisee trades as a sole trader, partnership or company, and that sets liability." loading="lazy">
+  <figcaption>Franchising grows a brand using the franchisee’s capital, but liability follows the franchisee’s own legal form.</figcaption>
+</figure>
+
 
 ## 5 Liability
 
@@ -210,6 +225,16 @@ Unlimited-liability businesses rely on personal savings, retained profit, loans 
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/edexcel-ial-business-planning-a-business-and-raising-finance--09-ardent-kiln-liability.webp" width="900" height="980" alt="Assets 48,000 against debts 75,000 leave a 27,000 shortfall. A sole trader with 40,000 personal assets pays 27,000 and keeps 13,000. A Ltd shareholder who paid 20,000 loses at most 20,000 and unpaid creditors bear the rest." loading="lazy">
   <figcaption>Unlimited versus limited liability with the Ardent Kiln numbers.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-accounting-types-of-business-organisation--03-finance-access.webp" width="900" height="1086" alt="A grid shows which of seven named sources each ownership type can use: owner's capital for sole traders, partners' capital for partnerships, shares and debentures for limited companies (mainly large-scale for plcs), and overdraft, loan and mortgage for all. A Cambridge-only box names instalments, leasing, trade credit and secured/unsecured loans." loading="lazy">
+  <figcaption>Match each source of finance to the ownership types that can realistically use it.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-accounting-types-of-business-organisation--02-liability.webp" width="900" height="870" alt="With illustrative numbers, debts of 50,000 pounds exceed business assets of 20,000 pounds by 30,000. A sole trader's own assets can be used to pay the shortfall, while a limited company shareholder loses at most the 10,000 pounds invested." loading="lazy">
+  <figcaption>Unlimited liability puts personal assets at risk; limited liability caps the loss at the amount invested.</figcaption>
 </figure>
 
 

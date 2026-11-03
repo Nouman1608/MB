@@ -63,6 +63,11 @@ How to interpret a feedback data set:
   <figcaption>Temperature control is negative feedback: receptors, hypothalamus and effectors reverse any change from the set point.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-homeostasis--04-pct-reabsorption.webp" width="900" height="940" alt="One proximal tubule cell between filtrate (left) and blood (right) with microvilli, mitochondria and tight junctions. Step 1: a sodium-potassium pump moves Na+ out of the cell using ATP. Step 2: Na+ diffuses in through a co-transporter carrying glucose. Step 3: glucose leaves by facilitated diffusion. Step 4: water follows by osmosis." loading="lazy">
+  <figcaption>Active transport of sodium out of the cell drives co-transport of glucose in, and water follows by osmosis.</figcaption>
+</figure>
+
 
 ## 3.6.4.2 Blood glucose control
 
@@ -111,8 +116,23 @@ Memory line: hormone, receptor, adenylate cyclase, ATP to cAMP, protein kinase, 
 - To evaluate: judge sample size, correlation against cause, funding and who gains.
 
 <figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-homeostasis--03-ultrafiltration.webp" width="900" height="1100" alt="Blood with red cells, plasma proteins and small molecules lies on the left. Fluid crosses the endothelium with gaps, the basement membrane mesh and the podocyte slits into the capsule space. Water, glucose, urea and ions pass; cells and proteins stay. A bar diagram of AQA example pressures (9.6 out, 2.1 and 4.5 back) gives 3.0 kPa net outward." loading="lazy">
+  <figcaption>Blood is forced through three layers; the basement membrane is the main filter, and cells and proteins stay in the blood.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-homeostasis--06-adh-osmoregulation.webp" width="900" height="1010" alt="Top: a fall in blood water potential makes hypothalamus osmoreceptors shrink and signal the posterior pituitary by impulses, which releases ADH into the blood, going to the kidney. Bottom: two collecting duct cells. With little ADH vesicles stay inside and little water leaves; with ADH the vesicles fuse, aquaporin pores open and more water leaves by osmosis, giving small concentrated urine." loading="lazy">
+  <figcaption>ADH makes the collecting duct more permeable to water by inserting aquaporins, so less water is lost in urine.</figcaption>
+</figure>
+
+<figure class="topic-figure">
   <img src="https://img.marlbridge.com/a-level-biology-9700-homeostasis--07-blood-glucose-control.webp" width="900" height="1110" alt="A graph of blood glucose against time with a shaded 4 to 6 mmol per dm cubed band: a meal raises it and insulin brings it back, exercise lowers it and glucagon raises it. Below, glucose too high: beta cells release insulin, the liver makes glycogen and muscle and fat cells gain glucose channels. Glucose too low: alpha cells release glucagon, the liver breaks glycogen down and makes glucose from amino acids and glycerol." loading="lazy">
   <figcaption>Insulin lowers and glucagon raises blood glucose, acting on the liver and on muscle and fat cells.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-homeostasis--08-second-messenger.webp" width="900" height="1040" alt="A liver cell membrane with glucagon outside. Glucagon binds a receptor; a G-protein is activated; adenylyl cyclase makes cAMP from ATP; cAMP activates protein kinase A; an enzyme cascade amplifies the signal (for example 50 at each of three stages gives 125 000); glycogen is broken down to glucose." loading="lazy">
+  <figcaption>Glucagon never enters the cell: cAMP relays the message and the enzyme cascade amplifies it.</figcaption>
 </figure>
 
 <figure class="topic-figure">
@@ -158,12 +178,6 @@ Worked reminder: stock 100 mmol dm⁻³, make 20 cm³ of 25 mmol dm⁻³. Stock 
 - Insulin binds to a surface receptor and never enters the cell.
 - Type I (too little insulin) versus type II (poor response to insulin).
 - Negative feedback (corrects) versus positive feedback (amplifies).
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-level-biology-9700-homeostasis--08-second-messenger.webp" width="900" height="1040" alt="A liver cell membrane with glucagon outside. Glucagon binds a receptor; a G-protein is activated; adenylyl cyclase makes cAMP from ATP; cAMP activates protein kinase A; an enzyme cascade amplifies the signal (for example 50 at each of three stages gives 125 000); glycogen is broken down to glucose." loading="lazy">
-  <figcaption>Glucagon never enters the cell: cAMP relays the message and the enzyme cascade amplifies it.</figcaption>
-</figure>
-
 
 ## Quick self-test
 

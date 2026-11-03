@@ -190,6 +190,11 @@ A depreciation has the opposite effects, with higher import prices and a boost t
   <figcaption>An appreciation makes exports dearer and imports cheaper.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-macroeconomics--07-exchange-rate.webp" width="900" height="910" alt="Demand for pounds shifts right from D1 to D2 against a fixed supply S, so the price of a pound rises from 1.50 to 1.60 dollars. The pound has appreciated." loading="lazy">
+  <figcaption>A rise in demand for a currency makes it appreciate, making exports dearer and imports cheaper.</figcaption>
+</figure>
+
 
 ## Influencing the money supply
 

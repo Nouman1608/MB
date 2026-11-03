@@ -62,6 +62,12 @@ Condensed recall for section 1.1 of OCR A Level Biology A (H420, Version 4.1, Ap
 
 Dilution reminder: 10 cm³ of 1.0 mol dm⁻³ stock made up to 40 cm³ gives 0.25 mol dm⁻³.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-organisation-of-the-organism--07-magnification.webp" width="900" height="1200" alt="A tiny real cell of 0.02 mm is magnified to a 60 mm image measured on a ruler. Magnification equals image size divided by actual size, 60 mm divided by 0.02 mm, which is times 3000. Both sizes must be in the same units. Extended: 1 mm equals 1000 micrometres, so 0.02 mm is 20 micrometres." loading="lazy">
+  <figcaption>Magnification is image size divided by actual size, using the same units.</figcaption>
+</figure>
+
+
 ## 1.1.3 Analysis
 
 ### Formulas

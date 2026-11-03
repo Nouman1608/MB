@@ -187,12 +187,6 @@ Ask these questions in order.
 
 When asked to explain the use and the limit, state both and give one example of an undetected error.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/aqa-a-level-accounting-double-entry-model--09-trial-balance-blind-spots.webp" width="900" height="968" alt="Six small debit and credit examples show omission, commission, principle, original entry, reversal and compensating errors. In each, total debits still equal total credits, so the trial balance agrees even though the books are wrong." loading="lazy">
-  <figcaption>A balanced trial balance does not prove the books are correct.</figcaption>
-</figure>
-
-
 ## Quick self-test
 
 1. In which column does a returns outwards balance go?
@@ -218,6 +212,12 @@ When asked to explain the use and the limit, state both and give one example of 
 8. Complete reversal.
 9. Use: a quick check that debits equal credits. Limitation: some errors, such as compensating errors, leave the totals equal and are not shown.
 10. Any two of: a credit balance of 270 in the debit column; a credit balance of 540 left off the list; a transposition giving a difference of 540.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-double-entry-model--09-trial-balance-blind-spots.webp" width="900" height="968" alt="Six small debit and credit examples show omission, commission, principle, original entry, reversal and compensating errors. In each, total debits still equal total credits, so the trial balance agrees even though the books are wrong." loading="lazy">
+  <figcaption>A balanced trial balance does not prove the books are correct.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

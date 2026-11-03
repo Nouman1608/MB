@@ -49,6 +49,11 @@ Course pages: the [OxfordAQA A-level Economics hub](/boards/oxfordaqa/a-level/ec
   <figcaption>A rival's entry destroys P's profit but lowers price and raises consumer surplus.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-economics-government-microeconomic-intervention--08-monopoly-welfare-loss.webp" width="900" height="910" alt="Demand (AR) slopes down with marginal revenue below it and marginal cost sloping up. The monopolist produces where MR = MC: output 40 at price 10. The allocatively efficient output is where price = MC: output 60 at price 8. The triangle between 40 and 60 is the welfare loss, area 40." loading="lazy">
+  <figcaption>A monopolist restricts output below the allocatively efficient level and charges a higher price.</figcaption>
+</figure>
+
 
 ## 3.3.3.9 Efficiency
 
@@ -173,32 +178,6 @@ Tariff identity: loss of CS = gain in PS + tariff revenue + DWL.
 - Does MC include external costs? If not, surplus overstates welfare.
 - Is the surplus measurable? Willingness to pay depends on income.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-competitive-dynamics-efficiency-and-consumer-and--01-surplus-competition-v-monopoly.webp" width="900" height="1130" alt="Demand P = 60 - 2Q and MC = 12 + 2Q are drawn twice. Under competition (Q 12, P 36) CS and PS are 144 each. Under monopoly (Q 8, P 44) CS is 64, PS 192 and the deadweight loss triangle is 32, so the total is still 288 and consumers lose 80 while the firm gains 48." loading="lazy">
-  <figcaption>The lesson's own competition and monopoly numbers, with every surplus area shaded.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-competitive-dynamics-efficiency-and-consumer-and--03-tariff-surplus.webp" width="900" height="990" alt="At the world price of 18 imports are 15. A tariff of 6 lifts the price to 24, cuts imports to 9, moves 45 to producers and 54 to government, and loses 18 as deadweight loss, which together equal the 117 consumers lose." loading="lazy">
-  <figcaption>A 6 tariff splits the consumers' loss into producer gain, government revenue and deadweight loss.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-competitive-dynamics-efficiency-and-consumer-and--05-perfect-price-discrimination.webp" width="900" height="1170" alt="With D: P = 60 - 2Q and MC: P = 12 + 2Q, perfect discrimination gives output 12, CS 0, PS 288 and no deadweight loss. Bars compare the 288 total split under one monopoly price (64, 192, 32), perfect discrimination (288) and competition (144, 144)." loading="lazy">
-  <figcaption>Perfect discrimination is allocatively efficient but the firm takes the whole surplus.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-competitive-dynamics-efficiency-and-consumer-and--06-third-degree-discrimination.webp" width="900" height="1300" alt="Group A (P = 50 - 2Q) buys 10 at 30 and group B (P = 30 - 2Q) buys 5 at 20, with MC 10. Profit 250, CS 125, total 375. One price of 25 gives Q 15, profit 225, CS 162.5, total 387.5: discrimination raises profit by 25 and cuts consumer and total surplus." loading="lazy">
-  <figcaption>Two prices raise profit by 25 but cut consumer surplus by 37.5 and total surplus by 12.5.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ib-dp-economics-demand-supply-equilibrium--04-ib-consumer-producer-surplus.webp" width="900" height="962" alt="Demand and supply meet at price 7 and quantity 50. The triangle below demand and above price is consumer surplus (125); the triangle above supply and below price is producer surplus (125). Together they make social surplus of 250." loading="lazy">
-  <figcaption>Consumer surplus plus producer surplus equals social surplus, shown as areas on the equilibrium diagram.</figcaption>
-</figure>
-
-
 ## Quick self-test
 
 1. What must be true of output for a firm to be productively efficient?
@@ -224,6 +203,32 @@ Tariff identity: loss of CS = gain in PS + tariff revenue + DWL.
 8. No. P exceeds MC by 15, so consumers value extra units above their cost and too little is produced.
 9. The consumer surplus transferred to producers and the tariff revenue transferred to the government.
 10. Patents, large sunk costs or control of supply raise barriers to entry.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-competitive-dynamics-efficiency-and-consumer-and--01-surplus-competition-v-monopoly.webp" width="900" height="1130" alt="Demand P = 60 - 2Q and MC = 12 + 2Q are drawn twice. Under competition (Q 12, P 36) CS and PS are 144 each. Under monopoly (Q 8, P 44) CS is 64, PS 192 and the deadweight loss triangle is 32, so the total is still 288 and consumers lose 80 while the firm gains 48." loading="lazy">
+  <figcaption>The lesson's own competition and monopoly numbers, with every surplus area shaded.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-competitive-dynamics-efficiency-and-consumer-and--03-tariff-surplus.webp" width="900" height="990" alt="At the world price of 18 imports are 15. A tariff of 6 lifts the price to 24, cuts imports to 9, moves 45 to producers and 54 to government, and loses 18 as deadweight loss, which together equal the 117 consumers lose." loading="lazy">
+  <figcaption>A 6 tariff splits the consumers' loss into producer gain, government revenue and deadweight loss.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-competitive-dynamics-efficiency-and-consumer-and--05-perfect-price-discrimination.webp" width="900" height="1170" alt="With D: P = 60 - 2Q and MC: P = 12 + 2Q, perfect discrimination gives output 12, CS 0, PS 288 and no deadweight loss. Bars compare the 288 total split under one monopoly price (64, 192, 32), perfect discrimination (288) and competition (144, 144)." loading="lazy">
+  <figcaption>Perfect discrimination is allocatively efficient but the firm takes the whole surplus.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-competitive-dynamics-efficiency-and-consumer-and--06-third-degree-discrimination.webp" width="900" height="1300" alt="Group A (P = 50 - 2Q) buys 10 at 30 and group B (P = 30 - 2Q) buys 5 at 20, with MC 10. Profit 250, CS 125, total 375. One price of 25 gives Q 15, profit 225, CS 162.5, total 387.5: discrimination raises profit by 25 and cuts consumer and total surplus." loading="lazy">
+  <figcaption>Two prices raise profit by 25 but cut consumer surplus by 37.5 and total surplus by 12.5.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-economics-demand-supply-equilibrium--04-ib-consumer-producer-surplus.webp" width="900" height="962" alt="Demand and supply meet at price 7 and quantity 50. The triangle below demand and above price is consumer surplus (125); the triangle above supply and below price is producer surplus (125). Together they make social surplus of 250." loading="lazy">
+  <figcaption>Consumer surplus plus producer surplus equals social surplus, shown as areas on the equilibrium diagram.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

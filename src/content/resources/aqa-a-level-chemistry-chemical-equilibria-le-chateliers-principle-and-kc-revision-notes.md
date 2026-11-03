@@ -34,12 +34,6 @@ Course links: [AQA A-Level Chemistry hub](/boards/aqa/a-level/chemistry/) | [pri
 - **Le Chatelier's principle:** if a factor affecting a system at equilibrium is changed, the position of equilibrium shifts to oppose the change.
 - **Catalyst:** speeds up forward and reverse reactions equally; equilibrium is reached faster; the position does not change.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-chemical-equilibria-le-chateliers-principle-and-kc--01-dynamic-equilibrium.webp" width="900" height="1010" alt="Two graphs of a reversible reaction A to B. Concentrations of A and B level off at constant but unequal values. The forward rate falls and the reverse rate rises until they are equal, which marks equilibrium." loading="lazy">
-  <figcaption>At equilibrium the forward and reverse rates are equal and concentrations are constant, not equal.</figcaption>
-</figure>
-
-
 ## Le Chatelier at a glance (3.1.6.1)
 
 | Change | Shift in position | Why |
@@ -209,6 +203,17 @@ Working backwards: Kc falls as temperature rises → forward reaction exothermic
 9. 2 s.f.
 10. Endothermic.
 11. Kc is unchanged; the position shifts to the right.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-chemical-equilibria-le-chateliers-principle-and-kc--01-dynamic-equilibrium.webp" width="900" height="1010" alt="Two graphs of a reversible reaction A to B. Concentrations of A and B level off at constant but unequal values. The forward rate falls and the reverse rate rises until they are equal, which marks equilibrium." loading="lazy">
+  <figcaption>At equilibrium the forward and reverse rates are equal and concentrations are constant, not equal.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-chemical-equilibria-le-chateliers-principle-and-kc--08-kp-partial-pressure.webp" width="900" height="930" alt="Two aligned bars show mole fractions of N2, H2 and NH3 (0.250, 0.625, 0.125) multiplied by 20.0 MPa to give partial pressures 5.00, 12.5 and 2.50 MPa. Kp = 2.50^2 / (5.00 x 12.5^3) = 6.40 x 10^-4 MPa^-2." loading="lazy">
+  <figcaption>Partial pressure is mole fraction times total pressure, and Kp uses partial pressures of gases only.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

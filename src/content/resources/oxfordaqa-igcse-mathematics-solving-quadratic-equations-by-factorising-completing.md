@@ -282,6 +282,11 @@ Try 2x² + 3x + 4 = 0. Here b² − 4ac = 9 − 32 = −23. A negative number ha
   <figcaption>The two answers from the formula are where the curve meets the x-axis.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-maths-4ma1-quadratic-equations--04-quad-discriminant.webp" width="900" height="1010" alt="Three parabolas: 3x² − 7x + 1 (b² − 4ac = 37) crosses the x-axis twice; x² − 6x + 9 (0) touches it once at x = 3; x² − 2x + 3 (−8) never reaches it, so there are no real solutions." loading="lazy">
+  <figcaption>Positive discriminant: two solutions; zero: one repeated solution; negative: none.</figcaption>
+</figure>
+
 
 ## Choosing a method
 

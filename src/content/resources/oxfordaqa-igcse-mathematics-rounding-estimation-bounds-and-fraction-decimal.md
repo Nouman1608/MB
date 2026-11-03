@@ -123,6 +123,12 @@ Dividing by 0.05 is the same as multiplying by 20. The exact value is 4 041.6 (1
 
 Each number went up when rounded, so the product comes out too big: an over-estimate. The exact total is £108.36.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-estimation-and-using-a-calculator--03-estimate-calculation.webp" width="900" height="800" alt="62.4, 0.187 and 3.87 are rounded to 60, 0.2 and 4. The estimate is (60 x 0.2) / 4 = 3. On a number line it lies right next to the calculator value 3.015." loading="lazy">
+  <figcaption>Round every number to 1 s.f., write the rounded calculation, and work it out.</figcaption>
+</figure>
+
+
 ## 4. Upper and lower bounds (N11, Extension only)
 
 When values are rounded, a calculation using them gives a range of possible answers. The **lower bound** of a value is the bottom of its error interval. The **upper bound** is the top of its error interval. Use the upper bound of 14.6 as 14.65, even though the true value is strictly below it.
@@ -213,6 +219,11 @@ Multiply or divide the top and bottom of a fraction by the same number to get an
   <figcaption>Multiply or divide top and bottom by the same number: the shaded share does not change.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-fractions-decimals-percentages-ordering-operations--01-fraction-decimal-percentage.webp" width="900" height="830" alt="A bar of 16 equal parts with 7 shaded, a 0 to 1 scale and a 0 to 100% scale mark the same point. Dividing 7 by 16 gives 0.4375, and multiplying by 100 gives 43.75%." loading="lazy">
+  <figcaption>7/16 as a fraction, decimal and percentage are all the same point.</figcaption>
+</figure>
+
 
 ## 6. Recurring decimals (N12, Extension only)
 
@@ -249,6 +260,11 @@ The whole number 1 stays. 0.2̇4̇ = 24/99 = 8/33, so the number is 1 8/33, or 4
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/oxfordaqa-igcse-mathematics-rounding-estimation-bounds-and-fraction-decimal--10-round-recurring-start.webp" width="900" height="700" alt="Digit strips line up 100x = 38.33333 and 10x = 3.83333. After the first decimal place the repeating 3s are identical in both rows, so subtracting gives exactly 34.5. Then 90x = 34.5 and x = 23/60." loading="lazy">
   <figcaption>Multiply by 10 and 100 so the repeating tails line up, then subtract: they cancel, leaving 90x = 34.5.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-fractions-decimals-percentages-ordering-operations--03-recurring-to-fraction.webp" width="900" height="870" alt="Two rows of digit boxes show x = 0.3636... and 100x = 36.3636... with identical tails after the decimal point. Subtracting gives 99x = 36, so x = 36/99 = 4/11." loading="lazy">
+  <figcaption>Multiplying by 100 lines up the repeating tails so that subtracting removes them.</figcaption>
 </figure>
 
 

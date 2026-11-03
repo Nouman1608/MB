@@ -140,6 +140,11 @@ Measuring across several wavelengths reduces the percentage uncertainty in λ.
   <figcaption>Path difference n lambda gives reinforcement; (n + 1/2) lambda gives cancellation.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-physics-waves--09-aphy-waves-grating.webp" width="900" height="1060" alt="Two neighbouring slits show the path difference d sin theta between adjacent rays; a maximum occurs when it equals n lambda. For 300 lines per mm and 589 nm, d = 3.33 micrometres and maxima appear at 10.2, 20.7, 32.0, 45.0 and 62.1 degrees for orders 1 to 5 each side, so 11 maxima; the highest order is 5." loading="lazy">
+  <figcaption>Maxima occur where d sin theta = n lambda; the highest order is d/lambda rounded down.</figcaption>
+</figure>
+
 
 ## Transverse and longitudinal waves
 

@@ -162,6 +162,11 @@ Radioactive decay is **random and spontaneous** — you cannot predict when a gi
   <figcaption>The four parts of a reactor each have one job.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-physics-radioactivity-and-particles--06-fusion.webp" width="900" height="1210" alt="Three rows. Cool hydrogen nuclei repel each other. At very high temperature and pressure they get close. They join to make helium-4 and a neutron, releasing energy because mass is lost. The equation hydrogen-2 plus hydrogen-3 gives helium-4 plus a neutron balances." loading="lazy">
+  <figcaption>Fusion needs very high temperature and pressure to overcome the repulsion between nuclei.</figcaption>
+</figure>
+
 
 ## Safety
 
@@ -196,3 +201,39 @@ Reduce exposure by **shielding** (lead, concrete), **distance**, and **limiting 
 5. Why is fusion difficult to achieve on Earth?
 
 **Answers:** 1. *(Background, not examinable.)* Most passed through — the atom is mostly empty space; some deflected — the nucleus is positively charged; a few rebounded — the nucleus is very small and contains most of the mass. 2. Alpha would be completely absorbed and gamma would pass through almost unaffected, so neither would vary with thickness; beta is partly absorbed, so the count rate responds to thickness changes. 3. Mass number is unchanged and atomic number increases by one, because a neutron converts into a proton and an emitted electron. 4. The average time for half the undecayed nuclei in a sample to decay; decay is random, so only the average behaviour of a large number of nuclei is predictable. 5. Both nuclei are positively charged and repel each other, so extremely high temperatures and pressures are needed to bring them close enough to fuse.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-radiation-hazards-medical-uses-fission-and-fusion--01-irradiation-contamination.webp" width="900" height="910" alt="Top: a sealed source in a lead case sends radiation towards a person, who does not become radioactive. Bottom: radioactive atoms on the skin and inside a person emit radiation from where they are, so the exposure goes wherever the person goes." loading="lazy">
+  <figcaption>Irradiation is exposure to a source outside you; contamination is having the radioactive atoms on or in you.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-physics-nuclear-physics--03-safety-rules.webp" width="900" height="890" alt="Three rules: less time (short exposure beats long), more distance (long tongs, never by hand), shielding (lead or concrete absorbs radiation)." loading="lazy">
+  <figcaption>Time, distance and shielding reduce exposure.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-ionisation-half-life-and-penetrating-power--08-background-subtraction.webp" width="900" height="740" alt="Detector reading 372 per minute is 352 from the source plus 20 background. After 9 hours (3 half-lives of 3 h) only the source count is divided by 8 to 44, so the reading is 64 per minute. Dividing 372 by 8 gives 46.5 and is wrong." loading="lazy">
+  <figcaption>Only the source part of a count rate halves each half-life.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-physics-radioactivity-and-particles--02-background-sources.webp" width="900" height="770" alt="Natural sources (rocks, cosmic rays, food) and artificial sources (medical procedures, nuclear industry) all deliver radiation to a person." loading="lazy">
+  <figcaption>Background radiation comes from natural and artificial sources.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-physics-radioactivity-and-particles--07-thickness-gauge.webp" width="900" height="940" alt="A source, a sheet and a counter above a graph of count rate against sheet thickness. Beta falls smoothly as the sheet thickens, alpha is stopped completely, and gamma hardly changes, so beta is used to monitor thickness." loading="lazy">
+  <figcaption>Only beta radiation changes noticeably when the thickness changes.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-physics-nuclear-physics--08-nuc-smoke-alarm.webp" width="900" height="1075" alt="Two plates with an americium-241 alpha source between them. In clean air alpha ionises the air and a small current flows. Smoke absorbs the alpha particles, so fewer ions form, the current falls and the alarm sounds." loading="lazy">
+  <figcaption>Smoke soaks up alpha particles, so the current drops and the alarm goes off.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-physics-radioactivity-and-particles--04-medical-tracer.webp" width="900" height="1090" alt="A gamma tracer inside the body is detected outside. A graph contrasts a short and a long half-life (illustrative values 6 h and 72 h)." loading="lazy">
+  <figcaption>A gamma source passes out of the body; a short half-life makes the activity fade fast.</figcaption>
+</figure>
+

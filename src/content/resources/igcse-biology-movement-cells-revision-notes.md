@@ -135,12 +135,6 @@ you would vary and measure the effect of surface area, temperature, concentratio
 on the rate of diffusion — for example, using agar blocks of different sizes with a coloured indicator
 to measure how quickly a substance diffuses to the centre.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-biology-movement-into-and-out-of-cells--05-dialysis-tubing.webp" width="900" height="960" alt="A bag of dialysis tubing holding strong solution hangs in a beaker of water. At the start the bag is small. Later it has swollen because water entered by osmosis, while the same solute particles stay inside. Measuring its mass before and after shows the change." loading="lazy">
-  <figcaption>Water enters the tubing bag by osmosis, so it swells and gains mass.</figcaption>
-</figure>
-
-
 ## Exam traps
 
 - Using Supplement-only osmosis vocabulary (water potential) when the question only requires the Core
@@ -151,6 +145,12 @@ to measure how quickly a substance diffuses to the centre.
   membrane, not a fully separate process.
 - For practicals, not being ready to describe both the dialysis-tubing osmosis investigation and how
   to test factors affecting diffusion rate.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-movement-into-and-out-of-cells--05-dialysis-tubing.webp" width="900" height="960" alt="A bag of dialysis tubing holding strong solution hangs in a beaker of water. At the start the bag is small. Later it has swollen because water entered by osmosis, while the same solute particles stay inside. Measuring its mass before and after shows the change." loading="lazy">
+  <figcaption>Water enters the tubing bag by osmosis, so it swells and gains mass.</figcaption>
+</figure>
+
 
 ## Active transport: the Supplement detail
 

@@ -104,6 +104,11 @@ In (b), "greater than 8" starts at 9, so you subtract the cumulative probability
   <figcaption>As λ grows the distribution moves right, spreads out and becomes more symmetric.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-mathematics-the-binomial-and-poisson-distributions-and-the-poisson--06-poisson-critical-region.webp" width="900" height="1010" alt="Bar chart of Po(4.5). The critical region X = 0 or X ≥ 10 is shaded gold with tail probabilities 0.0111 and 0.0171, total 0.0282. The observed 11 lies in the critical region so H0 is rejected." loading="lazy">
+  <figcaption>At the 5% level each tail gets at most 2.5%, and the actual significance level 0.0282 is the probability of a Type I error.</figcaption>
+</figure>
+
 
 ## 3. Changing the interval
 

@@ -35,12 +35,6 @@ These notes condense statements B6.3a to B6.3e of the OCR GCSE (9-1) Gateway Sci
 | Quarantine | Keeping people, animals or plants that might be infected apart, or stopping them entering an area |
 | Sample | A small, ideally random, part of a population used to estimate the whole |
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ocr-gcse-biology-health-disease-types-and-the-spread-and-prevention-of--02-sample-estimate.webp" width="900" height="978" alt="300 circles show a random sample with 27 infected. 27/300 = 0.09 = 9%. A bar for the whole town of 12 000 has 9% shaded, 1080 estimated cases." loading="lazy">
-  <figcaption>A random sample is scaled up to estimate cases in the whole town.</figcaption>
-</figure>
-
-
 ## Health and disease (B6.3a)
 
 - Health = physical, mental and social wellbeing, not just being free of disease.
@@ -188,6 +182,12 @@ Early detection means early isolation, treatment and contact tracing.
 2. Say how strong it is (points close to a line, or scattered).
 3. Do not claim cause unless a biological reason is given; mention other factors.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-health-disease-types-and-the-spread-and-prevention-of--13-mp036-vectors-cases-scatter.webp" width="900" height="900" alt="Scatter of vectors trapped (10 to 79) against clinic cases (3 to 22). Points rise close to a computed line of best fit: strong positive correlation. Correlation alone does not prove cause." loading="lazy">
+  <figcaption>More vectors go with more cases, but correlation alone does not prove cause.</figcaption>
+</figure>
+
+
 ## Worked reminders: interpreting data
 
 **Bar chart of cases.** Read the values from the axis, state the highest and lowest, then compare using numbers. For example, "Ward A fell from 9 to 4 cases, a fall of 5 cases or 56%" scores better than "Ward A went down a lot".
@@ -197,12 +197,6 @@ Early detection means early isolation, treatment and contact tracing.
 **Evaluating a control method.** Give one strength, one limit and a judgement. For example, mosquito nets are cheap and protect sleeping people, but they do nothing against bites during the day, so they work best alongside draining breeding sites.
 
 **Scatter diagram.** Quote two data points to show the trend, such as "at 20 vectors there were 5 cases and at 80 vectors there were 24".
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ocr-gcse-biology-health-disease-types-and-the-spread-and-prevention-of--13-mp036-vectors-cases-scatter.webp" width="900" height="900" alt="Scatter of vectors trapped (10 to 79) against clinic cases (3 to 22). Points rise close to a computed line of best fit: strong positive correlation. Correlation alone does not prove cause." loading="lazy">
-  <figcaption>More vectors go with more cases, but correlation alone does not prove cause.</figcaption>
-</figure>
-
 
 ## Command words for this unit
 
@@ -239,6 +233,12 @@ For a spread question, a reliable structure is pathogen, route, why that route w
 8. 45 ÷ 25 000 × 100 000 = 180 per 100 000.
 9. Visual identification, antigen detection, DNA testing.
 10. (80 − 52) ÷ 80 × 100 = 35%.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-health-disease-types-and-the-spread-and-prevention-of--02-sample-estimate.webp" width="900" height="978" alt="300 circles show a random sample with 27 infected. 27/300 = 0.09 = 9%. A bar for the whole town of 12 000 has 9% shaded, 1080 estimated cases." loading="lazy">
+  <figcaption>A random sample is scaled up to estimate cases in the whole town.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

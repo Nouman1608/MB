@@ -156,6 +156,12 @@ initial rate is proportional to 1/t (clock reactions)
 
 Minimum hot solvent → hot filtration (fluted paper) → slow cooling, then ice → filtration under reduced pressure → wash with ice-cold solvent → dry.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-introduction-to-the-particulate-nature-of-matter--03-recrystallization.webp" width="900" height="1180" alt="Five numbered steps: dissolve in the least hot water, filter hot so sand stays on the paper, cool slowly so crystals form, filter and wash with cold water, and dry. A pure sample then melts sharply." loading="lazy">
+  <figcaption>Dissolve in hot solvent, filter, cool, collect crystals and dry; a sharp melting point checks purity.</figcaption>
+</figure>
+
+
 ### Liquid purification, 1.2.2(g)(ii)
 
 Separating funnel (vent often) → keep the organic layer → dry with an anhydrous salt → distil.
@@ -204,6 +210,31 @@ Separating funnel (vent often) → keep the organic layer → dry with an anhydr
   <figcaption>A constant 38 s half-life shows the reaction is first order.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-kinetics--07-half-life.webp" width="900" height="1060" alt="Two concentration-time graphs. For a first-order reaction each halving (0.80 to 0.40 to 0.20 to 0.10) takes the same 60 s, so k = ln 2 divided by the half-life. For a zero-order reaction the line is straight and successive halvings take 100, 50 and 25 s, with k equal to minus the gradient." loading="lazy">
+  <figcaption>A constant half-life shows first order; in a zero-order reaction successive half-lives shorten.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-reactions-of-ions-in-aqueous-solution--06-anion-sequence.webp" width="900" height="1090" alt="Three numbered steps. Add dilute nitric acid first: fizzing shows carbonate and removes it. Then barium nitrate: a white precipitate shows sulfate, and carbonate must already be gone because BaCO3 is also insoluble. Then silver nitrate followed by ammonia: white, cream or yellow shows a halide, and sulfate must be gone because Ag2SO4 is insoluble." loading="lazy">
+  <figcaption>Test for carbonate, then sulfate, then halide, because each later reagent would also precipitate the ion tested earlier.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-reactions-of-ions-in-aqueous-solution--07-silver-halides.webp" width="900" height="1060" alt="A 3 by 3 grid of tubes for chloride, bromide and iodide. With silver nitrate the precipitates are white, cream and yellow. Dilute ammonia dissolves only silver chloride; concentrated ammonia dissolves silver chloride and silver bromide; silver iodide never dissolves." loading="lazy">
+  <figcaption>Chloride dissolves in dilute NH3, bromide only in concentrated NH3, and iodide does not dissolve.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-aldehydes-and-ketones--02-carbonyl-tests.webp" width="900" height="1110" alt="Three rows of test tubes compare an aldehyde with a ketone. Tollens’ gives a silver mirror only with the aldehyde, Fehling’s a red precipitate on blue only with the aldehyde, and acidified dichromate(VI) turns orange to green only with the aldehyde." loading="lazy">
+  <figcaption>Aldehydes are oxidised by Tollens’, Fehling’s and dichromate; ketones are not (Fehling’s not on OCR; dichromate for OCR and Edexcel).</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-aldehydes-and-ketones--08-dnph-melting-point.webp" width="900" height="1050" alt="An orange precipitate with 2,4-DNPH shows a carbonyl group. A number line gives derivative melting temperatures, with an unknown at 125 degrees C between butanal and propanone. A negative Tollens’ test rules out the aldehyde, so it is propanone." loading="lazy">
+  <figcaption>2,4-DNPH shows C=O; a close melting temperature needs a second test such as Tollens’.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 
@@ -216,6 +247,12 @@ Separating funnel (vent often) → keep the organic layer → dry with an anhydr
 | pH chart vs pH meter | Chart: rough. Meter or probe: precise after calibration with buffers |
 | Pure vs impure solid | Pure: sharp melting point. Impure: lower and over a range |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-organic-synthesis--08-reflux-distillation.webp" width="900" height="1040" alt="Reflux: vertical condenser with its top open, water in at the bottom and out at the top, vapour rising and liquid falling back. Distillation: still head with the thermometer bulb level with the side arm, a sloping condenser with water in and out, and a receiver for the product." loading="lazy">
+  <figcaption>Reflux keeps volatile material in the flask; distillation collects it (OCR and Edexcel content).</figcaption>
+</figure>
+
+
 ## Indicator choice, 1.2.2(f)
 
 | Acid | Base | Indicator |
@@ -224,6 +261,12 @@ Separating funnel (vent often) → keep the organic layer → dry with an anhydr
 | Weak | Strong | Phenolphthalein |
 | Strong | Weak | Methyl orange |
 | Weak | Weak | No sharp end point; use a pH meter |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-acids-and-bases--07-indicator-choice.webp" width="900" height="1260" alt="For each titration type the steep section is shaded and four indicators are drawn as colour ranges. Only indicators fully inside the shaded section get a tick: all four for strong+strong, phenolphthalein for weak acid+strong base, methyl orange and methyl red for strong acid+weak base." loading="lazy">
+  <figcaption>An indicator is suitable only if its whole colour-change range lies inside the steep section of the curve.</figcaption>
+</figure>
+
 
 ## Tests to recall, 1.2.2(d)(iii)
 

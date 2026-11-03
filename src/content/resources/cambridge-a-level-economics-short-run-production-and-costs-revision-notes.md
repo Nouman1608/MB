@@ -92,11 +92,6 @@ MC cuts AVC and ATC at their minimum points, from below. Below the average, MC p
   <figcaption>MC = wage / MP, so MC falls while MP rises and rises when MP falls.</figcaption>
 </figure>
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ocr-a-level-economics-microeconomics--01-short-run-cost-curves.webp" width="900" height="880" alt="Illustrative short-run cost curves: AVC and ATC are U-shaped and MC cuts both at their lowest points; MC starts to rise where diminishing returns set in. Total cost is fixed plus variable cost, and ATC is total cost divided by output." loading="lazy">
-  <figcaption>MC cuts ATC at its lowest point, and MC rises once diminishing returns set in.</figcaption>
-</figure>
-
 
 ## Worked reminder: a small laundry
 
@@ -134,12 +129,6 @@ MP is highest for the second worker, so diminishing returns begins with the thir
 ## A paragraph to learn: how diminishing returns shapes costs
 
 The firm has a fixed factor, so extra workers share it. At first they specialise and MP rises, which pulls MC and AVC down. After the turning point each worker adds less than the one before. The wage is unchanged, so the cost per extra unit rises and MC turns up. Once MC passes AVC, AVC rises. Once MC passes ATC, ATC rises. Fixed costs have no effect on MC at all.
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/cambridge-a-level-economics-short-run-production-and-costs--01-fixed-vs-variable-costs.webp" width="900" height="890" alt="Stacked bars of daily bakery cost for 0 to 7 workers. The oven (60 cu) is fixed and the same in every bar, even at zero workers; wages at 40 cu per worker form the variable part. Total cost is 60, 100, 140, 180, 220, 260, 300, 340. A warning says a wage contract does not make wages fixed if the firm can change worker numbers with output." loading="lazy">
-  <figcaption>Fixed cost is the same at every output; wages vary with the workers hired.</figcaption>
-</figure>
-
 
 ## What shifts which curve
 
@@ -200,6 +189,17 @@ When a question gives a cost diagram, work through it in this order:
 9. TFC is constant, so dividing it by a larger Q always gives a smaller figure.
 10. ATC rises, since the extra unit costs more than the existing average.
 11. Each extra worker adds less output but is paid the same wage, so the cost of each extra unit of output goes up.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-short-run-production-and-costs--01-fixed-vs-variable-costs.webp" width="900" height="890" alt="Stacked bars of daily bakery cost for 0 to 7 workers. The oven (60 cu) is fixed and the same in every bar, even at zero workers; wages at 40 cu per worker form the variable part. Total cost is 60, 100, 140, 180, 220, 260, 300, 340. A warning says a wage contract does not make wages fixed if the firm can change worker numbers with output." loading="lazy">
+  <figcaption>Fixed cost is the same at every output; wages vary with the workers hired.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-microeconomics--01-short-run-cost-curves.webp" width="900" height="880" alt="Illustrative short-run cost curves: AVC and ATC are U-shaped and MC cuts both at their lowest points; MC starts to rise where diminishing returns set in. Total cost is fixed plus variable cost, and ATC is total cost divided by output." loading="lazy">
+  <figcaption>MC cuts ATC at its lowest point, and MC rises once diminishing returns set in.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

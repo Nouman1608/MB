@@ -108,6 +108,11 @@ Always give the axes with units: force in newtons (N) and extension in metres (m
   <figcaption>The gradient of the straight part is the spring constant; the line stops being straight at the limit of proportionality.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/elastic-deformation-moments-and-centre-of-gravity--02-extension-springs.webp" width="900" height="820" alt="Four springs hang with loads of 0, 2, 4 and 6 N. A dashed line marks the natural length; extension x is measured from it and is 0.04, 0.08 and 0.12 m. F divided by x is 50 N/m each time." loading="lazy">
+  <figcaption>Extension is the increase in length from the natural length, not the total length.</figcaption>
+</figure>
+
 
 ## P2.3d: linear and non-linear
 

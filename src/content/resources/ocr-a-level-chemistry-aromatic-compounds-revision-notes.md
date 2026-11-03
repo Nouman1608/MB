@@ -195,6 +195,12 @@ Synthesis rule: put the directing group on first if you want its pattern. Nitrat
 
 For the contrast with electrophilic addition to C=C, revisit [alkenes for OCR](/resources/ocr-a-level-chemistry-alkenes-revision-notes/).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-aromatic-chemistry--08-chlorine-uv.webp" width="900" height="1190" alt="With UV light, benzene adds chlorine to the ring to give C6H6Cl6, losing delocalisation, while methylbenzene is substituted in the CH3 side chain and the ring stays. Further substitution raises Mr from 92.0 to 126.5, 161.0 and 195.5." loading="lazy">
+  <figcaption>UV chlorine adds to the benzene ring but substitutes only the side chain of methylbenzene. (OxfordAQA only)</figcaption>
+</figure>
+
+
 ## Must-know distinctions
 
 - **Addition vs substitution:** alkenes add Br₂; benzene substitutes Br.

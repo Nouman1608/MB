@@ -201,6 +201,16 @@ Evaluation questions expect both sides: the benefit to biodiversity and the cost
   <figcaption>Removing forest reduces biodiversity, loses soil, raises flood risk and adds carbon dioxide to the air.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-human-influences-on-ecosystems--05-enhanced-greenhouse-effect.webp" width="900" height="1180" alt="Sunlight reaches the Earth, which gives out thermal energy upwards. Carbon dioxide and methane absorb thermal energy that would otherwise be lost and some returns to Earth. More of these gases gives more energy absorbed, a higher mean global temperature and climate change." loading="lazy">
+  <figcaption>More CO2 and methane trap more thermal energy, raising mean global temperature.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-human-influences-on-ecosystems--06-co2-methane-sources.webp" width="900" height="850" alt="Carbon dioxide comes from burning fossil fuels and burning forests. Methane comes from cattle and other livestock, rice fields and waste decomposing in landfill sites." loading="lazy">
+  <figcaption>Fossil fuels and forest burning give CO2; livestock, rice fields and landfill give methane.</figcaption>
+</figure>
+
 
 ## Trophic levels and biomass (4.7.4)
 
@@ -247,6 +257,11 @@ Because so little biomass passes up, less biomass is available at each higher le
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/aqa-gcse-biology-8461-ecology--08-eco-mycoprotein.webp" width="900" height="1040" alt="Fusarium, glucose syrup and air go into a fermenter; the biomass is harvested and purified into mycoprotein." loading="lazy">
   <figcaption>Mycoprotein is made by growing Fusarium aerobically on glucose syrup.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-human-influences-on-ecosystems--07-fish-net-mesh-size.webp" width="900" height="895" alt="Extended. Two side views of a net. With a small mesh both young and adult fish are caught. With a large mesh the gaps are bigger than young fish but smaller than adults, so young fish escape and survive to breed." loading="lazy">
+  <figcaption>A larger mesh lets young fish escape so they survive to breed.</figcaption>
 </figure>
 
 

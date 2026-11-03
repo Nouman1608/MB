@@ -155,6 +155,17 @@ If a break-even or target-profit figure is not a whole number, round **up**; rou
 | Fixed costs rise | No change | Rises |
 | Sales volume rises | No change | No change (margin of safety widens) |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-analysis-and-evaluation-of-financial-information--02-margin-vs-markup.webp" width="900" height="810" alt="One bar shows revenue of 480,000 dollars made of cost of sales 312,000 and gross profit 168,000. Margin divides gross profit by revenue to give 35.00 percent; mark-up divides the same profit by cost of sales to give 53.85 percent." loading="lazy">
+  <figcaption>The same gross profit gives a larger percentage when measured against cost of sales than against revenue.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-analysis-and-evaluation-of-financial-information--10-profit-variance-waterfall.webp" width="900" height="806" alt="Budgeted profit of 27,200 dollars becomes actual profit of 31,749: sales price 6,900 favourable, sales volume 3,300 adverse, wool price 2,115 favourable, wool usage 1,350 adverse, labour rate 1,656 adverse and labour efficiency 1,840 favourable. Fixed overheads match the budget." loading="lazy">
+  <figcaption>Favourable variances raise profit above budget and adverse ones lower it.</figcaption>
+</figure>
+
+
 ## Break-even charts (2.7.3)
 
 A break-even chart shows output (units) on the horizontal axis and dollars on the vertical axis, with three lines.

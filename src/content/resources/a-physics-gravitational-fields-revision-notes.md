@@ -134,17 +134,6 @@ Escape velocity is the minimum launch speed for which total energy (kinetic plus
 
 Independent of the escaping object's mass, since m cancels from both sides of the energy equation, leaving only the central mass M and the starting distance r.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-physics-gravitational-fields--04-area-under-force-graph.webp" width="900" height="1050" alt="A graph of the force on a 1000 kg probe near Mars against distance. The shaded area under the inverse-square curve is the work done, m times the change in potential, 8.42 x 10^9 J. Four trapezia give 8.9 x 10^9 J, an overestimate." loading="lazy">
-  <figcaption>Area under F against r equals the work done, m x change in potential; trapezia overestimate for this curve.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-physics-gravitational-fields--08-escape-velocity.webp" width="900" height="1210" alt="The Earth’s potential well is -62.5 MJ per kg at the surface and zero at infinity. Launching with kinetic energy 62.5 MJ per kg brings the total energy to zero, giving escape velocity root(2GM/R) = 11.2 km per s. Bars compare Moon 2.37, Mars 5.03 and Earth 11.2 km per s; light-gas atoms at 1.9 km per s are 80% of the Moon value." loading="lazy">
-  <figcaption>Escape velocity v = root(2GM/r) makes total energy zero; it is independent of the escaping mass.</figcaption>
-</figure>
-
-
 ## Exam traps
 
 - Using height above the surface instead of distance from the **centre**.
@@ -167,3 +156,14 @@ Independent of the escaping object's mass, since m cancels from both sides of th
 7. A planet has mass 6.4 × 10²³ kg and radius 3.4 × 10⁶ m. Calculate the gravitational field strength at its surface.
 
 **Answers:** 1. F = GMm/r², where r is the distance between the **centres** of the two masses. 2. Potential is defined as zero at infinity and gravity is attractive, so work must be done on a mass to move it to infinity; at any finite separation the potential is therefore negative. 3. GMm/r² = mv²/r gives v² = GM/r; substituting v = 2πr/T gives 4π²r²/T² = GM/r, so T² = (4π²/GM)r³. 4. Period of 24 hours, orbiting west to east, directly above the Equator. 5. No — the satellite's mass cancels, so orbital speed depends only on the central mass and the orbital radius. 6. On the data sheet (it is not required from memory); its units, N m² kg⁻², must still be copied correctly since they are needed to check the working. 7. g = GM/r² = (6.67 × 10⁻¹¹ × 6.4 × 10²³) ÷ (3.4 × 10⁶)² ≈ **3.7 N/kg**.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-gravitational-fields--04-area-under-force-graph.webp" width="900" height="1050" alt="A graph of the force on a 1000 kg probe near Mars against distance. The shaded area under the inverse-square curve is the work done, m times the change in potential, 8.42 x 10^9 J. Four trapezia give 8.9 x 10^9 J, an overestimate." loading="lazy">
+  <figcaption>Area under F against r equals the work done, m x change in potential; trapezia overestimate for this curve.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-gravitational-fields--08-escape-velocity.webp" width="900" height="1210" alt="The Earth’s potential well is -62.5 MJ per kg at the surface and zero at infinity. Launching with kinetic energy 62.5 MJ per kg brings the total energy to zero, giving escape velocity root(2GM/R) = 11.2 km per s. Bars compare Moon 2.37, Mars 5.03 and Earth 11.2 km per s; light-gas atoms at 1.9 km per s are 80% of the Moon value." loading="lazy">
+  <figcaption>Escape velocity v = root(2GM/r) makes total energy zero; it is independent of the escaping mass.</figcaption>
+</figure>
+

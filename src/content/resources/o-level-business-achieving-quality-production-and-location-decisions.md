@@ -121,6 +121,12 @@ Returns before: 90 ÷ 6 000 = 0.015, which is 1.5%. Returns after, with 30 retur
 
 This shows faults fell for this bakery in this period. A sensible answer would also mention the cost of the training and checks.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-business-achieving-quality-production-and-location-decisions--12-umberlee-returns-grid.webp" width="900" height="882" alt="Two grids of 200 squares, each 30 loaves (6,000 a week). 90 returns is 3 squares (1.5%); 30 returns is 1 square (0.5%), a fall of one percentage point or two thirds." loading="lazy">
+  <figcaption>Returns fell from 1.5% to 0.5% at Umberlee Bakery.</figcaption>
+</figure>
+
+
 ### Control versus assurance
 
 | | Quality control | Quality assurance |

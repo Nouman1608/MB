@@ -139,6 +139,12 @@ Mean = 122 / 4 = 30.5. Area = pi x 0.30 x 0.30 = 0.283 mm2. Density = 30.5 / 0.2
 
 **Reliability.** Count several fields and use the mean. Variation between fields shows why repeats are needed.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-gas-exchange-surfaces-lungs-leaves-and-haemoglobin--07-transpiration.webp" width="900" height="1050" alt="A potometer with a leafy shoot joined to a horizontal capillary and a beaker of water. The bubble moves 36 mm toward the shoot in 6 minutes. More light, higher temperature, lower humidity and more wind raise the rate. Volume = pi x 0.50^2 x 36 = 28.3 mm3, rate 4.71 mm3 per minute." loading="lazy">
+  <figcaption>A potometer converts bubble movement into a transpiration rate; light, heat, dry air and wind speed it up.</figcaption>
+</figure>
+
+
 ## B3.1.11 to B3.1.13 Haemoglobin (HL only)
 
 - Four polypeptides, each with a haem group binding one oxygen molecule.
@@ -161,22 +167,6 @@ Mean = 122 / 4 = 30.5. Area = pi x 0.30 x 0.30 = 0.283 mm2. Density = 30.5 / 0.2
 2. Subtract to find the difference.
 3. State which curve is to the right or left.
 4. Link to affinity and to the biological advantage.
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ib-dp-biology-gas-exchange-surfaces-lungs-leaves-and-haemoglobin--06-leaf-plan.webp" width="900" height="918" alt="A to-scale plan diagram of a dicot leaf showing tissue layers only: waxy cuticle, upper epidermis, palisade mesophyll, spongy mesophyll with air spaces and a vein (xylem and phloem), lower epidermis with a stoma and guard cells, and lower cuticle. CO2 enters and O2 leaves through the stoma." loading="lazy">
-  <figcaption>Tissue boundaries only, 220 micrometres thick, with gas exchange through the stoma.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ib-dp-biology-gas-exchange-surfaces-lungs-leaves-and-haemoglobin--08-oxygen-dissociation-hl.webp" width="900" height="800" alt="Adult and foetal haemoglobin curves plotted through the lesson data. The adult curve is S-shaped: slow at low oxygen, steep in the middle as binding gets easier, flat when nearly full. The foetal curve lies to the left, showing higher affinity, so oxygen passes from mother to foetus." loading="lazy">
-  <figcaption>Cooperative binding gives the S shape; foetal haemoglobin, further left, has higher affinity than adult.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ib-dp-biology-gas-exchange-surfaces-lungs-leaves-and-haemoglobin--09-bohr-shift-hl.webp" width="900" height="900" alt="Normal and higher-CO2 curves plotted through the lesson data; the higher-CO2 curve lies to the right. Lungs at 13 kPa and tissue at 5 kPa release 97 - 72 = 25 percentage points normally but 95 - 57 = 38 with more carbon dioxide." loading="lazy">
-  <figcaption>More carbon dioxide shifts the curve right, so respiring tissue receives more oxygen while lung loading barely changes.</figcaption>
-</figure>
-
 
 ## Quick self-test
 
@@ -203,6 +193,22 @@ Mean = 122 / 4 = 30.5. Area = pi x 0.30 x 0.30 = 0.283 mm2. Density = 30.5 / 0.2
 8. Open stomata let carbon dioxide in, but water vapour diffuses out from the moist mesophyll surfaces.
 9. The first oxygen binds slowly; it changes shape so further molecules bind more easily; at high oxygen few sites remain, so the curve flattens.
 10. Saturation falls by 17 percentage points. Carbon dioxide lowers affinity (Bohr shift), so more oxygen is released to tissue.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-gas-exchange-surfaces-lungs-leaves-and-haemoglobin--06-leaf-plan.webp" width="900" height="918" alt="A to-scale plan diagram of a dicot leaf showing tissue layers only: waxy cuticle, upper epidermis, palisade mesophyll, spongy mesophyll with air spaces and a vein (xylem and phloem), lower epidermis with a stoma and guard cells, and lower cuticle. CO2 enters and O2 leaves through the stoma." loading="lazy">
+  <figcaption>Tissue boundaries only, 220 micrometres thick, with gas exchange through the stoma.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-gas-exchange-surfaces-lungs-leaves-and-haemoglobin--08-oxygen-dissociation-hl.webp" width="900" height="800" alt="Adult and foetal haemoglobin curves plotted through the lesson data. The adult curve is S-shaped: slow at low oxygen, steep in the middle as binding gets easier, flat when nearly full. The foetal curve lies to the left, showing higher affinity, so oxygen passes from mother to foetus." loading="lazy">
+  <figcaption>Cooperative binding gives the S shape; foetal haemoglobin, further left, has higher affinity than adult.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-gas-exchange-surfaces-lungs-leaves-and-haemoglobin--09-bohr-shift-hl.webp" width="900" height="900" alt="Normal and higher-CO2 curves plotted through the lesson data; the higher-CO2 curve lies to the right. Lungs at 13 kPa and tissue at 5 kPa release 97 - 72 = 25 percentage points normally but 95 - 57 = 38 with more carbon dioxide." loading="lazy">
+  <figcaption>More carbon dioxide shifts the curve right, so respiring tissue receives more oxygen while lung loading barely changes.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

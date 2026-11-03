@@ -139,6 +139,11 @@ in a single comparison.
   <figcaption>A prokaryote has naked DNA in a nucleoid, 70S ribosomes and no membrane-bound organelles.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-cell-structure-and-microscopy-prokaryotes-eukaryotes--05-eukaryote-cell.webp" width="900" height="940" alt="A eukaryote cell with membrane-bound compartments: a nucleus with a double membrane and pores, rough ER with ribosomes, smooth ER, a Golgi apparatus with vesicles, a lysosome, mitochondria with folded inner membranes, free 80S ribosomes and cytoskeleton fibres." loading="lazy">
+  <figcaption>Membranes divide a eukaryote cell into compartments with different jobs.</figcaption>
+</figure>
+
 
 ## Viruses (HL only)
 
@@ -149,6 +154,12 @@ cell-based vocabulary -- growth, metabolism, reproduction in the sense a cell re
 category error the syllabus specifically wants students to avoid. Viruses are diverse in structure and
 in the hosts they infect, but every virus shares this same basic dependent relationship with a host
 cell.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-origins-of-cells-and-viruses-hl--07-virus-structures.webp" width="900" height="1110" alt="Bacteriophage lambda has a capsid head with double-stranded DNA, a tail and no envelope. Coronaviruses and HIV are enveloped with single-stranded RNA; coronaviruses carry spike proteins, HIV carries reverse transcriptase. All have nucleic acid and a capsid and no cytoplasm." loading="lazy">
+  <figcaption>Three viruses compared: genetic material, capsid, envelope and enzymes (schematic, not to scale).</figcaption>
+</figure>
+
 
 ## Diversity of organisms
 
@@ -164,6 +175,22 @@ in chromosome numbers** of plant and animal species; **karyotyping and karyogram
 displays an organism's chromosomes arranged in homologous pairs, ordered by size); and **genome
 diversity**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-diversity-of-organisms-species-naming-karyotypes-and--01-binomial-names.webp" width="900" height="1010" alt="Cards show Panthera leo and Panthera tigris with the genus capitalised and the species all lower case, in italics. Three crossed-out versions (panthera Leo, Panthera Tigris, tigris) show the common errors. Printed names are italic and handwritten names are underlined." loading="lazy">
+  <figcaption>Genus capital, species lower case, never the species alone.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-diversity-of-organisms-species-naming-karyotypes-and--02-biological-species-mule.webp" width="900" height="1260" alt="A horse and a donkey can breed but their offspring, a mule, is sterile, so they are separate species. HL only: horse gametes carry 32 chromosomes and donkey gametes 31, so the mule has 63, which makes 31 pairs and one chromosome with no partner." loading="lazy">
+  <figcaption>Species breed and produce fertile offspring; an odd chromosome number blocks meiosis in the mule (HL).</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-diversity-of-organisms-species-naming-karyotypes-and--04-karyogram.webp" width="900" height="1010" alt="A schematic karyogram shows five pairs from longest to shortest and the XY pair last. One pair has three copies, showing an extra chromosome. Three panels show matching by length, centromere position and banding pattern." loading="lazy">
+  <figcaption>Pairs are matched by length, centromere position and banding.</figcaption>
+</figure>
+
+
 ## Classification and cladistics (HL only)
 
 Traditional classification often relied on surface similarity, but **cladistics** classifies organisms
@@ -174,6 +201,22 @@ exam skill is reading and constructing a simple cladogram: identifying which two
 recent common ancestor, and explaining why a cladistic classification can group organisms differently
 from one based purely on physical resemblance (unrelated organisms can resemble each other through
 convergent evolution, while closely related organisms can look quite different).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-classification-and-cladistics-clades-cladograms-and--02-reading-a-cladogram.webp" width="900" height="920" alt="A six-group cladogram with the root (square), four numbered nodes (hypothetical common ancestors) and thick terminal branches. Lizard and mouse share node 4, so they are closest relatives." loading="lazy">
+  <figcaption>Root, nodes and terminal branches on a cladogram; closeness is read from the most recent shared node.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-classification-and-cladistics-clades-cladograms-and--01-clade-test.webp" width="900" height="880" alt="Crocodile and bird form a clade with their shared ancestor; &quot;reptiles without birds&quot; (lizard + crocodile) leaves out a descendant, so it is not a clade." loading="lazy">
+  <figcaption>A clade includes a common ancestor and all of its descendants; a group that omits a descendant, such as reptiles without birds, is not a clade.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-evolution-speciation-and-conservation-of-biodiversity--03-convergent-evolution.webp" width="900" height="990" alt="A bat wing (bones and skin) is compared with an insect wing (cuticle, no bones), and a shark with a dolphin. Both pairs do the same job but arose separately, so they are analogous." loading="lazy">
+  <figcaption>Similar structures with different origins are analogous and come from convergent evolution.</figcaption>
+</figure>
+
 
 ## Evolution and speciation
 
@@ -192,6 +235,11 @@ a mechanism built from earlier and later syllabus content.
   <figcaption>Variation, selection and reproductive isolation form the three-step route to new species.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-evolution-speciation-and-conservation-of-biodiversity--04-speciation-isolation.webp" width="900" height="1240" alt="Three panels show gene flow in one population, a river splitting it, and divergence in allele frequencies on each side (bonobos and chimpanzees). A bar chart then shows 1,200 species gaining 35 by splitting and losing 60 to extinction, leaving 1,175." loading="lazy">
+  <figcaption>Isolation stops gene flow, differential selection makes the sides diverge, and speciation adds species while extinction removes them.</figcaption>
+</figure>
+
 
 ## Conservation of biodiversity
 
@@ -207,6 +255,11 @@ applied question this sub-topic is examined with.
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/ib-dp-biology-theme-a-unity-diversity--04-threats-and-responses.webp" width="900" height="850" alt="Two columns. Five threats: habitat loss, invasive species, overexploitation, climate change and pollution. Four responses: protected areas, legal frameworks, captive breeding and habitat restoration. A banner gives the reasons biodiversity matters: ecological resilience, and economic value in medicine, agriculture and ecosystem services." loading="lazy">
   <figcaption>Five named threats to biodiversity and four named responses, with the ecological and economic reasons it matters.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-evolution-speciation-and-conservation-of-biodiversity--08-measuring-biodiversity.webp" width="900" height="1190" alt="Site A and Site B both have richness 4 and 100 individuals but A is even (25 each) and B is dominated by one species (70, 10, 10, 10). Richness falling from 48 to 39 is -18.8%, and a forest falling from 3,200 to 2,480 square kilometres is -22.5%, or 80 square kilometres per year." loading="lazy">
+  <figcaption>Richness counts species, evenness compares abundances, and percentage change measures loss.</figcaption>
 </figure>
 
 

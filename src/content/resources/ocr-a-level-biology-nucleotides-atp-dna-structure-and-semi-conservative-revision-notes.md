@@ -174,12 +174,6 @@ Data supplied: 2.0 × 10⁶ base pairs and 1 × 10⁻⁹ errors per base pair pe
 - Across 10⁶ replications = 2.0 × 10³ errors.
 - A rate that is tiny per replication still gives many errors in a large population.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-level-biology-9700-nucleic-acids-and-protein-synthesis--08-gene-mutations.webp" width="900" height="1200" alt="The mRNA AUG UUC GGC AAC GAU CAA UAA codes Met Phe Gly Asn Asp Gln then stop. A substitution that changes GGC to GGU still codes Gly because the code is degenerate. A substitution that changes UUC to UUG changes Phe to Leu. Deleting one base or inserting one base shifts the reading frame so every later amino acid changes." loading="lazy">
-  <figcaption>A substitution changes at most one amino acid; a deletion or insertion shifts the reading frame.</figcaption>
-</figure>
-
-
 ## Exam wording to use
 
 | If the question says | Write |
@@ -189,6 +183,17 @@ Data supplied: 2.0 × 10⁶ base pairs and 1 × 10⁻⁹ errors per base pair pe
 | Explain the role of DNA polymerase | Joins free nucleotides by forming phosphodiester bonds on the new strand, using the template and complementary base pairing |
 | Explain the role of helicase | Breaks hydrogen bonds between complementary bases so the strands separate and act as templates |
 | Describe a spontaneous mutation | A random change in the base sequence that arises during replication without a mutagen |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-nucleic-acids-and-protein-synthesis--06-transcription-splicing.webp" width="900" height="1255" alt="RNA polymerase copies the template strand into mRNA using complementary base pairing with A pairing to U. Example: template TAC AAG CCG TTG ATT gives AUG UUC GGC AAC UAA, which matches the non-transcribed strand with U for T. In eukaryotes a 3,180 nucleotide primary transcript has its four introns removed and the exons joined to give a 1,550 nucleotide mRNA, which leaves the nucleus through a nuclear pore." loading="lazy">
+  <figcaption>mRNA is a copy of the template strand; in eukaryotes the introns are removed before mRNA leaves the nucleus.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-nucleic-acids-and-protein-synthesis--08-gene-mutations.webp" width="900" height="1200" alt="The mRNA AUG UUC GGC AAC GAU CAA UAA codes Met Phe Gly Asn Asp Gln then stop. A substitution that changes GGC to GGU still codes Gly because the code is degenerate. A substitution that changes UUC to UUG changes Phe to Leu. Deleting one base or inserting one base shifts the reading frame so every later amino acid changes." loading="lazy">
+  <figcaption>A substitution changes at most one amino acid; a deletion or insertion shifts the reading frame.</figcaption>
+</figure>
+
 
 ## Linking ideas across the unit
 

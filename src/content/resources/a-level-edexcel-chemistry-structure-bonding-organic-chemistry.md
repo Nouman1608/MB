@@ -54,27 +54,6 @@ organic chemistry and the properties and reactions of alkanes
 - Alkenes — the properties and reactions of alkenes, introducing a
 mechanistic approach to organic chemistry
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-level-edexcel-chemistry-structure-bonding-organic-chemistry--01-ionic-lattice.webp" width="900" height="930" alt="A sodium chloride lattice layer shows alternating small Na+ and larger Cl- ions in rows and columns, 15 of each. A ringed Na+ touches four Cl- in the layer plus one above and one below. Every ion attracts oppositely charged neighbours in all directions, so there are no separate molecules." loading="lazy">
-  <figcaption>In an ionic lattice each Na+ is held by six Cl- neighbours, with strong attraction acting in every direction.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-level-edexcel-chemistry-structure-bonding-organic-chemistry--02-ionic-strength.webp" width="900" height="1000" alt="Ions of KF and CaO are drawn to scale. K+ and F- have single charges and centres 271 pm apart, giving an indicator of 0.0037 and a melting point of 858 C. Ca2+ and O2- have double charges and centres 240 pm apart, giving 0.0167, about 4.5 times larger, and a melting point of 2613 C." loading="lazy">
-  <figcaption>Higher ionic charges and smaller ions give stronger ionic bonding: CaO has an indicator 4.5 times larger than KF and melts 1755 C higher (Edexcel).</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-level-edexcel-chemistry-structure-bonding-organic-chemistry--03-dative-bond.webp" width="900" height="1100" alt="Ammonia has a lone pair on nitrogen and BCl3 has a gap on boron because it has only six outer electrons. The lone pair moves into the gap, giving H3N to BCl3 in which both shared electrons come from nitrogen. Ammonia also donates its lone pair to H+ to form NH4+, whose four N-H bonds are identical." loading="lazy">
-  <figcaption>In a dative covalent bond both shared electrons come from one atom, shown as an arrow from donor to acceptor (H3N to BCl3, NH4+).</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-level-edexcel-chemistry-structure-bonding-organic-chemistry--04-crystal-types.webp" width="900" height="1140" alt="Four panels show the four crystal types. Ionic (sodium chloride) is a lattice of ions and melting overcomes attractions between ions. Metallic (magnesium) is positive ions in a sea of electrons. Giant covalent (diamond) is a network of carbon atoms, and melting breaks covalent bonds. Molecular (iodine, ice) has only weak forces between molecules to overcome, so the melting point is low." loading="lazy">
-  <figcaption>The type of structure decides what has to be overcome on melting: ions, ion-electron attraction, covalent bonds or only weak forces between molecules.</figcaption>
-</figure>
-
-
 ## How to approach it
 
 Because this unit introduces the mass spectrometer as a method for
@@ -96,6 +75,27 @@ quantities.
 Pearson Edexcel International Advanced Subsidiary/Advanced Level
 Chemistry specification, Issue 1, September 2017 —
 [qualifications.pearson.com](https://qualifications.pearson.com/content/dam/pdf/International%20Advanced%20Level/Chemistry/2018/Specification-and-Sample-Assessment/International-A-Level-Chemistry-Spec.pdf).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-edexcel-chemistry-structure-bonding-organic-chemistry--01-ionic-lattice.webp" width="900" height="930" alt="A sodium chloride lattice layer shows alternating small Na+ and larger Cl- ions in rows and columns, 15 of each. A ringed Na+ touches four Cl- in the layer plus one above and one below. Every ion attracts oppositely charged neighbours in all directions, so there are no separate molecules." loading="lazy">
+  <figcaption>In an ionic lattice each Na+ is held by six Cl- neighbours, with strong attraction acting in every direction.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-edexcel-chemistry-structure-bonding-organic-chemistry--02-ionic-strength.webp" width="900" height="1000" alt="Ions of KF and CaO are drawn to scale. K+ and F- have single charges and centres 271 pm apart, giving an indicator of 0.0037 and a melting point of 858 C. Ca2+ and O2- have double charges and centres 240 pm apart, giving 0.0167, about 4.5 times larger, and a melting point of 2613 C." loading="lazy">
+  <figcaption>Higher ionic charges and smaller ions give stronger ionic bonding: CaO has an indicator 4.5 times larger than KF and melts 1755 C higher (Edexcel).</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-edexcel-chemistry-structure-bonding-organic-chemistry--03-dative-bond.webp" width="900" height="1100" alt="Ammonia has a lone pair on nitrogen and BCl3 has a gap on boron because it has only six outer electrons. The lone pair moves into the gap, giving H3N to BCl3 in which both shared electrons come from nitrogen. Ammonia also donates its lone pair to H+ to form NH4+, whose four N-H bonds are identical." loading="lazy">
+  <figcaption>In a dative covalent bond both shared electrons come from one atom, shown as an arrow from donor to acceptor (H3N to BCl3, NH4+).</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-edexcel-chemistry-structure-bonding-organic-chemistry--04-crystal-types.webp" width="900" height="1140" alt="Four panels show the four crystal types. Ionic (sodium chloride) is a lattice of ions and melting overcomes attractions between ions. Metallic (magnesium) is positive ions in a sea of electrons. Giant covalent (diamond) is a network of carbon atoms, and melting breaks covalent bonds. Molecular (iodine, ice) has only weak forces between molecules to overcome, so the melting point is low." loading="lazy">
+  <figcaption>The type of structure decides what has to be overcome on melting: ions, ion-electron attraction, covalent bonds or only weak forces between molecules.</figcaption>
+</figure>
+
 
 ## Shapes of molecules
 

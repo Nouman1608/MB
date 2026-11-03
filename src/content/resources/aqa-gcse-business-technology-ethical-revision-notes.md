@@ -43,6 +43,11 @@ Topic 2 (Influences on Business) is built around one idea: **external influences
   <figcaption>E-commerce lets a business reach customers well beyond its local area.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-business-influences-on-business--02-digital-communication.webp" width="900" height="910" alt="A business sends messages by email, video call and social media. These reach customers (a marketing matter) and employees (an HR matter)." loading="lazy">
+  <figcaption>Digital channels change how quickly and widely a business communicates with stakeholders.</figcaption>
+</figure>
+
 
 ## Ethical and environmental considerations (3.2.2)
 
@@ -115,19 +120,13 @@ Judgement:             worthwhile if the business's customer base is
 
 Notice this uses the identical four-step structure as the ethics example -- practising the same template across ethical, environmental and sustainability scenarios is what makes this content fast to revise, since the reasoning skill being tested is the same each time, only the specific facts change.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/aqa-gcse-business-technology-ethical-revision-notes--01-packaging-tradeoff.webp" width="900" height="1050" alt="Two bars show packaging cost: plastic at an index of 100 and biodegradable 15 percent higher at 115. Below, cost (lower margin per unit) is set against benefit (less landfill and plastic, greener reputation), ending in a judgement." loading="lazy">
-  <figcaption>A 15% dearer pack: name the cost, name the benefit, then judge.</figcaption>
-</figure>
-
-
 ## Digital communication in practice
 
 Beyond simply "businesses use email and social media," this sub-topic expects you to explain **how** digital communication actually changes stakeholder relationships: faster response times to customer queries, wider reach at lower cost than traditional advertising, but also new risks (a single negative social media post spreading quickly, or a business needing to monitor and respond to public commentary it doesn't control). A strong exam answer names a specific channel (social media, email marketing, a company app) and explains its particular effect on a named stakeholder group, rather than describing "digital communication" as one undifferentiated concept.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-oxfordaqa-business-influences-on-business--02-digital-communication.webp" width="900" height="910" alt="A business sends messages by email, video call and social media. These reach customers (a marketing matter) and employees (an HR matter)." loading="lazy">
-  <figcaption>Digital channels change how quickly and widely a business communicates with stakeholders.</figcaption>
+  <img src="https://img.marlbridge.com/aqa-gcse-business-technology-ethical-revision-notes--01-packaging-tradeoff.webp" width="900" height="1050" alt="Two bars show packaging cost: plastic at an index of 100 and biodegradable 15 percent higher at 115. Below, cost (lower margin per unit) is set against benefit (less landfill and plastic, greener reputation), ending in a judgement." loading="lazy">
+  <figcaption>A 15% dearer pack: name the cost, name the benefit, then judge.</figcaption>
 </figure>
 
 

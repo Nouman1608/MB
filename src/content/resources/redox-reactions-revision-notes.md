@@ -49,6 +49,17 @@ H2  gains oxygen  -> oxidised  -> hydrogen is the reducing agent
 
 Nothing here involves electron transfer explicitly, but the oxygen and electron definitions always agree on which species is oxidised and which is reduced — this is exactly the kind of reaction the oxygen definition was designed for, before electron transfer is introduced as the more general picture.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/redox-reactions--01-oxygen-transfer.webp" width="900" height="960" alt="Copper(II) oxide has a copper atom bonded to oxygen, beside a hydrogen molecule. A dashed arrow shows the oxygen moving to the hydrogen. Afterwards there is a copper atom and a water molecule: copper lost oxygen (reduced) and hydrogen gained oxygen (oxidised)." loading="lazy">
+  <figcaption>In CuO + H2 -&gt; Cu + H2O oxygen moves from copper to hydrogen, so reduction and oxidation happen together.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/redox-reactions--02-electron-transfer.webp" width="900" height="920" alt="A zinc atom becomes a Zn2+ ion by losing two electrons (oxidation). A downward arrow carries the two electrons to a Cu2+ ion, which becomes a copper atom (reduction). No oxygen is involved." loading="lazy">
+  <figcaption>Zinc loses two electrons and Cu2+ gains them: oxidation and reduction without any oxygen.</figcaption>
+</figure>
+
+
 ## Agents — the reversal students get wrong
 
 *(0620 Extended, 5070 required)* Defining and identifying oxidising and reducing agents is 0620 Supplement content (6.4 S11-S13).
@@ -60,12 +71,6 @@ Common oxidising agents: acidified potassium manganate(VII), potassium dichromat
 Common reducing agents: carbon, carbon monoxide, hydrogen, reactive metals, potassium iodide.
 
 In a **displacement reaction** *(0620 Extended, 5070 required)*, a more reactive metal displaces a less reactive one from solution, and this is always a redox reaction: the more reactive metal is oxidised (loses electrons to form ions), while the less reactive metal's ions are reduced (gain electrons to form the metal). This is the same electron-transfer logic used throughout this topic, just applied to a pair of metals rather than a metal and a non-metal.
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/redox-reactions--06-agents.webp" width="900" height="910" alt="Zinc is the reducing agent: it is itself oxidised and passes two electrons to Cu2+. Cu2+ is the oxidising agent: it is itself reduced and oxidises zinc." loading="lazy">
-  <figcaption>The oxidising agent is the substance that gets reduced; the reducing agent is the one that gets oxidised.</figcaption>
-</figure>
-
 
 ## Oxidation number rules
 
@@ -176,3 +181,9 @@ Related: [Redox Reactions practice questions](/resources/redox-reactions-practic
 7. *(0620 Extended, 5070 required)* Find the oxidation number of Cr in K2Cr2O7.
 
 **Answers:** 1. Fe₂O₃ — iron goes from +3 to 0, a decrease, so it is reduced (CO is the reducing agent). 2. (+1×2) + S + (−2×4) = 0 → S = **+6**. 3. The solution is a **reducing agent**; MnO₄⁻ has been reduced to Mn²⁺. 4. 2Cl⁻ → Cl₂ + 2e⁻. 5. It donates electrons to the other species — donating electrons *is* oxidation, so causing reduction elsewhere necessarily means being oxidised itself. 6. CuO loses oxygen and is reduced, so it is the oxidising agent; H₂ gains oxygen and is oxidised, so it is the reducing agent. 7. 2(+1) + 2Cr + 7(−2) = 0 → 2Cr = 12 → Cr = **+6**.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/redox-reactions--06-agents.webp" width="900" height="910" alt="Zinc is the reducing agent: it is itself oxidised and passes two electrons to Cu2+. Cu2+ is the oxidising agent: it is itself reduced and oxidises zinc." loading="lazy">
+  <figcaption>The oxidising agent is the substance that gets reduced; the reducing agent is the one that gets oxidised.</figcaption>
+</figure>
+

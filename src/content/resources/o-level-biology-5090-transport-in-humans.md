@@ -180,6 +180,11 @@ In **coronary heart disease (CHD)**, a **coronary artery** becomes **blocked**, 
   <figcaption>Some risk factors can be changed; prevention lowers but does not remove risk.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-transport-in-animals--08-heart-rate-exercise.webp" width="900" height="1130" alt="Bar chart from the lesson worked example: mean resting rate 74 beats per minute, mean after exercise 118, an increase of 44 (59 per cent). Extended panel: active muscles respire faster, need more oxygen and glucose and produce more carbon dioxide, so the heart rate rises to supply and remove them faster." loading="lazy">
+  <figcaption>After exercise the mean heart rate rose from 74 to 118 beats per minute, a 59% increase.</figcaption>
+</figure>
+
 
 ## 11.3 Blood vessels
 
@@ -239,6 +244,17 @@ In a photomicrograph, an artery has a thick wall and small, round lumen; a vein 
 | White blood cells: phagocytes | Engulfing pathogens |
 | Platelets | Clotting: soluble fibrinogen is converted to insoluble fibrin, forming a mesh that prevents blood loss and the entry of pathogens |
 | Plasma | Transport of blood cells, ions, glucose, amino acids, hormones, carbon dioxide, urea, vitamins and plasma proteins |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-transport-in-animals--06-blood-components.webp" width="900" height="1150" alt="Four parts of blood. Red blood cells carry oxygen, have no nucleus and a pale centre. White blood cells do phagocytosis and make antibodies and have a nucleus; Extended: lymphocytes (large round nucleus) make antibodies and phagocytes (lobed nucleus) engulf pathogens. Platelets are fragments that help clotting. Plasma carries cells, ions, nutrients, urea, hormones and carbon dioxide." loading="lazy">
+  <figcaption>Red cells, white cells, platelets and plasma each have a job in the blood.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-transport-in-animals--07-clotting.webp" width="900" height="1130" alt="Extended. A damaged vessel lets blood escape and pathogens enter. Soluble fibrinogen in the plasma is converted into insoluble fibrin fibres. The fibrin mesh traps blood cells and forms a clot, stopping blood loss and keeping pathogens out." loading="lazy">
+  <figcaption>A fibrin mesh traps blood cells to seal a wound.</figcaption>
+</figure>
+
 
 ### Identifying cells (11.4.1)
 

@@ -107,6 +107,11 @@ A higher interest rate tends to attract foreign savers, raising demand for the c
 **Worked reminder.** Reserve ratio 10% and a new deposit of 1,000: maximum deposits 1,000 ÷ 0.10 = 10,000, so 9,000 of new lending. At 20%: 5,000 and 4,000.
 
 <figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-economics-monetary-policy--02-exchange-rate-prices.webp" width="900" height="960" alt="A machine priced 1,000 A-dollars costs 500, 600 or 400 B-dollars at rates of 0.50, 0.60 and 0.40. A 300 B-dollar good costs 600, 500 or 750 A-dollars. A stronger A-dollar makes exports dearer and imports cheaper." loading="lazy">
+  <figcaption>Appreciation raises export prices abroad and lowers import prices; depreciation does the opposite.</figcaption>
+</figure>
+
+<figure class="topic-figure">
   <img src="https://img.marlbridge.com/cambridge-o-level-economics-monetary-policy--03-real-interest-rate.webp" width="900" height="830" alt="A 5 percent nominal rate gives a real rate of about plus 2 percent when inflation is 3 percent, but about minus 1 percent when inflation is 6 percent, when 1,050 buys only 990.57 of last years goods." loading="lazy">
   <figcaption>Real rate is roughly nominal rate minus inflation.</figcaption>
 </figure>
@@ -133,6 +138,16 @@ A higher interest rate tends to attract foreign savers, raising demand for the c
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/cambridge-o-level-economics-monetary-policy--06-tight-loose-five-aims.webp" width="900" height="904" alt="Table with five rows, one for each aim, and two columns. Tight policy (higher rates, less money, stronger currency): inflation slows and imports get cheaper; borrowing, investment and growth fall; demand for workers falls so unemployment may rise; exports get dearer and imports cheaper so the current account gets worse; savers gain and borrowers lose. Loose policy (lower rates, more money, weaker currency): inflation risk and import prices rise; borrowing, investment and growth rise; demand for workers rises so unemployment may fall; exports get cheaper and imports dearer so the current account can improve; savers lose and borrowers gain." loading="lazy">
   <figcaption>Tight policy slows inflation, growth and jobs growth and worsens the current account, and savers gain; loose policy does the reverse. Each effect depends on a chain that may not hold.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-objectives-of-government--03-objectives-conflict.webp" width="900" height="1010" alt="Flow from an interest rate cut to higher borrowing and spending. Gains: growth rises and unemployment falls. Side effects: demand-pull inflation risk and a worse balance of payments through more imports. Raising rates does the reverse." loading="lazy">
+  <figcaption>A policy that helps one objective can harm another.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-objectives-of-government--02-inflation-causes.webp" width="900" height="1090" alt="Two illustrative AD/AS diagrams. Demand-pull: AD shifts right and the price level rises. Cost-push: AS shifts up and left and the price level rises. Boxes give the cause chain and the policy response from the lesson." loading="lazy">
+  <figcaption>Demand-pull starts with demand; cost-push starts with rising costs.</figcaption>
 </figure>
 
 

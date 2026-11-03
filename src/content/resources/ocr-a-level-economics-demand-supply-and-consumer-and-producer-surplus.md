@@ -210,6 +210,12 @@ Worked example (good N, illustrative). Supply is P = 2 + 2Q (Q in thousands). At
 | Weather and natural events | Poor harvests decrease supply |
 | Expectations | Expecting higher prices later can reduce supply now |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-allocation-of-resources--04-shifts-of-supply.webp" width="900" height="1000" alt="Three parallel supply curves: S1 original, S2 to the right (increase; at price 5 quantity 50 to 70), S3 to the left (decrease; 50 to 30). Rightward shifts come from lower costs, better technology or more sellers; leftward from higher costs or fewer sellers." loading="lazy">
+  <figcaption>A shift of the whole supply curve is caused by costs of production, technology or the number of sellers.</figcaption>
+</figure>
+
+
 ## Producer surplus
 
 **Producer surplus** is the gain sellers get from receiving more than the least they would have accepted. On a diagram it is the area above the supply curve and under the price line, out to the quantity sold.

@@ -51,6 +51,12 @@ Useful links: [course hub](/boards/aqa/a-level/physics/), [printable checklist](
 
 Unit conversions: 1 pc ≈ 3.08 × 10¹⁶ m; 1 Mpc ≈ 3.08 × 10²² m; 1 ly ≈ 9.46 × 10¹⁵ m. H in s⁻¹ = (H in km s⁻¹ Mpc⁻¹ × 10³)/(3.08 × 10²²).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-astronomy-and-cosmology--02-aphy-astro-inverse-square.webp" width="900" height="1130" alt="A star emits light in a widening cone. At 2d the same light covers 4 times the area and at 3d 9 times, so the flux falls to F/4 and F/9. A standard candle has known L, so measuring F gives d; the worked example gives 5.6e18 m." loading="lazy">
+  <figcaption>Flux falls as 1/d^2, so a standard candle of known luminosity gives its distance.</figcaption>
+</figure>
+
+
 ## 3.9.1 Telescopes
 
 - **Refractor**: two converging lenses. Normal adjustment means the two principal foci coincide and the final image is at infinity. The ray through the objective's centre fixes where the intermediate image forms in the shared focal plane; a construction line from there through the eyepiece centre sets the direction of the emerging parallel rays. Image is inverted.
@@ -93,6 +99,11 @@ Unit conversions: 1 pc ≈ 3.08 × 10¹⁶ m; 1 Mpc ≈ 3.08 × 10²² m; 1 ly �
 1. Write P₁/P₂ = (r₁/r₂)² × (T₁/T₂)⁴.
 2. Get T from Wien if you are given λₘₐₓ.
 3. Substitute ratios; check the hotter or bigger star comes out more powerful.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-astronomy-and-cosmology--01-aphy-astro-parallax.webp" width="900" height="1000" alt="Earth at opposite ends of its orbit sees a nearby star shift against far more distant stars. The parallax angle p is the angle at the star subtended by 1 AU. For p in arcseconds, d in parsecs is 1/p; 0.0625 arcsec gives 16.0 pc or 52.3 ly. The drawing is not to scale." loading="lazy">
+  <figcaption>Parallax angle p subtends 1 AU at the star, so d (pc) = 1/p (arcsec).</figcaption>
+</figure>
 
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/a-physics-astronomy-and-cosmology--03-aphy-astro-blackbody.webp" width="900" height="980" alt="Planck curves for 4800 K, 5800 K and 7000 K. Hotter stars are higher at every wavelength and peak at shorter wavelengths (604, 500, 414 nm from Wien). Area under each curve scales as T^4 (Stefan)." loading="lazy">
@@ -170,6 +181,12 @@ Unit conversions: 1 pc ≈ 3.08 × 10¹⁶ m; 1 Mpc ≈ 3.08 × 10²² m; 1 ly �
 10. H = 65 × 10³/3.08 × 10²² = 2.11 × 10⁻¹⁸ s⁻¹; 1/H = 4.74 × 10¹⁷ s = **1.5 × 10¹⁰ years**.
 11. The **transit method**.
 12. Most hydrogen is **ionised**, so few atoms have electrons in n = 2 to absorb.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-astronomy-and-cosmology--06-aphy-astro-redshift.webp" width="900" height="980" alt="Hydrogen absorption lines at 434.0, 486.1 and 656.3 nm in the laboratory are shifted to 442.7, 495.8 and 669.4 nm in a distant galaxy, all by the same fraction z = 0.020. z = delta lambda / lambda = v/c gives a recession speed of about 6.0e6 m/s." loading="lazy">
+  <figcaption>Spectral lines of a receding galaxy shift to longer wavelength by z = v/c.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

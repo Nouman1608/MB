@@ -118,6 +118,21 @@ Every definition must include **electrostatic attraction** — "atoms share elec
   <figcaption>Melting breaks weak forces between molecules, not the strong covalent bonds inside them.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ionic-covalent-and-metallic-bonding--06-giant-covalent.webp" width="900" height="980" alt="Diamond is a rigid 3D network where every carbon bonds to four others, so it is very hard with a very high melting point and is used in cutting tools. Silicon dioxide has each silicon bonded to four oxygens and each oxygen to two silicons, with properties like diamond." loading="lazy">
+  <figcaption>Diamond and SiO2 are giant networks of covalent bonds, hard and with very high melting points.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ionic-covalent-and-metallic-bonding--07-graphite.webp" width="900" height="813" alt="Three flat layers of carbon atoms in hexagons, each atom bonded to three others. Weak forces (dashed) lie between the layers so they slide, making graphite soft and slippery, a lubricant. Delocalised electrons between layers let it conduct electricity." loading="lazy">
+  <figcaption>Graphite has layers held by weak forces and delocalised electrons that conduct.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ionic-covalent-and-metallic-bonding--08-metallic-bonding.webp" width="900" height="1212" alt="A lattice of positive metal ions in a sea of free electrons. The attraction holds the structure together. Free electrons drifting carry current, and when layers of ions slide the electron sea still holds them together, so metals are malleable." loading="lazy">
+  <figcaption>Positive ions in a sea of delocalised electrons explain conduction and malleability.</figcaption>
+</figure>
+
 
 ## Calculations
 
@@ -143,6 +158,16 @@ percentage yield  = (actual / theoretical) x 100
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/igcse-edexcel-chemistry-principles-revision-notes--02-yield-below-100.webp" width="900" height="940" alt="A tall bar shows the theoretical yield as 100 percent. The bottom 80 percent is the product collected. Three dashed segments above show losses: a reversible reaction that does not go to completion, product lost in separation and purification, and side reactions. A box gives percentage yield = actual / theoretical x 100." loading="lazy">
   <figcaption>Three reasons the product collected is less than the theoretical amount.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/formulae-equations-and-the-mole--05-mole-map.webp" width="900" height="970" alt="Amount in moles is the hub. Multiply or divide by Mr for mass, by 24 for gas volume at r.t.p., by 6.02 x 10^23 for particles, and divide by volume in dm3 (or multiply) for concentration." loading="lazy">
+  <figcaption>Convert to moles first, then to the quantity you need.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-chemistry-4ch1-chemical-formulae-equations-and-calculations--03-percentage-yield.webp" width="900" height="990" alt="Two bars compare theoretical iron yield 28.0 g with actual 25.2 g; the missing 2.8 g is dashed. 25.2 divided by 28.0 times 100 is 90.0 percent." loading="lazy">
+  <figcaption>Percentage yield compares what you collect with the maximum the equation allows.</figcaption>
 </figure>
 
 
@@ -180,3 +205,14 @@ Electrolysis of **molten** compounds gives the metal and the non-metal directly,
 5. In electrolysis, which electrode is negative and what happens there?
 
 **Answers:** 1. Ammonia has a lower relative molecular mass than hydrogen chloride, so it diffuses faster and travels further before they meet. 2. Chemical properties depend on the arrangement of electrons, which is the same for all isotopes of an element; only the number of neutrons differs. 3. Each carbon in graphite forms only three covalent bonds, leaving one delocalised electron per atom free to move along the layers; in diamond all four outer electrons are used in bonding. 4. The reaction may not go to completion because it is reversible; some product may be lost during separation and purification; some reactants may react in unexpected side reactions. 5. The cathode is negative; cations are attracted to it and are reduced by gaining electrons.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/electrolysis-and-fuel-cells--01-molten-electrolysis.webp" width="900" height="1170" alt="A crucible of molten lead(II) bromide has two graphite electrodes joined to a power supply. Pb2+ ions move to the cathode and form lead; Br- ions move to the anode and form bromine. Electrons flow from the supply to the cathode and back from the anode (Extended), with the two half-equations." loading="lazy">
+  <figcaption>Ions carry charge through the melt and electrons through the wires; lead forms at the cathode and bromine at the anode.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/electrolysis-and-fuel-cells--03-aqueous-rules.webp" width="900" height="1215" alt="At the cathode, a reactivity ladder shows that metals above hydrogen stay dissolved and hydrogen forms, while copper and silver below hydrogen form the metal. At the anode a concentrated halide gives a halogen, but a dilute halide or none gives oxygen (Extended)." loading="lazy">
+  <figcaption>Hydrogen forms unless the metal is below it in reactivity; a halide is discharged only if concentrated, otherwise oxygen forms.</figcaption>
+</figure>
+

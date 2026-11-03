@@ -74,6 +74,16 @@ Why it happens: the π bond (or the ring) stops rotation, so groups fixed on the
   <figcaption>The C=C bond or ring locks the groups, so they sit on the same side (cis) or opposite sides (trans).</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-isomers-and-spectroscopic-identification-of-organic--03-enantiomer-drawing.webp" width="900" height="770" alt="3-bromo-3-methylhexane is drawn either side of a dashed mirror line. In enantiomer 1 C2H5 is up-left, C3H7 up-right, Br on a solid wedge and CH3 on a hashed bond. Enantiomer 2 is the mirror image: the plain groups swap sides while Br stays on the wedge and CH3 on the hash." loading="lazy">
+  <figcaption>Draw the second enantiomer by reflecting across a mirror line; swapping any two groups also gives the other enantiomer.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-isomers-and-spectroscopic-identification-of-organic--04-racemic-mixture.webp" width="900" height="850" alt="Three tubes with dials showing the plane of polarised light. Enantiomer 1 alone turns it clockwise by 20 degrees, enantiomer 2 alone anticlockwise by 20 degrees, and a 1 : 1 mixture cancels to 0 degrees, although every molecule is chiral." loading="lazy">
+  <figcaption>In a 1 : 1 racemic mixture the equal and opposite rotations cancel, so the mixture is not optically active.</figcaption>
+</figure>
+
 
 ## Mass spectrometry (3.2.8)
 
@@ -138,6 +148,11 @@ Interpret the **functional group region** (above about 1500 cm⁻¹). The guide 
   <figcaption>Read the functional group region, above about 1500 cm-1, for the bonds present.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-isomers-and-spectroscopic-identification-of-organic--07-co2-vibrations.webp" width="900" height="1060" alt="CO2 symmetric stretch keeps the dipole at zero so absorbs no IR; the asymmetric stretch and the bend change the dipole and absorb. N2 (and O2) never gain a dipole so absorb no IR." loading="lazy">
+  <figcaption>Only a vibration that changes the dipole moment absorbs IR.</figcaption>
+</figure>
+
 
 ## ¹H NMR (3.2.10 and 3.2.11)
 
@@ -190,12 +205,6 @@ The guide says ¹H NMR data are given in the data booklet; these ranges are appr
 4. MS fragments: confirm the pieces.
 5. Check your structure against **every** piece of data, then name it.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ib-dp-chemistry-isomers-and-spectroscopic-identification-of-organic--09-combined-evidence.webp" width="900" height="1270" alt="Compound Z: percentages give 2 : 4 : 1 and C2H4O, with M+ 88 the formula is C4H8O2. The IR shows O-H and C=O but no acid band. The 1H NMR signals (2.2 s 3H, 3.6 s 1H, 1.4 d 3H, 4.2 q 1H) match 3-hydroxybutan-2-one, CH3COCH(OH)CH3, whose MS halves are 43 and 45; carbon 3 is chiral." loading="lazy">
-  <figcaption>MS gives the formula and pieces, IR the groups and NMR the framework: here 3-hydroxybutan-2-one.</figcaption>
-</figure>
-
-
 ## Quick self-test
 
 1. Why does but-1-ene not show cis-trans isomerism?
@@ -227,8 +236,8 @@ The guide says ¹H NMR data are given in the data booklet; these ranges are appr
 12. Three signals: a 9H singlet (carbon 3 has no H), a 2H triplet for CH₂Cl (furthest downfield) and a 2H triplet for the middle CH₂. Ratio 2 : 2 : 9.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ib-dp-chemistry-isomers-and-spectroscopic-identification-of-organic--07-co2-vibrations.webp" width="900" height="1060" alt="CO2 symmetric stretch keeps the dipole at zero so absorbs no IR; the asymmetric stretch and the bend change the dipole and absorb. N2 (and O2) never gain a dipole so absorb no IR." loading="lazy">
-  <figcaption>Only a vibration that changes the dipole moment absorbs IR.</figcaption>
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-isomers-and-spectroscopic-identification-of-organic--09-combined-evidence.webp" width="900" height="1270" alt="Compound Z: percentages give 2 : 4 : 1 and C2H4O, with M+ 88 the formula is C4H8O2. The IR shows O-H and C=O but no acid band. The 1H NMR signals (2.2 s 3H, 3.6 s 1H, 1.4 d 3H, 4.2 q 1H) match 3-hydroxybutan-2-one, CH3COCH(OH)CH3, whose MS halves are 43 and 45; carbon 3 is chiral." loading="lazy">
+  <figcaption>MS gives the formula and pieces, IR the groups and NMR the framework: here 3-hydroxybutan-2-one.</figcaption>
 </figure>
 
 

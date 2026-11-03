@@ -116,6 +116,12 @@ Write the start and target side by side. Ask three questions: has the carbon cou
 
 Chain-lengthening tools you know: KCN in ethanol (+1 C, via a nitrile), HCN addition to C=O (+1 C), Friedel-Crafts on arenes, and Grignard reagents (+1 C or more).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-organic-synthesis--01-reaction-map.webp" width="900" height="830" alt="A map linking alkene, haloalkane, alcohol, carbonyl, acid, ester, nitrile and amine with reagent labels. The gold arrow (haloalkane to nitrile with KCN) is the one that adds a carbon. Following arrows end to end gives a multi-step route." loading="lazy">
+  <figcaption>Plan routes by following arrows from start to target; only reactions in the specification count (steam hydration is not in OxfordAQA; nitrile hydrolysis is OCR).</figcaption>
+</figure>
+
+
 ### Worked example 3: a four-step route
 
 Make 3-methylbutan-2-one, CH₃COCH(CH₃)₂, from 2-bromopropane and ethanol.

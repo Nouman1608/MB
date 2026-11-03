@@ -44,11 +44,6 @@ These notes cover topic 6, **Inheritance, variation and evolution** (sections 4.
 **Both methods (only these examples are required):** malarial parasites (asexual in humans, sexual in mosquitoes); fungi (asexual spores, sexual for variation); plants (seeds sexually; runners in strawberries, bulb division in daffodils).
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/aqa-gcse-biology-8461-inheritance-variation-and-evolution--03-cf-carriers.webp" width="900" height="845" alt="Two carrier parents Ff have children FF, Ff, Ff and ff. One in four has cystic fibrosis and one half are carriers." loading="lazy">
-  <figcaption>Two carriers: 1/4 chance of cystic fibrosis, 1/2 carrier.</figcaption>
-</figure>
-
-<figure class="topic-figure">
   <img src="https://img.marlbridge.com/igcse-biology-0610-reproduction--01-asexual-sexual.webp" width="900" height="1095" alt="One parent makes genetically identical offspring. In sexual reproduction two parents each make a gamete; the gametes fuse to form a zygote, giving offspring that differ from each other. Extended: gametes are n and the zygote 2n (cat 19 + 19 = 38)." loading="lazy">
   <figcaption>Compare one-parent and two-parent reproduction.</figcaption>
 </figure>
@@ -77,6 +72,21 @@ These notes cover topic 6, **Inheritance, variation and evolution** (sections 4.
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/aqa-gcse-biology-8461-inheritance-variation-and-evolution--11-base-triplets.webp" width="900" height="1010" alt="A strand ATGCCA is paired to give TACGGT (A with T, C with G). Every three bases code for one amino acid, so ATG and CCA give two amino acids, and 450 bases give 150 amino acids." loading="lazy">
   <figcaption>Complementary pairing and the triplet code from the worked example.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-biological-molecules--06-dna-structure.webp" width="900" height="1000" alt="DNA has two strands coiled into a double helix. Each strand carries bases and bonds between paired bases hold the strands together. A always pairs with T and C with G, so strand 1 A T G C C G T A pairs with strand 2 T A C G G C A T." loading="lazy">
+  <figcaption>A pairs with T, C pairs with G.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-inheritance--03-gene-to-protein.webp" width="900" height="1120" alt="Extended. The gene stays in the nucleus; a copy of it, mRNA, is made and moves out through a pore to the cytoplasm; a ribosome joins amino acids in the order set by the mRNA bases; the chain folds into a protein whose shape decides what it does." loading="lazy">
+  <figcaption>mRNA carries the gene’s base sequence to a ribosome, which sets the order of amino acids in the protein.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-variation-and-selection--02-mutation.webp" width="900" height="1215" alt="Core: mutation is genetic change that forms new alleles; ionising radiation and some chemicals raise its rate. Extended: a gene mutation changes one base in the DNA sequence, which can change the protein shape; sources of variation are mutation, meiosis, random mating and random fertilisation." loading="lazy">
+  <figcaption>Mutation forms new alleles; radiation and some chemicals raise the rate.</figcaption>
 </figure>
 
 
@@ -114,6 +124,41 @@ These notes cover topic 6, **Inheritance, variation and evolution** (sections 4.
   <figcaption>Two brown pups: 1/4 × 1/4 = 1/16.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-biology-8461-inheritance-variation-and-evolution--03-cf-carriers.webp" width="900" height="845" alt="Two carrier parents Ff have children FF, Ff, Ff and ff. One in four has cystic fibrosis and one half are carriers." loading="lazy">
+  <figcaption>Two carriers: 1/4 chance of cystic fibrosis, 1/2 carrier.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-inheritance--01-chromosomes-genes-alleles.webp" width="900" height="1120" alt="Schematic zoom from a cell to its nucleus and chromosomes, then to the DNA of one chromosome where a gene is a highlighted length of DNA that codes for a protein. A pair of chromosomes carries the same gene at the same position, with different forms G and g called alleles." loading="lazy">
+  <figcaption>A gene is a length of DNA on a chromosome, and alleles are different forms of the same gene.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-inheritance--05-monohybrid-3-to-1.webp" width="900" height="1229" alt="Punnett square for two heterozygous green beetles (Gg x Gg) giving GG, Gg, Gg, gg: three green to one brown. From 160 offspring expect 120 green and 40 brown; real results are close, not exact." loading="lazy">
+  <figcaption>Two heterozygous parents give a 3 : 1 phenotype ratio.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-inheritance--06-monohybrid-1-to-1.webp" width="900" height="1074" alt="Punnett square for a heterozygous green beetle (Gg) crossed with a brown beetle (gg): two Gg green and two gg brown, a 1 : 1 ratio, because half the green parent’s gametes carry g." loading="lazy">
+  <figcaption>A heterozygous by homozygous recessive cross gives a 1 : 1 ratio.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-inheritance--07-pedigree-recessive.webp" width="900" height="1140" alt="Pedigree: two unaffected parents have an affected daughter (shaded circle), so the condition is recessive and both parents are Aa. A Aa x Aa Punnett square gives a 1 in 4 chance of aa for each further child." loading="lazy">
+  <figcaption>Unaffected parents with an affected child show the allele is recessive.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-inheritance--02-sex-inheritance.webp" width="900" height="990" alt="Punnett square: mother XX gives X eggs, father XY gives X or Y sperm. Four equally likely children: two XX girls and two XY boys, ratio 1:1, so each child has a 50% chance of being a boy. The sperm decides the sex." loading="lazy">
+  <figcaption>Half of sperm carry Y, so each child has a 50% chance of being a boy.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-biotechnology-and-genetic-modification--06-gm-steps.webp" width="900" height="1260" alt="Extended. Six steps to make a human protein in bacteria. a: restriction enzymes cut out the human gene leaving sticky ends. b: the same enzymes cut a plasmid leaving complementary sticky ends. c: the gene is inserted and DNA ligase joins it, making a recombinant plasmid. d: plasmids are put into bacteria. e: bacteria multiply. f: bacteria make the human protein." loading="lazy">
+  <figcaption>Cut gene and plasmid with the same enzymes, join with ligase, put into bacteria, multiply, collect protein.</figcaption>
+</figure>
+
 
 ## 4.6.2 Variation and evolution
 
@@ -129,6 +174,12 @@ These notes cover topic 6, **Inheritance, variation and evolution** (sections 4.
 3. They are more likely to survive and breed.
 4. They pass on the alleles for that characteristic.
 5. Over many generations the allele becomes more common.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-variation-and-selection--05-natural-selection.webp" width="900" height="1110" alt="Ten beetles per row. Generation 1 has 3 brown and 7 green. Birds eat green beetles more often, leaving 3 brown and 2 green. Survivors breed, giving 6 brown of 10 in generation 2, and after many generations 9 brown of 10. Illustrative numbers show the brown allele becoming more common." loading="lazy">
+  <figcaption>Better-adapted individuals survive and breed, so their alleles become more common.</figcaption>
+</figure>
+
 
 ## Human intervention
 
@@ -151,6 +202,16 @@ These notes cover topic 6, **Inheritance, variation and evolution** (sections 4.
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/aqa-gcse-biology-8461-inheritance-variation-and-evolution--04-cloning-methods.webp" width="900" height="1000" alt="Tissue culture grows plant cells in a dish into identical plants. A cutting grows roots into a new plant with the same genes. Embryo transplants split an early embryo into cells and place the identical embryos in host mothers." loading="lazy">
   <figcaption>Cloning without an adult cell: tissue culture, cuttings, embryo transplants.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-variation-and-selection--07-selective-breeding.webp" width="900" height="1180" alt="A loop shows choosing the best plants, crossing them, and growing offspring and choosing the best, repeated for many generations. A line graph shows wheat yield rising over four rounds: 3.2, 3.5, 3.9, 4.3 tonnes per hectare, a 34.4% increase. Uses are higher yield and disease resistance in crops and more milk, meat and calmer temperament in animals." loading="lazy">
+  <figcaption>Choosing and crossing the best plants over many generations raises yield.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-biotechnology-and-genetic-modification--07-gm-examples.webp" width="900" height="1015" alt="Four examples: human insulin gene into bacteria so they make human insulin; herbicide resistance so the crop lives and weeds die; insect resistance in maize using a bacterial gene so pests die; rice that makes beta-carotene for vitamin A." loading="lazy">
+  <figcaption>GM moves a gene from one organism into another to give a useful new feature.</figcaption>
 </figure>
 
 
@@ -190,6 +251,11 @@ These notes cover topic 6, **Inheritance, variation and evolution** (sections 4.
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/aqa-gcse-biology-8461-inheritance-variation-and-evolution--05-ideas-timeline.webp" width="900" height="1025" alt="Timeline in order: Mendel mid 1800s, Wallace and Darwin joint writings 1858, Origin of Species 1859, chromosomes late 1800s, genes linked to chromosomes early 1900s, DNA structure mid 1900s. Lamarck proposed lifetime changes are inherited, almost never true." loading="lazy">
   <figcaption>Order of the ideas behind inheritance and evolution (not to scale).</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-variation-and-selection--06-antibiotic-resistance.webp" width="900" height="1190" alt="Five dishes of bacteria: a random mutation makes one bacterium resistant; the antibiotic kills the six non-resistant ones; the survivor has less competition; it reproduces and passes on the allele; a resistant strain forms quickly." loading="lazy">
+  <figcaption>The mutation was already there; the antibiotic selected the resistant bacterium.</figcaption>
 </figure>
 
 

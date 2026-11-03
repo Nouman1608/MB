@@ -150,6 +150,16 @@ Worked example. A trader sells 100 units for 2,000. Opening units cost 10 each a
   <figcaption>Each accounting concept has a measurable effect on profit.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-edexcel-accounting-principles-and-double-entry-bookkeeping--05-stock-lower-of-cost-nrv.webp" width="900" height="1110" alt="Three stock lines each show cost and NRV bars with a tick on the lower. Desk lamps use cost (2,160 against 3,360); floor lamps use NRV (1,360 against 1,800); lampshades use NRV (900 against 1,200). Item by item gives 4,420; comparing totals would keep 5,160 and hide a 740 loss." loading="lazy">
+  <figcaption>Stock is valued at the lower of cost and NRV for each item, not on the totals.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-edexcel-accounting-principles-and-double-entry-bookkeeping--09-prepaid-rent.webp" width="900" height="940" alt="Twelve monthly boxes show 12,000 pounds of rent paid on 1 October with a 31 December year end. Three months (3,000) are an expense in the income statement; nine months (9,000) are a prepayment shown as a current asset." loading="lazy">
+  <figcaption>Only the part of rent used in the year is an expense; the rest is a prepayment.</figcaption>
+</figure>
+
 
 ## 1.1.9 Historic cost, materiality, money measurement, realisation, business entity
 
@@ -194,6 +204,11 @@ Worked example. The owner of Orlow Games takes games that cost 150 as a gift. De
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/edexcel-ial-accounting-the-role-and-purpose-of-accounting-and-accounting-conce--08-ial-money-measurement.webp" width="900" height="836" alt="Items with a money amount, such as land bought for 80,000 or a machine for 9,500, are recorded. Workforce skill, loyal customers and reputation have no reliable amount and are not recorded." loading="lazy">
   <figcaption>Only items that can be measured in money are recorded.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-edexcel-accounting-principles-and-double-entry-bookkeeping--08-sale-or-return.webp" width="900" height="1010" alt="Goods with selling price 6,000 pounds and cost 4,000 are sent to a customer who has not accepted them by the year end. Revenue and trade receivables each fall by 6,000 and closing inventory rises by 4,000 at cost, so profit falls by 2,000, from 38,500 to 36,500." loading="lazy">
+  <figcaption>Until the customer accepts, goods on sale or return are inventory at cost, not revenue.</figcaption>
 </figure>
 
 

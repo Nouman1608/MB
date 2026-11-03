@@ -177,17 +177,6 @@ Semolina on castor oil, with electrodes connected to a high-voltage supply: the 
 3. When the field is strong enough, the air can no longer insulate.
 4. Charge crosses the gap in a spark, and the object discharges.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ocr-gcse-physics-static-electricity-and-electric-fields--03-electric-field-lines.webp" width="900" height="1060" alt="Field lines for one positive charge, one negative charge, a positive and negative pair, and two positives. Lines leave positive and enter negative, never cross, and are closest where the field is strongest." loading="lazy">
-  <figcaption>Field lines start on positive charge, end on negative charge and show the force on a small positive charge.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ocr-gcse-physics-static-electricity-and-electric-fields--03-semolina-field-demo.webp" width="900" height="940" alt="A circular dish of castor oil with semolina grains on the surface and two small electrodes, one positive on the left and one negative on the right, connected to a high-voltage supply. The grains line up in curved chains from the positive electrode to the negative electrode, following the electric field lines. The chains are closest together near the electrodes, where the field is strongest, and spread out further away." loading="lazy">
-  <figcaption>Semolina grains in castor oil line up along the field lines between a positive and a negative electrode.</figcaption>
-</figure>
-
-
 ## Quick self-test
 
 1. What is the net charge of a body with equal positive and negative charges?
@@ -215,6 +204,17 @@ Semolina on castor oil, with electrodes connected to a high-voltage supply: the 
 9. Where the lines are closest together.
 10. The opposite direction, because an electron is negative.
 11. The shape of the electric field: the grains line up along the field lines.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-static-electricity-and-electric-fields--03-electric-field-lines.webp" width="900" height="1060" alt="Field lines for one positive charge, one negative charge, a positive and negative pair, and two positives. Lines leave positive and enter negative, never cross, and are closest where the field is strongest." loading="lazy">
+  <figcaption>Field lines start on positive charge, end on negative charge and show the force on a small positive charge.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-static-electricity-and-electric-fields--03-semolina-field-demo.webp" width="900" height="940" alt="A circular dish of castor oil with semolina grains on the surface and two small electrodes, one positive on the left and one negative on the right, connected to a high-voltage supply. The grains line up in curved chains from the positive electrode to the negative electrode, following the electric field lines. The chains are closest together near the electrodes, where the field is strongest, and spread out further away." loading="lazy">
+  <figcaption>Semolina grains in castor oil line up along the field lines between a positive and a negative electrode.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

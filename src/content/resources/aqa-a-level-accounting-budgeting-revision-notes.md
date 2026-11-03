@@ -238,6 +238,12 @@ is simply the cost of making 200 more units.
 9. 600 × 0.75 × 16 = **£7 200**.
 10. −2 000 + 15 000 − 14 200 = **£1 200 overdrawn**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-budgeting--02-production-budget.webp" width="900" height="880" alt="For April, May and June, a bar of what is needed (sales plus closing stock) sits above a bar of what is available (opening stock plus production); both have equal totals of 500, 620 and 710 units. Each month's closing stock becomes the next month's opening stock." loading="lazy">
+  <figcaption>Production is the amount needed to meet sales and closing stock after using up opening stock.</figcaption>
+</figure>
+
+
 ## Where marks are usually lost
 
 - Including depreciation, irrecoverable debts or provisions in a cash budget.

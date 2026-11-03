@@ -102,6 +102,11 @@ For an EM wave, the plane of polarisation is normally taken as the plane of the 
   <figcaption>Filters and grilles pass only vibrations along their transmission direction.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-physics-electromagnetic-spectrum-refraction-and-total-internal--09-dispersion-absorption.webp" width="900" height="1085" alt="Two light pulses are sent. After dispersion each is wider and lower and they merge into one hump. After absorption over 5.0 km at 85 percent per km each keeps its width but only 0.85^5 = 44 percent of the power remains. Regenerators restore shape and strength." loading="lazy">
+  <figcaption>Dispersion lengthens pulses; absorption shrinks them.</figcaption>
+</figure>
+
 
 ## 4.4.2(d)(i) Refraction and refractive index
 
@@ -216,6 +221,11 @@ A light source lies at the bottom of a pool of water (n = 1.33), 0.80 m deep. Li
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/ocr-a-level-physics-electromagnetic-spectrum-refraction-and-total-internal--07-fibre-guiding.webp" width="900" height="1120" alt="In a step index fibre (core 1.55, cladding 1.50, critical angle 75.4 degrees) a ray at 80 degrees to the boundary is totally internally reflected along the core; one at 70 degrees leaks into the cladding. Only rays within 14.6 degrees of the axis are guided. The cladding gives the lower index needed for TIR and also protects the core, stops cross-talk and adds strength." loading="lazy">
   <figcaption>A lower-index cladding makes total internal reflection keep light in the core.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-physics-electromagnetic-spectrum-refraction-and-total-internal--08-modal-dispersion.webp" width="900" height="1040" alt="In a 3.0 km fibre the axial ray takes 15.50 microseconds and the critical-angle zigzag ray, with path L n1/n2, takes 16.02 microseconds. It arrives 517 ns later, so the received pulse is wider and lower. A single-mode narrow core or smaller n1 - n2 reduces the effect." loading="lazy">
+  <figcaption>Rays on different paths arrive at different times, so pulses broaden.</figcaption>
 </figure>
 
 

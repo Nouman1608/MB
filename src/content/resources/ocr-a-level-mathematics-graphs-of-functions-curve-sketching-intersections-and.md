@@ -90,8 +90,18 @@ Write y = k(x + 2)(x − 3)². Put x = 0: k × 2 × 9 = 36, so k = 2.
 **y = 2(x + 2)(x − 3)²**
 
 <figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-transformations-of-graphs--02-reflections.webp" width="900" height="880" alt="y = -f(x) reflects the cubic in the x-axis so the maximum becomes a minimum and vice versa, while (3, 0) stays put. y = f(-x) reflects in the y-axis so the minimum moves to (-2, -4) and is still a minimum." loading="lazy">
+  <figcaption>Reflections are stretches with scale factor -1.</figcaption>
+</figure>
+
+<figure class="topic-figure">
   <img src="https://img.marlbridge.com/aqa-a-level-mathematics-transformations-of-graphs--03-tracking-points.webp" width="900" height="1050" alt="The cubic x^2(x-3) and the curve y = -2f(x+1)+5 with gold arrows carrying (0,0), (2,-4) and (3,0) to (-1,5), (1,13) and (2,5). The y-intercept (0,9) is marked separately because it is found from the new equation." loading="lazy">
   <figcaption>Track each key point through the map (x, y) to (x-1, -2y+5).</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-transformations-of-graphs--05-two-routes-f2x-1.webp" width="900" height="1110" alt="The curve y = f(2x-1) against the dashed cubic, with roots at 1/2 and 2 and a minimum at (3/2,-4). Two number lines follow the root x = 3: stretch by 1/2 then translate right 1/2, or translate right 1 then stretch by 1/2; both reach 2." loading="lazy">
+  <figcaption>The same transformation can be built two ways, so state the order with the number.</figcaption>
 </figure>
 
 <figure class="topic-figure">
@@ -115,6 +125,11 @@ Both curves have the axes as asymptotes. An asymptote is a line the curve approa
 Neither curve crosses an axis. Mark a point such as (1, a) to fix the scale.
 
 A translated reciprocal such as y = 1/(x − 1) has its vertical asymptote at x = 1, because the function is undefined there. In the same way, for y = 6/(x − 2) the vertical asymptote is x = 2, the horizontal asymptote stays at y = 0, and putting x = 0 gives the y-intercept (0, −3). The graph never meets the x-axis because 6/(x − 2) is never zero.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-transformations-of-graphs--01-four-building-blocks.webp" width="900" height="1170" alt="Four graphs of the cubic x^2(x-3) with its dashed original: f(x)+2 moves it up 2, f(x-1) right 1, 3f(x) makes it three times as tall and f(2x) half as wide, with the image of the minimum labelled in each." loading="lazy">
+  <figcaption>Outside the brackets acts on y as expected; inside acts on x and does the opposite.</figcaption>
+</figure>
 
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/aqa-a-level-mathematics-transformations-of-graphs--08-reciprocal-shapes.webp" width="900" height="1190" alt="Four graphs: y = 2/x in quadrants 1 and 3, y = -2/x in quadrants 2 and 4, y = 2/x^2 with both branches above the axis and y = -2/x^2 with both below. The axes are asymptotes and (1, a) fixes the scale." loading="lazy">

@@ -170,6 +170,11 @@ Farm subsidy example: 20 a tonne on 5 million tonnes costs 100 million; if the w
 </figure>
 
 <figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-economic-integration-the-eu-and-the-wto--13-agriculture-subsidy-cost.webp" width="900" height="820" alt="A rich country pays 20 per tonne on 5 million tonnes, 100 million. The world price falls from 200 to 185, 7.5 percent, so a developing exporter selling 4 million tonnes loses 15 x 4 = 60 million." loading="lazy">
+  <figcaption>Rich-country farm subsidies lower world prices and cost developing exporters.</figcaption>
+</figure>
+
+<figure class="topic-figure">
   <img src="https://img.marlbridge.com/ocr-a-level-economics-economic-integration-the-eu-and-the-wto--15-wto-progress-difficulties.webp" width="900" height="1040" alt="Timeline: 1995 WTO set up; 2001 Doha Round launched and largely stalled; 2013 Trade Facilitation Agreement; 2015 Nairobi export subsidy decision; December 2019 Appellate Body unable to review new appeals." loading="lazy">
   <figcaption>Milestones and setbacks in the WTO since 1995.</figcaption>
 </figure>

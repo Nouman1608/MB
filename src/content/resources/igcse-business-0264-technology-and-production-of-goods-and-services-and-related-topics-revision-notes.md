@@ -213,6 +213,12 @@ Technology and sustainability often meet. A precise cutting machine can reduce w
 10. 18,000 ÷ 3,000 = **6 years**.
 11. It may cost more per unit than plastic, which raises costs or lowers profit unless the price rises. (Any one valid disadvantage, linked to the business.)
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-0264-technology-and-production-of-goods-and-services-and-related-topics--07-printer-vs-supplier.webp" width="900" height="850" alt="Total cost against prototypes made: outside supplier £1,200 each; own printer £4,500 plus £35 each. The printer is cheaper from 4 prototypes; at 5 it saves £1,325." loading="lazy">
+  <figcaption>A fixed outlay is spread over more items, so the printer wins above 3.86 prototypes.</figcaption>
+</figure>
+
+
 ## Where marks are usually lost
 
 - Writing a definition of automation when the question asks how it affects a named business.

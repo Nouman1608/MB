@@ -61,6 +61,11 @@ At maximum height the **vertical** velocity is zero, but the horizontal velocity
   <figcaption>Third-law pairs act on different bodies; weight and the normal contact force act on one body and are not a pair.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-oxfordaqa-physics-motion-and-newtons-laws--04-terminal-velocity.webp" width="900" height="1130" alt="A velocity-time graph for a faller computed from a drag-squared model, with points A to E and matching free-body diagrams. Drag grows from zero until it equals the weight at terminal velocity (40 m s-1), then the parachute opens, drag exceeds weight and the speed falls to a smaller terminal velocity (8 m s-1) where drag again equals weight." loading="lazy">
+  <figcaption>Acceleration falls to zero as drag grows to equal weight; opening a parachute gives a new, smaller terminal velocity.</figcaption>
+</figure>
+
 
 ## Moments and equilibrium
 
@@ -155,3 +160,9 @@ Related: [Mechanics practice questions](/resources/edexcel-ial-physics-mechanics
 7. A 3.0 m uniform beam pivots at its centre. A 50 N weight hangs 0.9 m to the left of the pivot. Where must a 30 N weight hang on the right to balance it?
 
 **Answers:** 1. Only when acceleration is uniform. 2. The time of flight — the two motions are otherwise independent. 3. The vertical component is zero, but the horizontal component is unchanged, so the velocity is not zero. 4. Momentum; in an inelastic collision the missing kinetic energy is transferred to thermal energy, sound and deformation. 5. It acts perpendicular to the direction of motion, and only the component of force along the displacement does work. 6. For a body in equilibrium, the sum of clockwise moments about any point equals the sum of anticlockwise moments about that same point. 7. 30 × d = 50 × 0.9 → d = 45 ÷ 30 = **1.5 m**.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-oxfordaqa-physics-motion-and-newtons-laws--01-slope-forces.webp" width="900" height="840" alt="Free-body diagram of a 12 kg block on a 25 degree slope with arrows to scale. Weight 118 N acts down, the normal contact force 107 N is perpendicular to the slope and friction 18 N acts up the slope. Weight is resolved into mg sin 25 = 49.8 N down the slope and mg cos 25 = 107 N into it, giving a net 31.8 N and a = 2.6 m s-2." loading="lazy">
+  <figcaption>The normal force is perpendicular to the slope, and the weight splits into components along and into it.</figcaption>
+</figure>
+

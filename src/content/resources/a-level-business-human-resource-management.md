@@ -143,6 +143,12 @@ foundational knowledge to keep secure, rather than content to revise
 once and move past, pays off well beyond this topic's own exam
 questions.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-business-human-resource-management--07-conflict.webp" width="900" height="1040" alt="Employee actions: withdraw cooperation, work to rule, overtime ban, strike, leave. Causes: pay, conditions, job losses, change. Resolution: participation, bargaining between managers and representatives, arbitration by an independent third party." loading="lazy">
+  <figcaption>Conflict can be settled by participation, bargaining or arbitration.</figcaption>
+</figure>
+
+
 ## Worked example: applying recruitment to a scenario
 
 A typical exam scenario gives a growing business that needs to fill a

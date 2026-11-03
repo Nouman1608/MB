@@ -163,6 +163,16 @@ Two things contribute to good service:
   <figcaption>The website earns most, but telesales has the highest average sale.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-business-business-operations--05-customer-service-chain.webp" width="900" height="850" alt="Three methods of good service (product knowledge, customer engagement, after-sales service). Good service leads to a satisfied, loyal customer who spends more so profit rises. Poor service leads to an unhappy customer, bad word of mouth and falling revenue." loading="lazy">
+  <figcaption>Good service builds loyalty and profit; poor service damages reputation and revenue.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-business-influences-on-business--01-ecommerce-reach.webp" width="900" height="1090" alt="A shop selling only to a few nearby customers inside a small dashed circle, then the same shop with a website reaching many customers spread widely. Labels say e-commerce affects marketing (wider markets) and operations (order fulfilment)." loading="lazy">
+  <figcaption>E-commerce lets a business reach customers well beyond its local area.</figcaption>
+</figure>
+
 
 ## 4.4 Consumer law
 
@@ -209,6 +219,11 @@ Summing each site's monthly costs is a standard method, not a specification form
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/ocr-gcse-business-operations--14-site-cost-differences.webp" width="900" height="850" alt="A bar chart of the monthly cost difference between Site B and Site A: rent +2,100, wages +4,200, materials in +1,500, delivery out -2,300 pounds, totalling +5,500. Site A costs 35,200 pounds and Site B 40,700, so A is 5,500 pounds a month cheaper; the answer should also weigh non-cost factors." loading="lazy">
   <figcaption>Site B is dearer on rent, wages and materials but cheaper on delivery; overall Site A saves 5,500 pounds a month.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-business-business-in-the-real-world--04-location-factors.webp" width="900" height="960" alt="Two panels. A bakery sits near its customers with a thick arrow toward the market and a thin arrow toward distant raw materials. A steel plant sits near its raw materials with a thick arrow toward them and a thin arrow toward the market. Other factors are labour, transport links, rent and incentives." loading="lazy">
+  <figcaption>The dominant location factor differs by business: a bakery follows its market, a steel plant follows its raw materials.</figcaption>
 </figure>
 
 

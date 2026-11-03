@@ -158,6 +158,17 @@ magnification = image size / actual size
 
 Biological drawings should use **clear, continuous lines** with **no shading**, be drawn **to a stated magnification or scale**, use **label lines that do not cross**, and show **only what is actually visible** in the specimen — not what is expected to be there.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-biology-practical-endorsement-skills-apparatus-and-techniques--03-graticule-magnification.webp" width="900" height="1060" alt="Rulers show 20 graticule divisions spanning 100 µm at x10 (5.0 µm each) and 80 divisions at x40 (1.25 µm each). A cell 14 divisions long at x40 is 17.5 µm. A drawing 52.5 mm long gives magnification 52.5 / 0.0175 = x3000." loading="lazy">
+  <figcaption>Calibrate the graticule for each objective, then convert and use consistent units for magnification.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-biology-development-of-practical-skills--01-drawing-rules-good-vs-poor.webp" width="900" height="1150" alt="Two drawings of the same three plant cells. The good drawing has single continuous outlines, no shading and straight, uncrossed label lines for cell wall, nucleus and cytoplasm. The poor drawing is sketchy and shaded and its label lines cross." loading="lazy">
+  <figcaption>A good biological drawing uses clean continuous lines, no shading and label lines that do not cross.</figcaption>
+</figure>
+
+
 ## Quantitative techniques
 
 **Serial dilution** produces a known concentration range from a single stock solution — a tenfold series is made by transferring 1 cm³ into 9 cm³ of solvent at each step.
@@ -174,6 +185,11 @@ Biological drawings should use **clear, continuous lines** with **no shading**, 
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/ocr-a-level-biology-development-of-practical-skills--03-colorimeter-calibration.webp" width="900" height="980" alt="Graph of absorbance against concentration (arbitrary units) with six known points on a straight best-fit line. A dashed line from an unknown absorbance of 0.50 meets the line and drops to the concentration axis at about 0.62." loading="lazy">
   <figcaption>Read an unknown concentration from its absorbance using the calibration line (illustrative data).</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-biology-planning-implementing-analysing-and-evaluating--04-rate-tangent.webp" width="900" height="840" alt="A curve of product volume against time with a tangent at 30 s through (10, 9.2) and (50, 18.8). The gradient is 9.6 divided by 40, which is 0.24 cm3 per s. The steeper tangent at 0 s gives the initial rate, about 0.8 cm3 per s." loading="lazy">
+  <figcaption>The rate at a point is the gradient of the tangent there; the initial rate is the steepest.</figcaption>
 </figure>
 
 
@@ -207,3 +223,14 @@ Compare the calculated value with the **critical value at p = 0.05**. If the cal
 5. What does it mean when error bars for two treatments overlap?
 
 **Answers:** 1. Accuracy is closeness to the true value; precision is how close repeat readings are to each other. A balance with a zero error gives consistent readings that are all consistently wrong — precise but inaccurate. 2. Half the smallest scale division, doubled, because a burette measurement requires an initial and a final reading, each carrying uncertainty. 3. It reduces random error; it does not reduce systematic error, which requires recalibration. 4. Measure a larger quantity, so the fixed absolute uncertainty forms a smaller proportion of the reading. 5. The difference between the two treatments may not be statistically significant.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-biology-development-of-practical-skills--05-choose-statistical-test.webp" width="900" height="860" alt="Three panels: overlapping bell curves for a difference between two means (t-test, normally distributed data); a scatter graph with trend line for association between two variables (correlation coefficient); observed and expected bars for chi-squared." loading="lazy">
+  <figcaption>Match the question to the test: t-test, correlation coefficient or chi-squared.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-biology-development-of-practical-skills--06-critical-value-decision.webp" width="900" height="780" alt="A number line with an illustrative critical value at 6. Result A at 3.8 is below it and not significant. Result B at 8.2 is above it, so the null hypothesis is rejected, meaning under 5% probability the difference is due to chance." loading="lazy">
+  <figcaption>If the calculated value exceeds the critical value at p = 0.05, reject the null hypothesis.</figcaption>
+</figure>
+

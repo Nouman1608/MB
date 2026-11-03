@@ -46,6 +46,12 @@ Find weak spots with the [free diagnostics](/diagnostics/), tick off topics on t
 | Aggregate demand | Planned spending on home-produced output, shown against the price level |
 | Accelerator | Net investment depends on the change in output, not its level |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-the-circular-flow-of-income-propensities-and-aggregate--08-cf-physical-monetary.webp" width="900" height="890" alt="A household and a bakery are joined by four arrows: labour (solid) to the bakery with the wage (dashed) back, and bread (solid) to the household with the payment (dashed) back." loading="lazy">
+  <figcaption>Each physical flow has a monetary flow in the opposite direction.</figcaption>
+</figure>
+
+
 ## Formulas
 
 | Measure | Formula |
@@ -64,12 +70,6 @@ Find weak spots with the [free diagnostics](/diagnostics/), tick off topics on t
 
 Relationships: APC + APS = 1 and MPC + MPS = 1 on disposable income. Equilibrium in the flow: W = J.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ocr-a-level-economics-the-circular-flow-of-income-propensities-and-aggregate--08-cf-mpw.webp" width="900" height="980" alt="A bar splits a 200 rise in national income into saving 30, tax 50, imports 40 and 80 re-spent, giving MPS 0.15, MRT 0.25, MPM 0.20 and MPW 0.60." loading="lazy">
-  <figcaption>The marginal propensity to withdraw adds the three leakages; 1 minus MPW is re-spent on domestic output.</figcaption>
-</figure>
-
-
 ## Method in steps
 
 **Calculating propensities**
@@ -86,6 +86,12 @@ Relationships: APC + APS = 1 and MPC + MPS = 1 on disposable income. Equilibrium
 
 **Reasoning chain for a shift in AD**
 Trigger → which component changes → direction at every price level → shift left or right.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-the-circular-flow-of-income-propensities-and-aggregate--09-cf-accelerator.webp" width="900" height="1076" alt="Output bars with the change in output sit above bars of gross investment (3 x change in output + 20). In year 4 output rises but investment falls from 65 to 50." loading="lazy">
+  <figcaption>Investment depends on the change in output, so slower growth cuts investment even while output rises.</figcaption>
+</figure>
+
 
 ## Small worked reminders
 
@@ -104,11 +110,6 @@ Trigger → which component changes → direction at every price level → shift
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/ocr-a-level-economics-the-circular-flow-of-income-propensities-and-aggregate--06-cf-three-methods.webp" width="900" height="1040" alt="Three equal-height stacked columns show the output, income and expenditure methods each totalling 1,000 for Country A." loading="lazy">
   <figcaption>The three methods give the same total because every unit spent is someone’s output and income.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ocr-a-level-economics-the-circular-flow-of-income-propensities-and-aggregate--09-cf-double-counting.webp" width="900" height="850" alt="A farm-mill-bakery chain and two bars: adding sales of 30, 50 and 90 gives 170, counting wheat three times, while adding value added of 30, 20 and 40 gives 90, the price of the bread." loading="lazy">
-  <figcaption>Adding value added at each stage gives 90, avoiding the double counting that adding sales (170) creates.</figcaption>
 </figure>
 
 
@@ -200,12 +201,6 @@ Equilibrium: W = J. If J is above W, income tends to rise; if below, it tends to
 
 C = a + b·Yd, where a is autonomous consumption and b is the MPC. With a = 40 and b = 0.9, Yd = 300 gives C = 40 + 270 = **310**, and Yd = 400 gives C = **400**. The rise in C is 90 for a rise of 100 in Yd, so MPC = **0.9**. APC at 300 is 310/300 = 1.03, so the household is spending more than its income, using savings or credit.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ocr-a-level-economics-the-circular-flow-of-income-propensities-and-aggregate--07-cf-apc-mpc.webp" width="900" height="1000" alt="Consumption plotted against disposable income lies on C = 10 + 0.8Yd. A step of 100 in income gives 80 in consumption (MPC 0.8) while dashed rays from the origin show APC falling from 0.90 to 0.825." loading="lazy">
-  <figcaption>MPC stays at 0.8 at every income level, so the average propensity to consume falls as income rises.</figcaption>
-</figure>
-
-
 ## Chains of reasoning to learn
 
 - **Higher interest rates:** dearer borrowing and better return on saving, so C and I fall, so AD shifts left.
@@ -214,12 +209,6 @@ C = a + b·Yd, where a is autonomous consumption and b is the MPC. With a = 40 a
 - **Faster output growth:** firms need more capital, so net investment rises, so AD rises. Slower growth does the opposite.
 - **Government spending cut:** G is a direct component, so AD shifts left at every price level, with no change in the price level needed.
 - **Higher income tax rate:** lower Yd, so C falls, so AD shifts left. A bigger MRT also raises MPW, so less of each extra unit of income is re-spent at home.
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ocr-a-level-economics-the-circular-flow-of-income-propensities-and-aggregate--09-cf-accelerator.webp" width="900" height="1076" alt="Output bars with the change in output sit above bars of gross investment (3 x change in output + 20). In year 4 output rises but investment falls from 65 to 50." loading="lazy">
-  <figcaption>Investment depends on the change in output, so slower growth cuts investment even while output rises.</figcaption>
-</figure>
-
 
 ## Quick self-test
 
@@ -246,6 +235,22 @@ C = a + b·Yd, where a is autonomous consumption and b is the MPC. With a = 40 a
 8. Any two of: wealth effect, interest rate effect, international trade effect.
 9. The wealth effect: higher wealth tends to raise consumption.
 10. Left, because imports are subtracted from AD in X − M.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-the-circular-flow-of-income-propensities-and-aggregate--07-cf-apc-mpc.webp" width="900" height="1000" alt="Consumption plotted against disposable income lies on C = 10 + 0.8Yd. A step of 100 in income gives 80 in consumption (MPC 0.8) while dashed rays from the origin show APC falling from 0.90 to 0.825." loading="lazy">
+  <figcaption>MPC stays at 0.8 at every income level, so the average propensity to consume falls as income rises.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-the-circular-flow-of-income-propensities-and-aggregate--08-cf-mpw.webp" width="900" height="980" alt="A bar splits a 200 rise in national income into saving 30, tax 50, imports 40 and 80 re-spent, giving MPS 0.15, MRT 0.25, MPM 0.20 and MPW 0.60." loading="lazy">
+  <figcaption>The marginal propensity to withdraw adds the three leakages; 1 minus MPW is re-spent on domestic output.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-the-circular-flow-of-income-propensities-and-aggregate--09-cf-double-counting.webp" width="900" height="850" alt="A farm-mill-bakery chain and two bars: adding sales of 30, 50 and 90 gives 170, counting wheat three times, while adding value added of 30, 20 and 40 gives 90, the price of the bread." loading="lazy">
+  <figcaption>Adding value added at each stage gives 90, avoiding the double counting that adding sales (170) creates.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

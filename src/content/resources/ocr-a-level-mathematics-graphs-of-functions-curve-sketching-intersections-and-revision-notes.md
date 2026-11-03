@@ -69,6 +69,16 @@ Roots: −1 (touches) and 3 (crosses). y-intercept: (1)(−3) = −3. Positive c
 **Finding an equation from a sketch.** Write the factorised form with an unknown constant k, then use one known point (often the y-intercept) to find k.
 
 <figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-transformations-of-graphs--02-reflections.webp" width="900" height="880" alt="y = -f(x) reflects the cubic in the x-axis so the maximum becomes a minimum and vice versa, while (3, 0) stays put. y = f(-x) reflects in the y-axis so the minimum moves to (-2, -4) and is still a minimum." loading="lazy">
+  <figcaption>Reflections are stretches with scale factor -1.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-transformations-of-graphs--05-two-routes-f2x-1.webp" width="900" height="1110" alt="The curve y = f(2x-1) against the dashed cubic, with roots at 1/2 and 2 and a minimum at (3/2,-4). Two number lines follow the root x = 3: stretch by 1/2 then translate right 1/2, or translate right 1 then stretch by 1/2; both reach 2." loading="lazy">
+  <figcaption>The same transformation can be built two ways, so state the order with the number.</figcaption>
+</figure>
+
+<figure class="topic-figure">
   <img src="https://img.marlbridge.com/aqa-a-level-mathematics-transformations-of-graphs--06-sketching-polynomials.webp" width="900" height="1230" alt="Three small graphs show a linear factor crossing, a squared factor touching and a cubed factor flattening as it crosses. Below, y = (2-x)(x+1)^3 is sketched with the flat point (-1,0), root (2,0), y-intercept (0,2) and maximum (5/4, 2187/256)." loading="lazy">
   <figcaption>Odd powers cross the axis, even powers touch it.</figcaption>
 </figure>

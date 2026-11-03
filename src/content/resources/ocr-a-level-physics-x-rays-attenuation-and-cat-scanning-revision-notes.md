@@ -160,12 +160,6 @@ Order to quote: tube rotates, detectors record, computer reconstructs, display s
 - Position, size and depth can be measured, and 3D views built.
 - Against: higher dose of ionising radiation, expensive equipment, limited availability.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-physics-medical-physics--06-aphy-medical-ct-scanner.webp" width="900" height="1110" alt="A CT scanner rotates an X-ray tube so that a thin fan beam crosses one slice of the body from many angles, recorded by a ring of detectors. A computer combines the readings into a grey-scale image whose pixel brightness shows how strongly each small volume absorbs. Moving the couch gives a series of slices that build a 3-D image." loading="lazy">
-  <figcaption>CT combines many angled X-ray views of each slice, then stacks slices into a 3-D image.</figcaption>
-</figure>
-
-
 ## Quick self-test
 
 1. State what the high voltage supply does in an X-ray tube.
@@ -193,6 +187,12 @@ Order to quote: tube rotates, detectors record, computer reconstructs, display s
 9. High atomic number, so it absorbs strongly, and the insoluble sulfate is not absorbed into the body.
 10. Any two of: no overlapping structures, better soft tissue contrast, 3D views, measurement of position and size.
 11. −μ.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-medical-physics--06-aphy-medical-ct-scanner.webp" width="900" height="1110" alt="A CT scanner rotates an X-ray tube so that a thin fan beam crosses one slice of the body from many angles, recorded by a ring of detectors. A computer combines the readings into a grey-scale image whose pixel brightness shows how strongly each small volume absorbs. Moving the couch gives a series of slices that build a 3-D image." loading="lazy">
+  <figcaption>CT combines many angled X-ray views of each slice, then stacks slices into a 3-D image.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

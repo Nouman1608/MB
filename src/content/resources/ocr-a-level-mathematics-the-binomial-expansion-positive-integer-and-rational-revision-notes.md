@@ -89,6 +89,12 @@ The specification says you may be asked for a particular term of a rational-powe
 | u and x | u = bx/a is the quantity that must lie between −1 and 1 |
 | Range for the sum | For a sum of two fractions, take the intersection (the smaller range) |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-maths-9709-pure-mathematics-1-series--04-gp-convergence.webp" width="900" height="1230" alt="Four stem plots of the first eight terms of a geometric series with first term 1. For r = 0.6 and r = minus 0.6 the terms shrink to zero (convergent). For r = 1.2 and r = minus 1.2 they grow (divergent). A number line shows convergence exactly when r is between minus 1 and 1." loading="lazy">
+  <figcaption>A geometric series has a sum to infinity only when |r| &lt; 1.</figcaption>
+</figure>
+
+
 ## Validity at a glance
 
 Divide the constant term by the coefficient of x, ignoring signs. That quotient is the edge of the range, and the expansion holds for x between minus that value and plus that value.

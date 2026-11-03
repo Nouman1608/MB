@@ -59,12 +59,6 @@ These are condensed notes for **section 5.4 Manufacturing accounts** of the Camb
 | Work in progress (WIP) | Part-finished goods at the year end |
 | Factory cost of production | Prime cost + factory overheads + opening WIP - closing WIP |
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-accounting-manufacturing-accounts--04-mfg-factory-cost.webp" width="900" height="915" alt="A waterfall in dollars: raw materials consumed 117,300 plus direct labour 86,500 is prime cost 203,800. Adding factory overheads 66,600 and opening work in progress 4,800 and deducting closing work in progress 6,300 gives factory cost of production 268,900." loading="lazy">
-  <figcaption>Prime cost plus overheads, adjusted for work in progress, gives the factory cost of production.</figcaption>
-</figure>
-
-
 ## Formulas
 
 - Cost of raw materials consumed = opening raw materials + purchases + carriage inwards - returns outwards - closing raw materials
@@ -119,8 +113,8 @@ Oakhaven Preserves, a sole trader making jam, year ended 30 September 2028. Raw 
 Inventories in the statement of financial position: 6,100 + 1,700 + 4,600 = 12,400.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-accounting-manufacturing-accounts--05-mfg-into-profit-or-loss.webp" width="900" height="860" alt="Opening finished goods 21,000 plus factory cost of production 268,900, less closing finished goods 24,600 and goods taken by the owner 1,200, gives cost of sales 264,100. A bar splits revenue less returns of 390,000 into cost of sales and gross profit of 125,900." loading="lazy">
-  <figcaption>Factory cost of production takes the place of purchases in a manufacturer’s cost of sales.</figcaption>
+  <img src="https://img.marlbridge.com/igcse-accounting-manufacturing-accounts--04-mfg-factory-cost.webp" width="900" height="915" alt="A waterfall in dollars: raw materials consumed 117,300 plus direct labour 86,500 is prime cost 203,800. Adding factory overheads 66,600 and opening work in progress 4,800 and deducting closing work in progress 6,300 gives factory cost of production 268,900." loading="lazy">
+  <figcaption>Prime cost plus overheads, adjusted for work in progress, gives the factory cost of production.</figcaption>
 </figure>
 
 
@@ -186,6 +180,16 @@ Depreciation of factory machinery is a factory overhead. Depreciation of office 
 12. Cost of sales falls by 900, so gross profit rises by 900; drawings rise by 900.
 
 <figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-accounting-manufacturing-accounts--03-mfg-which-cost.webp" width="900" height="983" alt="Tarnley Canoes costs sorted into three groups. Polyethylene sheet and moulding team wages are direct and make up prime cost. Supervisor wages, factory power and machine depreciation are indirect factory overheads. The sales manager salary is not a factory cost." loading="lazy">
+  <figcaption>Direct costs and factory overheads belong in the manufacturing account; selling costs do not.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-accounting-manufacturing-accounts--05-mfg-into-profit-or-loss.webp" width="900" height="860" alt="Opening finished goods 21,000 plus factory cost of production 268,900, less closing finished goods 24,600 and goods taken by the owner 1,200, gives cost of sales 264,100. A bar splits revenue less returns of 390,000 into cost of sales and gross profit of 125,900." loading="lazy">
+  <figcaption>Factory cost of production takes the place of purchases in a manufacturer’s cost of sales.</figcaption>
+</figure>
+
+<figure class="topic-figure">
   <img src="https://img.marlbridge.com/igcse-accounting-manufacturing-accounts--05-mfg-raw-materials-consumed.webp" width="900" height="820" alt="A waterfall in dollars: opening 14,200 plus purchases 118,400, less returns outwards 2,100, plus carriage inwards 3,300 is 133,800; less closing inventory 16,500 leaves raw materials consumed 117,300." loading="lazy">
   <figcaption>Raw materials consumed, not purchases, is the direct material in prime cost.</figcaption>
 </figure>
@@ -207,12 +211,6 @@ Depreciation of factory machinery is a factory overhead. Depreciation of office 
 - Giving one inventory figure in the statement of financial position.
 - Writing a total with no label, so a marker cannot see which line it is.
 - Omitting the $ sign or the year-end date from a heading.
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-accounting-manufacturing-accounts--03-mfg-which-cost.webp" width="900" height="983" alt="Tarnley Canoes costs sorted into three groups. Polyethylene sheet and moulding team wages are direct and make up prime cost. Supervisor wages, factory power and machine depreciation are indirect factory overheads. The sales manager salary is not a factory cost." loading="lazy">
-  <figcaption>Direct costs and factory overheads belong in the manufacturing account; selling costs do not.</figcaption>
-</figure>
-
 
 ## Official syllabus
 

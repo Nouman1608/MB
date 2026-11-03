@@ -194,6 +194,16 @@ A cube of the same volume has sides of 1.26 cm, a surface area of 9.52 cm² and 
   <figcaption>A thin leaf has about four times the surface area to volume ratio of a cube of the same volume.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-biology-8461-transport-in-cells--01-sa-v-cubes.webp" width="900" height="740" alt="Three cubes drawn to scale with sides 1, 2 and 4 cm. Surface areas are 6, 24 and 96 cm² and volumes 1, 8 and 64 cm³, giving ratios 6:1, 3:1 and 1.5:1. Each time the side doubles, the ratio halves." loading="lazy">
+  <figcaption>Doubling the side of a cube halves its surface area to volume ratio.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-biology-5090-transport-in-flowering-plants--07-root-hair-cell.webp" width="900" height="1000" alt="A root hair cell with a long thin hair among soil particles. Labels: thin cell wall, cell sap with lower water potential than soil, many mitochondria for active transport, nucleus. Arrows show water entering by osmosis and ions by active transport." loading="lazy">
+  <figcaption>Each feature of a root hair cell helps uptake of water and ions.</figcaption>
+</figure>
+
 
 ## 3.2.2 d-e: Water loss, wilting and guard cells
 
@@ -223,6 +233,16 @@ Percentage increase from cool still to warm windy = (4.6 − 1.2) ÷ 1.2 × 100 
   <figcaption>Guard cells open and close the stoma, controlling gas exchange and water loss.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-transport-in-plants--06-transpiration-factors.webp" width="900" height="1290" alt="Three side-by-side comparisons of a leaf with copper arrows for water vapour leaving; more arrows mean a faster rate. Warm air gives more than cool air, windy air more than still air, and humid air less than dry air. Explanations (kinetic energy, concentration gradient) are Extended; humidity is Extended." loading="lazy">
+  <figcaption>Higher temperature and wind speed raise the rate; higher humidity lowers it.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-transport-in-plants--07-wilting.webp" width="900" height="1150" alt="Extended. With enough water the cells are turgid and push out on their walls, holding leaves up. If water is lost by transpiration faster than it is taken up, cells lose water by osmosis, become flaccid and limp, and the leaves and stem droop: the plant wilts." loading="lazy">
+  <figcaption>Water loss makes cells flaccid, so the plant droops.</figcaption>
+</figure>
+
 
 ## 3.2.2 f: Transport systems
 
@@ -241,6 +261,16 @@ The transpiration stream is the flow of water that enters at the roots, rises th
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/oxfordaqa-igcse-biology-photosynthesis-limiting-factors-and-transport-in-plants--02-xylem-phloem-structure.webp" width="900" height="1130" alt="Xylem is a hollow tube of dead cells with strong lignin walls and no end walls, carrying water and mineral ions up. Phloem is made of living sieve tubes whose end walls (sieve plates) have pores, with a companion cell beside each, carrying sugars up and down." loading="lazy">
   <figcaption>Xylem is a hollow lignified tube; phloem is a stack of living sieve tubes with pores and companion cells.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-transport-in-plants--02-xylem-vessel-structure.webp" width="900" height="1130" alt="Extended. A xylem vessel drawn lengthways as a long hollow tube. Thick walls strengthened with lignin stop it collapsing and support the plant. It has no cell contents, so nothing blocks the water. Cells are joined end to end with no cross walls, forming one tube from root to leaf." loading="lazy">
+  <figcaption>Three features make a xylem vessel a good water pipe.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-transport-in-plants--08-sources-and-sinks.webp" width="900" height="1290" alt="Extended. A plant diagram: a mature photosynthesising leaf is a source releasing sucrose into the phloem; arrows show it moving up to the shoot tip, along to a fruit and down to roots, which are sinks that use or store it. Below, a young leaf is a sink and becomes a source when mature." loading="lazy">
+  <figcaption>Phloem carries sucrose from sources to sinks, and a leaf can be both at different times.</figcaption>
 </figure>
 
 

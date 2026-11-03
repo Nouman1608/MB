@@ -74,8 +74,8 @@ For the rest of topic 1, use the [topic 1 revision notes](/resources/edexcel-igc
 Useful conversions: 1 m = 100 cm, 1 km = 100 000 cm, 1 kg = 1000 g, 1 litre = 1000 ml.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-mathematics-number--06-percentage-multiplier.webp" width="900" height="780" alt="Bars drawn to scale show $70 as 100%. Multiplying by 1.2 gives $84 (120%); multiplying by 0.8 gives $56 (80%). The decrease panel extends the lesson example for contrast." loading="lazy">
-  <figcaption>A percentage change is a single multiplication: increase 20% is x 1.2, decrease 20% is x 0.8.</figcaption>
+  <img src="https://img.marlbridge.com/edexcel-igcse-maths-4ma1-percentages-ratio-and-proportion--01-pct-base-compare.webp" width="900" height="1090" alt="Two strips show 63 of 75 is 84 percent and 750 g of 2.5 kg is 30 percent; two bars show a fare falling from 250 to 215, a 14 percent decrease. Always divide by the whole or the original." loading="lazy">
+  <figcaption>Divide the part by the whole, or the change by the original, then multiply by 100.</figcaption>
 </figure>
 
 
@@ -160,11 +160,6 @@ Small reminder: share 96 in the ratio 5 : 3. Total 8 parts, one part 12, shares 
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-mathematics-0580-fractions-decimals-percentages-ordering-operations--01-fraction-decimal-percentage.webp" width="900" height="830" alt="A bar of 16 equal parts with 7 shaded, a 0 to 1 scale and a 0 to 100% scale mark the same point. Dividing 7 by 16 gives 0.4375, and multiplying by 100 gives 43.75%." loading="lazy">
-  <figcaption>7/16 as a fraction, decimal and percentage are all the same point.</figcaption>
-</figure>
-
-<figure class="topic-figure">
   <img src="https://img.marlbridge.com/igcse-mathematics-number--05-sharing-in-a-ratio.webp" width="900" height="680" alt="A bar of nine equal blocks worth 20 each is split 2, 3 and 4. The total 180 divided by 9 gives 20 per part, so the shares are 40, 60 and 80 dollars." loading="lazy">
   <figcaption>Add the parts, divide the total by that number, then multiply by each share.</figcaption>
 </figure>
@@ -193,6 +188,12 @@ Knowing these lets you check a calculator answer quickly. For example, 25% of a 
 - Sense check: the real distance must always be much bigger than the map distance.
 - A plan or scale drawing works the same way. A scale of 1 : 50 means 1 cm on the drawing is 50 cm in real life.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-geometrical-terms-constructions-and-scale-drawings--04-map-scale.webp" width="900" height="880" alt="Two map-scale conversions at 1 to 50 000. Map 7.3 cm times 50 000 is 365 000 cm, which is 3.65 km. Real 2.4 km is 240 000 cm, divided by 50 000 gives 4.8 cm on the map." loading="lazy">
+  <figcaption>Map to real: multiply. Real to map: divide.</figcaption>
+</figure>
+
+
 ## Must-know distinctions
 
 | This | Is not the same as |
@@ -206,12 +207,6 @@ Knowing these lets you check a calculator answer quickly. For example, 25% of a 
 | Repeated change: multiply multipliers | Adding the percentages |
 
 Higher tier reminder: a 6% rise then a 6% fall gives 1.06 × 0.94 = 0.9964, an overall decrease of 0.36%, not zero.
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/edexcel-igcse-maths-4ma1-percentages-ratio-and-proportion--08-repeated-percentage-change.webp" width="900" height="850" alt="100 rises by 25% to 125, then falls by 12% of 125 (15) to 110. Adding the percentages gives 113, which is wrong. The multipliers 1.25 and 0.88 multiply to 1.1, an overall rise of 10%." loading="lazy">
-  <figcaption>Multiply the multipliers: 1.25 × 0.88 = 1.1, an overall increase of 10%.</figcaption>
-</figure>
-
 
 ## Quick self-test
 
@@ -243,6 +238,27 @@ Higher tier reminder: a 6% rise then a 6% fall gives 1.06 × 0.94 = 0.9964, an o
 11. 1.4 × 0.75 = 1.05, so an overall **increase of 5%**.
 12. m² = 40 500/50 000 = 0.81, m = 0.9, so **10% per year**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-maths-4ma1-percentages-ratio-and-proportion--07-reverse-percentage-blocks.webp" width="900" height="830" alt="Three blocks of £21 make the £63 sale price (75%); a fourth block is the 25% taken off. Dividing by 0.75 gives the original £84. Adding 25% of £63 gives £78.75, which is wrong." loading="lazy">
+  <figcaption>£63 is 75% of the original, so divide by 0.75 to get £84.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-maths-4ma1-percentages-ratio-and-proportion--08-repeated-percentage-change.webp" width="900" height="850" alt="100 rises by 25% to 125, then falls by 12% of 125 (15) to 110. Adding the percentages gives 113, which is wrong. The multipliers 1.25 and 0.88 multiply to 1.1, an overall rise of 10%." loading="lazy">
+  <figcaption>Multiply the multipliers: 1.25 × 0.88 = 1.1, an overall increase of 10%.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-fractions-decimals-percentages-ordering-operations--01-fraction-decimal-percentage.webp" width="900" height="830" alt="A bar of 16 equal parts with 7 shaded, a 0 to 1 scale and a 0 to 100% scale mark the same point. Dividing 7 by 16 gives 0.4375, and multiplying by 100 gives 43.75%." loading="lazy">
+  <figcaption>7/16 as a fraction, decimal and percentage are all the same point.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-number--06-percentage-multiplier.webp" width="900" height="780" alt="Bars drawn to scale show $70 as 100%. Multiplying by 1.2 gives $84 (120%); multiplying by 0.8 gives $56 (80%). The decrease panel extends the lesson example for contrast." loading="lazy">
+  <figcaption>A percentage change is a single multiplication: increase 20% is x 1.2, decrease 20% is x 0.8.</figcaption>
+</figure>
+
+
 ## Where marks are usually lost
 
 - Dividing the change by the new value in a percentage change question.
@@ -261,11 +277,6 @@ When you are ready, work through the [practice questions](/resources/edexcel-igc
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/edexcel-igcse-maths-4ma1-percentages-ratio-and-proportion--06-compound-interest-years.webp" width="900" height="870" alt="Bars show the interest earned each year on £5000 at 4%: £200, £208 and £216.32. The extra over £200 is interest on earlier interest. The total is £5624.32, an interest of £624.32, compared with £600 simple." loading="lazy">
   <figcaption>Each year interest is paid on the new total, so it grows: £200, £208, £216.32.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/edexcel-igcse-maths-4ma1-percentages-ratio-and-proportion--07-reverse-percentage-blocks.webp" width="900" height="830" alt="Three blocks of £21 make the £63 sale price (75%); a fourth block is the 25% taken off. Dividing by 0.75 gives the original £84. Adding 25% of £63 gives £78.75, which is wrong." loading="lazy">
-  <figcaption>£63 is 75% of the original, so divide by 0.75 to get £84.</figcaption>
 </figure>
 
 

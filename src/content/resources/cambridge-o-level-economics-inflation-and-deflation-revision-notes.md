@@ -179,12 +179,6 @@ Mild, steady inflation can be consistent with growth. Fast or unpredictable infl
 
 Evaluation checklist: (1) policy matches the cause; (2) time lags; (3) cost to growth and jobs; (4) confidence and expectations; (5) the economy's size and openness; (6) a final judgement with a reason.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/cambridge-o-level-economics-inflation-and-deflation--13-inflation-policies.webp" width="900" height="890" alt="Five policies against inflation with what each acts on and its main limit: fiscal and monetary policy lower demand, supply-side policy lowers costs, a stronger currency lowers import prices, and direct controls hold prices down. A note says to match the policy to the cause and that deflation policies are the reverse." loading="lazy">
-  <figcaption>Each policy acts on a different part of the economy and has its own limit.</figcaption>
-</figure>
-
-
 ## Quick self-test
 
 1. Define deflation.
@@ -210,6 +204,12 @@ Evaluation checklist: (1) policy matches the cause; (2) time lags; (3) cost to g
 8. Repayments are made in money that buys less than when it was lent.
 9. Higher rates reduce spending, yet the source of cost-push inflation is on the supply side. Output and employment may fall while prices keep rising.
 10. Cut taxes or raise government spending; the drawback is higher government borrowing (or a time lag).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-economics-inflation-and-deflation--13-inflation-policies.webp" width="900" height="890" alt="Five policies against inflation with what each acts on and its main limit: fiscal and monetary policy lower demand, supply-side policy lowers costs, a stronger currency lowers import prices, and direct controls hold prices down. A note says to match the policy to the cause and that deflation policies are the reverse." loading="lazy">
+  <figcaption>Each policy acts on a different part of the economy and has its own limit.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

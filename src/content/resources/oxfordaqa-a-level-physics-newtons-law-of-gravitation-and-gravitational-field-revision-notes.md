@@ -85,6 +85,12 @@ Start from the two results you know, then let the test mass cancel.
 
 This shows that g depends only on the source mass M and the distance r. It also explains why every freely falling object near a planet has the same acceleration, whatever its mass, when air resistance is ignored.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-gravitational-fields--05-orbit-kepler-third.webp" width="900" height="1210" alt="A satellite on a circular orbit has gravity as its centripetal force. Equating GMm/r2 with mv2/r cancels m and gives v = root(GM/r), then T2 = (4pi2/GM) r3. A graph of T2 against r3 for Earth satellites is a straight line through the origin, passing through the 24 hour point." loading="lazy">
+  <figcaption>Gravity supplies the centripetal force, so v and T depend only on M and r, giving T2 proportional to r3.</figcaption>
+</figure>
+
+
 ## How g changes with distance
 
 Because g ∝ 1/r², a table of ratios is often quicker than a calculation.
@@ -98,6 +104,12 @@ Because g ∝ 1/r², a table of ratios is often quicker than a calculation.
 | 1/2 | 4 |
 
 The same inverse square pattern applies to the force between two masses. For a planet of radius R, r = R is the surface and r = 2R is a height of one radius above the surface. Mistaking one for the other is a very common slip.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-gravitational-fields--04-area-under-force-graph.webp" width="900" height="1050" alt="A graph of the force on a 1000 kg probe near Mars against distance. The shaded area under the inverse-square curve is the work done, m times the change in potential, 8.42 x 10^9 J. Four trapezia give 8.9 x 10^9 J, an overestimate." loading="lazy">
+  <figcaption>Area under F against r equals the work done, m x change in potential; trapezia overestimate for this curve.</figcaption>
+</figure>
+
 
 ## Field line sketches
 
@@ -167,8 +179,8 @@ M = gR²/G = 0.30 × (2.0 × 10⁵)² / 6.67 × 10⁻¹¹ = 1.8 × 10²⁰ kg.
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-physics-gravitational-fields--07-geostationary.webp" width="900" height="1180" alt="A to-scale view from above the North Pole. The geostationary ring is 4.22 x 10^7 m from Earth’s centre, about 36 000 km above the surface, far outside a 600 km low orbit. The satellite moves west to east with the Earth, so it stays above one point on the equator. Period 24 h, west to east and over the equator are all needed." loading="lazy">
-  <figcaption>Geostationary means 24 h, west to east and over the equator, at one radius only.</figcaption>
+  <img src="https://img.marlbridge.com/a-physics-gravitational-fields--03-g-and-v-graphs.webp" width="900" height="1030" alt="Two graphs for Earth against distance r. g falls from 9.81 N per kg at the surface to 2.45 at 2R and never reaches zero. V rises from -62.5 MJ per kg at the surface towards zero at infinity. The gradient of V at 2R is 2.45 N per kg, the size of g there." loading="lazy">
+  <figcaption>g falls as 1/r2; V = -GM/r rises towards 0; the gradient of the V graph gives g.</figcaption>
 </figure>
 
 

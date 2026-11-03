@@ -86,6 +86,12 @@ Formulas: MSB = MPB + MEB. MSC = MPC + MEC.
 
 Label each axis (quantity; price or cost and benefit), each curve, both quantities and the shaded area. A sketch that omits one of these loses clarity.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-externalities-and-public-goods-as-sources-of-market--02-positive-externality-welfare-gain.webp" width="900" height="880" alt="Graph with quantity on the x axis and price on the y axis. MPB is 90 - 3Q and MSB sits 8 above it. MC is 18 + Q. The market equilibrium Qm is 18 classes at price 36. The social optimum Qs is 20 classes where MSB meets MC at 38. The welfare gain triangle has base 2 and height 8, so area 8." loading="lazy">
+  <figcaption>Shows why the market underprovides when there is an external benefit.</figcaption>
+</figure>
+
+
 ## Worked reminder: congestion (illustrative)
 
 A busy road in Country D. Let n be the number of trips per hour. Demand: MPB = 50 - 0.1n. Average private cost per trip = 20 + 0.1n. Each extra driver slows others, so MSC = 20 + 0.2n.
@@ -206,11 +212,6 @@ Method for classifying a good:
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/edexcel-ial-economics-externalities-and-public-goods-as-sources-of-market--01-negative-externality-welfare-loss.webp" width="900" height="880" alt="Graph with quantity on the x axis and price on the y axis. MPB equals MSB and falls from 100 at zero. MPC is 20 + 2Q and MSC is 12 higher, 32 + 2Q. The market equilibrium Qm is 20 tonnes at price 60. The social optimum Qs is 17 tonnes at price 66. The welfare loss triangle between Qs and Qm has base 3 and height 12, so area 18." loading="lazy">
   <figcaption>Shows why the market overproduces when there is an external cost, and how big the welfare loss is.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/edexcel-ial-economics-externalities-and-public-goods-as-sources-of-market--02-positive-externality-welfare-gain.webp" width="900" height="880" alt="Graph with quantity on the x axis and price on the y axis. MPB is 90 - 3Q and MSB sits 8 above it. MC is 18 + Q. The market equilibrium Qm is 18 classes at price 36. The social optimum Qs is 20 classes where MSB meets MC at 38. The welfare gain triangle has base 2 and height 8, so area 8." loading="lazy">
-  <figcaption>Shows why the market underprovides when there is an external benefit.</figcaption>
 </figure>
 
 

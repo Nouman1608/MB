@@ -70,6 +70,11 @@ Statement C6.2i follows: hexan-1-ol reacts like ethanol because both carry –OH
   <figcaption>The functional group decides the series and its chemistry.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/petroleum-alkanes-and-alkenes--02-alkane-alkene-structure.webp" width="900" height="830" alt="Displayed formulae of ethane and ethene. Ethane has only single bonds, so it is saturated, general formula CnH2n+2 (C2H6). Ethene has a C=C double bond, so it is unsaturated, general formula CnH2n (C2H4). Every carbon makes four bonds." loading="lazy">
+  <figcaption>Ethane has only single bonds; ethene has a C=C double bond.</figcaption>
+</figure>
+
 
 ## Naming and drawing the first four members (C6.2b, CM6.2i)
 
@@ -180,6 +185,12 @@ But-1-ene, CH₂=CH–CH₂CH₃, gives poly(but-1-ene):
 1. Mr of C₂F₄ = 24 + 76 = 100.
 2. Nothing is lost in addition polymerisation, so n = 250 000 ÷ 100 = **2500**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/polymers--03-alkene-repeat-unit.webp" width="900" height="1140" alt="Ethene and propene are each shown turning into a bracketed repeat unit when the C=C opens, with an arrow back to show closing the bond recovers the monomer. A crossed-out version shows the wrong answer that keeps the C=C inside the brackets." loading="lazy">
+  <figcaption>Open the C=C to get the repeat unit; close it again to get the monomer.</figcaption>
+</figure>
+
+
 ## Condensation polymers (C6.2e, Higher Tier only)
 
 In **condensation polymerisation**, monomers with **two functional groups each** react so that a **small molecule**, often water, forms at every link.
@@ -196,6 +207,17 @@ n HO–●–OH + n HOOC–■–COOH → –[O–●–O–OC–■–CO]ₙ–
 ```
 
 Each repeat unit holds one of each monomer and two ester links, so every repeat unit added to a growing chain releases two small molecules. Addition polymerisation gives one product; condensation gives the polymer **and** a small molecule at the same time.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/polymers--04-addition-vs-condensation.webp" width="900" height="1150" alt="Addition: monomers with C=C join into a chain and nothing else is made. Condensation: monomers with an end group at both ends join into a chain and a water molecule is given off at every join." loading="lazy">
+  <figcaption>Condensation releases a small molecule, usually water; addition releases nothing.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/polymers--06-nylon-and-pet.webp" width="900" height="830" alt="Nylon is a diacid and a diamine alternating, joined by CO-NH and NH-CO amide links. PET is a diacid and a diol alternating, joined by CO-O and O-CO ester links. Each link releases water and each repeat unit contains two links." loading="lazy">
+  <figcaption>Nylon and PET follow the same pattern; only the second monomer and the link change.</figcaption>
+</figure>
+
 
 ## Making nylon (C6.2f, Higher Tier only)
 
@@ -220,6 +242,17 @@ The acid is used as its dichloride, so the small molecule is **hydrogen chloride
 - **Starch, cellulose and glycogen** are polymers built from sugars such as glucose.
 - **Proteins** are polymers built from amino acids.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/polymers--07-proteins.webp" width="900" height="1140" alt="Three amino acid monomers, each with an NH2 end and a COOH end, join into a chain. Each join is a CO-NH peptide bond and releases water. A comparison shows nylon uses two monomers while a protein uses one monomer carrying both groups." loading="lazy">
+  <figcaption>Proteins are condensation polymers of amino acids joined by peptide (amide) bonds.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-chemistry-8462-organic-chemistry--11-aqa-natural-polymers.webp" width="900" height="1010" alt="Four rows show natural polymers as chains of beads. DNA is two chains in a double helix, made from four different monomers called nucleotides, drawn as four different bead shapes. A protein is a chain of amino acids, drawn as beads of different colours. Starch is a chain of glucose, a sugar, drawn as identical beads labelled G." loading="lazy">
+  <figcaption>DNA, proteins, starch and cellulose are chains built from nucleotides, amino acids and glucose.</figcaption>
+</figure>
+
+
 ## Crude oil and fractional distillation (C6.2j–C6.2n)
 
 Crude oil is a mixture of hydrocarbons. Its fractions are **largely alkanes**, CₙH₂ₙ₊₂ (C6.2l).
@@ -239,6 +272,12 @@ Crude oil is a mixture of hydrocarbons. Its fractions are **largely alkanes**, C
 
 **Why it matters (C6.2m, C6.2n).** Crude oil is a main source of hydrocarbons and the **feedstock** for the petrochemical industry (plastics, solvents, detergents, medicines). Transport, heating and much electricity generation depend on hydrocarbons. It formed over millions of years and is used far faster than it forms, so it is **finite**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/petroleum-alkanes-and-alkenes--01-fractional-distillation.webp" width="900" height="1000" alt="A fractionating column is hotter at the bottom and cooler at the top, with crude oil entering near the bottom. Eight fractions leave at different heights: refinery gas, gasoline, naphtha, kerosene, diesel oil, fuel oil, lubricating oil and bitumen, each with its use. Going up, chains get shorter, boiling points lower, fractions more volatile and less viscous." loading="lazy">
+  <figcaption>Fractions leave the column at different heights; shorter chains with lower boiling points rise higher.</figcaption>
+</figure>
+
+
 ## Cracking (C6.2o)
 
 Fractional distillation gives more long-chain molecules than people want, and too few short ones. **Cracking** breaks long alkanes into **shorter alkanes and alkenes**. Conditions: vaporise the alkane and pass it over a hot **catalyst**; catalytic cracking runs at about 500 °C with zeolite catalysts. In the lab, liquid paraffin on mineral wool is heated, with the vapour passed over hot aluminium oxide.
@@ -252,6 +291,11 @@ Carbon left: 15 − 9 = 6, so 3 each; hydrogen left: 32 − 20 = 12, so 6 each. 
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/ocr-gcse-chemistry-organic-chemistry--01-u2061-cracking-c15.webp" width="900" height="975" alt="A chain of 15 carbon atoms (C15H32) is cut into a 9-carbon alkane, C9H20, and two 3-carbon propene molecules, C3H6, each with a C=C double bond. Carbon left is 15 - 9 = 6, so 3 each; hydrogen left is 32 - 20 = 12, so 6 each. Equation: C15H32 -&gt; C9H20 + 2 C3H6." loading="lazy">
   <figcaption>Subtract the known product from C15H32 and share the rest between the two identical molecules: each is C3H6, propene.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/petroleum-alkanes-and-alkenes--03-cracking.webp" width="900" height="1050" alt="A ten-bead chain, decane C10H22, passes into a cracking vessel that needs high temperature and a catalyst. Out come octane C8H18, a shorter alkane, and ethene C2H4, an alkene. Atoms balance: 10 C and 22 H on both sides. Cracking is done because short chains and alkenes are in higher demand than distillation supplies." loading="lazy">
+  <figcaption>Heat and a catalyst crack decane into octane and ethene.</figcaption>
 </figure>
 
 
@@ -279,6 +323,11 @@ Other fuel cells use fuels such as methanol: easier to store as a liquid, but it
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/ocr-gcse-chemistry-organic-chemistry--04-un112-fuel-cell-halves.webp" width="900" height="920" alt="Hydrogen enters at the negative electrode and oxygen at the positive, with an acid electrolyte between. Electrons go round the external circuit and H+ ions through the electrolyte; both half-equations and the overall equation are shown." loading="lazy">
   <figcaption>Half-equations at each electrode of the acidic hydrogen fuel cell.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/electrolysis-and-fuel-cells--07-fuel-cell.webp" width="900" height="1040" alt="Hydrogen enters on one side and oxygen on the other, either side of an electrolyte between two electrodes. Electrons pass through a motor in an external circuit, and water is the only chemical product." loading="lazy">
+  <figcaption>A fuel cell turns hydrogen and oxygen into electricity, with water the only chemical product.</figcaption>
 </figure>
 
 

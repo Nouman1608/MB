@@ -36,6 +36,12 @@ These notes condense moments and statics of rigid bodies for OCR A Level Mathema
 
 The specification excludes the vector nature of moments. Use clockwise and anticlockwise, with a positive sense chosen once. Problems are set with rectangular laminas and uniform or non-uniform rods only. Use g = 9.8 m s⁻² unless told otherwise.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-maths-9709-mechanics--07-amth-forces-slope.webp" width="900" height="920" alt="A 4 kg block on a 30 degree rough slope with μ = 0.25. Weight 39.2 N splits into mg sin 30 = 19.6 N down the slope and mg cos 30 = 33.9 N into it, so R = 33.9 N and F = 8.49 N up the slope. 19.6 − 8.49 = 4a gives a = 2.78 m per second squared down the slope." loading="lazy">
+  <figcaption>Resolve the weight along and across the slope: R = mg cos θ and the net force down the slope is mg sin θ − μR.</figcaption>
+</figure>
+
+
 ## Moments (3.04a)
 
 - Moment = force × shortest distance from the point to the force's line of action.
@@ -149,6 +155,12 @@ With nothing else on the ladder, moments about the foot give S × L sin θ = W �
 9. Moments about the hinge: T × L = 6g × (L ÷ 2), so T = 3g = **29.4 N**. Vertically, the hinge force is 6g − 29.4 = **29.4 N upwards**, and there is no horizontal component.
 10. The resultant force is zero and the resultant moment is zero. The weight acts at the **centre of the rectangle** (its point of symmetry).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-maths-9709-mechanics--06-amth-forces-rope-angle.webp" width="900" height="970" alt="A 12 kg box on rough ground (μ = 0.4) on the point of sliding. Pulled by a rope at 25 degrees above horizontal, T = 43.7 N and R = 99.1 N, less than the weight 117.6 N. Pushed at 25 degrees below horizontal, P = 63.8 N and R = 144.6 N, more than the weight. Dashed lines show components." loading="lazy">
+  <figcaption>A pull at an angle lowers R and so the friction limit; a push at an angle raises it.</figcaption>
+</figure>
+
+
 ## Where marks are usually lost
 
 - Using the length along the rod when the force is angled, instead of the perpendicular distance.
@@ -160,6 +172,12 @@ With nothing else on the ladder, moments about the foot give S × L sin θ = W �
 - Treating friction as equal to μR on a ladder that is not in limiting equilibrium.
 - Not stating the assumption (for example a uniform rod, or a smooth wall) that justifies the model.
 - Rounding too early. Keep full values, then round the answer to 3 significant figures unless told otherwise.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-maths-9709-mechanics--05-amth-forces-friction-model.webp" width="900" height="940" alt="Graph of friction against push for a 5 kg box with μ = 0.4 (R = 49 N, maximum friction 19.6 N). F equals P until P = 19.6 N, then stays at 19.6 N when the box slides. P = 15 N gives F = 15 N, not 19.6 N. Three mini diagrams show at rest, limiting and sliding (a = 1.08 m per second squared)." loading="lazy">
+  <figcaption>Friction matches the push up to a maximum μR; only when on the point of moving or sliding is F = μR.</figcaption>
+</figure>
+
 
 ## Official syllabus
 

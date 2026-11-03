@@ -152,12 +152,6 @@ total gross profit    = gross profit per unit x units sold
 
 Example: a firm sells 5,000 units at £40 with unit cost £34, giving £6 per unit, a 15% margin and £30,000 in total. A rival sells 1,000 units at £90 with unit cost £60, giving £30 per unit, a 33.3% margin and £30,000 in total. The same total comes from very different strategies.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ocr-a-level-business-models-of-strategic-choice--05-seabright-ironwell.webp" width="900" height="890" alt="Seabright earns 64 pounds per bike (20.0 percent) on 12,000 bikes: 768,000 pounds. Ironwell earns 200 pounds (27.0 percent) on 3,500 bikes: 700,000 pounds." loading="lazy">
-  <figcaption>A lower margin can still give the higher total profit through volume.</figcaption>
-</figure>
-
-
 ## Linking the models and writing the answer
 
 - Five Forces asks how hard it is to earn profit in the industry. Generic strategies ask how this business will win customers. Use one to test the other.
@@ -212,6 +206,12 @@ Example: a firm sells 5,000 units at £40 with unit cost £34, giving £6 per un
 8. Gross profit per unit is £4, so total gross profit is £32,000. Gross margin is 4/25 = 16%.
 9. Any one: it is a snapshot while markets change; it is about the industry, not the business; judging each force is subjective; it does not recommend action.
 10. A feature (such as lower costs or a valued difference) that lets a business do better than rivals, giving more customers, higher margins or both.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-business-models-of-strategic-choice--05-seabright-ironwell.webp" width="900" height="890" alt="Seabright earns 64 pounds per bike (20.0 percent) on 12,000 bikes: 768,000 pounds. Ironwell earns 200 pounds (27.0 percent) on 3,500 bikes: 700,000 pounds." loading="lazy">
+  <figcaption>A lower margin can still give the higher total profit through volume.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

@@ -142,12 +142,6 @@ heights 21 mm and 14 mm. Ratio 21 : 14 = 3 : 2. The formula has 10 H, so scale b
 The two CH₂ groups are next to each other, but they are **equivalent**, so they do not split each other
 and give a singlet.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-nuclear-magnetic-resonance-spectroscopy--04-nmr-integration.webp" width="900" height="990" alt="Pentan-3-one with its spectrum: quartet at 2.4 and triplet at 1.1 with an integration trace of 32 mm and 48 mm. Ratio 2:3 doubles to 4 H and 6 H." loading="lazy">
-  <figcaption>Integration step heights 32:48 = 2:3, scaled to 10 H gives 4 H and 6 H (pentan-3-one).</figcaption>
-</figure>
-
-
 ## The n+1 rule
 
 | H on adjacent carbons | Pattern | Fragment it suggests |
@@ -230,6 +224,12 @@ Work in that order: formula, functional group, carbon skeleton, then H detail.
 9. **–CH₂CH₂–** with a different group at each end.
 10. An **O** (or a Cl or Br) on the same carbon.
 11. **No splitting**, so one line per environment; and a **wider δ range**, so lines rarely overlap.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-nuclear-magnetic-resonance-spectroscopy--04-nmr-integration.webp" width="900" height="990" alt="Pentan-3-one with its spectrum: quartet at 2.4 and triplet at 1.1 with an integration trace of 32 mm and 48 mm. Ratio 2:3 doubles to 4 H and 6 H." loading="lazy">
+  <figcaption>Integration step heights 32:48 = 2:3, scaled to 10 H gives 4 H and 6 H (pentan-3-one).</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

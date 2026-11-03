@@ -167,17 +167,6 @@ Pellara's basket costs 1,500 and the same basket costs 500 in a reference econom
 
 Conclusion to aim for: the link is positive but conditional. Use a named case with two or three indicators.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ib-dp-economics-measuring-development--01-tarvia-quelland-hdi.webp" width="900" height="940" alt="SL and HL. Invented countries Tarvia and Quelland both have GNI per person of 22,000 units at PPP, so both have an income index of 0.785. Tarvia has health index 0.750, education index 0.625 and HDI 0.716. Quelland has health index 0.850, education index 0.742 and HDI 0.791. Same income, different health and schooling, so different development. Illustrative limits from the lesson." loading="lazy">
-  <figcaption>Tarvia and Quelland have the same income index (0.785) but HDI 0.716 and 0.791 because health and schooling differ.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-level-edexcel-economics-economic-growth--07-what-gdp-leaves-out.webp" width="900" height="880" alt="Four cards show what GDP/GNI miss: income distribution, unpaid non-market work, environmental costs, and subjective wellbeing. This is why happiness and wellbeing indicators are used alongside GDP." loading="lazy">
-  <figcaption>GDP says nothing about distribution, unpaid work, environmental costs or wellbeing.</figcaption>
-</figure>
-
-
 ## Quick self-test
 
 1. Define purchasing power parity.
@@ -209,6 +198,16 @@ Conclusion to aim for: the link is positive but conditional. Use a named case wi
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/ib-dp-economics-measuring-development--05-hdi-geometric-mean.webp" width="900" height="880" alt="Two invented countries. Country A has indices 0.9, 0.9 and 0.3; Country B has 0.7, 0.7 and 0.7. Both have an arithmetic mean of 0.700, but the geometric mean is 0.624 for A and 0.700 for B, so A is penalised for its weak dimension." loading="lazy">
   <figcaption>A geometric mean penalises a country with one weak dimension.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-economics-measuring-development--01-tarvia-quelland-hdi.webp" width="900" height="940" alt="SL and HL. Invented countries Tarvia and Quelland both have GNI per person of 22,000 units at PPP, so both have an income index of 0.785. Tarvia has health index 0.750, education index 0.625 and HDI 0.716. Quelland has health index 0.850, education index 0.742 and HDI 0.791. Same income, different health and schooling, so different development. Illustrative limits from the lesson." loading="lazy">
+  <figcaption>Tarvia and Quelland have the same income index (0.785) but HDI 0.716 and 0.791 because health and schooling differ.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-edexcel-economics-economic-growth--07-what-gdp-leaves-out.webp" width="900" height="880" alt="Four cards show what GDP/GNI miss: income distribution, unpaid non-market work, environmental costs, and subjective wellbeing. This is why happiness and wellbeing indicators are used alongside GDP." loading="lazy">
+  <figcaption>GDP says nothing about distribution, unpaid work, environmental costs or wellbeing.</figcaption>
 </figure>
 
 

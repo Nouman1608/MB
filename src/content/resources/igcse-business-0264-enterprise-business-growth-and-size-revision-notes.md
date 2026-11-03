@@ -77,6 +77,11 @@ These are condensed notes for section 1.3, **Enterprise, business growth and siz
 </figure>
 
 <figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-0264-enterprise-business-growth-and-size--06-govt-how-why.webp" width="900" height="860" alt="Left: grants, advice, low-cost loans, training schemes. Right: jobs, tax revenue, competition, innovation, growth and local development. A why answer gives the benefit to the country." loading="lazy">
+  <figcaption>How the government helps new firms (left) and why it wants to (right).</figcaption>
+</figure>
+
+<figure class="topic-figure">
   <img src="https://img.marlbridge.com/enterprise-business-growth-and-size--01-starting-a-business.webp" width="900" height="1040" alt="An entrepreneur takes the financial risk of starting a business and writes a business plan. The plan sets out the idea and objectives, target market, financing and forecast costs, revenue and profit. It tests the idea, persuades lenders and gives a benchmark. Governments support start-ups with grants, training schemes, low-interest loans and advice." loading="lazy">
   <figcaption>An entrepreneur writes a business plan, and governments often support start-ups.</figcaption>
 </figure>
@@ -180,6 +185,21 @@ Standard sub-types of vertical integration: backward (towards suppliers) and for
   <figcaption>Internal growth builds on existing operations; external growth combines two businesses.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-business-business-in-the-real-world--06-integration-types.webp" width="900" height="740" alt="A firm in the centre with four targets. Backward integration takes over a supplier, forward integration a retailer, horizontal integration a rival at the same stage, and conglomerate growth a business in an unrelated industry." loading="lazy">
+  <figcaption>External growth is classified by where the target sits relative to the firm.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/enterprise-business-growth-and-size--06-problems-of-growth.webp" width="900" height="990" alt="A small firm has the owner talking directly to all staff; a larger firm needs managers in between. Growth strains cash flow, makes control and communication harder and distances the owner from staff and customers. These are managed by financial planning, clearer management structures and delegation." loading="lazy">
+  <figcaption>Growth strains cash, control and the owner's closeness to people; planning, structure and delegation help.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/enterprise-business-growth-and-size--07-liquidity-failure.webp" width="900" height="990" alt="Example with invented numbers. Sales of $100 less costs of $80 give a paper profit of $20, but bills of $80 fall due at day 30 and customers pay only at day 60. Cash falls from $20 to minus $60 and the firm cannot pay its bills, so a profitable firm can still fail." loading="lazy">
+  <figcaption>A firm can be profitable on paper but fail if cash runs out before customers pay.</figcaption>
+</figure>
+
 
 ## 1.3.4 Success and failure
 
@@ -258,8 +278,8 @@ Application (AO2) carries a large share of the marks. Before you write, underlin
 12. For example: poor management skills, shortage of finance, unsuitable product, falling demand, a recession, strong competition.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-business-0264-enterprise-business-growth-and-size--06-govt-how-why.webp" width="900" height="860" alt="Left: grants, advice, low-cost loans, training schemes. Right: jobs, tax revenue, competition, innovation, growth and local development. A why answer gives the benefit to the country." loading="lazy">
-  <figcaption>How the government helps new firms (left) and why it wants to (right).</figcaption>
+  <img src="https://img.marlbridge.com/enterprise-business-growth-and-size--08-new-business-risk.webp" width="900" height="1000" alt="Example with invented numbers. A new business with $20m capital and an established one with $100m both lose $30m early. The new firm is $10m short and fails; the established one keeps $70m. New firms have less capital, market knowledge, customers and experience." loading="lazy">
+  <figcaption>The same early loss can finish a new business but not an established one.</figcaption>
 </figure>
 
 

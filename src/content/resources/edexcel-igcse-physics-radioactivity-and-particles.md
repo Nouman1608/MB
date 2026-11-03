@@ -133,6 +133,11 @@ Radiation is detected using photographic film or a Geiger-Müller detector.
   <figcaption>In a decay equation the top numbers balance and the bottom numbers balance.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-physics-nuclear-physics--05-nuc-counting-background.webp" width="900" height="1030" alt="A GM tube and counter record 156 counts in 2 minutes with a source (78 per minute) and 18 counts in 3 minutes without it (6 per minute). Subtracting gives a corrected rate of 72 counts per minute." loading="lazy">
+  <figcaption>Subtract the background count rate from the measured count rate, using the same time unit.</figcaption>
+</figure>
+
 
 ## Half-life
 
@@ -158,6 +163,16 @@ carries its own long-term risk that must be managed.
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/edexcel-igcse-physics-radioactivity-and-particles--03-half-life-800bq.webp" width="900" height="790" alt="Bars show activity 800, 400, 200, 100 Bq at 0, 6, 12 and 18 h. Each is half the previous; 18 h is three half-lives." loading="lazy">
   <figcaption>800 Bq halves every 6 hours, reaching 100 Bq after 18 hours.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-physics-0625-nuclear-physics--05-half-life-curve.webp" width="900" height="810" alt="A decay curve of count rate against time for half-life 8.0 days. The rate falls 1200, 600, 300, 150, 75 at 0, 8, 16, 24 and 32 days. After 24 days (three half-lives) it is 150 counts/s." loading="lazy">
+  <figcaption>The count rate halves after each half-life.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-physics-half-life-contamination-nuclear-fission-and-fusion--04-contamination-irradiation.webp" width="900" height="1000" alt="Top panel: a source outside the body sends radiation to a person; the exposure lasts only while the person is near the source and the person does not become radioactive. Bottom panel: radioactive atoms on and inside a person, each emitting radiation, so the body is irradiated until the atoms are removed or decay." loading="lazy">
+  <figcaption>Irradiation is exposure to an outside source; contamination is having radioactive atoms on or in the body.</figcaption>
 </figure>
 
 

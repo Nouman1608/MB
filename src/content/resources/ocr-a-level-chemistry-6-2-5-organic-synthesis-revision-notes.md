@@ -122,6 +122,11 @@ Compound H is CH₃CH(OH)CH₂COOCH₃, methyl 3-hydroxybutanoate.
   <figcaption>Plan routes by following arrows from start to target; only reactions in the specification count (steam hydration is not in OxfordAQA; nitrile hydrolysis is OCR).</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-organic-synthesis--05-route-planning.webp" width="900" height="1010" alt="Three-step route from ethene (2 C) to propan-1-amine (3 C): HBr gives bromoethane, KCN in ethanol under reflux gives propanenitrile (+1 C), and LiAlH4 reduction gives the amine. A crossed-out side branch shows that ammonia would give ethylamine, only 2 C." loading="lazy">
+  <figcaption>Count carbons first: a longer chain needs the cyanide step, because bromoethane with ammonia only gives ethylamine.</figcaption>
+</figure>
+
 
 ### Method in steps
 
@@ -175,6 +180,12 @@ Compound H is CH₃CH(OH)CH₂COOCH₃, methyl 3-hydroxybutanoate.
 9. Name the reaction and reagents that put an ethyl group onto a benzene ring.
 10. Which reagent reduces a C=O in a molecule but leaves its C=C unchanged?
 11. A route has two stages with yields of 80% and 65%. What is the overall yield?
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-organic-synthesis--04-grignard-reagent.webp" width="900" height="1120" alt="Ethylmagnesium bromide, made in dry ether, adds its ethyl group to carbon dioxide, methanal, ethanal and propanone. After dilute acid the products are propanoic acid, propan-1-ol, butan-2-ol and 2-methylbutan-2-ol: an acid and a primary, secondary and tertiary alcohol." loading="lazy">
+  <figcaption>Edexcel only: a Grignard reagent adds carbons from its alkyl group to a carbonyl compound, giving an acid or a primary, secondary or tertiary alcohol.</figcaption>
+</figure>
+
 
 ### Answers
 

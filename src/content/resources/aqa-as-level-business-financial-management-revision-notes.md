@@ -174,6 +174,12 @@ Value of break-even: simple, supports pricing and risk judgements. Limits: assum
 - Remedies: negotiate longer terms with suppliers, give customers an incentive to pay early, chase late payers, use debt factoring.
 - Risks of remedies: suppliers may refuse, discounts cut income, tough terms may lose customers, factoring costs a fee.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-business-finance--07-cash-gap-days.webp" width="900" height="930" alt="A copper bar of 20 days (payables days) and a teal bar of 35 days (receivables days) share a day scale. The 15 days between them is a cash gap the business must finance." loading="lazy">
+  <figcaption>Paying suppliers 15 days before customers pay creates a gap the business must fund.</figcaption>
+</figure>
+
+
 ## Sources of finance
 
 | Source | Internal or external | Best for | Main drawback |
@@ -198,6 +204,11 @@ Value of break-even: simple, supports pricing and risk judgements. Limits: assum
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/aqa-as-level-business-financial-management--10-finance-links.webp" width="900" height="746" alt="Technology, market and ethics feed into financial decisions, which use data and support marketing, operations and people management." loading="lazy">
   <figcaption>Finance is shaped by outside pressures and supports other functions.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-business-finance--01-sources-of-finance.webp" width="900" height="970" alt="Internal sources (retained profits, sale of assets, sale and leaseback, working capital) sit inside a dashed business box; seven external sources point in from outside. Loans is highlighted for the Quillcote printer example." loading="lazy">
+  <figcaption>Money comes from inside the business (internal) or from outside it (external).</figcaption>
 </figure>
 
 

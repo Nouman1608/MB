@@ -129,12 +129,6 @@ OM = OA + (1/2)AB = a + (1/2)(b - a) = (1/2)a + (1/2)b
 
 **Parallel vectors** work on the same principle as collinear points: two vectors are parallel exactly when one is a scalar multiple of the other, regardless of where either one is positioned in the plane. This is why "show that PQ is parallel to RS" questions are answered by reducing both vectors to their simplest form and checking one is a number times the other, not by any visual or coordinate-plotting argument.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-mathematics-transformations-and-vectors--07-vector-proof-midpoints.webp" width="900" height="945" alt="In triangle OAB, M and N are midpoints of OA and OB. MN = ON - OM = half of (b - a), and AB = b - a, so MN is half of AB and parallel to it. Shown with a = (8,2), b = (2,6)." loading="lazy">
-  <figcaption>Writing every vector in terms of a and b shows MN = half of AB, so the lines are parallel.</figcaption>
-</figure>
-
-
 ## Exam traps
 
 - Naming a transformation without the extra information needed to describe it fully -- the mirror line, the angle and centre, or the scale factor and centre.
@@ -158,5 +152,10 @@ OM = OA + (1/2)AB = a + (1/2)(b - a) = (1/2)a + (1/2)b
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/igcse-mathematics-transformations-and-vectors--06-enlargement-negative.webp" width="900" height="905" alt="Triangle ABC is enlarged by scale factor -2 from P(3,3). Each image corner is twice as far from P but on the opposite side, so the image is upside down: A'(1,1), B'(1,-1), C'(-3,1)." loading="lazy">
   <figcaption>A negative scale factor puts the image on the opposite side of the centre, inverted.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-transformations-and-vectors--07-vector-proof-midpoints.webp" width="900" height="945" alt="In triangle OAB, M and N are midpoints of OA and OB. MN = ON - OM = half of (b - a), and AB = b - a, so MN is half of AB and parallel to it. Shown with a = (8,2), b = (2,6)." loading="lazy">
+  <figcaption>Writing every vector in terms of a and b shows MN = half of AB, so the lines are parallel.</figcaption>
 </figure>
 

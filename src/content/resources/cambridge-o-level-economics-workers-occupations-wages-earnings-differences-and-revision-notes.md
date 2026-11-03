@@ -81,11 +81,6 @@ Other government policies: equal pay laws, training subsidies, taxes on earnings
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/cambridge-o-level-economics-workers-occupations-wages-earnings-differences-and--08-eco52-crowding.webp" width="900" height="1030" alt="Supply shifts right from S0 to S1 along a downward demand curve; the wage falls from W0 to W1 and employment rises from Q0 to Q1. Bars show men at 14.0 and women at 11.9 an hour, a 15.0% gap." loading="lazy">
-  <figcaption>Crowding into fewer occupations raises supply and lowers pay there.</figcaption>
-</figure>
-
-<figure class="topic-figure">
   <img src="https://img.marlbridge.com/cambridge-igcse-economics-microeconomic-decision-makers--03-wage-determination.webp" width="900" height="940" alt="Labour demand slopes down and labour supply slopes up, meeting at a wage of 7 with 50 workers. At wage 10 there are too many workers so wages fall; at wage 4 there are too few so wages rise." loading="lazy">
   <figcaption>Wages settle where labour demand and supply meet; surpluses push wages down and shortages push them up.</figcaption>
 </figure>
@@ -124,6 +119,11 @@ Use the same four reasons each time: demand and supply, bargaining strength, dis
 *Sector shares reminder.* In Country B (illustrative), employment shares move from primary 30%, secondary 25%, tertiary 45% to primary 20%, secondary 25%, tertiary 55%. The shares must sum to 100% each time. Because tertiary pay is higher in this example, average earnings rise even if no sector's pay changes.
 
 <figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-economics-workers-occupations-wages-earnings-differences-and--08-eco52-crowding.webp" width="900" height="1030" alt="Supply shifts right from S0 to S1 along a downward demand curve; the wage falls from W0 to W1 and employment rises from Q0 to Q1. Bars show men at 14.0 and women at 11.9 an hour, a 15.0% gap." loading="lazy">
+  <figcaption>Crowding into fewer occupations raises supply and lowers pay there.</figcaption>
+</figure>
+
+<figure class="topic-figure">
   <img src="https://img.marlbridge.com/cambridge-o-level-economics-workers-occupations-wages-earnings-differences-and--09-eco52-training-payback.webp" width="900" height="910" alt="A bar shows training costs 33,000 (27,000 earnings given up plus 6,000 fees). A line of net gain rises 6,000 a year from -33,000 and reaches zero at 5.5 years." loading="lazy">
   <figcaption>Higher skilled pay compensates for the cost and delay of training.</figcaption>
 </figure>
@@ -151,17 +151,6 @@ Use the same four reasons each time: demand and supply, bargaining strength, dis
 
 **Chain of reasoning.** Specialisation raises output per worker, so unit labour cost falls, so the firm can cut prices or raise profit. If the work is repetitive, motivation may fall and absence may rise, which can offset part of the gain.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/cambridge-o-level-economics-workers-occupations-wages-earnings-differences-and--06-un172-shirt-division.webp" width="900" height="880" alt="Three rows of six workers. Each working alone makes 10 shirts: 60 in total at 4.00 labour cost each. Split into cutting, stitching and finishing they make 20 each: 120 shirts at 2.00 each. If one stitcher is absent, output falls to 60, a 50 percent fall caused by losing 16.7 percent of staff." loading="lazy">
-  <figcaption>Division of labour doubles output per worker but makes the line depend on every stage.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-edexcel-economics-production-and-business-costs--04-division-of-labour.webp" width="900" height="960" alt="Top: one worker does four tasks in turn. Below: four workers each do one task and pass the work on. The advantage for the firm is faster output; the disadvantage for workers is boredom and over-specialisation. Answers should give both sides." loading="lazy">
-  <figcaption>Splitting a job into tasks speeds up output but can leave workers bored and over-specialised.</figcaption>
-</figure>
-
-
 ## Quick self-test
 
 1. Name two wage factors and two non-wage factors in choosing an occupation.
@@ -187,6 +176,17 @@ Use the same four reasons each time: demand and supply, bargaining strength, dis
 8. Pensions and job security can make up for lower pay; the package matters.
 9. Advantage: faster skill and higher output. Disadvantage: boredom or deskilling.
 10. Output per worker rises from 80 ÷ 7 = 11.43 to 140 ÷ 7 = 20, a rise of 8.57 units, or 75%.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-economics-workers-occupations-wages-earnings-differences-and--06-un172-shirt-division.webp" width="900" height="880" alt="Three rows of six workers. Each working alone makes 10 shirts: 60 in total at 4.00 labour cost each. Split into cutting, stitching and finishing they make 20 each: 120 shirts at 2.00 each. If one stitcher is absent, output falls to 60, a 50 percent fall caused by losing 16.7 percent of staff." loading="lazy">
+  <figcaption>Division of labour doubles output per worker but makes the line depend on every stage.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-economics-production-and-business-costs--04-division-of-labour.webp" width="900" height="960" alt="Top: one worker does four tasks in turn. Below: four workers each do one task and pass the work on. The advantage for the firm is faster output; the disadvantage for workers is boredom and over-specialisation. Answers should give both sides." loading="lazy">
+  <figcaption>Splitting a job into tasks speeds up output but can leave workers bored and over-specialised.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

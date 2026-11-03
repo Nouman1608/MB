@@ -168,17 +168,6 @@ Use only **concordant** titres — those within 0.10 cm³ of each other — and 
 
 **Worked example.** 25.0 cm³ of 0.0500 mol dm⁻³ sulfuric acid is exactly neutralised by 20.0 cm³ of sodium hydroxide solution (H₂SO₄ + 2NaOH → Na₂SO₄ + 2H₂O). Moles H₂SO₄ = 0.0500 × (25.0 ÷ 1000) = 1.25 × 10⁻³ mol. Moles NaOH = 2 × 1.25 × 10⁻³ = 2.50 × 10⁻³ mol (mole ratio 1:2). Concentration NaOH = 2.50 × 10⁻³ ÷ (20.0 ÷ 1000) = **0.125 mol dm⁻³**.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/oxfordaqa-igcse-chemistry-quantitative-revision-notes--05-q-titration-h2so4.webp" width="900" height="910" alt="A burette with level at 20.0 cm3 and a flask of 25.0 cm3 of 0.0500 mol dm-3 H2SO4, with three boxes: 1.25e-3 mol acid, x2 gives 2.50e-3 mol NaOH, divided by 0.0200 dm3 gives 0.125 mol dm-3." loading="lazy">
-  <figcaption>The titration worked example with apparatus and the three calculation steps.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/edexcel-igcse-chemistry-4ch1-acids-alkalis-titrations-and-salts--09-concordant-titres.webp" width="900" height="890" alt="Dot plot of titres 23.20 (rough), 22.60, 22.95, 22.70 and 22.65 cm3. The three within 0.10 cm3 are kept and their mean is 22.65 cm3." loading="lazy">
-  <figcaption>Ignore the rough titre and any result not within 0.10 cm3, then average the rest.</figcaption>
-</figure>
-
-
 ## Exam traps
 
 - Working from mass ratios instead of converting to moles first.
@@ -195,3 +184,14 @@ Use only **concordant** titres — those within 0.10 cm³ of each other — and 
 4. Give three reasons why the calculated mass of a product might not be obtained in practice, even though no atoms are gained or lost.
 
 **Answers:** 1. They are weighted averages of the masses of an element's isotopes, taking their relative abundances into account. 2. Carbon dioxide gas is produced and escapes from the open container, so the mass remaining falls; in a closed system the total mass would be unchanged. 3. Convert the known mass to moles, use the balanced equation's mole ratio to find the moles of the target substance, then convert back to mass. 4. The reaction may not go to completion because it is reversible; some of the product may be lost when it is separated from the reaction mixture; some of the reactants may react in ways different from the expected reaction — any three.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-chemistry-quantitative-revision-notes--05-q-titration-h2so4.webp" width="900" height="910" alt="A burette with level at 20.0 cm3 and a flask of 25.0 cm3 of 0.0500 mol dm-3 H2SO4, with three boxes: 1.25e-3 mol acid, x2 gives 2.50e-3 mol NaOH, divided by 0.0200 dm3 gives 0.125 mol dm-3." loading="lazy">
+  <figcaption>The titration worked example with apparatus and the three calculation steps.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-chemistry-4ch1-acids-alkalis-titrations-and-salts--09-concordant-titres.webp" width="900" height="890" alt="Dot plot of titres 23.20 (rough), 22.60, 22.95, 22.70 and 22.65 cm3. The three within 0.10 cm3 are kept and their mean is 22.65 cm3." loading="lazy">
+  <figcaption>Ignore the rough titre and any result not within 0.10 cm3, then average the rest.</figcaption>
+</figure>
+

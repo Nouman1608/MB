@@ -39,6 +39,12 @@ Quick recall for section 3.1.1.3, The external environment, in the OxfordAQA Int
 | Inferior good | Demand falls when income rises (YED negative) |
 | Income elasticity of demand (YED) | Responsiveness of quantity demanded to a change in income |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-business-the-external-environment--04-income-elasticity-yed.webp" width="900" height="935" alt="A graph of % change in quantity against % change in income. Premium meals (YED +1.5) slope up and budget noodles (YED -0.6) slope down. At +2.5% income, meals rise 3.75% (80,000 to 83,000) and noodles fall 1.5% (50,000 to 49,250)." loading="lazy">
+  <figcaption>A normal good has positive YED; an inferior good has negative YED.</figcaption>
+</figure>
+
+
 ## Formulae
 
 | Measure | Form |
@@ -91,12 +97,6 @@ Market data. A market sells 250,000 units at 18 currency units (cu) in Year 1 an
 Concentration. Shares of the four largest firms are 31%, 22%, 17% and 11%. Ratio = 31 + 22 + 17 + 11 = 81%. A few firms hold most of the market.
 
 YED. Income rises 10% and quantity demanded falls 3%. YED = -3 / 10 = -0.3. Negative, so inferior. A different product with YED +2.0 and income up 3% sees quantity rise 2.0 × 3 = 6%.
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/oxfordaqa-a-level-business-the-external-environment--04-income-elasticity-yed.webp" width="900" height="935" alt="A graph of % change in quantity against % change in income. Premium meals (YED +1.5) slope up and budget noodles (YED -0.6) slope down. At +2.5% income, meals rise 3.75% (80,000 to 83,000) and noodles fall 1.5% (50,000 to 49,250)." loading="lazy">
-  <figcaption>A normal good has positive YED; an inferior good has negative YED.</figcaption>
-</figure>
-
 
 ## Barriers to entry
 
@@ -213,6 +213,22 @@ YED. Income rises 10% and quantity demanded falls 3%. YED = -3 / 10 = -0.3. Nega
 8. 30,000 / 1.5 = **20,000 cu**; 30,000 / 1.2 = **25,000 cu**. The home currency has **weakened** and imports cost 25% more.
 9. For example entry costs and legal requirements. Low barriers mean **more choice, keener prices** and pressure on firms to improve quality and service.
 10. New unit cost 15 × 1.10 = 16.5 cu; margin 25 - 16.5 = **8.5 cu**; 8.5 / 25 × 100 = **34%** (down from 40%).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-business-business-and-its-environment--06-exchange-import-cost.webp" width="900" height="960" alt="The pound falls from 200 to 180 yen, so a 36,000 yen motor rises from 180 to 200 pounds (11.1 percent), and an order of 4,000 motors costs 80,000 pounds more." loading="lazy">
+  <figcaption>A weaker pound makes imported inputs dearer.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-business-influences-on-business--05-interest-rates.webp" width="900" height="950" alt="Rates rise from 4% to 6%. Direct effect: interest on a 100,000 pound loan rises from 4,000 to 6,000 pounds a year. Indirect effect: customers' loans cost more, they have less to spend and demand may fall. Together this is double pressure on profit." loading="lazy">
+  <figcaption>A rate rise hits a business directly through its loan and indirectly through its customers' spending.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-business-influences-on-business--08-competition.webp" width="900" height="860" alt="Three columns: no rivals (one shop, little pressure to improve), a few rivals (three shops, some pressure on price) and many rivals (six shops, strong pressure on price and quality), shown with one, two and three filled bars." loading="lazy">
+  <figcaption>The more rivals a business has, the more pressure it faces to compete.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

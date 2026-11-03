@@ -73,6 +73,11 @@ These raise productivity or reduce costs, shifting long-run aggregate supply (LR
   <figcaption>Unit labour costs rise 2.94% when wages rise 5% and productivity only 2%.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-aggregate-demand-supply--07-lras-growth.webp" width="900" height="1000" alt="LRAS shifts right from output 100 to 130, with SRAS shifted right by the same amount. Equilibrium moves from output 90, price level 65 to output 105, price level 57.5. Technology, productivity, enterprise, factor mobility, incentives and institutions are listed as causes." loading="lazy">
+  <figcaption>Underlying economic growth is a rightward shift in LRAS, raising output and easing prices.</figcaption>
+</figure>
+
 
 ### Exchange rate appreciation
 
@@ -113,6 +118,16 @@ Build your evaluation from these links, and say which matter most in the case yo
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/aqa-gcse-economics-objectives-of-government--02-inflation-causes.webp" width="900" height="1090" alt="Two illustrative AD/AS diagrams. Demand-pull: AD shifts right and the price level rises. Cost-push: AS shifts up and left and the price level rises. Boxes give the cause chain and the policy response from the lesson." loading="lazy">
   <figcaption>Demand-pull starts with demand; cost-push starts with rising costs.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-aggregate-demand-supply--04-supply-side-shock.webp" width="900" height="910" alt="A rise in world oil prices lifts production costs and shifts SRAS left from SRAS1 to SRAS2. Equilibrium moves from output 90, price level 65 to output 65, price level 77.5. LRAS does not move." loading="lazy">
+  <figcaption>A cost shock shifts SRAS left, raising prices and cutting output, without changing underlying capacity.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-aggregate-demand-supply--08-keynesian-as.webp" width="900" height="1030" alt="The Keynesian AS curve is flat with spare capacity, rises as bottlenecks appear and becomes vertical at full capacity. Three AD curves cross it at E1 (output 30, price 40), E2 (output 60, price 50) and E3 (output 80, price 85), showing output-only, both, then price-only effects." loading="lazy">
+  <figcaption>On the Keynesian AS curve a rise in AD raises output on the flat part, both on the rising part and only prices on the vertical part.</figcaption>
 </figure>
 
 
@@ -205,6 +220,11 @@ Evaluation: the theories can be combined, as the money market and the market for
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/cambridge-a-level-economics-controlling-inflation-demand-for-money-and-interest--04-ci-keynesian-money-market.webp" width="900" height="1246" alt="The central bank fixes the money supply as a vertical line, and the interest rate is where it meets the L curve (170 - 10r). Ms of 120 gives 5% and Ms of 80 gives 9%. A rise in income shifts L to 200 - 10r and lifts the rate to 10%." loading="lazy">
   <figcaption>In the Keynesian view the interest rate is set where the money supply meets liquidity preference.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-how-markets-work--06-interest-rate-effects.webp" width="900" height="890" alt="A saver with 5,000 pounds earns 100 pounds at 2% and 150 pounds at 3%. A borrower of 10,000 pounds pays 500 pounds at 5% and 700 pounds at 7%. A higher rate rewards savers and costs borrowers more." loading="lazy">
+  <figcaption>A rise in interest rates makes saving more rewarding and borrowing more expensive.</figcaption>
 </figure>
 
 

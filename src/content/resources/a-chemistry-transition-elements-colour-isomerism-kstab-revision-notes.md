@@ -185,12 +185,6 @@ So almost all the copper(II) is present as the ammine complex.
 - A large excess of a ligand can still shift the position of equilibrium (for example, concentrated HCl
   forming [CuCl₄]²⁻), and the change can be reversed by dilution.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-chemistry-transition-elements-colour-isomerism-kstab-revision-notes--05-kstab-worked.webp" width="900" height="890" alt="With an illustrative Kstab of 1.0e13 and ammonia at 0.20 mol per dm3 the ammine to aqua ratio is 1.6e10, shown as log-scale bars." loading="lazy">
-  <figcaption>A large Kstab means almost all the metal ion is in the complex.</figcaption>
-</figure>
-
-
 ## Exam traps
 
 - Colour comes from light **absorbed** as an electron is **promoted between d orbitals**. It is not
@@ -235,3 +229,9 @@ So almost all the copper(II) is present as the ammine complex.
 *These are original notes written for revision. Kstab values marked illustrative are not data-book
 values. Check the full syllabus wording in the
 [official 9701 syllabus](https://www.cambridgeinternational.org/Images/664563-2025-2027-syllabus.pdf).*
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-chemistry-transition-elements-colour-isomerism-kstab-revision-notes--05-kstab-worked.webp" width="900" height="890" alt="With an illustrative Kstab of 1.0e13 and ammonia at 0.20 mol per dm3 the ammine to aqua ratio is 1.6e10, shown as log-scale bars." loading="lazy">
+  <figcaption>A large Kstab means almost all the metal ion is in the complex.</figcaption>
+</figure>
+

@@ -37,12 +37,6 @@ These notes condense statements B6.3f to B6.3i of the OCR GCSE (9-1) Gateway Sci
 | Antigen | A molecule on a pathogen that an antibody can bind to |
 | Positive / negative control | Known infected / known healthy sample used to show a test works |
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ocr-gcse-biology-named-infections-stis-and-plant-disease-defence-and--12-stis-hiv-chlamydia-gonorrhoea.webp" width="900" height="1060" alt="HIV (virus) attacks T helper cells; chlamydia and gonorrhoea are bacterial and treated with antibiotics. A flow shows HIV infection, falling T helper cells, then AIDS." loading="lazy">
-  <figcaption>HIV is the virus; AIDS is the late stage.</figcaption>
-</figure>
-
-
 ## B6.3f: named human infections
 
 | Infection | Pathogen | Spread | Main effects | Control |
@@ -64,6 +58,11 @@ Reminders:
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/ocr-gcse-biology-named-infections-stis-and-plant-disease-defence-and--11-named-human-infections-flu-salmonella-athletes-foot.webp" width="900" height="980" alt="Influenza (virus, droplets), Salmonella (bacterium, raw or undercooked meat and eggs) and athlete's foot (fungus, contact and damp floors), with effects and prevention or treatment." loading="lazy">
   <figcaption>One viral, one bacterial and one fungal infection compared.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-named-infections-stis-and-plant-disease-defence-and--12-stis-hiv-chlamydia-gonorrhoea.webp" width="900" height="1060" alt="HIV (virus) attacks T helper cells; chlamydia and gonorrhoea are bacterial and treated with antibiotics. A flow shows HIV infection, falling T helper cells, then AIDS." loading="lazy">
+  <figcaption>HIV is the virus; AIDS is the late stage.</figcaption>
 </figure>
 
 

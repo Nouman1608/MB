@@ -213,6 +213,11 @@ Sandlow Foods: 48,000 units from 120 staff is 400 each. 18 leavers from 150 staf
   <figcaption>Gearing and ROCE share capital employed; the acid test leaves out inventory.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-business-business-decisions-and-strategy--03-sandlow-hr-measures.webp" width="900" height="1000" alt="Four tiles with formulas and results: productivity 48,000 / 120 = 400 each; labour turnover 18 / 150 = 12%; retention 132 / 150 = 88%; absenteeism 300 / (120 x 250) = 1.0%." loading="lazy">
+  <figcaption>Four HR measures calculated from the Sandlow Foods figures.</figcaption>
+</figure>
+
 
 ## 6 Managing change
 

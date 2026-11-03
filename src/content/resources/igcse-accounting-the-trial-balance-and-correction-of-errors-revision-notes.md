@@ -203,12 +203,6 @@ The two debits to suspense total 2,330, which equals the credit that opened it, 
 
 In the drill example, non-current assets rise by 2,450, trade receivables rise by 200 (the sale was on credit) and the stationery omission lowers bank by 160. Assets rise by 2,490 and profit, and therefore capital, rises by 2,490, which matches 2,450 + 200 − 160.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-accounting-the-trial-balance-and-correction-of-errors--06-kelsterton-sofp-effect.webp" width="900" height="810" alt="Two bars of equal length 3,900. Assets rise by 1,800, 950 and a net 1,150 on bank; equity rises by 2,500 profit and 1,400 capital. Totals go from 45,500 to 49,400 on both sides." loading="lazy">
-  <figcaption>Correcting the six errors raises assets and equity by the same 3,900.</figcaption>
-</figure>
-
-
 ## Exam technique
 
 The syllabus says candidates may be asked to prepare suspense accounts and journal entries, so practise both in full.
@@ -244,6 +238,12 @@ The syllabus says candidates may be asked to prepare suspense accounts and journ
 8. No, the totals still agree.
 9. 15,100.
 10. Profit falls and bank falls by the same amount.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-accounting-the-trial-balance-and-correction-of-errors--06-kelsterton-sofp-effect.webp" width="900" height="810" alt="Two bars of equal length 3,900. Assets rise by 1,800, 950 and a net 1,150 on bank; equity rises by 2,500 profit and 1,400 capital. Totals go from 45,500 to 49,400 on both sides." loading="lazy">
+  <figcaption>Correcting the six errors raises assets and equity by the same 3,900.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

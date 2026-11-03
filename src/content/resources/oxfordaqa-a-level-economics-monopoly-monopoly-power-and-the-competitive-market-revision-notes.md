@@ -147,17 +147,6 @@ If the monopolist prices between 9 and 12, consumers can still gain. If it price
 
 **Pass-through reminder.** Unit cost falls from 20 to 18 (down 10%). Price falls from 30 to 28.50 (down 5%). Pass-on = 1.50/2.00 = 75% of the cost saving.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-monopoly-monopoly-power-and-the-competitive-market--04-bakery-pass-through.webp" width="900" height="860" alt="Before: cost 5.00 plus margin 2.50 gives price 7.50. After: cost 4.60 plus margin 2.60 gives 7.20. Of the 0.40 saving, 0.30 (75%) goes to buyers and 0.10 stays with the baker." loading="lazy">
-  <figcaption>Competition passes most of a cost saving on as a lower price.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/cambridge-igcse-economics-microeconomic-decision-makers--07-competition-and-monopoly.webp" width="900" height="930" alt="Six small shops stand for many firms and one large factory for a monopoly. Many firms mean lower price, improving quality, wide choice and lower profit. A monopoly means higher price, less pressure on quality, little choice and possibly high profit, with possible economies of scale and research funding." loading="lazy">
-  <figcaption>Competition tends to lower price and profit and widen choice; a monopoly can charge more and earn high profits.</figcaption>
-</figure>
-
-
 ## Evaluation checklist
 
 1. How large are the economies of scale compared with the market?
@@ -168,6 +157,17 @@ If the monopolist prices between 9 and 12, consumers can still gain. If it price
 6. Which stakeholders gain or lose: consumers, workers, shareholders, suppliers?
 
 A strong conclusion picks a side on the evidence in the question and says what would change your view.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-monopoly-monopoly-power-and-the-competitive-market--04-bakery-pass-through.webp" width="900" height="860" alt="Before: cost 5.00 plus margin 2.50 gives price 7.50. After: cost 4.60 plus margin 2.60 gives 7.20. Of the 0.40 saving, 0.30 (75%) goes to buyers and 0.10 stays with the baker." loading="lazy">
+  <figcaption>Competition passes most of a cost saving on as a lower price.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-economics-microeconomic-decision-makers--07-competition-and-monopoly.webp" width="900" height="930" alt="Six small shops stand for many firms and one large factory for a monopoly. Many firms mean lower price, improving quality, wide choice and lower profit. A monopoly means higher price, less pressure on quality, little choice and possibly high profit, with possible economies of scale and research funding." loading="lazy">
+  <figcaption>Competition tends to lower price and profit and widen choice; a monopoly can charge more and earn high profits.</figcaption>
+</figure>
+
 
 ## Chains of reasoning to memorise
 

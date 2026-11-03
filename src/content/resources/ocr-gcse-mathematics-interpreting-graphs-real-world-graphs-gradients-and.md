@@ -250,6 +250,11 @@ Tangent estimates depend on careful drawing. Show the two points you used.
   <figcaption>Gradient is the change up divided by the change along.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-graphs-in-practical-situations--05-tangent-speed.webp" width="900" height="930" alt="A curved distance-time graph through (0, 0), (1, 1), (2, 4), (3, 9), (4, 16), (5, 25). A tangent at (3, 9) passes through (2, 3) and (5, 21), so its gradient is 18 divided by 3 = 6 m/s. A chord to (5, 25) has gradient 8 and only gives an average." loading="lazy">
+  <figcaption>Speed at one instant is the gradient of the tangent, not of a chord.</figcaption>
+</figure>
+
 
 ## 4. Areas under graphs (7.04c, Higher tier only)
 
@@ -302,6 +307,11 @@ Here the curve is concave, so the trapezia fall short of it and the estimate is 
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/ocr-gcse-mathematics-interpreting-graphs-real-world-graphs-gradients-and--05-takings-area-rate.webp" width="900" height="960" alt="Rate graph through (0,0), (2,60), (5,60), (8,20) split into a triangle of 60 pounds, a rectangle of 180 pounds and a trapezium of 120 pounds, total 360 pounds." loading="lazy">
   <figcaption>The area under a pounds-per-hour graph is the total money taken: 360 pounds.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-graphs-in-practical-situations--06-speed-time-area.webp" width="900" height="890" alt="A speed-time graph for a cyclist: 0 to 12 m/s in 8 s, 12 m/s for 20 s, then to rest in 6 s. The area under the graph is the distance, 48 + 240 + 36 = 324 m, and the average speed is 324 divided by 34 = 9.53 m/s." loading="lazy">
+  <figcaption>Gradient is acceleration and area under the graph is distance.</figcaption>
 </figure>
 
 

@@ -117,6 +117,17 @@ Biology (4BI1), Issue 3.
   substrate no longer fits) at high temperature — permanent, unlike low-temperature reduced activity.
 - **pH**: extreme pH also denatures the enzyme by altering the active site shape.
 
+## Exam technique for this topic
+
+The recurring exam trap is describing an enzyme as "killed" by heat rather than explaining denaturation
+as a specific change in active site shape that prevents substrate binding — always use the term
+denaturation and explain the mechanism, not just the outcome. When predicting an enzyme's activity at a
+given temperature, structure the answer in three parts: below optimum (lower kinetic energy, fewer
+successful collisions, reduced but not permanently damaged activity), at optimum (maximum rate), and
+well above optimum (denatured, activity drops sharply and does not recover). The key distinguishing
+point examiners look for is that denaturation at high temperature is permanent, while reduced activity
+at low temperature is reversible.
+
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/igcse-biology-0610-enzymes--01-enzyme-action.webp" width="900" height="960" alt="Four panels show lipase acting on a fat. The fat, shaped to fit the notch-like active site, approaches, fits, is converted into glycerol and fatty acids, and the products leave while the same enzyme is unchanged." loading="lazy">
   <figcaption>The substrate fits the active site, products form and leave, and the enzyme is unchanged.</figcaption>
@@ -132,17 +143,6 @@ Biology (4BI1), Issue 3.
   <figcaption>Activity peaks at the optimum temperature, then falls as the enzyme is denatured.</figcaption>
 </figure>
 
-
-## Exam technique for this topic
-
-The recurring exam trap is describing an enzyme as "killed" by heat rather than explaining denaturation
-as a specific change in active site shape that prevents substrate binding — always use the term
-denaturation and explain the mechanism, not just the outcome. When predicting an enzyme's activity at a
-given temperature, structure the answer in three parts: below optimum (lower kinetic energy, fewer
-successful collisions, reduced but not permanently damaged activity), at optimum (maximum rate), and
-well above optimum (denatured, activity drops sharply and does not recover). The key distinguishing
-point examiners look for is that denaturation at high temperature is permanent, while reduced activity
-at low temperature is reversible.
 
 ## Worked example: identifying an unlabelled cell
 
@@ -167,12 +167,6 @@ acids and glycerol. Recognising that digestion is essentially the building-block
 reverse — breaking a large molecule back down into the smaller units it was built from — is a
 transferable insight worth carrying forward well beyond this specific topic.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-biology-human-nutrition--06-enzymes-products.webp" width="900" height="1140" alt="Three rows show a large insoluble molecule, an enzyme, and the small soluble products. Amylase turns starch into simple sugars; protease turns protein into amino acids; lipase turns fat into glycerol and fatty acids. An Extended panel shows amylase turning starch into maltose and maltase, at the lining of the small intestine, turning maltose into glucose." loading="lazy">
-  <figcaption>Each enzyme turns one large insoluble molecule into small soluble products.</figcaption>
-</figure>
-
-
 ## Self-test
 
 1. Name two functions found only in plant cells, with the structure responsible for each.
@@ -186,3 +180,9 @@ sap/turgor (large permanent vacuole). 2. A large molecule is built from smaller 
 is built from simple sugar units. 3. The active site denatures (changes shape), so the substrate no
 longer fits and the reaction can no longer be catalysed. 4. Reversible — activity increases again if
 warmed back toward the optimum. 5. Glucose, starch, protein, fat (each with its own specific positive-result test and reagent to recall precisely).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-human-nutrition--06-enzymes-products.webp" width="900" height="1140" alt="Three rows show a large insoluble molecule, an enzyme, and the small soluble products. Amylase turns starch into simple sugars; protease turns protein into amino acids; lipase turns fat into glycerol and fatty acids. An Extended panel shows amylase turning starch into maltose and maltase, at the lining of the small intestine, turning maltose into glucose." loading="lazy">
+  <figcaption>Each enzyme turns one large insoluble molecule into small soluble products.</figcaption>
+</figure>
+

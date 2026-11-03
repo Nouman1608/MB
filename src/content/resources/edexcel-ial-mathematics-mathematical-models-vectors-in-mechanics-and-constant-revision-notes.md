@@ -105,6 +105,11 @@ Also state "air resistance ignored" and "g constant" where relevant. Always pair
 | Average speed and average velocity | Distance ÷ time versus displacement ÷ time |
 
 <figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-kinematics--01-distance-displacement.webp" width="900" height="910" alt="A number line from minus 4 to 14 m shows a particle moving 12 m forward, 5 m back and 9 m back, ending at minus 2 m after 20 s. Distance is 26 m, giving average speed 1.3 m/s. Displacement is minus 2 m, giving average velocity minus 0.1 m/s." loading="lazy">
+  <figcaption>Distance adds every leg; displacement only compares start and end, so the two averages differ.</figcaption>
+</figure>
+
+<figure class="topic-figure">
   <img src="https://img.marlbridge.com/aqa-a-level-mathematics-kinematics--05-calculus-turning-points.webp" width="900" height="1040" alt="Two graphs share a time axis. Displacement x = 2t³ − 15t² + 24t reaches 11 m at t = 1, minus 16 m at t = 4 and minus 5 m at t = 5. Velocity, its derivative, is zero at t = 1 and 4 and negative between. Displacement is minus 5 m but distance is 11 + 27 + 11 = 49 m." loading="lazy">
   <figcaption>Find where v = 0, split the motion there, and add the sizes of the stages for distance.</figcaption>
 </figure>
@@ -158,6 +163,11 @@ Thrown up at 25 m s⁻¹ from a cliff top 30 m above the sea: 4.9t² − 25t −
   <figcaption>The suvat equations are the gradient and area of one straight-line velocity-time graph.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-kinematics--08-cliff-landing.webp" width="900" height="830" alt="A stone is thrown from a 20 m cliff at 18 m/s and 25 degrees above horizontal. Setting y = minus 20 gives 4.9t² − 7.607t − 20 = 0, with roots 2.94 s and minus 1.39 s. The negative root belongs to the dashed backward extension inside the cliff and is rejected. It lands 48.0 m away at 26.8 m/s." loading="lazy">
+  <figcaption>When the landing level differs, put the landing height into y and reject the negative root.</figcaption>
+</figure>
+
 
 ## Motion graphs
 
@@ -177,17 +187,6 @@ Thrown up at 25 m s⁻¹ from a cliff top 30 m above the sea: 4.9t² − 25t −
 ### Small reminder
 
 Velocity from 8 to −4 in 6 s: a = −2 m s⁻², rest at t = 4, displacement 16 − 4 = 12 m, distance 20 m.
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-kinematics--01-distance-displacement.webp" width="900" height="910" alt="A number line from minus 4 to 14 m shows a particle moving 12 m forward, 5 m back and 9 m back, ending at minus 2 m after 20 s. Distance is 26 m, giving average speed 1.3 m/s. Displacement is minus 2 m, giving average velocity minus 0.1 m/s." loading="lazy">
-  <figcaption>Distance adds every leg; displacement only compares start and end, so the two averages differ.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-kinematics--02-vt-graph-areas.webp" width="900" height="900" alt="A velocity-time graph rises to 12 m/s in 5 s, stays level to t = 11, then falls to minus 4 m/s at t = 15, crossing zero at t = 14. The areas are 30, 72, 18 above the axis and 2 below. Displacement is 118 m and distance 122 m." loading="lazy">
-  <figcaption>Gradients give acceleration; areas give displacement, and distance counts every area as positive.</figcaption>
-</figure>
-
 
 ## Quick self-test
 
@@ -218,6 +217,12 @@ Velocity from 8 to −4 in 6 s: a = −2 m s⁻², rest at t = 4, displacement 1
 10. s = ½(9.8)(9) = **44.1 m**; v = 9.8 × 3 = **29.4 m s⁻¹**.
 11. 10 sin 60° = 8.66 east; 10 cos 60° = 5.00 north; **(8.66i + 5.00j) m s⁻¹**.
 12. It has negligible mass, so the tension is the same throughout it (provided it passes only over smooth surfaces or pulleys).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-kinematics--02-vt-graph-areas.webp" width="900" height="900" alt="A velocity-time graph rises to 12 m/s in 5 s, stays level to t = 11, then falls to minus 4 m/s at t = 15, crossing zero at t = 14. The areas are 30, 72, 18 above the axis and 2 below. Displacement is 118 m and distance 122 m." loading="lazy">
+  <figcaption>Gradients give acceleration; areas give displacement, and distance counts every area as positive.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

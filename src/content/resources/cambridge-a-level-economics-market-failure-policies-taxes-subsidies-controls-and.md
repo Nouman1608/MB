@@ -39,6 +39,12 @@ Every market, firm and number below is invented for illustration. Prices are in 
 
 For each one, give the mechanism, a number or table where you can, and an evaluation: who gains, who loses, how well it targets the failure, and what it costs to run.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-economics-government-microeconomic-intervention--05-tool-matching.webp" width="900" height="900" alt="A matching diagram joining four problems to six tools. Public good not provided: direct provision. Merit good under-consumed: direct provision, subsidy, information. Demerit good over-consumed: information, indirect tax, minimum price. Price too high or too low: maximum or minimum price, buffer stock." loading="lazy">
+  <figcaption>Match the tool to the problem: the mechanism, not just the name, earns marks.</figcaption>
+</figure>
+
+
 ## Specific and ad valorem indirect taxes
 
 A specific tax takes a fixed sum from each unit sold. An ad valorem tax takes a fixed share of the value of each sale. A specific tax shifts supply up in parallel. An ad valorem tax pivots supply, because the tax per unit grows as the price rises.
@@ -91,6 +97,11 @@ Evaluation: external cost is difficult to put a value on, so the rate chosen may
   <figcaption>With inelastic demand buyers bear most of an indirect tax; with elastic demand producers bear most.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-economics-government-microeconomic-intervention--04-corrective-tax.webp" width="900" height="900" alt="Demand (MPB) and supply (MPC) cross at price 5 and quantity 50. Marginal social cost (MSC) lies 2 above MPC and crosses demand at price 6.2, quantity 40. The triangle between 40 and 50 is the welfare loss, area 10. A tax of 2 shifts supply up onto MSC and moves output to 40." loading="lazy">
+  <figcaption>A tax equal to the external cost moves output from the market level to the socially optimal level.</figcaption>
+</figure>
+
 
 ## Subsidies
 
@@ -108,6 +119,11 @@ The subsidy costs ten times the net welfare gain, because most of the money goes
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/cambridge-a-level-economics-market-failure-policies-taxes-subsidies-controls-and--08-subsidy-external-benefit.webp" width="900" height="1020" alt="MPB 70 - 0.1Q, MSB 85 - 0.1Q, MC 10 + 0.05Q. The market gives 400 at 30, the optimum is 500 at 35. A subsidy of 15 gives 500: families pay 20, providers get 35. Welfare gain 750 against a cost of 7,500." loading="lazy">
   <figcaption>Worked example 3: the subsidy costs ten times the welfare gain.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-economics-government-microeconomic-intervention--02-subsidy-incidence.webp" width="900" height="890" alt="Supply and demand diagram where a subsidy of 2 per unit shifts supply down from S1 to S2. Quantity rises from 50 to 60, the consumer price falls from 5 to 3.8 (gain 1.2 a unit) and the producer receives 5.8 (gain 0.8 a unit). The government pays 2 a unit." loading="lazy">
+  <figcaption>A subsidy lowers the price consumers pay and raises what producers receive; the split depends on elasticity.</figcaption>
 </figure>
 
 
@@ -140,6 +156,11 @@ Evaluation: with inelastic demand, consumption falls by less than the price rise
   <figcaption>Worked example 5: a minimum price raises price 25% and cuts consumption 16.7%, so demand is inelastic.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-allocation-of-resources--07-price-controls.webp" width="900" height="1370" alt="Equilibrium E is at price 5 and quantity 50. A maximum price of 3 gives demand 70 and supply 25, a shortage of 45. A minimum price of 7 gives demand 30 and supply 75, a surplus of 45." loading="lazy">
+  <figcaption>A maximum price below equilibrium causes a shortage; a minimum price above it causes a surplus.</figcaption>
+</figure>
+
 
 ## Production quotas
 
@@ -156,11 +177,6 @@ So a quota and a tax can reach the same output. The difference is who gets the r
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/cambridge-a-level-economics-market-failure-policies-taxes-subsidies-controls-and--09-quota-rent-vs-tax.webp" width="900" height="940" alt="Demand price 150 - 0.125Q and supply price 24 + 0.1Q. A quota of 440 gives price 95 against a supply price of 68; the 27 gap is a quota rent of 11,880 kept by quota holders. A tax of 27 gives the same price and the government collects the 11,880." loading="lazy">
   <figcaption>Worked example 6: a quota and an equivalent tax differ only in who gets the rent.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-level-economics-government-microeconomic-intervention--04-corrective-tax.webp" width="900" height="900" alt="Demand (MPB) and supply (MPC) cross at price 5 and quantity 50. Marginal social cost (MSC) lies 2 above MPC and crosses demand at price 6.2, quantity 40. The triangle between 40 and 50 is the welfare loss, area 10. A tax of 2 shifts supply up onto MSC and moves output to 40." loading="lazy">
-  <figcaption>A tax equal to the external cost moves output from the market level to the socially optimal level.</figcaption>
 </figure>
 
 
@@ -201,6 +217,11 @@ The state supplies public goods, which are non-excludable, so private firms cann
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/cambridge-a-level-economics-market-failure-policies-taxes-subsidies-controls-and--04-flood-defence-benefit-cost.webp" width="900" height="730" alt="Four blocks of 1,000 households, each worth 150 cu a year, give a benefit of 600,000 cu. Cost is 480,000 cu, so net benefit is 120,000 cu and the benefit-cost ratio is 1.25." loading="lazy">
   <figcaption>Worked example 9: a benefit of 600,000 against a cost of 480,000 gives a ratio of 1.25.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-allocation-of-resources--04-public-goods.webp" width="900" height="1060" alt="A street light shines on four people but only one pays. The three free riders use it without paying, so private firms make no profit and will not supply it. The government provides it, paid for by taxes." loading="lazy">
+  <figcaption>Public goods are non-excludable, so free riders stop private firms supplying them.</figcaption>
 </figure>
 
 

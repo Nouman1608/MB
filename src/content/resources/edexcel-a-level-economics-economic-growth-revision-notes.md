@@ -158,12 +158,6 @@ Economic growth is one of a government's core macroeconomic objectives, alongsid
 
 When a government reports "economic growth" of, say, 3%, it is almost always reporting **real, volume-based** growth -- the increase in the actual quantity of goods and services produced, stripped of both inflation (nominal effects) and pure price changes (value effects unrelated to quantity). A rise in nominal GDP that is entirely explained by rising prices, with no increase in actual output, would **not** count as economic growth in the sense this sub-topic tests -- being able to identify when a reported GDP increase is genuine growth versus simply inflation is a distinction worth practising with invented numerical examples.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-level-edexcel-economics-economic-growth--03-value-and-volume.webp" width="900" height="820" alt="Ten apples at $2.00 (value $20) become eleven apples at $2.40 (value $26.40). Value rises 32% but volume, the physical quantity, rises only 10%." loading="lazy">
-  <figcaption>Value is measured in money; volume counts only physical output.</figcaption>
-</figure>
-
-
 ## Quick self-test
 
 1. Explain all three distinctions (real/nominal, total/per capita, value/volume) using one GDP figure as an example.
@@ -178,6 +172,12 @@ When a government reports "economic growth" of, say, 3%, it is almost always rep
 
 [Measuring Economic Growth study guide](/resources/a-level-edexcel-economics-economic-growth/) |
 [Measuring Economic Growth practice questions](/resources/edexcel-a-level-economics-economic-growth-practice/)
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-edexcel-economics-economic-growth--03-value-and-volume.webp" width="900" height="820" alt="Ten apples at $2.00 (value $20) become eleven apples at $2.40 (value $26.40). Value rises 32% but volume, the physical quantity, rises only 10%." loading="lazy">
+  <figcaption>Value is measured in money; volume counts only physical output.</figcaption>
+</figure>
+
 
 ## Official syllabus
 

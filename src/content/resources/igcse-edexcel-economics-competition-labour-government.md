@@ -88,12 +88,6 @@ takeovers; intervention in the labour market through a minimum wage, and
 the advantages, disadvantages and diagrammatic effect of setting a
 minimum wage above the market equilibrium
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/aqa-gcse-economics-objectives-of-government--01-four-objectives.webp" width="900" height="930" alt="Four tiles: stable prices (CPI), economic growth (GDP), full employment (unemployment rate), balance of payments (current account). Each has a simple icon and a one-line meaning. No policy improves all four at once." loading="lazy">
-  <figcaption>The government's four principal economic objectives and how each is measured.</figcaption>
-</figure>
-
-
 ## How to approach it
 
 1.2.4's monopoly-versus-oligopoly material is easiest to hold in memory
@@ -120,6 +114,12 @@ minimum wage addresses labour market outcomes specifically. A common
 mark loss is using "government intervention" as one undifferentiated
 policy rather than naming which specific tool solves which specific
 market failure.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-objectives-of-government--02-inflation-causes.webp" width="900" height="1090" alt="Two illustrative AD/AS diagrams. Demand-pull: AD shifts right and the price level rises. Cost-push: AS shifts up and left and the price level rises. Boxes give the cause chain and the policy response from the lesson." loading="lazy">
+  <figcaption>Demand-pull starts with demand; cost-push starts with rising costs.</figcaption>
+</figure>
+
 
 ## Worked example: minimum wage above equilibrium
 
@@ -165,12 +165,6 @@ the new minimum. Confusing a shift in the labour supply curve (caused
 by, for example, migration or the school-leaving age) with a movement
 along it (caused by a change in the wage itself).
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/aqa-gcse-economics-objectives-of-government--05-trade-and-current-account.webp" width="900" height="1080" alt="Waterfall in illustrative pounds billion: exports 100 and imports 110 give a trade balance of minus 10; net income of plus 4 gives a current account deficit of 6." loading="lazy">
-  <figcaption>The current account adds income flows to the balance of trade.</figcaption>
-</figure>
-
-
 ## Quick revision checklist
 
 - Compare monopoly and oligopoly using the same five headings each time:
@@ -182,7 +176,19 @@ to solve: externalities, monopoly power, or the labour market.
 - Be able to state both a winner and a loser when evaluating a minimum
 wage set above the equilibrium wage.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-objectives-of-government--05-trade-and-current-account.webp" width="900" height="1080" alt="Waterfall in illustrative pounds billion: exports 100 and imports 110 give a trade balance of minus 10; net income of plus 4 gives a current account deficit of 6." loading="lazy">
+  <figcaption>The current account adds income flows to the balance of trade.</figcaption>
+</figure>
+
+
 ## Official syllabus
 
 Pearson Edexcel International GCSE Economics (4EC1) specification, Issue
 3 — [qualifications.pearson.com](https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/Economics/2017/Specification%20and%20SAMS/international-gcse-spec-9781446942789.pdf).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-objectives-of-government--01-four-objectives.webp" width="900" height="930" alt="Four tiles: stable prices (CPI), economic growth (GDP), full employment (unemployment rate), balance of payments (current account). Each has a simple icon and a one-line meaning. No policy improves all four at once." loading="lazy">
+  <figcaption>The government's four principal economic objectives and how each is measured.</figcaption>
+</figure>
+

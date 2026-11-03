@@ -242,6 +242,12 @@ In the long run P (20) exceeds MC (10), so there is allocative inefficiency, but
 
 **Risks.** Less output and higher price (shown above), reduced consumer choice, and possible abuse of power such as price fixing.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-microeconomics--02-economies-of-scale-and-mes.webp" width="900" height="830" alt="Illustrative long-run average cost curve falling to a minimum of 6 at output 100 (minimum efficient scale), then rising. Falling LRAC reflects purchasing, technical, financial, managerial and marketing economies; rising LRAC reflects communication and coordination problems." loading="lazy">
+  <figcaption>Long-run average cost falls until the minimum efficient scale and rises beyond it.</figcaption>
+</figure>
+
+
 ## Government intervention
 
 - **Legislation and regulation**: laws against collusion and abuse of a dominant position, and price caps for natural monopolies.

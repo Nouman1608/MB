@@ -80,12 +80,6 @@ Reverse every step for a rate rise.
 
 **New AD/AS equilibrium.** Set AD equal to SRAS, solve for P, then substitute to find Y. Always give the percentage change in each variable.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/cambridge-a-level-economics-monetary-policy-and-supply-side-policy--03-mon-loan-to-value-cap.webp" width="900" height="850" alt="Two houses of 250,000 cu as stacked columns. At an 80% cap the loan is 200,000 and the deposit 50,000; at a 70% cap the loan is 175,000 and the deposit 75,000, which is 50% more." loading="lazy">
-  <figcaption>A tighter loan-to-value cap raises the deposit needed and so reduces borrowing.</figcaption>
-</figure>
-
-
 ## AD/AS analysis (5.3.4 and 5.4.4)
 
 | Policy | Curve that moves | Real output | Price level | Employment |
@@ -120,6 +114,11 @@ When there is little spare capacity, the price rise is a larger share of the eff
 </figure>
 
 <figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-aggregate-demand-supply--07-lras-growth.webp" width="900" height="1000" alt="LRAS shifts right from output 100 to 130, with SRAS shifted right by the same amount. Equilibrium moves from output 90, price level 65 to output 105, price level 57.5. Technology, productivity, enterprise, factor mobility, incentives and institutions are listed as causes." loading="lazy">
+  <figcaption>Underlying economic growth is a rightward shift in LRAS, raising output and easing prices.</figcaption>
+</figure>
+
+<figure class="topic-figure">
   <img src="https://img.marlbridge.com/ocr-a-level-economics-macroeconomics--02-ad-shift.webp" width="900" height="1020" alt="Aggregate demand shifts right from AD1 to AD2 along an upward-sloping SRAS, so equilibrium moves from E1 to E2 with higher output and price level. A vertical LRAS shows spare capacity remains." loading="lazy">
   <figcaption>A rise in a component of AD (C, I, G or X minus M) shifts the whole AD curve and raises output and the price level.</figcaption>
 </figure>
@@ -150,12 +149,6 @@ Other valid measures include better health care, tax incentives for investment a
 - New equilibrium: 6P = 540, so P = 90 and Y = 720.
 - Output is up 20 (2.9%) and the price level is down 10 (10%).
 - Contrast with the expansionary case above, where both rose.
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/aqa-a-level-economics-aggregate-demand-supply--07-lras-growth.webp" width="900" height="1000" alt="LRAS shifts right from output 100 to 130, with SRAS shifted right by the same amount. Equilibrium moves from output 90, price level 65 to output 105, price level 57.5. Technology, productivity, enterprise, factor mobility, incentives and institutions are listed as causes." loading="lazy">
-  <figcaption>Underlying economic growth is a rightward shift in LRAS, raising output and easing prices.</figcaption>
-</figure>
-
 
 ### Percentage change in capacity
 
@@ -192,12 +185,6 @@ Also: a price-level change moves the economy along a curve, while a change in an
 - **Supply-side:** long time lags, high cost, uncertain take-up, needs demand to use the extra capacity.
 - Judge by size, timing, cause of the problem and who gains and loses. End with a conclusion that depends on stated conditions.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/cambridge-a-level-economics-monetary-policy-and-supply-side-policy--04-money-market.webp" width="900" height="866" alt="Money market diagram: downward-sloping demand for money (6% at 300 to 2% at 460) and vertical money supply lines. Supply 380 gives 4%, 420 gives 3%, 340 gives 5%." loading="lazy">
-  <figcaption>The central bank sets the money supply; the interest rate adjusts to clear the money market.</figcaption>
-</figure>
-
-
 ## Quick self-test
 
 1. A nominal interest rate is 5.5% and inflation is 2.0%. What is the real rate?
@@ -223,6 +210,17 @@ Also: a price-level change moves the economy along a curve, while a change in an
 8. 40 / 800 = **5%**.
 9. SRAS shifts right as costs fall; the improvement in capacity then moves **LRAS right**.
 10. Any two: low confidence, banks unwilling to lend, fixed-rate debts, time lags, no spare demand from abroad, cost-push causes.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-monetary-policy-and-supply-side-policy--04-money-market.webp" width="900" height="866" alt="Money market diagram: downward-sloping demand for money (6% at 300 to 2% at 460) and vertical money supply lines. Supply 380 gives 4%, 420 gives 3%, 340 gives 5%." loading="lazy">
+  <figcaption>The central bank sets the money supply; the interest rate adjusts to clear the money market.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-monetary-policy-and-supply-side-policy--03-mon-loan-to-value-cap.webp" width="900" height="850" alt="Two houses of 250,000 cu as stacked columns. At an 80% cap the loan is 200,000 and the deposit 50,000; at a 70% cap the loan is 175,000 and the deposit 75,000, which is 50% more." loading="lazy">
+  <figcaption>A tighter loan-to-value cap raises the deposit needed and so reduces borrowing.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

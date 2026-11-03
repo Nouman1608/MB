@@ -177,6 +177,11 @@ All numbers are invented for revision. Country A and the other examples are fict
   <figcaption>A rise in interest rates makes saving more rewarding and borrowing more expensive.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-objectives-of-government--06-interest-rates.webp" width="900" height="1010" alt="Top: 1,800 pounds at 5 percent earns 90 pounds in a year (1,800 x 0.05). Bottom: when rates rise, consumers save more but borrow and spend less; producers save more but borrow and invest less." loading="lazy">
+  <figcaption>Higher interest rates reward saving and discourage borrowing, spending and investment.</figcaption>
+</figure>
+
 
 ## Matching policies to objectives
 

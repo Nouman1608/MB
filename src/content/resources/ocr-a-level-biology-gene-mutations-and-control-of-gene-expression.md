@@ -118,6 +118,11 @@ When lactose disappears, the repressor binds the operator again and transcriptio
   <figcaption>The lac operon with and without lactose.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-biology-gene-mutations-and-stem-cells--06-rna-interference.webp" width="900" height="1140" alt="An enzyme cuts double-stranded RNA into siRNA. One siRNA strand in a protein complex pairs with mRNA of matching sequence (example pairing GCUCCGUUAGCA with CGAGGCAAUCGU), and the mRNA is broken down so no protein is made. The gene is still transcribed." loading="lazy">
+  <figcaption>How siRNA stops translation of one mRNA.</figcaption>
+</figure>
+
 
 ### Worked example 2: interpreting lac mutants
 

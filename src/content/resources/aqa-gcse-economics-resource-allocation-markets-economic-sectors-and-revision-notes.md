@@ -176,6 +176,11 @@ This is a benefit to the firm. The matching cost is that each trained worker can
 | Wider (specialisation and exchange) | Greater total output and choice | Dependence on others; area or country exposed if demand for its product falls |
 
 <figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-how-markets-work--01-harvest-shock.webp" width="900" height="960" alt="Bad weather cuts the coffee harvest, so supply shifts left from S1 to S2. Equilibrium moves from price 8, quantity 60 to price 9, quantity 55. Because demand is inelastic (PED about 0.67), revenue rises from 480 to 495." loading="lazy">
+  <figcaption>A supply shock raises price a lot and cuts quantity a little, so growers' total revenue can rise.</figcaption>
+</figure>
+
+<figure class="topic-figure">
   <img src="https://img.marlbridge.com/igcse-edexcel-economics-production-and-business-costs--04-division-of-labour.webp" width="900" height="960" alt="Top: one worker does four tasks in turn. Below: four workers each do one task and pass the work on. The advantage for the firm is faster output; the disadvantage for workers is boredom and over-specialisation. Answers should give both sides." loading="lazy">
   <figcaption>Splitting a job into tasks speeds up output but can leave workers bored and over-specialised.</figcaption>
 </figure>

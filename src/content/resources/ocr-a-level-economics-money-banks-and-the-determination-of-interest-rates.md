@@ -140,6 +140,11 @@ Each round is 85% of the last. Maximum total deposits = 750 / 0.15 = 5,000. Cred
   <figcaption>A 100 loan creates a 100 deposit, cutting the reserve ratio from 15% to 12.9% and leaving the bank 15 short of reserves.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-economics-microeconomic-decision-makers--02-central-and-commercial-banks.webp" width="900" height="1090" alt="A central bank sets the base interest rate for commercial banks. Households and firms deposit money with commercial banks and receive loans from them." loading="lazy">
+  <figcaption>The central bank sets the base rate; commercial banks take deposits and make loans.</figcaption>
+</figure>
+
 
 ## 4. How the interest rate is determined
 

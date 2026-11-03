@@ -35,12 +35,6 @@ This topic follows sub-topic 2.3, Waves and Particle Nature of Light, and
 assumes familiarity with rearranging equations and basic circuit
 diagrams from GCSE/IGCSE-level physics.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/aqa-a-level-physics-electricity--07-internal-resistance.webp" width="900" height="1290" alt="A real cell is an e.m.f. E in series with internal resistance r. With E = 12.0 V, r = 0.50 ohm and R = 5.5 ohm, I = 2.0 A, the terminal p.d. is 11.0 V and 1.0 V is lost across r. A V-I graph of a cell is a straight line with gradient -r and intercept E: data give E = 1.50 V and r = 0.60 ohm, short-circuit current 2.5 A." loading="lazy">
-  <figcaption>Where the e.m.f. goes: terminal p.d. plus lost volts, and how a V–I graph gives E and r.</figcaption>
-</figure>
-
-
 ## Syllabus coverage
 
 **PEARSON EDEXCEL INTERNATIONAL A LEVEL PHYSICS (YPH11) — Sub-topic 2.4**
@@ -77,6 +71,12 @@ understand how changes of resistance with illumination may be modelled in
 terms of the number of conduction electrons, and how to apply this model
 to LDRs.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-physics-electricity--07-internal-resistance.webp" width="900" height="1290" alt="A real cell is an e.m.f. E in series with internal resistance r. With E = 12.0 V, r = 0.50 ohm and R = 5.5 ohm, I = 2.0 A, the terminal p.d. is 11.0 V and 1.0 V is lost across r. A V-I graph of a cell is a straight line with gradient -r and intercept E: data give E = 1.50 V and r = 0.60 ohm, short-circuit current 2.5 A." loading="lazy">
+  <figcaption>Where the e.m.f. goes: terminal p.d. plus lost volts, and how a V–I graph gives E and r.</figcaption>
+</figure>
+
+
 ## Current, potential difference and resistance
 
 **Electric current** is the rate of flow of charged particles:
@@ -100,6 +100,12 @@ resistance falls with heating) and diodes (near-zero current until a
 threshold forward voltage, then rapid rise; effectively no current in
 reverse) — have characteristic non-linear I-V graphs that must be
 sketched, recognised and interpreted.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-physics-electricity--02-iv-characteristics.webp" width="900" height="1115" alt="Four I-V graphs: a fixed resistor is a straight line through the origin; a filament lamp curves flat as it heats, with lesson data giving 10 ohm at 1.0 V and 25 ohm at 10 V; a diode conducts only above about 0.7 V forward; an NTC thermistor curve steepens as it heats." loading="lazy">
+  <figcaption>Four I–V shapes side by side, with R = V/I read at a point.</figcaption>
+</figure>
+
 
 ## Circuit laws and combining resistors
 
@@ -162,8 +168,18 @@ electrical cell, typically from a graph of terminal potential difference
 against current.
 
 <figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-physics-electricity--01-drift-velocity.webp" width="900" height="1260" alt="A wire carries free electrons that drift slowly against the conventional current. In time t the carriers in a slab of length vt cross a plane, so I = nAvq. For a 13 A copper cable the drift speed is 3.8 x 10^-4 m/s, and halving the diameter makes the drift speed four times larger for the same current." loading="lazy">
+  <figcaption>Why a current of many amperes needs only a tiny drift speed: I = nAvq.</figcaption>
+</figure>
+
+<figure class="topic-figure">
   <img src="https://img.marlbridge.com/aqa-a-level-physics-electricity--03-resistivity-wire.webp" width="900" height="1255" alt="Three wires drawn to scale show that doubling the length doubles R (11.9 to 23.9 ohm) and doubling the diameter quarters it (2.98 ohm). A graph of R against L for a 0.32 mm wire has gradient 13.7 ohm per metre, so resistivity equals gradient times area, 1.1 x 10^-6 ohm metre." loading="lazy">
   <figcaption>How length and diameter change resistance, and how a graph gives resistivity.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-physics-electricity--08-potential-divider-load.webp" width="900" height="1170" alt="Left: 12 V across 4.7 kohm and 3.3 kohm gives 4.95 V across the 3.3 kohm resistor. Right: a 3.3 kohm load in parallel makes 1.65 kohm, so the output falls to 3.12 V. Below: a potentiometer slider 35.0 cm along a 100.0 cm track on a 6.0 V supply gives 2.1 V." loading="lazy">
+  <figcaption>A loaded divider lowers the output; a slider on a track gives a variable output.</figcaption>
 </figure>
 
 

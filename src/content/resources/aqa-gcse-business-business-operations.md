@@ -58,8 +58,8 @@ services, and how operational decisions influence the wider business.
   e-commerce, social media) have changed customer service
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/aqa-gcse-business-business-operations--05-customer-service-chain.webp" width="900" height="850" alt="Three methods of good service (product knowledge, customer engagement, after-sales service). Good service leads to a satisfied, loyal customer who spends more so profit rises. Poor service leads to an unhappy customer, bad word of mouth and falling revenue." loading="lazy">
-  <figcaption>Good service builds loyalty and profit; poor service damages reputation and revenue.</figcaption>
+  <img src="https://img.marlbridge.com/aqa-gcse-business-business-operations--06-break-even.webp" width="900" height="900" alt="Break-even chart for price 20 pounds, variable cost 12 pounds a unit and fixed costs 4,800 pounds. Revenue and total cost cross at 600 units and 12,000 pounds; left of it is a loss, right of it a profit." loading="lazy">
+  <figcaption>At £20 price, £12 variable cost and £4,800 fixed costs, a business breaks even at 600 units a month.</figcaption>
 </figure>
 
 
@@ -75,6 +75,12 @@ since "evaluate" and "to what extent" questions are common at this topic's highe
 
 AQA GCSE Business (8132) specification, first teaching September 2017 --
 [aqa.org.uk](https://www.aqa.org.uk/subjects/business/gcse/business-8132/specification/subject-content/business-operations).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-business-business-operations--05-customer-service-chain.webp" width="900" height="850" alt="Three methods of good service (product knowledge, customer engagement, after-sales service). Good service leads to a satisfied, loyal customer who spends more so profit rises. Poor service leads to an unhappy customer, bad word of mouth and falling revenue." loading="lazy">
+  <figcaption>Good service builds loyalty and profit; poor service damages reputation and revenue.</figcaption>
+</figure>
+
 
 ## Job vs flow production
 
@@ -146,6 +152,16 @@ JIC) -- they are separate decisions. Listing quality costs and benefits without 
 specific business scenario. Describing customer service only in terms of politeness, missing the
 syllabus's specific methods (product knowledge, engagement, post-sales service) and ICT developments.
 
+## Quick revision checklist
+
+- Distinguish job and flow production, and state when each is appropriate.
+- Evaluate JIT against JIC stock management for a given business scenario.
+- Explain the factors affecting choice of supplier and the value of supply chain management.
+- Evaluate the costs and benefits of maintaining quality through TQM, including risks from outsourcing
+  and franchising.
+- Explain how good customer service benefits a business, and how poor service and ICT developments both
+  affect it.
+
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/aqa-gcse-business-business-operations--03-quality-control-assurance.webp" width="900" height="890" alt="Two three-stage production lines. Quality control: one check at the end finds defects after making. Quality assurance: a tick shield above each stage prevents defects during making." loading="lazy">
   <figcaption>Quality control checks products after production; quality assurance builds checks into the process.</figcaption>
@@ -156,13 +172,3 @@ syllabus's specific methods (product knowledge, engagement, post-sales service) 
   <figcaption>A business can make a profit on paper yet run out of cash if customers pay late.</figcaption>
 </figure>
 
-
-## Quick revision checklist
-
-- Distinguish job and flow production, and state when each is appropriate.
-- Evaluate JIT against JIC stock management for a given business scenario.
-- Explain the factors affecting choice of supplier and the value of supply chain management.
-- Evaluate the costs and benefits of maintaining quality through TQM, including risks from outsourcing
-  and franchising.
-- Explain how good customer service benefits a business, and how poor service and ICT developments both
-  affect it.

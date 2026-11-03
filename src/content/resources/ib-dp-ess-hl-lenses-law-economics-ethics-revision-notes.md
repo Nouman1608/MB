@@ -88,6 +88,11 @@ The brief lists three HL-only lenses (5, 7 and 5 recommended hours) and asks HL 
   <figcaption>Soft law works through reputation; hard law through penalties; the Paris Agreement mixes both.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-ess-hl-lenses-law-economics-ethics--05-ess-overfishing-three-lenses.webp" width="900" height="1075" alt="Law: a coastline with sea out to 200 nautical miles, the exclusive economic zone, where the coastal state controls fishing under UNCLOS; beyond it the high seas are hard to police. Economics: in an open-access fishery every boat takes more and the stock is overused (the tragedy of the commons); tradable catch quotas turn a share of the catch into an asset worth protecting. Ethics: a utilitarian weighs jobs now against stocks later, an ecocentrist says the marine ecosystem has intrinsic value, and a justice view asks whether small-scale fishers lose out when quotas are sold to large fleets." loading="lazy">
+  <figcaption>Overfishing looked at through law, economics and ethics.</figcaption>
+</figure>
+
 
 ## HL.b Environmental and ecological economics — key terms
 
@@ -111,6 +116,11 @@ The brief lists three HL-only lenses (5, 7 and 5 recommended hours) and asks HL 
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/ib-dp-ess-hl-lenses-law-economics-ethics--02-ess-environmental-vs-ecological.webp" width="900" height="828" alt="Two pictures side by side. In environmental economics the environment is drawn as one part inside the economy; the main problem is market failure because prices leave out environmental costs; sustainability is weak, meaning natural capital can be replaced by human-made capital; typical solutions price the harm with taxes, permits and cost-benefit analysis. In ecological economics the economy is drawn as a subsystem inside the biosphere; the main problem is that the economy is too big for Earth's limits; sustainability is strong, meaning critical natural capital cannot be replaced; typical solutions set physical limits first, such as steady-state or doughnut models and the circular economy." loading="lazy">
   <figcaption>Environmental economics puts the environment inside the economy; ecological economics puts the economy inside the biosphere.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-market-failure-public-goods-and-externalities--03-shared-pasture.webp" width="900" height="930" alt="Output per sheep, 20 minus N, falls to the cost of 8 at 12 sheep, where herders stop adding and net gain is zero. The extra output from one more sheep, 20 minus 2N, equals 8 at 6 sheep, where net gain is highest at 36. Bars show net gain of 36, 20 and 0 at 6, 10 and 12 sheep." loading="lazy">
+  <figcaption>Each herder adds sheep until output per sheep falls to the cost of 8 (12 sheep); the best number for the community is 6.</figcaption>
 </figure>
 
 
@@ -212,12 +222,6 @@ Match these to the Topic 1 value systems: technocentric and anthropocentric view
 
 Ozone depletion: **law** — Montreal Protocol, binding phase-out. **Economics** — substitutes were affordable, so compliance was cheap; the damage to health and crops made the benefits large. **Ethics** — precaution and intergenerational equity justified acting before every uncertainty was resolved. Each lens explains part of why this agreement worked.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ib-dp-ess-hl-lenses-law-economics-ethics--01-three-lenses.webp" width="900" height="780" alt="An issue from Topics 1 to 8 branches into three lenses. The law lens asks which rules apply, who must obey them and who enforces them. The economics lens asks how the issue is valued, who pays the costs and who gets the benefits. The ethics lens asks who or what counts and which principles justify an action. Recommended HL hours are 5 for law, 7 for economics and 5 for ethics." loading="lazy">
-  <figcaption>Each lens is a set of questions you bring to an issue you already know.</figcaption>
-</figure>
-
-
 ## Quick self-test
 
 1. Define soft law and give one example.
@@ -247,6 +251,12 @@ Ozone depletion: **law** — Montreal Protocol, binding phase-out. **Economics**
 10. Intrinsic: valuable in itself. Instrumental: valuable for what it provides to someone.
 11. Biocentrism.
 12. A high rate gives less weight to costs and benefits felt by future generations, so choosing it is a judgement about how much future people matter.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-ess-hl-lenses-law-economics-ethics--01-three-lenses.webp" width="900" height="780" alt="An issue from Topics 1 to 8 branches into three lenses. The law lens asks which rules apply, who must obey them and who enforces them. The economics lens asks how the issue is valued, who pays the costs and who gets the benefits. The ethics lens asks who or what counts and which principles justify an action. Recommended HL hours are 5 for law, 7 for economics and 5 for ethics." loading="lazy">
+  <figcaption>Each lens is a set of questions you bring to an issue you already know.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

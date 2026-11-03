@@ -119,17 +119,6 @@ pV = (1/3) N m <c^2>
 
 Because an ideal gas has no intermolecular forces, it has **no molecular potential energy**, so its internal energy is entirely kinetic and depends only on temperature.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-physics-ideal-gases--04-boyle-law.webp" width="900" height="1200" alt="Two syringes hold the same ten molecules at constant temperature. Halving the volume from 60 to 30 cm3 doubles the pressure from 1.00 to 2.00 x 10^5 Pa because molecules hit the walls twice as often. A graph of p against 1/V for six readings is a straight line through the origin, and pV = 6.0 J every time." loading="lazy">
-  <figcaption>At constant temperature pV is constant, so p against 1/V is a straight line through the origin.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-physics-ideal-gases--06-kinetic-pressure.webp" width="900" height="1222" alt="A molecule rebounds elastically from the wall of a cube of side L, changing momentum by 2mv_x. The time between hits on that wall is 2L/v_x, so the force is mv_x²/L. For N molecules F = (Nm/L)&lt;v_x²&gt;; random motion gives &lt;c²&gt; = 3&lt;v_x²&gt;; dividing by area L² gives pV = 1/3 Nm&lt;c²&gt;. Comparing with pV = NkT gives 1/2 m&lt;c²&gt; = 3/2 kT. For nitrogen at 300 K the r.m.s. speed is 517 m/s." loading="lazy">
-  <figcaption>Pressure arises from the momentum change of molecules rebounding from the walls.</figcaption>
-</figure>
-
-
 ## Exam traps
 
 - Defining internal energy as kinetic energy only.
@@ -152,3 +141,14 @@ Because an ideal gas has no intermolecular forces, it has **no molecular potenti
 8. Distinguish internal energy from the macroscopic kinetic energy of a moving object.
 
 **Answers:** 1. The sum of the randomly distributed kinetic and potential energies of the molecules; the kinetic part depends on temperature and the potential part on molecular separation. 2. The energy supplied increases the potential component by separating molecules rather than the kinetic component, so temperature does not rise. 3. Vaporisation must completely overcome the intermolecular forces and also do work against atmospheric pressure as the vapour expands; melting only loosens the forces. 4. The absolute temperature, and nothing else. 5. High pressure and low temperature, because molecules are close together so their own volume is no longer negligible and intermolecular attractions become significant. 6. E = Lm = 2.26×10⁶ × 0.50 = **1.13×10⁶ J** (1.13 MJ). 7. The relationship between pressure and volume of a fixed mass of gas at constant temperature (Boyle's law). 8. Internal energy is the random, disordered kinetic and potential energy of a substance's individual particles; a moving object's macroscopic kinetic energy is the ordered motion of the object as a whole and is a separate quantity entirely.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-ideal-gases--04-boyle-law.webp" width="900" height="1200" alt="Two syringes hold the same ten molecules at constant temperature. Halving the volume from 60 to 30 cm3 doubles the pressure from 1.00 to 2.00 x 10^5 Pa because molecules hit the walls twice as often. A graph of p against 1/V for six readings is a straight line through the origin, and pV = 6.0 J every time." loading="lazy">
+  <figcaption>At constant temperature pV is constant, so p against 1/V is a straight line through the origin.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-ideal-gases--06-kinetic-pressure.webp" width="900" height="1222" alt="A molecule rebounds elastically from the wall of a cube of side L, changing momentum by 2mv_x. The time between hits on that wall is 2L/v_x, so the force is mv_x²/L. For N molecules F = (Nm/L)&lt;v_x²&gt;; random motion gives &lt;c²&gt; = 3&lt;v_x²&gt;; dividing by area L² gives pV = 1/3 Nm&lt;c²&gt;. Comparing with pV = NkT gives 1/2 m&lt;c²&gt; = 3/2 kT. For nitrogen at 300 K the r.m.s. speed is 517 m/s." loading="lazy">
+  <figcaption>Pressure arises from the momentum change of molecules rebounding from the walls.</figcaption>
+</figure>
+

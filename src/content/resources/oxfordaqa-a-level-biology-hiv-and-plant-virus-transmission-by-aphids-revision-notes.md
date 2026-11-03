@@ -188,6 +188,12 @@ Worked reminder (colony growth). 5 aphids doubling every 2 days for 10 days: 10 
 10. Phloem sap is under high pressure, so it is forced into the gut once the vessel is punctured.
 11. They migrate to start colonies on new host plants, spreading the virus.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-immunity--02-four-diseases.webp" width="900" height="1190" alt="Four panels. Cholera (bacterium Vibrio cholerae) spreads through contaminated water or food. Malaria (protoctist Plasmodium) is passed by the bite of a female Anopheles mosquito. TB (bacterium Mycobacterium tuberculosis) spreads in droplets breathed in. HIV (a virus) spreads in body fluids: sexual contact, blood and from mother to child." loading="lazy">
+  <figcaption>Each disease has a named pathogen type and a main transmission route.</figcaption>
+</figure>
+
+
 ## Where marks are usually lost
 
 - Describing HIV as a "cell" or saying it "divides".

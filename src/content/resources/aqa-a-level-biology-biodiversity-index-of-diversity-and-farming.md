@@ -61,6 +61,11 @@ That is also its weakness. Compare two communities, each with 24 individuals.
 Both have a richness of 4, yet P has an even spread of individuals and Q is dominated by one species. Richness cannot tell them apart, so you need an index that uses the abundance of each species as well.
 
 <figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-classification-biodiversity-and-conservation--01-taxonomic-hierarchy.webp" width="900" height="1115" alt="A tree with eight ranks from domain to species for cat, lion, bear and frog. All share Eukarya, Animalia and Chordata; the frog splits at class, the bear at family, and cat and lion split only at genus. The cat is written Felis catus with a capital genus." loading="lazy">
+  <figcaption>Each rank sits wholly inside the one above, and closer relatives share more ranks.</figcaption>
+</figure>
+
+<figure class="topic-figure">
   <img src="https://img.marlbridge.com/a-level-biology-9700-classification-biodiversity-and-conservation--03-dna-comparison.webp" width="900" height="1000" alt="Four 24-base sequences A to D are aligned with differences from A highlighted. B differs at 1 base (4.2%), C at 5 (20.8%) and D at 9 (37.5%). Fewer differences mean a more recent common ancestor." loading="lazy">
   <figcaption>Fewer base differences mean a more recent common ancestor.</figcaption>
 </figure>

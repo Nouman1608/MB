@@ -217,6 +217,12 @@ After 10 years the model gives P = 7459, so about 7460 people. A comment on vali
 9. 2^x ln 2
 10. 300; half-life = ln 2 / 0.05 = **13.9**
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-maths-9709-pure-mathematics-2-logarithms-and-exponentials--08-ln-calculus.webp" width="900" height="1050" alt="The tangent to y = ln x at x = 2 has gradient one half, equal to 1/x. Below, the area under y = 1/x from 1 to e is shaded and equals 1, because the integral is ln x and ln e minus ln 1 is 1." loading="lazy">
+  <figcaption>ln x differentiates to 1/x and the area under 1/x from 1 to e is 1.</figcaption>
+</figure>
+
+
 ## Where marks are usually lost
 
 - Using the wrong sign for the derivative of cos kx, or of cot x and cosec x.

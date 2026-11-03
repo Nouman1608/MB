@@ -64,6 +64,11 @@ These notes condense sections 7.01f, 7.02a and 7.02b of the OCR GCSE (9-1) Mathe
   <figcaption>m is the gradient and c is where the line crosses the y-axis.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-coordinate-geometry--02-gradient-signs.webp" width="900" height="880" alt="Four small graphs: a rising line has positive gradient, a falling line negative, a horizontal line zero, and a vertical line has no gradient because the run is zero." loading="lazy">
+  <figcaption>Uphill is positive, downhill is negative, flat is zero.</figcaption>
+</figure>
+
 
 ## Sketching (7.02a)
 
@@ -140,6 +145,16 @@ These notes condense sections 7.01f, 7.02a and 7.02b of the OCR GCSE (9-1) Mathe
   <figcaption>Name each edge, test a point inside, and choose the symbol that makes the test true.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-algebra-and-graphs--04-inequality-region.webp" width="900" height="890" alt="A graph with a solid line y = 1, a dashed line y = x and a solid line x + y = 6 bounds a shaded triangle with corners (1, 1), (5, 1) and (3, 3). A test point inside satisfies all three inequalities. Solid lines are included; dashed lines are not." loading="lazy">
+  <figcaption>The region is where all the inequalities are true at once.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/inequalities--04-two-variable-shading.webp" width="900" height="950" alt="A grid with a broken vertical line at x = 1 (shade right) and a solid horizontal line at y = 1 (shade below). The unshaded region R at upper left satisfies both inequalities; the point (−1, 3) is inside it." loading="lazy">
+  <figcaption>Broken line for strict inequalities, solid for inclusive; shade the unwanted region and leave R clear.</figcaption>
+</figure>
+
 
 ## Perpendicular lines (7.02b, Higher tier only)
 
@@ -157,6 +172,11 @@ These notes condense sections 7.01f, 7.02a and 7.02b of the OCR GCSE (9-1) Mathe
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/igcse-mathematics-coordinate-geometry--06-perpendicular-lines.webp" width="900" height="960" alt="Two lines meet at right angles at (0, 1). One has gradient 2/3 and the other -3/2; their product is -1." loading="lazy">
   <figcaption>Perpendicular gradients multiply to -1.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-geometry--03-right-angles-in-circles.webp" width="900" height="1055" alt="Top: a triangle ABC inside a circle with AB a diameter, right angle at C. Bottom: a radius OT meets a tangent at T with a right angle. The angle in a semicircle is 90 degrees, and a tangent meets a radius at 90 degrees." loading="lazy">
+  <figcaption>The angle in a semicircle and the angle between tangent and radius are both 90°.</figcaption>
 </figure>
 
 

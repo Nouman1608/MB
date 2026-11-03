@@ -237,6 +237,12 @@ Exports rose by (90 - 80) / 80 x 100 = 12.5% from year 1 to year 3; imports fell
 9. Exports become dearer for foreign buyers, so fewer are sold, while imports become cheaper, so more are bought; debits rise relative to credits.
 10. 36 / 900 x 100 = 4%.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-economics-why-countries-trade-free-trade-agreements-and-the--09-same-deficit-different-gdp.webp" width="900" height="800" alt="Two bars to the same scale: Country E GDP 800 and Country F GDP 1,200, each with a deficit of 48. That is 6.0% of GDP for E and 4.0% for F, and F is less worrying if its imports are mostly machinery." loading="lazy">
+  <figcaption>The same deficit is a bigger share of a smaller economy.</figcaption>
+</figure>
+
+
 ## Where marks are usually lost
 
 - Using the balance of trade when the current account is asked for.

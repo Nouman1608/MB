@@ -90,6 +90,12 @@ Launch from a height with an upward component: a ball leaves the top of a 20 m c
 - Horizontal distance from the foot of the cliff = 6.0 × 3.28 = 19.7 m.
 - Vertical velocity on landing = 10.0 − 9.81 × 3.28 = −22.2 m s⁻¹, so the speed is √(6.0² + 22.2²) = 23.0 m s⁻¹.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/as-physics-kinematics-equations-of-motion--07-higher-landing.webp" width="900" height="880" alt="A ball thrown at 15 m/s, 60 degrees, crosses the 3.0 m platform height at 0.256 s (rising) and 2.39 s (falling). Only the second root is the landing, with vy = -10.5 m/s and horizontal distance 17.9 m." loading="lazy">
+  <figcaption>A quadratic gives two times at the platform height; the landing is the later one, when vy is negative.</figcaption>
+</figure>
+
+
 ## Reading graphs of projectile and falling motion
 
 | Graph | What it shows |

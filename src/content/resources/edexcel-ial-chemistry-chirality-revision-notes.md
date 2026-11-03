@@ -137,6 +137,11 @@ For 2-bromopentanoic acid you might put C₃H₇ and COOH on plain bonds, Br on 
   <figcaption>No rotation points to a planar intermediate (SN1); a single inverted enantiomer that rotates points to SN2 (Edexcel only).</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-optical-isomerism--09-stereospecific-enzyme.webp" width="900" height="750" alt="Two enzyme active sites with three pockets (circle, triangle, square). Enantiomer A fits all three. Its mirror image B can match only one pocket, whichever way it is turned, so only one group fits. The fourth group, H, points away. A racemate drug therefore has only half its molecules able to fit." loading="lazy">
+  <figcaption>An active site fits only one enantiomer, so only that enantiomer binds (AQA only).</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 

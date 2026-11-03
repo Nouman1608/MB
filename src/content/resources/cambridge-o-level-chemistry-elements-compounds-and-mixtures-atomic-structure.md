@@ -269,6 +269,11 @@ Ar = **28.1** (to one decimal place). Always check the abundances add to 100 bef
   <figcaption>Isotopes differ in neutrons and mass number but share electrons and chemistry.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/atomic-structure--07-relative-atomic-mass.webp" width="900" height="1040" alt="100 chlorine atoms: 75 chlorine-35 and 25 chlorine-37. The weighted calculation gives 3550 / 100 = 35.5, marked on a number line nearer 35 than the plain average of 36, which is wrong." loading="lazy">
+  <figcaption>Relative atomic mass is a weighted average of isotope masses.</figcaption>
+</figure>
+
 
 ## Common errors
 

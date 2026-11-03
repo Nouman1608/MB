@@ -227,6 +227,12 @@ Mg is limiting; MgO = 0.20 mol × 40 = 8.0 g
 - **Higher tier only:** more solute in the same volume gives a higher concentration; the same mass in a larger
   volume gives a lower concentration.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/formulae-equations-and-the-mole--07-concentration.webp" width="900" height="980" alt="Four beakers of 250 cm3, each with 0.5 mol, make 1 dm3 holding 2 mol, so concentration is 2 mol/dm3. 250 cm3 divided by 1000 is 0.25 dm3 and 0.5 divided by 0.25 is 2." loading="lazy">
+  <figcaption>Concentration is moles per dm3; convert cm3 to dm3 by dividing by 1000.</figcaption>
+</figure>
+
+
 ## 4.3.3 Yield and atom economy
 
 **Percentage yield.** You rarely get the calculated mass because:
@@ -249,6 +255,12 @@ atom economy = (2 × 46) ÷ 180 × 100 = 51.1%
 **Higher tier only:** choose a reaction pathway by weighing atom economy, yield, rate, equilibrium position
 and whether the by-products are useful.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-chemistry-quantitative-chemistry--03-yield-vs-atom-economy.webp" width="900" height="910" alt="Top: a bar of Mr 100 split into 56 wanted CaO and 44 by-product CO2 gives atom economy 56%. Bottom: 4.2 g actual against 5.6 g theoretical gives yield 75%. Example numbers are illustrative." loading="lazy">
+  <figcaption>Atom economy comes from the equation; percentage yield measures practical losses.</figcaption>
+</figure>
+
+
 ## 4.3.4 Concentrations in mol/dm³ (Higher tier only)
 
 - moles = concentration (mol/dm³) × volume (dm³). 0.050 mol in 250 cm³ → 0.050 ÷ 0.250 = **0.20 mol/dm³**.
@@ -263,6 +275,12 @@ moles H2SO4 = 0.100 × 0.0200 = 0.00200 mol  →  NaOH = 0.00400 mol
 [NaOH] = 0.00400 ÷ 0.0250 = 0.160 mol/dm³  = 0.160 × 40 = 6.40 g/dm³
 ```
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-chemistry-8462-chemical-changes--01-cc-titration-calc.webp" width="900" height="940" alt="A burette of 0.150 mol/dm3 sulfuric acid sits above a flask of 25.0 cm3 sodium hydroxide. Four numbered steps follow: moles of acid 0.00300, ratio 1 to 2 giving 0.00600 mol NaOH, divide by 0.0250 dm3 to get 0.240 mol/dm3, multiply by 40 to get 9.60 g/dm3." loading="lazy">
+  <figcaption>Worked example 5 as four steps: moles of acid, ratio, concentration, then g/dm3 (Higher tier only).</figcaption>
+</figure>
+
+
 ## 4.3.5 Volumes of gases (Higher tier only)
 
 - Equal amounts in moles of gases occupy the same volume at the same temperature and pressure.
@@ -270,6 +288,12 @@ moles H2SO4 = 0.100 × 0.0200 = 0.00200 mol  →  NaOH = 0.00400 mol
 - 3.2 g of O₂ = 0.10 mol → 0.10 × 24 = **2.4 dm³**.
 - The mole ratio for gases in an equation is also their volume ratio. CH₄ + 2O₂ → CO₂ + 2H₂O: 40 cm³ of methane
   needs 80 cm³ of oxygen and makes 40 cm³ of carbon dioxide (water is a liquid at RTP).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-chemistry-quantitative-chemistry--04-gas-volumes.webp" width="900" height="910" alt="Three gas syringes drawn to scale for N2 + 3H2 giving 2NH3 show 10, 30 and 20 cm3, a 1:3:2 volume ratio equal to the mole ratio. 8.8 g of CO2 is 0.2 mol, so 4.8 dm3 at r.t.p." loading="lazy">
+  <figcaption>Gas volumes at the same temperature and pressure follow the mole ratio.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 

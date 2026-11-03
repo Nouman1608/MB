@@ -40,16 +40,6 @@ Links: [IB DP Physics hub](/boards/ib/ib-dp/physics/), [printable checklist](/ch
   <figcaption>Proper time is the shorter interval, measured on one clock where both events happen.</figcaption>
 </figure>
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ib-dp-physics-galilean-and-special-relativity-frames-lorentz--07-simultaneity.webp" width="900" height="910" alt="A space-time diagram with flashes A and B 600 m apart on the same horizontal line, so simultaneous in S. The tilted x′ line through B meets the ct′ axis at -346 m (-1.15 us), so B happens first in S′ moving at 0.50c." loading="lazy">
-  <figcaption>Events simultaneous in S but at different x are not simultaneous in S′.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ib-dp-physics-galilean-and-special-relativity-frames-lorentz--08-spacetime-axes.webp" width="900" height="1010" alt="A space-time diagram with light lines at 45 degrees and the S′ axes for 0.60c tilted by 31.0 degrees towards the light line. Event P (x = 1.0, ct = 2.0 light-seconds) is read in S′ along lines parallel to the primed axes: x′ = -0.25, ct′ = 1.75." loading="lazy">
-  <figcaption>Read S′ coordinates along lines parallel to the tilted primed axes, not perpendicular to them.</figcaption>
-</figure>
-
 
 ## The two postulates
 
@@ -115,6 +105,22 @@ S′ moves at v along +x relative to S, origins together at t = 0.
 4. Draw x′ at the same angle from the x axis, tilted towards the light line.
 5. Read coordinates by drawing lines parallel to the primed axes.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-galilean-and-special-relativity-frames-lorentz--02-velocity-addition.webp" width="900" height="930" alt="A graph of u′ against u for S′ moving at 0.70c. The Galilean line gives -1.30c for u = -0.60c, beyond light speed; the relativistic curve gives -0.915c and keeps light at c." loading="lazy">
+  <figcaption>Relativistic velocity addition never exceeds c and keeps the speed of light the same in every frame.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-galilean-and-special-relativity-frames-lorentz--06-length-contraction.webp" width="900" height="930" alt="A spacecraft of proper length 84 m is drawn to scale at rest and passing at 0.90c with length 36.6 m, with a dashed outline of its rest length. Its height is unchanged." loading="lazy">
+  <figcaption>Only lengths parallel to the motion contract: L = L₀/γ.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-galilean-and-special-relativity-frames-lorentz--08-spacetime-axes.webp" width="900" height="1010" alt="A space-time diagram with light lines at 45 degrees and the S′ axes for 0.60c tilted by 31.0 degrees towards the light line. Event P (x = 1.0, ct = 2.0 light-seconds) is read in S′ along lines parallel to the primed axes: x′ = -0.25, ct′ = 1.75." loading="lazy">
+  <figcaption>Read S′ coordinates along lines parallel to the tilted primed axes, not perpendicular to them.</figcaption>
+</figure>
+
+
 ## Small worked reminders
 
 **Time dilation.** A clock at rest in a spacecraft ticks at an interval of 3.0 μs. The spacecraft moves at 0.80c, so γ = 1.667. An observer measures 3.0 × 1.667 = **5.0 μs**.
@@ -127,6 +133,12 @@ S′ moves at v along +x relative to S, origins together at t = 0.
 
 **Muon reminder.** A muon with proper lifetime 2.2 μs at 0.995c has γ = 10.0. Earth-frame lifetime 22 μs, so it travels about 6.6 km. In the muon frame, an 8.0 km layer contracts to about 0.80 km, crossed in about 2.7 μs.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-galilean-and-special-relativity-frames-lorentz--09-muon-decay.webp" width="900" height="980" alt="Two views of muons at 0.98c with lifetime 2.2 us. In the Earth frame, dilation lets them travel 3.3 km instead of 650 m. In the muon frame, the 6.0 km layer is contracted to 1.19 km and crossed in 4.1 us." loading="lazy">
+  <figcaption>Time dilation in the Earth frame and length contraction in the muon frame explain the same observation.</figcaption>
+</figure>
+
+
 ## Must-know distinctions
 
 - **Proper time vs dilated time**: proper time is the shortest interval, from one clock present at both events. Every other frame measures longer.
@@ -136,12 +148,6 @@ S′ moves at v along +x relative to S, origins together at t = 0.
 - **Symmetry**: each inertial observer sees the other's clock slow and the other's rod contracted.
 - **Axes on a diagram**: ct and x are perpendicular. ct′ and x′ are not drawn perpendicular, and their scales differ from ct and x.
 - **Muon evidence**: in the Earth frame, the muon lifetime is dilated. In the muon frame, the distance is contracted. Both lead to the same result.
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ib-dp-physics-galilean-and-special-relativity-frames-lorentz--09-muon-decay.webp" width="900" height="980" alt="Two views of muons at 0.98c with lifetime 2.2 us. In the Earth frame, dilation lets them travel 3.3 km instead of 650 m. In the muon frame, the 6.0 km layer is contracted to 1.19 km and crossed in 4.1 us." loading="lazy">
-  <figcaption>Time dilation in the Earth frame and length contraction in the muon frame explain the same observation.</figcaption>
-</figure>
-
 
 ## Quick self-test
 
@@ -170,6 +176,12 @@ S′ moves at v along +x relative to S, origins together at t = 0.
 9. v/c = tan 40° = **0.839**.
 10. The speed of light in a vacuum is the same for all inertial observers.
 11. t′ = γ(t − vx/c²) depends on x, so events at different x with equal t get different t′ unless they are also at the same x.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-galilean-and-special-relativity-frames-lorentz--07-simultaneity.webp" width="900" height="910" alt="A space-time diagram with flashes A and B 600 m apart on the same horizontal line, so simultaneous in S. The tilted x′ line through B meets the ct′ axis at -346 m (-1.15 us), so B happens first in S′ moving at 0.50c." loading="lazy">
+  <figcaption>Events simultaneous in S but at different x are not simultaneous in S′.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

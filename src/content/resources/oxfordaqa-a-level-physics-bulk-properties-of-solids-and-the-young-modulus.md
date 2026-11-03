@@ -112,6 +112,11 @@ Total = **0.76 J**.
   <figcaption>Elastic potential energy is the area under the line, E = 1/2 Fx = 1/2 kx squared.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/as-physics-deformation-of-solids--04-loading-unloading.webp" width="900" height="960" alt="Loading a metal strip to 36 N at 0.100 m does 2.08 J of work. Unloading runs parallel to the first line and reaches zero force at 0.028 m, the permanent extension. 1.30 J is recovered and 0.78 J is dissipated as heat." loading="lazy">
+  <figcaption>After plastic deformation the unloading line is parallel to the first line, leaving a permanent extension and wasted energy.</figcaption>
+</figure>
+
 
 ## Plastic, fracture and brittle behaviour
 
@@ -121,12 +126,6 @@ Describe each behaviour from the graph, using the loading and unloading lines.
 - **Plastic behaviour:** once the elastic limit is passed, the extension is permanent. On unloading, the line falls parallel to the initial straight part and meets the extension axis at a positive value, the permanent extension. The area between the loading and unloading lines is energy that was not recovered; it is transferred to the internal energy of the material.
 - **Ductile material** (for example, copper): shows a large plastic region before it fractures.
 - **Brittle material** (for example, glass): the graph is a straight line up to the point of fracture, with almost no plastic region. It breaks suddenly at a small extension.
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/as-physics-deformation-of-solids--04-loading-unloading.webp" width="900" height="960" alt="Loading a metal strip to 36 N at 0.100 m does 2.08 J of work. Unloading runs parallel to the first line and reaches zero force at 0.028 m, the permanent extension. 1.30 J is recovered and 0.78 J is dissipated as heat." loading="lazy">
-  <figcaption>After plastic deformation the unloading line is parallel to the first line, leaving a permanent extension and wasted energy.</figcaption>
-</figure>
-
 
 ## Energy conservation with elastic strain energy
 

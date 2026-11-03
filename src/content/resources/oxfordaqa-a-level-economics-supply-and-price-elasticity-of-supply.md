@@ -146,6 +146,11 @@ In Country B, the price of tomatoes rises by 8%. Within a few weeks quantity sup
   <figcaption>Supply is more elastic when firms have more time.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-how-markets-work--03-pes-short-long-run.webp" width="900" height="900" alt="The same rise in demand is shown twice. Where supply is inelastic (short run) price rises 27% and output 13%; where supply is elastic (long run) price rises 11% and output 29%. This is why agricultural supply shocks cause price spikes." loading="lazy">
+  <figcaption>Inelastic short-run supply turns a demand rise into a big price rise; long-run supply adjusts more.</figcaption>
+</figure>
+
 
 ### Worked example 3: finding the quantity
 

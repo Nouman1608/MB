@@ -234,12 +234,6 @@ Test any expansion with a small value such as x = 0.01. Work out the original ex
 - Terminating versus infinite expansion: only a positive integer power stops.
 - Validity of one expansion versus validity of a sum: use the intersection of ranges.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-mathematical-language-set-notation-functions-and--05-counter-example-graph.webp" width="900" height="920" alt="The graph of y = x² with the line y = 25 shows x² &gt; 25 for x &lt; −5 or x &gt; 5. The claim only fits x &gt; 5. The point (−6, 36) is above the line but −6 is not greater than 5, so it disproves the claim." loading="lazy">
-  <figcaption>One case that meets the condition but breaks the conclusion disproves a general claim.</figcaption>
-</figure>
-
-
 ## Quick self-test
 
 1. State the assumption you would make to prove by contradiction that there is no largest even integer.
@@ -265,6 +259,12 @@ Test any expansion with a small value such as x = 0.01. Work out the original ex
 8. 1/4 + 3x/4 + 27x²/16, valid for |x| < 2/3
 9. 1/3 − x/9 + x²/27, valid for |x| < 3
 10. The series is valid only for |x| < 1, and 2 is not less than 1, so the expansion is not valid there.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-mathematical-language-set-notation-functions-and--05-counter-example-graph.webp" width="900" height="920" alt="The graph of y = x² with the line y = 25 shows x² &gt; 25 for x &lt; −5 or x &gt; 5. The claim only fits x &gt; 5. The point (−6, 36) is above the line but −6 is not greater than 5, so it disproves the claim." loading="lazy">
+  <figcaption>One case that meets the condition but breaks the conclusion disproves a general claim.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

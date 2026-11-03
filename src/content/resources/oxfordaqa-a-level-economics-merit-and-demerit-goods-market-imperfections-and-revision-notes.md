@@ -130,6 +130,11 @@ These notes boil down OxfordAQA International AS and A-level Economics (9640), s
   <figcaption>Inelastic demand turns small supply changes into big price and income swings.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-merit-and-demerit-goods-market-imperfections-and--13-factor-immobility.webp" width="900" height="910" alt="Two panels: unemployed workers in Region X cannot reach vacancies in Region Y; skill A workers cannot fill vacancies needing skill B. Qualitative, no numbers; barriers listed as in the lesson." loading="lazy">
+  <figcaption>Immobile labour leaves workers idle and vacancies unfilled.</figcaption>
+</figure>
+
 
 ## Inequitable distribution of income and wealth (3.1.5.6)
 

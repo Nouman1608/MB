@@ -43,6 +43,16 @@ Appendix 7 of the specification says none of these is given to you in the examin
 </figure>
 
 <figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-analysis-and-evaluation-of-financial-information--03-roce.webp" width="900" height="800" alt="Capital of 237,000 dollars plus a 60,000 loan make capital employed of 297,000. Profit for the year of 57,600 plus 3,600 loan interest added back gives net profit before interest of 61,200, so ROCE is 20.61 percent. For a company, capital employed is shares plus reserves plus non-current liabilities." loading="lazy">
+  <figcaption>ROCE divides profit before loan interest by all long-term funds, loans included.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-analysis-and-evaluation-of-financial-information--05-cash-tied-up-days.webp" width="900" height="690" alt="Inventory is held 43.8 days and customers pay a further 36.5 days later, 80.3 days after buying. Suppliers are paid after 45.0 days, so the business funds the 35.3 days in between. Calculated from average inventory, credit sales and credit purchases." loading="lazy">
+  <figcaption>Inventory, receivable and payable days together show how long the business must fund its own working capital.</figcaption>
+</figure>
+
+<figure class="topic-figure">
   <img src="https://img.marlbridge.com/aqa-a-level-accounting-analysis-and-evaluation-of-financial-information--06-eps-and-pe.webp" width="900" height="830" alt="Profit for the year of 896,000 dollars less a 56,000 preference dividend leaves 840,000 of ordinary earnings. Divided by 6,000,000 shares this is 14.00 cents per share. A share price of 238 cents is 17 times that, so P/E is 17.00 times." loading="lazy">
   <figcaption>EPS is profit per ordinary share; P/E says how many years of earnings the price represents.</figcaption>
 </figure>
@@ -187,6 +197,12 @@ In an "Evaluate" or "Recommend" answer, start from the user named in the questio
 10. 4 × 900,000 = **3,600,000**.
 11. Yield rises when the share price falls. A falling price may mean the market expects lower profits or a dividend cut.
 12. **EPS and dividend cover** (profit after tax less preference dividends).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-analysis-and-evaluation-of-financial-information--04-liquidity-ratios.webp" width="900" height="810" alt="Current assets of 95,000 dollars (bank 7,000, receivables 46,000, inventory 42,000) are compared with current liabilities of 38,000. The current ratio is 2.50 to 1; removing inventory leaves 53,000, so the acid test is 1.39 to 1." loading="lazy">
+  <figcaption>The acid test removes inventory, the least liquid current asset.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

@@ -210,6 +210,12 @@ Use the Kestrel data (price £40, variable cost £15, fixed costs £5,000) unles
 11. Interest = £4,360 − £4,000 = £360. £360 ÷ £4,000 × 100 = 9%.
 12. A new firm has little cash and few regular customers, so one bad month could force it to close. Setting survival first means it prioritises covering its costs before chasing profit or growth.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-gcse-business-aims-objectives-revenue-costs-and-profit--02-wren-break-even-chart.webp" width="900" height="860" alt="Revenue rises from the origin to £6,000 at 500 candles; total costs start at £2,100 and reach £4,350; fixed costs are a flat line at £2,100. The lines cross at 280 candles and £3,360. Loss lies left of the crossing, profit to the right (£1,650 at 500), and the margin of safety is the 220 candles from 280 to 500." loading="lazy">
+  <figcaption>A break-even chart for Wren Street Candles showing break-even, loss, profit and margin of safety.</figcaption>
+</figure>
+
+
 ## Where marks are usually lost
 
 - Mixing up aim and objective, or giving an objective with no target in it.
@@ -222,12 +228,6 @@ Use the Kestrel data (price £40, variable cost £15, fixed costs £5,000) unles
 - Reading the margin of safety from the wrong axis, or giving a revenue figure when units were asked for.
 - Leaving out units or the £ sign after a calculation.
 - Saying how a change shifts the lines without stating the consequence for the owner.
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/edexcel-gcse-business-aims-objectives-revenue-costs-and-profit--02-wren-break-even-chart.webp" width="900" height="860" alt="Revenue rises from the origin to £6,000 at 500 candles; total costs start at £2,100 and reach £4,350; fixed costs are a flat line at £2,100. The lines cross at 280 candles and £3,360. Loss lies left of the crossing, profit to the right (£1,650 at 500), and the margin of safety is the 220 candles from 280 to 500." loading="lazy">
-  <figcaption>A break-even chart for Wren Street Candles showing break-even, loss, profit and margin of safety.</figcaption>
-</figure>
-
 
 ## Official syllabus
 

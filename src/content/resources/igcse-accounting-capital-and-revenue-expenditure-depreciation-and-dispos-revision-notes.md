@@ -138,11 +138,6 @@ Apply the stated method, rate and policy (full year in the year of purchase, or 
   <figcaption>Depreciation spreads the cost of an asset over the years it helps earn revenue.</figcaption>
 </figure>
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/accounting-non-current-assets--03-depreciation-methods.webp" width="900" height="1264" alt="An illustrative 20,000 pound asset with a 2,000 residual value and four-year life is depreciated two ways. Straight line charges 4,500 each year; reducing balance at 40 percent charges 8,000, 4,800, 2,880 and 1,728. A line chart shows the carrying values." loading="lazy">
-  <figcaption>Straight line gives a level charge; reducing balance gives a high charge early that falls over time.</figcaption>
-</figure>
-
 
 ## Journal entries to learn
 
@@ -228,6 +223,12 @@ Profit or loss (profit)   1,500    Bank                         24,000
 8. Debit disposal account 700; credit statement of profit or loss 700.
 9. Profit is overstated by 8,000. Asset valuations are not affected, because the bank was debited correctly.
 10. Reducing balance for vans; revaluation for crates. No: depreciation is a book entry and uses no cash.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/accounting-non-current-assets--03-depreciation-methods.webp" width="900" height="1264" alt="An illustrative 20,000 pound asset with a 2,000 residual value and four-year life is depreciated two ways. Straight line charges 4,500 each year; reducing balance at 40 percent charges 8,000, 4,800, 2,880 and 1,728. A line chart shows the carrying values." loading="lazy">
+  <figcaption>Straight line gives a level charge; reducing balance gives a high charge early that falls over time.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

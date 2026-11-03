@@ -128,6 +128,11 @@ If the shelf count is lower, the difference is unscanned loss (theft, damage or 
 - Against: training time; resistance to change; redundancies and lower morale; over-reliance on output; insiders with access may commit fraud.
 
 <figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-the-impact-of-ethical-considerations--07-cafe-closure.webp" width="900" height="1060" alt="A waterfall for the café: gross profit 54,000 less wages 46,000 leaves 8,000; less apportioned overheads of 12,600 gives a 4,600 loss on paper. Closing it leaves the 63,000 overheads in place, so total profit falls from 53,000 to 45,000." loading="lazy">
+  <figcaption>A department that makes a loss after apportioned overheads can still add to total profit.</figcaption>
+</figure>
+
+<figure class="topic-figure">
   <img src="https://img.marlbridge.com/aqa-a-level-accounting-the-impact-of-ethical-considerations--11-ict-payback.webp" width="900" height="976" alt="A cash position chart for a computer system costing 12,300 and saving a net 9,200 a year: minus 12,300, minus 3,100, 6,100 and 15,300 at the ends of years 0 to 3. It crosses zero after 1.34 years, a payback of about 1 year 4 months." loading="lazy">
   <figcaption>The system pays for itself in about 1 year 4 months, if the savings are real.</figcaption>
 </figure>

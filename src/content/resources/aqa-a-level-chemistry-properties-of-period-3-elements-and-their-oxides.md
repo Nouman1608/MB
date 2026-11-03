@@ -111,6 +111,12 @@ Mr of Na₂O   = 2(23.0) + 16.0 = 62.0
 mass of Na₂O = 0.0500 × 62.0 = 3.10 g
 ```
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-periodicity--05-successive-ie.webp" width="900" height="840" alt="A log-scale bar chart shows the eight successive ionisation energies of oxygen. The first six rise gently, then there is a jump of about 5.35 times to the seventh. The six electrons before the jump are in the outer shell, so oxygen is in Group 16." loading="lazy">
+  <figcaption>OCR only: a large jump in successive ionisation energies marks the move to an inner shell, so the electrons before the jump give the group.</figcaption>
+</figure>
+
+
 ## Melting points of the highest oxides
 
 The highest oxides are Na₂O, MgO, Al₂O₃, SiO₂, P₄O₁₀ and SO₃. Their melting points rise from Na₂O to
@@ -148,6 +154,11 @@ stronger and P₄O₁₀ melts at a higher temperature than SO₃. SO₂ melts l
 2. P₄O₁₀ is simple molecular. Melting overcomes only weak van der Waals forces between molecules; no
    covalent bonds break.
 3. Much less energy is needed, so P₄O₁₀ melts at a much lower temperature.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-periodicity--04-ie-dips.webp" width="900" height="780" alt="Orbital box diagrams show Mg with a full 3s and Al with one 3p electron, and P with three unpaired 3p electrons against S with one paired 3p orbital. The circled electron is the one removed first: a higher-energy 3p electron in Al, and a repelled paired electron in S." loading="lazy">
+  <figcaption>Al is lower than Mg because 3p is higher in energy than 3s, and S is lower than P because of repulsion in a paired 3p orbital (OCR and OxfordAQA; AQA names the dips and teaches the reason under atomic structure).</figcaption>
+</figure>
 
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/aqa-a-level-chemistry-periodicity--06-melting-points.webp" width="900" height="860" alt="A bar chart of melting points in kelvin for Na to Ar is coloured by structure. Si (giant covalent) is the tallest bar at 1687 K and Ar (single atoms) is the lowest at 84 K. The metals rise from Na to Al and the molecular elements are low." loading="lazy">

@@ -64,6 +64,11 @@ classified on each.
   <figcaption>ABC charges overheads by the activities that cause them, which can change product costs and prices sharply.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-absorption-and-activity-based-costing--08-marginal-vs-absorption-profit.webp" width="900" height="1020" alt="Ostrell Glassware in two years: inventory rises by 1,500 vases in Year 1, so absorption profit is 12,000 higher (76,400 v 64,400). Inventory falls by 1,200 in Year 2, so marginal profit is 9,600 higher (99,760 v 90,160). The difference is the change in inventory times 8 of fixed overhead." loading="lazy">
+  <figcaption>Profit differs between the methods only when inventory changes, by fixed overhead per unit times the inventory change.</figcaption>
+</figure>
+
 
 ## Formulas
 

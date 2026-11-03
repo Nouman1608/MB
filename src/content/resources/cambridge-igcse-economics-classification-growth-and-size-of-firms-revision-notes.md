@@ -49,6 +49,17 @@ Worked reminder: Firm M has 12 employees and turnover of 540,000.
 Turnover per employee = 540,000 / 12 = 45,000
 ```
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-economics-classification-growth-and-size-of-firms--01-sector-output-jobs.webp" width="900" height="1030" alt="Paired bars for Country C. Primary 9% of output and 22% of jobs; secondary 27% and 28%; tertiary 64% and 50%. Each set adds to 100%. Primary workers produce little each; tertiary workers produce a lot." loading="lazy">
+  <figcaption>Output and employment shares differ by sector in the lesson's Country C.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-economics-classification-growth-and-size-of-firms--11-relative-size-two-firms.webp" width="900" height="870" alt="Bars compare Firm P with Firm Q (drawn as the full bar) on employees (30 vs 1,500), turnover (2,400,000 vs 180,000,000) and turnover per employee (80,000 vs 120,000). Q is larger on all three, but P is under 2% of Q on the first two and two thirds of Q on the third." loading="lazy">
+  <figcaption>Q is bigger than P on every measure, but how much bigger depends on the measure used.</figcaption>
+</figure>
+
+
 ## 3.5.2 Small firms: quick lists
 
 | Advantages | Disadvantages |

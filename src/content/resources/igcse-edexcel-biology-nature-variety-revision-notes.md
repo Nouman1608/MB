@@ -127,12 +127,6 @@ organelle -> cell -> tissue -> organ -> organ system -> organism
 
 **Concrete example (digestive system):** glandular tissue in the stomach lining (secretes digestive enzymes) is a **tissue**; the stomach itself, made of glandular, muscular and epithelial tissue working together, is an **organ**; the stomach plus small intestine, large intestine and associated glands together form the **digestive system**, an **organ system**.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-biology-organisation-of-the-organism--06-levels-of-organisation.webp" width="900" height="1117" alt="Five stacked levels with an arrow down each step: cell (basic unit of structure and function), tissue (group of similar cells with a shared function), organ (several tissues working together), organ system (organs with related functions working together) and organism (an individual living thing carrying out all life processes). The running example is heart muscle in a human. A bacterium is an organism made of one cell." loading="lazy">
-  <figcaption>Each level of organisation is built from the one before.</figcaption>
-</figure>
-
-
 ## Exam traps
 
 - Confusing excretion with egestion.
@@ -154,3 +148,14 @@ organelle -> cell -> tissue -> organ -> organ system -> organism
 7. Distinguish a pathogen from a vector, using malaria as an example.
 
 **Answers:** 1. Excretion is the removal of the waste products of metabolism produced by the organism itself; egestion is the removal of undigested food that was never absorbed. 2. A body of hyphae forming a mycelium; a cell wall made of chitin; saprotrophic nutrition and glycogen storage; no chloroplasts — any three. 3. Enzymes are secreted onto the food material, digestion occurs outside the organism, and the soluble products are absorbed. 4. They have no cellular structure — no cytoplasm or organelles — and can only reproduce inside a living host cell, so they do not carry out the characteristics of life independently. 5. Plants store starch and sucrose; animals and fungi store glycogen. 6. They break down dead organisms and waste, releasing mineral ions back into the soil so nutrients are recycled rather than lost from the ecosystem. 7. Plasmodium is the pathogen that actually causes malaria; the mosquito is the vector that carries and transmits it between hosts, not the disease-causing organism itself.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-characteristics-and-classification-of-living-organisms--02-two-lookalikes.webp" width="900" height="1120" alt="Top: breathing moves air in and out of the lungs (physical) while respiration releases energy in cells (chemical). Bottom: excretion removes waste made by the body’s own chemistry from cells; egestion removes undigested food from the gut as faeces." loading="lazy">
+  <figcaption>Breathing and egestion are not the same as respiration and excretion.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-organisation-of-the-organism--06-levels-of-organisation.webp" width="900" height="1117" alt="Five stacked levels with an arrow down each step: cell (basic unit of structure and function), tissue (group of similar cells with a shared function), organ (several tissues working together), organ system (organs with related functions working together) and organism (an individual living thing carrying out all life processes). The running example is heart muscle in a human. A bacterium is an organism made of one cell." loading="lazy">
+  <figcaption>Each level of organisation is built from the one before.</figcaption>
+</figure>
+

@@ -177,6 +177,11 @@ Practical activity group 9 uses digital instruments to measure current, p.d., re
 **Reducing error.** A voltmeter across the capacitor adds a second discharge path. Use a meter with resistance far larger than R, or the measured CR is too small. Use a CR of tens of seconds for hand timing. Capacitor tolerance is often large, so compare measured and marked values. Connect an electrolytic capacitor the right way round. Repeat, average, and discharge fully between runs.
 
 <figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-capacitance--03-series-parallel-capacitors.webp" width="900" height="1100" alt="The same two capacitors, 10 and 15 microfarad, are connected across 15 V. In series each holds 90 microcoulombs and the p.d.s (9.0 V and 6.0 V) add, giving 6.0 microfarad. In parallel each has 15 V and the charges (150 and 225 microcoulombs) add, giving 25 microfarad." loading="lazy">
+  <figcaption>Series: same charge, p.d.s add, smaller C. Parallel: same p.d., charges add, larger C.</figcaption>
+</figure>
+
+<figure class="topic-figure">
   <img src="https://img.marlbridge.com/a-physics-capacitance--06-rc-charge-discharge-curves.webp" width="900" height="1130" alt="Against time in units of RC, charging makes Q and the capacitor p.d. rise towards their final values (63 percent at one RC) while the current and resistor p.d. fall from their maximum. V_R + V_C always equals V0. Discharging makes Q, V and I all fall with the same exponential shape (37 percent at one RC)." loading="lazy">
   <figcaption>Charge and p.d. rise or fall, but the current always decays exponentially.</figcaption>
 </figure>

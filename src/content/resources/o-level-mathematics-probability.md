@@ -274,6 +274,36 @@ All four path probabilities (0.14, 0.06, 0.04 and 0.76) add to 1, which is a goo
   <figcaption>A sample space diagram lists every equally likely outcome so you can count the favourable ones.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-mathematics-sample-spaces-systematic-listing-product-rule-venn--06-two-spinners-grid.webp" width="900" height="1020" alt="Grid of the 12 sums of spinner A (1 to 4) and spinner B (2, 4, 6); four sums are at least 8 and six are even." loading="lazy">
+  <figcaption>The sample space grid for Worked example 1.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-probability-and-expected-frequency--03-venn-two-sets.webp" width="900" height="680" alt="Three copies of a Venn diagram of 32 club members (swim only 9, both 5, tennis only 11, neither 7). Shading shows plays tennis 16/32, exactly one sport 20/32 and neither 7/32." loading="lazy">
+  <figcaption>Shade the region you want, add its counts, and divide by the total of 32.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-sets--05-three-set-venn.webp" width="900" height="990" alt="A three-circle Venn diagram of 60 students with all eight regions filled: 9, 10, 9 only; 10, 8, 7 for pairs; 2 for all three; 5 for none. Circle totals are 28, 30 and 26." loading="lazy">
+  <figcaption>Fill the centre first; the eight regions then add to 60.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-probability--03-tree-without-replacement.webp" width="900" height="1020" alt="Same bag, first counter not replaced. After a red, 4 red and 3 blue remain (4/7, 3/7); after a blue, 5 red and 2 blue remain (5/7, 2/7). Both red is 5/8 x 4/7 = 5/14." loading="lazy">
+  <figcaption>Without replacement the second branches change because the bag has one fewer counter.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-probability--02-tree-with-replacement.webp" width="900" height="1070" alt="Bag of 5 red and 3 blue, two draws with replacement. Branches are 5/8 and 3/8 both times; ends RR 25/64, RB 15/64, BR 15/64, BB 9/64. One of each is 15/64+15/64 = 15/32." loading="lazy">
+  <figcaption>With replacement the second branches repeat the first; multiply along paths and add the paths you want.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-maths-4ma1-statistics-and-probability--10-stat-late-at-least-once.webp" width="900" height="900" alt="Higher tier. A two-day tree with late probability 0.2 and not late 0.8 each day. LL 0.04, LN 0.16, NL 0.16, NN 0.64. Late at least once is 0.04 + 0.16 + 0.16 = 0.36, or quicker 1 − 0.8 × 0.8 = 0.36." loading="lazy">
+  <figcaption>1 − P(never late) is quicker than adding three routes.</figcaption>
+</figure>
+
 
 ## Choosing a method
 

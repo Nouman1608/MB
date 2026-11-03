@@ -129,6 +129,11 @@ The graph of p against V at constant temperature is a falling curve that never m
   <figcaption>The lesson’s four calculations drawn as pictures.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-physics-thermal-physics--04-specific-heat-capacity.webp" width="900" height="1050" alt="An insulated metal block with a heater and thermometer, and a circuit with an ammeter in series and a voltmeter across the heater. E = 4.0 x 12 x 300 = 14 400 J and c = 14 400 / (1.0 x 16) = 900 J/(kg C)." loading="lazy">
+  <figcaption>Energy supplied divided by mass and temperature rise gives c.</figcaption>
+</figure>
+
 
 ## 2.2.3 Changes of state
 
@@ -161,6 +166,16 @@ The graph of p against V at constant temperature is a falling curve that never m
   <figcaption>Every change of state is a physical change in which mass is conserved.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-physics-thermal-physics--03-heating-curve.webp" width="900" height="920" alt="A schematic temperature-energy graph from ice to steam with flat parts at 0 and 100 degrees Celsius while melting and boiling. Particle pictures under each part show the arrangement in that state." loading="lazy">
+  <figcaption>During melting and boiling energy is supplied but the temperature stays constant.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-physics-kinetic-theory-specific-heat-and-latent-heat--05-evaporation-cooling.webp" width="900" height="960" alt="A beaker of liquid with particles; at the surface two fast particles, drawn with gold arrows, escape as vapour. The particles left behind have lower average kinetic energy, so the liquid cools. Evaporation is faster when the liquid is warmer, the surface larger, there is a draught or the air is drier." loading="lazy">
+  <figcaption>The fastest particles leave, so the liquid left behind is cooler.</figcaption>
+</figure>
+
 
 ## 2.3 Transfer of thermal energy
 
@@ -184,6 +199,11 @@ A hotter object and a larger surface area both increase the rate of emission.
   <figcaption>Leslie cube and what changes the rate of emission.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-physics-thermal-physics--07-radiation-plates.webp" width="900" height="950" alt="A radiant heater faces a dull black and a shiny plate at equal distance. The black plate absorbs the infrared, its wax melts and its pin falls first; the shiny plate reflects most of it and its pin stays." loading="lazy">
+  <figcaption>Dull black surfaces absorb infrared best; shiny ones reflect it.</figcaption>
+</figure>
+
 
 ### Experiments to remember
 
@@ -193,6 +213,17 @@ A hotter object and a larger surface area both increase the rate of emission.
 | Convection | Crystal of potassium permanganate in water, heated at one side | Coloured streaks rise on the heated side and sink on the other |
 | Good and bad emitters | Identical containers of hot water with black and shiny surfaces, detector at equal distance | Higher reading from the black surface |
 | Good and bad absorbers | Black and shiny plates the same distance from a heater, thermometer or wax behind each | Black plate warms faster |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-physics-thermal-physics--06-conduction-rods.webp" width="900" height="920" alt="Four equal rods of copper, iron, glass and wood are heated at one end with a pin stuck on the far end by wax. The pins on copper and iron have fallen, copper first; the pins on glass and wood remain." loading="lazy">
+  <figcaption>The pin on the best conductor falls first.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-physics-thermal-physics--05-convection-current.webp" width="900" height="880" alt="A beaker with a purple crystal at one bottom corner heated from below. The purple dye rises over the heated spot, crosses the top, sinks on the far side and returns along the bottom." loading="lazy">
+  <figcaption>Heated water becomes less dense and rises; cooler, denser water sinks to replace it.</figcaption>
+</figure>
+
 
 ### Applications
 
@@ -209,6 +240,11 @@ A hotter object and a larger surface area both increase the rate of emission.
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/o-level-physics-thermal-physics--14-heat-transfer-at-home.webp" width="900" height="1190" alt="Pan: metal base conducts, plastic handle insulates. Radiator: convection loop. Infrared thermometer detects emitted infrared. Loft insulation and double glazing trap air." loading="lazy">
   <figcaption>Everyday pictures of conduction, convection and radiation.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-physics-conservation-and-dissipation-of-energy--07-wall-conduction-rate.webp" width="900" height="1085" alt="Three walls, hot inside and cold outside, with arrows showing energy transferred. A thin high-conductivity wall transfers at rate 8, a wall twice as thick at rate 4, and a wall twice as thick with a quarter of the conductivity at rate 1." loading="lazy">
+  <figcaption>Energy transfer through a wall falls with greater thickness and with lower thermal conductivity.</figcaption>
 </figure>
 
 

@@ -74,6 +74,17 @@ A café owner has paid 500 for a coffee machine (sunk). Opening one more evening
 
 **Evaluation of the rational model.** It is simple and may be a reasonable guide when stakes are high and choices are repeated. It fails when information is poor, decisions are quick or emotions matter. That is the starting point for behavioural economics.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-rational-choice-information-problems-behavioural--09-total-and-marginal-utility.webp" width="900" height="960" alt="Two aligned charts over cups of coffee 1 to 7. The top chart shows total utility rising 100, 180, 240, 280, 300, 300 then falling to 270. The bottom chart shows marginal utility bars falling 100, 80, 60, 40, 20, 0, -30. A dashed price line at 30 pence marks that the first four cups have marginal utility above the price, so she buys 4 cups." loading="lazy">
+  <figcaption>Each cup adds less than the last (MU falls), so total utility peaks at 300 and she buys only cups worth at least the price.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-rational-choice-information-problems-behavioural--10-bakery-at-the-margin.webp" width="900" height="990" alt="Bars for batches 1 to 4 showing marginal benefit 90, 70, 50 and 30 against a dashed marginal cost line at 40. Batches 1 to 3 have benefit above cost and add profit of 50, 30 and 10, totalling 90. Batch 4 has benefit 30 below cost 40 so it would lose 10. The baker stops at 3. The 500 spent on the oven is sunk and ignored." loading="lazy">
+  <figcaption>Keep going while marginal benefit is at least marginal cost; stop at 3 batches. The oven is a sunk cost.</figcaption>
+</figure>
+
+
 ## 3.1.2.2 Imperfect information
 
 **Chain of reasoning: asymmetric information to market failure.**
@@ -175,17 +186,6 @@ A café owner has paid 500 for a coffee machine (sunk). Opening one more evening
 - Evidence: results vary by group, so pilot first.
 - Conclusion: judge by size of the problem, cost, and speed of effect.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/aqa-a-level-economics-rational-choice-information-problems-behavioural--04-framing-fat-free.webp" width="900" height="880" alt="One bar of meat is 90% fat free and 10% fat. The two wordings describe the same fact, but 90% fat free seems more appealing." loading="lazy">
-  <figcaption>Identical facts worded differently can change how appealing a product seems.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/aqa-a-level-economics-rational-choice-information-problems-behavioural--05-nudge-vs-tax.webp" width="900" height="860" alt="A 10% price rise with price elasticity of demand -0.3 cuts quantity by 3%. An invented default portion nudge cutting sales by 6% would beat it without raising prices. Nudges can fade and may be too weak for large externalities." loading="lazy">
-  <figcaption>With PED of -0.3 a 10% tax cuts sales only 3%, so a 6% nudge would do better.</figcaption>
-</figure>
-
-
 ## Quick self-test
 
 1. Define marginal utility.
@@ -215,6 +215,16 @@ A café owner has paid 500 for a coffee machine (sunk). Opening one more evening
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/aqa-a-level-economics-rational-choice-information-problems-behavioural--13-default-opt-in-opt-out.webp" width="900" height="940" alt="Two bars, each representing 5,000 staff. With opt-in, 40 per cent join, 2,000 people. With opt-out, 85 per cent stay in, 4,250 people. The difference is 2,250 extra members, each saving 1,200 a year, 2,700,000 in total. Inertia explains it: few people act to change a default." loading="lazy">
   <figcaption>Changing the default from opt-in to opt-out lifts membership from 2,000 to 4,250 staff.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-rational-choice-information-problems-behavioural--04-framing-fat-free.webp" width="900" height="880" alt="One bar of meat is 90% fat free and 10% fat. The two wordings describe the same fact, but 90% fat free seems more appealing." loading="lazy">
+  <figcaption>Identical facts worded differently can change how appealing a product seems.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-rational-choice-information-problems-behavioural--05-nudge-vs-tax.webp" width="900" height="860" alt="A 10% price rise with price elasticity of demand -0.3 cuts quantity by 3%. An invented default portion nudge cutting sales by 6% would beat it without raising prices. Nudges can fade and may be too weak for large externalities." loading="lazy">
+  <figcaption>With PED of -0.3 a 10% tax cuts sales only 3%, so a 6% nudge would do better.</figcaption>
 </figure>
 
 

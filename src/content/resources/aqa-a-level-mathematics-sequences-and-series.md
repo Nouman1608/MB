@@ -267,6 +267,12 @@ So the value first drops below £5000 after **8 years** (about £4904.83). A lim
 
 A runner who covers 5 km in week 1 and adds 0.5 km each week follows an arithmetic model. Week 12 is 5 + 11 × 0.5 = 10.5 km, and the 12-week total is (12/2)(5 + 10.5) = 93 km. The model fails eventually, because no runner can increase distance forever. Saying where a model stops being realistic is a skill AQA expects in every section (see [overarching themes](/resources/aqa-a-level-mathematics-overarching-themes/)).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-maths-9709-pure-mathematics-1-series--01-ap-vs-gp.webp" width="900" height="1060" alt="Two bar charts of six terms each. The arithmetic progression 5, 8, 11, 14, 17, 20 adds 3 each time, so the added amount on top of each bar is the same height every time. The geometric progression 3, 6, 12, 24, 48, 96 doubles each time, so the added amount grows. Three consecutive terms satisfy 2b = a + c for an arithmetic progression (8, 11, 14) and b squared = ac for a geometric one (6, 12, 24)." loading="lazy">
+  <figcaption>An arithmetic progression adds the same amount each time; a geometric progression multiplies by the same ratio.</figcaption>
+</figure>
+
+
 ## Common errors
 
 - Forgetting to bracket the whole term: (−3x)² is 9x², not −3x².

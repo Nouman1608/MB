@@ -208,6 +208,12 @@ R&D lets firms compete without price cuts but is uncertain. R&D intensity = R&D 
 9. Profit maximising: 50 − 2Q = 10, Q = 20, P = £30, profit = 20 × 20 = **400**. Revenue maximising: MR = 0, Q = 25, P = £25, profit = 15 × 25 = **375**. The revenue maximiser sells more at a lower price.
 10. Overt is an open or formal agreement; tacit is coordination without one, such as following a leader's price.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-oligopoly--07-rd-expected-value.webp" width="900" height="930" alt="Expected value is 150 times the chance of success. It meets the 36m cost at p = 0.24; at p = 0.4 it is 60m, an expected net gain of 24m." loading="lazy">
+  <figcaption>R&amp;D is worth it when the chance of success exceeds 0.24.</figcaption>
+</figure>
+
+
 ## Where marks are usually lost
 
 - Describing the kinked curve without the assumed rival reactions.

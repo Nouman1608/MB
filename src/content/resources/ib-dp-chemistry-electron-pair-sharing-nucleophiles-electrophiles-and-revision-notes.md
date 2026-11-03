@@ -124,12 +124,6 @@ Small reminder: but-2-ene + Br₂ → CH₃CHBrCHBrCH₃, 2,3-dibromobutane.
 | Bromine water with alkene vs alkane | Alkene: decolourised in the dark by addition. Alkane: no change in the dark; radical substitution needs UV light (Reactivity 3.3) |
 | Symmetrical vs unsymmetrical alkene | Symmetrical gives one product with HX or H₂O; unsymmetrical can give two (choosing the major one is Reactivity 3.4.12, HL only) |
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ib-dp-chemistry-electron-pair-sharing-nucleophiles-electrophiles-and--08-bromine-water-test.webp" width="900" height="980" alt="Two rows of test tubes in the dark. Orange-brown bromine water turns colourless with an alkene, because the C=C attacks bromine by addition. With an alkane it stays orange-brown, because alkanes need UV light for radical substitution." loading="lazy">
-  <figcaption>In the dark, bromine water is decolourised by alkenes but not by alkanes.</figcaption>
-</figure>
-
-
 ## Linking questions from the guide
 
 - **Reactivity 3.3:** radical bond-breaking (homolytic) differs from the heterolytic bond-breaking in nucleophilic substitution, where the leaving group keeps the pair.
@@ -165,6 +159,12 @@ Small reminder: but-2-ene + Br₂ → CH₃CHBrCHBrCH₃, 2,3-dibromobutane.
 10. Single-barbed (fish-hook) for one electron in homolytic fission; double-barbed for an electron pair in heterolytic fission.
 11. Two: 2-chloropentane and 3-chloropentane, because the alkene is unsymmetrical.
 12. Hexane has no C=C bond, only strong, non-polar sigma bonds; without UV light no radicals form, so no reaction occurs.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-electron-pair-sharing-nucleophiles-electrophiles-and--08-bromine-water-test.webp" width="900" height="980" alt="Two rows of test tubes in the dark. Orange-brown bromine water turns colourless with an alkene, because the C=C attacks bromine by addition. With an alkane it stays orange-brown, because alkanes need UV light for radical substitution." loading="lazy">
+  <figcaption>In the dark, bromine water is decolourised by alkenes but not by alkanes.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

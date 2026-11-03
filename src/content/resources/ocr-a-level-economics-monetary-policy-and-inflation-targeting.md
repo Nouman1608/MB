@@ -112,6 +112,21 @@ Effects on performance:
   <figcaption>An initial 2.4 bn rise in AD becomes 6.0 bn of output, 3.0% of GDP, with a multiplier of 2.5.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-aggregate-demand-supply--02-ad-components.webp" width="900" height="906" alt="A waterfall adds consumption 60, investment 15, government spending 25 and exports 30 and subtracts imports 35 to reach AD of 95. Each bar lists the main determinants named in the lesson, and imports are shown as a subtraction." loading="lazy">
+  <figcaption>AD = C + I + G + (X − M): imports are subtracted, and a change in any component shifts the whole AD curve.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-aggregate-demand-supply--05-multiplier.webp" width="900" height="902" alt="Bars show £10bn of extra spending passed on at an MPC of 0.8: 10, 8, 6.4, 5.12 and so on. A long bar adds the rounds up to a £50bn rise in income, and the formula 1 ÷ (1 − MPC) = 5 is shown." loading="lazy">
+  <figcaption>With an MPC of 0.8 the multiplier is 5, so £10bn of extra spending raises national income by £50bn.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-macroeconomics--02-ad-shift.webp" width="900" height="1020" alt="Aggregate demand shifts right from AD1 to AD2 along an upward-sloping SRAS, so equilibrium moves from E1 to E2 with higher output and price level. A vertical LRAS shows spare capacity remains." loading="lazy">
+  <figcaption>A rise in a component of AD (C, I, G or X minus M) shifts the whole AD curve and raises output and the price level.</figcaption>
+</figure>
+
 
 ## 3. The liquidity trap
 
@@ -196,6 +211,11 @@ Symmetry gives the bank a reason to cut rates when inflation is too low. An asym
   <figcaption>A rate cut can disappoint because the chain from rate to output is slow, weak and has side effects.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-objectives-of-government--02-inflation-causes.webp" width="900" height="1090" alt="Two illustrative AD/AS diagrams. Demand-pull: AD shifts right and the price level rises. Cost-push: AS shifts up and left and the price level rises. Boxes give the cause chain and the policy response from the lesson." loading="lazy">
+  <figcaption>Demand-pull starts with demand; cost-push starts with rising costs.</figcaption>
+</figure>
+
 
 ## 7. How a central bank works to achieve its aims
 
@@ -212,6 +232,11 @@ Independence from government reduces the risk that rates are cut for electoral g
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/ocr-a-level-economics-monetary-policy-and-inflation-targeting--13-central-bank-six-steps.webp" width="900" height="990" alt="Six steps in a loop: collect data, forecast, compare with the target and vote, announce, use market operations (QE at the floor), review and explain misses. The bank is independent but accountable." loading="lazy">
   <figcaption>A central bank repeats a data, forecast, decide, communicate, act and review cycle.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-economics-microeconomic-decision-makers--02-central-and-commercial-banks.webp" width="900" height="1090" alt="A central bank sets the base interest rate for commercial banks. Households and firms deposit money with commercial banks and receive loans from them." loading="lazy">
+  <figcaption>The central bank sets the base rate; commercial banks take deposits and make loans.</figcaption>
 </figure>
 
 

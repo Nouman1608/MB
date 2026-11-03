@@ -104,16 +104,26 @@ enzyme free in solution, and state the advantages of using immobilised
 enzymes (for example, the enzyme can be recovered and reused, and the
 product is not contaminated with enzyme).
 
+## Related resources
+
+- [Enzymes practice questions](/resources/a-level-biology-enzymes-practice/)
+- [Biological molecules](/resources/a-level-biology-biological-molecules/) — the previous topic
+
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/a-level-biology-9700-factors-that-affect-enzyme-action--05-temperature-ph.webp" width="900" height="1140" alt="Two graphs. Temperature: rate rises to an optimum a little below 45 degrees Celsius then falls steeply as the active site is distorted and the enzyme denatured. pH: a bell-shaped curve with an optimum near 7; at low and high pH charges on R groups change. A buffer holds pH constant." loading="lazy">
   <figcaption>Away from the optimum, the active site changes shape so fewer enzyme-substrate complexes form.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-factors-that-affect-enzyme-action--06-substrate-km.webp" width="900" height="1060" alt="A graph of initial rate against substrate concentration with the lesson data (0.5 to 32 mmol per dm3) on a curve to Vmax 40. Half Vmax (20) gives Km 2.5; a second enzyme with Km 9 has lower affinity. Three panels of eight active sites show 1, 4 and 7 filled at low, Km and high substrate." loading="lazy">
+  <figcaption>Km is the substrate concentration at half Vmax; a low Km means high affinity.</figcaption>
+</figure>
 
-## Related resources
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-factors-that-affect-enzyme-action--07-inhibitor-types.webp" width="900" height="1060" alt="Three rows. No inhibitor: substrate fits the active site. Competitive: an inhibitor with a similar shape sits in the active site, blocking the substrate; more substrate out-competes it. Non-competitive: the inhibitor binds elsewhere and reshapes the active site, so extra substrate does not help." loading="lazy">
+  <figcaption>Competitive inhibitors compete for the active site; non-competitive inhibitors bind elsewhere and change its shape.</figcaption>
+</figure>
 
-- [Enzymes practice questions](/resources/a-level-biology-enzymes-practice/)
-- [Biological molecules](/resources/a-level-biology-biological-molecules/) — the previous topic
 
 ## How the two sub-topics connect
 
@@ -165,11 +175,6 @@ AS and A Level papers.
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/a-level-biology-9700-factors-that-affect-enzyme-action--04-initial-rate.webp" width="900" height="1000" alt="A graph of oxygen volume against time with points at 0 to 120 seconds from the lesson. The tangent at t = 0 passes through (0,0) and (20,10), so the initial rate is 0.50 cm3 per second; a line from 60 to 120 s gives 0.10 cm3 per second. A flask and gas syringe show how the oxygen is collected." loading="lazy">
   <figcaption>The initial rate is the gradient of the tangent at t = 0 and is the best value for comparing experiments.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-level-biology-9700-factors-that-affect-enzyme-action--07-inhibitor-types.webp" width="900" height="1060" alt="Three rows. No inhibitor: substrate fits the active site. Competitive: an inhibitor with a similar shape sits in the active site, blocking the substrate; more substrate out-competes it. Non-competitive: the inhibitor binds elsewhere and reshapes the active site, so extra substrate does not help." loading="lazy">
-  <figcaption>Competitive inhibitors compete for the active site; non-competitive inhibitors bind elsewhere and change its shape.</figcaption>
 </figure>
 
 <figure class="topic-figure">

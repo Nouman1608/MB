@@ -124,6 +124,16 @@ Hydrogen bonding needs **both** conditions. HCl does not hydrogen bond.
   <figcaption>London forces act between all molecules, dipole-dipole forces need a permanent dipole, and hydrogen bonds need H on N, O or F plus a lone pair.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-edexcel-chemistry-structure-bonding-organic-chemistry--09-water-anomalies.webp" width="900" height="1110" alt="A graph shows boiling points of Group 16 hydrides in kelvin: H2O 373, H2S 213, H2Se 232 and H2Te 271. A dashed London-forces-only trend would put water near 181 K, so water boils 160 K above H2S because hydrogen bonds must also be broken. Below, ice is a sketch of an open ring lattice at 0.917 g per cm3 and liquid water has molecules closer together at 1.00 g per cm3, so ice floats." loading="lazy">
+  <figcaption>Hydrogen bonding raises the boiling point of water far above the London-force trend and holds ice in an open, less dense lattice.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-periodicity--08-melting-breaks.webp" width="900" height="970" alt="A grid of silicon atoms each bonded to four neighbours shows the giant covalent network, where melting breaks many strong covalent bonds. Below, S8 (128 electrons), P4 (60), Cl2 (34) and Ar (18) are joined by dotted van der Waals forces, which are the only forces overcome on melting. More electrons mean stronger forces." loading="lazy">
+  <figcaption>Silicon melts by breaking covalent bonds; P4, S8, Cl2 and Ar melt by overcoming weak van der Waals forces that strengthen with electron count.</figcaption>
+</figure>
+
 
 ## Organic nomenclature and isomerism
 
@@ -139,6 +149,36 @@ Hydrogen bonding needs **both** conditions. HCl does not hydrogen bond.
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/edexcel-a-level-chemistry-bonding-revision-notes--07-isomer-types.webp" width="900" height="1045" alt="Skeletal formulae: butane and 2-methylpropane (chain, C4H10), propan-1-ol and propan-2-ol (position, C3H8O), ethanol and methoxymethane (functional group, C2H6O)." loading="lazy">
   <figcaption>Structural isomers share a molecular formula but differ in skeleton, group position or functional group.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-organic-chemistry-naming-mechanisms-and-aromatic-shape--01-skeletal-isomers.webp" width="900" height="1240" alt="Butan-1-ol drawn as a skeletal formula with the three rules shown (end or corner is carbon, hydrogens on carbon not drawn, OH written in full), then skeletal formulae of the five structural isomers of C6H14." loading="lazy">
+  <figcaption>Each line is a bond and each end or corner is carbon; C6H14 has five structural isomers (AQA, Edexcel, OCR, OxfordAQA, Cambridge).</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-alkenes--02-ez-isomers.webp" width="900" height="1060" alt="Z and E isomers of 2-chlorobut-2-ene drawn with 120 degree geometry, priority 1 and 2 at each carbon by atomic number (Cl 17, C 6, H 1), plus pent-2-ene (has E/Z) and pent-1-ene (does not)." loading="lazy">
+  <figcaption>Rank groups by atomic number; same side is Z, opposite is E (Edexcel, OCR only).</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-optical-isomerism--01-chiral-centre.webp" width="900" height="720" alt="Two ball-and-stick tetrahedral carbons. In 2-hydroxypropanoic acid the central carbon carries four different groups (H, CH3, OH, COOH, four colours), so it is a chiral centre C*. In propan-2-ol the central carbon has two identical CH3 groups, so it is not. Bonds are tetrahedral, 109.5 degrees." loading="lazy">
+  <figcaption>A carbon bonded to four different groups is a chiral centre; two identical groups mean it is not.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-optical-isomerism--06-racemate-cancels.webp" width="900" height="720" alt="Three tubes: one enantiomer rotates the plane clockwise by 25 degrees, its mirror image anticlockwise by 25 degrees, and a 1:1 racemate gives zero because the equal and opposite rotations cancel. Every molecule in the racemate is still chiral." loading="lazy">
+  <figcaption>Equal amounts of the two enantiomers give equal and opposite rotations, so a racemate shows no net rotation.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-optical-isomerism--07-racemate-formation.webp" width="900" height="1030" alt="Propanal has a trigonal planar carbonyl carbon drawn as a flat sheet. CN minus can attack from above or below, each 50 percent likely. Attack from the front gives 2-hydroxybutanenitrile with CN on a wedge; from the back, CN on a hashed bond. The two products are mirror images in equal amounts: a racemate. The same logic applies to Br minus attacking the planar carbocation from HBr and an alkene (AQA, OxfordAQA)." loading="lazy">
+  <figcaption>A planar carbon is attacked equally from both faces, so a chiral product forms as a 1:1 racemate.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-optical-isomerism--08-sn1-sn2-evidence.webp" width="900" height="1110" alt="Edexcel only. SN1: one enantiomer of 3-chloro-3-methylheptane loses chloride to a planar carbocation; OH minus attacks either face, giving both enantiomers 1:1, a racemate with no rotation. SN2: hydroxide attacks 2-iodohexane from the side opposite iodine; the other three groups flip and a single inverted enantiomer forms, which is optically active." loading="lazy">
+  <figcaption>No rotation points to a planar intermediate (SN1); a single inverted enantiomer that rotates points to SN2 (Edexcel only).</figcaption>
 </figure>
 
 
@@ -161,12 +201,6 @@ Hydrogen bonding needs **both** conditions. HCl does not hydrogen bond.
 
 **Markovnikov addition** should be explained through **carbocation stability** (tertiary > secondary > primary), not stated as a rule about hydrogen.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/edexcel-a-level-chemistry-bonding-revision-notes--06-curly-arrow-start.webp" width="900" height="950" alt="Four panels: arrows correctly start on an oxygen lone pair or on a C-Br bond; incorrectly from an atom or from a positive charge." loading="lazy">
-  <figcaption>A curly arrow starts on a lone pair or bond, never on an atom or a charge.</figcaption>
-</figure>
-
-
 ## Exam traps
 
 - Saying covalent bonds break on melting a molecular solid.
@@ -185,3 +219,34 @@ Hydrogen bonding needs **both** conditions. HCl does not hydrogen bond.
 5. Why is ice less dense than water?
 
 **Answers:** 1. A C=C double bond preventing rotation, and two different groups attached to each of the double-bonded carbons. 2. A carbon atom bonded to four different groups; a racemic mixture contains equal amounts of the two enantiomers, whose equal and opposite rotations cancel. 3. The intermediate is flat, so the nucleophile can attack from either face with equal probability, producing equal amounts of both enantiomers. 4. The iodoalkane — the C–I bond has the lowest bond enthalpy and so breaks most readily; polarity is not the deciding factor. 5. Each water molecule forms four hydrogen bonds in a tetrahedral arrangement, producing an open lattice containing holes, which partly collapses on melting.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-a-level-chemistry-bonding-revision-notes--06-curly-arrow-start.webp" width="900" height="950" alt="Four panels: arrows correctly start on an oxygen lone pair or on a C-Br bond; incorrectly from an atom or from a positive charge." loading="lazy">
+  <figcaption>A curly arrow starts on a lone pair or bond, never on an atom or a charge.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-organic-chemistry-naming-mechanisms-and-aromatic-shape--02-bond-fission.webp" width="900" height="1170" alt="Cl-Cl splits with one electron to each atom giving two free radicals; H-Br splits with both electrons to Br giving H+ and Br-. Curly arrows start on the bond and end on the atom receiving the electrons." loading="lazy">
+  <figcaption>Homolytic fission gives radicals, heterolytic fission gives ions (AQA, Edexcel, OCR, OxfordAQA).</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-organic-chemistry-naming-mechanisms-and-aromatic-shape--03-radical-substitution.webp" width="900" height="1160" alt="Initiation by UV splits Cl2; two propagation steps form a repeating cycle (Cl radical to methyl radical and back) making HCl and CH3Cl; termination steps remove radicals." loading="lazy">
+  <figcaption>A chain reaction of initiation, propagation and termination (AQA, Edexcel, OCR, OxfordAQA).</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-alkenes--05-hbr-mechanism.webp" width="900" height="923" alt="Curly arrow 1 from the C=C bond to the delta-plus H, arrow 2 from the H-Br bond to Br, giving CH3CH2+ and Br-; arrow 3 from a Br- lone pair to C+ gives bromoethane." loading="lazy">
+  <figcaption>Three curly arrows: from the C=C, from the H-Br bond, and from a bromide lone pair.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-alkenes--07-major-minor-product.webp" width="900" height="1236" alt="H adds to C1 giving a secondary carbocation (two alkyl groups) and 2-bromopropane as major product; H adds to C2 giving a primary carbocation (one alkyl group) and 1-bromopropane as minor. Bars show stability rising primary &lt; secondary &lt; tertiary." loading="lazy">
+  <figcaption>The more stable secondary carbocation forms faster, so 2-bromopropane is the major product.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-halogenoalkanes--01-oh-mechanism.webp" width="900" height="940" alt="Curly-arrow mechanism for 1-bromopropane and hydroxide: arrow 1 from an O lone pair to the delta-plus carbon, arrow 2 from the C-Br bond to Br. Products are propan-1-ol and bromide." loading="lazy">
+  <figcaption>Two curly arrows: the lone pair on O forms the C-O bond and the C-Br pair moves onto Br (OCR adds that attack is from the side opposite the halogen).</figcaption>
+</figure>
+

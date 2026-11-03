@@ -179,17 +179,6 @@ Multiple accessible oxidation states make transition elements central to redox t
 
 **Cu²⁺/I⁻ (iodometry):** 2Cu²⁺ + 4I⁻ → 2CuI(s) + I₂. Cu²⁺ oxidises I⁻ to I₂ while being reduced to Cu⁺, which precipitates as white CuI; the liberated I₂ is then titrated against standardised thiosulfate — an **indirect** method, since Cu²⁺ has no sharp end point of its own. Note: E°(Cu²⁺/Cu⁺) = +0.15 V and E°(I₂/I⁻) = +0.54 V give E°cell = 0.15 − 0.54 = **−0.39 V**, which looks infeasible from standard-conditions data alone — but the reaction proceeds because the very low solubility of CuI removes Cu⁺ from solution as fast as it forms, shifting the equilibrium and driving the reaction forward (Le Chatelier), a case where product removal matters more than the standard-conditions calculation.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-chemistry-transition-elements-revision-notes--02-permanganate-titration.webp" width="900" height="820" alt="A burette of 0.0200 mol per dm3 permanganate delivers 23.50 cm3 into 25.0 cm3 of iron(II). Moles of permanganate 4.70e-4 are multiplied by 5 to give 2.35e-3 mol Fe2+, then divided by 0.0250 dm3 to give 0.0940 mol per dm3. The balanced equation is shown." loading="lazy">
-  <figcaption>The 1:5 mole ratio turns a titre into the concentration of Fe2+.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-chemistry-transition-elements-revision-notes--03-cu-iodide-driven.webp" width="900" height="830" alt="A scale of E° values shows Cu2+/Cu+ at +0.15 V and I2/I- at +0.54 V, giving E°cell of -0.39 V, which looks infeasible. Copper(I) iodide is so insoluble that it precipitates, removing Cu+ and driving the reaction forward, producing brown iodine and a white solid." loading="lazy">
-  <figcaption>Removing Cu+ as insoluble CuI drives a reaction that standard potentials alone predict will not go.</figcaption>
-</figure>
-
-
 ## Exam traps
 
 - Calling Sc and Zn transition elements.
@@ -207,3 +196,14 @@ Multiple accessible oxidation states make transition elements central to redox t
 5. (Background, beyond 9701's 28.1/28.2 outcomes.) Why does EDTA⁴⁻ displace six water ligands?
 
 **Answers:** 1. A d-block element that forms at least one stable ion with a partially filled d subshell; zinc forms only Zn²⁺, which is 3d¹⁰ — full, not partially filled. 2. Cr = [Ar]3d⁵4s¹; Fe²⁺ = [Ar]3d⁶. 3. Ligands split the d-orbitals; an electron absorbs a photon of energy equal to ΔE and is promoted; that frequency is removed from white light; the complementary colour is transmitted. 4. Zn²⁺ is d¹⁰ — the d subshell is full, so no d–d transition is possible. 5. The chelate effect: one EDTA⁴⁻ replaces six H₂O, increasing the number of free particles, so ΔS is positive and ΔG more negative.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-chemistry-transition-elements-revision-notes--02-permanganate-titration.webp" width="900" height="820" alt="A burette of 0.0200 mol per dm3 permanganate delivers 23.50 cm3 into 25.0 cm3 of iron(II). Moles of permanganate 4.70e-4 are multiplied by 5 to give 2.35e-3 mol Fe2+, then divided by 0.0250 dm3 to give 0.0940 mol per dm3. The balanced equation is shown." loading="lazy">
+  <figcaption>The 1:5 mole ratio turns a titre into the concentration of Fe2+.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-chemistry-transition-elements-revision-notes--03-cu-iodide-driven.webp" width="900" height="830" alt="A scale of E° values shows Cu2+/Cu+ at +0.15 V and I2/I- at +0.54 V, giving E°cell of -0.39 V, which looks infeasible. Copper(I) iodide is so insoluble that it precipitates, removing Cu+ and driving the reaction forward, producing brown iodine and a white solid." loading="lazy">
+  <figcaption>Removing Cu+ as insoluble CuI drives a reaction that standard potentials alone predict will not go.</figcaption>
+</figure>
+

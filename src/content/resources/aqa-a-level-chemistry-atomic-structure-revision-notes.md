@@ -141,17 +141,6 @@ Every underlined element is a mark: *one mole*, *gaseous*, and the specified cha
 
 **Successive ionisation energies** show the group of an element. A **large jump** occurs when an electron is removed from a shell closer to the nucleus. Count the electrons removed before the jump: that is the number in the outer shell, and hence the group.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-level-aqa-chemistry-atomic-structure--08-successive-ie.webp" width="900" height="830" alt="A log-scale plot of the twelve successive ionisation energies of magnesium: two low points, a big jump at the third electron, a gradual rise to the tenth, and another huge jump at the eleventh, grouped as shell 3 (2 electrons), shell 2 (8) and shell 1 (2)." loading="lazy">
-  <figcaption>A large jump after the second electron shows two outer electrons (Group 2); further jumps mark inner shells.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-level-aqa-chemistry-atomic-structure--09-period3-ie.webp" width="900" height="950" alt="A line plot of first ionisation energy from Na to Ar, rising with two ringed dips at Al and S. Box diagrams explain them: Al has a lone 3p electron, higher in energy than 3s; S has two electrons paired in one 3p orbital that repel." loading="lazy">
-  <figcaption>First ionisation energy rises across Period 3 with dips at Al (outer 3p electron) and S (paired 3p electrons).</figcaption>
-</figure>
-
-
 ## Exam traps
 
 - Omitting "one mole" or "gaseous" from the definition.
@@ -170,3 +159,14 @@ Every underlined element is a mark: *one mole*, *gaseous*, and the specified cha
 5. Explain why sulfur has a lower first ionisation energy than phosphorus.
 
 **Answers:** 1. Ionisation, acceleration, ion drift, detection, data analysis. 2. The sample gains a proton, so the ion detected is XH⁺ and its mass is one greater than the molecule's Mr. 3. The energy required to remove one mole of electrons from one mole of gaseous atoms to form one mole of gaseous 1+ ions. 4. Aluminium's outer electron is in a 3p sub-shell, which is higher in energy and slightly shielded by the 3s electrons, so less energy is needed to remove it. 5. In sulfur, two electrons occupy the same 3p orbital and repel each other, making one easier to remove than an unpaired 3p electron in phosphorus.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-chemistry-atomic-structure--08-successive-ie.webp" width="900" height="830" alt="A log-scale plot of the twelve successive ionisation energies of magnesium: two low points, a big jump at the third electron, a gradual rise to the tenth, and another huge jump at the eleventh, grouped as shell 3 (2 electrons), shell 2 (8) and shell 1 (2)." loading="lazy">
+  <figcaption>A large jump after the second electron shows two outer electrons (Group 2); further jumps mark inner shells.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-chemistry-atomic-structure--09-period3-ie.webp" width="900" height="950" alt="A line plot of first ionisation energy from Na to Ar, rising with two ringed dips at Al and S. Box diagrams explain them: Al has a lone 3p electron, higher in energy than 3s; S has two electrons paired in one 3p orbital that repel." loading="lazy">
+  <figcaption>First ionisation energy rises across Period 3 with dips at Al (outer 3p electron) and S (paired 3p electrons).</figcaption>
+</figure>
+

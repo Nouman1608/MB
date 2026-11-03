@@ -52,12 +52,6 @@ Anything that has no special journal (buying a non-current asset on credit, open
 | Debit card transaction | Credit bank, debit the item bought |
 | Direct transfer | Debit or credit bank, depending on direction |
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/aqa-a-level-accounting-double-entry-model--07-paid-not-owed.webp" width="900" height="950" alt="Of 11,200 dollars of rent paid in 2027, 800 clears rent owed from 2026, 9,600 is the 2027 expense and 800 is paid for January 2028 (a prepayment, other receivable). The rent payable account balances at 11,200 and the 800 is brought down as a debit." loading="lazy">
-  <figcaption>Only the part of the cash paid that belongs to the year is charged to the income statement.</figcaption>
-</figure>
-
-
 ## Ledgers
 
 The **receivables ledger** holds one account per credit customer. The **payables ledger** holds one account per credit supplier. The **general ledger** holds everything else: sales, purchases, expenses, assets, liabilities, capital and drawings. Debit the receiving account, credit the giving account. Balance each account by totalling the larger side and inserting the difference on the smaller side, then carry it down to the opposite side on the first day of the next period.
@@ -65,11 +59,6 @@ The **receivables ledger** holds one account per credit customer. The **payables
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/aqa-a-level-accounting-double-entry-model--01-debit-credit-rules.webp" width="900" height="956" alt="Six T-accounts show which side increases each account type: assets, expenses and drawings on the debit side; liabilities, income and capital on the credit side. An example buys a 4,000 dollar van by bank: debit Van, credit Bank. The rule is debit the receiver, credit the giver." loading="lazy">
   <figcaption>Debit the account that receives value and credit the one that gives it; each account type increases on one side only.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/aqa-a-level-accounting-double-entry-model--02-balancing-account.webp" width="900" height="1020" alt="A K Lee ledger account is balanced: debits 300 and 450, credits 500 and 50, balance carried down 200, both sides 750, and 200 brought down on the debit side. A running balance layout (Cambridge only) gives the same 200 Dr." loading="lazy">
-  <figcaption>Balancing adds both sides, inserts the balance carried down, and brings it down on the opposite side.</figcaption>
 </figure>
 
 
@@ -92,8 +81,18 @@ Profit on disposal   700    Bank                      5,500
 ```
 
 <figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-double-entry-model--02-balancing-account.webp" width="900" height="1020" alt="A K Lee ledger account is balanced: debits 300 and 450, credits 500 and 50, balance carried down 200, both sides 750, and 200 brought down on the debit side. A running balance layout (Cambridge only) gives the same 200 Dr." loading="lazy">
+  <figcaption>Balancing adds both sides, inserts the balance carried down, and brings it down on the opposite side.</figcaption>
+</figure>
+
+<figure class="topic-figure">
   <img src="https://img.marlbridge.com/aqa-a-level-accounting-double-entry-model--03-trade-cash-discount.webp" width="900" height="980" alt="A 3,200 dollar list price less 15 percent trade discount (480, never recorded) gives an invoice of 2,720. A 2.5 percent cash discount of 68 is recorded on payment, so the cheque is 2,652. Entries: debit supplier 2,720, credit bank 2,652, credit discounts received 68." loading="lazy">
   <figcaption>Trade discount is netted off before recording; cash discount is recorded when payment is made.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-double-entry-model--08-allowance-irrecoverable.webp" width="900" height="1114" alt="Receivables of 48,600 less a 1,100 write-off give 47,500. A 3 percent allowance of 1,425 gives 46,075 in the statement of financial position. The allowance rises from 1,280 to 1,425 (145 expense) and falls to 1,260 the next year (165 income)." loading="lazy">
+  <figcaption>Only the change in the allowance is charged or credited to profit.</figcaption>
 </figure>
 
 
@@ -165,12 +164,6 @@ Capital (equity)              (opening capital + profit - drawings)
 
 Net assets (non-current assets + net current assets - non-current liabilities) must equal capital.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/aqa-a-level-accounting-double-entry-model--08-allowance-irrecoverable.webp" width="900" height="1114" alt="Receivables of 48,600 less a 1,100 write-off give 47,500. A 3 percent allowance of 1,425 gives 46,075 in the statement of financial position. The allowance rises from 1,280 to 1,425 (145 expense) and falls to 1,260 the next year (165 income)." loading="lazy">
-  <figcaption>Only the change in the allowance is charged or credited to profit.</figcaption>
-</figure>
-
-
 ## Quick self-test
 
 1. Name the book of prime entry for goods returned by a customer.
@@ -199,6 +192,12 @@ Net assets (non-current assets + net current assets - non-current liabilities) m
 10. Required provision 600, so the increase of 200 is an expense.
 11. Capital expenditure, because it improves a non-current asset.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-double-entry-model--07-paid-not-owed.webp" width="900" height="950" alt="Of 11,200 dollars of rent paid in 2027, 800 clears rent owed from 2026, 9,600 is the 2027 expense and 800 is paid for January 2028 (a prepayment, other receivable). The rent payable account balances at 11,200 and the 800 is brought down as a debit." loading="lazy">
+  <figcaption>Only the part of the cash paid that belongs to the year is charged to the income statement.</figcaption>
+</figure>
+
+
 ## Where marks are usually lost
 
 - Posting from a source document straight to the ledger without naming the book of prime entry.
@@ -213,6 +212,12 @@ Net assets (non-current assets + net current assets - non-current liabilities) m
 - Leaving the profit or loss on disposal out of the income statement after finding it in the disposal account.
 
 Clear labels make your entries easier to follow and to credit, so write the account name and a narrative against every entry.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-double-entry-model--09-trial-balance-blind-spots.webp" width="900" height="968" alt="Six small debit and credit examples show omission, commission, principle, original entry, reversal and compensating errors. In each, total debits still equal total credits, so the trial balance agrees even though the books are wrong." loading="lazy">
+  <figcaption>A balanced trial balance does not prove the books are correct.</figcaption>
+</figure>
+
 
 ## Official syllabus
 

@@ -117,6 +117,36 @@ Course hub: [Edexcel IGCSE Mathematics](/boards/edexcel/igcse/mathematics/). Tic
   <figcaption>On a speed-time graph the gradient is the acceleration.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-coordinate-geometry--01-gradient-rise-run.webp" width="900" height="910" alt="A line passes through A (1, 1) and B (5, 4). Going 4 along and 3 up gives rise 3 and run 4, so the gradient is 3 divided by 4 = 0.75." loading="lazy">
+  <figcaption>Gradient is the change up divided by the change along.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-coordinate-geometry--04-y-mx-c.webp" width="900" height="990" alt="The line y = 2x - 1 crosses the y-axis at (0, -1) so c = -1. Between (1, 1) and (3, 5) it goes 2 across and 4 up, so m = 2." loading="lazy">
+  <figcaption>m is the gradient and c is where the line crosses the y-axis.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-coordinate-geometry--03-length-midpoint.webp" width="900" height="960" alt="A line from A (-2, 1) to B (6, 7) forms a right triangle 8 across and 6 up, so its length is 10. The midpoint is the average of the coordinates, (2, 4)." loading="lazy">
+  <figcaption>Length uses Pythagoras; the midpoint averages the coordinates.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-graphs-in-practical-situations--01-miles-to-km.webp" width="900" height="930" alt="A conversion graph for miles and kilometres is a straight line through the origin and (50, 80). Reading up from 30 miles and across gives 48 km, and the gradient 80 divided by 50 is 1.6 km per mile. Because the line passes through (0, 0), values can be scaled." loading="lazy">
+  <figcaption>Reading a conversion graph, and why a line through the origin lets you scale.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-graphs-in-practical-situations--04-draw-journey.webp" width="900" height="930" alt="Amira cycles 8 km at 16 km/h in 30 minutes, rests 20 minutes, then takes 40 minutes to ride home at 12 km/h. The four points join with straight lines, and the return leg is less steep. Her average speed is 16 km in 1.5 hours, 10.7 km/h." loading="lazy">
+  <figcaption>How a journey description becomes four plotted points.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-graphs-of-functions-and-sketching-curves--01-table-to-curve.webp" width="900" height="1090" alt="A table of values for y = x² − 2x − 3 from x = −2 to 5 (y = 5, 0, −3, −4, −3, 0, 5, 12) is plotted as crosses and joined by a smooth U-shaped curve. The curve is symmetrical about the dashed line x = 1. It is drawn smoothly, not with ruler segments." loading="lazy">
+  <figcaption>Plot a table, then draw one smooth curve; the table is symmetrical about x = 1.</figcaption>
+</figure>
+
 
 ## Reading and drawing graphs (both tiers)
 
@@ -192,6 +222,41 @@ Changes **outside** the bracket act on y as you expect. Changes **inside** the b
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/igcse-mathematics-0580-functions--03-domain-range-graphs.webp" width="900" height="1110" alt="Top graph: g(x) = 3x squared plus 1 has lowest point (0, 1), so its range is g(x) at least 1. Bottom graph: k(x) = 5 over (x minus 4) has a gap at x = 4 where the rule divides by zero, so x = 4 is not in the domain." loading="lazy">
   <figcaption>g(x) = 3x² + 1 never goes below 1, and k(x) = 5/(x − 4) has no value at x = 4.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-functions--06-composite-order.webp" width="900" height="840" alt="With f(x) = 3x minus 1 and g(x) = x squared plus 4, starting from 2: fg(2) applies g first to give 8 then f to give 23; gf(2) applies f first to give 5 then g to give 29. So fg(x) = 3x squared plus 11 and gf(x) = 9x squared minus 6x plus 5 differ." loading="lazy">
+  <figcaption>In gf(x) the function nearest x acts first, so fg(x) and gf(x) usually differ.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-functions--04-inverse-machine.webp" width="900" height="810" alt="The same four numbers 5, 10, 3, 1 in two rows. f multiplies by 2, subtracts 7, divides by 3, taking 5 to 1. The inverse runs right to left and undoes each step in reverse order: times 3, add 7, divide by 2, taking 1 back to 5." loading="lazy">
+  <figcaption>The inverse undoes each step of f in the reverse order.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-functions--05-inverse-graph.webp" width="900" height="1034" alt="Graphs of f(x) = (2x minus 7) over 3 and its inverse (3x plus 7) over 2, with the dashed line y = x. Point (5, 1) on f matches (1, 5) on the inverse, the mirror image in y = x. The link between them crosses y = x at (3, 3)." loading="lazy">
+  <figcaption>The graph of f⁻¹ is the reflection of the graph of f in the line y = x.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-coordinate-geometry--05-parallel-lines.webp" width="900" height="1000" alt="Lines y = 2x - 1 and y = 2x + 3 each go 1 across and 2 up, so they are parallel. The parallel line through P (1, 5) has c = 3." loading="lazy">
+  <figcaption>Parallel lines share a gradient; use a point to find c.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-coordinate-geometry--06-perpendicular-lines.webp" width="900" height="960" alt="Two lines meet at right angles at (0, 1). One has gradient 2/3 and the other -3/2; their product is -1." loading="lazy">
+  <figcaption>Perpendicular gradients multiply to -1.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-graphs-of-functions-and-sketching-curves--05-sketch-cubic.webp" width="900" height="1030" alt="Sketch of y = x³ − 4x² + 3x = x(x − 1)(x − 3). The curve crosses the x-axis at 0, 1 and 3, coming up from bottom left, turning twice, and rising to top right because the x³ coefficient is positive." loading="lazy">
+  <figcaption>Factorise a cubic to find its roots, then follow the rise, turn, fall, turn, rise.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-graphs-of-functions-and-sketching-curves--06-asymptotes.webp" width="900" height="1230" alt="Two Extended sketches with dashed asymptotes. y = 2/x + 1 has asymptotes x = 0 and y = 1 and crosses the x-axis at (−2, 0). y = 3 × 2ˣ − 6 has asymptote y = −6, y-intercept (0, −3) and root x = 1." loading="lazy">
+  <figcaption>Reciprocal and exponential curves approach their asymptotes but never cross or touch them.</figcaption>
 </figure>
 
 

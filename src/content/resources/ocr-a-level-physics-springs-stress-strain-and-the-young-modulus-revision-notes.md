@@ -117,11 +117,6 @@ Key points: the diameter is the largest source of uncertainty because A ∝ d²,
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/as-physics-deformation-of-solids--03-elastic-energy-area.webp" width="900" height="990" alt="The area under a straight force-extension line is a triangle: 0.5 x 7.2 x 0.045 = 0.162 J. Doubling the extension to 0.090 m gives 0.648 J, four times as much." loading="lazy">
-  <figcaption>Elastic potential energy is the area under the line, E = 1/2 Fx = 1/2 kx squared.</figcaption>
-</figure>
-
-<figure class="topic-figure">
   <img src="https://img.marlbridge.com/as-physics-deformation-of-solids--04-loading-unloading.webp" width="900" height="960" alt="Loading a metal strip to 36 N at 0.100 m does 2.08 J of work. Unloading runs parallel to the first line and reaches zero force at 0.028 m, the permanent extension. 1.30 J is recovered and 0.78 J is dissipated as heat." loading="lazy">
   <figcaption>After plastic deformation the unloading line is parallel to the first line, leaving a permanent extension and wasted energy.</figcaption>
 </figure>
@@ -187,6 +182,12 @@ For a metal loaded past its elastic limit, the unloading line is approximately p
 10. k = EA/L = 1.2 × 10¹¹ × 0.80 × 10⁻⁶ / 3.0 = 3.2 × 10⁴ N m⁻¹.
 11. The wire may not be uniform or perfectly circular. A is proportional to d², so any error in d is doubled in A. Averaging reduces this.
 12. The rubber band's graph is a curve, not a straight line, and the unloading curve lies below the loading curve. The loop between them represents energy dissipated as thermal energy.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/as-physics-deformation-of-solids--03-elastic-energy-area.webp" width="900" height="990" alt="The area under a straight force-extension line is a triangle: 0.5 x 7.2 x 0.045 = 0.162 J. Doubling the extension to 0.090 m gives 0.648 J, four times as much." loading="lazy">
+  <figcaption>Elastic potential energy is the area under the line, E = 1/2 Fx = 1/2 kx squared.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

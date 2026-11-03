@@ -86,6 +86,52 @@ intervenes -- vaccination, antibiotics, and the drug-development process.
   deterring herbivores); mechanical adaptations (thorns, hairs, leaf curling, mimicry)
 
 <figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-diseases-and-immunity--02-defences.webp" width="900" height="980" alt="Schematic body with five numbered defences: 1 skin as the outline, a physical barrier; 2 nose hairs, in a magnified circle, trap dust and pathogens; 3 sticky mucus traps pathogens in the airways; 4 stomach acid kills pathogens in food and drink; 5 white blood cells in a vessel engulf pathogens and make antibodies. Defences 1 to 4 act before the blood." loading="lazy">
+  <figcaption>Four barriers act before pathogens reach the blood; white blood cells deal with those that get in.</figcaption>
+</figure>
+
+
+## How to approach it
+
+Learn the seven named disease examples (measles, HIV, TMV, salmonella, gonorrhoea, rose black spot,
+malaria -- across four pathogen types) as a fixed set with their pathogen type, spread method and
+key symptoms, since exam questions frequently ask you to identify or compare across this named list. The
+clinical trials sequence -- preclinical, then low-dose clinical, then optimum-dose clinical, with
+double-blind placebo trials -- is a common structured-question topic, so learn it as an ordered sequence
+rather than a list of unordered facts.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-biology-infection-and-response--09-plant-defences.webp" width="900" height="1140" alt="Physical barriers: waxy cuticle, cellulose cell walls, bark. Chemical defences: antibacterial chemicals and poisons. Mechanical adaptations: thorns, hairs, leaf curling and mimicry (not drawn)." loading="lazy">
+  <figcaption>Plants defend themselves physically, chemically and mechanically.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-diseases-and-immunity--01-transmission.webp" width="900" height="1000" alt="Six icon cards. Direct: touching an infected wound; blood and body fluids such as sharing needles. Indirect: contaminated surfaces such as a door handle, food such as undercooked meat, animals such as flies and rats, and air in droplets breathed out with a respiratory infection. Red-brown dots are pathogens." loading="lazy">
+  <figcaption>Pathogens pass directly between hosts or indirectly via surfaces, food, animals and air.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-drugs--02-antibiotic-treatment.webp" width="900" height="1010" alt="Three steps. Bacteria reproduce and the infection grows; an antibiotic kills most of them, leaving a few; the immune system deals with the remainder and the person recovers." loading="lazy">
+  <figcaption>An antibiotic kills bacteria so the immune system can clear the rest.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-drugs--04-resistance-develops.webp" width="900" height="1290" alt="Extended. Four steps of natural selection in bacteria: one of ten bacteria has a random mutation making it resistant; the antibiotic kills the nine non-resistant ones; the survivor divides and passes on the gene; later all bacteria are resistant and the antibiotic no longer works." loading="lazy">
+  <figcaption>The antibiotic selects resistant bacteria that already exist; it does not cause the mutation.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-drugs--05-only-when-essential.webp" width="900" height="1010" alt="Extended. A cold or flu (virus) and a minor bacterial infection the body clears itself do not need antibiotics; a serious bacterial infection does. Fewer uses mean fewer chances to select resistant bacteria, so antibiotics keep working." loading="lazy">
+  <figcaption>Using antibiotics only when essential gives resistant bacteria fewer chances to be selected.</figcaption>
+</figure>
+
+
+## Official syllabus
+
+AQA GCSE Biology (8461) specification, first teaching September 2016 --
+[aqa.org.uk](https://www.aqa.org.uk/subjects/biology/gcse/biology-8461/specification/subject-content/infection-and-response).
+
+<figure class="topic-figure">
   <img src="https://img.marlbridge.com/aqa-gcse-biology-infection-and-response--07-mab-production.webp" width="900" height="1060" alt="Higher tier only. A mouse lymphocyte is fused with a tumour cell to form a hybridoma cell. The hybridoma divides into many identical cells, which produce one specific antibody." loading="lazy">
   <figcaption>Hybridoma cells make a single specific (monoclonal) antibody.</figcaption>
 </figure>
@@ -115,31 +161,11 @@ intervenes -- vaccination, antibiotics, and the drug-development process.
   <figcaption>Malaria passes between people by mosquito; stop breeding and use nets.</figcaption>
 </figure>
 
-
-## How to approach it
-
-Learn the seven named disease examples (measles, HIV, TMV, salmonella, gonorrhoea, rose black spot,
-malaria -- across four pathogen types) as a fixed set with their pathogen type, spread method and
-key symptoms, since exam questions frequently ask you to identify or compare across this named list. The
-clinical trials sequence -- preclinical, then low-dose clinical, then optimum-dose clinical, with
-double-blind placebo trials -- is a common structured-question topic, so learn it as an ordered sequence
-rather than a list of unordered facts.
-
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/aqa-gcse-biology-infection-and-response--09-plant-defences.webp" width="900" height="1140" alt="Physical barriers: waxy cuticle, cellulose cell walls, bark. Chemical defences: antibacterial chemicals and poisons. Mechanical adaptations: thorns, hairs, leaf curling and mimicry (not drawn)." loading="lazy">
-  <figcaption>Plants defend themselves physically, chemically and mechanically.</figcaption>
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-biology-infection-immunity-vaccination-and-antibiotics--05-white-cell-defences.webp" width="900" height="1060" alt="Phagocytosis: a white cell takes in a pathogen. Antibodies: Y-shaped proteins bind the matching pathogen only. Antitoxins: attach to toxins released by bacteria." loading="lazy">
+  <figcaption>Antibodies act on the pathogen; antitoxins act on the toxin.</figcaption>
 </figure>
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-biology-0610-diseases-and-immunity--01-transmission.webp" width="900" height="1000" alt="Six icon cards. Direct: touching an infected wound; blood and body fluids such as sharing needles. Indirect: contaminated surfaces such as a door handle, food such as undercooked meat, animals such as flies and rats, and air in droplets breathed out with a respiratory infection. Red-brown dots are pathogens." loading="lazy">
-  <figcaption>Pathogens pass directly between hosts or indirectly via surfaces, food, animals and air.</figcaption>
-</figure>
-
-
-## Official syllabus
-
-AQA GCSE Biology (8461) specification, first teaching September 2016 --
-[aqa.org.uk](https://www.aqa.org.uk/subjects/biology/gcse/biology-8461/specification/subject-content/infection-and-response).
 
 ## The named diseases, organised by pathogen type
 
@@ -194,12 +220,6 @@ extra named plant diseases: the specification restricts knowledge of specific pl
 virus), black spot (a fungus) and aphids (insect pests, not pathogens) -- but detection, identification,
 ion deficiencies and plant defence responses are still required content.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/aqa-gcse-biology-infection-and-response--08-mab-cancer-targeting.webp" width="900" height="960" alt="Higher tier only. An antibody carrying a drug or radioactive substance fits antigens on a cancer cell and delivers it there, but does not bind a healthy cell. Other uses: pregnancy tests, measuring hormone levels, research with a fluorescent dye." loading="lazy">
-  <figcaption>A monoclonal antibody delivers treatment only to cancer cells.</figcaption>
-</figure>
-
-
 ## Quick revision checklist
 
 - Name each of the seven diseases with its pathogen type, spread method and key symptoms.
@@ -210,3 +230,24 @@ ion deficiencies and plant defence responses are still required content.
   trials.
 - (Higher Tier, Biology only) Describe how monoclonal antibodies are produced and used, and how plant
   diseases are detected, identified and defended against.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-biology-infection-and-response--08-mab-cancer-targeting.webp" width="900" height="960" alt="Higher tier only. An antibody carrying a drug or radioactive substance fits antigens on a cancer cell and delivers it there, but does not bind a healthy cell. Other uses: pregnancy tests, measuring hormone levels, research with a fluorescent dye." loading="lazy">
+  <figcaption>A monoclonal antibody delivers treatment only to cancer cells.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-diseases-and-immunity--04-antigen.webp" width="900" height="1090" alt="Extended. A pathogen has antigens with specific shapes. An antibody with a complementary shape fits and binds them; an antigen of a different shape does not fit, so there is no binding. Binding leads to direct destruction of the pathogen, or to marking it for destruction by a phagocyte." loading="lazy">
+  <figcaption>An antibody binds only the antigen whose shape is complementary to it.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-diseases-and-immunity--05-vaccination-memory.webp" width="900" height="1130" alt="Extended. Three steps: weakened pathogens or antigens go in; lymphocytes make antibodies; memory cells give long-term immunity. A sketch graph of antibody level against time shows a slow, small first response and, on meeting the same pathogen again, a fast, large second response." loading="lazy">
+  <figcaption>Memory cells make the second response faster and larger.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-drugs--03-bacterium-vs-virus.webp" width="900" height="1010" alt="A bacterium is a living cell with cell wall, cell membrane, cytoplasm and a DNA loop, giving an antibiotic something to act on. A virus is a protein coat around genetic material, not a cell, so an antibiotic has nothing to act on." loading="lazy">
+  <figcaption>Antibiotics need cell structures to act on, so they work on bacteria and not on viruses.</figcaption>
+</figure>
+

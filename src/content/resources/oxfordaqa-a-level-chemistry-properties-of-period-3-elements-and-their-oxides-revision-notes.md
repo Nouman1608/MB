@@ -105,6 +105,11 @@ Oxides, lowest to highest melting point: SO₂ < SO₃ < P₄O₁₀ < Na₂O < 
 4. Link stronger forces to more energy needed, so higher melting point.
 
 <figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-periodicity--04-ie-dips.webp" width="900" height="780" alt="Orbital box diagrams show Mg with a full 3s and Al with one 3p electron, and P with three unpaired 3p electrons against S with one paired 3p orbital. The circled electron is the one removed first: a higher-energy 3p electron in Al, and a repelled paired electron in S." loading="lazy">
+  <figcaption>Al is lower than Mg because 3p is higher in energy than 3s, and S is lower than P because of repulsion in a paired 3p orbital (OCR and OxfordAQA; AQA names the dips and teaches the reason under atomic structure).</figcaption>
+</figure>
+
+<figure class="topic-figure">
   <img src="https://img.marlbridge.com/aqa-a-level-chemistry-periodicity--06-melting-points.webp" width="900" height="860" alt="A bar chart of melting points in kelvin for Na to Ar is coloured by structure. Si (giant covalent) is the tallest bar at 1687 K and Ar (single atoms) is the lowest at 84 K. The metals rise from Na to Al and the molecular elements are low." loading="lazy">
   <figcaption>Melting point rises from Na to a peak at Si, then falls sharply to the molecular elements and argon.</figcaption>
 </figure>

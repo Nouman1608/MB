@@ -91,6 +91,12 @@ cos θ = 1/2  (cos θ = 2 is impossible)
 θ = 60° or 300°
 ```
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-mathematics-reciprocal-and-inverse-trig-functions-identities--07-sin-sum-proof.webp" width="900" height="880" alt="Triangle XYZ is split by a perpendicular ZW into angles A and B. Its area is ½pq sin(A+B) and also ½ph sin A + ½qh sin B; with h = q cos B = p cos A this gives sin(A+B) = sin A cos B + cos A sin B." loading="lazy">
+  <figcaption>The area of one triangle, written two ways, proves the sin(A + B) formula.</figcaption>
+</figure>
+
+
 ## Small worked reminders
 
 ### Using the identities to find a missing value
@@ -136,6 +142,12 @@ x = π + π/6 = 7π/6      x = 2π − π/6 = 11π/6
 ### A shifted angle in radians
 
 Solve tan(x − π/4) = 1 for 0 ≤ x ≤ 2π. The bracket lies between −π/4 and 7π/4. The tangent equals 1 at π/4 and 5π/4 inside that range, so x = π/2 and 3π/2.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-mathematics-reciprocal-and-inverse-trig-functions-identities--02-cot-graph.webp" width="900" height="880" alt="Cotangent from 0 to 2π with tangent dotted. Asymptotes at 0, π and 2π; each branch falls and crosses zero at π/2 and 3π/2, where tangent is undefined. Period π." loading="lazy">
+  <figcaption>Cot x falls in every branch, has period π and equals 0 where tan x is undefined.</figcaption>
+</figure>
+
 
 ### A quadratic with a sine
 
@@ -243,6 +255,12 @@ Answer without looking at the answers. Intervals are 0° ≤ θ ≤ 360° unless
 - Mixing degrees and radians within one question.
 - In a "show that", skipping the substitution line so the link to the given result is not visible.
 - Writing sin²θ as sin θ² or sin(θ²) in the working.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-mathematics-reciprocal-and-inverse-trig-functions-identities--01-reciprocal-sec-cosec.webp" width="900" height="1130" alt="Two graphs from −π to 2π. Secant (copper) has asymptotes where cosine is zero and touches cosine at its maximum and minimum values 1 and −1; none of it lies between −1 and 1. Cosecant is the same idea built from sine, with asymptotes at 0, π and 2π." loading="lazy">
+  <figcaption>A reciprocal graph has asymptotes where the original is zero and touches it where the original is ±1.</figcaption>
+</figure>
+
 
 ## Official syllabus
 

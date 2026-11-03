@@ -40,6 +40,11 @@ Match each characteristic to a function. Acceptable and divisible serve exchange
 **Narrow and broad.** Notes and coins 25, current accounts 95, savings 210, time deposits 70. Narrow = 25 + 95 = 120. Broad = 120 + 210 + 70 = 400. Moving 40 from current to savings: narrow 80, broad 400.
 
 <figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-money-banks-and-the-determination-of-interest-rates--01-barter-vs-money-rates.webp" width="900" height="890" alt="Two network diagrams of 8 goods. With barter every pair of goods needs its own exchange rate: 8 × 7 ÷ 2 = 28 lines. With money as a common unit each good has one price: 8 lines to a hub marked Money. A bar comparison for 40 goods shows 780 barter rates (40 × 39 ÷ 2) against 40 prices." loading="lazy">
+  <figcaption>With 8 goods barter needs 28 exchange rates but money needs only 8 prices; with 40 goods it is 780 rates against 40 prices.</figcaption>
+</figure>
+
+<figure class="topic-figure">
   <img src="https://img.marlbridge.com/ocr-a-level-economics-money-banks-and-the-determination-of-interest-rates--02-store-of-value-erosion.webp" width="900" height="870" alt="Bar chart of the buying power, in today’s prices, of 2,000 units of money kept for four years while prices rise 3% a year: 2,000 today, 1,942 after year 1, 1,885 after year 2, 1,830 after year 3 and 1,777 after year 4, a loss of 223. High inflation weakens money as a store of value." loading="lazy">
   <figcaption>At 3% inflation 2,000 units under a mattress buy only 1,777 units’ worth after 4 years, a loss of 223.</figcaption>
 </figure>
@@ -91,6 +96,12 @@ Match each characteristic to a function. Acceptable and divisible serve exchange
 | Direction | Money supply set by reserves | Money supply responds to demand for credit |
 | Repayment | Not considered | Repaying a loan removes a deposit, so money is destroyed |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-money-banks-and-the-determination-of-interest-rates--04-loan-first-credit-creation.webp" width="900" height="1000" alt="Step 1: a bank agrees a loan of 100 and credits the borrower’s account, so an asset (loan, +100) and a liability (deposit, +100) appear together. Step 2: the bank checks its reserves. Reserves of 90 against deposits of 600 are 15%; after the loan, deposits are 700 and 90 ÷ 700 = 12.9%, below a 15% target. To restore 15% it needs 105 of reserves, a shortfall of 15." loading="lazy">
+  <figcaption>A 100 loan creates a 100 deposit, cutting the reserve ratio from 15% to 12.9% and leaving the bank 15 short of reserves.</figcaption>
+</figure>
+
+
 ## Interest rate determination
 
 **Liquidity preference theory** (money market).
@@ -120,22 +131,6 @@ Match each characteristic to a function. Acceptable and divisible serve exchange
 | Demand | Money held | Borrowing |
 | Emphasis | Short run | Link to saving and investment |
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ocr-a-level-economics-money-banks-and-the-determination-of-interest-rates--12-money-liquidity-preference.webp" width="900" height="970" alt="Two money market diagrams with vertical money supply and downward-sloping money demand Md = 300 minus 20r. Ms 220 gives 4%; Ms 260 gives 2%; a shift of demand to 340 minus 20r with Ms 220 gives 6%." loading="lazy">
-  <figcaption>Ms = 220 gives 4%; more money lowers the rate to 2%; higher money demand raises it to 6%.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ocr-a-level-economics-money-banks-and-the-determination-of-interest-rates--13-money-loanable-funds.webp" width="900" height="1150" alt="Loanable funds supply Qs = 40 + 8r and demand Qd = 120 - 12r meet at 4% and 72. At 3% demand 84 exceeds supply 64; at 5% supply 80 exceeds demand 60. Higher saving gives 3.2% and 81.6; lower business confidence gives 3% and 64." loading="lazy">
-  <figcaption>Saving and borrowing meet at 4% and 72 units; more saving gives 3.2%, weaker confidence 3%.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ocr-a-level-economics-money-banks-and-the-determination-of-interest-rates--05-bond-price-and-yield.webp" width="900" height="900" alt="Graph of yield against bond price for a bond paying a fixed 5 a year. Yield = 5 divided by price, so a price of 80 gives 6.25%, a price of 100 gives 5% and a price of 125 gives 4%. A higher price means a lower yield. When people buy bonds the price rises and the yield, the interest rate, falls." loading="lazy">
-  <figcaption>A bond paying 5 a year yields 6.25% at a price of 80, 5% at 100 and 4% at 125, so rising bond prices mean falling interest rates.</figcaption>
-</figure>
-
-
 ## Diagram checklist
 
 Draw both interest rate diagrams with the interest rate on the vertical axis.
@@ -154,6 +149,27 @@ Draw both interest rate diagrams with the interest rate on the vertical axis.
 | Firms become more optimistic | Demand shifts right | Rate rises, more funds lent |
 
 Always label both axes, both curves, the original and new equilibrium and the arrow showing the direction of the shift.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-money-banks-and-the-determination-of-interest-rates--12-money-liquidity-preference.webp" width="900" height="970" alt="Two money market diagrams with vertical money supply and downward-sloping money demand Md = 300 minus 20r. Ms 220 gives 4%; Ms 260 gives 2%; a shift of demand to 340 minus 20r with Ms 220 gives 6%." loading="lazy">
+  <figcaption>Ms = 220 gives 4%; more money lowers the rate to 2%; higher money demand raises it to 6%.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-money-banks-and-the-determination-of-interest-rates--13-money-loanable-funds.webp" width="900" height="1150" alt="Loanable funds supply Qs = 40 + 8r and demand Qd = 120 - 12r meet at 4% and 72. At 3% demand 84 exceeds supply 64; at 5% supply 80 exceeds demand 60. Higher saving gives 3.2% and 81.6; lower business confidence gives 3% and 64." loading="lazy">
+  <figcaption>Saving and borrowing meet at 4% and 72 units; more saving gives 3.2%, weaker confidence 3%.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-money-banks-and-the-determination-of-interest-rates--05-bond-price-and-yield.webp" width="900" height="900" alt="Graph of yield against bond price for a bond paying a fixed 5 a year. Yield = 5 divided by price, so a price of 80 gives 6.25%, a price of 100 gives 5% and a price of 125 gives 4%. A higher price means a lower yield. When people buy bonds the price rises and the yield, the interest rate, falls." loading="lazy">
+  <figcaption>A bond paying 5 a year yields 6.25% at a price of 80, 5% at 100 and 4% at 125, so rising bond prices mean falling interest rates.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-economics-microeconomic-decision-makers--02-central-and-commercial-banks.webp" width="900" height="1090" alt="A central bank sets the base interest rate for commercial banks. Households and firms deposit money with commercial banks and receive loans from them." loading="lazy">
+  <figcaption>The central bank sets the base rate; commercial banks take deposits and make loans.</figcaption>
+</figure>
+
 
 ## Inflation and the nominal interest rate
 
@@ -185,17 +201,6 @@ Always label both axes, both curves, the original and new equilibrium and the ar
 
 **Judgement.** Strongest over the long run and at high inflation. Weakest in the short run and when there is spare capacity. Always say which assumption fails and what happens to P as a result.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ocr-a-level-economics-money-banks-and-the-determination-of-interest-rates--14-money-equation-of-exchange.webp" width="900" height="980" alt="Bars show MV equal to PT: 450 times 6 equals 3.00 times 900, both 2,700; after M rises 10% both become 2,970 and P is 3.30. Growth-rate examples show prices rising 2.76% or only 1.4% when V and T change." loading="lazy">
-  <figcaption>MV = PT always holds; the quantity theory only follows if V and T are constant.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/aqa-gcse-economics-how-markets-work--09-barter-and-money.webp" width="900" height="1250" alt="Three people each have goods the next person does not want, so barter fails. With money, each is paid in pounds and then buys what they want, so trade works." loading="lazy">
-  <figcaption>Money removes the need for a double coincidence of wants.</figcaption>
-</figure>
-
-
 ## Quick self-test
 
 1. Among 9 goods, how many separate exchange rates would barter need, and how many prices would a money economy need?
@@ -225,6 +230,16 @@ Always label both axes, both curves, the original and new equilibrium and the ar
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/ocr-a-level-economics-money-banks-and-the-determination-of-interest-rates--11-money-credit-creation.webp" width="900" height="950" alt="Four rounds of lending from a 750 deposit with a 15% reserve ratio: lent amounts 637.50, 541.88, 460.59 and 391.50. Deposits approach a maximum of 5,000, a multiplier of 6.67. With 10% cash leakage the limit is 3,000." loading="lazy">
   <figcaption>With a 15% reserve ratio, 750 of cash can support at most 5,000 of deposits (3,000 with a 10% cash leakage).</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-money-banks-and-the-determination-of-interest-rates--14-money-equation-of-exchange.webp" width="900" height="980" alt="Bars show MV equal to PT: 450 times 6 equals 3.00 times 900, both 2,700; after M rises 10% both become 2,970 and P is 3.30. Growth-rate examples show prices rising 2.76% or only 1.4% when V and T change." loading="lazy">
+  <figcaption>MV = PT always holds; the quantity theory only follows if V and T are constant.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-how-markets-work--09-barter-and-money.webp" width="900" height="1250" alt="Three people each have goods the next person does not want, so barter fails. With money, each is paid in pounds and then buys what they want, so trade works." loading="lazy">
+  <figcaption>Money removes the need for a double coincidence of wants.</figcaption>
 </figure>
 
 

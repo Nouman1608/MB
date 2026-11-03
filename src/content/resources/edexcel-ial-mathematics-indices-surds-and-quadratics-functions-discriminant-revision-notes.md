@@ -46,6 +46,17 @@ Example: 1024^(3/10) = (¹⁰√1024)³ = 2³ = 8
 
 **Method: solve x^(p/q) = k.** Raise both sides to the power q/p. Example: x^(−1/2) = 1/6 gives x^(1/2) = 6, so x = 36.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-rational-indices-and-surds--01-root-then-power.webp" width="900" height="880" alt="Three step-by-step pipelines. 64 to the 2/3: cube root gives 4, square gives 16. 1296 to the 3/4: fourth root gives 6, cube gives 216. (27/8) to the minus 2/3: flip to 8/27, cube root gives 2/3, square gives 4/9. A note reminds that 2 to the minus 3 is 1/8, not minus 8." loading="lazy">
+  <figcaption>For a fractional index take the root first, then the power; a negative index flips the fraction.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-rational-indices-and-surds--02-same-base-indices.webp" width="900" height="920" alt="Two straight lines show the indices of 3 on each side of 9^(x+1) = 27^(2x-1): 2x+2 and 6x-3. They cross at x = 5/4 where both equal 4.5, which is the solution." loading="lazy">
+  <figcaption>When both sides are powers of the same base, equate the indices.</figcaption>
+</figure>
+
+
 ## 1.2 Surds: key results
 
 | Rule | Example |
@@ -79,6 +90,12 @@ Result: 6/2 = 3
 ```
 10(√7 + √2) / (7 − 2) = 10(√7 + √2)/5 = 2√7 + 2√2
 ```
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-rational-indices-and-surds--04-like-surds.webp" width="900" height="760" alt="Bars built from blocks each of length root 2: root 50 is 5 blocks, root 98 is 7 blocks and 3 root 8 is 6 blocks taken away. 5 + 7 - 6 leaves 6 blocks, so the sum is 6 root 2." loading="lazy">
+  <figcaption>Surds with the same root combine like algebraic terms.</figcaption>
+</figure>
+
 
 ## 1.3 Quadratic graphs
 
@@ -263,12 +280,6 @@ Do these without notes, by hand where you can.
 - Writing a decimal when an exact answer in surd form is requested.
 - Setting the discriminant greater than zero when the question says "no real roots", or stopping before solving for k.
 - Sketching a parabola with no coordinates labelled, or with a turning point not on the axis of symmetry.
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-rational-indices-and-surds--01-root-then-power.webp" width="900" height="880" alt="Three step-by-step pipelines. 64 to the 2/3: cube root gives 4, square gives 16. 1296 to the 3/4: fourth root gives 6, cube gives 216. (27/8) to the minus 2/3: flip to 8/27, cube root gives 2/3, square gives 4/9. A note reminds that 2 to the minus 3 is 1/8, not minus 8." loading="lazy">
-  <figcaption>For a fractional index take the root first, then the power; a negative index flips the fraction.</figcaption>
-</figure>
-
 
 ## Official syllabus
 

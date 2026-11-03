@@ -171,6 +171,21 @@ Moving from F to C is not growth. It is better use of existing resources.
   <figcaption>Outward shifts come from more or better resources and technology; inward shifts from destruction or loss.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-basic-economic-problem--05-ppc-points.webp" width="900" height="1080" alt="An illustrative PPC with Food and Machines axes. A on the curve means all resources fully used, B inside means idle or wasted resources, C beyond the curve cannot be reached with current resources." loading="lazy">
+  <figcaption>Points inside, on and beyond the PPC show how well resources are used.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-basic-economic-problem--06-ppc-movement-opportunity-cost.webp" width="900" height="1050" alt="Three points on a PPC. Moving from 1 to 2 gains 20 Food and gives up 20 Machines; moving from 2 to 3 gains another 20 Food but gives up 60 Machines. Each extra unit of Food costs more Machines, which is why the curve bows outwards." loading="lazy">
+  <figcaption>Moving along a PPC reallocates resources, and the opportunity cost rises.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-basic-economic-problem--07-ppc-shift-vs-movement.webp" width="900" height="1190" alt="Top: a point inside the curve moves to the curve by using idle resources more fully; this is temporary, reversible and not economic growth on this syllabus. Bottom: the whole curve shifts outward because of more or better resources or better technology, a permanent increase in capacity, which is economic growth." loading="lazy">
+  <figcaption>Only an outward shift of the whole curve counts as economic growth.</figcaption>
+</figure>
+
 
 ## 5 Specialisation, money and financial markets
 
@@ -210,6 +225,16 @@ Together these make specialisation workable: workers sell output for money and b
   <figcaption>Forward contracts give price certainty; equities pay a dividend and a possible capital gain.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-economics-production-and-business-costs--04-division-of-labour.webp" width="900" height="960" alt="Top: one worker does four tasks in turn. Below: four workers each do one task and pass the work on. The advantage for the firm is faster output; the disadvantage for workers is boredom and over-specialisation. Answers should give both sides." loading="lazy">
+  <figcaption>Splitting a job into tasks speeds up output but can leave workers bored and over-specialised.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-economics-microeconomic-decision-makers--01-functions-of-money.webp" width="900" height="850" alt="Four panels: goods swapped for money (medium of exchange), bread and shoes priced in one unit (unit of account), coins saved in a jar to spend later (store of value), and a debt of 50 paid at a later date (deferred payment)." loading="lazy">
+  <figcaption>Money acts as a medium of exchange, unit of account, store of value and standard for deferred payment.</figcaption>
+</figure>
+
 
 ## 6 Free market, mixed and command economies
 
@@ -226,6 +251,12 @@ Together these make specialisation workable: workers sell output for money and b
 **Role of the state in a mixed economy.** The state provides public goods and many merit goods, corrects externalities by regulation and taxes, promotes competition, redistributes income through taxes and benefits, manages overall demand and sometimes owns firms.
 
 In Country B (illustrative), the state spends 180 of a national income of 500, or 36%. Real economies sit on a spectrum and are rarely purely one system.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-economics-basic-economic-ideas-and-resource-allocation--02-economic-systems.webp" width="900" height="990" alt="Three questions, what, how and for whom, are answered in different ways. In a market economy prices and firms decide, in a planned economy the state decides, and a mixed economy shares decisions between both." loading="lazy">
+  <figcaption>Market, planned and mixed economies differ in who answers what, how and for whom.</figcaption>
+</figure>
+
 
 ## Common errors
 

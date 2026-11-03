@@ -185,12 +185,6 @@ For evaluation, weigh the size of the shift, how long it lasts, how far spare ca
 
 Investment depends on the **rate of change** of output, not its level. If output keeps rising but at a slower rate, net investment falls. If output is constant, net investment is zero. This makes investment volatile. No calculation is required on this point.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/aqa-a-level-economics-aggregate-demand-supply--06-accelerator.webp" width="900" height="1000" alt="Output rises every year over six years while net investment, equal to 2 times the change in output, rises then falls to 20 and 10 once growth slows. Investment depends on the rate of change of demand, not only its level." loading="lazy">
-  <figcaption>When demand growth slows, net investment can fall even though output is still rising.</figcaption>
-</figure>
-
-
 ## Quick self-test
 
 1. Nominal national income is 1,248 in year 2 with a price index of 104 (year 1 index 100). Find real income in year 2.
@@ -216,6 +210,12 @@ Investment depends on the **rate of change** of output, not its level. If output
 8. **Exports.**
 9. Any one: it ignores income distribution, unpaid work, leisure or environmental damage.
 10. Net investment depends on the change in output. If growth slows, less new capital is needed, so net investment falls.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-aggregate-demand-supply--06-accelerator.webp" width="900" height="1000" alt="Output rises every year over six years while net investment, equal to 2 times the change in output, rises then falls to 20 and 10 once growth slows. Investment depends on the rate of change of demand, not only its level." loading="lazy">
+  <figcaption>When demand growth slows, net investment can fall even though output is still rising.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

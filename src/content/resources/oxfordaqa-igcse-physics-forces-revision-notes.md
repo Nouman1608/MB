@@ -138,6 +138,16 @@ Momentum is conserved in a closed system and is a **vector**, so opposite direct
   <figcaption>Two trolleys bounce apart and the momentum bars before and after both total +0.76 kg m/s.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-physics-momentum-collisions-and-safety-in-road-transport--01-longer-time-smaller-force.webp" width="900" height="900" alt="Three pairs of bars: catch 280 N vs 60 N, dummy 35 000 N vs 8750 N, child 5000 N vs 500 N. Each pair has the same momentum change; only the stopping time differs, and bar lengths are to scale within each pair." loading="lazy">
+  <figcaption>The same momentum change over a longer time means a smaller force.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-physics-momentum-collisions-and-safety-in-road-transport--02-safety-features-where-they-sit.webp" width="900" height="900" alt="A car in side view shows the air bag, seat belt, front and rear crumple zones and the side impact bar. Three small pictures show a crash mat, a soft playground surface and a cycle helmet with crushing foam." loading="lazy">
+  <figcaption>Each safety feature gives a longer stopping time, so the force is smaller.</figcaption>
+</figure>
+
 
 ## Stopping distance
 
@@ -149,6 +159,17 @@ Thinking distance rises with speed, tiredness, alcohol and distraction. Braking 
 
 **Braking distance increases with the square of speed**, because kinetic energy is proportional to v². Doubling speed quadruples braking distance.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-physics-momentum-collisions-and-safety-in-road-transport--02-stopping-conditions.webp" width="900" height="1090" alt="Four scaled bars for a 950 kg car at 18 m/s: dry and alert 10.8 + 34.2 = 45.0 m; tired 19.8 + 34.2 = 54.0 m; wet road with 2700 N 10.8 + 57.0 = 67.8 m; at 36 m/s 21.6 + 136.8 = 158.4 m. Braking force times braking distance equals the 153 900 J of kinetic energy." loading="lazy">
+  <figcaption>Reaction time changes thinking distance, braking force changes braking distance, and doubling speed quadruples braking distance.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-physics-work-kinetic-gravitational-and-elastic-energy-and-power--03-braking-doubling-speed.webp" width="900" height="950" alt="Two lanes show a 1200 kg van braking with the same 6000 N force. From 10 m/s it has 60 000 J and stops in 10 m; from 20 m/s it has 240 000 J and stops in 40 m. Doubling the speed gives four times the energy and four times the braking distance." loading="lazy">
+  <figcaption>Doubling speed quadruples the kinetic energy, so the same brakes need four times the distance.</figcaption>
+</figure>
+
+
 ## Moments and stability
 
 ```
@@ -158,6 +179,17 @@ moment = force x perpendicular distance from pivot
 **Principle of moments:** in equilibrium, clockwise moments equal anticlockwise moments.
 
 An object **topples when the line of action of its weight falls outside its base**. Stability improves with a lower centre of mass and a wider base.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-physics-terminal-velocity-centre-of-mass-moments-and-levers--01-toppling-box-moment.webp" width="900" height="880" alt="A box 0.50 m wide weighs 200 N with its centre of mass 0.25 m from the tipping edge. A horizontal push acts 0.80 m above the floor. Weight gives 50 N m anticlockwise; the push gives F x 0.80 clockwise, so tipping starts at F = 62.5 N." loading="lazy">
+  <figcaption>The box starts to tip when the push moment equals the weight moment about the lower edge.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-physics-terminal-velocity-centre-of-mass-moments-and-levers--02-crowbar-force-multiplier.webp" width="900" height="930" alt="A crowbar with the load 0.15 m and the 80 N effort 1.20 m from the pivot. 80 x 1.20 = 96 N m, so the load is 640 N: the force is multiplied by 8 and the effort end moves 8 times as far." loading="lazy">
+  <figcaption>A long effort distance and a short load distance multiply the force.</figcaption>
+</figure>
+
 
 ## Hooke's law
 
@@ -191,3 +223,19 @@ Elastic potential energy stored = **area under the force–extension graph** = �
 7. Why are weight and normal contact force on a book resting on a table not a third-law pair?
 
 **Answers:** 1. Gradient is acceleration; area is distance travelled. 2. Weight causes acceleration; air resistance increases with speed; when air resistance equals weight the resultant force is zero; acceleration becomes zero so velocity is constant. 3. Braking distance depends on kinetic energy, which is proportional to v², so doubling speed quadruples it. 4. It increases the time over which the passenger's momentum changes, reducing the force since force is rate of change of momentum. 5. When the line of action of its weight falls outside the base of support. 6. a = (24 − 0) ÷ 8.0 = 3.0 m/s²; resultant F = ma = 1200 × 3.0 = 3600 N; driving force = 3600 + 400 = 4000 N. 7. They act on the **same object** (the book) — a third-law pair must act on two different bodies, so this is a first-law balance instead.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-physics-forces-hookes-law-vectors-and-distance-time-motion--08-spring-practical-results.webp" width="900" height="900" alt="Force against extension from the practical results: points up to 5 N lie on a straight line through the origin with gradient about 50 N/m; the 6 N and 7 N points fall below the extended line." loading="lazy">
+  <figcaption>The line is straight until the limit of proportionality, after which extension grows faster than force.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-physics-forces-hookes-law-vectors-and-distance-time-motion--11-elastic-or-inelastic.webp" width="900" height="880" alt="A spring is measured before, under load and after: it returns to its original length (elastic). A paper clip pulled open stays longer than its original length (inelastic)." loading="lazy">
+  <figcaption>Elastic objects return to their original shape; inelastic ones stay distorted.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-deformation-springs-and-hookes-law--03-spring-energy-area.webp" width="900" height="1000" alt="Force-extension graph for a spring of constant 20 N/m. The line rises to 2.00 N at 10.0 cm and the triangle beneath it is shaded. Its area, ½ × 2.00 × 0.100, is 0.10 J. The formula ½ke² also gives 0.10 J when the extension is in metres." loading="lazy">
+  <figcaption>Work done in stretching a spring is the area under the force-extension line.</figcaption>
+</figure>
+

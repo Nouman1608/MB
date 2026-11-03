@@ -192,22 +192,6 @@ At the social optimum the marginal external cost is 12 CU per trip, which is the
 
 Net present value is not required. A decision with positive net social benefit but large uncertain values deserves caution.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/cambridge-a-level-economics-efficiency-market-failure-and-externalities--06-ef-negative-externality.webp" width="900" height="920" alt="Diagram for a chemical works. Marginal private benefit is 90 minus 3Q, marginal private cost is 18 plus 3Q and marginal external cost is 2Q, so marginal social cost is 18 plus 5Q, which lies above MPC. The market settles where MPB equals MPC at 12 thousand tonnes and a price of 54. The social optimum is where MPB equals MSC at 9 thousand tonnes and 63. At 12 the gap between MSC and MPB is 24. The deadweight welfare loss triangle has area 36 thousand CU. The market overproduces by 3 thousand tonnes." loading="lazy">
-  <figcaption>With an external cost the market produces 12 thousand tonnes against a social optimum of 9.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/cambridge-a-level-economics-efficiency-market-failure-and-externalities--03-bypass-cba-flip.webp" width="900" height="975" alt="Stacked columns compare social benefit with social cost for a bypass in CU millions. In the base case benefits of 65 (toll 20, time 35, accidents 10) exceed costs of 62 (construction 50, noise 12), a net of +3. If the time saving is 20% lower at 28, benefits are 58 and the net is -4; the break-even time saving is 32." loading="lazy">
-  <figcaption>Counting external benefits turns a private loss into a social gain of +3, but a 20% lower time saving flips the answer to -4.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-economics-the-allocation-of-resources--06-external-costs-and-benefits.webp" width="900" height="1160" alt="A factory has private cost 10 and its smoke harms neighbours with an external cost of 4, so social cost is 14. A vaccination has private benefit 6 and external benefit 3, so social benefit is 9. The market ignores the external parts." loading="lazy">
-  <figcaption>Social cost or benefit equals private plus external.</figcaption>
-</figure>
-
-
 ## Quick self-test
 
 1. State the condition for productive efficiency for a firm.
@@ -235,6 +219,22 @@ Net present value is not required. A decision with positive net social benefit b
 9. Cover makes the insured take more risk, so claims exceed the level the premium assumed.
 10. No. Net social benefit = 48 − 51 = −3, but check how uncertain the values are.
 11. It may price above MC (static loss) but use the profit to cut costs or create products over time.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-efficiency-market-failure-and-externalities--06-ef-negative-externality.webp" width="900" height="920" alt="Diagram for a chemical works. Marginal private benefit is 90 minus 3Q, marginal private cost is 18 plus 3Q and marginal external cost is 2Q, so marginal social cost is 18 plus 5Q, which lies above MPC. The market settles where MPB equals MPC at 12 thousand tonnes and a price of 54. The social optimum is where MPB equals MSC at 9 thousand tonnes and 63. At 12 the gap between MSC and MPB is 24. The deadweight welfare loss triangle has area 36 thousand CU. The market overproduces by 3 thousand tonnes." loading="lazy">
+  <figcaption>With an external cost the market produces 12 thousand tonnes against a social optimum of 9.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-efficiency-market-failure-and-externalities--03-bypass-cba-flip.webp" width="900" height="975" alt="Stacked columns compare social benefit with social cost for a bypass in CU millions. In the base case benefits of 65 (toll 20, time 35, accidents 10) exceed costs of 62 (construction 50, noise 12), a net of +3. If the time saving is 20% lower at 28, benefits are 58 and the net is -4; the break-even time saving is 32." loading="lazy">
+  <figcaption>Counting external benefits turns a private loss into a social gain of +3, but a 20% lower time saving flips the answer to -4.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-allocation-of-resources--06-external-costs-and-benefits.webp" width="900" height="1160" alt="A factory has private cost 10 and its smoke harms neighbours with an external cost of 4, so social cost is 14. A vaccination has private benefit 6 and external benefit 3, so social benefit is 9. The market ignores the external parts." loading="lazy">
+  <figcaption>Social cost or benefit equals private plus external.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

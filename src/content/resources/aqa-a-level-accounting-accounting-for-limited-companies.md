@@ -171,6 +171,11 @@ Total equity rises by £120,000: exactly the cash from the rights issue. The bon
   <figcaption>A rights issue raises cash; a bonus issue only moves reserves into share capital.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-accounting-for-limited-companies--09-goodwill.webp" width="900" height="980" alt="Net assets taken over at agreed values are 316,000 pounds. Larchfield pays 370,000 pounds: 150,000 shares valued at 2.20 plus 40,000 cash. The 54,000 difference is goodwill, an intangible asset tested for impairment and not amortised." loading="lazy">
+  <figcaption>Goodwill is the price paid above the fair value of the net assets bought.</figcaption>
+</figure>
+
 
 ## Statement of cash flows (IAS7, indirect method)
 

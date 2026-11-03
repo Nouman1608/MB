@@ -204,6 +204,11 @@ Rearrange V = ε − Ir to compare with y = mx + c. The gradient is −r and the
 Keep currents modest and readings short, so the cell does not overheat or run down. Use a large triangle on the line for the gradient, and read the intercept from the line, not from a data point.
 
 <figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-physics-electricity--02-iv-characteristics.webp" width="900" height="1115" alt="Four I-V graphs: a fixed resistor is a straight line through the origin; a filament lamp curves flat as it heats, with lesson data giving 10 ohm at 1.0 V and 25 ohm at 10 V; a diode conducts only above about 0.7 V forward; an NTC thermistor curve steepens as it heats." loading="lazy">
+  <figcaption>Four I–V shapes side by side, with R = V/I read at a point.</figcaption>
+</figure>
+
+<figure class="topic-figure">
   <img src="https://img.marlbridge.com/aqa-a-level-physics-electricity--03-resistivity-wire.webp" width="900" height="1255" alt="Three wires drawn to scale show that doubling the length doubles R (11.9 to 23.9 ohm) and doubling the diameter quarters it (2.98 ohm). A graph of R against L for a 0.32 mm wire has gradient 13.7 ohm per metre, so resistivity equals gradient times area, 1.1 x 10^-6 ohm metre." loading="lazy">
   <figcaption>How length and diameter change resistance, and how a graph gives resistivity.</figcaption>
 </figure>

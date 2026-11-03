@@ -154,6 +154,12 @@ Then dx = 2 cos θ dθ and √(4 − 4 sin²θ) = 2 cos θ (cos θ ≥ 0 here). 
 
 This matches the quarter circle in the trapezium example.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-maths-9709-pure-mathematics-1-integration--07-substitution-limits.webp" width="900" height="1020" alt="The area under y = x√(2x − 1) from x = 1 to 5 is 428/15. After u = 2x − 1 the integrand is ¼(u + 1)√u with limits 1 and 9, and the area is again 428/15. Converting the limits keeps the value unchanged." loading="lazy">
+  <figcaption>With a substitution, convert the limits and the definite integral keeps its value.</figcaption>
+</figure>
+
+
 ## 1.08i Integration by parts
 
 Reversing the product rule gives:
@@ -239,12 +245,6 @@ Use A/(x − 1) + B/(x + 2) + C/(x + 2)². Putting x = 1 gives A = 1. Putting x 
 - Treating the rectangle sums as the exact value rather than as bounds.
 
 Try the [free 10-minute diagnostics](/diagnostics/) to see which method to revise first.
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-level-maths-9709-pure-mathematics-1-integration--07-substitution-limits.webp" width="900" height="1020" alt="The area under y = x√(2x − 1) from x = 1 to 5 is 428/15. After u = 2x − 1 the integrand is ¼(u + 1)√u with limits 1 and 9, and the area is again 428/15. Converting the limits keeps the value unchanged." loading="lazy">
-  <figcaption>With a substitution, convert the limits and the definite integral keeps its value.</figcaption>
-</figure>
-
 
 ## Official syllabus
 

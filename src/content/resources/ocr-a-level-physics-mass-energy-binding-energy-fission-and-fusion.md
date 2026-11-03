@@ -137,6 +137,11 @@ energy released = 184 MeV
 **Worked example (fusion).** ²₁H + ³₁H → ⁴₂He + ¹₀n. Total binding energies: H-2 2.22 MeV, H-3 8.48 MeV, He-4 28.3 MeV. Released = 28.3 − (2.22 + 8.48) = **17.6 MeV**.
 
 <figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-nuclear-physics--04-aphy-nuclear-half-life.webp" width="900" height="1010" alt="Corrected count rate against time for a source starting at 800 counts per minute. The rate halves every 14 minutes whether it starts from 800 or 488, so the half-life is constant and lambda = ln 2 / 14 = 0.0495 per minute." loading="lazy">
+  <figcaption>The half-life is the same wherever on the decay curve you start.</figcaption>
+</figure>
+
+<figure class="topic-figure">
   <img src="https://img.marlbridge.com/a-physics-nuclear-physics--07-aphy-nuclear-binding-curve.webp" width="900" height="980" alt="Binding energy per nucleon rises steeply for light nuclei, peaks near iron-56 at about 8.8 MeV and falls slowly to about 7.6 MeV for uranium-235. Fusion of light nuclei and fission of heavy nuclei both move nuclei towards the peak and release energy: 17.6 MeV for deuterium plus tritium and about 184 MeV for a uranium-235 fission." loading="lazy">
   <figcaption>Both fusion and fission release energy because their products sit nearer the peak of the curve.</figcaption>
 </figure>

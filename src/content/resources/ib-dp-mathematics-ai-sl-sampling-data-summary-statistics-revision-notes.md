@@ -46,12 +46,6 @@ Links: [course hub](/boards/ib/ib-dp/mathematics-applications-and-interpretation
 - **Outlier**: a value more than 1.5 × IQR below Q₁ or above Q₃.
 - **Percentile**: the p-th percentile is the value below which p% of the data lie. Q₁ is the 25th, the median the 50th, Q₃ the 75th.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ib-dp-mathematics-ai-sl-sampling-data-summary-statistics--05-outlier-box-plot.webp" width="900" height="860" alt="Fifteen commute times: 12, 14, 15, 15, 17, 18, 19, 20, 21, 22, 23, 24, 26, 28 and 47 minutes, shown as a dot plot above a box and whisker diagram on one number line. The median is 20, Q1 is 15, Q3 is 24 and the IQR is 9, so 1.5 times the IQR is 13.5. The fences are 15 minus 13.5, which is 1.5, and 24 plus 13.5, which is 37.5. Only 47 lies beyond a fence, so it is an outlier and is marked with a cross. The box runs from 15 to 24 with a line at 20 and whiskers to 12 and 28, the last values inside the fences." loading="lazy">
-  <figcaption>A value more than 1.5 x IQR beyond a quartile is an outlier; the whisker stops at the last value inside the fence.</figcaption>
-</figure>
-
-
 ## Sampling methods at a glance
 
 | Method | Key feature | Random? |
@@ -63,17 +57,6 @@ Links: [course hub](/boards/ib/ib-dp/mathematics-applications-and-interpretation
 | Stratified | Random sample from each group, sized in proportion to the group | Yes, within groups |
 
 **Stratified sample size for a group** = (group size ÷ population size) × total sample size.
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ib-dp-mathematics-ai-sl-sampling-data-summary-statistics--01-stratified-sample.webp" width="900" height="810" alt="A gym has 450 members: 180 aged under 30, 150 aged 30 to 49 and 120 aged 50 or over. A stratified sample of 60 takes 60 over 450, which is 2 over 15, of each group at random: 180 times 2/15 is 24, 150 times 2/15 is 20 and 120 times 2/15 is 16, and 24 plus 20 plus 16 is 60. The bars of the sample have the same proportions as the bars of the population. A quota sample would use the same numbers but would not choose members at random within each group." loading="lazy">
-  <figcaption>A stratified sample takes the same fraction of every group, chosen at random within each group.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ib-dp-mathematics-ai-sl-sampling-data-summary-statistics--02-systematic-sample.webp" width="900" height="790" alt="A list of 600 names is laid out in rows of 15. To take a systematic sample of 40, the interval is 600 divided by 40, which is 15. A random start between 1 and 15 is chosen, here 7, and then every 15th name is taken: 7, 22, 37, 52 and so on up to 592, which is 40 names. The chosen names line up in one column because the interval equals the row length. The method is biased if the list has a pattern that repeats every 15 names." loading="lazy">
-  <figcaption>A systematic sample takes a random start and then every k-th name, with k equal to population size divided by sample size.</figcaption>
-</figure>
-
 
 ## Formulas and rules
 
@@ -142,6 +125,17 @@ Standard deviation and variance: **technology only**, as the guide states. At SL
 2. Compare IQRs or ranges, in context ("group B's times were more consistent").
 3. Comment on symmetry if asked. Roughly symmetric box and whiskers suggest the data may be normally distributed.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-ai-sl-sampling-data-summary-statistics--03-cumulative-frequency-quartiles.webp" width="900" height="890" alt="A cumulative frequency graph of 60 shop times. Points are plotted at the upper class boundaries: (0, 0), (10, 6), (20, 20), (30, 42), (40, 54) and (50, 60), joined by straight lines. Reading across from n over 4 which is 15 gives the lower quartile 16.4 minutes; from n over 2 which is 30 gives the median 24.5 minutes; from 3n over 4 which is 45 gives the upper quartile 32.5 minutes. The interquartile range is about 16.1 minutes." loading="lazy">
+  <figcaption>Plot running totals at upper boundaries, then read across from n/4, n/2 and 3n/4 to find the quartiles.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-ai-sl-sampling-data-summary-statistics--05-outlier-box-plot.webp" width="900" height="860" alt="Fifteen commute times: 12, 14, 15, 15, 17, 18, 19, 20, 21, 22, 23, 24, 26, 28 and 47 minutes, shown as a dot plot above a box and whisker diagram on one number line. The median is 20, Q1 is 15, Q3 is 24 and the IQR is 9, so 1.5 times the IQR is 13.5. The fences are 15 minus 13.5, which is 1.5, and 24 plus 13.5, which is 37.5. Only 47 lies beyond a fence, so it is an outlier and is marked with a cross. The box runs from 15 to 24 with a line at 20 and whiskers to 12 and 28, the last values inside the fences." loading="lazy">
+  <figcaption>A value more than 1.5 x IQR beyond a quartile is an outlier; the whisker stops at the last value inside the fence.</figcaption>
+</figure>
+
+
 ## Small worked reminders
 
 - Data 5, 8, 9, 12, 16: x̄ = 50/5 = 10; σ = 3.74 (GDC, 3 s.f.); variance = 14.
@@ -161,12 +155,6 @@ Standard deviation and variance: **technology only**, as the guide states. At SL
 - **Standard deviation vs variance**: variance is the square of the standard deviation, so its units are squared.
 - **Outlier vs error**: an outlier is defined by the 1.5 × IQR rule; whether it is an error depends on the context.
 - **Hand quartiles vs technology quartiles**: different methods exist, so a GDC or spreadsheet may give slightly different values from a hand method.
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ib-dp-mathematics-ai-sl-sampling-data-summary-statistics--04-grouped-mean-histogram.webp" width="900" height="914" alt="A frequency histogram of 60 shop times in five equal classes of width 10 minutes with frequencies 6, 14, 22, 12 and 6. Each class is represented by its mid-interval value 5, 15, 25, 35 and 45, giving fx values 30, 210, 550, 420 and 270, which total 1480. The estimated mean is 1480 divided by 60, about 24.7 minutes, marked as the balance point. The class 20 to 30 minutes has the highest frequency 22 and is the modal class. The mean is only an estimate because exact values within each class are unknown." loading="lazy">
-  <figcaption>Grouped data give only an estimate of the mean, using the mid-interval value of each class.</figcaption>
-</figure>
-
 
 ## Quick self-test
 
@@ -198,6 +186,22 @@ Standard deviation and variance: **technology only**, as the guide states. At SL
 11. **Systematic** sampling.
 12. (4 × 5 + 6 × 15)/10 = 110/10 = **11** (an estimate).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-ai-sl-sampling-data-summary-statistics--01-stratified-sample.webp" width="900" height="810" alt="A gym has 450 members: 180 aged under 30, 150 aged 30 to 49 and 120 aged 50 or over. A stratified sample of 60 takes 60 over 450, which is 2 over 15, of each group at random: 180 times 2/15 is 24, 150 times 2/15 is 20 and 120 times 2/15 is 16, and 24 plus 20 plus 16 is 60. The bars of the sample have the same proportions as the bars of the population. A quota sample would use the same numbers but would not choose members at random within each group." loading="lazy">
+  <figcaption>A stratified sample takes the same fraction of every group, chosen at random within each group.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-ai-sl-sampling-data-summary-statistics--02-systematic-sample.webp" width="900" height="790" alt="A list of 600 names is laid out in rows of 15. To take a systematic sample of 40, the interval is 600 divided by 40, which is 15. A random start between 1 and 15 is chosen, here 7, and then every 15th name is taken: 7, 22, 37, 52 and so on up to 592, which is 40 names. The chosen names line up in one column because the interval equals the row length. The method is biased if the list has a pattern that repeats every 15 names." loading="lazy">
+  <figcaption>A systematic sample takes a random start and then every k-th name, with k equal to population size divided by sample size.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-ai-sl-sampling-data-summary-statistics--04-grouped-mean-histogram.webp" width="900" height="914" alt="A frequency histogram of 60 shop times in five equal classes of width 10 minutes with frequencies 6, 14, 22, 12 and 6. Each class is represented by its mid-interval value 5, 15, 25, 35 and 45, giving fx values 30, 210, 550, 420 and 270, which total 1480. The estimated mean is 1480 divided by 60, about 24.7 minutes, marked as the balance point. The class 20 to 30 minutes has the highest frequency 22 and is the modal class. The mean is only an estimate because exact values within each class are unknown." loading="lazy">
+  <figcaption>Grouped data give only an estimate of the mean, using the mid-interval value of each class.</figcaption>
+</figure>
+
+
 ## Where marks are usually lost
 
 - Plotting cumulative frequencies at mid-interval values instead of upper class boundaries.
@@ -210,12 +214,6 @@ Standard deviation and variance: **technology only**, as the guide states. At SL
 - Comparing box plots with numbers only: each comparison needs a sentence in context about centre and about spread.
 - Calling a sample "random" when it is only systematic, quota or convenience.
 - Rounding intermediate values (such as Q₁ from a graph) too early, which moves the IQR and the outlier boundaries.
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ib-dp-mathematics-ai-sl-sampling-data-summary-statistics--03-cumulative-frequency-quartiles.webp" width="900" height="890" alt="A cumulative frequency graph of 60 shop times. Points are plotted at the upper class boundaries: (0, 0), (10, 6), (20, 20), (30, 42), (40, 54) and (50, 60), joined by straight lines. Reading across from n over 4 which is 15 gives the lower quartile 16.4 minutes; from n over 2 which is 30 gives the median 24.5 minutes; from 3n over 4 which is 45 gives the upper quartile 32.5 minutes. The interquartile range is about 16.1 minutes." loading="lazy">
-  <figcaption>Plot running totals at upper boundaries, then read across from n/4, n/2 and 3n/4 to find the quartiles.</figcaption>
-</figure>
-
 
 ## Official syllabus
 

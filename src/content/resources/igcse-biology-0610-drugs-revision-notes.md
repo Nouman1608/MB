@@ -209,15 +209,15 @@ Cover the answers and try each question first.
 - Claiming data "prove" that less antibiotic use caused a fall in resistance. Use "suggests" or "is consistent with".
 - Forgetting that resistant bacteria pass on resistance when they **reproduce** -- survival alone does not change the population.
 
+## Next steps
+
+Try the [Drugs practice questions](/resources/igcse-biology-0610-drugs-practice/), then move to topic 16 with the [Reproduction revision notes](/resources/igcse-biology-0610-reproduction-revision-notes/).
+
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/igcse-biology-0610-drugs--06-mrsa-percentages.webp" width="900" height="960" alt="Extended worked example. MRSA was 8.0% of samples in year 1 (20 of 250), 17.5% in year 2 (42 of 240) and 11.0% in year 3 (22 of 200). The percentage rose then fell; percentages are compared because the number of samples changed." loading="lazy">
   <figcaption>Compare percentages, not raw numbers, when sample sizes differ.</figcaption>
 </figure>
 
-
-## Next steps
-
-Try the [Drugs practice questions](/resources/igcse-biology-0610-drugs-practice/), then move to topic 16 with the [Reproduction revision notes](/resources/igcse-biology-0610-reproduction-revision-notes/).
 
 ## Official syllabus
 

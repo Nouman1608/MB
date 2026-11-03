@@ -54,12 +54,6 @@ Also useful: [Reproduction practice questions](/resources/igcse-biology-reproduc
 - **Cross-pollination (Extended only):** transfer from an anther to the stigma of a flower on a different plant of the same species.
 - **STI:** an infection transmitted through sexual contact.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-biology-0610-reproduction--04-pollen-tube.webp" width="900" height="960" alt="Section through a carpel: pollen lands on the stigma (pollination), a pollen tube grows down the style, enters the ovule through the micropyle, and the pollen nucleus fuses with the ovule nucleus (fertilisation)." loading="lazy">
-  <figcaption>Follow pollen from the stigma to fertilisation in the ovule.</figcaption>
-</figure>
-
-
 ## 16.1 and 16.2 -- asexual vs sexual (must-know distinction)
 
 | | Asexual | Sexual |
@@ -118,6 +112,11 @@ Also useful: [Reproduction practice questions](/resources/igcse-biology-reproduc
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/igcse-biology-0610-reproduction--03-wind-vs-insect.webp" width="900" height="1000" alt="Two flowers compared: an insect-pollinated flower with large coloured petals, anthers and stigma inside and sticky or spiky pollen, and a wind-pollinated flower with small green petals, anthers and feathery stigma hanging outside and light smooth pollen made in huge numbers." loading="lazy">
   <figcaption>Compare the features of insect- and wind-pollinated flowers.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-reproduction--04-pollen-tube.webp" width="900" height="960" alt="Section through a carpel: pollen lands on the stigma (pollination), a pollen tube grows down the style, enters the ovule through the micropyle, and the pollen nucleus fuses with the ovule nucleus (fertilisation)." loading="lazy">
+  <figcaption>Follow pollen from the stigma to fertilisation in the ovule.</figcaption>
 </figure>
 
 

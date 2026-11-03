@@ -205,6 +205,11 @@ Manual methods: low cost, no power needed, suit few transactions. Slow, error-pr
   <figcaption>Each ratio group answers one question about the business.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-budgeting--05-profit-not-cash.webp" width="900" height="910" alt="A waterfall starts at budgeted profit of 17,700 pounds, adds back 2,000 depreciation, then subtracts the van (15,000), drawings (7,500) and higher receivables (7,500) and adds higher payables (3,600). The bank falls by 6,700, from 3,200 to a 3,500 overdraft." loading="lazy">
+  <figcaption>A profitable budget can still leave the bank overdrawn because profit is not cash.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

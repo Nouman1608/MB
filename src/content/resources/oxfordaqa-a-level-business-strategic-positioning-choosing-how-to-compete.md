@@ -158,8 +158,23 @@ Differentiated option keeps its price but loses 5% of sales:
 **Judgement.** The low cost option makes more profit in the base case, but its low contribution per bike (£260 against £490) leaves it badly exposed to price cuts. The better choice depends on whether Larchpoint really can produce more cheaply than rivals and how price-sensitive e-bike buyers are.
 
 <figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-business-types-of-strategies--02-unit-cost-capacity.webp" width="900" height="840" alt="Unit cost curves for one furnace and two furnaces with points A (1.8m bottles, 90% used, 0.60), B (3.2m, 80%, 0.54) and C (2.4m, 60%, 0.635). Growth lowers unit cost only if the new capacity is used." loading="lazy">
+  <figcaption>Unit cost falls with the second furnace only while capacity is well used.</figcaption>
+</figure>
+
+<figure class="topic-figure">
   <img src="https://img.marlbridge.com/oxfordaqa-a-level-business-types-of-strategies--04-price-war.webp" width="900" height="1020" alt="Profit bars for the low cost and differentiated e-bike options before and after a price war: 460,000 to 190,000 (down 58.7%) against 420,000 to 346,500 (down 17.5%)." loading="lazy">
   <figcaption>A low contribution per bike leaves the low cost option far more exposed to price cuts.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-business-types-of-strategies--05-decision-tree.webp" width="900" height="1120" alt="Decision tree with a decision square and two chance circles: A costs 45,000 (EV 91,500, net gain 46,500), B costs 70,000 (EV 121,500, net gain 51,500) and doing nothing is 0. B has the highest net gain." loading="lazy">
+  <figcaption>Expected value is worked from right to left, then cost is subtracted to give net gain.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-business-types-of-strategies--07-net-present-value.webp" width="900" height="890" alt="Cash flows and their present values for years 1 to 5 at 7% using the lesson discount factors; total 269,661 less 222,000 cost gives NPV +47,661." loading="lazy">
+  <figcaption>Discounting makes later cash flows worth less; NPV compares their total with the cost.</figcaption>
 </figure>
 
 
@@ -227,12 +242,6 @@ Fall = 102,000 − 35,100 = £66,900
 ## Next steps
 
 For quick recall use the [revision notes](/resources/oxfordaqa-a-level-business-strategic-positioning-choosing-how-to-compete-revision-notes/), apply them in the [practice questions](/resources/oxfordaqa-a-level-business-strategic-positioning-choosing-how-to-compete-practice/), and use [OxfordAQA A-level Business exam preparation](/resources/oxfordaqa-a-level-business-exam-preparation/) for case study technique. For AS positioning, see the [AS marketing guide](/resources/a-level-oxfordaqa-business-marketing/).
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/oxfordaqa-a-level-business-types-of-strategies--05-decision-tree.webp" width="900" height="1120" alt="Decision tree with a decision square and two chance circles: A costs 45,000 (EV 91,500, net gain 46,500), B costs 70,000 (EV 121,500, net gain 51,500) and doing nothing is 0. B has the highest net gain." loading="lazy">
-  <figcaption>Expected value is worked from right to left, then cost is subtracted to give net gain.</figcaption>
-</figure>
-
 
 ## Official syllabus
 

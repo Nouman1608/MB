@@ -76,6 +76,12 @@ can form hydrogen bonds; compound K cannot and is only weakly polar. Which has t
 The answer depends on both phases. With a much more polar solvent, J would dissolve better in the moving
 phase and its Rf value would rise. Always explain using both phases.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-nuclear-magnetic-resonance-spectroscopy--01-nmr-c13-environments.webp" width="900" height="976" alt="Skeletal drawings of pentane, 2-methylbutane and 2,2-dimethylpropane with each carbon coloured by environment. Pentane gives 3 peaks, 2-methylbutane 4 and 2,2-dimethylpropane 2. Peak positions are schematic." loading="lazy">
+  <figcaption>Symmetry-equivalent carbons give one 13C peak, so the three C5H12 isomers give 3, 4 and 2 peaks (all boards).</figcaption>
+</figure>
+
+
 ## Thin-layer chromatography (TLC)
 
 In TLC, a plate is coated with a thin layer of solid, the stationary phase. Small spots of each sample go on a
@@ -202,6 +208,11 @@ C5H12N2 : 5(12.0000) + 12(1.0078) + 2(14.0031)          = 100.0998
 ```
 
 Only **C₄H₈N₂O** matches. GC separated this component; mass spectrometry identified its formula.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-nuclear-magnetic-resonance-spectroscopy--04-nmr-integration.webp" width="900" height="990" alt="Pentan-3-one with its spectrum: quartet at 2.4 and triplet at 1.1 with an integration trace of 32 mm and 48 mm. Ratio 2:3 doubles to 4 H and 6 H." loading="lazy">
+  <figcaption>Integration step heights 32:48 = 2:3, scaled to 10 H gives 4 H and 6 H (pentan-3-one).</figcaption>
+</figure>
 
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/aqa-a-level-chemistry-nuclear-magnetic-resonance-spectroscopy--06-ms-fragmentation.webp" width="900" height="970" alt="Molecular ion m/z 72 of 2,2-dimethylpropane breaks to C4H9+ (57) and an undetected CH3 radical. Observed peaks 72, 57, 15; pentane would also give 43 and 29, drawn dashed." loading="lazy">

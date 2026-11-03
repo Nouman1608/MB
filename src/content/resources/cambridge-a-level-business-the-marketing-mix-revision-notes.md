@@ -193,22 +193,6 @@ Channels: direct; via retailer; via wholesaler then retailer.
 
 **Retailer margin reminder.** A retailer buys at £40 and sells at £65: margin £25, or 38.5% of the selling price.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/cambridge-a-level-business-the-marketing-mix--02-channel-margin.webp" width="900" height="872" alt="Two bars split an 8.40 pound tin. Online the producer keeps 6.50 after 1.90 of delivery and payment costs; via a retailer it receives 5.60 and the retailer keeps 2.80 (33.3%). On 1,000 tins that is 6,500 against 5,600, 900 less." loading="lazy">
-  <figcaption>Selling direct keeps more per tin, but a retailer may deliver far more customers.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-business-marketing--07-marketing-mix.webp" width="900" height="1230" alt="The customer sits among four linked boxes: Product, Price, Place, Promotion. Arrows show they interact. A dashed frame shows legal controls limit all four. A premium mix needs a luxury product, high price and glossy advertising. Technology adds e-commerce and social media." loading="lazy">
-  <figcaption>The four Ps work together, within legal limits.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-business-marketing--06-distribution-channels.webp" width="900" height="1060" alt="Three routes from producer to consumer: via wholesaler then retailer, via retailer only, or direct. Longer chains reach many shops but add cost; the direct route keeps the whole margin but means doing the selling yourself." loading="lazy">
-  <figcaption>Channels of distribution from producer to consumer.</figcaption>
-</figure>
-
-
 ## Quick self-test
 
 1. State two tangible attributes and two intangible attributes of a coffee shop's drink.
@@ -234,6 +218,22 @@ Channels: direct; via retailer; via wholesaler then retailer.
 8. Early buyers pay a high price, so the business recovers development costs quickly.
 9. £2,000 / 80 = £25.
 10. The retailer takes a margin, so the producer receives less per unit and has less control over how it is sold.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-business-the-marketing-mix--02-channel-margin.webp" width="900" height="872" alt="Two bars split an 8.40 pound tin. Online the producer keeps 6.50 after 1.90 of delivery and payment costs; via a retailer it receives 5.60 and the retailer keeps 2.80 (33.3%). On 1,000 tins that is 6,500 against 5,600, 900 less." loading="lazy">
+  <figcaption>Selling direct keeps more per tin, but a retailer may deliver far more customers.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-marketing--07-marketing-mix.webp" width="900" height="1230" alt="The customer sits among four linked boxes: Product, Price, Place, Promotion. Arrows show they interact. A dashed frame shows legal controls limit all four. A premium mix needs a luxury product, high price and glossy advertising. Technology adds e-commerce and social media." loading="lazy">
+  <figcaption>The four Ps work together, within legal limits.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-marketing--06-distribution-channels.webp" width="900" height="1060" alt="Three routes from producer to consumer: via wholesaler then retailer, via retailer only, or direct. Longer chains reach many shops but add cost; the direct route keeps the whole margin but means doing the selling yourself." loading="lazy">
+  <figcaption>Channels of distribution from producer to consumer.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

@@ -102,6 +102,11 @@ Even light or darkness → auxin spread evenly → stem grows straight.
   <figcaption>Nervous control is very fast and short; hormonal control is slower and longer lasting.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-coordination-and-response--02-synapse.webp" width="900" height="1010" alt="Extended. A schematic synapse: an impulse in neurone 1 makes vesicles release neurotransmitter into the synaptic gap, the molecules diffuse across, bind receptor proteins on neurone 2 and start a new impulse. Only neurone 1 releases neurotransmitter and only neurone 2 has receptors, so the impulse goes one way." loading="lazy">
+  <figcaption>Neurotransmitter crosses the gap and binds receptors, so impulses go one way only.</figcaption>
+</figure>
+
 
 ## Reflex arc (2.90)
 
@@ -111,6 +116,17 @@ heat → receptor in skin → sensory neurone → relay neurone (spinal cord)
 ```
 
 Fast because the route is short, has few synapses and bypasses conscious thought. Protects the body from harm.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-coordination-and-response--01-reflex-arc.webp" width="900" height="1000" alt="Schematic reflex arc: a pin pricks the skin, a receptor starts an impulse that travels along a sensory neurone into the spinal cord, a relay neurone, a motor neurone, then to the leg muscle (effector) which contracts. Arrowheads show impulse direction. The sensory neurone cell body sits on a short branch; the motor neurone cell body is in the cord." loading="lazy">
+  <figcaption>Follow the numbered pathway from stimulus to response.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-coordination-and-response--04-pupil-reflex.webp" width="900" height="960" alt="Two front views of the eye. Bright light: pupil narrows, less light enters. Dim light: pupil widens, more light enters. Extended panel: in bright light circular muscles contract and radial relax; in dim light radial contract and circular relax." loading="lazy">
+  <figcaption>The pupil narrows in bright light and widens in dim light because two sets of iris muscles work against each other.</figcaption>
+</figure>
+
 
 ## The eye (2.91–2.92)
 
@@ -197,6 +213,11 @@ The menstrual cycle itself is in Topic 3: see the [reproduction and inheritance 
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/edexcel-igcse-biology-4bi1-co-ordination-and-response--04-insulin-lowers-glucose.webp" width="900" height="1065" alt="High blood glucose makes the pancreas release insulin, which makes the liver and muscles convert glucose to glycogen and cells take up glucose, so blood glucose falls. Glycogen (the store) is not glucagon." loading="lazy">
   <figcaption>Insulin lowers blood glucose by turning glucose into glycogen; the lesson does not teach glucagon.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-biology-4bi1-excretion--06-adh-feedback.webp" width="900" height="1020" alt="When blood water content is too low, more ADH is released, the collecting duct becomes more permeable, more water is reabsorbed and a small volume of concentrated urine is made. When it is too high, less ADH is released and a large volume of dilute urine is made. Either way blood water content returns to normal." loading="lazy">
+  <figcaption>More ADH gives less, more concentrated urine; less ADH gives more, dilute urine.</figcaption>
 </figure>
 
 

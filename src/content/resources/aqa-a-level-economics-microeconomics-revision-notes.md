@@ -139,6 +139,21 @@ profit maximised where MC = MR
   <figcaption>A static loss can be outweighed by dynamic gains, but consumers can still end up worse off.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-oligopoly-interdependence-collusion-and-the-kinked--09-kinked-demand.webp" width="900" height="1010" alt="Kinked demand: elastic above the kink (P = 14 - 0.1Q), inelastic below (P = 30 - 0.5Q), kink at 10 pounds and 40 units. MR jumps from 6 to -10 at 40 units, so MC of 2 or 5 leaves price unchanged. Raising price lowers revenue to 330, cutting to 378." loading="lazy">
+  <figcaption>Interdependence makes price stable because MR has a gap at the kink.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-oligopoly-interdependence-collusion-and-the-kinked--11-cartel-cheating.webp" width="900" height="940" alt="Profit per firm: both keep 60 pounds, each 800 thousand. A cuts to 55 and earns 1,400 against B 175. If B matches 55 each earns 787.5, less than 800." loading="lazy">
+  <figcaption>Cheating on a cartel pays until the rival matches, leaving both worse off.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-monopoly-monopoly-power-and-price-discrimination--04-pd-two-markets.webp" width="900" height="980" alt="Two panels, MC 6 pounds. Peak demand P = 46 - Q gives 20 tickets at 26 (PED 1.3, profit 400). Off-peak P = 30 - Q gives 12 at 18 (PED 1.5, profit 144). Total 544 against 512 with one price of 22." loading="lazy">
+  <figcaption>Charging more where demand is less elastic raises profit above the single-price level.</figcaption>
+</figure>
+
 
 ## The labour market
 
@@ -149,6 +164,11 @@ Demand for labour is **derived** from demand for the product. Wage determination
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/aqa-a-level-economics-microeconomics-revision-notes--01-min-wage-monopsony.webp" width="900" height="950" alt="Illustrative graph for a care home that is the only local employer. Supply of labour S, marginal revenue product MRP and marginal cost of labour MCL are plotted. Without a floor the firm hires 6 workers where MCL meets MRP and pays 10 pounds from S. A minimum wage of 12 pounds raises employment to 8 and narrows the gap between MRP and the wage from 6 pounds to 2 pounds." loading="lazy">
   <figcaption>A minimum wage between the monopsony wage and the point where employment falls back can raise both pay and jobs.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-monopsony-and-trade-unions-in-labour-markets--06-monopsony-diagram.webp" width="900" height="960" alt="Diagram of S (wage 7 + L), MCL (6 + 2L) and MRP (28 - 2L). The monopsonist hires 5 workers where MCL meets MRP, pays 12 pounds from S, with a 6 pound gap to MRP; competition gives 7 workers at 14." loading="lazy">
+  <figcaption>A monopsonist hires where MCL = MRP but pays only what the supply curve requires.</figcaption>
 </figure>
 
 
@@ -181,3 +201,19 @@ Negative and positive externalities (in production and consumption), public good
 5. Why might a minimum wage raise employment in a monopsonistic labour market?
 
 **Answers:** 1. The more inelastic side, because it can least easily adjust quantity in response to the price change. 2. While MC is below AC it drags the average down; once MC exceeds AC it pulls the average up, so the two must cross at AC's minimum. 3. Barriers to entry prevent new firms entering to compete the profit away; in perfect competition there are none, so entry continues until only normal profit remains. 4. Allocative: P = MC. Productive: output at minimum average cost. Dynamic: innovation and efficiency improvements over time. 5. A monopsonist restricts employment below the competitive level to hold wages down; a minimum wage removes its ability to do so, allowing both wage and employment to rise.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-public-goods-and-externalities--07-negative-externality-paint.webp" width="900" height="950" alt="Graph with quantity in thousands and price in pounds. MPB slopes down; MPC and MSC slope up, MSC 6 above MPC. The market equilibrium is where MPB meets MPC at Q 5 and price 14. The social optimum is where MPB meets MSC at Q 3.5 and price 17. The triangle between them has area 4.5, a welfare loss of 4,500 pounds, because 1.5 thousand units are over-produced." loading="lazy">
+  <figcaption>The market makes 5 thousand units; the social optimum is 3.5. The welfare loss is 4.5 (£4,500).</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-public-goods-and-externalities--05-lamps-vertical-sum.webp" width="900" height="990" alt="Stacked bars for lamps 1 to 4 showing marginal benefit of households A, B and C: 30+25+20=75, 20+15+12=47, 10+8+6=24, 5+4+2=11. A dashed line at marginal cost 22 shows lamps 1 to 3 are worth building (efficient 3), lamp 4 is not. Only lamp 1 gives household A alone a benefit above 22, so voluntary payment provides 1 lamp." loading="lazy">
+  <figcaption>Benefits add up across households, so 3 lamps are worth building; voluntary payment funds only 1.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-competition-policy-public-ownership-regulation-and--10-government-failure-tax.webp" width="900" height="930" alt="Marginal private benefit, private cost and social cost with an external cost of 20. With no tax output is 40 and the welfare loss is 100. The right tax of 20 gives output 30. A tax of 40 cuts output to 20, which is too low, and the welfare loss is again 100." loading="lazy">
+  <figcaption>Intervention based on wrong information can cause as much harm as the market failure it was meant to correct.</figcaption>
+</figure>
+

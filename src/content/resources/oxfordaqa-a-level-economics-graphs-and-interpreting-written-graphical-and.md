@@ -45,12 +45,6 @@ The specification does not list which graphical forms count. This guide therefor
 | Scatter graph | Whether two variables move together | Pattern is not proof of cause |
 | Economics diagram | Price, quantity, cost or revenue relationships | Label axes, curves and equilibrium |
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-graphs-and-interpreting-written-graphical-and--04-un227-gr-choose-form.webp" width="900" height="990" alt="Six small example graphs: line graph for change over time, bar chart for comparing categories, compound bar for total and parts, pie chart for shares of one total, scatter graph for whether two variables move together, and an economics diagram for price, quantity and cost." loading="lazy">
-  <figcaption>Pick the graphical form that matches the question being asked.</figcaption>
-</figure>
-
-
 ## Constructing a graph: the checklist
 
 1. Decide the form from the question being asked.
@@ -59,6 +53,12 @@ The specification does not list which graphical forms count. This guide therefor
 4. Label both axes with the variable and the unit, for example "Real GDP growth (% per year)".
 5. Plot every point, then join them only if the data form a continuous series.
 6. Add a title and, for real data, a source. Label each line or curve directly.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-graphs-and-interpreting-written-graphical-and--04-un227-gr-choose-form.webp" width="900" height="990" alt="Six small example graphs: line graph for change over time, bar chart for comparing categories, compound bar for total and parts, pie chart for shares of one total, scatter graph for whether two variables move together, and an economics diagram for price, quantity and cost." loading="lazy">
+  <figcaption>Pick the graphical form that matches the question being asked.</figcaption>
+</figure>
+
 
 ## Worked example 1: a time series
 
@@ -193,6 +193,11 @@ A per-unit tax of 5 on suppliers shifts supply up by 5: Qs = 6(P - 5) - 30 = 6P 
   <figcaption>An unemployment rate rising from 6.0% to 7.5% is 1.5 percentage points, or 25% in relative terms.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-economics-measurement-of-macroeconomic-performance--03-index-numbers.webp" width="900" height="980" alt="Bars have widths equal to weights (food 50%, housing 30%, transport 20%) and heights equal to item indices 104, 106 and 96 against a base-year line at 100. The weighted average is 103, meaning prices are 3% above the base year." loading="lazy">
+  <figcaption>Weights make bigger spending items count more in an index anchored at 100.</figcaption>
+</figure>
+
 
 ## Interpreting written information
 
@@ -208,6 +213,11 @@ Worked example 5. An extract from Town D (illustrative) says: "After the average
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-graphs-and-interpreting-written-graphical-and--05-un227-gr-four-steps.webp" width="900" height="1204" alt="A four-step flow for reading an extract, using the cafe example: extract (price +12%, customers -6%), quantify (PED -0.5, revenue +5.3%), connect (inelastic, so revenue rises), judge (no costs given; cause not proved). A strip shows the answer chain figure, meaning, why it matters, limit." loading="lazy">
   <figcaption>Extract, quantify, connect and judge, then chain the points into an evaluation.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-economics-price-system-and-the-microeconomy--04-ped-and-total-revenue.webp" width="900" height="1270" alt="Two demand diagrams with the same price cut from 5 to 4. With elastic demand (PED 2.5) quantity rises from 40 to 60: 40 of revenue is lost on existing sales, 80 is gained on extra sales, so revenue rises from 200 to 240. With inelastic demand (PED 0.5) quantity rises only to 44: the loss of 40 outweighs the gain of 16, so revenue falls to 176." loading="lazy">
+  <figcaption>Whether a price cut raises revenue depends on whether demand is elastic or inelastic.</figcaption>
 </figure>
 
 

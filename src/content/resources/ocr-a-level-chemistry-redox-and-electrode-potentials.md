@@ -40,6 +40,12 @@ See the [OCR chemistry hub](/boards/ocr/a-level/chemistry/); tick off outcomes o
 | 5.2.3(j) | Apply electrode potentials to modern storage cells | Details and data supplied; HSW9 risks of Li-based cells |
 | 5.2.3(k) | Explain how a fuel cell creates a voltage and the change at each electrode | No recall of equations; data supplied |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-electrochemistry-electrolysis-and-electrode-potentials--07-quantitative-electrolysis.webp" width="900" height="1195" alt="A cell with copper electrodes carries 2.00 A for 3860 s. Charge Q = It = 7720 C, moles of electrons = 7720 / 96 500 = 0.0800 mol, moles of copper = 0.0800 / 2 = 0.0400 mol, and mass = 0.0400 x 63.5 = 2.54 g." loading="lazy">
+  <figcaption>Charge to moles of electrons to moles of copper to mass: 2.00 A for 3860 s deposits 2.54 g.</figcaption>
+</figure>
+
+
 ## 5.2.3(a): oxidising and reducing agents
 
 An **oxidising agent** takes electrons from another species. It is reduced, so its oxidation number falls. A **reducing agent** gives electrons to another species. It is oxidised, so its oxidation number rises.

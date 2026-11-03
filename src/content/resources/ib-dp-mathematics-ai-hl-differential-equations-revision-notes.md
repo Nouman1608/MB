@@ -53,6 +53,17 @@ When you can answer the self-test without looking, move on to the [practice ques
 - **Equilibrium point**: a point where dx/dt = 0 and dy/dt = 0. For dx/dt = ax + by, dy/dt = cx + dy it is the origin.
 - **Saddle point**: an equilibrium that trajectories approach along one direction and leave along another.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-ai-hl-differential-equations--01-rate-proportional-to-amount.webp" width="900" height="912" alt="HL only. A graph of G against t in days for dG/dt = kG with G = 50 at t = 0 and G = 80 at t = 3. The curve G = 50 e to the power kt, with k = (1/3) ln 1.6 = 0.157, passes through (0, 50), (3, 80) and (10, 240). Gold tangent segments at the three points have gradients 7.8, 12.5 and 37.5, which are k times G: the taller the curve, the steeper it is, which is why the model grows exponentially." loading="lazy">
+  <figcaption>The model G = Ae^(kt) fixed by two data points; slope is proportional to height.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-ai-hl-differential-equations--02-slope-field-reading.webp" width="900" height="1100" alt="HL only. A slope field for dy/dx = x minus y on a grid from minus 1.5 to 2.5 in both directions, drawn as short marks whose slope equals x minus y. The marks are flat along the dashed line y = x. The thick gold line y = x minus 1 has gradient 1 everywhere, equal to x minus y there, so it is itself a solution. A teal curve starting above and a copper curve starting below both bend towards this line as x increases, and the teal curve has a turning point where it crosses y = x." loading="lazy">
+  <figcaption>Flat marks lie on y = x, y = x − 1 is itself a solution, and nearby curves bend towards it.</figcaption>
+</figure>
+
+
 ## Formulas and results
 
 | Topic | Result |
@@ -65,12 +76,6 @@ When you can answer the self-test without looking, move on to the [practice ques
 | Exact solution (real distinct λ) | (x, y) = A e^(λ₁t) p₁ + B e^(λ₂t) p₂ |
 | Second order to first order | d²x/dt² = f(x, dx/dt, t) becomes dx/dt = y, dy/dt = f(x, y, t) |
 | Linear second order | d²x/dt² + a dx/dt + bx = 0 gives M = [0 1; −b −a] |
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ib-dp-mathematics-ai-hl-differential-equations--08-second-order-damped.webp" width="900" height="1110" alt="HL only. The second-order equation x″ + 3x′ + 2x = 0 with x(0) = 1 and x′(0) = 0 is rewritten as dx/dt = y, dy/dt = −2x − 3y. The top graph shows the exact solution x = 2e^(−t) − e^(−2t) falling smoothly from 1 towards 0 without crossing zero, with a dashed gold Euler path (h = 0.1) close to it; Euler gives x(0.2) = 0.98 and the exact value is 0.967. The lower graph is the phase portrait of x against y = dx/dt: the trajectory from (1, 0) dips below the axis and enters the origin along the eigenvector direction (1, minus 1) of eigenvalue minus 1. Both eigenvalues are negative, so every trajectory goes to the origin." loading="lazy">
-  <figcaption>Rewritten as a coupled system, the damped equation gives a node and x decays without oscillating.</figcaption>
-</figure>
-
 
 ## Eigenvalues and phase portraits
 
@@ -191,6 +196,12 @@ The guide says systems will have distinct, non-zero eigenvalues, and exact solut
 8. dx/dt = y, dy/dt = 5x − 4y. M = [0 1; 5 −4], λ² + 4λ − 5 = 0, so **λ = 1 or −5** (a saddle).
 9. λ² − 0λ + 4 = 0, so **λ = ±2i**: ellipses. At (1, 0), dy/dt = 1 > 0, so **anticlockwise**.
 10. A + B = 3 and A − 2B = 0, so A = 2, B = 1. **x = 2e^(2t) + e^(−t), y = 2e^(2t) − 2e^(−t)**.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-ai-hl-differential-equations--08-second-order-damped.webp" width="900" height="1110" alt="HL only. The second-order equation x″ + 3x′ + 2x = 0 with x(0) = 1 and x′(0) = 0 is rewritten as dx/dt = y, dy/dt = −2x − 3y. The top graph shows the exact solution x = 2e^(−t) − e^(−2t) falling smoothly from 1 towards 0 without crossing zero, with a dashed gold Euler path (h = 0.1) close to it; Euler gives x(0.2) = 0.98 and the exact value is 0.967. The lower graph is the phase portrait of x against y = dx/dt: the trajectory from (1, 0) dips below the axis and enters the origin along the eigenvector direction (1, minus 1) of eigenvalue minus 1. Both eigenvalues are negative, so every trajectory goes to the origin." loading="lazy">
+  <figcaption>Rewritten as a coupled system, the damped equation gives a node and x decays without oscillating.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

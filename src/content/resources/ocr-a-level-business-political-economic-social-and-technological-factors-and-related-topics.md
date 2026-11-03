@@ -202,6 +202,16 @@ The **digital revolution** is the shift from analogue to digital technology, giv
   <figcaption>Ethical sourcing can cut the margin when the price is held.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-business-influences-on-business--07-law-or-ethics.webp" width="900" height="860" alt="Three bands: ethics (a choice: charitable giving, fair prices to suppliers, religious observance) above a line marking the legal minimum; law (a requirement: safe workplace, national minimum wage, consumer protection); and breaking the law, which brings consequences of non-compliance." loading="lazy">
+  <figcaption>Law is what a business must do; ethics is what it chooses to do beyond that.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-business-influences-on-business--03-ethics-profit-tradeoff.webp" width="900" height="800" alt="A level balance scale with a question mark on the pivot: coins on the left for higher costs and lower margin, heart, star and box on the right for loyalty, reputation and reliable supply. The judgement depends on whether customers value it enough." loading="lazy">
+  <figcaption>Ethical action has a cost and a benefit, and the judgement depends on the business and its customers.</figcaption>
+</figure>
+
 
 ## Legal factors
 
@@ -238,6 +248,11 @@ Issues include climate change, pollution, waste, energy use and resource shortag
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/ocr-a-level-business-political-economic-social-and-technological-factors-and-related-topics--03-solar-payback.webp" width="900" height="830" alt="Cumulative saving rises 9,000 pounds a year and crosses the 60,000 pound cost at 6.7 years, about 6 years 8 months." loading="lazy">
   <figcaption>Payback is the time for cumulative savings to equal the cost.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-business-influences-on-business--04-green-considerations.webp" width="900" height="970" alt="Environmental impacts shown as a car, recycling arrows, a bin and a smoking factory; sustainability shown as a thermometer and a tree stump. A banner says each is a trade-off with profit." loading="lazy">
+  <figcaption>Environmental impacts and sustainability both involve weighing costs now against benefits later.</figcaption>
 </figure>
 
 

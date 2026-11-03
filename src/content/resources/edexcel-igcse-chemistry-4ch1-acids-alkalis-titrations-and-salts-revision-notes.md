@@ -251,6 +251,11 @@ Lead(II) sulfate: lead(II) nitrate solution + dilute sulfuric acid or a soluble 
   <figcaption>Precipitate, filter, wash and dry lead(II) sulfate, wearing gloves and eye protection.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/acids-bases-and-salts--08-precipitation.webp" width="900" height="1040" alt="Two clear solutions, silver nitrate and sodium chloride, are mixed and white solid silver chloride forms. It is filtered, washed with water and dried, with no evaporation. The equation is balanced." loading="lazy">
+  <figcaption>An insoluble salt is made by mixing solutions, then filtering, washing and drying.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 
@@ -290,6 +295,12 @@ Lead(II) sulfate: lead(II) nitrate solution + dilute sulfuric acid or a soluble 
 10. Mr Pb(NO₃)₂ = 331; Mr PbSO₄ = 303. Moles = 6.62 ÷ 331 = 0.0200 mol. Mass = 0.0200 × 303 = **6.06 g**.
 11. To remove the soluble by-product (and leftover solution) so the salt is pure.
 12. It accepts protons (reacts with acids), so it is a base, but it is insoluble in water.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-chemistry-4ch1-acids-alkalis-titrations-and-salts--11-cuso4-yield.webp" width="900" height="880" alt="2.00 g CuO is 0.02516 mol; 1:1 gives 0.02516 mol crystals; times 249.5 gives 6.277 g. Actual 5.02 g gives 80.0%." loading="lazy">
+  <figcaption>The yield is 5.02 divided by 6.277, times 100, which is 80.0%.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

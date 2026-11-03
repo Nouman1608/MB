@@ -90,6 +90,12 @@ Enzymes catalyse a wide range of reactions. **Intracellular** enzymes act inside
 
 Raising temperature from a low value gives molecules more kinetic energy. Enzyme and substrate collide more often and with more energy, giving more enzyme-substrate complexes each second, and the rate rises. At the **optimum** the rate is highest. Above the optimum the enzyme vibrates more, and this breaks the hydrogen and ionic bonds holding the tertiary structure. The active site is altered, so the substrate does not fit. The enzyme is **denatured**. This is not reversible. A cold enzyme is slow but is not denatured.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-factors-that-affect-enzyme-action--05-temperature-ph.webp" width="900" height="1140" alt="Two graphs. Temperature: rate rises to an optimum a little below 45 degrees Celsius then falls steeply as the active site is distorted and the enzyme denatured. pH: a bell-shaped curve with an optimum near 7; at low and high pH charges on R groups change. A buffer holds pH constant." loading="lazy">
+  <figcaption>Away from the optimum, the active site changes shape so fewer enzyme-substrate complexes form.</figcaption>
+</figure>
+
+
 ### pH
 
 Hydrogen ions (H⁺) interact with charged R groups. A pH away from the optimum disrupts ionic and hydrogen bonds, so the tertiary structure and the active site change and the rate falls. Large changes denature the enzyme. Different enzymes have different optimum pH values, for example pepsin in the stomach and trypsin in the small intestine.
@@ -105,6 +111,12 @@ At low substrate concentration the rate rises quickly, because collisions betwee
 ### Competitive inhibitors
 
 A **competitive inhibitor** is a molecule shaped like the substrate. It occupies the active site, so fewer enzyme-substrate complexes can form. Increasing the inhibitor concentration lowers the rate. Raising the substrate concentration reduces the effect, because substrate molecules compete better for the active sites, and the same maximum rate can be reached.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-factors-that-affect-enzyme-action--07-inhibitor-types.webp" width="900" height="1060" alt="Three rows. No inhibitor: substrate fits the active site. Competitive: an inhibitor with a similar shape sits in the active site, blocking the substrate; more substrate out-competes it. Non-competitive: the inhibitor binds elsewhere and reshapes the active site, so extra substrate does not help." loading="lazy">
+  <figcaption>Competitive inhibitors compete for the active site; non-competitive inhibitors bind elsewhere and change its shape.</figcaption>
+</figure>
+
 
 ### Non-competitive inhibitors
 

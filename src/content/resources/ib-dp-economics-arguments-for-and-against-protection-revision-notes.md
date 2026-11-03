@@ -114,6 +114,12 @@ For full explanations, start with the [study guide](/resources/ib-dp-economics-a
 3. If a partner retaliates, apply the fall in exports as well.
 4. Recalculate and compare.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-economics-arguments-for-and-against-protection--09-anti-dumping-test.webp" width="900" height="880" alt="Bars show a Brenmar exporter’s cost 52, home price 70, export price 45 and the price 55 after a duty of 10. The export price is 7 below cost and 25 below home price, so it is dumping; a Tarvian producer with cost 58 is still 3 above the dutied price." loading="lazy">
+  <figcaption>Applying the two dumping tests and the effect of a duty of 10.</figcaption>
+</figure>
+
+
 ## Worked reminders
 
 **Infant industry.** A fictional firm has an average cost of 80 and faces an import price of 60. The gap is 20, so the tariff must be at least 20 ÷ 60 = 33.3%. When its cost falls to 50 at larger output, protection is no longer needed.
@@ -125,12 +131,6 @@ For full explanations, start with the [study guide](/resources/ib-dp-economics-a
 **Balance of payments.** Exports 700, imports 800: deficit 100. Imports fall 15% to 680, giving a surplus of 20. If exports then fall 5% to 665, the balance is a deficit of 15.
 
 **Revenue.** With import volume M = 1 000 − 20t, revenue at 10%, 20%, 25%, 30% and 40% is 8 000, 12 000, 12 500, 12 000 and 8 000. It peaks near 25%.
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ib-dp-economics-arguments-for-and-against-protection--09-anti-dumping-test.webp" width="900" height="880" alt="Bars show a Brenmar exporter’s cost 52, home price 70, export price 45 and the price 55 after a duty of 10. The export price is 7 below cost and 25 below home price, so it is dumping; a Tarvian producer with cost 58 is still 3 above the dutied price." loading="lazy">
-  <figcaption>Applying the two dumping tests and the effect of a duty of 10.</figcaption>
-</figure>
-
 
 ## Must-know distinctions
 

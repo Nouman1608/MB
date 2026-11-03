@@ -60,12 +60,6 @@ Two rules from the guide are worth remembering exactly:
 
 The last two columns are Marlbridge suggestions, not the guide's list. The guide names the contexts and leaves the units to the school.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ib-myp-mathematics-global-contexts-in-myp-mathematics-the-six-contexts--01-six-global-contexts.webp" width="900" height="800" alt="Six tiles, each with a simple icon. Identities and relationships: two linked people. Orientation in space and time: a compass. Personal and cultural expression: a four-petal pattern. Scientific and technical innovation: a light bulb. Globalization and sustainability: a globe. Fairness and development: a balance scale. A teacher must choose one context for a unit; a context answers why the mathematics matters." loading="lazy">
-  <figcaption>The six contexts, each with an icon.</figcaption>
-</figure>
-
-
 ## Key concepts and related concepts
 
 The guide's Table 1 lists sixteen key concepts across the MYP. Mathematics contributes three: form, logic and relationships. Other key concepts can also be used. In the guide's wording:
@@ -75,6 +69,12 @@ The guide's Table 1 lists sixteen key concepts across the MYP. Mathematics contr
 - Relationships are connections between quantities, properties or ideas, expressed as models, rules or statements.
 
 Related concepts are narrower. Table 2 lists twelve for mathematics. Four are about number and shape (approximation, quantity, space, equivalence). Four are about reasoning and process (validity, generalization, simplification, representation). Four are about structure and behaviour (models, patterns, change, systems). Teachers may choose others, including from other subject groups.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-mathematics-global-contexts-in-myp-mathematics-the-six-contexts--01-six-global-contexts.webp" width="900" height="800" alt="Six tiles, each with a simple icon. Identities and relationships: two linked people. Orientation in space and time: a compass. Personal and cultural expression: a four-petal pattern. Scientific and technical innovation: a light bulb. Globalization and sustainability: a globe. Fairness and development: a balance scale. A teacher must choose one context for a unit; a context answers why the mathematics matters." loading="lazy">
+  <figcaption>The six contexts, each with an icon.</figcaption>
+</figure>
+
 
 ## Statements of inquiry
 

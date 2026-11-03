@@ -173,6 +173,17 @@ The same element is oxidised in one compound and reduced in another.
 
 Concentrated sulfuric acid and nitric acid can act like this with metals: sulfur or nitrogen is reduced instead of hydrogen, so SO₂ or NO₂ forms instead of H₂.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-electrochemistry-electrolysis-and-electrode-potentials--04-feasibility.webp" width="900" height="1140" alt="Each row shows an arrow from the E° of the species oxidised to the E° of the species reduced (Fe3+/Fe2+ at +0.77 V). It points right for iodide (+0.23 V, feasible) and left for bromide (-0.30 V) and chloride (-0.59 V), which are not feasible. Feasible does not mean fast." loading="lazy">
+  <figcaption>E° cell = E°(reduced) - E°(oxidised); a positive value means feasible, though not necessarily fast.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-electrochemistry-electrolysis-and-electrode-potentials--08-lithium-cell.webp" width="900" height="1000" alt="Lithium is the negative electrode and CoO2 the positive electrode, with Li+ ions moving through the electrolyte and electrons through the external lamp circuit from lithium to CoO2. At the negative electrode Li loses an electron (0 to +1); at the positive electrode cobalt is reduced from +4 to +3. Recharging reverses both reactions." loading="lazy">
+  <figcaption>On discharge lithium is oxidised and cobalt is reduced; recharging reverses both reactions.</figcaption>
+</figure>
+
+
 ## Must-know distinctions
 
 - **Oxidation number vs ionic charge.** +2 (sign first) for oxidation numbers; 2+ (number first) for charges.
@@ -207,6 +218,12 @@ Concentrated sulfuric acid and nitric acid can act like this with metals: sulfur
 8. **Ni(s) + H₂SO₄(aq) → NiSO₄(aq) + H₂(g)**. Nickel is oxidised, 0 to +2.
 9. **Hydrogen**, from **+1** in H₂O to **0** in H₂. Potassium is oxidised (0 to +1); oxygen stays −2.
 10. Electrons gained by hydrogen = 2 × 0.0150 = 0.0300 mol. Per M: 0.0300 ÷ 0.0100 = 3, so M is **+3**.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-electrochemistry-electrolysis-and-electrode-potentials--09-fuel-cells.webp" width="900" height="1300" alt="Hydrogen is fed to the negative electrode and oxygen to the positive electrode, with electrons flowing through the lamp circuit. In the alkaline cell OH- ions move through the electrolyte towards the hydrogen electrode and water forms there; in the acidic cell H+ ions move towards the oxygen electrode and water forms there. Both give 2H2 + O2 to 2H2O." loading="lazy">
+  <figcaption>A fuel cell is fed continuously with hydrogen and oxygen and gives 2H2 + O2 -&gt; 2H2O, with different ions carrying charge in alkali and acid.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

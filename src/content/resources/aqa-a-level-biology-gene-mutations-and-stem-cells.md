@@ -100,6 +100,12 @@ In the inversion, the section CTTGGC has been turned round, so the strand now re
 
 A **translocation** moves a section of bases. At the old site the effect is like a deletion; at the new site it is like an addition. If the moved section is not a multiple of three bases, a frame shift can follow at each site that lies inside a gene. Translocation may also affect other genes at the new location.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-biology-gene-mutations-and-stem-cells--06-rna-interference.webp" width="900" height="1140" alt="An enzyme cuts double-stranded RNA into siRNA. One siRNA strand in a protein complex pairs with mRNA of matching sequence (example pairing GCUCCGUUAGCA with CGAGGCAAUCGU), and the mRNA is broken down so no protein is made. The gene is still transcribed." loading="lazy">
+  <figcaption>How siRNA stops translation of one mRNA.</figcaption>
+</figure>
+
+
 ### Which mutations are worst?
 
 - A substitution changes one triplet at most, so it has the smallest effect on average.

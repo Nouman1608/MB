@@ -63,12 +63,6 @@ private (economic) and public goods, and defining merit and demerit
 goods by under- and over-consumption resulting from imperfect
 information in the market
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-level-economics-basic-economic-ideas-and-resource-allocation--02-economic-systems.webp" width="900" height="990" alt="Three questions, what, how and for whom, are answered in different ways. In a market economy prices and firms decide, in a planned economy the state decides, and a mixed economy shares decisions between both." loading="lazy">
-  <figcaption>Market, planned and mixed economies differ in who answers what, how and for whom.</figcaption>
-</figure>
-
-
 ## How to approach it
 
 Because this topic revisits ground familiar from IGCSE, the risk is
@@ -159,3 +153,9 @@ this AS classification.)
 Cambridge International AS & A Level Economics 9708 syllabus for 2026,
 2027 and 2028 —
 [cambridgeinternational.org](https://www.cambridgeinternational.org/Images/697423-2026-2028-syllabus.pdf).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-economics-basic-economic-ideas-and-resource-allocation--02-economic-systems.webp" width="900" height="990" alt="Three questions, what, how and for whom, are answered in different ways. In a market economy prices and firms decide, in a planned economy the state decides, and a mixed economy shares decisions between both." loading="lazy">
+  <figcaption>Market, planned and mixed economies differ in who answers what, how and for whom.</figcaption>
+</figure>
+

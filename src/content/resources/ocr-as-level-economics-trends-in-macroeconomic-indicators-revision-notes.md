@@ -106,6 +106,12 @@ Real GDP index rises from 100 to 121.6 over 8 years. Average annual growth = (1.
 
 Country Z has GDP of 540 billion currency units and 12.0 million people, so GDP per head is **45,000**. If real GDP rises by 3.0% and population by 1.0%, real GDP per head rises by about 1.98%, close to the 2.0% rule of thumb.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-as-level-economics-trends-in-macroeconomic-indicators--04-p-q-r-output-vs-per-head.webp" width="900" height="1060" alt="For invented economies P, Q and R, real output rises 13.4, 141.3 and 37.6 percent, but income per head rises 7.3, 125.9 and 6.0 percent. R population growth of 2.4 percent a year absorbs most of its output gain." loading="lazy">
+  <figcaption>Income per head shows living standards better than total output.</figcaption>
+</figure>
+
+
 ## The UK over about the last 20 years: recall table
 
 This is a summary for organising your answer. It is not a data source; use the figures you are given in a question, and check anything else against the Office for National Statistics.
@@ -135,12 +141,6 @@ Questions to ask whenever you compare:
 3. How far does the starting level differ?
 4. Is the data one year or an average?
 5. What does the indicator leave out, such as distribution, quality of jobs or the environment?
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ocr-as-level-economics-trends-in-macroeconomic-indicators--04-p-q-r-output-vs-per-head.webp" width="900" height="1060" alt="For invented economies P, Q and R, real output rises 13.4, 141.3 and 37.6 percent, but income per head rises 7.3, 125.9 and 6.0 percent. R population growth of 2.4 percent a year absorbs most of its output gain." loading="lazy">
-  <figcaption>Income per head shows living standards better than total output.</figcaption>
-</figure>
-
 
 ## Must-know distinctions
 

@@ -199,3 +199,24 @@ e.g. $50,000 / 10,000 units = $5 per unit
 7. Give three factors in the external environment that can affect a business's growth decisions.
 
 **Answers:** 1. Selling price minus the cost of bought-in materials; raise it through branding or improved design and service, or by reducing input costs. 2. Unlimited liability means the owner's personal assets can be taken to settle business debts; limited liability restricts the loss to the amount invested. 3. Lower risk from an established brand and support; but fees and royalties reduce profit and independence is limited. 4. For example, owners want to reduce costs to increase profit, while employees want higher wages and better conditions — the same money cannot do both. 5. A rise in average cost as a firm grows too large, caused by poor communication and coordination, and by falling staff motivation in a large impersonal organisation. 6. A start-up typically prioritises survival, since cash flow and establishing a customer base are the immediate concerns; an established business has already survived, so it can turn its attention to profit, growth, market share or social and environmental goals. 7. Any three: interest rates, exchange rates, unemployment (level of employment), legislation, technology — these are drawn from across the specification's Influences on Business sub-topics (economic climate, globalisation, legislation, technology) rather than one single "economic environment" list. "Inflation" is a reasonable addition but is not itself a named term in the specification's content list, which instead refers more broadly to "the economic situation" — treat it as a defensible teaching example rather than required vocabulary.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-business-business-in-the-real-world--05-growth-speed-control.webp" width="900" height="990" alt="Two routes to growth on five-step scales. Organic growth (new stores, e-commerce, franchising) is slower but owners keep full control. External growth (merger or takeover) is faster but brings integration challenges and can dilute control." loading="lazy">
+  <figcaption>Organic growth is slower but controlled; external growth is faster but harder to integrate.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-business-business-in-the-real-world--06-integration-types.webp" width="900" height="740" alt="A firm in the centre with four targets. Backward integration takes over a supplier, forward integration a retailer, horizontal integration a rival at the same stage, and conglomerate growth a business in an unrelated industry." loading="lazy">
+  <figcaption>External growth is classified by where the target sits relative to the firm.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-business-business-in-the-real-world--02-average-unit-cost.webp" width="900" height="700" alt="A U-shaped average unit cost curve against output. At 10,000 units, £80,000 gives £8 a unit. At 20,000 units, £135,000 gives £6.75 a unit, a fall that is an economy of scale. Beyond about 21,000 units the curve rises, showing diseconomies of scale." loading="lazy">
+  <figcaption>Average unit cost = total cost ÷ output; it falls with economies of scale and rises again with diseconomies.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-business-business-in-the-real-world--09-external-factors-retailer.webp" width="900" height="980" alt="Two cause-and-effect chains. A rise in interest rates leaves households with less to spend, so clothing demand falls, and raises the retailer’s interest costs, squeezing profit and delaying stores: two costs. A fall in the exchange rate makes imported stock dearer, a cost, but makes exports cheaper abroad, a benefit." loading="lazy">
+  <figcaption>External factors usually bring a cost and often a partly offsetting benefit.</figcaption>
+</figure>
+

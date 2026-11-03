@@ -216,6 +216,12 @@ P = 1/u + 1/v
 11. **The T wave**
 12. 1.60 × 10⁻¹⁹ × 1.20 × 10⁵ = **1.92 × 10⁻¹⁴ J**
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-medical-physics--09-aphy-medical-engine-cycle.webp" width="900" height="1050" alt="On a p-V graph the theoretical petrol cycle is two adiabatics joined by two constant-volume lines. The loop is clockwise, so it is an engine, and its area is the work per cycle: 380 J here. With 25 cycles a second in four cylinders that gives an indicated power of 38 kW." loading="lazy">
+  <figcaption>The area of the p-V loop is the work done per cycle, which gives indicated power.</figcaption>
+</figure>
+
+
 ## Where marks are usually lost
 
 - Using a positive v for a virtual image, so the sign of the lens power is wrong.

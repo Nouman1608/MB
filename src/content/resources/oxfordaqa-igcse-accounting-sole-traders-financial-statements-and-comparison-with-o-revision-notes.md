@@ -44,6 +44,22 @@ These notes condense section 3.4 of the OxfordAQA International GCSE Accounting 
 
 FIFO, AVCO and LIFO inventory valuation are stated as not examined.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-accounting-sole-traders-financial-statements-and-comparison-with-o--01-un16-own-use-ledger.webp" width="900" height="1046" alt="The journal debits drawings and credits purchases with 700 dollars at cost. Purchases falls from 84,200 to 83,500 and drawings rises from 14,000 to 14,700. Cost of sales falls so gross profit rises, and capital falls by the same cost through drawings." loading="lazy">
+  <figcaption>The same 700 dollars leaves purchases and enters drawings.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-edexcel-accounting-principles-and-double-entry-bookkeeping--05-stock-lower-of-cost-nrv.webp" width="900" height="1110" alt="Three stock lines each show cost and NRV bars with a tick on the lower. Desk lamps use cost (2,160 against 3,360); floor lamps use NRV (1,360 against 1,800); lampshades use NRV (900 against 1,200). Item by item gives 4,420; comparing totals would keep 5,160 and hide a 740 loss." loading="lazy">
+  <figcaption>Stock is valued at the lower of cost and NRV for each item, not on the totals.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-edexcel-accounting-principles-and-double-entry-bookkeeping--09-prepaid-rent.webp" width="900" height="940" alt="Twelve monthly boxes show 12,000 pounds of rent paid on 1 October with a 31 December year end. Three months (3,000) are an expense in the income statement; nine months (9,000) are a prepayment shown as a current asset." loading="lazy">
+  <figcaption>Only the part of rent used in the year is an expense; the rest is a prepayment.</figcaption>
+</figure>
+
+
 ## Where each adjustment goes
 
 | Adjustment | Income statement | Statement of financial position |
@@ -79,6 +95,17 @@ FIFO, AVCO and LIFO inventory valuation are stated as not examined.
 
 A service business has no inventory and no cost of sales. Its income statement runs from revenue to expenses.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-accounting-for-organisations-with-incomplete-records--06-trial-balance-to-statements.webp" width="900" height="1126" alt="The trial balance totals 274,470 pounds each side and is adjusted by seven notes. Gross profit of 84,200 pounds plus commission of 2,100 pounds less expenses of 56,175 pounds gives profit of 30,125 pounds. Opening capital 39,670 plus profit less drawings 19,200 gives closing capital of 50,595 pounds, equal to net assets." loading="lazy">
+  <figcaption>Profit flows into capital, and capital equals net assets, which proves the statements balance.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-accounting-types-of-business-organisation--05-accounting-equation.webp" width="900" height="966" alt="Three transactions are shown with two equal bars each: assets on top and liabilities plus capital below. Owner capital of 10,000, then equipment bought for 4,000 cash, then 2,000 of stock bought on credit raising both sides to 12,000." loading="lazy">
+  <figcaption>Every transaction keeps assets equal to liabilities plus capital.</figcaption>
+</figure>
+
+
 ## Worked reminders (new figures)
 
 Rent paid is 7,800 and 650 relates to next year, so the charge is 7,150. Commission received is 3,100 and 240 is due, so income is 3,340.
@@ -90,8 +117,8 @@ Trade receivables are 9,000 and 250 is irrecoverable. The remaining 8,750 at 2% 
 A machine cost 9,000 and has provision for depreciation of 6,300, so net book value is 2,700. Sold for 2,100, it makes a loss on disposal of 600.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/aqa-a-level-accounting-accounting-for-organisations-with-incomplete-records--04-disposal-loss.webp" width="900" height="870" alt="A machine costing 18,000 pounds with 10,800 pounds accumulated depreciation has a carrying amount of 7,200 pounds. Sold for 6,000 pounds, the 1,200 pound shortfall is a loss on disposal, an expense. Proceeds above carrying amount would be a profit." loading="lazy">
-  <figcaption>Compare proceeds with carrying amount to find the profit or loss on disposal.</figcaption>
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-double-entry-model--06-disposal-profit-loss.webp" width="900" height="1000" alt="Equipment that cost 9,000 dollars with 2,700 depreciation has a net book value of 6,300. Sold for 4,800 it gives a 1,500 loss. The disposal account shows debit 9,000 and credits 2,700, 4,800 and 1,500." loading="lazy">
+  <figcaption>Profit or loss on disposal compares proceeds with net book value, not cost.</figcaption>
 </figure>
 
 
@@ -139,6 +166,16 @@ Distinguish share capital from loan capital for companies: shareholders own a co
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/aqa-a-level-accounting-accounting-for-organisations-with-incomplete-records--05-doubtful-debts-provision.webp" width="900" height="800" alt="Receivables of 19,100 pounds carry a 5 percent provision of 955 pounds, so the statement of financial position shows 18,145 pounds. The old provision was 900 pounds, so only the 55 pound increase is charged as an expense." loading="lazy">
   <figcaption>Only the change in the provision goes to the income statement; the full provision is deducted from receivables.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-accounting-types-of-business-organisation--01-ownership-ladder.webp" width="900" height="1000" alt="Four columns compare sole trader, partnership, private Ltd and public plc: number of owners, liability (unlimited for the first two, limited for the last two) and a rising staircase of reporting duties. Reporting grows from minimal to the most extensive disclosure and audit for a plc." loading="lazy">
+  <figcaption>As a business becomes more formal, liability becomes limited and reporting duties grow.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-accounting-types-of-business-organisation--02-liability.webp" width="900" height="870" alt="With illustrative numbers, debts of 50,000 pounds exceed business assets of 20,000 pounds by 30,000. A sole trader's own assets can be used to pay the shortfall, while a limited company shareholder loses at most the 10,000 pounds invested." loading="lazy">
+  <figcaption>Unlimited liability puts personal assets at risk; limited liability caps the loss at the amount invested.</figcaption>
 </figure>
 
 
@@ -222,13 +259,23 @@ Gross profit is 38.25% of revenue and net profit is about 12.9%. On the statemen
 12. Limited liability for shareholders (or easier to raise capital from shares).
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/oxfordaqa-igcse-accounting-sole-traders-financial-statements-and-comparison-with-o--01-un16-own-use-ledger.webp" width="900" height="1046" alt="The journal debits drawings and credits purchases with 700 dollars at cost. Purchases falls from 84,200 to 83,500 and drawings rises from 14,000 to 14,700. Cost of sales falls so gross profit rises, and capital falls by the same cost through drawings." loading="lazy">
-  <figcaption>The same 700 dollars leaves purchases and enters drawings.</figcaption>
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-accounting-for-organisations-with-incomplete-records--02-accrual-expense.webp" width="900" height="780" alt="Cash paid of 2,610 pounds has 240 pounds taken off (owed at the start, last year's cost) and 310 pounds added (owed at the end), giving a heating expense of 2,680 pounds. The 310 pounds still owing is a current liability." loading="lazy">
+  <figcaption>Expense = cash paid - owed at the start + owed at the end.</figcaption>
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/aqa-a-level-accounting-accounting-for-organisations-with-incomplete-records--02-accrual-expense.webp" width="900" height="780" alt="Cash paid of 2,610 pounds has 240 pounds taken off (owed at the start, last year's cost) and 310 pounds added (owed at the end), giving a heating expense of 2,680 pounds. The 310 pounds still owing is a current liability." loading="lazy">
-  <figcaption>Expense = cash paid - owed at the start + owed at the end.</figcaption>
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-accounting-for-organisations-with-incomplete-records--04-disposal-loss.webp" width="900" height="870" alt="A machine costing 18,000 pounds with 10,800 pounds accumulated depreciation has a carrying amount of 7,200 pounds. Sold for 6,000 pounds, the 1,200 pound shortfall is a loss on disposal, an expense. Proceeds above carrying amount would be a profit." loading="lazy">
+  <figcaption>Compare proceeds with carrying amount to find the profit or loss on disposal.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-edexcel-accounting-principles-and-double-entry-bookkeeping--04-concepts-change-profit.webp" width="900" height="880" alt="A horizontal waterfall starting from 52,000 pounds draft profit. Business entity adds back 1,800 (holiday was drawings), accruals subtracts 1,200 (electricity), prudence subtracts 900 (inventory written down from 2,400 to net realisable value 1,500). Corrected profit is 51,700 pounds." loading="lazy">
+  <figcaption>Each accounting concept has a measurable effect on profit.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/accounting-non-current-assets--05-disposal.webp" width="900" height="1110" alt="An illustrative van (cost 20,000, accumulated depreciation 15,000) is sold for 6,000. Cost and depreciation are moved into a disposal account, which balances at 21,000 each side after a 1,000 profit. Carrying value is 5,000. A note explains part exchange allowance replaces cash proceeds." loading="lazy">
+  <figcaption>Close cost and accumulated depreciation through a disposal account to find profit or loss on disposal.</figcaption>
 </figure>
 
 

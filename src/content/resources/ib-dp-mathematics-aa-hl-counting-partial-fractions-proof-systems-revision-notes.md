@@ -193,12 +193,6 @@ On Paper 2 or 3, a GDC solver or matrix row reduction can do the arithmetic. The
 - **Substitution vs equating coefficients:** substituting the roots of the denominator is quickest; equating coefficients works every time and makes a good check.
 - **Identity vs equation:** partial fractions are identities (≡), true for every x in the domain, which is why you can substitute any convenient x.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ib-dp-mathematics-aa-hl-counting-partial-fractions-proof-systems--07-counterexample-prime.webp" width="900" height="1040" alt="Dot plot of n^2 - n + 11 for n = 0 to 12. Values for n = 0 to 10 are prime (circles); n = 11 gives 121 = 11 x 11 and n = 12 gives 143 = 11 x 13, both not prime (crossed squares)." loading="lazy">
-  <figcaption>One counterexample, with an explanation, disproves a statement.</figcaption>
-</figure>
-
-
 ## Quick self-test
 
 1. Evaluate ⁷P₃.
@@ -228,6 +222,12 @@ On Paper 2 or 3, a GDC solver or matrix row reduction can do the arithmetic. The
 10. **Assume √7 = p/q, where p, q ∈ ℤ, q ≠ 0 and p, q have no common factor.**
 11. Doubling the first gives 2x + 2y = 6, which contradicts 2x + 2y = 7: **no solution (inconsistent)**.
 12. Let z = λ: **x = 1 − 2λ, y = 1 + λ, z = λ**, λ ∈ ℝ.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-aa-hl-counting-partial-fractions-proof-systems--07-counterexample-prime.webp" width="900" height="1040" alt="Dot plot of n^2 - n + 11 for n = 0 to 12. Values for n = 0 to 10 are prime (circles); n = 11 gives 121 = 11 x 11 and n = 12 gives 143 = 11 x 13, both not prime (crossed squares)." loading="lazy">
+  <figcaption>One counterexample, with an explanation, disproves a statement.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

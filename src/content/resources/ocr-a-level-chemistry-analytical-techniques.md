@@ -220,6 +220,17 @@ Empirical formula C₅H₁₀O, mass 86.0.
 
 **Conclusion.** Z is **pentan-2-one or 3-methylbutan-2-one**; both fit all the data given. Telling them apart needs NMR spectroscopy, which you meet in [6.3.2 Spectroscopy](/resources/ocr-a-level-chemistry-spectroscopy/). Saying that two isomers fit is the honest answer.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-nuclear-magnetic-resonance-spectroscopy--04-nmr-integration.webp" width="900" height="990" alt="Pentan-3-one with its spectrum: quartet at 2.4 and triplet at 1.1 with an integration trace of 32 mm and 48 mm. Ratio 2:3 doubles to 4 H and 6 H." loading="lazy">
+  <figcaption>Integration step heights 32:48 = 2:3, scaled to 10 H gives 4 H and 6 H (pentan-3-one).</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-nuclear-magnetic-resonance-spectroscopy--05-nmr-ester-shift.webp" width="900" height="1000" alt="Ethyl ethanoate and methyl propanoate both give singlet 3H, quartet 2H, triplet 3H; shift of the group bonded to O decides." loading="lazy">
+  <figcaption>Both esters show a singlet, quartet and triplet, but only chemical shift shows which group is bonded to oxygen.</figcaption>
+</figure>
+
+
 ## Common errors
 
 - Using the C–H peak near 3000 cm⁻¹ as evidence for an alcohol or acid.

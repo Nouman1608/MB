@@ -101,6 +101,16 @@ Suppose the Gini falls from **0.38** to **0.34**.
 - Richest fifth share relative to poorest: 47/6 = 7.8 before, 43/7 = 6.1 after.
 - Interpretation: the Lorenz curve moved towards the line; distribution became more equal. Say nothing about the size of anyone's absolute income.
 
+## Gini: interpretation checklist
+
+- 0 is perfect equality; 1 is the extreme where one household holds everything.
+- Higher means more unequal.
+- Compare like with like: same unit (person or household), before or after tax, income or wealth.
+- A wealth Gini is usually above an income Gini for the same country.
+- A fall is not proof that the poor are better off in absolute terms.
+- Equal Ginis can hide different shapes if the curves cross.
+- Limits: one number, hidden detail at the top, weak data on the very rich and on informal income.
+
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/aqa-a-level-economics-distribution-of-income-and-wealth-lorenz-curve-and-the--01-lorenz-before-after.webp" width="900" height="1090" alt="Lorenz diagram for invented Country A. The before-tax curve passes through (20,4), (40,13), (60,27), (80,49) with Gini 0.43; the after-tax-and-benefit curve passes through (20,7), (40,19), (60,36), (80,59) with Gini 0.32 and lies closer to the line of equality. The poorest 40% receive 13% before and 19% after." loading="lazy">
   <figcaption>Taxes and benefits move the Lorenz curve towards the line of equality, cutting the Gini from 0.43 to 0.32.</figcaption>
@@ -121,16 +131,6 @@ Suppose the Gini falls from **0.38** to **0.34**.
   <figcaption>The Gini coefficient is the share of the area under the equality line that lies between it and the Lorenz curve.</figcaption>
 </figure>
 
-
-## Gini: interpretation checklist
-
-- 0 is perfect equality; 1 is the extreme where one household holds everything.
-- Higher means more unequal.
-- Compare like with like: same unit (person or household), before or after tax, income or wealth.
-- A wealth Gini is usually above an income Gini for the same country.
-- A fall is not proof that the poor are better off in absolute terms.
-- Equal Ginis can hide different shapes if the curves cross.
-- Limits: one number, hidden detail at the top, weak data on the very rich and on informal income.
 
 ## Equality versus equity
 

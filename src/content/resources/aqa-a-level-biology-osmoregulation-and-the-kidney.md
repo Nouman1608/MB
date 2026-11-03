@@ -195,12 +195,6 @@ The urine is more concentrated because more water was reabsorbed into the blood.
 
 Condense this with the [revision notes](/resources/aqa-a-level-biology-osmoregulation-and-the-kidney-revision-notes/), then test yourself with the [practice questions](/resources/aqa-a-level-biology-osmoregulation-and-the-kidney-practice/). Tick off the section on the [printable checklist](/checklists/aqa/a-level/biology/).
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-level-biology-9700-homeostasis--08-second-messenger.webp" width="900" height="1040" alt="A liver cell membrane with glucagon outside. Glucagon binds a receptor; a G-protein is activated; adenylyl cyclase makes cAMP from ATP; cAMP activates protein kinase A; an enzyme cascade amplifies the signal (for example 50 at each of three stages gives 125 000); glycogen is broken down to glucose." loading="lazy">
-  <figcaption>Glucagon never enters the cell: cAMP relays the message and the enzyme cascade amplifies it.</figcaption>
-</figure>
-
-
 ## Official syllabus
 
 AQA, *AS and A-level Biology* specification (7401 and 7402), for first teaching 2015, section 3.6.4.3 Control of blood water potential (A-level only). Published by AQA.

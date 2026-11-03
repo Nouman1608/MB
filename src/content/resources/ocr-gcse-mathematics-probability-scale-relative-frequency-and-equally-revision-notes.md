@@ -200,17 +200,6 @@ When a question says "describe" or "analyse" experimental results, write a sente
 
 Worked reminder: a bag holds 4 red and 6 green counters, and a counter is taken, noted and replaced 50 times, giving 17 reds. The theoretical P(red) = 4/10 = 0.4. The relative frequency is 17/50 = 0.34, which is a little lower. With only 50 trials this is not surprising, and a larger number of trials would be expected to give a value nearer 0.4.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-mathematics-0580-probability-and-expected-frequency--04-relative-frequency.webp" width="900" height="740" alt="A graph of relative frequency of a 4 against spins: 0.5 at 10, 0.38 at 50, 0.37 at 100 and 0.355 at 200. It falls then levels off, so more trials give a more reliable estimate." loading="lazy">
-  <figcaption>With more trials the relative frequency settles, so use the estimate from the most trials.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-mathematics-0580-probability-and-expected-frequency--05-fair-or-biased.webp" width="900" height="850" alt="Bar chart of relative frequencies after 200 spins: 1 is 0.155, 2 is 0.26, 3 is 0.23, 4 is 0.355. A dashed line at 0.25 shows a fair spinner. Scores 1 and 4 are far from it, which suggests bias." loading="lazy">
-  <figcaption>Results far from 0.25 after many spins suggest, but do not prove, a biased spinner.</figcaption>
-</figure>
-
-
 ## Quick self-test
 
 1. What is the probability of an impossible event, and of a certain event?
@@ -223,6 +212,12 @@ Worked reminder: a bag holds 4 red and 6 green counters, and a counter is taken,
 8. A fair dice is rolled twice and lands on six both times. What is the probability of a six on the third roll?
 9. After 20 spins a spinner has landed on red 9 times and after 2000 spins 506 times. Which gives the better estimate of P(red), and what is it?
 10. A frequency tree starts with 120 customers: 75 pay by card and the rest pay by cash. 18 of the cash customers use a coupon. How many cash customers do not use a coupon?
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-mathematics-probability-scale-relative-frequency-and-equally--01-coin-run-independence.webp" width="900" height="880" alt="Four heads in a row are followed by a question mark for the next toss. Two equal bars show heads and tails are each still 1/2 likely. A note says HHHHH and HHHHT are each 1/32 likely." loading="lazy">
+  <figcaption>A run of heads does not change the chance of heads next time.</figcaption>
+</figure>
+
 
 ### Answers
 
@@ -238,8 +233,13 @@ Worked reminder: a bag holds 4 red and 6 green counters, and a counter is taken,
 10. Cash customers 120 - 75 = 45; without a coupon 45 - 18 = 27.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ocr-gcse-mathematics-probability-scale-relative-frequency-and-equally--01-coin-run-independence.webp" width="900" height="880" alt="Four heads in a row are followed by a question mark for the next toss. Two equal bars show heads and tails are each still 1/2 likely. A note says HHHHH and HHHHT are each 1/32 likely." loading="lazy">
-  <figcaption>A run of heads does not change the chance of heads next time.</figcaption>
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-probability-and-expected-frequency--04-relative-frequency.webp" width="900" height="740" alt="A graph of relative frequency of a 4 against spins: 0.5 at 10, 0.38 at 50, 0.37 at 100 and 0.355 at 200. It falls then levels off, so more trials give a more reliable estimate." loading="lazy">
+  <figcaption>With more trials the relative frequency settles, so use the estimate from the most trials.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-probability-and-expected-frequency--05-fair-or-biased.webp" width="900" height="850" alt="Bar chart of relative frequencies after 200 spins: 1 is 0.155, 2 is 0.26, 3 is 0.23, 4 is 0.355. A dashed line at 0.25 shows a fair spinner. Scores 1 and 4 are far from it, which suggests bias." loading="lazy">
+  <figcaption>Results far from 0.25 after many spins suggest, but do not prove, a biased spinner.</figcaption>
 </figure>
 
 

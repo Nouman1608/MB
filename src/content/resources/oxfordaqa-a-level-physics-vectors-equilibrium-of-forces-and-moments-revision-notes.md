@@ -127,6 +127,12 @@ Worked reminder: a 200 N weight hangs from two equal ropes, each 60° to the hor
 
 When a body is in equilibrium, total clockwise moment = total anticlockwise moment, about any one point.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-oxfordaqa-physics-motion-and-newtons-laws--03-lift-tension.webp" width="900" height="900" alt="Three free-body diagrams of a 640 kg lift to one scale. Accelerating upward the tension is 7.0 kN, at constant speed 6.3 kN, and decelerating while moving up 5.5 kN, always against a weight of 6.3 kN. Net force is 0.77 kN up, zero, and 0.77 kN down." loading="lazy">
+  <figcaption>Tension is larger than weight when acceleration is upward and smaller when it is downward, T = m(g + a).</figcaption>
+</figure>
+
+
 ### Method: beam in equilibrium
 
 1. Mark all forces; put a uniform beam's weight at its midpoint.
@@ -193,6 +199,12 @@ Worked reminder: 18 N forces 0.25 m apart give a couple of 18 × 0.25 = 4.5 N m.
 8. 30 × 1.6 = 24 × d, so d = 2.0 m on the other side of the pivot.
 9. d = 0.80 sin 65° = 0.725 m; moment = 40 × 0.725 = 29.0 N m.
 10. At its geometric centre, where the diagonals meet.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-oxfordaqa-physics-motion-and-newtons-laws--06-impulse-area.webp" width="900" height="1140" alt="Two force-time graphs. A triangle rising to 800 N at 6 ms and falling to zero at 18 ms has area 7.2 N s, so a 0.16 kg ball leaves at 45 m s-1. Readings at 2 ms intervals are estimated with trapezium strips as 0.0020 x 1630 = 3.26 N s, about 20 m s-1." loading="lazy">
+  <figcaption>Impulse is the area under a force-time graph; use exact shapes for straight lines and strips for a curve.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

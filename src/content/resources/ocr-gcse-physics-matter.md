@@ -52,15 +52,30 @@ and how mass is conserved during these changes
 calculated, and how pressure in liquids and the atmosphere varies with
 depth, height, and density, including floating, sinking and upthrust
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ocr-gcse-physics-matter--06-atom-models.webp" width="900" height="940" alt="Four pictures in order: Dalton’s solid ball, Thomson’s plum pudding with electrons set in positive charge, Rutherford’s tiny dense nucleus with electrons far away, and Bohr’s electrons in fixed shells. An atom is about 10 to the minus 10 metres across." loading="lazy">
-  <figcaption>The atomic model changed from a solid ball to a nuclear atom with electrons in shells.</figcaption>
-</figure>
+## How to approach it
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ocr-gcse-physics-matter--07-upthrust.webp" width="900" height="1270" alt="A 0.10 m cube 0.20 m under water: 2000 Pa on its top face gives 20 N down and 3000 Pa on its bottom face gives 30 N up, so there is a net 10 N upthrust equal to the weight of water displaced. A block of density 800 kg/m3 floats with weight equal to upthrust; a block of 2700 kg/m3 sinks because its weight 27 N exceeds the 10 N maximum upthrust." loading="lazy">
-  <figcaption>Upthrust comes from the pressure difference between the bottom and top of a submerged object.</figcaption>
-</figure>
+The particle model (P1.1) is the conceptual foundation for the whole
+topic, so be confident describing and comparing particle arrangement,
+movement and energy across all three states before moving to changes
+of state. Changes of state (P1.2) is often tested through
+energy-transfer diagrams and calculations, so practise linking a named
+change of state (melting, boiling, condensing) to the direction of
+energy transfer involved. Pressure (P1.3) is the most calculation-heavy
+sub-topic here -- practise applying the relevant pressure equations
+and interpreting what a calculated value means physically, since exam
+questions frequently pair calculation with explanation. Because
+Foundation and Higher tier candidates are assessed on overlapping but
+not identical content, check which specific outcomes within each
+sub-topic apply to your tier before relying on any single source of
+revision material, since Higher tier candidates are expected to handle
+more demanding calculations and a wider range of contexts than
+Foundation tier candidates.
+
+## Official syllabus
+
+OCR GCSE (9-1) Physics A (Gateway Science) (J249) specification,
+accredited PDF, version 5.0, for first teaching September 2016 —
+[ocr.org.uk](https://www.ocr.org.uk/Images/234600-specification-accredited-gcse-gateway-science-suite-physics-a-j249.pdf).
 
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/igcse-physics-thermal-physics--01-particle-states.webp" width="900" height="1010" alt="Three boxes of particles: a solid with particles touching in regular rows, vibrating; a liquid with touching random particles and a surface; a gas with few, widely spaced fast particles." loading="lazy">
@@ -92,36 +107,6 @@ depth, height, and density, including floating, sinking and upthrust
   <figcaption>Pressure beneath a liquid increases in proportion to depth.</figcaption>
 </figure>
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-physics-motion-forces-and-energy--05-float-or-sink.webp" width="900" height="880" alt="A block of density 0.80 g/cm3 floats in water with 80% submerged, a stone of 2.7 g/cm3 sinks. In a second beaker (Extended) oil of 0.92 g/cm3 floats on water of 1.0 g/cm3." loading="lazy">
-  <figcaption>An object floats if its density is less than the liquid's; a less dense liquid floats on a denser one.</figcaption>
-</figure>
-
-
-## How to approach it
-
-The particle model (P1.1) is the conceptual foundation for the whole
-topic, so be confident describing and comparing particle arrangement,
-movement and energy across all three states before moving to changes
-of state. Changes of state (P1.2) is often tested through
-energy-transfer diagrams and calculations, so practise linking a named
-change of state (melting, boiling, condensing) to the direction of
-energy transfer involved. Pressure (P1.3) is the most calculation-heavy
-sub-topic here -- practise applying the relevant pressure equations
-and interpreting what a calculated value means physically, since exam
-questions frequently pair calculation with explanation. Because
-Foundation and Higher tier candidates are assessed on overlapping but
-not identical content, check which specific outcomes within each
-sub-topic apply to your tier before relying on any single source of
-revision material, since Higher tier candidates are expected to handle
-more demanding calculations and a wider range of contexts than
-Foundation tier candidates.
-
-## Official syllabus
-
-OCR GCSE (9-1) Physics A (Gateway Science) (J249) specification,
-accredited PDF, version 5.0, for first teaching September 2016 —
-[ocr.org.uk](https://www.ocr.org.uk/Images/234600-specification-accredited-gcse-gateway-science-suite-physics-a-j249.pdf).
 
 ## Density
 
@@ -141,6 +126,11 @@ Solids and liquids have similar densities because their particles are close toge
   <figcaption>Regular solid by measurement, irregular solid by displacement, liquid by subtracting the empty cylinder.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-physics-motion-forces-and-energy--05-float-or-sink.webp" width="900" height="880" alt="A block of density 0.80 g/cm3 floats in water with 80% submerged, a stone of 2.7 g/cm3 sinks. In a second beaker (Extended) oil of 0.92 g/cm3 floats on water of 1.0 g/cm3." loading="lazy">
+  <figcaption>An object floats if its density is less than the liquid's; a less dense liquid floats on a denser one.</figcaption>
+</figure>
+
 
 ## The particle model and changes of state
 
@@ -157,6 +147,12 @@ Heating a substance either raises its temperature (increasing the kinetic energy
 ## Development of the atomic model
 
 Ideas about the structure of the atom changed as new evidence emerged. Dalton described atoms as solid spheres. Thomson's discovery of the electron led to the "plum pudding" model — a ball of positive charge with electrons embedded in it. Rutherford's alpha-scattering experiment (carried out with Geiger and Marsden) fired alpha particles at thin gold foil: most passed straight through, but a small fraction were deflected through large angles, showing that an atom's mass and positive charge are concentrated in a tiny, dense **nucleus** with the rest of the atom being empty space. Bohr then proposed that electrons occupy fixed **orbits (shells)** at set distances from the nucleus, which explained why atoms did not collapse. Further experiments established that the nucleus itself contains **protons and neutrons**. An atom has a radius of the order of **10⁻¹⁰ m**, with the nucleus around 10,000 times smaller still.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-matter--06-atom-models.webp" width="900" height="940" alt="Four pictures in order: Dalton’s solid ball, Thomson’s plum pudding with electrons set in positive charge, Rutherford’s tiny dense nucleus with electrons far away, and Bohr’s electrons in fixed shells. An atom is about 10 to the minus 10 metres across." loading="lazy">
+  <figcaption>The atomic model changed from a solid ball to a nuclear atom with electrons in shells.</figcaption>
+</figure>
+
 
 ## Specific heat capacity and latent heat
 
@@ -199,8 +195,18 @@ The **atmosphere** can be modelled as a layer of air surrounding the Earth whose
 **Upthrust** is the net upward force on an object in a fluid, caused by the pressure at the bottom of the object being greater than the pressure at the top (since the bottom is deeper). An object **floats** when the upthrust acting on it equals its weight; it **sinks** if its weight exceeds the maximum upthrust the fluid can provide.
 
 <figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-matter--07-upthrust.webp" width="900" height="1270" alt="A 0.10 m cube 0.20 m under water: 2000 Pa on its top face gives 20 N down and 3000 Pa on its bottom face gives 30 N up, so there is a net 10 N upthrust equal to the weight of water displaced. A block of density 800 kg/m3 floats with weight equal to upthrust; a block of 2700 kg/m3 sinks because its weight 27 N exceeds the 10 N maximum upthrust." loading="lazy">
+  <figcaption>Upthrust comes from the pressure difference between the bottom and top of a submerged object.</figcaption>
+</figure>
+
+<figure class="topic-figure">
   <img src="https://img.marlbridge.com/ocr-gcse-physics-matter--06-mat-liquid-pressure.webp" width="900" height="746" alt="A water tank with sideways arrows at depths 0.5, 1.0 and 2.0 m, with lengths proportional to the pressures 5000, 10 000 and 20 000 Pa. The difference between 0.5 m and 2.0 m is 15 000 Pa." loading="lazy">
   <figcaption>p = h rho g: pressure grows in proportion to depth.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-gas-pressure-compression-and-the-atmosphere--03-air-column-pressure.webp" width="900" height="1060" alt="Three boxes of air particles at weather-balloon height, the top of the highest mountains and the ground have pressures of 25 kPa, about 33 kPa and 100 kPa. The weight of air above 1 m2 is 1.0 x 10^5 N, a mass of 1.0 x 10^4 kg." loading="lazy">
+  <figcaption>Less air above means lower pressure; every square metre of ground carries about ten tonnes of air.</figcaption>
 </figure>
 
 

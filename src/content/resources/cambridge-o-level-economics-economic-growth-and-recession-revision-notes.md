@@ -97,6 +97,16 @@ Country N is invented. Real GDP per quarter, in billions: quarter 1, 320; quarte
   <figcaption>Real GDP per quarter for Country B against potential output of 260.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-edexcel-economics-economic-growth--01-growth-rate-and-recession.webp" width="900" height="780" alt="Bar chart of quarterly real GDP growth: Q1 +0.5%, Q2 -0.3%, Q3 -0.6%. Q2 and Q3 are shaded as a recession because there are two consecutive quarters of negative growth, confirmed at the end of Q3. One negative quarter would not be a recession." loading="lazy">
+  <figcaption>Two consecutive quarters of negative growth make a recession, confirmed here at the end of Q3.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-basic-economic-problem--05-ppc-points.webp" width="900" height="1080" alt="An illustrative PPC with Food and Machines axes. A on the curve means all resources fully used, B inside means idle or wasted resources, C beyond the curve cannot be reached with current resources." loading="lazy">
+  <figcaption>Points inside, on and beyond the PPC show how well resources are used.</figcaption>
+</figure>
+
 
 ## Chains of reasoning to learn
 
@@ -152,6 +162,11 @@ Quantity of factors: more workers, land, capital. Quality: skills, health, bette
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/cambridge-o-level-economics-economic-growth-and-recession--08-growth-policies-ppc.webp" width="900" height="1140" alt="Fiscal and monetary policy use spare capacity; education, infrastructure, investment incentives and trade and investment policies shift the PPC outward, slowly but lastingly. Illustrative numbers from the lesson." loading="lazy">
   <figcaption>Two PPC diagrams: demand policies move towards the curve, capacity policies shift it out.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-basic-economic-problem--07-ppc-shift-vs-movement.webp" width="900" height="1190" alt="Top: a point inside the curve moves to the curve by using idle resources more fully; this is temporary, reversible and not economic growth on this syllabus. Bottom: the whole curve shifts outward because of more or better resources or better technology, a permanent increase in capacity, which is economic growth." loading="lazy">
+  <figcaption>Only an outward shift of the whole curve counts as economic growth.</figcaption>
 </figure>
 
 

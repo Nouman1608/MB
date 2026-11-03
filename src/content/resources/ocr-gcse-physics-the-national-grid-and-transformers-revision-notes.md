@@ -122,21 +122,9 @@ A step-up transformer has 1200 turns on the primary coil. It takes 25 kV and del
 - **Why step up**: to transmit efficiently. **Why step down**: so the supply reaches homes at a safe, usable value.
 - **Real versus ideal**: a real transformer wastes a little energy as thermal energy, so output power is slightly less than input power.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ocr-gcse-physics-the-national-grid-and-transformers--10-pd-along-vs-across.webp" width="900" height="960" alt="A power line strung between two pylons above the ground. A voltmeter connected between the line and the ground reads 400 kilovolts. A second voltmeter connected across the two ends of the line reads only 240 volts, which is the current of 30 amperes times the line resistance of 8.0 ohms. A bar underneath shows that 240 volts is just 0.06 percent of 400 kilovolts, a sliver too thin to see." loading="lazy">
-  <figcaption>The 400 kV is across the line to ground; along the whole cable the p.d. is only I × R = 240 V.</figcaption>
-</figure>
-
-
 ## Model power line
 
 The specification suggests a model power line to show the energy losses at lower voltage and higher current. Remember the pattern: for the same power entering the line, a lower supply p.d. gives a larger current, more heating in the thin wires and a dimmer lamp at the end. In a data table, if the supply p.d. doubles, the current halves and the wasted power falls to a quarter.
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ocr-gcse-physics-the-national-grid-and-transformers--08-model-power-line.webp" width="900" height="1080" alt="Three set-ups of a model power line carrying 12 watts through a line of 0.50 ohms. With a 6 volt supply the line current is 2.0 amperes, 2.0 watts are wasted in the line and 83 percent reaches the lamp. With 12 volts the current is 1.0 ampere, 0.50 watts are wasted and 96 percent reaches the lamp. With 24 volts the current is 0.50 amperes, 0.125 watts are wasted and 99 percent reaches the lamp. The thickness of the red line shows the current, and each bar shows how the 12 watts is split between the lamp and the wasted heat. Doubling the p.d. halves the current and cuts the wasted power to a quarter." loading="lazy">
-  <figcaption>For 12 W entering a 0.50 Ω line, doubling the supply p.d. halves the current and quarters the wasted power.</figcaption>
-</figure>
-
 
 ## Quick self-test
 
@@ -163,6 +151,17 @@ The specification suggests a model power line to show the energy losses at lower
 8. Power = 12 000 × 500 = 6.0 MW. Is = 6 000 000 / 240 000 = **25 A**.
 9. Vp Ip = Vs Is, so Ip = 33 000 × 60 / 132 000 = **15 A**. (Step-down: current is smaller on the primary side.)
 10. The 400 kV is the potential difference between the line and the ground. The potential difference along the cable is only the current times the cable resistance, which is small.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-the-national-grid-and-transformers--08-model-power-line.webp" width="900" height="1080" alt="Three set-ups of a model power line carrying 12 watts through a line of 0.50 ohms. With a 6 volt supply the line current is 2.0 amperes, 2.0 watts are wasted in the line and 83 percent reaches the lamp. With 12 volts the current is 1.0 ampere, 0.50 watts are wasted and 96 percent reaches the lamp. With 24 volts the current is 0.50 amperes, 0.125 watts are wasted and 99 percent reaches the lamp. The thickness of the red line shows the current, and each bar shows how the 12 watts is split between the lamp and the wasted heat. Doubling the p.d. halves the current and cuts the wasted power to a quarter." loading="lazy">
+  <figcaption>For 12 W entering a 0.50 Ω line, doubling the supply p.d. halves the current and quarters the wasted power.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-the-national-grid-and-transformers--10-pd-along-vs-across.webp" width="900" height="960" alt="A power line strung between two pylons above the ground. A voltmeter connected between the line and the ground reads 400 kilovolts. A second voltmeter connected across the two ends of the line reads only 240 volts, which is the current of 30 amperes times the line resistance of 8.0 ohms. A bar underneath shows that 240 volts is just 0.06 percent of 400 kilovolts, a sliver too thin to see." loading="lazy">
+  <figcaption>The 400 kV is across the line to ground; along the whole cable the p.d. is only I × R = 240 V.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

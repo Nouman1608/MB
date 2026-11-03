@@ -127,6 +127,11 @@ Use the same sequence for each:
   <figcaption>An export subsidy of 2 raises exports to 38 but leaves a net loss of 18.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-international-trade--11-un227-tr-quota-rent.webp" width="900" height="1066" alt="A cloth market diagram with Qd = 120 - 4P, Qs = 20 + 4P and world price 5. A quota of 44 adds 44 to supply and raises the price to 7. The rectangle between quantities 48 and 92 and prices 5 and 7 is the licence rent of 88, not tax revenue." loading="lazy">
+  <figcaption>A quota of 44 gives the same price rise as the tariff, but the 88 box goes to licence holders.</figcaption>
+</figure>
+
 
 ## Reasons for and against protection
 
@@ -190,12 +195,6 @@ Use the same sequence for each:
 10. Any two of: investment in education or capital, new technology, discovery or exhaustion of resources, wage changes, exchange rate changes.
 11. Selling in a foreign market at a price below cost, or below the price charged at home.
 12. 3 × 50 = 150.
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-international-trade--11-un227-tr-quota-rent.webp" width="900" height="1066" alt="A cloth market diagram with Qd = 120 - 4P, Qs = 20 + 4P and world price 5. A quota of 44 adds 44 to supply and raises the price to 7. The rectangle between quantities 48 and 92 and prices 5 and 7 is the licence rent of 88, not tax revenue." loading="lazy">
-  <figcaption>A quota of 44 gives the same price rise as the tariff, but the 88 box goes to licence holders.</figcaption>
-</figure>
-
 
 ## Where marks are usually lost
 

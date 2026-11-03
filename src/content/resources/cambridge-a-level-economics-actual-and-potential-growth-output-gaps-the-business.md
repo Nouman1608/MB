@@ -145,6 +145,16 @@ The **business cycle** is the pattern of fluctuations of actual growth around th
   <figcaption>The business cycle has expansion, peak, contraction (recession) and trough phases.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-aggregate-demand-supply--06-accelerator.webp" width="900" height="1000" alt="Output rises every year over six years while net investment, equal to 2 times the change in output, rises then falls to 20 and 10 once growth slows. Investment depends on the rate of change of demand, not only its level." loading="lazy">
+  <figcaption>When demand growth slows, net investment can fall even though output is still rising.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-aggregate-demand-supply--05-multiplier.webp" width="900" height="902" alt="Bars show £10bn of extra spending passed on at an MPC of 0.8: 10, 8, 6.4, 5.12 and so on. A long bar adds the rounds up to a £50bn rise in income, and the formula 1 ÷ (1 − MPC) = 5 is shown." loading="lazy">
+  <figcaption>With an MPC of 0.8 the multiplier is 5, so £10bn of extra spending raises national income by £50bn.</figcaption>
+</figure>
+
 
 ## 9.2.4 Policies to promote growth and their effectiveness
 

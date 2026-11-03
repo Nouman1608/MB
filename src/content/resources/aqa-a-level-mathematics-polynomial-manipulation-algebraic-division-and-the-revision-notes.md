@@ -229,6 +229,12 @@ Writing the tool you are using in a few words, such as "by the factor theorem", 
 9. x + 2 − 1/(x − 1)
 10. x = −5/2
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-polynomial-manipulation-algebraic-division-and-the--06-transform-track-points.webp" width="900" height="960" alt="A downward parabola y = f(x) with maximum (2, 5) and its image y = 4 - 2f(3x - 6), an upward parabola. Three marked points move: (2, 5) to (8/3, -6), (-1, 0) to (5/3, 4) and (5, 0) to (11/3, 4). The maximum becomes a minimum." loading="lazy">
+  <figcaption>Solve the bracket for the new x-value, then apply the outside changes to y.</figcaption>
+</figure>
+
+
 ## Where marks are usually lost
 
 - Dropping or flipping a sign when subtracting a bracketed product.

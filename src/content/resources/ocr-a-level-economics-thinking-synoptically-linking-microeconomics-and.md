@@ -192,6 +192,11 @@ Five riders earn (cu a week) 220, 240, 250, 260 and 530. The mean is 1,500 / 5 =
   <figcaption>Index points and percentage change are different measures.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-economics-measurement-of-macroeconomic-performance--03-index-numbers.webp" width="900" height="980" alt="Bars have widths equal to weights (food 50%, housing 30%, transport 20%) and heights equal to item indices 104, 106 and 96 against a base-year line at 100. The weighted average is 103, meaning prices are 3% above the base year." loading="lazy">
+  <figcaption>Weights make bigger spending items count more in an index anchored at 100.</figcaption>
+</figure>
+
 
 ## 5. Multiple-choice technique
 
@@ -203,6 +208,12 @@ The 30 multiple-choice questions come from across the course, mainly testing kno
 - Watch for "real" and "nominal", for "falls" and "falls by less", and for "per cent" versus "percentage points".
 
 **Example.** Nominal GDP rises by 7% and the price level rises by 4%. What is the growth in real GDP? Real growth is 1.07 / 1.04 - 1 = 0.0288, so **about 2.9%**. Subtracting the rates gives 3%, which is only a rough approximation, so a close option such as 3% can be a trap when the exact figure is 2.9%.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-edexcel-economics-economic-growth--02-real-and-nominal-gdp.webp" width="900" height="780" alt="Line chart over four years, index year 0 = 100. Real GDP, with inflation removed, grows about 2% a year to 108.2. Nominal GDP grows faster to 121.8 because prices also rise about 3% a year; the shaded gap is the effect of price rises." loading="lazy">
+  <figcaption>Nominal GDP includes price rises; real GDP removes them so growth in output can be seen.</figcaption>
+</figure>
+
 
 ## 6. Extended response and thinking as an economist
 

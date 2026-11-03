@@ -67,6 +67,11 @@ Skeletal muscle fibre: one long multinucleate cell with sarcolemma, T tubules, s
 Distinction: ATP is needed to detach the head (step 7) and to re-set it (step 8).
 
 <figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-control-and-coordination--05-cholinergic-synapse.webp" width="900" height="1110" alt="A presynaptic knob sits above a postsynaptic neurone with a 20 nm cleft between. An action potential opens Ca2+ channels, Ca2+ enters and vesicles release acetylcholine by exocytosis. ACh binds receptors that are Na+ channels, so Na+ enters and the membrane depolarises. Acetylcholinesterase splits ACh and choline is taken back in. Receptors are only on the postsynaptic side, so transmission is one way." loading="lazy">
+  <figcaption>The six steps of transmission across a cholinergic synapse.</figcaption>
+</figure>
+
+<figure class="topic-figure">
   <img src="https://img.marlbridge.com/a-level-biology-9700-control-and-coordination--09-cross-bridge-cycle.webp" width="900" height="1290" alt="Five stages show a myosin head and an actin filament with tropomyosin and troponin. At rest tropomyosin blocks the binding sites. Ca2+ binds troponin, tropomyosin moves aside and the head binds actin. The head tilts in the power stroke, pulling actin toward the M line and releasing ADP and Pi. ATP binds and the head detaches; hydrolysis of ATP resets it. AQA does not require troponin." loading="lazy">
   <figcaption>The cross-bridge cycle: calcium, binding, power stroke, ATP detachment and reset.</figcaption>
 </figure>

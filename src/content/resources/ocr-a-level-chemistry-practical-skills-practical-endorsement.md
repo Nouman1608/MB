@@ -161,6 +161,11 @@ The phthalate is a weak acid: use phenolphthalein.
   <figcaption>Leave the rough titre out and average the concordant ones before calculating.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-acids-and-bases--07-indicator-choice.webp" width="900" height="1260" alt="For each titration type the steep section is shaded and four indicators are drawn as colour ranges. Only indicators fully inside the shaded section get a tick: all four for strong+strong, phenolphthalein for weak acid+strong base, methyl orange and methyl red for strong acid+weak base." loading="lazy">
+  <figcaption>An indicator is suitable only if its whole colour-change range lies inside the steep section of the curve.</figcaption>
+</figure>
+
 
 ## 1.2.2 Preparation and purification
 
@@ -212,6 +217,11 @@ Rf(X) = 3.9 / 7.5 = 0.52      Rf(Y) = 5.7 / 7.5 = 0.76
   <figcaption>Impurities lower the melting point and widen the range.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-organic-synthesis--08-reflux-distillation.webp" width="900" height="1040" alt="Reflux: vertical condenser with its top open, water in at the bottom and out at the top, vapour rising and liquid falling back. Distillation: still head with the thermometer bulb level with the side arm, a sloping condenser with water in and out, and a receiver for the product." loading="lazy">
+  <figcaption>Reflux keeps volatile material in the flask; distillation collects it (OCR and Edexcel content).</figcaption>
+</figure>
+
 
 ## 1.2.2 Tests, cells and rates
 
@@ -243,6 +253,10 @@ Doubling concentration roughly doubles 1/t (ratios 1.97 and 2.07): first order.
 
 A **continuous monitoring** method (PAG9) follows gas volume, mass loss or colour against time. If the final gas volume is 64.0 cm³, with 32.0 cm³ at 38 s and 48.0 cm³ at 76 s, the half-life is a constant 38 s, so the reaction is first order.
 
+## Related pages
+
+[Amount of substance](/resources/ocr-a-level-chemistry-amount-of-substance/), [Acids](/resources/ocr-a-level-chemistry-acids/) and [exam preparation](/resources/ocr-a-level-chemistry-exam-preparation/).
+
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/ocr-a-level-chemistry-practical-skills-practical-endorsement--05-silver-copper-cell.webp" width="900" height="880" alt="A silver half-cell (positive) and copper half-cell (negative) are joined by a potassium nitrate salt bridge and a high-resistance voltmeter reading +0.46 V, from 0.80 minus 0.34." loading="lazy">
   <figcaption>Cell voltage is E(positive) minus E(negative); use a KNO3 salt bridge.</figcaption>
@@ -258,10 +272,36 @@ A **continuous monitoring** method (PAG9) follows gas volume, mass loss or colou
   <figcaption>A constant 38 s half-life shows the reaction is first order.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-introduction-to-the-particulate-nature-of-matter--03-recrystallization.webp" width="900" height="1180" alt="Five numbered steps: dissolve in the least hot water, filter hot so sand stays on the paper, cool slowly so crystals form, filter and wash with cold water, and dry. A pure sample then melts sharply." loading="lazy">
+  <figcaption>Dissolve in hot solvent, filter, cool, collect crystals and dry; a sharp melting point checks purity.</figcaption>
+</figure>
 
-## Related pages
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-kinetics--07-half-life.webp" width="900" height="1060" alt="Two concentration-time graphs. For a first-order reaction each halving (0.80 to 0.40 to 0.20 to 0.10) takes the same 60 s, so k = ln 2 divided by the half-life. For a zero-order reaction the line is straight and successive halvings take 100, 50 and 25 s, with k equal to minus the gradient." loading="lazy">
+  <figcaption>A constant half-life shows first order; in a zero-order reaction successive half-lives shorten.</figcaption>
+</figure>
 
-[Amount of substance](/resources/ocr-a-level-chemistry-amount-of-substance/), [Acids](/resources/ocr-a-level-chemistry-acids/) and [exam preparation](/resources/ocr-a-level-chemistry-exam-preparation/).
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-reactions-of-ions-in-aqueous-solution--06-anion-sequence.webp" width="900" height="1090" alt="Three numbered steps. Add dilute nitric acid first: fizzing shows carbonate and removes it. Then barium nitrate: a white precipitate shows sulfate, and carbonate must already be gone because BaCO3 is also insoluble. Then silver nitrate followed by ammonia: white, cream or yellow shows a halide, and sulfate must be gone because Ag2SO4 is insoluble." loading="lazy">
+  <figcaption>Test for carbonate, then sulfate, then halide, because each later reagent would also precipitate the ion tested earlier.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-reactions-of-ions-in-aqueous-solution--07-silver-halides.webp" width="900" height="1060" alt="A 3 by 3 grid of tubes for chloride, bromide and iodide. With silver nitrate the precipitates are white, cream and yellow. Dilute ammonia dissolves only silver chloride; concentrated ammonia dissolves silver chloride and silver bromide; silver iodide never dissolves." loading="lazy">
+  <figcaption>Chloride dissolves in dilute NH3, bromide only in concentrated NH3, and iodide does not dissolve.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-aldehydes-and-ketones--02-carbonyl-tests.webp" width="900" height="1110" alt="Three rows of test tubes compare an aldehyde with a ketone. Tollens’ gives a silver mirror only with the aldehyde, Fehling’s a red precipitate on blue only with the aldehyde, and acidified dichromate(VI) turns orange to green only with the aldehyde." loading="lazy">
+  <figcaption>Aldehydes are oxidised by Tollens’, Fehling’s and dichromate; ketones are not (Fehling’s not on OCR; dichromate for OCR and Edexcel).</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-aldehydes-and-ketones--08-dnph-melting-point.webp" width="900" height="1050" alt="An orange precipitate with 2,4-DNPH shows a carbonyl group. A number line gives derivative melting temperatures, with an unknown at 125 degrees C between butanal and propanone. A negative Tollens’ test rules out the aldehyde, so it is propanone." loading="lazy">
+  <figcaption>2,4-DNPH shows C=O; a close melting temperature needs a second test such as Tollens’.</figcaption>
+</figure>
+
 
 ## Official syllabus
 

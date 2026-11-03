@@ -41,6 +41,11 @@ The specification says that Simpson's formula will be provided where needed in a
   <figcaption>The marked fraction in the second catch tells you what fraction of the population the first catch was.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-classification-biodiversity-and-conservation--08-conservation-methods.webp" width="900" height="1030" alt="Icons show in situ methods in the natural habitat, a wildlife reserve and a marine conservation zone, and ex situ methods outside it: a zoo, a botanic garden, a seed bank and a frozen zoo storing material in liquid nitrogen (Cambridge only)." loading="lazy">
+  <figcaption>In situ protects species where they live; ex situ keeps them or their genes elsewhere.</figcaption>
+</figure>
+
 
 ## 4.2.1(a) Levels of biodiversity
 

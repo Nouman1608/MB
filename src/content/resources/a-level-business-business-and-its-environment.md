@@ -136,6 +136,12 @@ reassures lenders and investors, but it is only as reliable as the
 assumptions and forecasts behind it, and a fast-changing market can
 make a plan outdated soon after it is written.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-business-business-and-its-environment--03-pestle-opportunity-threat.webp" width="900" height="1010" alt="The six PESTLE factors, then one social change (an ageing population) shown as an opportunity for Ivybrook Care and a threat for Rushbank Couriers." loading="lazy">
+  <figcaption>One external change can be an opportunity for one firm and a threat for another.</figcaption>
+</figure>
+
+
 ## Stakeholder conflict in more depth
 
 1.5 rewards being able to identify not just who a business's internal
@@ -178,6 +184,11 @@ is actually trying to achieve.
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/a-level-business-business-and-its-environment--01-objectives-hierarchy.webp" width="900" height="1060" alt="Mission informs corporate objectives (profit, growth, market share, survival, cash flow, social and ethical), which inform functional objectives in marketing, operations, finance and HR. Objectives can conflict, such as growth against cash flow." loading="lazy">
   <figcaption>Objectives flow from mission to corporate to functional level, and can conflict.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-business-business-and-its-environment--04-five-forces.webp" width="900" height="900" alt="Rivalry sits in the centre with arrows from entry threat, substitutes, suppliers and buyers. Strong forces mean low margins; weak forces give firms pricing power." loading="lazy">
+  <figcaption>Five forces are pressures on industry profit that you then apply to the business.</figcaption>
 </figure>
 
 

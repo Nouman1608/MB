@@ -207,12 +207,6 @@ Control because they compete with, prey on, spread disease to or hybridise with 
 - **IUCN:** assesses status; publishes the **Red List**; advises governments.
 - **CITES:** agreement between governments; **controls international trade** in endangered species and their products.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-level-biology-9700-classification-biodiversity-and-conservation--08-conservation-methods.webp" width="900" height="1030" alt="Icons show in situ methods in the natural habitat, a wildlife reserve and a marine conservation zone, and ex situ methods outside it: a zoo, a botanic garden, a seed bank and a frozen zoo storing material in liquid nitrogen (Cambridge only)." loading="lazy">
-  <figcaption>In situ protects species where they live; ex situ keeps them or their genes elsewhere.</figcaption>
-</figure>
-
-
 ## Quick self-test
 
 1. State the biological species concept.
@@ -242,6 +236,12 @@ Control because they compete with, prey on, spread disease to or hybridise with 
 10. When the data are continuous, normally distributed, and a scatter graph suggests a linear relationship.
 11. Store gametes, embryos or tissue samples in liquid nitrogen; keep genetic diversity for future IVF or embryo transfer.
 12. It controls international trade in endangered species and their products.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-classification-biodiversity-and-conservation--08-conservation-methods.webp" width="900" height="1030" alt="Icons show in situ methods in the natural habitat, a wildlife reserve and a marine conservation zone, and ex situ methods outside it: a zoo, a botanic garden, a seed bank and a frozen zoo storing material in liquid nitrogen (Cambridge only)." loading="lazy">
+  <figcaption>In situ protects species where they live; ex situ keeps them or their genes elsewhere.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

@@ -85,6 +85,21 @@ These are condensed notes for section 1.3.3, Marketing mix and strategy, in Unit
   <figcaption>The marketing mix must be consistent: a premium price with poor packaging and discount retailers fails.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-marketing--04-product-life-cycle.webp" width="900" height="950" alt="Illustrative sales curve over time in four stages: introduction (low sales), growth (rising fast), maturity (peak, levelling), decline (falling). A dashed line shows an extension strategy lifting sales again. Promotion and pricing change at each stage." loading="lazy">
+  <figcaption>The product life cycle, with an extension strategy shown dashed.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-business-marketing--01-boston-matrix.webp" width="900" height="1000" alt="Chart of relative market share (high left, low right, log scale) against market growth. Star, Question mark, Cash cow and Dog quadrants each carry a one-line strategy, with four illustrative products A to D placed in them." loading="lazy">
+  <figcaption>The Boston Matrix classifies products by market share and market growth and suggests a strategy for each.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-marketing--01-niche-vs-mass-marketing.webp" width="900" height="860" alt="Two panels show the same market of twelve people. Mass marketing aims one offer at all twelve (benefit: economies of scale; limitation: more rivals). Niche marketing aims a tailored offer at three of them (benefits: premium prices, less competition; limitation: fewer buyers)." loading="lazy">
+  <figcaption>Mass marketing targets everyone with one offer; niche marketing targets a small segment.</figcaption>
+</figure>
+
 
 ## 2 Product/service design
 
@@ -166,6 +181,11 @@ These are condensed notes for section 1.3.3, Marketing mix and strategy, in Unit
   <figcaption>A price just below a round number can feel cheaper.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-marketing--05-pricing-methods.webp" width="900" height="990" alt="A graph shows skimming starting high and falling, and penetration starting low and rising, both towards the same price. Cost-plus adds a mark-up to cost (6 + 1.5 = 7.5). Competitive pricing matches rivals (5.00, 5.20, 5.10 so 5.10). Promotional pricing is a short-term cut (8 to 6)." loading="lazy">
+  <figcaption>Skimming, penetration, cost-plus, competitive and promotional pricing.</figcaption>
+</figure>
+
 
 ## 5 Distribution
 
@@ -180,6 +200,11 @@ Shorter channel: more income per unit and more control for the producer, but it 
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/edexcel-ial-business-marketing-mix-and-strategy--12-channel-price-buildup.webp" width="900" height="940" alt="Three bars to one scale: four stage £210 to the consumer (producer £120), three stage £196 (producer £140), two stage online £175 (producer keeps £157 after £18 delivery)." loading="lazy">
   <figcaption>The shorter the channel, the more the producer keeps per unit.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-marketing--06-distribution-channels.webp" width="900" height="1060" alt="Three routes from producer to consumer: via wholesaler then retailer, via retailer only, or direct. Longer chains reach many shops but add cost; the direct route keeps the whole margin but means doing the selling yourself." loading="lazy">
+  <figcaption>Channels of distribution from producer to consumer.</figcaption>
 </figure>
 
 

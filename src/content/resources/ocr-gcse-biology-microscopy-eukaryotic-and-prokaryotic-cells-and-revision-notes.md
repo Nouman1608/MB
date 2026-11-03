@@ -226,12 +226,6 @@ Notice that you can skip the magnification: 30 ÷ 20 × 2 = 3 µm.
 - **Calculate**: show the formula, the conversion and the unit.
 - **Suggest** (why a stain is used, or why a TEM image shows more): apply the idea of contrast or resolution to the situation given.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ocr-gcse-biology-microscopy-eukaryotic-and-prokaryotic-cells-and--05-resolution-tem.webp" width="900" height="830" alt="A log size scale from 10 nm to 100 micrometres with a dashed line at 200 nm, the limit of a light microscope. Ribosomes (25 nm) lie left of it. A mitochondrion (1.2 micrometres), bacterium (a few micrometres) and cheek cell (60 micrometres) lie right. Worked TEM example: 36 mm at x30 000 is 1.2 micrometres." loading="lazy">
-  <figcaption>Structures smaller than 200 nm cannot be resolved by a light microscope, so a TEM is needed.</figcaption>
-</figure>
-
-
 ## Quick self-test
 
 1. Name the part of the microscope that holds the slide.
@@ -257,6 +251,12 @@ Notice that you can skip the magnification: 30 ÷ 20 × 2 = 3 µm.
 8. Free in the cytoplasm, as a circular chromosome, with plasmids; there is no nucleus.
 9. It has higher resolution, so structures closer together are seen as separate.
 10. 40 ÷ 20 000 = 0.002 mm = 2 µm.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-microscopy-eukaryotic-and-prokaryotic-cells-and--05-resolution-tem.webp" width="900" height="830" alt="A log size scale from 10 nm to 100 micrometres with a dashed line at 200 nm, the limit of a light microscope. Ribosomes (25 nm) lie left of it. A mitochondrion (1.2 micrometres), bacterium (a few micrometres) and cheek cell (60 micrometres) lie right. Worked TEM example: 36 mm at x30 000 is 1.2 micrometres." loading="lazy">
+  <figcaption>Structures smaller than 200 nm cannot be resolved by a light microscope, so a TEM is needed.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

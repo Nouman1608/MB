@@ -193,6 +193,11 @@ For any AO3 question, give both sides and then a verdict. Useful criteria are:
   <figcaption>Spreading fixed costs over a larger bloc market lowers average cost.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-economics-economic-integration--01-int-labour-mobility.webp" width="900" height="770" alt="Two bars of Tamarek labour force. Before, 220 000 of 2 000 000 are unemployed (11%). After 40 000 unemployed workers take jobs in Veldoria, 180 000 of 1 960 000 are unemployed (9.2%)." loading="lazy">
+  <figcaption>When 40 000 jobless workers move to Veldoria, Tamarek unemployment falls from 11% to 9.2%.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

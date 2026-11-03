@@ -85,17 +85,6 @@ The merged firm claims its unit cost will fall by 8%, from an index of 100 to 92
 
 Possible decisions: allow, allow with conditions (for example selling some plants to a new entrant), or block. Evaluation points: the quality of the cost evidence, how contestable the market is, whether the merger is needed to compete with foreign rivals, and the cost of mistakes in each direction.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-competition-policy-public-ownership-privatisation-and--12-flour-merger.webp" width="900" height="960" alt="Two bars of market shares. Before: five firms with 30, 25, 20, 15 and 10 percent, a four-firm ratio of 90%. After the 20% and 15% firms merge: four firms with 30, 25, 35 and 10 percent, a four-firm ratio of 100% and the largest firm up from 30% to 35%. A claimed cost saving of 8 gives price 96 if half is passed on." loading="lazy">
-  <figcaption>Merging two mid-sized firms raises the four-firm concentration ratio from 90% to 100% and creates a larger leader.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ocr-a-level-economics-microeconomics--07-concentration-ratio.webp" width="900" height="950" alt="Two illustrative markets as stacked bars. Market A (8 firms) has a three-firm concentration ratio of 67 percent (30 + 22 + 15); Market B (13 firms) has 31 percent (12 + 10 + 9). Higher means closer to oligopoly or monopoly." loading="lazy">
-  <figcaption>A concentration ratio adds up the market shares of the largest firms.</figcaption>
-</figure>
-
-
 ## Restrictive practices and consumer protection
 
 Restrictive practices are agreements that limit competition: price fixing, market sharing, bid rigging and agreements to limit output. A cartel is a group of firms that cooperate in this way. Policy usually bans them and punishes them with fines related to turnover, damages claims and, in some countries, prison for individuals. Leniency schemes reward the first member to report the cartel, which makes members distrust each other.
@@ -115,6 +104,16 @@ Conclusion: fines alone deter weakly when detection is unlikely. This supports l
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-competition-policy-public-ownership-privatisation-and--11-cartel-deterrence.webp" width="900" height="970" alt="Bars in millions: gain from price fixing 80 (20 a year for 4 years), maximum fine 20, expected fine 6 (0.3 x 20), and the fine needed to deter 266.7 (80 divided by 0.3, 133% of turnover). The expected fine is far below the gain so the cartel pays." loading="lazy">
   <figcaption>With a detection chance of 0.3 the expected fine is far below the gain, so fines alone deter weakly.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-competition-policy-public-ownership-privatisation-and--12-flour-merger.webp" width="900" height="960" alt="Two bars of market shares. Before: five firms with 30, 25, 20, 15 and 10 percent, a four-firm ratio of 90%. After the 20% and 15% firms merge: four firms with 30, 25, 35 and 10 percent, a four-firm ratio of 100% and the largest firm up from 30% to 35%. A claimed cost saving of 8 gives price 96 if half is passed on." loading="lazy">
+  <figcaption>Merging two mid-sized firms raises the four-firm concentration ratio from 90% to 100% and creates a larger leader.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-microeconomics--07-concentration-ratio.webp" width="900" height="950" alt="Two illustrative markets as stacked bars. Market A (8 firms) has a three-firm concentration ratio of 67 percent (30 + 22 + 15); Market B (13 firms) has 31 percent (12 + 10 + 9). Higher means closer to oligopoly or monopoly." loading="lazy">
+  <figcaption>A concentration ratio adds up the market shares of the largest firms.</figcaption>
 </figure>
 
 

@@ -101,6 +101,11 @@ Choosing capital goods over consumer goods today shifts the PPC further out in f
   <figcaption>Only an outward shift of the whole curve counts as economic growth.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-economics-opportunity-cost-and-production-possibility-curves--08-capital-goods-grow-ppc.webp" width="900" height="970" alt="Two schematic PPCs for capital against consumer goods. Country Y stays at a maximum of 200 consumer goods; Country X after investing reaches 230, growth of 15%, at the price of lower consumption today." loading="lazy">
+  <figcaption>Investing in capital goods lowers consumption now but raises potential output later.</figcaption>
+</figure>
+
 
 ## Positive and normative
 
@@ -113,6 +118,11 @@ Choosing capital goods over consumer goods today shifts the PPC further out in f
   <figcaption>A positive statement can be tested, whether or not it is true.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-economics-basic-economic-ideas-and-resource-allocation--01-positive-vs-normative.webp" width="900" height="910" alt="Two cards. Positive: &quot;Unemployment rose by 2%&quot; can be tested against data, shown by bars (illustrative 5% to 7%) and a magnifying glass, so it is true or false. Normative: &quot;The government should reduce unemployment&quot; is a value judgement, shown by a balance scale; data alone cannot settle it." loading="lazy">
+  <figcaption>A positive statement can be tested against evidence; a normative one rests on values.</figcaption>
+</figure>
+
 
 ## Economic systems
 
@@ -123,6 +133,17 @@ Choosing capital goods over consumer goods today shifts the PPC further out in f
 | **Mixed** | Both | Balances the two | Requires effective regulation |
 
 Almost every real economy is mixed; the exam question is usually about the **degree** of intervention, not a binary choice.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-economics-basic-economic-ideas-and-resource-allocation--02-economic-systems.webp" width="900" height="990" alt="Three questions, what, how and for whom, are answered in different ways. In a market economy prices and firms decide, in a planned economy the state decides, and a mixed economy shares decisions between both." loading="lazy">
+  <figcaption>Market, planned and mixed economies differ in who answers what, how and for whom.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-factors-of-production-and-economic-systems--07-economic-systems-strengths-weaknesses.webp" width="900" height="860" alt="Ticks and crosses per system. Market: responds to wants, rewards efficiency; ignores those on no income, under-provides public goods. Mixed: combines prices and state provision; government may misjudge, intervention has costs. Planned: meets national priorities, equal access; information problems, shortages and surpluses." loading="lazy">
+  <figcaption>Strengths and weaknesses of market, mixed and planned systems.</figcaption>
+</figure>
+
 
 ## Classification of goods and services (1.6)
 
@@ -143,6 +164,26 @@ Market failure, externalities, market structures and government failure are **A 
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/a-level-economics-basic-ideas-revision-notes--08-good-type-path.webp" width="900" height="1050" alt="Decision path: not scarce means free good; scarce, excludable and rival means private good; non-excludable and non-rival means public good with free riders so no firm supplies it. Merit and demerit goods are defined by imperfect information, are under- or over-consumed, and can be sold privately." loading="lazy">
   <figcaption>Scarcity, excludability and rivalry sort goods; information defines merit and demerit goods.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-economics-basic-economic-ideas-and-resource-allocation--03-excludable-rival-grid.webp" width="900" height="860" alt="A grid of rival or non-rival against excludable or non-excludable. Private goods are rival and excludable. Public goods are non-excludable and non-rival, such as defence and street lighting. The other two cells are mixed cases." loading="lazy">
+  <figcaption>Public goods are non-excludable and non-rival; private goods can be withheld from non-payers.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-economics-basic-economic-ideas-and-resource-allocation--04-free-rider-problem.webp" width="900" height="890" alt="A street lamp lights five people but only one pays; four free ride because nobody can be excluded. The collected 25 is far below the lamp's cost of 100, so a private firm cannot supply it profitably." loading="lazy">
+  <figcaption>Non-excludability lets people free ride, so private firms cannot profitably supply public goods.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-production-possibility-curves-and-the-classification--06-street-lighting-free-rider.webp" width="900" height="1030" alt="One hundred household squares, each worth 300 cu of benefit to its household: 200 cu is its share of the tax (gold) and 100 cu is net gain (teal). Total benefit 30,000 cu against cost 20,000 cu, so net benefit 10,000 cu. Under voluntary payment each household hopes others pay; a compulsory tax of 200 per household funds the lighting." loading="lazy">
+  <figcaption>Each of 100 households values the lighting at 300 and pays 200 in tax, so all gain 100 and the 20,000 cost is covered.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-economics-basic-economic-ideas-and-resource-allocation--05-merit-demerit-information.webp" width="900" height="1240" alt="Two supply and demand diagrams with illustrative curves. For a merit good, consumers underestimate private benefit, so perceived demand lies left of informed demand and consumption is too low. For a demerit good, they underestimate private harm, so perceived demand lies right and consumption is too high." loading="lazy">
+  <figcaption>Imperfect information leads to under-consumption of merit goods and over-consumption of demerit goods.</figcaption>
 </figure>
 
 
@@ -167,12 +208,6 @@ the whole curve — here, 2 units of food per 1 unit of machinery — which
 is a useful check on whether a stated pair of points genuinely lies on
 the same straight-line PPC.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-level-economics-basic-ideas-revision-notes--06-ppc-worked-straight.webp" width="900" height="950" alt="A straight PPC from 50 machinery to 100 food. A (60 food, 20 machinery) to B (40 food, 30 machinery) gives up 20 food for 10 machinery: 2 food per machine everywhere on the line." loading="lazy">
-  <figcaption>Moving along a straight PPC always costs 2 food per machine.</figcaption>
-</figure>
-
-
 ## Exam traps
 
 - Defining opportunity cost without "next best".
@@ -192,3 +227,9 @@ the same straight-line PPC.
 4. What distinguishes a positive from a normative statement?
 
 **Answers:** 1. The value of the next best alternative forgone. 2. It is concave to the origin under increasing opportunity cost, where resources are not perfectly substitutable between uses, so as output of one good rises, increasingly unsuitable resources must be transferred and the opportunity cost rises; under constant opportunity cost, where resources are perfectly substitutable, it is a straight line. 3. Non-excludable and non-rival; because non-payers cannot be excluded, consumers have an incentive to free-ride, so no private firm can cover its costs and the market provides none. 4. A positive statement is factual and testable against evidence; a normative statement contains a value judgement and cannot be tested.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-economics-basic-ideas-revision-notes--06-ppc-worked-straight.webp" width="900" height="950" alt="A straight PPC from 50 machinery to 100 food. A (60 food, 20 machinery) to B (40 food, 30 machinery) gives up 20 food for 10 machinery: 2 food per machine everywhere on the line." loading="lazy">
+  <figcaption>Moving along a straight PPC always costs 2 food per machine.</figcaption>
+</figure>
+

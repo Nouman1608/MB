@@ -172,12 +172,6 @@ Must-know distinctions:
 
 Command words (Appendix 1): **Identify** (read from a graph or table), **Calculate** (workings given), **State** (up to a sentence, from the data given), **Explain** (a fact plus two expansion points, no context), **Analyse** (extended, in the context given), **Justify** (use the information to recommend one of two options), **Evaluate** (reach a supported conclusion).
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/aqa-gcse-business-business-operations--07-profit-not-cash.webp" width="900" height="985" alt="Illustrative: profit of 2,000 pounds each month, but cash at month end is minus 3,000, minus 1,000 then plus 1,000 pounds because customers pay a month late." loading="lazy">
-  <figcaption>A business can make a profit on paper yet run out of cash if customers pay late.</figcaption>
-</figure>
-
-
 ## Quick self-test
 
 1. A stall's takings on five days were £52, £48, £61, £59 and £55. Calculate the mean.
@@ -205,6 +199,12 @@ Command words (Appendix 1): **Identify** (read from a graph or table), **Calcula
 9. (187,000 − 160,000) / 160,000 × 100 = 16.875, so **16.9% increase**.
 10. Market share **falls**, because the market grew faster than the business, so rivals gained a larger slice.
 11. For example: the forecast is an estimate, so late-paying customers or higher costs could make the real balance different.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-business-business-operations--07-profit-not-cash.webp" width="900" height="985" alt="Illustrative: profit of 2,000 pounds each month, but cash at month end is minus 3,000, minus 1,000 then plus 1,000 pounds because customers pay a month late." loading="lazy">
+  <figcaption>A business can make a profit on paper yet run out of cash if customers pay late.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

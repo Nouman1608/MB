@@ -66,6 +66,11 @@ You do not need the principle of equi-marginal utility, or to use it to explain 
 Sketch of the logic in words: the MU curve is a downward line, the quantity bought is where it falls to the price, and a lower price means a point further along it.
 
 <figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-the-rational-and-behavioural-individual-decision-maker--04-total-marginal-utility.webp" width="900" height="1080" alt="Total utility 40, 70, 90, 100, 100, 90 for visits 1 to 6; marginal utility 40, 30, 20, 10, 0, -10. TU peaks where MU is zero." loading="lazy">
+  <figcaption>Diminishing marginal utility and the TU/MU link.</figcaption>
+</figure>
+
+<figure class="topic-figure">
   <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-the-rational-and-behavioural-individual-decision-maker--05-mu-to-demand.webp" width="900" height="960" alt="Bars give the value of visits 1 to 4 (20, 15, 10, 5). At prices 16, 12, 8 and 4 she buys 1, 2, 3 and 4 visits." loading="lazy">
   <figcaption>Diminishing marginal utility gives a downward-sloping demand curve.</figcaption>
 </figure>
@@ -153,12 +158,6 @@ Behavioural economists question the assumption that individuals are rational uti
 
 **Worked reminder.** A city has 4,000 drivers. Under opt-in, 25% join a car-share scheme: 1,000. Under opt-out, 55% stay in: 2,200. That is 1,200 more. The nudge changes the default and not the price, so inertia does the work.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-the-rational-and-behavioural-individual-decision-maker--14-default-enrolment-nudge.webp" width="900" height="1010" alt="Opt-in gets 280 of 800 staff saving, opt-out 640, worth 259,200 a year extra. A council letter raises on-time payment from 15,600 to 16,600 households at 10 each." loading="lazy">
-  <figcaption>Nudges steer choice through defaults and norm messages.</figcaption>
-</figure>
-
-
 ## Quick self-test
 
 1. Define marginal utility.
@@ -185,6 +184,17 @@ Behavioural economists question the assumption that individuals are rational uti
 9. Anchoring.
 10. Effects may fade or vary; they could be too weak for large externalities; they may be hard to measure.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-the-rational-and-behavioural-individual-decision-maker--12-bias-worked-numbers.webp" width="900" height="970" alt="Four panels: a 5,000 loan owes 5,634.13 not 5,600; inertia costs 75 a year; a 540 sofa is 8% dearer than similar 500 sofas; a norm card lifts towel reuse from 152 to 188 of 400 stays." loading="lazy">
+  <figcaption>Worked numbers for computation, inertia, anchoring and social norms.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-the-rational-and-behavioural-individual-decision-maker--14-default-enrolment-nudge.webp" width="900" height="1010" alt="Opt-in gets 280 of 800 staff saving, opt-out 640, worth 259,200 a year extra. A council letter raises on-time payment from 15,600 to 16,600 households at 10 each." loading="lazy">
+  <figcaption>Nudges steer choice through defaults and norm messages.</figcaption>
+</figure>
+
+
 ## Where marks are usually lost
 
 - Writing total utility when the question asks for marginal utility.
@@ -195,12 +205,6 @@ Behavioural economists question the assumption that individuals are rational uti
 - Treating a nudge as a ban, a tax or a subsidy.
 - Evaluating nudges with a list and no judgement.
 - Leaving a calculation without saying what the number means.
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-the-rational-and-behavioural-individual-decision-maker--04-total-marginal-utility.webp" width="900" height="1080" alt="Total utility 40, 70, 90, 100, 100, 90 for visits 1 to 6; marginal utility 40, 30, 20, 10, 0, -10. TU peaks where MU is zero." loading="lazy">
-  <figcaption>Diminishing marginal utility and the TU/MU link.</figcaption>
-</figure>
-
 
 ## Official syllabus
 

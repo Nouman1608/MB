@@ -129,6 +129,12 @@ Rule of thumb: free market policies shrink the state's role; interventionist pol
 - Tax rate 25% on a base of 400 billion cu raises 100 billion cu. At 20%, the base must reach 100 / 0.20 = 500 billion cu, a rise of 25%.
 - Compounding: 2% growth for 5 years gives 1.1041; 3% gives 1.1593. Potential output ends 5.0% higher on the faster path.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-supply-side-policies--10-ssp-productivity-worked.webp" width="900" height="840" alt="Output per worker rises from 40,000 to 42,000 (+5.0%) with 12.0 million workers; per hour at 1,600 hours it rises from 25.00 to 26.25." loading="lazy">
+  <figcaption>Productivity rose 5.0% whether measured per worker or per hour (state which).</figcaption>
+</figure>
+
+
 ## Evaluating: the set of criteria
 
 Time lag, cost and opportunity cost, size of the response, equity, certainty, and effect on other objectives. A good judgement picks the criteria that matter in the case given and names the condition on which the answer turns. For example, if unemployment is structural, training suits better than a demand stimulus; if firms face high red tape, deregulation may deliver faster.
@@ -155,12 +161,6 @@ Time lag, cost and opportunity cost, size of the response, equity, certainty, an
 5. Finish with a judgement tied to a condition, such as how strongly people respond or which kind of unemployment is present.
 
 **Short model paragraph.** Training subsidies raise the skills of workers, so output per worker rises and LRAS shifts right. The effect is slow, because trained workers take years to arrive, and costly, because the budget has to find the money. A tax cut could act faster but it favours higher earners and loses revenue. Which is better depends on whether the main problem is skills or the reward for working.
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/edexcel-ial-economics-supply-side-policies--10-ssp-productivity-worked.webp" width="900" height="840" alt="Output per worker rises from 40,000 to 42,000 (+5.0%) with 12.0 million workers; per hour at 1,600 hours it rises from 25.00 to 26.25." loading="lazy">
-  <figcaption>Productivity rose 5.0% whether measured per worker or per hour (state which).</figcaption>
-</figure>
-
 
 ## Must-know distinctions
 

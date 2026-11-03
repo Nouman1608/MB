@@ -191,6 +191,12 @@ Implication: the firm grew faster than the market, so it gained share. If a firm
 
 Say which type a source is, then explain its usefulness for the decision in the question.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-marketing--03-market-research.webp" width="900" height="1262" alt="Primary research (postal questionnaire, online survey, interview, focus group) is collected by you: costlier and slower but fits your question. Secondary research (online sources, government statistics, paid reports) already exists: cheaper and quicker but not made for you. A sample of a few people stands for the whole target market." loading="lazy">
+  <figcaption>Primary research is collected first-hand, secondary research already exists, and a sample stands for the whole market.</figcaption>
+</figure>
+
+
 ## 3.2.3 Sampling
 
 - Need: whole population too costly or slow to question; testing may destroy products.

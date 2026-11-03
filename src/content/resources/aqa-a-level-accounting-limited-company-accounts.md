@@ -52,6 +52,12 @@ The adjustments are the same as for a sole trader: accruals, prepayments, deprec
 - **Share premium** -- the amount received above nominal value when shares are issued.
 - **Retained earnings** -- profits after tax kept in the company, less dividends paid, built up over the years.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-accounting-for-limited-companies--09-goodwill.webp" width="900" height="980" alt="Net assets taken over at agreed values are 316,000 pounds. Larchfield pays 370,000 pounds: 150,000 shares valued at 2.20 plus 40,000 cash. The 54,000 difference is goodwill, an intangible asset tested for impairment and not amortised." loading="lazy">
+  <figcaption>Goodwill is the price paid above the fair value of the net assets bought.</figcaption>
+</figure>
+
+
 ## Share issues at a premium
 
 When a company issues shares for more than their nominal value, only the nominal value goes to share capital. The excess goes to the share premium account.
@@ -109,6 +115,11 @@ Profit for the year after tax
 </figure>
 
 <figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-accounting-for-limited-companies--05-revaluation.webp" width="900" height="970" alt="Buildings with a carrying amount of 272,000 pounds are revalued to 408,000. The 136,000 pound unrealised gain goes to a revaluation reserve in equity, not the income statement. Yearly depreciation rises from 8,000 to 12,000 pounds." loading="lazy">
+  <figcaption>An unrealised revaluation gain goes to a reserve, not profit.</figcaption>
+</figure>
+
+<figure class="topic-figure">
   <img src="https://img.marlbridge.com/aqa-a-level-accounting-accounting-for-limited-companies--08-where-cash-went.webp" width="900" height="1020" alt="Starting from an overdraft of 23,400 pounds, operating activities add 136,700, investing activities subtract 57,500 and financing activities add 72,000, a net increase of 151,200 and closing cash of 127,800. A bonus issue and a revaluation involve no cash." loading="lazy">
   <figcaption>Operating, investing and financing flows explain the change in cash.</figcaption>
 </figure>
@@ -134,6 +145,11 @@ The profit line uses **profit for the year after tax**. If the company makes a l
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/aqa-a-level-accounting-accounting-for-limited-companies--03-changes-in-equity.webp" width="900" height="870" alt="Equity builds from 143,200 pounds to 246,700 pounds. A share issue adds 50,000 to share capital and 30,000 to share premium, profit after tax adds 38,500 to retained earnings and dividends paid deduct 15,000 from retained earnings." loading="lazy">
   <figcaption>Each movement in the year lands in one component of equity.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-accounting-for-limited-companies--07-profit-to-cash.webp" width="900" height="964" alt="Profit from operations of 96,400 pounds becomes cash generated of 158,300 after adding back depreciation 61,500 and loss on disposal 2,500 and adjusting for inventory (-7,700), receivables (+3,300) and payables (+2,300). Interest paid 6,000 and tax paid 15,600 leave net operating cash of 136,700." loading="lazy">
+  <figcaption>The indirect method turns profit into cash by reversing non-cash items and working capital changes.</figcaption>
 </figure>
 
 

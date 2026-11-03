@@ -99,6 +99,11 @@ Always convert both measurements to the **same unit** before dividing — this i
   <figcaption>Resolution, set by wavelength, decides what you can see; extra magnification adds no detail.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-biology-eukaryotic-and-prokaryotic-cell-structure--07-magnification-scale-bar.webp" width="900" height="960" alt="A micrograph with a cell 112 mm wide and a 32 mm scale bar labelled 2 micrometres. Magnification = 32 000 micrometres / 2 micrometres = x16 000. Actual width = 112 000 micrometres / 16 000 = 7.0 micrometres, checked by proportion: 3.5 bars of 2 micrometres." loading="lazy">
+  <figcaption>Convert to one unit, find magnification from the scale bar, then divide the image size by it.</figcaption>
+</figure>
+
 
 ## Viruses
 
@@ -130,12 +135,6 @@ Viruses are **acellular** — they have no cytoplasm, no ribosomes and no metabo
 
 The **eyepiece graticule** is a scale fitted inside the eyepiece with arbitrary units. It is calibrated against a **stage micrometre** (a slide with a scale of known length, e.g. divisions of 10 μm) for each objective lens, since the value of one graticule division changes with magnification. Once calibrated, the graticule measures specimens directly and the stage micrometre is removed. Units: 1 mm = 1000 μm = 1,000,000 nm.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-level-aqa-biology-eukaryotic-and-prokaryotic-cell-structure--08-graticule-calibration.webp" width="900" height="930" alt="Two calibrations against a stage micrometer with 10 micrometre divisions. At x10, 40 graticule units match 28 stage divisions (280 micrometres), so one unit is 7 micrometres and a cell of 5 units is 35 micrometres. At x40, 100 units match 22 divisions (220 micrometres), so one unit is 2.2 micrometres. Recalibrate for every objective." loading="lazy">
-  <figcaption>Line up the scales, work out the length of one eyepiece unit, and recalibrate for each objective.</figcaption>
-</figure>
-
-
 ## Exam traps
 
 - Saying prokaryotes have "no organelles" — they have ribosomes.
@@ -160,5 +159,10 @@ The **eyepiece graticule** is a scale fitted inside the eyepiece with arbitrary 
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/a-level-aqa-biology-eukaryotic-and-prokaryotic-cell-structure--04-secretory-pathway.webp" width="900" height="930" alt="Five numbered steps: mRNA leaves the nucleus through a pore; ribosomes on the rough ER make the protein; a vesicle carries it to the Golgi; the Golgi modifies and packages it; a vesicle fuses with the cell surface membrane and releases it by exocytosis. Mitochondria supply ATP. A lysosome also forms at the Golgi, and proteins from free ribosomes stay in the cell." loading="lazy">
   <figcaption>The route from gene to secreted protein: nucleus, rough ER, vesicle, Golgi, vesicle, exocytosis.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-biology-eukaryotic-and-prokaryotic-cell-structure--08-graticule-calibration.webp" width="900" height="930" alt="Two calibrations against a stage micrometer with 10 micrometre divisions. At x10, 40 graticule units match 28 stage divisions (280 micrometres), so one unit is 7 micrometres and a cell of 5 units is 35 micrometres. At x40, 100 units match 22 divisions (220 micrometres), so one unit is 2.2 micrometres. Recalibrate for every objective." loading="lazy">
+  <figcaption>Line up the scales, work out the length of one eyepiece unit, and recalibrate for each objective.</figcaption>
 </figure>
 

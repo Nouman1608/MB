@@ -65,6 +65,11 @@ Particle reasoning to quote:
 - Adiabatic expansion: the gas does work at the expense of its own internal energy, so it cools.
 
 <figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-first-law-of-thermodynamics-gas-processes-and-work--01-first-law-energy.webp" width="900" height="1110" alt="A gas in a cylinder absorbs 640 J of heat. 250 J leaves as work done by the gas on the piston and the other 390 J raises the internal energy, so Q = DeltaU + W. Heat in, expansion and a rise in internal energy are all positive." loading="lazy">
+  <figcaption>Heat supplied goes partly into internal energy and partly into work done by the gas.</figcaption>
+</figure>
+
+<figure class="topic-figure">
   <img src="https://img.marlbridge.com/ib-dp-physics-first-law-of-thermodynamics-gas-processes-and-work--06-four-processes.webp" width="900" height="990" alt="From one state A, an isovolumetric line is vertical, an isobaric line is horizontal, an isothermal curve is PV = constant and an adiabatic curve (Q = 0) is steeper than the isothermal. Each holds one thing fixed." loading="lazy">
   <figcaption>Each process holds one quantity fixed; the adiabatic curve falls faster than the isothermal one.</figcaption>
 </figure>
@@ -185,6 +190,17 @@ Particle reasoning to quote:
 9. Q = 0, W = 0, ΔU = 0.
 10. The gas does work on its surroundings while no heat enters, so the particles lose random kinetic energy and the mean kinetic energy, hence temperature, falls.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-first-law-of-thermodynamics-gas-processes-and-work--02-compression-sign.webp" width="900" height="1040" alt="A piston is pushed in, so 180 J of work is done on the gas (W = -180 J) while 70 J leaves as heat (Q = -70 J). The gas keeps 110 J, so DeltaU = -70 - (-180) = +110 J and it warms." loading="lazy">
+  <figcaption>Compression makes W negative, and the gas can still gain internal energy.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-first-law-of-thermodynamics-gas-processes-and-work--04-internal-energy-temperature.webp" width="900" height="930" alt="Two boxes of monatomic atoms: in the second the atoms move faster because it is 50 K hotter. 1.2 x 10^23 atoms with DeltaT = 50 K give DeltaU = 3/2 N kB DeltaT = 124 J, equal to 3/2 nR DeltaT, and depending only on DeltaT." loading="lazy">
+  <figcaption>For a monatomic ideal gas, DeltaU depends only on the temperature change.</figcaption>
+</figure>
+
+
 ## Where marks are usually lost
 
 - Wrong sign on W for compression, then a wrong ΔU.
@@ -195,12 +211,6 @@ Particle reasoning to quote:
 - Using PV^(5/3) for a process that is not adiabatic.
 - Giving an answer to the wrong number of significant figures, or without a unit.
 - Explaining temperature changes without referring to work done and heat transferred.
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ib-dp-physics-first-law-of-thermodynamics-gas-processes-and-work--02-compression-sign.webp" width="900" height="1040" alt="A piston is pushed in, so 180 J of work is done on the gas (W = -180 J) while 70 J leaves as heat (Q = -70 J). The gas keeps 110 J, so DeltaU = -70 - (-180) = +110 J and it warms." loading="lazy">
-  <figcaption>Compression makes W negative, and the gas can still gain internal energy.</figcaption>
-</figure>
-
 
 ## Official syllabus
 

@@ -147,6 +147,11 @@ Reminder: 20,000 more people unemployed, each costing 4,000 in lost tax and bene
   <figcaption>Unemployment costs the government 336 million and the economy 1,120 million of output.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-basic-economic-problem--05-ppc-points.webp" width="900" height="1080" alt="An illustrative PPC with Food and Machines axes. A on the curve means all resources fully used, B inside means idle or wasted resources, C beyond the curve cannot be reached with current resources." loading="lazy">
+  <figcaption>Points inside, on and beyond the PPC show how well resources are used.</figcaption>
+</figure>
+
 
 ## 4.7.6 Policies
 

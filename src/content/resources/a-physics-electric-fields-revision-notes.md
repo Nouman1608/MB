@@ -93,6 +93,11 @@ The direction is radially outward from a positive charge (the direction of the f
 - Potential varies **linearly** with distance.
 
 <figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-electric-fields--01-field-line-patterns.webp" width="900" height="1100" alt="Field lines for a positive point charge point radially outwards and for a negative charge radially inwards. Two opposite charges give curved lines from + to −. Parallel plates give evenly spaced lines in the middle, bending outwards at the edges. Closer lines mean a stronger field." loading="lazy">
+  <figcaption>Field lines show the direction of force on a positive test charge; closer lines mean a stronger field.</figcaption>
+</figure>
+
+<figure class="topic-figure">
   <img src="https://img.marlbridge.com/a-physics-electric-fields--05-uniform-field-plates.webp" width="900" height="1250" alt="Between plates 3.0 cm apart at 1500 V the field is E = V/d = 5.0×10⁴ V m⁻¹ and a charge feels F = QE. Halving the gap at the same p.d. doubles E. OxfordAQA only: a droplet held still by QE = mg carries 4.9×10⁻¹⁹ C, about 3.1e." loading="lazy">
   <figcaption>E = V/d for the uniform field between charged parallel plates.</figcaption>
 </figure>
@@ -141,12 +146,6 @@ Lines (or surfaces) of constant potential, always **perpendicular to field lines
 
 Relationship: `E = −dV/dr` — field strength is the negative potential gradient.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-physics-electric-fields--07-electric-potential.webp" width="900" height="1290" alt="Equipotentials cross field lines at right angles: rings around a point charge get further apart, and are evenly spaced in a uniform field. A V–r graph for +4.0 nC falls as 1/r; its gradient at 0.10 m is −3600 V m⁻¹, so E = 3600 N C⁻¹, and moving 2.0 nC from 0.30 m to 0.10 m takes 4.8×10⁻⁷ J." loading="lazy">
-  <figcaption>Field strength is minus the gradient of the potential–distance graph.</figcaption>
-</figure>
-
-
 ## Exam traps
 
 - Using r from the **surface** rather than the centre for a charged sphere.
@@ -171,7 +170,12 @@ Related: [Electric Fields practice questions](/resources/a-physics-electric-fiel
 **Answers:** 1. F = Q₁Q₂/(4πε₀r²); ε₀ is in F m⁻¹ (equivalently C² N⁻¹ m⁻²), and 1/(4πε₀) ≈ 8.99 × 10⁹ N m² C⁻². 2. Gravitational potential is always negative because gravity is only attractive; electric potential is positive near a positive charge and negative near a negative charge. 3. E = V/d = 200/0.005 = **40 000 V/m**. 4. A parabola — constant velocity across the field, constant acceleration along it, exactly like projectile motion. 5. The force is perpendicular to the displacement at every point, so W = Fd cos 90° = 0. 6. E = 8.99 × 10⁹ × 5.0 × 10⁻⁶ ÷ 0.20² = **1.12 × 10⁶ N/C**, directed radially outward. 7. v = √(2qV/m) = √(2 × 1.60 × 10⁻¹⁹ × 500 ÷ 9.11 × 10⁻³¹) = **1.33 × 10⁷ m/s**.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-physics-electric-fields--01-field-line-patterns.webp" width="900" height="1100" alt="Field lines for a positive point charge point radially outwards and for a negative charge radially inwards. Two opposite charges give curved lines from + to −. Parallel plates give evenly spaced lines in the middle, bending outwards at the edges. Closer lines mean a stronger field." loading="lazy">
-  <figcaption>Field lines show the direction of force on a positive test charge; closer lines mean a stronger field.</figcaption>
+  <img src="https://img.marlbridge.com/a-physics-electric-fields--02-coulombs-law.webp" width="900" height="1100" alt="Like charges repel and unlike charges attract, with equal and opposite forces. +4.8 nC and −3.2 nC at 6.0 cm exert 3.8×10⁻⁵ N on each other. Doubling one charge and tripling the separation multiplies the force by 2/9, from 0.80 mN to 0.18 mN." loading="lazy">
+  <figcaption>The force between point charges follows an inverse square law and acts along the line joining them.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-electric-fields--07-electric-potential.webp" width="900" height="1290" alt="Equipotentials cross field lines at right angles: rings around a point charge get further apart, and are evenly spaced in a uniform field. A V–r graph for +4.0 nC falls as 1/r; its gradient at 0.10 m is −3600 V m⁻¹, so E = 3600 N C⁻¹, and moving 2.0 nC from 0.30 m to 0.10 m takes 4.8×10⁻⁷ J." loading="lazy">
+  <figcaption>Field strength is minus the gradient of the potential–distance graph.</figcaption>
 </figure>
 

@@ -162,12 +162,6 @@ Extra units needed = extra annual cost ÷ contribution per unit. A £24,000 cost
 
 Ownership and legal form; the gap between ownership and control; strength of competition; stage of the business; financial health; stakeholder and public pressure; the economic cycle. The judgement usually turns on who holds control and what constrains them.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ocr-a-level-economics-business-objectives-and-the-principal-agent-problem--04-objective-factors.webp" width="900" height="836" alt="Seven factors and their effect. Ownership and legal form: a listed company aims for profit, a charity for social welfare. A wider split between ownership and control gives more room for revenue, growth and utility goals. Strong competition forces profit and efficiency, weak competition allows slack. A new business needs survival and sales, a mature one can pay dividends. A firm in financial difficulty puts survival first, a cash-rich firm can afford growth or CSR. Stakeholder pressure pushes firms toward CSR. In a downturn firms focus on survival and break-even." loading="lazy">
-  <figcaption>Who owns and controls the firm, and its market and finances, push it toward different objectives.</figcaption>
-</figure>
-
-
 ## Quick self-test
 
 1. State two assumptions behind profit maximisation.
@@ -197,6 +191,12 @@ Ownership and legal form; the gap between ownership and control; strength of com
 10. Any two of: bonuses on long-term results, share options, audits and monitoring, independent directors, shareholder votes on pay.
 11. Revenue rises as long as MR is positive, while profit stops rising once MR falls to MC, which happens while MR is still positive. So revenue peaks at a higher output.
 12. Any one of: managers with pay linked to size, widely held shares, weak shareholder control, a market where scale gives market power.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-business-objectives-and-the-principal-agent-problem--04-objective-factors.webp" width="900" height="836" alt="Seven factors and their effect. Ownership and legal form: a listed company aims for profit, a charity for social welfare. A wider split between ownership and control gives more room for revenue, growth and utility goals. Strong competition forces profit and efficiency, weak competition allows slack. A new business needs survival and sales, a mature one can pay dividends. A firm in financial difficulty puts survival first, a cash-rich firm can afford growth or CSR. Stakeholder pressure pushes firms toward CSR. In a downturn firms focus on survival and break-even." loading="lazy">
+  <figcaption>Who owns and controls the firm, and its market and finances, push it toward different objectives.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

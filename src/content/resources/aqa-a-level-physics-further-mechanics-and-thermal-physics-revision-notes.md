@@ -142,12 +142,6 @@ Test yourself with the [practice questions](/resources/aqa-a-level-physics-furth
 - c_rms = √(mean of c²), which is not the same as mean speed.
 - Ideal gas internal energy = total kinetic energy = (3/2)NkT.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-level-oxfordaqa-physics-motion-and-newtons-laws--07-collisions-1d.webp" width="900" height="1240" alt="Two one-dimensional collisions with bar charts. Gliders sticking together keep momentum 0.378 kg m s-1 but kinetic energy falls from 0.170 J to 0.102 J. Elastic trolleys keep both momentum (1.44) and kinetic energy (1.728 J), and the speeds of approach and separation are both 2.4 m s-1." loading="lazy">
-  <figcaption>Momentum is conserved in both kinds of collision; kinetic energy is conserved only if the collision is perfectly elastic.</figcaption>
-</figure>
-
-
 ## Quick self-test
 
 1. A turntable rotates at 45 revolutions per minute. Find its angular speed.
@@ -177,6 +171,17 @@ Test yourself with the [practice questions](/resources/aqa-a-level-physics-furth
 10. Mean = **400 m s⁻¹**; c_rms = √[(200² + 400² + 600²)/3] = **432 m s⁻¹**
 11. (3/2)kT = 1.5 × 1.38 × 10⁻²³ × 400 = **8.3 × 10⁻²¹ J**
 12. W = pΔV = 1.2 × 10⁵ × 1.0 × 10⁻³ = **120 J**
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-oxfordaqa-physics-motion-and-newtons-laws--06-impulse-area.webp" width="900" height="1140" alt="Two force-time graphs. A triangle rising to 800 N at 6 ms and falling to zero at 18 ms has area 7.2 N s, so a 0.16 kg ball leaves at 45 m s-1. Readings at 2 ms intervals are estimated with trapezium strips as 0.0020 x 1630 = 3.26 N s, about 20 m s-1." loading="lazy">
+  <figcaption>Impulse is the area under a force-time graph; use exact shapes for straight lines and strips for a curve.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-oxfordaqa-physics-motion-and-newtons-laws--07-collisions-1d.webp" width="900" height="1240" alt="Two one-dimensional collisions with bar charts. Gliders sticking together keep momentum 0.378 kg m s-1 but kinetic energy falls from 0.170 J to 0.102 J. Elastic trolleys keep both momentum (1.44) and kinetic energy (1.728 J), and the speeds of approach and separation are both 2.4 m s-1." loading="lazy">
+  <figcaption>Momentum is conserved in both kinds of collision; kinetic energy is conserved only if the collision is perfectly elastic.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

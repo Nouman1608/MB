@@ -87,12 +87,6 @@ Reminder: Country C has a goods deficit but an overall surplus. Always report th
 
 Link the cause to the section it affects. For example, high debt interest appears under primary income, and a tourism fall appears under services.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/cambridge-igcse-economics-current-account-of-the-balance-of-payments--11-commodity-price-chain.webp" width="900" height="980" alt="Six steps: world price of the mineral falls, export earnings fall, goods balance heads for deficit, fewer foreign currencies earned, demand for the home currency falls, exchange rate may fall. Also felt in mining jobs and government revenue." loading="lazy">
-  <figcaption>Each link of the chain earns analysis credit.</figcaption>
-</figure>
-
-
 ## 6.4.3 Consequences
 
 Net exports = exports - imports, and they are part of aggregate demand.
@@ -124,6 +118,11 @@ A depreciation lowers the foreign price of exports and raises the home price of 
 Worked reminder: a foreign good costs 40 foreign units. The home currency falls from 0.50 to 0.40 foreign units. Home price rises from 40 / 0.50 = 80 to 40 / 0.40 = 100, a 25% rise. With import PED 0.4, quantity falls by 0.4 x 25% = 10%.
 
 <figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-economics-current-account-of-the-balance-of-payments--11-commodity-price-chain.webp" width="900" height="980" alt="Six steps: world price of the mineral falls, export earnings fall, goods balance heads for deficit, fewer foreign currencies earned, demand for the home currency falls, exchange rate may fall. Also felt in mining jobs and government revenue." loading="lazy">
+  <figcaption>Each link of the chain earns analysis credit.</figcaption>
+</figure>
+
+<figure class="topic-figure">
   <img src="https://img.marlbridge.com/cambridge-igcse-economics-current-account-of-the-balance-of-payments--12-depreciation-example.webp" width="900" height="970" alt="A 20% depreciation: export earnings 600,000 to 780,000 (+180,000, PED 1.5); import spending 300,000 to 318,750 (+18,750, PED 0.6). Net improvement 161,250." loading="lazy">
   <figcaption>A depreciation helps when export demand is elastic.</figcaption>
 </figure>
@@ -131,6 +130,11 @@ Worked reminder: a foreign good costs 40 foreign units. The home currency falls 
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/cambridge-igcse-economics-current-account-of-the-balance-of-payments--06-un155-ca-consequences.webp" width="900" height="890" alt="Arrows show a deficit tends to lower growth, jobs and the currency and raise import prices, while a surplus does the reverse, with demand pull possible." loading="lazy">
   <figcaption>Persistent deficits and surpluses push GDP, jobs, prices and the exchange rate in opposite directions.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-economics-measurement-of-macroeconomic-performance--02-growth-vs-current-account.webp" width="900" height="1040" alt="A four-step chain: growth policy raises aggregate demand, incomes rise, some spending goes on imports, and the current account worsens. Bars show exports 100 and imports rising from 100 to 118, a deficit of 18." loading="lazy">
+  <figcaption>Growth policy can raise imports faster than exports, creating a short-run conflict.</figcaption>
 </figure>
 
 <figure class="topic-figure">
@@ -169,11 +173,6 @@ Evaluation checklist: match the policy to the cause; consider PED, time lag, ret
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/cambridge-igcse-economics-current-account-of-the-balance-of-payments--13-tariff-ped.webp" width="900" height="870" alt="Imports of 610 with a 10% tariff fall to 573.4 if PED is 0.6 (saving 36.6) and to 518.5 if PED is 1.5 (saving 91.5)." loading="lazy">
   <figcaption>A tariff works far better when demand is elastic.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-level-aqa-economics-measurement-of-macroeconomic-performance--02-growth-vs-current-account.webp" width="900" height="1040" alt="A four-step chain: growth policy raises aggregate demand, incomes rise, some spending goes on imports, and the current account worsens. Bars show exports 100 and imports rising from 100 to 118, a deficit of 18." loading="lazy">
-  <figcaption>Growth policy can raise imports faster than exports, creating a short-run conflict.</figcaption>
 </figure>
 
 

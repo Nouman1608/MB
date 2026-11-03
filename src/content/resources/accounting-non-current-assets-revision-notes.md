@@ -93,12 +93,6 @@ Accounting (9706), 2026-2028 series.
 - Depreciation charge for the year affects both the statement of profit or loss and the statement of
   financial position.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/accounting-non-current-assets--05-disposal.webp" width="900" height="1110" alt="An illustrative van (cost 20,000, accumulated depreciation 15,000) is sold for 6,000. Cost and depreciation are moved into a disposal account, which balances at 21,000 each side after a 1,000 profit. Carrying value is 5,000. A note explains part exchange allowance replaces cash proceeds." loading="lazy">
-  <figcaption>Close cost and accumulated depreciation through a disposal account to find profit or loss on disposal.</figcaption>
-</figure>
-
-
 ## Exam technique for this topic
 
 Practise the two depreciation methods side by side on the same asset and figures so the difference in
@@ -110,6 +104,12 @@ stated policy) rather than assuming a default, since applying the wrong policy c
 every subsequent calculation in that question. Keep the capital/revenue expenditure distinction sharp
 from the outset, since a misclassification error here propagates directly into profit, asset value, and
 every later financial statement calculation built on top of it.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/accounting-non-current-assets--05-disposal.webp" width="900" height="1110" alt="An illustrative van (cost 20,000, accumulated depreciation 15,000) is sold for 6,000. Cost and depreciation are moved into a disposal account, which balances at 21,000 each side after a 1,000 profit. Carrying value is 5,000. A note explains part exchange allowance replaces cash proceeds." loading="lazy">
+  <figcaption>Close cost and accumulated depreciation through a disposal account to find profit or loss on disposal.</figcaption>
+</figure>
+
 
 ## Worked comparison: straight-line vs reducing balance
 

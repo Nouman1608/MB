@@ -115,22 +115,6 @@ equal chords are equidistant from the centre; the perpendicular
 bisector of a chord passes through the centre; and tangents from an
 external point are equal in length
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-mathematics-geometry--01-parallel-line-angles.webp" width="900" height="1220" alt="Three panels of two parallel lines cut by a transversal. Corresponding angles are both 65 degrees. Alternate angles are both 115 degrees. Co-interior angles are 65 and 115 degrees, adding to 180. With a 65 degree transversal: corresponding angles are equal (F), alternate angles are equal (Z), co-interior angles add to 180 degrees (C)." loading="lazy">
-  <figcaption>Corresponding and alternate angles are equal; co-interior angles add to 180°.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-mathematics-geometry--02-regular-polygon-angles.webp" width="900" height="1070" alt="A regular hexagon with exterior angles of 60 degrees marked and one interior angle of 120 degrees. Six 60 degree wedges form a full circle of 360 degrees. Interior angle is 180 minus 60. A regular hexagon has six exterior angles of 60 degrees which fit round a point to make 360 degrees, so each interior angle is 120 degrees." loading="lazy">
-  <figcaption>Exterior angles add to 360°, so a regular hexagon has interior angles of 120°.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-mathematics-geometry--03-right-angles-in-circles.webp" width="900" height="1055" alt="Top: a triangle ABC inside a circle with AB a diameter, right angle at C. Bottom: a radius OT meets a tangent at T with a right angle. The angle in a semicircle is 90 degrees, and a tangent meets a radius at 90 degrees." loading="lazy">
-  <figcaption>The angle in a semicircle and the angle between tangent and radius are both 90°.</figcaption>
-</figure>
-
-
 ## How to approach it
 
 Because C4.1's vocabulary underpins every later subtopic, treat it as
@@ -222,3 +206,19 @@ Cambridge International, *Cambridge IGCSE Mathematics (0580) syllabus
 for examination in 2025, 2026 and 2027*: [official syllabus
 PDF](https://www.cambridgeinternational.org/Images/662466-2025-2027-syllabus.pdf),
 Subject content, section 4 "Geometry". Verified 2026-09-06.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-geometry--01-parallel-line-angles.webp" width="900" height="1220" alt="Three panels of two parallel lines cut by a transversal. Corresponding angles are both 65 degrees. Alternate angles are both 115 degrees. Co-interior angles are 65 and 115 degrees, adding to 180. With a 65 degree transversal: corresponding angles are equal (F), alternate angles are equal (Z), co-interior angles add to 180 degrees (C)." loading="lazy">
+  <figcaption>Corresponding and alternate angles are equal; co-interior angles add to 180°.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-geometry--02-regular-polygon-angles.webp" width="900" height="1070" alt="A regular hexagon with exterior angles of 60 degrees marked and one interior angle of 120 degrees. Six 60 degree wedges form a full circle of 360 degrees. Interior angle is 180 minus 60. A regular hexagon has six exterior angles of 60 degrees which fit round a point to make 360 degrees, so each interior angle is 120 degrees." loading="lazy">
+  <figcaption>Exterior angles add to 360°, so a regular hexagon has interior angles of 120°.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-geometry--03-right-angles-in-circles.webp" width="900" height="1055" alt="Top: a triangle ABC inside a circle with AB a diameter, right angle at C. Bottom: a radius OT meets a tangent at T with a right angle. The angle in a semicircle is 90 degrees, and a tangent meets a radius at 90 degrees." loading="lazy">
+  <figcaption>The angle in a semicircle and the angle between tangent and radius are both 90°.</figcaption>
+</figure>
+

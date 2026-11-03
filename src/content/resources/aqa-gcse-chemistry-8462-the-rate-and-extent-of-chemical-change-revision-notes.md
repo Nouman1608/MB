@@ -187,6 +187,16 @@ Example: times of 50 s and 25 s give 1/t of 0.02 and 0.04 s⁻¹ -- the rate dou
   <figcaption>The same energy is transferred in each direction of a reversible reaction.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/rates-of-reaction-and-reversible-reactions--05-hydrated-anhydrous.webp" width="900" height="970" alt="Copper(II) sulfate: blue hydrated crystals turn white when heated and blue again on adding water. Cobalt(II) chloride: pink hydrated turns blue when heated and pink again with water." loading="lazy">
+  <figcaption>Heating hydrated crystals drives off water; adding water reverses the change.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/rates-of-reaction-and-reversible-reactions--06-dynamic-equilibrium.webp" width="900" height="990" alt="Rate against time: forward rate falls, reverse rate rises from zero, and they meet and stay level. Particle boxes show 12 A at the start and 4 A plus 8 B at equilibrium with fixed numbers." loading="lazy">
+  <figcaption>At equilibrium the forward and reverse rates are equal and the amounts no longer change.</figcaption>
+</figure>
+
 
 ## 4.6.2.4–4.6.2.7 Changing conditions (Higher tier only)
 

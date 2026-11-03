@@ -82,12 +82,6 @@ notation P(A|B) and formulas relating to conditional probability is
 not required, so this must be handled through direct reasoning with
 the diagram or table given, not a memorised formula
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-mathematics-probability--01-two-dice-sample-space.webp" width="900" height="925" alt="A 6 by 6 grid with die faces along both edges; each cell shows the total. The six cells totalling 7 form a diagonal and are highlighted, giving 6 out of 36 = 1/6." loading="lazy">
-  <figcaption>A sample space diagram lists every equally likely outcome so you can count the favourable ones.</figcaption>
-</figure>
-
-
 ## How to approach it
 
 The single most consequential Core/Extended distinction in this
@@ -188,3 +182,9 @@ Cambridge International, *Cambridge IGCSE Mathematics (0580) syllabus
 for examination in 2025, 2026 and 2027*: [official syllabus
 PDF](https://www.cambridgeinternational.org/Images/662466-2025-2027-syllabus.pdf),
 Subject content, section 8 "Probability". Verified 2026-09-06.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-probability--01-two-dice-sample-space.webp" width="900" height="925" alt="A 6 by 6 grid with die faces along both edges; each cell shows the total. The six cells totalling 7 form a diagonal and are highlighted, giving 6 out of 36 = 1/6." loading="lazy">
+  <figcaption>A sample space diagram lists every equally likely outcome so you can count the favourable ones.</figcaption>
+</figure>
+

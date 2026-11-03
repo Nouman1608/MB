@@ -119,27 +119,6 @@ value — showing why relative atomic mass is rarely a whole number,
 since it reflects a weighted average across an element's naturally
 occurring isotopes.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-level-aqa-chemistry-atomic-structure--01-atom-counting.webp" width="900" height="1230" alt="A lithium-7 model shows a nucleus of three protons and four neutrons with three electrons in two shells, beside a key of relative charge and mass (proton +1, 1; neutron 0, 1; electron -1, 1/1836). Below, chlorine-35 has 17 protons, 18 neutrons and 17 electrons; chlorine-37 has 20 neutrons; the 35Cl- ion has 18 electrons." loading="lazy">
-  <figcaption>Protons = Z, neutrons = A - Z, electrons = Z minus the charge; isotopes differ in neutrons, ions in electrons.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-level-aqa-chemistry-atomic-structure--02-tof-spectrometer.webp" width="900" height="500" alt="A sealed tube in four stages: an electron beam ionises the sample, plates accelerate the ions to the same kinetic energy, ions drift along the tube with lighter ions faster, and a detector records arrival times." loading="lazy">
-  <figcaption>Ionise, accelerate to the same kinetic energy, drift (lighter ions arrive first), detect. OCR does not require the mechanism; AQA, Edexcel and OxfordAQA do.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-level-aqa-chemistry-atomic-structure--03-spectrum-ar.webp" width="900" height="1010" alt="Bars at m/z 35 (75%) and 37 (25%) for chlorine, with a balance point at 35.5 closer to the taller bar. The sum (35 x 75 + 37 x 25) / 100 gives 35.5." loading="lazy">
-  <figcaption>Relative atomic mass is the weighted mean of the isotope masses: (35 x 75 + 37 x 25) / 100 = 35.5.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-level-aqa-chemistry-atomic-structure--04-cl2-peaks.webp" width="900" height="920" alt="Three bars for Cl2 at m/z 70 (35Cl-35Cl, height 9), 72 (35Cl-37Cl, height 6) and 74 (37Cl-37Cl, height 1), drawn above the pair of atoms that makes each one." loading="lazy">
-  <figcaption>Two chlorine isotopes give three Cl2 peaks at m/z 70, 72 and 74 in the ratio 9 : 6 : 1 (Edexcel only).</figcaption>
-</figure>
-
-
 ## Key terms to define precisely
 
 **Atomic (proton) number** — the number of protons in an atom of an
@@ -161,6 +140,27 @@ Keeping "relative atomic mass" and "mass number" clearly distinct —
 the first is a weighted average across isotopes and is rarely a whole
 number, the second is a whole-number property of one specific isotope
 — prevents one of the most common conceptual mix-ups in this content.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-chemistry-atomic-structure--01-atom-counting.webp" width="900" height="1230" alt="A lithium-7 model shows a nucleus of three protons and four neutrons with three electrons in two shells, beside a key of relative charge and mass (proton +1, 1; neutron 0, 1; electron -1, 1/1836). Below, chlorine-35 has 17 protons, 18 neutrons and 17 electrons; chlorine-37 has 20 neutrons; the 35Cl- ion has 18 electrons." loading="lazy">
+  <figcaption>Protons = Z, neutrons = A - Z, electrons = Z minus the charge; isotopes differ in neutrons, ions in electrons.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-chemistry-atomic-structure--02-tof-spectrometer.webp" width="900" height="500" alt="A sealed tube in four stages: an electron beam ionises the sample, plates accelerate the ions to the same kinetic energy, ions drift along the tube with lighter ions faster, and a detector records arrival times." loading="lazy">
+  <figcaption>Ionise, accelerate to the same kinetic energy, drift (lighter ions arrive first), detect. OCR does not require the mechanism; AQA, Edexcel and OxfordAQA do.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-chemistry-atomic-structure--03-spectrum-ar.webp" width="900" height="1010" alt="Bars at m/z 35 (75%) and 37 (25%) for chlorine, with a balance point at 35.5 closer to the taller bar. The sum (35 x 75 + 37 x 25) / 100 gives 35.5." loading="lazy">
+  <figcaption>Relative atomic mass is the weighted mean of the isotope masses: (35 x 75 + 37 x 25) / 100 = 35.5.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-chemistry-atomic-structure--04-cl2-peaks.webp" width="900" height="920" alt="Three bars for Cl2 at m/z 70 (35Cl-35Cl, height 9), 72 (35Cl-37Cl, height 6) and 74 (37Cl-37Cl, height 1), drawn above the pair of atoms that makes each one." loading="lazy">
+  <figcaption>Two chlorine isotopes give three Cl2 peaks at m/z 70, 72 and 74 in the ratio 9 : 6 : 1 (Edexcel only).</figcaption>
+</figure>
+
 
 ## Common mistakes
 

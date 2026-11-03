@@ -61,11 +61,6 @@ On a Φ–t graph: steep means large emf, flat means zero emf, negative gradient
   <figcaption>Only the side still in the field contributes, so the emf exists only while the coil is entering or leaving.</figcaption>
 </figure>
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ib-dp-physics-electromagnetic-induction-flux-faradays-and-lenzs-laws--07-generator-frequency.webp" width="900" height="950" alt="Two emf-time waves for the same coil. At 50 Hz the peak is 113 V and the period 20 ms; at 100 Hz the peak doubles to 226 V and the period halves to 10 ms, so the wave is taller and narrower. The peak emf is 2 pi f NBA, so raising N, B or A also raises it." loading="lazy">
-  <figcaption>Doubling the frequency doubles the peak emf and halves the period.</figcaption>
-</figure>
-
 
 ## Method: direction (Lenz's law)
 
@@ -165,6 +160,12 @@ If timing starts with the plane parallel to B, the same wave starts at its peak 
 8. When the coil's plane is perpendicular to the field (flux at its maximum).
 9. 1 Wb = **1 T m²**.
 10. The growing current changes the flux through the coil itself, inducing an emf that opposes the rise in current, so the current increases gradually.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-electromagnetic-induction-flux-faradays-and-lenzs-laws--07-generator-frequency.webp" width="900" height="950" alt="Two emf-time waves for the same coil. At 50 Hz the peak is 113 V and the period 20 ms; at 100 Hz the peak doubles to 226 V and the period halves to 10 ms, so the wave is taller and narrower. The peak emf is 2 pi f NBA, so raising N, B or A also raises it." loading="lazy">
+  <figcaption>Doubling the frequency doubles the peak emf and halves the period.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

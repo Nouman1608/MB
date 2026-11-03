@@ -75,6 +75,11 @@ So dr/dt = −k, a constant. The radius falls at a constant rate.
   <figcaption>The constant A gives a whole family of solutions; an initial condition picks out one curve.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-mathematics-volumes-of-revolution-separable-differential-equations--07-volume-of-revolution.webp" width="900" height="870" alt="The region under y = e^(2x) from x = 0 to x = ½ is spun about the x-axis. The picture shows the curve, its mirror image and eight thin discs, each with radius equal to y. One disc is highlighted with its radius marked. Adding the disc volumes gives V = π∫y² dx = π(e² − 1)/4, about 5.02." loading="lazy">
+  <figcaption>Each thin slice is nearly a disc of volume πy² δx; adding them gives the volume of revolution.</figcaption>
+</figure>
+
 
 ## Solving by separation of variables
 
@@ -240,15 +245,15 @@ At t = 5 hours the amount is 15.5 mg (3 s.f.). Rate in minus rate out is the pat
 - Forgetting the units or the meaning of t = 0 in a context question.
 - Leaving a solution as ln y = ... when the question asks for y in terms of x or t.
 
+## Next steps
+
+Condense this with the [revision notes](/resources/oxfordaqa-a-level-mathematics-forming-and-solving-first-order-differential-equations-revision-notes/), then test yourself with the [practice questions](/resources/oxfordaqa-a-level-mathematics-forming-and-solving-first-order-differential-equations-practice/). Integration skills from Unit P1 are reviewed in the [Pure Maths 1 study guide](/resources/a-level-oxfordaqa-mathematics-unit-p1/). Use the [free 10-minute diagnostics](/diagnostics/) to find weak areas.
+
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/edexcel-ial-mathematics-volumes-of-revolution-separable-differential-equations--02-constant-solution.webp" width="900" height="920" alt="A slope field for dy/dx = 3x(y − 4). The marks are flat along y = 4, which is itself a solution (A = 0). Other solutions y = 4 + Ae^(3x²/2) curve away from it; the thick one through (0, 7) has A = 3." loading="lazy">
   <figcaption>Dividing by y − 4 hides the constant solution y = 4, which is the case A = 0.</figcaption>
 </figure>
 
-
-## Next steps
-
-Condense this with the [revision notes](/resources/oxfordaqa-a-level-mathematics-forming-and-solving-first-order-differential-equations-revision-notes/), then test yourself with the [practice questions](/resources/oxfordaqa-a-level-mathematics-forming-and-solving-first-order-differential-equations-practice/). Integration skills from Unit P1 are reviewed in the [Pure Maths 1 study guide](/resources/a-level-oxfordaqa-mathematics-unit-p1/). Use the [free 10-minute diagnostics](/diagnostics/) to find weak areas.
 
 ## Official syllabus
 

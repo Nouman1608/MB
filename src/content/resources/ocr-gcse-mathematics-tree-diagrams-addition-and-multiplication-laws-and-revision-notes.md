@@ -32,6 +32,12 @@ These are condensed notes for OCR GCSE (9-1) Mathematics (J560), Version 2.1 (Au
 | p(A and B) = p(A given B) × p(B) | Multiplication law with conditional probability | Higher tier only |
 | p(A given B) = p(A) | A and B independent, if and only if | Higher tier only |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-mathematics-tree-diagrams-addition-and-multiplication-laws-and--03-addition-law-overlap.webp" width="900" height="810" alt="A Venn diagram of football 0.45 and chess 0.30 with overlap 0.12: football only 0.33, chess only 0.18, neither 0.37. Adding 0.45 and 0.30 counts the overlap twice; subtracting 0.12 gives 0.63." loading="lazy">
+  <figcaption>Adding p(A) and p(B) counts the overlap twice, so subtract p(A and B) once.</figcaption>
+</figure>
+
+
 ## Definitions to know
 
 - **Mutually exclusive:** the events cannot happen together on one trial, so p(A and B) = 0.
@@ -51,12 +57,6 @@ These are condensed notes for OCR GCSE (9-1) Mathematics (J560), Version 2.1 (Au
 ```
 
 If a tree frame is already printed, fill in the missing branch probabilities first. Then answer the question in the same way.
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-mathematics-0580-probability-and-expected-frequency--03-venn-two-sets.webp" width="900" height="680" alt="Three copies of a Venn diagram of 32 club members (swim only 9, both 5, tennis only 11, neither 7). Shading shows plays tennis 16/32, exactly one sport 20/32 and neither 7/32." loading="lazy">
-  <figcaption>Shade the region you want, add its counts, and divide by the total of 32.</figcaption>
-</figure>
-
 
 ## Method: "at least one"
 
@@ -167,6 +167,12 @@ p(exactly one red) = 30/56
 p(first red given exactly one red) = 15/56 ÷ 30/56 = 1/2
 ```
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-probability--04-conditional-venn.webp" width="900" height="910" alt="Venn diagram of 40 students: 12 French only, 6 both, 8 Spanish only, 14 neither. Given French, the sample space is the 18 in the French circle; 6 also study Spanish, so 6/18 = 1/3." loading="lazy">
+  <figcaption>Given a condition, only the part of the diagram that satisfies it counts.</figcaption>
+</figure>
+
+
 ## Quick check before you hand in
 
 - Does every set of branches from one point add to 1?
@@ -181,12 +187,6 @@ p(first red given exactly one red) = 15/56 ÷ 30/56 = 1/2
 - **Multiply along, add across.** "And" for successive events means multiply. "Or" for different routes means add.
 - **p(A given B) is not p(B given A).** Use the group named after "given" as the denominator.
 - **With replacement versus without.** The tree has the same shape; only the second-stage numbers differ.
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ocr-gcse-mathematics-tree-diagrams-addition-and-multiplication-laws-and--11-independence-bars.webp" width="900" height="820" alt="Two squares split into columns. In example 10 the bar for A is 0.4 high in both B and not B, equal to p(A), so independent. In example 6, diamonds fill 1/2 of the red column but p(diamond) is 1/4, so not independent." loading="lazy">
-  <figcaption>Independent means p(A given B) = p(A).</figcaption>
-</figure>
-
 
 ## Quick self-test
 
@@ -216,6 +216,27 @@ p(first red given exactly one red) = 15/56 ÷ 30/56 = 1/2
 10. 0.14 ÷ 0.35 = 0.4
 11. Yes. p(A) × p(B) = 0.2 × 0.5 = 0.1 = p(A and B). Equivalently p(A given B) = 0.1 ÷ 0.5 = 0.2 = p(A).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-mathematics-tree-diagrams-addition-and-multiplication-laws-and--10-mult-law-area.webp" width="900" height="820" alt="A unit square: width 0.6 is rain, and in that column the bottom 0.25 is a late bus. The shaded rectangle has area 0.25 x 0.6 = 0.15 = p(rain and late)." loading="lazy">
+  <figcaption>p(A and B) = p(A given B) x p(B) shown as the area of a rectangle.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-mathematics-tree-diagrams-addition-and-multiplication-laws-and--11-independence-bars.webp" width="900" height="820" alt="Two squares split into columns. In example 10 the bar for A is 0.4 high in both B and not B, equal to p(A), so independent. In example 6, diamonds fill 1/2 of the red column but p(diamond) is 1/4, so not independent." loading="lazy">
+  <figcaption>Independent means p(A given B) = p(A).</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-probability-and-expected-frequency--02-adds-to-one.webp" width="900" height="850" alt="Two bars of length 1. The spinner bar is red 0.35, blue 0.2, green x, yellow 2x, so x = 0.15 and yellow 0.3. The rain bar is 35 percent rain and 65 percent no rain." loading="lazy">
+  <figcaption>All the probabilities of one event add to 1, so not happening is 1 minus happening.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-probability-and-expected-frequency--03-venn-two-sets.webp" width="900" height="680" alt="Three copies of a Venn diagram of 32 club members (swim only 9, both 5, tennis only 11, neither 7). Shading shows plays tennis 16/32, exactly one sport 20/32 and neither 7/32." loading="lazy">
+  <figcaption>Shade the region you want, add its counts, and divide by the total of 32.</figcaption>
+</figure>
+
+
 ## Where marks are usually lost
 
 - Writing branch probabilities that do not sum to 1 at a point on the tree.
@@ -228,11 +249,6 @@ p(first red given exactly one red) = 15/56 ÷ 30/56 = 1/2
 - Using the total as the denominator in a conditional probability instead of the group after "given".
 - Starting a long "at least one" question by listing every route instead of using 1 - p(none).
 - Stating that two events are independent without showing the comparison in a test.
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-mathematics-0580-probability-and-expected-frequency--02-adds-to-one.webp" width="900" height="850" alt="Two bars of length 1. The spinner bar is red 0.35, blue 0.2, green x, yellow 2x, so x = 0.15 and yellow 0.3. The rain bar is 35 percent rain and 65 percent no rain." loading="lazy">
-  <figcaption>All the probabilities of one event add to 1, so not happening is 1 minus happening.</figcaption>
-</figure>
 
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/igcse-mathematics-probability--05-conditional-table.webp" width="900" height="780" alt="Two-way table of 60 students: boys 14 walk and 16 bus, girls 18 walk and 12 bus. Given a walker, use the walk column total 32; 18 are girls, so 18/32 = 9/16." loading="lazy">

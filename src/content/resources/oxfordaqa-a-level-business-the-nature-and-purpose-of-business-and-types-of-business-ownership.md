@@ -111,6 +111,11 @@ Effective objectives are **SMART**. The 9725 text spells this out as Specific, M
   <figcaption>An objective is SMART if it can be checked.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-business-business-and-its-environment--01-objectives-hierarchy.webp" width="900" height="1060" alt="Mission informs corporate objectives (profit, growth, market share, survival, cash flow, social and ethical), which inform functional objectives in marketing, operations, finance and HR. Objectives can conflict, such as growth against cash flow." loading="lazy">
+  <figcaption>Objectives flow from mission to corporate to functional level, and can conflict.</figcaption>
+</figure>
+
 
 ## Business plans (both)
 
@@ -157,6 +162,11 @@ The new workshop has the higher net gain. But in the low-demand case it returns 
   <figcaption>Net gain is expected value minus cost, but the best average is not always the safest.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-business-types-of-strategies--05-decision-tree.webp" width="900" height="1120" alt="Decision tree with a decision square and two chance circles: A costs 45,000 (EV 91,500, net gain 46,500), B costs 70,000 (EV 121,500, net gain 51,500) and doing nothing is 0. B has the highest net gain." loading="lazy">
+  <figcaption>Expected value is worked from right to left, then cost is subtracted to give net gain.</figcaption>
+</figure>
+
 
 ## Types of business (3.1.1.2)
 
@@ -190,6 +200,31 @@ The new workshop has the higher net gain. But in the low-demand case it returns 
   <figcaption>In a co-operative the members share the profit.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-accounting-types-of-business-organisation--01-ownership-ladder.webp" width="900" height="1000" alt="Four columns compare sole trader, partnership, private Ltd and public plc: number of owners, liability (unlimited for the first two, limited for the last two) and a rising staircase of reporting duties. Reporting grows from minimal to the most extensive disclosure and audit for a plc." loading="lazy">
+  <figcaption>As a business becomes more formal, liability becomes limited and reporting duties grow.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-business-business-and-its-environment--02-ownership-liability.webp" width="900" height="1216" alt="Six forms of ownership with liability: sole trader unlimited, partnership usually unlimited, Ltd and plc limited, non-profit and social enterprise varies. Limited liability caps the loss at the amount invested." loading="lazy">
+  <figcaption>Liability is the key difference between forms of ownership.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-understanding-business-activity--06-limited-liability.webp" width="900" height="1050" alt="Business debts of 50 with 10 invested. A sole trader can lose 50 including their house; a limited company owner loses only the 10 invested and the house is protected." loading="lazy">
+  <figcaption>Unlimited liability puts personal assets at risk; limited liability caps the loss at the amount invested.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-understanding-business-activity--04-three-sectors.webp" width="900" height="1000" alt="A loaf of bread followed through primary (farm grows wheat), secondary (mill and bakery) and tertiary (shop) sectors with the lesson examples." loading="lazy">
+  <figcaption>Primary extracts, secondary makes, tertiary provides services.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-accounting-types-of-business-organisation--03-finance-access.webp" width="900" height="1086" alt="A grid shows which of seven named sources each ownership type can use: owner's capital for sole traders, partners' capital for partnerships, shares and debentures for limited companies (mainly large-scale for plcs), and overdraft, loan and mortgage for all. A Cambridge-only box names instalments, leasing, trade credit and secured/unsecured loans." loading="lazy">
+  <figcaption>Match each source of finance to the ownership types that can realistically use it.</figcaption>
+</figure>
+
 
 ## Shareholders (both)
 
@@ -220,10 +255,26 @@ If the price rises to £3.60 and the dividend stays at 15p, the yield falls to 0
   <figcaption>A higher share price lowers the yield and raises market capitalisation.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-business-managers-leadership-decision-making--08-dividend-yield.webp" width="900" height="1050" alt="Market capitalisation 48 million x 3.25 = 156 million pounds; dividend per share 7.2m / 48m = 15p; yield 15p / 3.25 x 100 = 4.62 percent. If the price falls to 3.00 the yield is 5.00 percent and market capitalisation 144 million pounds." loading="lazy">
+  <figcaption>A falling share price raises dividend yield but lowers market capitalisation, so a higher yield can signal lost confidence.</figcaption>
+</figure>
+
 
 ## Stakeholders (both)
 
 **Internal:** owners and shareholders, employees. **External:** customers, suppliers, the community, the government and, in 9725, creditors (those owed money by the firm). Stakeholders have different interests: shareholders want returns, employees want pay and security, suppliers want prompt payment, the community wants jobs without disruption, the government wants tax and legal compliance. To show the **impact of business activity**, name the stakeholder, the change and the effect.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-business-managers-leadership-decision-making--05-stakeholder-map.webp" width="900" height="990" alt="A power-interest grid. Planning authority is high power, high interest (manage closely); shareholders high power and moderate interest; residents low power, high interest (keep informed), with an arrow showing their power rising if they campaign." loading="lazy">
+  <figcaption>Stakeholders are placed by power and interest to decide how much attention each needs.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-understanding-business-activity--08-stakeholder-conflicts.webp" width="900" height="1040" alt="Six stakeholder groups around a business (owners and employees internal; customers, suppliers, government, local community external). Two conflicts: owners cutting costs vs employees wanting higher wages; customers wanting low prices vs owners wanting higher margins." loading="lazy">
+  <figcaption>Stakeholders have differing objectives that often conflict.</figcaption>
+</figure>
+
 
 ## Common errors
 

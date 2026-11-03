@@ -90,6 +90,11 @@ Units 7 to 9 thousand are worth more than they cost, yet are not produced.
   <figcaption>Producing more or less than the equilibrium quantity destroys social surplus; only MB = MC is allocatively efficient.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-economics-government-microeconomic-intervention--08-monopoly-welfare-loss.webp" width="900" height="910" alt="Demand (AR) slopes down with marginal revenue below it and marginal cost sloping up. The monopolist produces where MR = MC: output 40 at price 10. The allocatively efficient output is where price = MC: output 60 at price 8. The triangle between 40 and 60 is the welfare loss, area 40." loading="lazy">
+  <figcaption>A monopolist restricts output below the allocatively efficient level and charges a higher price.</figcaption>
+</figure>
+
 
 ## Economic efficiency, static and dynamic efficiency
 
@@ -219,6 +224,11 @@ Each is market failure because prices reflect only private costs and benefits, s
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/ocr-a-level-economics-economic-efficiency-and-the-nature-of-market-failure--01-externality-cases-2-and-4.webp" width="900" height="1260" alt="Two graphs mirror the drawn cases with illustrative numbers. In case 2 MSB lies below MPB, so the market buys 10 against an optimum of 8. In case 4 MSC lies below MPC, so the market produces 8 against an optimum of 10. Each welfare-loss triangle has base 2 and height 8." loading="lazy">
   <figcaption>Cases 2 and 4 mirror cases 1 and 3: over-consumption and under-production.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-allocation-of-resources--06-external-costs-and-benefits.webp" width="900" height="1160" alt="A factory has private cost 10 and its smoke harms neighbours with an external cost of 4, so social cost is 14. A vaccination has private benefit 6 and external benefit 3, so social benefit is 9. The market ignores the external parts." loading="lazy">
+  <figcaption>Social cost or benefit equals private plus external.</figcaption>
 </figure>
 
 

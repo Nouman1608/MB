@@ -102,6 +102,11 @@ When you answer, state the example, the mechanism and the effect on the immune r
 - Turbidity includes dead cells, so only viable counts show killing.
 
 <figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-immunity--01-bacterium-vs-virus.webp" width="900" height="1070" alt="A bacterium is a living prokaryotic cell with a cell wall, ribosomes, a circular chromosome and plasmids. HIV is not a cell: it has an envelope carrying glycoproteins, a protein capsid, two RNA copies and enzymes such as reverse transcriptase. HIV is about 120 nm across and a bacterium about 17 times longer." loading="lazy">
+  <figcaption>A bacterium is a cell; HIV is a particle with RNA, enzymes, a capsid and an envelope.</figcaption>
+</figure>
+
+<figure class="topic-figure">
   <img src="https://img.marlbridge.com/a-level-biology-9700-immunity--09-antibiotic-resistance.webp" width="900" height="1150" alt="Four panels. A chance mutation makes one bacterium in 20 resistant; the antibiotic kills the 19 susceptible ones; the survivor divides to 16 cells in four generations; plasmids can pass the resistance gene to other bacteria." loading="lazy">
   <figcaption>The antibiotic selects for resistant bacteria, which then multiply and share the gene.</figcaption>
 </figure>
@@ -185,12 +190,6 @@ Notice that the diameters differ by a factor of 1.33 but the areas by 1.9. This 
 
 **Explain how resistance spreads in a population of bacteria.** A mutation gives a resistant allele [1]. Sensitive bacteria are killed by the antibiotic, leaving resistant individuals to reproduce with less competition [1]. Offspring inherit the allele, and plasmids can carry it into other bacteria [1].
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-level-biology-9700-immunity--06-primary-secondary-response.webp" width="900" height="1030" alt="Graph of antibody concentration against time. After exposure on day 0 antibody appears on day 6 and peaks at 15 units on day 14. After a second exposure on day 60 it rises within a day to 240 units on day 66, 16 times higher. Mean rates of rise are 1.9 and 47.6 units per day." loading="lazy">
-  <figcaption>Memory cells make the second response faster and 16 times bigger than the first.</figcaption>
-</figure>
-
-
 ## Quick self-test
 
 1. Name the cell type that releases cytokines to activate B cells and T killer cells.
@@ -219,6 +218,12 @@ Notice that the diameters differ by a factor of 1.33 but the areas by 1.9. This 
 10. (45 − 27) / 45 × 100 = 40 %.
 11. Prescribe only when needed, test which antibiotic the bacteria are sensitive to, or reserve some antibiotics for resistant infections.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-immunity--06-primary-secondary-response.webp" width="900" height="1030" alt="Graph of antibody concentration against time. After exposure on day 0 antibody appears on day 6 and peaks at 15 units on day 14. After a second exposure on day 60 it rises within a day to 240 units on day 66, 16 times higher. Mean rates of rise are 1.9 and 47.6 units per day." loading="lazy">
+  <figcaption>Memory cells make the second response faster and 16 times bigger than the first.</figcaption>
+</figure>
+
+
 ## Where marks are usually lost
 
 - Calling a plasma cell a memory cell, or saying that T cells make antibodies.
@@ -230,6 +235,12 @@ Notice that the diameters differ by a factor of 1.33 but the areas by 1.9. This 
 - Using the diameter in place of the radius when working out area.
 - Describing hospital measures with no link to the cause they address.
 - Comparing infection counts when the patient-days differ.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-immunity--08-herd-immunity.webp" width="900" height="930" alt="Two grids of 100 people with one case and R0 of 6. With nobody immune the case infects 6 neighbours. With 84 immune, above the 83.3 per cent needed (1 minus 1/6), every neighbour is immune and spread is blocked, protecting those who cannot be vaccinated." loading="lazy">
+  <figcaption>When enough people are immune, a pathogen cannot find susceptible hosts and the outbreak stops.</figcaption>
+</figure>
+
 
 ## Official syllabus
 

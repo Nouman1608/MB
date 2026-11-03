@@ -218,6 +218,12 @@ Break-even overrun = 1,027/900 - 1 = 14.1%
 
 Infrastructure lowers firms' costs, shifts long-run aggregate supply right, and attracts FDI. It also adds to demand while being built. Evaluation: high cost, opportunity cost, long delays, corruption in contracts, and benefits that reach rural poor only if links are built.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-aggregate-demand-supply--07-lras-growth.webp" width="900" height="1000" alt="LRAS shifts right from output 100 to 130, with SRAS shifted right by the same amount. Equilibrium moves from output 90, price level 65 to output 105, price level 57.5. Technology, productivity, enterprise, factor mobility, incentives and institutions are listed as causes." loading="lazy">
+  <figcaption>Underlying economic growth is a rightward shift in LRAS, raising output and easing prices.</figcaption>
+</figure>
+
+
 ### Joint ventures with TNCs
 
 A joint venture earns 200m profit. Tax is 25%, the TNC owns 60% and the local firm 40%.

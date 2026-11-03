@@ -180,6 +180,17 @@ A good appraisal groups the ratios and links them.
 
 Limits to keep in mind when you evaluate: the statement of financial position shows one day only, so year-end balances may not be typical; another business may use different inventory or depreciation methods; inflation distorts comparisons over time; and ratios ignore non-financial factors such as staff skill or customer loyalty.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-analysis-and-evaluation-of-financial-information--01-ratio-map.webp" width="900" height="951" alt="Five rows group ratios by the question they answer: profitability asks if the business earns enough, liquidity if it can pay its debts, efficiency if it uses resources well, capital structure how it is funded (AQA and OxfordAQA), and investor ratios whether shares are worth owning (A Level companies)." loading="lazy">
+  <figcaption>Each ratio group answers one question about the business.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-analysis-and-evaluation-of-financial-information--08-gearing-interest-cover.webp" width="900" height="810" alt="Ardleigh funds 24.47 percent of long-term capital with debt and its operating profit covers interest 7.91 times. Merrowdale has 52.00 percent debt and covers interest only 3.00 times, so it is riskier if profit falls." loading="lazy">
+  <figcaption>More borrowing and less interest cover mean more risk to lenders and shareholders.</figcaption>
+</figure>
+
+
 ## Appraising a partnership (1.5.2)
 
 The ratios are the same. Two points change.
@@ -226,6 +237,12 @@ Profit for year %  = 63,560 / 552,000 x 100        = 11.51%
 The opening inventory for 2027 is the closing inventory for 2026 (42,000). Purchases come from rearranging cost of sales: purchases = cost of sales + closing inventory − opening inventory.
 
 Comment on what the projection shows. Profit for the year rises in dollars, but the profit percentage dips below 2026's 12.00% because the margin is lower. A projection is only as good as its assumptions: if the price cut does not lift volume by 15%, gross profit falls.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-analysis-and-evaluation-of-financial-information--10-profit-variance-waterfall.webp" width="900" height="806" alt="Budgeted profit of 27,200 dollars becomes actual profit of 31,749: sales price 6,900 favourable, sales volume 3,300 adverse, wool price 2,115 favourable, wool usage 1,350 adverse, labour rate 1,656 adverse and labour efficiency 1,840 favourable. Fixed overheads match the budget." loading="lazy">
+  <figcaption>Favourable variances raise profit above budget and adverse ones lower it.</figcaption>
+</figure>
+
 
 ## Common errors
 

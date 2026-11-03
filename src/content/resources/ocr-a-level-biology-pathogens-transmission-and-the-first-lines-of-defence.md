@@ -161,6 +161,11 @@ Phagocytes are white blood cells that engulf and digest pathogens.
   <figcaption>A phagocyte engulfs a pathogen, digests it with lysosome enzymes and displays its antigens.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-immunity--04-clonal-selection.webp" width="900" height="1320" alt="A macrophage presents an antigen to a T helper cell, which divides to form a clone and releases cytokines. Cytokines stimulate a B cell with a matching antibody to divide, and most of its clone become plasma cells that release antibodies; cytokines also stimulate T killer cells to destroy infected cells. Some cells become memory cells." loading="lazy">
+  <figcaption>Only lymphocytes with a matching receptor are selected, cloned and activated by T helper cytokines.</figcaption>
+</figure>
+
 
 ## 4.1.1(e)(ii) Blood smears and drawing
 

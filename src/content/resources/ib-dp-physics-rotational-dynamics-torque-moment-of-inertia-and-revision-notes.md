@@ -35,6 +35,17 @@ Related pages: the [IB Physics hub](/boards/ib/ib-dp/physics/), the [printable c
 - **Angular momentum, L**: Iω, in kg m² s⁻¹.
 - **Angular impulse**: τΔt, equal to the change in L.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-rotational-dynamics-torque-moment-of-inertia-and--03-angular-suvat.webp" width="900" height="900" alt="An angular speed against time graph for a flywheel going from 12 to 40 rad per second in 8.0 s. The gradient is 3.5 rad per second squared and the area under the line, 96 rad plus 112 rad, is the angle turned: 208 rad or 33.1 turns. Higher level only." loading="lazy">
+  <figcaption>The area under an omega-t graph is the angle turned, just as the area under a v-t graph is distance.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-rotational-dynamics-torque-moment-of-inertia-and--07-angular-impulse.webp" width="900" height="1070" alt="A torque of 0.80 N m for 5.0 s gives an area of 4.0 N m s, so L rises from 0 to 4.0 kg m squared per second. With I = 0.040 kg m squared, omega = 100 rad per second and kinetic energy = L squared / 2I = 200 J. Higher level only." loading="lazy">
+  <figcaption>The area under a torque-time graph is the change in angular momentum.</figcaption>
+</figure>
+
+
 ## Formulae
 
 | Quantity | Equation | Notes |
@@ -74,12 +85,6 @@ Choose the equation that leaves out the quantity you neither know nor need.
 
 The guide's linking idea is that the equations of motion and the conservation laws for rotation are analogous to those for linear motion. The analogy is a memory aid; always check that you are using a rotational quantity with a rotational one.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ib-dp-physics-rotational-dynamics-torque-moment-of-inertia-and--07-angular-impulse.webp" width="900" height="1070" alt="A torque of 0.80 N m for 5.0 s gives an area of 4.0 N m s, so L rises from 0 to 4.0 kg m squared per second. With I = 0.040 kg m squared, omega = 100 rad per second and kinetic energy = L squared / 2I = 200 J. Higher level only." loading="lazy">
-  <figcaption>The area under a torque-time graph is the change in angular momentum.</figcaption>
-</figure>
-
-
 ## Methods in steps
 
 **Rotational equilibrium problem**
@@ -114,6 +119,11 @@ The guide's linking idea is that the equations of motion and the conservation la
   <figcaption>Taking torques about the pivot removes the unknown pivot force and gives the hanging mass.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-rotational-dynamics-torque-moment-of-inertia-and--05-pulley-coupled.webp" width="900" height="980" alt="A 0.50 kg mass hangs from a string wound on a 3.0 kg, 0.10 m disc pulley. Weight 4.91 N down, tension 3.68 N up, so the mass accelerates down at 2.45 m per second squared while the pulley turns clockwise with angular acceleration 24.5 rad per second squared. Higher level only." loading="lazy">
+  <figcaption>Apply F = ma to the mass and torque = I alpha to the pulley, linked by a = alpha R.</figcaption>
+</figure>
+
 
 ## Small worked reminders
 
@@ -126,6 +136,11 @@ The guide's linking idea is that the equations of motion and the conservation la
 **Rolling.** A hoop (I = mr², given) rolls from rest down a drop of 0.80 m without slipping. Then mgh = ½mv² + ½mv² = mv², so v = √(gh) = √(9.81 × 0.80) = 2.80 m s⁻¹. Half the energy is rotational. With ω = v/r, a hoop of radius 0.20 m turns at 14.0 rad s⁻¹ at the bottom.
 
 **Sense.** For a seesaw balanced about its midpoint, a 30 kg child at 1.5 m on the left gives a counter-clockwise torque. A second child on the right balances it only if their mass times distance is also 45 kg m.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-rotational-dynamics-torque-moment-of-inertia-and--01-torque.webp" width="900" height="790" alt="A rod pivoted at one end with an 18 N force at 0.75 m acting at 40 degrees to the rod. The force splits into F cos theta (13.8 N, along the rod, no turning) and F sin theta (11.6 N, at right angles, turns the rod). The sense is counter-clockwise and the torque is 8.68 N m. Higher level only." loading="lazy">
+  <figcaption>Only the component of force at right angles to the line from the axis turns the body.</figcaption>
+</figure>
 
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/ib-dp-physics-rotational-dynamics-torque-moment-of-inertia-and--06-angular-momentum.webp" width="900" height="1110" alt="A person on a freely turning stool, top view, pulls weights in. I falls from 5.2 to 3.4 kg m squared, angular speed rises from 1.50 to 2.29 rad per second, L stays 7.8 kg m squared per second and kinetic energy rises from 5.85 to 8.95 J. Higher level only." loading="lazy">
@@ -146,12 +161,6 @@ The guide's linking idea is that the equations of motion and the conservation la
 - **Conservation of L and of Ek**: collisions where bodies join lose kinetic energy but keep L if no external torque acts.
 - **Equilibrium and rest**: zero resultant torque means constant ω, which can be non-zero. Rotational equilibrium does not require the body to be stationary.
 - **Resultant and individual torques**: τ = Iα uses the resultant torque, including friction at the axle.
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ib-dp-physics-rotational-dynamics-torque-moment-of-inertia-and--04-moment-of-inertia.webp" width="900" height="980" alt="Two 0.60 kg masses on a light 0.80 m rod, seen from above. About the middle I = 2 x 0.60 x 0.40 squared = 0.192 kg m squared; about one mass I = 0.60 x 0.80 squared = 0.384 kg m squared, twice as much. Higher level only." loading="lazy">
-  <figcaption>The same body has a different moment of inertia about a different axis; r is the distance to the axis.</figcaption>
-</figure>
-
 
 ## Quick self-test
 
@@ -184,8 +193,8 @@ The guide's linking idea is that the equations of motion and the conservation la
 12. **More of the hoop's mass is at the full radius, far from the axis, so Σmr² is larger.**
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ib-dp-physics-rotational-dynamics-torque-moment-of-inertia-and--01-torque.webp" width="900" height="790" alt="A rod pivoted at one end with an 18 N force at 0.75 m acting at 40 degrees to the rod. The force splits into F cos theta (13.8 N, along the rod, no turning) and F sin theta (11.6 N, at right angles, turns the rod). The sense is counter-clockwise and the torque is 8.68 N m. Higher level only." loading="lazy">
-  <figcaption>Only the component of force at right angles to the line from the axis turns the body.</figcaption>
+  <img src="https://img.marlbridge.com/ib-dp-physics-rotational-dynamics-torque-moment-of-inertia-and--04-moment-of-inertia.webp" width="900" height="980" alt="Two 0.60 kg masses on a light 0.80 m rod, seen from above. About the middle I = 2 x 0.60 x 0.40 squared = 0.192 kg m squared; about one mass I = 0.60 x 0.80 squared = 0.384 kg m squared, twice as much. Higher level only." loading="lazy">
+  <figcaption>The same body has a different moment of inertia about a different axis; r is the distance to the axis.</figcaption>
 </figure>
 
 

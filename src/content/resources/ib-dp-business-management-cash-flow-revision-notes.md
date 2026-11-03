@@ -181,17 +181,6 @@ Pick by cause. The guide does not list strategies, so this table is standard tea
 | Excess stock | Reduce stock, stricter ordering | Stock-outs |
 | Persistent losses | Cut costs, raise prices, restructure | Short-term cash fixes only postpone failure |
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ib-dp-business-management-cash-flow--08-buy-or-lease.webp" width="900" height="1010" alt="Closing balances for March to June. Buying gives 1,300, -11,800, -3,700, 11,400 (overdrawn in April and May). Leasing at 1,100 a month gives 1,300, 3,100, 10,100, 24,100, never overdrawn." loading="lazy">
-  <figcaption>Leasing avoids the large April payment and the overdraft, though it may cost more over many years.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ib-dp-business-management-cash-flow--06-cash-fixes.webp" width="900" height="750" alt="A cash tank with four groups: bring cash in sooner (chase receivables, early-payment discount, debt factoring), release tied-up cash (sell and lease back, reduce stock), top up from outside (overdraft, short-term loan), slow cash out (delay supplier payments, lease, cut costs, delay investment)." loading="lazy">
-  <figcaption>Choose the strategy that fits the cause; if the cause is losses, quick fixes only delay the problem.</figcaption>
-</figure>
-
-
 ## Quick self-test
 
 1. State the formula for working capital.
@@ -217,6 +206,17 @@ Pick by cause. The guide does not list strategies, so this table is standard tea
 8. Any two: shorter credit terms, chasing overdue invoices, early-payment discount, debt factoring.
 9. It depends on assumptions that may prove wrong, or events that cannot be foreseen.
 10. Cash or stock may be sitting idle, not earning a return, or the figure may be inflated by unsold stock or slow-paying customers.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-cash-flow--08-buy-or-lease.webp" width="900" height="1010" alt="Closing balances for March to June. Buying gives 1,300, -11,800, -3,700, 11,400 (overdrawn in April and May). Leasing at 1,100 a month gives 1,300, 3,100, 10,100, 24,100, never overdrawn." loading="lazy">
+  <figcaption>Leasing avoids the large April payment and the overdraft, though it may cost more over many years.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-cash-flow--06-cash-fixes.webp" width="900" height="750" alt="A cash tank with four groups: bring cash in sooner (chase receivables, early-payment discount, debt factoring), release tied-up cash (sell and lease back, reduce stock), top up from outside (overdraft, short-term loan), slow cash out (delay supplier payments, lease, cut costs, delay investment)." loading="lazy">
+  <figcaption>Choose the strategy that fits the cause; if the cause is losses, quick fixes only delay the problem.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

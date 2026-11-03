@@ -121,6 +121,11 @@ E = I × V × t
   <figcaption>A current heats a resistor because electrons collide with its ions.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-energy-resources-trends-in-use-and-mains-electricity--11-live-to-earth-fault.webp" width="900" height="950" alt="A loose live wire at about 230 V touches the earthed metal case of a toaster. A large current flows through the case and the earth wire to earth rather than through the user. For example 230 V across 46 ohms gives 5 A, and more if the resistance is lower." loading="lazy">
+  <figcaption>A live-to-earth connection gives a large current in the earth wire, protecting the user.</figcaption>
+</figure>
+
 
 ## Series and parallel circuits
 

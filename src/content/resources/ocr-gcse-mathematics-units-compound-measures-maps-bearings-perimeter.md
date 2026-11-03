@@ -298,6 +298,12 @@ Arc = ¼ × 2π × 4 = 2π cm
 Perimeter = 28 + 2π = 34.3 cm (3 s.f.)
 ```
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-mensuration--04-compound-shape.webp" width="900" height="830" alt="A 6 by 8 cm rectangle has a semicircle of diameter 6 cm on top. Area is 48 + 14.14 = 62.14 cm2. The perimeter is 8 + 8 + 6 + 3 pi = 31.42 cm; the dashed join line is not an edge." loading="lazy">
+  <figcaption>Split a compound shape into simple shapes for the area, and count only the outside edge for the perimeter.</figcaption>
+</figure>
+
+
 ## Common errors
 
 - Using 100 for area conversion between m² and cm², instead of 10 000.

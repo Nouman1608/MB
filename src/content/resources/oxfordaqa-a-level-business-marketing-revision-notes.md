@@ -69,6 +69,16 @@ Objectives include **sales volume/value, market share, customer retention, repea
   <figcaption>A correlation near 1 means a strong link and near 0 a weak one, but neither proves cause.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-business-marketing-objectives-and-plans-and-marketing-data--03-confidence-interval-width.webp" width="900" height="936" alt="Three ranges around a sample result of 62 per cent: 57 to 67 per cent for 400 people at 95 per cent, 52 to 72 per cent for 100 people at 95 per cent, and 56 to 68 per cent for 400 people at 99 per cent. A bigger sample narrows the range and a higher level widens it." loading="lazy">
+  <figcaption>A bigger sample narrows the interval; a higher confidence level widens it.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-business-marketing-objectives-and-plans-and-marketing-data--04-big-data-mining.webp" width="900" height="900" alt="Three very large data sources (purchases, website clicks, social media) feed data mining, which finds patterns such as items bought together and customers about to leave. Value: better targeting, early warning. Limits: cost, poor data, chance patterns, privacy concerns." loading="lazy">
+  <figcaption>Data mining searches big data for patterns, with limits.</figcaption>
+</figure>
+
 
 ## Segmentation, targeting, positioning (3.1.2.3)
 
@@ -79,6 +89,22 @@ A **connected three-step process**, not separate topics:
 3. **Position** — establish the product's place relative to competitors for that segment.
 
 Exam questions typically expect all three steps applied to one scenario.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-business-marketing--03-segment-target-position.webp" width="900" height="1280" alt="Three stacked panels: twenty people split into four segments, one segment chosen as the target, then a price-quality map where the business places its product in a gap away from rivals." loading="lazy">
+  <figcaption>Segment the market, target one segment, then position the product for it.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-business-segmentation-targeting-and-positioning--05-segmentation-methods.webp" width="900" height="880" alt="Four tiles: geographic (where they live, ice cream and climate), demographic (age, gender, family; pension and age), behavioural (what they do as buyers; gym and visit frequency), psychographic (how they think and live; sustainable fashion and values). A fifth tile shows income as a separate method in 9625 only." loading="lazy">
+  <figcaption>Match the segmentation method to what matters for the product.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-business-segmentation-targeting-and-positioning--07-niche-or-mass-profit.webp" width="900" height="930" alt="Two stacked columns of contribution: niche 864,000 less promotion 180,000 leaves 684,000; mass 720,000 less 520,000 leaves 200,000. Mass has more revenue but the niche leaves far more." loading="lazy">
+  <figcaption>Mass marketing earns more revenue, but after promotion the niche leaves 684,000 against 200,000.</figcaption>
+</figure>
+
 
 ## The marketing mix (3.1.2.4)
 
@@ -97,6 +123,36 @@ Exam questions typically expect all three steps applied to one scenario.
   <figcaption>9625 uses seven Ps, 9725 only four.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-business-the-marketing-mix--06-npd-six-stages.webp" width="900" height="899" alt="Six numbered rows: 14 ideas, screening drops 9 and keeps 5, concept testing rates 2 highly, business analysis compares break-even 400,000 with demand 520,000, then product testing and launch." loading="lazy">
+  <figcaption>New products pass through six stages in order.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-business-the-marketing-mix--01-extension-strategies.webp" width="900" height="1110" alt="A sales curve rises, peaks and declines; a shaded band marks maturity and a dashed line shows sales held up by an extension strategy. Four cards give a gain and a cost for advertising, rebranding, lower price and adapting the product." loading="lazy">
+  <figcaption>Each extension strategy delays decline but carries a cost.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-business-marketing--01-boston-matrix.webp" width="900" height="1000" alt="Chart of relative market share (high left, low right, log scale) against market growth. Star, Question mark, Cash cow and Dog quadrants each carry a one-line strategy, with four illustrative products A to D placed in them." loading="lazy">
+  <figcaption>The Boston Matrix classifies products by market share and market growth and suggests a strategy for each.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-business-the-marketing-mix--05-discrimination-dynamic.webp" width="900" height="1040" alt="Two prices for two separate groups, and a line graph of a price that rises at busy hours of the day." loading="lazy">
+  <figcaption>Discrimination uses fixed groups; dynamic pricing changes with demand.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-business-the-marketing-mix--03-promotional-mix-six.webp" width="900" height="1040" alt="Six rows, one per promotional element, each with one advantage and one disadvantage." loading="lazy">
+  <figcaption>Every element of the promotional mix has a gain and a cost.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-business-the-marketing-mix--04-channels-agent-multi.webp" width="900" height="970" alt="Four routes from maker to customer: via wholesaler and retailer, via retailer, via an agent on commission, or direct online. Multi-channel uses several at once." loading="lazy">
+  <figcaption>An agent sells on commission without stock; multi-channel combines routes.</figcaption>
+</figure>
+
 
 ## Worked example: price elasticity of demand and revenue
 
@@ -112,6 +168,12 @@ Caution:     PED is not fixed -- it can shift as competitors respond
 ```
 
 The PED-to-revenue link, not just stating elastic/inelastic, is what most exam questions actually test.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-business-marketing--04-ped-and-revenue.webp" width="900" height="910" alt="A demand curve with two revenue rectangles. A 10 percent price rise from $10 to $11 cuts quantity 4 percent from 1,000 to 960. Revenue gained of $960 outweighs revenue lost of $400, so revenue rises from $10,000 to $10,560." loading="lazy">
+  <figcaption>When demand is price inelastic, raising price raises total revenue.</figcaption>
+</figure>
+
 
 ## Worked example: marketing objective calculations
 

@@ -154,6 +154,11 @@ Evaluate by asking whether profit reflects efficiency or market power, whether i
   <figcaption>Profit signals where resources are wanted, rewards risk, funds investment and disciplines losing firms.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-economics-production-and-business-costs--05-revenue-costs-profit.webp" width="900" height="920" alt="A firm sells 1,000 units at $50. Total revenue is $50,000. Total costs of $35,000 are fixed costs $10,000 plus variable costs $25,000. Profit is $15,000. Average total cost is $35,000 divided by 1,000, which is $35 per unit, leaving $15 per unit of the $50 price." loading="lazy">
+  <figcaption>The lesson example in pictures: $50,000 revenue less $35,000 costs leaves $15,000 profit, and average cost is $35 a unit.</figcaption>
+</figure>
+
 
 ## Technological change
 
@@ -178,32 +183,6 @@ A workshop with 6 workers makes 480 units a week, or 80 each. After adopting new
 2. The innovator earns abnormal profit for a time.
 3. Old products and firms lose sales, and some jobs disappear.
 4. Imitators enter, profit falls toward normal and the next innovation begins.
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/aqa-a-level-economics-revenue-profit-and-technological-change--04-rev-tech-cost-crossover.webp" width="900" height="1030" alt="Firm C average cost falls faster with the new process but starts higher. The curves cross at 17,143 units. New process cuts average cost only above 17,143 units." loading="lazy">
-  <figcaption>New process cuts average cost only above 17,143 units.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/aqa-a-level-economics-revenue-profit-and-technological-change--05-rev-creative-destruction.webp" width="900" height="910" alt="Profit jumps above normal when an innovation arrives, then falls back as imitators enter, before the next innovation repeats the cycle. Innovation brings temporary abnormal profit that entry erodes towards normal profit." loading="lazy">
-  <figcaption>Innovation brings temporary abnormal profit that entry erodes towards normal profit.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/aqa-a-level-economics-revenue-profit-and-technological-change--07-invention-vs-innovation.webp" width="900" height="700" alt="A flask for invention, a new idea or process such as cheap solar film, leads by an arrow to roof tiles on sale for innovation, the first commercial use." loading="lazy">
-  <figcaption>Invention is the new idea; innovation is its first commercial use.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/aqa-a-level-economics-revenue-profit-and-technological-change--08-productivity-automation.webp" width="900" height="880" alt="Five workers produce 400 units, 80 each. After automation they produce 600, 120 each, a rise of 50%." loading="lazy">
-  <figcaption>Output per worker rises from 80 to 120, which is +50%.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/aqa-a-level-economics-revenue-profit-and-technological-change--09-tech-market-structure.webp" width="900" height="740" alt="Left: an online platform removes the need for shops, so barriers fall and many small firms compete. Right: research costs, patents and network effects raise barriers and let an early mover dominate." loading="lazy">
-  <figcaption>Technology can lower barriers to entry or raise them.</figcaption>
-</figure>
-
 
 ## Quick self-test
 
@@ -234,6 +213,32 @@ A workshop with 6 workers makes 480 units a week, or 80 each. After adopting new
 10. (115 − 80) ÷ 80 = 43.75%, or 43.8%.
 11. Rivals enter or imitate, so competition reduces price and margin.
 12. High research costs, patents or network effects give an early mover a dominant position.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-revenue-profit-and-technological-change--04-rev-tech-cost-crossover.webp" width="900" height="1030" alt="Firm C average cost falls faster with the new process but starts higher. The curves cross at 17,143 units. New process cuts average cost only above 17,143 units." loading="lazy">
+  <figcaption>New process cuts average cost only above 17,143 units.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-revenue-profit-and-technological-change--05-rev-creative-destruction.webp" width="900" height="910" alt="Profit jumps above normal when an innovation arrives, then falls back as imitators enter, before the next innovation repeats the cycle. Innovation brings temporary abnormal profit that entry erodes towards normal profit." loading="lazy">
+  <figcaption>Innovation brings temporary abnormal profit that entry erodes towards normal profit.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-revenue-profit-and-technological-change--07-invention-vs-innovation.webp" width="900" height="700" alt="A flask for invention, a new idea or process such as cheap solar film, leads by an arrow to roof tiles on sale for innovation, the first commercial use." loading="lazy">
+  <figcaption>Invention is the new idea; innovation is its first commercial use.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-revenue-profit-and-technological-change--08-productivity-automation.webp" width="900" height="880" alt="Five workers produce 400 units, 80 each. After automation they produce 600, 120 each, a rise of 50%." loading="lazy">
+  <figcaption>Output per worker rises from 80 to 120, which is +50%.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-revenue-profit-and-technological-change--09-tech-market-structure.webp" width="900" height="740" alt="Left: an online platform removes the need for shops, so barriers fall and many small firms compete. Right: research costs, patents and network effects raise barriers and let an early mover dominate." loading="lazy">
+  <figcaption>Technology can lower barriers to entry or raise them.</figcaption>
+</figure>
+
 
 ## Evaluation prompts
 

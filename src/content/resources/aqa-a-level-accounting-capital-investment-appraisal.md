@@ -174,11 +174,6 @@ has not eroded it, and there is no risk it never arrives. So each future cash fl
   <figcaption>WACC weights each source's cost by its share of finance and is used as the discount rate.</figcaption>
 </figure>
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/aqa-a-level-accounting-capital-investment-appraisal--08-arr-bases.webp" width="900" height="940" alt="The same 25,000 average profit is shown as a slice of two bars: initial cost 240,000 gives 10.4% and average investment 135,000 gives 18.5%." loading="lazy">
-  <figcaption>ARR changes with the investment base, so state which one you use.</figcaption>
-</figure>
-
 
 ### Decision rule
 
@@ -273,6 +268,11 @@ servicing, and ends with a clear recommendation.
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/aqa-a-level-accounting-capital-investment-appraisal--05-payback-vs-npv.webp" width="900" height="1080" alt="Running totals for Alder and Birch cross zero at 2 years 6 months and 3 years 10 months. NPV bars at 8% show Alder 11,610 and Birch 17,545. Payback favours Alder, NPV favours Birch, and Birch relies on later years." loading="lazy">
   <figcaption>Payback and NPV can recommend different projects, so evaluate with both.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-capital-investment-appraisal--08-arr-bases.webp" width="900" height="940" alt="The same 25,000 average profit is shown as a slice of two bars: initial cost 240,000 gives 10.4% and average investment 135,000 gives 18.5%." loading="lazy">
+  <figcaption>ARR changes with the investment base, so state which one you use.</figcaption>
 </figure>
 
 

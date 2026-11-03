@@ -36,6 +36,12 @@ These are condensed notes for statements 5.16 to 5.26 of Topic 5 in the Pearson 
 
 **Reminder (rings).** Rings of 1.4, 1.6, 0.6 and 1.8 mm have a mean of 5.4 ÷ 4 = 1.35 mm. The 0.6 mm ring is the poor year: cold, dry or disease. Compare many trees before inferring climate.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-selection-and-evolution--02-three-types-of-selection.webp" width="900" height="1274" alt="Three panels each show a dashed bell curve before selection and a solid curve after. Stabilising selection narrows the curve with the mean unchanged, directional selection shifts it toward one extreme, and disruptive selection leaves two peaks and removes the middle." loading="lazy">
+  <figcaption>Selection can narrow, shift or split the distribution of a phenotype.</figcaption>
+</figure>
+
+
 ## 5.17 Greenhouse effect and anthropogenic causes
 
 Method in steps:
@@ -123,6 +129,12 @@ Evolution is a change in allele frequency in a population over generations.
 
 Allele frequency = number of copies of the allele ÷ total number of alleles. **Reminder:** 20 copies among 200 alleles is 0.10. If later there are 70 copies among 200, the frequency is 0.35, so the population has evolved.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-selection-and-evolution--03-selection-changes-allele-frequency.webp" width="900" height="1140" alt="A population of 1000 beetles is 490 AA, 420 Aa and 90 aa. Predators eat all aa beetles, leaving 910 breeders. The allele count changes q from 600/2000 = 0.30 to 420/1820 = 0.23, a gradual fall because a allele hides in Aa survivors." loading="lazy">
+  <figcaption>Removing one phenotype lowers the frequency of its allele in the next generation.</figcaption>
+</figure>
+
+
 ## 5.24 Isolation and speciation
 
 | | Allopatric | Sympatric |
@@ -191,6 +203,12 @@ Conclusions can depend on who reaches them. Look at: funding source, vested inte
 10. Allopatric: geographical barrier separates populations. Sympatric: speciation within the same area.
 11. Fertilisers and machinery use fossil fuel energy; land use change releases stored carbon.
 12. The funder may have an interest, so data or interpretation may be selective.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-selection-and-evolution--06-genetic-drift.webp" width="900" height="1200" alt="Two graphs show eight simulated populations starting with an allele at 0.5. With 20 gene copies the lines wander and several are lost or fixed by chance; with 1000 gene copies they stay near 0.5." loading="lazy">
+  <figcaption>Chance changes in allele frequency are large in small populations and small in large ones.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

@@ -219,6 +219,16 @@ The CH₃ (3H) has 2 neighbouring H, so it is a **triplet**. Ratio 2 : 3.
   <figcaption>Integration step heights 32:48 = 2:3, scaled to 10 H gives 4 H and 6 H (pentan-3-one).</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-nuclear-magnetic-resonance-spectroscopy--05-nmr-ester-shift.webp" width="900" height="1000" alt="Ethyl ethanoate and methyl propanoate both give singlet 3H, quartet 2H, triplet 3H; shift of the group bonded to O decides." loading="lazy">
+  <figcaption>Both esters show a singlet, quartet and triplet, but only chemical shift shows which group is bonded to oxygen.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-nuclear-magnetic-resonance-spectroscopy--06-ms-fragmentation.webp" width="900" height="970" alt="Molecular ion m/z 72 of 2,2-dimethylpropane breaks to C4H9+ (57) and an undetected CH3 radical. Observed peaks 72, 57, 15; pentane would also give 43 and 29, drawn dashed." loading="lazy">
+  <figcaption>Only the charged fragment is detected; peaks at 72, 57 and 15 fit 2,2-dimethylpropane, not pentane (Edexcel content).</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

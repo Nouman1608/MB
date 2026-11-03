@@ -43,6 +43,12 @@ Links: [course hub](/boards/oxfordaqa/igcse/chemistry/) · [checklist](/checklis
 
 **3.8.2 b:** the relative amounts of all the reacting substances at equilibrium **depend on the conditions**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-chemistry-equilibrium-ammonia-and-sulfuric-acid--01-closed-system-equilibrium.webp" width="900" height="1150" alt="A sealed container holds 8 reactant and 4 product particles with forward and backward arrows of equal strength. Amounts stay constant but are not equal. An open container lets product escape so the reverse reaction cannot balance the forward one." loading="lazy">
+  <figcaption>A closed system keeps both reactions in balance; an open one lets product escape.</figcaption>
+</figure>
+
+
 ## 3.8.2 c: temperature rules
 
 | You change | Endothermic direction | Exothermic direction |
@@ -235,11 +241,6 @@ When the forward reaction is exothermic, a low temperature gives the best yield 
 - Giving only one side of a compromise (for example "high pressure is expensive") without the yield or rate benefit.
 - Mixing up the two processes' catalysts and pressures.
 - Answering the fertilizer question with "plants grow better" without nitrogen, food yields or population.
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/oxfordaqa-igcse-chemistry-equilibrium-ammonia-and-sulfuric-acid--01-closed-system-equilibrium.webp" width="900" height="1150" alt="A sealed container holds 8 reactant and 4 product particles with forward and backward arrows of equal strength. Amounts stay constant but are not equal. An open container lets product escape so the reverse reaction cannot balance the forward one." loading="lazy">
-  <figcaption>A closed system keeps both reactions in balance; an open one lets product escape.</figcaption>
-</figure>
 
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/rates-of-reaction-and-reversible-reactions--06-dynamic-equilibrium.webp" width="900" height="990" alt="Rate against time: forward rate falls, reverse rate rises from zero, and they meet and stay level. Particle boxes show 12 A at the start and 4 A plus 8 B at equilibrium with fixed numbers." loading="lazy">

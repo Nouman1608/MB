@@ -181,12 +181,6 @@ Use an **ICE table** — Initial, Change, Equilibrium.
 - Kc units vary with the equation; work them out from the expression each time rather than memorising.
 - If Δn(gas) = 0, Kc has no units.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-chemical-equilibria-le-chateliers-principle-and-kc--07-kc-calculation.webp" width="900" height="1020" alt="Bars show PCl5 falling from 0.250 to 0.150 mol while PCl3 and Cl2 rise to 0.100 mol. Dividing by 5.00 dm3 gives concentrations, and Kc = 0.0200 x 0.0200 / 0.0300 = 0.0133 mol dm-3." loading="lazy">
-  <figcaption>Convert equilibrium amounts to concentrations before substituting into Kc.</figcaption>
-</figure>
-
-
 ## Exam traps
 
 - Saying the forward and reverse reactions stop.
@@ -210,3 +204,9 @@ Use an **ICE table** — Initial, Change, Equilibrium.
 7. How is the partial pressure of a gas found from its mole fraction, and why does Kp sometimes carry units?
 
 **Answers:** 1. The rates of the forward and reverse reactions are equal, and the concentrations of all species remain constant, in a closed system. 2. Temperature. 3. Nothing — it increases the rate of both directions equally, so equilibrium is reached sooner at the same position. 4. A compromise: a lower temperature would give a higher yield but the rate would be too slow to be economic. 5. When there are equal numbers of moles of gas on both sides of the equation. 6. Kc = 3.0² ÷ (0.50 × 0.50) = 9.0 ÷ 0.25 = 36, with no units, since the total moles of gas are equal on both sides (2 on each). 7. Partial pressure = mole fraction × total pressure; Kp carries units whenever the total moles of gas differ between products and reactants, since the pressure units in the expression then fail to cancel exactly.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-chemical-equilibria-le-chateliers-principle-and-kc--07-kc-calculation.webp" width="900" height="1020" alt="Bars show PCl5 falling from 0.250 to 0.150 mol while PCl3 and Cl2 rise to 0.100 mol. Dividing by 5.00 dm3 gives concentrations, and Kc = 0.0200 x 0.0200 / 0.0300 = 0.0133 mol dm-3." loading="lazy">
+  <figcaption>Convert equilibrium amounts to concentrations before substituting into Kc.</figcaption>
+</figure>
+

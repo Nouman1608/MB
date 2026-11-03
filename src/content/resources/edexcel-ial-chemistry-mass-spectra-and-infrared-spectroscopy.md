@@ -45,6 +45,12 @@ M(g) → M⁺(g) + e⁻
 
 This is the **molecular ion**. The electron's mass is negligible and the charge is 1+, so its m/z equals Mr. The molecular ion peak is at the highest m/z, apart from a very small M+1 peak caused by carbon-13. Do not mistake that small peak for the molecular ion.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-nuclear-magnetic-resonance-spectroscopy--08-gc-retention-gcms.webp" width="900" height="1090" alt="Simple GC apparatus, standards D, E, F at 3.2, 4.5, 7.8 min and a sample with peaks at 3.2 and 7.8 min; GC-MS identifies m/z 100.0635 as C4H8N2O." loading="lazy">
+  <figcaption>Retention times matched to standards show D and F but no E; GC-MS molecular ion 100.0635 fits only C4H8N2O.</figcaption>
+</figure>
+
+
 ### Fragmentation
 
 Molecular ions have excess energy and many of them break apart. A bond breaks to give one positive ion and one uncharged radical:
@@ -57,6 +63,12 @@ Two terms to keep apart:
 
 - The **molecular ion peak** gives Mr.
 - The **base peak** is the tallest peak (100% relative abundance), often a fairly stable fragment rather than M⁺.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-nuclear-magnetic-resonance-spectroscopy--06-ms-fragmentation.webp" width="900" height="970" alt="Molecular ion m/z 72 of 2,2-dimethylpropane breaks to C4H9+ (57) and an undetected CH3 radical. Observed peaks 72, 57, 15; pentane would also give 43 and 29, drawn dashed." loading="lazy">
+  <figcaption>Only the charged fragment is detected; peaks at 72, 57 and 15 fit 2,2-dimethylpropane, not pentane (Edexcel content).</figcaption>
+</figure>
+
 
 ### Common fragment ions and losses
 
@@ -115,8 +127,18 @@ Step 4. No peaks at 29 or 43, so the compound is **2,2-dimethylpropane**.
 </figure>
 
 <figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-chemistry-atomic-structure--09-period3-ie.webp" width="900" height="950" alt="A line plot of first ionisation energy from Na to Ar, rising with two ringed dips at Al and S. Box diagrams explain them: Al has a lone 3p electron, higher in energy than 3s; S has two electrons paired in one 3p orbital that repel." loading="lazy">
+  <figcaption>First ionisation energy rises across Period 3 with dips at Al (outer 3p electron) and S (paired 3p electrons).</figcaption>
+</figure>
+
+<figure class="topic-figure">
   <img src="https://img.marlbridge.com/aqa-a-level-chemistry-nuclear-magnetic-resonance-spectroscopy--01-nmr-c13-environments.webp" width="900" height="976" alt="Skeletal drawings of pentane, 2-methylbutane and 2,2-dimethylpropane with each carbon coloured by environment. Pentane gives 3 peaks, 2-methylbutane 4 and 2,2-dimethylpropane 2. Peak positions are schematic." loading="lazy">
   <figcaption>Symmetry-equivalent carbons give one 13C peak, so the three C5H12 isomers give 3, 4 and 2 peaks (all boards).</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-nuclear-magnetic-resonance-spectroscopy--05-nmr-ester-shift.webp" width="900" height="1000" alt="Ethyl ethanoate and methyl propanoate both give singlet 3H, quartet 2H, triplet 3H; shift of the group bonded to O decides." loading="lazy">
+  <figcaption>Both esters show a singlet, quartet and triplet, but only chemical shift shows which group is bonded to oxygen.</figcaption>
 </figure>
 
 
@@ -230,6 +252,17 @@ Step 3. 86 − 57 = 29: loss of C₂H₅• (not CHO•, as K is a ketone), leav
 Step 4. Check the other ketones. Pentan-2-one, CH₃COCH₂CH₂CH₃, and 3-methylbutan-2-one, CH₃COCH(CH₃)₂, both contain CH₃CO and a C₃H₇ group, so each would be expected to give a peak at 43 (CH₃CO⁺ or C₃H₇⁺). There is none.
 
 Step 5. A structure that fits is **CH₃CH₂COCH₂CH₃, pentan-3-one**. Say "suggest" and give your reasoning, because spectra support a structure rather than prove it.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-nuclear-magnetic-resonance-spectroscopy--04-nmr-integration.webp" width="900" height="990" alt="Pentan-3-one with its spectrum: quartet at 2.4 and triplet at 1.1 with an integration trace of 32 mm and 48 mm. Ratio 2:3 doubles to 4 H and 6 H." loading="lazy">
+  <figcaption>Integration step heights 32:48 = 2:3, scaled to 10 H gives 4 H and 6 H (pentan-3-one).</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-nuclear-magnetic-resonance-spectroscopy--09-combine-butanone.webp" width="900" height="1080" alt="Four mini spectra for compound C: M+ 72, IR C=O 1715 with no O-H, four 13C peaks including 209, and a quartet, singlet and triplet in the 1H spectrum, leading to butanone." loading="lazy">
+  <figcaption>Mass, IR, 13C and 1H data together identify compound C as butanone.</figcaption>
+</figure>
+
 
 ## Core Practical 8: analysis of unknowns (10.23)
 

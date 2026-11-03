@@ -150,12 +150,6 @@ Raising to a power **multiplies** the percentage uncertainty by that power — a
 
 **Accurate** means close to the true value; **precise** means repeat readings agree closely. Data can be **precise but not accurate** — a miscalibrated instrument gives tightly grouped, consistently wrong readings. Precision reflects the size of random error; accuracy reflects the size of systematic error — the two are independent, so improving one does not automatically improve the other.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/as-physics-quantities-units-revision-notes--03-systematic-error-graph.webp" width="900" height="980" alt="Three straight lines on one graph: the true line y = 2x, a zero-error line y = 2x + 1 with the same gradient but shifted intercept, and a scale-error line y = 2.4x through the origin with a larger gradient." loading="lazy">
-  <figcaption>A zero error shifts the intercept; a calibration error changes the gradient.</figcaption>
-</figure>
-
-
 ## Exam traps
 
 - Swapping sin and cos when resolving.
@@ -177,3 +171,19 @@ Raising to a power **multiplies** the percentage uncertainty by that power — a
 7. Give one example each of a random error and a systematic error, and state how each is reduced.
 
 **Answers:** 1. Kilogram, metre, second, ampere, kelvin. 2. It proves the equation could be correct; it cannot detect a wrong dimensionless constant. 3. F cos θ horizontally and F sin θ vertically. 4. Add the percentage uncertainties. 5. It depends on the cause: a zero-offset error shifts the intercept but leaves the gradient correct (e.g. a line that should pass through the origin does not); a calibration/scale-factor error instead changes the gradient; some systematic effects change both. 6. % uncertainty in r = (0.1/2.0) × 100 = 5%; since V ∝ r³, % uncertainty in V = 3 × 5% = **15%**. 7. Random: reaction time on a stopwatch — reduced by repeating and averaging. Systematic: a worn ruler reading every length short — reduced only by recalibration, not repetition.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/as-physics-quantities-units-revision-notes--03-systematic-error-graph.webp" width="900" height="980" alt="Three straight lines on one graph: the true line y = 2x, a zero-error line y = 2x + 1 with the same gradient but shifted intercept, and a scale-error line y = 2.4x through the origin with a larger gradient." loading="lazy">
+  <figcaption>A zero error shifts the intercept; a calibration error changes the gradient.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-oxfordaqa-physics-measurements-and-their-errors--04-precision-accuracy.webp" width="900" height="1160" alt="Four targets with six shots each: tight and centred (precise and accurate); tight but off-centre (systematic error); spread with mean on the bullseye (random error); spread and off-centre (both)." loading="lazy">
+  <figcaption>Systematic error shifts all readings; random error scatters them.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-physics-unit-3-planning-an-experiment-and-checking-another--01-zero-error-micrometer.webp" width="900" height="1010" alt="A micrometer with its jaws closed reads +0.02 mm instead of 0.00 mm. A wire reading of 1.5 mm on the sleeve plus 0.27 mm on the thimble is 1.77 mm. On a zoomed number line an arrow moves 1.77 back by 0.02 mm to the true diameter 1.75 mm. The error is systematic, so repeats do not remove it." loading="lazy">
+  <figcaption>A positive zero error is subtracted from every reading; repeating does not remove it.</figcaption>
+</figure>
+

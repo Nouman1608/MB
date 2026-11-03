@@ -124,6 +124,17 @@ A negative Benedict's result stays blue. The colour moves towards brick-red as t
 
 **Worked example 3.** A food extract gives these results: iodine stays orange-brown, Benedict's turns brick-red, biuret stays blue, ethanol test stays clear. Conclusion: it contains a reducing sugar and no detectable starch, protein or lipid.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-biological-molecules--03-colour-tests.webp" width="900" height="1030" alt="Test tubes before and after. Iodine: orange-brown if starch absent, blue-black if present, no heat. Benedict’s: blue if absent; green, yellow, orange then brick-red as more reducing sugar is present; heat at about 80 degrees Celsius. Biuret: blue if protein absent, purple if present, no heat." loading="lazy">
+  <figcaption>Compare the colour before and after to read each test.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-biological-molecules--04-emulsion-test.webp" width="900" height="1010" alt="Step 1: shake the food with ethanol so fat dissolves. Step 2: pour the ethanol into water. Fat present gives a cloudy white emulsion of tiny droplets; no fat leaves the mixture clear. Ethanol goes first, then water." loading="lazy">
+  <figcaption>Fat dissolves in ethanol but forms a cloudy emulsion in water.</figcaption>
+</figure>
+
+
 ### Continuous sampling
 
 In continuous sampling you take small samples from one reaction mixture at regular intervals and test each one. For starch digestion by amylase, put drops of iodine in the wells of a spotting tile. Every 30 seconds, move a drop of the reaction mixture into a new well. The mixture is blue-black while starch remains. The time at which the drop first stays orange-brown is the end point.

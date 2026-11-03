@@ -207,6 +207,17 @@ To go backwards, cut each ester link between C=O carbon and O, then add OH to th
 11. Oxidise some propan-1-ol to propanoic acid (excess acidified dichromate, reflux). Convert the acid to propanoyl chloride with PCl₅. React the acyl chloride with more propan-1-ol at room temperature.
 12. n = 2.59 ÷ 74.0 = 0.0350 mol, ratio 1 : 1; volume = 0.0350 ÷ 0.500 = 0.0700 dm³ = **70.0 cm³**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-carboxylic-acids-and-derivatives--06-fats-soap-biodiesel.webp" width="900" height="1210" alt="A fat molecule has a glycerol backbone joined by three ester links to three twelve-carbon acid chains. Heating 31.9 g (0.0500 mol) with sodium hydroxide gives three soap molecules per fat (33.3 g maximum) and glycerol; reacting with methanol and a catalyst gives three methyl ester biodiesel molecules (32.1 g maximum) and glycerol." loading="lazy">
+  <figcaption>One fat gives three soap or three biodiesel molecules, the 1:3 ratio. AQA and OxfordAQA.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-carboxylic-acids-and-derivatives--09-aspirin-anhydride.webp" width="900" height="1296" alt="Salicylic acid reacts with ethanoic anhydride to give aspirin and ethanoic acid; the ringed ring OH receives the CH3CO group. Two flasks compare the reagents: the anhydride is milder, easier to control and slow to react with moist air with ethanoic acid as by-product, while ethanoyl chloride is vigorous and gives HCl gas." loading="lazy">
+  <figcaption>Ethanoic anhydride is preferred industrially: safer by-product and easier to control. AQA and OxfordAQA.</figcaption>
+</figure>
+
+
 ## Where marks are usually lost
 
 - Numbering the C=O carbon in a name, or counting it as a side chain.

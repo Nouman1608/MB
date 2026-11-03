@@ -53,6 +53,12 @@ Reminder: carbon-12 is exactly 12.0000. Values used in these notes: H 1.0078, N 
 
 Isomers have the same accurate mass. Accurate mass gives the formula, never the structure on its own.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-nuclear-magnetic-resonance-spectroscopy--09-combine-butanone.webp" width="900" height="1080" alt="Four mini spectra for compound C: M+ 72, IR C=O 1715 with no O-H, four 13C peaks including 209, and a quartet, singlet and triplet in the 1H spectrum, leading to butanone." loading="lazy">
+  <figcaption>Mass, IR, 13C and 1H data together identify compound C as butanone.</figcaption>
+</figure>
+
+
 ## 15.18 and 15.19 Carbon-13 NMR
 
 - ¹³C NMR shows the positions of ¹³C atoms in a molecule: one peak for each carbon environment.
@@ -73,6 +79,11 @@ Isomers have the same accurate mass. Accurate mass gives the formula, never the 
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/aqa-a-level-chemistry-nuclear-magnetic-resonance-spectroscopy--01-nmr-c13-environments.webp" width="900" height="976" alt="Skeletal drawings of pentane, 2-methylbutane and 2,2-dimethylpropane with each carbon coloured by environment. Pentane gives 3 peaks, 2-methylbutane 4 and 2,2-dimethylpropane 2. Peak positions are schematic." loading="lazy">
   <figcaption>Symmetry-equivalent carbons give one 13C peak, so the three C5H12 isomers give 3, 4 and 2 peaks (all boards).</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-nuclear-magnetic-resonance-spectroscopy--05-nmr-ester-shift.webp" width="900" height="1000" alt="Ethyl ethanoate and methyl propanoate both give singlet 3H, quartet 2H, triplet 3H; shift of the group bonded to O decides." loading="lazy">
+  <figcaption>Both esters show a singlet, quartet and triplet, but only chemical shift shows which group is bonded to oxygen.</figcaption>
 </figure>
 
 

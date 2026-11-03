@@ -31,6 +31,12 @@ These notes condense section 4.2 Standard costing (A Level content) of the Cambr
 - **Adverse (A):** the variance lowers profit below the standard result.
 - **Standard hours for actual output:** actual units produced multiplied by the standard hours for one unit. It is not the same as hours actually worked.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-accounting-standard-costing--02-cam-sc-price-quantity-strips.webp" width="900" height="970" alt="Two boxes with price on the vertical axis and quantity on the horizontal axis, both axes cut. Material: the standard box is 8,600 kg at 6.00 dollars, 51,600 dollars. The price strip is 0.20 dollars times 8,900 kg actual, 1,780 adverse. The usage strip is 300 kg extra times 6.00, 1,800 adverse. Labour: the standard box is 2,150 hours at 16 dollars. The rate strip is 1 dollar times 2,050 actual hours, 2,050 adverse. The efficiency strip is 100 hours saved times 16 dollars, 1,600 favourable." loading="lazy">
+  <figcaption>Each price or quantity variance is a strip of a price times quantity box.</figcaption>
+</figure>
+
+
 ## Formula table
 
 | Variance | Formula |
@@ -51,6 +57,12 @@ Links to remember:
 - Expenditure + volume = total fixed overhead variance (overhead absorbed less actual overhead).
 - Material price + usage = total material cost variance. Labour rate + efficiency = total labour cost variance.
 - Budgeted profit, plus favourable and minus adverse variances, gives actual profit.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-accounting-standard-costing--04-sc-cost-card-selworth.webp" width="900" height="766" alt="A step chart for one Selworth Lamps desk lamp in dollars. Direct material 2 kg at 6.00 is 12.00. Direct labour 0.5 hours at 16.00 is 8.00. Fixed overhead 0.5 hours at 15.00 per labour hour is 7.50, where the rate is budgeted fixed overhead 30,000 divided by budgeted hours 2,000. Standard cost is 27.50. Standard selling price is 40.00, so standard profit is 12.50." loading="lazy">
+  <figcaption>The standard cost card builds 27.50 of cost and leaves 12.50 profit on a 40.00 price.</figcaption>
+</figure>
+
 
 ## Method in steps
 
@@ -181,12 +193,6 @@ Compute the answers from the information given, then check below.
 10. Standards must be reset often, which takes time and cost, and early variances may be misleading.
 11. 400 - 250 = 150 F.
 12. Standard quantity 120 x 3 = 360 kg. Usage = (360 - 380) x 5.00 = 100 A.
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/cambridge-a-level-accounting-standard-costing--04-sc-cost-card-selworth.webp" width="900" height="766" alt="A step chart for one Selworth Lamps desk lamp in dollars. Direct material 2 kg at 6.00 is 12.00. Direct labour 0.5 hours at 16.00 is 8.00. Fixed overhead 0.5 hours at 15.00 per labour hour is 7.50, where the rate is budgeted fixed overhead 30,000 divided by budgeted hours 2,000. Standard cost is 27.50. Standard selling price is 40.00, so standard profit is 12.50." loading="lazy">
-  <figcaption>The standard cost card builds 27.50 of cost and leaves 12.50 profit on a 40.00 price.</figcaption>
-</figure>
-
 
 ## Where marks are usually lost
 

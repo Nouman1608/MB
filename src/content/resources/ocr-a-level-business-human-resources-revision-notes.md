@@ -50,6 +50,11 @@ Businesses in examples are invented. Formulas not given in the specification are
 - Why objectives matter: they give direction, allow measurement and link people decisions to business objectives. Limits: the wrong target, or too many targets, distort behaviour.
 
 <figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-business-people--01-span-64-staff.webp" width="900" height="940" alt="Two trees with 64 staff at the bottom. Span 4 gives layers of 1, 4, 16 and 64 (21 managers); span 8 gives 1, 8 and 64 (9 managers). The flat structure has fewer layers and fewer managers." loading="lazy">
+  <figcaption>A span of 4 needs four layers and 21 managers; a span of 8 needs three layers and 9.</figcaption>
+</figure>
+
+<figure class="topic-figure">
   <img src="https://img.marlbridge.com/cambridge-a-level-business-organisational-structure-and-business-communication--10-line-and-staff.webp" width="900" height="970" alt="A line chain of director, operations manager and sales team with solid command arrows, and staff functions (HR, finance, IT, legal) linked by dashed advice lines. Staff want standard policy; line managers want freedom to hit targets." loading="lazy">
   <figcaption>Line managers command; staff specialists advise.</figcaption>
 </figure>
@@ -57,6 +62,11 @@ Businesses in examples are invented. Formulas not given in the specification are
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/cambridge-a-level-business-organisational-structure-and-business-communication--07-delegation-accountability.webp" width="900" height="960" alt="Boss, manager and subordinate. The manager passes a task and authority down; the subordinate answers to the manager; the manager still answers to the boss. Responsibility is the duty to do the task, authority the power to decide, and accountability cannot be handed over." loading="lazy">
   <figcaption>Authority can be delegated; accountability stays with the delegator.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-business-organisational-structure-and-business-communication--08-matrix-structure.webp" width="900" height="880" alt="A grid of functional departments (columns) and project managers (rows). A highlighted worker has arrows to both a functional manager and a project manager. Matrix structures share skills but two bosses can cause conflict and slower decisions." loading="lazy">
+  <figcaption>In a matrix structure staff report to a functional manager and a project manager.</figcaption>
 </figure>
 
 
@@ -104,6 +114,16 @@ For the business: cover for peaks, lower office cost, wider pool. Against: harde
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/ocr-a-level-business-human-resources--01-compressed-hours.webp" width="900" height="1050" alt="Two rows of day bars. A usual week is five days of 8 hours, 40 hours. Compressed hours work the same 40 hours in four days of 10 hours, with the fifth day off." loading="lazy">
   <figcaption>Compressed hours keep the 40 hours but fit them into four days.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-business-human-resource-management--04-job-spec.webp" width="900" height="990" alt="Job analysis leads to a job description (the job: tasks, duties, responsibilities) and a person specification (the person: skills, qualifications, qualities), which is used to shortlist; advertising, interviewing and selection follow." loading="lazy">
+  <figcaption>The job description describes the job; the person specification describes the ideal person.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-business-managing-people-and-entrepreneurs-and-leaders--05-recruitment-cost.webp" width="900" height="980" alt="Bars itemise external recruitment costs (advert, agency fee, interviews, induction) totalling £5,212 and internal costs (advert, interviews, training and cover) totalling £2,640. Internal is £2,572 cheaper." loading="lazy">
+  <figcaption>Internal recruitment costs £2,572 less than external recruitment in this example.</figcaption>
 </figure>
 
 
@@ -163,6 +183,11 @@ Interpret by comparing with earlier periods, targets and similar businesses, and
   <figcaption>A 3% bonus on a 24,000 pound salary is 720 pounds, making 24,720 pounds in total.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-business-recruitment-selection-and-training-of-employees-and-internal-and-external--04-dismissal-vs-redundancy.webp" width="900" height="730" alt="Two panels. Dismissal concerns the person: an employee ignores safety rules after warnings and leaves; the post is often refilled. Redundancy concerns the job: a machine does the work of five, the post is crossed out and usually removed, through no fault of the worker." loading="lazy">
+  <figcaption>Dismissal is about the employee; redundancy is about the job.</figcaption>
+</figure>
+
 
 ## Redundancy, dismissal, grievance, tribunals
 
@@ -190,6 +215,12 @@ Interpret by comparing with earlier periods, targets and similar businesses, and
 
 Styles: autocratic (leader decides), democratic (staff consulted), laissez-faire (staff largely free), paternalistic (leader decides, with care for staff). Match the style to urgency, skill and trust.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-business-motivation-and-management--04-mcgregor-xy.webp" width="900" height="870" alt="Theory X managers assume people dislike work and avoid responsibility, leading to close control and autocratic management. Theory Y managers assume people enjoy work and seek responsibility, leading to democratic or laissez-faire management. These are the manager beliefs, not facts about workers." loading="lazy">
+  <figcaption>A manager beliefs about workers (X or Y) shape the management style.</figcaption>
+</figure>
+
+
 ## Motivation
 
 | Theory | Core idea |
@@ -209,6 +240,21 @@ Styles: autocratic (leader decides), democratic (staff consulted), laissez-faire
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/ocr-a-level-business-human-resources--02-herzberg-two-scales.webp" width="900" height="860" alt="Two scales. Hygiene factors run from dissatisfied to not dissatisfied: they stop dissatisfaction. Motivators such as achievement and recognition run from not satisfied to satisfied: they raise satisfaction." loading="lazy">
   <figcaption>Hygiene factors prevent dissatisfaction; motivators raise satisfaction.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-business-motivation-and-management--05-mcclelland-needs.webp" width="900" height="870" alt="Three rows: achievement (challenges and feedback) suits stretching targets; affiliation (belonging) suits team projects; power (influencing others) suits a chance to lead." loading="lazy">
+  <figcaption>McClelland needs of achievement, affiliation and power each call for a different motivator.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-business-motivation-and-management--01-vroom-worked.webp" width="900" height="860" alt="Two rows multiply expectancy, instrumentality and valence. A team bonus gives 0.9 x 0.4 x 7 = 2.52; an individual bonus with instrumentality 0.9 gives 0.9 x 0.9 x 7 = 5.67, 2.25 times higher, with the reward unchanged. The scores are illustrative." loading="lazy">
+  <figcaption>Vroom: raising the link between performance and reward more than doubles motivational force (illustrative scores).</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-motivation-and-demotivation--05-job-redesign.webp" width="900" height="950" alt="Enlargement adds more tasks at the same level (wider). Enrichment adds planning and decision-making on top of doing (deeper) and targets Herzberg motivators. Rotation moves staff between tasks or departments." loading="lazy">
+  <figcaption>Enrichment adds depth; enlargement adds more of the same; rotation swaps tasks.</figcaption>
 </figure>
 
 
@@ -265,8 +311,13 @@ Finish with a short judgement that begins "On balance" and names the factor on w
 10. Any two of industrial democracy, participative decision making, works councils.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ocr-gcse-business-people--01-span-64-staff.webp" width="900" height="940" alt="Two trees with 64 staff at the bottom. Span 4 gives layers of 1, 4, 16 and 64 (21 managers); span 8 gives 1, 8 and 64 (9 managers). The flat structure has fewer layers and fewer managers." loading="lazy">
-  <figcaption>A span of 4 needs four layers and 21 managers; a span of 8 needs three layers and 9.</figcaption>
+  <img src="https://img.marlbridge.com/a-level-business-human-resource-management--03-delayering.webp" width="900" height="970" alt="Two charts of Pelican Freight. Before: CEO, 3 directors, 15 managers and 180 drivers, with the CEO span at 3. After removing directors the 15 managers report to the CEO, span 15, saving 270,000 pounds a year." loading="lazy">
+  <figcaption>Delayering saves cost but widens the span of control.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-introduction-to-human-resource-management-and-organizational-structure--05-structure-types.webp" width="900" height="920" alt="Four small organisation charts: by function (marketing, finance, HR), by product, by region, and a matrix where each employee reports to a function manager and a project manager." loading="lazy">
+  <figcaption>Staff can be grouped by function, product or region, or in a matrix with two reporting lines.</figcaption>
 </figure>
 
 

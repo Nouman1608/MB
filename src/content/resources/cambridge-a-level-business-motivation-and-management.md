@@ -69,42 +69,6 @@ The bonus is changed to an individual one. Instrumentality rises to 0.9:
 
 The reward is unchanged, but the driver now sees a clear link between performance and pay, so motivational force more than doubles (5.67 / 2.52 = 2.25 times). The problem lay in the link, not the size of the reward.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/cambridge-a-level-business-motivation-and-management--01-vroom-worked.webp" width="900" height="860" alt="Two rows multiply expectancy, instrumentality and valence. A team bonus gives 0.9 x 0.4 x 7 = 2.52; an individual bonus with instrumentality 0.9 gives 0.9 x 0.9 x 7 = 5.67, 2.25 times higher, with the reward unchanged. The scores are illustrative." loading="lazy">
-  <figcaption>Vroom: raising the link between performance and reward more than doubles motivational force (illustrative scores).</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/cambridge-a-level-business-motivation-and-management--02-time-vs-piece-unit-cost.webp" width="900" height="880" alt="A graph of labour cost per mug against weekly output. Piece rate is flat at 1.10 pounds. Time rate, 501.60 pounds a week divided by output, falls from 1.11 pounds at 450 mugs to 0.96 pounds at 520 mugs." loading="lazy">
-  <figcaption>Piece rate keeps labour cost per unit fixed; time rate lets it fall as output rises.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/cambridge-a-level-business-motivation-and-management--05-mcclelland-needs.webp" width="900" height="870" alt="Three rows: achievement (challenges and feedback) suits stretching targets; affiliation (belonging) suits team projects; power (influencing others) suits a chance to lead." loading="lazy">
-  <figcaption>McClelland needs of achievement, affiliation and power each call for a different motivator.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/cambridge-a-level-business-motivation-and-management--01-taylor-and-mayo.webp" width="900" height="970" alt="Two panels. Taylor: a stopwatch, a job split into three timed tasks and then coins, so workers are paid for output and money is the main motivator. Mayo: a group of four workers and a manager who listens, showing that output rose with attention and belonging even though conditions changed little." loading="lazy">
-  <figcaption>Taylor stressed timed tasks and pay for output; Mayo stressed attention and belonging.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/cambridge-a-level-business-motivation-and-management--02-profit-sharing-v-prp.webp" width="900" height="880" alt="Hollin Fell shares 15% of 84,000 pounds profit, a pool of 12,600 pounds, among 14 staff for 900 pounds each. One employee on 31,500 pounds also earns 6% PRP, 1,890 pounds, making 33,390 pounds. Profit sharing rewards the team; PRP rewards one person." loading="lazy">
-  <figcaption>Profit sharing rewards the whole team, PRP rewards one person.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-business-people-in-business--01-maslow-hierarchy.webp" width="900" height="762" alt="Five-level stepped pyramid of needs, bottom to top: physiological (pay for food and rent), safety (secure job, safe workplace), social (friends, teamwork), esteem (praise, promotion), self-actualisation (challenging work). An arrow shows needs are met from the bottom up." loading="lazy">
-  <figcaption>Maslow's hierarchy ranks human needs, and each level can be linked to what work offers.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-business-people-in-business--02-taylor-and-herzberg.webp" width="900" height="890" alt="Taylor: more output by a worker earns more pay, so pay is the main motivator. Herzberg: on a scale from dissatisfied to satisfied, hygiene factors (pay, conditions, job security) only lift people to neutral, while motivators (achievement, recognition, interesting work) create satisfaction." loading="lazy">
-  <figcaption>Taylor saw pay as the motivator; Herzberg separated hygiene factors from true motivators.</figcaption>
-</figure>
-
-
 ## 2.2.4 Theories in practice: financial motivators
 
 | Method | How it works | Fits best | Main drawback |
@@ -143,6 +107,52 @@ Commission share: 460 / 2,360 = 19.5%
 ```
 
 **Worked example: profit sharing and PRP.** Hollin Fell Outdoor Gear shares 15% of profit equally among 14 staff. With profit of £84,000 the pool is £12,600, so each gets £900. One employee also earns PRP of 6% on a £31,500 salary: £1,890 extra, making £33,390. Notice the contrast: profit sharing rewards the whole team, PRP rewards one person.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-business-motivation-and-management--01-vroom-worked.webp" width="900" height="860" alt="Two rows multiply expectancy, instrumentality and valence. A team bonus gives 0.9 x 0.4 x 7 = 2.52; an individual bonus with instrumentality 0.9 gives 0.9 x 0.9 x 7 = 5.67, 2.25 times higher, with the reward unchanged. The scores are illustrative." loading="lazy">
+  <figcaption>Vroom: raising the link between performance and reward more than doubles motivational force (illustrative scores).</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-business-motivation-and-management--02-time-vs-piece-unit-cost.webp" width="900" height="880" alt="A graph of labour cost per mug against weekly output. Piece rate is flat at 1.10 pounds. Time rate, 501.60 pounds a week divided by output, falls from 1.11 pounds at 450 mugs to 0.96 pounds at 520 mugs." loading="lazy">
+  <figcaption>Piece rate keeps labour cost per unit fixed; time rate lets it fall as output rises.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-business-motivation-and-management--05-mcclelland-needs.webp" width="900" height="870" alt="Three rows: achievement (challenges and feedback) suits stretching targets; affiliation (belonging) suits team projects; power (influencing others) suits a chance to lead." loading="lazy">
+  <figcaption>McClelland needs of achievement, affiliation and power each call for a different motivator.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-business-motivation-and-management--01-taylor-and-mayo.webp" width="900" height="970" alt="Two panels. Taylor: a stopwatch, a job split into three timed tasks and then coins, so workers are paid for output and money is the main motivator. Mayo: a group of four workers and a manager who listens, showing that output rose with attention and belonging even though conditions changed little." loading="lazy">
+  <figcaption>Taylor stressed timed tasks and pay for output; Mayo stressed attention and belonging.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-business-motivation-and-management--02-profit-sharing-v-prp.webp" width="900" height="880" alt="Hollin Fell shares 15% of 84,000 pounds profit, a pool of 12,600 pounds, among 14 staff for 900 pounds each. One employee on 31,500 pounds also earns 6% PRP, 1,890 pounds, making 33,390 pounds. Profit sharing rewards the team; PRP rewards one person." loading="lazy">
+  <figcaption>Profit sharing rewards the whole team, PRP rewards one person.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-people-in-business--01-maslow-hierarchy.webp" width="900" height="762" alt="Five-level stepped pyramid of needs, bottom to top: physiological (pay for food and rent), safety (secure job, safe workplace), social (friends, teamwork), esteem (praise, promotion), self-actualisation (challenging work). An arrow shows needs are met from the bottom up." loading="lazy">
+  <figcaption>Maslow's hierarchy ranks human needs, and each level can be linked to what work offers.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-people-in-business--02-taylor-and-herzberg.webp" width="900" height="890" alt="Taylor: more output by a worker earns more pay, so pay is the main motivator. Herzberg: on a scale from dissatisfied to satisfied, hygiene factors (pay, conditions, job security) only lift people to neutral, while motivators (achievement, recognition, interesting work) create satisfaction." loading="lazy">
+  <figcaption>Taylor saw pay as the motivator; Herzberg separated hygiene factors from true motivators.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-business-human-resource-management--06-vroom.webp" width="900" height="910" alt="Effort leads to performance, which leads to a reward. Motivation is high only if the person expects effort to produce performance and performance to produce a reward they value." loading="lazy">
+  <figcaption>Vroom: motivation depends on expecting effort to lead to a valued reward.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-business-human-resource-management--05-pay-methods.webp" width="900" height="1030" alt="Piece rate: 550 items at 0.80 pounds earns 440 pounds. Commission: 300 pound basic plus 4 percent of 12,500 pounds sales gives 300 plus 500, 800 pounds." loading="lazy">
+  <figcaption>Piece rate pays for output; commission adds a share of sales to a basic wage.</figcaption>
+</figure>
+
 
 ## 2.2.4 Non-financial motivators and participation
 
@@ -223,6 +233,16 @@ Be careful about cause. The rise may owe something to new equipment or seasonal 
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/cambridge-a-level-business-motivation-and-management--05-sablecombe-productivity.webp" width="900" height="790" alt="Two bars show crates per worker on an 18-person packing line: 70 before and 84 after the new supervisor, a rise of 14 or 20 percent. A question mark warns that new equipment or season may explain part of the rise." loading="lazy">
   <figcaption>Output per worker rose 20%, but check the case before crediting the manager.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-people-in-business--05-leadership-styles.webp" width="900" height="1150" alt="Autocratic: arrows run only from leader to staff. Democratic: arrows run both ways between leader and staff. Laissez-faire: the leader is only faintly linked, and staff link with each other to decide." loading="lazy">
+  <figcaption>The three styles differ in who makes the decision.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-business-managers-leadership-decision-making--01-leadership-continuum.webp" width="900" height="870" alt="Four columns from autocratic to laissez-faire, each split into the share of the decision kept by the boss and given to the team: 90/10, 65/35, 35/65 and 10/90 (illustrative). Control passes from the boss to the team along the continuum." loading="lazy">
+  <figcaption>The four styles sit on one scale from boss-controlled to team-controlled.</figcaption>
 </figure>
 
 

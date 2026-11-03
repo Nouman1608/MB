@@ -95,6 +95,17 @@ Label both axes with quantity and unit. For a negative charge, V is negative and
 4. These create a field opposing the applied field, so the net field falls.
 5. For the same Q the pd falls, so C = Q/V rises.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-capacitance--03-series-parallel-capacitors.webp" width="900" height="1100" alt="The same two capacitors, 10 and 15 microfarad, are connected across 15 V. In series each holds 90 microcoulombs and the p.d.s (9.0 V and 6.0 V) add, giving 6.0 microfarad. In parallel each has 15 V and the charges (150 and 225 microcoulombs) add, giving 25 microfarad." loading="lazy">
+  <figcaption>Series: same charge, p.d.s add, smaller C. Parallel: same p.d., charges add, larger C.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-capacitance--04-dielectric-polar-molecules.webp" width="900" height="1090" alt="Polar molecules between capacitor plates point randomly with no field. When the plates are charged they line up, leaving layers of negative ends facing the positive plate and positive ends facing the negative plate. These layers reduce the net field, so the p.d. is smaller for the same charge and C = Q/V rises. For the lesson example, 916 pF with the dielectric against 398 pF in air." loading="lazy">
+  <figcaption>Aligned polar molecules reduce the field, so the same charge gives a smaller p.d. and a larger capacitance.</figcaption>
+</figure>
+
+
 ## Small worked reminders
 
 **Potential and energy.** At 0.50 m from a point charge of +1.0 μC: V = 8.99 × 10⁹ × 1.0 × 10⁻⁶ / 0.50 = 1.8 × 10⁴ V. Moving +2.0 nC through 150 V needs ΔW = 2.0 × 10⁻⁹ × 150 = 3.0 × 10⁻⁷ J.
@@ -146,12 +157,6 @@ Label both axes with quantity and unit. For a negative charge, V is negative and
 - Describing dielectric action as "the dielectric stores charge" rather than explaining alignment and the opposing field.
 - Giving the energy of a capacitor as QV instead of ½QV.
 - Leaving a graph unlabelled or drawing E against r as a straight line.
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-physics-capacitance--04-dielectric-polar-molecules.webp" width="900" height="1090" alt="Polar molecules between capacitor plates point randomly with no field. When the plates are charged they line up, leaving layers of negative ends facing the positive plate and positive ends facing the negative plate. These layers reduce the net field, so the p.d. is smaller for the same charge and C = Q/V rises. For the lesson example, 916 pF with the dielectric against 398 pF in air." loading="lazy">
-  <figcaption>Aligned polar molecules reduce the field, so the same charge gives a smaller p.d. and a larger capacitance.</figcaption>
-</figure>
-
 
 ## Worked reminders: graphs and energy
 

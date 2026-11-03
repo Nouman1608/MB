@@ -36,6 +36,12 @@ Use the [OCR GCSE Mathematics hub](/boards/ocr/gcse/mathematics/) and the [print
 | Identity | True for all values. Written ≡ |
 | Factor | Divides exactly into something. 4 and x are factors of 12xy |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-mathematics-algebraic-language-proof-simplifying-and-expanding--08-identity-or-equation.webp" width="900" height="1030" alt="Two graphs. In the top graph the lines y = 3(x + 2) and y = 3x + 6 lie exactly on top of each other, so the identity is true for every x. In the bottom graph the line y = 5x minus 1 meets the horizontal line y = 14 at one point, x = 3, so the equation is true only when x = 3." loading="lazy">
+  <figcaption>An identity is true for every x; an equation is true only at the point where the two sides meet.</figcaption>
+</figure>
+
+
 ## Equivalence and arguments (6.01a, both tiers)
 
 Method to show two expressions are equivalent:
@@ -284,6 +290,12 @@ Add:  6x² − 2x + x² + 2x − 8 = 7x² − 8
 10. Let the numbers be 2n + 1 and 2n + 3. The sum is 4n + 4 = 4(n + 1), which is 4 times an integer.
 11. (x² + 4x + 4) − (x² − 4x + 4) = 8x.
 12. x = 2 gives 16 on the left and 8 on the right. Any value other than 0 works.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-mathematics-algebraic-language-proof-simplifying-and-expanding--01-perimeter-6x-plus-8.webp" width="900" height="760" alt="A rectangle with sides 2x + 5 and x − 1 drawn for x = 4, with the four sides added to give 6x + 8. The check 13 + 3 + 13 + 3 = 32 matches 6(4) + 8." loading="lazy">
+  <figcaption>Adding the four sides of the rectangle gives 6x + 8.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

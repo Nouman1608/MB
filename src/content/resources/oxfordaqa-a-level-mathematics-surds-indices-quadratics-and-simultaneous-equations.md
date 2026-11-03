@@ -173,6 +173,12 @@ Roots: x = 4/7 and x = −2
 
 Always check by expanding. A quadratic must equal zero before you factorise to solve it.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-rational-indices-and-surds--02-same-base-indices.webp" width="900" height="920" alt="Two straight lines show the indices of 3 on each side of 9^(x+1) = 27^(2x-1): 2x+2 and 6x-3. They cross at x = 5/4 where both equal 4.5, which is the solution." loading="lazy">
+  <figcaption>When both sides are powers of the same base, equate the indices.</figcaption>
+</figure>
+
+
 ## 4. Completing the square, vertex and line of symmetry
 
 When a = 1, halve the coefficient of x: x² + bx + c = (x + b/2)² − b²/4 + c. When a ≠ 1, take a out of the x² and x terms first.

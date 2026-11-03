@@ -84,6 +84,11 @@ The details below are the usual textbook forms, not wording taken from the sylla
 </figure>
 
 <figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-business-business-and-its-environment--03-pestle-opportunity-threat.webp" width="900" height="1010" alt="The six PESTLE factors, then one social change (an ageing population) shown as an opportunity for Ivybrook Care and a threat for Rushbank Couriers." loading="lazy">
+  <figcaption>One external change can be an opportunity for one firm and a threat for another.</figcaption>
+</figure>
+
+<figure class="topic-figure">
   <img src="https://img.marlbridge.com/a-level-business-business-and-its-environment--04-five-forces.webp" width="900" height="900" alt="Rivalry sits in the centre with arrows from entry threat, substitutes, suppliers and buyers. Strong forces mean low margins; weak forces give firms pricing power." loading="lazy">
   <figcaption>Five forces are pressures on industry profit that you then apply to the business.</figcaption>
 </figure>
@@ -135,6 +140,12 @@ On numbers alone the purchase breaks even in expectation, so the decision turns 
 
 Ilmswick Joinery already sells oak doors to local builders. Selling the same doors to builders in a neighbouring region is market development. Adding a range of staircases for the same local builders is product development. Running a hotel is diversification. Offering a loyalty discount to current builders is market penetration. In each answer, name the strategy, then say what makes it more or less risky than the others.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-business-managers-leadership-decision-making--06-ansoff-matrix.webp" width="900" height="880" alt="Two by two grid of existing and new products against existing and new markets: market penetration (lowest risk), product development and market development (higher risk), diversification (highest risk)." loading="lazy">
+  <figcaption>Ansoff’s matrix ranks growth options by risk; moving into new products and new markets together is riskiest.</figcaption>
+</figure>
+
+
 ## Scenario planning and blue ocean in brief
 
 Scenario planning: build two to four plausible futures, test the strategy in each, and set trigger points for changing course. Blue ocean strategy: look for a space with no direct rivals by removing what customers do not value and adding what they do. Both need a judgement about how likely, and how costly, the outcome is.
@@ -172,6 +183,12 @@ Vision, inspiration, intellectual challenge, attention to individuals, role-mode
 - Management: clear reasons, involvement, training, change leaders, milestones.
 - Control: compare progress with objectives, budgets and deadlines; adjust the plan.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-business-types-of-strategies--09-force-field.webp" width="900" height="1070" alt="Arrows scaled to scores for driving and restraining forces before and after action: drivers 12 against restrainers 10 (lead 2), then restrainers fall to 7 (lead 5) after a retraining pledge and course." loading="lazy">
+  <figcaption>Weakening restraining forces widens the lead of driving forces.</figcaption>
+</figure>
+
+
 ### Contingency planning versus crisis management
 
 | | Contingency planning | Crisis management |
@@ -194,12 +211,6 @@ Vision, inspiration, intellectual challenge, attention to individuals, role-mode
 - Market development (same product, new market) versus product development (new product, same market).
 - Expected value versus net gain: only net gain subtracts the cost.
 - Corporate planning (long-term objectives) versus contingency planning (specific events).
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/aqa-a-level-business-managers-leadership-decision-making--04-swot-inside-outside.webp" width="900" height="1000" alt="A grid of strengths and weaknesses (inside) over opportunities and threats (outside). Strength: ROCE 15 percent vs industry 11 percent. Weakness: acid test 0.83 vs 1.0. Opportunity: market up 8 percent from 50 to 54. Threat: rival cuts price 10 percent." loading="lazy">
-  <figcaption>Internal factors are strengths or weaknesses only when compared with a benchmark; a rival price cut is an external threat.</figcaption>
-</figure>
-
 
 ## Quick self-test
 
@@ -228,6 +239,17 @@ Vision, inspiration, intellectual challenge, attention to individuals, role-mode
 9. A contingency plan is prepared before a specific possible event, whereas crisis management is the handling of a crisis as it unfolds.
 10. Any two: fear of job loss, extra work, loss of status or skills, fear of the unknown, poor communication.
 11. No. B has the higher expected net gain, but the probabilities are estimates, B might carry a bigger downside, and non-financial factors are ignored.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-business-managers-leadership-decision-making--04-swot-inside-outside.webp" width="900" height="1000" alt="A grid of strengths and weaknesses (inside) over opportunities and threats (outside). Strength: ROCE 15 percent vs industry 11 percent. Weakness: acid test 0.83 vs 1.0. Opportunity: market up 8 percent from 50 to 54. Threat: rival cuts price 10 percent." loading="lazy">
+  <figcaption>Internal factors are strengths or weaknesses only when compared with a benchmark; a rival price cut is an external threat.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-business-managers-leadership-decision-making--02-mission-to-tactics.webp" width="900" height="1060" alt="Four narrowing cards from mission to objective to strategy to tactic with a fresh-food shop example: affordable fresh food; 10 percent more sales in 2 years; open shops in a new region; launch week two-for-one offer." loading="lazy">
+  <figcaption>Mission states purpose, objectives set targets, strategy is the long-term plan and tactics are short-term actions.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

@@ -132,6 +132,16 @@ YED = %change in Qd / %change in income   XED = %change in Qd of A / %change in 
   <figcaption>Asymmetric information drives low-risk customers out and shrinks the market.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-imperfect-information-moral-hazard-and-market-bubbles--07-moral-hazard-insurance-claims.webp" width="900" height="870" alt="Bars of expected claim cost per policy: 200 priced in, 300 with full cover (a loss of 100 per policy), 180 with a 1,000 excess. Across 10,000 policies the loss is 1,000,000 a year." loading="lazy">
+  <figcaption>Full cover changes behaviour and raises claims; an excess restores incentives.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-imperfect-information-moral-hazard-and-market-bubbles--09-bubble-feedback-loops.webp" width="900" height="920" alt="Two clockwise loops. Boom: good news or cheap credit, price rises and early buyers gain, the herd copies and expectations rise, more credit funds more buying. Burst: a few sell and price dips, loss-making buyers must sell, expectations reverse, credit dries up and price falls." loading="lazy">
+  <figcaption>Positive feedback inflates a bubble, and the same feedback works downward when confidence breaks.</figcaption>
+</figure>
+
 
 ## Government intervention
 
@@ -147,6 +157,37 @@ YED = %change in Qd / %change in income   XED = %change in Qd of A / %change in 
 **Government failure** — intervention producing a worse outcome than the market: information gaps, administrative costs, unintended consequences (black markets, smuggling), and regulatory capture. **A strong evaluation of intervention usually raises it.**
 
 **The tax paradox is worth stating explicitly:** a tax on a demerit good with inelastic demand raises large, stable revenue *and* barely reduces consumption. Those are not contradictory findings — they are the same fact viewed from two ends, and combining the tax with education (which shifts demand left and makes it more elastic over time) is the standard evaluated recommendation.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-economics-government-microeconomic-intervention--04-corrective-tax.webp" width="900" height="900" alt="Demand (MPB) and supply (MPC) cross at price 5 and quantity 50. Marginal social cost (MSC) lies 2 above MPC and crosses demand at price 6.2, quantity 40. The triangle between 40 and 50 is the welfare loss, area 10. A tax of 2 shifts supply up onto MSC and moves output to 40." loading="lazy">
+  <figcaption>A tax equal to the external cost moves output from the market level to the socially optimal level.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-government-intervention-and-government-failure-in--02-rent-cap-shortage.webp" width="900" height="1000" alt="Flats market with demand Qd = 1,000 - 2R and supply Qs = 3R - 500. A cap at 250 gives 250 flats supplied against 500 demanded, a shortage of 250; tenants would pay 375 at 250 flats, a gap of 125. The welfare loss is 9,375 cu a month." loading="lazy">
+  <figcaption>A cap below equilibrium rent leaves 250 flats short and a 9,375 cu monthly welfare loss.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-government-intervention-and-government-failure-in--03-minimum-price-surplus.webp" width="900" height="970" alt="Wheat market with Qd = 600 - 10P and Qs = 20P - 300. A minimum price of 36 gives demand 240 and supply 420, a surplus of 180 tonnes. Buying the surplus costs 180 x 36 = 6,480; farmers receive 15,120 against 9,000 before." loading="lazy">
+  <figcaption>A price floor of 36 creates a surplus of 180 tonnes that costs 6,480 to buy.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-government-intervention-and-government-failure-in--04-tradeable-permits-saving.webp" width="900" height="1040" alt="Two stacked bars of abatement cost under a 150-tonne cap. Without trading J spends 500 and K 1,250, total 1,750. With trading J cuts 50 tonnes for 1,000 and K cuts none, total 1,000, a saving of 750." loading="lazy">
+  <figcaption>Permits let the firm with cheaper abatement do the cutting, saving 750 for the same cap.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-government-intervention-and-government-failure-in--05-government-failure-tax-too-high.webp" width="900" height="1040" alt="Fizzy drink market where the social optimum is 25 thousand litres. With no tax the welfare loss is 11.25. A tax set at 3.5 instead of 1.5 cuts output to 5, giving a loss of 20, so the net welfare loss from intervening is 8.75." loading="lazy">
+  <figcaption>A mis-set tax can leave society worse off than doing nothing, which is government failure.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-economics-government-microeconomic-intervention--05-tool-matching.webp" width="900" height="900" alt="A matching diagram joining four problems to six tools. Public good not provided: direct provision. Merit good under-consumed: direct provision, subsidy, information. Demerit good over-consumed: information, indirect tax, minimum price. Price too high or too low: maximum or minimum price, buffer stock." loading="lazy">
+  <figcaption>Match the tool to the problem: the mechanism, not just the name, earns marks.</figcaption>
+</figure>
+
 
 ## Reasons consumers may not maximise utility
 
@@ -181,3 +222,9 @@ Traditional theory assumes **rational** utility-maximising agents with full info
 5. Name three reasons, other than imperfect information, why a consumer may not maximise utility.
 
 **Answers:** 1. The more inelastic side of the market; if demand is inelastic relative to supply, consumers bear most of it. 2. Non-excludable and non-rival. 3. Adverse selection occurs before the transaction — the worse risks are the ones who select in; moral hazard occurs after — behaviour becomes riskier once covered. 4. Demand is inelastic, so quantity barely falls while the tax is collected on nearly the same volume; the two results are the same fact seen from opposite ends. 5. Any three of: herding (the influence of other people's behaviour), habitual behaviour, inertia, poor computational skills, the need to feel valued, and framing and bias.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-rational-choice-demand-and-the-elasticities-of-demand--06-six-reasons-not-maximising-utility.webp" width="900" height="1140" alt="Six small pictures, one for each reason: herding, habit, inertia, poor computation, need to feel valued and framing, with the lesson numbers where it gives them." loading="lazy">
+  <figcaption>Six ways real consumers depart from utility maximisation.</figcaption>
+</figure>
+

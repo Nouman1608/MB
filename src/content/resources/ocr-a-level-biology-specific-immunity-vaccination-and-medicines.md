@@ -72,6 +72,11 @@ T cells provide the **cell-mediated** response, because the cells themselves act
   <figcaption>A phagocyte engulfs a pathogen, digests it with lysosome enzymes and displays its antigens.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-immunity--07-hiv-replication.webp" width="900" height="1310" alt="Six steps in a helper T cell: glycoproteins bind CD4; capsid contents enter; reverse transcriptase makes DNA from RNA; integrase inserts the DNA into a host chromosome; host ribosomes make proteins which protease cuts; new particles bud off with an envelope. The enzymes of steps 3, 4 and 5 are drug targets." loading="lazy">
+  <figcaption>HIV uses the host cell to make new virus particles, destroying helper T cells.</figcaption>
+</figure>
+
 
 ## Primary and secondary responses (4.1.1(g))
 

@@ -150,6 +150,12 @@ Method in steps for a "predict and explain" answer:
 
 Small reminder: Q is built from the same expression as K. If K = 5.0 and a mixture gives Q = 0.80, the mixture has too few products, so the forward reaction runs until Q rises to 5.0. Q can only be compared with K measured at the same temperature.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-how-far-the-extent-of-chemical-change--07-q-vs-k.webp" width="900" height="990" alt="On a log scale with K = 20.0 marked, Q below K means net forward and Q above K means net backward. The worked mixture has Q = 22.5, just above K, so NOBr breaks down." loading="lazy">
+  <figcaption>If Q is greater than K the net reaction is backward until Q equals K.</figcaption>
+</figure>
+
+
 ## Reactivity 2.3.6 Equilibrium calculations (HL only)
 
 Method in steps (ICE table):

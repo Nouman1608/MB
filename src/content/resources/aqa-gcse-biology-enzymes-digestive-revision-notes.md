@@ -124,6 +124,16 @@ Made in the **liver**, stored in the **gall bladder**. Two roles:
   <figcaption>Compare the colour before and after to read each test.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/gcse-aqa-biology-enzymes-and-the-digestive-system--01-rp5-ph-series.webp" width="900" height="1080" alt="Four test tubes stand in one water bath at a constant temperature. Each holds starch, amylase and a buffer of a different pH (example values 4, 6, 7, 9), so pH is the only thing changed. Every 30 seconds a drop from each tube goes onto iodine; blue-black means starch is left and the first orange-brown spot is the end point. Times to the end point are compared across pH." loading="lazy">
+  <figcaption>Required practical 5 changes only the pH, using buffers, while the water bath keeps the temperature constant.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-enzymes--07-starch-iodine-end-point.webp" width="900" height="990" alt="Starch and amylase tubes stand in a water bath at a set temperature. After mixing, one drop every 30 seconds goes on iodine in a spotting tile. Wells at 30 to 120 seconds are blue-black; the well at 150 seconds is the first orange-brown, the end point. Rate = 1000 ÷ 150 = 6.7." loading="lazy">
+  <figcaption>The end point is the first well where iodine stays orange-brown.</figcaption>
+</figure>
+
 
 ## Worked example: explaining enzyme specificity
 

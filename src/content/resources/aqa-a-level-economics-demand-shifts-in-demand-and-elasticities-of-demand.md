@@ -214,6 +214,11 @@ The sign is the key: positive means normal, negative means inferior.
   <figcaption>YED is the slope of demand against income: above 1 elastic, 0 to 1 inelastic, below 0 inferior.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-economics-price-system-and-the-microeconomy--02-yed-and-xed-signs.webp" width="900" height="960" alt="Two number lines from minus 1 to plus 2. For income elasticity, negative values mean an inferior good and positive values a normal good; examples are YED minus 0.5 (income up 10 percent, demand down 5 percent) and plus 1.5. For cross elasticity, negative means complements and positive means substitutes; examples are XED minus 0.5 and plus 1.5 when the price of B rises 20 percent." loading="lazy">
+  <figcaption>The sign of YED shows inferior or normal; the sign of XED shows complements or substitutes.</figcaption>
+</figure>
+
 
 ## 6. Cross elasticity of demand (XED)
 

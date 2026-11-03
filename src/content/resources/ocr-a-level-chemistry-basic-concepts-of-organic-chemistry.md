@@ -156,12 +156,6 @@ H – C – C – C – C
 
 In a displayed formula every bond must appear, including O–H. Writing "C–OH" is not displayed.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-organic-chemistry-naming-mechanisms-and-aromatic-shape--09-new-functional-groups.webp" width="900" height="1260" alt="Skeletal formulae of benzene, chlorobenzene, phenol, propanoyl chloride, propanamide, dimethylamine and 2-aminoethanoic acid with each new group highlighted." loading="lazy">
-  <figcaption>The functional groups first met at A Level (Cambridge).</figcaption>
-</figure>
-
-
 ## 4.1.1(c) and (d): Series, groups and classification
 
 **Homologous series**: a series of organic compounds with the same functional group, where each member differs from the next by CH₂. This is the only definition in 4.1.1 that the specification says you must give.
@@ -207,6 +201,17 @@ n = 5
 The alcohol is **C₅H₁₁OH**.
 
 **(iii) The alkane with 15 carbons** has 2(15) + 2 = 32 hydrogens: **C₁₅H₃₂**.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-organic-chemistry-naming-mechanisms-and-aromatic-shape--08-benzene-shape.webp" width="900" height="1180" alt="Top view: flat hexagon with 120 degree angles and three sigma bonds per carbon. Side view: p orbitals above and below the ring overlap into one delocalised pi system of six electrons." loading="lazy">
+  <figcaption>Benzene is a flat ring with a delocalised pi system, not three double bonds (Cambridge).</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-organic-chemistry-naming-mechanisms-and-aromatic-shape--09-new-functional-groups.webp" width="900" height="1260" alt="Skeletal formulae of benzene, chlorobenzene, phenol, propanoyl chloride, propanamide, dimethylamine and 2-aminoethanoic acid with each new group highlighted." loading="lazy">
+  <figcaption>The functional groups first met at A Level (Cambridge).</figcaption>
+</figure>
+
 
 ## 4.1.1(e): Structural isomers
 

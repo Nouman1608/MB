@@ -186,6 +186,12 @@ C₆H₆ + C₅H₉Cl → C₆H₅–C₅H₉ + HCl. Product: **cyclopentylbenze
 4. Theoretical mass = 0.0700 × 176.0 = 12.32 g
 5. Percentage yield = 8.87 ÷ 12.32 × 100 = **72.0%**
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-organic-synthesis--02-new-cc-bonds.webp" width="900" height="1040" alt="Three reactions that make a new C-C bond: bromoethane with KCN (2 C to 3 C), propanone with HCN (3 C to 4 C) and benzene with an acyl chloride and AlCl3 (6 C to 8 C). New carbons are circled in gold." loading="lazy">
+  <figcaption>Only a few reactions change the carbon count: KCN with a haloalkane, HCN or KCN with a carbonyl, and Friedel-Crafts acylation.</figcaption>
+</figure>
+
+
 ## Putting it together: a route that adds a carbon
 
 ### Worked example 5: planning and overall yield
@@ -200,6 +206,11 @@ Plan a route from pentan-2-ol to 2-hydroxy-2-methylpentanoic acid, CH₃CH₂CH�
 6. Overall yield = 0.85 × 0.70 × 0.62 × 100 = **36.9%**
 
 To make 5.00 g of the acid (Mᵣ 132.0): 5.00 ÷ 132.0 = 0.03788 mol, so 0.03788 ÷ 0.3689 = 0.1027 mol of pentan-2-ol (Mᵣ 88.0), which is **9.04 g**.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-organic-synthesis--03-cyanide-mechanisms.webp" width="900" height="1195" alt="Curly-arrow mechanisms: the cyanide lone pair attacks the delta-positive carbon of bromoethane and the C-Br bond breaks to give Br-; then the same lone pair attacks the carbonyl carbon of propanone, the C=O pi bond moves onto O, and O- takes H+ to give a hydroxynitrile." loading="lazy">
+  <figcaption>The cyanide arrow starts on the lone pair on carbon; the mechanisms are required by OCR (tagged in the figure).</figcaption>
+</figure>
 
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/aqa-a-level-chemistry-organic-synthesis--04-grignard-reagent.webp" width="900" height="1120" alt="Ethylmagnesium bromide, made in dry ether, adds its ethyl group to carbon dioxide, methanal, ethanal and propanone. After dilute acid the products are propanoic acid, propan-1-ol, butan-2-ol and 2-methylbutan-2-ol: an acid and a primary, secondary and tertiary alcohol." loading="lazy">
@@ -228,17 +239,6 @@ To make 5.00 g of the acid (Mᵣ 132.0): 5.00 ÷ 132.0 = 0.03788 mol, so 0.03788
 - Test yourself: [Carbon–carbon bond formation practice questions](/resources/ocr-a-level-chemistry-carbon-carbon-bond-formation-practice/)
 - Related: [OCR carbonyl compounds study guide](/resources/ocr-a-level-chemistry-carbonyl-compounds/)
 - Check the whole course: [all free 10-minute diagnostics](/diagnostics/)
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-organic-synthesis--02-new-cc-bonds.webp" width="900" height="1040" alt="Three reactions that make a new C-C bond: bromoethane with KCN (2 C to 3 C), propanone with HCN (3 C to 4 C) and benzene with an acyl chloride and AlCl3 (6 C to 8 C). New carbons are circled in gold." loading="lazy">
-  <figcaption>Only a few reactions change the carbon count: KCN with a haloalkane, HCN or KCN with a carbonyl, and Friedel-Crafts acylation.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-organic-synthesis--03-cyanide-mechanisms.webp" width="900" height="1195" alt="Curly-arrow mechanisms: the cyanide lone pair attacks the delta-positive carbon of bromoethane and the C-Br bond breaks to give Br-; then the same lone pair attacks the carbonyl carbon of propanone, the C=O pi bond moves onto O, and O- takes H+ to give a hydroxynitrile." loading="lazy">
-  <figcaption>The cyanide arrow starts on the lone pair on carbon; the mechanisms are required by OCR (tagged in the figure).</figcaption>
-</figure>
-
 
 ## Official syllabus
 

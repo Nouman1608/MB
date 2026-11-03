@@ -251,6 +251,16 @@ The points show strong negative correlation. A sensible line passes through (1, 
   <figcaption>Shoe size and reading score rise together only because both rise with age.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-statistics--04-correlation-types.webp" width="900" height="1010" alt="Three scatter diagrams: positive correlation (y rises with x), negative correlation (y falls as x rises) and zero correlation (no pattern, so no line of best fit)." loading="lazy">
+  <figcaption>Judge the correlation by eye before drawing any line.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-mathematics-scatter-diagrams-correlation-and-cumulative-frequency--03-using-the-line.webp" width="900" height="870" alt="The line of best fit gives about 10.3 thousand dollars at age 6.5. A triangle shows a drop of 2.85 over 2 years, gradient -1.425, so the value falls about 1 400 dollars a year. Beyond age 9 the line is dotted in a shaded region marked outside the data; age 12 gives about 2.4, which is unreliable." loading="lazy">
+  <figcaption>Readings inside the data are reliable; extending the line beyond age 9 is not.</figcaption>
+</figure>
+
 
 ## 12.03d Outliers and errors in data
 

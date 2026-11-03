@@ -171,12 +171,6 @@ Redundancy is about the job. Dismissal is about the person. Impact of redundancy
 - **Collective bargaining:** negotiation between employer and union representatives for all members, on pay, hours and conditions.
 - For employees: more bargaining power, protection. For employers: one negotiation and a clear channel, but higher costs, slower decisions and the risk of industrial action.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/cambridge-a-level-business-human-resource-management-hrm--10-pay-talks.webp" width="900" height="950" alt="Bars show the union asking 6% ($72,000), management offering 3% ($36,000) and a settlement at 4.5% ($54,000) of a $1,200,000 payroll." loading="lazy">
-  <figcaption>Collective bargaining settles pay in one negotiation for all union members.</figcaption>
-</figure>
-
-
 ## Quick self-test
 
 1. A business has 42 staff at the start of a year and 38 at the end. Nine leave. Calculate labour turnover.
@@ -206,6 +200,12 @@ Redundancy is about the job. Dismissal is about the person. Impact of redundancy
 10. Any one of: wider pool of talent, more varied ideas, better understanding of different customers, better reputation.
 11. The workforce changes during the period, so the average gives a fairer base for the rate.
 12. Staff can cover absence or move to where work is needed, so less idle time.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-business-human-resource-management-hrm--10-pay-talks.webp" width="900" height="950" alt="Bars show the union asking 6% ($72,000), management offering 3% ($36,000) and a settlement at 4.5% ($54,000) of a $1,200,000 payroll." loading="lazy">
+  <figcaption>Collective bargaining settles pay in one negotiation for all union members.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

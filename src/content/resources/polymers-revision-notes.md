@@ -128,17 +128,6 @@ Proteins are natural **polyamides**, which is why nylon and protein share the �
 
 **Solutions:** recycling (but sorting is difficult and quality degrades — PET is the exception that can be recycled back to its own monomers *(0620 Extended, 5070 required)*), biodegradable and photodegradable plastics, reduced use, incineration with energy recovery and gas scrubbing. See the [Polymers study guide](/resources/polymers/) for the full syllabus coverage and worked examples behind every table above.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/polymers--01-monomers-polymers-plastics.webp" width="900" height="1055" alt="Eight separate circles join into one long chain labelled polymer. A plastic bottle is magnified to show tangled polymer chains inside the material." loading="lazy">
-  <figcaption>Monomers join into long polymer chains, and plastic is the material made from them.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/polymers--08-plastic-waste.webp" width="900" height="1040" alt="Four tiles: plastic buried in landfill is still there after a hundred years; plastic collects in the sea and harms marine life; burning can give off toxic gases; and PET can be broken back into monomers and made into new PET." loading="lazy">
-  <figcaption>Plastics persist in landfill and oceans, burning gives toxic gases, and only some plastics like PET can be recycled to monomers.</figcaption>
-</figure>
-
-
 ## Exam traps
 
 - *(0620 Extended, 5070 required)* Addition polymerisation loses **nothing**; condensation loses a small molecule. This distinction is the core of the topic.
@@ -160,3 +149,14 @@ Proteins are natural **polyamides**, which is why nylon and protein share the �
 7. *(0620 Extended, 5070 required)* A polymer's repeat unit is –[CH₂–CHCH₃]–. Deduce the monomer it was made from.
 
 **Answers:** 1. Addition uses unsaturated monomers and loses no small molecule; condensation uses two monomers each with two functional groups and loses water. 2. Two carbons in the backbone, one carrying a CH₃ side group and the rest hydrogens, with bonds extending either side and n outside the brackets. 3. The amide link –CONH–; also found in proteins, which are natural polyamides. 4. The saturated C–C backbone is strong and unreactive, and microorganisms have no enzymes capable of breaking it. 5. A dicarboxylic acid and a diol. 6. Its ester linkages are formed by condensation, a reaction that can be run in reverse to break the polymer back down into its original dicarboxylic acid and diol monomers, which most addition polymers' unreactive C–C backbones cannot. 7. CH₂=CHCH₃, propene — put the double bond back between the two carbons and remove the extending bonds.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/polymers--01-monomers-polymers-plastics.webp" width="900" height="1055" alt="Eight separate circles join into one long chain labelled polymer. A plastic bottle is magnified to show tangled polymer chains inside the material." loading="lazy">
+  <figcaption>Monomers join into long polymer chains, and plastic is the material made from them.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/polymers--08-plastic-waste.webp" width="900" height="1040" alt="Four tiles: plastic buried in landfill is still there after a hundred years; plastic collects in the sea and harms marine life; burning can give off toxic gases; and PET can be broken back into monomers and made into new PET." loading="lazy">
+  <figcaption>Plastics persist in landfill and oceans, burning gives toxic gases, and only some plastics like PET can be recycled to monomers.</figcaption>
+</figure>
+

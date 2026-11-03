@@ -179,12 +179,6 @@ For an AO3 answer on method choice, use this frame: name the method, give a stre
 
 **Expected value (decision tree).** Multiply each outcome by its probability, add them, then subtract the cost of the option.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ib-dp-business-management-introduction-to-operations-management-and-operations-methods--03-custom-shoe-profit.webp" width="900" height="880" alt="Two stacked columns: a standard shoe costs 38 and sells for 89 (profit 51); a personalized pair costs 46 and sells for 129 (profit 83). Extra cost 8, customer pays 40 more, so profit rises by 32." loading="lazy">
-  <figcaption>Personalization adds $8 of cost but $40 of price.</figcaption>
-</figure>
-
-
 ## Quick self-test
 
 1. Define operations management.
@@ -218,6 +212,11 @@ For an AO3 answer on method choice, use this frame: name the method, give a stre
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/ib-dp-business-management-introduction-to-operations-management-and-operations-methods--02-flow-utilisation.webp" width="900" height="1060" alt="A falling unit-cost curve for a toaster line of capacity 1,200 a day: 39.50 dollars a unit at 600 units (50% utilisation) and 24.50 at 1,200 units (100%), a difference of 15.00." loading="lazy">
   <figcaption>Flow production is cheapest per unit only when the line is kept busy.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-introduction-to-operations-management-and-operations-methods--03-custom-shoe-profit.webp" width="900" height="880" alt="Two stacked columns: a standard shoe costs 38 and sells for 89 (profit 51); a personalized pair costs 46 and sells for 129 (profit 83). Extra cost 8, customer pays 40 more, so profit rises by 32." loading="lazy">
+  <figcaption>Personalization adds $8 of cost but $40 of price.</figcaption>
 </figure>
 
 

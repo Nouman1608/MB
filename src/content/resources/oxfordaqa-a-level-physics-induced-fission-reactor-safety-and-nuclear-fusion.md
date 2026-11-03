@@ -228,6 +228,11 @@ r = mv/(Bq) = 3.344e-27 × 1.20e6 / (5.0 × 1.60e-19) = 5.0 × 10⁻³ m
 </figure>
 
 <figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-nuclear-physics--06-aphy-nuclear-mass-defect.webp" width="900" height="920" alt="The four separate nucleons of helium-4 weigh 4.031882 u but the nucleus 4.001505 u. The mass defect 0.030377 u is equivalent to 28.3 MeV, the binding energy, which is 7.07 MeV per nucleon." loading="lazy">
+  <figcaption>The binding energy is the energy equivalent of the mass defect.</figcaption>
+</figure>
+
+<figure class="topic-figure">
   <img src="https://img.marlbridge.com/a-physics-nuclear-physics--09-aphy-nuclear-radius.webp" width="900" height="1110" alt="Nuclei with A = 4, 64 and 216 have radii 1.9, 4.8 and 7.2 fm from R = 1.2 A^(1/3) fm. R plotted against the cube root of A is a straight line of gradient R0. Mass and volume both scale with A, so every nucleus has the same density, about 2.3 x 10^17 kg per cubic metre." loading="lazy">
   <figcaption>Nuclear radius grows as the cube root of A, so nuclear density is constant.</figcaption>
 </figure>

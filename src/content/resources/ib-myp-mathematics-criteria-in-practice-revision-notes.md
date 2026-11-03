@@ -129,12 +129,6 @@ evidence (how clearly that process is communicated). Revising each criterion in 
 from the others risks producing work that satisfies one criterion's descriptors while accidentally
 neglecting another that the same task was also designed to assess.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ib-myp-mathematics-criteria-in-practice-revision-notes--02-myp-scored-apart-evidenced-together.webp" width="900" height="770" alt="Four tiles for Criteria A to D, each scored 0 to 8, total 0 to 32. One investigation task points to Criterion B (the investigative process) and Criterion C (how clearly it is communicated)." loading="lazy">
-  <figcaption>Each criterion is scored separately, but one well-designed task can supply evidence for several.</figcaption>
-</figure>
-
-
 ## Self-test
 
 1. What distinguishes top-band Criterion A evidence from correctly solving only familiar problems?
@@ -152,6 +146,12 @@ result's reasonableness and the model's limitations, not just a correct final nu
 Because a well-designed task (such as an investigation) naturally produces evidence relevant to more
 than one criterion simultaneously, e.g. both the investigative process (Criterion B) and how clearly
 it is communicated (Criterion C).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-mathematics-criteria-in-practice-revision-notes--02-myp-scored-apart-evidenced-together.webp" width="900" height="770" alt="Four tiles for Criteria A to D, each scored 0 to 8, total 0 to 32. One investigation task points to Criterion B (the investigative process) and Criterion C (how clearly it is communicated)." loading="lazy">
+  <figcaption>Each criterion is scored separately, but one well-designed task can supply evidence for several.</figcaption>
+</figure>
+
 
 ## Official syllabus
 

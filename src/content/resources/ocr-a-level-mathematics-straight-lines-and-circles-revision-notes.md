@@ -65,12 +65,6 @@ So the gradient is -2/3 and the y-intercept is 3/2. In general the gradient is -
 
 **Drawing a line.** Put x = 0 and y = 0 to find the intercepts, plot both and join them.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-level-mathematics-pure-mathematics-1-coordinate-geometry--08-line-meets-circle.webp" width="900" height="1124" alt="Lines y=x+k against x^2+y^2=18: discriminant 144-4k^2 gives two points at k=0, a tangent at k=6 and no points at k=8." loading="lazy">
-  <figcaption>Substituting a line into a circle gives a quadratic whose discriminant counts the intersections.</figcaption>
-</figure>
-
-
 ## 1.03b Parallel and perpendicular
 
 **Method: perpendicular through a point**
@@ -133,6 +127,12 @@ Centre (-3, 2), radius 5.
 
 For x² + y² - 6x + 10y + c = 0 the right-hand side is 34 - c, so it is a circle only when c < 34.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-mathematics-pure-mathematics-1-coordinate-geometry--04-is-it-a-circle.webp" width="900" height="1070" alt="Equation x^2+y^2-4x+6y+k=0 completes to (x-2)^2+(y+3)^2=13-k: circles for k=0 and 9, a point at k=13 and nothing for k&gt;13." loading="lazy">
+  <figcaption>After completing the square the right-hand side is r squared, so it must be positive for a circle to exist.</figcaption>
+</figure>
+
+
 ## 1.03f Circle properties
 
 | Property | Typical use |
@@ -186,6 +186,11 @@ The discriminant is positive, so the line cuts the circle at two points. Quote t
   <figcaption>The tangent is perpendicular to the radius, and the normal runs along it through the centre.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-mathematics-pure-mathematics-1-coordinate-geometry--08-line-meets-circle.webp" width="900" height="1124" alt="Lines y=x+k against x^2+y^2=18: discriminant 144-4k^2 gives two points at k=0, a tangent at k=6 and no points at k=8." loading="lazy">
+  <figcaption>Substituting a line into a circle gives a quadratic whose discriminant counts the intersections.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 
@@ -194,17 +199,6 @@ The discriminant is positive, so the line cuts the circle at two points. Quote t
 - (x + 3)² gives a = -3; the sign in the bracket is the opposite of the centre coordinate.
 - The right-hand side of the circle equation is r², not r.
 - A chord joins two points on the circle; the tangent touches at one.
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-level-mathematics-pure-mathematics-1-coordinate-geometry--04-is-it-a-circle.webp" width="900" height="1070" alt="Equation x^2+y^2-4x+6y+k=0 completes to (x-2)^2+(y+3)^2=13-k: circles for k=0 and 9, a point at k=13 and nothing for k&gt;13." loading="lazy">
-  <figcaption>After completing the square the right-hand side is r squared, so it must be positive for a circle to exist.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-level-mathematics-pure-mathematics-1-coordinate-geometry--06-chord-bisector-centre.webp" width="900" height="1070" alt="Chord AB with A(2,1), B(6,5); its perpendicular bisector y=-x+7 meets y=x-3 at the centre (5,2); d^2 + half-chord^2 = r^2. AQA worked example 5." loading="lazy">
-  <figcaption>The centre always lies on the perpendicular bisector of any chord, so two chords fix the centre.</figcaption>
-</figure>
-
 
 ## Quick self-test
 
@@ -231,6 +225,11 @@ The discriminant is positive, so the line cuts the circle at two points. Quote t
 8. Radius gradient 4/3, tangent gradient -3/4: y - 4 = -(3/4)(x - 3), so **3x + 4y - 25 = 0**.
 9. x² + (x + c)² = 9 gives 2x² + 2cx + c² - 9 = 0; discriminant 72 - 4c² > 0, so **-3√2 < c < 3√2**.
 10. Rate (21 - 12)/3 = **3 cm per week**; height at 8 weeks 21 + 9 = **30 cm**.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-mathematics-pure-mathematics-1-coordinate-geometry--06-chord-bisector-centre.webp" width="900" height="1070" alt="Chord AB with A(2,1), B(6,5); its perpendicular bisector y=-x+7 meets y=x-3 at the centre (5,2); d^2 + half-chord^2 = r^2. AQA worked example 5." loading="lazy">
+  <figcaption>The centre always lies on the perpendicular bisector of any chord, so two chords fix the centre.</figcaption>
+</figure>
 
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/a-level-mathematics-pure-mathematics-1-coordinate-geometry--09-two-circles.webp" width="900" height="1058" alt="OCR only. Circles x^2+y^2=16 and (x-6)^2+(y-2)^2=9 with d=sqrt(40) between 1 and 7 so they cross at two points; number line of d shows the touching and separate cases." loading="lazy">

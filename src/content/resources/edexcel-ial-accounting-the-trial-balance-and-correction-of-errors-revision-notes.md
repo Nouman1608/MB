@@ -123,6 +123,12 @@ Memory aid: if both sides of the entry went somewhere for the same amount, the t
 
 Reminder: a payment of rent of 850 was debited to Bank and credited to Rent (reversed). Correction: Dr Rent 1,700, Cr Bank 1,700.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-accounting-the-trial-balance-and-correction-of-errors--12-reversal-doubled.webp" width="900" height="900" alt="A cash sale of 1,600 dollars was posted Dr Revenue and Cr Bank. The correcting journal Dr Bank 3,200, Cr Revenue 3,200 cancels the wrong 1,600 entry and posts the right 1,600, leaving net Dr Bank 1,600 and Cr Revenue 1,600." loading="lazy">
+  <figcaption>A complete reversal is corrected with double the original amount.</figcaption>
+</figure>
+
+
 ## 1.2.7 Suspense account rules
 
 | Trial balance position | Suspense account |
@@ -190,17 +196,6 @@ Correct each side separately, then check both agree.
 
 **Reminder.** Oldacre Cycles' receivables control account shows 22,500 and its list totals 22,980. The sales day book was under-added by 400 (debit 400) and a contra of 150 was entered in the individual accounts only (credit 150), so the control account becomes 22,500 + 400 − 150 = 22,750. In the list, a credit balance of 115 was shown as a debit, so subtract 230: 22,980 − 230 = 22,750. Both agree.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/edexcel-ial-accounting-the-trial-balance-and-correction-of-errors--13-control-and-list-fixes.webp" width="900" height="920" alt="Control account 41,430 is corrected by minus 1,000, plus 270, minus 780 and minus 450 to 39,470. The list of balances 39,680 is corrected by plus 90 and minus 300 to 39,470. An invoice posted to the wrong customer needs only a journal." loading="lazy">
-  <figcaption>The control account and the list of balances are corrected separately and end at the same figure.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-level-edexcel-accounting-control-accounts-and-correction-of-errors--07-control-vs-list.webp" width="900" height="810" alt="Totals from the books of prime entry build the control account (25,015); the individual customer accounts give a list of balances (25,195). The 180 difference is an invoice posted twice to one customer and the list agrees once corrected. Agreement does not prove every entry is right. IGCSE 0452 candidates do not need to reconcile control account balances to the ledger." loading="lazy">
-  <figcaption>A control account is built from different records than the ledger, so a difference signals an error.</figcaption>
-</figure>
-
-
 ## Exam routine for an error question
 
 1. Say whether each error leaves the trial balance agreeing or not.
@@ -236,8 +231,13 @@ Correct each side separately, then check both agree.
 10. Because the corrections add up to the original difference, which shows all errors are found.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/edexcel-ial-accounting-the-trial-balance-and-correction-of-errors--12-reversal-doubled.webp" width="900" height="900" alt="A cash sale of 1,600 dollars was posted Dr Revenue and Cr Bank. The correcting journal Dr Bank 3,200, Cr Revenue 3,200 cancels the wrong 1,600 entry and posts the right 1,600, leaving net Dr Bank 1,600 and Cr Revenue 1,600." loading="lazy">
-  <figcaption>A complete reversal is corrected with double the original amount.</figcaption>
+  <img src="https://img.marlbridge.com/edexcel-ial-accounting-the-trial-balance-and-correction-of-errors--13-control-and-list-fixes.webp" width="900" height="920" alt="Control account 41,430 is corrected by minus 1,000, plus 270, minus 780 and minus 450 to 39,470. The list of balances 39,680 is corrected by plus 90 and minus 300 to 39,470. An invoice posted to the wrong customer needs only a journal." loading="lazy">
+  <figcaption>The control account and the list of balances are corrected separately and end at the same figure.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-edexcel-accounting-control-accounts-and-correction-of-errors--07-control-vs-list.webp" width="900" height="810" alt="Totals from the books of prime entry build the control account (25,015); the individual customer accounts give a list of balances (25,195). The 180 difference is an invoice posted twice to one customer and the list agrees once corrected. Agreement does not prove every entry is right. IGCSE 0452 candidates do not need to reconcile control account balances to the ledger." loading="lazy">
+  <figcaption>A control account is built from different records than the ledger, so a difference signals an error.</figcaption>
 </figure>
 
 

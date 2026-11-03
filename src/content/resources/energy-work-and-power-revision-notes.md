@@ -76,12 +76,6 @@ efficiency            = (useful energy out / total energy in) x 100%
 
 Units: energy and work in **joules (J)**, power in **watts (W)** = J/s.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/energy-work-and-power--05-work-done.webp" width="900" height="690" alt="A 40 N force arrow pushes a crate 6 m, shown by a dimension line. Work done is 40 x 6 = 240 J, the energy transferred." loading="lazy">
-  <figcaption>Work done is force times distance moved in the direction of the force.</figcaption>
-</figure>
-
-
 ## Worked examples for each equation
 
 Kinetic energy of a 1500 kg car at 20 m/s:
@@ -109,6 +103,12 @@ P = W / t = 6000 / 15 = 400 W
 ```
 
 Work done and energy transferred are the same quantity measured the same way — doing work on an object is precisely how energy is transferred into or out of it by a force, which is why both are measured in joules.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/energy-work-and-power--05-work-done.webp" width="900" height="690" alt="A 40 N force arrow pushes a crate 6 m, shown by a dimension line. Work done is 40 x 6 = 240 J, the energy transferred." loading="lazy">
+  <figcaption>Work done is force times distance moved in the direction of the force.</figcaption>
+</figure>
+
 
 ## Conservation of energy
 

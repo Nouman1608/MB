@@ -149,6 +149,17 @@ each one correctly, this kind of end-to-end rehearsal — rather than
 book-by-book memorisation — is the single highest-value use of
 revision time for this topic.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-double-entry-model--01-debit-credit-rules.webp" width="900" height="956" alt="Six T-accounts show which side increases each account type: assets, expenses and drawings on the debit side; liabilities, income and capital on the credit side. An example buys a 4,000 dollar van by bank: debit Van, credit Bank. The rule is debit the receiver, credit the giver." loading="lazy">
+  <figcaption>Debit the account that receives value and credit the one that gives it; each account type increases on one side only.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-double-entry-model--09-trial-balance-blind-spots.webp" width="900" height="968" alt="Six small debit and credit examples show omission, commission, principle, original entry, reversal and compensating errors. In each, total debits still equal total credits, so the trial balance agrees even though the books are wrong." loading="lazy">
+  <figcaption>A balanced trial balance does not prove the books are correct.</figcaption>
+</figure>
+
+
 ## Three-column running balance accounts
 
 A running balance account records the same double entry as a two-sided

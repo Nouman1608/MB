@@ -58,6 +58,11 @@ These revision notes condense 6.3.1 (Magnetic fields) and 6.3.2 (Motion of charg
   <figcaption>The induced pole always opposes the magnet movement, so the meter deflects one way going in and the other way coming out.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-alternating-currents--06-rotating-coil-generator.webp" width="900" height="1165" alt="Four end-on pictures show a coil turning in a uniform field at 0, 90, 180 and 270 degrees. Graphs for one 40 ms period (120 turns, 0.25 T, 4.5e-3 m2, 25 Hz) show N phi = NBA cos wt between plus and minus 0.135 Wb turns and E = NBAw sin wt with peak 21.2 V. E is zero when flux linkage is maximum and largest when it changes fastest." loading="lazy">
+  <figcaption>The e.m.f. of a rotating coil is minus the gradient of the flux linkage, so a cosine flux linkage gives a sine e.m.f.</figcaption>
+</figure>
+
 
 ## 6.3.1(d) Fleming's left-hand rule
 
@@ -110,12 +115,6 @@ Check: gradient in kg A⁻¹, not g A⁻¹, before multiplying by g. Reasons for
 - A charge moving parallel to the field feels no force.
 - Link to the wire: F = BIL with IL = Qv.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-physics-alternating-currents--03-charged-particle-circles.webp" width="900" height="920" alt="A proton accelerated through 1500 V enters a uniform 0.20 T field pointing into the page, moving upward. The magnetic force points left, so it circles; the radius is 2.8 cm at speed v and 5.6 cm at 2v. Both take the same time, T = 3.3 x 10^-7 s. An electron through the same voltage has a 43 times smaller radius and the opposite sense." loading="lazy">
-  <figcaption>A faster charged particle moves on a bigger circle but takes the same time per revolution.</figcaption>
-</figure>
-
-
 ## 6.3.2(b) Circular orbits
 
 - Magnetic force provides the centripetal force: BQv = mv² / r.
@@ -131,6 +130,12 @@ Check: gradient in kg A⁻¹, not g A⁻¹, before multiplying by g. Reasons for
 4. Check the answer has units of metres and a sensible size.
 
 **Worked reminder.** A proton at 4.0 × 10⁶ m s⁻¹ in 0.50 T: r = 1.673 × 10⁻²⁷ × 4.0 × 10⁶ / (1.60 × 10⁻¹⁹ × 0.50) = 0.084 m.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-alternating-currents--03-charged-particle-circles.webp" width="900" height="920" alt="A proton accelerated through 1500 V enters a uniform 0.20 T field pointing into the page, moving upward. The magnetic force points left, so it circles; the radius is 2.8 cm at speed v and 5.6 cm at 2v. Both take the same time, T = 3.3 x 10^-7 s. An electron through the same voltage has a 43 times smaller radius and the opposite sense." loading="lazy">
+  <figcaption>A faster charged particle moves on a bigger circle but takes the same time per revolution.</figcaption>
+</figure>
+
 
 ## 6.3.2(c) Velocity selector
 

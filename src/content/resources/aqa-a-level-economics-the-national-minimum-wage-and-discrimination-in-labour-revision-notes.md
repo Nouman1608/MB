@@ -73,8 +73,8 @@ Worked reminder: supply w = 4 + 0.004L, MRP = 16 − 0.004L. Unregulated: 1,000 
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/aqa-a-level-economics-the-national-minimum-wage-and-discrimination-in-labour--13-monopsony-floor-employment.webp" width="900" height="870" alt="Employment and the number of people wanting work, in thousand hours a week, against the level of the minimum wage under monopsony. With no floor, employment is 1,000. At a floor of 9 employment is 1,250, at 10 (the competitive wage) it peaks at 1,500, then at 11 it is 1,250, at 12 it is 1,000 and at 13 it is 750. People wanting work rise as the floor rises: 1,250, 1,500, 1,750, 2,000 and 2,250. Unemployment is zero at floors of 9 and 10 and then 500, 1,000 and 1,500 at 11, 12 and 13. Between 8 and 12 employment is at least as high as before. A minimum wage does not automatically destroy jobs; it depends on monopsony power and on how high the floor is." loading="lazy">
-  <figcaption>Employment rises as the floor rises to cr 10, then falls, while unemployment appears above cr 10.</figcaption>
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-the-national-minimum-wage-and-discrimination-in-labour--12-monopsony-wage-and-jobs.webp" width="900" height="810" alt="Wage against labour in thousand hours a week for a monopsony employer. Labour supply is w = 4 plus 0.004L, so marginal cost of labour is 4 plus 0.008L, and marginal revenue product is 16 minus 0.004L. The unregulated monopsony hires where MRP equals marginal cost of labour: 1,000 workers, paying the wage read from the supply curve, 8 crowns, while MRP is 12, a gap of 4 per worker. The competitive benchmark, where MRP equals supply, is 1,500 workers at 10 crowns." loading="lazy">
+  <figcaption>A monopsony hires 1,000 workers at cr 8 where MRP is cr 12, against 1,500 at cr 10 in a competitive market.</figcaption>
 </figure>
 
 
@@ -94,12 +94,6 @@ Worked reminder: supply w = 4 + 0.004L, MRP = 16 − 0.004L. Unregulated: 1,000 
 **Advantages:** higher incomes for the lowest paid; better work incentives; possible job gains under monopsony; productivity gains; lower reliance on benefits.
 **Disadvantages:** possible unemployment, especially young and low-skilled; higher costs and prices; poor targeting; reduced hours or training; evasion; competitiveness.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/aqa-a-level-economics-the-national-minimum-wage-and-discrimination-in-labour--09-nmw-three-households.webp" width="900" height="940" alt="Weekly income against a poverty line of 300: a single parent working 30 hours rises from 260 to 284 (still below the line); a worker who loses the job falls from 260 to 130; a teenager on 20 hours in a well-off household gains 16 but was never poor." loading="lazy">
-  <figcaption>A minimum wage helps some poor households and misses others.</figcaption>
-</figure>
-
-
 ## NMW: evaluation checklist
 
 - Size of the floor against typical earnings
@@ -110,6 +104,12 @@ Worked reminder: supply w = 4 + 0.004L, MRP = 16 − 0.004L. Unregulated: 1,000 
 - Whose view: employed, displaced, employer, consumer, taxpayer
 - Real-world facts you may quote: UK NMW introduced in 1999, with different rates for different age bands and advice from the Low Pay Commission
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-the-national-minimum-wage-and-discrimination-in-labour--09-nmw-three-households.webp" width="900" height="940" alt="Weekly income against a poverty line of 300: a single parent working 30 hours rises from 260 to 284 (still below the line); a worker who loses the job falls from 260 to 130; a teenager on 20 hours in a well-off household gains 16 but was never poor." loading="lazy">
+  <figcaption>A minimum wage helps some poor households and misses others.</figcaption>
+</figure>
+
+
 ## Wage discrimination: conditions
 
 1. Employer has market power over wages (monopsony or wage setting).
@@ -119,12 +119,6 @@ Worked reminder: supply w = 4 + 0.004L, MRP = 16 − 0.004L. Unregulated: 1,000 
 5. Prejudice or statistical discrimination, weak enforcement.
 
 Worked reminder (invented): MRP = 30 for both groups. X supply w = 12 + 0.1L; Y supply w = 6 + 0.3L. Marginal cost is 12 + 0.2L and 6 + 0.6L. Employment is 90 and 40, wages 21 and 18, supply elasticities 2.33 and 1.5. The pay gap is 3 ÷ 21 = 14.3%. The competitive outcome would be 180 and 80 at cr 30.
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/aqa-a-level-economics-the-national-minimum-wage-and-discrimination-in-labour--12-monopsony-wage-and-jobs.webp" width="900" height="810" alt="Wage against labour in thousand hours a week for a monopsony employer. Labour supply is w = 4 plus 0.004L, so marginal cost of labour is 4 plus 0.008L, and marginal revenue product is 16 minus 0.004L. The unregulated monopsony hires where MRP equals marginal cost of labour: 1,000 workers, paying the wage read from the supply curve, 8 crowns, while MRP is 12, a gap of 4 per worker. The competitive benchmark, where MRP equals supply, is 1,500 workers at 10 crowns." loading="lazy">
-  <figcaption>A monopsony hires 1,000 workers at cr 8 where MRP is cr 12, against 1,500 at cr 10 in a competitive market.</figcaption>
-</figure>
-
 
 ## Impact of discrimination
 
@@ -209,6 +203,12 @@ Monopsony floor: add the marginal cost curve above supply and the MRP curve. The
 8. 3 ÷ 15 = 20%.
 9. Higher motivation, lower turnover or better retention, or training investment.
 10. A group is concentrated in particular occupations, often lower paid.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-the-national-minimum-wage-and-discrimination-in-labour--13-monopsony-floor-employment.webp" width="900" height="870" alt="Employment and the number of people wanting work, in thousand hours a week, against the level of the minimum wage under monopsony. With no floor, employment is 1,000. At a floor of 9 employment is 1,250, at 10 (the competitive wage) it peaks at 1,500, then at 11 it is 1,250, at 12 it is 1,000 and at 13 it is 750. People wanting work rise as the floor rises: 1,250, 1,500, 1,750, 2,000 and 2,250. Unemployment is zero at floors of 9 and 10 and then 500, 1,000 and 1,500 at 11, 12 and 13. Between 8 and 12 employment is at least as high as before. A minimum wage does not automatically destroy jobs; it depends on monopsony power and on how high the floor is." loading="lazy">
+  <figcaption>Employment rises as the floor rises to cr 10, then falls, while unemployment appears above cr 10.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

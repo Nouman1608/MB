@@ -189,22 +189,6 @@ GDP growth 4.0%, population growth 3.0%: 1.04 ÷ 1.03 − 1 = 0.97% a year. Savi
 
 Low income → low saving → low investment → low productivity → low income. Education, healthcare, investment and lower population growth can each break the cycle. No single measure always works best. Averages hide inequality.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/cambridge-igcse-economics-population-and-differences-in-development-between--01-dev-cycle-of-low-income.webp" width="900" height="860" alt="A cycle of three boxes for Country X: low income (2,400 GDP per head) leads to low saving and schooling (144 saved per head), then low productivity (6,000 per worker), which keeps income low. Four ways to break the cycle are listed." loading="lazy">
-  <figcaption>The cycle of low income and four ways to break it.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/cambridge-igcse-economics-population-and-differences-in-development-between--02-dev-country-x-vs-y.webp" width="900" height="900" alt="Bars compare invented Countries X and Y: GDP per head 2,400 against 30,000 (12.5 times), output per worker 6,000 against 60,000 (10 times), saving per head 144 against 6,600 (about 45.8 times)." loading="lazy">
-  <figcaption>Income, productivity and saving per head in Country Y are many times those of Country X.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/cambridge-igcse-economics-population-and-differences-in-development-between--03-dev-growth-per-head.webp" width="900" height="930" alt="GDP growth 3.4% less population growth 2.8% leaves only 0.58% a year in Country X (about 14 extra on 2,400). Country Y: 2.1% and 0.3% leave 1.79% (about 538 extra on 30,000)." loading="lazy">
-  <figcaption>Fast population growth eats up most of the GDP growth of Country X.</figcaption>
-</figure>
-
-
 ## Quick self-test
 
 1. A country has immigration of 25,000 and emigration of 40,000. Find net migration.
@@ -232,6 +216,22 @@ Low income → low saving → low investment → low productivity → low income
 9. The population size that gives the highest output per head, given the country's resources and technology.
 10. Low saving funds little investment, so capital and productivity stay low.
 11. 1.04 ÷ 1.03 − 1 = **0.97%**.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-economics-population-and-differences-in-development-between--01-dev-cycle-of-low-income.webp" width="900" height="860" alt="A cycle of three boxes for Country X: low income (2,400 GDP per head) leads to low saving and schooling (144 saved per head), then low productivity (6,000 per worker), which keeps income low. Four ways to break the cycle are listed." loading="lazy">
+  <figcaption>The cycle of low income and four ways to break it.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-economics-population-and-differences-in-development-between--02-dev-country-x-vs-y.webp" width="900" height="900" alt="Bars compare invented Countries X and Y: GDP per head 2,400 against 30,000 (12.5 times), output per worker 6,000 against 60,000 (10 times), saving per head 144 against 6,600 (about 45.8 times)." loading="lazy">
+  <figcaption>Income, productivity and saving per head in Country Y are many times those of Country X.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-economics-population-and-differences-in-development-between--03-dev-growth-per-head.webp" width="900" height="930" alt="GDP growth 3.4% less population growth 2.8% leaves only 0.58% a year in Country X (about 14 extra on 2,400). Country Y: 2.1% and 0.3% leave 1.79% (about 538 extra on 30,000)." loading="lazy">
+  <figcaption>Fast population growth eats up most of the GDP growth of Country X.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

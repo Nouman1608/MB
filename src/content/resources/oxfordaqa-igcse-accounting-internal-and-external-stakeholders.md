@@ -79,12 +79,6 @@ The specification groups these together. A sole trader or partner owns the busin
 
 Owners compare profit with the capital they have invested, and they decide whether to take profit out or leave it in to grow the business. Profit left in the business is retained profit.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/oxfordaqa-igcse-accounting-internal-and-external-stakeholders--02-acc14-same-figures-different-readers.webp" width="900" height="822" alt="Westerly Joinery wages of 150,000 matter to employees (12 staff, 12,500 each) and management (15.6% of revenue). Loan interest of 5,400 is 9% of the 60,000 loan and is the lender return. The 20,000 dividend gives an 8,000-share holder 1,600." loading="lazy">
-  <figcaption>The same figures serve different stakeholders; each reads a different line first.</figcaption>
-</figure>
-
-
 ## The five external stakeholders
 
 ### Customers
@@ -145,6 +139,12 @@ Westerly Joinery Ltd makes kitchen fittings. It has 12 employees and 100,000 sha
 3. The dividend of 20,000 is paid to shareholders. A holder of 8,000 of the 100,000 shares would receive 1,600, because the dividend is 0.20 per share. Shareholders care because it is their return. It is 31.0% of profit, so most profit, 44,600, stays in the business to fund growth.
 
 Notice that the same set of figures serves all three groups. What differs is which line each reads first.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-accounting-internal-and-external-stakeholders--02-acc14-same-figures-different-readers.webp" width="900" height="822" alt="Westerly Joinery wages of 150,000 matter to employees (12 staff, 12,500 each) and management (15.6% of revenue). Loan interest of 5,400 is 9% of the 60,000 loan and is the lender return. The 20,000 dividend gives an 8,000-share holder 1,600." loading="lazy">
+  <figcaption>The same figures serve different stakeholders; each reads a different line first.</figcaption>
+</figure>
+
 
 ## Where interests collide
 

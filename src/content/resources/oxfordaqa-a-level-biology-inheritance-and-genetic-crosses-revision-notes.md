@@ -200,6 +200,17 @@ Use counts, never percentages. Include every category. A significant result mean
 9. Dominant epistasis.
 10. 3 categories − 1 = 2.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-inheritance--05-dihybrid-cross.webp" width="900" height="1110" alt="The 16-box Punnett square for AaDd by AaDd shows 9 purple tall, 3 purple dwarf, 3 green tall and 1 green dwarf plants, a 9 : 3 : 3 : 1 ratio. Purple dwarf has probability 3/4 times 1/4, which is 3/16." loading="lazy">
+  <figcaption>Two genes on different chromosomes assort independently to give 9 : 3 : 3 : 1.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-inheritance--09-continuous-variation.webp" width="900" height="1220" alt="Histograms count the additive alleles in offspring of heterozygous parents: one gene gives 1:2:1, two genes 1:4:6:4:1, three genes 1:6:15:20:15:6:1 and five genes eleven classes. With more genes the bars approach a bell-shaped curve; n genes give 2n + 1 classes." loading="lazy">
+  <figcaption>More genes, plus environment, turn separate steps into a smooth bell-shaped curve.</figcaption>
+</figure>
+
+
 ## Where marks are usually lost
 
 - Leaving out the key, so the examiner cannot tell which allele is dominant.

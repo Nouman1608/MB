@@ -39,17 +39,6 @@ These notes condense section 4.3.5, item 3 (a to c) of the Pearson Edexcel Inter
 | Debt servicing | Interest paid on the debt |
 | Intergenerational equity | Fairness between generations in who pays for and who gains from government spending |
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/edexcel-ial-economics-fiscal-deficits-and-national-debt--06-deficit-and-debt.webp" width="900" height="900" alt="Revenue is 612. Spending is 640 on programmes plus 39 interest, 679 in total. The gap is a deficit of 67, made of a primary deficit of 28 and interest of 39, which is 2.79% of GDP of 2,400. The deficit is a flow that adds to the debt stock, raising it from 1,300 to 1,367." loading="lazy">
-  <figcaption>Deficit splits into primary balance and interest; the deficit is a flow that adds to the debt stock.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/edexcel-ial-economics-fiscal-deficits-and-national-debt--05-automatic-stabilisers-cushion.webp" width="900" height="940" alt="A fall in output of 100 loses only 65 of spending power because tax paid falls 30 and benefits rise 5; the government balance worsens by 35. Two cards contrast automatic stabilisers (no decision, immediate) with discretionary policy (a choice, with lags)." loading="lazy">
-  <figcaption>Automatic stabilisers cushion a slump without any decision, at the cost of a bigger deficit.</figcaption>
-</figure>
-
-
 ## Formulas
 
 | Measure | Formula |
@@ -65,12 +54,6 @@ These notes condense section 4.3.5, item 3 (a to c) of the Pearson Edexcel Inter
 | Structural deficit | Total deficit - cyclical deficit |
 | Interest burden | Interest / revenue x 100 |
 | Stabilising primary surplus | d(r - g)/(1 + g), as a share of GDP |
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/edexcel-ial-economics-fiscal-deficits-and-national-debt--07-cyclical-vs-structural.webp" width="900" height="1030" alt="Country K has actual output of 2,400 against potential of 2,500, a gap of 100. The automatic response is 0.35 per unit of gap, so 35 of the 67 deficit is cyclical and 32 is structural. If output returns to potential with no policy change the deficit falls to 32, not zero." loading="lazy">
-  <figcaption>Which part of a deficit disappears in a recovery and which part needs policy action.</figcaption>
-</figure>
-
 
 ## Method boxes
 
@@ -103,6 +86,12 @@ Debt ratio       = 40.0%; with GDP up 3% to 1,545, 620 / 1,545 = 40.1%
 ```
 
 The headline deficit coexists with a primary surplus, so the deficit is entirely the cost of interest. Now add cycle information: potential output is 1,600, so the gap is -100 (-6.25% of potential). The automatic response is 0.4, so the cyclical deficit is 40. The cyclically adjusted balance is -20 + 40 = **+20**, a structural surplus of 1.25% of potential output. A deficit that looks worrying is hiding a sound underlying position, and the weak economy is the cause.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-fiscal-deficits-and-national-debt--07-cyclical-vs-structural.webp" width="900" height="1030" alt="Country K has actual output of 2,400 against potential of 2,500, a gap of 100. The automatic response is 0.35 per unit of gap, so 35 of the 67 deficit is cyclical and 32 is structural. If output returns to potential with no policy change the deficit falls to 32, not zero." loading="lazy">
+  <figcaption>Which part of a deficit disappears in a recovery and which part needs policy action.</figcaption>
+</figure>
+
 
 ## Debt dynamics reminder
 
@@ -165,22 +154,6 @@ The structural part changes only with policy or with lasting change in potential
 
 **Evaluation tests.** Level and trend of the ratio; interest rate against growth; who holds the debt; maturity and currency; purpose of borrowing; cyclical or structural; stage of the cycle.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/edexcel-ial-economics-fiscal-deficits-and-national-debt--08-debt-servicing-refinance.webp" width="900" height="1000" alt="Country K owes 1,300. Before, all debt costs 3%, so interest is 39, 6.4% of revenue of 612. After 520 of the debt is refinanced at 6%, interest is 23.4 on the old 780 plus 31.2 on the refinanced 520, which is 54.6 or 8.9% of revenue. The extra cost is 15.6 a year." loading="lazy">
-  <figcaption>How refinancing at a higher rate raises the cost of servicing debt.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/edexcel-ial-economics-fiscal-deficits-and-national-debt--07-road-debt-intergenerational.webp" width="900" height="880" alt="Borrowing 300 at 3% costs 9 a year. A road giving 14 a year of benefit leaves a net 5 a year for future users; funding current spending leaves a net loss of 9 a year with no asset." loading="lazy">
-  <figcaption>Borrowing for an asset can be fair to future taxpayers; borrowing for current spending shifts costs onto them.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/edexcel-ial-economics-fiscal-deficits-and-national-debt--08-crowding-out-loanable-funds.webp" width="900" height="1020" alt="Loanable funds graph with illustrative numbers: demand D1 meets supply S at 40bn and 6%. Government borrowing of 20bn shifts demand to D2, giving 50bn and 7%. At 7% private borrowers take only 30bn, so 10bn is crowded out. Boxes show the chain: government borrows, rates rise, investment falls." loading="lazy">
-  <figcaption>Government borrowing raises the interest rate and crowds out private investment.</figcaption>
-</figure>
-
-
 ## Quick self-test
 
 1. Define the national debt.
@@ -208,6 +181,32 @@ The structural part changes only with policy or with lasting change in potential
 9. Any two: a recession, an older population, a rise in interest rates, a tax cut, a financial rescue, falling commodity revenue.
 10. d(r - g)/(1 + g) = 0.70 x 0 / 1.03 = **0**: a primary balance of zero.
 11. The hospital gives lasting benefits to later generations who pay the interest. A rebate benefits today's households and leaves later taxpayers with the cost and no asset.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-fiscal-deficits-and-national-debt--06-deficit-and-debt.webp" width="900" height="900" alt="Revenue is 612. Spending is 640 on programmes plus 39 interest, 679 in total. The gap is a deficit of 67, made of a primary deficit of 28 and interest of 39, which is 2.79% of GDP of 2,400. The deficit is a flow that adds to the debt stock, raising it from 1,300 to 1,367." loading="lazy">
+  <figcaption>Deficit splits into primary balance and interest; the deficit is a flow that adds to the debt stock.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-fiscal-deficits-and-national-debt--08-debt-servicing-refinance.webp" width="900" height="1000" alt="Country K owes 1,300. Before, all debt costs 3%, so interest is 39, 6.4% of revenue of 612. After 520 of the debt is refinanced at 6%, interest is 23.4 on the old 780 plus 31.2 on the refinanced 520, which is 54.6 or 8.9% of revenue. The extra cost is 15.6 a year." loading="lazy">
+  <figcaption>How refinancing at a higher rate raises the cost of servicing debt.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-fiscal-deficits-and-national-debt--05-automatic-stabilisers-cushion.webp" width="900" height="940" alt="A fall in output of 100 loses only 65 of spending power because tax paid falls 30 and benefits rise 5; the government balance worsens by 35. Two cards contrast automatic stabilisers (no decision, immediate) with discretionary policy (a choice, with lags)." loading="lazy">
+  <figcaption>Automatic stabilisers cushion a slump without any decision, at the cost of a bigger deficit.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-fiscal-deficits-and-national-debt--07-road-debt-intergenerational.webp" width="900" height="880" alt="Borrowing 300 at 3% costs 9 a year. A road giving 14 a year of benefit leaves a net 5 a year for future users; funding current spending leaves a net loss of 9 a year with no asset." loading="lazy">
+  <figcaption>Borrowing for an asset can be fair to future taxpayers; borrowing for current spending shifts costs onto them.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-fiscal-deficits-and-national-debt--08-crowding-out-loanable-funds.webp" width="900" height="1020" alt="Loanable funds graph with illustrative numbers: demand D1 meets supply S at 40bn and 6%. Government borrowing of 20bn shifts demand to D2, giving 50bn and 7%. At 7% private borrowers take only 30bn, so 10bn is crowded out. Boxes show the chain: government borrows, rates rise, investment falls." loading="lazy">
+  <figcaption>Government borrowing raises the interest rate and crowds out private investment.</figcaption>
+</figure>
+
 
 ## Writing an evaluation
 

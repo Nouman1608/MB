@@ -214,27 +214,6 @@ Whatever the price, buyers choose how many units to take, and the firm sells exa
 
 **A2 only (QS6):** marginal revenue = change in TR for one more unit. If TR rises from 4,500 to 4,516 when output goes from 250 to 251, marginal revenue is 16.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-costs-of-production-economies-of-scale-revenue-and--01-ar-is-demand.webp" width="900" height="960" alt="Graph of price against shirts per day. AR1 (= D1) is price 48 minus 2Q, giving 36 at 6 shirts and 32 at 8. A price cut moves along the curve; if demand rises so every price is 4 higher the curve shifts up to AR2 and the price at 6 shirts is 40." loading="lazy">
-  <figcaption>The AR curve is the firm's demand curve: a price change moves along it, a change in demand shifts it.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-costs-of-production-economies-of-scale-revenue-and--02-tailor-profit.webp" width="900" height="910" alt="Total revenue and total cost plotted against shirts per day, with profit values below: -12, 20, 26, 6, -50, -142 at 2 to 12 shirts. Profit is highest, 26, at 6 shirts. If AR shifts up by 4, TR at 6 shirts is 240 and profit 50." loading="lazy">
-  <figcaption>Profit is the gap between TR and TC: highest at 6 shirts, and a loss at 2 and from 10.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/cambridge-igcse-economics-microeconomic-decision-makers--05-costs-per-unit.webp" width="900" height="1280" alt="AFC falls as output rises, AVC is U-shaped and ATC is their sum, also U-shaped. At 30 units ATC 9 equals AVC 5 plus AFC 4. A table with fixed cost 120 shows total cost and ATC for outputs 10 to 40. Revenue is price times quantity." loading="lazy">
-  <figcaption>Average total cost is total cost divided by output, and is the sum of average fixed and variable cost.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-edexcel-economics-production-and-business-costs--05-revenue-costs-profit.webp" width="900" height="920" alt="A firm sells 1,000 units at $50. Total revenue is $50,000. Total costs of $35,000 are fixed costs $10,000 plus variable costs $25,000. Profit is $15,000. Average total cost is $35,000 divided by 1,000, which is $35 per unit, leaving $15 per unit of the $50 price." loading="lazy">
-  <figcaption>The lesson example in pictures: $50,000 revenue less $35,000 costs leaves $15,000 profit, and average cost is $35 a unit.</figcaption>
-</figure>
-
-
 ## Quick self-test
 
 1. State what makes a cost fixed.
@@ -262,6 +241,27 @@ Whatever the price, buyers choose how many units to take, and the firm sells exa
 9. The average revenue (AR) curve.
 10. (8.5 − 10.0) ÷ 10.0 × 100 = −15%.
 11. Loss per unit = 25 − 27.50 = −2.50. Loss = 2.50 × 80 = 200.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-costs-of-production-economies-of-scale-revenue-and--01-ar-is-demand.webp" width="900" height="960" alt="Graph of price against shirts per day. AR1 (= D1) is price 48 minus 2Q, giving 36 at 6 shirts and 32 at 8. A price cut moves along the curve; if demand rises so every price is 4 higher the curve shifts up to AR2 and the price at 6 shirts is 40." loading="lazy">
+  <figcaption>The AR curve is the firm's demand curve: a price change moves along it, a change in demand shifts it.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-costs-of-production-economies-of-scale-revenue-and--02-tailor-profit.webp" width="900" height="910" alt="Total revenue and total cost plotted against shirts per day, with profit values below: -12, 20, 26, 6, -50, -142 at 2 to 12 shirts. Profit is highest, 26, at 6 shirts. If AR shifts up by 4, TR at 6 shirts is 240 and profit 50." loading="lazy">
+  <figcaption>Profit is the gap between TR and TC: highest at 6 shirts, and a loss at 2 and from 10.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-economics-microeconomic-decision-makers--05-costs-per-unit.webp" width="900" height="1280" alt="AFC falls as output rises, AVC is U-shaped and ATC is their sum, also U-shaped. At 30 units ATC 9 equals AVC 5 plus AFC 4. A table with fixed cost 120 shows total cost and ATC for outputs 10 to 40. Revenue is price times quantity." loading="lazy">
+  <figcaption>Average total cost is total cost divided by output, and is the sum of average fixed and variable cost.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-economics-production-and-business-costs--05-revenue-costs-profit.webp" width="900" height="920" alt="A firm sells 1,000 units at $50. Total revenue is $50,000. Total costs of $35,000 are fixed costs $10,000 plus variable costs $25,000. Profit is $15,000. Average total cost is $35,000 divided by 1,000, which is $35 per unit, leaving $15 per unit of the $50 price." loading="lazy">
+  <figcaption>The lesson example in pictures: $50,000 revenue less $35,000 costs leaves $15,000 profit, and average cost is $35 a unit.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

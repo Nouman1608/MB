@@ -123,6 +123,12 @@ Market segmentation divides a market into groups of customers who share characte
 
 Segmentation helps because the product, price, promotion and place can then be chosen to suit that group. A stall selling energy bars to marathon runners might advertise in a running magazine (lifestyle) and sell at race events (place). Segmenting has a cost: the business must research each segment and may need separate products or adverts.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-marketing--02-market-segmentation.webp" width="900" height="860" alt="Four cards show a market split by age, location, gender and socio-economic group. Each group of people is a segment. Each segment can be given its own promotion and products." loading="lazy">
+  <figcaption>A market can be segmented by age, location, gender or socio-economic group.</figcaption>
+</figure>
+
+
 ## 2.4 The marketing mix
 
 The marketing mix is the combination of the four Ps: product, price, promotion and place. It matters because customers react to the whole offer, not to one part of it.
@@ -155,6 +161,11 @@ Year 3 to year 4: (25 - 24) / 24 × 100 = **+4.2%**. Sales have almost stopped r
   <figcaption>The size of the percentage change in sales shows which life-cycle stage a product is in.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-marketing--04-product-life-cycle.webp" width="900" height="950" alt="Illustrative sales curve over time in four stages: introduction (low sales), growth (rising fast), maturity (peak, levelling), decline (falling). A dashed line shows an extension strategy lifting sales again. Promotion and pricing change at each stage." loading="lazy">
+  <figcaption>The product life cycle, with an extension strategy shown dashed.</figcaption>
+</figure>
+
 
 ### Pricing methods
 
@@ -171,6 +182,11 @@ The specification does not give a cost-plus formula, so this is the standard for
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/ocr-gcse-business-marketing--07-cost-plus-promotion.webp" width="900" height="810" alt="Two stacked bars for a loaf costing 1.80 pounds. With a 50 percent mark-up the price is 2.70, made of cost 1.80 and profit 0.90. A 20 percent promotion removes 0.54, giving a price of 2.16 and a profit of only 0.36. A banner says volume must rise, to about 2.5 times as many loaves for the same profit." loading="lazy">
   <figcaption>A 20% promotion cuts profit per loaf from 0.90 to 0.36 pounds, so sales volume must rise.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-marketing--05-pricing-methods.webp" width="900" height="990" alt="A graph shows skimming starting high and falling, and penetration starting low and rising, both towards the same price. Cost-plus adds a mark-up to cost (6 + 1.5 = 7.5). Competitive pricing matches rivals (5.00, 5.20, 5.10 so 5.10). Promotional pricing is a short-term cut (8 to 6)." loading="lazy">
+  <figcaption>Skimming, penetration, cost-plus, competitive and promotional pricing.</figcaption>
 </figure>
 
 
@@ -205,6 +221,12 @@ Place is how products and services reach customers through digital and physical 
 
 The four Ps must send one message. A luxury chocolate with a high price needs fine packaging, stylish promotion and sale through upmarket shops. Selling it in a pound shop undermines the price. When writing about a case, say what each P is, then whether they fit one another.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-business-business-activity-marketing-and-people--05-mix-consistency.webp" width="900" height="930" alt="Two sets of price, packaging and retailer sliders. Consistent: all at premium. Inconsistent: premium price with budget packaging and retailer." loading="lazy">
+  <figcaption>The marketing mix must be consistent: a premium price with poor packaging and discount retailers fails.</figcaption>
+</figure>
+
+
 ### Using the mix to make decisions
 
 Managers use the mix to decide what to do next. Falling sales might lead to a promotional price. A new competitor might lead to a better design. A new target market might lead to a different advertising medium.
@@ -231,6 +253,11 @@ Pembrook grew faster than the market, so its share rose one percentage point. A 
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/ocr-gcse-business-marketing--04-mix-decisions.webp" width="900" height="880" alt="Three rows run from a situation to the P to change to the decision: falling sales, price, a promotional price; a new competitor, product, a better design; a new target market, promotion, a different advertising medium." loading="lazy">
   <figcaption>A change in the situation points to one P of the mix to adjust.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-marketing--07-marketing-mix.webp" width="900" height="1230" alt="The customer sits among four linked boxes: Product, Price, Place, Promotion. Arrows show they interact. A dashed frame shows legal controls limit all four. A premium mix needs a luxury product, high price and glossy advertising. Technology adds e-commerce and social media." loading="lazy">
+  <figcaption>The four Ps work together, within legal limits.</figcaption>
 </figure>
 
 

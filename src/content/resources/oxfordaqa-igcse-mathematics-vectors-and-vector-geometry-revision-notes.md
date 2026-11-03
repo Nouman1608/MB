@@ -125,12 +125,6 @@ So →MN = −½**a** + ⅙**b**, or (**b** − 3**a**)/6.
 * **a − b or b − a?** They are negatives. Check the order by asking which way the arrow points.
 * **→AB or →BA?** Opposite vectors with opposite signs.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-mathematics-0580-vectors-and-magnitude--01-vector-between-points.webp" width="900" height="1020" alt="Grid with P(-3,5) and Q(4,-1). Going from P to Q is 7 right and 6 down, so PQ is the column vector (7, -6). QP goes the other way, (-7, 6), so QP = -PQ." loading="lazy">
-  <figcaption>Finish minus start gives the column vector; the reverse vector has both signs changed.</figcaption>
-</figure>
-
-
 ## More worked reminders
 
 **Reminder: a vector from coordinates.** C is (−4, 6) and D is (3, −2). Then →CD = (3 − (−4), −2 − 6) = (7, −8). Its negative is →DC = (−7, 8).
@@ -168,12 +162,6 @@ The two diagonals are →AC and →BD. Notice that →BD uses the route B to A t
 | Collinear | On one straight line |
 | Resultant | The single vector equal to a sum of vectors |
 | Midpoint | The point halfway along a line |
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-mathematics-0580-vectors-and-magnitude--04-scalar-multiples.webp" width="900" height="866" alt="r = (6,-4) with 3r = (18,-12) three times as long, half r = (3,-2) half as long, and -2r = (-12,8) twice as long and reversed. All lie along the same line." loading="lazy">
-  <figcaption>Multiplying by k scales both entries and keeps the arrow parallel to r.</figcaption>
-</figure>
-
 
 ## Exam technique
 
@@ -213,6 +201,22 @@ The two diagonals are →AC and →BD. Notice that →BD uses the route B to A t
 10. 3k + 1 = 10 gives k = 3. Check the lower entry: −3 + 4 = 1.
 11. No. (−6, 10) would need a multiple of 3 on the top (−6 = −3 × 2), but −3 × (−5) = 15, not 10.
 12. →AX = ⅕→AB. The line is split into 1 + 4 = 5 equal parts.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-mathematics-vectors-and-vector-geometry--01-commutative-associative-parallelogram.webp" width="900" height="1180" alt="a=(2,-3) and b=(5,4). Going along a then b, or b then a, reaches (7,1), the two routes round a parallelogram. (a+b)+c and a+(b+c) both equal (6,7) for c=(-1,6). a-b=(-3,-7) but b-a=(3,7)." loading="lazy">
+  <figcaption>Adding in either order reaches the same point, but subtraction order reverses the vector.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-vectors-and-magnitude--01-vector-between-points.webp" width="900" height="1020" alt="Grid with P(-3,5) and Q(4,-1). Going from P to Q is 7 right and 6 down, so PQ is the column vector (7, -6). QP goes the other way, (-7, 6), so QP = -PQ." loading="lazy">
+  <figcaption>Finish minus start gives the column vector; the reverse vector has both signs changed.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-vectors-and-magnitude--04-scalar-multiples.webp" width="900" height="866" alt="r = (6,-4) with 3r = (18,-12) three times as long, half r = (3,-2) half as long, and -2r = (-12,8) twice as long and reversed. All lie along the same line." loading="lazy">
+  <figcaption>Multiplying by k scales both entries and keeps the arrow parallel to r.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

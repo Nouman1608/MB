@@ -137,6 +137,12 @@ The iris has two sets of muscles that work **antagonistically** (one contracts w
 
 This is a reflex: light receptors in the retina are the receptors, and the iris muscles are the effectors.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-coordination-and-response--04-pupil-reflex.webp" width="900" height="960" alt="Two front views of the eye. Bright light: pupil narrows, less light enters. Dim light: pupil widens, more light enters. Extended panel: in bright light circular muscles contract and radial relax; in dim light radial contract and circular relax." loading="lazy">
+  <figcaption>The pupil narrows in bright light and widens in dim light because two sets of iris muscles work against each other.</figcaption>
+</figure>
+
+
 ### Accommodation
 
 **Accommodation** is changing the shape of the lens to focus on near or distant objects.
@@ -298,6 +304,12 @@ percentage increase = 50 ÷ 85 × 100 = 58.8 % ≈ 59 %
 ```
 
 Explanation: glucose from digested food is absorbed, so the concentration rises above the set point. The pancreas detects this and releases more insulin. Insulin makes the liver convert glucose into glycogen, so the concentration falls back to 85 by 120 minutes.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-coordination-and-response--05-blood-glucose-feedback.webp" width="900" height="1290" alt="Extended. Two loops keep blood glucose near its set point: after a meal insulin makes the liver store glucose as glycogen so glucose falls; between meals glucagon makes the liver release glucose so it rises. The sketch graph uses the lesson example: 5.0 to 8.0 mmol per dm3 in 30 minutes (60% rise) then 5.2 by 120 minutes." loading="lazy">
+  <figcaption>Each response reverses the change, returning glucose towards the set point.</figcaption>
+</figure>
+
 
 ### Type 1 diabetes
 

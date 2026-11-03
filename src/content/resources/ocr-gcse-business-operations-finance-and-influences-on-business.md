@@ -72,12 +72,6 @@ components.
   of the Business 2 paper may require candidates to draw on Business 1
   content.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/aqa-gcse-business-business-operations--05-customer-service-chain.webp" width="900" height="850" alt="Three methods of good service (product knowledge, customer engagement, after-sales service). Good service leads to a satisfied, loyal customer who spends more so profit rises. Poor service leads to an unhappy customer, bad word of mouth and falling revenue." loading="lazy">
-  <figcaption>Good service builds loyalty and profit; poor service damages reputation and revenue.</figcaption>
-</figure>
-
-
 ## Why Business 2 assumes Business 1
 
 The specification states directly that Component 02 "assumes
@@ -176,3 +170,9 @@ OCR, *GCSE (9-1) in Business (J204) Specification*, Version 2.0
 and influences on business,
 https://www.ocr.org.uk/Images/304213-specification-accredited-gcse-business-j204.pdf,
 fetched and verified in full 2026-09-02.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-business-business-operations--05-customer-service-chain.webp" width="900" height="850" alt="Three methods of good service (product knowledge, customer engagement, after-sales service). Good service leads to a satisfied, loyal customer who spends more so profit rises. Poor service leads to an unhappy customer, bad word of mouth and falling revenue." loading="lazy">
+  <figcaption>Good service builds loyalty and profit; poor service damages reputation and revenue.</figcaption>
+</figure>
+

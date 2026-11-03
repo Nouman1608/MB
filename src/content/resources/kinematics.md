@@ -256,12 +256,6 @@ it's the same acceleration equation, giving a negative value.
 whether the graph in front of you plots distance or speed on the vertical
 axis before deciding what a gradient or an area actually represents.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/kinematics--05-same-shape.webp" width="900" height="975" alt="Four small graphs compare the same line shapes. A sloping line is constant speed on a distance-time graph but constant acceleration on a speed-time graph. A flat line is rest on distance-time but constant speed on speed-time." loading="lazy">
-  <figcaption>The same line shape means different things on the two graphs.</figcaption>
-</figure>
-
-
 ## Quick revision checklist
 
 - Scalar vs vector: which quantities are which, and why it matters for
@@ -286,3 +280,9 @@ single quantity, used throughout collisions and explosions questions
 
 *Written against Cambridge O Level Physics 5054, 2026–2028 series. Always
 check the current syllabus for your examination year.*
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/kinematics--05-same-shape.webp" width="900" height="975" alt="Four small graphs compare the same line shapes. A sloping line is constant speed on a distance-time graph but constant acceleration on a speed-time graph. A flat line is rest on distance-time but constant speed on speed-time." loading="lazy">
+  <figcaption>The same line shape means different things on the two graphs.</figcaption>
+</figure>
+

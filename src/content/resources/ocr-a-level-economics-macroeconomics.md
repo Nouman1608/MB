@@ -73,32 +73,6 @@ Microeconomics and Macroeconomics content.
   including the role of a central bank and international bodies such
   as the IMF and World Bank.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ocr-a-level-economics-macroeconomics--01-circular-flow.webp" width="900" height="980" alt="Households and firms pass spending and income round a loop; saving, taxes and imports leak out and investment, government spending and exports flow in." loading="lazy">
-  <figcaption>Leakages equal injections, so national income is steady; injections above leakages raise it.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ocr-a-level-economics-macroeconomics--02-ad-shift.webp" width="900" height="1020" alt="Aggregate demand shifts right from AD1 to AD2 along an upward-sloping SRAS, so equilibrium moves from E1 to E2 with higher output and price level. A vertical LRAS shows spare capacity remains." loading="lazy">
-  <figcaption>A rise in a component of AD (C, I, G or X minus M) shifts the whole AD curve and raises output and the price level.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ocr-a-level-economics-macroeconomics--04-lorenz-gini.webp" width="900" height="976" alt="A Lorenz curve bows below the equality line: the poorest half of households get a quarter of income. The Gini coefficient is area A divided by A plus B, here one third." loading="lazy">
-  <figcaption>The bigger the gap between the Lorenz curve and the equality line, the higher the Gini coefficient.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ocr-a-level-economics-macroeconomics--06-laffer-curve.webp" width="900" height="910" alt="Tax revenue rises with the tax rate to a peak, then falls. Points X (20%) and Y (80%) raise the same revenue, so beyond the peak cutting the rate raises revenue." loading="lazy">
-  <figcaption>Beyond the revenue-maximising rate, a higher tax rate lowers tax revenue.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ocr-a-level-economics-macroeconomics--07-exchange-rate.webp" width="900" height="910" alt="Demand for pounds shifts right from D1 to D2 against a fixed supply S, so the price of a pound rises from 1.50 to 1.60 dollars. The pound has appreciated." loading="lazy">
-  <figcaption>A rise in demand for a currency makes it appreciate, making exports dearer and imports cheaper.</figcaption>
-</figure>
-
-
 ## Why the five sub-topics form one connected argument
 
 The specification's own framing of this component matters: it states
@@ -161,6 +135,11 @@ is the initial injection).
   fiscal and monetary decisions in exam scenarios.
 
 <figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-macroeconomics--02-ad-shift.webp" width="900" height="1020" alt="Aggregate demand shifts right from AD1 to AD2 along an upward-sloping SRAS, so equilibrium moves from E1 to E2 with higher output and price level. A vertical LRAS shows spare capacity remains." loading="lazy">
+  <figcaption>A rise in a component of AD (C, I, G or X minus M) shifts the whole AD curve and raises output and the price level.</figcaption>
+</figure>
+
+<figure class="topic-figure">
   <img src="https://img.marlbridge.com/ocr-a-level-economics-macroeconomics--05-phillips-curve.webp" width="900" height="910" alt="The short-run Phillips curve slopes down, so lower unemployment (A to B) brings higher inflation. Higher expectations shift it up to SRPC2 and the economy ends at C on the vertical long-run curve at the NAIRU." loading="lazy">
   <figcaption>In the short run there is a trade-off; in the long run unemployment returns to the NAIRU.</figcaption>
 </figure>
@@ -193,3 +172,24 @@ OCR, *A Level in Economics (H460) Specification*, version 3.0 (June
 2026), Section 2d, Content of Component 2: Macroeconomics (H460/02),
 https://www.ocr.org.uk/Images/536455-specification-accredited-a-level-gce-economics-h460.pdf,
 fetched and verified in full 2026-09-02.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-macroeconomics--01-circular-flow.webp" width="900" height="980" alt="Households and firms pass spending and income round a loop; saving, taxes and imports leak out and investment, government spending and exports flow in." loading="lazy">
+  <figcaption>Leakages equal injections, so national income is steady; injections above leakages raise it.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-macroeconomics--04-lorenz-gini.webp" width="900" height="976" alt="A Lorenz curve bows below the equality line: the poorest half of households get a quarter of income. The Gini coefficient is area A divided by A plus B, here one third." loading="lazy">
+  <figcaption>The bigger the gap between the Lorenz curve and the equality line, the higher the Gini coefficient.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-macroeconomics--06-laffer-curve.webp" width="900" height="910" alt="Tax revenue rises with the tax rate to a peak, then falls. Points X (20%) and Y (80%) raise the same revenue, so beyond the peak cutting the rate raises revenue." loading="lazy">
+  <figcaption>Beyond the revenue-maximising rate, a higher tax rate lowers tax revenue.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-macroeconomics--07-exchange-rate.webp" width="900" height="910" alt="Demand for pounds shifts right from D1 to D2 against a fixed supply S, so the price of a pound rises from 1.50 to 1.60 dollars. The pound has appreciated." loading="lazy">
+  <figcaption>A rise in demand for a currency makes it appreciate, making exports dearer and imports cheaper.</figcaption>
+</figure>
+

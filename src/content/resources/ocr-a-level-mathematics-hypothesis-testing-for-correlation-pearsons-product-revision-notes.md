@@ -82,11 +82,6 @@ The specification excludes calculating r. You are given it, or you are given a p
   <figcaption>The same sample r can lead to different decisions depending on the alternative hypothesis and significance level.</figcaption>
 </figure>
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/edexcel-ial-mathematics-probability-and-correlation-and-regression--09-c-sample-size.webp" width="900" height="850" alt="Graph of the 5% one-tail critical value of r against n, falling with n. The line r = 0.5 is below the critical value at n = 6 (0.7293) and above it at n = 30 (0.3061), crossing at n = 12." loading="lazy">
-  <figcaption>A larger sample means a smaller r is enough to reject H0.</figcaption>
-</figure>
-
 
 ## Reading r from a scatter diagram
 
@@ -103,11 +98,6 @@ Only the first two rows show a strong linear pattern. For the curve, a test on r
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/edexcel-ial-mathematics-probability-and-correlation-and-regression--01-c-what-r-shows.webp" width="900" height="1100" alt="Six scatter diagrams of 12 points with computed r: 1, about 0.96, about 0.49, about -0.10, about -0.96 and -1. Closer to a line means r nearer 1 or -1 and the sign gives the direction." loading="lazy">
   <figcaption>How close the points lie to a straight line, and which way it slopes, decide r.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/edexcel-ial-mathematics-probability-and-correlation-and-regression--04-c-r-straight-only.webp" width="900" height="930" alt="Two exact parabolas, y = (x-5)^2 and y = x^2, each with r = 0 and a flat best straight line." loading="lazy">
-  <figcaption>A perfect curved relationship can still give r = 0, because r only measures straight-line fit.</figcaption>
 </figure>
 
 <figure class="topic-figure">
@@ -189,6 +179,22 @@ Critical values below are supplied as data and computed to 4 decimal places.
 10. r is unchanged, because the scaling is by a positive number.
 11. No. A third variable such as cold weather could drive both; the test shows association only.
 12. The critical value is lower for n = 30 (0.3061 at 5% one-tail) than for n = 6 (0.7293), so 0.5 passes the first and fails the second.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-mathematics-probability-and-correlation-and-regression--03-c-interpolate-extrapolate.webp" width="900" height="910" alt="The same regression line with the data range 1 to 8 years shaded. A prediction at 6.5 years (82.4 pounds) is inside the range; at 12 years (122 pounds) it is outside and unreliable." loading="lazy">
+  <figcaption>Predict inside the range of the data, not outside it.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-mathematics-probability-and-correlation-and-regression--04-c-r-straight-only.webp" width="900" height="930" alt="Two exact parabolas, y = (x-5)^2 and y = x^2, each with r = 0 and a flat best straight line." loading="lazy">
+  <figcaption>A perfect curved relationship can still give r = 0, because r only measures straight-line fit.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-mathematics-probability-and-correlation-and-regression--09-c-sample-size.webp" width="900" height="850" alt="Graph of the 5% one-tail critical value of r against n, falling with n. The line r = 0.5 is below the critical value at n = 6 (0.7293) and above it at n = 30 (0.3061), crossing at n = 12." loading="lazy">
+  <figcaption>A larger sample means a smaller r is enough to reject H0.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

@@ -68,6 +68,12 @@ Must-know distinctions:
 - A photon is absorbed only if its energy equals a level gap exactly. Other photons pass through.
 - A hot dense source gives a continuous spectrum; a hot thin gas gives lines.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-astronomy-and-cosmology--06-aphy-astro-redshift.webp" width="900" height="980" alt="Hydrogen absorption lines at 434.0, 486.1 and 656.3 nm in the laboratory are shifted to 442.7, 495.8 and 669.4 nm in a distant galaxy, all by the same fraction z = 0.020. z = delta lambda / lambda = v/c gives a recession speed of about 6.0e6 m/s." loading="lazy">
+  <figcaption>Spectral lines of a receding galaxy shift to longer wavelength by z = v/c.</figcaption>
+</figure>
+
+
 ## Diffraction grating (5.5.2(g), (h))
 
 Method for a grating question:
@@ -115,6 +121,12 @@ Unknown wavelength from a grating: 200 lines per mm, first order at 7.0°. d = 5
 
 Temperature ratio: star P peaks at 400 nm and star Q at 1200 nm. Q is three times as long, so P is three times as hot in kelvin.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-astronomy-and-cosmology--01-aphy-astro-parallax.webp" width="900" height="1000" alt="Earth at opposite ends of its orbit sees a nearby star shift against far more distant stars. The parallax angle p is the angle at the star subtended by 1 AU. For p in arcseconds, d in parsecs is 1/p; 0.0625 arcsec gives 16.0 pc or 52.3 ly. The drawing is not to scale." loading="lazy">
+  <figcaption>Parallax angle p subtends 1 AU at the star, so d (pc) = 1/p (arcsec).</figcaption>
+</figure>
+
+
 ## Must-know distinctions
 
 - Emission line spectrum: bright lines, hot thin gas. Absorption line spectrum: dark lines, cooler gas in front of a continuous source.
@@ -154,6 +166,12 @@ Temperature ratio: star P peaks at 400 nm and star Q at 1200 nm. Q is three time
 8. L ∝ r², so the larger star is 9 times more luminous.
 9. E = hf = 6.63 × 10⁻³⁴ × 6.0 × 10¹⁴ = 3.98 × 10⁻¹⁹ J, which is 2.49 eV.
 10. Atoms absorb photons matching their level gaps. These are re-emitted in all directions, so the beam loses those wavelengths.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-astronomy-and-cosmology--02-aphy-astro-inverse-square.webp" width="900" height="1130" alt="A star emits light in a widening cone. At 2d the same light covers 4 times the area and at 3d 9 times, so the flux falls to F/4 and F/9. A standard candle has known L, so measuring F gives d; the worked example gives 5.6e18 m." loading="lazy">
+  <figcaption>Flux falls as 1/d^2, so a standard candle of known luminosity gives its distance.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

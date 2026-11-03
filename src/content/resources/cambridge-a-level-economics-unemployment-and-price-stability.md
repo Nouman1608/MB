@@ -155,6 +155,11 @@ Fiscal cost      = 6,600 + 4,950 = 11,550 million cu
   <figcaption>Fiscal cost is 11,550m cu against 33,000m cu of lost output.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-basic-economic-problem--05-ppc-points.webp" width="900" height="1080" alt="An illustrative PPC with Food and Machines axes. A on the curve means all resources fully used, B inside means idle or wasted resources, C beyond the curve cannot be reached with current resources." loading="lazy">
+  <figcaption>Points inside, on and beyond the PPC show how well resources are used.</figcaption>
+</figure>
+
 
 ## 4.6.1: inflation, deflation and disinflation
 
@@ -200,6 +205,11 @@ Inflation fell from 5.6% to 2.5% while the CPI kept rising: this is disinflation
   <figcaption>The same price rises give different inflation for different spending patterns.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-economics-measurement-of-macroeconomic-performance--03-index-numbers.webp" width="900" height="980" alt="Bars have widths equal to weights (food 50%, housing 30%, transport 20%) and heights equal to item indices 104, 106 and 96 against a base-year line at 100. The weighted average is 103, meaning prices are 3% above the base year." loading="lazy">
+  <figcaption>Weights make bigger spending items count more in an index anchored at 100.</figcaption>
+</figure>
+
 
 ## 4.6.3: nominal and real data
 
@@ -219,6 +229,11 @@ Real growth is close to nominal growth minus inflation (5.0 − 5.6 = −0.6). T
   <figcaption>Nominal pay rose 5.0% in year 1 but real pay fell 0.6%.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-economics-measurement-of-macroeconomic-performance--04-real-vs-nominal-gdp.webp" width="900" height="880" alt="Line graph over five years: real and nominal GDP both start at 1000 in the base year; real reaches 1100 while nominal reaches 1342 because prices rose. The gap is higher prices only. Real GDP divided by population gives real GDP per capita." loading="lazy">
+  <figcaption>Real data strips out inflation so genuine output change can be compared.</figcaption>
+</figure>
+
 
 ## 4.6.4: causes of inflation
 
@@ -236,6 +251,16 @@ A **wage-price spiral** can link the two: higher prices lead workers to demand h
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/cambridge-a-level-economics-unemployment-and-price-stability--05-pi-pull-vs-push.webp" width="900" height="1060" alt="Two aggregate demand and short-run aggregate supply diagrams for an invented economy that starts at price level 100 and real output 500. In the demand-pull case aggregate demand shifts right and the new equilibrium is price level 108 and output 520, so prices rise 8 percent and output rises. In the cost-push case short-run aggregate supply shifts left and the new equilibrium is price level 108 and output 470, so prices also rise 8 percent but output falls. Rising prices with falling output is stagflation." loading="lazy">
   <figcaption>Prices rise 8% in both cases but output rises with demand-pull and falls with cost-push.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-objectives-of-government--02-inflation-causes.webp" width="900" height="1090" alt="Two illustrative AD/AS diagrams. Demand-pull: AD shifts right and the price level rises. Cost-push: AS shifts up and left and the price level rises. Boxes give the cause chain and the policy response from the lesson." loading="lazy">
+  <figcaption>Demand-pull starts with demand; cost-push starts with rising costs.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-aggregate-demand-supply--04-supply-side-shock.webp" width="900" height="910" alt="A rise in world oil prices lifts production costs and shifts SRAS left from SRAS1 to SRAS2. Equilibrium moves from output 90, price level 65 to output 65, price level 77.5. LRAS does not move." loading="lazy">
+  <figcaption>A cost shock shifts SRAS left, raising prices and cutting output, without changing underlying capacity.</figcaption>
 </figure>
 
 

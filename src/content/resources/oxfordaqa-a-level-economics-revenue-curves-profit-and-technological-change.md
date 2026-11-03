@@ -218,6 +218,11 @@ The break-even output is where 30,000 + 8Q = 90,000 + 3Q, so 5Q = 60,000 and Q =
   <figcaption>Automation lowers average cost only at large enough output.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-revenue-curves-profit-and-technological-change--07-patent-case.webp" width="900" height="810" alt="Columns in millions: with a ten-year patent revenue 9 exceeds cost 5, a net gain of 4. Without a patent a rival copies for 0.2 and the inventor loses the 5." loading="lazy">
+  <figcaption>A patent protects the reward that pays for the risk of invention.</figcaption>
+</figure>
+
 
 ## Common errors
 

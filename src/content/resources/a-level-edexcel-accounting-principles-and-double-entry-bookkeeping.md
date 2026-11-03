@@ -167,6 +167,11 @@ consistently reward.
   <figcaption>Each accounting concept has a measurable effect on profit.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-edexcel-accounting-principles-and-double-entry-bookkeeping--08-sale-or-return.webp" width="900" height="1010" alt="Goods with selling price 6,000 pounds and cost 4,000 are sent to a customer who has not accepted them by the year end. Revenue and trade receivables each fall by 6,000 and closing inventory rises by 4,000 at cost, so profit falls by 2,000, from 38,500 to 36,500." loading="lazy">
+  <figcaption>Until the customer accepts, goods on sale or return are inventory at cost, not revenue.</figcaption>
+</figure>
+
 
 ## Capital versus revenue expenditure
 

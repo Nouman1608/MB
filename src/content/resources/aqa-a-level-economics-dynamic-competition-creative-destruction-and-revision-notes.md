@@ -187,17 +187,6 @@ Evaluation of contestability:
 - Few real markets have zero sunk costs, and incumbents can raise them (heavy advertising, exclusive contracts, loyalty schemes).
 - So think about how contestable a market is, and about what raises or lowers sunk costs.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/aqa-a-level-economics-dynamic-competition-creative-destruction-and--05-hit-and-run-sunk-costs.webp" width="900" height="910" alt="Two cases of an entrant earning 36,000 over six months against a 240,000 entry cost. If 90% is recoverable the sunk cost is 24,000 and net is +12,000, so hit-and-run pays. If only 40% is recoverable the sunk cost is 144,000 and net is -108,000, needing 24 months to recover, so it does not pay." loading="lazy">
-  <figcaption>Hit-and-run entry only pays when sunk costs are low.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/aqa-a-level-economics-dynamic-competition-creative-destruction-and--06-entry-deterring-price.webp" width="900" height="890" alt="Price scale with the entrant cost of 11 dashed. At price 14 the incumbent makes 36,000 but an entrant with cost 11 can undercut and profit. At price 10 the incumbent makes 10,000 and an entrant would make a loss. High sunk costs would let the incumbent hold 14." loading="lazy">
-  <figcaption>A contestable market can force an incumbent to price below the monopoly level to deter entry.</figcaption>
-</figure>
-
-
 ## Quick self-test
 
 1. Define non-price competition.
@@ -227,6 +216,17 @@ Evaluation of contestability:
 10. Large profits attract entrants whose innovations take sales and cut price, so the incumbent's margin falls.
 11. If it charged a high price, a rival could enter and take its profit, so it keeps price near average cost.
 12. High barriers, patents held by the incumbent, or entrants unable to raise finance; the incumbent may also buy or copy a rival.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-dynamic-competition-creative-destruction-and--05-hit-and-run-sunk-costs.webp" width="900" height="910" alt="Two cases of an entrant earning 36,000 over six months against a 240,000 entry cost. If 90% is recoverable the sunk cost is 24,000 and net is +12,000, so hit-and-run pays. If only 40% is recoverable the sunk cost is 144,000 and net is -108,000, needing 24 months to recover, so it does not pay." loading="lazy">
+  <figcaption>Hit-and-run entry only pays when sunk costs are low.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-dynamic-competition-creative-destruction-and--06-entry-deterring-price.webp" width="900" height="890" alt="Price scale with the entrant cost of 11 dashed. At price 14 the incumbent makes 36,000 but an entrant with cost 11 can undercut and profit. At price 10 the incumbent makes 10,000 and an entrant would make a loss. High sunk costs would let the incumbent hold 14." loading="lazy">
+  <figcaption>A contestable market can force an incumbent to price below the monopoly level to deter entry.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

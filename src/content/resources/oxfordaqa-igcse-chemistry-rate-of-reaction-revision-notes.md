@@ -83,11 +83,6 @@ A reactant curve is the mirror image: it falls steeply, then levels off.
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/oxfordaqa-igcse-chemistry-rate-of-reaction--06-mass-loss-rate.webp" width="900" height="980" alt="A flask with a cotton wool plug on a balance reads 148.25 g at the start and 147.59 g after 120 s as CO2 escapes. The 0.66 g lost gives 0.0055 g/s; 0.66 g / 44 = 0.015 mol gives 1.25 x 10^-4 mol/s." loading="lazy">
-  <figcaption>Mass lost as gas over time gives the rate, in g/s or in mol/s after converting to moles.</figcaption>
-</figure>
-
-<figure class="topic-figure">
   <img src="https://img.marlbridge.com/rates-of-reaction-and-reversible-reactions--02-rate-factors.webp" width="900" height="1154" alt="Before/after boxes show more particles per volume, a gas squeezed by a piston, a cube crushed into eight (area doubles), and more particles with enough energy at higher temperature." loading="lazy">
   <figcaption>Each factor increases collision frequency or the share of collisions with enough energy.</figcaption>
 </figure>
@@ -127,6 +122,12 @@ A reactant curve is the mirror image: it falls steeply, then levels off.
 
 **Surface area check.** A 4 cm × 4 cm × 4 cm block has surface area 6 × 16 = 96 cm². Cut into sixty-four 1 cm cubes, it has 64 × 6 = 384 cm². Same volume, four times the surface.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-chemistry-rate-of-reaction--07-cuboid-surface-area.webp" width="900" height="800" alt="An isometric 4 x 2 x 2 cm cuboid has surface area 2(8+8+4) = 40 cm2. Cut into two 2 cm cubes the area is 48 cm2 while the volume stays 16 cm3; the two new faces add 8 cm2. Example sizes are illustrative." loading="lazy">
+  <figcaption>Cutting a solid keeps the volume but adds new faces, so surface area rises.</figcaption>
+</figure>
+
+
 ## Required practical: factors affecting rate
 
 **Method in steps: planning**
@@ -153,6 +154,11 @@ A reactant curve is the mirror image: it falls steeply, then levels off.
 - **Systematic error** (gas lost each time before the bung goes in) shifts every result the same way; repeats do not remove it.
 
 **Safety points.** Eye protection with acids. No flames near hydrogen. Ventilate if sulfur dioxide forms, as in the thiosulfate reaction.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-chemistry-rate-of-reaction--06-mass-loss-rate.webp" width="900" height="980" alt="A flask with a cotton wool plug on a balance reads 148.25 g at the start and 147.59 g after 120 s as CO2 escapes. The 0.66 g lost gives 0.0055 g/s; 0.66 g / 44 = 0.015 mol gives 1.25 x 10^-4 mol/s." loading="lazy">
+  <figcaption>Mass lost as gas over time gives the rate, in g/s or in mol/s after converting to moles.</figcaption>
+</figure>
 
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/oxfordaqa-igcse-chemistry-rate-of-reaction--10-required-practical-plan.webp" width="900" height="930" alt="A flask of thiosulfate stands on a paper cross watched from above, with a thermometer. Change the temperature, measure the time for the cross to vanish, and keep volumes and concentrations the same. Risks: SO2 irritant, eye protection, repeat runs and take a mean." loading="lazy">

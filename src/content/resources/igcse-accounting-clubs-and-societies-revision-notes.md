@@ -59,21 +59,6 @@ These revision notes cover syllabus section 5.5 Clubs and societies in Cambridge
 | Accumulated fund | The club's capital: total assets less total liabilities |
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-accounting-clubs-and-societies--05-rp-account-layout.webp" width="900" height="1028" alt="Receipts 20,700 including the opening balance 2,400; payments 16,370 plus the closing balance 4,330 as balancing figure. Nothing is adjusted." loading="lazy">
-  <figcaption>The closing balance is the balancing figure.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-accounting-clubs-and-societies--09-sofp-balances.webp" width="900" height="860" alt="Assets of 17,560 (boats 12,150, cash 4,330, other current assets 1,080) equal accumulated fund 14,280 plus surplus 2,110 plus liabilities 1,170." loading="lazy">
-  <figcaption>Assets and fund plus liabilities both total 17,560.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/oxfordaqa-a-level-accounting-clubs-and-non-profit-making-organisations--03-bar-profit.webp" width="900" height="866" alt="Bar takings of 26,300 split into cost of sales 14,580, steward wages 5,200 and bar profit 6,520, with gross profit 11,720. Only the bar profit goes to the income and expenditure account, as one line. Cost of sales is opening 1,850 plus purchases 14,870 minus closing 2,140." loading="lazy">
-  <figcaption>A club bar appears in the income and expenditure account as one bar profit line.</figcaption>
-</figure>
-
-<figure class="topic-figure">
   <img src="https://img.marlbridge.com/oxfordaqa-a-level-accounting-clubs-and-non-profit-making-organisations--02-subscriptions-account.webp" width="900" height="860" alt="A T-account for subscriptions shows opening arrears 360 and advance 540, bank 18,450, closing advance 690 and arrears 420. The balancing figure of 18,360 is the income. Arrears are an asset and advance payments a liability." loading="lazy">
   <figcaption>The balancing figure in the subscriptions account is the income for the year.</figcaption>
 </figure>
@@ -130,12 +115,6 @@ Liabilities 90 + 200             =   290
 Accumulated fund                 = 9,280
 ```
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-accounting-clubs-and-societies--07-insurance-prepaid.webp" width="900" height="830" alt="Insurance paid 780, plus 180 prepaid at the start, less 195 prepaid at the end, gives an expense of 765." loading="lazy">
-  <figcaption>Insurance expense is 780 + 180 − 195 = 765.</figcaption>
-</figure>
-
-
 ## Must-know distinctions
 
 | Compare | Key difference |
@@ -147,17 +126,6 @@ Accumulated fund                 = 9,280
 | Accumulated fund vs capital | Same idea; a club uses the name accumulated fund |
 | Surplus vs profit | Same calculation; a club uses the names surplus and deficit |
 | Net result vs full figures | Only the profit or loss of an activity appears in the income and expenditure account, not its sales and costs |
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-accounting-clubs-and-societies--04-rp-vs-ie.webp" width="900" height="1055" alt="Four Kelmarsh items shown in both accounts: the 1,500 boat is a payment but not expenditure (only 1,350 depreciation); rent paid 2,400 becomes expenditure 2,500; subscriptions received 9,150 become income 9,330; opening cash is never income." loading="lazy">
-  <figcaption>The receipts and payments account follows cash; the income and expenditure account follows the year.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-accounting-clubs-and-societies--06-kelmarsh-subscriptions.webp" width="900" height="1030" alt="Subscriptions account totalling 9,890 with income 9,330 as the balancing figure. The 90 write-off is separate expenditure; the allowance rises from 30 to 45, an extra 15 of expenditure." loading="lazy">
-  <figcaption>Income of 9,330 is the balancing figure; the 90 and the 15 are expenditure.</figcaption>
-</figure>
-
 
 ## Quick self-test
 
@@ -186,6 +154,42 @@ Accumulated fund                 = 9,280
 9. 20% of 6,400 = 1,280; new net book value 6,400 - 1,280 = 5,120.
 10. 3,500 + 800 - 3,600 = 700.
 11. 960 + 140 - 170 = 930.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-accounting-clubs-and-societies--04-rp-vs-ie.webp" width="900" height="1055" alt="Four Kelmarsh items shown in both accounts: the 1,500 boat is a payment but not expenditure (only 1,350 depreciation); rent paid 2,400 becomes expenditure 2,500; subscriptions received 9,150 become income 9,330; opening cash is never income." loading="lazy">
+  <figcaption>The receipts and payments account follows cash; the income and expenditure account follows the year.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-accounting-clubs-and-societies--05-rp-account-layout.webp" width="900" height="1028" alt="Receipts 20,700 including the opening balance 2,400; payments 16,370 plus the closing balance 4,330 as balancing figure. Nothing is adjusted." loading="lazy">
+  <figcaption>The closing balance is the balancing figure.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-accounting-clubs-and-societies--06-kelmarsh-subscriptions.webp" width="900" height="1030" alt="Subscriptions account totalling 9,890 with income 9,330 as the balancing figure. The 90 write-off is separate expenditure; the allowance rises from 30 to 45, an extra 15 of expenditure." loading="lazy">
+  <figcaption>Income of 9,330 is the balancing figure; the 90 and the 15 are expenditure.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-accounting-clubs-and-societies--07-insurance-prepaid.webp" width="900" height="830" alt="Insurance paid 780, plus 180 prepaid at the start, less 195 prepaid at the end, gives an expense of 765." loading="lazy">
+  <figcaption>Insurance expense is 780 + 180 − 195 = 765.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-accounting-clubs-and-societies--08-adjustments-table.webp" width="900" height="1006" alt="Six adjustments (depreciation, accrued expense, prepaid expense, accrued income, income in advance, irrecoverable debt and allowance) with their effect on the income and expenditure account and the statement of financial position." loading="lazy">
+  <figcaption>Each adjustment changes both statements.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-accounting-clubs-and-societies--09-sofp-balances.webp" width="900" height="860" alt="Assets of 17,560 (boats 12,150, cash 4,330, other current assets 1,080) equal accumulated fund 14,280 plus surplus 2,110 plus liabilities 1,170." loading="lazy">
+  <figcaption>Assets and fund plus liabilities both total 17,560.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-accounting-clubs-and-non-profit-making-organisations--03-bar-profit.webp" width="900" height="866" alt="Bar takings of 26,300 split into cost of sales 14,580, steward wages 5,200 and bar profit 6,520, with gross profit 11,720. Only the bar profit goes to the income and expenditure account, as one line. Cost of sales is opening 1,850 plus purchases 14,870 minus closing 2,140." loading="lazy">
+  <figcaption>A club bar appears in the income and expenditure account as one bar profit line.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

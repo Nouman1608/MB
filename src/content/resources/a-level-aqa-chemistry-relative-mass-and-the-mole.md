@@ -64,6 +64,22 @@ not expected to recall the value of the Avogadro constant, and are
 expected to report calculated results only to the limits of the least
 accurate measurement used.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-chemistry-relative-mass-and-the-mole--02-relative-atomic-mass.webp" width="900" height="960" alt="Two bars show chlorine-35 at 75% and chlorine-37 at 25%. A dashed line marks the weighted mean, 35.5, nearer the taller bar. A carbon-12 atom is shown as the exact standard of 12." loading="lazy">
+  <figcaption>Ar is the weighted mean isotope mass on a scale where carbon-12 is exactly 12, so it has no units.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-chemistry-relative-mass-and-the-mole--07-reacting-masses.webp" width="900" height="930" alt="Four stacked steps follow TiCl4 + 2Mg -&gt; Ti + 2MgCl2: 1.00 kg Ti, divided by 47.9 gives 20.9 mol, multiplied by 2 gives 41.8 mol Mg, multiplied by 24.3 gives about 1015 g (1.01 kg) of magnesium." loading="lazy">
+  <figcaption>Balanced equation, moles, mole ratio, then mass. Edexcel worked example.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-chemistry-relative-mass-and-the-mole--08-atom-economy-yield.webp" width="900" height="1050" alt="Panel one is a bar of total reactant mass 238.5 where only the 47.9 of titanium is useful, so atom economy is 20.1%. Panel two compares the possible 5.00 g with 4.25 g collected, an 85% yield." loading="lazy">
+  <figcaption>Atom economy is fixed by the equation; yield depends on the experiment.</figcaption>
+</figure>
+
+
 ## How to approach it
 
 Treat Ar and Mr as ratios against carbon-12, not as raw masses — this
@@ -118,17 +134,6 @@ number of ions depends on how many ions each formula unit releases, so
 the same moles of a solute like magnesium chloride (three ions per
 formula unit) would give a different final answer.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-level-aqa-chemistry-relative-mass-and-the-mole--01-mole-hub.webp" width="900" height="1050" alt="A hub with the amount in moles (0.50 mol of CO2) in the centre and four double-headed arrows to mass (22.0 g), particles (3.01 x 10^23), gas volume (12.0 dm3) and solution concentration times volume. Each box shows the formula linking it to moles. The gas-volume route is tagged OCR and Edexcel." loading="lazy">
-  <figcaption>The mole is the bridge between mass, particle number, gas volume and solution quantities.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-level-aqa-chemistry-relative-mass-and-the-mole--03-solution-to-ions.webp" width="900" height="960" alt="A flask of sodium chloride solution sits above four stacked steps: cm3 to dm3 gives 0.250 dm3, c times V gives 0.050 mol, times the Avogadro constant gives 3.0 x 10^22 formula units, and times 2 gives 6.0 x 10^22 ions." loading="lazy">
-  <figcaption>Convert cm3 to dm3, find moles, then particles, then multiply by the ions per formula unit.</figcaption>
-</figure>
-
-
 ## Key terms to define precisely
 
 **Relative atomic mass (Ar)** — the weighted mean mass of an atom of an
@@ -151,8 +156,23 @@ Avogadro constant, rather than treating them as interchangeable, avoids
 one of the most common calculation errors in this sub-topic.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-level-aqa-chemistry-relative-mass-and-the-mole--02-relative-atomic-mass.webp" width="900" height="960" alt="Two bars show chlorine-35 at 75% and chlorine-37 at 25%. A dashed line marks the weighted mean, 35.5, nearer the taller bar. A carbon-12 atom is shown as the exact standard of 12." loading="lazy">
-  <figcaption>Ar is the weighted mean isotope mass on a scale where carbon-12 is exactly 12, so it has no units.</figcaption>
+  <img src="https://img.marlbridge.com/a-level-aqa-chemistry-relative-mass-and-the-mole--01-mole-hub.webp" width="900" height="1050" alt="A hub with the amount in moles (0.50 mol of CO2) in the centre and four double-headed arrows to mass (22.0 g), particles (3.01 x 10^23), gas volume (12.0 dm3) and solution concentration times volume. Each box shows the formula linking it to moles. The gas-volume route is tagged OCR and Edexcel." loading="lazy">
+  <figcaption>The mole is the bridge between mass, particle number, gas volume and solution quantities.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-chemistry-relative-mass-and-the-mole--03-solution-to-ions.webp" width="900" height="960" alt="A flask of sodium chloride solution sits above four stacked steps: cm3 to dm3 gives 0.250 dm3, c times V gives 0.050 mol, times the Avogadro constant gives 3.0 x 10^22 formula units, and times 2 gives 6.0 x 10^22 ions." loading="lazy">
+  <figcaption>Convert cm3 to dm3, find moles, then particles, then multiply by the ions per formula unit.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-chemistry-relative-mass-and-the-mole--04-ideal-gas.webp" width="900" height="925" alt="Three arrows convert pressure, volume and temperature to SI units: 96.0 kPa to 96 000 Pa, 0.750 dm3 to 7.50 x 10^-4 m3 and 18 C to 291 K. Below, n = pV/RT gives 0.0298 mol and a mass of 2.11 g." loading="lazy">
+  <figcaption>Convert to Pa, m3 and K before using pV = nRT.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-chemistry-relative-mass-and-the-mole--05-empirical-formula.webp" width="900" height="1000" alt="A bar chart of moles per 100 g (C 3.33, H 6.70, O 3.33) leads to the ratio 1:2:1, the empirical formula CH2O (mass 30) and, since Mr is 180 (6 x 30), the molecular formula C6H12O6." loading="lazy">
+  <figcaption>Moles from percentages give the ratio, and Mr divided by the empirical mass gives the multiplier.</figcaption>
 </figure>
 
 

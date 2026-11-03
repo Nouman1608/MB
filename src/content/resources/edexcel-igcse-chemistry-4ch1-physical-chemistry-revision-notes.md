@@ -132,6 +132,17 @@ Particles must collide with energy **at least equal to the activation energy**. 
 | Temperature | Up | Faster particles → more frequent collisions **and** more collisions with energy ≥ Ea |
 | Catalyst added | Up | Alternative pathway with lower activation energy |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/rates-of-reaction-and-reversible-reactions--01-collision-theory.webp" width="900" height="910" alt="Two particles that collide slowly bounce apart, while fast ones with at least the activation energy react." loading="lazy">
+  <figcaption>Slow collisions bounce apart; collisions with at least E_a produce a new substance.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/rates-of-reaction-and-reversible-reactions--02-rate-factors.webp" width="900" height="1154" alt="Before/after boxes show more particles per volume, a gas squeezed by a piston, a cube crushed into eight (area doubles), and more particles with enough energy at higher temperature." loading="lazy">
+  <figcaption>Each factor increases collision frequency or the share of collisions with enough energy.</figcaption>
+</figure>
+
+
 ### Catalysts (3.12, 3.13)
 
 - Increases the rate; **chemically unchanged** at the end (same mass can be recovered).
@@ -155,6 +166,17 @@ Particles must collide with energy **at least equal to the activation energy**. 
 - ΔH: from the reactants line to the products line.
 - A catalysed profile has a **lower peak**, same start and end levels.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/rates-of-reaction-and-reversible-reactions--03-rate-graph.webp" width="900" height="1020" alt="A flask connects to a gas syringe. A graph of gas volume against time shows a steep curve for a fast reaction and a shallow one for a slow reaction, both levelling at 60 cm3." loading="lazy">
+  <figcaption>Steeper gradient means faster rate; the line flattens when the reaction has finished.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/rates-of-reaction-and-reversible-reactions--04-catalyst-profile.webp" width="900" height="860" alt="Energy against progress of reaction for an exothermic reaction. A high hump without a catalyst and a lower dashed hump with a catalyst; the arrow from reactants to hump top is E_a, smaller with a catalyst." loading="lazy">
+  <figcaption>A catalyst provides an alternative pathway with lower activation energy.</figcaption>
+</figure>
+
+
 ## (c) Reversible reactions and equilibria
 
 ### Reversible reactions (3.17, 3.18)
@@ -176,6 +198,12 @@ Reached in a **sealed container**. Two characteristics, learn them word for word
 
 - forward and reverse reactions occur at the **same rate**
 - concentrations of reactants and products **remain constant**.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/rates-of-reaction-and-reversible-reactions--06-dynamic-equilibrium.webp" width="900" height="990" alt="Rate against time: forward rate falls, reverse rate rises from zero, and they meet and stay level. Particle boxes show 12 A at the start and 4 A plus 8 B at equilibrium with fixed numbers." loading="lazy">
+  <figcaption>At equilibrium the forward and reverse rates are equal and the amounts no longer change.</figcaption>
+</figure>
+
 
 ### Shifting the position (3.21C, 3.22C) -- Paper 2 only
 
@@ -204,6 +232,11 @@ Le Chatelier's principle does not need to be named.
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/edexcel-igcse-chemistry-4ch1-physical-chemistry--01-nh4cl-reversible-tube.webp" width="900" height="940" alt="A test tube of white ammonium chloride is heated at the bottom. The solid breaks into ammonia and hydrogen chloride gases, which rise. Near the cooler top of the tube they recombine and white solid forms again. Arrows show heating drives the forward reaction and cooling drives the reverse." loading="lazy">
   <figcaption>Heating splits NH4Cl into two gases; cooling recombines them, so the reaction is reversible.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/rates-of-reaction-and-reversible-reactions--05-hydrated-anhydrous.webp" width="900" height="970" alt="Copper(II) sulfate: blue hydrated crystals turn white when heated and blue again on adding water. Cobalt(II) chloride: pink hydrated turns blue when heated and pink again with water." loading="lazy">
+  <figcaption>Heating hydrated crystals drives off water; adding water reverses the change.</figcaption>
 </figure>
 
 

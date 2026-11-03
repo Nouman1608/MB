@@ -27,12 +27,6 @@ Other useful pages: the [course hub](/boards/oxfordaqa/igcse/physics/), the [pri
 
 Power station, then step-up transformer, then transmission cables, then step-down transformer(s), then consumers. Transformers are at both ends of the cables (3.6.2 a). Be ready to label an unlabelled diagram of this chain.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/oxfordaqa-igcse-physics-transformers-and-the-national-grid--02-national-grid-route.webp" width="900" height="1160" alt="Five boxes in order: power station generator, step-up transformer, transmission cables, step-down transformer, homes. Voltage is raised before the cables and lowered after them; the cables carry alternating current." loading="lazy">
-  <figcaption>Transformers sit at both ends of the transmission cables.</figcaption>
-</figure>
-
-
 ## Why high voltage (3.6.2 b)
 
 Say it as a chain, every link:
@@ -193,6 +187,12 @@ The primary-to-secondary ratio is 20 : 1, so this is a step-down transformer.
 8. Step-up: the output (480 V) is greater than the input (12 V), and the secondary has more turns.
 9. Any two of: much lighter and smaller than a traditional transformer, uses very little power when switched on with no load, operates at high frequency (50 kHz to 200 kHz).
 10. At the end of the distribution, to reduce the voltage to a safer value for local consumers.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-physics-transformers-and-the-national-grid--02-national-grid-route.webp" width="900" height="1160" alt="Five boxes in order: power station generator, step-up transformer, transmission cables, step-down transformer, homes. Voltage is raised before the cables and lowered after them; the cables carry alternating current." loading="lazy">
+  <figcaption>Transformers sit at both ends of the transmission cables.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

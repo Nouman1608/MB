@@ -213,6 +213,12 @@ Route: anhydrous solid → solution (−25.0), then solution → hydrated solid 
 
 **Main errors**: heat loss, ignoring the container's heat capacity, incomplete combustion (soot) and fuel evaporating from the wick.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-chemical-energetics-lattice-energy-entropy-and-gibbs-free-energy--07-gibbs-vs-temperature.webp" width="900" height="1000" alt="Graph of ΔG against temperature: a straight line starting at +178 kJ per mole, sloping down at -0.165 kJ per K, crossing zero at 1079 K. Above 1079 K ΔG is negative and the reaction is feasible; below it is not. A note says feasible does not mean fast." loading="lazy">
+  <figcaption>ΔG = ΔH − TΔS gives a straight line whose intercept is ΔH and gradient is −ΔS; it crosses zero at T = ΔH/ΔS = 1079 K.</figcaption>
+</figure>
+
+
 ## Common errors
 
 - Putting the fuel's mass into q = mc∆T in place of the water's.

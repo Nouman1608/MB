@@ -95,6 +95,11 @@ Sales revenue £200,000, cost of sales £120,000, operating expenses £50,000, f
 An acid test of 0.83 is below 1, so liquid assets do not fully cover current liabilities. That need not be fatal if inventory sells quickly, so say what it depends on.
 
 <figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-business-measures-of-performance-financial-and-non-financial--01-hallbrook-ratios.webp" width="900" height="1050" alt="Paired bars compare Hallbrook Year 1 with Year 2: gross margin 40.0 to 35.0 percent, net margin 8.6 to 3.1, ROCE 15.0 to 8.3, gearing 26.8 to 34.5, acid test 1.30 to 0.88 and interest cover 7.0 to 2.7 times." loading="lazy">
+  <figcaption>Revenue rose 14.3 percent, but margins, returns, liquidity and cover all weakened.</figcaption>
+</figure>
+
+<figure class="topic-figure">
   <img src="https://img.marlbridge.com/ocr-a-level-business-measures-of-performance-financial-and-non-financial--01-hallbrook-efficiency.webp" width="900" height="990" alt="Bars for stock turnover (4.58 to 4.16 times) and debtor days (39.1 to 49.4 days) with the formulas and the lesson numbers." loading="lazy">
   <figcaption>Stock turns slow and customers take longer to pay.</figcaption>
 </figure>
@@ -226,12 +231,6 @@ A good conclusion names the single most important measure for the stakeholder in
 8. **Efficiency**.
 9. They are historic, and they omit non-financial matters such as quality or morale.
 10. A lender or bank, because interest cover shows whether profit can meet loan interest.
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ocr-a-level-business-measures-of-performance-financial-and-non-financial--01-hallbrook-ratios.webp" width="900" height="1050" alt="Paired bars compare Hallbrook Year 1 with Year 2: gross margin 40.0 to 35.0 percent, net margin 8.6 to 3.1, ROCE 15.0 to 8.3, gearing 26.8 to 34.5, acid test 1.30 to 0.88 and interest cover 7.0 to 2.7 times." loading="lazy">
-  <figcaption>Revenue rose 14.3 percent, but margins, returns, liquidity and cover all weakened.</figcaption>
-</figure>
-
 
 ## Where marks are usually lost
 

@@ -48,6 +48,21 @@ The **price mechanism** allocates resources by answering *what*, *how* and *for 
   <figcaption>In a market the price answers what to produce, how, and for whom.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-allocation-of-resources--01-economic-systems.webp" width="900" height="940" alt="Three bars show who decides what is produced. A market system is decided entirely by prices and firms. A mixed system uses markets (about 60% in the picture) plus government (about 40%). A planned economy, shown for contrast, is decided by government." loading="lazy">
+  <figcaption>A market economy lets prices decide, a mixed economy adds government, a planned economy leaves it all to government.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-allocation-of-resources--07-price-controls.webp" width="900" height="1370" alt="Equilibrium E is at price 5 and quantity 50. A maximum price of 3 gives demand 70 and supply 25, a shortage of 45. A minimum price of 7 gives demand 30 and supply 75, a surplus of 45." loading="lazy">
+  <figcaption>A maximum price below equilibrium causes a shortage; a minimum price above it causes a surplus.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-allocation-of-resources--08-tax-and-subsidy.webp" width="900" height="1370" alt="An indirect tax of 1.8 shifts supply up, raising price from 5 to 6 and cutting quantity from 50 to 40. A subsidy of 1.8 shifts supply down, cutting price from 5 to 4 and raising quantity from 50 to 60." loading="lazy">
+  <figcaption>A tax shifts supply up and a subsidy shifts it down.</figcaption>
+</figure>
+
 
 ## Demand
 
@@ -75,6 +90,11 @@ The **price mechanism** allocates resources by answering *what*, *how* and *for 
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/igcse-economics-the-allocation-of-resources--03-shifts-of-demand.webp" width="900" height="1000" alt="Three parallel demand curves: D1 original, D2 to the right (increase; at price 5 quantity 40 to 60), D3 to the left (decrease; 40 to 20). Rightward shifts come from rising income, tastes favouring the good, or a dearer substitute; leftward shifts from the opposite." loading="lazy">
   <figcaption>A shift of the whole demand curve is caused by a non-price condition such as income, tastes or the price of related goods.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-allocation-of-resources--06-price-elasticity-of-demand.webp" width="900" height="1060" alt="Three demand curves through the same point: steep (inelastic, PED below 1), curved (unit, PED = 1), flat (elastic, PED above 1). PED = % change in quantity divided by % change in price. Example: price falls 10% (5 to 4.5), quantity rises 20% (50 to 60), PED = 2, elastic; revenue rises 250 to 270." loading="lazy">
+  <figcaption>PED measures how strongly quantity demanded responds to a price change, and decides whether revenue rises or falls.</figcaption>
 </figure>
 
 
@@ -190,3 +210,9 @@ PES = % change in quantity supplied / % change in price
 5. Name two causes of market failure and one government response to each.
 
 **Answers:** 1. A movement along the curve is caused only by a change in the good's own price (an extension or contraction); a shift is caused by a change in a condition of demand, such as income or tastes, and moves the whole curve. 2. Excess supply means sellers have unsold stock, so they cut prices; price falls and quantity moves back toward equilibrium. 3. PED = % change in quantity demanded ÷ % change in price. 4. Total revenue rises, because the fall in quantity demanded is proportionally smaller than the rise in price. 5. Externalities — corrected by a tax (on a negative externality) or a subsidy (on a positive externality); public goods — corrected by direct government provision, since the market under-provides non-excludable, non-rival goods.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-allocation-of-resources--03-causes-of-market-failure.webp" width="900" height="1060" alt="Five small pictures show the causes of market failure: public goods, merit and demerit goods, external costs and benefits, abuse of monopoly power and factor immobility. The result is the wrong amount produced or used." loading="lazy">
+  <figcaption>Market failure has five causes limited to those in the 0455 syllabus.</figcaption>
+</figure>
+

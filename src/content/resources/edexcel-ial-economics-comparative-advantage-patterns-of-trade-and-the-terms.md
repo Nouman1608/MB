@@ -160,6 +160,11 @@ If Country B cuts its tariff on a good from 20% to 5%, a 100-unit import price f
   <figcaption>Lower tariffs cut the price and raise import volume.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-macroeconomics--07-exchange-rate.webp" width="900" height="910" alt="Demand for pounds shifts right from D1 to D2 against a fixed supply S, so the price of a pound rises from 1.50 to 1.60 dollars. The pound has appreciated." loading="lazy">
+  <figcaption>A rise in demand for a currency makes it appreciate, making exports dearer and imports cheaper.</figcaption>
+</figure>
+
 
 ## 3. The terms of trade
 

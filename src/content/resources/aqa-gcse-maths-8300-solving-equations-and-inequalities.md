@@ -103,6 +103,16 @@ Two special cases come up often:
   <figcaption>x(x − 9) = 0 has two solutions, x = 0 and x = 9; dividing by x throws one away.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/algebraic-manipulation--02-factorise-trinomial-tiles.webp" width="900" height="670" alt="Tiles for x squared plus 5x plus 6 fit into a rectangle of width x plus 3 and height x plus 2. The six unit tiles fill the corner, which is why the numbers must multiply to 6 and add to 5. So the expression equals (x + 2)(x + 3)." loading="lazy">
+  <figcaption>The tiles for x² + 5x + 6 build a rectangle with sides x + 2 and x + 3.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/algebraic-manipulation--03-difference-of-squares.webp" width="900" height="886" alt="A square of side a with a b-by-b square removed leaves a shape of area a squared minus b squared. Cut and rearranged it forms a rectangle a plus b by a minus b. With a = 5 and b = 3, 25 minus 9 equals 2 times 8." loading="lazy">
+  <figcaption>a² − b² is the area of a rectangle with sides (a − b) and (a + b).</figcaption>
+</figure>
+
 
 ### Equations that need rearranging (Higher tier only)
 
@@ -136,6 +146,17 @@ x = 3 + √5  or  x = 3 - √5
 
 The same form gives the turning point of y = x² − 6x + 4 at (3, −5) (reference A11).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/algebraic-manipulation--04-complete-square-tiles.webp" width="900" height="730" alt="Tiles for x squared plus 6x plus 5 nearly make a square of side x plus 3, but the 3 by 3 corner needs 9 unit squares and only 5 are there. So 4 are missing and x squared plus 6x plus 5 equals (x + 3) squared minus 4." loading="lazy">
+  <figcaption>Completing the square fills the corner of (x + 3)² and then takes away what was never there.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/indices-and-equations--05-quadratic-surd-roots.webp" width="900" height="970" alt="The parabola y = x^2 - 4x - 3 has line of symmetry x = 2 and crosses the x axis a distance sqrt(7) either side, giving x = 2 +/- sqrt(7)." loading="lazy">
+  <figcaption>The surd roots sit sqrt(7) either side of the line of symmetry x = 2.</figcaption>
+</figure>
+
+
 ### The quadratic formula (Higher tier only)
 
 For ax² + bx + c = 0, where a ≠ 0:
@@ -164,6 +185,12 @@ Write the substitution down first: it can earn method marks even if the final an
 ### Approximate solutions from a graph (both tiers)
 
 The solutions of ax² + bx + c = 0 are the x-coordinates where y = ax² + bx + c crosses the x-axis (the roots). To solve x² − 2x − 4 = 1, draw y = x² − 2x − 4 and the line y = 1 and read off where they cross: about x = −1.4 and x = 3.4. (The exact values are 1 ± √6, which round to −1.45 and 3.45.) The readings should sit equally either side of the line of symmetry, x = 1.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-graphs-of-functions-and-sketching-curves--02-solve-with-a-line.webp" width="900" height="1090" alt="The curve y = x² − 2x − 3 is drawn once. Its x-axis crossings (x = −1 and 3) solve x² − 2x − 3 = 0. Rearranging x² − 4x − 1 = 0 gives the line y = 2x − 2, which meets the curve at about x = −0.2 and 4.2." loading="lazy">
+  <figcaption>Draw the curve once, then choose the line that matches the equation to solve.</figcaption>
+</figure>
+
 
 ## A19: Simultaneous equations
 
@@ -226,6 +253,12 @@ Pair each x with its own y.
 ### From a graph (both tiers)
 
 The solution is the point where the two graphs cross. A line can meet a curve twice, once (touching) or not at all.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-algebra-and-graphs--02-simultaneous-lines.webp" width="900" height="940" alt="The lines 2x + y = 7 and x − y = 2 are graphed and cross at (3, 1). Adding the equations gives 3x = 9, so x = 3, and then y = 1. The crossing point is the one pair of values that fits both equations." loading="lazy">
+  <figcaption>The solution of simultaneous equations is where their graphs cross.</figcaption>
+</figure>
+
 
 ## A20: Iteration (Higher tier only)
 
@@ -368,6 +401,32 @@ For x² ≤ 16, the answer is −4 ≤ x ≤ 4. Writing only x ≤ 4 misses the 
 An inequality in two variables describes a region. Draw each boundary line: **dashed for a strict inequality** and **solid for an included one**, as the specification requires. Then shade or label the region.
 
 For y ≥ 1, y < 2x and x + y ≤ 6: y = 1 and x + y = 6 are solid lines, and y = 2x is dashed. The point (3, 3) is in the region, because it lies on the solid line x + y = 6. The point (2, 4) is not, because it lies on the dashed line y = 2x and 4 < 4 is false.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/inequalities--02-negative-flips-sign.webp" width="900" height="1030" alt="Values of x from minus 5 to 2 are put through minus 2x and compared with 6. Only x greater than minus 3 passes, so −2x &lt; 6 becomes x &gt; −3, shown on a number line with an open circle at minus 3. Dividing by a negative reverses the sign." loading="lazy">
+  <figcaption>Dividing by a negative number reverses the inequality sign, as testing values confirms.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/inequalities--03-double-inequality-integers.webp" width="900" height="990" alt="Three number lines for −7 ⩽ 3x + 2 &lt; 11. Subtracting 2 from every part gives −9 ⩽ 3x &lt; 9; dividing every part by 3 gives −3 ⩽ x &lt; 3. The integers −3, −2, −1, 0, 1, 2 are marked; 3 has an open circle and is excluded." loading="lazy">
+  <figcaption>Operate on all three parts at once, then check each endpoint separately for integer solutions.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/inequalities--01-open-closed-number-line.webp" width="900" height="1110" alt="Four number lines from minus 4 to 4: x &lt; 1 (open circle at 1, shaded left), x at most 1 (closed circle), x &gt; minus 2 (open circle at minus 2, shaded right) and minus 3 at most x &lt; 1 (closed circle at minus 3, open at 1, shaded between). Closed means included, open means excluded." loading="lazy">
+  <figcaption>Closed circles include the value (⩽ ⩾); open circles exclude it (&lt; &gt;).</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/inequalities--04-two-variable-shading.webp" width="900" height="950" alt="A grid with a broken vertical line at x = 1 (shade right) and a solid horizontal line at y = 1 (shade below). The unshaded region R at upper left satisfies both inequalities; the point (−1, 3) is inside it." loading="lazy">
+  <figcaption>Broken line for strict inequalities, solid for inclusive; shade the unwanted region and leave R clear.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/inequalities--05-reading-a-region.webp" width="900" height="970" alt="An unshaded triangle with corners (1, 0), (1, 4) and (5, 4). Its edges give x ⩾ 1 (solid, right), y &lt; 4 (broken, below) and y ⩾ x − 1 (solid, above). The test point (2, 3) satisfies all three." loading="lazy">
+  <figcaption>Name each boundary, choose solid or broken, then pick the side that holds the unshaded region.</figcaption>
+</figure>
+
 
 ## Calculator or not?
 

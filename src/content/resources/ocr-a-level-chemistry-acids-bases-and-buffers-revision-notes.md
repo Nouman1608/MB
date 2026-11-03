@@ -159,6 +159,11 @@ Commonly quoted ranges: methyl orange about 3.1–4.4 (red in acid, yellow in al
   <figcaption>An indicator is suitable only if its whole colour-change range lies inside the steep section of the curve.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-acids-and-bases--09-half-equivalence.webp" width="900" height="880" alt="A computed pH curve for ethanoic acid with NaOH shows the buffer region and equivalence at 25 cm3. At 12.5 cm3 dashed lines show pH 4.76 = pKa, because [HA] = [A-] there." loading="lazy">
+  <figcaption>At half the equivalence volume [HA] = [A-], so pH = pKa and Ka = 10^-pH (practical in all boards).</figcaption>
+</figure>
+
 
 ## pH meter (5.1.3(o), PAG11)
 
@@ -171,12 +176,6 @@ Calibrate with buffers of known pH; rinse the electrode with deionised water bet
 - **Ka and pKa:** the two move in opposite directions, so a weak acid has a small Ka but a large pKa.
 - **Neutral and pH 7:** a neutral solution is one where [H⁺] and [OH⁻] are equal; that coincides with pH 7 only at 298 K.
 - **Buffer and neutral solution:** a buffer resists pH change at whatever pH it is set; it need not be at pH 7.
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-acids-and-bases--03-kw-temperature.webp" width="900" height="980" alt="Two panels show equal bars of H+ and OH- in pure water. At 25 C each is 1.00e-7 and pH is 7.00; at 50 C each is 2.35e-7 and pH is 6.63. The bars are equal in both, so the water is neutral." loading="lazy">
-  <figcaption>Kw rises with temperature, lowering the pH of pure water, but [H+] = [OH-] so it stays neutral.</figcaption>
-</figure>
-
 
 ## Quick self-test
 
@@ -205,6 +204,12 @@ Calibrate with buffers of known pH; rinse the electrode with deionised water bet
 9. **Methyl orange**: the steep section runs from roughly pH 3 to 7, and methyl orange changes colour inside it; phenolphthalein changes above it.
 10. H₃PO₄ can donate **three** protons per molecule; CH₃COOH can donate only the **one** on its COOH group.
 11. Electrode readings drift, so calibrating against buffers of **known pH** makes the readings accurate.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-acids-and-bases--03-kw-temperature.webp" width="900" height="980" alt="Two panels show equal bars of H+ and OH- in pure water. At 25 C each is 1.00e-7 and pH is 7.00; at 50 C each is 2.35e-7 and pH is 6.63. The bars are equal in both, so the water is neutral." loading="lazy">
+  <figcaption>Kw rises with temperature, lowering the pH of pure water, but [H+] = [OH-] so it stays neutral.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

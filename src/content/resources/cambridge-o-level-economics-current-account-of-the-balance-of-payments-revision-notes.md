@@ -76,6 +76,12 @@ Country V, one illustrative year: goods in 310, out 275; services in 60, out 85;
 
 Competitiveness reminder: if home prices rise 8% and a rival's rise 5%, the relative price is 1.08 ÷ 1.05 = 1.0286, so home goods are about **2.9% dearer** than before.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-economics-current-account-of-the-balance-of-payments--08-cloth-relative-price.webp" width="900" height="870" alt="K cloth index rises to 109, rival to 104; 1.09 divided by 1.04 is 1.048, so about 4.8 percent dearer." loading="lazy">
+  <figcaption>Relative price decides competitiveness.</figcaption>
+</figure>
+
+
 ## 6.4.3 Consequences
 
 | Area | Deficit | Surplus |
@@ -105,11 +111,6 @@ Rule: with **elastic** demand, cutting the price lifts revenue. With **inelastic
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/cambridge-o-level-economics-current-account-of-the-balance-of-payments--06-deflation-spending-cut.webp" width="900" height="630" alt="A 60 million cut splits into 12 million on imports (20 percent) and 48 million on home output; output and jobs also fall." loading="lazy">
-  <figcaption>Only a fifth of the cut lands on imports.</figcaption>
-</figure>
-
-<figure class="topic-figure">
   <img src="https://img.marlbridge.com/cambridge-o-level-economics-current-account-of-the-balance-of-payments--09-imported-flour-cost-push.webp" width="900" height="865" alt="Costs of 100 include flour 35. A 25 percent flour rise adds 8.75, so costs reach 108.75." loading="lazy">
   <figcaption>A falling currency can cause cost-push inflation.</figcaption>
 </figure>
@@ -136,6 +137,11 @@ Worked reminder (tariff): imports of 500 units at 40 zel with a 15% tariff cost 
 Conflicts to mention (syllabus 4.2.2): economic growth against balance of payments stability, and full employment against balance of payments stability. Policies that cut a deficit by cutting demand work against both aims.
 
 **Evaluation checklist:** cause of the deficit, size, PED, time lags, retaliation, side effects, then a judgement.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-economics-current-account-of-the-balance-of-payments--05-tariff-where-money-goes.webp" width="900" height="890" alt="Before: 80,000 to foreign sellers. After: 85,000 paid, of which 68,000 to foreign sellers and 17,000 to the government. Foreign sellers receive 12,000 less." loading="lazy">
+  <figcaption>The tariff goes to the government, not the foreign seller.</figcaption>
+</figure>
 
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/a-level-aqa-economics-measurement-of-macroeconomic-performance--02-growth-vs-current-account.webp" width="900" height="1040" alt="A four-step chain: growth policy raises aggregate demand, incomes rise, some spending goes on imports, and the current account worsens. Bars show exports 100 and imports rising from 100 to 118, a deficit of 18." loading="lazy">
@@ -180,6 +186,11 @@ Conflicts to mention (syllabus 4.2.2): economic growth against balance of paymen
 11. It lowers output and employment, and may cut growth.
 
 <figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-economics-current-account-of-the-balance-of-payments--06-deflation-spending-cut.webp" width="900" height="630" alt="A 60 million cut splits into 12 million on imports (20 percent) and 48 million on home output; output and jobs also fall." loading="lazy">
+  <figcaption>Only a fifth of the cut lands on imports.</figcaption>
+</figure>
+
+<figure class="topic-figure">
   <img src="https://img.marlbridge.com/cambridge-o-level-economics-current-account-of-the-balance-of-payments--07-reserves-run-out.webp" width="900" height="910" alt="Reserves fall 130, 90, 50, 10 and reach zero at 3.25 years." loading="lazy">
   <figcaption>Reserves of 130 last 3.25 years at 40 a year.</figcaption>
 </figure>
@@ -195,12 +206,6 @@ Conflicts to mention (syllabus 4.2.2): economic growth against balance of paymen
 - Treating the tariff as money paid to the foreign seller.
 - Listing policies with no judgement of how effective they might be.
 - Calling every deficit harmful without discussing cause and size.
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/cambridge-o-level-economics-current-account-of-the-balance-of-payments--05-tariff-where-money-goes.webp" width="900" height="890" alt="Before: 80,000 to foreign sellers. After: 85,000 paid, of which 68,000 to foreign sellers and 17,000 to the government. Foreign sellers receive 12,000 less." loading="lazy">
-  <figcaption>The tariff goes to the government, not the foreign seller.</figcaption>
-</figure>
-
 
 ## Official syllabus
 

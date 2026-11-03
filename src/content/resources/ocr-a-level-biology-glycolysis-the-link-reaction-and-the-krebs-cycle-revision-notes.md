@@ -96,11 +96,6 @@ Net for one glucose: two ATP (four formed, two spent), two reduced NAD and two p
   <figcaption>Glycolysis uses 2 ATP and makes 4, a net gain of 2 ATP, 2 reduced NAD and 2 pyruvate.</figcaption>
 </figure>
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-level-biology-9700-energy-and-respiration--08-fermentation.webp" width="900" height="1030" alt="Without oxygen only glycolysis runs. In animals pyruvate accepts hydrogen from reduced NAD to make lactate (reversible, no CO2). In yeast and plants pyruvate loses CO2 to make ethanal, which is reduced to ethanol (not reversible). Both regenerate NAD; no ATP comes from this step." loading="lazy">
-  <figcaption>Fermentation regenerates NAD so glycolysis can continue; the only ATP is the net 2 from glycolysis.</figcaption>
-</figure>
-
 
 ## Method in steps: link reaction (matrix)
 
@@ -235,6 +230,12 @@ Reduced NAD and reduced FAD deliver hydrogen and electrons to oxidative phosphor
 - "Explain" answers need a reason after each statement, for example why oxygen shortage stops the Krebs cycle.
 - "Calculate" answers need working shown, including the multiplier per glucose.
 - Data questions need figures quoted from the table or graph, with percentage changes calculated from the starting value.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-energy-and-respiration--08-fermentation.webp" width="900" height="1030" alt="Without oxygen only glycolysis runs. In animals pyruvate accepts hydrogen from reduced NAD to make lactate (reversible, no CO2). In yeast and plants pyruvate loses CO2 to make ethanal, which is reduced to ethanol (not reversible). Both regenerate NAD; no ATP comes from this step." loading="lazy">
+  <figcaption>Fermentation regenerates NAD so glycolysis can continue; the only ATP is the net 2 from glycolysis.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

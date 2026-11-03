@@ -100,6 +100,12 @@ Direction rule: rounding a numerator up raises the answer, but rounding a denomi
 
 Reminder: 9.7 × 0.52 ÷ 4.9 becomes 10 × 0.5 ÷ 5 = 1. The exact value is 1.03 to 3 s.f.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-estimation-and-using-a-calculator--03-estimate-calculation.webp" width="900" height="800" alt="62.4, 0.187 and 3.87 are rounded to 60, 0.2 and 4. The estimate is (60 x 0.2) / 4 = 3. On a number line it lies right next to the calculator value 3.015." loading="lazy">
+  <figcaption>Round every number to 1 s.f., write the rounded calculation, and work it out.</figcaption>
+</figure>
+
+
 ## Bounds (N11, Extension only)
 
 | Calculation | Upper bound | Lower bound |
@@ -166,6 +172,11 @@ A fraction in lowest terms terminates if its denominator has only 2 and 5 as pri
   <figcaption>Multiply or divide top and bottom by the same number: the shaded share does not change.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-fractions-decimals-percentages-ordering-operations--01-fraction-decimal-percentage.webp" width="900" height="830" alt="A bar of 16 equal parts with 7 shaded, a 0 to 1 scale and a 0 to 100% scale mark the same point. Dividing 7 by 16 gives 0.4375, and multiplying by 100 gives 43.75%." loading="lazy">
+  <figcaption>7/16 as a fraction, decimal and percentage are all the same point.</figcaption>
+</figure>
+
 
 ## Recurring decimals (N12, Extension only)
 
@@ -192,6 +203,11 @@ The number of 9s in the denominator matches the length of the repeating block: o
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/oxfordaqa-igcse-mathematics-rounding-estimation-bounds-and-fraction-decimal--10-round-recurring-start.webp" width="900" height="700" alt="Digit strips line up 100x = 38.33333 and 10x = 3.83333. After the first decimal place the repeating 3s are identical in both rows, so subtracting gives exactly 34.5. Then 90x = 34.5 and x = 23/60." loading="lazy">
   <figcaption>Multiply by 10 and 100 so the repeating tails line up, then subtract: they cancel, leaving 90x = 34.5.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-fractions-decimals-percentages-ordering-operations--03-recurring-to-fraction.webp" width="900" height="870" alt="Two rows of digit boxes show x = 0.3636... and 100x = 36.3636... with identical tails after the decimal point. Subtracting gives 99x = 36, so x = 36/99 = 4/11." loading="lazy">
+  <figcaption>Multiplying by 100 lines up the repeating tails so that subtracting removes them.</figcaption>
 </figure>
 
 

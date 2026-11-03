@@ -66,6 +66,17 @@ Then test yourself with the [practice questions](/resources/ocr-a-level-chemistr
 
 Small reminder: a student plans to collect oxygen from hydrogen peroxide in a 50 cm³ syringe but expects about 80 cm³ of gas. The method is not appropriate as planned; use a 100 cm³ syringe or less peroxide.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-chemistry-practical-skills-written-examination--01-syringe-range.webp" width="900" height="810" alt="Bars show gas from 0.50 g and 0.40 g of pure CaCO3 against a 100 cm3 syringe limit. 0.50 g gives 120 cm3, too much; 0.40 g gives 95.9 cm3, which fits." loading="lazy">
+  <figcaption>Estimating the gas volume first shows why no more than about 0.40 g is used.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-chemistry-practical-skills-written-examination--02-mass-loss-uncertainty.webp" width="900" height="770" alt="Two balance readings each carry 0.005 g, so the loss has 0.01 g uncertainty. On 0.176 g of CO2 that is 5.7 %." loading="lazy">
+  <figcaption>A mass found by difference carries two reading uncertainties, giving 5.7 % here.</figcaption>
+</figure>
+
+
 ## 1.1.2 Implementing
 
 **Techniques (1.1.2(a)).** Expect "why" questions on titration, standard solutions, reflux, distillation, filtration, recrystallisation, separating funnels, melting points, chromatography, electrochemical cells, pH measurement and rate methods. One-line reasons:
@@ -121,8 +132,23 @@ Worked reminder: a calibration line of absorbance against concentration passes t
 **Qualitative conclusions (1.1.3(a)).** Follow the specification's order for anions: carbonate, then sulfate, then halide. Conclude only what the tests show; a negative test rules an ion out, it does not identify another.
 
 <figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-chemistry-practical-skills-written-examination--04-arrhenius-gradient-worked.webp" width="900" height="940" alt="A gradient triangle on the ln k against 1/T line from (3.000, -4.20) to (3.300, -6.45) gives -7500 K, so Ea = 62.4 kJ/mol." loading="lazy">
+  <figcaption>Gradient = -Ea/R gives Ea = 62.4 kJ/mol.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-chemistry-practical-skills-written-examination--05-arrhenius-intercept-worked.webp" width="900" height="940" alt="The data sit only between 2.9 and 3.4 x 10^-3 on the x-axis. The line extended to x = 0 gives ln A = 18.3 by calculation, so A = 8.86 x 10^7 per second." loading="lazy">
+  <figcaption>When the axis does not start at zero, calculate c = y - mx.</figcaption>
+</figure>
+
+<figure class="topic-figure">
   <img src="https://img.marlbridge.com/ocr-a-level-chemistry-practical-skills-written-examination--02-graph-axes-rules.webp" width="900" height="982" alt="A scatter graph of gas volume in cm3 against time in s with labelled axes and a scale filling most of the grid. One anomaly is ringed and left out of the best-fit line. A dashed triangle between two far-apart points on the line gives the gradient." loading="lazy">
   <figcaption>Label axes with quantity and unit, use most of the grid, ignore anomalies and take the gradient from far-apart points on the line.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-reactions-of-ions-in-aqueous-solution--06-anion-sequence.webp" width="900" height="1090" alt="Three numbered steps. Add dilute nitric acid first: fizzing shows carbonate and removes it. Then barium nitrate: a white precipitate shows sulfate, and carbonate must already be gone because BaCO3 is also insoluble. Then silver nitrate followed by ammonia: white, cream or yellow shows a halide, and sulfate must be gone because Ag2SO4 is insoluble." loading="lazy">
+  <figcaption>Test for carbonate, then sulfate, then halide, because each later reagent would also precipitate the ion tested earlier.</figcaption>
 </figure>
 
 
@@ -163,6 +189,12 @@ Worked reminders:
 | End point hard to see | White tile; a more suitable indicator |
 | Timing a colour change by eye | Colorimeter or data logger |
 | Solid not fully dehydrated | Heat to constant mass |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-chemistry-practical-skills-written-examination--06-error-vs-uncertainty.webp" width="900" height="860" alt="Uncertainties of 0.83 %, 1.0 % and 2.0 % total 3.9 %, but the percentage error is 11 %. Apparatus uncertainty cannot explain it, so look for heat loss." loading="lazy">
+  <figcaption>If error is larger than total uncertainty, look for a procedural limitation.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 
@@ -216,22 +248,6 @@ Worked reminders:
 - Reading a "y-intercept" off an axis that does not start at zero.
 - Saying "human error" or "use better equipment" instead of naming a limitation and a matching improvement.
 - Comparing percentage error with percentage uncertainty but not saying what the comparison shows.
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ocr-a-level-chemistry-practical-skills-written-examination--04-arrhenius-gradient-worked.webp" width="900" height="940" alt="A gradient triangle on the ln k against 1/T line from (3.000, -4.20) to (3.300, -6.45) gives -7500 K, so Ea = 62.4 kJ/mol." loading="lazy">
-  <figcaption>Gradient = -Ea/R gives Ea = 62.4 kJ/mol.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ocr-a-level-chemistry-practical-skills-written-examination--05-arrhenius-intercept-worked.webp" width="900" height="940" alt="The data sit only between 2.9 and 3.4 x 10^-3 on the x-axis. The line extended to x = 0 gives ln A = 18.3 by calculation, so A = 8.86 x 10^7 per second." loading="lazy">
-  <figcaption>When the axis does not start at zero, calculate c = y - mx.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ocr-a-level-chemistry-practical-skills-written-examination--06-error-vs-uncertainty.webp" width="900" height="860" alt="Uncertainties of 0.83 %, 1.0 % and 2.0 % total 3.9 %, but the percentage error is 11 %. Apparatus uncertainty cannot explain it, so look for heat loss." loading="lazy">
-  <figcaption>If error is larger than total uncertainty, look for a procedural limitation.</figcaption>
-</figure>
-
 
 ## Next steps
 

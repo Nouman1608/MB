@@ -178,6 +178,11 @@ change in thermal energy = mass × specific heat capacity × change in temperatu
   <figcaption>During melting and boiling energy is supplied but the temperature stays constant.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-physics-thermal-physics--04-specific-heat-capacity.webp" width="900" height="1050" alt="An insulated metal block with a heater and thermometer, and a circuit with an ammeter in series and a voltmeter across the heater. E = 4.0 x 12 x 300 = 14 400 J and c = 14 400 / (1.0 x 16) = 900 J/(kg C)." loading="lazy">
+  <figcaption>Energy supplied divided by mass and temperature rise gives c.</figcaption>
+</figure>
+
 
 ## The Kelvin scale and absolute zero
 
@@ -234,6 +239,11 @@ p₂ = 6.0 × 10⁵ Pa
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/edexcel-igcse-physics-solids-liquids-and-gases--09-pressure-volume.webp" width="900" height="1040" alt="A graph of pressure against volume for a fixed mass of gas at constant temperature. The curve passes through 2.0 x 10^5 Pa at 0.30 cubic metres and 6.0 x 10^5 Pa at 0.10 cubic metres, because pressure times volume is constant." loading="lazy">
   <figcaption>At constant temperature, a third of the volume gives three times the pressure.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-physics-thermal-physics--02-gas-pressure.webp" width="900" height="990" alt="Three boxes with the same eight particles. Hotter particles move faster and the pressure bar doubles. Squeezing to half the volume also doubles the bar because the walls are hit more often." loading="lazy">
+  <figcaption>Faster particles or a smaller volume mean more forceful or more frequent wall collisions, so higher pressure.</figcaption>
 </figure>
 
 

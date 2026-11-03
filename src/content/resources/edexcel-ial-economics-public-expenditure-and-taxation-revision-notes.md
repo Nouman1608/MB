@@ -84,11 +84,6 @@ International comparisons: differences in expenditure/GDP come from income, age 
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/edexcel-ial-economics-public-expenditure-and-taxation--05-crowding-out-multiplier.webp" width="900" height="970" alt="Two scenarios for Country K, where the multiplier is 2. Without crowding out, an extra 60bn of government spending is multiplied by 2 and output rises by 120bn. With financial crowding out, higher borrowing raises interest rates and private investment falls by 25bn, so the net injection is 35bn and output rises by 70bn, 50bn less. Crowding out offsets 25 divided by 60, which is 41.7 percent, of the stimulus. Edexcel IAL 4.3.5. Invented figures." loading="lazy">
-  <figcaption>Crowding out of 25 cuts the output gain from 120 to 70.</figcaption>
-</figure>
-
-<figure class="topic-figure">
   <img src="https://img.marlbridge.com/edexcel-ial-economics-public-expenditure-and-taxation--08-age-structure-and-spending.webp" width="900" height="950" alt="Two stacked bars of public spending, both countries with 10 million people and GDP of 200bn. Country L has 2.5 million people aged 65 or over and 1.5 million children, so pensions and care cost 22.5bn and schooling 7.5bn, a total of 30.0bn or 15.0 percent of GDP. Country M has 0.8 million aged 65 or over and 2.8 million children, so pensions cost 7.2bn and schooling 14.0bn, a total of 21.2bn or 10.6 percent of GDP. An ageing population raises the size of spending and shifts it from education to pensions. Pensions and care cost 9,000 per older person and schooling 5,000 per child. Edexcel IAL 4.3.5. Invented figures." loading="lazy">
   <figcaption>An older population raises spending and shifts it from schools to pensions.</figcaption>
 </figure>
@@ -159,6 +154,11 @@ Method in steps for any tax-change question:
 **FDI reminder.** Profit of 40 on capital of 200. At 25% tax, post-tax profit 30, return 15.0%. At 15% tax, post-tax profit 34, return 17.0%.
 
 <figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-public-expenditure-and-taxation--07-tax-cut-with-leakages.webp" width="900" height="1010" alt="A flow showing a 12bn tax cut in Country K. First, 9bn is spent at home, 1.2bn is saved and 1.8bn goes on imports, using a marginal propensity to save of 0.10 and to import of 0.15. The multiplier is 1 divided by the sum of leakages, 0.10 plus 0.15 plus 0.20 for tax, which is 1 divided by 0.45, or 2.22. Output rises by 9 times 2.22, which is 20bn. With output per worker of 80,000, jobs rise by 250,000 if there is spare capacity, while imports rise by 0.15 times 20bn, which is 3bn, worsening the trade balance. Edexcel IAL 4.3.5. Invented figures." loading="lazy">
+  <figcaption>A 12bn tax cut gives 20bn extra output, 250,000 jobs and 3bn more imports.</figcaption>
+</figure>
+
+<figure class="topic-figure">
   <img src="https://img.marlbridge.com/edexcel-ial-economics-public-expenditure-and-taxation--01-tax-work-incentive-hours.webp" width="900" height="980" alt="A rectangle diagram of net weekly pay (hours times net wage) showing the 160 lost to a higher tax rate, the substitution effect of working fewer hours and the income effect of working 53.3 hours to restore 640." loading="lazy">
   <figcaption>Net wage falls from 16 to 12; the income effect needs 53.3 hours to keep 640, the substitution effect pulls hours down.</figcaption>
 </figure>
@@ -171,6 +171,11 @@ Method in steps for any tax-change question:
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/edexcel-ial-economics-public-expenditure-and-taxation--05-tax-effects-prices-exports-fdi.webp" width="900" height="1056" alt="Three worked examples: a sales tax rise lifts the price level about 2.7%; a 5% export price rise cuts export value from 300bn to 293bn; a lower corporation tax lifts the FDI return from 12.6% to 14.4%." loading="lazy">
   <figcaption>Three worked examples of how tax changes feed through to prices, export value and FDI returns.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-aggregate-demand-supply--07-lras-growth.webp" width="900" height="1000" alt="LRAS shifts right from output 100 to 130, with SRAS shifted right by the same amount. Equilibrium moves from output 90, price level 65 to output 105, price level 57.5. Technology, productivity, enterprise, factor mobility, incentives and institutions are listed as causes." loading="lazy">
+  <figcaption>Underlying economic growth is a rightward shift in LRAS, raising output and easing prices.</figcaption>
 </figure>
 
 
@@ -222,6 +227,17 @@ Use these to finish any tax or spending answer:
 10. The post-tax return on the investment is higher.
 11. Ageing population: more people qualify.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-public-expenditure-and-taxation--05-crowding-out-multiplier.webp" width="900" height="970" alt="Two scenarios for Country K, where the multiplier is 2. Without crowding out, an extra 60bn of government spending is multiplied by 2 and output rises by 120bn. With financial crowding out, higher borrowing raises interest rates and private investment falls by 25bn, so the net injection is 35bn and output rises by 70bn, 50bn less. Crowding out offsets 25 divided by 60, which is 41.7 percent, of the stimulus. Edexcel IAL 4.3.5. Invented figures." loading="lazy">
+  <figcaption>Crowding out of 25 cuts the output gain from 120 to 70.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-public-expenditure-and-taxation--03-tax-needed-to-fund-spending.webp" width="900" height="910" alt="Two stacked columns of spending as a share of GDP. Now: tax 24.0% plus deficit 1.0%. Target: tax 27.0% plus a 3.0% deficit cap. Tax must rise by 3.0 percentage points." loading="lazy">
+  <figcaption>Spending of 600bn with a deficit cap of 60bn needs tax of 540bn, 27.0% of GDP.</figcaption>
+</figure>
+
+
 ## Where marks are usually lost
 
 - Counting transfers in G, or leaving them out of total public expenditure.
@@ -236,3 +252,9 @@ Use these to finish any tax or spending answer:
 ## Official syllabus
 
 Pearson Edexcel International Advanced Subsidiary/Advanced Level in Economics specification, Issue 2, June 2018, Pearson Education Limited, section 4.3.5 items 1 and 2.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-macroeconomics--06-laffer-curve.webp" width="900" height="910" alt="Tax revenue rises with the tax rate to a peak, then falls. Points X (20%) and Y (80%) raise the same revenue, so beyond the peak cutting the rate raises revenue." loading="lazy">
+  <figcaption>Beyond the revenue-maximising rate, a higher tax rate lowers tax revenue.</figcaption>
+</figure>
+

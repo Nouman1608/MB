@@ -265,6 +265,17 @@ Compare solutions of similar concentration.
 - Acidifying the sulfate test with sulfuric acid, or giving no reason for the acid.
 - Forgetting that each M(OH)₂ gives two OH⁻ ions in titration or concentration work.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-group-2-the-alkaline-earth-metals--06-halogen-boiling-points.webp" width="900" height="1050" alt="Diatomic molecules F2 to I2 grow larger with 18, 34, 70 and 106 electrons and stronger dashed van der Waals forces. Boiling points are minus 188, minus 34, 59 and 184 degrees Celsius. Only forces between molecules are overcome on boiling." loading="lazy">
+  <figcaption>Boiling point rises down Group 7 because more electrons give stronger van der Waals forces.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-group-2-the-alkaline-earth-metals--08-halides-sulfuric-acid.webp" width="900" height="1075" alt="Tubes of NaCl, NaBr and NaI with concentrated sulfuric acid, beside a scale of sulfur oxidation number. Chloride leaves sulfur at +6, bromide reduces it to +4 (SO2), iodide reduces it to +4, 0 and minus 2 (SO2, S, H2S)." loading="lazy">
+  <figcaption>Larger halide ions are stronger reducing agents, so they reduce sulfuric acid further.</figcaption>
+</figure>
+
+
 ## Official syllabus
 
 OxfordAQA, *International AS and A-level Chemistry* (9620) specification, Version 5.3, for International AS

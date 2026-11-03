@@ -228,12 +228,6 @@ smallest n = 97
 - P(Type I) = P(in rejection region | H₀ true). For a normal test it equals the significance level; for binomial or Poisson it is the actual tail probability of the rejection region.
 - P(Type II) = P(in acceptance region | a stated alternative value is true).
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-level-maths-9709-probability-statistics-2--08-type-i-type-ii-poisson.webp" width="900" height="990" alt="Two bar charts share a dashed boundary between 8 and 9. Under H0 (Po(4.5)) the bars from 9 upward have probability 0.0403, the Type I error. If the true mean is 7 (Po(7)) the bars up to 8 have probability 0.729, the Type II error." loading="lazy">
-  <figcaption>Type I error is landing in the rejection region when H0 is true; Type II is landing outside it when H0 is false.</figcaption>
-</figure>
-
-
 ## Quick self-test
 
 1. X ~ Po(4). Find P(X = 4).
@@ -261,6 +255,12 @@ smallest n = 97
 9. **Rejecting H₀ when H₀ is true.**
 10. **Po(3)**: n = 100 > 50 and np = 3 < 5.
 11. **N(20, 20)**, with a continuity correction, because λ > 15.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-maths-9709-probability-statistics-2--08-type-i-type-ii-poisson.webp" width="900" height="990" alt="Two bar charts share a dashed boundary between 8 and 9. Under H0 (Po(4.5)) the bars from 9 upward have probability 0.0403, the Type I error. If the true mean is 7 (Po(7)) the bars up to 8 have probability 0.729, the Type II error." loading="lazy">
+  <figcaption>Type I error is landing in the rejection region when H0 is true; Type II is landing outside it when H0 is false.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

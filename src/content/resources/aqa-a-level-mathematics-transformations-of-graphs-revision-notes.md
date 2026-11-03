@@ -96,6 +96,12 @@ y = a f( b (x + c) ) + d
 - The x pair (1, 2) and the y pair (3, 4) do not interfere, so either pair can come first.
 - Within a pair the order matters. Stretch then translate in the same direction gives a different translation from translate then stretch. For example, f(2x − 1) = f(2(x − ½)) is "stretch, scale factor ½, then translate by (½, 0)" or "translate by (1, 0), then stretch, scale factor ½". Check one point.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-transformations-of-graphs--05-two-routes-f2x-1.webp" width="900" height="1110" alt="The curve y = f(2x-1) against the dashed cubic, with roots at 1/2 and 2 and a minimum at (3/2,-4). Two number lines follow the root x = 3: stretch by 1/2 then translate right 1/2, or translate right 1 then stretch by 1/2; both reach 2." loading="lazy">
+  <figcaption>The same transformation can be built two ways, so state the order with the number.</figcaption>
+</figure>
+
+
 ## Asymptotes
 
 | Graph | Horizontal asymptote y = k becomes | Vertical asymptote x = h becomes |
@@ -203,6 +209,17 @@ The greatest value is 4 + 3 = 7 and the least is 4 − 3 = 1. In degrees, the pe
 10. Stretch, scale factor 2, parallel to the x-axis, and stretch, scale factor 3, parallel to the y-axis. The order of these two does not matter.
 11. y = 2(−3) + 1 = −5.
 12. 360°/4 = 90°.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-transformations-of-graphs--07-inequalities-from-graphs.webp" width="900" height="1110" alt="The cubic y = (x+2)(x-1)^2 and the line y = 4(x-1) meet at x = -3, 1 and 2. Shaded bands show where the cubic is above the line: -3 &lt; x &lt; 1 and x &gt; 2, repeated on a number line." loading="lazy">
+  <figcaption>Read inequalities from where one graph lies above the other.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-transformations-of-graphs--09-testing-proportionality.webp" width="900" height="1070" alt="The points (1,4), (2,32), (3,108), (4,256) lie on a curve when y is plotted against x but on a straight line through the origin of gradient 4 against x^3. A table shows y/x^2 varies while y/x^3 is always 4." loading="lazy">
+  <figcaption>A straight line through the origin confirms y is proportional to x^n; its gradient is k.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

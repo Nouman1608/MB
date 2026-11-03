@@ -160,12 +160,6 @@ Markets are **mass** or **niche**: a niche strategy means lower volume but often
 
 Price is set where demand meets supply, and demand itself shifts with income, the price of substitutes and complements, tastes, and marketing activity. **Price elasticity of demand** then determines whether a price rise actually raises revenue: it does where demand is inelastic, and it does not where demand is elastic — a single calculation that drives most pricing recommendations in exam answers. (Price elasticity of demand is formally Topic 2 Marketing content under 9625, not Topic 1 — it is included here because market analysis and pricing are closely linked, but treat it as Topic 2 scope in exam terms.)
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-level-business-business-and-its-environment--05-granthorn-forces.webp" width="900" height="1140" alt="Granthorn market shares give a four-firm ratio of 84 percent; its three biggest buyers take 45 percent of sales. Ratings: rivalry medium, buyer power high, supplier power high, entry threat low, substitute threat low to medium." loading="lazy">
-  <figcaption>Calculate what you can, then rate each force with evidence.</figcaption>
-</figure>
-
-
 ## The market and external environment (first-year, 3.1.1.3)
 
 The genuinely first-year "external environment" content under 9625
@@ -191,6 +185,12 @@ Four-firm concentration ratio = 28 + 22 + 15 + 10 = 75%
 A ratio this high (75%) indicates a highly concentrated, oligopolistic
 market dominated by a few large firms — useful context for barriers to
 entry and the degree of competition a new entrant would face.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-business-business-and-its-environment--05-granthorn-forces.webp" width="900" height="1140" alt="Granthorn market shares give a four-firm ratio of 84 percent; its three biggest buyers take 45 percent of sales. Ratings: rivalry medium, buyer power high, supplier power high, entry threat low, substitute threat low to medium." loading="lazy">
+  <figcaption>Calculate what you can, then rate each force with evidence.</figcaption>
+</figure>
+
 
 ## Decision-making
 

@@ -85,6 +85,11 @@ Reminder: Method A (8 workers, 1 machine at 60) and Method B (3 workers, 3 machi
   <figcaption>Market, planned and mixed economies differ in who answers what, how and for whom.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-allocation-of-resources--02-price-mechanism.webp" width="900" height="990" alt="Buyers pay money to sellers and sellers send goods back, with a price between them. The price answers what, how and for whom. An advantage is wide choice and a drawback is market failure." loading="lazy">
+  <figcaption>In a market the price answers what to produce, how, and for whom.</figcaption>
+</figure>
+
 
 ## 3.1.1.3 Scarcity, choice and allocation
 
@@ -166,6 +171,21 @@ Reminder: chair 4 hours, table 10 hours. One table costs 10 ÷ 4 = 2.5 chairs.
   <figcaption>Moving to the point where marginal opportunity cost meets the value society places on K.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-basic-economic-problem--05-ppc-points.webp" width="900" height="1080" alt="An illustrative PPC with Food and Machines axes. A on the curve means all resources fully used, B inside means idle or wasted resources, C beyond the curve cannot be reached with current resources." loading="lazy">
+  <figcaption>Points inside, on and beyond the PPC show how well resources are used.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-basic-economic-problem--06-ppc-movement-opportunity-cost.webp" width="900" height="1050" alt="Three points on a PPC. Moving from 1 to 2 gains 20 Food and gives up 20 Machines; moving from 2 to 3 gains another 20 Food but gives up 60 Machines. Each extra unit of Food costs more Machines, which is why the curve bows outwards." loading="lazy">
+  <figcaption>Moving along a PPC reallocates resources, and the opportunity cost rises.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-basic-economic-problem--07-ppc-shift-vs-movement.webp" width="900" height="1190" alt="Top: a point inside the curve moves to the curve by using idle resources more fully; this is temporary, reversible and not economic growth on this syllabus. Bottom: the whole curve shifts outward because of more or better resources or better technology, a permanent increase in capacity, which is economic growth." loading="lazy">
+  <figcaption>Only an outward shift of the whole curve counts as economic growth.</figcaption>
+</figure>
+
 
 ## 3.1.1.5 Economic methodology
 
@@ -188,6 +208,11 @@ Reminder: chair 4 hours, table 10 hours. One table costs 10 ÷ 4 = 2.5 chairs.
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-the-economic-problem-scarcity-and-economic-methodology--09-ceteris-paribus-bread.webp" width="900" height="730" alt="A 10% price rise cuts demand by about 6%, a simultaneous income rise adds about 7%, and the observed change is about +1%." loading="lazy">
   <figcaption>Ceteris paribus isolates one effect when many things change.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-economics-basic-economic-ideas-and-resource-allocation--01-positive-vs-normative.webp" width="900" height="910" alt="Two cards. Positive: &quot;Unemployment rose by 2%&quot; can be tested against data, shown by bars (illustrative 5% to 7%) and a magnifying glass, so it is true or false. Normative: &quot;The government should reduce unemployment&quot; is a value judgement, shown by a balance scale; data alone cannot settle it." loading="lazy">
+  <figcaption>A positive statement can be tested against evidence; a normative one rests on values.</figcaption>
 </figure>
 
 

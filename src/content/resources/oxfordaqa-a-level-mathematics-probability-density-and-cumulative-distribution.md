@@ -50,6 +50,12 @@ A continuous random variable can be any number within a range: a time, a length,
 
 A consequence: for a continuous variable P(X = a) = 0, so P(X < a) = P(X ≤ a) and P(a < X < b) = P(a ≤ X ≤ b). The inequality signs do not change the answer. For a discrete variable they can.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-mathematics-continuous-random-variables-pdf-cdf-mean-variance-mode--09-variances-add.webp" width="900" height="780" alt="Three bars to scale. Var(2X + 3Y) and Var(2X − 3Y) are both 4Var(X) + 9Var(Y) = 0.506, though the means differ. Subtracting the variances (0.026) is crossed out as wrong." loading="lazy">
+  <figcaption>For independent variables the variances always add, even for a difference.</figcaption>
+</figure>
+
+
 ## 2. The probability density function
 
 A pdf f(x) describes where probability sits. It must satisfy two conditions:

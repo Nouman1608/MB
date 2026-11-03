@@ -141,6 +141,11 @@ Contributions (percentage points): C 1.5, I 1.0, G 0.5, net exports -0.5
   <figcaption>A change in a component of AD shifts the AD curve and moves equilibrium output and prices together.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-economics-macroeconomics-measuring-and-managing-the-economy--06-shifts-of-sras.webp" width="900" height="900" alt="With AD fixed, a leftward SRAS shift (higher costs) cuts output from 120 to 90 and raises the price level from 80 to 95. A rightward shift raises output to 150 and lowers prices to 65." loading="lazy">
+  <figcaption>A change in production costs, productivity or capacity shifts AS.</figcaption>
+</figure>
+
 
 ## 3. Output gaps
 
@@ -203,6 +208,21 @@ Notice the timing. In year 2, growth has slowed, yet inflation is higher than in
   <figcaption>Inflation and unemployment lag real GDP, so several indicators must be read together.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-economics-macroeconomics-measuring-and-managing-the-economy--02-business-cycle.webp" width="900" height="880" alt="A wavy, upward-trending line of real GDP passes through expansion, a peak, a contraction (recession) and a trough, then expands again. A recession is a period when real output falls; slower growth is not a recession." loading="lazy">
+  <figcaption>The business cycle has expansion, peak, contraction (recession) and trough phases.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-edexcel-economics-economic-growth--01-growth-rate-and-recession.webp" width="900" height="780" alt="Bar chart of quarterly real GDP growth: Q1 +0.5%, Q2 -0.3%, Q3 -0.6%. Q2 and Q3 are shaded as a recession because there are two consecutive quarters of negative growth, confirmed at the end of Q3. One negative quarter would not be a recession." loading="lazy">
+  <figcaption>Two consecutive quarters of negative growth make a recession, confirmed here at the end of Q3.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-economics-macroeconomics-measuring-and-managing-the-economy--07-rate-versus-level.webp" width="900" height="1030" alt="Growth falls from 4% to 1% but real GDP still rises from 100 to 104 to 105.04. Inflation rises from 2% to 6%, so prices rise from 100 to 102 to 108.12, faster in year 2. Slower growth is not a recession." loading="lazy">
+  <figcaption>A falling growth rate is not a fall in the level of output.</figcaption>
+</figure>
+
 
 ## 5. Demand-side and supply-side shocks
 
@@ -231,6 +251,16 @@ A country that depends heavily on exports is exposed to this kind of shock. A le
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-economic-growth-and-the-economic-cycle--05-export-shock-multiplier.webp" width="900" height="800" alt="Exports of 300 are 30% of GDP of 1,000. A 5% fall in exports is a loss of 15 (1.5% of GDP) which a multiplier of 2 turns into a 30 fall (3.0% of GDP): 15 first-round and 15 knock-on." loading="lazy">
   <figcaption>A shock abroad is multiplied into a larger fall in domestic GDP.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-aggregate-demand-supply--03-demand-side-shock.webp" width="900" height="910" alt="AD and AS diagram with vertical LRAS. AD shifts left from AD1 to AD2 after a fall in business confidence, moving equilibrium from output 90, price level 65 to output 75, price level 57.5. LRAS is unchanged." loading="lazy">
+  <figcaption>A fall in business confidence shifts AD left, cutting output and the price level in the short run while LRAS stays put.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-aggregate-demand-supply--04-supply-side-shock.webp" width="900" height="910" alt="A rise in world oil prices lifts production costs and shifts SRAS left from SRAS1 to SRAS2. Equilibrium moves from output 90, price level 65 to output 65, price level 77.5. LRAS does not move." loading="lazy">
+  <figcaption>A cost shock shifts SRAS left, raising prices and cutting output, without changing underlying capacity.</figcaption>
 </figure>
 
 

@@ -194,6 +194,17 @@ Add displacements with their signs. Waves with displacements +2.4 mm and +1.1 mm
 9. λ = 340 / 1000 = 0.34 m, so nodes are **0.17 m** apart.
 10. f² against T.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-physics-waves--08-aphy-waves-gap-diffraction.webp" width="900" height="1210" alt="Plane waves meet a gap of 6, 2 and 1 wavelengths. With a wide gap the waves go through nearly straight; as the gap approaches one wavelength they spread into near-semicircular fronts. Wavelength, frequency and speed are unchanged." loading="lazy">
+  <figcaption>Diffraction is greatest when the gap is about one wavelength.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-physics-waves--09-aphy-waves-grating.webp" width="900" height="1060" alt="Two neighbouring slits show the path difference d sin theta between adjacent rays; a maximum occurs when it equals n lambda. For 300 lines per mm and 589 nm, d = 3.33 micrometres and maxima appear at 10.2, 20.7, 32.0, 45.0 and 62.1 degrees for orders 1 to 5 each side, so 11 maxima; the highest order is 5." loading="lazy">
+  <figcaption>Maxima occur where d sin theta = n lambda; the highest order is d/lambda rounded down.</figcaption>
+</figure>
+
+
 ## Where marks are usually lost
 
 - Calling the node-to-node distance a full wavelength.

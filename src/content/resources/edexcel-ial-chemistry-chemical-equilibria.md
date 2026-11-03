@@ -134,6 +134,11 @@ That is half of Kp, because the denominator carries the higher index. To get bac
 **Heterogeneous systems.** Reason only with the species that appear in the expression. Adding more FeO or more iron to the furnace changes nothing, because neither solid is in Kp. Removing CO₂ does move the position, because p(CO₂) is in Kp.
 
 <figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-chemical-equilibria-le-chateliers-principle-and-kc--02-pressure-shift.webp" width="900" height="1030" alt="Two syringes hold the same gas particles at low and high pressure. Molecule models of 2SO2 + O2 and 2SO3 show 3 gas molecules on the left and 2 on the right, so higher pressure shifts right." loading="lazy">
+  <figcaption>Higher pressure shifts the equilibrium towards the side with fewer gas molecules.</figcaption>
+</figure>
+
+<figure class="topic-figure">
   <img src="https://img.marlbridge.com/aqa-a-level-chemistry-chemical-equilibria-le-chateliers-principle-and-kc--04-catalyst.webp" width="900" height="1000" alt="Product against time with and without a catalyst: the catalysed curve rises faster but both level at the same equilibrium amount. An energy profile shows the same start and end levels but a lower peak with the catalyst." loading="lazy">
   <figcaption>A catalyst makes equilibrium arrive sooner but leaves the position and K unchanged.</figcaption>
 </figure>
@@ -217,6 +222,12 @@ The size of K tells you how far a reaction goes before equilibrium is reached:
 These boundaries are a rule of thumb, not sharp cut-offs. Check one: K = 10¹⁰ gives R lnK = 8.31 × 23.0 ≈ +191 J K⁻¹ mol⁻¹. Worked example 6 sits in the top row at 298 K and the middle row at 800 K.
 
 K says nothing about **rate**. A reaction with a huge K can still be too slow to observe if its activation energy is high. That is kinetic stability, which you met in outcome 12.11.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-chemical-equilibria-le-chateliers-principle-and-kc--07-kc-calculation.webp" width="900" height="1020" alt="Bars show PCl5 falling from 0.250 to 0.150 mol while PCl3 and Cl2 rise to 0.100 mol. Dividing by 5.00 dm3 gives concentrations, and Kc = 0.0200 x 0.0200 / 0.0300 = 0.0133 mol dm-3." loading="lazy">
+  <figcaption>Convert equilibrium amounts to concentrations before substituting into Kc.</figcaption>
+</figure>
+
 
 ## Further suggested practicals
 

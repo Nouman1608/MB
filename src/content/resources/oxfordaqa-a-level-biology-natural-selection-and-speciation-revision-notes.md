@@ -50,6 +50,11 @@ Write all five links when asked to explain. Missing the inheritance step is the 
   <figcaption>Removing one phenotype lowers the frequency of its allele in the next generation.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-selection-and-evolution--09-dna-relatedness.webp" width="900" height="930" alt="Four rows show the same 27-base DNA section in species A to D with differences from A highlighted: B 1 (3.7 percent), C 3 (11.1 percent) and D 8 (29.6 percent). Fewer differences mean a more recent common ancestor, so B is closest to A." loading="lazy">
+  <figcaption>Fewer base differences suggest a more recent common ancestor.</figcaption>
+</figure>
+
 
 ## Calculating allele frequency
 
@@ -68,6 +73,11 @@ Write all five links when asked to explain. Missing the inheritance step is the 
 - Survival: RR 15 ÷ 18 = 83%, Rr 33 ÷ 44 = 75%, rr 12 ÷ 38 = 32%. Resistance is conferred by R; survivors bred, so R becomes more frequent.
 
 State whether a change is absolute (0.125) or relative (31%).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-selection-and-evolution--04-antibiotic-resistance.webp" width="900" height="1100" alt="A rare bacterium already carries a resistance allele, the antibiotic kills the susceptible cells, and the survivors divide. A log-scale chart shows the resistant share rising from 0.001 to 0.0099, 0.091 and 0.50 over three doses that each kill 90 percent of susceptible cells." loading="lazy">
+  <figcaption>Antibiotics select for resistance alleles that mutation had already produced.</figcaption>
+</figure>
 
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/a-level-biology-9700-selection-and-evolution--06-genetic-drift.webp" width="900" height="1200" alt="Two graphs show eight simulated populations starting with an allele at 0.5. With 20 gene copies the lines wander and several are lost or fixed by chance; with 1000 gene copies they stay near 0.5." loading="lazy">
@@ -206,6 +216,11 @@ Each pressure acts on phenotypes. The effect on the gene pool appears only after
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/a-level-biology-9700-selection-and-evolution--01-polygenes-bell-curve.webp" width="900" height="1040" alt="A bar chart of offspring from AaBbCc x AaBbCc across 0 to 6 height-adding alleles: 1, 6, 15, 20, 15, 6, 1 out of 64. A plant under each bar gets taller as the number of adding alleles rises. Many small additive genes, blurred by the environment, give a smooth continuous range." loading="lazy">
   <figcaption>Many genes with small additive effects give a bell-shaped distribution of offspring.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-selection-and-evolution--05-hardy-weinberg-square.webp" width="900" height="1010" alt="A unit square is divided by p = 0.8 and q = 0.2 into AA 0.64, two Aa areas of 0.16 and aa 0.04. For 400 animals with 16 recessive, q squared is 0.04, so q is 0.2, p is 0.8, 2pq is 0.32 and there are 128 carriers." loading="lazy">
+  <figcaption>p squared, 2pq and q squared are the areas of a square split by the two allele frequencies.</figcaption>
 </figure>
 
 

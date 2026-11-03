@@ -115,6 +115,17 @@ Square the negative component in full: (−24)² = +576.
 |2a − 3b| = √(14² + (−11)²) = √(196 + 121) = √317 = 17.8 (3 s.f.)
 ```
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-vectors-and-magnitude--05-magnitude-pythagoras.webp" width="900" height="998" alt="The vector (-8,15) is the hypotenuse of a right-angled triangle with sides 8 and 15. Pythagoras gives square root of (64 + 225) = 17." loading="lazy">
+  <figcaption>The magnitude is the hypotenuse of the right-angled triangle with sides x and y.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-vectors-and-magnitude--06-magnitude-of-sum.webp" width="900" height="800" alt="a = (3,-1) then b = (-2,4) gives a + b = (1,3). |a| + |b| = 7.63 but |a + b| = 3.16, so magnitudes cannot be added separately." loading="lazy">
+  <figcaption>Add the vectors first, then find the magnitude; |a + b| is not |a| + |b|.</figcaption>
+</figure>
+
+
 ### Resultants in a diagram
 
 To find a vector between two points, walk along a route of known vectors. Add a vector when you travel along its arrow. Subtract it when you travel against it.
@@ -133,6 +144,11 @@ Checking by another route, →SP + →PQ, gives the same answer.
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/edexcel-igcse-maths-4ma1-vectors-and-transformation-geometry--09-quadrilateral-pqrs.webp" width="900" height="870" alt="Quadrilateral PQRS on a grid with example vectors a = (2, 1) and b = (0, 2). PQ = a + 2b, QR = 3a - b, RS = -2a, so PS = 2a + b (dashed) and SQ = -a + b." loading="lazy">
   <figcaption>Worked example 3 drawn on a grid.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-mathematics-vectors-in-two-dimensions-column-vectors-magnitude-and--02-triangle-rule.webp" width="900" height="1020" alt="Points A (0,0), B (4, minus 3), C (2, 2). AB is the column 4 over minus 3 and BC, starting where AB ends, is minus 2 over 5. The direct route AC is 2 over 2, which is their sum." loading="lazy">
+  <figcaption>Going A to B then B to C is the same as going straight from A to C.</figcaption>
 </figure>
 
 
@@ -160,6 +176,11 @@ A proof must end with a sentence that names both facts: the scalar multiple *and
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/edexcel-igcse-maths-4ma1-vectors-and-transformation-geometry--07-vec-proof-collinear.webp" width="900" height="1010" alt="Triangle OAB is drawn with a = (3,1), b = (1,4). N divides AB in ratio 1:2 and ON = (1/3)(2a + b). D has OD = 2a + b = 3 ON, so O, N and D are on one line with ON : ND = 1 : 2." loading="lazy">
   <figcaption>OD is a multiple of ON and both start at O, so O, N and D are collinear.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-transformations-and-vectors--07-vector-proof-midpoints.webp" width="900" height="945" alt="In triangle OAB, M and N are midpoints of OA and OB. MN = ON - OM = half of (b - a), and AB = b - a, so MN is half of AB and parallel to it. Shown with a = (8,2), b = (2,6)." loading="lazy">
+  <figcaption>Writing every vector in terms of a and b shows MN = half of AB, so the lines are parallel.</figcaption>
 </figure>
 
 
@@ -194,6 +215,16 @@ The image has vertices **(1, 2), (1, 4) and (−2, 2)**. Check one length: the s
   <figcaption>Rotating about a centre that is not the origin: subtract the centre, turn, add it back.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-transformations-and-vectors--02-rotation-about-origin.webp" width="900" height="1065" alt="Triangle ABC is rotated 90 degrees clockwise about the origin. B(1,4) moves to B'(4,-1); the lines OB and OB' are equal and meet at a right angle. A rotation needs centre, angle and direction." loading="lazy">
+  <figcaption>A rotation is described by its centre, angle and direction.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-mathematics-transformations-reflection-rotation-enlargement-and--02-rotation.webp" width="900" height="1060" alt="Triangle A is rotated 90 degrees clockwise about the centre (2, 1) to give A dash at (4,0), (4,-3), (6,-3). Dashed radii from the centre to a vertex and its image are equal in length and meet at a right angle, with a curved arrow showing the clockwise turn." loading="lazy">
+  <figcaption>A rotation needs a centre, an angle and a direction: here 90 degrees clockwise about (2, 1).</figcaption>
+</figure>
+
 
 ### Reflection
 
@@ -217,10 +248,21 @@ To **construct** a mirror line from an object and its image, join a point to its
   <figcaption>Constructing the perpendicular bisector of a point and its image.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-transformations-and-vectors--01-reflection-mirror-line.webp" width="900" height="845" alt="Triangle ABC is reflected in the vertical line x = 4. Dashed lines join each corner to its image and cross the mirror at their midpoints. Image corners are A'(7,2), B'(7,4), C'(5,2)." loading="lazy">
+  <figcaption>A reflection puts each image point the same distance behind the mirror line, and is described by its mirror line.</figcaption>
+</figure>
+
 
 ### Translation
 
 A translation is specified by a distance and a direction, written as a column vector. Translating by (−5, 3) moves every point 5 left and 3 up. To describe a translation, subtract object coordinates from image coordinates: image − object.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-transformations-and-vectors--03-translation-column-vector.webp" width="900" height="970" alt="Triangle ABC is translated by (4, -3): 4 right and 3 down. Every corner moves by the same arrow to A'(5,-1), B'(5,1), C'(7,-1)." loading="lazy">
+  <figcaption>A translation slides every point by the same column vector without turning or resizing the shape.</figcaption>
+</figure>
+
 
 ### What each transformation keeps
 
@@ -260,6 +302,16 @@ The image is **(3, 1), (5, 1), (5, 3)**. Each side is half as long and each angl
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/edexcel-igcse-maths-4ma1-vectors-and-transformation-geometry--08-enlargement-no-centre.webp" width="900" height="850" alt="A small right-angled triangle (legs 2 and 1) and two copies with legs 4 and 2, drawn in different places. With no centre only the size matters: lengths double, angles stay the same and sides stay parallel." loading="lazy">
   <figcaption>Enlargement with no centre can be drawn anywhere.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-transformations-and-vectors--04-enlargement-scale-factor-2.webp" width="900" height="945" alt="Triangle ABC is enlarged by scale factor 2 from P(1,1). Dashed lines from P pass through each corner to its image, which is twice as far from P. Every side doubles." loading="lazy">
+  <figcaption>An enlargement multiplies every distance from the centre, and every side, by the scale factor.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-transformations-and-vectors--05-enlargement-fractional.webp" width="900" height="1145" alt="Triangle ABC is enlarged by scale factor one half from P(1,1). Each image corner is half as far from P, giving a smaller image A'(2,2), B'(2,4), C'(4,2)." loading="lazy">
+  <figcaption>A scale factor between 0 and 1 makes the image smaller.</figcaption>
 </figure>
 
 

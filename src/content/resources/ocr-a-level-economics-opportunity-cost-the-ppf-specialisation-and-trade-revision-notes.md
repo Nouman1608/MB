@@ -192,6 +192,16 @@ Rules to remember:
   <figcaption>Barter needs n(n - 1)/2 exchange rates; money needs only n prices.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-how-markets-work--09-barter-and-money.webp" width="900" height="1250" alt="Three people each have goods the next person does not want, so barter fails. With money, each is paid in pounds and then buys what they want, so trade works." loading="lazy">
+  <figcaption>Money removes the need for a double coincidence of wants.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-economics-microeconomic-decision-makers--01-functions-of-money.webp" width="900" height="850" alt="Four panels: goods swapped for money (medium of exchange), bread and shoes priced in one unit (unit of account), coins saved in a jar to spend later (store of value), and a debt of 50 paid at a later date (deferred payment)." loading="lazy">
+  <figcaption>Money acts as a medium of exchange, unit of account, store of value and standard for deferred payment.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 

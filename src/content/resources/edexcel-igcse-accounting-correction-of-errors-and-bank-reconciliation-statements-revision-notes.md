@@ -178,6 +178,11 @@ If you start from the statement, the signs reverse: add uncredited lodgements an
 **Quick check before you write the answer.** Ask: is a statement item already in my cash book? If yes, it is a timing item or an error. If no, it is a cash book update. Ask this for every line on the statement and every line in the cash book, and tick each one as you go. An item you cannot match is the one that needs thought.
 
 <figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-accounting-correction-of-errors-and-bank-reconciliation-statements--05-halvorn-cashbook.webp" width="900" height="878" alt="Cash book 3,640 plus 700, 12 and 90, less 45, 120, 300 and 230 gives an updated balance of 3,747." loading="lazy">
+  <figcaption>Update the cash book first: 3,640 becomes 3,747.</figcaption>
+</figure>
+
+<figure class="topic-figure">
   <img src="https://img.marlbridge.com/edexcel-igcse-accounting-correction-of-errors-and-bank-reconciliation-statements--06-halvorn-reconcile.webp" width="900" height="740" alt="From 3,747, add unpresented cheques 595 and deduct the uncredited lodgement 1,100 to reach the statement balance of 3,242. The reverse route returns 3,747." loading="lazy">
   <figcaption>Add unpresented cheques, deduct the lodgement and the statement balance of 3,242 follows.</figcaption>
 </figure>
@@ -216,12 +221,6 @@ If you start from the statement, the signs reverse: add uncredited lodgements an
 8. 4,100 − 36 + 250 = 4,314.
 9. Cash book update: direct debit, credit transfer. Reconciliation item: unpresented cheque, uncredited lodgement.
 10. 3,300 + 270 − 480 = 3,090.
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/edexcel-igcse-accounting-correction-of-errors-and-bank-reconciliation-statements--05-halvorn-cashbook.webp" width="900" height="878" alt="Cash book 3,640 plus 700, 12 and 90, less 45, 120, 300 and 230 gives an updated balance of 3,747." loading="lazy">
-  <figcaption>Update the cash book first: 3,640 becomes 3,747.</figcaption>
-</figure>
-
 
 ## Where marks are usually lost
 

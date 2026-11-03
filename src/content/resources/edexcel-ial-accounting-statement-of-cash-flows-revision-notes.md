@@ -50,12 +50,6 @@ Course links: [Edexcel A-Level Accounting hub](/boards/edexcel/a-level/accountin
 - **Investing activities:** acquiring and disposing of long-term assets and investments.
 - **Financing activities:** changes in equity and borrowings.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/edexcel-ial-accounting-statement-of-cash-flows--02-three-headings.webp" width="900" height="820" alt="A waterfall of cash for the year. The company started with an overdraft of 14,600 dollars (negative cash). Operating activities added 192,900, investing used 163,000 and financing used 11,000, a net increase of 18,900, leaving closing cash and cash equivalents of 4,300 dollars." loading="lazy">
-  <figcaption>Operating, investing and financing flows move opening cash (an overdraft) to closing cash.</figcaption>
-</figure>
-
-
 ## Where each item goes
 
 | Item | Heading | Sign |
@@ -229,6 +223,11 @@ Expenses paid          = expenses (excluding depreciation) adjusted for accruals
 10. 23,000 + 310,000 − 27,500 = **305,500**.
 11. 30,000 + 21,000 = **51,000** (30,000 shares at 1.70).
 12. Current assets may be made up mostly of slow-moving inventory or receivables, so cash is tied up even though the ratio looks high.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-accounting-statement-of-cash-flows--02-three-headings.webp" width="900" height="820" alt="A waterfall of cash for the year. The company started with an overdraft of 14,600 dollars (negative cash). Operating activities added 192,900, investing used 163,000 and financing used 11,000, a net increase of 18,900, leaving closing cash and cash equivalents of 4,300 dollars." loading="lazy">
+  <figcaption>Operating, investing and financing flows move opening cash (an overdraft) to closing cash.</figcaption>
+</figure>
 
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/edexcel-ial-accounting-statement-of-cash-flows--03-adjustment-signs.webp" width="900" height="1050" alt="Bars compare 2025 and 2026 balances. Inventory rose 15,200 so cash is tied up and 15,200 is deducted. Receivables fell 7,500 so cash is released and 7,500 is added. Payables rose 6,600 so cash was held back and 6,600 is added. Depreciation 84,000 and the 7,000 loss on disposal involved no cash and are added back." loading="lazy">

@@ -154,12 +154,23 @@ Separate from *how* a bond breaks is *what happens overall* to the molecule:
   <figcaption>Each type is shown as a block picture plus a balanced example equation.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-halogenoalkanes--07-substitution-vs-elimination.webp" width="900" height="1050" alt="2-bromopropane with warm aqueous KOH gives propan-2-ol (OH- as nucleophile); with hot ethanolic KOH under reflux it gives propene, water and bromide (OH- as base)." loading="lazy">
+  <figcaption>Solvent and temperature decide whether hydroxide substitutes or eliminates (AQA, Edexcel, OxfordAQA; not in the OCR lesson).</figcaption>
+</figure>
+
 
 ## Bond fission
 
 **Homolytic** — the bond breaks evenly, each atom taking one electron, forming two **radicals**. Shown with **half-arrows** (fish hooks). Occurs with non-polar bonds under UV light.
 
 **Heterolytic** — the bond breaks unevenly, one atom taking both electrons, forming a **cation and an anion**. Shown with **full curly arrows**. Occurs with polar bonds.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-organic-chemistry-naming-mechanisms-and-aromatic-shape--02-bond-fission.webp" width="900" height="1170" alt="Cl-Cl splits with one electron to each atom giving two free radicals; H-Br splits with both electrons to Br giving H+ and Br-. Curly arrows start on the bond and end on the atom receiving the electrons." loading="lazy">
+  <figcaption>Homolytic fission gives radicals, heterolytic fission gives ions (AQA, Edexcel, OCR, OxfordAQA).</figcaption>
+</figure>
+
 
 ## Reactive species and mechanism types
 
@@ -187,12 +198,6 @@ Separate from *how* a bond breaks is *what happens overall* to the molecule:
 
 **Addition and substitution each come in an electrophilic and a nucleophilic form**: electrophilic addition adds an electrophile across an alkene's electron-rich C=C bond, while nucleophilic addition adds a nucleophile (e.g. CN⁻, from HCN) across a carbonyl's electron-poor C=O bond — the polarity of both the substrate and the attacking species simply flips between the two.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/as-chemistry-organic-introduction-revision-notes--04-rn34-four-mechanisms.webp" width="900" height="990" alt="Four cards pair a substrate with its attacker: alkane + halogen with a radical (half-headed arrow), alkene with an electrophile, halogenoalkane with a nucleophile, and carbonyl compound with a nucleophile. Curly arrows start on a bond or lone pair and end on an atom." loading="lazy">
-  <figcaption>The polarity of the substrate decides whether a radical, electrophile or nucleophile attacks.</figcaption>
-</figure>
-
-
 ## Exam traps
 
 - Forgetting implied hydrogens in skeletal formulae.
@@ -215,3 +220,34 @@ Separate from *how* a bond breaks is *what happens overall* to the molecule:
 7. Distinguish elimination from substitution, and give the term for a mechanism combining "electrophilic" with "addition".
 
 **Answers:** 1. A carbon atom, with enough hydrogen atoms to give it four bonds. 2. A C=C double bond preventing rotation, and two different groups attached to each of the double-bonded carbons. 3. A carbon bonded to four different groups; a racemate contains equal amounts of both enantiomers, whose equal and opposite rotations cancel. 4. Homolytic fission splits the pair evenly to give two radicals and uses half-arrows; heterolytic fission gives an ion pair and uses full curly arrows. 5. An alkene has no leaving group, so an electrophile can only add across the π bond, breaking it to form two new σ bonds; a halogenoalkane's halogen is a leaving group, so a nucleophile substitutes it directly rather than adding to the molecule. 6. Both carbons are sp² hybridised, giving a trigonal planar shape; this places all six atoms in a single flat plane, allowing the π bond to form by sideways overlap of the p orbitals above and below that plane. 7. Elimination removes a small molecule, typically forming a double bond, while substitution replaces one atom or group with another; electrophilic addition describes an electrophile attacking an electron-rich double bond so that two reactants become one product.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/as-chemistry-organic-introduction-revision-notes--04-rn34-four-mechanisms.webp" width="900" height="990" alt="Four cards pair a substrate with its attacker: alkane + halogen with a radical (half-headed arrow), alkene with an electrophile, halogenoalkane with a nucleophile, and carbonyl compound with a nucleophile. Curly arrows start on a bond or lone pair and end on an atom." loading="lazy">
+  <figcaption>The polarity of the substrate decides whether a radical, electrophile or nucleophile attacks.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-electron-pair-sharing-nucleophiles-electrophiles-and--01-nucleophiles.webp" width="900" height="880" alt="Four nucleophiles are drawn with their lone pairs: hydroxide and cyanide ions (negative) and water and ammonia (neutral). A gold ring marks the lone pair each one donates to make a new covalent bond." loading="lazy">
+  <figcaption>A nucleophile needs a spare lone pair and may be negative or neutral.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-electron-pair-sharing-nucleophiles-electrophiles-and--02-electrophiles.webp" width="900" height="880" alt="Four electrophiles are drawn with a dashed gold ring on the site that accepts an electron pair: H+ and a carbocation with six outer electrons (positive), and HBr and a halogenoalkane with delta-plus H or C (neutral)." loading="lazy">
+  <figcaption>Electrophiles are positive or delta-plus species that accept an electron pair.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-chemistry-organic-mechanisms-revision-notes--01-rn-arrow-rules.webp" width="900" height="960" alt="Three rows compare a correct and an incorrect curly arrow for hydroxide attacking bromomethane: start on a lone pair or bond not a charge, end on an atom or new bond not empty space, and charges must balance (-1 to -1 is right, -1 to 0 is wrong)." loading="lazy">
+  <figcaption>Arrows start on a lone pair or bond, end on an atom or new bond, and charges must balance. (A Level)</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-organic-chemistry-naming-mechanisms-and-aromatic-shape--03-radical-substitution.webp" width="900" height="1160" alt="Initiation by UV splits Cl2; two propagation steps form a repeating cycle (Cl radical to methyl radical and back) making HCl and CH3Cl; termination steps remove radicals." loading="lazy">
+  <figcaption>A chain reaction of initiation, propagation and termination (AQA, Edexcel, OCR, OxfordAQA).</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-alkenes--05-hbr-mechanism.webp" width="900" height="923" alt="Curly arrow 1 from the C=C bond to the delta-plus H, arrow 2 from the H-Br bond to Br, giving CH3CH2+ and Br-; arrow 3 from a Br- lone pair to C+ gives bromoethane." loading="lazy">
+  <figcaption>Three curly arrows: from the C=C, from the H-Br bond, and from a bromide lone pair.</figcaption>
+</figure>
+

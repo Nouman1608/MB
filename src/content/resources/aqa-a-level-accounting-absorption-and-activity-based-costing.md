@@ -333,6 +333,12 @@ Reconcile with marginal profit:
 
 ABC profit is highest because unsold Premium units carry a large ABC overhead.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-absorption-and-activity-based-costing--02-break-even-chart.webp" width="900" height="1038" alt="A 110 pound bench splits into 66 pounds marginal cost and 44 pounds contribution. On the chart, revenue crosses total costs at 1,400 benches and 154,000 pounds; left is loss, right is profit. At budgeted sales of 2,000 benches profit is 26,400 pounds and the margin of safety is 600 benches." loading="lazy">
+  <figcaption>Break-even is where revenue meets total cost; the gap to budgeted sales is the margin of safety.</figcaption>
+</figure>
+
+
 ### Benefits and limitations
 
 **Absorption costing**

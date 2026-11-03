@@ -32,12 +32,6 @@ These notes condense the AQA A-level Economics (7136) content on the demand curv
 - **Shift:** caused by any other influence; rightward is an increase, leftward a decrease.
 - **Elasticity:** how far quantity demanded reacts when price, income or another good's price changes.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/aqa-a-level-economics-demand-shifts-in-demand-and-elasticities-of-demand--01-demand-why-slopes-down.webp" width="900" height="1000" alt="A demand line with the oat-bar price rising from 1.00 to 1.50 and quantity falling from 400 to 300. Two panels give the reasons: substitution (the good is dearer than others, buyers switch) and income effect (an illustrative 12 pound budget buys 12 bars at 1.00 but 8 at 1.50)." loading="lazy">
-  <figcaption>A higher own price moves buyers up the curve through substitution and a fall in real purchasing power.</figcaption>
-</figure>
-
-
 ## Causes of shifts
 
 | Rightward shift (increase) | Leftward shift (decrease) |
@@ -128,8 +122,8 @@ Method in steps:
 - XED near 0: little relationship.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/aqa-a-level-economics-demand-shifts-in-demand-and-elasticities-of-demand--04-yed-slope-zones.webp" width="900" height="860" alt="Percentage change in demand against percentage change in income as straight lines whose slope is the YED: meals +1.5, bread +0.2, bus -1.0. Shaded zones mark elastic (above 1), inelastic (0 to 1) and inferior (negative)." loading="lazy">
-  <figcaption>YED is the slope of demand against income: above 1 elastic, 0 to 1 inelastic, below 0 inferior.</figcaption>
+  <img src="https://img.marlbridge.com/a-level-economics-price-system-and-the-microeconomy--02-yed-and-xed-signs.webp" width="900" height="960" alt="Two number lines from minus 1 to plus 2. For income elasticity, negative values mean an inferior good and positive values a normal good; examples are YED minus 0.5 (income up 10 percent, demand down 5 percent) and plus 1.5. For cross elasticity, negative means complements and positive means substitutes; examples are XED minus 0.5 and plus 1.5 when the price of B rises 20 percent." loading="lazy">
+  <figcaption>The sign of YED shows inferior or normal; the sign of XED shows complements or substitutes.</figcaption>
 </figure>
 
 
@@ -140,17 +134,6 @@ Method in steps:
 | PED | More and closer substitutes; luxury; large share of income; longer time period; narrowly defined good |
 | YED | Luxury-type goods; goods with a higher-quality alternative (a stronger negative response if inferior); the income level, since a good can move from normal to inferior |
 | XED | Closer substitutes; tighter complements; narrower market definition |
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/aqa-a-level-economics-demand-shifts-in-demand-and-elasticities-of-demand--14-yed-income-change.webp" width="900" height="1010" alt="Bars show the change in demand. With Town B income up 10%: restaurant meals +15% (YED +1.5), bread +2% (+0.2), budget bus tickets -10% (-1.0). In a recession with income down 4%: a good with YED +2.0 loses 8% of demand, a good with YED -0.5 gains 2%." loading="lazy">
-  <figcaption>The sign of YED gives normal or inferior; its size gives how strongly demand responds.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/aqa-a-level-economics-demand-shifts-in-demand-and-elasticities-of-demand--03-xed-substitutes-complements.webp" width="900" height="880" alt="Two panels: brand X price +8% raises demand for brand Y 12% (XED +1.5, substitutes); printer price +10% cuts ink demand 6% (XED -0.6, complements). Quantity bars are before and after." loading="lazy">
-  <figcaption>The numerator is the quantity of the good studied and the denominator is the other good’s price; the sign shows substitutes or complements.</figcaption>
-</figure>
-
 
 ## Diagram reminders in words
 
@@ -210,6 +193,27 @@ Revenue rises as price goes up to £4, then falls. At the lower prices demand is
 8. Any two: fall in income; fall in price of a substitute; rise in price of a complement; tastes turn against it; expected price fall.
 9. Buyers have time to find substitutes, change habits or move.
 10. 2.0 × −4 = **demand falls 8%**.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-demand-shifts-in-demand-and-elasticities-of-demand--14-yed-income-change.webp" width="900" height="1010" alt="Bars show the change in demand. With Town B income up 10%: restaurant meals +15% (YED +1.5), bread +2% (+0.2), budget bus tickets -10% (-1.0). In a recession with income down 4%: a good with YED +2.0 loses 8% of demand, a good with YED -0.5 gains 2%." loading="lazy">
+  <figcaption>The sign of YED gives normal or inferior; its size gives how strongly demand responds.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-demand-shifts-in-demand-and-elasticities-of-demand--01-demand-why-slopes-down.webp" width="900" height="1000" alt="A demand line with the oat-bar price rising from 1.00 to 1.50 and quantity falling from 400 to 300. Two panels give the reasons: substitution (the good is dearer than others, buyers switch) and income effect (an illustrative 12 pound budget buys 12 bars at 1.00 but 8 at 1.50)." loading="lazy">
+  <figcaption>A higher own price moves buyers up the curve through substitution and a fall in real purchasing power.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-demand-shifts-in-demand-and-elasticities-of-demand--03-xed-substitutes-complements.webp" width="900" height="880" alt="Two panels: brand X price +8% raises demand for brand Y 12% (XED +1.5, substitutes); printer price +10% cuts ink demand 6% (XED -0.6, complements). Quantity bars are before and after." loading="lazy">
+  <figcaption>The numerator is the quantity of the good studied and the denominator is the other good’s price; the sign shows substitutes or complements.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-demand-shifts-in-demand-and-elasticities-of-demand--04-yed-slope-zones.webp" width="900" height="860" alt="Percentage change in demand against percentage change in income as straight lines whose slope is the YED: meals +1.5, bread +0.2, bus -1.0. Shaded zones mark elastic (above 1), inelastic (0 to 1) and inferior (negative)." loading="lazy">
+  <figcaption>YED is the slope of demand against income: above 1 elastic, 0 to 1 inelastic, below 0 inferior.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

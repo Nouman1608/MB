@@ -154,12 +154,6 @@ A series of **paired** statements. At each step choose the one that applies and 
 
 When constructing one: use **observable, contrasting** features only, phrase each pair so exactly one must apply, and avoid anything relative such as "large" without a comparison. Features like colour or behaviour that vary with age or season make unreliable keys.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-biology-characteristics-and-classification-of-living-organisms--04-dichotomous-key.webp" width="900" height="1006" alt="A flow chart of the lesson key: has a backbone? no is invertebrate; has feathers? yes bird; has fur or hair? yes mammal; has fins? yes fish; dry scaly skin? yes reptile, no (moist skin) amphibian. Each question has two answers." loading="lazy">
-  <figcaption>Answer one two-way question at a time to reach a name.</figcaption>
-</figure>
-
-
 ## Exam traps
 
 - Defining growth without "permanent" or without "dry mass".
@@ -178,3 +172,9 @@ When constructing one: use **observable, contrasting** features only, phrase eac
 5. **(Supplement)** Give two differences between monocotyledons and dicotyledons.
 
 **Answers:** 1. Movement, respiration, sensitivity, growth, reproduction, excretion, nutrition; growth is a permanent increase in size and dry mass; excretion is the removal of the waste products of metabolism and substances in excess of requirements. 2. Excretion removes waste produced by the body's own chemical reactions; egestion removes undigested food that was never absorbed. 3. Animal (multicellular, ingests food), Plant (chloroplasts, cellulose wall, photosynthesis), Fungus (chitin wall, saprotrophic), Prokaryote (no nucleus), Protoctist (has a nucleus, mostly single-celled). 4. Insects have six legs and three body parts; arachnids have eight legs and two body parts and no antennae. 5. One cotyledon versus two; parallel versus branching leaf veins (also flower parts in threes versus fours or fives).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-characteristics-and-classification-of-living-organisms--04-dichotomous-key.webp" width="900" height="1006" alt="A flow chart of the lesson key: has a backbone? no is invertebrate; has feathers? yes bird; has fur or hair? yes mammal; has fins? yes fish; dry scaly skin? yes reptile, no (moist skin) amphibian. Each question has two answers." loading="lazy">
+  <figcaption>Answer one two-way question at a time to reach a name.</figcaption>
+</figure>
+

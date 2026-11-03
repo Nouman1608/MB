@@ -213,6 +213,12 @@ Which system is best depends on openness, institutions, reserves, the type of sh
 9. A target rate that the authorities adjust gradually by a set rule.
 10. Imports and imported inputs cost more in home currency, raising costs and prices.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-exchange-rate-determination-measures-and-systems--06-quote-direction-percent.webp" width="900" height="810" alt="When the rate moves from 2.50 to 2.80 luma per bex, the luma depreciates 10.7 percent in bex terms while the bex appreciates 12.0 percent in luma terms. A 40-bex good rises from 100 to 112 luma." loading="lazy">
+  <figcaption>The same rate move gives different percentages because the base differs.</figcaption>
+</figure>
+
+
 ## Where marks are usually lost
 
 - Not saying which currency the price is quoted in, and so reversing the direction of change.

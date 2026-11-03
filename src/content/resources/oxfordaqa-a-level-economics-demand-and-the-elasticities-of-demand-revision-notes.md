@@ -55,6 +55,11 @@ Picture two parallel downward-sloping lines, the second to the right of the firs
 </figure>
 
 <figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-demand-and-the-elasticities-of-demand--05-demand-schedule.webp" width="900" height="965" alt="Graph of price against loaves per day with five points from Q = 140 - 20P, plus the schedule below: prices 2 to 6 give 100, 80, 60, 40 and 20 loaves." loading="lazy">
+  <figcaption>Each column of the demand schedule is one point on the downward-sloping demand curve.</figcaption>
+</figure>
+
+<figure class="topic-figure">
   <img src="https://img.marlbridge.com/igcse-economics-the-allocation-of-resources--03-shifts-of-demand.webp" width="900" height="1000" alt="Three parallel demand curves: D1 original, D2 to the right (increase; at price 5 quantity 40 to 60), D3 to the left (decrease; 40 to 20). Rightward shifts come from rising income, tastes favouring the good, or a dearer substitute; leftward shifts from the opposite." loading="lazy">
   <figcaption>A shift of the whole demand curve is caused by a non-price condition such as income, tastes or the price of related goods.</figcaption>
 </figure>

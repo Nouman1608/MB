@@ -160,6 +160,12 @@ The closing balance becomes next month's opening balance.
 
 **Use**: it warns of shortages in advance, supports loan or overdraft requests, and helps time purchases. **Limitations**: it rests on forecast sales (see section 2); late-paying customers or unexpected costs upset it; it must be updated; and a positive balance does not prove profit.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-business-finance--06-cash-flow-forecast.webp" width="900" height="1110" alt="Paired bars show cash in and cash out for three months, with closing balances 1,300, (1,300) and 1,500. Each opening balance is the previous closing balance; month 2 is overdrawn by 1,300." loading="lazy">
+  <figcaption>A business can run out of cash in a month even when it trades well overall.</figcaption>
+</figure>
+
+
 ## 5. Budgets
 
 A **budget** is a financial plan for a future period, set for a department or the whole business. **Purposes**: to set targets, control spending, allocate resources, coordinate departments, motivate managers and allow later comparison with actual results.
@@ -188,6 +194,11 @@ The profit variance equals −3,500 − 1,400 + 300 = −4,600. Revenue fell 8.7
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/edexcel-ial-business-financial-planning-and-managing-finance--04-budget-historical-v-zero.webp" width="900" height="850" alt="A historical budget starts from last actual spending of 3,000 plus 5% to give 3,150. A zero-based budget starts at 0 and adds only justified items (1,200, 600, 500) to reach 2,300." loading="lazy">
   <figcaption>Historical budgets start from last period; zero-based budgets start from nothing.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-business-finance--05-budget-variances.webp" width="900" height="950" alt="Variances grow right when favourable and left when adverse: revenue 3,600 F, ingredients 1,800 A, wages 600 F, rent 0, profit 2,400 F. The profit variance equals the net of the others." loading="lazy">
+  <figcaption>A variance is favourable if it raises profit and adverse if it lowers it; a cost above budget is adverse.</figcaption>
 </figure>
 
 
@@ -221,6 +232,16 @@ Each margin is the profit measure ÷ revenue × 100. Compare margins with earlie
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/edexcel-ial-business-financial-planning-and-managing-finance--02-margin-levers-hallam-vale.webp" width="900" height="1090" alt="Bars for Hallam Vale Textiles. Now: 192,000 gross profit on 480,000, margin 40%. A 5% price rise gives revenue 504,000 and margin 42.9%. A 2% fall in cost of sales gives gross profit 197,760 and margin 41.2%." loading="lazy">
   <figcaption>A 5% price rise lifts gross margin from 40% to 42.9%; a 2% cost cut lifts it to 41.2%.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-business-finance--04-profit-margins.webp" width="900" height="880" alt="Four bars on one scale: revenue 640,000, gross profit 256,000 (40%), operating profit 83,200 (13%) and net profit 57,600 (9%). Overheads, not production costs, absorb most of the gross profit." loading="lazy">
+  <figcaption>Each profit level leaves a smaller share of revenue as costs are deducted.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-business-business-operations--07-profit-not-cash.webp" width="900" height="985" alt="Illustrative: profit of 2,000 pounds each month, but cash at month end is minus 3,000, minus 1,000 then plus 1,000 pounds because customers pay a month late." loading="lazy">
+  <figcaption>A business can make a profit on paper yet run out of cash if customers pay late.</figcaption>
 </figure>
 
 
@@ -283,6 +304,11 @@ Link causes to figures: a business that overestimated sales may hold unsold inve
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/edexcel-ial-business-financial-planning-and-managing-finance--03-overestimate-chain.webp" width="900" height="935" alt="A five-step chain: forecast too high, inventory bought on credit, sales fall short, cash tied up in unsold stock, bills due and cash runs out." loading="lazy">
   <figcaption>Overestimating sales can end in a cash shortage even when the business is trading.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/enterprise-business-growth-and-size--07-liquidity-failure.webp" width="900" height="990" alt="Example with invented numbers. Sales of $100 less costs of $80 give a paper profit of $20, but bills of $80 fall due at day 30 and customers pay only at day 60. Cash falls from $20 to minus $60 and the firm cannot pay its bills, so a profitable firm can still fail." loading="lazy">
+  <figcaption>A firm can be profitable on paper but fail if cash runs out before customers pay.</figcaption>
 </figure>
 
 

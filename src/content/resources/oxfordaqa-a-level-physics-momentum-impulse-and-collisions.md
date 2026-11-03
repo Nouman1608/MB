@@ -156,6 +156,12 @@ F = Δ(mv)/Δt = **17 N** (2 s.f.)
 
 If the water bounced back it would lose more momentum per second, so the force would be larger.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-oxfordaqa-physics-motion-and-newtons-laws--03-lift-tension.webp" width="900" height="900" alt="Three free-body diagrams of a 640 kg lift to one scale. Accelerating upward the tension is 7.0 kN, at constant speed 6.3 kN, and decelerating while moving up 5.5 kN, always against a weight of 6.3 kN. Net force is 0.77 kN up, zero, and 0.77 kN down." loading="lazy">
+  <figcaption>Tension is larger than weight when acceleration is upward and smaller when it is downward, T = m(g + a).</figcaption>
+</figure>
+
+
 ## Impulse
 
 Rearranging gives, for a constant force:
@@ -200,6 +206,12 @@ Trapezium rule with strip width 0.0030 s:
 Impulse = 0.0030 × [½(0 + 0) + 240 + 520 + 380 + 120] = 0.0030 × 1260 = **3.8 N s**
 Final speed = 3.78 / 0.20 = **19 m s⁻¹**
 Average force = 3.78 / 0.015 = **250 N**, which is about half the 520 N peak.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-oxfordaqa-physics-motion-and-newtons-laws--04-terminal-velocity.webp" width="900" height="1130" alt="A velocity-time graph for a faller computed from a drag-squared model, with points A to E and matching free-body diagrams. Drag grows from zero until it equals the weight at terminal velocity (40 m s-1), then the parachute opens, drag exceeds weight and the speed falls to a smaller terminal velocity (8 m s-1) where drag again equals weight." loading="lazy">
+  <figcaption>Acceleration falls to zero as drag grows to equal weight; opening a parachute gives a new, smaller terminal velocity.</figcaption>
+</figure>
+
 
 ## Impact forces and contact times
 

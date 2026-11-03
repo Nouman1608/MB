@@ -161,6 +161,11 @@ Quick matching guide:
 Treat this as a starting point. Always check the facts in the question, because they can change the answer.
 
 <figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-0264-business-finance--04-bf-recommend-justify.webp" width="900" height="930" alt="Rowanby needs 25,000 pounds for ten or more years as a sole trader. A bank loan is recommended; issuing shares fails on legal form; an overdraft is costly and can be called in. The existing 10,000 pound loan means repayments need checking." loading="lazy">
+  <figcaption>A strong answer picks one source and gives case-based reasons against the others.</figcaption>
+</figure>
+
+<figure class="topic-figure">
   <img src="https://img.marlbridge.com/a-level-aqa-accounting-types-of-business-organisation--03-finance-access.webp" width="900" height="1086" alt="A grid shows which of seven named sources each ownership type can use: owner's capital for sole traders, partners' capital for partnerships, shares and debentures for limited companies (mainly large-scale for plcs), and overdraft, loan and mortgage for all. A Cambridge-only box names instalments, leasing, trade credit and secured/unsecured loans." loading="lazy">
   <figcaption>Match each source of finance to the ownership types that can realistically use it.</figcaption>
 </figure>
@@ -235,12 +240,6 @@ Raised = £24,000. New holders own 30,000 / 150,000 = 20%.
 - Mixing up leasing and hire purchase.
 - Forgetting to subtract current liabilities, or giving a negative result the wrong sign.
 - Treating a grant like a loan, or forgetting that a loan must be repaid with interest.
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-business-0264-business-finance--04-bf-recommend-justify.webp" width="900" height="930" alt="Rowanby needs 25,000 pounds for ten or more years as a sole trader. A bank loan is recommended; issuing shares fails on legal form; an overdraft is costly and can be called in. The existing 10,000 pound loan means repayments need checking." loading="lazy">
-  <figcaption>A strong answer picks one source and gives case-based reasons against the others.</figcaption>
-</figure>
-
 
 ## Official syllabus
 

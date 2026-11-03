@@ -110,6 +110,11 @@ For r outside the charge (or the sphere's surface), with a positive charge:
 For a negative charge both V and the E direction flip: V is negative and rises towards zero. If you draw magnitudes only, say so on the axis. On a graph of V against r, doubling r halves V; on the graph of E, doubling r quarters E.
 
 <figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-capacitance--06-rc-charge-discharge-curves.webp" width="900" height="1130" alt="Against time in units of RC, charging makes Q and the capacitor p.d. rise towards their final values (63 percent at one RC) while the current and resistor p.d. fall from their maximum. V_R + V_C always equals V0. Discharging makes Q, V and I all fall with the same exponential shape (37 percent at one RC)." loading="lazy">
+  <figcaption>Charge and p.d. rise or fall, but the current always decays exponentially.</figcaption>
+</figure>
+
+<figure class="topic-figure">
   <img src="https://img.marlbridge.com/a-physics-capacitance--07-time-constant-tau.webp" width="900" height="930" alt="A discharge curve plotted against multiples of the time constant falls to 36.8, 13.5 and 5.0 percent at 1, 2 and 3 tau. The tangent at t = 0 meets the time axis at t = RC. For 470 microfarad and 33 kilohm tau is 15.5 s, and 37 percent is still left after one tau." loading="lazy">
   <figcaption>After one time constant a capacitor has not fully discharged: 37% remains.</figcaption>
 </figure>

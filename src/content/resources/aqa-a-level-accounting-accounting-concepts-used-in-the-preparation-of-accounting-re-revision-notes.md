@@ -51,6 +51,16 @@ Course links: [AQA A-Level Accounting hub](/boards/aqa/a-level/accounting/) ·
 the accounts as a whole (going concern, consistency, materiality).
 
 <figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-edexcel-accounting-principles-and-double-entry-bookkeeping--01-two-branches.webp" width="900" height="960" alt="Two cards compare financial accounting (looks back, read by outside users such as owners, lenders and tax authorities, fixed format set by law; income statement and statement of financial position) with management accounting (looks forward, read by managers, any format at any time; budgets, costing, investment appraisal)." loading="lazy">
+  <figcaption>Financial accounting reports the past to outsiders; management accounting informs managers about the future.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-edexcel-accounting-principles-and-double-entry-bookkeeping--02-who-reads-accounts.webp" width="900" height="1110" alt="A hub labelled Accounts links to six users: shareholders (profit and dividends), lenders (can they repay), suppliers (will bills be paid), managers (plan and control), employees (secure jobs and pay) and government (tax due). A highlighted box shows shareholders wanting dividends now while lenders prefer profit kept in." loading="lazy">
+  <figcaption>Different users want different things from the same accounts, and their needs can conflict.</figcaption>
+</figure>
+
+<figure class="topic-figure">
   <img src="https://img.marlbridge.com/a-level-edexcel-accounting-principles-and-double-entry-bookkeeping--03-equation-loan-drawings.webp" width="900" height="1130" alt="Three panels show assets equal to liabilities plus capital. Starting at 10,000 dollars each side (illustrative split 2,000 liabilities, 8,000 capital), a 5,000 dollar loan raises assets and liabilities to 15,000, then 500 dollars of drawings lowers assets and capital so both sides are 14,500." loading="lazy">
   <figcaption>A loan raises assets and liabilities; drawings lower assets and capital; the equation always balances.</figcaption>
 </figure>
@@ -89,11 +99,6 @@ the accounts as a whole (going concern, consistency, materiality).
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/a-level-edexcel-accounting-principles-and-double-entry-bookkeeping--05-stock-lower-of-cost-nrv.webp" width="900" height="1110" alt="Three stock lines each show cost and NRV bars with a tick on the lower. Desk lamps use cost (2,160 against 3,360); floor lamps use NRV (1,360 against 1,800); lampshades use NRV (900 against 1,200). Item by item gives 4,420; comparing totals would keep 5,160 and hide a 740 loss." loading="lazy">
   <figcaption>Stock is valued at the lower of cost and NRV for each item, not on the totals.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-level-edexcel-accounting-principles-and-double-entry-bookkeeping--07-depreciation-two-methods.webp" width="900" height="970" alt="Grouped bars show yearly depreciation of a 10,000 dollar asset with 1,000 residual value over four years. Straight line is 2,250 each year; reducing balance at 43.77 percent is 4,377, 2,461, 1,384 and 778. Both total 9,000, so reducing balance gives lower profit early and higher profit later." loading="lazy">
-  <figcaption>Both methods write off the same total but reducing balance charges more early.</figcaption>
 </figure>
 
 
@@ -202,6 +207,12 @@ return goods change the closing inventory figure.
 10. 40 × (12.00 − 9.50) = **£100**.
 11. Money measurement: it has no reliable money value.
 12. Prudence: write the debt off as irrecoverable (recognise the loss now).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-edexcel-accounting-principles-and-double-entry-bookkeeping--07-depreciation-two-methods.webp" width="900" height="970" alt="Grouped bars show yearly depreciation of a 10,000 dollar asset with 1,000 residual value over four years. Straight line is 2,250 each year; reducing balance at 43.77 percent is 4,377, 2,461, 1,384 and 778. Both total 9,000, so reducing balance gives lower profit early and higher profit later." loading="lazy">
+  <figcaption>Both methods write off the same total but reducing balance charges more early.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

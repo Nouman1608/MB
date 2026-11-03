@@ -30,6 +30,12 @@ These notes condense sections 3.1.7 Water and 3.1.8 Inorganic ions of Topic 1 in
 
 Water is polar: δ− oxygen, δ+ hydrogen. Neighbouring molecules are joined by hydrogen bonds. Each bond is weak, but there are huge numbers, so together they give water its biological properties.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-carbohydrates-and-lipids--04-alpha-beta-glucose.webp" width="900" height="870" alt="Two ring drawings of glucose, each with five carbons and one oxygen, numbered 1 to 5 clockwise from the right-hand carbon, with CH2OH on carbon 5. OH on carbons 2 and 4 is below the ring and on carbon 3 above, in both. In alpha-glucose the OH on carbon 1 is below the ring and H above; in beta-glucose the OH is above and H below. Both are C6H12O6." loading="lazy">
+  <figcaption>The alpha and beta forms differ only in the position of the OH on carbon 1.</figcaption>
+</figure>
+
+
 ## 3.1.7 Water: property, reason, role
 
 | Property | Reason | Biological role |
@@ -147,11 +153,6 @@ Ions occur in solution in cytoplasm and body fluids. Some are at high concentrat
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-level-biology-9700-carbohydrates-and-lipids--05-condensation-hydrolysis.webp" width="900" height="1300" alt="Top: two alpha-glucose rings join; the OH on carbon 1 of one and the H of the OH on carbon 4 of the other leave as water, leaving a C-O-C glycosidic bond. The product is maltose, Mr 342 (180 + 180 - 18). Bottom: glycine and alanine join the same way; OH from glycine and H from alanine leave as water, forming a peptide bond. Gly-Ala has Mr 146 (75 + 89 - 18). Hydrolysis reverses each change by adding water." loading="lazy">
-  <figcaption>Condensation joins monomers and releases water; hydrolysis adds water and splits the bond.</figcaption>
-</figure>
-
-<figure class="topic-figure">
   <img src="https://img.marlbridge.com/a-level-biology-9700-carbohydrates-and-lipids--07-triglyceride-phospholipid.webp" width="900" height="1300" alt="Top: a triglyceride is a glycerol backbone of three carbons, each joined by an ester bond (O-C=O) to a fatty acid tail; two tails are straight (saturated) and one has a C=C double bond that kinks it. Three ester bonds release three water molecules. Bottom: a phospholipid has glycerol with two fatty acid tails and a phosphate head in place of the third fatty acid; the head is hydrophilic and the tails hydrophobic." loading="lazy">
   <figcaption>Both lipids are built on glycerol; phospholipids swap one fatty acid for a hydrophilic phosphate.</figcaption>
 </figure>
@@ -211,6 +212,12 @@ Ions occur in solution in cytoplasm and body fluids. Some are at high concentrat
 8. Less Na⁺ leaves the cell, so the Na⁺ gradient is lost, so less co-transport of glucose.
 9. Strong cohesion between water molecules at the surface produces surface tension, a skin that supports a light animal.
 10. (40 − 25) ÷ 40 × 100 = **37.5%**.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-carbohydrates-and-lipids--05-condensation-hydrolysis.webp" width="900" height="1300" alt="Top: two alpha-glucose rings join; the OH on carbon 1 of one and the H of the OH on carbon 4 of the other leave as water, leaving a C-O-C glycosidic bond. The product is maltose, Mr 342 (180 + 180 - 18). Bottom: glycine and alanine join the same way; OH from glycine and H from alanine leave as water, forming a peptide bond. Gly-Ala has Mr 146 (75 + 89 - 18). Hydrolysis reverses each change by adding water." loading="lazy">
+  <figcaption>Condensation joins monomers and releases water; hydrolysis adds water and splits the bond.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

@@ -129,18 +129,17 @@ Reminder: with c = 4.18 J per g per K, heating 500 g of water by 3 K needs 500 x
 
 Reminder: 5'-TTGACA-3' pairs to give 3'-AACTGT-5', which is 5'-TGTCAA-3'.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ib-dp-biology-water-and-nucleic-acids-properties-of-water-dna-and--06-base-pairing-antiparallel.webp" width="900" height="958" alt="Two DNA strands run in opposite directions. The top strand reads 5 prime GATTCAGC 3 prime. A pairs with T through hydrogen bonds and G pairs with C, so the lower strand reads 3 prime CTAAGTCG 5 prime, which is 5 prime GCTGAATC 3 prime when written in the usual direction. If the lower strand is the template, the mRNA is 5 prime GAUUCAGC 3 prime, where U pairs with A. For HL: every pair is a double-ring purine (A or G) with a single-ring pyrimidine (C, T or U), so every pair is the same length." loading="lazy">
-  <figcaption>A pairs with T and G with C on antiparallel strands, and U pairs with A in mRNA.</figcaption>
-</figure>
-
-
 ### Information and ancestry (A1.2.8 to A1.2.10)
 
 - Complementary base pairing, based on hydrogen bonding, makes replication (copying) and expression (transcription) possible.
 - Sequence of n bases: 4ⁿ possible sequences. Any length and any order are possible, so capacity is limitless.
 - DNA stores a lot of information in a very small volume.
 - The genetic code is shared across nearly all life, which supports common ancestry.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-water-and-nucleic-acids-properties-of-water-dna-and--06-base-pairing-antiparallel.webp" width="900" height="958" alt="Two DNA strands run in opposite directions. The top strand reads 5 prime GATTCAGC 3 prime. A pairs with T through hydrogen bonds and G pairs with C, so the lower strand reads 3 prime CTAAGTCG 5 prime, which is 5 prime GCTGAATC 3 prime when written in the usual direction. If the lower strand is the template, the mRNA is 5 prime GAUUCAGC 3 prime, where U pairs with A. For HL: every pair is a double-ring purine (A or G) with a single-ring pyrimidine (C, T or U), so every pair is the same length." loading="lazy">
+  <figcaption>A pairs with T and G with C on antiparallel strands, and U pairs with A in mRNA.</figcaption>
+</figure>
 
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/ib-dp-biology-water-and-nucleic-acids-properties-of-water-dna-and--07-dna-vs-rna.webp" width="900" height="960" alt="Left, DNA: the sugar is deoxyribose, which has only a hydrogen atom on carbon 2, and DNA has two strands with the bases A, T, G and C. Right, RNA: the sugar is ribose, which has an OH group on carbon 2, and RNA is usually a single strand with the bases A, U, G and C. Thymine is found only in DNA and uracil only in RNA." loading="lazy">
@@ -185,12 +184,6 @@ For Chargaff-style tables, check three things in turn: whether A is close to T, 
 - DNA against RNA in strands, sugar and bases.
 - Deoxyribose against ribose.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ib-dp-biology-water-and-nucleic-acids-properties-of-water-dna-and--09-nucleosome.webp" width="900" height="860" alt="A nucleosome is DNA wound about one and two thirds turns round a core of eight histone proteins. A further histone, the linker histone, attaches to the linker DNA that joins one nucleosome to the next. This is HL only." loading="lazy">
-  <figcaption>A nucleosome is DNA wound round eight histones, with a linker histone on the linker DNA.</figcaption>
-</figure>
-
-
 ## Quick self-test
 
 1. Name the type of bond between the oxygen of one water molecule and a hydrogen of another.
@@ -220,6 +213,12 @@ For Chargaff-style tables, check three things in turn: whether A is close to T, 
 10. Adenine and guanine.
 11. 92%. The DNA label entered the bacteria, which supports DNA as the genetic material.
 12. The tetranucleotide hypothesis, that the four bases repeat in a fixed sequence.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-water-and-nucleic-acids-properties-of-water-dna-and--09-nucleosome.webp" width="900" height="860" alt="A nucleosome is DNA wound about one and two thirds turns round a core of eight histone proteins. A further histone, the linker histone, attaches to the linker DNA that joins one nucleosome to the next. This is HL only." loading="lazy">
+  <figcaption>A nucleosome is DNA wound round eight histones, with a linker histone on the linker DNA.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

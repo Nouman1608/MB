@@ -177,6 +177,11 @@ Starting at 1 rules out sine and tangent (both start at 0). It is **y = cos x**.
   <figcaption>Tan x has asymptotes at 90 and 270 degrees and repeats every 180 degrees.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-graphs-of-functions-and-sketching-curves--06-asymptotes.webp" width="900" height="1230" alt="Two Extended sketches with dashed asymptotes. y = 2/x + 1 has asymptotes x = 0 and y = 1 and crosses the x-axis at (−2, 0). y = 3 × 2ˣ − 6 has asymptote y = −6, y-intercept (0, −3) and root x = 1." loading="lazy">
+  <figcaption>Reciprocal and exponential curves approach their asymptotes but never cross or touch them.</figcaption>
+</figure>
+
 
 ## Translations and reflections (7.03a)
 
@@ -253,12 +258,6 @@ You can also reflect a curve by reflecting its key points. For the x-axis, chang
 - Using radians. Angles here are in degrees.
 
 When you are ready, test yourself with the [practice questions](/resources/ocr-gcse-mathematics-exponential-and-trigonometric-graphs-and-practice/) and use the [revision notes](/resources/ocr-gcse-mathematics-exponential-and-trigonometric-graphs-and-revision-notes/) for quick recall.
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-mathematics-0580-graphs-of-functions-and-sketching-curves--06-asymptotes.webp" width="900" height="1230" alt="Two Extended sketches with dashed asymptotes. y = 2/x + 1 has asymptotes x = 0 and y = 1 and crosses the x-axis at (−2, 0). y = 3 × 2ˣ − 6 has asymptote y = −6, y-intercept (0, −3) and root x = 1." loading="lazy">
-  <figcaption>Reciprocal and exponential curves approach their asymptotes but never cross or touch them.</figcaption>
-</figure>
-
 
 ## Official syllabus
 

@@ -176,22 +176,6 @@ P(A) = 0.6, P(B) = 0.5 and P(neither) = 0.1. At least one: 0.9. Both = 0.6 + 0.5
 
 Fill the centre, then the three "exactly two" regions, then the "only" regions. Each "only" value is a circle total minus the three other regions that lie inside that circle. Total the seven regions and subtract from the group size for "none".
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-mathematics-0580-probability-and-expected-frequency--03-venn-two-sets.webp" width="900" height="680" alt="Three copies of a Venn diagram of 32 club members (swim only 9, both 5, tennis only 11, neither 7). Shading shows plays tennis 16/32, exactly one sport 20/32 and neither 7/32." loading="lazy">
-  <figcaption>Shade the region you want, add its counts, and divide by the total of 32.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-mathematics-0580-sets--03-unknown-overlap.webp" width="900" height="1010" alt="Two Venn diagrams of 50 tourists. First the regions are written with x for the overlap (31−x, x, 27−x, x÷2); solving gives x = 16. Then the filled counts 15, 16, 11 and 8 add to 50." loading="lazy">
-  <figcaption>Call the overlap x, write each region in terms of x, then solve.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-mathematics-0580-sets--05-three-set-venn.webp" width="900" height="990" alt="A three-circle Venn diagram of 60 students with all eight regions filled: 9, 10, 9 only; 10, 8, 7 for pairs; 2 for all three; 5 for none. Circle totals are 28, 30 and 26." loading="lazy">
-  <figcaption>Fill the centre first; the eight regions then add to 60.</figcaption>
-</figure>
-
-
 ## Quick self-test
 
 1. A coin is tossed and then a fair three-sided spinner (1, 2, 3) is spun. How many outcomes are in the sample space?
@@ -217,6 +201,22 @@ Fill the centre, then the three "exactly two" regions, then the "only" regions. 
 8. At least one = 0.9, so P(both) = 0.6 + 0.5 − 0.9 = **0.2**.
 9. The ordered pairs are (1,2), (1,3), (2,1), (2,3), (3,1), (3,2): 6 outcomes. The sum is odd for (1,2), (2,1), (2,3), (3,2), so P = 4/6 = **2/3**.
 10. P(A) + P(B) = **0.7**. P(neither) = 1 − 0.7 = **0.3**, the probability that neither event happens.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-probability-and-expected-frequency--03-venn-two-sets.webp" width="900" height="680" alt="Three copies of a Venn diagram of 32 club members (swim only 9, both 5, tennis only 11, neither 7). Shading shows plays tennis 16/32, exactly one sport 20/32 and neither 7/32." loading="lazy">
+  <figcaption>Shade the region you want, add its counts, and divide by the total of 32.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-sets--03-unknown-overlap.webp" width="900" height="1010" alt="Two Venn diagrams of 50 tourists. First the regions are written with x for the overlap (31−x, x, 27−x, x÷2); solving gives x = 16. Then the filled counts 15, 16, 11 and 8 add to 50." loading="lazy">
+  <figcaption>Call the overlap x, write each region in terms of x, then solve.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-sets--05-three-set-venn.webp" width="900" height="990" alt="A three-circle Venn diagram of 60 students with all eight regions filled: 9, 10, 9 only; 10, 8, 7 for pairs; 2 for all three; 5 for none. Circle totals are 28, 30 and 26." loading="lazy">
+  <figcaption>Fill the centre first; the eight regions then add to 60.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

@@ -100,6 +100,17 @@ Use these as starting points, then tie them to the facts in the question.
 
 A higher ratio is not always better. A very high current ratio can mean idle cash or too much inventory. Very few receivable days might mean credit terms are so tight that sales are lost.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-accounting-appraising-business-performance-cash-and-profit--02-kes-liquidity.webp" width="900" height="1190" alt="Bars show the current ratio falling from 2.32 to 1.62 and the liquid capital ratio from 1.32 to 0.91, below a dashed 1 : 1 line. Receivable days rose 38.5 to 58.7 and payable days 45.6 to 66.9." loading="lazy">
+  <figcaption>Kesterwick can no longer cover current liabilities without selling inventory, and both sides are paying slower.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-accounting-appraising-business-performance-cash-and-profit--03-pay-supplier-paradox.webp" width="900" height="980" alt="Stacked columns before and after paying suppliers 6 from the bank. Current assets fall from 60 to 54 and payables from 30 to 24, so the current ratio rises from 2.00 to 2.25 while cash falls from 15 to 9." loading="lazy">
+  <figcaption>A rising current ratio does not mean more cash.</figcaption>
+</figure>
+
+
 ## Margin versus markup
 
 Same gross profit, different base. If gross profit is 70,000 on revenue of 200,000 and cost of sales of 130,000, the margin is 35.0% and the markup is 53.8%. Markup is always larger than margin when the margin is below 100%. Do not mix them up.
@@ -123,11 +134,6 @@ Why they differ
 - Inventory build-up: uses cash, no effect on profit until the goods are sold.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/oxfordaqa-igcse-accounting-appraising-business-performance-cash-and-profit--03-pay-supplier-paradox.webp" width="900" height="980" alt="Stacked columns before and after paying suppliers 6 from the bank. Current assets fall from 60 to 54 and payables from 30 to 24, so the current ratio rises from 2.00 to 2.25 while cash falls from 15 to 9." loading="lazy">
-  <figcaption>A rising current ratio does not mean more cash.</figcaption>
-</figure>
-
-<figure class="topic-figure">
   <img src="https://img.marlbridge.com/oxfordaqa-igcse-accounting-appraising-business-performance-cash-and-profit--04-kes-profit-to-cash.webp" width="900" height="920" alt="A waterfall from profit 56 through depreciation, inventory, receivables and payables to cash from trading 50, then equipment 26 and drawings 45, ending at a fall in bank of 21." loading="lazy">
   <figcaption>Profit of 56 was absorbed by working capital, equipment and drawings.</figcaption>
 </figure>
@@ -145,11 +151,6 @@ Why they differ
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/ib-dp-business-management-finance-accounts--07-profit-vs-cash.webp" width="900" height="1030" alt="Three-month bar chart: a $10,000 credit sale less $6,000 costs shows $4,000 profit in month 1 but cash flow of -$6,000; the customer pays $10,000 in month 3." loading="lazy">
   <figcaption>Profit is an accounting measure; cash is money actually received and paid.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ib-dp-business-management-finance-accounts--05-profit-vs-liquidity.webp" width="900" height="1040" alt="Gross profit margin 25% (revenue 100, cost of sales 75, gross profit 25) beside a current ratio of 0.6:1 (current assets 60 against current liabilities 100, a shortfall of 40)." loading="lazy">
-  <figcaption>A business can be profitable yet unable to pay short-term debts: profitability and liquidity are separate questions.</figcaption>
 </figure>
 
 <figure class="topic-figure">
@@ -208,6 +209,11 @@ A transaction affects profitability if it changes revenue or expenses. It affect
   <figcaption>Days use credit sales and credit purchases, not revenue and cost of sales.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-finance-accounts--05-profit-vs-liquidity.webp" width="900" height="1040" alt="Gross profit margin 25% (revenue 100, cost of sales 75, gross profit 25) beside a current ratio of 0.6:1 (current assets 60 against current liabilities 100, a shortfall of 40)." loading="lazy">
+  <figcaption>A business can be profitable yet unable to pay short-term debts: profitability and liquidity are separate questions.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 
@@ -234,11 +240,6 @@ Name the stakeholder where the question does. A lender looks first at liquidity 
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/oxfordaqa-igcse-accounting-appraising-business-performance-cash-and-profit--01-kes-profit-fell.webp" width="900" height="1020" alt="Revenue rose 16.7% from 480 to 560 thousand dollars while profit fell 6.7% from 60 to 56. Gross margin fell 37.5% to 35.0%, profit over revenue 12.5% to 10.0%, and ROCE 20.0% to 18.0%." loading="lazy">
   <figcaption>Kesterwick grew but its margins and return all fell.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/oxfordaqa-igcse-accounting-appraising-business-performance-cash-and-profit--02-kes-liquidity.webp" width="900" height="1190" alt="Bars show the current ratio falling from 2.32 to 1.62 and the liquid capital ratio from 1.32 to 0.91, below a dashed 1 : 1 line. Receivable days rose 38.5 to 58.7 and payable days 45.6 to 66.9." loading="lazy">
-  <figcaption>Kesterwick can no longer cover current liabilities without selling inventory, and both sides are paying slower.</figcaption>
 </figure>
 
 

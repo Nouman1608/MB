@@ -157,6 +157,11 @@ Course pages: [IB DP Biology hub](/boards/ib/ib-dp/biology/), [printable checkli
   <figcaption>Each C=C bend loosens packing, so melting point falls (data from the lesson).</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-carbohydrates-and-lipids-macromolecules-sugars-fats--08-fat-vs-carbohydrate-energy.webp" width="900" height="1090" alt="Lipids store 37 kJ per gram and carbohydrates 17 kJ per gram. To store 100 000 kJ you need 2.70 kg of lipid or 5.88 kg of carbohydrate, so lipid is 2.18 times as energy-dense. Fat is the long-term store; glycogen is the short-term store." loading="lazy">
+  <figcaption>Fat packs about twice the energy per gram of carbohydrate.</figcaption>
+</figure>
+
 
 ## B1.1.12 and B1.1.13 Bilayers and steroids
 
@@ -180,12 +185,6 @@ Course pages: [IB DP Biology hub](/boards/ib/ib-dp/biology/), [printable checkli
 **Fat reserve.** A 70 kg person with 18% body fat holds 70 × 0.18 = 12.6 kg of fat. At 37 kJ per gram this is 12 600 × 37 = 466 200 kJ. At a use of 10 000 kJ per day it would last 46.6 days if it were the only fuel. A glycogen store of 400 g holds 400 × 17 = 6800 kJ, under one day of that use. This is the quantitative reason fat is the long-term store.
 
 **Melting point trend.** Stearic acid (0 C=C) melts at about 69 °C and oleic acid (1 C=C) at about 13 °C: a fall of 56 °C for one double bond. State the trend first, then explain it with bent chains and weaker packing.
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ib-dp-biology-carbohydrates-and-lipids-macromolecules-sugars-fats--08-fat-vs-carbohydrate-energy.webp" width="900" height="1090" alt="Lipids store 37 kJ per gram and carbohydrates 17 kJ per gram. To store 100 000 kJ you need 2.70 kg of lipid or 5.88 kg of carbohydrate, so lipid is 2.18 times as energy-dense. Fat is the long-term store; glycogen is the short-term store." loading="lazy">
-  <figcaption>Fat packs about twice the energy per gram of carbohydrate.</figcaption>
-</figure>
-
 
 ## Command words in this topic
 

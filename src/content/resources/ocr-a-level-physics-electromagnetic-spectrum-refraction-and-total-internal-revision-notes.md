@@ -128,6 +128,11 @@ A second one: light of wavelength 600 nm in a vacuum enters glass of n = 1.50. I
   <figcaption>Plot sin i against sin r; the gradient is the refractive index.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-physics-electromagnetic-spectrum-refraction-and-total-internal--09-dispersion-absorption.webp" width="900" height="1085" alt="Two light pulses are sent. After dispersion each is wider and lower and they merge into one hump. After absorption over 5.0 km at 85 percent per km each keeps its width but only 0.85^5 = 44 percent of the power remains. Regenerators restore shape and strength." loading="lazy">
+  <figcaption>Dispersion lengthens pulses; absorption shrinks them.</figcaption>
+</figure>
+
 
 ## 4.4.2(d)(ii) Practical: refraction and TIR (PAG6)
 
@@ -165,11 +170,6 @@ Worked reminder: n = 1.40 gives sin C = 0.7143, so C = 45.6°. For a glass-water
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/ocr-a-level-physics-electromagnetic-spectrum-refraction-and-total-internal--06-critical-angle.webp" width="900" height="1215" alt="A ray along a radius of a semi-circular glass block (n = 1.52) meets the flat face at 30 degrees (most light refracts out at 49.5 degrees), at the critical angle 41.1 degrees (refracted ray along the surface) and at 55 degrees (total internal reflection)." loading="lazy">
   <figcaption>Beyond the critical angle all the light is reflected back into the denser medium.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ocr-a-level-physics-electromagnetic-spectrum-refraction-and-total-internal--07-fibre-guiding.webp" width="900" height="1120" alt="In a step index fibre (core 1.55, cladding 1.50, critical angle 75.4 degrees) a ray at 80 degrees to the boundary is totally internally reflected along the core; one at 70 degrees leaks into the cladding. Only rays within 14.6 degrees of the axis are guided. The cladding gives the lower index needed for TIR and also protects the core, stops cross-talk and adds strength." loading="lazy">
-  <figcaption>A lower-index cladding makes total internal reflection keep light in the core.</figcaption>
 </figure>
 
 <figure class="topic-figure">
@@ -211,6 +211,12 @@ Worked reminder: n = 1.40 gives sin C = 0.7143, so C = 45.6°. For a glass-water
 8. The light travels from a higher refractive index to a lower one, and the angle of incidence is greater than the critical angle.
 9. sin C = 1/1.40, so C = 45.6°.
 10. sin C = 1.33 / 1.60 = 0.8313, so C = 56.2°.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-physics-electromagnetic-spectrum-refraction-and-total-internal--07-fibre-guiding.webp" width="900" height="1120" alt="In a step index fibre (core 1.55, cladding 1.50, critical angle 75.4 degrees) a ray at 80 degrees to the boundary is totally internally reflected along the core; one at 70 degrees leaks into the cladding. Only rays within 14.6 degrees of the axis are guided. The cladding gives the lower index needed for TIR and also protects the core, stops cross-talk and adds strength." loading="lazy">
+  <figcaption>A lower-index cladding makes total internal reflection keep light in the core.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

@@ -173,6 +173,17 @@ Leaving the bill out makes the business look both more profitable and more liqui
 9. Any two: fines, compensation claims, clean-up costs, lost customers, higher staff turnover.
 10. It may lend on the basis of profits that will not be earned, so the loan and interest may not be repaid.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-the-impact-of-ethical-considerations--06-governance-checks.webp" width="900" height="910" alt="Shareholders appoint the board and the external auditors; auditors report back to shareholders. The board has a chair and a CEO who are different people, plus independent non-executive directors. Audit and remuneration committees, made of independent NEDs, sit below; the remuneration committee sets directors’ pay. AQA only: comply or explain." loading="lazy">
+  <figcaption>Independent checks stop directors from marking their own homework.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-the-impact-of-ethical-considerations--09-spreadsheet-whatif.webp" width="900" height="1010" alt="Two grids show the production budget before and after one input changes from 38 to 41. Materials cost goes from 15,770, 18,050, 19,570 (total 53,390) to 17,015, 19,475, 21,115 (total 57,605), an increase of 4,215." loading="lazy">
+  <figcaption>Changing one input cell recalculates every formula that depends on it.</figcaption>
+</figure>
+
+
 ## Where marks are usually lost
 
 - Writing general points about "society" with no link to the business in the question.

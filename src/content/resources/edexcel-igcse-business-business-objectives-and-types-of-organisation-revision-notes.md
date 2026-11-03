@@ -144,6 +144,12 @@ The one-line meanings here and the for-and-against points in section 4 are stand
 
 **Dividend or retained profit.** A company with a profit of 80,000 keeps 25%: 0.25 × 80,000 = 20,000 retained and 60,000 for dividends. Retained profit finances growth without borrowing; dividends reward shareholders. More of one means less of the other.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-business-business-objectives-and-types-of-organisation--04-franchise-profit.webp" width="900" height="770" alt="Revenue of 210,000 dollars less costs of 150,000 and an 8 percent fee of 16,800 leaves profit of 43,200 dollars." loading="lazy">
+  <figcaption>The franchisor fee reduces the franchisee's profit.</figcaption>
+</figure>
+
+
 ## 8. Must-know distinctions
 
 | Pair | Difference |
@@ -156,12 +162,6 @@ The one-line meanings here and the for-and-against points in section 4 are stand
 | Public limited company and public corporation | Owned by shareholders, and owned by the state |
 | Franchisor and franchisee | The brand owner, and the operator who pays to use the brand |
 | Social enterprise and a business run only for its owners | Trades to earn revenue with a social purpose, and trades mainly for the owners' gain |
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/edexcel-igcse-business-business-objectives-and-types-of-organisation--04-franchise-profit.webp" width="900" height="770" alt="Revenue of 210,000 dollars less costs of 150,000 and an 8 percent fee of 16,800 leaves profit of 43,200 dollars." loading="lazy">
-  <figcaption>The franchisor fee reduces the franchisee's profit.</figcaption>
-</figure>
-
 
 ## 9. Evaluating a choice of ownership
 

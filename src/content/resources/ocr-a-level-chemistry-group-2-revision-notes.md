@@ -80,6 +80,11 @@ When a question asks you to compare two Group 2 metals, use a comparative for ev
   <figcaption>Reactivity with water increases down Group 2; magnesium with steam gives the oxide, not the hydroxide.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-group-2-the-alkaline-earth-metals--07-halogen-displacement.webp" width="900" height="1110" alt="A three by three grid of tubes shows each halogen with KCl, KBr and KI; displacement occurs only when the added halogen is more reactive. A lower panel shows chlorine pale green, bromine orange and iodine violet in cyclohexane (OCR and Edexcel)." loading="lazy">
+  <figcaption>A more reactive halogen displaces a less reactive halide; in cyclohexane the halogens are pale green, orange and violet (OCR, Edexcel).</figcaption>
+</figure>
+
 
 ## 3.1.2(c): Ionisation energies and reactivity
 
@@ -135,6 +140,11 @@ M(OH)₂ → M²⁺(aq) + 2OH⁻(aq)
 
 - The hydroxides get more soluble down the group, so [OH⁻] rises and the alkalinity increases.
 - No oxidation numbers change: this is an acid-base type reaction, not redox.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-group-2-the-alkaline-earth-metals--03-group2-solubility.webp" width="900" height="1070" alt="Two rows of test tubes for Mg to Ba. Hydroxide solubility rises down the group, shown by less undissolved solid and more dissolved ions. Sulfate solubility falls, ending with insoluble BaSO4." loading="lazy">
+  <figcaption>Hydroxides become more soluble and sulfates less soluble down Group 2 (schematic).</figcaption>
+</figure>
 
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/aqa-a-level-chemistry-group-2-the-alkaline-earth-metals--10-chlorine-disproportionation.webp" width="900" height="1075" alt="A scale of chlorine oxidation numbers: Cl2 at 0 splits into chloride at minus 1 and either HClO or NaClO at plus 1. With hot NaOH (Edexcel only) the product is NaClO3 at plus 5. Balanced equations are shown." loading="lazy">
@@ -216,6 +226,12 @@ mass        = 0.00500 × 58.3 = 0.292 g
 - Using a 1 : 1 ratio between a Group 2 base and HCl.
 - Forgetting CO₂ and H₂O in the carbonate antacid equation.
 - Describing barium as "less reactive because it is bigger"; size makes it more reactive.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-group-2-the-alkaline-earth-metals--06-halogen-boiling-points.webp" width="900" height="1050" alt="Diatomic molecules F2 to I2 grow larger with 18, 34, 70 and 106 electrons and stronger dashed van der Waals forces. Boiling points are minus 188, minus 34, 59 and 184 degrees Celsius. Only forces between molecules are overcome on boiling." loading="lazy">
+  <figcaption>Boiling point rises down Group 7 because more electrons give stronger van der Waals forces.</figcaption>
+</figure>
+
 
 ## Official syllabus
 

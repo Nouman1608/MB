@@ -83,6 +83,12 @@ within each class.
 Total = 37.4, so about 37 people
 ```
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-data-presentation-and-interpretation--04-sampling-methods.webp" width="900" height="1250" alt="Three grids of the same 60 numbered people, in 6 rows of 10, with three groups shown by shape: group A circles (24), group B squares (20) and group C diamonds (16). Systematic sampling picks every 4th person from a random start of 3, giving 15 people (3, 7, 11 up to 59); the risk is a repeating pattern in the list. Stratified sampling picks 6, 5 and 4 people at random from groups A, B and C, in proportion to group size, again 15 people. Cluster sampling picks 2 of the 6 rows at random and asks everyone in them, 20 people. A note says quota sampling is like stratified sampling but the people asked are not chosen at random." loading="lazy">
+  <figcaption>How each method picks its sample; quota is stratified without random selection.</figcaption>
+</figure>
+
+
 ### Worked example 2: a histogram drawn to a scale
 
 On a histogram of the same data, the bar for 15 ≤ t < 20 is 2 cm wide and 8 cm tall. The bar for
@@ -227,12 +233,6 @@ x̄ = 363/21 = 17.3 cm (3 s.f.)
 σ  = 4.11 cm (3 s.f.)
 ```
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-data-presentation-and-interpretation--09-clt-sample-mean.webp" width="900" height="1060" alt="OxfordAQA International A Level. Top: a skewed parent distribution of times between helpline calls with mean 4 minutes and standard deviation 4 minutes (an exponential curve is used as an example). Bottom: the distribution of the mean of 64 such values. It is close to bell-shaped, centred on 4, with standard error 4 divided by the square root of 64, which is 0.5, so it is approximately N(4, 0.5 squared) by the Central Limit Theorem. The exact curve and the normal curve almost coincide. The area to the right of 4.9, where z is 1.8, is shaded: P(mean greater than 4.9) is 0.0359." loading="lazy">
-  <figcaption>For large n the sample mean is approximately normal whatever the parent, with standard error sigma over root n.</figcaption>
-</figure>
-
-
 ### Worked example 5: grouped data
 
 Estimate the mean and standard deviation of the puzzle times in Worked example 1. Use class
@@ -249,6 +249,12 @@ x̄   = 1415/70 = 20.2 minutes (3 s.f.)
 
 These are **estimates** because midpoints replace the actual values. Calculator statistics
 mode, with midpoints as x and a frequency column, gives the same values.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-data-presentation-and-interpretation--05-sample-variability.webp" width="900" height="955" alt="Three dot plots of one-way commuting times in minutes. Analyst A's random sample of 8 (18, 22, 25, 27, 30, 35, 38, 41) has mean 29.5. Analyst B's random sample of 8 (15, 17, 19, 20, 21, 24, 26, 33) has mean 21.9. Together the 16 values have mean 25.7. Triangles mark each mean. Both samples came from a fair method, so the 7.6 minute gap is sampling variability; combining the samples, or using larger ones, reduces it." loading="lazy">
+  <figcaption>Two fair random samples from the same firm give different means, so samples are only estimates.</figcaption>
+</figure>
+
 
 ### Interpreting the measures
 

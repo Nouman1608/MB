@@ -249,6 +249,11 @@ Check: the curve is y = 6√x, and ∫₁⁹ 6√x dx = [4x^(3/2)]₁⁹ = 104
 </figure>
 
 <figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-maths-9709-pure-mathematics-1-integration--06-volume-of-revolution.webp" width="900" height="736" alt="The region under y = 3/(x + 1) from x = 0 to 2 is shown with its mirror image. A thin disc of radius y and width δx has volume πy²δx, and summing gives V = π∫y² dx = 6π. Cambridge, OxfordAQA and Edexcel IAL content." loading="lazy">
+  <figcaption>Rotating a region makes thin discs of radius y whose volumes add to π∫y² dx.</figcaption>
+</figure>
+
+<figure class="topic-figure">
   <img src="https://img.marlbridge.com/a-level-maths-9709-pure-mathematics-1-integration--08-parts-as-area.webp" width="900" height="830" alt="The rectangle of width e and height 1 is split by y = ln x. The part under the curve has area 1 and the part to its left has area e − 1, together e. This shows ∫y dx + ∫x dy = xy, the idea behind parts and the result ∫ln x dx = x ln x − x." loading="lazy">
   <figcaption>Integration by parts is the statement that two complementary areas fill a rectangle.</figcaption>
 </figure>

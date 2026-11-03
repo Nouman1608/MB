@@ -150,6 +150,11 @@ Neither curve meets either axis. y = a/x is unchanged by a half-turn about the o
 **Worked reminder (domain restriction).** f(x) = (x − 1)² + 2 for x ≥ 1 has range f(x) ≥ 2. Then y − 2 = (x − 1)², and x ≥ 1 gives x = 1 + √(y − 2). So f⁻¹(x) = 1 + √(x − 2) with domain x ≥ 2.
 
 <figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-mathematics-pure-mathematics-1-functions--01-range-depends-on-domain.webp" width="900" height="830" alt="Graph of f(x) = x squared - 10x + 29. The whole parabola has its turning point at (5, 4) but the domain x at least 6 uses only the solid right-hand part, starting at (6, 5). The range is therefore f(x) at least 5, not at least 4." loading="lazy">
+  <figcaption>Restricting the domain can change the range, because the lowest point may fall outside it.</figcaption>
+</figure>
+
+<figure class="topic-figure">
   <img src="https://img.marlbridge.com/a-level-mathematics-pure-mathematics-1-functions--05-inverse-reflection.webp" width="900" height="980" alt="The curve f(x) = 3 - root(x + 1) for x at least -1 and its inverse f^-1(x) = (3 - x) squared - 1 for x at most 3 are mirror images in the line y = x. Point (8, 0) on f becomes (0, 8) on the inverse and the end point (-1, 3) becomes (3, -1). The domain of the inverse is the range of f and vice versa." loading="lazy">
   <figcaption>The graph of f^-1 is the graph of f reflected in y = x, with domain and range swapped.</figcaption>
 </figure>

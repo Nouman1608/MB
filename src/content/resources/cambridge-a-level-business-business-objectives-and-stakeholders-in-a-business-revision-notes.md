@@ -169,6 +169,11 @@ Oakdrift's sales revenue is 250,000 and the objective is a 10% rise. Target: 250
   <figcaption>A 15% objective becomes a 552,000 target, quarterly targets and a 22,080 marketing budget.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-business-influences-on-business--03-ethics-profit-tradeoff.webp" width="900" height="800" alt="A level balance scale with a question mark on the pivot: coins on the left for higher costs and lower margin, heart, star and box on the right for loyalty, reputation and reliable supply. The judgement depends on whether customers value it enough." loading="lazy">
+  <figcaption>Ethical action has a cost and a benefit, and the judgement depends on the business and its customers.</figcaption>
+</figure>
+
 
 ## 1.5 Stakeholders
 
@@ -207,6 +212,11 @@ A stakeholder is an individual or group with an interest in a business.
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/cambridge-a-level-business-business-objectives-and-stakeholders-in-a-business--14-obj-accountable.webp" width="900" height="840" alt="The business explains and justifies its actions through annual reports, meetings and consultation to those affected, such as investors who want clear reporting and customers who want honest claims." loading="lazy">
   <figcaption>Accountability means explaining and justifying actions to those affected.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-business-managers-leadership-decision-making--05-stakeholder-map.webp" width="900" height="990" alt="A power-interest grid. Planning authority is high power, high interest (manage closely); shareholders high power and moderate interest; residents low power, high interest (keep informed), with an arrow showing their power rising if they campaign." loading="lazy">
+  <figcaption>Stakeholders are placed by power and interest to decide how much attention each needs.</figcaption>
 </figure>
 
 
@@ -252,6 +262,11 @@ Conflict: shareholders gain what employees lose. The judgement depends on the bu
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/cambridge-a-level-business-business-objectives-and-stakeholders-in-a-business--15-obj-ravensley.webp" width="900" height="990" alt="Ravensley moves from low fares for all to fares covering 80% of running costs. Low-income passengers lose, employees face a mixed effect, taxpayers gain and local shops may lose customers." loading="lazy">
   <figcaption>One objective change affects stakeholder groups differently, so weigh them against each other.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-understanding-business-activity--08-stakeholder-conflicts.webp" width="900" height="1040" alt="Six stakeholder groups around a business (owners and employees internal; customers, suppliers, government, local community external). Two conflicts: owners cutting costs vs employees wanting higher wages; customers wanting low prices vs owners wanting higher margins." loading="lazy">
+  <figcaption>Stakeholders have differing objectives that often conflict.</figcaption>
 </figure>
 
 

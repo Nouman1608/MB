@@ -57,11 +57,6 @@ These notes condense Cambridge International AS & A Level Accounting 9706 (sylla
 **Dissolution order:** transfer assets (not bank) to realisation; credit proceeds; settle liabilities (a discount is a credit); debit costs; share the balance in the profit-sharing ratio; close capital accounts through the bank.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/cambridge-a-level-accounting-preparation-of-financial-statements-a-level--03-realisation-account.webp" width="900" height="1060" alt="The realisation account of Larkhall Joinery has debits of 150,000 assets, 14,200 payables settled and 1,800 costs, and credits of 147,000 proceeds and 15,000 payables transferred, leaving a 4,000 loss. The loss is shared 3:2 (2,400 and 1,600) and the 135,000 bank balance is paid out as 81,600 and 53,400." loading="lazy">
-  <figcaption>On dissolution, the realisation account finds the profit or loss, and the bank pays out what is left of each partner's capital.</figcaption>
-</figure>
-
-<figure class="topic-figure">
   <img src="https://img.marlbridge.com/cambridge-a-level-accounting-preparation-of-financial-statements-a-level--06-goodwill-types.webp" width="900" height="920" alt="Inherent goodwill (reputation, location, loyalty) is built by the business and is not in the books. Purchased goodwill is the price paid above the fair value of net assets and is recorded as an intangible asset; the 150,000 and 120,000 numbers are illustrative." loading="lazy">
   <figcaption>Only purchased goodwill is recorded in the books.</figcaption>
 </figure>
@@ -72,8 +67,8 @@ These notes condense Cambridge International AS & A Level Accounting 9706 (sylla
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/aqa-a-level-accounting-partnership-accounts--06-admission-closing-capitals.webp" width="900" height="860" alt="Fox closes at 51,800 pounds (40,000 old capital, 7,800 revaluation, 4,000 net goodwill), Gale at 35,200 pounds, and Hart at 21,000 pounds after paying 25,000 pounds of cash of which 4,000 effectively buys goodwill. Total capital is 108,000 pounds." loading="lazy">
-  <figcaption>Closing capitals are old capital plus revaluation share plus net goodwill, and total old capitals plus cash plus revaluation profit.</figcaption>
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-partnership-accounts--05-goodwill-admission.webp" width="900" height="900" alt="Goodwill of 20,000 pounds is created in the old ratio 3:2 (Fox 12,000, Gale 8,000) and written off in the new ratio 2:2:1 (Fox 8,000, Gale 8,000, Hart 4,000), so net Fox gains 4,000 pounds, Gale nil and Hart loses 4,000 pounds." loading="lazy">
+  <figcaption>Creating goodwill in the old ratio and writing it off in the new ratio makes the new partner pay for it.</figcaption>
 </figure>
 
 <figure class="topic-figure">
@@ -114,6 +109,21 @@ These notes condense Cambridge International AS & A Level Accounting 9706 (sylla
   <figcaption>The balancing figure in the subscriptions account is the income for the year.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-accounting-clubs-and-non-profit-making-organisations--03-bar-profit.webp" width="900" height="866" alt="Bar takings of 26,300 split into cost of sales 14,580, steward wages 5,200 and bar profit 6,520, with gross profit 11,720. Only the bar profit goes to the income and expenditure account, as one line. Cost of sales is opening 1,850 plus purchases 14,870 minus closing 2,140." loading="lazy">
+  <figcaption>A club bar appears in the income and expenditure account as one bar profit line.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-accounting-clubs-and-non-profit-making-organisations--04-gifts-and-fees.webp" width="900" height="970" alt="Life fees of 2,400 go into the life membership fund; one tenth of 12,400, which is 1,240, is released to income, leaving a fund of 7,160. The 5,000 floodlights donation goes to the accumulated fund and the 300 general donation is income." loading="lazy">
+  <figcaption>Life fees, capital donations and general donations each go to a different place.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-accounting-clubs-and-non-profit-making-organisations--05-accumulated-fund.webp" width="900" height="1010" alt="Bars compare assets with fund plus amounts owed at 1 January (100,080) and 31 December (112,090). The accumulated fund grows from 92,350 to 102,850 through the 5,000 donation and the 5,500 surplus; the life fund of 7,160 is shown separately." loading="lazy">
+  <figcaption>The accumulated fund grows by capital donations and the surplus.</figcaption>
+</figure>
+
 
 ## 3.1.4 Manufacturing businesses
 
@@ -132,6 +142,22 @@ Direct costs vary with units made. Indirect costs support production as a whole.
 
 **Reasons for accounting for manufacturing profit:** compare in-house cost with the price of buying in; judge the factory apart from the sales side; support pricing.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-accounting-manufacturing-accounts--06-factory-cost-buildup.webp" width="900" height="984" alt="A waterfall builds up direct materials 185,100, direct wages 142,000 and royalties 6,800 to prime cost 333,900, adds overheads 110,800, adjusts work in progress by minus 2,200 to a factory cost of 442,500, then adds 15% profit on manufacture 66,375 for a transfer of 508,875." loading="lazy">
+  <figcaption>Factory cost builds up from prime cost and overheads, adjusted for work in progress, then profit on manufacture is added.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-accounting-manufacturing-accounts--07-direct-or-overhead.webp" width="900" height="1132" alt="Costs are sorted into prime cost (materials, direct wages, royalties, 333,900), factory overheads (110,800) and costs for the income statement instead. A bar splits 36,000 rent and insurance into 27,000 factory and 9,000 office." loading="lazy">
+  <figcaption>Only direct costs and the factory share of overheads belong in the manufacturing account.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-accounting-manufacturing-accounts--08-unrealised-profit.webp" width="900" height="1056" alt="Closing finished goods of 29,900 at transfer price contain 26,000 cost and 3,900 unearned profit (29,900 x 15/115). The provision rose from 3,150 to 3,900, so only 750 is deducted from profit on manufacture of 66,375, leaving 65,625. Taking 15% of 29,900 is wrong." loading="lazy">
+  <figcaption>Remove unearned profit from closing finished goods using m/(100+m), and charge only the change in the provision.</figcaption>
+</figure>
+
+
 ## 3.1.5 Limited companies
 
 - **Statement of changes in equity:** columns for share capital, share premium, revaluation reserve, retained earnings and total. Rows: opening, share issue, revaluation, profit for the year, dividends, closing.
@@ -144,6 +170,26 @@ Direct costs vary with units made. Indirect costs support production as a whole.
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/cambridge-a-level-accounting-preparation-of-financial-statements-a-level--07-nca-schedule.webp" width="900" height="910" alt="A schedule rolls cost from 200,000 to 265,000 (additions 70,000, disposals 15,000, revaluation 10,000) and depreciation from 60,000 to 76,000 (charge 22,000, disposals 6,000), giving a carrying amount of 189,000. Figures are illustrative but tied to the Cranleigh purchase, depreciation, proceeds and profit on disposal." loading="lazy">
   <figcaption>A schedule of non-current assets rolls cost and depreciation forward to carrying amount.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-accounting-for-limited-companies--01-share-premium.webp" width="900" height="970" alt="A bar for one 1.20 pound share splits into 0.50 nominal and 0.70 premium. Multiplied by 200,000 shares, 240,000 pounds arrives in the bank: 100,000 to share capital and 140,000 to share premium, both equity. The premium is not income and never reaches the income statement." loading="lazy">
+  <figcaption>The premium above nominal value goes to share premium, not to the income statement.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-accounting-for-limited-companies--03-changes-in-equity.webp" width="900" height="870" alt="Equity builds from 143,200 pounds to 246,700 pounds. A share issue adds 50,000 to share capital and 30,000 to share premium, profit after tax adds 38,500 to retained earnings and dividends paid deduct 15,000 from retained earnings." loading="lazy">
+  <figcaption>Each movement in the year lands in one component of equity.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-accounting-for-limited-companies--07-profit-to-cash.webp" width="900" height="964" alt="Profit from operations of 96,400 pounds becomes cash generated of 158,300 after adding back depreciation 61,500 and loss on disposal 2,500 and adjusting for inventory (-7,700), receivables (+3,300) and payables (+2,300). Interest paid 6,000 and tax paid 15,600 leave net operating cash of 136,700." loading="lazy">
+  <figcaption>The indirect method turns profit into cash by reversing non-cash items and working capital changes.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-accounting-for-limited-companies--08-where-cash-went.webp" width="900" height="1020" alt="Starting from an overdraft of 23,400 pounds, operating activities add 136,700, investing activities subtract 57,500 and financing activities add 72,000, a net increase of 151,200 and closing cash of 127,800. A bonus issue and a revaluation involve no cash." loading="lazy">
+  <figcaption>Operating, investing and financing flows explain the change in cash.</figcaption>
 </figure>
 
 
@@ -216,6 +262,17 @@ Check: 48,000 − 6,000 − 3,500 + 650 = 39,150. Each partner's total is the cu
 10. 50,000 + 8,000 − 4,000 + 2,500 = 56,500.
 11. Debit bank 14,000; credit share capital 10,000; credit share premium 4,000.
 12. 10,000 new shares: cash 12,000, share capital 10,000, share premium 2,000.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-accounting-preparation-of-financial-statements-a-level--03-realisation-account.webp" width="900" height="1060" alt="The realisation account of Larkhall Joinery has debits of 150,000 assets, 14,200 payables settled and 1,800 costs, and credits of 147,000 proceeds and 15,000 payables transferred, leaving a 4,000 loss. The loss is shared 3:2 (2,400 and 1,600) and the 135,000 bank balance is paid out as 81,600 and 53,400." loading="lazy">
+  <figcaption>On dissolution, the realisation account finds the profit or loss, and the bank pays out what is left of each partner's capital.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-partnership-accounts--06-admission-closing-capitals.webp" width="900" height="860" alt="Fox closes at 51,800 pounds (40,000 old capital, 7,800 revaluation, 4,000 net goodwill), Gale at 35,200 pounds, and Hart at 21,000 pounds after paying 25,000 pounds of cash of which 4,000 effectively buys goodwill. Total capital is 108,000 pounds." loading="lazy">
+  <figcaption>Closing capitals are old capital plus revaluation share plus net goodwill, and total old capitals plus cash plus revaluation profit.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

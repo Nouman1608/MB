@@ -212,6 +212,11 @@ Limits of the solutions: they cost money, can encourage short-term or risky beha
   <figcaption>Owners and a sales-paid manager want different outputs from the same demand curve.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-microeconomics--03-business-objectives.webp" width="900" height="990" alt="Illustrative firm with AR, MR, MC and AC. Profit is maximised at output 60 where MC = MR (price 14, shaded profit). Revenue is maximised at output 100 where MR = 0 (price 10), with lower profit than at 60. Satisficing means aiming for an acceptable, not maximum, profit." loading="lazy">
+  <figcaption>Profit is maximised where MC = MR, revenue where MR = 0, and satisficers settle for acceptable profit.</figcaption>
+</figure>
+
 
 ## Evaluation prompts
 

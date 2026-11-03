@@ -105,6 +105,12 @@ A clone is genetically identical to its parent. No fertilisation, so no mixing o
 
 Clones have the same genes, so they have the same weaknesses. If one individual is killed by a disease, all of them may be. Natural populations that reproduce sexually have variation, so some individuals are likely to survive.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-biology-genetic-manipulation-cloning-genetic-engineering-and--14-insecticide-sprays-compared.webp" width="900" height="1100" alt="The GM crop needed 2 sprays against 6: 67 percent fewer. On 25 hectares that is 50 against 150 sprays, 100 fewer. The trial does not show effects on wild insects, flowers or health." loading="lazy">
+  <figcaption>Fewer sprays is a benefit, but wider effects are not shown.</figcaption>
+</figure>
+
+
 ## 3.5.5 b and c: Genetic engineering
 
 Genes from the chromosomes of humans and other organisms can be "cut out" and transferred to cells of other organisms.
@@ -133,6 +139,11 @@ Genes from the chromosomes of humans and other organisms can be "cut out" and tr
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/oxfordaqa-igcse-biology-genetic-manipulation-cloning-genetic-engineering-and--12-plasmid-uptake-percentage.webp" width="900" height="970" alt="100 squares stand for 5000 bacteria (50 each). The 40 that took up a plasmid fill 0.8 of one square: 0.8 percent. 4960 did not." loading="lazy">
   <figcaption>Only 0.8 percent of the bacteria took up the plasmid.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-biotechnology-and-genetic-modification--06-gm-steps.webp" width="900" height="1260" alt="Extended. Six steps to make a human protein in bacteria. a: restriction enzymes cut out the human gene leaving sticky ends. b: the same enzymes cut a plasmid leaving complementary sticky ends. c: the gene is inserted and DNA ligase joins it, making a recombinant plasmid. d: plasmids are put into bacteria. e: bacteria multiply. f: bacteria make the human protein." loading="lazy">
+  <figcaption>Cut gene and plasmid with the same enzymes, join with ligase, put into bacteria, multiply, collect protein.</figcaption>
 </figure>
 
 
@@ -170,12 +181,6 @@ A trial grows an insect-resistant crop and a non-GM crop in 4 plots each. GM yie
 - Difference = 0.65, which is 0.65 ÷ 5.5 × 100 = **11.8%** (about 12%).
 - Every GM plot is above every non-GM plot, but the trial is only 8 plots, so more sites and years would be needed.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/oxfordaqa-igcse-biology-genetic-manipulation-cloning-genetic-engineering-and--14-insecticide-sprays-compared.webp" width="900" height="1100" alt="The GM crop needed 2 sprays against 6: 67 percent fewer. On 25 hectares that is 50 against 150 sprays, 100 fewer. The trial does not show effects on wild insects, flowers or health." loading="lazy">
-  <figcaption>Fewer sprays is a benefit, but wider effects are not shown.</figcaption>
-</figure>
-
-
 ### Concerns in more detail
 
 - **Wild flowers:** if fields are sprayed with weedkiller more freely, wild flowers that grow among crops die, and the animals that depend on them lose food.
@@ -190,6 +195,11 @@ A trial grows an insect-resistant crop and a non-GM crop in 4 plots each. GM yie
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/oxfordaqa-igcse-biology-genetic-manipulation-cloning-genetic-engineering-and--13-gm-crop-concerns.webp" width="900" height="1100" alt="Herbicide-resistant crops allow heavy weedkiller use and fewer wild flowers; insect-resistant crops may harm non-pest insects; fewer insects means fewer animals that eat them. Effects on human health are uncertain." loading="lazy">
   <figcaption>Each concern is a chain of effects, and health effects are uncertain.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-biotechnology-and-genetic-modification--07-gm-examples.webp" width="900" height="1015" alt="Four examples: human insulin gene into bacteria so they make human insulin; herbicide resistance so the crop lives and weeds die; insect resistance in maize using a bacterial gene so pests die; rice that makes beta-carotene for vitamin A." loading="lazy">
+  <figcaption>GM moves a gene from one organism into another to give a useful new feature.</figcaption>
 </figure>
 
 

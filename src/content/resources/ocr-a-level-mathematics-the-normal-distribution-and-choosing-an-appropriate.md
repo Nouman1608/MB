@@ -63,6 +63,11 @@ Changing μ slides the curve along the axis. Changing σ stretches or squeezes i
   <figcaption>Changing μ slides the curve, changing σ squeezes or spreads it, and the points of inflection are at μ ± σ; the second number is the variance.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-mathematics-the-continuous-uniform-distribution-and-the-normal--08-amth-normal-uniform.webp" width="900" height="1040" alt="For T uniform on 4 to 10 s the density is a rectangle of height 1/6 and the strip 5 to 8 has area 0.5. The cumulative function rises linearly from 0 at 4 to 1 at 10, with F(5) = 1/6 and F(8) = 2/3. Mean 7, variance 3." loading="lazy">
+  <figcaption>The uniform density is a rectangle, its cdf is a straight ramp, and probability is area.</figcaption>
+</figure>
+
 
 ## 2.04g: Histograms, mean, standard deviation and shape
 

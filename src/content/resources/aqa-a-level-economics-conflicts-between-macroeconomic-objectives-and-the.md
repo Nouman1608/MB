@@ -81,6 +81,11 @@ The main objectives are economic growth, price stability, low unemployment and a
 </figure>
 
 <figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-conflicts-between-macroeconomic-objectives-and-the--02-stagflation-q.webp" width="900" height="870" alt="AD/AS diagram: SRAS shifts left from SRAS1 to SRAS2 along a fixed AD curve. A (600, 120) moves to B (582, 126): prices up 5.0%, output down 3.0%." loading="lazy">
+  <figcaption>A cost-push shock shifts SRAS left: prices rise 5.0% while output falls 3.0%, and no change in AD fixes both.</figcaption>
+</figure>
+
+<figure class="topic-figure">
   <img src="https://img.marlbridge.com/aqa-gcse-economics-objectives-of-government--03-objectives-conflict.webp" width="900" height="1010" alt="Flow from an interest rate cut to higher borrowing and spending. Gains: growth rises and unemployment falls. Side effects: demand-pull inflation risk and a worse balance of payments through more imports. Raising rates does the reverse." loading="lazy">
   <figcaption>A policy that helps one objective can harm another.</figcaption>
 </figure>
@@ -162,8 +167,8 @@ Each year inflation rises by 0.75 points. Keeping unemployment below the long-ru
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/aqa-a-level-economics-conflicts-between-macroeconomic-objectives-and-the--02-stagflation-q.webp" width="900" height="870" alt="AD/AS diagram: SRAS shifts left from SRAS1 to SRAS2 along a fixed AD curve. A (600, 120) moves to B (582, 126): prices up 5.0%, output down 3.0%." loading="lazy">
-  <figcaption>A cost-push shock shifts SRAS left: prices rise 5.0% while output falls 3.0%, and no change in AD fixes both.</figcaption>
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-macroeconomics--05-phillips-curve.webp" width="900" height="910" alt="The short-run Phillips curve slopes down, so lower unemployment (A to B) brings higher inflation. Higher expectations shift it up to SRPC2 and the economy ends at C on the vertical long-run curve at the NAIRU." loading="lazy">
+  <figcaption>In the short run there is a trade-off; in the long run unemployment returns to the NAIRU.</figcaption>
 </figure>
 
 

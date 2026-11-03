@@ -51,8 +51,13 @@ These notes condense the OCR A Level Economics (H460) topics "Alternative method
 | Competition policy | Controls collusion, abuse, mergers | Price falls, output rises with more competition | Lower prices, more choice | Slow, costly, evidence needed |
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ocr-a-level-economics-government-intervention-cost-benefit-analysis-and--06-gov-buffer-grain.webp" width="900" height="1060" alt="Two diagrams with a 40 floor and 60 ceiling. In a bumper harvest the free price 32 is below the floor so the agency buys 128 tonnes for 5,120 cu. In a poor harvest the free price 70 is above the ceiling so it sells 60 tonnes for 3,600 cu." loading="lazy">
-  <figcaption>The agency buys at the floor and sells at the ceiling to hold the price inside the band.</figcaption>
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-government-intervention-cost-benefit-analysis-and--08-gov-quantity-fixing.webp" width="900" height="1030" alt="Top: legislation draws a vertical line at the permitted output of 60, left of the market quantity 72. Bottom (illustrative numbers): state provision is a vertical supply at 30 units with the price paid at zero, compared with the market quantity of 20." loading="lazy">
+  <figcaption>Both policies fix the quantity directly, as a vertical line, rather than shifting a curve.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-government-intervention-cost-benefit-analysis-and--09-gov-competition-policy.webp" width="900" height="750" alt="A firm with market power sets price 60 and output 40 above marginal cost 20. With competition, price falls to 20 and output rises to 80. The triangle between is the welfare lost to market power (illustrative numbers)." loading="lazy">
+  <figcaption>Competition policy aims to move price down towards marginal cost and output up.</figcaption>
 </figure>
 
 <figure class="topic-figure">
@@ -68,6 +73,16 @@ These notes condense the OCR A Level Economics (H460) topics "Alternative method
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/a-level-economics-government-microeconomic-intervention--02-subsidy-incidence.webp" width="900" height="890" alt="Supply and demand diagram where a subsidy of 2 per unit shifts supply down from S1 to S2. Quantity rises from 50 to 60, the consumer price falls from 5 to 3.8 (gain 1.2 a unit) and the producer receives 5.8 (gain 0.8 a unit). The government pays 2 a unit." loading="lazy">
   <figcaption>A subsidy lowers the price consumers pay and raises what producers receive; the split depends on elasticity.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-economics-government-microeconomic-intervention--03-buffer-stock.webp" width="900" height="1030" alt="Demand slopes down; supply is three vertical lines for a bad (30), normal (50) and good (70) harvest. The agency sets a lower price of 4 and an upper price of 6. In a good harvest it buys 10 units to stop the price falling below 4; in a bad harvest it sells 10 units from store to stop the price rising above 6." loading="lazy">
+  <figcaption>A buffer stock buys when price is low and sells when price is high, keeping price between two limits.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-economics-government-microeconomic-intervention--05-tool-matching.webp" width="900" height="900" alt="A matching diagram joining four problems to six tools. Public good not provided: direct provision. Merit good under-consumed: direct provision, subsidy, information. Demerit good over-consumed: information, indirect tax, minimum price. Price too high or too low: maximum or minimum price, buffer stock." loading="lazy">
+  <figcaption>Match the tool to the problem: the mechanism, not just the name, earns marks.</figcaption>
 </figure>
 
 
@@ -92,6 +107,17 @@ These notes condense the OCR A Level Economics (H460) topics "Alternative method
 - No trading: each abates 30 tonnes, 30 x 6 + 30 x 10 = 480 cu.
 - Trading: 60 tonnes must be abated, all by firm A at 6 cu: 360 cu. Saving 120 cu.
 - Permit price lies between 6 and 10 cu. Below 6, A will not sell; above 10, B abates instead of buying.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-government-intervention-cost-benefit-analysis-and--06-gov-buffer-grain.webp" width="900" height="1060" alt="Two diagrams with a 40 floor and 60 ceiling. In a bumper harvest the free price 32 is below the floor so the agency buys 128 tonnes for 5,120 cu. In a poor harvest the free price 70 is above the ceiling so it sells 60 tonnes for 3,600 cu." loading="lazy">
+  <figcaption>The agency buys at the floor and sells at the ceiling to hold the price inside the band.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-government-intervention-cost-benefit-analysis-and--07-gov-rent-cap.webp" width="900" height="850" alt="Free-market equilibrium is 200 homes at 150 cu. A cap of 120 cu gives demand of 260 and supply of 110, a shortage of 150. Consumers would pay up to 195 cu for the last home supplied." loading="lazy">
+  <figcaption>A cap below equilibrium creates a shortage of 150 and invites a black market.</figcaption>
+</figure>
+
 
 ## Cost Benefit Analysis (CBA)
 
@@ -189,6 +215,11 @@ These notes condense the OCR A Level Economics (H460) topics "Alternative method
 12. State provision, financed by tax, because a public good will not be supplied by the market (non-excludable, so no one pays).
 
 <figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-government-intervention-cost-benefit-analysis-and--01-packaging-tax.webp" width="900" height="920" alt="Packaging market with an external cost of 5 cu. A 5 cu tax shifts supply up onto marginal social cost and moves the market from 72 units to the optimum 60. The shaded triangle is the 30 cu deadweight loss removed. Consumers bear 40% and producers 60% of the tax." loading="lazy">
+  <figcaption>A tax equal to the external cost moves output from 72 to the social optimum of 60 and removes a 30 cu welfare loss.</figcaption>
+</figure>
+
+<figure class="topic-figure">
   <img src="https://img.marlbridge.com/ocr-a-level-economics-government-intervention-cost-benefit-analysis-and--02-tradable-permits-saving.webp" width="900" height="1210" alt="Three plants each emit 50 tonnes under a cap of 90. Without trading each cuts 20 tonnes for 460 cu in total. With trading the cheapest cuts are made first for 270 cu, saving 190 cu, with permits trading at 7 cu." loading="lazy">
   <figcaption>Trading lets the plant with the lowest abatement cost do most of the cutting, saving 190 cu.</figcaption>
 </figure>
@@ -206,11 +237,6 @@ These notes condense the OCR A Level Economics (H460) topics "Alternative method
 - Leaving out units or the label for the diagram axes.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ocr-a-level-economics-government-intervention-cost-benefit-analysis-and--01-packaging-tax.webp" width="900" height="920" alt="Packaging market with an external cost of 5 cu. A 5 cu tax shifts supply up onto marginal social cost and moves the market from 72 units to the optimum 60. The shaded triangle is the 30 cu deadweight loss removed. Consumers bear 40% and producers 60% of the tax." loading="lazy">
-  <figcaption>A tax equal to the external cost moves output from 72 to the social optimum of 60 and removes a 30 cu welfare loss.</figcaption>
-</figure>
-
-<figure class="topic-figure">
   <img src="https://img.marlbridge.com/ocr-a-level-economics-government-intervention-cost-benefit-analysis-and--05-gov-subsidy-training.webp" width="900" height="790" alt="Demand and supply meet at A with 52 places at 24 cu. A 5 cu subsidy moves supply down so B has 58 places and students pay 21 cu. MSB crosses supply at 58 where providers receive 26 cu; the small triangle is the 15 cu welfare gain against a 290 cu cost." loading="lazy">
   <figcaption>A 5 cu subsidy reaches the optimum 58 places, but the gain of 15 cu is small next to its cost of 290 cu.</figcaption>
 </figure>
@@ -219,3 +245,9 @@ These notes condense the OCR A Level Economics (H460) topics "Alternative method
 ## Official syllabus
 
 OCR A Level in Economics (H460), Version 3.0 (June 2026), for first assessment in 2021, published by OCR. Topics: "Alternative methods of government intervention" and "Government failure".
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-allocation-of-resources--07-price-controls.webp" width="900" height="1370" alt="Equilibrium E is at price 5 and quantity 50. A maximum price of 3 gives demand 70 and supply 25, a shortage of 45. A minimum price of 7 gives demand 30 and supply 75, a surplus of 45." loading="lazy">
+  <figcaption>A maximum price below equilibrium causes a shortage; a minimum price above it causes a surplus.</figcaption>
+</figure>
+

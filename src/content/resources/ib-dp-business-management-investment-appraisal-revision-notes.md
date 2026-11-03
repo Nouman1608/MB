@@ -121,17 +121,6 @@ Quantitative results are one input. Strong answers also weigh:
 
 Structure for a recommendation: state the result, interpret it for this business, give the limitation that matters most, give a counter-point, then reach a judgement.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ib-dp-business-management-finance-accounts--08-payback-arr.webp" width="900" height="1130" alt="Project costing $100k returns 20, 30, 40, 40, 30. Cumulative cash turns positive a quarter of the way into year 4: payback 3 years 3 months. Average annual profit is 12 on 100 invested: ARR 12%. Payback ignores later profit; ARR ignores timing." loading="lazy">
-  <figcaption>Payback measures time to recover the cost; ARR measures average yearly profit as a percentage of cost.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ib-dp-business-management-finance-accounts--09-npv.webp" width="900" height="1020" alt="Same project discounted at 10%: present values 18.2, 24.8, 30.1, 27.3 and 18.6 total 119.0, so NPV after the $100k cost is +19.0 ($k). Weakness: depends on the chosen discount rate." loading="lazy">
-  <figcaption>NPV discounts future cash to today’s value and subtracts the cost; the result depends on the discount rate.</figcaption>
-</figure>
-
-
 ## Quick self-test
 
 1. A business buys equipment for 84,000 and expects net returns of 12,000 each year. Calculate the payback period.
@@ -173,6 +162,16 @@ Structure for a recommendation: state the result, interpret it for this business
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/ib-dp-business-management-investment-appraisal--07-ia-same-arr-timing.webp" width="900" height="940" alt="Line A returns 120, 80, 40 and 20 thousand on a 200 thousand cost: ARR 7.5%, payback 2.0 years. The same returns reversed give ARR 7.5% but payback 3.5 years, showing ARR ignores timing." loading="lazy">
   <figcaption>Same ARR, very different payback.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-finance-accounts--08-payback-arr.webp" width="900" height="1130" alt="Project costing $100k returns 20, 30, 40, 40, 30. Cumulative cash turns positive a quarter of the way into year 4: payback 3 years 3 months. Average annual profit is 12 on 100 invested: ARR 12%. Payback ignores later profit; ARR ignores timing." loading="lazy">
+  <figcaption>Payback measures time to recover the cost; ARR measures average yearly profit as a percentage of cost.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-finance-accounts--09-npv.webp" width="900" height="1020" alt="Same project discounted at 10%: present values 18.2, 24.8, 30.1, 27.3 and 18.6 total 119.0, so NPV after the $100k cost is +19.0 ($k). Weakness: depends on the chosen discount rate." loading="lazy">
+  <figcaption>NPV discounts future cash to today’s value and subtracts the cost; the result depends on the discount rate.</figcaption>
 </figure>
 
 

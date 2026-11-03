@@ -218,6 +218,11 @@ A lid of area 0.012 m² closes a container. The pressure inside is 1.8 × 10⁵ 
   <figcaption>A small area concentrates the same force into a much larger pressure.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/pressure--01-pressure-force-area.webp" width="900" height="850" alt="Two blocks each press with 600 N. On 0.5 m2 the pressure is 1200 Pa and the block sinks little into sand; on 0.1 m2 it is 6000 Pa and it sinks deeper." loading="lazy">
+  <figcaption>For the same force, a smaller area gives a larger pressure.</figcaption>
+</figure>
+
 
 ## Simple hydraulic systems (P2.3o, Higher Tier only)
 

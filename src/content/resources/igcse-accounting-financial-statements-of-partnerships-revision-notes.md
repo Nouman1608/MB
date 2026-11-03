@@ -106,12 +106,6 @@ Quick-recall notes for **syllabus section 5.2 Partnerships**, Cambridge IGCSE Ac
 | Share of loss | Appropriation account, balance | Debit current account |
 | Drawings | Not in either statement | Debit current account |
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-accounting-financial-statements-of-partnerships--04-capital-vs-current-account.webp" width="900" height="962" alt="Quill's capital account stays at 55,000 dollars. His current account moves through interest, salary, loan interest, profit share, drawings and interest on drawings to a debit balance of 5,020 dollars, so capital less that balance gives 49,980 dollars in the statement of financial position." loading="lazy">
-  <figcaption>Capital is fixed; the current account collects the year's movements and can end in debit.</figcaption>
-</figure>
-
-
 ## Method in steps
 
 1. Prepare the statement of profit or loss with all 5.1 adjustments and any loan interest. Stop at profit for the year.
@@ -175,6 +169,12 @@ $700); total
 $159,300. The 
 $15,000 loan is a liability shown outside this total.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-partnership-accounts--04-current-account-overdrawn.webp" width="900" height="890" alt="Marsh's current account debits (drawings 24,000 and interest on drawings 450 pounds) total 24,450 pounds while credits total 23,550 pounds, so a 900 pound debit balance balances the account. Capital accounts of 120,000 pounds plus current accounts of 4,700 pounds give equity of 124,700 pounds." loading="lazy">
+  <figcaption>Drawing more than is credited leaves a debit balance on the current account.</figcaption>
+</figure>
+
+
 ## Ledger reminders
 
 - **Capital account:** credit the opening balance and any capital introduced. With fixed capitals nothing else is posted, and the closing balance is brought down at the same amount.
@@ -194,6 +194,12 @@ Balance c/d    50,000
 - **Current account, debit side:** opening debit balance, drawings, interest on drawings, share of loss.
 - Balance each account with a total, then bring the balance down. With a debit balance, the carried-down figure sits on the credit side and the brought-down figure on the debit side.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-accounting-financial-statements-of-partnerships--04-capital-vs-current-account.webp" width="900" height="962" alt="Quill's capital account stays at 55,000 dollars. His current account moves through interest, salary, loan interest, profit share, drawings and interest on drawings to a debit balance of 5,020 dollars, so capital less that balance gives 49,980 dollars in the statement of financial position." loading="lazy">
+  <figcaption>Capital is fixed; the current account collects the year's movements and can end in debit.</figcaption>
+</figure>
+
+
 ## Loss-year reminder
 
 Profit for the year is $6,000. Interest on capital totals 
@@ -204,17 +210,6 @@ $4,000 -
 $5,000 = (
 $3,000), a loss. Shared equally, each partner is debited 
 $1,500 in the current account, while interest and the salary are still credited.
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-accounting-financial-statements-of-partnerships--03-loss-after-appropriations.webp" width="900" height="830" alt="Profit of 11,600 dollars plus 600 interest on drawings, less 6,000 interest on capital and 17,500 of salaries, leaves a loss of 11,300 dollars. It is shared 2:2:1 as 4,520, 4,520 and 2,260 dollars and debited to the current accounts." loading="lazy">
-  <figcaption>When interest and salaries exceed profit the shortfall is a loss shared in the agreed ratio.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/aqa-a-level-accounting-partnership-accounts--04-current-account-overdrawn.webp" width="900" height="890" alt="Marsh's current account debits (drawings 24,000 and interest on drawings 450 pounds) total 24,450 pounds while credits total 23,550 pounds, so a 900 pound debit balance balances the account. Capital accounts of 120,000 pounds plus current accounts of 4,700 pounds give equity of 124,700 pounds." loading="lazy">
-  <figcaption>Drawing more than is credited leaves a debit balance on the current account.</figcaption>
-</figure>
-
 
 ## Must-know distinctions
 
@@ -268,6 +263,12 @@ $26,300.
 8. For example: more capital is available; but liability is unlimited.
 9. The partner has taken out more than has been credited to them, so they owe the business that amount.
 10. The cost of production, in place of purchases.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-accounting-financial-statements-of-partnerships--03-loss-after-appropriations.webp" width="900" height="830" alt="Profit of 11,600 dollars plus 600 interest on drawings, less 6,000 interest on capital and 17,500 of salaries, leaves a loss of 11,300 dollars. It is shared 2:2:1 as 4,520, 4,520 and 2,260 dollars and debited to the current accounts." loading="lazy">
+  <figcaption>When interest and salaries exceed profit the shortfall is a loss shared in the agreed ratio.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

@@ -91,6 +91,11 @@ N = 0.020 × 6.02 × 10²³ = 1.2 × 10²² molecules
 ```
 
 <figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-ideal-gases--03-shc-electrical.webp" width="900" height="1290" alt="A lagged metal block of 1.00 kg holds a heater and a thermometer. The heater is connected through an ammeter in series with a voltmeter across it; conventional current flows from the positive terminal. At 12.0 V and 4.20 A (50.4 W) the temperature rises 24.0 K in 420 s, a straight line of gradient 0.0571 K/s, so c = P/(m × gradient) = 882 J/kg/K." loading="lazy">
+  <figcaption>The gradient of a temperature-time graph at constant power gives c = P / (m × gradient).</figcaption>
+</figure>
+
+<figure class="topic-figure">
   <img src="https://img.marlbridge.com/a-physics-ideal-gases--04-boyle-law.webp" width="900" height="1200" alt="Two syringes hold the same ten molecules at constant temperature. Halving the volume from 60 to 30 cm3 doubles the pressure from 1.00 to 2.00 x 10^5 Pa because molecules hit the walls twice as often. A graph of p against 1/V for six readings is a straight line through the origin, and pV = 6.0 J every time." loading="lazy">
   <figcaption>At constant temperature pV is constant, so p against 1/V is a straight line through the origin.</figcaption>
 </figure>

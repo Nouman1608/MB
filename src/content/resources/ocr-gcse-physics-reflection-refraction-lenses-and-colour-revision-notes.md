@@ -80,6 +80,11 @@ Worked reminder: infrared with frequency 3.0 × 10¹⁴ Hz has wavelength 1.0 ×
   <figcaption>Light slows and bends towards the normal entering glass, and speeds up and bends away leaving it.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-physics-8463-waves--03-wavefronts-refraction.webp" width="900" height="920" alt="Wave fronts arrive at a slant at an air-glass boundary. The end of each front entering glass first slows first, so the fronts turn. In glass the wave fronts are closer together (shorter wavelength) and the ray bends towards the normal." loading="lazy">
+  <figcaption>Refraction happens because the wave slows in glass: the wave fronts bunch up and turn.</figcaption>
+</figure>
+
 
 ## P5.3d: ray diagram rules (Higher Tier only)
 
@@ -132,6 +137,11 @@ Similarities between lenses: both refract at two surfaces, both have principal f
 </figure>
 
 <figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-physics-waves--06-lens-image.webp" width="900" height="770" alt="To-scale ray diagram with f = 120 and object at 300: image forms at 200, real, inverted and diminished." loading="lazy">
+  <figcaption>An object beyond 2F gives a real, inverted, diminished image.</figcaption>
+</figure>
+
+<figure class="topic-figure">
   <img src="https://img.marlbridge.com/o-level-physics-waves--04-lens-f-to-2f.webp" width="900" height="840" alt="Ray diagram for a converging lens with f = 4 cm. A 2 cm object 6 cm from the lens gives a real, inverted image 4 cm tall 12 cm beyond the lens, magnified by 2.0." loading="lazy">
   <figcaption>An object between F and 2F gives a real, inverted, magnified image.</figcaption>
 </figure>
@@ -144,6 +154,11 @@ Similarities between lenses: both refract at two surfaces, both have principal f
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/oxfordaqa-igcse-physics-lenses-image-formation-and-the-eye--09-lens-concave.webp" width="900" height="800" alt="Ray diagram for a concave lens. A ray parallel to the axis bends away from the axis, appearing to come from the principal focus on the object side; the ray through the centre is undeviated. The refracted rays never cross, but dotted lines traced back meet 4 cm from the lens on the object side, giving a virtual, upright image 1 cm tall (one third of the object)." loading="lazy">
   <figcaption>A concave lens only ever makes a virtual, upright, smaller image.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-physics-lenses-image-formation-and-the-eye--11-sight-defects.webp" width="900" height="1000" alt="Four schematic eyes in two rows. Long sight: rays from a near object focus behind the retina, and a convex lens in front of the eye brings them to a focus on the retina. Short sight: parallel rays from a distant object focus in front of the retina, and a concave lens in front of the eye moves the focus back onto the retina." loading="lazy">
+  <figcaption>A convex lens corrects long sight and a concave lens corrects short sight.</figcaption>
 </figure>
 
 
@@ -170,6 +185,11 @@ Method for a colour question:
   <figcaption>Filters and objects only remove colours from the light; they never add any.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-physics-8463-waves--02-reflection-specular-diffuse.webp" width="900" height="925" alt="A smooth surface reflects parallel rays in one direction, each leaving at the same angle from the normal as it arrived (40 degrees). A rough surface is made of tiny faces tilted differently; each ray still obeys angle in equals angle out at its face, but the rays scatter." loading="lazy">
+  <figcaption>Smooth surfaces give specular reflection and rough surfaces give diffuse reflection; both obey the law of reflection.</figcaption>
+</figure>
+
 
 ## Worked reminders
 
@@ -193,6 +213,12 @@ The frequency is the same in both. The wavelength is shorter in water because th
 **Colour of an object (Higher Tier only).** A green leaf in white light reflects green and absorbs red and blue. In red light it has nothing to reflect, so it looks black.
 
 **Choosing the lens (Higher Tier only).** Rays from a distant object come to a focus in front of the retina. The eye is too strong for its length. Fit a concave lens so the rays diverge slightly before they enter the eye.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-physics-waves--07-em-spectrum.webp" width="900" height="950" alt="Seven regions from radio to gamma, each with a wave of shorter wavelength than the one above (illustrative) and one use. All travel at 3.0 x 10^8 m/s in a vacuum (Extended)." loading="lazy">
+  <figcaption>Frequency rises and wavelength falls from radio waves to gamma rays.</figcaption>
+</figure>
+
 
 ## Practical links
 
@@ -240,12 +266,6 @@ For a method or evaluation question, say what you change, what you measure, and 
 9. Red and green, which combine to look yellow. It absorbs blue.
 10. Black or very dark. The shirt reflects blue but absorbs red, and there is no blue in the light.
 11. Paper scatters light in many directions. A mirror gives specular reflection, so parallel rays stay parallel and only reach certain positions.
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-physics-waves--06-lens-image.webp" width="900" height="770" alt="To-scale ray diagram with f = 120 and object at 300: image forms at 200, real, inverted and diminished." loading="lazy">
-  <figcaption>An object beyond 2F gives a real, inverted, diminished image.</figcaption>
-</figure>
-
 
 ## Where marks are usually lost
 

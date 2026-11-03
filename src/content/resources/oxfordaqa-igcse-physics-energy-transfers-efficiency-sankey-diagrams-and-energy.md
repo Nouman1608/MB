@@ -227,6 +227,12 @@ Efficiency = 33 / 60 = 0.55 (55%)
 Energy to the surroundings = 60 - 33 = 27 MJ
 ```
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/energy-resources-and-efficiency--02-steam-power-station.webp" width="900" height="920" alt="Fossil fuels, biofuels, nuclear fuel and geothermal heat all supply heat to a boiler. The boiler turns water to steam, which spins a turbine. The turbine turns a generator that makes electricity." loading="lazy">
+  <figcaption>Fossil fuels, biofuels, nuclear fuel and geothermal all heat water to steam to spin a turbine and generator.</figcaption>
+</figure>
+
+
 ## 3.2.3 c: National and global energy sources
 
 Sources fall into groups.
@@ -274,6 +280,11 @@ Useful power out = 0.18 x 5400 = 972 W (about 970 W)
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/oxfordaqa-igcse-physics-energy-transfers-efficiency-sankey-diagrams-and-energy--09-en-geothermal.webp" width="900" height="925" alt="Water goes down one borehole into hot rock and comes back up as steam, which turns a turbine and a generator at the surface. Advantage: steady output day and night. Drawback: needs accessible hot rock." loading="lazy">
   <figcaption>Geothermal power uses heat from hot rock to make steam for a turbine.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/energy-resources-and-efficiency--03-direct-and-solar.webp" width="900" height="990" alt="Wind, falling water, tides and waves spin a turbine directly with no boiler, and the turbine turns a generator. Solar cells below convert radiation to electricity directly with no turbine or generator." loading="lazy">
+  <figcaption>Wind, water, tides and waves spin a turbine directly; solar cells skip the turbine and generator.</figcaption>
 </figure>
 
 

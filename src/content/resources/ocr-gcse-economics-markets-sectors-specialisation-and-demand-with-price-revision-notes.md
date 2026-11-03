@@ -63,6 +63,16 @@ Quick recall for sections 2.1 (The role of markets) and 2.2 (Demand) of OCR GCSE
 **Evaluation pointers.** Gains depend on demand staying strong and on workers retraining easily. Diversified regions and countries cope better. Always end with a judgement: usually the gains are larger, provided risk is managed.
 
 <figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-economics-markets-sectors-specialisation-and-demand-with-price--12-sector-jobs-share-vs-number.webp" width="900" height="1090" alt="Two stacked columns of jobs in millions for Country A, drawn to scale. Year 1 has 10 million jobs: primary 2.0, secondary 3.5, tertiary 4.5. Year 30 has 12 million jobs: primary 0.6, secondary 3.0, tertiary 8.4. Tertiary jobs rise 86.7%, primary jobs fall 70%, and secondary jobs fall only 14.3% even though their share falls from 35% to 25%." loading="lazy">
+  <figcaption>Secondary share falls from 35% to 25%, but the number of jobs falls only from 3.5 to 3.0 million because total jobs grew.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-economics-markets-sectors-specialisation-and-demand-with-price--13-stool-specialisation.webp" width="900" height="970" alt="Four workers each stack stools. Without specialisation each makes 3 stools, 12 in total. With specialisation each worker adds to a shared output of 5 per worker, 20 in total, a rise of 66.7%. Labour cost is 320 pounds a day, so cost per stool falls from 26.67 pounds to 16.00 pounds, a fall of 40%." loading="lazy">
+  <figcaption>When four workers specialise, output rises from 12 to 20 stools a day and labour cost per stool falls 40%.</figcaption>
+</figure>
+
+<figure class="topic-figure">
   <img src="https://img.marlbridge.com/aqa-gcse-economics-how-markets-work--05-product-and-factor-markets.webp" width="900" height="880" alt="A loop diagram: in the product market firms supply goods and services to households and households pay money. In the factor market households supply labour, land and capital and receive wages, rent, interest and profit." loading="lazy">
   <figcaption>Households and firms meet in two markets: one for products and one for factors of production.</figcaption>
 </figure>
@@ -118,6 +128,11 @@ Quick recall for sections 2.1 (The role of markets) and 2.2 (Demand) of OCR GCSE
   <figcaption>A fall in the good's own price moves us along the demand curve: an extension of demand.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-allocation-of-resources--06-price-elasticity-of-demand.webp" width="900" height="1060" alt="Three demand curves through the same point: steep (inelastic, PED below 1), curved (unit, PED = 1), flat (elastic, PED above 1). PED = % change in quantity divided by % change in price. Example: price falls 10% (5 to 4.5), quantity rises 20% (50 to 60), PED = 2, elastic; revenue rises 250 to 270." loading="lazy">
+  <figcaption>PED measures how strongly quantity demanded responds to a price change, and decides whether revenue rises or falls.</figcaption>
+</figure>
+
 
 ## PED
 
@@ -136,6 +151,12 @@ Quick recall for sections 2.1 (The role of markets) and 2.2 (Demand) of OCR GCSE
 **Worked reminder.** Price £50 to £55 (+10%); quantity 2,000 to 1,700 (−15%). PED = −15 ÷ 10 = **−1.5**, elastic. Revenue £100,000 to £93,500: it fell, as expected.
 
 **Importance.** Producers: pricing, forecasting revenue, setting promotions. Consumers: inelastic goods take a larger bite when prices rise. Evaluation: revenue is not profit, PED is an estimate that changes over time, rivals may react, and costs rise with extra output.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-economics-price-system-and-the-microeconomy--04-ped-and-total-revenue.webp" width="900" height="1270" alt="Two demand diagrams with the same price cut from 5 to 4. With elastic demand (PED 2.5) quantity rises from 40 to 60: 40 of revenue is lost on existing sales, 80 is gained on extra sales, so revenue rises from 200 to 240. With inelastic demand (PED 0.5) quantity rises only to 44: the loss of 40 outweighs the gain of 16, so revenue falls to 176." loading="lazy">
+  <figcaption>Whether a price cut raises revenue depends on whether demand is elastic or inelastic.</figcaption>
+</figure>
+
 
 ## Method: calculating PED in steps
 
@@ -172,12 +193,6 @@ Do not stop at the number: add the interpretation in words, since a bare figure 
 - **Rise in demand:** more demand leads to higher price or more sales; producers earn more and may expand; but consumers pay more, and supply may not be able to respond quickly.
 - **Price cut on an elastic good:** quantity rises by a larger percentage than price falls, so revenue rises; but extra output costs more to make, so profit may not rise, and rivals may cut prices too.
 - **Price rise on an inelastic good:** quantity falls by a smaller percentage, so revenue rises; but over time buyers may find substitutes, and consumers on low incomes lose most.
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ocr-gcse-economics-markets-sectors-specialisation-and-demand-with-price--13-stool-specialisation.webp" width="900" height="970" alt="Four workers each stack stools. Without specialisation each makes 3 stools, 12 in total. With specialisation each worker adds to a shared output of 5 per worker, 20 in total, a rise of 66.7%. Labour cost is 320 pounds a day, so cost per stool falls from 26.67 pounds to 16.00 pounds, a fall of 40%." loading="lazy">
-  <figcaption>When four workers specialise, output rises from 12 to 20 stools a day and labour cost per stool falls 40%.</figcaption>
-</figure>
-
 
 ## Quick self-test
 

@@ -146,6 +146,16 @@ Note this contrasts with an electric field, which gives a **parabolic** path bec
   <figcaption>Electric field gives a parabola, magnetic field a circle.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-alternating-currents--02-force-on-a-wire.webp" width="900" height="1050" alt="A wire carrying current into the page between a north pole on the left and a south pole on the right feels a downward force (Fleming left-hand rule: thumb force, first finger field, second finger current). A top view defines theta, and a graph of F = BIL sin theta (B = 0.35 T, I = 4.5 A, L = 0.080 m) gives 0 at 0 degrees, 0.081 N at 40 degrees and 0.126 N at 90 degrees." loading="lazy">
+  <figcaption>The force on a wire in a field depends on sin theta and is greatest at 90 degrees.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-alternating-currents--03-charged-particle-circles.webp" width="900" height="920" alt="A proton accelerated through 1500 V enters a uniform 0.20 T field pointing into the page, moving upward. The magnetic force points left, so it circles; the radius is 2.8 cm at speed v and 5.6 cm at 2v. Both take the same time, T = 3.3 x 10^-7 s. An electron through the same voltage has a 43 times smaller radius and the opposite sense." loading="lazy">
+  <figcaption>A faster charged particle moves on a bigger circle but takes the same time per revolution.</figcaption>
+</figure>
+
 
 ## Electromagnetic induction
 
@@ -160,12 +170,6 @@ Faraday:  induced e.m.f. = -d(N phi)/dt
 **Lenz's law** — the induced current opposes the change producing it. The minus sign in Faraday's law *is* Lenz's law, and it follows from **conservation of energy**: if the induced effect assisted the change, energy would be created from nothing.
 
 **A transformer requires a.c.** because only a continuously changing flux gives a rate of change and hence an induced e.m.f. Direct current produces constant flux and no induction.
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/edexcel-ial-physics-fields-revision-notes--09-transformer-needs-ac.webp" width="900" height="1000" alt="Two graphs of magnetic flux and induced e.m.f. against time. With d.c. the flux in the core is constant, its rate of change is zero, so no e.m.f. is induced in the secondary coil. With a.c. the flux varies as a sine wave and the induced e.m.f. follows the negative of its gradient, a cosine wave, so a continuously changing flux gives a continuous induced e.m.f. The minus sign is Lenz's law." loading="lazy">
-  <figcaption>Only changing flux induces an e.m.f.</figcaption>
-</figure>
-
 
 ## Exam traps
 
@@ -186,3 +190,14 @@ Faraday:  induced e.m.f. = -d(N phi)/dt
 6. How are equipotentials oriented relative to field lines?
 
 **Answers:** 1. A radial field obeys an inverse square law and points towards or away from a point charge; a uniform field has constant strength and parallel field lines, as between charged parallel plates. 2. *(Background, not examinable.)* In parallel capacitances add; in series the reciprocals add — the opposite of resistors. 3. Energy is the area under the Q–V graph, and since p.d. rises linearly from zero to V, the average p.d. during charging is V/2. 4. The magnetic force is always perpendicular to the velocity, so it continuously changes direction, giving circular motion; the electric force has a fixed direction, giving constant acceleration in one direction and hence a parabola. 5. The induced current opposes the change producing it; it follows from conservation of energy. 6. Always perpendicular to the field lines, for both radial and uniform fields.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-physics-fields-revision-notes--09-transformer-needs-ac.webp" width="900" height="1000" alt="Two graphs of magnetic flux and induced e.m.f. against time. With d.c. the flux in the core is constant, its rate of change is zero, so no e.m.f. is induced in the secondary coil. With a.c. the flux varies as a sine wave and the induced e.m.f. follows the negative of its gradient, a cosine wave, so a continuously changing flux gives a continuous induced e.m.f. The minus sign is Lenz's law." loading="lazy">
+  <figcaption>Only changing flux induces an e.m.f.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-alternating-currents--05-lenz-law-magnet-coil.webp" width="900" height="1110" alt="Three rows show a bar magnet with its north pole facing a coil and a centre-zero meter. Moving in: the near end of the coil becomes a north pole and repels the magnet. Held still: no deflection. Moving out: the near end becomes a south pole and attracts the magnet, and the meter deflection reverses." loading="lazy">
+  <figcaption>The induced pole always opposes the magnet movement, so the meter deflects one way going in and the other way coming out.</figcaption>
+</figure>
+

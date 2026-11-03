@@ -148,6 +148,17 @@ Branding builds loyalty, allows premium pricing and eases new product launches.
 
 **Leadership styles** — autocratic, paternalistic, democratic, laissez-faire — suit different situations, and the examinable point is that no style is universally best. The specification also names the distinction between **management and leadership** and the **difficulty of moving from entrepreneur to leader** as a business grows and its founder has to delegate.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-business-human-resource-management--03-delayering.webp" width="900" height="970" alt="Two charts of Pelican Freight. Before: CEO, 3 directors, 15 managers and 180 drivers, with the CEO span at 3. After removing directors the 15 managers report to the CEO, span 15, saving 270,000 pounds a year." loading="lazy">
+  <figcaption>Delayering saves cost but widens the span of control.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-business-human-resource-management--07-conflict.webp" width="900" height="1040" alt="Employee actions: withdraw cooperation, work to rule, overtime ban, strike, leave. Causes: pay, conditions, job losses, change. Resolution: participation, bargaining between managers and representatives, arbitration by an independent third party." loading="lazy">
+  <figcaption>Conflict can be settled by participation, bargaining or arbitration.</figcaption>
+</figure>
+
+
 ## Entrepreneurs and leaders
 
 The **role of an entrepreneur** covers creating and setting up a business, running and expanding it, **innovation within an existing business (intrapreneurship)**, the **barriers to entrepreneurship** (such as access to finance, red tape and lack of experience), and **anticipating risk and uncertainty** in the business environment.

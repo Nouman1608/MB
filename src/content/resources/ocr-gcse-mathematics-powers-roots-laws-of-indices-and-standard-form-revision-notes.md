@@ -68,11 +68,6 @@ Reminder: (2a³)⁴ = 16a¹². The 2 is raised to the 4th power as well.
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-mathematics-0580-powers-roots-and-indices--03-zero-negative-indices.webp" width="900" height="1032" alt="A staircase lists 5^3 down to 5^-3. Each step lowers the index by 1 and divides by 5, giving 125, 25, 5, 1, 1/5, 1/25, 1/125. So 5^0 = 1 and a negative index gives a small positive reciprocal." loading="lazy">
-  <figcaption>Each step down divides by 5, so 5^0 = 1 and 5^-n is 1 over 5^n.</figcaption>
-</figure>
-
-<figure class="topic-figure">
   <img src="https://img.marlbridge.com/igcse-mathematics-0580-powers-roots-and-indices--04-index-rules-tiles.webp" width="900" height="976" alt="Tiles show 2^3 x 2^4 as 7 factors (2^7 = 128), (3^2)^4 as 4 groups of 2 factors (3^8), and 2^4 / 2^7 with 4 pairs cancelling leaving 3 below (2^-3 = 1/8). The rules need the same base." loading="lazy">
   <figcaption>Counting factors explains add, multiply and subtract for indices.</figcaption>
 </figure>
@@ -236,6 +231,12 @@ With a calculator, bracket carefully, keep the full unrounded value until the en
 8. (∛125)² = 5² = **25**.
 9. 1/(⁴√16)³ = 1/2³ = **1/8**.
 10. 3³ = 27 and 4³ = 64. The midpoint 3.5³ = 42.875 is above 30, so **3**.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-powers-roots-and-indices--03-zero-negative-indices.webp" width="900" height="1032" alt="A staircase lists 5^3 down to 5^-3. Each step lowers the index by 1 and divides by 5, giving 125, 25, 5, 1, 1/5, 1/25, 1/125. So 5^0 = 1 and a negative index gives a small positive reciprocal." loading="lazy">
+  <figcaption>Each step down divides by 5, so 5^0 = 1 and 5^-n is 1 over 5^n.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

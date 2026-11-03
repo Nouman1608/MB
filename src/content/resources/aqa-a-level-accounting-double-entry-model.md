@@ -121,6 +121,11 @@ A trial balance is not yet a set of financial statements -- adjustments must be 
   current asset on the statement of financial position.
 
 <figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-double-entry-model--07-paid-not-owed.webp" width="900" height="950" alt="Of 11,200 dollars of rent paid in 2027, 800 clears rent owed from 2026, 9,600 is the 2027 expense and 800 is paid for January 2028 (a prepayment, other receivable). The rent payable account balances at 11,200 and the 800 is brought down as a debit." loading="lazy">
+  <figcaption>Only the part of the cash paid that belongs to the year is charged to the income statement.</figcaption>
+</figure>
+
+<figure class="topic-figure">
   <img src="https://img.marlbridge.com/aqa-a-level-accounting-double-entry-model--08-allowance-irrecoverable.webp" width="900" height="1114" alt="Receivables of 48,600 less a 1,100 write-off give 47,500. A 3 percent allowance of 1,425 gives 46,075 in the statement of financial position. The allowance rises from 1,280 to 1,425 (145 expense) and falls to 1,260 the next year (165 income)." loading="lazy">
   <figcaption>Only the change in the allowance is charged or credited to profit.</figcaption>
 </figure>
@@ -161,6 +166,11 @@ when the reducing-balance rate is set to reach the same residual value.
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/aqa-a-level-accounting-double-entry-model--05-depreciation-methods.webp" width="900" height="1090" alt="For a 20,000 pound asset with 2,000 residual and four years, straight line charges 4,500 each year to reach 2,000. Reducing balance at 25 percent charges 5,000, 3,750, 2,813 and 2,109 and ends at 6,328. Lines and bars show the carrying value and yearly charge." loading="lazy">
   <figcaption>Reducing balance front-loads the charge; straight line is level.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-double-entry-model--06-disposal-profit-loss.webp" width="900" height="1000" alt="Equipment that cost 9,000 dollars with 2,700 depreciation has a net book value of 6,300. Sold for 4,800 it gives a 1,500 loss. The disposal account shows debit 9,000 and credits 2,700, 4,800 and 1,500." loading="lazy">
+  <figcaption>Profit or loss on disposal compares proceeds with net book value, not cost.</figcaption>
 </figure>
 
 

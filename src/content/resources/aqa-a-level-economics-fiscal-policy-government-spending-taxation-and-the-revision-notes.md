@@ -181,12 +181,6 @@ Taxes and spending change what is produced, where and by whom. Examples: regiona
 
 Chain: change in spending or tax → effect on AD or AS → effect on output, jobs, prices and equality → judgement that weighs spare capacity, lags, size of the effect and who gains or loses.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/aqa-a-level-economics-fiscal-policy-government-spending-taxation-and-the--08-tax-narrows-gap.webp" width="900" height="660" alt="Earners on 24,000 and 100,000 keep 21,360 and 71,700. The income ratio falls from 4.17 to 1 before tax to 3.36 to 1 after tax." loading="lazy">
-  <figcaption>Progressive income tax narrows the gap between gross incomes.</figcaption>
-</figure>
-
-
 ## Quick self-test
 
 1. State two microeconomic functions of fiscal policy.
@@ -212,6 +206,12 @@ Chain: change in spending or tax → effect on AD or AS → effect on output, jo
 8. It is a fixed amount per pack, and poorer smokers spend a larger share of income on the product.
 9. Vertical equity: those with more ability to pay contribute more. Horizontal equity: people in similar circumstances are treated alike.
 10. For example: to redistribute income; to discourage a harmful activity; to manage AD.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-fiscal-policy-government-spending-taxation-and-the--08-tax-narrows-gap.webp" width="900" height="660" alt="Earners on 24,000 and 100,000 keep 21,360 and 71,700. The income ratio falls from 4.17 to 1 before tax to 3.36 to 1 after tax." loading="lazy">
+  <figcaption>Progressive income tax narrows the gap between gross incomes.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

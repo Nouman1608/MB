@@ -51,6 +51,12 @@ Rearranged: distance = speed × time; mass = density × volume.
 
 Worked reminder: a cyclist rides 27 km in 1 h 30 min. Speed = 27 ÷ 1.5 = 18 km/h, which is 18 ÷ 3.6 = 5 m/s. A metal bar of volume 250 cm³ and mass 1.75 kg has density 1750 ÷ 250 = 7 g/cm³, which is 7000 kg/m³.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-physics-8463-particle-model-of-matter--10-density-unit-conversion.webp" width="900" height="850" alt="A 1 cm3 cube of the metal has mass 2.7 g. A 1 m3 cube holds 1 000 000 cm3, so its mass is 2 700 000 g or 2700 kg. So g/cm3 is multiplied by 1000 to give kg/m3." loading="lazy">
+  <figcaption>The same block is 2.7 g/cm3 or 2700 kg/m3.</figcaption>
+</figure>
+
+
 ### Time
 
 - Convert minutes to hours by dividing by 60: 1 h 45 min = 1.75 h.
@@ -61,6 +67,16 @@ Worked reminder: a cyclist rides 27 km in 1 h 30 min. Speed = 27 ÷ 1.5 = 18 km/
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/igcse-mathematics-0580-units-of-measure-area-and-perimeter--01-unit-ladder.webp" width="900" height="960" alt="A ladder of km, m, cm and mm with x1000, x100 and x10 going down and the same divisions going up, beside kg-g and l-ml pairs. Below, 2.75 km becomes 2750 m then 275 000 cm." loading="lazy">
   <figcaption>Going to a smaller unit multiplies; going to a larger unit divides.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-rates-time-and-money--03-across-midnight.webp" width="900" height="670" alt="A timeline from 22 00 to 07 00 shows the shift 22 38 to 06 15 split into hops of 22 min, 7 h and 15 min, totalling 7 h 37 min." loading="lazy">
+  <figcaption>Count on to the next whole hour, then whole hours, then the remaining minutes.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-rates-time-and-money--02-minutes-not-tenths.webp" width="900" height="860" alt="Two one-hour bars compare minutes with decimal hours: 36 minutes is 0.6 h, so 1 h 36 min is 1.6 h; 0.35 h is 21 minutes, so 2.35 h is 2 h 21 min." loading="lazy">
+  <figcaption>Minutes and decimal hours are different scales, so convert by dividing or multiplying by 60.</figcaption>
 </figure>
 
 
@@ -120,6 +136,11 @@ Worked reminder: a trapezium has parallel sides 5 and 11 and height 4. Area = ½
   <figcaption>A triangular prism with a 6-8-10 cross-section of area 24 cm2 and length 15 cm has volume 24 x 15 = 360 cm3.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-surface-area-and-volume--02-prism-net.webp" width="900" height="940" alt="The net of the triangular prism. Three rectangles side by side, 6 by 15, 8 by 15 and 10 by 15, with areas 90, 120 and 150 square centimetres, add to 360. A triangle of area 24 is attached above and another below the middle rectangle. The two ends total 48. Surface area is 48 plus 360, which is 408 square centimetres." loading="lazy">
+  <figcaption>The net of the prism shows two triangular ends (48) and three rectangles (360), giving a surface area of 408 cm2.</figcaption>
+</figure>
+
 
 ## G16: circles and composite shapes
 
@@ -163,6 +184,11 @@ Worked reminder: semicircle of radius 5. Perimeter = 5π + 10 = 25.7. Area = ½ 
   <figcaption>The two cut 9 cm edges disappear and are replaced by a quarter-circle arc.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-mathematics-exact-calculations-with-fractions-pi-and-surds--01-ring-area-pi.webp" width="900" height="779" alt="A circular path is the ring between an outer circle of radius 9 metres and an inner circle of radius 5 metres. The outer circle has area 81 pi and the inner circle 25 pi. Subtracting leaves 56 pi square metres, kept exact in terms of pi." loading="lazy">
+  <figcaption>A ring is the outer circle minus the inner one, and π stays a symbol.</figcaption>
+</figure>
+
 
 ## Extension only: 3D solids
 
@@ -204,6 +230,21 @@ Worked reminder: cone, radius 3 and height 4, so l = 5. Volume = (1/3) × π × 
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/oxfordaqa-igcse-mathematics-units-perimeter-area-volume-and-surface-area--04-pyramid-frustum-ex18.webp" width="900" height="760" alt="Side view of a square-based pyramid with base 12 cm and height 18 cm, cut at 9 cm from the top. Bars show large 864, small 108 (one eighth of the large) and frustum 756 cm³." loading="lazy">
   <figcaption>A frustum is the large pyramid minus the small one; the small one is one eighth of the volume at scale factor one half.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-surface-area-and-volume--04-one-third.webp" width="900" height="890" alt="Top: a cone sits inside a cylinder with the same radius 6 cm and height 8 cm. A bar of three equal parts shows the cone is one part, 96 pi, of the cylinder, 288 pi. Bottom: a pyramid with a 16 by 16 base and height 15 sits inside a square prism. The pyramid volume 1280 is one third of the prism volume 3840." loading="lazy">
+  <figcaption>A cone is one third of the cylinder with the same base and height, and a pyramid one third of the matching prism.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-surface-area-and-volume--05-slant-vs-height.webp" width="900" height="1080" alt="Top, a square-based pyramid with base 16 and vertical height 15 from the apex to the centre of the base. A right-angled triangle inside it uses the vertical height 15, half the base 8, and the slant height 17 on a face. This slant-height step is Extended. Bottom, a cone with radius 6, vertical height 8 and slant height 10. Volume uses the vertical height; curved surface area uses the slant height." loading="lazy">
+  <figcaption>The vertical height goes in the volume formula and the slant height in the curved surface area. Pythagoras links them: 15, 8, 17 in the pyramid and 6, 8, 10 in the cone.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-mathematics-surface-area-and-volume-of-prisms-cylinders-cones--02-composite-exposed-faces.webp" width="900" height="800" alt="A silo: a cylinder of radius 3 m and height 8 m with a hemisphere on top. The join circle is dashed because it is inside the solid and not counted, and the base is not painted. Curved wall 48 pi plus dome 18 pi gives 66 pi, about 207.3 square metres." loading="lazy">
+  <figcaption>In a composite solid, the face where two parts join disappears from the surface area.</figcaption>
 </figure>
 
 

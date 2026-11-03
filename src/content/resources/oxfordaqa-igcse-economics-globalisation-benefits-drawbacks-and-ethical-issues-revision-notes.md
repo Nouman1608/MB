@@ -109,12 +109,6 @@ Method in steps: write the formula, substitute, calculate, add the unit or the %
 
 Rule: every point needs a because. "Workers lose jobs" becomes "workers lose jobs because production moves to a country with lower labour costs, and may be unemployed for long if their skills do not match new jobs".
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/oxfordaqa-igcse-economics-globalisation-benefits-drawbacks-and-ethical-issues--13-globalisation-groups-grid.webp" width="900" height="940" alt="A grid of producers, workers and consumers in developed and less developed countries, each with one benefit and one drawback summarised from the lesson table." loading="lazy">
-  <figcaption>One benefit and one drawback for each group, in developed and less developed countries.</figcaption>
-</figure>
-
-
 ## Moral, ethical and sustainability issues
 
 - **Moral and ethical:** child labour, unsafe or very low-paid work, unfair prices for small producers, large MNCs with bargaining power over suppliers.
@@ -189,6 +183,11 @@ Ask: who gains and who loses, how big, how long, which country, and what policy 
 8. Y: 480 / 240 = 2.00; X: 360 / 160 = **2.25**. X pays more per hour.
 9. A cost to third parties that the producer does not pay, such as pollution from a plant that makes goods for export.
 10. 0.80 / 4.00 x 100 = **20%**.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-economics-globalisation-benefits-drawbacks-and-ethical-issues--13-globalisation-groups-grid.webp" width="900" height="940" alt="A grid of producers, workers and consumers in developed and less developed countries, each with one benefit and one drawback summarised from the lesson table." loading="lazy">
+  <figcaption>One benefit and one drawback for each group, in developed and less developed countries.</figcaption>
+</figure>
 
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/oxfordaqa-igcse-economics-globalisation-benefits-drawbacks-and-ethical-issues--14-cheaper-imports-real-income.webp" width="900" height="780" alt="A price index falling from 100 to 84 means 1,200 buys goods worth 1,428.57 at old prices instead of 1,200, shown as 14.29 blocks of 100 against 12, a gain in real income of 19.0 percent." loading="lazy">

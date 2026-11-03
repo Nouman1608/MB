@@ -57,6 +57,12 @@ Equations for uniform angular acceleration:
 - **Torque:** the turning effect of a force, T = Fr, with r measured at right angles from the axis to the line of the force.
 - **Conservation of angular momentum:** the total angular momentum of a system is constant if no external resultant torque acts on it.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-motion-in-a-circle--02-centripetal-acceleration.webp" width="900" height="710" alt="Balls on a circle have tangent velocity arrows of equal length and acceleration arrows pointing to the centre, at right angles to the velocity. A vector triangle shows v1 and v2 and their difference delta v pointing towards the centre. A dashed line shows a ball moving straight on if the force is removed." loading="lazy">
+  <figcaption>Speed is constant but the velocity turns, so the change in velocity and the acceleration point towards the centre.</figcaption>
+</figure>
+
+
 ## Factors that change I (qualitative)
 
 - More mass gives a larger I.
@@ -170,6 +176,12 @@ W = Tθ = 0.80 × 15 = 12 J
 10. T = P/ω = 3600 / 120 = 30 N m.
 11. Moment of inertia, torque, angular momentum (Iω is the equivalent of mv).
 12. The distances of the mass elements from the axis change, and I depends on r², so the sum Σmr² changes. The total mass stays the same.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-motion-in-a-circle--01-radian-omega-v.webp" width="900" height="1160" alt="A circle with a 1 radian sector: the arc along the edge is as long as the radius and the angle is about 57.3 degrees, with quarter, half and three-quarter turns marked as pi/2, pi, 3pi/2 and 2pi. Below, a turntable at 45 rpm has omega 4.71 rad/s everywhere; a point at 0.10 m moves at 0.47 m/s and a point at 0.20 m at 0.94 m/s, so v = omega r." loading="lazy">
+  <figcaption>One radian is the angle whose arc equals the radius, and at the same ω a point further out moves faster.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

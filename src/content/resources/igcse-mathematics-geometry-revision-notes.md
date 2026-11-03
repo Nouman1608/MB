@@ -148,22 +148,6 @@ Regular octagon: exterior angle = 360/8 = 45 degrees
 
 Always check whether all the vertices of a shape actually lie on the circle before applying a circle theorem, and never rely on the alternate segment theorem, or any theorem, without justifying every angle it depends on (for example, that a triangle is isosceles, or two lines are parallel) from information actually given.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-mathematics-geometry--03-right-angles-in-circles.webp" width="900" height="1055" alt="Top: a triangle ABC inside a circle with AB a diameter, right angle at C. Bottom: a radius OT meets a tangent at T with a right angle. The angle in a semicircle is 90 degrees, and a tangent meets a radius at 90 degrees." loading="lazy">
-  <figcaption>The angle in a semicircle and the angle between tangent and radius are both 90°.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-mathematics-geometry--04-angle-at-centre.webp" width="900" height="830" alt="Circle with arc AB, centre angle AOB of 130 degrees, and points C and D each giving an angle of 65 degrees on the same arc. The angle at the centre (130 degrees) is twice the angle at the circumference (65 degrees) on the same arc, and angles in the same segment are equal." loading="lazy">
-  <figcaption>The angle at the centre is twice the angle at the circumference, and angles in the same segment are equal.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-mathematics-geometry--05-cyclic-quadrilateral.webp" width="900" height="850" alt="Quadrilateral ABCD inscribed in a circle with angles A 100, B 65, C 80, D 115 degrees. A plus C is 180 and B plus D is 180. In a cyclic quadrilateral opposite angles add to 180 degrees (100 + 80 and 65 + 115)." loading="lazy">
-  <figcaption>Opposite angles of a cyclic quadrilateral add to 180°.</figcaption>
-</figure>
-
-
 ## Exam traps
 
 - Leaving construction arcs unmarked, since the visible method is what earns the mark.
@@ -183,3 +167,19 @@ Always check whether all the vertices of a shape actually lie on the circle befo
 6. Describe, in one sentence, how to construct a triangle with sides 7 cm, 5 cm and 4 cm using a ruler and compasses.
 
 **Answers:** 1. Congruent shapes are identical in shape AND size; similar shapes are identical in shape only, one a scaled copy of the other. 2. 3^3 = 27. 3. The angle at the centre is twice the angle at the circumference, standing on the same arc. 4. 180 degrees. 5. One, along the diagonal joining the two vertices where the pairs of equal sides meet; it bisects the angles at those two vertices, and the pair of equal angles lies one on each side of it. 6. Draw the 7 cm side, draw an arc of radius 5 cm from one end and an arc of radius 4 cm from the other, then join the point where the arcs cross to both ends, leaving the arcs visible.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-geometry--03-right-angles-in-circles.webp" width="900" height="1055" alt="Top: a triangle ABC inside a circle with AB a diameter, right angle at C. Bottom: a radius OT meets a tangent at T with a right angle. The angle in a semicircle is 90 degrees, and a tangent meets a radius at 90 degrees." loading="lazy">
+  <figcaption>The angle in a semicircle and the angle between tangent and radius are both 90°.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-geometry--04-angle-at-centre.webp" width="900" height="830" alt="Circle with arc AB, centre angle AOB of 130 degrees, and points C and D each giving an angle of 65 degrees on the same arc. The angle at the centre (130 degrees) is twice the angle at the circumference (65 degrees) on the same arc, and angles in the same segment are equal." loading="lazy">
+  <figcaption>The angle at the centre is twice the angle at the circumference, and angles in the same segment are equal.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-geometry--05-cyclic-quadrilateral.webp" width="900" height="850" alt="Quadrilateral ABCD inscribed in a circle with angles A 100, B 65, C 80, D 115 degrees. A plus C is 180 and B plus D is 180. In a cyclic quadrilateral opposite angles add to 180 degrees (100 + 80 and 65 + 115)." loading="lazy">
+  <figcaption>Opposite angles of a cyclic quadrilateral add to 180°.</figcaption>
+</figure>
+

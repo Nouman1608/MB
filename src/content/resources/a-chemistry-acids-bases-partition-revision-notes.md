@@ -258,17 +258,6 @@ more solute than one large one.
 The more similar the polarity of the solute is to that of a solvent, the more of the solute is found in
 that solvent. A more polar organic solvent will also take up a polar solute better, changing the value.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-chemistry-acids-bases-partition-revision-notes--08-kpc-meaning.webp" width="900" height="910" alt="A tube with hexane above water in equal volumes. Solute X is 0.24 mol per cubic decimetre in hexane (eight particles) and 0.030 in water (one particle). Kpc(hexane/water) = 8.0 with no units; reversing the ratio gives 0.125." loading="lazy">
-  <figcaption>Kpc is a ratio of concentrations in two layers and needs the solvent order stated.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-chemistry-acids-bases-partition-revision-notes--09-extraction-portions.webp" width="900" height="950" alt="Stacked bars of 1.00 g of X with Kpc(organic/water) = 4.0. One 50 cm3 extraction removes 0.67 g. Two 25 cm3 extractions remove 0.50 g then 0.25 g, a total of 0.75 g." loading="lazy">
-  <figcaption>The same volume of solvent extracts more when used in several small portions.</figcaption>
-</figure>
-
-
 ## Exam traps
 
 - A conjugate pair differs by **exactly one H⁺**: H₂SO₄ and SO₄²⁻ are **not** a conjugate pair.
@@ -319,3 +308,14 @@ that solvent. A more polar organic solvent will also take up a polar solute bett
 *These are original notes written for revision. Ka, Ksp and Kpc values marked illustrative or approximate
 are not data-book values. Check the full syllabus wording in the
 [official 9701 syllabus](https://www.cambridgeinternational.org/Images/664563-2025-2027-syllabus.pdf).*
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-chemistry-acids-bases-partition-revision-notes--08-kpc-meaning.webp" width="900" height="910" alt="A tube with hexane above water in equal volumes. Solute X is 0.24 mol per cubic decimetre in hexane (eight particles) and 0.030 in water (one particle). Kpc(hexane/water) = 8.0 with no units; reversing the ratio gives 0.125." loading="lazy">
+  <figcaption>Kpc is a ratio of concentrations in two layers and needs the solvent order stated.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-chemistry-acids-bases-partition-revision-notes--09-extraction-portions.webp" width="900" height="950" alt="Stacked bars of 1.00 g of X with Kpc(organic/water) = 4.0. One 50 cm3 extraction removes 0.67 g. Two 25 cm3 extractions remove 0.50 g then 0.25 g, a total of 0.75 g." loading="lazy">
+  <figcaption>The same volume of solvent extracts more when used in several small portions.</figcaption>
+</figure>
+

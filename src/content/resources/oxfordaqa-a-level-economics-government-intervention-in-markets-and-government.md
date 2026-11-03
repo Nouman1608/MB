@@ -112,6 +112,11 @@ Buyers gain more because demand is less elastic than supply here (consumers' sha
   <figcaption>A subsidy of 2.5 lowers the price from 6 to 4.5 and raises quantity from 40 to 55; producers receive 7 and the government pays 137.5.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-economics-government-microeconomic-intervention--02-subsidy-incidence.webp" width="900" height="890" alt="Supply and demand diagram where a subsidy of 2 per unit shifts supply down from S1 to S2. Quantity rises from 50 to 60, the consumer price falls from 5 to 3.8 (gain 1.2 a unit) and the producer receives 5.8 (gain 0.8 a unit). The government pays 2 a unit." loading="lazy">
+  <figcaption>A subsidy lowers the price consumers pay and raises what producers receive; the split depends on elasticity.</figcaption>
+</figure>
+
 
 ## 4. Price controls
 
@@ -125,6 +130,12 @@ Shortage = 650 − 275 = 375;  quantity traded falls by 45%
 Consumers who can buy gain a lower price; those who cannot lose; producers sell less at a lower price. Queues, black markets and falling quality may follow.
 
 **Minimum price (price floor).** Set above equilibrium it creates excess supply. In the same market a floor at 7 gives Qd = 300 and Qs = 800, a surplus of 500. If the government buys the surplus, it spends 7 × 500 = 3,500. Producers gain; consumers and taxpayers lose.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-allocation-of-resources--07-price-controls.webp" width="900" height="1370" alt="Equilibrium E is at price 5 and quantity 50. A maximum price of 3 gives demand 70 and supply 25, a shortage of 45. A minimum price of 7 gives demand 30 and supply 75, a surplus of 45." loading="lazy">
+  <figcaption>A maximum price below equilibrium causes a shortage; a minimum price above it causes a surplus.</figcaption>
+</figure>
+
 
 ## 5. Buffer stocks
 
@@ -144,6 +155,11 @@ In year 4 the stock runs out, so the price exceeds the ceiling. Storage costs mo
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-government-intervention-in-markets-and-government--09-gi-buffer-stock-years.webp" width="900" height="950" alt="A price chart for years 1 to 4 with a band from 9 to 11. Without a scheme the price is 7, 10, 12 and 13. With the scheme it is 9, 10, 11 and 12. A lower chart shows the authority stock after each year: 20, 20, 10 and 0 thousand tonnes. In year 1 it buys 20 at price 9, in year 3 it sells 10, and in year 4 it has only 10 left so the price rises to 12, above the ceiling." loading="lazy">
   <figcaption>The authority holds the price inside 9 to 11 in years 1 to 3, but in year 4 its stock is empty and the price breaks the ceiling at 12.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-economics-government-microeconomic-intervention--03-buffer-stock.webp" width="900" height="1030" alt="Demand slopes down; supply is three vertical lines for a bad (30), normal (50) and good (70) harvest. The agency sets a lower price of 4 and an upper price of 6. In a good harvest it buys 10 units to stop the price falling below 4; in a bad harvest it sells 10 units from store to stop the price rising above 6." loading="lazy">
+  <figcaption>A buffer stock buys when price is low and sells when price is high, keeping price between two limits.</figcaption>
 </figure>
 
 
@@ -177,6 +193,12 @@ State provision means the government pays for, and may supply, a good such as st
 
 Regulation sets rules, such as an emissions limit or a ban. It is direct and the result is certain if rules are obeyed. But firms differ in how cheaply they can comply, so it can cost more than a tax or permits, and it needs monitoring.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-economics-basic-economic-ideas-and-resource-allocation--04-free-rider-problem.webp" width="900" height="890" alt="A street lamp lights five people but only one pays; four free ride because nobody can be excluded. The collected 25 is far below the lamp's cost of 100, so a private firm cannot supply it profitably." loading="lazy">
+  <figcaption>Non-excludability lets people free ride, so private firms cannot profitably supply public goods.</figcaption>
+</figure>
+
+
 ## 8. Using taxes and spending to reduce inequality
 
 Taxes and spending can narrow gaps in income. Country C taxes income at 0% up to 12,000, 15% on the slice from 12,000 to 50,000 and 35% on the slice above 50,000.
@@ -193,6 +215,11 @@ The trade-off is incentives: high marginal rates may reduce work effort.
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-government-intervention-in-markets-and-government--08-gi-progressive-tax.webp" width="900" height="960" alt="Two bars for households in Country C. Household L earns 40,000 and pays 4,200 tax (10.5%), keeping 35,800. Household H earns 120,000 and pays 30,200 tax (25.2%), keeping 89,800. The ratio of H to L is 3.00 before tax, 2.51 after tax, and 2.34 after L also receives a benefit of 2,500. Tax bands are 0% to 12,000, 15% from 12,000 to 50,000 and 35% above 50,000." loading="lazy">
   <figcaption>Country C takes 10.5% of L's income and 25.2% of H's, so H earns 3.00 times L before tax and 2.51 times after; a benefit of 2,500 narrows it to 2.34.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-objectives-of-government--07-types-of-tax.webp" width="900" height="1110" alt="Bar charts of tax as a percentage of income for low, middle and high earners: progressive rises (10, 15, 22.5 percent), regressive falls (2, 1.5, 1 percent). Below, a direct tax goes from you to the government; an indirect tax goes via a shop." loading="lazy">
+  <figcaption>Direct/indirect and progressive/regressive are two separate ways to classify taxes.</figcaption>
 </figure>
 
 

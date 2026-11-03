@@ -42,6 +42,12 @@ Other pages: the [practice questions](/resources/ib-dp-economics-fiscal-policy-p
 
 Four sources of revenue: direct taxes, indirect taxes, sales of goods and services by state-owned enterprises, and sale of government assets (usually one-off).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-economics-fiscal-policy--10-fiscal-inflationary-gap.webp" width="900" height="960" alt="Keynesian AD/AS: actual 860 above potential 820; AD shifts left to close the gap of 40." loading="lazy">
+  <figcaption>Contractionary policy shifts AD left to close the gap.</figcaption>
+</figure>
+
+
 ## Six goals of fiscal policy
 
 1. Low and stable inflation.
@@ -70,11 +76,6 @@ Goals can conflict. A boost to demand that cuts unemployment may push up inflati
 3. Put AD1 on the flat part, left of potential output.
 4. Shift to AD2 for expansion. Output rises with little price rise.
 5. For contraction, start with AD past potential output on the steep part and shift left.
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ib-dp-economics-fiscal-policy--10-fiscal-inflationary-gap.webp" width="900" height="960" alt="Keynesian AD/AS: actual 860 above potential 820; AD shifts left to close the gap of 40." loading="lazy">
-  <figcaption>Contractionary policy shifts AD left to close the gap.</figcaption>
-</figure>
 
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/aqa-a-level-economics-aggregate-demand-supply--08-keynesian-as.webp" width="900" height="1030" alt="The Keynesian AS curve is flat with spare capacity, rises as bottlenecks appear and becomes vertical at full capacity. Three AD curves cross it at E1 (output 30, price 40), E2 (output 60, price 50) and E3 (output 80, price 85), showing output-only, both, then price-only effects." loading="lazy">

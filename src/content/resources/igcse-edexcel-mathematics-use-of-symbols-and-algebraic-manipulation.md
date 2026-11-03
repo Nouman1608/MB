@@ -56,12 +56,6 @@ negative and zero powers
   writing 2x² + 6x − 1 in the form a(x + b)² + c
   - E: using algebra to support and construct proofs
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-edexcel-mathematics-use-of-symbols-and-algebraic-manipulation--04-factorise-ax2-split.webp" width="900" height="880" alt="Product 6 x (-6) = -36 and sum -5 give -9 and +4, so 6x squared - 5x - 6 splits into 6x squared - 9x + 4x - 6, which fills a grid with columns 2x and -3 and rows 3x and +2. It factorises to (3x + 2)(2x - 3)." loading="lazy">
-  <figcaption>When a is not 1, multiply a by c and split the middle term.</figcaption>
-</figure>
-
-
 ## How to approach it
 
 Index notation (2.1) with fractional, negative and zero powers is
@@ -103,6 +97,16 @@ factorising will surface here even if 2.2B itself feels secure. Revise
   <figcaption>Take the root first, then the power; a negative index means one over.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-algebraic-fractions-and-indices-ii--05-cancel-algebraic-fraction.webp" width="900" height="1130" alt="(2x^2+5x-3)/(4x^2-1) factorises to (2x-1)(x+3) over (2x-1)(2x+1); cancelling (2x-1) leaves (x+3)/(2x+1), checked at x=5 as 8/11. Terms that are added, such as x^2 in (x^2+3)/(x^2-1), cannot be cancelled." loading="lazy">
+  <figcaption>Factorise, then cancel whole brackets only.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-introduction-to-algebra-and-manipulation--01-three-in-a-row.webp" width="900" height="940" alt="Three columns of blocks stand for n, n + 1 and n + 2, drawn with n = 4 as 4, 5 and 6 blocks. The 3 extra blocks are regrouped so each column has n + 1 blocks. So the sum 3n + 3 is 3 groups of (n + 1), a multiple of 3." loading="lazy">
+  <figcaption>The sum of three consecutive numbers is always 3(n + 1).</figcaption>
+</figure>
+
 
 ## Worked example: completing the square
 
@@ -126,6 +130,11 @@ this step specifically is worth building into a standard routine.
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/igcse-edexcel-mathematics-use-of-symbols-and-algebraic-manipulation--05-complete-square-a2-graph.webp" width="900" height="940" alt="The parabola y = 2x squared + 6x - 1 has its lowest point at (-1.5, -5.5) on the line x = -1.5 and crosses the y axis at -1. Completing the square gives a = 2, b = 1.5, c = -5.5, the turning point." loading="lazy">
   <figcaption>The completed-square form reads off the turning point (-b, c).</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/algebraic-manipulation--04-complete-square-tiles.webp" width="900" height="730" alt="Tiles for x squared plus 6x plus 5 nearly make a square of side x plus 3, but the 3 by 3 corner needs 9 unit squares and only 5 are there. So 4 are missing and x squared plus 6x plus 5 equals (x + 3) squared minus 4." loading="lazy">
+  <figcaption>Completing the square fills the corner of (x + 3)² and then takes away what was never there.</figcaption>
 </figure>
 
 
@@ -174,17 +183,6 @@ subtraction of the second numerator's whole expression (not just its
 first term) are the two steps most often rushed and got wrong under
 exam pressure.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-edexcel-mathematics-use-of-symbols-and-algebraic-manipulation--09-algebraic-fraction-subtract-linear.webp" width="900" height="1040" alt="Step 1: common denominator (x + 2)(x − 1), multiplying each numerator by the other denominator. Step 2: expand to 3x² − 2x − 1 and x² − 4, subtract the whole second bracket to get 2x² − 2x + 3. Result (2x² − 2x + 3)/((x + 2)(x − 1)), checked at x = 3." loading="lazy">
-  <figcaption>Use the product of the linear denominators, expand, and subtract the whole second numerator.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-mathematics-0580-algebraic-fractions-and-indices-ii--06-common-denominator.webp" width="900" height="1020" alt="Bars of twelve cells show 1/4 = 3/12 and 1/6 = 2/12. Then 3(2x+1)-2(x-3) = 6x+3-2x+6 = 4x+9, so the answer is (4x+9)/12." loading="lazy">
-  <figcaption>Rewrite over the common denominator, then combine numerators carefully.</figcaption>
-</figure>
-
-
 ## Quick revision checklist
 
 - Apply the three index rules (negative, zero, fractional powers)
@@ -197,8 +195,30 @@ coefficient" step in completing the square until it is automatic.
 
 Higher-tier candidates should expect these five points (2.2A-2.2E) to be assessed both in isolation and combined within a single longer question, so practising them together is genuinely representative of exam demand.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-mathematics-use-of-symbols-and-algebraic-manipulation--09-algebraic-fraction-subtract-linear.webp" width="900" height="1040" alt="Step 1: common denominator (x + 2)(x − 1), multiplying each numerator by the other denominator. Step 2: expand to 3x² − 2x − 1 and x² − 4, subtract the whole second bracket to get 2x² − 2x + 3. Result (2x² − 2x + 3)/((x + 2)(x − 1)), checked at x = 3." loading="lazy">
+  <figcaption>Use the product of the linear denominators, expand, and subtract the whole second numerator.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/algebraic-manipulation--01-expand-area-grid.webp" width="900" height="820" alt="An area grid for (3x + y)(x minus 4y) with columns 3x and y and rows x and minus 4y. The cells are 3x squared, xy, minus 12xy and minus 4y squared. Adding them and combining the xy terms gives 3x squared minus 11xy minus 4y squared." loading="lazy">
+  <figcaption>Every term in the first bracket multiplies every term in the second.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-algebraic-fractions-and-indices-ii--06-common-denominator.webp" width="900" height="1020" alt="Bars of twelve cells show 1/4 = 3/12 and 1/6 = 2/12. Then 3(2x+1)-2(x-3) = 6x+3-2x+6 = 4x+9, so the answer is (4x+9)/12." loading="lazy">
+  <figcaption>Rewrite over the common denominator, then combine numerators carefully.</figcaption>
+</figure>
+
+
 ## Official syllabus
 
 Pearson Edexcel International GCSE Mathematics (Specification A) (4MA1)
 specification, Issue 2, November 2017 —
 [qualifications.pearson.com](https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/Mathematics%20A/2016/Specification%20and%20sample%20assessments/international-gcse-in-mathematics-spec-a.pdf).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-mathematics-use-of-symbols-and-algebraic-manipulation--04-factorise-ax2-split.webp" width="900" height="880" alt="Product 6 x (-6) = -36 and sum -5 give -9 and +4, so 6x squared - 5x - 6 splits into 6x squared - 9x + 4x - 6, which fills a grid with columns 2x and -3 and rows 3x and +2. It factorises to (3x + 2)(2x - 3)." loading="lazy">
+  <figcaption>When a is not 1, multiply a by c and split the middle term.</figcaption>
+</figure>
+

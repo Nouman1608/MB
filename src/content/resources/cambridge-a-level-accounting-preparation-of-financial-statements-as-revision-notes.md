@@ -46,6 +46,22 @@ These notes condense section **1.5 Preparation of financial statements** (AS Lev
 
 **Correction of errors.** Steps: (1) identify the wrong and the correct entry; (2) journal the correction, using suspense if the trial balance did not balance; (3) restate profit; (4) restate the affected assets or liabilities. Capital versus revenue mistakes change profit and the asset together.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-accounting-for-organisations-with-incomplete-records--05-doubtful-debts-provision.webp" width="900" height="800" alt="Receivables of 19,100 pounds carry a 5 percent provision of 955 pounds, so the statement of financial position shows 18,145 pounds. The old provision was 900 pounds, so only the 55 pound increase is charged as an expense." loading="lazy">
+  <figcaption>Only the change in the provision goes to the income statement; the full provision is deducted from receivables.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-edexcel-accounting-principles-and-double-entry-bookkeeping--05-stock-lower-of-cost-nrv.webp" width="900" height="1110" alt="Three stock lines each show cost and NRV bars with a tick on the lower. Desk lamps use cost (2,160 against 3,360); floor lamps use NRV (1,360 against 1,800); lampshades use NRV (900 against 1,200). Item by item gives 4,420; comparing totals would keep 5,160 and hide a 740 loss." loading="lazy">
+  <figcaption>Stock is valued at the lower of cost and NRV for each item, not on the totals.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-edexcel-accounting-principles-and-double-entry-bookkeeping--06-capital-vs-revenue-van.webp" width="900" height="1010" alt="A delivery van splits spending into capital expenditure (van 18,000, delivery 250, signwriting 600, total 18,850, debited to vehicles and depreciated) and revenue expenditure (first year insurance 900, first week fuel 80, total 980, charged to the income statement)." loading="lazy">
+  <figcaption>Costs needed to get an asset ready for use are capital; running costs are revenue.</figcaption>
+</figure>
+
+
 ## 1.5.2 Sole traders
 
 | Statement | Order of content |
@@ -69,13 +85,23 @@ A service business has no inventory or cost of sales: fees less expenses. A trad
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/aqa-a-level-accounting-accounting-for-organisations-with-incomplete-records--01-adjustments-two-effects.webp" width="900" height="1010" alt="A four-row table shows accrued expenses, prepaid expenses, income due and income received in advance. An accrued expense is added to the expense and is a current liability (other payable); a prepaid expense is deducted and is a current asset (other receivable). Income due is added to income and is a current asset; income in advance is deducted and is a current liability." loading="lazy">
-  <figcaption>Each year-end adjustment changes both the income statement and the statement of financial position.</figcaption>
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-accounting-for-organisations-with-incomplete-records--03-depreciation-methods.webp" width="900" height="1000" alt="A line graph for an asset costing 24,000 pounds at 25 percent: straight line falls 6,000 pounds a year to zero in year 4; reducing balance charges 6,000, 4,500, 3,375 and 2,531 pounds, leaving a carrying amount of 7,594 pounds after four years." loading="lazy">
+  <figcaption>Straight line charges the same each year; reducing balance charges a percentage of the falling carrying amount.</figcaption>
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/aqa-a-level-accounting-accounting-for-organisations-with-incomplete-records--03-depreciation-methods.webp" width="900" height="1000" alt="A line graph for an asset costing 24,000 pounds at 25 percent: straight line falls 6,000 pounds a year to zero in year 4; reducing balance charges 6,000, 4,500, 3,375 and 2,531 pounds, leaving a carrying amount of 7,594 pounds after four years." loading="lazy">
-  <figcaption>Straight line charges the same each year; reducing balance charges a percentage of the falling carrying amount.</figcaption>
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-accounting-for-organisations-with-incomplete-records--06-trial-balance-to-statements.webp" width="900" height="1126" alt="The trial balance totals 274,470 pounds each side and is adjusted by seven notes. Gross profit of 84,200 pounds plus commission of 2,100 pounds less expenses of 56,175 pounds gives profit of 30,125 pounds. Opening capital 39,670 plus profit less drawings 19,200 gives closing capital of 50,595 pounds, equal to net assets." loading="lazy">
+  <figcaption>Profit flows into capital, and capital equals net assets, which proves the statements balance.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-accounting-for-organisations-with-incomplete-records--07-profit-from-capital.webp" width="900" height="900" alt="Opening capital of 13,480 pounds plus the missing profit of 10,420 pounds, plus 5,000 pounds introduced, less 19,200 pounds drawings, gives closing capital of 9,700 pounds. Capital fell by 3,780 pounds although there was a profit." loading="lazy">
+  <figcaption>Profit = closing capital - opening capital + drawings - capital introduced.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-accounting-for-organisations-with-incomplete-records--08-total-accounts.webp" width="900" height="896" alt="Two T-accounts show credit sales of 42,800 pounds and cash sales of 45,400 pounds as balancing figures. Each account balances at 46,000 and 45,550 pounds, and revenue is 88,200 pounds." loading="lazy">
+  <figcaption>The missing figure in a total account is the one that makes it balance.</figcaption>
 </figure>
 
 
@@ -103,6 +129,27 @@ A service business has no inventory or cost of sales: fees less expenses. A trad
 **Advantages of a written agreement:** fewer disputes, clear rewards, and flexibility away from equal sharing. **Disadvantages:** it takes time and cost to draft, it can only be changed by agreement, and fixed terms may stop matching what each partner contributes.
 
 **Reminder.** X (capital 50,000) and Y (30,000) earn 6% interest on capital. Y has a salary of 9,000. Profit is 40,000 shared equally. Interest is 3,000 and 1,800; residual 26,200; 13,100 each. X receives 16,100 and Y 23,900.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-partnership-accounts--01-agreement-vs-default.webp" width="900" height="830" alt="Four bars compare how a 48,000 pound profit is shared between Ryder and Sloane. With no agreement each receives 24,000 pounds. With an agreed 15,000 pound salary for Sloane and 8 percent interest on capital, Ryder receives 18,100 pounds and Sloane 29,900 pounds." loading="lazy">
+  <figcaption>Without an agreement profit is shared equally; an agreement lets reward match capital and effort.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-partnership-accounts--02-loan-interest-vs-appropriation.webp" width="900" height="930" alt="Profit before loan interest of 84,900 pounds has 900 pounds of partner loan interest deducted as an expense, leaving 84,000 pounds. That profit passes to the appropriation account, whose items (interest on capital, salary, residual shares) are shares of profit, with interest on drawings added." loading="lazy">
+  <figcaption>Loan interest is an expense before profit; salaries and interest on capital are shares of profit after it.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-partnership-accounts--03-appropriation-flow.webp" width="900" height="846" alt="A waterfall takes profit for the year of 84,000 pounds, adds 1,350 pounds interest on drawings, deducts 6,000 pounds interest on capital and Nash's 18,000 pound salary, leaving 61,350 pounds shared 3:2:1 as 30,675, 20,450 and 10,225 pounds." loading="lazy">
+  <figcaption>Profit plus drawings interest is shared out as interest, salary and residual shares.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-partnership-accounts--04-current-account-overdrawn.webp" width="900" height="890" alt="Marsh's current account debits (drawings 24,000 and interest on drawings 450 pounds) total 24,450 pounds while credits total 23,550 pounds, so a 900 pound debit balance balances the account. Capital accounts of 120,000 pounds plus current accounts of 4,700 pounds give equity of 124,700 pounds." loading="lazy">
+  <figcaption>Drawing more than is credited leaves a debit balance on the current account.</figcaption>
+</figure>
+
 
 ## 1.5.4 Limited companies
 
@@ -152,6 +199,31 @@ A service business has no inventory or cost of sales: fees less expenses. A trad
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/cambridge-a-level-accounting-preparation-of-financial-statements-as--12-finance-match.webp" width="900" height="900" alt="A long-term need (buy a building) is matched to a share or rights issue, debentures or retained earnings; a short-term need (seasonal inventory) to an overdraft or trade credit. Then check cost, repayment, control and risk." loading="lazy">
   <figcaption>Match the finance to the need and its time span.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-accounting-for-organisations-with-incomplete-records--01-adjustments-two-effects.webp" width="900" height="1010" alt="A four-row table shows accrued expenses, prepaid expenses, income due and income received in advance. An accrued expense is added to the expense and is a current liability (other payable); a prepaid expense is deducted and is a current asset (other receivable). Income due is added to income and is a current asset; income in advance is deducted and is a current liability." loading="lazy">
+  <figcaption>Each year-end adjustment changes both the income statement and the statement of financial position.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-accounting-for-limited-companies--01-share-premium.webp" width="900" height="970" alt="A bar for one 1.20 pound share splits into 0.50 nominal and 0.70 premium. Multiplied by 200,000 shares, 240,000 pounds arrives in the bank: 100,000 to share capital and 140,000 to share premium, both equity. The premium is not income and never reaches the income statement." loading="lazy">
+  <figcaption>The premium above nominal value goes to share premium, not to the income statement.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-accounting-for-limited-companies--06-rights-vs-bonus.webp" width="900" height="1040" alt="Equity of 605,000 pounds rises to 725,000 after a 1 for 4 rights issue (120,000 of cash). A 1 for 5 bonus issue then moves 75,000 from share premium to share capital with no cash and no change in the 725,000 total." loading="lazy">
+  <figcaption>A rights issue raises cash; a bonus issue only moves reserves into share capital.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-accounting-for-limited-companies--02-three-profit-lines.webp" width="900" height="970" alt="A waterfall for Brackwood Joinery Ltd takes revenue 612,000 down through cost of sales to gross profit 264,700, then operating expenses to profit from operations 63,100, finance costs to profit before tax 59,500 and tax to profit after tax 38,500. Dividends are not an expense and do not appear." loading="lazy">
+  <figcaption>Companies show three profit lines; dividends are not an expense.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-accounting-for-limited-companies--03-changes-in-equity.webp" width="900" height="870" alt="Equity builds from 143,200 pounds to 246,700 pounds. A share issue adds 50,000 to share capital and 30,000 to share premium, profit after tax adds 38,500 to retained earnings and dividends paid deduct 15,000 from retained earnings." loading="lazy">
+  <figcaption>Each movement in the year lands in one component of equity.</figcaption>
 </figure>
 
 

@@ -57,6 +57,11 @@ Power = energy per second = N × E, so N = 4.0 × 10⁻³ / 3.74 × 10⁻¹⁹ =
 Intensity is power per unit area: photons arriving per second per square metre, times the energy of each photon.
 
 <figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-quantum-physics--06-aphy-quantum-antimatter.webp" width="900" height="1230" alt="An electron and positron at rest annihilate into two 0.511 MeV photons going opposite ways. A 3.50 MeV photon makes an electron-positron pair, using 1.022 MeV as rest energy and leaving 2.478 MeV as kinetic energy, 1.24 MeV each. A 0.80 MeV photon is below the 1.022 MeV minimum." loading="lazy">
+  <figcaption>Annihilation and pair production share energy as rest energy and kinetic energy.</figcaption>
+</figure>
+
+<figure class="topic-figure">
   <img src="https://img.marlbridge.com/a-physics-quantum-physics--08-aphy-quantum-energy-levels.webp" width="900" height="1230" alt="Hydrogen energy levels at -13.6, -3.40, -1.51 and -0.85 eV. Falls from n=3 and n=4 to n=2 give 658 nm red and 488 nm blue photons and n=2 to 1 gives 122 nm ultraviolet. A continuous spectrum is shown beside the hydrogen line spectrum with lines at the computed wavelengths." loading="lazy">
   <figcaption>Each spectral line is one photon whose energy equals a gap between two levels.</figcaption>
 </figure>
@@ -160,6 +165,11 @@ f₀ = φ/gradient = 2.53 / 4.15 × 10⁻¹⁵ = 6.1 × 10¹⁴ Hz.
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/a-physics-quantum-physics--02-aphy-quantum-nuclear-size.webp" width="900" height="1190" alt="Radius R against A^(1/3) is a straight line through the origin with gradient r0 = 1.2 fm, with points for He-4, Al-27, Ca-40, Fe-56 and Pb-208. The three nuclei drawn to scale have equal density 2.3e17 kg/m3 because volume is proportional to A." loading="lazy">
   <figcaption>Nuclear radius grows as A^(1/3), so every nucleus has the same very high density (OCR only for R = r0 A^(1/3)).</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-quantum-physics--03-aphy-quantum-strong-force.webp" width="900" height="1090" alt="Schematic graph of force against nucleon separation. Below about 0.5 fm the force is repulsive; from 0.5 to about 3 fm it is attractive; beyond about 3 fm it is negligible. Three pictures of two nucleons show pushing apart, pulling together and no effect." loading="lazy">
+  <figcaption>The strong force is repulsive below 0.5 fm, attractive up to about 3 fm and negligible beyond (AQA and OCR).</figcaption>
 </figure>
 
 

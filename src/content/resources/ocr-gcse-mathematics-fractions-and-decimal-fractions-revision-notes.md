@@ -53,6 +53,11 @@ Paper 2 (Foundation) and Paper 5 (Higher) do not allow a calculator, so practise
   <figcaption>A mixed number is whole bars plus extra parts, all counted in the same unit fraction.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-number--02-hcf-lcm-prime-factors.webp" width="900" height="920" alt="Two overlapping circles hold the prime factors of 24 and 36. The overlap 2, 2, 3 multiplies to the HCF 12. Every factor counted once, overlap plus the extra 2 and extra 3, multiplies to the LCM 72." loading="lazy">
+  <figcaption>The overlap gives the HCF; every prime factor used once gives the LCM.</figcaption>
+</figure>
+
 
 ## Calculations with fractions (2.01b)
 
@@ -188,6 +193,12 @@ For a pure repeating block, write the block over 9s: one digit over 9, two digit
 
 **Check by estimating.** Before you finish any decimal calculation, round both numbers to one significant figure and see whether your answer is about the right size. 6.3 − 2.75 is near 6 − 3 = 3, so 3.55 is sensible.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-mathematics-fractions-and-decimal-fractions--03-decimal-division-scale.webp" width="900" height="780" alt="A line from 0 to 4.5 is cut into 30 pieces of 0.15 in three groups of ten, each 1.5 long. Multiplying both numbers by 100 gives 450 / 15 = 30." loading="lazy">
+  <figcaption>Dividing by 0.15 counts how many 0.15s fit, and scaling both numbers by 100 does not change the answer.</figcaption>
+</figure>
+
+
 ## Must-know distinctions
 
 - **Common denominator vs multiply across.** Addition needs a common denominator. Multiplication does not.
@@ -242,12 +253,6 @@ For a pure repeating block, write the block over 9s: one digit over 9, two digit
 - Multiplying the divisor by a power of 10 but not the other number.
 - Writing a recurring decimal like 0.7272... as 72/100 or 72/90 instead of 72/99.
 - Giving a bare answer on a calculation that asks you to show working. Show each step so a slip can still earn credit.
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ocr-gcse-mathematics-fractions-and-decimal-fractions--03-decimal-division-scale.webp" width="900" height="780" alt="A line from 0 to 4.5 is cut into 30 pieces of 0.15 in three groups of ten, each 1.5 long. Multiplying both numbers by 100 gives 450 / 15 = 30." loading="lazy">
-  <figcaption>Dividing by 0.15 counts how many 0.15s fit, and scaling both numbers by 100 does not change the answer.</figcaption>
-</figure>
-
 
 ## Official syllabus
 

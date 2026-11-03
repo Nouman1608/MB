@@ -174,6 +174,11 @@ Evaluation: profit can reflect market power rather than efficiency, can encourag
   <figcaption>Profit signals where resources are wanted, rewards risk, funds investment and disciplines losing firms.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-economics-production-and-business-costs--05-revenue-costs-profit.webp" width="900" height="920" alt="A firm sells 1,000 units at $50. Total revenue is $50,000. Total costs of $35,000 are fixed costs $10,000 plus variable costs $25,000. Profit is $15,000. Average total cost is $35,000 divided by 1,000, which is $35 per unit, leaving $15 per unit of the $50 price." loading="lazy">
+  <figcaption>The lesson example in pictures: $50,000 revenue less $35,000 costs leaves $15,000 profit, and average cost is $35 a unit.</figcaption>
+</figure>
+
 
 ## 3. Technological change
 

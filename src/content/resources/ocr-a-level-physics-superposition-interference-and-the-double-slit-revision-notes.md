@@ -125,6 +125,11 @@ Good practice: one common source for coherence, measure across several spacings 
   <figcaption>Superposing two opposite waves gives fixed nodes and antinodes half a wavelength apart.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-physics-waves--08-aphy-waves-gap-diffraction.webp" width="900" height="1210" alt="Plane waves meet a gap of 6, 2 and 1 wavelengths. With a wide gap the waves go through nearly straight; as the gap approaches one wavelength they spread into near-semicircular fronts. Wavelength, frequency and speed are unchanged." loading="lazy">
+  <figcaption>Diffraction is greatest when the gap is about one wavelength.</figcaption>
+</figure>
+
 
 ## Diffraction grating (A level only)
 
@@ -174,6 +179,12 @@ Good practice: one common source for coherence, measure across several spacings 
 8. d = 1 / (2.00 × 10⁵) = **5.0 μm** (5.0 × 10⁻⁶ m).
 9. d/λ = 7.8, so highest order **7**. sin θ = 2 × 640 × 10⁻⁹ / 5.0 × 10⁻⁶ = 0.256, so θ = **14.8°**.
 10. The percentage uncertainty in x is smaller for a long distance than for one small spacing.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-physics-waves--02-aphy-waves-polarisation.webp" width="900" height="1080" alt="Unpolarised light oscillates in every direction; a first Polaroid leaves one plane. A second Polaroid at 30 degrees transmits cos 30 of the amplitude, so 8.0 W per square metre becomes 6.0. Sound oscillates along its direction of travel, so there is nothing to filter. A small graph shows I = I0 cos squared theta (Cambridge only)." loading="lazy">
+  <figcaption>Only transverse waves can be polarised; sound cannot.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

@@ -55,6 +55,11 @@ Quick recall notes for OCR GCSE (9-1) Physics A (Gateway Science), J249, Version
 **Worked reminder: hydroelectricity.** Water stored at height has gravitational potential energy. It runs down through turbines, which turn generators. Output can be adjusted quickly by changing how much water flows.
 
 <figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-energy-resources-trends-in-use-and-mains-electricity--03-wind-farm-example.webp" width="900" height="784" alt="12 turbines of 2.5 MW give 30 MW maximum. At 30% the average is 9 MW, so 216 MWh in 24 h against 720 MWh at full output, a gap of 504 MWh." loading="lazy">
+  <figcaption>A wind farm at 30% of maximum delivers 216 of a possible 720 MWh a day.</figcaption>
+</figure>
+
+<figure class="topic-figure">
   <img src="https://img.marlbridge.com/energy-resources-and-efficiency--01-renewable-or-not.webp" width="900" height="1084" alt="Two columns. Non-renewable (tank draining, not refilled): coal, oil, natural gas and nuclear fuel. Renewable (tank refilled naturally): biofuels, hydroelectric, solar, geothermal, wind, tides and waves. Nuclear fuel is finite so it is non-renewable." loading="lazy">
   <figcaption>Non-renewable resources are used faster than they are replaced; renewable ones are replenished naturally.</figcaption>
 </figure>
@@ -62,6 +67,16 @@ Quick recall notes for OCR GCSE (9-1) Physics A (Gateway Science), J249, Version
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/energy-resources-and-efficiency--02-steam-power-station.webp" width="900" height="920" alt="Fossil fuels, biofuels, nuclear fuel and geothermal heat all supply heat to a boiler. The boiler turns water to steam, which spins a turbine. The turbine turns a generator that makes electricity." loading="lazy">
   <figcaption>Fossil fuels, biofuels, nuclear fuel and geothermal all heat water to steam to spin a turbine and generator.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/energy-resources-and-efficiency--03-direct-and-solar.webp" width="900" height="990" alt="Wind, falling water, tides and waves spin a turbine directly with no boiler, and the turbine turns a generator. Solar cells below convert radiation to electricity directly with no turbine or generator." loading="lazy">
+  <figcaption>Wind, water, tides and waves spin a turbine directly; solar cells skip the turbine and generator.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/energy-resources-and-efficiency--04-availability.webp" width="900" height="950" alt="Three graphs of power over 24 hours. Solar is non-zero only from 06:00 to 18:00 and peaks at midday. Tidal power rises and falls repeatedly in a regular pattern. Fossil and nuclear stations can run steadily at any time." loading="lazy">
+  <figcaption>Availability differs: solar only in daylight, tides in a predictable cycle, fossil and nuclear on demand.</figcaption>
 </figure>
 
 

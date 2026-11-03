@@ -120,12 +120,6 @@ The mechanism is **nucleophilic addition–elimination**, in two steps. **Additi
 
 Less vigorous than acyl chlorides, cheaper, and produce a carboxylic acid rather than corrosive HCl — which is why **ethanoic anhydride is used industrially to make aspirin** rather than ethanoyl chloride.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-carboxylic-acids-and-derivatives--09-aspirin-anhydride.webp" width="900" height="1296" alt="Salicylic acid reacts with ethanoic anhydride to give aspirin and ethanoic acid; the ringed ring OH receives the CH3CO group. Two flasks compare the reagents: the anhydride is milder, easier to control and slow to react with moist air with ethanoic acid as by-product, while ethanoyl chloride is vigorous and gives HCl gas." loading="lazy">
-  <figcaption>Ethanoic anhydride is preferred industrially: safer by-product and easier to control. AQA and OxfordAQA.</figcaption>
-</figure>
-
-
 ## Exam traps
 
 - Explaining acidity without delocalisation of the carboxylate ion.
@@ -146,3 +140,9 @@ Less vigorous than acyl chlorides, cheaper, and produce a carboxylic acid rather
 7. Rank acyl chlorides, alkyl chlorides and halogenoarenes by ease of hydrolysis, and explain the ranking.
 
 **Answers:** 1. The carboxylate ion formed is stabilised by delocalisation of the negative charge across both oxygen atoms, making loss of H⁺ favourable. 2. The three electron-withdrawing chlorine atoms pull electron density away from the carboxylate, stabilising the anion further. 3. Adding sodium carbonate — only the carboxylic acid produces effervescence of carbon dioxide. 4. Chlorine is strongly electronegative and a good leaving group, so the carbonyl carbon is more δ+ and more readily attacked by nucleophiles. 5. Esterification with a carboxylic acid is reversible, slow and low-yielding, whereas the acyl chloride reacts rapidly, irreversibly and in near-quantitative yield at room temperature — and it works reliably with phenols, which react only slowly and reversibly with carboxylic acids directly. 6. It retains an aldehyde-like H atom directly on its carbonyl carbon, so it can be oxidised further just as an aldehyde would be. 7. Acyl chlorides fastest (electrophilic carbon activated by both C=O and Cl), then alkyl chlorides (only one polar C–Cl bond), then halogenoarenes (barely react at all, since lone-pair delocalisation into the ring strengthens the C–Cl bond).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-carboxylic-acids-and-derivatives--09-aspirin-anhydride.webp" width="900" height="1296" alt="Salicylic acid reacts with ethanoic anhydride to give aspirin and ethanoic acid; the ringed ring OH receives the CH3CO group. Two flasks compare the reagents: the anhydride is milder, easier to control and slow to react with moist air with ethanoic acid as by-product, while ethanoyl chloride is vigorous and gives HCl gas." loading="lazy">
+  <figcaption>Ethanoic anhydride is preferred industrially: safer by-product and easier to control. AQA and OxfordAQA.</figcaption>
+</figure>
+

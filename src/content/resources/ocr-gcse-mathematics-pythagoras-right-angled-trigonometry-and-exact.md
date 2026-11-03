@@ -155,6 +155,11 @@ Both steps combine into one result: d² = 8² + 6² + 5².
   <figcaption>The squares on the two shorter sides add up to the square on the hypotenuse.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-trigonometry--07-trig-3d.webp" width="900" height="960" alt="A cuboid 8 by 6 by 5 cm. The base diagonal AC = 10 cm, and with CG = 5 and AG = 11.2 it forms a right-angled triangle. The angle between AG and the base has tan x = 5/10, so x = 26.6 degrees. The triangle is also shown flat." loading="lazy">
+  <figcaption>Pull the right-angled triangle out of the solid, then use ordinary trigonometry.</figcaption>
+</figure>
+
 
 ## Right-angled trigonometry (10.05b)
 
@@ -233,6 +238,11 @@ The angle of elevation is measured upward from the horizontal. The angle of depr
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/ocr-gcse-mathematics-pythagoras-right-angled-trigonometry-and-exact--06-ladder-angle-height.webp" width="900" height="890" alt="A 6.5 m ladder with foot 2.5 m from a wall. cos theta = 2.5/6.5 gives 67.4 degrees and Pythagoras gives a height of 6 m." loading="lazy">
   <figcaption>Use cosine for the angle and Pythagoras for the height of the ladder.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-trigonometry--02-elevation-depression.webp" width="900" height="950" alt="A person 55 m from a 40 m tower. The angle of elevation to the top is 36.0 degrees since tan x = 40/55. From the top, the angle of depression to the person is also 36.0 degrees, measured from a horizontal line, as they are alternate angles." loading="lazy">
+  <figcaption>Elevation and depression are both measured from the horizontal and are equal for the same line of sight.</figcaption>
 </figure>
 
 
@@ -323,6 +333,17 @@ opp = 8 × sin 30° = 8 × 1/2 = 4 cm
 ```
 opp = 5 × tan 60° = 5√3 cm
 ```
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-exact-trigonometric-values-and-trigonometric-functions--01-two-triangles.webp" width="900" height="1130" alt="Half a square with sides 1, 1, root 2 gives sin 45 = cos 45 = root 2 over 2 and tan 45 = 1. Half an equilateral triangle with sides 1, root 3 and 2 gives sin 30 = 1/2, cos 30 = root 3 over 2, tan 30 = 1 over root 3, and sin 60 = root 3 over 2, cos 60 = 1/2, tan 60 = root 3." loading="lazy">
+  <figcaption>Two triangles produce all the exact values for 30, 45 and 60 degrees.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-exact-trigonometric-values-and-trigonometric-functions--02-unit-quarter-circle.webp" width="900" height="900" alt="A quarter circle of radius 1 with rays at 30, 45 and 60 degrees. The height of each point is sin x and the distance across is cos x, labelled with the exact values; cos is the sin row reversed." loading="lazy">
+  <figcaption>On a quarter circle of radius 1, sin x is the height and cos x is the distance across.</figcaption>
+</figure>
+
 
 ## Common errors
 

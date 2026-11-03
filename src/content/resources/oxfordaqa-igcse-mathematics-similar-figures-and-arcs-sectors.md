@@ -286,6 +286,14 @@ The arc is a length, so it scales by k. The area scales by k². Checking this li
 * Rounding π to 3.14 too early. Keep full values until the last line.
 * Reporting an angle larger than 360°, or one that does not fit the picture. A small arc should give a small angle.
 
+## Exam technique for this unit
+
+* Write the fraction θ/360 on its own line before you substitute.
+* Underline the word that tells you what the question wants: arc, area or perimeter.
+* On a similar-figures problem, write "k = " and what it is before using it.
+* Give exact answers in terms of π when asked; otherwise round only at the end.
+* Put units on every answer: cm, cm² and cm³ are different things.
+
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/oxfordaqa-igcse-mathematics-similar-figures-and-arcs-sectors--03-sector-perimeter.webp" width="900" height="880" alt="A sector of radius 12 cm and angle 105 degrees has arc length 7 pi = 21.99 cm and two straight radii of 12 cm each. The perimeter is 21.99 + 24 = 46.0 cm." loading="lazy">
   <figcaption>The perimeter of a sector is the arc plus two radii.</figcaption>
@@ -301,14 +309,6 @@ The arc is a length, so it scales by k. The area scales by k². Checking this li
   <figcaption>Arc length and sector area are the same fraction, angle over 360, of the circumference and the area.</figcaption>
 </figure>
 
-
-## Exam technique for this unit
-
-* Write the fraction θ/360 on its own line before you substitute.
-* Underline the word that tells you what the question wants: arc, area or perimeter.
-* On a similar-figures problem, write "k = " and what it is before using it.
-* Give exact answers in terms of π when asked; otherwise round only at the end.
-* Put units on every answer: cm, cm² and cm³ are different things.
 
 ## Official syllabus
 

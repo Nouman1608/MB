@@ -159,11 +159,6 @@ The inelastic good raises more revenue. The elastic good cuts consumption more.
   <figcaption>The same rise in demand has different effects depending on PES.</figcaption>
 </figure>
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/cambridge-igcse-economics-price-elasticity-of-demand-and-supply-calculation-and--10-ped-pes-backwards.webp" width="900" height="810" alt="Demand: PED -0.5 and a price rise of 8% gives -4% quantity, so 2,000 becomes 1,920. Supply: PES 0.4 and a price rise of 25% gives +10% quantity, so 600 becomes 660." loading="lazy">
-  <figcaption>Percentage change in quantity = elasticity x percentage change in price.</figcaption>
-</figure>
-
 
 ## Chains of reasoning for longer answers
 
@@ -200,6 +195,12 @@ The inelastic good raises more revenue. The elastic good cuts consumption more.
 8. Any two of: spare capacity, stocks, time period, ease of switching factors, availability of raw materials, length of production process.
 9. -0.2 x 20 = **-4%**. Quantity falls by less than price rises, so revenue rises (demand is inelastic).
 10. The price rise is +20%. The quantity change is -8%. PED = **-0.4**, inelastic. Revenue rises from 5,000 to 5,520, an increase of 520.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-economics-price-elasticity-of-demand-and-supply-calculation-and--10-ped-pes-backwards.webp" width="900" height="810" alt="Demand: PED -0.5 and a price rise of 8% gives -4% quantity, so 2,000 becomes 1,920. Supply: PES 0.4 and a price rise of 25% gives +10% quantity, so 600 becomes 660." loading="lazy">
+  <figcaption>Percentage change in quantity = elasticity x percentage change in price.</figcaption>
+</figure>
+
 
 
 ## Where marks are usually lost

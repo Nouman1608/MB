@@ -199,6 +199,11 @@ Iron also forms FeCl₂, so iron has ions with different charges. The product is
   <figcaption>Transition elements are dense, high-melting, form coloured compounds and often act as catalysts.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/periodic-table-groups-and-trends--07-iron-ions.webp" width="900" height="910" alt="Group I sodium only forms Na+. Iron forms Fe2+ (iron(II), in FeSO4) by losing two electrons and Fe3+ (iron(III), in FeCl3) by losing three, so transition elements have variable oxidation numbers." loading="lazy">
+  <figcaption>Iron forms two stable ions, iron(II) and iron(III), unlike Group I metals.</figcaption>
+</figure>
+
 
 ## Metals with water and dilute acid (C4.1e)
 
@@ -225,6 +230,16 @@ For a fair comparison, keep the volume and temperature of the liquid (and the ac
   <figcaption>Calcium is 360 times faster than magnesium.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/metal-properties-and-reactivity--02-reactivity-ladder.webp" width="900" height="1089" alt="A ladder from potassium (most reactive) to gold (least) with carbon and hydrogen as dashed reference rows. Ticks, half circles and crosses show reaction with cold water, steam and dilute hydrochloric acid; aluminium is starred for its oxide layer." loading="lazy">
+  <figcaption>Position in the series predicts reactions with water, steam and acid.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/metal-properties-and-reactivity--03-acid-test.webp" width="900" height="970" alt="Three test tubes of dilute hydrochloric acid. Magnesium fizzes fast with many hydrogen bubbles, iron fizzes slowly with a few, and copper shows none, giving the order magnesium, iron, copper." loading="lazy">
+  <figcaption>More vigorous fizzing in dilute acid means a more reactive metal.</figcaption>
+</figure>
+
 
 ## Deducing reactivity from experiments (C4.1f)
 
@@ -249,6 +264,11 @@ Repeat each test, and use a lidded polystyrene cup to reduce energy loss.
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/ocr-gcse-chemistry-predicting-chemical-reactions--06-displacement-temperature-rise.webp" width="900" height="890" alt="Temperature rises with copper sulfate solution: X +12.5, Z +5.0, Y 0 degrees C. X and Z displace copper, Y does not, so the order is X, Z, copper, Y." loading="lazy">
   <figcaption>A larger temperature rise means a more reactive metal.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/metal-properties-and-reactivity--04-displacement.webp" width="900" height="940" alt="An iron nail in blue copper(II) sulfate becomes coated in pink-brown copper while the solution turns pale green. Iron atoms lose two electrons to form Fe2+ and the copper ions gain them to form copper atoms." loading="lazy">
+  <figcaption>The more reactive metal loses electrons and displaces the less reactive metal.</figcaption>
 </figure>
 
 

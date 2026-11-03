@@ -156,6 +156,11 @@ In set notation this is {x | x ≤ −4 or x ≥ 2/3}.
   <figcaption>Name each boundary, choose solid or broken, then pick the side that holds the unshaded region.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-functions--04-inverse-machine.webp" width="900" height="810" alt="The same four numbers 5, 10, 3, 1 in two rows. f multiplies by 2, subtracts 7, divides by 3, taking 5 to 1. The inverse runs right to left and undoes each step in reverse order: times 3, add 7, divide by 2, taking 1 back to 5." loading="lazy">
+  <figcaption>The inverse undoes each step of f in the reverse order.</figcaption>
+</figure>
+
 
 ## Regions on a graph: method in steps (6.04b, Higher tier only)
 

@@ -159,12 +159,6 @@ Because B3, B4 and B5 are frequently combined within a single exam question -- f
 - Forgetting to **check the discriminant** before assuming real roots exist.
 - Dropping a solution when an inequality involves a fraction or bracket, by treating it exactly like a linear inequality.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-level-aqa-mathematics-quadratics-and-inequalities--07-fraction-inequality.webp" width="900" height="940" alt="Graph of y = 5/(x - 2) with asymptote x = 2 and the line y = 3. The curve is above the line only for 2 &lt; x &lt; 11/3. Multiplying by x - 2 is unsafe because its sign changes at x = 2." loading="lazy">
-  <figcaption>Multiply by the square of the denominator, or compare graphs, rather than by x - 2 itself. (AQA / Edexcel IAL content.)</figcaption>
-</figure>
-
-
 ## Quick self-test
 
 - State what each sign of the discriminant (positive, zero, negative) tells you about a quadratic's roots.
@@ -172,6 +166,12 @@ Because B3, B4 and B5 are frequently combined within a single exam question -- f
 - Solve the simultaneous pair y = 2x and y = x² − 3 by substitution, then check by elimination.
 - Solve x² − 5x + 6 < 0, sketching the graph first.
 - Write the solution set to x² > 9 using both "or" notation and set notation.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-mathematics-quadratics-and-inequalities--07-fraction-inequality.webp" width="900" height="940" alt="Graph of y = 5/(x - 2) with asymptote x = 2 and the line y = 3. The curve is above the line only for 2 &lt; x &lt; 11/3. Multiplying by x - 2 is unsafe because its sign changes at x = 2." loading="lazy">
+  <figcaption>Multiply by the square of the denominator, or compare graphs, rather than by x - 2 itself. (AQA / Edexcel IAL content.)</figcaption>
+</figure>
+
 
 ## Official syllabus
 

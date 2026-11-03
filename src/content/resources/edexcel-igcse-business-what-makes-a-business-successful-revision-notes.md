@@ -35,6 +35,12 @@ Course links: the [4BS1 Business hub](/boards/edexcel/igcse/business/), the [pri
 
 Memory hook for 1.8.1: money (revenue, profit, growth), position (market share), people (customers, owners/shareholders, employees). Memory hook for 1.8.2: cash, rivals, change.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-business-what-makes-a-business-successful--04-satisfaction-rates.webp" width="900" height="1070" alt="A grid of 400 squares with 312 filled shows a 78 percent customer satisfaction rate. A grid of 60 people with 9 highlighted shows a 15 percent staff leaving rate, compared with 8 percent last year." loading="lazy">
+  <figcaption>A satisfaction rate needs a comparison; a staff leaving rate rising from 8% to 15% is a warning sign.</figcaption>
+</figure>
+
+
 ## Key terms
 
 | Term | Short definition |
@@ -66,6 +72,11 @@ The specification's formulae section gives gross profit, gross profit margin, op
 | Growth (standard form) | (New − old) ÷ old × 100 |
 | Net cash flow | Cash in − cash out |
 | Closing balance | Opening balance + net cash flow |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-business-what-makes-a-business-successful--01-dalveen-market-share.webp" width="900" height="1010" alt="Two bars to scale show the juice market with Dalveen inside it. Year 1: $1.8 million of $12 million, a 15 percent share. Year 2: $2.1 million of $16.8 million, 12.5 percent. Sales grew 16.7 percent but the market grew 40 percent, so share fell 2.5 points." loading="lazy">
+  <figcaption>Dalveen sold more but lost market share because the market grew faster.</figcaption>
+</figure>
 
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/edexcel-igcse-business-what-makes-a-business-successful--02-vessingby-margins.webp" width="900" height="990" alt="Two stacked bars split revenue into cost of sales, other operating expenses and operating profit. Year 1: 240,000 revenue, 144,000, 60,000 and 36,000. Year 2: 276,000 revenue, 165,600, 82,800 and 27,600. Gross margin stays 40 percent but operating margin falls from 15 to 10 percent." loading="lazy">
@@ -152,12 +163,6 @@ Section 1.1 of the specification lists financial objectives (survival, profit, s
 | Not competitive | Higher prices, weaker quality or service than rivals | Falling revenue and market share |
 | Failure to adapt to changes in the market | Tastes, technology or rivals change, business stays the same | Products become less wanted |
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/edexcel-igcse-business-what-makes-a-business-successful--03-norbeck-cash-balance.webp" width="900" height="1080" alt="A bar chart of closing balances for Norbeck Bikes: January 1,000, February minus 5,000, March minus 9,500, April minus 6,500, with a table of cash in, cash out and net cash flow beneath." loading="lazy">
-  <figcaption>The balance goes below zero in February and April does not erase the shortfall.</figcaption>
-</figure>
-
-
 ## Quick self-test
 
 1. Name the seven measures of success listed in 1.8.1.
@@ -183,6 +188,12 @@ Section 1.1 of the specification lists financial objectives (survival, profit, s
 8. Unhappy staff may leave, so the business pays to recruit and train replacements, which raises costs and lowers profit. They may also work less well, which can lose sales.
 9. Growth needs spending on inventory, staff and premises before customers pay, so cash goes out faster than it comes in.
 10. Not competitive is a weakness compared with rivals, for example higher prices. Failure to adapt is not changing as the market changes, for example ignoring new technology.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-business-what-makes-a-business-successful--03-norbeck-cash-balance.webp" width="900" height="1080" alt="A bar chart of closing balances for Norbeck Bikes: January 1,000, February minus 5,000, March minus 9,500, April minus 6,500, with a table of cash in, cash out and net cash flow beneath." loading="lazy">
+  <figcaption>The balance goes below zero in February and April does not erase the shortfall.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

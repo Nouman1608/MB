@@ -82,6 +82,12 @@ Reminder: resistance at a point on a curve is V/I, not the slope.
 5. Plot I against V; calculate V/I in a spreadsheet to show how R varies.
 6. For a thermistor, control the temperature separately, with a thermometer in a water bath.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-physics-electricity--08-potential-divider-load.webp" width="900" height="1170" alt="Left: 12 V across 4.7 kohm and 3.3 kohm gives 4.95 V across the 3.3 kohm resistor. Right: a 3.3 kohm load in parallel makes 1.65 kohm, so the output falls to 3.12 V. Below: a potentiometer slider 35.0 cm along a 100.0 cm track on a 6.0 V supply gives 2.1 V." loading="lazy">
+  <figcaption>A loaded divider lowers the output; a slider on a track gives a variable output.</figcaption>
+</figure>
+
+
 ## Method in steps: resistivity of a metal wire (PAG3)
 
 1. Read the diameter with a micrometer at spots along the wire, rotating it by 90° each time; take the mean and find A = πd²/4.

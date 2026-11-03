@@ -197,12 +197,6 @@ Water is a dipolar molecule: the oxygen atom carries a slightly negative charge 
 
 Inorganic ions occur in solution in the body and cytoplasm and have specific, examinable roles: hydrogen ions determine pH, which affects enzyme activity; iron ions form part of haemoglobin and bind oxygen reversibly; sodium ions drive the co-transport of glucose and amino acids across cell membranes and are essential to the generation of nerve impulses; and phosphate ions are structural components of ATP, DNA and RNA, and of phospholipids.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-level-biology-9700-carbohydrates-and-lipids--02-water-solvent.webp" width="900" height="1080" alt="Water molecules surround a sodium ion with their slightly negative oxygen atoms facing it, and surround a chloride ion with their slightly positive hydrogens facing it. A glucose ring with OH groups hydrogen bonds to water and dissolves. A non-polar triglyceride droplet cannot, so the water molecules bond to each other around it." loading="lazy">
-  <figcaption>Water dissolves ions and polar molecules, but not non-polar triglycerides.</figcaption>
-</figure>
-
-
 ## Quick revision checklist
 
 - Define condensation and hydrolysis and apply both to all three polymer classes.
@@ -211,3 +205,9 @@ Inorganic ions occur in solution in the body and cytoplasm and have specific, ex
 - Relate triglyceride and phospholipid structure to their functions.
 - Carry out and interpret each food test, including the non-reducing sugar sequence.
 - Calculate water released or consumed from the number of bonds.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-carbohydrates-and-lipids--02-water-solvent.webp" width="900" height="1080" alt="Water molecules surround a sodium ion with their slightly negative oxygen atoms facing it, and surround a chloride ion with their slightly positive hydrogens facing it. A glucose ring with OH groups hydrogen bonds to water and dissolves. A non-polar triglyceride droplet cannot, so the water molecules bond to each other around it." loading="lazy">
+  <figcaption>Water dissolves ions and polar molecules, but not non-polar triglycerides.</figcaption>
+</figure>
+

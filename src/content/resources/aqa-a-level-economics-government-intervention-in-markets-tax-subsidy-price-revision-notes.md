@@ -68,11 +68,6 @@ These notes condense the AQA AS and A-level Economics specification (version 1.3
   <figcaption>A specific tax shifts supply in parallel; an ad valorem tax makes the new curve steeper.</figcaption>
 </figure>
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/aqa-a-level-economics-government-intervention-in-markets-tax-subsidy-price--03-maximum-rent.webp" width="900" height="920" alt="Rent controlled at 9 against equilibrium 12. Demand is 420 flats and supply 240, a shortage of 180. Tenants would pay 18 for the 240th flat and the lost surplus is 540." loading="lazy">
-  <figcaption>Worked example 3: a rent ceiling of 9 creates a shortage of 180 flats and a 540 welfare loss.</figcaption>
-</figure>
-
 
 ## Methods in steps
 
@@ -91,6 +86,12 @@ These notes condense the AQA AS and A-level Economics specification (version 1.3
 2. Check the control binds (maximum below it, minimum above it).
 3. Read Qd and Qs at the controlled price. The shorter side is what trades.
 4. Shortage or surplus = the gap between Qd and Qs.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-economics-government-microeconomic-intervention--05-tool-matching.webp" width="900" height="900" alt="A matching diagram joining four problems to six tools. Public good not provided: direct provision. Merit good under-consumed: direct provision, subsidy, information. Demerit good over-consumed: information, indirect tax, minimum price. Price too high or too low: maximum or minimum price, buffer stock." loading="lazy">
+  <figcaption>Match the tool to the problem: the mechanism, not just the name, earns marks.</figcaption>
+</figure>
+
 
 ## Worked reminders
 
@@ -113,6 +114,26 @@ Inelastic demand raises more revenue and cuts output less. It suits a revenue ai
   <figcaption>Worked example 1: buyers bear 400 and sellers 200 of a 600 tax, with a 60 welfare loss.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-government-intervention-in-markets-tax-subsidy-price--03-maximum-rent.webp" width="900" height="920" alt="Rent controlled at 9 against equilibrium 12. Demand is 420 flats and supply 240, a shortage of 180. Tenants would pay 18 for the 240th flat and the lost surplus is 540." loading="lazy">
+  <figcaption>Worked example 3: a rent ceiling of 9 creates a shortage of 180 flats and a 540 welfare loss.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-government-intervention-in-markets-tax-subsidy-price--04-pollution-permits.webp" width="900" height="1140" alt="Three factories with a cap of 210. Without trading total cutting cost is 1,410; with trading X cuts 60 and Y cuts 30 for 900, and Z buys 30 permits at 14. The saving is 510." loading="lazy">
+  <figcaption>Worked example 7: tradable permits meet the same cap for 510 less.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-government-intervention-in-markets-tax-subsidy-price--01-min-price-sugary-drink.webp" width="900" height="1160" alt="Demand and supply for a sugary drink cross at price 16 and quantity 260. A minimum price of 20 leaves 220 demanded and 340 supplied, a surplus of 120. Spending rises from 4,160 to 4,400 because demand is inelastic." loading="lazy">
+  <figcaption>Worked example 4: a minimum price of 20 creates a surplus of 120 and raises spending from 4,160 to 4,400.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-government-intervention-in-markets-tax-subsidy-price--03-programmes-benefit-cost.webp" width="900" height="900" alt="Programme A costs 12m for benefits of 15m; B costs 8m for 11m. Net benefit is 3m for both, but the benefit-cost ratio is 1.25 for A and 1.375 for B." loading="lazy">
+  <figcaption>Worked example 5: net benefit ties at 3m, but B returns more per 1m spent.</figcaption>
+</figure>
+
 
 ## Chains of reasoning
 
@@ -120,11 +141,6 @@ Inelastic demand raises more revenue and cuts output less. It suits a revenue ai
 - **Subsidy.** Subsidy cuts costs, so supply shifts down, so price falls and output rises, towards the social optimum if there is an external benefit. It costs taxpayers and is only worthwhile if the benefit outweighs the cost.
 - **Maximum price.** The ceiling holds price below equilibrium, so quantity demanded rises and quantity supplied falls. The shortage leads to rationing, queues or black markets, and supply may shrink further over time.
 - **Minimum price.** The floor holds price above equilibrium, so quantity demanded falls and quantity supplied rises. The surplus must be bought, stored or left unsold.
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/aqa-a-level-economics-government-intervention-in-markets-tax-subsidy-price--01-min-price-sugary-drink.webp" width="900" height="1160" alt="Demand and supply for a sugary drink cross at price 16 and quantity 260. A minimum price of 20 leaves 220 demanded and 340 supplied, a surplus of 120. Spending rises from 4,160 to 4,400 because demand is inelastic." loading="lazy">
-  <figcaption>Worked example 4: a minimum price of 20 creates a surplus of 120 and raises spending from 4,160 to 4,400.</figcaption>
-</figure>
 
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/aqa-a-level-economics-government-intervention-in-markets-tax-subsidy-price--02-subsidy-evening-classes.webp" width="900" height="1130" alt="Supply shifts down by 3. Equilibrium moves from 300 to 350 classes; learners pay 6 and providers receive 9. The subsidy costs 3 x 350 = 1,050, and with an external benefit of 3 the gain over 300 to 350 is 75." loading="lazy">
@@ -180,8 +196,8 @@ For or against intervention in a particular market, weigh these:
 10. Landlords earn a capped return, so they spend less on upkeep and may leave the market.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/aqa-a-level-economics-government-intervention-in-markets-tax-subsidy-price--04-pollution-permits.webp" width="900" height="1140" alt="Three factories with a cap of 210. Without trading total cutting cost is 1,410; with trading X cuts 60 and Y cuts 30 for 900, and Z buys 30 permits at 14. The saving is 510." loading="lazy">
-  <figcaption>Worked example 7: tradable permits meet the same cap for 510 less.</figcaption>
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-government-intervention-in-markets-tax-subsidy-price--05-lake-property-rights.webp" width="900" height="930" alt="Average catch is 30 minus n, marginal catch 30 minus 2n, cost 10. Open access gives 20 boats and net gain 0; one owner uses 10 boats for the same catch of 200 and net gain 100." loading="lazy">
+  <figcaption>Worked example 6: an owner takes the same catch with half the boats.</figcaption>
 </figure>
 
 

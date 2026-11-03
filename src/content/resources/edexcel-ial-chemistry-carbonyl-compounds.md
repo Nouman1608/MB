@@ -189,6 +189,12 @@ Show the dipoles, the lone pair on carbon and the negative charge in your drawin
 
 The carbonyl carbon is trigonal planar: it and its three neighbours sit flat. Cyanide can attack from above or below that plane with **equal probability**. When the new chiral carbon carries four different groups, top and bottom attack each make one enantiomer, so they form 50 : 50: a **racemic mixture**, which does not rotate plane-polarised light. So an optically inactive product supports this mechanism.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-aldehydes-and-ketones--06-racemic-product.webp" width="900" height="1290" alt="Ethanal lies in a flat plane and cyanide can attack from above or below with equal probability. The two attacks give two mirror-image products, shown with wedge and dash bonds. Propanone, with two identical CH3 groups, gives no chiral centre." loading="lazy">
+  <figcaption>Equal attack from both faces of the planar C=O gives equal amounts of two enantiomers, a racemic mixture.</figcaption>
+</figure>
+
+
 ### Worked example 5: is the product chiral?
 
 (a) Butanone + HCN → CH₃CH₂C(OH)(CN)CH₃. The central carbon has OH, CN, CH₃ and C₂H₅: four different groups, so it is chiral. The product forms as a racemic mixture, so the sample is **not** optically active.
@@ -200,6 +206,11 @@ Both samples are inactive, for different reasons. Say which applies.
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/aqa-a-level-chemistry-aldehydes-and-ketones--05-cyanide-mechanism.webp" width="900" height="1300" alt="The lone pair on the carbon of CN- attacks the carbonyl carbon of ethanal, and the C=O bond moves onto oxygen. The O- then takes H+ from dilute acid to give 2-hydroxypropanenitrile, numbered from the nitrile carbon." loading="lazy">
   <figcaption>CN- attacks with its carbon, then O- is protonated, giving a hydroxynitrile one carbon longer.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-aldehydes-and-ketones--07-kcn-hazard.webp" width="900" height="890" alt="A beaker of KCN solution has dilute acid added by a dropper, producing HCN gas marked with a hazard diamond. The precautions shown are gloves and eye protection, a fume cupboard and adding acid slowly." loading="lazy">
+  <figcaption>Acid turns CN- into toxic, volatile HCN gas, so use protection, a fume cupboard and add acid slowly.</figcaption>
 </figure>
 
 
@@ -265,12 +276,6 @@ The organic by-product is sodium 2-methylpropanoate. From 2.58 g of the ketone (
 ## Next steps
 
 Next, read the condensed [revision notes](/resources/edexcel-ial-chemistry-carbonyl-compounds-revision-notes/) and then try the [practice questions](/resources/edexcel-ial-chemistry-carbonyl-compounds-practice/). Use the [checklist](/checklists/edexcel/a-level/chemistry/) to tick off each outcome, and take a free [diagnostic](/diagnostics/).
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-aldehydes-and-ketones--06-racemic-product.webp" width="900" height="1290" alt="Ethanal lies in a flat plane and cyanide can attack from above or below with equal probability. The two attacks give two mirror-image products, shown with wedge and dash bonds. Propanone, with two identical CH3 groups, gives no chiral centre." loading="lazy">
-  <figcaption>Equal attack from both faces of the planar C=O gives equal amounts of two enantiomers, a racemic mixture.</figcaption>
-</figure>
-
 
 ## Official syllabus
 

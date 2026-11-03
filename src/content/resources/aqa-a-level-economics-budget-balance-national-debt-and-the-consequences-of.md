@@ -144,6 +144,11 @@ A surplus withdraws demand from the circular flow, so AD is lower than it would 
   <figcaption>A surplus eases inflation in a boom but deepens a slowdown in a slump.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-aggregate-demand-supply--01-circular-flow.webp" width="900" height="1040" alt="Households and firms are linked by income and spending flows; saving, taxes and imports leak out and investment, government spending and exports flow back in. Two bar pairs show that equal injections and withdrawals keep income steady while higher injections raise it." loading="lazy">
+  <figcaption>Withdrawals (S, T, M) leave and injections (I, G, X) enter the circular flow; national income is in equilibrium when they are equal.</figcaption>
+</figure>
+
 
 ## 5. The size of the national debt
 

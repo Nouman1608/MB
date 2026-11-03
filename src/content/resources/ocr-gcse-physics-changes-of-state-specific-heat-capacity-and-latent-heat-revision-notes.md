@@ -97,12 +97,6 @@ These notes condense topic P1.2 (Changes of state, statements P1.2a to P1.2f) of
 - **Specific latent heat of fusion:** solid and liquid (melting, freezing).
 - **Specific latent heat of vaporisation:** liquid and gas (boiling, condensing).
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ocr-gcse-physics-changes-of-state-specific-heat-capacity-and-latent-heat--07-latent-heat-examples.webp" width="900" height="1000" alt="Boiling 0.35 kg: 791 000 J in. Condensing 0.050 kg: 113 000 J out. Melting 0.60 kg with 138 000 J gives L of fusion 230 000 J/kg." loading="lazy">
-  <figcaption>E = m L has no temperature change in it.</figcaption>
-</figure>
-
-
 ## Equations
 
 | Equation | Symbols and units | Use when |
@@ -228,6 +222,12 @@ Size check: water has c = 4200 J/kg °C, so 1 kg warmed by 1 °C needs 4200 J. C
 8. **Physical**, because the original properties are recovered when the change is reversed.
 9. 0.250 kg. E = 0.250 × 385 × 40 = **3850 J**.
 10. Steam condenses on the skin and releases its latent heat (energy per kilogram of vaporisation) before it cools further, so more energy is transferred to the skin.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-changes-of-state-specific-heat-capacity-and-latent-heat--07-latent-heat-examples.webp" width="900" height="1000" alt="Boiling 0.35 kg: 791 000 J in. Condensing 0.050 kg: 113 000 J out. Melting 0.60 kg with 138 000 J gives L of fusion 230 000 J/kg." loading="lazy">
+  <figcaption>E = m L has no temperature change in it.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

@@ -40,6 +40,12 @@ Test yourself with the [practice questions](/resources/ocr-a-level-economics-fin
 | Collateral (security) | Asset a lender can seize if the loan is not repaid |
 | Real economy | Output, jobs and incomes, as opposed to financial assets |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-economics-microeconomic-decision-makers--02-central-and-commercial-banks.webp" width="900" height="1090" alt="A central bank sets the base interest rate for commercial banks. Households and firms deposit money with commercial banks and receive loans from them." loading="lazy">
+  <figcaption>The central bank sets the base rate; commercial banks take deposits and make loans.</figcaption>
+</figure>
+
+
 ## Institutions and their macro effects
 
 | Institution | Main macro channel | Main risk |
@@ -106,11 +112,6 @@ Method for interest on an inter-bank loan: amount × annual rate × days ÷ 365.
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/ocr-a-level-economics-financial-institutions-markets-and-borrowing--04-interbank-lending-contagion.webp" width="900" height="960" alt="Bank X lends 30m cu overnight to Bank Y at 3.2% a year; one night of interest is 2,630.14 cu. If banks doubt Bank Y and it fails, losses spread to connected banks X and Z and lending dries up." loading="lazy">
   <figcaption>Inter-bank lending moves liquidity, but lost trust lets one failure spread.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/cambridge-igcse-economics-microeconomic-decision-makers--02-central-and-commercial-banks.webp" width="900" height="1090" alt="A central bank sets the base interest rate for commercial banks. Households and firms deposit money with commercial banks and receive loans from them." loading="lazy">
-  <figcaption>The central bank sets the base rate; commercial banks take deposits and make loans.</figcaption>
 </figure>
 
 

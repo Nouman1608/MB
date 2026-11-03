@@ -103,6 +103,17 @@ Normal:   y − p³ = −(2/(3p))(x − p²)
 
 Check: put (p², p³) into the tangent. Left side 2p³, right side 3p³ − p³ = 2p³. 
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-maths-9709-pure-mathematics-1-differentiation--01-chord-to-tangent.webp" width="900" height="880" alt="Graph of y = 2x squared. Point P is at x = 3, y = 18. Three chords from P to points a distance h to the right (h = 1, 0.5, 0.25) get closer to the gold tangent line as h shrinks. The chord gradient is 12 + 2h: 14, 13, 12.2 and 12.02 for h = 1, 0.5, 0.1 and 0.01. As h tends to 0 the gradient tends to 12, the gradient of the curve at x = 3, which agrees with dy/dx = 4x." loading="lazy">
+  <figcaption>How chord gradients 12 + 2h approach the tangent gradient 12 at x = 3 on y = 2x².</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-maths-9709-pure-mathematics-1-differentiation--07-exp-and-ln-slopes.webp" width="900" height="1200" alt="Top: the graph of y = e to the x with gold tangents at x = 0, 1 and 2. The slope at each point equals its height: 1, e and e squared, so the derivative of e to the x is e to the x. Bottom: the graph of y = ln x with tangents at x = 1, 2 and 4 having slopes 1, one half and one quarter, so the derivative of ln x is 1 over x." loading="lazy">
+  <figcaption>The slope of eˣ equals its height and the slope of ln x at x is 1/x.</figcaption>
+</figure>
+
+
 ## Worked reminders by type
 
 **Implicit with a function of y.** The curve ln y + xy = 2 passes through (2, 1). Differentiate: (1/y) dy/dx + y + x dy/dx = 0. Then dy/dx = −y²/(1 + xy), which is −1/3 at (2, 1).

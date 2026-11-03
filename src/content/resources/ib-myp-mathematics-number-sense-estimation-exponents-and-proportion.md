@@ -93,6 +93,17 @@ A difference of squares removes the surd: (2 + √3)(2 - √3) = 4 - 3 = **1**.
 6/√3 = 6√3/3 = **2√3**.
 5/(3 - √2) = 5(3 + √2) / ((3 - √2)(3 + √2)) = 5(3 + √2)/7 = **(15 + 5√2)/7**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-exponential-growth-decay-and-surds--04-surd-diagonal.webp" width="900" height="940" alt="A square of side 4 cm has a diagonal of root 32, since 16 + 16 = 32. Taking out the square factor gives 4 root 2, which lands near 5.657 on the number line." loading="lazy">
+  <figcaption>The exact length 4√2 cm is a surd; 5.657 is only a rounded value.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-exponential-growth-decay-and-surds--05-conjugate-area.webp" width="900" height="769" alt="A square of side 3 with a square of area 5 cut out leaves area 4. Rearranged, it makes a rectangle 3 + root 5 by 3 minus root 5. So the conjugate product is 9 minus 5 = 4, a whole number." loading="lazy">
+  <figcaption>Multiplying by the conjugate gives a difference of two squares, so the surd disappears.</figcaption>
+</figure>
+
+
 ## Laws of exponents and standard form
 
 | Law | Example |
@@ -111,6 +122,27 @@ Algebraic form: (3a²b⁻¹)² / (a³b) = 9a⁴b⁻² / (a³b) = **9a/b³**.
 **Example 6.** 0.000047 = **4.7 × 10⁻⁵**.
 Multiply: (3.2 × 10⁵)(2.5 × 10⁻²) = 8 × 10³ (multiply the numbers, add the powers).
 Add: 6 × 10⁴ + 7.5 × 10³ = 60 000 + 7500 = 67 500 = **6.75 × 10⁴**. Convert to the same power first.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-powers-roots-and-indices--04-index-rules-tiles.webp" width="900" height="976" alt="Tiles show 2^3 x 2^4 as 7 factors (2^7 = 128), (3^2)^4 as 4 groups of 2 factors (3^8), and 2^4 / 2^7 with 4 pairs cancelling leaving 3 below (2^-3 = 1/8). The rules need the same base." loading="lazy">
+  <figcaption>Counting factors explains add, multiply and subtract for indices.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-powers-roots-and-indices--03-zero-negative-indices.webp" width="900" height="1032" alt="A staircase lists 5^3 down to 5^-3. Each step lowers the index by 1 and divides by 5, giving 125, 25, 5, 1, 1/5, 1/25, 1/125. So 5^0 = 1 and a negative index gives a small positive reciprocal." loading="lazy">
+  <figcaption>Each step down divides by 5, so 5^0 = 1 and 5^-n is 1 over 5^n.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-number--03-standard-form.webp" width="900" height="880" alt="Digit boxes show the decimal point of 4 560 000 jumping 6 places left to give 4.56 x 10^6, and of 0.00032 jumping 4 places right to give 3.2 x 10^-4. A must lie between 1 and 10." loading="lazy">
+  <figcaption>Move the decimal point until the number is between 1 and 10; the count of moves is the power of 10.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-maths-8300-structure-and-calculation--03-standard-form-multiply.webp" width="900" height="1010" alt="The numbers are multiplied (3.2 x 5 = 16) and the powers of 10 are added (4 + -7 = -3), giving 16 x 10^-3. Since 16 is not between 1 and 10 it becomes 1.6 and the power rises by one to -2: 1.6 x 10^-2." loading="lazy">
+  <figcaption>Multiply the numbers, add the powers, then adjust so the front number is between 1 and 10.</figcaption>
+</figure>
+
 
 ## Extended: fractional exponents and logarithms
 
@@ -134,6 +166,11 @@ To solve 2ˣ = 50, take logs: x = log 50 / log 2 = **5.64** (3 s.f.), found with
   <figcaption>Adding logs multiplies the numbers; subtracting divides them; a number in front acts as a power.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-powers-roots-and-indices--05-fractional-indices.webp" width="900" height="1000" alt="A cube of 125 blocks has side 5, so 125^(1/3) = 5. Two flow chains show 125^(-2/3): root 3, square, flip gives 1/25, and 32^(3/5): root 5, cube gives 8." loading="lazy">
+  <figcaption>The denominator is the root, the numerator is the power, and a minus sign flips.</figcaption>
+</figure>
+
 
 ## Number lines, inequalities and sequences
 
@@ -146,6 +183,22 @@ Open circle: the end value is not included (< or >). Closed circle: included (�
 
 **Number sequences (describe, predict).** For 5, 8, 13, 20, 29, the gaps are 3, 5, 7, 9, which grow by 2 each time. Continue the gaps (11, 13): next terms **40** and **53**. Describe it in words: "the gap increases by 2 each time".
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/inequalities--01-open-closed-number-line.webp" width="900" height="1110" alt="Four number lines from minus 4 to 4: x &lt; 1 (open circle at 1, shaded left), x at most 1 (closed circle), x &gt; minus 2 (open circle at minus 2, shaded right) and minus 3 at most x &lt; 1 (closed circle at minus 3, open at 1, shaded between). Closed means included, open means excluded." loading="lazy">
+  <figcaption>Closed circles include the value (⩽ ⩾); open circles exclude it (&lt; &gt;).</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-algebra-and-graphs--03-inequality-number-line.webp" width="900" height="860" alt="Solving minus 5 less than 2x plus 3, at most 11, gives minus 4 less than x, at most 4. An open circle at minus 4 and a closed circle at 4 are joined by a line. The whole-number solutions are minus 3 to 4." loading="lazy">
+  <figcaption>Open circles exclude an end value, closed circles include it.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/sequences-and-proportion--02-differences-type.webp" width="900" height="1202" alt="Four sequences with their difference rows. Linear 3, 7, 11, 15 has constant first differences of 4. Quadratic 1, 4, 9, 16 has constant second differences of 2. Cubic 1, 8, 27, 64 has constant third differences of 6. Exponential 3, 6, 12, 24 has a constant ratio of 2." loading="lazy">
+  <figcaption>Keep taking differences until a row is constant; that row tells you the type.</figcaption>
+</figure>
+
+
 ## Estimation, rounding and measurement
 
 Round each number to 1 significant figure, then calculate.
@@ -156,6 +209,22 @@ Decimal places count digits after the point. Significant figures are counted fro
 Units: convert in steps and keep the unit on every line. 3.6 km/h = 3600 m ÷ 3600 s = 1 m/s. 0.85 m³ = 850 litres. 2.5 g/cm³ = 2500 kg/m³.
 
 **Time zones.** A flight leaves city A (UTC+5) at 21:15 and lasts 11 h 50 min. Arrival in A-time: 21:15 + 11:50 = 09:05 next day. City B is UTC-3, 8 hours behind: **01:05** next day, local time.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-estimation-and-using-a-calculator--03-estimate-calculation.webp" width="900" height="800" alt="62.4, 0.187 and 3.87 are rounded to 60, 0.2 and 4. The estimate is (60 x 0.2) / 4 = 3. On a number line it lies right next to the calculator value 3.015." loading="lazy">
+  <figcaption>Round every number to 1 s.f., write the rounded calculation, and work it out.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-estimation-and-using-a-calculator--02-significant-figures.webp" width="900" height="900" alt="The digits of 0.07049 are boxed. The leading zeros are greyed because they never count; counting starts at the 7. The digit after the last kept one decides: 0 and 4 leave it (0.07, 0.070) and 9 rounds up (0.0705)." loading="lazy">
+  <figcaption>Count significant figures from the first non-zero digit and keep zeros that show accuracy, as in 0.070.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-units-of-measure-area-and-perimeter--01-unit-ladder.webp" width="900" height="960" alt="A ladder of km, m, cm and mm with x1000, x100 and x10 going down and the same divisions going up, beside kg-g and l-ml pairs. Below, 2.75 km becomes 2750 m then 275 000 cm." loading="lazy">
+  <figcaption>Going to a smaller unit multiplies; going to a larger unit divides.</figcaption>
+</figure>
+
 
 ## Accuracy, errors and bounds
 

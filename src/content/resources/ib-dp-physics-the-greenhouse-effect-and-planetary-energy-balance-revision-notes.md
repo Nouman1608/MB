@@ -167,12 +167,6 @@ Balance at the top: what leaves (escaping surface IR plus upward atmospheric emi
 
 If power in exceeds power out, the net power divides into the heat capacity to give the rate of warming: rate = net power / (mc). Example: a net 0.5 W m⁻² into a 50 m layer of water (5.0 × 10⁴ kg under each square metre, c = 4200 J kg⁻¹ K⁻¹) gives 0.5 / (5.0 × 10⁴ × 4200) = 2.4 × 10⁻⁹ K s⁻¹, which is 0.075 K in a year of 3.15 × 10⁷ s.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ib-dp-physics-the-greenhouse-effect-and-planetary-energy-balance--01-power-balance.webp" width="900" height="1060" alt="Three planets with power-in and power-out arrows show temperature rising, steady (equilibrium) or falling. A 0.8 W per square metre surplus into a 100 m ocean layer warms it by 0.060 K a year." loading="lazy">
-  <figcaption>A temperature changes only when power in and power out differ.</figcaption>
-</figure>
-
-
 ## Quick self-test
 
 1. A plate of area 4.0 m² at 350 K radiates 1.8 kW. Find its emissivity.
@@ -198,6 +192,12 @@ If power in exceeds power out, the net power divides into the heat capacity to g
 8. 2^(1/4) × 200 = **238 K**.
 9. Carbon dioxide (burning fossil fuels), methane (cattle or rice farming), nitrous oxide (fertilisers), water vapour (indirectly, through warming). Any valid human source is accepted in your own words.
 10. Cloud cover changes (daily and with weather), and latitude or surface type (ice and snow reflect more than ocean or forest).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-the-greenhouse-effect-and-planetary-energy-balance--01-power-balance.webp" width="900" height="1060" alt="Three planets with power-in and power-out arrows show temperature rising, steady (equilibrium) or falling. A 0.8 W per square metre surplus into a 100 m ocean layer warms it by 0.060 K a year." loading="lazy">
+  <figcaption>A temperature changes only when power in and power out differ.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

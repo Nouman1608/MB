@@ -117,12 +117,6 @@ Practising this exact classify-then-correct sequence, rather than
 jumping straight to a correcting entry, is the more reliable route to
 full marks on 1.4.2 scenario questions.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/accounting-reconciliation-verification-revision-notes--02-rv-principle-error.webp" width="900" height="790" alt="A 600 dollar stationery invoice is debited to Office Equipment, a non-current asset, so the trial balance still agrees. The correcting journal debits Stationery Expense and credits Office Equipment for 600. No suspense account is needed." loading="lazy">
-  <figcaption>An error of principle posts to the wrong class of account and leaves the trial balance balanced.</figcaption>
-</figure>
-
-
 ## Exam traps
 
 - Confusing an error of **principle** (wrong account class) with an
@@ -137,6 +131,12 @@ skipping it caps the achievable mark.
 - Treating unpresented cheques/outstanding lodgements as recording
 errors rather than timing differences the reconciliation statement
 simply explains.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/accounting-reconciliation-verification-revision-notes--02-rv-principle-error.webp" width="900" height="790" alt="A 600 dollar stationery invoice is debited to Office Equipment, a non-current asset, so the trial balance still agrees. The correcting journal debits Stationery Expense and credits Office Equipment for 600. No suspense account is needed." loading="lazy">
+  <figcaption>An error of principle posts to the wrong class of account and leaves the trial balance balanced.</figcaption>
+</figure>
+
 
 ## Why this topic follows Non-Current Assets in the syllabus
 
@@ -174,12 +174,6 @@ know about, while the statement is adjusted for timing differences
 the bank doesn't yet reflect. Confirming both routes land on an
 identical number is exactly what "reconcile" means in this context.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/accounting-reconciliation-verification-revision-notes--03-rv-bank-rec-routes.webp" width="900" height="720" alt="The cash book balance of 1,850 less bank charges of 150 gives 1,700. The bank statement balance of 2,100 less an unpresented cheque of 400 also gives 1,700, so the two routes agree." loading="lazy">
-  <figcaption>Updating the cash book and adjusting the statement for timing differences reach the same figure.</figcaption>
-</figure>
-
-
 ## Self-test
 
 1. What is the shared underlying logic across all three procedures
@@ -205,3 +199,9 @@ individual transaction was correctly recorded. 5. Because the
 syllabus explicitly requires a benefits-and-limitations discussion
 alongside the numerical reconciliation, and Paper 2 questions award
 marks for that evaluative commentary separately from the calculation.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/accounting-reconciliation-verification-revision-notes--03-rv-bank-rec-routes.webp" width="900" height="720" alt="The cash book balance of 1,850 less bank charges of 150 gives 1,700. The bank statement balance of 2,100 less an unpresented cheque of 400 also gives 1,700, so the two routes agree." loading="lazy">
+  <figcaption>Updating the cash book and adjusting the statement for timing differences reach the same figure.</figcaption>
+</figure>
+

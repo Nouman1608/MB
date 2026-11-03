@@ -104,6 +104,11 @@ Electrons accelerated through a p.d. V gain energy `eV = ½mv²`, giving `λ = h
 Because h is tiny, everyday objects have wavelengths far too small to observe — a macroscopic object's de Broglie wavelength is many orders of magnitude smaller than any aperture it could pass through, so no diffraction is ever seen. An electron at a few hundred eV has a wavelength comparable to atomic spacing, which is why it diffracts from a crystal lattice.
 
 <figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-quantum-physics--01-aphy-quantum-alpha-scattering.webp" width="900" height="1160" alt="Twelve alpha-particle tracks computed from inverse-square repulsion by one small positive nucleus. Distant tracks barely bend, closer ones turn through large angles and the closest is turned back. This shows the atom is mostly empty space with a small, massive, positively charged nucleus." loading="lazy">
+  <figcaption>Alpha tracks bend or rebound because of a tiny, massive, positive nucleus.</figcaption>
+</figure>
+
+<figure class="topic-figure">
   <img src="https://img.marlbridge.com/a-physics-quantum-physics--09-aphy-quantum-de-broglie.webp" width="900" height="1190" alt="Electrons accelerated through a potential difference pass through graphite and form rings on a screen. Doubling V from 2.5 kV to 5 kV shortens lambda from 24.6 pm to 17.4 pm and shrinks the rings by 0.71. A log scale shows a 0.057 kg ball at 40 m/s with lambda about 3e-34 m, far smaller than an electron at 3.5 kV (2e-11 m)." loading="lazy">
   <figcaption>Faster electrons have a shorter wavelength, and only atom-sized wavelengths diffract noticeably.</figcaption>
 </figure>
@@ -124,12 +129,6 @@ h f = E_1 - E_2
 
 Line spectra are **discrete** precisely because energy levels are discrete — this is the direct experimental evidence for quantisation, and each element's pattern is unique, which is how stellar composition is determined from the absorption lines in starlight.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-physics-quantum-physics--08-aphy-quantum-energy-levels.webp" width="900" height="1230" alt="Hydrogen energy levels at -13.6, -3.40, -1.51 and -0.85 eV. Falls from n=3 and n=4 to n=2 give 658 nm red and 488 nm blue photons and n=2 to 1 gives 122 nm ultraviolet. A continuous spectrum is shown beside the hydrogen line spectrum with lines at the computed wavelengths." loading="lazy">
-  <figcaption>Each spectral line is one photon whose energy equals a gap between two levels.</figcaption>
-</figure>
-
-
 ## Exam traps
 
 - Saying more intense light gives faster photoelectrons. It gives *more* of them.
@@ -149,3 +148,9 @@ Line spectra are **discrete** precisely because energy levels are discrete — t
 6. A metal has a work function of 2.0 eV. Light of frequency 8.0 × 10¹⁴ Hz shines on it. Find KE_max in eV.
 
 **Answers:** 1. hf = Φ + KE_max; Φ is the minimum energy required to remove an electron from the metal surface. 2. Red photons individually carry less energy than Φ; intensity only increases the *number* of photons, and energy is not accumulated because one photon interacts with one electron. 3. The one-to-one interaction — a single photon transfers all its energy to a single electron, so if hf < Φ no emission occurs at any intensity. 4. λ = h/p; electron diffraction rings from a thin graphite film. 5. Because electron energy levels are discrete, so only photons of energy exactly equal to a difference between two levels can be emitted or absorbed. 6. E = hf = 6.63×10⁻³⁴ × 8.0×10¹⁴ = 5.30×10⁻¹⁹ J ≈ 3.31 eV; KE_max = 3.31 − 2.0 = 1.31 eV.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-quantum-physics--08-aphy-quantum-energy-levels.webp" width="900" height="1230" alt="Hydrogen energy levels at -13.6, -3.40, -1.51 and -0.85 eV. Falls from n=3 and n=4 to n=2 give 658 nm red and 488 nm blue photons and n=2 to 1 gives 122 nm ultraviolet. A continuous spectrum is shown beside the hydrogen line spectrum with lines at the computed wavelengths." loading="lazy">
+  <figcaption>Each spectral line is one photon whose energy equals a gap between two levels.</figcaption>
+</figure>
+

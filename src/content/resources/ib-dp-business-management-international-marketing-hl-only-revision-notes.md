@@ -196,12 +196,6 @@ For "evaluate", "discuss", "justify" or "recommend" on an international move, ch
 - A criterion, such as profit, risk, brand image or cash.
 - A judgment that says what the decision depends on.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ib-dp-business-management-international-marketing-hl-only--10-evaluate-international-steps.webp" width="900" height="996" alt="Four steps: pick factors from the case, weigh each as opportunity or threat, compare short run and long run, then reach a judgment that says what it depends on." loading="lazy">
-  <figcaption>Build an evaluate answer in four moves ending in a conditional judgment.</figcaption>
-</figure>
-
-
 ## Quick self-test
 
 1. State whether 4.6 is examined at SL, and give the depth label the guide gives it.
@@ -231,6 +225,12 @@ For "evaluate", "discuss", "justify" or "recommend" on an international move, ch
 10. It makes exports cheaper abroad and raises foreign revenue when converted back, but raises the cost of imported inputs.
 11. (5.40 - 4.50) / 4.50 x 100 = 20%.
 12. Paper 2 and paper 3 include HL extension topics; paper 1 excludes them.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-international-marketing-hl-only--10-evaluate-international-steps.webp" width="900" height="996" alt="Four steps: pick factors from the case, weigh each as opportunity or threat, compare short run and long run, then reach a judgment that says what it depends on." loading="lazy">
+  <figcaption>Build an evaluate answer in four moves ending in a conditional judgment.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

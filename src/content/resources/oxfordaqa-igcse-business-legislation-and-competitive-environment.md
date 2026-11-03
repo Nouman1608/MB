@@ -50,12 +50,6 @@ The specification does not name particular Acts or regulators. Keep your answers
 
 Legislation is a legal requirement. That separates it from ethics (section 3.2.2), which covers choices a business makes that go further than the law demands.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-oxfordaqa-business-influences-on-business--07-law-or-ethics.webp" width="900" height="860" alt="Three bands: ethics (a choice: charitable giving, fair prices to suppliers, religious observance) above a line marking the legal minimum; law (a requirement: safe workplace, national minimum wage, consumer protection); and breaking the law, which brings consequences of non-compliance." loading="lazy">
-  <figcaption>Law is what a business must do; ethics is what it chooses to do beyond that.</figcaption>
-</figure>
-
-
 ### Assessing the impact: a four-part checklist
 
 The specification lists four effects to assess. Use them as a checklist, then add the context of the business in the question.
@@ -64,6 +58,12 @@ The specification lists four effects to assess. Use them as a checklist, then ad
 2. **Training needs.** Managers and staff must learn what the law requires and how to apply it.
 3. **Recruitment.** Rules on pay, contracts and safety shape what a business can offer applicants and how it hires.
 4. **Consequences of failure.** Fines, legal costs, compensation, forced changes, lost reputation and lost sales.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-business-influences-on-business--07-law-or-ethics.webp" width="900" height="860" alt="Three bands: ethics (a choice: charitable giving, fair prices to suppliers, religious observance) above a line marking the legal minimum; law (a requirement: safe workplace, national minimum wage, consumer protection); and breaking the law, which brings consequences of non-compliance." loading="lazy">
+  <figcaption>Law is what a business must do; ethics is what it chooses to do beyond that.</figcaption>
+</figure>
+
 
 ### Worked example: a national minimum wage rise
 

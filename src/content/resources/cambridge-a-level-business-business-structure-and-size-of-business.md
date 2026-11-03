@@ -85,6 +85,11 @@ Typical consequences are structural unemployment where old industries close, a n
   <figcaption>Franchising grows a brand using the franchisee’s capital, but liability follows the franchisee’s own legal form.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-0264-business-activity-and-economic-sectors--02-sector-and-ownership.webp" width="900" height="730" alt="A grid of primary, secondary and tertiary rows against private and public columns. An iron-ore mine is primary and private, a bakery with its own shop is secondary and tertiary and private, a phone retailer is tertiary and private, a state hospital is tertiary and public." loading="lazy">
+  <figcaption>Sector (type of work) and ownership are two separate classifications.</figcaption>
+</figure>
+
 
 ## 1.2.2 Business ownership
 
@@ -163,6 +168,17 @@ The syllabus asks how appropriate each method is, not for one correct method. Co
 
 By employees, Salthouse is larger. By revenue and capital employed, Wetherly is far larger. Revenue per employee is about £46,200 for Salthouse and £1.2m for Wetherly, so the bottler is capital-intensive. Market share depends on each firm's own market, so comparing 15% with 10% across different markets says little. The right measure depends on the question: employment effects point to employees; financial strength to revenue or capital employed; competitive power to market share.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/enterprise-business-growth-and-size--02-measuring-size.webp" width="900" height="960" alt="Four ways to measure business size: number of people employed, value of output, capital employed and market share, each shown with a simple icon. Profit is crossed out because it is not a measure of size." loading="lazy">
+  <figcaption>Size can be measured by employees, output, capital employed or market share, but not by profit.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/enterprise-business-growth-and-size--03-measure-limitations.webp" width="900" height="940" alt="Example with invented numbers: an automated factory has 20 employees but output of $60m, while a call centre has 200 employees but output of $8m. The factory is small by employees but large by output; the call centre is the reverse, so more than one measure should be used." loading="lazy">
+  <figcaption>Each measure of size has a limitation, so different measures can give different answers.</figcaption>
+</figure>
+
+
 ## 1.3.2 Significance of small businesses
 
 **Advantages of being small:** closer contact with customers, quick decisions, flexibility, lower overheads and personal service. **Disadvantages:** limited finance, few economies of scale, owner overload, and vulnerability to larger competitors and to the loss of one customer or key person.
@@ -235,6 +251,16 @@ Bigger share and lower costs are gains, but six years is a long wait and assumes
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/cambridge-a-level-business-business-structure-and-size-of-business--09-deal-success-or-failure.webp" width="900" height="890" alt="Success: cost savings, market share, skills, fit. Failure: overpaying, culture clash, staff loss, poor communication, diseconomies of scale. Why a merger or takeover may succeed or fail." loading="lazy">
   <figcaption>Factors that make a deal succeed or fail.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/enterprise-business-growth-and-size--04-internal-external-growth.webp" width="900" height="940" alt="Internal (organic) growth means one firm builds on its own operations, for example new branches, products or markets. External growth means combining with another business through a merger or takeover to form one bigger firm." loading="lazy">
+  <figcaption>Internal growth builds on existing operations; external growth combines two businesses.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-business-business-in-the-real-world--06-integration-types.webp" width="900" height="740" alt="A firm in the centre with four targets. Backward integration takes over a supplier, forward integration a retailer, horizontal integration a rival at the same stage, and conglomerate growth a business in an unrelated industry." loading="lazy">
+  <figcaption>External growth is classified by where the target sits relative to the firm.</figcaption>
 </figure>
 
 

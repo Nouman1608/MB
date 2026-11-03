@@ -40,6 +40,11 @@ Related pages: [revision notes](/resources/oxfordaqa-a-level-mathematics-forces-
 The specification lists these formulae as ones you must learn, because they are not in the formulae booklet: W = mg, momentum = mv, F = ma (or force = rate of change of momentum), and F = μR for dynamic friction.
 
 <figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-maths-9709-mechanics--02-amth-forces-two-strings.webp" width="900" height="960" alt="A 5 kg particle hangs on two strings at 30 and 45 degrees to the horizontal. Solving the horizontal and vertical balances gives T1 = 35.9 N and T2 = 43.9 N. Drawn head to tail, W, T1 and T2 form a closed triangle, so the resultant is zero." loading="lazy">
+  <figcaption>In equilibrium the forces sum to zero in every direction, so they close into a triangle.</figcaption>
+</figure>
+
+<figure class="topic-figure">
   <img src="https://img.marlbridge.com/a-level-maths-9709-mechanics--09-amth-forces-conical.webp" width="900" height="940" alt="A 0.4 kg bob on a 1.2 m string moves in a horizontal circle at 5 rad per second. T = mLω² = 12 N, cos θ = g/(Lω²) = 0.327 so θ = 70.9 degrees, r = 1.13 m, v = 5.67 m per second. Tension plus weight give a horizontal resultant 11.3 N to the centre; from above, v is tangent and a = 28.3 m per second squared points to the centre." loading="lazy">
   <figcaption>The resultant of tension and weight points to the centre of the circle and equals mrω².</figcaption>
 </figure>

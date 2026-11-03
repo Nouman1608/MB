@@ -141,6 +141,11 @@ Three linked ideas sit between firms' growth (3.5) and firms' costs and revenue 
   <figcaption>Lower wages favour labour-intensive methods; higher wages favour capital-intensive ones.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-economics-microeconomic-decision-makers--06-production-and-productivity.webp" width="900" height="1230" alt="Four workers make 40 units (10 each). Eight workers make 80 units: production doubles but productivity stays at 10. Eight workers using better methods make 120 units: productivity rises to 15 per worker." loading="lazy">
+  <figcaption>Hiring more workers raises production, but productivity only rises if output per worker rises.</figcaption>
+</figure>
+
 
 ## Firms' costs and revenue — the calculation-heavy table
 
@@ -159,17 +164,35 @@ Three linked ideas sit between firms' growth (3.5) and firms' costs and revenue 
 higher-level course. Practise moving between raw figures and these labels fluently; this is
 calculation-heavy content that can be tested on Paper 1.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-economics-microeconomic-decision-makers--06-costs-revenue-one-row.webp" width="900" height="820" alt="Illustrative example: 50 units sold at 12. FC 200 plus VC 300 gives TC 500; price times quantity gives TR 600. Dividing by 50 gives AFC 4, AVC 6, ATC 10 (AFC plus AVC) and AR 12." loading="lazy">
+  <figcaption>All eight cost and revenue terms from the lesson table calculated from one row of data.</figcaption>
+</figure>
+
+
 ## Mergers — three types, know which is which
 
 - **Horizontal**: same stage, same industry.
 - **Vertical**: different stage, same industry.
 - **Conglomerate**: unrelated industries.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-economics-firms-classification-small-firms-growth-mergers-and--06-merger-types.webp" width="900" height="1040" alt="Horizontal: two bus firms in the same industry and stage join. Vertical: along a chain of timber yard, furniture maker and showrooms, backward towards suppliers or forward towards sellers. Conglomerate: a shipping group and a hotel group in different industries join." loading="lazy">
+  <figcaption>Horizontal firms are at the same stage; vertical firms are at different stages; conglomerate firms are in different industries.</figcaption>
+</figure>
+
+
 ## Market structure — stick to named characteristics only
 
 Competitive markets (many firms) vs monopoly (single firm dominates) — the syllabus explicitly does
 **not** require full perfect/imperfect competition theory or its diagrams. Keep answers to named
 characteristics and effects.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-economics-microeconomic-decision-makers--07-competition-and-monopoly.webp" width="900" height="930" alt="Six small shops stand for many firms and one large factory for a monopoly. Many firms mean lower price, improving quality, wide choice and lower profit. A monopoly means higher price, less pressure on quality, little choice and possibly high profit, with possible economies of scale and research funding." loading="lazy">
+  <figcaption>Competition tends to lower price and profit and widen choice; a monopoly can charge more and earn high profits.</figcaption>
+</figure>
+
 
 ## Firm objectives and mergers — not mutually exclusive
 
@@ -217,6 +240,16 @@ rather than just naming the general concept of "economies of scale."
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/economics-microeconomic-decision-makers-revision-notes--02-diseconomies-internal-external.webp" width="900" height="1100" alt="Two panels. Internal diseconomies: one firm that has grown too large, drawn as seven staff points joined by 21 tangled links, with messages getting lost and hard coordination; the cause is inside the firm. External diseconomies: a whole industry crowded into one area with three factories and a traffic jam, causing local congestion and local wages rising; the cause is in the area. Both raise average cost per unit." loading="lazy">
   <figcaption>Internal diseconomies come from the firm being too large; external ones from the industry crowding one area.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-economics-classification-growth-and-size-of-firms--13-average-cost-economies-diseconomies.webp" width="900" height="830" alt="Average cost against output from the lesson table: 50, 40, 35, 35, 38, 42 at 1,000 to 6,000 units. Cost falls to 35 (economies of scale), is lowest between 3,000 and 4,000 units, then rises (diseconomies), by 10.5% between 5,000 and 6,000." loading="lazy">
+  <figcaption>Average cost falls to 35 and then rises, showing economies then diseconomies of scale.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-economics-production-and-business-costs--07-internal-external-economies.webp" width="900" height="1000" alt="Two panels. Internal economies come from one firm growing, for example bulk buying; the types are purchasing, marketing, technical, financial, managerial and risk-bearing. External economies come from the whole industry being located in one area and help every firm there; the types are skilled labour, infrastructure, suppliers nearby and similar firms nearby." loading="lazy">
+  <figcaption>Internal economies come from the firm's own size; external economies come from where the whole industry is located.</figcaption>
 </figure>
 
 

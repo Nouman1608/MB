@@ -70,6 +70,12 @@ coil linked with this coil; and understand how to use Faraday's law to
 determine the magnitude of an induced e.m.f. and use the equation
 combining Faraday's and Lenz's laws, ε = −N(dφ/dt).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-electric-fields--03-inverse-square-force.webp" width="900" height="880" alt="A graph of F against r for +8.0 nC and +0.60 nC falls as 1/r²: F at 0.10 m, F/4 at 0.20 m, F/9 at 0.30 m. OCR only: the area under the curve from 0.40 m to 0.10 m is the work done, 3.2×10⁻⁷ J." loading="lazy">
+  <figcaption>Doubling the separation divides the force by four.</figcaption>
+</figure>
+
+
 ## Electric fields
 
 An **electric field** is a region where a charged particle experiences a

@@ -44,11 +44,6 @@ These notes condense Pearson Edexcel International Advanced Level Mathematics (Y
 The specification lists kinetic energy = ½mv² and potential energy = mgh as formulae you are expected to know.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/edexcel-ial-mathematics-work-energy-and-power-and-collisions-with-the--01-work-component.webp" width="900" height="740" alt="All boards. Force 40 N at 35° moves a trolley 12 m: components 32.8 N and 22.9 N, work 40×12×cos 35° = 393 J (OxfordAQA example 1)." loading="lazy">
-  <figcaption>Only the component of the force along the motion does work.</figcaption>
-</figure>
-
-<figure class="topic-figure">
   <img src="https://img.marlbridge.com/edexcel-ial-mathematics-work-energy-and-power-and-collisions-with-the--02-sign-of-work.webp" width="900" height="860" alt="All boards (OxfordAQA lesson table). Force at 0°, 90° and 180° to the motion gives work +Fd, 0 and −Fd." loading="lazy">
   <figcaption>Work is positive along the motion, zero at right angles and negative against it.</figcaption>
 </figure>
@@ -196,6 +191,17 @@ Both now move towards the wall, with Q ahead and faster, so for now they separat
 10. e = 2 / 8 = 0.25
 11. 30 000 / 1000 = 30 m s⁻¹
 12. ½ × 3 × 25 = 37.5 J = 6d, so d = 6.25 m
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-mathematics-work-energy-and-power-and-collisions-with-the--01-work-component.webp" width="900" height="740" alt="All boards. Force 40 N at 35° moves a trolley 12 m: components 32.8 N and 22.9 N, work 40×12×cos 35° = 393 J (OxfordAQA example 1)." loading="lazy">
+  <figcaption>Only the component of the force along the motion does work.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-mathematics-work-energy-and-power-and-collisions-with-the--04-energy-along-motion.webp" width="900" height="890" alt="All boards. 0.8 kg slides down a smooth 2.5 m drop (energy conserved, 7 m/s), then 4 N resistance removes 19.6 J over 4.9 m." loading="lazy">
+  <figcaption>Mechanical energy is conserved on a smooth slide and removed steadily by a constant resistance.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

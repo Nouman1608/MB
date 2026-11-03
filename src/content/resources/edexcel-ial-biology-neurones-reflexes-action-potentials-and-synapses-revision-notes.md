@@ -264,6 +264,12 @@ Parts: presynaptic knob (mitochondria, vesicles of ACh, voltage-gated Ca²⁺ ch
 11. L-DOPA crosses into the brain, where it is converted to dopamine.
 12. (6.0 − 3.0) / 6.0 × 100 = 50%.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-control-and-coordination--08-sarcomere.webp" width="900" height="1170" alt="Two sarcomeres are drawn to the same scale (1 um = 280 px) with actin attached to Z lines and myosin in the middle. Relaxed, the sarcomere is 2.5 um: A band 1.6, I band 0.9 and H zone 0.5 um. Contracted, it is 2.0 um (20 percent shorter): I band 0.4 um, H zone gone, but the A band stays 1.6 um because the filaments slide rather than shorten." loading="lazy">
+  <figcaption>Sarcomere shortening drawn to scale: the I band and H zone shrink, the A band does not.</figcaption>
+</figure>
+
+
 ## Where marks are usually lost
 
 - Writing "sodium moves in" without saying it diffuses through voltage-gated channels.

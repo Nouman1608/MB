@@ -72,6 +72,11 @@ A balanced discussion gives points on both sides, names who is affected (patient
   <figcaption>Potency from totipotent to unipotent, the early embryo, and iPS cells.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-biology-gene-mutations-and-stem-cells--09-cancer-genes.webp" width="900" height="940" alt="Normal control has a proto-oncogene go signal and a working tumour suppressor brake, giving 8 cells in 90 hours with a 30 hour cycle. A stuck-on oncogene (mutation or too little methylation) with an 18 hour cycle gives 32 cells. Losing the tumour suppressor gene (mutation or too much methylation) leaves division unchecked." loading="lazy">
+  <figcaption>How oncogenes and loss of tumour suppressor genes lead to uncontrolled division.</figcaption>
+</figure>
+
 
 ## 3.18 Differential gene expression
 
@@ -92,6 +97,11 @@ The sequence is: signal or transcription factor binds to the promoter region of 
 | Actin | 95 | 90 | 100 |
 
 Actin mRNA is similar in all three, so actin is expressed in every cell type. Insulin mRNA appears only in the beta cell and albumin mRNA only in the liver cell. The cells differ in which genes are expressed, not in the genes they hold. Within the beta cell, insulin mRNA is 540 ÷ 90 = 6 times the actin mRNA level.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-biology-gene-mutations-and-stem-cells--01-mutation-types.webp" width="900" height="1108" alt="The same nine-base gene ATGCTTGGC is shown after each mutation with changed bases in gold and lost bases as dashed boxes. Substitution keeps nine bases, addition gives ten, deletion eight, duplication of GGC twelve, inversion of the last six bases (reads GCCAAG) keeps nine, and translocation moves CTT to the other end. OCR names only substitution, insertion and deletion." loading="lazy">
+  <figcaption>Six mutation types shown as base strips; duplication, inversion and translocation are AQA only.</figcaption>
+</figure>
 
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/aqa-a-level-biology-gene-mutations-and-stem-cells--04-oestrogen-transcription-factor.webp" width="900" height="1060" alt="Oestrogen diffuses through the cell-surface membrane, binds a receptor in the cytoplasm to form a complex, the complex enters the nucleus through a nuclear pore, binds a base sequence next to the target gene, and RNA polymerase can then make mRNA." loading="lazy">

@@ -72,6 +72,11 @@ The X–X covalent bond is not broken on boiling. Writing that it is costs the e
 </figure>
 
 <figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-group-2-the-alkaline-earth-metals--03-group2-solubility.webp" width="900" height="1070" alt="Two rows of test tubes for Mg to Ba. Hydroxide solubility rises down the group, shown by less undissolved solid and more dissolved ions. Sulfate solubility falls, ending with insoluble BaSO4." loading="lazy">
+  <figcaption>Hydroxides become more soluble and sulfates less soluble down Group 2 (schematic).</figcaption>
+</figure>
+
+<figure class="topic-figure">
   <img src="https://img.marlbridge.com/aqa-a-level-chemistry-group-2-the-alkaline-earth-metals--06-halogen-boiling-points.webp" width="900" height="1050" alt="Diatomic molecules F2 to I2 grow larger with 18, 34, 70 and 106 electrons and stronger dashed van der Waals forces. Boiling points are minus 188, minus 34, 59 and 184 degrees Celsius. Only forces between molecules are overcome on boiling." loading="lazy">
   <figcaption>Boiling point rises down Group 7 because more electrons give stronger van der Waals forces.</figcaption>
 </figure>
@@ -254,6 +259,12 @@ overall equation.
 9. Oxygen (−2 in water to 0 in O₂).
 10. Bleach (or a disinfectant for cleaning).
 11. Acidified barium chloride solution.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-group-2-the-alkaline-earth-metals--02-group2-water.webp" width="900" height="985" alt="Four tubes show increasing bubbling from Mg to Ba in cold water, giving hydroxide and hydrogen. Below, magnesium burns in steam with bright white light to give white MgO and hydrogen." loading="lazy">
+  <figcaption>Reactivity with water increases down Group 2; magnesium with steam gives the oxide, not the hydroxide.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

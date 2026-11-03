@@ -86,6 +86,21 @@ simplicity; real PPCs are typically bowed outward.
   <figcaption>A market economy lets prices decide, a mixed economy adds government, a planned economy leaves it all to government.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-economics-markets-sectors-specialisation-and-demand-with-price--13-stool-specialisation.webp" width="900" height="970" alt="Four workers each stack stools. Without specialisation each makes 3 stools, 12 in total. With specialisation each worker adds to a shared output of 5 per worker, 20 in total, a rise of 66.7%. Labour cost is 320 pounds a day, so cost per stool falls from 26.67 pounds to 16.00 pounds, a fall of 40%." loading="lazy">
+  <figcaption>When four workers specialise, output rises from 12 to 20 stools a day and labour cost per stool falls 40%.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-economics-microeconomic-decision-makers--01-functions-of-money.webp" width="900" height="850" alt="Four panels: goods swapped for money (medium of exchange), bread and shoes priced in one unit (unit of account), coins saved in a jar to spend later (store of value), and a debt of 50 paid at a later date (deferred payment)." loading="lazy">
+  <figcaption>Money acts as a medium of exchange, unit of account, store of value and standard for deferred payment.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-how-markets-work--09-barter-and-money.webp" width="900" height="1250" alt="Three people each have goods the next person does not want, so barter fails. With money, each is paid in pounds and then buys what they want, so trade works." loading="lazy">
+  <figcaption>Money removes the need for a double coincidence of wants.</figcaption>
+</figure>
+
 
 ## Where this topic's content stops
 
@@ -184,9 +199,3 @@ the specific skill this sub-topic tests in scenario-based questions.
 4. Explain why money solves the double coincidence of wants problem created by specialisation and exchange.
 
 **Answers:** 1. The next best alternative forgone when a choice is made. 2. What, how, and for whom to produce; a market economy uses the price mechanism, a planned economy uses the state, and a mixed economy combines both. 3. The opportunity cost ratio is 2 food = 1 machinery. At 50 food, the curve allows (80 − 50) ÷ 2 = 15 machinery, but the economy produces only 10, so it lies inside the curve — resources are unemployed or used inefficiently. 4. Barter requires each party to want exactly what the other offers; money removes this requirement by acting as a medium of exchange that both parties accept, alongside serving as a measure of value, a store of value, and a means of deferred payment.
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/aqa-gcse-economics-how-markets-work--09-barter-and-money.webp" width="900" height="1250" alt="Three people each have goods the next person does not want, so barter fails. With money, each is paid in pounds and then buys what they want, so trade works." loading="lazy">
-  <figcaption>Money removes the need for a double coincidence of wants.</figcaption>
-</figure>
-

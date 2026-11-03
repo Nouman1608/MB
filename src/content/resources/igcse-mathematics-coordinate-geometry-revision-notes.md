@@ -150,17 +150,6 @@ y = -(1/4)x + c
 y = -(1/4)x + 5.5
 ```
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-mathematics-coordinate-geometry--05-parallel-lines.webp" width="900" height="1000" alt="Lines y = 2x - 1 and y = 2x + 3 each go 1 across and 2 up, so they are parallel. The parallel line through P (1, 5) has c = 3." loading="lazy">
-  <figcaption>Parallel lines share a gradient; use a point to find c.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-mathematics-coordinate-geometry--06-perpendicular-lines.webp" width="900" height="960" alt="Two lines meet at right angles at (0, 1). One has gradient 2/3 and the other -3/2; their product is -1." loading="lazy">
-  <figcaption>Perpendicular gradients multiply to -1.</figcaption>
-</figure>
-
-
 ## Exam traps
 
 - Dividing the change in x by the change in y when finding a gradient, rather than change in y over change in x.
@@ -179,3 +168,14 @@ y = -(1/4)x + 5.5
 6. State the equation of a line with gradient -2 that passes through the origin.
 
 **Answers:** 1. Horizontal line: gradient 0. Vertical line: gradient undefined. 2. Length = sqrt((x2 - x1)^2 + (y2 - y1)^2). 3. -1/2, since 2 x (-1/2) = -1. 4. They must have the same gradient. 5. Keep the gradient the same as the given line, then substitute the new point's coordinates into y = mx + c and solve for the new value of c. 6. y = -2x, since a line through the origin has c = 0.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-coordinate-geometry--05-parallel-lines.webp" width="900" height="1000" alt="Lines y = 2x - 1 and y = 2x + 3 each go 1 across and 2 up, so they are parallel. The parallel line through P (1, 5) has c = 3." loading="lazy">
+  <figcaption>Parallel lines share a gradient; use a point to find c.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-coordinate-geometry--06-perpendicular-lines.webp" width="900" height="960" alt="Two lines meet at right angles at (0, 1). One has gradient 2/3 and the other -3/2; their product is -1." loading="lazy">
+  <figcaption>Perpendicular gradients multiply to -1.</figcaption>
+</figure>
+

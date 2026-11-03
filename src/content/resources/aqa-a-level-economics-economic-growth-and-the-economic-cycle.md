@@ -114,6 +114,11 @@ Note the link: investment is on both sides. It raises AD immediately and raises 
   <figcaption>AD = C + I + G + (X − M): imports are subtracted, and a change in any component shifts the whole AD curve.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-aggregate-demand-supply--06-accelerator.webp" width="900" height="1000" alt="Output rises every year over six years while net investment, equal to 2 times the change in output, rises then falls to 20 and 10 once growth slows. Investment depends on the rate of change of demand, not only its level." loading="lazy">
+  <figcaption>When demand growth slows, net investment can fall even though output is still rising.</figcaption>
+</figure>
+
 
 ## Output gaps
 
@@ -164,6 +169,16 @@ Reading it: years 2 and 3 are expansion into a boom (strong growth, falling unem
   <figcaption>Output above potential is a positive gap; below potential is a negative gap, and the phase names follow the lesson.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-economics-macroeconomics-measuring-and-managing-the-economy--02-business-cycle.webp" width="900" height="880" alt="A wavy, upward-trending line of real GDP passes through expansion, a peak, a contraction (recession) and a trough, then expands again. A recession is a period when real output falls; slower growth is not a recession." loading="lazy">
+  <figcaption>The business cycle has expansion, peak, contraction (recession) and trough phases.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-edexcel-economics-economic-growth--01-growth-rate-and-recession.webp" width="900" height="780" alt="Bar chart of quarterly real GDP growth: Q1 +0.5%, Q2 -0.3%, Q3 -0.6%. Q2 and Q3 are shaded as a recession because there are two consecutive quarters of negative growth, confirmed at the end of Q3. One negative quarter would not be a recession." loading="lazy">
+  <figcaption>Two consecutive quarters of negative growth make a recession, confirmed here at the end of Q3.</figcaption>
+</figure>
+
 
 ## Causes of changes in the cycle: shocks
 
@@ -177,6 +192,17 @@ A shock is an unexpected event that shifts AD or aggregate supply.
 Chain for a negative global demand shock: partners' incomes fall, export orders fall, AD shifts left, real GDP falls and a negative gap opens, firms cut investment and jobs, and incomes fall again. The size depends on how open the economy is and how fast it can find new markets.
 
 Chain for a negative supply shock: costs rise, SRAS shifts left, the price level rises and real GDP falls together (stagflation).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-aggregate-demand-supply--03-demand-side-shock.webp" width="900" height="910" alt="AD and AS diagram with vertical LRAS. AD shifts left from AD1 to AD2 after a fall in business confidence, moving equilibrium from output 90, price level 65 to output 75, price level 57.5. LRAS is unchanged." loading="lazy">
+  <figcaption>A fall in business confidence shifts AD left, cutting output and the price level in the short run while LRAS stays put.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-aggregate-demand-supply--04-supply-side-shock.webp" width="900" height="910" alt="A rise in world oil prices lifts production costs and shifts SRAS left from SRAS1 to SRAS2. Equilibrium moves from output 90, price level 65 to output 65, price level 77.5. LRAS does not move." loading="lazy">
+  <figcaption>A cost shock shifts SRAS left, raising prices and cutting output, without changing underlying capacity.</figcaption>
+</figure>
+
 
 ## Cyclical instability
 

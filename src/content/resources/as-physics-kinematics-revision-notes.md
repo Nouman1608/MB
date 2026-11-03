@@ -129,12 +129,6 @@ For a projectile launched at angle θ with speed u: `u_x = u cos θ`, `u_y = u s
 
 Without it, the trajectory is a symmetrical parabola. **With** air resistance the path becomes asymmetric: reduced range and maximum height, a steeper descent than ascent, and the impact speed is less than the launch speed, since a resistive force continuously removes kinetic energy from the projectile throughout its flight.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/as-physics-kinematics-revision-notes--07-air-resistance-asymmetry.webp" width="900" height="800" alt="With a 30 m/s launch at 45 degrees, the path without air resistance is a symmetric parabola. With drag (illustrative model a = -0.005 v^2) the peak comes past half range, the descent is steeper (52 vs 45 degrees), range and height fall, and impact speed is 23 m/s." loading="lazy">
-  <figcaption>Air resistance makes the path asymmetric and removes kinetic energy.</figcaption>
-</figure>
-
-
 ## Exam traps
 
 - Applying suvat when acceleration is **not** uniform.
@@ -157,3 +151,9 @@ Without it, the trajectory is a symmetrical parabola. **With** air resistance th
 7. Describe a method for determining g experimentally, including the equation used.
 
 **Answers:** 1. v = u + at; s = ut + ½at²; v² = u² + 2as; s = (u+v)t/2. 2. u_x = 20 cos 30° = **17.3 m/s**; u_y = 20 sin 30° = **10 m/s**. 3. Displacement (not distance — area below the axis counts as negative). 4. The vertical component; the horizontal component is unchanged. 5. Any two: reduced range, reduced maximum height, asymmetric trajectory with a steeper descent, impact speed lower than launch speed. 6. Acceleration a = Δv/Δt = (v − u)/t; rearranging gives at = v − u, so v = u + at. 7. Drop an object through a known height, timing the fall with a light gate or electromagnet-released timer; rearrange s = ½gt² to g = 2s/t², repeating and averaging t to reduce random error.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/as-physics-kinematics-revision-notes--07-air-resistance-asymmetry.webp" width="900" height="800" alt="With a 30 m/s launch at 45 degrees, the path without air resistance is a symmetric parabola. With drag (illustrative model a = -0.005 v^2) the peak comes past half range, the descent is steeper (52 vs 45 degrees), range and height fall, and impact speed is 23 m/s." loading="lazy">
+  <figcaption>Air resistance makes the path asymmetric and removes kinetic energy.</figcaption>
+</figure>
+

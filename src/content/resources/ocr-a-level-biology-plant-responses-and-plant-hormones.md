@@ -89,6 +89,11 @@ Control species, age, temperature, light intensity and distance, and humidity. W
   <figcaption>The same hormone bends a shoot up and a root down because roots are inhibited by high IAA.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-biology-plant-minerals-antimicrobial-plant-substances-and-drug--03-iaa-root-growth.webp" width="900" height="980" alt="Five roots hang from agar. Growth was 14.0 mm with no IAA and 15.4 mm at the lowest IAA (+10.0 percent), then 12.6, 8.4 and 4.2 mm (-10.0, -40.0 and -70.0 percent) as IAA rose." loading="lazy">
+  <figcaption>Low IAA slightly stimulates root growth, higher IAA inhibits it.</figcaption>
+</figure>
+
 
 ## Roles of plant hormones (5.1.5(b))
 
@@ -179,11 +184,6 @@ Because concentrations differ by factors of ten, plot them on a logarithmic axis
 **Rooting powders.** Cuttings dipped in auxin powder grow roots from the cut stem more quickly. This gives many genetically identical plants (clones).
 
 **Hormonal weedkillers.** Synthetic auxins such as 2,4-D are not broken down by plants as natural IAA is. They persist and cause fast, uncontrolled growth in broad-leaved weeds, which then die. They are selective because narrow-leaved crops such as cereals and lawn grasses are far less affected. Evaluate by balancing higher yields against run-off and harm to non-target plants.
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/edexcel-ial-biology-plant-minerals-antimicrobial-plant-substances-and-drug--03-iaa-root-growth.webp" width="900" height="980" alt="Five roots hang from agar. Growth was 14.0 mm with no IAA and 15.4 mm at the lowest IAA (+10.0 percent), then 12.6, 8.4 and 4.2 mm (-10.0, -40.0 and -70.0 percent) as IAA rose." loading="lazy">
-  <figcaption>Low IAA slightly stimulates root growth, higher IAA inhibits it.</figcaption>
-</figure>
 
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/edexcel-ial-biology-plant-minerals-antimicrobial-plant-substances-and-drug--07-ethene-ripening.webp" width="900" height="1140" alt="Bananas took 8 days to ripen in air and 3 days with ethene, 62.5 percent quicker. Ethene gas spreads from ripe fruit to green neighbours. Bananas are picked green, shipped cool and ripened with ethene on arrival." loading="lazy">

@@ -36,6 +36,12 @@ The specification states that students are not expected to compound percentage u
 | Anomaly | A result that does not fit the trend; check it and repeat it |
 | Zero error | A reading of non-zero when the quantity measured is actually zero |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-oxfordaqa-physics-measurements-and-their-errors--04-precision-accuracy.webp" width="900" height="1160" alt="Four targets with six shots each: tight and centred (precise and accurate); tight but off-centre (systematic error); spread with mean on the bullseye (random error); spread and off-centre (both)." loading="lazy">
+  <figcaption>Systematic error shifts all readings; random error scatters them.</figcaption>
+</figure>
+
+
 ## Formulae and rules
 
 | Quantity | Rule |
@@ -73,11 +79,6 @@ R = ρL / A, so the gradient is ρ / A and ρ = gradient × A.
 A = π × (0.15 × 10⁻³)² = 7.07 × 10⁻⁸ m².
 
 ρ = 7.3 × 7.07 × 10⁻⁸ = 5.2 × 10⁻⁷ Ω m (2 s.f., because the diameter has 2 s.f.).
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/edexcel-ial-physics-unit-3-processing-results-graphs-and-uncertainties--03-gradient-large-triangle.webp" width="900" height="1010" alt="Graph of v squared against s with six points and a best-fit line through the origin. A large triangle from (0.20, 0.80) to (1.20, 4.76) has base 1.00 m and height 3.96. The gradient is 3.96 m s^-2 and, since v^2 = 2as, a = 1.98 m s^-2." loading="lazy">
-  <figcaption>Take the gradient from two points far apart on the best-fit line, then halve it to get a.</figcaption>
-</figure>
 
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/edexcel-ial-physics-unit-3-processing-results-graphs-and-uncertainties--06-graph-plotting-gradient-triangle.webp" width="900" height="960" alt="v squared against s for the trolley data, with six crosses, a ruled best-fit line through the origin and a large gradient triangle from (0.20, 0.80) to (1.20, 4.76). The gradient is 3.96 m/s2, so a = 1.98 m/s2. Four numbered rules: label axes with units, simple scale filling the grid, one ruled line, large triangle." loading="lazy">
@@ -186,6 +187,12 @@ If the line misses the origin, say by how much and what it suggests, for example
 8. Uncertainty 0.5 mm on 180 mm gives 0.28%.
 9. A = π × (0.10 × 10⁻³)² = 3.14 × 10⁻⁸ m²; ρ = 12.4 × 3.14 × 10⁻⁸ = 3.9 × 10⁻⁷ Ω m.
 10. 7.56 on the calculator, so 7.6 to 2 s.f.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-physics-unit-3-processing-results-graphs-and-uncertainties--03-gradient-large-triangle.webp" width="900" height="1010" alt="Graph of v squared against s with six points and a best-fit line through the origin. A large triangle from (0.20, 0.80) to (1.20, 4.76) has base 1.00 m and height 3.96. The gradient is 3.96 m s^-2 and, since v^2 = 2as, a = 1.98 m s^-2." loading="lazy">
+  <figcaption>Take the gradient from two points far apart on the best-fit line, then halve it to get a.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

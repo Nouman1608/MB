@@ -39,12 +39,6 @@ Use it alongside the [Trigonometry revision notes](/resources/aqa-a-level-mathem
 
 Appendix B of the specification lists formulae you must be able to use **without them being provided**. For this section it includes the sine rule, cosine rule, area ½ab sin C, cos²A + sin²A ≡ 1, sec²A ≡ 1 + tan²A, cosec²A ≡ 1 + cot²A, and the double angle formulae for sin 2A, cos 2A and tan 2A. Learn these by heart.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-level-maths-9709-pure-mathematics-1-circular-measure--03-sector-triangle-segment.webp" width="900" height="765" alt="A sector of radius 10 cm and angle π/3 has area 50π/3. Subtracting the triangle of area 25√3 leaves the segment, ½r²(θ − sin θ), about 9.06 cm². The arc length is rθ = 10π/3 cm and θ must be in radians." loading="lazy">
-  <figcaption>Segment area is sector area minus triangle area.</figcaption>
-</figure>
-
-
 ## E1: trigonometry for any angle, triangles and radians
 
 For any angle θ, take the point P where a line at angle θ (anticlockwise from the positive x-axis) meets the unit circle. Then **cos θ is the x-coordinate of P, sin θ is the y-coordinate, and tan θ = sin θ / cos θ**. This works for obtuse, reflex and negative angles, which is why sin 150° = sin 30° and cos 150° = −cos 30°.
@@ -78,6 +72,11 @@ Sector = ½ × 6² × 2π/3 = 12π cm²
 Triangle = ½ × 6² × sin(2π/3) = 18 × √3/2 = 9√3 cm²
 Segment = 12π − 9√3 cm²  (≈ 22.1 cm²)
 ```
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-maths-9709-pure-mathematics-1-circular-measure--03-sector-triangle-segment.webp" width="900" height="765" alt="A sector of radius 10 cm and angle π/3 has area 50π/3. Subtracting the triangle of area 25√3 leaves the segment, ½r²(θ − sin θ), about 9.06 cm². The arc length is rθ = 10π/3 cm and θ must be in radians." loading="lazy">
+  <figcaption>Segment area is sector area minus triangle area.</figcaption>
+</figure>
 
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/a-level-maths-9709-pure-mathematics-1-circular-measure--05-ambiguous-case.webp" width="900" height="890" alt="Angle A = 34°, a = 9, b = 13. A circle of radius 9 centred on C meets the line through A at two points, giving two triangles: B = 126.1° with c = 5.47, and B = 53.9° with c = 16.1. Two triangles exist when b sin A &lt; a &lt; b, here 7.27 &lt; 9 &lt; 13." loading="lazy">

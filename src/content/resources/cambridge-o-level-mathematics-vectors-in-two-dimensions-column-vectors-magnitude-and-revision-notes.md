@@ -42,6 +42,12 @@ Use this page in the last weeks before the exam. For full explanations and worke
 
 Vectors are printed as AB or a. In handwriting, use an arrow over AB and underline a.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-mathematics-vectors-in-two-dimensions-column-vectors-magnitude-and--03-magnitude-pythagoras.webp" width="900" height="900" alt="The vector minus 7 over 24 is the hypotenuse of a right-angled triangle with sides 7 and 24. 49 + 576 = 625 and the square root is 25, so the magnitude is 25. Signs vanish when squared." loading="lazy">
+  <figcaption>The magnitude of (x, y) is the hypotenuse of a right-angled triangle with sides x and y.</figcaption>
+</figure>
+
+
 ## Formulas and rules
 
 | Result | Rule |
@@ -208,12 +214,6 @@ CM = CO + OA + AM = −c + a + ½c = a − ½c
 - Using letters that the question did not define, instead of a and b.
 - Mixing up the order of letters, so that the final answer points the wrong way.
 - Leaving an unsimplified answer such as (2/5)a + (3/5)b − (1/5)b when asked for a single expression.
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/cambridge-o-level-mathematics-vectors-in-two-dimensions-column-vectors-magnitude-and--03-magnitude-pythagoras.webp" width="900" height="900" alt="The vector minus 7 over 24 is the hypotenuse of a right-angled triangle with sides 7 and 24. 49 + 576 = 625 and the square root is 25, so the magnitude is 25. Signs vanish when squared." loading="lazy">
-  <figcaption>The magnitude of (x, y) is the hypotenuse of a right-angled triangle with sides x and y.</figcaption>
-</figure>
-
 
 ## Official syllabus
 

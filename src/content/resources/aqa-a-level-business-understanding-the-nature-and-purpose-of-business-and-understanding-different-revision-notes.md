@@ -244,17 +244,6 @@ Use this pattern for any "change of form" question:
 - Public sector: service and budgets lead.
 - Charity or mutual: purpose or member benefit leads.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/aqa-a-level-business-understanding-the-nature-and-purpose-of-business-and-understanding-different--02-surplus-goes.webp" width="900" height="970" alt="Five rows link each organisational form to where its surplus goes: owner, shareholders, charitable purpose, members, or government-funded service. Colours separate owner-benefit from purpose-first forms." loading="lazy">
-  <figcaption>Where the surplus goes differs between private, non-profit and public sector forms.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/aqa-a-level-business-understanding-the-nature-and-purpose-of-business-and-understanding-different--13-ownership-effects.webp" width="900" height="880" alt="Five owner types with what each leads with and what shapes its decisions; plc judged on profit and share price, charity on difference made." loading="lazy">
-  <figcaption>Ownership shapes mission, decisions and how performance is judged.</figcaption>
-</figure>
-
-
 ## Quick self-test
 
 1. Define "mission".
@@ -268,6 +257,12 @@ Use this pattern for any "change of form" question:
 9. When one investor sells shares to another, does the company receive the money?
 10. Why might a shareholder accept a low dividend?
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-business-understanding-the-nature-and-purpose-of-business-and-understanding-different--13-ownership-effects.webp" width="900" height="880" alt="Five owner types with what each leads with and what shapes its decisions; plc judged on profit and share price, charity on difference made." loading="lazy">
+  <figcaption>Ownership shapes mission, decisions and how performance is judged.</figcaption>
+</figure>
+
+
 ### Answers
 
 1. The overall purpose of the business: why it exists.
@@ -280,6 +275,12 @@ Use this pattern for any "change of form" question:
 8. Limited liability protects personal assets; shares let it raise finance from outside investors (also continuity).
 9. No. The money passes between the two investors.
 10. Because they expect the share price to rise (capital growth), or the retained profit to fund growth.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-business-understanding-the-nature-and-purpose-of-business-and-understanding-different--02-surplus-goes.webp" width="900" height="970" alt="Five rows link each organisational form to where its surplus goes: owner, shareholders, charitable purpose, members, or government-funded service. Colours separate owner-benefit from purpose-first forms." loading="lazy">
+  <figcaption>Where the surplus goes differs between private, non-profit and public sector forms.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

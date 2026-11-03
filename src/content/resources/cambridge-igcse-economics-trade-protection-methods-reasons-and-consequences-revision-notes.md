@@ -75,12 +75,6 @@ A subsidy of 0.50 per kg to home growers makes them act as if the price were 4.5
 | Subsidy | Cuts home costs | Stays low | Home firms | Taxpayers |
 | Embargo | Bans trade | Import unavailable | Home firms | Consumers, the banned exporter |
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/cambridge-igcse-economics-trade-protection-methods-reasons-and-consequences--06-tariff-or-subsidy.webp" width="900" height="890" alt="Free trade gives imports of 70 000 at a price of 200. The 20% tariff cuts imports to 46 000, raises the price to 240 and earns 1.84m. A subsidy of 25 per bicycle leaves the price at 200, imports fall to 62 500 and it costs the government 937 500." loading="lazy">
-  <figcaption>A tariff cuts imports most and earns money; a subsidy keeps prices low but costs taxpayers.</figcaption>
-</figure>
-
-
 ### Method steps for a protection calculation
 
 1. Find the new price (price × (1 + tariff rate)), or the subsidy-adjusted supply price.
@@ -189,12 +183,6 @@ An exporter in Country H sends 5 000 000 of goods to Country A. A tariff cuts sa
 - Dumping is below cost or below the exporter's home price. A low price alone is not dumping.
 - The cost of protection falls on consumers and taxpayers at home, and on exporters abroad.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/cambridge-igcse-economics-trade-protection-methods-reasons-and-consequences--05-tariff-or-quota.webp" width="900" height="900" alt="Both a tariff and a quota of 46 000 raise the home price from 200 to 240. With a tariff the gap of 40 on 46 000 bicycles, 1.84m, goes to the government. With a quota it goes to the licence holders unless the government sells the licences." loading="lazy">
-  <figcaption>Under a tariff the government collects the gap; under a quota the licence holders do unless licences are sold.</figcaption>
-</figure>
-
-
 ## Quick self-test
 
 1. Define a tariff.
@@ -220,6 +208,17 @@ An exporter in Country H sends 5 000 000 of goods to Country A. A tariff cuts sa
 8. 2 400 000 / 600 = 4 000.
 9. Lost export sales, so lower income and jobs in its export industries (or the risk of retaliation).
 10. A subsidy lowers home firms' costs without raising the price consumers pay. A tariff raises the price.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-economics-trade-protection-methods-reasons-and-consequences--05-tariff-or-quota.webp" width="900" height="900" alt="Both a tariff and a quota of 46 000 raise the home price from 200 to 240. With a tariff the gap of 40 on 46 000 bicycles, 1.84m, goes to the government. With a quota it goes to the licence holders unless the government sells the licences." loading="lazy">
+  <figcaption>Under a tariff the government collects the gap; under a quota the licence holders do unless licences are sold.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-economics-trade-protection-methods-reasons-and-consequences--06-tariff-or-subsidy.webp" width="900" height="890" alt="Free trade gives imports of 70 000 at a price of 200. The 20% tariff cuts imports to 46 000, raises the price to 240 and earns 1.84m. A subsidy of 25 per bicycle leaves the price at 200, imports fall to 62 500 and it costs the government 937 500." loading="lazy">
+  <figcaption>A tariff cuts imports most and earns money; a subsidy keeps prices low but costs taxpayers.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

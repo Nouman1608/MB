@@ -85,6 +85,11 @@ The guide notes that NA, n = m/M and n = CV are given in the data booklet, and t
 4. Final volume = gaseous products + leftover reactant gas. Liquids and solids add nothing.
 
 <figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-counting-particles-by-mass-the-mole--01-which-entity.webp" width="900" height="710" alt="One mole of O2 molecules is drawn as pairs of joined oxygen atoms (6.02 x 10^23 molecules). An arrow marked x2 leads to the same sample as separate O atoms: 2 mol, 1.20 x 10^24 atoms." loading="lazy">
+  <figcaption>One mole of O2 molecules contains two moles of O atoms, so always name the entity.</figcaption>
+</figure>
+
+<figure class="topic-figure">
   <img src="https://img.marlbridge.com/ib-dp-chemistry-counting-particles-by-mass-the-mole--02-count-ions-atoms.webp" width="900" height="940" alt="One Al2(SO4)3 formula unit is drawn as 2 Al3+ and 3 sulfate ions with 4 oxygens each. A table scales 0.0400 mol: sulfate x3 = 0.120 mol, O x12 = 0.480 mol, all ions x5 = 0.200 mol, then multiplies by NA." loading="lazy">
   <figcaption>Scale the amount by the count per formula unit, then multiply by NA.</figcaption>
 </figure>
@@ -97,6 +102,16 @@ The guide notes that NA, n = m/M and n = CV are given in the data booklet, and t
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/ib-dp-chemistry-counting-particles-by-mass-the-mole--04-mass-mole-particles.webp" width="900" height="1020" alt="Four boxes run from 1.80 g of urea to 0.02997 mol of molecules, 0.0599 mol of N atoms and 3.61 x 10^22 N atoms. Teal arrows give divide by M, x2 and x NA; gold arrows give the reverse." loading="lazy">
   <figcaption>Divide by M to get moles, multiply by NA for particles, and reverse the steps to go back.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-counting-particles-by-mass-the-mole--05-empirical-formula.webp" width="900" height="1190" alt="Bars show 41.39 g C, 3.48 g H and 55.13 g O in 100 g. Dividing by Ar gives equal bars of 3.446 mol, so the ratio is 1:1:1 and the empirical formula is CHO. Multiplying by 116.08/29.02 = 4 gives C4H4O4." loading="lazy">
+  <figcaption>Divide masses by Ar, divide by the smallest, then scale by molar mass over empirical mass.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-counting-particles-by-mass-the-mole--06-dilution.webp" width="900" height="980" alt="A 25.00 cm3 sample of 0.100 mol dm-3 solution holds 8 solute particles. Adding water to 100.0 cm3 spreads the same 8 particles through four times the volume, giving 0.0250 mol dm-3." loading="lazy">
+  <figcaption>Dilution keeps n = C x V constant, so concentration falls as volume rises.</figcaption>
 </figure>
 
 
@@ -154,12 +169,6 @@ Use NA = 6.02 × 10²³ mol⁻¹ and Ar values: H 1.01, C 12.01, N 14.01, O 16.0
 9. Ar has **no units**; molar mass is in **g mol⁻¹**.
 10. Three Na⁺ per formula unit: 3 × 0.040 = **0.12 mol dm⁻³**.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ib-dp-chemistry-counting-particles-by-mass-the-mole--05-empirical-formula.webp" width="900" height="1190" alt="Bars show 41.39 g C, 3.48 g H and 55.13 g O in 100 g. Dividing by Ar gives equal bars of 3.446 mol, so the ratio is 1:1:1 and the empirical formula is CHO. Multiplying by 116.08/29.02 = 4 gives C4H4O4." loading="lazy">
-  <figcaption>Divide masses by Ar, divide by the smallest, then scale by molar mass over empirical mass.</figcaption>
-</figure>
-
-
 ## Where marks are usually lost
 
 - Giving Ar or Mr a unit, or giving molar mass without g mol⁻¹.
@@ -172,11 +181,6 @@ Use NA = 6.02 × 10²³ mol⁻¹ and Ar values: H 1.01, C 12.01, N 14.01, O 16.0
 - Writing [Cl⁻] equal to [CaCl₂] instead of twice it.
 - Including liquid water in a final gas volume, or forgetting the unreacted excess gas.
 - Leaving the answer with more significant figures than the data justify; match the data, usually 3 s.f.
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ib-dp-chemistry-counting-particles-by-mass-the-mole--01-which-entity.webp" width="900" height="710" alt="One mole of O2 molecules is drawn as pairs of joined oxygen atoms (6.02 x 10^23 molecules). An arrow marked x2 leads to the same sample as separate O atoms: 2 mol, 1.20 x 10^24 atoms." loading="lazy">
-  <figcaption>One mole of O2 molecules contains two moles of O atoms, so always name the entity.</figcaption>
-</figure>
 
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/ib-dp-chemistry-counting-particles-by-mass-the-mole--07-gas-volumes.webp" width="900" height="820" alt="40 cm3 H2S needs 60 cm3 of the 100 cm3 O2, leaving 40 cm3 excess. It forms 40 cm3 SO2, so 80 cm3 of gas remains; liquid water adds no gas volume." loading="lazy">

@@ -122,12 +122,6 @@ General word equation: carbonate + acid → salt + water + carbon dioxide.
 
 The gas tests themselves (section 3.4.2) are in the [purity, chromatography and gas tests guide](/resources/oxfordaqa-igcse-chemistry-purity-chromatography-and-gas-tests/).
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/oxfordaqa-igcse-chemistry-identification-of-ions--05-carbonate-test.webp" width="900" height="950" alt="Dilute acid on a carbonate fizzes; the gas goes along a delivery tube into limewater, which turns cloudy white. Fizzing alone is not enough because metals in acid also fizz. Equation CuCO3 + 2HNO3 gives Cu(NO3)2 + H2O + CO2." loading="lazy">
-  <figcaption>Fizz, then confirm the gas as CO2 with limewater.</figcaption>
-</figure>
-
-
 ## Halides (3.4.3 e)
 
 **Method in steps**
@@ -233,6 +227,12 @@ The nitrate and the other positive ion stay dissolved, so they are left out.
 9. Flame test: the calcium salt gives a red flame; the magnesium salt gives no characteristic colour.
 10. 108 + 35.5 = **143.5**.
 11. Green at first; it slowly turns brown as iron(II) is oxidised to iron(III).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-chemistry-identification-of-ions--05-carbonate-test.webp" width="900" height="950" alt="Dilute acid on a carbonate fizzes; the gas goes along a delivery tube into limewater, which turns cloudy white. Fizzing alone is not enough because metals in acid also fizz. Equation CuCO3 + 2HNO3 gives Cu(NO3)2 + H2O + CO2." loading="lazy">
+  <figcaption>Fizz, then confirm the gas as CO2 with limewater.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

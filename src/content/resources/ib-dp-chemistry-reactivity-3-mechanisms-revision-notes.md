@@ -56,6 +56,11 @@ scales, and a solution can be a concentrated weak acid or a dilute strong acid.
 </figure>
 
 <figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-reactivity-3-mechanisms--02-strong-weak-conc.webp" width="900" height="1000" alt="Four beakers of acid HA. Strong acid: every HA is split into H plus and A minus, whether dilute (6 units) or concentrated (12). Weak acid: most HA stays whole, with only 1 of 6 or 2 of 12 split." loading="lazy">
+  <figcaption>Concentration is how much acid is dissolved; strength is the fraction that dissociates.</figcaption>
+</figure>
+
+<figure class="topic-figure">
   <img src="https://img.marlbridge.com/ib-dp-chemistry-reactivity-3-mechanisms--03-weak-acid-titration.webp" width="900" height="760" alt="Computed pH curve for 25.0 cm3 of 0.100 M ethanoic acid titrated with 0.100 M NaOH. A shaded buffer region lies before the steep rise; pH equals pKa at half-equivalence and is above 7 at equivalence." loading="lazy">
   <figcaption>At HL, the weak acid curve shows a buffer region, pH = pKa at half-equivalence and an equivalence pH above 7.</figcaption>
 </figure>
@@ -93,6 +98,16 @@ establishes.
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/ib-dp-chemistry-reactivity-3-mechanisms--04-half-equations.webp" width="900" height="870" alt="Zinc becomes Zn2 plus and releases two electrons (oxidation). The electrons pass to Cu2 plus, which becomes copper (reduction). Adding the half-equations cancels the electrons: Zn + Cu2+ gives Zn2+ + Cu." loading="lazy">
   <figcaption>Separate half-equations make the electron transfer explicit before they are added.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-reactivity-3-mechanisms--05-three-cells.webp" width="900" height="970" alt="Three diagrams. A voltaic cell has two half-cells with a salt bridge and lamp; a spontaneous reaction gives electricity. An electrolytic cell uses a power supply to force a reaction. A fuel cell is fed hydrogen and oxygen continuously for a steady current." loading="lazy">
+  <figcaption>Voltaic cells release energy, electrolytic cells need it supplied, and fuel cells run on a continuous fuel supply.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-reactivity-3-mechanisms--06-cell-potential.webp" width="900" height="800" alt="A scale of standard electrode potentials: Cu2+/Cu +0.34 V, the standard hydrogen electrode 0.00 V, Zn2+/Zn minus 0.76 V. The gap is E cell +1.10 V, positive, so the reaction is spontaneous." loading="lazy">
+  <figcaption>At HL a positive E cell, here +1.10 V, predicts a spontaneous reaction.</figcaption>
 </figure>
 
 

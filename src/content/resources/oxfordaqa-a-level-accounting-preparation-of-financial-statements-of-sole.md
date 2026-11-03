@@ -71,6 +71,12 @@ Bank           4,860           1 Jan Balance b/d   385
 
 The charge is 4,860 - 385 - 1,140 = **3,335**. The 385 paid off last year's debt, so it is not a 2025 cost. The 1,140 debit balance carried down is an other receivable in the statement of financial position.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-accounting-for-organisations-with-incomplete-records--02-accrual-expense.webp" width="900" height="780" alt="Cash paid of 2,610 pounds has 240 pounds taken off (owed at the start, last year's cost) and 310 pounds added (owed at the end), giving a heating expense of 2,680 pounds. The 310 pounds still owing is a current liability." loading="lazy">
+  <figcaption>Expense = cash paid - owed at the start + owed at the end.</figcaption>
+</figure>
+
+
 ## Income due and income received in advance
 
 Income earned but not received is **income due**, shown with other receivables. Income received before it is earned is **income received in advance**, shown with other payables.
@@ -244,6 +250,21 @@ A **service business** follows the same pattern but has no cost of sales or gros
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/aqa-a-level-accounting-accounting-for-organisations-with-incomplete-records--06-trial-balance-to-statements.webp" width="900" height="1126" alt="The trial balance totals 274,470 pounds each side and is adjusted by seven notes. Gross profit of 84,200 pounds plus commission of 2,100 pounds less expenses of 56,175 pounds gives profit of 30,125 pounds. Opening capital 39,670 plus profit less drawings 19,200 gives closing capital of 50,595 pounds, equal to net assets." loading="lazy">
   <figcaption>Profit flows into capital, and capital equals net assets, which proves the statements balance.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-accounting-for-organisations-with-incomplete-records--07-profit-from-capital.webp" width="900" height="900" alt="Opening capital of 13,480 pounds plus the missing profit of 10,420 pounds, plus 5,000 pounds introduced, less 19,200 pounds drawings, gives closing capital of 9,700 pounds. Capital fell by 3,780 pounds although there was a profit." loading="lazy">
+  <figcaption>Profit = closing capital - opening capital + drawings - capital introduced.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-accounting-for-organisations-with-incomplete-records--08-total-accounts.webp" width="900" height="896" alt="Two T-accounts show credit sales of 42,800 pounds and cash sales of 45,400 pounds as balancing figures. Each account balances at 46,000 and 45,550 pounds, and revenue is 88,200 pounds." loading="lazy">
+  <figcaption>The missing figure in a total account is the one that makes it balance.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-accounting-for-organisations-with-incomplete-records--09-markup-margin.webp" width="900" height="830" alt="Two bars show cost of 100. With profit of 25, mark-up is 25 percent and margin 20 percent. With profit of 60, mark-up is 60 percent and margin 37.5 percent. With a 60 percent mark-up, cost of sales is sales divided by 1.60." loading="lazy">
+  <figcaption>Mark-up is profit as a percentage of cost; margin is profit as a percentage of revenue.</figcaption>
 </figure>
 
 

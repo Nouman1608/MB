@@ -295,6 +295,12 @@ You can get the same result by rearranging y = (3x − 7)/2 to make x the subjec
 
 Caution: the reverse of squaring is a square root, which has two possible values. A machine with a squaring step does not have a single reverse answer unless the question limits the inputs.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-functions--04-inverse-machine.webp" width="900" height="810" alt="The same four numbers 5, 10, 3, 1 in two rows. f multiplies by 2, subtracts 7, divides by 3, taking 5 to 1. The inverse runs right to left and undoes each step in reverse order: times 3, add 7, divide by 2, taking 1 back to 5." loading="lazy">
+  <figcaption>The inverse undoes each step of f in the reverse order.</figcaption>
+</figure>
+
+
 ## Composite functions (Higher tier only)
 
 A **composite** is two machines used in succession: the output of the first is the input of the second.

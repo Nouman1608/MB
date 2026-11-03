@@ -145,6 +145,21 @@ Most of the apparent growth was higher prices. Only the 2.7% shows more goods an
   <figcaption>Country B: nominal growth of 6.0 percent is only 2.7 percent real.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-aggregate-demand-supply--07-lras-growth.webp" width="900" height="1000" alt="LRAS shifts right from output 100 to 130, with SRAS shifted right by the same amount. Equilibrium moves from output 90, price level 65 to output 105, price level 57.5. Technology, productivity, enterprise, factor mobility, incentives and institutions are listed as causes." loading="lazy">
+  <figcaption>Underlying economic growth is a rightward shift in LRAS, raising output and easing prices.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-objectives-of-government--02-inflation-causes.webp" width="900" height="1090" alt="Two illustrative AD/AS diagrams. Demand-pull: AD shifts right and the price level rises. Cost-push: AS shifts up and left and the price level rises. Boxes give the cause chain and the policy response from the lesson." loading="lazy">
+  <figcaption>Demand-pull starts with demand; cost-push starts with rising costs.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-economics-measurement-of-macroeconomic-performance--04-real-vs-nominal-gdp.webp" width="900" height="880" alt="Line graph over five years: real and nominal GDP both start at 1000 in the base year; real reaches 1100 while nominal reaches 1342 because prices rose. The gap is higher prices only. Real GDP divided by population gives real GDP per capita." loading="lazy">
+  <figcaption>Real data strips out inflation so genuine output change can be compared.</figcaption>
+</figure>
+
 
 ## 10.2.4 Growth and the balance of payments
 
@@ -162,6 +177,11 @@ The deficit widens by three quarters even though growth is moderate. This is why
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/cambridge-a-level-economics-macroeconomic-objectives-and-their-interrelationships--13-eco27-growth-imports.webp" width="900" height="1000" alt="Country P has exports of 340 and imports of 360. With income up 5 percent and import income elasticity 1.4, imports rise 7 percent to 385.2 while exports rise 3 percent to 350.2. The deficit widens from 20 to 35." loading="lazy">
   <figcaption>Fast growth can widen a current account deficit.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-economics-measurement-of-macroeconomic-performance--02-growth-vs-current-account.webp" width="900" height="1040" alt="A four-step chain: growth policy raises aggregate demand, incomes rise, some spending goes on imports, and the current account worsens. Bars show exports 100 and imports rising from 100 to 118, a deficit of 18." loading="lazy">
+  <figcaption>Growth policy can raise imports faster than exports, creating a short-run conflict.</figcaption>
 </figure>
 
 
@@ -230,6 +250,11 @@ Holding unemployment below the natural rate needs accelerating inflation. The ec
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/cambridge-a-level-economics-macroeconomic-objectives-and-their-interrelationships--09-un147-lrpc-shift.webp" width="900" height="910" alt="Supply-side policy lowers the natural rate (illustrative 5 to 4 percent) so the LRPC shifts left; unemployment falls with inflation unchanged at 2 percent." loading="lazy">
   <figcaption>Supply-side policy can shift the LRPC left.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-macroeconomics--05-phillips-curve.webp" width="900" height="910" alt="The short-run Phillips curve slopes down, so lower unemployment (A to B) brings higher inflation. Higher expectations shift it up to SRPC2 and the economy ends at C on the vertical long-run curve at the NAIRU." loading="lazy">
+  <figcaption>In the short run there is a trade-off; in the long run unemployment returns to the NAIRU.</figcaption>
 </figure>
 
 

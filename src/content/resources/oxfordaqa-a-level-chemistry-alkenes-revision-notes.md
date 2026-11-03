@@ -59,12 +59,6 @@ appears on the [OxfordAQA A-Level Chemistry hub](/boards/oxfordaqa/a-level/chemi
 | Plasticiser | Small molecules between polymer chains that make the polymer flexible |
 | Surfactant (non-ionic) | Molecule with a non-polar tail and an uncharged polar head |
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-alkenes--07-major-minor-product.webp" width="900" height="1236" alt="H adds to C1 giving a secondary carbocation (two alkyl groups) and 2-bromopropane as major product; H adds to C2 giving a primary carbocation (one alkyl group) and 1-bromopropane as minor. Bars show stability rising primary &lt; secondary &lt; tertiary." loading="lazy">
-  <figcaption>The more stable secondary carbocation forms faster, so 2-bromopropane is the major product.</figcaption>
-</figure>
-
-
 ## 3.3.4.1 Bonding and reactivity
 
 - Alkene C=C = four shared electrons between two carbons → **centre of high electron density**.
@@ -131,6 +125,11 @@ still orange. Required practical 5 (listed under 3.3.6.1) includes this test.
   <figcaption>Br2 becomes polar near the C=C, then adds by the same two-step pattern (OCR also accepts a bromonium ion).</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-alkenes--07-major-minor-product.webp" width="900" height="1236" alt="H adds to C1 giving a secondary carbocation (two alkyl groups) and 2-bromopropane as major product; H adds to C2 giving a primary carbocation (one alkyl group) and 1-bromopropane as minor. Bars show stability rising primary &lt; secondary &lt; tertiary." loading="lazy">
+  <figcaption>The more stable secondary carbocation forms faster, so 2-bromopropane is the major product.</figcaption>
+</figure>
+
 
 ## 3.3.4.3 Addition polymers
 
@@ -170,6 +169,11 @@ intermolecular forces → chains slide → flexible.
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/aqa-a-level-chemistry-alkenes--08-addition-polymers.webp" width="900" height="1160" alt="Chloroethene opens its C=C to give the bracketed repeat unit with extension bonds and n; a chain section shows the repeating two-carbon unit; a poly(2-methylpropene) section is reversed to the monomer by putting C=C back." loading="lazy">
   <figcaption>Open the C=C, keep substituents, add extension bonds and brackets; reverse by finding the repeating pair of carbons.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-alkenes--09-pvc-plasticiser.webp" width="900" height="1060" alt="Unplasticised PVC chains lie close with strong forces (dipole-dipole and van der Waals): rigid. Plasticiser molecules push chains apart, weakening forces: flexible. Uses are shown for each." loading="lazy">
+  <figcaption>Plasticiser molecules separate PVC chains, weaken the forces between them and make PVC flexible.</figcaption>
 </figure>
 
 

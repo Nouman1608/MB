@@ -37,6 +37,12 @@ Quick links: [course hub](/boards/aqa/a-level/mathematics/) | [checklist](/check
 | Strict inequality (< or >) | Open bracket, dashed boundary |
 | Non-strict (≤ or ≥) | Square bracket, solid boundary |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-mathematics-quadratics-and-inequalities--02-discriminant-roots.webp" width="900" height="1150" alt="Three parabolas y = x^2 - 4x + k for k = 1, 4 and 7. Discriminants 12, 0 and -12 give two distinct real roots, one repeated root and no real roots respectively." loading="lazy">
+  <figcaption>The sign of b^2 - 4ac tells you whether the curve crosses, touches or misses the x-axis.</figcaption>
+</figure>
+
+
 ## Writing the answer
 
 | Form | Example |
@@ -71,6 +77,12 @@ Quick links: [course hub](/boards/aqa/a-level/mathematics/) | [checklist](/check
 **Fraction inequality, Method B.** Collect on one side as a single fraction. Find where the top and bottom change sign. Decide where the fraction is positive or negative. Exclude values that make the bottom zero.
 
 **Region.** Draw the boundary (dashed or solid). Test a point not on it, usually (0, 0). Shade or leave clear the side as the question instructs, and label R.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-mathematics-quadratics-and-inequalities--08-disguised-quadratic.webp" width="900" height="1255" alt="With u = x^2 the equation x^4 - 5x^2 + 4 = 0 becomes u^2 - 5u + 4 = 0 with roots u = 1 and 4. Going back gives x = -2, -1, 1 and 2, the four x-intercepts of the quartic." loading="lazy">
+  <figcaption>Substitute u for the repeated function, solve the quadratic, then solve back for x using both signs. (Cambridge 9709 only.)</figcaption>
+</figure>
+
 
 ## Worked reminders
 
@@ -132,12 +144,6 @@ In set notation this is {x: −3 < x < 3} ∩ {x: x ≥ −1/2} = [−1/2, 3).
 
 **Impossible or always true.** If the discriminant is negative, the curve never meets the axis. Then x² + x + 3 > 0 is true for all real x, while x² + x + 3 < 0 has no solution.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-level-aqa-mathematics-quadratics-and-inequalities--08-disguised-quadratic.webp" width="900" height="1255" alt="With u = x^2 the equation x^4 - 5x^2 + 4 = 0 becomes u^2 - 5u + 4 = 0 with roots u = 1 and 4. Going back gives x = -2, -1, 1 and 2, the four x-intercepts of the quartic." loading="lazy">
-  <figcaption>Substitute u for the repeated function, solve the quadratic, then solve back for x using both signs. (Cambridge 9709 only.)</figcaption>
-</figure>
-
-
 ## Region reminders
 
 | Inequality | Boundary | Test (0, 0) | Shade |
@@ -151,6 +157,11 @@ In set notation this is {x: −3 < x < 3} ∩ {x: x ≥ −1/2} = [−1/2, 3).
 Several inequalities together give the **overlap** of their regions. A vertex of the region is where two boundaries meet: solve the two equations simultaneously. A vertex on a dashed boundary is not in the region. Example: the lines y = x and x + 2y = 12 meet where x + 2x = 12, so at (4, 4); the line x + 2y = 12 also meets the y-axis at (0, 6). To write inequalities for a drawn region, find the equation of each boundary, read solid or dashed, then test a point inside R to choose the sign.
 
 <figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-mathematics-quadratics-and-inequalities--04-line-meets-curve.webp" width="900" height="940" alt="Parabola y = x^2 with three parallel lines of gradient 2. Substituting gives discriminants 16, 0 and -8: two intersections, a tangent at (1, 1), and no intersection." loading="lazy">
+  <figcaption>After substitution, the discriminant shows whether the line cuts, touches or misses the curve.</figcaption>
+</figure>
+
+<figure class="topic-figure">
   <img src="https://img.marlbridge.com/a-level-aqa-mathematics-quadratics-and-inequalities--06-inequality-region.webp" width="900" height="990" alt="Solid parabola y = x^2 - 4x and dotted line y = x + 6 meet at (-1, 5) and (6, 12). The region R between them is shaded; the test point (1, 0) satisfies both inequalities. Solid means included, dotted means excluded." loading="lazy">
   <figcaption>Solid boundaries include their values, dotted ones do not; test a point to choose the side to shade. (Edexcel IAL / AQA content.)</figcaption>
 </figure>
@@ -162,6 +173,12 @@ Several inequalities together give the **overlap** of their regions. A vertex of
 - **"And" vs "or":** between the roots uses "and", outside the roots uses "or".
 - **Strict vs non-strict:** x = 11 is included in the fraction example in the guide because both sides are equal there. A value that makes a denominator zero is always excluded, even with ≥ or ≤.
 - **Region vs line:** a line is a set of points satisfying an equation. A region is a set of points satisfying an inequality.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-mathematics-quadratics-and-inequalities--01-completing-the-square.webp" width="900" height="910" alt="Graph of y = -2x^2 + 8x + 3 rewritten as -2(x - 2)^2 + 11. The vertex (2, 11) is the maximum because a is negative, the line of symmetry is x = 2, the y-intercept is 3 and the roots are about -0.35 and 4.35." loading="lazy">
+  <figcaption>Completed-square form gives the vertex, line of symmetry and maximum value at a glance.</figcaption>
+</figure>
+
 
 ## Checking an answer
 

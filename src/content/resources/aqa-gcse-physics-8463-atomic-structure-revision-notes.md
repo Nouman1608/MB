@@ -109,6 +109,11 @@ deflected (charged centre); very few bounced back (tiny, dense centre holding mo
   <figcaption>Each alpha-scattering observation supports one feature of the nuclear atom.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-matter--06-atom-models.webp" width="900" height="940" alt="Four pictures in order: Dalton’s solid ball, Thomson’s plum pudding with electrons set in positive charge, Rutherford’s tiny dense nucleus with electrons far away, and Bohr’s electrons in fixed shells. An atom is about 10 to the minus 10 metres across." loading="lazy">
+  <figcaption>The atomic model changed from a solid ball to a nuclear atom with electrons in shells.</figcaption>
+</figure>
+
 
 ## 4.4.2 Atoms and nuclear radiation
 

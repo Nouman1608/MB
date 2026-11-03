@@ -121,6 +121,11 @@ Learn the chain in this order.
   <figcaption>Camouflaged green models survive better on green grass.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-variation-and-selection--05-natural-selection.webp" width="900" height="1110" alt="Ten beetles per row. Generation 1 has 3 brown and 7 green. Birds eat green beetles more often, leaving 3 brown and 2 green. Survivors breed, giving 6 brown of 10 in generation 2, and after many generations 9 brown of 10. Illustrative numbers show the brown allele becoming more common." loading="lazy">
+  <figcaption>Better-adapted individuals survive and breed, so their alleles become more common.</figcaption>
+</figure>
+
 
 ## B5.2d Evolution and new species
 
@@ -157,6 +162,16 @@ Reducing resistance: do not use antibiotics for viral infections, finish prescri
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/ocr-gcse-biology-variation-natural-selection-evolution-and--01-archaeopteryx-and-gaps.webp" width="900" height="940" alt="A drawing of Archaeopteryx with feathered wings, a toothed beak and a long bony tail. Labels mark the feathers as bird-like and the teeth and bony tail as reptile-like. Four small cards give the lesson reasons the fossil record is incomplete: soft bodies decay, organisms died where fossils cannot form, rock movement destroys fossils, and many fossils are not yet found." loading="lazy">
   <figcaption>Archaeopteryx shows a mixture of bird and reptile features, and gaps in the fossil record have four causes.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-variation-and-selection--06-antibiotic-resistance.webp" width="900" height="1190" alt="Five dishes of bacteria: a random mutation makes one bacterium resistant; the antibiotic kills the six non-resistant ones; the survivor has less competition; it reproduces and passes on the allele; a resistant strain forms quickly." loading="lazy">
+  <figcaption>The mutation was already there; the antibiotic selected the resistant bacterium.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-drugs--04-resistance-develops.webp" width="900" height="1290" alt="Extended. Four steps of natural selection in bacteria: one of ten bacteria has a random mutation making it resistant; the antibiotic kills the nine non-resistant ones; the survivor divides and passes on the gene; later all bacteria are resistant and the antibiotic no longer works." loading="lazy">
+  <figcaption>The antibiotic selects resistant bacteria that already exist; it does not cause the mutation.</figcaption>
 </figure>
 
 
@@ -227,6 +242,12 @@ Reducing resistance: do not use antibiotics for viral infections, finish prescri
 10. It stores seeds, and so genetic variation, that can restore species if wild populations are lost.
 11. Each independently reached the idea of evolution by natural selection, and their work was presented together.
 12. A group of organisms that can breed together to produce fertile offspring.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-variation-natural-selection-evolution-and--02-resistant-doubling.webp" width="900" height="990" alt="A bar chart of resistant cells over 6 hours, starting at 5 cells and doubling every 30 minutes. The bars stay almost flat for the first hours and then climb to 20 480 after 12 doublings. The calculation 5 x 2^12 = 5 x 4096 = 20 480 is shown below." loading="lazy">
+  <figcaption>Five resistant cells become 20 480 after twelve 30-minute doublings.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

@@ -57,11 +57,6 @@ Net result for one glucose: 2 ATP used, 4 ATP made, so a net gain of **2 ATP**, 
   <figcaption>Glycolysis uses 2 ATP and makes 4, a net gain of 2 ATP, 2 reduced NAD and 2 pyruvate.</figcaption>
 </figure>
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-level-biology-9700-energy-and-respiration--05-respiration-tally.webp" width="900" height="860" alt="Stacked bars show the CO2, reduced NAD, reduced FAD and ATP made by each stage per glucose: 6 CO2, 10 reduced NAD, 2 reduced FAD and 4 ATP made directly." loading="lazy">
-  <figcaption>Six CO2 account for all six carbons of glucose; most energy is still held in 12 reduced coenzymes.</figcaption>
-</figure>
-
 
 ## 3.3.3.2 Anaerobic respiration
 
@@ -132,6 +127,12 @@ Reduced NAD and reduced FAD are the **reduced coenzymes**. Most of the energy fr
 - Carbon dioxide = 3 × 0.40 = **1.2 mmol**.
 - Reduced NAD = 4 × 0.40 = **1.6 mmol**; reduced FAD = **0.40 mmol**; ATP (Krebs) = **0.40 mmol**.
 - ATP from reduced coenzymes = (1.6 × 2.5) + (0.40 × 1.5) = 4.0 + 0.60 = **4.6 mmol**.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-energy-and-respiration--05-respiration-tally.webp" width="900" height="860" alt="Stacked bars show the CO2, reduced NAD, reduced FAD and ATP made by each stage per glucose: 6 CO2, 10 reduced NAD, 2 reduced FAD and 4 ATP made directly." loading="lazy">
+  <figcaption>Six CO2 account for all six carbons of glucose; most energy is still held in 12 reduced coenzymes.</figcaption>
+</figure>
+
 
 ### Oxidative phosphorylation (inner mitochondrial membrane)
 

@@ -220,6 +220,12 @@ Bexley Reach Print has a new production manager. In her first month she sets wee
 9. It is quick and clear, which helps in a crisis or with new staff who need instruction.
 10. It ignores the context. Effectiveness depends on staff skills, time, risk and what the business is trying to achieve.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-business-understanding-management-leadership-and-decision-making--02-alpha-beta-comparison.webp" width="900" height="1070" alt="Paired bars: labour turnover 37.5% v 10%, output per employee 180 v 170, defect rate 5% v 2%, replacement cost 22,500 v 5,000 pounds." loading="lazy">
+  <figcaption>Alpha makes slightly more per head but loses over a third of its staff.</figcaption>
+</figure>
+
+
 ## Where marks are usually lost
 
 - Listing the five activities of a manager with no link to the business in the question.

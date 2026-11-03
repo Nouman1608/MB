@@ -192,6 +192,12 @@ Remember that the same carbon atom can pass through several of these steps in tu
 11. 423.6 − 421.0 = 2.6; 2.6 ÷ 421.0 × 100 = 0.62%.
 12. Algae block light and die, saprophytic bacteria multiply and use oxygen in aerobic respiration.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-biology-energy-transfer-and-productivity-in-ecosystems--09-succession.webp" width="900" height="1050" alt="Four quarry floors aged 5, 20, 50 and 120 years show soil depth rising from 0.5 to 25 cm. Plant species per 100 square metres rise from 3 to 22 at 50 years then fall to 19 at 120 years as light at the ground drops from 100% to 8%." loading="lazy">
+  <figcaption>Each stage changes soil and light for the next; diversity can fall under a dense canopy.</figcaption>
+</figure>
+
+
 ## Where marks are usually lost
 
 - Writing "nutrients" instead of nitrate, ammonium or carbon dioxide.

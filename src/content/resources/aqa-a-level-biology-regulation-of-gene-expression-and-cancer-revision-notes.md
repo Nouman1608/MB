@@ -203,6 +203,12 @@ Phenotype is the result of genotype and environment together. Epigenetics is one
 - Writing "cancer" for any tumour, or "benign cancer".
 - Calling a correlation proof, or ignoring sample size in an evaluation.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-biology-gene-mutations-and-stem-cells--01-mutation-types.webp" width="900" height="1108" alt="The same nine-base gene ATGCTTGGC is shown after each mutation with changed bases in gold and lost bases as dashed boxes. Substitution keeps nine bases, addition gives ten, deletion eight, duplication of GGC twelve, inversion of the last six bases (reads GCCAAG) keeps nine, and translocation moves CTT to the other end. OCR names only substitution, insertion and deletion." loading="lazy">
+  <figcaption>Six mutation types shown as base strips; duplication, inversion and translocation are AQA only.</figcaption>
+</figure>
+
+
 ## Official syllabus
 
 AQA AS and A-level Biology specification (7401 and 7402), for first teaching 2015, sections 3.8.2.2 and 3.8.2.3 (version 1.5), published by AQA.

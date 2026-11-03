@@ -88,11 +88,6 @@ In the electrolyte the **ions** move. In the wires, **electrons** move.
 Lead(II) bromide must be heated in a **fume cupboard**: bromine is toxic. Very dilute sodium chloride solution gives oxygen as well at the anode.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/edexcel-igcse-chemistry-4ch1-electrolysis--01-cuso4-oxygen-calc.webp" width="900" height="1030" alt="A chain of four steps: 0.254 g of copper is 0.00400 mol; 2 electrons per copper gives 0.00800 mol of electrons; 4 electrons per O2 gives 0.00200 mol O2; times 24 000 cm3 per mol gives 48 cm3 of oxygen." loading="lazy">
-  <figcaption>The same electrons link the copper at the cathode to the oxygen at the anode.</figcaption>
-</figure>
-
-<figure class="topic-figure">
   <img src="https://img.marlbridge.com/electrolysis-and-fuel-cells--05-copper-sulfate-electrodes.webp" width="900" height="1200" alt="Blue copper(II) sulfate solution is electrolysed twice. With graphite, copper coats the cathode and oxygen bubbles form at the anode. With copper electrodes copper again deposits, but the anode dissolves and gets smaller." loading="lazy">
   <figcaption>Copper deposits at the cathode either way; the anode gives oxygen with graphite but dissolves if it is copper.</figcaption>
 </figure>
@@ -194,6 +189,11 @@ The anode product is the same in each pair because the halide wins in concentrat
 9. n(Cu) = 1.27 ÷ 63.5 = 0.0200 mol; n(O₂) = 0.0200 ÷ 2 = 0.0100 mol; volume = 0.0100 × 24 000 = **240 cm³**.
 10. Pb²⁺ + 2e⁻ → Pb, so n(Pb) = 0.0100 ÷ 2 = 0.00500 mol; mass = 0.00500 × 207 = **1.035 g** (1.04 g to 3 s.f.).
 11. Cu²⁺ and OH⁻ ions are discharged; H⁺ and SO₄²⁻ ions remain, which is sulfuric acid.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-chemistry-4ch1-electrolysis--01-cuso4-oxygen-calc.webp" width="900" height="1030" alt="A chain of four steps: 0.254 g of copper is 0.00400 mol; 2 electrons per copper gives 0.00800 mol of electrons; 4 electrons per O2 gives 0.00200 mol O2; times 24 000 cm3 per mol gives 48 cm3 of oxygen." loading="lazy">
+  <figcaption>The same electrons link the copper at the cathode to the oxygen at the anode.</figcaption>
+</figure>
 
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/electrolysis-and-fuel-cells--01-molten-electrolysis.webp" width="900" height="1170" alt="A crucible of molten lead(II) bromide has two graphite electrodes joined to a power supply. Pb2+ ions move to the cathode and form lead; Br- ions move to the anode and form bromine. Electrons flow from the supply to the cathode and back from the anode (Extended), with the two half-equations." loading="lazy">

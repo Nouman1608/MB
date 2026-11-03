@@ -228,6 +228,11 @@ That explains what you can and cannot see:
 - Ribosomes (about 20-30 nm) and the cell surface membrane (well under 200 nm thick) are below the limit, so the light microscope cannot show them.
 
 <figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-biology-eukaryotic-and-prokaryotic-cell-structure--03-energy-organelles.webp" width="900" height="890" alt="A mitochondrion with a double membrane, an inner membrane folded into cristae and a fluid matrix containing circular DNA and 70S ribosomes; it carries out aerobic respiration. Below, a chloroplast with a double membrane, grana (stacks of thylakoids) in the stroma, a starch grain, circular DNA and 70S ribosomes; it carries out photosynthesis in plant cells." loading="lazy">
+  <figcaption>Both organelles have a double membrane, their own circular DNA and 70S ribosomes.</figcaption>
+</figure>
+
+<figure class="topic-figure">
   <img src="https://img.marlbridge.com/a-level-aqa-biology-eukaryotic-and-prokaryotic-cell-structure--05-prokaryote-virus.webp" width="900" height="1060" alt="A rod-shaped bacterium with a capsule, cell wall, cell surface membrane, no nucleus, a circular DNA loop free in the cytoplasm, a plasmid, small 70S ribosomes, a flagellum and pili. Below, a virus: a nucleic acid core inside a protein capsid, with attachment proteins and, in some viruses, an envelope. A virus has no cytoplasm or ribosomes and is not a cell." loading="lazy">
   <figcaption>A bacterium has no nucleus or membrane-bound organelles; a virus is acellular.</figcaption>
 </figure>

@@ -192,17 +192,6 @@ Leave answers in terms of π if the question says so, or if there is no calculat
 
 Worked reminder (semicircle on one side of a square of side 8 cm): the outside edge is three straight sides of 8 cm and an arc of ½ × π × 8 = 4π. The perimeter is 24 + 4π = 36.6 cm (3 s.f.). The shared side is inside, so it is not counted.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ocr-gcse-mathematics-units-compound-measures-maps-bearings-perimeter--01-arc-and-sector.webp" width="900" height="1080" alt="A circle of radius 9 cm with an 80 degree sector shaded and its arc in orange: 80/360 of the circumference gives 4 pi, about 12.57 cm. Below, a sector of radius 7 cm and angle 130 degrees has arc 15.88 cm plus two radii of 7 cm, so its perimeter is about 29.9 cm." loading="lazy">
-  <figcaption>The arc is a fraction of the circumference; the perimeter of a sector also includes the two radii.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ocr-gcse-mathematics-units-compound-measures-maps-bearings-perimeter--05-rectilinear-corner-notch.webp" width="900" height="796" alt="A 14 cm by 9 cm rectangle with a 5 cm by 4 cm notch removed from its top right corner. Across the outline is 9 + 5 + 14 = 28 cm and down it is 9 + 4 + 5 = 18 cm, so the perimeter is 46 cm, equal to 2 x (14 + 9). The notch removes 5 cm and 4 cm of outline and adds back 5 cm and 4 cm." loading="lazy">
-  <figcaption>Cutting a corner notch moves the outline inwards but keeps its length: the perimeter is that of the outer rectangle.</figcaption>
-</figure>
-
-
 ## Quick self-test
 
 1. Convert 5.2 km to metres.
@@ -233,6 +222,17 @@ Worked reminder (semicircle on one side of a square of side 8 cm): the outside e
 11. Arc = 36/360 × 20π = 2π cm. Perimeter = 20 + 2π = 26.3 cm.
 12. 5π + 10 = 25.7 cm
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-mathematics-units-compound-measures-maps-bearings-perimeter--01-arc-and-sector.webp" width="900" height="1080" alt="A circle of radius 9 cm with an 80 degree sector shaded and its arc in orange: 80/360 of the circumference gives 4 pi, about 12.57 cm. Below, a sector of radius 7 cm and angle 130 degrees has arc 15.88 cm plus two radii of 7 cm, so its perimeter is about 29.9 cm." loading="lazy">
+  <figcaption>The arc is a fraction of the circumference; the perimeter of a sector also includes the two radii.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-mathematics-units-compound-measures-maps-bearings-perimeter--05-rectilinear-corner-notch.webp" width="900" height="796" alt="A 14 cm by 9 cm rectangle with a 5 cm by 4 cm notch removed from its top right corner. Across the outline is 9 + 5 + 14 = 28 cm and down it is 9 + 4 + 5 = 18 cm, so the perimeter is 46 cm, equal to 2 x (14 + 9). The notch removes 5 cm and 4 cm of outline and adds back 5 cm and 4 cm." loading="lazy">
+  <figcaption>Cutting a corner notch moves the outline inwards but keeps its length: the perimeter is that of the outer rectangle.</figcaption>
+</figure>
+
+
 ## Where marks are usually lost
 
 - Using 100 or 1000 for area and volume conversions instead of 10 000 and 1 000 000.
@@ -249,3 +249,9 @@ Worked reminder (semicircle on one side of a square of side 8 cm): the outside e
 ## Official syllabus
 
 OCR GCSE (9-1) Mathematics J560 specification, Version 2.1 (August 2026), sections 10.01 and 10.02, published by OCR.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-mensuration--04-compound-shape.webp" width="900" height="830" alt="A 6 by 8 cm rectangle has a semicircle of diameter 6 cm on top. Area is 48 + 14.14 = 62.14 cm2. The perimeter is 8 + 8 + 6 + 3 pi = 31.42 cm; the dashed join line is not an edge." loading="lazy">
+  <figcaption>Split a compound shape into simple shapes for the area, and count only the outside edge for the perimeter.</figcaption>
+</figure>
+

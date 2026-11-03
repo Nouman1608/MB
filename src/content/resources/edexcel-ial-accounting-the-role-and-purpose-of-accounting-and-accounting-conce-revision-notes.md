@@ -72,6 +72,11 @@ For full explanations use the [study guide](/resources/edexcel-ial-accounting-th
   <figcaption>Managers use accounting information for five purposes, shown with the Ishgrove Bikes figures.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-edexcel-accounting-principles-and-double-entry-bookkeeping--02-who-reads-accounts.webp" width="900" height="1110" alt="A hub labelled Accounts links to six users: shareholders (profit and dividends), lenders (can they repay), suppliers (will bills be paid), managers (plan and control), employees (secure jobs and pay) and government (tax due). A highlighted box shows shareholders wanting dividends now while lenders prefer profit kept in." loading="lazy">
+  <figcaption>Different users want different things from the same accounts, and their needs can conflict.</figcaption>
+</figure>
+
 
 ## The nine concepts and conventions (1.1.8 and 1.1.9)
 
@@ -97,12 +102,6 @@ For full explanations use the [study guide](/resources/edexcel-ial-accounting-th
 | Consistency and comparability | Consistency is one business over time; IAS support comparison between businesses |
 | Going concern and prudence | Going concern is the basis for the whole set of statements; prudence guides individual judgements |
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/edexcel-ial-accounting-the-role-and-purpose-of-accounting-and-accounting-conce--08-going-concern-oven.webp" width="900" height="810" alt="An oven with a carrying value of 9,000 dollars stays at 9,000 if trading continues. If the owner will close next month and the oven would sell for 3,500, the 5,500 fall means going concern is no longer suitable." loading="lazy">
-  <figcaption>The going concern assumption keeps assets at carrying value; closure changes that.</figcaption>
-</figure>
-
-
 ## Method in steps: naming a concept in an exam answer
 
 1. Quote or paraphrase the key fact in the scenario.
@@ -111,6 +110,22 @@ For full explanations use the [study guide](/resources/edexcel-ial-accounting-th
 4. State the effect on a figure: profit, an asset, a liability or comparability.
 
 Example: "Pendry Tools values 30 damaged units at 7 instead of cost 8. This is prudence, which stops assets being overstated, so inventory falls from 240 to 210 and profit falls by 30."
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-accounting-the-role-and-purpose-of-accounting-and-accounting-conce--10-fifo-lifo-consistency.webp" width="900" height="820" alt="100 units are sold for 2,000 dollars. With opening units at 10 and later purchases at 12, FIFO gives cost of sales 1,000 and profit 1,000, while LIFO gives 1,200 and 800. The 200 difference comes from the policy alone." loading="lazy">
+  <figcaption>Changing policy alone can move profit by 200, so policies must stay consistent.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-accounting-the-role-and-purpose-of-accounting-and-accounting-conce--06-ial-materiality.webp" width="900" height="826" alt="A 14 dollar stapler is 0.0027 percent of 520,000 revenue and is expensed at once. A 9,500 machine is 15.3 percent of 62,000 profit and is a non-current asset." loading="lazy">
+  <figcaption>Materiality compares an item with revenue or profit to decide how to record it.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-accounting-the-role-and-purpose-of-accounting-and-accounting-conce--08-ial-money-measurement.webp" width="900" height="836" alt="Items with a money amount, such as land bought for 80,000 or a machine for 9,500, are recorded. Workforce skill, loyal customers and reputation have no reliable amount and are not recorded." loading="lazy">
+  <figcaption>Only items that can be measured in money are recorded.</figcaption>
+</figure>
+
 
 ## Small worked reminders
 
@@ -125,13 +140,13 @@ Example: "Pendry Tools values 30 damaged units at 7 instead of cost 8. This is p
 **Business entity.** The owner takes goods for personal use: debit drawings, credit purchases. The business expense is not increased.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/edexcel-ial-accounting-the-role-and-purpose-of-accounting-and-accounting-conce--07-realisation-timeline.webp" width="900" height="800" alt="A timeline from a 20 March order and 22 March 100 dollar deposit to delivery on 2 April and the 900 balance on 20 April, with a 31 March year end. No revenue is recognised before delivery and the deposit is a liability; the 1,000 is April revenue." loading="lazy">
-  <figcaption>Revenue is recognised when goods are supplied, not when ordered or paid.</figcaption>
+  <img src="https://img.marlbridge.com/edexcel-ial-accounting-the-role-and-purpose-of-accounting-and-accounting-conce--07-ial-business-entity.webp" width="900" height="660" alt="The owner takes games costing 150 dollars. The business records debit Drawings 150 and credit Purchases 150. Profit is unaffected but capital falls by 150." loading="lazy">
+  <figcaption>Goods taken by the owner are drawings, not a business expense.</figcaption>
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/edexcel-ial-accounting-the-role-and-purpose-of-accounting-and-accounting-conce--07-ial-business-entity.webp" width="900" height="660" alt="The owner takes games costing 150 dollars. The business records debit Drawings 150 and credit Purchases 150. Profit is unaffected but capital falls by 150." loading="lazy">
-  <figcaption>Goods taken by the owner are drawings, not a business expense.</figcaption>
+  <img src="https://img.marlbridge.com/a-level-edexcel-accounting-principles-and-double-entry-bookkeeping--05-stock-lower-of-cost-nrv.webp" width="900" height="1110" alt="Three stock lines each show cost and NRV bars with a tick on the lower. Desk lamps use cost (2,160 against 3,360); floor lamps use NRV (1,360 against 1,800); lampshades use NRV (900 against 1,200). Item by item gives 4,420; comparing totals would keep 5,160 and hide a 740 loss." loading="lazy">
+  <figcaption>Stock is valued at the lower of cost and NRV for each item, not on the totals.</figcaption>
 </figure>
 
 
@@ -150,11 +165,6 @@ Example: "Pendry Tools values 30 damaged units at 7 instead of cost 8. This is p
 | Business entity | Drawings and capital |
 
 Use this table as a prompt when an exam question asks what a concept does to a figure, not only what it means.
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/edexcel-ial-accounting-the-role-and-purpose-of-accounting-and-accounting-conce--06-ial-materiality.webp" width="900" height="826" alt="A 14 dollar stapler is 0.0027 percent of 520,000 revenue and is expensed at once. A 9,500 machine is 15.3 percent of 62,000 profit and is a non-current asset." loading="lazy">
-  <figcaption>Materiality compares an item with revenue or profit to decide how to record it.</figcaption>
-</figure>
 
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/a-level-edexcel-accounting-principles-and-double-entry-bookkeeping--04-concepts-change-profit.webp" width="900" height="880" alt="A horizontal waterfall starting from 52,000 pounds draft profit. Business entity adds back 1,800 (holiday was drawings), accruals subtracts 1,200 (electricity), prudence subtracts 900 (inventory written down from 2,400 to net realisable value 1,500). Corrected profit is 51,700 pounds." loading="lazy">
@@ -180,12 +190,6 @@ IAS are agreed rules on recognising, measuring and presenting transactions. Bene
 | Allowance for irrecoverable debts | Provision for doubtful debts |
 | Inventory count | Stock take |
 | Other payables | Accruals |
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/edexcel-ial-accounting-the-role-and-purpose-of-accounting-and-accounting-conce--09-ial-ias-terms.webp" width="900" height="1106" alt="Ten IAS terms are paired with their older terms, from statement of financial position (balance sheet) to allowance for irrecoverable debts (provision for doubtful debts). IAS 2 requires lower of cost and NRV; IAS 7 covers cash flows." loading="lazy">
-  <figcaption>Learn the IAS term and its older equivalent; IAS 2 and IAS 7 link to prudence and cash flows.</figcaption>
-</figure>
-
 
 ## Quick self-test
 
@@ -216,8 +220,33 @@ IAS are agreed rules on recognising, measuring and presenting transactions. Bene
 11. Accrue it: a current liability (other payables) of 210, and profit is reduced by 210.
 
 <figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-accounting-the-role-and-purpose-of-accounting-and-accounting-conce--07-realisation-timeline.webp" width="900" height="800" alt="A timeline from a 20 March order and 22 March 100 dollar deposit to delivery on 2 April and the 900 balance on 20 April, with a 31 March year end. No revenue is recognised before delivery and the deposit is a liability; the 1,000 is April revenue." loading="lazy">
+  <figcaption>Revenue is recognised when goods are supplied, not when ordered or paid.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-accounting-the-role-and-purpose-of-accounting-and-accounting-conce--08-going-concern-oven.webp" width="900" height="810" alt="An oven with a carrying value of 9,000 dollars stays at 9,000 if trading continues. If the owner will close next month and the oven would sell for 3,500, the 5,500 fall means going concern is no longer suitable." loading="lazy">
+  <figcaption>The going concern assumption keeps assets at carrying value; closure changes that.</figcaption>
+</figure>
+
+<figure class="topic-figure">
   <img src="https://img.marlbridge.com/edexcel-ial-accounting-the-role-and-purpose-of-accounting-and-accounting-conce--09-historic-cost-land.webp" width="900" height="790" alt="Land bought for 80,000 dollars is now valued at 140,000 by an agent. The books keep 80,000, so the 60,000 rise is not recorded." loading="lazy">
   <figcaption>Historic cost records the price paid, not the current market value.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-accounting-the-role-and-purpose-of-accounting-and-accounting-conce--09-ial-ias-terms.webp" width="900" height="1106" alt="Ten IAS terms are paired with their older terms, from statement of financial position (balance sheet) to allowance for irrecoverable debts (provision for doubtful debts). IAS 2 requires lower of cost and NRV; IAS 7 covers cash flows." loading="lazy">
+  <figcaption>Learn the IAS term and its older equivalent; IAS 2 and IAS 7 link to prudence and cash flows.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-edexcel-accounting-principles-and-double-entry-bookkeeping--09-prepaid-rent.webp" width="900" height="940" alt="Twelve monthly boxes show 12,000 pounds of rent paid on 1 October with a 31 December year end. Three months (3,000) are an expense in the income statement; nine months (9,000) are a prepayment shown as a current asset." loading="lazy">
+  <figcaption>Only the part of rent used in the year is an expense; the rest is a prepayment.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-edexcel-accounting-principles-and-double-entry-bookkeeping--08-sale-or-return.webp" width="900" height="1010" alt="Goods with selling price 6,000 pounds and cost 4,000 are sent to a customer who has not accepted them by the year end. Revenue and trade receivables each fall by 6,000 and closing inventory rises by 4,000 at cost, so profit falls by 2,000, from 38,500 to 36,500." loading="lazy">
+  <figcaption>Until the customer accepts, goods on sale or return are inventory at cost, not revenue.</figcaption>
 </figure>
 
 

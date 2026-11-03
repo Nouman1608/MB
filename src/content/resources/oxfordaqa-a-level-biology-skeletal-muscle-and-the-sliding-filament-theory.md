@@ -61,6 +61,12 @@ Under a light microscope a longitudinal section shows parallel fibres with regul
 
 Draw one sarcomere before you attempt any structure question: Z line, half an I band, the A band with the H zone in its middle, half an I band, Z line.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-control-and-coordination--01-reflex-arc.webp" width="900" height="1270" alt="A cross-section of the spinal cord shows the reflex pathway from a hot stimulus. The receptor excites a sensory neurone whose cell body lies in the dorsal root swelling; it synapses with a relay neurone in the grey matter, which synapses with a motor neurone leaving by the ventral root to a muscle. Impulses also pass up the white matter to the brain. The lesson example gives a 20 ms reflex time." loading="lazy">
+  <figcaption>The three-neurone reflex arc: receptor, sensory, relay and motor neurones, effector (Edexcel adds roots and grey/white matter).</figcaption>
+</figure>
+
+
 ## The sliding filament theory
 
 Thin filaments are drawn in between the thick filaments. **No filament changes length.** The Z lines are pulled towards each other, so the sarcomere, the myofibril and the muscle shorten.

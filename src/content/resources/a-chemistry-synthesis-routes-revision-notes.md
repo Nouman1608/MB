@@ -139,12 +139,6 @@ If a question's product has one more carbon than the starting material, a nitril
 
 Choosing NaBH₄ when a nitrile must be reduced is a common error.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-chemistry-synthesis-routes-revision-notes--01-reducing-agent-grid.webp" width="900" height="920" alt="A grid of NaBH4, LiAlH4 and H2/Ni against aldehydes and ketones, nitriles, acids and esters, and C=C. NaBH4 reduces only carbonyls. LiAlH4 reduces everything except isolated C=C. H2/Ni reduces nitriles and C=C but not acids or esters." loading="lazy">
-  <figcaption>Choose the reducing agent that can reach the group you want to change.</figcaption>
-</figure>
-
-
 ## Exam traps
 
 - Writing "oxidise" without naming the reagent **and** the conditions.
@@ -155,12 +149,6 @@ Choosing NaBH₄ when a nitrile must be reduced is a common error.
 - Routes that lose or gain carbons with no reaction that could account for it.
 - Forgetting the below-10°C condition for diazonium salt formation.
 - Naming a reaction type without also naming the by-product released.
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-chemistry-synthesis-routes-revision-notes--02-solvent-decides.webp" width="900" height="800" alt="2-Bromopropane with NaOH(aq) and heat gives propan-2-ol by substitution; with NaOH in ethanol and heat it gives propene by elimination." loading="lazy">
-  <figcaption>The solvent decides substitution or elimination.</figcaption>
-</figure>
-
 
 ## Self-test
 
@@ -173,3 +161,14 @@ Choosing NaBH₄ when a nitrile must be reduced is a common error.
 7. In the route benzoic acid → benzoyl chloride → benzamide, name the reaction type and by-product of the final step.
 
 **Answers:** 1. KCN in ethanol under reflux to form the nitrile, then dilute HCl(aq) under reflux to hydrolyse it to the carboxylic acid. 2. Distil the aldehyde off as it forms rather than refluxing, so it cannot be oxidised further. 3. The solvent — NaOH(aq) and heat gives nucleophilic substitution to the alcohol; NaOH in ethanol and heat gives elimination to the alkene. 4. Conc. HNO₃ with conc. H₂SO₄ between 25 and 60 °C, then Sn with conc. HCl, then NaOH to liberate the amine. 5. LiAlH₄ in dry ether (or H₂/Ni); NaBH₄ is not powerful enough to reduce a nitrile. 6. The temperature must stay below 10°C, since the diazonium salt decomposes above this temperature before it can be used. 7. Condensation (addition-elimination), using excess ammonia at room temperature; the by-product is ammonium chloride, NH₄Cl.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-chemistry-synthesis-routes-revision-notes--01-reducing-agent-grid.webp" width="900" height="920" alt="A grid of NaBH4, LiAlH4 and H2/Ni against aldehydes and ketones, nitriles, acids and esters, and C=C. NaBH4 reduces only carbonyls. LiAlH4 reduces everything except isolated C=C. H2/Ni reduces nitriles and C=C but not acids or esters." loading="lazy">
+  <figcaption>Choose the reducing agent that can reach the group you want to change.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-chemistry-synthesis-routes-revision-notes--02-solvent-decides.webp" width="900" height="800" alt="2-Bromopropane with NaOH(aq) and heat gives propan-2-ol by substitution; with NaOH in ethanol and heat it gives propene by elimination." loading="lazy">
+  <figcaption>The solvent decides substitution or elimination.</figcaption>
+</figure>
+

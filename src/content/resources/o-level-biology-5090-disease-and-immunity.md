@@ -169,6 +169,11 @@ The toxin causes chloride ions to be secreted into the small intestine. Water fo
   <figcaption>Each public-health measure blocks one transmission route.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-diseases-and-immunity--08-cholera.webp" width="900" height="1100" alt="Extended. Water contaminated with sewage and cholera bacteria is drunk. 1 The bacteria produce a toxin. 2 The toxin causes chloride ions to be secreted into the small intestine. 3 Water potential in the gut falls, so water moves in by osmosis from the blood and tissues. 4 The result is diarrhoea, dehydration and loss of ions from the blood." loading="lazy">
+  <figcaption>Toxin, then chloride ions, then osmosis, then diarrhoea and dehydration.</figcaption>
+</figure>
+
 
 ### Alcohol and tobacco (12.1.15–12.1.16)
 
@@ -223,6 +228,32 @@ The syllabus says "strong association", so describe a link.
 
 The more an antibiotic is used, the more chances resistant bacteria have to take over. So resistance is minimised by **using antibiotics only when essential**: not for viral infections, and not for minor infections the body can clear.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-drugs--01-what-is-a-drug.webp" width="900" height="1010" alt="Schematic. Caffeine in coffee, a painkiller and an antibiotic are taken into the body from outside, where each changes a chemical reaction. Insulin made by the pancreas inside the body is not taken in, so it is not a drug." loading="lazy">
+  <figcaption>A drug is taken into the body and changes chemical reactions in it; substances the body makes itself are not drugs.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-drugs--02-antibiotic-treatment.webp" width="900" height="1010" alt="Three steps. Bacteria reproduce and the infection grows; an antibiotic kills most of them, leaving a few; the immune system deals with the remainder and the person recovers." loading="lazy">
+  <figcaption>An antibiotic kills bacteria so the immune system can clear the rest.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-drugs--03-bacterium-vs-virus.webp" width="900" height="1010" alt="A bacterium is a living cell with cell wall, cell membrane, cytoplasm and a DNA loop, giving an antibiotic something to act on. A virus is a protein coat around genetic material, not a cell, so an antibiotic has nothing to act on." loading="lazy">
+  <figcaption>Antibiotics need cell structures to act on, so they work on bacteria and not on viruses.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-drugs--04-resistance-develops.webp" width="900" height="1290" alt="Extended. Four steps of natural selection in bacteria: one of ten bacteria has a random mutation making it resistant; the antibiotic kills the nine non-resistant ones; the survivor divides and passes on the gene; later all bacteria are resistant and the antibiotic no longer works." loading="lazy">
+  <figcaption>The antibiotic selects resistant bacteria that already exist; it does not cause the mutation.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-drugs--05-only-when-essential.webp" width="900" height="1010" alt="Extended. A cold or flu (virus) and a minor bacterial infection the body clears itself do not need antibiotics; a serious bacterial infection does. Fewer uses mean fewer chances to select resistant bacteria, so antibiotics keep working." loading="lazy">
+  <figcaption>Using antibiotics only when essential gives resistant bacteria fewer chances to be selected.</figcaption>
+</figure>
+
+
 ## 12.3 Immunity
 
 ### Antigens and antibodies (12.3.1–12.3.4)
@@ -233,6 +264,12 @@ The more an antibiotic is used, the more chances resistant bacteria have to take
   - **direct destruction** of the pathogen, or
   - **marking** the pathogen for destruction by **phagocytes**.
 - Specific antibodies have **complementary shapes** which fit specific antigens. An antibody against one pathogen does not fit the antigens of a different pathogen.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-diseases-and-immunity--04-antigen.webp" width="900" height="1090" alt="Extended. A pathogen has antigens with specific shapes. An antibody with a complementary shape fits and binds them; an antigen of a different shape does not fit, so there is no binding. Binding leads to direct destruction of the pathogen, or to marking it for destruction by a phagocyte." loading="lazy">
+  <figcaption>An antibody binds only the antigen whose shape is complementary to it.</figcaption>
+</figure>
+
 
 ### Active immunity and vaccination (12.3.5–12.3.7)
 
@@ -261,6 +298,17 @@ Explanation: more people had memory cells, so fewer became ill, and the pathogen
 **Worked example 3.** *After a first dose of a vaccine, antibody concentration peaked at 12 arbitrary units. After a second dose it peaked at 180 arbitrary units. How many times higher is the second peak? Explain the difference.*
 
 180 ÷ 12 = **15 times higher**. The first dose produced memory cells. At the second dose, memory cells respond quickly, so antibodies are made faster and in far greater amounts.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-biology-5090-disease-and-immunity--08-vaccination-cases-fall-94.webp" width="900" height="990" alt="Cases fell from 1250 to 75 a year as vaccination coverage rose from 40 to 90 percent: a fall of 1175, which is 94 percent." loading="lazy">
+  <figcaption>Cases fell by 94% as vaccination coverage rose from 40% to 90%.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-biology-5090-disease-and-immunity--09-antibody-peaks-12-and-180.webp" width="900" height="860" alt="The first dose gave a peak of 12 antibody units; the second gave 180, shown as 15 blocks of 12, so 15 times higher because memory cells respond quickly." loading="lazy">
+  <figcaption>The second-dose antibody peak is 15 times the first.</figcaption>
+</figure>
+
 
 ### Passive immunity (12.3.8–12.3.10)
 
@@ -292,6 +340,21 @@ So the immune system is weakened, other pathogens are not destroyed, and the per
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/o-level-biology-5090-disease-and-immunity--07-hiv-immune.webp" width="900" height="1120" alt="With a healthy immune system 6 of 6 lymphocytes work, many antibodies are made and pathogens are destroyed. After HIV, 2 of 6 lymphocytes work, fewer antibodies are made and pathogens are not destroyed, so AIDS may develop. Numbers are illustrative." loading="lazy">
   <figcaption>HIV destroys lymphocytes, so fewer antibodies are made.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-diseases-and-immunity--05-vaccination-memory.webp" width="900" height="1130" alt="Extended. Three steps: weakened pathogens or antigens go in; lymphocytes make antibodies; memory cells give long-term immunity. A sketch graph of antibody level against time shows a slow, small first response and, on meeting the same pathogen again, a fast, large second response." loading="lazy">
+  <figcaption>Memory cells make the second response faster and larger.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-diseases-and-immunity--06-herd-immunity.webp" width="900" height="1220" alt="Extended. Two grids of 40 people with one case each. With 20 percent vaccinated, 31 of 40 become ill; with 90 percent vaccinated, 2 of 40 become ill. A baby too young to be vaccinated surrounded by vaccinated people stays well." loading="lazy">
+  <figcaption>When most people are vaccinated the pathogen finds few people to infect.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-diseases-and-immunity--07-active-passive.webp" width="900" height="960" alt="Extended. Active immunity: own lymphocytes make the antibodies after infection or vaccination, memory cells are produced and protection is long-term. Passive immunity: antibodies come from another person, such as from a mother through the placenta or breast milk, no memory cells are produced and protection is short-term." loading="lazy">
+  <figcaption>Active immunity is made by you and lasts; passive immunity is borrowed and fades.</figcaption>
 </figure>
 
 

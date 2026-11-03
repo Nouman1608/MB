@@ -76,6 +76,12 @@ Myopia:        u = ∞, v = −2.5 m:   P = 1/(−2.5) = −0.40 D
 Hypermetropia: u = 0.25, v = −0.80: P = 4.00 − 1.25 = +2.75 D
 ```
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-medical-physics--09-aphy-medical-engine-cycle.webp" width="900" height="1050" alt="On a p-V graph the theoretical petrol cycle is two adiabatics joined by two constant-volume lines. The loop is clockwise, so it is an engine, and its area is the work per cycle: 380 J here. With 25 cycles a second in four cylinders that gives an indicated power of 38 kW." loading="lazy">
+  <figcaption>The area of the p-V loop is the work done per cycle, which gives indicated power.</figcaption>
+</figure>
+
+
 ## 3.10.2 Physics of the ear
 
 **Structure.** The pinna and canal carry sound to the eardrum. Three ossicles in the middle ear lever the vibration to the oval window, whose much smaller area raises the pressure to drive the fluid of the inner ear. In the cochlea, the basilar membrane vibrates and hair cells send nerve impulses; different frequencies respond most at different places.
@@ -222,6 +228,17 @@ Approximate values:
 | CT | High, 3D | Expensive | High dose |
 | MR | High, best soft tissue | Expensive, slow | Non-ionising; metal risk |
 | Gamma camera/PET | Lower, shows function | Needs tracer | Dose from tracer |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-medical-physics--07-aphy-medical-gamma-camera.webp" width="900" height="990" alt="Gamma photons from tracer in an organ pass through a lead collimator that only lets photons travelling straight along a hole through; photons at an angle are absorbed. Each photon makes a flash in the crystal, the photomultiplier tubes give pulses (largest from the nearest tube) and the computer uses them to add a count at that place in the image." loading="lazy">
+  <figcaption>A gamma camera forms an image of tracer distribution, one counted photon at a time.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-medical-physics--08-aphy-medical-pet.webp" width="900" height="1030" alt="A positron from a tracer such as fluorine-18 annihilates with an electron to give two 0.511 MeV gamma photons travelling in opposite directions. A ring of detectors records photons that arrive together; the source lies on the line joining the two detectors. Lines from many events cross at the tracer-rich tissue." loading="lazy">
+  <figcaption>PET detects pairs of back-to-back photons, so each coincidence marks a line through the source.</figcaption>
+</figure>
+
 
 ## Common errors
 

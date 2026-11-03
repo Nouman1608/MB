@@ -302,6 +302,11 @@ Do not acidify with sulfuric acid: it adds sulfate ions, so you would always see
   <figcaption>Acidify with dilute HCl or HNO3, then add BaCl2: a white precipitate shows sulfate ions.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-group-2-the-alkaline-earth-metals--08-halides-sulfuric-acid.webp" width="900" height="1075" alt="Tubes of NaCl, NaBr and NaI with concentrated sulfuric acid, beside a scale of sulfur oxidation number. Chloride leaves sulfur at +6, bromide reduces it to +4 (SO2), iodide reduces it to +4, 0 and minus 2 (SO2, S, H2S)." loading="lazy">
+  <figcaption>Larger halide ions are stronger reducing agents, so they reduce sulfuric acid further.</figcaption>
+</figure>
+
 
 ### BaSO₄ in medicine
 
@@ -322,6 +327,12 @@ concentration so the comparison is fair.
 
 Read each row from the trend: hydroxides get more soluble down the group, so the precipitate gets smaller;
 sulfates get less soluble, so it gets larger.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-group-2-the-alkaline-earth-metals--09-silver-nitrate-test.webp" width="900" height="920" alt="A grid of tubes for Cl-, Br- and I- shows precipitate colours with acidified silver nitrate and their solubility in dilute and concentrated ammonia. AgCl dissolves in dilute ammonia, AgBr only in concentrated, AgI in neither." loading="lazy">
+  <figcaption>Acidified AgNO3 gives white, cream and yellow precipitates; solubility in ammonia confirms which halide.</figcaption>
+</figure>
+
 
 ## Common errors
 

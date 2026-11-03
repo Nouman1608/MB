@@ -176,6 +176,11 @@ The natural effect keeps the Earth habitable. Human activity **enhances** it. Ni
   <figcaption>Complete combustion gives CO2; incomplete combustion gives CO and particulates.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/chemistry-of-the-environment--05-pollutant-matrix.webp" width="900" height="970" alt="A grid of six pollutants against global warming, acid rain, smog and harm to health, with each pollutant source. CO2 and methane cause warming; SO2 causes acid rain; oxides of nitrogen cause acid rain, smog and breathing harm; CO and particulates harm health." loading="lazy">
+  <figcaption>A quick map from each pollutant to its source and effects.</figcaption>
+</figure>
+
 
 ## C6.3g Potable water
 
@@ -196,6 +201,16 @@ The natural effect keeps the Earth habitable. Human activity **enhances** it. Ni
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/ocr-gcse-chemistry-earth-systems--08-es-water-routes.webp" width="900" height="740" alt="Ground water or fresh surface water: sedimentation, filtration, then sterilisation. This is the easiest route. Waste water needs extra stages first: screening, settling and bacteria breaking down organic matter, then the same steps as above. Salt water is hardest because desalination needs a lot of energy: distillation or reverse osmosis." loading="lazy">
   <figcaption>The treatment route depends on the water source, from easiest to hardest.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/chemistry-of-the-environment--02-water-treatment.webp" width="900" height="1170" alt="Three tanks in order: sedimentation and filtration removes solids, carbon treatment removes taste and smell, chlorination kills microbes. The final glass is safe to drink." loading="lazy">
+  <figcaption>Each treatment step does one job: solids, then taste and smell, then microbes.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/practical-techniques-titrations-chromatography-separation--07-distillation.webp" width="900" height="1215" alt="Simple distillation: salt solution is heated, water vapour passes through a condenser (water in at the bottom, out at the top) and pure water is collected while salt stays behind. Fractional distillation adds a fractionating column; ethanol, with the lower boiling point, boils first and is collected from ethanol and water." loading="lazy">
+  <figcaption>Simple distillation recovers a solvent; fractional distillation separates miscible liquids by boiling point.</figcaption>
 </figure>
 
 

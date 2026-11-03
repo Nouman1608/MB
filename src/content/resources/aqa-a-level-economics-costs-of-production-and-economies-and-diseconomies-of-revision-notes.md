@@ -169,6 +169,11 @@ Productivity example: a wage of 120 a day with 40 units per worker gives unit la
   <figcaption>Long-run average cost falls until the minimum efficient scale and rises beyond it.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-costs-of-production-economies-of-scale-revenue-and--08-internal-v-external-lrac.webp" width="900" height="1180" alt="Internal economies come from the firm growing and move it down along one LRAC curve. External economies come from the industry or area growing and shift the whole LRAC curve down for every firm." loading="lazy">
+  <figcaption>Internal economies move along the LRAC curve; external economies shift it down.</figcaption>
+</figure>
+
 
 ## Returns to scale and costs
 

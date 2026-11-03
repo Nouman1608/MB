@@ -88,6 +88,21 @@ These notes condense statement 4 (a to e) of 4.3.5 in the Pearson Edexcel Intern
   <figcaption>Different objectives call for different tools.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-aggregate-demand-supply--04-supply-side-shock.webp" width="900" height="910" alt="A rise in world oil prices lifts production costs and shifts SRAS left from SRAS1 to SRAS2. Equilibrium moves from output 90, price level 65 to output 65, price level 77.5. LRAS does not move." loading="lazy">
+  <figcaption>A cost shock shifts SRAS left, raising prices and cutting output, without changing underlying capacity.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-macroeconomics--07-exchange-rate.webp" width="900" height="910" alt="Demand for pounds shifts right from D1 to D2 against a fixed supply S, so the price of a pound rises from 1.50 to 1.60 dollars. The pound has appreciated." loading="lazy">
+  <figcaption>A rise in demand for a currency makes it appreciate, making exports dearer and imports cheaper.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-macroeconomics--06-laffer-curve.webp" width="900" height="910" alt="Tax revenue rises with the tax rate to a peak, then falls. Points X (20%) and Y (80%) raise the same revenue, so beyond the peak cutting the rate raises revenue." loading="lazy">
+  <figcaption>Beyond the revenue-maximising rate, a higher tax rate lowers tax revenue.</figcaption>
+</figure>
+
 
 ## Exchange-rate and shock arithmetic
 

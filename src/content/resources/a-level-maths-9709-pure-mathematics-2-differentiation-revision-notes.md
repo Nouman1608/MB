@@ -122,6 +122,12 @@ Example: y eˣ + y³ = 10. Product rule on y eˣ: y eˣ + eˣ dy/dx. Then 3y² d
 2. Tangent: y − y₁ = m(x − x₁). Normal: gradient −1/m.
 3. Give the form asked for, such as ax + by + c = 0 with integers.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-maths-9709-pure-mathematics-1-differentiation--05-chain-rule-gradients.webp" width="900" height="1250" alt="Three graphs show y = square root of (4x squared + 9) built in two steps. Top: u = 4x squared + 9 has gradient 16 at x = 2 where u = 25. Middle: y = square root of u has gradient 0.1 at u = 25 where y = 5. Bottom: the combined curve y = square root of (4x squared + 9) has gradient 1.6 at x = 2, and 16 times 0.1 equals 1.6, so dy/dx = dy/du times du/dx." loading="lazy">
+  <figcaption>The gradient of the composite is the product of the two gradients: 16 × 0.1 = 1.6.</figcaption>
+</figure>
+
+
 ## Two more worked reminders
 
 **Quotient to stationary point.** y = eˣ/(x − 2), for x ≠ 2.
@@ -153,12 +159,6 @@ Find t first, then turn each t into a pair of coordinates. Two values of t can g
 - **Horizontal vs vertical tangent (parametric).** Horizontal where dy/dt = 0; vertical where dx/dt = 0.
 - **Tangent vs normal gradient.** Normal gradient is −1/m, not −m and not 1/m.
 - **Exact vs 3 s.f.** "Exact" means leave e, ln, π or surds in the answer. Otherwise give 3 significant figures.
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-level-maths-9709-pure-mathematics-1-differentiation--08-parametric-gradient.webp" width="900" height="967" alt="The curve x = t squared + 2t, y = t cubed minus 3t, drawn with equal scales. At t = 2 the point is (8, 2). Its horizontal rate dx/dt = 6 and vertical rate dy/dt = 9 form a right triangle whose slope is the gradient dy/dx = 9 over 6 = 3 over 2. The gold tangent has that gradient and the teal normal has gradient minus two thirds. Grey dots mark t = minus 1, 0 and 1." loading="lazy">
-  <figcaption>At t = 2 the gradient is dy/dt ÷ dx/dt = 9/6, with the normal gradient −2/3.</figcaption>
-</figure>
-
 
 ## Quick self-test
 
@@ -192,6 +192,17 @@ Differentiate with respect to x (questions 1 to 9).
 11. 2t ÷ 3t² = **2/(3t)**
 12. 2x + 3y² dy/dx = 0, so dy/dx = −2x/(3y²) = **−1/6**
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-maths-9709-pure-mathematics-1-differentiation--06-product-rule-area.webp" width="900" height="650" alt="A rectangle of width u and height v has area uv. When x increases a little, u grows by du and v by dv, adding a strip of area v du on the right, a strip u dv on the top, and a tiny corner du dv which vanishes in the limit. So the change in uv is v du + u dv, giving (uv)′ = u′v + uv′. Example: y = x cubed times e to the 2x at x = 1 has gradient 3e squared + 2e squared = 5e squared, about 36.9." loading="lazy">
+  <figcaption>Why the product rule has two terms: the rectangle area uv grows by v du + u dv.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-maths-9709-pure-mathematics-1-differentiation--08-parametric-gradient.webp" width="900" height="967" alt="The curve x = t squared + 2t, y = t cubed minus 3t, drawn with equal scales. At t = 2 the point is (8, 2). Its horizontal rate dx/dt = 6 and vertical rate dy/dt = 9 form a right triangle whose slope is the gradient dy/dx = 9 over 6 = 3 over 2. The gold tangent has that gradient and the teal normal has gradient minus two thirds. Grey dots mark t = minus 1, 0 and 1." loading="lazy">
+  <figcaption>At t = 2 the gradient is dy/dt ÷ dx/dt = 9/6, with the normal gradient −2/3.</figcaption>
+</figure>
+
+
 ## Where marks are usually lost
 
 - The inside derivative is missed: d/dx e^(3 − 2x) written as e^(3 − 2x) instead of −2e^(3 − 2x).
@@ -205,20 +216,20 @@ Differentiate with respect to x (questions 1 to 9).
 - Exact answers turned into decimals, or an exponential such as e^(ln 3) not simplified to 3.
 - A "show that" result reached with a step missing, such as the unsimplified quotient-rule line.
 
+## Next steps
+
+Try the [practice questions](/resources/a-level-maths-9709-pure-mathematics-2-differentiation-practice/), then check your AS readiness with the free [AS diagnostic](/practice/9709/diagnostic/as/) or the [9709 self-check bank](/practice/9709/). For eˣ and ln x themselves, see the [logarithms and exponentials revision notes](/resources/a-level-maths-9709-pure-mathematics-2-logarithms-and-exponentials-revision-notes/). A Level candidates meet this content again, with tan⁻¹ x added, in the [Pure Mathematics 3 revision notes](/resources/a-level-maths-9709-pure-mathematics-3-revision-notes/).
+
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/a-level-maths-9709-pure-mathematics-1-differentiation--02-gradient-function.webp" width="900" height="1110" alt="Two graphs aligned on the same x values. Top: the cubic f(x) = x cubed minus 3x squared minus 9x plus 4, rising to a maximum (minus 1, 9), falling to a minimum (3, minus 23), then rising. Bottom: its gradient function f dash = 3(x + 1)(x minus 3), a U-shaped parabola crossing zero at x = minus 1 and x = 3. Where f dash is positive f is rising, where negative f is falling, and f dash = 0 at the maximum and minimum." loading="lazy">
   <figcaption>The sign of f′ tells you where f rises or falls, and f′ = 0 at turning points.</figcaption>
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-level-maths-9709-pure-mathematics-1-differentiation--05-chain-rule-gradients.webp" width="900" height="1250" alt="Three graphs show y = square root of (4x squared + 9) built in two steps. Top: u = 4x squared + 9 has gradient 16 at x = 2 where u = 25. Middle: y = square root of u has gradient 0.1 at u = 25 where y = 5. Bottom: the combined curve y = square root of (4x squared + 9) has gradient 1.6 at x = 2, and 16 times 0.1 equals 1.6, so dy/dx = dy/du times du/dx." loading="lazy">
-  <figcaption>The gradient of the composite is the product of the two gradients: 16 × 0.1 = 1.6.</figcaption>
+  <img src="https://img.marlbridge.com/a-level-maths-9709-pure-mathematics-1-differentiation--09-implicit-flat-vertical.webp" width="900" height="1084" alt="The tilted ellipse x squared minus xy plus y squared = 12, drawn from its equation. Implicit differentiation gives dy/dx = (y minus 2x) over (2y minus x). The numerator is zero when y = 2x, giving horizontal tangents (teal) at (2, 4) and (minus 2, minus 4). The denominator is zero when x = 2y, giving vertical tangents (copper) at (4, 2) and (minus 4, minus 2)." loading="lazy">
+  <figcaption>Horizontal tangents occur where the numerator of dy/dx is zero and vertical tangents where the denominator is zero.</figcaption>
 </figure>
 
-
-## Next steps
-
-Try the [practice questions](/resources/a-level-maths-9709-pure-mathematics-2-differentiation-practice/), then check your AS readiness with the free [AS diagnostic](/practice/9709/diagnostic/as/) or the [9709 self-check bank](/practice/9709/). For eˣ and ln x themselves, see the [logarithms and exponentials revision notes](/resources/a-level-maths-9709-pure-mathematics-2-logarithms-and-exponentials-revision-notes/). A Level candidates meet this content again, with tan⁻¹ x added, in the [Pure Mathematics 3 revision notes](/resources/a-level-maths-9709-pure-mathematics-3-revision-notes/).
 
 ## Official syllabus
 

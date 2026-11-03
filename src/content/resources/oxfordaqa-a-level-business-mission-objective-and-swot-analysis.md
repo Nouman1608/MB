@@ -79,6 +79,12 @@ Interpretation: if the share price falls to £3.00 with the same dividend, the y
 - **Social**: fair pay, community projects, ethical sourcing, staff wellbeing.
 - **Environmental**: lower emissions, less waste, renewable inputs.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-business-managers-leadership-decision-making--06-ansoff-matrix.webp" width="900" height="880" alt="Two by two grid of existing and new products against existing and new markets: market penetration (lowest risk), product development and market development (higher risk), diversification (highest risk)." loading="lazy">
+  <figcaption>Ansoff’s matrix ranks growth options by risk; moving into new products and new markets together is riskiest.</figcaption>
+</figure>
+
+
 ### Impact of different objectives on functional areas
 
 Trace one objective through all four functions.

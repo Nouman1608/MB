@@ -48,8 +48,18 @@ A third-law pair has four features. The forces are the same type (both gravitati
 For a book on a table, the Earth's pull on the book pairs with the book's pull on the Earth. The table's push on the book pairs with the book's push on the table. The weight and the table's push are equal and opposite, yet they are not a pair, because they share one body and differ in type.
 
 <figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-oxfordaqa-physics-motion-and-newtons-laws--01-slope-forces.webp" width="900" height="840" alt="Free-body diagram of a 12 kg block on a 25 degree slope with arrows to scale. Weight 118 N acts down, the normal contact force 107 N is perpendicular to the slope and friction 18 N acts up the slope. Weight is resolved into mg sin 25 = 49.8 N down the slope and mg cos 25 = 107 N into it, giving a net 31.8 N and a = 2.6 m s-2." loading="lazy">
+  <figcaption>The normal force is perpendicular to the slope, and the weight splits into components along and into it.</figcaption>
+</figure>
+
+<figure class="topic-figure">
   <img src="https://img.marlbridge.com/a-level-oxfordaqa-physics-motion-and-newtons-laws--02-third-law-pairs.webp" width="900" height="1090" alt="Two third-law pairs for a book on a table: Earth pulls book with book pulls Earth, and table pushes book with book pushes table. A pair is the same kind of force, equal and opposite, on different bodies. Weight and the normal force both act on the book, so they are not a pair." loading="lazy">
   <figcaption>Third-law pairs act on different bodies; weight and the normal contact force act on one body and are not a pair.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-oxfordaqa-physics-motion-and-newtons-laws--03-lift-tension.webp" width="900" height="900" alt="Three free-body diagrams of a 640 kg lift to one scale. Accelerating upward the tension is 7.0 kN, at constant speed 6.3 kN, and decelerating while moving up 5.5 kN, always against a weight of 6.3 kN. Net force is 0.77 kN up, zero, and 0.77 kN down." loading="lazy">
+  <figcaption>Tension is larger than weight when acceleration is upward and smaller when it is downward, T = m(g + a).</figcaption>
 </figure>
 
 
@@ -91,12 +101,6 @@ F = Δp/Δt = 3.192 ÷ 0.0045 = 709 N, so **7.1 × 10² N** (2 s.f.), directed a
 **Worked example 3.** Water from a hose leaves at 14 m s⁻¹ and 0.45 kg of it hits a wall each second, stopping without rebounding. Find the force on the water, and state the force on the wall.
 
 Momentum lost per second = 0.45 × 14 = 6.3 kg m s⁻¹ per second, so the wall exerts **6.3 N** on the water. By the third law, the water exerts **6.3 N** on the wall. The water is a stream, not one body of fixed mass, so F = Δp/Δt is the natural form to use.
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-level-oxfordaqa-physics-motion-and-newtons-laws--03-lift-tension.webp" width="900" height="900" alt="Three free-body diagrams of a 640 kg lift to one scale. Accelerating upward the tension is 7.0 kN, at constant speed 6.3 kN, and decelerating while moving up 5.5 kN, always against a weight of 6.3 kN. Net force is 0.77 kN up, zero, and 0.77 kN down." loading="lazy">
-  <figcaption>Tension is larger than weight when acceleration is upward and smaller when it is downward, T = m(g + a).</figcaption>
-</figure>
-
 
 ## 3.5.1(d) Impulse
 
@@ -210,6 +214,12 @@ Kinetic energy has fallen, so the collision is **inelastic**.
 ## Next steps
 
 Next, try the [practice questions](/resources/ocr-a-level-physics-newtons-laws-momentum-impulse-and-collisions-practice/). If resolving vectors is slow, revisit [units, measurement, uncertainty and vectors](/resources/ocr-a-level-physics-units-measurement-uncertainty-and-vectors/), and for force diagrams and F = ma problems see [dynamics, free-body diagrams, drag and terminal velocity](/resources/ocr-a-level-physics-dynamics-free-body-diagrams-drag-and-terminal-velocity/).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-oxfordaqa-physics-motion-and-newtons-laws--04-terminal-velocity.webp" width="900" height="1130" alt="A velocity-time graph for a faller computed from a drag-squared model, with points A to E and matching free-body diagrams. Drag grows from zero until it equals the weight at terminal velocity (40 m s-1), then the parachute opens, drag exceeds weight and the speed falls to a smaller terminal velocity (8 m s-1) where drag again equals weight." loading="lazy">
+  <figcaption>Acceleration falls to zero as drag grows to equal weight; opening a parachute gives a new, smaller terminal velocity.</figcaption>
+</figure>
+
 
 ## Official syllabus
 

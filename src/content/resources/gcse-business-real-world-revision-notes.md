@@ -105,6 +105,11 @@ A **plc is private sector**, not government-owned. Confusing "public limited com
   <figcaption>In a plc owners and managers are different groups, whose objectives may diverge.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-business-business-in-the-real-world--07-franchising.webp" width="900" height="800" alt="The franchisor gives the franchisee its brand, training and support. The franchisee pays fees and royalties and uses their own capital for the outlet. Franchising is not a form of ownership: the franchisee trades as a sole trader, partnership or company, and that sets liability." loading="lazy">
+  <figcaption>Franchising grows a brand using the franchisee’s capital, but liability follows the franchisee’s own legal form.</figcaption>
+</figure>
+
 
 ## Stakeholders
 
@@ -117,6 +122,17 @@ Owners, employees, customers, suppliers, government, local community, lenders.
 - Expansion brings jobs to a community but also traffic and noise.
 
 A top answer names the conflict, explains **why** the interests oppose, then judges whose interest should take priority in that specific business.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-business-setting-business-aims-and-objectives-and-stakeholders--05-pay-rise-conflict.webp" width="900" height="1000" alt="Employees and the owner pull in opposite directions. A 5% rise from 11.20 to 11.76 an hour costs 873.60 pounds per worker a year and 3,494.40 pounds for four workers, money not available for the oven." loading="lazy">
+  <figcaption>A pay rise helps employees but reduces money available to the owner.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-business-setting-business-aims-and-objectives-and-stakeholders--03-stakeholder-wants-impact.webp" width="900" height="980" alt="Five cards, one per stakeholder group, each list what the group wants, how it can gain from the business and how it can suffer. Groups are owners, employees, customers, local community and suppliers." loading="lazy">
+  <figcaption>What each stakeholder wants and how business activity affects them.</figcaption>
+</figure>
+
 
 ## Business aims and objectives
 
@@ -131,12 +147,38 @@ Objectives **change over time** — survival first, then profit and growth once 
   <figcaption>A measurable objective states how much and by when.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-business-setting-business-aims-and-objectives-and-stakeholders--01-seven-objectives.webp" width="900" height="732" alt="Eight picture cards show the main objectives: survival, profit maximisation, domestic growth, international growth, market share, customer satisfaction, social and ethical, and shareholder value. Each has a short example of what it means." loading="lazy">
+  <figcaption>The main objectives at a glance, with growth split into home and abroad.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-business-business-in-the-real-world--08-objectives-change.webp" width="900" height="740" alt="A three-step staircase: a new business aims to survive, an established one to grow and make profit, and a mature one may add social and environmental goals. Success can also be measured by market share, customer satisfaction and ethical performance." loading="lazy">
+  <figcaption>Objectives change as a business evolves, and success is not measured by profit alone.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-business-setting-business-aims-and-objectives-and-stakeholders--03-aim-or-objective.webp" width="900" height="990" alt="A staircase rises to a flag labelled aim. The aim is the long-term goal of being the best-known bakery in town; an objective is a specific target on the way, such as 500 regular customers in a year." loading="lazy">
+  <figcaption>An aim is the direction; an objective is a specific target on the way.</figcaption>
+</figure>
+
 
 ## Location
 
 Factors: proximity to the **market**, to **raw materials**, to **labour**, transport links, cost of premises, competitors, and government incentives.
 
 **Weight-losing** industries locate near raw materials, because moving the lighter finished product is cheaper. **Weight-gaining** and service industries locate near the market. E-commerce weakens the pull of the physical market but increases the need for good distribution.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-business-business-in-the-real-world--04-location-factors.webp" width="900" height="960" alt="Two panels. A bakery sits near its customers with a thick arrow toward the market and a thin arrow toward distant raw materials. A steel plant sits near its raw materials with a thick arrow toward them and a thin arrow toward the market. Other factors are labour, transport links, rent and incentives." loading="lazy">
+  <figcaption>The dominant location factor differs by business: a bakery follows its market, a steel plant follows its raw materials.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-business-business-location-and-business-planning--02-location-labour-competition-costs.webp" width="900" height="1030" alt="Cards for labour, competition and costs each give a plus and a minus. Labour: enough skilled workers versus shortage forcing higher pay. Competition: more customers visit but you share them; away from rivals, fewer alternatives but maybe low demand. Costs: prime site brings trade but costs more. The test is whether extra income beats extra cost." loading="lazy">
+  <figcaption>Each location factor can help or hurt; weigh extra income against extra cost.</figcaption>
+</figure>
+
 
 ## Growth
 
@@ -145,6 +187,32 @@ Factors: proximity to the **market**, to **raw materials**, to **labour**, trans
 **External** — growth through **mergers and takeovers**, gaining an existing business's assets, customers and expertise immediately, but at greater cost and risk of a clash of cultures.
 
 **Economies of scale** lower **average unit cost** (total cost ÷ output) as output rises -- including **purchasing economies** (bulk-buying inputs more cheaply) and **technical economies** (large-scale production methods and specialist machinery spreading their cost over more units). **Diseconomies of scale** raise average unit cost when the business grows too large to communicate and coordinate well, and staff motivation falls.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-business-business-in-the-real-world--05-growth-speed-control.webp" width="900" height="990" alt="Two routes to growth on five-step scales. Organic growth (new stores, e-commerce, franchising) is slower but owners keep full control. External growth (merger or takeover) is faster but brings integration challenges and can dilute control." loading="lazy">
+  <figcaption>Organic growth is slower but controlled; external growth is faster but harder to integrate.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-business-expanding-a-business--03-merger-or-takeover.webp" width="900" height="860" alt="In a merger two firms agree to join as one. In a takeover one firm buys enough of another to control it, even if the target does not want it." loading="lazy">
+  <figcaption>Merger means both sides agree; takeover means one side gains control.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-business-expanding-a-business--06-two-economies-of-scale.webp" width="900" height="900" alt="Bulk flour costs 0.72 pounds a kilogram at 2,000 kg against 0.90 at 500 kg, a 20 percent lower price. A 900 pound a week oven costs 0.45 pounds a loaf at 2,000 loaves but about 11 pence at 8,000." loading="lazy">
+  <figcaption>Purchasing economies cut the price paid per unit; technical economies spread equipment cost over more units.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-business-business-in-the-real-world--02-average-unit-cost.webp" width="900" height="700" alt="A U-shaped average unit cost curve against output. At 10,000 units, £80,000 gives £8 a unit. At 20,000 units, £135,000 gives £6.75 a unit, a fall that is an economy of scale. Beyond about 21,000 units the curve rises, showing diseconomies of scale." loading="lazy">
+  <figcaption>Average unit cost = total cost ÷ output; it falls with economies of scale and rises again with diseconomies.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-business-expanding-a-business--04-diseconomies-causes.webp" width="900" height="975" alt="Three cards: poor communication (messages across more layers are missed), coordination issues (a missed handover between departments) and reduced motivation (faces from smiling to frowning as the firm grows). Result: average unit cost rises. These are risks, not certainties." loading="lazy">
+  <figcaption>Poor communication, coordination issues and reduced motivation can push average unit cost up.</figcaption>
+</figure>
+
 
 ## Business planning
 

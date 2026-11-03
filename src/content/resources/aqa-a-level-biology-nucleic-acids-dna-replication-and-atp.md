@@ -136,6 +136,12 @@ In double-stranded DNA, A = T and C = G, so you can find every base from one val
 
 The common slip is to use 4000 as the total. A base pair is two bases.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-nucleic-acids-and-protein-synthesis--06-transcription-splicing.webp" width="900" height="1255" alt="RNA polymerase copies the template strand into mRNA using complementary base pairing with A pairing to U. Example: template TAC AAG CCG TTG ATT gives AUG UUC GGC AAC UAA, which matches the non-transcribed strand with U for T. In eukaryotes a 3,180 nucleotide primary transcript has its four introns removed and the exons joined to give a 1,550 nucleotide mRNA, which leaves the nucleus through a nuclear pore." loading="lazy">
+  <figcaption>mRNA is a copy of the template strand; in eukaryotes the introns are removed before mRNA leaves the nucleus.</figcaption>
+</figure>
+
+
 ## 3.1.5.2 DNA replication
 
 Semi-conservative replication ensures **genetic continuity between generations of cells**. "Semi-conservative" means each new DNA molecule keeps one original strand and gains one new strand.
@@ -237,17 +243,6 @@ ATP is **resynthesised by the condensation of ADP and Pi**, catalysed by **ATP s
 ## Next steps
 
 Work through the [revision notes](/resources/aqa-a-level-biology-nucleic-acids-dna-replication-and-atp-revision-notes/), then the [practice questions](/resources/aqa-a-level-biology-nucleic-acids-dna-replication-and-atp-practice/).
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-level-biology-9700-nucleic-acids-and-protein-synthesis--06-transcription-splicing.webp" width="900" height="1255" alt="RNA polymerase copies the template strand into mRNA using complementary base pairing with A pairing to U. Example: template TAC AAG CCG TTG ATT gives AUG UUC GGC AAC UAA, which matches the non-transcribed strand with U for T. In eukaryotes a 3,180 nucleotide primary transcript has its four introns removed and the exons joined to give a 1,550 nucleotide mRNA, which leaves the nucleus through a nuclear pore." loading="lazy">
-  <figcaption>mRNA is a copy of the template strand; in eukaryotes the introns are removed before mRNA leaves the nucleus.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-level-biology-9700-nucleic-acids-and-protein-synthesis--07-translation-ribosome.webp" width="900" height="1022" alt="mRNA AUG UUC GGC AAC UAA passes through a ribosome. The ribosome holds two tRNAs, each carrying one amino acid with an anticodon complementary to its codon: AAG pairs with UUC (Phe) and CCG pairs with GGC (Gly). A peptide bond forms between amino acids, the first tRNA leaves, and the ribosome moves one codon along. The codons code for Met, Phe, Gly and Asn, and UAA is a stop codon." loading="lazy">
-  <figcaption>tRNA anticodons pair with mRNA codons on the ribosome, adding one amino acid at a time until a stop codon.</figcaption>
-</figure>
-
 
 ## Official syllabus
 

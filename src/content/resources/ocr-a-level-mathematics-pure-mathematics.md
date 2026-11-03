@@ -38,12 +38,6 @@ statistics and mechanics components. The sibling AS Level (H230)
 shares most, but not all, of these sub-topics -- Numerical methods and
 Vectors' more advanced content are A Level only.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-level-edexcel-mathematics-pure-mathematics-1--01-paper-routes.webp" width="900" height="976" alt="A route map of the pure mathematics papers for four boards. Cambridge 9709: AS Level is Paper 1 plus Paper 2, or Paper 1 plus Paper 4 or 5; A Level is Papers 1 and 3 plus either Papers 4 and 5 or Papers 5 and 6, and Paper 2 never counts towards the A Level. Edexcel International A Level: AS is P1, P2 and one applied unit; A Level is P1 to P4 plus two applied units. OxfordAQA 9660: AS is P1 and PSM1; A Level adds P2 and either S2 or M2. OCR H240: three two-hour papers, each worth one third, with pure mathematics in every one (pure; pure and statistics; pure and mechanics). A colour key shows pure, applied, and mixed papers." loading="lazy">
-  <figcaption>Which pure papers each board requires for AS and A Level.</figcaption>
-</figure>
-
-
 ## Syllabus coverage
 
 **OCR A-LEVEL MATHEMATICS A (H240) — PURE MATHEMATICS**
@@ -66,8 +60,8 @@ that cannot be solved analytically
 - 1.10 Vectors — vector notation and its use in geometric problems
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-level-edexcel-mathematics-pure-mathematics-1--02-one-cubic-toolkit.webp" width="900" height="940" alt="Graph of the cubic f(x) = x cubed minus 3x squared minus x plus 3, which factorises as (x + 1)(x minus 1)(x minus 3). The roots at x = minus 1, 1 and 3 come from the factor theorem. Turning points, ringed, are where f dash is zero, at x = 1 minus or plus 2 over root 3, about minus 0.15 and 2.15. The region between x = minus 1 and 1 lies above the axis and has integral +4. The region between 1 and 3 lies below the axis and has integral minus 4. The integral from minus 1 to 3 is zero, but the total area is 8, because areas below the axis count as positive." loading="lazy">
-  <figcaption>One cubic shows roots, turning points and signed versus total area.</figcaption>
+  <img src="https://img.marlbridge.com/a-level-edexcel-mathematics-pure-mathematics-1--01-paper-routes.webp" width="900" height="976" alt="A route map of the pure mathematics papers for four boards. Cambridge 9709: AS Level is Paper 1 plus Paper 2, or Paper 1 plus Paper 4 or 5; A Level is Papers 1 and 3 plus either Papers 4 and 5 or Papers 5 and 6, and Paper 2 never counts towards the A Level. Edexcel International A Level: AS is P1, P2 and one applied unit; A Level is P1 to P4 plus two applied units. OxfordAQA 9660: AS is P1 and PSM1; A Level adds P2 and either S2 or M2. OCR H240: three two-hour papers, each worth one third, with pure mathematics in every one (pure; pure and statistics; pure and mechanics). A colour key shows pure, applied, and mixed papers." loading="lazy">
+  <figcaption>Which pure papers each board requires for AS and A Level.</figcaption>
 </figure>
 
 
@@ -83,6 +77,12 @@ Proof (1.1) is tested throughout the paper rather than as a
 standalone question type, so practise constructing rigorous,
 step-by-step arguments as a habit across every other sub-topic, not
 just when a question explicitly says "prove."
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-edexcel-mathematics-pure-mathematics-1--02-one-cubic-toolkit.webp" width="900" height="940" alt="Graph of the cubic f(x) = x cubed minus 3x squared minus x plus 3, which factorises as (x + 1)(x minus 1)(x minus 3). The roots at x = minus 1, 1 and 3 come from the factor theorem. Turning points, ringed, are where f dash is zero, at x = 1 minus or plus 2 over root 3, about minus 0.15 and 2.15. The region between x = minus 1 and 1 lies above the axis and has integral +4. The region between 1 and 3 lies below the axis and has integral minus 4. The integral from minus 1 to 3 is zero, but the total area is 8, because areas below the axis count as positive." loading="lazy">
+  <figcaption>One cubic shows roots, turning points and signed versus total area.</figcaption>
+</figure>
+
 
 ## Official syllabus
 
@@ -138,12 +138,6 @@ dy/dx = x^2 cos x + 2x sin x
 ```
 
 Recognising this needs the product rule, not the chain rule, is the decision being tested.
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-level-edexcel-mathematics-pure-mathematics-1--03-quotient-stationary.webp" width="900" height="1060" alt="Two aligned graphs. Top: y = ln x divided by x, which crosses the axis at x = 1, rises to a maximum at (e, 1 over e), about (2.72, 0.37), then falls slowly. Bottom: its gradient dy by dx = (1 minus ln x) over x squared, which is positive before x = e, zero at x = e and negative after. The quotient rule gives (x times 1 over x minus ln x times 1) over x squared." loading="lazy">
-  <figcaption>The quotient rule gives dy/dx = (1 − ln x)/x², which is zero at the maximum x = e.</figcaption>
-</figure>
-
 
 ## Common mistakes
 

@@ -67,6 +67,11 @@ These notes condense sections 1.1.1 and 1.1.2 of the Pearson Edexcel Internation
 </figure>
 
 <figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-economics-scarcity-opportunity-cost-the-ppf-and-economic--06-why-not-maximise.webp" width="900" height="1125" alt="Rice: 17 divided by 4 is 4.25 per 500 g against 4.00. Coffee: 3.50 x 5 x 52 = 910 a year. Charity: 30 loaves forgo 90 of revenue, saving 45 of cost, so 45 of profit a day (270 in six days)." loading="lazy">
+  <figcaption>Poor calculation, habit and charity each stop buyers or sellers reaching the maximum benefit or profit.</figcaption>
+</figure>
+
+<figure class="topic-figure">
   <img src="https://img.marlbridge.com/igcse-economics-the-basic-economic-problem--01-scarcity-and-choice.webp" width="900" height="1000" alt="A balance scale with a small pile of blocks (finite resources) against a large pile (unlimited wants), tilting towards wants. Four boxes show consumers, workers, producers and governments each face limits (income, time, inputs, budget). So everyone must choose." loading="lazy">
   <figcaption>Finite resources and unlimited wants force everyone to make choices.</figcaption>
 </figure>
@@ -123,6 +128,11 @@ For (10, 40): the curve gives 48 wheat at 10 laptops, so 48 − 40 = 8 wheat of 
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/edexcel-igcse-economics-scarcity-opportunity-cost-the-ppf-and-economic--03-ppf-growth-decline-pivot.webp" width="900" height="1180" alt="All maxima +20% moves the curve out to 120 food and 48 machines and makes G obtainable; a 25% loss of capacity moves it in to 75 and 30. A lower panel shows food technology only: food intercept 100 to 125, machines stay 40." loading="lazy">
   <figcaption>Growth shifts the whole PPF out, decline shifts it in, and uneven growth pivots it.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-basic-economic-problem--07-ppc-shift-vs-movement.webp" width="900" height="1190" alt="Top: a point inside the curve moves to the curve by using idle resources more fully; this is temporary, reversible and not economic growth on this syllabus. Bottom: the whole curve shifts outward because of more or better resources or better technology, a permanent increase in capacity, which is economic growth." loading="lazy">
+  <figcaption>Only an outward shift of the whole curve counts as economic growth.</figcaption>
 </figure>
 
 
@@ -195,12 +205,6 @@ The specification lists Evaluate as a command word that asks for a supported con
 - Inside the PPF versus outside: inside is wasteful but possible, outside is unobtainable.
 - Movement versus shift: choice moves you along, growth shifts the curve.
 - Revenue versus profit: revenue is price times quantity, profit is revenue minus cost.
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-economics-the-basic-economic-problem--07-ppc-shift-vs-movement.webp" width="900" height="1190" alt="Top: a point inside the curve moves to the curve by using idle resources more fully; this is temporary, reversible and not economic growth on this syllabus. Bottom: the whole curve shifts outward because of more or better resources or better technology, a permanent increase in capacity, which is economic growth." loading="lazy">
-  <figcaption>Only an outward shift of the whole curve counts as economic growth.</figcaption>
-</figure>
-
 
 ## Quick self-test
 

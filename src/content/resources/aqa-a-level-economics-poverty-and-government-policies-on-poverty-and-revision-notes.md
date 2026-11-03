@@ -101,6 +101,12 @@ Other links: the [AQA A-level Economics hub](/boards/aqa/a-level/economics/), th
 | Regional and employment policy | Creates jobs where unemployment is concentrated | Slow, may be inefficient, crowding out |
 | Basic income or negative income tax | Guaranteed floor, simpler | High cost or low payment, work-incentive debate |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-objectives-of-government--09-minimum-wage.webp" width="900" height="990" alt="Labour market diagram: equilibrium $10 and 120,000 workers. A $14 minimum wage gives 150,000 supplied and 100,000 demanded, so 50,000 excess supply (unemployment). Those still employed gain; those unemployed lose." loading="lazy">
+  <figcaption>A minimum wage above equilibrium raises pay for some and creates unemployment for others.</figcaption>
+</figure>
+
+
 ## Formulae and quick calculations
 
 | Item | Method |

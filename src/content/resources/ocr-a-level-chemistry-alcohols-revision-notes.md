@@ -37,6 +37,12 @@ Afterwards, try the [practice questions](/resources/ocr-a-level-chemistry-alcoho
 | Elimination | Removal of a small molecule (here H₂O) from a larger one, forming a C=C bond |
 | Substitution | One atom or group (here –OH) replaced by another (here a halogen) |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-alcohols--08-elimination-mechanism.webp" width="900" height="1100" alt="Three-step mechanism: a lone pair on O takes H+, the C-O bond breaks losing water to give a carbocation, then a C-H bond forms the C=C and H+ is released. Mechanism is required by AQA and OxfordAQA; OCR says mechanism not required." loading="lazy">
+  <figcaption>Acid-catalysed elimination converts an alcohol to an alkene; the acid is regenerated.</figcaption>
+</figure>
+
+
 ## 4.2.1(a)(i): Physical properties in one table
 
 | Property | Explanation |
@@ -187,6 +193,12 @@ Example: heptan-1-ol gives 1-bromoheptane, CH₃(CH₂)₆Br.
 8. Only **pent-2-ene**, as (E)- and (Z)-pent-2-ene. Both neighbours of C3 are equivalent, so removing H from C2 or C4 gives the same structure.
 9. NaBr and H₂SO₄, heat. CH₃CH(OH)CH₂CH₃ + HBr → CH₃CHBrCH₂CH₃ + H₂O
 10. n(pentan-2-ol) = 3.52 ÷ 88.0 = 0.0400 mol; theoretical mass = 0.0400 × 86.0 = 3.44 g; yield = 2.75 ÷ 3.44 × 100 = **79.9%**.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-alcohols--05-distil-reflux.webp" width="900" height="1220" alt="Left: distillation with limited oxidant, the aldehyde distils off into a receiver. Right: reflux with excess oxidant, vertical condenser, vapour condenses and drips back so the acid forms. A bar chart of boiling points (ethanal 20, ethanol 78, ethanoic acid 118 degrees C, from the OCR lesson) shows why the aldehyde leaves first." loading="lazy">
+  <figcaption>Distil to collect the aldehyde; reflux with excess oxidant to make the carboxylic acid.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

@@ -185,12 +185,6 @@ The deficit widens, as the sum is below 1.
 | Employment | Export jobs, but appreciation can cost some |
 | Export competitiveness | Appreciation raises export prices abroad |
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ib-dp-economics-balance-of-payments--03-bop-surplus-loop.webp" width="900" height="1040" alt="A four-step loop: strong foreign demand for the currency, appreciation, dearer exports and cheaper imports, a shrinking surplus. Below, gains (export jobs, export growth, foreign assets) are set against costs (weak home spending, rising currency, jobs lost to appreciation)." loading="lazy">
-  <figcaption>A surplus can erode itself through currency appreciation, so weigh its gains and costs.</figcaption>
-</figure>
-
-
 ## Quick self-test
 
 1. Define a debit item.
@@ -218,6 +212,11 @@ The deficit widens, as the sum is below 1.
 9. No. The sum is 0.9, below 1, so the balance would worsen.
 10. Any two of a rise in income tax, cuts in public spending, a rise in interest rates.
 11. Upward pressure, because foreign demand for the currency exceeds the supply of it.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-economics-balance-of-payments--03-bop-surplus-loop.webp" width="900" height="1040" alt="A four-step loop: strong foreign demand for the currency, appreciation, dearer exports and cheaper imports, a shrinking surplus. Below, gains (export jobs, export growth, foreign assets) are set against costs (weak home spending, rising currency, jobs lost to appreciation)." loading="lazy">
+  <figcaption>A surplus can erode itself through currency appreciation, so weigh its gains and costs.</figcaption>
+</figure>
 
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/aqa-gcse-economics-objectives-of-government--05-trade-and-current-account.webp" width="900" height="1080" alt="Waterfall in illustrative pounds billion: exports 100 and imports 110 give a trade balance of minus 10; net income of plus 4 gives a current account deficit of 6." loading="lazy">

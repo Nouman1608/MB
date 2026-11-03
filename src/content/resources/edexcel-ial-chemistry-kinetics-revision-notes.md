@@ -40,6 +40,12 @@ When these feel secure, try the [kinetics practice questions](/resources/edexcel
 | Homogeneous catalyst | Same phase as the reactants |
 | Heterogeneous catalyst | Different phase from the reactants |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-kinetics--09-rate-determining-step.webp" width="900" height="1170" alt="A two-hill enthalpy profile for 2P + Q going to P2Q. The first hill (P + Q forming PQ) is higher, so it is the slow, rate-determining step; the second (PQ + P forming P2Q) is lower and fast. Because the slow step has one P and one Q, Rate = k[P][Q]." loading="lazy">
+  <figcaption>The slowest step sets the rate, and the orders show how many particles of each reactant take part in it.</figcaption>
+</figure>
+
+
 ## Units of k at a glance
 
 | Example rate equation | Overall order | k in |
@@ -80,6 +86,11 @@ When these feel secure, try the [kinetics practice questions](/resources/edexcel
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/aqa-a-level-chemistry-kinetics--06-tangent-rate.webp" width="900" height="1030" alt="A concentration-time curve for a reactant falls and flattens. A tangent at t = 0 is steep and its gradient is the initial rate. A tangent later on is shallower, so the rate is lower. Rate is the size of the gradient, quoted as positive." loading="lazy">
   <figcaption>The rate at any time is the size of the tangent gradient, and the gradient at t = 0 is the initial rate.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-kinetics--07-half-life.webp" width="900" height="1060" alt="Two concentration-time graphs. For a first-order reaction each halving (0.80 to 0.40 to 0.20 to 0.10) takes the same 60 s, so k = ln 2 divided by the half-life. For a zero-order reaction the line is straight and successive halvings take 100, 50 and 25 s, with k equal to minus the gradient." loading="lazy">
+  <figcaption>A constant half-life shows first order; in a zero-order reaction successive half-lives shorten.</figcaption>
 </figure>
 
 <figure class="topic-figure">
@@ -148,16 +159,15 @@ R = 8.31 J mol⁻¹ K⁻¹, so Ea comes out in J mol⁻¹. Divide by 1000 for kJ
   <figcaption>Only collisions with energy of at least Ea lead to a reaction; the rest bounce apart.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-kinetics--02-boltzmann-temperature.webp" width="900" height="960" alt="Two skewed curves of number of molecules against energy start at the origin. The hotter curve has a lower peak further right, a longer tail, and crosses the cooler curve once to the left of Ea. The shaded area beyond Ea is much bigger for the hotter curve, while both curves enclose the same total area." loading="lazy">
+  <figcaption>A hotter gas has a lower, wider curve with the same area and many more molecules at or above Ea.</figcaption>
+</figure>
+
 
 ## Solid catalysts (11.11)
 
 Reactant gases bond weakly (adsorb) at active sites on the solid. Their bonds weaken and they meet in a good orientation, so Ea falls. Products desorb and free the sites. Adsorption must be neither too weak (nothing happens) nor too strong (products stay stuck). A large surface area (powder, mesh or thin coating on a support) gives more sites.
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-kinetics--04-catalyst.webp" width="900" height="1130" alt="Top: an enthalpy profile with the same reactant and product levels, with a high peak without a catalyst (Ea 180) and a lower peak with one (Ea 105), so delta H is unchanged. Bottom: a single Maxwell-Boltzmann curve with two Ea lines; the shaded strip between them shows extra molecules that can react by the catalysed route." loading="lazy">
-  <figcaption>A catalyst offers a lower-Ea route, so more molecules can react at the same temperature, and delta H does not change.</figcaption>
-</figure>
-
 
 ## Quick self-test
 
@@ -188,8 +198,8 @@ Reactant gases bond weakly (adsorb) at active sites on the solid. Their bonds we
 11. Rate = k[W]².
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-kinetics--07-half-life.webp" width="900" height="1060" alt="Two concentration-time graphs. For a first-order reaction each halving (0.80 to 0.40 to 0.20 to 0.10) takes the same 60 s, so k = ln 2 divided by the half-life. For a zero-order reaction the line is straight and successive halvings take 100, 50 and 25 s, with k equal to minus the gradient." loading="lazy">
-  <figcaption>A constant half-life shows first order; in a zero-order reaction successive half-lives shorten.</figcaption>
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-kinetics--04-catalyst.webp" width="900" height="1130" alt="Top: an enthalpy profile with the same reactant and product levels, with a high peak without a catalyst (Ea 180) and a lower peak with one (Ea 105), so delta H is unchanged. Bottom: a single Maxwell-Boltzmann curve with two Ea lines; the shaded strip between them shows extra molecules that can react by the catalysed route." loading="lazy">
+  <figcaption>A catalyst offers a lower-Ea route, so more molecules can react at the same temperature, and delta H does not change.</figcaption>
 </figure>
 
 

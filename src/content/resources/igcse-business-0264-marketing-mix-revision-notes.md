@@ -35,12 +35,6 @@ These notes condense section 3.3 Marketing mix of the Cambridge IGCSE Business 0
 | Sales promotion | Short-term offers to boost sales |
 | Ecommerce | Buying and selling over the internet |
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-business-0264-marketing-mix--14-brand-image-and-packaging.webp" width="900" height="780" alt="A pack with brand logo and ingredients label shows packaging protects, informs and attracts. A strong brand brings higher price, loyalty and easier launches; better packs cost more." loading="lazy">
-  <figcaption>Packaging protects, informs and shows the brand; a strong brand image pays back.</figcaption>
-</figure>
-
-
 ## 3.3.1 Product in a page
 
 - Brand image supports higher prices, loyalty and easier launches. Poor image does the reverse.
@@ -79,6 +73,11 @@ These notes condense section 3.3 Marketing mix of the Cambridge IGCSE Business 0
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/igcse-business-0264-marketing-mix--11-extension-strategies-fenwick.webp" width="900" height="1010" alt="Fenwick Gate sales rise to 42,000 in year 5 and fall to 18,000 by year 8; a dashed illustrative line shows sales held up by an extension. Four strategy cards give an advantage and disadvantage each." loading="lazy">
   <figcaption>Extension strategies try to hold up sales when a product matures or declines.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-0264-marketing-mix--14-brand-image-and-packaging.webp" width="900" height="780" alt="A pack with brand logo and ingredients label shows packaging protects, informs and attracts. A strong brand brings higher price, loyalty and easier launches; better packs cost more." loading="lazy">
+  <figcaption>Packaging protects, informs and shows the brand; a strong brand image pays back.</figcaption>
 </figure>
 
 <figure class="topic-figure">

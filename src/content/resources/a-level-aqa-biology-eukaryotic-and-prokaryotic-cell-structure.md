@@ -70,6 +70,12 @@ flagella (structural details of these are not required). Viruses are
 acellular and non-living; their structure includes genetic material, a
 capsid, and an attachment protein.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-biology-eukaryotic-and-prokaryotic-cell-structure--02-plant-cell.webp" width="900" height="830" alt="A plant cell drawn above part of its neighbour. A thick cellulose cell wall surrounds the cell surface membrane. Inside are a nucleus, a chloroplast with grana, an amyloplast with starch grains, and a large permanent vacuole bounded by the tonoplast. Between the two cells are the middle lamella, plasmodesmata channels through both walls, and a pair of aligned pits." loading="lazy">
+  <figcaption>Plant cells add a cellulose wall, chloroplasts, a large vacuole with a tonoplast and plasmodesmata; amyloplast, middle lamella and pits are Edexcel statements.</figcaption>
+</figure>
+
+
 ## How to approach it
 
 Learn eukaryotic organelles in function-linked pairs rather than as an
@@ -138,12 +144,6 @@ Link:        the folded cristae increase the surface area available for
 This structure-function-link pattern applies across every organelle in
 3.2.1.1 and is the format most consistently rewarded in mark schemes.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-level-aqa-biology-eukaryotic-and-prokaryotic-cell-structure--03-energy-organelles.webp" width="900" height="890" alt="A mitochondrion with a double membrane, an inner membrane folded into cristae and a fluid matrix containing circular DNA and 70S ribosomes; it carries out aerobic respiration. Below, a chloroplast with a double membrane, grana (stacks of thylakoids) in the stroma, a starch grain, circular DNA and 70S ribosomes; it carries out photosynthesis in plant cells." loading="lazy">
-  <figcaption>Both organelles have a double membrane, their own circular DNA and 70S ribosomes.</figcaption>
-</figure>
-
-
 ## Key terms to define precisely
 
 **Nucleolus** — a dense structure within the nucleus responsible for
@@ -165,6 +165,17 @@ comparing eukaryotic and prokaryotic cells, since the presence or
 absence of membrane-bound organelles is one of the specification's own
 four named differences between the two cell types (the absence of a
 nucleus and the form of the DNA are one bullet, not two).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-biology-eukaryotic-and-prokaryotic-cell-structure--01-animal-cell.webp" width="900" height="870" alt="A typical animal cell with its organelles labelled: cell surface membrane, nucleus with a two-membrane envelope with pores and a dark nucleolus, rough ER with ribosomes, smooth ER tubes without ribosomes, Golgi apparatus with vesicles, lysosome, a pair of centrioles at right angles, free ribosomes and mitochondria with folded inner membranes." loading="lazy">
+  <figcaption>The main organelles of an animal cell, drawn as seen with an electron microscope.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-biology-eukaryotic-and-prokaryotic-cell-structure--03-energy-organelles.webp" width="900" height="890" alt="A mitochondrion with a double membrane, an inner membrane folded into cristae and a fluid matrix containing circular DNA and 70S ribosomes; it carries out aerobic respiration. Below, a chloroplast with a double membrane, grana (stacks of thylakoids) in the stroma, a starch grain, circular DNA and 70S ribosomes; it carries out photosynthesis in plant cells." loading="lazy">
+  <figcaption>Both organelles have a double membrane, their own circular DNA and 70S ribosomes.</figcaption>
+</figure>
+
 
 ## Common mistakes
 

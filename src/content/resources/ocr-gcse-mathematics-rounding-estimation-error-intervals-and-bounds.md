@@ -212,6 +212,11 @@ The cabinet could be 75.4 cm while the gap is 74.6 cm. So **no, you cannot be su
   <figcaption>Half the rounding unit each side; include the lower end only.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-number--04-limits-of-accuracy.webp" width="900" height="810" alt="A number line from 4.50 to 4.70 kg shades the values from 4.55 to 4.65 that round to 4.6 kg. The lower bound 4.55 is included (filled dot); the upper bound 4.65 is not (open dot)." loading="lazy">
+  <figcaption>A value given to 1 d.p. can be up to half a unit (0.05) either side: 4.55 &lt;= mass &lt; 4.65.</figcaption>
+</figure>
+
 
 ## 4.01c Bounds of calculations (Higher tier only)
 

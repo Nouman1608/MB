@@ -82,6 +82,11 @@ In a longitudinal wave the vibration is parallel to the direction of energy tran
   <figcaption>A gap about one wavelength wide spreads waves strongly; a wide gap hardly does.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-physics-waves--04-total-internal-reflection.webp" width="900" height="1160" alt="Three rays in a glass semicircle: below the critical angle some light leaves, at 41.8 degrees the refracted ray runs along the surface, above it all light is reflected. sin c = 1/n (Extended)." loading="lazy">
+  <figcaption>Above the critical angle all the light is reflected back inside the glass.</figcaption>
+</figure>
+
 
 ### The ripple tank
 
@@ -180,6 +185,31 @@ Worked example 6: 1.6 cm object, 4.0 cm image, magnification 4.0/1.6 = **2.5**.
   <figcaption>An object between F and 2F gives a real, inverted, magnified image.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-physics-waves--05-lens-focus.webp" width="900" height="890" alt="Parallel rays meet at the principal focus after a converging lens. After a diverging lens they spread out and appear to come from a principal focus on the incoming side." loading="lazy">
+  <figcaption>A converging lens brings parallel rays to a focus; a diverging lens spreads them as if from a focus.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-physics-waves--06-lens-image.webp" width="900" height="770" alt="To-scale ray diagram with f = 120 and object at 300: image forms at 200, real, inverted and diminished." loading="lazy">
+  <figcaption>An object beyond 2F gives a real, inverted, diminished image.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-physics-lenses-image-formation-and-the-eye--08-lens-magnifier.webp" width="900" height="900" alt="Ray diagram for a convex lens with the object inside the principal focus. The two refracted rays spread out and never meet; dotted lines traced backwards meet 7.5 cm from the lens on the same side as the object, giving a virtual, upright image 5 cm tall, which is 2.5 times larger than the 2 cm object." loading="lazy">
+  <figcaption>Inside the principal focus a convex lens gives a larger, upright, virtual image.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-physics-lenses-image-formation-and-the-eye--09-lens-concave.webp" width="900" height="800" alt="Ray diagram for a concave lens. A ray parallel to the axis bends away from the axis, appearing to come from the principal focus on the object side; the ray through the centre is undeviated. The refracted rays never cross, but dotted lines traced back meet 4 cm from the lens on the object side, giving a virtual, upright image 1 cm tall (one third of the object)." loading="lazy">
+  <figcaption>A concave lens only ever makes a virtual, upright, smaller image.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-physics-lenses-image-formation-and-the-eye--11-sight-defects.webp" width="900" height="1000" alt="Four schematic eyes in two rows. Long sight: rays from a near object focus behind the retina, and a convex lens in front of the eye brings them to a focus on the retina. Short sight: parallel rays from a distant object focus in front of the retina, and a concave lens in front of the eye moves the focus back onto the retina." loading="lazy">
+  <figcaption>A convex lens corrects long sight and a concave lens corrects short sight.</figcaption>
+</figure>
+
 
 ### 3.2.4 Dispersion of light
 
@@ -193,6 +223,36 @@ White light is a mixture of colours. A glass prism refracts each colour by a dif
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/o-level-physics-waves--04-critical-angle-experiment.webp" width="900" height="1196" alt="Three views of a ray aimed at the centre of a semicircular block (n = 1.6) at 25 degrees, 38.7 degrees and 55 degrees. At 25 degrees the ray refracts out, at the critical angle it runs along the flat face, and at 55 degrees it is totally internally reflected." loading="lazy">
   <figcaption>Increase the angle and the refracted ray bends away until it runs along the face at the critical angle, then only reflection remains.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-reflection-refraction-lenses-and-colour--05-law-of-reflection.webp" width="900" height="830" alt="A ray hits a plane mirror at 35 degrees to the normal and reflects at 35 degrees on the other side. The 55 degree angle to the mirror surface is marked as the common wrong measurement." loading="lazy">
+  <figcaption>Angle of incidence equals angle of reflection, both measured from the normal.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-physics-reflection-refraction-refractive-index-and-total--03-plane-mirror.webp" width="900" height="1040" alt="An upright object O is 3.5 m from a vertical plane mirror. Two rays from its base reflect so that angle of incidence equals angle of reflection (36.9 and 24.2 degrees), measured from dashed normals. Dashed extensions behind the mirror meet at the image I, 3.5 m behind the mirror: virtual, upright and the same size." loading="lazy">
+  <figcaption>Two rays from O reflect with i = r and their backward extensions meet at the virtual image I, as far behind the mirror as O is in front.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-physics-waves--03-refraction-block.webp" width="900" height="940" alt="A ray at 45 degrees in air bends towards the normal to 28 degrees in glass (n = 1.5) and leaves parallel, bending away. n = sin i / sin r = 1.50 (Extended)." loading="lazy">
+  <figcaption>Light slows and bends towards the normal entering glass, and speeds up and bends away leaving it.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-physics-reflection-refraction-refractive-index-and-total--04-wavefront-refraction.webp" width="900" height="960" alt="Wavefronts meet an air-glass boundary at 45 degrees. In air (3.00e8 m/s) they are 545 nm apart; in glass (2.00e8 m/s) 364 nm apart, with the same frequency 5.50e14 Hz. The end entering first slows first, so the ray bends towards the normal to 28.1 degrees. n = 3.00/2.00 = 1.50." loading="lazy">
+  <figcaption>Wavefronts bunch closer in the slower medium, so the ray pivots towards the normal while frequency stays fixed.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-physics-reflection-refraction-refractive-index-and-total--07-optical-fibre.webp" width="900" height="740" alt="A ray in a fibre of n = 1.48 meets the wall at 60 degrees, above the 42.5 degree critical angle, and is totally internally reflected again and again. Uses are endoscopes and communications. A 2.0 km fibre gives a transit time of 9.9 microseconds." loading="lazy">
+  <figcaption>Light zigzags along a fibre by total internal reflection because it meets the wall above the critical angle.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-physics-reflection-refraction-refractive-index-and-total--05-prism-dispersion.webp" width="900" height="780" alt="White light enters a glass prism and is refracted at both faces. Red is bent least and violet most, in the order red, orange, yellow, green, blue, indigo, violet. The spread is exaggerated for clarity." loading="lazy">
+  <figcaption>White light splits into a spectrum because violet is bent more than red.</figcaption>
 </figure>
 
 
@@ -215,6 +275,11 @@ Worked example 7: a 100 MHz (1.0 × 10⁸ Hz) radio signal has λ = v/f = 3.0 ×
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/o-level-physics-waves--05-em-uses-dangers.webp" width="900" height="1116" alt="Seven bands from radio to gamma with their uses. Microwaves and infrared heat tissue and can burn; ultraviolet, X-rays and gamma rays are ionising and can cause cancer or cell mutation." loading="lazy">
   <figcaption>Each band has its own uses; microwaves and infrared heat, while ultraviolet, X-rays and gamma rays are ionising.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-physics-waves--07-em-spectrum.webp" width="900" height="950" alt="Seven regions from radio to gamma, each with a wave of shorter wavelength than the one above (illustrative) and one use. All travel at 3.0 x 10^8 m/s in a vacuum (Extended)." loading="lazy">
+  <figcaption>Frequency rises and wavelength falls from radio waves to gamma rays.</figcaption>
 </figure>
 
 

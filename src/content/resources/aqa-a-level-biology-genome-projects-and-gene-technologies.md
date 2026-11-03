@@ -70,6 +70,17 @@ TTACGGAATTCCGATTAGCAGTCCGGAATTCTTAGCCATGGATCCAAGTCGAATTCAGGCTA
 
 Three sites give four fragments from a linear piece. A circular plasmid with three sites gives three.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-genetic-technology--08-sanger-sequencing.webp" width="900" height="1061" alt="The template is copied by DNA polymerase. Strands of every length from 1 to 12 stop at a labelled dideoxynucleotide that lacks a 3 prime OH. Reading the last base from shortest to longest gives G A T T C G C T A A G C, the new strand 5 prime to 3 prime, complementary to the template." loading="lazy">
+  <figcaption>Chain-terminating nucleotides give fragments of every length, and the last bases read shortest to longest spell the new strand.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-genetic-technology--09-scnt-cloning.webp" width="900" height="1300" alt="A body cell nucleus is moved into a donor egg whose own nucleus has been removed, using an electric pulse. The egg divides to an early embryo that is implanted in a surrogate mother. The clone has the nuclear DNA of the body-cell donor. In a trial 150 eggs gave 60 embryos, 12 pregnancies, 5 births and 3 survivors, 2 percent." loading="lazy">
+  <figcaption>SCNT puts an adult body-cell nucleus into an enucleated egg, but only about 2% of reconstructed eggs give a surviving animal.</figcaption>
+</figure>
+
+
 ### Amplifying DNA in vitro: PCR
 
 The polymerase chain reaction copies a DNA fragment many times in a machine called a thermocycler. The mixture contains the template DNA, a pair of primers, free nucleotides and a heat-stable DNA polymerase (Taq polymerase, from a bacterium that lives in hot water). Each cycle has three stages.
@@ -83,12 +94,6 @@ The number of copies doubles each cycle, so the number of molecules is starting 
 **Worked example.** One template molecule is amplified for 30 cycles. Copies = 2³⁰ = 1 073 741 824, about 1.07 × 10⁹. A sample with 4 starting molecules after 6 cycles gives 4 × 2⁶ = 256.
 
 A heat-stable polymerase is used so it is not denatured at each 95 °C step.
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-level-biology-9700-genetic-technology--08-sanger-sequencing.webp" width="900" height="1061" alt="The template is copied by DNA polymerase. Strands of every length from 1 to 12 stop at a labelled dideoxynucleotide that lacks a 3 prime OH. Reading the last base from shortest to longest gives G A T T C G C T A A G C, the new strand 5 prime to 3 prime, complementary to the template." loading="lazy">
-  <figcaption>Chain-terminating nucleotides give fragments of every length, and the last bases read shortest to longest spell the new strand.</figcaption>
-</figure>
-
 
 ### Amplifying DNA in vivo: transformed host cells
 

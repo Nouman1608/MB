@@ -85,6 +85,27 @@ A linear function is f(x) = mx + c. The gradient m is the change in output for e
 
 **As a model.** A taxi fare is a fixed fee c plus a rate m per kilometre, valid only for distances of zero or more.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-graphs-in-practical-situations--02-taxi-fare.webp" width="900" height="930" alt="A taxi cost graph starts at $3 on the vertical axis, the fixed charge. The gradient is 15 dollars per 10 km, $1.50 per km, and $24 is read across to 14 km. A 20 km ride costs $33, not the $36 that scaling would give." loading="lazy">
+  <figcaption>A line with an intercept: gradient is the rate, intercept is the fixed charge, and scaling fails.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-coordinate-geometry--04-y-mx-c.webp" width="900" height="990" alt="The line y = 2x - 1 crosses the y-axis at (0, -1) so c = -1. Between (1, 1) and (3, 5) it goes 2 across and 4 up, so m = 2." loading="lazy">
+  <figcaption>m is the gradient and c is where the line crosses the y-axis.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-coordinate-geometry--05-parallel-lines.webp" width="900" height="1000" alt="Lines y = 2x - 1 and y = 2x + 3 each go 1 across and 2 up, so they are parallel. The parallel line through P (1, 5) has c = 3." loading="lazy">
+  <figcaption>Parallel lines share a gradient; use a point to find c.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-coordinate-geometry--06-perpendicular-lines.webp" width="900" height="960" alt="Two lines meet at right angles at (0, 1). One has gradient 2/3 and the other -3/2; their product is -1." loading="lazy">
+  <figcaption>Perpendicular gradients multiply to -1.</figcaption>
+</figure>
+
+
 ## Simultaneous equations
 
 The solution of two equations is the pair of values that satisfies both. Graphically it is the intersection of the two lines. Parallel lines never meet, so there is no solution.
@@ -100,6 +121,11 @@ On a graph, draw both lines on one set of axes and read where they cross. A grap
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/ib-myp-mathematics-functions-and-models-linear-quadratic-exponential-and--15-fm-simultaneous.webp" width="900" height="1160" alt="Two graphs: y = 2x + 1 and 3x + 2y = 16 cross at (2, 5); 2x + 3y = 12 and 5x - 3y = 9 cross at (3, 2). Dashed lines drop to the axes." loading="lazy">
   <figcaption>The algebraic solution is the crossing point of the two lines.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-algebra-and-graphs--02-simultaneous-lines.webp" width="900" height="940" alt="The lines 2x + y = 7 and x − y = 2 are graphed and cross at (3, 1). Adding the equations gives 3x = 9, so x = 3, and then y = 1. The crossing point is the one pair of values that fits both equations." loading="lazy">
+  <figcaption>The solution of simultaneous equations is where their graphs cross.</figcaption>
 </figure>
 
 
@@ -156,6 +182,16 @@ A quadratic has an x² term and graphs as a parabola. The guide lists three form
   <figcaption>A larger |a| gives a narrower parabola.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-graphs-of-functions-and-sketching-curves--04-sketch-quadratic.webp" width="900" height="1160" alt="A sketch of y = x² + 2x − 15: a U-shape crossing the x-axis at (−5, 0) and (3, 0) and the y-axis at (0, −15), symmetrical about x = −1. The turning point (−1, −16), from completing the square, is Extended only." loading="lazy">
+  <figcaption>A sketch shows shape, roots, y-intercept and symmetry; Extended adds the turning point.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-introduction-to-algebra-and-manipulation--06-complete-the-square.webp" width="900" height="870" alt="A square of side x + 4 is built from x^2, two strips 4x and a 4 by 4 corner of 16. So x^2 + 8x = (x + 4)^2 - 16, and x^2 + 8x - 5 = (x + 4)^2 - 21." loading="lazy">
+  <figcaption>Half of 8 gives p = 4; the 16 added to complete the square must be taken away.</figcaption>
+</figure>
+
 
 ## Exponential functions and horizontal asymptotes
 
@@ -172,6 +208,17 @@ The graph of 3 × 2ˣ rises ever more steeply to the right and flattens towards 
 
 **Using models well.** Name the assumptions, check the answer is sensible for the context, and be wary of **extrapolation**, which means using the model beyond the data that built it. Exponential growth cannot continue forever, because algae run out of space.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-graphs-of-functions-and-sketching-curves--06-asymptotes.webp" width="900" height="1230" alt="Two Extended sketches with dashed asymptotes. y = 2/x + 1 has asymptotes x = 0 and y = 1 and crosses the x-axis at (−2, 0). y = 3 × 2ˣ − 6 has asymptote y = −6, y-intercept (0, −3) and root x = 1." loading="lazy">
+  <figcaption>Reciprocal and exponential curves approach their asymptotes but never cross or touch them.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-exponential-growth-decay-and-surds--03-fish-decay-target.webp" width="900" height="740" alt="A curve of 3600 fish falling 6% a year with a dashed line at 2000. Year 9 gives 2063 (above) and year 10 gives 1939 (below), so year 10 is the first year below 2000." loading="lazy">
+  <figcaption>Show the years either side of the target to prove which year first passes it.</figcaption>
+</figure>
+
+
 ## Extended: domain and range
 
 The **domain** lists every input the rule accepts and the context allows. The **range** lists every output the rule produces.
@@ -179,6 +226,12 @@ The **domain** lists every input the rule accepts and the context allows. The **
 - f(x) = x² - 6x + 5 has domain all real numbers. Its minimum is -4, so the range is f(x) ≥ -4.
 - g(x) = 2ˣ has domain all reals and range g(x) > 0, because of the asymptote y = 0.
 - A real context restricts the domain: for the ball above the domain is 0 ≤ t ≤ 4.05.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-functions--03-domain-range-graphs.webp" width="900" height="1110" alt="Top graph: g(x) = 3x squared plus 1 has lowest point (0, 1), so its range is g(x) at least 1. Bottom graph: k(x) = 5 over (x minus 4) has a gap at x = 4 where the rule divides by zero, so x = 4 is not in the domain." loading="lazy">
+  <figcaption>g(x) = 3x² + 1 never goes below 1, and k(x) = 5/(x − 4) has no value at x = 4.</figcaption>
+</figure>
+
 
 ## Extended: rational functions (ax + b)/(cx + d)
 
@@ -240,6 +293,21 @@ An asymptote is read from the rule: look for inputs that make a denominator zero
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/ib-myp-mathematics-functions-and-models-linear-quadratic-exponential-and--11-fm-log-mirror.webp" width="900" height="1010" alt="Graph of y = 2^x and y = log2 x as mirror images in y = x. The log curve passes (1, 0), (2, 1), (4, 2), (8, 3), has asymptote x = 0 and only x &gt; 0. A note gives ln x as base e, about 2.718, and e^x = 7 giving x = ln 7, about 1.95." loading="lazy">
   <figcaption>The logarithm curve is the reflection of the exponential curve in y = x.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-graphs-of-functions-and-sketching-curves--05-sketch-cubic.webp" width="900" height="1030" alt="Sketch of y = x³ − 4x² + 3x = x(x − 1)(x − 3). The curve crosses the x-axis at 0, 1 and 3, coming up from bottom left, turning twice, and rising to top right because the x³ coefficient is positive." loading="lazy">
+  <figcaption>Factorise a cubic to find its roots, then follow the rise, turn, fall, turn, rise.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-exact-trigonometric-values-and-trigonometric-functions--03-sin-cos-graphs.webp" width="900" height="810" alt="Graphs of y = sin x and y = cos x from 0 to 360 degrees with key points marked at multiples of 90 degrees. Both are waves between minus 1 and 1 repeating every 360 degrees; cos is sin shifted by 90 degrees." loading="lazy">
+  <figcaption>Sin and cos are waves between -1 and 1 that repeat every 360 degrees.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-exact-trigonometric-values-and-trigonometric-functions--04-tan-graph.webp" width="900" height="860" alt="Graph of y = tan x from 0 to 360 degrees with dashed asymptotes at 90 and 270 degrees. Branches pass through (0,0), (180,0) and (360,0), approach the asymptotes without touching, and repeat every 180 degrees." loading="lazy">
+  <figcaption>Tan x has asymptotes at 90 and 270 degrees and repeats every 180 degrees.</figcaption>
 </figure>
 
 

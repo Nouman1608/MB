@@ -48,6 +48,12 @@ place this topic in the course; use the [free 10-minute diagnostics](/diagnostic
 | Structural isomers | Same molecular formula, different structural formula |
 | Carbon-neutral | No net CO₂ added to the atmosphere over the fuel's whole life cycle |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-organic-chemistry-naming-mechanisms-and-aromatic-shape--02-bond-fission.webp" width="900" height="1170" alt="Cl-Cl splits with one electron to each atom giving two free radicals; H-Br splits with both electrons to Br giving H+ and Br-. Curly arrows start on the bond and end on the atom receiving the electrons." loading="lazy">
+  <figcaption>Homolytic fission gives radicals, heterolytic fission gives ions (AQA, Edexcel, OCR, OxfordAQA).</figcaption>
+</figure>
+
+
 ## Reducing risk (4.2–4.3)
 
 Organic liquids are often volatile, flammable and sometimes toxic, so every practical needs a risk
@@ -197,11 +203,6 @@ Conditions: alkane + Cl₂ or Br₂, ultraviolet light. Example: cyclohexane and
 
 Limited use in synthesis: the product can be substituted further (C₆H₁₀Cl₂ and beyond), and
 termination gives side products, so you get a mixture and a low yield of any one compound.
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-organic-chemistry-naming-mechanisms-and-aromatic-shape--02-bond-fission.webp" width="900" height="1170" alt="Cl-Cl splits with one electron to each atom giving two free radicals; H-Br splits with both electrons to Br giving H+ and Br-. Curly arrows start on the bond and end on the atom receiving the electrons." loading="lazy">
-  <figcaption>Homolytic fission gives radicals, heterolytic fission gives ions (AQA, Edexcel, OCR, OxfordAQA).</figcaption>
-</figure>
 
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/a-organic-chemistry-naming-mechanisms-and-aromatic-shape--03-radical-substitution.webp" width="900" height="1160" alt="Initiation by UV splits Cl2; two propagation steps form a repeating cycle (Cl radical to methyl radical and back) making HCl and CH3Cl; termination steps remove radicals." loading="lazy">

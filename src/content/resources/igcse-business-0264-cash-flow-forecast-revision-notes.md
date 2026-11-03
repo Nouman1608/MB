@@ -104,12 +104,6 @@ If a figure is missing in the middle, work backwards with the formula table abov
 - Comment on reliability: it is made of estimates.
 - Always use figures in the answer and state a consequence.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-business-0264-cash-flow-forecast--01-cf-moorgate.webp" width="900" height="1130" alt="Bar charts in dollars for March to June. Net cash flow is +500, -10,800, +1,600 and +2,000; the April dip is the 12,000 press. Closing balances are 3,500, -7,300, -5,700 and -3,700. Without the press they would be 3,500, 4,700, 6,300 and 8,300." loading="lazy">
-  <figcaption>One large payment, not day-to-day trading, causes Moorgate's shortage.</figcaption>
-</figure>
-
-
 ## Short-term cash flow problems: the four methods
 
 | Method | Benefit | Drawback |
@@ -205,6 +199,12 @@ Trevane Candles opens March with 1,500. Forecast inflows are 4,000, 3,200 and 5,
 10. Interest is charged, or the bank can reduce or withdraw the overdraft.
 11. April inflow is 2,000, net is 2,000 - 3,900 = -1,900, closing is 900 - 1,900 = -1,000. May inflow is 6,300, net is 6,300 - 4,300 = 2,000, closing is -1,000 + 2,000 = 1,000. May returns to the original figure.
 12. 2,700 + (-700) = 2,000.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-0264-cash-flow-forecast--01-cf-moorgate.webp" width="900" height="1130" alt="Bar charts in dollars for March to June. Net cash flow is +500, -10,800, +1,600 and +2,000; the April dip is the 12,000 press. Closing balances are 3,500, -7,300, -5,700 and -3,700. Without the press they would be 3,500, 4,700, 6,300 and 8,300." loading="lazy">
+  <figcaption>One large payment, not day-to-day trading, causes Moorgate's shortage.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

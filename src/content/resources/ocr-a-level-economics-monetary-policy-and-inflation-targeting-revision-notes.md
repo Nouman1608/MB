@@ -116,12 +116,6 @@ Condensed recall for the OCR *A Level Economics (H460)* Monetary policy topic (s
 5. Add a second-round effect, for example on the exchange rate or house prices.
 6. Evaluate size and timing.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ocr-a-level-economics-monetary-policy-and-inflation-targeting--08-mon-rate-cut-multiplier.webp" width="900" height="790" alt="A bar of 2.4 billion mu made of consumption 1.2, investment 0.8 and net exports 0.4 is multiplied by 2.5 to give a 6.0 billion rise in output, which is 3.0% of real GDP of 200 billion." loading="lazy">
-  <figcaption>An initial 2.4 bn rise in AD becomes 6.0 bn of output, 3.0% of GDP, with a multiplier of 2.5.</figcaption>
-</figure>
-
-
 ## Liquidity trap checklist
 
 - Interest rates are close to zero.
@@ -131,8 +125,13 @@ Condensed recall for the OCR *A Level Economics (H460)* Monetary policy topic (s
 - Alternatives are QE, forward guidance and fiscal policy. Fiscal policy is covered in other units.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ocr-a-level-economics-monetary-policy-and-inflation-targeting--09-mon-liquidity-trap.webp" width="900" height="860" alt="A line graph of the real rate against the nominal policy rate with expected deflation of 1% a year. Points at 0.25% and 0% give real rates of 1.26% and 1.01%. A real rate of zero would need a nominal rate of minus 1%, in a shaded zone where banks cannot pass on cuts." loading="lazy">
-  <figcaption>With prices falling 1% a year, cutting the policy rate from 0.25% to 0% moves the real rate only from 1.26% to 1.01%.</figcaption>
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-monetary-policy-and-inflation-targeting--08-mon-rate-cut-multiplier.webp" width="900" height="790" alt="A bar of 2.4 billion mu made of consumption 1.2, investment 0.8 and net exports 0.4 is multiplied by 2.5 to give a 6.0 billion rise in output, which is 3.0% of real GDP of 200 billion." loading="lazy">
+  <figcaption>An initial 2.4 bn rise in AD becomes 6.0 bn of output, 3.0% of GDP, with a multiplier of 2.5.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-monetary-policy-and-inflation-targeting--14-monetary-policy-weak-links.webp" width="900" height="830" alt="A chain from a rate cut to households and firms spending more, AD rising and output and prices responding, with three marked problems: side effects on asset prices and wealth, weak transmission when households are cautious or indebted, and time lags of a year or more." loading="lazy">
+  <figcaption>A rate cut can disappoint because the chain from rate to output is slow, weak and has side effects.</figcaption>
 </figure>
 
 
@@ -170,6 +169,12 @@ Credible targets anchor expectations. Workers claim less, firms plan investment 
 | Global factors | Open economies face foreign shocks that domestic rates do not affect |
 | Judgement | Depends on cause of inflation, level of rates, credibility and spare capacity |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-objectives-of-government--02-inflation-causes.webp" width="900" height="1090" alt="Two illustrative AD/AS diagrams. Demand-pull: AD shifts right and the price level rises. Cost-push: AS shifts up and left and the price level rises. Boxes give the cause chain and the policy response from the lesson." loading="lazy">
+  <figcaption>Demand-pull starts with demand; cost-push starts with rising costs.</figcaption>
+</figure>
+
+
 ## How a central bank works to achieve its aims
 
 1. Gather data and forecast inflation and output.
@@ -178,12 +183,6 @@ Credible targets anchor expectations. Workers claim less, firms plan investment 
 4. Announce and explain the decision.
 5. Use market operations to bring market rates into line, or QE if rates are at the floor.
 6. Review outcomes and account for misses.
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ocr-a-level-economics-monetary-policy-and-inflation-targeting--13-central-bank-six-steps.webp" width="900" height="990" alt="Six steps in a loop: collect data, forecast, compare with the target and vote, announce, use market operations (QE at the floor), review and explain misses. The bank is independent but accountable." loading="lazy">
-  <figcaption>A central bank repeats a data, forecast, decide, communicate, act and review cycle.</figcaption>
-</figure>
-
 
 ## Quick self-test
 
@@ -212,8 +211,23 @@ Credible targets anchor expectations. Workers claim less, firms plan investment 
 10. The shock comes from supply (such as imported inputs), so cutting AD lowers output and jobs but does not reduce those costs.
 
 <figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-monetary-policy-and-inflation-targeting--09-mon-liquidity-trap.webp" width="900" height="860" alt="A line graph of the real rate against the nominal policy rate with expected deflation of 1% a year. Points at 0.25% and 0% give real rates of 1.26% and 1.01%. A real rate of zero would need a nominal rate of minus 1%, in a shaded zone where banks cannot pass on cuts." loading="lazy">
+  <figcaption>With prices falling 1% a year, cutting the policy rate from 0.25% to 0% moves the real rate only from 1.26% to 1.01%.</figcaption>
+</figure>
+
+<figure class="topic-figure">
   <img src="https://img.marlbridge.com/ocr-a-level-economics-monetary-policy-and-inflation-targeting--12-target-cpi-wage-claims.webp" width="900" height="1040" alt="CPI 125.0 to 128.5 is +2.8%, against a 2% target level of 127.5, so 0.8 points above target. Wage claims equal productivity 1.5% plus expected inflation: 3.5% if 2% is expected, 5.5% if 4%." loading="lazy">
   <figcaption>A credible target anchors expectations and so wage claims.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-monetary-policy-and-inflation-targeting--13-central-bank-six-steps.webp" width="900" height="990" alt="Six steps in a loop: collect data, forecast, compare with the target and vote, announce, use market operations (QE at the floor), review and explain misses. The bank is independent but accountable." loading="lazy">
+  <figcaption>A central bank repeats a data, forecast, decide, communicate, act and review cycle.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-economics-microeconomic-decision-makers--02-central-and-commercial-banks.webp" width="900" height="1090" alt="A central bank sets the base interest rate for commercial banks. Households and firms deposit money with commercial banks and receive loans from them." loading="lazy">
+  <figcaption>The central bank sets the base rate; commercial banks take deposits and make loans.</figcaption>
 </figure>
 
 
@@ -240,3 +254,9 @@ Credible targets anchor expectations. Workers claim less, firms plan investment 
 ## Official syllabus
 
 OCR, *A Level in Economics (H460)* specification, Version 3.0 (June 2026), for first assessment in 2021, Macroeconomics: application of policy instruments, Monetary policy.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-macroeconomics--02-ad-shift.webp" width="900" height="1020" alt="Aggregate demand shifts right from AD1 to AD2 along an upward-sloping SRAS, so equilibrium moves from E1 to E2 with higher output and price level. A vertical LRAS shows spare capacity remains." loading="lazy">
+  <figcaption>A rise in a component of AD (C, I, G or X minus M) shifts the whole AD curve and raises output and the price level.</figcaption>
+</figure>
+

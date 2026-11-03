@@ -160,12 +160,6 @@ environmental impact and cost) is covered in its own [National and
 Global Energy Resources study guide](/resources/aqa-gcse-physics-national-and-global-energy-resources/),
 the next sub-topic after this one.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/aqa-gcse-physics-energy-changes-in-a-system--06-two-motors-power.webp" width="900" height="1100" alt="Two motors each lift a 50 N weight through 2.0 m, doing 100 J of work. The slow motor takes 4.0 s (25 W); the fast motor takes 2.0 s (50 W)." loading="lazy">
-  <figcaption>Same work in less time means greater power.</figcaption>
-</figure>
-
-
 ## Exam traps
 
 - Calling heat or light an energy *store*.
@@ -184,3 +178,9 @@ the next sub-topic after this one.
 5. If a car doubles its speed, what happens to its kinetic energy, and why does that matter?
 
 **Answers:** 1. Stores include kinetic, gravitational potential, elastic potential, chemical, thermal, magnetic, electrostatic and nuclear; pathways are mechanical, electrical, heating and radiation. 2. Energy cannot be created or destroyed, only transferred between stores, stored, or dissipated. 3. It is dissipated to the thermal store of the surroundings, becoming spread out and too dilute to be useful — it is not destroyed. 4. Its thickness and its thermal conductivity. 5. Kinetic energy quadruples, because Eₖ depends on v²; this is why braking distance increases so steeply with speed.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-physics-energy-changes-in-a-system--06-two-motors-power.webp" width="900" height="1100" alt="Two motors each lift a 50 N weight through 2.0 m, doing 100 J of work. The slow motor takes 4.0 s (25 W); the fast motor takes 2.0 s (50 W)." loading="lazy">
+  <figcaption>Same work in less time means greater power.</figcaption>
+</figure>
+

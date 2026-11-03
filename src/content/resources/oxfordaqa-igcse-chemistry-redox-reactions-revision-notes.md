@@ -186,12 +186,6 @@ The metal oxide loses oxygen, so it is reduced. Carbon gains that oxygen, so it 
 
 To build a row: the metal ion goes to the cathode and gains as many electrons as its charge. The non-metal ion goes to the anode, pairs up into a molecule and gives out electrons.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/oxfordaqa-igcse-chemistry-redox-reactions--05-electrolysis-redox.webp" width="900" height="880" alt="Molten calcium bromide between a negative cathode and positive anode. Ca2+ moves to the cathode and gains two electrons (reduction). Br- moves to the anode where two ions lose two electrons to make Br2 (oxidation)." loading="lazy">
-  <figcaption>Reduction happens at the cathode and oxidation at the anode.</figcaption>
-</figure>
-
-
 ## Quick self-test
 
 1. State the meaning of oxidation in terms of oxygen.
@@ -219,6 +213,12 @@ To build a row: the metal ion goes to the cathode and gains as many electrons as
 9. The iodide ion, I⁻ (2I⁻ → I₂ + 2e⁻).
 10. Bromine, Br₂. Each molecule gains two electrons and forms two Br⁻ ions.
 11. Potassium has its outer electron in a higher energy level than lithium does, so the nucleus holds it less strongly and potassium gives it up more readily.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-chemistry-redox-reactions--05-electrolysis-redox.webp" width="900" height="880" alt="Molten calcium bromide between a negative cathode and positive anode. Ca2+ moves to the cathode and gains two electrons (reduction). Br- moves to the anode where two ions lose two electrons to make Br2 (oxidation)." loading="lazy">
+  <figcaption>Reduction happens at the cathode and oxidation at the anode.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

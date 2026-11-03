@@ -88,6 +88,12 @@ Remember that correlation does not imply causation (2.02e): a
 significant result says the variables are linearly associated, not
 that one causes the other.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-data-presentation-and-interpretation--02-variance-squares.webp" width="900" height="1058" alt="Eight data values 2, 4, 4, 4, 5, 5, 7 and 9 are shown on a number line with their distances from the mean 5: minus 3, minus 1, minus 1, minus 1, 0, 0, plus 2 and plus 4. A square is drawn on each distance, with areas 9, 1, 1, 1, 0, 0, 4 and 16, which total 32. The mean of these areas is 32 divided by 8, which is 4: that is the variance. Its square root, the side of a square of area 4, is the standard deviation 2. The shortcut sum of x squared over n minus the mean squared gives 232 over 8 minus 25, which is also 4." loading="lazy">
+  <figcaption>Variance is the mean of the squared distances from the mean; the standard deviation is the side of that mean square.</figcaption>
+</figure>
+
+
 ## Why Statistics is assessed with a pre-release data set
 
 Unlike Pure Mathematics or Mechanics, Statistics at OCR is examined
@@ -183,6 +189,11 @@ example, algebraic manipulation to find an unknown probability) inside
 a statistics context, since OCR's papers are not written to keep the
 two strands in fully separate questions.
 
+## Related resources
+
+- [Statistics revision notes](/resources/ocr-a-level-mathematics-statistics-revision-notes/)
+- [Statistics practice questions](/resources/ocr-a-level-mathematics-statistics-practice/)
+
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/aqa-a-level-mathematics-data-presentation-and-interpretation--04-sampling-methods.webp" width="900" height="1250" alt="Three grids of the same 60 numbered people, in 6 rows of 10, with three groups shown by shape: group A circles (24), group B squares (20) and group C diamonds (16). Systematic sampling picks every 4th person from a random start of 3, giving 15 people (3, 7, 11 up to 59); the risk is a repeating pattern in the list. Stratified sampling picks 6, 5 and 4 people at random from groups A, B and C, in proportion to group size, again 15 people. Cluster sampling picks 2 of the 6 rows at random and asks everyone in them, 20 people. A note says quota sampling is like stratified sampling but the people asked are not chosen at random." loading="lazy">
   <figcaption>How each method picks its sample; quota is stratified without random selection.</figcaption>
@@ -193,11 +204,6 @@ two strands in fully separate questions.
   <figcaption>A statistic varies from sample to sample, and its sampling distribution shows how it behaves.</figcaption>
 </figure>
 
-
-## Related resources
-
-- [Statistics revision notes](/resources/ocr-a-level-mathematics-statistics-revision-notes/)
-- [Statistics practice questions](/resources/ocr-a-level-mathematics-statistics-practice/)
 
 ## Official syllabus
 

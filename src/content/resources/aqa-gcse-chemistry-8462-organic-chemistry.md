@@ -145,6 +145,11 @@ Carbon: 13 − 9 = 4, shared between two molecules, so 2 C each. Hydrogen: 28 �
   <figcaption>Heat and a catalyst crack decane into octane and ethene.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/petroleum-alkanes-and-alkenes--05-bromine-water-test.webp" width="900" height="1030" alt="Two rows of test tubes. Orange bromine water shaken with an alkane (ethane) stays orange. Shaken with an alkene (ethene) it turns colourless, because bromine adds across the C=C double bond." loading="lazy">
+  <figcaption>Alkane: stays orange. Alkene: orange to colourless.</figcaption>
+</figure>
+
 
 ## Alkenes and their reactions (4.7.2.1–4.7.2.2)
 
@@ -192,6 +197,21 @@ You must be able to draw displayed formulae of all four alkenes and their produc
   <figcaption>Alkenes tend to burn with smoky flames because of incomplete combustion.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/petroleum-alkanes-and-alkenes--02-alkane-alkene-structure.webp" width="900" height="830" alt="Displayed formulae of ethane and ethene. Ethane has only single bonds, so it is saturated, general formula CnH2n+2 (C2H6). Ethene has a C=C double bond, so it is unsaturated, general formula CnH2n (C2H4). Every carbon makes four bonds." loading="lazy">
+  <figcaption>Ethane has only single bonds; ethene has a C=C double bond.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/organic-chemistry-formulae-and-naming--04-saturated-unsaturated.webp" width="900" height="910" alt="Ethane with only a single C-C bond is saturated and alkanes mostly undergo substitution; ethene with a C=C bond is unsaturated and alkenes mostly undergo addition." loading="lazy">
+  <figcaption>Alkanes have only single C-C bonds, alkenes have a C=C bond.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/petroleum-alkanes-and-alkenes--06-alkene-addition.webp" width="900" height="1060" alt="Ethene reacts by addition three ways. With bromine it gives 1,2-dibromoethane, with hydrogen (nickel catalyst) it gives ethane, and with steam (acid catalyst) it gives ethanol. The C=C bond becomes single and the added atoms, highlighted, attach to the two carbons. Only one product forms each time." loading="lazy">
+  <figcaption>Ethene adds Br2, H2 or H2O across C=C to give one product each.</figcaption>
+</figure>
+
 
 ## Alcohols (4.7.2.3)
 
@@ -215,6 +235,21 @@ The only alcohol equations you must write are combustion equations: C2H5OH + 3O2
   <figcaption>Ethanol fizzes with sodium, burns cleanly, dissolves to a neutral solution and is oxidised to ethanoic acid.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/alcohols-and-carboxylic-acids--03-ethanol-combustion.webp" width="900" height="950" alt="Ball models show one ethanol molecule and three oxygen molecules turning into two carbon dioxide and three water molecules, releasing heat. Both sides contain 2 carbon, 6 hydrogen and 7 oxygen atoms. Ethanol is used as a fuel and as a solvent." loading="lazy">
+  <figcaption>Burning ethanol makes carbon dioxide and water and releases heat; ethanol is a fuel and a solvent.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/alcohols-and-carboxylic-acids--05-ethanol-oxidation.webp" width="900" height="900" alt="Displayed formulae show ethanol losing two hydrogen atoms from the CH2 carbon and gaining a double-bonded oxygen to become ethanoic acid, with water also made. Two ways to do it: acidified potassium manganate(VII) in the lab, and bacteria turning wine or cider into vinegar." loading="lazy">
+  <figcaption>Oxidation adds O and removes H, done by acidified manganate(VII) or by bacteria in vinegar making.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/alcohols-and-carboxylic-acids--01-two-routes-to-ethanol.webp" width="900" height="1000" alt="Top: a sealed flask of glucose and yeast at 25-35 C with no oxygen gives dilute ethanol, and carbon dioxide leaves through a tube. Bottom: ethene and steam pass over an acid catalyst in a reactor at 300 C and 6000 kPa to give pure ethanol." loading="lazy">
+  <figcaption>Fermentation is sealed, mild and makes dilute ethanol; steam and ethene need 300 C, 6000 kPa and an acid catalyst.</figcaption>
+</figure>
+
 
 ## Carboxylic acids (4.7.2.4)
 
@@ -227,6 +262,22 @@ Carboxylic acids contain **–COOH**. The first four are **methanoic acid** HCOO
 You do not have to write balanced equations for carboxylic acid reactions.
 
 **Higher tier only -- why they are weak acids.** A carboxylic acid only **partially ionises** in water, so the concentration of H⁺ ions is lower than for a strong acid (which fully ionises) at the same concentration. That is why its pH is higher.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/alcohols-and-carboxylic-acids--04-ethanoic-acid-salts.webp" width="900" height="1030" alt="Ethanoic acid reacts with magnesium to give magnesium ethanoate and hydrogen, with sodium hydroxide to give sodium ethanoate and water, and with sodium carbonate to give sodium ethanoate, water and carbon dioxide. Salts of ethanoic acid are ethanoates." loading="lazy">
+  <figcaption>Ethanoic acid reacts with a metal, a base or a carbonate to make an ethanoate salt.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/alcohols-and-carboxylic-acids--06-esterification.webp" width="900" height="960" alt="Ethanoic acid and ethanol react with an acid catalyst to make the ester ethyl ethanoate and water. The OH from the acid and the H from the alcohol leave as water. The alcohol supplies the ethyl part of the name and the acid supplies the ethanoate part." loading="lazy">
+  <figcaption>An acid and an alcohol with an acid catalyst make an ester and water; ethyl comes from the alcohol, ethanoate from the acid.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/acids-bases-and-salts--04-strong-weak-acids.webp" width="900" height="1090" alt="Two boxes of ten acid particles. In hydrochloric acid all ten split into H+ and Cl- ions. In ethanoic acid only two split and eight stay as molecules, so it uses a reversible arrow." loading="lazy">
+  <figcaption>Strong acids split completely; weak acids only partly.</figcaption>
+</figure>
+
 
 ## Polymers (4.7.3)
 
@@ -250,6 +301,16 @@ Mr of C3H6 = 3 × 12 + 6 × 1 = 42. Number of units = 84 000 ÷ 42 = **2000**.
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/aqa-gcse-chemistry-8462-organic-chemistry--11-oc-polypropene-mr.webp" width="900" height="890" alt="Propene drawn as a displayed formula becomes the poly(propene) repeat unit in brackets. Mr of C3H6 is 42, so a chain of Mr 84 000 contains 84 000 / 42 = 2000 monomers." loading="lazy">
   <figcaption>The repeat unit has the same atoms as propene, Mr 42, so Mr 84 000 means 2000 units.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/polymers--02-poly-ethene.webp" width="900" height="990" alt="Four ethene molecules each have a C=C double bond. The double bonds open and the molecules join into one long chain of single-bonded carbons with new bonds between units. One CH2-CH2 repeat unit is bracketed and repeated n times, and nothing else is made." loading="lazy">
+  <figcaption>Opening each C=C bond joins ethene monomers into poly(ethene) with no other product.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/polymers--03-alkene-repeat-unit.webp" width="900" height="1140" alt="Ethene and propene are each shown turning into a bracketed repeat unit when the C=C opens, with an arrow back to show closing the bond recovers the monomer. A crossed-out version shows the wrong answer that keeps the C=C inside the brackets." loading="lazy">
+  <figcaption>Open the C=C to get the repeat unit; close it again to get the monomer.</figcaption>
 </figure>
 
 
@@ -281,6 +342,11 @@ Amino acids have two **different** functional groups: an amine group (–NH2) an
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/aqa-gcse-chemistry-8462-organic-chemistry--11-aqa-natural-polymers.webp" width="900" height="1010" alt="Four rows show natural polymers as chains of beads. DNA is two chains in a double helix, made from four different monomers called nucleotides, drawn as four different bead shapes. A protein is a chain of amino acids, drawn as beads of different colours. Starch is a chain of glucose, a sugar, drawn as identical beads labelled G." loading="lazy">
   <figcaption>DNA, proteins, starch and cellulose are chains built from nucleotides, amino acids and glucose.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/polymers--01-monomers-polymers-plastics.webp" width="900" height="1055" alt="Eight separate circles join into one long chain labelled polymer. A plastic bottle is magnified to show tangled polymer chains inside the material." loading="lazy">
+  <figcaption>Monomers join into long polymer chains, and plastic is the material made from them.</figcaption>
 </figure>
 
 

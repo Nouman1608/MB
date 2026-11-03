@@ -45,12 +45,6 @@ Each test uses small amounts: a spatula tip of solid dissolved in about 2 cm³ o
 - Warm with a water bath rather than a direct flame when only gentle warming is needed.
 - Record what you see in precise words: "white precipitate", "effervescence", "colourless gas", "no visible change". Write the observation first and the conclusion second.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-reactions-of-ions-in-aqueous-solution--03-hydroxide-ammonia-tests.webp" width="900" height="1220" alt="A grid of test tubes for Fe2+, Cu2+, Fe3+ and Al3+ showing the starting solution and the result with a few drops and excess NaOH, then NH3. Fe2+ gives a green and Fe3+ a brown precipitate that never dissolves; Cu2+ gives a pale blue precipitate that dissolves only in excess NH3 to a deep blue solution; Al3+ gives a white precipitate that dissolves only in excess NaOH." loading="lazy">
-  <figcaption>Two results are special: Al(OH)3 dissolves in excess NaOH and Cu(OH)2 dissolves in excess NH3.</figcaption>
-</figure>
-
-
 ## 3.1.4(a)(i): Testing for carbonate ions
 
 **Reagent:** any dilute acid supplies H⁺(aq). When further tests will follow on the same solution, use **dilute nitric acid**, for the reasons explained in the sequence section below.
@@ -103,12 +97,6 @@ Because BaSO₄ is insoluble, the precipitate can be filtered, dried and weighed
 
 Carry unrounded values through the working. Round only the final answer.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-reactions-of-ions-in-aqueous-solution--09-mn-cr-tests.webp" width="900" height="770" alt="A grid of tubes for the two extra OCR ions. Mn2+ (very pale pink) gives a light brown precipitate with NaOH or NH3 that does not dissolve in excess and darkens in air. Cr3+ (violet) gives a grey-green precipitate that dissolves in excess NaOH to a dark green solution and in excess NH3 to a purple solution." loading="lazy">
-  <figcaption>OCR adds Mn2+ and Cr3+; only Cr(OH)3 dissolves in excess NaOH, and Cr(OH)3 dissolves in excess NH3 too.</figcaption>
-</figure>
-
-
 ## 3.1.4(a)(i): Testing for halide ions
 
 This test is set out in 3.1.3(g), and 3.1.4(a) brings it into the analysis sequence.
@@ -134,6 +122,16 @@ White, cream and yellow can look alike in a test tube, especially in small amoun
 The nitric acid has the same job as before. Silver carbonate is insoluble, so carbonate ions left in the solution would give a precipitate with Ag⁺ and confuse the result.
 
 <figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-reactions-of-ions-in-aqueous-solution--01-aqua-ion-acidity.webp" width="900" height="830" alt="Two panels compare iron(II) and iron(III) aqua ions, each a metal ion bonded to a water ligand. Fe3+ is smaller with charge over size 0.0465 per pm against 0.0256 for Fe2+ (1.8 times larger). It pulls electrons from the oxygen harder, the O-H bond weakens and H+ is released more easily, giving a lower pH." loading="lazy">
+  <figcaption>A smaller, more highly charged 3+ ion polarises its water ligands more, so it releases H+ more easily than a 2+ ion.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-reactions-of-ions-in-aqueous-solution--04-amphoteric-aluminium.webp" width="900" height="940" alt="A tube of white aluminium hydroxide precipitate sits in the centre. With acid it dissolves to colourless [Al(H2O)6]3+, and with excess hydroxide it dissolves to colourless [Al(OH)4]-. A second row shows that excess ammonia leaves the precipitate unchanged because ammonia is too weak a base." loading="lazy">
+  <figcaption>Aluminium hydroxide dissolves in acid and in excess alkali, but not in excess ammonia.</figcaption>
+</figure>
+
+<figure class="topic-figure">
   <img src="https://img.marlbridge.com/aqa-a-level-chemistry-reactions-of-ions-in-aqueous-solution--07-silver-halides.webp" width="900" height="1060" alt="A 3 by 3 grid of tubes for chloride, bromide and iodide. With silver nitrate the precipitates are white, cream and yellow. Dilute ammonia dissolves only silver chloride; concentrated ammonia dissolves silver chloride and silver bromide; silver iodide never dissolves." loading="lazy">
   <figcaption>Chloride dissolves in dilute NH3, bromide only in concentrated NH3, and iodide does not dissolve.</figcaption>
 </figure>
@@ -153,13 +151,13 @@ The nitric acid has the same job as before. Silver carbonate is insoluble, so ca
 Two details carry the explanation. **Warming** matters because ammonia is very soluble in water; at room temperature most of it stays dissolved, and heat drives the gas out. The litmus must be **damp** because ammonia only shows as an alkali when it dissolves in water and releases OH⁻ ions. Dry paper may not change. If the paper touches the tube, sodium hydroxide on the glass turns it blue and gives a false positive.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-reactions-of-ions-in-aqueous-solution--04-amphoteric-aluminium.webp" width="900" height="940" alt="A tube of white aluminium hydroxide precipitate sits in the centre. With acid it dissolves to colourless [Al(H2O)6]3+, and with excess hydroxide it dissolves to colourless [Al(OH)4]-. A second row shows that excess ammonia leaves the precipitate unchanged because ammonia is too weak a base." loading="lazy">
-  <figcaption>Aluminium hydroxide dissolves in acid and in excess alkali, but not in excess ammonia.</figcaption>
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-reactions-of-ions-in-aqueous-solution--08-ammonium-test.webp" width="900" height="990" alt="A test tube of ammonium salt and sodium hydroxide solution stands in a warm water bath with bubbles rising. Ammonia gas leaves the mouth of the tube and reaches damp red litmus paper held just above it, not touching the glass. The paper turns blue, showing an alkaline gas." loading="lazy">
+  <figcaption>Warm with NaOH and hold damp red litmus at the mouth of the tube: it turns blue if NH4+ is present.</figcaption>
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-reactions-of-ions-in-aqueous-solution--08-ammonium-test.webp" width="900" height="990" alt="A test tube of ammonium salt and sodium hydroxide solution stands in a warm water bath with bubbles rising. Ammonia gas leaves the mouth of the tube and reaches damp red litmus paper held just above it, not touching the glass. The paper turns blue, showing an alkaline gas." loading="lazy">
-  <figcaption>Warm with NaOH and hold damp red litmus at the mouth of the tube: it turns blue if NH4+ is present.</figcaption>
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-reactions-of-ions-in-aqueous-solution--09-mn-cr-tests.webp" width="900" height="770" alt="A grid of tubes for the two extra OCR ions. Mn2+ (very pale pink) gives a light brown precipitate with NaOH or NH3 that does not dissolve in excess and darkens in air. Cr3+ (violet) gives a grey-green precipitate that dissolves in excess NaOH to a dark green solution and in excess NH3 to a purple solution." loading="lazy">
+  <figcaption>OCR adds Mn2+ and Cr3+; only Cr(OH)3 dissolves in excess NaOH, and Cr(OH)3 dissolves in excess NH3 too.</figcaption>
 </figure>
 
 
@@ -200,6 +198,11 @@ Reasoning, step by step:
 5. W is **ammonium iodide, NH₄I**.
 
 Equations: Ag⁺(aq) + I⁻(aq) → AgI(s), and NH₄⁺(aq) + OH⁻(aq) → NH₃(g) + H₂O(l).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-reactions-of-ions-in-aqueous-solution--03-hydroxide-ammonia-tests.webp" width="900" height="1220" alt="A grid of test tubes for Fe2+, Cu2+, Fe3+ and Al3+ showing the starting solution and the result with a few drops and excess NaOH, then NH3. Fe2+ gives a green and Fe3+ a brown precipitate that never dissolves; Cu2+ gives a pale blue precipitate that dissolves only in excess NH3 to a deep blue solution; Al3+ gives a white precipitate that dissolves only in excess NaOH." loading="lazy">
+  <figcaption>Two results are special: Al(OH)3 dissolves in excess NaOH and Cu(OH)2 dissolves in excess NH3.</figcaption>
+</figure>
 
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/aqa-a-level-chemistry-reactions-of-ions-in-aqueous-solution--06-anion-sequence.webp" width="900" height="1090" alt="Three numbered steps. Add dilute nitric acid first: fizzing shows carbonate and removes it. Then barium nitrate: a white precipitate shows sulfate, and carbonate must already be gone because BaCO3 is also insoluble. Then silver nitrate followed by ammonia: white, cream or yellow shows a halide, and sulfate must be gone because Ag2SO4 is insoluble." loading="lazy">

@@ -185,6 +185,11 @@ Aim to include all five points in a full explanation. In a data question, add a 
 - **Resistance data:** a rise in the percentage of resistant isolates over time is evidence of selection. It does not show how the resistance arose.
 
 <figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-selection-and-evolution--02-three-types-of-selection.webp" width="900" height="1274" alt="Three panels each show a dashed bell curve before selection and a solid curve after. Stabilising selection narrows the curve with the mean unchanged, directional selection shifts it toward one extreme, and disruptive selection leaves two peaks and removes the middle." loading="lazy">
+  <figcaption>Selection can narrow, shift or split the distribution of a phenotype.</figcaption>
+</figure>
+
+<figure class="topic-figure">
   <img src="https://img.marlbridge.com/a-level-biology-9700-selection-and-evolution--09-dna-relatedness.webp" width="900" height="930" alt="Four rows show the same 27-base DNA section in species A to D with differences from A highlighted: B 1 (3.7 percent), C 3 (11.1 percent) and D 8 (29.6 percent). Fewer differences mean a more recent common ancestor, so B is closest to A." loading="lazy">
   <figcaption>Fewer base differences suggest a more recent common ancestor.</figcaption>
 </figure>
@@ -210,6 +215,12 @@ Aim to include all five points in a full explanation. In a data question, add a 
 8. In a population of 500 beetles, 4% have a resistance allele. A pesticide leaves 90% of those with the allele alive and 10% of the others. What percentage of survivors are resistant? Give 3 significant figures.
 9. Explain why finishing a course of antibiotics is advised.
 10. Why does a pesticide not cause resistance?
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-selection-and-evolution--06-genetic-drift.webp" width="900" height="1200" alt="Two graphs show eight simulated populations starting with an allele at 0.5. With 20 gene copies the lines wander and several are lost or fixed by chance; with 1000 gene copies they stay near 0.5." loading="lazy">
+  <figcaption>Chance changes in allele frequency are large in small populations and small in large ones.</figcaption>
+</figure>
+
 
 ### Answers
 

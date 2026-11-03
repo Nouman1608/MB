@@ -50,17 +50,6 @@ Use the [course hub](/boards/ib/ib-dp/economics/) and the [printable checklist](
 5. For a shift, draw the new curve, label it (D₂ or S₂) and show an arrow.
 6. Mark the new equilibrium and label its price and quantity.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ib-dp-economics-competitive-market-equilibrium--05-eco73-shortage-surplus.webp" width="900" height="770" alt="Demand and supply cross at price 14 and quantity 32. At 10 vel the shortage is 24 and at 18 vel the surplus is 24, both horizontal gaps. All data fictional, taken from the lesson." loading="lazy">
-  <figcaption>Shortage and surplus around equilibrium (SL and HL).</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ib-dp-economics-demand-supply-equilibrium--02-ib-single-shift-equilibrium.webp" width="900" height="1160" alt="Four small diagrams show demand rising, demand falling, supply rising and supply falling, with the original curve dashed. Demand rising raises price and quantity; demand falling lowers both; supply rising lowers price and raises quantity; supply falling raises price and lowers quantity." loading="lazy">
-  <figcaption>A shift of one curve moves equilibrium along the other, unchanged curve.</figcaption>
-</figure>
-
-
 ## Method: what happens when a curve shifts
 
 1. Name the determinant that changed (income, tastes, costs, technology, number of firms and so on).
@@ -83,6 +72,11 @@ If both curves shift, one of price and quantity is certain and the other depends
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/ib-dp-economics-competitive-market-equilibrium--06-eco73-equilibrium-shifts.webp" width="900" height="1140" alt="A demand rise of 12 at every price moves equilibrium from (14, 32) to (16, 40) via a shortage of 12; a supply rise of 12 moves it to (12, 36) via a surplus of 12. All data fictional, taken from the lesson." loading="lazy">
   <figcaption>Shifts to a new equilibrium (SL and HL).</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-economics-demand-supply-equilibrium--02-ib-single-shift-equilibrium.webp" width="900" height="1160" alt="Four small diagrams show demand rising, demand falling, supply rising and supply falling, with the original curve dashed. Demand rising raises price and quantity; demand falling lowers both; supply rising lowers price and raises quantity; supply falling raises price and lowers quantity." loading="lazy">
+  <figcaption>A shift of one curve moves equilibrium along the other, unchanged curve.</figcaption>
 </figure>
 
 <figure class="topic-figure">
@@ -123,12 +117,6 @@ Worked reminder with illustrative figures (a fictional market): demand intercept
 - Social surplus = 300 + 150 = 450
 
 Show the formula, the substitution and the units each time. Paper 1 does not allow a calculator, according to the guide, so choose to simplify early.
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ib-dp-economics-competitive-market-equilibrium--07-eco73-surplus-areas.webp" width="900" height="900" alt="Consumer surplus is half times 32 times 16 = 256 and producer surplus half times 32 times 8 = 128, social surplus 384. After the demand rise they are 400 and 200. All data fictional, taken from the lesson." loading="lazy">
-  <figcaption>Consumer and producer surplus (SL; calculation HL only).</figcaption>
-</figure>
-
 
 ## Allocative efficiency: two statements, one idea
 
@@ -186,6 +174,17 @@ All the markets here are fictional and the figures are invented.
 8. Output should rise. The next unit is worth more to buyers than it costs to make, so social surplus rises until MB equals MC.
 9. Up to that output, each unit gives MB above MC, which adds to surplus. Beyond it, each unit costs more than it is worth, which reduces surplus.
 10. Consumer surplus = ½ × 50 × 12 = 300. Producer surplus = ½ × 50 × 6 = 150. Social surplus = 450.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-economics-competitive-market-equilibrium--05-eco73-shortage-surplus.webp" width="900" height="770" alt="Demand and supply cross at price 14 and quantity 32. At 10 vel the shortage is 24 and at 18 vel the surplus is 24, both horizontal gaps. All data fictional, taken from the lesson." loading="lazy">
+  <figcaption>Shortage and surplus around equilibrium (SL and HL).</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-economics-competitive-market-equilibrium--07-eco73-surplus-areas.webp" width="900" height="900" alt="Consumer surplus is half times 32 times 16 = 256 and producer surplus half times 32 times 8 = 128, social surplus 384. After the demand rise they are 400 and 200. All data fictional, taken from the lesson." loading="lazy">
+  <figcaption>Consumer and producer surplus (SL; calculation HL only).</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

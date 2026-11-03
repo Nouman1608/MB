@@ -139,6 +139,17 @@ You control which product forms through the conditions:
 
 The boiling points for the two-carbon series show the idea: ethanal 20 °C, ethanol 78 °C, ethanoic acid 118 °C.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-alcohols--02-fermentation.webp" width="900" height="1020" alt="Glucose with yeast in a flask at about 35 degrees C with air excluded, CO2 bubbling out through an airlock, then fractional distillation where ethanol (78 degrees C) leaves the top and water stays behind. The equation C6H12O6 -&gt; 2C2H5OH + 2CO2 is shown." loading="lazy">
+  <figcaption>Fermentation needs yeast, about 35 degrees C and no air, followed by fractional distillation.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-alcohols--05-distil-reflux.webp" width="900" height="1220" alt="Left: distillation with limited oxidant, the aldehyde distils off into a receiver. Right: reflux with excess oxidant, vertical condenser, vapour condenses and drips back so the acid forms. A bar chart of boiling points (ethanal 20, ethanol 78, ethanoic acid 118 degrees C, from the OCR lesson) shows why the aldehyde leaves first." loading="lazy">
+  <figcaption>Distil to collect the aldehyde; reflux with excess oxidant to make the carboxylic acid.</figcaption>
+</figure>
+
+
 ### 4.2.1(c)(ii): secondary alcohols
 
 A secondary alcohol is oxidised to a ketone, normally by heating under reflux with acidified dichromate. A ketone is not oxidised further by this reagent. For isomer B:

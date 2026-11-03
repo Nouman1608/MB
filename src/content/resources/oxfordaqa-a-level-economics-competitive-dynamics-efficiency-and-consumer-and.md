@@ -151,6 +151,11 @@ Market X has high concentration, a wide price-cost gap and little R&D, so it loo
   <figcaption>MC cuts ATC at its lowest point, and MC rises once diminishing returns set in.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-microeconomics--07-concentration-ratio.webp" width="900" height="950" alt="Two illustrative markets as stacked bars. Market A (8 firms) has a three-firm concentration ratio of 67 percent (30 + 22 + 15); Market B (13 firms) has 31 percent (12 + 10 + 9). Higher means closer to oligopoly or monopoly." loading="lazy">
+  <figcaption>A concentration ratio adds up the market shares of the largest firms.</figcaption>
+</figure>
+
 
 ## 3.3.3.10 Consumer and producer surplus
 
@@ -174,6 +179,12 @@ Demand: P = 60 - 2Q. Marginal cost (the competitive supply curve): P = 12 + 2Q. 
 Sketch in words: the demand line falls from 60 on the price axis and the MC line rises from 12. They cross at X (Q = 12, P = 36). The monopoly point is on demand at Q = 8, P = 44 (MC there is 28). The deadweight loss is the triangle between the monopoly point, the MC curve at Q = 8 and X.
 
 Consumers lose 80, the firm gains 48, and the remaining 32 is lost to everyone.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-economics-government-microeconomic-intervention--08-monopoly-welfare-loss.webp" width="900" height="910" alt="Demand (AR) slopes down with marginal revenue below it and marginal cost sloping up. The monopolist produces where MR = MC: output 40 at price 10. The allocatively efficient output is where price = MC: output 60 at price 8. The triangle between 40 and 60 is the welfare loss, area 40." loading="lazy">
+  <figcaption>A monopolist restricts output below the allocatively efficient level and charges a higher price.</figcaption>
+</figure>
+
 
 ### Price discrimination
 

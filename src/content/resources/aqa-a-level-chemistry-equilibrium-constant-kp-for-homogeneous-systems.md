@@ -38,12 +38,6 @@ The [AQA A-Level Chemistry hub](/boards/aqa/a-level/chemistry/) lists every topi
 
 Where it is examined: the A-level assessment overview lists section 3.1.10 under Paper 1, and Paper 3 can test any content. The specification lists no required practical in section 3.1.10. It does list skills: reporting answers to an appropriate number of significant figures (MS 1.1) and calculating partial pressures and Kp (MS 2.2 and 2.3).
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-chemical-equilibria-le-chateliers-principle-and-kc--01-dynamic-equilibrium.webp" width="900" height="1010" alt="Two graphs of a reversible reaction A to B. Concentrations of A and B level off at constant but unequal values. The forward rate falls and the reverse rate rises until they are equal, which marks equilibrium." loading="lazy">
-  <figcaption>At equilibrium the forward and reverse rates are equal and concentrations are constant, not equal.</figcaption>
-</figure>
-
-
 ## Why Kp?
 
 For reactions in the gas phase, it is often easier to measure pressure than concentration. Kp is the equilibrium constant written with **partial pressures** instead of concentrations. A **homogeneous** system here means every species in the equation is a gas.
@@ -127,12 +121,6 @@ Kp = 2.50^2 / (5.00 x 12.5^3)
 
 If a question gives pressures in kPa, keep kPa throughout; the units become kPa⁻² and the number changes. Never mix units inside one expression.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-chemical-equilibria-le-chateliers-principle-and-kc--06-kc-expression.webp" width="900" height="1010" alt="Three reactions each show Kc as products over reactants raised to their coefficients, coloured teal for products and gold for reactants, with units: none, mol dm-3, and mol-1 dm3." loading="lazy">
-  <figcaption>Kc is products over reactants, each concentration raised to the power of its coefficient.</figcaption>
-</figure>
-
-
 ### Unit patterns
 
 | Reaction | Gas moles (right − left) | Units of Kp |
@@ -143,6 +131,11 @@ If a question gives pressures in kPa, keep kPa throughout; the units become kPa�
 | N₂(g) + 3H₂(g) ⇌ 2NH₃(g) | 2 − 4 = −2 | kPa⁻² |
 
 When the gas moles are equal on both sides, Kp has no units and the total pressure cancels out of the calculation.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-chemical-equilibria-le-chateliers-principle-and-kc--06-kc-expression.webp" width="900" height="1010" alt="Three reactions each show Kc as products over reactants raised to their coefficients, coloured teal for products and gold for reactants, with units: none, mol dm-3, and mol-1 dm3." loading="lazy">
+  <figcaption>Kc is products over reactants, each concentration raised to the power of its coefficient.</figcaption>
+</figure>
 
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/aqa-a-level-chemistry-chemical-equilibria-le-chateliers-principle-and-kc--09-solids-left-out.webp" width="900" height="1030" alt="A furnace shows FeO(s) and Fe(s) greyed as left out, with CO and CO2 gas particles counted. Kp = p(CO2)/p(CO) with no units. A second example, CaCO3(s) = CaO(s) + CO2(g), gives Kp = p(CO2)." loading="lazy">
@@ -261,6 +254,11 @@ T increases -> Kp decreases
 ### Catalysts
 
 A catalyst speeds up the forward and reverse reactions equally. Equilibrium is reached faster, but the position of equilibrium and the value of Kp are both unchanged.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-chemical-equilibria-le-chateliers-principle-and-kc--01-dynamic-equilibrium.webp" width="900" height="1010" alt="Two graphs of a reversible reaction A to B. Concentrations of A and B level off at constant but unequal values. The forward rate falls and the reverse rate rises until they are equal, which marks equilibrium." loading="lazy">
+  <figcaption>At equilibrium the forward and reverse rates are equal and concentrations are constant, not equal.</figcaption>
+</figure>
 
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/aqa-a-level-chemistry-chemical-equilibria-le-chateliers-principle-and-kc--04-catalyst.webp" width="900" height="1000" alt="Product against time with and without a catalyst: the catalysed curve rises faster but both level at the same equilibrium amount. An energy profile shows the same start and end levels but a lower peak with the catalyst." loading="lazy">

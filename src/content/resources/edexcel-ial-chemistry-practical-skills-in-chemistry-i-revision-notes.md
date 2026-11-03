@@ -88,6 +88,15 @@ These notes condense Unit 3: Practical Skills in Chemistry I in the YCH11 specif
 
 **8. Unknowns (10.23).** Systematic tests for cations, anions, gases and functional groups, below.
 
+## Technique checklist (10.19)
+
+- **Reflux**: vertical condenser, open at the top, anti-bumping granules, water bath or electric heater for flammable liquids.
+- **Separating funnel**: stopper, invert, vent through the tap; let layers settle; drain the lower layer.
+- **Drying**: add anhydrous salt until some moves freely and the liquid is clear; decant or filter.
+- **Distillation**: thermometer bulb at the side arm; water into the condenser at the bottom; collect over a narrow range.
+- **Boiling temperature**: a sharp value near the data value suggests a pure liquid.
+- **Titration**: rinse burette and pipette with their own solutions; fill the jet; white tile; dropwise near the end point.
+
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/edexcel-ial-chemistry-practical-skills-in-chemistry-i--01-cp1-molar-volume-graph.webp" width="900" height="1100" alt="Graph of volume of hydrogen against amount of hydrogen for five magnesium masses. The points lie on a line through the origin; a gradient triangle gives 23 900 cm3 per mol, a molar volume of 23.9 dm3 per mol, about 1.2% below the pV = nRT value of 24.2." loading="lazy">
   <figcaption>A graph uses all the data: its gradient gives the molar volume.</figcaption>
@@ -123,19 +132,14 @@ These notes condense Unit 3: Practical Skills in Chemistry I in the YCH11 specif
   <figcaption>The C-I bond breaks most easily, so the iodo compound reacts about 9 times faster.</figcaption>
 </figure>
 
-
-## Technique checklist (10.19)
-
-- **Reflux**: vertical condenser, open at the top, anti-bumping granules, water bath or electric heater for flammable liquids.
-- **Separating funnel**: stopper, invert, vent through the tap; let layers settle; drain the lower layer.
-- **Drying**: add anhydrous salt until some moves freely and the liquid is clear; decant or filter.
-- **Distillation**: thermometer bulb at the side arm; water into the condenser at the bottom; collect over a narrow range.
-- **Boiling temperature**: a sharp value near the data value suggests a pure liquid.
-- **Titration**: rinse burette and pipette with their own solutions; fill the jet; white tile; dropwise near the end point.
-
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/edexcel-ial-chemistry-practical-skills-in-chemistry-i--04-cp7-distillation-ice-receiver.webp" width="900" height="1090" alt="A heated flask with a thermometer bulb level with the side-arm opening, a sloping condenser with water in at the bottom and out at the top, and a receiver in an ice bath. Propanal is distilled off as it forms." loading="lazy">
   <figcaption>Distil propanal into an ice-cooled receiver with the thermometer bulb opposite the side arm.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-alcohols--05-distil-reflux.webp" width="900" height="1220" alt="Left: distillation with limited oxidant, the aldehyde distils off into a receiver. Right: reflux with excess oxidant, vertical condenser, vapour condenses and drips back so the acid forms. A bar chart of boiling points (ethanal 20, ethanol 78, ethanoic acid 118 degrees C, from the OCR lesson) shows why the aldehyde leaves first." loading="lazy">
+  <figcaption>Distil to collect the aldehyde; reflux with excess oxidant to make the carboxylic acid.</figcaption>
 </figure>
 
 

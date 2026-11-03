@@ -128,6 +128,12 @@ y = −1 + √(2x² + 4)
 
 Always check the answer against the story. A decaying amount must fall. A cooling body must stay above the room temperature.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-mathematics-volumes-of-revolution-separable-differential-equations--03-half-life-decay.webp" width="900" height="920" alt="Graph of mass against time for dm/dt = −km with m = 50 at t = 0 and 38 g at 4 hours. Each interval of 10.1 hours halves the mass: 25 g, 12.5 g, 6.25 g. The tangent at 25 g is half as steep as the tangent at 50 g, because the rate is proportional to the mass." loading="lazy">
+  <figcaption>Equal time steps halve the mass because the rate is proportional to what is left.</figcaption>
+</figure>
+
+
 ## Forming from geometry: a reminder
 
 An oil slick spreads as a circle so that its area A increases at a rate proportional to its circumference. With radius r, A = πr² and circumference = 2πr.
@@ -160,6 +166,12 @@ Both sides match, so the equation is satisfied. A "show that" question needs thi
 
 Setting the rate equal to zero finds the limiting value without solving the equation.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-mathematics-volumes-of-revolution-separable-differential-equations--05-rate-in-minus-out.webp" width="900" height="990" alt="Top graph: the amount of drug rises from 0, is 15.5 mg at 5 hours and levels off at 20 mg. Bottom graph: rate in is constant at 6 mg per hour and rate out 0.3x rises with x; they cross at x = 20. Below 20 the amount rises, above 20 it would fall." loading="lazy">
+  <figcaption>The long-term amount is where the rate in equals the rate out.</figcaption>
+</figure>
+
+
 ## Must-know distinctions
 
 - General solution has +c. Particular solution has c found.
@@ -167,12 +179,6 @@ Setting the rate equal to zero finds the limiting value without solving the equa
 - Exponential decay never reaches zero. Square-root draining does, at a finite time.
 - dm/dt = −km with k > 0 and dm/dt = km with k < 0 describe the same decay. Do not mix them.
 - Rate of change of V and rate of change of r are different quantities. Link them with the chain rule.
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/edexcel-ial-mathematics-volumes-of-revolution-separable-differential-equations--06-finite-or-never.webp" width="900" height="920" alt="Water depth against time for two models with the same start (4 m) and the same depth after 10 minutes (2.25 m). The solid curve from dh/dt = −k√h hits zero at exactly 40 minutes. The dashed exponential curve from dh/dt = −ch keeps falling but never reaches zero." loading="lazy">
-  <figcaption>The form of the equation decides whether the tank empties in finite time.</figcaption>
-</figure>
-
 
 ## Quick self-test
 
@@ -199,6 +205,17 @@ Setting the rate equal to zero finds the limiting value without solving the equa
 8. T = 33.1 °C (3 s.f.), from the worked reminder.
 9. 2√h = −0.2t + 6, so √h = 3 − 0.1t. Empty at t = 30.
 10. ln(y + 2) = 3 ln x + c, so y = Ax³ − 2.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-mathematics-volumes-of-revolution-separable-differential-equations--04-newton-cooling.webp" width="900" height="920" alt="Graph of temperature against time for a drink cooling in a 20 degree room, T = 20 + 65e^(−kt). It starts at 85, is 60 at 5 minutes and 30 at 19.3 minutes. It flattens towards the dashed line T = 20 but never reaches it." loading="lazy">
+  <figcaption>The temperature approaches room temperature but never reaches it, because the model uses the gap T − 20.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-mathematics-volumes-of-revolution-separable-differential-equations--06-finite-or-never.webp" width="900" height="920" alt="Water depth against time for two models with the same start (4 m) and the same depth after 10 minutes (2.25 m). The solid curve from dh/dt = −k√h hits zero at exactly 40 minutes. The dashed exponential curve from dh/dt = −ch keeps falling but never reaches zero." loading="lazy">
+  <figcaption>The form of the equation decides whether the tank empties in finite time.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

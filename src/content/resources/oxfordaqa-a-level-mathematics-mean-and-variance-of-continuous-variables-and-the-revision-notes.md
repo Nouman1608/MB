@@ -147,6 +147,16 @@ The sum of the two is not exponential. Use only the mean and variance results fo
 </figure>
 
 <figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-mathematics-continuous-random-variables-pdf-cdf-mean-variance-mode--03-cdf-to-pdf.webp" width="900" height="1030" alt="The cdf F(x) = (x³ − 1)/26 is drawn with tangents at x = 1.5 and 2.5. Below it, the pdf 3x²/26 has heights 0.26 and 0.72 at those x values, equal to the tangent slopes." loading="lazy">
+  <figcaption>Differentiating F gives f, so a steeper cdf means a taller pdf.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-mathematics-continuous-random-variables-pdf-cdf-mean-variance-mode--05-quartiles-piecewise.webp" width="900" height="870" alt="The piecewise cdf x²/12 then (x − 1)/3 meets at F(2) = 1/3. Horizontal lines at 1/4, 1/2 and 3/4 hit the curve and drop to Q1 = √3 ≈ 1.73, median 2.5 and Q3 = 3.25. 1/4 uses the first piece; 1/2 and 3/4 use the second." loading="lazy">
+  <figcaption>Compare the target probability with F at the break point to choose the piece.</figcaption>
+</figure>
+
+<figure class="topic-figure">
   <img src="https://img.marlbridge.com/edexcel-ial-mathematics-continuous-random-variables-pdf-cdf-mean-variance-mode--07-exponential-pdf.webp" width="900" height="850" alt="The pdf 0.4e^(−0.4x) falls from 0.4. The area from 2 to 6 is 0.359. A line marks the mean 2.5, equal to the standard deviation." loading="lazy">
   <figcaption>An exponential pdf starts at λ and decays; its mean and standard deviation are both 1/λ.</figcaption>
 </figure>
@@ -198,6 +208,17 @@ The sum of the two is not exponential. Use only the mean and variance results fo
 10. 1 − e^(−0.5x) = 0.5 gives x = 2 ln 2 = **1.386**.
 11. Events occur singly, independently, and at a constant average rate.
 12. ∫ (1/x)(2x) dx from 0 to 1 = ∫ 2 dx = **2**.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-mathematics-continuous-random-variables-pdf-cdf-mean-variance-mode--01-probability-is-area.webp" width="900" height="830" alt="Graph of f(x) = (6 − x)/8 on 2 to 6, a right-angled triangle of area 1. The strip from x = 3 to 5 is shaded and has area 1/2. A single line at x = 4 has no width, so P(X = 4) = 0." loading="lazy">
+  <figcaption>Probability is the area under the pdf, and a single value has zero area.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-mathematics-continuous-random-variables-pdf-cdf-mean-variance-mode--09-variances-add.webp" width="900" height="780" alt="Three bars to scale. Var(2X + 3Y) and Var(2X − 3Y) are both 4Var(X) + 9Var(Y) = 0.506, though the means differ. Subtracting the variances (0.026) is crossed out as wrong." loading="lazy">
+  <figcaption>For independent variables the variances always add, even for a difference.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

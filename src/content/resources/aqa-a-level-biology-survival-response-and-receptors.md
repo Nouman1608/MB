@@ -206,6 +206,12 @@ Light reaches the photoreceptors in the retina after passing through the layers 
 
 Suppose 120 rods connect to 4 bipolar neurones. Average = 120 / 4 = 30 rods per neurone. A foveal region with 1 cone per bipolar neurone has a ratio of 1. Thirty rods contribute to each impulse pathway, giving sensitivity but poor acuity.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-control-and-coordination--06-summation.webp" width="900" height="1010" alt="Two small diagrams show spatial summation (five neurones at once) and temporal summation (one neurone firing five times quickly). A staircase graph rises from -70 mV by 3 mV per impulse to the -55 mV threshold on the fifth impulse, where an action potential starts. One impulse alone gives -67 mV, below threshold. No decay is assumed, as in the lesson example." loading="lazy">
+  <figcaption>Small depolarisations add up to reach threshold: 5 x 3 mV = 15 mV.</figcaption>
+</figure>
+
+
 ## Common errors
 
 - Calling a kinesis "movement towards" something; it is a change in speed or turning.

@@ -189,6 +189,11 @@ On a profile, the reactants are at 120 kJ, the top of the curve is at 310 kJ and
   <figcaption>In an exothermic reaction the products end lower than the reactants, so delta H is negative.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/exothermic-and-endothermic-reactions--03-endothermic-profile.webp" width="900" height="950" alt="Energy against progress of reaction. Products sit higher than reactants, so delta H is positive and energy is absorbed. Ea is the climb from reactants to the top of the hump." loading="lazy">
+  <figcaption>In an endothermic reaction the products end higher than the reactants, so delta H is positive.</figcaption>
+</figure>
+
 
 ## 4.5.1.3 The energy change of reactions (Higher tier only)
 
@@ -329,6 +334,11 @@ electrons, so it is oxidised.
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/aqa-gcse-chemistry-8462-energy-changes--05-aqa-fuel-cell-half-equations.webp" width="900" height="960" alt="A hydrogen fuel cell with an acidic electrolyte. Hydrogen gas enters at the negative electrode on the left and oxygen enters at the positive electrode on the right. At the negative electrode hydrogen loses electrons: 2H2 gives 4H+ plus 4e-. The electrons travel through the external wire, passing through a motor, to the positive electrode." loading="lazy">
   <figcaption>At the negative electrode hydrogen loses electrons; at the positive electrode oxygen gains them; the two add to 2H2 + O2 -&gt; 2H2O.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/electrolysis-and-fuel-cells--07-fuel-cell.webp" width="900" height="1040" alt="Hydrogen enters on one side and oxygen on the other, either side of an electrolyte between two electrodes. Electrons pass through a motor in an external circuit, and water is the only chemical product." loading="lazy">
+  <figcaption>A fuel cell turns hydrogen and oxygen into electricity, with water the only chemical product.</figcaption>
 </figure>
 
 

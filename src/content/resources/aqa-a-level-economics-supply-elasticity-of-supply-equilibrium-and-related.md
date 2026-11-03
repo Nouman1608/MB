@@ -132,6 +132,11 @@ PES is normally positive because supply slopes upwards.
   <figcaption>Between prices 8 and 9 on Qs = 100 + 60P, PES is 0.83, which is inelastic.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-economics-price-system-and-the-microeconomy--03-price-elasticity-of-supply.webp" width="900" height="1000" alt="Two supply curves pass through the same point at price 5 and quantity 50. A 20 percent price rise to 6 lifts short-run quantity by 10 percent to 55 (PES 0.5, inelastic) but long-run quantity by 40 percent to 70 (PES 2, elastic). More time and spare capacity make supply more elastic." loading="lazy">
+  <figcaption>The same price rise brings a bigger supply response when firms have more time and spare capacity.</figcaption>
+</figure>
+
 
 ## The determination of equilibrium market prices
 
@@ -193,6 +198,11 @@ The same method works for real markets: housing, a farm crop, concert tickets or
   <figcaption>Excess supply at £10 and excess demand at £6 push price to £8.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-allocation-of-resources--05-equilibrium-price.webp" width="900" height="940" alt="Demand and supply cross at equilibrium: price 5, quantity 50. At price 8, quantity demanded 20 and supplied 87.5, a surplus, so price falls. At price 3, demanded 70 and supplied 25, a shortage, so price rises." loading="lazy">
+  <figcaption>Price moves towards the equilibrium where demand equals supply.</figcaption>
+</figure>
+
 
 ## The interrelationship between markets
 
@@ -227,6 +237,11 @@ When you write about related markets, show a direction at every step, and state 
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/aqa-a-level-economics-supply-elasticity-of-supply-equilibrium-and-related--14-multi-market-chain.webp" width="900" height="820" alt="A poor wheat harvest cuts wheat supply and raises its price. Flour costs push bread supply left and its price up. Buyers switch to rice, raising its demand and price. Mills use less labour, so demand for labour falls." loading="lazy">
   <figcaption>A change in the wheat market spreads to bread, rice and labour.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-economics-price-system-and-the-microeconomy--09-related-markets.webp" width="900" height="1000" alt="Four pairs of linked markets. Joint demand: more demand for printers raises demand for ink. Alternative demand: a rise in the price of tea raises demand for coffee. Derived demand: more demand for cars raises demand for steel. Joint supply: more beef output raises the supply of leather." loading="lazy">
+  <figcaption>Markets are linked by joint demand, alternative demand, derived demand and joint supply.</figcaption>
 </figure>
 
 

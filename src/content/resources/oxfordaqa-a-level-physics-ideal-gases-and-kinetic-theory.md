@@ -171,6 +171,12 @@ Kinetic theory treats a gas as a very large number of identical, tiny molecules 
 
 The gas laws are **empirical**: they summarise experimental observations. Kinetic theory is a **theoretical model**: it starts from assumptions about molecules, predicts the gas laws and explains temperature. Their agreement supports the model.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-ideal-gases--07-maxwell-boltzmann.webp" width="900" height="1150" alt="Speed distribution curves for helium at 300 K and 1200 K, computed from the Maxwell-Boltzmann formula. Both start at zero, rise to a peak and have a long tail to high speeds. At 1200 K the peak is lower and further right, with equal area. The r.m.s. speed is 1370 m/s at 300 K and 2740 m/s at 1200 K: four times the kelvin temperature gives twice the r.m.s. speed." loading="lazy">
+  <figcaption>Molecular speeds are spread; a higher temperature shifts and flattens the distribution.</figcaption>
+</figure>
+
+
 ## Deriving pV = ⅓Nm(c_rms)²
 
 Consider a cube of side l holding N molecules of mass m. One molecule has velocity component c_x towards a wall perpendicular to the x-axis.

@@ -219,6 +219,12 @@ Judgement: It is worthwhile if the extra sales are likely, so the answer should 
 9. Retailers may stop stocking the product.
 10. For example, profits leave the country, local firms are squeezed, or the environment suffers.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-gcse-business-globalisation-ethics-and-the-environment--05-hobsford-fair-price.webp" width="900" height="920" alt="Three bars of profit: 340,000; 292,000 after paying 0.12 more a bar; 309,520 after 6% more sales, with a dashed line at 340,000." loading="lazy">
+  <figcaption>A fairer supplier price cuts profit by 48,000 and even 6% more sales leaves it 30,480 lower.</figcaption>
+</figure>
+
+
 ## Where marks are usually lost
 
 - Describing a tariff as a tax on exports.

@@ -82,6 +82,19 @@ topic.
   and pressure (20 °C and 1 atmosphere); calculating gas volumes from a mass and Mr, and from a balanced
   equation
 
+## How to approach it
+
+This topic is built almost entirely on one repeated calculation pattern: use a balanced equation to find
+a mole ratio, then convert between moles and mass (or moles and concentration) using the relevant
+formula. Once that core pattern is secure, the Higher Tier theoretical-mass step in a percentage yield
+question and the gas-volume calculations are further applications of it, and atom economy uses the same
+relative formula masses read from the balanced equation.
+
+## Official syllabus
+
+AQA GCSE Chemistry (8462) specification, first teaching September 2016 --
+[aqa.org.uk](https://www.aqa.org.uk/subjects/chemistry/gcse/chemistry-8462/specification/subject-content/quantitative-chemistry).
+
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/aqa-gcse-chemistry-quantitative-chemistry--02-limiting-reactant.webp" width="900" height="890" alt="Particle picture for Mg + 2HCl: before, 4 Mg and 6 HCl; after, 3 MgCl2, 3 H2 and 1 Mg left over. HCl runs out first so it limits the products." loading="lazy">
   <figcaption>The reactant that is used up first limits how much product forms.</figcaption>
@@ -107,19 +120,6 @@ topic.
   <figcaption>Concentration is moles per dm3; convert cm3 to dm3 by dividing by 1000.</figcaption>
 </figure>
 
-
-## How to approach it
-
-This topic is built almost entirely on one repeated calculation pattern: use a balanced equation to find
-a mole ratio, then convert between moles and mass (or moles and concentration) using the relevant
-formula. Once that core pattern is secure, the Higher Tier theoretical-mass step in a percentage yield
-question and the gas-volume calculations are further applications of it, and atom economy uses the same
-relative formula masses read from the balanced equation.
-
-## Official syllabus
-
-AQA GCSE Chemistry (8462) specification, first teaching September 2016 --
-[aqa.org.uk](https://www.aqa.org.uk/subjects/chemistry/gcse/chemistry-8462/specification/subject-content/quantitative-chemistry).
 
 ## Conservation of mass in open and closed systems
 
@@ -183,6 +183,11 @@ the equation's ratio, moles back to the quantity required.
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/formulae-equations-and-the-mole--06-reacting-masses.webp" width="900" height="990" alt="Three steps: 50 g divided by Mr 100 is 0.5 mol; the 1:1 ratio gives 0.5 mol CO2; 0.5 times 24 is 12 dm3 of CO2 at r.t.p." loading="lazy">
   <figcaption>Mass to moles, use the equation ratio, then moles to gas volume.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-chemistry-8462-chemical-changes--01-cc-titration-calc.webp" width="900" height="940" alt="A burette of 0.150 mol/dm3 sulfuric acid sits above a flask of 25.0 cm3 sodium hydroxide. Four numbered steps follow: moles of acid 0.00300, ratio 1 to 2 giving 0.00600 mol NaOH, divide by 0.0250 dm3 to get 0.240 mol/dm3, multiply by 40 to get 9.60 g/dm3." loading="lazy">
+  <figcaption>Worked example 5 as four steps: moles of acid, ratio, concentration, then g/dm3 (Higher tier only).</figcaption>
 </figure>
 
 

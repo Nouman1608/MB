@@ -61,27 +61,6 @@ on and beyond a PPC; 1.4.3 movements along a PPC and their link to
 opportunity cost; 1.4.4 the causes and consequences of shifts in a PPC
 in terms of an economy's growth
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-economics-the-basic-economic-problem--01-scarcity-and-choice.webp" width="900" height="1000" alt="A balance scale with a small pile of blocks (finite resources) against a large pile (unlimited wants), tilting towards wants. Four boxes show consumers, workers, producers and governments each face limits (income, time, inputs, budget). So everyone must choose." loading="lazy">
-  <figcaption>Finite resources and unlimited wants force everyone to make choices.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-economics-the-basic-economic-problem--03-factors-of-production.webp" width="900" height="940" alt="Four cards: land (natural resources) earns rent, labour (human effort) earns wages, capital (machines and factories) earns interest, and enterprise (organises and takes risks) earns profit." loading="lazy">
-  <figcaption>Each factor of production earns its own reward.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-economics-the-basic-economic-problem--05-ppc-points.webp" width="900" height="1080" alt="An illustrative PPC with Food and Machines axes. A on the curve means all resources fully used, B inside means idle or wasted resources, C beyond the curve cannot be reached with current resources." loading="lazy">
-  <figcaption>Points inside, on and beyond the PPC show how well resources are used.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-economics-the-basic-economic-problem--06-ppc-movement-opportunity-cost.webp" width="900" height="1050" alt="Three points on a PPC. Moving from 1 to 2 gains 20 Food and gives up 20 Machines; moving from 2 to 3 gains another 20 Food but gives up 60 Machines. Each extra unit of Food costs more Machines, which is why the curve bows outwards." loading="lazy">
-  <figcaption>Moving along a PPC reallocates resources, and the opportunity cost rises.</figcaption>
-</figure>
-
-
 ## Worked examples
 
 **Free good vs economic good.** Air is a **free good** — unlimited in
@@ -180,3 +159,24 @@ For exam-style questions with full mark schemes on this topic, see the
 Cambridge IGCSE Economics 0455 syllabus for 2026 (Version 2, December
 2025) —
 [cambridgeinternational.org](https://www.cambridgeinternational.org/Images/697154-2026-syllabus.pdf).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-basic-economic-problem--01-scarcity-and-choice.webp" width="900" height="1000" alt="A balance scale with a small pile of blocks (finite resources) against a large pile (unlimited wants), tilting towards wants. Four boxes show consumers, workers, producers and governments each face limits (income, time, inputs, budget). So everyone must choose." loading="lazy">
+  <figcaption>Finite resources and unlimited wants force everyone to make choices.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-basic-economic-problem--03-factors-of-production.webp" width="900" height="940" alt="Four cards: land (natural resources) earns rent, labour (human effort) earns wages, capital (machines and factories) earns interest, and enterprise (organises and takes risks) earns profit." loading="lazy">
+  <figcaption>Each factor of production earns its own reward.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-basic-economic-problem--05-ppc-points.webp" width="900" height="1080" alt="An illustrative PPC with Food and Machines axes. A on the curve means all resources fully used, B inside means idle or wasted resources, C beyond the curve cannot be reached with current resources." loading="lazy">
+  <figcaption>Points inside, on and beyond the PPC show how well resources are used.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-basic-economic-problem--06-ppc-movement-opportunity-cost.webp" width="900" height="1050" alt="Three points on a PPC. Moving from 1 to 2 gains 20 Food and gives up 20 Machines; moving from 2 to 3 gains another 20 Food but gives up 60 Machines. Each extra unit of Food costs more Machines, which is why the curve bows outwards." loading="lazy">
+  <figcaption>Moving along a PPC reallocates resources, and the opportunity cost rises.</figcaption>
+</figure>
+

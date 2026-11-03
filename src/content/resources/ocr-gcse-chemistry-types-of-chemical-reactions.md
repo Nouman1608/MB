@@ -186,6 +186,12 @@ The specification's practical suggestion for C3.3d is the production of a pure d
 
 Excess solid can be filtered off; excess acid would stay in the solution and contaminate the salt.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/acids-bases-and-salts--06-soluble-salt-prep.webp" width="900" height="1130" alt="Four steps: add excess solid to acid, filter off the unreacted solid, evaporate the filtrate until crystals start to form, then crystallise, filter and dry. A note says that with an alkali you titrate to the exact volume." loading="lazy">
+  <figcaption>Excess solid guarantees all the acid reacts; filter before evaporating.</figcaption>
+</figure>
+
+
 ## Dilute, concentrated, weak and strong (C3.3g, Higher Tier only)
 
 Everything here is **Higher Tier only**. The specification flags a misconception: thinking strength and concentration mean the same thing.

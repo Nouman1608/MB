@@ -87,12 +87,6 @@ Contractionary chain: the reverse.
 
 Small worked reminder: a 150,000 tav loan at 4% costs 6,000 a year in interest; at 3% it costs 4,500, saving 1,500. Investment rule: go ahead if the expected return exceeds the borrowing rate, so a 4.5% project fails at 5.0% and passes at 3.5%.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ib-dp-economics-monetary-policy--05-rate-cut-transmission.webp" width="900" height="900" alt="SL and HL. A household with a 150,000 tav variable-rate loan pays 6,000 tavs a year at 4% and 4,500 at 3%, saving 1,500 a year. A firm has a project expected to return 4.5%. With borrowing at 5.0% it is rejected; with borrowing at 3.5% it is accepted. Cheaper credit raises consumption and investment, so aggregate demand shifts right." loading="lazy">
-  <figcaption>A rate cut from 4% to 3% saves a 150,000 tav borrower 1,500 a year and makes a 4.5% project worthwhile.</figcaption>
-</figure>
-
-
 ## Diagram checklists
 
 ### Expansionary policy (recessionary gap)
@@ -145,6 +139,11 @@ Small worked reminder: a 150,000 tav loan at 4% costs 6,000 a year in interest; 
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/ib-dp-economics-monetary-policy--12-money-market.webp" width="900" height="980" alt="HL. Money market diagram with the interest rate on the vertical axis and quantity of money in billions of tavs on the horizontal axis. Money demand slopes down as Md = 500 − 40r; money supply is a vertical line set by the central bank. With supply 300 the equilibrium rate is 5 percent. If the central bank buys bonds or uses quantitative easing and supply rises to 340, the rate falls to 4 percent and cheaper borrowing raises aggregate demand. A fall in supply to 260 would raise the rate to 6 percent." loading="lazy">
   <figcaption>A larger money supply lowers the equilibrium interest rate from 5% to 4%.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-economics-monetary-policy--05-rate-cut-transmission.webp" width="900" height="900" alt="SL and HL. A household with a 150,000 tav variable-rate loan pays 6,000 tavs a year at 4% and 4,500 at 3%, saving 1,500 a year. A firm has a project expected to return 4.5%. With borrowing at 5.0% it is rejected; with borrowing at 3.5% it is accepted. Cheaper credit raises consumption and investment, so aggregate demand shifts right." loading="lazy">
+  <figcaption>A rate cut from 4% to 3% saves a 150,000 tav borrower 1,500 a year and makes a 4.5% project worthwhile.</figcaption>
 </figure>
 
 

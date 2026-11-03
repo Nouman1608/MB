@@ -178,6 +178,11 @@ deducted from the amount paid; a prepayment at the start belongs to this year, s
   <figcaption>Expense = cash paid - owed at the start + owed at the end.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-accounting-for-organisations-with-incomplete-records--05-doubtful-debts-provision.webp" width="900" height="800" alt="Receivables of 19,100 pounds carry a 5 percent provision of 955 pounds, so the statement of financial position shows 18,145 pounds. The old provision was 900 pounds, so only the 55 pound increase is charged as an expense." loading="lazy">
+  <figcaption>Only the change in the provision goes to the income statement; the full provision is deducted from receivables.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 
@@ -223,6 +228,12 @@ deducted from the amount paid; a prepayment at the start belongs to this year, s
 10. 30,000 + 8,000 − 2,500 − 28,900 = **6,600**
 11. 75,000 × 8% = **6,000**
 12. 4,800 / 58,400 × 365 = **30 days**
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-accounting-for-organisations-with-incomplete-records--03-depreciation-methods.webp" width="900" height="1000" alt="A line graph for an asset costing 24,000 pounds at 25 percent: straight line falls 6,000 pounds a year to zero in year 4; reducing balance charges 6,000, 4,500, 3,375 and 2,531 pounds, leaving a carrying amount of 7,594 pounds after four years." loading="lazy">
+  <figcaption>Straight line charges the same each year; reducing balance charges a percentage of the falling carrying amount.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

@@ -168,6 +168,11 @@ well-known electron rest-mass energy).
   <figcaption>Beta decay changes one quark and emits a lepton pair through a W boson (W-boson diagrams: AQA).</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-quantum-physics--06-aphy-quantum-antimatter.webp" width="900" height="1230" alt="An electron and positron at rest annihilate into two 0.511 MeV photons going opposite ways. A 3.50 MeV photon makes an electron-positron pair, using 1.022 MeV as rest energy and leaving 2.478 MeV as kinetic energy, 1.24 MeV each. A 0.80 MeV photon is below the 1.022 MeV minimum." loading="lazy">
+  <figcaption>Annihilation and pair production share energy as rest energy and kinetic energy.</figcaption>
+</figure>
+
 
 ## Common mistakes
 
@@ -203,3 +208,9 @@ field.
 official Pearson Edexcel specification and your own teacher's guidance.
 Always check the current version of the specification for authoritative
 detail.*
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-quantum-physics--02-aphy-quantum-nuclear-size.webp" width="900" height="1190" alt="Radius R against A^(1/3) is a straight line through the origin with gradient r0 = 1.2 fm, with points for He-4, Al-27, Ca-40, Fe-56 and Pb-208. The three nuclei drawn to scale have equal density 2.3e17 kg/m3 because volume is proportional to A." loading="lazy">
+  <figcaption>Nuclear radius grows as A^(1/3), so every nucleus has the same very high density (OCR only for R = r0 A^(1/3)).</figcaption>
+</figure>
+

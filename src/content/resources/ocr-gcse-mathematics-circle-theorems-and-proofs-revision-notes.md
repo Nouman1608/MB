@@ -113,6 +113,14 @@ Angle ACD = 180° - 64° - 69° = 47°    (angles in triangle ACD)
 
 **Check:** angle ACD should equal angle ABD, because both stand on chord AD in the same segment. Both are 47°.
 
+## Proof-writing checklist (Higher tier only)
+
+- State what you are proving, using the letters on the diagram.
+- Name every extra line you draw.
+- Put a reason beside every statement.
+- Use only results you have already proved or know from earlier work, such as isosceles triangles, angles on a straight line and the angle sum of a triangle.
+- Finish by writing the result you set out to prove.
+
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/ocr-gcse-mathematics-circle-theorems-and-proofs--01-alternate-segment.webp" width="900" height="880" alt="A circle with a tangent at A and chords AB and AC forming triangle ABC. The tangent-chord angle with AB is 65 degrees and equals angle ACB in the opposite segment; the angle with AC is 55 degrees and equals angle ABC. Angle BAC is 60 degrees." loading="lazy">
   <figcaption>The angle between a tangent and a chord equals the angle in the alternate segment (the lesson's worked example 6: 65, 55 and 60 degrees).</figcaption>
@@ -158,14 +166,6 @@ Angle ACD = 180° - 64° - 69° = 47°    (angles in triangle ACD)
   <figcaption>Opposite angles of a cyclic quadrilateral add to 180°.</figcaption>
 </figure>
 
-
-## Proof-writing checklist (Higher tier only)
-
-- State what you are proving, using the letters on the diagram.
-- Name every extra line you draw.
-- Put a reason beside every statement.
-- Use only results you have already proved or know from earlier work, such as isosceles triangles, angles on a straight line and the angle sum of a triangle.
-- Finish by writing the result you set out to prove.
 
 ## Proof outlines to learn (Higher tier only)
 

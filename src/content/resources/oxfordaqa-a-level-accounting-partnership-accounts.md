@@ -202,6 +202,12 @@ Balance c/d      68,900    26,300   22,000  Bank                -         -   30
 
 Check: 68,900 + 26,300 + 22,000 = 117,200, which equals the old capitals of 70,000, plus Gwilt's 30,000, plus the revaluation profit of 17,200. Fontaine keeps a quarter share, so her goodwill entries cancel. Cardew gives up a quarter and gains 8,000, paid in effect by Gwilt.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-partnership-accounts--05-goodwill-admission.webp" width="900" height="900" alt="Goodwill of 20,000 pounds is created in the old ratio 3:2 (Fox 12,000, Gale 8,000) and written off in the new ratio 2:2:1 (Fox 8,000, Gale 8,000, Hart 4,000), so net Fox gains 4,000 pounds, Gale nil and Hart loses 4,000 pounds." loading="lazy">
+  <figcaption>Creating goodwill in the old ratio and writing it off in the new ratio makes the new partner pay for it.</figcaption>
+</figure>
+
+
 ### Worked example E: retirement of a partner
 
 Hollis, Jarrow and Keverne share profits 2 : 2 : 1. Keverne retires on 31 March 2026. Capitals are Hollis 36,000, Jarrow 36,000 and Keverne 18,000, and Keverne's current account has a credit balance of 2,750. Land rises by 9,000, vehicles fall by 3,500 and the provision for doubtful debts is increased by 500. Goodwill is 15,000 and is not kept; Hollis and Jarrow continue sharing equally. Keverne takes a van at its revalued figure of 7,200, receives 5,550 by bank transfer, and leaves the rest as a loan.
@@ -249,12 +255,6 @@ Keverne is owed 24,750 in total. The 12,000 loan is a liability; interest on it 
 ## Next steps
 
 Condense the methods with the [revision notes](/resources/oxfordaqa-a-level-accounting-partnership-accounts-revision-notes/), then try the [practice questions](/resources/oxfordaqa-a-level-accounting-partnership-accounts-practice/). Another International A-level financial accounting topic is [accounting for organisations with incomplete records](/resources/oxfordaqa-a-level-accounting-accounting-for-organisations-with-incomplete/); for planning your revision see [OxfordAQA A-level Accounting exam preparation page](/resources/oxfordaqa-a-level-accounting-exam-preparation/).
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/aqa-a-level-accounting-partnership-accounts--05-goodwill-admission.webp" width="900" height="900" alt="Goodwill of 20,000 pounds is created in the old ratio 3:2 (Fox 12,000, Gale 8,000) and written off in the new ratio 2:2:1 (Fox 8,000, Gale 8,000, Hart 4,000), so net Fox gains 4,000 pounds, Gale nil and Hart loses 4,000 pounds." loading="lazy">
-  <figcaption>Creating goodwill in the old ratio and writing it off in the new ratio makes the new partner pay for it.</figcaption>
-</figure>
-
 
 ## Official syllabus
 

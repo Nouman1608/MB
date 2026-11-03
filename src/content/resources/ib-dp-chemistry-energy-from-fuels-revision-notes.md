@@ -175,17 +175,6 @@ Carbon bookkeeping reminder for bioethanol: making 1 glucose fixes 6 CO₂. Ferm
 - Renewable vs carbon neutral: renewable is about the rate of replacement; carbon neutral is about net CO₂. A biofuel is renewable but is rarely fully carbon neutral.
 - Complete vs incomplete: the hydrogen always becomes water; only the carbon product changes.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ib-dp-chemistry-energy-from-fuels--07-hydrogen-fuel-cell.webp" width="900" height="920" alt="A hydrogen fuel cell with acid electrolyte. H2 is oxidised at the negative anode, electrons flow through a lamp to the positive cathode, H+ ions cross the electrolyte, and O2 is reduced at the cathode to water." loading="lazy">
-  <figcaption>At the anode H2 is oxidised; at the cathode O2 is reduced; electrons flow anode to cathode through the circuit.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ib-dp-chemistry-energy-from-fuels--08-methanol-half-equation.webp" width="900" height="1130" alt="Four steps balance carbon, oxygen (add H2O), hydrogen (add H+) and charge (add e-) to give CH3OH + H2O -&gt; CO2 + 6H+ + 6e-. With the cathode 3/2 O2 + 6H+ + 6e- -&gt; 3H2O, the overall change is CH3OH + 3/2 O2 -&gt; CO2 + 2H2O." loading="lazy">
-  <figcaption>Balance C, O, H then charge to get the anode half-equation; the overall change equals burning methanol.</figcaption>
-</figure>
-
-
 ## Quick self-test
 
 1. Write the equation for the complete combustion of cyclohexane, C₆H₁₂.
@@ -213,6 +202,17 @@ Carbon bookkeeping reminder for bioethanol: making 1 glucose fixes 6 CO₂. Ferm
 9. One that is replaced by natural processes at least as fast as it is used.
 10. H₂ + 2OH⁻ → 2H₂O + 2e⁻
 11. **Six.**
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-energy-from-fuels--07-hydrogen-fuel-cell.webp" width="900" height="920" alt="A hydrogen fuel cell with acid electrolyte. H2 is oxidised at the negative anode, electrons flow through a lamp to the positive cathode, H+ ions cross the electrolyte, and O2 is reduced at the cathode to water." loading="lazy">
+  <figcaption>At the anode H2 is oxidised; at the cathode O2 is reduced; electrons flow anode to cathode through the circuit.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-energy-from-fuels--08-methanol-half-equation.webp" width="900" height="1130" alt="Four steps balance carbon, oxygen (add H2O), hydrogen (add H+) and charge (add e-) to give CH3OH + H2O -&gt; CO2 + 6H+ + 6e-. With the cathode 3/2 O2 + 6H+ + 6e- -&gt; 3H2O, the overall change is CH3OH + 3/2 O2 -&gt; CO2 + 2H2O." loading="lazy">
+  <figcaption>Balance C, O, H then charge to get the anode half-equation; the overall change equals burning methanol.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

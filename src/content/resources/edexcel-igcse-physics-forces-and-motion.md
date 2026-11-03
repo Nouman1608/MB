@@ -222,6 +222,11 @@ holds.
   <figcaption>Springs obey Hooke’s law up to the limit; rubber bands are elastic but not linear.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-physics-motion-forces-and-energy--07-stretching-a-spring.webp" width="900" height="960" alt="A load-extension graph is a straight line through the origin with gradient 40 N/m up to the limit of proportionality at 8.0 N, then curves. At 6.0 N the extension is 0.15 m." loading="lazy">
+  <figcaption>Up to the limit of proportionality force is proportional to extension: F = kx.</figcaption>
+</figure>
+
 
 ## Momentum (Physics only)
 
@@ -252,6 +257,17 @@ combined velocity afterward:
 v = 1.0 m/s
 ```
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/momentum--02-collision-stick.webp" width="900" height="780" alt="A 2 kg trolley at 3 m/s hits a stationary 1 kg trolley. Momentum before is 6 kg m/s, shown as a bar. After they stick, 3 kg moves at 2 m/s and the bar is the same length." loading="lazy">
+  <figcaption>Total momentum before a collision equals total momentum after it.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/momentum--05-impulse-force-time.webp" width="900" height="940" alt="Two force-time graphs with the same momentum change of 900 kg m/s for a 60 kg person stopping from 15 m/s. A 0.05 s stop needs 18000 N; a 0.2 s airbag stop needs 4500 N. Both areas are 900 N s." loading="lazy">
+  <figcaption>The same impulse over a longer time needs a smaller force.</figcaption>
+</figure>
+
+
 ## Moments (Physics only)
 
 The **moment** of a force about a pivot is the product of the force and its
@@ -264,6 +280,16 @@ forces on a beam vary with the position of a load placed along it.
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/edexcel-igcse-physics-forces-and-motion--06-beam-supports.webp" width="900" height="1060" alt="A light 2.0 m beam on supports A and B with a 100 N load at 0.5, 1.0 and 1.5 m. Support forces 75/25, 50/50 and 25/75 N, each pair summing to 100 N." loading="lazy">
   <figcaption>Support forces change with load position, from moments about a support.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-physics-motion-forces-and-energy--06-moments-balance.webp" width="900" height="830" alt="A beam on a central pivot with 2.0 N at 0.30 m on the left and W at 0.20 m on the right. The anticlockwise moment 0.60 N m equals the clockwise moment 0.60 N m, so W = 3.0 N and the beam balances." loading="lazy">
+  <figcaption>A beam balances when the clockwise and anticlockwise moments about the pivot are equal.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/elastic-deformation-moments-and-centre-of-gravity--05-plumb-line-lamina.webp" width="900" height="1160" alt="A plane lamina is hung from pin A with a plumb line, then from pin B. The two vertical lines, drawn on the lamina, cross at the centre of gravity." loading="lazy">
+  <figcaption>The centre of gravity is where the plumb lines from two suspension points cross.</figcaption>
 </figure>
 
 

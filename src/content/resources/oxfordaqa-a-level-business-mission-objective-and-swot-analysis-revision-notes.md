@@ -78,6 +78,12 @@ Practise: [practice questions](/resources/oxfordaqa-a-level-business-mission-obj
 
 Non-formula data you must still interpret: customer satisfaction scores, environmental impact data (emissions, waste, energy use), employee engagement scores, employee representation rates (the share of staff represented by a trade union or similar body) and employee retention (the percentage of employees still at the business a year after recruitment).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-business-managers-leadership-decision-making--09-margins-fall.webp" width="900" height="1010" alt="Revenue grew 20 percent and cost of sales 30 percent. Gross margin fell from 40 to 35 percent, operating margin from 15 to 12 percent and net margin from 10.7 to 7.8 percent." loading="lazy">
+  <figcaption>Cost of sales grew faster than revenue, so every profit margin fell.</figcaption>
+</figure>
+
+
 ## Method: turning data into strengths and weaknesses
 
 1. Calculate the measure, showing the formula and working.
@@ -87,12 +93,6 @@ Non-formula data you must still interpret: customer satisfaction scores, environ
 5. Weigh it: one figure rarely decides the case; look for a pattern across functions.
 
 Example reminder: a current ratio of 1.2 is a weakness only if the industry norm or the firm's needs suggest it should be higher. A supermarket with fast-selling stock can operate safely on a low ratio.
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/aqa-a-level-business-managers-leadership-decision-making--04-swot-inside-outside.webp" width="900" height="1000" alt="A grid of strengths and weaknesses (inside) over opportunities and threats (outside). Strength: ROCE 15 percent vs industry 11 percent. Weakness: acid test 0.83 vs 1.0. Opportunity: market up 8 percent from 50 to 54. Threat: rival cuts price 10 percent." loading="lazy">
-  <figcaption>Internal factors are strengths or weaknesses only when compared with a benchmark; a rival price cut is an external threat.</figcaption>
-</figure>
-
 
 ## Which functional data goes where
 
@@ -176,13 +176,18 @@ Example reminder: a current ratio of 1.2 is a weakness only if the industry norm
 12. It is too vague to guide decisions, or behaviour contradicts it (either answer).
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/aqa-a-level-business-managers-leadership-decision-making--08-dividend-yield.webp" width="900" height="1050" alt="Market capitalisation 48 million x 3.25 = 156 million pounds; dividend per share 7.2m / 48m = 15p; yield 15p / 3.25 x 100 = 4.62 percent. If the price falls to 3.00 the yield is 5.00 percent and market capitalisation 144 million pounds." loading="lazy">
-  <figcaption>A falling share price raises dividend yield but lowers market capitalisation, so a higher yield can signal lost confidence.</figcaption>
+  <img src="https://img.marlbridge.com/aqa-a-level-business-managers-leadership-decision-making--03-decision-tree.webp" width="900" height="1020" alt="Decision tree: launching costs 300 thousand pounds and leads to success (60 percent, 800) or failure (40 percent, 200). Expected value 560, net gain 260. An illustrative do-nothing branch worth 0 is shown dashed." loading="lazy">
+  <figcaption>Expected value is the sum of probability times payoff; net gain subtracts the cost of the option.</figcaption>
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/aqa-a-level-business-managers-leadership-decision-making--09-margins-fall.webp" width="900" height="1010" alt="Revenue grew 20 percent and cost of sales 30 percent. Gross margin fell from 40 to 35 percent, operating margin from 15 to 12 percent and net margin from 10.7 to 7.8 percent." loading="lazy">
-  <figcaption>Cost of sales grew faster than revenue, so every profit margin fell.</figcaption>
+  <img src="https://img.marlbridge.com/aqa-a-level-business-managers-leadership-decision-making--04-swot-inside-outside.webp" width="900" height="1000" alt="A grid of strengths and weaknesses (inside) over opportunities and threats (outside). Strength: ROCE 15 percent vs industry 11 percent. Weakness: acid test 0.83 vs 1.0. Opportunity: market up 8 percent from 50 to 54. Threat: rival cuts price 10 percent." loading="lazy">
+  <figcaption>Internal factors are strengths or weaknesses only when compared with a benchmark; a rival price cut is an external threat.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-business-managers-leadership-decision-making--08-dividend-yield.webp" width="900" height="1050" alt="Market capitalisation 48 million x 3.25 = 156 million pounds; dividend per share 7.2m / 48m = 15p; yield 15p / 3.25 x 100 = 4.62 percent. If the price falls to 3.00 the yield is 5.00 percent and market capitalisation 144 million pounds." loading="lazy">
+  <figcaption>A falling share price raises dividend yield but lowers market capitalisation, so a higher yield can signal lost confidence.</figcaption>
 </figure>
 
 

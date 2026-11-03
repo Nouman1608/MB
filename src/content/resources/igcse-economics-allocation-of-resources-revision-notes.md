@@ -171,12 +171,6 @@ tools without linking them to a cause.
   (a general fall in income; a new tax on all producers) shifts the
   whole market curve, not just one individual's curve.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-economics-allocation-of-resources-revision-notes--03-rn63-aggregation.webp" width="900" height="900" alt="Three individual demand curves and the market curve. At price 4 individuals demand 2, 4 and 6, so market demand is 12." loading="lazy">
-  <figcaption>Market demand adds individual quantities at each price.</figcaption>
-</figure>
-
-
 ## Common exam traps in this topic
 
 - Writing "demand increases" when the diagram actually shows a
@@ -193,6 +187,12 @@ tools without linking them to a cause.
 - Naming a government intervention (e.g. "subsidy") without stating
   which market failure it is correcting — full marks in evaluation
   questions require the causal link, not just the policy name.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-allocation-of-resources-revision-notes--03-rn63-aggregation.webp" width="900" height="900" alt="Three individual demand curves and the market curve. At price 4 individuals demand 2, 4 and 6, so market demand is 12." loading="lazy">
+  <figcaption>Market demand adds individual quantities at each price.</figcaption>
+</figure>
+
 
 ## Quick self-check
 

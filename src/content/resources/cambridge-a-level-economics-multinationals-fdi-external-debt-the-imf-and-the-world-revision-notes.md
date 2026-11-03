@@ -67,6 +67,11 @@ For full explanations read the [study guide](/resources/cambridge-a-level-econom
 </figure>
 
 <figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-multinationals-fdi-external-debt-the-imf-and-the-world--02-fdi-value-added.webp" width="900" height="860" alt="Splits 40.0 of value added into wages, tax and repatriated profit (44% stays, 56% leaves) and shows 380 net new jobs. Illustrative numbers from the lesson; see the SVG description for the full text." loading="lazy">
+  <figcaption>Of the plant’s 40.0 million value added, 44% stays in the host country and 56% is sent abroad.</figcaption>
+</figure>
+
+<figure class="topic-figure">
   <img src="https://img.marlbridge.com/cambridge-a-level-economics-multinationals-fdi-external-debt-the-imf-and-the-world--11-mnc-what-it-does.webp" width="900" height="780" alt="A head office in the home country passes technology to subsidiaries in host countries A and B, which send profits back. The subsidiaries trade components with each other at transfer prices. Plants built or bought abroad are FDI." loading="lazy">
   <figcaption>An MNC organises production, technology and profits across countries.</figcaption>
 </figure>
@@ -84,11 +89,6 @@ For full explanations read the [study guide](/resources/cambridge-a-level-econom
 - Local content share of costs is a separate measure; if 18 of 60 million is spent on local inputs it is 18 ÷ 60 = **30%**.
 
 **FDI as a share of GDP:** FDI inflow ÷ GDP × 100.
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/cambridge-a-level-economics-multinationals-fdi-external-debt-the-imf-and-the-world--02-fdi-value-added.webp" width="900" height="860" alt="Splits 40.0 of value added into wages, tax and repatriated profit (44% stays, 56% leaves) and shows 380 net new jobs. Illustrative numbers from the lesson; see the SVG description for the full text." loading="lazy">
-  <figcaption>Of the plant’s 40.0 million value added, 44% stays in the host country and 56% is sent abroad.</figcaption>
-</figure>
 
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/cambridge-a-level-economics-multinationals-fdi-external-debt-the-imf-and-the-world--12-mnc-host-gains-costs.webp" width="900" height="906" alt="Possible benefits: jobs and training; capital and new technology; tax revenue and exports; competition lowers prices; linkages to local suppliers. Possible costs: local firms squeezed out; profits sent abroad; tax avoidance by transfer pricing; pollution and weak labour standards; footloose." loading="lazy">
@@ -192,12 +192,6 @@ For full explanations read the [study guide](/resources/cambridge-a-level-econom
 | Typical support | Temporary balance of payments loans | Project and programme loans, grants |
 | Both | Attach conditions; can be criticised for policies that ignore local needs | |
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/cambridge-a-level-economics-multinationals-fdi-external-debt-the-imf-and-the-world--13-mnc-world-bank-loan-cost.webp" width="900" height="630" alt="A 200 million FCU loan costs 4 million a year at 2% and 14 million at 7%. The saving is 10 million a year, 200 million over 20 years of interest." loading="lazy">
-  <figcaption>Soft World Bank loans cut the cost of development finance.</figcaption>
-</figure>
-
-
 ## Quick self-test
 
 1. Define a multinational company.
@@ -225,6 +219,12 @@ For full explanations read the [study guide](/resources/cambridge-a-level-econom
 9. Any one: surveillance, temporary lending, conditionality, technical assistance, monetary cooperation.
 10. Any one World Bank role: long-term development loans, poverty reduction, technical advice. Difference: it focuses on long-run development, the IMF on short-run payments and stability.
 11. 50 × 0.05 = 2.5; 50 × 0.01 = 0.5; saving **2.0 million** a year.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-multinationals-fdi-external-debt-the-imf-and-the-world--13-mnc-world-bank-loan-cost.webp" width="900" height="630" alt="A 200 million FCU loan costs 4 million a year at 2% and 14 million at 7%. The saving is 10 million a year, 200 million over 20 years of interest." loading="lazy">
+  <figcaption>Soft World Bank loans cut the cost of development finance.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

@@ -202,6 +202,12 @@ Rearrangements: v = c / n, sin r = sin i / n, sin c = 1 / n.
 11. It meets the wall at an angle above the critical angle, so it is **totally internally reflected** each time.
 12. n = sin 45° / sin 27° = 0.7071 / 0.4540 = **1.56**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-physics-reflection-refraction-refractive-index-and-total--06-wavelength-air-to-glass.webp" width="900" height="770" alt="One continuous wave crosses from air into glass. The wavelength is 545 nm in air and 364 nm in glass while the frequency stays 5.50 x 10^14 Hz." loading="lazy">
+  <figcaption>A wave that slows down keeps its frequency, so its wavelength gets shorter.</figcaption>
+</figure>
+
+
 ## Where marks are usually lost
 
 - Taking angles from the mirror or block edge instead of the normal.
@@ -216,12 +222,6 @@ Rearrangements: v = c / n, sin r = sin i / n, sin c = 1 / n.
 - Plotting sin i against i instead of against sin r in the practical.
 - Forgetting that n has no unit.
 - Quoting a protractor-based angle to more precision than the readings allow in the required practical.
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/oxfordaqa-igcse-physics-reflection-refraction-refractive-index-and-total--06-wavelength-air-to-glass.webp" width="900" height="770" alt="One continuous wave crosses from air into glass. The wavelength is 545 nm in air and 364 nm in glass while the frequency stays 5.50 x 10^14 Hz." loading="lazy">
-  <figcaption>A wave that slows down keeps its frequency, so its wavelength gets shorter.</figcaption>
-</figure>
-
 
 ## Official syllabus
 

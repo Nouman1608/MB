@@ -169,6 +169,14 @@ Now test a price rise on one stream. If hire rises from 14 to 16 dollars and hou
 
 The membership line deserves a small note. If members pay 120 dollars up front for a year, a business may collect the cash in one month although the service lasts twelve. Treat that as a reminder that revenue and cash flow are different ideas, which section 3.7 covers.
 
+## Answering exam questions on this section
+
+- Define: give the key idea in one precise sentence. For "indirect cost", say it cannot be traced to a single product and supports the whole business.
+- Identify or state: name the cost or stream, no explanation needed.
+- Calculate: write the formula, substitute, and give the unit (a currency amount).
+- Explain: say what it is, then link to the business in the stem using a figure or detail from it.
+- Analyse and evaluate: develop a consequence, such as effect on profit, then weigh alternatives and reach a judgment. Raising price, adding a stream, or cutting output all have costs and benefits.
+
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/ib-dp-business-management-costs-and-revenues--07-revenue-streams.webp" width="900" height="850" alt="Five streams for Duskwater Kayak Hire in dollars: hire 12,600 (23.6%), tours 15,960 (29.9%), cafe 13,760 (25.7%), merchandise 5,735 (10.7%), memberships 5,400 (10.1%). Together 53,455." loading="lazy">
   <figcaption>Total revenue is the sum of each stream calculated as price times quantity.</figcaption>
@@ -179,14 +187,6 @@ The membership line deserves a small note. If members pay 120 dollars up front f
   <figcaption>The same direction of price change can raise or lower revenue, depending on the fall in quantity.</figcaption>
 </figure>
 
-
-## Answering exam questions on this section
-
-- Define: give the key idea in one precise sentence. For "indirect cost", say it cannot be traced to a single product and supports the whole business.
-- Identify or state: name the cost or stream, no explanation needed.
-- Calculate: write the formula, substitute, and give the unit (a currency amount).
-- Explain: say what it is, then link to the business in the stem using a figure or detail from it.
-- Analyse and evaluate: develop a consequence, such as effect on profit, then weigh alternatives and reach a judgment. Raising price, adding a stream, or cutting output all have costs and benefits.
 
 ## Common errors
 

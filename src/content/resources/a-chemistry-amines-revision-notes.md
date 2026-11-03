@@ -128,22 +128,6 @@ Aliphatic amines do not form stable diazonium salts, which is why this chemistry
 
 **Two distinct steps, easily conflated:** forming the diazonium salt reacts phenylamine with HNO₂/NaNO₂ and dilute acid; coupling reacts the already-formed diazonium salt with a second aromatic compound (like phenol) in alkaline conditions to build the azo dye.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-chemistry-amines-revision-notes--01-diazotisation-coupling.webp" width="900" height="1230" alt="Step 1: phenylamine reacts with NaNO2 and HCl below 10 degrees Celsius to give a diazonium salt. Step 2: the diazonium salt reacts with phenol in alkali to give an azo dye where an N=N link joins two benzene rings into one delocalised system that absorbs visible light. A side panel shows the diazonium salt warmed with water giving phenol." loading="lazy">
-  <figcaption>Diazotisation must stay below 10 C; coupling with phenol in alkali builds the coloured azo dye.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-chemistry-amines-revision-notes--02-phenylamine-bromine-water.webp" width="900" height="990" alt="Orange bromine water is added to phenylamine at room temperature without a catalyst and gives an immediate white precipitate. The equation shows phenylamine plus 3Br2 giving 2,4,6-tribromophenylamine and 3HBr. The nitrogen lone pair delocalises into the ring, activating it." loading="lazy">
-  <figcaption>The activated ring of phenylamine brominates at room temperature with no catalyst.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-aromatic-chemistry--09-synthesis-route.webp" width="900" height="1120" alt="Seven structures joined by six arrows: benzene, nitrobenzene, phenylamine, benzenediazonium chloride, phenol, 4-nitrophenol and 4-nitrophenyl ethanoate, each arrow labelled with reaction type and reagents. Step 5 also gives 2-nitrophenol as a by-product." loading="lazy">
-  <figcaption>Six reactions turn benzene into 4-nitrophenyl ethanoate. (Cambridge only)</figcaption>
-</figure>
-
-
 ## Exam traps
 
 - Explaining basicity without reference to lone-pair availability.
@@ -168,3 +152,19 @@ Aliphatic amines do not form stable diazonium salts, which is why this chemistry
 9. Distinguish diazonium salt formation from diazonium coupling.
 
 **Answers:** 1. The nitrogen has a lone pair of electrons that can accept a proton. 2. Two electron-donating alkyl groups increase the electron density on the nitrogen, making the lone pair more available to accept a proton. 3. The nitrogen lone pair is delocalised into the benzene ring, so it is much less available for accepting a proton. 4. The primary amine produced is itself nucleophilic and reacts further to give secondary, tertiary and quaternary products; excess ammonia makes further substitution less likely. 5. Above 10 °C the diazonium salt decomposes; azo dyes are coloured because coupling creates an extended delocalised electron system that absorbs visible light. 6. CH₃COCl + 2NH₃ → CH₃CONH₂ + NH₄Cl. 7. It substitutes readily at the ring to give an immediate white precipitate of 2,4,6-tribromophenylamine; no catalyst is needed because the ring is activated by the delocalisation of the nitrogen lone pair into it. 8. Phenol. 9. Formation reacts phenylamine with HNO₂/NaNO₂ and dilute acid below 10 °C to give the diazonium salt; coupling reacts that diazonium salt with a second aromatic compound, such as phenol, in alkaline conditions to form the azo dye.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-chemistry-amines-revision-notes--01-diazotisation-coupling.webp" width="900" height="1230" alt="Step 1: phenylamine reacts with NaNO2 and HCl below 10 degrees Celsius to give a diazonium salt. Step 2: the diazonium salt reacts with phenol in alkali to give an azo dye where an N=N link joins two benzene rings into one delocalised system that absorbs visible light. A side panel shows the diazonium salt warmed with water giving phenol." loading="lazy">
+  <figcaption>Diazotisation must stay below 10 C; coupling with phenol in alkali builds the coloured azo dye.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-chemistry-amines-revision-notes--02-phenylamine-bromine-water.webp" width="900" height="990" alt="Orange bromine water is added to phenylamine at room temperature without a catalyst and gives an immediate white precipitate. The equation shows phenylamine plus 3Br2 giving 2,4,6-tribromophenylamine and 3HBr. The nitrogen lone pair delocalises into the ring, activating it." loading="lazy">
+  <figcaption>The activated ring of phenylamine brominates at room temperature with no catalyst.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-aromatic-chemistry--09-synthesis-route.webp" width="900" height="1120" alt="Seven structures joined by six arrows: benzene, nitrobenzene, phenylamine, benzenediazonium chloride, phenol, 4-nitrophenol and 4-nitrophenyl ethanoate, each arrow labelled with reaction type and reagents. Step 5 also gives 2-nitrophenol as a by-product." loading="lazy">
+  <figcaption>Six reactions turn benzene into 4-nitrophenyl ethanoate. (Cambridge only)</figcaption>
+</figure>
+

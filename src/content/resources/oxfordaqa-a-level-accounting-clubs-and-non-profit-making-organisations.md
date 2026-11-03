@@ -304,6 +304,12 @@ Total funds and liabilities                               112,090
 Good answers use figures, weigh more than one side and end with a judgement, for example on whether
 subscriptions need to rise.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-accounting-manufacturing-accounts--08-unrealised-profit.webp" width="900" height="1056" alt="Closing finished goods of 29,900 at transfer price contain 26,000 cost and 3,900 unearned profit (29,900 x 15/115). The provision rose from 3,150 to 3,900, so only 750 is deducted from profit on manufacture of 66,375, leaving 65,625. Taking 15% of 29,900 is wrong." loading="lazy">
+  <figcaption>Remove unearned profit from closing finished goods using m/(100+m), and charge only the change in the provision.</figcaption>
+</figure>
+
+
 ## Common errors
 
 - Calling the excess of receipts over payments the surplus.

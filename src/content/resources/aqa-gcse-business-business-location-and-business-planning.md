@@ -91,17 +91,16 @@ Site 2: 500 × 0.06 = 30 customers a day. 30 × £7 = £210 a day. £210 × 26 =
 
 Site 1 has the higher rent but leaves £10,304 − £4,560 = £5,744 more. Proximity to customers outweighs the higher cost here. The estimate of 6% is a forecast, and the conclusion depends on it. If the café at Site 1 faced three direct competitors within 200 metres, the 6% might fall, which is where the competition factor enters your evaluation.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/aqa-gcse-business-business-location-and-business-planning--01-location-cafe-sites.webp" width="900" height="820" alt="Two stacked bars of monthly takings. Site 1: 1,200 passers-by a day, takings 13,104 pounds, rent 2,800 pounds, leaving 10,304 pounds. Site 2: 500 passers-by, takings 5,460 pounds, rent 900 pounds, leaving 4,560 pounds. Site 1 leaves 5,744 pounds more." loading="lazy">
-  <figcaption>The higher-rent site leaves £5,744 a month more because more passers-by buy (a 6% forecast).</figcaption>
-</figure>
-
-
 ### Applying location factors in an exam answer
 
 Weak answers list factors. Strong answers follow a chain: factor, effect on this business, consequence for costs or sales. For example: "The bakery needs fresh flour weekly (raw materials), so a site near the mill cuts transport costs, which lowers its variable costs per loaf."
 
 When asked to evaluate or justify a location, weigh at least two factors against each other, then decide which matters most for this business and why. State what would change your mind.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-business-business-location-and-business-planning--01-location-cafe-sites.webp" width="900" height="820" alt="Two stacked bars of monthly takings. Site 1: 1,200 passers-by a day, takings 13,104 pounds, rent 2,800 pounds, leaving 10,304 pounds. Site 2: 500 passers-by, takings 5,460 pounds, rent 900 pounds, leaving 4,560 pounds. Site 1 leaves 5,744 pounds more." loading="lazy">
+  <figcaption>The higher-rent site leaves £5,744 a month more because more passers-by buy (a 6% forecast).</figcaption>
+</figure>
 
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/aqa-gcse-business-business-location-and-business-planning--02-location-labour-competition-costs.webp" width="900" height="1030" alt="Cards for labour, competition and costs each give a plus and a minus. Labour: enough skilled workers versus shortage forcing higher pay. Competition: more customers visit but you share them; away from rivals, fewer alternatives but maybe low demand. Costs: prime site brings trade but costs more. The test is whether extra income beats extra cost." loading="lazy">

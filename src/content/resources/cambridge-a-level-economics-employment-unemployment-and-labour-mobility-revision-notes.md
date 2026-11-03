@@ -91,6 +91,11 @@ If supply-side reform cuts the natural rate to 4.5%, natural unemployment falls 
   <figcaption>At a wage floor of 25, supply (300) exceeds demand (100): 200 thousand are involuntarily unemployed.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-economics-microeconomic-decision-makers--04-wage-above-equilibrium.webp" width="900" height="890" alt="With a wage floor of 9 above the equilibrium of 7, firms want 30 workers but 70 want jobs, leaving 40 without work. Workers in jobs earn more but fewer are employed." loading="lazy">
+  <figcaption>A minimum wage or union deal above equilibrium raises pay for those employed but can reduce jobs.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 
@@ -155,11 +160,6 @@ If supply-side reform cuts the natural rate to 4.5%, natural unemployment falls 
   <figcaption>Unemployment, employment and participation rates tell different parts of the story.</figcaption>
 </figure>
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/aqa-gcse-economics-objectives-of-government--04-unemployment-types.webp" width="900" height="1000" alt="Four panels: cyclical (unemployment rises when output falls), seasonal (a yearly repeating pattern), structural (long-term decline of an industry), frictional (a short gap between two jobs)." loading="lazy">
-  <figcaption>Each type of unemployment has a different pattern over time.</figcaption>
-</figure>
-
 
 ## Policy summary
 
@@ -208,6 +208,16 @@ If supply-side reform cuts the natural rate to 4.5%, natural unemployment falls 
   <figcaption>Cost per additional job is the cost divided by the share of jobs that are genuinely additional.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-employment-unemployment-and-labour-mobility--06-fiscal-stimulus-jobs.webp" width="900" height="810" alt="Spending of 1.5 billion cu with a multiplier of 2 raises national income by 3.0 billion cu. Dividing by 50,000 cu output per extra worker gives 60,000 jobs, which removes 40% of 150,000 cyclical unemployed and leaves 90,000 jobless; structural unemployment is untouched." loading="lazy">
+  <figcaption>Demand-side stimulus helps cyclical unemployment: 60,000 jobs cover 40% of the 150,000, and nothing structural.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-objectives-of-government--04-unemployment-types.webp" width="900" height="1000" alt="Four panels: cyclical (unemployment rises when output falls), seasonal (a yearly repeating pattern), structural (long-term decline of an industry), frictional (a short gap between two jobs)." loading="lazy">
+  <figcaption>Each type of unemployment has a different pattern over time.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 
@@ -219,12 +229,6 @@ If supply-side reform cuts the natural rate to 4.5%, natural unemployment falls 
 - Listing policies with no evaluation of time lags, cost or side effects.
 - Treating a fall in the rate as more jobs when people have left the labour force.
 - Describing mobility factors without saying whether they affect geographical or occupational mobility.
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/cambridge-igcse-economics-microeconomic-decision-makers--04-wage-above-equilibrium.webp" width="900" height="890" alt="With a wage floor of 9 above the equilibrium of 7, firms want 30 workers but 70 want jobs, leaving 40 without work. Workers in jobs earn more but fewer are employed." loading="lazy">
-  <figcaption>A minimum wage or union deal above equilibrium raises pay for those employed but can reduce jobs.</figcaption>
-</figure>
-
 
 ## Official syllabus
 

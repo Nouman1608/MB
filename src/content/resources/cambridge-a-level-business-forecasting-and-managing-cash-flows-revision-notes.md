@@ -143,11 +143,6 @@ Example: if Dormer's October inflows fall by £1,000 because a customer pays in 
 | Cut costs | Quality or growth may suffer |
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/cambridge-a-level-business-forecasting-and-managing-cash-flows--07-debt-factoring.webp" width="900" height="940" alt="A bar of 15,000 pounds of invoices: 12,000 advanced at once (80%), 450 kept as a 3% fee, and 2,550 passed on when customers pay." loading="lazy">
-  <figcaption>Factoring brings cash in quickly but the fee reduces the profit on the sale.</figcaption>
-</figure>
-
-<figure class="topic-figure">
   <img src="https://img.marlbridge.com/cambridge-a-level-business-forecasting-and-managing-cash-flows--06-cash-methods.webp" width="900" height="1015" alt="Twelve methods in four groups (cash in sooner, cash out later, cash out less, new money in), each with its main drawback." loading="lazy">
   <figcaption>Every method of improving cash flow has a price.</figcaption>
 </figure>
@@ -205,6 +200,17 @@ Example: if Dormer's October inflows fall by £1,000 because a customer pays in 
 10. 2,000 − 3,500 = −£1,500.
 11. Advance £8,000; fee £200; balance 10,000 − 8,000 − 200 = £1,800.
 12. It is an accounting entry that spreads the cost of an asset over time. No cash leaves the business when depreciation is recorded.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-business-forecasting-and-managing-cash-flows--07-debt-factoring.webp" width="900" height="940" alt="A bar of 15,000 pounds of invoices: 12,000 advanced at once (80%), 450 kept as a 3% fee, and 2,550 passed on when customers pay." loading="lazy">
+  <figcaption>Factoring brings cash in quickly but the fee reduces the profit on the sale.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-business-forecasting-and-managing-cash-flows--08-ossington-levers.webp" width="900" height="930" alt="A 2% discount brings 6,000 pounds forward 50 days, receiving 5,880 and costing 120 a month. Cutting stock from 8,000 to 6,000 frees 2,000 pounds once." loading="lazy">
+  <figcaption>The discount recurs each month; the stock cut frees cash only once.</figcaption>
+</figure>
+
 
 ## Using this in the exam
 

@@ -104,6 +104,11 @@ An inferior good behaves the other way round for income: as incomes rise, demand
   <figcaption>A shift of the whole supply curve is caused by costs of production, technology or the number of sellers.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-allocation-of-resources--08-tax-and-subsidy.webp" width="900" height="1370" alt="An indirect tax of 1.8 shifts supply up, raising price from 5 to 6 and cutting quantity from 50 to 40. A subsidy of 1.8 shifts supply down, cutting price from 5 to 4 and raising quantity from 50 to 60." loading="lazy">
+  <figcaption>A tax shifts supply up and a subsidy shifts it down.</figcaption>
+</figure>
+
 
 ## Method: finding equilibrium from a table
 
@@ -157,6 +162,17 @@ For two shifts at once, only one result is guaranteed. The other turns on which 
 
 **Worked reminder.** In the bicycle market, demand rises by 30 at every price. The new equilibrium is where 140 − 20 × price = 20 × price − 10, so price = 3.75 and quantity = 65. Both rise, as the table predicts.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-economics-demand-supply-and-market-equilibrium--05-egg-two-shifts.webp" width="900" height="900" alt="Demand rises by 120 and supply falls by 100. Price certainly rises to 14.2; quantity could rise or fall and here is 268." loading="lazy">
+  <figcaption>With two shifts, one of price or quantity is uncertain.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-economics-demand-supply-and-market-equilibrium--05-un185-draw-diagram-marks.webp" width="900" height="930" alt="A demand and supply graph with three numbered features: labelled Price and Quantity axes; curves labelled D, S and shifted D1; and both equilibria (E at 12, 280 and E1 at 13.2, 328) marked with values on the axes." loading="lazy">
+  <figcaption>A model diagram annotated with the three things a Draw answer should include.</figcaption>
+</figure>
+
+
 ## Drawing excess demand and excess supply (1.1.3 h, i)
 
 1. Draw D and S crossing at equilibrium E.
@@ -164,12 +180,6 @@ For two shifts at once, only one result is guaranteed. The other turns on which 
 3. The supply curve is the left-hand point and the demand curve the right-hand point. The horizontal gap between them is **excess demand**.
 4. Pick a price above E and repeat. Now the demand curve is the left-hand point and the supply curve the right-hand point. The gap is **excess supply**.
 5. Label the gap and, if you have figures, write its size.
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/edexcel-igcse-economics-demand-supply-and-market-equilibrium--05-un185-draw-diagram-marks.webp" width="900" height="930" alt="A demand and supply graph with three numbered features: labelled Price and Quantity axes; curves labelled D, S and shifted D1; and both equilibria (E at 12, 280 and E1 at 13.2, 328) marked with values on the axes." loading="lazy">
-  <figcaption>A model diagram annotated with the three things a Draw answer should include.</figcaption>
-</figure>
-
 
 ## A chain of analysis in four links
 
@@ -235,12 +245,6 @@ The price signals what is scarce or plentiful and gives producers and consumers 
 8. Supply shifts right, so the equilibrium price falls.
 9. Supply increases (curve shifts right or down), so the equilibrium price falls and quantity rises.
 10. There is excess supply of 80, so sellers cut price, and quantity demanded rises as price falls.
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/edexcel-igcse-economics-demand-supply-and-market-equilibrium--05-egg-two-shifts.webp" width="900" height="900" alt="Demand rises by 120 and supply falls by 100. Price certainly rises to 14.2; quantity could rise or fall and here is 268." loading="lazy">
-  <figcaption>With two shifts, one of price or quantity is uncertain.</figcaption>
-</figure>
-
 
 ## Where marks are usually lost
 

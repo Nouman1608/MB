@@ -48,8 +48,8 @@ Track your progress on the [printable syllabus checklist](/checklists/ib/ib-dp/m
 - **Po(m)**: the Poisson distribution with mean m. X ~ Po(m) means X has this distribution.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ib-dp-mathematics-ai-hl-random-variables-poisson-confidence--02-imath-rv-unbiased.webp" width="900" height="970" alt="Bar chart of books read by 20 people with mean 1.6. The sum of squared deviations 22.8 divided by 20 gives 1.14 and divided by 19 gives 1.2, the unbiased estimate of σ²." loading="lazy">
-  <figcaption>Divide by n − 1 to get the unbiased estimate of the population variance.</figcaption>
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-ai-hl-random-variables-poisson-confidence--03-imath-rv-sample-mean.webp" width="900" height="1010" alt="A wide dashed curve for X ~ N(500, 12²) and a narrow curve for the mean of 9 values, N(500, 4²), with P(x̄ &lt; 495) = 0.106 shaded." loading="lazy">
+  <figcaption>The sample mean has standard deviation σ/√n, so it clusters closer to μ.</figcaption>
 </figure>
 
 <figure class="topic-figure">
@@ -105,6 +105,17 @@ Track your progress on the [printable syllabus checklist](/checklists/ib/ib-dp/m
 2. Scale m to the interval asked about.
 3. For a total from independent sources, add the means.
 4. Convert "≥", ">" and "<" into cumulative form before using poissoncdf.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-ai-hl-random-variables-poisson-confidence--07-imath-rv-poisson-scaling.webp" width="900" height="1070" alt="Po(2.4) for 10 minutes with P(X = 3) = 0.209 shaded, then Po(4.8) for 20 minutes with P(Y ≥ 5) = 0.524 shaded." loading="lazy">
+  <figcaption>Scale the Poisson mean to the interval in the question before calculating.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-ai-hl-random-variables-poisson-confidence--08-imath-rv-poisson-sum.webp" width="900" height="1040" alt="Po(2.4) and Po(1.1) combine into Po(3.5), shown with P(T ≤ 2) = 0.321 shaded." loading="lazy">
+  <figcaption>The sum of independent Poisson variables is Poisson with the means added.</figcaption>
+</figure>
+
 
 ## Small worked reminders
 
@@ -181,6 +192,17 @@ To judge a claim, check whether the claimed value lies inside the interval. Insi
 10. **The t-distribution**, because σ is unknown, regardless of sample size.
 11. The midpoint: (12.1 + 13.5)/2 = **12.8**.
 12. X ~ Po(0.6): 1 − e⁻⁰·⁶ = **0.451** (3 s.f.).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-ai-hl-random-variables-poisson-confidence--01-imath-rv-var-combine.webp" width="900" height="1060" alt="A box with six different apples is compared with a box and one apple counted six times. Two bell curves centred on 1300 g show variance 609 (SD 24.7 g) for the correct model and 2529 (SD 50.3 g) for the wrong one." loading="lazy">
+  <figcaption>Separate independent items add variances; one item multiplied by n multiplies variance by n².</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-ai-hl-random-variables-poisson-confidence--02-imath-rv-unbiased.webp" width="900" height="970" alt="Bar chart of books read by 20 people with mean 1.6. The sum of squared deviations 22.8 divided by 20 gives 1.14 and divided by 19 gives 1.2, the unbiased estimate of σ²." loading="lazy">
+  <figcaption>Divide by n − 1 to get the unbiased estimate of the population variance.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

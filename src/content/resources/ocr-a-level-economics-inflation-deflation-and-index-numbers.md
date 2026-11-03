@@ -223,6 +223,16 @@ Worked example 2 (exchange rate). A firm imports a part priced at 45 foreign uni
   <figcaption>A weaker currency and wages outpacing productivity both push costs up.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-economics-macroeconomics-measuring-and-managing-the-economy--05-shifts-of-ad.webp" width="900" height="900" alt="With SRAS fixed, a rightward AD shift raises output from 120 to 140 and the price level from 80 to 90. A leftward shift lowers output to 100 and the price level to 70." loading="lazy">
+  <figcaption>A change in a component of AD shifts the AD curve and moves equilibrium output and prices together.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-economics-macroeconomics-measuring-and-managing-the-economy--06-shifts-of-sras.webp" width="900" height="900" alt="With AD fixed, a leftward SRAS shift (higher costs) cuts output from 120 to 90 and raises the price level from 80 to 95. A rightward shift raises output to 150 and lowers prices to 65." loading="lazy">
+  <figcaption>A change in production costs, productivity or capacity shifts AS.</figcaption>
+</figure>
+
 
 ## 8. Consequences of inflation
 

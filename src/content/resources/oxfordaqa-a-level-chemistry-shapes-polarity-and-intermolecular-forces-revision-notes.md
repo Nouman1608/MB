@@ -218,17 +218,6 @@ along more of its length.
 Melting and boiling points of molecular substances depend on the strength of these forces, not on covalent bond
 strength.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-level-edexcel-chemistry-structure-bonding-organic-chemistry--08-intermolecular-forces.webp" width="900" height="1010" alt="Three panels from weakest to strongest. London forces: two electron clouds each shifted so one side is slightly negative and the other slightly positive, attracting across the gap. Permanent dipole-dipole: HCl molecules aligned so the hydrogen end of one attracts the chlorine end of the next. Hydrogen bond: H on oxygen attracted to a lone pair on a neighbouring oxygen, with O-H...O close to 180 degrees." loading="lazy">
-  <figcaption>London forces act between all molecules, dipole-dipole forces need a permanent dipole, and hydrogen bonds need H on N, O or F plus a lone pair.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-level-edexcel-chemistry-structure-bonding-organic-chemistry--09-water-anomalies.webp" width="900" height="1110" alt="A graph shows boiling points of Group 16 hydrides in kelvin: H2O 373, H2S 213, H2Se 232 and H2Te 271. A dashed London-forces-only trend would put water near 181 K, so water boils 160 K above H2S because hydrogen bonds must also be broken. Below, ice is a sketch of an open ring lattice at 0.917 g per cm3 and liquid water has molecules closer together at 1.00 g per cm3, so ice floats." loading="lazy">
-  <figcaption>Hydrogen bonding raises the boiling point of water far above the London-force trend and holds ice in an open, less dense lattice.</figcaption>
-</figure>
-
-
 ## Quick self-test
 
 1. Write the formula of potassium carbonate.
@@ -256,6 +245,17 @@ strength.
    cancel. In CCl₄ four identical polar bonds point symmetrically and cancel.
 10. Bromine molecules have more electrons, so the induced dipole–dipole forces are stronger and need more energy to
     overcome.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-edexcel-chemistry-structure-bonding-organic-chemistry--08-intermolecular-forces.webp" width="900" height="1010" alt="Three panels from weakest to strongest. London forces: two electron clouds each shifted so one side is slightly negative and the other slightly positive, attracting across the gap. Permanent dipole-dipole: HCl molecules aligned so the hydrogen end of one attracts the chlorine end of the next. Hydrogen bond: H on oxygen attracted to a lone pair on a neighbouring oxygen, with O-H...O close to 180 degrees." loading="lazy">
+  <figcaption>London forces act between all molecules, dipole-dipole forces need a permanent dipole, and hydrogen bonds need H on N, O or F plus a lone pair.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-edexcel-chemistry-structure-bonding-organic-chemistry--09-water-anomalies.webp" width="900" height="1110" alt="A graph shows boiling points of Group 16 hydrides in kelvin: H2O 373, H2S 213, H2Se 232 and H2Te 271. A dashed London-forces-only trend would put water near 181 K, so water boils 160 K above H2S because hydrogen bonds must also be broken. Below, ice is a sketch of an open ring lattice at 0.917 g per cm3 and liquid water has molecules closer together at 1.00 g per cm3, so ice floats." loading="lazy">
+  <figcaption>Hydrogen bonding raises the boiling point of water far above the London-force trend and holds ice in an open, less dense lattice.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

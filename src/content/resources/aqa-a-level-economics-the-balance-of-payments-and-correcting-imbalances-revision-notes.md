@@ -153,6 +153,12 @@ Share example: a country receives 30 of FDI and 10 of portfolio inflows: FDI is 
 
 For a surplus, the reverse: expand demand, let the currency rise, open the market to imports.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-the-balance-of-payments-and-correcting-imbalances--10-spending-cut-costs.webp" width="900" height="1040" alt="A chain of four steps for Country A, whose deficit is 77. Government spending falls by 30. With a marginal propensity to save of 0.1, tax of 0.2 and imports of 0.2, the multiplier is 1 divided by 0.5, which is 2. Income falls by 30 times 2, which is 60. Imports fall by 0.2 times 60, which is 12. A bar chart compares income lost in A, 60, income lost in partner country S, 20 (because S spends 0.25 on imports and has a multiplier of 1.67, so its income falls by 12 times 1.67), and the improvement in A deficit, only 12. Total income lost across both countries is 80 for a 12 improvement, so the policy is blunt and costly." loading="lazy">
+  <figcaption>A spending cut of 30 costs 60 of income at home and 20 abroad to improve the deficit by only 12.</figcaption>
+</figure>
+
+
 ## Significance and global implications
 
 - **Larger deficits matter more** when persistent, financed by short-term capital, caused by uncompetitiveness, and when the country cannot borrow in its own currency.
@@ -195,12 +201,6 @@ For a surplus, the reverse: expand demand, let the currency rise, open the marke
 8. 0.72 ÷ 0.80 − 1 = **−10%**.
 9. Switching: tariff, quota or depreciation. Reducing: higher income tax or lower government spending.
 10. The sum of the price elasticities of demand for exports and imports may be below 1, or lags (J-curve) delay the gain; domestic inflation may also erode the advantage.
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/aqa-a-level-economics-the-balance-of-payments-and-correcting-imbalances--10-spending-cut-costs.webp" width="900" height="1040" alt="A chain of four steps for Country A, whose deficit is 77. Government spending falls by 30. With a marginal propensity to save of 0.1, tax of 0.2 and imports of 0.2, the multiplier is 1 divided by 0.5, which is 2. Income falls by 30 times 2, which is 60. Imports fall by 0.2 times 60, which is 12. A bar chart compares income lost in A, 60, income lost in partner country S, 20 (because S spends 0.25 on imports and has a multiplier of 1.67, so its income falls by 12 times 1.67), and the improvement in A deficit, only 12. Total income lost across both countries is 80 for a 12 improvement, so the policy is blunt and costly." loading="lazy">
-  <figcaption>A spending cut of 30 costs 60 of income at home and 20 abroad to improve the deficit by only 12.</figcaption>
-</figure>
-
 
 ## Where marks are usually lost
 

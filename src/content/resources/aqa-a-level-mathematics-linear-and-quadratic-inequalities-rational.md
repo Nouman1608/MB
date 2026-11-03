@@ -247,6 +247,12 @@ For y > x + 1, test (0, 0): 0 > 1 is false, so the region is the side **away fro
 
 Always state or label which side you shade. If the question asks you to shade the unwanted region and leave the required region clear, or the reverse, follow its instruction. If it does not say, label the region you want R.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-mathematics-quadratics-and-inequalities--02-discriminant-roots.webp" width="900" height="1150" alt="Three parabolas y = x^2 - 4x + k for k = 1, 4 and 7. Discriminants 12, 0 and -12 give two distinct real roots, one repeated root and no real roots respectively." loading="lazy">
+  <figcaption>The sign of b^2 - 4ac tells you whether the curve crosses, touches or misses the x-axis.</figcaption>
+</figure>
+
+
 ## 7. Regions with curves and several inequalities
 
 For y > ax² + bx + c the boundary is a parabola. Sketch it with its intercepts and turning point, make it dashed or solid, then test a point not on the curve. For a ∪-shaped curve, the inside of the bowl is above it.

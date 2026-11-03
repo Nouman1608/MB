@@ -102,11 +102,6 @@ Small reminder: Rate = k[V]²[L]. Halve [V] and triple [L]: factor = 0.5² × 3 
   <figcaption>The rate at any time is the size of the tangent gradient, and the gradient at t = 0 is the initial rate.</figcaption>
 </figure>
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-kinetics--07-half-life.webp" width="900" height="1060" alt="Two concentration-time graphs. For a first-order reaction each halving (0.80 to 0.40 to 0.20 to 0.10) takes the same 60 s, so k = ln 2 divided by the half-life. For a zero-order reaction the line is straight and successive halvings take 100, 50 and 25 s, with k equal to minus the gradient." loading="lazy">
-  <figcaption>A constant half-life shows first order; in a zero-order reaction successive half-lives shorten.</figcaption>
-</figure>
-
 
 ## Temperature and k
 
@@ -230,6 +225,12 @@ interpret specimen results.
    k = 5.0 × 10⁻⁵ ÷ (0.10 × 0.10²) = **0.050 mol⁻² dm⁶ s⁻¹**.
 9. Zero order in Z: Z is not in the rate equation and reacts after the rate-determining step.
 10. No. k depends on temperature (and the reaction), not on concentration; the rate changes instead.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-kinetics--07-half-life.webp" width="900" height="1060" alt="Two concentration-time graphs. For a first-order reaction each halving (0.80 to 0.40 to 0.20 to 0.10) takes the same 60 s, so k = ln 2 divided by the half-life. For a zero-order reaction the line is straight and successive halvings take 100, 50 and 25 s, with k equal to minus the gradient." loading="lazy">
+  <figcaption>A constant half-life shows first order; in a zero-order reaction successive half-lives shorten.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

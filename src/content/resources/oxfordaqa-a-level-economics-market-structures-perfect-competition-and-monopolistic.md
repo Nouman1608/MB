@@ -170,6 +170,11 @@ A sound judgement: the model is a benchmark, not a description, and its efficien
   <figcaption>Long-run average cost falls until the minimum efficient scale and rises beyond it.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-demand-and-supply-of-labour-and-competitive-labour--06-mrp-wage-taker-shift.webp" width="900" height="920" alt="MRP against workers for the ceramics studio at mug prices of 8 and 10 pounds, from the lesson table. With a wage of 58 pounds the fourth worker adds 64 and the fifth only 48, so 4 workers are hired. At 10 pounds MRP is higher at every level, the fifth worker adds 60, the curve shifts right and 5 workers are hired." loading="lazy">
+  <figcaption>The MRP curve is the firm demand for labour and shifts right when product price rises.</figcaption>
+</figure>
+
 
 ## 3.3.3.3 Monopolistic competition
 

@@ -104,6 +104,11 @@ Exam answers lose marks for "the OH is in a different place". Name carbon 1 and 
   <figcaption>The alpha and beta forms differ only in the position of the OH on carbon 1.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-carbohydrates-and-lipids--08-protein-structure.webp" width="900" height="1297" alt="Four panels. 1 Primary: nine amino acids in sequence joined by peptide bonds. 2 Secondary: an alpha-helix and a beta-pleated sheet held by hydrogen bonds between backbone groups. 3 Tertiary: a folded chain with a disulfide bond between two cysteines, an ionic bond between lysine and aspartate, a hydrogen bond between serine and asparagine, and hydrophobic interaction between leucines. 4 Quaternary: haemoglobin, two alpha and two beta chains each with a haem group holding Fe2+, binding up to four oxygen molecules." loading="lazy">
+  <figcaption>Primary sequence leads to secondary folding, tertiary R-group interactions and quaternary assembly.</figcaption>
+</figure>
+
 
 ## Disaccharides and the glycosidic bond
 

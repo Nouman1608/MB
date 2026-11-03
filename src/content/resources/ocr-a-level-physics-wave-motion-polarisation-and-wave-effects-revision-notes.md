@@ -169,6 +169,12 @@ A displacement-distance graph shows a wave with crests at x = 0.10 m and x = 0.5
 11. T = 5.0 × 2.0 × 10⁻³ = 1.0 × 10⁻² s, so f = 100 Hz.
 12. I = P/A, in watts per square metre (W m⁻²).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-physics-waves--06-aphy-waves-two-source-interference.webp" width="900" height="1065" alt="Two in-phase coherent sources emit circular waves. Gold solid lines mark path difference n lambda (loud or bright); navy dashed lines mark (n + 1/2) lambda (quiet or dark). P lies at 2 lambda and is loud; Q lies at 1.5 lambda and is quiet. A loudspeaker example at 850 Hz confirms both." loading="lazy">
+  <figcaption>Path difference n lambda gives reinforcement; (n + 1/2) lambda gives cancellation.</figcaption>
+</figure>
+
+
 ## Where marks are usually lost
 
 - Writing "light is a transverse wave so it can be polarised" without saying what polarisation does to the oscillations.

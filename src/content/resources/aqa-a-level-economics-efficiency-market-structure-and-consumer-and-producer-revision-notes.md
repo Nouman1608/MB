@@ -69,6 +69,11 @@ These notes condense AQA A-level Economics (7136) content sections 4.1.5.10 and 
   <figcaption>A monopoly restricts output and raises price above the competitive level, earning supernormal profit.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-economics-demand-supply-equilibrium--05-ib-allocative-efficiency.webp" width="900" height="1022" alt="Demand is marginal benefit and supply is marginal cost. At output 30 MB (9) exceeds MC (5); at output 70 MC (9) exceeds MB (5); each loses 40 of surplus. Social surplus is highest, 250, at output 50 where MB equals MC." loading="lazy">
+  <figcaption>Producing more or less than the equilibrium quantity destroys social surplus; only MB = MC is allocatively efficient.</figcaption>
+</figure>
+
 
 ## Conduct and performance indicators
 
@@ -105,12 +110,6 @@ These notes condense AQA A-level Economics (7136) content sections 4.1.5.10 and 
 - Total surplus: CS + PS, greatest where P = MC.
 - Deadweight loss: triangle between demand and MC over the units not produced.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/aqa-a-level-economics-efficiency-market-structure-and-consumer-and-producer--12-monopoly-deadweight-loss.webp" width="900" height="920" alt="Demand P = 64 - Q, MC = 4 + Q, MR = 64 - 2Q. Monopoly output 20 at price 44 gives CS 200, PS 600 and deadweight loss 100, against competitive output 30 at price 34." loading="lazy">
-  <figcaption>The deadweight loss is the triangle between D and MC for the units not produced.</figcaption>
-</figure>
-
-
 ## Structures at a glance (typical tendencies, not rules)
 
 | Structure | Static performance | Dynamic performance |
@@ -121,6 +120,12 @@ These notes condense AQA A-level Economics (7136) content sections 4.1.5.10 and 
 | Monopoly | P above MC, large deadweight loss | Depends on whether protected profit is reinvested |
 
 Always test the tendency against the case you are given.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-economics-government-microeconomic-intervention--08-monopoly-welfare-loss.webp" width="900" height="910" alt="Demand (AR) slopes down with marginal revenue below it and marginal cost sloping up. The monopolist produces where MR = MC: output 40 at price 10. The allocatively efficient output is where price = MC: output 60 at price 8. The triangle between 40 and 60 is the welfare loss, area 40." loading="lazy">
+  <figcaption>A monopolist restricts output below the allocatively efficient level and charges a higher price.</figcaption>
+</figure>
+
 
 ## Worked reminder: competition against monopoly
 
@@ -139,6 +144,12 @@ Check: 144 + 360 + 96 = 600
 ```
 
 **Reading it.** Consumers lose 256 (400 down to 144). Producers gain 160 (200 up to 360). The difference, 96, is deadweight loss.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-efficiency-market-structure-and-consumer-and-producer--12-monopoly-deadweight-loss.webp" width="900" height="920" alt="Demand P = 64 - Q, MC = 4 + Q, MR = 64 - 2Q. Monopoly output 20 at price 44 gives CS 200, PS 600 and deadweight loss 100, against competitive output 30 at price 34." loading="lazy">
+  <figcaption>The deadweight loss is the triangle between D and MC for the units not produced.</figcaption>
+</figure>
+
 
 ## Price discrimination and surplus
 
@@ -165,6 +176,11 @@ Check: 144 + 360 + 96 = 600
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/aqa-a-level-economics-efficiency-market-structure-and-consumer-and-producer--14-third-degree-pd.webp" width="900" height="1224" alt="Two groups with MC 12: group A buys 22 at 34 and group B buys 12 at 24. Compared with one price of 29, profit rises from 578 to 628, consumer surplus falls from 389 to 314 and deadweight loss rises from 289 to 314." loading="lazy">
   <figcaption>Total output is unchanged at 34, but sales shift between groups, so profit rises 50 and CS falls 75.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-economics-price-system-and-the-microeconomy--05-consumer-producer-surplus.webp" width="900" height="940" alt="Demand and supply meet at price 5 and quantity 50. Consumer surplus is the triangle between demand and the price line (area 125); a buyer who would pay 7 but pays 5 gains 2. Producer surplus is the triangle between the price line and supply (area 100); a seller who would accept 3 but gets 5 gains 2." loading="lazy">
+  <figcaption>Consumer surplus is willingness to pay minus price paid; producer surplus is price received minus the minimum accepted.</figcaption>
 </figure>
 
 
@@ -202,6 +218,11 @@ For TC = F + aQ + bQ², the lowest ATC is at Q = √(F/b). With F = 100 and b = 
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/ocr-a-level-economics-microeconomics--01-short-run-cost-curves.webp" width="900" height="880" alt="Illustrative short-run cost curves: AVC and ATC are U-shaped and MC cuts both at their lowest points; MC starts to rise where diminishing returns set in. Total cost is fixed plus variable cost, and ATC is total cost divided by output." loading="lazy">
   <figcaption>MC cuts ATC at its lowest point, and MC rises once diminishing returns set in.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-microeconomics--02-economies-of-scale-and-mes.webp" width="900" height="830" alt="Illustrative long-run average cost curve falling to a minimum of 6 at output 100 (minimum efficient scale), then rising. Falling LRAC reflects purchasing, technical, financial, managerial and marketing economies; rising LRAC reflects communication and coordination problems." loading="lazy">
+  <figcaption>Long-run average cost falls until the minimum efficient scale and rises beyond it.</figcaption>
 </figure>
 
 

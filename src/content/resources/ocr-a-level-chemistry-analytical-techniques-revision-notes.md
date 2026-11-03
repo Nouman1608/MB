@@ -197,6 +197,12 @@ Not needed: mass spectra of organic halogen compounds, which the specification s
 11. **C₃H₇⁺ and CH₃CO⁺.**
 12. CH₂ has mass 14.0; 84 ÷ 14.0 = 6, so **C₆H₁₂**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-nuclear-magnetic-resonance-spectroscopy--04-nmr-integration.webp" width="900" height="990" alt="Pentan-3-one with its spectrum: quartet at 2.4 and triplet at 1.1 with an integration trace of 32 mm and 48 mm. Ratio 2:3 doubles to 4 H and 6 H." loading="lazy">
+  <figcaption>Integration step heights 32:48 = 2:3, scaled to 10 H gives 4 H and 6 H (pentan-3-one).</figcaption>
+</figure>
+
+
 ## Where marks are usually lost
 
 - Quoting "O–H" for a peak without saying whether it is the alcohol range (3200–3600 cm⁻¹) or the very broad acid range (2500–3300 cm⁻¹).

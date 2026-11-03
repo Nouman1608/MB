@@ -119,6 +119,11 @@ Total inflows 200,000, less cost 120,000, gives total profit of 80,000. Average 
   <figcaption>ARR works from total inflows less cost, then divides average profit by average investment.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-capital-investment-appraisal--08-arr-bases.webp" width="900" height="940" alt="The same 25,000 average profit is shown as a slice of two bars: initial cost 240,000 gives 10.4% and average investment 135,000 gives 18.5%." loading="lazy">
+  <figcaption>ARR changes with the investment base, so state which one you use.</figcaption>
+</figure>
+
 
 ## Time value of money and net present value (NPV)
 
@@ -158,6 +163,16 @@ Here r is the business's cost of capital (the required rate of return) as a deci
   <figcaption>Each year is cash flow times its discount factor; year 0 stays at 1.0000.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-capital-investment-appraisal--03-discounting-npv.webp" width="900" height="1030" alt="Pairs of bars compare each cash flow with its present value after multiplying by 0.909, 0.826, 0.751 and 0.683. Present values total 155,754; less the 120,000 outlay gives NPV of 35,754." loading="lazy">
+  <figcaption>Discounting turns later cash into smaller present values; NPV is their total less the outlay.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-capital-investment-appraisal--04-npv-can-say-no.webp" width="900" height="940" alt="Two bars compare Wexcombe inflows added up (314,000) with the same inflows in today's money (210,969) against the 216,000 outlay. The discounted total is 5,031 short, so NPV is negative and the project is rejected." loading="lazy">
+  <figcaption>A project can recover its cost undiscounted yet still have a negative NPV.</figcaption>
+</figure>
+
 
 ## Internal rate of return (IRR)
 
@@ -187,6 +202,11 @@ Interpolation assumes NPV falls in a straight line between the two rates, so the
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/cambridge-a-level-accounting-investment-appraisal--03-irr-tarnhaven.webp" width="900" height="960" alt="NPV against discount rate for Tarnhaven: 33,649 at 10%, 2,452 at 20% and -9,433 at 25%. The straight line between 20% and 25% crosses zero near 21.0%, the IRR estimate, above the 10% cost of capital." loading="lazy">
   <figcaption>IRR is the rate where NPV is zero, estimated by a straight line between two rates.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-capital-investment-appraisal--07-irr-interpolation.webp" width="900" height="990" alt="NPV falls as the discount rate rises. A straight line joins +34,060 at 10% and -4,555 at 16% and crosses zero at about 15.3%, above the 10% WACC, so the project is accepted." loading="lazy">
+  <figcaption>IRR is the rate at which NPV is zero, estimated by interpolation and compared with WACC.</figcaption>
 </figure>
 
 
@@ -219,6 +239,11 @@ X returns cash faster, which suits a business short of liquidity. Y adds about 4
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/cambridge-a-level-accounting-investment-appraisal--04-technique-grid.webp" width="900" height="884" alt="A grid of payback, ARR, NPV and IRR against four criteria: counts every year, uses cash, allows for time value, shows dollar value added. Only NPV has all four; payback answers in years, ARR and IRR in percent." loading="lazy">
   <figcaption>The four techniques differ in what they count and what they tell you.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-capital-investment-appraisal--05-payback-vs-npv.webp" width="900" height="1080" alt="Running totals for Alder and Birch cross zero at 2 years 6 months and 3 years 10 months. NPV bars at 8% show Alder 11,610 and Birch 17,545. Payback favours Alder, NPV favours Birch, and Birch relies on later years." loading="lazy">
+  <figcaption>Payback and NPV can recommend different projects, so evaluate with both.</figcaption>
 </figure>
 
 

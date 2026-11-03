@@ -114,6 +114,11 @@ Reversing **either** the current or the field reverses the force. Reversing **bo
   <figcaption>A force acts on a moving charge unless it moves parallel to the field.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-physics-magnetism-and-electromagnetism--07-loudspeaker.webp" width="900" height="950" alt="Cross-section of a loudspeaker: a coil in a radial field attached to a cone. Current one way gives a force towards the magnet; reversing the current reverses the force so the cone vibrates." loading="lazy">
+  <figcaption>Alternating current in the coil reverses the force, so the cone moves in and out.</figcaption>
+</figure>
+
 
 ## Electromagnetic induction
 
@@ -128,6 +133,26 @@ Increase the induced e.m.f. by: moving **faster**, using a **stronger** magnet, 
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/edexcel-igcse-physics-magnetism-revision-notes--05-left-right-hand.webp" width="900" height="920" alt="A wire seen end-on in a field pointing right. Motor: current towards you gives an upward force, using the left hand. Generator: moving the wire upwards induces a current away from you, using the right hand. Left for motors, right for generators." loading="lazy">
   <figcaption>Left hand for motors, right hand for generators.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-physics-magnetism-and-electromagnetism--03-induction.webp" width="900" height="1046" alt="Four panels with a bar magnet beside a coil connected to a dial. Moving the magnet in swings the needle one way, a stationary magnet gives no deflection, moving it out swings the needle the other way, and moving it in twice as fast gives twice the deflection." loading="lazy">
+  <figcaption>A voltage is induced only while the magnet moves; faster motion gives a bigger voltage.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-physics-electromagnetic-induction-generators-and-the-motor--04-em-wire-cutting-lines.webp" width="900" height="830" alt="A wire seen end-on between two poles with horizontal field lines. Moving it up cuts three lines, so the centre-zero meter deflects. Moving it along a line cuts none, so the meter reads zero." loading="lazy">
+  <figcaption>Only movement that cuts across the field lines induces a pd.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-physics-magnetism-and-electromagnetism--08-generator-construction.webp" width="900" height="1044" alt="Two generator designs: a coil on an axle turning between N and S poles, with slip rings and brushes connected to a lamp; or a bar magnet turning inside a fixed coil connected to a voltmeter." loading="lazy">
+  <figcaption>A generator turns a coil in a field, or a magnet in a coil.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-physics-electromagnetic-induction-generators-and-the-motor--03-em-coil-top-pole.webp" width="900" height="880" alt="A vertical closed coil with a bar magnet above it, north pole downwards. Lowering the magnet makes the top of the coil a north pole that pushes back. Lifting it makes the top a south pole that pulls back on the leaving north pole." loading="lazy">
+  <figcaption>The top of the coil is north while the magnet is lowered and south while it is lifted.</figcaption>
 </figure>
 
 
@@ -151,12 +176,6 @@ Vs = 60 V
 
 **Why the grid uses high voltage:** power loss in cables is `I²R`, so transmitting at high voltage means low current for the same power, and halving the current quarters the loss. The explanation must be in terms of **current**, not voltage.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/edexcel-igcse-physics-magnetism-revision-notes--06-transformer-needs-ac.webp" width="900" height="940" alt="With a.c. on the primary, the flux in the core rises and falls and the secondary p.d. is largest where the flux changes fastest and zero where it is momentarily steady. With d.c. the flux is constant and the secondary p.d. is zero." loading="lazy">
-  <figcaption>No change in flux, no induced p.d.: a transformer needs a.c.</figcaption>
-</figure>
-
-
 ## Exam traps
 
 - Using the left-hand rule for generators.
@@ -177,3 +196,24 @@ Vs = 60 V
 7. Distinguish between a step-up and a step-down transformer.
 
 **Answers:** 1. Hard materials such as steel retain magnetism and are used for permanent magnets; soft materials such as iron lose it readily and are used for electromagnet cores. 2. First finger field, second finger current, thumb motion; it applies to the motor effect. 3. It reverses the current direction in the coil every half turn, so the force on each side always drives rotation in the same direction. 4. Direct current gives a constant magnetic flux, so there is no rate of change of flux in the secondary and no e.m.f. is induced. 5. Power loss in the cables is I²R, so high voltage allows a low current for the same power, and loss falls with the square of the current. 6. Vs = Vp × (Ns/Np) = 12 × (500/100) = 60 V. 7. A step-up transformer increases voltage (decreasing current) for efficient transmission; a step-down transformer reduces voltage to safer, usable levels for consumers.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-physics-magnetism-revision-notes--06-transformer-needs-ac.webp" width="900" height="940" alt="With a.c. on the primary, the flux in the core rises and falls and the secondary p.d. is largest where the flux changes fastest and zero where it is momentarily steady. With d.c. the flux is constant and the secondary p.d. is zero." loading="lazy">
+  <figcaption>No change in flux, no induced p.d.: a transformer needs a.c.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-physics-magnetism-and-electromagnetism--09-transformer-worked.webp" width="900" height="990" alt="Transformer with 100 primary turns, 500 secondary turns and 12 V input. Voltage bars of 12 V and 60 V are drawn to scale. Working: 12 / Vs = 100 / 500, so Vs = 60 V." loading="lazy">
+  <figcaption>With 5 times as many turns on the secondary, 12 V steps up to 60 V.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-physics-transformers-and-the-national-grid--06-step-down-vs-step-up.webp" width="900" height="1000" alt="Step-down: 9000 V on 7200 turns to 225 V on 180 turns (ratio 40). Step-up: 24 V, 2.5 A, 72 turns to 300 V, 0.20 A, 900 turns (ratio 12.5), 60 W in and out." loading="lazy">
+  <figcaption>More secondary turns step the voltage up and the current down.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-the-national-grid-and-transformers--08-model-power-line.webp" width="900" height="1080" alt="Three set-ups of a model power line carrying 12 watts through a line of 0.50 ohms. With a 6 volt supply the line current is 2.0 amperes, 2.0 watts are wasted in the line and 83 percent reaches the lamp. With 12 volts the current is 1.0 ampere, 0.50 watts are wasted and 96 percent reaches the lamp. With 24 volts the current is 0.50 amperes, 0.125 watts are wasted and 99 percent reaches the lamp. The thickness of the red line shows the current, and each bar shows how the 12 watts is split between the lamp and the wasted heat. Doubling the p.d. halves the current and cuts the wasted power to a quarter." loading="lazy">
+  <figcaption>For 12 W entering a 0.50 Ω line, doubling the supply p.d. halves the current and quarters the wasted power.</figcaption>
+</figure>
+

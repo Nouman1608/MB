@@ -142,6 +142,17 @@ This structure-function-link pattern -- the same format used throughout GCSE bio
 
 The specification groups this topic's practical work into Practical Activity Groups (PAGs), with named suggested activities including examining root hair cells, observing mitosis in root tip cells, and using a potometer to investigate transpiration rate. OCR routinely examines the **method, the variables controlled, and the reliability/limitations** of these specific practicals, not only the underlying biology -- for example, a potometer question might ask you to identify a source of error (an air bubble entering the apparatus) or to calculate the rate of water uptake from raw data (distance moved by an air bubble over a measured time). Treat these practicals as revision material in their own right, working through the method and likely calculation questions, rather than assuming the classroom activity alone is sufficient preparation.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-transport-in-plants--03-water-pathway.webp" width="900" height="1130" alt="Water follows one route: root hair cells, root cortex cells, xylem, then mesophyll cells in the leaf. Root hair cells have long extensions between soil particles that give a large surface area. Water crosses the root cortex to the xylem, rises up the xylem in the stem and reaches the mesophyll cells, where it evaporates." loading="lazy">
+  <figcaption>Follow the numbers: root hair cells, root cortex cells, xylem, mesophyll cells.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-transport-in-plants-water-uptake-transpiration-and--07-potometer-rate.webp" width="900" height="1010" alt="A potometer with the bubble moving from 12 mm to 66 mm in 6.0 minutes in a tube of radius 0.60 mm. Rate is 9.0 mm per minute; tube area 1.131 mm squared; volume rate 10.18 mm cubed per minute." loading="lazy">
+  <figcaption>Rate = distance / time; multiply by the tube cross-section to get a volume rate.</figcaption>
+</figure>
+
+
 ## Key terms
 
 **Diffusion** — net movement of particles down a concentration gradient, no energy needed. **Osmosis** — diffusion of water down a water potential gradient. **Active transport** — movement against a gradient, requiring energy. **Translocation** — movement of dissolved food through phloem, both directions. **Meristem** — plant tissue containing stem cells, enabling growth.
@@ -153,12 +164,6 @@ The specification groups this topic's practical work into Practical Activity Gro
 - Confusing **xylem and phloem** function/direction/cell type.
 - Forgetting stem cells are **not only embryonic** — adult (bone marrow) and plant meristem stem cells are equally valid.
 - Miscalculating SA:V ratio, or forgetting the ratio **decreases** as size increases.
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ocr-gcse-biology-scaling-up--02-capillary-total-area.webp" width="900" height="990" alt="A wide aorta with fast flow feeds many narrow capillaries in parallel with slow flow. Two squares drawn to area show all capillaries together have about 1000 times the aorta cross-section, so the same volume per second moves more slowly." loading="lazy">
-  <figcaption>Capillaries are narrow, but together their total area is about 1000 times the aorta, so blood flows slowly.</figcaption>
-</figure>
-
 
 ## Quick self-test
 
@@ -172,6 +177,27 @@ The specification groups this topic's practical work into Practical Activity Gro
 
 - [Scaling Up study guide](/resources/ocr-gcse-biology-scaling-up/)
 - [Scaling Up practice questions](/resources/ocr-gcse-biology-scaling-up-practice/)
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-scaling-up--02-capillary-total-area.webp" width="900" height="990" alt="A wide aorta with fast flow feeds many narrow capillaries in parallel with slow flow. Two squares drawn to area show all capillaries together have about 1000 times the aorta cross-section, so the same volume per second moves more slowly." loading="lazy">
+  <figcaption>Capillaries are narrow, but together their total area is about 1000 times the aorta, so blood flows slowly.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-transport-in-animals--05-capillary-exchange.webp" width="900" height="740" alt="A capillary with a wall one cell thick runs past body cells. Oxygen and glucose pass out of the blood to the cells; carbon dioxide and other wastes pass from the cells into the blood." loading="lazy">
+  <figcaption>Capillaries bring blood close to every cell so substances can be exchanged.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-transport-in-plants--01-xylem-phloem-positions.webp" width="900" height="1130" alt="Three schematic cross-sections. Root: xylem in the centre in a star or cross shape, phloem in small groups between its arms. Stem: a ring of vascular bundles near the outside, xylem on the inner side and phloem on the outer side. Leaf: xylem on the upper side and phloem on the lower side of the midrib and veins. A key gives the function of each tissue." loading="lazy">
+  <figcaption>In roots, stems and leaves, xylem (blue) and phloem (gold) sit in set positions.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-transport-in-plants--08-sources-and-sinks.webp" width="900" height="1290" alt="Extended. A plant diagram: a mature photosynthesising leaf is a source releasing sucrose into the phloem; arrows show it moving up to the shoot tip, along to a fruit and down to roots, which are sinks that use or store it. Below, a young leaf is a sink and becomes a source when mature." loading="lazy">
+  <figcaption>Phloem carries sucrose from sources to sinks, and a leaf can be both at different times.</figcaption>
+</figure>
+
 
 ## Official syllabus
 
@@ -198,5 +224,15 @@ fetched and verified in full 2026-09-02.
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/igcse-biology-0610-transport-in-animals--06-blood-components.webp" width="900" height="1150" alt="Four parts of blood. Red blood cells carry oxygen, have no nucleus and a pale centre. White blood cells do phagocytosis and make antibodies and have a nucleus; Extended: lymphocytes (large round nucleus) make antibodies and phagocytes (lobed nucleus) engulf pathogens. Platelets are fragments that help clotting. Plasma carries cells, ions, nutrients, urea, hormones and carbon dioxide." loading="lazy">
   <figcaption>Red cells, white cells, platelets and plasma each have a job in the blood.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-transport-in-plants--05-transpiration-in-leaf.webp" width="900" height="1130" alt="A leaf cross-section. Step 1: water evaporates from the wet surfaces of mesophyll cells into the air spaces. Step 2: water vapour diffuses out through the stomata. Extended step 3: water lost from the leaf is pulled up the xylem. Steps 1 and 2 are Core; step 3 is tagged Extended." loading="lazy">
+  <figcaption>Water evaporates inside the leaf, then the vapour diffuses out through the stomata.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-transport-in-plants--06-transpiration-factors.webp" width="900" height="1290" alt="Three side-by-side comparisons of a leaf with copper arrows for water vapour leaving; more arrows mean a faster rate. Warm air gives more than cool air, windy air more than still air, and humid air less than dry air. Explanations (kinetic energy, concentration gradient) are Extended; humidity is Extended." loading="lazy">
+  <figcaption>Higher temperature and wind speed raise the rate; higher humidity lowers it.</figcaption>
 </figure>
 

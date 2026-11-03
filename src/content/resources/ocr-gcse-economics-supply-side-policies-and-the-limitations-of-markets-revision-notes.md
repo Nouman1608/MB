@@ -152,6 +152,16 @@ Markets overproduce goods with negative externalities and underproduce goods wit
   <figcaption>Social cost or benefit equals private plus external.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-allocation-of-resources--08-tax-and-subsidy.webp" width="900" height="1370" alt="An indirect tax of 1.8 shifts supply up, raising price from 5 to 6 and cutting quantity from 50 to 40. A subsidy of 1.8 shifts supply down, cutting price from 5 to 4 and raising quantity from 50 to 60." loading="lazy">
+  <figcaption>A tax shifts supply up and a subsidy shifts it down.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-economics-price-system-and-the-microeconomy--07-tax-burden-and-elasticity.webp" width="900" height="1280" alt="A tax of 2 per unit shifts supply up. With inelastic demand (PED 0.5) buyers pay 6.43 and firms keep 4.43, so buyers bear 71 percent of the tax. With elastic demand (PED 3.3) buyers pay 5.55 and firms keep 3.55, so firms bear 73 percent." loading="lazy">
+  <figcaption>With inelastic demand buyers bear most of an indirect tax; with elastic demand producers bear most.</figcaption>
+</figure>
+
 
 ## Command words in this unit
 

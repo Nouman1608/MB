@@ -119,6 +119,12 @@ a^(−m/n) = 1 / a^(m/n)
 
 **Reminder:** √12 + √27 = 2√3 + 3√3 = 5√3.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-rational-indices-and-surds--04-like-surds.webp" width="900" height="760" alt="Bars built from blocks each of length root 2: root 50 is 5 blocks, root 98 is 7 blocks and 3 root 8 is 6 blocks taken away. 5 + 7 - 6 leaves 6 blocks, so the sum is 6 root 2." loading="lazy">
+  <figcaption>Surds with the same root combine like algebraic terms.</figcaption>
+</figure>
+
+
 ### Method in steps: expanding
 
 Multiply out as with algebra, then replace each √a × √a by a, and collect the rational part and the surd part.

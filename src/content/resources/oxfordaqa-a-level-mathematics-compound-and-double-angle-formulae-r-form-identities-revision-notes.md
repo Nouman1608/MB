@@ -36,6 +36,12 @@ Condensed recall for the second part of content area P2.4 (Trigonometry) in the 
 
 The specification says the double angle formulae, including all three forms of cos 2x, are expected knowledge. In cos(A ± B) the sign on the right is the opposite of the sign on the left. The power-reduction results are the cos 2x forms rearranged, so you can rebuild them in one line.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-mathematics-reciprocal-and-inverse-trig-functions-identities--06-three-triangles.webp" width="900" height="770" alt="A quarter unit circle with a ray at 35°. The triangle with hypotenuse 1 gives sin² + cos² = 1; the triangle on the tangent line gives 1 + tan² = sec²; the triangle on the line y = 1 gives 1 + cot² = cosec²." loading="lazy">
+  <figcaption>Pythagoras in three similar triangles gives all three identities.</figcaption>
+</figure>
+
+
 ## Method boxes
 
 **Exact values from compound angles**
@@ -76,6 +82,16 @@ The specification says the double angle formulae, including all three forms of c
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/ocr-a-level-mathematics-reciprocal-and-inverse-trig-functions-identities--07-sin-sum-proof.webp" width="900" height="880" alt="Triangle XYZ is split by a perpendicular ZW into angles A and B. Its area is ½pq sin(A+B) and also ½ph sin A + ½qh sin B; with h = q cos B = p cos A this gives sin(A+B) = sin A cos B + cos A sin B." loading="lazy">
   <figcaption>The area of one triangle, written two ways, proves the sin(A + B) formula.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-mathematics-reciprocal-and-inverse-trig-functions-identities--08-r-form-wave.webp" width="900" height="1100" alt="y = 7 sin x − 24 cos x equals 25 sin(x − 73.74°): a sine wave of amplitude 25 shifted right by α. The 7, 24, 25 triangle gives R cos α = 7 and R sin α = 24. The line y = 10 meets the curve at 97.3° and 230.2°." loading="lazy">
+  <figcaption>R is the amplitude and α the shift of the combined wave.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-mathematics-reciprocal-and-inverse-trig-functions-identities--09-solve-sin-symmetry.webp" width="900" height="960" alt="Sine graph with the line y = −0.4 meeting it at 203.6° and 336.4°, each a reference angle α = 23.58° from 180° and 360°. The calculator value −23.58° is outside the interval." loading="lazy">
+  <figcaption>Find the reference angle, then use symmetry to list every solution in the interval.</figcaption>
 </figure>
 
 
@@ -134,12 +150,6 @@ Always write the interval for the whole angle, such as x + α, before you list a
 | An identity and an equation | An identity (≡) holds for every x. An equation holds only for some values |
 | Principal value and all solutions | The inverse function gives one angle. The shifted interval gives the full set |
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ocr-a-level-mathematics-reciprocal-and-inverse-trig-functions-identities--05-arcsin-sin-trap.webp" width="900" height="910" alt="The zigzag graph of arcsin(sin x) against the line y = x. They agree only for x between −π/2 and π/2. At x = 5π/6 the value is π/6." loading="lazy">
-  <figcaption>arcsin(sin x) always lands in [−π/2, π/2], so it equals x only on that interval.</figcaption>
-</figure>
-
-
 ## Quick self-test
 
 1. Expand cos(A + B).
@@ -166,6 +176,12 @@ Always write the interval for the whole angle, such as x + α, before you list a
 9. sin x (2 cos x − 3) = 0. Since cos x = 3/2 is impossible, only sin x = 0 remains: **x = 0, π, 2π**.
 10. 1 − 2 sin² θ, because the other terms contain sin θ, so the equation becomes a quadratic in sin θ alone.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-mathematics-reciprocal-and-inverse-trig-functions-identities--05-arcsin-sin-trap.webp" width="900" height="910" alt="The zigzag graph of arcsin(sin x) against the line y = x. They agree only for x between −π/2 and π/2. At x = 5π/6 the value is π/6." loading="lazy">
+  <figcaption>arcsin(sin x) always lands in [−π/2, π/2], so it equals x only on that interval.</figcaption>
+</figure>
+
+
 ## Where marks are usually lost
 
 - Changing the wrong sign in cos(A ± B), which gives the wrong exact value.
@@ -180,18 +196,13 @@ Always write the interval for the whole angle, such as x + α, before you list a
 - Integrating cos 2x as sin 2x without the factor 1/2, or leaving out the constant of integration.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ocr-a-level-mathematics-reciprocal-and-inverse-trig-functions-identities--06-three-triangles.webp" width="900" height="770" alt="A quarter unit circle with a ray at 35°. The triangle with hypotenuse 1 gives sin² + cos² = 1; the triangle on the tangent line gives 1 + tan² = sec²; the triangle on the line y = 1 gives 1 + cot² = cosec²." loading="lazy">
-  <figcaption>Pythagoras in three similar triangles gives all three identities.</figcaption>
+  <img src="https://img.marlbridge.com/ocr-a-level-mathematics-reciprocal-and-inverse-trig-functions-identities--01-reciprocal-sec-cosec.webp" width="900" height="1130" alt="Two graphs from −π to 2π. Secant (copper) has asymptotes where cosine is zero and touches cosine at its maximum and minimum values 1 and −1; none of it lies between −1 and 1. Cosecant is the same idea built from sine, with asymptotes at 0, π and 2π." loading="lazy">
+  <figcaption>A reciprocal graph has asymptotes where the original is zero and touches it where the original is ±1.</figcaption>
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ocr-a-level-mathematics-reciprocal-and-inverse-trig-functions-identities--08-r-form-wave.webp" width="900" height="1100" alt="y = 7 sin x − 24 cos x equals 25 sin(x − 73.74°): a sine wave of amplitude 25 shifted right by α. The 7, 24, 25 triangle gives R cos α = 7 and R sin α = 24. The line y = 10 meets the curve at 97.3° and 230.2°." loading="lazy">
-  <figcaption>R is the amplitude and α the shift of the combined wave.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ocr-a-level-mathematics-reciprocal-and-inverse-trig-functions-identities--09-solve-sin-symmetry.webp" width="900" height="960" alt="Sine graph with the line y = −0.4 meeting it at 203.6° and 336.4°, each a reference angle α = 23.58° from 180° and 360°. The calculator value −23.58° is outside the interval." loading="lazy">
-  <figcaption>Find the reference angle, then use symmetry to list every solution in the interval.</figcaption>
+  <img src="https://img.marlbridge.com/ocr-a-level-mathematics-reciprocal-and-inverse-trig-functions-identities--02-cot-graph.webp" width="900" height="880" alt="Cotangent from 0 to 2π with tangent dotted. Asymptotes at 0, π and 2π; each branch falls and crosses zero at π/2 and 3π/2, where tangent is undefined. Period π." loading="lazy">
+  <figcaption>Cot x falls in every branch, has period π and equals 0 where tan x is undefined.</figcaption>
 </figure>
 
 

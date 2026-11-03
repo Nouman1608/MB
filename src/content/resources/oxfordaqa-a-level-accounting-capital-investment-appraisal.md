@@ -84,6 +84,11 @@ None of these four items belongs in the appraisal.
   <figcaption>Include only future cash caused by the project; leave out depreciation, sunk costs, unchanged overheads and (OxfordAQA) loan interest.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-capital-investment-appraisal--08-arr-bases.webp" width="900" height="940" alt="The same 25,000 average profit is shown as a slice of two bars: initial cost 240,000 gives 10.4% and average investment 135,000 gives 18.5%." loading="lazy">
+  <figcaption>ARR changes with the investment base, so state which one you use.</figcaption>
+</figure>
+
 
 ## 2. Payback period
 
@@ -152,6 +157,11 @@ The present values of the inflows total 210,969, which is 5,031 short of the out
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/aqa-a-level-accounting-capital-investment-appraisal--06-wacc.webp" width="900" height="870" alt="A bar split of 1,000,000 finance (45% shares at 12%, 15% preference at 8%, 40% debentures at 8.5%) leads to a second bar of contributions 5.4%, 1.2% and 3.4%, totalling 10.0%." loading="lazy">
   <figcaption>WACC weights each source's cost by its share of finance and is used as the discount rate.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-capital-investment-appraisal--07-irr-interpolation.webp" width="900" height="990" alt="NPV falls as the discount rate rises. A straight line joins +34,060 at 10% and -4,555 at 16% and crosses zero at about 15.3%, above the 10% WACC, so the project is accepted." loading="lazy">
+  <figcaption>IRR is the rate at which NPV is zero, estimated by interpolation and compared with WACC.</figcaption>
 </figure>
 
 

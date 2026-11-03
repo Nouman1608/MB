@@ -76,12 +76,6 @@ Linear composites, ready to use:
 ∫ (ax + b)ⁿ dx   = (ax + b)ⁿ⁺¹ / (a(n + 1)) + C,  n ≠ −1
 ```
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ib-dp-mathematics-aa-sl-integration-kinematics--02-linear-composite.webp" width="900" height="710" alt="The copper curve sin(3x − 1) has gradient 3 at its root x = 1/3, while one third of it has gradient 1 there. Differentiating (1/3)sin(3x − 1) gives cos(3x − 1), so integrating cos(3x − 1) needs the factor 1/3." loading="lazy">
-  <figcaption>Integrating a function of ax + b divides by a, because differentiating multiplies by a.</figcaption>
-</figure>
-
-
 ## Method in steps
 
 **Boundary condition (5.5)**
@@ -130,6 +124,12 @@ a  --integrate + C-->  v  --integrate + C-->  s
 
 Use v(0) or s(0) (or another known value) to fix each constant.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-aa-sl-integration-kinematics--04-area-split-at-roots.webp" width="900" height="790" alt="The parabola y = x² − 4x + 3 has roots at x = 1 and 3. The part from 0 to 1 is above the axis with integral 4/3, and from 1 to 3 it is below with integral −4/3. The area is 4/3 + 4/3 = 8/3, while the single integral from 0 to 3 is 0." loading="lazy">
+  <figcaption>Split at each root and add the sizes to get area; a single integral gives the signed value.</figcaption>
+</figure>
+
+
 ## Small worked reminders
 
 - ∫ (2x − 5/x²) dx = x² + 5/x + C, since ∫ −5x⁻² dx = 5x⁻¹.
@@ -159,6 +159,11 @@ The particle moves backwards until t = 2, then forwards. The negative displaceme
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/ib-dp-mathematics-aa-sl-integration-kinematics--01-boundary-condition.webp" width="900" height="770" alt="Three vertical shifts of y = 2x³ − 2x² + x + c are drawn, for c = 3, −5 and −13. Only c = −5 passes through (2, 5), since 2x³ − 2x² + x equals 10 at x = 2. This is the lesson's boundary-condition example." loading="lazy">
   <figcaption>A known point on the curve picks out the one value of c.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-aa-sl-integration-kinematics--02-linear-composite.webp" width="900" height="710" alt="The copper curve sin(3x − 1) has gradient 3 at its root x = 1/3, while one third of it has gradient 1 there. Differentiating (1/3)sin(3x − 1) gives cos(3x − 1), so integrating cos(3x − 1) needs the factor 1/3." loading="lazy">
+  <figcaption>Integrating a function of ax + b divides by a, because differentiating multiplies by a.</figcaption>
 </figure>
 
 <figure class="topic-figure">
@@ -201,12 +206,6 @@ The guide splits this unit between hand methods and technology.
 | 5.5 powers: n ∈ ℤ, n ≠ −1 | 5.10 powers: n ∈ ℚ, n ≠ −1, plus 1/x → ln x |
 | Paper 1: find F, then F(b) − F(a), by hand | Paper 2: write the integral, then evaluate on the GDC |
 | Divide by a for f(ax + b) | Never multiply by a when integrating |
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ib-dp-mathematics-aa-sl-integration-kinematics--04-area-split-at-roots.webp" width="900" height="790" alt="The parabola y = x² − 4x + 3 has roots at x = 1 and 3. The part from 0 to 1 is above the axis with integral 4/3, and from 1 to 3 it is below with integral −4/3. The area is 4/3 + 4/3 = 8/3, while the single integral from 0 to 3 is 0." loading="lazy">
-  <figcaption>Split at each root and add the sizes to get area; a single integral gives the signed value.</figcaption>
-</figure>
-
 
 ## Quick self-test
 

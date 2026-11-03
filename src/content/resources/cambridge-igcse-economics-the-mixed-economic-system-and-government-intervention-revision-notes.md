@@ -77,11 +77,6 @@ These revision notes cover section 2.11 (the mixed economic system and governmen
   <figcaption>Of the 147.6 tax raised, consumers bear 88.56 and producers 59.04.</figcaption>
 </figure>
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-level-economics-government-microeconomic-intervention--02-subsidy-incidence.webp" width="900" height="890" alt="Supply and demand diagram where a subsidy of 2 per unit shifts supply down from S1 to S2. Quantity rises from 50 to 60, the consumer price falls from 5 to 3.8 (gain 1.2 a unit) and the producer receives 5.8 (gain 0.8 a unit). The government pays 2 a unit." loading="lazy">
-  <figcaption>A subsidy lowers the price consumers pay and raises what producers receive; the split depends on elasticity.</figcaption>
-</figure>
-
 
 ## Key formulas
 
@@ -133,12 +128,6 @@ Use a short chain: measure, how it works, intended result, side effect, judgemen
 - Government failure: intervention can itself misallocate resources.
 - Finish with a judgement that names a condition: "This works best when...".
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/cambridge-igcse-economics-microeconomic-decision-makers--04-wage-above-equilibrium.webp" width="900" height="890" alt="With a wage floor of 9 above the equilibrium of 7, firms want 30 workers but 70 want jobs, leaving 40 without work. Workers in jobs earn more but fewer are employed." loading="lazy">
-  <figcaption>A minimum wage or union deal above equilibrium raises pay for those employed but can reduce jobs.</figcaption>
-</figure>
-
-
 ## Quick self-test
 
 1. Define the mixed economic system.
@@ -168,6 +157,22 @@ Use a short chain: measure, how it works, intended result, side effect, judgemen
 10. Any two: unprofitable services cut; prices raised; private monopoly power; loss of public control.
 11. The wage is held above equilibrium, so firms demand fewer workers while more people supply labour. Supply exceeds demand, giving unemployment.
 12. 90 ÷ 1.5 = **60**.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-economics-the-mixed-economic-system-and-government-intervention--02-direct-provision-tradeoff.webp" width="900" height="930" alt="With a budget of 120, 50 clinics at 2.4 use all the money. Building 40 clinics costs 96 and leaves 24, which buys 8 schools at 3.0, so 10 extra clinics means 8 schools given up." loading="lazy">
+  <figcaption>Choosing 10 extra clinics means giving up 8 schools.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-economics-microeconomic-decision-makers--04-wage-above-equilibrium.webp" width="900" height="890" alt="With a wage floor of 9 above the equilibrium of 7, firms want 30 workers but 70 want jobs, leaving 40 without work. Workers in jobs earn more but fewer are employed." loading="lazy">
+  <figcaption>A minimum wage or union deal above equilibrium raises pay for those employed but can reduce jobs.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-economics-government-microeconomic-intervention--02-subsidy-incidence.webp" width="900" height="890" alt="Supply and demand diagram where a subsidy of 2 per unit shifts supply down from S1 to S2. Quantity rises from 50 to 60, the consumer price falls from 5 to 3.8 (gain 1.2 a unit) and the producer receives 5.8 (gain 0.8 a unit). The government pays 2 a unit." loading="lazy">
+  <figcaption>A subsidy lowers the price consumers pay and raises what producers receive; the split depends on elasticity.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

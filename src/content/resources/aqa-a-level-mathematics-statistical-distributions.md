@@ -300,6 +300,16 @@ working shows what you entered.
 - Calculating a mean and variance for a general discrete table. This is excluded from 7357.
 - Rounding a probability to 2 decimal places mid-question and carrying the error forward.
 
+## Next steps
+
+Condense the methods with the
+[Statistical distributions revision notes](/resources/aqa-a-level-mathematics-statistical-distributions-revision-notes/),
+then test yourself with the
+[Statistical distributions practice questions](/resources/aqa-a-level-mathematics-statistical-distributions-practice/).
+Revisit sampling ideas in the
+[Statistical sampling guide](/resources/aqa-a-level-mathematics-statistical-sampling/), and plan your
+final weeks with [exam preparation for 7357](/resources/aqa-a-level-mathematics-exam-preparation/).
+
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/a-level-maths-9709-probability-statistics-2--07-confidence-interval-95.webp" width="900" height="910" alt="A normal curve of the sample mean centred on 56.5 with standard error 0.675. The central 95% of area, from 55.2 to 57.8, is shaded teal with 2.5% in each tail, and a bracket marks the interval (55.2, 57.8)." loading="lazy">
   <figcaption>The 95% interval is the sample mean plus or minus 1.96 standard errors.</figcaption>
@@ -310,16 +320,6 @@ working shows what you entered.
   <figcaption>Type I error is landing in the rejection region when H0 is true; Type II is landing outside it when H0 is false.</figcaption>
 </figure>
 
-
-## Next steps
-
-Condense the methods with the
-[Statistical distributions revision notes](/resources/aqa-a-level-mathematics-statistical-distributions-revision-notes/),
-then test yourself with the
-[Statistical distributions practice questions](/resources/aqa-a-level-mathematics-statistical-distributions-practice/).
-Revisit sampling ideas in the
-[Statistical sampling guide](/resources/aqa-a-level-mathematics-statistical-sampling/), and plan your
-final weeks with [exam preparation for 7357](/resources/aqa-a-level-mathematics-exam-preparation/).
 
 ## Official syllabus
 

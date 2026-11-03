@@ -193,17 +193,6 @@ Ellerslie Joinery then buys machinery for 12,000 and pays by raising its overdra
 
 The business has gained a machine but has less short-term safety. Replacing the overdraft with a longer-term loan would move the debt out of current liabilities.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-business-0264-profit-and-loss-and-statement-of-financial-position--08-sofp-sort-items.webp" width="900" height="916" alt="Eight items sorted into the four zones of a statement of financial position. Inventory, trade receivables and cash are current assets; property and machinery are non-current assets; trade payables and overdraft are current liabilities; the bank loan is a non-current liability. Working capital uses current liabilities only." loading="lazy">
-  <figcaption>Inventory and overdraft are both current; receivables are owed to the business, payables are owed by it.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ib-dp-business-management-finance-accounts--03-accounting-equation.webp" width="900" height="1050" alt="Two equal stacked bars: assets 100 (non-current 60, current 40) equal liabilities plus equity 100 (share capital 40, retained profit 10, non-current liabilities 30, current liabilities 20). A balance sheet is a snapshot; the profit and loss account covers a period." loading="lazy">
-  <figcaption>Assets always equal liabilities plus equity; the balance sheet shows one moment, the P&amp;L a period.</figcaption>
-</figure>
-
-
 ## Quick self-test
 
 1. State the syllabus formula for profit using total revenue.
@@ -229,6 +218,17 @@ The business has gained a machine but has less short-term safety. Replacing the 
 8. Total assets = 95,000 + 12,000 + 8,000 = 115,000.
 9. 90,000 - 25,000 = 65,000.
 10. 70,000 - 26,000 = 44,000.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-0264-profit-and-loss-and-statement-of-financial-position--08-sofp-sort-items.webp" width="900" height="916" alt="Eight items sorted into the four zones of a statement of financial position. Inventory, trade receivables and cash are current assets; property and machinery are non-current assets; trade payables and overdraft are current liabilities; the bank loan is a non-current liability. Working capital uses current liabilities only." loading="lazy">
+  <figcaption>Inventory and overdraft are both current; receivables are owed to the business, payables are owed by it.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-finance-accounts--03-accounting-equation.webp" width="900" height="1050" alt="Two equal stacked bars: assets 100 (non-current 60, current 40) equal liabilities plus equity 100 (share capital 40, retained profit 10, non-current liabilities 30, current liabilities 20). A balance sheet is a snapshot; the profit and loss account covers a period." loading="lazy">
+  <figcaption>Assets always equal liabilities plus equity; the balance sheet shows one moment, the P&amp;L a period.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

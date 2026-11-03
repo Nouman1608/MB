@@ -75,6 +75,11 @@ The grid has 3 × 4 = 12 cells. Products: 1 gives 2, 4, 6, 8. 3 gives 6, 12, 18,
   <figcaption>A sample space diagram lists every equally likely outcome so you can count the favourable ones.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-probability--05-conditional-table.webp" width="900" height="780" alt="Two-way table of 60 students: boys 14 walk and 16 bus, girls 18 walk and 12 bus. Given a walker, use the walk column total 32; 18 are girls, so 18/32 = 9/16." loading="lazy">
+  <figcaption>From a table, the given condition picks one row or column as the whole sample space.</figcaption>
+</figure>
+
 
 ## Systematic listing and the product rule (11.02b)
 
@@ -156,6 +161,21 @@ From the table above: P(plays hockey given plays netball) = 5/12, because 5 of t
   <figcaption>The lesson's set-builder examples drawn on number lines.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-mathematics-sample-spaces-systematic-listing-product-rule-venn--09-venn-1-to-20.webp" width="900" height="880" alt="Venn diagram of 1 to 20: multiples of 3 only 3, 9, 15; both 6, 12, 18; even only 2, 4, 8, 10, 14, 16, 20; neither 1, 5, 7, 11, 13, 17, 19. Counts 3, 3, 7, 7 total 20." loading="lazy">
+  <figcaption>Fill every number into the four regions and check the total is 20.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-probability-and-expected-frequency--03-venn-two-sets.webp" width="900" height="680" alt="Three copies of a Venn diagram of 32 club members (swim only 9, both 5, tennis only 11, neither 7). Shading shows plays tennis 16/32, exactly one sport 20/32 and neither 7/32." loading="lazy">
+  <figcaption>Shade the region you want, add its counts, and divide by the total of 32.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-probability--04-conditional-venn.webp" width="900" height="910" alt="Venn diagram of 40 students: 12 French only, 6 both, 8 Spanish only, 14 neither. Given French, the sample space is the 18 in the French circle; 6 also study Spanish, so 6/18 = 1/3." loading="lazy">
+  <figcaption>Given a condition, only the part of the diagram that satisfies it counts.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 
@@ -190,12 +210,6 @@ From the table above: P(plays hockey given plays netball) = 5/12, because 5 of t
 9. 13/30.
 10. 5/12.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-mathematics-0580-probability-and-expected-frequency--03-venn-two-sets.webp" width="900" height="680" alt="Three copies of a Venn diagram of 32 club members (swim only 9, both 5, tennis only 11, neither 7). Shading shows plays tennis 16/32, exactly one sport 20/32 and neither 7/32." loading="lazy">
-  <figcaption>Shade the region you want, add its counts, and divide by the total of 32.</figcaption>
-</figure>
-
-
 ## Where marks are usually lost
 
 - Writing only part of the sample space, then giving a total that is too small.
@@ -207,22 +221,6 @@ From the table above: P(plays hockey given plays netball) = 5/12, because 5 of t
 - Using the group total as the denominator for a conditional probability.
 - Using 10 × 10 × 10 × 10 when repeats are not allowed.
 - Giving set notation without saying whether x is an integer.
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ocr-gcse-mathematics-sample-spaces-systematic-listing-product-rule-venn--09-venn-1-to-20.webp" width="900" height="880" alt="Venn diagram of 1 to 20: multiples of 3 only 3, 9, 15; both 6, 12, 18; even only 2, 4, 8, 10, 14, 16, 20; neither 1, 5, 7, 11, 13, 17, 19. Counts 3, 3, 7, 7 total 20." loading="lazy">
-  <figcaption>Fill every number into the four regions and check the total is 20.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-mathematics-probability--05-conditional-table.webp" width="900" height="780" alt="Two-way table of 60 students: boys 14 walk and 16 bus, girls 18 walk and 12 bus. Given a walker, use the walk column total 32; 18 are girls, so 18/32 = 9/16." loading="lazy">
-  <figcaption>From a table, the given condition picks one row or column as the whole sample space.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-mathematics-probability--04-conditional-venn.webp" width="900" height="910" alt="Venn diagram of 40 students: 12 French only, 6 both, 8 Spanish only, 14 neither. Given French, the sample space is the 18 in the French circle; 6 also study Spanish, so 6/18 = 1/3." loading="lazy">
-  <figcaption>Given a condition, only the part of the diagram that satisfies it counts.</figcaption>
-</figure>
-
 
 ## Next steps
 

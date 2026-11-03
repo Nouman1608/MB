@@ -51,8 +51,23 @@ orbital speed  v = 2 pi r / T
 **Worked example.** A satellite orbits Earth at radius 8,000 km with a period of 7,200 s. v = 2πr/T = (2π × 8,000,000) ÷ 7,200 ≈ **6,980 m/s**.
 
 <figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-physics-astrophysics--05-orbital-speed.webp" width="900" height="1030" alt="A satellite on a dashed circular orbit of radius r around Earth, with its velocity tangent to the orbit. One orbit is a distance 2 pi r = 4.4 x 10^7 m, covered in 6000 s, so v = 2 pi r / T is about 7330 m/s." loading="lazy">
+  <figcaption>Orbital speed is the circumference of the orbit divided by the time for one orbit.</figcaption>
+</figure>
+
+<figure class="topic-figure">
   <img src="https://img.marlbridge.com/edexcel-igcse-physics-astrophysics--05-galaxy-hierarchy.webp" width="900" height="1150" alt="Three panels zoom in from the universe of many galaxies to the Milky Way spiral of billions of stars, with the Solar System marked, then to the Sun with planets on orbits. Not to scale." loading="lazy">
   <figcaption>The universe contains galaxies; the Solar System sits inside the Milky Way.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-physics-astrophysics--06-circular-vs-elliptical-orbit.webp" width="900" height="910" alt="A planet or moon follows an almost circular orbit round the Sun while a comet follows a long ellipse with the Sun at one focus. Gravity on the comet points to the Sun." loading="lazy">
+  <figcaption>Planet and moon orbits are almost circular; comet orbits are much more elongated.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-physics-0625-space-physics--04-elliptical-orbit.webp" width="900" height="990" alt="An ellipse with the Sun at a focus, not the centre. A long arrow at the closest point and a short arrow at the farthest point show the planet is faster when closer. Moving towards the Sun GPE is transferred to KE; moving away KE is transferred to GPE; total energy is constant." loading="lazy">
+  <figcaption>A planet moves faster when closer to the Sun because GPE is transferred to KE.</figcaption>
 </figure>
 
 
@@ -113,27 +128,6 @@ Together these mean the **universe is expanding**, and therefore was smaller and
 
 **Cosmic microwave background radiation (CMBR)** is the strongest supporting evidence — the cooled remnant of the radiation from the hot early universe, now found uniformly in all directions. **Only the Big Bang model explains it**, which is why it settled the debate against the steady state theory.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/edexcel-igcse-physics-astrophysics--06-redshift-calculation.webp" width="900" height="1150" alt="Spectra of one line: 656.3 nm in the lab, 662.9 nm for a galaxy at 1% of c and 682.6 nm for a further galaxy at 4% of c. Using change in wavelength / reference wavelength = v / c gives v = 1.2 x 10^7 m/s for the further galaxy. The numbers are illustrative." loading="lazy">
-  <figcaption>A faster-receding galaxy shows a bigger shift of the same line towards longer wavelength.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/edexcel-igcse-physics-astrophysics--07-expanding-space.webp" width="900" height="1150" alt="Rows of five galaxies at an earlier time (spacing 100) and later (spacing 150). Arrows from the viewing galaxy get longer for galaxies that were farther away. The same pattern is seen when another galaxy is the viewer, so there is no special centre." loading="lazy">
-  <figcaption>Every galaxy sees the others recede, farther ones faster, with no centre.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-physics-0625-space-physics--06-redshift.webp" width="900" height="990" alt="Two waves on the same scale: light from a source on Earth, and light from a distant galaxy with a wavelength 1.5 times longer, shown in red. Redshift means the galaxy is moving away, so the Universe is expanding, supporting the Big Bang." loading="lazy">
-  <figcaption>Longer observed wavelength means the galaxy is moving away.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-physics-0625-space-physics--07-hubble-constant.webp" width="900" height="910" alt="A straight line through the origin of speed against distance, plotted from H0 = 2.2e-18 per second. A galaxy at 5.3e8 light-years recedes at 1.1e7 m/s. The gradient is H0 = v/d, and 1/H0 is about 1.4e10 years, an estimate of the age of the Universe." loading="lazy">
-  <figcaption>Speed is proportional to distance, and 1/H0 estimates the age of the Universe.</figcaption>
-</figure>
-
-
 ## Exam traps
 
 - Saying orbits are circular.
@@ -156,7 +150,22 @@ Together these mean the **universe is expanding**, and therefore was smaller and
 **Answers:** 1. As it approaches the Sun its gravitational potential energy is converted into kinetic energy, so its speed increases. 2. The gravitational attraction between the orbiting body and the body it orbits. 3. Its mass — Sun-like stars become white dwarfs, while much more massive stars end as neutron stars or black holes after a supernova. 4. The inward gravitational force is balanced by the outward pressure produced by the energy released in nuclear fusion. 5. Almost all galaxies are redshifted, and more distant ones show greater redshift; space itself is expanding, so every observer in every galaxy would see the same pattern. 6. Absolute magnitude is how bright a star would appear at a standard distance, allowing fair comparison between stars; apparent brightness is how bright it actually looks from Earth, which also depends on how far away it is. 7. v = cΔλ/λ₀ = (3.0 × 10⁸ × 0.6) ÷ 600 = 3.0 × 10⁵ m/s.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/edexcel-igcse-physics-astrophysics--06-circular-vs-elliptical-orbit.webp" width="900" height="910" alt="A planet or moon follows an almost circular orbit round the Sun while a comet follows a long ellipse with the Sun at one focus. Gravity on the comet points to the Sun." loading="lazy">
-  <figcaption>Planet and moon orbits are almost circular; comet orbits are much more elongated.</figcaption>
+  <img src="https://img.marlbridge.com/edexcel-igcse-physics-astrophysics--06-redshift-calculation.webp" width="900" height="1150" alt="Spectra of one line: 656.3 nm in the lab, 662.9 nm for a galaxy at 1% of c and 682.6 nm for a further galaxy at 4% of c. Using change in wavelength / reference wavelength = v / c gives v = 1.2 x 10^7 m/s for the further galaxy. The numbers are illustrative." loading="lazy">
+  <figcaption>A faster-receding galaxy shows a bigger shift of the same line towards longer wavelength.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-physics-astrophysics--07-expanding-space.webp" width="900" height="1150" alt="Rows of five galaxies at an earlier time (spacing 100) and later (spacing 150). Arrows from the viewing galaxy get longer for galaxies that were farther away. The same pattern is seen when another galaxy is the viewer, so there is no special centre." loading="lazy">
+  <figcaption>Every galaxy sees the others recede, farther ones faster, with no centre.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-physics-0625-space-physics--06-redshift.webp" width="900" height="990" alt="Two waves on the same scale: light from a source on Earth, and light from a distant galaxy with a wavelength 1.5 times longer, shown in red. Redshift means the galaxy is moving away, so the Universe is expanding, supporting the Big Bang." loading="lazy">
+  <figcaption>Longer observed wavelength means the galaxy is moving away.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-physics-0625-space-physics--07-hubble-constant.webp" width="900" height="910" alt="A straight line through the origin of speed against distance, plotted from H0 = 2.2e-18 per second. A galaxy at 5.3e8 light-years recedes at 1.1e7 m/s. The gradient is H0 = v/d, and 1/H0 is about 1.4e10 years, an estimate of the age of the Universe." loading="lazy">
+  <figcaption>Speed is proportional to distance, and 1/H0 estimates the age of the Universe.</figcaption>
 </figure>
 

@@ -62,6 +62,12 @@ oxides and chlorides are **ionic**. Silicon, phosphorus and sulfur are closer in
 oxygen and chlorine, so their compounds are **covalent**. Aluminium sits at the crossover: its small,
 highly charged ion distorts nearby anions, giving strong covalent character.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-periodicity--03-ionisation-energy.webp" width="900" height="800" alt="A graph of first ionisation energy for Na to Ar rises overall from 496 kJ per mole for Na to 1521 for Ar. The two dips, Al below Mg and S below P, are marked in gold." loading="lazy">
+  <figcaption>First ionisation energy generally rises from Na to Ar, with dips at Al and S.</figcaption>
+</figure>
+
+
 ## Sodium and magnesium with water
 
 Sodium reacts fast with cold water: it floats, melts into a sphere and fizzes, leaving a colourless
@@ -184,6 +190,11 @@ liquid at room temperature.**
 2. SiCl₄ is simple molecular. Only weak van der Waals forces between its molecules must be overcome;
    the Si–Cl bonds stay intact.
 3. Far less energy is needed, so SiCl₄ melts at a much lower temperature.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-periodicity--04-ie-dips.webp" width="900" height="780" alt="Orbital box diagrams show Mg with a full 3s and Al with one 3p electron, and P with three unpaired 3p electrons against S with one paired 3p orbital. The circled electron is the one removed first: a higher-energy 3p electron in Al, and a repelled paired electron in S." loading="lazy">
+  <figcaption>Al is lower than Mg because 3p is higher in energy than 3s, and S is lower than P because of repulsion in a paired 3p orbital (OCR and OxfordAQA; AQA names the dips and teaches the reason under atomic structure).</figcaption>
+</figure>
 
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/aqa-a-level-chemistry-periodicity--06-melting-points.webp" width="900" height="860" alt="A bar chart of melting points in kelvin for Na to Ar is coloured by structure. Si (giant covalent) is the tallest bar at 1687 K and Ar (single atoms) is the lowest at 84 K. The metals rise from Na to Al and the molecular elements are low." loading="lazy">

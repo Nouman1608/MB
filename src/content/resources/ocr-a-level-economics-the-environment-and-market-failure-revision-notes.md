@@ -164,17 +164,6 @@ These notes condense the topic **Environment** in Component 1, Microeconomics, o
 
 **Levels.** Local: city zones and planning rules. National: taxes and standards. Regional: shared schemes across neighbouring countries. Global: treaties facing free riding and weak enforcement.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ocr-a-level-economics-the-environment-and-market-failure--14-env-tradable-permits.webp" width="900" height="880" alt="Two marginal abatement cost lines meet at 80 tonnes cut by X and a permit price of 16. The shaded triangle is the 450 saved compared with equal cuts of 50 each, cutting the total from 1,250 to 800." loading="lazy">
-  <figcaption>Trading permits equalises marginal abatement costs and lowers the total cost of a given cut.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ocr-a-level-economics-the-environment-and-market-failure--05-env-policy-bite.webp" width="900" height="960" alt="Two checks. First, a tax on a good with price elasticity of demand of minus 0.4: a 10 percent price rise cuts quantity by 4 percent, and a 12 percent cut needs a 30 percent price rise, so a tax on an inelastic good raises revenue but changes behaviour little. Second, a firm with a compliance cost of 800 pounds and a 10 percent chance of a 5,000 pound fine expects to pay 500, so breaking the rule can pay. A fine of 8,000 pounds gives an expected 800, equal to the compliance cost, so the fine would need to exceed 8,000 to deter it." loading="lazy">
-  <figcaption>A tax on an inelastic good changes behaviour little, and a fine must exceed cost divided by the chance of being caught.</figcaption>
-</figure>
-
-
 ## Evaluation checklist
 
 - Does the policy suit the pollutant (local or global, and how harmful)?
@@ -210,6 +199,17 @@ These notes condense the topic **Environment** in Component 1, Microeconomics, o
 9. Expected fine = 0.25 × 1,800 = £450, below £600, so it may not comply. The fine must exceed 600 ÷ 0.25 = **£2,400**.
 10. Set 0.4qA = 1.6qB with qA + qB = 50: **qA = 40, qB = 10**, price **£16**. Total cost falls from £625 (equal cuts of 25) to £400.
 11. It is a global pollutant, so one country can import goods made elsewhere. Rising income at home does not stop world emissions.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-the-environment-and-market-failure--14-env-tradable-permits.webp" width="900" height="880" alt="Two marginal abatement cost lines meet at 80 tonnes cut by X and a permit price of 16. The shaded triangle is the 450 saved compared with equal cuts of 50 each, cutting the total from 1,250 to 800." loading="lazy">
+  <figcaption>Trading permits equalises marginal abatement costs and lowers the total cost of a given cut.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-the-environment-and-market-failure--05-env-policy-bite.webp" width="900" height="960" alt="Two checks. First, a tax on a good with price elasticity of demand of minus 0.4: a 10 percent price rise cuts quantity by 4 percent, and a 12 percent cut needs a 30 percent price rise, so a tax on an inelastic good raises revenue but changes behaviour little. Second, a firm with a compliance cost of 800 pounds and a 10 percent chance of a 5,000 pound fine expects to pay 500, so breaking the rule can pay. A fine of 8,000 pounds gives an expected 800, equal to the compliance cost, so the fine would need to exceed 8,000 to deter it." loading="lazy">
+  <figcaption>A tax on an inelastic good changes behaviour little, and a fine must exceed cost divided by the chance of being caught.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

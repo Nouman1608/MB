@@ -61,6 +61,11 @@ Trade rose by 84.6% while GDP rose by 50%. Trade grew faster than output, so the
   <figcaption>Trade grew faster than GDP, so the openness ratio (exports plus imports over GDP) rose from 32.5% to 40.0%.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-causes-and-effects-of-globalisation--05-migration-remittances.webp" width="900" height="830" alt="Country D: 150,000 arrivals less 70,000 departures is 80,000, or 4.0 per 1,000 of 20 million. Country E: remittances of 6 on a GDP of 120 is 5.0%." loading="lazy">
+  <figcaption>Net migration is arrivals minus departures per 1,000 people; remittances are measured as a share of GDP.</figcaption>
+</figure>
+
 
 ## 2. Causes of globalisation (last 50 years)
 
@@ -116,6 +121,11 @@ Evaluation: the net effect depends on how much the TNC sources locally, how long
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/a-level-edexcel-economics-economic-growth--05-gdp-to-gni.webp" width="900" height="806" alt="Waterfall in $bn: GDP 500, plus 40 income earned abroad by residents, minus 70 profits sent abroad by foreign-owned firms, gives GNI of 470. GNI equals GDP plus income from abroad minus income sent abroad." loading="lazy">
   <figcaption>GNI adds income earned abroad and subtracts income sent abroad, so it can differ from GDP.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-aggregate-demand-supply--07-lras-growth.webp" width="900" height="1000" alt="LRAS shifts right from output 100 to 130, with SRAS shifted right by the same amount. Equilibrium moves from output 90, price level 65 to output 105, price level 57.5. Technology, productivity, enterprise, factor mobility, incentives and institutions are listed as causes." loading="lazy">
+  <figcaption>Underlying economic growth is a rightward shift in LRAS, raising output and easing prices.</figcaption>
 </figure>
 
 

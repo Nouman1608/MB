@@ -160,6 +160,12 @@ Decide whether each pair of triangles is congruent.
 
 Draw a 30° angle, mark a side of 8 cm along one arm, then swing an arc of radius 6 cm from the end of that side towards the other arm. The arc can cut the other arm in two places, giving two different triangles with the same SSA information. RHS avoids this because the known angle is 90°, and the arc then touches the arm in only one place.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-mathematics-congruence-and-congruence-proofs--03-not-enough.webp" width="900" height="1120" alt="Top: two triangles with the same angles of 40, 60 and 80 degrees but sides of 7 cm and 12 cm, so not congruent. Bottom: a base of 8 cm with a 40 degree angle at A; a 6 cm side from B meets the ray from A at two points, giving two different triangles." loading="lazy">
+  <figcaption>AAA gives similar triangles, and SSA can fit two different triangles, so neither proves congruence.</figcaption>
+</figure>
+
+
 ### Worked example 5: a short congruence argument
 
 ABCD is a kite with AB = AD and CB = CD. Show that angle ABC = angle ADC.
@@ -177,6 +183,11 @@ corresponds to angle ADC, so angle ABC = angle ADC.
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/oxfordaqa-igcse-mathematics-symmetry-congruence-similarity-and-3d-solids-with--05-congruence-conditions-oxfordaqa.webp" width="900" height="1165" alt="SSS, SAS, ASA or AAS and RHS prove congruence. AAA does not, because a larger triangle has the same angles. SSA does not, because the arc can cut the other arm in two places." loading="lazy">
   <figcaption>Four conditions prove congruence; AAA and SSA do not.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-mathematics-congruence-and-congruence-proofs--02-four-conditions.webp" width="900" height="940" alt="Four rows each show two equal triangles, the second turned or flipped. Tick marks and arcs show which sides and angles are equal for SSS, SAS (angle between the sides), ASA (side between the angles) and RHS (right angle, hypotenuse, one side)." loading="lazy">
+  <figcaption>Each of SSS, SAS, ASA and RHS is enough on its own to prove two triangles congruent.</figcaption>
 </figure>
 
 
@@ -228,6 +239,11 @@ Do not use DB, the 4 cm part, as if it matched DE. Compare the whole side AB wit
   <figcaption>Compare whole sides AB and AD to find BC.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-mathematics-similarity-and-enlargement--03-similar-triangles-parallel.webp" width="900" height="930" alt="Triangle ADE sits inside triangle ABC with DE parallel to BC. Angle A is shared and the angles at D and B, and at E and C, are equal, so the triangles are similar with scale factor 9 / 6 = 1.5. BC = 8 x 1.5 = 12 cm." loading="lazy">
+  <figcaption>A line parallel to one side creates a smaller similar triangle; the scale factor gives the unknown side.</figcaption>
+</figure>
+
 
 ## Faces, surfaces, edges and vertices (G10)
 
@@ -270,6 +286,11 @@ Edges = 3 × 6 = 18.
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/oxfordaqa-igcse-mathematics-symmetry-congruence-similarity-and-3d-solids-with--07-solids-faces-edges-vertices.webp" width="900" height="1115" alt="Cuboid 6, 0, 12, 8; cylinder 2 flat faces, 1 curved surface, 2 curved edges, 0 vertices; cone 1, 1, 1 curved edge, 1 vertex; sphere 0, 1, 0, 0." loading="lazy">
   <figcaption>Counts for a cuboid, cylinder, cone and sphere drawn on the solids.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-mathematics-geometry-notation-and-terms-instruments-3d-solids--09-solid-counts.webp" width="900" height="990" alt="A triangular prism (5 faces, 9 edges, 6 vertices) and a square-based pyramid (5 faces, 8 edges, 5 vertices) with hidden edges dashed and vertices marked. For both, faces + vertices - edges = 2." loading="lazy">
+  <figcaption>Count faces, edges and vertices from a drawing, and check with F + V - E = 2.</figcaption>
 </figure>
 
 

@@ -107,12 +107,6 @@ Chemical groups to recall:
 | Tyrosine kinase (insulin, C2.1.11) | Binds, tyrosine phosphorylation inside, relay reactions, vesicles with glucose transporters fuse with membrane | Minutes |
 | Intracellular (steroids, C2.1.12) | Ligand crosses membrane, binds receptor, receptor binds DNA sequences, transcription | Hours |
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ib-dp-biology-chemical-signalling-ligands-receptors-and-signal--07-insulin-tyrosine-kinase.webp" width="900" height="1252" alt="Without insulin the muscle cell membrane has two glucose transporters. Insulin binds the tyrosine kinase receptor, tyrosines are phosphorylated using ATP, and vesicles bring more transporters to the membrane so more glucose enters. Bars show uptake of 2.4, 9.6 and 3.0 micromoles per gram per hour with no insulin, insulin and insulin plus inhibitor." loading="lazy">
-  <figcaption>Insulin triggers phosphorylation and insertion of glucose transporters, raising glucose uptake fourfold.</figcaption>
-</figure>
-
-
 ## Acetylcholine receptor, step by step (C2.1.8)
 
 1. Acetylcholine is released from the presynaptic neuron and diffuses across the synaptic gap.
@@ -155,6 +149,11 @@ Chemical groups to recall:
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/ib-dp-biology-chemical-signalling-ligands-receptors-and-signal--06-gpcr-camp.webp" width="900" height="1200" alt="Epinephrine binds a seven-helix receptor, the G protein swaps GDP for GTP and activates adenylyl cyclase, which makes cAMP from ATP. cAMP leads to protein kinase A, glycogen breakdown and glucose release. A graph shows cAMP of 4, 60, 88, 31 and 6 units at 0, 15, 60, 120 and 300 s." loading="lazy">
   <figcaption>Epinephrine triggers a G protein pathway that raises cAMP, which falls again when epinephrine is removed.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-chemical-signalling-ligands-receptors-and-signal--07-insulin-tyrosine-kinase.webp" width="900" height="1252" alt="Without insulin the muscle cell membrane has two glucose transporters. Insulin binds the tyrosine kinase receptor, tyrosines are phosphorylated using ATP, and vesicles bring more transporters to the membrane so more glucose enters. Bars show uptake of 2.4, 9.6 and 3.0 micromoles per gram per hour with no insulin, insulin and insulin plus inhibitor." loading="lazy">
+  <figcaption>Insulin triggers phosphorylation and insertion of glucose transporters, raising glucose uptake fourfold.</figcaption>
 </figure>
 
 

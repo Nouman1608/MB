@@ -168,6 +168,11 @@ In an NH₃/NH₄Cl buffer, NH₃ + H⁺ → NH₄⁺ and NH₄⁺ + OH⁻ → N
   <figcaption>Both HA and A- are plentiful, so adding a little acid or alkali barely changes their ratio or the pH.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-chemical-equilibria-le-chateliers-principle-and-kc--03-temperature-k.webp" width="900" height="1020" alt="A graph of K against temperature shows K falling for an exothermic reaction and rising for an endothermic one. Two rows summarise: raising T lowers K and shifts left for exothermic, and raises K and shifts right for endothermic." loading="lazy">
+  <figcaption>Only temperature changes K: it falls for exothermic reactions and rises for endothermic ones as T increases.</figcaption>
+</figure>
+
 
 ## 14.19 Calculating the pH of a buffer
 
@@ -196,6 +201,12 @@ pH = 3.53
 ```
 
 The pH falls by less than 0.2. The same HCl added to 63.0 cm³ of pure water (64.0 cm³ in total) would give pH 2.11.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-chemical-equilibria-le-chateliers-principle-and-kc--08-kp-partial-pressure.webp" width="900" height="930" alt="Two aligned bars show mole fractions of N2, H2 and NH3 (0.250, 0.625, 0.125) multiplied by 20.0 MPa to give partial pressures 5.00, 12.5 and 2.50 MPa. Kp = 2.50^2 / (5.00 x 12.5^3) = 6.40 x 10^-4 MPa^-2." loading="lazy">
+  <figcaption>Partial pressure is mole fraction times total pressure, and Kp uses partial pressures of gases only.</figcaption>
+</figure>
+
 
 ## 14.20 Making a buffer of a chosen pH
 

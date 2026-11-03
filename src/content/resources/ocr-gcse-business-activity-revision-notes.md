@@ -102,6 +102,21 @@ break-even output = fixed costs / contribution per unit
   <figcaption>Enterprise turns an opportunity into an idea that meets a customer need, and entrepreneurs need four traits.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-understanding-business-activity--08-stakeholder-conflicts.webp" width="900" height="1040" alt="Six stakeholder groups around a business (owners and employees internal; customers, suppliers, government, local community external). Two conflicts: owners cutting costs vs employees wanting higher wages; customers wanting low prices vs owners wanting higher margins." loading="lazy">
+  <figcaption>Stakeholders have differing objectives that often conflict.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-business-setting-business-aims-and-objectives-and-stakeholders--05-pay-rise-conflict.webp" width="900" height="1000" alt="Employees and the owner pull in opposite directions. A 5% rise from 11.20 to 11.76 an hour costs 873.60 pounds per worker a year and 3,494.40 pounds for four workers, money not available for the oven." loading="lazy">
+  <figcaption>A pay rise helps employees but reduces money available to the owner.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-business-business-activity--04-night-shift.webp" width="900" height="980" alt="A night shift at Farrowdale Preserves gives owners more output, employees extra hours and suppliers bigger orders, but neighbours get lorry noise. A strip notes stakeholders can push back." loading="lazy">
+  <figcaption>One business decision helps some stakeholders and harms others.</figcaption>
+</figure>
+
 
 ## Market research
 
@@ -114,6 +129,21 @@ break-even output = fixed costs / contribution per unit
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/ocr-gcse-business-activity-revision-notes--10-segmentation-four-types.webp" width="900" height="850" alt="Four cards: demographic (age, gender, income), geographic (city, region, climate), psychographic (lifestyle, values, interests), behavioural (how often they buy, brand loyalty)." loading="lazy">
   <figcaption>Four ways to split customers into segments.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-business-business-activity-marketing-and-people--04-research-grid.webp" width="900" height="970" alt="A grid: primary research is specific, slow and costly; secondary is quick, cheap and not tailored. Quantitative gives numbers, qualitative gives reasons. Example items fill the four cells." loading="lazy">
+  <figcaption>Primary and secondary research differ from quantitative and qualitative data; primary is not simply better.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-business-marketing--09-quant-qual-research.webp" width="900" height="930" alt="A grid of 200 circles with 124 filled shows that 62 percent of a 200-customer sample would buy a sourdough loaf each week (quantitative). Below, a focus group of eight customers says the loaf is too large for one person (qualitative), which suggests a smaller loaf." loading="lazy">
+  <figcaption>The 62% tells Pembrook how many would buy; the focus group tells it why, and what to change.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-business-marketing--05-research-for-purpose.webp" width="900" height="1160" alt="Four situations matched to a method: a new business with no sales history needs primary research; census data (secondary, free) gives the size of an age group; a new recipe needs trialling or a focus group; a small budget and tight deadline suggests secondary sources plus a short questionnaire. Secondary sources shown: newspapers and magazines, census, websites and internal data." loading="lazy">
+  <figcaption>Match the research method to the purpose: no method is best in every case.</figcaption>
 </figure>
 
 
@@ -135,6 +165,42 @@ break-even output = fixed costs / contribution per unit
 **Place** — shops, e-commerce, wholesalers, direct.
 
 **The four Ps must be consistent with each other.** Premium pricing sold through discount channels sends contradictory signals — spotting that in a case study is worth more than listing the four Ps.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-marketing--04-product-life-cycle.webp" width="900" height="950" alt="Illustrative sales curve over time in four stages: introduction (low sales), growth (rising fast), maturity (peak, levelling), decline (falling). A dashed line shows an extension strategy lifting sales again. Promotion and pricing change at each stage." loading="lazy">
+  <figcaption>The product life cycle, with an extension strategy shown dashed.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-business-marketing--06-plc-cracker-sales.webp" width="900" height="850" alt="A bar chart of cracker sales in thousands for years 1 to 6 (3, 11, 24, 25, 23, 15) with the year-on-year percentage changes underneath. The lesson three readings are highlighted: years 1 to 2 growth (+266.7%), years 3 to 4 maturity (+4.2%) and years 5 to 6 decline (-34.8%)." loading="lazy">
+  <figcaption>The size of the percentage change in sales shows which life-cycle stage a product is in.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-marketing--05-pricing-methods.webp" width="900" height="990" alt="A graph shows skimming starting high and falling, and penetration starting low and rising, both towards the same price. Cost-plus adds a mark-up to cost (6 + 1.5 = 7.5). Competitive pricing matches rivals (5.00, 5.20, 5.10 so 5.10). Promotional pricing is a short-term cut (8 to 6)." loading="lazy">
+  <figcaption>Skimming, penetration, cost-plus, competitive and promotional pricing.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-business-marketing--07-cost-plus-promotion.webp" width="900" height="810" alt="Two stacked bars for a loaf costing 1.80 pounds. With a 50 percent mark-up the price is 2.70, made of cost 1.80 and profit 0.90. A 20 percent promotion removes 0.54, giving a price of 2.16 and a profit of only 0.36. A banner says volume must rise, to about 2.5 times as many loaves for the same profit." loading="lazy">
+  <figcaption>A 20% promotion cuts profit per loaf from 0.90 to 0.36 pounds, so sales volume must rise.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-business-marketing--03-promotion-pos-and-media.webp" width="900" height="1250" alt="Four point-of-sale methods (price reductions, loss leaders sold at or below cost, competitions, free samples) and four advertising media chosen by audience and budget (social media cheap for an age group, television large audience but dearer, local radio for a local shop, print for readers of a magazine)." loading="lazy">
+  <figcaption>Point-of-sale methods work at the till; advertising media are chosen by audience and budget.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-business-marketing--10-place-physical-digital.webp" width="900" height="830" alt="Two columns. Physical channels (shop, stall, delivery) let customers touch the goods but cost rent. Digital channels (website, app, online marketplace) reach customers far away and are open at all hours but customers cannot touch the goods." loading="lazy">
+  <figcaption>Place can be a physical or a digital channel, and each has a trade-off.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-marketing--06-distribution-channels.webp" width="900" height="1060" alt="Three routes from producer to consumer: via wholesaler then retailer, via retailer only, or direct. Longer chains reach many shops but add cost; the direct route keeps the whole margin but means doing the selling yourself." loading="lazy">
+  <figcaption>Channels of distribution from producer to consumer.</figcaption>
+</figure>
+
 
 ## People
 

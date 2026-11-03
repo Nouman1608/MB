@@ -167,12 +167,6 @@ Continuing the same steps for each year:
 
 The income gap widens from 260 - 55 = 205 veld in year 1 to 270.56 - 56.11 = 214.45 veld in year 5. Both households save, yet the one that starts with more gains more in money terms each year. No policy and no wrongdoing is needed for this: the market's own workings widen the gap.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ib-dp-economics-market-inability-to-achieve-equity--13-equity-wealth-snowball.webp" width="900" height="1030" alt="HL only. Capital earns 5 percent a year. Household H10 starts with wealth 800, other income 220 and saves 20 percent of income. Year 1: income 260, saving 52, wealth next year 852. Household H4 starts with wealth 100, other income 50 and saves 10 percent. Year 1: income 55, saving 5.5, wealth next year 105.5. Income bars show the gap widening from 205 in year 1 (260 against 55) to 214.45 in year 5 (270.56 against 56.11), with no policy or wrongdoing needed." loading="lazy">
-  <figcaption>H10 and H4 each save, but the household with more starting wealth gains more each year.</figcaption>
-</figure>
-
-
 ## How to answer an exam question on this
 
 Command terms at AO2 ask you to apply and analyse, so assemble your answer as a chain.
@@ -182,6 +176,12 @@ Command terms at AO2 ask you to apply and analyse, so assemble your answer as a 
 3. Explain two or three causes from the list above, each linked to the diagram.
 4. Include a small example from your own course, with an explanation of what it shows.
 5. Keep to explanation. The guide places this sub-topic at AO2 depth, so stay with the workings of the market rather than arguing for a policy response.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-economics-market-inability-to-achieve-equity--13-equity-wealth-snowball.webp" width="900" height="1030" alt="HL only. Capital earns 5 percent a year. Household H10 starts with wealth 800, other income 220 and saves 20 percent of income. Year 1: income 260, saving 52, wealth next year 852. Household H4 starts with wealth 100, other income 50 and saves 10 percent. Year 1: income 55, saving 5.5, wealth next year 105.5. Income bars show the gap widening from 205 in year 1 (260 against 55) to 214.45 in year 5 (270.56 against 56.11), with no policy or wrongdoing needed." loading="lazy">
+  <figcaption>H10 and H4 each save, but the household with more starting wealth gains more each year.</figcaption>
+</figure>
+
 
 ## Common errors
 

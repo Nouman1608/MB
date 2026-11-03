@@ -46,6 +46,12 @@ and (ax + b) is a factor exactly when f(−b/a) = 0. Use these to find
 factors and remainders, solve polynomial equations and find unknown
 coefficients.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-edexcel-mathematics-pure-mathematics-1--03-quotient-stationary.webp" width="900" height="1060" alt="Two aligned graphs. Top: y = ln x divided by x, which crosses the axis at x = 1, rises to a maximum at (e, 1 over e), about (2.72, 0.37), then falls slowly. Bottom: its gradient dy by dx = (1 minus ln x) over x squared, which is positive before x = e, zero at x = e and negative after. The quotient rule gives (x times 1 over x minus ln x times 1) over x squared." loading="lazy">
+  <figcaption>The quotient rule gives dy/dx = (1 − ln x)/x², which is zero at the maximum x = e.</figcaption>
+</figure>
+
+
 ## 2.2 Logarithms and exponentials — practise as a pair
 
 Convert confidently between **index form** and **logarithmic form** —
@@ -206,12 +212,6 @@ single questions that combine techniques across several sub-topics at
 once, rather than the more isolated sub-topic testing typical of
 Paper 1.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-level-edexcel-mathematics-pure-mathematics-1--01-paper-routes.webp" width="900" height="976" alt="A route map of the pure mathematics papers for four boards. Cambridge 9709: AS Level is Paper 1 plus Paper 2, or Paper 1 plus Paper 4 or 5; A Level is Papers 1 and 3 plus either Papers 4 and 5 or Papers 5 and 6, and Paper 2 never counts towards the A Level. Edexcel International A Level: AS is P1, P2 and one applied unit; A Level is P1 to P4 plus two applied units. OxfordAQA 9660: AS is P1 and PSM1; A Level adds P2 and either S2 or M2. OCR H240: three two-hour papers, each worth one third, with pure mathematics in every one (pure; pure and statistics; pure and mechanics). A colour key shows pure, applied, and mixed papers." loading="lazy">
-  <figcaption>Which pure papers each board requires for AS and A Level.</figcaption>
-</figure>
-
-
 ## Self-test
 
 1. How do you solve an equation involving a modulus, and how does the
@@ -238,3 +238,9 @@ first — this saves time and avoids errors. 5. Because Paper 2
 combines techniques from across multiple sub-topics within a single
 question, rather than testing each sub-topic separately as Paper 1
 more often does.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-edexcel-mathematics-pure-mathematics-1--01-paper-routes.webp" width="900" height="976" alt="A route map of the pure mathematics papers for four boards. Cambridge 9709: AS Level is Paper 1 plus Paper 2, or Paper 1 plus Paper 4 or 5; A Level is Papers 1 and 3 plus either Papers 4 and 5 or Papers 5 and 6, and Paper 2 never counts towards the A Level. Edexcel International A Level: AS is P1, P2 and one applied unit; A Level is P1 to P4 plus two applied units. OxfordAQA 9660: AS is P1 and PSM1; A Level adds P2 and either S2 or M2. OCR H240: three two-hour papers, each worth one third, with pure mathematics in every one (pure; pure and statistics; pure and mechanics). A colour key shows pure, applied, and mixed papers." loading="lazy">
+  <figcaption>Which pure papers each board requires for AS and A Level.</figcaption>
+</figure>
+

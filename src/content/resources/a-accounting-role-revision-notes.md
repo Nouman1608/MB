@@ -153,6 +153,26 @@ payables days       = payables / credit purchases x 365
 
 **Limitations of ratio analysis:** it uses historic data, ignores non-financial factors, is distorted by different accounting policies between firms, is affected by inflation and seasonality, and a single figure can be manipulated by year-end timing.
 
+## Exam traps
+
+- Giving only one effect of an adjustment.
+- Saying depreciation is a cash fund for replacement.
+- Treating installation or delivery costs as revenue expenditure.
+- Quoting a ratio without comparison or interpretation.
+- Assuming a higher current ratio is always better.
+- Treating drawings as an expense — they reduce capital, not profit.
+- Omitting the limitations when a question says "evaluate".
+
+## Self-test
+
+1. State the accounting equation and explain why capital sits with liabilities.
+2. What is the accruals concept, and which adjustments does it drive?
+3. Give both effects of an accrued expense.
+4. What does depreciation actually do, and what are the two common misconceptions?
+5. Why might a high current ratio be a bad sign?
+
+**Answers:** 1. Assets = Capital + Liabilities; under the business entity concept the business is separate from its owner, so capital is treated as owed back to the owner. 2. Income and expenses are recorded when incurred rather than when cash moves; it drives accruals, prepayments, depreciation and provisions. 3. It reduces profit for the year and appears as a current liability in the statement of financial position. 4. It allocates the cost of a non-current asset across its useful life to match cost with the revenue it generates; it is not a fund for replacement and not a measure of the fall in market value. 5. It may indicate excess inventory, slow-collecting receivables, or cash sitting idle instead of being invested productively.
+
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/a-accounting-role-revision-notes--02-high-current-ratio.webp" width="900" height="1040" alt="Two firms share current liabilities of 20,000. Firm X has current assets of 60,000 (ratio 3.0, acid test 2.4) with 30,000 cash; Firm Y has 40,000 (ratio 2.0, acid test 1.4) with 8,000 cash. X holds 22,000 more cash that could be invested." loading="lazy">
   <figcaption>A higher current ratio can mean idle cash, slow receivables or excess stock.</figcaption>
@@ -173,23 +193,3 @@ payables days       = payables / credit purchases x 365
   <figcaption>ROCE divides profit before loan interest by all long-term funds, loans included.</figcaption>
 </figure>
 
-
-## Exam traps
-
-- Giving only one effect of an adjustment.
-- Saying depreciation is a cash fund for replacement.
-- Treating installation or delivery costs as revenue expenditure.
-- Quoting a ratio without comparison or interpretation.
-- Assuming a higher current ratio is always better.
-- Treating drawings as an expense — they reduce capital, not profit.
-- Omitting the limitations when a question says "evaluate".
-
-## Self-test
-
-1. State the accounting equation and explain why capital sits with liabilities.
-2. What is the accruals concept, and which adjustments does it drive?
-3. Give both effects of an accrued expense.
-4. What does depreciation actually do, and what are the two common misconceptions?
-5. Why might a high current ratio be a bad sign?
-
-**Answers:** 1. Assets = Capital + Liabilities; under the business entity concept the business is separate from its owner, so capital is treated as owed back to the owner. 2. Income and expenses are recorded when incurred rather than when cash moves; it drives accruals, prepayments, depreciation and provisions. 3. It reduces profit for the year and appears as a current liability in the statement of financial position. 4. It allocates the cost of a non-current asset across its useful life to match cost with the revenue it generates; it is not a fund for replacement and not a measure of the fall in market value. 5. It may indicate excess inventory, slow-collecting receivables, or cash sitting idle instead of being invested productively.

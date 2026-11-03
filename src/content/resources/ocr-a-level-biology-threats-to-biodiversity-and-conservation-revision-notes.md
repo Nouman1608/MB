@@ -174,6 +174,12 @@ Two data patterns turn up often, so practise describing them.
 9. CITES regulates international trade only, so it does not address habitat destruction.
 10. The Countryside Stewardship Scheme.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-classification-biodiversity-and-conservation--09-genetic-diversity.webp" width="900" height="1210" alt="Two grids of 60 gene loci; split squares are loci with two or more alleles. Before, 18 of 60 vary (30%); later, in a smaller herd, 12 of 60 vary (20%), so fewer alleles are available to adapt with." loading="lazy">
+  <figcaption>Proportion of polymorphic loci = polymorphic loci / total loci.</figcaption>
+</figure>
+
+
 ## Where marks are usually lost
 
 - Giving a percentage without the sign, or reporting a change in percentage points as a percentage.

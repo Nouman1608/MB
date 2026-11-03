@@ -50,12 +50,6 @@ Test yourself afterwards with the [amines practice questions](/resources/oxforda
 
 The **lone pair on N** explains the whole section. It accepts H⁺ (base) and attacks δ+ carbon (nucleophile).
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-amines--01-amine-classes.webp" width="900" height="1050" alt="Four panels show ethylamine (primary, 1 carbon on N), diethylamine (secondary, 2), trimethylamine (tertiary, 3) and the tetramethylammonium ion (quaternary, 4), with the carbons on N highlighted. A last panel shows (CH3)2CHNH2 is primary because only one carbon is on N." loading="lazy">
-  <figcaption>Amines are classed by the number of carbons bonded directly to nitrogen.</figcaption>
-</figure>
-
-
 ## 3.3.11.1 Preparation at a glance
 
 | Product | Starting material | Reagent and conditions | Equation pattern |
@@ -216,6 +210,17 @@ The product from a primary amine is an **N-substituted amide**; the N- shows tha
 10. **Ethanoic acid**, CH₃COOH.
 11. A **positively charged N⁺ head** and a **long hydrocarbon chain**.
 12. (a) **Nucleophilic substitution**; (b) **nucleophilic addition–elimination**.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-amines--01-amine-classes.webp" width="900" height="1050" alt="Four panels show ethylamine (primary, 1 carbon on N), diethylamine (secondary, 2), trimethylamine (tertiary, 3) and the tetramethylammonium ion (quaternary, 4), with the carbons on N highlighted. A last panel shows (CH3)2CHNH2 is primary because only one carbon is on N." loading="lazy">
+  <figcaption>Amines are classed by the number of carbons bonded directly to nitrogen.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-amines--09-protein-structure.webp" width="900" height="1200" alt="Primary: order of amino acids joined by peptide links. Secondary: an alpha-helix or beta-pleated sheet held by hydrogen bonds between peptide links. Tertiary: the whole chain folded in 3D, held by hydrogen bonds and S-S bonds between side chains such as two cysteines." loading="lazy">
+  <figcaption>Primary, secondary and tertiary structure are held by peptide links, backbone hydrogen bonds, and side-chain bonds.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

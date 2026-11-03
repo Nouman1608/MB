@@ -183,6 +183,12 @@ Worked reminder (light gates): a 0.040 m card takes 0.020 s to pass gate 1 and 0
 - Why braking distance grows faster than thinking distance: kinetic energy rises with v², so the work done by the brakes, and the distance needed, rises with v².
 - Why a longer fall improves a g measurement: the timing uncertainty is a smaller fraction of a longer time.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/as-physics-kinematics-equations-of-motion--09-air-resistance-path.webp" width="900" height="930" alt="Two paths for 30 m/s at 45 degrees: with no drag a symmetrical parabola (range 92 m, peak 23 m); with drag a shorter, lower, asymmetric path (range 56 m, peak 17 m) landing slower (20 m/s) and steeper (57 degrees)." loading="lazy">
+  <figcaption>With air resistance the range and height are smaller and the descent is steeper than the ascent.</figcaption>
+</figure>
+
+
 ## Must-know distinctions
 
 - Speed is a scalar; velocity is a vector. Average speed and average velocity differ when direction changes.

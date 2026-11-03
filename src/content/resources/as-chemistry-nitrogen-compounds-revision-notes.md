@@ -138,17 +138,6 @@ Nucleophilic addition of CN⁻ to the carbonyl carbon, then protonation of the r
 
 **That is direct evidence for the shape of the carbonyl compound (planar, trigonal) rather than the intermediate formed after attack** — the alkoxide intermediate produced once CN⁻ has added is tetrahedral, not planar. Explaining the racemic outcome in terms of the planar carbonyl reactant, rather than just stating "a racemate forms," is what distinguishes a top answer.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-aldehydes-and-ketones--05-cyanide-mechanism.webp" width="900" height="1300" alt="The lone pair on the carbon of CN- attacks the carbonyl carbon of ethanal, and the C=O bond moves onto oxygen. The O- then takes H+ from dilute acid to give 2-hydroxypropanenitrile, numbered from the nitrile carbon." loading="lazy">
-  <figcaption>CN- attacks with its carbon, then O- is protonated, giving a hydroxynitrile one carbon longer.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-aldehydes-and-ketones--06-racemic-product.webp" width="900" height="1290" alt="Ethanal lies in a flat plane and cyanide can attack from above or below with equal probability. The two attacks give two mirror-image products, shown with wedge and dash bonds. Propanone, with two identical CH3 groups, gives no chiral centre." loading="lazy">
-  <figcaption>Equal attack from both faces of the planar C=O gives equal amounts of two enantiomers, a racemic mixture.</figcaption>
-</figure>
-
-
 ## Exam traps
 
 - Forgetting excess ammonia when preparing a primary amine.
@@ -174,3 +163,14 @@ Nucleophilic addition of CN⁻ to the carbonyl carbon, then protonation of the r
 7. Why is phenylamine a weaker base than ammonia?
 
 **Answers:** 1. The primary amine formed is itself nucleophilic and reacts further to give secondary, tertiary and quaternary amines; excess ammonia reduces the chance of this. 2. They add a carbon atom to the chain, and can then be hydrolysed to a carboxylic acid (or, at A Level, reduced to an amine). 3. The carbonyl carbon is planar, so the cyanide ion attacks with equal probability from either face; in butanone the two groups on the carbonyl carbon (methyl and ethyl) differ, so the product carbon has four different groups and the two faces give equal amounts of the two enantiomers. Propanone has two identical methyl groups, so its product, 2-hydroxy-2-methylpropanenitrile, has no chiral centre and either face gives the same molecule. 4. Mechanism depends on the substrate, not the nucleophile: a halogenoalkane has a leaving group at an sp³ carbon (substitution), while a carbonyl compound has a π bond to add across at an sp² carbon with nothing to leave (addition). 5. A halogenoalkane cannot be converted directly into a carbonyl compound, so it must first be hydrolysed to an alcohol, then oxidised to an aldehyde or ketone, before HCN can add to it. 6. *(A Level extension)* Two electron-donating alkyl groups increase the electron density on nitrogen, making the lone pair more available to accept a proton. 7. *(A Level extension)* Its nitrogen lone pair is delocalised into the benzene ring, so it is much less available to accept a proton.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-aldehydes-and-ketones--05-cyanide-mechanism.webp" width="900" height="1300" alt="The lone pair on the carbon of CN- attacks the carbonyl carbon of ethanal, and the C=O bond moves onto oxygen. The O- then takes H+ from dilute acid to give 2-hydroxypropanenitrile, numbered from the nitrile carbon." loading="lazy">
+  <figcaption>CN- attacks with its carbon, then O- is protonated, giving a hydroxynitrile one carbon longer.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-aldehydes-and-ketones--06-racemic-product.webp" width="900" height="1290" alt="Ethanal lies in a flat plane and cyanide can attack from above or below with equal probability. The two attacks give two mirror-image products, shown with wedge and dash bonds. Propanone, with two identical CH3 groups, gives no chiral centre." loading="lazy">
+  <figcaption>Equal attack from both faces of the planar C=O gives equal amounts of two enantiomers, a racemic mixture.</figcaption>
+</figure>
+

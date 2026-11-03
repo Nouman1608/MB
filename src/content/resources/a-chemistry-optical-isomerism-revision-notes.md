@@ -168,22 +168,6 @@ Advantages:
 - **less waste** of starting materials and product, so lower cost,
 - a purer drug with fewer potential side effects.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-chemistry-optical-isomerism-revision-notes--06-opt-racemate-formation.webp" width="900" height="1030" alt="Propanal has a planar carbonyl carbon at 120 degrees. CN- attacks from either face with equal probability, giving the two mirror-image forms of 2-hydroxybutanenitrile in a 1 : 1 racemic mixture." loading="lazy">
-  <figcaption>CN- adds equally from both faces of the flat C=O, so a racemic mixture forms.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-chemistry-optical-isomerism-revision-notes--07-opt-receptor-fit.webp" width="900" height="740" alt="A receptor site with three binding places. Enantiomer A fits all three; its mirror image B fits only one, so only the matching enantiomer binds. A racemic drug has half its molecules able to fit." loading="lazy">
-  <figcaption>Only one enantiomer fits a chiral receptor, so the other may be less active.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-chemistry-optical-isomerism-revision-notes--09-opt-synthesis-routes.webp" width="900" height="940" alt="Two rows of 20 product molecules. An ordinary synthesis gives 10 wanted and 10 unwanted enantiomers, which are hard to separate and half are wasted. A chiral catalyst gives mainly one isomer directly (idealised as all 20)." loading="lazy">
-  <figcaption>A chiral catalyst avoids separation and waste; an ordinary route gives a 50 : 50 racemate.</figcaption>
-</figure>
-
-
 ## Exam traps
 
 - A chiral centre needs **four different groups**. Two identical groups (two CH₃, or two H) on the
@@ -236,3 +220,19 @@ Advantages:
 *These are original notes written for revision. Drug examples are given for illustration of the
 syllabus ideas only. Check the full syllabus wording in the
 [official 9701 syllabus](https://www.cambridgeinternational.org/Images/664563-2025-2027-syllabus.pdf).*
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-chemistry-optical-isomerism-revision-notes--06-opt-racemate-formation.webp" width="900" height="1030" alt="Propanal has a planar carbonyl carbon at 120 degrees. CN- attacks from either face with equal probability, giving the two mirror-image forms of 2-hydroxybutanenitrile in a 1 : 1 racemic mixture." loading="lazy">
+  <figcaption>CN- adds equally from both faces of the flat C=O, so a racemic mixture forms.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-chemistry-optical-isomerism-revision-notes--07-opt-receptor-fit.webp" width="900" height="740" alt="A receptor site with three binding places. Enantiomer A fits all three; its mirror image B fits only one, so only the matching enantiomer binds. A racemic drug has half its molecules able to fit." loading="lazy">
+  <figcaption>Only one enantiomer fits a chiral receptor, so the other may be less active.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-chemistry-optical-isomerism-revision-notes--09-opt-synthesis-routes.webp" width="900" height="940" alt="Two rows of 20 product molecules. An ordinary synthesis gives 10 wanted and 10 unwanted enantiomers, which are hard to separate and half are wasted. A chiral catalyst gives mainly one isomer directly (idealised as all 20)." loading="lazy">
+  <figcaption>A chiral catalyst avoids separation and waste; an ordinary route gives a 50 : 50 racemate.</figcaption>
+</figure>
+

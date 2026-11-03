@@ -66,6 +66,12 @@ the meaning of market failure, public and private goods, positive and
 negative externalities, merit and demerit goods, market imperfections,
 government intervention, and government failure
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-economics-government-microeconomic-intervention--02-subsidy-incidence.webp" width="900" height="890" alt="Supply and demand diagram where a subsidy of 2 per unit shifts supply down from S1 to S2. Quantity rises from 50 to 60, the consumer price falls from 5 to 3.8 (gain 1.2 a unit) and the producer receives 5.8 (gain 0.8 a unit). The government pays 2 a unit." loading="lazy">
+  <figcaption>A subsidy lowers the price consumers pay and raises what producers receive; the split depends on elasticity.</figcaption>
+</figure>
+
+
 ## How to approach it
 
 Economic methodology (3.1.1) sets up the reasoning style examiners

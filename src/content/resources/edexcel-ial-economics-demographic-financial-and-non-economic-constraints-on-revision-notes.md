@@ -42,6 +42,12 @@ All figures are invented and illustrative.
 | Corruption | Abuse of public office for private gain |
 | Governance | Quality of rules, courts, property rights and public administration |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-demographic-financial-and-non-economic-constraints-on--04-brain-drain-remittances.webp" width="900" height="830" alt="Icons for 12,000 engineers with 1,500 emigrating (12.5%) and a bar showing remittances of 1.2bn as 4% of 30bn GDP. 1 icon = 500; 24 icons, 3 leave; 1.2/30=4%." loading="lazy">
+  <figcaption>Brain drain removes 12.5% of engineers while remittances add 4% of GDP.</figcaption>
+</figure>
+
+
 ## Constraints at a glance
 
 | Constraint | How it limits growth or development | Evaluation hook |
@@ -67,6 +73,11 @@ All figures are invented and illustrative.
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/edexcel-ial-economics-demographic-financial-and-non-economic-constraints-on--05-household-debt-interest.webp" width="900" height="910" alt="Bars compare income 20,000 with debt 26,000 (130%) and interest of 1,300 at 5% against 2,080 at 8%. 26,000/20,000=130%; 1,300; 2,080; extra 780 = 3.9% of income." loading="lazy">
   <figcaption>Higher interest on household debt takes an extra 3.9% of income.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-demographic-financial-and-non-economic-constraints-on--07-terrorism-tourism-multiplier.webp" width="900" height="820" alt="Arrivals fall 25%, a direct loss of 180m grows to 288m with a multiplier of 1.6; security spending diverts 1.5bn. 200,000 x 900=180m; 1/0.625=1.6; 180x1.6=288m; (5%-2%) of 50bn=1.5bn." loading="lazy">
+  <figcaption>Fewer tourists cut spending by 180m, and the multiplier raises the fall in income to 288m.</figcaption>
 </figure>
 
 <figure class="topic-figure">
@@ -108,6 +119,16 @@ Household: repayments 1,000 from income 4,000 gives a household debt-service rat
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/edexcel-ial-economics-demographic-financial-and-non-economic-constraints-on--10-population-growth-per-person.webp" width="900" height="910" alt="Natural increase 2.3% less 0.3% net emigration gives 2.0% population growth; of 3.5% GDP growth about 2.0 is absorbed by extra people, leaving about 1.47% per person; doubling time 35 years." loading="lazy">
   <figcaption>Population growth absorbs much of GDP growth, leaving less per person.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-demographic-financial-and-non-economic-constraints-on--11-credit-bank-vs-informal.webp" width="900" height="960" alt="A pump costing 600 earns 150 a year: with an 18% bank loan interest is 108 and net gain 42; with 10% a month (213.8% a year) interest is about 1,283 and the net loss about 1,133." loading="lazy">
+  <figcaption>Unaffordable informal credit stops profitable investments from being made.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-demographic-financial-and-non-economic-constraints-on--12-civil-war-output-gap.webp" width="900" height="920" alt="A real GDP index falls 8, 15, 10, 6 and 4 percent over five years to 63.5, against 115.9 on a 3% trend: a gap of 52.4, 45.2% of potential." loading="lazy">
+  <figcaption>War leaves output far below trend and the gap persists after the fighting stops.</figcaption>
 </figure>
 
 

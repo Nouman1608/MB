@@ -322,6 +322,12 @@ BaCl₂(aq) + Na₂SO₄(aq) → BaSO₄(s) + 2NaCl(aq)
 3. Wash it on the filter paper with distilled water to remove the soluble sodium chloride.
 4. Dry it in a warm oven or between filter papers.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/acids-bases-and-salts--08-precipitation.webp" width="900" height="1040" alt="Two clear solutions, silver nitrate and sodium chloride, are mixed and white solid silver chloride forms. It is filtered, washed with water and dried, with no evaporation. The equation is balanced." loading="lazy">
+  <figcaption>An insoluble salt is made by mixing solutions, then filtering, washing and drying.</figcaption>
+</figure>
+
+
 ## Practical: lead(II) sulfate (2.43C, Paper 2 only)
 
 Mix lead(II) nitrate solution with dilute sulfuric acid (or any soluble sulfate). White lead(II) sulfate precipitates. Filter, wash with distilled water, and dry in a warm oven.

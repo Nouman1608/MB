@@ -139,17 +139,6 @@ A box plot uses five numbers, in order along a number line:
 
 **Comparing two box plots:** compare medians (typical value), then IQRs (consistency), then say what this means in context.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ocr-gcse-mathematics-analysing-data-averages-spread-box-plots--01-compare-two-box-plots.webp" width="900" height="870" alt="Two box plots on one scale for test scores out of 40. Class A runs 13 to 38 with median 25 and IQR 12. Class B runs 19 to 32 with median 26 and IQR 7. B has the higher median and the narrower box." loading="lazy">
-  <figcaption>Compare medians for typical value and IQRs for consistency.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/aqa-gcse-maths-8300-statistics--11-box-plot-build.webp" width="900" height="760" alt="Eleven ordered values from 3 to 22 sit on a number line. The 3rd value 6 is the lower quartile, the 6th value 10 is the median and the 9th value 15 is the upper quartile. The box runs from 6 to 15 with a line at 10, and whiskers reach 3 and 22, so the IQR is 9 and the range is 19." loading="lazy">
-  <figcaption>Pick the minimum, three quartiles and maximum from the ordered list and draw them on one scale.</figcaption>
-</figure>
-
-
 ## 12.03b Misrepresentation: checklist
 
 | Feature | Effect |
@@ -162,6 +151,17 @@ A box plot uses five numbers, in order along a number line:
 | Selected time period only | Hides the wider pattern |
 
 State the feature and its effect.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-mathematics-analysing-data-averages-spread-box-plots--01-compare-two-box-plots.webp" width="900" height="870" alt="Two box plots on one scale for test scores out of 40. Class A runs 13 to 38 with median 25 and IQR 12. Class B runs 19 to 32 with median 26 and IQR 7. B has the higher median and the narrower box." loading="lazy">
+  <figcaption>Compare medians for typical value and IQRs for consistency.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-maths-8300-statistics--11-box-plot-build.webp" width="900" height="760" alt="Eleven ordered values from 3 to 22 sit on a number line. The 3rd value 6 is the lower quartile, the 6th value 10 is the median and the 9th value 15 is the upper quartile. The box runs from 6 to 15 with a line at 10, and whiskers reach 3 and 22, so the IQR is 9 and the range is 19." loading="lazy">
+  <figcaption>Pick the minimum, three quartiles and maximum from the ordered list and draw them on one scale.</figcaption>
+</figure>
+
 
 ## 12.03c Scatter graphs
 
@@ -189,6 +189,16 @@ State the feature and its effect.
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/oxfordaqa-igcse-mathematics-interpreting-graphs-comparing-distributions-and--02-misleading-axis.webp" width="900" height="1010" alt="Two bar charts of A = 52 and B = 56. With the axis starting at 50, B looks three times as tall as A. With the axis starting at 0, B is about 1.08 times A." loading="lazy">
   <figcaption>A vertical axis that does not start at zero exaggerates differences.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-statistics--04-correlation-types.webp" width="900" height="1010" alt="Three scatter diagrams: positive correlation (y rises with x), negative correlation (y falls as x rises) and zero correlation (no pattern, so no line of best fit)." loading="lazy">
+  <figcaption>Judge the correlation by eye before drawing any line.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-mathematics-scatter-diagrams-correlation-and-cumulative-frequency--03-using-the-line.webp" width="900" height="870" alt="The line of best fit gives about 10.3 thousand dollars at age 6.5. A triangle shows a drop of 2.85 over 2 years, gradient -1.425, so the value falls about 1 400 dollars a year. Beyond age 9 the line is dotted in a shaded region marked outside the data; age 12 gives about 2.4, which is unreliable." loading="lazy">
+  <figcaption>Readings inside the data are reliable; extending the line beyond age 9 is not.</figcaption>
 </figure>
 
 

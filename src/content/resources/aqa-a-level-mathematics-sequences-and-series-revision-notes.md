@@ -139,6 +139,12 @@ Worked reminders:
 2. Solve |r| < 1, that is −1 < r < 1.
 3. Give the range of x; only then use S∞.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-maths-9709-pure-mathematics-1-series--02-ap-sum-pairing.webp" width="900" height="1070" alt="The series 3 + 7 + 11 + 15 + 19 + 23 + 27, written as the sum from r = 1 to 7 of (4r minus 1), is drawn as seven columns. Each column stacks a term on the term in the reversed order and every column totals 30, the first term plus the last. Seven columns of 30 give twice the sum, 210, so the sum is 105." loading="lazy">
+  <figcaption>Pairing each term with its reverse shows why S_n = half n times (a + l).</figcaption>
+</figure>
+
+
 ## D6 -- Modelling
 
 | Situation | Model |
@@ -196,6 +202,17 @@ Always say what n counts and whether term 1 is "now" or "after one step". Name o
 11. x₂ = 4, x₃ = 5
 12. |x| < 3/2
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-maths-9709-pure-mathematics-1-series--03-gp-sum-to-infinity.webp" width="900" height="1030" alt="A graph of the partial sums of 81 + 54 + 36 + ... (first term 81, ratio 2/3) for n = 1 to 20. The points rise then flatten towards a dashed line at 243, the sum to infinity. At n = 5 the sum is 211, a gap of 32. The gap 243(2/3)^n first drops below 1 at n = 14." loading="lazy">
+  <figcaption>Partial sums of a convergent geometric series level off at S_infinity = a/(1 - r).</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-maths-9709-pure-mathematics-1-series--04-gp-convergence.webp" width="900" height="1230" alt="Four stem plots of the first eight terms of a geometric series with first term 1. For r = 0.6 and r = minus 0.6 the terms shrink to zero (convergent). For r = 1.2 and r = minus 1.2 they grow (divergent). A number line shows convergence exactly when r is between minus 1 and 1." loading="lazy">
+  <figcaption>A geometric series has a sum to infinity only when |r| &lt; 1.</figcaption>
+</figure>
+
+
 ## Where marks are usually lost
 
 - Writing (2x)³ as 2x³ inside a binomial term, which makes that coefficient wrong and loses the accuracy mark.
@@ -207,12 +224,6 @@ Always say what n counts and whether term 1 is "now" or "after one step". Name o
 - Miscounting terms in sigma notation that does not start at r = 1.
 - Losing the minus sign in r when solving r³ = negative number.
 - In models, giving an answer with no context or units, or calling a geometric model "linear".
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-level-maths-9709-pure-mathematics-1-series--04-gp-convergence.webp" width="900" height="1230" alt="Four stem plots of the first eight terms of a geometric series with first term 1. For r = 0.6 and r = minus 0.6 the terms shrink to zero (convergent). For r = 1.2 and r = minus 1.2 they grow (divergent). A number line shows convergence exactly when r is between minus 1 and 1." loading="lazy">
-  <figcaption>A geometric series has a sum to infinity only when |r| &lt; 1.</figcaption>
-</figure>
-
 
 ## Next steps
 

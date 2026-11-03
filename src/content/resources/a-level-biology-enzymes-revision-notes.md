@@ -60,12 +60,6 @@ inhibitor concentration. For each: describe the investigation AND explain the me
 **Temperature** — rate rises to an optimum (more kinetic energy, more collisions), then falls sharply
 past it (enzyme denatures, active site shape disrupted).
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-level-biology-9700-factors-that-affect-enzyme-action--05-temperature-ph.webp" width="900" height="1140" alt="Two graphs. Temperature: rate rises to an optimum a little below 45 degrees Celsius then falls steeply as the active site is distorted and the enzyme denatured. pH: a bell-shaped curve with an optimum near 7; at low and high pH charges on R groups change. A buffer holds pH constant." loading="lazy">
-  <figcaption>Away from the optimum, the active site changes shape so fewer enzyme-substrate complexes form.</figcaption>
-</figure>
-
-
 ## Michaelis-Menten kinetics
 
 **Vmax** (maximum rate) is used to derive **Km** (Michaelis-Menten constant): the substrate
@@ -97,11 +91,6 @@ Anchor the distinction here, not in memorised mechanism descriptions.
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/a-level-biology-9700-factors-that-affect-enzyme-action--07-inhibitor-types.webp" width="900" height="1060" alt="Three rows. No inhibitor: substrate fits the active site. Competitive: an inhibitor with a similar shape sits in the active site, blocking the substrate; more substrate out-competes it. Non-competitive: the inhibitor binds elsewhere and reshapes the active site, so extra substrate does not help." loading="lazy">
   <figcaption>Competitive inhibitors compete for the active site; non-competitive inhibitors bind elsewhere and change its shape.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-level-biology-9700-factors-that-affect-enzyme-action--08-inhibitor-graphs.webp" width="900" height="1090" alt="Rate against substrate concentration for no inhibitor (Vmax 40, Km 2.5), a competitive inhibitor (same Vmax, Km about 10) and a non-competitive inhibitor (Vmax 20, same Km). Bars show competitive inhibition cutting the rate to 29% of normal at low substrate but only to 82% at high substrate, while non-competitive inhibition gives 50% at both." loading="lazy">
-  <figcaption>Competitive inhibition keeps Vmax and raises Km; non-competitive inhibition lowers Vmax and leaves Km unchanged.</figcaption>
 </figure>
 
 
@@ -179,6 +168,17 @@ binds effectively. 3. A lower Km indicates higher affinity — the enzyme reache
 at a lower substrate concentration. 4. Whether increasing substrate concentration reduces the
 inhibitor's effect (yes = competitive, no = non-competitive). 5. The enzyme can be recovered and
 reused, and the product is not contaminated with enzyme.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-factors-that-affect-enzyme-action--05-temperature-ph.webp" width="900" height="1140" alt="Two graphs. Temperature: rate rises to an optimum a little below 45 degrees Celsius then falls steeply as the active site is distorted and the enzyme denatured. pH: a bell-shaped curve with an optimum near 7; at low and high pH charges on R groups change. A buffer holds pH constant." loading="lazy">
+  <figcaption>Away from the optimum, the active site changes shape so fewer enzyme-substrate complexes form.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-factors-that-affect-enzyme-action--08-inhibitor-graphs.webp" width="900" height="1090" alt="Rate against substrate concentration for no inhibitor (Vmax 40, Km 2.5), a competitive inhibitor (same Vmax, Km about 10) and a non-competitive inhibitor (Vmax 20, same Km). Bars show competitive inhibition cutting the rate to 29% of normal at low substrate but only to 82% at high substrate, while non-competitive inhibition gives 50% at both." loading="lazy">
+  <figcaption>Competitive inhibition keeps Vmax and raises Km; non-competitive inhibition lowers Vmax and leaves Km unchanged.</figcaption>
+</figure>
+
 
 ## Official syllabus
 

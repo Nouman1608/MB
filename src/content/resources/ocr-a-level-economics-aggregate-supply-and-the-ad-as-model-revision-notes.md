@@ -90,11 +90,6 @@ Memory line: neo-classical means the long run is supply; Keynesian means spendin
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ocr-a-level-economics-aggregate-supply-and-the-ad-as-model--06-lras-sras-both-right.webp" width="900" height="940" alt="With AD fixed, LRAS shifts from 440 to 464 and SRAS from 6P minus 160 to 6P minus 100. Equilibrium moves from price 100 and output 440 to price 94 and output 464." loading="lazy">
-  <figcaption>When capacity and costs both improve, output rises and the price level falls.</figcaption>
-</figure>
-
-<figure class="topic-figure">
   <img src="https://img.marlbridge.com/ib-dp-economics-macroeconomics-measuring-and-managing-the-economy--06-shifts-of-sras.webp" width="900" height="900" alt="With AD fixed, a leftward SRAS shift (higher costs) cuts output from 120 to 90 and raises the price level from 80 to 95. A rightward shift raises output to 150 and lowers prices to 65." loading="lazy">
   <figcaption>A change in production costs, productivity or capacity shifts AS.</figcaption>
 </figure>
@@ -177,6 +172,11 @@ Memory line: neo-classical means the long run is supply; Keynesian means spendin
   <figcaption>Nominal GDP growth combines real growth and inflation.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-aggregate-supply-and-the-ad-as-model--06-lras-sras-both-right.webp" width="900" height="940" alt="With AD fixed, LRAS shifts from 440 to 464 and SRAS from 6P minus 160 to 6P minus 100. Equilibrium moves from price 100 and output 440 to price 94 and output 464." loading="lazy">
+  <figcaption>When capacity and costs both improve, output rises and the price level falls.</figcaption>
+</figure>
+
 
 ## Assumptions and limits of AD/AS
 
@@ -196,12 +196,6 @@ Memory line: neo-classical means the long run is supply; Keynesian means spendin
 | Need sustained growth | LRAS too low | Supply-side policies |
 
 Evaluate: demand-side is quick but needs spare capacity; supply-side is lasting but slow and costly.
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ocr-a-level-economics-aggregate-supply-and-the-ad-as-model--08-adas-policy-from-data.webp" width="900" height="1010" alt="Scatter of three invented economies with output compared with potential (percent) across and inflation (percent) up; bubble size shows unemployment. Country P is 4 percent below potential with inflation 0.5 percent and unemployment 9.0 percent: weak AD, so raise AD. Country Q is 3 percent above potential with inflation 5.5 percent and unemployment 3.5 percent: AD pushes past capacity, so restrain AD or raise capacity. Country R is 3 percent below potential with inflation 6.0 percent and unemployment 8.0 percent: low output with high inflation suggests SRAS has shifted left, so cut costs or raise productivity." loading="lazy">
-  <figcaption>Output gap, inflation and unemployment point to different policies for each of three invented economies.</figcaption>
-</figure>
-
 
 ## Quick self-test
 
@@ -232,6 +226,12 @@ Evaluate: demand-side is quick but needs spare capacity; supply-side is lasting 
 10. P = 110 (**+10.0%**), output = 630 (**+5.0%**).
 11. Firms have idle capacity, so extra demand is met by more output at similar unit costs.
 12. It assumes a single price level, static curves and no expectations, so it cannot show timing or distribution.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-aggregate-supply-and-the-ad-as-model--08-adas-policy-from-data.webp" width="900" height="1010" alt="Scatter of three invented economies with output compared with potential (percent) across and inflation (percent) up; bubble size shows unemployment. Country P is 4 percent below potential with inflation 0.5 percent and unemployment 9.0 percent: weak AD, so raise AD. Country Q is 3 percent above potential with inflation 5.5 percent and unemployment 3.5 percent: AD pushes past capacity, so restrain AD or raise capacity. Country R is 3 percent below potential with inflation 6.0 percent and unemployment 8.0 percent: low output with high inflation suggests SRAS has shifted left, so cut costs or raise productivity." loading="lazy">
+  <figcaption>Output gap, inflation and unemployment point to different policies for each of three invented economies.</figcaption>
+</figure>
+
 
 ## Evaluating the model itself
 

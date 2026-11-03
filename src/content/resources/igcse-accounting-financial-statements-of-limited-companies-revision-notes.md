@@ -99,6 +99,11 @@ These revision notes condense syllabus section 5.3 Limited companies from the Ca
 3. **Statement of financial position.** Non-current assets at cost, accumulated depreciation and carrying value; current assets; equity copied from step 2; debentures as non-current liabilities; current liabilities including other payables for accrued interest. Total assets must equal total equity and liabilities.
 
 <figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-accounting-financial-statements-of-limited-companies--02-lc-types-of-company.webp" width="900" height="850" alt="Four cards show how the statement of profit or loss starts for trading, service, manufacturing and combination companies. Trading deducts cost of sales to reach gross profit, service has fees and expenses with no cost of sales, and manufacturing uses factory cost in place of purchases." loading="lazy">
+  <figcaption>The activity of the company decides how its statement of profit or loss begins.</figcaption>
+</figure>
+
+<figure class="topic-figure">
   <img src="https://img.marlbridge.com/aqa-a-level-accounting-accounting-for-limited-companies--02-three-profit-lines.webp" width="900" height="970" alt="A waterfall for Brackwood Joinery Ltd takes revenue 612,000 down through cost of sales to gross profit 264,700, then operating expenses to profit from operations 63,100, finance costs to profit before tax 59,500 and tax to profit after tax 38,500. Dividends are not an expense and do not appear." loading="lazy">
   <figcaption>Companies show three profit lines; dividends are not an expense.</figcaption>
 </figure>
@@ -180,12 +185,6 @@ Suppose the accounts of a company leave out each item below. Each line is indepe
 - Issued, called-up and paid-up are three different figures.
 - Statement of financial position equity uses closing balances, not opening ones.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-accounting-financial-statements-of-limited-companies--06-issued-called-paid-up.webp" width="900" height="730" alt="Three bars to one scale show issued capital of 60,000 dollars, called-up capital of 48,000 dollars (12,000 not yet called) and paid-up capital of 46,800 dollars after 1,200 dollars unpaid on 3,000 shares." loading="lazy">
-  <figcaption>Issued, called-up and paid-up capital are three different figures.</figcaption>
-</figure>
-
-
 ## Quick self-test
 
 1. What is the most a shareholder can lose if all their shares are fully paid?
@@ -202,6 +201,16 @@ Suppose the accounts of a company leave out each item below. Each line is indepe
 ### Answers
 
 1. The amount invested in the shares. 2. $96,000 - &#36;31,500 = &#36;64,500. 3. Preference share capital, ordinary share capital, general reserve, retained earnings. 4. Issued &#36;45,000; called-up &#36;27,000; paid-up &#36;27,000 - (2,000 x &#36;0.30) = &#36;26,400. 5. Finance costs in the statement of profit or loss, after profit from operations. 6. Interest &#36;2,800, so &#36;36,400 - &#36;2,800 = &#36;33,600. 7. None; it moves between reserves. 8. Non-current liabilities. 9. &#36;22,000 + &#36;15,000 - &#36;2,000 - &#36;1,200 - &#36;6,000 = &#36;27,800. 10. The statement of changes in equity.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-accounting-financial-statements-of-limited-companies--05-limited-liability.webp" width="900" height="770" alt="A failed company owes 70,000 dollars and its assets raise 30,000, a shortfall of 40,000. A fully paid shareholder loses only the 5,000 invested; a sole trader must find the 40,000 from private funds." loading="lazy">
+  <figcaption>Limited liability stops creditors reaching shareholders' private assets.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-accounting-financial-statements-of-limited-companies--06-issued-called-paid-up.webp" width="900" height="730" alt="Three bars to one scale show issued capital of 60,000 dollars, called-up capital of 48,000 dollars (12,000 not yet called) and paid-up capital of 46,800 dollars after 1,200 dollars unpaid on 3,000 shares." loading="lazy">
+  <figcaption>Issued, called-up and paid-up capital are three different figures.</figcaption>
+</figure>
 
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/aqa-a-level-accounting-accounting-for-limited-companies--04-both-sides-balance.webp" width="900" height="790" alt="Two columns of 367,900 pounds compare assets (premises 206,400, machinery 43,200, current assets 118,300) with equity and liabilities (share capital 150,000, share premium 40,000, retained earnings 56,700, debentures 60,000, current liabilities 61,200)." loading="lazy">

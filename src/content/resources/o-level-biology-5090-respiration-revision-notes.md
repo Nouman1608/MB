@@ -179,22 +179,6 @@ Describe first, then explain. "Describe" wants the pattern with data; "explain" 
 
 **Measuring the debt.** Subtract the resting oxygen uptake from each value after exercise, then add the differences. The total is the extra oxygen used, which is the size of the debt.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/o-level-biology-5090-respiration--02-oxygen-debt-calculation.webp" width="900" height="1000" alt="Bars show oxygen uptake of 2.10, 1.40, 0.90, 0.60, 0.40 and 0.30 dm3 per minute over six minutes after a sprint, with a dashed resting line at 0.30. The gold part above the line is the extra oxygen: 1.80, 1.10, 0.60, 0.30, 0.10 and 0.00, adding to a debt of 3.90 dm3." loading="lazy">
-  <figcaption>The oxygen debt is the total extra oxygen used above the resting rate.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/o-level-biology-5090-respiration--02-lactic-acid-buildup.webp" width="900" height="1000" alt="Heart and lungs supply oxygen to a working muscle too slowly. The muscle also respires anaerobically, lactic acid builds up and passes into the blood, and oxygen is needed afterwards: the oxygen debt (EPOC)." loading="lazy">
-  <figcaption>Oxygen cannot reach hard-working muscles fast enough, so lactic acid builds up.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-biology-0610-respiration--05-oxygen-debt.webp" width="900" height="1290" alt="Extended. Lactic acid built up in the muscles is carried by the blood, driven by a fast heart rate, to the liver, where it is broken down by aerobic respiration using extra oxygen supplied by deeper, faster breathing. Charts of the cyclist example show heart rate 64, 172, 118, 66 and breathing rate 14, 40, 26, 15 at rest, end of sprint, 5 and 15 minutes after." loading="lazy">
-  <figcaption>Fast heart rate moves lactic acid to the liver and fast breathing supplies the oxygen to break it down.</figcaption>
-</figure>
-
-
 ## Quick self-test
 
 1. Describe respiration.
@@ -224,6 +208,22 @@ Describe first, then explain. "Describe" wants the pattern with data; "explain" 
 10. Differences: 1.00 + 0.50 + 0.20 + 0.00 = **1.70 dm³**.
 11. To transport lactic acid in the blood from the muscles to the liver.
 12. The enzymes that control respiration are denatured, so the reactions stop.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-biology-5090-respiration--02-oxygen-debt-calculation.webp" width="900" height="1000" alt="Bars show oxygen uptake of 2.10, 1.40, 0.90, 0.60, 0.40 and 0.30 dm3 per minute over six minutes after a sprint, with a dashed resting line at 0.30. The gold part above the line is the extra oxygen: 1.80, 1.10, 0.60, 0.30, 0.10 and 0.00, adding to a debt of 3.90 dm3." loading="lazy">
+  <figcaption>The oxygen debt is the total extra oxygen used above the resting rate.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-biology-5090-respiration--02-lactic-acid-buildup.webp" width="900" height="1000" alt="Heart and lungs supply oxygen to a working muscle too slowly. The muscle also respires anaerobically, lactic acid builds up and passes into the blood, and oxygen is needed afterwards: the oxygen debt (EPOC)." loading="lazy">
+  <figcaption>Oxygen cannot reach hard-working muscles fast enough, so lactic acid builds up.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-respiration--05-oxygen-debt.webp" width="900" height="1290" alt="Extended. Lactic acid built up in the muscles is carried by the blood, driven by a fast heart rate, to the liver, where it is broken down by aerobic respiration using extra oxygen supplied by deeper, faster breathing. Charts of the cyclist example show heart rate 64, 172, 118, 66 and breathing rate 14, 40, 26, 15 at rest, end of sprint, 5 and 15 minutes after." loading="lazy">
+  <figcaption>Fast heart rate moves lactic acid to the liver and fast breathing supplies the oxygen to break it down.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

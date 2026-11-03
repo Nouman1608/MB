@@ -69,12 +69,6 @@ changing acceleration before reaching for SUVAT automatically.
 - For a velocity-time graph with a curve rather than a straight line, finding the area (displacement)
   requires estimating the area under the curve, since it is no longer a simple triangle or rectangle.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ib-dp-physics-kinematics--04-motion-graphs-together.webp" width="900" height="960" alt="One journey drawn as aligned s-t and v-t graphs: speeding up (curve, a = +2), steady 6 m/s (straight line, gradient 18 m / 3 s), slowing (a = -3). The areas 9, 18 and 6 m total 33 m, the end of the s-t graph." loading="lazy">
-  <figcaption>Gradient of s-t is velocity; area under v-t is displacement.</figcaption>
-</figure>
-
-
 ## Vectors versus scalars in practice
 
 The distinction in the table above is not just definitional — it determines which equations you
@@ -86,13 +80,8 @@ at the same point it was thrown from — is zero. Always identify which of the t
 actually asking for before substituting into an equation.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ib-dp-physics-kinematics--01-distance-vs-displacement.webp" width="900" height="850" alt="A ball is thrown up 5.0 m and caught where it started. The distance is 10 m and the average speed 4.95 m/s (scalars); taking up as positive, the displacement is +5.0 minus 5.0 = 0, so the displacement and average velocity are zero (vectors)." loading="lazy">
-  <figcaption>Distance and speed are scalars; displacement and velocity are vectors and can be zero for a return journey.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ib-dp-physics-kinematics--02-signs-in-vertical-motion.webp" width="900" height="1010" alt="The v-t graph of the thrown ball is one straight line from +9.9 to -9.9 m/s, gradient -9.81 m/s squared throughout, even at the top. Area above the axis is +5.0 m and below is -5.0 m, so total displacement is zero." loading="lazy">
-  <figcaption>With up positive the ball has a negative acceleration all the time, and signed areas give displacement.</figcaption>
+  <img src="https://img.marlbridge.com/ib-dp-physics-kinematics--04-motion-graphs-together.webp" width="900" height="960" alt="One journey drawn as aligned s-t and v-t graphs: speeding up (curve, a = +2), steady 6 m/s (straight line, gradient 18 m / 3 s), slowing (a = -3). The areas 9, 18 and 6 m total 33 m, the end of the s-t graph." loading="lazy">
+  <figcaption>Gradient of s-t is velocity; area under v-t is displacement.</figcaption>
 </figure>
 
 
@@ -155,6 +144,17 @@ themselves vectors and inherit the same sign-convention discipline.
 6. Why does kinematics matter for understanding A.2 (Forces and momentum)?
 
 **Answers (continued):** 5. Using s = ut + ½at² with u = 0 (vertical direction only): s = ½ × 9.81 × 2.4² = **28.3 m**. 6. Forces and momentum are themselves vector quantities, and A.2 builds directly on kinematics' vocabulary and sign-convention discipline (displacement, velocity, acceleration) to explain what causes the motion kinematics describes.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-kinematics--01-distance-vs-displacement.webp" width="900" height="850" alt="A ball is thrown up 5.0 m and caught where it started. The distance is 10 m and the average speed 4.95 m/s (scalars); taking up as positive, the displacement is +5.0 minus 5.0 = 0, so the displacement and average velocity are zero (vectors)." loading="lazy">
+  <figcaption>Distance and speed are scalars; displacement and velocity are vectors and can be zero for a return journey.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-kinematics--02-signs-in-vertical-motion.webp" width="900" height="1010" alt="The v-t graph of the thrown ball is one straight line from +9.9 to -9.9 m/s, gradient -9.81 m/s squared throughout, even at the top. Area above the axis is +5.0 m and below is -5.0 m, so total displacement is zero." loading="lazy">
+  <figcaption>With up positive the ball has a negative acceleration all the time, and signed areas give displacement.</figcaption>
+</figure>
+
 
 ## Official syllabus
 

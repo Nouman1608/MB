@@ -76,6 +76,12 @@ Always divide by the lower level, which is the one the energy came from. Energy 
 
 An extra level leaves far less energy for people, so shorter chains give more food per hectare.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-biology-energy-transfer-and-productivity-in-ecosystems--06-carbon-cycle.webp" width="900" height="1230" alt="Producers fix carbon dioxide by photosynthesis and carbon passes along food chains. Respiration by all organisms and decomposition return carbon dioxide; combustion releases it quickly, fossilisation stores carbon for very long periods, and the oceans dissolve carbon dioxide and form shells and limestone." loading="lazy">
+  <figcaption>Carbon moves between air, organisms, fossil stores and the sea.</figcaption>
+</figure>
+
+
 ## Pyramids of number, biomass and energy
 
 A pyramid shows the amount at each trophic level, with producers as the lowest bar. Bars are drawn to scale, each of equal height.

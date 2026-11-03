@@ -115,6 +115,11 @@ Pests (insects, fungi, weeds) reduce yield. They eat crops, spread disease, or c
   <figcaption>Each of the five methods and what it does for yield.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-biotechnology-and-genetic-modification--07-gm-examples.webp" width="900" height="1015" alt="Four examples: human insulin gene into bacteria so they make human insulin; herbicide resistance so the crop lives and weeds die; insect resistance in maize using a bacterial gene so pests die; rice that makes beta-carotene for vitamin A." loading="lazy">
+  <figcaption>GM moves a gene from one organism into another to give a useful new feature.</figcaption>
+</figure>
+
 
 ## (a) Food production: micro-organisms
 
@@ -148,6 +153,12 @@ Rate at 35 °C = 18.0 ÷ 6 = 3.0 cm³ per minute
 
 The rate doubles, because the enzymes for respiration work faster at 35 °C. At much higher temperatures they denature and the rate falls.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-respiration--04-yeast-temperature.webp" width="900" height="1195" alt="A boiling tube of yeast and glucose stands in a water bath; a delivery tube carries carbon dioxide into a small tube of water where bubbles are counted per minute. A graph of the lesson means shows 4, 9, 18, 11 and 1 bubbles per minute at 15, 25, 35, 45 and 55 degrees Celsius; the optimum lies somewhere between 25 and 45 degrees." loading="lazy">
+  <figcaption>Rate rises to a peak then falls as enzymes are denatured at high temperature.</figcaption>
+</figure>
+
+
 ### *Lactobacillus* and yoghurt (5.7)
 
 1. Milk is heated (pasteurised) to kill other bacteria, then cooled.
@@ -174,6 +185,12 @@ A fermenter is a large steel vessel for growing microorganisms in huge numbers.
 | Optimum pH | pH probe; acid or alkali added | Enzymes work best at their optimum pH |
 | Oxygenation | Sterile air pumped in | For aerobic respiration |
 | Agitation | Motor-driven paddles stir the mixture | Keeps microbes, nutrients, oxygen and heat evenly spread |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-biotechnology-and-genetic-modification--05-fermenter.webp" width="900" height="1150" alt="Extended. A labelled fermenter: motor and paddles mix the contents; nutrients enter at the top and gas leaves; sterile air enters at the bottom; a water jacket with cold water in and warm water out removes heat from respiration; pH and temperature probes monitor conditions; product leaves at the bottom. Fermenters make insulin (GM bacteria), penicillin (Penicillium) and mycoprotein (Fusarium)." loading="lazy">
+  <figcaption>A fermenter controls temperature, pH, oxygen, nutrients and wastes so microorganisms make a product.</figcaption>
+</figure>
+
 
 ### Fish farming (5.9B) -- Paper 2 only
 
@@ -206,6 +223,12 @@ Fish farms produce large amounts of protein in a small area. Farmers control:
 
 Selective breeding is slow and reduces variation in the population, so it may be harder for the population to survive a new disease.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-variation-and-selection--07-selective-breeding.webp" width="900" height="1180" alt="A loop shows choosing the best plants, crossing them, and growing offspring and choosing the best, repeated for many generations. A line graph shows wheat yield rising over four rounds: 3.2, 3.5, 3.9, 4.3 tonnes per hectare, a 34.4% increase. Uses are higher yield and disease resistance in crops and more milk, meat and calmer temperament in animals." loading="lazy">
+  <figcaption>Choosing and crossing the best plants over many generations raises yield.</figcaption>
+</figure>
+
+
 ## (c) Genetic modification (5.12–5.16)
 
 - **Restriction enzymes** cut DNA at specific base sequences, often leaving short single-stranded "sticky ends".
@@ -222,6 +245,12 @@ Selective breeding is slow and reduces variation in the population, so it may be
 4. The plasmid is put into a bacterium.
 5. The bacteria are grown in a fermenter. They multiply and each one makes human insulin.
 6. Insulin is extracted and purified.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-biotechnology-and-genetic-modification--06-gm-steps.webp" width="900" height="1260" alt="Extended. Six steps to make a human protein in bacteria. a: restriction enzymes cut out the human gene leaving sticky ends. b: the same enzymes cut a plasmid leaving complementary sticky ends. c: the gene is inserted and DNA ligase joins it, making a recombinant plasmid. d: plasmids are put into bacteria. e: bacteria multiply. f: bacteria make the human protein." loading="lazy">
+  <figcaption>Cut gene and plasmid with the same enzymes, join with ligase, put into bacteria, multiply, collect protein.</figcaption>
+</figure>
+
 
 ### GM plants (5.15)
 

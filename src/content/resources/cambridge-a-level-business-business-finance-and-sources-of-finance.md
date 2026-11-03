@@ -91,6 +91,11 @@ Liquidation ends the business; administration tries to keep all or part of it al
   <figcaption>Liquidation ends the business; administration tries to keep all or part of it alive; bankruptcy is for individuals.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/enterprise-business-growth-and-size--07-liquidity-failure.webp" width="900" height="990" alt="Example with invented numbers. Sales of $100 less costs of $80 give a paper profit of $20, but bills of $80 fall due at day 30 and customers pay only at day 60. Cash falls from $20 to minus $60 and the firm cannot pay its bills, so a profitable firm can still fail." loading="lazy">
+  <figcaption>A firm can be profitable on paper but fail if cash runs out before customers pay.</figcaption>
+</figure>
+
 
 ## 5.1.2 Working capital
 
@@ -113,6 +118,12 @@ Trade receivables are customers who have bought on credit and not yet paid. Mana
 **Worked example.** Aldwyck Print makes £180,000 of credit sales a year, about £493 a day. If customers take 60 days to pay, about £29,589 is owed at any time. If they pay in 30 days, about £14,795 is owed. Cutting the credit period by 30 days releases about £14,795 of cash.
 
 Trade payables are suppliers the business has not yet paid. Managing them means using the credit period offered but not stretching it so far that suppliers refuse to deliver, add charges or lose trust. Paying later holds cash in the business, but lost supplier goodwill is a cost.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-business-finance--07-cash-gap-days.webp" width="900" height="930" alt="A copper bar of 20 days (payables days) and a teal bar of 35 days (receivables days) share a day scale. The 15 days between them is a cash gap the business must finance." loading="lazy">
+  <figcaption>Paying suppliers 15 days before customers pay creates a gap the business must fund.</figcaption>
+</figure>
+
 
 ### Capital expenditure and revenue expenditure
 
@@ -141,6 +152,12 @@ The distinction matters because the two are financed differently. Capital expend
 ## 5.2.1 Ownership and sources of finance
 
 Ownership decides who can supply finance. A sole trader has the owner's savings, profits kept in the business and loans, and lenders may see the business as risky because it depends on one person. A partnership can add new partners, who bring capital but also share control and profit. A private limited company can raise money by selling shares, but only to chosen people. A public limited company can sell shares to the public, which makes much larger sums possible. Larger, more established businesses usually have more sources open to them.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-accounting-types-of-business-organisation--03-finance-access.webp" width="900" height="1086" alt="A grid shows which of seven named sources each ownership type can use: owner's capital for sole traders, partners' capital for partnerships, shares and debentures for limited companies (mainly large-scale for plcs), and overdraft, loan and mortgage for all. A Cambridge-only box names instalments, leasing, trade credit and secured/unsecured loans." loading="lazy">
+  <figcaption>Match each source of finance to the ownership types that can realistically use it.</figcaption>
+</figure>
+
 
 ## 5.2.2 Internal and external sources
 
@@ -186,6 +203,16 @@ Internal finance comes from inside the business. External finance comes from out
   <figcaption>Each external source asks for something different in return.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-business-finance--01-sources-of-finance.webp" width="900" height="970" alt="Internal sources (retained profits, sale of assets, sale and leaseback, working capital) sit inside a dashed business box; seven external sources point in from outside. Loans is highlighted for the Quillcote printer example." loading="lazy">
+  <figcaption>Money comes from inside the business (internal) or from outside it (external).</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-finance-accounts--01-sources-of-finance.webp" width="900" height="1060" alt="Eleven finance sources as picture tiles: internal (personal funds, retained profit, sale of assets) and external (share capital, loan capital, overdraft, trade credit, crowdfunding, leasing, microfinance, business angels). Overdraft and trade credit are shaded short-term; share capital, loan capital and leasing long-term." loading="lazy">
+  <figcaption>Finance can come from inside or outside the business, and the right source depends on the situation and the time needed.</figcaption>
+</figure>
+
 
 ## 5.2.3 Factors affecting the choice of source
 
@@ -198,6 +225,11 @@ Internal finance comes from inside the business. External finance comes from out
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/cambridge-a-level-business-business-finance-and-sources-of-finance--10-fin-choice.webp" width="900" height="910" alt="Five factors: cost, flexibility, control, use and existing debt. If existing debt is high choose shares; if not and owners want control and profit covers 3,200, choose the loan; otherwise weigh cost, flexibility and use." loading="lazy">
   <figcaption>A decision path built from the lesson's five choice factors.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-accounting-types-of-business-organisation--04-debt-vs-shares.webp" width="900" height="960" alt="A 100,000 pound loan at 6 percent costs 6,000 pounds interest every year whatever the profit (illustrative bars of 20,000, 6,000 and 0). Issuing 100 new shares to investors cuts an owner's stake from 100 percent to 50 percent." loading="lazy">
+  <figcaption>Debt carries fixed interest whatever the profit; new shares dilute ownership and control.</figcaption>
 </figure>
 
 

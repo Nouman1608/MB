@@ -149,6 +149,11 @@ The –OH is on C2. Its neighbours are C1 and C3, and both carry hydrogen.
 That is three alkenes in total.
 
 <figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-alcohols--01-hydration-mechanism.webp" width="900" height="1290" alt="Three-step curly-arrow mechanism for making ethanol from ethene and an acid catalyst: C=C attacks H+, a water lone pair attacks the carbocation, the O-H bond breaks releasing H+. Below, propene gives the secondary carbocation and propan-2-ol as the major product. AQA mechanism; other boards state the reaction without needing the mechanism." loading="lazy">
+  <figcaption>Electrophilic addition of water to an alkene: the first arrow starts at the C=C bond, not at H+.</figcaption>
+</figure>
+
+<figure class="topic-figure">
   <img src="https://img.marlbridge.com/aqa-a-level-chemistry-alcohols--08-elimination-mechanism.webp" width="900" height="1100" alt="Three-step mechanism: a lone pair on O takes H+, the C-O bond breaks losing water to give a carbocation, then a C-H bond forms the C=C and H+ is released. Mechanism is required by AQA and OxfordAQA; OCR says mechanism not required." loading="lazy">
   <figcaption>Acid-catalysed elimination converts an alcohol to an alkene; the acid is regenerated.</figcaption>
 </figure>
@@ -185,6 +190,17 @@ The –OH carbon carries two hydrogens, so the alcohol is primary.
 
 (b) (CH₃)₂CHCH₂OH + 2[O] → (CH₃)₂CHCOOH + H₂O. Product: **2-methylpropanoic acid**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-alcohols--05-distil-reflux.webp" width="900" height="1220" alt="Left: distillation with limited oxidant, the aldehyde distils off into a receiver. Right: reflux with excess oxidant, vertical condenser, vapour condenses and drips back so the acid forms. A bar chart of boiling points (ethanal 20, ethanol 78, ethanoic acid 118 degrees C, from the OCR lesson) shows why the aldehyde leaves first." loading="lazy">
+  <figcaption>Distil to collect the aldehyde; reflux with excess oxidant to make the carboxylic acid.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-alcohols--06-carbonyl-tests.webp" width="900" height="1085" alt="Tubes in a water bath: with Tollens' reagent the aldehyde gives a silver mirror and the ketone no change; with Fehling's (or Benedict's) solution the aldehyde gives a red precipitate and the ketone stays blue. Board tags: Tollens' in AQA and OxfordAQA, Benedict's in Edexcel." loading="lazy">
+  <figcaption>Aldehydes are oxidised by mild oxidants and ketones are not, giving different observations.</figcaption>
+</figure>
+
+
 ## 10.19 Preparing and purifying a liquid organic product
 
 | Technique | Purpose | Points to get right |
@@ -220,8 +236,8 @@ theoretical mass = 0.0800 × 74.0 = 5.92 g
 Yields fall below 100% through incomplete oxidation and losses in transfer and distillation.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-alcohols--05-distil-reflux.webp" width="900" height="1220" alt="Left: distillation with limited oxidant, the aldehyde distils off into a receiver. Right: reflux with excess oxidant, vertical condenser, vapour condenses and drips back so the acid forms. A bar chart of boiling points (ethanal 20, ethanol 78, ethanoic acid 118 degrees C, from the OCR lesson) shows why the aldehyde leaves first." loading="lazy">
-  <figcaption>Distil to collect the aldehyde; reflux with excess oxidant to make the carboxylic acid.</figcaption>
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-alcohols--02-fermentation.webp" width="900" height="1020" alt="Glucose with yeast in a flask at about 35 degrees C with air excluded, CO2 bubbling out through an airlock, then fractional distillation where ethanol (78 degrees C) leaves the top and water stays behind. The equation C6H12O6 -&gt; 2C2H5OH + 2CO2 is shown." loading="lazy">
+  <figcaption>Fermentation needs yeast, about 35 degrees C and no air, followed by fractional distillation.</figcaption>
 </figure>
 
 

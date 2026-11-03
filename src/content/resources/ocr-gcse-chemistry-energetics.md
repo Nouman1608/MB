@@ -65,17 +65,6 @@ Step 1: temperature change = final − start.
 
 Step 2: interpret the sign. A rise means the surroundings gained energy, so A and C are **exothermic**. A fall means the surroundings lost energy to the chemicals, so B is **endothermic**.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ocr-gcse-chemistry-energetics--02-en-classify-temps.webp" width="900" height="880" alt="Bars show A +12.5 C, B -5.8 C and C +6.5 C. A rise means exothermic and a fall means endothermic." loading="lazy">
-  <figcaption>Final minus start gives the sign: A and C exothermic, B endothermic.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/exothermic-and-endothermic-reactions--01-temperature-change.webp" width="900" height="920" alt="Two beakers with thermometers. Exothermic: arrows leave the beaker and the temperature rises from 20 to 35 degrees C. Endothermic: arrows enter the beaker and the temperature falls from 20 to 8 degrees C." loading="lazy">
-  <figcaption>An exothermic reaction gives energy out and warms the surroundings; an endothermic one takes energy in and cools them.</figcaption>
-</figure>
-
-
 ## Measuring temperature change in practice (PAG C8)
 
 The specification's practical suggestion for C3.2a is measuring the temperature change in reactions, which falls within PAG C8. A reliable method looks like this:
@@ -98,6 +87,16 @@ The specification's practical suggestion for C3.2a is measuring the temperature 
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/ocr-gcse-chemistry-energetics--07-en-repeats.webp" width="900" height="710" alt="Dot plot of 6.4, 6.9, 6.8 and 8.7 degrees C; 8.7 is anomalous, mean 6.7, half range 0.25." loading="lazy">
   <figcaption>Drop the anomaly, average the rest and use half the range as uncertainty.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-chemistry-energetics--02-en-classify-temps.webp" width="900" height="880" alt="Bars show A +12.5 C, B -5.8 C and C +6.5 C. A rise means exothermic and a fall means endothermic." loading="lazy">
+  <figcaption>Final minus start gives the sign: A and C exothermic, B endothermic.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/exothermic-and-endothermic-reactions--01-temperature-change.webp" width="900" height="920" alt="Two beakers with thermometers. Exothermic: arrows leave the beaker and the temperature rises from 20 to 35 degrees C. Endothermic: arrows enter the beaker and the temperature falls from 20 to 8 degrees C." loading="lazy">
+  <figcaption>An exothermic reaction gives energy out and warms the surroundings; an endothermic one takes energy in and cools them.</figcaption>
 </figure>
 
 
@@ -254,6 +253,11 @@ The value from bond energies is an estimate. Bond energies are averages taken ov
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/ocr-gcse-chemistry-energetics--05-en-propane-bonds.webp" width="900" height="1085" alt="Stacked columns to scale: 6490 kJ broken, 8542 kJ made, difference -2052 kJ/mol." loading="lazy">
   <figcaption>Count every bond and multiply before adding.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/exothermic-and-endothermic-reactions--05-bond-energy-ladder.webp" width="900" height="930" alt="Energy levels drawn to scale: H2 + Cl2 rises 678 to separate atoms, then falls 862 to 2HCl, which is 184 kJ/mol below the reactants. Delta H is -184 kJ/mol." loading="lazy">
+  <figcaption>Up 678 to break bonds, down 862 as bonds form: a net fall of 184 kJ/mol.</figcaption>
 </figure>
 
 

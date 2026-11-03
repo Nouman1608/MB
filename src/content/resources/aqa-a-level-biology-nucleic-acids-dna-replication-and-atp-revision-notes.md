@@ -195,12 +195,6 @@ ATP is called a nucleotide derivative because it is built like a nucleotide but 
 
 **Explain the use of ATP in a reaction.** ATP is hydrolysed by ATP hydrolase to ADP and Pi. The energy is coupled to the reaction, or the Pi phosphorylates a compound and makes it more reactive. ATP is later resynthesised from ADP and Pi.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-level-biology-9700-nucleic-acids-and-protein-synthesis--01-nucleotide-chain.webp" width="900" height="1100" alt="Three nucleotides are stacked one below another. Each has a pentose sugar, a phosphate and a nitrogenous base. The 3′ carbon of one sugar is joined through a phosphate to the 5′ carbon of the next sugar by a phosphodiester bond, releasing one water molecule per bond. The top end has a free phosphate (5′) and the bottom end a free OH (3′); n nucleotides give n minus 1 bonds." loading="lazy">
-  <figcaption>Each condensation reaction joins two nucleotides with a phosphodiester bond and releases one water molecule.</figcaption>
-</figure>
-
-
 ## Quick self-test
 
 1. Name the pentose sugar in RNA.
@@ -230,6 +224,12 @@ ATP is called a nucleotide derivative because it is built like a nucleotide but 
 10. 0.20 × 30.5 = 6.1 kJ.
 11. ATP synthase; a condensation reaction (ADP + Pi).
 12. It has only four different bases, so it seemed too simple compared with proteins.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-nucleic-acids-and-protein-synthesis--01-nucleotide-chain.webp" width="900" height="1100" alt="Three nucleotides are stacked one below another. Each has a pentose sugar, a phosphate and a nitrogenous base. The 3′ carbon of one sugar is joined through a phosphate to the 5′ carbon of the next sugar by a phosphodiester bond, releasing one water molecule per bond. The top end has a free phosphate (5′) and the bottom end a free OH (3′); n nucleotides give n minus 1 bonds." loading="lazy">
+  <figcaption>Each condensation reaction joins two nucleotides with a phosphodiester bond and releases one water molecule.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

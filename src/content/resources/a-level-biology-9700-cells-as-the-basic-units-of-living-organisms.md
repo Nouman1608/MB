@@ -77,6 +77,12 @@ For each organelle learn its appearance, its number of membranes and its functio
 - **Mitochondria.** Surrounded by an envelope of two membranes. The inner membrane is folded into **cristae**, and the fluid inside is the **matrix**. They are the site of aerobic respiration, which makes ATP. The matrix contains **small circular DNA** and 70S ribosomes.
 - **Chloroplasts** (plant cells that photosynthesise). Also surrounded by a double-membrane envelope. Inside, the stroma contains stacks of thylakoid membranes called grana, and often starch grains. They are the site of photosynthesis. Like mitochondria, they contain **small circular DNA** and 70S ribosomes.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-biology-eukaryotic-and-prokaryotic-cell-structure--09-cell-fractionation.webp" width="900" height="980" alt="Tissue is homogenised in a cold, isotonic, buffered solution, then filtered to remove debris. The filtrate is spun at increasing speeds. The pellet at each speed is a different organelle: nuclei, chloroplasts (plant only), mitochondria, lysosomes, endoplasmic reticulum pieces, then ribosomes. The liquid above the pellet is poured into a new tube and spun faster." loading="lazy">
+  <figcaption>The largest, densest organelles pellet first, at the lowest speed.</figcaption>
+</figure>
+
+
 ### Ribosomes
 
 Ribosomes are not surrounded by a membrane. Each is made of two subunits of RNA and protein, and they are the site of protein synthesis. The S number measures how fast a particle sediments in a centrifuge, so a larger S means a larger particle.
@@ -239,17 +245,6 @@ A virus has no cytoplasm, no ribosomes and no cell surface membrane of its own. 
 - [1.2 revision notes](/resources/a-level-biology-9700-cells-as-the-basic-units-of-living-organisms-revision-notes/) for quick recall
 - [1.2 practice questions](/resources/a-level-biology-9700-cells-as-the-basic-units-of-living-organisms-practice/) with mark-by-mark answers
 - [Free 9700 AS diagnostic](/practice/9700/diagnostic/as/)
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-level-aqa-biology-eukaryotic-and-prokaryotic-cell-structure--08-graticule-calibration.webp" width="900" height="930" alt="Two calibrations against a stage micrometer with 10 micrometre divisions. At x10, 40 graticule units match 28 stage divisions (280 micrometres), so one unit is 7 micrometres and a cell of 5 units is 35 micrometres. At x40, 100 units match 22 divisions (220 micrometres), so one unit is 2.2 micrometres. Recalibrate for every objective." loading="lazy">
-  <figcaption>Line up the scales, work out the length of one eyepiece unit, and recalibrate for each objective.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-level-aqa-biology-eukaryotic-and-prokaryotic-cell-structure--09-cell-fractionation.webp" width="900" height="980" alt="Tissue is homogenised in a cold, isotonic, buffered solution, then filtered to remove debris. The filtrate is spun at increasing speeds. The pellet at each speed is a different organelle: nuclei, chloroplasts (plant only), mitochondria, lysosomes, endoplasmic reticulum pieces, then ribosomes. The liquid above the pellet is poured into a new tube and spun faster." loading="lazy">
-  <figcaption>The largest, densest organelles pellet first, at the lowest speed.</figcaption>
-</figure>
-
 
 ## Official syllabus
 

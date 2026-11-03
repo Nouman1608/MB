@@ -224,6 +224,12 @@ Heart rate = 60 ÷ cycle time. Pulse pressure = systolic − diastolic.
 9. Many mitochondria; plasmodesmata linking to sieve tube elements.
 10. The heart re-pressurises blood after the lungs.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-transport-blood-vessels-heart-xylem-and-phloem--01-vessels-ratio.webp" width="900" height="950" alt="Two vessel cross-sections drawn to the same scale from the lesson numbers. Vessel A has a 150 µm lumen and 30 µm wall (ratio 0.20, artery); vessel B has a 220 µm lumen and 15 µm wall (ratio 0.068, vein). A 100 µm scale bar is shown and the magnification is x200." loading="lazy">
+  <figcaption>Compare wall thickness with lumen width, not absolute size, to tell an artery from a vein.</figcaption>
+</figure>
+
+
 ## Where marks are usually lost
 
 - Describing arteries as thick-walled without mentioning elastic recoil and what it does.

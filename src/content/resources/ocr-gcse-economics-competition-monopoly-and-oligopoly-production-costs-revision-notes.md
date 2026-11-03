@@ -169,6 +169,11 @@ At 150 repairs the TC is 1,500 + 4 × 150 = £2,100, so TR of £1,650 gives a lo
   <figcaption>Competition tends to lower price and profit and widen choice; a monopoly can charge more and earn high profits.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-economics-production-and-business-costs--05-revenue-costs-profit.webp" width="900" height="920" alt="A firm sells 1,000 units at $50. Total revenue is $50,000. Total costs of $35,000 are fixed costs $10,000 plus variable costs $25,000. Profit is $15,000. Average total cost is $35,000 divided by 1,000, which is $35 per unit, leaving $15 per unit of the $50 price." loading="lazy">
+  <figcaption>The lesson example in pictures: $50,000 revenue less $35,000 costs leaves $15,000 profit, and average cost is $35 a unit.</figcaption>
+</figure>
+
 
 ## Economies of scale
 
@@ -191,6 +196,11 @@ At 150 repairs the TC is 1,500 + 4 × 150 = £2,100, so TR of £1,650 gives a lo
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/ocr-gcse-economics-competition-monopoly-and-oligopoly-production-costs--02-six-sources-economies-of-scale.webp" width="900" height="990" alt="Six tiles each with a simple icon: technical (bigger machines and specialised workers), purchasing (bulk buying discounts), financial (cheaper borrowing), managerial (specialist managers), marketing (advertising cost spread over more units) and risk-bearing (many products absorb a failure). Below, a line falls from average cost 5.00 pounds at 1,000 candles to 3.20 pounds at 8,000 candles, the candle maker example." loading="lazy">
   <figcaption>The six sources of economies of scale all push average cost down as output rises.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-economics-production-and-business-costs--06-lrac-curve.webp" width="900" height="880" alt="A U-shaped long-run average cost curve with cost per unit against output. Cost falls while the firm gains economies of scale, reaches a lowest point at 500 units and $4 per unit where the firm is most efficient, then rises in the region of diseconomies of scale." loading="lazy">
+  <figcaption>Average cost falls with economies of scale, bottoms out at the efficient point, then rises with diseconomies of scale.</figcaption>
 </figure>
 
 

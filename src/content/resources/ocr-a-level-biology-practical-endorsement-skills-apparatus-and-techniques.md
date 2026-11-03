@@ -131,6 +131,11 @@ An eyepiece graticule has arbitrary divisions. Calibrate it for each objective a
   <figcaption>Calibrate the graticule for each objective, then convert and use consistent units for magnification.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-practical-skills-i-microscopy-food-tests-sampling-and--01-slide-method.webp" width="900" height="1010" alt="Four panels show a drop on a slide, epidermis laid on the drop with forceps, a cover slip lowered at an angle supported by a needle, and the shortest objective lens used first with the large then small focus wheel." loading="lazy">
+  <figcaption>Make a temporary slide by lowering the cover slip slowly, then focus from the shortest objective.</figcaption>
+</figure>
+
 
 ## 1.2.2(e) Scientific drawings
 
@@ -157,6 +162,11 @@ A low-power plan shows tissue regions, never single cells; a high-power drawing 
   <figcaption>A non-reducing sugar only gives a Benedict colour change after acid hydrolysis and neutralising.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-biological-molecules--03-colour-tests.webp" width="900" height="1030" alt="Test tubes before and after. Iodine: orange-brown if starch absent, blue-black if present, no heat. Benedict’s: blue if absent; green, yellow, orange then brick-red as more reducing sugar is present; heat at about 80 degrees Celsius. Biuret: blue if protein absent, purple if present, no heat." loading="lazy">
+  <figcaption>Compare the colour before and after to read each test.</figcaption>
+</figure>
+
 
 ## 1.2.2(g) Chromatography and electrophoresis
 
@@ -178,6 +188,11 @@ Rf = spot distance from baseline / solvent front distance from baseline
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/ocr-a-level-biology-practical-endorsement-skills-apparatus-and-techniques--09-electrophoresis-gel.webp" width="900" height="1060" alt="A gel with wells near the negative electrode and a ladder plus three samples. DNA is negative, moves toward the positive electrode and smaller fragments travel further; bands are compared with the ladder." loading="lazy">
   <figcaption>DNA runs to the positive electrode and small fragments go furthest; compare bands with a ladder.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-genetic-technology--06-gel-electrophoresis.webp" width="900" height="1109" alt="An agarose gel has wells at the negative end and DNA runs towards the positive electrode. Smaller fragments travel further. Linear 6000 bp DNA cut twice gives 3300, 1500 and 1200 bp bands; a 5000 bp circle cut twice gives 2300 and 2700 bp bands." loading="lazy">
+  <figcaption>Negatively charged DNA runs to the anode, with smaller fragments travelling further.</figcaption>
 </figure>
 
 
@@ -205,6 +220,11 @@ The aim is to keep contaminants out and your culture in. Disinfect the bench, fl
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/ocr-a-level-biology-practical-endorsement-skills-apparatus-and-techniques--10-antibiotic-disc-zones.webp" width="900" height="1050" alt="A Petri dish with a bacterial lawn and discs with clear zones of radius 9 mm (A) and 6 mm (B) and a control disc with none. Areas are 254 and 113 mm2, so A clears 2.25 times the area." loading="lazy">
   <figcaption>Compare clear zones by area (pi r squared), with a no-antibiotic disc as the control.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-monoclonal-antibodies-aseptic-technique-and-drug--09-aseptic-technique.webp" width="900" height="1140" alt="Six panels: wipe the bench with alcohol; autoclave glassware and media at about 121 degrees for 15 minutes; flame the loop red hot and cool it in air; work near a Bunsen flame whose updraught carries microbes away; lift the lid only slightly and briefly; hold the lid on with a few short pieces of tape." loading="lazy">
+  <figcaption>Aseptic technique keeps unwanted microorganisms out of a culture.</figcaption>
 </figure>
 
 
@@ -239,6 +259,11 @@ For mobile animals, capture–mark–recapture: N = (M × n) / m, where M is the
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/ocr-a-level-biology-practical-endorsement-skills-apparatus-and-techniques--11-capture-mark-recapture-190.webp" width="900" height="1180" alt="A grid of 190 animals with 45 marked and a second catch of 38 containing 9 marked. N = 45 x 38 / 9 = 190, assuming no births, deaths or migration." loading="lazy">
   <figcaption>The marked fraction in the second catch estimates the marked fraction of the whole population.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-classification-biodiversity-and-conservation--04-sampling-methods.webp" width="900" height="1070" alt="Three fields show quadrat placement. Random quadrats are scattered by coordinates from two tapes. A transect has quadrats at equal intervals from path to woodland. Stratified sampling puts 14 quadrats in grass and 6 in a hollow, matching 70% and 30% of the area." loading="lazy">
+  <figcaption>Random avoids bias, transects show change along a gradient, and stratified samples each area in proportion.</figcaption>
 </figure>
 
 

@@ -220,6 +220,11 @@ redox reaction between two of the species can be read off.
   <figcaption>E° cell = E°(reduced) - E°(oxidised); a positive value means feasible, though not necessarily fast.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-electrochemistry-electrolysis-and-electrode-potentials--09-fuel-cells.webp" width="900" height="1300" alt="Hydrogen is fed to the negative electrode and oxygen to the positive electrode, with electrons flowing through the lamp circuit. In the alkaline cell OH- ions move through the electrolyte towards the hydrogen electrode and water forms there; in the acidic cell H+ ions move towards the oxygen electrode and water forms there. Both give 2H2 + O2 to 2H2O." loading="lazy">
+  <figcaption>A fuel cell is fed continuously with hydrogen and oxygen and gives 2H2 + O2 -&gt; 2H2O, with different ions carrying charge in alkali and acid.</figcaption>
+</figure>
+
 
 ## The Nernst equation
 

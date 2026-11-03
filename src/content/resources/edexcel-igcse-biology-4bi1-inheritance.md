@@ -270,6 +270,11 @@ In human cells the **diploid number is 46** and the **haploid number is 23**.
   <figcaption>Chromosome counts for diploid number 20 through mitosis, meiosis and fertilisation.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-inheritance--04-mitosis-vs-meiosis.webp" width="900" height="1260" alt="Extended. A diploid cell with four chromosomes (two pairs) divides by mitosis into two identical cells with four chromosomes each, or by meiosis into four different cells with two chromosomes each. Fertilisation joins two haploid gametes to restore the diploid number; in humans 23 + 23 = 46." loading="lazy">
+  <figcaption>Mitosis keeps the chromosome number; meiosis halves it, and fertilisation restores it.</figcaption>
+</figure>
+
 
 ## Variation and mutation (3.33–3.37B)
 
@@ -283,6 +288,17 @@ A **mutation** is a **rare, random change in genetic material that can be inheri
 
 **Paper 2 only (3.35B–3.37B).** A change in the DNA base sequence can change a codon, so a different amino acid may be placed in the protein. The protein may fold into a different shape and work differently, which can change the phenotype. **Most mutations have no effect** on the phenotype, **some have a small effect**, and **rarely** do they have a **significant** effect. The rate of mutation is increased by **ionising radiation** (for example gamma rays, X-rays and ultraviolet rays) and by some **chemical mutagens** (for example chemicals in tobacco).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-variation-and-selection--01-variation-types.webp" width="900" height="1050" alt="Two sketch graphs. A histogram with touching bars shows continuous variation using the hand span example (3, 7, 12, 6, 2 students in 2 cm classes from 16 to 26 cm); it has a range between two extremes and is caused by genes and the environment. A bar chart with separate bars for blood groups A, B, AB and O shows discontinuous variation: limited groups, genes only. Blood group bar heights are illustrative." loading="lazy">
+  <figcaption>Continuous data give a histogram with touching bars; discontinuous data give a bar chart with gaps.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-variation-and-selection--02-mutation.webp" width="900" height="1215" alt="Core: mutation is genetic change that forms new alleles; ionising radiation and some chemicals raise its rate. Extended: a gene mutation changes one base in the DNA sequence, which can change the protein shape; sources of variation are mutation, meiosis, random mating and random fertilisation." loading="lazy">
+  <figcaption>Mutation forms new alleles; radiation and some chemicals raise the rate.</figcaption>
+</figure>
+
+
 ## Natural selection and antibiotic resistance (3.38–3.39)
 
 Darwin's theory of **evolution by natural selection**, in steps:
@@ -294,6 +310,17 @@ Darwin's theory of **evolution by natural selection**, in steps:
 5. Over many generations, the **advantageous allele becomes more common** in the population.
 
 **Antibiotic resistance** follows the same steps. A random mutation may make a bacterium resistant. When an antibiotic is used, non-resistant bacteria die, but resistant ones survive and divide, so the proportion of resistant bacteria rises. Infections caused by these bacteria are **difficult to control** because the antibiotic no longer kills them.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-variation-and-selection--05-natural-selection.webp" width="900" height="1110" alt="Ten beetles per row. Generation 1 has 3 brown and 7 green. Birds eat green beetles more often, leaving 3 brown and 2 green. Survivors breed, giving 6 brown of 10 in generation 2, and after many generations 9 brown of 10. Illustrative numbers show the brown allele becoming more common." loading="lazy">
+  <figcaption>Better-adapted individuals survive and breed, so their alleles become more common.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-variation-and-selection--06-antibiotic-resistance.webp" width="900" height="1190" alt="Five dishes of bacteria: a random mutation makes one bacterium resistant; the antibiotic kills the six non-resistant ones; the survivor has less competition; it reproduces and passes on the allele; a resistant strain forms quickly." loading="lazy">
+  <figcaption>The mutation was already there; the antibiotic selected the resistant bacterium.</figcaption>
+</figure>
+
 
 ## Common errors
 

@@ -136,6 +136,41 @@ To describe a transformation fully:
   <figcaption>Congruent triangles satisfy SSS, SAS, ASA or RHS; the markings show which parts match.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-transformations-and-vectors--01-reflection-mirror-line.webp" width="900" height="845" alt="Triangle ABC is reflected in the vertical line x = 4. Dashed lines join each corner to its image and cross the mirror at their midpoints. Image corners are A'(7,2), B'(7,4), C'(5,2)." loading="lazy">
+  <figcaption>A reflection puts each image point the same distance behind the mirror line, and is described by its mirror line.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-transformations-and-vectors--02-rotation-about-origin.webp" width="900" height="1065" alt="Triangle ABC is rotated 90 degrees clockwise about the origin. B(1,4) moves to B'(4,-1); the lines OB and OB' are equal and meet at a right angle. A rotation needs centre, angle and direction." loading="lazy">
+  <figcaption>A rotation is described by its centre, angle and direction.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-transformations-and-vectors--03-translation-column-vector.webp" width="900" height="970" alt="Triangle ABC is translated by (4, -3): 4 right and 3 down. Every corner moves by the same arrow to A'(5,-1), B'(5,1), C'(7,-1)." loading="lazy">
+  <figcaption>A translation slides every point by the same column vector without turning or resizing the shape.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-transformations-and-vectors--04-enlargement-scale-factor-2.webp" width="900" height="945" alt="Triangle ABC is enlarged by scale factor 2 from P(1,1). Dashed lines from P pass through each corner to its image, which is twice as far from P. Every side doubles." loading="lazy">
+  <figcaption>An enlargement multiplies every distance from the centre, and every side, by the scale factor.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-transformations-and-vectors--05-enlargement-fractional.webp" width="900" height="1145" alt="Triangle ABC is enlarged by scale factor one half from P(1,1). Each image corner is half as far from P, giving a smaller image A'(2,2), B'(2,4), C'(4,2)." loading="lazy">
+  <figcaption>A scale factor between 0 and 1 makes the image smaller.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-transformations-and-vectors--06-enlargement-negative.webp" width="900" height="905" alt="Triangle ABC is enlarged by scale factor -2 from P(3,3). Each image corner is twice as far from P but on the opposite side, so the image is upside down: A'(1,1), B'(1,-1), C'(-3,1)." loading="lazy">
+  <figcaption>A negative scale factor puts the image on the opposite side of the centre, inverted.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-mathematics-transformations-reflection-rotation-enlargement-and--06-combination.webp" width="900" height="858" alt="Triangle B is reflected in the x-axis (dashed B1) then in the y-axis to give B2. A dashed line from (5,3) through the origin to (-5,-3) shows each point (x, y) goes to (-x, -y), which is a rotation of 180 degrees about the origin." loading="lazy">
+  <figcaption>Reflecting in the x-axis and then the y-axis equals a single rotation of 180 degrees about the origin.</figcaption>
+</figure>
+
 
 ## Circles (G9, G10)
 
@@ -157,6 +192,36 @@ Parts of a circle: centre, radius, chord, diameter, circumference, tangent, arc,
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/aqa-gcse-maths-8300-geometry-and-measures--10-geo-alternate-segment.webp" width="900" height="880" alt="A circle with a tangent at T and chord TA making 56 degrees; the angle TBA in the alternate segment is also 56 degrees. The angle between a tangent and a chord equals the angle in the alternate segment." loading="lazy">
   <figcaption>The angle between a tangent and a chord equals the angle in the alternate segment.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-geometrical-terms-constructions-and-scale-drawings--01-circle-parts.webp" width="900" height="1030" alt="Circle with centre, diameter, radius, chord, tangent touching at one point, circumference and a highlighted arc. Below, a shaded sector (two radii and an arc) and a shaded segment (a chord and an arc). Sector and segment are the pair most often confused." loading="lazy">
+  <figcaption>Radius, chord and tangent in one circle, with sector and segment shaded separately.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-geometry--03-right-angles-in-circles.webp" width="900" height="1055" alt="Top: a triangle ABC inside a circle with AB a diameter, right angle at C. Bottom: a radius OT meets a tangent at T with a right angle. The angle in a semicircle is 90 degrees, and a tangent meets a radius at 90 degrees." loading="lazy">
+  <figcaption>The angle in a semicircle and the angle between tangent and radius are both 90°.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-geometry--04-angle-at-centre.webp" width="900" height="830" alt="Circle with arc AB, centre angle AOB of 130 degrees, and points C and D each giving an angle of 65 degrees on the same arc. The angle at the centre (130 degrees) is twice the angle at the circumference (65 degrees) on the same arc, and angles in the same segment are equal." loading="lazy">
+  <figcaption>The angle at the centre is twice the angle at the circumference, and angles in the same segment are equal.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-geometry--05-cyclic-quadrilateral.webp" width="900" height="850" alt="Quadrilateral ABCD inscribed in a circle with angles A 100, B 65, C 80, D 115 degrees. A plus C is 180 and B plus D is 180. In a cyclic quadrilateral opposite angles add to 180 degrees (100 + 80 and 65 + 115)." loading="lazy">
+  <figcaption>Opposite angles of a cyclic quadrilateral add to 180°.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-circle-theorems-ii--04-equal-tangents.webp" width="900" height="900" alt="Circle with centre O and external point P. Tangents PA and PB are marked equal, each 12. Radii OA and OB (5) meet them at right angles, and OP is 13. Two tangents drawn from the same outside point P touch the circle at A and B and have equal lengths; each is perpendicular to its radius." loading="lazy">
+  <figcaption>Tangents from an external point are equal in length (here PA = PB = 12).</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-circle-theorems-ii--02-chord-bisector.webp" width="900" height="850" alt="Circle of radius 10 with chord AB of length 16. OM meets AB at right angles at the midpoint M, so AM = MB = 8. Triangle OMB has sides 6, 8, 10. A line from the centre perpendicular to a chord cuts the chord in half, giving a right-angled triangle (radius 10, half-chord 8, distance 6)." loading="lazy">
+  <figcaption>The perpendicular from the centre bisects the chord, so Pythagoras finds the missing length.</figcaption>
 </figure>
 
 

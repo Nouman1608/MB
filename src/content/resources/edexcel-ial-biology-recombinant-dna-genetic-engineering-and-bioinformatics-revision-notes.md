@@ -75,6 +75,16 @@ Worked reminder: a 5,000 bp circular plasmid with two sites 1,100 bp apart gives
   <figcaption>Restriction cutting keeps introns, whereas cDNA and machine-made genes have none.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-genetic-technology--06-gel-electrophoresis.webp" width="900" height="1109" alt="An agarose gel has wells at the negative end and DNA runs towards the positive electrode. Smaller fragments travel further. Linear 6000 bp DNA cut twice gives 3300, 1500 and 1200 bp bands; a 5000 bp circle cut twice gives 2300 and 2700 bp bands." loading="lazy">
+  <figcaption>Negatively charged DNA runs to the anode, with smaller fragments travelling further.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-genetic-technology--08-sanger-sequencing.webp" width="900" height="1061" alt="The template is copied by DNA polymerase. Strands of every length from 1 to 12 stop at a labelled dideoxynucleotide that lacks a 3 prime OH. Reading the last base from shortest to longest gives G A T T C G C T A A G C, the new strand 5 prime to 3 prime, complementary to the template." loading="lazy">
+  <figcaption>Chain-terminating nucleotides give fragments of every length, and the last bases read shortest to longest spell the new strand.</figcaption>
+</figure>
+
 
 ## Getting DNA into cells (8.19)
 
@@ -99,6 +109,12 @@ Calculations:
 - Colonies in the whole sample = colonies counted × (total volume ÷ volume plated).
 - Transformation efficiency = total colonies ÷ mass of DNA in µg.
 - Worked reminder: 85 colonies from 0.1 cm³ of 1.0 cm³ is 850 colonies; with 0.02 µg DNA that is 42,500 per µg.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-genetic-technology--03-selecting-transformed-bacteria.webp" width="900" height="1010" alt="Two plates have the same colony positions. On nutrient agar 312 colonies grow; on agar with antibiotic only 41 grow, the ones that took up the plasmid with the resistance marker. 41/312 is 13.1 percent. GFP is the alternative marker, glowing under UV." loading="lazy">
+  <figcaption>Only bacteria carrying the plasmid survive on antibiotic agar, so 41 of 312 colonies (13.1%) were transformed.</figcaption>
+</figure>
+
 
 ## Drugs from GMOs (8.17)
 
@@ -149,12 +165,6 @@ Evaluate a GM crop:
 - One risk with a reason, for example resistance evolving.
 - A clear judgement, such as "benefits outweigh risks if the crop is monitored".
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-level-biology-9700-genetic-technology--03-selecting-transformed-bacteria.webp" width="900" height="1010" alt="Two plates have the same colony positions. On nutrient agar 312 colonies grow; on agar with antibiotic only 41 grow, the ones that took up the plasmid with the resistance marker. 41/312 is 13.1 percent. GFP is the alternative marker, glowing under UV." loading="lazy">
-  <figcaption>Only bacteria carrying the plasmid survive on antibiotic agar, so 41 of 312 colonies (13.1%) were transformed.</figcaption>
-</figure>
-
-
 ## Risks and benefits of GMOs (8.22)
 
 | Benefits | Risks |
@@ -202,6 +212,12 @@ Always make a judgement in "evaluate" answers, using data if given.
 8. 120 − 45 = 75.
 9. Ratio 4.0: the gene is four times more active in the red sample.
 10. Benefit: weeds can be controlled without harming the crop. Risk: resistance may spread to wild weeds through gene flow.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-genetic-technology--07-dna-profile-paternity.webp" width="900" height="1010" alt="Four lanes of band sizes in kb show mother, child and two men. The child has bands 6.5 and 3.5 that the mother lacks, so they come from the father. Man A has both; Man B lacks 3.5 and is excluded. Five independent loci with chances 0.1, 0.05, 0.2, 0.08 and 0.125 give a chance match of 1 in 100 000." loading="lazy">
+  <figcaption>Bands the child lacks from the mother must come from the father: Man A fits, Man B is excluded.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

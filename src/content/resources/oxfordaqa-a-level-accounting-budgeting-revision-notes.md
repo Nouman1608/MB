@@ -126,6 +126,11 @@ Closing balance             x        (x)        x
 Each closing balance is the next month's opening balance.
 
 <figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-budgeting--02-production-budget.webp" width="900" height="880" alt="For April, May and June, a bar of what is needed (sales plus closing stock) sits above a bar of what is available (opening stock plus production); both have equal totals of 500, 620 and 710 units. Each month's closing stock becomes the next month's opening stock." loading="lazy">
+  <figcaption>Production is the amount needed to meet sales and closing stock after using up opening stock.</figcaption>
+</figure>
+
+<figure class="topic-figure">
   <img src="https://img.marlbridge.com/aqa-a-level-accounting-budgeting--03-receipts-timing.webp" width="900" height="700" alt="Three boxes show May, June and July sales. Arrows lead to a July receipts bar of 32,400 pounds made up of 9,000 from May credit sales, 14,400 from June credit sales and 9,000 of July cash sales." loading="lazy">
   <figcaption>Cash is budgeted in the month it arrives, not the month of the sale.</figcaption>
 </figure>
@@ -195,12 +200,6 @@ higher cost reduces profit. Budgeted sales were 31,000 and actual 32,400: **1,40
 budget holder for materials should be asked why: a supplier price rise, more wastage, or simply more
 output to meet the extra sales. The right action depends on the cause, so investigate before acting.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/aqa-a-level-accounting-budgeting--06-flexed-budget.webp" width="900" height="960" alt="A waterfall from budget profit of 30,000 pounds adds 6,000 for 200 extra lamps to give a flexed profit of 36,000, then subtracts adverse price (3,300), materials (1,650) and fixed overhead (1,100) variances and adds a favourable labour variance (440) to reach actual profit of 30,390." loading="lazy">
-  <figcaption>Flex the budget to actual output first; then the variances show the real story.</figcaption>
-</figure>
-
-
 ## Quick self-test
 
 1. Sales 900 units, opening finished goods 120, closing 150. Production?
@@ -230,6 +229,12 @@ output to meet the extra sales. The right action depends on the cause, so invest
 10. 52,000 + 18,300 - 11,000 = **59,300**.
 11. Absence or staff turnover means the hours planned may not be available, so overtime or agency costs rise.
 12. The sales budget, because demand normally limits production, purchases, labour and cash; an error in it flows into every other budget.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-budgeting--06-flexed-budget.webp" width="900" height="960" alt="A waterfall from budget profit of 30,000 pounds adds 6,000 for 200 extra lamps to give a flexed profit of 36,000, then subtracts adverse price (3,300), materials (1,650) and fixed overhead (1,100) variances and adds a favourable labour variance (440) to reach actual profit of 30,390." loading="lazy">
+  <figcaption>Flex the budget to actual output first; then the variances show the real story.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

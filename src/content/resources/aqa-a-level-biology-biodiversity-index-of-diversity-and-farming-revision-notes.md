@@ -193,6 +193,12 @@ Chain to write: habitat or food removed, so fewer niches, so fewer species, so l
 - Evaluating the conservation and farming balance from one side only.
 - Comparing d values without commenting on sample size or method.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-classification-biodiversity-and-conservation--08-conservation-methods.webp" width="900" height="1030" alt="Icons show in situ methods in the natural habitat, a wildlife reserve and a marine conservation zone, and ex situ methods outside it: a zoo, a botanic garden, a seed bank and a frozen zoo storing material in liquid nitrogen (Cambridge only)." loading="lazy">
+  <figcaption>In situ protects species where they live; ex situ keeps them or their genes elsewhere.</figcaption>
+</figure>
+
+
 ## Official syllabus
 
 AQA AS and A-level Biology specification (7401, 7402), for first teaching 2015, published by AQA. These notes are aligned to section 3.4.6 and maths skill MS 2.3.

@@ -98,6 +98,16 @@ Rule of thumb: a price above rivals needs benefits customers can see and believe
   <figcaption>A low contribution per bike leaves the low cost option far more exposed to price cuts.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-business-types-of-strategies--05-decision-tree.webp" width="900" height="1120" alt="Decision tree with a decision square and two chance circles: A costs 45,000 (EV 91,500, net gain 46,500), B costs 70,000 (EV 121,500, net gain 51,500) and doing nothing is 0. B has the highest net gain." loading="lazy">
+  <figcaption>Expected value is worked from right to left, then cost is subtracted to give net gain.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-business-types-of-strategies--07-net-present-value.webp" width="900" height="890" alt="Cash flows and their present values for years 1 to 5 at 7% using the lesson discount factors; total 269,661 less 222,000 cost gives NPV +47,661." loading="lazy">
+  <figcaption>Discounting makes later cash flows worth less; NPV compares their total with the cost.</figcaption>
+</figure>
+
 
 ## Influences on the choice
 

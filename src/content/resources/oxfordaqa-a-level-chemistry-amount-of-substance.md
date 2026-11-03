@@ -183,6 +183,17 @@ equation, using it to find a mole ratio, and converting between moles
 and mass, gas volume or solution concentration are all one continuous
 method that Required Practical 1 exercises directly.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-chemistry-relative-mass-and-the-mole--07-reacting-masses.webp" width="900" height="930" alt="Four stacked steps follow TiCl4 + 2Mg -&gt; Ti + 2MgCl2: 1.00 kg Ti, divided by 47.9 gives 20.9 mol, multiplied by 2 gives 41.8 mol Mg, multiplied by 24.3 gives about 1015 g (1.01 kg) of magnesium." loading="lazy">
+  <figcaption>Balanced equation, moles, mole ratio, then mass. Edexcel worked example.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-chemistry-relative-mass-and-the-mole--08-atom-economy-yield.webp" width="900" height="1050" alt="Panel one is a bar of total reactant mass 238.5 where only the 47.9 of titanium is useful, so atom economy is 20.1%. Panel two compares the possible 5.00 g with 4.25 g collected, an 85% yield." loading="lazy">
+  <figcaption>Atom economy is fixed by the equation; yield depends on the experiment.</figcaption>
+</figure>
+
+
 ## Official syllabus
 
 OxfordAQA, *International AS and A-level Chemistry (9620)

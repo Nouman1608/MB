@@ -151,12 +151,6 @@ Method in steps for an evaluation question:
 3. Give at least one economic, one environmental and one ethical point if asked to evaluate.
 4. Reach a judgement and say what extra data would help.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/aqa-a-level-biology-energy-transfer-and-productivity-in-ecosystems--06-carbon-cycle.webp" width="900" height="1230" alt="Producers fix carbon dioxide by photosynthesis and carbon passes along food chains. Respiration by all organisms and decomposition return carbon dioxide; combustion releases it quickly, fossilisation stores carbon for very long periods, and the oceans dissolve carbon dioxide and form shells and limestone." loading="lazy">
-  <figcaption>Carbon moves between air, organisms, fossil stores and the sea.</figcaption>
-</figure>
-
-
 ## Quick self-test
 
 1. Define gross primary production.
@@ -186,6 +180,17 @@ Method in steps for an evaluation question:
 10. Reduce movement (housing or restricting space) and keep the animals warm so less energy is used to maintain body temperature.
 11. It kills weeds, so the crop has less competition for light, water and mineral ions, and more energy is stored in the crop biomass.
 12. Animal welfare: the animals cannot show natural behaviour, so any gain in productivity has to be weighed against this.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-biology-energy-transfer-and-productivity-in-ecosystems--06-carbon-cycle.webp" width="900" height="1230" alt="Producers fix carbon dioxide by photosynthesis and carbon passes along food chains. Respiration by all organisms and decomposition return carbon dioxide; combustion releases it quickly, fossilisation stores carbon for very long periods, and the oceans dissolve carbon dioxide and form shells and limestone." loading="lazy">
+  <figcaption>Carbon moves between air, organisms, fossil stores and the sea.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-biology-energy-transfer-and-productivity-in-ecosystems--09-succession.webp" width="900" height="1050" alt="Four quarry floors aged 5, 20, 50 and 120 years show soil depth rising from 0.5 to 25 cm. Plant species per 100 square metres rise from 3 to 22 at 50 years then fall to 19 at 120 years as light at the ground drops from 100% to 8%." loading="lazy">
+  <figcaption>Each stage changes soil and light for the next; diversity can fall under a dense canopy.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

@@ -292,6 +292,16 @@ Hydration works the same way. One mole of ethene (Mr 28) gives one mole of ethan
   <figcaption>The masses of products add up to the mass of reactants in both routes to ethanol.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/alcohols-and-carboxylic-acids--01-two-routes-to-ethanol.webp" width="900" height="1000" alt="Top: a sealed flask of glucose and yeast at 25-35 C with no oxygen gives dilute ethanol, and carbon dioxide leaves through a tube. Bottom: ethene and steam pass over an acid catalyst in a reactor at 300 C and 6000 kPa to give pure ethanol." loading="lazy">
+  <figcaption>Fermentation is sealed, mild and makes dilute ethanol; steam and ethene need 300 C, 6000 kPa and an acid catalyst.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/alcohols-and-carboxylic-acids--02-fermentation-vs-hydration.webp" width="900" height="1010" alt="Two columns compare fermentation and steam plus ethene: plants (renewable) versus crude oil (not renewable); slow versus fast; a dilute mixture versus pure ethanol; and mild 25-35 C versus 300 C and 6000 kPa." loading="lazy">
+  <figcaption>Neither route is simply better: renewable and mild but slow and dilute, or fast and pure but energy-intensive.</figcaption>
+</figure>
+
 
 ## 3.10.1.2 g: biofuels
 

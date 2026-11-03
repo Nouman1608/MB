@@ -58,17 +58,6 @@ radioactive isotopes graphically and use the equations for radioactive
 decay, activity A = λN, dN/dt = −λN, t½ = ln2/λ, N = N₀e^(−λt) and
 A = A₀e^(−λt), and derive and use the corresponding log equations.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-physics-nuclear-physics--08-aphy-nuclear-reactor.webp" width="900" height="960" alt="Cross-section of a reactor with fuel rods in a moderator, control rods that absorb neutrons, coolant leaving hot and returning cool, and thick shielding. Heat passes to a heat exchanger, turbine and generator. Control rods hold k at 1." loading="lazy">
-  <figcaption>The moderator slows neutrons and the control rods absorb them.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-physics-nuclear-physics--09-aphy-nuclear-radius.webp" width="900" height="1110" alt="Nuclei with A = 4, 64 and 216 have radii 1.9, 4.8 and 7.2 fm from R = 1.2 A^(1/3) fm. R plotted against the cube root of A is a straight line of gradient R0. Mass and volume both scale with A, so every nucleus has the same density, about 2.3 x 10^17 kg per cubic metre." loading="lazy">
-  <figcaption>Nuclear radius grows as the cube root of A, so nuclear density is constant.</figcaption>
-</figure>
-
-
 ## Binding energy, fusion and fission
 
 **Nuclear binding energy** is the energy released when nucleons combine
@@ -183,6 +172,11 @@ After 60 years (= 2 half-lives), fraction remaining = (½)² = **0.25**
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/a-physics-nuclear-physics--05-aphy-nuclear-log-graph.webp" width="900" height="990" alt="ln of corrected count rate against time is a straight line falling from 6.461 to 4.710 over 50 minutes. The gradient is -0.0350 per minute, so lambda = 0.0350 per minute and the half-life is 19.8 minutes." loading="lazy">
   <figcaption>A straight ln graph supports the exponential law and its gradient is minus lambda.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-nuclear-physics--09-aphy-nuclear-radius.webp" width="900" height="1110" alt="Nuclei with A = 4, 64 and 216 have radii 1.9, 4.8 and 7.2 fm from R = 1.2 A^(1/3) fm. R plotted against the cube root of A is a straight line of gradient R0. Mass and volume both scale with A, so every nucleus has the same density, about 2.3 x 10^17 kg per cubic metre." loading="lazy">
+  <figcaption>Nuclear radius grows as the cube root of A, so nuclear density is constant.</figcaption>
 </figure>
 
 

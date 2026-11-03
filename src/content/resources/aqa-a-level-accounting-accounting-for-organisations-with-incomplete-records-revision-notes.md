@@ -188,6 +188,12 @@ Read the policy every time: is the charge on cost or carrying amount, and is the
 | Total account vs ledger account | Uses totals for the year | Records each transaction |
 | Drawings vs capital introduced | Added back to the change in capital | Subtracted from the change in capital |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-accounting-for-organisations-with-incomplete-records--01-adjustments-two-effects.webp" width="900" height="1010" alt="A four-row table shows accrued expenses, prepaid expenses, income due and income received in advance. An accrued expense is added to the expense and is a current liability (other payable); a prepaid expense is deducted and is a current asset (other receivable). Income due is added to income and is a current asset; income in advance is deducted and is a current liability." loading="lazy">
+  <figcaption>Each year-end adjustment changes both the income statement and the statement of financial position.</figcaption>
+</figure>
+
+
 ## Single entry vs double entry
 
 - **Benefits of single entry:** cheap, quick, simple; may suit a tiny cash business with few assets.

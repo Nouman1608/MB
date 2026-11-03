@@ -170,6 +170,11 @@ The diagram holds 19 values. The range is 47 − 18 = 29. Three scores of 31 mak
   <figcaption>Count leaves, not stems, to find the median, and always include the key.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-statistics--07-stem-and-leaf-order.webp" width="900" height="680" alt="The same 15 values as an unordered and an ordered stem-and-leaf diagram. Counting to the 8th leaf unordered gives 38, which is wrong. Ordered, the 8th leaf is 31, the median. Key: 3 | 1 means 31." loading="lazy">
+  <figcaption>Order the leaves in each row before counting to the median.</figcaption>
+</figure>
+
 
 ## 7. Scatter graphs
 
@@ -182,6 +187,16 @@ The points climb from left to right, so more revision goes with higher scores. A
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/oxfordaqa-igcse-mathematics-statistical-charts-and-diagrams--02-scatter-outlier.webp" width="900" height="830" alt="Eight pupils climb from (1, 34) to (8, 80). A ninth pupil at (6, 35) is circled far below the dashed trend of the other eight, so it should be mentioned and checked." loading="lazy">
   <figcaption>Eight points follow an upward trend and the ninth, (6, 35), is an outlier.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-statistics--04-correlation-types.webp" width="900" height="1010" alt="Three scatter diagrams: positive correlation (y rises with x), negative correlation (y falls as x rises) and zero correlation (no pattern, so no line of best fit)." loading="lazy">
+  <figcaption>Judge the correlation by eye before drawing any line.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-statistics--05-line-of-best-fit.webp" width="900" height="850" alt="A scatter diagram of revision hours and test score with a line of best fit through the mean point. Reading up from 6 hours gives a predicted score of about 67. The line is dashed beyond 8 hours where there is no data." loading="lazy">
+  <figcaption>A line of best fit passes through the mean point and is used to predict inside the range of the data.</figcaption>
 </figure>
 
 
@@ -225,6 +240,22 @@ Estimate how many visitors were aged 20 to 30. Assume the class is evenly spread
 
 To read a bar, multiply height by width. A bar 1.6 high and 20 wide stands for 32 people.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-mathematics-histograms-and-frequency-density-with-unequal-class--01-why-frequency-density.webp" width="900" height="1040" alt="The 71 phone calls from worked example 1 drawn twice. With frequency as the height, the 5 to 10 class looks tallest and the wide classes look too important. With frequency density (3, 5, 4, 1.8, 0.6) the 2 to 5 class is the tallest bar." loading="lazy">
+  <figcaption>Plotting frequency against unequal class widths misleads; frequency density gives a fair picture.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-statistics--06-histogram-frequency-density.webp" width="900" height="850" alt="A histogram of ages of 120 people with unequal class widths. Frequency density = frequency / class width gives 2, 2.5, 3 and 1. The 10 to 30 class has most people (50) but the 30 to 40 bar is the tallest." loading="lazy">
+  <figcaption>With unequal class widths the bar height is frequency density, and the bar area equals the frequency.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-maths-8300-statistics--12-histogram-estimate.webp" width="900" height="900" alt="A histogram of plant heights with frequency density 1.2, 3.6, 4.4, 1.6 and 0.4 for classes 0-10, 10-15, 15-20, 20-30 and 30-50. The area from 12 to 25 is shaded: 10.8 + 22 + 8 gives about 41 plants." loading="lazy">
+  <figcaption>Area is frequency, so shade the part you want and add the areas.</figcaption>
+</figure>
+
+
 ## 10. Cumulative frequency diagrams (Extension only)
 
 Cumulative frequency is a running total. Mark each total above the **upper class boundary**, with the curve starting at (lower end, 0), and join the points with a smooth curve.
@@ -245,6 +276,27 @@ Interquartile range: 40 − 22 = 18 minutes.
 
 To find how many waited more than 45 minutes, read the curve at 45. It is about 66, so 80 − 66 = 14 callers.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-cumulative-frequency-diagrams--01-build-the-table.webp" width="900" height="800" alt="Six time classes with frequencies 6, 18, 36, 32, 20, 8 are shown as bars beside running-total bars that grow to 6, 24, 60, 92, 112, 120. The last total equals 120, the number of students." loading="lazy">
+  <figcaption>Each running total adds the new class to the total so far, and the last must equal the total frequency.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-cumulative-frequency-diagrams--02-draw-the-curve.webp" width="900" height="770" alt="Crosses at (0,0), (10,6), (20,24), (30,60), (40,92), (50,112), (60,120) are joined by one smooth S-shaped curve. The start at zero and the upper class boundary are highlighted." loading="lazy">
+  <figcaption>Plot each running total at the upper class boundary, start at (0, 0) and join with a smooth curve.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-cumulative-frequency-diagrams--03-median-quartiles-iqr.webp" width="900" height="920" alt="On the curve for 120 students, reading across at 30, 60 and 90 and down gives LQ about 22, median 30 and UQ about 39 minutes. The IQR is 39 minus 22 = 17 minutes." loading="lazy">
+  <figcaption>Read across at n/4, n/2 and 3n/4, then down; the IQR is UQ minus LQ.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-cumulative-frequency-diagrams--05-time-to-number.webp" width="900" height="918" alt="Starting at 35 minutes and reading up then across gives about 77 students. Starting at 45 gives about 103, so more than 45 minutes is 120 minus 103 = 17 students, about 14%." loading="lazy">
+  <figcaption>From a time, go up to the curve then across; for &quot;more than&quot;, subtract from the total.</figcaption>
+</figure>
+
+
 ## 11. Box plots (Extension only)
 
 A box plot shows five values on one scale: the minimum, lower quartile, median, upper quartile and maximum. Draw a box between the two quartiles and mark the median across it. Lines called whiskers then reach out to the smallest and largest values.
@@ -261,6 +313,16 @@ The interquartile range is 18 minutes. To compare two box plots, quote a middle 
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/oxfordaqa-igcse-mathematics-statistical-charts-and-diagrams--03-box-plots-two-queues.webp" width="900" height="895" alt="Queue 1 has a box from 22 to 40 with median 30 and whiskers to 3 and 58. Queue 2 has quartiles 15 and 30 and median 22, so a lower median and smaller IQR." loading="lazy">
   <figcaption>Compare two box plots with a median and a spread.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-maths-8300-statistics--11-box-plot-build.webp" width="900" height="760" alt="Eleven ordered values from 3 to 22 sit on a number line. The 3rd value 6 is the lower quartile, the 6th value 10 is the median and the 9th value 15 is the upper quartile. The box runs from 6 to 15 with a line at 10, and whiskers reach 3 and 22, so the IQR is 9 and the range is 19." loading="lazy">
+  <figcaption>Pick the minimum, three quartiles and maximum from the ordered list and draw them on one scale.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-cumulative-frequency-diagrams--06-comparing-groups.webp" width="900" height="1070" alt="Two curves on one grid: teachers have median 26 and IQR 11, students median 30 and IQR about 17. Bars show the middle half of each group. Teachers were faster and more consistent." loading="lazy">
+  <figcaption>Compare a lower median (faster) and a smaller IQR (more consistent), in context.</figcaption>
 </figure>
 
 

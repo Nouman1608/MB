@@ -127,6 +127,11 @@ Worked reminder: Plumbridge Soap Works has 600 customers, 70% women and 30% men,
 Bias reminders (extension: the content list does not include sample error or bias; they come from the guide's suggested theory of knowledge questions): sample error (the sample differs from the population), selection bias (how people are chosen), non-response bias (people who reply differ from those who do not) and researcher bias (leading questions or interviewer influence). Larger samples and clear rules reduce these risks but do not remove them.
 
 <figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-market-research--07-quota-sample.webp" width="900" height="1030" alt="A bar shows a customer list of 4,000 split 30, 40, 20 and 10 percent by age. A grid of 100 dots shows the same shares as quotas of 30, 40, 20 and 10." loading="lazy">
+  <figcaption>Quotas copy the list profile, but staff still choose who to ask.</figcaption>
+</figure>
+
+<figure class="topic-figure">
   <img src="https://img.marlbridge.com/ib-dp-business-management-marketing--05-sampling-methods.webp" width="900" height="1100" alt="Three panels show the same 50 people (30 circles, 20 squares) with 5 chosen. Random: everyone equally likely, most representative but costly and slow. Quota: 3 circles and 2 squares to mirror the mix, cost and speed in between. Convenience: the 5 nearest the door, cheap and fast but may not represent everyone." loading="lazy">
   <figcaption>Sampling methods trade representativeness against cost and speed.</figcaption>
 </figure>

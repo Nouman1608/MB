@@ -148,6 +148,12 @@ x̄  = 392.4 / 5 = 78.48 = 78.5 kWh (3 s.f.)
 σ  = 7.90 kWh (3 s.f.)
 ```
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-data-presentation-and-interpretation--04-sampling-methods.webp" width="900" height="1250" alt="Three grids of the same 60 numbered people, in 6 rows of 10, with three groups shown by shape: group A circles (24), group B squares (20) and group C diamonds (16). Systematic sampling picks every 4th person from a random start of 3, giving 15 people (3, 7, 11 up to 59); the risk is a repeating pattern in the list. Stratified sampling picks 6, 5 and 4 people at random from groups A, B and C, in proportion to group size, again 15 people. Cluster sampling picks 2 of the 6 rows at random and asks everyone in them, 20 people. A note says quota sampling is like stratified sampling but the people asked are not chosen at random." loading="lazy">
+  <figcaption>How each method picks its sample; quota is stratified without random selection.</figcaption>
+</figure>
+
+
 ## Analysing a subset with a calculator
 
 The specification requires you to analyse a subset or features of the data using a calculator
@@ -215,6 +221,12 @@ Then add a caution: the Region A sample has only nine values, so another sample 
 different mean. Different samples can lead to different conclusions, as Section K of the
 specification notes.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-data-presentation-and-interpretation--05-sample-variability.webp" width="900" height="955" alt="Three dot plots of one-way commuting times in minutes. Analyst A's random sample of 8 (18, 22, 25, 27, 30, 35, 38, 41) has mean 29.5. Analyst B's random sample of 8 (15, 17, 19, 20, 21, 24, 26, 33) has mean 21.9. Together the 16 values have mean 25.7. Triangles mark each mean. Both samples came from a fair method, so the 7.6 minute gap is sampling variability; combining the samples, or using larger ones, reduces it." loading="lazy">
+  <figcaption>Two fair random samples from the same firm give different means, so samples are only estimates.</figcaption>
+</figure>
+
+
 ## Interpreting real data in graphical form
 
 Read a graph for its **message**, then check whether its **construction** supports that message.
@@ -270,6 +282,12 @@ Question: in the invented survey, do rural households use more electricity than 
 5. **Repeat if needed.** A fresh pair of samples, or a larger sample, would show whether the gap
    is consistent. A formal test belongs to Section O, covered in the
    [hypothesis testing guide](/resources/aqa-a-level-mathematics-statistical-hypothesis-testing/).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-data-presentation-and-interpretation--06-two-groups-one-line.webp" width="900" height="910" alt="A scatter diagram of journey time in minutes against distance in kilometres for 6 cyclists (circles) and 6 van drivers (squares). Both groups rise left to right but the cyclists form a steeper band. A single dashed line fitted to all 12 points predicts about 17 minutes for 4 km, but the cyclist took 21.5 minutes and the van driver 14 minutes, so the line matches neither. The better approach is a separate line for each type of courier." loading="lazy">
+  <figcaption>One line through two distinct groups matches neither, so fit and use a separate line for each group.</figcaption>
+</figure>
+
 
 ## Common errors
 

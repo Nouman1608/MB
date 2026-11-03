@@ -207,12 +207,6 @@ When you must justify or evaluate, write in this order.
 4. Choose, and say why that choice suits the business's aim better.
 5. Add one condition, such as training for new team leaders, that makes the choice work.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/edexcel-igcse-business-organisation-structure-and-employees--01-quillfen-two-charts.webp" width="900" height="1066" alt="Two charts for the same 60 operatives. Hierarchical: 12 supervisors, 3 managers and 1 director give 4 levels and 76 employees. Flat: 6 team leaders and 1 owner give 3 levels and 67 employees, 9 fewer posts." loading="lazy">
-  <figcaption>The same 60 operatives need 76 employees in the hierarchical option and 67 in the flat option.</figcaption>
-</figure>
-
-
 ## Quick self-test
 
 1. Define span of control.
@@ -238,6 +232,12 @@ When you must justify or evaluate, write in this order.
 8. Human resources.
 9. Dismissal relates to the employee's conduct or performance. Redundancy happens because the job is no longer needed.
 10. 36 × 12.50 = 450.00; 4 × 12.50 × 1.5 = 75.00; total = 525.00.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-business-organisation-structure-and-employees--01-quillfen-two-charts.webp" width="900" height="1066" alt="Two charts for the same 60 operatives. Hierarchical: 12 supervisors, 3 managers and 1 director give 4 levels and 76 employees. Flat: 6 team leaders and 1 owner give 3 levels and 67 employees, 9 fewer posts." loading="lazy">
+  <figcaption>The same 60 operatives need 76 employees in the hierarchical option and 67 in the flat option.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

@@ -37,6 +37,12 @@ The specification lists these as formulae you must learn (they are not in the fo
 | p = mv | Momentum | Signed in a straight line |
 | Impulse = mv − mu | Change in momentum | Unit N s; equals Ft for a constant force |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-maths-9709-mechanics--05-amth-forces-friction-model.webp" width="900" height="940" alt="Graph of friction against push for a 5 kg box with μ = 0.4 (R = 49 N, maximum friction 19.6 N). F equals P until P = 19.6 N, then stays at 19.6 N when the box slides. P = 15 N gives F = 15 N, not 19.6 N. Three mini diagrams show at rest, limiting and sliding (a = 1.08 m per second squared)." loading="lazy">
+  <figcaption>Friction matches the push up to a maximum μR; only when on the point of moving or sliding is F = μR.</figcaption>
+</figure>
+
+
 ## Forces in one line each
 
 * **Weight:** down, mg.
@@ -97,6 +103,17 @@ R = 6 × 9.8 = 58.8 N,  F = 0.3 × 58.8 = 17.64 N
 **Car and trailer.** Whole system: driving force − all resistances = (total mass)a. Then use the trailer alone for the tow bar: T − (trailer resistance) = (trailer mass)a. With a rigid rod, a negative T means a thrust of that size.
 
 **String goes slack.** When the hanging particle lands, T becomes zero. The other particle now moves under friction or resistance alone, with deceleration μg for a rough horizontal surface.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-maths-9709-mechanics--04-amth-forces-tow.webp" width="900" height="1010" alt="Whole system of 2000 kg: 3300 − 800 = 2000a gives a = 1.25 m per second squared. Trailer alone: T − 300 = 800 × 1.25 gives T = 1300 N. With a rigid bar and braking, the system slows at 1.15 m per second squared and the bar pushes back on the trailer with 620 N thrust (Cambridge 9709, OxfordAQA)." loading="lazy">
+  <figcaption>Treat the whole system first, then one part to find the tow-bar force; a rigid bar can push (thrust).</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-maths-9709-mechanics--07-amth-forces-slope.webp" width="900" height="920" alt="A 4 kg block on a 30 degree rough slope with μ = 0.25. Weight 39.2 N splits into mg sin 30 = 19.6 N down the slope and mg cos 30 = 33.9 N into it, so R = 33.9 N and F = 8.49 N up the slope. 19.6 − 8.49 = 4a gives a = 2.78 m per second squared down the slope." loading="lazy">
+  <figcaption>Resolve the weight along and across the slope: R = mg cos θ and the net force down the slope is mg sin θ − μR.</figcaption>
+</figure>
+
 
 ## Momentum and impulse
 
@@ -169,6 +186,17 @@ Impulse on the 5 kg particle: 5 × (1.75 − 4) = −11.25 N s  (equal and oppos
 8. 6 / 0.05 = 120 N
 9. 12 = 2 × 1 + 4v, so v = 2.5 m/s
 10. Constant speed means a = 0, so T = 3 × 9.8 = 29.4 N
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-maths-9709-mechanics--06-amth-forces-rope-angle.webp" width="900" height="970" alt="A 12 kg box on rough ground (μ = 0.4) on the point of sliding. Pulled by a rope at 25 degrees above horizontal, T = 43.7 N and R = 99.1 N, less than the weight 117.6 N. Pushed at 25 degrees below horizontal, P = 63.8 N and R = 144.6 N, more than the weight. Dashed lines show components." loading="lazy">
+  <figcaption>A pull at an angle lowers R and so the friction limit; a push at an angle raises it.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-maths-9709-mechanics--09-amth-forces-conical.webp" width="900" height="940" alt="A 0.4 kg bob on a 1.2 m string moves in a horizontal circle at 5 rad per second. T = mLω² = 12 N, cos θ = g/(Lω²) = 0.327 so θ = 70.9 degrees, r = 1.13 m, v = 5.67 m per second. Tension plus weight give a horizontal resultant 11.3 N to the centre; from above, v is tangent and a = 28.3 m per second squared points to the centre." loading="lazy">
+  <figcaption>The resultant of tension and weight points to the centre of the circle and equals mrω².</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

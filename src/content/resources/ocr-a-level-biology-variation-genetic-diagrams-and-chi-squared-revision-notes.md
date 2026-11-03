@@ -77,6 +77,11 @@ All daughters are unaffected carriers, and all sons are affected. A son always g
   <figcaption>Gametes, a Punnett square and the ratio, then a test cross to reveal an unknown genotype.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-inheritance--04-sex-linkage.webp" width="900" height="1000" alt="A carrier mother XHXh and unaffected father XHY give an unaffected girl, a carrier girl, an unaffected boy and an affected boy. One child in four is affected, half the sons and no daughters. In birds, a non-barred male ZbZb crossed with a barred female ZBW gives barred sons and non-barred daughters (AQA and OxfordAQA)." loading="lazy">
+  <figcaption>A son has one X, so one recessive allele shows; the father passes his Y to sons.</figcaption>
+</figure>
+
 
 ## Using ratios, 6.1.2(b)(ii)
 
@@ -104,6 +109,11 @@ All daughters are unaffected carriers, and all sons are affected. A son always g
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/a-level-biology-9700-inheritance--06-autosomal-linkage.webp" width="900" height="1110" alt="A parent with A and B on one chromosome and a and b on the other makes mostly parental gametes AB and ab; crossing over makes recombinant Ab and aB. In 1000 offspring 412 and 398 are parental, 93 and 97 recombinant, 19 percent, instead of 250 of each." loading="lazy">
   <figcaption>Linked alleles travel together unless crossing over separates them.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-inheritance--07-epistasis.webp" width="900" height="1222" alt="Allele A makes the enzyme that turns a colourless precursor into yellow pigment and B the enzyme that turns yellow into red; aa gives white whatever B is, so AaBb by AaBb gives 9 red, 3 yellow and 4 white. Rows of 16 squares show how 12:3:1, 9:7 and 15:1 arise from other gene interactions." loading="lazy">
+  <figcaption>One gene can mask another, merging classes of the 16 boxes.</figcaption>
 </figure>
 
 
@@ -185,6 +195,16 @@ Two additive genes give five classes, 1 : 4 : 6 : 4 : 1; n genes give 2n + 1 cla
 10. They share genes, but differences in diet and environment affect height, so the environmental contribution differs.
 
 <figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-inheritance--01-alleles-genotype-phenotype.webp" width="900" height="1080" alt="Three pairs of homologous chromosomes show AA, Aa and aa with the alleles at the same locus; AA and aa are homozygous and Aa heterozygous, and A is dominant. Below, two hydrangea flowers of the same genotype look different in soils of different pH." loading="lazy">
+  <figcaption>Alleles sit at the same locus on homologous chromosomes, and the environment can change the phenotype of one genotype.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-inheritance--03-codominance-multiple-alleles.webp" width="900" height="980" alt="Crossing two patched plants CRCW gives red, patched and white in a 1 : 2 : 1 ratio, where the genotype ratio equals the phenotype ratio. The ABO cross IAi by IBi gives one each of groups AB, A, B and O; three alleles exist in a population but each person carries two." loading="lazy">
+  <figcaption>A 1 : 2 : 1 ratio signals codominance; ABO has three alleles, two codominant and one recessive.</figcaption>
+</figure>
+
+<figure class="topic-figure">
   <img src="https://img.marlbridge.com/a-level-biology-9700-inheritance--05-dihybrid-cross.webp" width="900" height="1110" alt="The 16-box Punnett square for AaDd by AaDd shows 9 purple tall, 3 purple dwarf, 3 green tall and 1 green dwarf plants, a 9 : 3 : 3 : 1 ratio. Purple dwarf has probability 3/4 times 1/4, which is 3/16." loading="lazy">
   <figcaption>Two genes on different chromosomes assort independently to give 9 : 3 : 3 : 1.</figcaption>
 </figure>
@@ -201,17 +221,6 @@ Two additive genes give five classes, 1 : 4 : 6 : 4 : 1; n genes give 2n + 1 cla
 - Concluding "the ratio is proved" or "the hypothesis is accepted"; use the language of significance and chance.
 - Explaining variation using only genes, or only environment, when the question gives both.
 - Describing continuous variation as "controlled by environment"; it is controlled by many genes, with the environment adding to the effect.
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-level-biology-9700-inheritance--01-alleles-genotype-phenotype.webp" width="900" height="1080" alt="Three pairs of homologous chromosomes show AA, Aa and aa with the alleles at the same locus; AA and aa are homozygous and Aa heterozygous, and A is dominant. Below, two hydrangea flowers of the same genotype look different in soils of different pH." loading="lazy">
-  <figcaption>Alleles sit at the same locus on homologous chromosomes, and the environment can change the phenotype of one genotype.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-level-biology-9700-inheritance--03-codominance-multiple-alleles.webp" width="900" height="980" alt="Crossing two patched plants CRCW gives red, patched and white in a 1 : 2 : 1 ratio, where the genotype ratio equals the phenotype ratio. The ABO cross IAi by IBi gives one each of groups AB, A, B and O; three alleles exist in a population but each person carries two." loading="lazy">
-  <figcaption>A 1 : 2 : 1 ratio signals codominance; ABO has three alleles, two codominant and one recessive.</figcaption>
-</figure>
-
 
 ## Official syllabus
 

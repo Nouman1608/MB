@@ -110,12 +110,6 @@ Adaptations in an unfamiliar organism: identify the feature, say which type it i
 
 Adaptation and selection are major factors in evolution. Different environments favour different alleles, which contributes to the diversity of living organisms.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-level-biology-9700-selection-and-evolution--02-three-types-of-selection.webp" width="900" height="1274" alt="Three panels each show a dashed bell curve before selection and a solid curve after. Stabilising selection narrows the curve with the mean unchanged, directional selection shifts it toward one extreme, and disruptive selection leaves two peaks and removes the middle." loading="lazy">
-  <figcaption>Selection can narrow, shift or split the distribution of a phenotype.</figcaption>
-</figure>
-
-
 ## Interpreting selection data: checklist
 
 1. Describe the overall trend first, with figures and units.
@@ -123,6 +117,12 @@ Adaptation and selection are major factors in evolution. Different environments 
 3. Decide the type of selection from what happens to the mean and range.
 4. Explain with the selection chain, using the context of the question.
 5. Note limitations: correlation is not proof of cause, and a small sample size reduces confidence.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-selection-and-evolution--02-three-types-of-selection.webp" width="900" height="1274" alt="Three panels each show a dashed bell curve before selection and a solid curve after. Stabilising selection narrows the curve with the mean unchanged, directional selection shifts it toward one extreme, and disruptive selection leaves two peaks and removes the middle." loading="lazy">
+  <figcaption>Selection can narrow, shift or split the distribution of a phenotype.</figcaption>
+</figure>
+
 
 ## Explaining change in an unfamiliar population
 
@@ -196,6 +196,17 @@ Aim: use aseptic techniques to investigate the effect of antimicrobial substance
 9. 0.301 / 0.903 = 0.333 h = **20 minutes**.
 10. Condensation does not drip on to the agar and disturb colonies.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-selection-and-evolution--01-polygenes-bell-curve.webp" width="900" height="1040" alt="A bar chart of offspring from AaBbCc x AaBbCc across 0 to 6 height-adding alleles: 1, 6, 15, 20, 15, 6, 1 out of 64. A plant under each bar gets taller as the number of adding alleles rises. Many small additive genes, blurred by the environment, give a smooth continuous range." loading="lazy">
+  <figcaption>Many genes with small additive effects give a bell-shaped distribution of offspring.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-selection-and-evolution--07-bottleneck-founder.webp" width="900" height="1070" alt="In a bottleneck 5000 animals fall to 40 survivors and allele A drops from 0.30 to 0.15. In the founder effect 25 birds found an island and a rare allele rises from 0.02 to 0.10. A small sample of the gene pool differs from the original by chance." loading="lazy">
+  <figcaption>A small sample of a gene pool can change allele frequencies without any selection.</figcaption>
+</figure>
+
+
 ## Where marks are usually lost
 
 - Defining genetic diversity as the number of individuals or "variety" without alleles.
@@ -207,6 +218,11 @@ Aim: use aseptic techniques to investigate the effect of antimicrobial substance
 - Omitting the control or the controlled variables in the practical.
 - Treating log scale steps as equal additions.
 - Giving a general answer that does not use the organism in the question.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-selection-and-evolution--05-hardy-weinberg-square.webp" width="900" height="1010" alt="A unit square is divided by p = 0.8 and q = 0.2 into AA 0.64, two Aa areas of 0.16 and aa 0.04. For 400 animals with 16 recessive, q squared is 0.04, so q is 0.2, p is 0.8, 2pq is 0.32 and there are 128 carriers." loading="lazy">
+  <figcaption>p squared, 2pq and q squared are the areas of a square split by the two allele frequencies.</figcaption>
+</figure>
 
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/a-level-biology-9700-selection-and-evolution--06-genetic-drift.webp" width="900" height="1200" alt="Two graphs show eight simulated populations starting with an allele at 0.5. With 20 gene copies the lines wander and several are lost or fixed by chance; with 1000 gene copies they stay near 0.5." loading="lazy">

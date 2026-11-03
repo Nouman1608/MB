@@ -122,6 +122,11 @@ Spending on benefits, health and education raises low incomes further. Evaluatio
   <figcaption>A tax equal to the external cost moves output from the market level to the socially optimal level.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-objectives-of-government--07-types-of-tax.webp" width="900" height="1110" alt="Bar charts of tax as a percentage of income for low, middle and high earners: progressive rises (10, 15, 22.5 percent), regressive falls (2, 1.5, 1 percent). Below, a direct tax goes from you to the government; an indirect tax goes via a shop." loading="lazy">
+  <figcaption>Direct/indirect and progressive/regressive are two separate ways to classify taxes.</figcaption>
+</figure>
+
 
 ## Buffer stock rule
 
@@ -130,6 +135,11 @@ Set a floor and a ceiling. If the free-market price would fall below the floor, 
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-government-intervention-in-markets-and-government--09-gi-buffer-stock-years.webp" width="900" height="950" alt="A price chart for years 1 to 4 with a band from 9 to 11. Without a scheme the price is 7, 10, 12 and 13. With the scheme it is 9, 10, 11 and 12. A lower chart shows the authority stock after each year: 20, 20, 10 and 0 thousand tonnes. In year 1 it buys 20 at price 9, in year 3 it sells 10, and in year 4 it has only 10 left so the price rises to 12, above the ceiling." loading="lazy">
   <figcaption>The authority holds the price inside 9 to 11 in years 1 to 3, but in year 4 its stock is empty and the price breaks the ceiling at 12.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-economics-government-microeconomic-intervention--03-buffer-stock.webp" width="900" height="1030" alt="Demand slopes down; supply is three vertical lines for a bad (30), normal (50) and good (70) harvest. The agency sets a lower price of 4 and an upper price of 6. In a good harvest it buys 10 units to stop the price falling below 4; in a bad harvest it sells 10 units from store to stop the price rising above 6." loading="lazy">
+  <figcaption>A buffer stock buys when price is low and sells when price is high, keeping price between two limits.</figcaption>
 </figure>
 
 
@@ -170,6 +180,11 @@ Judge by comparing the size of the market failure with the likely size of the go
   <figcaption>Conflicting objectives, administrative costs, corruption and unintended consequences can each leave resources worse allocated.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-economics-government-microeconomic-intervention--02-subsidy-incidence.webp" width="900" height="890" alt="Supply and demand diagram where a subsidy of 2 per unit shifts supply down from S1 to S2. Quantity rises from 50 to 60, the consumer price falls from 5 to 3.8 (gain 1.2 a unit) and the producer receives 5.8 (gain 0.8 a unit). The government pays 2 a unit." loading="lazy">
+  <figcaption>A subsidy lowers the price consumers pay and raises what producers receive; the split depends on elasticity.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 
@@ -205,6 +220,12 @@ Judge by comparing the size of the market failure with the likely size of the go
 9. Consumers bear 75% × 4 = 3, and 3/20 = 15%.
 10. A black market, or reduced quality, or rationing by queue.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-government-intervention-in-markets-and-government--11-un226-gi-property-rights.webp" width="900" height="930" alt="Two pictures of a fishing ground. Top: an open-access fishing ground that nobody owns, with five boats all heading in to take as much fish as they can and nobody paying to protect the stock. Bottom: the same ground fenced and owned, with one boat that pays to fish; the owner or user has a reason to protect the stock. A note says rights work poorly where they cannot be defined or enforced, such as the air. The drawing is a schematic with no numbers." loading="lazy">
+  <figcaption>Nobody owns an open fishing ground, so nobody has a reason to protect it; enforceable rights give owners that reason and make others pay to use it.</figcaption>
+</figure>
+
+
 ## Where marks are usually lost
 
 - Drawing the tax as a shift of demand, or labelling the gap between old and new price as the tax.
@@ -222,3 +243,9 @@ Want to find which of these affects you most? Try a [free diagnostic](/diagnosti
 ## Official syllabus
 
 OxfordAQA International AS and A-level Economics (9640) specification, version 1.2, published by OxfordAQA: sections 3.1.5.7 and 3.1.5.8, with the quantitative skills in section 3.5.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-allocation-of-resources--07-price-controls.webp" width="900" height="1370" alt="Equilibrium E is at price 5 and quantity 50. A maximum price of 3 gives demand 70 and supply 25, a shortage of 45. A minimum price of 7 gives demand 30 and supply 75, a surplus of 45." loading="lazy">
+  <figcaption>A maximum price below equilibrium causes a shortage; a minimum price above it causes a surplus.</figcaption>
+</figure>
+

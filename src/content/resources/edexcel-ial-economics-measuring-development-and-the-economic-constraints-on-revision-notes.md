@@ -72,6 +72,12 @@ HDI       = (0.7385 x 0.5067 x 0.5235)^(1/3) = 0.5808
 
 The arithmetic mean is 0.5895, higher than the geometric mean.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-measuring-development-and-the-economic-constraints-on--06-hdi-three-indices.webp" width="900" height="920" alt="Alder's health, education and income indices are 0.831, 0.647 and 0.723. Their geometric mean is the HDI of 0.730, slightly below the arithmetic mean of 0.734." loading="lazy">
+  <figcaption>The HDI is the geometric mean of three indices on a 0 to 1 scale.</figcaption>
+</figure>
+
+
 ## HDI: strengths and limits
 
 | Strengths | Limits |
@@ -82,11 +88,6 @@ The arithmetic mean is 0.5895, higher than the geometric mean.
 | Geometric mean limits trade-offs between components | Data quality varies, and definitions can change over time |
 
 Evaluating: the HDI adds health and education to income, yet is still an average. Judge it for the purpose given. It suits a broad ranking but not an assessment of who gains.
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/edexcel-ial-economics-measuring-development-and-the-economic-constraints-on--06-hdi-three-indices.webp" width="900" height="920" alt="Alder's health, education and income indices are 0.831, 0.647 and 0.723. Their geometric mean is the HDI of 0.730, slightly below the arithmetic mean of 0.734." loading="lazy">
-  <figcaption>The HDI is the geometric mean of three indices on a 0 to 1 scale.</figcaption>
-</figure>
 
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/edexcel-ial-economics-measuring-development-and-the-economic-constraints-on--01-hdi-beta-vs-corra.webp" width="900" height="970" alt="Grouped bars for Beta and Corra. Beta: health 0.923, education 0.267, income 0.966, HDI 0.620. Corra: 0.708, 0.811, 0.514, HDI 0.666. Beta's weak schooling drags its HDI below Corra's although it is far richer." loading="lazy">

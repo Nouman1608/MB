@@ -134,6 +134,12 @@ The X-ray spectrum has two features. A **continuous spectrum** comes from electr
 
 **Medical use.** X-rays pass through soft tissue more easily than bone, so an image on a detector shows bones as lighter shadows. X-rays are also used to treat cancer by damaging cells in a tumour. Because X-ray photons can ionise tissue, exposure is kept as low as possible.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-quantum-physics--05-aphy-quantum-beta-quarks.webp" width="900" height="1140" alt="Two Feynman-style diagrams with time upward. In beta minus decay one down quark changes to an up quark, emitting a W minus that becomes an electron and an antineutrino. In beta plus decay an up quark changes to a down quark, emitting a W plus that becomes a positron and a neutrino. Charge balances and nucleon number is unchanged." loading="lazy">
+  <figcaption>Beta decay changes one quark and emits a lepton pair through a W boson (W-boson diagrams: AQA).</figcaption>
+</figure>
+
+
 ## 3.5.10 Photoelectric effect
 
 ### The photon model

@@ -60,6 +60,11 @@ Alpha particles from a given nuclide leave with one fixed energy (or a few fixed
   <figcaption>The position of a nucleus relative to the stable band decides its decay mode.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-nuclear-physics--03-aphy-nuclear-random-decay.webp" width="900" height="1170" alt="100 dice are thrown repeatedly and every six is removed. Which die goes is unpredictable, but the number left follows the smooth curve 100 x (5/6)^n, halving after about 3.8 throws." loading="lazy">
+  <figcaption>Each nucleus has a constant chance of decaying, so unpredictable single decays give a smooth exponential for a large sample.</figcaption>
+</figure>
+
 
 ## Half-life
 

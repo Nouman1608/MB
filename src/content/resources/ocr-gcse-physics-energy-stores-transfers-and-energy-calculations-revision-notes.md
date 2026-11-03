@@ -97,6 +97,12 @@ Course links: [OCR GCSE Physics hub](/boards/ocr/gcse/physics/), [printable chec
 4. Say how it moved: heating, work done by a force, or work done by a current.
 5. State that the total is unchanged.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-energy-stores-transfers-and-energy-calculations--03-stores-fall-and-rise.webp" width="900" height="1118" alt="Six situations, each with the store that decreases and the store that increases, e.g. vehicle slowing: kinetic falls, thermal in brakes, tyres and road rises." loading="lazy">
+  <figcaption>In every change one store falls and another rises.</figcaption>
+</figure>
+
+
 ## Three ways a system changes (P7.1c)
 
 | Process | What happens |
@@ -247,12 +253,6 @@ Repeating measurements and calculating a mean improves reliability. Measure rebo
 9. h = 40 / (0.50 × 9.8) = 8.16 = **8.2 m**.
 10. Kinetic store decreases. Thermal store (brakes, tyres, road) increases.
 11. It becomes **four times** as large.
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ocr-gcse-physics-energy-stores-transfers-and-energy-calculations--03-stores-fall-and-rise.webp" width="900" height="1118" alt="Six situations, each with the store that decreases and the store that increases, e.g. vehicle slowing: kinetic falls, thermal in brakes, tyres and road rises." loading="lazy">
-  <figcaption>In every change one store falls and another rises.</figcaption>
-</figure>
-
 
 ## Where marks are usually lost
 

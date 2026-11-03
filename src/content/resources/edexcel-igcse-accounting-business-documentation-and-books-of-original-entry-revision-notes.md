@@ -211,12 +211,6 @@ Used for non-routine transactions. Layout: date, account to debit, account to cr
 
 Mini example, opening journal: bank 5,000.00, motor van 7,500.00 and inventory 1,500.00 are debited (total 14,000.00). Loan 3,000.00 and capital 11,000.00 are credited (total 14,000.00). Totals agree.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/edexcel-igcse-accounting-business-documentation-and-books-of-original-entry--03-u2-005-journal-entries.webp" width="900" height="940" alt="Three journal entries in date, details, debit and credit columns: debit account first, credit account indented, then a narrative. In each, debit and credit amounts are equal: 480, 64 and 45." loading="lazy">
-  <figcaption>A journal entry shows the debit, the credit and a narrative, and always balances.</figcaption>
-</figure>
-
-
 ## Quick self-test
 
 1. Name the document a buyer sends to ask a seller for goods.
@@ -242,6 +236,12 @@ Mini example, opening journal: bank 5,000.00, motor van 7,500.00 and inventory 1
 8. The journal.
 9. They are totalled and posted to the discount accounts. They are not money in hand.
 10. A contra entry: debit bank column, credit cash column, marked C on both sides.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-accounting-business-documentation-and-books-of-original-entry--03-u2-005-journal-entries.webp" width="900" height="940" alt="Three journal entries in date, details, debit and credit columns: debit account first, credit account indented, then a narrative. In each, debit and credit amounts are equal: 480, 64 and 45." loading="lazy">
+  <figcaption>A journal entry shows the debit, the credit and a narrative, and always balances.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

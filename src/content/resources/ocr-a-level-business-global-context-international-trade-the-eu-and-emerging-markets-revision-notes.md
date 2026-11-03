@@ -243,6 +243,12 @@ Use these to turn a description into an evaluation of opportunities and threats:
 9. Advantage: it sets its own interest rate. Disadvantage: exchange rate risk when selling in euros.
 10. (1.32 − 1.20) ÷ 1.20 × 100 = **10%**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-marketing--08-foreign-markets.webp" width="900" height="970" alt="A firm faces a wall of cultural differences and lack of local knowledge between itself and a foreign market with growth potential. Two ways round it: a joint venture, where two firms share costs, risks and know-how, and licensing, where a local firm pays a fee to use the brand or product." loading="lazy">
+  <figcaption>Joint ventures and licensing help a firm overcome barriers to a foreign market.</figcaption>
+</figure>
+
+
 ## Where marks are usually lost
 
 - Giving a definition and stopping, with no application to the business in the case.

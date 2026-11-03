@@ -78,6 +78,16 @@ A fall in the rate pushes each of these the other way.
 **Chain for a longer answer.** Rate rises → borrowing is dearer and saving is rewarded → households and firms spend and invest less → total demand falls → output and prices grow more slowly. Then evaluate (see below).
 
 <figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-economics-interest-rates-government-revenue-and-spending-and--06-int-invest-rate.webp" width="900" height="950" alt="A machine costing 50,000 adds 4,000 a year (8%). At a 6% loan the interest is 3,000, net +1,000, so invest. At a 10% loan the interest is 5,000, net -1,000, so do not invest." loading="lazy">
+  <figcaption>A higher interest rate stops projects whose return is below the cost of borrowing.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-economics-interest-rates-government-revenue-and-spending-and--03-tax-cut-demand.webp" width="900" height="920" alt="A worker with 20,000 cu in the band pays 3,600 cu at 18% and 3,200 cu at 16%, keeping 400 cu more. Spending 90% adds 360 cu to demand; 40 cu is saved." loading="lazy">
+  <figcaption>Cutting the middle rate from 18% to 16% adds 360 cu to demand.</figcaption>
+</figure>
+
+<figure class="topic-figure">
   <img src="https://img.marlbridge.com/aqa-gcse-economics-objectives-of-government--06-interest-rates.webp" width="900" height="1010" alt="Top: 1,800 pounds at 5 percent earns 90 pounds in a year (1,800 x 0.05). Bottom: when rates rise, consumers save more but borrow and spend less; producers save more but borrow and invest less." loading="lazy">
   <figcaption>Higher interest rates reward saving and discourage borrowing, spending and investment.</figcaption>
 </figure>
@@ -150,11 +160,6 @@ Islamic finance does not allow riba, a fixed charge for lending money. The retur
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/oxfordaqa-igcse-economics-interest-rates-government-revenue-and-spending-and--03-tax-cut-demand.webp" width="900" height="920" alt="A worker with 20,000 cu in the band pays 3,600 cu at 18% and 3,200 cu at 16%, keeping 400 cu more. Spending 90% adds 360 cu to demand; 40 cu is saved." loading="lazy">
-  <figcaption>Cutting the middle rate from 18% to 16% adds 360 cu to demand.</figcaption>
-</figure>
-
-<figure class="topic-figure">
   <img src="https://img.marlbridge.com/aqa-gcse-economics-objectives-of-government--07-types-of-tax.webp" width="900" height="1110" alt="Bar charts of tax as a percentage of income for low, middle and high earners: progressive rises (10, 15, 22.5 percent), regressive falls (2, 1.5, 1 percent). Below, a direct tax goes from you to the government; an indirect tax goes via a shop." loading="lazy">
   <figcaption>Direct/indirect and progressive/regressive are two separate ways to classify taxes.</figcaption>
 </figure>
@@ -204,11 +209,6 @@ Islamic finance does not allow riba, a fixed charge for lending money. The retur
 10. Interest at 4% = 2,400 cu and at 5.5% = 3,300 cu. Extra = 900 cu a year, or 75 cu a month.
 11. 46 − 40 = 6.
 12. Any one: the rise is small; most loans are fixed-rate; households are confident; savers gain; inflation keeps the real rate low.
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/oxfordaqa-igcse-economics-interest-rates-government-revenue-and-spending-and--06-int-invest-rate.webp" width="900" height="950" alt="A machine costing 50,000 adds 4,000 a year (8%). At a 6% loan the interest is 3,000, net +1,000, so invest. At a 10% loan the interest is 5,000, net -1,000, so do not invest." loading="lazy">
-  <figcaption>A higher interest rate stops projects whose return is below the cost of borrowing.</figcaption>
-</figure>
 
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/oxfordaqa-igcse-economics-interest-rates-government-revenue-and-spending-and--01-mortgage-rate-rise.webp" width="900" height="870" alt="Two bars of a 24,000 cu income show interest on a 100,000 cu variable mortgage taking 5,000 cu (20.8%) at 5% and 7,000 cu (29.2%) at 7%. The extra 2,000 cu a year (166.67 cu a month) is hatched. Spending can fall by up to 2,000 cu." loading="lazy">

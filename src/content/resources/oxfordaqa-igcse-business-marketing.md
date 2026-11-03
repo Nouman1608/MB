@@ -62,6 +62,11 @@ Why segment? The business can fit product and message to one group and spend its
   <figcaption>A market can be segmented by age, location, gender or socio-economic group.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-business-influences-on-business--01-ecommerce-reach.webp" width="900" height="1090" alt="A shop selling only to a few nearby customers inside a small dashed circle, then the same shop with a website reaching many customers spread widely. Labels say e-commerce affects marketing (wider markets) and operations (order fulfilment)." loading="lazy">
+  <figcaption>E-commerce lets a business reach customers well beyond its local area.</figcaption>
+</figure>
+
 
 ## 3.5.3 The purpose and methods of market research
 
@@ -239,6 +244,16 @@ The mix changes over time. As a product ages, a business may cut price, change c
   <figcaption>An extension strategy tries to hold sales up instead of letting them decline.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-marketing--06-distribution-channels.webp" width="900" height="1060" alt="Three routes from producer to consumer: via wholesaler then retailer, via retailer only, or direct. Longer chains reach many shops but add cost; the direct route keeps the whole margin but means doing the selling yourself." loading="lazy">
+  <figcaption>Channels of distribution from producer to consumer.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-marketing--07-marketing-mix.webp" width="900" height="1230" alt="The customer sits among four linked boxes: Product, Price, Place, Promotion. Arrows show they interact. A dashed frame shows legal controls limit all four. A premium mix needs a luxury product, high price and glossy advertising. Technology adds e-commerce and social media." loading="lazy">
+  <figcaption>The four Ps work together, within legal limits.</figcaption>
+</figure>
+
 
 ## Common errors
 
@@ -246,6 +261,12 @@ The mix changes over time. As a product ages, a business may cut price, change c
 - Confusing primary and secondary research, or qualitative and quantitative.
 - Listing promotion methods without tying them to budget, target market or rivals.
 - Treating a mark-up as a profit margin on selling price.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-business-marketing-mix--07-markup-vs-margin.webp" width="900" height="790" alt="Meadowsweet jam costs 2.50 (1.10+0.45+0.60+0.35). A 40 percent mark-up adds 1.00 for a price of 3.50. The 1.00 profit is 40 percent of cost but 28.6 percent of the selling price." loading="lazy">
+  <figcaption>The same profit gives a different percentage depending on whether it is measured against cost or selling price.</figcaption>
+</figure>
+
 
 ## Official syllabus
 

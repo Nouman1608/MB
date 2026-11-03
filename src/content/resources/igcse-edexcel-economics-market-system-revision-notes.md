@@ -86,6 +86,16 @@ For an **inferior good**, demand falls as income rises.
   <figcaption>Price moves towards the equilibrium where demand equals supply.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-economics-demand-supply-and-market-equilibrium--02-egg-demand-shift.webp" width="900" height="900" alt="Demand shifts right by 120 trays at every price after incomes rise. Equilibrium moves from 12 and 280 to 13.2 and 328." loading="lazy">
+  <figcaption>A rise in income shifts demand right: price +10%, quantity +17.1%.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-economics-demand-supply-and-market-equilibrium--05-un185-draw-diagram-marks.webp" width="900" height="930" alt="A demand and supply graph with three numbered features: labelled Price and Quantity axes; curves labelled D, S and shifted D1; and both equilibria (E at 12, 280 and E1 at 13.2, 328) marked with values on the axes." loading="lazy">
+  <figcaption>A model diagram annotated with the three things a Draw answer should include.</figcaption>
+</figure>
+
 
 ## Elasticity
 
@@ -120,6 +130,31 @@ YED = %change in Qd / %change in income
   <figcaption>Salt and petrol are inelastic; a crisp brand and foreign holidays are elastic.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-allocation-of-resources--06-price-elasticity-of-demand.webp" width="900" height="1060" alt="Three demand curves through the same point: steep (inelastic, PED below 1), curved (unit, PED = 1), flat (elastic, PED above 1). PED = % change in quantity divided by % change in price. Example: price falls 10% (5 to 4.5), quantity rises 20% (50 to 60), PED = 2, elastic; revenue rises 250 to 270." loading="lazy">
+  <figcaption>PED measures how strongly quantity demanded responds to a price change, and decides whether revenue rises or falls.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-economics-price-supply-and-income-elasticity-calculation-and-use--01-ped-factors.webp" width="900" height="1038" alt="Four pairs of demand curves through the same point. Steep curves (no close substitute, a necessity, a tiny share of income, just after a rise) are inelastic; flatter curves (many substitutes, a luxury, a large share of income, months later) are elastic." loading="lazy">
+  <figcaption>Steeper demand curves are more inelastic and flatter ones more elastic, for each of the four factors.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-economics-price-supply-and-income-elasticity-calculation-and-use--08-tax-revenue-and-ped.webp" width="900" height="1160" alt="Same 0.40 tax and +20% price. PED -0.3: 47,000 sold, revenue 18,800, firms keep 94,000. PED -1.5: 35,000 sold, revenue 14,000, firms keep 70,000." loading="lazy">
+  <figcaption>Inelastic demand raises more tax and costs firms less.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-economics-price-supply-and-income-elasticity-calculation-and-use--07-yed-luxury-normal-inferior.webp" width="900" height="990" alt="With income up 5%, bus travel falls 3% (YED -0.6, inferior), staple foods rise 2% (+0.4, normal), restaurant meals rise 8% (+1.6, luxury)." loading="lazy">
+  <figcaption>The sign and size of YED give the type of good.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-economics-price-supply-and-income-elasticity-calculation-and-use--02-pes-furniture-vs-maize.webp" width="900" height="852" alt="Percentage rise in price plotted against percentage rise in quantity supplied. Furniture (price +5%, output +15%, PES 3.0) gives a flat line; maize in the same season (price +20%, output +6%, PES 0.3) gives a steep line. Manufactured goods can use stock and spare capacity; crops depend on the season and weather." loading="lazy">
+  <figcaption>Furniture supply is elastic (PES 3.0) and same-season maize supply is inelastic (PES 0.3).</figcaption>
+</figure>
+
 
 ## Market failure
 
@@ -142,6 +177,36 @@ A public good requires **both** properties. Street lighting and defence qualify.
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/igcse-edexcel-economics-market-system-revision-notes--04-five-externality-policies.webp" width="900" height="890" alt="Five small pictures show the five policies in the notes. Taxation shifts the supply curve up and a subsidy shifts it down. A fine punishes breaking a rule, regulation sets a legal limit, and pollution permits allow a set amount of pollution that can be traded." loading="lazy">
   <figcaption>The five policies for correcting an externality.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-economics-business-competition--07-igcse-bus-merger-monopoly.webp" width="900" height="1000" alt="Five bus firms merge: fare 4.00 to 5.00, trips 50,000 to 42,000, cost per trip 3.60 to 3.00 and profit 20,000 to 84,000. The firm gains and passengers lose." loading="lazy">
+  <figcaption>Merging to monopoly raises profit but also fares, and cuts trips.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-allocation-of-resources--06-external-costs-and-benefits.webp" width="900" height="1160" alt="A factory has private cost 10 and its smoke harms neighbours with an external cost of 4, so social cost is 14. A vaccination has private benefit 6 and external benefit 3, so social benefit is 9. The market ignores the external parts." loading="lazy">
+  <figcaption>Social cost or benefit equals private plus external.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-economics-the-mixed-economy-public-goods-privatisation-and--01-street-light-funding.webp" width="900" height="1040" alt="A grid of 200 household dots, 40 filled (paying) and 160 free riders, above three bars: cost 900, voluntary payments 240 (660 short) and tax revenue 900. Only compulsory tax covers the cost." loading="lazy">
+  <figcaption>Why voluntary payment fails for a public good but tax succeeds.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-economics-environmental-protection-and-redistribution-of-income--04-paving-slab-tax.webp" width="900" height="1000" alt="Supply and demand for paving slabs with a 4 dollar tax. Price rises from 12 to 14 dollars and quantity falls from 240 to 180. Sellers keep 10 dollars and tax revenue is 720 dollars." loading="lazy">
+  <figcaption>A $4 tax moves the paving slab market from $12 and 240 slabs to $14 and 180 slabs.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-economics-environmental-protection-and-redistribution-of-income--05-solar-panel-subsidy.webp" width="900" height="990" alt="Zoomed supply and demand for solar panels with a 9 dollar subsidy. Price falls from 100 to 95 dollars and quantity rises from 400 to 420. Sellers receive 104 dollars and the subsidy costs 3,780 dollars." loading="lazy">
+  <figcaption>A $9 subsidy lowers the price buyers pay to $95 and raises output 5% at a cost of $3,780.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-economics-monetary-policy-and-government-controls--13-fine-and-chance-of-capture.webp" width="900" height="1044" alt="Saving from dumping is 60,000 and chance of capture 25%. Fines of 100,000, 240,000 and 300,000 give expected fines 25,000, 60,000 and 75,000." loading="lazy">
+  <figcaption>A fine only deters if the expected fine exceeds the saving.</figcaption>
 </figure>
 
 

@@ -64,11 +64,6 @@ Recall F = ma and W = mg from memory. The specification expects it.
   <figcaption>Third-law pairs act on different bodies; weight and the normal contact force act on one body and are not a pair.</figcaption>
 </figure>
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-level-oxfordaqa-physics-motion-and-newtons-laws--03-lift-tension.webp" width="900" height="900" alt="Three free-body diagrams of a 640 kg lift to one scale. Accelerating upward the tension is 7.0 kN, at constant speed 6.3 kN, and decelerating while moving up 5.5 kN, always against a weight of 6.3 kN. Net force is 0.77 kN up, zero, and 0.77 kN down." loading="lazy">
-  <figcaption>Tension is larger than weight when acceleration is upward and smaller when it is downward, T = m(g + a).</figcaption>
-</figure>
-
 
 ## Method: any constant-force problem
 
@@ -134,6 +129,12 @@ If drag changes (parachute opens): drag > weight, so the object decelerates; dra
 - Acceleration–time: starts at g and decreases to zero.
 - Distance–time: starts flat, steepens, then becomes a straight line whose gradient is the terminal velocity.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-oxfordaqa-physics-motion-and-newtons-laws--06-impulse-area.webp" width="900" height="1140" alt="Two force-time graphs. A triangle rising to 800 N at 6 ms and falling to zero at 18 ms has area 7.2 N s, so a 0.16 kg ball leaves at 45 m s-1. Readings at 2 ms intervals are estimated with trapezium strips as 0.0020 x 1630 = 3.26 N s, about 20 m s-1." loading="lazy">
+  <figcaption>Impulse is the area under a force-time graph; use exact shapes for straight lines and strips for a curve.</figcaption>
+</figure>
+
+
 ## Template for "explain terminal velocity"
 
 1. Weight acts down; drag (and upthrust, in a liquid) acts up.
@@ -182,6 +183,12 @@ Graph check: a distance–time graph that becomes a straight line shows constant
 8. W = 1.2 × 10⁻³ × 9.81 = 0.012 N, so drag is 0.012 N.
 9. Drag increases with speed, so net force (weight minus drag) falls, so acceleration falls.
 10. Any two: drop along the cylinder axis; wait until the ball is moving at constant speed before timing; use video or light gates instead of a stopwatch; keep the temperature steady; repeat and average.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-oxfordaqa-physics-motion-and-newtons-laws--03-lift-tension.webp" width="900" height="900" alt="Three free-body diagrams of a 640 kg lift to one scale. Accelerating upward the tension is 7.0 kN, at constant speed 6.3 kN, and decelerating while moving up 5.5 kN, always against a weight of 6.3 kN. Net force is 0.77 kN up, zero, and 0.77 kN down." loading="lazy">
+  <figcaption>Tension is larger than weight when acceleration is upward and smaller when it is downward, T = m(g + a).</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

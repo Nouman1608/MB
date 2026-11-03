@@ -147,6 +147,12 @@ Method in steps for a conflict question:
 3. Weigh the claims.
 4. Give a reasoned decision, and one way to soften the effect on the losing group.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-0264-business-objectives-and-stakeholder-objectives--06-obj-four-steps.webp" width="900" height="880" alt="Four numbered steps: name both wants, show money is limited, weigh the claims, decide and reduce harm, illustrated with the Pennywell pay-rise and price-cut case where profit falls from 180,000 to 53,000 dollars." loading="lazy">
+  <figcaption>Work through four steps to justify a decision when two stakeholders conflict.</figcaption>
+</figure>
+
+
 ## Using the ideas in answers
 
 ### Command words

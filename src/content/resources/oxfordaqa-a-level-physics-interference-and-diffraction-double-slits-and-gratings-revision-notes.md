@@ -204,6 +204,12 @@ A grating with d = 4.00 × 10⁻⁶ m and 633 nm light gives sin θ = 0.158 at n
 9. For example: never look into the beam or its reflection; use a low-power laser; end the beam on a matt block.
 10. Highest order 11, so 2 × 11 + 1 = 23 maxima.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-physics-waves--03-aphy-waves-stationary-formation.webp" width="900" height="1050" alt="Two identical waves of equal amplitude travel in opposite directions and are added at t = 0, T/4 and T/2. At t = 0 the resultant has double amplitude; at T/4 the waves cancel to a flat line; at T/2 it is the t = 0 pattern upside down. Nodes never move, antinodes swing most, and adjacent nodes are half a wavelength apart." loading="lazy">
+  <figcaption>Superposing two opposite waves gives fixed nodes and antinodes half a wavelength apart.</figcaption>
+</figure>
+
+
 ## Where marks are usually lost
 
 - Using lines per mm as the grating spacing without converting to metres per line.

@@ -43,6 +43,12 @@ Use it with the [excretion revision notes](/resources/edexcel-igcse-biology-4bi1
 
 **Excretion** is the removal of waste products of metabolism from the body. Metabolism means the chemical reactions in cells. Do not confuse excretion with **egestion**: faeces are mostly undigested food that never entered the body's cells, so passing faeces is egestion.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-excretion-in-humans--01-excretion-or-egestion.webp" width="900" height="960" alt="A body outline shows the lungs excreting carbon dioxide and the kidneys excreting urea, excess water and excess ions. The gut egests faeces, which are undigested food that was never inside cells. Excretion is labelled in teal and egestion in copper." loading="lazy">
+  <figcaption>Lungs and kidneys excrete cell waste; the gut egests undigested food.</figcaption>
+</figure>
+
+
 ## 2.70 Excretion in flowering plants
 
 Plants have no excretory organs. Their two main waste gases are made by the two processes you already know.
@@ -83,11 +89,6 @@ Urea is carried in the plasma (point 2.60) from the liver to the kidneys. Sweati
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/edexcel-igcse-biology-4bi1-excretion--11-organs-of-excretion.webp" width="900" height="860" alt="Lungs excrete carbon dioxide and water vapour; kidneys excrete urea, excess water and ions in urine; skin excretes water, ions and a little urea in sweat." loading="lazy">
   <figcaption>The three excretory organs and what each removes.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-biology-0610-excretion-in-humans--01-excretion-or-egestion.webp" width="900" height="960" alt="A body outline shows the lungs excreting carbon dioxide and the kidneys excreting urea, excess water and excess ions. The gut egests faeces, which are undigested food that was never inside cells. Excretion is labelled in teal and egestion in copper." loading="lazy">
-  <figcaption>Lungs and kidneys excrete cell waste; the gut egests undigested food.</figcaption>
 </figure>
 
 <figure class="topic-figure">

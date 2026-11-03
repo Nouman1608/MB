@@ -86,11 +86,6 @@ Note that 1 and 64 are both square and cube numbers, and 36 is both square and t
   <figcaption>A row of n triangles uses 2n + 1 matches: 2 for each new triangle plus 1 to start.</figcaption>
 </figure>
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/aqa-gcse-maths-8300-sequences--01-undo-the-rule.webp" width="900" height="790" alt="Three boxes show the terms 5, 11 and 29. Going forwards the rule is times 3 then subtract 4. Going backwards from the 3rd term 29 you undo in reverse order: add 4 then divide by 3 gives the 2nd term 11, and the same steps give the 1st term 5. A forward check confirms 3 times 5 minus 4 is 11 and 3 times 11 minus 4 is 29." loading="lazy">
-  <figcaption>To run a rule backwards, undo each step in reverse order: add 4, then divide by 3.</figcaption>
-</figure>
-
 
 ## Method: nth term of a linear sequence (A25)
 
@@ -278,6 +273,12 @@ Do these without a calculator.
 - Rounding a = 1/2 or a surd term to a decimal when an exact answer is needed.
 - Dividing the wrong way when finding a geometric ratio, giving 3 instead of 1/3.
 - Applying a recursive rule to the wrong term, or not working backwards in reverse order (undo the last operation first).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-maths-8300-sequences--01-undo-the-rule.webp" width="900" height="790" alt="Three boxes show the terms 5, 11 and 29. Going forwards the rule is times 3 then subtract 4. Going backwards from the 3rd term 29 you undo in reverse order: add 4 then divide by 3 gives the 2nd term 11, and the same steps give the 1st term 5. A forward check confirms 3 times 5 minus 4 is 11 and 3 times 11 minus 4 is 29." loading="lazy">
+  <figcaption>To run a rule backwards, undo each step in reverse order: add 4, then divide by 3.</figcaption>
+</figure>
+
 
 ## Official syllabus
 

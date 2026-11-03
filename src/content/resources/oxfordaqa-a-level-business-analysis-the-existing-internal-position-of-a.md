@@ -150,6 +150,11 @@ After the inventory write-off, ROCE falls further to 744 ÷ 6,020 × 100 = **12.
   <figcaption>Internal factors are strengths or weaknesses only when compared with a benchmark; a rival price cut is an external threat.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-business-managers-leadership-decision-making--08-dividend-yield.webp" width="900" height="1050" alt="Market capitalisation 48 million x 3.25 = 156 million pounds; dividend per share 7.2m / 48m = 15p; yield 15p / 3.25 x 100 = 4.62 percent. If the price falls to 3.00 the yield is 5.00 percent and market capitalisation 144 million pounds." loading="lazy">
+  <figcaption>A falling share price raises dividend yield but lowers market capitalisation, so a higher yield can signal lost confidence.</figcaption>
+</figure>
+
 
 ### The value of ratio analysis
 
@@ -217,6 +222,12 @@ Selsworth's Year 2 revenue of 7,200 came from three profit centres:
 **Reasons for changing culture:** a new leader or owner, a merger, poor performance, new customer expectations, a scandal, or a new strategy that the old culture blocks.
 
 **Problems of changing culture:** it takes years; staff resist, especially in strong cultures; key people may leave; new values must be backed by changed rewards, structure and leaders' behaviour or nothing changes.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-business-managers-leadership-decision-making--02-mission-to-tactics.webp" width="900" height="1060" alt="Four narrowing cards from mission to objective to strategy to tactic with a fresh-food shop example: affordable fresh food; 10 percent more sales in 2 years; open shops in a new region; launch week two-for-one offer." loading="lazy">
+  <figcaption>Mission states purpose, objectives set targets, strategy is the long-term plan and tactics are short-term actions.</figcaption>
+</figure>
+
 
 ## Common errors
 

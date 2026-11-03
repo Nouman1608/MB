@@ -109,6 +109,21 @@ These notes condense supply-side policies for AQA A-level Economics (7136), from
   <figcaption>Retraining cuts the natural rate from 6.0% to 5.2% of a 40 million labour force.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-supply-side-policies--14-ss-short-termism.webp" width="900" height="1020" alt="Cumulative cash crosses zero at 3.33 years, after the firm's 3-year limit. At 12 percent the returns are worth 108.1 million against a cost of 100. Payback 3.33 years fails a 3-year rule although NPV at 12% is +8.1 million." loading="lazy">
+  <figcaption>Payback 3.33 years fails a 3-year rule although NPV at 12% is +8.1 million.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-supply-side-policies--15-ss-taxi-deregulation.webp" width="900" height="990" alt="New operators move supply from Qs = 20 + 4P to 40 + 4P. Price falls 20 percent and rides rise 14.3 percent, so spending falls from 875 to 800. Deregulation shifts taxi supply right: price 12.5 to 10, rides 70 to 80 thousand." loading="lazy">
+  <figcaption>Deregulation shifts taxi supply right: price 12.5 to 10, rides 70 to 80 thousand.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-supply-side-policies--04-ssp-training-payback.webp" width="900" height="900" alt="A graph over 8 years: the 600 million cu training scheme is repaid in 5 years by gains of 120 million a year; the undiscounted gain reaches 960 million after 8 years and about 776 million at a 5% discount rate." loading="lazy">
+  <figcaption>A training scheme is repaid after 5 years, so the benefit is real but late.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 
@@ -163,16 +178,6 @@ These notes condense supply-side policies for AQA A-level Economics (7136), from
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/aqa-a-level-economics-supply-side-policies--13-ss-rd-subsidy.webp" width="900" height="950" alt="A project costs the firm 10 for private benefit 8, a net loss of 2. With spillovers of 5 society gains 3. A 30 percent subsidy cuts cost to 7 so the firm gains 1. Spillovers make a project worthwhile for society; a 30% subsidy makes it worthwhile for the firm." loading="lazy">
   <figcaption>Spillovers make a project worthwhile for society; a 30% subsidy makes it worthwhile for the firm.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/aqa-a-level-economics-supply-side-policies--14-ss-short-termism.webp" width="900" height="1020" alt="Cumulative cash crosses zero at 3.33 years, after the firm's 3-year limit. At 12 percent the returns are worth 108.1 million against a cost of 100. Payback 3.33 years fails a 3-year rule although NPV at 12% is +8.1 million." loading="lazy">
-  <figcaption>Payback 3.33 years fails a 3-year rule although NPV at 12% is +8.1 million.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/aqa-a-level-economics-supply-side-policies--15-ss-taxi-deregulation.webp" width="900" height="990" alt="New operators move supply from Qs = 20 + 4P to 40 + 4P. Price falls 20 percent and rides rise 14.3 percent, so spending falls from 875 to 800. Deregulation shifts taxi supply right: price 12.5 to 10, rides 70 to 80 thousand." loading="lazy">
-  <figcaption>Deregulation shifts taxi supply right: price 12.5 to 10, rides 70 to 80 thousand.</figcaption>
 </figure>
 
 <figure class="topic-figure">

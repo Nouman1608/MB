@@ -106,6 +106,11 @@ At 5 cu she now buys 6, not 3. The curve has shifted right, which is an **increa
   <figcaption>A shift of the whole demand curve is caused by a non-price condition such as income, tastes or the price of related goods.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-allocation-of-resources--04-shifts-of-supply.webp" width="900" height="1000" alt="Three parallel supply curves: S1 original, S2 to the right (increase; at price 5 quantity 50 to 70), S3 to the left (decrease; 50 to 30). Rightward shifts come from lower costs, better technology or more sellers; leftward from higher costs or fewer sellers." loading="lazy">
+  <figcaption>A shift of the whole supply curve is caused by costs of production, technology or the number of sellers.</figcaption>
+</figure>
+
 
 ## 3.1.3.2 Supply
 
@@ -224,6 +229,11 @@ Away from equilibrium, only the smaller of demand and supply is traded. At 10 cu
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/oxfordaqa-igcse-economics-demand-supply-and-equilibrium-price--01-tomato-equilibrium-table.webp" width="900" height="1120" alt="Demand and supply curves for tomato crates through the six table points cross at 14 cu and 500 crates. At 10 cu demand is 700 and supply 200, excess demand 500; at 20 cu demand is 200 and supply 950, excess supply 750. The table below the graph repeats all six rows." loading="lazy">
   <figcaption>The tomato table drawn as curves: equilibrium at 14 cu and 500 crates.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-allocation-of-resources--05-equilibrium-price.webp" width="900" height="940" alt="Demand and supply cross at equilibrium: price 5, quantity 50. At price 8, quantity demanded 20 and supplied 87.5, a surplus, so price falls. At price 3, demanded 70 and supplied 25, a shortage, so price rises." loading="lazy">
+  <figcaption>Price moves towards the equilibrium where demand equals supply.</figcaption>
 </figure>
 
 

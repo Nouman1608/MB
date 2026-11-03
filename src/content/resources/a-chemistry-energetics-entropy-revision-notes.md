@@ -180,17 +180,6 @@ Those four rows answer most Gibbs questions on sight.
 
 **As always: feasible ≠ fast.** A reaction with a very negative ΔG may have an activation energy so high that no observable change occurs.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-chemical-energetics-lattice-energy-entropy-and-gibbs-free-energy--08-gibbs-sign-cases.webp" width="900" height="1130" alt="Four small graphs of ΔG against temperature, with shaded regions above and below zero. ΔH negative with ΔS positive is always feasible; ΔH positive with ΔS negative is never feasible; both positive is feasible above a temperature; both negative is feasible below a temperature." loading="lazy">
-  <figcaption>The signs of ΔH and ΔS decide whether a reaction is feasible at all temperatures, never, or only above or below a particular temperature.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-chemical-energetics-lattice-energy-entropy-and-gibbs-free-energy--07-gibbs-vs-temperature.webp" width="900" height="1000" alt="Graph of ΔG against temperature: a straight line starting at +178 kJ per mole, sloping down at -0.165 kJ per K, crossing zero at 1079 K. Above 1079 K ΔG is negative and the reaction is feasible; below it is not. A note says feasible does not mean fast." loading="lazy">
-  <figcaption>ΔG = ΔH − TΔS gives a straight line whose intercept is ΔH and gradient is −ΔS; it crosses zero at T = ΔH/ΔS = 1079 K.</figcaption>
-</figure>
-
-
 ## Exam traps
 
 - Omitting "one mole" or "gaseous" from a definition.
@@ -209,3 +198,14 @@ Those four rows answer most Gibbs questions on sight.
 5. A reaction has ΔH positive and ΔS positive. When is it feasible?
 
 **Answers:** 1. The enthalpy change when one mole of an ionic compound is formed from its gaseous ions. 2. An electron is being added to an already negatively charged ion, so energy must be supplied to overcome the repulsion. 3. MgO — the ions carry double the charge and are smaller, and lattice energy is proportional to the product of the charges divided by the sum of the radii. 4. ΔG = ΔH − TΔS; the reaction is feasible when ΔG is negative. 5. At high temperature, where TΔS exceeds ΔH.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-chemical-energetics-lattice-energy-entropy-and-gibbs-free-energy--08-gibbs-sign-cases.webp" width="900" height="1130" alt="Four small graphs of ΔG against temperature, with shaded regions above and below zero. ΔH negative with ΔS positive is always feasible; ΔH positive with ΔS negative is never feasible; both positive is feasible above a temperature; both negative is feasible below a temperature." loading="lazy">
+  <figcaption>The signs of ΔH and ΔS decide whether a reaction is feasible at all temperatures, never, or only above or below a particular temperature.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-chemical-energetics-lattice-energy-entropy-and-gibbs-free-energy--07-gibbs-vs-temperature.webp" width="900" height="1000" alt="Graph of ΔG against temperature: a straight line starting at +178 kJ per mole, sloping down at -0.165 kJ per K, crossing zero at 1079 K. Above 1079 K ΔG is negative and the reaction is feasible; below it is not. A note says feasible does not mean fast." loading="lazy">
+  <figcaption>ΔG = ΔH − TΔS gives a straight line whose intercept is ΔH and gradient is −ΔS; it crosses zero at T = ΔH/ΔS = 1079 K.</figcaption>
+</figure>
+

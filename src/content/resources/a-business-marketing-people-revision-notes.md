@@ -86,6 +86,11 @@ Condensed for the final weeks. For the full explanation, use the
   <figcaption>Markets can be segmented by who people are, where they live, how they live and how they buy.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-introduction-to-marketing-and-marketing-planning--09-position-map.webp" width="900" height="860" alt="Position map with price on the horizontal axis and touring suitability on the vertical axis. Cadwallow is high on both, Rival A high price and medium suitability, Rival B low on both, Rival C medium on both. The low-price, high-suitability area is empty." loading="lazy">
+  <figcaption>A position map shows crowded areas and gaps, but cannot say whether a gap is worth entering.</figcaption>
+</figure>
+
 
 ## The marketing mix
 
@@ -114,6 +119,41 @@ The mix must be **internally consistent**. Premium pricing with discount-channel
   <figcaption>Where each pricing strategy sits against cost and rival prices.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-business-marketing--01-boston-matrix.webp" width="900" height="1000" alt="Chart of relative market share (high left, low right, log scale) against market growth. Star, Question mark, Cash cow and Dog quadrants each carry a one-line strategy, with four illustrative products A to D placed in them." loading="lazy">
+  <figcaption>The Boston Matrix classifies products by market share and market growth and suggests a strategy for each.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-business-the-marketing-mix--01-skimming-v-penetration.webp" width="900" height="914" alt="Rectangles show profit per unit times units sold for skimming at 120 pounds (65 x 1,000 = 65,000) and penetration at 80 pounds (25 x 2,800 = 70,000). Penetration earns 5,000 more but needs capacity for 2,800 units." loading="lazy">
+  <figcaption>Profit is the area: skimming earns 65,000 pounds, penetration 70,000 on higher volume.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-business-marketing-mix-and-strategy--14-predatory-pricing.webp" width="900" height="830" alt="The price is 6.00, is cut to 4.20 below the unit cost of 4.80 (a loss of 0.60 a unit) until the rival is forced out, then raised again." loading="lazy">
+  <figcaption>Predatory pricing sets price below cost to push out a rival.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-business-marketing-mix-and-strategy--15-psychological-price-points.webp" width="900" height="720" alt="Two price tags, 9.99 and 10.00 pounds, are one penny (0.1%) apart but 9.99 reads as nine-something. Used on shelf prices of consumer goods." loading="lazy">
+  <figcaption>A price just below a round number can feel cheaper.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-business-marketing-mix-and-strategy--13-cost-plus-markup.webp" width="900" height="800" alt="Two identical bars of the £7.68 price: £4.80 cost and £2.88 mark-up. The mark-up is 60% of cost but 37.5% of price." loading="lazy">
+  <figcaption>Mark-up is a percentage of cost, not of the selling price.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-business-marketing--04-ped-and-revenue.webp" width="900" height="910" alt="A demand curve with two revenue rectangles. A 10 percent price rise from $10 to $11 cuts quantity 4 percent from 1,000 to 960. Revenue gained of $960 outweighs revenue lost of $400, so revenue rises from $10,000 to $10,560." loading="lazy">
+  <figcaption>When demand is price inelastic, raising price raises total revenue.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-business-business-activity-marketing-and-people--05-mix-consistency.webp" width="900" height="930" alt="Two sets of price, packaging and retailer sliders. Consistent: all at premium. Inconsistent: premium price with budget packaging and retailer." loading="lazy">
+  <figcaption>The marketing mix must be consistent: a premium price with poor packaging and discount retailers fails.</figcaption>
+</figure>
+
 
 ## Motivation theory
 
@@ -132,6 +172,31 @@ The mix must be **internally consistent**. Premium pricing with discount-channel
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/a-business-marketing-people-revision-notes--07-herzberg-pay-v-enrichment.webp" width="900" height="840" alt="Motivation over 12 weeks after a change in week 2. A pay rise gives a spike that fades back to the starting level; job enrichment rises gradually and stays high. Pay is a hygiene factor; achievement is a motivator." loading="lazy">
   <figcaption>A pay rise gives a short-lived lift; enrichment gives a lasting one.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-business-managing-people-and-entrepreneurs-and-leaders--06-taylor-v-mayo.webp" width="900" height="930" alt="Two panels. Taylor: simple tasks, close supervision and pay by output, so pay drives work. Mayo: belonging, team working and manager interest drive work." loading="lazy">
+  <figcaption>Taylor relies on pay; Mayo relies on belonging and attention.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-people-in-business--01-maslow-hierarchy.webp" width="900" height="762" alt="Five-level stepped pyramid of needs, bottom to top: physiological (pay for food and rent), safety (secure job, safe workplace), social (friends, teamwork), esteem (praise, promotion), self-actualisation (challenging work). An arrow shows needs are met from the bottom up." loading="lazy">
+  <figcaption>Maslow's hierarchy ranks human needs, and each level can be linked to what work offers.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-people-in-business--02-taylor-and-herzberg.webp" width="900" height="890" alt="Taylor: more output by a worker earns more pay, so pay is the main motivator. Herzberg: on a scale from dissatisfied to satisfied, hygiene factors (pay, conditions, job security) only lift people to neutral, while motivators (achievement, recognition, interesting work) create satisfaction." loading="lazy">
+  <figcaption>Taylor saw pay as the motivator; Herzberg separated hygiene factors from true motivators.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-business-motivating-employees--03-maslow-herzberg-taylor.webp" width="900" height="810" alt="Maslow levels stacked, with Herzberg motivators beside the top two and hygiene factors beside the lower three (approximate), and Taylor beside the lowest levels only." loading="lazy">
+  <figcaption>Where Taylor, Herzberg and Maslow overlap.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-people-in-business--03-motivation-methods.webp" width="900" height="834" alt="Financial methods: wage, salary, bonus, commission, profit sharing. Non-financial methods: job enrichment, job rotation, teamworking, training, promotion. Each has an icon and a short plain description." loading="lazy">
+  <figcaption>Motivation methods split into five financial and five non-financial.</figcaption>
 </figure>
 
 
@@ -162,12 +227,6 @@ A Level Business is marked on **application, analysis and evaluation**, not know
 - **Analysis** — build a chain: *because X, therefore Y, which means Z for this business.*
 - **Evaluation** — weigh both sides, then judge, and state **what the judgement depends on** (the size of the firm, the market, the time frame, the state of the economy).
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-business-marketing-people-revision-notes--08-analysis-chain-evaluation.webp" width="900" height="1020" alt="Three linked steps (because pay is a hygiene factor, so a rise only briefly lifts staff, which means the bakery needs enrichment) followed by a balance weighing for and against and a judgement stating what it depends on." loading="lazy">
-  <figcaption>Analysis is a chain; evaluation weighs both sides and says what the judgement depends on.</figcaption>
-</figure>
-
-
 ## Exam traps
 
 - Generic answers with no reference to the case study.
@@ -186,3 +245,9 @@ A Level Business is marked on **application, analysis and evaluation**, not know
 5. What three things does a top-band evaluation contain?
 
 **Answers:** 1. Primary is collected first-hand for the specific purpose but is costly and slow; secondary already exists so is cheap and immediate but may be outdated or collected for a different purpose. 2. The gap may exist because there is no demand at that combination of attributes, or because serving it is not profitable. 3. Hygiene factors such as pay prevent dissatisfaction but do not motivate; motivators such as achievement and responsibility create satisfaction — so a pay rise gives a short-lived lift while job enrichment gives a lasting one. 4. Tall structures have many levels and narrow spans, giving close supervision but slow communication; flat structures have few levels and wide spans, giving fast communication and empowerment but potentially overstretched managers. 5. Both sides of the argument, a clear judgement, and a statement of what that judgement depends on.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-business-marketing-people-revision-notes--08-analysis-chain-evaluation.webp" width="900" height="1020" alt="Three linked steps (because pay is a hygiene factor, so a rise only briefly lifts staff, which means the bakery needs enrichment) followed by a balance weighing for and against and a judgement stating what it depends on." loading="lazy">
+  <figcaption>Analysis is a chain; evaluation weighs both sides and says what the judgement depends on.</figcaption>
+</figure>
+

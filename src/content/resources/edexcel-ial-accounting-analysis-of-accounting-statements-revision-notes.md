@@ -80,12 +80,6 @@ The company version of ROCE (issued shares + reserves + non-current liabilities)
 | Liquidity | current, liquid, inventory turnover, payables period, receivables period | Can it pay its debts as they fall due, and how fast does working capital turn into cash? |
 | Use of assets | non-current assets to revenue | How much revenue do the long-term assets generate? |
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/aqa-a-level-accounting-analysis-and-evaluation-of-financial-information--04-liquidity-ratios.webp" width="900" height="810" alt="Current assets of 95,000 dollars (bank 7,000, receivables 46,000, inventory 42,000) are compared with current liabilities of 38,000. The current ratio is 2.50 to 1; removing inventory leaves 53,000, so the acid test is 1.39 to 1." loading="lazy">
-  <figcaption>The acid test removes inventory, the least liquid current asset.</figcaption>
-</figure>
-
-
 ## Method boxes
 
 **Appraising a set of ratios**
@@ -160,22 +154,6 @@ ROCE             = 20,400 / 126,500 x 100                  = 16.13%
 - **Times vs days.** Inventory turnover and non-current assets to revenue are "times"; the two payment periods are "days".
 - **High is not always good.** A high current ratio can mean idle cash, slow inventory or slow customers. A long payables period helps cash but risks supplier goodwill.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/aqa-a-level-accounting-analysis-and-evaluation-of-financial-information--02-margin-vs-markup.webp" width="900" height="810" alt="One bar shows revenue of 480,000 dollars made of cost of sales 312,000 and gross profit 168,000. Margin divides gross profit by revenue to give 35.00 percent; mark-up divides the same profit by cost of sales to give 53.85 percent." loading="lazy">
-  <figcaption>The same gross profit gives a larger percentage when measured against cost of sales than against revenue.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/aqa-a-level-accounting-analysis-and-evaluation-of-financial-information--03-roce.webp" width="900" height="800" alt="Capital of 237,000 dollars plus a 60,000 loan make capital employed of 297,000. Profit for the year of 57,600 plus 3,600 loan interest added back gives net profit before interest of 61,200, so ROCE is 20.61 percent. For a company, capital employed is shares plus reserves plus non-current liabilities." loading="lazy">
-  <figcaption>ROCE divides profit before loan interest by all long-term funds, loans included.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/aqa-a-level-accounting-analysis-and-evaluation-of-financial-information--05-cash-tied-up-days.webp" width="900" height="690" alt="Inventory is held 43.8 days and customers pay a further 36.5 days later, 80.3 days after buying. Suppliers are paid after 45.0 days, so the business funds the 35.3 days in between. Calculated from average inventory, credit sales and credit purchases." loading="lazy">
-  <figcaption>Inventory, receivable and payable days together show how long the business must fund its own working capital.</figcaption>
-</figure>
-
-
 ## Quick self-test
 
 1. Revenue 250,000, cost of sales 175,000. Calculate the gross margin and the mark-up.
@@ -204,6 +182,27 @@ ROCE             = 20,400 / 126,500 x 100                  = 16.13%
 10. Profit for the year is **9.00%** of revenue, down from 11%. With gross margin steady, expenses have risen as a share of revenue.
 11. Cost of sales 300,000; average inventory 300,000 / 6 = 50,000; closing inventory = 100,000 − 46,000 = **54,000**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-analysis-and-evaluation-of-financial-information--02-margin-vs-markup.webp" width="900" height="810" alt="One bar shows revenue of 480,000 dollars made of cost of sales 312,000 and gross profit 168,000. Margin divides gross profit by revenue to give 35.00 percent; mark-up divides the same profit by cost of sales to give 53.85 percent." loading="lazy">
+  <figcaption>The same gross profit gives a larger percentage when measured against cost of sales than against revenue.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-analysis-and-evaluation-of-financial-information--03-roce.webp" width="900" height="800" alt="Capital of 237,000 dollars plus a 60,000 loan make capital employed of 297,000. Profit for the year of 57,600 plus 3,600 loan interest added back gives net profit before interest of 61,200, so ROCE is 20.61 percent. For a company, capital employed is shares plus reserves plus non-current liabilities." loading="lazy">
+  <figcaption>ROCE divides profit before loan interest by all long-term funds, loans included.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-analysis-and-evaluation-of-financial-information--04-liquidity-ratios.webp" width="900" height="810" alt="Current assets of 95,000 dollars (bank 7,000, receivables 46,000, inventory 42,000) are compared with current liabilities of 38,000. The current ratio is 2.50 to 1; removing inventory leaves 53,000, so the acid test is 1.39 to 1." loading="lazy">
+  <figcaption>The acid test removes inventory, the least liquid current asset.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-analysis-and-evaluation-of-financial-information--05-cash-tied-up-days.webp" width="900" height="690" alt="Inventory is held 43.8 days and customers pay a further 36.5 days later, 80.3 days after buying. Suppliers are paid after 45.0 days, so the business funds the 35.3 days in between. Calculated from average inventory, credit sales and credit purchases." loading="lazy">
+  <figcaption>Inventory, receivable and payable days together show how long the business must fund its own working capital.</figcaption>
+</figure>
+
+
 ## Where marks are usually lost
 
 - Using revenue, not cost of sales, as the base for mark-up and inventory turnover.
@@ -216,6 +215,12 @@ ROCE             = 20,400 / 126,500 x 100                  = 16.13%
 - Missing the format: "x : 1" for liquidity, "times" for turnover, "days" for periods.
 - Commenting with "better" or "worse" and no cause or effect from the scenario.
 - In projections, taking the forecast closing inventory as the opening figure.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-analysis-and-evaluation-of-financial-information--09-break-even-chart.webp" width="900" height="740" alt="Fixed costs are flat at 30,000 dollars, total costs start there and rise 22.50 per lamp, and revenue rises 37.50 per lamp from zero. They meet at 2,000 lamps and 75,000 dollars. Left of that is loss and right of it profit; the margin of safety to the budget of 4,000 lamps is 2,000 lamps; the angle of incidence is marked at the break-even point." loading="lazy">
+  <figcaption>The break-even point is where revenue meets total costs, and the margin of safety is the distance beyond it.</figcaption>
+</figure>
+
 
 ## Official syllabus
 

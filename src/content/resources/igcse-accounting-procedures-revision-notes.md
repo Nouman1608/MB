@@ -177,6 +177,11 @@ opening balance, the cash and the closing balance c/d are in.
   <figcaption>Each adjustment moves profit up or down; the four together lower it by $680.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-accounting-other-payables-other-receivables-and-irrecoverable-debt--06-prepaid-insurance-months.webp" width="900" height="785" alt="A twelve-month strip shows a 2,400 policy paid in December: seven months, 1,400, belong to the year to 30 June 2028 and five months, 1,000, are prepaid. The insurance account totals 3,300 on each side, with 2,300 to profit or loss and 1,000 carried down." loading="lazy">
+  <figcaption>Only the months used fall in this year; the rest is a prepaid asset carried down.</figcaption>
+</figure>
+
 
 ## 4.4 Irrecoverable debts and allowance for irrecoverable debts
 
@@ -195,6 +200,32 @@ that may not be collected, kept for prudence and matching.
 - Write off irrecoverable debts **before** calculating a percentage
 allowance on the remaining trade receivables.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-accounting-other-payables-other-receivables-and-irrecoverable-debt--09-pr-write-off-ledgers.webp" width="900" height="881" alt="Pellegrini owed 780, so his account is credited and the irrecoverable debts account debited. With Thackray 340 the account totals 1,120, transferred to profit or loss as an expense; sales are unchanged." loading="lazy">
+  <figcaption>A write-off is an expense of 1,120; sales are not reduced.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-accounting-other-payables-other-receivables-and-irrecoverable-debt--08-debt-recovered-two-steps.webp" width="900" height="830" alt="Two journal cards for T Nakamura. Step 1 reinstates the debt: debit T Nakamura 425, credit Debts recovered 425. Step 2 records the cash: debit Bank 425, credit T Nakamura 425. His account balances to nil and the 425 is income of the year." loading="lazy">
+  <figcaption>Reinstate the customer first, then record the cash.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-double-entry-model--08-allowance-irrecoverable.webp" width="900" height="1114" alt="Receivables of 48,600 less a 1,100 write-off give 47,500. A 3 percent allowance of 1,425 gives 46,075 in the statement of financial position. The allowance rises from 1,280 to 1,425 (145 expense) and falls to 1,260 the next year (165 income)." loading="lazy">
+  <figcaption>Only the change in the allowance is charged or credited to profit.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-accounting-other-payables-other-receivables-and-irrecoverable-debt--10-pr-allowance-three-years.webp" width="900" height="765" alt="Bars in dollars: 5 percent of 29,600 is 1,480 (expense); 5 percent of 40,280 is 2,014 so the increase of 534 is an expense; 4 percent of 34,000 is 1,360 so the decrease of 654 is income." loading="lazy">
+  <figcaption>Only the change in the allowance reaches profit: an increase is an expense, a decrease is income.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-accounting-other-payables-other-receivables-and-irrecoverable-debt--11-pr-net-charge.webp" width="900" height="700" alt="Irrecoverable debts 1,120 and allowance increase 534 are expenses; debts recovered 425 is income. The net charge to profit is 1,229." loading="lazy">
+  <figcaption>Two expenses less one income give a net charge of 1,229.</figcaption>
+</figure>
+
+
 ## 4.5 Valuation of inventory
 
 - **Lower of cost and net realisable value, item by item.**
@@ -209,6 +240,22 @@ paid to complete and sell the goods.
 **Next year:** the wrong figure becomes opening inventory, so the next
 year's gross profit and profit for the year move by the same amount in
 the **opposite** direction.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-accounting-valuation-of-inventory--01-inv-nrv-per-unit.webp" width="900" height="1045" alt="Three Beresford Cycles items, per unit in dollars. Each bar is the selling price split into NRV and costs still to pay, with a marker for cost. Helmets: NRV 31 is above cost 22, so use cost. Child bike K: 150 less 35 gives NRV 115, below cost 140, so use NRV. Frames: 340 less 45 gives 295, below cost 310, so use NRV." loading="lazy">
+  <figcaption>NRV is selling price less costs still to pay, and the lower of cost and NRV is used.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-accounting-valuation-of-inventory--02-inv-item-by-item.webp" width="900" height="1044" alt="Paired bars compare whole-line cost and NRV for four items; the lower is used, giving 660, 1,380, 450 and 2,360. Total cost is 5,270, total NRV 5,220, and item by item 4,850, which is 370 below total NRV." loading="lazy">
+  <figcaption>Comparing totals hides losses; compare each item.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-accounting-valuation-of-inventory--01-inv-error-two-years.webp" width="900" height="990" alt="Closing inventory of 15,000 was recorded instead of 18,000 in Year 1 and becomes Year 2 opening inventory. Year 1 profit is recorded as 17,000 against a correct 20,000 (understated by 3,000); Year 2 is recorded as 25,000 against a correct 22,000 (overstated by 3,000). Two-year profit is 42,000 and Year 2 equity is 77,000 either way." loading="lazy">
+  <figcaption>A closing inventory error moves profit between two years and then cancels.</figcaption>
+</figure>
+
 
 ## Worked example: loss on disposal
 
@@ -228,12 +275,6 @@ Disposal account
                                                       ------
                 Credit side total                     15,000
 ```
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/oxfordaqa-igcse-accounting-capital-and-revenue-items-depreciation-and-disposal-of--06-disposal-loss-profit.webp" width="900" height="1066" alt="Press cost 15,000, provision 9,000, sold 4,100: loss 1,900. Press cost 12,000, provision 7,500, sold 5,200: profit 700. Bars compare NBV with proceeds." loading="lazy">
-  <figcaption>Loss or profit on disposal is proceeds minus NBV.</figcaption>
-</figure>
-
 
 ## Exam traps
 
@@ -284,3 +325,9 @@ $900, a decrease of $100, which is income in the statement of profit or
 loss. 7. Profit for the year is understated by $600; next year's gross
 profit is overstated by $600 because opening inventory is understated.
 8. 200 × $11 = $2,200 (net realisable value is lower than cost).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-accounting-capital-and-revenue-items-depreciation-and-disposal-of--06-disposal-loss-profit.webp" width="900" height="1066" alt="Press cost 15,000, provision 9,000, sold 4,100: loss 1,900. Press cost 12,000, provision 7,500, sold 5,200: profit 700. Bars compare NBV with proceeds." loading="lazy">
+  <figcaption>Loss or profit on disposal is proceeds minus NBV.</figcaption>
+</figure>
+

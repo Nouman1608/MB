@@ -101,6 +101,11 @@ Advantages: less digging, moving and disposal of rock; uses low-grade ores. Disa
   <figcaption>Remove either oxygen or water and rusting stops.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-chemistry-metals--07-phytomining-bioleaching.webp" width="900" height="990" alt="Phytomining: plants grow on copper-rich soil, are harvested and burned and the ash holds copper compounds. Bioleaching: bacteria produce a leachate, a solution with copper compounds. Copper is then obtained by electrolysis or scrap-iron displacement." loading="lazy">
+  <figcaption>Two newer ways to get copper from low-grade ores.</figcaption>
+</figure>
+
 
 ## 4.10.2 LCAs and recycling
 
@@ -126,6 +131,12 @@ Advantages: less digging, moving and disposal of rock; uses low-grade ores. Disa
 - Recycle metals by melting and recasting.
 - Scrap steel added to blast-furnace iron cuts ore extraction.
 - The amount of separation needed depends on the material and the product required.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-chemistry-8462-using-resources--06-lca-bottles.webp" width="900" height="850" alt="Graph of energy per use against number of uses: glass falls as 7.5 divided by uses, plastic stays at 1.5 MJ. They are equal at 5 uses and glass is 0.375 MJ per use at 20 uses." loading="lazy">
+  <figcaption>On energy alone a glass bottle beats plastic if it is reused more than 5 times.</figcaption>
+</figure>
+
 
 ## 4.10.3 Materials
 
@@ -217,6 +228,16 @@ Potassium chloride and potassium sulfate are mined. Ammonia makes ammonium salts
   <figcaption>Phosphate rock must be treated with acid to make soluble fertilisers.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/rates-of-reaction-and-reversible-reactions--06-dynamic-equilibrium.webp" width="900" height="990" alt="Rate against time: forward rate falls, reverse rate rises from zero, and they meet and stay level. Particle boxes show 12 A at the start and 4 A plus 8 B at equilibrium with fixed numbers." loading="lazy">
+  <figcaption>At equilibrium the forward and reverse rates are equal and the amounts no longer change.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/rates-of-reaction-and-reversible-reactions--04-catalyst-profile.webp" width="900" height="860" alt="Energy against progress of reaction for an exothermic reaction. A high hump without a catalyst and a lower dashed hump with a catalyst; the arrow from reactants to hump top is E_a, smaller with a catalyst." loading="lazy">
+  <figcaption>A catalyst provides an alternative pathway with lower activation energy.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 
@@ -259,6 +280,11 @@ Potassium chloride and potassium sulfate are mined. Ammonia makes ammonium salts
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/metal-properties-and-reactivity--05-aluminium-oxide-layer.webp" width="900" height="1060" alt="Three stages: oxygen reacts with fresh aluminium; a thin aluminium oxide layer seals the metal against oxygen, water and acid; a scratched layer re-forms immediately." loading="lazy">
   <figcaption>A thin, self-repairing oxide layer protects aluminium.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-chemistry-synthetic-and-naturally-occurring-polymers--02-thermosoftening-thermosetting.webp" width="900" height="1040" alt="Top: separate chains joined only by weak dashed intermolecular forces; heating overcomes them so chains slide and the plastic softens. Bottom: chains joined by strong covalent cross-links drawn as thick bars; heating does not break them so the plastic does not melt." loading="lazy">
+  <figcaption>Weak forces between chains let a thermosoftening polymer soften; covalent cross-links stop a thermosetting polymer melting.</figcaption>
 </figure>
 
 

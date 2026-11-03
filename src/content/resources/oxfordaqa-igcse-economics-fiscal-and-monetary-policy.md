@@ -230,6 +230,11 @@ If the target is 2%, inflation is almost one percentage point too high, so the c
   <figcaption>Inflation of 2.96% is almost one point above the 2% target.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-objectives-of-government--02-inflation-causes.webp" width="900" height="1090" alt="Two illustrative AD/AS diagrams. Demand-pull: AD shifts right and the price level rises. Cost-push: AS shifts up and left and the price level rises. Boxes give the cause chain and the policy response from the lesson." loading="lazy">
+  <figcaption>Demand-pull starts with demand; cost-push starts with rising costs.</figcaption>
+</figure>
+
 
 ### Achieving other objectives
 
@@ -245,6 +250,11 @@ If the target is 2%, inflation is almost one percentage point too high, so the c
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/oxfordaqa-igcse-economics-fiscal-and-monetary-policy--13-exchange-rate-effect.webp" width="900" height="890" alt="When the aru rises from 2.00 to 2.20 bex, an export costing 80 aru goes from 160 to 176 bex (10 percent dearer) and a 55 bex import goes from 27.5 to 25 aru (9.1 percent cheaper). Exports tend to fall and imports to rise." loading="lazy">
   <figcaption>A currency rise makes exports dearer and imports cheaper.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-objectives-of-government--03-objectives-conflict.webp" width="900" height="1010" alt="Flow from an interest rate cut to higher borrowing and spending. Gains: growth rises and unemployment falls. Side effects: demand-pull inflation risk and a worse balance of payments through more imports. Raising rates does the reverse." loading="lazy">
+  <figcaption>A policy that helps one objective can harm another.</figcaption>
 </figure>
 
 

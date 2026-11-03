@@ -147,6 +147,22 @@ Draw the **steepest and shallowest** lines that still pass through all the error
 
 **Finding the gradient itself:** use a **large triangle** spanning most of the plotted line, taking coordinates from the **line**, not from individual data points.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-physics-development-of-practical-skills--06-anomalous-result-handling.webp" width="900" height="780" alt="A number line of five repeat timings with one far-out value circled. The mean with all five is 18.78 s and without the anomaly is 18.25 s. Steps: spot it, leave it out of the mean, explain it if you can. Values are illustrative." loading="lazy">
+  <figcaption>Spot the anomaly, leave it out of the mean, and explain it if you can.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-physics-development-of-practical-skills--04-best-fit-gradient-triangle.webp" width="900" height="985" alt="Illustrative data with a positive intercept: the best-fit line has three points each side and the line forced through the origin fits badly. A large gradient triangle has corners read from the line." loading="lazy">
+  <figcaption>A best-fit line balances points either side and is not forced through the origin; gradients use a large triangle read from the line.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-oxfordaqa-physics-measurements-and-their-errors--07-error-bars-gradient.webp" width="900" height="1030" alt="Extension against force with +/-2 mm error bars. Best line gradient 12.0, steepest 13.0, shallowest 11.0 mm per N, so gradient = 12.0 +/- 1.0 mm per N." loading="lazy">
+  <figcaption>Half the difference between the steepest and shallowest gradients.</figcaption>
+</figure>
+
+
 ## Linearising relationships
 
 Rearrange a relationship into **y = mx + c** form so a straight-line graph gives the gradient a physical meaning.
@@ -156,6 +172,12 @@ T = 2 pi sqrt(l / g)      ->      T^2 = (4 pi^2 / g) l
 ```
 
 Plotting **T² against l** gives a straight line through the origin with gradient 4π²/g, so **g = 4π² ÷ gradient**. "What to plot, and what the gradient represents" is the single most common form of practical question.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-physics-development-of-practical-skills--05-linearise-pendulum.webp" width="900" height="1020" alt="T = 2 pi sqrt(l/g) is squared to T^2 = (4 pi^2/g) l, matching y = mx + c. Computed graphs show T against l curving and T^2 against l straight with gradient 4 pi^2/g (g = 9.81 used to draw)." loading="lazy">
+  <figcaption>Squaring the pendulum equation gives a straight-line graph whose gradient is 4 pi^2/g.</figcaption>
+</figure>
+
 
 ## Improving an experiment
 
@@ -170,6 +192,11 @@ Generic answers score nothing. Name a **specific** change **and its reason**:
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/ocr-a-level-physics-practical-skills-revision-notes--06-fiducial-fastest-point.webp" width="900" height="1030" alt="Pendulum with a fiducial marker at the equilibrium position and a speed against position graph that is a semicircle, maximum at the centre. For illustrative A = 0.10 m and period 1.8 s, a 2 mm slip costs about 6 ms at the centre and 18 ms near the end." loading="lazy">
   <figcaption>Time from the centre where the bob is fastest.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-physics-practical-endorsement-skills-apparatus-and-techniques--03-pe-light-gates-acceleration.webp" width="900" height="840" alt="A 0.050 m card blocks gate 1 for 0.040 s and gate 2 for 0.025 s, giving 1.25 m/s and 2.0 m/s. With 0.35 s between the gates the acceleration is 2.1 m/s squared." loading="lazy">
+  <figcaption>Speed is card width over blocking time; acceleration follows from the change in speed.</figcaption>
 </figure>
 
 
@@ -208,3 +235,14 @@ Total = 0.63% + 2.24% = 2.87%
 7. A pendulum's length is known to 0.63% and its period to 1.12%. Which measurement limits the accuracy of g, and what single change would best reduce it?
 
 **Answers:** 1. Accuracy is closeness to the true value, precision is agreement between repeats; a balance with a zero error gives precise but inaccurate readings. 2. Averaging reduces random error but not systematic error, which requires recalibration. 3. 6% — the percentage uncertainty is multiplied by the power. 4. Draw the steepest and shallowest lines that pass through all error bars and take half the difference between their gradients. 5. They eliminate the uncertainty from human reaction time, which a stopwatch cannot avoid. 6. Plot T² against l; the gradient equals 4π²/g, so g = 4π² divided by the gradient. 7. The period, since it is squared in the relationship for g, doubling its percentage contribution to 2.24% against length's 0.63%; timing many oscillations and dividing by the number of oscillations would reduce this far more effectively than a more precise length measurement.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-physics-development-of-practical-skills--06-worked-uncertainty-pendulum.webp" width="900" height="960" alt="Percentage uncertainties 0.63% (l) and 1.12% (T), doubled to 2.24% for T^2, total 2.87%, so timing dominates." loading="lazy">
+  <figcaption>Timing limits the accuracy of g because T is squared.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-physics-development-of-practical-skills--07-target-dominant-uncertainty.webp" width="900" height="930" alt="Comparison of total percentage uncertainty: original 2.87%, better ruler 2.55%, timing 20 oscillations 0.74% (assuming the same +/-0.02 s timing uncertainty; illustrative)." loading="lazy">
+  <figcaption>Improving the dominant measurement cuts the uncertainty far more than improving the other one.</figcaption>
+</figure>
+

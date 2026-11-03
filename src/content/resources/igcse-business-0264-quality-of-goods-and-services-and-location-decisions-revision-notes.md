@@ -101,12 +101,6 @@ Both papers are based on all the subject content, so expect these topics to appe
 
 **Comparing sites by total cost.** Add rent, wages and transport for each site. Site 1: 70,000 + 205,000 + 15,000 = 290,000. Site 2: 52,000 + 226,000 + 9,000 = 287,000. The gap is 3,000 a year, so cost alone is close and other factors (skills, customers, growth) decide.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-business-0264-quality-of-goods-and-services-and-location-decisions--05-workshop-site-costs.webp" width="900" height="790" alt="Stacked bars of annual cost in $ thousand: A 234 (54 rent, 162 wages, 18 transport), B 201 (28, 132, 41), C 206 (36, 144, 26). B is cheapest but has few skilled workers; C is the better choice." loading="lazy">
-  <figcaption>The cheapest site is not always the best site.</figcaption>
-</figure>
-
-
 ## Location: manufacturing
 
 | Factor | Typical effect |
@@ -208,6 +202,12 @@ Use the meanings in the syllabus. Define means give a precise meaning. Identify 
 10. Reason: lower labour cost reduces production cost per unit. Risk: lower skills or an unstable government or exchange rate could raise costs or damage quality.
 11. Many passers-by become customers, so higher sales could outweigh the extra rent. This depends on the cafe converting enough passers-by into buyers.
 12. It may have too few skilled workers, poor transport or few customers, and these could add costs or lose sales that exceed the saving.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-0264-quality-of-goods-and-services-and-location-decisions--05-workshop-site-costs.webp" width="900" height="790" alt="Stacked bars of annual cost in $ thousand: A 234 (54 rent, 162 wages, 18 transport), B 201 (28, 132, 41), C 206 (36, 144, 26). B is cheapest but has few skilled workers; C is the better choice." loading="lazy">
+  <figcaption>The cheapest site is not always the best site.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

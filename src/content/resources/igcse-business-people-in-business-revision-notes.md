@@ -246,3 +246,9 @@ hierarchy levels, short/flat structures have wide spans across fewer
 levels. 5. Because it specifically tests applying a general concept to
 the scenario's own details (company size, product, workforce, budget)
 rather than reciting a definition that could apply to any business.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-people-in-business--01-maslow-hierarchy.webp" width="900" height="762" alt="Five-level stepped pyramid of needs, bottom to top: physiological (pay for food and rent), safety (secure job, safe workplace), social (friends, teamwork), esteem (praise, promotion), self-actualisation (challenging work). An arrow shows needs are met from the bottom up." loading="lazy">
+  <figcaption>Maslow's hierarchy ranks human needs, and each level can be linked to what work offers.</figcaption>
+</figure>
+

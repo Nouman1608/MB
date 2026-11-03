@@ -67,6 +67,12 @@ Related pages: [practice questions](/resources/edexcel-ial-economics-market-orie
 5. State what the outcome depends on (country size, institutions, elasticity, time).
 6. Make a judgement for the country in the question and justify it.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-aggregate-demand-supply--07-lras-growth.webp" width="900" height="1000" alt="LRAS shifts right from output 100 to 130, with SRAS shifted right by the same amount. Equilibrium moves from output 90, price level 65 to output 105, price level 57.5. Technology, productivity, enterprise, factor mobility, incentives and institutions are listed as causes." loading="lazy">
+  <figcaption>Underlying economic growth is a rightward shift in LRAS, raising output and easing prices.</figcaption>
+</figure>
+
+
 ## Worked reminders
 
 **Tariff cut.** The tariff falls from 15% to 5% on an import with world price 80. Landed price goes from 80 x 1.15 = 92 to 80 x 1.05 = 84, a fall of 8/92 = 8.7%.
@@ -90,6 +96,46 @@ Related pages: [practice questions](/resources/edexcel-ial-economics-market-orie
 **Joint venture.** Pre-tax profit 100, tax 20%, local partner holds 51%. Profit after tax 80; local share 40.8. In the country: 20 + 40.8 = 60.8, or 60.8% of profit.
 
 <figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-market-orientated-and-interventionist-development--11-buffer-stock-band.webp" width="900" height="960" alt="Demand Qd = 1,000 − 5P with floor 72 and ceiling 88. In a bumper harvest the market price would be 62, so the authority buys 100 units for 7,200. In a poor harvest the price would be 98, so it sells 100 units for 8,800, a profit of 1,600 before storage." loading="lazy">
+  <figcaption>A buffer stock buys when price would fall below the floor and sells when it would rise above the ceiling.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-market-orientated-and-interventionist-development--12-infant-industry-tariff.webp" width="900" height="980" alt="Unit cost falls 9% a year from 117 and reaches the world price of 90 in year 2.8. The tariff needed to match the world price is 30%, 18.3%, 7.7% and then none." loading="lazy">
+  <figcaption>A tariff that declines as unit cost falls is the case for protecting an infant industry.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-market-orientated-and-interventionist-development--13-appraisal-npv-training-road.webp" width="900" height="1000" alt="Training: cost 1,200, present value of benefits 1,868, or 1,495 if 20% emigrate, so NPV is +668 or +295. Road: cost 900, present value 1,027, NPV +127; with a 20% overrun the cost is 1,080 and the NPV −53." loading="lazy">
+  <figcaption>A project pays when the present value of benefits exceeds the cost.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-market-orientated-and-interventionist-development--14-joint-venture-profit.webp" width="900" height="880" alt="Of 200 profit, 50 is tax, the TNC takes 90 and the local firm 60, so 110 (55%) stays in the economy. In a wholly foreign-owned plant only the 50 tax stays." loading="lazy">
+  <figcaption>A joint venture keeps more of the profit in the host economy.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-market-orientated-and-interventionist-development--15-tariff-cut-revenue.webp" width="900" height="920" alt="Cutting the tariff from 20% to 5% lowers the landed price from 240 to 210 and raises machines bought from 400 to 460. Tariff revenue falls from 16,000 to 4,600." loading="lazy">
+  <figcaption>A bigger quantity does not make up for the lower tariff, so revenue falls.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-market-orientated-and-interventionist-development--12-fuel-subsidy-removal.webp" width="900" height="890" alt="The pump price rises from 7 to 10 (+42.9%). The subsidy costs 240m (20% of revenue). Compensating 500,000 households at 144 each costs 72m, leaving a net saving of 168m." loading="lazy">
+  <figcaption>Cash compensation uses part of the saving to protect the poor.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-market-orientated-and-interventionist-development--14-microfinance-true-rate.webp" width="900" height="940" alt="A 300 loan repaid at 30 a month has flat interest of 20%, but the balance falls to about 29 by month 12, so the monthly rate is 2.92% and the effective annual rate about 41%." loading="lazy">
+  <figcaption>The effective rate is about double the flat rate because the debt shrinks.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-market-orientated-and-interventionist-development--15-peg-below-market.webp" width="900" height="980" alt="Pegging at 5 LCU per dollar against a market 4 cuts an export price from $250 to $200 (-20%), raises fuel from 320 to 400 LCU (+25%), and needs the central bank to buy $3bn, creating 15bn LCU, a 5% rise in a 300bn base." loading="lazy">
+  <figcaption>Holding a weak peg helps exporters but raises import prices and risks inflation.</figcaption>
+</figure>
+
+<figure class="topic-figure">
   <img src="https://img.marlbridge.com/aqa-a-level-economics-aggregate-demand-supply--05-multiplier.webp" width="900" height="902" alt="Bars show £10bn of extra spending passed on at an MPC of 0.8: 10, 8, 6.4, 5.12 and so on. A long bar adds the rounds up to a £50bn rise in income, and the formula 1 ÷ (1 − MPC) = 5 is shown." loading="lazy">
   <figcaption>With an MPC of 0.8 the multiplier is 5, so £10bn of extra spending raises national income by £50bn.</figcaption>
 </figure>
@@ -104,12 +150,6 @@ Related pages: [practice questions](/resources/edexcel-ial-economics-market-orie
 - **Floating vs managed:** floating leaves the rate to markets; managed uses the central bank, reserves and interest rates to steer it.
 - **Privatisation vs deregulation:** privatisation changes ownership; deregulation removes rules or barriers to entry.
 - **Tariff vs subsidy as protection:** a tariff taxes imports and raises revenue; a subsidy to domestic producers costs the government money.
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/edexcel-ial-economics-market-orientated-and-interventionist-development--11-floating-rate-ml-jcurve.webp" width="900" height="1286" alt="The rate moves from 10 to 12 LCU per dollar: an export of 600 LCU falls from $60 to $50 and fuel of $80 rises from 800 to 960 LCU. Elasticities summing to 0.7 (short run) fail Marshall-Lerner and 1.3 (long run) pass, so the balance dips then improves (J-curve, schematic)." loading="lazy">
-  <figcaption>Depreciation helps the trade balance only when elasticities sum to more than 1.</figcaption>
-</figure>
-
 
 ## Evaluation prompts
 
@@ -149,13 +189,13 @@ Use these to turn description into judgement.
 10. Prices rise sharply for households that spend a large share of income on food; compensation schemes may be poorly targeted or slow; and smaller farms that relied on cheaper inputs may cut output.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/edexcel-ial-economics-market-orientated-and-interventionist-development--15-tariff-cut-revenue.webp" width="900" height="920" alt="Cutting the tariff from 20% to 5% lowers the landed price from 240 to 210 and raises machines bought from 400 to 460. Tariff revenue falls from 16,000 to 4,600." loading="lazy">
-  <figcaption>A bigger quantity does not make up for the lower tariff, so revenue falls.</figcaption>
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-market-orientated-and-interventionist-development--11-floating-rate-ml-jcurve.webp" width="900" height="1286" alt="The rate moves from 10 to 12 LCU per dollar: an export of 600 LCU falls from $60 to $50 and fuel of $80 rises from 800 to 960 LCU. Elasticities summing to 0.7 (short run) fail Marshall-Lerner and 1.3 (long run) pass, so the balance dips then improves (J-curve, schematic)." loading="lazy">
+  <figcaption>Depreciation helps the trade balance only when elasticities sum to more than 1.</figcaption>
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/edexcel-ial-economics-market-orientated-and-interventionist-development--14-microfinance-true-rate.webp" width="900" height="940" alt="A 300 loan repaid at 30 a month has flat interest of 20%, but the balance falls to about 29 by month 12, so the monthly rate is 2.92% and the effective annual rate about 41%." loading="lazy">
-  <figcaption>The effective rate is about double the flat rate because the debt shrinks.</figcaption>
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-market-orientated-and-interventionist-development--13-privatisation-gain-loss.webp" width="900" height="860" alt="Selling a utility for 500m saves 30m a year of interest at 6% but gives up an expected 80m of profit, a net 50m a year." loading="lazy">
+  <figcaption>Privatisation can cost the state more in lost profit than it saves in interest.</figcaption>
 </figure>
 
 
@@ -169,12 +209,6 @@ Use these to turn description into judgement.
 - Assuming a buffer stock always makes a profit, when a floor above the long-run price builds an ever-growing stock.
 - Giving one-sided answers with no judgement about the country described.
 - Using a formula without showing the working, so a slip cannot be traced.
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/edexcel-ial-economics-market-orientated-and-interventionist-development--11-buffer-stock-band.webp" width="900" height="960" alt="Demand Qd = 1,000 − 5P with floor 72 and ceiling 88. In a bumper harvest the market price would be 62, so the authority buys 100 units for 7,200. In a poor harvest the price would be 98, so it sells 100 units for 8,800, a profit of 1,600 before storage." loading="lazy">
-  <figcaption>A buffer stock buys when price would fall below the floor and sells when it would rise above the ceiling.</figcaption>
-</figure>
-
 
 ## Official syllabus
 

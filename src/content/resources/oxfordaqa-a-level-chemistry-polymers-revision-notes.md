@@ -43,11 +43,6 @@ Worked examples and fuller explanations are in the [polymers study guide](/resou
 | Chemically inert | Unreactive; describes polyalkenes |
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/polymers--04-addition-vs-condensation.webp" width="900" height="1150" alt="Addition: monomers with C=C join into a chain and nothing else is made. Condensation: monomers with an end group at both ends join into a chain and a water molecule is given off at every join." loading="lazy">
-  <figcaption>Condensation releases a small molecule, usually water; addition releases nothing.</figcaption>
-</figure>
-
-<figure class="topic-figure">
   <img src="https://img.marlbridge.com/polymers--06-nylon-and-pet.webp" width="900" height="830" alt="Nylon is a diacid and a diamine alternating, joined by CO-NH and NH-CO amide links. PET is a diacid and a diol alternating, joined by CO-O and O-CO ester links. Each link releases water and each repeat unit contains two links." loading="lazy">
   <figcaption>Nylon and PET follow the same pattern; only the second monomer and the link change.</figcaption>
 </figure>
@@ -75,6 +70,12 @@ Memory hook: the "6,6" in nylon 6,6 counts the carbon atoms in each monomer, six
 | diamine, H₂N–R–NH₂ | amide –CONH– | polyamide |
 | (amino acid reacts with itself) | amide –CONH– | polyamide, one monomer only |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/polymers--08-plastic-waste.webp" width="900" height="1040" alt="Four tiles: plastic buried in landfill is still there after a hundred years; plastic collects in the sea and harms marine life; burning can give off toxic gases; and PET can be broken back into monomers and made into new PET." loading="lazy">
+  <figcaption>Plastics persist in landfill and oceans, burning gives toxic gases, and only some plastics like PET can be recycled to monomers.</figcaption>
+</figure>
+
+
 ## 3.3.12.1 Drawing skills
 
 ### Method: monomers → repeating unit
@@ -101,11 +102,6 @@ Memory hook: the "6,6" in nylon 6,6 counts the carbon atoms in each monomer, six
 **Small reminder.** Section –O–(CH₂)₆–O–CO–(CH₂)₇–CO–O–(CH₂)₆–O–CO–(CH₂)₇–CO–. Cutting the ester links gives HO–(CH₂)₆–OH, **hexane-1,6-diol**, and HOOC–(CH₂)₇–COOH, **nonanedioic acid** (seven CH₂ carbons plus two carbonyl carbons = nine).
 
 **Small reminder.** 5-aminopentanoic acid, H₂N–(CH₂)₄–COOH, is a single monomer with both groups. Its polymer has the repeating unit –[NH–(CH₂)₄–CO]–, and one water forms per unit.
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/polymers--01-monomers-polymers-plastics.webp" width="900" height="1055" alt="Eight separate circles join into one long chain labelled polymer. A plastic bottle is magnified to show tangled polymer chains inside the material." loading="lazy">
-  <figcaption>Monomers join into long polymer chains, and plastic is the material made from them.</figcaption>
-</figure>
 
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/polymers--02-poly-ethene.webp" width="900" height="990" alt="Four ethene molecules each have a C=C double bond. The double bonds open and the molecules join into one long chain of single-bonded carbons with new bonds between units. One CH2-CH2 repeat unit is bracketed and repeated n times, and nothing else is made." loading="lazy">
@@ -212,6 +208,17 @@ Rule of thumb: in acid, the nitrogen ends up protonated; in alkali, the acid end
 10. Nylon 6,6. Its amide links have a δ+ carbonyl carbon that water can attack; poly(propene) has only non-polar C–C and C–H bonds.
 11. Different polymers have different properties, so a melted mixture gives a poor-quality product.
 12. Hexane-1,6-diamine and nonanedioic acid.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/polymers--01-monomers-polymers-plastics.webp" width="900" height="1055" alt="Eight separate circles join into one long chain labelled polymer. A plastic bottle is magnified to show tangled polymer chains inside the material." loading="lazy">
+  <figcaption>Monomers join into long polymer chains, and plastic is the material made from them.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/polymers--04-addition-vs-condensation.webp" width="900" height="1150" alt="Addition: monomers with C=C join into a chain and nothing else is made. Condensation: monomers with an end group at both ends join into a chain and a water molecule is given off at every join." loading="lazy">
+  <figcaption>Condensation releases a small molecule, usually water; addition releases nothing.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

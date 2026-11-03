@@ -114,6 +114,17 @@ Interpreting standard graphical and numerical summaries (mean, median, standard 
 - Interpret correlation informally, and remember **correlation does not imply causation**.
 - **Correlation test:** H0: ρ = 0 against H1: ρ > 0, ρ < 0 (one-tailed) or ρ ≠ 0 (two-tailed), where ρ is the population product-moment correlation coefficient. Compare the given r with a given critical value, or use a p-value and the table of critical values OCR provides. Calculating r is excluded; the data may be assumed to come from a bivariate normal distribution.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-data-presentation-and-interpretation--06-two-groups-one-line.webp" width="900" height="910" alt="A scatter diagram of journey time in minutes against distance in kilometres for 6 cyclists (circles) and 6 van drivers (squares). Both groups rise left to right but the cyclists form a steeper band. A single dashed line fitted to all 12 points predicts about 17 minutes for 4 km, but the cyclist took 21.5 minutes and the van driver 14 minutes, so the line matches neither. The better approach is a separate line for each type of courier." loading="lazy">
+  <figcaption>One line through two distinct groups matches neither, so fit and use a separate line for each group.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-data-presentation-and-interpretation--07-extrapolation.webp" width="900" height="818" alt="A graph of the regression line y = 78 minus 2.4x for resting heart rate against weekly training hours. The data covered 2 to 10 hours, shown as a shaded band; the line is solid there and dashed outside. At 5 hours the prediction is 66 beats per minute, which is interpolation and reasonably reliable. At 30 hours the line gives 6 beats per minute, which is not credible, so predicting outside the data range is unreliable. The intercept 78 at x = 0 also lies outside the data." loading="lazy">
+  <figcaption>Predictions are reliable inside the range of the data and unreliable outside it.</figcaption>
+</figure>
+
+
 ## Key terms
 
 **Hypothesis test** — a formal procedure to assess whether sample evidence supports rejecting an assumption (H0) about a population. **Critical region** — the set of values that would lead to rejecting H0 at a given significance level. **One-tailed test** — tests for a change in one specified direction only. **Pre-release large data set** — a genuine dataset released in advance that some exam questions are set on directly.
@@ -141,16 +152,16 @@ Statistics is examined together with Pure Mathematics in component 02, so practi
 
 **Answers:** 1. A fixed number of independent trials, each with the same two possible outcomes and the same probability of success. 2. One-tailed, testing H1: p < the stated value. 3. Because a numerically correct test with no contextual conclusion, or one that inverts "reject" and "do not reject," loses marks even when the calculation is right — OCR's mark schemes require conclusions written back into the original question's context. 4. Any three: random, systematic, stratified, opportunity, quota, cluster. 5. Because some data presentation and interpretation questions are set directly on it, so genuine familiarity with its specific variables and structure is required, not generic data-handling skill alone. 6. sigma = 4; z = (64 − 60) / 4 = 1; P(X < 64) = P(Z < 1) = 0.8413.
 
+## Related resources
+
+- [Statistics study guide](/resources/ocr-a-level-mathematics-statistics/)
+- [Statistics practice questions](/resources/ocr-a-level-mathematics-statistics-practice/)
+
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/aqa-a-level-mathematics-data-presentation-and-interpretation--05-sample-variability.webp" width="900" height="955" alt="Three dot plots of one-way commuting times in minutes. Analyst A's random sample of 8 (18, 22, 25, 27, 30, 35, 38, 41) has mean 29.5. Analyst B's random sample of 8 (15, 17, 19, 20, 21, 24, 26, 33) has mean 21.9. Together the 16 values have mean 25.7. Triangles mark each mean. Both samples came from a fair method, so the 7.6 minute gap is sampling variability; combining the samples, or using larger ones, reduces it." loading="lazy">
   <figcaption>Two fair random samples from the same firm give different means, so samples are only estimates.</figcaption>
 </figure>
 
-
-## Related resources
-
-- [Statistics study guide](/resources/ocr-a-level-mathematics-statistics/)
-- [Statistics practice questions](/resources/ocr-a-level-mathematics-statistics-practice/)
 
 ## Official syllabus
 

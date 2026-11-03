@@ -140,12 +140,6 @@ Limits: x = 0 → u = 1;   x = π/2 → u = 0
 = ∫ from 1 to 0 of −u² du = ∫ from 0 to 1 of u² du = 1/3
 ```
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-level-maths-9709-pure-mathematics-1-integration--07-substitution-limits.webp" width="900" height="1020" alt="The area under y = x√(2x − 1) from x = 1 to 5 is 428/15. After u = 2x − 1 the integrand is ¼(u + 1)√u with limits 1 and 9, and the area is again 428/15. Converting the limits keeps the value unchanged." loading="lazy">
-  <figcaption>With a substitution, convert the limits and the definite integral keeps its value.</figcaption>
-</figure>
-
-
 ## Exam technique
 
 - Read the instruction. If the question names a substitution, use that one. If it says "exact", leave answers in terms of ln, e or π.
@@ -164,8 +158,8 @@ A final check on a definite integral:
 Here e^(−2 ln 2) = 2^(−2) = ¼. The result is positive, as it must be for a positive integrand over an interval from a smaller to a larger number.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-level-maths-9709-pure-mathematics-1-integration--02-area-below-axis.webp" width="900" height="760" alt="The curve y = x² − 3x lies below the x-axis from 0 to 3 (integral −9/2) and above it from 3 to 4 (integral 11/6). The area is found by adding the sizes, 19/3, whereas the single integral from 0 to 4 is −8/3." loading="lazy">
-  <figcaption>Regions below the axis give negative integrals, so find the area in separate pieces.</figcaption>
+  <img src="https://img.marlbridge.com/a-level-maths-9709-pure-mathematics-1-integration--07-substitution-limits.webp" width="900" height="1020" alt="The area under y = x√(2x − 1) from x = 1 to 5 is 428/15. After u = 2x − 1 the integrand is ¼(u + 1)√u with limits 1 and 9, and the area is again 428/15. Converting the limits keeps the value unchanged." loading="lazy">
+  <figcaption>With a substitution, convert the limits and the definite integral keeps its value.</figcaption>
 </figure>
 
 

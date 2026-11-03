@@ -128,6 +128,11 @@ magnification = image size / actual size
   <figcaption>Magnifying beyond the resolving power gives a bigger but not clearer image.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-organisation-of-the-organism--07-magnification.webp" width="900" height="1200" alt="A tiny real cell of 0.02 mm is magnified to a 60 mm image measured on a ruler. Magnification equals image size divided by actual size, 60 mm divided by 0.02 mm, which is times 3000. Both sizes must be in the same units. Extended: 1 mm equals 1000 micrometres, so 0.02 mm is 20 micrometres." loading="lazy">
+  <figcaption>Magnification is image size divided by actual size, using the same units.</figcaption>
+</figure>
+
 
 ## DNA and protein synthesis
 
@@ -167,6 +172,41 @@ Cellular respiration is a universal process, happening continuously in every liv
   <figcaption>Respiration transfers energy out (exothermic); photosynthesis takes energy in (endothermic).</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-enzymes--01-enzyme-action.webp" width="900" height="960" alt="Four panels show lipase acting on a fat. The fat, shaped to fit the notch-like active site, approaches, fits, is converted into glycerol and fatty acids, and the products leave while the same enzyme is unchanged." loading="lazy">
+  <figcaption>The substrate fits the active site, products form and leave, and the enzyme is unchanged.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-enzymes--03-denaturation.webp" width="900" height="1090" alt="Three panels: a working enzyme whose substrate fits; a too-hot enzyme whose active site has changed shape so the substrate does not fit; the same enzyme cooled again, still with the changed shape and still not working." loading="lazy">
+  <figcaption>Heat changes the shape of the active site, and cooling does not restore it.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-enzymes--04-temperature-graph.webp" width="900" height="800" alt="Sketch graph of enzyme activity against temperature. Activity rises to a peak at the optimum (about 37 degrees Celsius for many human enzymes) then falls quickly to near zero. Cold enzymes are slow but not denatured; hot enzymes are denatured and do not recover on cooling." loading="lazy">
+  <figcaption>Activity peaks at the optimum temperature, then falls as the enzyme is denatured.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-enzymes--06-ph-graph.webp" width="900" height="1000" alt="Sketch graph of enzyme activity against pH 0 to 14. Pepsin peaks in acidic conditions, trypsin in alkaline conditions; each falls on both sides of its optimum and is denatured far from it. Below, three small pictures (Extended) show the substrate fitting at the optimum, fitting less well when pH moves away, and not fitting at extreme pH." loading="lazy">
+  <figcaption>Each enzyme has its own optimum pH; away from it the active site changes shape.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-enzymes--07-starch-iodine-end-point.webp" width="900" height="990" alt="Starch and amylase tubes stand in a water bath at a set temperature. After mixing, one drop every 30 seconds goes on iodine in a spotting tile. Wells at 30 to 120 seconds are blue-black; the well at 150 seconds is the first orange-brown, the end point. Rate = 1000 ÷ 150 = 6.7." loading="lazy">
+  <figcaption>The end point is the first well where iodine stays orange-brown.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-respiration--02-aerobic-respiration.webp" width="900" height="1010" alt="Inside a cell, glucose and oxygen react to give carbon dioxide and water, releasing much energy. Extended panel: C6H12O6 + 6O2 gives 6CO2 + 6H2O, with 6 C, 12 H and 18 O atoms on each side." loading="lazy">
+  <figcaption>Aerobic respiration uses oxygen and releases much energy per glucose.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-respiration--03-anaerobic-respiration.webp" width="900" height="1290" alt="Without oxygen, yeast turns glucose into ethanol and carbon dioxide; muscles in vigorous exercise turn glucose into lactic acid only, with no carbon dioxide. Schematic bars show both release much less energy than aerobic respiration. Extended panel: C6H12O6 gives 2C2H5OH + 2CO2." loading="lazy">
+  <figcaption>Anaerobic respiration releases much less energy, and yeast and muscle make different products.</figcaption>
+</figure>
+
 
 ## Building and breaking down biological molecules
 
@@ -179,6 +219,12 @@ Cells both **synthesise** large molecules from smaller ones and **break them dow
 | Lipids | Fatty acids and glycerol |
 
 Lipids are not polymers — they are not made of a chain of repeating units — so the terms monomer and polymer apply to the carbohydrates and proteins here, not to lipids.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-biological-molecules--02-building-blocks.webp" width="900" height="1190" alt="Glucose units join in chains to make starch (plants), glycogen (animals and fungi) and cellulose (plant cell walls). Amino acids join in different orders to make different proteins. Fats and oils are made from glycerol and fatty acids." loading="lazy">
+  <figcaption>Large molecules are built by joining smaller ones.</figcaption>
+</figure>
+
 
 ## Photosynthesis
 
@@ -209,6 +255,26 @@ Three factors can each limit the rate of photosynthesis: **light intensity**, **
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/ocr-gcse-biology-cell-level-systems--04-ethanol-water-bath.webp" width="900" height="900" alt="A boiling tube of ethanol and a leaf stands in a beaker of hot water with no naked flame. The test order is boil in water, hot ethanol, rinse, add iodine." loading="lazy">
   <figcaption>Ethanol is heated in a hot water bath, never over a flame, to remove the chlorophyll.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-plant-nutrition--01-photosynthesis-inputs-outputs.webp" width="900" height="1290" alt="A leaf takes in light energy, carbon dioxide from the air and water from the roots. Chlorophyll in chloroplasts transfers light energy into chemical energy. The leaf makes glucose and gives out oxygen. Word equation shown; Extended: 6CO2 + 6H2O gives C6H12O6 + 6O2." loading="lazy">
+  <figcaption>Raw materials go in, glucose and oxygen come out, using light energy absorbed by chlorophyll.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-plant-nutrition--07-limiting-factors.webp" width="900" height="1080" alt="Extended. Sketch graph of rate against light intensity for 0.4% and 0.04% CO2 at 25 and 15 C. All curves rise together then level off at different heights, highest for 0.4% and 25 C. Rising part: light limiting. Flat part: not light; for 0.4% CO2 at 15 C the 25 C line is higher so temperature limits." loading="lazy">
+  <figcaption>On the flat part another factor, not light, is limiting.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-plant-nutrition--05-pondweed-light-distance.webp" width="900" height="1090" alt="A lamp shines on pondweed; the lamp distance changes light intensity and bubbles are counted. Bar chart of means: 42 at 10 cm, 30 at 20 cm, 19 at 30 cm, 10 at 40 cm. Closer lamp gives a faster rate." loading="lazy">
+  <figcaption>The closer the lamp, the more bubbles per minute.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-plant-nutrition--04-starch-test-variegated-leaf.webp" width="900" height="1030" alt="A destarched variegated leaf with a foil strip is kept in light then tested with iodine. Green uncovered area a turns blue-black; white area b and foil-covered green area c stay orange-brown. a vs b tests chlorophyll; a vs c tests light." loading="lazy">
+  <figcaption>Only the green, lit area makes starch and turns blue-black.</figcaption>
 </figure>
 
 

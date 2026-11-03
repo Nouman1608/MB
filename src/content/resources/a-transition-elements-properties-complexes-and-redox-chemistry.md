@@ -147,6 +147,26 @@ neutral).
   <figcaption>Cis isomers have the two Cl ligands at 90 degrees and trans at 180 degrees; cisplatin is cis.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-transition-metals--04-optical-isomers.webp" width="900" height="870" alt="Two drawings of [Ni(en)3]2+ stand either side of a mirror line. Each has three curved bidentate ligands joining pairs of nitrogen atoms. They are mirror images and cannot be superimposed." loading="lazy">
+  <figcaption>[Ni(en)3]2+ exists as two non-superimposable mirror images, so it shows optical isomerism.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-transition-metals--05-ligand-exchange.webp" width="900" height="1295" alt="Pale blue [Cu(H2O)6]2+ gives deep blue [Cu(NH3)4(H2O)2]2+ with ammonia (still six bonds) and yellow tetrahedral [CuCl4]2- with concentrated HCl (six bonds to four). Pink [Co(H2O)6]2+ becomes blue [CoCl4]2- with chloride." loading="lazy">
+  <figcaption>Ammonia swaps for water without changing coordination number, but larger chloride ions give a four-coordinate tetrahedral complex.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-transition-metals--06-chelate-effect.webp" width="900" height="990" alt="Left: a nickel water complex plus three en molecules, 4 particles. Right: the nickel en complex plus six free water molecules, 7 particles. A stacked bar shows illustrative dG = -8.0 + (-32.8) = -40.8 kJ/mol at 298 K, which is negative." loading="lazy">
+  <figcaption>More particles means positive entropy change, so dG is negative and the chelate forms.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-transition-metals--07-colour-d-orbitals.webp" width="900" height="1050" alt="A spectrum bar from 400 to 700 nm has the 620 nm band removed. An energy diagram shows split d orbitals (three lower, two upper) with a photon lifting a d electron across the gap delta E. Delta E = hc/lambda = 3.21e-19 J per ion = 193 kJ/mol." loading="lazy">
+  <figcaption>A complex absorbs light whose energy matches delta E, promoting a d electron; we see the remaining colours.</figcaption>
+</figure>
+
 
 ## Ligand exchange
 
@@ -184,6 +204,11 @@ with water to form the soluble ammine complex (e.g.
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/aqa-a-level-chemistry-transition-metals--01-complex-anatomy.webp" width="900" height="1160" alt="An octahedral copper(II) ion has six water ligands, each joined by a dative bond (a lone pair donated by the ligand); labels name the metal ion, ligand and dative bond. Below, three bidentate ethanedioate ligands (coloured curves) give six bonds to chromium, so the coordination number is 6 and Cr is +3." loading="lazy">
   <figcaption>A complex is a metal ion with ligands bonded by dative bonds; count the bonds, not the ligands, for coordination number.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-transition-metals--08-vanadium-oxidation-states.webp" width="900" height="810" alt="Four test tubes show yellow VO2+ (+5), blue VO2+ (+4), green V3+ (+3) and violet V2+ (+2), joined by arrows labelled Zn with E cell values +1.76 V, +1.10 V and +0.50 V. An arrow shows the oxidation state falling from +5 to +2." loading="lazy">
+  <figcaption>Zinc reduces vanadium from +5 to +2 in steps, each with a colour change.</figcaption>
 </figure>
 
 
@@ -240,6 +265,16 @@ of a product matters more than the standard-conditions calculation.
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/a-electrochemistry-electrolysis-and-electrode-potentials--04-feasibility.webp" width="900" height="1140" alt="Each row shows an arrow from the E° of the species oxidised to the E° of the species reduced (Fe3+/Fe2+ at +0.77 V). It points right for iodide (+0.23 V, feasible) and left for bromide (-0.30 V) and chloride (-0.59 V), which are not feasible. Feasible does not mean fast." loading="lazy">
   <figcaption>E° cell = E°(reduced) - E°(oxidised); a positive value means feasible, though not necessarily fast.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-electrochemistry-electrolysis-and-electrode-potentials--07-quantitative-electrolysis.webp" width="900" height="1195" alt="A cell with copper electrodes carries 2.00 A for 3860 s. Charge Q = It = 7720 C, moles of electrons = 7720 / 96 500 = 0.0800 mol, moles of copper = 0.0800 / 2 = 0.0400 mol, and mass = 0.0400 x 63.5 = 2.54 g." loading="lazy">
+  <figcaption>Charge to moles of electrons to moles of copper to mass: 2.00 A for 3860 s deposits 2.54 g.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-transition-metals--09-catalyst-cycles.webp" width="900" height="1270" alt="Two cycles. Top, heterogeneous: V2O5 (V +5) reacts with SO2 giving SO3 and becomes V2O4 (V +4), then reacts with half an O2 to return to V2O5. Bottom, homogeneous: Fe2+ is oxidised by S2O8 2- to Fe3+, which is reduced back by I- forming iodine." loading="lazy">
+  <figcaption>A transition metal catalyst changes oxidation state to give an easier route and is then regenerated.</figcaption>
 </figure>
 
 
@@ -300,3 +335,14 @@ easy to get backwards.
 Written against Cambridge International AS & A Level Chemistry 9701,
 2025–2027 series. Always check the current syllabus for your examination
 year.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-electrochemistry-electrolysis-and-electrode-potentials--01-zinc-copper-cell.webp" width="900" height="1130" alt="Two beakers are joined by a salt bridge. Zinc in Zn2+ is the negative electrode where zinc is oxidised; copper in Cu2+ is the positive electrode where Cu2+ is reduced. Electrons flow through a wire past a 1.10 V voltmeter from zinc to copper, and the cell is written Zn(s) | Zn2+(aq) || Cu2+(aq) | Cu(s)." loading="lazy">
+  <figcaption>In the zinc-copper cell electrons flow from the negative zinc electrode to the positive copper electrode, giving E° cell = +1.10 V.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-electrochemistry-electrolysis-and-electrode-potentials--02-hydrogen-electrode.webp" width="900" height="1130" alt="A platinum electrode in 1.00 mol per dm3 H+ with hydrogen gas bubbled over it is the standard hydrogen electrode, defined as 0.00 V. Joined to a zinc half-cell by a salt bridge it reads 0.76 V with zinc negative, so E° for Zn2+/Zn is -0.76 V. Standard conditions are 298 K, 100 kPa (101 kPa in the Cambridge syllabus) and 1.00 mol per dm3." loading="lazy">
+  <figcaption>The hydrogen electrode is defined as 0.00 V, so every other half-cell potential is read against it under standard conditions.</figcaption>
+</figure>
+

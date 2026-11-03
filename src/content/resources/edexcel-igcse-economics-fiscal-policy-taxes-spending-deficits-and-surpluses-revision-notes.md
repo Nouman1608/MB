@@ -100,6 +100,11 @@ All figures below are invented and illustrative.
   <figcaption>Each band is taxed at its own rate, so the average rate rises with income.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-economics-fiscal-policy-taxes-spending-deficits-and-surpluses--10-sales-tax-regressive.webp" width="900" height="890" alt="A coat costs 250 plus 30 sales tax = 280. Two bars each stand for a household income. The tax inside the low-income household spending is 8.04% of its income; for the high-income household it is 3.57%." loading="lazy">
+  <figcaption>A flat percentage tax on spending takes a bigger share of a low income.</figcaption>
+</figure>
+
 
 ## Effect chains on the macroeconomic objectives
 
@@ -125,11 +130,6 @@ Tax cuts: a cut in income tax raises net pay. A tax cut of 2% on gross pay of 30
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/aqa-gcse-economics-objectives-of-government--07-types-of-tax.webp" width="900" height="1110" alt="Bar charts of tax as a percentage of income for low, middle and high earners: progressive rises (10, 15, 22.5 percent), regressive falls (2, 1.5, 1 percent). Below, a direct tax goes from you to the government; an indirect tax goes via a shop." loading="lazy">
-  <figcaption>Direct/indirect and progressive/regressive are two separate ways to classify taxes.</figcaption>
-</figure>
-
-<figure class="topic-figure">
   <img src="https://img.marlbridge.com/aqa-gcse-economics-objectives-of-government--01-four-objectives.webp" width="900" height="930" alt="Four tiles: stable prices (CPI), economic growth (GDP), full employment (unemployment rate), balance of payments (current account). Each has a simple icon and a one-line meaning. No policy improves all four at once." loading="lazy">
   <figcaption>The government's four principal economic objectives and how each is measured.</figcaption>
 </figure>
@@ -137,6 +137,11 @@ Tax cuts: a cut in income tax raises net pay. A tax cut of 2% on gross pay of 30
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/ocr-a-level-economics-macroeconomics--02-ad-shift.webp" width="900" height="1020" alt="Aggregate demand shifts right from AD1 to AD2 along an upward-sloping SRAS, so equilibrium moves from E1 to E2 with higher output and price level. A vertical LRAS shows spare capacity remains." loading="lazy">
   <figcaption>A rise in a component of AD (C, I, G or X minus M) shifts the whole AD curve and raises output and the price level.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-economics-measurement-of-macroeconomic-performance--02-growth-vs-current-account.webp" width="900" height="1040" alt="A four-step chain: growth policy raises aggregate demand, incomes rise, some spending goes on imports, and the current account worsens. Bars show exports 100 and imports rising from 100 to 118, a deficit of 18." loading="lazy">
+  <figcaption>Growth policy can raise imports faster than exports, creating a short-run conflict.</figcaption>
 </figure>
 
 
@@ -180,12 +185,6 @@ Country E (illustrative) has GDP of 40,000 (millions). A tax cut gives 500,000 w
 - As a share of GDP: 315 ÷ 40,000 × 100 = **0.79%**.
 
 The lesson for evaluation: the bigger the share saved or spent on imports, the weaker the boost to growth, jobs and prices at home.
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/edexcel-igcse-economics-fiscal-policy-taxes-spending-deficits-and-surpluses--10-sales-tax-regressive.webp" width="900" height="890" alt="A coat costs 250 plus 30 sales tax = 280. Two bars each stand for a household income. The tax inside the low-income household spending is 8.04% of its income; for the high-income household it is 3.57%." loading="lazy">
-  <figcaption>A flat percentage tax on spending takes a bigger share of a low income.</figcaption>
-</figure>
-
 
 ## Which policy for which problem?
 
@@ -238,6 +237,17 @@ A short evaluation structure: make a point, add its limit, then give a judgement
 8. Any two of healthcare, education, social protection, defence, infrastructure, debt interest.
 9. 30 ÷ 1,500 × 100 = **2.0%** of GDP.
 10. A surplus is reached by higher taxes or lower spending. This reduces total demand, so firms may cut output and growth may slow.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-economics-fiscal-policy-taxes-spending-deficits-and-surpluses--10-spare-capacity.webp" width="900" height="920" alt="Two panels with bars showing capacity used (illustrative). With idle resources, extra demand lifts output a lot and prices barely move. Near full capacity, output barely rises and prices rise." loading="lazy">
+  <figcaption>Extra demand raises output when resources are idle and prices when the economy is near capacity.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-objectives-of-government--07-types-of-tax.webp" width="900" height="1110" alt="Bar charts of tax as a percentage of income for low, middle and high earners: progressive rises (10, 15, 22.5 percent), regressive falls (2, 1.5, 1 percent). Below, a direct tax goes from you to the government; an indirect tax goes via a shop." loading="lazy">
+  <figcaption>Direct/indirect and progressive/regressive are two separate ways to classify taxes.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

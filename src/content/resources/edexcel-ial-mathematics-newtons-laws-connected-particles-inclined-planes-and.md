@@ -65,6 +65,12 @@ s = ½(u + v)t
 3. Write F = ma for each particle: (forces in the positive direction) − (forces against) = ma.
 4. Solve, then use the constant acceleration formulae if the question asks about speed, distance or time.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-maths-9709-mechanics--02-amth-forces-two-strings.webp" width="900" height="960" alt="A 5 kg particle hangs on two strings at 30 and 45 degrees to the horizontal. Solving the horizontal and vertical balances gives T1 = 35.9 N and T2 = 43.9 N. Drawn head to tail, W, T1 and T2 form a closed triangle, so the resultant is zero." loading="lazy">
+  <figcaption>In equilibrium the forces sum to zero in every direction, so they close into a triangle.</figcaption>
+</figure>
+
+
 ### Vector form
 
 When a force or acceleration is written as ai + bj, add the forces to get the resultant, then divide by the mass.
@@ -94,6 +100,11 @@ The acceleration is 5 m s⁻² at 53.1° above the direction of i, and the speed
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/a-level-maths-9709-mechanics--01-amth-forces-lift.webp" width="900" height="1010" alt="Free-body diagrams of a 65 kg person in a lift with g = 9.8. At rest R = 637 N; accelerating up at 0.8 m per second squared R = 689 N; accelerating down R = 585 N. Arrow lengths are proportional to the forces. A strip below shows the third-law pair: the floor pushes the person up with R and the person pushes the floor down with R, on different bodies." loading="lazy">
   <figcaption>The reaction R is larger than the weight when the lift accelerates upwards and smaller when it accelerates downwards; third-law pairs act on different bodies.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-maths-9709-mechanics--08-amth-forces-moments.webp" width="900" height="1010" alt="A uniform plank AB, 5 m and 22 kg, rests on supports C (0.5 m from A) and D (1.5 m from B); a 55 kg person stands 1 m from A. Moments about C: clockwise 269.5 + 431.2 = 700.7 N m equals R_D × 3.0, so R_D = 233.6 N and R_C = 754.6 − 233.6 = 521.0 N. Distances are to scale." loading="lazy">
+  <figcaption>Take moments about a support to remove its reaction; clockwise moments equal anticlockwise moments.</figcaption>
 </figure>
 
 
@@ -238,6 +249,12 @@ Add: 58.8 − 23.52 − 7.84 = 10a
 a = 2.744 = 2.74 m s⁻²
 T = 58.8 − 6 × 2.744 = 42.3 N
 ```
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-maths-9709-mechanics--09-amth-forces-conical.webp" width="900" height="940" alt="A 0.4 kg bob on a 1.2 m string moves in a horizontal circle at 5 rad per second. T = mLω² = 12 N, cos θ = g/(Lω²) = 0.327 so θ = 70.9 degrees, r = 1.13 m, v = 5.67 m per second. Tension plus weight give a horizontal resultant 11.3 N to the centre; from above, v is tangent and a = 28.3 m per second squared points to the centre." loading="lazy">
+  <figcaption>The resultant of tension and weight points to the centre of the circle and equals mrω².</figcaption>
+</figure>
+
 
 ## Common errors
 

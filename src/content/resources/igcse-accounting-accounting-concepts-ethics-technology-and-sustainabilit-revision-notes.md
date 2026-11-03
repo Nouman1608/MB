@@ -76,6 +76,11 @@ The syllabus tells candidates to use the marks for each question as a guide to t
 | Goods supplied, customer owes payment | Realisation | Revenue earned now |
 
 <figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-accounting-accounting-concepts-ethics-technology-and-sustainabilit--03-concepts-money-measurement.webp" width="900" height="830" alt="The 1,200 training course is recorded as an expense. A skilled mechanic, good reputation and a new rival cannot be reliably valued in money, so none is recorded." loading="lazy">
+  <figcaption>Only items that can be reliably measured in money are recorded.</figcaption>
+</figure>
+
+<figure class="topic-figure">
   <img src="https://img.marlbridge.com/a-level-edexcel-accounting-principles-and-double-entry-bookkeeping--04-concepts-change-profit.webp" width="900" height="880" alt="A horizontal waterfall starting from 52,000 pounds draft profit. Business entity adds back 1,800 (holiday was drawings), accruals subtracts 1,200 (electricity), prudence subtracts 900 (inventory written down from 2,400 to net realisable value 1,500). Corrected profit is 51,700 pounds." loading="lazy">
   <figcaption>Each accounting concept has a measurable effect on profit.</figcaption>
 </figure>
@@ -124,6 +129,11 @@ Reminder: trade receivables 8,000 less 300 written off = 7,700. Allowance at 4% 
   <figcaption>Switching depreciation method moves profit by 960 with no change in trading.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-edexcel-accounting-principles-and-double-entry-bookkeeping--05-stock-lower-of-cost-nrv.webp" width="900" height="1110" alt="Three stock lines each show cost and NRV bars with a tick on the lower. Desk lamps use cost (2,160 against 3,360); floor lamps use NRV (1,360 against 1,800); lampshades use NRV (900 against 1,200). Item by item gives 4,420; comparing totals would keep 5,160 and hide a 740 loss." loading="lazy">
+  <figcaption>Stock is valued at the lower of cost and NRV for each item, not on the totals.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 
@@ -164,6 +174,11 @@ Reminder: trade receivables 8,000 less 300 written off = 7,700. Allowance at 4% 
   <figcaption>Each principle has a typical way of being broken.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-edexcel-accounting-principles-and-double-entry-bookkeeping--02-who-reads-accounts.webp" width="900" height="1110" alt="A hub labelled Accounts links to six users: shareholders (profit and dividends), lenders (can they repay), suppliers (will bills be paid), managers (plan and control), employees (secure jobs and pay) and government (tax due). A highlighted box shows shareholders wanting dividends now while lenders prefer profit kept in." loading="lazy">
+  <figcaption>Different users want different things from the same accounts, and their needs can conflict.</figcaption>
+</figure>
+
 
 ## 7.3 Technology and sustainability
 
@@ -180,17 +195,6 @@ Reminder: trade receivables 8,000 less 300 written off = 7,700. Allowance at 4% 
 | Other digital services | Records created automatically | Data scattered; depends on each service |
 
 Most businesses combine methods. Working copies on a data storage device, a second copy in a cloud service and paper originals of key documents survive more events than a single method. Name a type, give an advantage, give a disadvantage, then link to the business described.
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-accounting-accounting-concepts-ethics-technology-and-sustainabilit--07-tech-storage-risks.webp" width="900" height="1055" alt="Four storage risks are paired with protections. Paper use falls from 15,000 sheets (three printed copies) to 5,000 (email two, print one), saving 10,000 sheets, about 67%, or 20 reams." loading="lazy">
-  <figcaption>Match each storage risk to its protection and see how digital copies save paper.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-accounting-accounting-concepts-ethics-technology-and-sustainabilit--04-tech-storage-compare.webp" width="900" height="925" alt="Four cards compare manual, devices, cloud and other digital services on access, loss risk and footprint, using the lesson's own table entries." loading="lazy">
-  <figcaption>The four storage types compared on access, loss risk and footprint.</figcaption>
-</figure>
-
 
 ## Quick self-test
 
@@ -217,6 +221,22 @@ Most businesses combine methods. Working copies on a data storage device, a seco
 8. For example loss, theft, damage or device failure, so the records could not be recovered.
 9. For example less paper and printing, or less physical storage space.
 10. Integrity and objectivity.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-accounting-accounting-concepts-ethics-technology-and-sustainabilit--04-concepts-historic-cost.webp" width="900" height="940" alt="Bars show a van costing 22,000, then 16,500 and 12,375 after two years of 25% reducing balance depreciation. A dashed bar shows a dealer value of 15,500 that is not recorded." loading="lazy">
+  <figcaption>The statement shows 12,375 because historic cost ignores the dealer value.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-accounting-accounting-concepts-ethics-technology-and-sustainabilit--07-tech-storage-risks.webp" width="900" height="1055" alt="Four storage risks are paired with protections. Paper use falls from 15,000 sheets (three printed copies) to 5,000 (email two, print one), saving 10,000 sheets, about 67%, or 20 reams." loading="lazy">
+  <figcaption>Match each storage risk to its protection and see how digital copies save paper.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-accounting-accounting-concepts-ethics-technology-and-sustainabilit--04-tech-storage-compare.webp" width="900" height="925" alt="Four cards compare manual, devices, cloud and other digital services on access, loss risk and footprint, using the lesson's own table entries." loading="lazy">
+  <figcaption>The four storage types compared on access, loss risk and footprint.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

@@ -90,6 +90,12 @@ Calculate the gravitational potential at the surface of Mars.
 Vg = -GM/r = -(6.67 × 10⁻¹¹ × 6.42 × 10²³) / (3.39 × 10⁶)
 Vg = -4.282 × 10¹³ / 3.39 × 10⁶ = -1.26 × 10⁷ J kg⁻¹
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-gravitational-fields--07-geostationary.webp" width="900" height="1180" alt="A to-scale view from above the North Pole. The geostationary ring is 4.22 x 10^7 m from Earth’s centre, about 36 000 km above the surface, far outside a 600 km low orbit. The satellite moves west to east with the Earth, so it stays above one point on the equator. Period 24 h, west to east and over the equator are all needed." loading="lazy">
+  <figcaption>Geostationary means 24 h, west to east and over the equator, at one radius only.</figcaption>
+</figure>
+
+
 ### Worked example 2: work to change orbit height
 
 An 800 kg satellite is lifted from the surface of Mars to a point 500 km above the surface. Calculate the work that must be done on it.

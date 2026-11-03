@@ -103,6 +103,21 @@ Food only passes through the tube: mouth, oesophagus, stomach, duodenum, small i
   <figcaption>Activity peaks at the optimum temperature, then falls as the enzyme is denatured.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-enzymes--06-ph-graph.webp" width="900" height="1000" alt="Sketch graph of enzyme activity against pH 0 to 14. Pepsin peaks in acidic conditions, trypsin in alkaline conditions; each falls on both sides of its optimum and is denatured far from it. Below, three small pictures (Extended) show the substrate fitting at the optimum, fitting less well when pH moves away, and not fitting at extreme pH." loading="lazy">
+  <figcaption>Each enzyme has its own optimum pH; away from it the active site changes shape.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-human-nutrition--07-gut-ph-enzymes.webp" width="900" height="1200" alt="The stomach is acidic because of hydrochloric acid, which kills microbes and gives the acid pH that pepsin needs. Food then enters the duodenum, where bile neutralises the acid and makes the contents alkaline for trypsin. A sketch graph of enzyme activity against pH shows pepsin most active in acid and trypsin most active in alkali. Pepsin, trypsin and bile are Extended." loading="lazy">
+  <figcaption>Pepsin works in acid and trypsin in alkali, because bile neutralises the acid leaving the stomach.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-biotechnology-and-genetic-modification--04-enzymes-use.webp" width="900" height="920" alt="Protease breaks protein into amino acids, lipase breaks fats and oils into glycerol and fatty acids, amylase breaks starch into simpler sugars; these work in biological washing powders. Extended: lactase breaks lactose into glucose and galactose, making lactose-free milk." loading="lazy">
+  <figcaption>Each enzyme breaks a large molecule into smaller soluble ones.</figcaption>
+</figure>
+
 
 ## 3.2.4 c: Which enzyme, where
 
@@ -126,6 +141,12 @@ Food only passes through the tube: mouth, oesophagus, stomach, duodenum, small i
 ### Surface area reminder
 
 A cube of side 3 cm has surface area 6 × 3 × 3 = 54 cm². Split into 27 cubes of side 1 cm, the total surface area is 27 × 6 = 162 cm². That is **three times** greater, with the same volume.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-human-nutrition--05-physical-digestion.webp" width="900" height="1130" alt="Top: chewing and churning break one large cube of food into eight small cubes; the surface area doubles. Bottom, Extended: bile breaks one large fat droplet into eight small droplets, again doubling the surface area so twice as many lipase molecules can reach the fat. The fat molecules themselves are not changed." loading="lazy">
+  <figcaption>Smaller pieces give more surface area for enzymes, and bile does this to fat without changing the molecules.</figcaption>
+</figure>
+
 
 ### Worked reminder: water absorption (3.2.4 a)
 
@@ -216,6 +237,11 @@ Safety: eye protection; care with hot water, acid and iodine.
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/oxfordaqa-igcse-biology-digestion-and-enzymes--02-practical-setup-variables.webp" width="900" height="1086" alt="Test tubes of amylase and starch stand in a water bath; iodine drops on a spotting tile turn from blue-black to orange-brown at the end point (120 s, illustrative). Cards give the independent, dependent and control variables." loading="lazy">
   <figcaption>Change temperature or pH, measure the time for starch to disappear, keep everything else the same.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-enzymes--07-starch-iodine-end-point.webp" width="900" height="990" alt="Starch and amylase tubes stand in a water bath at a set temperature. After mixing, one drop every 30 seconds goes on iodine in a spotting tile. Wells at 30 to 120 seconds are blue-black; the well at 150 seconds is the first orange-brown, the end point. Rate = 1000 ÷ 150 = 6.7." loading="lazy">
+  <figcaption>The end point is the first well where iodine stays orange-brown.</figcaption>
 </figure>
 
 

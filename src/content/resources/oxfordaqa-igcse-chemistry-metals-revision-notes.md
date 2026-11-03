@@ -39,6 +39,11 @@ Other useful pages: the [course hub](/boards/oxfordaqa/igcse/chemistry/), the [p
 > 4. If asked for a mass, use mass of element = percentage/100 × mass of alloy.
 
 <figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-chemistry-metals--04-mass-mole-ratio-chains-metals.webp" width="900" height="740" alt="Two four-step chains: 1120 kg iron to 20.0 kmol to 15.0 kmol carbon to 180 kg carbon; and 3.20 g copper to 0.0500 mol to 0.0500 mol iron to 2.80 g iron." loading="lazy">
+  <figcaption>Mass to moles to ratio to mass, for the carbon and scrap-iron examples.</figcaption>
+</figure>
+
+<figure class="topic-figure">
   <img src="https://img.marlbridge.com/metal-properties-and-reactivity--01-metal-properties.webp" width="900" height="1070" alt="A lattice of positive ions sits in a sea of free electrons. Layers slide when the metal is hammered, free electrons carry current and heat along a wire, and strong ion-electron attraction gives high melting points." loading="lazy">
   <figcaption>Metallic bonding explains malleability, conduction and high melting points.</figcaption>
 </figure>
@@ -98,6 +103,17 @@ Small reminder: copper wire in silver nitrate solution. Cu + 2AgNO₃ → Cu(NO�
 
 Scrap iron and copper solution: **Fe + Cu²⁺ → Fe²⁺ + Cu**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/metal-properties-and-reactivity--04-displacement.webp" width="900" height="940" alt="An iron nail in blue copper(II) sulfate becomes coated in pink-brown copper while the solution turns pale green. Iron atoms lose two electrons to form Fe2+ and the copper ions gain them to form copper atoms." loading="lazy">
+  <figcaption>The more reactive metal loses electrons and displaces the less reactive metal.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/redox-reactions--02-electron-transfer.webp" width="900" height="920" alt="A zinc atom becomes a Zn2+ ion by losing two electrons (oxidation). A downward arrow carries the two electrons to a Cu2+ ion, which becomes a copper atom (reduction). No oxygen is involved." loading="lazy">
+  <figcaption>Zinc loses two electrons and Cu2+ gains them: oxidation and reduction without any oxygen.</figcaption>
+</figure>
+
+
 ## Extraction (3.3.1.1 c to e)
 
 | Where the metal sits | How it is obtained |
@@ -129,6 +145,21 @@ Raw materials: iron ore, coke, limestone, hot air. Overall with carbon: 2Fe₂O�
   <figcaption>Carbon can only reduce oxides of metals less reactive than itself; more reactive metals need electrolysis.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/alloys-and-extraction-of-metals--03-blast-furnace.webp" width="900" height="1000" alt="A furnace cross-section: hematite, coke and limestone go in at the top, hot air near the bottom, waste gases out of the top. Five numbered reactions are marked up the furnace, and molten slag floats on molten iron at the base, each tapped off." loading="lazy">
+  <figcaption>The blast furnace turns hematite into iron using coke, limestone and hot air.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/alloys-and-extraction-of-metals--04-iron-steps.webp" width="900" height="1030" alt="Ball models and balanced equations for steps 1-3: coke burns to carbon dioxide, carbon dioxide and more coke make carbon monoxide, and carbon monoxide reduces iron(III) oxide to iron." loading="lazy">
+  <figcaption>Carbon monoxide, made from coke, does the reducing of iron oxide.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/alloys-and-extraction-of-metals--05-slag.webp" width="900" height="910" alt="Limestone breaks down to lime and carbon dioxide, then lime reacts with silica (sand) to make slag. The slag floats on top of the molten iron and is drawn off separately." loading="lazy">
+  <figcaption>Slag carries away the silica impurity and floats on the iron.</figcaption>
+</figure>
+
 
 ## Copper from low-grade ores (3.3.1.1 f and g)
 
@@ -154,6 +185,11 @@ With a copper anode instead: Cu → Cu²⁺ + 2e⁻ (the anode dissolves).
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/oxfordaqa-igcse-chemistry-metals--03-copper-chloride-electrolysis.webp" width="900" height="1040" alt="Copper chloride solution with graphite electrodes: Cu2+ goes to the cathode and forms pink-brown copper (reduction); Cl- goes to the anode and forms chlorine bubbles, 2Cl- to Cl2 + 2e- (oxidation)." loading="lazy">
   <figcaption>Copper ions gain electrons at the cathode and chloride ions lose them at the anode.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/electrolysis-and-fuel-cells--05-copper-sulfate-electrodes.webp" width="900" height="1200" alt="Blue copper(II) sulfate solution is electrolysed twice. With graphite, copper coats the cathode and oxygen bubbles form at the anode. With copper electrodes copper again deposits, but the anode dissolves and gets smaller." loading="lazy">
+  <figcaption>Copper deposits at the cathode either way; the anode gives oxygen with graphite but dissolves if it is copper.</figcaption>
 </figure>
 
 
@@ -190,6 +226,11 @@ Example: Li₂CO₃ + 2HNO₃ → 2LiNO₃ + H₂O + CO₂
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/oxfordaqa-igcse-chemistry-metals--08-carbonate-thermal-decomposition.webp" width="900" height="1110" alt="A carbonate is heated and CO2 escapes. CuCO3 goes green to black; ZnCO3 white, yellow hot, white cold. Li2CO3 decomposes but Na2CO3 and K2CO3 do not at Bunsen temperatures. 2.10 g MgCO3 leaves 1.00 g MgO and 1.10 g CO2." loading="lazy">
   <figcaption>Thermal decomposition: what you see, which carbonates decompose, and the mass balance.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-chemistry-identification-of-ions--05-carbonate-test.webp" width="900" height="950" alt="Dilute acid on a carbonate fizzes; the gas goes along a delivery tube into limewater, which turns cloudy white. Fizzing alone is not enough because metals in acid also fizz. Equation CuCO3 + 2HNO3 gives Cu(NO3)2 + H2O + CO2." loading="lazy">
+  <figcaption>Fizz, then confirm the gas as CO2 with limewater.</figcaption>
 </figure>
 
 
@@ -230,12 +271,6 @@ Example: Li₂CO₃ + 2HNO₃ → 2LiNO₃ + H₂O + CO₂
 11. Mᵣ ZnCO₃ = 125, Mᵣ CO₂ = 44. Mass = 5.00 × 44/125 = **1.76 g**.
 12. Magnesium chloride, water and carbon dioxide.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/oxfordaqa-igcse-chemistry-metals--04-mass-mole-ratio-chains-metals.webp" width="900" height="740" alt="Two four-step chains: 1120 kg iron to 20.0 kmol to 15.0 kmol carbon to 180 kg carbon; and 3.20 g copper to 0.0500 mol to 0.0500 mol iron to 2.80 g iron." loading="lazy">
-  <figcaption>Mass to moles to ratio to mass, for the carbon and scrap-iron examples.</figcaption>
-</figure>
-
-
 ## Where marks are usually lost
 
 - Writing "free ions" instead of "delocalised electrons" when explaining conduction in a solid metal.
@@ -248,6 +283,12 @@ Example: Li₂CO₃ + 2HNO₃ → 2LiNO₃ + H₂O + CO₂
 - Giving "aluminium is rare" as the reason it is expensive, instead of the energy used in electrolysis.
 - Writing oxygen at the anode for copper chloride solution; chlorine forms there.
 - Including sodium carbonate in the list of carbonates that break down in a Bunsen flame.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/alloys-and-extraction-of-metals--06-aluminium-cell.webp" width="900" height="1080" alt="An electrolysis cell: carbon anodes dip into molten cryolite containing dissolved aluminium oxide. Al3+ ions move to the cathode and form molten aluminium; O2- ions go to the anodes and form oxygen, which burns the carbon anodes away as carbon dioxide." loading="lazy">
+  <figcaption>Aluminium oxide is dissolved in molten cryolite and electrolysed; the carbon anodes burn away and are replaced.</figcaption>
+</figure>
+
 
 ## Official syllabus
 

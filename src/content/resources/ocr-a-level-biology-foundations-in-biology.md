@@ -113,6 +113,12 @@ size, object size, magnification) and ask for the third, so fluency in
 rearranging this formula for any variable -- not just calculating
 magnification itself -- is essential.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-biology-eukaryotic-and-prokaryotic-cell-structure--06-resolution-scale.webp" width="900" height="900" alt="A logarithmic size scale from 0.1 nm to 100 micrometres. Bars show the smallest detail each microscope resolves: about 200 nm for light, 3 to 10 nm for SEM and 0.5 nm for TEM. Below, a ribosome (20 to 30 nm) needs an electron microscope, a mitochondrion (0.5 to 1 micrometre) appears as a dot in light microscopy, and a bacterium and a cell are visible in a light microscope." loading="lazy">
+  <figcaption>Resolution, set by wavelength, decides what you can see; extra magnification adds no detail.</figcaption>
+</figure>
+
+
 ## Common mistakes
 
 - **Confusing magnification and resolution.** A more powerful
@@ -161,6 +167,16 @@ here as a priority to close before moving on to Module 3 (Exchange and
 transport), which builds directly on the cell structure and
 biological-molecule content introduced here.
 
+## Related resources
+
+- [Foundations in Biology revision notes](/resources/ocr-a-level-biology-foundations-revision-notes/)
+- [Foundations in Biology practice questions](/resources/ocr-a-level-biology-foundations-practice/)
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-biology-eukaryotic-and-prokaryotic-cell-structure--01-animal-cell.webp" width="900" height="870" alt="A typical animal cell with its organelles labelled: cell surface membrane, nucleus with a two-membrane envelope with pores and a dark nucleolus, rough ER with ribosomes, smooth ER tubes without ribosomes, Golgi apparatus with vesicles, lysosome, a pair of centrioles at right angles, free ribosomes and mitochondria with folded inner membranes." loading="lazy">
+  <figcaption>The main organelles of an animal cell, drawn as seen with an electron microscope.</figcaption>
+</figure>
+
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/a-level-aqa-biology-eukaryotic-and-prokaryotic-cell-structure--03-energy-organelles.webp" width="900" height="890" alt="A mitochondrion with a double membrane, an inner membrane folded into cristae and a fluid matrix containing circular DNA and 70S ribosomes; it carries out aerobic respiration. Below, a chloroplast with a double membrane, grana (stacks of thylakoids) in the stroma, a starch grain, circular DNA and 70S ribosomes; it carries out photosynthesis in plant cells." loading="lazy">
   <figcaption>Both organelles have a double membrane, their own circular DNA and 70S ribosomes.</figcaption>
@@ -191,11 +207,6 @@ biological-molecule content introduced here.
   <figcaption>The largest, densest organelles pellet first, at the lowest speed.</figcaption>
 </figure>
 
-
-## Related resources
-
-- [Foundations in Biology revision notes](/resources/ocr-a-level-biology-foundations-revision-notes/)
-- [Foundations in Biology practice questions](/resources/ocr-a-level-biology-foundations-practice/)
 
 ## Official syllabus
 

@@ -76,6 +76,17 @@ Related: the [course hub](/boards/ib/ib-dp/physics/), the [printable checklist](
 2. Set this equal to ½mv² and solve.
 3. If the answer is needed in eV, the energy is the charge in units of e multiplied by the voltage, so an electron through 200 V gains 200 eV and a doubly charged ion gains 400 eV.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-electric-potential-energy-potential-and-equipotentials--02-assembling-three-charges.webp" width="900" height="1010" alt="Charges of +2.0, +2.0 and -4.0 microcoulombs sit at the corners of a 0.10 m equilateral triangle. The like pair gives +0.360 J and each unlike pair -0.719 J. A running-total bar chart sums every pair once to give -1.08 J." loading="lazy">
+  <figcaption>Total Ep is the sum over every pair, each counted once: here -1.08 J.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-electric-potential-energy-potential-and-equipotentials--03-potentials-add.webp" width="900" height="900" alt="V is plotted along the line through +4.0 nC and -1.0 nC, 0.50 m apart. It is zero at 0.40 m and 0.67 m from the positive charge, and about 345 V at 0.10 m on the far side of the positive charge. Zero potential does not mean zero field." loading="lazy">
+  <figcaption>Potentials from several charges add as signed numbers; V can be zero where the field is not.</figcaption>
+</figure>
+
+
 ## Small worked reminders
 
 **Reminder 1.** A +1.5 nC charge and a +3.0 nC charge are 0.090 m apart. Ep = 8.99 × 10⁹ × 1.5 × 10⁻⁹ × 3.0 × 10⁻⁹ / 0.090 = 4.5 × 10⁻⁷ J. Positive, since like charges repel.
@@ -150,6 +161,11 @@ Rules to state in answers:
 10. **Zero**, because ΔVe = 0 and W = qΔVe.
 
 <figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-electric-potential-energy-potential-and-equipotentials--01-ep-of-a-pair.webp" width="900" height="1050" alt="Two panels show like charges (you push them together, Ep positive) and unlike charges (you pull them apart, Ep negative). The graph plots Ep against separation for 3.0 nC with 5.0 nC, giving +3.4 microjoules for like and -3.4 microjoules for unlike charges at 4.0 cm. Both curves approach zero at large r." loading="lazy">
+  <figcaption>Like charges store positive Ep and unlike charges negative Ep, both tending to zero at infinity.</figcaption>
+</figure>
+
+<figure class="topic-figure">
   <img src="https://img.marlbridge.com/ib-dp-physics-electric-potential-energy-potential-and-equipotentials--05-work-and-electronvolts.webp" width="900" height="1180" alt="An electron starts at rest at 0 V and is accelerated to a plate at +450 V. Its potential energy falls from 450 eV to 0 while its kinetic energy rises from 0 to 450 eV. KE = 7.2 x 10^-17 J = 450 eV and the final speed is 1.3 x 10^7 m per second." loading="lazy">
   <figcaption>Energy lost as potential energy appears as kinetic energy: qdV = 450 eV for an electron through 450 V.</figcaption>
 </figure>
@@ -174,11 +190,6 @@ Rules to state in answers:
 - Treating Ve inside a conducting sphere as kQ/r with a small r. The interior value stays at the surface value kQ/R.
 - Writing W = qΔVe with the wrong sign convention and not saying who does the work. State whether it is the external agent or the field.
 - Giving a speed without checking that energy was converted to joules first.
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ib-dp-physics-electric-potential-energy-potential-and-equipotentials--03-potentials-add.webp" width="900" height="900" alt="V is plotted along the line through +4.0 nC and -1.0 nC, 0.50 m apart. It is zero at 0.40 m and 0.67 m from the positive charge, and about 345 V at 0.10 m on the far side of the positive charge. Zero potential does not mean zero field." loading="lazy">
-  <figcaption>Potentials from several charges add as signed numbers; V can be zero where the field is not.</figcaption>
-</figure>
 
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/ib-dp-physics-electric-potential-energy-potential-and-equipotentials--06-equipotentials-basics.webp" width="900" height="1170" alt="For a point charge, rings at equal 100 V steps are concentric circles, closer together near the charge, crossed at right angles by radial field lines. Between parallel plates, equipotentials at 0, 60, 120, 180 and 240 V are equally spaced planes with uniform field lines perpendicular to them." loading="lazy">

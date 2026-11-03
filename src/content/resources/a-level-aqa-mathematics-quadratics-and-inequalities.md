@@ -108,6 +108,16 @@ same quadratic set greater than zero.
   <figcaption>f(x) &lt; g(x) means the first graph lies below the second; find the intersections first.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-mathematics-quadratics-and-inequalities--07-fraction-inequality.webp" width="900" height="940" alt="Graph of y = 5/(x - 2) with asymptote x = 2 and the line y = 3. The curve is above the line only for 2 &lt; x &lt; 11/3. Multiplying by x - 2 is unsafe because its sign changes at x = 2." loading="lazy">
+  <figcaption>Multiply by the square of the denominator, or compare graphs, rather than by x - 2 itself. (AQA / Edexcel IAL content.)</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-mathematics-quadratics-and-inequalities--08-disguised-quadratic.webp" width="900" height="1255" alt="With u = x^2 the equation x^4 - 5x^2 + 4 = 0 becomes u^2 - 5u + 4 = 0 with roots u = 1 and 4. Going back gives x = -2, -1, 1 and 2, the four x-intercepts of the quartic." loading="lazy">
+  <figcaption>Substitute u for the repeated function, solve the quadratic, then solve back for x using both signs. (Cambridge 9709 only.)</figcaption>
+</figure>
+
 
 ## Worked example: solving a quadratic inequality graphically
 
@@ -134,12 +144,6 @@ prevents the single most common error in this sub-topic: writing the
 solution the wrong way round (as a bounded "and" region instead of the
 correct unbounded "or" region, or vice versa).
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-level-aqa-mathematics-quadratics-and-inequalities--03-quadratic-inequality.webp" width="900" height="1130" alt="The graph of x^2 - x - 6 shown twice. Above the axis the solution is x &lt; -2 or x &gt; 3 (two outer regions); below the axis it is -2 &lt; x &lt; 3 (one bounded region)." loading="lazy">
-  <figcaption>Sketch the curve: above the axis gives an &quot;or&quot; answer outside the roots, below gives an &quot;and&quot; answer between them.</figcaption>
-</figure>
-
-
 ## Key terms to define precisely
 
 **Discriminant** — the expression b² − 4ac from the quadratic formula,
@@ -157,8 +161,8 @@ sketch, or a set-notation expression — avoids losing marks for
 providing the right mathematical content in the wrong required format.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-level-aqa-mathematics-quadratics-and-inequalities--01-completing-the-square.webp" width="900" height="910" alt="Graph of y = -2x^2 + 8x + 3 rewritten as -2(x - 2)^2 + 11. The vertex (2, 11) is the maximum because a is negative, the line of symmetry is x = 2, the y-intercept is 3 and the roots are about -0.35 and 4.35." loading="lazy">
-  <figcaption>Completed-square form gives the vertex, line of symmetry and maximum value at a glance.</figcaption>
+  <img src="https://img.marlbridge.com/a-level-aqa-mathematics-quadratics-and-inequalities--03-quadratic-inequality.webp" width="900" height="1130" alt="The graph of x^2 - x - 6 shown twice. Above the axis the solution is x &lt; -2 or x &gt; 3 (two outer regions); below the axis it is -2 &lt; x &lt; 3 (one bounded region)." loading="lazy">
+  <figcaption>Sketch the curve: above the axis gives an &quot;or&quot; answer outside the roots, below gives an &quot;and&quot; answer between them.</figcaption>
 </figure>
 
 

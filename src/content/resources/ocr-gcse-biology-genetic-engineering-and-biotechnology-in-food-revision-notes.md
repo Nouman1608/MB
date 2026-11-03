@@ -176,12 +176,6 @@ When asked to "explain how", always finish the chain: the gene gives the charact
 - **Vector vs host:** the vector carries the gene; the host is the cell that receives it.
 - **Benefit vs risk:** always say who gains or is harmed.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-biology-0610-variation-and-selection--07-selective-breeding.webp" width="900" height="1180" alt="A loop shows choosing the best plants, crossing them, and growing offspring and choosing the best, repeated for many generations. A line graph shows wheat yield rising over four rounds: 3.2, 3.5, 3.9, 4.3 tonnes per hectare, a 34.4% increase. Uses are higher yield and disease resistance in crops and more milk, meat and calmer temperament in animals." loading="lazy">
-  <figcaption>Choosing and crossing the best plants over many generations raises yield.</figcaption>
-</figure>
-
-
 ## Quick self-test
 
 1. State what is meant by genetic engineering.
@@ -207,6 +201,12 @@ When asked to "explain how", always finish the chain: the gene gives the charact
 8. 18 / 120 × 100 = **15%**.
 9. Crops making their own insect toxin can reduce the need for insecticide sprays. (Herbicide-tolerant crops may do the opposite, so it depends on the trait.)
 10. Any one: moving genes between species is unnatural; consumers may lack choice without labelling; a few companies may control seed; poorer farmers may not afford it.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-variation-and-selection--07-selective-breeding.webp" width="900" height="1180" alt="A loop shows choosing the best plants, crossing them, and growing offspring and choosing the best, repeated for many generations. A line graph shows wheat yield rising over four rounds: 3.2, 3.5, 3.9, 4.3 tonnes per hectare, a 34.4% increase. Uses are higher yield and disease resistance in crops and more milk, meat and calmer temperament in animals." loading="lazy">
+  <figcaption>Choosing and crossing the best plants over many generations raises yield.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

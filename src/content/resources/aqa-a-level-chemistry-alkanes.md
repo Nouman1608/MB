@@ -79,6 +79,11 @@ is a physical process. That is the key contrast with cracking.
   <figcaption>Fractions separate by boiling point, which rises with chain length (AQA, Edexcel).</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-organic-chemistry-naming-mechanisms-and-aromatic-shape--07-boiling-points.webp" width="900" height="1200" alt="Boiling points of methane to decane rise with chain length (data from the OCR lesson); methane to butane are gases at 20 C. Heptane 98, 2-methylhexane 90 and 2,2-dimethylpentane 79 C show branching lowers boiling point." loading="lazy">
+  <figcaption>More electrons and contact give stronger London forces; branching lowers boiling point (AQA, OCR, OxfordAQA).</figcaption>
+</figure>
+
 
 ## Cracking (3.3.2.2)
 
@@ -281,8 +286,8 @@ Cl• + Cl• → Cl2
 ```
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-organic-chemistry-naming-mechanisms-and-aromatic-shape--02-bond-fission.webp" width="900" height="1170" alt="Cl-Cl splits with one electron to each atom giving two free radicals; H-Br splits with both electrons to Br giving H+ and Br-. Curly arrows start on the bond and end on the atom receiving the electrons." loading="lazy">
-  <figcaption>Homolytic fission gives radicals, heterolytic fission gives ions (AQA, Edexcel, OCR, OxfordAQA).</figcaption>
+  <img src="https://img.marlbridge.com/a-organic-chemistry-naming-mechanisms-and-aromatic-shape--01-skeletal-isomers.webp" width="900" height="1240" alt="Butan-1-ol drawn as a skeletal formula with the three rules shown (end or corner is carbon, hydrogens on carbon not drawn, OH written in full), then skeletal formulae of the five structural isomers of C6H14." loading="lazy">
+  <figcaption>Each line is a bond and each end or corner is carbon; C6H14 has five structural isomers (AQA, Edexcel, OCR, OxfordAQA, Cambridge).</figcaption>
 </figure>
 
 <figure class="topic-figure">
@@ -309,6 +314,12 @@ proportion of chloromethane. A large excess of chlorine favours further substitu
 
 **Check:** each propagation step has one radical in and one out; each termination step has two in and
 none out.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-organic-chemistry-naming-mechanisms-and-aromatic-shape--02-bond-fission.webp" width="900" height="1170" alt="Cl-Cl splits with one electron to each atom giving two free radicals; H-Br splits with both electrons to Br giving H+ and Br-. Curly arrows start on the bond and end on the atom receiving the electrons." loading="lazy">
+  <figcaption>Homolytic fission gives radicals, heterolytic fission gives ions (AQA, Edexcel, OCR, OxfordAQA).</figcaption>
+</figure>
+
 
 ## Common errors
 

@@ -57,11 +57,6 @@ Strong and weak refer to **degree of dissociation**, never to concentration — 
   <figcaption>Every alkali is a base, and neutralisation is H+ + OH- making water.</figcaption>
 </figure>
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/acids-bases-and-salts--04-strong-weak-acids.webp" width="900" height="1090" alt="Two boxes of ten acid particles. In hydrochloric acid all ten split into H+ and Cl- ions. In ethanoic acid only two split and eight stay as molecules, so it uses a reversible arrow." loading="lazy">
-  <figcaption>Strong acids split completely; weak acids only partly.</figcaption>
-</figure>
-
 
 ## The three reactions of acids
 
@@ -139,12 +134,6 @@ All four routes to a soluble salt — titration (acid + alkali), excess metal, e
 
 **Hydrated vs anhydrous salts.** A hydrated salt has water chemically combined within its crystal structure — written directly into the formula, e.g. CuSO₄·5H₂O (hydrated, blue). Heating drives this water off, leaving **anhydrous** CuSO₄ (white powder). Anhydrous copper(II) sulfate turning blue is the standard chemical test for the presence of water. *(0620 Extended, 5070 required)* This chemically-combined water is formally named the **water of crystallisation**.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/acids-bases-and-salts--06-soluble-salt-prep.webp" width="900" height="1130" alt="Four steps: add excess solid to acid, filter off the unreacted solid, evaporate the filtrate until crystals start to form, then crystallise, filter and dry. A note says that with an alkali you titrate to the exact volume." loading="lazy">
-  <figcaption>Excess solid guarantees all the acid reacts; filter before evaporating.</figcaption>
-</figure>
-
-
 ## Exam traps
 
 - Don't confuse **strong/weak** (dissociation) with **concentrated/dilute** (amount per volume).
@@ -166,6 +155,21 @@ All four routes to a soluble salt — titration (acid + alkali), excess metal, e
 7. Describe the standard chemical test for the presence of water, using copper(II) sulfate.
 
 **Answers:** 1. H⁺(aq) + OH⁻(aq) → H₂O(l). 2. Copper(II) nitrate. 3. Precipitation — barium sulfate is insoluble, so mixing two soluble solutions precipitates it for filtering. 4. Al₂O₃, ZnO. 5. Weak = only partially dissociates into ions; dilute = a small amount of acid per volume of solution. A weak acid can be concentrated, and a strong acid dilute. 6. Ammonia gas; test with damp red litmus paper, which turns blue. 7. Add the liquid to white anhydrous copper(II) sulfate; if water is present, it turns blue as the salt becomes hydrated (CuSO₄·5H₂O).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/acids-bases-and-salts--04-strong-weak-acids.webp" width="900" height="1090" alt="Two boxes of ten acid particles. In hydrochloric acid all ten split into H+ and Cl- ions. In ethanoic acid only two split and eight stay as molecules, so it uses a reversible arrow." loading="lazy">
+  <figcaption>Strong acids split completely; weak acids only partly.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/acids-bases-and-salts--06-soluble-salt-prep.webp" width="900" height="1130" alt="Four steps: add excess solid to acid, filter off the unreacted solid, evaporate the filtrate until crystals start to form, then crystallise, filter and dry. A note says that with an alkali you titrate to the exact volume." loading="lazy">
+  <figcaption>Excess solid guarantees all the acid reacts; filter before evaporating.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/acids-bases-and-salts--07-solubility-rules.webp" width="900" height="979" alt="Six rows: sodium, potassium and ammonium salts and nitrates are soluble; chlorides are soluble except silver and lead; sulfates soluble except barium, calcium and lead; carbonates insoluble except sodium, potassium, ammonium; hydroxides insoluble except sodium, potassium, ammonium and (slightly) calcium." loading="lazy">
+  <figcaption>Use the rules to decide whether a salt dissolves.</figcaption>
+</figure>
 
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/acids-bases-and-salts--08-precipitation.webp" width="900" height="1040" alt="Two clear solutions, silver nitrate and sodium chloride, are mixed and white solid silver chloride forms. It is filtered, washed with water and dried, with no evaporation. The equation is balanced." loading="lazy">

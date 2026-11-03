@@ -174,6 +174,11 @@ Kittiwake Freight plc has 4,000,000 shares. Profit after tax is 1,600,000 and th
   <figcaption>From company profit to a dividend, and what a majority needs.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-understanding-business-activity--07-ownership-control.webp" width="900" height="1060" alt="Sole trader and partners both own and run the business; in a plc many shareholders own it but a few directors run it, so ownership and control are divorced." loading="lazy">
+  <figcaption>In a plc owners and managers are different groups, whose objectives may diverge.</figcaption>
+</figure>
+
 
 ## Comparing the four main types
 
@@ -216,6 +221,11 @@ Pennywhistle Pizza charges an initial fee of 20,000 and a royalty of 6% of sales
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/igcse-business-0264-types-of-business-organisation--04-franchise-year-one.webp" width="900" height="830" alt="A waterfall chart in dollars: 52,000 operating profit, less a 15,000 royalty (6% of 250,000 sales), less a 20,000 initial fee, leaves 17,000 in year one. Eight identical outlets pay the franchisor 280,000." loading="lazy">
   <figcaption>A franchisee pays royalties and an initial fee out of its profit; the franchisor collects from every outlet.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-business-business-in-the-real-world--07-franchising.webp" width="900" height="800" alt="The franchisor gives the franchisee its brand, training and support. The franchisee pays fees and royalties and uses their own capital for the outlet. Franchising is not a form of ownership: the franchisee trades as a sole trader, partnership or company, and that sets liability." loading="lazy">
+  <figcaption>Franchising grows a brand using the franchisee’s capital, but liability follows the franchisee’s own legal form.</figcaption>
 </figure>
 
 

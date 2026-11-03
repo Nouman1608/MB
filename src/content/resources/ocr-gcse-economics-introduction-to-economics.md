@@ -55,6 +55,12 @@ and for whom goods and services should be produced, opportunity cost,
 and evaluating the costs and benefits of economic choices including
 their impact on economic, social and environmental sustainability
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-how-markets-work--08-social-cost-and-benefit.webp" width="900" height="890" alt="Left: private cost 60 plus external cost 40 on third parties gives social cost 100. Right: private benefit 50 plus external benefit 30 gives social benefit 80." loading="lazy">
+  <figcaption>Social cost = private cost + external cost; social benefit = private benefit + external benefit.</figcaption>
+</figure>
+
+
 ## How to approach it
 
 Main economic groups and factors of production (1.1) sets up the

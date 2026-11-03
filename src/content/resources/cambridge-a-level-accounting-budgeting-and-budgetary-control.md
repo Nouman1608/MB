@@ -216,6 +216,11 @@ Non-current assets: 50,000 + 14,000 - 2,400 depreciation = 61,600. Retained earn
   <figcaption>The cash budget warns months ahead that an overdraft will be needed.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-budgeting--05-profit-not-cash.webp" width="900" height="910" alt="A waterfall starts at budgeted profit of 17,700 pounds, adds back 2,000 depreciation, then subtracts the van (15,000), drawings (7,500) and higher receivables (7,500) and adds higher payables (3,600). The bank falls by 6,700, from 3,200 to a 3,500 overdraft." loading="lazy">
+  <figcaption>A profitable budget can still leave the bank overdrawn because profit is not cash.</figcaption>
+</figure>
+
 
 ## 5. Flexible budgets
 
@@ -243,6 +248,11 @@ Against the fixed budget, profit looks 1,100 better. Against the flexed budget i
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/cambridge-a-level-accounting-budgeting-and-budgetary-control--02-production-cost-reconciliation.webp" width="900" height="900" alt="A waterfall for Sutterby Lamps starts at the flexible budgeted cost of production, 69,500 dollars. Materials add 2,300 adverse, labour takes off 300 favourable, variable production overhead adds 600 adverse and fixed production overhead adds 400 adverse, reaching actual production cost of 72,500. Selling and administration costs are excluded." loading="lazy">
   <figcaption>Production costs only: 69,500 + 2,300 - 300 + 600 + 400 = 72,500.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-budgeting--06-flexed-budget.webp" width="900" height="960" alt="A waterfall from budget profit of 30,000 pounds adds 6,000 for 200 extra lamps to give a flexed profit of 36,000, then subtracts adverse price (3,300), materials (1,650) and fixed overhead (1,100) variances and adds a favourable labour variance (440) to reach actual profit of 30,390." loading="lazy">
+  <figcaption>Flex the budget to actual output first; then the variances show the real story.</figcaption>
 </figure>
 
 

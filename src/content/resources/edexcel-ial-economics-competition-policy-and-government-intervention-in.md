@@ -110,6 +110,11 @@ A market is **contestable** when entry and exit are cheap, because sunk costs ar
 - **Trade liberalisation.** Removing tariffs and quotas exposes domestic firms to imports. If a 20% tariff on a world price of 50 cu is removed, the domestic price falls from 60 to 50, down 16.7%. With price elasticity of demand of -1.2, quantity rises 20%. Domestic firms that cannot match the price may shut.
 
 <figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-competition-policy-and-government-intervention-in--11-return-vs-interest.webp" width="900" height="740" alt="A firm sold for 900 gave the state 60 a year; interest saved at 5% is 45, so the state is 15 a year worse off. Nationalising for 120 million earns 6 million, which beats borrowing at 4% (4.8m) but not at 6% (7.2m)." loading="lazy">
+  <figcaption>Whether the state gains depends on whether the earnings beat the interest cost.</figcaption>
+</figure>
+
+<figure class="topic-figure">
   <img src="https://img.marlbridge.com/edexcel-ial-economics-competition-policy-and-government-intervention-in--12-tender-scores.webp" width="900" height="880" alt="Four bids of 120, 112, 105 and 98 with quality scores 90, 80, 70 and 50 are scored 60% price and 40% quality. Scores are 85.0, 84.5, 84.0 and 80.0, so the dearest bid wins although the lowest saves 27 (21.6%)." loading="lazy">
   <figcaption>A weighted score stops price-only tendering from choosing the weakest quality.</figcaption>
 </figure>

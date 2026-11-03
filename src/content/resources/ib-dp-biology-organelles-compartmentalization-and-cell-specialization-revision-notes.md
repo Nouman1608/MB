@@ -92,6 +92,11 @@ Free ribosomes make proteins kept in the cell. Ribosomes on rough ER make protei
 </figure>
 
 <figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-organelles-compartmentalization-and-cell-specialization--02-lysosome-digestion.webp" width="900" height="940" alt="A cell engulfs a bacterium into a phagocytic vacuole. A lysosome with acidic hydrolytic enzymes fuses with the vacuole and digests the bacterium inside a membrane, so the cytoplasm (higher pH) is protected. Products pass into the cytoplasm." loading="lazy">
+  <figcaption>A lysosome fuses with a phagocytic vacuole so digestion stays inside a membrane.</figcaption>
+</figure>
+
+<figure class="topic-figure">
   <img src="https://img.marlbridge.com/ib-dp-biology-organelles-compartmentalization-and-cell-specialization--05-protein-secretion-route-hl.webp" width="900" height="1170" alt="mRNA leaves the nucleus through a pore in the double-membrane envelope. Ribosomes on the rough ER, continuous with the outer nuclear membrane, make the protein, which folds in the lumen. A transport vesicle takes it to the receiving face of the Golgi apparatus; a clathrin-coated vesicle buds from the opposite face and releases it by exocytosis." loading="lazy">
   <figcaption>A secreted protein travels nucleus, rough ER, Golgi, vesicle, then out by exocytosis.</figcaption>
 </figure>
@@ -182,12 +187,6 @@ The alveolar epithelium shows that one tissue can contain more than one cell typ
 - Free versus rough ER ribosomes: where the protein ends up.
 - Surface area versus SA:V ratio: area gets bigger as cells grow, but the ratio gets smaller.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ib-dp-biology-organelles-compartmentalization-and-cell-specialization--07-stem-cell-potency.webp" width="900" height="1130" alt="Three rows compare how many cell types a stem cell can become. Totipotent cells can become any cell type plus extra-embryonic tissue; pluripotent cells most body cell types but not a whole organism; multipotent adult cells, such as in bone marrow, only a limited range of related types. Stem cells self-renew and differentiate." loading="lazy">
-  <figcaption>Potency narrows from totipotent to pluripotent to multipotent.</figcaption>
-</figure>
-
-
 ## Quick self-test
 
 1. Name two structures that are not organelles.
@@ -215,8 +214,8 @@ The alveolar epithelium shows that one tissue can contain more than one cell typ
 10. They release surfactant into the alveolar lumen, which reduces surface tension.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ib-dp-biology-organelles-compartmentalization-and-cell-specialization--02-lysosome-digestion.webp" width="900" height="940" alt="A cell engulfs a bacterium into a phagocytic vacuole. A lysosome with acidic hydrolytic enzymes fuses with the vacuole and digests the bacterium inside a membrane, so the cytoplasm (higher pH) is protected. Products pass into the cytoplasm." loading="lazy">
-  <figcaption>A lysosome fuses with a phagocytic vacuole so digestion stays inside a membrane.</figcaption>
+  <img src="https://img.marlbridge.com/ib-dp-biology-organelles-compartmentalization-and-cell-specialization--07-stem-cell-potency.webp" width="900" height="1130" alt="Three rows compare how many cell types a stem cell can become. Totipotent cells can become any cell type plus extra-embryonic tissue; pluripotent cells most body cell types but not a whole organism; multipotent adult cells, such as in bone marrow, only a limited range of related types. Stem cells self-renew and differentiate." loading="lazy">
+  <figcaption>Potency narrows from totipotent to pluripotent to multipotent.</figcaption>
 </figure>
 
 

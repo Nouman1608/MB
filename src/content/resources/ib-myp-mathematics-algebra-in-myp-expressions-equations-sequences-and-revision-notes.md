@@ -117,6 +117,16 @@ Worked reminder, non-monic factorizing: 2x² + 11x + 12 needs two numbers with p
   <figcaption>Elimination with scaling gives (3, 4); a parallel line never meets, so no solution.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-algebra-and-graphs--02-simultaneous-lines.webp" width="900" height="940" alt="The lines 2x + y = 7 and x − y = 2 are graphed and cross at (3, 1). Adding the equations gives 3x = 9, so x = 3, and then y = 1. The crossing point is the one pair of values that fits both equations." loading="lazy">
+  <figcaption>The solution of simultaneous equations is where their graphs cross.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/indices-and-equations--02-matching-bases.webp" width="900" height="990" alt="Two columns show 32^x = 2 and 5^(x+1) = 25^x solved by rewriting 32 as 2^5 and 25 as 5^2, then equating indices. Results are x = 1/5 and x = 1." loading="lazy">
+  <figcaption>Rewrite both sides with the same base, then equate the indices.</figcaption>
+</figure>
+
 
 ## Inequalities
 
@@ -134,6 +144,21 @@ Reminder: 7 − 4x ≥ 31 gives −4x ≥ 24, so **x ≤ −6**.
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/ib-myp-mathematics-algebra-in-myp-expressions-equations-sequences-and--02-myp-compound-inequalities.webp" width="900" height="1200" alt="Number lines show AND as an overlap (−3 ≤ x &lt; 6), OR as two separate rays (x ≤ −3 or x &gt; 3), and the double inequality −1 ≤ x &lt; 6 with its seven integers." loading="lazy">
   <figcaption>And keeps the overlap, or keeps both pieces.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/inequalities--01-open-closed-number-line.webp" width="900" height="1110" alt="Four number lines from minus 4 to 4: x &lt; 1 (open circle at 1, shaded left), x at most 1 (closed circle), x &gt; minus 2 (open circle at minus 2, shaded right) and minus 3 at most x &lt; 1 (closed circle at minus 3, open at 1, shaded between). Closed means included, open means excluded." loading="lazy">
+  <figcaption>Closed circles include the value (⩽ ⩾); open circles exclude it (&lt; &gt;).</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/inequalities--02-negative-flips-sign.webp" width="900" height="1030" alt="Values of x from minus 5 to 2 are put through minus 2x and compared with 6. Only x greater than minus 3 passes, so −2x &lt; 6 becomes x &gt; −3, shown on a number line with an open circle at minus 3. Dividing by a negative reverses the sign." loading="lazy">
+  <figcaption>Dividing by a negative number reverses the inequality sign, as testing values confirms.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/inequalities--03-double-inequality-integers.webp" width="900" height="990" alt="Three number lines for −7 ⩽ 3x + 2 &lt; 11. Subtracting 2 from every part gives −9 ⩽ 3x &lt; 9; dividing every part by 3 gives −3 ⩽ x &lt; 3. The integers −3, −2, −1, 0, 1, 2 are marked; 3 has an open circle and is excluded." loading="lazy">
+  <figcaption>Operate on all three parts at once, then check each endpoint separately for integer solutions.</figcaption>
 </figure>
 
 
@@ -160,6 +185,11 @@ Worked reminder, a context quadratic: a ball's height in metres is h = 16t − 2
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/ib-myp-mathematics-algebra-in-myp-expressions-equations-sequences-and--04-myp-picture-frame-quadratic.webp" width="900" height="1090" alt="A frame is drawn as a w by w square plus a 4 by w strip, giving w² + 4w = 96. The graph of y = w² + 4w − 96 crosses zero at −12 and 8; the negative root is rejected, so the width is 8 cm and the length 12 cm." loading="lazy">
   <figcaption>A quadratic from a context: only w = 8 makes sense.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-graphs-of-functions-and-sketching-curves--04-sketch-quadratic.webp" width="900" height="1160" alt="A sketch of y = x² + 2x − 15: a U-shape crossing the x-axis at (−5, 0) and (3, 0) and the y-axis at (0, −15), symmetrical about x = −1. The turning point (−1, −16), from completing the square, is Extended only." loading="lazy">
+  <figcaption>A sketch shows shape, roots, y-intercept and symmetry; Extended adds the turning point.</figcaption>
 </figure>
 
 

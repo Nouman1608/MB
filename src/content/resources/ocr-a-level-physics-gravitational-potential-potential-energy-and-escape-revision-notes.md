@@ -75,6 +75,11 @@ F against r (5.4.4(c)):
 - Counting squares or trapezia: trapezia overestimate the area under this curve because it is bowed in towards the axes.
 
 <figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-gravitational-fields--02-inverse-square.webp" width="900" height="1000" alt="The same field lines pass through windows of 1, 4 and 9 unit areas at distances R, 2R and 3R, so the field spreads thinner. For Earth g is 9.81, 2.45 and 1.09 N per kg at R, 2R and 3R." loading="lazy">
+  <figcaption>Double the distance and g falls to a quarter; triple it and g falls to a ninth.</figcaption>
+</figure>
+
+<figure class="topic-figure">
   <img src="https://img.marlbridge.com/a-physics-gravitational-fields--03-g-and-v-graphs.webp" width="900" height="1030" alt="Two graphs for Earth against distance r. g falls from 9.81 N per kg at the surface to 2.45 at 2R and never reaches zero. V rises from -62.5 MJ per kg at the surface towards zero at infinity. The gradient of V at 2R is 2.45 N per kg, the size of g there." loading="lazy">
   <figcaption>g falls as 1/r2; V = -GM/r rises towards 0; the gradient of the V graph gives g.</figcaption>
 </figure>
@@ -103,11 +108,6 @@ Maximum distance reached: a probe leaves the surface of the Earth at 8.0 × 10³
 - To predict the atmosphere of a planet, calculate the escape speed from its mass and radius and compare it with the speeds of the gas atoms, which are given as data. Light atoms move faster than heavy ones at the same temperature, so they are the first to be lost.
 - Explain the result in words: the atoms with the highest speeds in the range can escape, so the atmosphere is lost over time even if the mean speed is lower than the escape speed.
 - A larger mass or a smaller radius raises the escape speed, so a planet is more likely to hold on to its gases.
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-physics-gravitational-fields--06-orbit-energy.webp" width="900" height="1070" alt="Energies of a 520 kg satellite against orbital radius. Kinetic energy is positive, potential energy is negative and twice as large in size, and total energy is negative, equal to minus the kinetic energy. Raising the orbit from 6.97 to 10 million metres raises the total energy by 4.5 x 10^9 J." loading="lazy">
-  <figcaption>Ek = GMm/2r, Ep = -GMm/r, E = -GMm/2r: a bigger orbit has E closer to zero and a smaller speed.</figcaption>
-</figure>
 
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/a-physics-gravitational-fields--08-escape-velocity.webp" width="900" height="1210" alt="The Earth’s potential well is -62.5 MJ per kg at the surface and zero at infinity. Launching with kinetic energy 62.5 MJ per kg brings the total energy to zero, giving escape velocity root(2GM/R) = 11.2 km per s. Bars compare Moon 2.37, Mars 5.03 and Earth 11.2 km per s; light-gas atoms at 1.9 km per s are 80% of the Moon value." loading="lazy">
@@ -150,6 +150,22 @@ Maximum distance reached: a probe leaves the surface of the Earth at 8.0 × 10³
 9. v = √(2gR) = √(2 × 6.0 × 4.0 × 10⁶) = 6.9 × 10³ m s⁻¹.
 10. E = -GMm/r = -3.982 × 10¹⁴ × 3000 / 4.2 × 10⁷ = -2.84 × 10¹⁰ J.
 11. No. Speeds are spread over a range, so a fraction of the atoms will be above the mean and some could exceed the escape speed.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-gravitational-fields--05-orbit-kepler-third.webp" width="900" height="1210" alt="A satellite on a circular orbit has gravity as its centripetal force. Equating GMm/r2 with mv2/r cancels m and gives v = root(GM/r), then T2 = (4pi2/GM) r3. A graph of T2 against r3 for Earth satellites is a straight line through the origin, passing through the 24 hour point." loading="lazy">
+  <figcaption>Gravity supplies the centripetal force, so v and T depend only on M and r, giving T2 proportional to r3.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-gravitational-fields--06-orbit-energy.webp" width="900" height="1070" alt="Energies of a 520 kg satellite against orbital radius. Kinetic energy is positive, potential energy is negative and twice as large in size, and total energy is negative, equal to minus the kinetic energy. Raising the orbit from 6.97 to 10 million metres raises the total energy by 4.5 x 10^9 J." loading="lazy">
+  <figcaption>Ek = GMm/2r, Ep = -GMm/r, E = -GMm/2r: a bigger orbit has E closer to zero and a smaller speed.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-gravitational-fields--07-geostationary.webp" width="900" height="1180" alt="A to-scale view from above the North Pole. The geostationary ring is 4.22 x 10^7 m from Earth’s centre, about 36 000 km above the surface, far outside a 600 km low orbit. The satellite moves west to east with the Earth, so it stays above one point on the equator. Period 24 h, west to east and over the equator are all needed." loading="lazy">
+  <figcaption>Geostationary means 24 h, west to east and over the equator, at one radius only.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

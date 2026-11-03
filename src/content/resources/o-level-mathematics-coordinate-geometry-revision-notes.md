@@ -160,6 +160,11 @@ Give a fully simplified equation. Do not leave brackets or a mix of forms unless
   <figcaption>m is the gradient and c is where the line crosses the y-axis.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-mathematics-functions-coordinates-and-straight-line-graphs--07-line-two-points.webp" width="900" height="910" alt="A straight line passes through (minus 3, minus 4) and (5, 8). A step triangle of 8 across and 12 up gives gradient 3/2. Using one point, y + 4 = 3/2 (x + 3), so y = 3/2 x + 1/2; the line crosses the y-axis at (0, one half)." loading="lazy">
+  <figcaption>Gradient from two points, then the equation of the line through them.</figcaption>
+</figure>
+
 
 ### 3.6 Parallel lines
 
@@ -167,6 +172,12 @@ Give a fully simplified equation. Do not leave brackets or a mix of forms unless
 - Keep the gradient, then use the new point to find the new c.
 
 Reminder: parallel to y = 3x + 1 through (2, 5): 5 = 3(2) + c, so c = −1 and the line is y = 3x − 1.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-coordinate-geometry--05-parallel-lines.webp" width="900" height="1000" alt="Lines y = 2x - 1 and y = 2x + 3 each go 1 across and 2 up, so they are parallel. The parallel line through P (1, 5) has c = 3." loading="lazy">
+  <figcaption>Parallel lines share a gradient; use a point to find c.</figcaption>
+</figure>
+
 
 ### 3.7 Perpendicular lines
 
@@ -178,6 +189,16 @@ Reminder: parallel to y = 3x + 1 through (2, 5): 5 = 3(2) + c, so c = −1 and t
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/o-level-mathematics-coordinate-geometry--02-right-angle-gradients.webp" width="900" height="950" alt="Triangle ABC with A(1, 1), B(5, 3), C(3, 7) on a grid. AB goes across 4 and up 2, gradient 1/2. BC goes across -2 and up 4, gradient -2. The product is -1, so angle ABC is 90 degrees." loading="lazy">
   <figcaption>Gradients 1/2 and -2 multiply to -1, so AB and BC are perpendicular.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-coordinate-geometry--06-perpendicular-lines.webp" width="900" height="960" alt="Two lines meet at right angles at (0, 1). One has gradient 2/3 and the other -3/2; their product is -1." loading="lazy">
+  <figcaption>Perpendicular gradients multiply to -1.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-coordinate-geometry--07-perpendicular-bisector.webp" width="900" height="1050" alt="AB joins (-3, 8) and (9, -2) with gradient -5/6. The bisector has gradient 6/5 and passes through M (3, 3), giving y = 6/5 x - 3/5." loading="lazy">
+  <figcaption>Combine gradient, perpendicular rule, midpoint and y = mx + c.</figcaption>
 </figure>
 
 

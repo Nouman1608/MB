@@ -123,10 +123,31 @@ Worked example: 200 units, total cost £8,000, total revenue £11,000 → averag
   <figcaption>More firms means lower barriers, less price control for each firm and more choice for buyers.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-economics-competition-monopoly-and-oligopoly-production-costs--02-six-sources-economies-of-scale.webp" width="900" height="990" alt="Six tiles each with a simple icon: technical (bigger machines and specialised workers), purchasing (bulk buying discounts), financial (cheaper borrowing), managerial (specialist managers), marketing (advertising cost spread over more units) and risk-bearing (many products absorb a failure). Below, a line falls from average cost 5.00 pounds at 1,000 candles to 3.20 pounds at 8,000 candles, the candle maker example." loading="lazy">
+  <figcaption>The six sources of economies of scale all push average cost down as output rises.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-economics-competition-monopoly-and-oligopoly-production-costs--13-candle-average-cost.webp" width="900" height="950" alt="Average cost per candle is 5.00 at 1,000, 3.50 at 4,000, 3.20 at 8,000 and 3.40 at 16,000 candles. Output rises 700% from 1,000 to 8,000 while average cost falls 36%." loading="lazy">
+  <figcaption>Average cost falls with scale, but not forever.</figcaption>
+</figure>
+
 
 ## The labour market (2.7)
 
 **Demand for labour** (from employers) is a **derived demand** and slopes **down**; **supply of labour** (from workers) slopes **up**; the **equilibrium wage** is where they meet. Demand shifts with demand for the product, productivity and the cost of machinery; supply shifts with the skills and training needed, the number of people who have them, working conditions and non-wage benefits, and the size of the working population.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-economics-the-labour-market-and-wages-gross-and-net-pay-money--05-wage-demand-rise-bakers.webp" width="900" height="1010" alt="Demand for bakers shifts right by 50 at every wage while supply is unchanged. Equilibrium moves from £10 and 80 bakers to £11 and 110 bakers, a wage rise of 10 per cent and employment rise of 37.5 per cent." loading="lazy">
+  <figcaption>A rise in demand for labour raises both the wage and employment.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-economics-the-labour-market-and-wages-gross-and-net-pay-money--05-labour-shifts-causes.webp" width="900" height="1010" alt="Two graphs for bakers. Demand shifting right by 50 at every wage moves equilibrium from 10 pounds and 80 bakers to 11 pounds and 110. A supply shift right by an illustrative 30 gives 9.40 pounds and 92 bakers. Side lists give what shifts each curve right or left." loading="lazy">
+  <figcaption>Demand and supply of labour shift for named reasons; the wage and employment then move to a new equilibrium.</figcaption>
+</figure>
+
 
 ## Worked example: net pay (2.7)
 
@@ -136,11 +157,28 @@ Gross pay £2,400/month; income tax £280; national insurance £190; pension £1
 Net pay = £2,400 - (£280 + £190 + £120) = £2,400 - £590 = £1,810
 ```
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-how-markets-work--07-gross-to-net-pay.webp" width="900" height="950" alt="Gross pay of 2,400 pounds loses 280 income tax, 190 national insurance and 120 pension, leaving net pay of 1,810 pounds." loading="lazy">
+  <figcaption>Net pay is gross pay minus income tax, national insurance and pension contributions.</figcaption>
+</figure>
+
+
 ## The role of money (2.8)
 
 Money as a medium of exchange. The financial sector (banks, building societies, insurance) enables saving, borrowing and investment, and **transmits interest rate changes** through the economy — not just "storing money."
 
 Higher interest rates → saving ↑, borrowing ↓, investment ↓ (and the reverse). Example: £5,000 saved for a year earns £100 at 2% and £150 at 3%.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-economics-the-labour-market-and-wages-gross-and-net-pay-money--03-financial-sector-flows.webp" width="900" height="1040" alt="Three rows show money in and money out: banks (deposits to loans), building societies (savings to mortgages), insurers (premiums to payouts). Three cards then show how consumers, producers and government benefit and the limit for each." loading="lazy">
+  <figcaption>The financial sector turns money in into loans, mortgages and payouts, with benefits and limits for each user.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-how-markets-work--06-interest-rate-effects.webp" width="900" height="890" alt="A saver with 5,000 pounds earns 100 pounds at 2% and 150 pounds at 3%. A borrower of 10,000 pounds pays 500 pounds at 5% and 700 pounds at 7%. A higher rate rewards savers and costs borrowers more." loading="lazy">
+  <figcaption>A rise in interest rates makes saving more rewarding and borrowing more expensive.</figcaption>
+</figure>
+
 
 ## Worked example: interpreting a demand curve shift
 

@@ -203,6 +203,11 @@ Evaluation: **benign deflation** arises from supply-side improvements, such as p
   <figcaption>Underlying economic growth is a rightward shift in LRAS, raising output and easing prices.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-aggregate-demand-supply--03-demand-side-shock.webp" width="900" height="910" alt="AD and AS diagram with vertical LRAS. AD shifts left from AD1 to AD2 after a fall in business confidence, moving equilibrium from output 90, price level 65 to output 75, price level 57.5. LRAS is unchanged." loading="lazy">
+  <figcaption>A fall in business confidence shifts AD left, cutting output and the price level in the short run while LRAS stays put.</figcaption>
+</figure>
+
 
 ## World commodity prices
 

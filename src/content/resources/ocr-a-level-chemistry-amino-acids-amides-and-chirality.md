@@ -80,6 +80,12 @@ RCH(NH₂)COOH + R′OH ⇌ RCH(NH₂)COOR′ + H₂O
 
 Name the alcohol part first: methanol and 2-aminohexanoic acid give methyl 2-aminohexanoate. The acid catalyst can also protonate the NH₂ group, so in the mixture the ester may be present as its ammonium salt; when asked for the ester, show COOR′ with NH₂ unchanged.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-optical-isomerism--07-racemate-formation.webp" width="900" height="1030" alt="Propanal has a trigonal planar carbonyl carbon drawn as a flat sheet. CN minus can attack from above or below, each 50 percent likely. Attack from the front gives 2-hydroxybutanenitrile with CN on a wedge; from the back, CN on a hashed bond. The two products are mirror images in equal amounts: a racemate. The same logic applies to Br minus attacking the planar carbocation from HBr and an alkene (AQA, OxfordAQA)." loading="lazy">
+  <figcaption>A planar carbon is attacked equally from both faces, so a chiral product forms as a 1:1 racemate.</figcaption>
+</figure>
+
+
 ### Worked example 3: ester yield
 
 **Task:** 5.24 g of 2-aminohexanoic acid is heated with excess methanol and concentrated H₂SO₄. After work-up, 4.06 g of methyl 2-aminohexanoate is collected. Find the percentage yield.
@@ -96,8 +102,18 @@ The nitrogen lone pair accepts a proton, as in the amines of 6.2.1. With dilute 
 RCH(NH₂)COOH + HCl → RCH(NH₃⁺)COOH Cl⁻
 
 <figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-amines--05-sn-mechanism.webp" width="900" height="1170" alt="Curly-arrow mechanism for ethylamine + bromomethane: lone pair on N attacks the delta-plus carbon and the C-Br bond breaks to give Br-; a second ethylamine removes H+ from the N+ intermediate, giving N-methylethylamine and ethylammonium bromide." loading="lazy">
+  <figcaption>Nucleophilic substitution: N lone pair attacks C, Br- leaves, then H+ is removed from N+.</figcaption>
+</figure>
+
+<figure class="topic-figure">
   <img src="https://img.marlbridge.com/aqa-a-level-chemistry-amines--06-acyl-mechanism.webp" width="900" height="1230" alt="Addition-elimination: lone pair on N of methylamine attacks the delta-plus C=O carbon while the C=O pi bond moves onto O. In the tetrahedral intermediate the O- lone pair re-forms C=O and the C-Cl bond breaks to release Cl-. The product is N-methylethanamide, with methylammonium chloride from the second amine." loading="lazy">
   <figcaption>Amines react with acyl chlorides by addition-elimination to give N-substituted amides.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-amines--08-peptide-link.webp" width="900" height="940" alt="Alanine and serine condense: the OH of alanine COOH and an H of serine NH2 leave as water, forming the peptide link -CO-NH- in the dipeptide. Mr 89 + 105 - 18 = 176. Hydrolysis with conc. HCl under reflux reverses it." loading="lazy">
+  <figcaption>A peptide link forms by condensation and is broken by hydrolysis.</figcaption>
 </figure>
 
 
@@ -177,6 +193,12 @@ Use the standard convention around the tetrahedral carbon:
 
 Draw one isomer, a dotted mirror line, then the reflection: wedges stay wedges and hashed bonds stay hashed; only left and right swap.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-optical-isomerism--03-enantiomer-drawing.webp" width="900" height="780" alt="Two 3D drawings of 2-aminopropanoic acid either side of a dashed mirror line. Enantiomer A has COOH up, H3C lower left, NH2 on a wedge and H on a hashed bond; B is the reflection with left and right swapped and wedge and hash unchanged. A key explains plain, wedge and hashed bonds." loading="lazy">
+  <figcaption>Draw the second enantiomer by reflecting across a mirror line: left and right swap, wedges stay wedges.</figcaption>
+</figure>
+
+
 ### Worked example 6: optical isomers of 2-aminohexanoic acid
 
 **Task:** show the two optical isomers of 2-aminohexanoic acid.
@@ -201,6 +223,21 @@ HSW1 and HSW8 point to using the tetrahedral model to explain the isomers and co
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/aqa-a-level-chemistry-amines--10-chirality.webp" width="900" height="1116" alt="Top: two mirror-image enantiomers of a chiral carbon with four different groups (NH2, COOH, CH3, H), drawn with wedge and dash bonds, which cannot be superimposed. Bottom (AQA only): an active site with three binding points fits one enantiomer; the mirror image has two groups swapped and does not fit." loading="lazy">
   <figcaption>A chiral centre has four different groups; an enzyme active site binds only one enantiomer.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-optical-isomerism--04-non-superimposable.webp" width="900" height="970" alt="Ball-and-stick models of enantiomer A and its mirror image B. B is turned by a computed rotation so COOH and CH3 coincide with A; then NH2 and H are in each other places, marked with dashed rings and crosses, so B cannot be superimposed on A." loading="lazy">
+  <figcaption>Enantiomers are mirror images that cannot be superimposed: after lining up two groups, the other two are swapped.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-optical-isomerism--05-polarimeter.webp" width="900" height="800" alt="A light path: lamp, polariser, tube of sample, analyser, eye. End-on dials show every plane after the lamp, one plane after the polariser, the plane turned clockwise through an angle alpha after the sample, and the analyser turned to the same angle. The angle turned is the angle of rotation. Edexcel specifies monochromatic light." loading="lazy">
+  <figcaption>A polarimeter measures how far an optically active sample turns the plane of plane-polarised light (Edexcel: monochromatic light).</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-optical-isomerism--08-sn1-sn2-evidence.webp" width="900" height="1110" alt="Edexcel only. SN1: one enantiomer of 3-chloro-3-methylheptane loses chloride to a planar carbocation; OH minus attacks either face, giving both enantiomers 1:1, a racemate with no rotation. SN2: hydroxide attacks 2-iodohexane from the side opposite iodine; the other three groups flip and a single inverted enantiomer forms, which is optically active." loading="lazy">
+  <figcaption>No rotation points to a planar intermediate (SN1); a single inverted enantiomer that rotates points to SN2 (Edexcel only).</figcaption>
 </figure>
 
 

@@ -99,6 +99,12 @@ These notes condense OCR A Level Physics A (H556), section 1.2.1 (practical skil
 | Corrected count rate | source count rate − background count rate |
 | Count uncertainty | about √N for N counts |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-physics-practical-endorsement-skills-apparatus-and-techniques--08-vernier-caliper-reading.webp" width="900" height="670" alt="A zoomed main scale and vernier scale. The vernier zero is just past 14 mm and the 17th vernier mark lines up with a main mark, so the reading is 14 + 17 x 0.02 = 14.34 mm." loading="lazy">
+  <figcaption>Main scale 14 mm plus the aligned vernier mark, 17 x 0.02 mm, gives 14.34 mm.</figcaption>
+</figure>
+
+
 ### Reading a micrometer, step by step
 
 1. Close the jaws gently with the ratchet and note the zero error (reading above zero is positive).
@@ -110,11 +116,6 @@ These notes condense OCR A Level Physics A (H556), section 1.2.1 (practical skil
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/ocr-a-level-physics-practical-endorsement-skills-apparatus-and-techniques--01-pe-micrometer-zero-error.webp" width="900" height="870" alt="A micrometer sleeve shows 6.5 mm and the thimble reads 28 divisions of 0.01 mm, a reading of 6.78 mm. With the jaws closed it read +0.03 mm, so 0.03 mm is subtracted to give 6.75 mm." loading="lazy">
   <figcaption>Read both scales, then subtract the zero error.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ocr-a-level-physics-practical-endorsement-skills-apparatus-and-techniques--08-vernier-caliper-reading.webp" width="900" height="670" alt="A zoomed main scale and vernier scale. The vernier zero is just past 14 mm and the 17th vernier mark lines up with a main mark, so the reading is 14 + 17 x 0.02 = 14.34 mm." loading="lazy">
-  <figcaption>Main scale 14 mm plus the aligned vernier mark, 17 x 0.02 mm, gives 14.34 mm.</figcaption>
 </figure>
 
 
@@ -174,12 +175,6 @@ These notes condense OCR A Level Physics A (H556), section 1.2.1 (practical skil
 - Lasers: lowest suitable power, never look into the beam or a reflection, keep the beam below eye level, stop it with a screen.
 - Circuits: use a low current, switch off before changing connections, check wires are not hot.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ocr-a-level-physics-practical-endorsement-skills-apparatus-and-techniques--04-pe-led-series-resistor.webp" width="900" height="820" alt="A 6.0 V supply, a series resistor and an LED carry conventional current from the positive terminal. R = (6.0 - 2.0)/0.015 = 267 ohm; the standard 270 ohm gives 14.8 mA and dissipates 0.059 W." loading="lazy">
-  <figcaption>The resistor takes the 4.0 V the LED does not need.</figcaption>
-</figure>
-
-
 ## Quick self-test
 
 1. A 60 mm length is measured with a ruler to ±0.5 mm. What is the percentage uncertainty?
@@ -209,6 +204,21 @@ These notes condense OCR A Level Physics A (H556), section 1.2.1 (practical skil
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/ocr-a-level-physics-practical-endorsement-skills-apparatus-and-techniques--02-pe-pendulum-many-oscillations.webp" width="900" height="810" alt="Twenty oscillations take 36.8 s, so T is 1.84 s. The 0.2 s start/stop uncertainty shrinks to 0.01 s in T, 0.54 %, whereas timing one oscillation gives 11 %. A fiducial marker at equilibrium gives a clear start and stop point." loading="lazy">
   <figcaption>Timing 20 oscillations makes the percentage uncertainty twenty times smaller.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-physics-practical-endorsement-skills-apparatus-and-techniques--04-pe-led-series-resistor.webp" width="900" height="820" alt="A 6.0 V supply, a series resistor and an LED carry conventional current from the positive terminal. R = (6.0 - 2.0)/0.015 = 267 ohm; the standard 270 ohm gives 14.8 mA and dissipates 0.059 W." loading="lazy">
+  <figcaption>The resistor takes the 4.0 V the LED does not need.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-physics-practical-endorsement-skills-apparatus-and-techniques--07-pe-double-slit-wavelength.webp" width="900" height="1070" alt="A laser passes through slits 0.40 mm apart onto a screen 1.80 m away. Eight fringe spacings span 20.0 mm so w is 2.50 mm and the wavelength is a w / D = 556 nm. A 1 mm reading error is 40 % of one spacing but 5 % of the span." loading="lazy">
+  <figcaption>Measuring across many fringes reduces the percentage uncertainty.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-physics-practical-endorsement-skills-apparatus-and-techniques--09-multimeter-connections.webp" width="900" height="1060" alt="Three circuits: a multimeter in series for current, in parallel across a resistor for voltage, and connected alone to a resistor taken out of the circuit for resistance." loading="lazy">
+  <figcaption>Current: in series. Voltage: in parallel. Resistance: component on its own with the supply off.</figcaption>
 </figure>
 
 

@@ -45,12 +45,6 @@ Dissolution of partnerships will not be examined.
 - **Revaluation account**: a temporary account recording value changes in assets and liabilities when partners change.
 - **Goodwill**: the value of the business as a whole above the fair value of its identifiable net assets.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/aqa-a-level-accounting-partnership-accounts--03-appropriation-flow.webp" width="900" height="846" alt="A waterfall takes profit for the year of 84,000 pounds, adds 1,350 pounds interest on drawings, deducts 6,000 pounds interest on capital and Nash's 18,000 pound salary, leaving 61,350 pounds shared 3:2:1 as 30,675, 20,450 and 10,225 pounds." loading="lazy">
-  <figcaption>Profit plus drawings interest is shared out as interest, salary and residual shares.</figcaption>
-</figure>
-
-
 ## Partnership Act 1890 defaults
 
 Use these only where partners operate without agreement (section 24 of the Act):
@@ -119,6 +113,12 @@ Closing debit balance = partner has taken out more than credited
 
 **Equity section**: show capital and current accounts for each partner, with debit current balances in brackets and deducted.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-partnership-accounts--04-current-account-overdrawn.webp" width="900" height="890" alt="Marsh's current account debits (drawings 24,000 and interest on drawings 450 pounds) total 24,450 pounds while credits total 23,550 pounds, so a 900 pound debit balance balances the account. Capital accounts of 120,000 pounds plus current accounts of 4,700 pounds give equity of 124,700 pounds." loading="lazy">
+  <figcaption>Drawing more than is credited leaves a debit balance on the current account.</figcaption>
+</figure>
+
+
 ## Changes in partnership: ratio rules
 
 | Step | Ratio | Entry |
@@ -171,12 +171,6 @@ Kilbride gives up a third of the profits and is compensated; Mottram's share sta
 | Goodwill left in the books vs removed | Left in: a non-current asset. Removed: created, then written off to nil |
 | Admission vs retirement | New partner brings capital; retiring partner is paid out |
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/aqa-a-level-accounting-partnership-accounts--07-retirement-of-partner.webp" width="900" height="1000" alt="Kemp is owed 36,200 pounds (capital 25,000, current account 3,200, revaluation 2,000, goodwill 6,000). He receives 10,000 pounds in cash and 26,200 pounds is left as a loan, a liability of the firm. Irwin and Jay close at 46,600 and 28,400 pounds." loading="lazy">
-  <figcaption>A retiring partner is paid what is due in cash; the rest left in becomes a loan.</figcaption>
-</figure>
-
-
 ## Quick self-test
 
 1. Profit before loan interest is 42,700. A partner's loan of 9,000 carries interest at 7% a year for the whole year. Find the profit for the year.
@@ -204,13 +198,18 @@ Kilbride gives up a third of the profits and is compensated; Mottram's share sta
 10. 40,000 × 1/5 = **8,000**.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/aqa-a-level-accounting-partnership-accounts--04-current-account-overdrawn.webp" width="900" height="890" alt="Marsh's current account debits (drawings 24,000 and interest on drawings 450 pounds) total 24,450 pounds while credits total 23,550 pounds, so a 900 pound debit balance balances the account. Capital accounts of 120,000 pounds plus current accounts of 4,700 pounds give equity of 124,700 pounds." loading="lazy">
-  <figcaption>Drawing more than is credited leaves a debit balance on the current account.</figcaption>
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-partnership-accounts--03-appropriation-flow.webp" width="900" height="846" alt="A waterfall takes profit for the year of 84,000 pounds, adds 1,350 pounds interest on drawings, deducts 6,000 pounds interest on capital and Nash's 18,000 pound salary, leaving 61,350 pounds shared 3:2:1 as 30,675, 20,450 and 10,225 pounds." loading="lazy">
+  <figcaption>Profit plus drawings interest is shared out as interest, salary and residual shares.</figcaption>
 </figure>
 
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/aqa-a-level-accounting-partnership-accounts--06-admission-closing-capitals.webp" width="900" height="860" alt="Fox closes at 51,800 pounds (40,000 old capital, 7,800 revaluation, 4,000 net goodwill), Gale at 35,200 pounds, and Hart at 21,000 pounds after paying 25,000 pounds of cash of which 4,000 effectively buys goodwill. Total capital is 108,000 pounds." loading="lazy">
   <figcaption>Closing capitals are old capital plus revaluation share plus net goodwill, and total old capitals plus cash plus revaluation profit.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-partnership-accounts--07-retirement-of-partner.webp" width="900" height="1000" alt="Kemp is owed 36,200 pounds (capital 25,000, current account 3,200, revaluation 2,000, goodwill 6,000). He receives 10,000 pounds in cash and 26,200 pounds is left as a loan, a liability of the firm. Irwin and Jay close at 46,600 and 28,400 pounds." loading="lazy">
+  <figcaption>A retiring partner is paid what is due in cash; the rest left in becomes a loan.</figcaption>
 </figure>
 
 

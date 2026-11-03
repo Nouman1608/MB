@@ -43,12 +43,6 @@ Because the mathematical exploration is worth 20% at both SL and HL -- at SL tha
 
 The current course's Paper 3 duration is 1 hour 15 minutes, per the live examination schedule, through its final session in November 2028. Its successor course, first assessed in 2029, shortens Paper 3 to 1 hour -- that reduction does not apply to the course covered in these notes.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ib-dp-mathematics-analysis-and-approaches-assessment-revision-notes--03-assessment-weightings.webp" width="900" height="820" alt="Two stacked bars each totalling 100%. SL: Paper 1 40% (1.5 h, no calculator), Paper 2 40% (1.5 h), exploration 20%. HL: Paper 1 30% (2 h, no calculator), Paper 2 30% (2 h), Paper 3 20% (1 h 15, HL only), exploration 20%." loading="lazy">
-  <figcaption>Weightings and durations of each component at SL and HL; only Paper 1 is sat without technology.</figcaption>
-</figure>
-
-
 ## The defining feature vs. Applications and Interpretation
 
 **Paper 1 is sat without a calculator or any technology** — it directly tests algebraic
@@ -76,12 +70,6 @@ Both DP mathematics courses are assessed to the same demanding IB standard and c
 
 As with every DP mathematics course, command terms signal the depth of response expected: **calculate**, **find**, **solve** and **write down** point to a direct computational or algebraic answer; **hence** or **hence or otherwise** require building on a previous part of the same question, often reusing a result just derived; **show that** requires a fully justified derivation reaching a given result, with every algebraic step shown, rather than simply stating the answer is correct; **prove** requires a rigorous, logically complete argument, most often tested at HL. Losing marks on a "show that" question by skipping intermediate algebraic steps, even when the final answer matches, is one of the most common and avoidable errors in this course.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ib-dp-mathematics-analysis-and-approaches-assessment-revision-notes--05-show-that-steps.webp" width="900" height="890" alt="A worked example: show that 2(x+1)^2 minus 8 equals 2(x minus 1)(x plus 3), in five equal lines: expand the bracket, collect terms, factor out 2, factorise. Skipping lines can lose marks even if the final line matches; calculate asks only for the answer." loading="lazy">
-  <figcaption>A &quot;show that&quot; question needs every algebraic step written out.</figcaption>
-</figure>
-
-
 ## Exam traps
 
 - Practising exclusively on a calculator/technology, then being caught out by Paper 1's no-technology rule.
@@ -98,6 +86,17 @@ As with every DP mathematics course, command terms signal the depth of response 
 6. Which criterion of the mathematical exploration typically rewards a proof, derivation or generalisation in this course?
 
 **Answers:** 1. Paper 1 — it directly tests algebraic manipulation and proof by hand. 2. An independent written mathematical investigation into a student-chosen topic, worth 20% at both SL and HL. 3. Two extended-response problem-solving questions, using technology, sat only by HL students, worth 20%. 4. 40% each. 5. "Show that" requires a fully justified derivation with every step shown, reaching a given result; "calculate" points to a direct computational answer without that same justification requirement. 6. Use of mathematics.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-analysis-and-approaches-assessment-revision-notes--03-assessment-weightings.webp" width="900" height="820" alt="Two stacked bars each totalling 100%. SL: Paper 1 40% (1.5 h, no calculator), Paper 2 40% (1.5 h), exploration 20%. HL: Paper 1 30% (2 h, no calculator), Paper 2 30% (2 h), Paper 3 20% (1 h 15, HL only), exploration 20%." loading="lazy">
+  <figcaption>Weightings and durations of each component at SL and HL; only Paper 1 is sat without technology.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-analysis-and-approaches-assessment-revision-notes--05-show-that-steps.webp" width="900" height="890" alt="A worked example: show that 2(x+1)^2 minus 8 equals 2(x minus 1)(x plus 3), in five equal lines: expand the bracket, collect terms, factor out 2, factorise. Skipping lines can lose marks even if the final line matches; calculate asks only for the answer." loading="lazy">
+  <figcaption>A &quot;show that&quot; question needs every algebraic step written out.</figcaption>
+</figure>
+
 
 ## Official syllabus
 

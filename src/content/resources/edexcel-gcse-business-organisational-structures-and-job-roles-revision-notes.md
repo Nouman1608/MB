@@ -52,12 +52,6 @@ Course links: the [Business hub](/boards/edexcel/gcse/business/), the [printable
 | Internal recruitment | Filling the post from current staff |
 | External recruitment | Looking outside the business for candidates |
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/edexcel-gcse-business-organisational-structures-and-job-roles--02-brackett-decision-time.webp" width="900" height="1020" alt="Two rows of day boxes. Under a centralised structure the owner approves a chair request and it takes 5 days. Under a decentralised structure the branch manager approves it up to a set limit and it takes 1 day. The decision time is 80 percent shorter, calculated (5 minus 1) divided by 5 times 100. The risk is that branches buy different equipment." loading="lazy">
-  <figcaption>Moving to decentralised decisions cut Brackett Dental approval time from 5 days to 1 day, 80% shorter.</figcaption>
-</figure>
-
-
 ## Structures at a glance
 
 | | Advantages | Disadvantages | Appropriate when |
@@ -229,6 +223,12 @@ Link every answer to one of these facts. A general list of advantages gains less
 10. The person specification.
 11. Supervisors/team leaders.
 12. 0.10 × 24,000 = £2,400, plus £350 = £2,750.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-gcse-business-organisational-structures-and-job-roles--02-brackett-decision-time.webp" width="900" height="1020" alt="Two rows of day boxes. Under a centralised structure the owner approves a chair request and it takes 5 days. Under a decentralised structure the branch manager approves it up to a set limit and it takes 1 day. The decision time is 80 percent shorter, calculated (5 minus 1) divided by 5 times 100. The risk is that branches buy different equipment." loading="lazy">
+  <figcaption>Moving to decentralised decisions cut Brackett Dental approval time from 5 days to 1 day, 80% shorter.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

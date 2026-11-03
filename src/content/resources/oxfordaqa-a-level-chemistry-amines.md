@@ -132,6 +132,11 @@ The specification notes that **dye manufacture** uses aromatic amines made this 
   <figcaption>Amines are made from halogenoalkanes, by reducing nitriles, or by reducing nitro compounds.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-amines--10-chirality.webp" width="900" height="1116" alt="Top: two mirror-image enantiomers of a chiral carbon with four different groups (NH2, COOH, CH3, H), drawn with wedge and dash bonds, which cannot be superimposed. Bottom (AQA only): an active site with three binding points fits one enantiomer; the mirror image has two groups swapped and does not fit." loading="lazy">
+  <figcaption>A chiral centre has four different groups; an enzyme active site binds only one enantiomer.</figcaption>
+</figure>
+
 
 ## 3.3.11.2 Base properties
 

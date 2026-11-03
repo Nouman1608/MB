@@ -174,27 +174,6 @@ Forces change with technology, mergers, regulation and new products. Weak forces
 
 Factors influencing the decision: investment criteria, non-financial factors, risk and uncertainty. Sensitivity analysis changes one assumption at a time to see how much the result depends on it; it shows which forecasts matter but gives no probabilities.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/aqa-a-level-business-analysing-the-strategic-position-of-a-business--03-payback-glenfauld.webp" width="900" height="1040" alt="Cumulative cash flow columns run from minus 360 to plus 150 over years 0 to 4. The line crosses zero four fifths of the way through year 3. Payback is 2 + 120 / 150 = 2.8 years." loading="lazy">
-  <figcaption>Payback is reached 2.8 years in, when cumulative cash flow crosses zero.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/aqa-a-level-business-analysing-the-strategic-position-of-a-business--04-npv-glenfauld.webp" width="900" height="1020" alt="Cash flows of 110, 130, 150 and 120 become present values 101.85, 111.45, 119.07 and 88.20 at 8 percent. They total 420.58 against a cost of 360, so NPV is plus 60.58 (about plus 60,580 pounds)." loading="lazy">
-  <figcaption>Discounting at 8% gives present values totalling 420.58, so NPV is +£60,580.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/aqa-a-level-business-analysing-the-strategic-position-of-a-business--05-sensitivity-glenfauld.webp" width="900" height="1000" alt="A line of NPV against percentage change in all cash flows. NPV is 60.58 as planned, 18.53 if cash flows are 10 percent lower, and zero at minus 14.4 percent; below that NPV is negative." loading="lazy">
-  <figcaption>NPV falls to about £18,530 if cash flows are 10% lower and reaches zero at about -14.4%.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/aqa-a-level-business-analysing-the-strategic-position-of-a-business--01-arr-glenfauld.webp" width="900" height="1090" alt="Total returns of 510 minus the cost of 360 give a net return of 150. Shared over four years that is 37.5 a year, which is 10.4 percent of the 360 cost. ARR is compared with a target." loading="lazy">
-  <figcaption>ARR for Glenfauld is 37.5 / 360 x 100 = 10.4%.</figcaption>
-</figure>
-
-
 ## Quick self-test
 
 1. Distinguish corporate objectives from tactics.
@@ -222,6 +201,27 @@ Factors influencing the decision: investment criteria, non-financial factors, ri
 9. Entry threat, buyer power, supplier power, rivalry, substitute threat.
 10. After year 2, £70,000 is recovered; £20,000 of £50,000 remains in year 3, so 2 + 20/50 = 2.4 years (about 2 years 5 months).
 11. The project earns more than the discount rate, so it adds value on this measure.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-business-analysing-the-strategic-position-of-a-business--03-payback-glenfauld.webp" width="900" height="1040" alt="Cumulative cash flow columns run from minus 360 to plus 150 over years 0 to 4. The line crosses zero four fifths of the way through year 3. Payback is 2 + 120 / 150 = 2.8 years." loading="lazy">
+  <figcaption>Payback is reached 2.8 years in, when cumulative cash flow crosses zero.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-business-analysing-the-strategic-position-of-a-business--04-npv-glenfauld.webp" width="900" height="1020" alt="Cash flows of 110, 130, 150 and 120 become present values 101.85, 111.45, 119.07 and 88.20 at 8 percent. They total 420.58 against a cost of 360, so NPV is plus 60.58 (about plus 60,580 pounds)." loading="lazy">
+  <figcaption>Discounting at 8% gives present values totalling 420.58, so NPV is +£60,580.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-business-analysing-the-strategic-position-of-a-business--05-sensitivity-glenfauld.webp" width="900" height="1000" alt="A line of NPV against percentage change in all cash flows. NPV is 60.58 as planned, 18.53 if cash flows are 10 percent lower, and zero at minus 14.4 percent; below that NPV is negative." loading="lazy">
+  <figcaption>NPV falls to about £18,530 if cash flows are 10% lower and reaches zero at about -14.4%.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-business-analysing-the-strategic-position-of-a-business--01-arr-glenfauld.webp" width="900" height="1090" alt="Total returns of 510 minus the cost of 360 give a net return of 150. Shared over four years that is 37.5 a year, which is 10.4 percent of the 360 cost. ARR is compared with a target." loading="lazy">
+  <figcaption>ARR for Glenfauld is 37.5 / 360 x 100 = 10.4%.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

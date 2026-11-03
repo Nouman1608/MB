@@ -284,19 +284,13 @@ This is half the area of an ellipse with semi-axes 5 and 2, which is ½ × π ×
 - Applying the initial condition before the constant has been introduced.
 - Losing a negative sign when dx/dt is negative.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/edexcel-ial-mathematics-volumes-of-revolution-separable-differential-equations--02-constant-solution.webp" width="900" height="920" alt="A slope field for dy/dx = 3x(y − 4). The marks are flat along y = 4, which is itself a solution (A = 0). Other solutions y = 4 + Ae^(3x²/2) curve away from it; the thick one through (0, 7) has A = 3." loading="lazy">
-  <figcaption>Dividing by y − 4 hides the constant solution y = 4, which is the case A = 0.</figcaption>
-</figure>
-
-
 ## Next steps
 
 Try the [practice questions](/resources/edexcel-ial-mathematics-volumes-of-revolution-separable-differential-equations-practice/), then condense with the [revision notes](/resources/edexcel-ial-mathematics-volumes-of-revolution-separable-differential-equations-revision-notes/). For an overview of all papers, see [IAL Mathematics exam preparation](/resources/edexcel-ial-mathematics-exam-preparation/).
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/edexcel-ial-mathematics-volumes-of-revolution-separable-differential-equations--03-half-life-decay.webp" width="900" height="920" alt="Graph of mass against time for dm/dt = −km with m = 50 at t = 0 and 38 g at 4 hours. Each interval of 10.1 hours halves the mass: 25 g, 12.5 g, 6.25 g. The tangent at 25 g is half as steep as the tangent at 50 g, because the rate is proportional to the mass." loading="lazy">
-  <figcaption>Equal time steps halve the mass because the rate is proportional to what is left.</figcaption>
+  <img src="https://img.marlbridge.com/edexcel-ial-mathematics-volumes-of-revolution-separable-differential-equations--02-constant-solution.webp" width="900" height="920" alt="A slope field for dy/dx = 3x(y − 4). The marks are flat along y = 4, which is itself a solution (A = 0). Other solutions y = 4 + Ae^(3x²/2) curve away from it; the thick one through (0, 7) has A = 3." loading="lazy">
+  <figcaption>Dividing by y − 4 hides the constant solution y = 4, which is the case A = 0.</figcaption>
 </figure>
 
 

@@ -144,6 +144,11 @@ Applying this to all three points of C gives (½, 0), (3/2, −4) and (2, 0).
   <figcaption>The same transformation can be built two ways, so state the order with the number.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-transformations-of-graphs--09-testing-proportionality.webp" width="900" height="1070" alt="The points (1,4), (2,32), (3,108), (4,256) lie on a curve when y is plotted against x but on a straight line through the origin of gradient 4 against x^3. A table shows y/x^2 varies while y/x^3 is always 4." loading="lazy">
+  <figcaption>A straight line through the origin confirms y is proportional to x^n; its gradient is k.</figcaption>
+</figure>
+
 
 ## Asymptotes
 

@@ -169,6 +169,11 @@ Worked example. A household has income of 30,000 a year and wealth of 90,000. If
   <figcaption>Income is a flow over a period; wealth is a stock at a point in time.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-aggregate-demand-supply--01-circular-flow.webp" width="900" height="1040" alt="Households and firms are linked by income and spending flows; saving, taxes and imports leak out and investment, government spending and exports flow back in. Two bar pairs show that equal injections and withdrawals keep income steady while higher injections raise it." loading="lazy">
+  <figcaption>Withdrawals (S, T, M) leave and injections (I, G, X) enter the circular flow; national income is in equilibrium when they are equal.</figcaption>
+</figure>
+
 
 ## Injections and withdrawals (2.3.4 item 2)
 
@@ -218,6 +223,11 @@ With classical LRAS at output 1,200, AD (1,400 − 4P) gives long-run price leve
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/edexcel-ial-economics-aggregate-supply-the-circular-flow-and-equilibrium--08-equilibrium-shifts.webp" width="900" height="990" alt="AD and SRAS meet at price 75, output 1,100. A cost shock gives price 85, output 1,060. An AD rise of 80 gives price 85, output 1,140." loading="lazy">
   <figcaption>A cost shock and an AD rise both lift the price level to 85 but move output in opposite directions.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-economics-macroeconomics-measuring-and-managing-the-economy--05-shifts-of-ad.webp" width="900" height="900" alt="With SRAS fixed, a rightward AD shift raises output from 120 to 140 and the price level from 80 to 90. A leftward shift lowers output to 100 and the price level to 70." loading="lazy">
+  <figcaption>A change in a component of AD shifts the AD curve and moves equilibrium output and prices together.</figcaption>
 </figure>
 
 

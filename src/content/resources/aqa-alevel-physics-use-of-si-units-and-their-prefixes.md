@@ -120,12 +120,6 @@ Substituting 250 instead of 0.25 makes the final answer wrong by a factor of 100
 
 Mixing up prefixes with similar-sounding names, e.g. milli (10⁻³) and micro (10⁻⁶) — always double check the exponent, not just the letter. Forgetting to convert a quantity into base SI units before substituting into an equation (e.g. leaving a length in cm, or a current in mA, rather than converting to m or A). Confusing mass (kg) with weight (N) when reading "fundamental quantities."
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-level-oxfordaqa-physics-measurements-and-their-errors--05-repeat-readings.webp" width="900" height="880" alt="Five timings 1.52, 1.58, 1.55, 1.49 and 1.56 s on a number line with mean 1.54 s. Range 0.09 s, half range 0.045 s, 2.9 percent; result 1.54 +/- 0.05 s." loading="lazy">
-  <figcaption>Half the range is a common estimate of the uncertainty in a mean.</figcaption>
-</figure>
-
-
 ## Quick revision checklist
 
 - List the fundamental (base) quantities and their SI units: mass, length, time, amount of substance, temperature, electric current.
@@ -140,3 +134,9 @@ Mixing up prefixes with similar-sounding names, e.g. milli (10⁻³) and micro (
 - [AQA A Level Physics hub](/boards/aqa/a-level/physics/)
 
 *This guide is intended to support, not replace, engagement with the official AQA specification and your own teacher's guidance. Always check the current version of the specification for authoritative detail.*
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-oxfordaqa-physics-measurements-and-their-errors--05-repeat-readings.webp" width="900" height="880" alt="Five timings 1.52, 1.58, 1.55, 1.49 and 1.56 s on a number line with mean 1.54 s. Range 0.09 s, half range 0.045 s, 2.9 percent; result 1.54 +/- 0.05 s." loading="lazy">
+  <figcaption>Half the range is a common estimate of the uncertainty in a mean.</figcaption>
+</figure>
+

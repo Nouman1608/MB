@@ -153,12 +153,6 @@ Overlapping error bars between two data sets mean the difference between them ma
 
 Order-of-magnitude estimates are examinable: state assumptions, use round numbers, and give the answer to one significant figure. The marks are for a **reasoned method**, not precision — so show the assumption explicitly, since a plausible but unstated assumption earns nothing.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-level-oxfordaqa-physics-measurements-and-their-errors--08-order-of-magnitude.webp" width="900" height="910" alt="A log ruler with decades 10^5, 10^6, 10^7 and crossover marks at 3.16 times each power. 2 x 10^5 is order 10^5; 3.4 x 10^5 and 8 x 10^5 are order 10^6; 4 x 10^6 is order 10^7. OxfordAQA gives the crossover as about 3.2." loading="lazy">
-  <figcaption>Above 3.16 x 10^n the order of magnitude is 10^(n+1).</figcaption>
-</figure>
-
-
 ## Exam traps
 
 - Swapping accuracy and precision.
@@ -177,3 +171,9 @@ Order-of-magnitude estimates are examinable: state assumptions, use round number
 5. A wire has length 0.850 m ± 0.001 m and diameter 0.36 mm ± 0.01 mm. Find the percentage uncertainty in its cross-sectional area, and identify the dominant source.
 
 **Answers:** 1. Resolution is the smallest change an instrument can detect; accuracy is closeness to the true value — a high-resolution instrument with a zero error is precise and high-resolution but inaccurate. 2. Random error only. 3. 6%. 4. Draw the steepest and shallowest lines that pass through all the error bars and take half the difference between their gradients. 5. % uncertainty in d = (0.01 ÷ 0.36) × 100 = 2.8%; since A ∝ d², % uncertainty in A = 2 × 2.8% = 5.6%. The diameter dominates, since the length is known to only about 0.1%.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-oxfordaqa-physics-measurements-and-their-errors--08-order-of-magnitude.webp" width="900" height="910" alt="A log ruler with decades 10^5, 10^6, 10^7 and crossover marks at 3.16 times each power. 2 x 10^5 is order 10^5; 3.4 x 10^5 and 8 x 10^5 are order 10^6; 4 x 10^6 is order 10^7. OxfordAQA gives the crossover as about 3.2." loading="lazy">
+  <figcaption>Above 3.16 x 10^n the order of magnitude is 10^(n+1).</figcaption>
+</figure>
+

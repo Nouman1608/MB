@@ -182,6 +182,12 @@ Check that the ray stays thin and sharp, and that the normal is at 90° to the s
 9. 0.90³ = **0.729**, so 73%.
 10. Absorption: the signal power falls, so it may become too weak to detect. Pulse broadening: pulses overlap, which limits the rate at which pulses can be sent.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-physics-electromagnetic-spectrum-refraction-and-total-internal--01-em-spectrum.webp" width="900" height="1174" alt="Seven bars on a log wavelength scale from 10^3 m to 10^-12 m show radio waves to gamma rays; visible light is a very thin band. All travel at 3.00x10^8 m/s in a vacuum so wavelength = c/f: 98 MHz gives 3.06 m, 2.45 GHz gives 0.122 m and 3.0x10^18 Hz gives 1.0x10^-10 m." loading="lazy">
+  <figcaption>The spectrum on one wavelength scale, with lambda = c / f examples.</figcaption>
+</figure>
+
+
 ## Where marks are usually lost
 
 - Taking angles from the boundary line instead of the normal.

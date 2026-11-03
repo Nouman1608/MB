@@ -81,11 +81,6 @@ Name the species exactly. "Copper is reduced" is weaker than "Cu²⁺ ions are r
   <figcaption>In the zinc-copper cell electrons flow from the negative zinc electrode to the positive copper electrode, giving E° cell = +1.10 V.</figcaption>
 </figure>
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-electrochemistry-electrolysis-and-electrode-potentials--03-series-ladder.webp" width="900" height="1120" alt="Ten half-equations are ranked from E° +1.51 V (MnO4-/Mn2+) at the top to -2.37 V (Mg2+/Mg) at the bottom. The left-hand species gain electrons and are the oxidising agents, strongest at the top; the right-hand species give electrons and are reducing agents, strongest at the bottom." loading="lazy">
-  <figcaption>A more positive E° means a stronger oxidising agent; a more negative E° means a stronger reducing agent.</figcaption>
-</figure>
-
 
 ## Rules for assigning oxidation states
 
@@ -181,6 +176,12 @@ Chlorine is the oxidising agent. Bromide ions are the reducing agent. Sodium ion
 Cl₂ + 2Br⁻ → 2Cl⁻ + Br₂
 ```
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-electrochemistry-electrolysis-and-electrode-potentials--04-feasibility.webp" width="900" height="1140" alt="Each row shows an arrow from the E° of the species oxidised to the E° of the species reduced (Fe3+/Fe2+ at +0.77 V). It points right for iodide (+0.23 V, feasible) and left for bromide (-0.30 V) and chloride (-0.59 V), which are not feasible. Feasible does not mean fast." loading="lazy">
+  <figcaption>E° cell = E°(reduced) - E°(oxidised); a positive value means feasible, though not necessarily fast.</figcaption>
+</figure>
+
+
 ## Writing half-equations
 
 A half-equation shows one process only, with the electrons written in. Electrons appear on the left in a reduction and on the right in an oxidation.
@@ -233,6 +234,17 @@ SO₂ + 2H₂O → SO₄²⁻ + 4H⁺ + 2e⁻
 ```
 
 5. Check: S goes from +4 to +6, a change of 2, and two electrons are lost. This is an **oxidation**.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-electrochemistry-electrolysis-and-electrode-potentials--03-series-ladder.webp" width="900" height="1120" alt="Ten half-equations are ranked from E° +1.51 V (MnO4-/Mn2+) at the top to -2.37 V (Mg2+/Mg) at the bottom. The left-hand species gain electrons and are the oxidising agents, strongest at the top; the right-hand species give electrons and are reducing agents, strongest at the bottom." loading="lazy">
+  <figcaption>A more positive E° means a stronger oxidising agent; a more negative E° means a stronger reducing agent.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-electrochemistry-electrolysis-and-electrode-potentials--09-fuel-cells.webp" width="900" height="1300" alt="Hydrogen is fed to the negative electrode and oxygen to the positive electrode, with electrons flowing through the lamp circuit. In the alkaline cell OH- ions move through the electrolyte towards the hydrogen electrode and water forms there; in the acidic cell H+ ions move towards the oxygen electrode and water forms there. Both give 2H2 + O2 to 2H2O." loading="lazy">
+  <figcaption>A fuel cell is fed continuously with hydrogen and oxygen and gives 2H2 + O2 -&gt; 2H2O, with different ions carrying charge in alkali and acid.</figcaption>
+</figure>
+
 
 ## Combining half-equations
 

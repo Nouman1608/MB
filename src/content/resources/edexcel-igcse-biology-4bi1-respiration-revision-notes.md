@@ -211,22 +211,6 @@ Rate = (final temperature − starting temperature) ÷ time
 - Control: mass and type of seeds, volume of indicator, starting temperature, flask size.
 - Repeat and take a mean for reliability.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/edexcel-igcse-biology-4bi1-respiration--11-respiring-seeds-co2.webp" width="900" height="1020" alt="Four sealed tubes kept in the dark, each with red hydrogencarbonate indicator in the bottom and seeds held above it on a gauze platform. With living germinating seeds the indicator changes from red to yellow because the seeds release carbon dioxide. With boiled seeds as the control it stays red, showing the change is caused by respiration of living cells. Key: red is normal air, yellow is more carbon dioxide, purple is less. Limewater would turn from clear to milky." loading="lazy">
-  <figcaption>Living seeds turn red hydrogencarbonate indicator yellow; the boiled-seed control stays red.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/edexcel-igcse-biology-4bi1-respiration--12-respiring-peas-heat.webp" width="900" height="1090" alt="Two vacuum flasks with cotton wool plugs and thermometers. One holds germinating peas, the other boiled peas that are dead and act as a control. A graph over four days shows the germinating peas rising from 21.0 to 27.0 degrees Celsius, a mean rate of 1.5 degrees per day, while the boiled peas stay at 21.0. The lines are straight lines drawn between the start and end values given in the lesson." loading="lazy">
-  <figcaption>Germinating peas warm a vacuum flask by 1.5 °C per day; boiled peas stay at 21.0 °C.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-biology-0610-plant-nutrition--06-hydrogencarbonate-indicator.webp" width="900" height="1010" alt="Bright light: plant photosynthesises faster than it respires, CO2 falls, indicator purple. Dim light: rates balance, orange-red. Dark: respiration only, CO2 rises, yellow. Control tube with no plant stays orange-red." loading="lazy">
-  <figcaption>Colour depends on whether photosynthesis or respiration is faster.</figcaption>
-</figure>
-
-
 ## Quick self-test
 
 1. What does ATP stand for?
@@ -256,6 +240,22 @@ Rate = (final temperature − starting temperature) ÷ time
 10. To kill microorganisms on the seed surface, which would respire and release heat, so any temperature rise is due to the seeds alone.
 11. 9.0 ÷ 6 = **1.5 °C per day**.
 12. (0.40 − 0.25) ÷ 0.25 × 100 = **60%**.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-biology-4bi1-respiration--11-respiring-seeds-co2.webp" width="900" height="1020" alt="Four sealed tubes kept in the dark, each with red hydrogencarbonate indicator in the bottom and seeds held above it on a gauze platform. With living germinating seeds the indicator changes from red to yellow because the seeds release carbon dioxide. With boiled seeds as the control it stays red, showing the change is caused by respiration of living cells. Key: red is normal air, yellow is more carbon dioxide, purple is less. Limewater would turn from clear to milky." loading="lazy">
+  <figcaption>Living seeds turn red hydrogencarbonate indicator yellow; the boiled-seed control stays red.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-biology-4bi1-respiration--12-respiring-peas-heat.webp" width="900" height="1090" alt="Two vacuum flasks with cotton wool plugs and thermometers. One holds germinating peas, the other boiled peas that are dead and act as a control. A graph over four days shows the germinating peas rising from 21.0 to 27.0 degrees Celsius, a mean rate of 1.5 degrees per day, while the boiled peas stay at 21.0. The lines are straight lines drawn between the start and end values given in the lesson." loading="lazy">
+  <figcaption>Germinating peas warm a vacuum flask by 1.5 °C per day; boiled peas stay at 21.0 °C.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-plant-nutrition--06-hydrogencarbonate-indicator.webp" width="900" height="1010" alt="Bright light: plant photosynthesises faster than it respires, CO2 falls, indicator purple. Dim light: rates balance, orange-red. Dark: respiration only, CO2 rises, yellow. Control tube with no plant stays orange-red." loading="lazy">
+  <figcaption>Colour depends on whether photosynthesis or respiration is faster.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

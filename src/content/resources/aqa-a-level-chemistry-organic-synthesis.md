@@ -192,6 +192,11 @@ The reagents for the two reductions are not named in the specification; the ones
   <figcaption>Plan routes by following arrows from start to target; only reactions in the specification count (steam hydration is not in OxfordAQA; nitrile hydrolysis is OCR).</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-organic-synthesis--04-grignard-reagent.webp" width="900" height="1120" alt="Ethylmagnesium bromide, made in dry ether, adds its ethyl group to carbon dioxide, methanal, ethanal and propanone. After dilute acid the products are propanoic acid, propan-1-ol, butan-2-ol and 2-methylbutan-2-ol: an acid and a primary, secondary and tertiary alcohol." loading="lazy">
+  <figcaption>Edexcel only: a Grignard reagent adds carbons from its alkyl group to a carbonyl compound, giving an acid or a primary, secondary or tertiary alcohol.</figcaption>
+</figure>
+
 
 ### Method
 

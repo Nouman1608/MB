@@ -66,6 +66,11 @@ Steeper and flatter only compare curves drawn on the same axes. On one straight 
   <figcaption>A supply line through the origin has PES 1 everywhere.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-economics-price-system-and-the-microeconomy--01-ped-along-a-straight-line.webp" width="900" height="1030" alt="Straight-line demand curve D with price = 10 minus 0.1 times quantity, teal in its upper half and gold in its lower half. PED is 4 at quantity 20, exactly 1 at quantity 50 and 0.25 at quantity 80, so elasticity falls as you move down the line although the slope is constant. Below, total revenue is 160, then a maximum of 250 at quantity 50 where PED is 1, then 160 again." loading="lazy">
+  <figcaption>Elasticity falls along a straight demand line, and revenue peaks where PED = 1.</figcaption>
+</figure>
+
 
 ## Factors (f, m)
 
@@ -108,11 +113,6 @@ Total revenue = price × quantity.
 *Worked reminder.* A kiosk cuts a price from 25.00 to 22.50 (−10%). Sales rise from 600 to 720 (+20%). PED = 20 ÷ −10 = **−2.0**, so demand is elastic. Revenue rises from 15,000 to 16,200, which matches the test.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/edexcel-igcse-economics-price-supply-and-income-elasticity-calculation-and-use--03-ped-backwards.webp" width="900" height="910" alt="A fare rise of 12% with PED of -0.4 changes quantity by -0.4 x 12 = -4.8%. Daily journeys fall from 5,000 to 4,760, a fall of 240." loading="lazy">
-  <figcaption>Multiply PED by the percentage price change to predict the percentage change in quantity.</figcaption>
-</figure>
-
-<figure class="topic-figure">
   <img src="https://img.marlbridge.com/a-level-economics-price-system-and-the-microeconomy--04-ped-and-total-revenue.webp" width="900" height="1270" alt="Two demand diagrams with the same price cut from 5 to 4. With elastic demand (PED 2.5) quantity rises from 40 to 60: 40 of revenue is lost on existing sales, 80 is gained on extra sales, so revenue rises from 200 to 240. With inelastic demand (PED 0.5) quantity rises only to 44: the loss of 40 outweighs the gain of 16, so revenue falls to 176." loading="lazy">
   <figcaption>Whether a price cut raises revenue depends on whether demand is elastic or inelastic.</figcaption>
 </figure>
@@ -151,12 +151,6 @@ Write factors as a chain, not a label.
 - **Spare capacity:** unused machines and staff, so output can rise quickly when price rises, so supply is elastic.
 - **Stocks:** unsold goods in a warehouse, so they can be released as price rises, so supply is elastic.
 - **Time (supply):** firms cannot add land or build factories at once, so supply is inelastic in the short run and more elastic later.
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/edexcel-igcse-economics-price-supply-and-income-elasticity-calculation-and-use--02-pes-furniture-vs-maize.webp" width="900" height="852" alt="Percentage rise in price plotted against percentage rise in quantity supplied. Furniture (price +5%, output +15%, PES 3.0) gives a flat line; maize in the same season (price +20%, output +6%, PES 0.3) gives a steep line. Manufactured goods can use stock and spare capacity; crops depend on the season and weather." loading="lazy">
-  <figcaption>Furniture supply is elastic (PES 3.0) and same-season maize supply is inelastic (PES 0.3).</figcaption>
-</figure>
-
 
 ## Diagram reminders (d, k)
 
@@ -201,6 +195,16 @@ Label both axes (price and quantity), label each curve, mark the original and ne
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/edexcel-igcse-economics-price-supply-and-income-elasticity-calculation-and-use--09-subsidy-cost-and-ped.webp" width="900" height="1160" alt="Same 0.40 subsidy and -8% price. PED -1.25: 11,000 kg, cost 4,400. PED -0.5: 10,400 kg, cost 4,160." loading="lazy">
   <figcaption>A subsidy raises consumption more when demand is elastic.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-economics-price-supply-and-income-elasticity-calculation-and-use--02-pes-furniture-vs-maize.webp" width="900" height="852" alt="Percentage rise in price plotted against percentage rise in quantity supplied. Furniture (price +5%, output +15%, PES 3.0) gives a flat line; maize in the same season (price +20%, output +6%, PES 0.3) gives a steep line. Manufactured goods can use stock and spare capacity; crops depend on the season and weather." loading="lazy">
+  <figcaption>Furniture supply is elastic (PES 3.0) and same-season maize supply is inelastic (PES 0.3).</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-economics-price-supply-and-income-elasticity-calculation-and-use--03-ped-backwards.webp" width="900" height="910" alt="A fare rise of 12% with PED of -0.4 changes quantity by -0.4 x 12 = -4.8%. Daily journeys fall from 5,000 to 4,760, a fall of 240." loading="lazy">
+  <figcaption>Multiply PED by the percentage price change to predict the percentage change in quantity.</figcaption>
 </figure>
 
 

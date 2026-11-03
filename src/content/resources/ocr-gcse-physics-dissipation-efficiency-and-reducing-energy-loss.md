@@ -112,6 +112,11 @@ The specification suggests using joulemeters to investigate the power of differe
   <figcaption>Energy transferred is the area under a power-time graph: E = P t.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/energy-work-and-power--06-power-graph.webp" width="900" height="810" alt="Energy against time graph. A 400 W motor reaches 6000 J in 15 s. A 200 W motor needs 30 s for the same energy. A steeper line means more power." loading="lazy">
+  <figcaption>Power is energy transferred per second.</figcaption>
+</figure>
+
 
 ## Efficiency (P7.2d)
 

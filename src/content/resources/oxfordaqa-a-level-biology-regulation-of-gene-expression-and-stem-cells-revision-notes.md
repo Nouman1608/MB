@@ -39,6 +39,11 @@ Key reasoning chain for acetylation: histones are positively charged, DNA is neg
 **Link to inheritance in cell lines:** the pattern is copied on replication, so daughter cells keep the same silenced or active genes. That is how a specialised cell stays specialised.
 
 <figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-biology-gene-mutations-and-stem-cells--03-lac-operon.webp" width="900" height="960" alt="Two panels show lacI (separate repressor gene), promoter, operator, lacZ and lacY. With no lactose the repressor sits on the operator and blocks RNA polymerase so the genes are off. With lactose present, lactose binds the repressor and changes its shape, it leaves the operator, RNA polymerase makes mRNA and the enzymes are made." loading="lazy">
+  <figcaption>The lac operon with and without lactose.</figcaption>
+</figure>
+
+<figure class="topic-figure">
   <img src="https://img.marlbridge.com/aqa-a-level-biology-gene-mutations-and-stem-cells--05-epigenetic-switch.webp" width="900" height="1200" alt="Acetylated histones hold DNA loosely so RNA polymerase can reach the gene and make mRNA. Without acetyl groups, and with methyl groups on the DNA, DNA is tight and the gene is off. The methylation pattern is copied when a cell divides, so both daughter cells keep it. The base sequence does not change." loading="lazy">
   <figcaption>Acetylation, methylation and their inheritance on cell division.</figcaption>
 </figure>
@@ -100,6 +105,11 @@ Steps for a decrease in protein:
   <figcaption>How siRNA stops translation of one mRNA.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-biology-gene-mutations-and-stem-cells--07-alternative-splicing.webp" width="900" height="970" alt="A pre-mRNA with five exons of 90, 60, 105, 45 and 72 nucleotides is spliced so introns are removed and exons joined. Keeping exon 1, exon 5 and one of exons 2, 3 or 4 gives mRNAs coding for 73, 88 and 68 amino acids." loading="lazy">
+  <figcaption>Alternative splicing gives three polypeptides from one gene.</figcaption>
+</figure>
+
 
 ## 3.4.9.3 Stem cells
 
@@ -142,6 +152,12 @@ Small worked reminder: if 30 of 60 treated patients improve (50%) and 12 of 60 c
 **"Describe how siRNA reduces the activity of a gene."** The siRNA joins a protein complex. It binds to mRNA with a complementary sequence. The mRNA is broken down, so it cannot be translated and less protein is made.
 
 **"Suggest why bone marrow stem cells are described as multipotent."** They divide to form several related cell types, such as red cells and white cells, but not every cell type in the body.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-biology-gene-mutations-and-stem-cells--04-oestrogen-transcription-factor.webp" width="900" height="1060" alt="Oestrogen diffuses through the cell-surface membrane, binds a receptor in the cytoplasm to form a complex, the complex enters the nucleus through a nuclear pore, binds a base sequence next to the target gene, and RNA polymerase can then make mRNA." loading="lazy">
+  <figcaption>Five steps by which oestrogen acts as a transcription factor.</figcaption>
+</figure>
+
 
 ## Must-know contrasts
 
@@ -192,6 +208,12 @@ Small worked reminder: if 30 of 60 treated patients improve (50%) and 12 of 60 c
 - Giving figures from a table with no units or no calculation when the question asks you to use the data.
 - Stating a cause from correlation data.
 - Listing stem cell advantages with no risks, or the reverse, when the command word is evaluate.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-biology-gene-mutations-and-stem-cells--01-mutation-types.webp" width="900" height="1108" alt="The same nine-base gene ATGCTTGGC is shown after each mutation with changed bases in gold and lost bases as dashed boxes. Substitution keeps nine bases, addition gives ten, deletion eight, duplication of GGC twelve, inversion of the last six bases (reads GCCAAG) keeps nine, and translocation moves CTT to the other end. OCR names only substitution, insertion and deletion." loading="lazy">
+  <figcaption>Six mutation types shown as base strips; duplication, inversion and translocation are AQA only.</figcaption>
+</figure>
+
 
 ## Official syllabus
 

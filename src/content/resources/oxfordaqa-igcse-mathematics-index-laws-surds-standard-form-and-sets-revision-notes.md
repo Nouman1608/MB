@@ -58,8 +58,18 @@ Reminder: 4a³ × 6a⁻⁷ = 24a⁻⁴ = 24/a⁴. The coefficients multiply (4 �
 **Fractional powers (Extension only).** Take the root first, then the power. Reminder: 32^(2/5): 32^(1/5) = 2, and 2² = 4. A negative fractional power is a reciprocal as well: 4^(−3/2) = 1/(4^(3/2)) = 1/8.
 
 <figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-mathematics-index-laws-surds-standard-form-and-sets--12-i-square-surd-area.webp" width="900" height="946" alt="A square of side 4 plus root 3 split into a 4 by 4 square of area 16, two 4 by root 3 rectangles of area 4 root 3 each and a root 3 square of area 3, adding to 19 + 8 root 3." loading="lazy">
+  <figcaption>The four areas 16, 4√3, 4√3 and 3 add to 19 + 8√3.</figcaption>
+</figure>
+
+<figure class="topic-figure">
   <img src="https://img.marlbridge.com/oxfordaqa-igcse-mathematics-index-laws-surds-standard-form-and-sets--02-index-hops.webp" width="900" height="1258" alt="Number lines show the index of each letter as a running total. Multiplying adds the index and dividing subtracts it. For (4p^5q^2) x (3p^-6 q) / (6pq^4) the numbers give 2, p goes +5, -6, -1 to end at -2, and q goes +2, +1, -4 to end at -1, so the answer is 2p^-2 q^-1. For 12y^7 / 8y^3 the numbers give 3/2 and y goes +7 then -3 to reach 4." loading="lazy">
   <figcaption>Each index is a running total: multiplying adds, dividing subtracts.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-mathematics-index-laws-surds-standard-form-and-sets--03-fractional-root-first.webp" width="900" height="960" alt="Two Extension examples. For (16x^8)^(3/4) take the fourth root of 16 to get 2 and cube it to get 8; split eight factors of x into four groups of two and keep three groups to get x^6, so the answer is 8x^6. For x^(3/2)=125, raise both sides to the power 2/3: the cube root of 125 is 5 and squaring gives 25, so x=25." loading="lazy">
+  <figcaption>Take the root first, then the power, on every factor; use the reciprocal power to solve.</figcaption>
 </figure>
 
 <figure class="topic-figure">
@@ -70,6 +80,21 @@ Reminder: 4a³ × 6a⁻⁷ = 24a⁻⁴ = 24/a⁴. The coefficients multiply (4 �
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/igcse-mathematics-0580-powers-roots-and-indices--03-zero-negative-indices.webp" width="900" height="1032" alt="A staircase lists 5^3 down to 5^-3. Each step lowers the index by 1 and divides by 5, giving 125, 25, 5, 1, 1/5, 1/25, 1/125. So 5^0 = 1 and a negative index gives a small positive reciprocal." loading="lazy">
   <figcaption>Each step down divides by 5, so 5^0 = 1 and 5^-n is 1 over 5^n.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-powers-roots-and-indices--05-fractional-indices.webp" width="900" height="1000" alt="A cube of 125 blocks has side 5, so 125^(1/3) = 5. Two flow chains show 125^(-2/3): root 3, square, flip gives 1/25, and 32^(3/5): root 5, cube gives 8." loading="lazy">
+  <figcaption>The denominator is the root, the numerator is the power, and a minus sign flips.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-algebraic-fractions-and-indices-ii--04-fractional-index.webp" width="900" height="1060" alt="64 is a 4 by 4 by 4 cube, so its cube root is 4; squaring gives 16, so 64^(2/3)=16 and 64^(-2/3)=1/16." loading="lazy">
+  <figcaption>Take the root first, then the power; a negative index means one over.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-algebraic-fractions-and-indices-ii--03-solving-index-equations.webp" width="900" height="920" alt="Graph of y=2^x: y=32 meets the curve at x=5 and y=1/16 at x=-4. Three solved examples write both sides as one base and equate the indices." loading="lazy">
+  <figcaption>Write both sides as powers of one base, then equate indices.</figcaption>
 </figure>
 
 
@@ -100,6 +125,17 @@ Reminder: 1½ × 2⅔ = 3/2 × 8/3 = 4. Reminder: 2/3 ÷ 4/9 = 2/3 × 9/4 = 3/2.
 Reminder: 9/√6 = 9√6/6 = 3√6/2. Cancel after rationalising.
 
 Reminder for a two-term denominator: 8/(4 + √3) = 8(4 − √3)/13 = (32 − 8√3)/13. There is nothing to cancel here, because 13 does not divide 32 and 8.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-exponential-growth-decay-and-surds--04-surd-diagonal.webp" width="900" height="940" alt="A square of side 4 cm has a diagonal of root 32, since 16 + 16 = 32. Taking out the square factor gives 4 root 2, which lands near 5.657 on the number line." loading="lazy">
+  <figcaption>The exact length 4√2 cm is a surd; 5.657 is only a rounded value.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-exponential-growth-decay-and-surds--05-conjugate-area.webp" width="900" height="769" alt="A square of side 3 with a square of area 5 cut out leaves area 4. Rearranged, it makes a rectangle 3 + root 5 by 3 minus root 5. So the conjugate product is 9 minus 5 = 4, a whole number." loading="lazy">
+  <figcaption>Multiplying by the conjugate gives a difference of two squares, so the surd disappears.</figcaption>
+</figure>
+
 
 ## N8: Standard form
 
@@ -141,6 +177,11 @@ Reminder for a two-term denominator: 8/(4 + √3) = 8(4 − √3)/13 = (32 − 8
   <figcaption>Multiplying top and bottom by the surd changes the form, not the value.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-number--03-standard-form.webp" width="900" height="880" alt="Digit boxes show the decimal point of 4 560 000 jumping 6 places left to give 4.56 x 10^6, and of 0.00032 jumping 4 places right to give 3.2 x 10^-4. A must lie between 1 and 10." loading="lazy">
+  <figcaption>Move the decimal point until the number is between 1 and 10; the count of moves is the power of 10.</figcaption>
+</figure>
+
 
 ## N9: Sets
 
@@ -164,12 +205,6 @@ Reminder for two sets: if 30 pupils study Spanish or French, 18 study Spanish an
 **Worked reminder (three sets).** In a group of 30, 12 take art, 10 take music, 7 take drama. 3 take art and music only, and 2 take all three. Nobody takes drama and music without art, and 4 take art and drama only. Then art only = 12 − 3 − 2 − 4 = 3, music only = 10 − 3 − 2 = 5, and drama only = 7 − 4 − 2 = 1. Inside the circles: 3 + 5 + 1 + 3 + 4 + 2 + 0 = 18, so 30 − 18 = 12 take none of them.
 
 **Describing regions.** (A ∪ B)′ is the outside region only. A′ ∩ B is "in B but not in A", which is the part of circle B outside the overlap.
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/oxfordaqa-igcse-mathematics-index-laws-surds-standard-form-and-sets--10-i-venn-two-sets-listed.webp" width="900" height="840" alt="Venn diagram for integers 1 to 18: B (factors of 24) only 1, 2, 3, 6; A (multiples of 4) only 16; both 4, 8, 12; outside 5, 7, 9, 10, 11, 13, 14, 15, 17, 18. n(A union B) = 8 and n of the complement = 10." loading="lazy">
-  <figcaption>Every integer from 1 to 18 sits in exactly one region, so n(A ∪ B) = 4 + 7 − 3 = 8.</figcaption>
-</figure>
-
 
 ## Quick self-test
 
@@ -204,8 +239,23 @@ Try these without looking at the answers. Questions 4 to 7 are Extension only.
 12. (a) **{3, 5, 7}**. (b) A ∪ B = {1, 2, 3, 5, 7, 9}, so **6**. (c) **{4, 6, 8, 10}**
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/oxfordaqa-igcse-mathematics-index-laws-surds-standard-form-and-sets--03-fractional-root-first.webp" width="900" height="960" alt="Two Extension examples. For (16x^8)^(3/4) take the fourth root of 16 to get 2 and cube it to get 8; split eight factors of x into four groups of two and keep three groups to get x^6, so the answer is 8x^6. For x^(3/2)=125, raise both sides to the power 2/3: the cube root of 125 is 5 and squaring gives 25, so x=25." loading="lazy">
-  <figcaption>Take the root first, then the power, on every factor; use the reciprocal power to solve.</figcaption>
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-mathematics-index-laws-surds-standard-form-and-sets--10-i-venn-two-sets-listed.webp" width="900" height="840" alt="Venn diagram for integers 1 to 18: B (factors of 24) only 1, 2, 3, 6; A (multiples of 4) only 16; both 4, 8, 12; outside 5, 7, 9, 10, 11, 13, 14, 15, 17, 18. n(A union B) = 8 and n of the complement = 10." loading="lazy">
+  <figcaption>Every integer from 1 to 18 sits in exactly one region, so n(A ∪ B) = 4 + 7 − 3 = 8.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-sets--02-two-set-regions.webp" width="900" height="1060" alt="Six two-set Venn diagrams with regions numbered 1 to 4 (A only, both, B only, neither). The shaded regions show A∩B, A∪B, A′, (A∪B)′, A∩B′ and A′∪B." loading="lazy">
+  <figcaption>Each set expression is just a list of numbered regions.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-sets--03-unknown-overlap.webp" width="900" height="1010" alt="Two Venn diagrams of 50 tourists. First the regions are written with x for the overlap (31−x, x, 27−x, x÷2); solving gives x = 16. Then the filled counts 15, 16, 11 and 8 add to 50." loading="lazy">
+  <figcaption>Call the overlap x, write each region in terms of x, then solve.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-sets--05-three-set-venn.webp" width="900" height="990" alt="A three-circle Venn diagram of 60 students with all eight regions filled: 9, 10, 9 only; 10, 8, 7 for pairs; 2 for all three; 5 for none. Circle totals are 28, 30 and 26." loading="lazy">
+  <figcaption>Fill the centre first; the eight regions then add to 60.</figcaption>
 </figure>
 
 

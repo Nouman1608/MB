@@ -276,6 +276,11 @@ Against the fixed budget, profit looks 4,290 favourable and materials 6,120 adve
 </figure>
 
 <figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-budgeting--06-flexed-budget.webp" width="900" height="960" alt="A waterfall from budget profit of 30,000 pounds adds 6,000 for 200 extra lamps to give a flexed profit of 36,000, then subtracts adverse price (3,300), materials (1,650) and fixed overhead (1,100) variances and adds a favourable labour variance (440) to reach actual profit of 30,390." loading="lazy">
+  <figcaption>Flex the budget to actual output first; then the variances show the real story.</figcaption>
+</figure>
+
+<figure class="topic-figure">
   <img src="https://img.marlbridge.com/aqa-a-level-accounting-budgeting--07-incremental-vs-zbb.webp" width="900" height="920" alt="Incremental budgeting starts from last year's 20,000 pounds and adds 3 percent to reach 20,600. Zero-based budgeting starts from nothing and includes only justified items: website 6,000 and trade show 8,000, rejecting a 4,000 old brochure, for 14,000." loading="lazy">
   <figcaption>Incremental budgets build on last year; zero-based budgets must justify every item from nil.</figcaption>
 </figure>

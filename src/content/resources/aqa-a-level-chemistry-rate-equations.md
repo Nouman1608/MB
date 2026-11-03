@@ -170,6 +170,11 @@ Step 3: Ea = −gradient × R = 7.46 × 10³ × 8.31 = 6.20 × 10⁴ J mol⁻¹ 
 Keep 1/T to at least four significant figures, or the small differences lose accuracy.
 
 <figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-kinetics--02-boltzmann-temperature.webp" width="900" height="960" alt="Two skewed curves of number of molecules against energy start at the origin. The hotter curve has a lower peak further right, a longer tail, and crosses the cooler curve once to the left of Ea. The shaded area beyond Ea is much bigger for the hotter curve, while both curves enclose the same total area." loading="lazy">
+  <figcaption>A hotter gas has a lower, wider curve with the same area and many more molecules at or above Ea.</figcaption>
+</figure>
+
+<figure class="topic-figure">
   <img src="https://img.marlbridge.com/aqa-a-level-chemistry-kinetics--08-arrhenius-plot.webp" width="900" height="1010" alt="Four points at 300 to 360 K lie on a downward straight line of ln k against 1/T. The gradient triangle gives minus Ea over R. Using R = 8.31 the gradient gives Ea = 62.0 kJ per mol, from ln k = -Ea/R times 1/T plus ln A." loading="lazy">
   <figcaption>The gradient of ln k against 1/T is -Ea/R, here giving Ea = 62.0 kJ per mol.</figcaption>
 </figure>
@@ -257,6 +262,12 @@ k = 2.0 × 10⁻⁴ ÷ ((0.10)² × 0.10) = 0.20 mol⁻² dm⁶ s⁻¹
 
 Check: Exp 2 gives 0.20 × (0.20)² × 0.10 = 8.0 × 10⁻⁴. It matches.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-kinetics--01-collision-theory.webp" width="900" height="1070" alt="Two panels. In the first, particles A and B approach with short arrows (low energy), collide and bounce apart unchanged. In the second they approach with long arrows (energy at least the activation energy) and form the product AB. Activation energy is the minimum energy needed to react." loading="lazy">
+  <figcaption>Only collisions with energy of at least Ea lead to a reaction; the rest bounce apart.</figcaption>
+</figure>
+
+
 ## 3.1.9.2 Orders and the rate-determining step
 
 In a multi-step reaction the slowest step is the **rate-determining (rate-limiting) step**.
@@ -302,6 +313,12 @@ colour with a colorimeter, or samples removed, quenched (for example in ice-cold
 concentration against time and draw tangents to find rates at different concentrations.
 
 Wear eye protection and handle each chemical according to its hazards (AT k).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-kinetics--04-catalyst.webp" width="900" height="1130" alt="Top: an enthalpy profile with the same reactant and product levels, with a high peak without a catalyst (Ea 180) and a lower peak with one (Ea 105), so delta H is unchanged. Bottom: a single Maxwell-Boltzmann curve with two Ea lines; the shaded strip between them shows extra molecules that can react by the catalysed route." loading="lazy">
+  <figcaption>A catalyst offers a lower-Ea route, so more molecules can react at the same temperature, and delta H does not change.</figcaption>
+</figure>
+
 
 ## Common errors
 

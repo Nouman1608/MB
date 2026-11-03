@@ -157,12 +157,6 @@ A cumulative frequency table gives 9, 31 and 70 for three consecutive upper boun
 
 Write one comparison of averages (medians) and one of spread (IQRs). Put each in context: "The median is lower, so journeys are typically shorter. The IQR is smaller, so the times are more consistent."
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/cambridge-o-level-mathematics-scatter-diagrams-correlation-and-cumulative-frequency--04-plot-the-curve.webp" width="900" height="990" alt="Cumulative frequency curve for 200 calls. Crosses sit at the upper class boundaries (2, 14), (4, 50), (6, 112), (8, 160), (10, 188), (12, 200) plus the start point (0, 0), with dashed drops to the horizontal axis. A smooth curve joins them and never goes down." loading="lazy">
-  <figcaption>Plot each running total at the upper class boundary, start at (0, 0), and join with a smooth curve.</figcaption>
-</figure>
-
-
 ## Quick self-test
 
 1. State the type of correlation you expect between the temperature outside and the amount of heating used in a house.
@@ -188,6 +182,12 @@ Write one comparison of averages (medians) and one of spread (IQRs). Put each in
 8. Height = 0.9 × 100 = 90, between (40, 88) and (50, 100), which gives about 41.7 minutes.
 9. No values lie below the lower boundary, so the running total there is 0.
 10. It is a running total of frequencies, and frequencies cannot be negative, so the total can only stay level or rise.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-mathematics-scatter-diagrams-correlation-and-cumulative-frequency--04-plot-the-curve.webp" width="900" height="990" alt="Cumulative frequency curve for 200 calls. Crosses sit at the upper class boundaries (2, 14), (4, 50), (6, 112), (8, 160), (10, 188), (12, 200) plus the start point (0, 0), with dashed drops to the horizontal axis. A smooth curve joins them and never goes down." loading="lazy">
+  <figcaption>Plot each running total at the upper class boundary, start at (0, 0), and join with a smooth curve.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

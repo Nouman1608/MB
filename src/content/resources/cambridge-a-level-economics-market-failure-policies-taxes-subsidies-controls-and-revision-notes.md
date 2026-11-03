@@ -38,12 +38,6 @@ These notes condense the first part of section 8.1.1 of the Cambridge Internatio
 | Regulation | Rules on price, quality, entry | Monopoly power | Regulator lacks information |
 | Direct provision | State supplies | Public and merit goods | Cost, waste, tax funding |
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/cambridge-a-level-economics-market-failure-policies-taxes-subsidies-controls-and--06-specific-vs-20pc-tax.webp" width="900" height="950" alt="A supply curve with a specific tax of 6 (parallel shift, gap 6) and a 20 percent tax (pivot, gap 4, 6, 8 at seller prices 20, 30, 40)." loading="lazy">
-  <figcaption>A specific tax shifts supply in parallel; an ad valorem tax pivots it.</figcaption>
-</figure>
-
-
 ## Formulas and rules
 
 | Item | Rule |
@@ -57,17 +51,6 @@ These notes condense the first part of section 8.1.1 of the Cambridge Internatio
 | Price elasticity of demand (point) | (change in Qd per 1 cu rise in P, a negative number) × P ÷ Q |
 | Quota rent per unit | price paid − supply price at the quota |
 | Benefit-cost ratio | total benefit ÷ total cost |
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-level-economics-government-microeconomic-intervention--01-tax-incidence.webp" width="900" height="1320" alt="Two supply and demand diagrams with a tax of 3 per unit shifting supply up from S1 to S2. With steep (inelastic) demand consumers pay 2.2 of the tax and producers 0.8; quantity falls from 50 to 40. With flat (elastic) demand consumers pay 0.6 and producers 2.4; quantity falls from 50 to 20. The more inelastic side bears more of the tax." loading="lazy">
-  <figcaption>The more inelastic side of the market bears the larger share of an indirect tax.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-level-economics-price-system-and-the-microeconomy--07-tax-burden-and-elasticity.webp" width="900" height="1280" alt="A tax of 2 per unit shifts supply up. With inelastic demand (PED 0.5) buyers pay 6.43 and firms keep 4.43, so buyers bear 71 percent of the tax. With elastic demand (PED 3.3) buyers pay 5.55 and firms keep 3.55, so firms bear 73 percent." loading="lazy">
-  <figcaption>With inelastic demand buyers bear most of an indirect tax; with elastic demand producers bear most.</figcaption>
-</figure>
-
 
 ## Taxes: method in steps
 
@@ -84,6 +67,22 @@ These notes condense the first part of section 8.1.1 of the Cambridge Internatio
 - Elasticities at equilibrium: PED = −6 × 42 ÷ 108 = −2.33 and PES = 4 × 42 ÷ 108 = 1.56. Demand is more elastic, so producers bear the larger share.
 
 **Ad valorem check.** A 10% tax on a seller price of 50 cu is 5 cu per unit. At 80 cu it is 8 cu. A specific tax of 5 cu stays at 5 cu.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-market-failure-policies-taxes-subsidies-controls-and--07-ad-valorem-incidence.webp" width="900" height="1010" alt="Qd = 400 - 5P, Qs = -80 + 10P with a 20 percent tax. Sellers keep 30, buyers pay 36, quantity falls from 240 to 220. Buyers bear 880, sellers 440, revenue 1,320, lost surplus 60. Axes are zoomed in." loading="lazy">
+  <figcaption>Worked example 1: buyers bear two thirds of the 20 percent tax.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-economics-government-microeconomic-intervention--01-tax-incidence.webp" width="900" height="1320" alt="Two supply and demand diagrams with a tax of 3 per unit shifting supply up from S1 to S2. With steep (inelastic) demand consumers pay 2.2 of the tax and producers 0.8; quantity falls from 50 to 40. With flat (elastic) demand consumers pay 0.6 and producers 2.4; quantity falls from 50 to 20. The more inelastic side bears more of the tax." loading="lazy">
+  <figcaption>The more inelastic side of the market bears the larger share of an indirect tax.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-economics-price-system-and-the-microeconomy--07-tax-burden-and-elasticity.webp" width="900" height="1280" alt="A tax of 2 per unit shifts supply up. With inelastic demand (PED 0.5) buyers pay 6.43 and firms keep 4.43, so buyers bear 71 percent of the tax. With elastic demand (PED 3.3) buyers pay 5.55 and firms keep 3.55, so firms bear 73 percent." loading="lazy">
+  <figcaption>With inelastic demand buyers bear most of an indirect tax; with elastic demand producers bear most.</figcaption>
+</figure>
+
 
 ## Subsidies: method and reminder
 
@@ -105,6 +104,11 @@ Replace P with (P + s) in supply. The consumer gain is (old price − new price)
   <figcaption>A tax equal to the external cost moves output from the market level to the socially optimal level.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-economics-government-microeconomic-intervention--02-subsidy-incidence.webp" width="900" height="890" alt="Supply and demand diagram where a subsidy of 2 per unit shifts supply down from S1 to S2. Quantity rises from 50 to 60, the consumer price falls from 5 to 3.8 (gain 1.2 a unit) and the producer receives 5.8 (gain 0.8 a unit). The government pays 2 a unit." loading="lazy">
+  <figcaption>A subsidy lowers the price consumers pay and raises what producers receive; the split depends on elasticity.</figcaption>
+</figure>
+
 
 ## Price controls
 
@@ -117,11 +121,6 @@ Replace P with (P + s) in supply. The consumer gain is (old price − new price)
 **Minimum price chain.** Price floor above equilibrium, so quantity demanded falls and supply exceeds demand. Consumption falls by less than the price rise if demand is inelastic. Sellers gain revenue per unit. The state gains nothing unless it buys the surplus.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/cambridge-a-level-economics-market-failure-policies-taxes-subsidies-controls-and--07-ad-valorem-incidence.webp" width="900" height="1010" alt="Qd = 400 - 5P, Qs = -80 + 10P with a 20 percent tax. Sellers keep 30, buyers pay 36, quantity falls from 240 to 220. Buyers bear 880, sellers 440, revenue 1,320, lost surplus 60. Axes are zoomed in." loading="lazy">
-  <figcaption>Worked example 1: buyers bear two thirds of the 20 percent tax.</figcaption>
-</figure>
-
-<figure class="topic-figure">
   <img src="https://img.marlbridge.com/cambridge-a-level-economics-market-failure-policies-taxes-subsidies-controls-and--01-black-market-price-60.webp" width="900" height="840" alt="Demand Qd = 600 - 6P and supply Qs = -120 + 12P meet at price 40, quantity 360. A maximum price of 30 gives demand 420 and supply 240, a shortage of 180. Buyers would pay 60 for the 240th unit, so a black market at 60 is likely. The welfare loss triangle is 1,800." loading="lazy">
   <figcaption>Worked example 4: a maximum price of 30 leaves a shortage of 180 and a black-market price of 60.</figcaption>
 </figure>
@@ -129,6 +128,11 @@ Replace P with (P + s) in supply. The consumer gain is (old price − new price)
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/cambridge-a-level-economics-market-failure-policies-taxes-subsidies-controls-and--02-minimum-price-ped.webp" width="900" height="850" alt="Demand Qd = 800 - 10P and supply Qs = -160 + 20P meet at 32 and 480. A minimum price of 40 cuts demand to 400 (-16.7%) while price rises 25%, so PED is -0.67. Supply is 640, a surplus of 240, and spending rises from 15,360 to 16,000." loading="lazy">
   <figcaption>Worked example 5: a minimum price raises price 25% and cuts consumption 16.7%, so demand is inelastic.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-allocation-of-resources--07-price-controls.webp" width="900" height="1370" alt="Equilibrium E is at price 5 and quantity 50. A maximum price of 3 gives demand 70 and supply 25, a shortage of 45. A minimum price of 7 gives demand 30 and supply 75, a surplus of 45." loading="lazy">
+  <figcaption>A maximum price below equilibrium causes a shortage; a minimum price above it causes a surplus.</figcaption>
 </figure>
 
 
@@ -182,6 +186,16 @@ Public goods are non-excludable and non-rival, so private firms cannot profit. T
   <figcaption>Worked example 9: a benefit of 600,000 against a cost of 480,000 gives a ratio of 1.25.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-economics-government-microeconomic-intervention--05-tool-matching.webp" width="900" height="900" alt="A matching diagram joining four problems to six tools. Public good not provided: direct provision. Merit good under-consumed: direct provision, subsidy, information. Demerit good over-consumed: information, indirect tax, minimum price. Price too high or too low: maximum or minimum price, buffer stock." loading="lazy">
+  <figcaption>Match the tool to the problem: the mechanism, not just the name, earns marks.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-allocation-of-resources--04-public-goods.webp" width="900" height="1060" alt="A street light shines on four people but only one pays. The three free riders use it without paying, so private firms make no profit and will not supply it. The government provides it, paid for by taxes." loading="lazy">
+  <figcaption>Public goods are non-excludable, so free riders stop private firms supplying them.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 
@@ -216,6 +230,12 @@ Public goods are non-excludable and non-rival, so private firms cannot profit. T
 8. The quota's rent goes to quota holders, while the tax's revenue goes to the government.
 9. 117,000 ÷ 90,000 = 1.3.
 10. Firms facing more competition may cut costs by reducing safety or service standards.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-market-failure-policies-taxes-subsidies-controls-and--06-specific-vs-20pc-tax.webp" width="900" height="950" alt="A supply curve with a specific tax of 6 (parallel shift, gap 6) and a 20 percent tax (pivot, gap 4, 6, 8 at seller prices 20, 30, 40)." loading="lazy">
+  <figcaption>A specific tax shifts supply in parallel; an ad valorem tax pivots it.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

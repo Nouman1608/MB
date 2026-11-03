@@ -187,12 +187,23 @@ Rounding a divisor down makes the answer bigger. If one rounding pushes up and a
   <figcaption>Count significant figures from the first non-zero digit and keep zeros that show accuracy, as in 0.070.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-estimation-and-using-a-calculator--01-rounding-number-line.webp" width="900" height="960" alt="Two number lines show 46 285 between 46 200 and 46 300, past the halfway point 46 250, so it rounds up to 46 300. Between 46 000 and 47 000 it lies before halfway 46 500, so it rounds to 46 000." loading="lazy">
+  <figcaption>Compare 46 285 with the halfway point to round to the nearest 100 or 1000.</figcaption>
+</figure>
+
 
 ### Rounding in context
 
 The context decides the sensible answer. 230 people need coaches with 52 seats each: 230 ÷ 52 = 4.42..., so **5 coaches** are needed. Rounding to the nearest whole number would leave people behind. In the same way, you round down to find how many full boxes you can fill.
 
 If no accuracy is given, match the data: eight calculator digits do not suit a length measured to the nearest centimetre.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-estimation-and-using-a-calculator--05-round-up-or-down.webp" width="900" height="1000" alt="157 students in 12-seat minibuses: 13 buses seat only 156, so 13.08 rounds up to 14. Tickets at $3.85 with $50: twelve cost $46.20 but a thirteenth reaches $50.05, so 12.98 rounds down to 12." loading="lazy">
+  <figcaption>The context, not the digit after the point, decides whether to round up or down.</figcaption>
+</figure>
+
 
 ### Do not round in the middle
 
@@ -206,6 +217,12 @@ The specification says you should not round values during intermediate steps. Ke
 ```
 
 If you round 1.37 × 0.84 = 1.1508 to 1.2 first, you get 1.2 × 0.62 = 0.744 m³, which is 744 litres. That is wrong by more than 30 litres.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-estimation-and-using-a-calculator--07-dont-round-early.webp" width="900" height="890" alt="A circle has circumference 30 cm, so r = 30 / (2 pi) = 4.774648... cm. Using the full value in A = pi r^2 gives 71.6 cm squared; using the rounded 4.77 gives 71.5, which is wrong." loading="lazy">
+  <figcaption>Carry the full calculator value forward and round only the final answer.</figcaption>
+</figure>
+
 
 ### Error intervals (both tiers)
 
@@ -231,6 +248,11 @@ age 15 (whole years, truncated):        15 ≤ age < 16
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/aqa-gcse-maths-8300-measures-and-accuracy--01-rounded-or-truncated.webp" width="900" height="890" alt="A pair of number lines from 6.20 to 6.45. Rounding 6.3 to 1 d.p. gives 6.25 &lt;= x &lt; 6.35 (closed dot at 6.25, open dot at 6.35). Truncating to 6.3 gives 6.3 &lt;= y &lt; 6.4." loading="lazy">
   <figcaption>Rounding allows half a unit either side; truncation only goes up by one whole unit.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-number--04-limits-of-accuracy.webp" width="900" height="810" alt="A number line from 4.50 to 4.70 kg shades the values from 4.55 to 4.65 that round to 4.6 kg. The lower bound 4.55 is included (filled dot); the upper bound 4.65 is not (open dot)." loading="lazy">
+  <figcaption>A value given to 1 d.p. can be up to half a unit (0.05) either side: 4.55 &lt;= mass &lt; 4.65.</figcaption>
 </figure>
 
 

@@ -110,6 +110,11 @@ Two angles in a triangle give you the third by subtraction from 180°. Do that f
   <figcaption>Each small letter names the side opposite the capital-letter angle.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-mathematics-sine-rule-cosine-rule-and-area-of-a-triangle--04-sine-rule-only-acute.webp" width="900" height="960" alt="Worked example 2 drawn to scale: a = 16.3, b = 12.8, A = 72 degrees gives B = 48.3 degrees and C = 59.7 degrees, totalling 180. The obtuse option 131.7 degrees would give 72 + 131.7 = 203.7, over 180, so it is impossible." loading="lazy">
+  <figcaption>The angle opposite the shorter given side is acute only, because the angles would exceed 180.</figcaption>
+</figure>
+
 
 ## Worked reminders
 
@@ -154,17 +159,6 @@ cos θ = (9² + 10² − 6²) / (2 × 9 × 10) = 145 / 180 = 0.8056...
 - **Smallest angle.** The angle opposite the shortest side is always acute, so the sine rule is safe for it.
 - **Exact or rounded?** Keep the full calculator value between steps, since the specification expects no rounding in the middle of a calculation.
 - **Area from an angle.** If sin C = x, then C and 180° − C both give the same area. Check the question for "acute" or "obtuse".
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/oxfordaqa-igcse-mathematics-sine-rule-cosine-rule-and-area-of-a-triangle--04-sine-rule-only-acute.webp" width="900" height="960" alt="Worked example 2 drawn to scale: a = 16.3, b = 12.8, A = 72 degrees gives B = 48.3 degrees and C = 59.7 degrees, totalling 180. The obtuse option 131.7 degrees would give 72 + 131.7 = 203.7, over 180, so it is impossible." loading="lazy">
-  <figcaption>The angle opposite the shorter given side is acute only, because the angles would exceed 180.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/oxfordaqa-igcse-mathematics-sine-rule-cosine-rule-and-area-of-a-triangle--05-area-gives-two-angles.webp" width="900" height="810" alt="Two triangles share an 11 cm base and have a 9.5 cm side at 50.0 degrees and at 130.0 degrees. Their third corners are at the same height, so both have area 40 square centimetres, which is why sin C = 80/104.5 gives two angles." loading="lazy">
-  <figcaption>An area fixes sin C, so C can be acute or obtuse.</figcaption>
-</figure>
-
 
 ## Sense checks
 
@@ -226,6 +220,17 @@ Give lengths to 3 significant figures and angles to 1 decimal place.
 8. 14.6 cm. Cosine rule: 36 + 121 − 132 cos 115° = 212.79, and the square root is 14.59.
 9. The sine rule.
 10. The cosine rule, in its rearranged form.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-mathematics-sine-rule-cosine-rule-and-area-of-a-triangle--05-area-gives-two-angles.webp" width="900" height="810" alt="Two triangles share an 11 cm base and have a 9.5 cm side at 50.0 degrees and at 130.0 degrees. Their third corners are at the same height, so both have area 40 square centimetres, which is why sin C = 80/104.5 gives two angles." loading="lazy">
+  <figcaption>An area fixes sin C, so C can be acute or obtuse.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-mathematics-sine-rule-cosine-rule-and-area-of-a-triangle--06-area-find-side.webp" width="900" height="800" alt="Worked example 8 drawn to scale: area 35, side 8, included angle 125 degrees. 35 = half x 8 x x x sin 125 gives x = 10.7 cm. The dashed height of 8.75 cm equals 2 x 35 / 8." loading="lazy">
+  <figcaption>Put the known values into the area formula and solve for the unknown side.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

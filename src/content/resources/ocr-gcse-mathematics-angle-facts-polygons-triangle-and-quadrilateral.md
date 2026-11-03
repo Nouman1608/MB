@@ -279,6 +279,11 @@ A shape has **reflection symmetry** if a mirror line maps it onto itself. It has
   <figcaption>A regular n-sided polygon has n lines and order n; the smallest turn is 360° ÷ n.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-symmetry--03-shapes-lines-order.webp" width="900" height="1260" alt="Ten triangles and quadrilaterals with their mirror lines dashed and the number of lines and order stated: equilateral 3 and 3, isosceles 1 and 1, scalene 0 and 1, square 4 and 4, rectangle 2 and 2, rhombus 2 and 2, parallelogram 0 and 2, kite 1 and 1, isosceles trapezium 1 and 1, trapezium 0 and 1." loading="lazy">
+  <figcaption>If a shape has any lines, its order equals its number of lines; the parallelogram is the exception with order 2.</figcaption>
+</figure>
+
 
 ## Proofs
 
@@ -313,6 +318,11 @@ So 2(p + q) = 180° and angle ACB = p + q = 90°
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/ocr-gcse-mathematics-angle-facts-polygons-triangle-and-quadrilateral--10-proof-quadrilateral-diagonal.webp" width="900" height="969" alt="Quadrilateral ABCD split by diagonal AC into triangles ABC and ACD, each with angles adding to 180 degrees, so the quadrilateral angles add to 360 degrees." loading="lazy">
   <figcaption>A diagonal splits a quadrilateral into two triangles, so its angles total 2 × 180° = 360°.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-geometry--03-right-angles-in-circles.webp" width="900" height="1055" alt="Top: a triangle ABC inside a circle with AB a diameter, right angle at C. Bottom: a radius OT meets a tangent at T with a right angle. The angle in a semicircle is 90 degrees, and a tangent meets a radius at 90 degrees." loading="lazy">
+  <figcaption>The angle in a semicircle and the angle between tangent and radius are both 90°.</figcaption>
 </figure>
 
 

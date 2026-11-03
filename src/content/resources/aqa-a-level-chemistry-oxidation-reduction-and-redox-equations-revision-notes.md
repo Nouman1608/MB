@@ -217,6 +217,15 @@ Cover the answers, then try each one.
 - Choosing multipliers that make the electron numbers unequal, so the overall equation has the wrong ratio.
 - Naming the element rather than the species, e.g. "chlorine is reduced" when the question asks which ion is the oxidising agent.
 
+## Related pages
+
+- [Study guide for this section](/resources/aqa-a-level-chemistry-oxidation-reduction-and-redox-equations/)
+- [Practice questions for this section](/resources/aqa-a-level-chemistry-oxidation-reduction-and-redox-equations-practice/)
+- [Bonding: ions and ionic charges](/resources/aqa-a-level-chemistry-bonding/)
+- [Atomic structure revision notes](/resources/aqa-a-level-chemistry-atomic-structure-revision-notes/)
+- [Mole revision notes, for redox titration calculations](/resources/aqa-a-level-chemistry-mole-revision-notes/)
+- [Free diagnostics](/diagnostics/)
+
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/a-electrochemistry-electrolysis-and-electrode-potentials--01-zinc-copper-cell.webp" width="900" height="1130" alt="Two beakers are joined by a salt bridge. Zinc in Zn2+ is the negative electrode where zinc is oxidised; copper in Cu2+ is the positive electrode where Cu2+ is reduced. Electrons flow through a wire past a 1.10 V voltmeter from zinc to copper, and the cell is written Zn(s) | Zn2+(aq) || Cu2+(aq) | Cu(s)." loading="lazy">
   <figcaption>In the zinc-copper cell electrons flow from the negative zinc electrode to the positive copper electrode, giving E° cell = +1.10 V.</figcaption>
@@ -227,15 +236,6 @@ Cover the answers, then try each one.
   <figcaption>A more positive E° means a stronger oxidising agent; a more negative E° means a stronger reducing agent.</figcaption>
 </figure>
 
-
-## Related pages
-
-- [Study guide for this section](/resources/aqa-a-level-chemistry-oxidation-reduction-and-redox-equations/)
-- [Practice questions for this section](/resources/aqa-a-level-chemistry-oxidation-reduction-and-redox-equations-practice/)
-- [Bonding: ions and ionic charges](/resources/aqa-a-level-chemistry-bonding/)
-- [Atomic structure revision notes](/resources/aqa-a-level-chemistry-atomic-structure-revision-notes/)
-- [Mole revision notes, for redox titration calculations](/resources/aqa-a-level-chemistry-mole-revision-notes/)
-- [Free diagnostics](/diagnostics/)
 
 ## Official syllabus
 

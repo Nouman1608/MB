@@ -67,6 +67,16 @@ Conclusion: as methylation rises, mRNA falls, so higher methylation is associate
 A drug stops acetyl groups being removed from histones. Acetylation of histones near gene G rises from 100 to 240 units, an increase of (240 − 100) / 100 × 100 = 140%. mRNA from gene G rises from 15 to 66 units: 66 / 15 = 4.4 times, or a 340% increase. The explanation links the steps: more acetyl groups, weaker attraction between histones and DNA, looser DNA, more access for RNA polymerase, more transcription.
 
 <figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-biology-gene-mutations-and-stem-cells--01-mutation-types.webp" width="900" height="1108" alt="The same nine-base gene ATGCTTGGC is shown after each mutation with changed bases in gold and lost bases as dashed boxes. Substitution keeps nine bases, addition gives ten, deletion eight, duplication of GGC twelve, inversion of the last six bases (reads GCCAAG) keeps nine, and translocation moves CTT to the other end. OCR names only substitution, insertion and deletion." loading="lazy">
+  <figcaption>Six mutation types shown as base strips; duplication, inversion and translocation are AQA only.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-biology-gene-mutations-and-stem-cells--03-lac-operon.webp" width="900" height="960" alt="Two panels show lacI (separate repressor gene), promoter, operator, lacZ and lacY. With no lactose the repressor sits on the operator and blocks RNA polymerase so the genes are off. With lactose present, lactose binds the repressor and changes its shape, it leaves the operator, RNA polymerase makes mRNA and the enzymes are made." loading="lazy">
+  <figcaption>The lac operon with and without lactose.</figcaption>
+</figure>
+
+<figure class="topic-figure">
   <img src="https://img.marlbridge.com/aqa-a-level-biology-gene-mutations-and-stem-cells--05-epigenetic-switch.webp" width="900" height="1200" alt="Acetylated histones hold DNA loosely so RNA polymerase can reach the gene and make mRNA. Without acetyl groups, and with methyl groups on the DNA, DNA is tight and the gene is off. The methylation pattern is copied when a cell divides, so both daughter cells keep it. The base sequence does not change." loading="lazy">
   <figcaption>Acetylation, methylation and their inheritance on cell division.</figcaption>
 </figure>
@@ -122,6 +132,11 @@ Target mRNA segment: AUGCCAUUGGCACGUUAGCCU. A guide strand pairs by complementar
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/aqa-a-level-biology-gene-mutations-and-stem-cells--06-rna-interference.webp" width="900" height="1140" alt="An enzyme cuts double-stranded RNA into siRNA. One siRNA strand in a protein complex pairs with mRNA of matching sequence (example pairing GCUCCGUUAGCA with CGAGGCAAUCGU), and the mRNA is broken down so no protein is made. The gene is still transcribed." loading="lazy">
   <figcaption>How siRNA stops translation of one mRNA.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-biology-gene-mutations-and-stem-cells--07-alternative-splicing.webp" width="900" height="970" alt="A pre-mRNA with five exons of 90, 60, 105, 45 and 72 nucleotides is spliced so introns are removed and exons joined. Keeping exon 1, exon 5 and one of exons 2, 3 or 4 gives mRNAs coding for 73, 88 and 68 amino acids." loading="lazy">
+  <figcaption>Alternative splicing gives three polypeptides from one gene.</figcaption>
 </figure>
 
 

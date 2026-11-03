@@ -125,6 +125,16 @@ Fuels are chosen as energy stores based on **ease of storage, energy content, an
   <figcaption>Coal, petrol and natural gas compared for energy per kg, storage and safety.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-physics-energy--02-renewables-pros-cons.webp" width="900" height="963" alt="Three panels, one per renewable resource. Solar: no fuel and no pollution when running, but no output at night and less in cloud. Wave: renewable with no fuel, but waves vary and equipment is hard to build at sea. Geothermal: works day and night, but only where hot rock is near the surface." loading="lazy">
+  <figcaption>One advantage and one drawback for solar, wave and geothermal power.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-physics-energy-transfers-efficiency-sankey-diagrams-and-energy--09-en-geothermal.webp" width="900" height="925" alt="Water goes down one borehole into hot rock and comes back up as steam, which turns a turbine and a generator at the surface. Advantage: steady output day and night. Drawback: needs accessible hot rock." loading="lazy">
+  <figcaption>Geothermal power uses heat from hot rock to make steam for a turbine.</figcaption>
+</figure>
+
 
 ## Practising multi-step calculations
 

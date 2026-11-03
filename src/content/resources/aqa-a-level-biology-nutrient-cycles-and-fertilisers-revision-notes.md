@@ -168,6 +168,12 @@ Skills note in the specification: devise investigations into the effect of named
 5. Measure dry mass after drying to constant mass. Fresh mass varies with water content.
 6. Look for patterns, such as stunted growth or yellow leaves in the absence of nitrate, and say that a statistical test is needed to judge significance.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-biology-energy-transfer-and-productivity-in-ecosystems--03-biomass-calorimetry.webp" width="900" height="1180" alt="A fresh 250 g sample is dried until its mass is constant at 62 g, so 188 g (75.2%) was water. A 0.50 g dried portion burned under 50.0 g of water raises the water 20.0 to 54.0 degrees C, giving 7 106 J and 14.2 kJ per gram, an underestimate because heat escapes." loading="lazy">
+  <figcaption>Dry to constant mass, then burn a portion under water to find energy per gram.</figcaption>
+</figure>
+
+
 ## Describing eutrophication data
 
 When a graph or table shows nitrate, algae and oxygen over time, take these steps.
@@ -204,6 +210,12 @@ When a graph or table shows nitrate, algae and oxygen over time, take these step
 9. Phosphate in rocks and sediments.
 10. Saprobionts feed on the dead algae and plants, multiply, and use oxygen in aerobic respiration.
 11. Any one: the nutrients are already ions, so they act quickly; the composition is known and can be matched to the crop.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-biology-energy-transfer-and-productivity-in-ecosystems--09-succession.webp" width="900" height="1050" alt="Four quarry floors aged 5, 20, 50 and 120 years show soil depth rising from 0.5 to 25 cm. Plant species per 100 square metres rise from 3 to 22 at 50 years then fall to 19 at 120 years as light at the ground drops from 100% to 8%." loading="lazy">
+  <figcaption>Each stage changes soil and light for the next; diversity can fall under a dense canopy.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

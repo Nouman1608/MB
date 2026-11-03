@@ -100,6 +100,12 @@ To solve 2^(x + 3) = 32, write 32 = 2⁵, so x + 3 = 5 and x = 2. This works bec
 
 If a < 0 the parabola opens downward and the vertex is a maximum.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-rational-indices-and-surds--08-complete-square-vertex.webp" width="900" height="890" alt="Graph of y = 4x squared + 8x - 3, equal to 4(x+1) squared - 7, with vertex (-1,-7) on the line x = -1, y-intercept (0,-3) and roots about 0.32 and -2.32. A grey dashed y = 4x squared shows the shift of 1 left and 7 down." loading="lazy">
+  <figcaption>Completed-square form a(x + p)^2 + q gives the vertex (-p, q) and the line of symmetry x = -p.</figcaption>
+</figure>
+
+
 ## Discriminant: must-know table
 
 | b² − 4ac | Number of real roots | Graph and the x-axis |
@@ -115,11 +121,6 @@ When a question says "show that the equation has real roots for all k", write th
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/aqa-a-level-mathematics-rational-indices-and-surds--06-discriminant-graphs.webp" width="900" height="1150" alt="Three upward parabolas y = x squared - 6x + c. With c = 5 the discriminant is 16 and the curve crosses the x-axis at x = 1 and 5; with c = 9 it is 0 and the curve touches at x = 3; with c = 13 it is -16 and the curve stays above the axis." loading="lazy">
   <figcaption>The sign of b squared minus 4ac says whether the parabola crosses, touches or misses the x-axis.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-rational-indices-and-surds--07-discriminant-in-k.webp" width="900" height="980" alt="Graph of D = 4(k-5)(k+2) against k. It is zero at k = -2 and k = 5, negative between them (no real roots) and positive outside (two distinct real roots)." loading="lazy">
-  <figcaption>With an unknown k, write the discriminant in k and read the ranges from its graph.</figcaption>
 </figure>
 
 
@@ -254,8 +255,8 @@ The line meets the curve at one point only, (3, 5). A value of k above 2 gives t
 12. **x < −3**
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-rational-indices-and-surds--08-complete-square-vertex.webp" width="900" height="890" alt="Graph of y = 4x squared + 8x - 3, equal to 4(x+1) squared - 7, with vertex (-1,-7) on the line x = -1, y-intercept (0,-3) and roots about 0.32 and -2.32. A grey dashed y = 4x squared shows the shift of 1 left and 7 down." loading="lazy">
-  <figcaption>Completed-square form a(x + p)^2 + q gives the vertex (-p, q) and the line of symmetry x = -p.</figcaption>
+  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-rational-indices-and-surds--07-discriminant-in-k.webp" width="900" height="980" alt="Graph of D = 4(k-5)(k+2) against k. It is zero at k = -2 and k = 5, negative between them (no real roots) and positive outside (two distinct real roots)." loading="lazy">
+  <figcaption>With an unknown k, write the discriminant in k and read the ranges from its graph.</figcaption>
 </figure>
 
 

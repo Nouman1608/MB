@@ -152,11 +152,6 @@ Demand rises, then price rises. Firms want to produce more. If they have spare c
   <figcaption>The less elastic supply is, the larger the shortage under a price cap.</figcaption>
 </figure>
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/aqa-gcse-economics-how-markets-work--03-pes-short-long-run.webp" width="900" height="900" alt="The same rise in demand is shown twice. Where supply is inelastic (short run) price rises 27% and output 13%; where supply is elastic (long run) price rises 11% and output 29%. This is why agricultural supply shocks cause price spikes." loading="lazy">
-  <figcaption>Inelastic short-run supply turns a demand rise into a big price rise; long-run supply adjusts more.</figcaption>
-</figure>
-
 
 ## Must-know distinctions
 
@@ -192,6 +187,12 @@ Demand rises, then price rises. Firms want to produce more. If they have spare c
 9. 5 / 0.25 = **20%**.
 10. Firms cannot expand output to meet the demand at the low price, so the shortage continues.
 11. With time, firms can expand capacity, recruit and train staff, and new firms can start up.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-how-markets-work--03-pes-short-long-run.webp" width="900" height="900" alt="The same rise in demand is shown twice. Where supply is inelastic (short run) price rises 27% and output 13%; where supply is elastic (long run) price rises 11% and output 29%. This is why agricultural supply shocks cause price spikes." loading="lazy">
+  <figcaption>Inelastic short-run supply turns a demand rise into a big price rise; long-run supply adjusts more.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

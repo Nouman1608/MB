@@ -219,6 +219,11 @@ At equilibrium, price elasticity of demand is -20 x 16 / 380 = -0.84, and price 
   <figcaption>A tax of 6 raises the price from 16 to 20, so buyers bear 4 and sellers 2, because demand (elasticity minus 0.84) is less elastic than supply (1.68).</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-economics-price-system-and-the-microeconomy--07-tax-burden-and-elasticity.webp" width="900" height="1280" alt="A tax of 2 per unit shifts supply up. With inelastic demand (PED 0.5) buyers pay 6.43 and firms keep 4.43, so buyers bear 71 percent of the tax. With elastic demand (PED 3.3) buyers pay 5.55 and firms keep 3.55, so firms bear 73 percent." loading="lazy">
+  <figcaption>With inelastic demand buyers bear most of an indirect tax; with elastic demand producers bear most.</figcaption>
+</figure>
+
 
 ### Impact on the three groups
 
@@ -249,6 +254,11 @@ The subsidy is shared in the same way as a tax: by elasticity. The net loss of 2
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/edexcel-ial-economics-price-determination-surplus-the-price-mechanism--11-pd-ad-valorem-pivot.webp" width="900" height="870" alt="Honey supply P = 2 + Q/50. An ad valorem tax, here an invented 50 percent, multiplies the supply price by 1.5, so the supply curve pivots upward. The vertical gap is 1 at zero output, 3 at 200 jars, 7 at 600 jars and 9 at 800 jars, growing as price rises. By contrast a specific tax of 5 per jar moves the curve up in parallel, by the same amount at every quantity." loading="lazy">
   <figcaption>A percentage tax makes the supply curve pivot upward, with the tax gap growing as the price rises, unlike a fixed tax that shifts the curve in parallel.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-economics-government-microeconomic-intervention--02-subsidy-incidence.webp" width="900" height="890" alt="Supply and demand diagram where a subsidy of 2 per unit shifts supply down from S1 to S2. Quantity rises from 50 to 60, the consumer price falls from 5 to 3.8 (gain 1.2 a unit) and the producer receives 5.8 (gain 0.8 a unit). The government pays 2 a unit." loading="lazy">
+  <figcaption>A subsidy lowers the price consumers pay and raises what producers receive; the split depends on elasticity.</figcaption>
 </figure>
 
 

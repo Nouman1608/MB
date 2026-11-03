@@ -116,6 +116,26 @@ Learn this **eleven-metal order** as one memorised sequence — nearly every que
   <figcaption>The eleven-metal reactivity series in the order the specification gives, including lithium.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/metal-properties-and-reactivity--03-acid-test.webp" width="900" height="970" alt="Three test tubes of dilute hydrochloric acid. Magnesium fizzes fast with many hydrogen bubbles, iron fizzes slowly with a few, and copper shows none, giving the order magnesium, iron, copper." loading="lazy">
+  <figcaption>More vigorous fizzing in dilute acid means a more reactive metal.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-chemistry-reactivity-and-group-trends--05-metal-oxide-displacement.webp" width="900" height="920" alt="Magnesium heated with copper(II) oxide takes the oxygen, forming magnesium oxide and copper. A table shows Mg and Zn react with CuO while Cu does not react with MgO or ZnO; a ladder shows the order Mg, Zn, Cu." loading="lazy">
+  <figcaption>A more reactive metal displaces a less reactive metal from its oxide.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/metal-properties-and-reactivity--06-rusting-conditions.webp" width="900" height="790" alt="Three tubes with iron nails: in air and water the nail rusts; in dry air above a drying agent it does not; in boiled water under oil it does not. Both oxygen and water are required." loading="lazy">
+  <figcaption>Remove either oxygen or water and rusting stops.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-chemistry-reactivity-and-group-trends--02-three-ways-to-stop-rust.webp" width="900" height="1230" alt="Three cross-sections of iron under water and oxygen. A barrier coat keeps water and oxygen off but fails where scratched. Galvanising coats iron with zinc, a barrier that, where scratched, corrodes first and keeps the iron safe. Sacrificial protection bolts a block of a more reactive metal on, which corrodes instead: Zn becomes Zn2+ plus 2 electrons." loading="lazy">
+  <figcaption>Barrier, galvanising and sacrificial protection stop rust in three different ways.</figcaption>
+</figure>
+
 
 ## Oxidation, reduction and redox
 
@@ -131,6 +151,11 @@ Learn this **eleven-metal order** as one memorised sequence — nearly every que
   <figcaption>Practise both definitions on the same reaction: the verdict is the same.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-chemistry-redox-reactions--01-displacement-electrons.webp" width="900" height="940" alt="Two panels. Top: magnesium gives 2 electrons to two silver ions, so Mg is oxidised (Mg to Mg2+ + 2e-) and Ag+ is reduced (2Ag+ + 2e- to 2Ag). Bottom: two iodide ions give 2 electrons to a chlorine molecule, so I- is oxidised (2I- to I2 + 2e-) and Cl2 is reduced (Cl2 + 2e- to 2Cl-). Electrons lost equal electrons gained." loading="lazy">
+  <figcaption>Displacement reactions are redox: the particle losing electrons is oxidised, the one gaining them is reduced.</figcaption>
+</figure>
+
 
 ## Worked example: predicting a displacement reaction
 
@@ -143,6 +168,12 @@ Prediction: zinc displaces copper -- forms zinc sulfate + copper metal.
 Redox view: zinc is OXIDISED (loses electrons, Zn -> Zn2+);
             copper ions are REDUCED (gain electrons, Cu2+ -> Cu).
 ```
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/metal-properties-and-reactivity--04-displacement.webp" width="900" height="940" alt="An iron nail in blue copper(II) sulfate becomes coated in pink-brown copper while the solution turns pale green. Iron atoms lose two electrons to form Fe2+ and the copper ions gain them to form copper atoms." loading="lazy">
+  <figcaption>The more reactive metal loses electrons and displaces the less reactive metal.</figcaption>
+</figure>
+
 
 ## Worked example: identifying the more reactive halogen
 
@@ -159,6 +190,12 @@ Conclusion:   chlorine is MORE reactive than bromine, consistent
 ```
 
 If the reaction had been attempted the other way round (bromine added to potassium chloride solution), no reaction would occur, since bromine cannot displace a halogen more reactive than itself -- being able to predict which direction a Group 7 displacement will and won't work in, not just describe one direction, is what this sub-topic's practical evidence is really testing.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-chemistry-4ch1-group-1-and-group-7--05-displacement-electrons.webp" width="900" height="860" alt="Chlorine water added to iodide ions: Cl2 plus 2I- gives 2Cl- plus I2, balanced for atoms and charge (minus 2 on each side). Each iodide ion loses an electron and is oxidised to iodine; chlorine gains the two electrons and is reduced to two chloride ions, so chlorine is the oxidising agent. The potassium ions are unchanged spectators." loading="lazy">
+  <figcaption>The displacement is an electron transfer from iodide ions to chlorine.</figcaption>
+</figure>
+
 
 ## Linking (a)-(d) together
 

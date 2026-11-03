@@ -87,6 +87,11 @@ A positive E⦵cell shows feasibility only. It says nothing about rate.
   <figcaption>A fuel cell is fed continuously with hydrogen and oxygen and gives 2H2 + O2 -&gt; 2H2O, with different ions carrying charge in alkali and acid.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-transition-metals--08-vanadium-oxidation-states.webp" width="900" height="810" alt="Four test tubes show yellow VO2+ (+5), blue VO2+ (+4), green V3+ (+3) and violet V2+ (+2), joined by arrows labelled Zn with E cell values +1.76 V, +1.10 V and +0.50 V. An arrow shows the oxidation state falling from +5 to +2." loading="lazy">
+  <figcaption>Zinc reduces vanadium from +5 to +2 in steps, each with a colour change.</figcaption>
+</figure>
+
 
 ## Chromium: dichromate(VI), Cr³⁺ and Cr²⁺ (17.20-17.21)
 
@@ -154,6 +159,11 @@ A neutral precipitate has as many OH⁻ ligands as the metal's charge.
   <figcaption>A positive E° cell always corresponds to a negative delta G, because F is positive.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-electrochemistry-electrolysis-and-electrode-potentials--08-lithium-cell.webp" width="900" height="1000" alt="Lithium is the negative electrode and CoO2 the positive electrode, with Li+ ions moving through the electrolyte and electrons through the external lamp circuit from lithium to CoO2. At the negative electrode Li loses an electron (0 to +1); at the positive electrode cobalt is reduced from +4 to +3. Recharging reverses both reactions." loading="lazy">
+  <figcaption>On discharge lithium is oxidised and cobalt is reduced; recharging reverses both reactions.</figcaption>
+</figure>
+
 
 ## Ligand exchange and colour change (17.24)
 
@@ -188,6 +198,22 @@ Use these values for the Mn²⁺/EDTA⁴⁻ reaction above at 298 K: ΔH = +4.0 
 2. ΔStotal = 190 + (−13.4) = **+176.6 J K⁻¹ mol⁻¹**.
 3. Positive, so the reaction is feasible even though it is endothermic. The entropy gain of the system drives it.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-transition-metals--04-optical-isomers.webp" width="900" height="870" alt="Two drawings of [Ni(en)3]2+ stand either side of a mirror line. Each has three curved bidentate ligands joining pairs of nitrogen atoms. They are mirror images and cannot be superimposed." loading="lazy">
+  <figcaption>[Ni(en)3]2+ exists as two non-superimposable mirror images, so it shows optical isomerism.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-transition-metals--05-ligand-exchange.webp" width="900" height="1295" alt="Pale blue [Cu(H2O)6]2+ gives deep blue [Cu(NH3)4(H2O)2]2+ with ammonia (still six bonds) and yellow tetrahedral [CuCl4]2- with concentrated HCl (six bonds to four). Pink [Co(H2O)6]2+ becomes blue [CoCl4]2- with chloride." loading="lazy">
+  <figcaption>Ammonia swaps for water without changing coordination number, but larger chloride ions give a four-coordinate tetrahedral complex.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-transition-metals--06-chelate-effect.webp" width="900" height="990" alt="Left: a nickel water complex plus three en molecules, 4 particles. Right: the nickel en complex plus six free water molecules, 7 particles. A stacked bar shows illustrative dG = -8.0 + (-32.8) = -40.8 kJ/mol at 298 K, which is negative." loading="lazy">
+  <figcaption>More particles means positive entropy change, so dG is negative and the chelate forms.</figcaption>
+</figure>
+
+
 ## Catalysis (17.26-17.32)
 
 Transition metals and their compounds catalyse reactions because they have variable oxidation numbers and can form bonds to reactant molecules.
@@ -217,6 +243,12 @@ S₂O₈²⁻ + 2Fe²⁺ → 2SO₄²⁻ + 2Fe³⁺   E⦵cell = 2.01 − 0.77 =
 Each step involves oppositely charged ions. Fe³⁺ is the intermediate and Fe²⁺ is regenerated. Fe³⁺ works too, with the steps reversed.
 
 **Mn²⁺ as an autocatalyst** (17.32). In 2MnO₄⁻ + 16H⁺ + 5C₂O₄²⁻ → 2Mn²⁺ + 10CO₂ + 8H₂O, the product Mn²⁺ catalyses the reaction. Mn²⁺ is oxidised to Mn³⁺ by MnO₄⁻, then Mn³⁺ oxidises C₂O₄²⁻ and returns to Mn²⁺. A plot of [MnO₄⁻] against time falls slowly at first, then steeply as Mn²⁺ builds up, then levels off as reactants run out.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-transition-metals--09-catalyst-cycles.webp" width="900" height="1270" alt="Two cycles. Top, heterogeneous: V2O5 (V +5) reacts with SO2 giving SO3 and becomes V2O4 (V +4), then reacts with half an O2 to return to V2O5. Bottom, homogeneous: Fe2+ is oxidised by S2O8 2- to Fe3+, which is reduced back by I- forming iodine." loading="lazy">
+  <figcaption>A transition metal catalyst changes oxidation state to give an easier route and is then regenerated.</figcaption>
+</figure>
+
 
 ## Core Practical 14: preparing a complex (17.33)
 

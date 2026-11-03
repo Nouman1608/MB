@@ -141,12 +141,6 @@ Worked reminder (tilting): a uniform rod of weight 60 N and length 4 m rests on 
 
 Worked reminder (two supports): a light rod of length 3 m rests on supports at its two ends. A load of 45 N is 1 m from A. Moments about B: R_A × 3 = 45 × 2, so R_A = 30 N. Then R_B = 45 − 30 = 15 N.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-level-maths-9709-mechanics--08-amth-forces-moments.webp" width="900" height="1010" alt="A uniform plank AB, 5 m and 22 kg, rests on supports C (0.5 m from A) and D (1.5 m from B); a 55 kg person stands 1 m from A. Moments about C: clockwise 269.5 + 431.2 = 700.7 N m equals R_D × 3.0, so R_D = 233.6 N and R_C = 754.6 − 233.6 = 521.0 N. Distances are to scale." loading="lazy">
-  <figcaption>Take moments about a support to remove its reaction; clockwise moments equal anticlockwise moments.</figcaption>
-</figure>
-
-
 ## Quick self-test
 
 1. Find the momentum of a 2.5 kg particle moving at 6 m s⁻¹.
@@ -172,6 +166,17 @@ Worked reminder (two supports): a light rod of length 3 m rests on supports at i
 8. 15 × 0.8 = 12 N m.
 9. 15 N each, by symmetry.
 10. Moments about B: R_A × 3 = 45 × 2, so R_A = 30 N. Then R_B = 15 N. The support nearer the load takes more.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-maths-9709-mechanics--01-amth-forces-lift.webp" width="900" height="1010" alt="Free-body diagrams of a 65 kg person in a lift with g = 9.8. At rest R = 637 N; accelerating up at 0.8 m per second squared R = 689 N; accelerating down R = 585 N. Arrow lengths are proportional to the forces. A strip below shows the third-law pair: the floor pushes the person up with R and the person pushes the floor down with R, on different bodies." loading="lazy">
+  <figcaption>The reaction R is larger than the weight when the lift accelerates upwards and smaller when it accelerates downwards; third-law pairs act on different bodies.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-maths-9709-mechanics--08-amth-forces-moments.webp" width="900" height="1010" alt="A uniform plank AB, 5 m and 22 kg, rests on supports C (0.5 m from A) and D (1.5 m from B); a 55 kg person stands 1 m from A. Moments about C: clockwise 269.5 + 431.2 = 700.7 N m equals R_D × 3.0, so R_D = 233.6 N and R_C = 754.6 − 233.6 = 521.0 N. Distances are to scale." loading="lazy">
+  <figcaption>Take moments about a support to remove its reaction; clockwise moments equal anticlockwise moments.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

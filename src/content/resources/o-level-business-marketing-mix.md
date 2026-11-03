@@ -241,6 +241,12 @@ E-commerce is buying and selling goods and services over the internet. Online sh
 
 Internet and social media promotion: businesses can post offers, share customer reviews and respond to questions. They can also target adverts by age or location, measure responses and spend less than on television. Limitations include negative comments spreading fast, the time needed to manage accounts and customers who ignore online advertising.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-business-influences-on-business--01-ecommerce-reach.webp" width="900" height="1090" alt="A shop selling only to a few nearby customers inside a small dashed circle, then the same shop with a website reaching many customers spread widely. Labels say e-commerce affects marketing (wider markets) and operations (order fulfilment)." loading="lazy">
+  <figcaption>E-commerce lets a business reach customers well beyond its local area.</figcaption>
+</figure>
+
+
 ## Common errors
 
 - Mixing up penetration (low price at launch) and skimming (high price at launch).

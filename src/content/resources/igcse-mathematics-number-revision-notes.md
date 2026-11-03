@@ -373,12 +373,6 @@ minimum can occur at a different combination of endpoints — check each
 combination directly (UB×UB, UB×LB, LB×UB, LB×LB, and similarly for
 division) rather than applying the shortcut blindly.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-mathematics-number--04-limits-of-accuracy.webp" width="900" height="810" alt="A number line from 4.50 to 4.70 kg shades the values from 4.55 to 4.65 that round to 4.6 kg. The lower bound 4.55 is included (filled dot); the upper bound 4.65 is not (open dot)." loading="lazy">
-  <figcaption>A value given to 1 d.p. can be up to half a unit (0.05) either side: 4.55 &lt;= mass &lt; 4.65.</figcaption>
-</figure>
-
-
 ## Exam traps
 
 - Treating 1 as prime.
@@ -391,6 +385,12 @@ division) rather than applying the shortcut blindly.
 - Counting the overlap of a Venn diagram twice: fill in the intersection first.
 - Subtracting times as if they were decimals, or entering 20 minutes as 0.2 hours.
 - Multiplying instead of dividing (or the reverse) in a currency conversion: sense-check which amount should be larger.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-number--04-limits-of-accuracy.webp" width="900" height="810" alt="A number line from 4.50 to 4.70 kg shades the values from 4.55 to 4.65 that round to 4.6 kg. The lower bound 4.55 is included (filled dot); the upper bound 4.65 is not (open dot)." loading="lazy">
+  <figcaption>A value given to 1 d.p. can be up to half a unit (0.05) either side: 4.55 &lt;= mass &lt; 4.65.</figcaption>
+</figure>
+
 
 ## Examiner report insight
 

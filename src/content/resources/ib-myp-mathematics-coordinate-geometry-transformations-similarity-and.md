@@ -107,6 +107,21 @@ Two lines at right angles have gradients whose product is −1. So the partner o
   <figcaption>Equal sides and parallel opposite sides make a rhombus; angle B is not 90 degrees.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-coordinate-geometry--03-length-midpoint.webp" width="900" height="960" alt="A line from A (-2, 1) to B (6, 7) forms a right triangle 8 across and 6 up, so its length is 10. The midpoint is the average of the coordinates, (2, 4)." loading="lazy">
+  <figcaption>Length uses Pythagoras; the midpoint averages the coordinates.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-coordinate-geometry--06-perpendicular-lines.webp" width="900" height="960" alt="Two lines meet at right angles at (0, 1). One has gradient 2/3 and the other -3/2; their product is -1." loading="lazy">
+  <figcaption>Perpendicular gradients multiply to -1.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-coordinate-geometry--07-perpendicular-bisector.webp" width="900" height="1050" alt="AB joins (-3, 8) and (9, -2) with gradient -5/6. The bisector has gradient 6/5 and passes through M (3, 3), giving y = 6/5 x - 3/5." loading="lazy">
+  <figcaption>Combine gradient, perpendicular rule, midpoint and y = mx + c.</figcaption>
+</figure>
+
 
 ## Symmetry and reflection
 
@@ -125,6 +140,16 @@ To reflect a point, go the same perpendicular distance beyond the mirror line. O
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/ib-myp-mathematics-coordinate-geometry-transformations-similarity-and--13-myp-reflect-y-x-and-y-k.webp" width="900" height="1280" alt="Reflecting in y = x swaps coordinates: (1, 2), (4, 2), (4, 6) become (2, 1), (2, 4), (6, 4). Reflecting (3, 4) in y = −1 gives (3, −6) using 2k − y." loading="lazy">
   <figcaption>Swap the coordinates for y = x; use 2k − y for y = k.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-symmetry--02-rotational-symmetry.webp" width="900" height="1080" alt="A marked corner shows the turns about the centre. A parallelogram fits after 180 degrees (order 2), an equilateral triangle after 120 and 240 degrees (order 3), and a scalene triangle only after 360 degrees (order 1)." loading="lazy">
+  <figcaption>The smallest turn that fits is 360° divided by the order.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-transformations-and-vectors--01-reflection-mirror-line.webp" width="900" height="845" alt="Triangle ABC is reflected in the vertical line x = 4. Dashed lines join each corner to its image and cross the mirror at their midpoints. Image corners are A'(7,2), B'(7,4), C'(5,2)." loading="lazy">
+  <figcaption>A reflection puts each image point the same distance behind the mirror line, and is described by its mirror line.</figcaption>
 </figure>
 
 
@@ -149,6 +174,17 @@ For any other centre C, subtract C from the point, rotate, then add C back.
 A translation slides every point by the same column vector; (3, −2) as a column means 3 right and 2 down.
 
 To describe a transformation, give its type and details: mirror equation; centre, angle and direction; vector; or centre and scale factor. 
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-transformations-and-vectors--02-rotation-about-origin.webp" width="900" height="1065" alt="Triangle ABC is rotated 90 degrees clockwise about the origin. B(1,4) moves to B'(4,-1); the lines OB and OB' are equal and meet at a right angle. A rotation needs centre, angle and direction." loading="lazy">
+  <figcaption>A rotation is described by its centre, angle and direction.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-transformations-and-vectors--03-translation-column-vector.webp" width="900" height="970" alt="Triangle ABC is translated by (4, -3): 4 right and 3 down. Every corner moves by the same arrow to A'(5,-1), B'(5,1), C'(7,-1)." loading="lazy">
+  <figcaption>A translation slides every point by the same column vector without turning or resizing the shape.</figcaption>
+</figure>
+
 
 ## Congruence
 
@@ -224,6 +260,21 @@ A factor between 0 and 1 gives a smaller image; a negative factor puts it across
   <figcaption>The centre is found from one point, its image and the scale factor.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-transformations-and-vectors--04-enlargement-scale-factor-2.webp" width="900" height="945" alt="Triangle ABC is enlarged by scale factor 2 from P(1,1). Dashed lines from P pass through each corner to its image, which is twice as far from P. Every side doubles." loading="lazy">
+  <figcaption>An enlargement multiplies every distance from the centre, and every side, by the scale factor.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-transformations-and-vectors--05-enlargement-fractional.webp" width="900" height="1145" alt="Triangle ABC is enlarged by scale factor one half from P(1,1). Each image corner is half as far from P, giving a smaller image A'(2,2), B'(2,4), C'(4,2)." loading="lazy">
+  <figcaption>A scale factor between 0 and 1 makes the image smaller.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-transformations-and-vectors--06-enlargement-negative.webp" width="900" height="905" alt="Triangle ABC is enlarged by scale factor -2 from P(3,3). Each image corner is twice as far from P but on the opposite side, so the image is upside down: A'(1,1), B'(1,-1), C'(-3,1)." loading="lazy">
+  <figcaption>A negative scale factor puts the image on the opposite side of the centre, inverted.</figcaption>
+</figure>
+
 
 ## Identical representation of transformations (extended)
 
@@ -237,6 +288,11 @@ Different descriptions can give the same mapping. This page reads the framework 
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/ib-myp-mathematics-coordinate-geometry-transformations-similarity-and--07-parallel-mirrors-translation.webp" width="900" height="900" alt="Triangle A is reflected in x = 1 to give A-dash, then in x = 4 to give A-double-dash. Every point has moved 6 to the right, twice the gap of 3 between the mirrors, so the result is a translation by (6, 0)." loading="lazy">
   <figcaption>Two parallel reflections equal a translation of twice the gap.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-mathematics-transformations-reflection-rotation-enlargement-and--06-combination.webp" width="900" height="858" alt="Triangle B is reflected in the x-axis (dashed B1) then in the y-axis to give B2. A dashed line from (5,3) through the origin to (-5,-3) shows each point (x, y) goes to (-x, -y), which is a rotation of 180 degrees about the origin." loading="lazy">
+  <figcaption>Reflecting in the x-axis and then the y-axis equals a single rotation of 180 degrees about the origin.</figcaption>
 </figure>
 
 
@@ -253,6 +309,11 @@ A regular polygon with n sides has interior angle 180° − 360°/n. For a regul
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/ib-myp-mathematics-coordinate-geometry-transformations-similarity-and--08-tessellation-360.webp" width="900" height="1124" alt="Vertex diagrams: three hexagons make 360 degrees, two octagons and a square make 135 + 135 + 90 = 360, and three pentagons make 324 degrees leaving a 36 degree gap." loading="lazy">
   <figcaption>Angles round a point must make 360 degrees, so hexagons and octagon plus square fit but pentagons do not.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-geometry--02-regular-polygon-angles.webp" width="900" height="1070" alt="A regular hexagon with exterior angles of 60 degrees marked and one interior angle of 120 degrees. Six 60 degree wedges form a full circle of 360 degrees. Interior angle is 180 minus 60. A regular hexagon has six exterior angles of 60 degrees which fit round a point to make 360 degrees, so each interior angle is 120 degrees." loading="lazy">
+  <figcaption>Exterior angles add to 360°, so a regular hexagon has interior angles of 120°.</figcaption>
 </figure>
 
 

@@ -196,6 +196,12 @@ Money is anything generally accepted in payment for goods and services. As a **m
 
 Money makes trade quicker, lets people specialise and makes prices easy to compare. The specification names the medium of exchange role, so concentrate on that.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-how-markets-work--09-barter-and-money.webp" width="900" height="1250" alt="Three people each have goods the next person does not want, so barter fails. With money, each is paid in pounds and then buys what they want, so trade works." loading="lazy">
+  <figcaption>Money removes the need for a double coincidence of wants.</figcaption>
+</figure>
+
+
 ## The financial sector
 
 The financial sector links people who have money to spare with people who need it. Three institutions are named in the specification.
@@ -217,6 +223,11 @@ Judgement: the sector is highly important because most households and firms depe
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/ocr-gcse-economics-the-labour-market-and-wages-gross-and-net-pay-money--03-financial-sector-flows.webp" width="900" height="1040" alt="Three rows show money in and money out: banks (deposits to loans), building societies (savings to mortgages), insurers (premiums to payouts). Three cards then show how consumers, producers and government benefit and the limit for each." loading="lazy">
   <figcaption>The financial sector turns money in into loans, mortgages and payouts, with benefits and limits for each user.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-economics-microeconomic-decision-makers--02-central-and-commercial-banks.webp" width="900" height="1090" alt="A central bank sets the base interest rate for commercial banks. Households and firms deposit money with commercial banks and receive loans from them." loading="lazy">
+  <figcaption>The central bank sets the base rate; commercial banks take deposits and make loans.</figcaption>
 </figure>
 
 
@@ -256,6 +267,12 @@ Extra cost = £270 a year, or £22.50 a month
 
 A larger loan magnifies this. On a £150,000 mortgage a rise from 3% to 4% adds £1,500 a year, or £125 a month.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-how-markets-work--06-interest-rate-effects.webp" width="900" height="890" alt="A saver with 5,000 pounds earns 100 pounds at 2% and 150 pounds at 3%. A borrower of 10,000 pounds pays 500 pounds at 5% and 700 pounds at 7%. A higher rate rewards savers and costs borrowers more." loading="lazy">
+  <figcaption>A rise in interest rates makes saving more rewarding and borrowing more expensive.</figcaption>
+</figure>
+
+
 ### Worked example 5: a firm deciding whether to invest
 
 A firm can buy a machine for £40,000 that adds £2,600 profit a year before loan costs. Return = 2,600 / 40,000 × 100 = 6.5%.
@@ -275,6 +292,11 @@ A rise from 5% to 7% turns a profitable investment into a loss.
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/ocr-gcse-economics-the-labour-market-and-wages-gross-and-net-pay-money--02-interest-savings-mortgage.webp" width="900" height="1050" alt="Top: yearly interest on 3,800 saved at 2.5% and 1.5% with interest added each year (about 95, 97, 100 and 57, 58, 59 pounds), totals 292.18 and 173.58. Bottom: on a 150,000 mortgage one year of interest is 4,500 at 3% and 6,000 at 4%, an extra 1,500 a year or 125 a month." loading="lazy">
   <figcaption>Compound interest grows each year, and a large loan magnifies a one-point rate rise.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-objectives-of-government--06-interest-rates.webp" width="900" height="1010" alt="Top: 1,800 pounds at 5 percent earns 90 pounds in a year (1,800 x 0.05). Bottom: when rates rise, consumers save more but borrow and spend less; producers save more but borrow and invest less." loading="lazy">
+  <figcaption>Higher interest rates reward saving and discourage borrowing, spending and investment.</figcaption>
 </figure>
 
 

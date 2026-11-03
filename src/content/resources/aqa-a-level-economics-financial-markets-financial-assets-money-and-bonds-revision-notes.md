@@ -183,17 +183,6 @@ Draw price on the vertical axis and the quantity of bonds on the horizontal axis
 - Longer maturity means a bigger price change for the same change in interest rates.
 - Selling early realises a loss; holding to maturity returns the nominal value.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/aqa-a-level-economics-financial-markets-financial-assets-money-and-bonds--09-bond-price-and-rates.webp" width="900" height="1010" alt="Price = 5 / rate: 125 at 4%, 100 at 5%, 80 at 6.25%, 62.5 at 8%; a rise from 5% to 8% cuts price 37.5%." loading="lazy">
-  <figcaption>Fixed coupon means price falls when market rates rise.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/aqa-a-level-economics-financial-markets-financial-assets-money-and-bonds--10-maturity-and-price-fall.webp" width="900" height="960" alt="Coupon 6 bond after rates rise 6% to 8%: 1 year 98.15, 5 years 92.01, no maturity 75." loading="lazy">
-  <figcaption>The longer to maturity the larger the price fall.</figcaption>
-</figure>
-
-
 ## Quick self-test
 
 1. List the functions of money.
@@ -206,6 +195,17 @@ Draw price on the vertical axis and the quantity of bonds on the horizontal axis
 8. Calculate the annual coupon on 20,000 nominal of a bond with a 4.5% coupon.
 9. An irredeemable bond has coupon 6. What price gives a yield of 8%?
 10. Why does a holder of a bond who keeps it to maturity not lose from a rise in interest rates?
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-financial-markets-financial-assets-money-and-bonds--09-bond-price-and-rates.webp" width="900" height="1010" alt="Price = 5 / rate: 125 at 4%, 100 at 5%, 80 at 6.25%, 62.5 at 8%; a rise from 5% to 8% cuts price 37.5%." loading="lazy">
+  <figcaption>Fixed coupon means price falls when market rates rise.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-economics-financial-markets-financial-assets-money-and-bonds--10-maturity-and-price-fall.webp" width="900" height="960" alt="Coupon 6 bond after rates rise 6% to 8%: 1 year 98.15, 5 years 92.01, no maturity 75." loading="lazy">
+  <figcaption>The longer to maturity the larger the price fall.</figcaption>
+</figure>
+
 
 ### Answers
 

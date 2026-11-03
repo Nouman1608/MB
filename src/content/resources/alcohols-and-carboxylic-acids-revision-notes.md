@@ -150,12 +150,6 @@ in **-oate**.
 The syllabus limits naming to unbranched esters from alcohols and acids with up to four carbon atoms
 each.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/alcohols-and-carboxylic-acids--04-ethanoic-acid-salts.webp" width="900" height="1030" alt="Ethanoic acid reacts with magnesium to give magnesium ethanoate and hydrogen, with sodium hydroxide to give sodium ethanoate and water, and with sodium carbonate to give sodium ethanoate, water and carbon dioxide. Salts of ethanoic acid are ethanoates." loading="lazy">
-  <figcaption>Ethanoic acid reacts with a metal, a base or a carbonate to make an ethanoate salt.</figcaption>
-</figure>
-
-
 ## Exam traps
 
 - Fermentation needs the **absence of oxygen**. "Warm" alone does not earn the temperature mark: give
@@ -195,3 +189,9 @@ each.
 *These are original notes written for revision. Check the full syllabus wording in the
 [official 0620 syllabus](https://www.cambridgeinternational.org/Images/697205-2026-2028-syllabus.pdf) and
 [official 5070 syllabus](https://www.cambridgeinternational.org/Images/697326-2026-2028-syllabus.pdf).*
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/alcohols-and-carboxylic-acids--04-ethanoic-acid-salts.webp" width="900" height="1030" alt="Ethanoic acid reacts with magnesium to give magnesium ethanoate and hydrogen, with sodium hydroxide to give sodium ethanoate and water, and with sodium carbonate to give sodium ethanoate, water and carbon dioxide. Salts of ethanoic acid are ethanoates." loading="lazy">
+  <figcaption>Ethanoic acid reacts with a metal, a base or a carbonate to make an ethanoate salt.</figcaption>
+</figure>
+

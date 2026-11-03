@@ -43,12 +43,6 @@ Use the [OCR chemistry hub](/boards/ocr/a-level/chemistry/) for other topics and
 - **Chiral centre:** a carbon atom carrying four different atoms or groups.
 - **Optical isomers:** a pair of non-superimposable mirror images about a chiral centre (enantiomers).
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-amines--01-amine-classes.webp" width="900" height="1050" alt="Four panels show ethylamine (primary, 1 carbon on N), diethylamine (secondary, 2), trimethylamine (tertiary, 3) and the tetramethylammonium ion (quaternary, 4), with the carbons on N highlighted. A last panel shows (CH3)2CHNH2 is primary because only one carbon is on N." loading="lazy">
-  <figcaption>Amines are classed by the number of carbons bonded directly to nitrogen.</figcaption>
-</figure>
-
-
 ## Amino acid reactions at a glance
 
 | Group | Reagent | Conditions | What forms | General equation |
@@ -120,6 +114,17 @@ In both, the second mole of base removes the HCl. Writing "+ HCl" with one mole 
 
 The polyamides in 6.2.3 are linked by secondary amide groups. The same counting rule applies inside a long chain.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-amines--01-amine-classes.webp" width="900" height="1050" alt="Four panels show ethylamine (primary, 1 carbon on N), diethylamine (secondary, 2), trimethylamine (tertiary, 3) and the tetramethylammonium ion (quaternary, 4), with the carbons on N highlighted. A last panel shows (CH3)2CHNH2 is primary because only one carbon is on N." loading="lazy">
+  <figcaption>Amines are classed by the number of carbons bonded directly to nitrogen.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-amines--06-acyl-mechanism.webp" width="900" height="1230" alt="Addition-elimination: lone pair on N of methylamine attacks the delta-plus C=O carbon while the C=O pi bond moves onto O. In the tetrahedral intermediate the O- lone pair re-forms C=O and the C-Cl bond breaks to release Cl-. The product is N-methylethanamide, with methylammonium chloride from the second amine." loading="lazy">
+  <figcaption>Amines react with acyl chlorides by addition-elimination to give N-substituted amides.</figcaption>
+</figure>
+
+
 ## Optical isomerism: the essentials
 
 - Optical isomerism is a type of **stereoisomerism**, alongside E/Z and cis–trans (4.1.3).
@@ -136,6 +141,27 @@ The polyamides in 6.2.3 are linked by secondary amide groups. The same counting 
 5. Label every group on both isomers.
 
 A swap of any two groups on one chiral centre produces the other isomer. Use it to check whether two drawings are the same molecule or a mirror-image pair.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-optical-isomerism--03-enantiomer-drawing.webp" width="900" height="780" alt="Two 3D drawings of 2-aminopropanoic acid either side of a dashed mirror line. Enantiomer A has COOH up, H3C lower left, NH2 on a wedge and H on a hashed bond; B is the reflection with left and right swapped and wedge and hash unchanged. A key explains plain, wedge and hashed bonds." loading="lazy">
+  <figcaption>Draw the second enantiomer by reflecting across a mirror line: left and right swap, wedges stay wedges.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-optical-isomerism--05-polarimeter.webp" width="900" height="800" alt="A light path: lamp, polariser, tube of sample, analyser, eye. End-on dials show every plane after the lamp, one plane after the polariser, the plane turned clockwise through an angle alpha after the sample, and the analyser turned to the same angle. The angle turned is the angle of rotation. Edexcel specifies monochromatic light." loading="lazy">
+  <figcaption>A polarimeter measures how far an optically active sample turns the plane of plane-polarised light (Edexcel: monochromatic light).</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-optical-isomerism--06-racemate-cancels.webp" width="900" height="720" alt="Three tubes: one enantiomer rotates the plane clockwise by 25 degrees, its mirror image anticlockwise by 25 degrees, and a 1:1 racemate gives zero because the equal and opposite rotations cancel. Every molecule in the racemate is still chiral." loading="lazy">
+  <figcaption>Equal amounts of the two enantiomers give equal and opposite rotations, so a racemate shows no net rotation.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-optical-isomerism--08-sn1-sn2-evidence.webp" width="900" height="1110" alt="Edexcel only. SN1: one enantiomer of 3-chloro-3-methylheptane loses chloride to a planar carbocation; OH minus attacks either face, giving both enantiomers 1:1, a racemate with no rotation. SN2: hydroxide attacks 2-iodohexane from the side opposite iodine; the other three groups flip and a single inverted enantiomer forms, which is optically active." loading="lazy">
+  <figcaption>No rotation points to a planar intermediate (SN1); a single inverted enantiomer that rotates points to SN2 (Edexcel only).</figcaption>
+</figure>
+
 
 ## Finding chiral centres: fast elimination
 
@@ -205,6 +231,17 @@ Compare **whole** groups, not just the atom attached. CH₂CH₃ and CH₂CH₂C
 11. A bond pointing away from you, behind the page.
 12. They are optical isomers (non-superimposable mirror images).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-amines--04-substitution-ladder.webp" width="900" height="1280" alt="Ammonia reacts with RX to give primary, secondary, tertiary amines and finally a quaternary ammonium ion; the first four have a lone pair on N, the quaternary ion has none so the sequence stops. Excess NH3 favours primary, excess RX the quaternary salt. AQA and OxfordAQA also need long-chain quaternary ammonium salts as cationic surfactants." loading="lazy">
+  <figcaption>Repeated substitution gives primary, secondary, tertiary amines and a quaternary salt; long-chain quaternary salts are cationic surfactants (AQA, OxfordAQA).</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-amines--09-protein-structure.webp" width="900" height="1200" alt="Primary: order of amino acids joined by peptide links. Secondary: an alpha-helix or beta-pleated sheet held by hydrogen bonds between peptide links. Tertiary: the whole chain folded in 3D, held by hydrogen bonds and S-S bonds between side chains such as two cysteines." loading="lazy">
+  <figcaption>Primary, secondary and tertiary structure are held by peptide links, backbone hydrogen bonds, and side-chain bonds.</figcaption>
+</figure>
+
+
 ## Where marks are usually lost
 
 - Putting NH₃ instead of NH₂ in the general formula, or attaching R to nitrogen.
@@ -216,6 +253,12 @@ Compare **whole** groups, not just the atom attached. CH₂CH₃ and CH₂CH₂C
 - Swapping left and right and also turning the wedge into a hashed bond: that is the original molecule rotated, not its mirror image.
 - Marking the C=O carbon, a CH₂ or a ring carbon with two identical paths as chiral.
 - Defining optical isomers as "mirror images" without "non-superimposable".
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-optical-isomerism--04-non-superimposable.webp" width="900" height="970" alt="Ball-and-stick models of enantiomer A and its mirror image B. B is turned by a computed rotation so COOH and CH3 coincide with A; then NH2 and H are in each other places, marked with dashed rings and crosses, so B cannot be superimposed on A." loading="lazy">
+  <figcaption>Enantiomers are mirror images that cannot be superimposed: after lining up two groups, the other two are swapped.</figcaption>
+</figure>
+
 
 ## Official syllabus
 

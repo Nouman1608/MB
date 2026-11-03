@@ -188,22 +188,6 @@ alcohol + acid    ---->           ESTER + water
 substitution (11.4 outcomes 3–4, 11.5 outcomes 5–6), oxidising ethanol to ethanoic acid
 (11.7 outcome 2) and making an ester (11.7 outcome 3).
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/petroleum-alkanes-and-alkenes--04-chlorine-substitution.webp" width="900" height="950" alt="Methane reacts with chlorine in UV light. One hydrogen atom of methane is replaced by one chlorine atom, giving chloromethane and hydrogen chloride. Only one hydrogen is replaced (monosubstitution). It is substitution because nothing adds across a bond." loading="lazy">
-  <figcaption>In UV light one H of methane is swapped for one Cl: CH4 + Cl2 gives CH3Cl + HCl.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/petroleum-alkanes-and-alkenes--06-alkene-addition.webp" width="900" height="1060" alt="Ethene reacts by addition three ways. With bromine it gives 1,2-dibromoethane, with hydrogen (nickel catalyst) it gives ethane, and with steam (acid catalyst) it gives ethanol. The C=C bond becomes single and the added atoms, highlighted, attach to the two carbons. Only one product forms each time." loading="lazy">
-  <figcaption>Ethene adds Br2, H2 or H2O across C=C to give one product each.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/alcohols-and-carboxylic-acids--05-ethanol-oxidation.webp" width="900" height="900" alt="Displayed formulae show ethanol losing two hydrogen atoms from the CH2 carbon and gaining a double-bonded oxygen to become ethanoic acid, with water also made. Two ways to do it: acidified potassium manganate(VII) in the lab, and bacteria turning wine or cider into vinegar." loading="lazy">
-  <figcaption>Oxidation adds O and removes H, done by acidified manganate(VII) or by bacteria in vinegar making.</figcaption>
-</figure>
-
-
 ## Exam traps
 
 - Alkanes are saturated and relatively unreactive; alkenes are unsaturated and reactive.
@@ -228,3 +212,24 @@ substitution (11.4 outcomes 3–4, 11.5 outcomes 5–6), oxidising ethanol to et
 **Answers:** 1. CₙH₂ₙ. 2. Propan-1-ol or propan-2-ol (the formula C₃H₇OH fits both; it does not show where the –OH is) and butanoic acid (the carboxyl carbon counts, so C₃H₇COOH has four carbons). 3. Add bromine water: hexene decolourises it (orange-brown → colourless); hexane produces no change. 4. Butane — an unbranched chain of four carbons; methylpropane — a three-carbon chain with a CH₃ branch on the middle carbon. 5. Compounds sharing the same functional group and general formula, each differing from the next by CH₂, with a gradual trend in physical properties and similar chemical properties. (0620 Core needs only: a family of similar compounds with similar chemical properties due to the same functional group.) 6. C6H(2x6)+2 = **C₆H₁₄** (hexane; the name is background, beyond the four-carbon naming limit). 7. **Methyl ethanoate**. 8. Both are C₃H₇OH, but the –OH is on the end carbon in propan-1-ol and on the middle carbon in propan-2-ol — same molecular formula, different structure.
 
 For the full worked explanation with additional detail, see the [Organic Chemistry: Formulae and Naming study guide](/resources/organic-chemistry-formulae-and-naming/); for exam-style questions with full mark schemes, see the [Organic Chemistry practice questions](/resources/organic-chemistry-practice/).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/petroleum-alkanes-and-alkenes--04-chlorine-substitution.webp" width="900" height="950" alt="Methane reacts with chlorine in UV light. One hydrogen atom of methane is replaced by one chlorine atom, giving chloromethane and hydrogen chloride. Only one hydrogen is replaced (monosubstitution). It is substitution because nothing adds across a bond." loading="lazy">
+  <figcaption>In UV light one H of methane is swapped for one Cl: CH4 + Cl2 gives CH3Cl + HCl.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/petroleum-alkanes-and-alkenes--06-alkene-addition.webp" width="900" height="1060" alt="Ethene reacts by addition three ways. With bromine it gives 1,2-dibromoethane, with hydrogen (nickel catalyst) it gives ethane, and with steam (acid catalyst) it gives ethanol. The C=C bond becomes single and the added atoms, highlighted, attach to the two carbons. Only one product forms each time." loading="lazy">
+  <figcaption>Ethene adds Br2, H2 or H2O across C=C to give one product each.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/alcohols-and-carboxylic-acids--05-ethanol-oxidation.webp" width="900" height="900" alt="Displayed formulae show ethanol losing two hydrogen atoms from the CH2 carbon and gaining a double-bonded oxygen to become ethanoic acid, with water also made. Two ways to do it: acidified potassium manganate(VII) in the lab, and bacteria turning wine or cider into vinegar." loading="lazy">
+  <figcaption>Oxidation adds O and removes H, done by acidified manganate(VII) or by bacteria in vinegar making.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/alcohols-and-carboxylic-acids--06-esterification.webp" width="900" height="960" alt="Ethanoic acid and ethanol react with an acid catalyst to make the ester ethyl ethanoate and water. The OH from the acid and the H from the alcohol leave as water. The alcohol supplies the ethyl part of the name and the acid supplies the ethanoate part." loading="lazy">
+  <figcaption>An acid and an alcohol with an acid catalyst make an ester and water; ethyl comes from the alcohol, ethanoate from the acid.</figcaption>
+</figure>
+

@@ -32,12 +32,6 @@ These notes condense sections 4.3 and 4.4 of the OCR GCSE (9-1) Economics specif
 | Demand for a currency | from overseas buyers of exports, tourists and investors |
 | Supply of a currency | from residents buying imports, travelling and investing abroad |
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ocr-gcse-economics-exchange-rates-globalisation-and-measuring-development--02-fx-bakery-rates.webp" width="900" height="1130" alt="Two sets of bars for a bakery at exchange rates of 1.00, 1.25 and 1.60 dollars per pound. An 8 pound cake costs 8, 10 and 12.80 dollars abroad, so the appreciation to 1.60 makes it 28% dearer. The flour bill for 20 tonnes at 500 dollars a tonne is 10,000, 8,000 and 6,250 pounds. A higher pound makes exports dearer abroad and imports cheaper at home." loading="lazy">
-  <figcaption>When the pound rises the bakery cake costs more overseas but its imported flour costs less.</figcaption>
-</figure>
-
-
 ## Conversion: method in steps
 
 1. Write the rate as "£1 = X units of the foreign currency".
@@ -214,6 +208,12 @@ Composite measures, such as the Human Development Index, combine income, health 
 8. Any two of: life expectancy, access to health care, technology, education.
 9. Any two of: lower transport costs, communications technology, trade agreements, multinational companies.
 10. Environmental: pollution or resource depletion from rapid industrial growth. Economic: investment and jobs from multinational firms.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-economics-exchange-rates-globalisation-and-measuring-development--02-fx-bakery-rates.webp" width="900" height="1130" alt="Two sets of bars for a bakery at exchange rates of 1.00, 1.25 and 1.60 dollars per pound. An 8 pound cake costs 8, 10 and 12.80 dollars abroad, so the appreciation to 1.60 makes it 28% dearer. The flour bill for 20 tonnes at 500 dollars a tonne is 10,000, 8,000 and 6,250 pounds. A higher pound makes exports dearer abroad and imports cheaper at home." loading="lazy">
+  <figcaption>When the pound rises the bakery cake costs more overseas but its imported flour costs less.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

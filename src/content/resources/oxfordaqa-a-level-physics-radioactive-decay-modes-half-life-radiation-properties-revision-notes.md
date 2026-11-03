@@ -140,12 +140,6 @@ I = I₀/r²
 - Verify: plot corrected rate against 1/r², expect a straight line through the origin, or check rate × r² is constant.
 - Safe handling: tongs, distance, shielding, short exposure, a locked store.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-physics-nuclear-physics--05-aphy-nuclear-log-graph.webp" width="900" height="990" alt="ln of corrected count rate against time is a straight line falling from 6.461 to 4.710 over 50 minutes. The gradient is -0.0350 per minute, so lambda = 0.0350 per minute and the half-life is 19.8 minutes." loading="lazy">
-  <figcaption>A straight ln graph supports the exponential law and its gradient is minus lambda.</figcaption>
-</figure>
-
-
 ## Background radiation
 
 - Origins: radon from rocks, cosmic rays, ground and buildings, food, medical sources, fallout.
@@ -193,6 +187,17 @@ I = I₀/r²
 8. r rises by 2.5, so the rate falls by 6.25: 150 ÷ 6.25 = 24 s⁻¹.
 9. Gamma, because it passes through steel and its transmission varies with thickness, while beta is stopped.
 10. It is strongly ionising and deposits all its energy in a small volume of living tissue.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-nuclear-physics--03-aphy-nuclear-random-decay.webp" width="900" height="1170" alt="100 dice are thrown repeatedly and every six is removed. Which die goes is unpredictable, but the number left follows the smooth curve 100 x (5/6)^n, halving after about 3.8 throws." loading="lazy">
+  <figcaption>Each nucleus has a constant chance of decaying, so unpredictable single decays give a smooth exponential for a large sample.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-nuclear-physics--05-aphy-nuclear-log-graph.webp" width="900" height="990" alt="ln of corrected count rate against time is a straight line falling from 6.461 to 4.710 over 50 minutes. The gradient is -0.0350 per minute, so lambda = 0.0350 per minute and the half-life is 19.8 minutes." loading="lazy">
+  <figcaption>A straight ln graph supports the exponential law and its gradient is minus lambda.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

@@ -140,11 +140,6 @@ Electrolytic cell: anode **positive** (oxidation), cathode **negative** (reducti
   <figcaption>In aqueous electrolysis each ion competes with water: the more positive E° is reduced at the cathode, the less positive is oxidized at the anode.</figcaption>
 </figure>
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ib-dp-chemistry-electron-transfer-standard-electrode-potentials-and--07-conc-electrode-effects.webp" width="900" height="1040" alt="Four cells: concentrated NaCl gives H2 and Cl2; dilute NaCl gives H2 and O2; CuSO4 with graphite deposits copper and gives O2 as the blue colour fades; CuSO4 with copper electrodes deposits copper while the copper anode dissolves and the colour stays blue." loading="lazy">
-  <figcaption>Concentrated chloride gives chlorine, dilute gives oxygen, and a copper anode dissolves instead of releasing oxygen.</figcaption>
-</figure>
-
 
 ## Reactivity 3.2.16 Electroplating (HL only)
 
@@ -199,6 +194,12 @@ Use the data at the top of the page.
 10. **Cu(s) → Cu²⁺(aq) + 2e⁻**.
 11. From **chlorine** to mainly **oxygen**.
 12. Cathode: the **bolt**; anode: **zinc**; **Zn²⁺(aq) + 2e⁻ → Zn(s)**.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-chemistry-electron-transfer-standard-electrode-potentials-and--07-conc-electrode-effects.webp" width="900" height="1040" alt="Four cells: concentrated NaCl gives H2 and Cl2; dilute NaCl gives H2 and O2; CuSO4 with graphite deposits copper and gives O2 as the blue colour fades; CuSO4 with copper electrodes deposits copper while the copper anode dissolves and the colour stays blue." loading="lazy">
+  <figcaption>Concentrated chloride gives chlorine, dilute gives oxygen, and a copper anode dissolves instead of releasing oxygen.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

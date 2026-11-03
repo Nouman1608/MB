@@ -103,6 +103,11 @@ Change each month:  +4, +6, +8, -3, -9
   <figcaption>Read the changes, the steepest section and the peak, and only conclude what the data supports.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-mathematics-scatter-diagrams-correlation-and-cumulative-frequency--03-using-the-line.webp" width="900" height="870" alt="The line of best fit gives about 10.3 thousand dollars at age 6.5. A triangle shows a drop of 2.85 over 2 years, gradient -1.425, so the value falls about 1 400 dollars a year. Beyond age 9 the line is dotted in a shaded region marked outside the data; age 12 gives about 2.4, which is unreliable." loading="lazy">
+  <figcaption>Readings inside the data are reliable; extending the line beyond age 9 is not.</figcaption>
+</figure>
+
 
 ### Misleading graphs
 
@@ -229,6 +234,12 @@ A line of best fit is a straight line that follows the trend of the points.
 2. Place a ruler so the line follows the direction of the points, with roughly equal numbers of points above and below it.
 3. Draw it as one straight line. It does not need to pass through the origin or any particular point.
 4. Ignore outliers when positioning the line.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-mathematics-scatter-diagrams-correlation-and-cumulative-frequency--02-line-of-best-fit.webp" width="900" height="930" alt="Scatter diagram of age and value for nine cars with the mean point (5, 12.4) and a ruled line from (1, 18.1) to (9, 6.7) through it. Five points lie above the line (teal) and four below (orange), spread along its length." loading="lazy">
+  <figcaption>The line of best fit passes through the mean point and leaves about as many points on each side.</figcaption>
+</figure>
+
 
 ### Worked example 5
 

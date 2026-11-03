@@ -152,12 +152,6 @@ Links: hydrophobic R groups folding into the centre of globular proteins (2.3) a
 - **Polar vs non-polar.** Polar and charged substances dissolve; non-polar ones do not, because they cannot form hydrogen bonds with water.
 - **Solvent vs reactant.** Water dissolves substances (solvent action) and also takes part in hydrolysis (a reactant). For 2.4, the property asked for is solvent action.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-level-biology-9700-carbohydrates-and-lipids--03-water-heat.webp" width="900" height="1050" alt="Top: 500 kJ absorbed by 42 kg of liquid raises water by 2.85 degrees Celsius but a liquid with half the specific heat capacity by 5.67 degrees. Bottom: removing 90 kJ needs only 37.5 g of water to evaporate, compared with 21.5 kg of water warmed by 1 degree Celsius; to the same scale the evaporation bar is a sliver." loading="lazy">
-  <figcaption>Water warms slowly and removes a lot of heat when it evaporates.</figcaption>
-</figure>
-
-
 ## Quick self-test
 
 1. Which atom in a water molecule carries the δ− charge?
@@ -187,6 +181,17 @@ Links: hydrophobic R groups folding into the centre of globular proteins (2.3) a
 10. 0.9 × 2.4 = **2.16 kJ** (2.2 kJ).
 11. 50 × 2.4 = **120 kJ**.
 12. Water in and around the fish changes temperature slowly, so enzymes stay near their optimum and are not denatured by sudden heating.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-carbohydrates-and-lipids--03-water-heat.webp" width="900" height="1050" alt="Top: 500 kJ absorbed by 42 kg of liquid raises water by 2.85 degrees Celsius but a liquid with half the specific heat capacity by 5.67 degrees. Bottom: removing 90 kJ needs only 37.5 g of water to evaporate, compared with 21.5 kg of water warmed by 1 degree Celsius; to the same scale the evaporation bar is a sliver." loading="lazy">
+  <figcaption>Water warms slowly and removes a lot of heat when it evaporates.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-carbohydrates-and-lipids--05-condensation-hydrolysis.webp" width="900" height="1300" alt="Top: two alpha-glucose rings join; the OH on carbon 1 of one and the H of the OH on carbon 4 of the other leave as water, leaving a C-O-C glycosidic bond. The product is maltose, Mr 342 (180 + 180 - 18). Bottom: glycine and alanine join the same way; OH from glycine and H from alanine leave as water, forming a peptide bond. Gly-Ala has Mr 146 (75 + 89 - 18). Hydrolysis reverses each change by adding water." loading="lazy">
+  <figcaption>Condensation joins monomers and releases water; hydrolysis adds water and splits the bond.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

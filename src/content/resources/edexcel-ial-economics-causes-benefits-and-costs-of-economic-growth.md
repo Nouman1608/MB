@@ -203,6 +203,11 @@ For each benefit, state the link and then a limit.
   <figcaption>Growth lifts tax revenue, living standards and jobs, but less if population grows or skills are missing.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-edexcel-economics-economic-growth--04-total-and-per-capita-gdp.webp" width="900" height="870" alt="Country A has total GDP of $900bn and B $300bn, so A has the bigger economy. Dividing by population (A 90m, B 20m) gives $10,000 per person in A and $15,000 in B, so B has the higher income per person." loading="lazy">
+  <figcaption>Dividing by population allows a fairer comparison of countries of different sizes.</figcaption>
+</figure>
+
 
 ## Costs of growth (3a)
 
@@ -222,6 +227,16 @@ For each benefit, state the link and then a limit.
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/edexcel-ial-economics-causes-benefits-and-costs-of-economic-growth--04-emissions-area.webp" width="900" height="960" alt="Emissions are shown as the area of a rectangle, output wide and emissions per unit tall. Before is 100 by 100. After is 105 by 98, an area of 102.9, so total emissions rise 2.9% even though emissions per unit fall 2%." loading="lazy">
   <figcaption>Cleaner technology can fail to offset growth: 0.98 x 1.05 = 1.029.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-economics-the-basic-economic-problem--06-ppc-movement-opportunity-cost.webp" width="900" height="1050" alt="Three points on a PPC. Moving from 1 to 2 gains 20 Food and gives up 20 Machines; moving from 2 to 3 gains another 20 Food but gives up 60 Machines. Each extra unit of Food costs more Machines, which is why the curve bows outwards." loading="lazy">
+  <figcaption>Moving along a PPC reallocates resources, and the opportunity cost rises.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-economics-measurement-of-macroeconomic-performance--02-growth-vs-current-account.webp" width="900" height="1040" alt="A four-step chain: growth policy raises aggregate demand, incomes rise, some spending goes on imports, and the current account worsens. Bars show exports 100 and imports rising from 100 to 118, a deficit of 18." loading="lazy">
+  <figcaption>Growth policy can raise imports faster than exports, creating a short-run conflict.</figcaption>
 </figure>
 
 

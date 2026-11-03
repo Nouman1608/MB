@@ -130,6 +130,11 @@ properties. Separation is **physical**: no reaction, no new substance.
 | Separated by physical processes | Separated only by chemical reactions |
 
 <figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-chemistry-8462-atomic-structure--02-sea-water-two-steps.webp" width="900" height="1040" alt="Muddy sea water is filtered: sand stays on the filter paper and salt solution passes through. The filtrate is then distilled: water vapour is condensed to pure water and salt stays in the flask." loading="lazy">
+  <figcaption>Filter off the sand, then distil the water from the salt.</figcaption>
+</figure>
+
+<figure class="topic-figure">
   <img src="https://img.marlbridge.com/practical-techniques-titrations-chromatography-separation--06-filter-crystallise.webp" width="900" height="925" alt="Filtration: a mixture is poured through filter paper; the residue stays on the paper and the filtrate drips into a beaker. Crystallisation: a solution is heated so solvent evaporates, the saturated solution is cooled, and crystals form to be filtered and dried." loading="lazy">
   <figcaption>Filtration separates an insoluble solid; crystallisation recovers a dissolved solid.</figcaption>
 </figure>
@@ -166,6 +171,16 @@ indivisible spheres
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/atomic-structure--02-inside-an-atom.webp" width="900" height="980" alt="A carbon atom with a nucleus of 6 protons and 6 neutrons and electrons 2 and 4 in two shells. A table gives relative charge and mass: proton +1, 1; neutron 0, 1; electron -1, almost 0." loading="lazy">
   <figcaption>The nucleus holds protons and neutrons; electrons occupy shells around it.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/gcse-aqa-chemistry-atomic-structure-and-periodic-table--04-atom-model-history.webp" width="900" height="1070" alt="Five atom models in order: Dalton a tiny solid sphere; Thomson the plum pudding with electrons in a positive ball; Rutherford a tiny dense positive nucleus in mostly empty space; Bohr electrons in shells; then the discovery of the neutron, so the nucleus holds protons and neutrons." loading="lazy">
+  <figcaption>Each model of the atom replaced the one before as new evidence appeared.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/gcse-aqa-chemistry-atomic-structure-and-periodic-table--05-alpha-scattering.webp" width="900" height="950" alt="Alpha particles travel from a source towards gold foil. Most pass straight through, a few are deflected, and very few bounce back towards the source. This shows an atom is mostly empty space with a tiny, dense, positive nucleus. The drawing is schematic and the nucleus is drawn far too large." loading="lazy">
+  <figcaption>Rutherford: most alpha particles go straight through; very few bounce back, so the nucleus is tiny, dense and positive.</figcaption>
 </figure>
 
 
@@ -217,6 +232,11 @@ Worked reminder: ²⁴₁₂Mg²⁺ has 12 protons, 24 - 12 = 12 neutrons and 12
   <figcaption>Mass number minus proton number gives neutrons; electrons equal protons in an atom.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/atomic-structure--06-isotopes.webp" width="900" height="1150" alt="Chlorine-35 and chlorine-37 nuclei: both 17 protons, with 18 and 20 neutrons. Below, two identical electron arrangements, 2,8,7, show why isotopes have the same chemical properties." loading="lazy">
+  <figcaption>Isotopes differ in neutrons and mass number but share electrons and chemistry.</figcaption>
+</figure>
+
 
 ## 4.1.1.6 Relative atomic mass
 
@@ -237,6 +257,12 @@ Ar = (28 x 92 + 29 x 5 + 30 x 3) / 100
 ```
 
 Check the percentages add up to 100 before you start; if one is missing, it is 100 minus the others.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/atomic-structure--07-relative-atomic-mass.webp" width="900" height="1040" alt="100 chlorine atoms: 75 chlorine-35 and 25 chlorine-37. The weighted calculation gives 3550 / 100 = 35.5, marked on a number line nearer 35 than the plain average of 36, which is wrong." loading="lazy">
+  <figcaption>Relative atomic mass is a weighted average of isotope masses.</figcaption>
+</figure>
+
 
 ## 4.1.1.7 Electronic structure
 
@@ -283,6 +309,17 @@ Check the percentages add up to 100 before you start; if one is missing, it is 1
 10. (10 × 20 + 11 × 80) ÷ 100 = (200 + 880) ÷ 100 = **10.8**.
 11. Beryllium 2,2; phosphorus 2,8,5.
 12. K → K⁺ + e⁻
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/atomic-structure--05-atoms-and-ions.webp" width="900" height="940" alt="A sodium atom loses one electron to become Na+ (2,8, 10 electrons); a chlorine atom gains one to become Cl- (2,8,8, 18 electrons). The nucleus (11 or 17 protons) is unchanged." loading="lazy">
+  <figcaption>Removing or adding electrons changes the configuration and charge, never the protons.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/atomic-structure--04-shells-groups-periods.webp" width="900" height="965" alt="The first 20 elements drawn as shell diagrams in group columns and period rows, each labelled with symbol and configuration. Outer-shell electrons are gold and equal the group number; occupied shells equal the period number; Group VIII has full outer shells." loading="lazy">
+  <figcaption>Electronic configurations 1-20 and how to read group and period from them.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

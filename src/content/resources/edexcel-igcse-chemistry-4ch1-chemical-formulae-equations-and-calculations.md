@@ -265,6 +265,12 @@ empirical formula mass = 2 × 31 + 5 × 16 = 142
 
 Treat percentages as masses in 100 g, and keep three significant figures in the mole values.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/formulae-equations-and-the-mole--08-empirical-formula.webp" width="900" height="980" alt="Using example masses of 2.4 g carbon and 0.6 g hydrogen: moles are 0.2 and 0.6, ratio 1:3, empirical formula CH3 (mass 15). With Mr 30, multiply by 2 to give C2H6." loading="lazy">
+  <figcaption>Divide masses by Ar, divide by the smallest, then scale up using Mr for the molecular formula.</figcaption>
+</figure>
+
+
 ## 1.34C Concentration of solutions (Paper 2 only)
 
 Concentration in mol/dm³ is the amount of solute in 1 dm³ of solution. 1 dm³ = 1000 cm³.
@@ -288,6 +294,11 @@ To make 500 cm³ of 0.100 mol/dm³ sodium hydroxide you need 0.100 × 0.500 = 0.
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/edexcel-igcse-chemistry-4ch1-chemical-formulae-equations-and-calculations--07-make-500-cm3-solution.webp" width="900" height="960" alt="Three steps: 500 cm cubed is 0.500 dm cubed; 0.100 times 0.500 is 0.0500 mol; 0.0500 times 40 is 2.00 g of sodium hydroxide. A balance reading 2.00 g is drawn beside a volumetric flask filled to the 500 cm cubed mark." loading="lazy">
   <figcaption>Volume x concentration gives moles; moles x Mr gives the mass of solid to weigh out.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/formulae-equations-and-the-mole--07-concentration.webp" width="900" height="980" alt="Four beakers of 250 cm3, each with 0.5 mol, make 1 dm3 holding 2 mol, so concentration is 2 mol/dm3. 250 cm3 divided by 1000 is 0.25 dm3 and 0.5 divided by 0.25 is 2." loading="lazy">
+  <figcaption>Concentration is moles per dm3; convert cm3 to dm3 by dividing by 1000.</figcaption>
 </figure>
 
 

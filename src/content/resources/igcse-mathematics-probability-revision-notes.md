@@ -98,6 +98,11 @@ P(sum = 7) = 6/36 = 1/6
   <figcaption>With replacement the second branches repeat the first; multiply along paths and add the paths you want.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-probability--03-tree-without-replacement.webp" width="900" height="1020" alt="Same bag, first counter not replaced. After a red, 4 red and 3 blue remain (4/7, 3/7); after a blue, 5 red and 2 blue remain (5/7, 2/7). Both red is 5/8 x 4/7 = 5/14." loading="lazy">
+  <figcaption>Without replacement the second branches change because the bag has one fewer counter.</figcaption>
+</figure>
+
 
 ## Conditional probability *(Extended)*
 
@@ -113,17 +118,6 @@ P(B | A) means "the probability of B, given that A has already happened" -- it r
 P(A) = 0.3,  P(A and B) = 0.15
 P(B | A) = 0.15 / 0.3 = 0.5
 ```
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-mathematics-probability--04-conditional-venn.webp" width="900" height="910" alt="Venn diagram of 40 students: 12 French only, 6 both, 8 Spanish only, 14 neither. Given French, the sample space is the 18 in the French circle; 6 also study Spanish, so 6/18 = 1/3." loading="lazy">
-  <figcaption>Given a condition, only the part of the diagram that satisfies it counts.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-mathematics-probability--05-conditional-table.webp" width="900" height="780" alt="Two-way table of 60 students: boys 14 walk and 16 bus, girls 18 walk and 12 bus. Given a walker, use the walk column total 32; 18 are girls, so 18/32 = 9/16." loading="lazy">
-  <figcaption>From a table, the given condition picks one row or column as the whole sample space.</figcaption>
-</figure>
-
 
 ## Exam traps
 
@@ -145,7 +139,12 @@ P(B | A) = 0.15 / 0.3 = 0.5
 **Answers:** 1. They must each be between 0 and 1, and they must sum to 1. 2. When combining separate paths that both lead to the outcome required (an OR situation across whole paths) -- multiply along a single path, add across different qualifying paths. 3. Because it is calculated from a limited number of trials and will not usually match the theoretical probability exactly, especially for small samples. 4. 5/12: only the 12 chess players can be chosen, and 5 of them play tennis. 5. 2/7, since one blue counter has already been removed, leaving 2 blue and 5 red out of 7 remaining. 6. When there are two independent events, each with a small, fixed number of equally likely outcomes -- a grid of every combined outcome makes counting favourable outcomes straightforward.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-mathematics-probability--03-tree-without-replacement.webp" width="900" height="1020" alt="Same bag, first counter not replaced. After a red, 4 red and 3 blue remain (4/7, 3/7); after a blue, 5 red and 2 blue remain (5/7, 2/7). Both red is 5/8 x 4/7 = 5/14." loading="lazy">
-  <figcaption>Without replacement the second branches change because the bag has one fewer counter.</figcaption>
+  <img src="https://img.marlbridge.com/igcse-mathematics-probability--04-conditional-venn.webp" width="900" height="910" alt="Venn diagram of 40 students: 12 French only, 6 both, 8 Spanish only, 14 neither. Given French, the sample space is the 18 in the French circle; 6 also study Spanish, so 6/18 = 1/3." loading="lazy">
+  <figcaption>Given a condition, only the part of the diagram that satisfies it counts.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-probability--05-conditional-table.webp" width="900" height="780" alt="Two-way table of 60 students: boys 14 walk and 16 bus, girls 18 walk and 12 bus. Given a walker, use the walk column total 32; 18 are girls, so 18/32 = 9/16." loading="lazy">
+  <figcaption>From a table, the given condition picks one row or column as the whole sample space.</figcaption>
 </figure>
 

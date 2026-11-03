@@ -38,12 +38,6 @@ These notes condense section D2.2, **Gene expression**, of the IB *Biology guide
 | Epigenetic tag | Chemical group (such as a methyl group) on DNA or histones that changes expression without changing the base sequence |
 | Monozygotic twins | Twins from one zygote, with the same genome |
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ib-dp-biology-gene-expression-and-epigenetics-hl--01-transcription-control.webp" width="900" height="1020" alt="A stretch of DNA is shown twice: with no transcription factors RNA polymerase cannot attach and no mRNA forms; with transcription factors on the enhancer and promoter, polymerase attaches and mRNA is made. The enhancer is drawn far from the promoter and raises the rate. A transcription factor can also block attachment." loading="lazy">
-  <figcaption>Transcription factors bound to enhancer and promoter let RNA polymerase transcribe the gene.</figcaption>
-</figure>
-
-
 ## The pathway in one line
 
 Gene → **transcription** → mRNA → **translation** → polypeptide → **protein function** (for example an enzyme) → phenotype. Control can act at several points: whether transcription starts, how long mRNA lasts, and how the protein works.
@@ -141,12 +135,6 @@ new / old. State which is divided by which.
 | Lactose (bacteria) | Lactose-derived molecule binds repressor; genes are transcribed | One biochemical example |
 | Tryptophan (bacteria) | Tryptophan binds repressor; genes are blocked | Alternative biochemical example |
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ib-dp-biology-gene-expression-and-epigenetics-hl--09-lactose-repressor.webp" width="900" height="1290" alt="With no lactose the repressor binds the operator and blocks RNA polymerase; with lactose a lactose-derived molecule binds the repressor, which leaves the operator and the genes are transcribed. Wild-type beta-galactosidase rises 2 to 1400 (x700); a mutant whose repressor cannot bind is high either way (1380, 1420; x1.03). Tryptophan works the other way." loading="lazy">
-  <figcaption>Lactose releases the repressor so the genes switch on; a repressor mutant ignores lactose.</figcaption>
-</figure>
-
-
 ## Twin studies
 
 - Monozygotic twins share a genome, so differences in expression come from the environment.
@@ -186,6 +174,11 @@ Learn one clearly rather than three vaguely. The guide asks for one hormone and 
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/ib-dp-biology-gene-expression-and-epigenetics-hl--02-hormone-receptor.webp" width="900" height="1060" alt="A steroid hormone enters the cell and binds a receptor; the complex enters the nucleus, binds a DNA sequence and switches the gene on. Reporter activity with the receptor rises from 15 to 270 (x18, +1700%); without the receptor it stays at 14 and 16." loading="lazy">
   <figcaption>A hormone-receptor complex acts as a transcription factor: activity rises 18-fold only in cells with the receptor.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-gene-expression-and-epigenetics-hl--09-lactose-repressor.webp" width="900" height="1290" alt="With no lactose the repressor binds the operator and blocks RNA polymerase; with lactose a lactose-derived molecule binds the repressor, which leaves the operator and the genes are transcribed. Wild-type beta-galactosidase rises 2 to 1400 (x700); a mutant whose repressor cannot bind is high either way (1380, 1420; x1.03). Tryptophan works the other way." loading="lazy">
+  <figcaption>Lactose releases the repressor so the genes switch on; a repressor mutant ignores lactose.</figcaption>
 </figure>
 
 
@@ -251,6 +244,11 @@ Learn one clearly rather than three vaguely. The guide asks for one hormone and 
 10. It binds the repressor, which releases the operator, so the genes are transcribed.
 11. Retained epigenetic tags differ, so gene expression differs depending on the parent species.
 12. The DNA base sequence (genotype).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-biology-gene-expression-and-epigenetics-hl--01-transcription-control.webp" width="900" height="1020" alt="A stretch of DNA is shown twice: with no transcription factors RNA polymerase cannot attach and no mRNA forms; with transcription factors on the enhancer and promoter, polymerase attaches and mRNA is made. The enhancer is drawn far from the promoter and raises the rate. A transcription factor can also block attachment." loading="lazy">
+  <figcaption>Transcription factors bound to enhancer and promoter let RNA polymerase transcribe the gene.</figcaption>
+</figure>
 
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/ib-dp-biology-gene-expression-and-epigenetics-hl--03-mrna-half-life.webp" width="900" height="920" alt="Percentage of mRNA left against time for two mRNAs. Gene X (640, 320, 160, 80, 40 units at 0-12 h) has a half-life of 3 h. An mRNA with a half-life of 8 h has 12.5% left at 24 h, three half-lives." loading="lazy">

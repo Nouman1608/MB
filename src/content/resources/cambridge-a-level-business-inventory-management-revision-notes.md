@@ -39,6 +39,12 @@ These are condensed notes for section 4.2 Inventory management (4.2.1 and 4.2.2)
 | Supply chain | All the stages and firms from raw material to final customer |
 | Supply Chain Management (SCM) | Coordinating the flow of materials, information and payments along that chain |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-business-inventory-management--03-inv-supply-chain.webp" width="900" height="960" alt="Five links (supplier, maker, distributor, retailer, customer) with three flows: materials and goods forward, payments back, information both ways. Glenmere shares weekly sales so the supplier can prepare quantities." loading="lazy">
+  <figcaption>A supply chain carries materials, payments and information between linked businesses.</figcaption>
+</figure>
+
+
 ### Why inventory is held
 
 - Raw materials: keep production going, allow bulk buying.

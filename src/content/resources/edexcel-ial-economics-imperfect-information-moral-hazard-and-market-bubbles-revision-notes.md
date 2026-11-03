@@ -152,22 +152,6 @@ Other links: [Edexcel economics hub](/boards/edexcel/a-level/economics/), [print
 
 **Evaluation points.** Bubbles are hard to identify in real time. Some price rises reflect real improvements. Speculation can add information and liquidity. Harm depends on how far debt financed the boom. Effects differ by group and time.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/edexcel-ial-economics-imperfect-information-moral-hazard-and-market-bubbles--09-bubble-feedback-loops.webp" width="900" height="920" alt="Two clockwise loops. Boom: good news or cheap credit, price rises and early buyers gain, the herd copies and expectations rise, more credit funds more buying. Burst: a few sell and price dips, loss-making buyers must sell, expectations reverse, credit dries up and price falls." loading="lazy">
-  <figcaption>Positive feedback inflates a bubble, and the same feedback works downward when confidence breaks.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/edexcel-ial-economics-imperfect-information-moral-hazard-and-market-bubbles--03-housing-bubble-numbers.webp" width="900" height="1360" alt="A price index goes 100 to 180 to 126 and needs a 44.4 percent fall to return to 100 from 180. Rental yield falls from 5.00 to 2.78 percent as price rises from 200,000 to 360,000. A 250,000 house bought with a 225,000 loan falls to 175,000, giving equity of minus 50,000." loading="lazy">
-  <figcaption>Prices run ahead of rents, and a fall can leave buyers with negative equity.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/edexcel-ial-economics-imperfect-information-moral-hazard-and-market-bubbles--04-share-price-earnings-bubble.webp" width="900" height="900" alt="Share price 120 with earnings of 10 gives P/E 12; at 400 the P/E is 40 (33.3 if earnings reach 12). A buyer at 400 who sells at 150 loses 250, which is minus 62.5 percent." loading="lazy">
-  <figcaption>A boom lifts the P/E ratio far above normal; a crash hits late buyers hardest.</figcaption>
-</figure>
-
-
 ## Quick self-test
 
 1. State the difference between symmetric and asymmetric information.
@@ -193,6 +177,22 @@ Other links: [Edexcel economics hub](/boards/edexcel/a-level/economics/), [print
 8. It may have to fund bailouts or guarantees, which raises debt or taxes.
 9. 90.
 10. Construction job losses, or reduced mobility if homes cannot be sold.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-imperfect-information-moral-hazard-and-market-bubbles--09-bubble-feedback-loops.webp" width="900" height="920" alt="Two clockwise loops. Boom: good news or cheap credit, price rises and early buyers gain, the herd copies and expectations rise, more credit funds more buying. Burst: a few sell and price dips, loss-making buyers must sell, expectations reverse, credit dries up and price falls." loading="lazy">
+  <figcaption>Positive feedback inflates a bubble, and the same feedback works downward when confidence breaks.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-imperfect-information-moral-hazard-and-market-bubbles--03-housing-bubble-numbers.webp" width="900" height="1360" alt="A price index goes 100 to 180 to 126 and needs a 44.4 percent fall to return to 100 from 180. Rental yield falls from 5.00 to 2.78 percent as price rises from 200,000 to 360,000. A 250,000 house bought with a 225,000 loan falls to 175,000, giving equity of minus 50,000." loading="lazy">
+  <figcaption>Prices run ahead of rents, and a fall can leave buyers with negative equity.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-imperfect-information-moral-hazard-and-market-bubbles--04-share-price-earnings-bubble.webp" width="900" height="900" alt="Share price 120 with earnings of 10 gives P/E 12; at 400 the P/E is 40 (33.3 if earnings reach 12). A buyer at 400 who sells at 150 loses 250, which is minus 62.5 percent." loading="lazy">
+  <figcaption>A boom lifts the P/E ratio far above normal; a crash hits late buyers hardest.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

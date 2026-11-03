@@ -200,6 +200,11 @@ A limiting factor is whichever condition is lowest relative to what the plant co
   <figcaption>On the flat part another factor, not light, is limiting.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-enzymes--04-temperature-graph.webp" width="900" height="800" alt="Sketch graph of enzyme activity against temperature. Activity rises to a peak at the optimum (about 37 degrees Celsius for many human enzymes) then falls quickly to near zero. Cold enzymes are slow but not denatured; hot enzymes are denatured and do not recover on cooling." loading="lazy">
+  <figcaption>Activity peaks at the optimum temperature, then falls as the enzyme is denatured.</figcaption>
+</figure>
+
 
 ## B1.4f: Interaction of limiting factors (Higher Tier only)
 

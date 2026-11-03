@@ -98,6 +98,11 @@ Photophosphorylation (thylakoid membrane): light excites electrons in chlorophyl
 </figure>
 
 <figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-energy-and-respiration--03-glycolysis.webp" width="900" height="1120" alt="Glucose (6C) is phosphorylated using 2 ATP, the hexose bisphosphate splits into two triose phosphates, and each is oxidised to pyruvate, making reduced NAD and 2 ATP. Net per glucose: 2 ATP (4 made, 2 used), 2 reduced NAD and 2 pyruvate." loading="lazy">
+  <figcaption>Glycolysis uses 2 ATP and makes 4, a net gain of 2 ATP, 2 reduced NAD and 2 pyruvate.</figcaption>
+</figure>
+
+<figure class="topic-figure">
   <img src="https://img.marlbridge.com/a-level-biology-9700-energy-and-respiration--06-atp-yield.webp" width="900" height="910" alt="Aerobic respiration gives 32 ATP: 4 by substrate-level phosphorylation, 25 from 10 reduced NAD at 2.5 each and 3 from 2 reduced FAD at 1.5 each. Anaerobic respiration gives only the 2 ATP from glycolysis, so aerobic gives 16 times as much." loading="lazy">
   <figcaption>Using 2.5 and 1.5 ATP per reduced NAD and FAD, aerobic respiration gives 32 ATP against 2 anaerobically.</figcaption>
 </figure>
@@ -219,12 +224,6 @@ Questions often change one thing and ask for the effect. Work through the chain 
 10. It absorbs the carbon dioxide produced, so the movement of the drop shows oxygen used only.
 11. π × 0.5² × 18 = 14.1 mm³; 14.1 ÷ 6 = 2.4 mm³ min⁻¹.
 12. It takes in no oxygen, so dividing carbon dioxide by oxygen would mean dividing by zero.
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-level-biology-9700-energy-and-respiration--03-glycolysis.webp" width="900" height="1120" alt="Glucose (6C) is phosphorylated using 2 ATP, the hexose bisphosphate splits into two triose phosphates, and each is oxidised to pyruvate, making reduced NAD and 2 ATP. Net per glucose: 2 ATP (4 made, 2 used), 2 reduced NAD and 2 pyruvate." loading="lazy">
-  <figcaption>Glycolysis uses 2 ATP and makes 4, a net gain of 2 ATP, 2 reduced NAD and 2 pyruvate.</figcaption>
-</figure>
-
 
 ## Where marks are usually lost
 

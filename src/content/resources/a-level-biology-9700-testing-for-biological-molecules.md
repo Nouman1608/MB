@@ -227,6 +227,11 @@ A fruit extract gives **green** with Benedict's before hydrolysis and **orange**
 When the first test is already positive, you detect a non-reducing sugar only by comparing the two results, so standardise volumes and heating in both.
 
 <figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-carbohydrates-and-lipids--02-water-solvent.webp" width="900" height="1080" alt="Water molecules surround a sodium ion with their slightly negative oxygen atoms facing it, and surround a chloride ion with their slightly positive hydrogens facing it. A glucose ring with OH groups hydrogen bonds to water and dissolves. A non-polar triglyceride droplet cannot, so the water molecules bond to each other around it." loading="lazy">
+  <figcaption>Water dissolves ions and polar molecules, but not non-polar triglycerides.</figcaption>
+</figure>
+
+<figure class="topic-figure">
   <img src="https://img.marlbridge.com/a-level-biology-9700-carbohydrates-and-lipids--05-condensation-hydrolysis.webp" width="900" height="1300" alt="Top: two alpha-glucose rings join; the OH on carbon 1 of one and the H of the OH on carbon 4 of the other leave as water, leaving a C-O-C glycosidic bond. The product is maltose, Mr 342 (180 + 180 - 18). Bottom: glycine and alanine join the same way; OH from glycine and H from alanine leave as water, forming a peptide bond. Gly-Ala has Mr 146 (75 + 89 - 18). Hydrolysis reverses each change by adding water." loading="lazy">
   <figcaption>Condensation joins monomers and releases water; hydrolysis adds water and splits the bond.</figcaption>
 </figure>

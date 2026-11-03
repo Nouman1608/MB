@@ -64,42 +64,6 @@ control, distance between management and workers) and using an annotated
 long-run average cost (LRAC) curve to show where a business operates
 most efficiently
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-edexcel-economics-production-and-business-costs--01-four-factors-of-production.webp" width="900" height="960" alt="Four cards show land, labour, capital and enterprise, each with an icon and a short example. Land is farmland, water and minerals; labour is the work people do; capital is machines, tools and factories; enterprise organises the other three and takes the risk." loading="lazy">
-  <figcaption>Land, labour, capital and enterprise are the four factors of production.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-edexcel-economics-production-and-business-costs--02-three-sectors.webp" width="900" height="970" alt="Three cards describe the primary sector (extracting raw materials), secondary sector (making things) and tertiary sector (services). Two bars of illustrative job shares show a developing economy with mostly primary jobs and a developed economy with mostly tertiary jobs. A factory is secondary, not tertiary." loading="lazy">
-  <figcaption>As economies develop, jobs move from the primary sector towards the tertiary sector (illustrative shares).</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-edexcel-economics-production-and-business-costs--03-raising-productivity.webp" width="900" height="960" alt="Three rows pair each factor with ways to raise productivity. Land: fertiliser, drainage, irrigation, reclamation. Labour: education, training, migration. Capital: more and better machines through technological advances. An upward arrow in each row shows output rising." loading="lazy">
-  <figcaption>Each factor of production has its own ways of raising output per unit of input.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-edexcel-economics-production-and-business-costs--04-division-of-labour.webp" width="900" height="960" alt="Top: one worker does four tasks in turn. Below: four workers each do one task and pass the work on. The advantage for the firm is faster output; the disadvantage for workers is boredom and over-specialisation. Answers should give both sides." loading="lazy">
-  <figcaption>Splitting a job into tasks speeds up output but can leave workers bored and over-specialised.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-edexcel-economics-production-and-business-costs--05-revenue-costs-profit.webp" width="900" height="920" alt="A firm sells 1,000 units at $50. Total revenue is $50,000. Total costs of $35,000 are fixed costs $10,000 plus variable costs $25,000. Profit is $15,000. Average total cost is $35,000 divided by 1,000, which is $35 per unit, leaving $15 per unit of the $50 price." loading="lazy">
-  <figcaption>The lesson example in pictures: $50,000 revenue less $35,000 costs leaves $15,000 profit, and average cost is $35 a unit.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-edexcel-economics-production-and-business-costs--06-lrac-curve.webp" width="900" height="880" alt="A U-shaped long-run average cost curve with cost per unit against output. Cost falls while the firm gains economies of scale, reaches a lowest point at 500 units and $4 per unit where the firm is most efficient, then rises in the region of diseconomies of scale." loading="lazy">
-  <figcaption>Average cost falls with economies of scale, bottoms out at the efficient point, then rises with diseconomies of scale.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-edexcel-economics-production-and-business-costs--07-internal-external-economies.webp" width="900" height="1000" alt="Two panels. Internal economies come from one firm growing, for example bulk buying; the types are purchasing, marketing, technical, financial, managerial and risk-bearing. External economies come from the whole industry being located in one area and help every firm there; the types are skilled labour, infrastructure, suppliers nearby and similar firms nearby." loading="lazy">
-  <figcaption>Internal economies come from the firm's own size; external economies come from where the whole industry is located.</figcaption>
-</figure>
-
-
 ## How to approach it
 
 The four factors of production (1.2.1) are the organising idea for the
@@ -143,6 +107,12 @@ Average total cost  = total costs / units produced
 Being fluent moving between total figures and per-unit (average)
 figures, as shown in the last line, is a frequently tested skill in this
 sub-topic.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-economics-production-and-business-costs--05-revenue-costs-profit.webp" width="900" height="920" alt="A firm sells 1,000 units at $50. Total revenue is $50,000. Total costs of $35,000 are fixed costs $10,000 plus variable costs $25,000. Profit is $15,000. Average total cost is $35,000 divided by 1,000, which is $35 per unit, leaving $15 per unit of the $50 price." loading="lazy">
+  <figcaption>The lesson example in pictures: $50,000 revenue less $35,000 costs leaves $15,000 profit, and average cost is $35 a unit.</figcaption>
+</figure>
+
 
 ## Common mistakes
 
@@ -188,7 +158,39 @@ efficient point, and diseconomies of scale.
 lists.
 - Practise converting between total and average cost/revenue figures.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-economics-production-and-business-costs--07-internal-external-economies.webp" width="900" height="1000" alt="Two panels. Internal economies come from one firm growing, for example bulk buying; the types are purchasing, marketing, technical, financial, managerial and risk-bearing. External economies come from the whole industry being located in one area and help every firm there; the types are skilled labour, infrastructure, suppliers nearby and similar firms nearby." loading="lazy">
+  <figcaption>Internal economies come from the firm's own size; external economies come from where the whole industry is located.</figcaption>
+</figure>
+
+
 ## Official syllabus
 
 Pearson Edexcel International GCSE Economics (4EC1) specification, Issue
 3 — [qualifications.pearson.com](https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/Economics/2017/Specification%20and%20SAMS/international-gcse-spec-9781446942789.pdf).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-economics-production-and-business-costs--01-four-factors-of-production.webp" width="900" height="960" alt="Four cards show land, labour, capital and enterprise, each with an icon and a short example. Land is farmland, water and minerals; labour is the work people do; capital is machines, tools and factories; enterprise organises the other three and takes the risk." loading="lazy">
+  <figcaption>Land, labour, capital and enterprise are the four factors of production.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-economics-production-and-business-costs--02-three-sectors.webp" width="900" height="970" alt="Three cards describe the primary sector (extracting raw materials), secondary sector (making things) and tertiary sector (services). Two bars of illustrative job shares show a developing economy with mostly primary jobs and a developed economy with mostly tertiary jobs. A factory is secondary, not tertiary." loading="lazy">
+  <figcaption>As economies develop, jobs move from the primary sector towards the tertiary sector (illustrative shares).</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-economics-production-and-business-costs--03-raising-productivity.webp" width="900" height="960" alt="Three rows pair each factor with ways to raise productivity. Land: fertiliser, drainage, irrigation, reclamation. Labour: education, training, migration. Capital: more and better machines through technological advances. An upward arrow in each row shows output rising." loading="lazy">
+  <figcaption>Each factor of production has its own ways of raising output per unit of input.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-economics-production-and-business-costs--04-division-of-labour.webp" width="900" height="960" alt="Top: one worker does four tasks in turn. Below: four workers each do one task and pass the work on. The advantage for the firm is faster output; the disadvantage for workers is boredom and over-specialisation. Answers should give both sides." loading="lazy">
+  <figcaption>Splitting a job into tasks speeds up output but can leave workers bored and over-specialised.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-economics-production-and-business-costs--06-lrac-curve.webp" width="900" height="880" alt="A U-shaped long-run average cost curve with cost per unit against output. Cost falls while the firm gains economies of scale, reaches a lowest point at 500 units and $4 per unit where the firm is most efficient, then rises in the region of diseconomies of scale." loading="lazy">
+  <figcaption>Average cost falls with economies of scale, bottoms out at the efficient point, then rises with diseconomies of scale.</figcaption>
+</figure>
+

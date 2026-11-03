@@ -87,11 +87,6 @@ All figures are invented and illustrative. Currency units are "cu". Also see the
   <figcaption>A tax equal to the external cost moves output from the market level to the socially optimal level.</figcaption>
 </figure>
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-level-economics-government-microeconomic-intervention--02-subsidy-incidence.webp" width="900" height="890" alt="Supply and demand diagram where a subsidy of 2 per unit shifts supply down from S1 to S2. Quantity rises from 50 to 60, the consumer price falls from 5 to 3.8 (gain 1.2 a unit) and the producer receives 5.8 (gain 0.8 a unit). The government pays 2 a unit." loading="lazy">
-  <figcaption>A subsidy lowers the price consumers pay and raises what producers receive; the split depends on elasticity.</figcaption>
-</figure>
-
 
 ## Small worked reminders
 
@@ -124,6 +119,12 @@ All figures are invented and illustrative. Currency units are "cu". Also see the
 - **Energy:** taxes and subsidies, price caps for households, efficiency standards.
 - **Agriculture:** guaranteed prices and subsidies to stabilise incomes.
 - **Commodities:** minimum (guaranteed) prices to support producers when prices are volatile.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-economics-government-microeconomic-intervention--05-tool-matching.webp" width="900" height="900" alt="A matching diagram joining four problems to six tools. Public good not provided: direct provision. Merit good under-consumed: direct provision, subsidy, information. Demerit good over-consumed: information, indirect tax, minimum price. Price too high or too low: maximum or minimum price, buffer stock." loading="lazy">
+  <figcaption>Match the tool to the problem: the mechanism, not just the name, earns marks.</figcaption>
+</figure>
+
 
 ## Evaluation toolkit
 
@@ -195,8 +196,18 @@ Test: welfare after intervention is lower than welfare before.
 10. The tax per unit is a fixed percentage of price, so it is larger at higher prices.
 
 <figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-government-intervention-and-government-failure-in--02-rent-cap-shortage.webp" width="900" height="1000" alt="Flats market with demand Qd = 1,000 - 2R and supply Qs = 3R - 500. A cap at 250 gives 250 flats supplied against 500 demanded, a shortage of 250; tenants would pay 375 at 250 flats, a gap of 125. The welfare loss is 9,375 cu a month." loading="lazy">
+  <figcaption>A cap below equilibrium rent leaves 250 flats short and a 9,375 cu monthly welfare loss.</figcaption>
+</figure>
+
+<figure class="topic-figure">
   <img src="https://img.marlbridge.com/a-level-economics-government-microeconomic-intervention--01-tax-incidence.webp" width="900" height="1320" alt="Two supply and demand diagrams with a tax of 3 per unit shifting supply up from S1 to S2. With steep (inelastic) demand consumers pay 2.2 of the tax and producers 0.8; quantity falls from 50 to 40. With flat (elastic) demand consumers pay 0.6 and producers 2.4; quantity falls from 50 to 20. The more inelastic side bears more of the tax." loading="lazy">
   <figcaption>The more inelastic side of the market bears the larger share of an indirect tax.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-economics-government-microeconomic-intervention--02-subsidy-incidence.webp" width="900" height="890" alt="Supply and demand diagram where a subsidy of 2 per unit shifts supply down from S1 to S2. Quantity rises from 50 to 60, the consumer price falls from 5 to 3.8 (gain 1.2 a unit) and the producer receives 5.8 (gain 0.8 a unit). The government pays 2 a unit." loading="lazy">
+  <figcaption>A subsidy lowers the price consumers pay and raises what producers receive; the split depends on elasticity.</figcaption>
 </figure>
 
 

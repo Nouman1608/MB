@@ -52,11 +52,6 @@ Test yourself afterwards with the [practice questions](/resources/ib-dp-mathemat
   <figcaption>y = 1/x is symmetric about y = x, which is the graphical sign that it is its own inverse.</figcaption>
 </figure>
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ib-dp-mathematics-aa-sl-rational-exponential-log-functions-transformations--03-exponential-family.webp" width="900" height="1030" alt="Graphs of 2 to the x, e to the x and (1/2) to the x. All pass through (0, 1) and have horizontal asymptote y = 0. The first two grow and the third decays. A dashed curve e to the (x ln 2) lies exactly on top of 2 to the x." loading="lazy">
-  <figcaption>Every y = aˣ passes through (0, 1) and approaches y = 0; a &gt; 1 grows, 0 &lt; a &lt; 1 decays, and aˣ = e^(x ln a).</figcaption>
-</figure>
-
 
 ## Key results
 
@@ -139,6 +134,12 @@ Not required at SL: transformations of the form f(ax + b).
 3. Vertical translation by b.
 4. Track key points and every asymptote through each step.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-aa-sl-rational-exponential-log-functions-transformations--05-graphical-solution-ln.webp" width="900" height="950" alt="Graph of y = ln(x + 3), existing only for x greater than -3, and the line y = x - 1. They intersect at x = -2.98, very close to the vertical asymptote x = -3, and at x = 2.75." loading="lazy">
+  <figcaption>Graph both sides and find the intersections; the first root sits just right of the asymptote x = −3, so check your window.</figcaption>
+</figure>
+
+
 ## Small worked reminders
 
 **Inverse pair.** f(x) = 5ˣ has inverse f⁻¹(x) = log₅ x. The domain of f⁻¹ is x > 0, which is the range of f. So f⁻¹(125) = 3, because 5³ = 125.
@@ -162,6 +163,16 @@ t = 15.7 years (3 s.f.)
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/ib-dp-mathematics-aa-sl-rational-exponential-log-functions-transformations--02-rational-asymptotes-intercepts.webp" width="900" height="1020" alt="Graph of y = (2x + 5)/(x + 1) with dashed vertical asymptote x = -1 and dashed horizontal asymptote y = 2. The branch on the right passes through (0, 5); the branch on the left passes through (-2.5, 0). The function also equals 2 + 3/(x + 1)." loading="lazy">
   <figcaption>Find the asymptotes and the two intercepts first, then place each branch in the region its intercept lies in.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-aa-sl-rational-exponential-log-functions-transformations--03-exponential-family.webp" width="900" height="1030" alt="Graphs of 2 to the x, e to the x and (1/2) to the x. All pass through (0, 1) and have horizontal asymptote y = 0. The first two grow and the third decays. A dashed curve e to the (x ln 2) lies exactly on top of 2 to the x." loading="lazy">
+  <figcaption>Every y = aˣ passes through (0, 1) and approaches y = 0; a &gt; 1 grows, 0 &lt; a &lt; 1 decays, and aˣ = e^(x ln a).</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-mathematics-aa-sl-rational-exponential-log-functions-transformations--06-exponential-model-halving.webp" width="900" height="950" alt="Decay curve of C = 12e to the minus 0.2t against time in hours. It starts at 12, falls to 6 at about 3.47 hours and to 3 at about 6.93 hours, which is 5 ln 4. The concentration has halved twice." loading="lazy">
+  <figcaption>Solving 12e^(−0.2t) = 3 gives t = 5 ln 4 ≈ 6.93 hours, which is two halvings of 3.47 hours.</figcaption>
 </figure>
 
 

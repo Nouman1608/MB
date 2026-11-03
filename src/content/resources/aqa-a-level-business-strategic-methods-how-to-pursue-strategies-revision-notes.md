@@ -278,6 +278,12 @@ Growth abroad often depends on digital tools such as e-commerce. Innovation may 
 11. Cash is tied up in stock and trade receivables, so it cannot pay suppliers and wages on time.
 12. For example, a new automated production line or a new online booking system.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-business-strategic-methods-how-to-pursue-strategies--01-integration-four-types.webp" width="900" height="840" alt="A bakery chain in the centre. Above it a rival bakery chain: horizontal integration, which raises market share. Left, a flour mill: vertical backward, securing supply. Right, cafes: vertical forward, securing outlets. Below, a fitness centre in an unrelated industry: conglomerate, spreading risk with little synergy." loading="lazy">
+  <figcaption>Which firm the bakery buys decides the type of integration.</figcaption>
+</figure>
+
+
 ## Where marks are usually lost
 
 - Defining terms but not applying them to the business in the case.

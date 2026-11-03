@@ -76,6 +76,12 @@ Course hub: [Edexcel A Level Mathematics](/boards/edexcel/a-level/mathematics/).
 
 Half angles: put A = θ/2. For example cos θ ≡ 1 − 2 sin²(θ/2), so sin²(θ/2) = (1 − cos θ)/2. The sign of the square root depends on the quadrant of θ/2.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-maths-9709-pure-mathematics-1-circular-measure--01-unit-circle-any-angle.webp" width="900" height="850" alt="A circle of radius 1 with P at 210 degrees, measured anticlockwise from the positive x-axis. P = (cos 210°, sin 210°) = (−√3/2, −1/2) lies in the third quadrant, with reference angle 30°. Corner notes give where sin, cos and tan are positive." loading="lazy">
+  <figcaption>The point P on the unit circle gives cos θ and sin θ for any angle, and its quadrant gives the signs.</figcaption>
+</figure>
+
+
 ## Method boxes
 
 **Equation with a double angle**
@@ -111,6 +117,22 @@ Half angles: put A = θ/2. For example cos θ ≡ 1 − 2 sin²(θ/2), so sin²(
 | r cos(θ + α) | a = r cos α, b = −r sin α |
 | r sin(θ + α) | a = r sin α, b = r cos α |
 | r sin(θ − α) | a = −r sin α, b = r cos α |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-maths-9709-pure-mathematics-1-circular-measure--02-exact-value-triangles.webp" width="900" height="948" alt="Two right-angled triangles: legs 1, 1 and hypotenuse √2 (45°, 45°); and half an equilateral triangle with sides 1, √3, 2 (30°, 60°). A table gives sin, cos and tan of 30°, 45° and 60° read from them, with radian equivalents." loading="lazy">
+  <figcaption>Two triangles generate every exact value you need for 30°, 45° and 60°.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-maths-9709-pure-mathematics-1-circular-measure--03-sector-triangle-segment.webp" width="900" height="765" alt="A sector of radius 10 cm and angle π/3 has area 50π/3. Subtracting the triangle of area 25√3 leaves the segment, ½r²(θ − sin θ), about 9.06 cm². The arc length is rθ = 10π/3 cm and θ must be in radians." loading="lazy">
+  <figcaption>Segment area is sector area minus triangle area.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-maths-9709-pure-mathematics-1-circular-measure--04-which-rule.webp" width="900" height="846" alt="Four triangles show the given information. Two sides and the angle between (SAS) or three sides (SSS) need the cosine rule: missing side 9.23, largest angle 96.4°. Two angles and a side (AAS) need the sine rule: missing side 22.9. Two sides and a non-included angle (SSA) use the sine rule but may have two answers." loading="lazy">
+  <figcaption>Match the known sides and angles to the rule: cosine for SAS and SSS, sine for AAS and SSA.</figcaption>
+</figure>
+
 
 ## Small worked reminders
 
@@ -166,12 +188,6 @@ range: π/6 ≤ θ + π/6 < 13π/6
 - **Period of cot versus cosec:** cot repeats every 180°, cosec every 360°.
 - **Identity versus equation:** an identity (≡) holds for all θ. An equation has solutions in an interval.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-level-maths-9709-pure-mathematics-1-circular-measure--06-trig-graphs.webp" width="900" height="930" alt="y = sin x and y = cos x over 0 to 360° have period 360° and range −1 to 1; cos is sin shifted. y = tan x has period 180°, zeros at 0, 180 and 360 degrees, passes through 1 at 45° and 225°, and has asymptotes at 90° and 270°." loading="lazy">
-  <figcaption>Sine and cosine repeat every 360°; tangent repeats every 180° and has asymptotes.</figcaption>
-</figure>
-
-
 ## Quick self-test
 
 1. Find the exact value of cosec(7π/6).
@@ -203,8 +219,8 @@ range: π/6 ≤ θ + π/6 < 13π/6
 12. sec θ = 1/cos θ, so cos θ = 2.5. Cosine never exceeds 1, so **there are no solutions**.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-level-maths-9709-pure-mathematics-1-circular-measure--02-exact-value-triangles.webp" width="900" height="948" alt="Two right-angled triangles: legs 1, 1 and hypotenuse √2 (45°, 45°); and half an equilateral triangle with sides 1, √3, 2 (30°, 60°). A table gives sin, cos and tan of 30°, 45° and 60° read from them, with radian equivalents." loading="lazy">
-  <figcaption>Two triangles generate every exact value you need for 30°, 45° and 60°.</figcaption>
+  <img src="https://img.marlbridge.com/a-level-maths-9709-pure-mathematics-1-circular-measure--06-trig-graphs.webp" width="900" height="930" alt="y = sin x and y = cos x over 0 to 360° have period 360° and range −1 to 1; cos is sin shifted. y = tan x has period 180°, zeros at 0, 180 and 360 degrees, passes through 1 at 45° and 225°, and has asymptotes at 90° and 270°." loading="lazy">
+  <figcaption>Sine and cosine repeat every 360°; tangent repeats every 180° and has asymptotes.</figcaption>
 </figure>
 
 

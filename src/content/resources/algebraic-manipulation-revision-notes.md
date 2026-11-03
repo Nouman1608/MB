@@ -174,12 +174,6 @@ multiply by the reciprocal of the second fraction:
 - **Add or subtract** using a common denominator.
 - **Divide** by multiplying by the reciprocal.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/algebraic-manipulation--05-cancel-factors-graph.webp" width="900" height="1060" alt="The fraction factorises to x(x minus 2) over (x minus 2)(x minus 3), which cancels to x over (x minus 3), x not 2 or 3. The graph of x over (x minus 3) has dashed lines at x = 3 and y = 1; the original fraction has the same graph with an open circle gap at (2, minus 2)." loading="lazy">
-  <figcaption>Cancelling a common factor gives the same graph, except the original has a gap where the factor was zero.</figcaption>
-</figure>
-
-
 ## Exam traps
 
 - `(x + a)² ≠ x² + a²` — the middle term 2ax is compulsory.
@@ -197,3 +191,9 @@ multiply by the reciprocal of the second fraction:
 5. How many real roots has 2x² + 3x + 5?
 
 **Answers:** 1. 2x² + 10x − 3x − 15 = **2x² + 7x − 15**. 2. 3(x² − 9) = **3(x + 3)(x − 3)**. 3. **(x − 5)² − 18**. 4. (x+3)(x−3) / (x+3)(x+1) = **(x − 3)/(x + 1)**. 5. b² − 4ac = 9 − 40 = −31, negative → **no real roots**.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/algebraic-manipulation--05-cancel-factors-graph.webp" width="900" height="1060" alt="The fraction factorises to x(x minus 2) over (x minus 2)(x minus 3), which cancels to x over (x minus 3), x not 2 or 3. The graph of x over (x minus 3) has dashed lines at x = 3 and y = 1; the original fraction has the same graph with an open circle gap at (2, minus 2)." loading="lazy">
+  <figcaption>Cancelling a common factor gives the same graph, except the original has a gap where the factor was zero.</figcaption>
+</figure>
+

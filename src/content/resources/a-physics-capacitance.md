@@ -196,6 +196,11 @@ discharges through a given resistance: a larger RC means slower discharge.
 </figure>
 
 <figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-capacitance--08-half-time-constant-ratio.webp" width="900" height="930" alt="An exponential decay halves in every equal time step T1/2 = 0.693 RC, wherever you start. For RC = 47 s, T1/2 is about 33 s. A straight-line fall loses a constant amount; a decay loses a constant fraction." loading="lazy">
+  <figcaption>Each half-time halves the quantity, which is the constant-ratio property of exponential decay.</figcaption>
+</figure>
+
+<figure class="topic-figure">
   <img src="https://img.marlbridge.com/a-physics-capacitance--09-ln-graph-find-rc.webp" width="900" height="1230" alt="Potential difference readings for a discharging capacitor lie on a curve. Plotting ln V against t gives a straight line of gradient minus 0.0500 per second, so RC = 20.0 s. With R = 100 kilohm, C = 200 microfarad. For charging, plot ln(V0 - V) instead." loading="lazy">
   <figcaption>A ln V against t graph is a straight line whose gradient is minus 1/RC.</figcaption>
 </figure>

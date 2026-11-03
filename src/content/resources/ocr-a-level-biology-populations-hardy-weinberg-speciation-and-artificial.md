@@ -153,6 +153,12 @@ A **species** is a group of organisms that can interbreed to produce fertile off
 4. Allele frequencies diverge over many generations.
 5. If the barrier is removed, the groups cannot interbreed to produce fertile offspring, so they are separate species.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-selection-and-evolution--01-polygenes-bell-curve.webp" width="900" height="1040" alt="A bar chart of offspring from AaBbCc x AaBbCc across 0 to 6 height-adding alleles: 1, 6, 15, 20, 15, 6, 1 out of 64. A plant under each bar gets taller as the number of adding alleles rises. Many small additive genes, blurred by the environment, give a smooth continuous range." loading="lazy">
+  <figcaption>Many genes with small additive effects give a bell-shaped distribution of offspring.</figcaption>
+</figure>
+
+
 ### Reproductive mechanisms: sympatric speciation
 
 *Sym-* means same. The populations share an area but stop interbreeding because of a reproductive barrier. Examples:

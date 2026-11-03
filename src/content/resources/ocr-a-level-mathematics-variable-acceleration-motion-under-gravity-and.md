@@ -33,6 +33,12 @@ This guide teaches content references 3.02f to 3.02i of the OCR A Level Mathemat
 
 For 3.02i you must be able to use horizontal and vertical equations of motion, find the magnitude and direction of velocity, find the range on a horizontal plane and the greatest height, and derive and use the cartesian equation of the trajectory. Projectiles on an inclined plane and problems with resistive forces are excluded. The specification says you may take g as 9.8 m s⁻², and this guide does so.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-kinematics--03-suvat-trapezium.webp" width="900" height="920" alt="A straight-line velocity-time graph from 5 to 13 m/s over 4 s has gradient 2. The area is a 36 m trapezium that splits into a rectangle of 20 and a triangle of 16. These give v = u + at, s = ½(u+v)t, s = ut + ½at², and eliminating t gives v² = u² + 2as." loading="lazy">
+  <figcaption>The suvat equations are the gradient and area of one straight-line velocity-time graph.</figcaption>
+</figure>
+
+
 ## Variable acceleration in one dimension (3.02f)
 
 When acceleration changes with time, the constant acceleration formulae no longer apply. Use calculus instead.
@@ -81,6 +87,12 @@ t = (6 + √76)/4 = (3 + √19)/2 ≈ 3.68 s
 
 The other root is negative, so it is rejected.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-kinematics--05-calculus-turning-points.webp" width="900" height="1040" alt="Two graphs share a time axis. Displacement x = 2t³ − 15t² + 24t reaches 11 m at t = 1, minus 16 m at t = 4 and minus 5 m at t = 5. Velocity, its derivative, is zero at t = 1 and 4 and negative between. Displacement is minus 5 m but distance is 11 + 27 + 11 = 49 m." loading="lazy">
+  <figcaption>Find where v = 0, split the motion there, and add the sizes of the stages for distance.</figcaption>
+</figure>
+
+
 ## Two dimensions (3.02g, A Level only)
 
 Write position as r = f(t)i + g(t)j, or as a column vector. Differentiate or integrate each component separately.
@@ -125,6 +137,11 @@ Parallel to i means 4t − 3 = 0, so **t = 3/4 s**. At that time v = (3 × 9/16 
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/aqa-a-level-mathematics-kinematics--01-distance-displacement.webp" width="900" height="910" alt="A number line from minus 4 to 14 m shows a particle moving 12 m forward, 5 m back and 9 m back, ending at minus 2 m after 20 s. Distance is 26 m, giving average speed 1.3 m/s. Displacement is minus 2 m, giving average velocity minus 0.1 m/s." loading="lazy">
   <figcaption>Distance adds every leg; displacement only compares start and end, so the two averages differ.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-mathematics-kinematics--02-vt-graph-areas.webp" width="900" height="900" alt="A velocity-time graph rises to 12 m/s in 5 s, stays level to t = 11, then falls to minus 4 m/s at t = 15, crossing zero at t = 14. The areas are 30, 72, 18 above the axis and 2 below. Displacement is 118 m and distance 122 m." loading="lazy">
+  <figcaption>Gradients give acceleration; areas give displacement, and distance counts every area as positive.</figcaption>
 </figure>
 
 

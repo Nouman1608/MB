@@ -60,11 +60,6 @@ A memory aid: Dear King Philip Came Over For Good Soup.
   <figcaption>Each rank sits wholly inside the one above, and closer relatives share more ranks.</figcaption>
 </figure>
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-level-biology-9700-classification-biodiversity-and-conservation--03-dna-comparison.webp" width="900" height="1000" alt="Four 24-base sequences A to D are aligned with differences from A highlighted. B differs at 1 base (4.2%), C at 5 (20.8%) and D at 9 (37.5%). Fewer differences mean a more recent common ancestor." loading="lazy">
-  <figcaption>Fewer base differences mean a more recent common ancestor.</figcaption>
-</figure>
-
 
 ## 4.2.2(b) Binomial system
 
@@ -182,6 +177,11 @@ Quick check: 16 differences in 160 bases gives 16 ÷ 160 × 100 = 10.0 % differe
 12. Similar appearance can come from living in similar ways, not from a recent common ancestor. Sequence data show the true relationship.
 
 <figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-classification-biodiversity-and-conservation--03-dna-comparison.webp" width="900" height="1000" alt="Four 24-base sequences A to D are aligned with differences from A highlighted. B differs at 1 base (4.2%), C at 5 (20.8%) and D at 9 (37.5%). Fewer differences mean a more recent common ancestor." loading="lazy">
+  <figcaption>Fewer base differences mean a more recent common ancestor.</figcaption>
+</figure>
+
+<figure class="topic-figure">
   <img src="https://img.marlbridge.com/a-level-biology-9700-classification-biodiversity-and-conservation--06-richness-evenness.webp" width="900" height="950" alt="Two grids of 100 individuals have four species each. Site X is even (25 each) with D 0.75 and d 4.1; Site Y has 91 of one species and 3 of each other with D 0.17 and d 1.2. A higher value means a more diverse community." loading="lazy">
   <figcaption>Same richness, very different evenness, and both indices separate them.</figcaption>
 </figure>
@@ -201,6 +201,12 @@ Quick check: 16 differences in 160 bases gives 16 ÷ 160 × 100 = 10.0 % differe
 - Failing to state which evidence supports a relationship when asked to "suggest" one.
 - Quoting a percentage difference when the question asks for percentage similarity, or the other way round.
 - Writing "Archaea have no organelles" when the point is that they lack a nucleus and other membrane-bound organelles.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-classification-biodiversity-and-conservation--05-lincoln-index.webp" width="900" height="1010" alt="Catch 1 shows 48 marked beetles released. Catch 2 shows 60 beetles of which 12 are marked, one in five. So the 48 marked are one fifth of the population, giving N = 5 x 48 = 240, the same as 48 x 60 / 12." loading="lazy">
+  <figcaption>The marked fraction in the second catch tells you what fraction of the population the first catch was.</figcaption>
+</figure>
+
 
 ## Official syllabus
 

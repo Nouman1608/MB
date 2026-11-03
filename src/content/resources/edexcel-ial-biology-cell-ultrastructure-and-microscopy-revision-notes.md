@@ -223,12 +223,6 @@ A shortcut that skips the magnification is real size = (structure length ÷ bar 
 - Pili: let a bacterium stick to a surface or to another cell.
 - Capsule: a protective layer that also helps a colony stay attached.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-level-aqa-biology-eukaryotic-and-prokaryotic-cell-structure--03-energy-organelles.webp" width="900" height="890" alt="A mitochondrion with a double membrane, an inner membrane folded into cristae and a fluid matrix containing circular DNA and 70S ribosomes; it carries out aerobic respiration. Below, a chloroplast with a double membrane, grana (stacks of thylakoids) in the stroma, a starch grain, circular DNA and 70S ribosomes; it carries out photosynthesis in plant cells." loading="lazy">
-  <figcaption>Both organelles have a double membrane, their own circular DNA and 70S ribosomes.</figcaption>
-</figure>
-
-
 ## Common exam traps
 
 - A question that says "ultrastructure" is asking for detail seen with an electron microscope, not a light microscope.
@@ -264,6 +258,12 @@ A shortcut that skips the magnification is real size = (structure length ÷ bar 
 10. Each objective gives a different magnification, so each graticule division represents a different real distance.
 11. Most structures are almost transparent; a stain gives contrast so they can be seen.
 12. rER has ribosomes and handles proteins; sER has none and makes lipids.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-biology-eukaryotic-and-prokaryotic-cell-structure--03-energy-organelles.webp" width="900" height="890" alt="A mitochondrion with a double membrane, an inner membrane folded into cristae and a fluid matrix containing circular DNA and 70S ribosomes; it carries out aerobic respiration. Below, a chloroplast with a double membrane, grana (stacks of thylakoids) in the stroma, a starch grain, circular DNA and 70S ribosomes; it carries out photosynthesis in plant cells." loading="lazy">
+  <figcaption>Both organelles have a double membrane, their own circular DNA and 70S ribosomes.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

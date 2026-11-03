@@ -100,6 +100,21 @@ Capital and liabilities                       65,875
   <figcaption>Expense = cash paid - owed at the start + owed at the end.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-accounting-for-organisations-with-incomplete-records--03-depreciation-methods.webp" width="900" height="1000" alt="A line graph for an asset costing 24,000 pounds at 25 percent: straight line falls 6,000 pounds a year to zero in year 4; reducing balance charges 6,000, 4,500, 3,375 and 2,531 pounds, leaving a carrying amount of 7,594 pounds after four years." loading="lazy">
+  <figcaption>Straight line charges the same each year; reducing balance charges a percentage of the falling carrying amount.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-accounting-for-organisations-with-incomplete-records--04-disposal-loss.webp" width="900" height="870" alt="A machine costing 18,000 pounds with 10,800 pounds accumulated depreciation has a carrying amount of 7,200 pounds. Sold for 6,000 pounds, the 1,200 pound shortfall is a loss on disposal, an expense. Proceeds above carrying amount would be a profit." loading="lazy">
+  <figcaption>Compare proceeds with carrying amount to find the profit or loss on disposal.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-accounting-for-organisations-with-incomplete-records--05-doubtful-debts-provision.webp" width="900" height="800" alt="Receivables of 19,100 pounds carry a 5 percent provision of 955 pounds, so the statement of financial position shows 18,145 pounds. The old provision was 900 pounds, so only the 55 pound increase is charged as an expense." loading="lazy">
+  <figcaption>Only the change in the provision goes to the income statement; the full provision is deducted from receivables.</figcaption>
+</figure>
+
 
 ## Departmental statements (1.3.7)
 
@@ -143,11 +158,6 @@ Receipts from customers 61,400; closing receivables 3,700. Credit sales = 61,400
 Bryn uses a 60% mark-up, so cost of sales = 62,000 ÷ 1.6 = 38,750. Expected closing inventory = 4,200 + 39,200 − 38,750 = 4,650. The inventory count shows 4,410, so **240** of inventory has been lost. Charge it as an expense; 4,410 goes in the statement of financial position.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/aqa-a-level-accounting-accounting-for-organisations-with-incomplete-records--05-doubtful-debts-provision.webp" width="900" height="800" alt="Receivables of 19,100 pounds carry a 5 percent provision of 955 pounds, so the statement of financial position shows 18,145 pounds. The old provision was 900 pounds, so only the 55 pound increase is charged as an expense." loading="lazy">
-  <figcaption>Only the change in the provision goes to the income statement; the full provision is deducted from receivables.</figcaption>
-</figure>
-
-<figure class="topic-figure">
   <img src="https://img.marlbridge.com/aqa-a-level-accounting-accounting-for-organisations-with-incomplete-records--09-markup-margin.webp" width="900" height="830" alt="Two bars show cost of 100. With profit of 25, mark-up is 25 percent and margin 20 percent. With profit of 60, mark-up is 60 percent and margin 37.5 percent. With a 60 percent mark-up, cost of sales is sales divided by 1.60." loading="lazy">
   <figcaption>Mark-up is profit as a percentage of cost; margin is profit as a percentage of revenue.</figcaption>
 </figure>
@@ -185,6 +195,12 @@ Marek 2/5                                   16,660
 ```
 
 Ines's current account opened at 2,300 credit and her drawings were 26,000: 2,300 + 3,000 + 24,990 − 400 − 26,000 = **3,890 credit**. Marek's opened at 600 debit with drawings of 22,500: −600 + 12,000 + 2,000 + 16,660 − 250 − 22,500 = **7,310 credit**.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-accounting-for-organisations-with-incomplete-records--08-total-accounts.webp" width="900" height="896" alt="Two T-accounts show credit sales of 42,800 pounds and cash sales of 45,400 pounds as balancing figures. Each account balances at 46,000 and 45,550 pounds, and revenue is 88,200 pounds." loading="lazy">
+  <figcaption>The missing figure in a total account is the one that makes it balance.</figcaption>
+</figure>
+
 
 ### Admission of a partner, with goodwill and assets
 

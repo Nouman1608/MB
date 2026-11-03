@@ -210,6 +210,12 @@ When you read data:
 10. Removing sucrose at the sink keeps the sieve tube water potential higher there, so water leaves and pressure stays lower than at the source.
 11. 54 ÷ 9.0 = 6.0 mm min⁻¹; 6.0 × 60 ÷ 1000 = 0.36 m h⁻¹.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-transport-in-plants--06-xerophyte-leaf.webp" width="900" height="830" alt="An annotated transverse section of a rolled marram grass leaf. A thick waxy cuticle covers the outside, the leaf is rolled around a space of humid air, stomata lie in sunken pits on the inner surface, and hairs there trap still humid air. Each reduces the water vapour potential gradient between leaf and air." loading="lazy">
+  <figcaption>Marram grass reduces water loss by rolling, sunken stomata, hairs and a thick cuticle, all of which cut the vapour gradient.</figcaption>
+</figure>
+
+
 ## Where marks are usually lost
 
 - Saying the apoplast goes "through" cells. It goes through walls and spaces.

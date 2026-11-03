@@ -88,6 +88,12 @@ Quickfit glassware joins by standard ground-glass joints. Clamp the flask and co
 
 Mass (g) = volume (cm³) × density (g cm⁻³). For 6.00 cm³ of a liquid of density 0.785 g cm⁻³, the mass is 4.71 g. Then n = mass ÷ M, as in 2.1.3.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-organic-synthesis--06-atom-economy.webp" width="900" height="794" alt="Bars whose length is the total reactant mass, split into product (teal) and by-product (gold): aspirin via anhydride 75.0 percent, via acyl chloride 83.1 percent, and (OxfordAQA example) ethane-1,2-diol by two additions 100 percent versus addition then substitution 23.2 percent." loading="lazy">
+  <figcaption>Atom economy = Mr of product / total Mr of reactants; industry still uses the anhydride for aspirin because it is cheaper and safer (diol comparison: OxfordAQA example).</figcaption>
+</figure>
+
+
 ## 4.2.3(b)(i): Spotting functional groups
 
 | Group | Look for | Classify by |
@@ -187,6 +193,12 @@ Exam papers may give a reaction that is not in Module 4. Read it as a new row in
 10. Give a two-stage route from 2-chloropropane to propanone.
 11. 0.0400 mol of propan-2-ol gives 3.10 g of 2-bromopropane (M = 122.9 g mol⁻¹). Calculate the percentage yield.
 12. Why is a heating mantle used instead of a Bunsen burner to heat the reaction flask?
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-organic-synthesis--05-route-planning.webp" width="900" height="1010" alt="Three-step route from ethene (2 C) to propan-1-amine (3 C): HBr gives bromoethane, KCN in ethanol under reflux gives propanenitrile (+1 C), and LiAlH4 reduction gives the amine. A crossed-out side branch shows that ammonia would give ethylamine, only 2 C." loading="lazy">
+  <figcaption>Count carbons first: a longer chain needs the cyanide step, because bromoethane with ammonia only gives ethylamine.</figcaption>
+</figure>
+
 
 ### Answers
 

@@ -175,6 +175,11 @@ If the cosine of an angle is negative, the angle is obtuse.
   <figcaption>Name the sides from the angle, then pick sin, cos or tan.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-trigonometry--05-cosine-rule.webp" width="900" height="860" alt="The lesson worked example drawn to scale: AB = 7, AC = 10, angle A = 110 degrees. A bar shows BC squared = 149 + 47.9 = 196.9, so BC = 14.0 cm. The extra 47.9 is added because cos 110 degrees is negative." loading="lazy">
+  <figcaption>With an obtuse angle the cosine term adds, so BC is longer than the right-angle case.</figcaption>
+</figure>
+
 
 ## 6.02e Kinematics
 
@@ -282,3 +287,9 @@ Each topic has a quick test that takes under a minute.
 ## Official syllabus
 
 OCR GCSE (9-1) Mathematics J560, Version 2.1 (August 2026), for first assessment in 2017, published by OCR. Section 6.02, Algebraic formulae.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-trigonometry--06-area-sine.webp" width="900" height="800" alt="Triangle with a = 8, b = 10 and C = 40 degrees. Height h = 8 sin 40 = 5.14 cm, so area = half of 10 times 5.14 = 25.7 cm squared, which is half a b sin C." loading="lazy">
+  <figcaption>The area formula comes from base times height with h = a sin C.</figcaption>
+</figure>
+

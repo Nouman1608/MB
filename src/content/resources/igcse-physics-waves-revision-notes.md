@@ -56,11 +56,6 @@ reflection (barrier), refraction (shallower water slows the waves) and diffracti
 diffraction also occurs at an edge, more noticeably for longer wavelengths.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-physics-waves--01-measuring-a-wave.webp" width="900" height="890" alt="A sine graph of displacement against distance marks wavelength between two crests (0.40 m) and amplitude from rest position to crest. With f = 5 Hz, v = f x wavelength = 2.0 m/s and the period is 0.2 s." loading="lazy">
-  <figcaption>Wavelength is crest to crest; amplitude is from the middle to a crest; v = f x wavelength.</figcaption>
-</figure>
-
-<figure class="topic-figure">
   <img src="https://img.marlbridge.com/igcse-physics-waves--02-transverse-longitudinal.webp" width="900" height="890" alt="A rope wave moves points up and down at right angles to travel (transverse). A spring wave moves coils back and forth along the direction of travel (longitudinal), bunching into compressions and spreading into rarefactions (Extended names)." loading="lazy">
   <figcaption>Transverse waves vibrate at right angles to the direction of travel; longitudinal waves vibrate along it.</figcaption>
 </figure>
@@ -207,6 +202,12 @@ reflection occurs. 4. The point where rays travelling parallel to the principal 
 refraction by the lens. 5. Radio, microwave, infrared, visible, ultraviolet, X-ray, gamma.
 6. Because frequency and wavelength play no part in the calculation — it uses speed = distance/time
 (and halves the result, since the pulse travels to the surface and back).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-physics-waves--01-measuring-a-wave.webp" width="900" height="890" alt="A sine graph of displacement against distance marks wavelength between two crests (0.40 m) and amplitude from rest position to crest. With f = 5 Hz, v = f x wavelength = 2.0 m/s and the period is 0.2 s." loading="lazy">
+  <figcaption>Wavelength is crest to crest; amplitude is from the middle to a crest; v = f x wavelength.</figcaption>
+</figure>
+
 
 ## Official syllabus
 

@@ -86,12 +86,6 @@ Each Pebblewick cook can prepare up to 140 orders a week. How many cooks does th
 
 Round **up** to **6 cooks**: five would leave about 130 orders unmade. This is the "use" half of the specification point: a forecast only earns marks when you turn it into a decision. In an answer, add one line of caution, for example that five weeks of café data may include a holiday rush that will not repeat.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-level-business-marketing--06-moving-average.webp" width="900" height="920" alt="A line chart of Corvasse monthly sales with the three-month averages plotted against the middle month. The averages rise every month. The dashed forecast continues the trend from July: 531 in September and 546 in October." loading="lazy">
-  <figcaption>Moving averages smooth the ups and downs; extend the trend from the month of the last average.</figcaption>
-</figure>
-
-
 ## Evaluation checklist for forecasting questions
 
 When a question asks you to evaluate a forecast or a decision based on one, test it against these five points:
@@ -104,6 +98,12 @@ When a question asks you to evaluate a forecast or a decision based on one, test
 
 Finish with a judgement: how far should the business rely on the forecast, and what else should it do?
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-business-marketing--06-moving-average.webp" width="900" height="920" alt="A line chart of Corvasse monthly sales with the three-month averages plotted against the middle month. The averages rise every month. The dashed forecast continues the trend from July: 531 in September and 546 in October." loading="lazy">
+  <figcaption>Moving averages smooth the ups and downs; extend the trend from the month of the last average.</figcaption>
+</figure>
+
+
 ## Extrapolation: value in one box
 
 | For | Against |
@@ -114,6 +114,17 @@ Finish with a judgement: how far should the business rely on the forecast, and w
 | A baseline that managers can adjust | Needs a run of past data, so weak for new products |
 
 **One-line judgement:** most useful short term in a stable market; least useful when the market is changing fast.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-business-marketing--01-boston-matrix.webp" width="900" height="1000" alt="Chart of relative market share (high left, low right, log scale) against market growth. Star, Question mark, Cash cow and Dog quadrants each carry a one-line strategy, with four illustrative products A to D placed in them." loading="lazy">
+  <figcaption>The Boston Matrix classifies products by market share and market growth and suggests a strategy for each.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-business-marketing--02-ansoff-matrix.webp" width="900" height="850" alt="A grid of existing or new products against existing or new markets for a UK clothing retailer. Market penetration is lowest risk; product development and market development carry more; diversification (new product, new market) is highest." loading="lazy">
+  <figcaption>Ansoff's Matrix links growth options to how much is new, and so to risk.</figcaption>
+</figure>
+
 
 ## Qualitative forecasting
 
@@ -226,6 +237,12 @@ Forecasting is also one of the ways to manage risk listed in section 3.4.6.
 - Saying extrapolation is "inaccurate" without explaining which assumption fails in the case.
 - Listing advantages of qualitative methods that are not linked to the business in the question.
 - Describing the impact of a forecast on "the business" in general instead of on named functions.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-business-marketing--03-segment-target-position.webp" width="900" height="1280" alt="Three stacked panels: twenty people split into four segments, one segment chosen as the target, then a price-quality map where the business places its product in a gap away from rivals." loading="lazy">
+  <figcaption>Segment the market, target one segment, then position the product for it.</figcaption>
+</figure>
+
 
 ## Official syllabus
 

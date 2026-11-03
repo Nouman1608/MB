@@ -126,8 +126,18 @@ PES = % change in quantity supplied / % change in price
 - For Q = 6P + 30 the line meets the quantity axis first. At P = 5, Q = 60, so PES = 6 x 5/60 = 0.5.
 
 <figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-economics-supply-and-price-elasticity-of-supply--06-pes-line-rules.webp" width="900" height="990" alt="Three straight supply lines. A meets the price axis first (PES 1.25 at price 10), B passes through the origin (PES 1), C meets the quantity axis first (PES 0.83)." loading="lazy">
+  <figcaption>Where a straight line meets the axes tells you whether PES is above, at or below 1.</figcaption>
+</figure>
+
+<figure class="topic-figure">
   <img src="https://img.marlbridge.com/edexcel-ial-economics-supply-and-price-elasticity-of-supply--06-pes-two-calculations.webp" width="900" height="820" alt="Cheese: price +10%, quantity +7.5%, PES 0.75, inelastic. Other good: price -10%, quantity -15%, PES 1.5, elastic; both negative so PES is positive." loading="lazy">
   <figcaption>The same formula gives 0.75 for the price rise and 1.5 for the price fall.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-economics-price-supply-and-income-elasticity-calculation-and-use--06-pes-five-kinds.webp" width="900" height="1170" alt="Five supply curve shapes: vertical (0), cutting quantity axis (&lt;1), through origin (1), cutting price axis (&gt;1), horizontal (infinity)." loading="lazy">
+  <figcaption>A supply line through the origin has PES 1 everywhere.</figcaption>
 </figure>
 
 
@@ -203,17 +213,6 @@ PES = % change in quantity supplied / % change in price
 8. It is perishable so it cannot be stored, and the catch cannot be raised quickly when price rises.
 9. Right (down), because the payment lowers net cost per unit.
 10. All factors can be varied, so firms can build capacity, retrain workers and new firms can enter.
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/edexcel-ial-economics-supply-and-price-elasticity-of-supply--06-pes-line-rules.webp" width="900" height="990" alt="Three straight supply lines. A meets the price axis first (PES 1.25 at price 10), B passes through the origin (PES 1), C meets the quantity axis first (PES 0.83)." loading="lazy">
-  <figcaption>Where a straight line meets the axes tells you whether PES is above, at or below 1.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/edexcel-igcse-economics-price-supply-and-income-elasticity-calculation-and-use--06-pes-five-kinds.webp" width="900" height="1170" alt="Five supply curve shapes: vertical (0), cutting quantity axis (&lt;1), through origin (1), cutting price axis (&gt;1), horizontal (infinity)." loading="lazy">
-  <figcaption>A supply line through the origin has PES 1 everywhere.</figcaption>
-</figure>
-
 
 ## Where marks are usually lost
 

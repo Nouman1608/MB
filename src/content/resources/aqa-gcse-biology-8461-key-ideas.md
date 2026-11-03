@@ -163,10 +163,21 @@ Anaerobic respiration transfers much less energy because the oxidation of glucos
   <figcaption>Anaerobic respiration releases much less energy, and yeast and muscle make different products.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-biology-8461-bioenergetics--07-metabolism-building-blocks.webp" width="900" height="980" alt="Glucose joins to make starch, glycogen and cellulose; one glycerol and three fatty acids make a lipid; amino acids make a protein, with excess protein broken down to urea." loading="lazy">
+  <figcaption>Small units are built into carbohydrates, lipids and proteins.</figcaption>
+</figure>
+
 
 ## 7. Cycling of chemicals
 
 Photosynthesis removes carbon dioxide; respiration by plants, animals and microorganisms returns it. Decomposers return carbon dioxide to the air and mineral ions to the soil. The water cycle provides fresh water on land. Materials are recycled to provide building blocks for future organisms.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-organisms-and-their-environment--06-carbon-cycle.webp" width="900" height="1070" alt="Photosynthesis takes carbon dioxide from the air into plants. Feeding passes carbon to animals. Respiration by plants, animals and decomposers returns carbon dioxide to the air. Dead organisms and waste are broken down by decomposers (decomposition) or, if not fully decomposed, form fossil fuels over millions of years. Combustion of fossil fuels releases carbon dioxide." loading="lazy">
+  <figcaption>The six carbon-cycle processes shown as arrows between air, organisms, dead matter and fossil fuels.</figcaption>
+</figure>
+
 
 ## 8. Genome and environment
 
@@ -188,6 +199,22 @@ There is usually extensive genetic variation within a population. Individuals wh
 
 Antibiotic-resistant bacteria are evolution you can watch. Bacteria reproduce fast; a mutation may make a strain resistant; the antibiotic kills the others; the resistant strain survives and reproduces, so its population rises.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-variation-and-selection--05-natural-selection.webp" width="900" height="1110" alt="Ten beetles per row. Generation 1 has 3 brown and 7 green. Birds eat green beetles more often, leaving 3 brown and 2 green. Survivors breed, giving 6 brown of 10 in generation 2, and after many generations 9 brown of 10. Illustrative numbers show the brown allele becoming more common." loading="lazy">
+  <figcaption>Better-adapted individuals survive and breed, so their alleles become more common.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-variation-and-selection--06-antibiotic-resistance.webp" width="900" height="1190" alt="Five dishes of bacteria: a random mutation makes one bacterium resistant; the antibiotic kills the six non-resistant ones; the survivor has less competition; it reproduces and passes on the allele; a resistant strain forms quickly." loading="lazy">
+  <figcaption>The mutation was already there; the antibiotic selected the resistant bacterium.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-biology-8461-inheritance-variation-and-evolution--15-classification-levels.webp" width="900" height="1080" alt="Seven levels from kingdom to species. The binomial name is genus plus species, with Homo sapiens as an example. Woese’s three-domain system groups life into archaea, bacteria and eukaryota." loading="lazy">
+  <figcaption>Linnaeus’s seven levels, binomial names, and Woese’s three domains.</figcaption>
+</figure>
+
+
 ## Using key ideas in linked answers
 
 **Worked example 2.** *Explain why a plant cannot grow well in soil lacking nitrate ions.*
@@ -200,6 +227,12 @@ Build a chain that uses more than one key idea:
 4. Nitrate returns to the soil when microorganisms decompose dead material (cycling, key idea 7).
 
 Each numbered step is a separate creditworthy point. Link them with "so" or "because".
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-plant-nutrition--03-mineral-ions.webp" width="900" height="1050" alt="Nitrate ions are needed for amino acids and so proteins; without nitrate, growth is poor. Magnesium ions are needed for chlorophyll; without magnesium, leaves turn yellow. Ions come from the soil via root hairs." loading="lazy">
+  <figcaption>Nitrate makes amino acids and proteins; magnesium makes chlorophyll.</figcaption>
+</figure>
+
 
 ## Common errors
 

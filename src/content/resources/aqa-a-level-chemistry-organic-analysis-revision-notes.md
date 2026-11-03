@@ -200,6 +200,12 @@ change Fehling's solution.
 10. Carbon dioxide, methane and water vapour.
 11. Carbon dioxide; it turns limewater cloudy.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-nuclear-magnetic-resonance-spectroscopy--08-gc-retention-gcms.webp" width="900" height="1090" alt="Simple GC apparatus, standards D, E, F at 3.2, 4.5, 7.8 min and a sample with peaks at 3.2 and 7.8 min; GC-MS identifies m/z 100.0635 as C4H8N2O." loading="lazy">
+  <figcaption>Retention times matched to standards show D and F but no E; GC-MS molecular ion 100.0635 fits only C4H8N2O.</figcaption>
+</figure>
+
+
 ## Where marks are usually lost
 
 - Writing "clear" instead of "colourless" for bromine water.

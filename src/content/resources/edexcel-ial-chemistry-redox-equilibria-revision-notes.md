@@ -85,6 +85,12 @@ Al(s) | Al³⁺(aq) || Cu²⁺(aq) | Cu(s); E⦵cell = +0.34 − (−1.66) = **+
 - Doubling E⦵cell doubles ln K, so K is squared.
 - **Limits:** E⦵ predicts thermodynamics, not rate. A feasible reaction can still be imperceptibly slow when its activation energy is large (kinetic stability). Non-standard conditions, such as concentrated reagents or heat, can change E and reverse a prediction, most often when E⦵cell is close to zero.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-electrochemistry-electrolysis-and-electrode-potentials--05-nernst.webp" width="900" height="890" alt="A straight-line graph shows E for the Cu2+/Cu half-cell rising from about 0.25 V at 0.001 mol per dm3 to +0.340 V at 1.00 mol per dm3 as log[Cu2+] increases. The point at 0.0100 mol per dm3 is +0.281 V. Higher Cu2+ concentration makes E more positive." loading="lazy">
+  <figcaption>E rises linearly with log[Cu2+] with slope 0.059/z, so diluting Cu2+ makes the electrode less positive.</figcaption>
+</figure>
+
+
 ## Disproportionation (16.14)
 
 Take E⦵ for the half-equation where the species is reduced, minus E⦵ for the half-equation where it is the product.
@@ -177,6 +183,27 @@ Overall in both: 2H₂ + O₂ → 2H₂O.
 9. ±0.10 ÷ 12.50 × 100 = **0.80%**.
 10. O₂ + 2H₂O + 4e⁻ → 4OH⁻.
 11. A lot of iodine binds to starch and is released slowly, so the colour change is less sharp.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-electrochemistry-electrolysis-and-electrode-potentials--04-feasibility.webp" width="900" height="1140" alt="Each row shows an arrow from the E° of the species oxidised to the E° of the species reduced (Fe3+/Fe2+ at +0.77 V). It points right for iodide (+0.23 V, feasible) and left for bromide (-0.30 V) and chloride (-0.59 V), which are not feasible. Feasible does not mean fast." loading="lazy">
+  <figcaption>E° cell = E°(reduced) - E°(oxidised); a positive value means feasible, though not necessarily fast.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-electrochemistry-electrolysis-and-electrode-potentials--06-delta-g.webp" width="900" height="1120" alt="Bars show E° cell for three reactions (+1.10 V, +0.23 V, -0.59 V) above the matching delta G values from delta G = -nFE (-212.3, -44.4 and +113.9 kJ). A positive E° cell gives a negative delta G, a feasible reaction and, for Edexcel, K greater than 1." loading="lazy">
+  <figcaption>A positive E° cell always corresponds to a negative delta G, because F is positive.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-electrochemistry-electrolysis-and-electrode-potentials--07-quantitative-electrolysis.webp" width="900" height="1195" alt="A cell with copper electrodes carries 2.00 A for 3860 s. Charge Q = It = 7720 C, moles of electrons = 7720 / 96 500 = 0.0800 mol, moles of copper = 0.0800 / 2 = 0.0400 mol, and mass = 0.0400 x 63.5 = 2.54 g." loading="lazy">
+  <figcaption>Charge to moles of electrons to moles of copper to mass: 2.00 A for 3860 s deposits 2.54 g.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-chemical-equilibria-le-chateliers-principle-and-kc--06-kc-expression.webp" width="900" height="1010" alt="Three reactions each show Kc as products over reactants raised to their coefficients, coloured teal for products and gold for reactants, with units: none, mol dm-3, and mol-1 dm3." loading="lazy">
+  <figcaption>Kc is products over reactants, each concentration raised to the power of its coefficient.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

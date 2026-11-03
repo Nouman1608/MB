@@ -57,6 +57,11 @@ AO2 means apply and analyse. AO3 means weigh up and reach a judgement. There are
 4. Say how the two work together.
 
 <figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-leadership-and-management--08-calder-fenn-manager-leader.webp" width="900" height="840" alt="Marit’s calendar and drawing assignments are organizing, her Friday budget check is controlling, and her school-buildings announcement is leadership because it sets direction and influences staff." loading="lazy">
+  <figcaption>Marit manages and leads in the same job.</figcaption>
+</figure>
+
+<figure class="topic-figure">
   <img src="https://img.marlbridge.com/aqa-a-level-business-managers-leadership-decision-making--01-leadership-continuum.webp" width="900" height="870" alt="Four columns from autocratic to laissez-faire, each split into the share of the decision kept by the boss and given to the team: 90/10, 65/35, 35/65 and 10/90 (illustrative). Control passes from the boss to the team along the continuum." loading="lazy">
   <figcaption>The four styles sit on one scale from boss-controlled to team-controlled.</figcaption>
 </figure>
@@ -223,12 +228,6 @@ A strong conclusion reads like this: "On balance a [style] approach is best here
 - Presenting only one side in an "evaluate" or "justify" response.
 - Skipping a conclusion, or repeating the introduction as one.
 - Writing about scientific and intuitive thinking at SL when it is not required, or leaving it out at HL.
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ib-dp-business-management-leadership-and-management--08-calder-fenn-manager-leader.webp" width="900" height="840" alt="Marit’s calendar and drawing assignments are organizing, her Friday budget check is controlling, and her school-buildings announcement is leadership because it sets direction and influences staff." loading="lazy">
-  <figcaption>Marit manages and leads in the same job.</figcaption>
-</figure>
-
 
 ## Official syllabus
 

@@ -114,12 +114,6 @@ The **peptide bond** `–CONH–` forms by condensation between the amine group 
 
 **Beyond the syllabus (not assessed at this level):** the folding of many amino acids into a full protein — primary, secondary (α-helix, β-pleated sheet) and tertiary structure, disulfide bridges between cysteine residues — is background context only. 9701 stops at di- and tripeptides and does not require any of this terminology.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-amines--08-peptide-link.webp" width="900" height="940" alt="Alanine and serine condense: the OH of alanine COOH and an H of serine NH2 leave as water, forming the peptide link -CO-NH- in the dipeptide. Mr 89 + 105 - 18 = 176. Hydrolysis with conc. HCl under reflux reverses it." loading="lazy">
-  <figcaption>A peptide link forms by condensation and is broken by hydrolysis.</figcaption>
-</figure>
-
-
 ## Exam traps
 
 - Saying amides are basic like amines.
@@ -140,3 +134,9 @@ The **peptide bond** `–CONH–` forms by condensation between the amine group 
 7. An amino acid has an isoelectric point of 6.0. Predict its direction of migration in electrophoresis at pH 9.0.
 
 **Answers:** 1. The nitrogen lone pair is delocalised into the adjacent carbonyl group, so it is not available to accept a proton. 2. A species with both a positive and a negative charge but no overall charge, formed by internal proton transfer; the strong ionic attractions between zwitterions require much more energy to overcome than ordinary intermolecular forces. 3. The pH at which an amino acid exists as a zwitterion with no net charge; since it varies between amino acids, it allows separation by electrophoresis. 4. Glycine — its R group is a hydrogen atom, so the central carbon does not carry four different groups. 5. Aqueous acid (e.g. dilute or concentrated hydrochloric acid), heated under reflux, which hydrolyses each peptide bond in turn to release the free amino acids. 6. CH₃CONH₂ + NaOH → CH₃COONa + NH₃; the products are sodium ethanoate and ammonia. 7. Its isoelectric point (6.0) is below the buffer pH (9.0), so it carries a net negative charge and migrates towards the anode.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-amines--08-peptide-link.webp" width="900" height="940" alt="Alanine and serine condense: the OH of alanine COOH and an H of serine NH2 leave as water, forming the peptide link -CO-NH- in the dipeptide. Mr 89 + 105 - 18 = 176. Hydrolysis with conc. HCl under reflux reverses it." loading="lazy">
+  <figcaption>A peptide link forms by condensation and is broken by hydrolysis.</figcaption>
+</figure>
+

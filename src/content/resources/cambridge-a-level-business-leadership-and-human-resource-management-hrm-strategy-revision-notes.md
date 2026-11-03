@@ -191,22 +191,6 @@ Steps: set business objectives, cascade them, agree individual objectives with e
 
 Judgement line: these tools save time and cost, but people decisions still need human oversight.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/cambridge-a-level-business-leadership-and-human-resource-management-hrm-strategy--09-hr-hard-soft.webp" width="900" height="960" alt="Hard HRM treats staff as a resource at lowest cost with close control and short-term contracts, cutting cost fast but risking low morale. Soft HRM treats staff as an asset to develop with training and long-term commitment, costing more but building skill and loyalty." loading="lazy">
-  <figcaption>Hard and soft HRM treat employees as a cost or as an asset.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/cambridge-a-level-business-leadership-and-human-resource-management-hrm-strategy--10-hr-contracts.webp" width="900" height="1054" alt="Eleven contracts, each with an illustrative week pattern, one gain and one risk for the business, e.g. temporary matches demand but has low loyalty; zero hours pays as needed but staff are insecure; gig economy pays per task but gives little control." loading="lazy">
-  <figcaption>Eleven flexible contracts, each with a typical week and a business gain and risk.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/cambridge-a-level-business-leadership-and-human-resource-management-hrm-strategy--12-hr-it-ai.webp" width="900" height="960" alt="IT holds records and supports recruitment, training, payroll and performance data; AI screens applications, answers queries and spots patterns. Benefits are speed, lower admin cost and consistency; risks are bias, less personal contact, privacy worries and cost or over-reliance. Humans still decide." loading="lazy">
-  <figcaption>IT and AI speed up HR work but carry risks, and people still decide.</figcaption>
-</figure>
-
-
 ## Quick self-test
 
 1. State two roles of a supervisor.
@@ -221,6 +205,17 @@ Judgement line: these tools save time and cost, but people decisions still need 
 10. Give one risk of using AI to screen job applications.
 11. Output rises from 3,000 to 3,300 units with 30 employees both years. Calculate the percentage change in labour productivity.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-business-leadership-and-human-resource-management-hrm-strategy--09-hr-hard-soft.webp" width="900" height="960" alt="Hard HRM treats staff as a resource at lowest cost with close control and short-term contracts, cutting cost fast but risking low morale. Soft HRM treats staff as an asset to develop with training and long-term commitment, costing more but building skill and loyalty." loading="lazy">
+  <figcaption>Hard and soft HRM treat employees as a cost or as an asset.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-business-leadership-and-human-resource-management-hrm-strategy--12-hr-it-ai.webp" width="900" height="960" alt="IT holds records and supports recruitment, training, payroll and performance data; AI screens applications, answers queries and spots patterns. Benefits are speed, lower admin cost and consistency; risks are bias, less personal contact, privacy worries and cost or over-reliance. Humans still decide." loading="lazy">
+  <figcaption>IT and AI speed up HR work but carry risks, and people still decide.</figcaption>
+</figure>
+
+
 ### Answers
 
 1. Directing day-to-day work; solving problems on the spot; passing information between staff and managers (any two).
@@ -234,6 +229,17 @@ Judgement line: these tools save time and cost, but people decisions still need 
 9. Set the business objectives, then cascade them to departments, with individual objectives agreed with each employee.
 10. It may copy bias from past data and reject suitable candidates.
 11. Productivity 100 to 110 units a person: **10% rise**.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-business-leadership-and-human-resource-management-hrm-strategy--09-hr-annualised-hours.webp" width="900" height="1010" alt="Busy weeks need 40 hours and quiet weeks 27. A fixed 32-hour week costs 2,640 dollars overtime plus 1,760 dollars of spare paid hours, 4,400 dollars more than annualised hours." loading="lazy">
+  <figcaption>Annualised hours match paid hours to demand.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-business-leadership-and-human-resource-management-hrm-strategy--10-hr-contracts.webp" width="900" height="1054" alt="Eleven contracts, each with an illustrative week pattern, one gain and one risk for the business, e.g. temporary matches demand but has low loyalty; zero hours pays as needed but staff are insecure; gig economy pays per task but gives little control." loading="lazy">
+  <figcaption>Eleven flexible contracts, each with a typical week and a business gain and risk.</figcaption>
+</figure>
+
 
 ## Command words and case-study skills
 

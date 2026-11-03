@@ -35,12 +35,6 @@ Related pages: [IB DP Physics](/boards/ib/ib-dp/physics/), the [checklist](/chec
 - **Size:** R from L and T using L = 4πσR²T⁴.
 - **Spectrum:** peak wavelength gives temperature; absorption lines give composition.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ib-dp-physics-fusion-stellar-evolution-hr-diagrams-and-stellar--01-star-stability.webp" width="900" height="890" alt="Three stars show outward pressure arrows longer than, equal to and shorter than inward gravity arrows. When the core is too hot the star expands and cools; too cool and it shrinks and heats. Equal arrows mean a stable main sequence star." loading="lazy">
-  <figcaption>A star is stable when outward pressure balances inward gravity, and this balance corrects itself.</figcaption>
-</figure>
-
-
 ## Formulas and data
 
 | Quantity | Relationship or value |
@@ -75,6 +69,12 @@ These constants are data for working. In an exam, use whatever values the questi
 **Reminder.** Four hydrogen atoms (4 × 1.007825 u) to helium-4 (4.002603 u) loses 0.028697 u, which is 26.7 MeV, about 0.71 % of the mass. The Sun fuses about 9 × 10³⁷ nuclei every second.
 
 **Conditions.** Two protons at 1.0 × 10⁻¹⁵ m have a potential energy of about 1.4 MeV, while the mean thermal energy at 1.5 × 10⁷ K is only about 1.9 keV. The gap is bridged by the fastest nuclei and by quantum effects.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-fusion-stellar-evolution-hr-diagrams-and-stellar--03-fusion-barrier.webp" width="900" height="1030" alt="A log-log graph shows the electric potential energy of two protons falling as 1/r, 1.44 MeV at 1 fm. A dashed line marks the mean thermal energy at 1.5e7 K, 1.9 keV, about 740 times smaller. Fast nuclei and tunnelling still allow fusion." loading="lazy">
+  <figcaption>The electric barrier is about 740 times the average thermal energy, so fusion needs very high temperature and density.</figcaption>
+</figure>
+
 
 ## Evolution by mass
 
@@ -179,6 +179,17 @@ A white dwarf with L = 1.2 × 10⁻³ L☉ and T = 12 000 K: L = 4.60 × 10²³ 
 10. Fusing iron would absorb energy instead of releasing it, so the core cannot be held up by fusion.
 11. Upper right, in the red giant or super giant region.
 12. A high density makes collisions frequent enough for the fusion rate to be large.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-fusion-stellar-evolution-hr-diagrams-and-stellar--01-star-stability.webp" width="900" height="890" alt="Three stars show outward pressure arrows longer than, equal to and shorter than inward gravity arrows. When the core is too hot the star expands and cools; too cool and it shrinks and heats. Equal arrows mean a stable main sequence star." loading="lazy">
+  <figcaption>A star is stable when outward pressure balances inward gravity, and this balance corrects itself.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-fusion-stellar-evolution-hr-diagrams-and-stellar--07-stellar-spectra.webp" width="900" height="1030" alt="Three black-body curves peak at shorter wavelength for hotter stars (320 nm at 9100 K, 502 nm at 5800 K, 828 nm at 3500 K). Wien’s law turns a 3.2e-7 m peak into 9.1e3 K. A rainbow spectrum with dark absorption lines shows that cooler outer gas absorbs at wavelengths characteristic of its elements." loading="lazy">
+  <figcaption>The peak wavelength gives surface temperature and the dark lines identify elements.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

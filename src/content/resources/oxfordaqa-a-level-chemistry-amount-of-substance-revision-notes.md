@@ -100,6 +100,11 @@ A formula is a statement about moles too: the formula Al₂(SO₄)₃ says 2 mol
   <figcaption>Convert cm3 to dm3, find moles, then particles, then multiply by the ions per formula unit.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-chemistry-relative-mass-and-the-mole--06-hydrated-salt.webp" width="900" height="900" alt="A crucible of blue hydrated copper sulfate (2.50 g) is heated and becomes white anhydrous copper sulfate (1.60 g) with 0.90 g of water driven off as steam. Moles of 0.0100 CuSO4 and 0.0500 H2O give a 1:5 ratio, so CuSO4.5H2O." loading="lazy">
+  <figcaption>Mass lost on heating gives the moles of water per mole of salt. OCR content.</figcaption>
+</figure>
+
 
 ## 3.1.2.3 The ideal gas equation
 
@@ -177,6 +182,11 @@ The calculation chain: given quantity → moles → use equation ratio → moles
 **Why high atom economy matters:** economically, less raw material ends up as unwanted product, and waste disposal or separation costs fall. Ethically and environmentally, fewer natural resources are consumed and less waste is produced, which benefits society and industry alike. Be ready to give one point for each, not a general statement.
 
 **Required practical 1:** make up a volumetric solution (weigh by difference, dissolve in a beaker, transfer with rinsings to a volumetric flask, fill to the graduation line, then invert to mix) and carry out a simple acid-base titration (pipette, burette, indicator, concordant titres).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-chemistry-relative-mass-and-the-mole--08-atom-economy-yield.webp" width="900" height="1050" alt="Panel one is a bar of total reactant mass 238.5 where only the 47.9 of titanium is useful, so atom economy is 20.1%. Panel two compares the possible 5.00 g with 4.25 g collected, an 85% yield." loading="lazy">
+  <figcaption>Atom economy is fixed by the equation; yield depends on the experiment.</figcaption>
+</figure>
 
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/a-level-aqa-chemistry-relative-mass-and-the-mole--09-spectator-ions.webp" width="900" height="930" alt="Two beakers show silver, chloride, sodium and nitrate ions before mixing. After reaction, solid silver chloride lies at the bottom and only sodium and nitrate ions remain dissolved. They are spectators, leaving Ag+(aq) + Cl-(aq) -&gt; AgCl(s)." loading="lazy">

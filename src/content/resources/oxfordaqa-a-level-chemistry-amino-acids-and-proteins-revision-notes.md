@@ -201,6 +201,12 @@ When you have finished, try the [practice questions](/resources/oxfordaqa-a-leve
 11. Ligand replacement (ligand substitution)
 12. It also binds to DNA in healthy cells, so it is not selective for cancer cells
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-amines--04-substitution-ladder.webp" width="900" height="1280" alt="Ammonia reacts with RX to give primary, secondary, tertiary amines and finally a quaternary ammonium ion; the first four have a lone pair on N, the quaternary ion has none so the sequence stops. Excess NH3 favours primary, excess RX the quaternary salt. AQA and OxfordAQA also need long-chain quaternary ammonium salts as cationic surfactants." loading="lazy">
+  <figcaption>Repeated substitution gives primary, secondary, tertiary amines and a quaternary salt; long-chain quaternary salts are cationic surfactants (AQA, OxfordAQA).</figcaption>
+</figure>
+
+
 ## Where marks are usually lost
 
 - Leaving the side chain out of the charge count, for example giving glutamic acid in alkali a charge of −1.

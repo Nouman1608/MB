@@ -231,6 +231,12 @@ Distinction to keep: red shift is evidence that the universe is expanding. CMBR 
 9. Red shift of light from distant galaxies, and the cosmic microwave background radiation.
 10. 1.4 × 10¹⁰ years.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-physics-solar-system-orbits-red-shift-and-the-big-bang--08-light-year.webp" width="900" height="880" alt="Light travels 3.00 × 10^8 m each second. A year is 365.25 × 86 400 = 3.16 × 10^7 s. Multiplying gives one light-year as 9.47 × 10^15 m." loading="lazy">
+  <figcaption>One light-year = 3.00 × 10^8 m/s × 3.16 × 10^7 s = 9.47 × 10^15 m.</figcaption>
+</figure>
+
+
 ## Where marks are usually lost
 
 - Writing that the speed of an orbiting body changes, instead of the direction of its velocity.

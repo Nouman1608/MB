@@ -130,11 +130,6 @@ Equations:
   <figcaption>Two results are special: Al(OH)3 dissolves in excess NaOH and Cu(OH)2 dissolves in excess NH3.</figcaption>
 </figure>
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-reactions-of-ions-in-aqueous-solution--08-ammonium-test.webp" width="900" height="990" alt="A test tube of ammonium salt and sodium hydroxide solution stands in a warm water bath with bubbles rising. Ammonia gas leaves the mouth of the tube and reaches damp red litmus paper held just above it, not touching the glass. The paper turns blue, showing an alkaline gas." loading="lazy">
-  <figcaption>Warm with NaOH and hold damp red litmus at the mouth of the tube: it turns blue if NH4+ is present.</figcaption>
-</figure>
-
 
 ## Amphoteric aluminium hydroxide
 
@@ -204,6 +199,11 @@ Aluminium hydroxide does **not** dissolve in excess ammonia. Ammonia is a weak b
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/aqa-a-level-chemistry-reactions-of-ions-in-aqueous-solution--07-silver-halides.webp" width="900" height="1060" alt="A 3 by 3 grid of tubes for chloride, bromide and iodide. With silver nitrate the precipitates are white, cream and yellow. Dilute ammonia dissolves only silver chloride; concentrated ammonia dissolves silver chloride and silver bromide; silver iodide never dissolves." loading="lazy">
   <figcaption>Chloride dissolves in dilute NH3, bromide only in concentrated NH3, and iodide does not dissolve.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-reactions-of-ions-in-aqueous-solution--08-ammonium-test.webp" width="900" height="990" alt="A test tube of ammonium salt and sodium hydroxide solution stands in a warm water bath with bubbles rising. Ammonia gas leaves the mouth of the tube and reaches damp red litmus paper held just above it, not touching the glass. The paper turns blue, showing an alkaline gas." loading="lazy">
+  <figcaption>Warm with NaOH and hold damp red litmus at the mouth of the tube: it turns blue if NH4+ is present.</figcaption>
 </figure>
 
 

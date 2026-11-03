@@ -123,11 +123,6 @@ Yeast is grown in a glucose solution, and the rate of respiration is found from 
 **Worked example: rate from data.** Data supplied for anaerobic yeast: carbon dioxide collected is 0 cm³ at 0 min, 1.8 at 2, 3.4 at 4, 4.6 at 6 and 5.2 at 8. Mean rate from 0 to 4 min = 3.4 ÷ 4 = **0.85 cm³ min⁻¹**. Mean rate from 6 to 8 min = (5.2 − 4.6) ÷ 2 = **0.30 cm³ min⁻¹**. The rate falls because glucose is used up and ethanol accumulates.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-level-biology-9700-energy-and-respiration--01-respiration-overview.webp" width="900" height="1080" alt="A map of one glucose through respiration in three bands. Glycolysis in the cytoplasm gives 2 pyruvate, net 2 ATP and 2 reduced NAD. Pyruvate enters the matrix, where the link reaction (twice) and Krebs cycle (twice) release 6 CO2 in total and make 2 more ATP. Reduced NAD and FAD carry hydrogen to the inner membrane, where the electron transport chain and ATP synthase make most of the ATP and oxygen forms water." loading="lazy">
-  <figcaption>One glucose passes through four stages in three places: cytoplasm, matrix and inner mitochondrial membrane.</figcaption>
-</figure>
-
-<figure class="topic-figure">
   <img src="https://img.marlbridge.com/a-level-biology-9700-energy-and-respiration--08-fermentation.webp" width="900" height="1030" alt="Without oxygen only glycolysis runs. In animals pyruvate accepts hydrogen from reduced NAD to make lactate (reversible, no CO2). In yeast and plants pyruvate loses CO2 to make ethanal, which is reduced to ethanol (not reversible). Both regenerate NAD; no ATP comes from this step." loading="lazy">
   <figcaption>Fermentation regenerates NAD so glycolysis can continue; the only ATP is the net 2 from glycolysis.</figcaption>
 </figure>
@@ -148,6 +143,11 @@ These are approximate; use values given in a question. Lipids give more than twi
 **Worked example.** Data supplied: carbohydrate 17 kJ g⁻¹, lipid 37 kJ g⁻¹. What mass of lipid gives the same energy as 100 g of carbohydrate?
 Energy = 100 × 17 = 1700 kJ.
 Mass of lipid = 1700 ÷ 37 = **46 g** (2 s.f.).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-energy-and-respiration--01-respiration-overview.webp" width="900" height="1080" alt="A map of one glucose through respiration in three bands. Glycolysis in the cytoplasm gives 2 pyruvate, net 2 ATP and 2 reduced NAD. Pyruvate enters the matrix, where the link reaction (twice) and Krebs cycle (twice) release 6 CO2 in total and make 2 more ATP. Reduced NAD and FAD carry hydrogen to the inner membrane, where the electron transport chain and ATP synthase make most of the ATP and oxygen forms water." loading="lazy">
+  <figcaption>One glucose passes through four stages in three places: cytoplasm, matrix and inner mitochondrial membrane.</figcaption>
+</figure>
 
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/a-level-biology-9700-energy-and-respiration--03-glycolysis.webp" width="900" height="1120" alt="Glucose (6C) is phosphorylated using 2 ATP, the hexose bisphosphate splits into two triose phosphates, and each is oxidised to pyruvate, making reduced NAD and 2 ATP. Net per glucose: 2 ATP (4 made, 2 used), 2 reduced NAD and 2 pyruvate." loading="lazy">

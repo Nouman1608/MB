@@ -193,6 +193,11 @@ Industrial policy is targeted support for particular industries or regions: subs
   <figcaption>If productivity rises faster than pay, unit labour cost falls.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-objectives-of-government--04-unemployment-types.webp" width="900" height="1000" alt="Four panels: cyclical (unemployment rises when output falls), seasonal (a yearly repeating pattern), structural (long-term decline of an industry), frictional (a short gap between two jobs)." loading="lazy">
+  <figcaption>Each type of unemployment has a different pattern over time.</figcaption>
+</figure>
+
 
 ## Common errors
 

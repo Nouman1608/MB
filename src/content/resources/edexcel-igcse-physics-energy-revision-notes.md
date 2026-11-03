@@ -151,6 +151,11 @@ Work done equals energy transferred, and **P = W/t** gives the rate of that tran
   <figcaption>Leslie cube and what changes the rate of emission.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-physics-dissipation-efficiency-and-reducing-energy-loss--08-insulation-traps-air.webp" width="900" height="1180" alt="Three panels show loft fibres holding air in pockets, double glazing with trapped gas between two panes, and a foam-filled cavity wall. Each has a thick arrow of energy entering and a thin arrow leaving, so insulation slows the transfer but does not stop it." loading="lazy">
+  <figcaption>Trapped air in small pockets cannot circulate, so conduction is poor and convection is stopped.</figcaption>
+</figure>
+
 
 ## Energy resources
 
@@ -182,3 +187,14 @@ Work done equals energy transferred, and **P = W/t** gives the rate of that tran
 7. A crane lifts a 200 kg load through 15 m in 10 s (g = 9.8 N/kg). Calculate the work done and the power.
 
 **Answers:** 1. They are transfer pathways — ways energy moves between stores — rather than stores themselves. 2. It is transferred to the thermal store of the surroundings, where it becomes spread out and too dilute to be useful; it is not destroyed. 3. They contain delocalised free electrons that move through the structure carrying energy, which is far faster than transfer by particle vibration alone. 4. The particles are fixed in position and cannot move from place to place, which convection requires. 5. A good absorber is also a good emitter — matt black surfaces are best at both, shiny surfaces poorest at both. 6. efficiency = (350 ÷ 500) × 100% = 70%. 7. W = mgh = 200 × 9.8 × 15 = 29,400 J; P = W/t = 29,400 ÷ 10 = 2,940 W.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/energy-resources-and-efficiency--01-renewable-or-not.webp" width="900" height="1084" alt="Two columns. Non-renewable (tank draining, not refilled): coal, oil, natural gas and nuclear fuel. Renewable (tank refilled naturally): biofuels, hydroelectric, solar, geothermal, wind, tides and waves. Nuclear fuel is finite so it is non-renewable." loading="lazy">
+  <figcaption>Non-renewable resources are used faster than they are replaced; renewable ones are replenished naturally.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-physics-national-and-global-energy-resources--07-reliability-vs-impact.webp" width="900" height="1140" alt="A qualitative chart: nuclear is highly reliable but produces radioactive waste; wind has few environmental drawbacks but is weather dependent; fossil fuels are reliable but release carbon dioxide." loading="lazy">
+  <figcaption>Reliability and environmental impact are two separate judgements.</figcaption>
+</figure>
+

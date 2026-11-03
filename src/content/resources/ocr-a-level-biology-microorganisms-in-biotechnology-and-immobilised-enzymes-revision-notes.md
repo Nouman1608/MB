@@ -109,6 +109,12 @@ These revision notes condense learning outcomes 6.2.1(e) to 6.2.1(i) of the OCR 
 
 On a log scale, the exponential phase is a straight line. A gradient of 0.30 log₁₀ units per hour means the number doubles each hour, because log₁₀ 2 = 0.301.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-factors-that-affect-enzyme-action--06-substrate-km.webp" width="900" height="1060" alt="A graph of initial rate against substrate concentration with the lesson data (0.5 to 32 mmol per dm3) on a curve to Vmax 40. Half Vmax (20) gives Km 2.5; a second enzyme with Km 9 has lower affinity. Three panels of eight active sites show 1, 4 and 7 filled at low, Km and high substrate." loading="lazy">
+  <figcaption>Km is the substrate concentration at half Vmax; a low Km means high affinity.</figcaption>
+</figure>
+
+
 ## Reading growth data
 
 - Name the phase from the shape: flat at the start is lag, steep rise is exponential, plateau is stationary, fall is death.
@@ -120,11 +126,6 @@ On a log scale, the exponential phase is a straight line. A gradient of 0.30 log
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/a-level-biology-9700-factors-that-affect-enzyme-action--04-initial-rate.webp" width="900" height="1000" alt="A graph of oxygen volume against time with points at 0 to 120 seconds from the lesson. The tangent at t = 0 passes through (0,0) and (20,10), so the initial rate is 0.50 cm3 per second; a line from 60 to 120 s gives 0.10 cm3 per second. A flask and gas syringe show how the oxygen is collected." loading="lazy">
   <figcaption>The initial rate is the gradient of the tangent at t = 0 and is the best value for comparing experiments.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-level-biology-9700-factors-that-affect-enzyme-action--06-substrate-km.webp" width="900" height="1060" alt="A graph of initial rate against substrate concentration with the lesson data (0.5 to 32 mmol per dm3) on a curve to Vmax 40. Half Vmax (20) gives Km 2.5; a second enzyme with Km 9 has lower affinity. Three panels of eight active sites show 1, 4 and 7 filled at low, Km and high substrate." loading="lazy">
-  <figcaption>Km is the substrate concentration at half Vmax; a low Km means high affinity.</figcaption>
 </figure>
 
 

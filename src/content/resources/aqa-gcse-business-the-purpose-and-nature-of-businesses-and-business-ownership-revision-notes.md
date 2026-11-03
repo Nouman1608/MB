@@ -214,12 +214,6 @@ Check: a ratio of 3:1 on £36,000 profit gives £27,000 and £9,000. Dividends o
 - Ltd versus plc: who may buy shares.
 - Profit (kept by owners) versus surplus (normally reinvested in a not-for-profit organisation).
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-business-understanding-business-activity--01-needs-wants-scarcity.webp" width="900" height="1010" alt="Needs and wants shown as pictures, then a balance scale: a few coins (limited resources) outweighed by many goods (unlimited wants)." loading="lazy">
-  <figcaption>Scarcity means limited resources cannot meet unlimited wants, so choices must be made.</figcaption>
-</figure>
-
-
 ## Quick self-test
 
 1. State the three sectors and give one example for each.
@@ -249,6 +243,12 @@ Check: a ratio of 3:1 on £36,000 profit gives £27,000 and £9,000. Dividends o
 10. £30,000 ÷ 50,000 = £0.60 per share; 2,500 × £0.60 = £1,500.
 11. Benefit: full control and all the profit. Drawback: unlimited liability.
 12. It is normally reinvested into the organisation's purpose, not shared out among owners.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-business-understanding-business-activity--01-needs-wants-scarcity.webp" width="900" height="1010" alt="Needs and wants shown as pictures, then a balance scale: a few coins (limited resources) outweighed by many goods (unlimited wants)." loading="lazy">
+  <figcaption>Scarcity means limited resources cannot meet unlimited wants, so choices must be made.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

@@ -194,12 +194,6 @@ If one curve plateaus at a low CO₂ concentration and a second curve at a highe
 - Method: allow a few minutes at each distance before counting, and use at least three repeats.
 - Evaluation: bubble size varies; some oxygen dissolves or is used in respiration; counting is subjective.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-level-biology-9700-photosynthesis--09-pondweed-practical.webp" width="900" height="1090" alt="Apparatus for the pondweed investigation: a lamp at distance d, a water heat shield, and pondweed in hydrogencarbonate solution releasing oxygen into a capillary. A bar chart shows intensity is proportional to 1/d squared: 1, 0.25 and 0.0625 at 10, 20 and 40 cm." loading="lazy">
-  <figcaption>How moving the lamp changes light intensity in the pondweed practical.</figcaption>
-</figure>
-
-
 ## Quick self-test
 
 1. What is the role of chlorophyll in the light-dependent reaction?
@@ -227,6 +221,12 @@ If one curve plateaus at a low CO₂ concentration and a second curve at a highe
 9. Carbon dioxide concentration and temperature.
 10. Enzymes, including rubisco, denature, so the active site no longer fits the substrate.
 11. It falls to (10 ÷ 20)² = 0.25, or one quarter.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-photosynthesis--09-pondweed-practical.webp" width="900" height="1090" alt="Apparatus for the pondweed investigation: a lamp at distance d, a water heat shield, and pondweed in hydrogencarbonate solution releasing oxygen into a capillary. A bar chart shows intensity is proportional to 1/d squared: 1, 0.25 and 0.0625 at 10, 20 and 40 cm." loading="lazy">
+  <figcaption>How moving the lamp changes light intensity in the pondweed practical.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

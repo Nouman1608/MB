@@ -195,6 +195,17 @@ If your answer says a mitochondrion is 1.8 mm long, you have missed a conversion
 11. Most cell structures are nearly colourless; the stain makes nuclei and cell outlines visible.
 12. Individual cells; shading (also: organelles).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-biology-eukaryotic-and-prokaryotic-cell-structure--01-animal-cell.webp" width="900" height="870" alt="A typical animal cell with its organelles labelled: cell surface membrane, nucleus with a two-membrane envelope with pores and a dark nucleolus, rough ER with ribosomes, smooth ER tubes without ribosomes, Golgi apparatus with vesicles, lysosome, a pair of centrioles at right angles, free ribosomes and mitochondria with folded inner membranes." loading="lazy">
+  <figcaption>The main organelles of an animal cell, drawn as seen with an electron microscope.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-biology-eukaryotic-and-prokaryotic-cell-structure--02-plant-cell.webp" width="900" height="830" alt="A plant cell drawn above part of its neighbour. A thick cellulose cell wall surrounds the cell surface membrane. Inside are a nucleus, a chloroplast with grana, an amyloplast with starch grains, and a large permanent vacuole bounded by the tonoplast. Between the two cells are the middle lamella, plasmodesmata channels through both walls, and a pair of aligned pits." loading="lazy">
+  <figcaption>Plant cells add a cellulose wall, chloroplasts, a large vacuole with a tonoplast and plasmodesmata; amyloplast, middle lamella and pits are Edexcel statements.</figcaption>
+</figure>
+
+
 ## Where marks are usually lost
 
 - Dividing a measurement in mm by one in µm without converting.
@@ -213,6 +224,12 @@ If your answer says a mitochondrion is 1.8 mm long, you have missed a conversion
 - Full teaching and worked examples: [1.1 study guide](/resources/a-level-biology-9700-the-microscope-in-cell-studies/).
 - Marked practice: [1.1 practice questions](/resources/a-level-biology-9700-the-microscope-in-cell-studies-practice/) and the topic-level [Cell structure practice questions](/resources/a-level-biology-cell-structure-practice/).
 - The [9700 course hub](/boards/cambridge/a-level/biology/), the [printable checklist](/checklists/cambridge/a-level/biology/) and the free [9700 AS diagnostic](/practice/9700/diagnostic/as/).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-biology-eukaryotic-and-prokaryotic-cell-structure--09-cell-fractionation.webp" width="900" height="980" alt="Tissue is homogenised in a cold, isotonic, buffered solution, then filtered to remove debris. The filtrate is spun at increasing speeds. The pellet at each speed is a different organelle: nuclei, chloroplasts (plant only), mitochondria, lysosomes, endoplasmic reticulum pieces, then ribosomes. The liquid above the pellet is poured into a new tube and spun faster." loading="lazy">
+  <figcaption>The largest, densest organelles pellet first, at the lowest speed.</figcaption>
+</figure>
+
 
 ## Official syllabus
 

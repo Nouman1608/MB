@@ -214,6 +214,12 @@ Example. A rectangle has sides (x + 3) cm and x cm and area 40 cm². Then x(x + 
 9. b² − 4ac = 25 + 8 = 33, so x = (−5 ± √33)/4, which is **0.186 or −2.69**.
 10. b² − 4ac = 9 − 20 = −11, which is negative, so **there are no real solutions**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-maths-4ma1-quadratic-equations--04-quad-discriminant.webp" width="900" height="1010" alt="Three parabolas: 3x² − 7x + 1 (b² − 4ac = 37) crosses the x-axis twice; x² − 6x + 9 (0) touches it once at x = 3; x² − 2x + 3 (−8) never reaches it, so there are no real solutions." loading="lazy">
+  <figcaption>Positive discriminant: two solutions; zero: one repeated solution; negative: none.</figcaption>
+</figure>
+
+
 ## Where marks are usually lost
 
 - Not rearranging to "= 0" before factorising, for example solving (x + 1)(x + 4) = 10 by setting each bracket to 10.

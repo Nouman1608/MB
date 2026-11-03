@@ -108,6 +108,11 @@ now has four carbons including the nitrile carbon (numbered C1), with a methyl g
   <figcaption>Homolytic fission gives radicals, heterolytic fission gives ions (AQA, Edexcel, OCR, OxfordAQA).</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-organic-chemistry-naming-mechanisms-and-aromatic-shape--03-radical-substitution.webp" width="900" height="1160" alt="Initiation by UV splits Cl2; two propagation steps form a repeating cycle (Cl radical to methyl radical and back) making HCl and CH3Cl; termination steps remove radicals." loading="lazy">
+  <figcaption>A chain reaction of initiation, propagation and termination (AQA, Edexcel, OCR, OxfordAQA).</figcaption>
+</figure>
+
 
 ## Bond enthalpy and rate
 
@@ -149,6 +154,11 @@ rate of substitution:  iodo > bromo > chloro > fluoro
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/aqa-a-level-chemistry-halogenoalkanes--04-bond-enthalpy-rate.webp" width="900" height="1110" alt="Bars of mean bond enthalpy C-F 470, C-Cl 350, C-Br 290, C-I 230 kJ/mol with a rate indicator, plus a note that C-F is the most polar yet slowest, so bond enthalpy not polarity decides the rate." loading="lazy">
   <figcaption>The weaker the C-X bond, the faster it hydrolyses; polarity predicts the opposite order.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-halogenoalkanes--06-primary-secondary-tertiary.webp" width="900" height="1160" alt="Skeletal 1-bromopentane, 2-bromopentane and 2-bromo-2-methylbutane with the C-Br carbon ringed and rate bars (1/t) for 210 s, 95 s and 8 s." loading="lazy">
+  <figcaption>The more carbons attached to the C-Br carbon, the faster the hydrolysis; tertiary is about 26 times faster than primary (Edexcel only).</figcaption>
 </figure>
 
 
@@ -260,8 +270,13 @@ the [study guide](/resources/aqa-a-level-chemistry-halogenoalkanes/) for anythin
 10-minute [diagnostics](/diagnostics/).
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-organic-chemistry-naming-mechanisms-and-aromatic-shape--03-radical-substitution.webp" width="900" height="1160" alt="Initiation by UV splits Cl2; two propagation steps form a repeating cycle (Cl radical to methyl radical and back) making HCl and CH3Cl; termination steps remove radicals." loading="lazy">
-  <figcaption>A chain reaction of initiation, propagation and termination (AQA, Edexcel, OCR, OxfordAQA).</figcaption>
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-halogenoalkanes--03-ammonia-mechanism.webp" width="900" height="910" alt="Step 1: the N lone pair attacks C and the C-Br pair moves to Br, giving CH3CH2NH3+ and Br-. Step 2: a second NH3 takes H+, giving ethylamine and NH4+." loading="lazy">
+  <figcaption>Ammonia acts twice, first as a nucleophile and then as a base, giving ethylamine and NH4+ (AQA, Edexcel, OxfordAQA; OCR teaches it later).</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-organic-chemistry-naming-mechanisms-and-aromatic-shape--05-cracking.webp" width="900" height="1070" alt="Dodecane is cracked, breaking two C-C bonds to give octane and two ethene molecules; conditions for thermal and catalytic cracking are shown (AQA)." loading="lazy">
+  <figcaption>Cracking breaks C-C bonds to make shorter alkanes and alkenes (AQA, Edexcel).</figcaption>
 </figure>
 
 

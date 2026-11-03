@@ -193,6 +193,25 @@ just to calculate the figure but to **interpret** it: a falling
 customer retention rate, for instance, signals a problem worth
 investigating even while overall sales volume is rising.
 
+## Quick revision checklist
+
+- State the difference between marketing objectives and a marketing
+plan, and give one example of each.
+- Compare primary and secondary marketing research, and state one
+factor that influences which a business would choose.
+- Explain segmentation, targeting and positioning as three connected
+steps, not separate topics.
+- List all 7Ps of the marketing mix under 9625 (product, price,
+promotion, place, people, process, physical environment), not just
+the classic 4Ps -- and know that 9725 reduces the mix back to 4Ps.
+- Interpret a price elasticity of demand figure and explain its effect
+on total revenue if price changes.
+- Calculate and interpret market share, customer retention rate, and
+sales per employee/product/region/store.
+- Apply the Boston Matrix categories (cash cows, stars, dogs, problem
+children) to a product portfolio scenario (9625 first-year; moves to
+A2 under 9725).
+
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/a-level-business-marketing--01-boston-matrix.webp" width="900" height="1000" alt="Chart of relative market share (high left, low right, log scale) against market growth. Star, Question mark, Cash cow and Dog quadrants each carry a one-line strategy, with four illustrative products A to D placed in them." loading="lazy">
   <figcaption>The Boston Matrix classifies products by market share and market growth and suggests a strategy for each.</figcaption>
@@ -238,25 +257,6 @@ investigating even while overall sales volume is rising.
   <figcaption>In the Delphi technique anonymous experts revise their forecasts over rounds until they converge.</figcaption>
 </figure>
 
-
-## Quick revision checklist
-
-- State the difference between marketing objectives and a marketing
-plan, and give one example of each.
-- Compare primary and secondary marketing research, and state one
-factor that influences which a business would choose.
-- Explain segmentation, targeting and positioning as three connected
-steps, not separate topics.
-- List all 7Ps of the marketing mix under 9625 (product, price,
-promotion, place, people, process, physical environment), not just
-the classic 4Ps -- and know that 9725 reduces the mix back to 4Ps.
-- Interpret a price elasticity of demand figure and explain its effect
-on total revenue if price changes.
-- Calculate and interpret market share, customer retention rate, and
-sales per employee/product/region/store.
-- Apply the Boston Matrix categories (cash cows, stars, dogs, problem
-children) to a product portfolio scenario (9625 first-year; moves to
-A2 under 9725).
 
 ## Specification transition note
 

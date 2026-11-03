@@ -129,6 +129,11 @@ Negative numbers: subtracting a negative adds. −3 − (−8) = 5, and 4 × (�
   <figcaption>Further left on the number line always means smaller, whatever the form or sign.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-fractions-decimals-percentages-ordering-operations--03-recurring-to-fraction.webp" width="900" height="870" alt="Two rows of digit boxes show x = 0.3636... and 100x = 36.3636... with identical tails after the decimal point. Subtracting gives 99x = 36, so x = 36/99 = 4/11." loading="lazy">
+  <figcaption>Multiplying by 100 lines up the repeating tails so that subtracting removes them.</figcaption>
+</figure>
+
 
 ## 1.7 Indices
 
@@ -149,6 +154,21 @@ To solve 2ˣ = 1/32, write 1/32 as 2⁻⁵, so x = −5.
   <figcaption>A negative power flips the fraction; a fractional power takes the root first.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-powers-roots-and-indices--04-index-rules-tiles.webp" width="900" height="976" alt="Tiles show 2^3 x 2^4 as 7 factors (2^7 = 128), (3^2)^4 as 4 groups of 2 factors (3^8), and 2^4 / 2^7 with 4 pairs cancelling leaving 3 below (2^-3 = 1/8). The rules need the same base." loading="lazy">
+  <figcaption>Counting factors explains add, multiply and subtract for indices.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-powers-roots-and-indices--03-zero-negative-indices.webp" width="900" height="1032" alt="A staircase lists 5^3 down to 5^-3. Each step lowers the index by 1 and divides by 5, giving 125, 25, 5, 1, 1/5, 1/25, 1/125. So 5^0 = 1 and a negative index gives a small positive reciprocal." loading="lazy">
+  <figcaption>Each step down divides by 5, so 5^0 = 1 and 5^-n is 1 over 5^n.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-powers-roots-and-indices--05-fractional-indices.webp" width="900" height="1000" alt="A cube of 125 blocks has side 5, so 125^(1/3) = 5. Two flow chains show 125^(-2/3): root 3, square, flip gives 1/25, and 32^(3/5): root 5, cube gives 8." loading="lazy">
+  <figcaption>The denominator is the root, the numerator is the power, and a minus sign flips.</figcaption>
+</figure>
+
 
 ## 1.8 Standard form
 
@@ -159,6 +179,22 @@ To solve 2ˣ = 1/32, write 1/32 as 2⁻⁵, so x = −5.
 - Multiply: multiply the numbers, add the powers. (6 × 10⁻³) × (5 × 10⁷) = 30 × 10⁴ = 3 × 10⁵.
 - Add: match powers first. 3.2 × 10⁻³ + 4.5 × 10⁻⁴ = 3.2 × 10⁻³ + 0.45 × 10⁻³ = 3.65 × 10⁻³.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-number--03-standard-form.webp" width="900" height="880" alt="Digit boxes show the decimal point of 4 560 000 jumping 6 places left to give 4.56 x 10^6, and of 0.00032 jumping 4 places right to give 3.2 x 10^-4. A must lie between 1 and 10." loading="lazy">
+  <figcaption>Move the decimal point until the number is between 1 and 10; the count of moves is the power of 10.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-mathematics-powers-roots-laws-of-indices-and-standard-form--06-standard-form-multiply-divide.webp" width="900" height="1010" alt="Worked multiply and divide: (3.2 × 10⁵) × (4 × 10⁻⁸): 3.2 × 4 = 12.8, indices 5 + (−8) = −3, then tidy 12.8 to 1.28 and raise the index to −2 giving 1.28 × 10⁻². (9.6 × 10⁷) ÷ (1.6 × 10⁻³): 6 and 7 − (−3) = 10, giving 6 × 10¹⁰." loading="lazy">
+  <figcaption>Multiply or divide the numbers, add or subtract the indices, then tidy A into 1 to 10.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-mathematics-powers-roots-laws-of-indices-and-standard-form--07-standard-form-add.webp" width="900" height="870" alt="Bars drawn to scale: 4.5 × 10⁶ and 3.2 × 10⁵ rewritten as 0.32 × 10⁶ combine to length 4.82, so the sum is 4.82 × 10⁶. Indices are added only when multiplying." loading="lazy">
+  <figcaption>To add standard form numbers, match the powers of 10 first.</figcaption>
+</figure>
+
+
 ## 1.9 Estimation
 
 - Decimal places count after the point. Significant figures start at the first non-zero digit.
@@ -166,6 +202,12 @@ To solve 2ˣ = 1/32, write 1/32 as 2⁻⁵, so x = −5.
 - Estimate by rounding every value to 1 significant figure. Show the rounded values.
 - Round a final answer sensibly for the context, for example money to 2 decimal places.
 - Do not round part-way through a calculation.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-estimation-and-using-a-calculator--03-estimate-calculation.webp" width="900" height="800" alt="62.4, 0.187 and 3.87 are rounded to 60, 0.2 and 4. The estimate is (60 x 0.2) / 4 = 3. On a number line it lies right next to the calculator value 3.015." loading="lazy">
+  <figcaption>Round every number to 1 s.f., write the rounded calculation, and work it out.</figcaption>
+</figure>
+
 
 ## 1.10 Limits of accuracy
 
@@ -181,6 +223,16 @@ To solve 2ˣ = 1/32, write 1/32 as 2⁻⁵, so x = −5.
   <figcaption>For a speed, the lower bound uses the smallest distance and the largest time.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-number--04-limits-of-accuracy.webp" width="900" height="810" alt="A number line from 4.50 to 4.70 kg shades the values from 4.55 to 4.65 that round to 4.6 kg. The lower bound 4.55 is included (filled dot); the upper bound 4.65 is not (open dot)." loading="lazy">
+  <figcaption>A value given to 1 d.p. can be up to half a unit (0.05) either side: 4.55 &lt;= mass &lt; 4.65.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-mathematics-number--03-bounds-greatest-rules.webp" width="900" height="960" alt="Four panels for a = 12.4 and b = 7.8, each with two short number lines marking a lower bound L and an upper bound U. Greatest sum uses U and U, 20.3. Greatest difference uses U for a and L for b, 4.7. Greatest product uses U and U, 97.7325. Greatest quotient uses U for a and L for b, 12.45 divided by 7.75, about 1.606." loading="lazy">
+  <figcaption>For the greatest answer: add and multiply with upper bounds, subtract and divide with upper then lower.</figcaption>
+</figure>
+
 
 ## 1.11 and 1.12 Ratio, proportion and rates
 
@@ -191,6 +243,17 @@ To solve 2ˣ = 1/32, write 1/32 as 2⁻⁵, so x = −5.
 - Pressure, density and similar formulas are given in the question, according to the syllabus. Speed, distance and time are not.
 - Average speed = total distance ÷ total time.
 - Unit conversion: to change km/h to m/s divide by 3.6. So 72 km/h = 20 m/s.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-number--05-sharing-in-a-ratio.webp" width="900" height="680" alt="A bar of nine equal blocks worth 20 each is split 2, 3 and 4. The total 180 divided by 9 gives 20 per part, so the shares are 40, 60 and 80 dollars." loading="lazy">
+  <figcaption>Add the parts, divide the total by that number, then multiply by each share.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-rates-time-and-money--01-journey-in-stages.webp" width="900" height="880" alt="A distance-time graph: 90 km in 1.5 h at 60 km/h, a 20-minute stop, then 50 km in 40 minutes, reaching 140 km after 2.5 h. A dashed line from start to end shows the average speed, 56 km/h, which is 140 divided by 2.5. The stop counts in the total time." loading="lazy">
+  <figcaption>Average speed is total distance divided by total time, with any stop included.</figcaption>
+</figure>
+
 
 ## 1.13 and 1.17 Percentages, interest, growth and decay
 
@@ -210,6 +273,12 @@ To solve 2ˣ = 1/32, write 1/32 as 2⁻⁵, so x = −5.
 **Reverse.** A price after a 20% discount is 1920 dollars. Original = 1920 ÷ 0.8 = 2400 dollars.
 
 **Growth and decay.** Value = start × multiplierⁿ. A machine worth 8000 dollars losing 15% a year is worth 8000 × 0.85³ = 4913 dollars after 3 years. Know the terms deposit, discount, profit, loss and earnings. Percentages over 100% are allowed, so 120% of 85 is 102.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-number--06-percentage-multiplier.webp" width="900" height="780" alt="Bars drawn to scale show $70 as 100%. Multiplying by 1.2 gives $84 (120%); multiplying by 0.8 gives $56 (80%). The decrease panel extends the lesson example for contrast." loading="lazy">
+  <figcaption>A percentage change is a single multiplication: increase 20% is x 1.2, decrease 20% is x 0.8.</figcaption>
+</figure>
+
 
 ## 1.14 Using a calculator
 

@@ -120,6 +120,12 @@ Condensed recall for sections 3.4.1, 3.4.2.1 and 3.4.2.2 of the OxfordAQA Intern
 
 **Worked reminder (summation):** a single rod gives 0.8 mV in dim light and the threshold is 3.0 mV. Four rods give 4 × 0.8 = 3.2 mV, which is enough. Convergence of 90 rods onto 5 bipolar neurones is 90 ÷ 5 = 18 rods for each.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-control-and-coordination--06-summation.webp" width="900" height="1010" alt="Two small diagrams show spatial summation (five neurones at once) and temporal summation (one neurone firing five times quickly). A staircase graph rises from -70 mV by 3 mV per impulse to the -55 mV threshold on the fifth impulse, where an action potential starts. One impulse alone gives -67 mV, below threshold. No decay is assumed, as in the lesson example." loading="lazy">
+  <figcaption>Small depolarisations add up to reach threshold: 5 x 3 mV = 15 mV.</figcaption>
+</figure>
+
+
 ## Must-know distinctions
 
 - **Taxis or kinesis?** Look for direction. Directed movement is a taxis; changes in speed or turning with intensity are a kinesis.
@@ -161,6 +167,17 @@ Condensed recall for sections 3.4.1, 3.4.2.1 and 3.4.2.2 of the OxfordAQA Intern
 9. Rhodopsin is changed by low-intensity light, and many rods share one bipolar neurone, so their generator potentials sum to reach the threshold.
 10. Each cone has its own bipolar neurone, so two points stimulating different cones give two separate sets of impulses.
 11. Only rods respond. They have one pigment, so the brain cannot compare responses of different types.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-control-and-coordination--03-resting-potential.webp" width="900" height="1010" alt="A membrane separates the outside above from the inside of the axon below. A sodium-potassium pump moves 3 Na+ out for every 2 K+ in, using ATP. Open K+ channels let K+ diffuse out quickly while Na+ channels are mostly closed, and negatively charged proteins stay inside. The inside is therefore negative, about -70 mV." loading="lazy">
+  <figcaption>The pump, leaky K+ channels and trapped negative proteins make the inside of the axon about -70 mV.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-control-and-coordination--04-action-potential.webp" width="900" height="1010" alt="A graph of membrane potential against time rests at -70 mV, depolarises past the -55 mV threshold to +40 mV, repolarises as K+ leaves, dips below -70 mV (hyperpolarisation) and returns to rest. Bars show Na+ channels open on the rising phase and K+ channels open on the falling phase. A 2.5 ms refractory period limits the frequency to 400 impulses per second." loading="lazy">
+  <figcaption>Membrane potential during one action potential, with channel activity and the refractory period.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

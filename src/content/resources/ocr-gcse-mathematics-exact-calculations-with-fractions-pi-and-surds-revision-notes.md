@@ -97,6 +97,11 @@ Ratios of circle areas: radii 3 and 5 give 9π : 25π = 9 : 25. The π cancels.
   <figcaption>A ring is the outer circle minus the inner one, and π stays a symbol.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-mathematics-exact-calculations-with-fractions-pi-and-surds--06-cylinder.webp" width="900" height="816" alt="A cylinder with radius 6 cm and height 7 cm. Its volume is pi times 6 squared times 7, which is 252 pi cubic centimetres. Unrolling the curved surface gives a rectangle 2 pi times 6, which is 12 pi, wide and 7 cm high, so its area is 84 pi square centimetres." loading="lazy">
+  <figcaption>Volume is base area times height, and the unrolled curved surface is a 12π by 7 rectangle.</figcaption>
+</figure>
+
 
 ## Surds (Higher tier only)
 
@@ -122,6 +127,11 @@ A surd is an irrational root such as √2 or √11. A root that is a whole numbe
 **Expand:** multiply every term by every term. Surd × same surd gives a whole number.
 
 **Difference of two squares:** (a + √b)(a − √b) = a² − b. For example (√5 + 2)(√5 − 2) = 5 − 4 = 1.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-mathematics-exact-calculations-with-fractions-pi-and-surds--07-surd-grid.webp" width="900" height="857" alt="Two area grids. For (2 plus root 3)(5 minus root 3) the four cells are 10, 5 root 3, minus 2 root 3 and minus 3, giving 7 plus 3 root 3. For (3 plus root 2) squared the cells are 9, 3 root 2, 3 root 2 and 2, giving 11 plus 6 root 2. Root a times root a equals a." loading="lazy">
+  <figcaption>An area grid gives each product, and √a × √a = a makes the surd cells rational.</figcaption>
+</figure>
 
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/igcse-mathematics-0580-exponential-growth-decay-and-surds--04-surd-diagonal.webp" width="900" height="940" alt="A square of side 4 cm has a diagonal of root 32, since 16 + 16 = 32. Taking out the square factor gives 4 root 2, which lands near 5.657 on the number line." loading="lazy">
@@ -247,16 +257,6 @@ Do these without a calculator, then check the answers.
 10. 4 × 3 = **12**.
 11. 2 × 2√3 + 3√3 = 4√3 + 3√3 = **7√3**.
 12. Area = 1/4 × π × 64 = 16π. Arc = 1/4 × 2π × 8 = 4π. **16π cm² and 4π cm**.
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ocr-gcse-mathematics-exact-calculations-with-fractions-pi-and-surds--06-cylinder.webp" width="900" height="816" alt="A cylinder with radius 6 cm and height 7 cm. Its volume is pi times 6 squared times 7, which is 252 pi cubic centimetres. Unrolling the curved surface gives a rectangle 2 pi times 6, which is 12 pi, wide and 7 cm high, so its area is 84 pi square centimetres." loading="lazy">
-  <figcaption>Volume is base area times height, and the unrolled curved surface is a 12π by 7 rectangle.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ocr-gcse-mathematics-exact-calculations-with-fractions-pi-and-surds--07-surd-grid.webp" width="900" height="857" alt="Two area grids. For (2 plus root 3)(5 minus root 3) the four cells are 10, 5 root 3, minus 2 root 3 and minus 3, giving 7 plus 3 root 3. For (3 plus root 2) squared the cells are 9, 3 root 2, 3 root 2 and 2, giving 11 plus 6 root 2. Root a times root a equals a." loading="lazy">
-  <figcaption>An area grid gives each product, and √a × √a = a makes the surd cells rational.</figcaption>
-</figure>
 
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/igcse-mathematics-mensuration--03-arc-and-sector.webp" width="900" height="1010" alt="A 90 degree sector of radius 6 cm is a quarter of the circle: arc 9.42 cm, area 28.3 cm2. A 110 degree sector of radius 8 cm is 110/360 of the circle: arc 15.36 cm, area 61.4 cm2. Core angles are factors of 360; Extended allows any angle." loading="lazy">

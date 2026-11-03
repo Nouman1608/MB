@@ -77,6 +77,11 @@ the group.
   <figcaption>Atomic radius increases and first ionisation energy decreases from Mg to Ba.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-group-2-the-alkaline-earth-metals--06-halogen-boiling-points.webp" width="900" height="1050" alt="Diatomic molecules F2 to I2 grow larger with 18, 34, 70 and 106 electrons and stronger dashed van der Waals forces. Boiling points are minus 188, minus 34, 59 and 184 degrees Celsius. Only forces between molecules are overcome on boiling." loading="lazy">
+  <figcaption>Boiling point rises down Group 7 because more electrons give stronger van der Waals forces.</figcaption>
+</figure>
+
 
 ## 8.13 Reactions with oxygen, chlorine and water
 

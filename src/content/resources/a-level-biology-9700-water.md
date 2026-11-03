@@ -73,6 +73,12 @@ When you draw it, label δ+ and δ− on the atoms and use a dotted line for the
 
 Every property in this section comes back to hydrogen bonding. Learn the chain: **polar molecule → hydrogen bonds between molecules → property → role in an organism**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-carbohydrates-and-lipids--04-alpha-beta-glucose.webp" width="900" height="870" alt="Two ring drawings of glucose, each with five carbons and one oxygen, numbered 1 to 5 clockwise from the right-hand carbon, with CH2OH on carbon 5. OH on carbons 2 and 4 is below the ring and on carbon 3 above, in both. In alpha-glucose the OH on carbon 1 is below the ring and H above; in beta-glucose the OH is above and H below. Both are C6H12O6." loading="lazy">
+  <figcaption>The alpha and beta forms differ only in the position of the OH on carbon 1.</figcaption>
+</figure>
+
+
 ## Property 1: solvent action
 
 Water is a very good solvent for **polar** molecules and **ions**.

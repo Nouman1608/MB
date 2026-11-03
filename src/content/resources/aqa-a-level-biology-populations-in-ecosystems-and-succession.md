@@ -132,6 +132,11 @@ At each stage, certain species change the environment so that it becomes more su
 Biodiversity usually rises but can fall at the end, because a dense canopy lets little light through.
 
 <figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-biology-energy-transfer-and-productivity-in-ecosystems--07-eutrophication.webp" width="900" height="1110" alt="Fertiliser nitrate and phosphate leach into a pond. Algae bloom and shade out plants; dead material feeds bacteria whose respiration lowers oxygen and fish die. Example data: nitrate +277%, algae x34.5, oxygen -73%." loading="lazy">
+  <figcaption>Leached ions trigger an algal bloom and then oxygen loss through bacterial respiration.</figcaption>
+</figure>
+
+<figure class="topic-figure">
   <img src="https://img.marlbridge.com/aqa-a-level-biology-energy-transfer-and-productivity-in-ecosystems--09-succession.webp" width="900" height="1050" alt="Four quarry floors aged 5, 20, 50 and 120 years show soil depth rising from 0.5 to 25 cm. Plant species per 100 square metres rise from 3 to 22 at 50 years then fall to 19 at 120 years as light at the ground drops from 100% to 8%." loading="lazy">
   <figcaption>Each stage changes soil and light for the next; diversity can fall under a dense canopy.</figcaption>
 </figure>

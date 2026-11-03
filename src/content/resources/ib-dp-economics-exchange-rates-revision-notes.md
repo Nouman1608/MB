@@ -164,12 +164,6 @@ Second reminder, for a managed system. Demand for pels rises and the market rate
 
 Reach a judgement: it depends on the size of the economy, its trade dependence and its reserves.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ib-dp-economics-exchange-rates--05-fx-fixed-vs-floating-hl.webp" width="900" height="1030" alt="Six-criterion grid comparing fixed and floating rates." loading="lazy">
-  <figcaption>Fixed and floating compared on six criteria.</figcaption>
-</figure>
-
-
 ## Quick self-test
 
 1. Define depreciation of a currency under a floating system.
@@ -195,6 +189,12 @@ Reach a judgement: it depends on the size of the economy, its trade dependence a
 8. A **devaluation**: (1.20 - 1.50) / 1.50 x 100 = **-20%**.
 9. If quantities traded respond little to price, the higher import bill outweighs the extra export revenue.
 10. Fixed: greater certainty for trade. Floating: freedom to use interest rates for domestic goals, and no need for large reserves.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-economics-exchange-rates--05-fx-fixed-vs-floating-hl.webp" width="900" height="1030" alt="Six-criterion grid comparing fixed and floating rates." loading="lazy">
+  <figcaption>Fixed and floating compared on six criteria.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

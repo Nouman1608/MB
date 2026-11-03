@@ -121,17 +121,6 @@ The guide lists no formulas or definitions here, so the definitions below are st
 
 **TQM:** set customer-focused quality goals, train and empower staff, involve suppliers, use continuous improvement, and measure defects against a zero-defect target.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ib-dp-business-management-lean-production-and-quality-management-hl-only--02-benchmarking-gap.webp" width="900" height="810" alt="Bars show Plenmore delivering 82 percent of orders on time against 96 percent for the best performer. The gap is 14 percentage points." loading="lazy">
-  <figcaption>Benchmarking measures the gap to the best performer, then studies how they do it.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ib-dp-business-management-lean-production-and-quality-management-hl-only--03-quality-circle.webp" width="900" height="890" alt="Six workers meet around a table with a leader. They identify, analyze and solve quality problems. Gains are ideas, teamwork and motivation; costs are paid time and disappointment if ideas are ignored." loading="lazy">
-  <figcaption>A quality circle is a small team that meets regularly to solve quality problems.</figcaption>
-</figure>
-
-
 ## Impact checklist
 
 For a 5.3 evaluation, address:
@@ -144,6 +133,17 @@ For a 5.3 evaluation, address:
 - Context: size, product, supplier base, culture.
 
 End with a judgement tied to the case, for example "likely worthwhile if its suppliers are reliable".
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-lean-production-and-quality-management-hl-only--02-benchmarking-gap.webp" width="900" height="810" alt="Bars show Plenmore delivering 82 percent of orders on time against 96 percent for the best performer. The gap is 14 percentage points." loading="lazy">
+  <figcaption>Benchmarking measures the gap to the best performer, then studies how they do it.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-lean-production-and-quality-management-hl-only--03-quality-circle.webp" width="900" height="890" alt="Six workers meet around a table with a leader. They identify, analyze and solve quality problems. Gains are ideas, teamwork and motivation; costs are paid time and disappointment if ideas are ignored." loading="lazy">
+  <figcaption>A quality circle is a small team that meets regularly to solve quality problems.</figcaption>
+</figure>
+
 
 ## Quality standards in brief
 
@@ -184,12 +184,6 @@ Benchmarking: a call centre answers 70% of calls within 20 seconds, and the best
 
 Standards: a firm pays USD 6,000 to be certified and wins extra annual profit of USD 3,000 because of it. Payback is 6,000 ÷ 3,000 = **2 years**. A longer-term judgement also counts customer trust that the figures do not show.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ib-dp-business-management-lean-production-and-quality-management-hl-only--02-kaizen-suggestions.webp" width="900" height="959" alt="A grid of 120 circles: 40 staff make 3 ideas each, half (60) are adopted, and at 150 dollars each they save 9,000 dollars a year." loading="lazy">
-  <figcaption>Many small adopted ideas add up to a recurring saving.</figcaption>
-</figure>
-
-
 ## Quick self-test
 
 1. Define kaizen.
@@ -204,6 +198,17 @@ Standards: a firm pays USD 6,000 to be certified and wins extra annual profit of
 10. Name one international standard for quality management systems and one benefit of certification.
 11. A defect rate falls from 4% to 1%. Calculate the percentage fall in the rate.
 12. A TQM programme costs USD 25,000 and saves USD 5,000 a year. Calculate the payback period in months.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-lean-production-and-quality-management-hl-only--03-tqm-payback.webp" width="900" height="740" alt="Cumulative net cash starts at minus 22,000 dollars (training). Rework savings of 11,250 dollars a year bring it to zero at about 23.5 months." loading="lazy">
+  <figcaption>Training costs of 22,000 dollars are recovered in about 23.5 months.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-business-management-lean-production-and-quality-management-hl-only--02-kaizen-suggestions.webp" width="900" height="959" alt="A grid of 120 circles: 40 staff make 3 ideas each, half (60) are adopted, and at 150 dollars each they save 9,000 dollars a year." loading="lazy">
+  <figcaption>Many small adopted ideas add up to a recurring saving.</figcaption>
+</figure>
+
 
 ### Answers
 

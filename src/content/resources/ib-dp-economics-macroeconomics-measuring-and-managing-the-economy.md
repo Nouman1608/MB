@@ -69,18 +69,8 @@ calculation element in this sub-topic is a weighted price index
 constructed from supplied data.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ib-dp-economics-macroeconomics-measuring-and-managing-the-economy--03-ad-components.webp" width="900" height="920" alt="A stacked bar shows AD as C 60 plus I 20 plus G 22 plus net exports 8 (exports 18 less imports 10), totalling 110. A change in any component shifts AD." loading="lazy">
-  <figcaption>AD is the sum of consumption, investment, government spending and net exports.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ib-dp-economics-macroeconomics-measuring-and-managing-the-economy--08-macro-objectives.webp" width="900" height="970" alt="Tiles show economic growth, low and stable inflation, low unemployment and, at HL only, sustainable government debt. A double-headed arrow between growth and inflation shows they can conflict." loading="lazy">
-  <figcaption>Growth, low unemployment and low stable inflation are the SL objectives; sustainable debt is HL only.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ib-dp-economics-macroeconomics-measuring-and-managing-the-economy--09-weighted-price-index-hl.webp" width="900" height="990" alt="A weighted price index multiplies each item's price index by its weight and sums: 50 x 110 + 30 x 104 + 20 x 120 over 100 gives 55 + 31.2 + 24 = 110.2, so prices are 10.2% above the base year." loading="lazy">
-  <figcaption>An HL weighted price index is built from supplied weights and price indices.</figcaption>
+  <img src="https://img.marlbridge.com/ib-dp-economics-macroeconomics-measuring-and-managing-the-economy--02-business-cycle.webp" width="900" height="880" alt="A wavy, upward-trending line of real GDP passes through expansion, a peak, a contraction (recession) and a trough, then expands again. A recession is a period when real output falls; slower growth is not a recession." loading="lazy">
+  <figcaption>The business cycle has expansion, peak, contraction (recession) and trough phases.</figcaption>
 </figure>
 
 
@@ -208,12 +198,6 @@ is one of the most frequently tested distinctions on this sub-topic,
 and confusing a rate of change with a level is exactly the kind of
 error IB data-response mark schemes penalise.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ib-dp-economics-macroeconomics-measuring-and-managing-the-economy--07-rate-versus-level.webp" width="900" height="1030" alt="Growth falls from 4% to 1% but real GDP still rises from 100 to 104 to 105.04. Inflation rises from 2% to 6%, so prices rise from 100 to 102 to 108.12, faster in year 2. Slower growth is not a recession." loading="lazy">
-  <figcaption>A falling growth rate is not a fall in the level of output.</figcaption>
-</figure>
-
-
 ## Quick revision checklist
 
 - State the difference between GDP and GNI, and know why GNI can be
@@ -231,8 +215,8 @@ example of two objectives coming into conflict.
 demand-side or supply-side shock is the more likely explanation.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ib-dp-economics-macroeconomics-measuring-and-managing-the-economy--02-business-cycle.webp" width="900" height="880" alt="A wavy, upward-trending line of real GDP passes through expansion, a peak, a contraction (recession) and a trough, then expands again. A recession is a period when real output falls; slower growth is not a recession." loading="lazy">
-  <figcaption>The business cycle has expansion, peak, contraction (recession) and trough phases.</figcaption>
+  <img src="https://img.marlbridge.com/ib-dp-economics-macroeconomics-measuring-and-managing-the-economy--07-rate-versus-level.webp" width="900" height="1030" alt="Growth falls from 4% to 1% but real GDP still rises from 100 to 104 to 105.04. Inflation rises from 2% to 6%, so prices rise from 100 to 102 to 108.12, faster in year 2. Slower growth is not a recession." loading="lazy">
+  <figcaption>A falling growth rate is not a fall in the level of output.</figcaption>
 </figure>
 
 
@@ -242,3 +226,19 @@ International Baccalaureate Organization, Diploma Programme Economics
 guide, first assessment 2022, published February 2020 and updated May,
 August and October 2020, sub-topics 3.1-3.3 —
 [ibo.org](https://ibo.org/globalassets/new-structure/university-admission/pdfs/subject-guides/economics-guide.pdf).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-economics-macroeconomics-measuring-and-managing-the-economy--03-ad-components.webp" width="900" height="920" alt="A stacked bar shows AD as C 60 plus I 20 plus G 22 plus net exports 8 (exports 18 less imports 10), totalling 110. A change in any component shifts AD." loading="lazy">
+  <figcaption>AD is the sum of consumption, investment, government spending and net exports.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-economics-macroeconomics-measuring-and-managing-the-economy--08-macro-objectives.webp" width="900" height="970" alt="Tiles show economic growth, low and stable inflation, low unemployment and, at HL only, sustainable government debt. A double-headed arrow between growth and inflation shows they can conflict." loading="lazy">
+  <figcaption>Growth, low unemployment and low stable inflation are the SL objectives; sustainable debt is HL only.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-economics-macroeconomics-measuring-and-managing-the-economy--09-weighted-price-index-hl.webp" width="900" height="990" alt="A weighted price index multiplies each item's price index by its weight and sums: 50 x 110 + 30 x 104 + 20 x 120 over 100 gives 55 + 31.2 + 24 = 110.2, so prices are 10.2% above the base year." loading="lazy">
+  <figcaption>An HL weighted price index is built from supplied weights and price indices.</figcaption>
+</figure>
+

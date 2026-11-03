@@ -69,6 +69,11 @@ Measuring: ruler for length; squared paper for area; balance for mass; stopwatch
 </figure>
 
 <figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-practical-skills-i-microscopy-food-tests-sampling-and--02-magnification-worked.webp" width="900" height="940" alt="Example A: x10 eyepiece times x40 objective is x400, so a 30 mm image is 0.075 mm = 75 micrometres. Example B: a 15 mm bar labelled 100 micrometres gives x150, so a 33 mm drawing is 0.22 mm = 220 micrometres." loading="lazy">
+  <figcaption>Both worked examples, with sizes drawn to the stated proportions and the unit conversion shown.</figcaption>
+</figure>
+
+<figure class="topic-figure">
   <img src="https://img.marlbridge.com/ocr-gcse-biology-practical-skills-i-microscopy-food-tests-sampling-and--06-drawing-rules.webp" width="900" height="870" alt="A good drawing of an onion epidermis cell has a single clear line, no shading, ruled label lines that end on the cell wall, vacuole and nucleus without crossing, a title with the magnification and a scale bar. The poor drawing is shaded, its label lines cross and it has no title or scale." loading="lazy">
   <figcaption>Do and do not for a labelled scientific drawing.</figcaption>
 </figure>
@@ -90,8 +95,23 @@ Safe heating: yellow safety flame when lighting and idle, blue flame to heat; wa
 - Rate from an end point = 1 ÷ time. A time of 50 s gives 1 ÷ 50 = 0.02 s⁻¹.
 
 <figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-practical-skills-i-microscopy-food-tests-sampling-and--03-continuous-sampling-end-point.webp" width="900" height="900" alt="A tube of amylase and starch is sampled every 30 s onto iodine in a spotting tile. Wells are blue-black while starch remains and orange-brown when it has gone. An end point of 80 s gives a rate of 0.0125 per second." loading="lazy">
+  <figcaption>Starch end point from a spotting tile, and rate = 1 divided by time.</figcaption>
+</figure>
+
+<figure class="topic-figure">
   <img src="https://img.marlbridge.com/ocr-gcse-biology-practical-skills-i-microscopy-food-tests-sampling-and--07-safe-heating.webp" width="900" height="905" alt="Two Bunsen burners: air hole closed gives a yellow safety flame, air hole open gives a blue heating flame. Below, a boiling tube held in a holder in a beaker of hot water on a heatproof mat, a water bath. Eye protection, tied-back hair and tubes pointed away from people." loading="lazy">
   <figcaption>Safety flame versus heating flame, and heating in a water bath.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-biological-molecules--03-colour-tests.webp" width="900" height="1030" alt="Test tubes before and after. Iodine: orange-brown if starch absent, blue-black if present, no heat. Benedict’s: blue if absent; green, yellow, orange then brick-red as more reducing sugar is present; heat at about 80 degrees Celsius. Biuret: blue if protein absent, purple if present, no heat." loading="lazy">
+  <figcaption>Compare the colour before and after to read each test.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-biological-molecules--04-emulsion-test.webp" width="900" height="1010" alt="Step 1: shake the food with ethanol so fat dissolves. Step 2: pour the ethanol into water. Fat present gives a cloudy white emulsion of tiny droplets; no fat leaves the mixture clear. Ethanol goes first, then water." loading="lazy">
+  <figcaption>Fat dissolves in ethanol but forms a cloudy emulsion in water.</figcaption>
 </figure>
 
 
@@ -159,6 +179,11 @@ Method in steps for a rate from a table of results:
 - Too high a temperature or the wrong pH changes the shape of the active site; the enzyme is denatured.
 
 Worked reminder: 9 cm³ in the first 30 s is 9 ÷ 30 = 0.30 cm³/s. A bubble that moves 25 mm in 5 minutes in a capillary of radius 0.4 mm: volume = π × 0.4² × 25 = 12.6 mm³, so rate = 2.5 mm³ per minute.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-practical-skills-i-microscopy-food-tests-sampling-and--06-catalase-rate-graph.webp" width="900" height="950" alt="Oxygen volume against time rises from 0 to 40 cm3 over 180 s and levels off. The initial rate is 0.40 cm3/s, the rate from 90 to 120 s is 0.20 cm3/s and the mean is 0.22 cm3/s." loading="lazy">
+  <figcaption>The rate falls as substrate is used up; three rates read from one curve.</figcaption>
+</figure>
 
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/ocr-gcse-biology-practical-skills-i-microscopy-food-tests-sampling-and--07-potometer-uptake.webp" width="900" height="890" alt="A cut shoot on a water-filled tube with a capillary of radius 0.5 mm. The bubble moves 42 mm in 6 minutes: volume 33 mm3, rate 5.5 mm3 per minute." loading="lazy">
@@ -236,8 +261,8 @@ Graph checklist: independent variable on the x-axis; labelled axes with units; e
 - Leaving out units in the heading of a table column.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ocr-gcse-biology-practical-skills-i-microscopy-food-tests-sampling-and--03-continuous-sampling-end-point.webp" width="900" height="900" alt="A tube of amylase and starch is sampled every 30 s onto iodine in a spotting tile. Wells are blue-black while starch remains and orange-brown when it has gone. An end point of 80 s gives a rate of 0.0125 per second." loading="lazy">
-  <figcaption>Starch end point from a spotting tile, and rate = 1 divided by time.</figcaption>
+  <img src="https://img.marlbridge.com/ocr-gcse-biology-practical-skills-i-microscopy-food-tests-sampling-and--09-repeat-anomaly-mean.webp" width="900" height="690" alt="A number line from 50 to 90 seconds with repeats of 58, 60 and 62 close together and 85 far away, crossed out as an anomaly. Leaving it out the mean is (62 + 58 + 60) divided by 3, which is 60 s. Averaging all four would give 66.3 s, which is too high." loading="lazy">
+  <figcaption>Spot the anomaly and leave it out of the mean.</figcaption>
 </figure>
 
 

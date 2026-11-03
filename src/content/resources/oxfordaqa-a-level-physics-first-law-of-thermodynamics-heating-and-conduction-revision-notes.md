@@ -87,6 +87,11 @@ Q = 2.5 × 4180 × 80 = 836 000 J = **8.4 × 10⁵ J**.
   <figcaption>During melting the supplied energy increases potential energy, so the temperature stays constant.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-physics-ideal-gases--05-absolute-zero.webp" width="900" height="1080" alt="Pressure of a fixed volume of air against Celsius temperature: 100 kPa at 20 °C and 128 kPa at 100 °C, a gradient of 0.35 kPa per °C. Extending the line back to zero pressure gives -266 °C, close to the accepted -273 °C; the long extrapolation magnifies small errors." loading="lazy">
+  <figcaption>Extrapolating a pressure-temperature line back to p = 0 estimates absolute zero.</figcaption>
+</figure>
+
 
 ## Method: change of state
 

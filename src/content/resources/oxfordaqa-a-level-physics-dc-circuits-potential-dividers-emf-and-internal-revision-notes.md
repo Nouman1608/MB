@@ -208,6 +208,12 @@ A variable resistor connected as a divider (the two ends across the supply, the 
 11. ε = **1.60 V**; gradient = (1.18 − 1.60)/0.30 = −1.4 V A⁻¹, so r = **1.4 Ω**.
 12. The energy the cell supplies per coulomb of charge it drives round the circuit, ε = E/Q.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-physics-electricity--02-iv-characteristics.webp" width="900" height="1115" alt="Four I-V graphs: a fixed resistor is a straight line through the origin; a filament lamp curves flat as it heats, with lesson data giving 10 ohm at 1.0 V and 25 ohm at 10 V; a diode conducts only above about 0.7 V forward; an NTC thermistor curve steepens as it heats." loading="lazy">
+  <figcaption>Four I–V shapes side by side, with R = V/I read at a point.</figcaption>
+</figure>
+
+
 ## Where marks are usually lost
 
 - Leaving 1/R as the answer without inverting it.

@@ -81,6 +81,11 @@ A firm can be productively inefficient by producing too little (spreading fixed 
   <figcaption>MC cuts ATC at its lowest point, and MC rises once diminishing returns set in.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-economics-microeconomics--02-economies-of-scale-and-mes.webp" width="900" height="830" alt="Illustrative long-run average cost curve falling to a minimum of 6 at output 100 (minimum efficient scale), then rising. Falling LRAC reflects purchasing, technical, financial, managerial and marketing economies; rising LRAC reflects communication and coordination problems." loading="lazy">
+  <figcaption>Long-run average cost falls until the minimum efficient scale and rises beyond it.</figcaption>
+</figure>
+
 
 ## Allocative efficiency
 
@@ -91,6 +96,11 @@ Allocative efficiency means price equals marginal cost (P = MC). Price measures 
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/ocr-a-level-economics-microeconomics--05-monopoly.webp" width="900" height="960" alt="Illustrative monopoly: MC = MR at output 60 gives price 14 on the AR curve and supernormal profit of 420 above AC. A competitive market would produce at price = MC, output 90 and price 11. The triangle between is the welfare loss." loading="lazy">
   <figcaption>A monopoly restricts output and raises price above the competitive level, earning supernormal profit.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-economics-demand-supply-equilibrium--05-ib-allocative-efficiency.webp" width="900" height="1022" alt="Demand is marginal benefit and supply is marginal cost. At output 30 MB (9) exceeds MC (5); at output 70 MC (9) exceeds MB (5); each loses 40 of surplus. Social surplus is highest, 250, at output 50 where MB equals MC." loading="lazy">
+  <figcaption>Producing more or less than the equilibrium quantity destroys social surplus; only MB = MC is allocatively efficient.</figcaption>
 </figure>
 
 
@@ -155,6 +165,11 @@ At the equilibrium, P = MC, so the market is allocatively efficient and total su
   <figcaption>Competitive CS and PS are 450 each, total surplus 900.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-economics-price-system-and-the-microeconomy--05-consumer-producer-surplus.webp" width="900" height="940" alt="Demand and supply meet at price 5 and quantity 50. Consumer surplus is the triangle between demand and the price line (area 125); a buyer who would pay 7 but pays 5 gains 2. Producer surplus is the triangle between the price line and supply (area 100); a seller who would accept 3 but gets 5 gains 2." loading="lazy">
+  <figcaption>Consumer surplus is willingness to pay minus price paid; producer surplus is price received minus the minimum accepted.</figcaption>
+</figure>
+
 
 ## Deadweight loss of monopoly
 
@@ -187,6 +202,11 @@ The shaded deadweight loss triangle has corners at the monopoly point (20, 44), 
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/aqa-a-level-economics-efficiency-market-structure-and-consumer-and-producer--12-monopoly-deadweight-loss.webp" width="900" height="920" alt="Demand P = 64 - Q, MC = 4 + Q, MR = 64 - 2Q. Monopoly output 20 at price 44 gives CS 200, PS 600 and deadweight loss 100, against competitive output 30 at price 34." loading="lazy">
   <figcaption>The deadweight loss is the triangle between D and MC for the units not produced.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-economics-government-microeconomic-intervention--08-monopoly-welfare-loss.webp" width="900" height="910" alt="Demand (AR) slopes down with marginal revenue below it and marginal cost sloping up. The monopolist produces where MR = MC: output 40 at price 10. The allocatively efficient output is where price = MC: output 60 at price 8. The triangle between 40 and 60 is the welfare loss, area 40." loading="lazy">
+  <figcaption>A monopolist restricts output below the allocatively efficient level and charges a higher price.</figcaption>
 </figure>
 
 

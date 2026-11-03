@@ -74,6 +74,11 @@ A single exact value has probability zero for a continuous variable, so P(X < a)
   <figcaption>About 2/3, 95% and almost all values lie within 1, 2 and 3 standard deviations of the mean.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-mathematics-the-continuous-uniform-distribution-and-the-normal--07-amth-normal-continuity.webp" width="900" height="780" alt="Bars for B(80, 0.35) with N(28, 18.2) over them. P(X ≤ 25) uses bars up to the edge at 25.5, so it becomes P(Y &lt; 25.5) = 0.279 against an exact 0.282; P(X ≥ 30) becomes P(Y &gt; 29.5) = 0.363; P(X = 28) becomes P(27.5 &lt; Y &lt; 28.5) = 0.0933." loading="lazy">
+  <figcaption>A whole number r becomes a band from r − 0.5 to r + 0.5 when approximating with a normal curve.</figcaption>
+</figure>
+
 
 ## Standardising
 

@@ -189,6 +189,12 @@ Multiply every term in the first bracket by every term in the second, then colle
 
 (x − 7)(x + 3) = x² + 3x − 7x − 21 = x² − 4x − 21
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-introduction-to-algebra-and-manipulation--04-expand-two-brackets.webp" width="900" height="940" alt="An area diagram has widths 2x and +5 and heights 3x and -2. Its cells are 6x^2, 15x, -4x and -10, which sum to 6x^2 + 11x - 10." loading="lazy">
+  <figcaption>Multiply every term in one bracket by every term in the other, then collect like terms.</figcaption>
+</figure>
+
+
 ### Factorising x² + bx + c
 
 Find two numbers that **multiply** to c and **add** to b.
@@ -207,6 +213,16 @@ Check by expanding: (x + 7)(x − 5) = x² − 5x + 7x − 35 = x² + 2x − 35.
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/edexcel-igcse-maths-4ma1-use-of-symbols-and-algebraic-manipulation--01-sym-split-middle-term.webp" width="900" height="800" alt="An area grid has columns 5x and +2 and rows 2x and −3. Its cells are 10x², +4x, −15x and −6. The two middle cells add to −11x and multiply to −60, which is 10 × (−6), giving (2x − 3)(5x + 2)." loading="lazy">
   <figcaption>Splitting −11x into −15x + 4x turns the quadratic into an area grid whose edges are the factors.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/algebraic-manipulation--02-factorise-trinomial-tiles.webp" width="900" height="670" alt="Tiles for x squared plus 5x plus 6 fit into a rectangle of width x plus 3 and height x plus 2. The six unit tiles fill the corner, which is why the numbers must multiply to 6 and add to 5. So the expression equals (x + 2)(x + 3)." loading="lazy">
+  <figcaption>The tiles for x² + 5x + 6 build a rectangle with sides x + 2 and x + 3.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/algebraic-manipulation--03-difference-of-squares.webp" width="900" height="886" alt="A square of side a with a b-by-b square removed leaves a shape of area a squared minus b squared. Cut and rearranged it forms a rectangle a plus b by a minus b. With a = 5 and b = 3, 25 minus 9 equals 2 times 8." loading="lazy">
+  <figcaption>a² − b² is the area of a rectangle with sides (a − b) and (a + b).</figcaption>
 </figure>
 
 
@@ -285,6 +301,21 @@ In (a) the bracket around the second numerator matters: −3(x − 1) gives +3, 
   <figcaption>Dividing by a fraction: flip, factorise, cancel.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-algebraic-fractions-and-indices-ii--05-cancel-algebraic-fraction.webp" width="900" height="1130" alt="(2x^2+5x-3)/(4x^2-1) factorises to (2x-1)(x+3) over (2x-1)(2x+1); cancelling (2x-1) leaves (x+3)/(2x+1), checked at x=5 as 8/11. Terms that are added, such as x^2 in (x^2+3)/(x^2-1), cannot be cancelled." loading="lazy">
+  <figcaption>Factorise, then cancel whole brackets only.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/algebraic-manipulation--05-cancel-factors-graph.webp" width="900" height="1060" alt="The fraction factorises to x(x minus 2) over (x minus 2)(x minus 3), which cancels to x over (x minus 3), x not 2 or 3. The graph of x over (x minus 3) has dashed lines at x = 3 and y = 1; the original fraction has the same graph with an open circle gap at (2, minus 2)." loading="lazy">
+  <figcaption>Cancelling a common factor gives the same graph, except the original has a gap where the factor was zero.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-algebraic-fractions-and-indices-ii--06-common-denominator.webp" width="900" height="1020" alt="Bars of twelve cells show 1/4 = 3/12 and 1/6 = 2/12. Then 3(2x+1)-2(x-3) = 6x+3-2x+6 = 4x+9, so the answer is (4x+9)/12." loading="lazy">
+  <figcaption>Rewrite over the common denominator, then combine numerators carefully.</figcaption>
+</figure>
+
 
 ### Completing the square
 
@@ -308,6 +339,11 @@ So a = 5, b = 2, c = −13. Since (x + 2)² is never negative, the least value o
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/edexcel-igcse-maths-4ma1-use-of-symbols-and-algebraic-manipulation--04-complete-square-a5.webp" width="900" height="960" alt="Working for 5x squared + 20x + 7 = 5(x+2) squared - 13, beside the graph of the curve. The lowest point is (-2, -13) on the line of symmetry x = -2, and the curve crosses the y axis at 7." loading="lazy">
   <figcaption>The a = 5 completed square read from the graph vertex.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-introduction-to-algebra-and-manipulation--06-complete-the-square.webp" width="900" height="870" alt="A square of side x + 4 is built from x^2, two strips 4x and a 4 by 4 corner of 16. So x^2 + 8x = (x + 4)^2 - 16, and x^2 + 8x - 5 = (x + 4)^2 - 21." loading="lazy">
+  <figcaption>Half of 8 gives p = 4; the 16 added to complete the square must be taken away.</figcaption>
 </figure>
 
 
@@ -347,15 +383,15 @@ A calculator is allowed on every 4MA1 paper, but calculators with built-in symbo
 - Completing the square on 3x² + … without taking 3 out first, or forgetting to multiply the "subtract" term by 3.
 - In a proof, using n and n + 2 for consecutive odd numbers without stating that n is odd.
 
+## Next steps
+
+Go to the revision notes and practice questions linked at the top. To find gaps elsewhere in the course, use [our free diagnostics](/diagnostics/).
+
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/edexcel-igcse-maths-4ma1-use-of-symbols-and-algebraic-manipulation--02-sym-square-not-sum.webp" width="900" height="750" alt="A square of side x + 4 splits into x², two strips of 4x and a 16 square. The two strips make the 8x that x² + 16 leaves out. At x = 2, (2 + 4)² is 36 but 2² + 16 is 20." loading="lazy">
   <figcaption>(x + 4)² has a middle term 8x, so it is not x² + 16.</figcaption>
 </figure>
 
-
-## Next steps
-
-Go to the revision notes and practice questions linked at the top. To find gaps elsewhere in the course, use [our free diagnostics](/diagnostics/).
 
 ## Official syllabus
 

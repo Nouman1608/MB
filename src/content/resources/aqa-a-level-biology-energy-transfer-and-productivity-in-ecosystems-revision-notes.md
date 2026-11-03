@@ -49,6 +49,12 @@ These are condensed revision notes for section 3.5.3, Energy and ecosystems, in 
 | Efficiency of transfer | energy in next level ÷ energy available × 100 | % |
 | Area conversion | 1 ha = 10 000 m² | |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-biology-energy-transfer-and-productivity-in-ecosystems--02-trophic-efficiency.webp" width="900" height="1000" alt="Kelp stores 12 000 kJ m-2 year-1, sea urchins 1 500 and sea otters 180. Dashed outlines show energy available from the level below. Efficiency is 12.5% then 12.0%, and the overall 1.5% is the product, not the sum." loading="lazy">
+  <figcaption>Divide by the level below, and multiply step efficiencies for a chain.</figcaption>
+</figure>
+
+
 ## Where the energy goes
 
 Plants make organic compounds from carbon dioxide. Most of the sugar is used as a respiratory substrate. The rest is made into other biological molecules, and these form the plant biomass. NPP is available for plant growth and reproduction, and to herbivores and decomposers.
@@ -126,12 +132,6 @@ For consumers, the energy in I ends up in one of three places: faeces and urine 
 
 Both groups serve the same aim: put more energy into human food. The first two simplify food webs to reduce energy losses to non-human food chains. The last two reduce respiratory losses within a human food chain.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/aqa-a-level-biology-energy-transfer-and-productivity-in-ecosystems--04-farming-efficiency.webp" width="900" height="1090" alt="Indoor animals with restricted movement turn 13.5% of intake into net production; free-range animals turn 7.95%, because respiration takes more of the intake. Removing weeds and pests leaves more NPP in the crop, but there are welfare, habitat and pollution costs." loading="lazy">
-  <figcaption>Less respiration and fewer competitors mean more energy ends up in human food, at a cost.</figcaption>
-</figure>
-
-
 ## Quick self-test
 
 1. Calculate NPP when GPP is 1 260 kJ m⁻² year⁻¹ and R is 455 kJ m⁻² year⁻¹.
@@ -161,6 +161,12 @@ Both groups serve the same aim: put more energy into human food. The first two s
 10. Pesticides kill insects that would eat the crop. Less of the crop's NPP is lost to a non-human food chain, so more is stored in the harvested product.
 11. Cattle in a barn move less and need less energy to keep warm, so R is smaller. Since N = I - (F + R), N is larger and more energy goes into growth.
 12. 1.2 × 10⁵ ÷ 8.0 × 10⁵ × 100 = **15%**.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-biology-energy-transfer-and-productivity-in-ecosystems--04-farming-efficiency.webp" width="900" height="1090" alt="Indoor animals with restricted movement turn 13.5% of intake into net production; free-range animals turn 7.95%, because respiration takes more of the intake. Removing weeds and pests leaves more NPP in the crop, but there are welfare, habitat and pollution costs." loading="lazy">
+  <figcaption>Less respiration and fewer competitors mean more energy ends up in human food, at a cost.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

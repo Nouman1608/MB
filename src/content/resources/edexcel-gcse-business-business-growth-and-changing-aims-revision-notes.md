@@ -86,6 +86,12 @@ Course links: the [Business hub](/boards/edexcel/gcse/business/), the [printable
 2. Explain why it matters, using the numbers or facts in the case.
 3. Link back to the question. For "Justify" pick one option and say why the other is weaker.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-gcse-business-business-growth-and-changing-aims--02-arr-norrish-range.webp" width="900" height="1010" alt="Five yearly profit blocks of 12,000 pounds make the 60,000 forecast. The 48,000 pound project cost is split in four, and 12,000 is one quarter. ARR is 12,000 / 48,000 x 100 = 25 percent, but it rests on a forecast." loading="lazy">
+  <figcaption>ARR for the flat-pack range: 12,000 / 48,000 x 100 = 25%.</figcaption>
+</figure>
+
+
 ## Plc ownership
 
 - Limited liability and the right to offer shares to the public.
@@ -199,6 +205,11 @@ The mix is a judgement. More loan capital means more interest and fixed repaymen
 10. Any two of: market conditions, technology, performance, legislation, internal reasons.
 11. Adding a new line to serve new customers, or dropping a weak, loss-making line to save cost.
 12. Its shares are traded openly, so another business can buy enough of them to gain control; a sole trader has no shares to buy.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-gcse-business-business-growth-and-changing-aims--01-percentage-change-norrish.webp" width="900" height="1000" alt="Two bars show Norrish Joinery sales rising from 184,000 to 225,400 pounds, a gain of 41,400. Dividing the gain by the original 2024 figure gives 22.5 percent. Dividing by the new figure gives 18.4 percent, the common mistake." loading="lazy">
+  <figcaption>Percentage change divides by the original figure: 41,400 / 184,000 = 22.5%.</figcaption>
+</figure>
 
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/edexcel-gcse-business-business-growth-and-changing-aims--04-zandrick-takeover-share.webp" width="900" height="1060" alt="Buying 350,000 shares at 2.80 pounds costs 980,000 pounds. Market shares of 14 percent and 6 percent combine to 20 percent, though the 6 percent could shrink if staff leave." loading="lazy">

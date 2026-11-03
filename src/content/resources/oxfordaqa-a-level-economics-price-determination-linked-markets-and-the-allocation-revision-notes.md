@@ -83,6 +83,16 @@ If demand falls by 40 at every price, Qd = 320 − 20P, so P = 9 and Q = 140: pr
 **Method for linked markets.** (1) Name the initial change and the curve it moves. (2) State the new price in that market. (3) Name the link (substitute, complement, joint supply, and so on). (4) State which curve moves in the second market, in which direction, and the result for its price and quantity. (5) Add a limit, such as how close the substitutes are.
 
 <figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-price-determination-linked-markets-and-the-allocation--01-price-vs-quantity-split.webp" width="900" height="990" alt="Two demand and supply diagrams for the same rise in demand. With flat supply, price rises 11.1% and quantity 14.3%; with steeper supply, price rises 16.7% and quantity only 7.1%. More of the demand rise is absorbed by price when supply responds less." loading="lazy">
+  <figcaption>Same demand rise, two supply curves: steeper supply means a bigger price change and a smaller quantity change.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-price-determination-linked-markets-and-the-allocation--02-harvest-revenue.webp" width="900" height="900" alt="Supply shifts left (poor harvest) or right (bumper) along an unresponsive demand curve. Price moves from 7.5 to 9.0 or 6.0 while quantity moves only between 220 and 280. Revenue is highest after the poor harvest (1,980) and lowest after the bumper one (1,680)." loading="lazy">
+  <figcaption>Because demand is unresponsive, farmers earn more after a poor harvest than a bumper one.</figcaption>
+</figure>
+
+<figure class="topic-figure">
   <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-price-determination-linked-markets-and-the-allocation--07-composite-demand-milk.webp" width="900" height="720" alt="Two stacked bars of milk demand. Before, price 10: drinking 100 and cheese 100. After a cheese boom, price 11: drinking 80 and cheese 150. Cheese makers bid milk away from drinkers." loading="lazy">
   <figcaption>With composite demand, a rise in one use can reduce the quantity available for another.</figcaption>
 </figure>
@@ -120,11 +130,6 @@ If demand falls by 40 at every price, Qd = 320 − 20P, so P = 9 and Q = 140: pr
 **Impersonal method.** Prices apply the same rule to everyone, which removes favouritism. But the result reflects the distribution of income, so it is impersonal without being neutral.
 
 **Extending markets into new areas** (for example, paying for priority access to a public service). Gains: lower queues, new funds, better signals of value. Costs: access based on income, and the activity may change in character. Judgement: depends on how essential the service is and how fair people think the rule is.
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-price-determination-linked-markets-and-the-allocation--01-price-vs-quantity-split.webp" width="900" height="990" alt="Two demand and supply diagrams for the same rise in demand. With flat supply, price rises 11.1% and quantity 14.3%; with steeper supply, price rises 16.7% and quantity only 7.1%. More of the demand rise is absorbed by price when supply responds less." loading="lazy">
-  <figcaption>Same demand rise, two supply curves: steeper supply means a bigger price change and a smaller quantity change.</figcaption>
-</figure>
 
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-price-determination-linked-markets-and-the-allocation--09-rationing-prints.webp" width="900" height="720" alt="Supply of 120 prints is fixed and demand is Qd = 300 - 10P. At 12 demand is 180, an excess of 60; the price rises to 18 where demand equals 120, pricing out the buyers who value a print below 18." loading="lazy">
@@ -181,17 +186,6 @@ If demand falls by 40 at every price, Qd = 320 − 20P, so P = 9 and Q = 140: pr
 9. More planks mean more sawing, so more sawdust: the supply curve shifts right and price falls.
 10. Outcomes depend on the distribution of income, so people with more income get more of what is produced.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-price-determination-linked-markets-and-the-allocation--02-harvest-revenue.webp" width="900" height="900" alt="Supply shifts left (poor harvest) or right (bumper) along an unresponsive demand curve. Price moves from 7.5 to 9.0 or 6.0 while quantity moves only between 220 and 280. Revenue is highest after the poor harvest (1,980) and lowest after the bumper one (1,680)." loading="lazy">
-  <figcaption>Because demand is unresponsive, farmers earn more after a poor harvest than a bumper one.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-price-determination-linked-markets-and-the-allocation--06-speculation-self-fulfilling.webp" width="900" height="830" alt="Supply and demand for Crop K. Traders expect a rise and add 40 units of demand at every price, moving the equilibrium price from 7.5 to 8.5 (+13.3%) with quantity 250 to 270. A loop below shows the belief appearing confirmed." loading="lazy">
-  <figcaption>Speculation shifts demand before any shortage and can become self-fulfilling.</figcaption>
-</figure>
-
-
 ## Where marks are usually lost
 
 - Stating the equilibrium but not showing the substitution that checks both equations.
@@ -202,6 +196,12 @@ If demand falls by 40 at every price, Qd = 320 − 20P, so P = 9 and Q = 140: pr
 - Listing rationing, incentive and signalling without applying each to the scenario.
 - Assessing the price mechanism without a judgement or without a condition that the judgement depends on.
 - Ignoring the elasticity of the curve that does not move.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-economics-price-determination-linked-markets-and-the-allocation--06-speculation-self-fulfilling.webp" width="900" height="830" alt="Supply and demand for Crop K. Traders expect a rise and add 40 units of demand at every price, moving the equilibrium price from 7.5 to 8.5 (+13.3%) with quantity 250 to 270. A loop below shows the belief appearing confirmed." loading="lazy">
+  <figcaption>Speculation shifts demand before any shortage and can become self-fulfilling.</figcaption>
+</figure>
+
 
 ## Official syllabus
 

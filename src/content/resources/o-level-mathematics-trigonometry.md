@@ -68,6 +68,11 @@ d = 7.74 cm (3 s.f.)
   <figcaption>Find the hypotenuse, then add the squares for it or subtract to find a shorter side.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-pythagoras-theorem--05-field-diagonal.webp" width="900" height="975" alt="A rectangular field 85 m by 62 m. Walking two edges is 147 m; the diagonal is 105.209 m. The difference is 41.8 m, and rounding the diagonal early gives a wrong 42 m." loading="lazy">
+  <figcaption>Keep the unrounded diagonal until the final answer.</figcaption>
+</figure>
+
 
 
 ## 6.2 Right-angled triangles
@@ -149,6 +154,11 @@ Draw the horizontal through the observer first. The angle sits between that line
   <figcaption>Draw the horizontal through the observer first, then measure the angle from it.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-trigonometry--02-elevation-depression.webp" width="900" height="950" alt="A person 55 m from a 40 m tower. The angle of elevation to the top is 36.0 degrees since tan x = 40/55. From the top, the angle of depression to the person is also 36.0 degrees, measured from a horizontal line, as they are alternate angles." loading="lazy">
+  <figcaption>Elevation and depression are both measured from the horizontal and are equal for the same line of sight.</figcaption>
+</figure>
+
 
 ### Bearings in right-angled problems
 
@@ -180,6 +190,36 @@ Sketch north lines at each point to confirm the direction of each turn.
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/o-level-mathematics-trigonometry--06-trig-cosine-rule-angle.webp" width="900" height="810" alt="A triangle with sides 7, 9 and 12 cm drawn to scale. cos A = -14/126, so A = 96.4 degrees; A is inside the dashed semicircle on the 12 cm side, so it is obtuse." loading="lazy">
   <figcaption>A negative cosine from the cosine rule means an obtuse angle, opposite the longest side.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-trigonometry--01-soh-cah-toa.webp" width="900" height="890" alt="A right-angled triangle with sides 3, 4, 5 and angle theta. Opposite is 3, adjacent 4, hypotenuse 5. Sine is 3/5 = 0.6, cosine 4/5 = 0.8, tangent 3/4 = 0.75, and inverse sine of 0.6 gives theta = 36.9 degrees." loading="lazy">
+  <figcaption>Name the sides from the angle, then pick sin, cos or tan.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-geometrical-terms-constructions-and-scale-drawings--05-reverse-bearings.webp" width="900" height="990" alt="Points P and Q each with a parallel north line. Bearing of Q from P is 063 degrees; bearing of P from Q is 243 degrees, which is 063 plus 180." loading="lazy">
+  <figcaption>The two bearings between a pair of points differ by 180 degrees.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-geometrical-terms-constructions-and-scale-drawings--06-boat-route.webp" width="900" height="780" alt="Harbour H, buoys A and B at 1 cm to 2 km. HA is 6 cm at 070 degrees, AB is 4 cm at 160 degrees with a right angle at A. HB measures about 7.2 cm, about 14.4 km, at bearing about 104 degrees." loading="lazy">
+  <figcaption>Boat route drawn to scale, with the distance and bearing of B from H.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-trigonometry--06-area-sine.webp" width="900" height="800" alt="Triangle with a = 8, b = 10 and C = 40 degrees. Height h = 8 sin 40 = 5.14 cm, so area = half of 10 times 5.14 = 25.7 cm squared, which is half a b sin C." loading="lazy">
+  <figcaption>The area formula comes from base times height with h = a sin C.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-trigonometry--03-sine-rule.webp" width="900" height="860" alt="Triangle ABC with A = 48, B = 65, C = 67 degrees and a = 9 cm drawn to scale. a over sin A equals b over sin B gives b = 9 sin 65 over sin 48 = 11.0 cm. The rule needs a side and its opposite angle." loading="lazy">
+  <figcaption>Pair each side with the angle opposite it.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-mathematics-sine-rule-and-cosine-rule--01-choose-sine-or-cosine.webp" width="900" height="1000" alt="Four triangles show known sides and angles in gold and the unknown in green. Two angles and a side, or a side with its opposite angle and one more side, need the sine rule. Two sides and the angle between them, or all three sides, need the cosine rule." loading="lazy">
+  <figcaption>A matching side and angle pair means sine rule; no pair means cosine rule.</figcaption>
 </figure>
 
 
@@ -228,6 +268,11 @@ The negative cosine shows the angle is obtuse. The largest angle is always oppos
   <figcaption>With an obtuse angle the cosine term adds to c squared and the sine still gives a positive area.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-trigonometry--05-cosine-rule.webp" width="900" height="860" alt="The lesson worked example drawn to scale: AB = 7, AC = 10, angle A = 110 degrees. A bar shows BC squared = 149 + 47.9 = 196.9, so BC = 14.0 cm. The extra 47.9 is added because cos 110 degrees is negative." loading="lazy">
+  <figcaption>With an obtuse angle the cosine term adds, so BC is longer than the right-angle case.</figcaption>
+</figure>
+
 
 ### The ambiguous case
 
@@ -252,6 +297,11 @@ Both triangles exist, so there are two answers. Here the given angle is opposite
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/o-level-mathematics-trigonometry--08-trig-ambiguous-case-numbers.webp" width="900" height="900" alt="With A = 40 degrees, a = 8 cm, b = 11 cm a dashed arc about C crosses the line from A twice. sin B = 0.8838 so B = 62.1 or 117.9 degrees, giving c = 12.2 cm or c = 4.68 cm." loading="lazy">
   <figcaption>The same SSA data can make two different triangles.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-trigonometry--04-ambiguous-case.webp" width="900" height="850" alt="Angle A = 30 degrees, AC = 10, BC = 6. BC can meet the base at two points, giving two triangles with B = 56.4 degrees (acute) or 123.6 degrees (obtuse), both with sin B = 0.833." loading="lazy">
+  <figcaption>Two different triangles can fit the same sine rule data.</figcaption>
 </figure>
 
 
@@ -307,6 +357,11 @@ angle with base = tan⁻¹(12 / 7.07) = 59.5° (1 d.p.)
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/o-level-mathematics-trigonometry--05-pyramid-3d.webp" width="900" height="1160" alt="A square-based pyramid, base 10 cm, height 12 cm above the centre O. AO = 5 root 2 = 7.07 cm, VA = 13.9 cm, and the angle between VA and the base has tan x = 12/7.07 so x = 59.5 degrees. The triangle VOA is shown flat to scale." loading="lazy">
   <figcaption>Half the base diagonal and the height make the right-angled triangle that gives the edge and its angle with the base.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-trigonometry--07-trig-3d.webp" width="900" height="960" alt="A cuboid 8 by 6 by 5 cm. The base diagonal AC = 10 cm, and with CG = 5 and AG = 11.2 it forms a right-angled triangle. The angle between AG and the base has tan x = 5/10, so x = 26.6 degrees. The triangle is also shown flat." loading="lazy">
+  <figcaption>Pull the right-angled triangle out of the solid, then use ordinary trigonometry.</figcaption>
 </figure>
 
 

@@ -119,6 +119,11 @@ Rules: halving occurs at meiosis I. Each cell after meiosis I has one member of 
 DNA amount per cell (arbitrary units): 2 before replication, 4 after replication, 2 after meiosis I, 1 after meiosis II.
 
 <figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-the-mitotic-cell-cycle--03-mitosis-stages.webp" width="900" height="1276" alt="Six drawings of an animal cell with four chromosomes: interphase, prophase, metaphase, anaphase, telophase and cytokinesis, each with a short description. Spindle fibres, centrioles and nuclei are labelled in a key; cytokinesis shows an animal cell pinching in and a plant cell forming a cell plate." loading="lazy">
+  <figcaption>Chromosomes condense, line up, separate as chromatids, and two nuclei form before the cytoplasm divides.</figcaption>
+</figure>
+
+<figure class="topic-figure">
   <img src="https://img.marlbridge.com/a-level-biology-9700-the-mitotic-cell-cycle--05-meiosis-halves-number.webp" width="900" height="1110" alt="A parent cell with four chromosomes in two homologous pairs divides twice. Meiosis I separates the homologous pairs into two haploid cells with double chromosomes; meiosis II separates chromatids into four haploid cells with single chromosomes. DNA per cell goes 4, 2, 1 units." loading="lazy">
   <figcaption>Meiosis I halves the chromosome number; meiosis II separates chromatids.</figcaption>
 </figure>
@@ -205,6 +210,12 @@ Human: n = 23, 2²³ = 8 388 608 gamete types; 2⁴⁶ = 70 368 744 177 664 zygo
 9. In the diploid plant, in the spore-producing structure, when spores are made.
 10. Two of the four.
 11. (32 − 8) / 8 × 100 = 300%.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-the-mitotic-cell-cycle--09-mutation-to-tumour.webp" width="900" height="1240" alt="A proto-oncogene stimulates division and a tumour suppressor gene slows it. Mutation turns the first into an always-on oncogene and disables the second, so cells double each cycle (1, 2, 4, 8, 16) into a tumour. A benign tumour stays in a capsule; a malignant one invades and spreads through the blood." loading="lazy">
+  <figcaption>Mutations in genes that control division cause uncontrolled division and tumours.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

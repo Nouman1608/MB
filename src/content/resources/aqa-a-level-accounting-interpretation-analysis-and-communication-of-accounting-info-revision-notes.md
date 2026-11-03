@@ -94,6 +94,12 @@ Profit after tax        -> EPS and dividend cover
 - **Financial vs management information:** published, historic and standardised, against internal, detailed and forward-looking.
 - **Single entry vs incomplete records:** single entry is the recording method; incomplete records is the result you have to rebuild statements from.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-analysis-and-evaluation-of-financial-information--05-cash-tied-up-days.webp" width="900" height="690" alt="Inventory is held 43.8 days and customers pay a further 36.5 days later, 80.3 days after buying. Suppliers are paid after 45.0 days, so the business funds the 35.3 days in between. Calculated from average inventory, credit sales and credit purchases." loading="lazy">
+  <figcaption>Inventory, receivable and payable days together show how long the business must fund its own working capital.</figcaption>
+</figure>
+
+
 ## Evaluating performance: method in steps
 
 1. Calculate the ratios, showing formula and figures.
@@ -127,6 +133,12 @@ Profit after tax        -> EPS and dividend cover
 | Revaluation of non-current assets | None | None | Equity up, so gearing and ROCE fall |
 
 **Worked reminder.** A company has profit after tax £300,000 and 2,000,000 shares, so EPS is 15.00p. A 1-for-4 bonus issue adds 500,000 shares. With profit unchanged, EPS = 30,000,000 / 2,500,000 = 12.00p. No cash moves.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-analysis-and-evaluation-of-financial-information--03-roce.webp" width="900" height="800" alt="Capital of 237,000 dollars plus a 60,000 loan make capital employed of 297,000. Profit for the year of 57,600 plus 3,600 loan interest added back gives net profit before interest of 61,200, so ROCE is 20.61 percent. For a company, capital employed is shares plus reserves plus non-current liabilities." loading="lazy">
+  <figcaption>ROCE divides profit before loan interest by all long-term funds, loans included.</figcaption>
+</figure>
+
 
 ## Stakeholders
 
@@ -212,6 +224,11 @@ Profit after tax        -> EPS and dividend cover
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/aqa-a-level-accounting-analysis-and-evaluation-of-financial-information--01-ratio-map.webp" width="900" height="951" alt="Five rows group ratios by the question they answer: profitability asks if the business earns enough, liquidity if it can pay its debts, efficiency if it uses resources well, capital structure how it is funded (AQA and OxfordAQA), and investor ratios whether shares are worth owning (A Level companies)." loading="lazy">
   <figcaption>Each ratio group answers one question about the business.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-accounting-analysis-and-evaluation-of-financial-information--04-liquidity-ratios.webp" width="900" height="810" alt="Current assets of 95,000 dollars (bank 7,000, receivables 46,000, inventory 42,000) are compared with current liabilities of 38,000. The current ratio is 2.50 to 1; removing inventory leaves 53,000, so the acid test is 1.39 to 1." loading="lazy">
+  <figcaption>The acid test removes inventory, the least liquid current asset.</figcaption>
 </figure>
 
 

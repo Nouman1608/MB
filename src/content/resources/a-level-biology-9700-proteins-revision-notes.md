@@ -130,6 +130,12 @@ Why globular proteins dissolve: hydrophobic R groups point inwards, hydrophilic 
 
 **The rule of four**: 4 chains → 4 haem groups → 4 Fe²⁺ → up to 4 O₂ per haemoglobin molecule. Learn it as one chain of reasoning, because questions often test the counts.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-carbohydrates-and-lipids--01-water-hydrogen-bonds.webp" width="900" height="860" alt="A central bent water molecule (H-O-H about 104.5 degrees) has a slightly negative oxygen and two slightly positive hydrogens. Dotted hydrogen bonds join each hydrogen to the oxygen of a neighbour below, and join a hydrogen of each of two neighbours above to the central oxygen, giving four hydrogen bonds. Solid lines are strong covalent bonds and dotted lines are weak hydrogen bonds." loading="lazy">
+  <figcaption>A polar water molecule can form up to four hydrogen bonds with its neighbours.</figcaption>
+</figure>
+
+
 ## Collagen (2.3.7 and 2.3.8)
 
 **Molecule**
@@ -169,6 +175,22 @@ Why globular proteins dissolve: hydrophobic R groups point inwards, hydrophilic 
 11. Why is glycine found at almost every third position in a collagen chain?
 12. Give two features of collagen fibres that stop them breaking under tension.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-carbohydrates-and-lipids--02-water-solvent.webp" width="900" height="1080" alt="Water molecules surround a sodium ion with their slightly negative oxygen atoms facing it, and surround a chloride ion with their slightly positive hydrogens facing it. A glucose ring with OH groups hydrogen bonds to water and dissolves. A non-polar triglyceride droplet cannot, so the water molecules bond to each other around it." loading="lazy">
+  <figcaption>Water dissolves ions and polar molecules, but not non-polar triglycerides.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-carbohydrates-and-lipids--04-alpha-beta-glucose.webp" width="900" height="870" alt="Two ring drawings of glucose, each with five carbons and one oxygen, numbered 1 to 5 clockwise from the right-hand carbon, with CH2OH on carbon 5. OH on carbons 2 and 4 is below the ring and on carbon 3 above, in both. In alpha-glucose the OH on carbon 1 is below the ring and H above; in beta-glucose the OH is above and H below. Both are C6H12O6." loading="lazy">
+  <figcaption>The alpha and beta forms differ only in the position of the OH on carbon 1.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-carbohydrates-and-lipids--06-polysaccharides.webp" width="900" height="1268" alt="Glucose units drawn as beads. Amylose is one unbranched alpha-1,4 chain coiled into a helix with one free end. Amylopectin has alpha-1,4 chains with alpha-1,6 branch points and 4 free ends in the drawing; glycogen is more branched with 13 free ends, so enzymes can release glucose faster. Cellulose is straight beta-1,4 chains with every second glucose flipped, joined to neighbouring chains by hydrogen bonds." loading="lazy">
+  <figcaption>Branching gives many ends for fast release; straight cellulose chains bond sideways for strength.</figcaption>
+</figure>
+
+
 ### Answers
 
 1. Amine group (–NH₂) and carboxyl group (–COOH).
@@ -184,6 +206,12 @@ Why globular proteins dissolve: hydrophobic R groups point inwards, hydrophilic 
 11. Its R group is a single hydrogen atom, small enough to fit in the centre of the triple helix, so the three chains can pack closely.
 12. Any two: covalent cross-links between neighbouring molecules; staggered ends; hydrogen bonds within the triple helix; many molecules bundled into fibrils and fibres.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-carbohydrates-and-lipids--07-triglyceride-phospholipid.webp" width="900" height="1300" alt="Top: a triglyceride is a glycerol backbone of three carbons, each joined by an ester bond (O-C=O) to a fatty acid tail; two tails are straight (saturated) and one has a C=C double bond that kinks it. Three ester bonds release three water molecules. Bottom: a phospholipid has glycerol with two fatty acid tails and a phosphate head in place of the third fatty acid; the head is hydrophilic and the tails hydrophobic." loading="lazy">
+  <figcaption>Both lipids are built on glycerol; phospholipids swap one fatty acid for a hydrophilic phosphate.</figcaption>
+</figure>
+
+
 ## Where marks are usually lost
 
 - Missing the –OH on the carboxyl group or the second H on the amine group in a drawn amino acid.
@@ -195,12 +223,6 @@ Why globular proteins dissolve: hydrophobic R groups point inwards, hydrophilic 
 - Saying haemoglobin has one haem group, or that the protein part (globin) binds oxygen.
 - Describing collagen as one helix, or forgetting the cross-links and staggered ends when explaining strength.
 - Stating a structural feature without the function it serves: the mark is usually for the link.
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-level-biology-9700-carbohydrates-and-lipids--01-water-hydrogen-bonds.webp" width="900" height="860" alt="A central bent water molecule (H-O-H about 104.5 degrees) has a slightly negative oxygen and two slightly positive hydrogens. Dotted hydrogen bonds join each hydrogen to the oxygen of a neighbour below, and join a hydrogen of each of two neighbours above to the central oxygen, giving four hydrogen bonds. Solid lines are strong covalent bonds and dotted lines are weak hydrogen bonds." loading="lazy">
-  <figcaption>A polar water molecule can form up to four hydrogen bonds with its neighbours.</figcaption>
-</figure>
-
 
 ## Official syllabus
 

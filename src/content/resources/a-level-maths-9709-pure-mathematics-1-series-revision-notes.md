@@ -193,6 +193,12 @@ Other distinctions that cost marks:
 11. 2y = 3 + 17, so **y = 10**
 12. r = 3x, so |3x| < 1: **−1/3 < x < 1/3**
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-maths-9709-pure-mathematics-1-series--01-ap-vs-gp.webp" width="900" height="1060" alt="Two bar charts of six terms each. The arithmetic progression 5, 8, 11, 14, 17, 20 adds 3 each time, so the added amount on top of each bar is the same height every time. The geometric progression 3, 6, 12, 24, 48, 96 doubles each time, so the added amount grows. Three consecutive terms satisfy 2b = a + c for an arithmetic progression (8, 11, 14) and b squared = ac for a geometric one (6, 12, 24)." loading="lazy">
+  <figcaption>An arithmetic progression adds the same amount each time; a geometric progression multiplies by the same ratio.</figcaption>
+</figure>
+
+
 ## Where marks are usually lost
 
 - Not raising the coefficient inside b: (3x)² is 9x², not 3x².
@@ -205,6 +211,12 @@ Other distinctions that cost marks:
 - For "least number of terms", giving the decimal root or rounding down instead of taking the next integer.
 - Losing the negative root when square-rooting r² or r⁴, so a valid progression with negative ratio is missed.
 - On a "show that", jumping to the printed result without the intermediate algebra.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-maths-9709-pure-mathematics-1-series--06-recurrence-cobweb.webp" width="900" height="1140" alt="A cobweb diagram for x_(n+1) = 0.6x_n + 8 with x_1 = 5. The lines y = 0.6x + 8 and y = x are drawn. The path steps from 5 through 11, 14.6 and 16.76 and closes in on where the lines cross at L = 20, found by solving L = 0.6L + 8." loading="lazy">
+  <figcaption>A recurrence settles at the limit L where L = f(L); the cobweb shows the terms closing in on it.</figcaption>
+</figure>
+
 
 ## Official syllabus
 

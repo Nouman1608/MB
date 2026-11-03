@@ -179,12 +179,6 @@ A path PQ is 10 m long. A region is described as "less than 3 m from the path an
 
 The shortest distance is along the perpendicular. To find it, construct the perpendicular from the point to the line and measure it. Example: a ship 8 km from a port on a bearing of 040°, with a coast running west to east through the port, is 8 × cos 40° = 6.13 km from the coast.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/oxfordaqa-igcse-mathematics-scale-drawings-bearings-constructions-and-loci--10-shortest-route.webp" width="900" height="890" alt="A coast runs west to east. Port H is on the coast and a ship S lies 8 km away on a bearing of 040 degrees. The red perpendicular from S to the coast measures 6.1 km, the shortest route. A dashed slanted route to another point on the coast is longer." loading="lazy">
-  <figcaption>Perpendicular is the shortest route.</figcaption>
-</figure>
-
-
 ## Exam technique
 
 - Read the question for the word "construct". It means ruler and compasses, with arcs left on the page.
@@ -192,6 +186,12 @@ The shortest distance is along the perpendicular. To find it, construct the perp
 - State units in every answer: km, m, cm or degrees.
 - Where a question asks you to calculate, use the bearings to find the angles in a triangle and then use the right-angled or non-right-angled triangle methods from other topics.
 - Check that a bearing answer lies between 000° and 360°.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-mathematics-scale-drawings-bearings-constructions-and-loci--10-shortest-route.webp" width="900" height="890" alt="A coast runs west to east. Port H is on the coast and a ship S lies 8 km away on a bearing of 040 degrees. The red perpendicular from S to the coast measures 6.1 km, the shortest route. A dashed slanted route to another point on the coast is longer." loading="lazy">
+  <figcaption>Perpendicular is the shortest route.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 

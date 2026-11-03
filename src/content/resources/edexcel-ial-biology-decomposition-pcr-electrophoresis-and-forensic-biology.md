@@ -89,6 +89,11 @@ For comparison, one molecule after 30 cycles gives 2³⁰ = 1 073 741 824 copies
 Why it matters: forensic samples are often tiny, and PCR gives enough DNA to profile. Contamination is the main risk, because a single stray cell's DNA is also amplified.
 
 <figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-genetic-technology--04-three-ways-to-get-a-gene.webp" width="900" height="1070" alt="Three routes are shown. Restriction enzymes cut the gene from the genome but it keeps its introns. Reverse transcriptase copies mRNA to cDNA and DNA polymerase makes the second strand, giving a gene with no introns. A gene machine builds the gene from a known base sequence." loading="lazy">
+  <figcaption>Restriction cutting keeps introns, whereas cDNA and machine-made genes have none.</figcaption>
+</figure>
+
+<figure class="topic-figure">
   <img src="https://img.marlbridge.com/a-level-biology-9700-genetic-technology--05-pcr-cycle.webp" width="900" height="1230" alt="A temperature trace shows 95 C, about 60 C and 72 C plateaus. Three panels show one cycle: heat separates the strands, primers anneal to the 3 prime end of each template, and Taq polymerase extends each primer 5 prime to 3 prime. A bar chart shows copies doubling each cycle, from 4 to 256 in 6 cycles." loading="lazy">
   <figcaption>Each PCR cycle denatures, anneals and extends, doubling the number of DNA molecules.</figcaption>
 </figure>
@@ -201,12 +206,6 @@ Pathologists use several indicators together because each is affected by conditi
 ## Next steps
 
 Use the [revision notes](/resources/edexcel-ial-biology-decomposition-pcr-electrophoresis-and-forensic-biology-revision-notes/) for recall and the [practice questions](/resources/edexcel-ial-biology-decomposition-pcr-electrophoresis-and-forensic-biology-practice/) to test yourself.
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-level-biology-9700-genetic-technology--09-scnt-cloning.webp" width="900" height="1300" alt="A body cell nucleus is moved into a donor egg whose own nucleus has been removed, using an electric pulse. The egg divides to an early embryo that is implanted in a surrogate mother. The clone has the nuclear DNA of the body-cell donor. In a trial 150 eggs gave 60 embryos, 12 pregnancies, 5 births and 3 survivors, 2 percent." loading="lazy">
-  <figcaption>SCNT puts an adult body-cell nucleus into an enucleated egg, but only about 2% of reconstructed eggs give a surviving animal.</figcaption>
-</figure>
-
 
 ## Official syllabus
 

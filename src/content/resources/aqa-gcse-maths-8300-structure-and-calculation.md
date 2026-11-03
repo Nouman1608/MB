@@ -46,6 +46,12 @@ For the whole of Topic 1 Number, see the [Number study guide](/resources/aqa-gcs
 
 Paper 1 is non-calculator; Papers 2 and 3 allow a calculator. Any of this content can appear on any paper, so practise every method by hand.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-number--01-types-of-number.webp" width="900" height="930" alt="Nested ovals show natural numbers inside integers inside rational numbers, with irrational numbers (pi, root 2, root 3) outside, a separate group that cannot be written as a fraction." loading="lazy">
+  <figcaption>Every natural number is an integer, and every integer is rational; irrational numbers are a separate group.</figcaption>
+</figure>
+
+
 ## Ordering and inequality symbols (N1)
 
 To order a mix of fractions, decimals and negatives, convert everything to decimals, then place them on a number line. With negatives, the number further from zero is the **smaller** one: −0.8 < −0.3.
@@ -243,6 +249,17 @@ The index laws for integer powers are in the [Number study guide](/resources/aqa
 (125/64)^(2/3) = (5/4)² = 25/16
 ```
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-powers-roots-and-indices--04-index-rules-tiles.webp" width="900" height="976" alt="Tiles show 2^3 x 2^4 as 7 factors (2^7 = 128), (3^2)^4 as 4 groups of 2 factors (3^8), and 2^4 / 2^7 with 4 pairs cancelling leaving 3 below (2^-3 = 1/8). The rules need the same base." loading="lazy">
+  <figcaption>Counting factors explains add, multiply and subtract for indices.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-powers-roots-and-indices--05-fractional-indices.webp" width="900" height="1000" alt="A cube of 125 blocks has side 5, so 125^(1/3) = 5. Two flow chains show 125^(-2/3): root 3, square, flip gives 1/25, and 32^(3/5): root 5, cube gives 8." loading="lazy">
+  <figcaption>The denominator is the root, the numerator is the power, and a minus sign flips.</figcaption>
+</figure>
+
+
 ## Calculating exactly (N8)
 
 Exact means no rounding. Leave fractions as fractions and π as π.
@@ -275,6 +292,11 @@ Perimeter = two radii + quarter of circumference
   <figcaption>A grid expands surd brackets and multiplying by a form of 1 rationalises a denominator.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-exponential-growth-decay-and-surds--04-surd-diagonal.webp" width="900" height="940" alt="A square of side 4 cm has a diagonal of root 32, since 16 + 16 = 32. Taking out the square factor gives 4 root 2, which lands near 5.657 on the number line." loading="lazy">
+  <figcaption>The exact length 4√2 cm is a surd; 5.657 is only a rounded value.</figcaption>
+</figure>
+
 
 ## Standard form (N9)
 
@@ -297,6 +319,11 @@ On a calculator, a display such as 2.5E−04 means 2.5 × 10⁻⁴ = 0.00025. Wh
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/aqa-gcse-maths-8300-structure-and-calculation--05-standard-form-add-divide.webp" width="900" height="1180" alt="To add 3.4 x 10^5 and 6.1 x 10^4, rewrite the second as 0.61 x 10^5 then add numbers: 4.01 x 10^5. To divide 4.8 x 10^5 by 1.2 x 10^-3, divide the numbers (4) and subtract the powers (5 - (-3) = 8): 4 x 10^8." loading="lazy">
   <figcaption>Match the powers to add; divide numbers and subtract powers to divide.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-mathematics-number--03-standard-form.webp" width="900" height="880" alt="Digit boxes show the decimal point of 4 560 000 jumping 6 places left to give 4.56 x 10^6, and of 0.00032 jumping 4 places right to give 3.2 x 10^-4. A must lie between 1 and 10." loading="lazy">
+  <figcaption>Move the decimal point until the number is between 1 and 10; the count of moves is the power of 10.</figcaption>
 </figure>
 
 

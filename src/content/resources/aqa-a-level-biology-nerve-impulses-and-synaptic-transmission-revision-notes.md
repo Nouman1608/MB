@@ -155,6 +155,12 @@ Presynaptic knob: mitochondria, vesicles of acetylcholine, voltage-gated Ca²⁺
 
 **Worked reminder.** Resting potential −70 mV, threshold −55 mV, and each excitatory input adds 2.5 mV with no decay. The change needed is 15 mV and 15 / 2.5 = 6 inputs. If one inhibitory input removes 5 mV, the same cell needs 15 + 5 = 20 mV, so 20 / 2.5 = 8 excitatory inputs.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-biology-9700-control-and-coordination--07-pacinian-corpuscle.webp" width="900" height="1130" alt="A Pacinian corpuscle has concentric lamellae separated by gel, with a sensory neurone ending at the centre. Pressure stretches the membrane and widens stretch-mediated Na+ channels, so Na+ enters and the membrane depolarises: the generator potential. In the lesson example pressures of 0.5, 1.0 and 1.5 kPa give 6, 12 and 18 mV; only 1.5 kPa passes the 15 mV needed to reach threshold and fire an action potential." loading="lazy">
+  <figcaption>Pressure opens stretch-mediated Na+ channels; only a generator potential reaching threshold fires an impulse.</figcaption>
+</figure>
+
+
 ### Neuromuscular junction compared with a synapse between neurones
 
 | Feature | Neurone to neurone | Neuromuscular junction |

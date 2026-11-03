@@ -160,12 +160,6 @@ Corrected profit for the year                            47,800
 
 48,000 + 600 + 400 + 2,700 − 750 − 500 − 2,500 − 150 = 47,800.
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-accounting-concepts-revision-notes--01-concepts-corrected-profit.webp" width="900" height="1011" alt="Bars to the right of a centre line add to profit and bars to the left subtract. Business entity adds 600 and 400, matching adds 2,700 and subtracts 750, prudence subtracts 500 and 150, realisation subtracts 2,500 and materiality changes nothing. Draft profit 48,000 becomes 47,800." loading="lazy">
-  <figcaption>Each concept moves the draft profit up or down, ending at $47,800.</figcaption>
-</figure>
-
-
 ## Exam traps
 
 - Defining a concept without applying it to the figures given.
@@ -208,3 +202,9 @@ storage devices, cloud services, other digital services. 8. Advantage:
 accessible from anywhere by authorised users, or provider back-ups, or
 safe from fire or theft at the premises. Disadvantage: needs a reliable
 internet connection, or ongoing cost, or dependence on the provider.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-accounting-concepts-revision-notes--01-concepts-corrected-profit.webp" width="900" height="1011" alt="Bars to the right of a centre line add to profit and bars to the left subtract. Business entity adds 600 and 400, matching adds 2,700 and subtracts 750, prudence subtracts 500 and 150, realisation subtracts 2,500 and materiality changes nothing. Draft profit 48,000 becomes 47,800." loading="lazy">
+  <figcaption>Each concept moves the draft profit up or down, ending at $47,800.</figcaption>
+</figure>
+

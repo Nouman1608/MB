@@ -56,6 +56,11 @@ The carbonyl carbon has three regions of electron density around it, so it is **
   <figcaption>The C=O carbon is delta plus and trigonal planar, so nucleophiles attack it.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-aldehydes-and-ketones--08-dnph-melting-point.webp" width="900" height="1050" alt="An orange precipitate with 2,4-DNPH shows a carbonyl group. A number line gives derivative melting temperatures, with an unknown at 125 degrees C between butanal and propanone. A negative Tollens’ test rules out the aldehyde, so it is propanone." loading="lazy">
+  <figcaption>2,4-DNPH shows C=O; a close melting temperature needs a second test such as Tollens’.</figcaption>
+</figure>
+
 
 ## Oxidation of aldehydes
 

@@ -216,6 +216,12 @@ Rules for the curve:
 10. State the units of rate taken from a graph of mass against time.
 11. Why is mass loss a poor way to follow a reaction that gives hydrogen?
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-kinetics--07-half-life.webp" width="900" height="1060" alt="Two concentration-time graphs. For a first-order reaction each halving (0.80 to 0.40 to 0.20 to 0.10) takes the same 60 s, so k = ln 2 divided by the half-life. For a zero-order reaction the line is straight and successive halvings take 100, 50 and 25 s, with k equal to minus the gradient." loading="lazy">
+  <figcaption>A constant half-life shows first order; in a zero-order reaction successive half-lives shorten.</figcaption>
+</figure>
+
+
 ### Answers
 
 1. 45 ÷ 25 = **1.8 cm³ s⁻¹**
@@ -229,12 +235,6 @@ Rules for the curve:
 9. It **triples**
 10. **g s⁻¹**
 11. Hydrogen has a very small Mr, so the **mass change is too small** to measure precisely
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/aqa-a-level-chemistry-kinetics--07-half-life.webp" width="900" height="1060" alt="Two concentration-time graphs. For a first-order reaction each halving (0.80 to 0.40 to 0.20 to 0.10) takes the same 60 s, so k = ln 2 divided by the half-life. For a zero-order reaction the line is straight and successive halvings take 100, 50 and 25 s, with k equal to minus the gradient." loading="lazy">
-  <figcaption>A constant half-life shows first order; in a zero-order reaction successive half-lives shorten.</figcaption>
-</figure>
-
 
 ## Where marks are usually lost
 
