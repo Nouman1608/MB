@@ -76,6 +76,14 @@ Gases behave most ideally at **low pressure and high temperature**. Gases with l
 
 **Ice is a special case** worth naming: its molecules are held together by **hydrogen bonding** — the strongest type of van der Waals' force (a special case of permanent dipole–permanent dipole attraction) — rather than by id-id forces alone, giving it an unusually open structure — which is why ice is less dense than liquid water and floats.
 
+<figure class="topic-figure">
+  <picture>
+    <source media="(max-width: 640px)" srcset="/images/learning/chemistry/chem-five-structure-comparison-mobile.webp" width="760" height="1250">
+    <img src="/images/learning/chemistry/chem-five-structure-comparison.webp" width="1480" height="750" alt="Left panel: separate two-atom molecules and two long zigzag polymer chains. Right panel: a grid of alternating + and - ions labelled ionic, a grid of + ions with small electron dots labelled metal, and a connected square grid of atoms labelled giant covalent." loading="lazy" decoding="async">
+  </picture>
+  <figcaption>Molecular substances are separate units, whereas ionic, metallic and giant covalent lattices continue in all directions.</figcaption>
+</figure>
+
 ## The rule that answers most questions
 
 **Properties follow from what must be broken.**

@@ -281,6 +281,13 @@ In a photomicrograph, find the tightly packed palisade layer first: epidermis is
   <figcaption>Labelled leaf section showing where light, CO2 and water are used.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <picture>
+    <source media="(max-width: 640px)" srcset="/images/learning/biology/micrographs/bio-auth-leaf-midrib-mobile.webp" width="960" height="1800">
+    <img src="/images/learning/biology/micrographs/bio-auth-leaf-midrib.webp" width="1600" height="1280" alt="Light micrograph of a leaf cross-section stained green. A rounded vascular bundle in the thickened midrib has larger xylem cells facing the upper surface and smaller phloem cells below. Columns of palisade cells lie under the upper epidermis and loosely arranged spongy mesophyll with air spaces lies on each side." loading="lazy" decoding="async">
+  </picture>
+  <figcaption>Transverse section of a privet leaf midrib, with xylem toward the upper surface and phloem toward the lower surface of the vascular bundle. Photo: Berkshire Community College Bioscience Image Library / Fayette A. Reynolds (<a href="https://www.flickr.com/photos/146824358@N03/36198194954/">source</a>), <a href="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0</a>. Reading notes added by Marlbridge.</figcaption>
+</figure>
 
 ## 6.3 Mineral nutrition
 

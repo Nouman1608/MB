@@ -79,6 +79,14 @@ Animal cells have centrioles at the spindle poles; plant cells do not.
 
 **Identifying stages from photomicrographs.** Pairs on the equator: metaphase I. Single chromosomes on the equator of one of two cells: metaphase II. Whole chromosomes moving to the poles: anaphase I; single chromatids moving: anaphase II.
 
+<figure class="topic-figure">
+  <picture>
+    <source media="(max-width: 640px)" srcset="/images/learning/biology/micrographs/bio-auth-meiosis-lily-metaphaseII-telophaseI-mobile.webp" width="960" height="1800">
+    <img src="/images/learning/biology/micrographs/bio-auth-meiosis-lily-metaphaseII-telophaseI.webp" width="1600" height="1280" alt="Light micrograph of lily pollen mother cells on a pink-purple background. On the left one rounded cell has divided into four, each with a dark nucleus; three other cells have each divided into two, with purple chromatin in each half. A 50 micrometre scale bar is at the lower left." loading="lazy" decoding="async">
+  </picture>
+  <figcaption>Lily pollen mother cells after the first and second meiotic divisions, including two-cell dyads and a four-cell tetrad. Photo: Josef Reischig (<a href="https://commons.wikimedia.org/wiki/File:Meiosis_%28248_22%29.jpg">source</a>), <a href="https://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</a>. Reading notes by Marlbridge; this adapted image is shared under the same licence.</figcaption>
+</figure>
+
 ### Sources of genetic variation
 
 - **Crossing over** in prophase I swaps sections between non-sister chromatids of a homologous pair. This makes new combinations of alleles on each chromatid.

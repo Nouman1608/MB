@@ -187,6 +187,13 @@ The number doubles each cycle. A common slip is to calculate 2 × 6 = 12.
   <figcaption>Mitosis makes identical cells in a eukaryote.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <picture>
+    <source media="(max-width: 640px)" srcset="/images/learning/biology/micrographs/microscopy-mitosis-five-stage-key-mobile.webp" width="640" height="2460">
+    <img src="/images/learning/biology/micrographs/microscopy-mitosis-five-stage-key.webp" width="1280" height="1149" alt="Five panels of pink-stained onion root-tip cells labelled interphase (round nucleus), prophase (nucleus with visible chromosome threads), metaphase (chromosomes grouped across the middle), anaphase (two chromosome groups moving apart) and telophase (two daughter nuclei)." loading="lazy" decoding="async">
+  </picture>
+  <figcaption>Use this key to recognise the stages of mitosis in onion root-tip cells, from interphase to telophase and cytokinesis. Photo: Roval312 (<a href="https://commons.wikimedia.org/wiki/File:Mitosis_in_onion_cells.jpg">source</a>), <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>. Reading notes by Marlbridge; this adapted image is shared under the same licence.</figcaption>
+</figure>
 
 ## 4.1.2.3 Stem cells
 

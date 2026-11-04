@@ -87,6 +87,22 @@ This is, in fact, one of the four amine-production routes already listed
 in [Amines: Aliphatic and Aromatic, Basicity and Azo
 Dyes](/resources/a-amines-aliphatic-and-aromatic/).
 
+<figure class="topic-figure">
+  <picture>
+    <source media="(max-width: 640px)" srcset="/images/learning/chemistry/chem-acyl-ammonia-mechanism-mobile.webp" width="760" height="1790">
+    <img src="/images/learning/chemistry/chem-acyl-ammonia-mechanism.webp" width="2200" height="750" alt="Three panels. 1: the ammonia nitrogen lone pair attacks the carbonyl carbon of CH3COCl while the C=O pi pair moves to oxygen. 2: the O- reforms C=O and chloride leaves, leaving an NH3+ group on carbon. 3: a base removes H+ from N+, giving CH3CONH2 and NH4+Cl-." loading="lazy" decoding="async">
+  </picture>
+  <figcaption>Ammonia adds to an acyl chloride, chloride is eliminated, and a second ammonia removes H+ to give an amide.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <picture>
+    <source media="(max-width: 640px)" srcset="/images/learning/chemistry/chem-acyl-methylamine-mechanism-mobile.webp" width="760" height="1790">
+    <img src="/images/learning/chemistry/chem-acyl-methylamine-mechanism.webp" width="2200" height="750" alt="Three panels. 1: the methylamine nitrogen lone pair attacks the carbonyl carbon of CH3COCl while the C=O pi pair moves to oxygen. 2: the O- reforms C=O as Cl- leaves, leaving N+H2CH3 attached to carbon. 3: a base removes H+ from N+, giving CH3CONHCH3 and CH3NH3+Cl-." loading="lazy" decoding="async">
+  </picture>
+  <figcaption>Primary amines react with acyl chlorides by addition-elimination to give N-substituted amides.</figcaption>
+</figure>
+
 ## Why amides are much weaker bases than amines
 
 Amides are essentially **non-basic** in aqueous solution, in sharp contrast

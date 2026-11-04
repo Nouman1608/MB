@@ -102,6 +102,14 @@ functional groups marked and hydrogen atoms on carbon omitted entirely. You're
 expected to move fluently between all four for the functional groups in the AS
 syllabus.
 
+<figure class="topic-figure">
+  <picture>
+    <source media="(max-width: 640px)" srcset="/images/learning/chemistry/chem-butanone-formulas-mobile.webp" width="760" height="1250">
+    <img src="/images/learning/chemistry/chem-butanone-formulas.webp" width="1480" height="750" alt="Left: CH3CH2C(=O)CH3 and its displayed formula with all C-H bonds and a C=O carrying two oxygen lone pairs. Right: skeletal zigzag with a C=O on the second carbon, carbons numbered 1 to 4." loading="lazy" decoding="async">
+  </picture>
+  <figcaption>Condensed, displayed and skeletal formulae all represent the same butanone molecule, C4H8O.</figcaption>
+</figure>
+
 ## The vocabulary of organic reactions
 
 Two separate sets of terms describe organic chemistry, and it's worth keeping
@@ -159,6 +167,14 @@ restricted by the π bond — the two substituents on each carbon are locked on
 one side or the other. **Optical isomerism** arises at a **chiral centre**: a
 carbon atom bonded to four different groups. A chiral centre produces two
 non-superimposable mirror-image structures, called **enantiomers**.
+
+<figure class="topic-figure">
+  <picture>
+    <source media="(max-width: 640px)" srcset="/images/learning/chemistry/chem-ethanol-ether-lewis-mobile.webp" width="760" height="1250">
+    <img src="/images/learning/chemistry/chem-ethanol-ether-lewis.webp" width="1480" height="750" alt="Two displayed formulae. Left: ethanol, H3C-CH2-O-H with two lone pairs on oxygen. Right: dimethyl ether, H3C-O-CH3 with two lone pairs on oxygen. Both are labelled C2H6O, 20 valence electrons, 8 bonds." loading="lazy" decoding="async">
+  </picture>
+  <figcaption>Ethanol and dimethyl ether have the same molecular formula but different connectivity, so they are structural isomers.</figcaption>
+</figure>
 
 ## Common mistakes
 

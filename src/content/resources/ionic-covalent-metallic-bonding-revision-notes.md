@@ -59,6 +59,14 @@ first, then test yourself with the
 | Conducts molten/aqueous | Yes | No | No | Yes |
 | Solubility in water | Usually soluble | Usually insoluble | Insoluble | Insoluble |
 
+<figure class="topic-figure">
+  <picture>
+    <source media="(max-width: 640px)" srcset="/images/learning/chemistry/chem-five-structure-comparison-mobile.webp" width="760" height="1250">
+    <img src="/images/learning/chemistry/chem-five-structure-comparison.webp" width="1480" height="750" alt="Left panel: separate two-atom molecules and two long zigzag polymer chains. Right panel: a grid of alternating + and - ions labelled ionic, a grid of + ions with small electron dots labelled metal, and a connected square grid of atoms labelled giant covalent." loading="lazy" decoding="async">
+  </picture>
+  <figcaption>Molecular substances are separate units, whereas ionic, metallic and giant covalent lattices continue in all directions.</figcaption>
+</figure>
+
 ## The ionic lattice, precisely
 
 An ionic solid is a **giant lattice** — a regular, repeating 3D arrangement
@@ -97,6 +105,22 @@ other's, so the examiner can see where each electron came from.
   full outer shell (2 for hydrogen, 8 for everything else). **Carbon dioxide**
   (Extended/5070) needs **double bonds** — two shared pairs between carbon and each
   oxygen.
+
+<figure class="topic-figure">
+  <picture>
+    <source media="(max-width: 640px)" srcset="/images/learning/chemistry/chem-hcn-n2f2-electrons-mobile.webp" width="760" height="1250">
+    <img src="/images/learning/chemistry/chem-hcn-n2f2-electrons.webp" width="1480" height="750" alt="Left: H, C and N in a line with one shared pair between H and C, three shared pairs between C and N, and one lone pair on N. Right: F, N, N, F in a line with single pairs to each F, two shared pairs between the nitrogens, one lone pair on each N and three lone pairs on each F." loading="lazy" decoding="async">
+  </picture>
+  <figcaption>Count every valence electron: HCN has 10 and N2F2 has 24, split between shared pairs and lone pairs.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <picture>
+    <source media="(max-width: 640px)" srcset="/images/learning/chemistry/chem-two-donor-ionic-electrons-mobile.webp" width="760" height="1790">
+    <img src="/images/learning/chemistry/chem-two-donor-ionic-electrons.webp" width="2200" height="750" alt="Three panels. In each, two Group 1 atoms (Na, Li or K) with one outer electron have arrows pointing to an oxygen or sulfur atom with six outer electrons. Below, the anion is shown in square brackets with eight outer electrons, two in a different colour, and a 2- charge." loading="lazy" decoding="async">
+  </picture>
+  <figcaption>A Group 16 atom needs two electrons, so two Group 1 atoms are required, giving formulas such as Na2O, Li2S and K2S.</figcaption>
+</figure>
 
 ## Describe vs explain — the tier trap
 

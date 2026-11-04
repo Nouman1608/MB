@@ -120,6 +120,14 @@ unit repeats identically on both sides of every linkage) — effectively
 running the condensation reaction in reverse, adding back an H₂O (or HCl)
 at each linkage broken.
 
+<figure class="topic-figure">
+  <picture>
+    <source media="(max-width: 640px)" srcset="/images/learning/chemistry/chem-condensation-worked-repeats-mobile.webp" width="760" height="1250">
+    <img src="/images/learning/chemistry/chem-condensation-worked-repeats.webp" width="1480" height="750" alt="Left: HOOC-(CH2)5-COOH + HO-(CH2)4-OH and the repeat unit [-C(=O)-(CH2)5-C(=O)-O-(CH2)4-O-]n. Right: H2N-CH(C2H5)-COOH and the repeat unit [-NH-CH(C2H5)-C(=O)-]n, with notes on links and water molecules lost." loading="lazy" decoding="async">
+  </picture>
+  <figcaption>In a condensation polymer the repeat unit keeps every carbon of each monomer, joined by ester or amide links with loss of water.</figcaption>
+</figure>
+
 ## Predicting the type of polymerisation
 
 Given an unfamiliar monomer or pair of monomers, the functional groups

@@ -130,6 +130,14 @@ actual size = image size ÷ magnification = 30 000 ÷ 1500 = 20 µm
 
 Always convert to µm before dividing, or your answer will be 1000 times too small.
 
+<figure class="topic-figure">
+  <picture>
+    <source media="(max-width: 640px)" srcset="/images/learning/biology/micrographs/bio-auth-bronchus-mobile.webp" width="960" height="1800">
+    <img src="/images/learning/biology/micrographs/bio-auth-bronchus.webp" width="1600" height="1280" alt="Low-power light micrograph of a bronchus cut across, stained pink and purple. A large pale lumen is surrounded by a folded lining, clusters of small glands, and curved purple plates of cartilage in the outer wall." loading="lazy" decoding="async">
+  </picture>
+  <figcaption>A bronchus in cross-section, showing plates of cartilage, mucous glands and the folded airway lining. Photo: Dr. Yale Rosen / Pulmonary Pathology Society (<a href="https://www.flickr.com/photos/pulmonary_pathology/3661495488/">source</a>), <a href="https://creativecommons.org/licenses/by-sa/2.0/">CC BY-SA 2.0</a>. Reading notes by Marlbridge; this adapted image is shared under the same licence.</figcaption>
+</figure>
+
 ### Drawing a plan diagram of the trachea or bronchus wall
 
 - Draw the **outlines of each tissue layer** only. Do not draw individual cells.

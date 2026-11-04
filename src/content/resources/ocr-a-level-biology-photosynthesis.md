@@ -73,6 +73,13 @@ The large membrane area of many grana holds many photosystems and carriers. Calv
   <figcaption>Where each part of a chloroplast sits and which stage happens there.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <picture>
+    <source media="(max-width: 640px)" srcset="/images/learning/biology/micrographs/microscopy-chloroplast-tem-mobile.webp" width="640" height="1044">
+    <img src="/images/learning/biology/micrographs/microscopy-chloroplast-tem.webp" width="1280" height="868" alt="Black-and-white transmission electron micrograph of an elongated chloroplast lying alongside a thick grey cell wall. Inside, dark stacks of thylakoid membranes (grana) are linked by thinner membranes running through a paler stroma. Scale bar 1 micrometre." loading="lazy" decoding="async">
+  </picture>
+  <figcaption>Inside a chloroplast, thylakoid membranes are stacked into grana where the light-dependent reactions happen, surrounded by the stroma. Photo: and3k and caper437 (<a href="https://commons.wikimedia.org/wiki/File:Chloroplast_in_leaf_of_Anemone_sp_TEM_12000x.png">source</a>), <a href="https://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</a>. Reading notes by Marlbridge; this adapted image is shared under the same licence.</figcaption>
+</figure>
 
 ## 5.2.1(c) Pigments, photosystems and chromatography
 

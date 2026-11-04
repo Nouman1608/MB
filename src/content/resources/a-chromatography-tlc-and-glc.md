@@ -106,6 +106,14 @@ mobile solvent (higher Rf), so the specific choice of stationary and mobile
 phase determines which compounds separate well from each other in a given
 TLC system.
 
+<figure class="topic-figure">
+  <picture>
+    <source media="(max-width: 640px)" srcset="/images/learning/chemistry/chem-amino-acid-tlc-mobile.webp" width="760" height="1250">
+    <img src="/images/learning/chemistry/chem-amino-acid-tlc.webp" width="1480" height="750" alt="Left: a TLC plate with a baseline and dashed solvent front; single purple spots for Gly, Ala and Ser at different heights, and the Mix lane has two spots matching Gly and Ala. Right: a covered tank with a plate standing in shallow solvent, the pencil origin line with a sample spot above the solvent level." loading="lazy" decoding="async">
+  </picture>
+  <figcaption>Running a hydrolysate beside known amino acids on the same plate lets you identify its components by matching Rf values after ninhydrin.</figcaption>
+</figure>
+
 ## Gas/liquid chromatography (GLC)
 
 GLC separates a mixture of volatile compounds using a **stationary phase**
@@ -150,6 +158,14 @@ gas phase and moves on with the carrier gas.
 - A component that interacts **less strongly** with the stationary phase
   moves through the column with the carrier gas more freely, giving a
   **shorter** retention time.
+
+<figure class="topic-figure">
+  <picture>
+    <source media="(max-width: 640px)" srcset="/images/learning/chemistry/chem-gc-calibration-mobile.webp" width="760" height="1250">
+    <img src="/images/learning/chemistry/chem-gc-calibration.webp" width="1480" height="750" alt="A straight-line graph of integrated peak area against concentration from 0 to 10 mg dm-3, with dashed lines from an area of 600 across to the line and down to 6.0 mg dm-3. Right: Area = 100 x concentration, 600/100 = 6.0 mg dm-3, plus notes on keeping conditions identical." loading="lazy" decoding="async">
+  </picture>
+  <figcaption>Standards of known concentration give a calibration line, so an unknown&#x27;s peak area can be converted into a concentration.</figcaption>
+</figure>
 
 ## Common mistakes
 

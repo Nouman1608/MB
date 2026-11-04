@@ -140,6 +140,14 @@ giving an aryl ester — useful precisely because phenol reacts only slowly
 and reversibly with carboxylic acids directly, so the acyl chloride route
 is the practical way to make an ester from a phenol.
 
+<figure class="topic-figure">
+  <picture>
+    <source media="(max-width: 640px)" srcset="/images/learning/chemistry/chem-acyl-ethanol-mechanism-mobile.webp" width="760" height="1790">
+    <img src="/images/learning/chemistry/chem-acyl-ethanol-mechanism.webp" width="2200" height="750" alt="Three panels. 1: an ethanol oxygen lone pair attacks the carbonyl carbon of CH3COCl while the C=O pi pair moves onto oxygen. 2: in the tetrahedral intermediate the O- lone pair reforms C=O as the C-Cl bond breaks, leaving a positively charged O(H)C2H5 group. 3: a base removes H+ from the O+, giving CH3COOC2H5 + HCl." loading="lazy" decoding="async">
+  </picture>
+  <figcaption>Acyl chlorides react with alcohols by addition-elimination: addition to C=O, loss of Cl-, then loss of H+ to give an ester.</figcaption>
+</figure>
+
 ## Acyl chlorides: production and reactions
 
 **Producing acyl chlorides.** Carboxylic acids react with PCl₃ (plus heat),
@@ -182,6 +190,14 @@ The same two-step pattern applies with an alcohol, phenol, ammonia or amine
 as the nucleophile in step 1 — only the identity of the attacking
 nucleophile (and therefore the final product: ester, aryl ester, or amide)
 changes.
+
+<figure class="topic-figure">
+  <picture>
+    <source media="(max-width: 640px)" srcset="/images/learning/chemistry/chem-acyl-ammonia-mechanism-mobile.webp" width="760" height="1790">
+    <img src="/images/learning/chemistry/chem-acyl-ammonia-mechanism.webp" width="2200" height="750" alt="Three panels. 1: the ammonia nitrogen lone pair attacks the carbonyl carbon of CH3COCl while the C=O pi pair moves to oxygen. 2: the O- reforms C=O and chloride leaves, leaving an NH3+ group on carbon. 3: a base removes H+ from N+, giving CH3CONH2 and NH4+Cl-." loading="lazy" decoding="async">
+  </picture>
+  <figcaption>Ammonia adds to an acyl chloride, chloride is eliminated, and a second ammonia removes H+ to give an amide.</figcaption>
+</figure>
 
 ## Relative ease of hydrolysis: acyl chlorides vs alkyl chlorides vs halogenoarenes
 

@@ -104,6 +104,22 @@ The ileum wall is built for absorption. Match each feature to its function.
 | Many mitochondria in epithelial cells | Supply ATP for active transport |
 | Membrane-bound enzymes and carrier proteins | Final digestion beside the transport proteins; uptake of sugars and amino acids |
 
+<figure class="topic-figure">
+  <picture>
+    <source media="(max-width: 640px)" srcset="/images/learning/biology/micrographs/bio-auth-ileum-villi-overview-mobile.webp" width="960" height="1800">
+    <img src="/images/learning/biology/micrographs/bio-auth-ileum-villi-overview.webp" width="1600" height="1280" alt="Light micrograph of the small intestine in which dozens of villi are cut across, appearing as pink polygonal islands separated by pale lumen. Each has a central core of cells surrounded by a border of tall epithelial cells with dark nuclei and pale rounded goblet cells." loading="lazy" decoding="async">
+  </picture>
+  <figcaption>Villi of the ileum cut across, each with a central core and an outer layer of epithelial and goblet cells. Photo: Mikael Häggström, M.D. (<a href="https://commons.wikimedia.org/wiki/File:Cross-section_histology_of_small_intestinal_villi_of_the_terminal_ileum.jpg">source</a>), <a href="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0</a>. Reading notes added by Marlbridge.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <picture>
+    <source media="(max-width: 640px)" srcset="/images/learning/biology/micrographs/bio-auth-ileum-villus-mobile.webp" width="960" height="1800">
+    <img src="/images/learning/biology/micrographs/bio-auth-ileum-villus.webp" width="1600" height="1280" alt="High-power light micrograph of the edge of a villus, stained pink. Tall columnar epithelial cells with elongated nuclei line the outer surface, interrupted by pale, frothy goblet cells, around a core of connective tissue with many scattered nuclei." loading="lazy" decoding="async">
+  </picture>
+  <figcaption>Close-up of a villus edge, showing columnar epithelial cells, mucus-filled goblet cells and the connective-tissue core. Photo: M. Gebauer (<a href="https://commons.wikimedia.org/wiki/File:Ileum.JPG">source</a>), <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>. Reading notes by Marlbridge; this adapted image is shared under the same licence.</figcaption>
+</figure>
+
 ### Worked example: surface area
 
 A villus is modelled as a cylinder of radius 0.10 mm and height 1.0 mm, standing on a flat footprint of the same radius. Microvilli are supplied as increasing membrane area 15-fold. A drawing of a villus is 42 mm long and the real villus is 0.6 mm long.

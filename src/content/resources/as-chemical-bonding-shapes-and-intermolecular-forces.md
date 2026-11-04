@@ -259,6 +259,14 @@ what makes a species such as NO a free radical; when drawing any species
 with an odd number of electrons, count the total first so the unpaired
 electron is placed deliberately rather than forced into a false octet.
 
+<figure class="topic-figure">
+  <picture>
+    <source media="(max-width: 640px)" srcset="/images/learning/chemistry/chem-hcn-n2f2-electrons-mobile.webp" width="760" height="1250">
+    <img src="/images/learning/chemistry/chem-hcn-n2f2-electrons.webp" width="1480" height="750" alt="Left: H, C and N in a line with one shared pair between H and C, three shared pairs between C and N, and one lone pair on N. Right: F, N, N, F in a line with single pairs to each F, two shared pairs between the nitrogens, one lone pair on each N and three lone pairs on each F." loading="lazy" decoding="async">
+  </picture>
+  <figcaption>Count every valence electron: HCN has 10 and N2F2 has 24, split between shared pairs and lone pairs.</figcaption>
+</figure>
+
 ## Common mistakes
 
 - **Calling all intermolecular forces "van der Waals' forces" as if that meant

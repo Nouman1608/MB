@@ -146,6 +146,14 @@ states) and giant molecular (which, except graphite, doesn't conduct at
 all). Conducting when molten, together with solubility in water, is the
 signature of mobile ions being released — **the solid is giant ionic.**
 
+<figure class="topic-figure">
+  <picture>
+    <source media="(max-width: 640px)" srcset="/images/learning/chemistry/chem-five-structure-comparison-mobile.webp" width="760" height="1250">
+    <img src="/images/learning/chemistry/chem-five-structure-comparison.webp" width="1480" height="750" alt="Left panel: separate two-atom molecules and two long zigzag polymer chains. Right panel: a grid of alternating + and - ions labelled ionic, a grid of + ions with small electron dots labelled metal, and a connected square grid of atoms labelled giant covalent." loading="lazy" decoding="async">
+  </picture>
+  <figcaption>Molecular substances are separate units, whereas ionic, metallic and giant covalent lattices continue in all directions.</figcaption>
+</figure>
+
 ## Common mistakes
 
 - **Saying I₂ or ice have "weak bonds" without specifying weak *between

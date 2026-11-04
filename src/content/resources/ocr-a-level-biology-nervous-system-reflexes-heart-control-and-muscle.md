@@ -175,7 +175,21 @@ In a **longitudinal** section, skeletal muscle shows parallel fibres with regula
   <figcaption>A 30% narrowing in diameter halves the cross-sectional area.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <picture>
+    <source media="(max-width: 640px)" srcset="/images/learning/biology/micrographs/bio-auth-skeletal-muscle-mobile.webp" width="960" height="1800">
+    <img src="/images/learning/biology/micrographs/bio-auth-skeletal-muscle.webp" width="1600" height="1280" alt="Light micrograph of pink-stained skeletal muscle. Long fibres cross the image diagonally and show fine bands running across each fibre. At the lower left, fibres cut across appear as tightly packed polygonal shapes separated by pale connective tissue." loading="lazy" decoding="async">
+  </picture>
+  <figcaption>Skeletal muscle fibres in longitudinal and transverse section, showing regular cross-striations. Photo: Berkshire Community College Bioscience Image Library / Fayette A. Reynolds (<a href="https://www.flickr.com/photos/146824358@N03/28089118558/">source</a>), <a href="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0</a>. Reading notes added by Marlbridge.</figcaption>
+</figure>
 
+<figure class="topic-figure">
+  <picture>
+    <source media="(max-width: 640px)" srcset="/images/learning/biology/micrographs/bio-auth-smooth-muscle-mobile.webp" width="960" height="1800">
+    <img src="/images/learning/biology/micrographs/bio-auth-smooth-muscle.webp" width="1600" height="1280" alt="Light micrograph of pink-stained smooth muscle tissue. Many elongated, cigar-shaped purple nuclei lie within bundles of spindle-shaped cells running in slightly different directions, with no banding across the cells." loading="lazy" decoding="async">
+  </picture>
+  <figcaption>Smooth muscle: spindle-shaped cells with single elongated central nuclei and no striations. Photo: Berkshire Community College Bioscience Image Library / Fayette A. Reynolds (<a href="https://www.flickr.com/photos/146824358@N03/41894249481/">source</a>), <a href="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0</a>. Reading notes added by Marlbridge.</figcaption>
+</figure>
 
 ### Structure of a skeletal muscle fibre
 

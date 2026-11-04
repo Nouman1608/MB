@@ -203,6 +203,14 @@ stable secondary carbocation, so bromide attacks C2. The major product is
 **2-bromopropane**, CH₃–CHBr–CH₃, with 1-bromopropane forming only as a
 minor product.
 
+<figure class="topic-figure">
+  <picture>
+    <source media="(max-width: 640px)" srcset="/images/learning/chemistry/chem-ethene-sulfuric-addition-mobile.webp" width="760" height="1250">
+    <img src="/images/learning/chemistry/chem-ethene-sulfuric-addition.webp" width="1480" height="750" alt="Left: the C=C pi electrons of ethene attack the H of H-O-SO3H while the H-O bonding pair moves onto oxygen, giving CH3CH2+ and HSO4-. Right: an oxygen lone pair of hydrogensulfate attacks CH3CH2+, giving CH3CH2-O-S(=O)2-OH." loading="lazy" decoding="async">
+  </picture>
+  <figcaption>Ethene is protonated by sulfuric acid, and the hydrogensulfate ion then bonds to the carbocation to form ethyl hydrogensulfate.</figcaption>
+</figure>
+
 ## Oxidation with acidified KMnO₄: diols and locating a double bond
 
 **Cold, dilute** acidified KMnO₄ oxidises the C=C bond to a **diol** (an

@@ -98,6 +98,14 @@ Formed:  2 x 431              = 862
 dH = 678 - 862 = -184 kJ/mol   -> EXOTHERMIC
 ```
 
+<figure class="topic-figure">
+  <picture>
+    <source media="(max-width: 640px)" srcset="/images/learning/chemistry/chem-methane-bond-count-mobile.webp" width="760" height="1250">
+    <img src="/images/learning/chemistry/chem-methane-bond-count.webp" width="1480" height="750" alt="Displayed methane plus 2 O=O, an arrow, then O=C=O + 2 H-O-H. Right: bond energies C-H 412, O=O 496, C=O 743, O-H 463 kJ/mol; broken 2640, made 3338, dH approx -698 kJ/mol." loading="lazy" decoding="async">
+  </picture>
+  <figcaption>Count every bond broken and made in the balanced equation, then use dH = bonds broken - bonds made.</figcaption>
+</figure>
+
 ## Calorimetry — measuring ΔH experimentally
 
 > **Not on the 0620/5070 syllabus.** Calorimetry, specific heat

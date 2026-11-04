@@ -102,6 +102,13 @@ Limit this to the alveolar lungs of a mammal. Air passes down the trachea into b
   <figcaption>Millions of thin-walled alveoli, each wrapped in capillaries and lined with surfactant, give a large area and a steep gradient.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <picture>
+    <source media="(max-width: 640px)" srcset="/images/learning/biology/micrographs/microscopy-alveolar-sac-mobile.webp" width="640" height="1064">
+    <img src="/images/learning/biology/micrographs/microscopy-alveolar-sac.webp" width="1280" height="861" alt="Light micrograph of lung tissue stained pink and purple. Many irregular empty air spaces (alveoli) are separated by very thin walls containing small dark nuclei. A black microscope pointer enters at the lower right." loading="lazy" decoding="async">
+  </picture>
+  <figcaption>Alveoli are separated by extremely thin walls, giving a short diffusion distance and a huge surface area for gas exchange. Photo: Jpogi (<a href="https://commons.wikimedia.org/wiki/File:Alveolar_sac.JPG">source</a>), <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>. Reading notes by Marlbridge; this adapted image is shared under the same licence.</figcaption>
+</figure>
 
 ## B3.1.5 Ventilation of the lungs
 

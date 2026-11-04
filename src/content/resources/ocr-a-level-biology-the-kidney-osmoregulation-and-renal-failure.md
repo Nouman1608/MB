@@ -194,6 +194,22 @@ Urine carries excretory products and other molecules, so it can be tested withou
 
 Stained cortex shows rounded renal corpuscles and many circular tubule sections; the PCT has a brush border and the DCT has fewer microvilli. In the medulla the tubes run lengthways. Draw tissue plans at low power and cells at high power.
 
+<figure class="topic-figure">
+  <picture>
+    <source media="(max-width: 640px)" srcset="/images/learning/biology/micrographs/microscopy-kidney-cortex-mobile.webp" width="640" height="1079">
+    <img src="/images/learning/biology/micrographs/microscopy-kidney-cortex.webp" width="1280" height="861" alt="Low-power light micrograph of kidney cortex stained purple. Several round renal corpuscles, each a ball of capillaries surrounded by a clear space, are scattered among many small tubule cross-sections. A black microscope pointer enters from the bottom." loading="lazy" decoding="async">
+  </picture>
+  <figcaption>The kidney cortex is recognised by its round renal corpuscles, where filtration begins, surrounded by convoluted tubules. Photo: Jpogi, public domain (<a href="https://commons.wikimedia.org/wiki/File:Kidney-Cortex.JPG">source</a>). Reading notes by Marlbridge.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <picture>
+    <source media="(max-width: 640px)" srcset="/images/learning/biology/micrographs/microscopy-kidney-medulla-mobile.webp" width="640" height="1079">
+    <img src="/images/learning/biology/micrographs/microscopy-kidney-medulla.webp" width="1280" height="861" alt="Light micrograph of kidney medulla stained pink and purple. Many tubules run diagonally in parallel, appearing as elongated slits, while others are cut across as small rings; no round renal corpuscles are present. A black microscope pointer enters from the bottom." loading="lazy" decoding="async">
+  </picture>
+  <figcaption>The medulla contains long straight tubules such as loops of Henle and collecting ducts, but no renal corpuscles. Photo: Jpogi, public domain (<a href="https://commons.wikimedia.org/wiki/File:Kidney-medulla.JPG">source</a>). Reading notes by Marlbridge.</figcaption>
+</figure>
+
 ## Common errors
 
 - Saying ADH "makes the kidney reabsorb water" without naming the collecting duct and aquaporins.

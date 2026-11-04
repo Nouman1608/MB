@@ -96,6 +96,14 @@ containing that bond, not exact values for the specific molecule in the
 question — which is precisely why a bond-energy calculation and an experimental
 enthalpy change for the same reaction rarely agree exactly.
 
+<figure class="topic-figure">
+  <picture>
+    <source media="(max-width: 640px)" srcset="/images/learning/chemistry/chem-methane-bond-count-mobile.webp" width="760" height="1250">
+    <img src="/images/learning/chemistry/chem-methane-bond-count.webp" width="1480" height="750" alt="Displayed methane plus 2 O=O, an arrow, then O=C=O + 2 H-O-H. Right: bond energies C-H 412, O=O 496, C=O 743, O-H 463 kJ/mol; broken 2640, made 3338, dH approx -698 kJ/mol." loading="lazy" decoding="async">
+  </picture>
+  <figcaption>Count every bond broken and made in the balanced equation, then use dH = bonds broken - bonds made.</figcaption>
+</figure>
+
 ## Calculating from experimental data
 
 For a reaction carried out in solution, the heat released or absorbed is

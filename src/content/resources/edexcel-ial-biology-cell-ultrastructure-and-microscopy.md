@@ -101,6 +101,21 @@ Lysosomes also form at the Golgi, which is why they contain enzymes made on the 
   <figcaption>The route from gene to secreted protein: nucleus, rough ER, vesicle, Golgi, vesicle, exocytosis.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <picture>
+    <source media="(max-width: 640px)" srcset="/images/learning/biology/micrographs/microscopy-pancreatic-acinar-tem-mobile.webp" width="640" height="1176">
+    <img src="/images/learning/biology/micrographs/microscopy-pancreatic-acinar-tem.webp" width="1280" height="861" alt="Black-and-white transmission electron micrograph of a pancreatic acinar cell. A large oval nucleus with dark and light patches fills the centre, surrounded by many closely packed parallel membranes of rough endoplasmic reticulum; dark round secretory granules sit at the right edge. Scale bar 500 nm." loading="lazy" decoding="async">
+  </picture>
+  <figcaption>A protein-secreting pancreas cell is packed with rough ER and dark zymogen granules, the organelles that make and store digestive enzymes. Photo: Louisa Howard, public domain (<a href="https://commons.wikimedia.org/wiki/File:Pancreatic_acinar_cells_-_TEM.jpg">source</a>). Reading notes by Marlbridge.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <picture>
+    <source media="(max-width: 640px)" srcset="/images/learning/biology/micrographs/microscopy-golgi-tem-mobile.webp" width="640" height="1014">
+    <img src="/images/learning/biology/micrographs/microscopy-golgi-tem.webp" width="1280" height="861" alt="Black-and-white transmission electron micrograph showing a curved stack of several flattened membrane sacs across the centre, surrounded by small round vesicles. Parts of mitochondria appear at the top right. Scale bar 200 nm." loading="lazy" decoding="async">
+  </picture>
+  <figcaption>The Golgi apparatus is a stack of flattened cisternae with vesicles budding from it, where proteins are modified and packaged. Photo: Louisa Howard, public domain (<a href="https://commons.wikimedia.org/wiki/File:Golgi_in_the_cytoplasm_of_a_macrophage_in_the_alveolus_%28lung%29_-_TEM.jpg">source</a>). Reading notes by Marlbridge.</figcaption>
+</figure>
 
 ## 3.5 Ultrastructure of prokaryotic cells
 

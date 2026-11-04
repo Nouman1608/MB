@@ -122,6 +122,14 @@ lattice structure you met at IGCSE, now understood as a direct consequence
 of the electronegativity difference between the two elements being large
 enough to favour complete electron transfer over sharing.
 
+<figure class="topic-figure">
+  <picture>
+    <source media="(max-width: 640px)" srcset="/images/learning/chemistry/chem-two-donor-ionic-electrons-mobile.webp" width="760" height="1790">
+    <img src="/images/learning/chemistry/chem-two-donor-ionic-electrons.webp" width="2200" height="750" alt="Three panels. In each, two Group 1 atoms (Na, Li or K) with one outer electron have arrows pointing to an oxygen or sulfur atom with six outer electrons. Below, the anion is shown in square brackets with eight outer electrons, two in a different colour, and a 2- charge." loading="lazy" decoding="async">
+  </picture>
+  <figcaption>A Group 16 atom needs two electrons, so two Group 1 atoms are required, giving formulas such as Na2O, Li2S and K2S.</figcaption>
+</figure>
+
 ## Metallic bonding
 
 **Metallic bonding** is the electrostatic attraction between positive metal

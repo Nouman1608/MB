@@ -120,6 +120,14 @@ ionisation, so alcohols are the weaker acid.
 + PCl5             ->  chloroalkane + HCl + POCl3  (misty fumes: test for OH)
 ```
 
+<figure class="topic-figure">
+  <picture>
+    <source media="(max-width: 640px)" srcset="/images/learning/chemistry/chem-ethanol-concerted-dehydration-mobile.webp" width="760" height="1250">
+    <img src="/images/learning/chemistry/chem-ethanol-concerted-dehydration.webp" width="1480" height="750" alt="Left: the ethanol oxygen uses a lone pair to accept H+, giving CH3CH2OH2+. Right: a water molecule takes an H from the CH2 next to the carbon bearing OH2+, the C-H bonding pair forms the C=C, and the C-O bonding pair leaves with water, giving CH2=CH2 + H2O + H3O+." loading="lazy" decoding="async">
+  </picture>
+  <figcaption>Ethanol dehydrates by protonation followed by a concerted elimination, so no free primary carbocation forms. Extension: Cambridge mark schemes usually accept a carbocation mechanism too; either route gives ethene and water.</figcaption>
+</figure>
+
 ## Ethanol production — the two routes
 
 **Fermentation is prior (IGCSE) knowledge, not itself an AS 9701 syllabus

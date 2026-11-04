@@ -67,6 +67,14 @@ further oxidation regardless of the conditions.
 **Reduction** runs this in reverse: NaBH₄ or LiAlH₄ reduces an aldehyde back
 to a primary alcohol, or a ketone back to a secondary alcohol.
 
+<figure class="topic-figure">
+  <picture>
+    <source media="(max-width: 640px)" srcset="/images/learning/chemistry/chem-hydride-propanone-water-mobile.webp" width="760" height="1250">
+    <img src="/images/learning/chemistry/chem-hydride-propanone-water.webp" width="1480" height="750" alt="Two-step mechanism. Left: a hydride ion attacks the carbonyl carbon of propanone and the C=O pi electrons move onto oxygen. Right: the alkoxide oxygen takes a proton from a water molecule, whose O-H bonding pair moves onto its oxygen, giving CH3CH(OH)CH3 and OH-." loading="lazy" decoding="async">
+  </picture>
+  <figcaption>Hydride adds to the carbonyl carbon, and the alkoxide formed takes a proton from water to give a secondary alcohol.</figcaption>
+</figure>
+
 ## Nucleophilic addition with hydrogen cyanide
 
 Aldehydes and ketones react with HCN (using KCN as a source of CN⁻, with
@@ -94,6 +102,14 @@ carbon.
 **Step 2** — the alkoxide oxygen, now negatively charged, picks up a proton
 (from HCN or from the surrounding solution) to give the neutral –OH group
 of the hydroxynitrile product, regenerating CN⁻ to continue the reaction.
+
+<figure class="topic-figure">
+  <picture>
+    <source media="(max-width: 640px)" srcset="/images/learning/chemistry/chem-cyanohydrin-acid-workup-mobile.webp" width="760" height="1250">
+    <img src="/images/learning/chemistry/chem-cyanohydrin-acid-workup.webp" width="1480" height="750" alt="Two-step mechanism. Left: cyanide ion uses its carbon lone pair to attack the delta-positive carbonyl carbon of ethanal while the C=O pi pair moves onto oxygen. Right: the negatively charged alkoxide oxygen uses a lone pair to take H+, giving CH3CH(OH)CN." loading="lazy" decoding="async">
+  </picture>
+  <figcaption>Cyanide attacks the delta-positive carbonyl carbon, then the alkoxide intermediate is protonated to give a hydroxynitrile.</figcaption>
+</figure>
 
 ## Detecting and distinguishing carbonyl compounds
 

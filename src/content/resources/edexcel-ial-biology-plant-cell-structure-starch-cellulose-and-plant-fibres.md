@@ -68,6 +68,14 @@ Plant and animal cells are both eukaryotic. Both have a nucleus, rough and smoot
 | Carbohydrate store | Starch | Glycogen |
 | Links between cells | Plasmodesmata | Gap junctions |
 
+<figure class="topic-figure">
+  <picture>
+    <source media="(max-width: 640px)" srcset="/images/learning/biology/micrographs/phys-mic-middle-lamella-tem-mobile.webp" width="640" height="1220">
+    <img src="/images/learning/biology/micrographs/phys-mic-middle-lamella-tem.webp" width="1280" height="1031" alt="Black-and-white transmission electron micrograph, labelled H, of a thick plant cell wall. A dark band labelled ML (middle lamella) runs along the left, a primary wall P lies next to it, and a broad grey secondary wall S fills the centre, with a pale cell corner CC at the top left." loading="lazy" decoding="async">
+  </picture>
+  <figcaption>Plant cell wall layers: the middle lamella, primary wall and thick secondary wall (TEM). Photo: Purbasha Sarkar et al. (<a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0106928">source</a>), <a href="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0</a>. Reading notes added by Marlbridge.</figcaption>
+</figure>
+
 ### Recognising organelles in EM images (4.2)
 
 Use size, outline and internal pattern.
@@ -77,6 +85,30 @@ Use size, outline and internal pattern.
 - **Vacuole:** large, clear, single boundary line (the tonoplast), often pushing the nucleus to the edge.
 - **Cell wall and middle lamella:** a thick grey band between cells. The middle lamella is the thin line in the centre, often a different shade.
 - **Plasmodesmata and pits:** narrow gaps crossing the wall (plasmodesmata) or thin areas of wall (pits).
+
+<figure class="topic-figure">
+  <picture>
+    <source media="(max-width: 640px)" srcset="/images/learning/biology/micrographs/phys-mic-amyloplast-tem-mobile.webp" width="640" height="923">
+    <img src="/images/learning/biology/micrographs/phys-mic-amyloplast-tem.webp" width="1280" height="814" alt="Two black-and-white transmission electron micrographs, labelled c and d, of rice endosperm cells. Clusters of rounded and polygonal dark-rimmed starch granules sit inside amyloplasts within grainy cytoplasm. Dotted boxes mark areas and black scale bars represent 1 micrometre." loading="lazy" decoding="async">
+  </picture>
+  <figcaption>Amyloplasts in rice endosperm, packed with starch granules (TEM). Photo: Ryo Matsushima and Hiroshi Hisano (<a href="https://www.nature.com/articles/s41598-019-40424-w">source</a>), <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>. Reading notes added by Marlbridge.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <picture>
+    <source media="(max-width: 640px)" srcset="/images/learning/biology/micrographs/phys-mic-root-cell-tem-mobile.webp" width="640" height="1082">
+    <img src="/images/learning/biology/micrographs/phys-mic-root-cell-tem.webp" width="1280" height="814" alt="Black-and-white transmission electron micrograph, labelled A, of a plant root cell outlined by thin cell walls (CW). A large rounded nucleus (N) with a darker centre fills much of the cell, and a few small pale vacuoles (V) lie in the dense cytoplasm." loading="lazy" decoding="async">
+  </picture>
+  <figcaption>A root meristem cell: large nucleus, small vacuoles and thin cell walls (TEM). Photo: Fabrizio Araniti et al. (<a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0208802">source</a>), <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>. Reading notes added by Marlbridge.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <picture>
+    <source media="(max-width: 640px)" srcset="/images/learning/biology/micrographs/phys-mic-tonoplast-tem-mobile.webp" width="640" height="1050">
+    <img src="/images/learning/biology/micrographs/phys-mic-tonoplast-tem.webp" width="1280" height="789" alt="Black-and-white transmission electron micrograph, labelled D, with a large pale oval vacuole (V) on the left bounded by a thin smooth membrane, the tonoplast. A pale cell wall (CW) runs vertically on the right, with labels M and P in the nearby cytoplasm." loading="lazy" decoding="async">
+  </picture>
+  <figcaption>A plant cell vacuole (V) bounded by the tonoplast, beside the cell wall (TEM). Photo: Fabrizio Araniti et al. (<a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0208802">source</a>), <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>. Reading notes added by Marlbridge.</figcaption>
+</figure>
 
 ### Worked example 1: magnification from an EM image
 
@@ -181,6 +213,14 @@ Mr of chain = 1000 × 180 − 999 × 18 = 180 000 − 17 982 = **162 018**
 Xylem vessels are strong because the lignin prevents them collapsing inwards when water is under tension in the transpiration stream. The pits allow lateral movement of water. Sclerenchyma fibres have high tensile strength and are flexible but not elastic, which is why they can be exploited by humans.
 
 **Human uses.** Fibres from plants such as flax, hemp and jute are spun for textiles, rope and string, and used in paper and in composite materials. Starch is used in foods, as a thickener and as a raw material for plastics.
+
+<figure class="topic-figure">
+  <picture>
+    <source media="(max-width: 640px)" srcset="/images/learning/biology/micrographs/phys-mic-pits-sem-mobile.webp" width="640" height="1206">
+    <img src="/images/learning/biology/micrographs/phys-mic-pits-sem.webp" width="1280" height="914" alt="Black-and-white scanning electron micrograph, labelled B, of the inside walls of xylem cells. Several oval rims with dark slit-like openings - pits - are scattered across the wall surface. A black 8 micrometre scale bar is at the lower right." loading="lazy" decoding="async">
+  </picture>
+  <figcaption>Pits in xylem walls, where water can pass sideways between neighbouring vessels (SEM). Photo: Edith Kuprian et al. (<a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0163160">source</a>), <a href="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0</a>. Reading notes added by Marlbridge.</figcaption>
+</figure>
 
 ## 4.6 Core Practical 7: microscopy of plant tissues
 

@@ -241,6 +241,14 @@ Number of nuclei is one way to show atypical structure.
 | Microvilli | Finger-like projections of the surface that increase surface area |
 | Nucleoid region | Pale area without a membrane, containing the DNA |
 
+<figure class="topic-figure">
+  <picture>
+    <source media="(max-width: 640px)" srcset="/images/learning/biology/micrographs/phys-mic-root-cell-tem-mobile.webp" width="640" height="1082">
+    <img src="/images/learning/biology/micrographs/phys-mic-root-cell-tem.webp" width="1280" height="814" alt="Black-and-white transmission electron micrograph, labelled A, of a plant root cell outlined by thin cell walls (CW). A large rounded nucleus (N) with a darker centre fills much of the cell, and a few small pale vacuoles (V) lie in the dense cytoplasm." loading="lazy" decoding="async">
+  </picture>
+  <figcaption>A root meristem cell: large nucleus, small vacuoles and thin cell walls (TEM). Photo: Fabrizio Araniti et al. (<a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0208802">source</a>), <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>. Reading notes added by Marlbridge.</figcaption>
+</figure>
+
 ## A2.2.11 Drawing and annotating electron micrographs
 
 You may be asked to draw the nucleus, mitochondria, chloroplasts, sap vacuole, Golgi apparatus, rough and smooth ER and chromosomes, and also the cell wall, plasma membrane, secretory vesicles and microvilli. Use a sharp pencil, clear continuous lines, no shading and ruled label lines that do not cross. Include a scale bar or magnification. Annotation means adding the **function** to the label, not just the name.

@@ -97,6 +97,14 @@ Ribosomes are not surrounded by a membrane. Each is made of two subunits of RNA 
 - **Cilia.** Hair-like extensions of the cell surface, covered by the cell surface membrane. Inside is a ring of nine pairs of microtubules around two central microtubules (the 9 + 2 arrangement). Each cilium grows from a basal body, which has the same structure as a centriole. Cilia beat to move fluid or mucus over a surface, for example in the airways.
 - **Microvilli.** Small finger-like folds of the cell surface membrane, much smaller than cilia and with no 9 + 2 core. They increase the surface area for absorption, for example on cells lining the small intestine.
 
+<figure class="topic-figure">
+  <picture>
+    <source media="(max-width: 640px)" srcset="/images/learning/biology/micrographs/microscopy-microvilli-cilia-sem-mobile.webp" width="640" height="1114">
+    <img src="/images/learning/biology/micrographs/microscopy-microvilli-cilia-sem.webp" width="1280" height="899" alt="Black-and-white scanning electron micrograph of an airway surface covered with long, hair-like cilia lying in sweeping bundles. At the lower right, a patch of cell surface is covered with much shorter, densely packed stubby microvilli. Scale bar 2 micrometres." loading="lazy" decoding="async">
+  </picture>
+  <figcaption>Cilia are long and can move to sweep mucus, whereas microvilli are much shorter projections that increase surface area. Photo: Louisa Howard, public domain (<a href="https://commons.wikimedia.org/wiki/File:Bronchiolar_epithelium_4_-_SEM.jpg">source</a>). Reading notes by Marlbridge.</figcaption>
+</figure>
+
 ### Plant cell structures
 
 - **Cell wall.** Made mainly of cellulose, outside the cell surface membrane. It is freely permeable. It gives the cell its shape and stops it bursting when it takes in water.

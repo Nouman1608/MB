@@ -242,6 +242,13 @@ See the [A Level cell structure study guide](/resources/a-level-biology-cell-str
   <figcaption>The folded inner membrane gives a large surface area; the matrix holds the enzymes of the link reaction and Krebs cycle.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <picture>
+    <source media="(max-width: 640px)" srcset="/images/learning/biology/micrographs/microscopy-mitochondria-tem-mobile.webp" width="640" height="1036">
+    <img src="/images/learning/biology/micrographs/microscopy-mitochondria-tem.webp" width="1280" height="861" alt="Black-and-white transmission electron micrograph of one long mitochondrion lying diagonally across the field. Its outer membrane forms a smooth boundary and the inner membrane folds into many parallel cristae across its width. Scale bar 50 nm." loading="lazy" decoding="async">
+  </picture>
+  <figcaption>The inner membrane of a mitochondrion folds into cristae, greatly increasing the surface area available for aerobic respiration. Photo: Louisa Howard, public domain (<a href="https://commons.wikimedia.org/wiki/File:Mitochondria_-_TEM.jpg">source</a>). Reading notes by Marlbridge.</figcaption>
+</figure>
 
 ### Anaerobic respiration
 

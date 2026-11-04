@@ -63,6 +63,14 @@ aldehyde + 2[H]  ->  PRIMARY alcohol
 ketone   + 2[H]  ->  SECONDARY alcohol
 ```
 
+<figure class="topic-figure">
+  <picture>
+    <source media="(max-width: 640px)" srcset="/images/learning/chemistry/chem-hydride-propanone-water-mobile.webp" width="760" height="1250">
+    <img src="/images/learning/chemistry/chem-hydride-propanone-water.webp" width="1480" height="750" alt="Two-step mechanism. Left: a hydride ion attacks the carbonyl carbon of propanone and the C=O pi electrons move onto oxygen. Right: the alkoxide oxygen takes a proton from a water molecule, whose O-H bonding pair moves onto its oxygen, giving CH3CH(OH)CH3 and OH-." loading="lazy" decoding="async">
+  </picture>
+  <figcaption>Hydride adds to the carbonyl carbon, and the alkoxide formed takes a proton from water to give a secondary alcohol.</figcaption>
+</figure>
+
 ## Nucleophilic addition with HCN
 
 Conditions: HCN with a trace of **KCN** (to supply CN⁻), around pH 8.
@@ -80,6 +88,14 @@ The product has **one more carbon** than the starting carbonyl — a chain-lengt
 **Curly arrows:** from the CN⁻ lone pair to the carbon; from the C=O π bond to the oxygen.
 
 If the carbonyl carbon has two different groups (e.g. ethanal, H and CH₃; not propanone, whose two CH₃ groups are identical, so its product has no chiral centre), the product is **chiral** and forms as a **racemic mixture** ("racemic mixture" and "optically active" are A Level terms — at AS it's enough to say equal amounts of both enantiomers form), because the planar carbonyl can be attacked equally from either face.
+
+<figure class="topic-figure">
+  <picture>
+    <source media="(max-width: 640px)" srcset="/images/learning/chemistry/chem-cyanohydrin-acid-workup-mobile.webp" width="760" height="1250">
+    <img src="/images/learning/chemistry/chem-cyanohydrin-acid-workup.webp" width="1480" height="750" alt="Two-step mechanism. Left: cyanide ion uses its carbon lone pair to attack the delta-positive carbonyl carbon of ethanal while the C=O pi pair moves onto oxygen. Right: the negatively charged alkoxide oxygen uses a lone pair to take H+, giving CH3CH(OH)CN." loading="lazy" decoding="async">
+  </picture>
+  <figcaption>Cyanide attacks the delta-positive carbonyl carbon, then the alkoxide intermediate is protonated to give a hydroxynitrile.</figcaption>
+</figure>
 
 ## The identifying tests
 

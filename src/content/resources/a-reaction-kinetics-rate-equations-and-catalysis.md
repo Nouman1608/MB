@@ -176,6 +176,14 @@ experimentally observed second-order dependence on NO.
 
 This works in reverse too: a proposed mechanism must reproduce the experimental species dependences and orders under the stated conditions. Agreement is evidence of consistency, not proof of a unique mechanism. For a stepwise reaction there is no general relation between overall stoichiometric coefficients and partial reaction orders, so comparing them alone cannot locate a reactant before or after the slow step.
 
+<figure class="topic-figure">
+  <picture>
+    <source media="(max-width: 640px)" srcset="/images/learning/chemistry/chem-kinetic-inference-limits-mobile.webp" width="760" height="1250">
+    <img src="/images/learning/chemistry/chem-kinetic-inference-limits.webp" width="1480" height="750" alt="Left: boxes A + B, I and P linked by fast reversible arrows and a slow arrow labelled + B, with [I] = K[A][B] and rate = k2[I][B] = k2K[A][B]^2. Right: a graph of rate against reactant concentration that rises steeply then levels off, labelled near saturation: rate approximately constant." loading="lazy" decoding="async">
+  </picture>
+  <figcaption>Orders come from the mechanism and the rate-determining step, not from the overall equation; a fast pre-equilibrium can make a reactant appear twice in the rate equation. The saturation curve is extension material.</figcaption>
+</figure>
+
 ## Homogeneous and heterogeneous catalysts
 
 A catalyst can be **homogeneous** (same physical state as the reactants,

@@ -174,6 +174,14 @@ Typical method (follow your centre's version):
 
 Safety: take care with acid and stain. Staining is needed because chromosomes are almost colourless in living cells.
 
+<figure class="topic-figure">
+  <picture>
+    <source media="(max-width: 640px)" srcset="/images/learning/biology/micrographs/microscopy-onion-root-mitosis-mobile.webp" width="640" height="1204">
+    <img src="/images/learning/biology/micrographs/microscopy-onion-root-mitosis.webp" width="1280" height="899" alt="Light micrograph of tightly packed onion root-tip cells with red-brown stained nuclei. Most nuclei are round, but some cells show separate thread-like chromosomes, and several contain two groups of chromosomes moving apart or two daughter nuclei." loading="lazy" decoding="async">
+  </picture>
+  <figcaption>A root-tip squash contains cells at different stages of the cell cycle; find cells where the chromosomes are visible and decide which stage of mitosis each is in. Photo: Staticd (<a href="https://commons.wikimedia.org/wiki/File:Onion_root_mitosis.jpg">source</a>), <a href="https://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</a>. Reading notes by Marlbridge; this adapted image is shared under the same licence.</figcaption>
+</figure>
+
 ## 3.16 Mitotic index
 
 Mitotic index = number of cells in mitosis / total number of cells observed. It is a ratio, or a percentage if multiplied by 100.
