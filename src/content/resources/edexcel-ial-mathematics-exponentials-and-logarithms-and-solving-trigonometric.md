@@ -38,6 +38,14 @@ Use it with the [revision notes](/resources/edexcel-ial-mathematics-exponentials
 
 ## 5.1 The graph of y = a^x
 
+<!-- marlbridge-diagram:maths-b17-exponential-trig -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/mathematics/maths-b17-exponential-trig.svg" aria-label="Open full-size diagram: maths-b17-exponential-trig"><img src="/images/learning/mathematics/maths-b17-exponential-trig.svg" width="1600" height="1050" alt="Exponential curve with horizontal asymptote y equals zero, and sine solutions at 30 and 150 degrees plus full periods." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Exponential curve with horizontal asymptote y equals zero, and sine solutions at 30 and 150 degrees plus full periods. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:maths-b17-exponential-trig -->
+
+
 An exponential function has the variable in the power. The base a must be positive and not equal to 1.
 
 | Feature | a > 1 (growth) | 0 < a < 1 (decay) |

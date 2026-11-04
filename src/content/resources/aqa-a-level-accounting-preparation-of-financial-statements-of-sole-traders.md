@@ -46,6 +46,14 @@ Every adjustment has **two effects**: one in the income statement and one in the
 
 ## Accruals and prepayments of expenses
 
+<!-- marlbridge-diagram:accounting-sole-trader-accrual-adjustment -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/accounting/accounting-sole-trader-accrual-adjustment.svg" aria-label="Open full-size diagram: accounting-sole-trader-accrual-adjustment"><img src="/images/learning/accounting/accounting-sole-trader-accrual-adjustment.svg" width="1600" height="1050" alt="Heating expense: opening accrual £240, cash paid £2,610, closing accrual £310, giving expense £2,680; closing accrual is a current liability." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Heating expense: opening accrual £240, cash paid £2,610, closing accrual £310, giving expense £2,680; closing accrual is a current liability. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:accounting-sole-trader-accrual-adjustment -->
+
+
 An **accrued expense** has been incurred but not yet paid: add it to the expense and show it as a current liability. A **prepaid expense** has been paid for a later period: deduct it from the expense and show it as a current asset.
 
 **Worked example: heating account.** At 1 January 2025 heating of £240 was owing. During 2025 Holme Studio paid £2,610. At 31 December 2025, £310 is owing.

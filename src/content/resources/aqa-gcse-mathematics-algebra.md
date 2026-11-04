@@ -94,6 +94,13 @@ geometry content rather than testing it in isolation.
 
 ## How the four sub-sections connect
 
+<!-- marlbridge-diagram:maths-aqa-gcse-algebra-strands-toolkit -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/mathematics/maths-aqa-gcse-algebra-strands-toolkit.svg" aria-label="Open full-size diagram: maths-aqa-gcse-algebra-strands-toolkit"><img src="/images/learning/mathematics/maths-aqa-gcse-algebra-strands-toolkit.svg" width="1600" height="1050" alt="Shows notation and manipulation as the shared toolkit for graphs, equation solving and sequences, matching the source guide’s four-part structure." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Shows notation and manipulation as the shared toolkit for graphs, equation solving and sequences, matching the source guide’s four-part structure. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:maths-aqa-gcse-algebra-strands-toolkit -->
+
 Algebra is the topic area most likely to appear woven into other parts
 of the paper, so it helps to see how its four sub-sections build on
 each other rather than treating them as separate mini-topics. Notation

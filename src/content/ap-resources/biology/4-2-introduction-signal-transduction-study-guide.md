@@ -71,7 +71,7 @@ The answer depends on whether the ligand can cross the plasma membrane.
 | Ligand | Can it cross the bilayer? | Where is the receptor? | Examples |
 |---|---|---|---|
 | Large or water-soluble (peptides, proteins, charged molecules) | No | **On the cell surface**, spanning the membrane | glucagon, insulin, growth hormone, acetylcholine |
-| Small and nonpolar (lipid-soluble) | Yes, mostly by diffusing through the bilayer | **In the cytoplasm or nucleus** | estrogen, testosterone, thyroid hormones |
+| Lipid-soluble hormones | Steroids can diffuse through the bilayer; thyroid-hormone uptake is substantially transporter-mediated | **In the cytoplasm or nucleus**, depending on receptor | estrogen, testosterone; thyroid hormones (mainly nuclear receptors) |
 
 A surface receptor has three domains: an **extracellular** ligand-binding domain, a **transmembrane** domain that crosses the bilayer, and an **intracellular** domain inside the cell. When the ligand binds outside, the whole protein changes shape, so the **intracellular domain** changes shape too. That is how a message crosses the membrane without the ligand crossing it.
 
@@ -157,7 +157,7 @@ The G protein switches itself off by breaking down its GTP to GDP, so the signal
 
 ### Ligand-gated ion channels
 
-Some receptors are channels. When the ligand binds, the channel **opens or closes**, changing which ions can flow across the membrane. At the junction between a motor neuron and a muscle cell, acetylcholine binds a channel in the muscle cell membrane. The channel opens, and sodium ions (Na⁺) flow into the cell down their concentration gradient. This changes the charge across the membrane and triggers contraction. Because no chain of relay molecules is needed, the response takes only milliseconds.
+Some receptors are channels. When the ligand binds, the channel **opens or closes**, changing which ions can flow across the membrane. At the junction between a motor neuron and a muscle cell, acetylcholine binds a channel in the muscle cell membrane. The channel opens, and sodium ions (Na⁺) flow into the cell down their electrochemical gradient: both the concentration difference and the electrical potential contribute. This changes the charge across the membrane and triggers contraction. Because no chain of relay molecules is needed, the response takes only milliseconds.
 
 ### Intracellular receptors
 
@@ -282,7 +282,7 @@ They also find that 1 minute after hormone H is added, cAMP in the cells rises f
 (b) What evidence suggests that cAMP acts as a second messenger in this pathway?
 (c) Suggest what type of receptor this is, and what further evidence would strengthen the conclusion.
 
-**(a)** Fixed to beads, hormone H cannot enter the cells, yet it still gives 83% secretion, which is 83 ÷ 86 × 100 = **96.5%** of the response to free hormone. Injected inside the cell, it gives only 5%, about the same as the buffer control (4%). So the receptor must be **on the cell surface**: the hormone works from outside and does nothing from inside.
+**(a)** Fixed to beads, hormone H cannot enter the cells, yet it still gives 83% secretion, which is 83 ÷ 86 × 100 = **96.5%** of the response to free hormone. Injected inside the cell, it gives only 5%, about the same as the buffer control (4%). These results strongly support an **accessible cell-surface receptor**. The inference assumes the bead-bound hormone remains attached and active, does not release free hormone, and that intracellular injection provides an appropriate delivery/control test. The assay does not by itself prove there are no intracellular receptors or exclude every alternative mechanism.
 
 **(b)** Two pieces of evidence. First, cAMP rises **24-fold** (12.0 ÷ 0.5 = 24) within a minute of adding the hormone. Second, a cAMP-like molecule **on its own**, without hormone, gives 80% secretion, which is 93.0% of the hormone response. So cAMP is made in response to the hormone and is enough to trigger secretion.
 

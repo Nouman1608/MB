@@ -43,6 +43,14 @@ different students may study entirely different content.
 
 ## Syllabus coverage
 
+<!-- marlbridge-diagram:maths-circle-geometry-theorems -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/mathematics/maths-circle-geometry-theorems.svg" aria-label="Open full-size diagram: maths-circle-geometry-theorems"><img src="/images/learning/mathematics/maths-circle-geometry-theorems.svg" width="1600" height="1050" alt="Circle geometry showing a radius perpendicular to a tangent, the angle in a semicircle theorem, and the perpendicular bisector of a chord." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Circle properties in Pure Mathematics 2, including tangent-radius perpendicularity. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:maths-circle-geometry-theorems -->
+
+
 **PEARSON EDEXCEL INTERNATIONAL A LEVEL MATHEMATICS (YMA01) — UNIT P2:
 PURE MATHEMATICS 2**
 

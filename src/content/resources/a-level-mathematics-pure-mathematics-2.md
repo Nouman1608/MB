@@ -57,6 +57,14 @@ methods appear here rather than in Pure Mathematics 1.
 
 ## Syllabus coverage
 
+<!-- marlbridge-diagram:maths-p2-topic-map -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/mathematics/maths-p2-topic-map.svg" aria-label="Open full-size diagram: maths-p2-topic-map"><img src="/images/learning/mathematics/maths-p2-topic-map.svg" width="1600" height="1050" alt="Map of six Cambridge 9709 Pure Mathematics 2 syllabus strands and the correct AS award route." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Paper 2 builds on Paper 1; Papers 1 and 2 form the AS Pure Mathematics route. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:maths-p2-topic-map -->
+
+
 **CAMBRIDGE INTERNATIONAL AS & A LEVEL MATHEMATICS 9709 — PURE
 MATHEMATICS 2**
 

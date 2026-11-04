@@ -31,7 +31,7 @@ keyPoints:
   - "E points away from positive charges and toward negative charges. A positive charge is pushed along E; a negative charge is pushed opposite to E."
   - "For a point charge E = k|q|/r², so doubling the distance cuts the field to one quarter."
   - "Fields from several charges add as vectors, not as plain numbers."
-  - "In electrostatic equilibrium a conductor has zero field inside, its excess charge on the surface, and a field perpendicular to the surface."
+  - "In electrostatic equilibrium a conductor has zero field inside and a perpendicular field at its surface. If no charge is inside a cavity, excess charge lies on the outer surface of the conductor; a charge inside a cavity can induce charge on its inner wall."
 faqs:
   - question: "Does an electric field exist at a point where there is no charge to feel it?"
     answer: "Yes. The field is set up by the source charges. A test charge only lets you detect and measure it. Remove the test charge and the field at that point is unchanged."
@@ -202,12 +202,20 @@ In Figure 1(b), 16 lines leave +2q but only 8 end on −q, because −q has half
 
 ## Charged conductors and insulators
 
+<!-- marlbridge-diagram:phys2-b21-conductors-insulators-cavity-comparison -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/physics/phys2-b21-conductors-insulators-cavity-comparison.svg" aria-label="Open full-size diagram: phys2-b21-conductors-insulators-cavity-comparison"><img src="/images/learning/physics/phys2-b21-conductors-insulators-cavity-comparison.svg" width="1600" height="1050" alt="A conducting sphere has surface charge and zero internal field; an insulator can retain charge internally; an empty metal cavity shields its interior." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>A conducting sphere has surface charge and zero internal field; an insulator can retain charge internally; an empty metal cavity shields its interior. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:phys2-b21-conductors-insulators-cavity-comparison -->
+
+
 In a **conductor** (such as a metal), electrons move freely. In an **insulator** they cannot. This difference controls where excess charge ends up.
 
 **Conductors in electrostatic equilibrium** (no charges moving):
 
 - **The field inside the conducting material is zero.** If there were a field inside, the free electrons would feel a force and move. They keep moving until the field inside has been cancelled. "Equilibrium" means that has already happened.
-- **Excess charge sits on the outer surface.** Like charges repel and spread out as far apart as they can.
+- **If no charge is inside a cavity, excess charge sits on the outer surface of the conductor.** A charge inside a cavity induces charge on the inner wall; the outer-surface-only rule does not apply to that cavity case.
 - **At the surface the field is perpendicular to the surface.** A component along the surface would push charges sideways, and they would move until that component vanished.
 - **A charged conducting sphere** acts, for points outside it, like a point charge of the same total charge at its centre. Inside, the field is zero.
 
@@ -237,7 +245,7 @@ In a **conductor** (such as a metal), electrons move freely. In an **insulator**
 1. Distance from each charge to P: r = √(0.030² + 0.040²) = 0.050 m (a 3-4-5 triangle).
 2. Size of each field: E = (9.0 × 10⁹)(3.0 × 10⁻⁹) ÷ (0.050)² = 1.08 × 10⁴ N/C.
 3. Components: the line from each charge to P makes cos θ = 0.030/0.050 = 0.6 with the x-axis and sin θ = 0.8. So each field has an x-part of 0.6 × 10 800 = 6480 N/C and a y-part of 0.8 × 10 800 = 8640 N/C.
-4. (a) Both charges positive. The upper charge pushes P down and to the right; the lower charge pushes it up and to the right. The y-parts cancel by symmetry. E = 2 × 6480 = 1.30 × 10⁴ N/C in the +x direction.
+4. (a) Both charges positive. The field at P due to the upper positive charge points down and to the right; the field at P due to the lower positive charge points up and to the right. The y-parts cancel by symmetry. E = 2 × 6480 = 1.30 × 10⁴ N/C in the +x direction.
 5. (b) Now the field from the upper charge points **toward** it: up and to the left. The field from the lower charge still points up and to the right. The x-parts cancel and the y-parts add: E = 2 × 8640 = 1.73 × 10⁴ N/C in the +y direction.
 
 **Interpretation.** Changing the sign of one charge turns its field round, so a different pair of components cancels. Symmetry saved half the work in both parts. In (b), a proton at P would be pushed in +y, and an electron in −y.

@@ -73,7 +73,7 @@ negative electrode | its solution || other solution | positive electrode
 
 **EMF = E⦵(right) − E⦵(left) = E⦵(positive electrode) − E⦵(negative electrode)**
 
-A correctly written cell has a positive EMF.
+In the spontaneous galvanic-cell orientation chosen here, reduction occurs at the right-hand positive electrode and the EMF is positive. More generally, E(right) − E(left) has the sign of the cell reaction as represented; reversing the representation reverses that sign.
 
 ### Worked example 1: an aluminium–cobalt cell
 

@@ -106,7 +106,7 @@ A stress can upset the balance in one of two ways. Most stresses change the **co
 | Remove a reactant or product | Yes | No | Opposite of adding it |
 | Change the volume of a gas mixture | Yes, if gas coefficients differ | No | See the factor rule below |
 | Dilute a solution | Yes, if dissolved-particle coefficients differ | No | See the factor rule below |
-| Change the temperature (rigid container) | Not at that instant | **Yes** | K moves away from Q |
+| Change the temperature (rigid container) | Qc is initially unchanged; Qp generally changes because gas partial pressures scale with temperature | **Yes** | Compare the matching Qc/Kc or Qp/Kp at the new temperature |
 | Add a catalyst, extra solid or pure liquid | No | No | Still Q = K |
 
 ### The factor rule for volume and dilution

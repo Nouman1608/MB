@@ -36,6 +36,14 @@ Every method below is algebra you can do by hand, and the working is what shows 
 
 ## Gradient, mid-point and distance
 
+<!-- marlbridge-diagram:math-sub-429-point-distance -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/mathematics/math-sub-429-point-distance.svg" aria-label="Open full-size diagram: math-sub-429-point-distance"><img src="/images/learning/mathematics/math-sub-429-point-distance.svg" width="1528" height="940" alt="Coordinate plane joining A(-3,7) and B(5,1), showing run, rise, midpoint and length." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Coordinate geometry from two points — Marlbridge Mathematics.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:math-sub-429-point-distance -->
+
+
 For points A(x₁, y₁) and B(x₂, y₂):
 
 | Quantity | Formula |
@@ -57,6 +65,14 @@ Length: √(8² + (−6)²) = √(64 + 36) = √100 = 10
 Keep brackets round negative coordinates. Writing 5 − −3 is how sign errors start.
 
 ## Three forms of a straight line
+
+<!-- marlbridge-diagram:math-sub-429-line-forms -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/mathematics/math-sub-429-line-forms.svg" aria-label="Open full-size diagram: math-sub-429-line-forms"><img src="/images/learning/mathematics/math-sub-429-line-forms.svg" width="1528" height="940" alt="A line represented in slope-intercept, point-slope and general forms." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Choose the equation form that exposes known information — Marlbridge Mathematics.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:math-sub-429-line-forms -->
+
 
 | Form | Best used when |
 |---|---|
@@ -92,6 +108,14 @@ Multiply through by the denominator to clear fractions, then collect everything 
 
 ## Parallel and perpendicular lines
 
+<!-- marlbridge-diagram:math-sub-429-parallel-perpendicular -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/mathematics/math-sub-429-parallel-perpendicular.svg" aria-label="Open full-size diagram: math-sub-429-parallel-perpendicular"><img src="/images/learning/mathematics/math-sub-429-parallel-perpendicular.svg" width="1528" height="940" alt="Parallel line and perpendicular bisector through the midpoint of AB, with their slopes compared." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Parallel and perpendicular lines are controlled by gradients — Marlbridge Mathematics.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:math-sub-429-parallel-perpendicular -->
+
+
 * Parallel lines have equal gradients: m₁ = m₂.
 * Perpendicular lines have gradients with product −1: m₁m₂ = −1. Equivalently, one gradient is the negative reciprocal of the other. Flip the fraction and change the sign.
 
@@ -124,6 +148,22 @@ A parallel line keeps the left-hand side, 5x − 2y, and changes only the consta
 
 ## Where a line meets a curve
 
+<!-- marlbridge-diagram:math-sub-429-line-curve -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/mathematics/math-sub-429-line-curve.svg" aria-label="Open full-size diagram: math-sub-429-line-curve"><img src="/images/learning/mathematics/math-sub-429-line-curve.svg" width="1528" height="940" alt="A straight line crosses a quadratic at (2,3) and (5,9), the two simultaneous solutions." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Find line–curve intersections by substitution — Marlbridge Mathematics.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:math-sub-429-line-curve -->
+
+
+<!-- marlbridge-diagram:math-final-429-line-parabola-intersections -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/mathematics/math-final-429-line-parabola-intersections.svg" aria-label="Open full-size diagram: math-final-429-line-parabola-intersections"><img src="/images/learning/mathematics/math-final-429-line-parabola-intersections.svg" width="1528" height="940" alt="Graph shows a line crossing a parabola at (2,3) and (5,9), alongside the simultaneous-equation solution." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Graph shows a line crossing a parabola at (2,3) and (5,9), alongside the simultaneous-equation solution.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:math-final-429-line-parabola-intersections -->
+
+
 To find where a line meets a curve, solve their equations simultaneously. The method never changes.
 
 1. Substitute the line (written as y = ... or x = ...) into the curve.
@@ -147,6 +187,14 @@ For x = 2 the line gives y = 2(2) − 1 = 3, and for x = 5 it gives y = 9. Subst
 Do not stop at the x-values. A question that asks for the points of intersection needs both coordinates.
 
 ## What the discriminant tells you
+
+<!-- marlbridge-diagram:math-sub-429-discriminant-intersection -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/mathematics/math-sub-429-discriminant-intersection.svg" aria-label="Open full-size diagram: math-sub-429-discriminant-intersection"><img src="/images/learning/mathematics/math-sub-429-discriminant-intersection.svg" width="1528" height="940" alt="Quadratic roots mapped to zero, one tangent or two curve intersections." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>The discriminant tells how a line meets a curve — Marlbridge Mathematics.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:math-sub-429-discriminant-intersection -->
+
 
 After substitution you have a quadratic ax² + bx + c = 0. Its discriminant is b² − 4ac, and it decides how many times the line meets the curve.
 
@@ -209,6 +257,14 @@ Points: (4/3, 9) and (3, 4)
 The quadratic route works for any curve that becomes a quadratic after substitution. If the equation you get is a cubic, the same reading of repeated roots still applies, but you need to factorise it first.
 
 ## Putting the ideas together
+
+<!-- marlbridge-diagram:math-sub-429-coordinate-chain -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/mathematics/math-sub-429-coordinate-chain.svg" aria-label="Open full-size diagram: math-sub-429-coordinate-chain"><img src="/images/learning/mathematics/math-sub-429-coordinate-chain.svg" width="1528" height="940" alt="A coordinate workflow links a segment, its perpendicular bisector and exact intersections with a quadratic." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Connect point geometry, line equations and curve intersections — Marlbridge Mathematics.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:math-sub-429-coordinate-chain -->
+
 
 Questions often join several of these skills. A typical chain: find a gradient from two points, write the line, find a perpendicular bisector or a parallel line, then intersect it with a curve and interpret the discriminant. Work one step at a time, label each result, and keep exact values (fractions and surds) until the end.
 

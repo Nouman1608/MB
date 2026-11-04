@@ -71,7 +71,7 @@ For solids and liquids the volume barely changes, so the work done on them is cl
 ### What this course assumes
 
 - **c is constant.** Real values change a little with temperature, but this course models c as independent of temperature.
-- **No change of state.** Q = mcΔT applies while the material stays solid, liquid or gas. Melting and boiling are not part of this topic.
+- **No change of state.** These worked examples use solids and liquids with approximately constant specific heat and negligible expansion work. For a gas, the heat capacity must also match a specified process: constant-volume and constant-pressure values generally differ. Staying in one phase alone does not select the appropriate gas heat capacity. Melting and boiling are outside this lesson’s calculations.
 
 ## Why materials have different specific heats
 
@@ -205,7 +205,7 @@ The equation assumes a steady state (temperatures not changing with time), a uni
 Like c, the thermal conductivity k is an **intrinsic property** of the material, set by the arrangement and interactions of its atoms. The *rate* of conduction is not intrinsic: it also depends on A, L and ΔT.
 
 - **Metals** have electrons free to move through the whole solid, carrying energy quickly from hot to cold regions. Metals have high k.
-- **Non-metal solids** (glass, wood, plastic) pass energy mainly through vibrations of bonded atoms. This is slower, so k is lower.
+- **Common non-metal insulators** such as glass, wood and plastic transfer energy mainly through lattice vibrations and have lower k than the common metals in this table. Lattice transport is not intrinsically always slower: some non-metals, notably diamond, conduct heat very well. Conductivity depends on the particular material and its state.
 - **Gases** have particles far apart that collide rarely, so k is very small. Foams and wool work by trapping still air.
 
 | Material | Approximate k near room temperature (W/(m·K)) |

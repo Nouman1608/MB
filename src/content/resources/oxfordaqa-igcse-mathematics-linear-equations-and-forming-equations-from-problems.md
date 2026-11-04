@@ -113,6 +113,14 @@ Method:
 
 ### Worked example 5
 
+<!-- marlbridge-diagram:math-b58-oxfordaqa-linear-equations-graph-intersection -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/public/images/learning/mathematics/math-b58-oxfordaqa-linear-equations-graph-intersection.svg" aria-label="Open full-size diagram: math-b58-oxfordaqa-linear-equations-graph-intersection"><img src="/public/images/learning/mathematics/math-b58-oxfordaqa-linear-equations-graph-intersection.svg" width="1528" height="940" alt="Two straight lines y=4−x and y=2x−3 cross at about (2.3,1.7). The x-coordinate gives the approximate solution of 4−x=2x−3; the vertical coordinate is not the answer." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Two straight lines y=4−x and y=2x−3 cross at about (2.3,1.7). The x-coordinate gives the approximate solution of 4−x=2x−3; the vertical coordinate is not the answer.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:math-b58-oxfordaqa-linear-equations-graph-intersection -->
+
+
 Use a graph to find an approximate solution of 4 − x = 2x − 3.
 
 Draw y = 4 − x and y = 2x − 3 for x from 0 to 4.

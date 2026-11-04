@@ -171,6 +171,14 @@ Excess ammonia favours the primary amine; excess halogenoalkane pushes through t
 
 ### Worked example 4: outline a substitution mechanism
 
+<!-- marlbridge-diagram:chem-b36-oxfordaqa-dimethylamine-butylchloride-sn2 -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/chemistry/chem-b36-oxfordaqa-dimethylamine-butylchloride-sn2.svg" aria-label="Open full-size diagram: chem-b36-oxfordaqa-dimethylamine-butylchloride-sn2"><img src="/images/learning/chemistry/chem-b36-oxfordaqa-dimethylamine-butylchloride-sn2.svg" width="1600" height="1050" alt="Two-step nucleophilic substitution mechanism: dimethylamine attacks C1 of 1-chlorobutane, then a second dimethylamine removes the N–H proton to give N,N-dimethylbutan-1-amine and dimethylammonium chloride." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Two-step nucleophilic substitution mechanism: dimethylamine attacks C1 of 1-chlorobutane, then a second dimethylamine removes the N–H proton to give N,N-dimethylbutan-1-amine and dimethylammonium chloride. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:chem-b36-oxfordaqa-dimethylamine-butylchloride-sn2 -->
+
+
 *Outline the mechanism for dimethylamine, (CH₃)₂NH, reacting with 1-chlorobutane.*
 
 - Curly arrow 1: from the lone pair on N of dimethylamine to the δ+ carbon of C–Cl.
@@ -192,6 +200,14 @@ The carbonyl carbon of an acyl chloride is strongly δ+, because O and Cl both p
 ```
 
 ### Worked example 5: outline the addition–elimination mechanism
+
+<!-- marlbridge-diagram:chem-obj-oxford-amine-acyl-example -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/chemistry/chem-obj-oxford-amine-acyl-example.svg" aria-label="Open full-size diagram: chem-obj-oxford-amine-acyl-example"><img src="/images/learning/chemistry/chem-obj-oxford-amine-acyl-example.svg" width="1528" height="940" alt="Cyclohexylamine attacks propanoyl chloride to form a tetrahedral intermediate; O reforms C=O as chloride leaves, then a second amine removes H+ to give N-cyclohexylpropanamide and cyclohexylammonium chloride." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Worked mechanism: cyclohexylamine with propanoyl chloride — Marlbridge Chemistry.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:chem-obj-oxford-amine-acyl-example -->
+
 
 *Outline the mechanism for propanoyl chloride, CH₃CH₂COCl, with cyclohexylamine.*
 

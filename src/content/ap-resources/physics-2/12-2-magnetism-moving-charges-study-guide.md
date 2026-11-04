@@ -50,6 +50,14 @@ author: "marlbridge-academic-team"
 
 ## Moving charges make magnetic fields
 
+<!-- marlbridge-diagram:complete-phys-moving-charge-magnetic-field -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/physics/complete-phys-moving-charge-magnetic-field.svg" aria-label="Open full-size diagram: complete-phys-moving-charge-magnetic-field"><img src="/images/learning/physics/complete-phys-moving-charge-magnetic-field.svg" width="1520" height="940" alt="A positive charge moves right; at a point above its path, v cross r points out of the page. A transverse view shows magnetic field direction circling the motion axis." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>For a positive moving charge, the field direction follows v × r̂; the shown expression is scoped to a low-speed quasi-static model. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:complete-phys-moving-charge-magnetic-field -->
+
+
 In Topic 12.1 you saw that magnetic dipoles come from charges moving inside atoms. The same idea works for a single charged object. **A charged object at rest makes only an electric field. A moving charged object also makes a magnetic field.**
 
 The magnetic field at a point near a moving charge depends on:
@@ -67,7 +75,12 @@ The field is **largest** when v and r are at right angles, as at those two point
 
 ## Magnetic forces between moving charges
 
-Magnetic forces describe **interactions between moving charges**. One moving charge makes a magnetic field. A second charge moving through that field feels a force. Two positive charges moving side by side in the same direction, for example, pull towards each other magnetically. They still repel electrically. For charges moving much more slowly than light, the electric repulsion is far larger, but the magnetic part is real, and in a wire full of moving charges it is the part you notice (Topic 12.3).
+Magnetic forces describe **interactions between moving charges**. One moving charge makes a magnetic field. A second charge moving through that field feels a force. Two positive charges moving side by side in the same direction, for example, pull towards each other magnetically while still repelling electrically. In this idealised geometry, when both speeds are the same and much less than c in the stated observer's frame, the magnetic force is smaller than the electric force by a factor of about v²/c². The electric repulsion therefore dominates at ordinary speeds. In a current-carrying wire the small magnetic interaction is still measurable (Topic 12.3).
+
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <img src="/images/learning/physics/physcem-b18-moving-charge-electric-magnetic-forces.svg" width="1600" height="1050" alt="Two equal positive charges move side by side at equal speed in the stated observer frame. Each charge has a labelled outward electric force and inward magnetic force; their ratio is approximately v²/c² when v is much less than c." loading="lazy" decoding="async" style="display:block;width:100%;height:auto;" />
+  <figcaption>The upper and lower positive charges each have independently labelled electric and magnetic force arrows. In the stated frame, F_B/F_E ≈ v²/c² for this side-by-side equal-speed geometry when v ≪ c.</figcaption>
+</figure>
 
 ## The force on a moving charge
 
@@ -196,7 +209,12 @@ You find each one separately and add them as vectors. A useful case is **crossed
 
 qE = qvB, so **v = E/B**
 
-The charge cancels. So only charges with exactly this speed pass straight through, whatever their charge or mass. Faster charges feel a bigger magnetic force and bend towards the magnetic-force side. Slower charges bend towards the electric-force side. This device is called a **velocity selector**.
+The charge cancels. For ideal uniform crossed fields, particles with speed v = E/B pass straight through, independent of mass and charge sign. Faster and slower particles bend to opposite sides; reversing the charge reverses each force and therefore reverses which side corresponds to faster motion. This device is called a **velocity selector**.
+
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <img src="/images/learning/physics/physcem-b18-crossed-field-selector-corrected.svg" width="1600" height="1050" alt="Crossed plates have E downward and B into the page. Both positive and negative ions pass straight at v=E/B; slower and faster particles deflect oppositely, with those directions reversed for negative ions." loading="lazy" decoding="async" style="display:block;width:100%;height:auto;" />
+  <figcaption>At v=E/B either sign has balanced forces. For a positive ion, v below E/B deflects down and v above E/B up; for a negative ion both off-speed directions reverse.</figcaption>
+</figure>
 
 ## The Hall effect
 

@@ -140,12 +140,28 @@ make no new substances.
 | Filtration | Insoluble solid from a liquid | The solid cannot pass through the filter paper |
 | Crystallisation | Dissolved solid from its solution | The solvent evaporates; the solute does not |
 | Simple distillation | Solvent from a solution | The solvent boils at a much lower temperature than the solute |
-| Fractional distillation | Liquids that mix, with different boiling points | Each liquid condenses at its own boiling point up the column |
+| Fractional distillation | Miscible liquids with different volatilities | Repeated vaporisation and condensation enrich the rising vapour in the more volatile component; collected fractions need not be pure |
 | Chromatography | Dissolved substances, such as dyes | Different attraction to the paper and solubility in the solvent |
 
 **Crystallisation.** Heat to evaporate some solvent until the solution is saturated, leave it to cool so crystals
 form, then filter and dry them. **Simple distillation.** The solvent boils, condenses in a condenser and is
 collected; the solute stays in the flask.
+
+<!-- marlbridge-objective-update:separation-methods -->
+<figure class="lesson-diagram" style="margin:2rem 0"><a href="/images/learning/chemistry/separation-methods.svg" aria-label="Open full-size diagram: Separation: residue, filtrate, crystals or distillate"><img src="/images/learning/chemistry/separation-methods.svg" width="1528" height="871" alt="Filtration separates insoluble solid residue from liquid filtrate. Crystallisation recovers a solute, simple distillation recovers a solvent, and fractional distillation separates suitable miscible liquids." loading="lazy" decoding="async" style="display:block;width:100%;height:auto"></a><figcaption>Separation: residue, filtrate, crystals or distillate. Use the supplied component and desired product to choose filtration, crystallisation, simple or fractional distillation, or chromatography. Only the stated source learning clauses are assessed; diagram examples do not replace adjacent numerical data. Select the image to enlarge.</figcaption></figure>
+<!-- /marlbridge-objective-update:separation-methods -->
+
+<!-- marlbridge-objective-update:simple-distillation-apparatus -->
+<figure class="lesson-diagram" style="margin:2rem 0"><a href="/images/learning/chemistry/simple-distillation-apparatus.svg" aria-label="Open full-size diagram: Simple distillation: follow the two water paths"><img src="/images/learning/chemistry/simple-distillation-apparatus.svg" width="1528" height="871" alt="A heated salt solution produces water vapour, which enters the inner condenser tube and condenses. Cooling water flows through the outer jacket from the lower port to the upper port. The thermometer bulb sits in the vapour path at the side arm." loading="lazy" decoding="async" style="display:block;width:100%;height:auto"></a><figcaption>Simple distillation: follow the two water paths. Choose filtration,crystallisation,simple/fractional distillation andchromatography by the actual property and desired product. Only the stated source learning clauses are assessed; diagram examples do not replace adjacent numerical data. Collect the condensed solvent; the dissolved solute stays in the flask. Select the image to enlarge.</figcaption></figure>
+<!-- /marlbridge-objective-update:simple-distillation-apparatus -->
+
+<!-- marlbridge-objective-update:fractional-distillation-laboratory-apparatus -->
+<figure class="lesson-diagram" style="margin:2rem 0"><a href="/images/learning/chemistry/fractional-distillation-laboratory-apparatus.svg" aria-label="Open full-size diagram: Fractional distillation: add a fractionating column"><img src="/images/learning/chemistry/fractional-distillation-laboratory-apparatus.svg" width="1528" height="871" alt="A packed fractionating column between flask and condenser allows repeated vaporisation and condensation. The vapour becomes richer in the more volatile component, and fractions are collected while head temperature is monitored." loading="lazy" decoding="async" style="display:block;width:100%;height:auto"></a><figcaption>Fractional distillation: add a fractionating column. Choose filtration,crystallisation,simple/fractional distillation andchromatography by the actual property and desired product. Only the stated source learning clauses are assessed; diagram examples do not replace adjacent numerical data. Repeated condensation and vaporisation enrich the more volatile component; fractions need not be pure. Select the image to enlarge.</figcaption></figure>
+<!-- /marlbridge-objective-update:fractional-distillation-laboratory-apparatus -->
+
+<!-- marlbridge-objective-update:chromatography-rf -->
+<figure class="lesson-diagram" style="margin:2rem 0"><a href="/images/learning/chemistry/chromatography-rf.svg" aria-label="Open full-size diagram: Paper chromatography: baseline, solvent front and Rf"><img src="/images/learning/chemistry/chromatography-rf.svg" width="1528" height="871" alt="A chromatogram has spots above a pencil baseline and a marked solvent front. A spot travelling five centimetres while the front travels eight has Rf equal to 0.625. One spot alone does not establish purity." loading="lazy" decoding="async" style="display:block;width:100%;height:auto"></a><figcaption>Paper chromatography: baseline, solvent front and Rf. Paper chromatography separates dissolved substances by their relative attraction to paper and solubility in the solvent. Only the stated source learning clauses are assessed; diagram examples do not replace adjacent numerical data. Select the image to enlarge.</figcaption></figure>
+<!-- /marlbridge-objective-update:chromatography-rf -->
 
 ### Worked example 4: suggesting a technique
 

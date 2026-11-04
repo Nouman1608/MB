@@ -55,6 +55,14 @@ A partnership's income statement is prepared exactly as for a sole trader, with 
 
 ## The appropriation account
 
+<!-- marlbridge-diagram:accounting-partnership-appropriation -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/accounting/accounting-partnership-appropriation.svg" aria-label="Open full-size diagram: accounting-partnership-appropriation"><img src="/images/learning/accounting/accounting-partnership-appropriation.svg" width="1600" height="1050" alt="£84,000 profit plus £1,350 interest on drawings less £6,000 interest on capital and £18,000 salary leaves £61,350 residual profit shared 3:2:1." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>£84,000 profit plus £1,350 interest on drawings less £6,000 interest on capital and £18,000 salary leaves £61,350 residual profit shared 3:2:1. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:accounting-partnership-appropriation -->
+
+
 The appropriation account follows the income statement and shows how the profit for the year is shared. Partners' salaries and interest on capital are **not** expenses; they are shares of profit.
 
 **Worked example: Lowe, Marsh and Nash.** The profit before loan interest for the year ended 31 March 2026 was £84,900. Nash has lent the firm £15,000 at 6% a year. The agreement provides:

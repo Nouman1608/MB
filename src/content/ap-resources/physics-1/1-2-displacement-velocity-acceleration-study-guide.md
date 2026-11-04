@@ -73,7 +73,23 @@ Displacement only cares about where you start and finish. Distance cares about e
 
 ## Average velocity and average speed
 
-Averages use only the **initial and final states** over a time interval Δt = t − t₀.
+<!-- marlbridge-diagram:phys-ap1-b28-average-speed-vs-average-velocity -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/physics/phys-ap1-b28-average-speed-vs-average-velocity.svg" aria-label="Open full-size diagram: phys-ap1-b28-average-speed-vs-average-velocity"><img src="/images/learning/physics/phys-ap1-b28-average-speed-vs-average-velocity.svg" width="1600" height="1050" alt="A cart starts at x equals 0 metres and ends at x equals 5 metres after 2.5 seconds. A straight path has distance 5 metres and displacement plus 5 metres, giving average speed 2 metres per second and average velocity plus 2 metres per second. A second path travels from 0 to 8 metres, turns around and ends at 5 metres: distance 11 metres, displacement plus 5 metres, average speed 4.4 metres per second, and average velocity plus 2 metres per second. The example shows why endpoints alone do not determine average speed when the object reverses." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>A cart starts at x equals 0 metres and ends at x equals 5 metres after 2.5 seconds. A straight path has distance 5 metres and displacement plus 5 metres, giving average speed 2 metres per second and average velocity plus 2 metres per second. A second path travels from 0 to 8 metres, turns around and ends at 5 metres: distance 11 metres, displacement plus 5 metres, average speed 4.4 metres per second, and average velocity plus 2 metres per second. The example shows why endpoints alone do not determine average speed when the object reverses. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:phys-ap1-b28-average-speed-vs-average-velocity -->
+
+
+<!-- marlbridge-diagram:physics-ap-average-velocity-vs-speed-path -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/physics/physics-ap-average-velocity-vs-speed-path.svg" aria-label="Open full-size diagram: physics-ap-average-velocity-vs-speed-path"><img src="/images/learning/physics/physics-ap-average-velocity-vs-speed-path.svg" width="1600" height="1050" alt="Two paths share start, end and duration but have different path lengths; average velocity stays +2 m/s while average speed changes." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Two paths share start, end and duration but have different path lengths; average velocity stays +2 m/s while average speed changes. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:physics-ap-average-velocity-vs-speed-path -->
+
+Average velocity uses the **initial and final positions** over a time interval Δt = t − t₀. Average speed also requires the **total distance travelled** during that interval.
+
 
 **Average velocity: v_avg = Δx / Δt**
 
@@ -105,7 +121,7 @@ The sign of a_x alone does **not** tell you whether an object is speeding up. Co
 
 ## Instantaneous velocity without calculus
 
-A speedometer shows velocity **at an instant**, not over an interval. How can an average become an instantaneous value? Make the interval very short.
+A speedometer shows speed **at an instant**, not over an interval. Instantaneous velocity also includes the direction of motion. How can an average become an instantaneous value? Make the interval very short.
 
 Take a cart that starts from rest with **+x to the right**. Its position is x = (1.0 m/s²)t², so at t = 2.0 s it is at x = 4.0 m. Work out average velocities starting at t = 2.0 s:
 

@@ -220,6 +220,14 @@ A parallelogram has base 12 cm and slanted sides of 7.5 cm. The perpendicular he
 
 ### Worked example 6: a trapezium (non-calculator)
 
+<!-- marlbridge-diagram:maths-b37-trapezium-area -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/mathematics/maths-b37-trapezium-area.svg" aria-label="Open full-size diagram: maths-b37-trapezium-area"><img src="/images/learning/mathematics/maths-b37-trapezium-area.svg" width="1600" height="1050" alt="The parallel sides sum to 7.4+11.6=19 cm. Area is ½×19×5=47.5 cm², where 5 cm is the perpendicular separation of the parallel sides." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>The parallel sides sum to 7.4+11.6=19 cm. Area is ½×19×5=47.5 cm², where 5 cm is the perpendicular separation of the parallel sides. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:maths-b37-trapezium-area -->
+
+
 A trapezium has parallel sides of 7.4 cm and 11.6 cm, and the perpendicular distance between them is 5 cm. Find its area.
 
 ```

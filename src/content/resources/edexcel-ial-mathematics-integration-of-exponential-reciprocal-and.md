@@ -94,6 +94,14 @@ Recognition means spotting that the integrand is the result of differentiating a
 
 ### Form 1: f′(x)/f(x)
 
+<!-- marlbridge-diagram:maths-b22-integration-recognition-log-form -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/mathematics/maths-b22-integration-recognition-log-form.svg" aria-label="Open full-size diagram: maths-b22-integration-recognition-log-form"><img src="/images/learning/mathematics/maths-b22-integration-recognition-log-form.svg" width="1600" height="1050" alt="In ∫3x²/(x³+2) dx, choose f=x³+2. Its derivative f′=3x² is the numerator, so the antiderivative is ln|x³+2|+C on any interval not crossing x³+2=0." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>In ∫3x²/(x³+2) dx, choose f=x³+2. Its derivative f′=3x² is the numerator, so the antiderivative is ln|x³+2|+C on any interval not crossing x³+2=0. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:maths-b22-integration-recognition-log-form -->
+
+
 If the numerator is the derivative of the denominator, then
 
 ∫ f′(x)/f(x) dx = ln|f(x)| + c

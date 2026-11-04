@@ -29,7 +29,7 @@ framework: { schoolYear: "2026-27", examSeries: "May 2027" }
 sources: ["ced-physics-2", "clar-physics-2", "page-physics-2"]
 keyPoints:
   - "A magnetic field B is a vector field. It exerts forces on moving charges, on currents and on magnetic materials. Its unit is the tesla (T)."
-  - "Magnetic fields come from dipoles. A north pole is never found without a south pole: there are no magnetic monopoles."
+  - "A bar magnet is a dipole, so cutting it gives smaller magnets with both poles. No isolated magnetic monopole has been confirmed; the dipole model does not describe every magnetic-field geometry."
   - "Field lines are closed loops. Outside a magnet they run from N to S; inside, from S back to N."
   - "Like poles repel, unlike poles attract, and a compass needle lines up with the field at its position."
   - "Permanent and induced magnetism both come from the alignment of tiny dipoles, made by the motion of electrons."
@@ -64,7 +64,7 @@ The direction of B at a point is defined as the direction in which the **north e
 
 ## Dipoles, poles and field lines
 
-Every magnet you can hold is a **magnetic dipole**. It has two ends of opposite polarity, called the **north pole (N)** and the **south pole (S)**. A bar magnet is the simplest example. Magnetic fields are always produced by dipoles, or by combinations of dipoles. They are never produced by a single isolated pole, a **monopole**.
+An ordinary bar magnet is modelled as a **magnetic dipole** with two ends of opposite polarity, called the **north pole (N)** and the **south pole (S)**. Magnetic fields also arise from moving electric charges, such as currents, so the bar-magnet dipole model does not describe every field geometry. No isolated magnetic monopole has been confirmed; cutting a bar magnet does not separate N from S.
 
 Unlike electric charges, poles never come alone. If you cut a bar magnet in half, you do not separate N from S. You get two smaller magnets, each with its own N and S. A new pair of poles appears at the cut. Cut again and the same thing happens, down to the level of single atoms.
 
@@ -129,7 +129,15 @@ A compass needle is a small dipole that can turn freely. In a magnetic field it 
 
 ## Where magnetism comes from
 
-Why are some objects magnetic? The answer is moving charge. **A charge moving in a circle, or spinning, acts as a tiny magnetic dipole.** In atoms, electrons move around the nucleus and also have an intrinsic spin. Each electron therefore behaves like a microscopic magnet. In most atoms these tiny dipoles point in different directions and cancel. In some atoms they do not fully cancel, so the atom itself is a small dipole.
+<!-- marlbridge-diagram:phys2-b20-microscopic-moments-domains -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/physics/phys2-b20-microscopic-moments-domains.svg" aria-label="Open full-size diagram: phys2-b20-microscopic-moments-domains"><img src="/images/learning/physics/phys2-b20-microscopic-moments-domains.svg" width="1600" height="1050" alt="An electron’s intrinsic magnetic moment is shown as a quantum property; random atomic moments cancel while aligned domains create net magnetisation." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>An electron’s intrinsic magnetic moment is shown as a quantum property; random atomic moments cancel while aligned domains create net magnetisation. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:phys2-b20-microscopic-moments-domains -->
+
+
+Why are some objects magnetic? Magnetic moments arise from charged-particle orbital motion and from intrinsic spin. Electron spin is quantum intrinsic angular momentum, not a literal rotation of the electron. Each electron has a magnetic moment. In an atom, the electron and nuclear moments combine; in many atoms they partly or fully cancel. In some atoms they do not fully cancel, so the atom has a net magnetic moment.
 
 Whether a whole object is magnetic depends on how its atomic dipoles are arranged:
 
@@ -139,6 +147,14 @@ Whether a whole object is magnetic depends on how its atomic dipoles are arrange
 So magnetism is a **system property**: it belongs to the arrangement of many dipoles, not to any one of them.
 
 ### Permanent and induced magnetism
+
+<!-- marlbridge-diagram:physcem-b18-permanent-vs-induced-magnetism -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/physics/physcem-b18-permanent-vs-induced-magnetism.svg" aria-label="Open full-size diagram: physcem-b18-permanent-vs-induced-magnetism"><img src="/images/learning/physics/physcem-b18-permanent-vs-induced-magnetism.svg" width="1600" height="1050" alt="Three stages show mixed iron domains, domains aligned while a north pole is nearby (induced south pole at the near end), and an idealised mixed state after the field is removed." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Three stages show mixed iron domains, domains aligned while a north pole is nearby (induced south pole at the near end), and an idealised mixed state after the field is removed. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:physcem-b18-permanent-vs-induced-magnetism -->
+
 
 - A **permanent magnet** keeps its dipoles lined up after any external field has gone.
 - **Induced magnetism** appears only while an external field lines the dipoles up. Bring a magnet near an iron paper clip and the clip's dipoles align with the field: the clip becomes a magnet, with its nearer end the opposite pole to the magnet's pole. That is why the clip is attracted. It can then pick up a second clip.
@@ -157,7 +173,22 @@ All materials respond to a magnetic field in some way. What they do depends on t
 
 **Every** material is diamagnetic, but in ferro- and paramagnetic materials the stronger attraction hides it. Para- and diamagnetic effects are tiny, which is why we usually call aluminium and copper "non-magnetic".
 
+<!-- marlbridge-diagram:physcem-b21-magnetic-material-responses -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/physics/physcem-b21-magnetic-material-responses.svg" aria-label="Open full-size diagram: how materials respond to a magnetic field"><img src="/images/learning/physics/physcem-b21-magnetic-material-responses.svg" width="1600" height="1050" alt="Paramagnetic dipoles weakly align, diamagnetic response opposes the field, and ferromagnetic domains align strongly with possible remanence." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Compare weak parallel alignment, weak opposing induction and domain alignment that can remain after the field is removed. — Marlbridge Physics.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:physcem-b21-magnetic-material-responses -->
+
 ## Earth as a magnet
+
+<!-- marlbridge-diagram:physcem-b18-earth-dipole-compass -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/physics/physcem-b18-earth-dipole-compass.svg" aria-label="Open full-size diagram: physcem-b18-earth-dipole-compass"><img src="/images/learning/physics/physcem-b18-earth-dipole-compass.svg" width="1600" height="1050" alt="Earth's magnetic dipole axis is currently tilted about 11 degrees from the rotation axis; the tilt and magnetic-pole locations change over time. Its magnetic south pole lies near geographic North. A northern-hemisphere compass follows only the horizontal field component." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Earth's magnetic dipole axis is currently tilted about 11 degrees from the rotation axis; the tilt and magnetic-pole locations change over time. Its magnetic south pole lies near geographic North. A northern-hemisphere compass follows only the horizontal field component. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:physcem-b18-earth-dipole-compass -->
+
 
 Earth's field can be modelled as the field of a **magnetic dipole**, as if a large bar magnet sat near Earth's centre. The dipole is tilted by about 11° from Earth's rotation axis, so the magnetic poles are not at the geographic poles.
 
@@ -207,16 +238,16 @@ A useful way to compare is the ratio μ/μ₀ (often called the relative permeab
 2. **W.** μ is just above μ₀, so W's dipoles line up slightly with the field and strengthen it a little. Nothing remains when the coil is off. W is **paramagnetic**.
 3. **X.** μ is just below μ₀, so X's response is a weak alignment opposite to the field. X is **diamagnetic**.
 4. **Y.** μ = 400μ₀ = 400 × 4π × 10⁻⁷ T·m/A = 5.03 × 10⁻⁴ T·m/A. The field inside is hundreds of times bigger than the coil's own field, and some magnetism remains after the coil is off. Y is **ferromagnetic**: its domains lined up and many stayed lined up.
-5. **Doubling the field.** Not necessarily. The permeability of a material is not a constant: for a ferromagnet it depends strongly on the external field. At 1.60 T a ferromagnet like Y already has most of its domains aligned, so there is little extra alignment left to gain. The field inside Y will increase, but most likely by less than a factor of 2.
+5. **Doubling the applied field.** The field inside Y need not double. The single measurement at an applied field of 1.60 T does not show whether the material is near saturation or predict its response to a larger applied field. That requires a material-specific magnetisation curve over the relevant field range.
 
-**Answer.** (a) W 1.00002, X 0.99999, Y 400. (b) W paramagnetic, X diamagnetic, Y ferromagnetic. (c) Not necessarily: Y's μ changes with field strength. With most domains already aligned, the field most likely rises by less than double.
+**Answer.** (a) W 1.00002, X 0.99999, Y 400. (b) W paramagnetic, X diamagnetic, Y ferromagnetic. (c) The field inside Y need not double; one measurement does not determine its magnetisation curve.
 
 **Interpretation.** The changes for W and X are tiny: 0.08 μT up and 0.04 μT down in a 4 mT field. That is why para- and diamagnetism are hard to notice in everyday life. The leftover field near Y is the sign of permanent magnetism.
 
 ## Common misconceptions
 
-- **"Field lines start at N and stop at S."** They continue inside the magnet from S to N. Every magnetic field line is a closed loop.
-- **"Cut a magnet in half and you get a north piece and a south piece."** You get two complete dipoles. There are no magnetic monopoles.
+- **"Field lines start at N and stop at S."** In the bar-magnet dipole model, lines outside the magnet run from N to S and continue through it. Magnetic fields have no physical sources or sinks in the no-monopole model; a field line may loop back or extend through the modeled region to infinity.
+- **"Cut a magnet in half and you get a north piece and a south piece."** You get two complete dipoles. No isolated magnetic monopole has been confirmed.
 - **"Magnetic field lines show the path a charge follows."** They show the direction a compass needle points. Moving charges are pushed sideways, at right angles to B (Topic 12.2).
 - **"The magnetic pole in the Arctic is a north pole."** It attracts the north end of compass needles, so it is a magnetic south pole.
 - **"Magnets attract all metals."** Strong attraction needs a ferromagnetic material. Aluminium is only weakly attracted (paramagnetic); copper is weakly repelled (diamagnetic).

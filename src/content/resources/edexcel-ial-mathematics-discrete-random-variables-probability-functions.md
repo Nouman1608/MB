@@ -70,6 +70,14 @@ Check: 1/4 + 1/2 + 1/4 = 1.
 
 ## 5.2 The probability function and the cumulative distribution function
 
+<!-- marlbridge-diagram:maths-b17-discrete-rv -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/mathematics/maths-b17-discrete-rv.svg" aria-label="Open full-size diagram: maths-b17-discrete-rv"><img src="/images/learning/mathematics/maths-b17-discrete-rv.svg" width="1600" height="1050" alt="For x values zero through four, probabilities 0.1, 0.2, 0.4, 0.2, 0.1 accumulate to cdf 0.1, 0.3, 0.7, 0.9, 1; mean 2 and variance 1.4." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>For x values zero through four, probabilities 0.1, 0.2, 0.4, 0.2, 0.1 accumulate to cdf 0.1, 0.3, 0.7, 0.9, 1; mean 2 and variance 1.4. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:maths-b17-discrete-rv -->
+
+
 The probability function is p(x) = P(X = x). It can be presented as a table, or as a rule together with the x values it applies to. Two facts hold for every valid probability function:
 
 1. Every p(x) satisfies 0 ≤ p(x) ≤ 1.

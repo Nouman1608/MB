@@ -141,6 +141,14 @@ Sketch description for y = eˣ: close to the negative x-axis on the left, throug
 
 ### Transformed graphs
 
+<!-- marlbridge-diagram:math-b68-oxfordaqa-exp-transformed-graphs -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/public/images/learning/mathematics/math-b68-oxfordaqa-exp-transformed-graphs.svg" aria-label="Open full-size diagram: math-b68-oxfordaqa-exp-transformed-graphs"><img src="/public/images/learning/mathematics/math-b68-oxfordaqa-exp-transformed-graphs.svg" width="1528" height="940" alt="Graph of y=eˣ, y=e²ˣ, y=e⁻ˣ, y=eˣ+3 and y=2eˣ−5 with horizontal asymptotes and the final curve’s x-intercept marked." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Graph of y=eˣ, y=e²ˣ, y=e⁻ˣ, y=eˣ+3 and y=2eˣ−5 with horizontal asymptotes and the final curve’s x-intercept marked.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:math-b68-oxfordaqa-exp-transformed-graphs -->
+
+
 | Equation | Key features |
 |---|---|
 | y = e²ˣ | Through (0, 1), steeper than eˣ, asymptote y = 0 |

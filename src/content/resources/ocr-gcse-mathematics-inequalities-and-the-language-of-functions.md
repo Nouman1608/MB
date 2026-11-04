@@ -237,6 +237,14 @@ Caution: the reverse of squaring is a square root, which has two possible values
 
 ## Composite functions (Higher tier only)
 
+<!-- marlbridge-diagram:math-b80-ocr-composite-function-machines -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/mathematics/math-b80-ocr-composite-function-machines.svg" aria-label="Open full-size diagram: math-b80-ocr-composite-function-machines"><img src="/images/learning/mathematics/math-b80-ocr-composite-function-machines.svg" width="1528" height="940" alt="Two function-machine chains show the different outputs when A:3x+1 and B:square are applied in opposite orders." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Two function-machine chains show the different outputs when A:3x+1 and B:square are applied in opposite orders.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:math-b80-ocr-composite-function-machines -->
+
+
 A **composite** is two machines used in succession: the output of the first is the input of the second.
 
 **Worked example 13.** Machine A is y = 3x + 1. Machine B squares its input.

@@ -40,6 +40,8 @@ Use it with the [revision notes](/resources/oxfordaqa-a-level-mathematics-kinema
 
 ## The language of motion
 
+<figure class="learning-diagram" style="margin:1.5rem 0;"><a href="/public/images/learning/mathematics/math-sub-414-kinematic-quantities.svg" aria-label="Open full-size diagram: math-sub-414-kinematic-quantities"><img src="/public/images/learning/mathematics/math-sub-414-kinematic-quantities.svg" width="1528" height="940" alt="Use signed changes; speed and distance are magnitudes Displacement s: signed position change; Velocity v = ds/dt; Acceleration a = dv/dt; Distance ≥ |displacement|" loading="lazy" decoding="async" style="display:block;width:100%;height:auto;" /></a><figcaption>Separate displacement, velocity and acceleration — Marlbridge Mathematics</figcaption></figure>
+
 Motion in a straight line means you can describe position with a single number on a number line. Choose a positive direction and keep to it.
 
 | Quantity | Vector or scalar | Meaning |
@@ -64,6 +66,14 @@ Average velocity = 25 ÷ 25 = 1 m/s (east)
 Units: use metres, seconds, m/s and m/s². A negative acceleration means the velocity is decreasing in your positive direction. It does not by itself mean the particle is slowing: if the particle is already travelling in the negative direction, a negative acceleration increases its speed.
 
 ## Kinematic graphs
+
+<!-- marlbridge-diagram:math-final-414-tram-velocity-time-area -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/mathematics/math-final-414-tram-velocity-time-area.svg" aria-label="Open full-size diagram: math-final-414-tram-velocity-time-area"><img src="/images/learning/mathematics/math-final-414-tram-velocity-time-area.svg" width="1528" height="940" alt="Velocity-time graph for the tram with acceleration, cruise, deceleration and shaded area totaling 324 m." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Velocity-time graph for the tram with acceleration, cruise, deceleration and shaded area totaling 324 m.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:math-final-414-tram-velocity-time-area -->
+
 
 Two graphs matter most.
 
@@ -99,6 +109,8 @@ Average speed = 324 ÷ 34 = 162/17 ≈ 9.53 m/s
 You can also treat the whole shape as a trapezium: ½(34 + 20) × 12 = 324.
 
 ## Constant acceleration equations
+
+<figure class="learning-diagram" style="margin:1.5rem 0;"><a href="/public/images/learning/mathematics/math-sub-414-suvat-selection.svg" aria-label="Open full-size diagram: math-sub-414-suvat-selection"><img src="/public/images/learning/mathematics/math-sub-414-suvat-selection.svg" width="1528" height="940" alt="Use these only when acceleration is constant v = u + at; s = ut + ½at²; v² = u² + 2as; s = ½(u + v)t" loading="lazy" decoding="async" style="display:block;width:100%;height:auto;" /></a><figcaption>Select constant-acceleration equations — Marlbridge Mathematics</figcaption></figure>
 
 When acceleration a is constant, with initial velocity u, final velocity v, displacement s and time t, M1.1 lists these five equations:
 
@@ -148,6 +160,8 @@ This equation is useful when you know the final velocity but not the initial one
 
 ## Vertical motion under gravity
 
+<figure class="learning-diagram" style="margin:1.5rem 0;"><a href="/public/images/learning/mathematics/math-sub-414-vertical-motion-gravity.svg" aria-label="Open full-size diagram: math-sub-414-vertical-motion-gravity"><img src="/public/images/learning/mathematics/math-sub-414-vertical-motion-gravity.svg" width="1528" height="940" alt="With up positive, gravity gives a = −g throughout flight At launch: v = u upwards; At greatest height: v = 0; Acceleration remains −9.8 m s⁻²; On return to launch height: v = −u" loading="lazy" decoding="async" style="display:block;width:100%;height:auto;" /></a><figcaption>Model vertical motion under gravity — Marlbridge Mathematics</figcaption></figure>
+
 Treat the object as a particle that moves only under gravity, ignoring air resistance. Its acceleration is then constant, of magnitude g, directed downwards. The specification takes g as 9.8 m/s² where it uses gravity, so use 9.8 unless a question says otherwise.
 
 Choose upwards as positive and use a = −9.8. Key facts:
@@ -170,6 +184,8 @@ The model ignores air resistance and treats the ball as a point. Both are assump
 
 ## Variable acceleration: differentiation
 
+<figure class="learning-diagram" style="margin:1.5rem 0;"><a href="/public/images/learning/mathematics/math-sub-414-variable-acceleration-differentiate.svg" aria-label="Open full-size diagram: math-sub-414-variable-acceleration-differentiate"><img src="/public/images/learning/mathematics/math-sub-414-variable-acceleration-differentiate.svg" width="1528" height="940" alt="For non-constant acceleration, differentiate displacement s(t) → v(t) = ds/dt; v(t) → a(t) = dv/dt; At rest: solve v(t) = 0; Extremal velocity: solve a(t) = 0" loading="lazy" decoding="async" style="display:block;width:100%;height:auto;" /></a><figcaption>Get velocity and acceleration by differentiating — Marlbridge Mathematics</figcaption></figure>
+
 When acceleration is not constant, the five equations do not apply. Use calculus. With s the displacement from a fixed point at time t:
 
 ```
@@ -181,6 +197,8 @@ M1.2 restricts the calculus to that in Unit P1, so expect polynomials and powers
 To find when a particle is at rest, set v = 0. To find its greatest or least velocity, set a = 0 (and check which it is).
 
 ## Variable acceleration: integration
+
+<figure class="learning-diagram" style="margin:1.5rem 0;"><a href="/public/images/learning/mathematics/math-sub-414-variable-acceleration-integrate.svg" aria-label="Open full-size diagram: math-sub-414-variable-acceleration-integrate"><img src="/public/images/learning/mathematics/math-sub-414-variable-acceleration-integrate.svg" width="1528" height="940" alt="Integration constants come from initial conditions a(t) → v(t) = ∫a dt + c₁; Use v(0) to find c₁; v(t) → s(t) = ∫v dt + c₂; Solve v=0; sum absolute changes of s per interval" loading="lazy" decoding="async" style="display:block;width:100%;height:auto;" /></a><figcaption>Integrate and split distance at turns — Marlbridge Mathematics</figcaption></figure>
 
 Reverse the process:
 

@@ -105,6 +105,14 @@ alongside the calculation itself.
 
 ## Externalities — costs and benefits beyond the immediate transaction
 
+<!-- marlbridge-diagram:economics-edexcel-market-externalities -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/economics/economics-edexcel-market-externalities.svg" aria-label="Open full-size diagram: economics-edexcel-market-externalities"><img src="/images/learning/economics/economics-edexcel-market-externalities.svg" width="1600" height="1050" alt="Concept map connects buyer and seller transaction to affected third parties, then states social cost equals private cost plus external cost and social benefit equals private benefit plus external benefit; notes marginal welfare graph is beyond scope." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>External effects fall on third parties; combine private and external costs or benefits to describe the social total. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:economics-edexcel-market-externalities -->
+
+
 A negative externality (such as pollution from a factory) means the private cost of production is
 lower than the true social cost, since some of the cost falls on third parties who aren't part of
 the transaction: **social cost = private cost + external cost**. A positive externality (such as

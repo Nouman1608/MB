@@ -39,7 +39,17 @@ Pair it with the [revision notes](/resources/edexcel-ial-accounting-financial-st
 Use the IAS terms examiners use: revenue, inventory, other receivables (prepayments), other payables (accruals), carrying value.
 
 ## Sole traders and year-end adjustments (1.3.1–1.3.6)
-
+<!-- marlbridge-diagram:ac-edx-financial-statements-organisations -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/accounting/ac-edx-financial-statements-organisations.svg" aria-label="Open full-size diagram: ac-edx-financial-statements-organisations">
+    <picture>
+      <source media="(max-width: 640px)" srcset="/images/learning/accounting/ac-edx-financial-statements-organisations-mobile.svg" />
+      <img src="/images/learning/accounting/ac-edx-financial-statements-organisations.svg" width="1600" height="1050" alt="A pathway from an adjusted trial balance to entity-specific statements for sole traders, partnerships, clubs and manufacturers." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" />
+    </picture>
+  </a>
+  <figcaption>A pathway from an adjusted trial balance to entity-specific statements for sole traders, partnerships, clubs and manufacturers. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:ac-edx-financial-statements-organisations -->\n
 Revenue less cost of sales (opening inventory + purchases − closing inventory) gives **gross profit**. Add other operating income and deduct expenses to reach **profit for the year**. The statement of financial position lists non-current assets at carrying value, current assets, current liabilities, non-current liabilities, and capital (opening capital + profit − drawings).
 
 Every adjustment has two effects:

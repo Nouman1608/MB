@@ -189,6 +189,14 @@ The van, drawings and growing trade receivables absorb the cash.
 
 ## Budgetary control and variances
 
+<!-- marlbridge-diagram:accounting-budget-variance-bridge -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/accounting/accounting-budget-variance-bridge.svg" aria-label="Open full-size diagram: accounting-budget-variance-bridge"><img src="/images/learning/accounting/accounting-budget-variance-bridge.svg" width="1600" height="1050" alt="Variance bridge begins with fixed budget profit £30,000, adds £6,000 favourable volume variance, then subtracts £5,610 adverse flexed variances to reach actual profit £30,390." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Variance bridge begins with fixed budget profit £30,000, adds £6,000 favourable volume variance, then subtracts £5,610 adverse flexed variances to reach actual profit £30,390. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:accounting-budget-variance-bridge -->
+
+
 A **variance** is the difference between a budgeted and an actual figure.
 
 - **Favourable (F):** actual profit higher than budget, i.e. revenue above budget or a cost below it.

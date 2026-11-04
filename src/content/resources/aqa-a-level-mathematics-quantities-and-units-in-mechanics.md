@@ -88,6 +88,13 @@ To check a speed conversion, compare sizes. A metre is much shorter than a kilom
 
 ## P1: derived quantities and units
 
+<!-- marlbridge-diagram:maths-aqa-mechanics-units-dimensions-map -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/mathematics/maths-aqa-mechanics-units-dimensions-map.svg" aria-label="Open full-size diagram: maths-aqa-mechanics-units-dimensions-map"><img src="/images/learning/mathematics/maths-aqa-mechanics-units-dimensions-map.svg" width="1600" height="1050" alt="A units map derives velocity, acceleration, force and moment units from metre, kilogram and second, with a conversion and mass-weight distinction." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>A units map derives velocity, acceleration, force and moment units from metre, kilogram and second, with a conversion and mass-weight distinction. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:maths-aqa-mechanics-units-dimensions-map -->
+
 A **derived** quantity is built from the fundamental ones. Its unit follows from its definition.
 
 | Quantity | Definition | SI unit | In base units |

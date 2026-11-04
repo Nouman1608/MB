@@ -51,6 +51,14 @@ A **market map** (also called a perceptual map or positioning map) plots the bra
 
 ### Worked example 1: reading a market map
 
+<!-- marlbridge-diagram:business-oxfordaqa-market-map-glimmerbay-swim-schools -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/business/business-oxfordaqa-market-map-glimmerbay-swim-schools.svg" aria-label="Open full-size diagram: business-oxfordaqa-market-map-glimmerbay-swim-schools"><img src="/images/learning/business/business-oxfordaqa-market-map-glimmerbay-swim-schools.svg" width="1600" height="1050" alt="Plots the five Glimmerbay swimming schools from survey data, calculates price per benefit point and highlights a possible unserved position." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Plots the five Glimmerbay swimming schools from survey data, calculates price per benefit point and highlights a possible unserved position. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:business-oxfordaqa-market-map-glimmerbay-swim-schools -->
+
+
 Glimmerbay has five swimming schools for children. A local survey asked parents to score each school's overall benefits (teaching quality, class size, facilities) out of 10.
 
 | School | Price per 30-minute lesson | Benefits score |

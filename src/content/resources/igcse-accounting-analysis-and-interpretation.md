@@ -102,6 +102,17 @@ non-financial aspects, for example skill of the workforce, location of
 the business and economic climate.
 
 ## The ten ratios and their formulas
+<!-- marlbridge-diagram:ac-igcse-ten-ratios-formula-map -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/accounting/ac-igcse-ten-ratios-formula-map.svg" aria-label="Open full-size diagram: ac-igcse-ten-ratios-formula-map">
+    <picture>
+      <source media="(max-width: 640px)" srcset="/images/learning/accounting/ac-igcse-ten-ratios-formula-map-mobile.svg" />
+      <img src="/images/learning/accounting/ac-igcse-ten-ratios-formula-map.svg" width="1600" height="1050" alt="The ten Cambridge IGCSE Accounting ratio formulas grouped into profitability, liquidity and efficiency, with denominator cautions." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" />
+    </picture>
+  </a>
+  <figcaption>The ten syllabus ratios are grouped by profitability, liquidity and efficiency, with the denominator and output unit made explicit. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:ac-igcse-ten-ratios-formula-map -->
 
 These are the syllabus's own names and formulas (p.21). Use them
 exactly: the 6.1 Note says they are the only formulas accepted.

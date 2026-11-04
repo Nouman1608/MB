@@ -63,6 +63,14 @@ The two averages differ because the particle turned back.
 
 ## Q2: Graphs for motion in a straight line
 
+<!-- marlbridge-diagram:maths-aqa-kinematics-vt-area -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/mathematics/maths-aqa-kinematics-vt-area.svg" aria-label="Open full-size diagram: maths-aqa-kinematics-vt-area"><img src="/images/learning/mathematics/maths-aqa-kinematics-vt-area.svg" width="1600" height="1050" alt="The source cyclist graph has 5 s acceleration to 8 m/s, 20 s at constant speed, and 4 s deceleration; areas 20+160+16=196 m." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>The source cyclist graph has 5 s acceleration to 8 m/s, 20 s at constant speed, and 4 s deceleration; areas 20+160+16=196 m. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:maths-aqa-kinematics-vt-area -->
+
+
 **Displacement–time graph.** The gradient is the velocity. A horizontal section means the particle is at rest. A negative gradient means it is moving in the negative direction. On a curve, the gradient of the tangent gives the instantaneous velocity.
 
 **Velocity–time graph.**

@@ -62,6 +62,13 @@ The syllabus notes say a line of best fit:
 A helpful method is to find the mean of each variable, plot that mean point, and pivot your ruler about it until the points balance on both sides. Use a clear ruler so you can see the points underneath.
 
 ### Worked example 1
+<!-- marlbridge-diagram:maths-b20-scatter-best-fit-cars -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/mathematics/maths-b20-scatter-best-fit-cars.svg" aria-label="Open full-size diagram: maths-b20-scatter-best-fit-cars"><img src="/images/learning/mathematics/maths-b20-scatter-best-fit-cars.svg" width="1528" height="940" alt="Nine car observations show age from 1 to 9 years and value from $18.5k to $7.2k. A straight best-fit line falls from about (1,18.1) to (9,6.7) through the mean point (5,12.4), illustrating strong negative correlation." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>The line of best fit is a visual model for values within the observed age range. Correlation describes association; it does not establish cause. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:maths-b20-scatter-best-fit-cars -->
+
 
 The table shows the age (years) and value ($ thousand) of nine cars of one model.
 
@@ -148,6 +155,13 @@ With n values in total, read across from these heights and then down to the hori
 The interquartile range is IQR = UQ − LQ. It shows how far apart the quartiles are, so extreme values do not affect it.
 
 ### Worked example 3
+<!-- marlbridge-diagram:maths-b20-cumulative-frequency-quartiles -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/mathematics/maths-b20-cumulative-frequency-quartiles.svg" aria-label="Open full-size diagram: maths-b20-cumulative-frequency-quartiles"><img src="/images/learning/mathematics/maths-b20-cumulative-frequency-quartiles.svg" width="1528" height="940" alt="For 200 phone calls, cumulative-frequency points are (0,0), (2,14), (4,50), (6,112), (8,160), (10,188) and (12,200). Horizontal readings at 50, 100 and 150 give lower quartile about 4.0 minutes, median about 5.6 minutes and upper quartile about 7.6 minutes." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Quartile heights use n = 200: 50, 100 and 150. Read horizontally to the smooth curve, then vertically to call length. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:maths-b20-cumulative-frequency-quartiles -->
+
 
 Use the call lengths, with n = 200.
 

@@ -99,6 +99,14 @@ sub-topic. This spaced, interleaved approach to revision consistently outperform
 
 ## Working through the five sub-topics
 
+<!-- marlbridge-diagram:maths-edexcel-p1-topic-map -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/mathematics/maths-edexcel-p1-topic-map.svg" aria-label="Open full-size diagram: maths-edexcel-p1-topic-map"><img src="/images/learning/mathematics/maths-edexcel-p1-topic-map.svg" width="1600" height="1050" alt="Map of the five Edexcel YMA01 Pure Mathematics 1 strands: algebra and functions, coordinate geometry, trigonometry, differentiation and integration." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>How the five Pure Mathematics 1 strands connect. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:maths-edexcel-p1-topic-map -->
+
+
 **P1.1 Algebra and functions.** Beyond basic manipulation, interpreting and solving linear and
 quadratic inequalities — including reducing an inequality containing brackets or fractions to a
 standard linear or quadratic form, and reading the solution set off a sketch of the corresponding

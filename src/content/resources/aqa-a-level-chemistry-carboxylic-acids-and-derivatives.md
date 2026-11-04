@@ -160,6 +160,11 @@ ways. Calculate the maximum mass of (a) sodium dodecanoate (Mr 222.0) from hydro
 
 The 1 : 3 ratio is the step to watch. One fat molecule holds three acid chains.
 
+
+<!-- marlbridge-gap:chem-b12-triglyceride-soap-biodiesel -->
+<figure class="lesson-diagram" style="margin:2rem 0"><a href="/images/learning/chemistry/chem-b12-triglyceride-soap-biodiesel.svg" aria-label="Open full-size diagram: One triglyceride makes soap or biodiesel"><picture><source media="(max-width:800px)" srcset="/images/learning/chemistry/chem-b12-triglyceride-soap-biodiesel-mobile.svg" width="768" height="1120"><img src="/images/learning/chemistry/chem-b12-triglyceride-soap-biodiesel.svg" width="1528" height="870" alt="Triglyceride structure and its alkaline hydrolysis to soap or transesterification to biodiesel." loading="lazy" decoding="async" style="display:block;width:100%;height:auto"></picture></a><figcaption>Shows the three ester links and the 1:3 stoichiometry for soap and methyl ester products. Select the image to enlarge.</figcaption></figure>
+<!-- /marlbridge-gap:chem-b12-triglyceride-soap-biodiesel -->
+
 ## 3.3.9.2 Acylation
 
 ### Structures
@@ -217,9 +222,24 @@ Step 2 (elimination)
 In the intermediate, show the negative charge on O and the positive charge on the oxygen that came
 from water. Every arrow starts at a lone pair or a bond.
 
-With an alcohol the attacking atom is the alcohol O, and the product is an ester. With ammonia or a
-primary amine the attacking atom is N, and the intermediate carries N⁺. For ammonia and amines, the
-H⁺ is removed by a second NH₃ or amine molecule.
+With an alcohol, the alcohol oxygen attacks the carbonyl carbon and initially remains protonated.
+After the carbonyl reforms and chloride leaves, chloride removes that proton to give the ester and HCl.
+With ammonia or a primary amine, nitrogen attacks; the intermediate has N⁺, and a second molecule of
+ammonia or amine removes H⁺ after chloride leaves.
+
+<!-- marlbridge-diagram:chem-b33-aqa-ethanoyl-chloride-ammonia-mechanism -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/chemistry/chem-b33-aqa-ethanoyl-chloride-ammonia-mechanism.svg" aria-label="Open full-size diagram: chem-b33-aqa-ethanoyl-chloride-ammonia-mechanism"><img src="/images/learning/chemistry/chem-b33-aqa-ethanoyl-chloride-ammonia-mechanism.svg" width="1600" height="1050" alt="Ammonia attacks the carbonyl carbon of ethanoyl chloride as the C=O pi pair moves to oxygen, forming CH3C(O−)(Cl)(NH3+). The oxygen pair reforms C=O while chloride leaves. A second ammonia removes a proton to form ethanamide and ammonium chloride. Overall: CH3COCl + 2NH3 → CH3CONH2 + NH4Cl." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Ammonia attacks the carbonyl carbon of ethanoyl chloride as the C=O pi pair moves to oxygen, forming CH3C(O−)(Cl)(NH3+). The oxygen pair reforms C=O while chloride leaves. A second ammonia removes a proton to form ethanamide and ammonium chloride. Overall: CH3COCl + 2NH3 → CH3CONH2 + NH4Cl. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:chem-b33-aqa-ethanoyl-chloride-ammonia-mechanism -->
+
+<!-- marlbridge-diagram:chem-aqa-ethanoyl-chloride-methanol-mechanism -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/chemistry/chem-aqa-ethanoyl-chloride-methanol-mechanism.svg" aria-label="Open full-size diagram: ethanoyl chloride with methanol, nucleophilic addition and elimination"><img src="/images/learning/chemistry/chem-aqa-ethanoyl-chloride-methanol-mechanism.svg" width="1528" height="940" alt="Mechanism for ethanoyl chloride reacting with methanol: the methanol oxygen lone pair attacks the carbonyl carbon while the C=O pi pair moves to oxygen; the tetrahedral intermediate has O− and O+HCH3; the carbonyl reforms as chloride leaves; chloride removes the proton to give methyl ethanoate and HCl." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Methanol adds to the carbonyl, chloride leaves when C=O reforms, and deprotonation gives methyl ethanoate. Each curly arrow begins at an electron pair or bond.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:chem-aqa-ethanoyl-chloride-methanol-mechanism -->
 
 ### Aspirin: ethanoic anhydride versus ethanoyl chloride
 
@@ -237,6 +257,13 @@ Advantages you can explain from the chemistry:
   easier to store and handle.
 
 ## Required practical 10
+<!-- marlbridge-diagram:chem-b27-ester-purification-separating-funnel-workup -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/chemistry/chem-b27-ester-purification-separating-funnel-workup.svg" aria-label="Open full-size diagram: chem-b27-ester-purification-separating-funnel-workup"><img src="/images/learning/chemistry/chem-b27-ester-purification-separating-funnel-workup.svg" width="1528" height="940" alt="Three-step AQA practical sequence: reflux the acid, alcohol and catalyst then distil crude ester; wash in a separating funnel with sodium hydrogencarbonate, vent often because carbon dioxide forms, identify and retain the organic layer without assuming whether it is upper or lower; dry with an anhydrous drying agent and redistil, collecting the fraction at the ester boiling point." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>The funnel diagram emphasizes the course-specific bicarbonate wash and pressure release. Layer position depends on the liquids’ densities, so identify the organic layer before retaining it. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:chem-b27-ester-purification-separating-funnel-workup -->
+
 
 **Preparation of a pure organic solid and test of its purity.** A typical example is aspirin.
 
@@ -248,6 +275,19 @@ Advantages you can explain from the chemistry:
 5. Filter under reduced pressure, wash with a little cold solvent, and dry.
 6. Measure the melting point. A pure solid melts sharply at the value given in a data source.
    An impure solid melts lower and over a wider range.
+
+For the final cold crystals in step 5, use a Büchner funnel and side-arm flask connected to a vacuum
+source. The suction draws liquid through the filter paper and packs the crystals into a cake. Wash that
+cold cake with a small amount of cold solvent, then leave suction on briefly to remove more solvent.
+Use hot gravity filtration in step 3 for a hot solution; do not use the vacuum apparatus on that hot
+solution, which could cool and crystallise in the funnel.
+
+<!-- marlbridge-diagram:chem-aqa-required-practical-10-vacuum-filtration -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/chemistry/chem-aqa-required-practical-10-vacuum-filtration.svg" aria-label="Open full-size diagram: vacuum filtration of recrystallised crystals"><img src="/images/learning/chemistry/chem-aqa-required-practical-10-vacuum-filtration.svg" width="1528" height="940" alt="Vacuum filtration of a cooled crystal suspension: crystals and a little cold wash solvent go into a Büchner funnel lined with wetted filter paper; the funnel seals to a side-arm flask connected by tubing to a vacuum source; filtrate collects in the flask while crystals remain as a cake. The sequence says switch on suction before pouring, rinse with a little cold solvent, and leave suction briefly to dry." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Use reduced-pressure filtration to collect and wash the cooled crystals. Hot gravity filtration is a separate step used to remove insoluble impurities from the hot solution.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:chem-aqa-required-practical-10-vacuum-filtration -->
 
 **Preparation of a pure organic liquid.** A typical example is an ester.
 

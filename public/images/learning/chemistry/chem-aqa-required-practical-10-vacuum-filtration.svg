@@ -1,0 +1,89 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1528 940" role="img" aria-labelledby="title desc">
+  <title id="title">Vacuum filtration of recrystallised crystals</title>
+  <desc id="desc">A Büchner funnel lined with wetted filter paper sits in a rubber adapter on a side-arm flask. Crystals stay on the paper while the liquid filtrate is pulled into the flask and vacuum tubing connects the side arm to a pump.</desc>
+  <defs>
+    <marker id="arrow" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto"><path d="M1 1 L11 6 L1 11 Z" fill="#147d82"/></marker>
+    <style>
+      text{font-family:Arial,"Liberation Sans",sans-serif;fill:#172b4d}
+      .title{font-size:34px;font-weight:700}.subtitle{font-size:19px;fill:#475569}
+      .label{font-size:18px;font-weight:700}.small{font-size:16px;fill:#475569}
+      .line{stroke:#334155;stroke-width:3;fill:none;stroke-linecap:round;stroke-linejoin:round}
+      .leader{stroke:#64748b;stroke-width:2;fill:none}.teal{fill:#147d82}
+    </style>
+  </defs>
+  <rect width="1528" height="940" rx="24" fill="#f4f8fb"/>
+  <text class="title" x="54" y="62">Collecting recrystallised crystals</text>
+  <text class="subtitle" x="55" y="96">Vacuum filtration draws the liquid through quickly and leaves a solid cake on the paper.</text>
+  <text x="1472" y="60" text-anchor="end" font-size="15" font-weight="700" fill="#0f766e">AQA REQUIRED PRACTICAL 10</text>
+
+  <rect x="40" y="132" width="850" height="670" rx="18" fill="#fff" stroke="#cbd5e1" stroke-width="2"/>
+
+  <!-- Funnel body and filter bed -->
+  <rect x="310" y="205" width="360" height="170" fill="#e9f2f5" stroke="#334155" stroke-width="4"/>
+  <ellipse cx="490" cy="205" rx="180" ry="23" fill="#fff" stroke="#334155" stroke-width="4"/>
+  <path d="M315 354 Q490 372 665 354" fill="none" stroke="#147d82" stroke-width="8"/>
+  <path d="M321 344 Q490 360 659 344" fill="none" stroke="#475569" stroke-width="4" stroke-dasharray="5 12"/>
+  <path d="M350 225 L630 225 L628 333 Q490 352 352 333 Z" fill="#edf8fb" stroke="#147d82" stroke-width="2"/>
+  <path d="M380 316 Q490 331 600 316 L598 340 Q490 356 382 340 Z" fill="#d7a64a" stroke="#9a6611" stroke-width="2"/>
+  <circle cx="421" cy="326" r="5" fill="#fff2c6"/><circle cx="457" cy="334" r="5" fill="#fff2c6"/><circle cx="496" cy="331" r="5" fill="#fff2c6"/><circle cx="535" cy="329" r="5" fill="#fff2c6"/><circle cx="569" cy="325" r="5" fill="#fff2c6"/>
+  <text class="small" x="490" y="275" text-anchor="middle">cooled crystal suspension</text>
+  <path d="M490 357 L490 393" stroke="#147d82" stroke-width="4" marker-end="url(#arrow)"/>
+  <path d="M421 360 L442 496 L538 496 L559 360 Z" fill="#e9f2f5" stroke="#334155" stroke-width="4" stroke-linejoin="round"/>
+
+  <!-- Adapter and flask -->
+  <path d="M414 474 Q490 498 566 474 L552 515 Q490 532 428 515 Z" fill="#c9d7e2" stroke="#334155" stroke-width="4"/>
+  <path d="M431 499 L431 557 C431 575 397 597 376 640 C352 690 374 745 415 761 L565 761 C606 745 628 690 604 640 C583 597 549 575 549 557 L549 499" fill="#f8fbfd" stroke="#334155" stroke-width="4" stroke-linejoin="round"/>
+  <path d="M383 687 Q490 671 598 687 L598 724 Q490 770 382 724 Z" fill="#bfe7e5" opacity=".9"/>
+  <path d="M549 605 L676 605 L676 629 L747 629" fill="none" stroke="#334155" stroke-width="18" stroke-linejoin="round"/>
+  <path d="M549 605 L676 605 L676 629 L747 629" fill="none" stroke="#9ddad4" stroke-width="9" stroke-linejoin="round"/>
+  <rect x="744" y="590" width="96" height="80" rx="12" fill="#e5eef3" stroke="#334155" stroke-width="3"/>
+  <text class="small" x="792" y="621" text-anchor="middle">vacuum</text>
+  <text class="small" x="792" y="644" text-anchor="middle">source</text>
+
+  <!-- Labels -->
+  <text class="label" x="67" y="229">Büchner funnel</text>
+  <path class="leader" d="M227 223 L295 223"/>
+  <text class="label" x="67" y="292">crystals retained</text>
+  <text class="small" x="67" y="316">on filter paper</text>
+  <path class="leader" d="M245 300 L391 340"/>
+  <text class="label" x="680" y="242">wetted filter paper</text>
+  <path class="leader" d="M677 251 L623 352"/>
+  <text class="label" x="670" y="401">perforated plate</text>
+  <path class="leader" d="M669 409 L571 356"/>
+  <text class="label" x="77" y="520">rubber adapter</text>
+  <path class="leader" d="M220 514 L418 490"/>
+  <text class="label" x="77" y="696">filtrate collected</text>
+  <text class="small" x="77" y="720">in the flask</text>
+  <path class="leader" d="M224 700 L377 700"/>
+  <text class="label" x="656" y="563">side-arm flask</text>
+  <path class="leader" d="M651 570 L579 607"/>
+  <text class="small" x="666" y="713">vacuum tubing</text>
+  <path class="leader" d="M661 705 L632 629"/>
+
+  <rect x="918" y="132" width="570" height="670" rx="18" fill="#fff" stroke="#cbd5e1" stroke-width="2"/>
+  <text x="957" y="183" font-size="25" font-weight="700" fill="#0f766e">Safe, effective sequence</text>
+  <circle cx="974" cy="239" r="18" fill="#d9f1ed"/><text x="974" y="245" text-anchor="middle" font-size="18" font-weight="700">1</text>
+  <text class="label" x="1008" y="237">Seat the paper</text>
+  <text class="small" x="1008" y="264">Fit paper flat over the holes and wet it</text>
+  <text class="small" x="1008" y="286">with a little of the cold solvent.</text>
+  <circle cx="974" cy="342" r="18" fill="#d9f1ed"/><text x="974" y="348" text-anchor="middle" font-size="18" font-weight="700">2</text>
+  <text class="label" x="1008" y="340">Start suction, then pour</text>
+  <text class="small" x="1008" y="367">Check the funnel seals to the flask.</text>
+  <text class="small" x="1008" y="389">Transfer the cooled crystal mixture.</text>
+  <circle cx="974" cy="445" r="18" fill="#d9f1ed"/><text x="974" y="451" text-anchor="middle" font-size="18" font-weight="700">3</text>
+  <text class="label" x="1008" y="443">Wash the crystal cake</text>
+  <text class="small" x="1008" y="470">Rinse with a small amount of cold solvent</text>
+  <text class="small" x="1008" y="492">to remove solution without dissolving</text>
+  <text class="small" x="1008" y="514">much product.</text>
+  <circle cx="974" cy="569" r="18" fill="#d9f1ed"/><text x="974" y="575" text-anchor="middle" font-size="18" font-weight="700">4</text>
+  <text class="label" x="1008" y="567">Draw air through briefly</text>
+  <text class="small" x="1008" y="594">Keep suction on to remove more solvent,</text>
+  <text class="small" x="1008" y="616">then switch off the vacuum source.</text>
+  <rect x="957" y="660" width="493" height="99" rx="12" fill="#fff4dc"/>
+  <text x="980" y="693" font-size="17" font-weight="700" fill="#8a5b10">Keep hot gravity filtration separate</text>
+  <text class="small" x="980" y="720">Use it only to remove insoluble impurities from a hot</text>
+  <text class="small" x="980" y="742">solution; vacuum filtration is for cooled crystals.</text>
+
+  <text x="1478" y="914" text-anchor="end" font-size="15" font-weight="700" fill="#47647b">MARLBRIDGE • STUDY RESOURCES</text>
+<g aria-label="Marlbridge watermark" opacity="0.72"><text x="764" y="912" text-anchor="middle" font-family="Arial,sans-serif" font-size="16" font-weight="700" letter-spacing="3" fill="#31516e">MARLBRIDGE STUDY RESOURCES</text></g>
+<image href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI2MjIiIGhlaWdodD0iMTUyIiB2aWV3Qm94PSIwIDAgNjIyIDE1MiI+PGcgdHJhbnNmb3JtPSJzY2FsZSgwLjc2KSI+PGcgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoNC4wLC00LjApIj48cGF0aCBkPSJNODMgNDYgSDEyOS4wIEEyNi4wIDI2LjAgMCAwIDEgMTI5LjAgOTggSDEzMC4wIEEzMi4wIDMyLjAgMCAwIDEgMTMwLjAgMTYyIEg4MyBaIE0xMDQgNjYgSDEyMy4wIEExMi4wIDEyLjAgMCAwIDEgMTIzLjAgOTAuMCBIMTA0IFogTTEwNCAxMDYuMCBIMTI0LjAgQTE4LjAgMTguMCAwIDAgMSAxMjQuMCAxNDIgSDEwNCBaIiBmaWxsPSIjQzlBMjI3IiBmaWxsLXJ1bGU9ImV2ZW5vZGQiLz48cGF0aCBkPSJNMzAgMTYyIEwzMCA0NiBMNTEgNDYgTDY3LjAgMTE2IEw4MyA0NiBMMTA0IDQ2IEwxMDQgMTYyIEw4MyAxNjIgTDgzIDg1LjkgTDY3LjAgMTUwIEw1MSA4NS45IEw1MSAxNjIgWiIgZmlsbD0iIzBCMUYzQSIvPjwvZz48L2c+PGcgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoMTc4LjAsOTcuMCkgc2NhbGUoMC40MikiIGZpbGw9IiMwQjFGM0EiPjxnIHRyYW5zZm9ybT0ic2NhbGUoMC4xNDk5MjUsLTAuMTQ5OTI1KSI+PGcgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoMCwwKSI+PHBhdGggZD0iTTEyNiA2NFY2MDRRODkgNjI0IDMwIDYzMUwzNCA2NjdIMjI3TDQ1MSAxMjNMNjY3IDY2N0g4NThMODUzIDYzMVE3OTggNjI1IDc2MSA2MDRWNjRRNzk0IDQ1IDg1OCAzN0w4NTQgMEg1NzZMNTgxIDM3UTYxMCA0MCA2MzEuNSA0Ni4wUTY1MyA1MiA2NzMgNjRWNTI5SDY2OUw0NjYgMEg0MDdMMTk0IDUzOEgxOTBWNjRRMjI1IDQzIDI4NyAzN0wyODMgMEgzMEwzNSAzN1E5MiA0MyAxMjYgNjRaIi8+PC9nPjxnIHRyYW5zZm9ybT0idHJhbnNsYXRlKDEwMDguMCwwKSI+PHBhdGggZD0iTTc3IDYzIDI2NCA2NjdIMzI0TDUzMCA2MlE1NTUgNDQgNTk2IDM3TDU5MiAwSDM0MkwzNDcgMzdRNDA1IDQ0IDQzOSA2NEwzODggMjE1SDE4NkwxNDAgNjRRMTczIDQ1IDIzNyAzN0wyMzMgMEgxTDYgMzdRMjkgNDEgNDUuMCA0Ni4wUTYxIDUxIDc3IDYzWk0zNzEgMjY3IDI4MyA1MjggMjAyIDI2N1oiLz48L2c+PGcgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoMTcyNy4wLDApIj48cGF0aCBkPSJNMTI4IDY0VjYwNFE5MyA2MjQgMzAgNjMxTDM1IDY2N0gyOTJRNTIxIDY2NyA1MjEgNDkxUTUyMSA0MjUgNDg3LjUgMzg0LjBRNDU0IDM0MyAzODMgMzI2UTQwMiAzMTQgNDE2LjUgMjkzLjBRNDMxIDI3MiA0NDUgMjQwTDUyNCA2NFE1NTQgNDQgNjA4IDM4TDYwMiAwSDQ1MUwzNjQgMjIzUTM0NyAyNjYgMzM0LjUgMjgzLjBRMzIyIDMwMCAzMDIuMCAzMDUuNVEyODIgMzExIDIzNiAzMTFIMjE2VjY0UTIzMSA1NSAyNTMuMCA0OC41UTI3NSA0MiAzMTMgMzdMMzA4IDBIMzFMMzYgMzdROTQgNDQgMTI4IDY0Wk00MzEgNDkzUTQzMSA1NTkgMzk1LjUgNTkyLjVRMzYwIDYyNiAyOTEgNjI2UTI1NyA2MjYgMjE2IDYxOVYzNTdIMjQ3UTM0MSAzNTcgMzg2LjAgMzkwLjVRNDMxIDQyNCA0MzEgNDkzWiIvPjwvZz48ZyB0cmFuc2Zvcm09InRyYW5zbGF0ZSgyNDYwLjAsMCkiPjxwYXRoIGQ9Ik0xMjYgNjRWNjA0UTg5IDYyNCAzMCA2MzFMMzUgNjY3SDMxMkwzMDcgNjMxUTI1MiA2MjQgMjE1IDYwNFY1OEg0MDJRNDMzIDEwMiA0NDUgMTcxUTQ1MyAxNzQgNDYzIDE3NFE0NzMgMTc0IDQ4NSAxNzFMNDc2IDBIMzBMMzYgMzdROTUgNDQgMTI2IDY0WiIvPjwvZz48ZyB0cmFuc2Zvcm09InRyYW5zbGF0ZSgzMDgxLjAsMCkiPjxwYXRoIGQ9Ik0xMjggNjRWNjA0UTkzIDYyNCAzMCA2MzFMMzUgNjY3SDI5NFE0MDkgNjY3IDQ2Ni4wIDYyNC41UTUyMyA1ODIgNTIzIDUwMVE1MjMgMzg3IDQwNiAzNTRRNDc1IDMzNCA1MTMuMCAyOTEuNVE1NTEgMjQ5IDU1MSAxODhRNTUxIDEwMSA0OTAuNSA1MC41UTQzMCAwIDMyMSAwSDMxTDM2IDM3UTk0IDQ0IDEyOCA2NFpNNDM2IDQ5OVE0MzYgNTYyIDQwMS41IDU5MS41UTM2NyA2MjEgMjkzIDYyMVEyNjAgNjIxIDIxNiA2MTdWMzc2SDI5NlEzNjggMzc2IDQwMi4wIDQwNi4wUTQzNiA0MzYgNDM2IDQ5OVpNNDYwIDE4N1E0NjAgMjU0IDQxOC41IDI5MC41UTM3NyAzMjcgMjk1IDMyN0gyMTZWNTNRMjU4IDQ5IDMyMSA0OVEzOTAgNDkgNDI1LjAgODQuNVE0NjAgMTIwIDQ2MCAxODdaIi8+PC9nPjxnIHRyYW5zZm9ybT0idHJhbnNsYXRlKDM3ODAuMCwwKSI+PHBhdGggZD0iTTEyOCA2NFY2MDRROTMgNjI0IDMwIDYzMUwzNSA2NjdIMjkyUTUyMSA2NjcgNTIxIDQ5MVE1MjEgNDI1IDQ4Ny41IDM4NC4wUTQ1NCAzNDMgMzgzIDMyNlE0MDIgMzE0IDQxNi41IDI5My4wUTQzMSAyNzIgNDQ1IDI0MEw1MjQgNjRRNTU0IDQ0IDYwOCAzOEw2MDIgMEg0NTFMMzY0IDIyM1EzNDcgMjY2IDMzNC41IDI4My4wUTMyMiAzMDAgMzAyLjAgMzA1LjVRMjgyIDMxMSAyMzYgMzExSDIxNlY2NFEyMzEgNTUgMjUzLjAgNDguNVEyNzUgNDIgMzEzIDM3TDMwOCAwSDMxTDM2IDM3UTk0IDQ0IDEyOCA2NFpNNDMxIDQ5M1E0MzEgNTU5IDM5NS41IDU5Mi41UTM2MCA2MjYgMjkxIDYyNlEyNTcgNjI2IDIxNiA2MTlWMzU3SDI0N1EzNDEgMzU3IDM4Ni4wIDM5MC41UTQzMSA0MjQgNDMxIDQ5M1oiLz48L2c+PGcgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoNDUxMy4wLDApIj48cGF0aCBkPSJNMTI4IDY0VjYwNFE4OSA2MjQgMzAgNjMxTDM1IDY2N0gzMTJMMzA3IDYzMVEyNTMgNjI0IDIxNiA2MDRWNjRRMjQ5IDQ1IDMxMyAzN0wzMDggMEgzMEwzNiAzN1E5NCA0NCAxMjggNjRaIi8+PC9nPjxnIHRyYW5zZm9ybT0idHJhbnNsYXRlKDQ5NzYuMCwwKSI+PHBhdGggZD0iTTEyNyA2M1Y2MDRROTIgNjIzIDMwIDYzMUwzNSA2NjdIMjUwUTQyNSA2NjcgNTEyLjAgNTg3LjBRNTk5IDUwNyA1OTkgMzMzUTU5OSAxNTggNTExLjUgNzkuMFE0MjQgMCAyNDQgMEgzMUwzNiAzN1E2NiA0MSA4Ny4wIDQ2LjBRMTA4IDUxIDEyNyA2M1pNNDk5IDMzNFE0OTkgNDg5IDQ0MS4wIDU1My4wUTM4MyA2MTcgMjY0IDYxN0gyMTZWNTNRMjMzIDQ5IDI2MSA0OVEzODEgNDkgNDQwLjAgMTEzLjVRNDk5IDE3OCA0OTkgMzM0WiIvPjwvZz48ZyB0cmFuc2Zvcm09InRyYW5zbGF0ZSg1NzIxLjAsMCkiPjxwYXRoIGQ9Ik0yNiAzMzRRMjYgNTAwIDg5LjUgNTg4LjBRMTUzIDY3NiAyOTkgNjc2UTM0OSA2NzYgMzk3LjUgNjYyLjBRNDQ2IDY0OCA0NzguMCA2MTguMFE1MTAgNTg4IDUxMCA1NDRRNTEwIDUwOSA0OTIuNSA0ODcuMFE0NzUgNDY1IDQ1MSA0NjVRNDMxIDQ2NSA0MTUuMCA0NzYuMFEzOTkgNDg3IDM5MyA1MDRRNDEyIDUzMiA0MTIgNTU0UTQxMiA1ODcgMzgwLjUgNjA0LjVRMzQ5IDYyMiAzMDAgNjIyUTE5OCA2MjIgMTYyLjUgNTQ2LjBRMTI3IDQ3MCAxMjcgMzM0UTEyNyAxOTkgMTYyLjAgMTIyLjVRMTk3IDQ2IDI5OCA0NlEzMzkgNDYgMzczLjAgNTguNVE0MDcgNzEgNDIxIDgzVjI1OFEzODAgMjc1IDMxOSAyNzlMMzIzIDMxNkw1MTAgMzI1VjQyUTQ2OSAxOSA0MTEuMCA2LjBRMzUzIC03IDI5OCAtN1ExNTEgLTcgODguNSA4MC41UTI2IDE2OCAyNiAzMzRaIi8+PC9nPjxnIHRyYW5zZm9ybT0idHJhbnNsYXRlKDYzODAuMCwwKSI+PHBhdGggZD0iTTEyOCA2NFY2MDRROTAgNjI0IDMwIDYzMUwzNSA2NjdINDgxTDQ4OSA1MTVRNDc2IDUxMCA0NjEgNTEwUTQ1NiA1MTAgNDQ2IDUxMlE0MzMgNTc4IDQwNCA2MTRIMjE2VjM2NEwzMjkgMzY5UTM1MCAzNzAgMzYzLjAgMzg4LjBRMzc2IDQwNiAzODUgNDM2SDQxN1YyMzhIMzg1UTM3MyAyODEgMzYyLjAgMjk2LjBRMzUxIDMxMSAzMjYgMzEyTDIxNiAzMThWNThINDI5UTQ1OSAxMDAgNDcyIDE3MVE0ODQgMTczIDQ5MSAxNzNRNDk2IDE3MyA1MTIgMTcxTDUwMyAwSDMwTDM2IDM3UTYyIDQwIDg5LjUgNDcuNVExMTcgNTUgMTI4IDY0WiIvPjwvZz48L2c+PC9nPjwvc3ZnPg==" x="1300" y="18" width="170" height="42" preserveAspectRatio="xMidYMid meet"/></svg>

@@ -164,6 +164,14 @@ of the specification -- confirm your code before including them.
 
 ## Worked example: marketing objective calculations
 
+<!-- marlbridge-diagram:business-oxfordaqa-marketing-objective-calculations -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/business/business-oxfordaqa-marketing-objective-calculations.svg" aria-label="Open full-size diagram: business-oxfordaqa-marketing-objective-calculations"><img src="/images/learning/business/business-oxfordaqa-marketing-objective-calculations.svg" width="1600" height="1050" alt="Four marketing objective calculations for market share, customer retention, sales per employee and sales per store." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Calculate the measure, then interpret it against the marketing objective. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:business-oxfordaqa-marketing-objective-calculations -->
+
+
 The specification requires calculations for named marketing
 objectives, not just definitions of them:
 

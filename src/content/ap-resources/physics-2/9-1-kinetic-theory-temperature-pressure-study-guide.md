@@ -140,7 +140,7 @@ Pressure is not just something that happens at the walls. Imagine a small, flat 
 
 ### Going further (background, not required)
 
-For one atom moving back and forth between two walls a distance L apart, with velocity component v_x, the time between hits on the same wall is 2L/v_x. The average force on that wall is 2m v_x ÷ (2L/v_x) = m v_x²/L. If you add up this result for N atoms moving in random directions in a box of volume V, you get PV = (1/3)N m v_rms² = (2/3)N K_avg. Combined with the next section, this gives PV = N k_B T, the ideal gas law of Topic 9.2. You do not need to reproduce this derivation, but it shows how the collision picture and the temperature picture fit together.
+For one atom moving back and forth between two walls a distance L apart, let |v_x| be the magnitude of its velocity component normal to those walls. For |v_x| > 0, the positive time between hits on the same wall is 2L/|v_x|. Each hit transfers a normal impulse of magnitude 2m|v_x| to the wall, so the average force magnitude is 2m|v_x| ÷ (2L/|v_x|) = m v_x²/L. An atom with v_x = 0 makes no hits on that wall in this simplified one-atom motion. If you add up this result for N atoms moving in random directions in a box of volume V, you get PV = (1/3)N m v_rms² = (2/3)N K_avg. Combined with the next section, this gives PV = N k_B T, the ideal gas law of Topic 9.2. You do not need to reproduce this derivation, but it shows how the collision picture and the temperature picture fit together.
 
 ## Temperature and the motion of atoms
 

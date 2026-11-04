@@ -203,6 +203,13 @@ Circuit diagrams use standard symbols drawn with straight lines and right angles
 | Ammeter | A circle containing the letter A |
 | Voltmeter | A circle containing the letter V |
 
+<!-- marlbridge-diagram:phys-ocr-gcse-circuit-symbols-complete-sheet -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/physics/phys-ocr-gcse-circuit-symbols-complete-sheet.svg" aria-label="Open full-size diagram: OCR GCSE circuit symbols"><img src="/images/learning/physics/phys-ocr-gcse-circuit-symbols-complete-sheet.svg" width="1440" height="980" alt="A labelled OCR GCSE circuit-symbol sheet including cell, battery, positive and negative d.c. supply, switch, lamp, fixed and variable resistor, diode, LDR, NTC thermistor, ammeter and voltmeter." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>The complete symbol set in P3.2b, including the diode and both sensor symbols. — Marlbridge Physics.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:phys-ocr-gcse-circuit-symbols-complete-sheet -->
+
 Terminal conventions matter on a diagram. The positive terminal of a cell or supply is marked with a plus sign or by the longer line. Conventional current leaves the positive terminal. A diode conducts in one direction only, so the way round it is drawn matters.
 
 ### Reading a diagram
@@ -214,6 +221,13 @@ Find the source and its positive terminal, then trace conventional current from 
 A student wants to measure the current through a filament lamp and the potential difference across it. Describe how to connect the meters.
 
 Connect a cell, a switch and the lamp in series. Place the ammeter in series, in the same loop, so the current in the lamp passes through it. Connect the voltmeter in parallel with the lamp, with one terminal on each side of the lamp.
+
+<!-- marlbridge-diagram:phys-ocr-gcse-lamp-meter-test-circuit -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/physics/phys-ocr-gcse-lamp-meter-test-circuit.svg" aria-label="Open full-size diagram: test circuit with ammeter and voltmeter"><img src="/images/learning/physics/phys-ocr-gcse-lamp-meter-test-circuit.svg" width="1440" height="740" alt="A closed cell circuit with a switch and ammeter in series with a test lamp, and a voltmeter connected in parallel across the lamp. Conventional current direction is marked." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>The ammeter measures the lamp current in series; the voltmeter measures the lamp's potential difference in parallel. — Marlbridge Physics.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:phys-ocr-gcse-lamp-meter-test-circuit -->
 
 ## Common errors
 

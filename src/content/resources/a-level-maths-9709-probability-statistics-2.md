@@ -202,6 +202,14 @@ The sample is large, so the CLT means you do not need to assume the population i
 
 ## 6.5 Hypothesis tests
 
+<!-- marlbridge-diagram:maths-ps2-hypothesis-test-workflow -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/mathematics/maths-ps2-hypothesis-test-workflow.svg" aria-label="Open full-size diagram: maths-ps2-hypothesis-test-workflow"><img src="/images/learning/mathematics/maths-ps2-hypothesis-test-workflow.svg" width="1600" height="1050" alt="Five-step right-tailed Poisson significance test using the lesson data, with Type I and Type II errors." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>State hypotheses, model, tail, decision and contextual conclusion. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:maths-ps2-hypothesis-test-workflow -->
+
+
 Vocabulary: **null hypothesis** H₀ (the parameter has its usual value), **alternative hypothesis** H₁ (it has changed: <, > or ≠), **significance level**, **test statistic**, **rejection (critical) region**, **acceptance region**. A one-tailed test looks for change in one direction; a two-tailed test splits the significance level between both tails. Conclusions must be in context and not overstated: "there is evidence at the 5% level that…" or "there is insufficient evidence that…".
 
 **Binomial, direct evaluation.** A claim says p = 0.3. In 20 trials there are 2 successes. Test H₀: p = 0.3 against H₁: p < 0.3 at the 5% level.

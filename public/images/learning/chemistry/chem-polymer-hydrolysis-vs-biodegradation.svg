@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1500 900" role="img" aria-labelledby="title desc">
+  <title id="title">Chemical hydrolysis and biodegradation are different processes</title>
+  <desc id="desc">Two separate routes show that ester or amide links in some condensation polymers can be hydrolysed by acid or alkali to smaller products, while biodegradation additionally depends on polymer structure and accessibility, organisms or enzymes, and environmental conditions. PET and nylon can persist for long periods.</desc>
+  <rect width="1500" height="900" rx="28" fill="#f8fafc"/>
+  <text x="70" y="88" font-family="Arial,sans-serif" font-size="42" font-weight="700" fill="#17324d">Hydrolysable does not automatically mean biodegradable</text>
+  <text x="72" y="136" font-family="Arial,sans-serif" font-size="25" fill="#526b80">Separate a chemical reaction pathway from biological breakdown in an environment.</text>
+  <rect x="72" y="205" width="640" height="500" rx="24" fill="#eef6fc" stroke="#bfd4e4" stroke-width="3"/>
+  <rect x="788" y="205" width="640" height="500" rx="24" fill="#edf7f2" stroke="#b8ded5" stroke-width="3"/>
+  <text x="120" y="270" font-family="Arial,sans-serif" font-size="30" font-weight="700" fill="#17324d">Chemical hydrolysis</text>
+  <text x="120" y="315" font-family="Arial,sans-serif" font-size="22" fill="#526b80">Can cleave susceptible ester or amide links</text>
+  <rect x="125" y="365" width="530" height="95" rx="16" fill="#fff" stroke="#9eb8cb" stroke-width="2"/>
+  <text x="155" y="407" font-family="Arial,sans-serif" font-size="22" font-weight="700" fill="#17324d">Condensation polymer</text>
+  <text x="155" y="439" font-family="Arial,sans-serif" font-size="20" fill="#526b80">–COO– or –CONH– link in chain</text>
+  <line x1="390" y1="480" x2="390" y2="535" stroke="#137c80" stroke-width="6"/>
+  <path d="M378 524 L390 540 L402 524" fill="#137c80"/>
+  <text x="145" y="574" font-family="Arial,sans-serif" font-size="22" fill="#315b61">Acid or alkali + water</text>
+  <rect x="125" y="605" width="530" height="65" rx="16" fill="#fff" stroke="#9eb8cb" stroke-width="2"/>
+  <text x="155" y="647" font-family="Arial,sans-serif" font-size="22" font-weight="700" fill="#17324d">Smaller chemical products</text>
+  <text x="835" y="270" font-family="Arial,sans-serif" font-size="30" font-weight="700" fill="#075a5c">Biodegradation</text>
+  <text x="835" y="315" font-family="Arial,sans-serif" font-size="22" fill="#526b80">Requires biological and environmental conditions</text>
+  <rect x="840" y="365" width="535" height="82" rx="16" fill="#fff" stroke="#9dc8ba" stroke-width="2"/>
+  <text x="875" y="414" font-family="Arial,sans-serif" font-size="21" font-weight="700" fill="#17324d">Polymer structure + accessibility</text>
+  <text x="1090" y="470" font-family="Arial,sans-serif" font-size="21" fill="#315b61">+</text>
+  <rect x="840" y="500" width="535" height="82" rx="16" fill="#fff" stroke="#9dc8ba" stroke-width="2"/>
+  <text x="875" y="549" font-family="Arial,sans-serif" font-size="21" font-weight="700" fill="#17324d">Organisms / enzymes + conditions</text>
+  <line x1="1107" y1="595" x2="1107" y2="620" stroke="#137c80" stroke-width="5"/>
+  <path d="M1097 613 L1107 626 L1117 613" fill="#137c80"/>
+  <text x="875" y="662" font-family="Arial,sans-serif" font-size="21" font-weight="700" fill="#075a5c">Breakdown may be slow or limited.</text>
+  <rect x="72" y="740" width="1356" height="85" rx="18" fill="#fff4df" stroke="#ead3a6" stroke-width="3"/>
+  <text x="112" y="792" font-family="Arial,sans-serif" font-size="23" font-weight="700" fill="#6b4d18">PET and nylon can persist for long periods; hydrolysis by acid/alkali is not proof of rapid natural biodegradation.</text>
+  <text x="72" y="868" font-family="Arial,sans-serif" font-size="19" fill="#65798a">MARLBRIDGE • Schematic; rates depend on the particular polymer and conditions.</text>
+</svg>

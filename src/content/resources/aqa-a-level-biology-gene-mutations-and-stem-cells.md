@@ -73,6 +73,11 @@ Original polypeptide: Met-Leu-Gly-Thr-Lys-Asp-Arg, then stop.
 
 ### Worked example 2: additions and deletions
 
+
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <!-- marlbridge-diagram:biology-mutation-reading-frame --><a href="/images/learning/biology/biology-mutation-reading-frame.svg" aria-label="Open full-size diagram: A single-base addition shifts the reading frame" title="A single-base addition shifts the reading frame"><img src="/images/learning/biology/biology-mutation-reading-frame.svg" width="1000" height="650" alt="Worked mRNA example: a substitution changes one codon, whereas a one-base insertion after AUG changes every downstream codon grouping. Mutations may be silent or have different effects; the displayed sequences are illustrative." title="A single-base addition shifts the reading frame" loading="lazy" decoding="async" style="display:block;width:100%;height:auto;" /></a>
+  <figcaption>A sequence example contrasts a base substitution with a one-base addition that shifts downstream codon grouping. Select the diagram to enlarge it.</figcaption>
+</figure>
 Use the same mRNA, written as a string: AUGCUUGGCACCAAGGAUCGUUAG.
 
 - **Add one G after AUG.** New reading: AUG GCU UGG CAC CAA GGA UCG UUA G. This gives Met-Ala-Trp-His-Gln-Gly-Ser-Leu. Every amino acid after Met differs, and the original stop codon is no longer read as a stop. This is a frame shift.
@@ -107,6 +112,11 @@ All the cells in your body that came from the zygote by mitosis carry the same g
 
 ### Potency
 
+
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <!-- marlbridge-diagram:biology-stem-cell-potency --><a href="/images/learning/biology/biology-stem-cell-potency.svg" aria-label="Open full-size diagram: Stem-cell potency narrows as lineages specialize" title="Stem-cell potency narrows as lineages specialize"><img src="/images/learning/biology/biology-stem-cell-potency.svg" width="1000" height="650" alt="Conceptual range: totipotent cells can contribute to embryonic and extraembryonic tissues; pluripotent cells form body-cell lineages; multipotent cells form several related types; unipotent cells form one type. The examples are schematic and do not imply every cell follows one fixed developmental ladder." title="Stem-cell potency narrows as lineages specialize" loading="lazy" decoding="async" style="display:block;width:100%;height:auto;" /></a>
+  <figcaption>Compare totipotent, pluripotent, multipotent and unipotent potential; the examples are a conceptual range, not one fixed pathway. Select the diagram to enlarge it.</figcaption>
+</figure>
 | Type | Can become | Where found |
 |---|---|---|
 | Totipotent | Any type of body cell | Only for a limited time in early mammalian embryos |

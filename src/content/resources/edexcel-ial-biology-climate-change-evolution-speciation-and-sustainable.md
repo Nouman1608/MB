@@ -128,7 +128,14 @@ The temperature coefficient is Q₁₀ = (rate at T + 10 °C) ÷ (rate at T). A 
 3. After a fixed time (such as 24 hours), count the hatched nauplii.
 4. Repeat each temperature at least three times.
 
-**Results.** Hatched out of 100: 15 °C: 12, 15, 9; 20 °C: 31, 28, 34; 25 °C: 58, 61, 55; 30 °C: 83, 79, 86; 35 °C: 40, 44, 37. The means are 12, 31, 58, 83 and 40 (rounded), so the hatch percentage rises to 30 °C and falls at 35 °C because of denaturation. Between 20 and 30 °C, Q₁₀ = 82.7 ÷ 31.0 = 2.7 (2 s.f.).
+**Results.** Hatched out of 100: 15 °C: 12, 15, 9; 20 °C: 31, 28, 34; 25 °C: 58, 61, 55; 30 °C: 83, 79, 86; 35 °C: 40, 44, 37. The means are 12, 31, 58, 83 and 40 (rounded), so in this example hatch percentage rises to 30 °C and then falls at 35 °C. These data show a decline above the observed peak; they do not by themselves prove denaturation as the mechanism. Between 20 and 30 °C, Q₁₀ = 82.7 ÷ 31.0 = 2.7 (2 s.f.).
+
+<!-- marlbridge-diagram:bio-ial-core-practical-12-temperature-development -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/biology/bio-ial-core-practical-12-temperature-development.svg" aria-label="Open full-size diagram: bio-ial-core-practical-12-temperature-development"><img src="/images/learning/biology/bio-ial-core-practical-12-temperature-development.svg" width="1528" height="940" alt="Core Practical 12: replicate brine-shrimp hatching tests in controlled-temperature water baths, with the lesson's illustrative mean hatch percentages plotted against temperature." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Core Practical 12: compare replicate means while controlling other conditions. This illustrative species-specific pattern does not prove a mechanism. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:bio-ial-core-practical-12-temperature-development -->
 
 **Seedlings.** Keep species, seed number, depth, water and light constant and measure length after a fixed time.
 

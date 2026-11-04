@@ -109,6 +109,17 @@ losses incurred and through drawings, meaning cash or goods the owner
 takes out of the business for personal use.
 
 ## How a single transaction keeps the equation balanced
+<!-- marlbridge-diagram:ac-igcse-accounting-equation-transaction-balance -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/accounting/ac-igcse-accounting-equation-transaction-balance.svg" aria-label="Open full-size diagram: ac-igcse-accounting-equation-transaction-balance">
+    <picture>
+      <source media="(max-width: 640px)" srcset="/images/learning/accounting/ac-igcse-accounting-equation-transaction-balance-mobile.svg" />
+      <img src="/images/learning/accounting/ac-igcse-accounting-equation-transaction-balance.svg" width="1600" height="1050" alt="The equation assets = capital + liabilities remains balanced when a $5,000 loan increases cash and liabilities, or $500 drawings reduce cash and capital." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" />
+    </picture>
+  </a>
+  <figcaption>A transaction map shows a loan and drawings changing two sides of the accounting equation by equal amounts. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:ac-igcse-accounting-equation-transaction-balance -->
 
 Because every transaction affects at least two elements of the
 accounting equation at once, it is worth working through a concrete

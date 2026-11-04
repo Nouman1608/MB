@@ -91,6 +91,14 @@ These values leap about and run away. The root has not changed; the rearrangemen
 
 ## Staircase and cobweb diagrams, and convergence
 
+<!-- marlbridge-diagram:math-b42-oxfordaqa-fixed-point-staircase-convergence -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/mathematics/math-b42-oxfordaqa-fixed-point-staircase-convergence.svg" aria-label="Open full-size diagram: math-b42-oxfordaqa-fixed-point-staircase-convergence"><img src="/images/learning/mathematics/math-b42-oxfordaqa-fixed-point-staircase-convergence.svg" width="1600" height="1050" alt="Fixed-point iteration: staircase converging to a root" loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Fixed-point iteration: staircase converging to a root Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:math-b42-oxfordaqa-fixed-point-staircase-convergence -->
+
+
 Draw y = x and y = g(x) on the same axes. Their intersection is the root α. To show an iteration:
 
 1. Start at x₁ on the x-axis and go vertically to the curve y = g(x). The height is x₂.
@@ -152,6 +160,14 @@ h = (2 − 0)/4 = 0.5. Midpoints: 0.25, 0.75, 1.25, 1.75.
 Sum = 1.63386. Estimate = 0.5 × 1.63386 = **0.817** (3 d.p.). The exact value is ½ ln 5 = 0.805, so the estimate is slightly high.
 
 ## Simpson's rule
+
+<!-- marlbridge-diagram:math-b68-oxfordaqa-simpsons-rule-four-strips -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/public/images/learning/mathematics/math-b68-oxfordaqa-simpsons-rule-four-strips.svg" aria-label="Open full-size diagram: math-b68-oxfordaqa-simpsons-rule-four-strips"><img src="/public/images/learning/mathematics/math-b68-oxfordaqa-simpsons-rule-four-strips.svg" width="1528" height="940" alt="Curve y=x/(x²+1) with four strips, source ordinates, and paired quadratic approximations illustrating Simpson’s rule; estimate 0.808 compared with exact 0.805." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Curve y=x/(x²+1) with four strips, source ordinates, and paired quadratic approximations illustrating Simpson’s rule; estimate 0.808 compared with exact 0.805.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:math-b68-oxfordaqa-simpsons-rule-four-strips -->
+
 
 Simpson's rule needs an **even** number of strips, 2m, each of width h = (b − a)/(2m). With ordinates y₀, y₁, … , yₙ at the strip edges:
 

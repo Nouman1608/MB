@@ -61,6 +61,14 @@ Points to fix in your head:
 
 ## Worked example 1: calculating every ratio
 
+<!-- marlbridge-diagram:accounting-edexcel-ratio-dashboard -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/accounting/accounting-edexcel-ratio-dashboard.svg" aria-label="Open full-size diagram: accounting-edexcel-ratio-dashboard"><img src="/images/learning/accounting/accounting-edexcel-ratio-dashboard.svg" width="1600" height="1050" alt="Ratio dashboard groups profitability, efficiency, liquidity and working-capital measures for the Brindlewood example." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Ratio dashboard groups profitability, efficiency, liquidity and working-capital measures for the Brindlewood example. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:accounting-edexcel-ratio-dashboard -->
+
+
 Sanaa Okonjo runs Brindlewood Ceramics as a sole trader. Extracts for the year ended 31 March 2026:
 
 | Statement of profit or loss | $ |

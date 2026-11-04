@@ -211,6 +211,14 @@ x = [4 ± √(16 + 4)]/2 = [4 ± 2√5]/2 = 2 ± √5
 
 ### Quadratics in a function of the unknown
 
+<!-- marlbridge-diagram:math-b63-quartic-substitution-x-squared -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/public/images/learning/mathematics/math-b63-quartic-substitution-x-squared.svg" aria-label="Open full-size diagram: math-b63-quartic-substitution-x-squared"><img src="/public/images/learning/mathematics/math-b63-quartic-substitution-x-squared.svg" width="1528" height="940" alt="The source substitution u=x² turns 2x⁴−9x²+4=0 into 2u²−9u+4=(2u−1)(u−4)=0. Back-substitution gives x=±√2/2 and x=±2; all four real solutions are retained." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>The source substitution u=x² turns 2x⁴−9x²+4=0 into 2u²−9u+4=(2u−1)(u−4)=0. Back-substitution gives x=±√2/2 and x=±2; all four real solutions are retained. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:math-b63-quartic-substitution-x-squared -->
+
+
 Look for a repeated pattern, replace it with a new letter, solve, then go back.
 
 **Worked example 17.** Solve 2x⁴ − 9x² + 4 = 0.

@@ -108,6 +108,14 @@ the owner takes out are **drawings**, not expenses, and money the owner puts in 
 
 ## Concepts in the situations the specification names
 
+<!-- marlbridge-diagram:accounting-aqa-concepts-fernlea-profit-adjustments -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/accounting/accounting-aqa-concepts-fernlea-profit-adjustments.svg" aria-label="Open full-size diagram: accounting-aqa-concepts-fernlea-profit-adjustments"><img src="/images/learning/accounting/accounting-aqa-concepts-fernlea-profit-adjustments.svg" width="1600" height="1050" alt="Exact Fernlea year-end adjustments: entity, accruals and prudence." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Fernlea: apply concepts to correct profit Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:accounting-aqa-concepts-fernlea-profit-adjustments -->
+
+
 ### 1. Preparation of financial statements
 
 Every year-end adjustment is a concept at work. For each item ask: which concept requires this treatment, and

@@ -218,6 +218,14 @@ Check: the curve is y = 6√x, and ∫₁⁹ 6√x dx = [4x^(3/2)]₁⁹ = 104
 
 ## 1.08f Area between two curves (A Level only)
 
+<!-- marlbridge-diagram:math-b65-area-between-curves -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/public/images/learning/mathematics/math-b65-area-between-curves.svg" aria-label="Open full-size diagram: math-b65-area-between-curves"><img src="/public/images/learning/mathematics/math-b65-area-between-curves.svg" width="1528" height="940" alt="For y=x+4 and y=2x²−x, intersections are −1 and 2. At x=0 the line is above. Integrating the vertical difference over [−1,2] gives 9 square units, matching source worked example 15." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>For y=x+4 and y=2x²−x, intersections are −1 and 2. At x=0 the line is above. Integrating the vertical difference over [−1,2] gives 9 square units, matching source worked example 15. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:math-b65-area-between-curves -->
+
+
 Let y = f(x) be the upper curve and y = g(x) the lower curve for a ≤ x ≤ b. Then
 
 ```

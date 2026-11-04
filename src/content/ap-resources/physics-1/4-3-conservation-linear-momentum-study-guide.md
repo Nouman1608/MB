@@ -30,7 +30,7 @@ sources: ["ced-physics-1", "page-physics-1"]
 keyPoints:
   - "The total momentum of a system is the vector sum of the momenta of its parts: p_sys = m₁v₁ + m₂v₂ + …"
   - "The centre-of-mass velocity is v_cm = p_sys / (total mass). With no net external force, it stays constant."
-  - "Internal forces come in third-law pairs, so their impulses cancel. Only an external impulse can change a system's momentum: Δp_sys = F_net,ext Δt."
+  - "Internal forces come in third-law pairs, so their impulses cancel. Only an external impulse can change a system's momentum: Δp_sys = J_ext = F_avg,net,ext Δt, where F_avg,net,ext is the interval-average net external force."
   - "Whether momentum is constant depends on the system you choose. Momentum is never created or destroyed; it is moved between a system and its surroundings."
   - "In a short collision or explosion, external impulses are tiny, so total momentum just before equals total momentum just after."
 faqs:
@@ -102,7 +102,9 @@ Momentum is conserved in **every** interaction: none is ever created or destroye
 
 When momentum is transferred, the change equals the impulse from outside:
 
-**Δp_sys = J_ext = F_net,ext Δt**
+**Δp_sys = J_ext = F_avg, net, ext Δt**
+
+Here F_avg, net, ext is the **average net external force over the stated interval**. It equals the instantaneous force throughout the interval only when that force is constant.
 
 So you can often pick a system on purpose so that its momentum **is** constant. If two carts collide, choose both carts as the system: the forces between them become internal. If a ball falls, the ball alone is not a good choice, because gravity from Earth is external. The ball **and Earth** together form a system whose momentum stays constant (see Worked example 3).
 

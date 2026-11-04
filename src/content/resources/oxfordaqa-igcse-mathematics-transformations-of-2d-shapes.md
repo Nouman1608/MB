@@ -52,6 +52,13 @@ The original shape is the **object**. After a transformation it becomes the **im
 Congruent shapes have identical size and shape. Similar shapes have equal angles, and each side of one is the same multiple of the matching side of the other. Under an enlargement with scale factor k, areas are multiplied by k², not k. A **description** must be complete, so a single word such as "reflection" is never enough.
 
 ## Translation
+<!-- marlbridge-diagram:maths-b21-translation-coordinate-grid -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/mathematics/maths-b21-translation-coordinate-grid.svg" aria-label="Open full-size diagram: maths-b21-translation-coordinate-grid"><img src="/images/learning/mathematics/maths-b21-translation-coordinate-grid.svg" width="1528" height="940" alt="Triangle A(-3,1), B(-1,1), C(-1,4) is translated by vector (5,-2) to A′(2,-1), B′(4,-1), C′(4,2). The congruent triangles show equal movement at every vertex." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Add the same column vector to each vertex. A translation preserves lengths, angles and orientation. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:maths-b21-translation-coordinate-grid -->
+
 
 In a translation, every point of the shape moves by the same vector. The vector (a, b) means a units right (left if negative) and b units up (down if negative). Orientation and size do not change.
 

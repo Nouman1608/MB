@@ -133,7 +133,7 @@ A buffer with equal amounts (ratio 1) has equal capacity in both directions. Tha
 
 1. Convert every component to **moles** (concentration × volume). Capacity depends on amount, not concentration alone.
 2. For added **acid**, compare moles of the **conjugate base**. For added **base**, compare moles of the **weak acid**.
-3. Compare the amount to be added with the amount of the limiting component. If the addition is smaller, the buffer copes and the pH changes slightly. If it is larger, the buffer is overwhelmed and the pH changes sharply.
+3. Compare the addition with the relevant component moles. Exceeding that reservoir exhausts it, so excess strong acid or base then controls pH. Even an addition below that upper limit can change pH substantially if it consumes most of one component. To compare useful capacity, specify the allowed pH change and check how much the remaining conjugate-pair ratio changes.
 4. To raise capacity without changing pH, raise both amounts by the same factor.
 
 ## Worked example 1: same pH, different survival

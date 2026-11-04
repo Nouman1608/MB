@@ -136,6 +136,14 @@ OM = 8 cm
 
 ## 8.05f Radius and tangent (Higher tier only)
 
+<!-- marlbridge-diagram:math-b77-ocr-radius-tangent -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/public/images/learning/mathematics/math-b77-ocr-radius-tangent.svg" aria-label="Open full-size diagram: math-b77-ocr-radius-tangent"><img src="/public/images/learning/mathematics/math-b77-ocr-radius-tangent.svg" width="1528" height="940" alt="Circle with centre O and tangent at P; radius OP meets the tangent at a clearly marked right angle." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Circle with centre O and tangent at P; radius OP meets the tangent at a clearly marked right angle.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:math-b77-ocr-radius-tangent -->
+
+
 **Theorem.** For a point P on the circumference, the radius or diameter through P is perpendicular to the tangent at P.
 
 **Proof (by contradiction).** Every point of the tangent except P lies outside the circle, so is more than one radius from O. Suppose OP were not perpendicular to the tangent. Then the foot Q of the perpendicular from O to the tangent is a different point, with OQ shorter than OP (a perpendicular is the shortest distance to a line). But OP is a radius, so Q would be inside the circle. That is impossible, so OP is perpendicular to the tangent.

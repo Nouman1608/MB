@@ -99,6 +99,14 @@ a single calculated figure.
 
 ## Worked example: profitability versus liquidity
 
+<!-- marlbridge-diagram:business-ibdp-profitability-vs-liquidity -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/business/business-ibdp-profitability-vs-liquidity.svg" aria-label="Open full-size diagram: business-ibdp-profitability-vs-liquidity"><img src="/images/learning/business/business-ibdp-profitability-vs-liquidity.svg" width="1600" height="1050" alt="The lesson example contrasts 25% gross margin and positive net margin with a 0.6:1 current ratio." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>The lesson example contrasts 25% gross margin and positive net margin with a 0.6:1 current ratio. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:business-ibdp-profitability-vs-liquidity -->
+
+
 A business reports a healthy 25% gross profit margin and a positive
 net profit margin, but its current ratio is 0.6:1.
 

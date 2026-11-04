@@ -26,6 +26,14 @@ Related pages: [revision notes](/resources/ocr-gcse-physics-radiation-hazards-me
 
 ## What this unit covers
 
+<!-- marlbridge-diagram:phys-ocr-b27-medical-tracer-therapy-penetration -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/physics/phys-ocr-b27-medical-tracer-therapy-penetration.svg" aria-label="Open full-size diagram: phys-ocr-b27-medical-tracer-therapy-penetration"><img src="/images/learning/physics/phys-ocr-b27-medical-tracer-therapy-penetration.svg" width="1600" height="1050" alt="A GCSE comparison of two medical uses of radiation. In imaging, a small gamma-emitting tracer such as technetium-99m is taken up by an organ; gamma rays pass out through the body to an external detector, revealing the tracer location. Alpha radiation would not reach the detector. In treatment, gamma beams from several directions cross at a tumour, concentrating the dose there; a source can also be placed near the tumour or iodine-131 can target the thyroid. The diagram is qualitative." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>A GCSE comparison of two medical uses of radiation. In imaging, a small gamma-emitting tracer such as technetium-99m is taken up by an organ; gamma rays pass out through the body to an external detector, revealing the tracer location. Alpha radiation would not reach the detector. In treatment, gamma beams from several directions cross at a tumour, concentrating the dose there; a source can also be placed near the tumour or iodine-131 can target the thyroid. The diagram is qualitative. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:phys-ocr-b27-medical-tracer-therapy-penetration -->
+
+
 | Statement | What you must be able to do | Tier |
 |---|---|---|
 | P6.2a | Recall the differences between contamination and irradiation effects and compare the hazards of the two | Both tiers |
@@ -91,6 +99,13 @@ If the half-life were 3 years, the same working would give 15 years.
 
 ## Medical uses of radiation (P6.2c, Higher Tier only)
 
+<!-- marlbridge-diagram:phys-ocr-b19-medical-radiation -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/physics/phys-ocr-b19-medical-radiation.svg" aria-label="Open full-size diagram: Medical uses of radiation"><img src="/images/learning/physics/phys-ocr-b19-medical-radiation.svg" width="1600" height="1050" alt="Tracer activity is detected outside the body to reveal uptake; a shielded radiotherapy beam targets diseased tissue." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Contrasts internal tracer imaging with targeted radiotherapy while noting the schematic is not a clinical plan. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:phys-ocr-b19-medical-radiation -->
+
 Radiation is useful as well as harmful. In medicine it is used in two ways: to look inside the body, and to control or destroy unwanted tissue. The specification suggests researching radioactive tracers and radiotherapy.
 
 ### Exploring internal organs: tracers
@@ -106,6 +121,13 @@ A good tracer has these properties:
 One tracer in common use, technetium-99m, emits gamma rays and has a half-life of about six hours.
 
 ### Controlling or destroying unwanted tissue: radiotherapy
+<!-- marlbridge-diagram:phys-ocr-b25-radiotherapy-crossfire-targeting -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/physics/phys-ocr-b25-radiotherapy-crossfire-targeting.svg" aria-label="Open full-size diagram: phys-ocr-b25-radiotherapy-crossfire-targeting"><img src="/images/learning/physics/phys-ocr-b25-radiotherapy-crossfire-targeting.svg" width="1600" height="1050" alt="Three gamma-ray beams approach a tumour from different directions. Each beam passes through a different strip of healthy tissue, while the paths overlap at the tumour to deliver a greater combined dose. No numerical dose is implied." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>The source describes gamma-ray beams directed from several angles so that the tumour receives a high total dose while healthy tissue along each path receives less. This schematic has no numerical dose scale. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:phys-ocr-b25-radiotherapy-crossfire-targeting -->
+
 
 Ionising radiation damages cells. If enough radiation is absorbed by cancer cells, they are killed or stop dividing. In **radiotherapy** a beam of gamma rays is aimed at the tumour. Beams are directed from several angles so that the tumour receives a high total amount of radiation while healthy tissue along each path receives much less. Radioactive sources can also be placed inside or next to the tumour, or a radioactive isotope such as iodine-131 can be given that is taken up by the thyroid gland, so the radiation is delivered to the target.
 

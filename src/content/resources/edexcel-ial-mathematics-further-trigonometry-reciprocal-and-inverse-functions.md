@@ -93,6 +93,14 @@ For (b), a right-angled triangle with sides 3, 4, 5 gives the same result.
 
 ## 2.2 The identities sec² θ = 1 + tan² θ and cosec² θ = 1 + cot² θ
 
+<!-- marlbridge-diagram:maths-b17-further-trig -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/mathematics/maths-b17-further-trig.svg" aria-label="Open full-size diagram: maths-b17-further-trig"><img src="/images/learning/mathematics/maths-b17-further-trig.svg" width="1600" height="1050" alt="Reciprocal trigonometric identities and rewrite of 3 cos theta plus 4 sin theta as 5 cos of theta minus arctan four-thirds." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Reciprocal trigonometric identities and rewrite of 3 cos theta plus 4 sin theta as 5 cos of theta minus arctan four-thirds. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:maths-b17-further-trig -->
+
+
 Divide cos² θ + sin² θ = 1 by cos² θ to get 1 + tan² θ = sec² θ. Divide by sin² θ to get cot² θ + 1 = cosec² θ. Use them to turn an equation with mixed functions into a quadratic in one function.
 
 **Example 4.** Solve 2 cot² θ + cosec θ = 4 for 0 ≤ θ < 360°.

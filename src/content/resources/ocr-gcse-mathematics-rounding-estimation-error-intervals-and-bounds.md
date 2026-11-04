@@ -176,6 +176,14 @@ For subtraction and division, the second quantity works against you: a bigger nu
 
 ### Worked example 8
 
+<!-- marlbridge-diagram:math-b76-ocr-bounds-rectangle-area -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/public/images/learning/mathematics/math-b76-ocr-bounds-rectangle-area.svg" aria-label="Open full-size diagram: math-b76-ocr-bounds-rectangle-area"><img src="/public/images/learning/mathematics/math-b76-ocr-bounds-rectangle-area.svg" width="1528" height="940" alt="Length and width intervals for a rectangle show why the minimum area uses both lower bounds and the maximum uses both upper bounds; area range is 27.5275 to 28.6375 cm²." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Length and width intervals for a rectangle show why the minimum area uses both lower bounds and the maximum uses both upper bounds; area range is 27.5275 to 28.6375 cm².</figcaption>
+</figure>
+<!-- /marlbridge-diagram:math-b76-ocr-bounds-rectangle-area -->
+
+
 A rectangle measures 7.2 cm by 3.9 cm, each to 1 dp. Find the bounds of its area.
 
 ```

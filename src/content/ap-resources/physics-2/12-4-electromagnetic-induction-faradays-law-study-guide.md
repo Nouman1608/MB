@@ -35,7 +35,7 @@ keyPoints:
   - "The opposition in Lenz's law is energy conservation: you must do work to keep an induced current flowing."
 faqs:
   - question: "Is the induced emf the same thing as a potential difference?"
-    answer: "It is measured in volts and drives a current like a battery does, so you can treat it as the emf of a source in the circuit. The difference is where it comes from: a changing magnetic flux rather than a chemical reaction."
+    answer: "Emf is work per unit charge around a circuit, measured in volts. A changing magnetic flux creates a nonconservative electric field, so the induced emf around a path is not generally a single-valued electrostatic potential difference between two endpoints. In circuit calculations, model it as the emf of a source."
   - question: "Does a loop need to be a closed circuit for an emf to be induced?"
     answer: "No. A changing flux induces an emf whether or not the loop is closed. A current flows only if there is a complete conducting path, and then I = ε/R."
 version: "1.0"

@@ -69,6 +69,13 @@ for complex-ion formation; writing a Kstab expression; using Kstab in
 calculations; explaining ligand exchange in terms of Kstab values.
 
 ## Why transition-metal complexes are coloured
+<!-- marlbridge-diagram:chem-b25-octahedral-tetrahedral-d-splitting -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/chemistry/chem-b25-octahedral-tetrahedral-d-splitting.svg" aria-label="Open full-size diagram: chem-b25-octahedral-tetrahedral-d-splitting"><img src="/images/learning/chemistry/chem-b25-octahedral-tetrahedral-d-splitting.svg" width="1528" height="940" alt="Octahedral ligand fields split five d orbitals into three lower t2g levels and two higher eg levels. Tetrahedral ligand fields split them into two lower e levels and three higher t2 levels. For comparable ligands, tetrahedral splitting is typically smaller; absorption occurs when photon energy h nu equals the splitting gap." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Octahedral: three lower and two higher orbitals. Tetrahedral: two lower and three higher. The energy-level drawings are schematic. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:chem-b25-octahedral-tetrahedral-d-splitting -->
+
 
 In an isolated transition-metal ion, the five d orbitals all have the same
 energy — they are **degenerate**. When ligands bond to the metal, their
@@ -106,11 +113,7 @@ different extents. This is exactly why ligand exchange changes colour:
   inherently smaller than octahedral splitting for comparable ligands),
   compounding the ligand-identity effect on colour.
 
-(A complex with **no** d electrons, like Sc³⁺, or a **full** d sub-shell,
-like Zn²⁺, cannot undergo this electron promotion — there's no gap to
-promote from, or no vacancy to promote into — which is exactly why
-scandium and zinc compounds are colourless and are excluded from the
-"transition element" definition.)
+A d⁰ ion such as Sc³⁺ or a d¹⁰ ion such as Zn²⁺ cannot undergo an ordinary d–d transition of this kind: there is no occupied d orbital or no available d vacancy. Their common simple aqueous ions are colourless, but d⁰ or d¹⁰ does not guarantee that every compound is colourless; charge-transfer or ligand-centred absorption can also give colour. Scandium and zinc are excluded by this course's transition-element definition because their usual ions lack an incomplete d subshell, not because colour is a defining test.
 
 ## Stereoisomerism in complexes
 
@@ -140,10 +143,7 @@ around an octahedral centre:
   optical isomerism — the trans form has a mirror plane and is not
   chiral.
 
-**Polarity** follows directly from geometry: a symmetric arrangement (e.g.
-the *trans* isomer of a square planar or octahedral complex with two pairs
-of identical ligands) is non-polar, since bond dipoles cancel by symmetry;
-the corresponding *cis* isomer, lacking that symmetry, is polar.
+**Bond-dipole cancellation** can be compared in an idealised model with the same metal–ligand bond types: identical opposite bonds cancel, whereas an adjacent arrangement may leave a non-zero vector sum. Do not infer polarity from the words cis or trans alone. For a charged complex, an absolute dipole moment depends on the coordinate origin; keep this school comparison explicitly about the stated ligand geometry and bond-vector model.
 
 ## Stability constants, Kstab
 
@@ -201,10 +201,11 @@ chemistry.** Transition-metal colour is specifically about d-to-d electron
 promotion across a ligand-induced splitting gap — it has nothing to do with
 the flame-test or emission-spectrum explanations used elsewhere.
 
-**Forgetting the electron count requirement for colour.** A d⁰ ion (like
-Sc³⁺) has nowhere to promote an electron *from*; a d¹⁰ ion (like Zn²⁺) has
-nowhere to promote an electron *to* — both give colourless compounds
-despite being d-block.
+**Forgetting the electron-count requirement for ordinary d–d colour.** A
+d⁰ ion (like Sc³⁺) has no d electron to promote; a d¹⁰ ion (like Zn²⁺) has
+no vacant d orbital in the split set. Their common simple aqueous ions are
+colourless from d–d transitions, but charge-transfer or ligand-centred
+absorption can colour some d⁰ or d¹⁰ compounds.
 
 **Missing that geometry alone (not just ligand identity) affects the size
 of ΔE.** Tetrahedral splitting is inherently smaller than octahedral

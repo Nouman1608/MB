@@ -117,6 +117,14 @@ market failure.
 
 ## Worked example: minimum wage above equilibrium
 
+<!-- marlbridge-diagram:economics-edexcel-minimum-wage -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/economics/economics-edexcel-minimum-wage.svg" aria-label="Open full-size diagram: economics-edexcel-minimum-wage"><img src="/images/learning/economics/economics-edexcel-minimum-wage.svg" width="1600" height="1050" alt="Labour market graph with wage per hour on the vertical axis and workers on the horizontal axis, upward-sloping labour supply, downward-sloping labour demand, equilibrium at $10 and 120,000, and a $14 minimum wage with Qs 150,000, Qd 100,000 and a 50,000 excess supply gap." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>At $14 per hour, labour supplied exceeds labour demanded by 50,000 workers in the worked example. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:economics-edexcel-minimum-wage -->
+
+
 A labour market has an equilibrium wage of $10 per hour, at which
 120,000 workers are employed. The government sets a minimum wage of $14
 per hour.

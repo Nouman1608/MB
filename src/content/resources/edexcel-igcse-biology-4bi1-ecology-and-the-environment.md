@@ -56,9 +56,9 @@ Use it with the [revision notes](/resources/edexcel-igcse-biology-4bi1-ecology-a
 A quadrat is a square frame, often 0.5 m × 0.5 m or 1 m × 1 m. You use it for organisms that do not move, or move slowly, such as plants or limpets.
 
 1. Mark out the area with two tape measures at right angles, forming a grid.
-2. Generate random numbers to give coordinates, and place the quadrat at each one. Random placement removes bias in where you sample.
+2. Generate random numbers to give coordinates, and place the quadrat at each one. Random placement reduces the risk of choosing locations to fit expectations, but it cannot remove every source of bias or make an unrepresentative area representative.
 3. Count the individuals of the species inside each quadrat. Decide a rule for plants that lie on the edge (for example, count them only on two sides).
-4. Use many quadrats (at least ten) and calculate the mean per quadrat.
+4. Use repeated quadrats and calculate the mean per quadrat. Ten is a useful example for a school investigation, not a universal minimum; patchy populations may need more samples to achieve adequate precision.
 5. Scale up: population = mean per m² × total area in m².
 
 To compare **two different areas**, use the same quadrat size, the same number of quadrats and the same counting rule in both, so that only the area changes.
@@ -80,15 +80,25 @@ Area B: total = 10, mean = 1.0 per quadrat
         population = 4 × 600 = 2400 dandelions
 ```
 
-Area A has three times the estimated population of Area B.
+Area A has three times the estimated population of Area B. These are estimates: uneven distribution, patchiness and sample size affect precision, and scaling assumes the quadrats represent the wider area.
 
 ### Biodiversity (4.3B, 4.4B) -- Paper 2 only
+
+<!-- marlbridge-diagram:bio-b26-edexcel-quadrat-transect-field-layout -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/biology/bio-b26-edexcel-quadrat-transect-field-layout.svg" aria-label="Open full-size diagram: bio-b26-edexcel-quadrat-transect-field-layout"><img src="/images/learning/biology/bio-b26-edexcel-quadrat-transect-field-layout.svg" width="1600" height="1050" alt="Field sampling: random quadrats and fixed-interval transect" loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Field sampling: random quadrats and fixed-interval transect Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:bio-b26-edexcel-quadrat-transect-field-layout -->
+
 
 **Biodiversity** is the variety of living organisms in an area. At IGCSE you should think of it in terms of how many different species are present and how evenly their numbers are spread.
 
 To **investigate distribution**, you lay a tape across a change in conditions (for example, from shade under a tree into open grass) and place a quadrat at regular intervals along it. At each point, record which species are present, or estimate percentage cover. Here regular placement is deliberate, not random.
 
 To **measure biodiversity**, place quadrats at random in each area and record every species present and the number (or cover) of each. The area with more species, spread more evenly, has the higher biodiversity. For example, a site with five species, each present in similar numbers, is more biodiverse than a site dominated by one species with two rare ones.
+
+When plants overlap, use a consistent rule: count rooted individuals by the point where each plant enters the ground, or estimate percentage cover without counting the same cover twice. Keep quadrat size and sampling effort comparable between areas.
 
 ### Abiotic and biotic factors (4.5)
 
@@ -112,8 +122,16 @@ In a **food chain**, arrows show the direction of energy transfer, pointing from
 
 ### Pyramids (4.7)
 
+<!-- marlbridge-diagram:bio-b32-edexcel-4bi1-numbers-and-biomass-pyramids -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/biology/bio-b32-edexcel-4bi1-numbers-and-biomass-pyramids.svg" aria-label="Open full-size diagram: bio-b32-edexcel-4bi1-numbers-and-biomass-pyramids"><img src="/images/learning/biology/bio-b32-edexcel-4bi1-numbers-and-biomass-pyramids.svg" width="1600" height="1050" alt="Pyramids of numbers and biomass measure different things" loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Pyramids of numbers and biomass measure different things Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:bio-b32-edexcel-4bi1-numbers-and-biomass-pyramids -->
+
+
 - **Pyramid of numbers**: number of organisms at each level. It can be an odd shape. One oak tree supports thousands of caterpillars, so the bottom bar is narrow.
-- **Pyramid of biomass**: dry mass of organisms at each level. It is almost always a true pyramid, because mass is lost at each step.
+- **Pyramid of biomass**: dry mass of organisms at each level, measured as a standing stock at a stated time. It is often upright in terrestrial examples, but an aquatic snapshot can be inverted when a small standing biomass of fast-turnover producers supports a larger consumer biomass. A snapshot ratio is not energy-transfer efficiency.
 - **Pyramid of energy transfer**: energy passed to each level (for example, in kJ per m² per year). It is always a true pyramid, because energy is lost at every level.
 
 ### Energy and substances along a food chain (4.8, 4.9)
@@ -139,6 +157,8 @@ Producers → primary: (2160 ÷ 24 000) × 100 = 9.0%
 Primary → secondary: (216 ÷ 2160) × 100 = 10.0%
 ```
 
+**Biomass snapshot example.** At one sampling time, a meadow contains 1200 kg dry mass per hectare of producers and 240 kg dry mass per hectare of primary consumers. The ratio is 1200:240, or 5:1, for these standing stocks at that time. In a hypothetical aquatic sample, producers might measure 2 g dry mass m⁻² and primary consumers 4 g dry mass m⁻²; that snapshot is inverted. These ratios describe measured standing biomass only, not production over time or energy efficiency.
+
 ## (c) Cycles within ecosystems
 
 ### The carbon cycle (4.10)
@@ -152,11 +172,18 @@ Primary → secondary: (216 ÷ 2160) × 100 = 10.0%
 
 ### The nitrogen cycle (4.11B) -- Paper 2 only
 
+<!-- marlbridge-diagram:bio-b29-edexcel-4bi1-nitrogen-cycle -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/biology/bio-b29-edexcel-4bi1-nitrogen-cycle.svg" aria-label="Open full-size diagram: bio-b29-edexcel-4bi1-nitrogen-cycle"><img src="/images/learning/biology/bio-b29-edexcel-4bi1-nitrogen-cycle.svg" width="1528" height="871" alt="Nitrogen-cycle model showing fixation, ammonium formation, nitrification through nitrite to nitrate, plant uptake, feeding and denitrification." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>School-level nitrogen-cycle model with bacterial examples. Other microorganisms also carry out parts of nitrification. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:bio-b29-edexcel-4bi1-nitrogen-cycle -->
+
 Plants absorb nitrogen as **nitrate ions** to make proteins. You need the roles of four groups of bacteria (not their names):
 
 - **Nitrogen-fixing bacteria** (in soil and in root nodules of legumes such as peas and clover) convert nitrogen gas into nitrogen compounds.
 - **Decomposers** break down proteins in dead organisms, faeces and urea into **ammonium** compounds.
-- **Nitrifying bacteria** convert ammonium into **nitrites** and then **nitrates**. They need oxygen, so aerated soil helps.
+- **Nitrifying bacteria** are the school-level examples for converting ammonium via **nitrite** into **nitrate**; other microorganisms, including ammonia-oxidising archaea, also contribute to nitrification. These aerobic processes need oxygen, so aerated soil helps. Nitrogen-fixing bacteria in root nodules perform a separate process.
 - **Denitrifying bacteria** convert nitrates back into **nitrogen gas**. They work in waterlogged soils with little oxygen, which reduces soil fertility.
 
 
@@ -182,32 +209,39 @@ The Sun's radiation passes through the atmosphere and warms the Earth's surface.
 
 ### Water pollution (4.16, 4.17)
 
-**Sewage.** Untreated sewage adds organic matter to rivers. Bacteria decompose it and multiply. Their aerobic respiration uses up dissolved oxygen, so fish and other aerobic animals die. Sewage can also carry pathogens.
+**Sewage.** Untreated sewage adds organic matter to rivers. Bacteria decompose it and multiply; their aerobic respiration uses dissolved oxygen, reducing oxygen available to fish and other aerobic animals. This direct oxygen demand does not require an algal bloom. Sewage can also carry pathogens and may add nutrients.
 
 **Eutrophication.** Fertiliser applied to fields is leached by rain into rivers and lakes.
 
+<!-- marlbridge-diagram:bio-b33-edexcel-4bi1-eutrophication-pathways -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/biology/bio-b33-edexcel-4bi1-eutrophication-pathways.svg" aria-label="Open full-size diagram: bio-b33-edexcel-4bi1-eutrophication-pathways"><img src="/images/learning/biology/bio-b33-edexcel-4bi1-eutrophication-pathways.svg" width="1528" height="871" alt="Nutrient-driven eutrophication: nutrients promote an algal bloom, then decomposer respiration consumes dissolved oxygen as organic matter decays. Direct sewage organic matter can also consume oxygen without requiring an algal bloom." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Two oxygen-demand routes are distinguished: decomposition after a nutrient-driven bloom, and direct decomposition of organic sewage. Algae also respire. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:bio-b33-edexcel-4bi1-eutrophication-pathways -->
+
 1. Nitrates and phosphates enter the water.
-2. Algae grow rapidly (an algal bloom).
+2. Algae grow rapidly (an algal bloom). In light, algae photosynthesise and release oxygen; algae also respire, including in darkness.
 3. The algae block light, so plants below cannot photosynthesise and die.
 4. Algae also die.
 5. Decomposing bacteria feed on the dead plants and algae and multiply.
-6. The bacteria respire aerobically and use up dissolved oxygen.
+6. Decomposers respire aerobically and use up dissolved oxygen as dead algae and other organic matter break down.
 7. Fish and other aerobic organisms die from lack of oxygen.
 
 ### Deforestation (4.18B) -- Paper 2 only
 
 - **Leaching**: without tree cover, rain washes mineral ions out of the soil, so it becomes infertile.
 - **Soil erosion**: roots no longer hold the soil, so rain and wind remove it. Soil may block rivers and cause flooding.
-- **Evapotranspiration**: fewer trees means less water vapour released, so less cloud and less rainfall locally; the area can become drier.
+- **Evapotranspiration**: fewer trees can reduce local water-vapour release and alter cloud formation and rainfall. The size and direction of regional effects depend on location, scale and wider circulation; lower rainfall is not guaranteed everywhere.
 - **Carbon cycle**: fewer trees remove carbon dioxide by photosynthesis. Burning or decomposing the wood releases more.
-- **Balance of atmospheric gases**: carbon dioxide rises and less oxygen is released, adding to the enhanced greenhouse effect.
+- **Carbon stores and climate**: less photosynthetic uptake and carbon released by burning or decay can raise atmospheric carbon dioxide. The warming mechanism is added greenhouse-gas absorption of infrared radiation; reduced oxygen production is not itself a greenhouse-gas mechanism.
 
 ## Common errors
 
 - Writing that energy is "recycled". Only substances are recycled; energy is lost as heat.
 - Arrows in food chains drawn the wrong way (they point towards the eater).
 - Giving "10%" without any reasons why energy is lost.
-- In eutrophication, saying the algae use up the oxygen. It is the **decomposing bacteria** respiring that do this.
+- In a bloom, saying algae never use oxygen. Algae photosynthesise in light and also respire; decomposition of dead organic matter creates substantial oxygen demand.
 - Confusing nitrifying and denitrifying bacteria.
 - Saying carbon monoxide causes acid rain, or that sulfur dioxide binds to haemoglobin.
 - Forgetting to scale by quadrat area in population estimates.

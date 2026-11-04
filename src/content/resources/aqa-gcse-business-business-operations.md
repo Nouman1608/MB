@@ -72,6 +72,14 @@ AQA GCSE Business (8132) specification, first teaching September 2017 --
 
 ## Job vs flow production
 
+<!-- marlbridge-diagram:business-aqa-gcse-job-flow-production -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/business/business-aqa-gcse-job-flow-production.svg" aria-label="Open full-size diagram: business-aqa-gcse-job-flow-production"><img src="/images/learning/business/business-aqa-gcse-job-flow-production.svg" width="1600" height="1050" alt="Side-by-side comparison of job and flow production showing order size, customisation, flexibility, likely unit cost and examples." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Production methods: choose job or flow for the product Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:business-aqa-gcse-job-flow-production -->
+
+
 Job production makes single, often unique items to order (a wedding cake, a bespoke suit), suiting
 low-volume, high-customisation output. Flow production makes large volumes of identical, standardised
 items continuously (a bottling plant), suiting high-volume, low-customisation output. The choice depends

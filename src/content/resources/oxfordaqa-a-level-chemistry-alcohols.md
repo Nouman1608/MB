@@ -57,7 +57,7 @@ Find the carbon atom that carries the –OH group. Count how many other carbon a
 
 | Class | Carbons bonded to the C–OH carbon | H atoms on the C–OH carbon | Example |
 |---|---|---|---|
-| Primary | one (methanol, CH₃OH, has none but is treated as primary) | two | pentan-1-ol, CH₃CH₂CH₂CH₂CH₂OH |
+| Primary | one for carbon-attached primary alcohols; methanol (CH₃OH) is a conventional primary-alcohol exception with no other carbon attached | two for carbon-attached primary alcohols; methanol has three | pentan-1-ol, CH₃CH₂CH₂CH₂CH₂OH |
 | Secondary | two | one | cyclopentanol, C₅H₉OH (–OH on a ring carbon) |
 | Tertiary | three | none | 2-methylpentan-2-ol, (CH₃)₂C(OH)CH₂CH₂CH₃ |
 
@@ -165,6 +165,13 @@ Alkenes can be formed from alcohols by **acid-catalysed elimination**. Heat the 
 phosphoric acid (concentrated sulfuric acid also works) as the catalyst, and a molecule of water is removed. This is also called dehydration.
 
 ### The mechanism
+<!-- marlbridge-diagram:chem-b26-tertiary-alcohol-e1-curly-arrows -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/chemistry/chem-b26-tertiary-alcohol-e1-curly-arrows.svg" aria-label="Open full-size diagram: chem-b26-tertiary-alcohol-e1-curly-arrows"><img src="/images/learning/chemistry/chem-b26-tertiary-alcohol-e1-curly-arrows.svg" width="1528" height="940" alt="In acid-catalysed dehydration of 2-methylpentan-2-ol, oxygen donates a lone pair to H+ while the acid H-A bond pair moves to A-. The C-O bond then breaks to oxygen, forming a tertiary carbocation. A- removes a beta hydrogen and its C-H bond pair forms C=C, regenerating the acid. Removal at either non-equivalent beta site gives 2-methylpent-1-ene or 2-methylpent-2-ene; neither has E/Z isomers." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>The E1 carbocation forms before elimination. The two methyl beta sites are equivalent; the C3 beta site gives the second alkene. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:chem-b26-tertiary-alcohol-e1-curly-arrows -->
+
 
 1. The –OH oxygen uses one of its lone pairs to bond to an H⁺ ion supplied by the acid. This gives a protonated
    alcohol with a positive oxygen, R–OH₂⁺.
@@ -176,6 +183,14 @@ phosphoric acid (concentrated sulfuric acid also works) as the catalyst, and a m
 Draw each curly arrow from a lone pair or a bond, never from a positive charge or from H⁺ itself.
 
 ### Worked example 4: how many alkenes?
+
+<!-- marlbridge-diagram:chem-obj-oxford-tertiary-alcohol-e1 -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/chemistry/chem-obj-oxford-tertiary-alcohol-e1.svg" aria-label="Open full-size diagram: chem-obj-oxford-tertiary-alcohol-e1"><img src="/images/learning/chemistry/chem-obj-oxford-tertiary-alcohol-e1.svg" width="1528" height="940" alt="For 2-methylpentan-2-ol, protonate OH, lose water to form the tertiary carbocation at C2, then lose beta H to produce 2-methylpent-1-ene or 2-methylpent-2-ene. Neither product has E/Z isomers." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>E1 dehydration of 2-methylpentan-2-ol — Marlbridge Chemistry.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:chem-obj-oxford-tertiary-alcohol-e1 -->
+
 
 Which alkenes form from 2-methylpentan-2-ol with hot concentrated phosphoric acid?
 

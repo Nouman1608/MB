@@ -163,6 +163,14 @@ When σ² is unknown and n is large, use s² as the estimate of σ² and write t
 
 ### Worked example 6
 
+<!-- marlbridge-diagram:math-b66-oxfordaqa-clt-sample-mean-upper-tail -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/public/images/learning/mathematics/math-b66-oxfordaqa-clt-sample-mean-upper-tail.svg" aria-label="Open full-size diagram: math-b66-oxfordaqa-clt-sample-mean-upper-tail"><img src="/public/images/learning/mathematics/math-b66-oxfordaqa-clt-sample-mean-upper-tail.svg" width="1528" height="940" alt="A normal sampling-mean curve centred at 4 minutes has standard error 0.5 minutes; the upper-tail area beyond 4.9 minutes is shaded and labelled 0.0359." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>A normal sampling-mean curve centred at 4 minutes has standard error 0.5 minutes; the upper-tail area beyond 4.9 minutes is shaded and labelled 0.0359.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:math-b66-oxfordaqa-clt-sample-mean-upper-tail -->
+
+
 The time between calls to a helpline has mean 4 minutes and standard deviation 4 minutes (the distribution is strongly skewed). A random sample of 64 gaps is taken. Find the probability that the sample mean exceeds 4.9 minutes.
 
 The parent is not normal, but n = 64 is large, so by the CLT

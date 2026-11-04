@@ -14,7 +14,7 @@ prerequisiteResources: ["mb-ap-bio-2.3-study-guide"]
 learningObjectives:
   - "Explain how the hydrophobic interior of a membrane makes it selectively permeable"
   - "Predict whether a substance crosses the bilayer freely, in small amounts or only through proteins, from its size, polarity and charge"
-  - "Describe how cell walls of bacteria, archaea, fungi and plants give structure, act as a barrier to some substances and prevent osmotic lysis"
+  - "Describe how cell walls, where present in bacteria, archaea, fungi and plants, provide structure, act as a porous barrier and resist osmotic swelling"
   - "Calculate a standard error and use mean ± 2 SE to decide whether to reject a null hypothesis"
 skills: ["1", "3", "5", "6"]
 studyMinutes: 40
@@ -28,7 +28,7 @@ sources: ["ced-biology", "page-biology"]
 keyPoints:
   - "A membrane is selectively permeable because its interior is hydrophobic: the fatty acid tails block ions and polar molecules."
   - "Small nonpolar molecules (N₂, O₂, CO₂) cross freely. Small polar, uncharged molecules (H₂O, NH₃) cross in small amounts. Ions and large polar molecules need channel or transport proteins."
-  - "Cell walls in bacteria, archaea, fungi and plants give shape, block some substances and stop the cell bursting when water rushes in (osmotic lysis)."
+  - "Where present, cell walls give cells shape, act as porous barriers and resist osmotic swelling; some organisms and cell types lack a wall."
   - "To evaluate a hypothesis, state a null hypothesis of no difference. If the mean ± 2 SE error bars do not overlap, reject it; if they overlap, fail to reject it."
 faqs:
   - question: "If water is polar, how does it cross the membrane at all?"
@@ -311,7 +311,7 @@ Because hydrophilic substances need **embedded channel and transport proteins**,
 
 ## Cell walls: an extra layer for some cells
 
-Bacteria, archaea, fungi and plants all have a **cell wall** outside the plasma membrane. Animal cells do not. The walls are made of different materials:
+Many bacteria, archaea, fungi and plant cells have a **cell wall** outside the plasma membrane; some organisms and cell types lack one. Animal cells lack cell walls. Wall materials differ among groups:
 
 | Group | Main wall material |
 |---|---|
@@ -324,7 +324,7 @@ A cell wall has three jobs:
 
 1. **Structural boundary.** It is stiffer than the membrane, so it gives the cell a fixed shape and supports it. In plants, walls pushed on by the cell contents hold soft tissues upright.
 2. **Permeability barrier for some substances.** The wall is porous. Water, gases, ions and small molecules pass through it easily, but the pores hold back some large molecules. It is a coarse filter; the membrane does the fine selecting.
-3. **Protection from osmotic lysis.** When a cell sits in a more dilute solution than its cytoplasm, water moves in by osmosis (you will study this later in the unit). A cell with only a membrane swells and can burst; this bursting is **osmotic lysis**. A wall resists the swelling. The cell presses outwards against it, building up **turgor pressure**, and the wall pushes back. Net entry of water stops before the cell can burst.
+3. **Resistance to osmotic swelling.** When a walled cell sits in a more dilute solution than its cytoplasm, water moves in by osmosis (you will study this later in the unit). A cell with only a membrane may swell and burst; this bursting is **osmotic lysis**. A strong wall resists expansion, so the contents press outwards and build **turgor pressure**. A wall reduces the risk of lysis but should not be described as an absolute guarantee under every condition.
 
 This is why an animal cell, such as a red blood cell, bursts in pure water, but a plant cell in pure water becomes firm (turgid) instead. It also explains how the antibiotic **penicillin** kills growing bacteria: it stops them building peptidoglycan cross-links properly, so the wall weakens, water rushes in and the cells burst.
 
@@ -335,10 +335,8 @@ Biologists often ask: "Is the difference between two groups real, or could it be
 1. State the **null hypothesis (H₀)**: there is **no difference** between the groups (the treatment has no effect).
 2. State the **alternative hypothesis**: there is a difference.
 3. For each group, calculate the **mean**, the **standard deviation (s)** and the **standard error (SE = s ÷ √n)**.
-4. Draw error bars of **mean ± 2 SE**. These show roughly a 95% confidence interval for each mean.
-5. Decide:
-   - If the error bars **do not overlap**, the difference is unlikely to be due to chance: **reject the null hypothesis**.
-   - If the error bars **overlap**, the data do not give strong enough evidence of a difference: **fail to reject the null hypothesis**.
+4. If requested, draw and label descriptive error bars of **mean ± 2 SE**. They approximate 95% confidence intervals only under suitable large-sample conditions. With small normally distributed samples and unknown population variance, a 95% interval for a mean uses the relevant t multiplier: mean ± t × SE (for n = 5, t ≈ 2.776).
+5. Use a statistical comparison suited to the design and assumptions to decide whether to reject H₀. Error-bar overlap is a visual guide, not a universal significance test. In particular, overlapping 95% intervals for two independent means can still accompany a statistically significant difference; uncertainty in the difference itself is what matters.
 
 Note the wording. You never "prove" or "accept" a hypothesis from one experiment. Failing to reject H₀ does not show the groups are equal; it shows the data cannot tell them apart.
 
@@ -444,9 +442,9 @@ Note the wording. You never "prove" or "accept" a hypothesis from one experiment
 <figcaption>Figure 2. Fictional data from Worked example 2. Bars show means; error bars show mean ± 2 SE. Bar fills (plain, hatched, dotted) distinguish the three treatments.</figcaption>
 </figure>
 
-**(c) Decision.** The intervals (1.6–4.4% and 86.7–93.3%) are far apart and do not overlap, so we **reject the null hypothesis**. The data support the hypothesis that the wall protects yeast from bursting in water.
+**(c) Interpretation.** The descriptive mean ± 2 SE intervals (1.6–4.4% and 86.7–93.3%) are far apart, showing a large treatment difference consistent with protection by the wall. These plotted intervals are not a universal hypothesis test; a formal reject/fail-to-reject decision requires a statistical comparison appropriate to the replicate design and its assumptions.
 
-**Role of sorbitol.** Maybe removing the wall simply damages cells, so they burst whatever the solution. The sorbitol treatment tests this. Wall-removed cells in sorbitol burst only 5.0% of the time (interval 3.6–6.4%), which overlaps the intact cells' interval (1.6–4.4%). So we fail to reject a null hypothesis of no difference between those two treatments. Wall-removed cells survive when water does not rush in, which shows the bursting in distilled water was caused by water entering by osmosis, not by the enzyme treatment itself.
+**Role of sorbitol.** Removing the wall might itself damage cells. Wall-removed cells in sorbitol burst only 5.0% of the time, versus 90.0% in distilled water, supporting an osmotic contribution rather than treatment damage alone. Their descriptive ±2SE interval (3.6–6.4%) overlaps that of intact cells (1.6–4.4%), but overlap alone cannot establish a formal fail-to-reject decision or rule out enzyme effects. A suitable comparison and additional controls would strengthen the inference.
 
 ## Common misconceptions
 
@@ -456,7 +454,7 @@ Note the wording. You never "prove" or "accept" a hypothesis from one experiment
 - **"Selectively permeable means the membrane decides like a gate-keeper with a mind."** It is just chemistry: what crosses depends on size, polarity and charge, and on which proteins are present.
 - **"The cell wall controls what enters the cell."** The wall is porous and lets most small substances through. The membrane does the selecting.
 - **"The cell wall stops water entering."** Water passes through the wall. The wall stops the cell **expanding** until it bursts.
-- **"Overlapping error bars prove there is no difference."** They mean the data do not give strong enough evidence of a difference. We fail to reject the null hypothesis; we do not prove it.
+- **"Overlapping error bars prove there is no difference."** Overlap alone cannot decide statistical significance. State what the bars represent and use a comparison appropriate to the design; even overlapping 95% confidence intervals can accompany a significant difference.
 
 ## Where this leads
 

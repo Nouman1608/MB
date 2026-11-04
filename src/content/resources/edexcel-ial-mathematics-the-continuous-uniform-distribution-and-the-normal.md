@@ -149,6 +149,12 @@ P(|R| < 0.02) = P(−0.02 < R < 0.02) = 0.04/0.1 = 0.4
 ```
 
 ## 3.2 Normal approximations with a continuity correction
+<!-- marlbridge-diagram:maths-b19-continuity-correction -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/mathematics/maths-b19-continuity-correction.svg" aria-label="Open full-size diagram: maths-b19-continuity-correction"><img src="/images/learning/mathematics/maths-b19-continuity-correction.svg" width="1600" height="1050" alt="For integer X, P(X≤5) is approximated by continuous P(Y&lt;5.5), using the boundary halfway between 5 and 6." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>For integer X, P(X≤5) is approximated by continuous P(Y&lt;5.5), using the boundary halfway between 5 and 6. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:maths-b19-continuity-correction -->
 
 ### The approximations
 

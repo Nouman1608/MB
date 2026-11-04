@@ -71,6 +71,14 @@ page —
 
 ## Two branches, two audiences
 
+<!-- marlbridge-diagram:accounting-financial-management-users -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/accounting/accounting-financial-management-users.svg" aria-label="Open full-size diagram: accounting-financial-management-users"><img src="/images/learning/accounting/accounting-financial-management-users.svg" width="1600" height="1050" alt="Comparison of financial and management accounting with their audiences, purposes, reporting rules and users of accounting information." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Different accounting reports meet the needs of external users and internal managers. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:accounting-financial-management-users -->
+
+
 **Financial accounting** records completed transactions and reports to **external** users — shareholders, lenders, suppliers, tax authorities, employees. It is historic, governed by law and accounting standards, and produced to a set format at set intervals.
 
 **Management accounting** serves **internal** decision-makers. It is forward-looking, produced as often and in whatever form managers need, and subject to no external rules. Budgeting, costing, variance analysis and investment appraisal sit here.

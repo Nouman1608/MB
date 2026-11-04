@@ -267,6 +267,13 @@ To **show that** two expressions are equivalent, start from one side and simplif
 
 **Worked example.** Show that (n + 3)² − (n − 3)² ≡ 12n.
 
+<!-- marlbridge-diagram:maths-b14-algebra-identity-difference-squares -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/mathematics/maths-b14-algebra-identity-difference-squares.svg" aria-label="Open full-size diagram: maths-b14-algebra-identity-difference-squares"><img src="/images/learning/mathematics/maths-b14-algebra-identity-difference-squares.svg" width="1600" height="1050" alt="Shows the source proof that (n+3)² − (n−3)² simplifies identically to 12n by expanding and subtracting like terms." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Shows the source proof that (n+3)² − (n−3)² simplifies identically to 12n by expanding and subtracting like terms. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:maths-b14-algebra-identity-difference-squares -->
+
 ```
 (n + 3)² = n² + 6n + 9
 (n − 3)² = n² − 6n + 9

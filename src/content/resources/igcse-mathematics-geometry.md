@@ -117,6 +117,14 @@ external point are equal in length
 
 ## How to approach it
 
+<!-- marlbridge-diagram:math-b55-circle-theorem-chain -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/public/images/learning/mathematics/math-b55-circle-theorem-chain.svg" aria-label="Open full-size diagram: math-b55-circle-theorem-chain"><img src="/public/images/learning/mathematics/math-b55-circle-theorem-chain.svg" width="1528" height="940" alt="The diagram follows the source’s circle-theorem example: opposite angles of a cyclic quadrilateral give x=80° from 100°+x=180°; the same-arc centre/circumference theorem gives y=65° from 130°=2y." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>The diagram follows the source’s circle-theorem example: opposite angles of a cyclic quadrilateral give x=80° from 100°+x=180°; the same-arc centre/circumference theorem gives y=65° from 130°=2y. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:math-b55-circle-theorem-chain -->
+
+
 Because C4.1's vocabulary underpins every later subtopic, treat it as
 a fixed reference list to know precisely rather than something to
 absorb passively — a question that asks you to name a shape or angle

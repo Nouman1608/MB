@@ -165,6 +165,14 @@ Answer: **3x² − 2x + 4**.
 
 ## Simplifying products and quotients (6.01c)
 
+<!-- marlbridge-diagram:math-b75-index-laws-products-quotients -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/public/images/learning/mathematics/math-b75-index-laws-products-quotients.svg" aria-label="Open full-size diagram: math-b75-index-laws-products-quotients"><img src="/public/images/learning/mathematics/math-b75-index-laws-products-quotients.svg" width="1528" height="940" alt="Source examples: 5x²y×2xy³=10x³y⁴; 12p³q÷8pq²=3p²/(2q). Coefficients multiply/divide, while indices add/subtract for matching bases." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Source examples: 5x²y×2xy³=10x³y⁴; 12p³q÷8pq²=3p²/(2q). Coefficients multiply/divide, while indices add/subtract for matching bases. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:math-b75-index-laws-products-quotients -->
+
+
 ### Both tiers
 
 To multiply terms, multiply the numbers, then multiply each letter, adding indices. To divide, divide the numbers, then subtract indices.

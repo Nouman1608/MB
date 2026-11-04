@@ -136,6 +136,14 @@ You may be asked to draw a line of symmetry on a grid, write its equation, or ad
 
 ### Worked example 4 (Extended): the equation of a line of symmetry
 
+<!-- marlbridge-diagram:maths-b37-coordinate-triangle-line-symmetry -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/mathematics/maths-b37-coordinate-triangle-line-symmetry.svg" aria-label="Open full-size diagram: maths-b37-coordinate-triangle-line-symmetry"><img src="/images/learning/mathematics/maths-b37-coordinate-triangle-line-symmetry.svg" width="1600" height="1050" alt="PR²=QR²=17, so the triangle is isosceles with apex R. Reflection in y=x swaps P(1,4) and Q(4,1) while leaving R(5,5) fixed. Therefore y=x is the line of symmetry." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>PR²=QR²=17, so the triangle is isosceles with apex R. Reflection in y=x swaps P(1,4) and Q(4,1) while leaving R(5,5) fixed. Therefore y=x is the line of symmetry. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:maths-b37-coordinate-triangle-line-symmetry -->
+
+
 Triangle PQR has vertices P(1, 4), Q(4, 1) and R(5, 5). Show that the triangle is isosceles and find the equation of its line of symmetry.
 
 ```

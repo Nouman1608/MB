@@ -220,6 +220,11 @@ Ethical reasons; ecosystem services such as pollination, nutrient cycling and wa
 
 ### Assisted reproduction in mammals
 
+
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <!-- marlbridge-diagram:fertility-contraception-mechanisms --><a href="/images/learning/biology/fertility-contraception-mechanisms.svg" aria-label="Open full-size diagram: Compare reproductive intervention mechanisms" title="Compare reproductive intervention mechanisms"><img src="/images/learning/biology/fertility-contraception-mechanisms.svg" width="1528" height="871" alt="Contraceptive mechanisms are grouped by biological target, alongside a three-stage IVF pathway with distinct outcomes." title="Compare reproductive intervention mechanisms" loading="lazy" decoding="async" style="display:block;width:100%;height:auto;" /></a>
+  <figcaption>The IVF pathway is shown as a sequence of clinical steps. Other conservation methods are covered in the surrounding text. Select the diagram to enlarge it.</figcaption>
+</figure>
 - **IVF (in vitro fertilisation):** eggs are collected from a female (often after hormone treatment) and fertilised with sperm in a dish.
 - **Embryo transfer:** the resulting embryos are placed in the uterus of a female. One valuable female's eggs can give many embryos.
 - **Surrogacy:** the embryo is carried by a surrogate mother, which may be a female of a more common, closely related species. The endangered female does not have to carry every pregnancy.

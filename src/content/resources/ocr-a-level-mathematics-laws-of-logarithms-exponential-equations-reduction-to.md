@@ -105,6 +105,14 @@ So **x = 2.73**.
 
 ### Worked example 5: the unknown appears on both sides
 
+<!-- marlbridge-diagram:math-b65-exponential-equation-unknown-both-sides -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/public/images/learning/mathematics/math-b65-exponential-equation-unknown-both-sides.svg" aria-label="Open full-size diagram: math-b65-exponential-equation-unknown-both-sides"><img src="/public/images/learning/mathematics/math-b65-exponential-equation-unknown-both-sides.svg" width="1528" height="940" alt="Taking logs of 5^(x+1)=2^(3x) gives x=ln5/(3ln2−ln5)=3.4243…; substitution confirms both powers agree." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Taking logs of 5^(x+1)=2^(3x) gives x=ln5/(3ln2−ln5)=3.4243…; substitution confirms both powers agree. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:math-b65-exponential-equation-unknown-both-sides -->
+
+
 Solve 5^(x+1) = 2^(3x). Give the answer exactly, then to 3 significant figures.
 
 ```
@@ -202,6 +210,14 @@ a = 10^0.505 = 3.2
 So y ≈ **3.2 x^1.4**. Your values depend on the line you draw, so quote them as estimates.
 
 ### Worked example 8: reading parameters from a line
+
+<!-- marlbridge-diagram:maths-b38-exponential-parameters-log-line -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/mathematics/maths-b38-exponential-parameters-log-line.svg" aria-label="Open full-size diagram: maths-b38-exponential-parameters-log-line"><img src="/images/learning/mathematics/maths-b38-exponential-parameters-log-line.svg" width="1600" height="1050" alt="The line through (0,1.2) and (4,3.6) has intercept ln k=1.2 and gradient ln b=(3.6−1.2)/4=0.6. Hence k=e^1.2≈3.32, b=e^0.6≈1.82, and y≈3.32×1.82ˣ." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>The line through (0,1.2) and (4,3.6) has intercept ln k=1.2 and gradient ln b=(3.6−1.2)/4=0.6. Hence k=e^1.2≈3.32, b=e^0.6≈1.82, and y≈3.32×1.82ˣ. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:maths-b38-exponential-parameters-log-line -->
+
 
 Plotting ln y against x gives a straight line passing through (0, 1.2) and (4, 3.6). Find k and b in y = kb^x.
 

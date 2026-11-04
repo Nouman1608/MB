@@ -82,6 +82,14 @@ The distinction matters because it explains why the same business produces diffe
 
 ## Users and their needs
 
+<!-- marlbridge-diagram:accounting-role-stakeholders -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/accounting/accounting-role-stakeholders.svg" aria-label="Open full-size diagram: accounting-role-stakeholders"><img src="/images/learning/accounting/accounting-role-stakeholders.svg" width="1600" height="1050" alt="Diagram contrasts the information needs of shareholders, lenders, suppliers, employees, government and managers." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Diagram contrasts the information needs of shareholders, lenders, suppliers, employees, government and managers. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:accounting-role-stakeholders -->
+
+
 | User | Wants to know |
 |---|---|
 | Shareholders | Profitability, dividends, growth in value |

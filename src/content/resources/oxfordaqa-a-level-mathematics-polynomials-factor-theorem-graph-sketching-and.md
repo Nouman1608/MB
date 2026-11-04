@@ -183,6 +183,14 @@ The y-coordinates come from the line: x = −1 gives y = 20, x = 0 gives y = 12,
 
 ## Transformations of graphs
 
+<!-- marlbridge-diagram:math-b66-oxfordaqa-parabola-horizontal-transformations -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/public/images/learning/mathematics/math-b66-oxfordaqa-parabola-horizontal-transformations.svg" aria-label="Open full-size diagram: math-b66-oxfordaqa-parabola-horizontal-transformations"><img src="/public/images/learning/mathematics/math-b66-oxfordaqa-parabola-horizontal-transformations.svg" width="1528" height="940" alt="Three parabolas compare f(x)=x²−6x+5, its left translation f(x+2), and horizontal stretch f(x/2); the vertices move to (3,−4), (1,−4) and (6,−4)." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Three parabolas compare f(x)=x²−6x+5, its left translation f(x+2), and horizontal stretch f(x/2); the vertices move to (3,−4), (1,−4) and (6,−4).</figcaption>
+</figure>
+<!-- /marlbridge-diagram:math-b66-oxfordaqa-parabola-horizontal-transformations -->
+
+
 The specification asks you to use the terms **reflection**, **translation** and **stretch** (in the x or y direction). Only single transformations are tested in descriptions.
 
 | Equation | Transformation of y = f(x) |

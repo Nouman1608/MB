@@ -35,6 +35,14 @@ Use it with the [revision notes](/resources/oxfordaqa-a-level-accounting-prepara
 FIFO, AVCO and LIFO are outside this topic: the specification states that these methods of inventory valuation will not be examined.
 
 ## Why the adjustments exist
+<!-- marlbridge-diagram:ac-b15-sole-trader-adjustment-decisions -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/accounting/ac-b15-sole-trader-adjustment-decisions.svg" aria-label="Open full-size diagram: ac-b15-sole-trader-adjustment-decisions">
+    <img src="/images/learning/accounting/ac-b15-sole-trader-adjustment-decisions.svg" width="1600" height="1050" alt="Decision map classifies each year-end adjustment by period recognition, asset measurement or expense recognition." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" />
+  </a>
+  <figcaption>Adjust for the period earned or consumed, then carry the matching asset or liability forward. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:ac-b15-sole-trader-adjustment-decisions -->
 
 A trial balance shows what was recorded. The concepts from section 3.1.5 decide what should be reported.
 

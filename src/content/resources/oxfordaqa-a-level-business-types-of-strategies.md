@@ -26,6 +26,14 @@ Recall: [revision notes](/resources/oxfordaqa-a-level-business-types-of-strategi
 
 ## What this section covers
 
+<!-- marlbridge-diagram:business-oxfordaqa-types-strategies-four-routes -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/business/business-oxfordaqa-types-strategies-four-routes.svg" aria-label="Open full-size diagram: business-oxfordaqa-types-strategies-four-routes"><img src="/images/learning/business/business-oxfordaqa-types-strategies-four-routes.svg" width="1600" height="1050" alt="Maps the four strategy routes and compares source examples for scale, innovation methods, market entry and triple-bottom-line trade-offs." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Maps the four strategy routes and compares source examples for scale, innovation methods, market entry and triple-bottom-line trade-offs. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:business-oxfordaqa-types-strategies-four-routes -->
+
+
 | Spec area (3.4.4) | Content | Stage |
 |---|---|---|
 | Business growth | SMEs, economies of scale, growth methods, integration, retrenchment; total cost, unit cost, capacity utilisation | International A-level only |

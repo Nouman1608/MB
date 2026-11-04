@@ -208,6 +208,14 @@ If an item is not replaced, the second-stage probabilities change: both the numb
 
 **Worked example 12.** A bag has 5 red and 3 blue counters. Two are taken without replacement.
 
+<!-- marlbridge-diagram:maths-b30-without-replacement-probability-tree -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/mathematics/maths-b30-without-replacement-probability-tree.svg" aria-label="Open full-size diagram: maths-b30-without-replacement-probability-tree"><img src="/images/learning/mathematics/maths-b30-without-replacement-probability-tree.svg" width="1600" height="1050" alt="On the first draw P(R)=5/8 and P(B)=3/8. Without replacement the second-draw denominators are 7. Same-colour probability is 5/8×4/7 + 3/8×2/7 = 26/56 = 13/28." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>On the first draw P(R)=5/8 and P(B)=3/8. Without replacement the second-draw denominators are 7. Same-colour probability is 5/8×4/7 + 3/8×2/7 = 26/56 = 13/28. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:maths-b30-without-replacement-probability-tree -->
+
+
 ```
 P(both red)  = 5/8 × 4/7 = 20/56
 P(both blue) = 3/8 × 2/7 = 6/56

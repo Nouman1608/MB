@@ -258,6 +258,14 @@ For (a + b)ⁿ, the term in aⁿ⁻ʳbʳ has coefficient nCr, and the powers of 
 
 ### Worked example 8
 
+<!-- marlbridge-diagram:math-b64-oxfordaqa-binomial-expansion-power-five -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/public/images/learning/mathematics/math-b64-oxfordaqa-binomial-expansion-power-five.svg" aria-label="Open full-size diagram: math-b64-oxfordaqa-binomial-expansion-power-five"><img src="/public/images/learning/mathematics/math-b64-oxfordaqa-binomial-expansion-power-five.svg" width="1528" height="940" alt="Six term cards pair Pascal coefficients with powers of 2 and −3x to expand (2−3x)⁵, producing alternating signs and a final check at x=1." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Six term cards pair Pascal coefficients with powers of 2 and −3x to expand (2−3x)⁵, producing alternating signs and a final check at x=1.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:math-b64-oxfordaqa-binomial-expansion-power-five -->
+
+
 Expand (2 − 3x)⁵.
 
 The coefficients are 1, 5, 10, 10, 5, 1. Take a = 2 and b = −3x.

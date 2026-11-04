@@ -124,6 +124,20 @@ The field just outside each sphere is E = σ/ε₀ (Topic 10.1), which also equa
 Topic 10.1 stated that σ is largest at points and edges. The two-sphere model explains it. Think of a sharp tip as a small sphere and a broad, flat region as a large sphere, both parts of one conductor at one potential. Since σ ∝ 1/R at a fixed potential, the tightly curved tip carries the larger σ and the stronger field. Very strong fields near sharp points can make the surrounding air conduct, which is why high-voltage equipment is usually built with smooth, rounded surfaces.
 
 ## Conductors inside conductors
+<!-- marlbridge-diagram:physcem-b23-connected-nested-conductors -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/physics/physcem-b23-connected-nested-conductors.svg" aria-label="Open full-size diagram: physcem-b23-connected-nested-conductors"><img src="/images/learning/physics/physcem-b23-connected-nested-conductors.svg" width="1600" height="1050" alt="A positively charged inner conducting sphere inside an initially neutral hollow conductor is connected to the shell by a wire. Initially the shell has induced negative charge on its inner wall and matching positive charge on its outside. After connection, charge redistributes so the inner sphere and cavity wall carry zero net charge and the total positive charge resides on the shell’s outside." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>For an initially neutral shell and no other charges, connecting the inner conductor and shell makes one equipotential conductor. In equilibrium, the electric field in the cavity is zero; all net charge is on the exterior surface. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:physcem-b23-connected-nested-conductors -->
+
+
+<!-- marlbridge-diagram:physcem-b15-nested-conductor-connection-charge-flow -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/physics/physcem-b15-nested-conductor-connection-charge-flow.svg" aria-label="Open full-size diagram: physcem-b15-nested-conductor-connection-charge-flow"><img src="/images/learning/physics/physcem-b15-nested-conductor-connection-charge-flow.svg" width="1600" height="1050" alt="Before connection, an inner conductor carries +q and the outer shell has net charge Q. Once joined, both conductors and the cavity wall carry zero net charge; Q+q is on the outside surface. Total charge is conserved." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Before connection, an inner conductor carries +q and the outer shell has net charge Q. Once joined, both conductors and the cavity wall carry zero net charge; Q+q is on the outside surface. Total charge is conserved. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:physcem-b15-nested-conductor-connection-charge-flow -->
 
 Put a charged conductor inside the cavity of a hollow conductor, then join them with a wire. Now they are one conductor, so they must be at the same potential.
 
@@ -133,6 +147,13 @@ Put a charged conductor inside the cavity of a hollow conductor, then join them 
 This happens **however much charge** the outer conductor already has. The inner conductor always starts at a higher potential than the shell when it carries positive charge, so positive charge flows outward. This is the principle of the Van de Graaff generator, which keeps carrying charge to the inside of its metal dome.
 
 ## Ground: the ideal reference
+
+<!-- marlbridge-diagram:physcem-b21-grounding-order-and-induced-charge -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/physics/physcem-b21-grounding-order-and-induced-charge.svg" aria-label="Open full-size diagram: grounding sequence and retained induced charge"><img src="/images/learning/physics/physcem-b21-grounding-order-and-induced-charge.svg" width="1600" height="1050" alt="A positive external charge induces negative charge on a grounded sphere; disconnecting ground before removing the external charge leaves the sphere negatively charged." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Ground the conductor near an external charge, disconnect ground first, then remove the external charge to retain the induced net charge. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:physcem-b21-grounding-order-and-induced-charge -->
 
 **Ground** is an idealized conductor that:
 

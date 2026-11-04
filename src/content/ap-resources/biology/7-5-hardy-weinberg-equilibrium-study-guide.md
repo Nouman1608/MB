@@ -30,7 +30,7 @@ sources: ["ced-biology", "page-biology"]
 keyPoints:
   - "Hardy–Weinberg equilibrium is a model of a population that is not evolving: allele and genotype frequencies stay the same from one generation to the next."
   - "For two alleles with frequencies p and q: p + q = 1, and the genotype frequencies are p² (homozygous one way), 2pq (heterozygous) and q² (homozygous the other way)."
-  - "The five conditions are a large population, no migration, no new mutations, random mating and no natural selection. Real populations never meet all five."
+  - "In the idealised Hardy–Weinberg model, the five assumptions are a very large population, no migration or mutation, random mating and no selection. These are sufficient assumptions for stable allele frequencies and genotype proportions; real populations can still fit the model closely or have stable frequencies when forces balance."
   - "Because the conditions are never fully met, the model is a null hypothesis: if observed data differ clearly from its prediction, at least one condition is being broken."
   - "Count alleles to get p from genotype data. Use q = √(q²) only if you assume the population is in equilibrium."
 faqs:
@@ -83,6 +83,8 @@ Now imagine every individual releases gametes into one big pool, and gametes pai
 These three genotype frequencies cover every individual, so:
 
 **p² + 2pq + q² = 1**
+
+This equation predicts genotype proportions among offspring formed by random union of gametes from the current allele pool. A sample that fits these proportions at one time point has not, by that fact alone, shown that allele frequencies will stay constant in later generations. The five model conditions concern the idealised persistence of frequencies over time.
 
 <figure>
 <svg viewBox="0 0 560 400" role="img" aria-labelledby="gs-title gs-desc" xmlns="http://www.w3.org/2000/svg" font-family="system-ui, sans-serif">
@@ -148,7 +150,7 @@ Figure 2 shows how the three genotype frequencies depend on q. Two features are 
 
 ## The five conditions
 
-Allele and genotype frequencies stay constant only if all five conditions hold. Each one rules out a force you met in Topics 7.2–7.4.
+In this idealised model, all five conditions together are sufficient for allele frequencies to remain stable and random mating to produce the predicted genotype proportions. They are not logically necessary for an observed sample to fit p², 2pq and q² or for allele frequencies to remain stable: forces can be weak, undetected, or balanced.
 
 | Condition | What it rules out | What happens if it is broken |
 |---|---|---|
@@ -160,7 +162,7 @@ Allele and genotype frequencies stay constant only if all five conditions hold. 
 
 Note the special case of mating. If relatives mate, or a plant fertilises itself, heterozygotes become rarer and both homozygotes become more common. Allele frequencies do not change from that alone: the same alleles are just packaged into different genotypes. But if mate choice means some genotypes get more mates and leave more offspring than others, that is sexual selection, which does change allele frequencies.
 
-**The conditions are never all met in nature.** Every real population is finite, and mutations always occur. So why is the model useful? Because it is a **null hypothesis**: a precise statement of what you expect if no evolutionary force is acting at a gene. If the observed frequencies differ from that expectation by more than chance would explain, at least one condition is being broken, and you can investigate which. If they match, you have no evidence that the population is evolving at that gene. You have not proved it is not.
+**The conditions are idealisations, not a checklist that proves evolutionary stasis.** Finite populations experience drift, and mutations occur, but effects may be too small to detect or can be counteracted by other forces. The model is a **null expectation**: compare observed genotype counts with p², 2pq and q² under random union of gametes, then use a suitable test and biological evidence to investigate departures. A close fit does not prove that the population is not evolving or that every assumption holds.
 
 ## Two routes to allele frequencies
 
@@ -245,7 +247,7 @@ Always say "consistent with" or "suggests". A graph alone rarely proves the caus
 - **"q is the frequency of the recessive phenotype."** That frequency is q². Take the square root to get q.
 - **"You can always use √(q²)."** Only if you assume equilibrium. If you know every genotype, count alleles instead.
 - **"Inbreeding changes allele frequencies."** On its own, it changes genotype frequencies (fewer heterozygotes) but not allele frequencies.
-- **"Real populations are in Hardy–Weinberg equilibrium."** The conditions are never all met. The model is a baseline for comparison.
+- **"Real populations either meet every condition or cannot fit Hardy–Weinberg proportions."** A close fit can occur in a real population even when assumptions are only approximate, and opposing forces can sometimes maintain stable allele frequencies. The model remains a baseline for comparison.
 - **"Failing to reject the null hypothesis proves the population is not evolving."** It means there is no evidence of change at that gene in that sample.
 - **"Individuals evolve."** Allele frequencies are a property of a population. An individual's genotype does not change during its life.
 

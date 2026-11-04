@@ -128,6 +128,11 @@ For the human, n = 23: 2²³ = **8 388 608** gamete types from independent segre
 
 ## Completing chromosome diagrams
 
+
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <!-- marlbridge-diagram:complete-bio-meiosis-separation --><a href="/images/learning/biology/complete-bio-meiosis-separation.svg" aria-label="Open full-size diagram: Meiosis I and II: what attaches and what separates" title="Meiosis I and II: what attaches and what separates"><img src="/images/learning/biology/complete-bio-meiosis-separation.svg" width="1528" height="1515" alt="Four original panels compare metaphase I, anaphase I, metaphase II and anaphase II in a model starting with two homologous pairs. In meiosis I the long and short homologues pair; sisters co-orient toward one pole and homologues face opposite poles. Anaphase I retains four duplicated chromosomes in the single cell, two toward each pole. Meiosis II follows one haploid daughter containing one maternal long and one paternal short chromosome: its two duplicated chromosomes align singly with opposite-pole sister attachments. Anaphase II shows four single-chromatid daughter chromosomes briefly in that cell, two moving centromere-first toward each pole. No S phase intervenes; each final product has two chromosomes. The second meiosis-I daughter also divides, giving four products overall. Crossing-over and the molecular linkage between homologues are omitted for this counting model, not asserted absent from natural meiosis. Pole markers do not depict universal centrosome anatomy." title="Meiosis I and II: what attaches and what separates" loading="lazy" decoding="async" style="display:block;width:100%;height:auto;" /></a>
+  <figcaption>Follow homologous chromosome separation in meiosis I and sister chromatid separation in meiosis II, then track the chromosome count. Select the diagram to enlarge it.</figcaption>
+</figure>
 Count in chromosomes and then in chromatids. Take a parent cell with 2n = 4: one long pair and one short pair.
 
 | Cell | Chromosomes | Chromatids per chromosome | Pairs? |

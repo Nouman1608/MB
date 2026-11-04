@@ -107,6 +107,14 @@ f(x) = dF(x)/dx
 
 ### Worked example 2: a piecewise pdf and its cdf
 
+<!-- marlbridge-diagram:maths-b16-continuous-random-pdf-cdf -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/mathematics/maths-b16-continuous-random-pdf-cdf.svg" aria-label="Open full-size diagram: maths-b16-continuous-random-pdf-cdf"><img src="/images/learning/mathematics/maths-b16-continuous-random-pdf-cdf.svg" width="1600" height="1050" alt="Piecewise probability density and its cumulative distribution for a continuous variable; the shaded interval probability P(1<X<3) equals 7/12." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Piecewise probability density and its cumulative distribution for a continuous variable; the shaded interval probability P(1<X<3) equals 7/12. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:maths-b16-continuous-random-pdf-cdf -->
+
+
 The random variable X has pdf
 
 ```

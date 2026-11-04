@@ -84,6 +84,15 @@ Two patterns help you remember the table. Moving down the airways, **cartilage d
 
 ## 9.1.3 and 9.1.4 Recognising tissues and structures
 
+<figure class="my-8" id="objective-bio-open-135-alveoli-sem" data-objective-id="BIO-OPEN-135"><img src="/images/learning/biology/bio-open-135-alveoli-sem-wellcome.jpg" alt="Scanning electron micrograph of human lung alveoli showing branching walls around many air spaces; left-hand image of a stereoscopic pair." width="3956" height="2902" loading="lazy" decoding="async" /><figcaption>Human alveoli SEM. David Gregory and Debbie Marshall, <a href="https://wellcomecollection.org/works/gmfp6wu3">Wellcome Collection</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>. Footer attribution added to display copy; source field retained in full.</figcaption></figure>
+
+<figure class="my-8" id="objective-bio-open-135-alveoli-photo" data-objective-id="BIO-OPEN-135"><img src="/images/learning/biology/bio-open-135-alveoli-photomicrograph-umich.jpg" alt="Lung alveolar photomicrograph with numbered outlines: 1 type II pneumocyte, 2 type I pneumocyte and 3 alveolar macrophage." width="869" height="778" loading="lazy" decoding="async" /><figcaption>Photomicrograph by RWhitwam; tissue image from Michael Hortsch and the University of Michigan Medical School. <a href="https://commons.wikimedia.org/wiki/File:Alveolus_cell_types_photomicrograph.png">Source record</a>. Footer adaptation is distributed under <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>.</figcaption></figure>
+
+<figure class="my-8" id="objective-bio-open-135-trachea-wall-10x" data-objective-id="BIO-OPEN-135"><img src="/images/learning/biology/bio-b56-trachea-wall-10x.jpg" alt="Low-power 10× H&amp;E photomicrograph of a tracheal wall section. A broad region of hyaline cartilage with chondrocytes lies beneath the surrounding airway tissues; fine epithelial detail is not resolved at this magnification." width="3264" height="2448" loading="lazy" decoding="async" /><figcaption>Tracheal histology, H&amp;E, 10×. Dr. Torres Valencia, histological sample from Instituto Nacional de Cardiología Ignacio A. Chávez; <a href="https://commons.wikimedia.org/wiki/File:Histological_sample_of_Trachea_obtained_at_%22Instituto_Nacional_de_Cardiolog%C3%ADa_Ignacio_A._Ch%C3%A1vez%22.JPG">source record</a>. Image displayed unmodified under <a href="https://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</a>.</figcaption></figure>
+
+<figure class="my-8" id="objective-bio-open-135-trachea-epithelium" data-objective-id="BIO-OPEN-135"><img src="/images/learning/biology/bio-b56-masson-human-trachea-epithelium.jpg" alt="High-power Masson trichrome photomicrograph of human tracheal pseudostratified ciliated columnar epithelium. C marks ciliated cells, G goblet cells, B basal cells and BM the basement membrane." width="1114" height="700" loading="lazy" decoding="async" /><figcaption>Human tracheal respiratory epithelium, Masson trichrome stain. Image by John.devos; source description credits Collège des Histologistes, Embryologistes et Cytogénéticiens. <a href="https://commons.wikimedia.org/wiki/File:Masson%27s_trichrome_staining_of_the_Human_trachea.jpg">source record</a>. Image displayed unmodified under <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>.</figcaption></figure>
+
+
 ### What each tissue looks like
 
 - **Cartilage**: a pale, glassy matrix with cells sitting in small spaces; large and obvious in TS of the trachea.
@@ -116,6 +125,13 @@ Always convert to µm before dividing, or your answer will be 1000 times too sma
 - Keep the **correct proportions**: for the trachea, the cartilage layer is much thicker than the epithelium.
 - Include every layer visible, from the lining to the outer edge: ciliated epithelium, the layer containing glands, cartilage and the outer layer.
 - Label with ruled lines that touch the layer they name and do not cross each other.
+
+<!-- marlbridge-diagram:bio-b19-trachea-bronchus-wall-plan -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/biology/bio-b19-trachea-bronchus-wall-plan.svg" aria-label="Open full-size diagram: Trachea and bronchus: airway wall plan diagrams"><img src="/images/learning/biology/bio-b19-trachea-bronchus-wall-plan.svg" width="1600" height="1000" alt="Side-by-side line-only plan diagrams of trachea and bronchus wall layers, from ciliated epithelium to cartilage and outer tissue." loading="lazy" decoding="async" style="display:block;width:100%;height:auto;" /></a>
+  <figcaption>Worked plan-diagram exemplars: continuous C-shaped cartilage in the trachea and separate cartilage plates in the bronchus. Tissue outlines only; individual cells and shading are omitted. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:bio-b19-trachea-bronchus-wall-plan -->
 
 ## 9.1.5 Keeping the system healthy
 

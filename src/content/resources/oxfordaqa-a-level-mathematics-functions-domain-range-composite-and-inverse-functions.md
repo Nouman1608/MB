@@ -182,6 +182,14 @@ The only solution is x = 1.
 
 ### Solving modulus inequalities
 
+<!-- marlbridge-diagram:math-b72-oxfordaqa-modulus-inequality-graph -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/public/images/learning/mathematics/math-b72-oxfordaqa-modulus-inequality-graph.svg" aria-label="Open full-size diagram: math-b72-oxfordaqa-modulus-inequality-graph"><img src="/public/images/learning/mathematics/math-b72-oxfordaqa-modulus-inequality-graph.svg" width="1528" height="940" alt="Graphs of y=|x+5| and y=2|x−1| intersect at −1 and 7; shading shows the first graph below the second for x&lt;−1 and x&gt;7." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Graphs of y=|x+5| and y=2|x−1| intersect at −1 and 7; shading shows the first graph below the second for x&lt;−1 and x&gt;7.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:math-b72-oxfordaqa-modulus-inequality-graph -->
+
+
 The specification's method is to solve the matching equation, then use a sketch. The equation gives the crossing points. The sketch tells you which side to shade.
 
 **Worked example 9.** Solve |x + 5| < 2|x − 1|.

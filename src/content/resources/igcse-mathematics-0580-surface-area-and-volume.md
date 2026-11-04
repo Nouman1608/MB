@@ -182,6 +182,14 @@ Use the unrounded radius in the second step. The syllabus says that when you use
 
 ## Pyramids
 
+<!-- marlbridge-diagram:math-b53-pyramid-height-roles -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/public/images/learning/mathematics/math-b53-pyramid-height-roles.svg" aria-label="Open full-size diagram: math-b53-pyramid-height-roles"><img src="/public/images/learning/mathematics/math-b53-pyramid-height-roles.svg" width="1528" height="940" alt="In the source worked example, square base 16 cm, perpendicular height 15 cm and face slant height 17 cm give volume ⅓×256×15=1,280 cm³ and total surface area 256+4×(½×16×17)=800 cm². The diagram keeps the two heights visually distinct." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>In the source worked example, square base 16 cm, perpendicular height 15 cm and face slant height 17 cm give volume ⅓×256×15=1,280 cm³ and total surface area 256+4×(½×16×17)=800 cm². The diagram keeps the two heights visually distinct. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:math-b53-pyramid-height-roles -->
+
+
 ```
 V  = (1/3) × base area × perpendicular height
 SA = base area + area of each triangular face

@@ -296,6 +296,14 @@ cancel 15 and 5 by 5:   3/1 × 3/2
 
 ### Practical problems
 
+<!-- marlbridge-diagram:math-b49-0580-fraction-division-ribbon -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/mathematics/math-b49-0580-fraction-division-ribbon.svg" aria-label="Open full-size diagram: math-b49-0580-fraction-division-ribbon"><img src="/images/learning/mathematics/math-b49-0580-fraction-division-ribbon.svg" width="1600" height="1050" alt="A 7½ m ribbon is partitioned into twelve equal sections, each ⅝ m. The calculation shows 7½ ÷ ⅝ = 15/2 × 8/5 = 12 pieces, checked by multiplying 12 × ⅝ = 7½." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>A 7½ m ribbon is partitioned into twelve equal sections, each ⅝ m. The calculation shows 7½ ÷ ⅝ = 15/2 × 8/5 = 12 pieces, checked by multiplying 12 × ⅝ = 7½. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:math-b49-0580-fraction-division-ribbon -->
+
+
 **Worked example 17.** A ribbon 7½ m long is cut into pieces each ⅝ m long. How many pieces are there?
 
 ```

@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1528 940" role="img" aria-labelledby="title desc">
+  <title id="title">Draw skeletal formulas from names: alcohol chain and six-membered ring</title>
+  <desc id="desc">A skeletal drawing of 4-methylpentan-2-ol shows a five-carbon parent chain, one methyl branch and an explicit OH group at carbon 2. A cyclohexanol drawing shows six carbon vertices and an explicit OH substituent. Carbon hydrogens are omitted; the hydrogen on oxygen is shown.</desc>
+  <defs>
+    <style>
+      text{font-family:Arial,"Liberation Sans",sans-serif;fill:#172b4d}.title{font-size:32px;font-weight:700}.sub{font-size:18px;fill:#475569}
+      .head{font-size:23px;font-weight:700;fill:#0f766e}.label{font-size:18px;font-weight:700}.small{font-size:16px;fill:#475569}
+      .bond{stroke:#334155;stroke-width:6;fill:none;stroke-linecap:round;stroke-linejoin:round}.thin{stroke:#64748b;stroke-width:2;fill:none}
+    </style>
+  </defs>
+  <rect width="1528" height="940" rx="24" fill="#f4f8fb"/>
+  <text class="title" x="54" y="62">Drawing skeletal formulas from a name</text>
+  <text class="sub" x="55" y="96">Build the carbon framework first; write heteroatoms and any hydrogen attached to them explicitly.</text>
+  <text x="1472" y="60" text-anchor="end" font-size="15" font-weight="700" fill="#0f766e">AQA A-LEVEL CHEMISTRY</text>
+
+  <rect x="45" y="132" width="910" height="670" rx="18" fill="#fff" stroke="#cbd5e1" stroke-width="2"/>
+  <text class="head" x="82" y="182">4-methylpentan-2-ol</text>
+  <text class="small" x="82" y="214">Parent chain: five carbons • OH at C2 • methyl branch at C4</text>
+
+  <!-- Parent carbon chain C1-C2-C3-C4-C5 -->
+  <path class="bond" d="M178 390 L296 315 L414 390 L532 315 L650 390"/>
+  <!-- OH group at carbon 2 -->
+  <path class="bond" d="M296 315 L296 256"/>
+  <text x="296" y="244" text-anchor="middle" font-size="25" font-weight="700" fill="#0f766e">OH</text>
+  <!-- methyl branch on carbon 4 -->
+  <path class="bond" d="M532 315 L532 256"/>
+  <text x="532" y="244" text-anchor="middle" font-size="20" font-weight="700">CH₃</text>
+  <!-- numbering -->
+  <g fill="#fff" stroke="#267bb3" stroke-width="3">
+    <circle cx="178" cy="390" r="20"/><circle cx="296" cy="315" r="20"/><circle cx="414" cy="390" r="20"/><circle cx="532" cy="315" r="20"/><circle cx="650" cy="390" r="20"/>
+  </g>
+  <g font-size="17" font-weight="700" text-anchor="middle">
+    <text x="178" y="396">1</text><text x="296" y="321">2</text><text x="414" y="396">3</text><text x="532" y="321">4</text><text x="650" y="396">5</text>
+  </g>
+  <path d="M690 355 L805 355" stroke="#147d82" stroke-width="3"/>
+  <text class="label" x="82" y="475">Name → structure checks</text>
+  <text class="small" x="82" y="509">1. “Pent” gives five carbons in the parent zigzag.</text>
+  <text class="small" x="82" y="538">2. Number from the end that gives –OH the lower locant: C2.</text>
+  <text class="small" x="82" y="567">3. Add the methyl branch at C4; this makes six carbons total.</text>
+  <text class="small" x="82" y="596">4. Write O and its H explicitly as –OH; omit H on carbon.</text>
+  <rect x="82" y="644" width="818" height="94" rx="12" fill="#eef5f8"/>
+  <text class="label" x="108" y="680">Every carbon has four bonds</text>
+  <text class="small" x="108" y="710">Unlabelled line ends and corners are carbon atoms; carbon hydrogens are inferred.</text>
+
+  <rect x="986" y="132" width="497" height="670" rx="18" fill="#fff" stroke="#cbd5e1" stroke-width="2"/>
+  <text class="head" x="1022" y="182">Cyclohexanol</text>
+  <text class="small" x="1022" y="214">A six-carbon ring with an explicit –OH group</text>
+  <!-- six ring vertices -->
+  <path class="bond" d="M1125 299 L1230 239 L1335 299 L1335 419 L1230 479 L1125 419 Z"/>
+  <!-- OH at vertex 1 -->
+  <path class="bond" d="M1125 299 L1069 267"/>
+  <text x="1046" y="258" text-anchor="middle" font-size="23" font-weight="700" fill="#0f766e">OH</text>
+  <g fill="#fff" stroke="#267bb3" stroke-width="3">
+    <circle cx="1125" cy="299" r="19"/><circle cx="1230" cy="239" r="19"/><circle cx="1335" cy="299" r="19"/><circle cx="1335" cy="419" r="19"/><circle cx="1230" cy="479" r="19"/><circle cx="1125" cy="419" r="19"/>
+  </g>
+  <g font-size="16" font-weight="700" text-anchor="middle">
+    <text x="1125" y="305">1</text><text x="1230" y="245">2</text><text x="1335" y="305">3</text><text x="1335" y="425">4</text><text x="1230" y="485">5</text><text x="1125" y="425">6</text>
+  </g>
+  <text class="label" x="1022" y="556">Ring and heteroatom checks</text>
+  <text class="small" x="1022" y="588">• Six corners mean six carbon atoms.</text>
+  <text class="small" x="1022" y="617">• The O atom and its H are written as OH.</text>
+  <text class="small" x="1022" y="646">• The carbon bearing OH has one implied H.</text>
+  <text class="small" x="1022" y="675">• Number the OH-bearing carbon as C1.</text>
+  <text x="1478" y="914" text-anchor="end" font-size="15" font-weight="700" fill="#47647b">MARLBRIDGE • STUDY RESOURCES</text>
+</svg>

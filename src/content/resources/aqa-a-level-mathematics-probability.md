@@ -158,6 +158,14 @@ If A and B are independent, P(A | B) = P(A). This is a second way to test for in
 
 ### Two-way tables
 
+<!-- marlbridge-diagram:maths-aqa-conditional-probability-two-way-table -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/mathematics/maths-aqa-conditional-probability-two-way-table.svg" aria-label="Open full-size diagram: maths-aqa-conditional-probability-two-way-table"><img src="/images/learning/mathematics/maths-aqa-conditional-probability-two-way-table.svg" width="1600" height="1050" alt="Reproduces the source table of 300 gym members and contrasts P(app|under 30)=84/120 with P(under 30|app)=84/156." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Reproduces the source table of 300 gym members and contrasts P(app|under 30)=84/120 with P(under 30|app)=84/156. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:maths-aqa-conditional-probability-two-way-table -->
+
+
 In a table of counts, "given B" means "use only the B row or column". The denominator is that
 row or column total, not the grand total.
 

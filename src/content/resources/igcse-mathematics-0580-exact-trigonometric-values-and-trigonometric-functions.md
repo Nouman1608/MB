@@ -203,6 +203,14 @@ A negative calculator angle is outside the range. Apply the rule to the calculat
 
 ### Worked example 5: non-calculator equation with a sine
 
+<!-- marlbridge-diagram:maths-b32-negative-sine-equation -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/mathematics/maths-b32-negative-sine-equation.svg" aria-label="Open full-size diagram: maths-b32-negative-sine-equation"><img src="/images/learning/mathematics/maths-b32-negative-sine-equation.svg" width="1600" height="1050" alt="Rearrange to sin x=−1/2. The reference angle is 30°. Sine is negative in quadrants III and IV, giving x=210° and x=330° in 0°≤x≤360°." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Rearrange to sin x=−1/2. The reference angle is 30°. Sine is negative in quadrants III and IV, giving x=210° and x=330° in 0°≤x≤360°. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:maths-b32-negative-sine-equation -->
+
+
 Solve 2 sin x + 1 = 0 for 0° ⩽ x ⩽ 360°.
 
 ```

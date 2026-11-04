@@ -230,6 +230,14 @@ After 4 s the velocity is **(4, 3) m s⁻¹**, the speed is **5 m s⁻¹** and t
 
 ## Common errors
 
+<!-- marlbridge-diagram:math-b69-kinematics-velocity-area-distance-displacement -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/public/images/learning/mathematics/math-b69-kinematics-velocity-area-distance-displacement.svg" aria-label="Open full-size diagram: math-b69-kinematics-velocity-area-distance-displacement"><img src="/public/images/learning/mathematics/math-b69-kinematics-velocity-area-distance-displacement.svg" width="1528" height="940" alt="For source s=6t−t², v=6−2t crosses zero at t=3. Areas are +9 m and −9 m: displacement is 0 m, while distance travelled is 18 m before returning to O at t=6." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>For source s=6t−t², v=6−2t crosses zero at t=3. Areas are +9 m and −9 m: displacement is 0 m, while distance travelled is 18 m before returning to O at t=6. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:math-b69-kinematics-velocity-area-distance-displacement -->
+
+
 - Using the formulae when acceleration is not constant. State the assumption before you start.
 - Mixing km h⁻¹ and m s⁻¹ in one equation.
 - Treating distance as displacement. They differ whenever the motion reverses.

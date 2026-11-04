@@ -63,7 +63,7 @@ Keep three ideas separate:
 
 | Idea | What it is | Example of correct use |
 |---|---|---|
-| Temperature T | A property of a system, set by the average kinetic energy of its atoms | "The gas is at 400 K." |
+| Temperature T | The thermal state property that determines whether there is net thermal transfer between systems in contact. For a classical ideal gas it is proportional to mean translational kinetic energy per particle. | "The gas is at 400 K." |
 | Internal energy | The total energy of the particles inside a system | "The large tank holds more internal energy." |
 | Heating / cooling | A transfer of energy caused by a temperature difference | "The gas was heated by 37 J." |
 
@@ -81,7 +81,7 @@ Energy moves between systems at different temperatures in three ways.
 
 Points to notice:
 
-- Every object emits radiation, not just hot ones. A hotter object emits more. Between two objects at different temperatures, the **net** radiation transfer is from the hotter to the colder.
+- Objects at temperatures above absolute zero emit thermal radiation, including objects that feel cold. For equal emitting area and the same emissivity, the hotter surface emits greater power. In an ordinary passive exchange between two objects, net radiative energy transfer is from the hotter to the colder.
 - Convection cannot happen inside a solid, because the material cannot flow.
 - In real situations, two or three processes usually act together. A cup of tea cools by conduction into the table, convection in the air above it, and radiation from its surface. (Evaporation also carries energy away, but you only need the three processes above.)
 - A vacuum gap stops conduction and convection, because both need matter. Only radiation can cross it. This is why a vacuum flask has a vacuum between two walls, and shiny surfaces to reduce radiation.
@@ -145,7 +145,7 @@ Topic 9.1 introduced the Maxwell–Boltzmann distribution: a graph showing how m
 - A **hotter** gas has a distribution that is **wider** and **shifted to higher speeds**, with a lower peak (the area under each curve represents the same number of atoms).
 - Even in a cold gas, some atoms are fast. Even in a hot gas, some are slow. That overlap is why a single collision can transfer energy "the wrong way".
 
-When the two samples reach equilibrium, both end up with the **same** distribution, in between the two starting ones.
+At equilibrium, samples of the same gas share the **same normalized speed-distribution shape**, intermediate between their starting-temperature shapes. A graph of particle fraction per speed interval can therefore use one common curve. Actual number-per-speed distributions scale with each sample’s total particle count: the two unequal-count boxes in Worked example 2 retain different areas. Figure 2 compares equal representative particle counts to isolate the effect of temperature.
 
 <figure>
 <svg viewBox="0 0 560 400" role="img" aria-labelledby="mb-title mb-desc" xmlns="http://www.w3.org/2000/svg" font-family="system-ui, sans-serif">

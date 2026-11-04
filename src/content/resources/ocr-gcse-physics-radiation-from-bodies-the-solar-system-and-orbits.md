@@ -110,6 +110,13 @@ If gravity switched off, the body would travel in a straight line at constant sp
 
 ## P8.3g: speed and radius of a stable orbit (Higher Tier only)
 
+<!-- marlbridge-diagram:phys-ocr-b19-orbit-radius-speed -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/physics/phys-ocr-b19-orbit-radius-speed.svg" aria-label="Open full-size diagram: Circular orbits: speed depends on radius"><img src="/images/learning/physics/phys-ocr-b19-orbit-radius-speed.svg" width="1600" height="1050" alt="Diagram compares lower and higher Earth orbits; gravity points inward, velocity tangent, and the higher orbit has lower speed." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>For the same central body, larger stable circular orbit radius corresponds to lower speed; guide examples compare 7460 m/s and 3070 m/s. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:phys-ocr-b19-orbit-radius-speed -->
+
 A stable circular orbit needs the right speed for its radius. Gravity is weaker further from the planet. At a smaller radius gravity is stronger, so the inward force is greater and a higher speed is needed to keep the body moving in a circle instead of falling in.
 
 Three consequences, all qualitative:

@@ -76,6 +76,14 @@ National and International Economics -- depends on.
 
 ## Core content: markets, prices and firms
 
+<!-- marlbridge-diagram:economics-ocr-gcse-factor-product-market-interdependence -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/economics/economics-ocr-gcse-factor-product-market-interdependence.svg" aria-label="Open full-size diagram: economics-ocr-gcse-factor-product-market-interdependence"><img src="/images/learning/economics/economics-ocr-gcse-factor-product-market-interdependence.svg" width="1600" height="1050" alt="A two-market flow map distinguishes output and spending in product markets from resources and factor income in factor markets, with saving and finance shown as a linked channel." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>A two-market flow map distinguishes output and spending in product markets from resources and factor income in factor markets, with saving and finance shown as a linked channel. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:economics-ocr-gcse-factor-product-market-interdependence -->
+
+
 **Economic sectors and markets.** The **primary** sector extracts raw
 materials (farming, mining, fishing); the **secondary** sector
 manufactures goods from them; the **tertiary** sector provides

@@ -106,6 +106,13 @@ For glucose, C₆H₁₂O₆ + 6O₂ → 6CO₂ + 6H₂O gives 6 ÷ 6 = **1.0**.
 
 ### Measuring RQ with a simple respirometer
 
+<!-- marlbridge-diagram:bio-b17-respirometer-rq-worked-example -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/biology/bio-b17-respirometer-rq-worked-example.svg" aria-label="Open full-size diagram: Respirometer: calculate respiratory quotient"><img src="/images/learning/biology/bio-b17-respirometer-rq-worked-example.svg" width="1600" height="1000" alt="Shows why KOH movement measures oxygen uptake, water-run movement measures O₂ minus CO₂, and reproduces the source RQ result of 0.75." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Shows why KOH movement measures oxygen uptake, water-run movement measures O₂ minus CO₂, and reproduces the source RQ result of 0.75. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:bio-b17-respirometer-rq-worked-example -->
+
 Set up two identical tubes: one with germinating seeds (or blowfly larvae), one with glass beads of the same volume as a control. A capillary tube with coloured liquid is attached to each. Stand them in a water bath and leave them to equilibrate before taking readings.
 
 - **Run 1, with potassium hydroxide (or soda lime)** to absorb CO₂: the liquid moves towards the organisms by a distance that measures **oxygen uptake**.
@@ -164,6 +171,13 @@ The acetyl group combines with **coenzyme A** to form **acetyl coenzyme A**. Coe
 Each glucose gives two pyruvate, so the link reaction and the cycle each run twice per glucose.
 
 ### NAD, FAD and oxidative phosphorylation
+
+<!-- marlbridge-diagram:bio-b17-oxidative-phosphorylation-chemiosmosis -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/biology/bio-b17-oxidative-phosphorylation-chemiosmosis.svg" aria-label="Open full-size diagram: Oxidative phosphorylation: electron transport and chemiosmosis"><img src="/images/learning/biology/bio-b17-oxidative-phosphorylation-chemiosmosis.svg" width="1600" height="1000" alt="Shows reduced coenzymes delivering hydrogen, electron transport powering proton transfer, proton return through ATP synthase, and oxygen forming water." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Shows reduced coenzymes delivering hydrogen, electron transport powering proton transfer, proton return through ATP synthase, and oxygen forming water. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:bio-b17-oxidative-phosphorylation-chemiosmosis -->
 
 NAD and FAD are **coenzymes that accept hydrogen** in glycolysis, the link reaction and the Krebs cycle. As reduced NAD and reduced FAD, they **carry the hydrogen to carriers in the inner mitochondrial membrane**, and are oxidised again so they can be reused.
 

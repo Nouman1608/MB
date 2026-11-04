@@ -45,7 +45,7 @@ Respiration is a set of chemical reactions in every living cell that break down 
 
 Three points are tested again and again:
 
-- Respiration happens in **all** living cells, all the time: in plants, animals, fungi and bacteria, day and night.
+- Living cells need ATP for energy-demanding processes, and respiration is a major source of that ATP in plants, animals, fungi and bacteria. Rates vary with cell state: dormancy and low-activity states reduce metabolic demand, and photosynthetic cells also make ATP by photophosphorylation.
 - Respiration is controlled by **enzymes**, so its rate depends on temperature and pH.
 - Respiration **releases** energy. It does not "make" or "produce" energy. Energy cannot be created; it is transferred from glucose to ATP. Some is lost as heat.
 
@@ -53,7 +53,7 @@ Do not confuse respiration with breathing. Breathing (ventilation) moves air in 
 
 ## ATP: the energy carrier (2.34–2.35)
 
-ATP stands for **adenosine triphosphate**. When glucose is broken down in respiration, the energy released is used to make ATP. The cell then breaks ATP down whenever it needs energy for a process. ATP is the direct source of energy for cells; glucose is not used directly.
+ATP stands for **adenosine triphosphate**. Respiration transfers some of the chemical energy in nutrients to ATP. When ATP is hydrolysed to ADP and phosphate, energy is transferred to processes that need it; cells do not use glucose directly as the immediate energy source for most cellular work. Photosynthetic cells can also make ATP by photophosphorylation, so not every ATP molecule comes from respiration. All living cells need ATP to drive energy-requiring processes, although demand and metabolic rate vary with cell state.
 
 Cells use the energy from ATP for:
 
@@ -61,11 +61,11 @@ Cells use the energy from ATP for:
 - **active transport** of ions and molecules against a concentration gradient (for example, mineral ions into root hair cells)
 - **building large molecules** from small ones, such as proteins from amino acids
 - **cell division** and growth
-- sending **nerve impulses**.
+- maintaining ion gradients that enable **nerve impulses**, and transmitting those impulses.
 
-In mammals and birds, heat released by respiration keeps body temperature constant.
+In mammals and birds, respiration releases heat that contributes to body temperature. Temperature is kept within a viable range by homeostatic control of heat production and loss; respiration alone does not hold it perfectly constant.
 
-Cells that use a lot of energy, such as muscle cells and sperm cells, contain many mitochondria. More mitochondria means more aerobic respiration and more ATP.
+Cells with high aerobic energy demand, such as many muscle cells, often contain many mitochondria. This can support greater aerobic ATP production, but mitochondrion number alone does not determine the actual respiration or ATP-production rate.
 
 ## Aerobic respiration (2.36–2.37)
 
@@ -142,6 +142,13 @@ You need to know how to show that living organisms release carbon dioxide and he
 
 ### Showing that carbon dioxide is released
 
+<!-- marlbridge-diagram:bio-b21-seed-respiration-practical-setups -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/biology/bio-b21-seed-respiration-practical-setups.svg" aria-label="Open full-size diagram: bio-b21-seed-respiration-practical-setups"><img src="/images/learning/biology/bio-b21-seed-respiration-practical-setups.svg" width="1600" height="1000" alt="Matched set-ups compare living germinating seeds with boiled and cooled seeds: seeds sit above hydrogen-carbonate indicator on gauze, and a second pair is in insulated flasks with thermometers." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Use equal seed masses and matched conditions; the boiled and cooled seeds are non-living controls. Insulation reduces heat loss. — Marlbridge Biology.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:bio-b21-seed-respiration-practical-setups -->
+
 Two indicators are used:
 
 | Indicator | Normal air | More carbon dioxide | Less carbon dioxide |
@@ -167,7 +174,7 @@ The indicator in the tube with living seeds turns from red to yellow. The contro
 
 - Tube A: maggots respire and release carbon dioxide, which dissolves in the indicator and lowers its pH, so it changes towards yellow.
 - Tube B: glass beads do not respire, so no carbon dioxide is added and the indicator stays red. This is the control; it shows the change in A is caused by the living maggots.
-- Tube C: at the higher temperature, respiration enzymes work faster, so carbon dioxide is released faster and the indicator turns fully yellow in the same time.
+- Tube C: a moderate temperature increase can speed enzyme-controlled respiration while enzymes remain functional, so more CO₂ may accumulate during the same interval. The effect depends on the starting temperature; excessive heat can disrupt enzymes. Indicator colour is a qualitative, bounded proxy for CO₂ change, not a linear measurement of respiration rate.
 
 ### Showing that heat is released
 
@@ -175,12 +182,12 @@ The indicator in the tube with living seeds turns from red to yellow. The contro
 
 1. Soak peas in water for a day so they start to germinate.
 2. Boil a second batch to kill them, then cool.
-3. Rinse **both** batches in dilute disinfectant. This kills microorganisms on the surface, which would otherwise respire and release heat themselves.
-4. Put each batch in a **vacuum flask**. The flask insulates the seeds, so heat released is not lost to the surroundings.
-5. Plug each flask loosely with cotton wool, with a thermometer passing into the seeds. The cotton wool lets oxygen in for aerobic respiration but keeps heat in.
+3. Rinse **both** batches in dilute disinfectant to reduce surface microorganisms that could also respire and release heat; this does not guarantee sterility.
+4. Put each batch in a **vacuum flask**. Its insulation reduces heat transfer to the surroundings; it does not stop heat loss entirely.
+5. Plug each flask loosely with cotton wool, with a thermometer passing into the seeds. The cotton wool allows oxygen in while reducing convection and heat loss.
 6. Record the temperature in each flask every day for several days.
 
-The flask of germinating peas warms up; the flask of boiled peas stays at about room temperature. The boiled peas are the control: their cells are dead, so they do not respire.
+The germinating-pea flask should show a greater temperature rise than the boiled-seed control because living seeds respire. The measured rise is the net result of heat released and heat lost to the surroundings; the insulation reduces, but does not eliminate, that loss.
 
 ### Worked example 3: processing heat data
 
@@ -193,7 +200,7 @@ Temperature rise = 27.0 − 21.0 = 6.0 °C
 Mean rate = 6.0 ÷ 4 = 1.5 °C per day
 ```
 
-The germinating peas respire and release energy as heat. The vacuum flask stops the heat escaping, so the temperature rises. The boiled peas are dead and cannot respire, so their temperature does not change.
+The germinating peas respire and transfer some nutrient energy as heat. The insulated flask reduces heat loss, so its temperature rises; some heat still escapes. The boiled peas are non-living and do not respire, so their flask should show little or no respiration-related rise.
 
 Always include the unit (°C per day) and use the same time unit given in the question.
 

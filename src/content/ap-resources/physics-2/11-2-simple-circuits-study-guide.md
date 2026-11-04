@@ -63,7 +63,7 @@ A circuit is made of one or more **electrical loops**. A loop is a path that sta
 Charge can flow continuously only around a **closed loop**: a complete path with no gap. Three words describe what is possible.
 
 - **Closed circuit.** There is a complete loop that includes the source, so charges would be able to flow. Any switches in that loop must be closed.
-- **Open circuit.** There is a break somewhere in the loop, for example an open switch, a loose connection or a broken filament. Charges cannot flow around it. Every element in that loop then has zero current, wherever the break is. The current does not "reach the gap and stop": with no complete loop, there is no flow anywhere in that loop.
+- **Open circuit.** There is a break somewhere in the loop, for example an open switch, a loose connection or a broken filament. In a simple series circuit with no alternate path, this makes the current zero throughout that loop. In a branched circuit, current can still flow through other complete loops, so use the circuit layout and Kirchhoff’s rules to identify which branches carry current.
 - **Short circuit.** There is a path along which charges can flow **with no change in potential**, usually a plain wire connected across an element such as a bulb or resistor. The two ends of the shorted bulb or resistor are joined by an ideal wire, so they are at the same potential. With no potential difference across it, it carries no current. Charges take the wire path instead.
 
 A wire connected straight across a battery is a dangerous short circuit. Almost nothing limits the current, so the battery and wire can become very hot. You will see why in Topic 11.3.

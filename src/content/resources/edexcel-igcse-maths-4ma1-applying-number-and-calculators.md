@@ -225,6 +225,14 @@ Typing `2.7 + 5.85 ÷ 1.9 × 0.4 =` gives 3.9315..., because the calculator divi
 
 ### Negative numbers and powers
 
+<!-- marlbridge-diagram:math-b44-edexcel-calculator-negative-square-brackets -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/mathematics/math-b44-edexcel-calculator-negative-square-brackets.svg" aria-label="Open full-size diagram: math-b44-edexcel-calculator-negative-square-brackets"><img src="/images/learning/mathematics/math-b44-edexcel-calculator-negative-square-brackets.svg" width="1600" height="1050" alt="(−4)² = 16 because the negative number is the base, while −4² = −16 because the calculator squares 4 first and then applies the leading minus." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>(−4)² = 16 because the negative number is the base, while −4² = −16 because the calculator squares 4 first and then applies the leading minus. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:math-b44-edexcel-calculator-negative-square-brackets -->
+
+
 `(−4)²` = 16, but `−4²` = −16 on a calculator, because the square is applied before the minus sign. Always put a negative number in brackets before squaring it.
 
 ### Write down the full display, then round

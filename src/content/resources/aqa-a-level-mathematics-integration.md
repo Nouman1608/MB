@@ -90,6 +90,14 @@ Check the sign on the sine term: −4 × (−1/2) cos 2x = +2 cos 2x.
 
 ## H3: Definite integrals and areas
 
+<!-- marlbridge-diagram:maths-aqa-integration-signed-total-area -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/mathematics/maths-aqa-integration-signed-total-area.svg" aria-label="Open full-size diagram: maths-aqa-integration-signed-total-area"><img src="/images/learning/mathematics/maths-aqa-integration-signed-total-area.svg" width="1600" height="1050" alt="The source curve x²−4x+3 from x=0 to 3 has positive area 4/3 and negative signed area −4/3; net integral 0, total geometric area 8/3." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>The source curve x²−4x+3 from x=0 to 3 has positive area 4/3 and negative signed area −4/3; net integral 0, total geometric area 8/3. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:maths-aqa-integration-signed-total-area -->
+
+
 **Worked example 4.** Evaluate ∫₁⁴ (3√x − 1) dx.
 
 ```

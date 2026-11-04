@@ -89,6 +89,14 @@ This is the key idea for the whole unit. Each vector must start where the last o
 
 ### Worked example 2: combining vectors
 
+<!-- marlbridge-diagram:maths-b16-vectors-triangle-rule-components -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/mathematics/maths-b16-vectors-triangle-rule-components.svg" aria-label="Open full-size diagram: maths-b16-vectors-triangle-rule-components"><img src="/images/learning/mathematics/maths-b16-vectors-triangle-rule-components.svg" width="1600" height="1050" alt="Vectors a=(4,-3) and b=(-2,5) drawn head-to-tail; the resultant a+b=(2,2), alongside component-wise subtraction and scaling results." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Vectors a=(4,-3) and b=(-2,5) drawn head-to-tail; the resultant a+b=(2,2), alongside component-wise subtraction and scaling results. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:maths-b16-vectors-triangle-rule-components -->
+
+
 a = (4, −3) and b = (−2, 5). Find a + b, a − b and 3a − 2b.
 
 ```

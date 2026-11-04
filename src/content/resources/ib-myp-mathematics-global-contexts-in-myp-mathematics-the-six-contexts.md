@@ -127,6 +127,14 @@ Conclusion: hall B suits a small gathering and hall A suits a large one. Possibl
 
 ### Example 2: orientation in space and time (MYP 1-3 and MYP 4-5 standard)
 
+<!-- marlbridge-diagram:math-b46-myp-map-scale-route-distance -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/mathematics/math-b46-myp-map-scale-route-distance.svg" aria-label="Open full-size diagram: math-b46-myp-map-scale-route-distance"><img src="/images/learning/mathematics/math-b46-myp-map-scale-route-distance.svg" width="1600" height="1050" alt="Map route A to B to C: 3 cm east, then 4 cm north; direct AC is 5 cm. At 1:50 000, the route is 3.5 km and takes 42 minutes at 5 km/h; direct is 2.5 km and takes 30 minutes, if terrain permits." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Map route A to B to C: 3 cm east, then 4 cm north; direct AC is 5 cm. At 1:50 000, the route is 3.5 km and takes 42 minutes at 5 km/h; direct is 2.5 km and takes 30 minutes, if terrain permits. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:math-b46-myp-map-scale-route-distance -->
+
+
 A map has scale 1 : 50 000. A trail runs 3 cm east then 4 cm north on the map.
 
 1. Ratio: 1 cm on the map is 50 000 cm, which is 0.5 km.

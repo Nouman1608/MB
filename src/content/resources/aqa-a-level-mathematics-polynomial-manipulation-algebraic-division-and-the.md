@@ -143,6 +143,14 @@ The quotient is 2x² − x − 1 and the remainder is 6. Check by expanding: (2x
 
 ## 4. The factor theorem and the remainder
 
+<!-- marlbridge-diagram:maths-aqa-factor-theorem-remainder-link -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/mathematics/maths-aqa-factor-theorem-remainder-link.svg" aria-label="Open full-size diagram: maths-aqa-factor-theorem-remainder-link"><img src="/images/learning/mathematics/maths-aqa-factor-theorem-remainder-link.svg" width="1600" height="1050" alt="Uses the source quadratic 6x²−x−35 to show f(5/2)=0 and the corresponding factor 2x−5 before checking the full factorisation." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Uses the source quadratic 6x²−x−35 to show f(5/2)=0 and the corresponding factor 2x−5 before checking the full factorisation. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:maths-aqa-factor-theorem-remainder-link -->
+
+
 **Remainder result.** When f(x) is divided by (x − a), the remainder is f(a). Reason: f(x) = (x − a)q(x) + r, and putting x = a gives f(a) = r.
 
 **Factor theorem.** If f(a) = 0 then (x − a) is a factor of f(x). The converse also holds: if (x − a) is a factor then f(a) = 0.

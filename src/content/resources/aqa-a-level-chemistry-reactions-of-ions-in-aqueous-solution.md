@@ -79,7 +79,7 @@ Two solutions have the same concentration: iron(II) sulfate and iron(III) sulfat
 
 ## How bases make precipitates
 
-All three bases in this section (OH⁻, NH₃ and CO₃²⁻) can remove H⁺ ions from the water ligands. Each H⁺ removed lowers the charge on the complex by one. When the complex reaches **zero charge** it is no longer attracted strongly to water molecules, so it comes out of solution as a **precipitate**.
+All three bases in this section (OH⁻, NH₃ and CO₃²⁻) can remove H⁺ ions from the water ligands. Each H⁺ removed lowers the charge on the complex by one. In the school model, the neutral hydroxo species listed below have low solubility and are observed as precipitates. More generally, precipitation depends on solubility equilibria and solution conditions; reaching zero charge alone does not guarantee that an arbitrary complex is insoluble.
 
 - M²⁺ needs two H⁺ removed: [M(H₂O)₄(OH)₂]
 - M³⁺ needs three H⁺ removed: [M(H₂O)₃(OH)₃]
@@ -184,6 +184,8 @@ Add sodium carbonate solution. Here the 2+ and 3+ ions behave differently, and t
 [Fe(H₂O)₆]²⁺ + CO₃²⁻ → FeCO₃ + 6H₂O
 [Cu(H₂O)₆]²⁺ + CO₃²⁻ → CuCO₃ + 6H₂O
 ```
+
+**Practical-product qualification:** these formulas are the syllabus stoichiometry model used in the calculation below. Mixing aqueous copper(II) and carbonate can instead give basic copper(II) carbonate, with the solid composition affected by concentration, reagent ratio, mixing and ageing. Do not read the CuCO₃ model as proof that the isolated precipitate is pure anhydrous CuCO₃.
 
 **3+ ions** are more acidic, because of their higher charge/size ratio. They give up H⁺ to the carbonate ions, which form carbon dioxide and water. The metal ion is left as the neutral hydroxide. No iron(III) or aluminium carbonate forms.
 

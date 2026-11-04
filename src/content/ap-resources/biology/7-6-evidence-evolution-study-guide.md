@@ -31,7 +31,7 @@ keyPoints:
   - "Fossils are dated by their position in rock layers (lower is usually older), by radioactive decay of isotopes such as carbon-14, and by matching layers and fossils between sites."
   - "Each half-life halves the amount of a radioactive isotope. Carbon-14 (half-life about 5,700 years) dates once-living material up to about 50,000 years old."
   - "Homologous structures (same basic parts, different uses) and vestigial structures (reduced remnants) show common ancestry."
-  - "The fewer differences between two species' DNA or protein sequences, the more recently they shared a common ancestor."
+  - "Fewer sequence differences can support a more recent common ancestor when comparing suitable homologous sequences under comparable rates and an adequate evolutionary model; they do not alone prove a branching history or its date."
 faqs:
   - question: "Do I need to memorise half-lives of isotopes?"
     answer: "No. A question will give you the half-life it wants you to use. You need to know what a half-life means and how to work out the number of half-lives from the fraction remaining."
@@ -54,7 +54,7 @@ In Topic 7.5 you used allele frequencies to detect evolution within a population
 |---|---|---|
 | **Geological** | study of rocks and fossils | fossils appear in a consistent order through rock layers; extinct forms and transitional forms exist |
 | **Physical** | physics of radioactive decay | the absolute ages of rocks and of once-living remains |
-| **Biochemical** | molecular biology | related species share DNA and protein sequences; the more closely related, the fewer the differences |
+| **Biochemical** | molecular biology | related species share DNA and protein sequences; fewer differences can support closer ancestry when the loci, evolutionary rates and model assumptions are comparable |
 | **Geographical** | distribution of species and fossils | species on islands resemble those on the nearest mainland; matching fossils on continents that were once joined |
 | **Mathematical** | statistics and models | allele-frequency models (Topic 7.5) and calculated rates of sequence change |
 
@@ -70,9 +70,9 @@ Sedimentary rock forms as layers of sediment settle and harden, one on top of th
 
 ### 2. Radioactive decay of isotopes
 
-Some isotopes are unstable and decay into other atoms at a **constant rate**, unaffected by temperature or chemistry. The **half-life** is the time taken for half of the radioactive atoms in a sample to decay. After one half-life, 1/2 is left; after two, 1/4; after three, 1/8; after n half-lives, **(1/2)ⁿ**.
+Some isotopes are unstable. Each radioactive atom has a constant probability of decaying per unit time (the decay constant), which is largely unaffected by temperature or chemistry; this does not mean a fixed number decays each second. The **half-life** is the time taken for half of the radioactive atoms in a large sample to decay. After one half-life, 1/2 is left; after two, 1/4; after three, 1/8; after n half-lives, **(1/2)ⁿ**.
 
-**Carbon-14** forms in the atmosphere and enters living things through photosynthesis and food. While an organism is alive, its proportion of carbon-14 matches the air. When it dies, it stops taking in carbon, and its carbon-14 decays with a half-life of about **5,700 years**. Comparing the carbon-14 left with the starting amount gives the time since death. After about 50,000 years so little remains that it cannot be measured reliably, so carbon-14 only dates fairly recent remains of once-living things.
+**Carbon-14** forms in the atmosphere and enters living things through photosynthesis and food. For a simple land-based example, assume an organism exchanged carbon with the atmosphere and began with the applicable atmospheric carbon-14 ratio. While alive it replenished carbon; after death, exchange stopped and carbon-14 decayed with a half-life of about **5,700 years**. Real dates require calibration because atmospheric ratios vary, and some foods or environments (especially marine ones) have reservoir offsets. After about 50,000 years so little remains that it cannot be measured reliably, so carbon-14 only dates fairly recent remains of once-living things.
 
 Older fossils are dated indirectly. Volcanic ash contains minerals with isotopes that have much longer half-lives (potassium-40 is one). Dating ash layers above and below a fossil gives an age **range** for the fossil.
 
@@ -131,9 +131,9 @@ If each limb had been built separately for its job, there is no reason for a win
 
 ## Molecular evidence: comparing sequences
 
-All living things use DNA, and related species carry related versions of the same genes. When two populations split, each lineage gains its own mutations. The longer ago they split, the more differences build up. So:
+All living things use DNA, and related species carry related versions of the same genes. When two populations split, each lineage gains its own mutations. Over time, differences often accumulate, but rates vary among genes and lineages; multiple substitutions at the same site can also hide older changes. A short sequence comparison can therefore support, but does not prove or precisely date, a branching history. Gene trees may differ from species histories. In this simplified comparison, assuming comparable rates and no strong saturation:
 
-**fewer differences in DNA or amino acid sequence → more recent common ancestor.**
+**Under comparable rates and a suitable model, fewer differences in homologous DNA or protein sequences can support a more recent common ancestor.** This is an inference, not a proof: unequal rates, repeated substitutions, gene-tree/species-tree differences and sampling uncertainty can change the result.
 
 DNA comparisons are usually more sensitive than protein comparisons. Because the genetic code has more than one codon for most amino acids, some DNA changes do not alter the protein (silent mutations, Topic 6.7). Molecular data are especially strong evidence because they are independent of anatomy: if a family tree built from bones matches one built from genes, two separate lines of evidence agree.
 
@@ -244,4 +244,4 @@ Species on oceanic islands tend to resemble species on the nearest mainland, not
 
 ## Where this leads
 
-This topic follows [Topic 7.5, Hardy–Weinberg Equilibrium](/advanced-course-resources/biology/7-5-hardy-weinberg-equilibrium-study-guide/), which detects evolution in living populations. Next, [Topic 7.7, Common Ancestry](/advanced-course-resources/biology/7-7-common-ancestry-study-guide/), looks at the cell-level and molecular features that all eukaryotes share. Test yourself with the [practice questions](/advanced-course-resources/biology/7-6-evidence-evolution-practice/), then use the [revision notes](/advanced-course-resources/biology/7-6-evidence-evolution-revision-notes/) and the [checklist](/advanced-course-resources/biology/7-6-evidence-evolution-checklist/) to consolidate.
+This topic follows [Topic 7.5, Hardy–Weinberg Equilibrium](/advanced-course-resources/biology/7-5-hardy-weinberg-equilibrium-study-guide/), which compares observed genotype frequencies with a model and can help investigate evolution in populations. Next, [Topic 7.7, Common Ancestry](/advanced-course-resources/biology/7-7-common-ancestry-study-guide/), looks at the cell-level and molecular features that all eukaryotes share. Test yourself with the [practice questions](/advanced-course-resources/biology/7-6-evidence-evolution-practice/), then use the [revision notes](/advanced-course-resources/biology/7-6-evidence-evolution-revision-notes/) and the [checklist](/advanced-course-resources/biology/7-6-evidence-evolution-checklist/) to consolidate.

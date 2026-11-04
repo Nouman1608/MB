@@ -220,6 +220,14 @@ as depreciation and irrecoverable debts, never appear. Capital items, such as an
 loan received, do appear.
 
 ### Worked example 3: Brasswick Ferments
+<!-- marlbridge-diagram:ac-b14-budget-cash-timing-bridge -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/accounting/ac-b14-budget-cash-timing-bridge.svg" aria-label="Open full-size diagram: ac-b14-budget-cash-timing-bridge">
+    <img src="/images/learning/accounting/ac-b14-budget-cash-timing-bridge.svg" width="1600" height="1050" alt="Three-month cash budget bridge shows the balance falling from $3,200 to a peak $18,700 overdraft in May." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" />
+  </a>
+  <figcaption>Cash budgets record receipts and payments when cash moves; exclude $650 monthly depreciation. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:ac-b14-budget-cash-timing-bridge -->
 
 Brasswick Ferments has 3,200 in the bank on 1 April 2027. Sales: March 24,000, April 22,000, May 26,000,
 June 30,000. 30% are cash sales; credit customers pay the month after sale. Credit purchases (February

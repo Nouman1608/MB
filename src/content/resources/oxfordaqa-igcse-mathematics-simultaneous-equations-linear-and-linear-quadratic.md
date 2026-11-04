@@ -135,6 +135,14 @@ Method:
 
 ### Worked example 4
 
+<!-- marlbridge-diagram:maths-b29-graphical-simultaneous-equations -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/mathematics/maths-b29-graphical-simultaneous-equations.svg" aria-label="Open full-size diagram: maths-b29-graphical-simultaneous-equations"><img src="/images/learning/mathematics/maths-b29-graphical-simultaneous-equations.svg" width="1600" height="1050" alt="The plotted lines y=9−4x and y=(x+3)/2 cross at about (1.7,2.3). Algebra gives x=5/3 and y=7/3, confirming the graph reading." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>The plotted lines y=9−4x and y=(x+3)/2 cross at about (1.7,2.3). Algebra gives x=5/3 and y=7/3, confirming the graph reading. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:maths-b29-graphical-simultaneous-equations -->
+
+
 Use a graph to solve 4x + y = 9 and 2y = x + 3.
 
 Points for the first line (y = 9 − 4x):

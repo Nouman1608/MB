@@ -89,6 +89,14 @@ Pick the activity that drives the department's costs:
 
 ### Worked example 1: Brackenfield Furniture
 
+<!-- marlbridge-diagram:accounting-aqa-brackenfield-overhead-absorption-rates -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/accounting/accounting-aqa-brackenfield-overhead-absorption-rates.svg" aria-label="Open full-size diagram: accounting-aqa-brackenfield-overhead-absorption-rates"><img src="/images/learning/accounting/accounting-aqa-brackenfield-overhead-absorption-rates.svg" width="1600" height="1050" alt="Exact AQA example: departmental overhead totals, activity bases and OARs." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Brackenfield: departmental absorption rates Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:accounting-aqa-brackenfield-overhead-absorption-rates -->
+
+
 Brackenfield makes dining tables in two production departments, Machining and Assembly. Budgeted
 overheads for the year:
 

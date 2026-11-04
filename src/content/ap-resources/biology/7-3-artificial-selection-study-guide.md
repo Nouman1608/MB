@@ -197,7 +197,7 @@ The graph shows the mean, but selection also changes the spread. Figure 2 compar
 <figcaption>Figure 2. Fictional data, 100 beetles in each group. After selection the distribution has moved to heavier masses and become narrower: the lightest classes have disappeared.</figcaption>
 </figure>
 
-**Reading Figure 2.** In generation 0, only 6 of 100 beetles (6%) were 2.8 mg or heavier. In the high line at generation 5, 45 of 100 (45%) were. The beetles now occupy five mass classes instead of seven. The whole distribution has shifted right **and** narrowed. That narrowing is a sign of lost variation.
+**Reading Figure 2.** In generation 0, only 6 of 100 beetles (6%) were 2.8 mg or heavier. In the high line at generation 5, 45 of 100 (45%) were. The beetles now occupy five mass classes instead of seven. The whole distribution has shifted right **and** narrowed. That narrowing is a change in the observed phenotypic distribution. It does not by itself show that genetic diversity fell: selection, sampling, environment, or line history can alter phenotypic spread.
 
 ## Worked example 1: describing a selection experiment
 
@@ -222,9 +222,9 @@ The graph shows the mean, but selection also changes the spread. Figure 2 compar
 2. Low line: (2.08 − 2.40) ÷ 2.40 × 100 = −0.32 ÷ 2.40 × 100 = **−13.3%**.
 3. Mean change per generation: high line 0.40 ÷ 5 = 0.08 mg; low line −0.32 ÷ 5 = −0.064 mg.
 
-**(c) Why a control?** The control experiences the same food, temperature and handling but no selection. Because its mean hardly changes (+0.01 mg), the large changes in the selected lines are best explained by selection, not by a change in the conditions. Without the control, a better diet in later generations could also explain a rise in mass.
+**(c) Why a control?** The control experiences the same food, temperature and handling but no selection. Its mean hardly changes (+0.01 mg), which makes a general change in food, temperature, or handling a less plausible explanation for the selected-line trends. However, the figure shows only one line per treatment; without independently replicated lines or a family-based design, drift, parental effects, and line-specific history cannot be excluded. Without the control, a better diet in later generations could also explain a rise in mass.
 
-**Interpretation.** The response shows that pupal mass is partly heritable: choosing heavy parents produced heavier offspring. Note the limits. These are fictional means for one population, with no measure of spread for each generation, so you cannot say how large the overlap between lines is. The data **support** heritability of the trait; they do not show which genes are involved.
+**Interpretation.** The response is consistent with pupal mass being heritable: choosing heavy parents was followed by heavier offspring. But these fictional means show one line per treatment and provide no replicate lines, family data, or spread for each generation. A control helps detect shared environmental change, but cannot rule out drift, parental effects, or line-specific history. The pattern alone therefore does not establish a heritability estimate or identify causal genes.
 
 ## Worked example 2: selection and crop diversity
 
@@ -247,7 +247,7 @@ The graph shows the mean, but selection also changes the spread. Figure 2 compar
 
 **(b)** Each round of selection kept only plants with the wanted traits, so alleles carried only by rejected plants were lost. Early farmers took a small sample of wild plants, and modern breeders often start from a few elite parents, so many alleles were never passed on at all. The more intense and longer the selection, the fewer alleles remain.
 
-**(c)** Field A was infected about 3.5 times as much as field B (78% against 22%), and the plot ranges do not overlap (76–81% against 19–24%). In a uniform field, if one plant is susceptible, nearly all are, so the fungus spreads from plant to plant. In the mixed field, some plants carry alleles for resistance; they survive and also slow the spread. The data are fictional and from one season, so they support the idea rather than prove it.
+**(c)** Field A was infected about 3.5 times as much as field B (78% against 22%), and the plot ranges do not overlap (76–81% against 19–24%). In a field planted with one variety, many plants may share susceptibility to a strain able to infect that variety, allowing the fungus to spread; individual plants need not respond identically. In the mixed field, some plants carry alleles for resistance; they survive and also slow the spread. The data are fictional and from one season. The non-overlapping plot ranges describe these observations; without more seasons or a suitable statistical design, they do not establish significance or exclude field-level confounding.
 
 **A real parallel.** Bananas sold for export are mostly one clone, propagated without sex, so the plants are genetically identical. In the 1950s a fungal wilt (Panama disease) wiped out much of the earlier export variety, Gros Michel, in Central America, and growers switched to the Cavendish type. A newer strain of the same fungus now threatens Cavendish plantations. Breeders respond by crossing crops with wild relatives and by storing seed from many varieties, to restore variation that selection removed.
 

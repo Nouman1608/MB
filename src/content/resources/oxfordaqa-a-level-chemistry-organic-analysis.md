@@ -75,8 +75,10 @@ oxidised. A ketone leaves Fehling's solution blue and gives no silver mirror.
 
 ### The chemistry behind each colour change
 
-- **Bromine.** Br₂ adds across the double bond (electrophilic addition), so the orange bromine is used up.
-  For but-2-ene: CH₃CH=CHCH₃ + Br₂ → CH₃CHBrCHBrCH₃.
+- **Bromine.** In a non-nucleophilic medium, Br₂ adds across the double bond (electrophilic addition),
+  so the orange bromine is used up. For but-2-ene: CH₃CH=CHCH₃ + Br₂ → CH₃CHBrCHBrCH₃. In the
+  bromine-water test, water can also open the bromonium intermediate and form a bromohydrin; decolourisation
+  shows that Br₂ has reacted with unsaturation, not that the dibromide must be the only aqueous product.
 - **Dichromate(VI).** Orange Cr₂O₇²⁻ ions gain electrons and become green Cr³⁺ ions while the alcohol is
   oxidised. With [O] as the oxidant, octan-2-ol (secondary) gives octan-2-one:
   CH₃CH(OH)(CH₂)₅CH₃ + [O] → CH₃CO(CH₂)₅CH₃ + H₂O.
@@ -196,6 +198,13 @@ molecule as a whole, so the pattern is characteristic of one compound. Comparing
 of known compounds identifies a molecule, even when two candidates contain exactly the same bonds. The
 comparison only works if the correct compound is among the reference spectra you check.
 
+<!-- marlbridge-diagram:chem-b14-ir-fingerprint-reference-comparison -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/chemistry/chem-b14-ir-fingerprint-reference-comparison.svg" aria-label="Open full-size diagram: IR fingerprint comparison"><img src="/images/learning/chemistry/chem-b14-ir-fingerprint-reference-comparison.svg" width="1528" height="870" alt="Schematic sample and reference spectra for liquid L compare octan-4-one with octan-2-one across the fingerprint window. The match supports identification only within the stated candidate set; ordinary IR generally cannot distinguish enantiomers." loading="lazy" decoding="async" style="display:block;width:100%;height:auto" /></a>
+  <figcaption>Schematic sample and reference spectra for liquid L compare octan-4-one with octan-2-one across the fingerprint window. The match supports identification only within the stated candidate set; ordinary IR generally cannot distinguish enantiomers. Spectra are schematic, not measured data. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:chem-b14-ir-fingerprint-reference-comparison -->
+
 ### Identifying impurities
 
 Any band the expected product cannot produce means another substance is present. Match the band to a
@@ -214,7 +223,8 @@ Interpretation:
 
 - 1725 cm⁻¹ lies in the C=O range (1680–1750). Heptanal has a C=O bond, so this is expected.
 - The very broad 2500–3000 cm⁻¹ band is O–H in a carboxylic acid. Heptanal has no O–H.
-- No band at 3230–3550 cm⁻¹, so there is no unreacted heptan-1-ol.
+- No O–H band is detected at 3230–3550 cm⁻¹, so the spectrum gives no evidence for substantial unreacted
+  heptan-1-ol above the method's detection limit; an absent band cannot rule out every trace amount.
 - **Conclusion:** the sample contains **heptanoic acid**. The aldehyde stayed in contact with the oxidising
   agent and was oxidised further. Distilling the aldehyde off as it forms avoids this (section 3.3.5.1).
 
@@ -225,7 +235,8 @@ just below 3000 cm⁻¹, nothing in the 3230–3550 cm⁻¹ region and nothing a
 Fehling's solution blue.
 
 - 1718 cm⁻¹ is C=O. L is an aldehyde or a ketone.
-- No O–H (alcohol) band and no C=C band, so unsaturated or cyclic alcohols are ruled out.
+- No O–H (alcohol) or C=C band is detected, so the spectrum gives no evidence for these groups above the
+  method's detection limit; a missing band alone does not prove that every trace is absent.
 - Fehling's solution stays blue, so L is not an aldehyde. **L is a ketone.**
 
 Several ketones are C₈H₁₆O, including octan-2-one, octan-3-one and octan-4-one, with near-identical group

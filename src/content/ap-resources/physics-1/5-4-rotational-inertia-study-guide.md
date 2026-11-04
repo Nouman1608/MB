@@ -203,7 +203,17 @@ Compare the hoop and the disk. They have the same mass and radius, but **every**
 
 ## How you could test this in the lab
 
-You cannot read I off a meter, but you can compare rotational inertias. Wrap a string round the axle of a rotating platform and hang a mass from it. The falling mass exerts the same torque each time. Time how long the platform takes to make one revolution from rest, first with two sliding masses near the axis and then with them near the rim. A longer time means a smaller angular acceleration, so a larger rotational inertia. Topic 5.6 shows how to turn such timings into a value of I.
+You cannot read I directly from an ordinary meter, but you can compare rotational inertias using a rotating platform with two sliding masses. Clamp the same masses first near the axis and then near the rim. Keep the hanging drive mass m and the effective spool radius r fixed, wind a light string without overlap, and release each run from rest. Use a front-on marker video or calibrated rotary sensor to obtain θ(t); repeat and assess friction and timing uncertainty.
+
+**Equal hanging mass does not ensure equal torque on the platform.** The string tension T is less than mg while the drive mass accelerates. In the ideal model with a massless no-slip string and negligible guide-pulley inertia and bearing friction:
+
+- hanging mass: mg − T = ma;
+- platform: Tr = Iα;
+- no-slip link: a = rα.
+
+Combining gives **α = mgr / (I + mr²)**, so **I = mgr/α − mr²**. The platform torque is Tr and changes when α changes. Only when mr² is small compared with I and friction is negligible may Tr ≈ mgr serve as a justified constant-torque approximation.
+
+At fixed m and r, increasing I still reduces α. If α is constant during a run, timing a fixed angular displacement from rest gives Δθ = ½αt²; a longer time indicates the larger I under these controlled conditions. Topic5.6 develops the same coupled linear and rotational analysis.
 
 ## Common misconceptions
 

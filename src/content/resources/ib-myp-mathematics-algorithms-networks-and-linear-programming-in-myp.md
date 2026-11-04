@@ -121,6 +121,14 @@ Method:
 
 ### Worked example 3: a craft stall
 
+<!-- marlbridge-diagram:maths-b33-linear-programming-craft-stall -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/mathematics/maths-b33-linear-programming-craft-stall.svg" aria-label="Open full-size diagram: maths-b33-linear-programming-craft-stall"><img src="/images/learning/mathematics/maths-b33-linear-programming-craft-stall.svg" width="1600" height="1050" alt="The constraints 3x+2y≤60, x+y≤25, x≥0, y≥0 give corners (0,0),(20,0),(10,15),(0,25). Evaluating P=8x+6y gives 0,160,170,150, so the maximum occurs at (10,15)." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>The constraints 3x+2y≤60, x+y≤25, x≥0, y≥0 give corners (0,0),(20,0),(10,15),(0,25). Evaluating P=8x+6y gives 0,160,170,150, so the maximum occurs at (10,15). Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:maths-b33-linear-programming-craft-stall -->
+
+
 A stall makes x candles and y soaps. A candle takes 3 minutes of heating time and a soap takes 2; there are 60 minutes available. The stall has space for at most 25 items. Profit is 8 on each candle and 6 on each soap. Maximise P = 8x + 6y.
 
 Constraints: 3x + 2y ≤ 60, x + y ≤ 25, x ≥ 0, y ≥ 0.
@@ -154,6 +162,14 @@ In a **weighted network** each edge carries a number, such as distance, time or 
 A quick check: the degrees in any network add up to twice the number of edges, because each edge touches two vertices.
 
 ### Worked example 4: counting and measuring paths
+
+<!-- marlbridge-diagram:maths-b33-weighted-network-shortest-path -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/mathematics/maths-b33-weighted-network-shortest-path.svg" aria-label="Open full-size diagram: maths-b33-weighted-network-shortest-path"><img src="/images/learning/mathematics/maths-b33-weighted-network-shortest-path.svg" width="1600" height="1050" alt="The network has edges AB=4, AC=2, BC=1, BD=5, CD=8, CE=10, DE=2, DF=6, EF=3. Paths A–B–D–F and A–C–E–F each total 15. The highlighted route A–C–B–D–E–F totals 13, the shortest route." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>The network has edges AB=4, AC=2, BC=1, BD=5, CD=8, CE=10, DE=2, DF=6, EF=3. Paths A–B–D–F and A–C–E–F each total 15. The highlighted route A–C–B–D–E–F totals 13, the shortest route. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:maths-b33-weighted-network-shortest-path -->
+
 
 Edges and weights: AB 4, AC 2, BC 1, BD 5, CD 8, CE 10, DE 2, DF 6, EF 3.
 

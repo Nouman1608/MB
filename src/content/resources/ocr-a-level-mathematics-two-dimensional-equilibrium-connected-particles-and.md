@@ -147,6 +147,14 @@ A moves up only because 4g is larger than 6g sin 30°. If it were smaller, A wou
 
 ## Motion in a plane under a force (3.03q)
 
+<!-- marlbridge-diagram:math-b73-time-dependent-force-planar-motion -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/public/images/learning/mathematics/math-b73-time-dependent-force-planar-motion.svg" aria-label="Open full-size diagram: math-b73-time-dependent-force-planar-motion"><img src="/public/images/learning/mathematics/math-b73-time-dependent-force-planar-motion.svg" width="1528" height="940" alt="For m=2.5 kg and F=(4t i+15j) N, a=(1.6t,6), v=(0.8t²+1,6t−2), r=(0.2667t³+t,3t²−2t). At t=3, r=(10.2,21) m and speed is 18.0 m s⁻¹." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>For m=2.5 kg and F=(4t i+15j) N, a=(1.6t,6), v=(0.8t²+1,6t−2), r=(0.2667t³+t,3t²−2t). At t=3, r=(10.2,21) m and speed is 18.0 m s⁻¹. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:math-b73-time-dependent-force-planar-motion -->
+
+
 For a particle of mass m under resultant force F (a vector), F = ma applies to both components. If F depends on time t, integrate: v = ∫a dt, then r = ∫v dt. Use the starting conditions to find each constant, one for each component.
 
 **Worked example 9.** A particle of mass 2.5 kg is acted on by a force (4t i + 15j) N at time t seconds. At t = 0 its velocity is (i − 2j) m s⁻¹ and it is at the origin. Find its position and speed at t = 3.

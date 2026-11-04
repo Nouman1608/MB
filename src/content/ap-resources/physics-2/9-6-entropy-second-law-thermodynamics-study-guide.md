@@ -12,7 +12,7 @@ prerequisites:
   - "Q = mcΔT and thermal equilibrium calculations (Topic 9.5)"
 prerequisiteResources: ["mb-ap-phys2-9.5-study-guide"]
 learningObjectives:
-  - "Describe entropy as a measure of how spread out a system's energy is, and of how much of that energy cannot be used to do work"
+  - "Describe energy spreading as a qualitative entropy model, and explain how entropy and the surroundings constrain available work"
   - "State the second law for an isolated system and use it to predict which way a spontaneous process goes"
   - "Explain why entropy is a state function, so its change depends only on the start and end states"
   - "Explain why an isolated system moves toward thermodynamic equilibrium, where its entropy is greatest"
@@ -60,7 +60,7 @@ You met the same pattern in Topic 9.3. Net energy flows by itself from a hotter 
 In this course you describe entropy in words, not with a formula. Two descriptions go together.
 
 1. **Entropy measures how spread out energy is.** Energy that is concentrated in one place (a hot spot, a moving ball, a squeezed gas) tends to spread out among more particles and more space. When it spreads, entropy rises.
-2. **Entropy measures how much energy is unavailable to do work.** Concentrated energy can be used. A hot gas next to a cold one can drive an engine. Once the energy has spread out evenly, the same amount of energy is still there, but it can no longer be used to do work.
+2. **Entropy helps describe limits on available work.** Entropy has units of J/K; it is not itself an amount of unavailable energy. Available work depends on the surroundings and the allowed processes. A temperature difference can drive an engine. After a constrained isolated system reaches mutual equilibrium, that internal temperature difference can no longer power an engine; a newly supplied external temperature difference would change the situation.
 
 Some examples of energy spreading by itself:
 
@@ -76,7 +76,7 @@ This model goes beyond what the course asks, but it shows **why** spreading wins
 |---|---|---|---|---|---|
 | Number of arrangements | 1 | 4 | 6 | 4 | 1 |
 
-All 4 on the left happens in only 1 arrangement out of 16 (6.25% of the time). An even 2–2 split happens in 6 out of 16 (37.5%). With 10 particles, all on the left has a chance of about 0.1% (1 in 1024). With 100 particles, it is about 8 × 10⁻³¹. A litre of air at room conditions holds about 2.5 × 10²² particles, so "all on one side" never happens. The spread-out states have overwhelmingly more arrangements, so the system ends up in them. Higher entropy means more ways to share out the energy and the particles.
+All 4 on the left happens in only 1 arrangement out of 16 (6.25% of the time). An even 2–2 split happens in 6 out of 16 (37.5%). With 10 particles, all on the left has a chance of about 0.1% (1 in 1024). With 100 particles, it is about 8 × 10⁻³¹. A litre of air at room conditions holds about 2.5 × 10²² particles, making an all-left fluctuation overwhelmingly improbable on practical timescales. This finite-particle model does not make such a fluctuation mathematically impossible. For four particles, the 2–2 count is the most probable single count but occurs only 6/16 of the time; fluctuations remain conspicuous. For macroscopic samples the relative imbalance is ordinarily tiny. Higher entropy corresponds to more accessible microscopic arrangements under the stated constraints.
 
 ## Entropy is a state function
 
@@ -102,7 +102,7 @@ So for an isolated system, ΔS_total ≥ 0, with the equals sign only in the ide
 
 ## Thermodynamic equilibrium is maximum entropy
 
-Left alone, an isolated system moves **spontaneously** toward **thermodynamic equilibrium**: one temperature throughout, one pressure, no net flows. Along the way its entropy rises. At equilibrium the entropy has reached its **maximum** value, so there is nothing left for it to increase toward. The system stays there. The particles still move and collide, but nothing changes on a large scale.
+An initially non-equilibrium isolated system can relax spontaneously toward thermodynamic equilibrium, where entropy is maximal subject to its conserved quantities and constraints. For the simple connected systems here, with negligible external fields and no separating barriers, equilibrium has a uniform temperature and pressure and no net macroscopic flows. Pressure can vary with height at equilibrium in a gravitational field, and partitions can impose further constraints. Particles keep moving; equilibrium describes steady macroscopic properties, with microscopic fluctuations.
 
 <figure>
 <svg viewBox="0 0 560 400" role="img" aria-labelledby="s-time-title s-time-desc" xmlns="http://www.w3.org/2000/svg" font-family="system-ui, sans-serif">
@@ -130,8 +130,8 @@ The second law is about the **total** entropy of an **isolated** system. A small
 
 A **closed system** exchanges energy with its surroundings but no matter. The change in its entropy depends on how it interacts with its surroundings:
 
-- If energy enters the system by heating, its entropy rises.
-- If energy leaves it by heating (it is cooled), its entropy **can decrease**.
+- In the simple heating and cooling examples here, with no simultaneous driving process, ordinary heating raises the object’s entropy and cooling can lower it.
+- In a general closed system, the sign of net thermal energy transfer alone is insufficient. Entropy transferred at the boundary and entropy produced internally must both be included; work-driven friction, for example, can generate entropy while thermal energy is removed.
 
 So the entropy of a closed system can go down. This does not break the second law, because the surroundings gain at least as much entropy as the system loses. Draw the boundary around the system **and** its surroundings, and that larger isolated system has ΔS_total ≥ 0.
 
@@ -169,7 +169,7 @@ So the entropy of a closed system can go down. This does not break the second la
 <figcaption>Figure 2. Choosing the system. The water (thick outline) is a closed system: energy leaves it, and its entropy falls as it freezes. The freezer passes this energy, plus the work from the power supply, to the room, whose entropy rises by more. The dashed boundary encloses an isolated system, and its total entropy increases.</figcaption>
 </figure>
 
-Other everyday examples of a closed system whose entropy falls: a cup of tea cooling on a table, steam condensing on a cold window, a gas compressed slowly while in contact with cool surroundings. In each case energy leaves the system and the surroundings gain more entropy than the system loses.
+Other examples in which a closed system’s entropy falls are a cup cooling without other driving, steam condensing on a cold window, and ideal-gas isothermal compression. For an isolated system-plus-surroundings total, the surroundings gain at least as much entropy as the subsystem loses: more for an irreversible process, equal in the reversible ideal limit. Slow motion alone does not guarantee reversibility.
 
 ### Background: why no engine turns all its heating into work
 
@@ -188,7 +188,7 @@ The 9.4 cycles showed an engine taking in energy by heating and doing work. The 
 
 **Answer.** T_f = 45.7 °C (46 °C to 2 significant figures); 1.5 × 10⁴ J moves from A to B. S_A falls, S_B rises by more, S_total rises.
 
-**Interpretation.** Before contact, the temperature difference could have run a small engine. After equilibrium, the total energy is the same but none of it is available to do work. The entropy is now at its maximum, and nothing more happens.
+**Interpretation.** Before contact, the temperature difference could drive a small engine. After mutual equilibrium, the total energy is unchanged, but that internal temperature difference no longer supplies work. Entropy is maximal for the isolated two-block model and its constraints. An externally provided colder reservoir or changed constraint would define a different work-availability problem.
 
 ## Worked example 2: same end states, different paths
 

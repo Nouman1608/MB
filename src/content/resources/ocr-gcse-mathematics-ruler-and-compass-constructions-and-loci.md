@@ -154,6 +154,12 @@ PX = 6 cm is longer than PF = 3.6 cm. So the shortest distance from P to the lin
 4. Measure 5 cm from T along it and mark X.
 
 ## 8.02d: Loci
+<!-- marlbridge-diagram:maths-b18-loci -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/mathematics/maths-b18-loci.svg" aria-label="Open full-size diagram: maths-b18-loci"><img src="/images/learning/mathematics/maths-b18-loci.svg" width="1600" height="1050" alt="Compass arcs construct a perpendicular bisector whose points are equidistant from endpoints, and an angle bisector from equal-radius arcs." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Compass arcs construct a perpendicular bisector whose points are equidistant from endpoints, and an angle bisector from equal-radius arcs. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:maths-b18-loci -->
 
 A locus is a rule turned into a drawing. First decide which rule applies, then draw the line or region.
 

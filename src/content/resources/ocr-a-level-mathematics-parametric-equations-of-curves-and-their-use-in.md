@@ -106,6 +106,14 @@ For x = 3 sin θ and y = 1 − cos 2θ, use cos 2θ ≡ 1 − 2sin²θ to get y 
 
 ### Example 6: sec and tan
 
+<!-- marlbridge-diagram:math-b67-parametric-sec-tan-upper-branch -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/public/images/learning/mathematics/math-b67-parametric-sec-tan-upper-branch.svg" aria-label="Open full-size diagram: math-b67-parametric-sec-tan-upper-branch"><img src="/public/images/learning/mathematics/math-b67-parametric-sec-tan-upper-branch.svg" width="1528" height="940" alt="From x=tanθ and y=3secθ, sec²θ=1+tan²θ gives y²=9(1+x²). Since secθ&gt;0 for −π/2&lt;θ&lt;π/2, only the upper branch y=3√(1+x²) is traced." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>From x=tanθ and y=3secθ, sec²θ=1+tan²θ gives y²=9(1+x²). Since secθ&gt;0 for −π/2&lt;θ&lt;π/2, only the upper branch y=3√(1+x²) is traced. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:math-b67-parametric-sec-tan-upper-branch -->
+
+
 Find the Cartesian equation of x = tan θ, y = 3 sec θ, for −π/2 < θ < π/2. Using sec²θ ≡ 1 + tan²θ:
 
 ```

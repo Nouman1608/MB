@@ -31,10 +31,10 @@ keyPoints:
   - "Populations with little genetic diversity are at risk of decline or extinction, because a new disease or change in the environment can affect almost every individual in the same way."
   - "Diverse populations are more resilient: they are more likely to already contain some individuals that can survive a new pressure."
   - "Whether an allele is helpful depends on the environment. An allele that is adaptive under one set of conditions may be harmful under another."
-  - "Selection acts on variation that already exists. A population cannot produce the right allele on demand when the pressure arrives."
+  - "Selection can act on heritable variants already present, while new mutations also arise independently of need. A population does not produce a particular helpful allele on demand; its response depends on relevant variants and how they affect reproduction in that environment."
 faqs:
   - question: "Is a small population always low in genetic diversity?"
-    answer: "Not always, but usually over time. A small population loses alleles by chance and through inbreeding, and it has fewer individuals carrying rare alleles in the first place. A population that recently shrank may still hold much of its old diversity for a while."
+    answer: "Not always. Small populations often lose alleles by genetic drift. Inbreeding alone mainly increases homozygosity and lowers heterozygosity; it does not necessarily remove alleles, though it can expose harmful recessive variants. A recently reduced population may retain much of its earlier diversity for a while."
   - question: "Do I need to learn the details of particular endangered species?"
     answer: "You need the principle, not a list of facts. Exam questions give you the data. Named examples, such as condors or potato blight, help you remember and explain the idea."
 version: "1.0"
@@ -48,7 +48,7 @@ author: "marlbridge-academic-team"
 
 ## Why variation is a population's insurance
 
-Natural selection can only work with the variation a population already has. When the environment changes, selection "chooses" among the individuals that exist at that moment. It cannot wait for a helpful mutation to appear. So the amount of genetic variation in a population decides how well it can respond to a new pressure, such as a disease, a drought, a new predator or a warmer climate.
+Natural selection acts on heritable variation that affects survival or reproduction. When conditions change, selection acts on variants already present, and new mutations may also arise independently of need. No particular helpful allele appears on demand. The population response depends on whether relevant variants exist or arise and on their effects in that environment; total genetic diversity alone is not a guarantee of resilience.
 
 This topic is about that link: **genetic diversity → ability to withstand environmental pressures**. You need to explain it in words, support it with data, and connect the data to the theory of natural selection.
 
@@ -58,9 +58,9 @@ This topic is about that link: **genetic diversity → ability to withstand envi
 
 - **Number of alleles per gene.** A gene with six alleles in a population is more diverse than one with a single allele.
 - **Heterozygosity.** The proportion of individuals that are heterozygous at a gene. For a gene with two alleles at frequencies p and q, the expected value under Hardy–Weinberg conditions is **2pq**. It is highest (0.5) when p = q = 0.5 and falls towards 0 as one allele takes over.
-- **Variation in a trait.** A wide spread of a heritable trait, such as heat tolerance or beak depth, usually reflects more genetic variation behind it.
+- **Variation in a trait.** A wide spread of a heritable trait, such as heat tolerance or beak depth, can reflect genetic variation; environmental effects may also contribute, so trait spread is not a direct measure of genetic diversity.
 
-Diversity comes from mutation, from the reshuffling of alleles in meiosis and fertilisation, and from gene flow when individuals move in from other populations. It is lost by selection, by chance in small populations (genetic drift) and by inbreeding, where relatives mate and offspring become homozygous at more genes.
+Variation arises through mutation, reshuffling of alleles in meiosis and fertilisation, and gene flow. Selection and genetic drift can change allele frequencies; drift is especially influential in small populations. Inbreeding increases homozygosity and reduces heterozygosity, but does not by itself necessarily remove alleles. These processes can interact in real populations.
 
 ## Low diversity: a population at risk
 
@@ -68,10 +68,10 @@ If almost every individual carries the same alleles, almost every individual res
 
 Real cases show the pattern:
 
-- **Potato blight in Ireland.** In the 1840s much of Ireland relied on one potato variety, the Lumper. Potatoes are grown from tubers, so the plants in a field were genetically almost identical. When the blight organism *Phytophthora infestans* arrived, nearly every plant was susceptible. The crop failed year after year, and the famine that followed killed about a million people.
+- **Potato blight in Ireland.** In the 1840s much of Ireland relied on one potato variety, the Lumper. Potatoes are grown from tubers, so plants of the Lumper variety were genetically very similar. The blight organism *Phytophthora infestans* could infect that variety widely; this does not mean every individual plant had identical disease response. The crop failed year after year, and the famine that followed killed about a million people.
 - **Rusts and blights of crops.** Modern farms often plant huge areas with one variety. If a new strain of a fungal pathogen, such as a corn rust, can infect that variety, it can spread through field after field, because there are no resistant plants in the way.
 - **California condors.** By 1987 only 27 birds were left, and the last wild ones were taken into captivity for breeding. Every condor alive today descends from that small group. Inbreeding may be behind cases of a lethal inherited form of dwarfism in condor chicks.
-- **Black-footed ferrets.** Only 18 ferrets were caught for a captive breeding programme in the 1980s, and just 7 of them have living descendants. The whole species now carries the alleles of those few founders. Disease, such as sylvatic plague, is a major threat to it.
+- **Black-footed ferrets.** The conventional captive-breeding population was established from seven genetic founders; the U.S. Fish and Wildlife Service identifies that lineage as the basis of recovery efforts. Cloning from Willa, whose tissue was preserved in 1988, has since added a distinct founder lineage, and cloned ferrets have produced offspring. The original seven-founder bottleneck remains a major example of reduced diversity, but it is no longer accurate to say that every living ferret descends only from those seven. Disease, including sylvatic plague, remains a major threat.
 - **Prairie chickens.** In Illinois, greater prairie chickens fell from millions in the 1800s to a few dozen birds by the late 1990s. In the isolated, inbred population, fewer eggs hatched. Conservationists brought in birds from larger populations in other states. This **genetic rescue** adds new alleles through gene flow.
 
 Notice the common thread: fewer individuals → fewer alleles → fewer ways to cope with the next change. A small population also tends to lose still more diversity, so the risk can grow over time.
@@ -118,7 +118,7 @@ Antibiotic resistance in bacteria is a clear example. When an antibiotic is used
 <figcaption>Figure 1. Model data for two fish populations with the same average heat tolerance (38 °C). The diverse population has a wide spread; the uniform one a narrow spread. If summer water now reaches 41 °C, about 7 in 100 of the diverse population survive, but fewer than 1 in 10 000 of the uniform population.</figcaption>
 </figure>
 
-**Reading Figure 1.** Both populations have the same **average**, so a comparison of means would miss the difference. What matters is the **spread**. Only the diverse population has a tail of individuals beyond 41 °C. Those survivors pass on their heat-tolerance alleles, so the population can persist and, over generations, shift towards higher tolerance. The uniform population has almost no one to pass anything on.
+**Reading Figure 1.** Both populations have the same **average**, so a comparison of means would miss the difference. What matters is the **spread**. Only the diverse population has a tail of individuals beyond 41 °C. In this fictional model, the shaded tail is about 7% of individuals above the stated threshold. If heat tolerance is heritable and survivors reproduce, they may pass on alleles associated with higher tolerance, shifting the distribution over generations. The curves alone do not establish a genetic cause, and survival does not guarantee population persistence; the uniform model has very few individuals above the threshold.
 
 ## The same allele can help or harm
 
@@ -133,7 +133,7 @@ Look at this fictional data for a meadow plant. Allele F makes antifreeze protei
 | Mild | F_ | 0.95 | 60 | 0.95 × 60 = **57** |
 | Mild | ff | 0.97 | 100 | 0.97 × 100 = **97** |
 
-In cold winters, F plants leave more offspring (54 against 30), so selection favours F. In mild winters the frost protection is no longer needed, but the seed cost remains, so ff plants leave more offspring (97 against 57) and selection works **against** F. If winters alternate, keeping both alleles in the population is what protects it. Antibiotic resistance works the same way: a resistance allele saves a bacterium when the drug is present, but it often slows growth when the drug is absent.
+In cold winters, F plants leave more offspring (54 against 30), so selection favours F. In mild winters the frost protection is no longer needed, but the seed cost remains, so ff plants leave more offspring (97 against 57) and selection works **against** F. If winters alternate, selection may favour F in cold periods and ff in mild periods. Whether both alleles persist depends on how often each condition occurs, the relative reproductive success of genotypes, and other processes such as drift and migration; alternation alone does not guarantee a stable polymorphism. Antibiotic resistance can show a similar trade-off, but the costs and benefits depend on the resistance mechanism and conditions.
 
 ## Worked example 1: who survives a disease outbreak?
 
@@ -146,7 +146,7 @@ In cold winters, F plants leave more offspring (54 against 30), so selection fav
 
 **Check.** The fractions are between 0 and 1, and B, with the rarer resistance allele, has far fewer survivors (1020 ÷ 79.2 ≈ 13 times fewer).
 
-**(b) Interpretation.** Population A had more variation at this gene, so about half of it already carried resistance. It survives the outbreak with a large breeding population. Population B was nearly uniform for the susceptible allele. Fewer than 80 trees remain. That small group will probably lose more alleles by chance and through inbreeding, which makes the next pressure even harder to survive. This is how low diversity raises the risk of decline or extinction. Note what selection did: it did not create R; it acted on R that was already present.
+**(b) Interpretation.** Population A had more variation at this gene, so about half of it already carried resistance. It survives the outbreak with a large breeding population. Population B was nearly uniform for the susceptible allele. Fewer than 80 trees remain. That small group may lose more alleles by chance through genetic drift. Inbreeding can also increase homozygosity, exposing recessive alleles; the effects of drift, inbreeding and selection can compound in a small population. This is how low diversity raises the risk of decline or extinction. Note what selection did: it did not create R; it acted on R that was already present.
 
 **Assumptions.** Hardy–Weinberg conditions (random mating, no recent selection at this gene) and complete dominance of R. In reality the disease might not kill every rr tree, and other genes may affect survival too.
 
@@ -162,13 +162,13 @@ In cold winters, F plants leave more offspring (54 against 30), so selection fav
 Make a claim, support it with evidence from the table, and give reasoning that connects the evidence to biological theory.
 
 1. **Claim.** Genetically diverse plantings are more resilient to this rust than genetically uniform plantings.
-2. **Evidence.** Mean yield loss was 38% in single-variety plots and 12% in mixed plots, a difference of 26 percentage points. The ranges do not overlap (32–44% against 9–14%), so the difference is unlikely to be chance alone.
-3. **Reasoning.** In a single-variety plot every plant has the same resistance alleles, so if the rust can infect one plant it can infect them all and spread from neighbour to neighbour. In a mixture, some plants carry alleles that the rust cannot overcome. They survive, and they also slow the spread between susceptible plants. This matches the principle that diverse populations are more likely to contain individuals that withstand a pressure.
+2. **Evidence.** Mean yield loss was 38% in single-variety plots and 12% in mixed plots, a difference of 26 percentage points. The observed ranges do not overlap (32–44% against 9–14%); these are descriptive results from a four-plot fictional sample, not a statistical significance test, and they do not rule out plot-level confounders.
+3. **Reasoning.** In a single-variety plot the plants share a similar resistance-allele profile. If the tested rust strain overcomes that variety's resistance, it can infect many plants and spread from neighbour to neighbour; individual responses need not be identical. In a mixture, some plants carry alleles that the rust cannot overcome. They survive, and they also slow the spread between susceptible plants. This matches the principle that diverse populations are more likely to contain individuals that withstand a pressure.
 4. **Limits.** Four plots of each type is a small sample, and one rust strain was tested. A new strain that can infect all four varieties would remove the advantage, which is why breeders keep many varieties in seed banks.
 
 ## Common misconceptions
 
-- **"The pressure causes the helpful allele to appear."** Mutations are random. Selection acts on alleles that are already there when the pressure arrives.
+- **"The pressure causes the helpful allele to appear."** Mutations are not produced because they are needed. Selection can act on standing variants and on new variants when they arise; the environment does not direct the mutation.
 - **"A population with a high average value of a trait is the best prepared."** Spread matters as much as the mean. Without variation, everyone fails together (Figure 1).
 - **"A large population is always genetically diverse."** A field of clones, or a large population descended from a few founders, can be huge yet uniform.
 - **"An adaptive allele is adaptive everywhere."** Its value depends on the environment. Allele F above helps in cold winters and harms in mild ones.

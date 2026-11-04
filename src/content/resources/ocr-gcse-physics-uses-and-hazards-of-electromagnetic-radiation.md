@@ -93,6 +93,13 @@ A radiographer takes an X-ray of a patient's wrist. Explain why the radiographer
 **Answer:** the benefit to the patient outweighs the small risk from one exposure, while the radiographer would have a large total dose from repeated exposures with no personal benefit.
 
 ## P5.2i: Detecting hidden structures (Higher Tier only)
+<!-- marlbridge-diagram:phys-ocr-gcse-b28-four-medical-imaging-signals -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/physics/phys-ocr-gcse-b28-four-medical-imaging-signals.svg" aria-label="Open full-size diagram: four medical imaging signals"><img src="/images/learning/physics/phys-ocr-gcse-b28-four-medical-imaging-signals.svg" width="1440" height="1020" alt="A four-way GCSE comparison: infrared thermal emission from skin, X-ray differential absorption by bone and soft tissue, gamma rays emitted by an internal tracer, and ultrasound pulses reflected at tissue boundaries with echo delay indicating depth." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Infrared is emitted at the skin; X-rays are transmitted and absorbed differently; gamma rays are emitted by an internal tracer; ultrasound returns echoes from tissue boundaries. — Marlbridge Physics.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:phys-ocr-gcse-b28-four-medical-imaging-signals -->
+
 
 Waves can show what is inside a body or a planet without cutting it open. The idea is the same each time. A wave enters a material, and what comes out, or what bounces back, depends on how the material changes the wave. Three differences carry the information:
 

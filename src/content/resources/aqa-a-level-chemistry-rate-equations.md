@@ -163,12 +163,27 @@ Step 3: Ea = −gradient × R = 7.46 × 10³ × 8.31 = 6.20 × 10⁴ J mol⁻¹ 
 
 Keep 1/T to at least four significant figures, or the small differences lose accuracy.
 
+<!-- marlbridge-diagram:chem-b30-arrhenius-worked-example-plot -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/chemistry/chem-b30-arrhenius-worked-example-plot.svg" aria-label="Open full-size diagram: chem-b30-arrhenius-worked-example-plot"><img src="/images/learning/chemistry/chem-b30-arrhenius-worked-example-plot.svg" width="1528" height="940" alt="The four AQA worked-example points are plotted as ln(k/s-1) against 1/T, with the horizontal axis scaled in 10-3 K-1: 360 K (2.778, 0.69), 340 K (2.941, -0.53), 320 K (3.125, -1.90), and 300 K (3.333, -3.45). The physical x-values include the 10-3 factor, giving a negative gradient of -7.46e3 K; Ea = -gradient × 8.31 J mol-1 K-1 = 62.0 kJ mol-1. The intercept is ln A." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>The x-axis ticks show 1/T in units of 10⁻³ K⁻¹; include that scale factor when calculating the physical gradient. The four plotted points give a slope of −7.46 × 10³ K, so Ea = −gradient × 8.31 J mol⁻¹ K⁻¹ = 62.0 kJ mol⁻¹. The intercept is ln A. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:chem-b30-arrhenius-worked-example-plot -->
+
+
 ## 3.1.9.2 Rates from concentration–time graphs
 
 The rate at any moment is the size of the **gradient of the concentration–time graph** then. For a curve,
 draw a **tangent** and find its gradient (negative for a reactant; quote the rate as positive).
 
 The **initial rate** is the gradient of the tangent drawn at t = 0.
+
+<!-- marlbridge-diagram:chem-batch-tangent-zero-order -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/chemistry/chem-batch-tangent-zero-order.svg" aria-label="Open full-size diagram: concentration-time tangents and zero-order slope"><img src="/images/learning/chemistry/chem-batch-tangent-zero-order.svg" width="1600" height="900" alt="Concentration-time sketches compare a curved first-order reactant trace, whose tangent at time zero is steeper than a later tangent, with a straight zero-order trace whose tangent gradient is constant and equals minus k." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>For a curved concentration–time trace, tangent gradient depends on time; the initial rate uses t = 0. A zero-order trace is linear, so its gradient is constant and k is its positive magnitude.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:chem-batch-tangent-zero-order -->
 
 **Worked example 5 (tangent).** On a concentration–time curve for reactant D, the tangent at t = 60 s passes
 through (0 s, 0.62 mol dm⁻³) and (150 s, 0.11 mol dm⁻³).
@@ -179,6 +194,14 @@ rate at 60 s = 3.4 × 10⁻³ mol dm⁻³ s⁻¹
 ```
 
 ### Zero-order reactions
+
+<!-- marlbridge-diagram:chem-b28-zero-order-concentration-time-slope -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/chemistry/chem-b28-zero-order-concentration-time-slope.svg" aria-label="Open full-size diagram: chem-b28-zero-order-concentration-time-slope"><img src="/images/learning/chemistry/chem-b28-zero-order-concentration-time-slope.svg" width="1528" height="940" alt="A zero-order reactant concentration-time graph is a straight line from 0.80 mol dm-3 at 0 s to 0.44 mol dm-3 at 300 s. Its gradient is (0.44-0.80)/300 = -1.2e-3 mol dm-3 s-1, so k equals the positive magnitude, 1.2e-3 mol dm-3 s-1." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>A zero-order reactant concentration-time graph is a straight line from 0.80 mol dm-3 at 0 s to 0.44 mol dm-3 at 300 s. Its gradient is (0.44-0.80)/300 = -1.2e-3 mol dm-3 s-1, so k equals the positive magnitude, 1.2e-3 mol dm-3 s-1. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:chem-b28-zero-order-concentration-time-slope -->
+
 
 If the reaction is zero order with respect to X, Rate = k, so the rate stays constant as X is used up. The
 concentration–time graph is a **straight line**, and **k = −gradient**.
@@ -233,9 +256,9 @@ Check: Exp 2 gives 0.20 × (0.20)² × 0.10 = 8.0 × 10⁻⁴. It matches.
 
 In a multi-step reaction the slowest step is the **rate-determining (rate-limiting) step**.
 
-- A reactant in the rate equation takes part in the rate-determining step (or a step before it).
-- Its order tells you how many particles of it take part up to and including that step.
-- A **zero-order** reactant takes part only **after** the rate-determining step.
+- For a specified elementary slow step, its molecularity gives the concentration powers in that elementary rate law.
+- If earlier equilibria form an intermediate, use their relations to express the slow-step rate in terms of measured reactants.
+- Experimental order does not generally count all particles used before or during the slow step. Zero order means no concentration dependence over the tested range; a species may react later, but saturation and other mechanisms can also give zero-order behaviour.
 
 **Worked example 8.** The reaction 2P + Q → P₂Q has Rate = k[P][Q]. Which of these mechanisms fits?
 
@@ -247,6 +270,13 @@ Step 2: the slow step of I uses one P and one Q, and the steps add up to the ove
 Step 3: the slow step of II would give Rate = k[P]², so II does not fit.
 
 ## Required practical 7: measuring rate
+<!-- marlbridge-diagram:chem-b25-iodine-clock-initial-rate -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/chemistry/chem-b25-iodine-clock-initial-rate.svg" aria-label="Open full-size diagram: chem-b25-iodine-clock-initial-rate"><img src="/images/learning/chemistry/chem-b25-iodine-clock-initial-rate.svg" width="1528" height="940" alt="In the iodine clock method, iodine forms and is consumed by a small fixed amount of thiosulfate until the thiosulfate runs out. Starch then turns the mixture blue-black and the timer is stopped. Vary one reactant, replace its volume with water to keep total volume fixed, keep temperature constant, and treat 1/t as an estimate of initial rate when the fixed conversion is sufficiently small." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>For a sufficiently small fixed conversion, 1/t estimates the initial rate. Keep temperature and total volume constant while varying one reactant. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:chem-b25-iodine-clock-initial-rate -->
+
 
 The specification requires you to measure the rate of reaction **by an initial rate method** and **by a
 continuous monitoring method** (apparatus and techniques AT a, k and l). It suggests finding the order for a
@@ -260,12 +290,16 @@ starch blue-black.
    **total volume is the same** each run; its concentration is then proportional to its volume.
 2. Mix, start the timer, and stop it at the colour change. Keep the temperature constant.
 
-The same small amount of product forms each run, so **initial rate ∝ 1/t**. Plot 1/t against the varied
-concentration (or volume) and read the order from the shape, as in the table above.
+The same small amount of product forms each run. If that threshold is small enough that the rate has not
+changed much before the colour change, **1/t is an estimate proportional to the initial rate**. It is a
+proxy, not an exact instantaneous rate. Plot 1/t against the varied concentration (or volume) and infer
+the order from the pattern, as in the table above.
 
 **Continuous monitoring method.** Follow one concentration through a single run: gas volume, mass loss,
-colour with a colorimeter, or samples removed, quenched (for example in ice-cold water) and titrated. Plot
-concentration against time and draw tangents to find rates at different concentrations.
+colour with a colorimeter, or samples removed and titrated. For aliquots, use a quench that has been shown
+to stop this particular reaction quickly on the sampling timescale; cooling in ice-cold water is only an
+example and is not guaranteed to quench every reaction. Plot concentration against time and draw tangents
+to find rates at different concentrations.
 
 Wear eye protection and handle each chemical according to its hazards (AT k).
 
@@ -276,7 +310,7 @@ Wear eye protection and handle each chemical according to its hazards (AT k).
 - Using Ea in kJ mol⁻¹ or T in °C in k = Ae^(−Ea/RT).
 - Sign errors: Ea = −gradient × R.
 - Crediting a rate change to one reactant when two concentrations changed.
-- Saying a zero-order reactant is not used up. It is; it reacts after the rate-determining step.
+- Saying a zero-order reactant is not used up. It can be consumed even though its concentration does not affect the measured rate over the tested range; zero order alone does not establish when it reacts.
 
 ## Next steps
 

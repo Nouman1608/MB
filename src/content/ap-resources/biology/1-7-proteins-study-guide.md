@@ -27,9 +27,9 @@ framework: { schoolYear: "2026-27", examSeries: "May 2027" }
 sources: ["ced-biology", "page-biology"]
 keyPoints:
   - "A protein is one or more linear chains of amino acids joined by covalent peptide bonds. Each bond forms between a carboxyl group and the next amine group, and releases one water molecule."
-  - "Every amino acid has the same core (central carbon, H, amine group, carboxyl group) plus a variable R group that is nonpolar, polar or ionic."
+  - "Most standard protein-building amino acids share an alpha-carbon framework with H, amino, carboxyl and R groups; proline is cyclic at the amino nitrogen, and modified residues also occur in proteins."
   - "Primary structure is the sequence. Secondary structure (α-helices, β-pleated sheets) comes from hydrogen bonds between backbone atoms."
-  - "Tertiary structure comes from R-group interactions: hydrogen bonds, hydrophobic interactions, ionic interactions and disulfide bridges. Quaternary structure is two or more chains fitting together."
+  - "Tertiary structure can be stabilized by R-group interactions, including hydrogen bonds, hydrophobic effects, ionic interactions and, when cysteines form them, disulfide bonds. Quaternary structure is two or more chains fitting together."
   - "The sequence decides the shape, and the shape decides the function. One changed amino acid can be enough to change both."
 faqs:
   - question: "Do I need to learn the structures of all the amino acids?"
@@ -47,11 +47,13 @@ author: "marlbridge-academic-team"
 
 ## Proteins do most of the work in a cell
 
-Enzymes that speed up reactions, channels that let ions cross membranes, antibodies that bind invaders, hormones that carry signals, and fibres that give skin and tendons their strength are all proteins. Each of these jobs depends on the protein having exactly the right **shape**. This topic explains where that shape comes from: a chain of building blocks that folds in a predictable way.
+Many enzymes, channels, antibodies, peptide hormones and structural fibres are proteins; catalytic RNAs also exist, and some hormones are steroids or other small molecules. Protein function depends on its amino-acid sequence and structure. This topic explains how chains of building blocks can fold into functional shapes.
 
 ## Amino acids: one shared core, one variable R group
 
-The monomers of proteins are **amino acids**. Every amino acid has the same core. A **central carbon atom** is covalently bonded to four things:
+Proteins are built mainly from standard **α-amino acids**. Most have a central α-carbon bonded to a hydrogen atom, an amino group, a carboxyl group and a variable R group. Proline is a familiar exception because its side chain forms a ring with the amino nitrogen; proteins can also contain modified amino-acid residues.
+
+For the usual α-amino-acid model, the central carbon is shown bonded to:
 
 1. a **hydrogen atom**;
 2. an **amine group**, −NH₂;
@@ -267,7 +269,7 @@ The **tertiary structure** is the overall three-dimensional shape of one polypep
 | **Hydrogen bonds** | polar R groups | δ⁺ and δ⁻ parts of two R groups attract |
 | **Hydrophobic interactions** | nonpolar R groups | they cluster in the interior, away from water |
 | **Ionic interactions** | ionic R groups with opposite charges | a positive R group attracts a negative one |
-| **Disulfide bridges** | two R groups that contain sulfur | a covalent S–S bond forms between them |
+| **Disulfide bridges** | two cysteine side-chain thiols | oxidation can form a covalent S–S bond; whether it forms depends on the protein and cellular environment |
 
 Hydrogen bonds, hydrophobic interactions and ionic interactions are individually weak, but there are many of them. A disulfide bridge is a **covalent** bond, so it is much stronger. It is the reason sulfur appears in your list of elements for proteins (Topic 1.2). For a protein dissolved in the cytoplasm, the usual result is a compact shape with nonpolar R groups buried in a core and polar or ionic R groups on the outside, facing water.
 

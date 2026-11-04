@@ -226,6 +226,17 @@ In the financial statements:
 | Owner's private expense paid by the business | Remove from the expense | Add to drawings |
 
 ## Worked example: sole trader statements with adjustments
+<!-- marlbridge-diagram:ac-igcse-preparation-statements-kofi-flow -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/accounting/ac-igcse-preparation-statements-kofi-flow.svg" aria-label="Open full-size diagram: ac-igcse-preparation-statements-kofi-flow">
+    <picture>
+      <source media="(max-width: 640px)" srcset="/images/learning/accounting/ac-igcse-preparation-statements-kofi-flow-mobile.svg" />
+      <img src="/images/learning/accounting/ac-igcse-preparation-statements-kofi-flow.svg" width="1600" height="1050" alt="Kofi Mensah’s year-end adjustments flow through cost of sales, gross profit, other income, expenses and corrected profit of $29,110." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" />
+    </picture>
+  </a>
+  <figcaption>Kofi’s year-end adjustments flow from the trial balance into cost of sales and expenses, producing profit for the year of $29,110. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:ac-igcse-preparation-statements-kofi-flow -->
 
 Kofi Mensah runs a shop that also carries out repairs for a fee, so his
 business is a combination of trading and service. His trial balance at

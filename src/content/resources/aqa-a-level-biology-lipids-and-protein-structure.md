@@ -28,6 +28,13 @@ This guide teaches section 3.1.3 (Lipids) and section 3.1.4.1 (General propertie
 
 ## What you must be able to do
 
+<!-- marlbridge-diagram:bio-b19-lipid-protein-structure-map -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/biology/bio-b19-lipid-protein-structure-map.svg" aria-label="Open full-size diagram: Lipids and proteins: structures to draw and interpret"><img src="/images/learning/biology/bio-b19-lipid-protein-structure-map.svg" width="1600" height="1000" alt="A four-panel labelled overview of triglyceride ester bonds, phospholipid head and tails, amino acid and peptide structure, and protein folding." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>AQA overview of triglyceride, phospholipid, amino acid, peptide bond and protein structure. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:bio-b19-lipid-protein-structure-map -->
+
 | Section | Statement in short |
 |---|---|
 | 3.1.3 | Triglycerides form by condensation of one glycerol and three fatty acids, giving ester bonds |
@@ -67,6 +74,11 @@ The R group is a hydrocarbon chain. In a **saturated** fatty acid every carbon-c
 Stearic acid (saturated)   CH3-(CH2)16-COOH      C18H36O2
 Oleic acid (unsaturated)   CH3-(CH2)7-CH=CH-(CH2)7-COOH   C18H34O2
 ```
+
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/biology/bio-b56-fatty-acid-saturation.svg" aria-label="Open full-size diagram: saturated and unsaturated fatty acids"><img src="/images/learning/biology/bio-b56-fatty-acid-saturation.svg" width="1280" height="720" alt="Side-by-side schematic fatty-acid chains: stearic acid has only carbon-carbon single bonds and formula C18H36O2; cis-oleic acid has one C=C bond and formula C18H34O2. The cis bond bends the chain. Both chain drawings are simplified and not to scale." loading="lazy" decoding="async" style="display:block;width:100%;height:auto;" /></a>
+  <figcaption>Identify unsaturation by the C=C bond in the fatty acid chain; the cis double bond shown bends the chain. The structural segments are schematic and not drawn to scale.</figcaption>
+</figure>
 
 To recognise them from a diagram, scan the chain for a C=C. If you find one, it is unsaturated. If the chain is only single bonds, it is saturated. Never decide from chain length.
 
@@ -121,6 +133,11 @@ Ethanol is needed because lipids do not dissolve in water. Keep ethanol away fro
 
 ## Amino acids
 
+
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <!-- marlbridge-diagram:biology-amino-acid-peptide-bond --><a href="/images/learning/biology/biology-amino-acid-peptide-bond.svg" aria-label="Open full-size diagram: Amino-acid structure and peptide-bond formation" title="Amino-acid structure and peptide-bond formation"><img src="/images/learning/biology/biology-amino-acid-peptide-bond.svg" width="1600" height="1050" alt="Amino-acid structure and peptide-bond formation. Two general neutral-form amino acids join by condensation. A carboxyl OH and an amino H leave as water; the carbonyl carbon bonds to nitrogen to make the peptide linkage –CO–NH–. A companion short polypeptide schematic marks the free N and C termini and sequence backbone. R groups vary; this is not a stereochemical molecular model." title="Amino-acid structure and peptide-bond formation" loading="lazy" decoding="async" style="display:block;width:100%;height:auto;" /></a>
+  <figcaption>General amino-acid structure and the formation of a peptide bond between amino acids. Select the diagram to enlarge it.</figcaption>
+</figure>
 Proteins are polymers whose monomers are **amino acids**. Every amino acid has the same general structure around a central carbon.
 
 ```

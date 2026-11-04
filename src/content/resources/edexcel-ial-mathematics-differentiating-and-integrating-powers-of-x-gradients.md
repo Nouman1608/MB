@@ -120,6 +120,14 @@ Use y − y₁ = m(x − x₁) for both lines. If a question asks for a particul
 
 **Worked example 5.** The curve C has equation y = 3x² − 4√x for x > 0. Find the equations of the tangent and the normal at the point where x = 4.
 
+<!-- marlbridge-diagram:maths-b16-differentiation-tangent-normal -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/mathematics/maths-b16-differentiation-tangent-normal.svg" aria-label="Open full-size diagram: maths-b16-differentiation-tangent-normal"><img src="/images/learning/mathematics/maths-b16-differentiation-tangent-normal.svg" width="1600" height="1050" alt="For y=3x²−4√x at x=4, the point is (4,40), the tangent gradient is 23 and the normal gradient is −1/23." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>For y=3x²−4√x at x=4, the point is (4,40), the tangent gradient is 23 and the normal gradient is −1/23. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:maths-b16-differentiation-tangent-normal -->
+
+
 ```
 y = 3x² − 4x^(1/2)
 dy/dx = 6x − 2x^(−1/2)

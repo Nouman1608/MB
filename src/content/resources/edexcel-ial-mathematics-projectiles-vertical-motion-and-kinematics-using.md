@@ -120,6 +120,14 @@ Key situations:
 
 ### Worked example 3
 
+<!-- marlbridge-diagram:maths-b23-projectile-components-path-24ms -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/mathematics/maths-b23-projectile-components-path-24ms.svg" aria-label="Open full-size diagram: maths-b23-projectile-components-path-24ms"><img src="/images/learning/mathematics/maths-b23-projectile-components-path-24ms.svg" width="1600" height="1050" alt="A ball is projected from level ground at 24.5 m s⁻¹ with sin α=0.6 and cos α=0.8. Thus uₓ=19.6 and uᵧ=14.7 m s⁻¹. With g=9.8 m s⁻², flight time is 3 s, range is 58.8 m and maximum height is about 11.0 m." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>A ball is projected from level ground at 24.5 m s⁻¹ with sin α=0.6 and cos α=0.8. Thus uₓ=19.6 and uᵧ=14.7 m s⁻¹. With g=9.8 m s⁻², flight time is 3 s, range is 58.8 m and maximum height is about 11.0 m. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:maths-b23-projectile-components-path-24ms -->
+
+
 A ball is projected from level ground at 24.5 m s⁻¹ at an angle α above the horizontal, where sin α = 0.6. Find (a) the time of flight, (b) the range, (c) the greatest height, (d) the speed and direction of motion after 2 s.
 
 cos α = 0.8, so the horizontal component is 19.6 and the vertical component is 14.7.

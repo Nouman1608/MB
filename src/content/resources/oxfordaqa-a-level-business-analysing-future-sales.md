@@ -48,6 +48,14 @@ Many businesses combine the two, adjusting a number-based forecast using the jud
 
 ## 2. The three period moving average
 
+<!-- marlbridge-diagram:business-oxfordaqa-moving-average-forecast -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/business/business-oxfordaqa-moving-average-forecast.svg" aria-label="Open full-size diagram: business-oxfordaqa-moving-average-forecast"><img src="/images/learning/business/business-oxfordaqa-moving-average-forecast.svg" width="1600" height="1050" alt="A plot and worked calculation use the lesson sales data, middle-month alignment, average trend change and September/October forecasts." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>A plot and worked calculation use the lesson sales data, middle-month alignment, average trend change and September/October forecasts. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:business-oxfordaqa-moving-average-forecast -->
+
+
 Raw sales figures jump around from month to month. A **moving average** smooths out these short-term ups and downs so the underlying **trend** is easier to see.
 
 **Method in steps**

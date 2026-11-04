@@ -75,6 +75,14 @@ Cambridge IGCSE Economics (0455) syllabus, for examination in 2026 --
 
 ## Households, workers and wage determination
 
+<!-- marlbridge-diagram:economics-labour-market-wage-skill-shortage -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/economics/economics-labour-market-wage-skill-shortage.svg" aria-label="Open full-size diagram: economics-labour-market-wage-skill-shortage"><img src="/images/learning/economics/economics-labour-market-wage-skill-shortage.svg" width="1600" height="1050" alt="A labour market diagram shows rising labour demand for a scarce skill raising the equilibrium wage; collective bargaining is noted as a factor in negotiations." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Wage determination: a shortage of skilled workers Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:economics-labour-market-wage-skill-shortage -->
+
+
 A household's spending, saving and borrowing decisions are shaped by factors including income level,
 interest rates, expectations about future prices, and the availability of credit. For workers, wage rates
 are determined by the interaction of labour demand (how many workers firms want to employ at a given wage)

@@ -85,6 +85,14 @@ Break-even sales revenue  = break-even units × selling price
 A lower price, a higher variable cost or extra fixed costs all push break-even up.
 
 ## Break-even charts
+<!-- marlbridge-diagram:ac-b14-marginal-costing-break-even-chart -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/accounting/ac-b14-marginal-costing-break-even-chart.svg" aria-label="Open full-size diagram: ac-b14-marginal-costing-break-even-chart">
+    <img src="/images/learning/accounting/ac-b14-marginal-costing-break-even-chart.svg" width="1600" height="1050" alt="Graph shows revenue crossing total cost at 1,700 units and $127,500." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" />
+  </a>
+  <figcaption>Source schedule: at 3,000 lamps revenue is $225,000, total cost $179,500 and profit $45,500. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:ac-b14-marginal-costing-break-even-chart -->
 
 Hessary's chart has lamps along the bottom and dollars up the side, with three straight lines:
 

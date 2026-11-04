@@ -74,6 +74,14 @@ source, and why, converts a rote list into an examinable understanding.
 
 ## Worked example: comparing sources of finance across two structures
 
+<!-- marlbridge-diagram:accounting-business-organisation-comparison -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/accounting/accounting-business-organisation-comparison.svg" aria-label="Open full-size diagram: accounting-business-organisation-comparison"><img src="/images/learning/accounting/accounting-business-organisation-comparison.svg" width="1600" height="1050" alt="Comparison of sole traders, partnerships, private limited companies and public limited companies by ownership, liability, typical finance and reporting." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Business ownership structures differ in liability, finance and reporting obligations. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:accounting-business-organisation-comparison -->
+
+
 A question asks candidates to explain the differences in sources of
 finance available to a sole trader compared with a public limited
 company.

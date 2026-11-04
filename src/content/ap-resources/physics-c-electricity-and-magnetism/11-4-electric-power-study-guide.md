@@ -95,7 +95,7 @@ This is why "does more resistance mean more power?" has no single answer. You mu
 
 ## Predicting the brightness of bulbs
 
-The brightness of a light bulb increases with the power it receives. So to compare bulbs, **compare their powers**. You do not need to know how much of the power becomes light, only that more power means a brighter bulb.
+For the same bulb type under comparable conditions, greater electrical power generally means greater visible brightness, so compare powers in the idealized examples below. Across different bulb technologies, electrical power alone does not determine perceived brightness: luminous efficiency and spectrum also matter.
 
 <figure>
 <svg viewBox="0 0 560 270" role="img" aria-labelledby="bulbs-title bulbs-desc" xmlns="http://www.w3.org/2000/svg" font-family="system-ui, sans-serif">

@@ -27,14 +27,14 @@ next: "mb-ap-bio-7.10-practice"
 framework: { schoolYear: "2026-27", examSeries: "May 2027" }
 sources: ["ced-biology", "page-biology"]
 keyPoints:
-  - "A new species arises when two populations become reproductively isolated, so genes no longer flow between them."
+  - "Speciation occurs as reproductive barriers reduce gene flow between populations; gene exchange can sometimes continue while lineages diverge."
   - "Biological species concept: a species is a group whose members can interbreed and produce viable, fertile offspring. It applies to sexually reproducing organisms."
   - "Pre-zygotic barriers stop a zygote forming (habitat, timing, behaviour, mechanical, gametic). Post-zygotic barriers act after (hybrids die, are sterile, or their offspring fail)."
   - "Allopatric speciation follows a geographic split. Sympatric speciation happens in the same area, for example by polyploidy in plants or a switch to a new host."
-  - "Speciation can be slow and steady (gradualism) or quick after long stasis (punctuated equilibrium). It is fastest in adaptive radiations into new habitats."
+  - "Speciation can be slow and steady (gradualism) or quick after long stasis (punctuated equilibrium). Adaptive radiation can be rapid when ecological opportunity opens new niches, but rates of trait divergence and species formation vary among lineages and conditions."
 faqs:
   - question: "If two animals produce a hybrid, are they the same species?"
-    answer: "Not necessarily. Under the biological species concept the offspring must be viable and fertile, and the groups must exchange genes in nature. A horse and a donkey produce mules, but mules are almost always sterile, so horses and donkeys are separate species."
+    answer: "Not necessarily. Under the biological species concept, members of one species can usually interbreed in nature and produce viable, fertile offspring. Distinct species are reproductively isolated overall, although occasional hybrids and some gene exchange can occur. A horse and a donkey produce mules, but mules are almost always sterile."
   - question: "Does speciation need a physical barrier?"
     answer: "No. Allopatric speciation does, but sympatric speciation happens with no geographic barrier, for example when polyploidy makes offspring unable to breed with the parent population."
 version: "1.0"
@@ -48,13 +48,13 @@ author: "marlbridge-academic-team"
 
 ## From populations to species
 
-Topic 7.9 showed that every node on a tree is a point where one lineage became two. This topic explains how that split happens. The short answer: two populations stop exchanging genes. Once **gene flow** stops, mutation, natural selection and genetic drift change each gene pool in its own way. If the populations become so different that they could no longer interbreed successfully even if they met, they are separate species. The process is **speciation**.
+Topic 7.9 showed that every node on a tree is a point where one lineage became two. This topic explains how that split happens. The short answer: reproductive barriers reduce gene exchange. As **gene flow** becomes limited, mutation, natural selection and genetic drift can change the gene pools in different ways; some gene flow may persist during divergence. If the populations become so different that they could no longer interbreed successfully even if they met, they are separate species. The process is **speciation**.
 
 ## What is a species?
 
 The definition used most often for sexually reproducing organisms is the **biological species concept**. A species is a group of populations whose members can **interbreed** in nature and produce **viable, fertile offspring**. Viable means the offspring survive; fertile means they can reproduce in turn.
 
-The key idea is **reproductive isolation**: members of different species do not exchange genes, so each species evolves as a separate unit.
+The key idea is **reproductive isolation**: barriers reduce gene exchange between populations. Some gene flow may continue while reproductive isolation evolves; when barriers are strong, lineages can evolve increasingly independently.
 
 The concept has limits (background):
 
@@ -88,7 +88,7 @@ Speciation is classified by where the diverging populations live.
 <figure>
 <svg viewBox="0 0 715 290" role="img" aria-labelledby="s1-title s1-desc" xmlns="http://www.w3.org/2000/svg" font-family="system-ui, sans-serif">
 <title id="s1-title">Flowcharts of allopatric and sympatric speciation</title>
-<desc id="s1-desc">Two rows of four boxes joined by arrows. Top row, allopatric speciation: one population sharing one gene pool; a barrier such as a river, mountain or sea divides it and gene flow stops; mutation, selection and drift act separately; even when the barrier is gone there is no interbreeding, so there are two species. Bottom row, sympatric speciation: one population sharing one gene pool; in the same area, polyploidy, a new host or mate choice splits it; little gene flow, so the groups diverge; living side by side but isolated, two species.</desc>
+<desc id="s1-desc">Two rows of four boxes joined by arrows. Top row, allopatric speciation: one population sharing one gene pool; a barrier such as a river, mountain or sea divides it and sharply reduces gene flow; mutation, selection and drift act separately; even when the barrier is gone there is no interbreeding, so there are two species. Bottom row, sympatric speciation: one population sharing one gene pool; in the same area, polyploidy, a new host or mate choice splits it; little gene flow, so the groups diverge; living side by side but isolated, two species.</desc>
 <rect x="0" y="0" width="715" height="290" fill="#ffffff"/>
 <text x="20" y="28" font-size="14" font-weight="700" fill="#1d2b44">Allopatric (geographically separated)</text>
 <text x="20" y="163" font-size="14" font-weight="700" fill="#1d2b44">Sympatric (same area)</text>
@@ -96,7 +96,7 @@ Speciation is classified by where the diverging populations live.
 <rect x="20" y="40" width="150" height="85" rx="8" fill="#fdf6e3" stroke="#1d2b44" stroke-width="2"/>
 <text x="95" y="72" text-anchor="middle" font-size="12" fill="#1d2b44"><tspan x="95">One population</tspan><tspan x="95" dy="17">shares one gene pool</tspan></text>
 <rect x="195" y="40" width="150" height="85" rx="8" fill="#ffffff" stroke="#1d2b44" stroke-width="2" stroke-dasharray="7 4"/>
-<text x="270" y="64" text-anchor="middle" font-size="12" fill="#1d2b44"><tspan x="270">A barrier divides it</tspan><tspan x="270" dy="17">(river, mountain, sea)</tspan><tspan x="270" dy="17">so gene flow stops</tspan></text>
+<text x="270" y="64" text-anchor="middle" font-size="12" fill="#1d2b44"><tspan x="270">A barrier divides it</tspan><tspan x="270" dy="17">(river, mountain, sea)</tspan><tspan x="270" dy="17">so gene flow falls</tspan></text>
 <rect x="370" y="40" width="150" height="85" rx="8" fill="#ffffff" stroke="#1d2b44" stroke-width="2"/>
 <text x="445" y="64" text-anchor="middle" font-size="12" fill="#1d2b44"><tspan x="445">Mutation, selection</tspan><tspan x="445" dy="17">and drift act</tspan><tspan x="445" dy="17">separately</tspan></text>
 <rect x="545" y="40" width="150" height="85" rx="8" fill="#fdf6e3" stroke="#1d2b44" stroke-width="2"/>
@@ -120,11 +120,11 @@ Speciation is classified by where the diverging populations live.
 <figcaption>Figure 1. The two routes differ in how gene flow is first cut: by geography (top) or by a genetic or behavioural change within one area (bottom). Both end with reproductive isolation.</figcaption>
 </figure>
 
-**Allopatric speciation** ("other homeland") happens when populations are **geographically isolated**. A river changes course, a mountain range rises, sea level rises and cuts off an island, or a few individuals reach a new island. With no gene flow, each population changes independently. Differences build up in mating signals, timing or chromosomes, often as a side effect of adapting to different conditions. If the populations meet again later and cannot interbreed successfully, speciation is complete. Allopatric speciation is thought to be the most common route in animals.
+**Allopatric speciation** ("other homeland") happens when populations are **geographically isolated**. A river changes course, a mountain range rises, sea level rises and cuts off an island, or a few individuals reach a new island. With much less gene flow, each population can change increasingly independently. Differences build up in mating signals, timing or chromosomes, often as a side effect of adapting to different conditions. If the populations meet again later and cannot interbreed successfully, speciation is complete. Allopatric speciation is thought to be the most common route in animals.
 
 **Sympatric speciation** ("same homeland") happens while populations **overlap geographically**. Something other than distance must cut gene flow:
 
-- **Polyploidy.** An error in cell division can produce offspring with extra full sets of chromosomes. In plants this happens often, and a polyploid plant can be isolated from its parents in a single generation (Worked example 1). Polyploidy is common in flowering plants.
+- **Polyploidy.** An error in cell division can produce offspring with extra full sets of chromosomes. In some plant groups, chromosome doubling can create reproductive isolation from diploid parents in one generation. A new polyploid lineage still has to survive, reproduce and persist; chromosome doubling does not guarantee a new species.
 - **Habitat or host shift.** The apple maggot fly, *Rhagoletis pomonella*, originally laid its eggs on hawthorn fruit. After apples were brought to North America, a race that uses apples appeared in the 1800s. The flies mate on their host fruit, and apples ripen earlier than hawthorn, so apple flies and hawthorn flies mostly breed at different times and places. In the laboratory they can still produce offspring, so this is usually described as speciation in progress.
 - **Mate choice.** If females in part of a population come to prefer a different signal, matings between the groups can become rare.
 
@@ -170,7 +170,7 @@ Two models describe the pattern of change, especially in the fossil record.
 
 Both patterns occur. Which one you see depends on the group and its conditions. Stable environments tend to favour stasis; a sudden change in the environment, or a small isolated population, can favour rapid change.
 
-**Divergent evolution and adaptive radiation.** When related populations adapt to different habitats, their phenotypes spread apart: this is **divergent evolution**. It is fastest during an **adaptive radiation**, when one ancestral lineage quickly gives rise to many species, each suited to a different way of life. Radiations happen when many new habitats or niches open up with few competitors, for example on new volcanic islands or after a mass extinction removes other groups. The Hawaiian islands, for instance, hold hundreds of species of *Drosophila* fruit flies found nowhere else.
+**Divergent evolution and adaptive radiation.** When related populations adapt to different habitats, their phenotypes spread apart: this is **divergent evolution**. It can be rapid during an **adaptive radiation**, when one ancestral lineage gives rise to multiple species as ecological opportunity opens new niches. Rates vary among lineages, and rapid trait divergence does not automatically mean rapid speciation. Radiations happen when many new habitats or niches open up with few competitors, for example on new volcanic islands or after a mass extinction removes other groups. The Hawaiian islands, for instance, hold hundreds of species of *Drosophila* fruit flies found nowhere else.
 
 **Convergent evolution** is the opposite pattern. Similar selection pressures produce **similar phenotypes** in lineages that are not closely related. On each of the four large Caribbean islands (Cuba, Hispaniola, Jamaica and Puerto Rico), *Anolis* lizards have evolved much the same set of body types, called ecomorphs, matched to where they live: for example, forms suited to tree trunks, to the canopy and to thin twigs. DNA comparisons show that the similar forms on different islands mostly arose independently, each from lizards already on that island. Convergent traits are analogous, which is why they can mislead a tree built only from body form (Topic 7.9).
 
@@ -180,11 +180,16 @@ Both patterns occur. Which one you see depends on the group and its conditions. 
 
 (a) Give the chromosome number of the tetraploid and of its gametes. (b) A tetraploid is pollinated by a normal diploid. Give the chromosome number of the offspring and explain whether it is fertile. (c) Explain whether the tetraploids form a new species, and whether this is allopatric or sympatric speciation.
 
-**(a)** One set has n = 14 ÷ 2 = 7 chromosomes. Tetraploid: 4 × 7 = **28** chromosomes. Its gametes carry half: **14** (2 sets).
+<figure>
+  <a href="/images/learning/biology/bio-b20-polyploidy-chromosome-crosses.svg" aria-label="Open full-size diagram: chromosome-set counts in tetraploid crosses"><img src="/images/learning/biology/bio-b20-polyploidy-chromosome-crosses.svg" width="1600" height="1000" alt="Fictional plant example with base chromosome set x = 7: tetraploid parents form 2x gametes of 14 chromosomes; tetraploid × tetraploid gives 4x = 28, while tetraploid × diploid gives 3x = 21 and often reduced fertility. Fertility varies with species and chromosome pairing." loading="lazy" decoding="async" style="display:block;width:100%;height:auto;" /></a>
+  <figcaption>Chromosome counts in a fictional x = 7 example. The diagram shows typical pairing outcomes; fertility is not guaranteed.</figcaption>
+</figure>
+
+**(a)** One set has n = 14 ÷ 2 = 7 chromosomes. Tetraploid: 4 × 7 = **28** chromosomes. Its gametes usually carry half: **14** (2 sets).
 
 **(b)** Tetraploid gamete (14) + diploid gamete (7) = **21** chromosomes, which is 3 sets (**triploid**). In meiosis, chromosomes pair with a matching partner. With three copies of each chromosome, one copy is always left over, so the gametes get unbalanced numbers of chromosomes. Most gametes fail, so the triploid is **largely sterile**. This is a post-zygotic barrier (reduced hybrid fertility).
 
-**(c)** Tetraploid × tetraploid gives 14 + 14 = 28: fertile tetraploids. So tetraploids breed successfully with each other but not with the diploids. Under the biological species concept they are a **new species**, formed in one generation. They grew in the same meadow, so this is **sympatric** speciation.
+**(c)** A tetraploid gamete usually carries 14 chromosomes; two such gametes can produce a 28-chromosome tetraploid. In this simplified example, even chromosome sets can pair and fertility is expected, while crosses with diploids produce triploids with reduced fertility. If the tetraploid lineage establishes and becomes reproductively isolated from the diploid population, it can represent sympatric speciation; the chromosome count alone does not show that a new species will persist.
 
 **Check.** Every count is a whole number of sets of 7: 7, 14, 21, 28. An odd number of sets (here 3) is the warning sign for sterility.
 

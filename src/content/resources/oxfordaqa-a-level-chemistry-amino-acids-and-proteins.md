@@ -128,6 +128,14 @@ The dipeptide H₂N–CH(CH₂C₆H₅)–CO–NH–CH(CH(CH₃)CH₂CH₃)–CO
 
 ### Protein structure
 
+<!-- marlbridge-diagram:chem-obj-protein-structure-levels -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/chemistry/chem-obj-protein-structure-levels.svg" aria-label="Open full-size diagram: chem-obj-protein-structure-levels"><img src="/images/learning/chemistry/chem-obj-protein-structure-levels.svg" width="1528" height="940" alt="Protein primary, secondary, tertiary and quaternary structure; schematic alpha helix and beta sheet show backbone hydrogen bonding, and a tertiary fold shows a side-chain disulfide link." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Protein structure: peptide sequence, folding and association — Marlbridge Chemistry.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:chem-obj-protein-structure-levels -->
+
+
 | Level | Meaning | Held by |
 |---|---|---|
 | Primary | The order of amino acids along the chain | Covalent peptide links |
@@ -157,7 +165,7 @@ Name the level of structure each diagram shows.
 1. Draw a pencil baseline and put small spots of the hydrolysate and of reference amino acids on it.
 2. Place the plate in a covered tank with the solvent level below the baseline.
 3. Lift the plate out while the solvent is still short of the top edge, and mark the front at once.
-4. The spots are colourless. Spray with **ninhydrin** and warm: amino acids show as purple spots. Or shine **ultraviolet light** on a plate containing a fluorescent substance: the spots appear dark.
+4. The spots are colourless. Spray with **ninhydrin** and warm: amino acids with a free amino group usually show as purple spots (proline gives a different yellow response). A UV method works only when the analyte absorbs the lamp wavelength or has been derivatised to do so, using a fluorescent-indicator plate; the indicator fluorescence is quenched where a UV-absorbing spot sits. Many amino acids have no strong useful absorption at 254 nm, so do not assume every amino-acid spot will appear dark. For the standards in the worked example, use ninhydrin.
 5. Calculate Rf values and compare with the standards.
 
 **Rf = (baseline-to-spot distance) ÷ (baseline-to-solvent-front distance)**.
@@ -179,6 +187,14 @@ Rf is a ratio with no units, always between 0 and 1. TLC shows which amino acids
 **Cisplatin**, cis-[Pt(NH₃)₂Cl₂], is a platinum(II) complex used to treat some cancers. Its shape is square planar, with the two chloride ligands next to each other.
 
 ### How it stops DNA replication
+
+<!-- marlbridge-diagram:chem-obj-cisplatin-dna-crosslink -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/chemistry/chem-obj-cisplatin-dna-crosslink.svg" aria-label="Open full-size diagram: chem-obj-cisplatin-dna-crosslink"><img src="/images/learning/chemistry/chem-obj-cisplatin-dna-crosslink.svg" width="1528" height="940" alt="Cisplatin is square-planar cis-[Pt(NH3)2Cl2]; adjacent chloride ligands can be replaced by guanine N7 donors, cross-linking nearby sites and distorting DNA." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Cisplatin cross-links adjacent guanine sites on DNA — Marlbridge Chemistry.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:chem-obj-cisplatin-dna-crosslink -->
+
 
 The specification describes a **ligand replacement reaction with DNA**: a chloride ligand on platinum is replaced, and a nitrogen atom uses its lone pair to form a co-ordinate bond to platinum. The specification's wording places that nitrogen "on a protein"; in the DNA itself, it is usually on a guanine base. Because the two chloride ligands are cis, both can be replaced, so one platinum can bind to two sites close together. The DNA is distorted, and it cannot be copied normally. Without replication, the cancer cell cannot divide.
 

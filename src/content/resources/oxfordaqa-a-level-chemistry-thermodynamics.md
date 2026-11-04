@@ -53,6 +53,8 @@ bond enthalpy), [Atomic structure](/resources/oxfordaqa-a-level-chemistry-atomic
 | 3.1.8.1 Born–Haber cycles | Define enthalpy of hydration; calculate enthalpies of solution and other changes from lattice and hydration enthalpies | International A-level only |
 | 3.1.8.2 ΔG and ΔS | Explain why ΔH is not enough to decide feasibility; calculate ΔS from absolute entropies; use ΔG = ΔH – TΔS to see how ΔG varies with T and to find the temperature at which a reaction becomes feasible | International A-level only |
 
+![For a fixed-property positive-ΔH, positive-ΔS example, ΔG falls through zero as temperature rises; zero marks the equilibrium boundary and negative ΔG indicates a forward driving force.](/images/learning/chemistry/chem-thermodynamics-delta-g-equilibrium-boundary.svg)
+
 No required practical activity is listed under 3.1.8.
 
 ## 3.1.8.1 The enthalpy terms
@@ -229,7 +231,7 @@ The specification gives the relationship
 ΔG = ΔH – TΔS        (derivation not required)
 ```
 
-with T in kelvin. **A reaction is feasible when ΔG is zero or negative.** Convert ΔS from J K⁻¹ mol⁻¹
+with T in kelvin. **At constant temperature and pressure, ΔG < 0 gives a forward thermodynamic driving force; ΔG = 0 is the equilibrium boundary with no net driving force.** Standard-state data give ΔG⦵, while the direction in a non-standard mixture also depends on composition. Convert ΔS from J K⁻¹ mol⁻¹
 to kJ K⁻¹ mol⁻¹ (÷ 1000) to match ΔH.
 
 Melting ice shows the balance. For H₂O(s) → H₂O(l), take ΔH = +6.01 kJ mol⁻¹ and
@@ -272,7 +274,7 @@ Absolute entropies (J K⁻¹ mol⁻¹): N₂O₄(g) 304; NO₂(g) 240.
 T = 57 / 0.176 = 324 K
 ```
 
-ΔS is positive because 1 mole of gas becomes 2. The reaction is feasible at 324 K and above.
+ΔS is positive because 1 mole of gas becomes 2. In this fixed-property standard-state model, ΔG⦵ crosses zero near 324 K and is negative above that temperature; the actual mixture composition must also be considered.
 
 ### Worked example 7: ΔH and ΔS both negative
 

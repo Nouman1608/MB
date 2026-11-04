@@ -111,6 +111,13 @@ B = 48.3° (1 d.p.)
 ```
 
 ### The two-answer problem
+<!-- marlbridge-diagram:maths-b21-sine-rule-two-solutions -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/mathematics/maths-b21-sine-rule-two-solutions.svg" aria-label="Open full-size diagram: maths-b21-sine-rule-two-solutions"><img src="/images/learning/mathematics/maths-b21-sine-rule-two-solutions.svg" width="1528" height="940" alt="For A=28 degrees, a=6.4 cm and b=9.5 cm, sin B=0.6969, giving B=44.2 degrees or 135.8 degrees. Both fit because the remaining angles C are 107.8 degrees and 16.2 degrees, respectively." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>The inverse sine gives the acute option first. Check its supplement by verifying the remaining angle is positive. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:maths-b21-sine-rule-two-solutions -->
+
 
 The sine of an angle and the sine of its supplement are equal: sin x = sin (180° − x). When you take an inverse sine you get the acute angle. The obtuse angle 180° − x may also fit the triangle.
 

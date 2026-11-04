@@ -28,7 +28,7 @@ next: "mb-ap-chem-9.10-practice"
 framework: { schoolYear: "2026-27", examSeries: "May 2027" }
 sources: ["ced-chemistry", "page-chemistry"]
 keyPoints:
-  - "E° is the cell potential when Q = 1 (standard conditions). Real cells usually have Q ≠ 1, so E ≠ E°."
+  - "E° is defined for standard-state activities, which give Q = 1. A nonstandard mixture can also have Q = 1, so Q = 1 implies E = E° but does not by itself prove standard conditions."
   - "The cell potential is the drive towards equilibrium: the further the cell is from equilibrium, the larger the size of E. At equilibrium (Q = K), E = 0 and the cell is 'dead'."
   - "For a galvanic cell (E° > 0, so K > 1), Q < 1 (more reactant, less product than standard) moves the cell further from equilibrium, so E > E°. Q > 1 moves it closer, so E < E°."
   - "Reason with Q, not Le Châtelier's principle: a working cell is not at equilibrium."
@@ -67,7 +67,7 @@ A galvanic cell has E° > 0, so K is greater than 1 (usually much greater). As t
 
 | Situation | Where the cell is | Effect on E |
 |---|---|---|
-| Q = 1 | standard conditions | E = E° |
+| Q = 1 | Standard conditions are one case; a nonstandard mixture can also have Q = 1 | E = E° |
 | Q < 1 (relatively more reactant, less product) | **further** from equilibrium than standard | E **larger** than E° |
 | 1 < Q < K (relatively more product, less reactant) | **closer** to equilibrium than standard | E **smaller** than E°, but still positive |
 | Q = K | at equilibrium | E = 0; no current flows |

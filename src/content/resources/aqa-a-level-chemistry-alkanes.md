@@ -49,6 +49,14 @@ oil substitute as an opportunity for skills development.
 
 ## Alkanes and crude oil (3.3.2.1)
 
+<!-- marlbridge-diagram:chem-obj-petroleum-column-outlets -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/chemistry/chem-obj-petroleum-column-outlets.svg" aria-label="Open full-size diagram: chem-obj-petroleum-column-outlets"><img src="/images/learning/chemistry/chem-obj-petroleum-column-outlets.svg" width="1528" height="940" alt="Fractionating column with a hot bottom and cooler top: shorter-chain vapours rise and condense higher, longer-chain fractions condense lower, and unvaporised residue remains at the base." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Fractionating column outlets and non-vaporised residue — Marlbridge Chemistry.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:chem-obj-petroleum-column-outlets -->
+
+
 An **alkane** is a **saturated hydrocarbon**. Hydrocarbon means it contains hydrogen and carbon only.
 Saturated means it has only single C–C bonds, so no more hydrogen can be added. The general formula of the
 non-cyclic alkanes is **CₙH₂ₙ₊₂**: methane CH₄, ethane C₂H₆, propane C₃H₈, butane C₄H₁₀ and so on.

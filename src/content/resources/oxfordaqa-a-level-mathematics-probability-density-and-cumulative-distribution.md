@@ -214,6 +214,14 @@ The root 5 + √69/3 ≈ 7.77 is outside 2 ≤ x ≤ 4, so reject it. The median
 
 ### Worked example 5: quartiles when the equation has no neat solution
 
+<!-- marlbridge-diagram:math-b66-oxfordaqa-cdf-quartiles-numerical-inversion -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/public/images/learning/mathematics/math-b66-oxfordaqa-cdf-quartiles-numerical-inversion.svg" aria-label="Open full-size diagram: math-b66-oxfordaqa-cdf-quartiles-numerical-inversion"><img src="/public/images/learning/mathematics/math-b66-oxfordaqa-cdf-quartiles-numerical-inversion.svg" width="1528" height="940" alt="A cdf curve from (0,0) to (2,1) marks Q1 at probability 0.25 and x=1, median at 0.5 and x≈1.456, and Q3 at 0.75 and x≈1.762." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>A cdf curve from (0,0) to (2,1) marks Q1 at probability 0.25 and x=1, median at 0.5 and x≈1.456, and Q3 at 0.75 and x≈1.762.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:math-b66-oxfordaqa-cdf-quartiles-numerical-inversion -->
+
+
 For the cdf in worked example 3, F(x) = (x³ + 2x)/12.
 
 ```

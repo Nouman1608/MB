@@ -85,6 +85,14 @@ components.
 
 ## Worked example: matching an indicator to an objective
 
+<!-- marlbridge-diagram:economics-macroeconomic-objectives-indicators -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/economics/economics-macroeconomic-objectives-indicators.svg" aria-label="Open full-size diagram: economics-macroeconomic-objectives-indicators"><img src="/images/learning/economics/economics-macroeconomic-objectives-indicators.svg" width="1600" height="1050" alt="Macroeconomic objectives paired with direct indicators, with index-number and nominal versus real reminders." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Measure each macroeconomic objective with an appropriate indicator. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:economics-macroeconomic-objectives-indicators -->
+
+
 A question asks candidates to identify which macroeconomic indicator
 would be most useful for assessing the government's objective of
 achieving an equitable distribution of income, and to justify the

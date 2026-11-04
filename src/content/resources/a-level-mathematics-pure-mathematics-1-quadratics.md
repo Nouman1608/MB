@@ -92,6 +92,14 @@ final answer on this sub-topic specifically.
 
 ## Working through each sub-topic
 
+<!-- marlbridge-diagram:maths-quadratic-roots-discriminant -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/mathematics/maths-quadratic-roots-discriminant.svg" aria-label="Open full-size diagram: maths-quadratic-roots-discriminant"><img src="/images/learning/mathematics/maths-quadratic-roots-discriminant.svg" width="1600" height="1050" alt="Decision map for the discriminant and number of real roots, with checked examples and a link to graph shape." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Use discriminant to predict the number of real roots before solving. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:maths-quadratic-roots-discriminant -->
+
+
 **1.1 Quadratics.** Three connected skills: solving by factorising, completing the square, and the
 quadratic formula, plus using the discriminant (b² − 4ac) to determine the number of real roots
 without solving fully. Completing the square also gives the vertex form directly, which is reused

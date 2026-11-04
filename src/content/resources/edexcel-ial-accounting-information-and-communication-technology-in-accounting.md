@@ -36,7 +36,17 @@ The specification notes that you will not be examined on specific applications o
 This builds on Unit 1 outcome 1.1.7 (ICT in recording transactions, reconciliations and financial statements), covered in the [principles and double entry guide](/resources/a-level-edexcel-accounting-principles-and-double-entry-bookkeeping/). Topic 2.9 focuses on costing, management information and whether ICT is worth having.
 
 ## 2.9.1 Uses of ICT in costing and management information
-
+<!-- marlbridge-diagram:ac-edx-ict-accounting-data-controls -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/accounting/ac-edx-ict-accounting-data-controls.svg" aria-label="Open full-size diagram: ac-edx-ict-accounting-data-controls">
+    <picture>
+      <source media="(max-width: 640px)" srcset="/images/learning/accounting/ac-edx-ict-accounting-data-controls-mobile.svg" />
+      <img src="/images/learning/accounting/ac-edx-ict-accounting-data-controls.svg" width="1600" height="1050" alt="A flow map connects transaction capture, spreadsheet and accounting-package processing, management reports and audit-trail controls." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" />
+    </picture>
+  </a>
+  <figcaption>A flow map connects transaction capture, spreadsheet and accounting-package processing, management reports and audit-trail controls. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:ac-edx-ict-accounting-data-controls -->\n
 Management information helps managers plan, decide and control: budgets, product costs, who owes money, sales by product. ICT produces it faster and more often than a manual system.
 
 ### Spreadsheets

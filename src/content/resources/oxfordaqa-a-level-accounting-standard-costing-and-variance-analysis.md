@@ -230,6 +230,13 @@ In a cost reconciliation, adverse variances are **added** (they raise cost) and 
 **subtracted**.
 
 ### Budgeted and actual profit
+<!-- marlbridge-diagram:ac-b16-variance-profit-reconciliation -->
+<figure class="study-guide-figure">
+  <img src="/images/learning/accounting/ac-b16-variance-profit-reconciliation.svg" alt="Budget profit $27,200 plus favourable variances of $10,855 less adverse variances of $6,306 gives actual profit $31,749." loading="lazy" />
+  <figcaption>Favourable variances increase profit; adverse variances reduce it. Confirm the result against actual profit.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:ac-b16-variance-profit-reconciliation -->
+
 
 Actual profit = 190,900 − 61,335 − 45,816 − 52,000 = **31,749**.
 

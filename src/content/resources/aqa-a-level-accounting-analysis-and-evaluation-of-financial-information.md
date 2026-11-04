@@ -58,6 +58,14 @@ Average inventory is normally (opening + closing) / 2. For ROCE, the specificati
 
 ## Worked example: Ashby Garden Supplies
 
+<!-- marlbridge-diagram:accounting-aqa-ashby-ratio-appraisal -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/accounting/accounting-aqa-ashby-ratio-appraisal.svg" aria-label="Open full-size diagram: accounting-aqa-ashby-ratio-appraisal"><img src="/images/learning/accounting/accounting-aqa-ashby-ratio-appraisal.svg" width="1600" height="1050" alt="Selected exact 2025 Ashby ratios and year-on-year liquidity comparison." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Ashby: read ratios as a connected story Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:accounting-aqa-ashby-ratio-appraisal -->
+
+
 Ashby Garden Supplies is a sole trader. Extracts for the year ended 31 December 2025:
 
 | Income statement | £ |

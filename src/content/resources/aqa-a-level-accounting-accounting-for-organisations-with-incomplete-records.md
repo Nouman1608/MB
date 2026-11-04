@@ -59,6 +59,14 @@ Drawings are added back because they reduced capital without being an expense. C
 
 ### Worked example 1: profit from statements of affairs
 
+<!-- marlbridge-diagram:accounting-aqa-incomplete-records-statements-affairs-profit -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/accounting/accounting-aqa-incomplete-records-statements-affairs-profit.svg" aria-label="Open full-size diagram: accounting-aqa-incomplete-records-statements-affairs-profit"><img src="/images/learning/accounting/accounting-aqa-incomplete-records-statements-affairs-profit.svg" width="1600" height="1050" alt="Exact opening/closing capital, drawings and capital introduced from the lesson." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Incomplete records: derive Tamsin’s profit Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:accounting-aqa-incomplete-records-statements-affairs-profit -->
+
+
 Tamsin Ollerton runs a mobile dog grooming service. She keeps no books. Her accountant lists the following.
 
 | | 1 April 2025 £ | 31 March 2026 £ |

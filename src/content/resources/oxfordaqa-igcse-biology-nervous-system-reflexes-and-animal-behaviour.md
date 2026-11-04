@@ -57,6 +57,9 @@ Reflexes are fast because few neurones are involved and the response does not wa
 
 ### The pain-withdrawal reflex (d, e)
 
+![Reflex arc flow showing a pain receptor, sensory neurone, CNS relay, motor neurone and contracting muscle; synapses transmit chemically.](/images/learning/biology/bio-b16-reflex-arc-withdrawal.svg)
+
+
 Follow the pathway in order:
 
 1. A pain receptor in the skin detects the stimulus and starts impulses.

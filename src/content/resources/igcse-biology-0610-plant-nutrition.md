@@ -154,7 +154,7 @@ A lamp close to the plant also warms the water, so control temperature with a wa
 | 30 | 17 | 21 | 19 | 19.0 |
 | 40 | 11 | 9 | 10 | 10.0 |
 
-Working for 10 cm: (42 + 45 + 39) ÷ 3 = 126 ÷ 3 = 42.0. Conclusion: the closer the lamp, the higher the light intensity and the faster the rate. If one repeat were far out of line (say 31 instead of 19 at 30 cm), treat it as anomalous and average the other two: (17 + 21) ÷ 2 = 19.0.
+Working for 10 cm: (42 + 45 + 39) ÷ 3 = 126 ÷ 3 = 42.0. Conclusion: the closer the lamp, the higher the light intensity and the faster the rate. If a repeat seems anomalous, keep the original reading and investigate possible measurement or recording errors; repeat the condition where possible. Do not remove a result only because it differs from the others. For readings of 17, 21 and 31, the mean of all three is 23.0. Excluding 31 would give 19.0, but any exclusion needs a stated, justified criterion and must be reported.
 
 Bubbles differ in size, so collecting the gas is more accurate. If 2.4 cm³ of gas is collected in 5 minutes, the rate is 2.4 ÷ 5 = 0.48 cm³ per minute.
 

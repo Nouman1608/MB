@@ -152,6 +152,13 @@ The curve plots **percentage saturation of haemoglobin** against the **partial p
 
 ### The Bohr shift
 
+<!-- marlbridge-diagram:bio-b17-oxygen-dissociation-bohr-shift -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/biology/bio-b17-oxygen-dissociation-bohr-shift.svg" aria-label="Open full-size diagram: Oxygen dissociation curve: the Bohr shift"><img src="/images/learning/biology/bio-b17-oxygen-dissociation-bohr-shift.svg" width="1600" height="1000" alt="Shows the sigmoid oxygen dissociation curve shifting right at high carbon dioxide, with the source example’s 45% versus 30% saturation and oxygen-unloading calculation." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Shows the sigmoid oxygen dissociation curve shifting right at high carbon dioxide, with the source example’s 45% versus 30% saturation and oxygen-unloading calculation. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:bio-b17-oxygen-dissociation-bohr-shift -->
+
 A high partial pressure of carbon dioxide shifts the curve to the **right**. This is the **Bohr shift**. The extra carbon dioxide produces more H⁺, which forms haemoglobinic acid and lowers haemoglobin's affinity for oxygen. At any given pO₂, saturation is lower, so **more oxygen is unloaded** in actively respiring tissues. In the lungs, where carbon dioxide is being removed, haemoglobin's affinity is higher and it loads oxygen readily.
 
 **Worked example 2.** Blood leaving the lungs is 97% saturated. Fully saturated blood carries 20.0 cm³ of oxygen per 100 cm³. In a muscle at a pO₂ of 3 kPa, saturation falls to 45% at normal carbon dioxide levels, but to 30% when the muscle is working hard and pCO₂ is high. Calculate the oxygen released per 100 cm³ of blood in each case, and the percentage increase caused by the Bohr shift.

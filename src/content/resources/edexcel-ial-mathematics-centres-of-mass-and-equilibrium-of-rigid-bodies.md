@@ -51,6 +51,14 @@ moment = 24 × 2.5 × sin 40° = 38.6 N m  (3 s.f.)
 
 ## 2.1 Centre of mass of particles
 
+<!-- marlbridge-diagram:maths-b16-centre-of-mass-weighted-coordinates -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/mathematics/maths-b16-centre-of-mass-weighted-coordinates.svg" aria-label="Open full-size diagram: maths-b16-centre-of-mass-weighted-coordinates"><img src="/images/learning/mathematics/maths-b16-centre-of-mass-weighted-coordinates.svg" width="1600" height="1050" alt="Three particles at given coordinates have weighted centre of mass (0.4,1.6); adding 1.5 kg at (5,5) shifts the x coordinate to 1." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Three particles at given coordinates have weighted centre of mass (0.4,1.6); adding 1.5 kg at (5,5) shifts the x coordinate to 1. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:maths-b16-centre-of-mass-weighted-coordinates -->
+
+
 For particles of masses m₁, m₂, … at positions x₁, x₂, …, the centre of mass is at
 
 ```

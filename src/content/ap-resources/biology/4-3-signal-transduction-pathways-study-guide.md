@@ -64,7 +64,7 @@ This topic asks two new questions:
 | Change in **phenotype** | the new proteins change what the cell, tissue or organism looks like or does | hours to days | ethylene changes the enzymes in fruit cells so the fruit softens and ripens |
 | **Apoptosis** | the cell activates enzymes that take it apart from the inside | hours | the tissue between developing fingers and toes is removed |
 
-The first two rows describe **where** the pathway acts. The last two describe **outcomes** that usually follow from changed gene expression. They overlap: a phenotype change nearly always rests on new proteins made after gene expression changes.
+The first two rows describe **where** the pathway acts; phenotype change and apoptosis describe possible **outcomes**. These categories overlap. A phenotype includes observable structure or function, so it can change through altered activity of existing proteins as well as through new gene expression. The fruit-ripening example below emphasises changed enzyme production.
 
 <figure>
 <svg viewBox="0 0 680 424" role="img" aria-labelledby="st43-f1-title st43-f1-desc" xmlns="http://www.w3.org/2000/svg" font-family="system-ui, sans-serif">
@@ -139,7 +139,7 @@ Bacteria show the same principle through **quorum sensing**. Each bacterium rele
 
 ### Apoptosis: a response that ends the cell
 
-Some signals tell a cell to die in a controlled way. This is **apoptosis**, or programmed cell death. The pathway activates protein-digesting enzymes that break the cell down from the inside. The fragments are packaged in membrane and eaten by other cells, so no contents leak out and no inflammation results.
+Some signals tell a cell to die in a controlled way. This is **apoptosis**, or programmed cell death. The pathway activates protein-digesting enzymes that break the cell down from the inside. The fragments are packaged in membrane and normally cleared promptly by other cells. Efficient clearance limits leakage and usually avoids a strong inflammatory response. If clearance fails, membrane breakdown and inflammatory consequences can occur.
 
 Apoptosis is not a failure; it shapes the body. In a human embryo the hands start as paddles. Cells between the future fingers receive signals and undergo apoptosis, which separates the digits. In chick embryos, experiments that disrupted a receptor in this signalling pathway stopped the apoptosis and gave webbed feet, rather like a duck's. Apoptosis also removes cells that are damaged, infected or no longer needed.
 
@@ -161,7 +161,7 @@ Chemicals made by other organisms, or by drug companies, can act at any point in
 | Point | Chemical effect | Result | Example |
 |---|---|---|---|
 | Receptor (1) | **mimics** the ligand and switches the receptor on | pathway activated | synthetic hormones |
-| Receptor (1) | **blocks** the ligand-binding site without switching it on | pathway inhibited | 1-methylcyclopropene blocks ethylene receptors, so stored fruit ripens later; beta blocker drugs block receptors for epinephrine in the heart |
+| Receptor (1) | prevents the usual ligand-dependent response | response inhibited; the molecular sign depends on the receptor | Beta blockers oppose epinephrine responses in the heart. 1-methylcyclopropene (1-MCP) blocks ethylene perception and delays ripening. Ethylene receptors are a special case: their unliganded receptor/CTR1 system represses downstream responses, and ethylene binding normally relieves that repression. 1-MCP prevents the ethylene-induced switch; it should not be mapped as simply turning off a positively activating receptor in Figure 1. |
 | Relay protein (3) | locks it in the active state | pathway activated, cannot switch off | cholera toxin keeps a G protein active in gut cells, so cAMP stays high and the cells pump out chloride ions and water: severe diarrhoea |
 | Kinase (4) | blocks the enzyme's active site | pathway inhibited from that point on | some cancer drugs inhibit an overactive kinase |
 | Enzyme that removes a second messenger | slows its removal | response lasts longer | predict it from the rule below |

@@ -81,6 +81,11 @@ Background: in sucrose the glycosidic bond uses the carbon atoms that would othe
 
 ## Condensation: making glycosidic bonds (outcome 5)
 
+
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <!-- marlbridge-diagram:biology-glucose-anomers-condensation --><a href="/images/learning/biology/biology-glucose-anomers-condensation.svg" aria-label="Open full-size diagram: Glucose ring forms and glycosidic condensation" title="Glucose ring forms and glycosidic condensation"><img src="/images/learning/biology/biology-glucose-anomers-condensation.svg" width="1600" height="1050" alt="Glucose ring forms and glycosidic condensation. Haworth projections of alpha- and beta-D-glucose show the six-membered ring, five carbons plus oxygen, CH2OH outside the ring, and the C1 hydroxyl orientation difference. A separate scheme shows alpha-1,4 glycosidic bond formation from C1-OH and HO-C4, release of one water, and hydrolysis as the reverse. Schematic teaching diagram; not a precise stereochemical drawing to scale." title="Glucose ring forms and glycosidic condensation" loading="lazy" decoding="async" style="display:block;width:100%;height:auto;" /></a>
+  <figcaption>Compare the α- and β-glucose forms, then trace α-1,4 glycosidic bond formation by condensation and its reversal by hydrolysis. Select the diagram to enlarge it.</figcaption>
+</figure>
 A **condensation reaction** joins two molecules and releases one molecule of water. When two monosaccharides join, an OH group on each reacts: one loses H, the other loses OH, forming H₂O. The sugars are now linked through an oxygen atom. This C–O–C link is the **glycosidic bond**.
 
 - **Maltose** = α-glucose + α-glucose, joined by an **α-1,4 glycosidic bond** (carbon 1 of one glucose to carbon 4 of the next).

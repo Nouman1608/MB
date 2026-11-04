@@ -103,6 +103,14 @@ The **law of diminishing returns** applies only in the short run: adding a varia
 
 ## Market structures
 
+<!-- marlbridge-diagram:economics-market-structures-competition-monopoly -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/economics/economics-market-structures-competition-monopoly.svg" aria-label="Open full-size diagram: economics-market-structures-competition-monopoly"><img src="/images/learning/economics/economics-market-structures-competition-monopoly.svg" width="1600" height="1050" alt="A comparison of four structures links firm numbers and barriers to pricing power, long-run profit and efficiency trade-offs." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Market structures: how competition changes firm outcomes Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:economics-market-structures-competition-monopoly -->
+
+
 | Structure | Firms | Barriers | Product | Long-run profit |
 |---|---|---|---|---|
 | Perfect competition | Very many | None | Homogeneous | Normal only |

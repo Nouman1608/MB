@@ -127,6 +127,17 @@ together: showing a machine at cost less depreciation only makes sense
 if the business is expected to keep using it.
 
 ## Worked example: applying the concepts to a draft profit
+<!-- marlbridge-diagram:ac-igcse-accounting-concepts-profit-adjustments -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/accounting/ac-igcse-accounting-concepts-profit-adjustments.svg" aria-label="Open full-size diagram: ac-igcse-accounting-concepts-profit-adjustments">
+    <picture>
+      <source media="(max-width: 640px)" srcset="/images/learning/accounting/ac-igcse-accounting-concepts-profit-adjustments-mobile.svg" />
+      <img src="/images/learning/accounting/ac-igcse-accounting-concepts-profit-adjustments.svg" width="1600" height="1050" alt="Nadia Rahman’s $48,000 draft profit is adjusted for entity, matching, prudence, realisation and materiality to $47,800." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" />
+    </picture>
+  </a>
+  <figcaption>Eight concept-led adjustments turn Nadia’s draft profit of $48,000 into corrected profit of $47,800. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:ac-igcse-accounting-concepts-profit-adjustments -->
 
 Nadia Rahman is a sole trader. Her draft profit for the year ended 31
 December 2027 is **$48,000**. On checking, the following are found.

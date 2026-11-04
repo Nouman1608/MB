@@ -50,7 +50,17 @@ The specification groups the first four as the discounted methods and calls ARR 
 **non-discounted methods**. The difference is whether the method allows for the time value of money.
 
 ## Cash flows: the raw material
-
+<!-- marlbridge-diagram:ac-edx-project-appraisal-methods -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/accounting/ac-edx-project-appraisal-methods.svg" aria-label="Open full-size diagram: ac-edx-project-appraisal-methods">
+    <picture>
+      <source media="(max-width: 640px)" srcset="/images/learning/accounting/ac-edx-project-appraisal-methods-mobile.svg" />
+      <img src="/images/learning/accounting/ac-edx-project-appraisal-methods.svg" width="1600" height="1050" alt="A method map separates discounted from non-discounted project-appraisal methods and shows how to set up project cash flows." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" />
+    </picture>
+  </a>
+  <figcaption>A method map separates discounted from non-discounted project-appraisal methods and shows how to set up project cash flows. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:ac-edx-project-appraisal-methods -->\n
 A project is a long-term spending decision, such as a new machine, a branch or a delivery fleet.
 Before you apply any method, set out the project's **net cash flow** for each year.
 

@@ -84,10 +84,19 @@ Examples you meet in this specification:
 From 3.1.2.5:
 
 ```
-% atom economy = Mr of the wanted product × 100 ÷ (total Mr of every reactant)
+% atom economy = [ν(wanted product) × Mr(wanted product)] ÷ Σ[ν(reactant) × Mr(reactant)] × 100
 ```
 
-Take the masses from the balanced equation, multiplying each reactant by its coefficient. A high value
+Here **ν** is that substance's coefficient in the balanced equation. Multiply the wanted product by its
+coefficient in the numerator and every reactant by its own coefficient in the denominator. For example,
+for `2H₂ + O₂ → 2H₂O`, the desired water contributes `2 × Mr(H₂O)`, not just one `Mr(H₂O)`:
+
+```
+% atom economy = [2 × 18.0] ÷ [2 × 2.0 + 32.0] × 100 = 100%
+```
+
+Equivalently, first normalise the whole equation to one mole of wanted product and use all reactant amounts
+in that same ratio. A high value
 means most reactant atoms finish in the wanted product, so less is thrown away. Additions (one product)
 give 100%. Substitutions and eliminations usually make a by-product as well, so they usually give less than 100%.
 
@@ -230,8 +239,7 @@ anhydride). That trade-off is what outcome 2 is about.
 
 ### Chirality in a synthesis
 
-If a step makes a chiral centre from a planar group, such as KCN adding to an aldehyde or an
-unsymmetrical ketone, the product is a racemic mixture. When only one enantiomer is wanted (for example
+For an achiral starting system under achiral, non-enantioselective conditions, a step that creates one chiral centre from equivalent faces of a planar group can give a racemic mixture, as in the simple KCN-addition examples. Chiral reagents, catalysts or environments can favour one face; planarity alone does not guarantee a racemate. When only one enantiomer is wanted (for example
 in a drug), the other must be separated or the route redesigned. See
 [optical isomerism](/resources/oxfordaqa-a-level-chemistry-optical-isomerism/).
 

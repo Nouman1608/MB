@@ -168,6 +168,14 @@ increased.
 
 ## How to approach it
 
+<!-- marlbridge-diagram:math-b71-statistics-revision-two-track-plan -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/public/images/learning/mathematics/math-b71-statistics-revision-two-track-plan.svg" aria-label="Open full-size diagram: math-b71-statistics-revision-two-track-plan"><img src="/public/images/learning/mathematics/math-b71-statistics-revision-two-track-plan.svg" width="1528" height="940" alt="The source recommends balancing binomial/normal probabilities and hypothesis tests with exploration of the current pre-released large data set, formal hypotheses in p or μ, and pure-maths skills within statistical problems." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>The source recommends balancing binomial/normal probabilities and hypothesis tests with exploration of the current pre-released large data set, formal hypotheses in p or μ, and pure-maths skills within statistical problems. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:math-b71-statistics-revision-two-track-plan -->
+
+
 Because Statistics carries a genuine data-handling component alongside
 its calculation-based content, split revision time between the two:
 practise the standard calculations (binomial and normal probabilities,

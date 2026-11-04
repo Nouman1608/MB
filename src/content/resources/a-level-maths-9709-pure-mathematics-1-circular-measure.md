@@ -91,6 +91,14 @@ Your calculator must be in radian mode whenever you find sin, cos or tan of an a
 
 ## 2. Arc length
 
+<!-- marlbridge-diagram:maths-circular-measure-sector-example -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/mathematics/maths-circular-measure-sector-example.svg" aria-label="Open full-size diagram: maths-circular-measure-sector-example"><img src="/images/learning/mathematics/maths-circular-measure-sector-example.svg" width="1600" height="1050" alt="Worked sector uses perimeter 30 cm and radius 8 cm to derive angle 1.75 radians, arc length 14 cm and area 56 square centimetres." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Use radians in arc-length and sector-area formulae, and include both radii in the perimeter. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:maths-circular-measure-sector-example -->
+
+
 An arc is a fraction θ/(2π) of the whole circumference. So
 
 ```
@@ -181,6 +189,14 @@ segment area = ½r²θ − ½r² sin θ = ½r²(θ − sin θ)
 Do not quote the segment formula without working. Write the sector and the triangle separately first, then subtract. That way each step can earn a method mark.
 
 ### Worked example 4: exact segment area and perimeter
+
+<!-- marlbridge-diagram:maths-b15-circular-measure-minor-segment -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/mathematics/maths-b15-circular-measure-minor-segment.svg" aria-label="Open full-size diagram: maths-b15-circular-measure-minor-segment"><img src="/images/learning/mathematics/maths-b15-circular-measure-minor-segment.svg" width="1600" height="1050" alt="Radius 10 cm, central angle π/3, chord 10 cm: minor-segment area is 50π/3−25√3 cm² and perimeter is 10π/3+10 cm." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Radius 10 cm, central angle π/3, chord 10 cm: minor-segment area is 50π/3−25√3 cm² and perimeter is 10π/3+10 cm. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:maths-b15-circular-measure-minor-segment -->
+
 
 A circle has centre O and radius 10 cm. A chord AB subtends an angle of π/3 at O. Find, in exact form, the area and the perimeter of the minor segment.
 

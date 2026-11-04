@@ -89,6 +89,14 @@ class width, with the vertical axis labelled "Frequency density"
 
 ## How to approach it
 
+<!-- marlbridge-diagram:math-b57-statistics-method-selection -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/public/images/learning/mathematics/math-b57-statistics-method-selection.svg" aria-label="Open full-size diagram: math-b57-statistics-method-selection"><img src="/public/images/learning/mathematics/math-b57-statistics-method-selection.svg" width="1528" height="940" alt="A source-based decision map distinguishes individual values, grouped frequency tables, scatter diagrams and histograms. It highlights midpoint-weighted estimated means and frequency density for unequal-width classes as Extended material, and recommends judging correlation before fitting a line." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>A source-based decision map distinguishes individual values, grouped frequency tables, scatter diagrams and histograms. It highlights midpoint-weighted estimated means and frequency density for unequal-width classes as Extended material, and recommends judging correlation before fitting a line. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:math-b57-statistics-method-selection -->
+
+
 The single most consequential Core/Extended distinction in this topic
 is that Extended students must handle grouped data (estimating the
 mean from a grouped frequency table, identifying a modal class) in

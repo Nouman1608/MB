@@ -214,6 +214,14 @@ For y > mx + c, the region is above the line. For y < mx + c, it is below.
 
 ### Worked example 10: three inequalities
 
+<!-- marlbridge-diagram:maths-b32-three-inequality-region -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/mathematics/maths-b32-three-inequality-region.svg" aria-label="Open full-size diagram: maths-b32-three-inequality-region"><img src="/images/learning/mathematics/maths-b32-three-inequality-region.svg" width="1600" height="1050" alt="The solution region is the triangle with intersections (1,2), (4,2), and (3,4). The y=2 and 2x+y=10 boundaries are included; y=x+1 is dashed and excluded. Integer solutions are (2,2),(3,2),(3,3),(4,2)." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>The solution region is the triangle with intersections (1,2), (4,2), and (3,4). The y=2 and 2x+y=10 boundaries are included; y=x+1 is dashed and excluded. Integer solutions are (2,2),(3,2),(3,3),(4,2). Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:maths-b32-three-inequality-region -->
+
+
 Show on a graph the region R where y ≥ 2, y < x + 1 and 2x + y ≤ 10.
 
 Boundary lines:

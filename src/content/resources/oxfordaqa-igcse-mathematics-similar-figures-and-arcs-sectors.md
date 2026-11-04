@@ -152,6 +152,14 @@ You may be asked for answers in terms of π. In that case, cancel the fraction f
 
 ### Worked example 7: arc length and sector area
 
+<!-- marlbridge-diagram:math-b54-oxfordaqa-sector-arc-length-area -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/public/images/learning/mathematics/math-b54-oxfordaqa-sector-arc-length-area.svg" aria-label="Open full-size diagram: math-b54-oxfordaqa-sector-arc-length-area"><img src="/public/images/learning/mathematics/math-b54-oxfordaqa-sector-arc-length-area.svg" width="1528" height="940" alt="A circle sector with radius 9 cm and central angle 40° highlights one ninth of the circle. The arc length is 2π cm, the sector area 9π cm², and the two radii form the straight sides of its perimeter." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>A circle sector with radius 9 cm and central angle 40° highlights one ninth of the circle. The arc length is 2π cm, the sector area 9π cm², and the two radii form the straight sides of its perimeter.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:math-b54-oxfordaqa-sector-arc-length-area -->
+
+
 A sector has radius 9 cm and angle 40°. Find its arc length and its area, in terms of π.
 
 ```

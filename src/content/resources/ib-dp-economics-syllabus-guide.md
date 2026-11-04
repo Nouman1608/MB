@@ -100,6 +100,14 @@ students spend on this unit beyond SL.
 
 ## How the four units connect
 
+<!-- marlbridge-diagram:economics-ib-economics-four-units -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/economics/economics-ib-economics-four-units.svg" aria-label="Open full-size diagram: economics-ib-economics-four-units"><img src="/images/learning/economics/economics-ib-economics-four-units.svg" width="1600" height="1050" alt="Four stacked rows map Unit 1 foundations, Unit 2 microeconomics, Unit 3 macroeconomics, and Unit 4 global economy, with examples of each scope." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>One toolkit connects scarcity and choice, individual markets, national policy and global exchange. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:economics-ib-economics-four-units -->
+
+
 Unit 1 sets up the toolkit (scarcity, opportunity cost, models) that
 Units 2-4 apply at three different scales: the individual market
 (Unit 2), the national economy (Unit 3), and the world economy

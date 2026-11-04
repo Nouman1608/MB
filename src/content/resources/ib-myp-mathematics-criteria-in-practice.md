@@ -46,6 +46,14 @@ designed to assess.
 
 ## Criterion A: Knowing and understanding
 
+<!-- marlbridge-diagram:math-b45-myp-criterion-a-garden-quadratic -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/mathematics/math-b45-myp-criterion-a-garden-quadratic.svg" aria-label="Open full-size diagram: math-b45-myp-criterion-a-garden-quadratic"><img src="/images/learning/mathematics/math-b45-myp-criterion-a-garden-quadratic.svg" width="1600" height="1050" alt="A garden width w and length w+4 with area 96 satisfy w(w+4)=96, so (w+12)(w−8)=0. The negative root is rejected as an impossible length; the garden is 8 m by 12 m." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>A garden width w and length w+4 with area 96 satisfy w(w+4)=96, so (w+12)(w−8)=0. The negative root is rejected as an impossible length; the garden is 8 m by 12 m. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:math-b45-myp-criterion-a-garden-quadratic -->
+
+
 Top-band evidence selects and applies mathematics to solve problems in
 both familiar and unfamiliar situations across more than one of the
 four branches -- numerical and abstract reasoning, thinking with models,

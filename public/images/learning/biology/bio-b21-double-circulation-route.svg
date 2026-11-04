@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="950" viewBox="0 0 1600 950" role="img" aria-labelledby="title desc">
+<title id="title">Double circulation: pulmonary and systemic routes</title>
+<desc id="desc">Two separate five-step rows trace blood flow. The pulmonary route runs from the right ventricle through the pulmonary artery and lung capillaries to the pulmonary vein and left atrium. The systemic route runs from the left ventricle through the aorta and body capillaries to the vena cava and right atrium. Blood gains oxygen in the lungs and loses oxygen in body tissues.</desc>
+<defs><marker id="arrow-blue" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto"><path d="M0 0L12 6L0 12Z" fill="#397FAD"/></marker><marker id="arrow-red" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto"><path d="M0 0L12 6L0 12Z" fill="#C75D55"/></marker><linearGradient id="bg" x2="0" y2="1"><stop stop-color="#FAFCFE"/><stop offset="1" stop-color="#EDF4F8"/></linearGradient></defs>
+<rect width="1600" height="950" fill="url(#bg)"/><rect x="48" y="36" width="1504" height="878" rx="26" fill="#FFFFFF" stroke="#D7E3EA" stroke-width="3"/>
+<text x="84" y="96" fill="#18344F" font-family="Arial,sans-serif" font-size="36" font-weight="700">Double circulation: pulmonary and systemic routes</text>
+<text x="86" y="136" fill="#526D81" font-family="Arial,sans-serif" font-size="20">Each circuit includes the heart; blood passes through it twice on a complete journey.</text>
+<rect x="78" y="168" width="1444" height="306" rx="20" fill="#F7FBFD" stroke="#CFE0E9" stroke-width="2"/>
+<text x="112" y="215" fill="#18344F" font-family="Arial,sans-serif" font-size="25" font-weight="700">PULMONARY CIRCUIT • right heart → lungs → left heart</text>
+<g font-family="Arial,sans-serif" text-anchor="middle">
+<rect x="100" y="262" width="230" height="126" rx="16" fill="#EAF3F8" stroke="#397FAD" stroke-width="3"/><text x="215" y="310" fill="#18344F" font-size="19" font-weight="700">RIGHT VENTRICLE</text><text x="215" y="346" fill="#50677B" font-size="17">pumps lower-O₂ blood</text>
+<rect x="390" y="262" width="230" height="126" rx="16" fill="#EAF3F8" stroke="#397FAD" stroke-width="3"/><text x="505" y="310" fill="#18344F" font-size="19" font-weight="700">PULMONARY ARTERY</text><text x="505" y="346" fill="#50677B" font-size="17">carries it to the lungs</text>
+<rect x="680" y="262" width="230" height="126" rx="16" fill="#EAF3F8" stroke="#397FAD" stroke-width="3"/><text x="795" y="310" fill="#18344F" font-size="19" font-weight="700">LUNG CAPILLARIES</text><text x="795" y="346" fill="#50677B" font-size="17">blood gains oxygen</text>
+<rect x="970" y="262" width="230" height="126" rx="16" fill="#FBEFEC" stroke="#C75D55" stroke-width="3"/><text x="1085" y="310" fill="#18344F" font-size="19" font-weight="700">PULMONARY VEIN</text><text x="1085" y="346" fill="#50677B" font-size="17">returns blood to heart</text>
+<rect x="1260" y="262" width="230" height="126" rx="16" fill="#FBEFEC" stroke="#C75D55" stroke-width="3"/><text x="1375" y="310" fill="#18344F" font-size="19" font-weight="700">LEFT ATRIUM</text><text x="1375" y="346" fill="#50677B" font-size="16">blood enters left ventricle</text>
+</g>
+<path d="M337 325H378" stroke="#397FAD" stroke-width="5" marker-end="url(#arrow-blue)"/><path d="M627 325H668" stroke="#397FAD" stroke-width="5" marker-end="url(#arrow-blue)"/><path d="M917 325H958" stroke="#C75D55" stroke-width="5" marker-end="url(#arrow-red)"/><path d="M1207 325H1248" stroke="#C75D55" stroke-width="5" marker-end="url(#arrow-red)"/>
+<rect x="78" y="496" width="1444" height="306" rx="20" fill="#F7FBFD" stroke="#CFE0E9" stroke-width="2"/>
+<text x="112" y="543" fill="#18344F" font-family="Arial,sans-serif" font-size="25" font-weight="700">SYSTEMIC CIRCUIT • left heart → body → right heart</text>
+<g font-family="Arial,sans-serif" text-anchor="middle">
+<rect x="100" y="590" width="230" height="126" rx="16" fill="#FBEFEC" stroke="#C75D55" stroke-width="3"/><text x="215" y="638" fill="#18344F" font-size="19" font-weight="700">LEFT VENTRICLE</text><text x="215" y="674" fill="#50677B" font-size="17">pumps higher-O₂ blood</text>
+<rect x="390" y="590" width="230" height="126" rx="16" fill="#FBEFEC" stroke="#C75D55" stroke-width="3"/><text x="505" y="638" fill="#18344F" font-size="19" font-weight="700">AORTA</text><text x="505" y="674" fill="#50677B" font-size="17">carries blood to body</text>
+<rect x="680" y="590" width="230" height="126" rx="16" fill="#EAF3F8" stroke="#397FAD" stroke-width="3"/><text x="795" y="638" fill="#18344F" font-size="19" font-weight="700">BODY CAPILLARIES</text><text x="795" y="674" fill="#50677B" font-size="17">blood loses oxygen</text>
+<rect x="970" y="590" width="230" height="126" rx="16" fill="#EAF3F8" stroke="#397FAD" stroke-width="3"/><text x="1085" y="638" fill="#18344F" font-size="19" font-weight="700">VENA CAVA</text><text x="1085" y="674" fill="#50677B" font-size="17">returns blood to heart</text>
+<rect x="1260" y="590" width="230" height="126" rx="16" fill="#EAF3F8" stroke="#397FAD" stroke-width="3"/><text x="1375" y="638" fill="#18344F" font-size="19" font-weight="700">RIGHT ATRIUM</text><text x="1375" y="674" fill="#50677B" font-size="16">blood enters right ventricle</text>
+</g>
+<path d="M337 653H378" stroke="#C75D55" stroke-width="5" marker-end="url(#arrow-red)"/><path d="M627 653H668" stroke="#C75D55" stroke-width="5" marker-end="url(#arrow-red)"/><path d="M917 653H958" stroke="#397FAD" stroke-width="5" marker-end="url(#arrow-blue)"/><path d="M1207 653H1248" stroke="#397FAD" stroke-width="5" marker-end="url(#arrow-blue)"/>
+<rect x="110" y="830" width="1380" height="46" rx="14" fill="#EEF5F7"/><text x="800" y="860" text-anchor="middle" fill="#35546B" font-family="Arial,sans-serif" font-size="18">Arteries carry blood away from the heart; veins return it. Pulmonary artery and vein differ in oxygen content from most systemic examples.</text>
+<text x="1180" y="900" text-anchor="end" fill="#5C7386" font-family="Arial,sans-serif" font-size="14">MARLBRIDGE STUDY RESOURCES • BIOLOGY</text>
+</svg>

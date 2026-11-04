@@ -176,7 +176,7 @@ If equal volumes of acid and salt solutions are mixed, both concentrations halve
 
 ## 14.21 Buffer action and Ka from a titration curve
 
-On a weak acid-strong base curve, the gently rising section before the vertical section is a **buffer region**: the flask holds both HA and A⁻, so added NaOH changes the pH only slowly. On a strong acid-weak base curve, the weak base and its conjugate acid buffer in the same way.
+When strong base is added to a weak acid in the flask, the gently rising region before equivalence contains both HA and A⁻ and acts as a buffer. For the corresponding weak-base measurement, put the weak base in the flask and add strong acid: before equivalence the descending curve contains B and BH⁺, and the half-equivalence pH is approximately pKa(BH⁺). If weak base is instead added to strong acid already in the flask, the B/BH⁺ buffer region is after equivalence; half the added-base equivalence volume is still an excess-strong-acid mixture and is not a pKa reading.
 
 At the half-neutralisation point, half the acid has become A⁻, so [HA] = [A⁻] and:
 
@@ -198,6 +198,14 @@ moles NaOH = 0.01840 × 0.110 = 2.024 × 10⁻³ mol = moles acid
 ```
 
 For a weak base titrated with strong acid, the half-way pH equals the pKa of the base's conjugate acid (NH₄⁺ for ammonia).
+
+<!-- marlbridge-objective-update:ap:19e011e965f025b2 -->
+<figure class="lesson-diagram" style="margin:2rem 0"><a href="/images/learning/chemistry/ap-19e011e965f025b2.svg" aria-label="Open full-size diagram: Titration curves of a strong acid and a weak acid with sodium hydroxide"><img src="/images/learning/chemistry/ap-19e011e965f025b2.svg" width="640" height="310" alt="Graph of pH from 0 to 14 against volume of 0.100 molar sodium hydroxide added, 0 to 40 millilitres. Two curves. The dashed curve, hydrochloric acid, starts at pH 1.10, stays low and rises vertically at 24.00 millilitres through pH 7.00. The solid curve, the weak acid HQ, starts higher at pH 2.85, rises quickly at first and then gently, passing pH 4.60 at 12.00 millilitres, which is marked as the half-equivalence point. Its jump at 24.00 millilitres is shorter and its equivalence point, marked, is at pH 8.62. After 24 millilitres both curves join and level off towards pH 12.4." loading="lazy" decoding="async" style="display:block;width:100%;height:auto"></a><figcaption>Titration curves of a strong acid and a weak acid with sodium hydroxide. Read the weak-acid buffer interval and pKa at half-equivalence. Only the stated source learning clauses are assessed; diagram examples do not replace adjacent numerical data. Select the image to enlarge.</figcaption></figure>
+<!-- /marlbridge-objective-update:ap:19e011e965f025b2 -->
+
+<!-- marlbridge-objective-update:complete-chem-acid-into-base-titration-curves -->
+<figure class="lesson-diagram" style="margin:2rem 0"><a href="/images/learning/chemistry/complete-chem-acid-into-base-titration-curves.svg" aria-label="Open full-size diagram: Acid into bases: read the direction and count protons"><img src="/images/learning/chemistry/complete-chem-acid-into-base-titration-curves.svg" width="1528" height="1515" alt="A four-panel teaching figure gives downward pH curves for hydrochloric acid added to ammonia and to sodium carbonate, with the titrant direction explicit. Ammonia half-equivalence at12.5 mL gives conjugate-acid pKa9.25 and equivalence25 mL is acidic. Carbonate equivalences12.5/25 mL correspond to bicarbonate and carbon-dioxide-containing forms; stoichiometry, approximate model pH values and mid-buffer points are labelled. The carbonate curve is explicitly a CO2-retaining dilute equilibrium model; gas loss in an open flask can change measured pH." loading="lazy" decoding="async" style="display:block;width:100%;height:auto"></a><figcaption>Acid into bases: read the direction and count protons. Draw and interpret an acid-into-diprotic-base curve. Only the stated source learning clauses are assessed; diagram examples do not replace adjacent numerical data. Select the image to enlarge.</figcaption></figure>
+<!-- /marlbridge-objective-update:complete-chem-acid-into-base-titration-curves -->
 
 ## 14.22 Buffers in living things and in food
 

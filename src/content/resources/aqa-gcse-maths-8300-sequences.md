@@ -235,6 +235,13 @@ Method:
 
 ### Worked example 9 (Higher tier only)
 
+<!-- marlbridge-diagram:maths-b14-quadratic-sequence-second-difference -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/mathematics/maths-b14-quadratic-sequence-second-difference.svg" aria-label="Open full-size diagram: maths-b14-quadratic-sequence-second-difference"><img src="/images/learning/mathematics/maths-b14-quadratic-sequence-second-difference.svg" width="1600" height="1050" alt="Maps the sequence 4, 8, 18, 34, 56 through second differences to the rule 3n² − 5n + 6, with a term check." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Maps the sequence 4, 8, 18, 34, 56 through second differences to the rule 3n² − 5n + 6, with a term check. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:maths-b14-quadratic-sequence-second-difference -->
+
 Find the nth term of 4, 8, 18, 34, 56, ...
 
 ```

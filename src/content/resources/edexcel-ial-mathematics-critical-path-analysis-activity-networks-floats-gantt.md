@@ -118,6 +118,14 @@ Let eᵢ be the earliest time event i can occur and lᵢ the latest time it can 
 
 ### Worked example 4: the network from example 1
 
+<!-- marlbridge-diagram:maths-b16-critical-path-network-event-times -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/mathematics/maths-b16-critical-path-network-event-times.svg" aria-label="Open full-size diagram: maths-b16-critical-path-network-event-times"><img src="/images/learning/mathematics/maths-b16-critical-path-network-event-times.svg" width="1600" height="1050" alt="Activity-on-arc network with durations and earliest/latest event times; critical route B-D-F-G takes 15 days, with dashed dummy arcs for dependencies." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Activity-on-arc network with durations and earliest/latest event times; critical route B-D-F-G takes 15 days, with dashed dummy arcs for dependencies. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:maths-b16-critical-path-network-event-times -->
+
+
 Forward pass:
 
 ```

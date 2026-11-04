@@ -115,6 +115,14 @@ Expanding the answer is always the fastest check.
 
 ## Inequalities
 
+<!-- marlbridge-diagram:math-b44-myp-inequality-sign-reversal-and-intervals -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/mathematics/math-b44-myp-inequality-sign-reversal-and-intervals.svg" aria-label="Open full-size diagram: math-b44-myp-inequality-sign-reversal-and-intervals"><img src="/images/learning/mathematics/math-b44-myp-inequality-sign-reversal-and-intervals.svg" width="1600" height="1050" alt="Dividing 9−4x≥21 by −4 reverses the sign, giving x≤−3. The overlap of x&lt;6 and x≥−3 is −3≤x&lt;6, with an included left endpoint and excluded right endpoint." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Dividing 9−4x≥21 by −4 reverses the sign, giving x≤−3. The overlap of x&lt;6 and x≥−3 is −3≤x&lt;6, with an included left endpoint and excluded right endpoint. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:math-b44-myp-inequality-sign-reversal-and-intervals -->
+
+
 Solve like an equation, with one change: multiplying or dividing by a negative reverses the sign.
 
 9 − 4x ≥ 21 gives −4x ≥ 12, so **x ≤ −3**.

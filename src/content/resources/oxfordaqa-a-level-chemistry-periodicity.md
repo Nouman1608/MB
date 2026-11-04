@@ -48,7 +48,7 @@ and van der Waals forces from [intermolecular forces](/resources/oxfordaqa-a-lev
 | Point | You should be able to | Stage |
 |---|---|---|
 | 3.2.1.1 Classification | Say whether an element belongs to the s, p, d or f block, using its place in the table (set by proton number) | International AS |
-| 3.2.1.2 Atomic radius | Account for the way atoms shrink across Na–Ar | International AS |
+| 3.2.1.2 Atomic radius | Explain the across-period size trend, comparing like radius definitions and treating argon's noble-gas radius separately | International AS |
 | 3.2.1.2 First ionisation energy | Account for the way first ionisation energy changes across Na–Ar, including the two dips | International AS |
 | 3.2.1.2 Melting point | Link each melting point, Na–Ar, to the element's structure and bonding | International AS |
 
@@ -65,15 +65,17 @@ electrons a neutral atom has, and those electrons fill sub-shells in a fixed ene
 1s  2s  2p  3s  3p  4s  3d  4p
 ```
 
-So proton number fixes position, and position fixes the **block**: the type of sub-shell (s, p, d or f)
-that holds the element's highest-energy electron.
+So proton number fixes position, and position fixes the **block**. A block corresponds to the differentiating
+sub-shell being filled across that region. In transition atoms, sub-shell energies overlap; the highest-energy
+occupied electron is not a universal block test. Use the table position and the differentiating subshell in
+the configuration together.
 
 | Block | Columns or rows | Sub-shell being filled |
 |---|---|---|
 | s | Groups 1 and 2, with hydrogen and helium | s |
 | p | Groups 3 to 0 (13 to 18), apart from helium | p |
 | d | the ten columns between Group 2 and Group 3 | d |
-| f | the lanthanide and actinide rows, printed under the main table | f |
+| f | the interior lanthanide and actinide series, commonly printed below the main table | f |
 
 ### Worked example 1: proton number to block
 
@@ -97,8 +99,10 @@ An element sits in Period 4, Group 5 (15). State its block and write its electro
 3. Before 4p fills, 3d must be full. The configuration is **1s² 2s² 2p⁶ 3s² 3p⁶ 3d¹⁰ 4s² 4p³** (Z = 33,
    arsenic).
 
-Any element in the lanthanide or actinide rows is f block, even though the 9620 configuration work stops at
-Z = 36. You classify it from its position alone.
+Tables differ in how they place the boundary elements La, Lu, Ac and Lr. In this guide, use the block
+assignment shown by the supplied periodic table; where an electron configuration is supplied, check the
+differentiating subshell as well. Do not infer that every element printed in a detached row must be f block:
+some boundary elements have d-subshell configurations or are placed in Group 3.
 
 ## Period 3 data
 
@@ -119,7 +123,13 @@ data tables (phosphorus as white P₄; sulfur as S₈).
 
 ## 3.2.1.2 Atomic radius
 
-**Pattern:** atoms get smaller from sodium to chlorine.
+**Definition first.** The familiar steady contraction is compared from sodium to chlorine using one
+consistent atomic-radius series (the covalent-radius convention for bonded atoms). Argon is a noble gas of
+separate atoms and is usually assigned a van der Waals radius instead. That measures non-bonded contact and
+is not directly comparable with the Na–Cl covalent-radius values; do not join those unlike values into one
+smooth shrinking curve or treat an apparent jump at Ar as a reversal of the trend.
+
+**Pattern:** on the comparable Na–Cl series, atoms get smaller from sodium to chlorine.
 
 **Why**, as a chain of three ideas:
 
@@ -247,7 +257,9 @@ Questions often give a bar chart or line graph with the elements unlabelled. Fin
 - **Melting point:** silicon is the tallest bar; argon is the shortest.
 - **First ionisation energy:** argon is the highest; sodium is the lowest; the two small dips sit at
   aluminium and sulfur.
-- **Atomic radius:** a steady fall, with sodium the largest.
+- **Atomic radius:** on the like-for-like Na–Cl covalent-radius series, a steady fall with sodium the largest.
+  If argon appears, check the graph's radius definition: its van der Waals radius measures non-bonded
+  contact and must not be joined to covalent radii as though it were the same measurement.
 
 Then count along from the landmark in order of proton number.
 

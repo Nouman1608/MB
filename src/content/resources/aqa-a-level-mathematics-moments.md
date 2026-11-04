@@ -58,6 +58,14 @@ The [Overarching themes guide](/resources/aqa-a-level-mathematics-overarching-th
 
 ## The moment of a force
 
+<!-- marlbridge-diagram:maths-aqa-moments-resultant-about-pivot -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/mathematics/maths-aqa-moments-resultant-about-pivot.svg" aria-label="Open full-size diagram: maths-aqa-moments-resultant-about-pivot"><img src="/images/learning/mathematics/maths-aqa-moments-resultant-about-pivot.svg" width="1600" height="1050" alt="A labelled beam locates three downward forces and evaluates the source worked example to a 15 N m clockwise resultant." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>A labelled beam locates three downward forces and evaluates the source worked example to a 15 N m clockwise resultant. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:maths-aqa-moments-resultant-about-pivot -->
+
+
 The moment of a force F about a point O measures its turning effect:
 
     moment = F × d

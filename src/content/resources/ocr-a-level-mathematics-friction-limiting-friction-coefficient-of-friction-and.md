@@ -175,6 +175,14 @@ The body decelerates and stops after 5.68 m. Since tan 20° = 0.364 is less than
 
 ## Common errors
 
+<!-- marlbridge-diagram:math-b63-friction-force-error-check -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/public/images/learning/mathematics/math-b63-friction-force-error-check.svg" aria-label="Open full-size diagram: math-b63-friction-force-error-check"><img src="/public/images/learning/mathematics/math-b63-friction-force-error-check.svg" width="1528" height="940" alt="The source cautions that F=μR holds only at limiting friction; friction opposes motion or tendency; on a slope R=mg cos α unless other forces act; the contact resultant uses Pythagoras; and friction direction can change between up/down-slope cases." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>The source cautions that F=μR holds only at limiting friction; friction opposes motion or tendency; on a slope R=mg cos α unless other forces act; the contact resultant uses Pythagoras; and friction direction can change between up/down-slope cases. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:math-b63-friction-force-error-check -->
+
+
 - Writing F = μR for a stationary body that is not close to slipping.
 - Using R = mg when a rope or push has a vertical component, or on a slope where R = mg cos α.
 - Drawing friction in the direction of motion. It opposes the motion, or the tendency to move.

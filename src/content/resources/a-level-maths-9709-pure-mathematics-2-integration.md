@@ -199,6 +199,14 @@ Look for sin²x + cos²x = 1 whenever you expand a bracket of sines and cosines.
 
 ## The trapezium rule
 
+<!-- marlbridge-diagram:maths-p2-trapezium-rule-estimate -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/mathematics/maths-p2-trapezium-rule-estimate.svg" aria-label="Open full-size diagram: maths-p2-trapezium-rule-estimate"><img src="/images/learning/mathematics/maths-p2-trapezium-rule-estimate.svg" width="1600" height="1050" alt="Four-interval trapezium estimate of integral 0 to 1 e^(x squared) dx using source lesson ordinates; result 1.49 and convexity implies over-estimate." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Trapezium rule: estimate an integral with equal-width strips Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:maths-p2-trapezium-rule-estimate -->
+
+
 ### The formula
 
 Split the interval from a to b into n strips of equal width h, so h = (b − a)/n. There are n + 1 ordinates (y-values) y₀, y₁, …, yₙ. Then

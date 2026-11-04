@@ -83,11 +83,10 @@ Two examples from the specification:
 From 3.1.2.5:
 
 ```
-% atom economy = (Mr of desired product ÷ sum of Mr of all reactants) × 100
+% atom economy = (coefficient × Mr of desired product) ÷ Σ(coefficient × Mr of each reactant) × 100
 ```
 
-Use the balanced equation, include every reactant (with its coefficient), and put only the wanted product on
-top. Atom economy measures how many of the reactant atoms end up in the product you want. A low value means
+Use the balanced equation and weight every reactant and the wanted product by their respective coefficients. Put only the wanted product contribution in the numerator. Equivalently, first normalise the whole equation to one mole of wanted product. Atom economy measures how many of the reactant atoms end up in the product you want. A low value means
 a lot of by-product, which is waste unless it can be sold or used.
 
 Reaction types differ:

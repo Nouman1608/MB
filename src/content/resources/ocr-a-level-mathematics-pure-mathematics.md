@@ -133,6 +133,14 @@ Translating the wrong way for f(x + a) — it moves *left* for positive a. Omitt
 
 ## Quick revision checklist
 
+<!-- marlbridge-diagram:math-b69-pure-mathematics-revision-map -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/public/images/learning/mathematics/math-b69-pure-mathematics-revision-map.svg" aria-label="Open full-size diagram: math-b69-pure-mathematics-revision-map"><img src="/public/images/learning/mathematics/math-b69-pure-mathematics-revision-map.svg" width="1528" height="940" alt="A visual revision map groups the source checklist’s algebra/functions, coordinate geometry/sequences, trigonometry and calculus/numerical-methods strands; proof and vectors support problem solving across them." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>A visual revision map groups the source checklist’s algebra/functions, coordinate geometry/sequences, trigonometry and calculus/numerical-methods strands; proof and vectors support problem solving across them. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:math-b69-pure-mathematics-revision-map -->
+
+
 - Use the discriminant, factor and remainder theorems confidently.
 - Find domains, ranges, composite and inverse functions, and apply all four transformations.
 - Work in radians, including arc length and sector area.

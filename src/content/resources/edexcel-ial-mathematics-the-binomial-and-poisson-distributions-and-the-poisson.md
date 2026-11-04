@@ -160,6 +160,12 @@ A model answer names the condition and ties it to the context. Compare:
 A phrase such as "it is not independent" earns little. Say which events depend on which, and why.
 
 ## The Poisson approximation to the binomial (topic 1.3)
+<!-- marlbridge-diagram:maths-b18-binomial-poisson -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/mathematics/maths-b18-binomial-poisson.svg" aria-label="Open full-size diagram: maths-b18-binomial-poisson"><img src="/images/learning/mathematics/maths-b18-binomial-poisson.svg" width="1600" height="1050" alt="Comparison of Binomial(20,0.1) and Poisson mean 2; at k=2 probabilities are approximately 0.2852 and 0.2707." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Comparison of Binomial(20,0.1) and Poisson mean 2; at k=2 probabilities are approximately 0.2852 and 0.2707. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:maths-b18-binomial-poisson -->
 
 When n is large and p is small, B(n, p) behaves like Po(np). The two have mean np, and the variance np(1 − p) is close to np when p is small. The specification lists the topic without numerical limits, so follow the conditions your teacher gives, which are typically large n and small p.
 

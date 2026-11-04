@@ -13,7 +13,7 @@ prerequisites:
   - "The chi-square test and the null hypothesis (Topic 5.3)"
 prerequisiteResources: ["mb-ap-bio-8.6-study-guide"]
 learningObjectives:
-  - "Explain how a changing environment selects among variations that already exist, including heterozygote advantage, and why mutations are not caused by the need for them"
+  - "Explain how selection changes the frequency of heritable variants, including heterozygote advantage, and why mutations are not directed by need"
   - "Explain how an invasive species can spread by exploiting a niche free of predators or competitors, or by outcompeting native species"
   - "Describe how human activities, including biomagnification and eutrophication, change ecosystems and can cause extinctions"
   - "Explain how geological and meteorological events change habitats and where species live"
@@ -28,8 +28,8 @@ next: "mb-ap-bio-8.7-practice"
 framework: { schoolYear: "2026-27", examSeries: "May 2027" }
 sources: ["ced-biology", "page-biology"]
 keyPoints:
-  - "Variation comes first; selection comes second. Mutations arise at random. A change in the environment then favours the variants that happen to suit it."
-  - "Heterozygote advantage: the heterozygous genotype has a higher relative fitness than either homozygote, so both alleles stay in the population."
+  - "Mutations are not directed by need. A helpful heritable variant may pre-exist or arise later; selection changes its frequency when it affects survival or reproduction."
+  - "Heterozygote advantage: in a given environment the heterozygote can have higher relative fitness than either homozygote, which can maintain both alleles under suitable conditions."
   - "An invasive species spreads when it finds a niche free of its usual predators or competitors, or outcompetes native species for resources."
   - "Biomagnification: a persistent, fat-soluble toxin becomes more concentrated at each trophic level. Eutrophication: extra nutrients cause an algal bloom, then decomposers use up the oxygen."
   - "Geological and meteorological events, such as continental drift, El Niño and meteor impacts, change habitats and where species are found."
@@ -63,19 +63,19 @@ This last topic of the course pulls together two big ideas. From evolution: a di
 
 An **adaptation** is a heritable trait that gives an organism an advantage **in a particular environment**. It begins as a genetic variation. Selection favours it only where it helps. The same trait can be neutral, or even harmful, somewhere else.
 
-**Mutations are random with respect to need.** The environment does not cause the mutations that an organism needs. Here is what happens instead:
+**Mutations are random with respect to need.** The environment does not direct a needed mutation. New non-directed variants may already be present or may arise during exposure, and some stresses or mutagens can alter the supply of variants:
 
 - Mutations arise by chance in every generation, in all kinds of genes.
 - Most are neutral or harmful. A few, by chance, suit conditions that may appear later.
-- When the environment changes, individuals that **already carry** a helpful variant survive and reproduce more. The variant becomes more common.
+- When the environment changes, individuals carrying a helpful variant can leave more descendants. Selection changes variant frequencies; it does not make a mutation occur because it is needed.
 
-So the environment is a **filter**, not a designer. A pesticide does not create resistance genes in insects. It kills the insects without them. The rare resistant insects, already present, leave more offspring.
+So the environment is a **filter**, not a designer. A pesticide does not direct insects to produce the resistance mutation they need. Resistant variants may pre-exist or arise during exposure, and transfer of resistance genes can also occur; selection can then increase their frequency among survivors and descendants.
 
 ### Heterozygote advantage
 
 Sometimes neither homozygote does best. **Heterozygote advantage** means the heterozygote (for example, Aa) has a higher **relative fitness** than either homozygote (AA or aa). Relative fitness compares how well each genotype survives and reproduces, with the best one set to 1.
 
-The best-known human example involves the gene for haemoglobin. People with two copies of the sickle-cell allele have sickle-cell disease. People with one copy (sickle-cell trait) are much less likely to die of malaria caused by *Plasmodium falciparum*. Where this malaria is common, heterozygotes have the highest fitness. As a result, the sickle-cell allele stays in the population, even though it is harmful in the homozygous form. Where malaria is absent, the heterozygote has no advantage. Again, the environment decides which genotype wins.
+The best-known human example involves the gene for haemoglobin. People with two copies of the sickle-cell allele have sickle-cell disease. People with one copy (sickle-cell trait) are much less likely to die of malaria caused by *Plasmodium falciparum*. Where this malaria is common, heterozygotes can have higher net fitness because the survival benefit against malaria may outweigh the costs of carrying one sickle-cell allele. This can maintain the allele even though two copies cause sickle-cell disease. Where malaria is absent, that malaria-related advantage is absent; other effects and reproductive success determine relative fitness.
 
 ## Invasive species
 
@@ -94,18 +94,18 @@ Its population can then grow almost exponentially. Native species decline, and t
 
 ## Human activities speed up change
 
-Natural change is often slow. **Human activity accelerates change**, both locally and globally. When change is faster than populations can adapt or move, extinctions follow.
+Natural change occurs over a range of rates. **Human activity can accelerate change**, both locally and globally. If change outpaces a population's capacity to adapt, move, or persist in refuges, extinction risk can rise; extinction is not inevitable and depends on genetic variation, plasticity, migration, and demographic context.
 
 - **Habitat loss.** Logging and urbanisation remove or break up habitats. Small, isolated populations have less genetic diversity and are more easily lost.
-- **Monocropping.** Growing one genetically uniform crop over a large area means every plant has the same weaknesses. In the Irish potato famine (1845–1852), potato blight destroyed a crop that relied heavily on one variety. Blight is caused by *Phytophthora infestans*, a water mould, not a true fungus.
-- **Introduced diseases.** Dutch elm disease is a fungal disease spread by bark beetles. It was carried to North America on imported logs in the late 1920s. By 1989, more than three-quarters of the region's elms had been lost.
-- **Climate change.** Warming shifts the range of species, changes the timing of seasons and can leave species unable to find suitable habitat.
+- **Monocropping.** A large crop with low genetic diversity can make losses more correlated when many plants share susceptibility to a pathogen; resistance, pathogen traits, and growing conditions still matter. In Ireland, reliance on a narrow range of potato varieties contributed to severe losses during the late blight outbreak of 1845–1852. Late blight is caused by *Phytophthora infestans*, a water mould, not a true fungus.
+- **Introduced diseases.** Dutch elm disease is caused by fungi spread by elm bark beetles. The first North American epidemic began after infected European elm logs were imported in the 1920s. More than 40 million American elms have since been killed; estimates vary by region and period.
+- **Climate change.** Warming can shift species ranges and seasonal timing; populations with limited suitable habitat or movement may face greater risk, while outcomes depend on local conditions and capacity to respond.
 
 Two disruptions need special attention: biomagnification and eutrophication.
 
 ### Biomagnification
 
-Some pollutants, such as the insecticide DDT and mercury compounds, are **persistent** (they break down very slowly) and **fat-soluble**. An organism stores them in its fat instead of excreting them. Recall from Topic 8.2 that only about 10% of the energy at one trophic level passes to the next. A consumer therefore eats a large mass of food to build a small mass of its own body, and it keeps nearly all the pollutant from that food. The concentration rises at each step up the food chain. This is **biomagnification**. Top predators carry the highest concentrations.
+Some pollutants are persistent and are taken up faster than they are eliminated. DDT is lipophilic and can accumulate in fatty tissues. Methylmercury also biomagnifies but importantly binds to proteins, including in fish muscle; fat storage is not a universal explanation for mercury accumulation. Recall from Topic 8.2 that only about 10% of the energy at one trophic level passes to the next. A consumer therefore eats a large mass of food to build a small mass of its own body, and it keeps nearly all the pollutant from that food. The concentration rises at each step up the food chain. This is **biomagnification**. Top predators carry the highest concentrations.
 
 <figure>
 <svg viewBox="0 0 640 380" role="img" aria-labelledby="bm-title bm-desc" xmlns="http://www.w3.org/2000/svg" font-family="system-ui, sans-serif">
@@ -198,7 +198,7 @@ DDT is the classic real case. A breakdown product of DDT made the eggshells of b
 <line x1="450" y1="220" x2="409" y2="220" stroke="#1d2b44" stroke-width="2" marker-end="url(#eu-arrow)"/>
 <line x1="235" y1="220" x2="194" y2="220" stroke="#1d2b44" stroke-width="2" marker-end="url(#eu-arrow)"/>
 </svg>
-<figcaption>Figure 2. Eutrophication. Read the top row left to right, then the bottom row right to left. The outcome (box 6, dashed border) is caused by decomposers using oxygen, not by the algae themselves being poisonous.</figcaption>
+<figcaption>Figure 2. Eutrophication. Read the top row left to right, then the bottom row right to left. The dashed outcome shows one hypoxia pathway: aerobic decomposition raises oxygen demand. This model does not show all bloom effects; algae also respire, and some bloom organisms produce toxins.</figcaption>
 </figure>
 
 The key step is easy to miss. The oxygen crash usually comes **after** the bloom peaks, when the algae die and decomposers break them down. Aerobic decomposers respire, and respiration uses oxygen. Species that cannot leave, or that need high oxygen, die. Repeated dead zones can remove species from a lake or coastal area entirely.
@@ -231,7 +231,7 @@ The same pattern runs through every case: a sudden or large change removes some 
 
 **(b) Water to bird.** 24 ÷ 0.00002 = **1 200 000**, so the bird's concentration is 1.2 million times that of the water. (Phytoplankton take up P directly from the water and concentrate it 200 times: 0.004 ÷ 0.00002 = 200.)
 
-**(c) Explanation.** P is fat-soluble and persistent, so organisms store it rather than excrete it. Each consumer eats many times its own body mass in food over its life, because most of the energy in that food is used in respiration or lost. The P in all that food stays behind in a smaller body mass. So its concentration rises at every step.
+**(c) Explanation.** In this model, P is persistent and retained faster than it is eliminated. Its specified fat solubility contributes to storage, but some pollutant may still be metabolised or excreted. Each consumer eats many times its own body mass in food over its life, because most of the energy in that food is used in respiration or lost. The P in all that food stays behind in a smaller body mass. So its concentration rises at every step.
 
 **(d) Comparing with the model.** The model predicts 0.004 × 10 × 10 × 10 × 10 = 40 ppm in the bird. The measured value is 24 ppm, and the steps range from 6 to 12.5 rather than exactly 10. The model gives the right order of size. Real factors differ because transfer efficiency is not exactly 10%, some P is excreted or broken down, and animals have different fat contents and diets.
 
@@ -241,30 +241,43 @@ The same pattern runs through every case: a sudden or large change removes some 
 
 **Question.** In a fictional laboratory study, researchers genotyped 400 beetle larvae, all offspring of Aa × Aa crosses: 100 AA, 200 Aa and 100 aa. The larvae were then exposed to a parasitic fungus. 240 adults survived: **46 AA, 150 Aa and 44 aa**. Does survival depend on genotype? Use p = 0.05.
 
-**Step 1: state the null hypothesis.** "Survival does not depend on genotype." If that is true, the survivors keep the 1 : 2 : 1 ratio of the larvae.
+**Step 1: state the null hypothesis.** Survival and genotype are independent. Because the initial genotype totals are known, compare genotype with both outcomes: **survived** and **died**.
 
-**Step 2: expected counts.** 240 × ¼ = **60 AA**, 240 × ½ = **120 Aa**, 240 × ¼ = **60 aa**.
+**Step 2: make the observed contingency table.**
 
-**Step 3: calculate χ² = Σ (o − e)² ÷ e.**
+| Genotype | Survived | Died | Total |
+|---|---:|---:|---:|
+| AA | 46 | 54 | 100 |
+| Aa | 150 | 50 | 200 |
+| aa | 44 | 56 | 100 |
+| **Total** | **240** | **160** | **400** |
 
-| Genotype | o | e | (o − e)² ÷ e |
-|---|---|---|---|
-| AA | 46 | 60 | (−14)² ÷ 60 = 3.27 |
-| Aa | 150 | 120 | 30² ÷ 120 = 7.50 |
-| aa | 44 | 60 | (−16)² ÷ 60 = 4.27 |
-| | | **Total** | **χ² = 15.03** |
+**Step 3: calculate expected counts.** Under independence, expected = row total × column total ÷ grand total. For AA survivors: 100 × 240 ÷ 400 = 60. The expected table is:
 
-**Step 4: degrees of freedom** = number of categories − 1 = 3 − 1 = **2**. Critical value at p = 0.05: **5.99**.
+| Genotype | Expected survived | Expected died |
+|---|---:|---:|
+| AA | 60 | 40 |
+| Aa | 120 | 80 |
+| aa | 60 | 40 |
 
-**Step 5: conclude.** 15.03 > 5.99, so **reject the null hypothesis**. A difference this large would happen by chance less than 5% of the time if survival did not depend on genotype.
+**Step 4: calculate χ² = Σ (o − e)² ÷ e** across all six cells.
 
-**Step 6: interpret.** Survival rates were 46 ÷ 100 = 46% (AA), 150 ÷ 200 = 75% (Aa) and 44 ÷ 100 = 44% (aa). Setting the best genotype to 1, relative fitness is about 0.61, 1 and 0.59. The heterozygote does best, so the data **support** heterozygote advantage in the presence of the fungus.
+| Genotype | Survived contribution | Died contribution |
+|---|---:|---:|
+| AA | (46 − 60)² ÷ 60 = 3.27 | (54 − 40)² ÷ 40 = 4.90 |
+| Aa | (150 − 120)² ÷ 120 = 7.50 | (50 − 80)² ÷ 80 = 11.25 |
+| aa | (44 − 60)² ÷ 60 = 4.27 | (56 − 40)² ÷ 40 = 6.40 |
+| **Total χ²** | **37.58** | |
 
-**Check the claim's limits.** The chi-square test shows that survival is linked to genotype. The direction comes from comparing o with e: there were more heterozygotes than expected and fewer of both homozygotes. A control group without the fungus is needed to show that the fungus causes the difference. Suppose the no-fungus group gave 57 AA, 126 Aa and 57 aa survivors (240 in total). Then χ² = 0.60, which is below 5.99, so you would **fail to reject** the null. That is what you would expect if the fungus is what changes fitness.
+**Step 5: degrees of freedom** = (3 genotypes − 1) × (2 outcomes − 1) = **2**. The critical value at p = 0.05 is **5.99**. Because 37.58 > 5.99, reject the null: survival is associated with genotype in this fictional exposed group.
+
+**Step 6: interpret.** Survival rates were 46% (AA), 75% (Aa) and 44% (aa). Relative survival, setting the highest rate to 1, is about 0.61, 1 and 0.59. These data support a heterozygote survival advantage under the stated exposure. Survival is only a component of fitness; the inference assumes individual outcomes are independent. If larvae from shared families are clustered, use a family-aware analysis or replicate across families.
+
+**Check the claim's limits.** A no-fungus group can test whether the association is specific to exposure, but separate significance tests are not a test of interaction. For example, if a control group has 57 AA, 126 Aa and 57 aa survivors, the corresponding deaths are 43, 74 and 43; the full 2 × 3 table gives χ² = 1.50 < 5.99. This failure to reject does not prove the control genotypes are equivalent. To test whether fungal exposure changes survival differently by genotype, compare exposed and control animals with a model that includes genotype, treatment and their interaction.
 
 ## Common misconceptions
 
-- **"Organisms mutate because they need to."** Mutations arise at random. The environment selects among variants that already exist.
+- **"Organisms mutate because they need to."** Mutations are not directed by need. Selection can act on variants already present and on new non-directed variants as they arise.
 - **"Individuals adapt by natural selection."** Individuals can respond during their lives, but populations evolve. Selection changes allele frequencies across generations.
 - **"Heterozygote advantage means the dominant allele is better."** It means the *combination* of two different alleles has the highest fitness. Both homozygotes do worse.
 - **"Any introduced species is invasive."** Most introduced species never spread. A species is invasive only when it spreads and harms the new ecosystem.

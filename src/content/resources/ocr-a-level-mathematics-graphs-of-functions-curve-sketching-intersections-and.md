@@ -164,6 +164,14 @@ Sketch y = 6/x and y = 5 − x. They meet where 6 = 5x − x², so x² − 5x + 
 
 ## 7. Proportionality (1.02r)
 
+<!-- marlbridge-diagram:math-b63-inverse-square-proportionality -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/public/images/learning/mathematics/math-b63-inverse-square-proportionality.svg" aria-label="Open full-size diagram: math-b63-inverse-square-proportionality"><img src="/public/images/learning/mathematics/math-b63-inverse-square-proportionality.svg" width="1528" height="940" alt="The source lamp example gives I∝1/d² and I=18 when d=2, so k=72. Thus d=3 gives I=8 and I=2 occurs at d=6. The graph shows the inverse-square curve and verifies I d²=72." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>The source lamp example gives I∝1/d² and I=18 when d=2, so k=72. Thus d=3 gives I=8 and I=2 occurs at d=6. The graph shows the inverse-square curve and verifies I d²=72. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:math-b63-inverse-square-proportionality -->
+
+
 "y is proportional to f(x)" means y = k f(x) for a constant k. Find k from one pair of values, then use it.
 
 | Statement | Equation | Graph |

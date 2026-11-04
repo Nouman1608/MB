@@ -150,6 +150,13 @@ Check with the Venn example: P(football or tennis) = 23/40 + 18/40 − 7/40 = 34
 
 **Worked example 7.** A bag holds 5 red and 3 blue counters. Two are taken at random without replacement.
 
+<!-- marlbridge-diagram:maths-b14-probability-tree-without-replacement -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/mathematics/maths-b14-probability-tree-without-replacement.svg" aria-label="Open full-size diagram: maths-b14-probability-tree-without-replacement"><img src="/images/learning/mathematics/maths-b14-probability-tree-without-replacement.svg" width="1600" height="1050" alt="Builds the 5-red, 3-blue source tree, checks outcome probabilities sum to one, and derives the conditional probability that both are red given the same colour." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Builds the 5-red, 3-blue source tree, checks outcome probabilities sum to one, and derives the conditional probability that both are red given the same colour. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:maths-b14-probability-tree-without-replacement -->
+
 ```
 First        Second        Outcome   Probability
              R  4/7   →    RR        5/8 × 4/7 = 20/56

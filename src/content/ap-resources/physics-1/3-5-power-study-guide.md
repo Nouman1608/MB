@@ -63,7 +63,7 @@ The unit of power is the **watt**: 1 W = 1 J/s. In the example, the first motor 
 
 ## Average power
 
-Averages use only the start and end of a time interval:
+For a **specified energy transfer or conversion**, average power is the **total energy transferred or converted during the whole interval** divided by its duration. A change in one energy store gives this total only when other simultaneous transfers and conversions have been accounted for:
 
 **P_avg = ΔE / Δt**
 

@@ -36,6 +36,8 @@ Related pages: [revision notes](/resources/oxfordaqa-a-level-mathematics-implici
 
 ## 1. Differentiating implicitly
 
+<figure class="learning-diagram" style="margin:1.5rem 0;"><a href="/public/images/learning/mathematics/math-sub-409-implicit-differentiation.svg" aria-label="Open full-size diagram: math-sub-409-implicit-differentiation"><img src="/public/images/learning/mathematics/math-sub-409-implicit-differentiation.svg" width="1528" height="940" alt="Differentiate both sides with respect to x; terms containing y use chain rule x² + y² = 25; 2x + 2y(dy/dx) = 0; dy/dx = −x/y; At (3,4): gradient = −3/4" loading="lazy" decoding="async" style="display:block;width:100%;height:auto;" /></a><figcaption>Differentiate an implicit equation — Marlbridge Mathematics</figcaption></figure>
+
 Some curves cannot be rearranged into y = f(x), for example x²y + xy² = 12. You still want dy/dx. Differentiate every term with respect to x and treat y as an unknown function of x. The chain rule then gives
 
 ```
@@ -62,6 +64,14 @@ The extra factor dy/dx appears on every term that contains y, and on nothing els
 The answer is usually written in terms of both x and y. You need both coordinates of a point to find its gradient, and the point must lie on the curve.
 
 ## 2. Tangents and normals for implicit curves
+
+<!-- marlbridge-diagram:math-final-409-implicit-curve-tangent-normal -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/mathematics/math-final-409-implicit-curve-tangent-normal.svg" aria-label="Open full-size diagram: math-final-409-implicit-curve-tangent-normal"><img src="/images/learning/mathematics/math-final-409-implicit-curve-tangent-normal.svg" width="1528" height="940" alt="Implicit curve through (1,3), with its tangent and perpendicular normal shown and labeled by their exact equations." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Implicit curve through (1,3), with its tangent and perpendicular normal shown and labeled by their exact equations.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:math-final-409-implicit-curve-tangent-normal -->
+
 
 Once you have the gradient m of the tangent at (a, b), use y − b = m(x − a). The normal is perpendicular to the tangent, so its gradient is −1/m (if m ≠ 0).
 
@@ -111,6 +121,8 @@ At each point the other factor is non-zero (at (2, 4) the denominator is 2 − 8
 
 ## 3. Differentiating parametric curves
 
+<figure class="learning-diagram" style="margin:1.5rem 0;"><a href="/public/images/learning/mathematics/math-sub-409-parametric-differentiation.svg" aria-label="Open full-size diagram: math-sub-409-parametric-differentiation"><img src="/public/images/learning/mathematics/math-sub-409-parametric-differentiation.svg" width="1528" height="940" alt="Divide the y-rate by the x-rate with respect to the parameter x = t² + 1; y = t³ − 3t; dx/dt = 2t; dy/dt = 3t² − 3; dy/dx = (3t² − 3)/(2t)" loading="lazy" decoding="async" style="display:block;width:100%;height:auto;" /></a><figcaption>Differentiate a parametric curve — Marlbridge Mathematics</figcaption></figure>
+
 A parametric curve has x = f(t), y = g(t). Both coordinates change with t, so the chain rule gives
 
 ```
@@ -145,6 +157,8 @@ Tangent:     y − √3/2 = −(1/2)(x − √3/2)
 
 ## 4. Tangents and normals at a general point
 
+<figure class="learning-diagram" style="margin:1.5rem 0;"><a href="/public/images/learning/mathematics/math-sub-409-general-tangent-normal.svg" aria-label="Open full-size diagram: math-sub-409-general-tangent-normal"><img src="/public/images/learning/mathematics/math-sub-409-general-tangent-normal.svg" width="1528" height="940" alt="For x=5t², y=10t, retain t=p so the equations work for a whole family of points. At p: point P=(5p², 10p); dy/dx = (10)/(10p) = 1/p; Tangent: y−10p = (1/p)(x−5p²); Clear denominator: x−py+5p² = 0; Normal gradient −p: px+y = 5p³+10p" loading="lazy" decoding="async" style="display:block;width:100%;height:auto;" /></a><figcaption>Find tangent and normal at a general parameter value — Marlbridge Mathematics</figcaption></figure>
+
 "At a general point" means you keep the parameter as a letter. Write the point as the one with t = p, find the gradient in terms of p, and build the equation. The answer contains x, y and p. Simplify it into a clean form.
 
 **Worked example 6.** The curve C has x = 5t² and y = 10t. Find the equations of the tangent and normal at the point P where t = p (p ≠ 0).
@@ -176,6 +190,8 @@ Multiply by 3 sin φ:
 This uses sin²φ + cos²φ = 1, a step you should always look for. At φ = π/3 the point is (3/2, √3) and the tangent is x + (3√3/2)y = 6.
 
 ## 5. Choosing between methods
+
+<figure class="learning-diagram" style="margin:1.5rem 0;"><a href="/public/images/learning/mathematics/math-sub-409-choose-differentiation-method.svg" aria-label="Open full-size diagram: math-sub-409-choose-differentiation-method"><img src="/public/images/learning/mathematics/math-sub-409-choose-differentiation-method.svg" width="1528" height="940" alt="Use the form already given; then form dy/dx at the point y explicitly as y=f(x) → direct derivative; F(x,y)=0 → implicit: dy/dx = −Fₓ/Fᵧ; x(t), y(t) → parametric: (dy/dt)/(dx/dt); Check denominator is non-zero" loading="lazy" decoding="async" style="display:block;width:100%;height:auto;" /></a><figcaption>Choose a differentiation method — Marlbridge Mathematics</figcaption></figure>
 
 If you can eliminate the parameter, check your result with the Cartesian form, but you are not required to. When the question says "parametric", use dy/dx = (dy/dt) ÷ (dx/dt) and show dx/dt and dy/dt. To find the point, substitute the given value of t into both equations. To find t from a point, solve one coordinate equation and check it in the other.
 

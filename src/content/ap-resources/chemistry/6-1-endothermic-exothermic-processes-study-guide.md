@@ -55,12 +55,12 @@ To answer it, you first split the world into two parts:
 - The **system** is the part you are studying. In a reaction, the system is the reacting particles: the reactants turning into products.
 - The **surroundings** are everything else that can exchange energy with the system. In a beaker reaction this is mainly the water the particles are dissolved in, plus the beaker and the air.
 
-Energy is **conserved**. It is not made or destroyed, only moved. So any energy the system loses is gained by the surroundings, and any energy the system gains comes from the surroundings. This gives two labels:
+Energy is **conserved**: energy lost by the system is gained by the surroundings, and vice versa. The labels below describe **heat transfer**, not energy transferred only as work:
 
-- **Exothermic** ("exo" = out): the energy of the system **decreases**. Energy moves **out** of the system into the surroundings.
-- **Endothermic** ("endo" = in): the energy of the system **increases**. Energy moves **in** from the surroundings.
+- **Exothermic** ("exo" = out): the system **releases heat** to the surroundings.
+- **Endothermic** ("endo" = in): the system **absorbs heat** from the surroundings.
 
-A third case is possible but rare: the energy of the system stays the same. For example, two gases that barely interact can mix with almost no energy change.
+For the constant-pressure processes considered later in this unit, when only pressure–volume work occurs, the heat transferred equals the enthalpy change: exothermic means ΔH < 0 and endothermic means ΔH > 0. Some processes have negligible heat transfer, such as mixing nearly ideal gases; energy transfer as work must be considered separately.
 
 <figure>
 <svg viewBox="0 0 640 240" role="img" aria-labelledby="exo-endo-title exo-endo-desc" xmlns="http://www.w3.org/2000/svg" font-family="system-ui, sans-serif">
@@ -102,10 +102,9 @@ Energy crosses the boundary of a system in two ways:
 - **Heat (q)** is energy transferred because of a temperature difference. Faster-moving particles collide with slower ones and pass on energy. (Topic 6.3 looks at these collisions in detail.)
 - **Work (w)** is energy transferred when something is pushed through a distance. A reaction that makes a gas, for example, pushes back the air or a piston as the gas expands.
 
-So the full statement of energy conservation for a reaction is:
+The energy change of a closed system includes both heat and work. With heat into the system and work done on the system counted positive, ΔU = q + w. Energy lost by the system is gained by the surroundings.
 
-- **Exothermic:** the energy lost by the reacting particles is gained by the surroundings, as heat flowing out of the system, work done by the system, or both.
-- **Endothermic:** the system gains energy from the surroundings, as heat flowing into the system, work done on the system, or both.
+The thermal labels refer to the heat term: an **exothermic** process releases heat (q < 0), and an **endothermic** process absorbs heat (q > 0). Work can change the internal energy independently; work alone does not make a process exothermic or endothermic. For the later constant-pressure calculations with only pressure–volume work, qₚ = ΔH.
 
 In most reactions you meet, heat is by far the larger part. But work matters when gases are made or used up, and it explains why a temperature reading alone can miss part of the energy change.
 

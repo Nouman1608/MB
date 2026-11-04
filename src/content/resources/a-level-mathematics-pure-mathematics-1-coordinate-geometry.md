@@ -43,6 +43,14 @@ real skill being tested, not the substitution itself.
 
 ## The three standard forms
 
+<!-- marlbridge-diagram:maths-cambridge-coordinate-geometry -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/mathematics/maths-cambridge-coordinate-geometry.svg" aria-label="Open full-size diagram: maths-cambridge-coordinate-geometry"><img src="/images/learning/mathematics/maths-cambridge-coordinate-geometry.svg" width="1600" height="1050" alt="Summary of straight-line forms, parallel and perpendicular gradient tests, the centre-radius equation of a circle and an algebraic solution workflow." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Coordinate geometry: convert forms, use gradients and check circle relationships. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:maths-cambridge-coordinate-geometry -->
+
+
 You need to interpret and use any of the following three forms of a
 straight-line equation in solving problems:
 

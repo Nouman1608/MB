@@ -199,6 +199,14 @@ Result: 2 − 4/(x + 1) + 5/(x + 2). The specification states numerators are con
 
 ## 7. Functions in modelling (1.02z, A Level only)
 
+<!-- marlbridge-diagram:math-b67-box-volume-model-domain-solutions -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/public/images/learning/mathematics/math-b67-box-volume-model-domain-solutions.svg" aria-label="Open full-size diagram: math-b67-box-volume-model-domain-solutions"><img src="/public/images/learning/mathematics/math-b67-box-volume-model-domain-solutions.svg" width="1528" height="940" alt="The box model V=x²(12−x) has domain 0&lt;x&lt;12. Solving V=128 gives x=4 and x=4±4√3; reject the negative root, leaving base sides 4 cm and about 10.93 cm." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>The box model V=x²(12−x) has domain 0&lt;x&lt;12. Solving V=128 gives x=4 and x=4±4√3; reject the negative root, leaving base sides 4 cm and about 10.93 cm. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:math-b67-box-volume-model-domain-solutions -->
+
+
 A model describes a real situation with a function. The specification asks you to consider assumptions, limitations and refinements, and to compare models.
 
 **Example 11.** A packaging firm makes cuboid boxes with a square base of side x cm. The height is chosen so that the base side plus the height is 12 cm.

@@ -168,6 +168,14 @@ Capital gearing  = 130,000 / 650,000 × 100 = 20.00%
 A rival, Sefton Glass Ltd, reports ROCE of 15.50% with gearing of 46.00%. Sefton earns more on its long-term funds, but almost half are borrowed, so its interest burden and risk are higher. A lender would favour Ravensholt.
 
 ## Cash and profit are different
+<!-- marlbridge-diagram:ac-b15-analysis-cash-vs-profit -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/accounting/ac-b15-analysis-cash-vs-profit.svg" aria-label="Open full-size diagram: ac-b15-analysis-cash-vs-profit">
+    <img src="/images/learning/accounting/ac-b15-analysis-cash-vs-profit.svg" width="1600" height="1050" alt="Map profit to operating cash using non-cash adjustments and working-capital movements, then separate investing and financing cash flows." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" />
+  </a>
+  <figcaption>A profitable period can still have falling cash when receivables or inventory rise. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:ac-b15-analysis-cash-vs-profit -->
 
 Profit is revenue earned less expenses incurred, under the accruals concept. The bank balance moves only when money is received or paid. They drift apart because of:
 

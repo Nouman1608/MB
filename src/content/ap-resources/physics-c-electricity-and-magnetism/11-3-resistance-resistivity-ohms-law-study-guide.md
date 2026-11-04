@@ -83,7 +83,7 @@ This shows how each factor matters:
 - **Area.** R ∝ 1/A. Double the area and there are twice as many parallel paths, so R halves. For a round wire, A = πr² = πd²/4, so doubling the **diameter** makes R four times smaller.
 - **Material.** R ∝ ρ. Copper's ρ is about 1.7 × 10⁻⁸ Ω·m; the alloy in Worked example 1 is about 65 times larger, and insulators are larger by many powers of ten.
 
-**Stretching a wire.** If a wire is pulled to n times its length, its volume stays the same, so its area falls to A/n. Then R = ρ(nℓ)/(A/n) = n²(ρℓ/A). Stretching to twice the length makes R four times larger.
+**Stretching a wire.** In the idealized stretch model, assume the wire’s volume and resistivity stay constant as it is pulled to n times its length; then its area falls to A/n. Then R = ρ(nℓ)/(A/n) = n²(ρℓ/A). Stretching to twice the length makes R four times larger.
 
 ## Resistivity is a property of the material
 
@@ -91,11 +91,18 @@ Resistivity does not depend on the size or shape of a sample. It depends on the 
 
 **Temperature.** In a metal, the charge carriers scatter off the vibrating ions. When the metal gets hotter, the ions vibrate more, the carriers scatter more often, and the resistivity **increases**. So the resistivity of a conductor typically rises with temperature.
 
-**The ohmic model.** In many problems you treat a resistor as **ohmic**: its resistivity, and so its resistance, stays constant regardless of temperature. Real resistors are designed to come close to this over their working range. When a question says an element is ohmic, or simply gives you a fixed R, use a constant value.
+**The ohmic model.** In many problems you treat a resistor as **ohmic**: at fixed temperature and other physical conditions, its current is proportional to the applied potential difference over the stated operating range. Its resistivity may still change with temperature. Real resistors are designed to come close to this over their working range. When a question says an element is ohmic, or simply gives you a fixed R, use a constant value.
 
 **Resistors and thermal energy.** As charge drifts through a resistor, electrical energy is converted to thermal energy. This can raise the temperature of the resistor **and** of its surroundings. Topic 11.4 shows how to calculate the rate. For a component whose resistivity depends on temperature, such as the thin metal filament of a lamp, this heating changes the resistance as the current rises.
 
 ## When the resistivity changes along the wire
+
+<!-- marlbridge-diagram:physcem-b15-nonuniform-resistivity-wire-local-drop -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/physics/physcem-b15-nonuniform-resistivity-wire-local-drop.svg" aria-label="Open full-size diagram: physcem-b15-nonuniform-resistivity-wire-local-drop"><img src="/images/learning/physics/physcem-b15-nonuniform-resistivity-wire-local-drop.svg" width="1600" height="1050" alt="For a wire with uniform area A and changing resistivity ρ(x), the series current is the same through each slice. Since dR=ρ(x)dx/A and E=ρJ, higher-resistivity regions have stronger local field and a larger voltage drop." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>For a wire with uniform area A and changing resistivity ρ(x), the series current is the same through each slice. Since dR=ρ(x)dx/A and E=ρJ, higher-resistivity regions have stronger local field and a larger voltage drop. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:physcem-b15-nonuniform-resistivity-wire-local-drop -->
 
 Suppose the wire has a uniform area A, but its material changes gradually along its length, so the resistivity is a function ρ(x) of the distance x from one end. You cannot use a single ρ in ρℓ/A.
 
@@ -210,7 +217,7 @@ The definition R = ΔV/I works at any single moment for any element. **Ohm's law
 <figcaption>Figure 2. The data from Worked example 2 (crosses) with a best-fit straight line through the origin. The dotted triangle uses a large part of the line to find the slope.</figcaption>
 </figure>
 
-**(a) Plot and decide.** Choose scales that use most of the grid: ΔV from 0 to 3.5 V and I from 0 to 0.6 A, with units on each axis (Figure 2). The points lie close to a straight line through the origin, so **the coil behaves as ohmic over this range**. The small scatter is measurement uncertainty. Calculating ΔV/I for each row gives values between 6.07 Ω and 6.33 Ω with no steady trend, which supports this.
+**(a) Plot and decide.** Choose scales that use most of the grid: ΔV from 0 to 3.5 V and I from 0 to 0.6 A, with units on each axis (Figure 2). The points lie close to a straight line, so **the coil behaves as ohmic over this range**. The plotted line is fitted through the origin to reflect the ideal zero-offset model; because that intercept is imposed, this fit alone does not test for an experimental offset. A free-intercept fit or a residual check would test that separately. The small scatter is measurement uncertainty. Calculating ΔV/I for each row gives values between 6.07 Ω and 6.33 Ω with no steady trend, which supports this.
 
 **(b) Resistance from the slope.** Draw one best-fit line, not a line through the first and last points. Read the slope from a large triangle: the line passes through (0, 0) and (3.00 V, 0.483 A), so slope = 0.483 A ÷ 3.00 V = 0.161 A/V. Then R = 1/slope = 1 ÷ 0.161 A/V = **6.2 Ω**.
 

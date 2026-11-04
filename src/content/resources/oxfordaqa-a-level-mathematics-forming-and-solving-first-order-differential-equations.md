@@ -149,6 +149,14 @@ Newton's law of cooling gives dT/dt = −k(T − S), where S is the surroundings
 
 ### Worked example 5: a cooling drink
 
+<!-- marlbridge-diagram:math-b72-oxfordaqa-newton-cooling-toward-limit -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/public/images/learning/mathematics/math-b72-oxfordaqa-newton-cooling-toward-limit.svg" aria-label="Open full-size diagram: math-b72-oxfordaqa-newton-cooling-toward-limit"><img src="/public/images/learning/mathematics/math-b72-oxfordaqa-newton-cooling-toward-limit.svg" width="1528" height="940" alt="Exponential cooling curve from 85°C through 60°C at 5 minutes to 30°C at about 19.3 minutes, approaching the 20°C room-temperature asymptote." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Exponential cooling curve from 85°C through 60°C at 5 minutes to 30°C at about 19.3 minutes, approaching the 20°C room-temperature asymptote.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:math-b72-oxfordaqa-newton-cooling-toward-limit -->
+
+
 A drink at 85 °C is left in a room at 20 °C. Its temperature T satisfies dT/dt = −k(T − 20), with t in minutes. After 5 minutes T = 60. Find when T reaches 30 °C.
 
 ```

@@ -35,6 +35,12 @@ For quick recall use the [revision notes](/resources/edexcel-ial-mathematics-rou
 The specification says you will use inspection to consider all possible pairings of odd nodes. Applying Floyd's algorithm to the odd nodes is not required. It also says to show clearly how an algorithm has been applied, so write every step.
 
 ## 3.1 Route inspection
+<!-- marlbridge-diagram:maths-b18-route-inspection -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/mathematics/maths-b18-route-inspection.svg" aria-label="Open full-size diagram: maths-b18-route-inspection"><img src="/images/learning/mathematics/maths-b18-route-inspection.svg" width="1600" height="1050" alt="Weighted graph with odd vertices 2 and 5 joined by shortest edge 4; original total 18 and route total 22." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Weighted graph with odd vertices 2 and 5 joined by shortest edge 4; original total 18 and route total 22. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:maths-b18-route-inspection -->
 
 **Degree.** The degree (valency) of a node is the number of edges meeting at it. A node is odd or even by its degree. The degrees add up to twice the number of edges, so a network always has an even number of odd nodes.
 

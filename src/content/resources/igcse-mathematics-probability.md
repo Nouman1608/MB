@@ -84,6 +84,14 @@ the diagram or table given, not a memorised formula
 
 ## How to approach it
 
+<!-- marlbridge-diagram:math-b55-without-replacement-tree -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/public/images/learning/mathematics/math-b55-without-replacement-tree.svg" aria-label="Open full-size diagram: math-b55-without-replacement-tree"><img src="/public/images/learning/mathematics/math-b55-without-replacement-tree.svg" width="1528" height="940" alt="For the source example, the first red draw has probability 5/8. Without replacement, 4 red counters remain among 7, so P(second red | first red)=4/7 and P(both red)=5/8×4/7=20/56=5/14." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>For the source example, the first red draw has probability 5/8. Without replacement, 4 red counters remain among 7, so P(second red | first red)=4/7 and P(both red)=5/8×4/7=20/56=5/14. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:math-b55-without-replacement-tree -->
+
+
 The single most consequential Core/Extended distinction in this
 topic is whether combined events are "with replacement" only (Core)
 or can also be "without replacement" (Extended): in a

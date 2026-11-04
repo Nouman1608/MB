@@ -139,7 +139,7 @@ Figure 2 shows the basic RC circuit. The capacitor starts uncharged. At t = 0 th
 <text x="472" y="152">−q</text>
 </g>
 </svg>
-<figcaption>Figure 2. A battery, switch, resistor and capacitor in one loop. With the switch closed, conventional current I flows clockwise and charges the top plate positive.</figcaption>
+<figcaption>Figure 2. Initial state just before the switch closes at t = 0; S is shown open. After closure, conventional current I flows clockwise and charges the top plate positive. The current then decays as the capacitor charges; at long time the ideal steady current is zero.</figcaption>
 </figure>
 
 **Set up the equation.** Go round the loop clockwise from the negative terminal: rise ℰ across the battery, drop IR across the resistor, drop q/C across the capacitor. The loop rule gives:

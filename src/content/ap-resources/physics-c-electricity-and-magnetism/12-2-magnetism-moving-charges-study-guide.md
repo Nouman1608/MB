@@ -112,9 +112,16 @@ where θ is the angle between v and B.
 
 ### The magnetic force does no work
 
-The power delivered by a force is P = F·v. Because F_B is perpendicular to v at every instant, F_B·v = 0. So dK/dt = 0: **the speed stays constant**. A magnetic field can change the direction of motion, but never the speed.
+The power delivered by a force is P = F·v. Because F_B is perpendicular to v at every instant, F_B·v = 0: the magnetic force does no work. **If the magnetic force is the only force doing work, the particle’s speed stays constant.** Electric or non-electromagnetic forces can still change its kinetic energy and speed.
 
 ### Circular and helical motion
+
+<!-- marlbridge-diagram:physcem-b17-charged-particle-motion-circle-to-helix -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/physics/physcem-b17-charged-particle-motion-circle-to-helix.svg" aria-label="Open full-size diagram: charged-particle circular and helical motion"><img src="/images/learning/physics/physcem-b17-charged-particle-motion-circle-to-helix.svg" width="1600" height="1050" alt="Positive and negative charges move through a uniform magnetic field. The perpendicular velocity makes circular motion; the parallel component remains unchanged, producing a helix with radius mv⊥/(|q|B) and pitch v∥T." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>The field bends only the velocity component perpendicular to it; the parallel component sets the helix pitch. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:physcem-b17-charged-particle-motion-circle-to-helix -->
 
 If v ⊥ B in a uniform field, the force has constant size |q|vB and always points sideways. That is a centripetal force:
 
@@ -128,6 +135,13 @@ This is why many large particle accelerators are rings: a magnetic field bends t
 
 ## Electric and magnetic fields together
 
+<!-- marlbridge-diagram:physcem-b16-crossed-fields-velocity-selector -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/physics/physcem-b16-crossed-fields-velocity-selector.svg" aria-label="Open full-size diagram: crossed-field velocity selector"><img src="/images/learning/physics/physcem-b16-crossed-fields-velocity-selector.svg" width="1600" height="1050" alt="Crossed fields show parallel plates making E downward and B into the page. Positive ions moving right experience opposing electric and magnetic forces that cancel at v = E/B; faster and slower ions deflect in opposite directions, with force directions reversed for negative charges." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Only charges with speed E/B pass straight through the crossed-field region; other speeds deflect. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:physcem-b16-crossed-fields-velocity-selector -->
+
 In a region with both an electric field and a magnetic field, a moving charge feels **two independent forces**. Each acts as if the other field were not there:
 
 **F = qE + q(v × B)**
@@ -136,15 +150,22 @@ The electric force does not depend on v; the magnetic force does. If E, B and v 
 
 ## The Hall effect
 
+<!-- marlbridge-diagram:physcem-b17-hall-effect-carrier-sign-and-voltage-edges -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/physics/physcem-b17-hall-effect-carrier-sign-and-voltage-edges.svg" aria-label="Open full-size diagram: Hall effect carrier sign and voltage edges"><img src="/images/learning/physics/physcem-b17-hall-effect-carrier-sign-and-voltage-edges.svg" width="1600" height="1050" alt="A current-carrying strip in perpendicular magnetic field separates charge across its width. The diagram defines y− and y+ edges, force direction, Hall-field polarity for positive versus negative carriers, and the signed Hall-voltage relation for the stated axes." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>For the shown axes, the sign of the Hall voltage is tied to the ordered edge difference V(y+) − V(y−). Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:physcem-b17-hall-effect-carrier-sign-and-voltage-edges -->
+
 A current in a conductor is carriers drifting with speed v_d. Put a strip of width w and thickness t in a field B perpendicular to its face. The magnetic force pushes the carriers sideways. They pile up on one edge, leaving the opposite charge on the other edge. This creates a sideways electric field E_H and a potential difference across the width, the **Hall potential difference** ΔV_H.
 
 Charge builds up until the electric force balances the magnetic force on each carrier:
 
-qE_H = qv_dB, so E_H = v_dB and **ΔV_H = E_H w = v_dBw**
+In magnitude, |q|E_H = |q|v_dB, so |E_H| = v_dB and **|ΔV_H| = v_dBw**.
 
-The current is I = nqv_dA = nqv_d(wt), where n is the number of carriers per unit volume. Substituting v_d = I/(nqwt):
+For a sign convention, take conventional current along +x, define B_z as the signed z-component of the field, and set ΔV_H = V(y+) − V(y−), with y+ above y−. Then, for carrier charge q (signed) and number density n:
 
-**ΔV_H = IB/(nqt)**
+**ΔV_H = −I B_z/(nqt)**
 
 Two uses follow. The **sign** of ΔV_H (which edge is higher) tells you whether the carriers are positive or negative. The **size** gives n, or, if n is known, it lets a "Hall probe" measure B. Metals have huge n, so their Hall potential differences are tiny; semiconductors give much larger ones.
 

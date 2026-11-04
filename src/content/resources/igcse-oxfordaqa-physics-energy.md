@@ -91,6 +91,24 @@ one location better than wind power), so practise weighing named
 advantages and drawbacks against a given scenario rather than reciting a
 generic list.
 
+## Energy resources: choosing and comparing
+
+Fuels store energy that can be released when they are used. A suitable fuel depends on the job: compare how easily it can be stored and transported, the energy available from a given amount, safety, cost and the energy lost to the surroundings. Coal and oil are energy-dense and can be stored, but burning them releases carbon dioxide and other pollutants; extraction and transport can damage land and ecosystems. Natural gas is often easier to control in a power station than solid fuel, but it is still a finite fossil fuel and combustion releases carbon dioxide. Nuclear fuel provides a large energy output from a small amount of fuel and does not release carbon dioxide during normal reactor operation, but uranium mining, radioactive waste, safety and decommissioning require careful management. Fossil fuels and uranium are **non-renewable** on human timescales; sunlight, wind, flowing water, tides, waves and geothermal heat are **renewable** when resources are managed appropriately.
+
+The useful fraction of an input is its efficiency: **efficiency = useful energy transferred ÷ total energy input**. The fuel and conversion device both matter. Some input energy is transferred to the surroundings, often as heating, so different fuels and power-station designs deliver different useful outputs.
+
+Renewable sources are replenished on a timescale relevant to their use, but their output and impacts depend on location and design. National and global energy mixes also vary with local geology, climate, coastlines, demand, infrastructure and imports:
+
+| Source | Useful advantage | Limitation or impact to weigh |
+|---|---|---|
+| Solar | Produces electricity without fuel combustion at the panel; useful where sunlight is strong | Output varies with daylight, season and cloud; panels need land and materials, and manufacture and disposal have impacts |
+| Wind | No fuel is burned during operation; useful at exposed, windy sites | Output varies with wind; turbines affect landscapes and can affect wildlife |
+| Hydroelectric | Reservoirs can provide controllable electricity and store water | Dams flood land, alter river habitats and can displace communities |
+| Tidal and wave | Tidal timing is predictable; wave energy provides another renewable coastal source | Few locations are suitable; equipment must withstand marine conditions and can affect coastal ecosystems |
+| Geothermal | Can provide steady output where accessible heat is close to the surface | Viable sites are limited; drilling and fluid management can affect the local environment |
+
+Energy-resource decisions also have social implications: reliability, energy security, jobs, cost, land use and who experiences the environmental effects. For example, a remote sunny community may reduce diesel deliveries with solar panels, but it needs storage or another supply when sunlight is weak. A strong answer names the context, compares benefits and drawbacks, and explains the trade-off instead of declaring one source universally best. The OxfordAQA specification explicitly expects comparison of renewability and environmental effects of extraction, use and disposal, and awareness of advantages and drawbacks of renewable technologies ([official specification, section 3.2.3](https://www.oxfordaqa.com/wp-content/uploads/2022/08/oxfordaqa-international-gcse-physics-specification.pdf)).
+
 ## Worked example: efficiency and Sankey diagrams
 
 A motor is supplied with 500 J of energy and usefully transfers 350 J as

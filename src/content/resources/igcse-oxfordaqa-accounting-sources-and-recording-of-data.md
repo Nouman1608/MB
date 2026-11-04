@@ -65,6 +65,13 @@ OxfordAQA International GCSE Accounting (9215) qualification page —
 [oxfordaqa.com](https://www.oxfordaqa.com/qualifications/international-gcse-accounting/).
 
 ## The accounting equation and double entry
+<!-- marlbridge-diagram:ac-b16-double-entry-accounting-equation -->
+<figure class="study-guide-figure">
+  <img src="/images/learning/accounting/ac-b16-double-entry-accounting-equation.svg" alt="Assets equal capital plus liabilities. Owner investment debits bank and credits capital; a credit equipment purchase debits equipment and credits payables by the same amount." loading="lazy" />
+  <figcaption>Every transaction has two effects; equal debit and credit entries keep the accounting equation in balance.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:ac-b16-double-entry-accounting-equation -->
+
 
 Every transaction is recorded twice, because every transaction has two effects. The rule follows from the accounting equation:
 
@@ -83,6 +90,14 @@ Debit the account that receives value or gains an asset; credit the account that
 | Income | Credit | Debit |
 
 ## Source documents
+<!-- marlbridge-diagram:ac-b15-igcse-accounting-source-to-double-entry -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/accounting/ac-b15-igcse-accounting-source-to-double-entry.svg" aria-label="Open full-size diagram: ac-b15-igcse-accounting-source-to-double-entry">
+    <img src="/images/learning/accounting/ac-b15-igcse-accounting-source-to-double-entry.svg" width="1600" height="1050" alt="Follow a transaction from source evidence through books of prime entry into debit and credit ledger accounts." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" />
+  </a>
+  <figcaption>Keep the audit trail: document → book of prime entry → ledger → trial balance. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:ac-b15-igcse-accounting-source-to-double-entry -->
 
 Every entry begins with a document, and knowing which triggers which is examined directly.
 

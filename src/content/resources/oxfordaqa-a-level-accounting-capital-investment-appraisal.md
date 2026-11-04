@@ -114,6 +114,14 @@ Money due in future is worth less than the same sum today: cash in hand can earn
 **Decision rule.** A positive NPV means the project returns more than the cost of capital, so accept it on financial grounds. A negative NPV means it returns less, so reject it on financial grounds. Between projects competing for the same funds, the higher positive NPV is preferred on financial grounds.
 
 ### Worked example 3: Wexcombe's NPV at a 14% cost of capital
+<!-- marlbridge-diagram:ac-b14-npv-discounted-cashflow-decision -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/accounting/ac-b14-npv-discounted-cashflow-decision.svg" aria-label="Open full-size diagram: ac-b14-npv-discounted-cashflow-decision">
+    <img src="/images/learning/accounting/ac-b14-npv-discounted-cashflow-decision.svg" width="1600" height="1050" alt="Timeline discounts each inflow at 14% and ends $5,031 below the initial outlay." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" />
+  </a>
+  <figcaption>Discounted inflows $210,969 less $216,000 outlay equals NPV −$5,031; reject on financial grounds. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:ac-b14-npv-discounted-cashflow-decision -->
 
 | Year | Net cash flow | Discount factor at 14% | Present value |
 |---|---|---|---|

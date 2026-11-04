@@ -54,6 +54,14 @@ Find two numbers that **multiply to c** and **add to b**. Write the brackets, th
 
 **Worked example 1.** Solve x² − 2x − 35 = 0.
 
+<!-- marlbridge-diagram:maths-b27-quadratic-factorisation-root-intercepts -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/mathematics/maths-b27-quadratic-factorisation-root-intercepts.svg" aria-label="Open full-size diagram: maths-b27-quadratic-factorisation-root-intercepts"><img src="/images/learning/mathematics/maths-b27-quadratic-factorisation-root-intercepts.svg" width="1600" height="1050" alt="x²−2x−35=(x+5)(x−7)=0, so the roots are x=−5 and x=7. The graph y=x²−2x−35 crosses the x-axis at (−5,0) and (7,0), with vertex (1,−36)." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>x²−2x−35=(x+5)(x−7)=0, so the roots are x=−5 and x=7. The graph y=x²−2x−35 crosses the x-axis at (−5,0) and (7,0), with vertex (1,−36). Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:maths-b27-quadratic-factorisation-root-intercepts -->
+
+
 ```
 Pairs that multiply to -35:  1 and -35,  -1 and 35,  5 and -7,  -5 and 7
 Which pair adds to -2?        5 + (-7) = -2

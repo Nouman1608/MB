@@ -83,9 +83,16 @@ Answer: ribosome → epithelial cell → epithelium → small intestine → dige
 | Proteins | Carbon, hydrogen, oxygen, nitrogen (often sulfur as well) |
 | Lipids (fats and oils) | Carbon, hydrogen, oxygen |
 
-Carbohydrates and lipids contain the same three elements, but lipids have much less oxygen in proportion to their carbon and hydrogen. Glucose, a carbohydrate, is C₆H₁₂O₆. If a molecule contains nitrogen, it is the protein.
+Carbohydrates and lipids contain the same three elements, but lipids have much less oxygen in proportion to their carbon and hydrogen. Glucose, a carbohydrate, is C₆H₁₂O₆. In this simplified table, proteins are the main listed category containing nitrogen. This is not a universal identification rule: nucleic acids and urea contain nitrogen, and some lipids such as phospholipids also contain nitrogen. Some lipids contain elements beyond carbon, hydrogen and oxygen.
 
 ### Large molecules from small units (2.8)
+
+<!-- marlbridge-diagram:bio-b29-edexcel-4bi1-biological-molecule-building-blocks -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/biology/bio-b29-edexcel-4bi1-biological-molecule-building-blocks.svg" aria-label="Open full-size diagram: biological molecule building blocks"><img src="/images/learning/biology/bio-b29-edexcel-4bi1-biological-molecule-building-blocks.svg" width="1528" height="1515" alt="Teaching models of glucose units in polysaccharides, amino-acid chains in proteins, and glycerol joined to three fatty acids in triglycerides." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Building-block models for common biological macromolecules; schematic, not to scale.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:bio-b29-edexcel-4bi1-biological-molecule-building-blocks -->
 
 | Large molecule | Built from | Where it is found |
 |---|---|---|
@@ -98,25 +105,33 @@ Points examiners look for:
 
 - Starch and glycogen are both made of glucose; they differ in branching and in which organisms store them.
 - Proteins are long chains of amino acids. There are about 20 different amino acids, and the order of amino acids decides the protein's shape. This is why enzymes can have a precise active site.
-- A lipid molecule is made of one glycerol joined to fatty acids (usually three). A lipid is **not** a chain of repeating identical units, so do not call it a chain of fatty acids alone.
+- A triglyceride (a common fat or oil) is made from one glycerol joined to three fatty acids. Do not generalise this structure to every lipid: phospholipids and steroids have different structures. A triglyceride is **not** a polymer of repeating identical units.
 
-Digestion (point 2.29, sub-topic 2(e)) reverses 2.8: amylase and maltase break starch to glucose, proteases break proteins to amino acids, and lipases break lipids to fatty acids and glycerol.
+Digestion (point 2.29, sub-topic 2(e)) breaks large molecules into smaller ones: amylase breaks starch into shorter sugars, including maltose; maltase then breaks maltose into glucose. Proteases break proteins into amino acids, and lipases break triglycerides into fatty acids and glycerol.
 
 ## Food tests (2.9)
 
 | Substance | Reagent and method | Negative result | Positive result |
 |---|---|---|---|
-| Glucose | Add Benedict's solution and heat in a water bath (about 80 °C) for a few minutes | Stays blue | Green → yellow → orange → brick-red as the amount of glucose rises |
+| Reducing sugar (for example, glucose) | Add Benedict's solution and heat in a hot-water bath for a few minutes | Stays blue | Green → yellow → orange → brick-red; in comparable samples the colour/precipitate can give a rough indication of reducing-sugar amount |
 | Starch | Add a few drops of iodine solution | Stays orange-brown | Blue-black |
 | Protein | Biuret test: add sodium hydroxide solution, then a few drops of dilute copper sulfate solution (or biuret reagent) | Stays blue | Purple (lilac) |
 | Fat | Emulsion test: shake the sample with ethanol, then pour the ethanol into water | Stays clear | Cloudy white emulsion |
+
+<!-- marlbridge-diagram:bio-b34-edexcel-4bi1-four-food-tests -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/biology/bio-b34-edexcel-4bi1-four-food-tests.svg" aria-label="Open full-size diagram: four food tests"><img src="/images/learning/biology/bio-b34-edexcel-4bi1-four-food-tests.svg" width="1528" height="1515" alt="Food-test results: iodine for starch, Benedict’s for reducing sugars, Biuret for protein and the ethanol emulsion test for fats and oils, with negative and positive examples." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Positive Benedict’s detects a reducing sugar, not glucose specifically; compare with a distilled-water control.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:bio-b34-edexcel-4bi1-four-food-tests -->
 
 Practical points:
 
 - Grind solid food with a little water first, so the reagent can mix with it.
 - Heat Benedict's tests in a water bath, not a direct flame. Keep ethanol away from flames.
-- The Benedict's colour gives a rough idea of how much glucose is present. It does not give an exact value.
-- Sucrose (table sugar) gives a **negative** Benedict's result. A sucrose solution stays blue.
+- Benedict's detects **reducing sugars**, not glucose specifically; lactose in milk also gives a positive result. Sucrose is non-reducing and usually gives a negative result unless first hydrolysed.
+- The colour is only a rough comparison when sample volumes, reagent volumes, heating time and concentrations are comparable. It is not a calibrated glucose concentration measurement.
+- A negative result means the substance was not detected under these test conditions, not that it is proven absent.
 - Run a control with distilled water in place of the food, so you can see the colour with no food present.
 
 ### Worked example: interpreting food test results
@@ -129,28 +144,42 @@ A student tests three drinks.
 | Q | Blue | Orange-brown | Blue | Clear |
 | R | Green | Orange-brown | Blue | Clear |
 
-1. P: positive Benedict's, biuret and emulsion tests, so it contains **glucose, protein and fat**, and no starch. This fits milk with added glucose.
+1. P: positive Benedict's, biuret and emulsion tests, so it contains a **reducing sugar, protein and fat**, and no starch detected. This fits milk with added glucose, but Benedict's alone cannot identify which reducing sugar is present.
 2. Q: all tests negative. It might be water, or it might contain a sugar such as sucrose that Benedict's does not detect. You cannot conclude it has no sugar at all.
-3. R: green Benedict's means a **small amount of glucose**, less than in P.
+3. R: green Benedict's means a lower apparent reducing-sugar result than P, assuming comparable sample and test conditions; the test does not identify glucose specifically.
 
 ## Enzymes (2.10–2.14B)
 
 ### Enzymes as biological catalysts (2.10)
 
-A **catalyst** speeds up a chemical reaction without being used up. Enzymes are **biological catalysts**: proteins made by living cells. Metabolic reactions are the chemical reactions in a cell; without enzymes they would be far too slow at body temperature.
+A **catalyst** speeds up a chemical reaction without being used up. Enzymes are **biological catalysts**; most are proteins, while some catalytic RNA molecules (ribozymes) are exceptions. Metabolic reactions are the chemical reactions in a cell; without enzymes many would be too slow to support life.
 
 Enzymes catalyse both kinds of metabolic reaction:
 
 - **breaking down** large molecules, for example amylase breaking starch into sugars
 - **building up** large molecules, for example joining glucose units into starch or glycogen, or amino acids into proteins.
 
-Each enzyme has an **active site** with a specific shape. Only a substrate with a complementary shape fits it. The substrate binds to form an enzyme-substrate complex, the reaction happens, and the products leave. The enzyme is unchanged and can be used again. This is why each enzyme is **specific**: amylase acts on starch but not on protein.
+Each enzyme has an **active site** whose chemical properties and shape favour particular substrates. In the simplified lock-and-key model, a complementary substrate fits; real active sites are dynamic and can adjust as binding occurs. The substrate binds to form an enzyme-substrate complex, the reaction happens, and products leave. The enzyme is not used up and can catalyse another reaction. This helps explain specificity: amylase acts on starch but not on protein.
+
+<!-- marlbridge-diagram:bio-b34-edexcel-4bi1-enzyme-catalytic-cycle -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/biology/bio-b34-edexcel-4bi1-enzyme-catalytic-cycle.svg" aria-label="Open full-size diagram: enzyme catalytic cycle"><img src="/images/learning/biology/bio-b34-edexcel-4bi1-enzyme-catalytic-cycle.svg" width="1528" height="1515" alt="Simplified enzyme catalytic cycle: a substrate binds at a complementary active site, products form and leave, and the enzyme can be used again." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Lock-and-key is a simplified model of substrate fit; real active sites are dynamic.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:bio-b34-edexcel-4bi1-enzyme-catalytic-cycle -->
 
 ### Temperature (2.11)
 
 - **Below the optimum**: molecules have less kinetic energy, so enzyme and substrate collide less often. Fewer enzyme-substrate complexes form and the rate is low. The enzyme is not damaged; warming it up restores activity.
-- **Rising to the optimum**: more frequent successful collisions, faster rate. Many human enzymes have an optimum near 37 °C.
-- **Above the optimum**: the bonds holding the protein in shape break. The **active site changes shape**, so the substrate no longer fits. The enzyme is **denatured**. The rate falls steeply. Denaturation is permanent.
+- **Rising to the optimum**: more frequent successful collisions, faster rate. The optimum depends on the enzyme and assay conditions; many human enzymes function well near body temperature, but 37 °C is not a universal optimum.
+- **Above the optimum**: heat disrupts interactions that help maintain the protein's three-dimensional structure. The **active site may change shape**, reducing substrate binding and catalysis. The enzyme may be **denatured**; this is often difficult to reverse but is not universally permanent, because some proteins can refold under suitable conditions.
+
+<!-- marlbridge-diagram:bio-b34-edexcel-4bi1-enzyme-temperature-ph -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/biology/bio-b34-edexcel-4bi1-enzyme-temperature-ph.svg" aria-label="Open full-size diagram: temperature and pH effects on enzyme activity"><img src="/images/learning/biology/bio-b34-edexcel-4bi1-enzyme-temperature-ph.svg" width="1528" height="871" alt="Temperature affects collision frequency and high-temperature active-site structure; pH affects active-site fit and each enzyme has its own optimum." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Temperature and pH affect enzyme activity by different mechanisms; low temperature alone does not denature an enzyme.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:bio-b34-edexcel-4bi1-enzyme-temperature-ph -->
 
 ### Practical: temperature and amylase (2.12)
 
@@ -158,10 +187,17 @@ Each enzyme has an **active site** with a specific shape. Only a substrate with 
 2. Put one drop of iodine solution in each well of a spotting tile.
 3. Mix the amylase and starch and start a stopwatch.
 4. Every 30 seconds, transfer one drop of the mixture to a fresh well of iodine.
-5. Record the time when the iodine stays orange-brown: all the starch has been digested.
+5. Record the time when iodine stays orange-brown: starch is no longer detected in the sampled mixture under this test's conditions.
 6. Repeat at other temperatures, and repeat each temperature three times to calculate a mean.
 
-Independent variable: temperature. Dependent variable: time for the starch to disappear. Control variables: volume and concentration of amylase and starch, pH (use a buffer), and the interval between samples. A shorter time means a faster rate, so rate = 1/time.
+Independent variable: temperature. Dependent variable: time to the iodine endpoint. Control variables: volume and concentration of amylase and starch, pH (use a suitable buffer), and the interval between samples. At fixed substrate and endpoint conditions, 1/time is a **relative rate proxy**, not a measured molar reaction rate.
+
+<!-- marlbridge-diagram:bio-b34-edexcel-4bi1-amylase-temperature-setup -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/biology/bio-gap-igcse-amylase-temperature-practical.svg" aria-label="Open full-size diagram: amylase assay setup for temperature practical"><img src="/images/learning/biology/bio-gap-igcse-amylase-temperature-practical.svg" width="1600" height="1000" alt="Amylase assay setup: equilibrate starch and amylase in a water bath, mix and time, then test drops with iodine on a spotting tile." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Temperature series: change temperature while matching pH, concentrations, volumes and sampling interval.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:bio-b34-edexcel-4bi1-amylase-temperature-setup -->
 
 ### Worked example: processing temperature results
 
@@ -169,26 +205,42 @@ Independent variable: temperature. Dependent variable: time for the starch to di
 |---|---|---|---|---|---|
 | Time for starch to disappear (s) | 240 | 120 | 60 | 150 | No end point |
 
+<!-- marlbridge-diagram:bio-b34-edexcel-4bi1-amylase-temperature-results -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/biology/bio-gap-igcse-amylase-temperature-rate.svg" aria-label="Open full-size graph: amylase temperature results"><img src="/images/learning/biology/bio-gap-igcse-amylase-temperature-rate.svg" width="1600" height="1000" alt="Temperature results graph of relative 1/time proxies: among the four observed endpoints, the largest is at 40 degrees Celsius; 60 degrees has no endpoint and is not plotted as zero." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Reported endpoint data give a sampled maximum at 40 °C, not an exact enzyme optimum; no 60 °C endpoint was observed.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:bio-b34-edexcel-4bi1-amylase-temperature-results -->
+
 *Calculate the rate at 40 °C and explain the pattern.*
 
 ```
-rate = 1 / time
+relative rate proxy = 1 / time
      = 1 / 60
      = 0.0167 s⁻¹ (3 s.f.)
 ```
 
-At 20 °C the rate is 1/240 = 0.00417 s⁻¹, so the rate at 40 °C is four times faster. From 20 °C to 40 °C, more kinetic energy means more frequent successful collisions. At 50 °C the rate has fallen because some of the amylase has denatured: its active site has changed shape. At 60 °C the amylase is fully denatured, so starch is never broken down. The optimum lies between 30 °C and 50 °C; to find it more precisely, repeat with smaller temperature steps in that range.
+At 20 °C the rate is 1/240 = 0.00417 s⁻¹, so the rate at 40 °C is four times faster. From 20 °C to 40 °C, more kinetic energy means more frequent successful collisions. At 50 °C the measured rate proxy has fallen; this is consistent with reduced enzyme activity, but the result alone does not prove how much amylase has denatured. At 60 °C no endpoint was observed during the practical’s observation period. This does not prove that all amylase was fully denatured or that no starch was broken down. The highest recorded rate proxy is at 40 °C among the tested temperatures; repeat with smaller temperature steps and suitable controls to investigate the response more precisely.
 
 ### pH (2.13)
 
-Each enzyme works fastest at its **optimum pH**. A stomach protease works best at about pH 2. Amylase in saliva works best at about pH 7. Away from the optimum, extra hydrogen ions (acid) or hydroxide ions (alkali) disturb the bonds that hold the enzyme's shape. The active site changes shape, the substrate fits less well, and fewer enzyme-substrate complexes form. Far from the optimum the enzyme is denatured.
+Each enzyme has an **optimum pH** under specified conditions. A stomach protease such as pepsin works in acidic conditions; salivary amylase is commonly illustrated near neutral pH. pH can alter ionisation of active-site and substrate groups, affecting binding and catalysis without necessarily causing global denaturation. Extreme pH can also disrupt interactions maintaining structure and denature an enzyme. The degree and reversibility depend on the enzyme and exposure.
 
 ### Practical: pH and amylase (2.14B) -- Paper 2 only
 
-The method is the same as the temperature practical, with two changes:
+Use the same iodine-endpoint assay as the temperature practical, with two changes:
 
 - **Independent variable**: pH, set by adding a buffer solution of known pH (for example pH 4, 5, 6, 7 and 8) to each tube.
-- **Temperature is now a control variable**: keep every tube in the same water bath, for example at 35 °C.
+- **Temperature is now a control variable**: keep every tube in the same water bath, for example at 35 °C. Use a buffer at each target pH while matching other conditions.
+
+The existing labelled amylase apparatus figure below shows the shared tube, water-bath and iodine-endpoint setup. For this pH investigation, vary the assigned buffer pH and keep bath temperature fixed; do not use the temperature-series buffer instruction unchanged.
+
+<!-- marlbridge-diagram:bio-b34-edexcel-4bi1-amylase-ph-setup -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/biology/bio-gap-igcse-amylase-temperature-practical.svg" aria-label="Open full-size diagram: shared amylase assay setup for pH practical"><img src="/images/learning/biology/bio-gap-igcse-amylase-temperature-practical.svg" width="1600" height="1000" alt="Shared amylase assay setup for the pH practical: use the assigned pH buffer, keep the bath temperature fixed, and time the iodine endpoint." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Reuse the same apparatus while changing the pH buffer and holding temperature constant.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:bio-b34-edexcel-4bi1-amylase-ph-setup -->
 
 ### Worked example: pH results (Paper 2 only)
 
@@ -198,10 +250,17 @@ The method is the same as the temperature practical, with two changes:
 
 *Identify the optimum and compare pH 5 with pH 7.*
 
-1. Shortest time is 45 s at pH 7, so the optimum in this range is about **pH 7**.
-2. Rate at pH 7 = 1/45 = 0.0222 s⁻¹. Rate at pH 5 = 1/180 = 0.00556 s⁻¹.
+1. Shortest time is 45 s at pH 7, so pH 7 is the **sampled maximum** among these five tested values, not proof of the exact optimum.
+2. Relative rate proxy at pH 7 = 1/45 = 0.0222 s⁻¹. At pH 5 it is 1/180 = 0.00556 s⁻¹.
 3. 180 ÷ 45 = 4, so the reaction at pH 7 is **four times faster** than at pH 5.
-4. At pH 5 the active site of amylase is altered, so fewer starch molecules fit and fewer enzyme-substrate complexes form per second.
+4. At pH 5 the observed endpoint takes longer in this example. pH may affect active-site ionisation, binding and catalytic steps; the data alone do not show that global denaturation occurred.
+
+<!-- marlbridge-diagram:bio-b34-edexcel-4bi1-amylase-ph-results -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/biology/bio-gap-igcse-amylase-ph-rate.svg" aria-label="Open full-size graph: amylase pH results"><img src="/images/learning/biology/bio-gap-igcse-amylase-ph-rate.svg" width="1600" height="1000" alt="Amylase 1/time results for five tested pH values; the largest calculated value is at pH 7, a sampled maximum rather than proof of exact optimum." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Reported endpoint times show the largest 1/time proxy at pH 7 among five tested values; this is not an exact optimum.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:bio-b34-edexcel-4bi1-amylase-ph-results -->
 
 ## Common errors
 
@@ -209,11 +268,11 @@ The method is the same as the temperature practical, with two changes:
 - Naming a single cell, such as a red blood cell, as a tissue.
 - Listing nitrogen as an element in carbohydrates or lipids.
 - Saying glycogen is made of amino acids, or that lipids are made only of glycerol.
-- Heating the Benedict's test without stating a water bath, or writing "turns red" for iodine.
+- Saying Benedict's identifies glucose specifically, or treating a negative result as proof of absence.
 - Heating the biuret test. It needs no heat.
 - Saying enzymes are "killed". They are molecules; they are denatured.
 - Saying low temperature denatures an enzyme. It only slows it.
-- Reading the longest time as the fastest rate.
+- Treating 1/time as an absolute rate or a no-endpoint observation as a zero rate.
 
 ## Next steps
 

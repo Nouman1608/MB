@@ -189,10 +189,19 @@ Points to read from the shape of the spectrum, not just the position:
 ### Fingerprinting
 
 The region at lower wavenumbers (below about 1500 cm⁻¹) contains many overlapping absorptions from the
-whole molecule. This pattern is unique to each compound, like a fingerprint. To identify a compound, you
-compare its spectrum with the spectrum of a known sample (for example from a database). An exact match
-across the fingerprint region confirms the identity. This also lets you tell apart two compounds with the
-same bonds, such as propanal and propanone, which both show C=O.
+whole molecule. Together, these bands form a complex pattern that can help distinguish compounds. To
+identify an unknown, compare its spectrum with reliable reference spectra for a defined candidate set,
+recorded under comparable conditions. A close match supports an identification within that set; it is not
+unique proof of identity. In ordinary achiral IR, enantiomers generally have the same spectrum. Fingerprint
+patterns can distinguish compounds with the same functional groups, such as propanal and propanone, which
+both show C=O.
+
+<!-- marlbridge-diagram:chem-b14-ir-fingerprint-reference-comparison -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/chemistry/chem-b14-ir-fingerprint-reference-comparison.svg" aria-label="Open full-size diagram: compare IR fingerprint spectra with candidate references"><img src="/images/learning/chemistry/chem-b14-ir-fingerprint-reference-comparison.svg" width="1528" height="870" alt="Schematic transmittance spectra compare a sample with octan-4-one and octan-2-one candidate references. The matching pattern supports octan-4-one only within this candidate set; ordinary achiral IR generally cannot distinguish enantiomers." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Schematic spectra: a fingerprint match supports identification among the candidates shown, not a unique identity claim. Ordinary IR generally cannot distinguish enantiomers.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:chem-b14-ir-fingerprint-reference-comparison -->
 
 ### Worked example 3: identifying an impurity
 
@@ -201,7 +210,7 @@ sharp absorption at 1730 cm⁻¹ and a broad absorption at 3400 cm⁻¹.
 
 - 1730 cm⁻¹ is in the C=O range (1680–1750), as expected for propanal.
 - 3400 cm⁻¹ is in the O–H (alcohol) range (3230–3550). Propanal has no O–H bond.
-- **Conclusion:** the product contains unreacted propan-1-ol as an impurity.
+- **Conclusion:** the band is consistent with an O–H-containing impurity, such as unreacted propan-1-ol. One band alone does not establish the impurity uniquely; check the full spectrum and other evidence, since water or another hydroxyl-containing contaminant can also absorb there.
 
 A very broad absorption across 2500–3000 cm⁻¹ would instead point to propanoic acid, from further oxidation.
 
@@ -221,11 +230,12 @@ giving a gas that turns limewater cloudy.
 
 ### Infrared absorption and global warming
 
-The Earth's surface absorbs radiation from the Sun and re-emits energy as infrared. Bonds in carbon dioxide
-(C=O), methane (C–H) and water vapour (O–H) absorb some of this infrared radiation, for the same reason the
-bonds in an organic sample absorb in a spectrometer. The molecules then re-emit energy in all directions,
-including back towards the surface, so energy is kept in the lower atmosphere. Rising concentrations of
-these gases mean more infrared is absorbed, and this contributes to global warming.
+The Earth's surface absorbs radiation from the Sun and re-emits energy as infrared. Carbon dioxide, methane
+and water vapour have infrared-active molecular vibrations: these absorb IR when the vibration changes the
+molecule's dipole moment. They absorb some wavelengths of outgoing terrestrial infrared; the atmosphere
+then emits infrared in all directions, including back towards the surface. Rising concentrations of these
+gases increase absorption and emission of infrared, contributing to global warming. Not every vibrational
+mode absorbs IR; the dipole-change condition matters.
 
 ## Common errors
 

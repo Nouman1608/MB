@@ -172,6 +172,14 @@ Both formulae are only valid when θ is in radians. In degrees the equivalents c
 
 ### Worked example 6: a sector
 
+<!-- marlbridge-diagram:maths-b26-radian-sector-arc-area-perimeter -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/mathematics/maths-b26-radian-sector-arc-area-perimeter.svg" aria-label="Open full-size diagram: maths-b26-radian-sector-arc-area-perimeter"><img src="/images/learning/mathematics/maths-b26-radian-sector-arc-area-perimeter.svg" width="1600" height="1050" alt="A sector of radius 9 cm and angle 1.2 radians has arc length s=rθ=10.8 cm and area A=½r²θ=48.6 cm². Its perimeter includes both radii: 9+9+10.8=28.8 cm." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>A sector of radius 9 cm and angle 1.2 radians has arc length s=rθ=10.8 cm and area A=½r²θ=48.6 cm². Its perimeter includes both radii: 9+9+10.8=28.8 cm. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:maths-b26-radian-sector-arc-area-perimeter -->
+
+
 A sector has radius 9 cm and angle 1.2 radians. Find the arc length, area and perimeter.
 
 ```

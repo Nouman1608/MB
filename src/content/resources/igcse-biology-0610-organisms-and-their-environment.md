@@ -99,6 +99,14 @@ Always give the direction of change **and** the reason.
 
 ### Pyramids of numbers and biomass
 
+<!-- marlbridge-diagram:bio-b29-cambridge-0610-pyramids-numbers-biomass -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/biology/bio-b29-cambridge-0610-pyramids-numbers-biomass.svg" aria-label="Open full-size diagram: bio-b29-cambridge-0610-pyramids-numbers-biomass"><img src="/images/learning/biology/bio-b29-cambridge-0610-pyramids-numbers-biomass.svg" width="1528" height="940" alt="Paired bar diagrams build a pyramid of numbers and a pyramid of dry biomass for one oak tree, 2 500 caterpillars and 30 birds; the number pyramid is not a true pyramid but biomass decreases up the chain" loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Paired bar diagrams compare numbers and dry biomass for the same food chain; the number bars can be inverted while biomass bars decrease up the chain. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:bio-b29-cambridge-0610-pyramids-numbers-biomass -->
+
+
 A **pyramid of numbers** shows the number of organisms at each trophic level. A **pyramid of biomass** shows the dry mass of living material at each level, usually per unit area.
 
 Worked example. A single oak tree supports 2 500 caterpillars, which are eaten by 30 blue tits.
@@ -184,6 +192,13 @@ Nitrogen gas makes up most of the air, but plants cannot use it directly. They a
 The syllabus limits these to **food supply, competition, predation and disease**. More food increases the growth rate; more competition, more predators or more disease reduce it.
 
 ### The sigmoid growth curve
+
+<!-- marlbridge-diagram:bio-b15-cambridge-0610-population-sigmoid-phases -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/biology/bio-b15-cambridge-0610-population-sigmoid-phases.svg" aria-label="Open full-size diagram: sigmoid population growth curve"><img src="/images/learning/biology/bio-b15-cambridge-0610-population-sigmoid-phases.svg" width="1600" height="960" alt="Sigmoid population growth graph labels lag, exponential, stationary and decline phases, with carrying capacity and limiting factors; decline is shown as a possible later outcome" loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Four phases of population growth with carrying capacity and limiting factors. A decline may occur later but is not one of the four named sigmoid phases. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:bio-b15-cambridge-0610-population-sigmoid-phases -->
 
 A population growing in an environment with **limited resources** follows an S-shaped (sigmoid) curve, followed by a decline:
 

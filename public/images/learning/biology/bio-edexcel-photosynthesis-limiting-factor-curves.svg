@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 1050" role="img" aria-labelledby="title desc">
+  <title id="title">Photosynthesis limiting-factor curves for Edexcel IGCSE Biology</title>
+  <desc id="desc">Two schematic graphs. In the first, photosynthesis rate rises with light intensity and plateaus at a lower rate for 0.04 percent carbon dioxide than for 0.4 percent carbon dioxide, with temperature held constant. In the second, rate rises with temperature to an optimum then falls, with light and carbon dioxide controlled. Notes explain that a plateau alone does not identify the limiting factor and that a controlled intervention is needed.</desc>
+  <defs>
+    <linearGradient id="paper" x2="0" y2="1"><stop stop-color="#f8fbff"/><stop offset="1" stop-color="#e9f2fb"/></linearGradient>
+    <filter id="shadow" x="-.2" y="-.2" width="1.4" height="1.5"><feDropShadow dx="0" dy="8" stdDeviation="10" flood-color="#18324a" flood-opacity=".12"/></filter>
+    <marker id="arr" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto"><path d="M0 0 10 5 0 10Z" fill="#355b72"/></marker>
+  </defs>
+  <rect width="1600" height="1050" rx="34" fill="url(#paper)"/>
+  <rect x="55" y="48" width="1490" height="954" rx="28" fill="#fff" stroke="#d7e4ef" stroke-width="3" filter="url(#shadow)"/>
+  <text x="98" y="117" fill="#16344f" font-family="Arial, sans-serif" font-size="42" font-weight="700">Photosynthesis: interpret limiting-factor curves</text>
+  <text x="100" y="157" fill="#557087" font-family="Arial, sans-serif" font-size="22">Edexcel IGCSE Biology 4BI1 • Schematic trends, not measured data</text>
+
+  <!-- Panel A: light and carbon dioxide -->
+  <rect x="88" y="193" width="825" height="590" rx="20" fill="#fbfdff" stroke="#dbe7ef" stroke-width="3"/>
+  <text x="125" y="242" fill="#16344f" font-family="Arial, sans-serif" font-size="29" font-weight="700">A  Light intensity and carbon dioxide</text>
+  <text x="135" y="281" fill="#557087" font-family="Arial, sans-serif" font-size="19">Temperature held constant • higher CO₂ permits a higher plateau</text>
+  <path d="M183 655 V338 M183 655 H855" stroke="#355b72" stroke-width="5" marker-end="url(#arr)"/>
+  <text x="110" y="475" fill="#24465e" font-family="Arial, sans-serif" font-size="19" transform="rotate(-90 110 475)">Relative rate of photosynthesis</text>
+  <text x="415" y="706" fill="#24465e" font-family="Arial, sans-serif" font-size="20">Light intensity (relative)</text>
+  <path d="M184 655 C255 578 327 493 411 466 C495 439 546 439 616 439 L815 439" fill="none" stroke="#e08a32" stroke-width="9" stroke-linecap="round"/>
+  <path d="M184 655 C255 578 327 493 411 466 C495 439 548 359 631 338 C706 319 755 319 815 319" fill="none" stroke="#16838a" stroke-width="9" stroke-linecap="round"/>
+  <circle cx="487" cy="439" r="10" fill="#e08a32" stroke="#fff" stroke-width="4"/>
+  <circle cx="626" cy="338" r="10" fill="#16838a" stroke="#fff" stroke-width="4"/>
+  <text x="665" y="302" fill="#087078" font-family="Arial, sans-serif" font-size="20" font-weight="700">0.4% CO₂</text>
+  <text x="665" y="480" fill="#a75c17" font-family="Arial, sans-serif" font-size="20" font-weight="700">0.04% CO₂</text>
+  <rect x="202" y="314" width="15" height="8" rx="4" fill="#16838a"/><text x="227" y="323" fill="#355b72" font-family="Arial, sans-serif" font-size="18">Rate rises with more light here</text>
+
+  <rect x="128" y="718" width="742" height="57" rx="12" fill="#eef5f7"/>
+  <text x="145" y="741" fill="#3d5f72" font-family="Arial, sans-serif" font-size="16">At the same light level, raising CO₂ can raise the rate when CO₂ limits.</text>
+  <text x="145" y="763" fill="#3d5f72" font-family="Arial, sans-serif" font-size="16">A plateau alone does not identify the limiting factor.</text>
+
+  <!-- Panel B: temperature -->
+  <rect x="940" y="193" width="572" height="590" rx="20" fill="#fbfdff" stroke="#dbe7ef" stroke-width="3"/>
+  <text x="978" y="242" fill="#16344f" font-family="Arial, sans-serif" font-size="29" font-weight="700">B  Temperature</text>
+  <text x="982" y="281" fill="#557087" font-family="Arial, sans-serif" font-size="19">Light and CO₂ controlled</text>
+  <path d="M1014 655 V338 M1014 655 H1462" stroke="#355b72" stroke-width="5" marker-end="url(#arr)"/>
+  <text x="965" y="495" fill="#24465e" font-family="Arial, sans-serif" font-size="18" transform="rotate(-90 965 495)">Relative rate</text>
+  <text x="1135" y="706" fill="#24465e" font-family="Arial, sans-serif" font-size="20">Temperature</text>
+  <path d="M1017 648 C1064 610 1107 515 1164 425 C1207 356 1258 324 1300 332 C1354 341 1393 411 1428 543" fill="none" stroke="#7359a6" stroke-width="9" stroke-linecap="round"/>
+  <circle cx="1300" cy="332" r="11" fill="#7359a6" stroke="#fff" stroke-width="4"/>
+  <text x="1275" y="306" fill="#624891" font-family="Arial, sans-serif" font-size="19" font-weight="700">Optimum</text>
+
+  <rect x="980" y="718" width="492" height="57" rx="12" fill="#f1eef8"/>
+  <text x="995" y="741" fill="#58447e" font-family="Arial, sans-serif" font-size="16">Warming can increase rate toward the enzyme optimum.</text>
+  <text x="995" y="763" fill="#58447e" font-family="Arial, sans-serif" font-size="16">Excess heat can denature enzymes; control other factors.</text>
+
+  <!-- Interpretation and caution -->
+  <rect x="88" y="808" width="1424" height="142" rx="20" fill="#eaf5f3" stroke="#c7e2dd" stroke-width="2"/>
+  <text x="122" y="856" fill="#125c59" font-family="Arial, sans-serif" font-size="25" font-weight="700">How to identify the limiting factor</text>
+  <text x="122" y="895" fill="#244f58" font-family="Arial, sans-serif" font-size="20">Change one candidate factor while holding light, CO₂, water, temperature, plant material and time as appropriate.</text>
+  <text x="122" y="927" fill="#244f58" font-family="Arial, sans-serif" font-size="20">A plateau can also reflect water/mineral shortage, photoinhibition or system capacity; test the hypothesis, do not guess from shape alone.</text>
+  <text x="1220" y="978" fill="#557087" font-family="Arial, sans-serif" font-size="15">MARLBRIDGE STUDY RESOURCES  •  BIOLOGY</text>
+</svg>

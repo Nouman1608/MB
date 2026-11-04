@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "ocr-a-level-chemistry-foundations-in-chemistry"
     subtopic: "ocr-a-level-chemistry-2-1-2"
-description: "Writing formulae of ionic compounds from ionic charges, recall of named polyatomic ions, and constructing balanced chemical and ionic equations with state symbols, for OCR A Level Chemistry A H432, Module 2.1.2."
+description: "Writing formulae of ionic compounds from ionic charges, recalling five named polyatomic ions and two monatomic metal cations, and constructing balanced chemical and ionic equations with state symbols, for OCR A Level Chemistry A H432, Module 2.1.2."
 author: "marlbridge-academic-team"
 reviewer: "nouman-ahmed"
 reviewStatus: "reviewed"
@@ -40,10 +40,12 @@ ionic charges. This has two required components:
   in a given group tend to form ions of a predictable charge related
   to that group -- for example, Group 1 metals typically form 1+ ions
   and Group 7 elements typically form 1− ions.
-- **Recall of named polyatomic ions.** The specification names seven
-  ions you must know by name and formula: nitrate (NO₃⁻), carbonate
-  (CO₃²⁻), sulfate (SO₄²⁻), hydroxide (OH⁻), ammonium (NH₄⁺), zinc
-  (Zn²⁺) and silver (Ag⁺). A specific convention applies here: unless
+- **Recall of named ions.** The specification names seven ions you must
+  know by name and formula. Five are **polyatomic ions**: nitrate
+  (NO₃⁻), carbonate (CO₃²⁻), sulfate (SO₄²⁻), hydroxide (OH⁻) and
+  ammonium (NH₄⁺). Zinc (Zn²⁺) and silver (Ag⁺) are **monatomic metal
+  cations**, not polyatomic ions. A specific convention applies to
+  nitrate and sulfate: unless
   an oxidation number is explicitly shown, "nitrate" and "sulfate"
   should always be assumed to mean NO₃⁻ and SO₄²⁻ respectively (other
   oxidation states of these ions, such as nitrate(III)/nitrite, are
@@ -134,9 +136,10 @@ gives Mg₂O₂, which must be simplified to the correct formula MgO.
 
 ## How to approach it
 
-Learn the seven named polyatomic ions (and their formulae) as a fixed
-list you can recall instantly, since the specification treats these as
-required knowledge rather than information that will be provided.
+Learn all seven named ions and their formulae as a fixed list: five are
+polyatomic (NO₃⁻, CO₃²⁻, SO₄²⁻, OH⁻, NH₄⁺), while Zn²⁺ and Ag⁺ are
+monatomic metal cations. The specification treats these as required
+knowledge rather than information that will be provided.
 Practise predicting simple ionic charges from periodic table group
 number until it becomes automatic, particularly for Groups 1, 2, 6 and
 7 where the pattern is most consistent. When constructing equations for

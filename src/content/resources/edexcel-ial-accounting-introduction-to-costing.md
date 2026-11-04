@@ -45,7 +45,17 @@ Course hub: [Edexcel A-Level Accounting](/boards/edexcel/a-level/accounting/). P
 Prudence and consistency, which sit behind inventory valuation, are explained in the [Principles and Double Entry Bookkeeping guide](/resources/a-level-edexcel-accounting-principles-and-double-entry-bookkeeping/).
 
 ## Valuation of inventory (1.4.1 to 1.4.3)
-
+<!-- marlbridge-diagram:ac-edx-introduction-to-costing-map -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/accounting/ac-edx-introduction-to-costing-map.svg" aria-label="Open full-size diagram: ac-edx-introduction-to-costing-map">
+    <picture>
+      <source media="(max-width: 640px)" srcset="/images/learning/accounting/ac-edx-introduction-to-costing-map-mobile.svg" />
+      <img src="/images/learning/accounting/ac-edx-introduction-to-costing-map.svg" width="1600" height="1050" alt="A costing map links inventory valuation, labour remuneration, overhead absorption and job-cost build-up." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" />
+    </picture>
+  </a>
+  <figcaption>A costing map links inventory valuation, labour remuneration, overhead absorption and job-cost build-up. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:ac-edx-introduction-to-costing-map -->\n
 - **FIFO (first in, first out)** assumes the oldest units are issued first. Closing inventory is valued at the most recent prices.
 - **LIFO (last in, first out)** assumes the newest units are issued first. Closing inventory is valued at the oldest prices. LIFO is not permitted under the international standard on inventories (IAS 2), so a business reporting under international standards cannot use it in its published financial statements.
 - **NRV** is the estimated selling price less the costs to complete and sell the item. Inventory is valued at the **lower of cost and NRV**, which applies prudence.

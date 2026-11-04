@@ -131,6 +131,13 @@ wrong, and users should be told about it. The straight-line and reducing balance
 part of 3.1.6.
 
 ## Situation 4: inventories at cost or net realisable value
+<!-- marlbridge-diagram:ac-b16-inventory-cost-or-nrv -->
+<figure class="study-guide-figure">
+  <img src="/images/learning/accounting/ac-b16-inventory-cost-or-nrv.svg" alt="For headphones, speakers and chargers, compare cost and net realisable value per unit, then extend the lower value by units. Total inventory is $4,015 versus $4,545 cost, a $530 write-down." loading="lazy" />
+  <figcaption>Apply the lower-of-cost-and-NRV rule to each inventory line, not only to the totals.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:ac-b16-inventory-cost-or-nrv -->
+
 
 Inventory is valued at the **lower of cost and net realisable value (NRV)**, comparing item by item.
 

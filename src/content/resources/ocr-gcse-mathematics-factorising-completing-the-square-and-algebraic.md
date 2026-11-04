@@ -197,6 +197,14 @@ Denominator: x² + x − 12 = (x + 4)(x − 3)
 
 ### Multiplying and dividing
 
+<!-- marlbridge-diagram:math-b79-ocr-algebraic-fraction-division -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/public/images/learning/mathematics/math-b79-ocr-algebraic-fraction-division.svg" aria-label="Open full-size diagram: math-b79-ocr-algebraic-fraction-division"><img src="/public/images/learning/mathematics/math-b79-ocr-algebraic-fraction-division.svg" width="1528" height="940" alt="Worked algebraic fraction division shows factorisation, reciprocal multiplication and legal cancellation to reach x over x minus 2." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Worked algebraic fraction division shows factorisation, reciprocal multiplication and legal cancellation to reach x over x minus 2.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:math-b79-ocr-algebraic-fraction-division -->
+
+
 To divide, turn the second fraction upside down and multiply. Factorise everything, then cancel.
 
 **Example 19.** Simplify (x² + 5x)/(x² − 4) ÷ (x + 5)/(x + 2).

@@ -78,6 +78,14 @@ topics up to 11.6, with AS Level content assumed knowledge for A Level Paper 3 a
 
 ## Demand, supply, and what actually shifts a curve
 
+<!-- marlbridge-diagram:economics-demand-supply-movement-shift -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/economics/economics-demand-supply-movement-shift.svg" aria-label="Open full-size diagram: economics-demand-supply-movement-shift"><img src="/images/learning/economics/economics-demand-supply-movement-shift.svg" width="1600" height="1050" alt="Side-by-side demand diagrams distinguish movement along a curve due to own price from a curve shift due to another determinant." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>A change in own price causes movement along demand; other determinants shift the curve. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:economics-demand-supply-movement-shift -->
+
+
 The syllabus places heavy weight on a distinction examiners return to constantly: a **movement along** a
 demand or supply curve happens only because of a change in the good's own price, whereas a **shift of**
 the whole curve happens because of a change in any other determinant — for demand, factors such as

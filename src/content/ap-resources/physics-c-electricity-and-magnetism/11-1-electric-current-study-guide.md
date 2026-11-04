@@ -13,7 +13,7 @@ prerequisites:
 prerequisiteResources: ["mb-ap-physcem-10.4-study-guide"]
 learningObjectives:
   - "Define current as the rate of charge flow through a cross-section and use I = dq/dt in both directions"
-  - "Explain drift velocity and derive I = nqv_dA from a model of moving charge carriers"
+  - "Explain mean drift velocity and derive the current-magnitude relation |I| = n|q|v_dA from a one-species transport model"
   - "Explain why zero current does not mean the charge carriers are at rest"
   - "Use current density as a vector, J = nqv_d, and relate it to the field in a conductor with E = ρJ"
   - "Find the total current from a non-uniform current density by integrating J over the cross-section"
@@ -29,7 +29,7 @@ framework: { schoolYear: "2026-27", examSeries: "May 2027" }
 sources: ["ced-physics-c-electricity-and-magnetism", "clar-physics-c-electricity-and-magnetism", "page-physics-c-electricity-and-magnetism"]
 keyPoints:
   - "Current is the rate at which charge crosses a cross-section: I = dq/dt, measured in amperes (1 A = 1 C/s)."
-  - "Charge carriers move randomly at high speed; a potential difference adds a slow average drift, so I = nqv_dA."
+  - "Thermal motion averages to zero net current; a slow mean drift gives |I| = n|q|v_dA for one carrier species."
   - "Zero current means zero net motion of carriers, not carriers at rest."
   - "Current density J = nqv_d is a vector; the field in a conductor is E = ρJ, and the total current is I = ∫J·dA."
   - "Current has a direction along the wire but is a scalar: currents at a junction add as numbers, not as vectors."
@@ -78,7 +78,7 @@ When a potential difference is applied, an electric field appears inside the con
 
 ## Deriving I = nqv_dA
 
-Model a wire with cross-sectional area A. It contains n charge carriers per unit volume, each with charge q, all drifting at speed v_d.
+Model a wire with cross-sectional area A and number density n of one carrier species. The carriers have a mean drift velocity; their instantaneous thermal velocities are spread around that mean. Let v_d be the positive magnitude of the mean drift speed and q the signed carrier charge.
 
 <figure>
 <svg viewBox="0 0 560 300" role="img" aria-labelledby="cur-wire-title cur-wire-desc" xmlns="http://www.w3.org/2000/svg" font-family="system-ui, sans-serif">
@@ -115,19 +115,19 @@ Model a wire with cross-sectional area A. It contains n charge carriers per unit
 <line x1="230" y1="200" x2="230" y2="210" stroke="#1d2b44"/><line x1="340" y1="200" x2="340" y2="210" stroke="#1d2b44"/>
 <text x="285" y="222" font-size="12" fill="#1d2b44" text-anchor="middle">v_d Δt</text>
 <text x="222" y="88" font-size="12" fill="#1d2b44" text-anchor="end">area A</text>
-<text x="20" y="290" font-size="12" fill="#1d2b44">Hatched slice: every carrier in it crosses the dashed section in time Δt.</text>
+<text x="20" y="290" font-size="12" fill="#1d2b44">Hatched slice: mean-drift transport in Δt; random crossings average out.</text>
 </svg>
-<figcaption>Figure 1. A wire with cross-sectional area A. The electrons drift to the left, so in time Δt every electron in the hatched slice of length v_d Δt (just upstream of the dashed cross-section, on its right) crosses it. For electrons (negative carriers), the drift is opposite to E and opposite to the conventional current.</figcaption>
+<figcaption>Figure 1. The hatched length v_d Δt represents net transport in the mean-drift model, not the path of each carrier. Thermal motion causes crossings in both directions and is excluded from this average. For electrons, mean drift is opposite to E and conventional current.</figcaption>
 </figure>
 
-1. In a time Δt, each carrier moves a distance v_d Δt along the wire.
-2. So every carrier within a slice of length v_d Δt just upstream of the cross-section (on the side the carriers come from) crosses it (the hatched slice in Figure 1).
-3. The slice has volume A v_d Δt, so it holds n A v_d Δt carriers, with total charge Δq = nqA v_d Δt.
-4. Divide by Δt: **I = Δq/Δt = nqv_dA**.
+1. Over time Δt, the mean drift transports charge across the section by the same amount as a slab of length v_d Δt. Individual carriers also have random motion, so this is an average transport model, not a claim that each carrier follows the slab.
+2. The slab volume is A v_d Δt and contains nA v_d Δt carriers on average.
+3. For one carrier species, the magnitude of the net transported charge is |ΔQ| = nA v_d Δt |q|. Random crossings in opposite directions cancel in the average.
+4. Divide by Δt: **|I| = n|q|v_dA**. The signed direction is set separately by the carrier sign and mean drift direction.
 
 Here q is the charge of **one** carrier (for electrons, |q| = e = 1.60 × 10⁻¹⁹ C) and n is a **number density** in m⁻³. For magnitudes, use |q| and the drift speed.
 
-**Functional dependence.** For a fixed current in a fixed material, v_d = I/(nqA). Halving the diameter quarters A, so the carriers must drift **4 times** faster to carry the same current.
+**Functional dependence.** For a fixed current magnitude in a fixed material, v_d = |I|/(n|q|A). Halving the diameter quarters A, so the mean drift speed must be **4 times** larger to carry the same current.
 
 ## Current density J
 
@@ -135,7 +135,7 @@ Current tells you the total flow through a whole cross-section. **Current densit
 
 **J = I / A**, measured in A/m².
 
-From I = nqv_dA, the current density at a point is
+From the signed vector relation J = nq v_d, the current density at a point is
 
 **J = nq v_d** (a vector)
 

@@ -85,6 +85,14 @@ similarity
 
 ## How to approach it
 
+<!-- marlbridge-diagram:math-b57-transform-vector-proof-route -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/public/images/learning/mathematics/math-b57-transform-vector-proof-route.svg" aria-label="Open full-size diagram: math-b57-transform-vector-proof-route"><img src="/public/images/learning/mathematics/math-b57-transform-vector-proof-route.svg" width="1528" height="940" alt="The checklist lists the information required for reflection, rotation, enlargement and translation. Its vector proof example uses OA=a and OB=b to show MN=½(b−a)=½AB, so MN is parallel to AB and half its length; it also flags negative enlargement scale factors." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>The checklist lists the information required for reflection, rotation, enlargement and translation. Its vector proof example uses OA=a and OB=b to show MN=½(b−a)=½AB, so MN is parallel to AB and half its length; it also flags negative enlargement scale factors. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:math-b57-transform-vector-proof-route -->
+
+
 For any transformation question, describe fully means naming the
 transformation type and giving every required piece of information:
 a reflection needs the equation of the mirror line, a rotation needs

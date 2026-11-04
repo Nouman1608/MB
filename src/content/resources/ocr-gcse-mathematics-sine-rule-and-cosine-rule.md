@@ -50,6 +50,12 @@ Name the angles A, B and C. Name the side opposite each angle with the matching 
 Every error in this topic starts with a mislabelled triangle. Before you write any formula, mark each given angle and the side facing it. A side and the angle opposite it are always a pair.
 
 ## The sine rule
+<!-- marlbridge-diagram:maths-b18-sine-rule-ambiguous -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/mathematics/maths-b18-sine-rule-ambiguous.svg" aria-label="Open full-size diagram: maths-b18-sine-rule-ambiguous"><img src="/images/learning/mathematics/maths-b18-sine-rule-ambiguous.svg" width="1600" height="1050" alt="Given A=30°, a=7 opposite A, and b=10 opposite B, sin B=5/7 gives two valid B angles, approximately 45.6° and 134.4°." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Given A=30°, a=7 opposite A, and b=10 opposite B, sin B=5/7 gives two valid B angles, approximately 45.6° and 134.4°. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:maths-b18-sine-rule-ambiguous -->
 
 The sine rule says that in every triangle, each side divided by the sine of its opposite angle gives the same number:
 

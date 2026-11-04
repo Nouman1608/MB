@@ -32,7 +32,7 @@ keyPoints:
   - "A process that is thermodynamically favoured but does not occur at a measurable rate is under kinetic control."
   - "The usual cause of kinetic control is a high activation energy: very few collisions have enough energy to react."
   - "No visible change does not mean equilibrium. Under kinetic control Q is far from K; the system is stuck, not balanced."
-  - "A catalyst, a spark or strong heating can start a kinetically controlled reaction. Nothing can make a process with ΔG° > 0 go to a large extent on its own."
+  - "A catalyst, a spark or heating can change the rate, but a catalyst does not change ΔG° or K. ΔG° > 0 means products are not favoured under standard-state conditions; it does not make product formation impossible at every composition. The equilibrium position depends on K and the actual mixture."
 faqs:
   - question: "If a reaction is under kinetic control, is it 'not favoured'?"
     answer: "No. It is favoured (ΔG° < 0) but slow. 'Not favoured' means ΔG° > 0. Keep the two words for the two different reasons a reaction might not be seen."
@@ -161,15 +161,15 @@ Two observations that tell the cases apart:
 
 ## Kinetic control or not favoured?
 
-Two different reasons can explain why a reaction is not observed. Your argument must name the right one.
+Two different reasons can explain why little change is observed: the stated mixture may be close to its equilibrium composition, or it may be far from equilibrium but kinetically inhibited. Your explanation must distinguish them.
 
-| Observation | ΔG° | Conclusion |
-|---|---|---|
-| Reaction happens quickly | < 0 | Favoured and fast |
-| No measurable reaction, but a catalyst or spark starts it | < 0 | **Kinetic control** (high Eₐ) |
-| No measurable reaction, and no catalyst can make much product | > 0 | **Not favoured**: the products are not reached to a large extent at all |
+| Evidence | Interpretation |
+|---|---|
+| A reaction is thermodynamically driven under the actual conditions and occurs quickly | Favoured and fast |
+| A driven, far-from-equilibrium mixture changes negligibly until a suitable catalyst or initiation is supplied | A kinetic barrier is limiting the observed rate |
+| A suitable catalyst changes the time taken but not the final composition at the same temperature and overall loading | The catalyst changes rates, not the equilibrium constant |
 
-A catalyst can never make a process with ΔG° > 0 produce a large amount of product. It can only help a system reach the equilibrium position that thermodynamics already sets, sooner.
+The sign of ΔG° fixes whether K is greater or less than1. It does not alone determine the actual direction at every composition or a universal amount of product: actual reaction driving force also depends on Q, as developed later in this unit. A catalyst cannot change K or the equilibrium composition under otherwise fixed conditions, but reactant loading, stoichiometry or removal of products can change the amount obtained. Do not use positive ΔG° alone to claim that substantial product is impossible in every setup.
 
 ## Writing the argument
 

@@ -136,6 +136,13 @@ of flammable liquids).
 3. The liquid vaporises. Record the new volume reading, the temperature and the room pressure.
 4. Use M = mRT / pV with the volume of vapour (final reading minus starting reading).
 
+<!-- marlbridge-diagram:chem-aqa-volatile-liquid-molar-mass-apparatus -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/chemistry/chem-aqa-volatile-liquid-molar-mass-apparatus.svg" aria-label="Open full-size diagram: heated gas syringe method for a volatile liquid"><img src="/images/learning/chemistry/chem-aqa-volatile-liquid-molar-mass-apparatus.svg" width="1528" height="940" alt="A gas syringe is held in a heated steam jacket above the liquid boiling point and allowed to reach a steady temperature. The starting plunger reading is recorded, a small weighed amount of volatile liquid is injected through a self-sealing cap, and the final reading is recorded after complete vaporisation; vapour volume is final minus starting reading." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Use the volume increase, not the final syringe reading alone. The liquid must vaporise fully and the syringe must remain at a steady measured temperature.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:chem-aqa-volatile-liquid-molar-mass-apparatus -->
+
 ### Worked example 4: processing the data
 
 0.188 g of a liquid gives 73.5 cm³ of vapour at 120 °C and 98.5 kPa. R = 8.31 J K⁻¹ mol⁻¹.
@@ -145,8 +152,13 @@ of flammable liquids).
 3. Mr = **84.8** (no units).
 
 Uncertainty (PS 3.3). If the balance reads to ±0.001 g, the mass by difference uses two readings, so
-its uncertainty is ±0.002 g, which is 1.1% of 0.188 g. A volume read to ±0.5 cm³ is 0.7% of 73.5 cm³.
-The combined percentage uncertainty is about 1.7%, so the Mr lies roughly between 83.3 and 86.3.
+its conservative uncertainty is ±0.002 g, or 1.06% of 0.188 g. The vapour volume is also a difference:
+final syringe reading minus initial reading. If each reading is ±0.5 cm³, the conservative uncertainty
+in the difference is ±1.0 cm³, or 1.36% of 73.5 cm³. Using the conservative rule that percentage
+uncertainties add in a product or quotient, the mass and volume contributions alone give about 2.4%.
+This is not a total uncertainty: pressure and temperature uncertainties have not been supplied. If a
+question specifies independent random-reading errors and quadrature, use that stated convention instead.
+Do not infer an overall uncertainty or a narrow Mr interval from only one syringe-reading uncertainty.
 
 Errors that push the answer the wrong way:
 
@@ -206,6 +218,14 @@ formula is also **CH₂Cl₂**.
 
 ### Practical: the empirical formula of a metal oxide
 
+<!-- marlbridge-diagram:chem-b29-metal-oxide-empirical-formula-apparatus -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/chemistry/chem-b29-metal-oxide-empirical-formula-apparatus.svg" aria-label="Open full-size diagram: chem-b29-metal-oxide-empirical-formula-apparatus"><img src="/images/learning/chemistry/chem-b29-metal-oxide-empirical-formula-apparatus.svg" width="1600" height="1050" alt="Two schematic experimental routes for determining a metal oxide empirical formula. Route A heats a weighed metal in a crucible with its lid slightly raised so oxygen enters while little solid escapes. Route B heats a weighed oxide in a stream of hydrogen through a tube and cools the product while hydrogen still flows to prevent reoxidation. Both routes repeat heat, cool and weigh until consecutive readings agree. The source notes lead compounds are toxic and the lead-oxide example is performed in a fume cupboard." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Two schematic experimental routes for determining a metal oxide empirical formula. Route A heats a weighed metal in a crucible with its lid slightly raised so oxygen enters while little solid escapes. Route B heats a weighed oxide in a stream of hydrogen through a tube and cools the product while hydrogen still flows to prevent reoxidation. Both routes repeat heat, cool and weigh until consecutive readings agree. The source notes lead compounds are toxic and the lead-oxide example is performed in a fume cupboard. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:chem-b29-metal-oxide-empirical-formula-apparatus -->
+
+
 Two common routes (AT a and AT k):
 
 - **Make the oxide.** Heat a weighed metal in a crucible in air until the mass stops changing, then
@@ -213,8 +233,9 @@ Two common routes (AT a and AT k):
 - **Reduce the oxide.** Heat a weighed oxide in a stream of a reducing gas such as hydrogen until only
   the metal is left, then weigh the metal. Let it cool in the gas stream so it does not reoxidise.
 
-In both, **heat to constant mass**: heat, cool, weigh, and repeat until two readings agree. This shows
-the reaction is complete.
+In both, **heat to constant mass**: heat, cool, weigh, and repeat until successive readings agree within
+the balance's resolution. This is evidence that further measurable mass change has stopped under the
+conditions used; it supports, but does not by itself prove, completion of the intended reaction.
 
 ### Worked example 6: an oxide of lead
 

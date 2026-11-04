@@ -52,7 +52,7 @@ In Topic 10.5 you met electric potential difference as energy per unit charge. I
 
 **ΔU_E = qΔV**, or equivalently **ΔV = ΔU_E / q**
 
-Positive charges (the carriers of conventional current) gain electric potential energy when they move to a higher potential and lose it when they move to a lower potential.
+For a positive charge, moving to a higher potential increases electric potential energy; for a negative charge, the change has the opposite sign. Conventional current is defined in the direction positive charge would move, even when the mobile carriers are electrons.
 
 - **Inside a battery**, the battery does work on the charges, moving them from the negative terminal to the positive terminal. Non-electric energy (for example chemical energy) becomes electric potential energy. Each coulomb gains ℰ joules.
 - **In a resistor**, charges move from high potential to low potential. Electric potential energy becomes thermal energy (or light, in a bulb).

@@ -165,6 +165,14 @@ Method:
 
 ### Worked example 5
 
+<!-- marlbridge-diagram:math-b41-binomial-rational-function-series -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/mathematics/math-b41-binomial-rational-function-series.svg" aria-label="Open full-size diagram: math-b41-binomial-rational-function-series"><img src="/images/learning/mathematics/math-b41-binomial-rational-function-series.svg" width="1600" height="1050" alt="Partial fractions split the rational function into three expandable terms. Adding coefficients gives 13/4 − 5x + 299x²/16 − 857x³/16 + …, valid for |x| &lt; 1/3." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Partial fractions split the rational function into three expandable terms. Adding coefficients gives 13/4 − 5x + 299x²/16 − 857x³/16 + …, valid for |x| &lt; 1/3. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:math-b41-binomial-rational-function-series -->
+
+
 Express f(x) = (13 + 6x − x²) / ((1 + 3x)(2 − x)²) in partial fractions. Hence expand f(x) up to the term in x³ and state the range of validity.
 
 ```

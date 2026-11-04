@@ -46,6 +46,22 @@ test for halide ions is in [Group 7, the halogens](/resources/aqa-a-level-chemis
 No required practical is listed under 3.3.3. The two suggested activities (test-tube hydrolysis to compare
 rates, and preparing a chloroalkane) are taught below.
 
+## Uses and restrictions
+
+Halogenoalkanes have been used in several roles because changing the halogen and carbon structure changes
+volatility, solvent properties and biological activity. The examples below illustrate uses of particular
+compounds, not a claim that every halogenoalkane is suitable for each use.
+
+| Use | Why a halogenoalkane can be useful | Restriction or qualification |
+|---|---|---|
+| Refrigerant | Some CFCs such as CCl₂F₂ were volatile and chemically stable, so they could evaporate and condense in refrigeration cycles. | UV photolysis of C–Cl bonds releases chlorine radicals that catalyse ozone loss. Many ozone-depleting CFC uses were phased out; replacement refrigerants have their own climate and safety properties. |
+| Solvent | Halogenated solvents such as dichloromethane dissolve many organic substances and evaporate readily after use. | Volatility creates inhalation and environmental risks; toxicity and ozone/climate effects vary by compound, so use is restricted or controlled where warranted. |
+| Pharmaceutical or anaesthetic | Halogen atoms can alter a molecule's stability, fat solubility and biological activity. Halothane is an example of a halogenated anaesthetic. | The property belongs to the particular molecule and dose, not the whole class; medicines require testing and controlled clinical use. |
+
+The key restriction example in this topic is the ozone-depleting effect of CFCs, not a universal ban on
+all halogenoalkanes. Chlorine-free alternatives avoid releasing chlorine from a C–Cl bond, but still
+need assessment for other environmental and safety effects.
+
 ## Why halogenoalkanes react: the polar C–X bond
 
 A halogenoalkane has a halogen atom, X, bonded to a carbon in an alkane chain. The halogen is more
@@ -70,6 +86,30 @@ movement of an electron pair with a **curly arrow**. Each arrow starts at a lone
 the pair goes.
 
 ### Hydroxide ions: halogenoalkane → alcohol
+<!-- marlbridge-diagram:chem-delta-hydroxide-sn2 -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/chemistry/chem-delta-hydroxide-sn2.svg" aria-label="Open full-size diagram: chem-delta-hydroxide-sn2">
+    <img src="/images/learning/chemistry/chem-delta-hydroxide-sn2.svg" width="1528" height="940" alt="Two simultaneous curly-arrow directions for hydroxide substitution: oxygen lone pair to carbon and C–Br bond pair to bromide; the product is an alcohol." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" />
+  </a>
+  <figcaption>Hydroxide SN2 substitution mechanism. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:chem-delta-hydroxide-sn2 -->
+
+<!-- marlbridge-diagram:chem-obj-halogen-e2-three-arrows-reuse3 -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/chemistry/chem-obj-halogen-e2-three-arrows.svg" aria-label="Open full-size diagram: chem-obj-halogen-e2-three-arrows"><img src="/images/learning/chemistry/chem-obj-halogen-e2-three-arrows.svg" width="1528" height="940" alt="Three-arrow E2 mechanism: hydroxide removes a beta hydrogen, the C–H bond pair forms C=C, and the C–Br bond pair leaves. Hydroxide substitution also produces propan-2-ol." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>E2 elimination from 2-bromopropane: three electron shifts — Marlbridge Chemistry.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:chem-obj-halogen-e2-three-arrows-reuse3 -->
+
+
+<!-- marlbridge-diagram:chem-b29-aqa-hydroxide-sn2-1-bromopropane -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/chemistry/chem-b29-aqa-hydroxide-sn2-1-bromopropane.svg" aria-label="Open full-size diagram: chem-b29-aqa-hydroxide-sn2-1-bromopropane"><img src="/images/learning/chemistry/chem-b29-aqa-hydroxide-sn2-1-bromopropane.svg" width="1600" height="1050" alt="The oxygen lone pair in hydroxide attacks the delta-positive carbon bonded to bromine in 1-bromopropane while the C-Br bonding pair moves to bromine. The concerted substitution forms propan-1-ol and Br-. The source conditions are aqueous sodium or potassium hydroxide, warm, under reflux." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>The oxygen lone pair in hydroxide attacks the delta-positive carbon bonded to bromine in 1-bromopropane while the C-Br bonding pair moves to bromine. The concerted substitution forms propan-1-ol and Br-. The source conditions are aqueous sodium or potassium hydroxide, warm, under reflux. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:chem-b29-aqa-hydroxide-sn2-1-bromopropane -->
+
 
 Reagent and conditions: aqueous sodium or potassium hydroxide, warm (heat under reflux).
 
@@ -91,6 +131,14 @@ Label the dipole, draw arrow 1 from the oxygen lone pair (not the hydrogen), dra
 of the C–Br bond to Br, then show propan-1-ol and Br⁻.
 
 ### Cyanide ions: halogenoalkane → nitrile
+
+<!-- marlbridge-diagram:chem-obj-halogen-substitution-arrows-reuse3 -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/chemistry/chem-obj-halogen-substitution-arrows.svg" aria-label="Open full-size diagram: chem-obj-halogen-substitution-arrows"><img src="/images/learning/chemistry/chem-obj-halogen-substitution-arrows.svg" width="1528" height="940" alt="Cyanide attacks through its carbon lone pair as C–Br breaks; ammonia attacks through nitrogen, forms an ammonium intermediate, and a second ammonia removes H+." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Curly-arrow mechanisms: cyanide and ammonia substitution — Marlbridge Chemistry.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:chem-obj-halogen-substitution-arrows-reuse3 -->
+
 
 Reagent and conditions: potassium cyanide in aqueous ethanol, heat under reflux. The product is a
 **nitrile**, R–C≡N. The chain gets **one carbon longer**, which is useful in synthesis. Name the nitrile by
@@ -116,6 +164,14 @@ theoretical mass = 0.100 × 83.0 = 8.30 g
 
 ### Ammonia: halogenoalkane → primary amine
 
+<!-- marlbridge-diagram:chem-obj-halogen-substitution-arrows-reuse4 -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/chemistry/chem-obj-halogen-substitution-arrows.svg" aria-label="Open full-size diagram: chem-obj-halogen-substitution-arrows"><img src="/images/learning/chemistry/chem-obj-halogen-substitution-arrows.svg" width="1528" height="940" alt="Cyanide attacks through its carbon lone pair as C–Br breaks; ammonia attacks through nitrogen, forms an ammonium intermediate, and a second ammonia removes H+." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Curly-arrow mechanisms: cyanide and ammonia substitution — Marlbridge Chemistry.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:chem-obj-halogen-substitution-arrows-reuse4 -->
+
+
 Reagent and conditions: **excess** ammonia dissolved in ethanol, heated in a sealed container (under
 pressure). Two molecules of ammonia are used per halogenoalkane.
 
@@ -124,6 +180,14 @@ CH3CH2Br + 2NH3 → CH3CH2NH2 + NH4Br
 ```
 
 **Worked example 3 (outline the mechanism for bromoethane with NH₃).**
+
+<!-- marlbridge-diagram:chem-b33-aqa-bromoethane-ammonia-mechanism -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/chemistry/chem-b33-aqa-bromoethane-ammonia-mechanism.svg" aria-label="Open full-size diagram: chem-b33-aqa-bromoethane-ammonia-mechanism"><img src="/images/learning/chemistry/chem-b33-aqa-bromoethane-ammonia-mechanism.svg" width="1600" height="1050" alt="Bromoethane reacts with ammonia by nucleophilic substitution: the nitrogen lone pair forms a bond to the delta-positive carbon as the C–Br bond pair leaves. A second ammonia accepts a proton from the ethylammonium ion, giving ethylamine and ammonium bromide. The overall equation uses two NH3 molecules." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Bromoethane reacts with ammonia by nucleophilic substitution: the nitrogen lone pair forms a bond to the delta-positive carbon as the C–Br bond pair leaves. A second ammonia accepts a proton from the ethylammonium ion, giving ethylamine and ammonium bromide. The overall equation uses two NH3 molecules. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:chem-b33-aqa-bromoethane-ammonia-mechanism -->
+
 
 Step 1: arrow from the N lone pair of NH₃ to the δ+ carbon; arrow from the C–Br bond to Br.
 Step 2: this gives CH3CH2–NH3⁺ (positive charge on N) and Br⁻.
@@ -199,6 +263,14 @@ If you are unsure which layer is organic, add a little water and see which layer
 
 ## 3.3.3.2 Elimination
 
+<!-- marlbridge-diagram:chem-obj-halogen-e2-three-arrows-reuse2 -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/chemistry/chem-obj-halogen-e2-three-arrows.svg" aria-label="Open full-size diagram: chem-obj-halogen-e2-three-arrows"><img src="/images/learning/chemistry/chem-obj-halogen-e2-three-arrows.svg" width="1528" height="940" alt="Three-arrow E2 mechanism: hydroxide removes a beta hydrogen, the C–H bond pair forms C=C, and the C–Br bond pair leaves. Hydroxide substitution also produces propan-2-ol." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>E2 elimination from 2-bromopropane: three electron shifts — Marlbridge Chemistry.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:chem-obj-halogen-e2-three-arrows-reuse2 -->
+
+
 Hydroxide ions can react in two ways at the same time. With 2-bromopropane and potassium hydroxide, both
 **substitution** and **elimination** happen concurrently.
 
@@ -218,6 +290,14 @@ elimination:  CH3CHBrCH3 + OH⁻ → CH2=CHCH3 + H2O + Br⁻
 | Alkene (elimination) | ethanol (ethanolic KOH) | hot, under reflux |
 
 **Worked example 5 (outline the elimination mechanism for 2-bromopropane).**
+
+<!-- marlbridge-diagram:chem-b35-aqa-2-bromopropane-e2-mechanism -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/chemistry/chem-b35-aqa-2-bromopropane-e2-mechanism.svg" aria-label="Open full-size diagram: chem-b35-aqa-2-bromopropane-e2-mechanism"><img src="/images/learning/chemistry/chem-b35-aqa-2-bromopropane-e2-mechanism.svg" width="1600" height="1050" alt="For AQA 2-bromopropane, hydroxide removes a hydrogen on adjacent carbon 1; the C1–H pair forms C1=C2 as the C2–Br pair moves to bromine. Propene, water and bromide form in one concerted step, with no carbocation intermediate." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>For AQA 2-bromopropane, hydroxide removes a hydrogen on adjacent carbon 1; the C1–H pair forms C1=C2 as the C2–Br pair moves to bromine. Propene, water and bromide form in one concerted step, with no carbocation intermediate. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:chem-b35-aqa-2-bromopropane-e2-mechanism -->
+
 
 ```
   H   H

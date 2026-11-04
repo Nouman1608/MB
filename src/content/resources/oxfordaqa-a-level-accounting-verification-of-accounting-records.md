@@ -198,6 +198,13 @@ Method:
    cheques, and arrive at the updated cash book balance.
 
 ### Worked example 3: Heronsgate Bakery, 30 June 2026
+<!-- marlbridge-diagram:ac-b16-bank-reconciliation-sequence -->
+<figure class="study-guide-figure">
+  <img src="/images/learning/accounting/ac-b16-bank-reconciliation-sequence.svg" alt="Update the $3,860 cash-book balance for $1,240 credit transfer, $75 charges, $310 direct debit, $520 dishonoured cheque and $18 cheque error to $4,177; reconcile $4,412 bank statement plus $1,890 lodgement less $2,125 unpresented cheques to the same balance." loading="lazy" />
+  <figcaption>Correct the cash book for known entries before reconciling outstanding lodgements and unpresented cheques.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:ac-b16-bank-reconciliation-sequence -->
+
 
 The cash book showed a debit (favourable) balance of 3,860. The bank statement showed bank charges 75,
 a credit transfer from a customer 1,240, a direct debit for insurance 310 and a customer's cheque of 520

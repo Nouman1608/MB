@@ -166,7 +166,15 @@ A circle of radius r whose centre is the point (a, b) satisfies
 
 Note the minus signs. For centre (3, −5) the brackets are (x − 3) and (y + 5).
 
-**Worked example 8.** The circle has equation x² + y² + 6x − 8y + 9 = 0. State its centre and radius.
+**Worked example 8.** The circle has equation
+
+<!-- marlbridge-diagram:maths-b24-circle-completing-square-centre-radius -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/mathematics/maths-b24-circle-completing-square-centre-radius.svg" aria-label="Open full-size diagram: maths-b24-circle-completing-square-centre-radius"><img src="/images/learning/mathematics/maths-b24-circle-completing-square-centre-radius.svg" width="1600" height="1050" alt="Completing the square in x²+y²+6x−8y+9=0 gives (x+3)²+(y−4)²=16. The centre is (−3,4) and the radius is 4." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Completing the square in x²+y²+6x−8y+9=0 gives (x+3)²+(y−4)²=16. The centre is (−3,4) and the radius is 4. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:maths-b24-circle-completing-square-centre-radius -->
+ x² + y² + 6x − 8y + 9 = 0. State its centre and radius.
 
 Complete the square in x and in y.
 

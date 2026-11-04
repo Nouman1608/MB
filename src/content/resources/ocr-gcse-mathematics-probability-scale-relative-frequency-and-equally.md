@@ -89,6 +89,14 @@ Randomness also means that past results do not change the next one. If a fair co
 
 ## 11.01d: Two dice and simple combined events
 
+<!-- marlbridge-diagram:math-b40-ocr-j560-two-dice-sample-space-total-seven -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/mathematics/math-b40-ocr-j560-two-dice-sample-space-total-seven.svg" aria-label="Open full-size diagram: math-b40-ocr-j560-two-dice-sample-space-total-seven"><img src="/images/learning/mathematics/math-b40-ocr-j560-two-dice-sample-space-total-seven.svg" width="1600" height="1050" alt="Two dice: the 36-outcome sample space for a total of 7" loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Two dice: the 36-outcome sample space for a total of 7 Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:math-b40-ocr-j560-two-dice-sample-space-total-seven -->
+
+
 When two fair dice are rolled and the scores added, list every pair in a table. There are 36 equally likely pairs.
 
 ```
@@ -169,6 +177,14 @@ Seeds on the sunny shelf germinated more often (0.82 compared with 0.64), so in 
 When you are asked to record results, a tally table with a total row and a relative frequency column is clear and easy to check.
 
 ## 11.01c: Relative frequency as an estimate of probability
+
+<!-- marlbridge-diagram:math-b78-ocr-relative-frequency-bolts -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/public/images/learning/mathematics/math-b78-ocr-relative-frequency-bolts.svg" aria-label="Open full-size diagram: math-b78-ocr-relative-frequency-bolts"><img src="/public/images/learning/mathematics/math-b78-ocr-relative-frequency-bolts.svg" width="1528" height="940" alt="A test sample of 500 bolts with 18 faulty gives estimated probability 0.036; scaling that proportion to 3000 predicts 108 faulty bolts." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>A test sample of 500 bolts with 18 faulty gives estimated probability 0.036; scaling that proportion to 3000 predicts 108 faulty bolts.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:math-b78-ocr-relative-frequency-bolts -->
+
 
 If you cannot find a theoretical probability, the relative frequency from an experiment is your estimate of it. You can then use it for expected outcomes.
 

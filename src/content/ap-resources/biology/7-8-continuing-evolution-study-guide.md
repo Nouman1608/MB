@@ -13,7 +13,7 @@ prerequisiteResources: ["mb-ap-bio-7.7-study-guide"]
 learningObjectives:
   - "Explain why evolution is an ongoing process in every population, including humans"
   - "Use mutation rates and population sizes to show how genomes change from one generation to the next"
-  - "Interpret fossil data that show continuous change in a lineage"
+  - "Interpret sampled fossil data for morphological trends and explain the limits imposed by gaps and time resolution"
   - "Explain resistance to antibiotics, pesticides, herbicides and chemotherapy drugs as natural selection on existing variation"
   - "Explain how pathogens evolve and how this can lead to new or re-emerging diseases"
   - "Evaluate an investigation into evolving resistance and propose a better-designed follow-up investigation"
@@ -28,9 +28,9 @@ framework: { schoolYear: "2026-27", examSeries: "May 2027" }
 sources: ["ced-biology", "page-biology"]
 keyPoints:
   - "Every species is still evolving: new mutations arise each generation, and environments keep changing what is favoured."
-  - "Evidence includes changes in genomes over time, continuous change in fossil lineages, resistance to drugs and pesticides, and pathogens that cause new diseases."
-  - "Resistance is not caused by the drug. The drug selects variants that already exist, so they survive, reproduce and become common."
-  - "Large populations with short generations, such as bacteria, viruses and tumour cells, evolve fastest."
+  - "Evidence includes genome changes, fossil samples showing morphological trends, resistance to drugs and pesticides, and pathogens that cause new diseases."
+  - "Resistance mutations are not directed by need. Selection can increase variants already present and variants arising during treatment; some exposures can also alter mutation supply."
+  - "Large populations and short generation times can supply mutations quickly and allow rapid change, but evolution rate also depends on mutation, selection, drift, gene flow, effective population size and how rate is measured."
 faqs:
   - question: "Have humans stopped evolving?"
     answer: "No. New mutations arise in every human generation, and allele frequencies keep changing through selection, drift and migration. Human evolution is simply slow to see because a human generation is long."
@@ -53,12 +53,12 @@ It is easy to picture evolution as something that happened in the past: dinosaur
 
 Evolution continues because its causes never switch off.
 
-1. **New variation every generation.** DNA copying is not perfect, and some errors escape repair. So every generation carries new mutations. In sexually reproducing species, meiosis and fertilization reshuffle alleles too.
+1. **New variation can arise each generation.** DNA copying is not perfect, and some errors escape repair. Mutations arise across populations over time; no particular gene or population is guaranteed a new mutation in every generation. In sexually reproducing species, meiosis and fertilization also reshuffle alleles.
 2. **Environments change.** Climate, food supply, predators, parasites and human activity all shift. A trait that was neutral can become favoured or harmful.
 3. **Other species evolve.** A host evolves defences, its parasites evolve ways round them, and the host is under pressure again. Neither side reaches a finish line.
 4. **Chance.** Genetic drift changes allele frequencies at random, especially in small populations (Topic 7.4).
 
-Remember the unit of change. **Individuals do not evolve**: an individual keeps its genes for life. **Populations evolve**, as the proportions of alleles change from one generation to the next.
+In population genetics, evolution means a change in allele frequencies across generations, so populations and lineages evolve. An individual does not change its inherited allele frequencies through its lifetime, although somatic mutations can create evolving cell lineages, such as in tumours.
 
 ## Evidence 1: genomes change over time
 
@@ -71,20 +71,20 @@ How many new mutations appear? Use round model values for a bacterium:
 
 **Per generation in a population of 10⁹ cells:** 5 × 10⁻⁴ × 10⁹ = **5 × 10⁵ new mutations**.
 
-**At one particular base:** 10⁹ cells × 1 × 10⁻¹⁰ = 0.1 per generation, so about one cell in every ten generations carries a change at that exact base.
+**At one particular base:** 10⁹ cells × 1 × 10⁻¹⁰ = 0.1 per generation, so the model predicts an average of 0.1 new mutations at that site per population generation. This is an expectation, not a guarantee that one mutation appears in every ten generations.
 
-Each cell is unlikely to mutate, but a large population produces a huge supply of new variants every generation. That is why bacteria, viruses and tumours can evolve within weeks.
+Each cell division is unlikely to produce a mutation at any specified base, but large populations can generate many variants. Large population size and short generations can enable rapid evolution when relevant variation affects reproduction; neither factor alone guarantees a fast evolutionary response.
 
 Genome change has also been followed directly. A long-term laboratory experiment begun in 1988 has kept 12 populations of the bacterium *Escherichia coli* growing, about six to seven generations a day, and passed 80 000 generations in 2024. Samples are frozen at intervals, so later populations can be compared with their ancestors. The populations have kept accumulating mutations, and after more than 30 000 generations one population evolved the ability to use citrate in its growth medium as food, something the ancestor could not do in the presence of oxygen.
 
-## Evidence 2: continuous change in the fossil record
+## Evidence 2: trends in the fossil record
 
-Where rock layers form one on top of another without long gaps, fossils of one lineage can be followed through time. Many such sequences show traits shifting gradually, layer after layer. Figure 1 shows a fictional example.
+Where rock layers preserve fossils of one lineage across successive intervals, measured traits can be compared through time. Samples may show a gradual trend, but gaps and limited temporal resolution can hide pauses or faster changes between layers. Figure 1 is a fictional example of sampled means.
 
 <figure>
 <svg viewBox="0 0 580 330" role="img" aria-labelledby="fo-title fo-desc" xmlns="http://www.w3.org/2000/svg" font-family="system-ui, sans-serif">
 <title id="fo-title">Mean shell diameter of a fossil lineage through time</title>
-<desc id="fo-desc">Line graph with circle markers. Horizontal axis: age of rock layer in millions of years ago, from 6 on the left to 1 on the right, so time runs forward from left to right. Vertical axis: mean shell diameter in millimetres from 2.0 to 3.2. Values rise steadily: 2.10 at 6 million years ago, 2.32 at 5, 2.51 at 4, 2.74 at 3, 2.90 at 2 and 3.12 at 1.</desc>
+<desc id="fo-desc">Line graph with circle markers for means from six sampled rock layers. Horizontal axis: age of rock layer in millions of years ago, from 6 on the left to 1 on the right, so time runs forward from left to right. Vertical axis: mean shell diameter in millimetres from 2.0 to 3.2. Sampled values rise: 2.10 at 6 million years ago, 2.32 at 5, 2.51 at 4, 2.74 at 3, 2.90 at 2 and 3.12 at 1. Connecting segments are a visual guide only; there are no uncertainty intervals and the path between sampled layers is unknown.</desc>
 <rect x="0" y="0" width="580" height="330" fill="#ffffff"/>
 <line x1="80" y1="80" x2="500" y2="80" stroke="#1d2b44" stroke-width="0.5" stroke-dasharray="2 4"/>
 <line x1="80" y1="140" x2="500" y2="140" stroke="#1d2b44" stroke-width="0.5" stroke-dasharray="2 4"/>
@@ -111,14 +111,14 @@ Where rock layers form one on top of another without long gaps, fossils of one l
 <circle cx="400" cy="125" r="5" fill="#fdf6e3" stroke="#1d2b44" stroke-width="2"/>
 <circle cx="480" cy="92" r="5" fill="#fdf6e3" stroke="#1d2b44" stroke-width="2"/>
 </svg>
-<figcaption>Figure 1. Fictional data for one lineage of small marine shelled organisms, measured in six successive rock layers.</figcaption>
+<figcaption>Figure 1. Fictional means for one lineage of small marine shelled organisms in six sampled rock layers. Connecting segments guide the eye; they do not show the unsampled path or uncertainty.</figcaption>
 </figure>
 
-**Reading Figure 1.** Mean diameter rose from 2.10 mm to 3.12 mm over 5 million years: a change of 1.02 mm, or about 0.20 mm per million years. Each step between layers is similar (0.16 to 0.23 mm), so the change was continuous rather than one sudden jump. The trend says nothing by itself about **why** size increased. A change in water temperature, predators or food could each be tested against other data from the same layers.
+**Reading Figure 1.** The six sampled means rise from 2.10 mm to 3.12 mm over 5 million years: a difference of 1.02 mm, or about 0.20 mm per million years across the sampled interval. Successive means differ by 0.16 to 0.23 mm. This pattern is consistent with a gradual trend at the resolution sampled; it cannot show that change was continuous between layers or exclude faster shifts during gaps. No uncertainty or sample sizes are given. The trend says nothing by itself about **why** size increased.
 
 ## Evidence 3: resistance to the chemicals we use
 
-Humans apply strong selection when we use chemicals to kill organisms. The same logic works in four settings.
+Chemicals can impose strong selection in several settings. The examples share a simplified selection model, though mutations, gene transfer, and treatment responses differ among bacteria, insects, weeds and tumours.
 
 | Chemical | Population under selection | What becomes common |
 |---|---|---|
@@ -127,12 +127,12 @@ Humans apply strong selection when we use chemicals to kill organisms. The same 
 | Herbicide | weeds in a field | plants that survive spraying |
 | Chemotherapy drug | cancer cells in one patient's tumour | tumour cells that survive the drug, so the cancer can return |
 
-The steps are always the same (Figure 2).
+Figure 2 illustrates one selection pathway using a pre-existing resistant variant; other sources of variation can also contribute.
 
-1. **Variation exists first.** Random mutations mean a few individuals already have some resistance before the chemical is used.
+1. **Variation can pre-exist or arise.** Resistant variants may be present before exposure or arise by mutation during treatment. Mutations are not directed to meet the need; some exposures can alter mutation rates, while selection changes which heritable variants become common.
 2. **Selection.** The chemical kills most susceptible individuals. Resistant ones survive.
 3. **Inheritance and reproduction.** Survivors pass on the resistance alleles. (Bacteria can also gain them from other bacteria by horizontal gene transfer.)
-4. **Change in frequency.** After repeated use, most of the population is resistant and the chemical stops working.
+4. **Change in frequency.** Repeated use can increase the frequency of resistant variants and reduce the chemical effectiveness; the outcome depends on inheritance, exposure, costs and population conditions.
 
 <figure>
 <svg viewBox="0 0 620 230" role="img" aria-labelledby="rs-title rs-desc" xmlns="http://www.w3.org/2000/svg" font-family="system-ui, sans-serif">
@@ -169,7 +169,7 @@ The steps are always the same (Figure 2).
 <circle cx="330" cy="200" r="8" fill="#1d2b44" stroke="#1d2b44" stroke-width="2"/>
 <text x="344" y="205" font-size="13" fill="#1d2b44">resistant</text>
 </svg>
-<figcaption>Figure 2. The chemical does not create resistance. It removes susceptible individuals (open circles), so the resistant variant that was already present (filled) leaves most of the offspring.</figcaption>
+<figcaption>Figure 2. This simplified model begins with a resistant variant already present. Treatment removes more susceptible individuals (open circles), so the resistant variant (filled) becomes a larger share of regrowth. The diagram does not show new mutations that might arise during exposure.</figcaption>
 </figure>
 
 ## Evidence 4: pathogens and emergent diseases
@@ -183,7 +183,7 @@ Viruses and bacteria have huge populations and short generations, so they evolve
 
 ## Worked example 1: modelling selection by an antibiotic
 
-**Question.** Model an infection of 1.0 × 10¹⁰ bacteria. Assume resistance arises by mutation at a rate of 1 × 10⁻⁹ per cell, before any drug is given. During treatment, each day 1% of susceptible cells survive and all resistant cells survive. Ignore growth during treatment.
+**Question.** Use a simplified model of an infection of 1.0 × 10¹⁰ bacteria. Assume that before treatment, resistant cells are present at a frequency of 1 × 10⁻⁹ (10 cells). This is an assumed starting frequency, not a mutation rate. During treatment, each day 1% of susceptible cells and all resistant cells survive. Ignore growth and new mutations during treatment.
 
 (a) How many resistant cells are expected before treatment?
 (b) Find the frequency of resistant cells after each of days 1 to 5.
@@ -202,9 +202,9 @@ Viruses and bacteria have huge populations and short generations, so they evolve
 | 4 | 100 | 10 | 10 ÷ 110 ≈ 0.091 |
 | 5 | 1 | 10 | 10 ÷ 11 ≈ 0.91 |
 
-The number of resistant cells never changed. Only the susceptible cells were removed. In this model the immune system has not been included; in a real patient it usually clears the few surviving cells. If it cannot, the infection that grows back is almost all resistant.
+In this deliberately simplified model the resistant-cell count stays at 10 while susceptible cells are removed. The model omits immune responses, bacterial growth and new mutation, so it does not predict a clinical outcome. Depending on infection, treatment and host factors, immune responses may contribute to clearance; this is not represented by the table.
 
-**(c)** For a cell to survive two drugs with different targets, it needs two separate resistance mutations. With a rate of 1 × 10⁻⁹ for each, the chance for one cell is 1 × 10⁻⁹ × 1 × 10⁻⁹ = 1 × 10⁻¹⁸. Expected double-resistant cells in the infection: 10¹⁰ × 10⁻¹⁸ = **1 × 10⁻⁸**, effectively none. So resistance to the combination is very unlikely to be present at the start. This is the reasoning behind combination treatment for infections such as tuberculosis and HIV.
+**(c)** In a toy model with independent resistance probabilities of 1 × 10⁻⁹ for each drug, no cross-resistance and no linkage affecting the calculation, the chance of a cell already carrying both variants is 1 × 10⁻⁹ × 1 × 10⁻⁹ = 1 × 10⁻¹⁸. Expected double-resistant cells in 10¹⁰ bacteria: 10¹⁰ × 10⁻¹⁸ = **1 × 10⁻⁸**. This illustrates why independent resistance to a combination may be rare initially under these assumptions; real resistance rates and mechanisms are not necessarily independent.
 
 **Check.** Each resistant frequency is a number between 0 and 1, and it rises every day while the susceptible count falls by a factor of 100. That matches the model.
 
@@ -236,7 +236,7 @@ The report concludes: "Spraying has caused the mosquitoes in Village A to evolve
 
 ## Common misconceptions
 
-- **"The drug or pesticide causes the resistance mutation."** Mutations are random. The chemical selects variants that already exist.
+- **"The drug or pesticide causes a mutation because it is needed."** Mutations are not directed by need. Variants may exist before exposure or arise during it; some chemicals can be mutagenic, and stress can change mutation supply. Selection affects which variants reproduce.
 - **"Individuals become resistant or adapt during their lives."** A bacterium cannot change its genes because it needs to. The population changes as resistant individuals leave more offspring.
 - **"Evolution only happened in the past."** Genomes, fossils and resistance all show change happening continuously, including now.
 - **"Humans have stopped evolving because of medicine."** Medicine changes which traits are favoured; it does not stop mutation, drift or selection.

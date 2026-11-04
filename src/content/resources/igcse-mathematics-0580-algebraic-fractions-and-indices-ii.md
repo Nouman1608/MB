@@ -141,6 +141,14 @@ The same rules work for mixed fractional indices in products and quotients:
 
 ### Worked example 4 (Extended): equations needing a common base
 
+<!-- marlbridge-diagram:maths-b31-common-base-index-equations -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/mathematics/maths-b31-common-base-index-equations.svg" aria-label="Open full-size diagram: maths-b31-common-base-index-equations"><img src="/images/learning/mathematics/maths-b31-common-base-index-equations.svg" width="1600" height="1050" alt="Using 2 as the common base gives x=−1/3 for 8ˣ=1/2; using 3 gives x=4 for 9^(x+2)=27ˣ; using 5 gives x=−3/2 for (1/25)ˣ=125." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Using 2 as the common base gives x=−1/3 for 8ˣ=1/2; using 3 gives x=4 for 9^(x+2)=27ˣ; using 5 gives x=−3/2 for (1/25)ˣ=125. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:maths-b31-common-base-index-equations -->
+
+
 When the two sides use different numbers, such as 9 and 27, rewrite both as powers of a smaller base they share (here 3). Then use (aᵐ)ⁿ = aᵐⁿ and equate indices.
 
 Solve (a) 8ˣ = 1/2, (b) 9ˣ⁺² = 27ˣ, (c) (1/25)ˣ = 125.

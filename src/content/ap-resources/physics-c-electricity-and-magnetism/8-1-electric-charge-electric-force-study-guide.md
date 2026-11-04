@@ -14,7 +14,7 @@ learningObjectives:
   - "Describe charge as a scalar property that comes in whole-number multiples of e"
   - "Use Coulomb's law to find the size and direction of the force between two point charges"
   - "Add Coulomb forces as vectors to find the net force from up to four charges"
-  - "Compare electric and gravitational forces and explain why gravity dominates at large scales"
+  - "Compare electric and gravitational forces and explain why gravity can dominate the large-scale dynamics of nearly neutral bulk matter"
   - "Explain permittivity and polarisation, and the difference between conductors and insulators"
 skills: ["1", "2", "3"]
 studyMinutes: 50
@@ -30,7 +30,7 @@ keyPoints:
   - "Coulomb's law: F = |q₁q₂|/(4πε₀r²), directed along the line joining the charges."
   - "Like charges repel; unlike charges attract. The two forces in a pair are equal and opposite."
   - "With several charges, find each pair force separately, then add them as vectors."
-  - "The electric force between two particles is far larger than their gravitational force, but large bodies are almost neutral, so gravity wins at large scales."
+  - "Electric forces between charged particles can be far larger than gravity. In nearly neutral bulk matter, electric effects often cancel substantially; gravitational source mass is positive, but gravitational forces still add as vectors and may cancel directionally."
 faqs:
   - question: "Is the force formula different in the calculus-based course?"
     answer: "No. Coulomb's law is the same. The calculus-based course writes the constant as 1/(4πε₀) and later uses it to integrate over charge distributions (Topics 8.4 and 8.6)."
@@ -184,15 +184,15 @@ F_e / F_g = [(1/(4πε₀)) e²] ÷ [G m_p m_e] = (8.99 × 10⁹)(1.60 × 10⁻�
 
 The r² cancels, so this ratio is the same at every separation. (Masses used: m_p = 1.67 × 10⁻²⁷ kg, m_e = 9.11 × 10⁻³¹ kg.)
 
-**So why does gravity rule planets and stars?** Large bodies contain almost exactly equal numbers of positive and negative charges. Their electric forces nearly cancel: a neutral Earth exerts no net electric force on a neutral Moon. Mass has no negative version, so gravitational forces from every particle add up. At large scales gravity dominates, even though it is far weaker particle by particle.
+**Why can gravity control the large-scale motion of planets and stars?** Bulk matter is usually close to electrically neutral, so electric effects often cancel substantially at large scales. Positive mass density does not cancel as a scalar source, but gravitational forces are vectors: attractions from different directions can cancel at a point. Gravity often dominates the large-scale dynamics of nearly neutral astronomical bodies; charged bodies and plasmas can also have important electric effects.
 
 **Everyday forces are electric too.** The normal force from a table, friction, tension in a rope and the push of your hand all come from electric forces between the electrons and nuclei of neighbouring atoms. There are far too many interactions to add one by one. So in mechanics you treat them as **contact forces**, which are not fundamental forces, and you describe them with simpler models.
 
 ## Permittivity, polarisation, conductors and insulators
 
-**Polarisation.** An external electric field pulls a material's electrons slightly one way and its nuclei slightly the other. The material stays neutral overall, but one side becomes a little negative and the other a little positive. This induced separation of charge is **polarisation**.
+**Polarisation.** An external electric field can shift electron clouds and nuclei relative to one another, align permanent molecular dipoles, or move mobile charges, depending on the material and conditions. The material can remain neutral overall while its charge distribution changes. This response is **polarisation**.
 
-**Permittivity** measures how strongly a material or medium polarises in an electric field. It depends on how easily the electrons in the material can change their arrangement, which depends on what the material is made of and how its particles are arranged.
+**Permittivity** describes a material or medium’s response to an electric field. Its value depends on composition, structure and conditions such as frequency and temperature; electronic, ionic, molecular-orientation and mobile-charge responses can all contribute.
 
 - Empty space has a fixed permittivity, **ε₀ = 8.85 × 10⁻¹² C²/(N·m²)**. It is the ε₀ in Coulomb's law.
 - Every material has a permittivity that differs from ε₀. You will meet the ratio of the two, the dielectric constant κ, in Topics 10.3 and 10.4, when a material fills the gap of a capacitor.
@@ -230,7 +230,7 @@ Polarisation explains why a charged object attracts a neutral one. Figure 2 show
 <figcaption>Figure 2. A positive rod polarises a neutral insulator. Each molecule's negative side (−) shifts towards the rod and its positive side (+) away. The nearer negative charges are attracted more strongly than the farther positive charges are repelled, so the block is pulled towards the rod.</figcaption>
 </figure>
 
-In a conductor the electrons can move right across the object, so the separation of charge is much larger. A neutral piece of metal foil is therefore pulled more strongly than a neutral scrap of paper of the same size. (How objects are charged by contact and by induction is Topic 8.2.)
+In a conductor, mobile electrons can redistribute over the object, often producing a strong induced separation of charge. A neutral metal foil is therefore often attracted to a charged object. The force is not determined by sample size alone: material response, shape, separation and the field gradient also matter, so foil is not guaranteed to feel a greater force than every same-size piece of paper. (How objects are charged by contact and by induction is Topic 8.2.)
 
 ## Common misconceptions
 

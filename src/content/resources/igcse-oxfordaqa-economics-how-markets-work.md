@@ -106,6 +106,14 @@ An **indirect tax** shifts supply left; a **subsidy** shifts it right.
 
 ## Equilibrium and elasticity
 
+<!-- marlbridge-diagram:economics-oxfordaqa-igcse-demand-supply-price-mechanism -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/economics/economics-oxfordaqa-igcse-demand-supply-price-mechanism.svg" aria-label="Open full-size diagram: economics-oxfordaqa-igcse-demand-supply-price-mechanism"><img src="/images/learning/economics/economics-oxfordaqa-igcse-demand-supply-price-mechanism.svg" width="1600" height="1050" alt="Demand and supply conditions feed into the price mechanism; an illustrative market diagram distinguishes a curve shift from movement along a curve." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Demand and supply conditions feed into the price mechanism; an illustrative market diagram distinguishes a curve shift from movement along a curve. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:economics-oxfordaqa-igcse-demand-supply-price-mechanism -->
+
+
 Price settles where the plans of buyers and sellers coincide. Disequilibrium corrects itself: surpluses drive prices down, shortages drive them up.
 
 ```

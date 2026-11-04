@@ -118,6 +118,14 @@ Businesses operate within conditions they do not control. The specification name
 
 ## Worked example
 
+<!-- marlbridge-diagram:business-aqa-private-ltd-flotation-tradeoffs -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/business/business-aqa-private-ltd-flotation-tradeoffs.svg" aria-label="Open full-size diagram: business-aqa-private-ltd-flotation-tradeoffs"><img src="/images/learning/business/business-aqa-private-ltd-flotation-tradeoffs.svg" width="1600" height="1050" alt="Advantages and risks of a private limited company floating shares, ending with the contextual choice between expansion finance and control." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Private limited company flotation: weigh funding against control Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:business-aqa-private-ltd-flotation-tradeoffs -->
+
+
 A private limited company is considering floating on the stock market. Assess the decision.
 
 ```

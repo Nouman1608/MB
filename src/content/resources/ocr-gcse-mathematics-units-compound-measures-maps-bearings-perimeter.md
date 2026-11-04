@@ -200,6 +200,14 @@ Arc = 80/360 × 2 × π × 9 = 2/9 × 18π = 4π cm
 
 ## 10.02c Perimeter of composite shapes
 
+<!-- marlbridge-diagram:math-b74-ocr-composite-window-perimeter -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/public/images/learning/mathematics/math-b74-ocr-composite-window-perimeter.svg" aria-label="Open full-size diagram: math-b74-ocr-composite-window-perimeter"><img src="/public/images/learning/mathematics/math-b74-ocr-composite-window-perimeter.svg" width="1528" height="940" alt="A window combines a rectangle and semicircle; the shared inside join is excluded and the exposed sides plus arc give perimeter 6.08 m." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>A window combines a rectangle and semicircle; the shared inside join is excluded and the exposed sides plus arc give perimeter 6.08 m.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:math-b74-ocr-composite-window-perimeter -->
+
+
 Split the outline into straight pieces and arcs. Count only the outside edge.
 
 **Worked example 14 (running track).** A track has two straight sides of 60 m and two semicircular ends. Each end has diameter 30 m.

@@ -92,6 +92,14 @@ both before analysing it.
 
 ## Worked example: the price mechanism's three functions
 
+<!-- marlbridge-diagram:economics-price-mechanism-surplus-functions -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/economics/economics-price-mechanism-surplus-functions.svg" aria-label="Open full-size diagram: economics-price-mechanism-surplus-functions"><img src="/images/learning/economics/economics-price-mechanism-surplus-functions.svg" width="1600" height="1050" alt="An equilibrium graph labels consumer and producer surplus; adjacent cards explain the price mechanism’s signalling, incentive and rationing functions." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Equilibrium: price functions and market surplus Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:economics-price-mechanism-surplus-functions -->
+
+
 A question asks how the price mechanism allocates a scarce good
 without central planning.
 

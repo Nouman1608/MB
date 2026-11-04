@@ -130,6 +130,14 @@ AG = **1.375 m**. This is on the B side of the midpoint, 1.2 m from A, so the as
 
 ## Hinges and laminas (3.04c)
 
+<!-- marlbridge-diagram:math-b65-hinge-lamina-moments-and-reaction -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/public/images/learning/mathematics/math-b65-hinge-lamina-moments-and-reaction.svg" aria-label="Open full-size diagram: math-b65-hinge-lamina-moments-and-reaction"><img src="/public/images/learning/mathematics/math-b65-hinge-lamina-moments-and-reaction.svg" width="1528" height="940" alt="For the source uniform 1.2 m, 20 kg flap at 30°, T=10g cos30°=84.9 N. Resolving gives H=42.4 N and V=122.5 N; resultant is about 130 N at 70.9°." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>For the source uniform 1.2 m, 20 kg flap at 30°, T=10g cos30°=84.9 N. Resolving gives H=42.4 N and V=122.5 N; resultant is about 130 N at 70.9°. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:math-b65-hinge-lamina-moments-and-reaction -->
+
+
 A hinge supplies a force of unknown size and direction. Do not guess its direction. Call its components H (horizontal) and V (vertical), then find them by resolving. Take moments about the hinge, because both H and V then have zero moment.
 
 **Worked example 5.** A uniform rectangular flap has width 1.2 m and mass 20 kg. It is hinged along its lower edge on a horizontal base and held open at 30° above the horizontal by a light rope attached to the free edge. The rope is perpendicular to the flap, in the vertical plane through the flap's mid-line. Find the tension T and the force at the hinge.

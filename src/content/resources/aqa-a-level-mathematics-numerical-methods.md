@@ -34,6 +34,14 @@ free [10-minute diagnostics](/diagnostics/) show where to start.
 
 ## What Section I covers
 
+<!-- marlbridge-diagram:maths-aqa-numerical-methods-method-selection-map -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/mathematics/maths-aqa-numerical-methods-method-selection-map.svg" aria-label="Open full-size diagram: maths-aqa-numerical-methods-method-selection-map"><img src="/images/learning/mathematics/maths-aqa-numerical-methods-method-selection-map.svg" width="1600" height="1050" alt="A method-selection map contrasts root bracketing, fixed-point iteration, Newton–Raphson and trapezium estimates with assumptions and common failure modes." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>A method-selection map contrasts root bracketing, fixed-point iteration, Newton–Raphson and trapezium estimates with assumptions and common failure modes. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:maths-aqa-numerical-methods-method-selection-map -->
+
+
 | Ref | What you must be able to do |
 |---|---|
 | I1 | Locate roots of f(x) = 0 by a change of sign of f(x) over an interval where f is sufficiently well-behaved; understand how change of sign methods can fail |

@@ -35,6 +35,13 @@ Related pages: [revision notes](/resources/ocr-gcse-physics-ionisation-half-life
 | P6.1l | Recall how alpha particles, beta particles and gamma rays differ in penetration |
 
 ## Electron energy levels and ionisation (P6.1h)
+<!-- marlbridge-diagram:phys-ocr-b25-electron-energy-level-transitions -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/physics/phys-ocr-b25-electron-energy-level-transitions.svg" aria-label="Open full-size diagram: phys-ocr-b25-electron-energy-level-transitions"><img src="/images/learning/physics/phys-ocr-b25-electron-energy-level-transitions.svg" width="1600" height="1050" alt="A vertical energy-level diagram shows an electron absorbing a photon and moving from a lower bound level to a higher one, then emitting a photon as it falls back. A separate ionisation path shows the electron gaining enough energy to leave the atom; excitation remains bound, while ionisation leaves a positive ion." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>The energy-level ladder distinguishes excitation (a transition between bound states) from ionisation (the electron escapes). Emission occurs when an electron drops to a lower level and releases electromagnetic radiation. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:phys-ocr-b25-electron-energy-level-transitions -->
+
 
 An atom has a small, positive nucleus. The electrons are arranged at different distances from it. Each arrangement corresponds to a different energy level. Electrons closer to the nucleus are at lower energy levels than electrons further out.
 

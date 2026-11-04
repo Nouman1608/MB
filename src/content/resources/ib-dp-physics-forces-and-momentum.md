@@ -99,6 +99,16 @@ gravity, friction, the normal force) happens to be providing the
 centre-directed resultant in a given scenario, and misidentifying it as
 an independent force is one of the most common errors at this level.
 
+## Newton's three laws and force interactions
+
+Newton's laws describe how interactions change motion. A force is not a property an object carries by itself: it is part of an interaction between two bodies, and each body exerts a force on the other.
+
+1. **First law:** In an inertial reference frame, an object remains at rest or moves at constant velocity unless a non-zero resultant force acts on it. Zero resultant force means zero acceleration, not necessarily zero velocity.
+2. **Second law:** The resultant force equals the rate of change of momentum, **F_net = Δp/Δt**. For constant mass this becomes **F_net = ma**, with acceleration in the direction of the resultant force. For example, a 12 N resultant force on a 3 kg trolley gives a = 12/3 = **4 m/s²**.
+3. **Third law:** If body A exerts a force on body B, body B simultaneously exerts an equal-magnitude, opposite-direction force on A. The pair acts on **different bodies**, so the forces do not cancel in the free-body diagram of either one. A foot pushes the ground backwards; the ground pushes the foot forwards.
+
+The first law identifies when the resultant is zero, the second predicts the resulting acceleration or momentum change, and the third identifies the partner force in every interaction. Draw a separate free-body diagram for each body before applying the second law.
+
 ## Common mistakes
 
 Applying F = Δp/Δt to the rocket alone as if that fixes the problem of its changing mass, without accounting for the momentum carried away by the ejected fuel. The rocket by itself is not a closed system, so its own F = ma still holds once the thrust force from the escaping exhaust is included as an external force; alternatively, take Δp/Δt for the total momentum of the closed rocket-plus-exhaust system, which requires no external force to stay constant. Treating

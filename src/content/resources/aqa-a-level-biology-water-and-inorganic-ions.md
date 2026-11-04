@@ -122,6 +122,11 @@ Inorganic ions are charged particles. They occur **in solution** in cytoplasm an
 
 ### Hydrogen ions and pH
 
+
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <!-- marlbridge-diagram:enzyme-temperature-ph --><a href="/images/learning/biology/enzyme-temperature-ph.svg" aria-label="Open full-size diagram: Why temperature and pH affect enzymes" title="Why temperature and pH affect enzymes"><img src="/images/learning/biology/enzyme-temperature-ph.svg" width="1528" height="871" alt="Temperature below the optimum affects kinetic energy and effective collisions; excessive heat changes the active site. Different enzymes have different optimum pH values." title="Why temperature and pH affect enzymes" loading="lazy" decoding="async" style="display:block;width:100%;height:auto;" /></a>
+  <figcaption>Temperature and pH affect enzyme activity by changing collision frequency and active-site shape; different enzymes have different pH optima. Select the diagram to enlarge it.</figcaption>
+</figure>
 pH measures hydrogen ion concentration: pH = −log₁₀[H⁺]. A **lower pH means a higher H⁺ concentration**. One pH unit is a tenfold change, so pH 5 has 100 times the H⁺ concentration of pH 7.
 
 H⁺ ions interact with the R groups of amino acids in proteins. A change in H⁺ concentration alters R-group charges, disrupts ionic and hydrogen bonds, and changes tertiary structure. In an enzyme this changes the shape of the active site, so substrate no longer fits and the enzyme may be denatured. Hence enzymes have an optimum pH, and organisms regulate their internal pH.
@@ -150,6 +155,11 @@ Haemoglobin is a protein with four polypeptide chains. Each carries a **haem gro
 
 ### Sodium ions and co-transport
 
+
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <!-- marlbridge-diagram:intestinal-sodium-glucose --><a href="/images/learning/biology/intestinal-sodium-glucose.svg" aria-label="Open full-size diagram: Absorb glucose using an ion gradient" title="Absorb glucose using an ion gradient"><img src="/images/learning/biology/intestinal-sodium-glucose.svg" width="1528" height="871" alt="Three membrane steps distinguish ATP-driven pumping, sodium–glucose cotransport and basolateral facilitated exit." title="Absorb glucose using an ion gradient" loading="lazy" decoding="async" style="display:block;width:100%;height:auto;" /></a>
+  <figcaption>Trace sodium-potassium pumping, sodium–glucose cotransport and glucose exit across the intestinal epithelial cell. Select the diagram to enlarge it.</figcaption>
+</figure>
 **Co-transport** moves two substances across a membrane together through one carrier protein. In the ileum it absorbs glucose and amino acids.
 
 1. A sodium-potassium pump in the basal membrane of an epithelial cell uses ATP to move Na⁺ **out** of the cell into the blood. Na⁺ concentration inside the cell falls.

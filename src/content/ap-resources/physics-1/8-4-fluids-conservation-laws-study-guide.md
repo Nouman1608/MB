@@ -114,7 +114,7 @@ Divide by V and collect the terms for each point:
 
 **P₁ + ρgy₁ + ½ρv₁² = P₂ + ρgy₂ + ½ρv₂²**
 
-This is **Bernoulli's equation**. Every term has units of Pa, which is the same as J/m³, so each one is an **energy per unit volume**. The total P + ρgy + ½ρv² is the same at every point along an ideal flow. Energy is not lost, because an ideal fluid has no viscosity to turn kinetic energy into thermal energy.
+This is **Bernoulli's equation**. Every term has units of Pa, which is the same as J/m³, so each one is an **energy per unit volume**. For **steady, incompressible, inviscid flow**, the total P + ρgy + ½ρv² is constant **along the same streamline**, provided no pump, turbine or other intervening process adds or removes mechanical energy. This simple equality omits viscous dissipation. Do not assume the same constant on unrelated streamlines without further conditions.
 
 **Two checks that it makes sense:**
 
@@ -183,7 +183,7 @@ This is **Torricelli's result**. It is exactly the speed an object reaches after
 2. **(b)** A₁ = π(0.010 m)² = 3.14 × 10⁻⁴ m². V/t = A₁v₁ = 3.14 × 10⁻⁴ × 1.5 = **4.7 × 10⁻⁴ m³/s** (0.47 L/s). Using the nozzle gives the same: π(0.0050)² × 6.0 = 4.7 × 10⁻⁴ m³/s.
 3. **(c)** t = V ÷ (V/t) = 0.012 m³ ÷ 4.71 × 10⁻⁴ m³/s = **25 s**.
 
-**Interpretation.** The nozzle makes the water faster but does **not** fill the bucket faster: the flow rate is the same everywhere along the hose.
+**Interpretation.** With the **given upstream speed of 1.5 m/s**, the nozzle has the larger local speed while its volume flow rate equals that elsewhere in the same operating flow. Continuity compares locations in this one state. Fitting or changing a real nozzle can alter the operating flow rate; unchanged flow before and after such a change would require an additional supply condition.
 
 ## Worked example 2: pressure in a narrow section
 
@@ -223,7 +223,7 @@ Real water has some viscosity, so a little mechanical energy is lost as it squee
 - **"Faster fluid has higher pressure."** In a level pipe it is the other way round (Worked example 2). Pressure is the push the fluid exerts, not its speed.
 - **"A narrower pipe slows the fluid down."** For a full pipe of incompressible fluid, a narrower section means **faster** flow (continuity).
 - **Using the diameter ratio instead of the area ratio.** Area goes as diameter squared. Halving the diameter quadruples the speed (Worked example 1).
-- **"A nozzle increases the flow rate."** It increases the speed, but the volume per second is set by the supply, not by the nozzle.
+- **"Continuity proves a nozzle cannot change the flow rate."** Continuity makes the flow rate equal at connected sections **within one operating state**. A narrower section then has greater speed. Comparing different nozzles also requires the supply/pump and flow-resistance conditions; do not infer an unchanged operating flow rate from continuity alone.
 - **"Water leaves a hole faster if it is denser."** Density cancels in v = √(2gh). Only the depth below the surface matters.
 - **Mixing gauge and absolute pressure** in one Bernoulli equation. Pick one and use it at both points.
 - **Forgetting the height term.** If the two points are at different heights, ρgy changes, even if the speed does not.

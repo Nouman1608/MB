@@ -26,6 +26,13 @@ Use it with the [revision notes](/resources/aqa-a-level-chemistry-transition-met
 
 ## What this section covers
 
+<!-- marlbridge-diagram:chem-b22-transition-metal-shapes-isomerism-overview -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/chemistry/chem-b22-transition-metal-shapes-isomerism-overview.svg" aria-label="Open full-size diagram: Transition-metal complex shapes and isomerism"><img src="/images/learning/chemistry/chem-b22-transition-metal-shapes-isomerism-overview.svg" width="1528" height="940" alt="Four panels compare six-coordinate octahedral, four-coordinate tetrahedral, square-planar cisplatin with adjacent chloride ligands, and linear Tollens [Ag(NH3)2]+ geometry. A lower strip distinguishes octahedral cis/trans positions, shows a tris-chelate optical mirror cue, and separates coordination-sphere cis/trans descriptors from E/Z nomenclature for suitable multiple-bond stereochemistry." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>For detailed octahedral cis/trans and the related bis-chelate mirror pair, see &lt;a href=&quot;/images/learning/chemistry/complete-chem-octahedral-cis-trans-chelates.svg&quot;&gt;the octahedral isomer diagram&lt;/a&gt;. For cisplatin’s DNA adduct, see &lt;a href=&quot;/images/learning/chemistry/chem-b21-cisplatin-guanine-crosslink.svg&quot;&gt;the cisplatin mechanism diagram&lt;/a&gt;. Schematic projections are not to scale. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:chem-b22-transition-metal-shapes-isomerism-overview -->
+
 | Spec section | What you must be able to do | Status |
 |---|---|---|
 | 3.2.5.1 General properties | Link Ti–Cu properties to an incomplete d sub-level; define ligand, complex, co-ordination number | A-level only |
@@ -77,6 +84,22 @@ The copper reaction (with excess ammonia) shows **incomplete substitution**: fou
 
 ### Bidentate and multidentate ligands
 
+<!-- marlbridge-diagram:chem-obj-ligand-denticity-haem -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/chemistry/chem-obj-ligand-denticity-haem.svg" aria-label="Open full-size diagram: chem-obj-ligand-denticity-haem"><img src="/images/learning/chemistry/chem-obj-ligand-denticity-haem.svg" width="1528" height="940" alt="Oxalate or ethane-1,2-diamine forms two coordinate bonds; EDTA4− can bind through six donor atoms; haem Fe(II) has four porphyrin nitrogen donors and axial ligand sites." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Bidentate and multidentate ligand coordination — Marlbridge Chemistry.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:chem-obj-ligand-denticity-haem -->
+
+
+<!-- marlbridge-diagram:chem-b28-transition-metal-ligand-donor-sites -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/chemistry/chem-b28-transition-metal-ligand-donor-sites.svg" aria-label="Open full-size diagram: chem-b28-transition-metal-ligand-donor-sites"><img src="/images/learning/chemistry/chem-b28-transition-metal-ligand-donor-sites.svg" width="1600" height="1050" alt="Schematic donor atom connections show the two nitrogen atoms in ethane-1,2-diamine and one oxygen from each end of ethanedioate binding the same metal centre. EDTA4- is represented with two nitrogen and four carboxylate oxygen donor atoms. A haemoglobin panel shows Fe2+ within a multidentate haem ligand and oxygen binding at an axial site, with carbon monoxide able to replace oxygen." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Schematic donor atom connections show the two nitrogen atoms in ethane-1,2-diamine and one oxygen from each end of ethanedioate binding the same metal centre. EDTA4- is represented with two nitrogen and four carboxylate oxygen donor atoms. A haemoglobin panel shows Fe2+ within a multidentate haem ligand and oxygen binding at an axial site, with carbon monoxide able to replace oxygen. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:chem-b28-transition-metal-ligand-donor-sites -->
+
+
 - **Bidentate** ligands form two co-ordinate bonds: ethane-1,2-diamine, H₂NCH₂CH₂NH₂ (often written "en"), and ethanedioate, C₂O₄²⁻.
 - **Multidentate** ligands form several: EDTA⁴⁻ forms six.
 
@@ -84,11 +107,11 @@ The copper reaction (with excess ammonia) shows **incomplete substitution**: fou
 
 ### The chelate effect
 
-Bidentate and multidentate ligands replace monodentate ligands from complexes. This is the **chelate effect**. Explain it with the balance of enthalpy and entropy:
+Bidentate and multidentate ligands can replace monodentate ligands from complexes. This is the **chelate effect**. Explain the usual syllabus example with the balance of enthalpy and entropy; the signs depend on the reaction and conditions, so check the balanced equation and data for the case given:
 
 - **ΔH is small**: similar numbers of similar co-ordinate bonds are broken and made.
-- **ΔS is positive**: the number of particles in solution increases.
-- So ΔG = ΔH − TΔS is negative and the reaction is feasible.
+- **In this common example, ΔS is positive**: the number of particles in solution increases.
+- When the stated ΔH and ΔS give ΔG = ΔH − TΔS < 0, the reaction is feasible under those conditions.
 
 ### Worked example 2: counting particles and finding ΔG
 
@@ -112,9 +135,16 @@ With EDTA⁴⁻, [Cu(H₂O)₆]²⁺ + EDTA⁴⁻ → [Cu(EDTA)]²⁻ + 6H₂O g
 
 **Isomerism** (draw the complexes in 3D with wedges):
 
-- **Octahedral, monodentate ligands**: cis–trans isomerism, a special case of E–Z isomerism. In [Co(NH₃)₄Cl₂]⁺ the two Cl⁻ ligands are either at 90° (cis) or at 180° (trans).
+- **Octahedral, monodentate ligands**: **geometric cis–trans isomerism**. In [Co(NH₃)₄Cl₂]⁺ the two Cl⁻ ligands are either adjacent at 90° (cis) or opposite at 180° (trans). E/Z notation is used for suitable organic C=C arrangements; it is not generally used to name these octahedral complex isomers.
 - **Octahedral, bidentate ligands**: optical isomerism. [Ni(H₂NCH₂CH₂NH₂)₃]²⁺ exists as two non-superimposable mirror images.
 - **Square planar**: cis–trans isomerism. **Cisplatin is the cis isomer**: both Cl⁻ ligands are on the same side, at 90°.
+
+<!-- marlbridge-diagram:chem-batch-geometry-isomerism -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/chemistry/chem-batch-geometry-isomerism.svg" aria-label="Open full-size diagram: geometric and optical isomerism in complexes"><img src="/images/learning/chemistry/chem-batch-geometry-isomerism.svg" width="1600" height="1050" alt="Four schematic panels compare cis and trans octahedral [Co(NH3)4Cl2]+ by the 90 degree and 180 degree angle between chloride ligands, show two non-superimposable mirror-image tris(ethane-1,2-diamine) octahedral forms, and compare cisplatin with its trans isomer in square-planar geometry." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Complex-ion examples of geometric and optical isomerism. The diagrams are schematic; wedges and dashed bonds show depth.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:chem-batch-geometry-isomerism -->
 
 ### Worked example 3: co-ordination number and charge
 
@@ -122,7 +152,14 @@ With EDTA⁴⁻, [Cu(H₂O)₆]²⁺ + EDTA⁴⁻ → [Cu(EDTA)]²⁻ + 6H₂O g
 
 ## 3.2.5.4 Formation of coloured ions
 
-Transition metal ions can be identified by their colour. Colour arises when **some wavelengths of visible light are absorbed** and the **remaining wavelengths are transmitted or reflected**. When light is absorbed, d electrons move from the ground state to an excited state. The energy gap is:
+<!-- marlbridge-diagram:chem-b17-transition-metal-light-absorption -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/chemistry/chem-b17-transition-metal-light-absorption.svg" aria-label="Open full-size diagram: Ligand fields set the absorbed photon energy"><img src="/images/learning/chemistry/chem-b17-transition-metal-light-absorption.svg" width="1528" height="940" alt="Relative d-orbital energy-level diagrams show three lower and two higher levels for an octahedral field, and two lower and three higher levels for a tetrahedral field. Absorption promotes an electron across the gap ΔE = hν = hc/λ; the remaining transmitted or reflected light contributes to the observed colour." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Schematic relative energies only. Different ligand and geometry change the splitting; observed solution colour depends on absorbed and remaining visible wavelengths. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:chem-b17-transition-metal-light-absorption -->
+
+Transition metal ions can be identified by their colour. Colour arises when **some wavelengths of visible light are absorbed** and the **remaining wavelengths are transmitted or reflected**. In many transition-metal complexes, a common explanation is promotion of d electrons from the ground state to an excited state; charge-transfer transitions can also contribute to observed colour. The energy gap for an absorbed photon is:
 
 **ΔE = hν = hc/λ**
 
@@ -137,6 +174,14 @@ A complex absorbs most strongly at 620 nm. Take h = 6.63 × 10⁻³⁴ J s, c = 
 3. Per mole: 3.21 × 10⁻¹⁹ × 6.02 × 10²³ = 1.93 × 10⁵ J = **193 kJ mol⁻¹**.
 
 ### Colorimetry
+
+<!-- marlbridge-diagram:chem-obj-colour-energy-calibration -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/chemistry/chem-obj-colour-energy-calibration.svg" aria-label="Open full-size diagram: chem-obj-colour-energy-calibration"><img src="/images/learning/chemistry/chem-obj-colour-energy-calibration.svg" width="1528" height="940" alt="A photon of energy ΔE=hν=hc/λ promotes a d electron; a labelled calibration graph relates absorbance to concentration and an unknown sample is interpolated." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>d-electron absorption and colorimetry calibration — Marlbridge Chemistry.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:chem-obj-colour-energy-calibration -->
+
 
 Absorption of visible light is used in spectroscopy; a simple colorimeter measures it.
 

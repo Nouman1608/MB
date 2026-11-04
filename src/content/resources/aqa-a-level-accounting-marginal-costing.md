@@ -107,6 +107,14 @@ Units for target profit = (total fixed costs + target profit) ÷ contribution pe
 
 ### Worked example 2: Fernhill Joinery
 
+<!-- marlbridge-diagram:accounting-marginal-costing-break-even -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/accounting/accounting-marginal-costing-break-even.svg" aria-label="Open full-size diagram: accounting-marginal-costing-break-even"><img src="/images/learning/accounting/accounting-marginal-costing-break-even.svg" width="1600" height="1050" alt="Break-even chart uses fixed costs £61,600, variable cost £66 per bench and sales price £110; it marks break-even at 1,400 benches / £154,000 and shows profit/loss regions." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Break-even chart uses fixed costs £61,600, variable cost £66 per bench and sales price £110; it marks break-even at 1,400 benches / £154,000 and shows profit/loss regions. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:accounting-marginal-costing-break-even -->
+
+
 1. Break-even = 61 600 ÷ 44 = **1 400 benches**.
 2. Break-even revenue = 1 400 × 110 = **£154 000**. Check: C/S ratio = 44 ÷ 110 = 0.4, and
    61 600 ÷ 0.4 = £154 000.

@@ -63,6 +63,14 @@ in terms of an economy's growth
 
 ## Worked examples
 
+<!-- marlbridge-diagram:economics-igcse-basic-problem-ppc -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/economics/economics-igcse-basic-problem-ppc.svg" aria-label="Open full-size diagram: economics-igcse-basic-problem-ppc"><img src="/images/learning/economics/economics-igcse-basic-problem-ppc.svg" width="1600" height="1050" alt="Production possibility curve with Good A and Good B axes, solid current frontier, dashed outward frontier, a labelled efficient point on the curve, an inefficient point inside, an unattainable point beyond and an arrow for movement along the frontier." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>A move along the frontier reallocates resources; an outward shift represents increased productive capacity. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:economics-igcse-basic-problem-ppc -->
+
+
 **Free good vs economic good.** Air is a **free good** — unlimited in
 supply, with no opportunity cost and no price. Oil is an **economic
 good** — scarce relative to demand, so obtaining it has an opportunity

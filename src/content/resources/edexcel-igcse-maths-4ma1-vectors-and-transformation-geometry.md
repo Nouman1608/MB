@@ -147,6 +147,14 @@ On a grid, use tracing paper pinned at the centre. With coordinates, subtract th
 
 **Worked example 5.** Triangle T has vertices (3, 2), (5, 2) and (3, 5). Rotate T through +90° about (2, 1).
 
+<!-- marlbridge-diagram:maths-b30-rotation-triangle-about-centre -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/mathematics/maths-b30-rotation-triangle-about-centre.svg" aria-label="Open full-size diagram: maths-b30-rotation-triangle-about-centre"><img src="/images/learning/mathematics/maths-b30-rotation-triangle-about-centre.svg" width="1600" height="1050" alt="A +90° rotation about (2,1) maps (3,2), (5,2), (3,5) to (1,2), (1,4), (−2,2). Subtract the centre, rotate (x,y) to (−y,x), then add the centre back." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>A +90° rotation about (2,1) maps (3,2), (5,2), (3,5) to (1,2), (1,4), (−2,2). Subtract the centre, rotate (x,y) to (−y,x), then add the centre back. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:maths-b30-rotation-triangle-about-centre -->
+
+
 ```
 Subtract the centre:   (1, 1), (3, 1), (1, 4)
 Turn +90°: (x, y) → (−y, x)   gives (−1, 1), (−1, 3), (−4, 1)

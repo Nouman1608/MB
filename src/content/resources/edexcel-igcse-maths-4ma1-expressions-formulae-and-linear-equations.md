@@ -140,7 +140,15 @@ y = (3x - 5)/4
 x = (4y + 5)/3       (divide by 3)
 ```
 
-**Worked example 7.** Make h the subject of A = ½(a + b)h, then find h when A = 42, a = 5 and b = 9.
+**Worked example 7.** Make h the subject of A = ½(a + b)h
+
+<!-- marlbridge-diagram:maths-b26-trapezium-height-subject-rearrangement -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/mathematics/maths-b26-trapezium-height-subject-rearrangement.svg" aria-label="Open full-size diagram: maths-b26-trapezium-height-subject-rearrangement"><img src="/images/learning/mathematics/maths-b26-trapezium-height-subject-rearrangement.svg" width="1600" height="1050" alt="A trapezium with parallel sides a=5 cm and b=9 cm has area A=42 cm². From A=½(a+b)h, multiply by 2 and divide by a+b to get h=2A/(a+b)=84/14=6 cm." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>A trapezium with parallel sides a=5 cm and b=9 cm has area A=42 cm². From A=½(a+b)h, multiply by 2 and divide by a+b to get h=2A/(a+b)=84/14=6 cm. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:maths-b26-trapezium-height-subject-rearrangement -->
+, then find h when A = 42, a = 5 and b = 9.
 
 ```
 2A = (a + b)h

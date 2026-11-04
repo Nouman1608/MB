@@ -180,6 +180,14 @@ Efficient habits:
 
 ### Worked example 8 (calculator)
 
+<!-- marlbridge-diagram:maths-b35-circle-area-keep-calculator-ans -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/mathematics/maths-b35-circle-area-keep-calculator-ans.svg" aria-label="Open full-size diagram: maths-b35-circle-area-keep-calculator-ans"><img src="/images/learning/mathematics/maths-b35-circle-area-keep-calculator-ans.svg" width="1600" height="1050" alt="From C=30 cm, r=30/(2π)=4.774648… cm. Using the calculator’s unrounded Ans gives A=πr²=71.619… cm², or 71.6 cm² to 3 significant figures. Re-entering 4.77 gives 71.480… and the incorrect rounded result 71.5 cm²." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>From C=30 cm, r=30/(2π)=4.774648… cm. Using the calculator’s unrounded Ans gives A=πr²=71.619… cm², or 71.6 cm² to 3 significant figures. Re-entering 4.77 gives 71.480… and the incorrect rounded result 71.5 cm². Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:maths-b35-circle-area-keep-calculator-ans -->
+
+
 A circle has circumference 30 cm. Find (a) its radius, (b) its area.
 
 ```

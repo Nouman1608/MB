@@ -110,6 +110,14 @@ Using a compass and straight edge, you should be able to: bisect an angle; const
 
 ## Circle geometry and theorems
 
+<!-- marlbridge-diagram:math-b46-myp-circle-chord-perpendicular -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/mathematics/math-b46-myp-circle-chord-perpendicular.svg" aria-label="Open full-size diagram: math-b46-myp-circle-chord-perpendicular"><img src="/images/learning/mathematics/math-b46-myp-circle-chord-perpendicular.svg" width="1600" height="1050" alt="Circle O has radius 13 cm and chord AB=24 cm. Perpendicular OM meets AB at midpoint M, so AM=MB=12 cm. Right triangle OMA gives OM=5 cm. A companion panel shows the 124°/62° same-arc relation and 105°/75° opposite cyclic quadrilateral angles." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Circle O has radius 13 cm and chord AB=24 cm. Perpendicular OM meets AB at midpoint M, so AM=MB=12 cm. Right triangle OMA gives OM=5 cm. A companion panel shows the 124°/62° same-arc relation and 105°/75° opposite cyclic quadrilateral angles. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:math-b46-myp-circle-chord-perpendicular -->
+
+
 Name the parts: centre, radius, diameter, chord, arc, tangent, sector and segment.
 
 | Theorem | Statement |

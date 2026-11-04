@@ -28,7 +28,7 @@ sources: ["ced-physics-2", "clar-physics-2", "page-physics-2"]
 keyPoints:
   - "Charge is conserved: a system's net charge changes only when charge crosses its boundary."
   - "In solids, charging almost always means moving electrons, not protons."
-  - "Rubbing and contact transfer electrons; the two objects gain equal and opposite charges."
+  - "Rubbing and contact can transfer electrons. For an isolated pair, their charge changes are equal and opposite; final charges need not be."
   - "A nearby charge can separate the charges inside a neutral object (induction or polarization) without changing its net charge."
   - "Grounding connects an object to Earth, a huge, nearly neutral system that can give or take electrons freely."
 faqs:
@@ -70,7 +70,7 @@ Suppose the rod gains 2.5 × 10¹⁰ electrons from the cloth. Then:
 - the cloth has charge +4.0 × 10⁻⁹ C, and
 - the rod-plus-cloth system still has net charge zero.
 
-Rubbing does not make charge. It separates charge that was already there. The two objects always end with **equal and opposite** charges, as long as no charge escapes to anything else.
+Rubbing does not make charge. It separates charge that was already there. For an isolated pair, the **changes** in their charges are equal and opposite. Their final charges are equal and opposite only if their initial total charge was zero.
 
 ## Charging by contact
 
@@ -88,7 +88,7 @@ A charged object can rearrange the charges inside a nearby object **without touc
 
 **In a conductor.** Bring a negatively charged rod near a neutral metal sphere on an insulating stand. The rod repels the sphere's free electrons, which move to the far side. The near side is left with a shortage of electrons, so it is positive. The sphere as a whole is still neutral: equal amounts of + and − charge, just separated.
 
-**In an insulator.** Electrons cannot travel across the material. Instead, inside each atom or molecule the electrons shift slightly away from the rod. Every molecule becomes a tiny ±pair, all lined up the same way. This is **polarization**. The surface nearest the rod ends up slightly positive and the far surface slightly negative.
+**In an ordinary dielectric.** Bound charges cannot move freely across the object. Positive and negative bound charge can shift slightly relative to one another, and pre-existing molecular dipoles can partly reorient. The resulting polarization leaves positive bound surface charge nearer the negative rod and negative bound surface charge farther away in this simple example; the object remains neutral. Figure 1 represents a simplified induced-dipole model, rather than complete microscopic alignment in every material.
 
 <figure>
 <svg viewBox="0 0 560 260" role="img" aria-labelledby="pol-title pol-desc" xmlns="http://www.w3.org/2000/svg" font-family="system-ui, sans-serif">
@@ -121,7 +121,7 @@ A charged object can rearrange the charges inside a nearby object **without touc
 <text x="320" y="60">charged rod</text><text x="460" y="215">neutral insulator:</text><text x="460" y="231">each molecule polarizes</text>
 </g>
 </svg>
-<figcaption>Figure 1. A negatively charged rod near two neutral objects. Left: in the metal, free electrons are pushed to the far side, leaving the near side positive. Right: in the insulator, electrons shift only within each molecule, so each molecule becomes a small + − pair. In both cases the object stays neutral overall.</figcaption>
+<figcaption>Figure 1. A negatively charged rod near two neutral objects. Left: in the metal, free electrons are pushed to the far side, leaving the near side positive. Right: the simplified dielectric sketch represents bound-charge polarization by aligned + − pairs; real materials can also respond through ionic displacement or partial reorientation of permanent dipoles. In both cases the object stays neutral overall.</figcaption>
 </figure>
 
 ### Why a charged object attracts a neutral one
@@ -132,7 +132,7 @@ This works whatever the sign of the rod. A positive rod pulls electrons to the n
 
 ## Grounding
 
-**Grounding** means connecting an object by a conductor to a very large, roughly neutral system, usually Earth. Earth is so large that it can give or accept huge numbers of electrons while its own charge barely changes.
+**Grounding** means connecting an object by a conductor to a very large, roughly neutral system, usually Earth. For ordinary laboratory transfers, Earth acts as a reservoir whose electric potential changes negligibly. Its charge still changes by an amount equal and opposite to the charge transferred to or from the object.
 
 - A negatively charged metal sphere connected to ground loses its extra electrons to Earth and becomes (nearly) neutral.
 - A positively charged metal sphere connected to ground gains electrons from Earth and becomes (nearly) neutral.
@@ -224,7 +224,7 @@ If you remove the rod **before** breaking the ground connection, electrons flow 
 ## Common misconceptions
 
 - **"Positive charges flow onto an object."** In solids, protons stay in nuclei. Positive objects have **lost** electrons.
-- **"Rubbing creates charge."** Rubbing transfers electrons. The two objects end with equal and opposite charges.
+- **"Rubbing creates charge."** Rubbing transfers charge. Changes for an isolated pair are equal and opposite; final charges are equal and opposite when the initial total was zero.
 - **"Two touching spheres always share charge equally."** Only identical spheres share equally. The total is conserved in every case.
 - **"A neutral object cannot be attracted."** Induced charge separation or polarization makes the near side opposite in sign, and that side is closer.
 - **"Attraction proves both objects are charged."** A charged object attracts neutral objects too. Only repulsion proves like charges.

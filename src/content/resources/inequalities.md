@@ -111,6 +111,14 @@ the end of a paper.
 
 ## Inequalities in two variables, graphically
 
+<!-- marlbridge-diagram:math-b59-two-variable-inequality-region -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/public/images/learning/mathematics/math-b59-two-variable-inequality-region.svg" aria-label="Open full-size diagram: math-b59-two-variable-inequality-region"><img src="/public/images/learning/mathematics/math-b59-two-variable-inequality-region.svg" width="1528" height="940" alt="The source example plots x&lt;1 and y≥1. The strict vertical boundary x=1 is broken; the inclusive horizontal boundary y=1 is solid. Shading unwanted sides leaves the region left of x=1 and on or above y=1 unshaded." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>The source example plots x&lt;1 and y≥1. The strict vertical boundary x=1 is broken; the inclusive horizontal boundary y=1 is solid. Shading unwanted sides leaves the region left of x=1 and on or above y=1 unshaded. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:math-b59-two-variable-inequality-region -->
+
+
 A linear inequality in two variables is represented on a graph as a region
 bounded by a line: **broken lines** represent strict inequalities (<, >),
 **solid lines** represent inclusive inequalities (⩽, ⩾), and shading marks

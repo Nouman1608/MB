@@ -62,8 +62,15 @@ A bicycle wheel, a ball on a pitch or a can on a ramp does two things at once. I
 Both parts are scalars and never negative, so you add them. This is true for any moving, spinning rigid object. What makes **rolling** special is the link between v_cm and ω.
 
 ## Rolling without slipping: the link between v and ω
+<!-- marlbridge-diagram:phys1-b25-rolling-signed-velocity-convention -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/physics/phys1-b25-rolling-signed-velocity-convention.svg" aria-label="Open full-size diagram: phys1-b25-rolling-signed-velocity-convention"><img src="/images/learning/physics/phys1-b25-rolling-signed-velocity-convention.svg" width="1600" height="1050" alt="A wheel rolls right without slipping. With positive x to the right and positive angular displacement counterclockwise, the centre moves right with positive v_cm while the wheel rotates clockwise with negative omega. At the ground contact point, translation v_cm right cancels rotational velocity R omega left, giving v_cm + R omega = 0 and v_cm = −R omega; in magnitudes, |v_cm| = R|omega|." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>With x positive to the right and θ positive counterclockwise, no slip at the contact gives v_cm + Rω = 0. Therefore v_cm = −Rω as a signed equation, while |v_cm| = R|ω| compares speeds. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:phys1-b25-rolling-signed-velocity-convention -->
 
-Paint a mark on the rim of a wheel of radius r and roll it along the floor without skidding. In one full turn, every part of the rim touches the floor once. So the wheel moves forward exactly one circumference, 2πr. In general, when the wheel turns through Δθ (in radians), its centre moves
+
+Use a stationary, rigid straight floor and fixed wheel radius r. Choose positive center displacement to the right and positive angular displacement clockwise as viewed in Figure 1; the signed relations below use those matching senses. If counterclockwise is chosen positive instead, each signed linear/angular relation has a minus sign. Speed magnitudes always obey |v_cm| = r|ω|. Paint a mark on the rim and roll the wheel along the floor without skidding. In one full turn, every part of the rim touches the floor once. So the wheel moves forward exactly one circumference, 2πr. In general, when the wheel turns through Δθ (in radians), its centre moves
 
 **Δx_cm = rΔθ**
 
@@ -172,7 +179,7 @@ Look at a ball rolling down a ramp (Figure 2). Three forces act: gravity, the no
 <figcaption>Figure 2. A ball rolling down a ramp without slipping (Worked example 1). Static friction acts up the slope at the contact point. Its torque about the centre speeds up the spin, but it does no work because the contact point is not moving.</figcaption>
 </figure>
 
-Work needs a force whose point of application **moves**. In rolling without slipping, the contact point is at rest at every instant (Figure 1). So the static friction force does **no work** on the rolling object, and it dissipates no energy. For an ideal rolling object, mechanical energy is conserved:
+Work needs a force whose point of application **moves**. In rolling without slipping, the contact point is at rest at every instant (Figure 1). Therefore static friction does **no work in the ground frame** at this ideal rigid contact on the stationary ramp, and it dissipates no energy there. For the passive ramp example, gravity, the normal force and static friction are the only forces, so the rolling object–Earth system conserves mechanical energy. Other applied forces or a moving support require a separate work analysis:
 
 **Mgh = ½Mv_cm² + ½I_cm ω²**
 

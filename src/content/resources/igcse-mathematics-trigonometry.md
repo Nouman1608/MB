@@ -91,6 +91,14 @@ between a line and a plane
 
 ## How to approach it
 
+<!-- marlbridge-diagram:math-b57-trigonometry-method-selector -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/public/images/learning/mathematics/math-b57-trigonometry-method-selector.svg" aria-label="Open full-size diagram: math-b57-trigonometry-method-selector"><img src="/public/images/learning/mathematics/math-b57-trigonometry-method-selector.svg" width="1528" height="940" alt="The method selector follows the source: right triangles use Pythagoras or SOH CAH TOA; non-right triangles use the cosine rule with three sides or two sides and included angle, and the sine rule with an opposite side-angle pair. Elevation/depression references the horizontal; 3D questions start with a hidden 2D triangle." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>The method selector follows the source: right triangles use Pythagoras or SOH CAH TOA; non-right triangles use the cosine rule with three sides or two sides and included angle, and the sine rule with an opposite side-angle pair. Elevation/depression references the horizontal; 3D questions start with a hidden 2D triangle. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:math-b57-trigonometry-method-selector -->
+
+
 Before reaching for a formula, identify what kind of triangle the
 question gives you: a right angle means Pythagoras or SOH CAH TOA is
 enough (Core and Extended alike), while a triangle with no right

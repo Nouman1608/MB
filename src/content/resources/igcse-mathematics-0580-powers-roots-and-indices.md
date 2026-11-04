@@ -176,6 +176,14 @@ These rules work only when the **bases are the same**.
 
 ### Worked example 3 (non-calculator)
 
+<!-- marlbridge-diagram:math-b49-0580-subtract-negative-index -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/mathematics/math-b49-0580-subtract-negative-index.svg" aria-label="Open full-size diagram: math-b49-0580-subtract-negative-index"><img src="/images/learning/mathematics/math-b49-0580-subtract-negative-index.svg" width="1600" height="1050" alt="Three steps show 6³×6⁻⁵÷6⁻⁴ → 6^(3+(−5))÷6⁻⁴ = 6⁻²÷6⁻⁴ → 6^(−2−(−4)) = 6² = 36." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Three steps show 6³×6⁻⁵÷6⁻⁴ → 6^(3+(−5))÷6⁻⁴ = 6⁻²÷6⁻⁴ → 6^(−2−(−4)) = 6² = 36. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:math-b49-0580-subtract-negative-index -->
+
+
 **(a)** Find the value of 3⁵ × 3⁻² ÷ 3⁴.
 
 ```
@@ -228,6 +236,14 @@ Extended candidates extend the index rules to fractions. A unit fraction index i
 Write fractional indices with brackets when typing, for example 64^(1/3), so the index is clear.
 
 ### Worked example 5 (Extended only, non-calculator)
+
+<!-- marlbridge-diagram:maths-b36-fractional-negative-indices -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/mathematics/maths-b36-fractional-negative-indices.svg" aria-label="Open full-size diagram: maths-b36-fractional-negative-indices"><img src="/images/learning/mathematics/maths-b36-fractional-negative-indices.svg" width="1600" height="1050" alt="For 32^(3/5), the fifth root is 2 and 2³=8. For 125^(−2/3), the cube root is 5, square to 25, then take 1/25. For (27/8)^(−1/3), the cube root is 3/2 and its reciprocal is 2/3." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>For 32^(3/5), the fifth root is 2 and 2³=8. For 125^(−2/3), the cube root is 5, square to 25, then take 1/25. For (27/8)^(−1/3), the cube root is 3/2 and its reciprocal is 2/3. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:maths-b36-fractional-negative-indices -->
+
 
 **(a)** 64^(1/3) = ∛64 = **4**.
 

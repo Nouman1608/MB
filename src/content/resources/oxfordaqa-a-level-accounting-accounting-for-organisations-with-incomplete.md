@@ -59,6 +59,14 @@ With bank statements, cash notes and balances at both dates, you can rebuild eve
 figure and prepare full statements.
 
 ## Profit from statements of affairs
+<!-- marlbridge-diagram:ac-b15-incomplete-records-statement-of-affairs -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/accounting/ac-b15-incomplete-records-statement-of-affairs.svg" aria-label="Open full-size diagram: ac-b15-incomplete-records-statement-of-affairs">
+    <img src="/images/learning/accounting/ac-b15-incomplete-records-statement-of-affairs.svg" width="1600" height="1050" alt="Statement-of-affairs method links opening capital, closing capital, drawings, additional capital and profit." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" />
+  </a>
+  <figcaption>Profit = closing capital + drawings − additional capital − opening capital. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:ac-b15-incomplete-records-statement-of-affairs -->
 
 A **statement of affairs** sets out what the business owns and owes at one date, valued from counts,
 invoices and estimates rather than taken from a ledger. Capital is whatever is left over:
@@ -118,6 +126,13 @@ cash account, and an unrecorded payment or unknown balance in the bank account. 
 two sides agree is the answer.
 
 ### Worked example 2: Lumenara Textiles, year ended 31 March 2026
+<!-- marlbridge-diagram:ac-b16-incomplete-records-control-accounts -->
+<figure class="study-guide-figure">
+  <img src="/images/learning/accounting/ac-b16-incomplete-records-control-accounts.svg" alt="Trade receivables control balances to $71,510 on each side and gives credit sales of $66,180. Trade payables balances to $57,290 and gives credit purchases of $49,960." loading="lazy" />
+  <figcaption>In a control account, solve the missing figure by balancing the two sides.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:ac-b16-incomplete-records-control-accounts -->
+
 
 What survives:
 

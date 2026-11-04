@@ -205,9 +205,9 @@ Human examples exist: some genetic conditions are much more common in small, lon
 
 ## Gene flow: alleles on the move
 
-**Gene flow** is the movement of alleles between populations, when individuals migrate and breed (or when pollen or seeds are carried). It can **add** alleles to a population, including new ones, and it **removes** alleles from the population that the migrants leave.
+**Gene flow** is the movement of alleles between populations, when individuals migrate and breed (or when pollen or seeds are carried). It can introduce alleles to a recipient population. Emigration changes the source population only if migrants carry allele frequencies different from those who remain; migration need not change allele frequencies when the groups have the same composition.
 
-Gene flow makes connected populations **more similar**. Each exchange pulls their allele frequencies toward each other. This is why continued gene flow **stops two populations from splitting** into separate species. Cut off gene flow (a new dam, road or rising sea) and drift, mutation and selection can act on each population separately, so they drift apart.
+Gene flow generally makes connected populations more similar by pulling their allele frequencies toward each other. It opposes divergence, but does not guarantee that populations cannot diverge or speciate; speciation can occur despite some gene flow under particular ecological, genetic, or geographic conditions. Cut off gene flow (a new dam, road or rising sea) and drift, mutation and selection can act on each population separately, so they drift apart.
 
 Gene flow can also help a population that has lost variation. Bringing in individuals from a larger population restores alleles, a process conservation biologists call **genetic rescue**.
 
@@ -239,9 +239,9 @@ Gene flow can also help a population that has lost variation. Bringing in indivi
 
 **(b)** The frequency of A fell by 0.267 (from 0.60 to 0.333). If the descendants keep these frequencies, the population has evolved: its allele frequencies have changed between generations. Strictly, you confirm evolution by measuring the next generation.
 
-**(c)** Null hypothesis: **"Survival in the storm was independent of genotype at this gene."** If survival were random, 12 survivors drawn from the original proportions would include about 4.3 AA, 5.8 Aa and 1.9 aa on average. The observed 2, 4 and 6 differ, most clearly the 6 aa beetles against about 1.9 expected. A difference this large would arise by chance only rarely (roughly 2 times in 100), so it hints at selection, but one storm and 12 beetles is a single small sample. To test the null hypothesis you would need more evidence: for example, repeat observations from several storms or islands, or a mechanism by which wing colour could affect survival. If aa beetles did better every time, selection is likely; if the direction varies, drift is the better explanation.
+**(c)** Null hypothesis: **"Survival in the storm was independent of genotype at this gene."** If survival were random, 12 survivors drawn from the original proportions would include about 4.3 AA, 5.8 Aa and 1.9 aa on average. The observed 2, 4 and 6 differ, most clearly the 6 aa beetles against about 1.9 expected. The observed counts differ from the expected averages, especially for aa, but expected counts alone do not give a valid probability or show that the difference is statistically significant. With only 12 survivors, use a justified exact test or collect replicated storm samples; also investigate whether genotype is associated with survival. Until then, the pattern is compatible with chance drift and is not evidence by itself that selection occurred. If aa beetles did better every time, selection is likely; if the direction varies, drift is the better explanation.
 
-A second gene shows drift's other effect. Allele B2 had a frequency of 0.02 before the storm (20 of 1000 copies). The chance that none of the 24 surviving alleles is B2 is 0.98²⁴ ≈ **0.62**, so B2 is more likely than not to be lost, regardless of what it does.
+A second gene shows drift's other effect. Allele B2 had a frequency of 0.02 before the storm (20 of 1000 copies). In a simplified model that samples each of 24 allele copies independently at B2 frequency 0.02, the chance of sampling no B2 copy is 0.98²⁴ ≈ **0.62**. This is illustrative, not an exact diploid-population probability: the two alleles in each surviving individual are paired, and survival or sampling may not be independent of genotype.
 
 ## Worked example 2: founders and gene flow
 

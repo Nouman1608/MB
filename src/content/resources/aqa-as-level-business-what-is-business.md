@@ -134,6 +134,14 @@ them and what ethical responsibilities a business has toward them.
 
 ## Worked example: dividend yield
 
+<!-- marlbridge-diagram:business-aqa-as-dividend-yield-calculation -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/business/business-aqa-as-dividend-yield-calculation.svg" aria-label="Open full-size diagram: business-aqa-as-dividend-yield-calculation"><img src="/images/learning/business/business-aqa-as-dividend-yield-calculation.svg" width="1600" height="1050" alt="Three checked AQA AS calculations: dividend per share 8p, dividend yield 5.33% and market capitalisation £3,000,000." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Dividend yield: link dividend per share to market price Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:business-aqa-as-dividend-yield-calculation -->
+
+
 A public limited company has 2,000,000 ordinary shares in issue,
 trading at 150 pence each. It pays a total dividend of £160,000 for the
 year.

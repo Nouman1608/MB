@@ -88,6 +88,14 @@ To resolve means to split a vector into two perpendicular parts. Draw a right-an
 
 ### Worked example 2: resolving
 
+<!-- marlbridge-diagram:maths-b22-resolving-force-components-35 -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/mathematics/maths-b22-resolving-force-components-35.svg" aria-label="Open full-size diagram: maths-b22-resolving-force-components-35"><img src="/images/learning/mathematics/maths-b22-resolving-force-components-35.svg" width="1600" height="1050" alt="An 18 N force acts 35 degrees above the horizontal. Its horizontal component is 18 cos 35 degrees = 14.7 N and its upward vertical component is 18 sin 35 degrees = 10.3 N, so F=(14.7i+10.3j) N." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>An 18 N force acts 35 degrees above the horizontal. Its horizontal component is 18 cos 35 degrees = 14.7 N and its upward vertical component is 18 sin 35 degrees = 10.3 N, so F=(14.7i+10.3j) N. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:maths-b22-resolving-force-components-35 -->
+
+
 A force of 18 N acts at 35° above the horizontal. With i horizontal and j vertically upwards:
 
 ```

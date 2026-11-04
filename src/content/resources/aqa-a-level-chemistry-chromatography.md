@@ -135,6 +135,13 @@ two substances can share an Rf value in one solvent. Repeating in a different so
 
 ## Column chromatography (CC)
 
+<!-- marlbridge-diagram:chem-aqa-column-chromatography-fractions -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/chemistry/chem-aqa-column-chromatography-fractions.svg" aria-label="Open full-size diagram: column chromatography and collected fractions"><img src="/images/learning/chemistry/chem-aqa-column-chromatography-fractions.svg" width="1528" height="940" alt="Column chromatography apparatus: a mixture is loaded onto the top of a silica stationary phase, solvent flows down through the packed column, weakly retained K moves ahead of strongly retained J, and the outlet is collected in separate fractions with K first and J later." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>In column chromatography, solvent carries the sample down through the packed stationary phase. The less-retained component K moves ahead and leaves first; collect successive outlet fractions separately.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:chem-aqa-column-chromatography-fractions -->
+
 A vertical column is packed with a solid, the stationary phase. The mixture is added at the top and solvent is
 run down through the column. Weakly retained components that are very soluble in the solvent move down
 fastest and leave the bottom first; strongly retained ones follow later. Because the components leave one
@@ -165,9 +172,14 @@ with mass spectrometry.
 
 ## Mass spectrometry of the components separated by GC
 
-In GC-MS, the gas leaving the column passes into a mass spectrometer. GC has already separated the mixture,
-so the components arrive one at a time and each gives its own mass spectrum. The molecular ion gives the
-relative molecular mass, and a high-resolution m/z value fixes the molecular formula (section 3.3.6.2).
+<!-- marlbridge-diagram:chem-aqa-gc-ms-coupled-layout -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/chemistry/chem-aqa-gc-ms-coupled-layout.svg" aria-label="Open full-size diagram: gas chromatography coupled to mass spectrometry"><img src="/images/learning/chemistry/chem-aqa-gc-ms-coupled-layout.svg" width="1528" height="940" alt="GC–MS layout: a vaporised sample is carried through a heated gas-chromatography column, separated components leave at different retention times and pass directly into the mass spectrometer ion source, then ions are separated by mass-to-charge ratio and detected as a mass spectrum. Co-eluting components can produce mixed spectra." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>GC separates components in time; the outlet feeds the mass spectrometer for mass-to-charge analysis. A well-resolved GC peak gives a cleaner spectrum than co-eluting components.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:chem-aqa-gc-ms-coupled-layout -->
+
+In GC-MS, the gas leaving the column passes into a mass spectrometer. A well-resolved component can give a spectrum suitable for comparison with references, but co-eluting components can produce mixed spectra. An assigned molecular ion and charge state constrain molecular mass; accurate m/z can distinguish candidate formulas within the measurement uncertainty. Connectivity and identity generally need further spectral or reference evidence (section 3.3.6.2).
 
 How a mass spectrometer works is in the [atomic structure guide](/resources/a-level-aqa-chemistry-atomic-structure/);
 precise-mass calculations are taught in the [organic analysis guide](/resources/aqa-a-level-chemistry-organic-analysis/).

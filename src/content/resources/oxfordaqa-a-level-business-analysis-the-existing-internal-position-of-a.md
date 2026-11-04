@@ -36,6 +36,14 @@ Unit 3: Business analysis examines section 3.3 in a paper lasting 1 hour 45 minu
 
 ## 1. Analysing the product portfolio: the Boston Matrix
 
+<!-- marlbridge-diagram:business-oxfordaqa-boston-matrix-wyndle-snacks -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/business/business-oxfordaqa-boston-matrix-wyndle-snacks.svg" aria-label="Open full-size diagram: business-oxfordaqa-boston-matrix-wyndle-snacks"><img src="/images/learning/business/business-oxfordaqa-boston-matrix-wyndle-snacks.svg" width="1600" height="1050" alt="Places the four Wyndle Snacks products in the source-defined matrix and links each position to an appropriate action." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Places the four Wyndle Snacks products in the source-defined matrix and links each position to an appropriate action. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:business-oxfordaqa-boston-matrix-wyndle-snacks -->
+
+
 A **product portfolio** is the full range of products a business sells. The **Boston Matrix** places each product on two axes: **market growth** (how fast the whole market is expanding) and **market share** (usually measured relative to the largest rival, so a figure above 1 means the product leads its market).
 
 | | High market share | Low market share |

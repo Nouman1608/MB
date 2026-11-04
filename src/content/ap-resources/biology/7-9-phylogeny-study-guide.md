@@ -28,12 +28,12 @@ sources: ["ced-biology", "page-biology"]
 keyPoints:
   - "A tree is a hypothesis about how lineages are related. Each node stands for the most recent common ancestor of the lineages that branch from it, and marks a speciation event."
   - "Judge relatedness by how recently two lineages share an ancestor, not by how close their tips are drawn. Branches can rotate at a node without changing the tree."
-  - "A cladogram shows only the branching order. A phylogenetic tree also shows time or amount of change, calibrated by dated fossils or a molecular clock."
+  - "A cladogram is a topology-only representation of phylogenetic relationships. Phylogenetic trees may have unscaled branches or branch lengths scaled to evolutionary change; a time-calibrated chronogram uses a stated time scale."
   - "Shared derived characters (traits gained or lost) group lineages; the outgroup shows which state is ancestral. Traits every group shares, or that only one lineage has, do not help."
   - "Molecular data (DNA and protein sequences) usually give more reliable trees than body form, because they provide many characters and are less often misled by convergent evolution."
 faqs:
   - question: "Is a cladogram the same as a phylogenetic tree?"
-    answer: "Both show branching order. In this course a phylogenetic tree also shows time or amount of change along its branches; a cladogram does not, so its branch lengths mean nothing."
+    answer: "A cladogram is one way to represent phylogenetic relationships, usually showing branching order only. Phylogenetic trees can also have arbitrary branch lengths; interpret lengths only when the figure states they represent time or evolutionary change. A time tree needs calibration."
   - question: "Does the outgroup represent the ancestor of the other species?"
     answer: "No. The outgroup is a living (or fossil) lineage that is less closely related to the ingroup than ingroup members are to each other. It shows which character states are probably ancestral."
 version: "1.0"
@@ -47,7 +47,7 @@ author: "marlbridge-academic-team"
 
 ## A tree is a hypothesis about history
 
-Topic 7.8 showed that all species are still evolving. Over long periods, one ancestral species can split into two, then four, then many. **Phylogeny** is the evolutionary history of a group: who branched from whom, and roughly when. Biologists draw it as a **tree**.
+Topic 7.8 showed that lineages change and split over time. **Phylogeny** is the evolutionary history of a group: which lineages share ancestors and, when supported, roughly when they diverged. Biologists represent hypotheses about these relationships with trees; not every diagram has calibrated branch lengths.
 
 Nobody watched these splits happen. A tree is built from evidence that exists today: body structures of living and fossil organisms, and the sequences of DNA and proteins. So every tree is a **hypothesis**. It makes predictions that can be tested. For example, if two species sit on neighbouring branches, a gene sequenced for the first time should be more similar between them than between either of them and a distant branch. When new evidence disagrees, the tree is redrawn.
 
@@ -72,13 +72,13 @@ Learn the parts before you read any tree.
 
 The course separates two kinds of diagram.
 
-- A **cladogram** shows only the **branching order**: which lineages share more recent ancestors. It has no time scale. Branch lengths are drawn for neatness and carry no information.
-- A **phylogenetic tree** shows the branching order **and** the amount of time or change along each branch. Nodes are placed against a time axis.
+  - A **cladogram** is a phylogenetic representation that typically shows only **branching order**. Its displayed branch lengths are usually arbitrary and do not encode time or amount of change.
+  - A **phylogenetic tree** may show branching order alone, or may scale branch lengths to evolutionary change (a phylogram) or calibrated time (a chronogram). Interpret lengths only when the scale/model specifies what they mean.
 
 <figure>
 <svg viewBox="0 0 700 330" role="img" aria-labelledby="t1-title t1-desc" xmlns="http://www.w3.org/2000/svg" font-family="system-ui, sans-serif">
 <title id="t1-title">The same four lineages as a cladogram and as a phylogenetic tree</title>
-<desc id="t1-desc">Left panel, labelled cladogram, no time scale: a diagonal line rises from a root at the bottom left to tip D at the top right. Vertical branches leave it to tips A, B and C in that order, so A branches off first, then B, then C, and C and D are sister lineages. Right panel, labelled phylogenetic tree: the same branching drawn with right-angled branches against a horizontal axis of millions of years ago, from 30 on the left to 0, the present, on the right. A splits from the others 30 million years ago, B splits from C and D 18 million years ago, and C and D split 6 million years ago. Black dots mark the three nodes in each panel.</desc>
+<desc id="t1-desc">Left panel, labelled cladogram, no time scale: a diagonal line rises from a root at the bottom left to tip D at the top right. Vertical branches leave it to tips A, B and C in that order, so A branches off first, then B, then C, and C and D are sister lineages. Right panel, labelled phylogenetic tree: the same branching drawn with right-angled branches on an explicitly time-calibrated horizontal axis of millions of years ago, from 30 on the left to 0, the present, on the right. A splits from the others 30 million years ago, B splits from C and D 18 million years ago, and C and D split 6 million years ago. Black dots mark the three nodes in each panel.</desc>
 <rect x="0" y="0" width="700" height="330" fill="#ffffff"/>
 <text x="150" y="22" text-anchor="middle" font-size="14" font-weight="600" fill="#1d2b44">Cladogram (no time scale)</text>
 <line x1="25" y1="315" x2="40" y2="300" stroke="#1d2b44" stroke-width="3"/>
@@ -95,7 +95,7 @@ The course separates two kinds of diagram.
 <text x="270" y="58" text-anchor="middle" font-size="16" font-weight="700" fill="#1d2b44">D</text>
 <text x="40" y="324" font-size="12" fill="#1d2b44">root</text>
 <line x1="330" y1="30" x2="330" y2="310" stroke="#1d2b44" stroke-width="1" stroke-dasharray="3 5"/>
-<text x="510" y="22" text-anchor="middle" font-size="14" font-weight="600" fill="#1d2b44">Phylogenetic tree (time scale)</text>
+<text x="510" y="22" text-anchor="middle" font-size="14" font-weight="600" fill="#1d2b44">Time-calibrated phylogeny</text>
 <line x1="360" y1="122.5" x2="380" y2="122.5" stroke="#1d2b44" stroke-width="3"/>
 <line x1="380" y1="70" x2="380" y2="175" stroke="#1d2b44" stroke-width="3"/>
 <line x1="380" y1="70" x2="640" y2="70" stroke="#1d2b44" stroke-width="3"/>
@@ -124,7 +124,7 @@ The course separates two kinds of diagram.
 <text x="640" y="303" text-anchor="middle" font-size="12" fill="#1d2b44">0</text>
 <text x="510" y="322" text-anchor="middle" font-size="13" fill="#1d2b44">Millions of years ago</text>
 </svg>
-<figcaption>Figure 1. Four fictional snail species. Both diagrams show the same branching order: A split off first, then B, and C and D are sister species. Only the phylogenetic tree (right) tells you when: about 30, 18 and 6 million years ago. Dots mark nodes.</figcaption>
+<figcaption>Figure 1. Four fictional snail species. Both panels show the same branching order. The right panel is specifically a time-calibrated phylogeny: its stated axis lets the nodes be read at about 30, 18 and 6 million years ago. A phylogenetic tree without such a scale would not by itself provide dates.</figcaption>
 </figure>
 
 **Where the dates come from.** There are two ways to calibrate a tree.
@@ -281,7 +281,7 @@ A dated fossil shows that the lineage leading to L split from the lineage leadin
 - **"The species on the left (or at the top) is the most primitive."** Every living tip is a modern species. The position of a tip says nothing about how advanced it is.
 - **"One living species evolved from another living species."** Living species share common ancestors at nodes; neither is the ancestor of the other.
 - **"The outgroup is the ancestor."** It is a separate lineage used to tell ancestral from derived states.
-- **"Long branches on a cladogram mean a long time."** Only a phylogenetic tree with a scale shows time or amount of change.
+- **"Branch lengths always show time on a phylogenetic tree."** Branch lengths may be arbitrary, scaled to evolutionary change, or calibrated to time; check the figure key and model.
 - **"Any shared feature shows close relationship."** Shared ancestral characters and convergent (analogous) features do not.
 - **"Losing a trait is going backwards, so it cannot be used."** A loss is a derived character and can define a clade.
 - **"A published tree is a proven fact."** It is the best current hypothesis and can change with new data.

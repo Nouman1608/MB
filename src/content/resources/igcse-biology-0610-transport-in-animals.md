@@ -186,6 +186,9 @@ Possible **risk factors**: diet, lack of exercise, stress, smoking, genetic pred
 
 ## 9.4 Blood
 
+<figure class="my-8" id="objective-bio-open-243-white-cells" data-objective-id="BIO-OPEN-243"><img src="/images/learning/biology/bio-open-243-lymphocyte-neutrophil-cdc-phil18906.jpg" alt="Blood smear with two leukocytes among red cells: arrowhead marks lymphocyte; neutrophil with lobed nucleus lies below and right." width="700" height="616" loading="lazy" decoding="async" /><figcaption>Blood smear, 1000x. CDC / Dr. F. Gilbert, <a href="https://wwwn.cdc.gov/phil/Details.aspx?pid=18906">CDC PHIL #18906</a>. Public domain. CDC requires attribution to CDC and photographer if known, and identification of CDC as free source. No scale calibration stated.</figcaption></figure>
+
+
 Blood is made of **red blood cells**, **white blood cells**, **platelets** and **plasma**.
 
 | Component | Function |

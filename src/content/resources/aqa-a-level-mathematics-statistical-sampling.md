@@ -180,6 +180,13 @@ if the list has a repeating pattern that lines up with k.
 
 ### Stratified sampling
 
+<!-- marlbridge-diagram:maths-aqa-stratified-sampling-proportional-allocation -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/mathematics/maths-aqa-stratified-sampling-proportional-allocation.svg" aria-label="Open full-size diagram: maths-aqa-stratified-sampling-proportional-allocation"><img src="/images/learning/mathematics/maths-aqa-stratified-sampling-proportional-allocation.svg" width="1600" height="1050" alt="The diagram allocates a sample of 40 across Sales, Production and Admin in a company of 500, checks the total, and contrasts random stratified selection with non-random quota sampling." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>The diagram allocates a sample of 40 across Sales, Production and Admin in a company of 500, checks the total, and contrasts random stratified selection with non-random quota sampling. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:maths-aqa-stratified-sampling-proportional-allocation -->
+
 Split the population into groups (**strata**) such as age bands or departments. Take a sample
 from each stratum in proportion to its size, then use simple random sampling within each
 stratum.

@@ -88,7 +88,7 @@ The repressor itself is made by a separate **regulatory gene** elsewhere, which 
 <figure>
 <svg viewBox="0 0 640 410" role="img" aria-labelledby="lac-title lac-desc" xmlns="http://www.w3.org/2000/svg" font-family="system-ui, sans-serif">
 <title id="lac-title">The lac operon with lactose absent and with lactose present</title>
-<desc id="lac-desc">Two panels showing the same stretch of bacterial DNA. Left to right: the lacI gene, a gap, the promoter P, the operator O, then the genes lacZ, lacY and lacA. Top panel, lactose absent: a repressor protein, drawn as a rounded box, sits on the operator. RNA polymerase, drawn as an oval, sits on the promoter but is blocked, marked with a cross. No mRNA is made. Bottom panel, lactose present: allolactose, drawn as a small triangle, is bound to the repressor, which has left the operator. RNA polymerase moves along the genes and one wavy mRNA strand is made covering lacZ, lacY and lacA.</desc>
+<desc id="lac-desc">Two panels showing the same stretch of bacterial DNA. Left to right: the lacI gene, a gap, the promoter P, the operator O, then the genes lacZ, lacY and lacA. Top panel, lactose absent: a repressor protein, drawn as a rounded box, sits on the operator. RNA polymerase, drawn as an oval, is blocked, marked with a cross, so transcription is greatly reduced; low basal transcription can remain. Bottom panel, lactose present: allolactose, drawn as a small triangle, is bound to the repressor, which has left the operator. RNA polymerase moves along the genes and one wavy mRNA strand is made covering lacZ, lacY and lacA.</desc>
 <rect x="0" y="0" width="640" height="410" fill="#ffffff"/>
 <text x="20" y="28" font-size="15" font-weight="700" fill="#1d2b44">A. Lactose absent: operon OFF</text>
 <line x1="30" y1="110" x2="600" y2="110" stroke="#1d2b44" stroke-width="3"/>
@@ -114,7 +114,7 @@ The repressor itself is made by a separate **regulatory gene** elsewhere, which 
 <text x="300" y="80" font-size="13" fill="#1d2b44">blocks RNA polymerase (✕)</text>
 <text x="75" y="145" text-anchor="middle" font-size="12" fill="#1d2b44">regulatory gene,</text>
 <text x="75" y="160" text-anchor="middle" font-size="12" fill="#1d2b44">always expressed</text>
-<text x="415" y="152" text-anchor="middle" font-size="13" fill="#1d2b44">No mRNA for lacZ, lacY, lacA</text>
+<text x="415" y="152" text-anchor="middle" font-size="13" fill="#1d2b44">Very low basal expression</text>
 <line x1="20" y1="190" x2="620" y2="190" stroke="#1d2b44" stroke-width="1" stroke-dasharray="3 5"/>
 <text x="20" y="220" font-size="15" font-weight="700" fill="#1d2b44">B. Lactose present: operon ON</text>
 <line x1="30" y1="310" x2="600" y2="310" stroke="#1d2b44" stroke-width="3"/>
@@ -147,7 +147,7 @@ The repressor itself is made by a separate **regulatory gene** elsewhere, which 
 <figcaption>Figure 1. The lac operon. P = promoter, O = operator (dashed outline), Rep = repressor. The repressor gene, <i>lacI</i>, is constitutive. Not to scale.</figcaption>
 </figure>
 
-**Lactose absent (Figure 1A).** The *lacI* gene makes active repressor all the time. The repressor binds the operator, so RNA polymerase cannot transcribe *lacZ*, *lacY* or *lacA*. The cell does not waste resources on enzymes it cannot use.
+**Lactose absent (Figure 1A).** The *lacI* gene makes active repressor all the time. The repressor binds the operator and greatly reduces transcription of *lacZ*, *lacY* and *lacA*. Basal transcription can remain, and the level of expression also depends on factors such as CAP–cAMP and growth conditions.
 
 **Lactose present (Figure 1B).** Some lactose is converted to **allolactose**, which acts as the **inducer**. Allolactose binds the repressor and changes its shape, so the repressor can no longer hold on to the operator. RNA polymerase transcribes the three genes as one mRNA, and the enzymes are made. When the lactose has been used up, allolactose leaves the repressor, the repressor binds the operator again, and the operon switches off.
 
@@ -171,10 +171,17 @@ The trp operon carries five genes for enzymes that make the amino acid tryptopha
 A useful rule: pathways that break down a food are usually **inducible** (make the enzymes only when the food arrives); pathways that build a product are usually **repressible** (stop when there is enough product).
 
 ## Coordinate regulation in eukaryotes
+<!-- marlbridge-diagram:bio-b22-eukaryotic-coordinate-regulation -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/biology/bio-b22-eukaryotic-coordinate-regulation.svg" aria-label="Open full-size diagram: bio-b22-eukaryotic-coordinate-regulation"><img src="/images/learning/biology/bio-b22-eukaryotic-coordinate-regulation.svg" width="1528" height="940" alt="An illustrative eukaryotic heat-response model: an activated transcription factor can bind repeated heat-response control elements near separate genes on different chromosomes. Each gene has its own promoter and transcription machinery. Co-factors, chromatin and cellular context also influence expression; the figure does not imply one factor alone controls every gene or that binding is simultaneous." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>A heat-response example shows a shared control motif at separate eukaryotic loci. The model is schematic and expression also depends on cofactors and chromatin context. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:bio-b22-eukaryotic-coordinate-regulation -->
 
-Eukaryotic genes are rarely grouped in operons. Each usually has its own promoter, and genes that work together can be on different chromosomes. They are still switched on together, by a different method: each gene carries a copy of the **same control sequence** in its regulatory DNA. One **transcription factor** that recognises that sequence binds near all of them at once and activates them together.
 
-A real example is the response to heat. Genes for heat-shock proteins, which help other proteins keep their shape, lie on different chromosomes but share a common control element. When a cell is heated, one transcription factor becomes active, binds that element at every gene, and all of them are transcribed together. The same principle lets a single steroid hormone switch on a whole set of genes in its target cells.
+Eukaryotic genes are rarely grouped in operons. Each usually has its own promoter, and genes that work together can be on different chromosomes. They are still switched on together, by a different method: each gene carries a copy of the **same control sequence** in its regulatory DNA. A transcription-factor **type** can recognise that motif at multiple loci. Separate factor molecules bind each site, and their effects depend on cofactors, chromatin state and cellular context; simultaneous binding or activation of every gene is not implied.
+
+A real example is the response to heat. Genes for heat-shock proteins, which help other proteins keep their shape, lie on different chromosomes but share a common control element. When a cell is heated, heat-response transcription-factor activity can increase expression at multiple genes carrying related control elements. Each locus has its own promoter and context, so responses need not be simultaneous or identical. The same principle lets a single steroid hormone switch on a whole set of genes in its target cells.
 
 Compare the two strategies:
 
@@ -189,6 +196,11 @@ In eukaryotes, DNA is wrapped around **histone** proteins. How tightly it is pac
 
 - **DNA methylation.** Methyl groups (–CH₃) are added to some cytosine bases, often in promoter regions. Heavy methylation usually **silences** a gene: it blocks some proteins from binding and attracts proteins that pack the DNA tightly.
 - **Histone acetylation.** Acetyl groups are added to the tails of histone proteins. This reduces the attraction between histones and DNA, so the DNA is packed more **loosely** and the gene is **more likely to be transcribed**. Removing the acetyl groups (deacetylation) packs the DNA tightly again.
+
+<figure>
+  <a href="/images/learning/biology/bio-b21-epigenetic-chromatin-access.svg" aria-label="Open full-size diagram: epigenetic marks and chromatin accessibility"><img src="/images/learning/biology/bio-b21-epigenetic-chromatin-access.svg" width="1600" height="1000" alt="Schematic comparison of DNA methylation near a promoter and histone-tail acetylation around nucleosomes, showing tighter versus looser DNA packing and typical effects on transcription access. Marks and nucleosomes are not to scale; these are context-dependent patterns, not universal switches." loading="lazy" decoding="async" style="display:block;width:100%;height:auto;" /></a>
+  <figcaption>DNA methylation and histone acetylation can affect chromatin access in different ways. The figure shows typical patterns, not a universal on/off rule.</figcaption>
+</figure>
 
 Key features of epigenetic changes:
 
@@ -227,12 +239,12 @@ The phenotype of a cell, or of a whole organism, is set by **which genes are exp
 **(b) Strains R and O.**
 
 1. Strain R: 310 without xylose is already 96.9% of the wild-type induced level (310 ÷ 320 × 100), and xylose adds almost nothing (316 ÷ 310 = 1.02-fold).
-2. Without a working repressor, nothing blocks the operator, so the operon is on all the time: **constitutive**.
-3. Strain O gives the same pattern (322 ÷ 305 = 1.06-fold). A working repressor is still made, but the changed operator sequence means it cannot bind. The repressor and the operator must match for regulation to work.
+2. Strain R has high activity even without xylose, consistent with loss of normal repressor control and constitutive expression in this model. Enzyme activity alone does not directly show repressor binding or transcription.
+3. Strain O gives the same pattern (322 ÷ 305 = 1.06-fold). The changed operator is consistent with impaired repressor regulation. These enzyme-activity measurements support the model but do not directly demonstrate whether the repressor binds the altered sequence.
 
-**(c) Strain P.** Activity stays near zero (2 with xylose, about 0.6% of the wild-type induced level: 2 ÷ 320 × 100 = 0.625). If RNA polymerase cannot bind the promoter, the genes are not transcribed whether or not the repressor is bound.
+**(c) Strain P.** Activity stays near zero (2 with xylose, about 0.6% of the wild-type induced level: 2 ÷ 320 × 100 = 0.625). The very low activity is consistent with impaired promoter function. Enzyme-activity data alone do not establish RNA-polymerase binding or prove that transcription is absent.
 
-**Reasoning check.** The data fit a negative, inducible control: repressor bound to the operator when xylose is absent; inducer removes the repressor. The results for R and O together show that the repressor acts **at the operator**, which lies between the promoter and the genes.
+**Reasoning check.** The data fit a negative, inducible control: repressor bound to the operator when xylose is absent; inducer removes the repressor. Together, the R and O results are consistent with repressor control involving the operator between the promoter and the structural genes. Direct binding or transcript measurements would test this mechanism more directly.
 
 ## Worked example 2: evidence for epigenetic silencing
 
@@ -250,12 +262,12 @@ Make a claim about how gene G is silenced and support it.
 
 1. **Effect of M.** Methylation falls from 92% to 35%, a relative fall of (92 − 35) ÷ 92 × 100 = **62%**. G mRNA rises **14-fold**. Lower methylation goes with higher expression.
 2. **Effect of H.** Methylation barely changes (90%), but mRNA rises **3-fold**. Keeping histones acetylated loosens the DNA a little, even while methylation stays high.
-3. **Both drugs.** mRNA rises **41-fold**, more than either drug alone (2.93 times M alone). Fold changes multiply, so if the two marks act independently you expect about 14 × 3 = 42-fold. The measured 41 is close to that: each mark adds its own layer of silencing, and removing both releases the gene most.
+3. **Both drugs.** mRNA rises **41-fold**, more than either drug alone (2.93 times M alone). Fold changes multiply, so if the two marks act independently you expect about 14 × 3 = 42-fold. The measured 41-fold change is close to that simple prediction and is **consistent with** approximately multiplicative effects. One value without replicate measurements or uncertainty does not establish independence or prove that each mark adds an independent layer.
 4. **Reversibility.** Ten days after M is removed, methylation is back to 80% and mRNA has fallen from 14 to 2.5, an **82% drop**. The silencing returns.
 
-**Claim.** Gene G is silenced epigenetically, mainly by methylation of its promoter, helped by tightly packed (deacetylated) histones.
+**Claim.** These results support a contribution from promoter methylation and histone acetylation to gene G expression. The available measurements do not establish their relative contributions or whether the drugs act directly at this locus.
 
-**Reasoning.** Neither drug changes the DNA sequence, yet expression changed, so the control must be through chemical marks. The return of methylation after the drug was removed shows the marks are reversible and are actively re-established by the cell. A mutation would not reverse in ten days.
+**Reasoning.** Neither drug changes the measured DNA sequence, and expression changes with promoter methylation and histone acetylation. This is consistent with epigenetic regulation, but the drugs could also affect other genes and act indirectly. The return of methylation after drug removal is consistent with reversibility; these measurements do not identify the full mechanism.
 
 **Limits.** These are one cell line and one time point. The drugs act on every gene in the cell, so some of the effect on G could be indirect, through other genes that were also switched on.
 

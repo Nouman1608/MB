@@ -249,6 +249,14 @@ Where the hemisphere sits on the cylinder, that circular join is hidden, so leav
 
 ### Frustums
 
+<!-- marlbridge-diagram:math-b52-oxfordaqa-frustum-similar-cones -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/mathematics/math-b52-oxfordaqa-frustum-similar-cones.svg" aria-label="Open full-size diagram: math-b52-oxfordaqa-frustum-similar-cones"><img src="/images/learning/mathematics/math-b52-oxfordaqa-frustum-similar-cones.svg" width="1528" height="940" alt="A cone cut parallel to its base forms a frustum. The removed similar cone has height 8 cm, radius 4.8 cm and scale 0.4; the original is 20 cm high with radius 12 cm. Volume is the difference; curved surface area subtracts the two lateral areas." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>A cone cut parallel to its base forms a frustum. The removed similar cone has height 8 cm, radius 4.8 cm and scale 0.4; the original is 20 cm high with radius 12 cm. Volume is the difference; curved surface area subtracts the two lateral areas.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:math-b52-oxfordaqa-frustum-similar-cones -->
+
+
 A frustum is what remains when a small cone (or pyramid) is cut off the top of a large one, made by a cut that runs parallel to the base. Find its volume or area by subtracting the small solid from the large one. The small solid is an enlargement of the large one, so every length is in the same ratio.
 
 **Example 17.** A cone has radius 12 cm and height 20 cm. A smaller cone of height 8 cm is cut off the top. Find the volume and curved surface area of the frustum that remains.

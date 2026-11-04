@@ -58,6 +58,14 @@ negative and zero powers
 
 ## How to approach it
 
+<!-- marlbridge-diagram:math-b50-edexcel-algebra-skill-pathway -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/mathematics/math-b50-edexcel-algebra-skill-pathway.svg" aria-label="Open full-size diagram: math-b50-edexcel-algebra-skill-pathway"><img src="/images/learning/mathematics/math-b50-edexcel-algebra-skill-pathway.svg" width="1528" height="940" alt="The pathway links index rules, quadratic techniques and algebraic fractions: negative/zero/fractional powers; systematic expansion and choosing factorisation or completing the square; then factor, cancel and find common denominators." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>The pathway links index rules, quadratic techniques and algebraic fractions: negative/zero/fractional powers; systematic expansion and choosing factorisation or completing the square; then factor, cancel and find common denominators. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:math-b50-edexcel-algebra-skill-pathway -->
+
+
 Index notation (2.1) with fractional, negative and zero powers is
 foundational to almost every other Higher-tier algebra sub-topic, so
 build genuine fluency here before moving on: a negative power means the

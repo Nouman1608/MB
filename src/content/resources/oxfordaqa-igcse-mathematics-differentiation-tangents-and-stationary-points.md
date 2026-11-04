@@ -190,6 +190,14 @@ At a stationary point of inflection the gradient is zero but does not change sig
 
 ### Worked example 7
 
+<!-- marlbridge-diagram:math-b60-oxfordaqa-cubic-stationary-points-sign-test -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/public/images/learning/mathematics/math-b60-oxfordaqa-cubic-stationary-points-sign-test.svg" aria-label="Open full-size diagram: math-b60-oxfordaqa-cubic-stationary-points-sign-test"><img src="/public/images/learning/mathematics/math-b60-oxfordaqa-cubic-stationary-points-sign-test.svg" width="1528" height="940" alt="A cubic graph marks the maximum at (−3,29), minimum at (1,−3), y-intercept (0,2), and shows derivative signs changing positive to negative to positive." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>A cubic graph marks the maximum at (−3,29), minimum at (1,−3), y-intercept (0,2), and shows derivative signs changing positive to negative to positive.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:math-b60-oxfordaqa-cubic-stationary-points-sign-test -->
+
+
 Find and classify the stationary points of y = x³ + 3x² − 9x + 2.
 
 ```

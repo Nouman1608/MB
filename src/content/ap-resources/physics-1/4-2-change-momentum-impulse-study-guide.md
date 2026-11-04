@@ -63,7 +63,9 @@ In one dimension, choose an axis and use **signed** velocities. Take **+x toward
 
 Newton's second law, as you met it in Topic 2.5, says F_net = ma. There is a more general form:
 
-**F_net = Δp / Δt**
+**F_avg, net = Δp / Δt**
+
+This finite-interval equation gives the **average net external force** over Δt. The instantaneous net force is the local rate of change of momentum: the tangent slope on a momentum–time graph. If net force is constant during the interval, it equals this average. In the finite-interval rearrangements below, F_net means this interval average unless a constant force is specified.
 
 In words: **the net external force on an object or system equals the rate at which its momentum changes.** A large net force changes momentum quickly. Zero net force means momentum does not change.
 
@@ -126,7 +128,7 @@ Real forces are rarely constant. A kick, a bat or a bumper produces a force that
 
 ### Net force as a slope
 
-Turn the theorem around. Since F_net = Δp / Δt, **the slope of a momentum–time graph is the net external force.** A steep momentum–time graph means a large net force. A flat section means zero net force.
+Turn the theorem around. **The tangent slope of a momentum–time graph is the instantaneous net external force.** The secant slope Δp / Δt between two times is the average net external force over that interval. A steep local slope means a large force magnitude; a negative slope gives force in the negative direction. A flat section means zero net force.
 
 <figure>
 <svg viewBox="0 0 560 330" role="img" aria-labelledby="p4-2b-title p4-2b-desc" xmlns="http://www.w3.org/2000/svg" font-family="system-ui, sans-serif">

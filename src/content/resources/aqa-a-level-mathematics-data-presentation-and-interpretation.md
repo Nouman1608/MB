@@ -85,6 +85,14 @@ Total = 37.4, so about 37 people
 
 ### Worked example 2: a histogram drawn to a scale
 
+<!-- marlbridge-diagram:maths-aqa-histogram-area-scale -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/mathematics/maths-aqa-histogram-area-scale.svg" aria-label="Open full-size diagram: maths-aqa-histogram-area-scale"><img src="/images/learning/mathematics/maths-aqa-histogram-area-scale.svg" width="1600" height="1050" alt="Source example: class 15≤t&lt;20 has frequency 20, displayed as 2 cm by 8 cm; the next 10-minute class shown 4 cm by 3.6 cm therefore has frequency 18." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Source example: class 15≤t&lt;20 has frequency 20, displayed as 2 cm by 8 cm; the next 10-minute class shown 4 cm by 3.6 cm therefore has frequency 18. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:maths-aqa-histogram-area-scale -->
+
+
 On a histogram of the same data, the bar for 15 ≤ t < 20 is 2 cm wide and 8 cm tall. The bar for
 20 ≤ t < 30 is 3.6 cm tall. Find the frequency of that class without using the table.
 

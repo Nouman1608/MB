@@ -108,6 +108,14 @@ To share a quantity in a ratio, use the "parts" method.
 
 ### Worked example 4: three parts
 
+<!-- marlbridge-diagram:math-b78-ocr-ratio-three-shares -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/public/images/learning/mathematics/math-b78-ocr-ratio-three-shares.svg" aria-label="Open full-size diagram: math-b78-ocr-ratio-three-shares"><img src="/public/images/learning/mathematics/math-b78-ocr-ratio-three-shares.svg" width="1528" height="940" alt="Twelve equal parts grouped 2:3:7 show £70 per part and resulting shares £140, £210 and £490." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Twelve equal parts grouped 2:3:7 show £70 per part and resulting shares £140, £210 and £490.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:math-b78-ocr-ratio-three-shares -->
+
+
 Share £840 in the ratio 2 : 3 : 7.
 
 ```

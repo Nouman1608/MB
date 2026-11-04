@@ -184,7 +184,7 @@ Cells use several cyclins, each peaking at a different point in the cycle, so di
 
 ## Apoptosis: programmed cell death
 
-**Apoptosis** is a controlled, orderly way for a cell to destroy itself. The cell shrinks, its DNA is cut into pieces, and it breaks into small membrane-wrapped fragments that neighbouring cells or white blood cells engulf. Because the contents do not spill out, nearby tissue is not damaged.
+**Apoptosis** is a controlled, orderly way for a cell to destroy itself. A common apoptotic sequence includes cell shrinkage, DNA fragmentation and formation of small membrane-bound bodies, which neighbouring cells or phagocytic white blood cells can engulf. Prompt effective clearance limits release of cell contents and usually avoids a strong inflammatory response. If clearance fails, membrane integrity can be lost later, with possible tissue injury and inflammation.
 
 Apoptosis is a normal and useful process:
 

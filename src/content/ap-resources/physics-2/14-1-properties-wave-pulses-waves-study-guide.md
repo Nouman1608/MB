@@ -171,7 +171,7 @@ Because of the square root, you need **four times** the tension to **double** th
 
 ### Sound and temperature
 
-Sound travels through solids, liquids and gases, at different speeds in each. In a given medium, the speed of sound **increases with the temperature** of the medium. In warmer air the molecules move faster, so a compression is passed on more quickly. In dry air at 20 °C sound travels at about 343 m/s.
+Sound travels through solids, liquids and gases, at different speeds in each. For air of fixed composition in the gas model used here, the speed of sound **increases with temperature**. Temperature trends in other media depend on their elastic properties and density; they need not follow this same rule. In warmer air the molecules move faster, so a compression is passed on more quickly. In dry air at 20 °C sound travels at about 343 m/s.
 
 ### Light
 

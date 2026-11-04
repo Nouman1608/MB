@@ -183,6 +183,14 @@ A nucleophile is an electron pair donor. The amine lone pair attacks an electron
 amines take part in the same nucleophilic substitution as ammonia.
 
 ### Substitution with halogenoalkanes: a ladder of products
+<!-- marlbridge-diagram:chem-delta-aqa-amine-alkylation-curly-arrows -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/chemistry/chem-delta-aqa-amine-alkylation-curly-arrows.svg" aria-label="Open full-size diagram: chem-delta-aqa-amine-alkylation-curly-arrows">
+    <img src="/images/learning/chemistry/chem-delta-aqa-amine-alkylation-curly-arrows.svg" width="1528" height="940" alt="Structural curly-arrow sequence for ethylamine plus bromomethane, followed by deprotonation of the N⁺ intermediate by a second ethylamine molecule." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" />
+  </a>
+  <figcaption>Ethylamine alkylation by bromomethane: structural curly-arrow mechanism. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:chem-delta-aqa-amine-alkylation-curly-arrows -->
 
 Each product still has a lone pair on N, so it can attack another halogenoalkane:
 
@@ -198,7 +206,15 @@ In practice the HX is taken up by more base as an ammonium salt.
 To favour the **primary amine**, use excess ammonia. To favour the **quaternary ammonium salt**, use excess
 halogenoalkane. The quaternary ion has no H on N to lose and no lone pair left, so the sequence stops there.
 
-**Worked example 4 (outline the mechanism for ethylamine + bromomethane).** Describe each arrow.
+**Worked example 4 (outline the mechanism for ethylamine + bromomethane).**
+
+<!-- marlbridge-diagram:chem-obj-aqa-ethylamine-bromomethane -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/chemistry/chem-obj-aqa-ethylamine-bromomethane.svg" aria-label="Open full-size diagram: chem-obj-aqa-ethylamine-bromomethane"><img src="/images/learning/chemistry/chem-obj-aqa-ethylamine-bromomethane.svg" width="1528" height="940" alt="Ethylamine attacks bromomethane at the carbon bonded to Br; a second ethylamine removes a proton from the N-positive intermediate, giving N-methylethylamine and ethylammonium bromide." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Ethylamine and bromomethane: two-stage N-alkylation — Marlbridge Chemistry.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:chem-obj-aqa-ethylamine-bromomethane -->
+ Describe each arrow.
 
 Step 1: a curly arrow from the lone pair on N of CH₃CH₂NH₂ to the δ+ carbon of CH₃Br.
 Step 2: a curly arrow from the C–Br bond to Br. The bond breaks heterolytically and Br⁻ leaves.
@@ -214,6 +230,22 @@ surfactant. The ionic N⁺ head is attracted to water and the long chain is not.
 positive it is called a **cationic** surfactant, and it is attracted to negatively charged surfaces.
 
 ### Addition–elimination with acyl chlorides
+<!-- marlbridge-diagram:chem-delta-aqa-amine-acylation-curly-arrows -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/chemistry/chem-delta-aqa-amine-acylation-curly-arrows.svg" aria-label="Open full-size diagram: chem-delta-aqa-amine-acylation-curly-arrows">
+    <img src="/images/learning/chemistry/chem-delta-aqa-amine-acylation-curly-arrows.svg" width="1528" height="940" alt="Structural curly-arrow sequence: methylamine lone pair attacks ethanoyl chloride carbonyl, C=O π pair moves to oxygen, tetrahedral intermediate collapses with chloride leaving, then a second methylamine deprotonates the acylated amine." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" />
+  </a>
+  <figcaption>Methylamine acylation by ethanoyl chloride: full curly-arrow mechanism. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:chem-delta-aqa-amine-acylation-curly-arrows -->
+<!-- marlbridge-diagram:chem-delta-amine-mechanisms -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/chemistry/chem-delta-amine-mechanisms.svg" aria-label="Open full-size diagram: chem-delta-amine-mechanisms">
+    <img src="/images/learning/chemistry/chem-delta-amine-mechanisms.svg" width="1528" height="940" alt="Worked amine alkylation with bromomethane and amine acylation by ethanoyl chloride, showing lone pair attack, leaving groups, intermediates and proton transfer." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" />
+  </a>
+  <figcaption>Amine nucleophilic mechanisms: alkylation and acylation. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:chem-delta-amine-mechanisms -->
 
 Ammonia and primary amines react with acyl chlorides, RCOCl, to give amides. The reaction is fast at room
 temperature.
@@ -237,6 +269,10 @@ Step 4: a base (Cl⁻, or a second CH₃NH₂) removes H⁺ from N⁺, with an a
 Product: CH₃CONHCH₃, N-methylethanamide.
 
 The carbonyl carbon is strongly δ+ because both O and Cl are more electronegative than carbon.
+
+<!-- marlbridge-gap:chem-b12-amine-nucleophile-mechanisms -->
+<figure class="lesson-diagram" style="margin:2rem 0"><a href="/images/learning/chemistry/chem-b12-amine-nucleophile-mechanisms.svg" aria-label="Open full-size diagram: Two nucleophilic mechanisms of amines"><picture><source media="(max-width:800px)" srcset="/images/learning/chemistry/chem-b12-amine-nucleophile-mechanisms-mobile.svg" width="768" height="1120"><img src="/images/learning/chemistry/chem-b12-amine-nucleophile-mechanisms.svg" width="1528" height="870" alt="Amine nucleophilic substitution and acyl-chloride addition–elimination mechanisms, including intermediates and proton transfer." loading="lazy" decoding="async" style="display:block;width:100%;height:auto"></picture></a><figcaption>Paired diagrams preserve the specified nucleophiles, intermediates, bond changes and proton-transfer roles. Select the image to enlarge.</figcaption></figure>
+<!-- /marlbridge-gap:chem-b12-amine-nucleophile-mechanisms -->
 
 ### Acid anhydrides
 

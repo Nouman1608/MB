@@ -147,6 +147,13 @@ In a histogram the **area** of each bar stands for the frequency. The height is 
 
 **Worked example 5.** Heights of 76 plants:
 
+<!-- marlbridge-diagram:maths-b14-unequal-class-width-frequency-density -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/mathematics/maths-b14-unequal-class-width-frequency-density.svg" aria-label="Open full-size diagram: maths-b14-unequal-class-width-frequency-density"><img src="/images/learning/mathematics/maths-b14-unequal-class-width-frequency-density.svg" width="1600" height="1050" alt="Draws the source plant-height histogram for unequal intervals and shows frequencies represented by bar areas, not heights." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Draws the source plant-height histogram for unequal intervals and shows frequencies represented by bar areas, not heights. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:maths-b14-unequal-class-width-frequency-density -->
+
 | Height h (cm) | 0 < h ≤ 10 | 10 < h ≤ 15 | 15 < h ≤ 20 | 20 < h ≤ 30 | 30 < h ≤ 50 |
 |---|---|---|---|---|---|
 | Frequency | 12 | 18 | 22 | 16 | 8 |

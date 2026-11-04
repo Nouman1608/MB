@@ -125,6 +125,14 @@ A sample is used to infer something about a whole population, so the conclusion 
 
 ### Example 4: finding both
 
+<!-- marlbridge-diagram:math-b63-type-one-type-two-errors -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/public/images/learning/mathematics/math-b63-type-one-type-two-errors.svg" aria-label="Open full-size diagram: math-b63-type-one-type-two-errors"><img src="/public/images/learning/mathematics/math-b63-type-one-type-two-errors.svg" width="1528" height="940" alt="Using the source critical region X≤4 or X≥14: if H₀:p=0.45 is true, Type I probability is 0.0403. If the true proportion is 0.7, Type II means 5≤X≤13 and has probability 0.392. The table distinguishes false rejection from a missed change." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Using the source critical region X≤4 or X≥14: if H₀:p=0.45 is true, Type I probability is 0.0403. If the true proportion is 0.7, Type II means 5≤X≤13 and has probability 0.392. The table distinguishes false rejection from a missed change. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:math-b63-type-one-type-two-errors -->
+
+
 Use the critical region in Example 3 (X ≤ 4 or X ≥ 14, n = 20).
 
 - P(Type I) = 0.0403.

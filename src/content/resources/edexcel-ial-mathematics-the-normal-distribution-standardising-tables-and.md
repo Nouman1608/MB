@@ -93,6 +93,14 @@ A quick sketch of the bell with the required region shaded saves most sign error
 
 ### Worked example 1: probabilities
 
+<!-- marlbridge-diagram:maths-b25-normal-mango-mass-interval-probability -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/mathematics/maths-b25-normal-mango-mass-interval-probability.svg" aria-label="Open full-size diagram: maths-b25-normal-mango-mass-interval-probability"><img src="/images/learning/mathematics/maths-b25-normal-mango-mass-interval-probability.svg" width="1600" height="1050" alt="M~N(310,20²) grams with Φ(0.75)=0.7734 and Φ(1.5)=0.9332. For 280&lt;M&lt;325, z-bounds are −1.5 and 0.75. The shaded interval probability is Φ(0.75)−Φ(−1.5)=0.7734−(1−0.9332)=0.7066." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>M~N(310,20²) grams with Φ(0.75)=0.7734 and Φ(1.5)=0.9332. For 280&lt;M&lt;325, z-bounds are −1.5 and 0.75. The shaded interval probability is Φ(0.75)−Φ(−1.5)=0.7734−(1−0.9332)=0.7066. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:maths-b25-normal-mango-mass-interval-probability -->
+
+
 The mass M grams of a mango from an orchard is modelled by M ~ N(310, 20²). Data: Φ(0.75) = 0.7734 and Φ(1.5) = 0.9332. Find (a) P(M < 325), (b) P(M > 280), (c) P(280 < M < 325), (d) P(M < 295).
 
 ```

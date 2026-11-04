@@ -224,6 +224,14 @@ Two points when 144 - 4k² > 0, so -6 < k < 6. Tangent when k = ±6. No intersec
 
 Example: x² + y² = 16 and (x - 6)² + (y - 2)² = 9 have d = √40 ≈ 6.32, r1 + r2 = 7 and |r1 - r2| = 1. Since 1 < 6.32 < 7, they meet at two points.
 
+<!-- marlbridge-diagram:maths-b39-ocr-line-circle-intersections -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/mathematics/maths-b39-ocr-line-circle-intersections.svg" aria-label="Open full-size diagram: maths-b39-ocr-line-circle-intersections"><img src="/images/learning/mathematics/maths-b39-ocr-line-circle-intersections.svg" width="1600" height="1050" alt="For y=x+k and x²+y²=18, Δ=144−4k²; two intersections for −6&lt;k&lt;6, tangencies at k=±6, none for |k|&gt;6." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>For y=x+k and x²+y²=18, Δ=144−4k²; two intersections for −6&lt;k&lt;6, tangencies at k=±6, none for |k|&gt;6. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:maths-b39-ocr-line-circle-intersections -->
+
+
 ## Common errors
 
 - Writing the perpendicular gradient as the negative only, or the reciprocal only. You need both changes.

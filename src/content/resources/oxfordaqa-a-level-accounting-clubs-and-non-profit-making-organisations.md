@@ -65,6 +65,14 @@ The treasurer is often a volunteer who keeps only a cash book. The accountant th
 summary, much as with a trader who keeps incomplete records.
 
 ## Worked example: Vellacombe Tennis Club, year ended 31 December 2025
+<!-- marlbridge-diagram:ac-b14-club-accounts-adjustment-flow -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/accounting/ac-b14-club-accounts-adjustment-flow.svg" aria-label="Open full-size diagram: ac-b14-club-accounts-adjustment-flow">
+    <img src="/images/learning/accounting/ac-b14-club-accounts-adjustment-flow.svg" width="1600" height="1050" alt="Cash records flow through adjustments to income and expenditure, then accumulated fund and financial position." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" />
+  </a>
+  <figcaption>Cash timing differs from earned income: adjust subscriptions, inventory, accruals and prepayments. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:ac-b14-club-accounts-adjustment-flow -->
 
 The treasurer supplies this information. Each step below uses it.
 

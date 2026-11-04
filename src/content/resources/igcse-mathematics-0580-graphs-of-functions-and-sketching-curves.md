@@ -146,6 +146,14 @@ A sketch needs the correct **shape**, the **points where it crosses the axes** l
 
 ### Worked example 5: sketching a quadratic
 
+<!-- marlbridge-diagram:maths-b35-quadratic-sketch-roots-vertex -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/mathematics/maths-b35-quadratic-sketch-roots-vertex.svg" aria-label="Open full-size diagram: maths-b35-quadratic-sketch-roots-vertex"><img src="/images/learning/mathematics/maths-b35-quadratic-sketch-roots-vertex.svg" width="1600" height="1050" alt="Factor x²+2x−15=(x+5)(x−3), giving roots −5 and 3. The y-intercept is (0,−15); the axis of symmetry is x=−1. Completing the square gives y=(x+1)²−16, so the minimum is (−1,−16)." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Factor x²+2x−15=(x+5)(x−3), giving roots −5 and 3. The y-intercept is (0,−15); the axis of symmetry is x=−1. Completing the square gives y=(x+1)²−16, so the minimum is (−1,−16). Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:maths-b35-quadratic-sketch-roots-vertex -->
+
+
 Sketch y = x² + 2x − 15.
 
 ```

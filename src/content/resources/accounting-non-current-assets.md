@@ -88,6 +88,14 @@ generate in each period, rather than being charged entirely in the year of purch
 
 ## Two depreciation methods
 
+<!-- marlbridge-diagram:accounting-cambridge-noncurrent-asset-depreciation-methods -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/accounting/accounting-cambridge-noncurrent-asset-depreciation-methods.svg" aria-label="Open full-size diagram: accounting-cambridge-noncurrent-asset-depreciation-methods"><img src="/images/learning/accounting/accounting-cambridge-noncurrent-asset-depreciation-methods.svg" width="1600" height="1050" alt="Cambridge 9706 straight-line and reducing-balance methods, formulas and lesson examples." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Depreciation: level or declining charge? Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:accounting-cambridge-noncurrent-asset-depreciation-methods -->
+
+
 The syllabus requires candidates to calculate depreciation using two methods:
 
 - **Straight-line method**: an equal amount of depreciation is charged in each year of the asset's

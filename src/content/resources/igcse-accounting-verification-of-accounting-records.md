@@ -110,6 +110,14 @@ the double entry, since the specific correcting entries differ by error
 type.
 
 ## Worked example: correction of errors
+<!-- marlbridge-diagram:ac-b14-error-of-principle-journal-correction -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/accounting/ac-b14-error-of-principle-journal-correction.svg" aria-label="Open full-size diagram: ac-b14-error-of-principle-journal-correction">
+    <img src="/images/learning/accounting/ac-b14-error-of-principle-journal-correction.svg" width="1600" height="1050" alt="Correction journal moves $450 from motor vehicles to vehicle repairs; both trial-balance sides remain equal." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" />
+  </a>
+  <figcaption>Debit vehicle repairs $450; credit motor vehicles $450. This misclassification does not disturb trial-balance equality. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:ac-b14-error-of-principle-journal-correction -->
 
 A business pays $450 for vehicle repairs but posts the amount to the
 motor vehicles (non-current asset) account instead of the vehicle

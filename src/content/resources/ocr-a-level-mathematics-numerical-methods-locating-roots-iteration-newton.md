@@ -87,6 +87,14 @@ Rearrangement (A) homes in on α = 1.7625 to 4 decimal places. Rearrangement (B)
 
 ### Staircase and cobweb diagrams
 
+<!-- marlbridge-diagram:math-b67-cobweb-fixed-point-iteration -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/public/images/learning/mathematics/math-b67-cobweb-fixed-point-iteration.svg" aria-label="Open full-size diagram: math-b67-cobweb-fixed-point-iteration"><img src="/public/images/learning/mathematics/math-b67-cobweb-fixed-point-iteration.svg" width="1528" height="940" alt="For g(x)=∛(9−2x), starting x₁=1.5 produces 1.8171, 1.7507, 1.7650… and approaches α≈1.7625. The cobweb alternates across the fixed point; source gives |g′(α)|≈0.215&lt;1." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>For g(x)=∛(9−2x), starting x₁=1.5 produces 1.8171, 1.7507, 1.7650… and approaches α≈1.7625. The cobweb alternates across the fixed point; source gives |g′(α)|≈0.215&lt;1. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:math-b67-cobweb-fixed-point-iteration -->
+
+
 Draw y = x and y = g(x). From x₁ go vertically to the curve, then horizontally to the line y = x. That gives x₂. Repeat. Where g is increasing the path is a **staircase**. Where g is decreasing the path spirals, a **cobweb**.
 
 ## Convergence and failure (1.09e)
@@ -172,6 +180,14 @@ For a curve that is **concave** (f″ < 0) the chords lie below the curve, so th
 **Rectangles.** For an increasing function, rectangles with heights at the left ends of the strips lie under the curve (lower bound), and rectangles with heights at the right ends lie over it (upper bound). For a decreasing function the roles swap.
 
 ### Worked example 6
+
+<!-- marlbridge-diagram:maths-b38-trapezium-rule-integral-bounds -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/mathematics/maths-b38-trapezium-rule-integral-bounds.svg" aria-label="Open full-size diagram: maths-b38-trapezium-rule-integral-bounds"><img src="/images/learning/mathematics/maths-b38-trapezium-rule-integral-bounds.svg" width="1600" height="1050" alt="With h=0.5 and y=ln x sampled at 1,1.5,2,2.5,3, the trapezium estimate is 1.2821. Since ln x is increasing, left rectangles give lower bound 1.0075 and right rectangles upper bound 1.5568. The exact integral 3ln3−2≈1.2958 confirms the trapezium estimate is an underestimate." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>With h=0.5 and y=ln x sampled at 1,1.5,2,2.5,3, the trapezium estimate is 1.2821. Since ln x is increasing, left rectangles give lower bound 1.0075 and right rectangles upper bound 1.5568. The exact integral 3ln3−2≈1.2958 confirms the trapezium estimate is an underestimate. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:maths-b38-trapezium-rule-integral-bounds -->
+
 
 Estimate ∫ ln x dx from 1 to 3 with 4 strips, and find bounds.
 

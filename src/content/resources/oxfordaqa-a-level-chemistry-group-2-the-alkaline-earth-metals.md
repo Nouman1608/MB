@@ -134,8 +134,12 @@ energies fall.
 With liquid water the general equation is:
 
 ```
-M(s) + 2H₂O(l) → M(OH)₂(aq) + H₂(g)
+M(s) + 2H₂O(l) → M(OH)₂ + H₂(g)
 ```
+
+Write the product state according to the metal and conditions: Mg(OH)₂ forms as a sparingly soluble solid;
+Ca(OH)₂ is only sparingly soluble and can make the mixture cloudy; Sr(OH)₂ and Ba(OH)₂ are more soluble.
+The equation's unlabelled hydroxide formula does not mean every Group 2 hydroxide is fully aqueous.
 
 The cloudiness with calcium is undissolved Ca(OH)₂. With steam, magnesium forms the oxide instead:
 
@@ -204,8 +208,9 @@ neutralises excess hydrochloric acid in the stomach:
 Mg(OH)₂ + 2HCl → MgCl₂ + 2H₂O
 ```
 
-Being sparingly soluble, it releases little free hydroxide at once, so the stomach never becomes
-strongly alkaline.
+Being sparingly soluble, it limits how much hydroxide is present in solution at once. The resulting pH
+depends on dose, mixing and the amount of acid present; sparing solubility does not guarantee that pH
+under every use condition.
 
 **Ca(OH)₂ in agriculture.** Farmers spread calcium hydroxide on acidic soil to raise its pH, which helps
 crops grow:

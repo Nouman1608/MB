@@ -200,6 +200,14 @@ total: 434.00 + 148.80 = 582.80
 
 ### Best-buy problems
 
+<!-- marlbridge-diagram:math-b56-oxfordaqa-rice-best-buy-unit-price -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/public/images/learning/mathematics/math-b56-oxfordaqa-rice-best-buy-unit-price.svg" aria-label="Open full-size diagram: math-b56-oxfordaqa-rice-best-buy-unit-price"><img src="/public/images/learning/mathematics/math-b56-oxfordaqa-rice-best-buy-unit-price.svg" width="1528" height="940" alt="Two rice packs are shown in 100 g units: 750 g for £2.55 costs 34 p per100 g; 1,200 g for £3.90 costs 32.5 p per100g, so the larger pack is cheaper per unit." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Two rice packs are shown in 100 g units: 750 g for £2.55 costs 34 p per100 g; 1,200 g for £3.90 costs 32.5 p per100g, so the larger pack is cheaper per unit.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:math-b56-oxfordaqa-rice-best-buy-unit-price -->
+
+
 A best buy gives the lowest cost per unit, or equivalently the most quantity per unit of money. Pick one comparison and use it for every option. Convert to the same unit first.
 
 **Worked example 11.** Rice is sold as 750 g for 2.55 or 1.2 kg for 3.90. Which is the better buy?

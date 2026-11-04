@@ -87,6 +87,14 @@ Identifying the *reason* matters, because the right response depends on it.
 
 ### Lewin's force field analysis
 
+<!-- marlbridge-diagram:business-oxfordaqa-lewin-force-field-velmoray -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/business/business-oxfordaqa-lewin-force-field-velmoray.svg" aria-label="Open full-size diagram: business-oxfordaqa-lewin-force-field-velmoray"><img src="/images/learning/business/business-oxfordaqa-lewin-force-field-velmoray.svg" width="1600" height="1050" alt="Scores Velmoray&#x27;s driving and restraining forces, then shows the effect of retraining on the balance." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Scores Velmoray&#x27;s driving and restraining forces, then shows the effect of retraining on the balance. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:business-oxfordaqa-lewin-force-field-velmoray -->
+
+
 **Force field analysis** lists the **driving forces** pushing for a change and the **restraining forces** holding it back. Managers often give each force a strength score (for example 1 = weak, 5 = strong). Change is more likely when driving forces outweigh restraining forces. Managers then plan to **strengthen driving forces** and, usually more effectively, **weaken restraining forces**.
 
 **Worked example 1: Velmoray's automation decision**

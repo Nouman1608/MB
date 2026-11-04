@@ -212,6 +212,14 @@ The values differ by about 0.0002, so with a large population the independence m
 
 ## Common errors
 
+<!-- marlbridge-diagram:math-b69-probability-common-error-checks -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/public/images/learning/mathematics/math-b69-probability-common-error-checks.svg" aria-label="Open full-size diagram: math-b69-probability-common-error-checks"><img src="/public/images/learning/mathematics/math-b69-probability-common-error-checks.svg" width="1528" height="940" alt="Source checks: overlapping events require subtraction; P(A|B) divides by P(B); without-replacement second-stage branches change; independence is tested with P(A∩B)=P(A)P(B). Example tree gives same-colour probability 7/15." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Source checks: overlapping events require subtraction; P(A|B) divides by P(B); without-replacement second-stage branches change; independence is tested with P(A∩B)=P(A)P(B). Example tree gives same-colour probability 7/15. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:math-b69-probability-common-error-checks -->
+
+
 - Treating "mutually exclusive" and "independent" as the same thing. Mutually exclusive events that are both possible are never independent.
 - Using P(A ∪ B) = P(A) + P(B) without checking that the events cannot overlap.
 - Leaving the denominator as 1 or the total when finding P(A | B). The denominator is P(B).

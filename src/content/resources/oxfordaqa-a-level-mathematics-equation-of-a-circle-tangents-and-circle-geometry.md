@@ -36,6 +36,8 @@ You also need straight-line coordinate geometry: gradient, midpoint, distance, p
 
 ## 1. The equation of a circle
 
+<figure class="learning-diagram" style="margin:1.5rem 0;"><a href="/public/images/learning/mathematics/math-sub-402-circle-equation-centre-radius.svg" aria-label="Open full-size diagram: math-sub-402-circle-equation-centre-radius"><img src="/public/images/learning/mathematics/math-sub-402-circle-equation-centre-radius.svg" width="1528" height="940" alt="The signs inside brackets are opposite to the centre coordinates (x − a)² + (y − b)² = r²; (x + 5)² + (y − 2)² = 16; Centre C = (−5, 2); Radius r = 4" loading="lazy" decoding="async" style="display:block;width:100%;height:auto;" /></a><figcaption>Read centre and radius from circle form — Marlbridge Mathematics</figcaption></figure>
+
 A circle is every point at a fixed distance r (the radius) from a fixed point (a, b) (the centre). Applying the distance formula to a general point (x, y) and squaring gives
 
 ```
@@ -57,6 +59,8 @@ Expanded equations always have x² and y² with equal coefficients and no xy ter
 **Testing a point.** Substitute (x, y) into (x − a)² + (y − b)². Equal to r² means the point is on the circle, less than r² means inside, and more than r² means outside.
 
 ## 2. Completing the square
+
+<figure class="learning-diagram" style="margin:1.5rem 0;"><a href="/public/images/learning/mathematics/math-sub-402-complete-square-circle.svg" aria-label="Open full-size diagram: math-sub-402-complete-square-circle"><img src="/public/images/learning/mathematics/math-sub-402-complete-square-circle.svg" width="1528" height="940" alt="Pair x and y terms, add balancing squares, then identify r² x² + y² + 8x − 6y − 24 = 0; (x + 4)² − 16 + (y − 3)² − 9 − 24 = 0; (x + 4)² + (y − 3)² = 49; Centre (−4, 3), radius 7" loading="lazy" decoding="async" style="display:block;width:100%;height:auto;" /></a><figcaption>Complete the square to find a circle — Marlbridge Mathematics</figcaption></figure>
 
 To find the centre and radius from an expanded equation:
 
@@ -88,6 +92,8 @@ Centre (−3, 2), radius √18 = 3√2. Leave the radius as a surd unless the qu
 
 ## 3. Translation of circles
 
+<figure class="learning-diagram" style="margin:1.5rem 0;"><a href="/public/images/learning/mathematics/math-sub-402-translate-circle.svg" aria-label="Open full-size diagram: math-sub-402-translate-circle"><img src="/public/images/learning/mathematics/math-sub-402-translate-circle.svg" width="1528" height="940" alt="A translation changes the centre; radius and shape stay fixed Original centre (1, −2), r = 3; Translation vector (3, 4); New centre = (1 + 3, −2 + 4) = (4, 2); Image: (x − 4)² + (y − 2)² = 9" loading="lazy" decoding="async" style="display:block;width:100%;height:auto;" /></a><figcaption>Translate a circle by moving its centre — Marlbridge Mathematics</figcaption></figure>
+
 A translation moves every point without turning or resizing it. So the radius is unchanged and only the centre moves.
 
 If the circle (x − a)² + (y − b)² = r² is translated by the vector (p, q), the centre moves from (a, b) to (a + p, b + q). The image is
@@ -108,11 +114,21 @@ To find an unknown translation, compare the two centres: the vector is image cen
 
 ## 4. Circle properties in coordinate form
 
+<figure class="learning-diagram" style="margin:1.5rem 0;"><a href="/public/images/learning/mathematics/math-sub-402-circle-chord-properties.svg" aria-label="Open full-size diagram: math-sub-402-circle-chord-properties"><img src="/public/images/learning/mathematics/math-sub-402-circle-chord-properties.svg" width="1528" height="940" alt="Midpoint, distance and perpendicularity connect circle properties Diameter endpoints A(−2,3), B(6,7); Centre = midpoint = (2,5); r² = (−4)² + (−2)² = 20; For chord midpoint M: half-chord² = r² − CM²" loading="lazy" decoding="async" style="display:block;width:100%;height:auto;" /></a><figcaption>Use diameter and chord geometry — Marlbridge Mathematics</figcaption></figure>
+
 The specification names three properties. Each one turns into a gradient or distance calculation.
 
 **The angle in a semicircle is a right angle.** Suppose AB is a diameter and P is any other point on the circle. Then AP and BP are perpendicular, so (gradient AP) × (gradient BP) = −1. The converse also holds: if the gradients of AP and BP multiply to −1, then P is on the circle with diameter AB.
 
 **Worked example 5.** The segment from A(−2, 3) to B(6, 7) is a diameter. Work out the equation of the circle, and prove that P(4, 9) lies on it.
+
+<!-- marlbridge-diagram:math-b42-oxfordaqa-circle-diameter-right-angle-proof -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/mathematics/math-b42-oxfordaqa-circle-diameter-right-angle-proof.svg" aria-label="Open full-size diagram: math-b42-oxfordaqa-circle-diameter-right-angle-proof"><img src="/images/learning/mathematics/math-b42-oxfordaqa-circle-diameter-right-angle-proof.svg" width="1600" height="1050" alt="Circle geometry: a diameter subtends a right angle" loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Circle geometry: a diameter subtends a right angle Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:math-b42-oxfordaqa-circle-diameter-right-angle-proof -->
+
 
 ```
 centre = midpoint of AB = (2, 5)
@@ -139,6 +155,14 @@ chord length = 2√5
 Note that the midpoint is given, so CM is perpendicular to the chord automatically.
 
 ## 5. Tangents and normals
+
+<!-- marlbridge-diagram:math-final-402-circle-tangent-normal -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/mathematics/math-final-402-circle-tangent-normal.svg" aria-label="Open full-size diagram: math-final-402-circle-tangent-normal"><img src="/images/learning/mathematics/math-final-402-circle-tangent-normal.svg" width="1528" height="940" alt="Coordinate graph marking centre C, point P, radius, perpendicular tangent and normal, with exact line equations." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Coordinate graph marking centre C, point P, radius, perpendicular tangent and normal, with exact line equations.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:math-final-402-circle-tangent-normal -->
+
 
 A tangent meets the circle at exactly one point and is at right angles to the radius there. The normal at a point is the line perpendicular to the tangent there, so it runs along the radius and passes through the centre.
 

@@ -117,7 +117,14 @@ Fragment size and distance are not in direct proportion. Distance falls roughly 
 
 ## PCR: copying one region millions of times
 
-PCR copies a chosen **target region** of DNA. You need the template DNA, two **primers** (short single strands complementary to the two ends of the target, one for each strand), free nucleotides, and a **heat-stable DNA polymerase**. Each cycle has three steps:
+PCR copies a chosen **target region** of DNA. Two primers bind opposite strands at sites flanking the target, with their 3′ ends facing inward. DNA polymerase extends each primer only 5′→3′, so the primer positions define the amplified region. You also need template DNA, free nucleotides and a **heat-stable DNA polymerase**. RNA-virus targets require reverse transcription to make DNA before conventional DNA PCR.
+
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/biology/bio-b33-pcr-primer-orientation.svg" aria-label="Open full-size diagram: PCR primer orientation"><img src="/images/learning/biology/bio-b33-pcr-primer-orientation.svg" width="960" height="440" alt="Two antiparallel DNA templates flank a target region. The forward primer binds the lower template and extends right; the reverse primer binds the upper template and extends left. Both primer 3′ ends point inward, defining the amplified region." loading="lazy" decoding="async" style="display:block;width:100%;height:auto;" /></a>
+  <figcaption>Opposing primers face into the target. DNA polymerase extends from each primer in the 5′→3′ direction, so the primer positions define the amplified region.</figcaption>
+</figure>
+
+Each cycle has three steps:
 
 1. **Denature** (typically about 94–98 °C). Heat breaks the hydrogen bonds between bases, so the two strands separate.
 2. **Anneal** (typically about 50–65 °C). The mixture cools, and the primers base-pair with their complementary sequences on the single strands.
@@ -166,14 +173,19 @@ PCR lets scientists work with tiny samples: a trace of blood at a crime scene, a
 
 ## Bacterial transformation and gene cloning
 
-In **transformation**, bacterial cells take up foreign DNA (you met natural transformation in Topic 6.7). In the lab, the DNA is usually a **plasmid**, a small circle of DNA, carrying:
+<figure>
+  <a href="/images/learning/biology/bio-b15-bacterial-transformation-selection.svg" aria-label="Open full-size diagram: bacterial transformation, selection and cloning"><img src="/images/learning/biology/bio-b15-bacterial-transformation-selection.svg" width="1600" height="1000" alt="Four stages: a plasmid with a replication origin, gene of interest and resistance marker; uptake by only some bacteria; antibiotic selection with non-resistant cells failing to form colonies; and plasmid copying as selected bacteria divide. A no-antibiotic control does not select transformants." loading="lazy" decoding="async" style="display:block;width:100%;height:auto;" /></a>
+  <figcaption>Antibiotic selection identifies cells expressing the marker; it does not by itself confirm the inserted gene or eliminate background resistance.</figcaption>
+</figure>
+
+In **transformation**, bacterial cells take up foreign DNA (you met natural transformation in Topic 6.7). In the lab, the DNA is usually a **plasmid**, a small DNA molecule with an origin that functions in the recipient, carrying:
 
 - the **gene of interest**, and
 - a **selectable marker**, usually a gene for resistance to an antibiotic.
 
-Only a small fraction of cells take up the plasmid. To find them, the cells are spread on a plate containing the antibiotic. Cells **without** the plasmid die; cells **with** it grow into colonies. Each colony comes from one transformed cell.
+Only a small fraction of cells take up the plasmid. Selection plates contain the relevant antibiotic, while no-DNA and other suitable controls help reveal background resistance or contamination. Cells that express the resistance marker can form colonies; growth supports successful selection but does not alone confirm the gene of interest, plasmid structure or absence of spontaneous resistant cells. Each isolated colony is treated as a candidate transformant and can be checked further.
 
-When transformed bacteria divide, they copy the plasmid too. This is **gene cloning**: making many copies of a DNA fragment. Because the genetic code is shared by almost all organisms, bacteria can also transcribe and translate a gene from another species and make its protein (eukaryotic genes are supplied without their introns, which bacteria cannot remove). Human insulin for treating diabetes, for example, is made this way. Organisms that carry genes from another species are **transgenic**, one kind of **genetically modified organism (GMO)**.
+When transformed bacteria divide, they copy the plasmid too. This is **gene cloning**: making many copies of a DNA fragment. Because the genetic code is nearly universal, bacteria can sometimes express a gene from another species. The construct also needs compatible bacterial expression signals, such as a promoter and ribosome-binding site; eukaryotic coding sequences are commonly supplied without introns, and the protein may require suitable folding or processing. Human insulin is made using engineered bacterial or yeast expression systems. Organisms that carry genes from another species are **transgenic**, one kind of **genetically modified organism (GMO)**.
 
 **Transformation efficiency** measures how well it worked:
 
@@ -186,11 +198,11 @@ When transformed bacteria divide, they copy the plasmid too. This is **gene clon
 Comparing DNA from different samples gives a **DNA fingerprint**: a pattern, either of bands on a gel or of sequence differences, that is characteristic of an individual or species. Uses include:
 
 - **Forensic identification:** does DNA from a crime scene match a suspect, or exclude them?
-- **Kinship:** each band (or allele) in a child must come from one of the two biological parents.
+- **Kinship:** at tested inherited loci, a child's alleles are generally explained by the biological parents, subject to mutation, null alleles, recombination, sample mixtures and assay error.
 - **Identifying organisms:** for example, checking whether food is the species on the label, or which bacterium is causing an infection.
 - **Phylogenetics:** species with fewer sequence differences in the same gene usually share a more recent common ancestor (Unit 7).
 
-A match **supports** identity but does not prove it if only a few bands or bases are compared. A mismatch, if the method was reliable, **excludes** a sample.
+A match **supports** identity but does not prove it if only a few bands or bases are compared. A mismatch can exclude a sample only under a validated marker and error model that accounts for mutation, null alleles, mixtures and other relevant limitations; DNA-sequence findings also require variant interpretation before a phenotype-causal claim.
 
 ## Worked example 1: how many PCR cycles?
 
@@ -215,7 +227,7 @@ A match **supports** identity but does not prove it if only a few bands or bases
 1. **(a) Fillet band at 27 mm.** It lies between the 3000 bp band (24 mm) and the 2000 bp band (30 mm), about halfway. Because the scale is logarithmic, halfway in distance is not halfway in size: a standard curve of log(size) against distance gives **about 2500 bp**.
 2. **Fillet band at 44 mm.** Between 1000 bp (40 mm) and 500 bp (50 mm), a little under halfway: **about 760 bp**.
 3. **(b)** Species X gives bands at 22 mm (about 3500 bp) and 47 mm (about 610 bp). The fillet's bands do not match. The fillet's pattern matches **species Y** exactly. So the evidence indicates that the fillet is species Y, not X, and the label is likely wrong.
-4. **(c)** Lane 5 contains everything except DNA. No bands appear, which shows that the reagents were not contaminated with DNA. If a band appeared there, any result would be unreliable.
+4. **(c)** Lane 5 contains everything except DNA. No bands appear, so this no-template control shows no detectable target amplification in that control under these assay conditions. It does not prove that every reagent, extraction or sample was free of contamination. A target band in the control would make the run suspect.
 
 **Check.** Did the PCR product get cut? Each species gives two bands. If the uncut product were one band, its size should equal the sum of the fragments: the fillet's 2500 + 760 = 3260, about 3300 bp; species X's 3500 + 610 = 4110, about 4100 bp. The two species' products differ in total size as well as in where they are cut.
 
@@ -229,7 +241,7 @@ A match **supports** identity but does not prove it if only a few bands or bases
 - **"Primers are enzymes."** Primers are short strands of nucleic acid that give the polymerase a starting point.
 - **"Every cell in a transformation takes up the plasmid."** Only a small fraction do; the antibiotic selects them.
 - **"The antibiotic makes the bacteria resistant."** The resistance gene on the plasmid does; the antibiotic only kills cells without it.
-- **"A matching DNA pattern proves identity."** It supports identity; a mismatch excludes. Confidence depends on how many regions are compared.
+- **"A matching DNA pattern proves identity."** A match supports a relationship or identification only within the tested markers and reference set. A mismatch can exclude under a validated marker and error model; not every mismatch in every DNA test is decisive.
 - **"Reading about the lab is the same as doing it."** It is not; you still need to carry out the lab investigations.
 
 ## Where this leads

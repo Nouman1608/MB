@@ -115,6 +115,13 @@ Using more or fewer cells in the supply also changes the p.d. For a full I-V gra
 - For a diode, include a fixed resistor in series so the current cannot become large enough to damage it.
 - For a thermistor, place it in a water bath and read the temperature with a thermometer as you heat or cool it. For an LDR, change the light intensity falling on it, for example by moving a lamp towards or away from it, and keep other light constant.
 
+<!-- marlbridge-diagram:phys-gap-iv-investigation-circuit-curves -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/physics/phys-gap-iv-investigation-circuit-curves.svg" aria-label="Open full-size diagram: I-V investigation circuit and characteristic curves"><img src="/images/learning/physics/phys-gap-iv-investigation-circuit-curves.svg" width="1200" height="720" alt="A test circuit has an ammeter in series and a voltmeter across the component. Beside it are I-V curves for a fixed resistor, filament lamp and diode." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Measure voltage across and current through the component; vary the supply and plot I vertically against V horizontally. NTC and LDR tests also control temperature or light. — Marlbridge Physics.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:phys-gap-iv-investigation-circuit-curves -->
+
 ## I-V graphs: linear or non-linear (P3.2g)
 
 An I-V graph plots current on the vertical axis against p.d. on the horizontal axis. Plot the points, then draw a smooth line or curve of best fit, not dot-to-dot.

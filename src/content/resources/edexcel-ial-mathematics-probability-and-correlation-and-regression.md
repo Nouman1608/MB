@@ -85,6 +85,14 @@ Independence test: P(C) P(B) = (35/60)(28/60) = 49/180, but P(C ∩ B) = 15/60 =
 
 ## Tree diagrams and the product law (3.2, 3.4)
 
+<!-- marlbridge-diagram:maths-b23-conditional-probability-rain-bus-tree -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/mathematics/maths-b23-conditional-probability-rain-bus-tree.svg" aria-label="Open full-size diagram: maths-b23-conditional-probability-rain-bus-tree"><img src="/images/learning/mathematics/maths-b23-conditional-probability-rain-bus-tree.svg" width="1600" height="1050" alt="Rain has probability 0.3 and dry weather 0.7. Conditional bus lateness probabilities are 0.4 given rain and 0.1 given dry weather. The two late paths total 0.12+0.07=0.19, so P(rain given late)=0.12/0.19=12/19≈0.632." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Rain has probability 0.3 and dry weather 0.7. Conditional bus lateness probabilities are 0.4 given rain and 0.1 given dry weather. The two late paths total 0.12+0.07=0.19, so P(rain given late)=0.12/0.19=12/19≈0.632. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:maths-b23-conditional-probability-rain-bus-tree -->
+
+
 On a tree, multiply along branches (product law) and add the ends of different routes (sum law). Branches from one node sum to 1. After the first stage, the second-stage probabilities are conditional.
 
 **Example 3.** P(rain) = 0.3. If it rains, the bus is late with probability 0.4. If it is dry, the bus is late with probability 0.1. Find P(late), then P(it rained given the bus was late).

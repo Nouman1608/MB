@@ -157,6 +157,14 @@ The condition PX.d = 0 gives a linear equation in t, because t appears only once
 
 ### Worked example 4: foot of the perpendicular
 
+<!-- marlbridge-diagram:math-b64-oxfordaqa-scalar-product-foot-perpendicular-3d -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/public/images/learning/mathematics/math-b64-oxfordaqa-scalar-product-foot-perpendicular-3d.svg" aria-label="Open full-size diagram: math-b64-oxfordaqa-scalar-product-foot-perpendicular-3d"><img src="/public/images/learning/mathematics/math-b64-oxfordaqa-scalar-product-foot-perpendicular-3d.svg" width="1528" height="940" alt="An oblique 3D sketch connects P=(7,7,−4) to the foot X=(5,6,2) on the line through A=(1,2,0) in direction (2,2,1); the zero dot product verifies perpendicularity." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>An oblique 3D sketch connects P=(7,7,−4) to the foot X=(5,6,2) on the line through A=(1,2,0) in direction (2,2,1); the zero dot product verifies perpendicularity.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:math-b64-oxfordaqa-scalar-product-foot-perpendicular-3d -->
+
+
 Find the foot X of the perpendicular from P(7, 7, −4) to the line l: r = (1, 2, 0) + t(2, 2, 1).
 
 ```

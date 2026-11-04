@@ -28,7 +28,7 @@ framework: { schoolYear: "2026-27", examSeries: "May 2027" }
 sources: ["ced-biology", "page-biology"]
 keyPoints:
   - "Phenotype = genotype acting in an environment. The same alleles can give different traits under different conditions."
-  - "The environment works mainly by changing gene expression (which genes are switched on, and how strongly) or by changing how active a gene product is. The DNA sequence is not changed."
+  - "In the non-mutational plastic responses studied here, conditions change gene expression or gene-product activity without requiring a DNA-sequence change. Other environmental exposures can also cause mutations."
   - "Phenotypic plasticity is the ability of one genotype to produce different phenotypes. A reaction norm graph shows it: phenotype against environment, one line per genotype."
   - "To show an effect is environmental, keep the genotype the same (clones, identical twins, inbred lines) and change only the environment."
 faqs:
@@ -55,7 +55,7 @@ The **genotype** sets what is possible. The **environment** (temperature, light,
 
 ## How the environment reaches the genes
 
-The environment does not rewrite the DNA sequence. It acts in two main ways.
+This section focuses on plastic responses that do not require a DNA-sequence change. Environmental exposures can also cause mutations, but that is a different mechanism. For the non-mutational examples here, two main routes are:
 
 1. **It changes gene expression.** A signal from outside, such as warmth, light or a chemical, is detected by the cell. The signal switches some genes on, switches others off, or changes how much protein is made from them. Different proteins mean a different phenotype. You will study how genes are switched on and off in Unit 6.
 2. **It changes how well a gene product works.** Many gene products are enzymes. As you saw in Topic 3.2, enzyme activity depends on temperature and pH. If an enzyme only works below a certain temperature, the phenotype it produces will depend on temperature, even though the gene is the same.
@@ -72,10 +72,10 @@ The environment does not rewrite the DNA sequence. It acts in two main ways.
 | **Tanning in humans and other animals** | ultraviolet (UV) light | skin colour | UV exposure increases melanin production by pigment cells in the skin |
 | **Height and weight in humans** | diet, health, activity | adult height and body mass | many genes set a range (polygenic); nutrition and health decide where in that range a person ends up |
 | **Mating in yeast** | presence of the opposite mating type | pheromone production and mating behaviour | pheromone from a cell of the opposite type binds a receptor and switches on mating genes, including pheromone production |
-| **Colour points in Siamese cats** | skin temperature | dark ears, face, paws and tail | a heat-sensitive form of the enzyme **tyrosinase** makes melanin only in cooler parts of the skin |
-| **Phenylketonuria (PKU) in humans** | diet | whether brain damage develops | people with two recessive alleles cannot break down phenylalanine; a low-phenylalanine diet from birth prevents the harmful build-up |
+| **Colour points in Siamese cats** | skin temperature | dark ears, face, paws and tail | a temperature-sensitive form of **tyrosinase** has greater activity in cooler skin, contributing to darker extremities |
+| **Phenylketonuria (PKU) in humans** | diet and metabolic management | phenylalanine accumulation and risk of neurological injury | reduced phenylalanine hydroxylase activity can allow harmful accumulation; early, sustained metabolic control can greatly reduce risk without changing the inherited variants |
 
-Notice the different routes. In reptiles and yeast, the signal changes **which genes are expressed**. In Siamese cats, the gene is expressed everywhere but its **enzyme only works** where the skin is cool. In hydrangeas, soil chemistry changes the **pigment's colour** after it is made. In PKU, the genotype is the same with or without the diet, but the **outcome** depends entirely on what the person eats. All of them fit the same idea: one genotype, more than one possible phenotype.
+Notice the different routes. In reptiles and yeast, the signal changes **which genes are expressed**. In Siamese cats, pigment-producing cells can make a temperature-sensitive form of tyrosinase whose activity is greater in cooler skin. In hydrangeas, soil chemistry changes the **pigment's colour** after it is made. In PKU, the genotype is the same with or without the diet, but diet can strongly modify the **outcome**, alongside residual enzyme activity, treatment and other factors. All of them fit the same idea: one genotype, more than one possible phenotype.
 
 ## Representing plasticity: reaction norms
 
@@ -119,10 +119,10 @@ A **reaction norm** (norm of reaction) is a graph of phenotype against an enviro
 
 How to read a reaction norm:
 
-- **A flat line**: the phenotype does not depend on this environmental factor. The trait is not plastic for this factor.
+- **A flat line**: no change is detected across the tested range and measurement precision for this factor. It does not establish invariance in every possible environment.
 - **A sloping line**: the trait is plastic. The steeper the line, the more plastic the genotype.
 - **Two lines at different heights but parallel**: the genotypes differ, and both respond to the environment by the same amount.
-- **Lines that cross or have different slopes**: genotype and environment **interact**. You cannot say which genotype is "better" or "taller" without naming the environment.
+- **Nonparallel lines** indicate genotype-by-environment interaction on the chosen trait scale. Crossing within the tested range reverses the rank order there; different slopes alone do not guarantee a crossing or reversal in that range. Name the environment when comparing values.
 
 ## Worked example 1: separating genes from environment with clones
 
@@ -150,11 +150,11 @@ The other means were: clone P at 18 °C, 31 cm; clone Q at 12, 18 and 24 °C, 30
 1. Clone P: (40 − 22) ÷ 22 × 100 = 18 ÷ 22 × 100 = **82%**.
 2. Clone Q: (34 − 30) ÷ 30 × 100 = 4 ÷ 30 × 100 = **13%**.
 
-**(c) Why clones?** All cuttings from one parent have the same genotype. Within a clone, genotype is held constant, and only temperature differs between chambers. So the 18 cm difference in clone P's mean height must be caused by the environment, not by different alleles. If the grower had used seeds, each seedling would have a different combination of alleles, and genetic and environmental effects would be mixed together.
+**(c) Why clones?** Clonal cuttings hold inherited genotype approximately constant. However, one chamber per temperature confounds temperature with chamber identity: the four plants are samples within that chamber, not four independent temperature treatments. Replicate independently assigned chambers per temperature (or use an appropriately randomised repeated-run design), randomise pot positions and hold other inputs constant. This separates treatment response from chamber variation. Seeds can introduce additional inherited variation unless the genetic design controls it.
 
 **(d) Interaction.** Clone P is much more plastic: its height rises by about 1.5 cm for each 1 °C, against about 0.3 cm per °C for clone Q. Because the slopes differ, the lines cross at about 19 °C. Clone Q is taller in the cool chambers, and clone P is taller in the warm one. So neither clone is simply "the tall genotype": the answer depends on temperature. That is a **genotype-by-environment interaction**.
 
-**Check.** Four plants per group is a small sample. The spread within each group (20–24 cm and 38–42 cm for clone P) does not overlap, so the difference is unlikely to be chance alone. A repeat with more cuttings would make the conclusion stronger.
+**Check.** The supplied ranges are descriptive, not a significance test. With one chamber per temperature, extra cuttings in that chamber cannot estimate independent between-chamber variation. Add treatment-level replication before making a strong temperature-causation or uncertainty claim; analyse at the level at which temperature was assigned.
 
 ## Worked example 2: temperature-dependent sex determination
 
@@ -162,7 +162,7 @@ In most mammals and birds, sex is set by sex chromosomes at fertilisation. In ma
 
 The mechanism is a change in gene expression. Temperature alters which genes are expressed in the developing gonad. One of them codes for **aromatase**, an enzyme that converts testosterone into oestrogen (estradiol). At warm temperatures, more aromatase activity means more oestrogen, and the gonad develops as an ovary.
 
-**Question.** A biologist incubates 40 eggs of a fictional turtle species at each of six constant temperatures. Every egg comes from the same nesting beach.
+**Question.** A biologist incubates 40 eggs of a fictional turtle species at each of six constant temperatures. The supplied counts illustrate percentage calculation and interpolation. For a causal test, eggs from several clutches should be randomly allocated across independently replicated incubators at each temperature; sharing a nesting beach alone does not control inherited or clutch effects.
 
 | Incubation temperature / °C | 26 | 27 | 28 | 29 | 30 | 31 |
 |---|---|---|---|---|---|---|
@@ -232,7 +232,7 @@ The mechanism is a change in gene expression. Temperature alters which genes are
 - **"Changes caused by the environment are inherited."** A tan or a winter coat is not passed on through the alleles in the gametes. The offspring inherit the genotype, which includes the **ability** to respond.
 - **"Plasticity always helps the organism."** Plastic responses are often useful, but a cue can mislead. For example, if snow melts early, a hare that has already turned white is easy to see.
 - **"In reptiles, sex depends on chromosomes, just as in mammals."** In many reptiles, including most turtles that have been studied, incubation temperature decides sex.
-- **"The Siamese cat gene is only switched on in the paws."** The gene is expressed in the skin generally; its enzyme only works where the skin is cooler.
+- **"The Siamese cat gene is only switched on in the paws."** Temperature-sensitive tyrosinase in pigment-producing cells has greater activity in cooler skin; this is not simply a gene switched on only in the paws.
 - **"If plants grown in shade are shorter, shade must be the only cause."** Only if the genotype and every other variable were the same. Use clones and controlled conditions before claiming cause.
 
 ## Where this leads

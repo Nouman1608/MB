@@ -194,6 +194,14 @@ The price rises by **0.8%** overall, not 1%. The 4% fall is taken from the new, 
 
 ## 8. Exponential growth and decay (Extension only)
 
+<!-- marlbridge-diagram:math-b56-oxfordaqa-exponential-population-decay -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/public/images/learning/mathematics/math-b56-oxfordaqa-exponential-population-decay.svg" aria-label="Open full-size diagram: math-b56-oxfordaqa-exponential-population-decay"><img src="/public/images/learning/mathematics/math-b56-oxfordaqa-exponential-population-decay.svg" width="1528" height="940" alt="A decreasing exponential curve for P=18000×0.976^t starts at 18,000. It is above the dashed 14,000 threshold at year 10 (14,118) and below at year 11 (13,779)." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>A decreasing exponential curve for P=18000×0.976^t starts at 18,000. It is above the dashed 14,000 threshold at year 10 (14,118) and below at year 11 (13,779).</figcaption>
+</figure>
+<!-- /marlbridge-diagram:math-b56-oxfordaqa-exponential-population-decay -->
+
+
 Repeated proportional change with the same multiplier k each time gives a model of the form
 
 amount after t steps = starting amount × kᵗ

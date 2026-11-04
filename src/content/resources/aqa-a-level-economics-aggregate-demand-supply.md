@@ -165,6 +165,14 @@ vertical LRAS model, in which a change in AD affects only the price level in the
 
 ## Worked example: reading an AD-AS shift
 
+<!-- marlbridge-diagram:economics-adas-fall-in-confidence -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/economics/economics-adas-fall-in-confidence.svg" aria-label="Open full-size diagram: economics-adas-fall-in-confidence"><img src="/images/learning/economics/economics-adas-fall-in-confidence.svg" width="1600" height="1050" alt="A fall in business confidence reduces planned investment, shifts AD left and lowers short-run output and the price level; LRAS is unchanged." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>AD–AS: trace a fall in business confidence Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:economics-adas-fall-in-confidence -->
+
+
 The routine below is an original model written for this resource, not a reproduction of any official
 past paper or mark scheme.
 

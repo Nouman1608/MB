@@ -36,6 +36,14 @@ The twelve 3.8 ratios, the cash versus profit reconciliation and the general lim
 
 ## Investors' ratios
 
+<!-- marlbridge-diagram:accounting-investor-ratios -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/accounting/accounting-investor-ratios.svg" aria-label="Open full-size diagram: accounting-investor-ratios"><img src="/images/learning/accounting/accounting-investor-ratios.svg" width="1600" height="1050" alt="Four ratio panels calculate EPS 16.5p, P/E 14.0 times, dividend yield 2.86%, dividend cover 2.5 times and interest cover 8.33 times." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Four ratio panels calculate EPS 16.5p, P/E 14.0 times, dividend yield 2.86%, dividend cover 2.5 times and interest cover 8.33 times. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:accounting-investor-ratios -->
+
+
 The specification's appendix says you must know these formulae.
 
 | Ratio | Formula | Unit |

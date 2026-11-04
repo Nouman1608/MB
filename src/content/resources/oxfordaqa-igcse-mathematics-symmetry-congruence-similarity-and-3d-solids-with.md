@@ -253,6 +253,14 @@ The plan is a 6 cm by 4 cm rectangle with a ridge line 2 cm from each long edge.
 
 ### Worked example 11: a model made of cubes
 
+<!-- marlbridge-diagram:math-b52-oxfordaqa-cube-stacks-plan-elevations -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/mathematics/math-b52-oxfordaqa-cube-stacks-plan-elevations.svg" aria-label="Open full-size diagram: math-b52-oxfordaqa-cube-stacks-plan-elevations"><img src="/images/learning/mathematics/math-b52-oxfordaqa-cube-stacks-plan-elevations.svg" width="1528" height="940" alt="A 3 by 3 plan grid of stack heights (back 3,0,1; middle 0,1,1; front 2,2,0) is paired with an isometric ten-cube stack, front elevation 3,2,1, and right-side elevation 2,1,3." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>A 3 by 3 plan grid of stack heights (back 3,0,1; middle 0,1,1; front 2,2,0) is paired with an isometric ten-cube stack, front elevation 3,2,1, and right-side elevation 2,1,3.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:math-b52-oxfordaqa-cube-stacks-plan-elevations -->
+
+
 Each number is the count of cubes stacked at that position of the plan, and the back row is at the top.
 
 ```

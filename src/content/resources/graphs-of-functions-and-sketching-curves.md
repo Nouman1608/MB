@@ -117,6 +117,14 @@ quite reaches, a horizontal line at y = c as x becomes very negative
 
 ## Estimating gradients with tangents
 
+<!-- marlbridge-diagram:math-b48-tangent-gradient-estimate -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/mathematics/math-b48-tangent-gradient-estimate.svg" aria-label="Open full-size diagram: math-b48-tangent-gradient-estimate"><img src="/images/learning/mathematics/math-b48-tangent-gradient-estimate.svg" width="1600" height="1050" alt="For y=x² at P=(2,4), the tangent is y=4x−4. Reading two points on the tangent, (0,−4) and (4,12), gives estimated gradient (12−(−4))/(4−0)=4." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>For y=x² at P=(2,4), the tangent is y=4x−4. Reading two points on the tangent, (0,−4) and (4,12), gives estimated gradient (12−(−4))/(4−0)=4. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:math-b48-tangent-gradient-estimate -->
+
+
 For a curved graph, the gradient at a specific point is estimated by
 drawing a **tangent** — a straight line touching the curve at that one
 point only, locally — and calculating the gradient of that tangent line in

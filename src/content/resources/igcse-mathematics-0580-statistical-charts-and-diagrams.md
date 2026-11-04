@@ -185,6 +185,14 @@ A **pie chart** shows how a whole is shared between categories. The angle of eac
 
 ### Drawing a pie chart
 
+<!-- marlbridge-diagram:math-b51-pie-chart-frequency-angle-construction -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/public/images/learning/mathematics/math-b51-pie-chart-frequency-angle-construction.svg" aria-label="Open full-size diagram: math-b51-pie-chart-frequency-angle-construction"><img src="/public/images/learning/mathematics/math-b51-pie-chart-frequency-angle-construction.svg" width="1528" height="940" alt="For 72 responses, each person represents 5 degrees. Beach, City, Mountains, Cruise and Other produce sectors 130°, 90°, 60°, 20° and 60° respectively; these sum to 360°, matching the full circle." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>For 72 responses, each person represents 5 degrees. Beach, City, Mountains, Cruise and Other produce sectors 130°, 90°, 60°, 20° and 60° respectively; these sum to 360°, matching the full circle. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:math-b51-pie-chart-frequency-angle-construction -->
+
+
 ```
 angle for one item  = 360° ÷ total frequency
 angle of a sector   = frequency × angle for one item

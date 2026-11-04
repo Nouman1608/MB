@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="440" viewBox="0 0 960 440" role="img" aria-labelledby="title desc" font-family="system-ui,Segoe UI,sans-serif">
+<title id="title">PCR primer orientation defines the amplified region</title>
+<desc id="desc">Two antiparallel DNA strands are shown with a target between forward and reverse primer sites. The forward primer binds the lower strand and extends right; the reverse primer binds the upper strand and extends left. Both 3-prime ends point into the target. DNA polymerase extends each primer 5-prime to 3-prime.</desc>
+<rect width="960" height="440" rx="20" fill="#fff"/>
+<text x="48" y="54" font-size="25" font-weight="700" fill="#14263f">Two primers point into the target</text>
+<text x="48" y="84" font-size="16" fill="#52657a">Their 3′ ends face inward; polymerase extends each strand 5′ → 3′.</text>
+<text x="74" y="155" font-size="18" font-weight="700" fill="#14263f">Template A</text>
+<text x="250" y="146" font-size="16" fill="#52657a">5′</text><line x1="282" y1="140" x2="852" y2="140" stroke="#45627f" stroke-width="5"/><text x="865" y="146" font-size="16" fill="#52657a">3′</text>
+<text x="74" y="264" font-size="18" font-weight="700" fill="#14263f">Template B</text>
+<text x="250" y="255" font-size="16" fill="#52657a">3′</text><line x1="282" y1="249" x2="852" y2="249" stroke="#45627f" stroke-width="5"/><text x="865" y="255" font-size="16" fill="#52657a">5′</text>
+<line x1="360" y1="141" x2="360" y2="249" stroke="#b7c3d0" stroke-width="2" stroke-dasharray="5 5"/><line x1="778" y1="141" x2="778" y2="249" stroke="#b7c3d0" stroke-width="2" stroke-dasharray="5 5"/>
+<rect x="370" y="177" width="398" height="44" rx="8" fill="#edf4fb" stroke="#7896b3"/><text x="569" y="204" text-anchor="middle" font-size="17" font-weight="650" fill="#14263f">target region copied each cycle</text>
+<rect x="302" y="230" width="116" height="18" rx="6" fill="#d7a43b"/><polygon points="418,230 438,239 418,248" fill="#d7a43b"/><text x="360" y="295" text-anchor="middle" font-size="15" font-weight="650" fill="#14263f">Forward primer</text><text x="360" y="316" text-anchor="middle" font-size="14" fill="#52657a">binds Template B</text>
+<rect x="720" y="141" width="116" height="18" rx="6" fill="#257e78"/><polygon points="720,141 700,150 720,159" fill="#257e78"/><text x="778" y="185" text-anchor="middle" font-size="15" font-weight="650" fill="#14263f">Reverse primer</text><text x="778" y="205" text-anchor="middle" font-size="14" fill="#52657a">binds Template A</text>
+<text x="360" y="347" text-anchor="middle" font-size="14" fill="#52657a">extension →</text><text x="778" y="347" text-anchor="middle" font-size="14" fill="#52657a">← extension</text>
+<rect x="48" y="366" width="864" height="1" fill="#d7e0e8"/><text x="48" y="398" font-size="14" fill="#52657a">Primers are antiparallel to their templates. The primer positions set both ends of the amplicon.</text>
+<image href="/images/brand/marlbridge-mark.svg" x="864" y="374" width="34" height="34" opacity="0.8"/><text x="752" y="425" font-size="12" fill="#7e8b99" opacity="0.55">MARLBRIDGE STUDY RESOURCE</text>
+</svg>

@@ -49,6 +49,8 @@ dipole–dipole forces in [bonding](/resources/aqa-a-level-chemistry-bonding/).
 | 3.3.12.2 | Explain why polyesters and polyamides can be hydrolysed but polyalkenes cannot | A-level only |
 | 3.3.12.2 | Weigh up the advantages and disadvantages of disposal methods, including recycling | A-level only |
 
+![Chemical hydrolysis of susceptible condensation-polymer links is distinct from biodegradation, which depends on polymer structure, access, organisms or enzymes, and environmental conditions.](/images/learning/chemistry/chem-polymer-hydrolysis-vs-biodegradation.svg)
+
 Section 3.3.12 lists no required practical. It suggests making nylon 6,6 (AT k, PS 1.2) and researching
 the problems of disposing of different polymers.
 
@@ -186,8 +188,7 @@ have only van der Waals forces, are softer.
 
 Ester and amide links contain a polar **C=O** bond, so the carbon is **δ+**. Nucleophiles such as water
 or hydroxide ions can attack this carbon, and the link breaks. This is **hydrolysis**, the reverse of the
-condensation reaction. It happens faster with an acid or alkali. Because these polymers can be broken
-down like this, they are **biodegradable**.
+condensation reaction. It happens faster with an acid or alkali. These links make the chains **hydrolysable**, but chemical hydrolysis alone does not establish biodegradation. Biological breakdown depends on the particular polymer, its accessibility, the organisms or enzymes present, and the conditions. Some polyesters and polyamides degrade biologically under suitable conditions; others, including common PET and nylon materials, can persist for long periods.
 
 - **Acid hydrolysis** of a polyester gives the dicarboxylic acid and the diol. Acid hydrolysis of a
   polyamide gives the dicarboxylic acid and the **ammonium salt** of the diamine, because the amine

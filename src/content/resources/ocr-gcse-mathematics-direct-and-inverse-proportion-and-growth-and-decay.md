@@ -131,6 +131,14 @@ Faster speed, shorter time. If an inverse answer moves the wrong way, you have p
 
 ### The equation y = k/x
 
+<!-- marlbridge-diagram:math-b77-ocr-inverse-proportion -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/public/images/learning/mathematics/math-b77-ocr-inverse-proportion.svg" aria-label="Open full-size diagram: math-b77-ocr-inverse-proportion"><img src="/public/images/learning/mathematics/math-b77-ocr-inverse-proportion.svg" width="1528" height="940" alt="Decreasing curve y=40/x with source points (8,5), (10,4) and (25,1.6), with xy=40 shown as the constant." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Decreasing curve y=40/x with source points (8,5), (10,4) and (25,1.6), with xy=40 shown as the constant.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:math-b77-ocr-inverse-proportion -->
+
+
 Writing y ∝ 1/x means y is inversely proportional to x. This is the same as y = k/x, so xy = k. The graph is a curve that never touches either axis.
 
 **Worked example 7.** y is inversely proportional to x. When x = 8, y = 5. Find y when x = 10, and x when y = 1.6.

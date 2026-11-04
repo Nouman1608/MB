@@ -45,6 +45,14 @@ function.
 
 ## Finding range and composing functions
 
+<!-- marlbridge-diagram:maths-cambridge-functions-domain-inverse -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/mathematics/maths-cambridge-functions-domain-inverse.svg" aria-label="Open full-size diagram: maths-cambridge-functions-domain-inverse"><img src="/images/learning/mathematics/maths-cambridge-functions-domain-inverse.svg" width="1600" height="1050" alt="Domain-rule-range flow, an x-squared example restricted to x ≥ 0 to create an inverse, and the range-of-f must fit the domain-of-g condition for composition." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Domain restrictions determine range, one-one status, inverse validity and composition. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:maths-cambridge-functions-domain-inverse -->
+
+
 You need to identify the range of a given function in simple cases,
 and find the composition of two given functions. The syllabus gives a
 worked style of example: you should be able to find the range of

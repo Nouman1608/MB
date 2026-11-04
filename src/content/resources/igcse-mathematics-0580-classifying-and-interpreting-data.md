@@ -180,6 +180,14 @@ Fri    Café B  █████████████
 
 ### Comparing data sets
 
+<!-- marlbridge-diagram:math-b50-cambridge-class-data-comparison -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/mathematics/math-b50-cambridge-class-data-comparison.svg" aria-label="Open full-size diagram: math-b50-cambridge-class-data-comparison"><img src="/images/learning/mathematics/math-b50-cambridge-class-data-comparison.svg" width="1528" height="940" alt="For the source quiz data, Class P has mean 18 and range 18; Class Q has mean 20 and range 21. Thus Q scores higher on average while P has less spread, supported by both data sets plotted on a common 0–30 scale." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>For the source quiz data, Class P has mean 18 and range 18; Class Q has mean 20 and range 21. Thus Q scores higher on average while P has less spread, supported by both data sets plotted on a common 0–30 scale. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:math-b50-cambridge-class-data-comparison -->
+
+
 A good comparison has **two parts**: one about an **average** and one about **spread**. Each part should name the data sets, say which is higher, and say what that means in context.
 
 **Worked example 5.** Two classes did the same quiz, marked out of 30. Each class had 11 students.

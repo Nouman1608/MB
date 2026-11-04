@@ -100,6 +100,14 @@ points
 
 ## How to approach it
 
+<!-- marlbridge-diagram:math-b53-coordinate-perpendicular-bisector-toolkit -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/public/images/learning/mathematics/math-b53-coordinate-perpendicular-bisector-toolkit.svg" aria-label="Open full-size diagram: math-b53-coordinate-perpendicular-bisector-toolkit"><img src="/public/images/learning/mathematics/math-b53-coordinate-perpendicular-bisector-toolkit.svg" width="1528" height="940" alt="The source worked example joins slope −5/6, perpendicular slope 6/5, midpoint (3,3), and line equation y=(6/5)x−3/5. The plotted bisector crosses the segment at its midpoint and at a right angle." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>The source worked example joins slope −5/6, perpendicular slope 6/5, midpoint (3,3), and line equation y=(6/5)x−3/5. The plotted bisector crosses the segment at its midpoint and at a right angle. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:math-b53-coordinate-perpendicular-bisector-toolkit -->
+
+
 Build the four core formulas — gradient, length, midpoint, and
 y = mx + c — as one connected toolkit rather than four separate
 recipes, since most exam questions combine at least two of them in

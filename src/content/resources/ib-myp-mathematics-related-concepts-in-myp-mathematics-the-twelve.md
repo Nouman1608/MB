@@ -165,6 +165,14 @@ Validity also applies to conclusions from data. Suppose ice-cream sales and sunb
 
 ## Using the concepts to plan a unit
 
+<!-- marlbridge-diagram:math-b47-myp-concepts-unit-planning -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/mathematics/math-b47-myp-concepts-unit-planning.svg" aria-label="Open full-size diagram: math-b47-myp-concepts-unit-planning"><img src="/images/learning/mathematics/math-b47-myp-concepts-unit-planning.svg" width="1600" height="1050" alt="Concept map links key concept relationships to related concepts models, quantity, representation and validity, then to the global context fairness and development. It assembles the source statement of inquiry and a water-tariff study about 12 m³." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Concept map links key concept relationships to related concepts models, quantity, representation and validity, then to the global context fairness and development. It assembles the source statement of inquiry and a water-tariff study about 12 m³. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:math-b47-myp-concepts-unit-planning -->
+
+
 Here is an original unit, not one of the guide's own.
 
 - **Key concept:** relationships.

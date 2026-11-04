@@ -107,6 +107,14 @@ A regression line of y on x is built to predict y from x. Do not rearrange it to
 
 ### Worked example 3
 
+<!-- marlbridge-diagram:math-b61-regression-interpolation-extrapolation -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/public/images/learning/mathematics/math-b61-regression-interpolation-extrapolation.svg" aria-label="Open full-size diagram: math-b61-regression-interpolation-extrapolation"><img src="/public/images/learning/mathematics/math-b61-regression-interpolation-extrapolation.svg" width="1528" height="940" alt="For source regression y=78−2.4x, observed hours are 2–10. At 5 hours the prediction is 66 bpm (interpolation, within range); at 30 hours it is 6 bpm (extrapolation, outside range and implausible). The graph highlights the data range and contrasts the estimates." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>For source regression y=78−2.4x, observed hours are 2–10. At 5 hours the prediction is 66 bpm (interpolation, within range); at 30 hours it is 6 bpm (extrapolation, outside range and implausible). The graph highlights the data range and contrasts the estimates. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:math-b61-regression-interpolation-extrapolation -->
+
+
 A gym records the weekly training hours, x, of its members and their resting heart rate, y beats per minute. The members trained between 2 and 10 hours a week. The regression line is
 
 ```
@@ -172,6 +180,14 @@ Two variables moving together does not show that one causes the other. When two 
 4. Coincidence, especially in a small sample.
 
 ### Worked example 4
+
+<!-- marlbridge-diagram:maths-b37-correlation-common-cause -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/mathematics/maths-b37-correlation-common-cause.svg" aria-label="Open full-size diagram: maths-b37-correlation-common-cause"><img src="/images/learning/mathematics/maths-b37-correlation-common-cause.svg" width="1600" height="1050" alt="The two variables show strong positive correlation, but larger population can increase both dental practices and car ownership. Population is a plausible confounding variable; the observed association alone does not show that dental practices cause car ownership." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>The two variables show strong positive correlation, but larger population can increase both dental practices and car ownership. Population is a plausible confounding variable; the observed association alone does not show that dental practices cause car ownership. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:maths-b37-correlation-common-cause -->
+
 
 Across 40 towns, the number of dental practices and the number of registered cars show strong positive correlation. A councillor says more dental practices cause more car ownership. Comment.
 

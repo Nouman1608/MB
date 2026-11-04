@@ -84,6 +84,14 @@ isolation.
 
 ## Worked example: analysing an ethics-profit trade-off
 
+<!-- marlbridge-diagram:business-aqa-gcse-ethical-sourcing-profit-tradeoff -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/business/business-aqa-gcse-ethical-sourcing-profit-tradeoff.svg" aria-label="Open full-size diagram: business-aqa-gcse-ethical-sourcing-profit-tradeoff"><img src="/images/learning/business/business-aqa-gcse-ethical-sourcing-profit-tradeoff.svg" width="1600" height="1050" alt="Cause-and-effect diagram for fair supplier pricing: higher input costs may reduce margins, while reputation may improve sales, investment and supplier reliability; judgement depends on customer response." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Ethical sourcing: trace the cost, benefit and judgement Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:business-aqa-gcse-ethical-sourcing-profit-tradeoff -->
+
+
 A question asks candidates to analyse the potential trade-off a
 business faces when choosing to pay all suppliers a fair, above-market
 price for their goods.

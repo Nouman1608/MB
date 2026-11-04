@@ -49,7 +49,7 @@ author: "marlbridge-academic-team"
 
 Your cells carry out thousands of chemical reactions every second. They break down food molecules, build proteins and copy DNA. Most of these reactions are **energetically possible** at body temperature, but on their own they would happen far too slowly to keep a cell alive. A sugar cube does not break down into carbon dioxide and water while it sits on a table, even though that reaction releases energy.
 
-A **catalyst** is a substance that speeds up a reaction without being used up. **Enzymes** are the catalysts of living things. They are **proteins**, and each one catalyses one reaction, or a small group of very similar reactions. This topic explains *how* they speed reactions up, *why* each enzyme is so specific, and how you measure their effect.
+A **catalyst** is a substance that speeds up a reaction without being used up. **Enzymes** are biological catalysts. Most are **proteins**, but some catalytic RNA molecules (ribozymes) also act as enzymes. This guide focuses on protein enzymes, whose specificity usually restricts them to one reaction or a small group of similar reactions. This topic explains *how* they speed reactions up, *why* each enzyme is so specific, and how you measure their effect.
 
 ## Activation energy: the barrier every reaction must cross
 
@@ -102,7 +102,7 @@ So an enzyme speeds up a reaction by **lowering the activation energy**. A much 
 
 ## Enzyme structure: the active site
 
-An enzyme is a large protein folded into a precise three-dimensional shape (its tertiary structure, and sometimes quaternary structure, from Topic 1.7). Somewhere on its surface is a small pocket or groove called the **active site**. This is where the reactant molecule, called the **substrate**, binds and where the reaction happens.
+A protein enzyme is a large molecule folded into a precise three-dimensional shape (its tertiary structure, and sometimes quaternary structure, from Topic 1.7). Somewhere on its surface is a small pocket or groove called the **active site**. This is where the reactant molecule, called the **substrate**, binds and where the reaction happens.
 
 The active site is formed by a few amino acids, often far apart in the sequence, that the folding brings close together. Their **R groups** line the pocket. These R groups decide two things:
 

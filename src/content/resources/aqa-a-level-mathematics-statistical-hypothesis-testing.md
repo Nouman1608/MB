@@ -86,6 +86,13 @@ Second, the hypotheses are about the **population** parameter, never the sample 
 
 ### Worked example 1: one-tail test using a p-value
 
+<!-- marlbridge-diagram:maths-aqa-binomial-hypothesis-test-flow -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/mathematics/maths-aqa-binomial-hypothesis-test-flow.svg" aria-label="Open full-size diagram: maths-aqa-binomial-hypothesis-test-flow"><img src="/images/learning/mathematics/maths-aqa-binomial-hypothesis-test-flow.svg" width="1600" height="1050" alt="A four-step test flow reproduces the guide example with X~B(25,0.2), upper-tail p-value 0.0468 and a 5% decision, while interpreting the inference carefully." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>A four-step test flow reproduces the guide example with X~B(25,0.2), upper-tail p-value 0.0468 and a 5% decision, while interpreting the inference carefully. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:maths-aqa-binomial-hypothesis-test-flow -->
+
 Historically, 20% of a shop's customers buy an extended warranty. After a new display is installed,
 9 of a random sample of 25 customers buy one. Test at the 5% significance level whether the
 proportion has increased.

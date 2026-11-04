@@ -84,7 +84,7 @@ Heat and work are **transfers**, not things the gas "contains". A gas has intern
 
 Suppose the gas pushes on a piston of area A with pressure P, and the piston moves outward a distance d. The gas pushes with force F = PA, so the gas does work PAd = PΔV on the piston, where ΔV = Ad. The work done **on** the gas is the negative of this:
 
-**W = −PΔV** (constant or average pressure)
+**W = −P_ext ΔV** for constant external resisting pressure. More generally W = −∫P_ext dV; an average pressure here must be the volume-weighted average over the displacement. For a quasi-static process with negligible mechanical imbalance, P_ext is approximately the gas pressure P, so the usual gas-state P–V area gives this boundary work. This gas-pressure substitution is not a general rule for rapid irreversible changes.
 
 - Expansion: ΔV > 0, so W < 0. The gas gives energy to the surroundings.
 - Compression: ΔV < 0, so W > 0. The surroundings give energy to the gas.
@@ -93,9 +93,9 @@ Units check: Pa × m³ = (N/m²) × m³ = N·m = J.
 
 ## PV diagrams
 
-A PV diagram plots pressure (vertical, Pa) against volume (horizontal, m³). Each point is one state of the gas. A path between points is a process.
+A PV diagram plots gas pressure (vertical, Pa) against volume (horizontal, m³). Each point is an equilibrium state. A quasi-static process can be represented by a path of these states; a rapid irreversible change generally cannot be assigned such an intermediate gas-pressure path.
 
-- The **area under the path**, down to the V axis, equals the **magnitude** of the work done on the gas.
+- For a monotonic-volume, quasi-static segment, the **area under the path**, down to the V axis, gives the **magnitude** of boundary work. For paths with reversals, combine the expansion and compression work with their signs.
 - The **direction** of the path fixes the sign: moving right (expansion) means W < 0; moving left (compression) means W > 0; a vertical path (constant V) means W = 0.
 - A curve along which T is constant is an **isotherm**. For an ideal gas it is the curve PV = constant. Isotherms further from the origin are at higher temperatures.
 
@@ -150,7 +150,7 @@ Points to notice:
 
 - **Isothermal expansion.** T stays fixed, so ΔU = 0. The gas does work on the piston (W < 0), so energy must enter by heating: Q = −W > 0. This needs slow expansion in good thermal contact with a reservoir.
 - **Adiabatic.** No energy moves by heating, either because the walls are insulated or because the process is too fast. All of the work goes into U. Compress a gas adiabatically with 150 J of work and ΔU = +150 J, so its temperature rises. For 0.10 mol of monatomic gas, ΔT = 150 J ÷ [(3/2)(0.10 mol)(8.31 J/(mol·K))] = 120 K.
-- On a PV diagram an adiabatic curve through a point is **steeper** than the isotherm through the same point. In an adiabatic expansion the gas cools, so its pressure falls faster than along the isotherm.
+- For reversible (quasi-static) ideal-gas processes, an adiabatic curve through a point is **steeper** than the isotherm through that point. In a reversible adiabatic expansion against a resisting pressure the gas does work and cools, so its pressure falls faster. This comparison does not give an equilibrium-state path for irreversible free expansion into a vacuum.
 
 ## Cycles
 
@@ -199,7 +199,7 @@ The magnitude of the net work equals the **area enclosed** by the loop. For a **
 - **Using the "work done by the gas" sign without saying so.** In this course W is the work done on the gas. An expanding gas has W < 0. Mixing the two conventions flips the sign of your answer.
 - **"Heat means hot."** Q is a transfer of energy, not a property of the gas. A gas can be heated (Q > 0) and still cool down, if it does even more work on its surroundings.
 - **"Isothermal means no heating."** Isothermal means constant T, so ΔU = 0. Heating is usually needed to keep T constant. Adiabatic is the process with Q = 0.
-- **"Adiabatic means constant temperature."** In an adiabatic process the temperature changes, because all the work changes U.
+- **"Adiabatic means constant temperature."** Adiabatic means Q = 0, so ΔU = W with work defined on the gas. Compression or expansion against a resisting pressure can change T. In the special case of insulated ideal-gas free expansion into a vacuum, W = 0 too, so ΔU = 0 and the final temperature is unchanged.
 - **Taking the area under the curve as always positive.** The area gives the size of W. The direction of the path gives its sign.
 - **Thinking W depends only on the end points.** Different paths between the same two states have different areas, so W and Q depend on the path. Only ΔU depends on the end points alone.
 - **Using Celsius in U = (3/2)nRT.** T must be in kelvin. (A temperature *difference* is the same in K and °C.)

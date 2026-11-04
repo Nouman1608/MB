@@ -57,7 +57,7 @@ Information therefore flows in two steps:
 1. **Transcription**: DNA → RNA. A section of DNA is copied into a matching RNA molecule. This happens in the nucleus in eukaryotes.
 2. **Translation**: RNA → protein. The RNA message is read on a ribosome to join amino acids in the right order (Topic 6.4).
 
-This one-way flow, DNA → RNA → protein, is often called the central dogma of molecular biology. (Retroviruses are an exception you will meet in Topic 6.4.)
+DNA → RNA → protein is the usual protein-coding expression pathway. The central dogma concerns transfer of sequence information: information does not pass from a protein sequence back into nucleic-acid sequence. RNA → DNA transfer in retroviruses is compatible with that principle.
 
 ## Three kinds of RNA, three jobs
 
@@ -145,13 +145,13 @@ In a eukaryotic cell, the first RNA copy of a protein-coding gene is called **pr
 2. **A poly-A tail is added.** A long run of adenine (A) nucleotides is added to the 3′ end. The tail **makes the mRNA more stable**: it protects the message from enzymes that break RNA down, so the mRNA lasts longer and can be translated more times.
 3. **Introns are removed and exons are joined (splicing).** A gene contains **exons**, the sections kept in the mature mRNA, separated by **introns**, the sections cut out. A complex of proteins and small RNAs (background: the spliceosome) cuts out each intron and joins the exons on either side.
 
-A memory aid: **ex**ons are **ex**pressed; **in**trons stay **in** the nucleus and are broken down.
+A memory aid: **ex**ons are retained in the mature RNA; **in**trons are removed during splicing. In eukaryotes, splicing commonly occurs in the nucleus.
 
-The result is a shorter **mature mRNA** that is exported to the cytoplasm. Prokaryotic mRNA does not go through this processing. Bacterial genes rarely contain introns, and bacterial mRNA is used straight away.
+The result is a shorter **mature mRNA** that is exported to the cytoplasm. Most bacterial mRNAs do not undergo the eukaryotic combination of 5′ capping, spliceosomal intron removal and poly-A-tail addition described here. Most bacterial protein-coding genes lack introns, although exceptions occur; bacterial RNA processing and degradation still take place, and transcription and translation can be coupled.
 
 ### Alternative splicing: one gene, several products
 
-Splicing does not always join every exon. In **alternative splicing**, a cell keeps some exons and leaves out others. Different cell types, or the same cell at different times, can join different combinations of exons from the same pre-mRNA. Each combination is a different mature mRNA, so it can be translated into a different protein.
+Splicing does not always join every exon. In **alternative splicing**, a cell keeps some exons and leaves out others. Different cell types, or the same cell at different times, can join different combinations of exons from the same pre-mRNA. Each combination produces a different mature mRNA sequence, but it need not produce a distinct protein: some changes affect untranslated regions, and some transcripts are not translated or are degraded.
 
 This helps explain a puzzle. Humans have roughly 20,000 protein-coding genes, yet their cells make many more different proteins than that. Alternative splicing is one of the main reasons.
 
@@ -254,9 +254,9 @@ Ignore the cap and the poly-A tail.
 
 **(c)** Variant B = 501 − 75 = **426 nt**.
 
-Both cell types have exactly the same DNA and transcribe the same pre-mRNA. The difference arises during splicing: kidney cells leave exon 3 out. The two mature mRNAs carry different base sequences, so they are translated into proteins with different amino acid sequences. Variant B's protein lacks the part encoded by exon 3. If that part forms, for example, a binding site, the two proteins could behave differently.
+Both cell types have exactly the same DNA and transcribe the same pre-mRNA. The difference arises during splicing: kidney cells leave exon 3 out. The two mature mRNAs carry different base sequences. If both are translated and the difference falls within coding sequence, they can produce proteins with different amino-acid sequences. In this simplified example, assume exon 3 is wholly within the translated coding region and its removal preserves the reading frame. Under those assumptions, variant B lacks the amino acids encoded by exon 3. If that part forms, for example, a binding site, the two proteins could behave differently.
 
-**Interpretation.** Exon 3 is 75 nt long, which is a multiple of 3 (75 ÷ 3 = 25). In Topic 6.4 you will see why that matters: mRNA is read three bases at a time, so skipping a multiple of 3 removes whole codons without scrambling the exons that follow.
+**Interpretation.** Exon 3 is 75 nt long, which is a multiple of 3 (75 ÷ 3 = 25). If it is wholly coding and the transcript is translated, skipping it removes 25 codons without scrambling the downstream reading frame. Exons can contain untranslated sequence, and in-frame transcript changes do not guarantee a distinct or functional protein.
 
 ## Common misconceptions
 

@@ -125,6 +125,14 @@ The mass cancels. The normal reaction (mg cos 30°) does not appear in the equat
 
 ## Weight and the value of g (3.03f, 3.03g)
 
+<!-- marlbridge-diagram:math-b67-weight-resistance-falling-ball -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/public/images/learning/mathematics/math-b67-weight-resistance-falling-ball.svg" aria-label="Open full-size diagram: math-b67-weight-resistance-falling-ball"><img src="/public/images/learning/mathematics/math-b67-weight-resistance-falling-ball.svg" width="1528" height="940" alt="Source example: W=0.4×9.8=3.92 N down, resistance 1.2 N up; resultant 2.72 N gives a=6.8 m s⁻² downward." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Source example: W=0.4×9.8=3.92 N down, resistance 1.2 N up; resultant 2.72 N gives a=6.8 m s⁻² downward. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:math-b67-weight-resistance-falling-ball -->
+
+
 The weight of a body is the gravitational force on it, **W = mg**, directed towards the centre of the planet. Mass, in kg, stays the same wherever the body is. Weight is a force, in N, and changes with g.
 
 You may assume g = 9.8 m s⁻². The specification wants you to know that g varies with location in the universe, so a 60 kg person weighs less on the Moon than on Earth while their mass stays 60 kg. Use the value the question gives and write answers to the accuracy that value supports. The inverse square law of gravitation is not required.

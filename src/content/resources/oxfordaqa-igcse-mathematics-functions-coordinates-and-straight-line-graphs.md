@@ -152,6 +152,14 @@ Moving from A to B is 4 across and 0 up. D to C must be the same move, so D = C 
 
 ## A11 (Core): plotting straight-line graphs
 
+<!-- marlbridge-diagram:math-b60-oxfordaqa-linear-graph-table-intercepts -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/public/images/learning/mathematics/math-b60-oxfordaqa-linear-graph-table-intercepts.svg" aria-label="Open full-size diagram: math-b60-oxfordaqa-linear-graph-table-intercepts"><img src="/public/images/learning/mathematics/math-b60-oxfordaqa-linear-graph-table-intercepts.svg" width="1528" height="940" alt="A straight-line graph for y=1.5x−3 shows source table points, gradient 1.5, y-intercept (0,−3), x-intercept (2,0), and a parallel line with the same gradient." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>A straight-line graph for y=1.5x−3 shows source table points, gradient 1.5, y-intercept (0,−3), x-intercept (2,0), and a parallel line with the same gradient.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:math-b60-oxfordaqa-linear-graph-table-intercepts -->
+
+
 An equation such as y = 1.5x − 3 gives a straight line. Plot with a table of values, using at least three points as a check.
 
 | x | −2 | −1 | 0 | 1 | 2 | 3 | 4 |

@@ -49,6 +49,22 @@ author: "marlbridge-academic-team"
 
 ## Why light bends
 
+<!-- marlbridge-diagram:phys-gap-13-3-wavefront-refraction -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/physics/phys-gap-13-3-wavefront-refraction.svg" aria-label="Open full-size diagram: phys-gap-13-3-wavefront-refraction"><img src="/images/learning/physics/phys-gap-13-3-wavefront-refraction.svg" width="1528" height="940" alt="Wavefront reaches the air-glass boundary obliquely; the first side slows in glass, turning the wavefront and bending the ray toward the normal. Frequency stays constant while wavelength decreases." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Wavefront reaches the air-glass boundary obliquely; the first side slows in glass, turning the wavefront and bending the ray toward the normal. Frequency stays constant while wavelength decreases. — Marlbridge Physics.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:phys-gap-13-3-wavefront-refraction -->
+
+
+<!-- marlbridge-diagram:complete-phys-refraction-wavefront-mechanism -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/physics/complete-phys-refraction-wavefront-mechanism.svg" aria-label="Open full-size diagram: complete-phys-refraction-wavefront-mechanism"><img src="/images/learning/physics/complete-phys-refraction-wavefront-mechanism.svg" width="1520" height="940" alt="At a stationary boundary, the incident and refracted rays meet the normal with different angles. Wavefront orientation changes as the leading edge enters a slower medium; frequency is constant while wavelength decreases." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>A speed change rotates the wavefront and bends the ray; frequency remains fixed across the ideal stationary boundary. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:complete-phys-refraction-wavefront-mechanism -->
+
+
 Shine a laser pointer at a glass block at an angle. The beam changes direction where it enters the glass, and again where it leaves. This change of direction at a boundary between two media is called **refraction**.
 
 The cause is a change in the **speed** of light. Light travels at c = 3.00 × 10⁸ m/s in a vacuum and more slowly in air, water or glass. Think of a wide wavefront hitting the boundary at an angle. One edge of the wavefront enters the slower medium first and slows down, while the other edge is still moving fast. The wavefront swings round, so the ray, which is always perpendicular to the wavefront, changes direction. It is like a line of people marching at an angle onto sand: the people who reach the sand first slow down first, and the whole line turns.
@@ -134,9 +150,11 @@ When light goes **into a lower n**, it bends away from the normal. As θ₁ incr
 
 **sin θc = n₂ / n₁** (only possible when n₁ > n₂)
 
-- **Below** θc: the ray refracts out (with a weak reflection as well).
-- **At** θc: the refracted ray travels along the surface, at 90° to the normal.
-- **Beyond** θc: no light is transmitted. **All** of it reflects back into medium 1, following the law of reflection. This is **total internal reflection** (TIR).
+For an ideal transparent interface with no absorption:
+
+- **Below** θc: a propagating transmitted ray enters the second medium and a reflected wave is generally present too. The reflected and transmitted fractions depend on incidence angle, polarization and both refractive indices; reflection is not always small.
+- **At** θc: the refracted wave travels along the surface, at 90° to the normal.
+- **Beyond** θc: there is no propagating transmitted ray; a field decays evanescently into medium 2 and the incident power is totally reflected into medium 1. This is **total internal reflection** (TIR).
 
 TIR is impossible when light goes into a higher n, because then θ₂ is always smaller than θ₁ and never reaches 90°. Optical fibres use TIR: light hits the wall of the fibre's core beyond the critical angle and stays inside, even when the fibre bends gently.
 

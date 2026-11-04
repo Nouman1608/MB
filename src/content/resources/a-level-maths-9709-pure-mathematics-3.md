@@ -55,6 +55,14 @@ Course hub: [Cambridge A Level Mathematics](/boards/cambridge/a-level/mathematic
 
 ## What this topic covers
 
+<!-- marlbridge-diagram:maths-p3-nine-topic-map -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/mathematics/maths-p3-nine-topic-map.svg" aria-label="Open full-size diagram: maths-p3-nine-topic-map"><img src="/images/learning/mathematics/maths-p3-nine-topic-map.svg" width="1600" height="1050" alt="Nine section concept map for Pure Mathematics 3, Paper 3. Topic labels follow the source syllabus table; Paper 1 content is assumed." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Nine section concept map for Pure Mathematics 3, Paper 3. Topic labels follow the source syllabus table; Paper 1 content is assumed. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:maths-p3-nine-topic-map -->
+
+
 | Section | What you must be able to do |
 |---|---|
 | 3.1 Algebra | Modulus; polynomial division; factor and remainder theorems; partial fractions; (1 + x)ⁿ for rational n |

@@ -132,6 +132,14 @@ A linear equation is one where x and y appear only to the power 1, with no xy te
 
 ### Worked example 4: y = mx + c with a negative gradient (Core and Extended)
 
+<!-- marlbridge-diagram:maths-b33-negative-gradient-table-and-graph -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/mathematics/maths-b33-negative-gradient-table-and-graph.svg" aria-label="Open full-size diagram: maths-b33-negative-gradient-table-and-graph"><img src="/images/learning/mathematics/maths-b33-negative-gradient-table-and-graph.svg" width="1600" height="1050" alt="Substitution into y=−3x+4 for x=−2,−1,0,1,2,3 gives y=10,7,4,1,−2,−5. The plotted points form a straight line with gradient −3 and y-intercept 4." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Substitution into y=−3x+4 for x=−2,−1,0,1,2,3 gives y=10,7,4,1,−2,−5. The plotted points form a straight line with gradient −3 and y-intercept 4. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:maths-b33-negative-gradient-table-and-graph -->
+
+
 Draw the graph of y = –3x + 4 for –2 ≤ x ≤ 3.
 
 Work out the table, taking care with the negative signs. Brackets around negative x-values stop most sign slips.

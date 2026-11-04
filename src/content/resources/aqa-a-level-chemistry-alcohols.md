@@ -54,6 +54,14 @@ spots across the course, try one of the [free 10-minute diagnostics](/diagnostic
 ## 3.3.5.1 Alcohol production
 
 ### Hydration of alkenes
+<!-- marlbridge-diagram:chem-delta-alkene-hydration -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/chemistry/chem-delta-alkene-hydration.svg" aria-label="Open full-size diagram: chem-delta-alkene-hydration">
+    <img src="/images/learning/chemistry/chem-delta-alkene-hydration.svg" width="1528" height="940" alt="Three-step hydration mechanism: alkene pi electrons protonate, water attacks the carbocation, then deprotonation regenerates H+ and ethanol." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" />
+  </a>
+  <figcaption>Electrophilic addition mechanism for alkene hydration. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:chem-delta-alkene-hydration -->
 
 Industrially, alcohols are made by adding steam to an alkene in the presence of an acid catalyst. For ethanol:
 
@@ -67,6 +75,14 @@ equilibrium treated with Kp in the
 [Kp study guide](/resources/aqa-a-level-chemistry-equilibrium-constant-kp-for-homogeneous-systems/).
 
 **Mechanism (electrophilic addition, acid catalysed).**
+
+<!-- marlbridge-diagram:chem-b32-aqa-ethene-hydration-curved-arrows -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/chemistry/chem-b32-aqa-ethene-hydration-curved-arrows.svg" aria-label="Open full-size diagram: chem-b32-aqa-ethene-hydration-curved-arrows"><img src="/images/learning/chemistry/chem-b32-aqa-ethene-hydration-curved-arrows.svg" width="1600" height="1050" alt="Three-step acid-catalysed hydration of ethene. The C=C electron pair attacks H in H3O+ as the O–H pair returns to oxygen; a water lone pair attacks the carbocation; then the oxonium O–H bond pair returns to oxygen, yielding ethanol and regenerating H+. Curved arrows show electron-pair movement." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Three-step acid-catalysed hydration of ethene. The C=C electron pair attacks H in H3O+ as the O–H pair returns to oxygen; a water lone pair attacks the carbocation; then the oxonium O–H bond pair returns to oxygen, yielding ethanol and regenerating H+. Curved arrows show electron-pair movement. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:chem-b32-aqa-ethene-hydration-curved-arrows -->
+
 
 1. The electrons in the C=C double bond attack an H⁺ ion from the acid (shown as H⁺ or as H₃O⁺). One carbon
    gains the H and the other becomes a carbocation.
@@ -88,6 +104,11 @@ CH₃–CH₂–OH₂⁺ → CH₃–CH₂–OH + H⁺
   primary carbocation, ⁺CH₂–CH₂–CH₃.
 - Step 3: the secondary carbocation is more stable, so it gives the major product.
 - Answer: **propan-2-ol**, CH₃CH(OH)CH₃, is the major product; propan-1-ol is the minor product.
+
+
+<!-- marlbridge-gap:chem-b12-propene-hydration -->
+<figure class="lesson-diagram" style="margin:2rem 0"><a href="/images/learning/chemistry/chem-b12-propene-hydration.svg" aria-label="Open full-size diagram: Acid-catalysed hydration of propene"><picture><source media="(max-width:800px)" srcset="/images/learning/chemistry/chem-b12-propene-hydration-mobile.svg" width="768" height="1120"><img src="/images/learning/chemistry/chem-b12-propene-hydration.svg" width="1528" height="870" alt="Acid-catalysed hydration of propene: protonation of the double bond, water attack and deprotonation to propan-2-ol." loading="lazy" decoding="async" style="display:block;width:100%;height:auto"></picture></a><figcaption>Major propan-2-ol pathway shown with the three acid-catalysed steps; propan-1-ol is a minor product. Select the image to enlarge.</figcaption></figure>
+<!-- /marlbridge-gap:chem-b12-propene-hydration -->
 
 ### Fermentation of glucose
 
@@ -207,6 +228,14 @@ RCHO + [O] → RCOOH. Use a water bath, not a flame: organic liquids are flammab
 
 ## 3.3.5.3 Elimination
 
+<!-- marlbridge-diagram:chem-obj-alcohol-elimination-practical -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/chemistry/chem-obj-alcohol-elimination-practical.svg" aria-label="Open full-size diagram: chem-obj-alcohol-elimination-practical"><img src="/images/learning/chemistry/chem-obj-alcohol-elimination-practical.svg" width="1528" height="940" alt="Source example: butan-2-ol loses water through a secondary carbocation; beta-H loss gives but-1-ene or E/Z-but-2-ene. Practical panel shows the prescribed cyclohexanol/cyclohexene wash and safe venting." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Alcohol dehydration and cyclohexene purification — Marlbridge Chemistry.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:chem-obj-alcohol-elimination-practical -->
+
+
 Alkenes form when alcohols are heated with a concentrated acid catalyst, such as concentrated sulfuric acid or
 concentrated phosphoric acid. Water is eliminated:
 
@@ -214,7 +243,21 @@ concentrated phosphoric acid. Water is eliminated:
 CH₃CH₂OH → CH₂=CH₂ + H₂O
 ```
 
-**Mechanism (acid-catalysed elimination):**
+Primary ethanol dehydration is commonly described by a concerted E2-like elimination after the O atom is
+protonated: a base removes a β-hydrogen as the C=C bond forms and water leaves. This avoids a free primary
+ethyl carbocation.
+
+<!-- marlbridge-diagram:chem-aqa-ethanol-dehydration-e2-curly-arrows -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/chemistry/chem-aqa-ethanol-dehydration-e2-curly-arrows.svg" aria-label="Open full-size diagram: Concerted acid-catalysed dehydration of ethanol"><img src="/images/learning/chemistry/chem-aqa-ethanol-dehydration-e2-curly-arrows.svg" width="1528" height="940" alt="After ethanol is protonated, three electron-pair arrows show base-to-beta-H, C-H-to-C-C, and C-O-to-oxygen movements in one concerted elimination, forming ethene, water and regenerating acid without a primary carbocation." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Primary ethanol: protonation followed by concerted elimination; the base removes β-H as water leaves. Marlbridge Chemistry.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:chem-aqa-ethanol-dehydration-e2-curly-arrows -->
+
+The stepwise carbocation outline and arrow diagram that follow are shown for **secondary butan-2-ol**.
+Do not generalise that free-carbocation sequence to every alcohol.
+
+**Stepwise mechanism (secondary alcohol, E1-like):**
 
 1. A lone pair on the oxygen of the –OH group attacks H⁺, giving a protonated alcohol, R–OH₂⁺.
 2. The C–O bond breaks, its electrons going to oxygen, and a water molecule leaves. A carbocation forms.
@@ -229,10 +272,26 @@ CH₃CH₂OH → CH₂=CH₂ + H₂O
   has E/Z isomers.
 - Answer: three alkenes: **but-1-ene, (E)-but-2-ene and (Z)-but-2-ene**.
 
+<!-- marlbridge-diagram:chem-b31-aqa-butan-2-ol-e1-products -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/chemistry/chem-b31-aqa-butan-2-ol-e1-products.svg" aria-label="Open full-size diagram: chem-b31-aqa-butan-2-ol-e1-products"><img src="/images/learning/chemistry/chem-b31-aqa-butan-2-ol-e1-products.svg" width="1600" height="1050" alt="For the AQA secondary alcohol example, protonate the hydroxyl group, break the C–O bond to release water and form the secondary C2 carbocation, then remove a beta hydrogen while the C–H pair forms C=C and regenerates H+. Loss from C1 gives but-1-ene; loss from C3 gives (E)- and (Z)-but-2-ene. The figure does not extend the free-carbocation model to the separate ethanol equation." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>For the AQA secondary alcohol example, protonate the hydroxyl group, break the C–O bond to release water and form the secondary C2 carbocation, then remove a beta hydrogen while the C–H pair forms C=C and regenerates H+. Loss from C1 gives but-1-ene; loss from C3 gives (E)- and (Z)-but-2-ene. The figure does not extend the free-carbocation model to the separate ethanol equation. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:chem-b31-aqa-butan-2-ol-e1-products -->
+
+
 **Why this matters.** Ethanol from fermentation can be dehydrated to ethene, and that ethene can be polymerised
 to poly(ethene). This makes addition polymers **without using monomers derived from crude oil**.
 
 ## Required practical 5: distillation of a product from a reaction
+
+<!-- marlbridge-diagram:chem-obj-cyclohexene-separating-funnel -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/chemistry/chem-obj-cyclohexene-separating-funnel.svg" aria-label="Open full-size diagram: chem-obj-cyclohexene-separating-funnel"><img src="/images/learning/chemistry/chem-obj-cyclohexene-separating-funnel.svg" width="1528" height="940" alt="During carbonate washing, vent carbon dioxide safely and identify which layer contains cyclohexene by density or a water-drop test; do not assume the layer position." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Vent carbon dioxide and identify layers during washing — Marlbridge Chemistry.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:chem-obj-cyclohexene-separating-funnel -->
+
 
 The specification suggests preparing cyclohexene from cyclohexanol, purified with a separating funnel and by
 distillation.
@@ -257,6 +316,11 @@ percentage yield       = 0.1402 ÷ 0.200 × 100 = 70.1 %
 ```
 
 Answer: **70.1 %**. Product is lost in transfers, on the drying agent and through incomplete reaction.
+
+
+<!-- marlbridge-gap:chem-b12-cyclohexene-separating-funnel -->
+<figure class="lesson-diagram" style="margin:2rem 0"><a href="/images/learning/chemistry/chem-b12-cyclohexene-separating-funnel.svg" aria-label="Open full-size diagram: Separating-funnel workup of cyclohexene"><picture><source media="(max-width:800px)" srcset="/images/learning/chemistry/chem-b12-cyclohexene-separating-funnel-mobile.svg" width="768" height="1120"><img src="/images/learning/chemistry/chem-b12-cyclohexene-separating-funnel.svg" width="1528" height="870" alt="Cyclohexene preparation work-up showing carbonate washing, carbon dioxide venting and separation of the upper organic layer." loading="lazy" decoding="async" style="display:block;width:100%;height:auto"></picture></a><figcaption>Illustrates carbonate washing, CO₂ venting and correct layer handling; the top organic cyclohexene layer is retained. Select the image to enlarge.</figcaption></figure>
+<!-- /marlbridge-gap:chem-b12-cyclohexene-separating-funnel -->
 
 ## Common errors
 

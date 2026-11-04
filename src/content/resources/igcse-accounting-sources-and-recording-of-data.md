@@ -147,6 +147,17 @@ book-by-book memorisation — is the single highest-value use of
 revision time for this topic.
 
 ## Three-column running balance accounts
+<!-- marlbridge-diagram:ac-igcse-source-document-to-ledger-flow -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/accounting/ac-igcse-source-document-to-ledger-flow.svg" aria-label="Open full-size diagram: ac-igcse-source-document-to-ledger-flow">
+    <picture>
+      <source media="(max-width: 640px)" srcset="/images/learning/accounting/ac-igcse-source-document-to-ledger-flow-mobile.svg" />
+      <img src="/images/learning/accounting/ac-igcse-source-document-to-ledger-flow.svg" width="1600" height="1050" alt="A transaction path links business documents to the correct book of prime entry, ledger posting and running balance, highlighting the cash book’s dual role." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" />
+    </picture>
+  </a>
+  <figcaption>An end-to-end accounting data route separates business documents, books of prime entry, ledger accounts and balances. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:ac-igcse-source-document-to-ledger-flow -->
 
 A running balance account records the same double entry as a two-sided
 account, but shows debit, credit and a balance after every entry. A

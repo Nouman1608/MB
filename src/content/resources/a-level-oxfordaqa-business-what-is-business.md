@@ -205,6 +205,14 @@ second-year strategy content, not as first-year Topic 1 scope.
 
 ## Worked example: expected value and net gain
 
+<!-- marlbridge-diagram:business-oxfordaqa-decision-tree-expected-value-net-gain -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/business/business-oxfordaqa-decision-tree-expected-value-net-gain.svg" aria-label="Open full-size diagram: business-oxfordaqa-decision-tree-expected-value-net-gain"><img src="/images/learning/business/business-oxfordaqa-decision-tree-expected-value-net-gain.svg" width="1600" height="1050" alt="A decision tree compares expected value and net gain for a risky project against a certain-return alternative." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Expected value helps compare average returns; risk preference still matters. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:business-oxfordaqa-decision-tree-expected-value-net-gain -->
+
+
 On a decision tree, a **square** marks a decision the business makes and a **circle** marks a chance event whose outcomes are uncertain; the probabilities on the branches leaving each circle add up to 1. The **expected value** of an option is the sum of each outcome multiplied by its probability. The **net gain** of an option is its expected value minus the cost of choosing it, and is the figure used to compare options that cost different amounts.
 
 A firm must choose between two projects. Project A costs $150,000 and has a 60% chance of returning $500,000 and a 40% chance of returning $100,000. Project B costs $50,000 and returns $220,000 with certainty.

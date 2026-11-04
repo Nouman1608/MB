@@ -231,6 +231,14 @@ and starting from rest, v(t) = v_T(1 − e^(−t/τ)) with the same τ.
 
 ## Turning effects: torque on an induced current
 
+<!-- marlbridge-diagram:phys-gap-13-3-induced-coil-torque -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/physics/phys-gap-13-3-induced-coil-torque.svg" aria-label="Open full-size diagram: phys-gap-13-3-induced-coil-torque"><img src="/images/learning/physics/phys-gap-13-3-induced-coil-torque.svg" width="1528" height="940" alt="Rectangular conducting coil in a magnetic field with opposing forces on its sides forming a torque that resists angular motion, with torque and energy-transfer notes." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Rectangular conducting coil in a magnetic field with opposing forces on its sides forming a torque that resists angular motion, with torque and energy-transfer notes. — Marlbridge Physics.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:phys-gap-13-3-induced-coil-torque -->
+
+
 The same forces can make a loop rotate. Picture a coil spun in a uniform field, as in a generator. The flux through it changes, a current flows, and the forces on the two sides that cut the field act in opposite directions along lines that do not meet. They form a couple, so there is a **torque**. By Lenz's law the torque opposes the rotation. If you connect a smaller resistance, the current is larger and the coil is harder to turn: the extra mechanical work becomes the extra electrical energy delivered. A conducting plate swinging between magnet poles slows down for the same reason, which is why induced currents are used for smooth braking.
 
 ## Common misconceptions

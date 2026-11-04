@@ -38,6 +38,21 @@ do depends directly on the bonding and structure covered here.
 
 ## Syllabus coverage
 
+<!-- marlbridge-diagram:chem-obj-polyatomic-ion-formulae -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/chemistry/chem-obj-polyatomic-ion-formulae.svg" aria-label="Open full-size diagram: chem-obj-polyatomic-ion-formulae"><img src="/images/learning/chemistry/chem-obj-polyatomic-ion-formulae.svg" width="1528" height="940" alt="Worked formula construction: calcium nitrate Ca(NO3)2, ammonium sulfate (NH4)2SO4 and aluminium sulfate Al2(SO4)3; additional hydroxide and carbonate examples." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Construct ionic formulas from compound-ion charges — Marlbridge Chemistry.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:chem-obj-polyatomic-ion-formulae -->
+
+<!-- marlbridge-diagram:chem-b25-polyatomic-ion-formula-balancing -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/chemistry/chem-b25-polyatomic-ion-formula-balancing.svg" aria-label="Open full-size diagram: chem-b25-polyatomic-ion-formula-balancing"><img src="/images/learning/chemistry/chem-b25-polyatomic-ion-formula-balancing.svg" width="1528" height="940" alt="The chart lists sulfate SO4 2-, hydroxide OH-, nitrate NO3-, carbonate CO3 2- and ammonium NH4+. Worked ionic formulas balance total charge to zero: Al2(SO4)3, Mg(OH)2, Ca(NO3)2 and (NH4)2CO3." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Choose the smallest whole-number ratio of ions that makes the total charge zero. Parentheses show multiple copies of a compound ion. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:chem-b25-polyatomic-ion-formula-balancing -->
+
+
 **AQA A-LEVEL CHEMISTRY (7405) -- 3.1.3 BONDING**
 
 - Ionic bonding (3.1.3.1): electrostatic attraction between oppositely charged ions in a lattice; the
@@ -88,29 +103,91 @@ AQA A-level Chemistry (7405) specification, first teaching 2015 --
 [aqa.org.uk](https://www.aqa.org.uk/subjects/chemistry/a-level/chemistry-7405/specification/subject-content/physical-chemistry).
 
 ## Three bonding types, four types of crystal structure
+<!-- marlbridge-diagram:chem-delta-six-crystal-counts -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/chemistry/chem-delta-six-crystal-counts.svg" aria-label="Open full-size diagram: chem-delta-six-crystal-counts">
+    <img src="/images/learning/chemistry/chem-delta-six-crystal-counts.svg" width="1528" height="940" alt="Schematic particle-count drawings: eight ions in an NaCl slice, six Mg²⁺ ions plus delocalised electrons, six carbon atoms in diamond, twelve carbon atoms in two graphite sheets, three H₂O molecules in ice and three I₂ molecules. Counts are shown and not presented as complete unit cells." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" />
+  </a>
+  <figcaption>Six crystal structures with explicit particle counts. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:chem-delta-six-crystal-counts -->
+<!-- marlbridge-diagram:chem-delta-bonding-models -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/chemistry/chem-delta-bonding-models.svg" aria-label="Open full-size diagram: chem-delta-bonding-models">
+    <img src="/images/learning/chemistry/chem-delta-bonding-models.svg" width="1528" height="940" alt="Single and double covalent shared pairs, a dative bond with both bonding electrons from the donor, and a metallic lattice of positive ions with mobile delocalised electrons." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" />
+  </a>
+  <figcaption>Bonding models: shared pairs, dative bonds and metallic lattice. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:chem-delta-bonding-models -->
 
 Ionic bonding produces a giant lattice of oppositely charged ions, held together by strong electrostatic
 attraction in every direction -- this is why ionic compounds have high melting points and conduct
 electricity only when molten or dissolved (the ions must be free to move). Covalent bonding shares
-electron pairs between specific atoms, producing either small discrete molecules (low melting points, no
-conductivity) or, in a few cases, giant covalent structures like diamond or graphite (very high melting
-points, and conductivity only for graphite, due to its delocalised electrons). Metallic bonding produces
-a lattice of positive ions in a "sea" of delocalised electrons, explaining both the electrical
-conductivity of metals (electrons are free to move) and their malleability (the lattice can deform
-without breaking fixed bonds).
+electron pairs between specific atoms. Many small molecular crystals, including the named examples
+iodine and ice, melt more readily than giant covalent crystals and do not conduct as pure solids because
+they lack mobile charge carriers. These are useful trends, not universal cut-offs: larger molecules can
+have higher melting points, and conductivity depends on structure, phase and available mobile charges.
+Among the named giant-covalent examples, diamond does not conduct, while graphite does because it has
+delocalised electrons that can move along its layers. Graphite is not the only possible conducting
+giant-covalent material: conductivity varies with structure and conditions, and other carbon structures
+or modified materials can also conduct. Metallic bonding produces a
+lattice of positive ions in a "sea" of delocalised electrons, explaining both the electrical conductivity
+of metals (electrons are free to move) and their malleability (the lattice can deform without breaking
+fixed bonds).
+
+### Predicting simple ion charges from the Periodic Table
+
+For main-group elements that form simple ions, use the group to predict the charge that gives the ion
+the electron arrangement of a noble gas. Group 1 elements form 1+ ions and Group 2 form 2+ ions.
+Aluminium in Group 13 commonly forms Al³⁺. Non-metals in Groups 15, 16 and 17 commonly form 3−, 2−
+and 1− ions respectively. For example, Na is Na⁺, Mg is Mg²⁺, Al is Al³⁺, N is N³⁻, O is O²⁻,
+and Cl is Cl⁻. Transition-metal ions often have more than one possible charge, so use the charge
+specified by the question or compound name rather than this simple group rule. Group 14 elements are
+not normally predicted as simple 4+ or 4− ions in these ionic-formula questions.
+
+When writing a formula, balance the total positive and negative charge to zero and use the smallest
+whole-number ratio. Keep a compound ion together in parentheses when more than one is needed; for
+example, Al³⁺ and SO₄²⁻ give Al₂(SO₄)₃.
 
 Together these give the specification's four types of crystal structure, each with named examples:
 **ionic** (sodium chloride), **metallic** (magnesium), **macromolecular** or giant covalent (diamond and
+<!-- marlbridge-diagram:chem-obj-six-crystal-structures -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/chemistry/chem-obj-six-crystal-structures.svg" aria-label="Open full-size diagram: chem-obj-six-crystal-structures">
+    <img src="/images/learning/chemistry/chem-obj-six-crystal-structures.svg" width="1528" height="940" alt="Six crystal examples: sodium chloride, iodine, ice, diamond, graphite and magnesium, with the characteristic particle/bonding model for each." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" />
+  </a>
+  <figcaption>Six named crystal examples across four structural types. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:chem-obj-six-crystal-structures -->
 graphite) and **molecular** (iodine and ice). Melting a molecular crystal such as iodine or ice
 overcomes only the relatively weak forces between molecules, not the covalent bonds inside them, which
 is why molecular substances have much lower melting points than macromolecular ones.
 
 ## Shapes of molecules: electron-pair repulsion in three steps
+<!-- marlbridge-diagram:chem-delta-vsepr-lone-pair-shapes -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/chemistry/chem-delta-vsepr-lone-pair-shapes.svg" aria-label="Open full-size diagram: chem-delta-vsepr-lone-pair-shapes">
+    <img src="/images/learning/chemistry/chem-delta-vsepr-lone-pair-shapes.svg" width="1528" height="940" alt="VSEPR examples for two to six electron regions, including lone-pair variants linear, bent, trigonal pyramidal, seesaw, T-shaped, square pyramidal and square planar, with pair counts and common bond angles." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" />
+  </a>
+  <figcaption>Molecular shapes with lone pairs through six electron regions. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:chem-delta-vsepr-lone-pair-shapes -->
+<!-- marlbridge-diagram:chem-delta-vsepr-dipoles -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/chemistry/chem-delta-vsepr-dipoles.svg" aria-label="Open full-size diagram: chem-delta-vsepr-dipoles">
+    <img src="/images/learning/chemistry/chem-delta-vsepr-dipoles.svg" width="1528" height="940" alt="VSEPR overview from two to six electron regions, plus CO2 cancelling bond dipoles and bent H2O with a nonzero resultant dipole." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" />
+  </a>
+  <figcaption>VSEPR electron regions and molecular dipoles. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:chem-delta-vsepr-dipoles -->
 
 ```
-Step 1 - count the total number of electron pairs around the
-central atom:
-Both bonding pairs and lone pairs count.
+Step 1 - count the electron-density regions around the central
+atom:
+Count regions of electron density: each bonded atom makes one bonding region, and each lone pair makes
+one lone-pair region. A double or triple bond still counts as one region for predicting the molecular
+shape because it connects the central atom to one other atom; it can repel somewhat more strongly than
+a single bond. Do not count the individual shared pairs in a multiple bond as separate regions.
 
 Step 2 - arrange the pairs to minimise repulsion:
 The greater the repulsion type, the further apart those pairs
@@ -133,9 +210,10 @@ electron-pair count, systematically compressed by each additional lone pair.
 Given a molecule, ask three questions in order to identify every relevant intermolecular force:
 
 ```
-Q1 - Does it contain O-H, N-H or H-F bonds?
-     Yes -> hydrogen bonding is present (the strongest of the
-     three intermolecular forces).
+Q1 - Can one molecule donate a hydrogen bond (N–H, O–H or F–H) to an available lone-pair acceptor on another?
+     Yes -> intermolecular hydrogen bonding is possible. It is often a
+     strong attraction for similarly sized molecules, but do not rank it
+     universally above every molecule-wide set of dispersion forces.
 
 Q2 - Is the molecule polar overall (asymmetric, with polar bonds)?
      Yes -> permanent dipole-dipole forces are present.
@@ -152,8 +230,24 @@ dipole-dipole forces are additional to, not instead of, van der Waals forces.
 molecule such as carbon dioxide (linear) or tetrachloromethane, CCl4 (tetrahedral), each bond is polar
 but the bond dipoles point in opposite or symmetrical directions and cancel, so the molecule has no
 permanent dipole and only van der Waals forces act between its molecules.
+<!-- marlbridge-diagram:chem-delta-electronegativity-dipole-definitions -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/chemistry/chem-delta-electronegativity-dipole-definitions.svg" aria-label="Open full-size diagram: chem-delta-electronegativity-dipole-definitions">
+    <img src="/images/learning/chemistry/chem-delta-electronegativity-dipole-definitions.svg" width="1528" height="940" alt="Electronegativity is an atom property; a difference polarises a bond and gives partial charges; molecular dipole is the vector sum of bond dipoles, nonzero for bent H₂O and cancelled in linear CO₂." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" />
+  </a>
+  <figcaption>Electronegativity, bond polarity and molecular dipoles. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:chem-delta-electronegativity-dipole-definitions -->
 
 **Hydrogen bonding and ice.** In ice, each water molecule is hydrogen bonded to four others in an open,
+<!-- marlbridge-diagram:chem-delta-intermolecular-ice -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/chemistry/chem-delta-intermolecular-ice.svg" aria-label="Open full-size diagram: chem-delta-intermolecular-ice">
+    <img src="/images/learning/chemistry/chem-delta-intermolecular-ice.svg" width="1528" height="940" alt="Comparison of London dispersion, permanent dipole and hydrogen bonding, with an open ice lattice showing why solid ice is less dense than liquid water." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" />
+  </a>
+  <figcaption>Intermolecular forces and the open ice lattice. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:chem-delta-intermolecular-ice -->
 regular lattice that holds the molecules further apart than in liquid water, so ice is less dense than
 water and floats. Hydrogen bonding also explains the anomalously high boiling points of H2O, NH3 and HF
 compared with the hydrides of the other elements in their groups.

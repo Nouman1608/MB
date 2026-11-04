@@ -214,6 +214,14 @@ A ∩ B is a **set containing one point**, so keep the curly brackets.
 
 ## 5. Three-set Venn diagrams (Extended only)
 
+<!-- marlbridge-diagram:math-b51-three-set-venn-centre-out -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/public/images/learning/mathematics/math-b51-three-set-venn-centre-out.svg" aria-label="Open full-size diagram: math-b51-three-set-venn-centre-out"><img src="/public/images/learning/mathematics/math-b51-three-set-venn-centre-out.svg" width="1528" height="940" alt="The Venn diagram applies the source’s 60-student worked example: centre x=2; pair-only counts 10, 8 and 7; B-only 9, C-only 10, P-only 9; none 5. All eight disjoint regions total 60, and exactly-one count is 28." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>The Venn diagram applies the source’s 60-student worked example: centre x=2; pair-only counts 10, 8 and 7; B-only 9, C-only 10, P-only 9; none 5. All eight disjoint regions total 60, and exactly-one count is 28. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:math-b51-three-set-venn-centre-out -->
+
+
 Three overlapping circles A, B and C split ℰ into **eight regions**: three "one set only" regions, three "exactly two sets" regions, the centre (all three), and the outside. Describe each one by saying, for every set, whether you are in it or not:
 
 | Region | Notation |

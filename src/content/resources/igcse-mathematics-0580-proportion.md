@@ -173,6 +173,14 @@ As x increases, y decreases.
 
 ### Worked example 5: inverse square (non-calculator)
 
+<!-- marlbridge-diagram:maths-b36-inverse-square-force-model -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/mathematics/maths-b36-inverse-square-force-model.svg" aria-label="Open full-size diagram: maths-b36-inverse-square-force-model"><img src="/images/learning/mathematics/maths-b36-inverse-square-force-model.svg" width="1600" height="1050" alt="F=k/d². From d=3 and F=40, k=40×9=360. Thus at d=6, F=360/36=10 N. When F=250, d²=360/250=1.44 and the positive distance is d=1.2 m." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>F=k/d². From d=3 and F=40, k=40×9=360. Thus at d=6, F=360/36=10 N. When F=250, d²=360/250=1.44 and the positive distance is d=1.2 m. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:maths-b36-inverse-square-force-model -->
+
+
 The force, F newtons, between two objects is inversely proportional to the square of the
 distance, d metres, between them. When d = 3, F = 40.
 (a) Find F when d = 6. (b) Find d when F = 250.

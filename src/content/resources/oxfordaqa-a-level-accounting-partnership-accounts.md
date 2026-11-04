@@ -76,6 +76,14 @@ Interest on drawings  =    178
 ```
 
 ## Income statement and appropriation account
+<!-- marlbridge-diagram:ac-b14-partnership-appropriation-waterfall -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/accounting/ac-b14-partnership-appropriation-waterfall.svg" aria-label="Open full-size diagram: ac-b14-partnership-appropriation-waterfall">
+    <img src="/images/learning/accounting/ac-b14-partnership-appropriation-waterfall.svg" width="1600" height="1050" alt="Waterfall reconciles profit to residual profit and allocates each partner’s share." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" />
+  </a>
+  <figcaption>Interest on drawings is added; after $5,600 capital interest and $14,000 salary, share $73,920 in a 5:3:2 ratio. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:ac-b14-partnership-appropriation-waterfall -->
 
 The income statement follows the sole trader layout, with one extra expense: **interest on a partner's loan**, because the loan is a debt of the firm. Rewards to partners *as owners* (salaries, interest on capital, profit shares) come after profit for the year, in the **appropriation account**.
 

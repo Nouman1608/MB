@@ -102,7 +102,7 @@ The key skill is dividing by the **starting** value (450). In part (b), "suggest
 
 - Each pathogen has its own **antigens**. These are molecules, usually on its surface, with **specific shapes**.
 - **Antibodies** are **proteins** made by lymphocytes. They **bind to antigens**.
-- Specific antibodies have **complementary shapes** which fit specific antigens. An antibody made against one pathogen will not bind to a different one.
+- Specific antibodies have **complementary shapes** which fit specific antigens. Antibodies bind particular regions of antigens (epitopes) with complementary binding sites. An antibody usually binds its matching epitope most effectively; cross-reactivity can occur if another pathogen carries a sufficiently similar epitope.
 - Binding leads either to the **direct destruction of pathogens**, or to **marking pathogens for destruction by phagocytes**.
 
 ### Gaining active immunity

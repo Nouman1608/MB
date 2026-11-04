@@ -67,7 +67,7 @@ These three words describe whether charge **could** flow, and how.
 
 - **Closed circuit.** There is a complete loop containing a source, so charge can flow. A torch with its switch on is a closed circuit.
 - **Open circuit.** There is a break somewhere: an open switch, a loose connection or a broken filament. Charge cannot flow round that path, so the current in it is zero. (Remember from Topic 11.1: zero current does not mean the electrons stop moving; it means no **net** flow.)
-- **Short circuit.** There is a path along which charge can flow with **no change in potential**: for example, a bare wire joining two points. Any element connected between those same two points has zero potential difference across it, so it carries no current.
+- **Short circuit.** There is a path along which charge can flow with **no change in potential**: for example, a bare wire joining two points. A passive resistive element such as a bulb connected between those same two points has zero potential difference and therefore zero current. Ideal wires and ideal inductors need separate treatment: a wire is the shorting path itself, and an inductor can carry transient current even when its instantaneous voltage is zero.
 
 A short circuit across a **bulb** turns the bulb off. A short circuit straight across a **battery** is dangerous: almost nothing limits the current, so the battery and wire can become very hot and the battery drains quickly.
 
@@ -118,7 +118,7 @@ In a single-loop circuit, every element is in the same loop, and (because charge
 
 <figure>
 <svg viewBox="0 0 560 300" role="img" aria-labelledby="loops-title loops-desc" xmlns="http://www.w3.org/2000/svg" font-family="system-ui, sans-serif">
-<title id="loops-title">A circuit with three closed loops</title>
+<title id="loops-title">Circuit graph with one conducting closed loop and two paths broken by an open switch</title>
 <desc id="loops-desc">A battery on the left, positive terminal at the top. From the top of the battery a wire runs right through bulb A to a junction. From the junction one branch goes straight down through bulb B to a junction on the bottom wire. The top wire also continues right to a second branch, which goes down through bulb C and then an open switch S to the bottom wire. The bottom wire returns to the negative terminal of the battery. Loop 1 is labelled inside the left rectangle (battery, A, B). Loop 3 is labelled inside the right rectangle (B, C, S). An arrow labelled I on the top wire near the battery points right.</desc>
 <defs><marker id="lp-arr" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto"><path d="M0 0 L10 5 L0 10 z" fill="#1d2b44"/></marker></defs>
 <g stroke="#1d2b44" stroke-width="2" fill="none">
@@ -151,10 +151,10 @@ In a single-loop circuit, every element is in the same loop, and (because charge
 </g>
 <text x="270" y="285" font-size="12" fill="#1d2b44" text-anchor="middle">Loop 2 is the outer path: battery, A, C, S.</text>
 </svg>
-<figcaption>Figure 2. A battery, three bulbs and a switch (shown open). There are three closed loops: loop 1 (battery, A, B), loop 2 (battery, A, C, S; the outer edge) and loop 3 (B, C, S). Every element here belongs to two loops. The arrow shows conventional current leaving the positive terminal.</figcaption>
+<figcaption>Figure 2. A battery, three bulbs and a switch (shown open). The drawing has three geometric cycles in its circuit graph: loop 1 (battery, A, B), loop 2 (battery, A, C, S; the outer edge) and loop 3 (B, C, S). Because S is open, only loop 1 is a continuous conducting path. Every element here belongs to two geometric cycles. The arrow shows conventional current leaving the positive terminal.</figcaption>
 </figure>
 
-To find loops systematically, start at one element and list each different way to travel round and return, without passing through any junction twice. In Figure 2 you get exactly the three loops in the caption.
+To find geometric cycles systematically, start at one element and list each different way to travel round and return, without passing through any junction twice. Figure 2 has three such cycles, but the two that include S are not conducting paths while the switch is open.
 
 ## Worked example 1: switches and a short circuit
 

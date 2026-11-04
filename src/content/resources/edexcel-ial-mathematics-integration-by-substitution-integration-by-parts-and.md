@@ -38,6 +38,14 @@ Volumes of revolution, separable differential equations and areas from parametri
 
 ## 6.2 Integration by substitution
 
+<!-- marlbridge-diagram:maths-b17-integration-substitution -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/mathematics/maths-b17-integration-substitution.svg" aria-label="Open full-size diagram: maths-b17-integration-substitution"><img src="/images/learning/mathematics/maths-b17-integration-substitution.svg" width="1600" height="1050" alt="Set u to expose a derivative factor; example integral of 2x cos(x squared) dx equals sin(x squared) plus C." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Set u to expose a derivative factor; example integral of 2x cos(x squared) dx equals sin(x squared) plus C. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:maths-b17-integration-substitution -->
+
+
 Substitution undoes the chain rule. If you can see an inner function whose derivative is (up to a constant) also present, replace the inner function with a single letter, integrate, then put the original variable back.
 
 ### Method
@@ -89,6 +97,14 @@ Then du = eˣ dx, so dx = du/u. The limits become u = 1 and u = 3.
 This gives (ln 3 − ln 4) − (0 − ln 2) = ln 3 − ln 4 + ln 2, which is **ln(3/2)**. The fraction 1/(u(u + 1)) has two linear factors, so it is split into partial fractions before integrating.
 
 ## 6.2 Integration by parts
+
+<!-- marlbridge-diagram:maths-b17-integration-parts -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/mathematics/maths-b17-integration-parts.svg" aria-label="Open full-size diagram: maths-b17-integration-parts"><img src="/images/learning/mathematics/maths-b17-integration-parts.svg" width="1600" height="1050" alt="Formula and worked example of integral x e to the x, yielding (x minus 1)e to the x plus C." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Formula and worked example of integral x e to the x, yielding (x minus 1)e to the x plus C. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:maths-b17-integration-parts -->
+
 
 The product rule says d(uv)/dx = u dv/dx + v du/dx. Integrating both sides and rearranging gives the formula:
 

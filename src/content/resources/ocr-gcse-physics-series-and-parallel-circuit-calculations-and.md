@@ -93,6 +93,13 @@ Method for mixed circuits: find the p.d. or current you can be sure of, then app
 
 ## P3.2k: circuits for measurement and testing
 
+<!-- marlbridge-diagram:phys-ocr-b19-measurement-circuit -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/physics/phys-ocr-b19-measurement-circuit.svg" aria-label="Open full-size diagram: Circuit for measuring a component"><img src="/images/learning/physics/phys-ocr-b19-measurement-circuit.svg" width="1600" height="1050" alt="Ammeter is placed in series with a lamp; voltmeter is connected in parallel across it." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Correct topology for measuring current through and potential difference across a component. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:phys-ocr-b19-measurement-circuit -->
+
 - **Ammeter in series.** It must sit in the path of the current being measured. Ammeters have very low resistance so they do not change the current.
 - **Voltmeter in parallel.** It connects across the component, with both leads on either side of it. Voltmeters have very high resistance so they draw almost no current.
 - **Finding resistance.** Measure the p.d. across a component and the current through it, then use R = V / I. A variable resistor in the circuit lets you take a range of readings.

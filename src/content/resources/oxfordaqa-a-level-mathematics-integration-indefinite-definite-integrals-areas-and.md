@@ -144,6 +144,14 @@ Regions that cross the axis are not set, but sketching first is still wise, beca
 
 ## Area between a line and a curve, or two curves
 
+<!-- marlbridge-diagram:math-b70-oxfordaqa-area-between-curves-worked-example -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/public/images/learning/mathematics/math-b70-oxfordaqa-area-between-curves-worked-example.svg" aria-label="Open full-size diagram: math-b70-oxfordaqa-area-between-curves-worked-example"><img src="/public/images/learning/mathematics/math-b70-oxfordaqa-area-between-curves-worked-example.svg" width="1528" height="940" alt="A line y=2x+11 and curve y=x²−x+1 meet at x=−2 and 5; the region between them is shaded and labelled with area 343/6." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>A line y=2x+11 and curve y=x²−x+1 meet at x=−2 and 5; the region between them is shaded and labelled with area 343/6.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:math-b70-oxfordaqa-area-between-curves-worked-example -->
+
+
 Find where the graphs meet (set the equations equal), then integrate upper minus lower between those x-values. Sketch first so you know which is the upper graph. Subtracting before integrating handles any negative values for you.
 
 **Worked example 8.** The curve y = x² − x + 1 and the line y = 2x + 11 meet at two points. Find the area between them.

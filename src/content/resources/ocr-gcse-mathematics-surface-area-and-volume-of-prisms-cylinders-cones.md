@@ -112,6 +112,12 @@ V = π × 5² × 30 − π × 4² × 30 = π × (25 − 16) × 30 = 270π ≈ 84
 **Working backwards.** If you know the volume, rearrange. For a cylinder of volume 250π cm³ and radius 5 cm: 250π = π × 25 × h, so h = 10 cm.
 
 ## 10.04b Spheres and hemispheres
+<!-- marlbridge-diagram:maths-b19-sphere-hemisphere -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/mathematics/maths-b19-sphere-hemisphere.svg" aria-label="Open full-size diagram: maths-b19-sphere-hemisphere"><img src="/images/learning/mathematics/maths-b19-sphere-hemisphere.svg" width="1600" height="1050" alt="Sphere: surface area 4πr² and volume 4πr³/3. Hemisphere: curved area 2πr², total area 3πr², and volume 2πr³/3." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Sphere: surface area 4πr² and volume 4πr³/3. Hemisphere: curved area 2πr², total area 3πr², and volume 2πr³/3. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:maths-b19-sphere-hemisphere -->
 
 These are the formulae you will normally be given.
 

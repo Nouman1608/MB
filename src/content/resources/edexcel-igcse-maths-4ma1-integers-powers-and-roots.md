@@ -207,6 +207,14 @@ Note that (1 + √7)² is not 1 + 7. You must include the middle term.
 
 ### Rationalising a denominator
 
+<!-- marlbridge-diagram:math-b44-edexcel-rationalise-surd-denominators -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/mathematics/math-b44-edexcel-rationalise-surd-denominators.svg" aria-label="Open full-size diagram: math-b44-edexcel-rationalise-surd-denominators"><img src="/images/learning/mathematics/math-b44-edexcel-rationalise-surd-denominators.svg" width="1600" height="1050" alt="Two methods remove surds from denominators: 6/√3 becomes 2√3, and multiplying 4/(3+√5) by the conjugate gives 3−√5." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Two methods remove surds from denominators: 6/√3 becomes 2√3, and multiplying 4/(3+√5) by the conjugate gives 3−√5. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:math-b44-edexcel-rationalise-surd-denominators -->
+
+
 To rationalise means to rewrite a fraction so that the denominator has no surd.
 
 - Denominator √a: multiply top and bottom by √a.

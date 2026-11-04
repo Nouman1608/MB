@@ -75,6 +75,9 @@ Because so little is left after three transfers, food chains rarely have more th
 
 ## 3.3.1 c: pyramids of biomass
 
+![Biomass pyramid with producer base and narrowing trophic levels, accompanied by the approximate 1% solar capture and 10% transfer values.](/images/learning/biology/bio-b16-biomass-energy-transfer-pyramid.svg)
+
+
 A pyramid of biomass has one horizontal bar for each trophic level, with the producers at the base. Each bar is drawn to scale, so its length is proportional to the biomass at that level. The bars are centred on a vertical line.
 
 ### Constructing a pyramid

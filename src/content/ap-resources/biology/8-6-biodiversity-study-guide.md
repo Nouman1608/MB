@@ -28,7 +28,7 @@ sources: ["ced-biology", "page-biology"]
 keyPoints:
   - "Ecosystems with few components, or little variety among them, are often less resilient: a change hits them harder and they recover more slowly."
   - "Diversity gives back-up: if one species fails, another that does a similar job can take over (functional redundancy)."
-  - "A keystone species has an effect far larger than its abundance suggests. Remove it and the ecosystem often collapses."
+  - "A keystone species has an effect on a community or ecosystem feature that is disproportionately large relative to its abundance."
   - "Producers, keystone species and essential abiotic factors (water, light, nutrients, temperature) hold up the diversity of an ecosystem."
   - "Adding or removing any component changes the ecosystem's structure; short-term effects (on direct partners) and long-term effects (on the whole community) can differ."
 faqs:
@@ -64,11 +64,11 @@ Two words describe how an ecosystem copes with a disturbance:
 
 Ecosystems with **few component parts**, and with **little diversity among those parts**, are often less resilient. This applies to natural ecosystems and to artificial ones, such as farms, plantations and fish ponds. Three reasons:
 
-1. **Back-up species (functional redundancy).** In a diverse grassland, several plant species capture light and fix carbon. If drought kills a drought-sensitive species, a drought-tolerant one can keep production going. In a field of one crop, there is no back-up.
+1. **Back-up species (functional redundancy).** In some diverse grasslands, several plant species capture light and fix carbon. If drought reduces a sensitive species, a more tolerant species may help maintain production. A field dominated by one crop variety has fewer biological back-ups for a threat that affects that variety.
 2. **Alternative pathways in the food web.** If a consumer has several food sources, the loss of one is survivable. In a simple food chain, losing one link breaks the chain.
-3. **Variety of responses.** Different species, and different genotypes within a species, respond differently to heat, cold, disease or pests. The more variety, the more likely that something survives and can rebuild.
+3. **Variety of responses.** Different species, and different genotypes within a species, may respond differently to heat, cold, disease or pests. This variation can increase the chance that some organisms survive and help rebuild, depending on the disturbance.
 
-**Low diversity in an artificial system.** Picture a large field planted with a single crop variety. Every plant has almost the same genes, so every plant is vulnerable to the same pests and diseases. If one new disease arrives, nothing in the field resists it and the whole crop can fail. A field sown with several crops, or several varieties, is more likely to keep producing. Topic 8.7 returns to real cases of this kind.
+**Low diversity in an artificial system.** A field dominated by one crop variety can have less genetic variation in responses to some pests or diseases. If most plants share susceptibility to a particular pathogen, losses may be more uniform; resistant variants, pathogen traits and growing conditions still matter, so crop failure is not guaranteed. Several crops or varieties can spread risk, though the benefit depends on the threat and management. Topic 8.7 returns to real cases of this kind.
 
 <figure>
 <svg viewBox="0 0 560 350" role="img" aria-labelledby="dr-title dr-desc" xmlns="http://www.w3.org/2000/svg" font-family="system-ui, sans-serif">
@@ -115,14 +115,14 @@ Ecosystems with **few component parts**, and with **little diversity among those
 
 Several kinds of component hold up the diversity of an ecosystem.
 
-- **Producers.** Plants, algae and photosynthetic bacteria capture the energy that every other organism depends on. They also often provide the physical habitat: a kelp forest, a coral reef or a woodland canopy is built by its producers. Lose them and you lose both food and shelter.
+- **Producers.** Plants, algae and photosynthetic bacteria capture the energy that every other organism depends on. They also often provide the physical habitat: kelp forests and woodland canopies are built largely by producers. Coral reef frameworks are built substantially by coral animals and other calcifiers, with photosynthetic symbionts and algae contributing energy and structure. Lose them and you lose both food and shelter.
 - **Essential abiotic factors.** Water, light, temperature, nutrients, soil and seasonal events such as floods set which species can live there at all. Changing one can remove many species at once.
 - **Essential biotic factors.** Pollinators, seed dispersers, decomposers and nitrogen-fixing bacteria do jobs that many other species rely on.
 - **Keystone species.** These deserve a section of their own.
 
 ### Keystone species
 
-A **keystone species** has an effect on its ecosystem that is **far larger than its abundance** would suggest. It may be rare or make up a tiny share of the biomass, yet when it is removed, the ecosystem often **collapses** into a much simpler state. The name comes from the central stone at the top of an arch: small, but take it out and the arch falls.
+A **keystone species** has an effect on a specified community or ecosystem feature that is **disproportionately large relative to its abundance**. It may be rare or make up a tiny share of the biomass. Removing it can cause substantial community changes, but a whole-ecosystem collapse is not inevitable; effects depend on the species, ecosystem and measured outcome. The name comes from the central stone at the top of an arch.
 
 Two well-studied examples:
 
@@ -186,16 +186,16 @@ A good prediction follows the chain step by step: *what does this component do �
 3. R: (9 − 20) ÷ 20 × 100 = **−55%**.
 4. B: (20 − 20) ÷ 20 × 100 = **0%**.
 
-**(b)** **R is the keystone species.** It makes up only 1% of the biomass, yet removing it more than halves the number of plant species. Grass G is far more abundant (55%), but removing it slightly *increases* richness. B is about as rare as R and has no effect, so rarity alone does not make a keystone species: the effect must be large **relative** to abundance.
+**(b)** **R is the strongest candidate for a keystone species in this fictional model.** It makes up only 1% of biomass, while its removal coincides with a 55% fall in plant richness. This is evidence of a disproportionate effect in the stated data, not proof of causation without replicated removal plots and sham controls. Grass G is more abundant (55%) and its removal slightly *increases* richness; B is similarly rare to R but has no measured richness effect. Rarity alone does not make a species keystone.
 
-**(c)** After 1 year, the loss is small (−10%): the direct, short-term effect is simply that the grass is no longer being grazed. Over 4 years, the ungrazed grass G grows taller and spreads, shading out small plants one after another. The long-term effect on the community is much larger than the short-term one. The result for G fits this: G is the dominant competitor, and R was keeping it in check, just as the sea star kept mussels in check.
+**(c)** After 1 year, richness has fallen by 10%; by year 4, the fall is larger. The proposed explanation is that, without grazing, G grows taller and spreads, shading small plants. That mechanism is plausible but is not measured by the species counts alone; abundance, cover or light measurements and replicated controls would be needed to test it.
 
-**Prediction.** If R were reintroduced, grazing would reduce G, light would reach the ground again, and plant richness should rise slowly, as long as seeds of the lost species can still arrive from nearby.
+**Prediction.** If the proposed grazing mechanism is correct, reintroducing R could reduce G and allow more light to reach the ground; richness might recover if suitable seeds or propagules are present. This is a prediction to test, not a guaranteed outcome.
 
 ## Common misconceptions
 
 - **"A keystone species is the most common species."** It is the species whose effect is out of proportion to its abundance. The most common species is often a dominant competitor instead.
-- **"Removing any rare species makes an ecosystem collapse."** Many rare species have small effects (species B above). Only keystone species have a disproportionate effect.
+- **"Removing any rare species makes an ecosystem collapse."** Rarity alone does not predict impact. A keystone designation requires evidence that a species has a disproportionate effect on a specified community or ecosystem feature.
 - **"More species always means total stability."** Diverse ecosystems are *often* more resilient, not immune. A large enough disturbance can damage any ecosystem.
 - **"Resilience means nothing changes."** That is resistance. Resilience is about recovery after change.
 - **"Only living things maintain diversity."** Essential abiotic factors such as water, light, temperature and nutrients set which species can live there at all.

@@ -81,6 +81,9 @@ If a large proportion of the population is immune to a pathogen, its spread is v
 
 ## 3.4.7 e: vaccination
 
+![Vaccination pathway from inactive pathogen to specific antibodies and rapid response at later exposure, with herd immunity effect.](/images/learning/biology/bio-b16-vaccination-antibody-immunity.svg)
+
+
 People can be **immunised** by putting small quantities of dead or inactive forms of the pathogen into the body. This is **vaccination**. The vaccine stimulates white blood cells to produce antibodies that destroy the pathogen.
 
 Later, if the real pathogen enters, the body can rapidly make the correct antibody, in the same way as if you had already had the disease. You become immune without having been ill.

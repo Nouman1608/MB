@@ -1,0 +1,94 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1528" height="871" viewBox="0 0 1528 871" role="img" aria-labelledby="title desc">
+  <title id="title">Intercostal layers: depth, ribs and breathing</title>
+  <desc id="desc">An explicit outside-to-inside intercostal-space cutaway distinguishes superficial external and deeper internal intercostal layers. Paired rib/diaphragm models show inspiration versus forced expiration and explicitly qualify quiet passive expiration.</desc>
+  <defs>
+    <marker id="arr" markerWidth="12" markerHeight="12" refX="9" refY="5" orient="auto" markerUnits="userSpaceOnUse">
+      <path d="M0,0 L10,5 L0,10 Z" fill="#1c2d4b" />
+    </marker>
+    <marker id="red" markerWidth="12" markerHeight="12" refX="9" refY="5" orient="auto" markerUnits="userSpaceOnUse">
+      <path d="M0,0 L10,5 L0,10 Z" fill="#b75e53" />
+    </marker>
+    <marker id="blue" markerWidth="12" markerHeight="12" refX="9" refY="5" orient="auto" markerUnits="userSpaceOnUse">
+      <path d="M0,0 L10,5 L0,10 Z" fill="#357ea2" />
+    </marker>
+  </defs>
+  <rect width="100%" height="100%" fill="#f5f8f7" />
+  <g font-family="Arial, sans-serif">
+    <text x="24" y="58" font-size="38" font-weight="700" text-anchor="start" fill="#1c2d4b">Intercostal layers: depth, ribs and breathing</text>
+    <text x="24" y="104" font-size="22" font-weight="400" text-anchor="start" fill="#1c2d4b">Pearson Edexcel International GCSE Biology 4BI1 • ventilation</text>
+    <g transform="translate(24,172)">
+      <rect x="0" y="0" width="720" height="620" rx="12" fill="white" stroke="#cad7d5" stroke-width="2" />
+      <text x="35" y="47" font-size="27" font-weight="700" text-anchor="start" fill="#1c2d4b">Depth through an intercostal space</text>
+      <text x="62" y="104" font-size="24" font-weight="700" text-anchor="start" fill="#1c2d4b">Outside: skin side</text>
+      <text x="62" y="460" font-size="24" font-weight="700" text-anchor="start" fill="#1c2d4b">Inside: lung side</text>
+      <rect x="72" y="136" width="558" height="48" rx="8" fill="#e9c7d4" stroke="#1c2d4b" stroke-width="2" />
+      <rect x="72" y="199" width="558" height="76" rx="8" fill="#e2efec" stroke="#1c2d4b" stroke-width="2" />
+      <rect x="72" y="290" width="558" height="76" rx="8" fill="#f2df9b" stroke="#1c2d4b" stroke-width="2" />
+      <path d="M97,261 l25,-48" fill="none" stroke="#73aaa5" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" />
+      <path d="M97,303 l25,48" fill="none" stroke="#d5b32d" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" />
+      <path d="M132,261 l25,-48" fill="none" stroke="#73aaa5" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" />
+      <path d="M132,303 l25,48" fill="none" stroke="#d5b32d" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" />
+      <path d="M167,261 l25,-48" fill="none" stroke="#73aaa5" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" />
+      <path d="M167,303 l25,48" fill="none" stroke="#d5b32d" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" />
+      <path d="M202,261 l25,-48" fill="none" stroke="#73aaa5" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" />
+      <path d="M202,303 l25,48" fill="none" stroke="#d5b32d" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" />
+      <path d="M237,261 l25,-48" fill="none" stroke="#73aaa5" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" />
+      <path d="M237,303 l25,48" fill="none" stroke="#d5b32d" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" />
+      <path d="M272,261 l25,-48" fill="none" stroke="#73aaa5" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" />
+      <path d="M272,303 l25,48" fill="none" stroke="#d5b32d" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" />
+      <path d="M307,261 l25,-48" fill="none" stroke="#73aaa5" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" />
+      <path d="M307,303 l25,48" fill="none" stroke="#d5b32d" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" />
+      <path d="M342,261 l25,-48" fill="none" stroke="#73aaa5" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" />
+      <path d="M342,303 l25,48" fill="none" stroke="#d5b32d" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" />
+      <path d="M377,261 l25,-48" fill="none" stroke="#73aaa5" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" />
+      <path d="M377,303 l25,48" fill="none" stroke="#d5b32d" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" />
+      <path d="M412,261 l25,-48" fill="none" stroke="#73aaa5" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" />
+      <path d="M412,303 l25,48" fill="none" stroke="#d5b32d" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" />
+      <path d="M447,261 l25,-48" fill="none" stroke="#73aaa5" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" />
+      <path d="M447,303 l25,48" fill="none" stroke="#d5b32d" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" />
+      <path d="M482,261 l25,-48" fill="none" stroke="#73aaa5" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" />
+      <path d="M482,303 l25,48" fill="none" stroke="#d5b32d" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" />
+      <path d="M517,261 l25,-48" fill="none" stroke="#73aaa5" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" />
+      <path d="M517,303 l25,48" fill="none" stroke="#d5b32d" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" />
+      <path d="M552,261 l25,-48" fill="none" stroke="#73aaa5" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" />
+      <path d="M552,303 l25,48" fill="none" stroke="#d5b32d" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" />
+      <path d="M587,261 l25,-48" fill="none" stroke="#73aaa5" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" />
+      <path d="M587,303 l25,48" fill="none" stroke="#d5b32d" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" />
+      <path d="M655,160 L655,380" fill="none" stroke="#357ea2" stroke-width="3" marker-end="url(#blue)" />
+      <text x="351" y="165" font-size="22" font-weight="700" text-anchor="middle" fill="#1c2d4b">Skin</text>
+      <text x="351" y="244" font-size="23" font-weight="700" text-anchor="middle" fill="#1c2d4b">External intercostal layer</text>
+      <text x="351" y="335" font-size="23" font-weight="700" text-anchor="middle" fill="#1c2d4b">Internal intercostal layer</text>
+      <text x="35" y="500" font-size="23" font-weight="400" text-anchor="start" fill="#1c2d4b">External is nearer the skin; internal is deeper, nearer the lung.</text>
+      <text x="35" y="531" font-size="23" font-weight="400" text-anchor="start" fill="#1c2d4b">Coloured fibre marks are schematic. Layers span spaces</text>
+      <text x="35" y="562" font-size="23" font-weight="400" text-anchor="start" fill="#1c2d4b">between ribs; the innermost layer is omitted at this course</text>
+      <text x="35" y="593" font-size="23" font-weight="400" text-anchor="start" fill="#1c2d4b">depth.</text>
+    </g>
+    <g transform="translate(784,172)">
+      <rect x="0" y="0" width="720" height="620" rx="12" fill="white" stroke="#cad7d5" stroke-width="2" />
+      <text x="35" y="47" font-size="27" font-weight="700" text-anchor="start" fill="#1c2d4b">Muscle actions change thorax volume</text>
+      <text x="45" y="105" font-size="25" font-weight="700" text-anchor="start" fill="#1c2d4b">Inspiration</text>
+      <text x="390" y="105" font-size="25" font-weight="700" text-anchor="start" fill="#1c2d4b">Forced expiration</text>
+      <path d="M62,196 L251,171" fill="none" stroke="#d5b32d" stroke-width="17" stroke-linecap="round" stroke-linejoin="round" />
+      <path d="M62,246 L251,221" fill="none" stroke="#d5b32d" stroke-width="17" stroke-linecap="round" stroke-linejoin="round" />
+      <path d="M62,296 L251,271" fill="none" stroke="#d5b32d" stroke-width="17" stroke-linecap="round" stroke-linejoin="round" />
+      <path d="M72,348 Q164,350 265,348" fill="none" stroke="#b75e53" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" />
+      <path d="M280,252 L297,182" fill="none" stroke="#357ea2" stroke-width="4" marker-end="url(#blue)" />
+      <text x="42" y="401" font-size="22" font-weight="400" text-anchor="start" fill="#1c2d4b">External contracts;</text>
+      <text x="42" y="430" font-size="22" font-weight="400" text-anchor="start" fill="#1c2d4b">ribs rise and move out.</text>
+      <text x="42" y="459" font-size="22" font-weight="400" text-anchor="start" fill="#1c2d4b">Diaphragm flattens.</text>
+      <path d="M407,196 L596,171" fill="none" stroke="#d5b32d" stroke-width="17" stroke-linecap="round" stroke-linejoin="round" />
+      <path d="M407,246 L596,221" fill="none" stroke="#d5b32d" stroke-width="17" stroke-linecap="round" stroke-linejoin="round" />
+      <path d="M407,296 L596,271" fill="none" stroke="#d5b32d" stroke-width="17" stroke-linecap="round" stroke-linejoin="round" />
+      <path d="M417,348 Q509,305 610,348" fill="none" stroke="#b75e53" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" />
+      <path d="M625,252 L642,322" fill="none" stroke="#357ea2" stroke-width="4" marker-end="url(#blue)" />
+      <text x="387" y="401" font-size="22" font-weight="400" text-anchor="start" fill="#1c2d4b">Internal contracts;</text>
+      <text x="387" y="430" font-size="22" font-weight="400" text-anchor="start" fill="#1c2d4b">ribs move down and in.</text>
+      <text x="387" y="459" font-size="22" font-weight="400" text-anchor="start" fill="#1c2d4b">Diaphragm relaxes.</text>
+      <text x="35" y="500" font-size="23" font-weight="400" text-anchor="start" fill="#1c2d4b">Inspiration: volume ↑, pressure ↓, air enters. Quiet expiration is</text>
+      <text x="35" y="531" font-size="23" font-weight="400" text-anchor="start" fill="#1c2d4b">mainly passive elastic recoil. Internal intercostals assist forced</text>
+      <text x="35" y="562" font-size="23" font-weight="400" text-anchor="start" fill="#1c2d4b">expiration; they are not required to contract in every resting</text>
+      <text x="35" y="593" font-size="23" font-weight="400" text-anchor="start" fill="#1c2d4b">breath.</text>
+    </g>
+    <text x="24" y="849" font-size="19" font-weight="400" text-anchor="start" fill="#1c2d4b">MARLBRIDGE  •  Schematic; structures and particles are not to scale.</text>
+  </g>
+</svg>

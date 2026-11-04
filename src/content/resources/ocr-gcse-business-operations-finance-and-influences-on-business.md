@@ -86,6 +86,14 @@ papers rather than answer from Business 2 content alone.
 
 ## Worked example: break-even
 
+<!-- marlbridge-diagram:business-ocr-gcse-break-even-graph-worked-example -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/business/business-ocr-gcse-break-even-graph-worked-example.svg" aria-label="Open full-size diagram: business-ocr-gcse-break-even-graph-worked-example"><img src="/images/learning/business/business-ocr-gcse-break-even-graph-worked-example.svg" width="1600" height="1050" alt="A revenue and total-cost graph is plotted from the lesson figures: £20 price, £12 variable cost, £4,800 fixed costs." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>A revenue and total-cost graph is plotted from the lesson figures: £20 price, £12 variable cost, £4,800 fixed costs. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:business-ocr-gcse-break-even-graph-worked-example -->
+
+
 A business sells a product for £20. Variable costs are £12 per unit,
 and fixed costs are £4,800 per month. Calculate the break-even
 quantity.

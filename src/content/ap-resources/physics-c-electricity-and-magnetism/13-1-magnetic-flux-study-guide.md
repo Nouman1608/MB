@@ -204,6 +204,13 @@ If B is uniform and the surface is flat, the integral reduces to B·A, so the un
 
 ## Flux through a solenoid
 
+<!-- marlbridge-diagram:physcem-b15-solenoid-flux-loop-area -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/physics/physcem-b15-solenoid-flux-loop-area.svg" aria-label="Open full-size diagram: physcem-b15-solenoid-flux-loop-area"><img src="/images/learning/physics/physcem-b15-solenoid-flux-loop-area.svg" width="1600" height="1050" alt="For an ideal long solenoid of radius R, B is uniform inside and nearly zero outside. A coaxial loop inside has flux Bπr²; a larger loop around it has the same flux BπR² because the added area is outside the field. Source example: 4.74 μWb per turn." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>For an ideal long solenoid of radius R, B is uniform inside and nearly zero outside. A coaxial loop inside has flux Bπr²; a larger loop around it has the same flux BπR² because the added area is outside the field. Source example: 4.74 μWb per turn. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:physcem-b15-solenoid-flux-loop-area -->
+
 In Topic 12.4 you used Ampère's law to show that the field inside a long ideal solenoid is uniform, B = μ₀nI, along the axis, and nearly zero outside. So the flux through **one turn** of radius R is:
 
 **Φ_B = μ₀nI × πR²**
@@ -217,7 +224,15 @@ Two consequences are often tested:
 
 ## Closed surfaces: zero net magnetic flux
 
-Magnetic field lines always form **closed loops**. There are no magnetic monopoles where lines could start or stop. So every field line that enters a closed surface must also leave it, and:
+<!-- marlbridge-diagram:phys-gap-13-1-magnetic-gauss-flux -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/physics/phys-gap-13-1-magnetic-gauss-flux.svg" aria-label="Open full-size diagram: phys-gap-13-1-magnetic-gauss-flux"><img src="/images/learning/physics/phys-gap-13-1-magnetic-gauss-flux.svg" width="1528" height="940" alt="Magnetic dipole schematic plus a curved bowl and closing disc with separately labelled outward surface normals; net magnetic flux through their combined closed surface is zero." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Magnetic dipole schematic plus a curved bowl and closing disc with separately labelled outward surface normals; net magnetic flux through their combined closed surface is zero. — Marlbridge Physics.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:phys-gap-13-1-magnetic-gauss-flux -->
+
+
+In the bar-magnet dipole model, field lines loop from N to S outside the magnet and return from S to N through it. No magnetic monopoles are known, so field lines have no local starts or stops; in a uniform-field model or a finite region, a line can extend beyond the region rather than close within it. For any closed surface, entering and leaving flux balances, so:
 
 **∮ B·dA = 0** for every closed surface
 

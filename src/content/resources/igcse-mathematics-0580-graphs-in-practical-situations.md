@@ -169,6 +169,14 @@ Method:
 
 ### Worked example 5: estimating a speed
 
+<!-- marlbridge-diagram:maths-b30-distance-time-tangent-speed -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/mathematics/maths-b30-distance-time-tangent-speed.svg" aria-label="Open full-size diagram: maths-b30-distance-time-tangent-speed"><img src="/images/learning/mathematics/maths-b30-distance-time-tangent-speed.svg" width="1600" height="1050" alt="At t=3, the tangent to s=t² passes through approximately (1.5,0) and (5,21). Its gradient is (21−0)/(5−1.5)=6 metres per second, the estimated instantaneous speed." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>At t=3, the tangent to s=t² passes through approximately (1.5,0) and (5,21). Its gradient is (21−0)/(5−1.5)=6 metres per second, the estimated instantaneous speed. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:maths-b30-distance-time-tangent-speed -->
+
+
 A ball rolls down a slope. Its distance–time graph is a curve through (0, 0), (1, 1), (2, 4), (3, 9), (4, 16) and (5, 25), with distance in metres and time in seconds. Estimate the speed of the ball after 3 seconds.
 
 ```

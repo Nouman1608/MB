@@ -52,6 +52,14 @@ and how mass is conserved during these changes
 calculated, and how pressure in liquids and the atmosphere varies with
 depth, height, and density, including floating, sinking and upthrust
 
+### Page-level teaching map
+
+| Overview statement | Detailed teaching evidence |
+|---|---|
+| **P1.1 The particle model and atomic structure** | [The particle model and changes of state](#the-particle-model-and-changes-of-state) teaches particle arrangement, motion and state changes; [development of the atomic model](#development-of-the-atomic-model) follows Dalton, Thomson, Rutherford and Bohr, describes the nucleus, and gives the order-of-magnitude size of an atom. |
+| **P1.2 Changes of state** | [The particle model and changes of state](#the-particle-model-and-changes-of-state) explains energy transfer and conservation of mass; [specific heat capacity and latent heat](#specific-heat-capacity-and-latent-heat) gives the calculation methods. |
+| **P1.3 Pressure** | [Gas pressure](#gas-pressure) explains particle collisions and pressure; [pressure in liquids and the atmosphere](#pressure-in-liquids-and-the-atmosphere) covers depth, density, atmosphere-height change and upthrust. |
+
 ## How to approach it
 
 The particle model (P1.1) is the conceptual foundation for the whole
@@ -92,6 +100,8 @@ Solids and liquids have similar densities because their particles are close toge
 
 ## The particle model and changes of state
 
+In a **solid**, particles are close together in a regular arrangement and vibrate about fixed positions. In a **liquid**, particles are still close together but are not in fixed positions; they move past each other, so the liquid flows and takes the shape of its container. In a **gas**, particles are far apart and move rapidly in random directions, colliding with each other and the container. A gas spreads to fill its container and is easy to compress; solids and liquids are much harder to compress because their particles are already close together.
+
 Changes of state are **physical**: the particles themselves are unchanged, only their arrangement and energy differ, so the change is reversible and mass is conserved.
 
 Heating a substance either raises its temperature (increasing the kinetic energy of the particles) or changes its state (increasing potential energy as bonds between particles are overcome) — never both at once. This is why a heating curve has flat sections at the melting and boiling points despite energy still being supplied.
@@ -117,6 +127,13 @@ E = m L
 Latent heat of fusion applies to melting and freezing; latent heat of vaporisation to boiling and condensing, and is the larger of the two because all the forces between particles must be overcome rather than merely loosened.
 
 ## Gas pressure
+
+<!-- marlbridge-diagram:phys-ocr-b19-gas-atmospheric-pressure -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/physics/phys-ocr-b19-gas-atmospheric-pressure.svg" aria-label="Open full-size diagram: Pressure in gases and the atmosphere"><img src="/images/learning/physics/phys-ocr-b19-gas-atmospheric-pressure.svg" width="1600" height="1050" alt="Gas particles collide with container walls; a thinner air column at altitude corresponds to lower atmospheric pressure." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Particle collisions create gas pressure; a reduced overlying air column and lower air density explain falling atmospheric pressure with altitude. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:phys-ocr-b19-gas-atmospheric-pressure -->
 
 Gas particles collide with container walls, and each collision exerts a small force. Pressure is the total force per unit area from these collisions.
 

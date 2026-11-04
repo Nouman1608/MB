@@ -66,6 +66,11 @@ When you draw an amino acid, show the –OH of the carboxyl group and both hydro
 
 ### Forming a peptide bond: condensation
 
+
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <!-- marlbridge-diagram:biology-amino-acid-peptide-bond --><a href="/images/learning/biology/biology-amino-acid-peptide-bond.svg" aria-label="Open full-size diagram: Amino-acid structure and peptide-bond formation" title="Amino-acid structure and peptide-bond formation"><img src="/images/learning/biology/biology-amino-acid-peptide-bond.svg" width="1600" height="1050" alt="Amino-acid structure and peptide-bond formation. Two general neutral-form amino acids join by condensation. A carboxyl OH and an amino H leave as water; the carbonyl carbon bonds to nitrogen to make the peptide linkage –CO–NH–. A companion short polypeptide schematic marks the free N and C termini and sequence backbone. R groups vary; this is not a stereochemical molecular model." title="Amino-acid structure and peptide-bond formation" loading="lazy" decoding="async" style="display:block;width:100%;height:auto;" /></a>
+  <figcaption>General amino-acid structure and peptide-bond formation by condensation, with the reverse hydrolysis reaction. Select the diagram to enlarge it.</figcaption>
+</figure>
 Two amino acids join by a **condensation reaction**. The –OH from the carboxyl group of one amino acid and an –H from the amine group of the other are removed as **one molecule of water**. A covalent **peptide bond**, –CO–NH–, forms between the carbon of the first and the nitrogen of the second.
 
 ```

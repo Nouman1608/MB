@@ -38,6 +38,13 @@ Links to the revision notes, practice questions, course hub, checklist and
 | 3.3.1.3 Isomerism | Define structural isomer and stereoisomer; chain, position and functional group isomers; E–Z isomers; Cahn–Ingold–Prelog (CIP) priority rules | AS |
 
 ## 3.3.1.1 Representing organic compounds
+<!-- marlbridge-diagram:chem-b25-skeletal-six-carbon-ring -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/chemistry/chem-b25-skeletal-six-carbon-ring.svg" aria-label="Open full-size diagram: chem-b25-skeletal-six-carbon-ring"><img src="/images/learning/chemistry/chem-b25-skeletal-six-carbon-ring.svg" width="1528" height="940" alt="Skeletal structures show cyclohexane with six carbon vertices and no double bond, cyclohex-1-ene with six carbon vertices and one double bond, and open-chain hex-1-ene. The first two have formulas C6H12 and C6H10 respectively; hex-1-ene and cyclohexane both have formula C6H12 but different structures." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Count each line end and vertex as a carbon. A ring plus one C=C gives C₆H₁₀; an open-chain alkene and cycloalkane can share C₆H₁₂. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:chem-b25-skeletal-six-carbon-ring -->
+
 
 Organic compounds can be written in six ways.
 
@@ -156,6 +163,13 @@ pentan → 5-carbon chain:           C–C–C–C–C
 4-methyl → CH₃ on carbon 4:         CH₃COCH₂CH(CH₃)CH₃
 Check: C₆H₁₂O, every carbon has four bonds.
 ```
+
+<!-- marlbridge-diagram:chem-aqa-skeletal-alcohol-and-ring-examples -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/chemistry/chem-aqa-skeletal-alcohol-and-ring-examples.svg" aria-label="Open full-size diagram: skeletal formula from a name, including a six-carbon ring and an alcohol"><img src="/images/learning/chemistry/chem-aqa-skeletal-alcohol-and-ring-examples.svg" width="1528" height="940" alt="Skeletal drawing examples: 4-methylpentan-2-ol has a five-carbon parent chain, a methyl branch at carbon 4 and an explicitly written OH at carbon 2; cyclohexanol has six ring vertices and an explicitly written OH group. Carbon hydrogens are omitted, but hydrogen on oxygen is shown." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Build the chain or ring from its name, then write heteroatoms and their attached hydrogens explicitly. Line ends and corners are carbons; the six-membered ring has six carbon vertices.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:chem-aqa-skeletal-alcohol-and-ring-examples -->
 
 ## 3.3.1.2 Reaction mechanisms
 

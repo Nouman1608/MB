@@ -131,6 +131,14 @@ Influences include the size of the business, staff skills, the nature of the wor
 
 ### Worked example: delayering at Pelican Freight
 
+<!-- marlbridge-diagram:business-oxfordaqa-delayering-pelican-freight -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/business/business-oxfordaqa-delayering-pelican-freight.svg" aria-label="Open full-size diagram: business-oxfordaqa-delayering-pelican-freight"><img src="/images/learning/business/business-oxfordaqa-delayering-pelican-freight.svg" width="1600" height="1050" alt="Shows Pelican Freight&#x27;s organisation before and after removing regional directors, including its £270,000 saving and wider CEO span." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Shows Pelican Freight&#x27;s organisation before and after removing regional directors, including its £270,000 saving and wider CEO span. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:business-oxfordaqa-delayering-pelican-freight -->
+
+
 Pelican Freight has a chief executive, 3 regional directors, 15 depot managers (5 per region) and 180 drivers (12 per depot manager): 199 staff on 4 levels. Removing the regional directors (each paid £90,000) saves 3 × £90,000 = **£270,000** a year, but the chief executive's span rises from 3 to **15**.
 
 **Restructuring and delayering** cut costs, speed up decisions and can empower staff. Drawbacks: fewer promotion opportunities, heavier workloads for remaining managers, lost experience and fear among those left.

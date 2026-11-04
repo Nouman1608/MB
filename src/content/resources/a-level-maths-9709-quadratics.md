@@ -85,6 +85,14 @@ The denominator is never less than 3, and equals 3 when x = 2. A fraction with a
 
 ## 2. The discriminant
 
+<!-- marlbridge-diagram:maths-quadratics-discriminant-graph-cases -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/mathematics/maths-quadratics-discriminant-graph-cases.svg" aria-label="Open full-size diagram: maths-quadratics-discriminant-graph-cases"><img src="/images/learning/mathematics/maths-quadratics-discriminant-graph-cases.svg" width="1600" height="1050" alt="Three schematic quadratic graphs show that positive, zero, and negative discriminants correspond respectively to two, one repeated, and no real roots." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Three schematic quadratic graphs show that positive, zero, and negative discriminants correspond respectively to two, one repeated, and no real roots. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:maths-quadratics-discriminant-graph-cases -->
+
+
 For ax² + bx + c = 0 the discriminant is b² − 4ac.
 
 | Discriminant | Roots of ax² + bx + c = 0 | Graph of y = ax² + bx + c |

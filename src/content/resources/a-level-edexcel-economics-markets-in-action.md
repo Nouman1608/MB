@@ -83,6 +83,14 @@ description.
 
 ## Working through the six sub-topics in sequence
 
+<!-- marlbridge-diagram:economics-market-failure-intervention-chain -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/economics/economics-market-failure-intervention-chain.svg" aria-label="Open full-size diagram: economics-market-failure-intervention-chain"><img src="/images/learning/economics/economics-market-failure-intervention-chain.svg" width="1600" height="1050" alt="A sequence from scarcity through demand, supply, equilibrium and market failure to intervention, with policy tools matched to failures." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Trace the market outcome before selecting a policy response. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:economics-market-failure-intervention-chain -->
+
+
 The six sub-topics build cumulatively rather than standing independently. 1.3.1's opportunity-cost
 and scarcity framework underlies every subsequent diagram; 1.3.2 and 1.3.3 establish demand and supply
 separately before 1.3.4 combines them into price determination; and only once equilibrium (1.3.4) is

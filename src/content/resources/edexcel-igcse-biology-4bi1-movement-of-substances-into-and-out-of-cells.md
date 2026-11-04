@@ -38,11 +38,18 @@ Experimental skills are assessed through the written papers, so you need to be a
 
 ## 2.15 Three ways substances cross a membrane
 
-Every cell is surrounded by a cell membrane. It is **partially permeable**: small molecules such as oxygen, carbon dioxide and water pass through it, but larger molecules such as sucrose and starch cannot. Three processes move substances across it.
+Every cell is surrounded by a selectively permeable membrane. Which substances cross depends on their size, charge, polarity, lipid solubility and available channels or carrier proteins—not size alone. In the simple model here, oxygen and carbon dioxide diffuse through the membrane, water crosses through water-permeable pathways, and intact sucrose or starch does not freely diffuse through the lipid bilayer. Three processes move substances across it.
 
 ### Diffusion
 
 **Diffusion** is the net movement of particles from a region of higher concentration to a region of lower concentration. The particles move down a concentration gradient. It is **passive**: the particles move because of their own random motion, so the cell uses no energy from respiration.
+
+<!-- marlbridge-diagram:bio-b34-edexcel-4bi1-diffusion-particles -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/biology/bio-b34-edexcel-4bi1-diffusion-particles.svg" aria-label="Open full-size diagram: diffusion and net movement"><img src="/images/learning/biology/bio-b34-edexcel-4bi1-diffusion-particles.svg" width="1528" height="871" alt="Particles move randomly in both directions, with more net movement from the higher-concentration region until dynamic equilibrium." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Diffusion: random movement continues at equilibrium, but net movement is zero.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:bio-b34-edexcel-4bi1-diffusion-particles -->
 
 The word "net" matters. Particles move randomly both ways, but more move from the crowded side. When the concentrations are equal, particles still move, but there is no net movement.
 
@@ -54,17 +61,31 @@ Examples you should be able to use:
 
 ### Osmosis
 
-**Osmosis** is the net movement of water molecules from a dilute solution to a more concentrated solution through a partially permeable membrane. Put another way, water moves from where there is a higher concentration of water molecules to where there is a lower concentration of water molecules. You may also see this described as movement from a higher to a lower water potential.
+**Osmosis** is the net movement of water across a partially permeable membrane down a water-potential gradient. In the simple model with comparable pressure and a solute retained by the membrane, this is from a more dilute solution toward the more concentrated solution. Pressure can also affect water potential, so the dilute-to-concentrated shortcut does not cover every cell or experimental setup.
 
-Osmosis is a special case of diffusion. It is still passive, but it is about **water** only, and it needs a **partially permeable membrane**. The solute (for example sucrose) cannot cross the membrane, so only the water moves.
+<!-- marlbridge-diagram:bio-b34-edexcel-4bi1-osmosis-water-potential -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/biology/bio-b34-edexcel-4bi1-osmosis-water-potential.svg" aria-label="Open full-size diagram: osmosis across a partially permeable membrane"><img src="/images/learning/biology/bio-b34-edexcel-4bi1-osmosis-water-potential.svg" width="1528" height="871" alt="Water crosses a partially permeable membrane in both directions, with net movement from higher to lower water potential in a simple retained-solute model." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Osmosis in the simple retained-solute model; pressure and membrane selectivity matter.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:bio-b34-edexcel-4bi1-osmosis-water-potential -->
+
+Osmosis is a special case of diffusion. It is passive, involves net movement of **water**, and requires a membrane that is permeable to water but retains the relevant solute over the time of the model or experiment. Solute permeability varies with membrane and solute; it should not be assumed universally.
 
 What happens to cells depends on the solution around them.
 
 | Solution around the cell | Animal cell (red blood cell) | Plant cell |
 |---|---|---|
 | More dilute than cell contents (e.g. pure water) | Water enters; cell swells and may burst, because there is no cell wall | Water enters; vacuole swells and pushes the cytoplasm against the cell wall; cell becomes **turgid** but does not burst |
-| Same concentration as cell contents | No net movement of water; no change | No net movement; no change |
+| Same water potential as cell contents (in the model) | No net movement of water; no change | No net water movement in this simplified comparison |
 | More concentrated than cell contents | Water leaves; cell shrinks and becomes shrivelled | Water leaves; cell becomes **flaccid**; if more water is lost the cytoplasm and membrane pull away from the wall (**plasmolysis**) |
+
+<!-- marlbridge-diagram:bio-b34-edexcel-4bi1-plant-cell-water-balance -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/biology/bio-b34-edexcel-4bi1-plant-cell-water-balance.svg" aria-label="Open full-size diagram: water balance in plant cells"><img src="/images/learning/biology/bio-b34-edexcel-4bi1-plant-cell-water-balance.svg" width="1528" height="1515" alt="Plant-cell diagrams compare turgid, flaccid and plasmolysed states, showing the cell wall, membrane and water movement." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Plant cells respond to water movement through changes in turgor and plasmolysis.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:bio-b34-edexcel-4bi1-plant-cell-water-balance -->
 
 The cell wall is the reason a plant cell does not burst in water. It is strong and resists further expansion. Turgid cells press against each other, which is what keeps non-woody plant tissue firm.
 
@@ -72,7 +93,14 @@ The cell wall is the reason a plant cell does not burst in water. It is strong a
 
 **Active transport** is the movement of substances from a region of lower concentration to a region of higher concentration, against a concentration gradient. It uses energy released by respiration and needs carrier proteins in the cell membrane.
 
-Because it depends on respiration, anything that stops respiration (lack of oxygen, a poison, a low temperature) slows or stops active transport. Cells that carry out a lot of active transport tend to contain many mitochondria.
+<!-- marlbridge-diagram:bio-b34-edexcel-4bi1-active-transport-root-hair -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/biology/bio-b34-edexcel-4bi1-active-transport-root-hair.svg" aria-label="Open full-size diagram: active transport and root-hair ion uptake"><img src="/images/learning/biology/bio-b34-edexcel-4bi1-active-transport-root-hair.svg" width="1528" height="871" alt="Carrier proteins use energy to move mineral ions into a root-hair cell against their concentration gradient; water uptake is osmosis." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Active transport moves selected substances against a gradient using carrier proteins and cellular energy.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:bio-b34-edexcel-4bi1-active-transport-root-hair -->
+
+Active transport depends on cellular energy supply. Severe oxygen shortage can reduce aerobic ATP production, but it does not necessarily stop all ATP production in every cell because anaerobic pathways may contribute. Poisons and low temperature can also reduce transport, depending on their effects on metabolism and transport proteins. Cells with high energy demands often contain many mitochondria.
 
 Examples:
 
@@ -84,11 +112,18 @@ Examples:
 | | Diffusion | Osmosis | Active transport |
 |---|---|---|---|
 | What moves | Any particles that can pass | Water only | Particular ions and molecules |
-| Direction | High to low concentration | Dilute to concentrated solution | Low to high concentration |
+| Direction | High to low concentration | Down a water-potential gradient (simple retained-solute model: dilute to concentrated) | Low to high concentration |
 | Energy from respiration | No | No | Yes |
 | Membrane needed | No (can happen in air or water) | Yes, partially permeable | Yes, with carrier proteins |
 
 ## 2.16 Factors that affect the rate of movement
+
+<!-- marlbridge-diagram:bio-b34-edexcel-4bi1-diffusion-factors -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/biology/bio-b34-edexcel-4bi1-diffusion-factors.svg" aria-label="Open full-size diagram: factors affecting diffusion rate"><img src="/images/learning/biology/bio-b34-edexcel-4bi1-diffusion-factors.svg" width="1528" height="871" alt="Diffusion-rate factors: exposed surface area, temperature, concentration gradient and diffusion distance, with other conditions controlled." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Compare one factor at a time; exposed area and surface-area-to-volume ratio are related but distinct.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:bio-b34-edexcel-4bi1-diffusion-factors -->
 
 The specification names four factors. For each, learn the direction of the effect and the reason.
 
@@ -124,6 +159,14 @@ The 3 cm cube has 27 times the volume but only 9 times the surface area.
 
 ### Worked example 2: how far does the substance get?
 
+<!-- marlbridge-diagram:bio-b30-edexcel-4bi1-agar-cube-diffusion -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/biology/bio-b30-edexcel-4bi1-agar-cube-diffusion.svg" aria-label="Open full-size diagram: bio-b30-edexcel-4bi1-agar-cube-diffusion"><img src="/images/learning/biology/bio-b30-edexcel-4bi1-agar-cube-diffusion.svg" width="1528" height="940" alt="Agar cubes with equal assumed acid penetration depth; the smaller cube has a larger fraction of its volume reached." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Agar-cube worked model: the same assumed 0.5 cm penetration depth reaches different fractions of the two cubes.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:bio-b30-edexcel-4bi1-agar-cube-diffusion -->
+
+
 Agar cubes containing an indicator change colour as acid diffuses in. After 10 minutes, the acid has moved 0.5 cm in from every face of a 2 cm cube and of a 4 cm cube. What percentage of each cube has changed colour?
 
 ```
@@ -136,16 +179,30 @@ Agar cubes containing an indicator change colour as acid diffuses in. After 10 m
            changed        = (64 − 27) ÷ 64 × 100 = 57.8% (3 s.f.)
 ```
 
-The acid moves in at the same speed in both cubes, but in the larger cube a smaller fraction is reached in the same time. The ratios explain why: 3 : 1 for the 2 cm cube and 1.5 : 1 for the 4 cm cube. The same idea explains why large organisms cannot rely on diffusion across their outer surface alone.
+In this worked model, the same assumed penetration depth after the same exposure means a smaller fraction of the larger cube is reached. This single time-point comparison does **not** establish a constant diffusion-front speed over time. The ratios are 3 : 1 for the 2 cm cube and 1.5 : 1 for the 4 cm cube. The same geometry helps explain why large organisms cannot rely on diffusion across their outer surface alone.
 
 ## 2.17 Practical: diffusion and osmosis in living and non-living systems
+
+<!-- marlbridge-diagram:bio-b34-edexcel-4bi1-osmosis-investigations -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/biology/bio-b34-edexcel-4bi1-osmosis-investigations.svg" aria-label="Open full-size diagram: osmosis investigations"><img src="/images/learning/biology/bio-b34-edexcel-4bi1-osmosis-investigations.svg" width="1528" height="871" alt="Osmosis practicals: use a membrane bag with a solute it retains and compare potato-tissue mass change across controlled external concentrations." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Osmosis investigations: verify membrane selectivity, control conditions and interpret zero mass change cautiously.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:bio-b34-edexcel-4bi1-osmosis-investigations -->
 
 The specification asks for both kinds of system. Know one example of each.
 
 ### Non-living systems
 
+<!-- marlbridge-diagram:bio-b30-edexcel-4bi1-agar-cube-diffusion-practical -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/biology/bio-b30-edexcel-4bi1-agar-cube-diffusion.svg" aria-label="Open full-size diagram: agar-cube diffusion practical model"><img src="/images/learning/biology/bio-b30-edexcel-4bi1-agar-cube-diffusion.svg" width="1528" height="940" alt="Agar-cube diffusion model for the practical: compare equal acid exposure and temperature while changing cube size; the pictured equal penetration depth is an assumed worked result." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Reuse of the agar-cube model from 2.16 to connect the calculation with the required practical method.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:bio-b30-edexcel-4bi1-agar-cube-diffusion-practical -->
+
 - **Agar cubes with indicator.** Cut agar containing an indicator into cubes of different sizes, place them in acid, and time how long each takes to change colour completely. This models the effect of surface area to volume ratio (or of temperature, if you use one cube size in acid at different temperatures).
-- **Visking tubing.** This is a partially permeable membrane. Tie off a length containing sucrose solution, record its mass, stand it in water, then blot and reweigh. The tubing gains mass by osmosis. Visking tubing containing a starch and glucose mixture in water also shows that glucose diffuses out but starch does not.
+- **Visking tubing.** This is a model membrane, and its permeability depends on the tubing's specification. For a mass-change osmosis test, choose a solute that the membrane is documented to retain, tie off a length containing that solution, record its mass, stand it in water, then blot consistently and reweigh. If testing sucrose, first verify that the tubing retains it over the trial. A starch-and-glucose mixture can demonstrate glucose diffusing out while starch is retained, subject to the chosen membrane cutoff.
 
 ### Living system: plant tissue in sucrose solutions
 
@@ -173,17 +230,17 @@ You use percentage change because the cylinders do not start with exactly the sa
 
 Check one row: for 0.4 mol/dm³, (2.16 − 2.20) ÷ 2.20 × 100 = −1.8%.
 
-**Interpreting:** where mass increased, the solution was more dilute than the cell contents, so water entered the cells by osmosis. Where mass decreased, the solution was more concentrated, so water left. On a graph of percentage change against concentration, the line crosses zero between 0.2 and 0.4 mol/dm³. Reading the crossing point from a straight line between those two points gives about 0.36 mol/dm³. At that concentration there would be no net movement of water, so it is an estimate of the concentration of the potato cell contents.
+**Interpreting:** where mass increased, net water entry is supported; where mass decreased, net water exit is supported. On a graph of percentage change against external concentration, the line crosses zero between 0.2 and 0.4 mol/dm³. Straight-line interpolation gives about 0.36 mol/dm³ for the external solution under these conditions. This is an apparent isotonic concentration or water-potential balance estimate—not a direct measurement of the mixed intracellular solute concentration. Cell-wall pressure and other solutes also affect the balance.
 
 **Improving it:** repeat each concentration and calculate a mean; use more concentrations between 0.2 and 0.4 mol/dm³ to locate the crossing point more precisely; blot every cylinder in the same way.
 
 ## Common errors
 
 - Writing "particles move from high to low" without the word **concentration**, or without **net**.
-- Describing osmosis as the movement of solute, or of "water and sugar". Only water crosses.
+- Describing osmosis as solute movement or assuming the relevant solute always crosses (or never crosses) the membrane. Check membrane selectivity; osmosis describes net water movement.
 - Saying water moves from a concentrated to a dilute solution. It is the other way round.
 - Saying plant cells burst in water. The cell wall stops them; they become turgid.
-- Saying active transport "needs energy" without saying it comes from **respiration**.
+- Saying active transport uses ATP from respiration without qualifying that anaerobic ATP can contribute when oxygen is limited.
 - Giving surface area to volume ratio as a single number without ": 1", or dividing volume by surface area.
 - Explaining a temperature effect with "particles move faster" but forgetting **kinetic energy**.
 - Comparing raw mass change when the starting masses differ.

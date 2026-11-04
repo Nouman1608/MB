@@ -116,6 +116,17 @@ Purchases = 908,000 - (800,000 - 70,000) = 178,000
 **Dividends check.** 121,700 + 97,800 − 45,000 = 174,500, which agrees with closing retained earnings.
 
 ### Step 2: the statement
+<!-- marlbridge-diagram:ac-ial-ias7-cash-flow-bridge -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/accounting/ac-ial-ias7-cash-flow-bridge.svg" aria-label="Open full-size diagram: ac-ial-ias7-cash-flow-bridge">
+    <picture>
+      <source media="(max-width: 640px)" srcset="/images/learning/accounting/ac-ial-ias7-cash-flow-bridge-mobile.svg" />
+      <img src="/images/learning/accounting/ac-ial-ias7-cash-flow-bridge.svg" width="1600" height="1050" alt="Fenwold Ceramics’ operating, investing and financing sections reconcile a $14,600 opening overdraft to $4,300 closing cash." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" />
+    </picture>
+  </a>
+  <figcaption>A cash-flow bridge separates operating, investing and financing activities and reconciles the opening overdraft with closing cash. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:ac-ial-ias7-cash-flow-bridge -->
 
 ```
 Fenwold Ceramics plc

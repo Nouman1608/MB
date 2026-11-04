@@ -56,6 +56,14 @@ Strengths of a model: it is cheap, quick and can predict. Limits: it depends on 
 
 ## 2.1 Histograms
 
+<!-- marlbridge-diagram:maths-b25-cycling-histogram-frequency-density-interpolation -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/mathematics/maths-b25-cycling-histogram-frequency-density-interpolation.svg" aria-label="Open full-size diagram: maths-b25-cycling-histogram-frequency-density-interpolation"><img src="/images/learning/mathematics/maths-b25-cycling-histogram-frequency-density-interpolation.svg" width="1600" height="1050" alt="Cycling times for 80 pupils use unequal classes 0–10, 10–15, 15–20, 20–30 and 30–50 minutes with frequencies 9, 14, 20, 24 and 13. Frequency densities are 0.9, 2.8, 4.0, 2.4 and 0.65. The part of the 15–20 bar from 15 to 18 has area 3×4.0=12, so about 23+12=35 pupils took under 18 minutes." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Cycling times for 80 pupils use unequal classes 0–10, 10–15, 15–20, 20–30 and 30–50 minutes with frequencies 9, 14, 20, 24 and 13. Frequency densities are 0.9, 2.8, 4.0, 2.4 and 0.65. The part of the 15–20 bar from 15 to 18 has area 3×4.0=12, so about 23+12=35 pupils took under 18 minutes. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:maths-b25-cycling-histogram-frequency-density-interpolation -->
+
+
 For grouped continuous data, the **area** of each bar is proportional to frequency.
 
 ```

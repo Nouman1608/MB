@@ -11,7 +11,7 @@ prerequisites:
   - "Homologous chromosomes, sister chromatids, haploid and diploid"
 prerequisiteResources: ["mb-ap-bio-5.1-study-guide"]
 learningObjectives:
-  - "Explain how correct separation of homologues and sister chromatids gives each gamete one set of chromosomes with a mix of maternal and paternal chromosomes"
+  - "Explain how correct separation gives one member of each homologous pair, with different possible parental-origin combinations across meiotic products"
   - "Explain how crossing over between non-sister chromatids in prophase I produces recombinant chromatids"
   - "Calculate the number of chromosome combinations produced by independent assortment and by random fertilization"
   - "Predict the chromosome numbers of gametes and zygotes after nondisjunction in meiosis I or meiosis II"
@@ -26,16 +26,16 @@ next: "mb-ap-bio-5.2-practice"
 framework: { schoolYear: "2026-27", examSeries: "May 2027" }
 sources: ["ced-biology", "page-biology"]
 keyPoints:
-  - "When meiosis works correctly, every gamete gets exactly one chromosome from each homologous pair: a haploid set that mixes maternal and paternal chromosomes."
+  - "Correct segregation gives one member of each homologous pair. Across many meioses, the parental-origin combinations vary; a particular product need not contain whole chromosomes from both origins."
   - "Crossing over: in prophase I, non-sister chromatids of a homologous pair swap matching segments, making chromatids with new combinations of alleles."
   - "Independent assortment: each homologous pair lines up at metaphase I independently of the others, giving 2ⁿ chromosome combinations (over 8 million for humans, n = 23)."
   - "Random fertilization multiplies the variation again: any one of a huge number of eggs can meet any one of a huge number of sperm."
-  - "Nondisjunction is a failure of separation. Gametes end up with n + 1 or n − 1 chromosomes, and the zygote is no longer correctly diploid."
+  - "One-pair nondisjunction produces affected n + 1 or n − 1 products; normal n products also remain after an error in only one meiosis II daughter. Fusion of an affected product with a normal gamete gives 2n + 1 or 2n − 1."
 faqs:
   - question: "Does crossing over create new alleles?"
     answer: "No. It creates new combinations of alleles that already exist on the two homologues. New alleles come from mutation."
   - question: "Why does nondisjunction in meiosis I affect all four gametes, but in meiosis II only two?"
-    answer: "In meiosis I, a whole homologous pair goes to one cell, so both cells from the first division are wrong, and so are all four products. In meiosis II, the error happens in only one of the two cells, so the other cell still makes two normal gametes."
+    answer: "For the model with one error in one chromosome pair and faithful separation otherwise: a meiosis I error affects all four products; a meiosis II error in only one daughter leaves two normal-count products. These predictions do not describe simultaneous errors in both daughters or other segregation failures."
   - question: "Do I need to know the life cycles of ferns, mosses or other organisms?"
     answer: "No. The course states that the details of sexual life cycles in different plants and animals are beyond the scope of the exam. Focus on what happens to chromosomes in meiosis and fertilization."
 version: "1.0"
@@ -66,7 +66,7 @@ Meiosis is built to deliver exactly one chromosome from each homologous pair to 
 - In **meiosis I**, the homologues of each pair separate. Each cell gets one member of every pair.
 - In **meiosis II**, the sister chromatids of each chromosome separate. Each final cell gets one chromatid of every chromosome.
 
-The result is a **haploid (1n) set**: one copy of every chromosome, no more and no less. But which member of each pair a gamete receives (the one you inherited from your mother or the one from your father) varies. So every gamete is a **mixture of maternal and paternal chromosomes**. The rest of this guide explains how that mixing happens, and what goes wrong when separation fails.
+The result is a **haploid (1n) set**: one copy of every chromosome, no more and no less. But which member of each pair a gamete receives (the one you inherited from your mother or the one from your father) varies. Across many meioses, gametes show different combinations of maternal and paternal homologues. A particular gamete is **not required** to contain whole chromosomes from both origins: without crossing over, an all-maternal or all-paternal combination is also possible. Recombination can mix both origins within a chromosome. The rest of this guide explains how that mixing happens, and what goes wrong when separation fails.
 
 ## Crossing over: new combinations on one chromosome
 
@@ -209,7 +209,7 @@ Crossing over adds even more, because it creates combinations of alleles *within
 
 ## When separation fails: nondisjunction
 
-Sometimes homologues or sister chromatids fail to separate. This is **nondisjunction**. The gametes that result are **not haploid**: some have an extra chromosome (n + 1) and some are missing one (n − 1).
+Sometimes homologues or sister chromatids fail to separate. This is **nondisjunction**. In the single-error models below, affected products are aneuploid: they have n + 1 or n − 1 chromosomes rather than a complete normal haploid set. One meiosis II error in only one daughter also leaves two products with the normal n count. The four-product model counts chromosomes; in animal oogenesis not every product becomes a functional gamete.
 
 | Where it happens | What fails to separate | Gametes from one cell |
 |---|---|---|

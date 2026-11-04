@@ -126,6 +126,14 @@ convenience, or by reducing the cost of the materials it buys in.
 
 ## Classifying business activity
 
+<!-- marlbridge-diagram:business-igcse-sectors-interdependence-added-value -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/business/business-igcse-sectors-interdependence-added-value.svg" aria-label="Open full-size diagram: business-igcse-sectors-interdependence-added-value"><img src="/images/learning/business/business-igcse-sectors-interdependence-added-value.svg" width="1600" height="1050" alt="Primary producers, secondary processors and tertiary sellers form an interdependent chain; added value is distinct from profit." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Primary producers, secondary processors and tertiary sellers form an interdependent chain; added value is distinct from profit. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:business-igcse-sectors-interdependence-added-value -->
+
+
 Business activity is classified into three **economic sectors**: the
 **primary** sector extracts natural resources (farming, mining, fishing);
 the **secondary** sector manufactures and processes (car assembly,

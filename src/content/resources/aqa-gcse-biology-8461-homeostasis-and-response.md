@@ -74,6 +74,8 @@ Reflexes protect you from harm before you have time to think.
 
 You investigate the effect of a factor (such as caffeine or practice) on human reaction time, often with a ruler drop or computer test. Control the hand used and the starting position; repeat and calculate a mean.
 
+If using a ruler, the measurement is the **distance fallen**, not a time in seconds; use the supplied conversion table or the method specified by your teacher. In free fall from rest, the relationship is `t = √(2d/g)` when `d` is in metres and `g ≈ 9.8 m/s²`; for example, a 0.20 m fall is about 0.20 s. A before-and-after result for one person cannot show that caffeine caused a change: practice, tiredness, expectation and other ingredients may affect performance. A stronger comparison uses a control condition, consistent procedures, repeated participants and an order that reduces practice effects. The example below is illustrative data, not evidence that cola improves reaction time.
+
 **Worked example.** A student's reaction times (s) were measured before and after drinking cola.
 
 | Test | 1 | 2 | 3 | 4 | 5 |
@@ -91,6 +93,11 @@ Reaction time fell by **15.6%**.
 
 ### The brain (4.5.2.2)
 
+
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <!-- marlbridge-diagram:complete-bio-brain-midline --><a href="/images/learning/biology/complete-bio-brain-midline.svg" aria-label="Open full-size diagram: Brain regions: include the hypothalamus and pituitary" title="Brain regions: include the hypothalamus and pituitary"><img src="/images/learning/biology/complete-bio-brain-midline.svg" width="1528" height="871" alt="A simplified sagittal brain labels cerebrum, cerebellum, medulla, hypothalamus and pituitary. The hypothalamus is above the pituitary; the cerebellum is posterior to the brainstem." title="Brain regions: include the hypothalamus and pituitary" loading="lazy" decoding="async" style="display:block;width:100%;height:auto;" /></a>
+  <figcaption>Approximate sagittal brain locations: cerebrum, cerebellum, medulla, hypothalamus and pituitary. Select the diagram to enlarge it.</figcaption>
+</figure>
 Identify three regions on a diagram:
 
 - **Cerebral cortex** -- the large outer layer: consciousness, intelligence, memory and language.
@@ -120,6 +127,13 @@ In dim light the iris widens the pupil so more light reaches the retina.
 
 **Myopia** (short sight): light from distant objects focuses in front of the retina. It is corrected with a **concave** (diverging) spectacle lens. **Hyperopia** (long sight): light from near objects focuses behind the retina, corrected with a **convex** (converging) lens. Newer options: contact lenses, laser surgery to reshape the cornea, and a replacement lens.
 
+<!-- marlbridge-diagram:bio-gap-aqa-gcse-eye-accommodation-and-correction-rays -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/biology/bio-gap-aqa-gcse-eye-accommodation-and-correction-rays.svg" aria-label="Open full-size diagram: bio-gap-aqa-gcse-eye-accommodation-and-correction-rays"><img src="/images/learning/biology/bio-gap-aqa-gcse-eye-accommodation-and-correction-rays.svg" width="1528" height="940" alt="Cross-section labels cornea, sclera, ciliary muscle, suspensory ligaments, lens and retina. Ray diagrams compare myopia before and after a concave lens and hyperopia before and after a convex lens." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Accommodation and corrective lenses: the ray sketches are schematic and not to scale. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:bio-gap-aqa-gcse-eye-accommodation-and-correction-rays -->
+
 ### Control of body temperature (4.5.2.4)
 
 The **thermoregulatory centre** in the brain contains receptors sensitive to blood temperature. Skin temperature receptors also send it impulses.
@@ -131,18 +145,25 @@ The **thermoregulatory centre** in the brain contains receptors sensitive to blo
 
 ## Hormonal coordination (4.5.3)
 
-Endocrine glands secrete **hormones** directly into the blood, which carries them to a **target organ**. Compared with nerves, effects are slower but last longer. The **pituitary gland** in the brain is a "master gland": its hormones act on other glands, which release other hormones. Learn the positions of the pituitary, thyroid, pancreas, adrenal glands, ovaries and testes.
+Endocrine glands secrete **hormones** directly into the blood, which carries them to a **target organ**. Compared with nerves, effects are slower but last longer. The **pituitary gland** in the brain is a "master gland": its hormones act on other glands, which release other hormones. Learn the approximate positions of the pituitary, thyroid, pancreas, adrenal glands, ovaries and testes.
+
+<!-- marlbridge-diagram:bio-b20-endocrine-gland-locations -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/biology/bio-b20-endocrine-gland-locations.svg" aria-label="Open full-size diagram: endocrine gland locations"><img src="/images/learning/biology/bio-b20-endocrine-gland-locations.svg" width="1600" height="1000" alt="Approximate positions of pituitary, thyroid, adrenal glands, pancreas, ovaries and testes; ovaries and testes are shown in separate insets" loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Approximate gland positions; organs are schematic and not to scale. Select to enlarge.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:bio-b20-endocrine-gland-locations -->
 
 ### Blood glucose (4.5.3.2)
 
 The **pancreas** monitors and controls blood glucose concentration. If it is too high, the pancreas releases **insulin**, which causes glucose to move from the blood into cells. In liver and muscle cells excess glucose is converted to **glycogen** for storage.
 
-**Higher tier only.** If blood glucose is too low, the pancreas releases **glucagon**, which causes glycogen to be converted into glucose and released into the blood. Insulin and glucagon act in a **negative feedback** cycle: a change in one direction triggers a response that reverses it.
+**Higher tier only.** If blood glucose is too low, the pancreas releases **glucagon**, which causes glycogen in the **liver** to be converted into glucose and released into the blood. Muscle glycogen is used in muscle and does not directly raise blood glucose. Insulin and glucagon act in a **negative feedback** cycle: a change in one direction triggers a response that reverses it.
 
 | | Type 1 diabetes | Type 2 diabetes |
 |---|---|---|
-| Cause | Pancreas makes too little insulin | Cells no longer respond to insulin |
-| Treatment | Insulin injections | Carbohydrate-controlled diet and exercise |
+| Cause | Pancreas makes too little insulin | Body cells become resistant to insulin; insulin release may also become inadequate over time |
+| Treatment | Insulin injections | Management is individual; lifestyle changes can help, and medicines (sometimes including insulin) may be needed |
 | Risk factor | -- | Obesity |
 
 **Worked example.** After a glucose drink, a person without diabetes has a blood glucose peak of 8.0 mmol/dm³ at 30 minutes, falling to 5.3 mmol/dm³ at 120 minutes. Calculate the mean rate of fall.
@@ -155,6 +176,14 @@ Rate = 2.7 / 90 = 0.03 mmol/dm³ per minute
 
 ### Water and nitrogen balance (4.5.3.3)
 
+<!-- marlbridge-diagram:bio-b27-aqa-dialysis-countercurrent -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/biology/bio-b27-aqa-dialysis-countercurrent.svg" aria-label="Open full-size diagram: bio-b27-aqa-dialysis-countercurrent"><img src="/images/learning/biology/bio-b27-aqa-dialysis-countercurrent.svg" width="1600" height="1050" alt="Dialysis: exchange across a partially permeable membrane" loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Dialysis: exchange across a partially permeable membrane Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:bio-b27-aqa-dialysis-countercurrent -->
+
+
 Cells that lose or gain too much water by osmosis do not function efficiently. Water is lost uncontrolled from the lungs, and water, ions and urea in sweat. **Excess water, ions and urea are removed by the kidneys in urine.**
 
 The kidneys make urine by **filtration** of the blood and **selective reabsorption** of useful substances such as glucose, some ions and water.
@@ -166,13 +195,25 @@ Water reabsorbed = (180 − 1.5) / 180 × 100 = 99.2%
 Urea excreted    = 30 / 54 × 100 = 55.6%
 ```
 
+The example says that 30 g of the stated 54 g filtered mass is excreted in the urine. It does not show where the remaining urea went along the nephron or prove that urea was never reabsorbed; urea can be reabsorbed and recycled in the kidney. Do not infer a nephron process from a concentration ratio alone.
+
 **Higher tier only.** Digesting protein gives excess amino acids. In the liver they are **deaminated** to form **ammonia**, which is toxic, so it is immediately converted to **urea** for safe excretion. The water level is controlled by **ADH**, released by the pituitary gland when the blood is too concentrated. ADH makes the kidney tubules more permeable, so more water is reabsorbed into the blood. This is negative feedback.
+
+<figure class="my-8" id="objective-bio-open-159-collecting-duct-capillary" data-objective-id="BIO-OPEN-159"><img src="/images/learning/biology/bio-b38-collecting-duct-capillary-osmosis.svg" alt="Schematic nephron-medulla section: filtrate descends in the collecting duct; the medulla becomes more concentrated with depth; with more ADH, aquaporins increase duct permeability and water moves by osmosis through the interstitial fluid into adjacent blood capillaries. The loop of Henle helps establish the gradient. Not to scale." width="1600" height="1050" loading="lazy" decoding="async" /><figcaption>Shared concept diagram: ADH-controlled water reabsorption at the collecting duct, shown with medullary gradient and adjacent capillary. This extends the guide’s brief ADH summary; schematic and not to scale.</figcaption></figure>
 
 **Kidney failure** is treated by **dialysis** or a **transplant**. In dialysis, blood flows past a partially permeable membrane. The dialysis fluid has the same glucose and ion concentrations as normal blood, so these are not lost, but no urea, so urea diffuses out.
 
 ### Hormones in reproduction (4.5.3.4)
 
-At puberty, reproductive hormones cause secondary sex characteristics. **Oestrogen** is the main female hormone, made in the ovary. An egg is released about every 28 days: **ovulation**. **Testosterone**, made by the testes, stimulates sperm production.
+<!-- marlbridge-diagram:bio-b26-aqa-reproductive-hormone-cycle -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/biology/bio-b26-aqa-reproductive-hormone-cycle.svg" aria-label="Open full-size diagram: bio-b26-aqa-reproductive-hormone-cycle"><img src="/images/learning/biology/bio-b26-aqa-reproductive-hormone-cycle.svg" width="1600" height="1050" alt="Reproductive hormones through an illustrative 28-day cycle" loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Reproductive hormones through an illustrative 28-day cycle Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:bio-b26-aqa-reproductive-hormone-cycle -->
+
+
+At puberty, reproductive hormones cause secondary sex characteristics. **Oestrogen** is the main female hormone, made in the ovary. In an illustrative 28-day cycle, an egg is released around day 14: **ovulation**. Cycle length and ovulation timing vary between people and between cycles. **Testosterone**, made by the testes, stimulates sperm production.
 
 - **FSH** (pituitary) causes an egg to mature in the ovary.
 - **LH** (pituitary) stimulates release of the egg.
@@ -187,14 +228,23 @@ At puberty, reproductive hormones cause secondary sex characteristics. **Oestrog
 | Oral contraceptive | Hormones inhibit FSH so no eggs mature |
 | Injection, implant or skin patch | Slow-release progesterone inhibits maturation and release of eggs for months or years |
 | Condom, diaphragm | Barrier: sperm cannot reach the egg |
-| Intrauterine device | Prevents implantation of an embryo, or releases a hormone |
+| Copper IUD | Releases copper, which affects sperm and mainly prevents fertilisation |
+| Hormonal IUS | Releases progestogen; thickens cervical mucus and may thin the uterus lining |
 | Spermicide | Kills or disables sperm |
-| Abstinence | No intercourse when an egg may be in the oviduct |
+| Abstinence | No sexual intercourse |
+| Fertility-awareness method | Tracks fertile days; avoiding intercourse or using a barrier during that window is not the same as complete abstinence |
 | Sterilisation | Surgical, male or female |
 
 ### Infertility treatment (4.5.3.6) -- Higher tier only
 
-A fertility drug of **FSH and LH** can help a woman become pregnant normally. In **IVF**, the mother is given FSH and LH so several eggs mature; eggs are collected and fertilised by the father's sperm in the laboratory; the fertilised eggs develop into embryos; one or two tiny balls of cells are inserted into the uterus. IVF is emotionally and physically stressful, success rates are not high, and multiple births risk the health of babies and mother. If a clinic records 104 births from 400 treatment cycles, the success rate is 104 / 400 × 100 = **26%**.
+A fertility drug of **FSH and LH** may help a woman ovulate and become pregnant without IVF. In the AQA GCSE IVF model, FSH and LH stimulate several eggs to mature; eggs are collected and fertilised with sperm in a laboratory; the resulting embryos develop for a short time before one or sometimes two are transferred to the uterus. In actual treatment, embryo-transfer decisions are individualized; age, embryo quality, previous treatment and local clinical guidance matter. IVF can be physically and emotionally demanding, and multiple pregnancy carries added risks. If a stated group has 104 live births from 400 treatment cycles, its live-birth-per-cycle rate is 104 / 400 × 100 = **26%**. This describes only that group, outcome and time period; it is not a general IVF success rate.
+
+<!-- marlbridge-diagram:bio-b26-aqa-ivf-process -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/biology/bio-b26-aqa-ivf-process.svg" aria-label="Open full-size diagram: bio-b26-aqa-ivf-process"><img src="/images/learning/biology/bio-b26-aqa-ivf-process.svg" width="1528" height="940" alt="IVF sequence: hormone stimulation, egg collection, laboratory fertilisation, embryo development and transfer to the uterus; transfer number and outcomes vary." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>IVF: a simplified treatment sequence. Embryo-transfer decisions and outcomes vary. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:bio-b26-aqa-ivf-process -->
 
 ### Adrenaline and thyroxine (4.5.3.7) -- Higher tier only
 
@@ -202,9 +252,25 @@ A fertility drug of **FSH and LH** can help a woman become pregnant normally. In
 
 ## Plant hormones (4.5.4)
 
+<!-- marlbridge-diagram:bio-b26-aqa-gravitropism-root-shoot -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/biology/bio-b26-aqa-gravitropism-root-shoot.svg" aria-label="Open full-size diagram: bio-b26-aqa-gravitropism-root-shoot"><img src="/images/learning/biology/bio-b26-aqa-gravitropism-root-shoot.svg" width="1600" height="1050" alt="Gravitropism: shoots grow up and roots grow down" loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Gravitropism: shoots grow up and roots grow down Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:bio-b26-aqa-gravitropism-root-shoot -->
+
+
 Plant hormones control growth and responses to light (**phototropism**) and gravity (**gravitropism** or geotropism). **Unequal distribution of auxin causes unequal growth rates.** In a shoot lit from one side, auxin collects on the shaded side and the cells there elongate more, so the shoot bends towards the light. In a horizontal root, auxin collects on the lower side and slows growth, so the root bends down.
 
 ### Required practical 8
+
+<!-- marlbridge-diagram:bio-b27-aqa-seedling-practical-setups -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/biology/bio-b27-aqa-seedling-practical-setups.svg" aria-label="Open full-size diagram: bio-b27-aqa-seedling-practical-setups"><img src="/images/learning/biology/bio-b27-aqa-seedling-practical-setups.svg" width="1600" height="1050" alt="Seedling practical: control light and gravity tests" loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Seedling practical: control light and gravity tests Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:bio-b27-aqa-seedling-practical-setups -->
+
 
 Investigate the effect of light or gravity on newly germinated seedlings; record lengths and careful, labelled biological drawings. Keep temperature, water and seed type the same, and calculate mean lengths.
 

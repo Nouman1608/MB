@@ -92,7 +92,7 @@ Fitness is not a fixed property of a phenotype. A variant that raises fitness in
 
 - People with **two** Hb S alleles have **sickle cell disease**. Their red blood cells can become rigid and sickle-shaped when oxygen is low, which blocks small blood vessels and damages organs.
 - People with **one** Hb S allele and one Hb A allele have **sickle-cell trait**. They usually have few or no symptoms, and they are more resistant to severe malaria, a disease caused by a parasite that lives inside red blood cells.
-- Where malaria is common, the carrier phenotype therefore has the highest fitness. Where malaria is absent, it gives no advantage.
+- In the fictional fitness model below, the carrier has the highest assigned fitness under the specified malaria pressure, and no malaria-related advantage in the no-malaria case. Real selection on Hb S varies with malaria species and intensity, other health conditions, access to care, and reproductive outcomes; the allele is not universally favoured wherever malaria occurs.
 
 This explains why the Hb S allele is common in some regions where malaria has long been widespread, even though two copies cause serious disease. Worked example 1 puts numbers on the idea.
 
@@ -183,7 +183,7 @@ The link to fitness always runs through the same chain: **molecule → cell func
 <figcaption>Figure 1. Relative fitness calculated from the fictional survival values in Worked example 1. The trait phenotype is best only where malaria is present.</figcaption>
 </figure>
 
-**(b) Explanation.** In the malaria region, carriers survive malaria better than unaffected people, so the trait phenotype has the highest fitness (1.00 against 0.84). Each surviving carrier can pass Hb S to children, which keeps the allele common even though people with two copies have low fitness. Without malaria, carriers gain no advantage (both 1.00), and only the cost of the disease phenotype remains (0.20). In that region, selection steadily removes Hb S alleles, slowly because most of them are carried by people with the trait, who are not selected against. The same allele is favoured in one environment and disfavoured in the other.
+**(b) Explanation.** In this fictional model, carriers have the highest assigned fitness under the stated malaria pressure (1.00 against 0.84). In real populations, Hb S fitness depends on local malaria exposure and species, medical care, and genotype-specific survival and reproduction. Without malaria in this model, carriers gain no advantage (both 1.00), while the disease phenotype has low fitness (0.20). The model illustrates how the same allele can be favoured under one set of conditions and selected against under another; it does not predict a universal direction or rate of change.
 
 ## Worked example 2: insecticide resistance
 

@@ -116,6 +116,13 @@ Check: 4(2, 1) + 1(−1, 3) = (8 − 1, 4 + 3) = (7, 7). **m = 4, n = 1.**
 Draw a vector as an arrow. The arrow head shows the direction. The arrow runs across by x and up by y.
 
 ### Adding: tip to tail
+<!-- marlbridge-diagram:maths-b21-vector-tip-to-tail -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/mathematics/maths-b21-vector-tip-to-tail.svg" aria-label="Open full-size diagram: maths-b21-vector-tip-to-tail"><img src="/images/learning/mathematics/maths-b21-vector-tip-to-tail.svg" width="1528" height="940" alt="Starting at (0,0), p=(7,1) ends at (7,1); q=(-2,5) then ends at (5,6). The resultant p+q=(5,6) runs from the initial point to the final point." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Draw the second vector from the tip of the first. The resultant connects the starting point to the final tip. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:maths-b21-vector-tip-to-tail -->
+
 
 To draw **a** + **b**, draw **a**, then draw **b** starting where **a** ends. The sum goes from the start of **a** to the end of **b**.
 

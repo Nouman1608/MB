@@ -161,6 +161,14 @@ The stationary points are (2π/3, √3/3) and (4π/3, −√3/3). The identity c
 
 ## 4. Parametric differentiation
 
+<!-- marlbridge-diagram:maths-p2-parametric-differentiation-normal -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/mathematics/maths-p2-parametric-differentiation-normal.svg" aria-label="Open full-size diagram: maths-p2-parametric-differentiation-normal"><img src="/images/learning/mathematics/maths-p2-parametric-differentiation-normal.svg" width="1600" height="1050" alt="Parametric curve example x=4sin t, y=3cos2t at t=π/6 gives point (2,3/2), tangent gradient −3/2 and normal equation 4x−6y+1=0." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Parametric differentiation: gradient and normal at a parameter value Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:maths-p2-parametric-differentiation-normal -->
+
+
 A curve is defined parametrically when x and y are both given in terms of a third variable, the parameter (usually t or θ). The chain rule gives:
 
 ```

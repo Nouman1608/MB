@@ -138,6 +138,14 @@ Relative positions: (4, 4), (8, 4), (8, 8). Halve: (2, 2), (4, 2), (4, 4). Add (
 
 ### Worked example 6: negative scale factor
 
+<!-- marlbridge-diagram:maths-b16-transformations-four-mappings -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/mathematics/maths-b16-transformations-four-mappings.svg" aria-label="Open full-size diagram: maths-b16-transformations-four-mappings"><img src="/images/learning/mathematics/maths-b16-transformations-four-mappings.svg" width="1600" height="1050" alt="A single triangle is transformed by reflection in y=0, 90-degree anticlockwise rotation, enlargement by scale factor minus 2, and translation by (3,1), with object and image shown on coordinate grids." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>A single triangle is transformed by reflection in y=0, 90-degree anticlockwise rotation, enlargement by scale factor minus 2, and translation by (3,1), with object and image shown on coordinate grids. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:maths-b16-transformations-four-mappings -->
+
+
 Enlarge the triangle with vertices (2, 1), (4, 1) and (4, 2) by scale factor −2, centre (1, 0).
 Relative positions: (1, 1), (3, 1), (3, 2). Multiply by −2: (−2, −2), (−6, −2), (−6, −4). Add (1, 0): **(−1, −2), (−5, −2), (−5, −4)**.
 

@@ -76,7 +76,7 @@ The organism's own order goes up, but the surroundings become much more disorder
 
 This leads to three conditions for staying alive:
 
-1. **Energy input must exceed energy loss.** Some energy is always lost as heat. To keep order and power cell processes, an organism must take in more energy than it loses.
+1. **Energy input must sustain ongoing energy expenditure.** Over time, maintenance with stable energy stores can have input equal to total output. A surplus supports growth or storage; a sustained deficit uses reserves. Energy continues to flow through a maintained organism even when its net energy balance is zero.
 2. **Energy-releasing processes are coupled to energy-requiring ones.** The energy released by breaking down food is passed, through ATP, to the jobs that need it.
 3. **A large loss of order or of energy flow is fatal.** If energy input falls well below losses for long enough, the organism uses up its stores, cannot maintain order, and dies.
 
@@ -87,7 +87,7 @@ Reactions in cells fall into two groups:
 - **Energy-releasing (exergonic)** reactions give out energy. Breaking down glucose and hydrolysing ATP are examples.
 - **Energy-requiring (endergonic)** reactions need energy put in. Joining amino acids into a protein and pumping ions against a gradient are examples.
 
-An energy-requiring reaction cannot run by itself. A cell makes it run by **coupling** it to an energy-releasing reaction, so that the energy released by one is used to drive the other. On these pages a **+** sign means energy is required and a **−** sign means energy is released, in kJ per mole of reaction.
+A reaction with a positive Gibbs free-energy change under the stated conditions cannot proceed spontaneously in the forward direction. A cell can drive it by **coupling** it to an appropriate energy-releasing process. Here **+** and **−** denote positive and negative Gibbs free-energy changes (ΔG), in kJ per mole of reaction. A favourable combined ΔG also requires an actual coupling mechanism; separately occurring reactions do not automatically drive one another.
 
 The usual go-between is **ATP** (adenosine triphosphate). Hydrolysing its last phosphate group releases energy:
 
@@ -141,7 +141,7 @@ Instead, cells break down glucose through a **metabolic pathway**: a sequence of
 Two features matter:
 
 - **The product of one step is the reactant for the next.** B is made from A and then used to make C, and so on. The steps are linked like a production line.
-- **Energy is released in small, controlled amounts.** Each step releases only a little energy. That amount is small enough to be captured, for example in ATP or in an electron carrier, rather than lost as heat.
+- **Energy transfer is organised across controlled reactions.** An overall energy-releasing pathway can capture part of its free-energy decrease in ATP or reduced carriers. Individual reactions need not all release energy: some require ATP investment or coupling, as the early steps of glycolysis illustrate.
 
 The total energy released from A to E is the same as in the one-step reaction (the first law). What changes is **control**. Because each step has its own enzyme, the cell can speed up or slow down a pathway by regulating one enzyme. If one enzyme is blocked, its substrate builds up and everything after it runs short.
 
@@ -184,7 +184,7 @@ The total energy released from A to E is the same as in the one-step reaction (t
 <text x="330" y="206" font-size="12" fill="#1d2b44">can be partly</text>
 <text x="330" y="222" font-size="12" fill="#1d2b44">captured in ATP</text>
 </svg>
-<figcaption>Figure 2. Same start, same end, same total energy (first law). In the cell the energy comes out in small steps, each catalysed by its own enzyme, so part of it can be captured instead of all being lost as heat. Simplified: the real pathways have more steps.</figcaption>
+<figcaption>Figure 2. An idealised comparison of identical starting and ending states. A controlled multistep pathway can capture part of the overall available energy. The staircase represents net-release stages; it is not a literal free-energy profile of every biochemical reaction, which may include energy-investment steps.</figcaption>
 </figure>
 
 ## Shared pathways and common ancestry
@@ -209,7 +209,7 @@ Why would such different organisms share the same detailed machinery? The simple
 1. The reaction requires energy (+21 kJ mol⁻¹): the product holds more energy than the reactants. It cannot happen without an energy input.
 2. Coupled reaction: P + Q + ATP → PQ + ADP + Pᵢ.
 3. Overall change = (+21) + (−30) = **−9 kJ mol⁻¹**. The coupled process releases energy overall, so it can proceed.
-4. About 21 ÷ 30 × 100 = **70%** of the energy from ATP ends up stored in PQ. The other 9 kJ mol⁻¹ is released as heat.
+4. The required positive free-energy change is 21 ÷ 30 × 100 = **70%** of the magnitude of the stipulated ATP-hydrolysis free-energy change. The combined ΔG is −9 kJ mol⁻¹; this free-energy budget alone does not determine the heat released, because ΔG = ΔH − TΔS.
 
 **(b)**
 
@@ -217,7 +217,7 @@ Why would such different organisms share the same detailed machinery? The simple
 2. Two ATP: (+50) + 2 × (−30) = +50 − 60 = **−10 kJ mol⁻¹**. Energy is released overall, so **two ATP** can drive it.
 3. You cannot hydrolyse a fraction of an ATP molecule, so "1.67 ATP" is not an answer.
 
-**Interpretation.** In both cases the totals balance (first law), and some energy always becomes heat (second law). Coupling works because the energy-releasing reaction releases *more* energy than the energy-requiring one needs.
+**Interpretation.** Under the stipulated conditions the summed free-energy change is negative, so a suitably coupled forward process is thermodynamically favourable. Gibbs free-energy accounting is distinct from a complete heat balance. Real cellular processes also dissipate energy and increase total entropy.
 
 ## Worked example 2: an energy budget
 

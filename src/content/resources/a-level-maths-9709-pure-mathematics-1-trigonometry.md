@@ -63,6 +63,14 @@ The **related acute angle** is the angle between OP and the x-axis. Every ratio 
 
 ## Graphs of sin, cos and tan
 
+<!-- marlbridge-diagram:maths-p1-trig-transformed-cosine-graph -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/mathematics/maths-p1-trig-transformed-cosine-graph.svg" aria-label="Open full-size diagram: maths-p1-trig-transformed-cosine-graph"><img src="/images/learning/mathematics/maths-p1-trig-transformed-cosine-graph.svg" width="1600" height="1050" alt="Schematic graph of y=2+3cos(2x) on [0,π], with amplitude, midline, period, extrema and two approximate roots." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Trigonometry: sketch y = 2 + 3 cos 2x on 0 ≤ x ≤ π Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:maths-p1-trig-transformed-cosine-graph -->
+
+
 | | y = sin x | y = cos x | y = tan x |
 |---|---|---|---|
 | Period | 360° (2π) | 360° (2π) | 180° (π) |
@@ -179,6 +187,14 @@ Method:
 5. Undo the multiple or shift, and check each answer lies in the original interval.
 
 **Worked example 7 (multiple angle).** Solve 2 cos 3x = −1 for 0° ≤ x ≤ 180°.
+
+<!-- marlbridge-diagram:maths-b15-trigonometry-equation-interval -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/mathematics/maths-b15-trigonometry-equation-interval.svg" aria-label="Open full-size diagram: maths-b15-trigonometry-equation-interval"><img src="/images/learning/mathematics/maths-b15-trigonometry-equation-interval.svg" width="1600" height="1050" alt="Graph of cos 3x and y=−1/2 on 0° to 180° shows the three solutions x=40°, 80° and 160°." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Graph of cos 3x and y=−1/2 on 0° to 180° shows the three solutions x=40°, 80° and 160°. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:maths-b15-trigonometry-equation-interval -->
+
 
 ```
 cos 3x = −1/2, and 0° ≤ 3x ≤ 540°.

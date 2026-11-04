@@ -54,9 +54,10 @@ diazonium salt; recalling phenol's reactions with bases, with sodium, and
 with diazonium salts in NaOH(aq) to give azo compounds; recalling nitration
 and bromination of the aromatic ring; explaining phenol's acidity; explaining
 the relative acidities of water, phenol and ethanol; explaining why phenol's
-nitration/bromination conditions differ from benzene's; recalling that the
-hydroxyl group directs to the 2-, 4- and 6-positions; applying this to other
-phenolic compounds, e.g. naphthol.
+nitration/bromination conditions differ from benzene's; explaining the
+2-, 4- and 6-directing pattern for phenol and analyzing other phenolic
+compounds from their actual ring structure, numbering, substituents and
+conditions.
 
 ## Alcohols and acyl chlorides
 
@@ -126,15 +127,13 @@ requirement for concentrated HNO₃/H₂SO₄ or an AlBr₃ catalyst — the
 electrophile is generated far more easily, or needed in a far less reactive
 form, because the ring itself is so much more nucleophilic.
 
-**The hydroxyl group directs to the 2-, 4- and 6-positions**, exactly as
-established for other lone-pair-donating substituents — the delocalised
-lone pair increases electron density most at those ring positions.
+**In phenol, the hydroxyl group directs substitution to the 2-, 4- and
+6-positions** — the delocalised lone pair increases electron density most
+at those positions on a single benzene ring.
 
-**Applying this to other phenolic compounds.** Any molecule containing a
-phenolic –OH directly attached to an aromatic ring (for example naphthol,
-a phenol fused to a second ring) undergoes the same activated, 2,4,6-type
-substitution chemistry, for the same underlying reason — the principle
-transfers directly, even though the specific ring system is bigger.
+**Applying this to other phenolic compounds.** An –OH directly attached to an aromatic ring can donate electron density into the π system and activate electrophilic substitution. Transfer that electronic principle to other phenols, but determine the available positions from the actual structure, its numbering, other substituents and reaction conditions. Fused-ring phenols such as naphthols do not inherit phenol's 2,4,6 numbering or a universal three-substitution product.
+
+![Phenol's oxygen donates electron density into its aromatic ring, activating electrophilic substitution at positions 2, 4 and 6; fused-ring phenols require their own numbering and site analysis.](/images/learning/chemistry/chem-phenol-electron-donation-directing-positions.svg)
 
 ## The acidity of phenol
 
@@ -198,7 +197,9 @@ a carboxylic acid group.
   Br₂, room temperature) — far milder than benzene needs
 - Acidity order: phenol > water > ethanol; delocalisation into the ring
   stabilises the phenoxide ion
-- Hydroxyl group directs 2-, 4-, 6-; applies to any phenolic compound
+- In phenol, hydroxyl directs 2-, 4-, 6-. For fused-ring phenols such as
+  naphthols, analyze the actual ring numbering and available sites rather
+  than transferring phenol's locants unchanged.
 
 ## Related resources
 

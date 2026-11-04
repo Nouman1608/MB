@@ -95,6 +95,14 @@ same quadratic set greater than zero.
 
 ## Worked example: solving a quadratic inequality graphically
 
+<!-- marlbridge-diagram:maths-discriminant-roots -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/mathematics/maths-discriminant-roots.svg" aria-label="Open full-size diagram: maths-discriminant-roots"><img src="/images/learning/mathematics/maths-discriminant-roots.svg" width="1600" height="1050" alt="Three quadratic graphs show a positive discriminant with roots at 1 and 4 and the interval satisfying f(x) ≤ 0 shaded, a repeated root at x = 2, and no real roots." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Discriminant, roots and the interval where the quadratic is non-positive. The shaded interval includes both roots. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:maths-discriminant-roots -->
+
+
 Solve x² − x − 6 > 0.
 
 ```

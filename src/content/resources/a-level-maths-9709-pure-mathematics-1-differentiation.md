@@ -164,6 +164,14 @@ Method: write the formula linking the variables, differentiate it, then substitu
 
 *Worked example.* A spherical balloon is inflated so that its volume increases at 50 cm³ per second. Find the rate at which the radius is increasing when r = 5 cm. (MF19 gives the volume of a sphere, V = (4/3)πr³.)
 
+<!-- marlbridge-diagram:maths-b15-differentiation-related-rates-balloon -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/mathematics/maths-b15-differentiation-related-rates-balloon.svg" aria-label="Open full-size diagram: maths-b15-differentiation-related-rates-balloon"><img src="/images/learning/mathematics/maths-b15-differentiation-related-rates-balloon.svg" width="1600" height="1050" alt="Chain-rule flow for an inflating sphere: when r=5 cm and dV/dt=50 cm³/s, dr/dt=1/(2π)≈0.159 cm/s." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Chain-rule flow for an inflating sphere: when r=5 cm and dV/dt=50 cm³/s, dr/dt=1/(2π)≈0.159 cm/s. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:maths-b15-differentiation-related-rates-balloon -->
+
+
 ```
 dV/dr = 4πr² = 100π  when r = 5
 dV/dt = (dV/dr) × (dr/dt):   50 = 100π × dr/dt
@@ -171,6 +179,14 @@ dr/dt = 1/(2π) = 0.159 cm per second (3 s.f.)
 ```
 
 ## 6. Stationary points
+
+<!-- marlbridge-diagram:maths-p1-differentiation-stationary-points -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/mathematics/maths-p1-differentiation-stationary-points.svg" aria-label="Open full-size diagram: maths-p1-differentiation-stationary-points"><img src="/images/learning/mathematics/maths-p1-differentiation-stationary-points.svg" width="1600" height="1050" alt="Cubic y=2x3+3x2−36x+10 has local maximum (−3,91) and minimum (2,−34), classified by second derivative." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Differentiation: locate and classify stationary points Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:maths-p1-differentiation-stationary-points -->
+
 
 A **stationary point** is where dy/dx = 0. To find its **nature**:
 

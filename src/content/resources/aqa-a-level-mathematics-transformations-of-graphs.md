@@ -93,6 +93,13 @@ In the y direction this is the order of operations you would use to evaluate the
 
 ### Worked example 2: tracking points through several stages
 
+<!-- marlbridge-diagram:maths-aqa-transformations-cubic-point-map -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/mathematics/maths-aqa-transformations-cubic-point-map.svg" aria-label="Open full-size diagram: maths-aqa-transformations-cubic-point-map"><img src="/images/learning/mathematics/maths-aqa-transformations-cubic-point-map.svg" width="1600" height="1050" alt="Maps the source cubic key points under y = −2f(x + 1) + 5, distinguishes the new y-intercept from mapped points, and checks the turning-point reversal. " loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Maps the source cubic key points under y = −2f(x + 1) + 5, distinguishes the new y-intercept from mapped points, and checks the turning-point reversal.  Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:maths-aqa-transformations-cubic-point-map -->
+
 Using the same curve, sketch y = −2f(x + 1) + 5. Give the coordinates of the images of the three key points and the y-intercept.
 
 Build the map for the point (x, y). Inside first: x + 1 means x becomes x − 1. Then multiply by −2 and add 5.

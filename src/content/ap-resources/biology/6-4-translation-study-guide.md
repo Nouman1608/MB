@@ -178,7 +178,7 @@ Usually information flows DNA → RNA → protein. **Retroviruses**, such as HIV
 4. The host cell's RNA polymerase **transcribes** the viral genes, and the host's ribosomes **translate** the viral mRNA into viral proteins.
 5. New viral RNA genomes and proteins are **assembled** into new viruses.
 
-Because the viral DNA is now part of the host's genome, it is copied whenever the cell replicates its DNA. Human cells do not use reverse transcriptase to express their own genes, which is one reason it makes a useful drug target.
+Because the viral DNA is now part of the host's genome, it is copied whenever the cell replicates its DNA. Ordinary expression of human protein-coding genes uses DNA → RNA → protein, without a reverse-transcription step. Some human cells nevertheless have endogenous reverse-transcriptase activity, including the TERT component of telomerase. A viral reverse transcriptase can be a drug target; its usefulness depends on selective inhibition, not on an absolute absence of cellular reverse transcriptases.
 
 ## Worked example 1: translating an mRNA
 
@@ -222,7 +222,7 @@ Polypeptide: **Met–Phe–Gly–His–Arg** (5 amino acids).
 
 **(c)** UAA is a stop codon. Translation would end at codon 120, so the polypeptide would have only **119 amino acids**. It would probably be unable to fold into the normal shape, so the protein would likely not work.
 
-**(d)** GGU and GGC both code for glycine (Table 1). The amino acid sequence is **unchanged**, so the protein should work normally. This is the redundancy of the code in action.
+**(d)** GGU and GGC both code for glycine (Table 1). The amino acid sequence is **unchanged**. This does not by itself establish unchanged expression or function: synonymous changes can affect RNA processing, stability or translation, depending on context. This is the redundancy of the code in action.
 
 ## Common misconceptions
 

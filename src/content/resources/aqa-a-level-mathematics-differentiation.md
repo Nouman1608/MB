@@ -121,6 +121,14 @@ across an interval.
 
 ## Worked example: classifying a stationary point
 
+<!-- marlbridge-diagram:maths-aqa-differentiation-stationary-test -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/mathematics/maths-aqa-differentiation-stationary-test.svg" aria-label="Open full-size diagram: maths-aqa-differentiation-stationary-test"><img src="/images/learning/mathematics/maths-aqa-differentiation-stationary-test.svg" width="1600" height="1050" alt="The diagram graphs the AQA lesson cubic, locating its maximum (−1,10) and minimum (3,−22) and showing the second-derivative test." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>The diagram graphs the AQA lesson cubic, locating its maximum (−1,10) and minimum (3,−22) and showing the second-derivative test. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:maths-aqa-differentiation-stationary-test -->
+
+
 Find and classify the stationary points of f(x) = x³ - 3x² - 9x + 5.
 
 ```

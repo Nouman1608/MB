@@ -218,6 +218,11 @@ export default defineConfig({
    * src/utils/markdown/hast-rtl-blocks.mjs. (D-257.)
    */
   markdown: {
+    // Resource pages use fenced blocks for formulas and worked calculations
+    // as well as programming examples. A dark code theme made ordinary study
+    // steps look like terminal output, so use a light reading surface.
+    syntaxHighlight: { type: 'shiki' },
+    shikiConfig: { theme: 'github-light' },
     processor: satteri({ hastPlugins: [rtlBlocksPlugin] }),
   },
   integrations: [

@@ -143,11 +143,11 @@ A student records the time for the starch to disappear.
 | 30 | 150 | 6.7 |
 | 40 | 90 | 11.1 |
 | 50 | 180 | 5.6 |
-| 60 | no end point within 600 s | 0 |
+| 60 | no end point within 600 s | <1.67; end point not reached |
 
 How the rates were found, for 30 °C: 1000 ÷ 150 = 6.67, which rounds to **6.7**.
 
-**Conclusion.** The rate rises from 10 °C to 40 °C and then falls. The optimum is **about 40 °C**. At 60 °C the amylase was denatured, so no starch was broken down.
+**Conclusion.** Among the tested temperatures, the endpoint-based rate is highest at **40 °C** and lower at 50 °C. At 60 °C the end point was not reached within 600 s, so the result gives only an upper bound of 1.67 arbitrary units for this rate index, not a measured rate of zero. Strongly reduced activity is consistent with denaturation, but this observation alone does not prove denaturation or show that no starch was broken down.
 
 **Evaluation.** Samples every 30 s mean each time could be up to 30 s too long. Testing every 10 s would be more precise. The true optimum could be anywhere between 30 °C and 50 °C, so the next step is to test at smaller intervals in that range, for example every 2 °C.
 

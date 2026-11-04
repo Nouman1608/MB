@@ -159,6 +159,14 @@ State the direction: a **15% decrease**.
 
 ### Original-value (reverse percentage) problems
 
+<!-- marlbridge-diagram:math-b78-ocr-reverse-percentage-gym-fee -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/public/images/learning/mathematics/math-b78-ocr-reverse-percentage-gym-fee.svg" aria-label="Open full-size diagram: math-b78-ocr-reverse-percentage-gym-fee"><img src="/public/images/learning/mathematics/math-b78-ocr-reverse-percentage-gym-fee.svg" width="1528" height="940" alt="The £75 original gym fee rises by multiplier 1.2 to £90; divide the final fee by 1.2 to recover the original." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>The £75 original gym fee rises by multiplier 1.2 to £90; divide the final fee by 1.2 to recover the original.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:math-b78-ocr-reverse-percentage-gym-fee -->
+
+
 Here you know the value *after* a change and must work back to the start. Treat the original as 100%, find the percentage the new value represents, and **divide** by the multiplier.
 
 **Worked example 10.** After a 20% rise, a gym fee is £90. Find the original fee.

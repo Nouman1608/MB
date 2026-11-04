@@ -99,6 +99,11 @@ Data supplied: impulses travel at 60 m/s in the neurones. Each synapse (includin
 
 ### Fight or flight
 
+
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <!-- marlbridge-diagram:endocrine-thyroxine-adrenaline --><a href="/images/learning/biology/endocrine-thyroxine-adrenaline.svg" aria-label="Open full-size diagram: Endocrine signals act through target-cell receptors" title="Endocrine signals act through target-cell receptors"><img src="/images/learning/biology/endocrine-thyroxine-adrenaline.svg" width="1528" height="871" alt="A thyroid-axis negative feedback pathway is contrasted with rapid receptor-dependent adrenal-medullary signalling." title="Endocrine signals act through target-cell receptors" loading="lazy" decoding="async" style="display:block;width:100%;height:auto;" /></a>
+  <figcaption>Compare the slower thyroid feedback pathway with rapid adrenaline signalling; consult the adjacent text for the adenylyl cyclase/cAMP cascade. Select the diagram to enlarge it.</figcaption>
+</figure>
 The hypothalamus detects a threat, and the sympathetic division stimulates the adrenal glands to release **adrenaline** into the blood. Effects: heart rate and stroke volume rise, breathing deepens, pupils dilate, glycogen is broken down so blood glucose rises, and blood is diverted to muscles. Nervous impulses start the response and adrenaline sustains it. The survival value is that the body is ready for sudden action.
 
 ### Cell signalling (outline only)
@@ -146,6 +151,8 @@ An ECG sensor gives the same information. At a chart speed of 25 mm/s, an R-to-R
 ### Interpreting stained sections and photomicrographs
 
 In a **longitudinal** section, skeletal muscle shows parallel fibres with regular cross-striations (alternating dark and light bands) and several nuclei at the edge of each fibre. In a **transverse** section, fibres appear as rounded polygons with nuclei at the edge. Cardiac muscle shows branching and darker intercalated discs. To find an actual size, use actual = image ÷ magnification, after converting to the same units (1 mm = 1000 µm).
+
+<figure class="my-8" id="objective-bio-82bf2160-cardiac-branching" data-objective-id="82bf216097a50342a0b3"><img src="/images/learning/biology/bio-b57-cardiac-muscle-histology-400x.jpg" alt="Authentic light micrograph of cardiac muscle at 400×, showing striated fibres with central nuclei and visible branching between fibres." width="3072" height="4096" loading="lazy" decoding="async" /><figcaption>Cardiac muscle histology at 400×. Alexander G. Cheroske, <a href="https://commons.wikimedia.org/wiki/File:Cardiac_muscle_histology_400x.jpg">Wikimedia Commons source record</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>. The branching pattern is visible in the tissue field; the image does not label individual cell boundaries or provide a calibrated scale bar.</figcaption></figure>
 
 ### Structure of a skeletal muscle fibre
 

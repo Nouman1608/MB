@@ -30,7 +30,7 @@ keyPoints:
   - "A reaction cannot go faster than its slowest elementary step. That step is the rate-limiting (rate-determining) step."
   - "When the first step is the slow step, the rate law of the whole reaction is the rate law of that step: each reactant in it is raised to its coefficient in the step."
   - "The rate law comes from the slow step, not from the overall equation, so reactants used only in later fast steps do not appear in it."
-  - "An intermediate never appears in a final rate law. A catalyst can, if it takes part in the slow step."
+  - "An experimentally determined rate law can contain an intermediate concentration; when deriving a predictive law from a mechanism, eliminate unmeasured intermediate concentrations using justified kinetic assumptions. A catalyst can appear if it takes part in a rate-controlling step."
   - "A mechanism that adds up correctly and predicts the experimental rate law is consistent with the evidence, but it is not proven."
 faqs:
   - question: "Why can I use the coefficients of the slow step but not those of the overall equation?"
@@ -62,12 +62,12 @@ In Topic 5.4 you learned that for an **elementary** step, the rate law follows f
 
 > When the **first** step of a mechanism is the slow (rate-limiting) step, the rate law for the overall reaction is the rate law of that first step, written from its coefficients.
 
-The same idea holds whenever every step goes one way only (single arrows, →): the slowest step sets the rate law. In this topic the slow step is always the first step, so its rate law contains only species you put in the flask. If a fast step before the slow step is reversible (⇌), you need the approach of Topic 5.9.
+In this topic the first elementary step is explicitly identified as rate-limiting and subsequent steps are fast, so the reactant-based rate law is approximated by that first step's rate law. Do not generalise this shortcut to every irreversible sequence: a later slow step may involve an accumulating intermediate, and deriving an observable rate law can require additional kinetic assumptions. A fast reversible step before the slow step is treated by the pre-equilibrium method in Topic 5.9.
 
 Three consequences follow.
 
 1. **The rate law can differ from the overall equation.** If a reactant appears only in a fast step after the slow step, its concentration does not appear in the rate law: the reaction is **zero order** in that reactant.
-2. **An intermediate can never appear in a rate law found by experiment.** You cannot add an intermediate to a flask or set its concentration, so it cannot be one of the variables in the experimental rate law. When the slow step is the first step, it contains only species that were there at the start, so this is not a problem.
+2. **An intermediate may appear in an experimentally determined rate law.** A measured rate law can depend on any species whose concentration affects the measured rate, including an intermediate. When deriving an overall rate law from a mechanism, however, short-lived intermediate concentrations are usually eliminated using a justified approximation or steady-state relation. In the first-slow-step cases in this topic, the first step contains only species present at the start.
 3. **A catalyst can appear in the rate law.** If the catalyst reacts in the slow step, the rate depends on its concentration, even though it is not in the overall equation.
 
 **Quick example (catalyst).** For the fictional mechanism Step 1 (slow): G + Y → GY, Step 2 (fast): GY + Y → G + Y₂, the overall equation is 2Y → Y₂. The rate law is **rate = k[G][Y]**. G is a catalyst (used, then given back), yet doubling [G] doubles the rate, because G is in the slow step.

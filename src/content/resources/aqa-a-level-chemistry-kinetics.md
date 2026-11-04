@@ -49,12 +49,21 @@ and are not taught here.
 Reactions can only occur when particles collide with sufficient energy. **Definition:** the activation energy is the minimum energy that colliding particles must have for
 a reaction to occur.
 
-**Why most collisions do not lead to a reaction.** Most collisions
-fail because **most particles have less energy than the activation energy**. When two low-energy particles
-collide, no bonds break and they simply move apart unchanged.
+**Why most collisions do not lead to a reaction.** In the typical A-level gas examples, most particles have
+less energy than the activation energy, so many collisions cannot react. Having energy at or above Ea is
+necessary but not sufficient: reacting particles must also meet in a suitable orientation. Collisions that
+fail either condition leave the particles without the reaction products. The fraction below Ea depends on
+the temperature and barrier; do not treat it as a universal statement for every reaction.
 
 So the rate of a reaction depends on how often collisions happen **and** what fraction of those collisions
 have energy at or above Ea. Every factor in this topic works through one or both of those.
+
+<!-- marlbridge-diagram:mbr-c50004-boltzmann -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/chemistry/mbr-c50004-boltzmann.svg" aria-label="Open full-size diagram: activation energy and the Boltzmann distribution"><img src="/images/learning/chemistry/mbr-c50004-boltzmann.svg" width="1440" height="940" alt="Maxwell–Boltzmann distributions mark the fraction of particles with energy at least Ea; the collision model also requires suitable orientation, as explained in the surrounding text. A catalyst lowers Ea without changing the distribution." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Energy at or above Ea is necessary but not sufficient: a successful collision also needs a suitable orientation. The temperature-dependent fraction above Ea varies with temperature and barrier.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:mbr-c50004-boltzmann -->
 
 ## 3.1.5.2 The Maxwell–Boltzmann distribution
 
@@ -146,7 +155,18 @@ The sulfur forms a cloudy precipitate. A typical method:
 4. Stop the watch when the cross can no longer be seen from above. Record the time, t.
 5. Repeat at several temperatures, keeping the volumes, concentrations and the cross the same.
 
-The same amount of sulfur forms each time before the cross disappears, so **rate is proportional to 1/t**.
+The disappearance endpoint is an operational threshold, not a direct measurement of an instantaneous rate.
+When the endpoint corresponds to a small and repeatable conversion, **1/t is a relative-rate proxy** for
+comparing runs; it approximates initial rate only if the rate changes little before the cross disappears.
+Keep the same flask, solution volume, cross size, viewing direction, lighting and endpoint judgement so the
+optical path and obscuration threshold stay comparable.
+
+<!-- marlbridge-diagram:chem-batch-temperature-disappearing-cross -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/chemistry/chem-batch-temperature-disappearing-cross.svg" aria-label="Open full-size diagram: disappearing-cross method and fixed viewing geometry"><img src="/images/learning/chemistry/chem-batch-temperature-disappearing-cross.svg" width="1528" height="940" alt="A conical flask with a fixed solution depth sits over the same marked cross. A vertical sight line passes through the liquid to the cross. The method controls flask, volume, cross, viewing direction and light; reciprocal endpoint time is a relative-rate proxy only when the endpoint conversion is small and comparable." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Keep the viewing path and endpoint threshold comparable. Reciprocal time supports a relative comparison and only approximates initial rate for a sufficiently small conversion.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:chem-batch-temperature-disappearing-cross -->
 Sulfur dioxide is toxic and irritates the lungs, so work in a well-ventilated room and keep the volumes small.
 
 **Worked example 3.** A student obtains these times.

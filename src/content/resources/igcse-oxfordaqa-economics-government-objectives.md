@@ -101,6 +101,14 @@ Identifying which mechanism a scenario describes is a common exam task.
 
 ## Worked example: a policy conflict
 
+<!-- marlbridge-diagram:economics-oxfordaqa-policy-conflict -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/economics/economics-oxfordaqa-policy-conflict.svg" aria-label="Open full-size diagram: economics-oxfordaqa-policy-conflict"><img src="/images/learning/economics/economics-oxfordaqa-policy-conflict.svg" width="1600" height="1050" alt="Four-step policy chain: lower interest rates may raise borrowing, spending and investment; firms may hire more, while demand growing faster than capacity may create demand-pull inflation pressure; outcomes depend on conditions." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>A policy that supports employment may add inflation pressure when demand outpaces productive capacity. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:economics-oxfordaqa-policy-conflict -->
+
+
 A government cuts interest rates to encourage borrowing and spending,
 aiming to reduce unemployment.
 

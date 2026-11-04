@@ -198,6 +198,13 @@ Stomata also have **daily rhythms**: they open during the day and close at night
 
 ### How stomata open and close
 
+<!-- marlbridge-diagram:bio-b17-stomatal-guard-cell-opening -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/biology/bio-b17-stomatal-guard-cell-opening.svg" aria-label="Open full-size diagram: Guard cells: how a stoma opens and closes"><img src="/images/learning/biology/bio-b17-stomatal-guard-cell-opening.svg" width="1600" height="1000" alt="Shows the source sequence from ATP-driven proton pumping through potassium movement and osmosis to turgor-driven pore opening, plus the reverse closing sequence." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Shows the source sequence from ATP-driven proton pumping through potassium movement and osmosis to turgor-driven pore opening, plus the reverse closing sequence. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:bio-b17-stomatal-guard-cell-opening -->
+
 **Opening:**
 
 1. **Proton pumps** use ATP to pump **H⁺ out** of the guard cells.

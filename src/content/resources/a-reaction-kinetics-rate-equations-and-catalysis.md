@@ -140,10 +140,7 @@ k.
 
 ## Deducing mechanisms from rate equations
 
-For a **multi-step reaction**, the overall rate equation is determined only
-by the **rate-determining step** (the slowest step) and any steps before it
-— species produced after the rate-determining step don't appear in the rate
-equation.
+For a **multi-step reaction**, a proposed slow step can be used to derive a rate equation when the stated kinetic assumptions apply. Concentrations of intermediates may need to be eliminated using a preceding fast pre-equilibrium or another justified approximation. A measured rate law tests a mechanism's consistency; it does not generally identify a unique mechanism.
 
 **Worked example.** The reaction 2NO(g) + Br₂(g) → 2NOBr(g) is proposed to
 proceed by:
@@ -177,15 +174,7 @@ where k' = kK₁. This final rate equation, **rate = k[NO]²[Br₂]**, contains
 only NO and Br₂, whose concentrations can be controlled and measured, and matches the
 experimentally observed second-order dependence on NO.
 
-This works in reverse too: given an experimental rate equation, a proposed
-mechanism is only consistent with it if, after any fast pre-equilibrium
-substitution, the resulting expression matches the species and orders in
-the rate equation. A species appearing in the rate equation with a *lower*
-order than its stoichiometric coefficient in the overall equation is a
-sign that the remaining molecules of that species react **after** the
-rate-determining step, not before it — a species consumed entirely in a
-fast pre-equilibrium before the rate-determining step instead appears at
-its **full** stoichiometric order.
+This works in reverse too: a proposed mechanism must reproduce the experimental species dependences and orders under the stated conditions. Agreement is evidence of consistency, not proof of a unique mechanism. For a stepwise reaction there is no general relation between overall stoichiometric coefficients and partial reaction orders, so comparing them alone cannot locate a reactant before or after the slow step.
 
 ## Homogeneous and heterogeneous catalysts
 

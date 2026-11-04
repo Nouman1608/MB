@@ -96,6 +96,17 @@ Total fixed overhead variance    = fixed overhead absorbed by actual output
 Set out this way, a positive answer is favourable and a negative one adverse.
 
 ### Worked example 1: Thurlby Ceramics Ltd
+<!-- marlbridge-diagram:ac-ial-standard-costing-variance-reconciliation -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/accounting/ac-ial-standard-costing-variance-reconciliation.svg" aria-label="Open full-size diagram: ac-ial-standard-costing-variance-reconciliation">
+    <picture>
+      <source media="(max-width: 640px)" srcset="/images/learning/accounting/ac-ial-standard-costing-variance-reconciliation-mobile.svg" />
+      <img src="/images/learning/accounting/ac-ial-standard-costing-variance-reconciliation.svg" width="1600" height="1050" alt="Thurlby Ceramics’ six favourable and adverse variances reconcile to a net $456 favourable result." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" />
+    </picture>
+  </a>
+  <figcaption>Thurlby’s material, labour and overhead variances reconcile to standard cost $239,400 less actual cost $238,944 = $456 favourable. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:ac-ial-standard-costing-variance-reconciliation -->
 
 Thurlby Ceramics Ltd makes glazed washbasins. Its standard cost card for one basin is:
 

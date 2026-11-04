@@ -82,6 +82,16 @@ with everything else assessed on both tiers.
   to a surface, including the relationship between force, pressure and
   area used in simple hydraulic systems.
 
+### Page-level teaching map
+
+The overview above lists the complete topic; use these detailed pages for the worked explanations and examples behind each group of outcomes.
+
+| Overview group | Detailed teaching evidence |
+|---|---|
+| **P2.1 Motion** | [Distance, speed, velocity, acceleration and motion graphs](/resources/ocr-gcse-physics-distance-speed-velocity-acceleration-and-motion-graphs/) covers P2.1a–h, including measurement, unit conversion, vectors, graph slopes/areas, average speed and motion equations. The kinetic-energy equation listed with this group is taught in [work done, stored energy and power from forces](/resources/ocr-gcse-physics-work-done-stored-energy-and-power-from-forces/) (P2.2n). |
+| **P2.2 Newton's laws** | [Interacting forces, vectors and free-body diagrams](/resources/ocr-gcse-physics-interacting-forces-vectors-and-free-body-diagrams/) covers P2.2a–h and p; [Newton's second law, inertia, momentum and circular motion](/resources/ocr-gcse-physics-newtons-second-law-inertia-momentum-and-circular-motion/) covers P2.2i–l and q; [work done, stored energy and power from forces](/resources/ocr-gcse-physics-work-done-stored-energy-and-power-from-forces/) covers P2.2m–o. |
+| **P2.3 Forces in action** | [Deformation, springs and Hooke's law](/resources/ocr-gcse-physics-deformation-springs-and-hookes-law/) covers P2.3a–f; [gravity, weight and pressure force in fluids](/resources/ocr-gcse-physics-gravity-weight-and-pressure-force-in-fluids/) covers P2.3g–j and n–o; [moments, levers and gears](/resources/ocr-gcse-physics-moments-levers-and-gears/) covers P2.3k–m. The gravitational-potential-energy equation is explained in [work done, stored energy and power from forces](/resources/ocr-gcse-physics-work-done-stored-energy-and-power-from-forces/). |
+
 ## Where Forces sits in the course
 
 Topic P1 Matter established the particle model, changes of state and

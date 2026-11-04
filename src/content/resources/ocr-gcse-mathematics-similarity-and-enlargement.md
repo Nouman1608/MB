@@ -88,6 +88,14 @@ An enlargement changes size and keeps shape. It needs a **scale factor** and a *
 
 ### Worked example 3: enlarging from a centre
 
+<!-- marlbridge-diagram:math-b40-ocr-j560-enlargement-centre-scale-factor-two -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/mathematics/math-b40-ocr-j560-enlargement-centre-scale-factor-two.svg" aria-label="Open full-size diagram: math-b40-ocr-j560-enlargement-centre-scale-factor-two"><img src="/images/learning/mathematics/math-b40-ocr-j560-enlargement-centre-scale-factor-two.svg" width="1600" height="1050" alt="Enlargement from centre (1, 2) with scale factor 2" loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Enlargement from centre (1, 2) with scale factor 2 Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:math-b40-ocr-j560-enlargement-centre-scale-factor-two -->
+
+
 Triangle ABC has A(3, 1), B(5, 1) and C(5, 4). Enlarge it by scale factor 2 with centre (1, 2).
 
 ```
@@ -143,6 +151,14 @@ When you describe a transformation, give three things: the word enlargement, the
 With a negative scale factor, the image appears across the centre from the original and is turned through a half turn. The number without its sign gives the size, so −2 gives an image twice as big, on the far side of the centre.
 
 ### Worked example 6: scale factor −2 (Higher tier only)
+
+<!-- marlbridge-diagram:math-b76-ocr-negative-enlargement -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/public/images/learning/mathematics/math-b76-ocr-negative-enlargement.svg" aria-label="Open full-size diagram: math-b76-ocr-negative-enlargement"><img src="/public/images/learning/mathematics/math-b76-ocr-negative-enlargement.svg" width="1528" height="940" alt="Coordinate plane showing the original triangle, the centre (2,1), and its image across the centre at twice the distance under scale factor −2." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Coordinate plane showing the original triangle, the centre (2,1), and its image across the centre at twice the distance under scale factor −2.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:math-b76-ocr-negative-enlargement -->
+
 
 Enlarge triangle ABC with A(1, 3), B(3, 3) and C(3, 4) by scale factor −2, centre (2, 1).
 

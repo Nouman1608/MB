@@ -43,6 +43,8 @@ Hess's law, bond enthalpy), [Atomic structure](/resources/a-level-aqa-chemistry-
 | 3.1.8.1 Born–Haber cycles | Define enthalpy of hydration; calculate enthalpies of solution and related changes from lattice and hydration enthalpies | A-level only |
 | 3.1.8.2 ΔG and ΔS | Explain why ΔH alone does not decide feasibility; calculate ΔS from absolute entropies; use ΔG = ΔH – TΔS for how ΔG varies with T and the temperature at which a reaction becomes feasible; find ΔH and ΔS from a ΔG against T graph | A-level only |
 
+![For the fixed-property case with positive ΔH and ΔS, ΔG falls through zero as temperature rises: zero is the equilibrium boundary, while negative ΔG indicates a forward thermodynamic driving force.](/images/learning/chemistry/chem-thermodynamics-delta-g-equilibrium-boundary.svg)
+
 The specification lists 3.1.8 under A-level Paper 1. A-level Paper 3 can test any content.
 
 ## 3.1.8.1 The enthalpy changes in a Born–Haber cycle
@@ -207,10 +209,10 @@ The balance between enthalpy and entropy is given by
 ΔG = ΔH – TΔS        (derivation not required)
 ```
 
-with T in kelvin. A reaction is **feasible when ΔG is zero or negative**. ΔH is usually in kJ mol⁻¹
+with T in kelvin. At constant temperature and pressure, **ΔG < 0 indicates a forward thermodynamic driving force; ΔG = 0 is the equilibrium boundary with no net driving force**. Standard-state data give ΔG⦵; the direction in a non-standard mixture also depends on its composition. ΔH is usually in kJ mol⁻¹
 and ΔS in J K⁻¹ mol⁻¹, so **divide ΔS by 1000** before substituting.
 
-At the temperature where ΔG = 0, the reaction is just feasible:
+In the fixed-ΔH, fixed-ΔS approximation, the zero-crossing temperature is:
 
 ```
 T = ΔH / ΔS        (ΔS in kJ K⁻¹ mol⁻¹)
@@ -239,7 +241,7 @@ Absolute entropies (J K⁻¹ mol⁻¹): CaCO₃(s) 93; CaO(s) 40; CO₂(g) 214.
 T at which feasible = 178 / 0.161 = 1106 K
 ```
 
-ΔS is positive because a gas forms from a solid. The reaction is feasible at 1106 K and above.
+ΔS is positive because a gas forms from a solid. In this constant-property standard-state model, ΔG⦵ crosses zero near 1106 K and becomes negative above it. The actual equilibrium also depends on carbon dioxide pressure.
 
 ### Worked example 5: ΔH and ΔS from a graph of ΔG against T
 

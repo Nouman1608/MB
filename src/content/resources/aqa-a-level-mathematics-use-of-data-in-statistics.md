@@ -205,6 +205,13 @@ Read a graph for its **message**, then check whether its **construction** suppor
 
 ### Worked example 4: a truncated axis
 
+<!-- marlbridge-diagram:maths-aqa-truncated-axis-data-interpretation -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/mathematics/maths-aqa-truncated-axis-data-interpretation.svg" aria-label="Open full-size diagram: maths-aqa-truncated-axis-data-interpretation"><img src="/images/learning/mathematics/maths-aqa-truncated-axis-data-interpretation.svg" width="1600" height="1050" alt="Compares a source worked example on a truncated axis and zero baseline, then calculates the actual 9.46% fall against the exaggerated visual difference." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Compares a source worked example on a truncated axis and zero baseline, then calculates the actual 9.46% fall against the exaggerated visual difference. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:maths-aqa-truncated-axis-data-interpretation -->
+
 A bar chart shows the annual mean weekly use for Region A from 2019 to 2024 (invented figures):
 78.2, 81.5, 80.1, 74.6, 71.9 and 70.8 kWh. The vertical axis starts at 70.
 

@@ -126,6 +126,14 @@ Units: convert in steps and keep the unit on every line. 3.6 km/h = 3600 m ÷ 36
 
 ## Accuracy, errors and bounds
 
+<!-- marlbridge-diagram:math-b46-myp-bounds-area-interval -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/mathematics/math-b46-myp-bounds-area-interval.svg" aria-label="Open full-size diagram: math-b46-myp-bounds-area-interval"><img src="/images/learning/mathematics/math-b46-myp-bounds-area-interval.svg" width="1600" height="1050" alt="A rectangle has measured side intervals 8.35≤L&lt;8.45 cm and 5.15≤W&lt;5.25 cm. Multiplying positive lower and upper endpoints gives 43.0025≤area&lt;44.3625 cm²; upper bound is not attained." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>A rectangle has measured side intervals 8.35≤L&lt;8.45 cm and 5.15≤W&lt;5.25 cm. Multiplying positive lower and upper endpoints gives 43.0025≤area&lt;44.3625 cm²; upper bound is not attained. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:math-b46-myp-bounds-area-interval -->
+
+
 Absolute error = |measured - true|. Percentage error = absolute error ÷ true value × 100. A tool's precision limits how accurately you can report: a ruler marked in mm cannot justify four decimal places.
 
 **Extended: lower and upper bounds.** A value rounded to the nearest unit u lies in [x - u/2, x + u/2). Lengths of 8.4 cm and 5.2 cm (1 d.p.) lie in 8.35 ≤ L < 8.45 and 5.15 ≤ W < 5.25.

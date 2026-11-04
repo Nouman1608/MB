@@ -16,7 +16,7 @@ learningObjectives:
   - "Read amplitude, wavelength and period from displacement–position and displacement–time graphs, and tell the two graphs apart"
   - "Write and use cosine (or sine) equations for displacement as a function of time at one place, and as a function of position at one time"
   - "Use v = fλ to calculate and to predict how wavelength changes when the speed or the frequency changes"
-  - "Explain that amplitude does not depend on frequency, link frequency to pitch, and state that energy carried increases with frequency"
+  - "Treat source amplitude and frequency as independent inputs, link frequency to pitch, and qualify energy–frequency comparisons by the wave type and held amplitude variable"
 skills: ["1", "2", "3"]
 studyMinutes: 45
 difficulty: "core"
@@ -30,11 +30,11 @@ keyPoints:
   - "Period T is the time for one full oscillation; frequency f is how many repeat each second; T = 1/f."
   - "Wavelength λ is the distance between matching points, such as crest to next crest."
   - "A displacement–time graph shows T; a displacement–position graph shows λ. Always read the horizontal axis first."
-  - "v = fλ. In one medium the speed is fixed, so a higher frequency means a shorter wavelength."
-  - "Amplitude is independent of frequency. Higher frequency sounds have higher pitch, and a wave carries more energy at higher frequency."
+  - "v = fλ. In the nondispersive model used for this course, the speed is treated as fixed over the stated frequency range, so a higher frequency means a shorter wavelength."
+  - "Source amplitude and frequency can be chosen independently. Higher frequency sounds have higher pitch. Energy or power comparisons need a specified wave type and held amplitude variable."
 faqs:
   - question: "If I increase the frequency of a source, does the wave travel faster?"
-    answer: "No. The speed is set by the medium (Topic 14.1). The source sets the frequency. With v fixed, v = fλ means the wavelength must get shorter. Doubling f halves λ."
+    answer: "In the ideal nondispersive model, the medium fixes the speed over the stated range. The source sets frequency; then v = fλ means a higher frequency has a shorter wavelength. In real materials, dispersion can make speed depend slightly on frequency."
   - question: "Should I use sine or cosine in the wave equation?"
     answer: "Either, as long as it matches the starting point. Use cosine when the displacement is at +A when t = 0 (or x = 0), and sine when it is zero and increasing. The amplitude, period and wavelength read from the equation are the same."
 version: "1.0"
@@ -170,7 +170,7 @@ This links the three quantities, but they are not all free:
 So, for a periodic wave:
 
 - **λ is proportional to v** at a fixed frequency. If the same source sends waves into a faster medium, the waves are longer.
-- **λ is inversely proportional to f** at a fixed speed. Double the frequency in the same medium and the wavelength halves.
+- **λ is inversely proportional to f** at a fixed speed. In a nondispersive medium (or narrow range where v is effectively constant), doubling f halves λ. In a dispersive medium, v may also depend on f, so use v = fλ with the appropriate speed.
 
 ## Pitch, loudness and energy
 
@@ -184,7 +184,7 @@ These are independent. A quiet high note and a loud low note are both possible.
 The energy carried by a wave depends on both:
 
 - It **increases with amplitude** (Topic 14.1).
-- It **increases with frequency**. To make a rope oscillate through the same amplitude more often each second, your hand has to move faster, so you must supply energy at a greater rate.
+- For an ideal sinusoidal string wave at fixed displacement amplitude, linear density and speed, average power increases with frequency squared. This does not establish a universal frequency rule for all waves: an electromagnetic beam at fixed field amplitude has a different comparison, and photon energy is a separate quantity.
 
 ## Worked example 1: reading the two graphs
 
@@ -211,7 +211,7 @@ The energy carried by a wave depends on both:
 
 - **Mixing up λ and T.** A crest-to-crest distance on a graph is λ only if the horizontal axis is position. If the axis is time, it is T.
 - **Taking crest to trough as the wavelength, or as the amplitude.** Crest to the next trough is half a wavelength horizontally, and twice the amplitude vertically.
-- **"Higher frequency means a faster wave."** In one medium all frequencies travel at the same speed. The wavelength changes instead.
+- **"Higher frequency means a faster wave."** In the nondispersive model used here, the wave speed is treated as constant across the stated range, so wavelength changes instead. Real media can be dispersive.
 - **"Changing the medium changes the frequency."** The source sets f. When the speed changes, λ changes.
 - **"A louder sound has a higher pitch."** Loudness depends on amplitude; pitch depends on frequency. They are independent.
 - **"Amplitude gets smaller when the frequency goes up."** Amplitude is independent of frequency and period.

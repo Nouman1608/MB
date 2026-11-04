@@ -131,7 +131,7 @@ Neither rule is wrong. They answer different questions. Always ask "what is the 
 
 ## Bulb brightness
 
-The brightness of a bulb increases with its power. So to decide which of several bulbs is brightest, compare their powers. You often do not need numbers:
+For comparable bulbs of the same type, greater electrical power usually means greater brightness. In this course, use power to compare bulb brightness under the stated idealisation; power alone does not rank lamps of different designs or technologies. You often do not need numbers:
 
 1. Decide what the bulbs share: the same ΔV, or the same I.
 2. Use P = ΔV²/R or P = I²R to compare.

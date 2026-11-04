@@ -194,6 +194,14 @@ Every number between 1.51 and 1.515 rounds to 1.51, so **x = 1.51 to 2 decimal p
 
 ### Interval bisection
 
+<!-- marlbridge-diagram:math-b74-ocr-interval-bisection -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/public/images/learning/mathematics/math-b74-ocr-interval-bisection.svg" aria-label="Open full-size diagram: math-b74-ocr-interval-bisection"><img src="/public/images/learning/mathematics/math-b74-ocr-interval-bisection.svg" width="1528" height="940" alt="Five bisection steps show midpoint signs and retained intervals narrowing from [2,3] to [2.25,2.28125], giving root 2.3 to one decimal place." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Five bisection steps show midpoint signs and retained intervals narrowing from [2,3] to [2.25,2.28125], giving root 2.3 to one decimal place.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:math-b74-ocr-interval-bisection -->
+
+
 Take the midpoint, find its sign, and keep the half that still has the sign change.
 
 **Example 10.** Use bisection to find the root of f(x) = x³ − 3x − 5 to 1 decimal place.

@@ -59,39 +59,36 @@ So the **angular** quantities are shared, but the **linear** quantities (distanc
 
 ## Arc length and the radian
 
-The radian is defined so that the link is as simple as possible. For a point at distance r from a fixed axis, turning through an angle Δθ (in radians) carries it along an arc of length
+The radian is defined by **arc length divided by radius**. One full revolution is **2π rad**, so a point at radius r travels a circumference **2πr**.
 
-**Δs = rΔθ**
+For a point at fixed radius r, distinguish two quantities:
 
-This is the definition of the radian rearranged: an angle in radians is arc length divided by radius. One full turn is 2π rad, and the arc is then 2πr, the circumference, as it should be.
+- **Signed arc displacement:** Δs_t = rΔθ, where Δθ is the accumulated signed angular displacement in radians and positive tangent direction follows the chosen positive turning sense.
+- **Distance travelled along the arc:** for one-way rotation, distance = r|Δθ|. If the rotation reverses, add the separate positive arc distances; the magnitude of the net angular displacement alone does not give the total distance.
 
-**Example.** A wheel of radius 0.30 m turns through 2.0 rad. A point on its rim travels 0.30 m × 2.0 = **0.60 m** along its circular path.
+Example. A wheel of radius **0.30 m** turning through **+2.0 rad** gives signed arc displacement **+0.60 m** and distance **0.60 m**. A turn through **−2.0 rad** gives signed displacement **−0.60 m**, with the same **0.60 m** distance.
 
-Because radians are a ratio of two lengths, they have no physical dimension. That is why "m × rad" simply becomes "m". It also means **Δs = rΔθ is false if Δθ is in degrees or revolutions**. Convert first.
+Radians are a ratio of two lengths and therefore dimensionless. These radius-angle equations require radians: convert degrees or revolutions first.
 
 ## Linear speed and tangential acceleration
 
-Divide both sides of Δs = rΔθ by the time interval Δt. Since r is fixed for a point on a rigid body:
+Choose a **positive turning sense** about the fixed axis and the corresponding local positive tangent direction at each point. Keep **signed components** separate from **nonnegative speeds**:
 
-Δs / Δt = r(Δθ / Δt), so **v = rω**
+**Tangential velocity component: v_t = rω**
 
-Here v is the point's **linear speed** along its path. Its velocity is always **tangent** to the circle, perpendicular to the radius.
+**Linear speed: v = |v_t| = r|ω|**
 
-Now look at how v changes. If ω changes by Δω, then v changes by rΔω. Divide by Δt:
+**Tangential acceleration component: a_t = rα**
 
-Δv / Δt = r(Δω / Δt), so **a_T = rα**
+The velocity vector is tangent to the circular path, perpendicular to the radius. The tangential acceleration component changes the signed tangential velocity. When ω and α have the same sign the speed increases; when they have opposite signs the speed decreases. The additional centripetal acceleration changes the direction of the velocity.
 
-a_T is the **tangential acceleration**: the part of the acceleration along the path that changes the point's speed. (Topic 2.9 wrote it as a_t; it is the same quantity.)
-
-| Rotational quantity (shared by every point) | Linear quantity for a point at radius r |
+| Angular quantity | Corresponding linear quantity at fixed radius r |
 |---|---|
-| angular displacement Δθ (rad) | distance along the arc, Δs = rΔθ (m) |
-| angular velocity ω (rad/s) | linear speed, v = rω (m/s) |
-| angular acceleration α (rad/s²) | tangential acceleration, a_T = rα (m/s²) |
+| Signed angular displacement Δθ (rad) | Signed arc displacement Δs_t = rΔθ (m) |
+| Signed angular velocity ω (rad/s) | Signed tangential component v_t = rω (m/s); speed v = r|ω| |
+| Signed angular acceleration α (rad/s²) | Signed tangential acceleration a_t = rα (m/s²) |
 
-The relationships work in both directions. If you know how fast a string comes off a spool, you can find the spool's ω from ω = v / r.
-
-Directions in this course are described only as clockwise or counterclockwise. If a disc turns counterclockwise, each point's velocity is tangent to its circle in the counterclockwise sense.
+These relations work in both directions. A no-slip string leaving a spool has speed r|ω|; to infer the sign of ω or α, also use the stated positive sense and the direction of the string's motion. In the counterclockwise examples below ω is positive, so the printed v = rω can be read directly as a speed.
 
 ## Same ω, different v: comparing points
 
@@ -143,13 +140,13 @@ That last result surprises many students, who remember a_c = v²/r and expect a 
 
 ## Things that share a linear speed
 
-When two rotating parts are linked so that nothing slips, the **linear speed** at the contact is shared:
+When rotating parts are linked **without slipping**, the contacting surfaces share a **tangential speed magnitude**:
 
-- **Belt or chain drives.** The belt moves at one speed, so the rims of both pulleys move at that speed: r₁ω₁ = r₂ω₂. The smaller pulley turns faster.
-- **String on a spool or winch.** A string unwinding without slipping moves at v = rω of the drum, and its acceleration equals a_T = rα. The length unwound equals rΔθ.
-- **Gears in mesh.** The teeth at the contact point move together, so r₁ω₁ = r₂ω₂ again (meshing gears turn in opposite senses; a belt keeps the same sense).
+- **Belt or chain drives:** r₁|ω₁| = r₂|ω₂|. The smaller pulley has the larger angular-speed magnitude. An **open, uncrossed belt** gives the same turning sense at the two shafts; a **crossed belt** reverses it. State the routing before assigning signs.
+- **String on a spool or winch:** a string unwinding at fixed effective radius r without slip has speed r|ω|, and its signed displacement and acceleration follow the chosen tangent direction: Δs_t = rΔθ and a_t = rα. For a one-way unwind, the positive length released is r|Δθ|.
+- **External gears in mesh:** the pitch-circle contact has r₁|ω₁| = r₂|ω₂| and the gears turn in opposite senses. With one common counterclockwise-positive convention, r₁ω₁ = −r₂ω₂. Internal gear meshes require their own geometry.
 
-So when you see a belt, chain or string, think "**same v**". When you see one rigid body, think "**same ω**".
+For one rigid body rotating about a fixed axis, think **same ω**. For the stated no-slip links, think **same contacting speed magnitude**, then use the geometry to assign directions.
 
 ## Worked example 1: a winch lifting a load
 

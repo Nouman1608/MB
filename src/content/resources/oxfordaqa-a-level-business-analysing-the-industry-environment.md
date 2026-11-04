@@ -38,6 +38,14 @@ Shorter version: [revision notes](/resources/oxfordaqa-a-level-business-analysin
 
 ## 1. Meaning and significance of the five forces
 
+<!-- marlbridge-diagram:business-oxfordaqa-five-forces-profit-impact -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/business/business-oxfordaqa-five-forces-profit-impact.svg" aria-label="Open full-size diagram: business-oxfordaqa-five-forces-profit-impact"><img src="/images/learning/business/business-oxfordaqa-five-forces-profit-impact.svg" width="1600" height="1050" alt="Five competitive pressures feed industry margins, with the lesson supplier example showing the effect on contribution and weekly profit." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Five competitive pressures feed industry margins, with the lesson supplier example showing the effect on contribution and weekly profit. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:business-oxfordaqa-five-forces-profit-impact -->
+
+
 An **industry** is a group of businesses supplying products customers see as close alternatives. **Porter's five forces** is a model for analysing an industry's competitive structure. The profit firms can earn depends on five pressures:
 
 1. **Rivalry** between existing firms.

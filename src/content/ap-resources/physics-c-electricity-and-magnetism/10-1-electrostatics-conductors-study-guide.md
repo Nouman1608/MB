@@ -57,7 +57,7 @@ In an **ideal conductor**, some electrons are free to move through the whole mat
 - A conductor with a **negative** net charge has **extra electrons**. They are the excess charge carriers.
 - A conductor with a **positive** net charge has **lost electrons**. Only electrons move, but you may model the result as if positive carriers sat where the missing electrons would be.
 
-If there is any field inside the material, the free electrons feel a force qE and move. They keep moving until their new positions produce a field that cancels the original field everywhere inside. The conductor is then in **electrostatic equilibrium**: no charge is moving. The time this takes is so short that the course treats it as instant. So whenever you analyse a conductor "at rest", you may assume equilibrium has already been reached.
+If there is any field inside the material, the free electrons feel a force qE and move. They keep moving until their new positions produce a field that cancels the original field everywhere inside. The conductor is then in **electrostatic equilibrium**: there is no net drift current or continuing macroscopic redistribution of charge. Microscopic thermal motion of the electrons remains. The time this takes is so short that the course treats it as instant. So whenever you analyse a conductor "at rest", you may assume equilibrium has already been reached.
 
 ## Four results for a conductor in equilibrium
 
@@ -73,19 +73,33 @@ These four results apply to any shape of conductor in equilibrium. They do not a
 
 ## The field just outside: E = σ/ε₀
 
+<!-- marlbridge-diagram:physcem-b20-conductor-boundary-pillbox -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/physics/physcem-b20-conductor-boundary-pillbox.svg" aria-label="Open full-size diagram: conductor boundary Gaussian pillbox"><img src="/images/learning/physics/physcem-b20-conductor-boundary-pillbox.svg" width="1600" height="1050" alt="Gaussian pillboxes at positively and negatively charged conductor surfaces show outward and inward fields, zero field inside the metal, and flux only through the outside face." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>A Gaussian pillbox straddles the surface; only its outer face contributes flux. The normal field component keeps the sign of the surface charge. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:physcem-b20-conductor-boundary-pillbox -->
+
 Let σ be the surface charge density at some point on the conductor. Use a small **pillbox** Gaussian surface with end area A, with one end just outside the surface and the other end just inside the metal.
 
 - Inside end: E = 0, so no flux.
 - Curved side: just outside, E is perpendicular to the surface, so it is parallel to the curved side. No flux. (The part of the side inside the metal has E = 0 anyway.)
 - Outside end: E is perpendicular to it, so the flux is EA.
 
-Gauss's law: EA = σA/ε₀, so **E = σ/ε₀**, pointing away from the surface if σ > 0 and towards it if σ < 0.
+Gauss's law gives the signed normal component **Eₙ = σ/ε₀**. Thus the field points away from the surface for σ > 0 and towards it for σ < 0; its magnitude is **|E| = |σ|/ε₀**.
 
 Compare this with E = σ/(2ε₀) for a thin isolated sheet (Topic 8.6). There, flux leaves through **both** ends of the pillbox. Here, one end is inside the metal, so all the flux goes out through one end.
 
 The result is local: if a field meter reads 3.0 × 10⁴ N/C just outside a flat part of a charged metal object, the charge density there is σ = ε₀E = (8.85 × 10⁻¹²)(3.0 × 10⁴) = 2.7 × 10⁻⁷ C/m².
 
 ## Where the surface charge gathers: points and edges
+
+<!-- marlbridge-diagram:physcem-b15-conductor-curvature-surface-charge -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/physics/physcem-b15-conductor-curvature-surface-charge.svg" aria-label="Open full-size diagram: physcem-b15-conductor-curvature-surface-charge"><img src="/images/learning/physics/physcem-b15-conductor-curvature-surface-charge.svg" width="1600" height="1050" alt="A single conductor remains equipotential; the sharper region has greater surface charge density and stronger field just outside. Schematic, not to scale." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>A single conductor remains equipotential; the sharper region has greater surface charge density and stronger field just outside. Schematic, not to scale. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:physcem-b15-conductor-curvature-surface-charge -->
 
 Surface charge on a conductor is **not** spread evenly unless the shape is a sphere far from other charges. It is **denser at sharp points and edges** than on flat or gently curved parts. Because E = σ/ε₀, the field just outside is also strongest there.
 
@@ -132,6 +146,14 @@ Outside, the field lines bend so that they meet the surface at 90°. They end on
 </figure>
 
 ## Cavities and electrostatic shielding
+
+<!-- marlbridge-diagram:phys-gap-10-1-cavity-shielding -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/physics/phys-gap-10-1-cavity-shielding.svg" aria-label="Open full-size diagram: phys-gap-10-1-cavity-shielding"><img src="/images/learning/physics/phys-gap-10-1-cavity-shielding.svg" width="1528" height="940" alt="Empty conducting shell blocks an external field; a concentric +3 nC sphere inside a shell of net charge −5 nC induces −3 nC on the inner wall and leaves −2 nC on the outer surface, with cavity, metal and outside fields labelled." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Empty conducting shell blocks an external field; a concentric +3 nC sphere inside a shell of net charge −5 nC induces −3 nC on the inner wall and leaves −2 nC on the outer surface, with cavity, metal and outside fields labelled. — Marlbridge Physics.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:phys-gap-10-1-cavity-shielding -->
+
 
 Now make the conductor **hollow**: a closed metal shell with an empty space (a cavity) inside.
 

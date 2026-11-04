@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1100 560" role="img" aria-labelledby="title desc" font-family="Arial, Helvetica, sans-serif">
+  <title id="title">Superposition of fields from two parallel wires</title>
+  <desc id="desc">Two parallel wires carry equal conventional currents out of the page. At a point midway between them, the first wire's field points up and the second wire's field points down, so they cancel. At a point outside the pair, both field contributions point down and add. A lower vector diagram shows the two opposing field arrows at the midpoint and their zero resultant.</desc>
+  <defs><marker id="arr" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto"><path d="M0 0 L10 5 L0 10 Z" fill="#0b1f3a"/></marker><marker id="greenarr" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto"><path d="M0 0 L10 5 L0 10 Z" fill="#147d64"/></marker></defs>
+  <rect width="1100" height="560" fill="#fff"/>
+  <text x="550" y="42" text-anchor="middle" font-size="27" font-weight="700" fill="#0b1f3a">Fields from two parallel currents add as vectors</text>
+  <text x="550" y="75" text-anchor="middle" font-size="16" fill="#526779">Equal currents are shown for clarity; unequal fields add by their magnitudes and directions.</text>
+  <text x="550" y="120" text-anchor="middle" font-size="19" font-weight="700" fill="#0b1f3a">Cross-section: both currents point out of the page (•)</text>
+  <line x1="210" y1="290" x2="890" y2="290" stroke="#b7c6ce" stroke-width="2" stroke-dasharray="8 7"/>
+  <circle cx="340" cy="290" r="48" fill="#e7f0f4" stroke="#0b1f3a" stroke-width="3"/>
+  <circle cx="760" cy="290" r="48" fill="#e7f0f4" stroke="#0b1f3a" stroke-width="3"/>
+  <circle cx="340" cy="290" r="12" fill="#0b1f3a"/><text x="340" y="296" text-anchor="middle" font-size="16" fill="#fff">•</text>
+  <circle cx="760" cy="290" r="12" fill="#0b1f3a"/><text x="760" y="296" text-anchor="middle" font-size="16" fill="#fff">•</text>
+  <text x="340" y="365" text-anchor="middle" font-size="16" fill="#0b1f3a">wire 1: I₁ out</text>
+  <text x="760" y="365" text-anchor="middle" font-size="16" fill="#0b1f3a">wire 2: I₂ out</text>
+  <circle cx="550" cy="290" r="8" fill="#dc7a19" stroke="#fff" stroke-width="2"/>
+  <text x="573" y="296" font-size="17" font-weight="700" fill="#b75d08">P</text>
+  <line x1="550" y1="278" x2="550" y2="202" stroke="#0b1f3a" stroke-width="4" marker-end="url(#arr)"/>
+  <text x="570" y="220" font-size="16" fill="#0b1f3a">B₁ from wire 1: up</text>
+  <line x1="550" y1="302" x2="550" y2="378" stroke="#147d64" stroke-width="4" marker-end="url(#greenarr)"/>
+  <text x="570" y="378" font-size="16" fill="#147d64">B₂ from wire 2: down</text>
+  <text x="550" y="414" text-anchor="middle" font-size="18" font-weight="700" fill="#0b1f3a">At P: Bₙₑₜ = B₁ + B₂ = 0 for equal currents</text>
+  <line x1="75" y1="455" x2="1025" y2="455" stroke="#d6e0e6" stroke-width="2"/>
+  <text x="550" y="490" text-anchor="middle" font-size="17" fill="#31465a">Outside the pair, the two field arrows point the same way and add. At any point, find each wire's field using B = μ₀I/(2πr), then add with signs.</text>
+  <text x="550" y="520" text-anchor="middle" font-size="13" font-weight="700" letter-spacing="2" fill="#0b1f3a">MARLBRIDGE STUDY RESOURCES</text>
+  <text x="550" y="543" text-anchor="middle" font-size="13" fill="#637783">Schematic; field strength varies with distance. • Marlbridge Physics</text>
+</svg>

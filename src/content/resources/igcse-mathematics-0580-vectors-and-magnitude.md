@@ -99,6 +99,14 @@ When a question says "describe fully the single transformation", you need **both
 
 ## 7.2 Adding and subtracting vectors
 
+<!-- marlbridge-diagram:math-b53-vector-add-subtract-entrywise -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/public/images/learning/mathematics/math-b53-vector-add-subtract-entrywise.svg" aria-label="Open full-size diagram: math-b53-vector-add-subtract-entrywise"><img src="/public/images/learning/mathematics/math-b53-vector-add-subtract-entrywise.svg" width="1528" height="940" alt="For source vectors p=(5,−2) and q=(−1,7), p+q=(4,5), p−q=(6,−9), and q−p=(−6,9)=−(p−q). The visual pairs component arithmetic with the order/direction check." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>For source vectors p=(5,−2) and q=(−1,7), p+q=(4,5), p−q=(6,−9), and q−p=(−6,9)=−(p−q). The visual pairs component arithmetic with the order/direction check. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:math-b53-vector-add-subtract-entrywise -->
+
+
 ### Adding
 
 Add the top entries, then add the bottom entries. Geometrically, **a** + **b** means "do translation **a**, then do translation **b**". The single translation that has the same effect is **a** + **b**. In letters, AB + BC = AC: going from A to B and then from B to C gets you from A to C.
@@ -174,6 +182,14 @@ bottom:  4 + 3y    = −5   →  3y = −9      →  y = −3
 **x = 5, y = −3.**
 
 ### Worked example 6: writing one vector in terms of two others
+
+<!-- marlbridge-diagram:maths-b37-vector-combination-coefficients -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/mathematics/maths-b37-vector-combination-coefficients.svg" aria-label="Open full-size diagram: maths-b37-vector-combination-coefficients"><img src="/images/learning/mathematics/maths-b37-vector-combination-coefficients.svg" width="1600" height="1050" alt="Comparing components in m(2,1)+n(−1,3)=(1,11) gives 2m−n=1 and m+3n=11. Substitution yields m=2,n=3. Check: 2a+3b=(4,2)+(−3,9)=(1,11)." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Comparing components in m(2,1)+n(−1,3)=(1,11) gives 2m−n=1 and m+3n=11. Substitution yields m=2,n=3. Check: 2a+3b=(4,2)+(−3,9)=(1,11). Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:maths-b37-vector-combination-coefficients -->
+
 
 **a** is the column vector (2, 1) and **b** is the column vector (−1, 3). Find the numbers m and n such that m**a** + n**b** is the column vector (1, 11).
 

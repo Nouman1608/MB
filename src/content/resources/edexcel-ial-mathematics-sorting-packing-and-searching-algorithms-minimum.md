@@ -189,6 +189,12 @@ Working: from A the options are B 14, C 9, E 18, so circle 9 (row C). Now column
 The edges in order are AC 9, CD 7, DE 10, EF 8, CB 11, total **45**, the same tree as Kruskal gave.
 
 ## 2.2 Dijkstra's algorithm
+<!-- marlbridge-diagram:maths-b18-dijkstra -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/mathematics/maths-b18-dijkstra.svg" aria-label="Open full-size diagram: maths-b18-dijkstra"><img src="/images/learning/mathematics/maths-b18-dijkstra.svg" width="1600" height="1050" alt="Shortest route A-C-B-D-E has distance 10; settled distances are 0,2,3,8,10." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Shortest route A-C-B-D-E has distance 10; settled distances are 0,2,3,8,10. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:maths-b18-dijkstra -->
 
 Dijkstra finds the shortest path from a start vertex to every other vertex, assuming edge weights are not negative. Give each vertex a box with its order of labelling, its final label and its working values. Start with the start vertex labelled 0 and order 1.
 

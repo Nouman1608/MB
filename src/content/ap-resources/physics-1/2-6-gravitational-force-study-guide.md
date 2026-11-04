@@ -51,7 +51,7 @@ This guide is for the **algebra-based Physics 1 course**. Everything here uses a
 
 ## Gravity is an interaction between masses
 
-Every object with mass attracts every other object with mass. **Newton’s law of universal gravitation** gives the size of the force:
+Every object with mass attracts every other object with mass. For **point masses**, or for **non-overlapping spherically symmetric bodies**, Newton’s law takes the simple form below. It also approximates compact bodies separated by distances much larger than their sizes. The centre-to-centre force and field formulas in this guide use these assumptions:
 
 **F_g = G m₁m₂ / r²**
 
@@ -180,10 +180,19 @@ The model fails when the distance changes by a large fraction of r: a rocket cli
 
 ## Apparent weight
 
+<!-- marlbridge-diagram:physics-ap-apparent-weight-vertical-acceleration-condition -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/physics/physics-ap-apparent-weight-vertical-acceleration-condition.svg" aria-label="Open full-size diagram: physics-ap-apparent-weight-vertical-acceleration-condition"><img src="/images/learning/physics/physics-ap-apparent-weight-vertical-acceleration-condition.svg" width="1600" height="1050" alt="Lift examples compare vertical and horizontal acceleration; only vertical acceleration changes the normal force relative to mg." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Lift examples compare vertical and horizontal acceleration; only vertical acceleration changes the normal force relative to mg. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:physics-ap-apparent-weight-vertical-acceleration-condition -->
+
+
 A bathroom scale does not measure the gravitational force on you. It measures how hard it pushes up on you: the **normal force**. The **apparent weight** of a system is the size of the normal force exerted on it.
 
-- If the system is **not accelerating**, F_N = mg, so apparent weight equals true weight.
-- If the system **accelerates**, F_N ≠ mg, and the apparent weight differs.
+- For a person on a **horizontal scale**, with **only the upward normal force and downward gravity acting vertically**, F_N − mg = ma_y.
+- If the **vertical acceleration** is zero, F_N = mg. A nonzero horizontal acceleration alone does not change this relation.
+- If the **vertical acceleration** is nonzero, F_N differs from mg while contact with the scale is maintained.
 
 ## Worked example 3: riding a lift
 
@@ -228,9 +237,17 @@ A scale marked in kilograms divides the normal force by 9.8, so it would read 61
 
 ### Weightlessness and the equivalence principle
 
+<!-- marlbridge-diagram:physics-ap-equivalence-principle-local-uniform-field -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/physics/physics-ap-equivalence-principle-local-uniform-field.svg" aria-label="Open full-size diagram: physics-ap-equivalence-principle-local-uniform-field"><img src="/images/learning/physics/physics-ap-equivalence-principle-local-uniform-field.svg" width="1600" height="1050" alt="A small cabin in a nearly uniform field illustrates local equivalence; a larger region can reveal field gradients and tidal effects." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>A small cabin in a nearly uniform field illustrates local equivalence; a larger region can reveal field gradients and tidal effects. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:physics-ap-equivalence-principle-local-uniform-field -->
+
+
 A system **appears weightless** when nothing pushes or pulls on it except gravity, or when no forces act at all. In free fall, the scale and the student fall together, so F_N = 0. Astronauts in orbit feel weightless for the same reason. Earth’s field at orbit height is still large (8.7 N/kg at 400 km, from Worked example 2); gravity is simply the only force acting on them.
 
-The **equivalence principle** goes further. Inside a closed lift you cannot do any experiment that tells "accelerating upward at 1.2 m/s² near Earth" apart from "at rest on a planet with g = 11.0 N/kg". An observer in an accelerating (non-inertial) frame cannot separate apparent weight from a real gravitational force.
+The **equivalence principle** is local. In a sufficiently small laboratory, treating the gravitational field as uniform and neglecting tidal variations, local experiments cannot distinguish a uniform gravitational field from the corresponding uniform acceleration. In this approximation, a lift accelerating upward at 1.2 m/s² near Earth gives the same apparent weight as a lift at rest where g = 11.0 N/kg. Extended measurements of field variations can distinguish real gravitational environments.
 
 ## Inertial mass and gravitational mass
 

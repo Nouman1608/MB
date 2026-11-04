@@ -137,6 +137,13 @@ You can reach the same result in one step. Take a Gaussian pillbox with one end 
 
 ## A method for any capacitor
 
+<!-- marlbridge-diagram:physcem-b21-spherical-coaxial-capacitor-geometry -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/physics/physcem-b21-spherical-coaxial-capacitor-geometry.svg" aria-label="Open full-size diagram: spherical and coaxial capacitor geometries"><img src="/images/learning/physics/physcem-b21-spherical-coaxial-capacitor-geometry.svg" width="1600" height="1050" alt="Concentric spherical and coaxial cylindrical capacitors show conductor geometry, charge, Gaussian surfaces, electric field and geometry-specific capacitance formulas." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Use a Gaussian surface matched to the symmetry of each conductor pair: spherical for concentric spheres and cylindrical for coaxial cylinders. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:physcem-b21-spherical-coaxial-capacitor-geometry -->
+
 The parallel-plate result follows a recipe that works for every shape in this course:
 
 1. Put +Q on one conductor and −Q on the other.
@@ -158,6 +165,13 @@ Two checks:
 The coaxial cylindrical capacitor follows the same recipe; it is Worked example 2.
 
 ## A charged particle between the plates
+
+<!-- marlbridge-diagram:physcem-b15-electron-between-capacitor-plates-trajectory -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/physics/physcem-b15-electron-between-capacitor-plates-trajectory.svg" aria-label="Open full-size diagram: physcem-b15-electron-between-capacitor-plates-trajectory"><img src="/images/learning/physics/physcem-b15-electron-between-capacitor-plates-trajectory.svg" width="1600" height="1050" alt="A negative electron enters midway between horizontal plates at 1.0×10⁷ m/s. With ΔV=40 V, d=2.0 cm and length 5.0 cm, it accelerates toward the positive plate and exits after a 4.4 mm deflection, less than its 10 mm clearance. The drawn curve is schematic." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>A negative electron enters midway between horizontal plates at 1.0×10⁷ m/s. With ΔV=40 V, d=2.0 cm and length 5.0 cm, it accelerates toward the positive plate and exits after a 4.4 mm deflection, less than its 10 mm clearance. The drawn curve is schematic. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:physcem-b15-electron-between-capacitor-plates-trajectory -->
 
 The field between the plates is uniform, so a charged particle there feels a constant force **F = qE**. Its acceleration a = qE/m is constant. The motion is just like a projectile near Earth's surface, with qE/m in place of g:
 
@@ -267,6 +281,13 @@ Isolated: E = Q/(ε₀A) does not involve d, and U = Q²/(2C) doubles as C halve
 **Check.** Rearranging, E(a) = ΔV/[a ln(b/a)] = 100 ÷ (4.0 × 10⁻⁴ × 1.322) = 1.89 × 10⁵ V/m. The field is strongest next to the thin wire (E ∝ 1/r). C grows with L, as expected.
 
 ## Worked example 3: an electron passing between plates
+<!-- marlbridge-diagram:physcem-b23-electron-between-capacitor-plates -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/physics/physcem-b23-electron-between-capacitor-plates.svg" aria-label="Open full-size diagram: physcem-b23-electron-between-capacitor-plates"><img src="/images/learning/physics/physcem-b23-electron-between-capacitor-plates.svg" width="1600" height="1050" alt="An electron enters midway between parallel plates at 1.0 × 10⁷ metres per second. Across the 5.0 cm plate length its path curves toward the positive lower plate by 4.4 mm, leaving 5.6 mm clearance from the plate; electric field points upward and force on the electron downward." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>For the worked example, the electron spends 5.0 ns between the plates. Its 4.4 mm downward deflection is less than the 10 mm initial clearance, so it exits. The angle is about 10° below horizontal. Schematic uses consistent gap and deflection scale. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:physcem-b23-electron-between-capacitor-plates -->
+
 
 **Question.** An electron enters the gap between two horizontal plates midway between them, moving at 1.0 × 10⁷ m/s parallel to the plates. The plates are 5.0 cm long and 2.0 cm apart, with ΔV = 40 V. Does it leave the plates, and at what angle?
 

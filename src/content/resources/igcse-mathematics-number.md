@@ -96,6 +96,14 @@ interest (reverse percentages are Extended only, E1.13)
 
 ## Worked examples
 
+<!-- marlbridge-diagram:math-b55-prime-factor-hcf-lcm -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/public/images/learning/mathematics/math-b55-prime-factor-hcf-lcm.svg" aria-label="Open full-size diagram: math-b55-prime-factor-hcf-lcm"><img src="/public/images/learning/mathematics/math-b55-prime-factor-hcf-lcm.svg" width="1528" height="940" alt="The source factorisations are 24=2³×3 and 36=2²×3². HCF uses common primes at the lowest powers (2²×3=12); LCM uses every prime at the highest powers (2³×3²=72). Factor-tree leaves are shown for each integer." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>The source factorisations are 24=2³×3 and 36=2²×3². HCF uses common primes at the lowest powers (2²×3=12); LCM uses every prime at the highest powers (2³×3²=72). Factor-tree leaves are shown for each integer. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:math-b55-prime-factor-hcf-lcm -->
+
+
 **Prime factorisation, HCF and LCM.** Writing a number as a product of
 primes underpins both. For 24 and 36:
 ```

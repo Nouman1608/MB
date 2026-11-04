@@ -14,10 +14,10 @@ prerequisiteResources: ["mb-ap-phys2-14.4-study-guide"]
 learningObjectives:
   - "Tell apart the rest frequency of a source and the frequency an observer measures"
   - "Explain with a wavefront diagram why an approaching source is heard at a higher frequency and a receding one at a lower frequency"
-  - "Predict that there is no shift when source and observer share the same velocity"
-  - "Compare shifts in different situations: a larger relative speed gives a larger difference from the rest frequency"
+  - "Predict no shift when source and observer share the same velocity relative to the same uniform medium (for sound), or have no relative motion (for light)"
+  - "For classical sound in still air, compare source and observer radial speeds relative to the air; do not infer an exact shift from source–observer relative speed alone"
   - "Describe how the observed pitch of a passing source changes with time"
-  - "Apply the same reasoning to light, using red shift and blue shift"
+  - "Identify radial red and blue shifts for light, and distinguish them from the medium-dependent sound model"
 skills: ["1", "2", "3"]
 studyMinutes: 40
 difficulty: "core"
@@ -30,9 +30,9 @@ sources: ["ced-physics-2", "clar-physics-2", "page-physics-2"]
 keyPoints:
   - "The Doppler effect is a difference between the frequency a source emits (its rest frequency) and the frequency an observer measures, caused by relative motion."
   - "Source and observer getting closer: observed frequency is higher. Getting farther apart: observed frequency is lower."
-  - "Same velocity (so the distance between them stays constant): no shift at all."
-  - "A greater relative speed gives a greater difference between observed and rest frequency."
-  - "Light shows the same effect: a receding source is red-shifted (longer λ), an approaching one blue-shifted (shorter λ)."
+  - "Same velocity relative to the same uniform medium (so their separation stays constant): no sound shift."
+  - "For sound, the source and observer velocities relative to the medium enter separately; when one radial speed increases with the other conditions fixed, the shift magnitude increases."
+  - "For radial motion in vacuum, light is red-shifted when source and observer recede and blue-shifted when they approach; use the relativistic light model, not the medium-based sound model."
 faqs:
   - question: "Do I need a Doppler formula for the exam?"
     answer: "No. The course treats the Doppler effect qualitatively. You must predict whether the observed frequency is higher, lower or equal to the rest frequency, compare situations and justify your answer, often with a wavefront diagram."
@@ -40,7 +40,7 @@ faqs:
     answer: "No. If the car moves straight toward you at constant speed, the pitch you hear is constant and higher than the rest pitch. It gets louder as the car approaches, but the pitch only drops when the car passes you."
 version: "1.0"
 publishedDate: 2026-10-05
-updatedDate: 2026-10-05
+updatedDate: 2026-11-01
 editorialStatus: "drafted"
 checkedBy: "marlbridge-academic-team"
 checkedDate: 2026-10-05
@@ -51,12 +51,14 @@ author: "marlbridge-academic-team"
 
 Stand by a road and listen to a car sounding its horn as it goes past. While the car comes toward you, the horn has one pitch. As it passes, the pitch drops. The driver, sitting in the car, hears no change at all. The horn did not change. What changed is the **relative motion** between the horn and the person listening.
 
+For the sound examples below, assume still, uniform air and source and observer speeds small compared with the speed of sound unless stated otherwise. For sound, compare their velocities relative to the air; the light section uses a separate vacuum model.
+
 Two frequencies are involved:
 
 - The **rest frequency f₀** (also called the source frequency) is the frequency at which the source vibrates. It is what an observer moving with the source measures.
 - The **observed frequency f** is the number of wavefronts (crests or compressions) that reach a particular observer each second.
 
-The **Doppler effect** is the difference between these two frequencies caused by the relative velocity of the source and the observer. For sound, a higher observed frequency is heard as a higher pitch (Topic 14.2).
+The **Doppler effect** is the difference between these two frequencies caused by motion. For sound, the observed frequency depends on the source and observer velocities relative to the medium: source motion changes the wavelength in the medium, while observer motion changes the rate at which wavefronts are met. A higher observed frequency is heard as a higher pitch (Topic 14.2).
 
 The source does not change how fast it vibrates. A siren that vibrates 600 times per second still vibrates 600 times per second whether it is parked or speeding. Only the *rate at which wavefronts arrive* at you can change.
 
@@ -68,7 +70,7 @@ Think about the wavefronts one at a time. The source sends out one crest every p
 - If the distance is **shrinking**, each crest starts from a little closer than the one before. Its trip is shorter, so it catches up a little on the crest ahead. Crests arrive **less** than T₀ apart, so f > f₀.
 - If the distance is **growing**, each trip is longer than the last. Crests arrive **more** than T₀ apart, so f < f₀.
 
-This argument works whether the source moves, the observer moves, or both move. It also shows that the size of the effect depends on how quickly the distance changes. A faster approach shortens each trip by more, so the observed frequency moves further from f₀. That is the rule you will use most: **greater relative speed, greater shift**.
+This travel-time picture applies to sound in a uniform medium. The sign follows whether source and observer are approaching or receding, but the exact shift depends on their separate radial velocities relative to the medium: source motion changes the emitted wavelength pattern, while observer motion changes the encounter rate. A relative closing speed alone is not enough to calculate the shift when both move.
 
 ## A moving source: the wavefront picture
 
@@ -118,23 +120,38 @@ For a sound source moving through still air:
 
 ## A moving observer
 
+<!-- marlbridge-diagram:complete-phys-doppler-moving-observer -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/physics/complete-phys-doppler-moving-observer.svg" aria-label="Open full-size diagram: complete-phys-doppler-moving-observer"><img src="/images/learning/physics/complete-phys-doppler-moving-observer.svg" width="1520" height="940" alt="Concentric wavefronts stay centred on a stationary source. A moving observer approaches, meeting adjacent crests at speed v + vo; the encounter interval is λ/(v+vo)." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>For a moving observer approaching a stationary sound source, fₒ = f(v + vₒ)/v in a uniform medium. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:complete-phys-doppler-moving-observer -->
+
+
 Now let the source sit still and the observer move. The circles are concentric and evenly spaced again. Nothing about the wave in the air has changed. But an observer running **toward** the source meets the crests more often than one standing still, because she runs into them as they come toward her. She measures f > f₀. An observer moving **away** has to let each crest catch up with her, so she meets them less often and measures f < f₀.
 
 So the cause looks different (wavelength squeezed in the air, or crests met more often), but the rule is the same: **closing distance raises f, opening distance lowers f**.
 
 ## What sets the size of the shift
 
-The course asks you to compare shifts, not to calculate them. Three rules cover almost every question.
+The course asks you to compare shifts, not to calculate them. The rules below describe classical sound in a uniform medium at speeds small compared with the wave speed.
 
-1. **Direction of relative motion decides the sign.** Approaching: f > f₀. Receding: f < f₀.
-2. **Same velocity means no shift.** If source and observer move together, with the same speed in the same direction, the distance between them never changes, so f = f₀. A passenger on a train hears the train's own announcements at their normal pitch. This holds even if a steady wind blows, as long as the distance between source and observer stays constant.
-3. **Greater relative speed, greater shift.** A siren approaching at 30 m/s is heard at a higher frequency than the same siren approaching at 15 m/s. Receding at 30 m/s gives a lower frequency than receding at 15 m/s.
+1. **Radial approach or recession decides the sign.** In the classical sound model, approaching gives f > f₀ and receding gives f < f₀.
+2. **Same velocity through the medium means no shift.** If source and observer have the same velocity through the same uniform medium, the spacing and travel time between successive wavefronts they emit and meet remain constant, so f = f₀.
+3. **A larger radial speed gives a larger shift when other conditions are fixed.** For the same source, medium and stationary observer, a siren approaching at 30 m/s is heard at a higher frequency than at 15 m/s; receding at 30 m/s gives a lower frequency than at 15 m/s. When source and observer both move, compare their separate velocities relative to the medium.
 
-Only motion **along the line joining** source and observer matters. Motion across that line does not change the distance (at that instant), so it does not shift the frequency.
+For the course’s low-speed sound model, only the radial components of source and observer velocity relative to the medium contribute to the instantaneous shift. A transverse component contributes no radial speed at that instant. Light has a relativistic transverse Doppler shift; that effect is outside this sound model.
 
 ## A source that passes you
 
 Put the three rules together for a train sounding its horn as it passes a platform at constant speed.
+
+<!-- marlbridge-diagram:phys2-b22-passing-source-radial-doppler-timeline -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/physics/phys2-b22-passing-source-radial-doppler-timeline.svg" aria-label="Open full-size diagram: A passing source: pitch follows radial motion"><img src="/images/learning/physics/phys2-b22-passing-source-radial-doppler-timeline.svg" width="1600" height="1050" alt="A sound source passes a stationary listener. The source radial velocity points toward the listener before closest approach, is zero at closest approach, and points away afterward; a qualitative frequency-time curve falls through the rest frequency. Assumes sound in still air; the graph is schematic." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>As a source passes a stationary listener, the radial component changes from toward to zero to away, so the observed pitch falls through the rest frequency. The curve is qualitative and assumes sound in still air. — Marlbridge Physics.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:phys2-b22-passing-source-radial-doppler-timeline -->
 
 - **Far away and approaching:** the train is closing in almost head-on. You hear a steady pitch above f₀, getting louder.
 - **Passing:** the train's motion turns from "toward you" to "across your line of sight" to "away from you". The pitch falls quickly. The sound emitted when the train is closest to you (moving across your line of sight) arrives at f₀.
@@ -145,6 +162,16 @@ The closer the track is to you, the more sudden the drop. A faster train gives a
 Keep **pitch** and **loudness** separate. Loudness depends on amplitude, which grows as the source gets nearer (Topic 14.1). Pitch depends on frequency. The Doppler effect is about frequency only.
 
 ## The Doppler effect for light
+
+<!-- marlbridge-diagram:phys2-b27-light-doppler-spectral-line-shifts -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/physics/phys2-b27-light-doppler-spectral-line-shifts.svg" aria-label="Open full-size diagram: phys2-b27-light-doppler-spectral-line-shifts"><img src="/images/learning/physics/phys2-b27-light-doppler-spectral-line-shifts.svg" width="1600" height="1050" alt="Three schematic spectra show the same spectral line at a laboratory rest wavelength, shifted to a longer wavelength toward red for a source receding along the line of sight, and shifted to a shorter wavelength toward blue or violet for an approaching source. A wavelength axis increases to the right; no numerical scale or transverse relativistic effect is shown." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Three schematic spectra show the same spectral line at a laboratory rest wavelength, shifted to a longer wavelength toward red for a source receding along the line of sight, and shifted to a shorter wavelength toward blue or violet for an approaching source. A wavelength axis increases to the right; no numerical scale or transverse relativistic effect is shown. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:phys2-b27-light-doppler-spectral-line-shifts -->
+
+
+For this comparison, consider motion along the line of sight. Transverse relativistic Doppler effects are outside this simple red/blue-shift account.
 
 Electromagnetic waves need no medium (Topic 14.4), but the Doppler effect still happens: what matters is the relative velocity of source and observer.
 
@@ -184,19 +211,19 @@ Astronomers compare the wavelengths of spectral lines from stars and galaxies wi
 - **T:** The fire engine and listener are both at rest, and a steady wind blows from the engine toward the listener.
 
 1. **Sort by direction.** In P and Q the distance is shrinking, so f > f₀. In S the distance is growing, so f < f₀. In R and T the distance never changes, so every crest has the same trip and f = f₀.
-2. **Compare P and Q.** Both are approaching, but the distance shrinks at 25 m/s in Q and only 2 m/s in P. A greater relative speed gives a greater shift, so f_Q > f_P.
+2. **Compare P and Q.** P changes the encounter rate because the listener walks toward a stationary source at 2 m/s. In Q, the source moves toward a stationary listener at 25 m/s and compresses the wavefronts ahead of it more strongly. For the stated sound speed, Q gives the larger shift, so f_Q > f_P. This comparison does not establish a universal rule based only on relative speed.
 3. **The wind in T.** The wind carries all the crests along equally. They still leave the siren f₀ times per second and, with a constant trip, they reach the listener f₀ times per second. No shift.
 
 **Answer.** Q > P > R = T > S.
 
-**Interpretation.** Notice that you did not need any formula. The argument used only three things: the direction of the relative motion, whether the separation is changing, and how fast it changes.
+**Interpretation.** Notice that you did not need any formula. For these still-air cases, compare the direction and rate of change of separation. For general sound cases, also identify whether the source, observer or both move relative to the medium.
 
 ## Common misconceptions
 
 - **"The source's frequency changes."** The siren vibrates at the same rate throughout. Only the frequency observed changes.
-- **"The pitch rises as the source gets closer."** For a source approaching at constant velocity the pitch is constant (and above f₀). What rises is the loudness. The pitch falls only as the source passes.
+- **"The pitch rises as the source gets closer."** For a source moving directly toward a stationary listener at constant speed through still air, the pitch is constant and above f₀ while the source approaches; loudness rises as it gets closer. On an off-axis pass, the radial component changes continuously, so the pitch changes before and after closest approach.
 - **"A moving source makes the sound travel faster."** In a medium, the wave speed depends on the medium. The motion of the source changes the wavelength, not the wave speed.
-- **"Any motion causes a shift."** Moving together at the same velocity, or moving across the line of sight, does not change the distance, so there is no shift.
+- **"Any motion causes a shift."** In the low-speed sound model, equal source and observer velocities through the same uniform medium give no shift; a purely transverse relative component gives no instantaneous radial shift. Do not apply this sound rule to relativistic light.
 - **"Louder means higher."** Loudness depends on amplitude; pitch depends on frequency. They are different properties.
 - **"Light cannot show a Doppler shift because it needs no medium."** The shift depends on relative velocity, so light is shifted too: red shift when receding, blue shift when approaching.
 - **"Red shift means the object turns red."** It means every line in its spectrum moves to a longer wavelength. For the speeds of most stars the shift is tiny: it is found by measuring line positions, not by looking at the colour.

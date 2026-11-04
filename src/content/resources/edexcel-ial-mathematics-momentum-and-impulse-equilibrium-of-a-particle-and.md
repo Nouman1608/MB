@@ -193,6 +193,14 @@ The weight of a uniform rod acts at its midpoint. A light rod has no weight. For
 
 ### Example 10: two supports
 
+<!-- marlbridge-diagram:maths-b22-plank-support-reactions-moments -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/mathematics/maths-b22-plank-support-reactions-moments.svg" aria-label="Open full-size diagram: maths-b22-plank-support-reactions-moments"><img src="/images/learning/mathematics/maths-b22-plank-support-reactions-moments.svg" width="1600" height="1050" alt="A uniform 3 m plank of mass 16 kg has supports C at 0.4 m from A and D at 0.6 m from B. Its weight 156.8 N acts at the midpoint, 1.1 m to the right of C; CD=2 m. Moments about C give RD×2=156.8×1.1, so RD=86.24 N; vertical equilibrium gives RC=70.56 N." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>A uniform 3 m plank of mass 16 kg has supports C at 0.4 m from A and D at 0.6 m from B. Its weight 156.8 N acts at the midpoint, 1.1 m to the right of C; CD=2 m. Moments about C give RD×2=156.8×1.1, so RD=86.24 N; vertical equilibrium gives RC=70.56 N. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:maths-b22-plank-support-reactions-moments -->
+
+
 A uniform plank AB of length 3 m and mass 16 kg lies on supports at C and D. C is 0.4 m from A and D is 0.6 m from B, so CD = 2 m and the weight acts 1.1 m from C. With g = 9.8, the weight is 156.8 N.
 
 ```

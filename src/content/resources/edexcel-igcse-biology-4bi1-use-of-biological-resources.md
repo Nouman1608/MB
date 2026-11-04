@@ -53,6 +53,11 @@ Polythene tunnels are cheaper and easier to put up over field crops but give les
 
 ### Carbon dioxide and temperature (5.2)
 
+
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <!-- marlbridge-diagram:complete-bio-photosynthesis-rate-curves --><a href="/images/learning/biology/complete-bio-photosynthesis-rate-curves.svg" aria-label="Open full-size diagram: Photosynthesis: rising rates, plateaus and an optimum" title="Photosynthesis: rising rates, plateaus and an optimum"><img src="/images/learning/biology/complete-bio-photosynthesis-rate-curves.svg" width="1528" height="871" alt="Illustrative light-response curves share a rising low-light region but have different carbon-dioxide-dependent plateaus at the same temperature. A second qualitative curve shows a temperature optimum and decline at excessive heat. Neither curve is empirical data." title="Photosynthesis: rising rates, plateaus and an optimum" loading="lazy" decoding="async" style="display:block;width:100%;height:auto;" /></a>
+  <figcaption>Schematic light, carbon-dioxide and temperature response curves illustrate rate limits; they are not measured data. Select the diagram to enlarge it.</figcaption>
+</figure>
 Photosynthesis is limited by whichever factor is in shortest supply. Outside, carbon dioxide concentration and temperature often limit the rate. In a glasshouse, growers burn paraffin or gas, which releases carbon dioxide **and** heat.
 
 - More carbon dioxide → faster photosynthesis → more glucose for growth → higher yield.
@@ -84,8 +89,8 @@ Pests (insects, fungi, weeds) reduce yield. They eat crops, spread disease, or c
 | | Pesticides | Biological control |
 |---|---|---|
 | Method | Chemicals that kill pests | A predator, parasite or pathogen of the pest is introduced |
-| Advantages | Act quickly; easy to apply; kill most of the pest | Specific to the pest; no chemical residues on food; self-sustaining once established; pests do not become resistant |
-| Disadvantages | Kill non-target species, including useful insects; can build up along food chains; pests can become resistant; must be reapplied; residues on food | Slow; does not wipe out the pest; the control organism may eat other species or itself become a pest |
+| Advantages | Act quickly; easy to apply; can reduce pest numbers rapidly | Can reduce use of synthetic pesticides; a well-chosen control organism may target the pest more selectively; can provide continuing control when it establishes |
+| Disadvantages | May harm non-target species; repeated use can select for resistant pests; some persistent chemicals can leave residues or bioaccumulate; applications may need repeating | Often slower and may not eliminate the pest; the introduced organism may affect non-target species, become invasive, or fail to establish |
 
 ## (a) Food production: micro-organisms
 
@@ -102,7 +107,15 @@ Word equation: glucose → ethanol + carbon dioxide (anaerobic respiration in ye
 
 ### Practical: anaerobic respiration in yeast (5.6)
 
-Mix yeast with sugar solution in a boiling tube. Cover the surface with a layer of oil to keep oxygen out. Connect a delivery tube to a gas syringe or into water, and measure the volume of gas, or count bubbles, in a fixed time. Change one condition, such as temperature or sugar concentration. Keep the others the same: mass of yeast, volume and concentration of sugar solution, time to equilibrate in the water bath.
+<!-- marlbridge-diagram:bio-b14-yeast-fermentation-apparatus -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/biology/bio-b14-yeast-fermentation-apparatus.svg" aria-label="Open full-size diagram: bio-b14-yeast-fermentation-apparatus"><img src="/images/learning/biology/bio-b14-yeast-fermentation-apparatus.svg" width="1600" height="960" alt="Yeast and glucose suspension sits in a boiling tube in a controlled water bath. A thin oil layer limits new oxygen entry; a delivery tube leads to a gas syringe that records collected gas over a fixed time. Oil does not instantly remove dissolved oxygen." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Yeast and glucose suspension sits in a boiling tube in a controlled water bath. A thin oil layer limits new oxygen entry; a delivery tube leads to a gas syringe that records collected gas over a fixed time. Oil does not instantly remove dissolved oxygen. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:bio-b14-yeast-fermentation-apparatus -->
+
+
+Mix yeast with sugar solution in a boiling tube. Cover the surface with a thin layer of oil to limit oxygen entering from the air. The oil does not immediately remove oxygen already dissolved in the liquid; allow conditions to stabilise and interpret gas production with that limitation in mind. Yeast can also ferment sugar when oxygen is available. Connect a delivery tube to a gas syringe or into water, and measure the volume of gas, or count bubbles, in a fixed time. Change one condition, such as temperature or sugar concentration. Keep the others the same: mass of yeast, volume and concentration of sugar solution, time to equilibrate in the water bath.
 
 **Worked example 2.** At 25 °C, 9.0 cm³ of gas is collected in 6 minutes. At 35 °C, 18.0 cm³ is collected in 6 minutes.
 
@@ -115,13 +128,21 @@ The rate doubles, because the enzymes for respiration work faster at 35 °C. At 
 
 ### *Lactobacillus* and yoghurt (5.7)
 
-1. Milk is heated (pasteurised) to kill other bacteria, then cooled.
+1. Milk is heated (pasteurised) to reduce competing microorganisms, then cooled. Pasteurisation is not sterilisation; it does not guarantee that every microorganism has been destroyed.
 2. *Lactobacillus* bacteria are added.
 3. The mixture is kept warm (incubated) for several hours.
 4. The bacteria ferment **lactose** into **lactic acid**.
 5. The acid lowers the pH, so milk proteins clot and thicken. The acid gives yoghurt its sour taste and slows the growth of other microorganisms.
 
 ### Industrial fermenters (5.8)
+
+<!-- marlbridge-diagram:bio-b14-industrial-fermenter-cutaway -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/biology/bio-b14-industrial-fermenter-cutaway.svg" aria-label="Open full-size diagram: bio-b14-industrial-fermenter-cutaway"><img src="/images/learning/biology/bio-b14-industrial-fermenter-cutaway.svg" width="1600" height="960" alt="A vessel cutaway labels the filtered-air inlet and exhaust, impeller and baffles, cooling jacket and water flow, temperature and pH probes, nutrient feed, and controlled sample or harvest port." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>A vessel cutaway labels the filtered-air inlet and exhaust, impeller and baffles, cooling jacket and water flow, temperature and pH probes, nutrient feed, and controlled sample or harvest port. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:bio-b14-industrial-fermenter-cutaway -->
+
 
 A fermenter is a large steel vessel for growing microorganisms in huge numbers.
 
@@ -138,15 +159,29 @@ A fermenter is a large steel vessel for growing microorganisms in huge numbers.
 
 Fish farms produce large amounts of protein in a small area. Farmers control:
 
-- **Water quality**: oxygen level kept high; water filtered or changed.
+- **Water quality**: oxygen level kept high; water filtered or changed. Filtration and water exchange reduce wastes but may not remove every waste product.
 - **Intraspecific predation** (fish eating their own species): fish kept in tanks by size or age.
 - **Interspecific predation** (other species eating the fish): nets over tanks; only one species per tank.
-- **Disease**: fish kept at a controlled density; antibiotics or pesticides for parasites used; sick fish removed.
+- **Disease**: fish kept at a controlled density; veterinary treatment used when indicated and in line with local rules; parasite-control methods are selected carefully because medicines can affect non-target organisms and contribute to resistance; sick fish removed.
 - **Waste products**: removed by filtering or water flow, so they do not pollute the water.
-- **Feeding**: high-protein food given little and often, so there is no uneaten waste and growth is fast.
+- **Feeding**: high-protein food given in controlled amounts to support growth and reduce uneaten feed; waste can still be produced.
 - **Selective breeding**: fish chosen for fast growth or disease resistance.
 
+<!-- marlbridge-diagram:bio-gap-igcse-fish-farm-layout -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/biology/bio-gap-igcse-fish-farm-layout.svg" aria-label="Open full-size diagram: bio-gap-igcse-fish-farm-layout"><img src="/images/learning/biology/bio-gap-igcse-fish-farm-layout.svg" width="1528" height="940" alt="Schematic fish farm shows filtered or replaced water, separate net-covered tanks for different species and size or age cohorts, controlled stocking density, waste removal, feeding and selective breeding." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Fish farming example layout: not to scale; farm systems and management protocols vary. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:bio-gap-igcse-fish-farm-layout -->
+
 ## (b) Selective breeding (5.10, 5.11)
+
+<!-- marlbridge-diagram:bio-b16-edexcel-selective-breeding-tradeoffs -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/biology/bio-b16-edexcel-selective-breeding-tradeoffs.svg" aria-label="Open full-size diagram: selective breeding steps and food-production trade-offs"><img src="/images/learning/biology/bio-b16-edexcel-selective-breeding-tradeoffs.svg" width="1528" height="871" alt="Iterative selective breeding: choose parents with useful heritable traits, cross them, assess offspring, select and breed selected offspring over generations; the diagram compares this with genetic modification, environmental control and biological control" loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Selective breeding is iterative: select parents, assess offspring and repeat selection over generations. The comparison panel separates breeding from environmental control, genetic modification and biological control. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:bio-b16-edexcel-selective-breeding-tradeoffs -->
 
 1. Choose parents that show the desired characteristic.
 2. Breed them together.
@@ -157,30 +192,45 @@ Fish farms produce large amounts of protein in a small area. Farmers control:
 **Plants**: high yield, disease resistance, short stems (less wind damage), drought tolerance.
 **Animals**: cattle with high milk yield or more meat, sheep with more wool, hens that lay more eggs.
 
-Selective breeding is slow and reduces variation in the population, so it may be harder for the population to survive a new disease.
+Selective breeding is slow and can reduce genetic variation, especially when few parents are used repeatedly. This may make a population less able to withstand a new disease; the risk depends on the breeding strategy and how much variation is retained.
 
 ## (c) Genetic modification (5.12–5.16)
 
 - **Restriction enzymes** cut DNA at specific base sequences, often leaving short single-stranded "sticky ends".
 - **Ligase** enzymes join pieces of DNA together.
-- **Vectors** carry DNA into another cell. **Plasmids** are small circles of DNA in bacteria. **Viruses** can be used because they insert their DNA into the host cell.
+- **Vectors** carry DNA into another cell. **Plasmids** are small circles of DNA in bacteria. **Some viruses** can act as vectors because they deliver genetic material into host cells; whether the DNA integrates into the host genome depends on the vector and method.
 - DNA made by combining DNA from two sources is **recombinant DNA**.
 - **Transgenic** means genetic material has been transferred from one species to a different species.
 
 ### Human insulin from bacteria (5.14)
 
-1. The human insulin gene is cut out with a restriction enzyme.
-2. A plasmid is cut with the **same** restriction enzyme, so the sticky ends match.
-3. The gene and plasmid are joined with **ligase**, forming a recombinant plasmid.
-4. The plasmid is put into a bacterium.
-5. The bacteria are grown in a fermenter. They multiply and each one makes human insulin.
-6. Insulin is extracted and purified.
+<!-- marlbridge-diagram:bio-b30-edexcel-4bi1-insulin-plasmid-pathway -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/biology/bio-b30-edexcel-4bi1-insulin-plasmid-pathway.svg" aria-label="Open full-size diagram: bio-b30-edexcel-4bi1-insulin-plasmid-pathway"><img src="/images/learning/biology/bio-b30-edexcel-4bi1-insulin-plasmid-pathway.svg" width="1528" height="940" alt="Steps for producing human insulin in bacteria: an intron-free coding sequence is joined to a plasmid with bacterial control sequences, transformed cells are selected and expression is checked before insulin is processed and purified" loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Insulin production uses an intron-free coding sequence with bacterial expression signals. Transformants must be selected and expression verified; downstream processing and purification are required. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:bio-b30-edexcel-4bi1-insulin-plasmid-pathway -->
+
+
+1. An intron-free human insulin coding sequence (often made as cDNA from processed mRNA or synthesised) is prepared; bacterial cells cannot splice human introns from genomic DNA.
+2. A plasmid with suitable bacterial promoter and translation signals is cut, and the coding sequence is prepared with compatible ends.
+3. The coding sequence and plasmid are joined with **ligase**, forming recombinant DNA.
+4. The plasmid is introduced into bacteria. Not every cell takes it up, so transformants are selected and the construct is checked.
+5. Selected bacteria are grown in a fermenter under controlled conditions. Insulin expression is verified and optimised; not every transformed cell necessarily produces the target protein.
+6. The product is harvested, processed as needed, and purified to meet quality requirements.
 
 ### GM plants (5.15)
 
-Genes can give crop plants resistance to insect pests (less damage, fewer pesticides), resistance to herbicides (weeds can be sprayed without harming the crop), tolerance of drought, or higher nutritional value. Each can raise the yield or quality of food.
+Genes can give crop plants resistance to insect pests (which may reduce damage and pesticide use), resistance to herbicides (allowing weeds to be controlled without harming a tolerant crop), tolerance of drought, or higher nutritional value. Effects on yield, pesticide use and food quality depend on the crop, trait, growing conditions and management.
 
 ## (d) Cloning (5.17B–5.20B) -- Paper 2 only
+
+<!-- marlbridge-diagram:bio-b34-edexcel-4bi1-cloning-scnt-meristem -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/biology/bio-b34-edexcel-4bi1-cloning-scnt-meristem.svg" aria-label="Open full-size diagram: plant micropropagation and mammalian somatic-cell nuclear transfer"><img src="/images/learning/biology/bio-b34-edexcel-4bi1-cloning-scnt-meristem.svg" width="1528" height="871" alt="Two cloning methods: plant micropropagation from meristem explants through sterile culture to plantlets, and mammalian somatic-cell nuclear transfer using an enucleated egg, donor nucleus, embryo and surrogate" loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Micropropagation and somatic-cell nuclear transfer are different cloning methods. The diagram shows their key stages; outcomes are not guaranteed to be perfectly identical in phenotype. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:bio-b34-edexcel-4bi1-cloning-scnt-meristem -->
 
 ### Micropropagation (5.17B, 5.18B)
 
@@ -189,7 +239,7 @@ Genes can give crop plants resistance to insect pests (less damage, fewer pestic
 3. Explants are placed on sterile agar containing nutrients and plant hormones, **in vitro**.
 4. They grow into small plantlets, which are moved to compost.
 
-Thousands of plants can be produced quickly from one parent, in a small space, at any time of year. They are genetically identical, so all show the parent's desirable characteristics, such as flower colour or high yield. The drawback is no variation: one disease could affect every plant.
+Many plants can be produced rapidly from selected parent tissue in a small space under controlled conditions. They are intended to be genetically very similar, so a selected trait is often retained; mutations or culture variation can occur. Low variation can leave a crop vulnerable if a disease affects that genotype.
 
 ### Cloning a mammal: Dolly the sheep (5.19B)
 
@@ -197,11 +247,11 @@ Thousands of plants can be produced quickly from one parent, in a small space, a
 2. An egg cell is taken from sheep B, and its nucleus is removed (**enucleated**).
 3. The diploid nucleus from sheep A is inserted into the enucleated egg; an electric shock makes it divide.
 4. The embryo develops and is placed in the uterus of a surrogate sheep C.
-5. The lamb is genetically identical to sheep A.
+5. The lamb has almost the same nuclear genotype as sheep A, the nucleus donor. Its mitochondrial DNA is mainly from the egg donor, and epigenetic differences, mutations and development mean phenotype is not guaranteed to be identical.
 
 ### Cloned transgenic animals (5.20B)
 
-A human gene for a useful protein is inserted into an animal embryo, so the animal produces the protein, for example in its milk. That transgenic animal can then be cloned, giving a herd that all make the human protein, which is extracted from the milk.
+A human gene for a useful protein is inserted into an animal embryo, so the animal produces the protein, for example in its milk. A transgenic animal that expresses the target protein can be bred or cloned. Cloning may help reproduce the selected nuclear genotype, but expression level and phenotype can vary; the protein must be harvested and purified.
 
 ## Common errors
 

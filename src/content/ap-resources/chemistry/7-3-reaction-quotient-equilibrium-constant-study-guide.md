@@ -81,7 +81,7 @@ The key idea is that the reaction always changes the mixture so that **Q moves t
 <figure>
 <svg viewBox="0 0 640 320" role="img" aria-labelledby="qk-time-title qk-time-desc" xmlns="http://www.w3.org/2000/svg" font-family="system-ui, sans-serif">
 <title id="qk-time-title">Reaction quotient against time for two runs of the same reaction</title>
-<desc id="qk-time-desc">Graph of Q, with no unit, on the vertical axis from 0 to 10, against time in minutes on the horizontal axis from 0 to 30. Run 1 starts with only A, so Q starts at 0 and rises, quickly at first and then more slowly, levelling off at 4.0. Run 2 starts with mostly B, so Q starts at 9.0 and falls, levelling off at 4.0. A dotted horizontal line at Q = 4.0 is labelled K = 4.0. After about 20 minutes both curves lie on this line.</desc>
+<desc id="qk-time-desc">Graph of Q, with no unit, on the vertical axis from 0 to 10, against time in minutes on the horizontal axis from 0 to 30. Run 1 starts with only A, so Q starts at 0 and rises towards 4.0. Run 2 starts with mostly B, so Q starts at 9.0 and falls towards 4.0. A dotted horizontal line at Q = 4.0 is labelled K = 4.0. Both curves flatten as they approach equilibrium; the model's early slopes differ, so the graph does not imply a universal rate of change for Q.</desc>
 <line x1="80" y1="260" x2="610" y2="260" stroke="#1d2b44" stroke-width="2"/>
 <line x1="80" y1="260" x2="80" y2="30" stroke="#1d2b44" stroke-width="2"/>
 <g font-size="12" fill="#1d2b44" text-anchor="middle">
@@ -116,7 +116,7 @@ The key idea is that the reaction always changes the mixture so that **Q moves t
 Read the graph in three steps:
 
 - **Axes.** Q has no unit; time is in minutes. The scale goes up in even steps (2 on Q, 5 min on time).
-- **Shape.** Q changes fastest at the start, then more slowly as the forward and reverse rates get closer.
+- **Shape.** In both plotted runs Q approaches the same K. Its slope need not be greatest at the start: Q is a ratio of concentrations, so its time dependence depends on how those concentrations and the reaction rates change. Read the actual curve rather than assuming a universal initial steepness.
 - **Flat part.** Once the line is flat, the system is at equilibrium and the flat value **is** K. Both runs give 4.0.
 
 A Q-time graph is a good way to show K because it separates the one constant value (K) from the many values Q passes through on the way. Which direction a reaction runs for a given Q and K is developed in Topic 7.7.

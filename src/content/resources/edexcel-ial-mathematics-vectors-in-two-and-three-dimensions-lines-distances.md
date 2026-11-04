@@ -75,6 +75,14 @@ This is |AB|, the magnitude of the vector between the points. It does not matter
 
 **Worked example 2.** A is (3, −2, 4) and B is (9, 2, 16).
 
+<!-- marlbridge-diagram:maths-b26-3d-vector-displacement-distance -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/mathematics/maths-b26-3d-vector-displacement-distance.svg" aria-label="Open full-size diagram: maths-b26-3d-vector-displacement-distance"><img src="/images/learning/mathematics/maths-b26-3d-vector-displacement-distance.svg" width="1600" height="1050" alt="From A=(3,−2,4) to B=(9,2,16), AB=B−A=(6,4,12). Its magnitude is √(6²+4²+12²)=√196=14. The midpoint is (6,0,10)." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>From A=(3,−2,4) to B=(9,2,16), AB=B−A=(6,4,12). Its magnitude is √(6²+4²+12²)=√196=14. The midpoint is (6,0,10). Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:maths-b26-3d-vector-displacement-distance -->
+
+
 ```
 AB = (9 − 3)i + (2 − (−2))j + (16 − 4)k = 6i + 4j + 12k
 |AB|² = 36 + 16 + 144 = 196, so |AB| = 14

@@ -125,6 +125,14 @@ Check with the 7 kg: 7 × (9.8 − 3.92) = 41.16 ✓
 
 ### Worked example 5: table, pulley and friction
 
+<!-- marlbridge-diagram:math-b72-oxfordaqa-connected-particles-table-pulley-friction -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/public/images/learning/mathematics/math-b72-oxfordaqa-connected-particles-table-pulley-friction.svg" aria-label="Open full-size diagram: math-b72-oxfordaqa-connected-particles-table-pulley-friction"><img src="/public/images/learning/mathematics/math-b72-oxfordaqa-connected-particles-table-pulley-friction.svg" width="1528" height="940" alt="A 10 kg block on a rough table connects over a pulley to a hanging 4 kg block; force arrows, shared acceleration, tension and the later slack-string slide are shown." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>A 10 kg block on a rough table connects over a pulley to a hanging 4 kg block; force arrows, shared acceleration, tension and the later slack-string slide are shown.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:math-b72-oxfordaqa-connected-particles-table-pulley-friction -->
+
+
 A block A of mass 10 kg rests on a rough horizontal table, with μ = 0.25. A light string runs from A to a block B of mass 4 kg, passing over a smooth pulley at the table edge so that B hangs beneath it. Both are let go together. (a) Find the acceleration and the tension. (b) B reaches the floor after falling 1.4 m. Find how much further A slides, assuming it does not reach the pulley.
 
 ```

@@ -141,6 +141,13 @@ Use the same unit for both sides (1 mm = 1000 micrometres; 1 micrometre = 1000 n
 
 **(i) Observations and labelled drawings.** Suitable animal cells include cheek epithelial cells, stained with methylene blue, or a prepared blood smear.
 
+<!-- marlbridge-diagram:bio-open-134-cheek-cell-cil12594 -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <img src="/images/learning/biology/bio-open-134-cheek-cell-cil12594.jpg" alt="Authentic composite light micrographs of a human cheek squamous epithelial cell under bright-field, phase-contrast and differential-interference-contrast microscopy; the source image retains its 15 micrometre scale bar." width="1397" height="3281" loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" />
+  <figcaption>Human cheek epithelial cell, CIL:12594. Graham Wright, Cell Image Library; <a href="https://www.cellimagelibrary.org/images/12594">source record</a>, <a href="https://www.cellimagelibrary.org/licensing">public domain</a>. The original 15 µm scale bar is retained.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:bio-open-134-cheek-cell-cil12594 -->
+
 1. Place a thin smear on a slide, add stain, lower the coverslip slowly from one edge so that bubbles are not trapped.
 2. Start on the lowest power objective, focus with the coarse knob, then the fine knob; move up to higher power only after centring the cells.
 3. Draw with a sharp pencil, in clear continuous lines, no shading and no colouring. Draw a few cells, large, with label lines that do not cross, each ending exactly on the structure.
@@ -155,6 +162,13 @@ Use the same unit for both sides (1 mm = 1000 micrometres; 1 micrometre = 1000 n
 - A cell 9 divisions long is 9 × 4.0 = **36 micrometres**.
 
 At a lower power the same graticule would show each division as a larger distance, so the calibration must be repeated whenever the objective changes.
+
+<!-- marlbridge-diagram:bio-ial-core-practical-5-microscope-graticule -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/biology/bio-ial-core-practical-5-microscope-graticule.svg" aria-label="Open full-size diagram: bio-ial-core-practical-5-microscope-graticule"><img src="/images/learning/biology/bio-ial-core-practical-5-microscope-graticule.svg" width="1528" height="871" alt="Calibrating an eyepiece graticule with a stage micrometer, then using the calibration to estimate a cell length." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Graticule scale depends on objective lens; recalibrate when magnification changes. The figure's numerical example is separate from the worked example above. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:bio-ial-core-practical-5-microscope-graticule -->
 
 ## Common errors
 

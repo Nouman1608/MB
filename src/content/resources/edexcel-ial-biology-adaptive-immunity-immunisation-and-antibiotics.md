@@ -126,6 +126,13 @@ Mutation produces a resistant bacterium by chance. The antibiotic kills the sens
 
 The specification gives only the aim. This is a standard method using discs.
 
+<!-- marlbridge-diagram:bio-ial-cp14-antibiotic-disc-diffusion -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/biology/bio-ial-cp14-antibiotic-disc-diffusion.svg" aria-label="Open full-size diagram: bio-ial-cp14-antibiotic-disc-diffusion"><img src="/images/learning/biology/bio-ial-cp14-antibiotic-disc-diffusion.svg" width="1528" height="940" alt="Antibiotic disc diffusion method: a safe bacterial lawn, antibiotic and water-control discs, replicate zone measurements, and a caution that zone size reflects diffusion as well as effect." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Core Practical 14: compare replicate inhibition zones under controlled conditions. A larger zone does not by itself prove greater clinical effectiveness. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:bio-ial-cp14-antibiotic-disc-diffusion -->
+
 1. Disinfect the bench. Work near a Bunsen flame or with sterile equipment, and wash your hands before and after.
 2. Use a sterile pipette to put a measured volume of a broth culture of a safe, non-pathogenic bacterium onto a sterile nutrient agar plate. Spread it evenly with a sterile spreader to make a **lawn**.
 3. Using sterile forceps, place discs of different antibiotics on the agar, spaced apart. Include a **control disc** soaked in sterile water.

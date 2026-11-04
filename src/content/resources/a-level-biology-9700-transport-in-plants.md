@@ -49,6 +49,11 @@ Useful links: the [Cambridge A Level Biology hub](/boards/cambridge/a-level/biol
 
 ## 7.1 Distribution of xylem and phloem
 
+
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <!-- marlbridge-diagram:complete-bio-vascular-sections --><a href="/images/learning/biology/complete-bio-vascular-sections.svg" aria-label="Open full-size diagram: Find xylem and phloem in a root, stem and leaf" title="Find xylem and phloem in a root, stem and leaf"><img src="/images/learning/biology/complete-bio-vascular-sections.svg" width="1528" height="871" alt="Simplified root has central cross-shaped xylem and phloem between the arms. Stem vascular bundles form a ring with xylem inward and phloem outward. Leaf-vein xylem lies above phloem; both epidermises identify the leaf orientation." title="Find xylem and phloem in a root, stem and leaf" loading="lazy" decoding="async" style="display:block;width:100%;height:auto;" /></a>
+  <figcaption>Compare xylem and phloem positions in root, stem and leaf transverse sections. Select the diagram to enlarge it.</figcaption>
+</figure>
 All three organs are from **herbaceous dicotyledonous** plants (non-woody plants with two seed leaves).
 
 | Organ (TS) | Where the vascular tissue is | Xylem and phloem arrangement |
@@ -71,9 +76,28 @@ Good drawing practice also means:
 
 Before you draw, look at the whole section. Estimate what fraction of the diameter each layer takes up, then keep those proportions.
 
+<!-- marlbridge-diagram:bio-b19-leaf-transverse-plan -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/biology/bio-b19-leaf-transverse-plan.svg" aria-label="Open full-size diagram: Leaf transverse section: a plan diagram"><img src="/images/learning/biology/bio-b19-leaf-transverse-plan.svg" width="1600" height="1000" alt="A line-only leaf transverse section plan diagram showing epidermis, palisade and spongy mesophyll, midrib and upper xylem/lower phloem." loading="lazy" decoding="async" style="display:block;width:100%;height:auto;" /></a>
+  <figcaption>Worked leaf plan-diagram exemplar: tissue outlines and relative positions are shown without individual cells or shading. Use an actual slide or photomicrograph to draw the section proportions in a practical.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:bio-b19-leaf-transverse-plan -->
+
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/biology/bio-b56-cambridge-9700-stem-root-plan.svg" aria-label="Open full-size plan diagrams of dicot root and stem transverse sections"><img src="/images/learning/biology/bio-b56-cambridge-9700-stem-root-plan.svg" width="1600" height="1000" alt="Line-only transverse-section plan diagrams: a dicot root with epidermis, cortex, endodermis, central star-shaped xylem and phloem between the xylem arms; and a dicot stem with epidermis, cortex, a ring of bundles with outer phloem and inner xylem, and a central pith." loading="lazy" decoding="async" style="display:block;width:100%;height:auto;" /></a>
+  <figcaption>Worked root and stem plan-diagram exemplars. They show tissue outlines and relative arrangement only; labels identify the main tissues. Use an actual slide or photomicrograph for proportions in practical work. Select the image to enlarge it.</figcaption>
+</figure>
+
 ## 7.1 Structure related to function
 
 ### Xylem vessel elements
+
+<!-- marlbridge-diagram:bio-b19-xylem-phloem-cell-structures -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/biology/bio-b19-xylem-phloem-cell-structures.svg" aria-label="Open full-size diagram: Xylem and phloem cells: structures for transport"><img src="/images/learning/biology/bio-b19-xylem-phloem-cell-structures.svg" width="1600" height="1000" alt="A labelled comparison of a lignified xylem vessel element, a phloem sieve tube with sieve plate, and its narrower companion cell." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Compares xylem vessel, sieve tube and companion cell structures and their transport roles. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:bio-b19-xylem-phloem-cell-structures -->
 
 Xylem vessel elements are joined end to end to form **xylem vessels**, which carry water and mineral ions up from the roots.
 
@@ -86,6 +110,14 @@ Xylem vessel elements are joined end to end to form **xylem vessels**, which car
 | Narrow lumen | Water adheres to the walls, which helps the column move |
 
 ### Phloem sieve tube elements and companion cells
+
+<!-- marlbridge-diagram:bio-b31-cambridge-9700-vascular-cells-together -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/biology/bio-b31-cambridge-9700-vascular-cells-together.svg" aria-label="Open full-size diagram: bio-b31-cambridge-9700-vascular-cells-together"><img src="/images/learning/biology/bio-b31-cambridge-9700-vascular-cells-together.svg" width="1528" height="940" alt="Vascular tissue: xylem vessel, sieve plate and companion cell together" loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Vascular tissue: xylem vessel, sieve plate and companion cell together Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:bio-b31-cambridge-9700-vascular-cells-together -->
+
 
 Sieve tube elements are joined end to end to form **sieve tubes**, which carry assimilates such as sucrose and amino acids.
 
@@ -124,6 +156,11 @@ Recalibrate at every objective lens. The value of 1 epu changes with magnificati
 
 ## 7.2 Water: soil to xylem
 
+
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <!-- marlbridge-diagram:biology-root-water-pathways --><a href="/images/learning/biology/biology-root-water-pathways.svg" aria-label="Open full-size diagram: Two pathways carry water from soil to xylem" title="Two pathways carry water from soil to xylem"><img src="/images/learning/biology/biology-root-water-pathways.svg" width="1000" height="650" alt="Schematic radial route: apoplast water moves through walls but is stopped by the endodermal Casparian strip; symplast water crosses a membrane and moves through cytoplasm and plasmodesmata. Water must enter endodermal cytoplasm before reaching xylem." title="Two pathways carry water from soil to xylem" loading="lazy" decoding="async" style="display:block;width:100%;height:auto;" /></a>
+  <figcaption>Follow water through apoplast and symplast pathways; the Casparian strip requires water to cross a membrane before entering the xylem. Select the diagram to enlarge it.</figcaption>
+</figure>
 Some **mineral ions and organic compounds** are carried through the plant **dissolved in water**.
 
 Water enters root hair cells by osmosis, down a water potential gradient. It then crosses the cortex by two pathways.
@@ -159,6 +196,11 @@ Water enters root hair cells by osmosis, down a water potential gradient. It the
 
 ### Xerophytes
 
+
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <!-- marlbridge-diagram:biology-xerophyte-leaf-cross-section --><a href="/images/learning/biology/biology-xerophyte-leaf-cross-section.svg" aria-label="Open full-size diagram: A rolled xerophyte leaf slows water loss" title="A rolled xerophyte leaf slows water loss"><img src="/images/learning/biology/biology-xerophyte-leaf-cross-section.svg" width="1000" height="690" alt="Marram-like leaf cross-section: rolled margins enclose humid air; stomata lie in inner grooves with hairs, while a thick cuticle covers the outer surface. These features reduce the water-vapour gradient and diffusion from the leaf." title="A rolled xerophyte leaf slows water loss" loading="lazy" decoding="async" style="display:block;width:100%;height:auto;" /></a>
+  <figcaption>Marram-like rolled xerophyte leaf section: locate stomata, hairs, humid air space and thick cuticle, then relate them to reduced water loss. Select the diagram to enlarge it.</figcaption>
+</figure>
 Xerophytes are adapted to reduce water loss by transpiration. You must be able to make **annotated drawings** of TS xerophyte leaves: labels name the feature, and annotations explain how it reduces water loss. Marram grass is a common example.
 
 | Adaptation | How it reduces water loss |

@@ -118,6 +118,14 @@ When y is inversely proportional to a power or root of x, y decreases as x incre
 
 ### Worked example 3: inverse square
 
+<!-- marlbridge-diagram:maths-b27-inverse-square-distance-force-graph -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/mathematics/maths-b27-inverse-square-distance-force-graph.svg" aria-label="Open full-size diagram: maths-b27-inverse-square-distance-force-graph"><img src="/images/learning/mathematics/maths-b27-inverse-square-distance-force-graph.svg" width="1600" height="1050" alt="F is inversely proportional to r². Given F=20 when r=3, k=Fr²=180 so F=180/r². Thus F=5 at r=6 and F=0.8 at r=15, for r&gt;0." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>F is inversely proportional to r². Given F=20 when r=3, k=Fr²=180 so F=180/r². Thus F=5 at r=6 and F=0.8 at r=15, for r&gt;0. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:maths-b27-inverse-square-distance-force-graph -->
+
+
 F is inversely proportional to the square of r. When r = 3, F = 20.
 
 (a) Find a formula for F in terms of r.

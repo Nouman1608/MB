@@ -193,6 +193,12 @@ The ends of an error interval are the **limits of accuracy**. Use them to decide
 The mass could be anything up to (but not including) 2.05 kg, for example 2.045 kg, which is over 2.04 kg. So you **cannot be sure**. A good answer quotes the limit and compares it.
 
 ### Upper and lower bounds in calculations (Higher tier only)
+<!-- marlbridge-diagram:maths-b18-area-bounds -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/mathematics/maths-b18-area-bounds.svg" aria-label="Open full-size diagram: maths-b18-area-bounds"><img src="/images/learning/mathematics/maths-b18-area-bounds.svg" width="1600" height="1050" alt="A rectangle has length 3.4 m and width 2.1 m to the nearest 0.1 m; its area lies from 6.8675 m² inclusive to 7.4175 m² exclusive." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>A rectangle has length 3.4 m and width 2.1 m to the nearest 0.1 m; its area lies from 6.8675 m² inclusive to 7.4175 m² exclusive. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:maths-b18-area-bounds -->
 
 The lower bound (LB) and upper bound (UB) are the limits of accuracy. When rounded values are combined, choose the bounds that make the answer as large or as small as possible.
 
@@ -206,6 +212,13 @@ The lower bound (LB) and upper bound (UB) are the limits of accuracy. When round
 For subtraction and division the second value crosses over: taking away less, or dividing by less, gives a bigger answer.
 
 **Worked example 8 (Higher, calculator).** A plank is 2.4 m long, to the nearest 0.1 m. A piece 85 cm long, to the nearest centimetre, is cut off. Find the greatest and least possible lengths left, in metres.
+
+<!-- marlbridge-diagram:maths-b14-measurement-bounds-subtraction -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/mathematics/maths-b14-measurement-bounds-subtraction.svg" aria-label="Open full-size diagram: maths-b14-measurement-bounds-subtraction"><img src="/images/learning/mathematics/maths-b14-measurement-bounds-subtraction.svg" width="1600" height="1050" alt="Uses the source plank and cut-piece measurements to calculate the remainder bounds, showing why least uses LB minus UB and greatest uses UB minus LB." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Uses the source plank and cut-piece measurements to calculate the remainder bounds, showing why least uses LB minus UB and greatest uses UB minus LB. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:maths-b14-measurement-bounds-subtraction -->
 
 ```
 Plank:  2.35 ≤ P < 2.45        Piece:  0.845 ≤ Q < 0.855

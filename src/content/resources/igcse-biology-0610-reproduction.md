@@ -144,6 +144,14 @@ Percentage = (seeds germinated ÷ 20) × 100, so tube B = (18 ÷ 20) × 100 = 90
 
 ## 16.4 Sexual reproduction in humans
 
+<!-- marlbridge-diagram:bio-b29-cambridge-0610-reproductive-anatomy-pregnancy -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/biology/bio-b29-cambridge-0610-reproductive-anatomy-pregnancy.svg" aria-label="Open full-size diagram: bio-b29-cambridge-0610-reproductive-anatomy-pregnancy"><img src="/images/learning/biology/bio-b29-cambridge-0610-reproductive-anatomy-pregnancy.svg" width="1600" height="1050" alt="Human reproduction: organs, pathways and fetal support" loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Human reproduction: organs, pathways and fetal support Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:bio-b29-cambridge-0610-reproductive-anatomy-pregnancy -->
+
+
 | Male part | Function |
 |---|---|
 | Testes | Make sperm (and testosterone) |

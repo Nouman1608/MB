@@ -172,6 +172,14 @@ Multiply or divide the top and bottom of a fraction by the same number to get an
 
 ## 6. Recurring decimals (N12, Extension only)
 
+<!-- marlbridge-diagram:math-b54-oxfordaqa-recurring-decimal-to-fraction -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/public/images/learning/mathematics/math-b54-oxfordaqa-recurring-decimal-to-fraction.svg" aria-label="Open full-size diagram: math-b54-oxfordaqa-recurring-decimal-to-fraction"><img src="/public/images/learning/mathematics/math-b54-oxfordaqa-recurring-decimal-to-fraction.svg" width="1528" height="940" alt="The decimal 0.38333… has a non-recurring 38 followed by repeating 3s. Lines x=0.38333…, 10x=3.8333…, 100x=38.3333… align the repeating tails; subtracting gives 90x=34.5 and x=23/60." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>The decimal 0.38333… has a non-recurring 38 followed by repeating 3s. Lines x=0.38333…, 10x=3.8333…, 100x=38.3333… align the repeating tails; subtracting gives 90x=34.5 and x=23/60.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:math-b54-oxfordaqa-recurring-decimal-to-fraction -->
+
+
 In a recurring decimal, one digit or a block of digits repeats without end. Dots mark the repeating part: one dot over a single repeating digit, or a dot over each end of a longer block. For example, 0.2̇7̇ means 0.272727... and 0.46̇ means 0.46666...
 
 **Fraction to recurring decimal.** Divide numerator by denominator and stop when the remainders repeat. Then 7/15 = 0.46̇ and 5/6 = 0.83̇.

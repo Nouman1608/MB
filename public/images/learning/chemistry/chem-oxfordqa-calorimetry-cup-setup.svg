@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1528 940" role="img" aria-labelledby="title desc">
+  <title id="title">Insulated-cup calorimetry setup</title>
+  <desc id="desc">A polystyrene cup is supported in a beaker. A loose lid reduces heat loss. A thermometer bulb sits in the reacting solution without touching the cup, while a stirrer mixes the liquid.</desc>
+  <defs>
+    <linearGradient id="bg" x2="0" y2="1"><stop stop-color="#f8fbff"/><stop offset="1" stop-color="#e9f2fb"/></linearGradient>
+    <linearGradient id="liquid" x2="0" y2="1"><stop stop-color="#88d7d1"/><stop offset="1" stop-color="#45aaa9"/></linearGradient>
+    <filter id="shadow" x="-.2" y="-.2" width="1.4" height="1.5"><feDropShadow dx="0" dy="8" stdDeviation="10" flood-color="#18324a" flood-opacity=".12"/></filter>
+    <marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto"><path d="M0 0 10 5 0 10Z" fill="#315f7a"/></marker>
+  </defs>
+  <rect width="1528" height="940" rx="34" fill="url(#bg)"/>
+  <rect x="64" y="56" width="1400" height="828" rx="28" fill="#fff" stroke="#d7e4ef" stroke-width="3" filter="url(#shadow)"/>
+  <text x="112" y="134" fill="#16344f" font-family="Arial, sans-serif" font-size="44" font-weight="700">Insulated-cup calorimetry</text>
+  <text x="114" y="181" fill="#557087" font-family="Arial, sans-serif" font-size="24">Measure the solution’s temperature change while reducing heat exchange</text>
+
+  <!-- Supporting beaker -->
+  <path d="M270 330 L292 724 Q295 755 328 755 L712 755 Q745 755 748 724 L770 330" fill="#eff7fb" fill-opacity=".8" stroke="#7794a7" stroke-width="8"/>
+  <path d="M300 650 L318 721 Q321 731 337 731 L703 731 Q719 731 722 721 L740 650" fill="#e4eef4"/>
+  <path d="M284 351 H756" stroke="#7794a7" stroke-width="7"/>
+  <text x="165" y="799" fill="#31536b" font-family="Arial, sans-serif" font-size="25" font-weight="700">Beaker support</text>
+  <path d="M331 780 L354 748" stroke="#315f7a" stroke-width="4" marker-end="url(#arrow)"/>
+
+  <!-- Insulated cup and solution -->
+  <path d="M362 364 L382 693 Q384 711 404 711 H638 Q658 711 660 693 L680 364Z" fill="#fff" stroke="#83a9bc" stroke-width="8"/>
+  <path d="M385 547 L395 683 Q396 693 408 693 H634 Q646 693 647 683 L657 547Z" fill="url(#liquid)"/>
+  <path d="M385 547 Q520 531 657 547" fill="none" stroke="#2f898a" stroke-width="5"/>
+  <text x="442" y="620" fill="#083b47" font-family="Arial, sans-serif" font-size="25" font-weight="700">Reacting</text>
+  <text x="450" y="654" fill="#083b47" font-family="Arial, sans-serif" font-size="25" font-weight="700">solution</text>
+  <text x="111" y="433" fill="#31536b" font-family="Arial, sans-serif" font-size="25" font-weight="700">Polystyrene cup</text>
+  <path d="M282 441 L365 460" stroke="#315f7a" stroke-width="4" marker-end="url(#arrow)"/>
+
+  <!-- Loose lid -->
+  <path d="M345 346 Q521 324 696 346 L690 370 Q520 351 351 370Z" fill="#dbe8ef" stroke="#7794a7" stroke-width="6"/>
+  <text x="112" y="290" fill="#31536b" font-family="Arial, sans-serif" font-size="25" font-weight="700">Loose lid reduces heat loss</text>
+  <path d="M391 301 L424 342" stroke="#315f7a" stroke-width="4" marker-end="url(#arrow)"/>
+
+  <!-- Thermometer, deliberately clear of cup -->
+  <rect x="498" y="245" width="28" height="354" rx="14" fill="#fff" stroke="#375e78" stroke-width="7"/>
+  <rect x="508" y="420" width="8" height="154" rx="4" fill="#d95b55"/>
+  <circle cx="512" cy="603" r="24" fill="#d95b55" stroke="#375e78" stroke-width="6"/>
+  <path d="M526 565 L560 528" stroke="#d95b55" stroke-width="5" stroke-dasharray="8 8"/>
+  <text x="733" y="418" fill="#31536b" font-family="Arial, sans-serif" font-size="18" font-weight="700">Thermometer</text>
+  <text x="733" y="446" fill="#557087" font-family="Arial, sans-serif" font-size="16">bulb in solution</text>\r\n  <text x="733" y="470" fill="#557087" font-family="Arial, sans-serif" font-size="16">clear of cup base</text>
+  <path d="M714 440 L535 567" stroke="#315f7a" stroke-width="4" marker-end="url(#arrow)"/>
+  <text x="733" y="500" fill="#31536b" font-family="Arial, sans-serif" font-size="25" font-weight="700">Stir gently</text>
+  <path d="M706 506 L608 561" stroke="#315f7a" stroke-width="4" marker-end="url(#arrow)"/>
+
+  <!-- Procedure and sign reminders -->
+  <rect x="870" y="250" width="510" height="485" rx="24" fill="#f3f8fb" stroke="#d7e4ef" stroke-width="3"/>
+  <text x="912" y="310" fill="#16344f" font-family="Arial, sans-serif" font-size="29" font-weight="700">Method at a glance</text>
+  <circle cx="926" cy="365" r="18" fill="#137c80"/><text x="920" y="374" fill="#fff" font-family="Arial, sans-serif" font-size="23" font-weight="700">1</text>
+  <text x="963" y="374" fill="#24465e" font-family="Arial, sans-serif" font-size="23">Measure reactants; record start T.</text>
+  <circle cx="926" cy="425" r="18" fill="#137c80"/><text x="920" y="434" fill="#fff" font-family="Arial, sans-serif" font-size="23" font-weight="700">2</text>
+  <text x="963" y="434" fill="#24465e" font-family="Arial, sans-serif" font-size="23">Add measured reactant; replace lid.</text>
+  <circle cx="926" cy="485" r="18" fill="#137c80"/><text x="920" y="494" fill="#fff" font-family="Arial, sans-serif" font-size="23" font-weight="700">3</text>
+  <text x="963" y="494" fill="#24465e" font-family="Arial, sans-serif" font-size="23">Stir; record peak or lowest T.</text>
+  <circle cx="926" cy="545" r="18" fill="#137c80"/><text x="920" y="554" fill="#fff" font-family="Arial, sans-serif" font-size="23" font-weight="700">4</text>
+  <text x="963" y="554" fill="#24465e" font-family="Arial, sans-serif" font-size="23">Use qₛₒₗᵤₜᵢₒₙ = mcΔT.</text>
+  <path d="M910 590 H1340" stroke="#d0dfe8" stroke-width="3"/>
+  <text x="912" y="626" fill="#08746f" font-family="Arial, sans-serif" font-size="20" font-weight="700">Exothermic: solution warms (+q).</text>\r\n  <text x="912" y="652" fill="#08746f" font-family="Arial, sans-serif" font-size="20" font-weight="700">The reaction releases heat (−q).</text>
+  <text x="912" y="686" fill="#557087" font-family="Arial, sans-serif" font-size="18">Insulation and a lid reduce heat loss;</text>\r\n  <text x="912" y="710" fill="#557087" font-family="Arial, sans-serif" font-size="18">they do not eliminate heat transfer.</text>
+
+  <rect x="870" y="754" width="510" height="66" rx="18" fill="#e7f4f2"/>
+  <text x="912" y="797" fill="#17645f" font-family="Arial, sans-serif" font-size="23" font-weight="700">MARLBRIDGE  •  Chemistry learning diagram</text>
+</svg>

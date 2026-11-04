@@ -139,6 +139,14 @@ The **domain** lists every input the rule accepts and the context allows. The **
 
 ## Extended: rational functions (ax + b)/(cx + d)
 
+<!-- marlbridge-diagram:math-b45-myp-rational-function-asymptotes -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/mathematics/math-b45-myp-rational-function-asymptotes.svg" aria-label="Open full-size diagram: math-b45-myp-rational-function-asymptotes"><img src="/images/learning/mathematics/math-b45-myp-rational-function-asymptotes.svg" width="1600" height="1050" alt="For f(x)=(4x+3)/(x−1)=4+7/(x−1), the denominator gives vertical asymptote x=1 and domain x≠1; the leading-coefficient ratio gives horizontal asymptote y=4 and range y≠4. Intercepts are (−3/4,0) and (0,−3)." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>For f(x)=(4x+3)/(x−1)=4+7/(x−1), the denominator gives vertical asymptote x=1 and domain x≠1; the leading-coefficient ratio gives horizontal asymptote y=4 and range y≠4. Intercepts are (−3/4,0) and (0,−3). Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:math-b45-myp-rational-function-asymptotes -->
+
+
 A rational function has a linear expression over a linear expression. The denominator cannot be zero, so there is a **vertical asymptote** where cx + d = 0.
 
 **Worked example.** f(x) = (4x + 3)/(x - 1).

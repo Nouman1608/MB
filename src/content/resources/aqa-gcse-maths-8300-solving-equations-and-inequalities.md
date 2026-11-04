@@ -258,6 +258,13 @@ Solve them like equations, with one extra rule: **if you multiply or divide by a
 
 **Worked example 11.** Solve 5 − 2x < 11.
 
+<!-- marlbridge-diagram:maths-b14-linear-inequality-negative-division -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/mathematics/maths-b14-linear-inequality-negative-division.svg" aria-label="Open full-size diagram: maths-b14-linear-inequality-negative-division"><img src="/images/learning/mathematics/maths-b14-linear-inequality-negative-division.svg" width="1600" height="1050" alt="Solves 5 − 2x &lt; 11 as x &gt; −3 and shows the open boundary and rightward solution ray on a number line." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Solves 5 − 2x &lt; 11 as x &gt; −3 and shows the open boundary and rightward solution ray on a number line. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:maths-b14-linear-inequality-negative-division -->
+
 ```
 -2x < 6
 x > -3      dividing by -2 reverses < to >

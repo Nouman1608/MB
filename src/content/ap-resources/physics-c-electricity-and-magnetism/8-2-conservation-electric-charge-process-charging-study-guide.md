@@ -30,7 +30,7 @@ keyPoints:
   - "Charge is conserved: a system's net charge changes only when charge crosses its boundary."
   - "In solids, charging almost always means moving electrons. Protons stay in their nuclei."
   - "Friction and contact move charge between objects; induction rearranges charge inside an object without touching it."
-  - "A neutral object can be polarized, and a charged object always attracts a neutral one."
+  - "A neutral object can be polarized; a charged rod attracts a small neutral polarizable object in the usual non-uniform-field demonstration."
   - "Grounding connects an object to a huge, nearly neutral reservoir such as Earth, which can give or take electrons."
 faqs:
   - question: "Does rubbing two objects together create charge?"
@@ -74,11 +74,11 @@ So charge is never created or destroyed in a charging process. It only moves. If
 
 | Method | What happens | Final charges |
 |---|---|---|
-| **Friction** (rubbing) | Close contact lets electrons move from one material to the other | Opposite signs, equal sizes |
-| **Contact** (touching a charged object) | Electrons move between the objects while they touch | Same sign on both (for conductors, the sign of the total); total unchanged |
+| **Friction** (rubbing) | Close contact lets electrons move from one material to the other | Equal-and-opposite changes for an isolated pair; equal-and-opposite final charges when the initial total is zero |
+| **Contact** (touching a charged object) | Electrons move between the objects while they touch | In the isolated symmetric conductor model, both share the sign of a nonzero total; both are neutral when the total is zero |
 | **Induction** (charged object near, plus grounding) | The nearby charge pushes or pulls electrons inside the object; a ground path lets some leave or enter | Opposite sign to the inducing object |
 
-**Friction.** When two different materials are rubbed together, electrons move from one surface to the other. Which material gains electrons depends on the pair of materials. In every case the two objects end with equal and opposite charges. If the rod and the cloth form your system, its net charge is zero before and after rubbing.
+**Friction.** When two different materials are rubbed together, electrons move from one surface to the other. Which material gains electrons depends on the pair of materials. For an isolated rod–cloth pair, the changes in their charges are equal and opposite. Their final charges are equal and opposite only if their initial total charge was zero; otherwise that nonzero total is conserved.
 
 **Contact.** When a charged object touches another object, some charge moves across. For two **identical metal spheres**, symmetry means they must end with **equal** charges, so each gets half of the total:
 
@@ -93,11 +93,18 @@ Use this only for identical conductors. For different sizes, the charge is share
 Bring a positively charged rod near a **neutral** object. The rod attracts electrons and repels positive charge. The charge inside the object rearranges. This is **polarization**, or induced charge separation. It happens even though the object is neutral.
 
 - **In a conductor**, electrons are free to move through the whole object. They gather on the side nearer the positive rod. The far side is left with a shortage of electrons, so it is positive.
-- **In an insulator**, electrons cannot travel through the material. Instead, each atom or molecule is distorted slightly: its electron cloud shifts towards the rod. The result is a thin layer of negative charge on the near surface and positive charge on the far surface.
+- **In an insulator**, charges are bound within atoms or molecules, so they cannot travel through the material as freely as conductor electrons. The applied field can shift the bound positive and negative charge centres slightly, creating aligned induced dipoles; polar molecules may also rotate toward alignment. The material remains neutral overall, although its surfaces can carry bound polarization charge.
 
 In both cases the net charge is still zero. Only the distribution has changed.
 
-**Why a neutral object is attracted.** The induced charge of opposite sign to the rod is **closer** to the rod than the induced charge of the same sign. Coulomb's force falls as 1/r², so the attraction on the near side is larger than the repulsion on the far side. The net force is towards the rod. This works whatever the sign of the rod, which is why a charged rod picks up small bits of paper. It also means **attraction alone does not prove an object is charged**. Repulsion does, because a neutral object is never repelled.
+<!-- marlbridge-diagram:phys-gap-8-2-conductor-insulator-polarization -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/physics/phys-gap-8-2-conductor-insulator-polarization.svg" aria-label="Open full-size diagram: conductor and insulator polarization"><img src="/images/learning/physics/phys-gap-8-2-conductor-insulator-polarization.svg" width="1440" height="820" alt="A positive rod polarizes a neutral conductor by moving free electrons toward it, while an insulator polarizes through bound charge shifts or aligned dipoles; each object remains neutral overall." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>A conductor redistributes mobile electrons; an insulator polarizes through bound charges or dipoles. Both remain neutral overall. — Marlbridge Physics.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:phys-gap-8-2-conductor-insulator-polarization -->
+
+**Why a neutral object is attracted in the usual rod demonstration.** Polarization puts opposite-sign bound or mobile charge closer to the rod than like-sign charge. Because Coulomb force weakens with distance, the nearer attraction is larger than the farther repulsion, giving a net attraction for the usual small, neutral, polarizable object in the rod's non-uniform field. Thus **attraction alone does not prove an object is charged**. The force depends on the object's polarization and the surrounding field; do not use the blanket claim that every neutral object must always be attracted or can never be repelled.
 
 Polarization can also happen between two systems that are both charged: each one's charge pushes the other's charges around.
 
@@ -189,11 +196,11 @@ Their total mass is (2.5 × 10¹⁰)(9.11 × 10⁻³¹ kg) ≈ 2.3 × 10⁻²⁰
 
 ## Common misconceptions
 
-- **"Rubbing creates charge."** Rubbing only moves electrons. The two objects end with equal and opposite charges.
+- **"Rubbing creates charge."** Rubbing transfers charge. Changes for an isolated pair are equal and opposite; their final charges are equal and opposite when their initial total was zero.
 - **"A positive object has gained protons."** In solids it has *lost electrons*. Protons stay in the nuclei.
 - **"A neutral object has no charges in it."** It has equal amounts of positive and negative charge. It can still be polarized.
 - **"A neutral object feels no force from a charged rod."** Polarization puts the opposite charge closer, so there is a net attraction.
-- **"Attraction proves the object is charged."** A neutral object is also attracted. Only repulsion is a reliable test for charge.
+- **"Attraction proves the object is charged."** A neutral object is attracted in the usual charged-rod demonstration because it polarizes. Interpret attraction and repulsion only with the stated object and field conditions.
 - **"Grounding always makes an object neutral."** Only if no charged object is nearby. With a charged object nearby, grounding is how you charge by induction.
 - **"Charging by induction gives the same sign as the rod."** Induction gives the opposite sign; contact gives the same sign.
 - **"Touching spheres always share equally."** Only identical conductors share equally. Insulators also keep their charge near the place where it was put.

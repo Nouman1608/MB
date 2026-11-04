@@ -148,7 +148,7 @@ The immune system gives the clearest example:
 
 1. An **antigen-presenting cell (APC)**, such as a macrophage, takes in a pathogen and breaks it down.
 2. It displays fragments of the pathogen's molecules (antigens) on its surface, held by special presenting proteins.
-3. A **helper T cell** with a matching receptor touches the APC and binds the displayed fragment. This contact activates the helper T cell, which then helps to direct the immune response.
+3. A **helper T cell** with a matching receptor recognises the displayed peptide–presenting-protein complex on the APC. Together with appropriate additional activation signals, including co-stimulation for a naive T cell, this can activate the helper T cell to help direct the immune response. Antigen binding alone is not sufficient for naive T-cell activation.
 4. A **killer (cytotoxic) T cell** recognises an infected body cell in the same way: the infected cell displays fragments of the pathogen on its surface. When the T cell's receptor binds them, the T cell kills the infected cell.
 
 Because the signal is attached to a cell, only cells in contact receive it. This makes contact signalling very precise: the immune system can act on one infected cell and leave its healthy neighbours alone.

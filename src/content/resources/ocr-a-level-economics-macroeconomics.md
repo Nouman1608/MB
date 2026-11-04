@@ -92,6 +92,14 @@ logic to an international and monetary setting.
 
 ## Worked example: calculating the multiplier
 
+<!-- marlbridge-diagram:economics-ocr-a-level-macro-multiplier-circular-flow -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/economics/economics-ocr-a-level-macro-multiplier-circular-flow.svg" aria-label="Open full-size diagram: economics-ocr-a-level-macro-multiplier-circular-flow"><img src="/images/learning/economics/economics-ocr-a-level-macro-multiplier-circular-flow.svg" width="1600" height="1050" alt="A flow diagram follows an injection through income and re-spending, then shows saving, taxation and imports as leakages that limit later rounds." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>A flow diagram follows an injection through income and re-spending, then shows saving, taxation and imports as leakages that limit later rounds. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:economics-ocr-a-level-macro-multiplier-circular-flow -->
+
+
 The marginal propensity to consume (MPC) in an economy is 0.75. Find
 the value of the national income multiplier.
 

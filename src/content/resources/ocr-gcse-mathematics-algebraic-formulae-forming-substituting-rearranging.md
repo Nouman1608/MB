@@ -173,6 +173,14 @@ t = (−5 − 2h)/(h − 3)  =  (2h + 5)/(3 − h)
 
 ### Reciprocal of the subject
 
+<!-- marlbridge-diagram:math-b75-reciprocal-subject-lens-formula -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/public/images/learning/mathematics/math-b75-reciprocal-subject-lens-formula.svg" aria-label="Open full-size diagram: math-b75-reciprocal-subject-lens-formula"><img src="/public/images/learning/mathematics/math-b75-reciprocal-subject-lens-formula.svg" width="1528" height="940" alt="From 1/f=1/u+1/v, subtract 1/u and combine: 1/v=(u−f)/(fu). Invert the complete fraction to get v=fu/(u−f)." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>From 1/f=1/u+1/v, subtract 1/u and combine: 1/v=(u−f)/(fu). Invert the complete fraction to get v=fu/(u−f). Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:math-b75-reciprocal-subject-lens-formula -->
+
+
 **Worked example 12.** Make v the subject of 1/f = 1/u + 1/v.
 
 ```

@@ -73,6 +73,14 @@ security a business can offer affects what terms it is likely to get.
 
 ## Worked example: matching risk to source of finance
 
+<!-- marlbridge-diagram:accounting-oxfordaqa-bank-loan-vs-share-risk -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/accounting/accounting-oxfordaqa-bank-loan-vs-share-risk.svg" aria-label="Open full-size diagram: accounting-oxfordaqa-bank-loan-vs-share-risk"><img src="/images/learning/accounting/accounting-oxfordaqa-bank-loan-vs-share-risk.svg" width="1600" height="1050" alt="OxfordAQA risk comparison: fixed debt obligations versus ownership dilution and dividend expectations." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Finance choice: loan or share issue? Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:accounting-oxfordaqa-bank-loan-vs-share-risk -->
+
+
 A question asks candidates to identify one risk associated with a
 private limited company raising finance through a bank loan versus
 issuing shares to existing shareholders.

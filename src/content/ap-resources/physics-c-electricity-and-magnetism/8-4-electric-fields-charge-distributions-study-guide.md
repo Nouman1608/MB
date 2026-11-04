@@ -81,7 +81,7 @@ For a uniform rod of charge Q and length L, λ = Q/L. For a uniform semicircle o
 4. **Use symmetry** to decide which components cancel. Keep only the ones that survive.
 5. **Write the surviving component**, for example dE_x = (k dq/r²) cos θ, with cos θ also written in the same variable.
 6. **Set the limits** so they cover the whole object once.
-7. **Integrate**, then **check**: units, direction, and a limiting case such as "far away, it looks like a point charge".
+7. **Integrate**, then **check**: units, direction, and a limiting case such as "far from a finite, localized distribution, it looks like a point charge".
 
 ## Symmetry does half the work
 
@@ -232,6 +232,20 @@ This is zero when a² − 2z² = 0, so **z = a/√2** = 0.0354 m. There E_max = 
 
 ## The finite rod on its perpendicular bisector, and the infinite line
 
+<!-- marlbridge-diagram:physcem-b16-finite-charged-rod-symmetry-and-line-charge-limit -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/physics/physcem-b16-finite-charged-rod-symmetry-and-line-charge-limit.svg" aria-label="Open full-size diagram: finite charged rod symmetry and line-charge limit"><img src="/images/learning/physics/physcem-b16-finite-charged-rod-symmetry-and-line-charge-limit.svg" width="1600" height="1050" alt="A uniformly charged finite rod with paired charge elements whose vertical field components cancel at a point on the perpendicular bisector, plus the far-field point-charge and long-rod line-charge limits." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Symmetry cancels the vertical components; the limiting cases distinguish a finite rod from an infinite line. — Marlbridge Physics.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:physcem-b16-finite-charged-rod-symmetry-and-line-charge-limit -->
+
+<!-- marlbridge-diagram:phys-gap-8-4-finite-rod-limit-graph -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/physics/phys-gap-8-4-finite-rod-limit-graph.svg" aria-label="Open full-size graph: finite-rod field limits"><img src="/images/learning/physics/phys-gap-8-4-finite-rod-limit-graph.svg" width="1440" height="620" alt="A log-log plot of the finite-rod field transitions from an inverse-distance line-charge limit when x is much smaller than L to an inverse-square point-charge limit when x is much larger than L." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>The finite rod crosses from line-like 1/x behavior to point-like 1/x² behavior as x/L increases. — Marlbridge Physics.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:phys-gap-8-4-finite-rod-limit-graph -->
+
 Put a uniform rod (charge per length λ, length L) on the y-axis from −L/2 to +L/2. P is on the x-axis at distance x. A piece dy at height y is a distance r = √(x² + y²) from P. By symmetry, the y-components cancel. The x-component of one piece is:
 
 dE_x = (kλ dy / r²)(x / r) = kλx dy / (x² + y²)^(3/2)
@@ -268,7 +282,7 @@ For **part of an arc**, change the limits. A quarter circle from θ = 0 to π/2 
 | Finite rod, length L, charge Q | On its line, distance d from the near end | kQ / [d(d + L)] | Along the line, away from the rod |
 | Finite rod, length L, charge Q | On its perpendicular bisector, distance x | kQ / [x√(x² + L²/4)] | Perpendicular to the rod, away from it |
 | Infinite line or long cylinder, λ | Distance r from the axis | λ/(2πε₀r) = 2kλ/r | Radially away from the axis |
-| Ring, radius a, charge Q | On its axis, distance z from centre | kQz / (z² + a²)^(3/2) | Along the axis, away from the ring |
+| Ring, radius a, charge Q | On its axis, distance z from centre | k\|Qz\| / (z² + a²)^(3/2) | Along the axis, away from the ring for z > 0 and toward the ring for z < 0 (for Q > 0) |
 | Semicircle, radius R, λ | At its centre | 2kλ/R | Along the symmetry line, away from the arc |
 
 The course expects you to integrate only for these shapes and locations. For any other shape (for example, a point off the axis of a ring) the integral is not expected.
@@ -276,7 +290,8 @@ The course expects you to integrate only for these shapes and locations. For any
 ## Common misconceptions
 
 - **Adding magnitudes instead of components.** ∫k dq/r² is the answer only if every dE points the same way, as for a point on the rod's own line. Otherwise resolve first.
-- **"Treat the object as a point charge at its centre."** This works only far away. Close to a rod, the near end dominates (Worked example 1).
+- **"Treat every distribution as a point charge when far away."** This far-field rule applies to finite, localized distributions with finite total charge Q. It does not apply to an ideal infinite line, whose field falls as 1/r rather than 1/r².
+- **"Treat the object as a point charge at its centre."** For a finite rod, this approximation works only far away. Close to a rod, the near end dominates (Worked example 1).
 - **Leaving two variables in the integral.** If you integrate over x, then r and cos θ must also be written in x.
 - **Forgetting that the distance r changes along a rod** but is constant for a ring or an arc measured from its centre.
 - **Integrating a component that symmetry has already cancelled.** You will get zero, but you waste time and may make sign errors.

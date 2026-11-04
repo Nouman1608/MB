@@ -157,6 +157,14 @@ t = (7.30 − 7.0)/(1.001/√12) = 0.30/0.2889 = 1.038
 
 ## Choosing the right test
 
+<!-- marlbridge-diagram:math-b70-oxfordaqa-z-vs-t-test-selection -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/public/images/learning/mathematics/math-b70-oxfordaqa-z-vs-t-test-selection.svg" aria-label="Open full-size diagram: math-b70-oxfordaqa-z-vs-t-test-selection"><img src="/public/images/learning/mathematics/math-b70-oxfordaqa-z-vs-t-test-selection.svg" width="1528" height="940" alt="Decision flow selects z when σ is known, approximate z with s for a large sample and unknown σ, or t for a small sample from a normal population with unknown σ." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Decision flow selects z when σ is known, approximate z with s for a large sample and unknown σ, or t for a small sample from a normal population with unknown σ.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:math-b70-oxfordaqa-z-vs-t-test-selection -->
+
+
 | Situation | Statistic | Compare with |
 |---|---|---|
 | Normal population, σ known, any n | z = (x̄ − μ₀)/(σ/√n) | N(0, 1) |

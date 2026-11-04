@@ -124,6 +124,14 @@ Parallel to i means 4t − 3 = 0, so **t = 3/4 s**. At that time v = (3 × 9/16 
 
 ## Motion under gravity with vectors (3.02h, A Level only)
 
+<!-- marlbridge-diagram:math-b73-projectile-vector-position-velocity -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/public/images/learning/mathematics/math-b73-projectile-vector-position-velocity.svg" aria-label="Open full-size diagram: math-b73-projectile-vector-position-velocity"><img src="/public/images/learning/mathematics/math-b73-projectile-vector-position-velocity.svg" width="1528" height="940" alt="For u=(5,12) m s⁻¹ and a=(0,−9.8) m s⁻², at t=2 s the stone is at (10,4.4) m with v=(5,−7.6) m s⁻¹, speed≈9.10 m s⁻¹ and direction 56.7° below horizontal." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>For u=(5,12) m s⁻¹ and a=(0,−9.8) m s⁻², at t=2 s the stone is at (10,4.4) m with v=(5,−7.6) m s⁻¹, speed≈9.10 m s⁻¹ and direction 56.7° below horizontal. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:math-b73-projectile-vector-position-velocity -->
+
+
 Take i horizontal, j vertically upward. The only acceleration is gravity, so
 
 ```

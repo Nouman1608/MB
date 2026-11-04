@@ -173,6 +173,14 @@ Stationary points at x = 0 and x = 3. Here d²y/dx² = 12x² − 24x, which is 0
 
 ## Optimisation in practical problems
 
+<!-- marlbridge-diagram:math-b41-optimise-square-base-tank-material -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/mathematics/math-b41-optimise-square-base-tank-material.svg" aria-label="Open full-size diagram: math-b41-optimise-square-base-tank-material"><img src="/images/learning/mathematics/math-b41-optimise-square-base-tank-material.svg" width="1600" height="1050" alt="For an open tank of volume 32 m³ with square base x by x and height h, h=32/x² and area A=x²+128/x. Setting A′=0 gives x=4 m and h=2 m; A″(4)=6&gt;0 verifies a minimum area of 48 m²." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>For an open tank of volume 32 m³ with square base x by x and height h, h=32/x² and area A=x²+128/x. Setting A′=0 gives x=4 m and h=2 m; A″(4)=6&gt;0 verifies a minimum area of 48 m². Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:math-b41-optimise-square-base-tank-material -->
+
+
 The spec says a question may be a practical problem where a function of a single variable has to be optimised. The steps are always the same.
 
 1. Define your variables and write down any fixed quantity (volume, length of fencing).

@@ -128,11 +128,21 @@ with no extra shielding to oppose it: atomic radius ~0.191 nm shrinks to an
 ionic radius of ~0.095 nm. Chlorine (2,8,7) gains one electron to form Cl⁻
 (2,8,8) — no new shell is added, but the extra electron increases repulsion
 within the same outer shell, pushing the existing electrons further apart:
-atomic radius ~0.099 nm grows to an ionic radius of ~0.181 nm. Both changes
-are large — losing or gaining electrons at a fixed nuclear charge always
-has a substantial effect on radius; what differs is the mechanism (losing a
-whole shell for the cation, versus increased shell repulsion for the
-anion), not the size of the effect.
+atomic radius ~0.099 nm grows to an ionic radius of ~0.181 nm. These two examples illustrate contraction on forming Na⁺ and expansion on forming Cl⁻ at unchanged nuclear charge. They do not establish a universal magnitude for every atom-to-ion size change. Atomic and ionic radii are defined using different measurement conventions; quote comparable data and stated conditions when making a numerical size comparison.
+
+<!-- marlbridge-diagram:as-radius-trends-nuclear-charge-shielding -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/chemistry/as-radius-trends-nuclear-charge-shielding.svg" aria-label="Open full-size diagram: Explain atomic radius with three competing factors"><img src="/images/learning/chemistry/as-radius-trends-nuclear-charge-shielding.svg" width="1528" height="871" alt="Qualitative Na/Mg/Al sizes and Li/Na/K occupied-shell sketches contrast increasing nuclear attraction across a period with added shell distance and shielding down a group." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Explain atomic radius with three competing factors. Cambridge International AS Chemistry 9701; no Core/Extended split. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:as-radius-trends-nuclear-charge-shielding -->
+
+<!-- marlbridge-diagram:as-parent-atom-ion-radius-shells -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/chemistry/as-parent-atom-ion-radius-shells.svg" aria-label="Open full-size diagram: Why Na⁺ contracts and Cl⁻ expands"><img src="/images/learning/chemistry/as-parent-atom-ion-radius-shells.svg" width="1528" height="871" alt="Paired shell-count sketches show loss of the sodium third occupied shell and addition to the chlorine third shell, with fixed nuclear charge and qualitative radius changes." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Why Na⁺ contracts and Cl⁻ expands. Cambridge International AS Chemistry 9701; no Core/Extended split. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:as-parent-atom-ion-radius-shells -->
 
 ## Isotopes
 
@@ -142,15 +152,16 @@ numbers). The standard notation places the mass number as a superscript and
 the atomic number as a subscript before the element symbol, for example
 ³⁵₁₇Cl and ³⁷₁₇Cl for the two stable isotopes of chlorine.
 
-**Why isotopes share chemical properties:** chemical behaviour is determined
-by electron arrangement, which is determined by proton number. Since
-isotopes of the same element have identical proton (and therefore electron)
-numbers, they have identical electron arrangements and react identically.
+**Why isotopes have very similar characteristic chemistry:** neutral isotopes of the same element have the same proton number and electron count, and the same ordinary ground-state electron arrangement. This explains their close chemical similarity at AS level. It does not mean every reaction rate or equilibrium constant is exactly identical: changing nuclear mass can affect vibrational behaviour and produce isotope effects.
 
-**Why isotopes differ in physical properties:** the extra neutrons add mass
-without changing the electron arrangement, so isotopes differ in mass and,
-correspondingly, in density — but not in properties that depend on electron
-behaviour.
+**Mass and physical comparisons:** different neutron counts change isotopic mass. For samples in the same physical form under matched conditions, greater mass at comparable volume can give greater density. State those comparison conditions rather than assuming every physical property follows a mass-only rule.
+
+<!-- marlbridge-diagram:as-isotopes-electrons-mass-density -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/chemistry/as-isotopes-electrons-mass-density.svg" aria-label="Open full-size diagram: Isotopes: electron chemistry versus nuclear mass"><img src="/images/learning/chemistry/as-isotopes-electrons-mass-density.svg" width="1528" height="871" alt="Chlorine-35 and chlorine-37 have identical neutral-atom electron counts but different neutron counts; an explicitly equal-volume schematic explains a mass/density comparison without claiming measured values." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Isotopes: electron chemistry versus nuclear mass. Cambridge International AS Chemistry 9701; no Core/Extended split. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:as-isotopes-electrons-mass-density -->
 
 ## Common mistakes
 
@@ -182,8 +193,10 @@ number and charge
 - Atomic radius: decreases across a period (nuclear charge), increases down
 a group (shielding/distance)
 - Ionic radius: cations smaller than their parent atom, anions larger
-- Isotope definition and notation; same chemical properties (same electron
-arrangement), different physical properties limited to mass and density
+- Isotopes have the same ordinary electron arrangement and similar chemistry,
+  but nuclear-mass differences can affect vibrational behaviour and some
+  rates. Compare density only for samples in the same physical form under
+  matched conditions.
 
 ## Related resources
 

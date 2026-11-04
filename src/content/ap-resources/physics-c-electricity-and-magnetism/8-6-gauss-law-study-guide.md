@@ -84,9 +84,24 @@ Choose the surface so that, on each part of it, E is either:
 | Cylindrical (long line, long cylinder) | coaxial cylinder, radius r, length L | E(2πrL); the end caps give zero |
 | Planar (large sheet or slab) | "pillbox" cylinder through the sheet, end area A | 2EA for a thin sheet; the curved side gives zero |
 
+<!-- marlbridge-diagram:phys-gap-8-6-gaussian-geometries -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/physics/phys-gap-8-6-gaussian-geometries.svg" aria-label="Open full-size diagram: phys-gap-8-6-gaussian-geometries"><img src="/images/learning/physics/phys-gap-8-6-gaussian-geometries.svg" width="1528" height="940" alt="Gaussian sphere around a uniformly charged solid sphere, coaxial cylinder around an infinite line charge and pillbox across an infinite charged sheet, each with field direction and flux equation." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Gaussian sphere around a uniformly charged solid sphere, coaxial cylinder around an infinite line charge and pillbox across an infinite charged sheet, each with field direction and flux equation. — Marlbridge Physics.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:phys-gap-8-6-gaussian-geometries -->
+
 The course expects you to apply Gauss's law quantitatively only to point charges and to distributions with spherical, cylindrical or planar symmetry. For a cube or a finite rod, the law is still true but E is not constant over any simple surface.
 
 ## Standard results
+
+<!-- marlbridge-diagram:physcem-b24-gauss-cylinder-and-sheet-pillbox -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/physics/physcem-b24-gauss-cylinder-and-sheet-pillbox.svg" aria-label="Open full-size diagram: physcem-b24-gauss-cylinder-and-sheet-pillbox"><img src="/images/learning/physics/physcem-b24-gauss-cylinder-and-sheet-pillbox.svg" width="1600" height="1050" alt="A coaxial cylinder around a line charge has radial electric field through its curved side, area 2πrL, and zero flux through its end caps. A pillbox crossing a uniformly charged sheet has field through both flat caps, total area factor 2A, and zero flux through its curved side." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>The cylinder encloses λL and contributes flux only on its curved wall; the sheet pillbox encloses σA and contributes through both caps. These geometries show why the area factors differ. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:physcem-b24-gauss-cylinder-and-sheet-pillbox -->
+
 
 **Uniformly charged solid sphere** (insulator), total charge Q, radius R, density ρ = Q / [(4/3)πR³].
 
@@ -103,7 +118,7 @@ If the density changes with r, you cannot multiply ρ by a volume. Instead, spli
 
 **q_enc(r) = ∫₀ʳ ρ(r′) 4πr′² dr′**
 
-Use dV = 2πr′L dr′ for a cylinder, and dA = 2πr′ dr′ for a flat disc with surface density σ(r′). The Gaussian surface step is unchanged: E(4πr²) = q_enc(r)/ε₀.
+Use dV = 2πr′L dr′ for a long cylinder, and dA = 2πr′ dr′ for a flat disc with surface density σ(r′). These are charge-element geometries; the Gaussian surface factor still comes from the field symmetry, not from the charge element. For spherical symmetry use E(4πr²) = q_enc(r)/ε₀; for cylindrical symmetry use E(2πrL) = q_enc(r)/ε₀; for planar symmetry use 2EA = q_enc/ε₀ with a pillbox whose end area is A. A disc or finite cylinder does not automatically have the symmetry required for those latter forms.
 
 <figure>
 <svg viewBox="0 0 560 370" role="img" aria-labelledby="gauss-er-title gauss-er-desc" xmlns="http://www.w3.org/2000/svg" font-family="system-ui, sans-serif">

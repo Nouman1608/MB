@@ -78,6 +78,14 @@ each P in isolation.
 
 ## Boston Matrix: what each quadrant means for strategy
 
+<!-- marlbridge-diagram:business-ocr-a-level-boston-ansoff-matrices -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/business/business-ocr-a-level-boston-ansoff-matrices.svg" aria-label="Open full-size diagram: business-ocr-a-level-boston-ansoff-matrices"><img src="/images/learning/business/business-ocr-a-level-boston-ansoff-matrices.svg" width="1600" height="1050" alt="Paired matrices show the source-defined Boston categories and Ansoff options with the clothing-retailer examples and typical risk ranking." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Paired matrices show the source-defined Boston categories and Ansoff options with the clothing-retailer examples and typical risk ranking. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:business-ocr-a-level-boston-ansoff-matrices -->
+
+
 A Star (high market share, high market growth) typically needs continued investment to maintain its
 position as the market matures. A Cash Cow (high market share, low market growth) generates strong,
 reliable profit that can be used to fund investment elsewhere in the product portfolio, since it requires

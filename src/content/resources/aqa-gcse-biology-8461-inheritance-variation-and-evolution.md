@@ -41,13 +41,13 @@ The [AQA GCSE Biology hub](/boards/aqa/gcse/biology/) lists every topic, and the
 
 ## Reproduction (4.6.1.1–4.6.1.3)
 
-**Sexual reproduction** is the fusion of male and female **gametes**: sperm and egg in animals, pollen and egg in flowering plants. Genetic information mixes, so offspring vary. Gametes are made by **meiosis**.
+**Sexual reproduction** is the fusion of male and female **gametes**: sperm and egg in animals; in flowering plants, pollen carries the male gametes and the ovule contains the female gamete. Genetic information mixes, so offspring vary. Meiosis makes gametes in animals; in flowering plants it makes spores that develop into gametophytes, which then produce gametes.
 
-**Asexual reproduction** needs one parent, with no fusion of gametes and no mixing of genetic information. Offspring are genetically identical **clones**. Only **mitosis** is involved.
+**Asexual reproduction** needs one parent, with no fusion of gametes and no mixing of genetic information. Offspring are usually genetically very similar clones, although mutations can create differences. In eukaryotes this commonly involves mitosis; bacteria reproduce by binary fission, not mitosis.
 
 ### Meiosis
 
-Cells in reproductive organs divide by meiosis. Copies of the genetic information are made; the cell divides **twice** to form **four gametes**, each with a **single set of chromosomes**; all the gametes are genetically different. At fertilisation, gametes join and the normal number is restored (in humans, 23 + 23 = 46). The new cell divides by mitosis, and as the embryo develops its cells differentiate. You do not need the stages of meiosis.
+In the simplified animal example, a diploid reproductive cell copies its genetic information and divides **twice** to form **four haploid cells**, each with one set of chromosomes; the products are genetically different. In human sperm production these can mature into four sperm; in egg production usually one becomes a functional ovum and the others are polar bodies. In flowering plants, meiosis forms spores, not gametes directly. At fertilisation, haploid gametes join and restore the diploid chromosome number (in humans, 23 + 23 = 46). The new cell divides by mitosis, and as the embryo develops its cells differentiate. You do not need the stages of meiosis.
 
 ### Advantages of each method
 
@@ -61,7 +61,7 @@ Some organisms use both. **Malarial parasites** reproduce asexually in the human
 
 ## DNA and the genome (4.6.1.4–4.6.1.5)
 
-**DNA** is a polymer of two strands forming a **double helix**, contained in **chromosomes**. A **gene** is a small section of DNA on a chromosome that codes for a particular sequence of amino acids, to make a specific protein. The **genome** is the entire genetic material of an organism.
+**DNA** is a polymer of two strands forming a **double helix**, contained in **chromosomes**. A **protein-coding gene** is a section of DNA containing information for a particular amino-acid sequence. Other genes produce functional RNA molecules instead of proteins. The **genome** is the entire genetic material of an organism.
 
 Understanding the human genome matters for: searching for genes linked to different diseases; understanding and treating inherited disorders; and tracing human migration patterns from the past.
 
@@ -107,43 +107,73 @@ Genotypes: 1 BB : 2 Bb : 1 bb. Phenotypes: **3 black : 1 brown**. The probabilit
 
 ## Inherited disorders and sex (4.6.1.7–4.6.1.8)
 
+<!-- marlbridge-diagram:bio-b28-aqa-cf-carrier-pedigree -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/biology/bio-b28-aqa-cf-carrier-pedigree.svg" aria-label="Open full-size diagram: bio-b28-aqa-cf-carrier-pedigree"><img src="/images/learning/biology/bio-b28-aqa-cf-carrier-pedigree.svg" width="1600" height="1050" alt="Pedigree: one autosomal recessive example" loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Pedigree: one autosomal recessive example Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:bio-b28-aqa-cf-carrier-pedigree -->
+
+
 - **Polydactyly** (extra fingers or toes) -- caused by a **dominant** allele.
 - **Cystic fibrosis** (a disorder of cell membranes) -- caused by a **recessive** allele.
 
 **Worked example.** Two parents are both carriers of cystic fibrosis (Ff × Ff). Offspring: 1 FF : 2 Ff : 1 ff. Probability of a child with cystic fibrosis = **1/4 (25%)**; probability of a carrier = **1/2**. If one parent has polydactyly (Dd) and the other does not (dd), half the children are expected to have it: **50%**.
 
-Family trees: two unaffected parents with an affected child shows the allele is recessive and both parents are carriers.
+In a **simple autosomal, single-gene model** with complete penetrance and no new mutation, two unaffected parents with an affected child support a recessive explanation and imply both parents carry the allele. A pedigree is evidence for an inheritance model, not proof that every real disorder follows that model.
 
 **Embryo screening** can identify disorders, but raises issues: cost, the risk of the procedure, and ethical concerns about destroying embryos or choosing characteristics. Use any information given in the question.
 
-**Sex determination.** Human body cells have **23 pairs** of chromosomes: 22 pairs control characteristics only; one pair determines sex. Females are **XX**, males **XY**. A cross of XX × XY gives 1 XX : 1 XY, so each child has a **50%** chance of being male.
+**Sex determination (typical XX/XY model).** Human body cells usually have **23 chromosome pairs**: 22 pairs of autosomes and one pair of sex chromosomes. Genes on both autosomes and sex chromosomes affect many characteristics; the sex chromosomes also carry genes beyond those involved in sex development. In the simplified model, XX eggs carry X and sperm carry X or Y, giving an expected 1 XX : 1 XY ratio. This model does not describe every variation in sex chromosomes or development.
 
 ## Variation and evolution (4.6.2.1–4.6.2.2)
 
 **Variation** is differences between individuals in a population, due to genes, the environment in which they developed, or both. There is usually extensive genetic variation within a species. All variants arise from **mutations**: most have no effect on the phenotype, some influence it, and very few determine it. Very rarely a mutation gives a new phenotype; if it suits an environmental change, the species can change relatively rapidly.
 
-**Evolution** is a change in the inherited characteristics of a population over time through **natural selection**, which may produce a new species. All species evolved from simple life forms that first developed more than three billion years ago. If two populations become so different that they can no longer interbreed to produce fertile offspring, they are two **new species**.
+**Evolution** is a change in inherited characteristics of populations over generations. **Natural selection** is one mechanism: heritable variants that improve reproductive success in a particular environment tend to become more common. Other mechanisms, including genetic drift and gene flow, also change populations. In the biological species concept, populations that no longer interbreed to produce fertile offspring are treated as separate species; this definition has limits for fossils, asexual organisms and some other cases.
 
 ## Selective breeding, genetic engineering and cloning (4.6.2.3–4.6.2.5)
 
 **Selective breeding** (artificial selection): choose parents with the desired characteristic; breed them; select the offspring with the characteristic and breed them; repeat over **many generations** until all offspring show it. Examples: disease resistance in crops, more meat or milk, gentle dogs, large or unusual flowers. Risk: **inbreeding**, making some breeds prone to disease or inherited defects.
 
-**Genetic engineering** modifies the genome of an organism by introducing a gene from another organism to give a desired characteristic. Examples: crops resistant to disease, insects or herbicides, or with bigger, better fruits (GM crops generally give higher yields); bacteria producing **human insulin**. Concerns include effects on wild flowers and insects, and uncertainty about the effects of eating GM crops. Research is exploring genetic modification to overcome some inherited disorders.
+**Genetic engineering** modifies an organism's genome to give a desired characteristic. In the AQA GCSE model, a gene from another organism is isolated and transferred using a vector. Examples include crops engineered for particular resistance traits and bacteria producing **human insulin**. Some GM crops have higher yields, but this is not guaranteed for every crop, trait or growing condition. Modern genome editing can also alter an organism's own DNA without adding a gene from another species. Potential benefits and risks depend on the organism, trait and setting; concerns include effects on wild organisms.
 
 **Higher tier only -- main steps:** enzymes isolate the required gene; it is inserted into a **vector**, usually a bacterial **plasmid** or a **virus**; the vector inserts the gene into the required cells; genes are transferred at an early stage of development so the organism develops with the desired characteristic.
 
+<!-- marlbridge-diagram:bio-b15-bacterial-transformation-selection -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/biology/bio-b15-bacterial-transformation-selection.svg" aria-label="Open full-size diagram: bio-b15-bacterial-transformation-selection"><img src="/images/learning/biology/bio-b15-bacterial-transformation-selection.svg" width="1528" height="940" alt="Bacterial transformation: a plasmid vector receives a gene, enters a bacterium, and transformed cells are selected; not every cell takes up the plasmid." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Bacterial transformation and selection: only cells with the intended construct are selected. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:bio-b15-bacterial-transformation-selection -->
+
 **Cloning:**
+
+<!-- marlbridge-diagram:bio-b31-aqa-8461-plant-cloning-methods -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/biology/bio-b31-aqa-8461-plant-cloning-methods.svg" aria-label="Open full-size diagram: bio-b31-aqa-8461-plant-cloning-methods"><img src="/images/learning/biology/bio-b31-aqa-8461-plant-cloning-methods.svg" width="1600" height="1050" alt="Plant cloning: cuttings and tissue culture" loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Plant cloning: cuttings and tissue culture Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:bio-b31-aqa-8461-plant-cloning-methods -->
+
 
 - **Tissue culture:** small groups of plant cells grow into identical plants -- useful for rare species and commercial nurseries.
 - **Cuttings:** a simple, older method used by gardeners.
 - **Embryo transplants:** cells are split from an animal embryo before they specialise, and the identical embryos are transplanted into host mothers.
 - **Adult cell cloning:** the nucleus is removed from an unfertilised egg; the nucleus from an adult body cell (such as a skin cell) is inserted; an electric shock makes it divide into an embryo with the same genetic information as the skin cell; the ball of cells is inserted into the womb of an adult female.
 
+<!-- marlbridge-diagram:bio-b19-genetic-engineering-and-nuclear-transfer -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/biology/bio-b19-genetic-engineering-and-nuclear-transfer.svg" aria-label="Open full-size diagram: bio-b19-genetic-engineering-and-nuclear-transfer"><img src="/images/learning/biology/bio-b19-genetic-engineering-and-nuclear-transfer.svg" width="1528" height="940" alt="Paired process panels show genetic engineering and adult-cell nuclear transfer, with the donor nucleus placed into an enucleated egg and embryo development before implantation." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Adult cell nuclear transfer is shown as a simplified teaching sequence. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:bio-b19-genetic-engineering-and-nuclear-transfer -->
+
 ## Developing the theory (4.6.3)
 
 **Darwin** proposed evolution by natural selection after a round-the-world expedition, experimentation and discussion, using geology and fossils: individuals vary; those best suited to the environment are more likely to survive and breed; their characteristics pass to the next generation. He published *On the Origin of Species* in **1859**. Acceptance was slow because the theory challenged the idea that God made all living things, there was too little evidence at the time, and the mechanism of inheritance was not known until 50 years later. **Lamarck** proposed that changes during an organism's lifetime are inherited; in the vast majority of cases this cannot happen.
 
-**Wallace** independently proposed the same theory and published joint writings with Darwin in 1858. He is best known for work on warning colouration and his theory of speciation. **Speciation** steps: a population is split and isolated; each group has genetic variation; different conditions select different variants; over time the groups become so different they cannot interbreed to produce fertile offspring.
+**Wallace** independently proposed evolution by natural selection and published joint writings with Darwin in 1858. He is best known for work on warning colouration and speciation. **One model of speciation**: populations become reproductively isolated; genetic differences accumulate through mutation, selection and drift; eventually they may no longer interbreed to produce fertile offspring. The steps and evidence can vary among species.
 
 **Mendel** (mid-19th century) bred plants and found characteristics are determined by "units" passed on unchanged. Chromosome behaviour was seen in the late 19th century; in the early 20th century the units (genes) were linked to chromosomes; in the mid-20th century DNA's structure was worked out. His work was not recognised until after his death, as chromosomes and genes were then unknown.
 
@@ -151,11 +181,25 @@ Family trees: two unaffected parents with an affected child shows the allele is 
 
 **Extinction** means no individuals remain. Contributing factors include new diseases, new predators or competitors, habitat change and catastrophic events.
 
-**Resistant bacteria:** bacteria reproduce fast, and mutations produce new strains. A resistant strain survives antibiotic treatment and reproduces, so it spreads (MRSA is an example). To slow this: no inappropriate prescribing (e.g. for viral infections), finish the course, and restrict agricultural use. New antibiotics are costly and slow to develop.
+**Resistant bacteria:** random mutations can produce resistant variants. An antibiotic selects against susceptible bacteria; resistant survivors may reproduce and increase in frequency. Resistance genes can also move between bacteria, for example on plasmids. MRSA is one example. To reduce selection, avoid unnecessary prescribing, restrict agricultural use and take prescribed antibiotics exactly as directed by the prescriber or patient instructions; a clinician may change or stop treatment. New antibiotics are costly and slow to develop.
+
+<!-- marlbridge-diagram:bio-gap-gcse-antibiotic-resistance-selection-and-spread -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/biology/bio-gap-gcse-antibiotic-resistance-selection-and-spread.svg" aria-label="Open full-size diagram: bio-gap-gcse-antibiotic-resistance-selection-and-spread"><img src="/images/learning/biology/bio-gap-gcse-antibiotic-resistance-selection-and-spread.svg" width="1528" height="940" alt="Three panels show bacterial variation before treatment, antibiotic selection of resistant survivors, and subsequent reproduction; a separate conditional panel shows transfer of a plasmid-borne resistance gene by conjugation." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Antibiotic resistance: treatment selects variants; it does not direct mutation. Plasmid transfer is conditional. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:bio-gap-gcse-antibiotic-resistance-selection-and-spread -->
 
 ## Classification (4.6.4)
 
-**Linnaeus** grouped organisms by structure: kingdom, phylum, class, order, family, genus, species. The **binomial** name is genus + species. Better microscopes and biochemistry led to **Woese's three-domain system**: **archaea**, **bacteria** and **eukaryota**. **Evolutionary trees** show how organisms are believed to be related, using classification data for living organisms and fossil data for extinct ones.
+**Linnaeus** grouped organisms using a hierarchy commonly taught as kingdom, phylum, class, order, family, genus and species. The **binomial** name is genus + species. Classification is a scientific model that changes as evidence improves; traditional kingdoms are not equivalent to the three domains. Evidence from cell structure and biochemistry supports the **three-domain system**: **Archaea**, **Bacteria** and **Eukaryota**. **Evolutionary trees** represent hypotheses about relationships, using common-ancestor nodes; a more recent shared node means a more recent common ancestor, not that one living tip evolved from another living tip.
+
+<!-- marlbridge-diagram:bio-b31-aqa-evolutionary-tree-reading -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/biology/bio-b31-aqa-evolutionary-tree-reading.svg" aria-label="Open full-size diagram: bio-b31-aqa-evolutionary-tree-reading"><img src="/images/learning/biology/bio-b31-aqa-evolutionary-tree-reading.svg" width="1528" height="940" alt="A branching evolutionary tree with common-ancestor nodes; taxa A and B share a more recent node than either does with C." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Reading a branching evolutionary tree: compare shared nodes to identify common ancestors. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:bio-b31-aqa-evolutionary-tree-reading -->
 
 ## Common errors
 

@@ -131,6 +131,14 @@ Always **add** the two areas for distance travelled, and **subtract** for displa
 
 ## Rates of change beyond travel
 
+<!-- marlbridge-diagram:math-b48-contextual-gradient-cost-flow-rate -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/mathematics/math-b48-contextual-gradient-cost-flow-rate.svg" aria-label="Open full-size diagram: math-b48-contextual-gradient-cost-flow-rate"><img src="/images/learning/mathematics/math-b48-contextual-gradient-cost-flow-rate.svg" width="1600" height="1050" alt="The gradient of cost against quantity gives price per item; the gradient of volume against time gives flow in litres per minute. Illustrative examples show £6 to £12 over 5 items gives £1.20/item, and 18 L over 6 min gives 3 L/min." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>The gradient of cost against quantity gives price per item; the gradient of volume against time gives flow in litres per minute. Illustrative examples show £6 to £12 over 5 items gives £1.20/item, and 18 L over 6 min gives 3 L/min. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:math-b48-contextual-gradient-cost-flow-rate -->
+
+
 The same gradient-as-rate idea applies beyond distance and speed: on a graph of **cost against quantity bought**, the gradient gives the **price per item**; on a graph of **volume against time** for a tap filling a container, the gradient gives the **flow rate**, in litres per minute. Always state the units when interpreting a gradient in context — a bare number rarely earns the mark.
 
 ## Common mistakes

@@ -163,6 +163,14 @@ Two values must be known: log_a a = 1 (since a¹ = a) and log_a 1 = 0 (since a�
 
 ### Graph of y = log_a x
 
+<!-- marlbridge-diagram:math-b61-shifted-log-graph -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/public/images/learning/mathematics/math-b61-shifted-log-graph.svg" aria-label="Open full-size diagram: math-b61-shifted-log-graph"><img src="/public/images/learning/mathematics/math-b61-shifted-log-graph.svg" width="1528" height="940" alt="For y=log₂(x−3), the graph shifts right by 3. Its vertical asymptote is x=3, domain x&gt;3, range all real values, and x-intercept (4,0); (5,1) and (7,2) are further points. The plot shows the asymptote and sample points." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>For y=log₂(x−3), the graph shifts right by 3. Its vertical asymptote is x=3, domain x&gt;3, range all real values, and x-intercept (4,0); (5,1) and (7,2) are further points. The plot shows the asymptote and sample points. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:math-b61-shifted-log-graph -->
+
+
 Because log_a x is the inverse of a^x, its graph is the reflection of y = a^x in the line y = x. Swapping coordinates gives these features for a > 1:
 
 - It passes through (1, 0) and (a, 1).

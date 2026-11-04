@@ -119,6 +119,14 @@ The triangles AMC and BMD are congruent (SAS). The angle is between the two equa
 
 ### Proof 2: ASA
 
+<!-- marlbridge-diagram:math-b77-ocr-congruence-asa-proof -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/public/images/learning/mathematics/math-b77-ocr-congruence-asa-proof.svg" aria-label="Open full-size diagram: math-b77-ocr-congruence-asa-proof"><img src="/public/images/learning/mathematics/math-b77-ocr-congruence-asa-proof.svg" width="1528" height="940" alt="A parallelogram split by diagonal AC, with alternate angle pairs and the shared side identified; ASA gives triangle ABC congruent to CDA and AB equal to CD." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>A parallelogram split by diagonal AC, with alternate angle pairs and the shared side identified; ASA gives triangle ABC congruent to CDA and AB equal to CD.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:math-b77-ocr-congruence-asa-proof -->
+
+
 ABCD is a parallelogram. Prove that triangle ABC is congruent to triangle CDA, and deduce that AB = CD.
 
 | Statement | Reason |

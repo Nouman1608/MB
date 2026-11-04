@@ -28,7 +28,7 @@ Related pages: [revision notes](/resources/ocr-gcse-physics-static-electricity-a
 | Outcome | What you must be able to do | Tier |
 |---|---|---|
 | P3.1a | Describe charge as a property of all matter; positive and negative charge; most bodies have equal amounts, so zero net charge | Both |
-| P3.1b | Describe how rubbing produces static electricity and sparking; give evidence for forces between charged objects not in contact; know that static charge only builds up on insulators | Both |
+| P3.1b | Describe how rubbing produces static electricity and sparking; give evidence for forces between charged objects not in contact; explain why charge can remain on insulators and on conductors insulated from Earth | Both |
 | P3.1c | Explain static electricity in terms of the transfer of electrons between objects | Both |
 | P3.1d | Explain the concept of an electric field and how it helps explain static electricity; relate fields to forces of attraction and repulsion | Higher Tier only |
 
@@ -69,7 +69,7 @@ An object has 15 positive units and 12 negative units. Net charge = 15 - 12 = +3
 
 Rub two different insulating materials together and both become charged. Typical school demonstrations use a polythene rod and an acetate rod, each rubbed with a dry cloth. Which material ends up positive depends on the pair of materials. In the usual demonstration, the acetate rod becomes positive and the polythene rod becomes negative. You will be told the sign in a question, or you can work it out from what the question says happens to the electrons.
 
-Static charge only builds up on **insulators**. The charge stays where it was made because it cannot move through the material. A conductor, such as a metal rod held in your hand, lets electrons flow away through your body to the ground, so it does not stay charged. A metal object held by an insulating handle can keep its charge, because the charge has nowhere to go.
+Static charge can remain on **insulators** and on **conductors insulated from Earth**. On an insulator, charge does not move freely through the material and can remain near where it was deposited. In a conductor, charge moves freely and redistributes over the surface. A metal rod held in your hand can discharge through your body to Earth, whereas an isolated metal object on an insulating support can retain net charge.
 
 ### Sparking
 

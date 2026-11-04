@@ -95,6 +95,14 @@ is unfinished. Add opening work in progress (finished this year) and deduct clos
 the year.
 
 ## Worked example 1: the manufacturing account
+<!-- marlbridge-diagram:ac-b14-manufacturing-cost-build-up -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/accounting/ac-b14-manufacturing-cost-build-up.svg" aria-label="Open full-size diagram: ac-b14-manufacturing-cost-build-up">
+    <img src="/images/learning/accounting/ac-b14-manufacturing-cost-build-up.svg" width="1600" height="1050" alt="Cost-flow diagram builds materials consumed, prime cost, factory overhead and cost of production." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" />
+  </a>
+  <figcaption>After adding opening WIP and deducting closing WIP, cost of production is $422,500. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:ac-b14-manufacturing-cost-build-up -->
 
 Tolverne Copperware makes copper pans. Year ended 30 April 2026:
 

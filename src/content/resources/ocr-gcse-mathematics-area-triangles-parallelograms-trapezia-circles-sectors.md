@@ -188,6 +188,14 @@ r = √63.66... = 7.98 cm (3 s.f.)
 
 ### Area of a sector
 
+<!-- marlbridge-diagram:math-b75-sector-area-fraction-of-circle -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/public/images/learning/mathematics/math-b75-sector-area-fraction-of-circle.svg" aria-label="Open full-size diagram: math-b75-sector-area-fraction-of-circle"><img src="/public/images/learning/mathematics/math-b75-sector-area-fraction-of-circle.svg" width="1528" height="940" alt="A sector with r=8 cm and θ=135° is 135/360=3/8 of the circle. Its area is 3/8×π×8²=24π≈75.4 cm²." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>A sector with r=8 cm and θ=135° is 135/360=3/8 of the circle. Its area is 3/8×π×8²=24π≈75.4 cm². Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:math-b75-sector-area-fraction-of-circle -->
+
+
 A **sector** is a slice of a circle between two radii. If the angle at the centre is θ degrees, the sector is the fraction θ/360 of the whole circle.
 
 **Area of a sector = (θ/360) × πr²**

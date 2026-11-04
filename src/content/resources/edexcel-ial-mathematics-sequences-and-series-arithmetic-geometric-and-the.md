@@ -72,6 +72,14 @@ Sₙ = (n/2)(2a + (n − 1)d) = (n/2)(a + l)     where l is the last term
 
 ### Proof of the sum formula
 
+<!-- marlbridge-diagram:maths-b24-arithmetic-series-reversed-pairing -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/mathematics/maths-b24-arithmetic-series-reversed-pairing.svg" aria-label="Open full-size diagram: maths-b24-arithmetic-series-reversed-pairing"><img src="/images/learning/mathematics/maths-b24-arithmetic-series-reversed-pairing.svg" width="1600" height="1050" alt="For the source example, u3=16 and u9=40 give a+2d=16 and a+8d=40, so d=4 and a=8. Thus u20=84. Pairing the sequence forward and backward gives 2S20=20(8+84)=1840, so S20=920." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>For the source example, u3=16 and u9=40 give a+2d=16 and a+8d=40, so d=4 and a=8. Thus u20=84. Pairing the sequence forward and backward gives 2S20=20(8+84)=1840, so S20=920. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:maths-b24-arithmetic-series-reversed-pairing -->
+
+
 Write the sum forwards and backwards, then add.
 
 ```

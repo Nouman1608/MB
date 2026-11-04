@@ -133,6 +133,14 @@ These appear in the framework's enrichment list only.
 
 ## A method for choosing
 
+<!-- marlbridge-diagram:math-b47-myp-triangle-method-decision -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/mathematics/math-b47-myp-triangle-method-decision.svg" aria-label="Open full-size diagram: math-b47-myp-triangle-method-decision"><img src="/images/learning/mathematics/math-b47-myp-triangle-method-decision.svg" width="1600" height="1050" alt="A decision diagram first separates right-angled from non-right triangles, then routes known information to Pythagoras, sin/cos/tan, the sine rule or the cosine rule, with a final reasonableness check." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>A decision diagram first separates right-angled from non-right triangles, then routes known information to Pythagoras, sin/cos/tan, the sine rule or the cosine rule, with a final reasonableness check. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:math-b47-myp-triangle-method-decision -->
+
+
 1. Sketch the situation and label what you know. Add north lines for bearings.
 2. Is there a right angle? If yes, use Pythagoras for two sides and one unknown side, or sin, cos, tan when an angle is involved.
 3. No right angle? Check what you know. A matching side and opposite angle pair, plus one more piece: use the sine rule. Two sides and the angle between them, or three sides: use the cosine rule.

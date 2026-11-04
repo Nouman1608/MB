@@ -130,6 +130,14 @@ When combining bounds: the greatest sum uses both upper bounds; the greatest dif
 
 ## Worked example
 
+<!-- marlbridge-diagram:math-b59-rectangle-area-upper-bound -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/public/images/learning/mathematics/math-b59-rectangle-area-upper-bound.svg" aria-label="Open full-size diagram: math-b59-rectangle-area-upper-bound"><img src="/public/images/learning/mathematics/math-b59-rectangle-area-upper-bound.svg" width="1528" height="940" alt="The source example gives length 12.4 cm and width 7.8 cm to 1 d.p. Their intervals are 12.35≤l&lt;12.45 and 7.75≤w&lt;7.85. The area upper bound is 12.45×7.85=97.7325 cm²." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>The source example gives length 12.4 cm and width 7.8 cm to 1 d.p. Their intervals are 12.35≤l&lt;12.45 and 7.75≤w&lt;7.85. The area upper bound is 12.45×7.85=97.7325 cm². Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:math-b59-rectangle-area-upper-bound -->
+
+
 A rectangle has length 12.4 cm and width 7.8 cm, each to 1 decimal place. Find the upper bound of the area.
 
 ```

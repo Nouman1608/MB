@@ -52,6 +52,11 @@ This topic uses the nucleus, centrioles and microtubules from [Cell structure](/
 
 ### The structure of a chromosome
 
+
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <!-- marlbridge-diagram:biology-chromosome-telomere-structure --><a href="/images/learning/biology/biology-chromosome-telomere-structure.svg" aria-label="Open full-size diagram: Chromosome structure and telomere protection" title="Chromosome structure and telomere protection"><img src="/images/learning/biology/biology-chromosome-telomere-structure.svg" width="1600" height="1050" alt="Chromosome structure and telomere protection. Panel A labels the sister chromatids, centromere, telomere ends and DNA wrapped around histones. Panel B gives a simplified before/after end-replication schematic in which repeat-rich telomere DNA shortens before adjacent genes are lost. It is explicitly simplified and does not depict detailed strand-specific replication or telomerase." title="Chromosome structure and telomere protection" loading="lazy" decoding="async" style="display:block;width:100%;height:auto;" /></a>
+  <figcaption>Chromosome structure and telomere protection: DNA is packaged with histones, sister chromatids meet at a centromere, and telomere repeats buffer chromosome ends. Select the diagram to enlarge it.</figcaption>
+</figure>
 The syllabus limits you to five features.
 
 - **DNA**: each chromatid contains one very long DNA molecule.
@@ -138,6 +143,9 @@ The cell cycle is controlled by genes. A **mutation** in a gene that controls ce
 | Shape during division | Rounds up | Stays roughly the same shape inside the wall |
 
 ### Identifying stages on photomicrographs
+
+<figure class="my-8" id="objective-bio-open-137-mitosis" data-objective-id="BIO-OPEN-137"><img src="/images/learning/biology/bio-open-137-onion-mitosis-cil43552.jpg" alt="Acetocarmine-stained bright-field photomicrograph of an onion root tip containing interphase, prophase, metaphase and late telophase cells." width="1280" height="1180" loading="lazy" decoding="async" /><figcaption>Onion root-tip cells. Shoba Shanti, CIL:43552, <a href="https://www.cellimagelibrary.org/images/43552">source record</a>, public domain. Source reports 40x objective, not pixel calibration; no scale added.</figcaption></figure>
+
 
 Look for one feature at a time.
 

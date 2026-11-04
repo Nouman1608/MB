@@ -92,6 +92,14 @@ For a journey in several legs, choose a scale, draw a north line at each turning
 
 **Worked example 3.** A hiker leaves camp C and walks 6 km on a bearing of 065° to a lake L. She then walks 4.5 km on a bearing of 150° to a hut H. Use a scale of 1 cm to 1.5 km to find the distance CH and the bearing of C from H.
 
+<!-- marlbridge-diagram:math-b43-oxfordaqa-igcse-scale-drawing-bearings-hiker-route -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/mathematics/math-b43-oxfordaqa-igcse-scale-drawing-bearings-hiker-route.svg" aria-label="Open full-size diagram: math-b43-oxfordaqa-igcse-scale-drawing-bearings-hiker-route"><img src="/images/learning/mathematics/math-b43-oxfordaqa-igcse-scale-drawing-bearings-hiker-route.svg" width="1600" height="1050" alt="Scale drawing: a two-leg journey using three-figure bearings" loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Scale drawing: a two-leg journey using three-figure bearings Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:math-b43-oxfordaqa-igcse-scale-drawing-bearings-hiker-route -->
+
+
 ```
 Scale: 6 km → 6 ÷ 1.5 = 4 cm      4.5 km → 4.5 ÷ 1.5 = 3 cm
 1. Mark C. Draw a north line. Measure 065° clockwise. Draw 4 cm to L.
@@ -179,6 +187,14 @@ Take P as the origin, Q to the right, S above.
 Test a point to be sure. A point 2 m across and 3 m up from P is above the 45° line, left of the bisector, and 3.6 m from P, so it is in the region. A point 4 m across and 5 m up is above the 45° line and left of the bisector but 6.4 m from P, so it is outside.
 
 ## Shortest route to a line (G13)
+
+<!-- marlbridge-diagram:math-b54-oxfordaqa-shortest-route-to-coast-perpendicular -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/public/images/learning/mathematics/math-b54-oxfordaqa-shortest-route-to-coast-perpendicular.svg" aria-label="Open full-size diagram: math-b54-oxfordaqa-shortest-route-to-coast-perpendicular"><img src="/public/images/learning/mathematics/math-b54-oxfordaqa-shortest-route-to-coast-perpendicular.svg" width="1528" height="940" alt="A ship S is 8 km from port H on a west–east coastline at bearing 040° from H. A perpendicular from S meets the coast at F; SF is about 6.1 km and is shorter than the slanted HS route." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>A ship S is 8 km from port H on a west–east coastline at bearing 040° from H. A perpendicular from S meets the coast at F; SF is about 6.1 km and is shorter than the slanted HS route.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:math-b54-oxfordaqa-shortest-route-to-coast-perpendicular -->
+
 
 The shortest route from a point to a line runs along the **perpendicular** to it. Any other route is a slanted side of a right-angled triangle, so it is longer.
 

@@ -66,6 +66,14 @@ equivalent, and using algebra to support and construct arguments
 
 ## How to approach it
 
+<!-- marlbridge-diagram:math-b57-oxfordaqa-algebra-inverse-skills -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/public/images/learning/mathematics/math-b57-oxfordaqa-algebra-inverse-skills.svg" aria-label="Open full-size diagram: math-b57-oxfordaqa-algebra-inverse-skills"><img src="/public/images/learning/mathematics/math-b57-oxfordaqa-algebra-inverse-skills.svg" width="1528" height="940" alt="The diagram follows the source’s guidance: expanding and factorising are inverse checks; secure Core factorisation supports the Extension ax²+bx+c method, while index laws require matching bases and Extension rational powers represent roots." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>The diagram follows the source’s guidance: expanding and factorising are inverse checks; secure Core factorisation supports the Extension ax²+bx+c method, while index laws require matching bases and Extension rational powers represent roots. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:math-b57-oxfordaqa-algebra-inverse-skills -->
+
+
 Almost every point in this sub-topic (A2, A4, A5, A6, A7, A8) has a
 named Core version and a named Extension extension — revise them in
 pairs rather than separately, since the underlying skill is identical

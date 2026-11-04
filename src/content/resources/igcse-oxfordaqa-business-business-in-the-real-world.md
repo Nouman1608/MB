@@ -87,6 +87,14 @@ Activity is classified by sector: **primary** (extraction and farming), **second
 
 ## Ownership
 
+<!-- marlbridge-diagram:business-oxfordaqa-igcse-ownership-structure-tradeoffs -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/business/business-oxfordaqa-igcse-ownership-structure-tradeoffs.svg" aria-label="Open full-size diagram: business-oxfordaqa-igcse-ownership-structure-tradeoffs"><img src="/images/learning/business/business-oxfordaqa-igcse-ownership-structure-tradeoffs.svg" width="1600" height="1050" alt="Comparison of sole trader, partnership, private Ltd and public plc, with a source-aligned note about franchising." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Comparison of sole trader, partnership, private Ltd and public plc, with a source-aligned note about franchising. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:business-oxfordaqa-igcse-ownership-structure-tradeoffs -->
+
+
 | Form | Liability | Points to know |
 |---|---|---|
 | Sole trader | Unlimited | Easy to set up, keeps all profit, limited capital, no continuity |

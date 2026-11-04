@@ -67,6 +67,14 @@ nothing to sell" scores better than "a census takes too long".
 
 ## 4.2 Statistics and sampling distributions
 
+<!-- marlbridge-diagram:maths-b24-sampling-distribution-maximum -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/mathematics/maths-b24-sampling-distribution-maximum.svg" aria-label="Open full-size diagram: maths-b24-sampling-distribution-maximum"><img src="/images/learning/mathematics/maths-b24-sampling-distribution-maximum.svg" width="1600" height="1050" alt="Two values are sampled with replacement from 1, 3 and 5, each equally likely. Across nine ordered pairs, the maximum M is 1 once, 3 three times and 5 five times. Thus P(M=1,3,5)=(1/9,3/9,5/9), E(M)=35/9≈3.89, greater than population mean 3." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Two values are sampled with replacement from 1, 3 and 5, each equally likely. Across nine ordered pairs, the maximum M is 1 once, 3 three times and 5 five times. Thus P(M=1,3,5)=(1/9,3/9,5/9), E(M)=35/9≈3.89, greater than population mean 3. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:maths-b24-sampling-distribution-maximum -->
+
+
 A **statistic** is a quantity calculated only from the sample values, with no unknown parameter in it. If
 X₁, X₂, X₃ is a sample from a population with unknown mean μ, then (X₁ + X₂ + X₃)/3 and the largest of the three are
 statistics. The expression X₁ − μ is not, because μ is unknown.

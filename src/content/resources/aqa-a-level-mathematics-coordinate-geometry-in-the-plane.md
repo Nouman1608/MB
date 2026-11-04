@@ -46,6 +46,14 @@ m₁m₂ = −1 for perpendicular lines.
 
 ## C1: Straight lines
 
+<!-- marlbridge-diagram:maths-aqa-coordinate-line-circle -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/mathematics/maths-aqa-coordinate-line-circle.svg" aria-label="Open full-size diagram: maths-aqa-coordinate-line-circle"><img src="/images/learning/mathematics/maths-aqa-coordinate-line-circle.svg" width="1600" height="1050" alt="Diagram follows the source line example with A(−2,5), B(4,1), line equation 2x+3y−11=0 and perpendicular bisector 3x−2y+3=0; circle conversion included." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Diagram follows the source line example with A(−2,5), B(4,1), line equation 2x+3y−11=0 and perpendicular bisector 3x−2y+3=0; circle conversion included. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:maths-aqa-coordinate-line-circle -->
+
+
 The gradient of the line through (x₁, y₁) and (x₂, y₂) is
 
 ```

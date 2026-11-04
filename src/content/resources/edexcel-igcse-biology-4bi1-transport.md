@@ -41,7 +41,7 @@ Use it with the [Transport revision notes](/resources/edexcel-igcse-biology-4bi1
 
 ## Why transport systems are needed (2.51–2.52)
 
-A single-celled organism exchanges oxygen, nutrients and carbon dioxide across its cell membrane by diffusion. That works because:
+A single-celled organism exchanges oxygen, nutrients and carbon dioxide across its cell membrane by diffusion. Many small or thin multicellular organisms also exchange much of what they need by diffusion. Large or thick multicellular organisms generally need bulk transport because their cells are farther from exchange surfaces. In both cases, compare surface area with volume using the same length unit: SA:V has units of inverse length (for example, µm⁻¹), not a dimensionless value. Diffusion works well in a single cell because:
 
 - it has a **large surface area to volume ratio**, so there is plenty of membrane for each unit of volume that needs supplying
 - the **diffusion distance is short**: no part of the cytoplasm is far from the surface.
@@ -54,28 +54,49 @@ Model a single cell as a cube of side 20 µm and a small multicellular organism 
 
 ```
 Cell:      SA = 6 × 20² = 2400 µm²      V = 20³ = 8000 µm³
-           SA:V = 2400 / 8000 = 0.3 : 1
+           SA:V = 2400 / 8000 = 0.3 µm⁻¹
 Organism:  SA = 6 × 2000² = 24 000 000 µm²   V = 2000³ = 8 000 000 000 µm³
-           SA:V = 0.003 : 1
+           SA:V = 0.003 µm⁻¹
 ```
 
 The cell's ratio is **100 times larger**, and the organism's centre is 1000 µm from its surface instead of 10 µm.
 
 ## Transport in flowering plants
 
+<!-- marlbridge-diagram:bio-b15-edexcel-4bi1-plant-transport -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/biology/bio-b15-edexcel-4bi1-plant-transport.svg" aria-label="Open full-size diagram: bio-b15-edexcel-4bi1-plant-transport"><img src="/images/learning/biology/bio-b15-edexcel-4bi1-plant-transport.svg" width="1600" height="900" alt="Diagram contrasts upward water and mineral transport in dead lignified xylem with source-to-sink sucrose and amino-acid transport in living phloem that may travel in opposite directions in different sieve tubes." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Xylem and phloem carry different materials; phloem direction depends on source-to-sink demand. — Marlbridge Biology.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:bio-b15-edexcel-4bi1-plant-transport -->
+
 ### Phloem (2.53)
 
-Phloem carries **sucrose and amino acids** made in the leaves to other parts of the plant: growing shoot and root tips, developing fruits and seeds, and storage organs. Movement in phloem can be **up or down** the plant, depending on where the food is needed. This movement of food is called **translocation**.
+Phloem carries **sucrose and amino acids** from sources—commonly mature leaves, but also stores when reserves are mobilised—to sinks such as growing shoot and root tips, developing fruits and seeds, and storage organs. Translocation moves sap from source to sink. Different sieve tubes can carry it **up or down** the plant at the same time, depending on their sources and sinks.
 
 ### Xylem (2.54)
 
-Xylem carries **water and mineral ions** from the roots up the stem to the leaves and other parts. Xylem vessels are dead, hollow tubes with no end walls and lignin-strengthened walls. Flow in xylem is **one way: upwards**.
+Xylem carries **water and mineral ions** from roots towards stems and leaves in the usual transpiration stream. Xylem vessels are formed from dead vessel elements with lignified walls; their end walls are perforated or largely lost to make a continuous water pathway, rather than every end wall being universally absent. The transpiration stream normally moves upwards.
 
 ### Water uptake by root hair cells (2.55B, Paper 2 only)
 
-Root hair cells have long, thin extensions that give a **large surface area** for absorption. Their cell sap is more concentrated than the soil water, so water moves into the root hair cell **by osmosis**, from the dilute soil solution, across the partially permeable cell membrane, into the more concentrated cell sap. The water then passes from cell to cell across the root cortex to the xylem.
+<!-- marlbridge-diagram:bio-b34-edexcel-4bi1-active-transport-root-hair -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/biology/bio-b34-edexcel-4bi1-active-transport-root-hair.svg" aria-label="Open full-size diagram: bio-b34-edexcel-4bi1-active-transport-root-hair"><img src="/images/learning/biology/bio-b34-edexcel-4bi1-active-transport-root-hair.svg" width="1528" height="871" alt="Root-hair carrier proteins use energy from respiration to move mineral ions against a concentration gradient; water enters separately by osmosis." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Mineral-ion uptake by active transport is distinct from water uptake by osmosis. — Marlbridge Biology.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:bio-b34-edexcel-4bi1-active-transport-root-hair -->
+
+Root hair cells have long, thin extensions that provide a **large surface area** for absorption. When the soil solution has a higher water potential than the cell sap, water crosses the partially permeable membrane **by osmosis** into the cell; solute concentration is one factor affecting water potential, while pressure also contributes. Water then moves across the root cortex towards the xylem. Mineral ions can be taken up against their concentration gradient by carrier-mediated active transport using energy from respiration; this is a different process from osmosis.
 
 ### Transpiration (2.56B, Paper 2 only)
+
+<!-- marlbridge-diagram:bio-b15-edexcel-4bi1-transpiration-stream -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/biology/bio-b15-edexcel-4bi1-transpiration-stream.svg" aria-label="Open full-size diagram: bio-b15-edexcel-4bi1-transpiration-stream"><img src="/images/learning/biology/bio-b15-edexcel-4bi1-transpiration-stream.svg" width="1528" height="871" alt="Water enters root hairs by osmosis, travels across the root and up xylem, evaporates from mesophyll surfaces into air spaces, and diffuses out through stomata as water vapour." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Separate evaporation inside the leaf from outward diffusion through stomata; the transpiration stream pulls water up xylem. — Marlbridge Biology.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:bio-b15-edexcel-4bi1-transpiration-stream -->
 
 **Transpiration is the evaporation of water from the surface of a plant.** Most of it happens in the leaves: water evaporates from the surfaces of mesophyll cells into the air spaces, then water vapour **diffuses out through the stomata**. Losing water from the leaves pulls more water up the xylem from the roots, forming the transpiration stream that also carries mineral ions.
 
@@ -86,17 +107,27 @@ Root hair cells have long, thin extensions that give a **large surface area** fo
 | Humidity increases | Decreases | Less difference in water vapour concentration between the leaf air spaces and the air outside, so slower diffusion |
 | Wind speed increases | Increases | Moving air carries water vapour away from the leaf surface, keeping the concentration gradient steep |
 | Temperature increases | Increases | Water molecules have more kinetic energy, so evaporation and diffusion are faster |
-| Light intensity increases | Increases | More stomata open (for photosynthesis), so more water vapour can diffuse out |
+| Light intensity increases | Usually increases when light opens stomata; the response depends on stomatal and water status | More open stomata can allow more water vapour to diffuse out |
+
+These are usual trends under otherwise suitable conditions. In particular, drought or very high evaporative demand can trigger stomatal closure and change the response.
 
 ### Practical: environmental factors and transpiration (2.58B, Paper 2 only)
 
-A **potometer** measures how fast a leafy shoot takes up water, which is close to its rate of transpiration.
+<!-- marlbridge-diagram:bio-b14-potometer-apparatus -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/biology/bio-b14-potometer-apparatus.svg" aria-label="Open full-size diagram: bio-b14-potometer-apparatus"><img src="/images/learning/biology/bio-b14-potometer-apparatus.svg" width="1600" height="960" alt="A leafy shoot is sealed to water-filled tubing. A capillary contains one movable air bubble, and a reservoir resets it. Bubble distance and tube radius estimate water uptake per time; uptake is a proxy, not direct transpiration." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>A leafy shoot is sealed to water-filled tubing. A capillary contains one movable air bubble, and a reservoir resets it. Bubble distance and tube radius estimate water uptake per time; uptake is a proxy, not direct transpiration. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:bio-b14-potometer-apparatus -->
+
+
+A **potometer** measures water uptake and uses it as a proxy for transpiration; the two rates need not be identical because some absorbed water is used in growth or storage. The apparatus diagram shows the capillary bubble and reservoir reset.
 
 1. Cut the shoot **under water** and fit it to the potometer under water, so no air enters the xylem.
 2. Seal the joints with petroleum jelly so the apparatus is airtight and watertight.
 3. Dry the leaves gently, introduce an air bubble into the capillary tube and let the shoot settle for a few minutes.
 4. Record how far the bubble moves in a set time. Reset it with the reservoir and repeat to get a mean.
-5. Change one factor: a fan at set distances (wind speed), a lamp at set distances (light intensity), a clear plastic bag over the shoot (humidity), or a different room temperature. Keep the other factors and the same shoot constant.
+5. Change one factor: a fan at set distances (wind speed), a lamp at set distances (light intensity), a clear plastic bag over the shoot (humidity), or a different room temperature. Keep the other factors and the same shoot constant. A bag can also alter temperature and light, so use a transparent bag, avoid heating it, and check that the other conditions remain comparable.
 
 ### Worked example 2: rate of water uptake
 
@@ -110,10 +141,17 @@ Rate   = 32.99 / 6 = 5.50 mm³ per minute
 ## Blood (2.59–2.64B)
 
 ### Composition (2.59) and plasma (2.60)
+<!-- marlbridge-diagram:bio-b24-edexcel-blood-cell-morphology -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/biology/bio-b24-edexcel-blood-cell-morphology.svg" aria-label="Open full-size diagram: bio-b24-edexcel-blood-cell-morphology"><img src="/images/learning/biology/bio-b24-edexcel-blood-cell-morphology.svg" width="1528" height="940" alt="Morphology comparison of mature mammalian red blood cells, phagocytes, lymphocytes, platelets and plasma. Red cells are biconcave, lack a nucleus and contain haemoglobin; phagocytes ingest and digest pathogens; lymphocytes release antibodies; platelets are cell fragments." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Cell forms are schematic and not to scale. Nonnucleated biconcave red cells are scoped to mature mammalian cells; CO₂ is carried mainly as bicarbonate in plasma. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:bio-b24-edexcel-blood-cell-morphology -->
+
 
 Blood is made of **red blood cells**, **white blood cells**, **platelets** and **plasma**. Plasma is the liquid part. It transports:
 
-- **carbon dioxide** (dissolved) from respiring cells to the lungs
+- **carbon dioxide** from respiring cells to the lungs, carried mainly as hydrogen carbonate (bicarbonate) ions in plasma, with smaller amounts dissolved or bound to haemoglobin
 - **digested food** such as glucose and amino acids from the small intestine to cells
 - **urea** from the liver to the kidneys
 - **hormones** from endocrine glands to target organs
@@ -121,28 +159,63 @@ Blood is made of **red blood cells**, **white blood cells**, **platelets** and *
 
 ### Red blood cells (2.61)
 
-Red blood cells carry oxygen. Each adaptation has a reason:
+<!-- marlbridge-diagram:auth-bio-blood-survey -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/biology/auth-bio-blood-survey.jpg" aria-label="Open full-size image: auth-bio-blood-survey"><img src="/images/learning/biology/auth-bio-blood-survey.jpg" width="3264" height="1840" alt="Original blood-smear micrograph showing red blood cells and segmented neutrophils; no calibrated scale, platelet identification, or full white-cell survey is claimed." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>CC0 blood-smear micrograph for recognition only; it is not to scale and does not show every blood-cell type. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:auth-bio-blood-survey -->
+
+Mature mammalian red blood cells carry oxygen. Their adaptations have a reason:
 
 - **Biconcave disc shape**: a large surface area to volume ratio for fast diffusion of oxygen in and out.
 - **No nucleus**: more room for haemoglobin, so more oxygen carried per cell.
 - **Haemoglobin**: combines with oxygen in the lungs to form oxyhaemoglobin, and releases it in respiring tissues.
 
 ### White blood cells and the immune response (2.62)
+<!-- marlbridge-diagram:bio-b24-edexcel-antibody-phagocytosis-mechanism -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/biology/bio-b24-edexcel-antibody-phagocytosis-mechanism.svg" aria-label="Open full-size diagram: bio-b24-edexcel-antibody-phagocytosis-mechanism"><img src="/images/learning/biology/bio-b24-edexcel-antibody-phagocytosis-mechanism.svg" width="1528" height="940" alt="An antibody made by a lymphocyte binds a matching antigen epitope; antibodies can clump pathogens or mark them for destruction. A phagocyte ingests pathogens and digests them with enzymes." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Antibodies recognise specific epitopes, not necessarily one whole pathogen. Phagocytes ingest and digest pathogens; antibodies can clump or mark them. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:bio-b24-edexcel-antibody-phagocytosis-mechanism -->
+
 
 - **Phagocytes** move to infected areas and **ingest pathogens** (phagocytosis), then digest them with enzymes.
-- **Lymphocytes** release **antibodies**. Each antibody is **specific** to one pathogen: it fits the antigens on that pathogen's surface. Antibodies cause pathogens to clump together or mark them for destruction by phagocytes.
+- **B lymphocytes** can develop into plasma cells that secrete **antibodies**; some become memory cells. Each antibody binds a particular antigen **epitope**. A pathogen can carry many different antigens, and a shared epitope can occur on more than one pathogen. Antibody binding can clump pathogens or mark them for destruction by phagocytes.
 
 ### Vaccination (2.63B, Paper 2 only)
+<!-- marlbridge-diagram:bio-b24-edexcel-vaccination-memory-response -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/biology/bio-b24-edexcel-vaccination-memory-response.svg" aria-label="Open full-size diagram: bio-b24-edexcel-vaccination-memory-response"><img src="/images/learning/biology/bio-b24-edexcel-vaccination-memory-response.svg" width="1528" height="940" alt="Qualitative antibody-level graph after vaccination and later pathogen exposure. The primary response is slower and smaller; memory cells enable a sooner, faster and greater secondary antibody response. Protection reduces risk or severity but is not guaranteed." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Qualitative, not to scale: vaccination prepares memory cells for a faster later response. It reduces risk or severity but does not guarantee no symptoms. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:bio-b24-edexcel-vaccination-memory-response -->
 
-A vaccine contains a dead or weakened form of a pathogen, or its antigens. These cannot cause the disease, but lymphocytes still respond by making antibodies, and some become **memory cells**. If the real pathogen enters later, memory cells allow antibody production to occur **sooner, faster and in greater quantity**. The pathogen is destroyed before it causes symptoms, so the person is immune.
+
+Vaccines may contain an inactivated pathogen, selected antigens, or a live attenuated (weakened) pathogen. They are designed to expose the immune system to antigen without causing the full disease in most suitable recipients; live vaccines are not appropriate for some immunocompromised people. Lymphocytes respond by producing antibodies and memory cells. If the pathogen is encountered later, memory cells can produce a faster, larger secondary response. Vaccination reduces the risk or severity of illness but does not guarantee that infection or symptoms will be prevented.
 
 ### Platelets and clotting (2.64B, Paper 2 only)
 
-Platelets are fragments of cells. At a cut, they trigger a chain of reactions that turns the soluble plasma protein fibrinogen into insoluble **fibrin** threads. The threads form a mesh that traps red blood cells, forming a **clot**, which dries into a scab. The clot **prevents blood loss** and **stops micro-organisms entering** the body.
+<!-- marlbridge-diagram:bio-b21-platelet-fibrin-clot -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/biology/bio-b21-platelet-fibrin-clot.svg" aria-label="Open full-size diagram: bio-b21-platelet-fibrin-clot"><img src="/images/learning/biology/bio-b21-platelet-fibrin-clot.svg" width="1600" height="1000" alt="At a vessel injury, platelets help convert soluble fibrinogen into insoluble fibrin threads; the mesh traps red blood cells and helps seal the break." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>A fibrin mesh helps reduce blood loss and forms a barrier to microorganism entry; the diagram simplifies the reaction cascade. — Marlbridge Biology.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:bio-b21-platelet-fibrin-clot -->
+
+Platelets are fragments of cells. At a cut, they trigger a chain of reactions that turns the soluble plasma protein fibrinogen into insoluble **fibrin** threads. The threads form a mesh that traps red blood cells, forming a **clot**, which can dry into a scab. The clot helps reduce blood loss and limits microorganism entry; it does not guarantee that all bleeding or infection is prevented.
 
 ## The heart (2.65–2.67)
 
 ### Structure and function (2.65)
+
+<!-- marlbridge-diagram:bio-b15-edexcel-4bi1-heart-anatomy -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/biology/bio-b15-edexcel-4bi1-heart-anatomy.svg" aria-label="Open full-size diagram: bio-b15-edexcel-4bi1-heart-anatomy"><img src="/images/learning/biology/bio-b15-edexcel-4bi1-heart-anatomy.svg" width="1528" height="940" alt="Heart diagram labels the four chambers, septum, AV and semilunar valve locations, thicker left-ventricle wall and coronary arteries on the heart surface." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Heart chambers, valve positions and coronary blood supply — Marlbridge Biology.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:bio-b15-edexcel-4bi1-heart-anatomy -->
 
 The heart is a muscular pump with four chambers. The right side pumps **deoxygenated** blood to the lungs; the left side pumps **oxygenated** blood to the body. The **septum** keeps the two sides apart.
 
@@ -154,7 +227,7 @@ Route of blood: vena cava → right atrium → right ventricle → pulmonary art
 
 ### Heart rate in exercise and with adrenaline (2.66)
 
-During exercise, muscles respire faster, needing more oxygen and glucose and producing more carbon dioxide. The brain detects the rise in carbon dioxide in the blood and sends nerve impulses to the heart, which beats **faster and more strongly**. More blood reaches the muscles each minute, delivering oxygen and glucose and removing carbon dioxide.
+During exercise, working muscles use more oxygen and glucose and produce more carbon dioxide. Central command, autonomic control and signals from receptors in muscles and blood—including chemoreceptor input related to carbon dioxide—contribute to the rise in heart rate and contraction strength. More blood can then reach working muscles each minute. Carbon dioxide is one input, not the sole signal controlling the response.
 
 **Adrenaline**, released by the adrenal glands in fright or stress, also increases heart rate, delivering more oxygen and glucose to muscles for "fight or flight".
 
@@ -170,7 +243,7 @@ Exercise: 31 × 4 = 124 beats per minute
 
 ### Coronary heart disease (2.67)
 
-Fatty deposits build up in the walls of the coronary arteries and narrow them. Less blood, and so less oxygen, reaches the heart muscle, which cannot respire aerobically; if an artery is blocked, part of the muscle dies (a heart attack). Factors that increase the risk:
+Fatty deposits can narrow coronary arteries and reduce blood flow. Moderate narrowing may still meet the heart muscle’s resting oxygen demand; ischaemia occurs when oxygen supply falls below demand. Prolonged severe restriction or complete blockage can damage or kill heart muscle (a myocardial infarction, or heart attack). Factors that increase the risk:
 
 - **smoking** (carbon monoxide and nicotine damage the circulatory system and raise blood pressure)
 - a diet high in **saturated fat** (raises blood cholesterol) and high in salt
@@ -180,13 +253,34 @@ Fatty deposits build up in the walls of the coronary arteries and narrow them. L
 
 ## Blood vessels and circulation (2.68–2.69)
 
+<!-- marlbridge-diagram:bio-b21-double-circulation-route -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/biology/bio-b21-double-circulation-route.svg" aria-label="Open full-size diagram: pulmonary and systemic circulation routes"><img src="/images/learning/biology/bio-b21-double-circulation-route.svg" width="1600" height="950" alt="Two labeled routes show lower-oxygen blood from the right ventricle through the pulmonary artery to lung capillaries, then more oxygenated blood through the pulmonary vein to the left atrium; the systemic route sends more oxygenated blood from the left ventricle through the aorta to body capillaries and returns lower-oxygen blood through the vena cava to the right atrium." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Pulmonary and systemic circulation; arrows show flow direction and schematic oxygenation changes.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:bio-b21-double-circulation-route -->
+
+<!-- marlbridge-diagram:bio-b21-hepatic-renal-vessel-routes -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/biology/bio-b21-hepatic-renal-vessel-routes.svg" aria-label="Open full-size diagram: bio-b21-hepatic-renal-vessel-routes"><img src="/images/learning/biology/bio-b21-hepatic-renal-vessel-routes.svg" width="1600" height="1000" alt="Schematic branches show hepatic artery, hepatic portal vein and hepatic vein with renal arteries and veins linked to aorta and vena cava." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Hepatic and renal vessel routes; simplified map, not to scale. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:bio-b21-hepatic-renal-vessel-routes -->
+
+<!-- marlbridge-diagram:bio-gap-igcse-blood-vessel-wall-cross-sections -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/biology/bio-gap-igcse-blood-vessel-wall-cross-sections.svg" aria-label="Open full-size diagram: bio-gap-igcse-blood-vessel-wall-cross-sections"><img src="/images/learning/biology/bio-gap-igcse-blood-vessel-wall-cross-sections.svg" width="1528" height="940" alt="Cross-sections compare thick artery wall and narrower lumen, thinner vein wall and wider lumen with a valve, and a capillary wall one cell thick." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Blood-vessel wall comparison; schematic cross-sections, not to scale. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:bio-gap-igcse-blood-vessel-wall-cross-sections -->
+
 | Vessel | Structure | Link to function |
 |---|---|---|
-| Artery | Thick wall with muscle and elastic tissue; narrow lumen | Carries blood away from the heart at high pressure; wall stretches and recoils |
-| Vein | Thin wall; wide lumen; valves | Carries blood back to the heart at low pressure; valves prevent backflow |
-| Capillary | Wall one cell thick; very narrow | Short diffusion distance for exchange of substances with tissue cells |
+| Artery (typical systemic example) | Thick wall with muscle and elastic tissue; typically narrower lumen than a corresponding vein | Carries blood away from the heart under higher, pulsatile pressure; wall stretches and recoils |
+| Vein (typical systemic example) | Thinner wall; typically wider lumen; valves occur in many veins | Carries blood toward the heart at lower pressure; valves limit backflow where present |
+| Capillary | Wall one endothelial cell thick; very narrow lumen | Short diffusion distance supports exchange between blood and tissues |
 
-Humans have a **double circulation**: blood passes through the heart twice on each complete circuit, once to the lungs and once to the body. Vessels you must name:
+These wall/lumen comparisons describe typical systemic vessels. Vessel names describe direction relative to the heart, not oxygen content: the pulmonary artery carries less-oxygenated blood to the lungs, and the pulmonary vein returns more-oxygenated blood to the heart. Humans have a **double circulation**: blood passes through the heart twice on a complete journey, once through the pulmonary circuit and once through the systemic circuit. Vessels you must name:
 
 - **Heart**: vena cava (in), aorta (out); coronary arteries supply the heart muscle.
 - **Lungs**: pulmonary artery (to), pulmonary vein (from).

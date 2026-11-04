@@ -170,6 +170,14 @@ Answers: **38** and **−3**. A root sign covers everything under it, so it acts
 
 ## N4: Primes, factors and multiples
 
+<!-- marlbridge-diagram:math-b58-oxfordaqa-prime-factor-trees-hcf-lcm -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/public/images/learning/mathematics/math-b58-oxfordaqa-prime-factor-trees-hcf-lcm.svg" aria-label="Open full-size diagram: math-b58-oxfordaqa-prime-factor-trees-hcf-lcm"><img src="/public/images/learning/mathematics/math-b58-oxfordaqa-prime-factor-trees-hcf-lcm.svg" width="1528" height="940" alt="Two factor trees resolve 540 and 756 into prime factors. A shared-power comparison yields HCF 108 and LCM 3,780; their product equals the product of the original numbers." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Two factor trees resolve 540 and 756 into prime factors. A shared-power comparison yields HCF 108 and LCM 3,780; their product equals the product of the original numbers.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:math-b58-oxfordaqa-prime-factor-trees-hcf-lcm -->
+
+
 - An even number is a multiple of 2. An odd number is not.
 - A prime number has exactly two factors: 1 and itself. That rules out 1, and 2 is the one prime that is even.
 - Factors (divisors) of a number divide into it exactly. Multiples are in its times table.

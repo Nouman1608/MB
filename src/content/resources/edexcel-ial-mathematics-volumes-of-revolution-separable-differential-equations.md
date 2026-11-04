@@ -35,6 +35,12 @@ Use it with the [revision notes](/resources/edexcel-ial-mathematics-volumes-of-r
 The specification says π∫y² dx is required, but not π∫x² dy. You are not expected to sketch a curve from its parametric equations.
 
 ## 6.1 Volume of revolution
+<!-- marlbridge-diagram:maths-b18-volume-revolution -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/mathematics/maths-b18-volume-revolution.svg" aria-label="Open full-size diagram: maths-b18-volume-revolution"><img src="/images/learning/mathematics/maths-b18-volume-revolution.svg" width="1600" height="1050" alt="Region under y=x from zero to two rotated about x-axis; volume is 8π/3 cubic units." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Region under y=x from zero to two rotated about x-axis; volume is 8π/3 cubic units. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:maths-b18-volume-revolution -->
 
 Spin the region bounded by a curve, the x-axis and the vertical lines x = a and x = b through 360° about the x-axis. Each thin slice of width δx is almost a disc of radius y, so its volume is about πy² δx. Adding the slices gives
 
@@ -130,6 +136,12 @@ V = π ∫ (1 to 2) (t + 2)² × 2t dt
 If dx/dt is negative on part of the range, x runs backwards as t increases. Keep the limits in the order that matches x increasing. Reversing them gives a negative volume.
 
 ## 6.4 Separable differential equations
+<!-- marlbridge-diagram:maths-b18-separable-de -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/mathematics/maths-b18-separable-de.svg" aria-label="Open full-size diagram: maths-b18-separable-de"><img src="/images/learning/mathematics/maths-b18-separable-de.svg" width="1600" height="1050" alt="For dy/dx=xy and y(0)=2, solution is y=2e^(x²/2), verified by substitution." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>For dy/dx=xy and y(0)=2, solution is y=2e^(x²/2), verified by substitution. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:maths-b18-separable-de -->
 
 A first-order equation is separable if dy/dx = f(x) g(y). Move all the y terms to one side and all the x terms to the other, then integrate both sides:
 
@@ -198,6 +210,12 @@ r = 3:  9 = t/3 + 1/3, so t = 26
 **k = 1/3 and t = 26 hours**
 
 ## 6.5 Area from parametric equations
+<!-- marlbridge-diagram:maths-b19-parametric-area -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/mathematics/maths-b19-parametric-area.svg" aria-label="Open full-size diagram: maths-b19-parametric-area"><img src="/images/learning/mathematics/maths-b19-parametric-area.svg" width="1600" height="1050" alt="For x=t and y=t(2−t), 0≤t≤2, the area integral is ∫₀²t(2−t)dt=4/3 square units." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>For x=t and y=t(2−t), 0≤t≤2, the area integral is ∫₀²t(2−t)dt=4/3 square units. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:maths-b19-parametric-area -->
 
 The area under a curve is ∫ y dx. With a parameter,
 

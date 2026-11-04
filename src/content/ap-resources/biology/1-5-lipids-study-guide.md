@@ -12,7 +12,7 @@ prerequisites:
 prerequisiteResources: ["mb-ap-bio-1.4-study-guide"]
 learningObjectives:
   - "Explain why most lipids are nonpolar and hydrophobic, and how their parts are put together"
-  - "Tell saturated and unsaturated fatty acids apart and link the number of double bonds to kinks, packing and whether a fat is solid or liquid"
+  - "Tell saturated and unsaturated fatty acids apart and explain how cis double bonds, tail packing and fatty-acid mixture affect whether a fat is solid or liquid"
   - "Describe the jobs of fats, phospholipids, steroids and cholesterol in living things"
   - "Explain why phospholipids arrange themselves into a bilayer in water"
   - "Predict what happens to a cell or organism when the lipids it makes or contains are changed"
@@ -27,8 +27,7 @@ framework: { schoolYear: "2026-27", examSeries: "May 2027" }
 sources: ["ced-biology", "page-biology"]
 keyPoints:
   - "Lipids are mostly carbon and hydrogen joined by nonpolar C–H bonds, so most lipids are hydrophobic. They are not polymers of repeating monomers."
-  - "A saturated fatty acid has only C–C single bonds and a straight tail. An unsaturated one has at least one C=C double bond, which kinks the tail."
-  - "More double bonds mean more kinks, looser packing and a fat that is more liquid at room temperature."
+  - "Cis C=C bonds bend many unsaturated fatty-acid tails; trans double bonds do not make the same pronounced kink. Tail packing and the fatty-acid mixture affect melting behaviour."
   - "Fats store energy (about twice as much per gram as carbohydrate) and can insulate. Phospholipids form membrane bilayers. Steroids act as hormones. Cholesterol stabilises animal cell membranes."
   - "Structure explains function: change the lipid and you change what it can do."
 faqs:
@@ -58,7 +57,7 @@ Most lipids are not polymers. They are assembled from a few subcomponents, such 
 A **fatty acid** is a long chain of carbon atoms with hydrogen atoms attached (a **hydrocarbon tail**), with an acid (carboxyl) group at one end. Most natural fatty acids have between about 12 and 24 carbon atoms.
 
 - In a **saturated** fatty acid, every carbon–carbon bond is a **single bond**. Each carbon holds as many hydrogen atoms as it can, so the chain is "saturated" with hydrogen. The tail is straight.
-- In an **unsaturated** fatty acid, there is **at least one C=C double bond**. Each double bond puts a **kink** (bend) in the chain.
+- An **unsaturated** fatty acid has **at least one C=C double bond**. A **cis** double bond bends the chain; a **trans** double bond leaves it more nearly straight. Many natural unsaturated fatty acids contain cis bonds, but do not infer the geometry from the word *unsaturated* alone.
 - One double bond makes a **monounsaturated** fatty acid. Two or more make a **polyunsaturated** one. The more double bonds, the more unsaturated the fatty acid.
 
 A useful check: each C=C double bond means two fewer hydrogen atoms. An 18-carbon fatty acid with no double bonds has the formula C₁₈H₃₆O₂. With one double bond it is C₁₈H₃₄O₂, and with two it is C₁₈H₃₂O₂. You do not need to learn these formulas; they show what "less saturated with hydrogen" means.
@@ -66,7 +65,7 @@ A useful check: each C=C double bond means two fewer hydrogen atoms. An 18-carbo
 <figure>
 <svg viewBox="0 0 640 330" role="img" aria-labelledby="fa-title fa-desc" xmlns="http://www.w3.org/2000/svg" font-family="system-ui, sans-serif">
 <title id="fa-title">Saturated and unsaturated fatty acid tails</title>
-<desc id="fa-desc">Two panels separated by a dashed line. Left panel, saturated tails: three straight zigzag chains lie side by side, close together. Label: only carbon-carbon single bonds, straight tails pack closely, solid at room temperature, for example butter. Right panel, unsaturated tails: three zigzag chains that each run straight, then bend downward at a point marked with a double line for a carbon-carbon double bond. The bent chains are spaced farther apart. Label: double bond makes a kink, tails pack loosely, liquid at room temperature, for example olive oil.</desc>
+<desc id="fa-desc">Two panels separated by a dashed line. Left panel, saturated tails: three straight zigzag chains lie side by side, close together. Right panel, schematic cis-unsaturated tails: each chain bends at a marked C=C bond. The diagram illustrates a common cis geometry, not every unsaturated fatty acid. Packing and melting behaviour also depend on chain length, geometry and fatty-acid mixture.</desc>
 <rect x="0" y="0" width="640" height="330" fill="#ffffff"/>
 <line x1="320" y1="20" x2="320" y2="310" stroke="#1d2b44" stroke-width="1" stroke-dasharray="4 4"/>
 <text x="160" y="36" text-anchor="middle" font-size="15" font-weight="700" fill="#1d2b44">Saturated tails</text>
@@ -78,7 +77,7 @@ A useful check: each C=C double bond means two fewer hydrogen atoms. An 18-carbo
 <text x="160" y="275" text-anchor="middle" font-size="12" fill="#1d2b44">solid at room temperature</text>
 <text x="160" y="293" text-anchor="middle" font-size="12" fill="#1d2b44">(for example, butter)</text>
 <text x="480" y="36" text-anchor="middle" font-size="15" font-weight="700" fill="#1d2b44">Unsaturated tails</text>
-<text x="480" y="56" text-anchor="middle" font-size="12" fill="#1d2b44">C=C double bond (double line): kink</text>
+<text x="480" y="56" text-anchor="middle" font-size="12" fill="#1d2b44">cis C=C (double line): bend</text>
 <polyline points="360,80 380,90 400,80 420,90 440,80 460,90 471,110 493,113 503,133 526,136 536,156" fill="none" stroke="#1d2b44" stroke-width="3"/>
 <line x1="466" y1="88" x2="477" y2="108" stroke="#1d2b44" stroke-width="2"/>
 <polyline points="360,135 380,145 400,135 420,145 440,135 460,145 471,165 493,168 503,188 526,191 536,211" fill="none" stroke="#1d2b44" stroke-width="3"/>
@@ -99,7 +98,7 @@ Neighbouring hydrocarbon tails attract each other through weak attractions along
 
 Kinked unsaturated tails cannot pack closely. There are gaps between them, fewer points of contact and weaker overall attraction. They slide past each other at lower temperatures. Unsaturated fats such as olive oil and most plant and fish oils are **liquid at room temperature**.
 
-The rule to remember: **the more double bonds, the more kinks, the looser the packing, and the more liquid the lipid is at a given temperature.**
+For comparable fatty-acid chains, **additional cis double bonds usually create more kinks, loosen packing and lower the melting point**. Trans double bonds do not create the same pronounced bend, and chain length and the fatty-acid mixture also affect melting behaviour.
 
 ## Fats (triglycerides): energy storage and insulation
 

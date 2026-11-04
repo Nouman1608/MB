@@ -29,6 +29,14 @@ Scatter diagrams, correlation and regression (2.02c to 2.02e) are taught separat
 
 ## What you must be able to do
 
+<!-- marlbridge-diagram:math-b71-sampling-data-inference-workflow -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/public/images/learning/mathematics/math-b71-sampling-data-inference-workflow.svg" aria-label="Open full-size diagram: math-b71-sampling-data-inference-workflow"><img src="/public/images/learning/mathematics/math-b71-sampling-data-inference-workflow.svg" width="1528" height="940" alt="The source theatre example estimates 315 of 900 holders from a sample of 21/60; a second sample gives 225, illustrating sampling variation. The cycle links selection, summaries, interpretation and data checks." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>The source theatre example estimates 315 of 900 holders from a sample of 21/60; a second sample gives 225, illustrating sampling variation. The cycle links selection, summaries, interpretation and data checks. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:math-b71-sampling-data-inference-workflow -->
+
+
 | Ref | Outcome |
 |---|---|
 | 2.01a | Use the terms population and sample |

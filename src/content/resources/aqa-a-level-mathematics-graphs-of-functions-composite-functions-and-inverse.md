@@ -167,6 +167,14 @@ For the range, √x − 2 takes every value in [−2, ∞) except 0 (as x ≠ 4)
 
 ## 7. Inverse functions and their graphs (B8)
 
+<!-- marlbridge-diagram:maths-aqa-inverse-graph-reflection -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/mathematics/maths-aqa-inverse-graph-reflection.svg" aria-label="Open full-size diagram: maths-aqa-inverse-graph-reflection"><img src="/images/learning/mathematics/maths-aqa-inverse-graph-reflection.svg" width="1600" height="1050" alt="The source inverse example swaps inputs and outputs for 2+5/(x−3), producing inverse 3+5/(x−2); axes and asymptotes exchange under reflection." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>The source inverse example swaps inputs and outputs for 2+5/(x−3), producing inverse 3+5/(x−2); axes and asymptotes exchange under reflection. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:maths-aqa-inverse-graph-reflection -->
+
+
 The inverse f⁻¹ undoes f, so f⁻¹f(x) = x and ff⁻¹(x) = x. It exists only when f is **one-one**: each output comes from exactly one input.
 
 **Method.** Write y = f(x). Make x the subject. Swap x and y (or just replace y by x in the answer).

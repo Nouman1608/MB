@@ -70,7 +70,17 @@ Common non-financial factors:
 Why they are significant: a decision that improves profit on paper may fail because the figures left something out. A late-delivering supplier loses sales; redundancies can lower morale and productivity (1.4.4). Use the calculation as the starting point, then say how the non-financial factors could change the decision.
 
 ## 1.6.3 Effect of accounting decisions on stakeholders
-
+<!-- marlbridge-diagram:ac-edx-social-ethical-decision-map -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/accounting/ac-edx-social-ethical-decision-map.svg" aria-label="Open full-size diagram: ac-edx-social-ethical-decision-map">
+    <picture>
+      <source media="(max-width: 640px)" srcset="/images/learning/accounting/ac-edx-social-ethical-decision-map-mobile.svg" />
+      <img src="/images/learning/accounting/ac-edx-social-ethical-decision-map.svg" width="1600" height="1050" alt="A decision framework weighs relevant closure costs, stakeholder effects, ethical threats, safeguards and a justified recommendation." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" />
+    </picture>
+  </a>
+  <figcaption>A decision framework weighs relevant closure costs, stakeholder effects, ethical threats, safeguards and a justified recommendation. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:ac-edx-social-ethical-decision-map -->\n
 A **stakeholder** is any person or group with an interest in the business. Each one is affected differently by the same decision.
 
 | Stakeholder | Main interest | How a cost-cutting decision might affect them |

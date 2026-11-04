@@ -149,6 +149,14 @@ From an external point P, draw tangents touching the circle at A and B. Then **P
 
 ### Worked example 5 (non-calculator, giving reasons)
 
+<!-- marlbridge-diagram:maths-b32-tangent-circle-angle-reasons -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/mathematics/maths-b32-tangent-circle-angle-reasons.svg" aria-label="Open full-size diagram: maths-b32-tangent-circle-angle-reasons"><img src="/images/learning/mathematics/maths-b32-tangent-circle-angle-reasons.svg" width="1600" height="1050" alt="With ∠APB=48°, equal tangent lengths give base angles 66°. Radii are perpendicular to tangents, so ∠AOB=132°. The angle at C on the major arc subtending the minor arc AB is 66°." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>With ∠APB=48°, equal tangent lengths give base angles 66°. Radii are perpendicular to tangents, so ∠AOB=132°. The angle at C on the major arc subtending the minor arc AB is 66°. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:maths-b32-tangent-circle-angle-reasons -->
+
+
 PA and PB are tangents from P to a circle with centre O. Angle APB = 48°. C is a point on the major arc AB.
 
 Find, giving a reason for each step: (a) angle PAB, (b) angle AOB, (c) angle ACB.

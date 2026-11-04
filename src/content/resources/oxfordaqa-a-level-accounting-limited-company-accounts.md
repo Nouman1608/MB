@@ -37,6 +37,14 @@ The specification has one content statement for this section: how to prepare the
 | Exclusions | Preference shares and general reserves are not examined. Rights issues, bonus issues and revaluation of non-current assets are not examined at AS level. |
 
 ## How the three statements connect
+<!-- marlbridge-diagram:ac-b15-limited-company-statements-connect -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/accounting/ac-b15-limited-company-statements-connect.svg" aria-label="Open full-size diagram: ac-b15-limited-company-statements-connect">
+    <img src="/images/learning/accounting/ac-b15-limited-company-statements-connect.svg" width="1600" height="1050" alt="Show the flow from profit to retained earnings and from closing equity to the statement of financial position." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" />
+  </a>
+  <figcaption>Retained earnings close after profit and dividends; closing balances feed the financial position. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:ac-b15-limited-company-statements-connect -->
 
 Think of the three statements as a chain. Each one passes a figure to the next.
 

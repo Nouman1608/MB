@@ -96,6 +96,14 @@ The guide's forms of representation include words, formulae, tables, charts, gra
 
 ### Worked example 3: one relationship, four representations
 
+<!-- marlbridge-diagram:math-b46-myp-taxi-fare-four-representations -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/mathematics/math-b46-myp-taxi-fare-four-representations.svg" aria-label="Open full-size diagram: math-b46-myp-taxi-fare-four-representations"><img src="/images/learning/mathematics/math-b46-myp-taxi-fare-four-representations.svg" width="1600" height="1050" alt="Four panels represent a taxi fare: words, the rule F=3.50+1.20d, a table for 0/10/20 km, and a straight-line graph through those values with y-intercept 3.50 and gradient 1.20 dollars per kilometre." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Four panels represent a taxi fare: words, the rule F=3.50+1.20d, a table for 0/10/20 km, and a straight-line graph through those values with y-intercept 3.50 and gradient 1.20 dollars per kilometre. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:math-b46-myp-taxi-fare-four-representations -->
+
+
 A taxi charges a fixed 3.50 dollars plus 1.20 dollars for each kilometre.
 
 - **Words:** the fare is the fixed charge plus the distance charge.

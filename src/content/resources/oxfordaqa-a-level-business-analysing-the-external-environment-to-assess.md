@@ -39,6 +39,14 @@ The specification lets you focus on your own country, but you must know that ext
 
 ## 1. PESTLE analysis
 
+<!-- marlbridge-diagram:business-oxfordaqa-pestle-to-swot-case-map -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/business/business-oxfordaqa-pestle-to-swot-case-map.svg" aria-label="Open full-size diagram: business-oxfordaqa-pestle-to-swot-case-map"><img src="/images/learning/business/business-oxfordaqa-pestle-to-swot-case-map.svg" width="1600" height="1050" alt="Six PESTLE lenses feed into SWOT interpretation with the lesson examples and cautions about overlap, snapshot timing and prioritisation." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Six PESTLE lenses feed into SWOT interpretation with the lesson examples and cautions about overlap, snapshot timing and prioritisation. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:business-oxfordaqa-pestle-to-swot-case-map -->
+
+
 **PESTLE** sorts external factors into Political, Economic, Social, Technological, Legal and Environmental, feeding the **opportunities and threats** of a SWOT analysis (see [Mission, objective and SWOT analysis](/resources/oxfordaqa-a-level-business-mission-objective-and-swot-analysis/)).
 
 One change can be an opportunity for one firm and a threat for another: an ageing population gives Ivybrook Care, a care-home group, more customers, but shrinks the pool of young drivers Rushbank Couriers recruits from.

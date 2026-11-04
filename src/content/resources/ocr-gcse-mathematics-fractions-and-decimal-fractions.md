@@ -197,6 +197,14 @@ Some fractions give a decimal that repeats. 5/12 = 0.41666... because the remain
 
 ### Recurring decimals to exact fractions (Higher tier only)
 
+<!-- marlbridge-diagram:math-b79-ocr-recurring-decimal-fraction -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/public/images/learning/mathematics/math-b79-ocr-recurring-decimal-fraction.svg" aria-label="Open full-size diagram: math-b79-ocr-recurring-decimal-fraction"><img src="/public/images/learning/mathematics/math-b79-ocr-recurring-decimal-fraction.svg" width="1528" height="940" alt="Aligned decimal equations show why subtracting 100x−x removes the repeating tail and gives 10/33." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Aligned decimal equations show why subtracting 100x−x removes the repeating tail and gives 10/33.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:math-b79-ocr-recurring-decimal-fraction -->
+
+
 Call the decimal x, multiply to line up the repeating part, and subtract to remove it.
 
 **Example 1.** Write 0.303030... (0.30 recurring) as a fraction.

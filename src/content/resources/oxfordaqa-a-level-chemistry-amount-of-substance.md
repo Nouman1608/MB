@@ -89,6 +89,14 @@ dividing the given Mr by the empirical formula's own mass.
 
 ## Balanced equations and associated calculations
 
+<!-- marlbridge-diagram:chem-obj-atom-economy-coefficients -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/chemistry/chem-obj-atom-economy-coefficients.svg" aria-label="Open full-size diagram: chem-obj-atom-economy-coefficients"><img src="/images/learning/chemistry/chem-obj-atom-economy-coefficients.svg" width="1528" height="940" alt="Atom economy uses coefficients: for 2C2H6+7O2→4CO2+6H2O, desired carbon dioxide mass is 4×44 and total reactant mass is 2×30+7×32, giving about 62.0%." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Calculate atom economy using stoichiometric coefficients — Marlbridge Chemistry.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:chem-obj-atom-economy-coefficients -->
+
+
 You need to be able to write balanced equations (both full and ionic)
 for reactions studied, and balance equations for unfamiliar reactions
 when reactants and products are specified. Building on this, you need
@@ -98,8 +106,9 @@ volumes for reactions in solutions.
 
 **Percentage atom economy** has a specific formula you need to apply:
 
-atom economy = (molecular mass of desired product ÷ sum of molecular
-masses of all reactants) × 100
+atom economy (%) = (coefficient of desired product × its molar mass) ÷ Σ(each reactant coefficient × its molar mass) × 100
+
+Use all coefficients from the same balanced equation. For example, N₂ + 3H₂ → 2NH₃ gives [2 × 17.0 ÷ (28.0 + 3 × 2.0)] × 100 = 100% using the shown rounded masses. This is theoretical atom economy; the collected yield can be lower.
 
 The specification also expects you to understand the economic, ethical
 and environmental advantages, for both society and industry, of

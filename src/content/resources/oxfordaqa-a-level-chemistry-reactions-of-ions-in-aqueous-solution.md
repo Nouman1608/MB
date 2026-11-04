@@ -199,6 +199,13 @@ Convert kPa to Pa before dividing, and m³ to cm³ at the end.
 
 ## Required practical 9
 
+<!-- marlbridge-diagram:chem-b20-transition-metal-ion-test-routine -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/chemistry/chem-b20-transition-metal-ion-test-routine.svg" aria-label="Open full-size diagram: Identify aqueous ions with three separate test tubes"><img src="/images/learning/chemistry/chem-b20-transition-metal-ion-test-routine.svg" width="1528" height="940" alt="Three clean aliquots are tested separately: tube A receives sodium hydroxide dropwise then in excess; tube B receives aqueous ammonia dropwise then in excess; tube C receives sodium carbonate while watching for bubbles. A comparison table records the source outcomes for Fe2+, Cu2+, Fe3+ and Al3+. Iron(II) hydroxide turns brown at the surface on standing in air." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Keep each reagent in its own tube and compare colour, precipitate, dissolving in excess, bubbles and later colour change. Wear eye protection; sodium hydroxide is corrosive and aqueous ammonia irritates. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:chem-b20-transition-metal-ion-test-routine -->
+
 The aim is to name a transition metal ion in solution from a short series of test-tube reactions.
 
 A workable routine:

@@ -94,6 +94,12 @@ Angle BGH = 68°    (angles on a line: 180 − 112)
 Always write the reason beside the angle. Never write "Z angles" as a reason: use the word alternate.
 
 ## Angles in polygons (8.03d)
+<!-- marlbridge-diagram:maths-b19-polygon-angle-sum -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/mathematics/maths-b19-polygon-angle-sum.svg" aria-label="Open full-size diagram: maths-b19-polygon-angle-sum"><img src="/images/learning/mathematics/maths-b19-polygon-angle-sum.svg" width="1600" height="1050" alt="An n-gon splits into n−2 triangles, so its interior angle sum is (n−2)×180°; exterior angles sum to 360°." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>An n-gon splits into n−2 triangles, so its interior angle sum is (n−2)×180°; exterior angles sum to 360°. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:maths-b19-polygon-angle-sum -->
 
 **Triangle angle sum (derive).** Draw a line through one vertex parallel to the opposite side. The two angles it makes with the sides are alternate to the two base angles. Those two angles and the angle at the top lie together on a straight line, so the three angles of the triangle add up to 180°.
 

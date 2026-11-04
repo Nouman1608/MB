@@ -161,6 +161,14 @@ Sketch a U-shape through (−3/2, 0), (0, −21) and (7/2, 0), with its lowest p
 
 ## 1.5 Completing the square
 
+<!-- marlbridge-diagram:maths-b17-quadratic-complete-square -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/mathematics/maths-b17-quadratic-complete-square.svg" aria-label="Open full-size diagram: maths-b17-quadratic-complete-square"><img src="/images/learning/mathematics/maths-b17-quadratic-complete-square.svg" width="1600" height="1050" alt="x squared minus six x plus five becomes (x minus three) squared minus four, vertex (3,-4), roots 1 and 5; discriminant sign classifies roots." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>x squared minus six x plus five becomes (x minus three) squared minus four, vertex (3,-4), roots 1 and 5; discriminant sign classifies roots. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:maths-b17-quadratic-complete-square -->
+
+
 Every quadratic can be written as a(x + p)² + q. The specification gives the general result:
 
 ```

@@ -239,6 +239,14 @@ For x² + bx + c, halve b: x² + bx + c = (x + b/2)² − (b/2)² + c. If the x�
 
 **Worked example 9.** Write (a) x² − 8x + 3 in the form (x + p)² + q (b) 5x² + 20x + 7 in the form a(x + b)² + c.
 
+<!-- marlbridge-diagram:maths-b30-completing-square-parabola-minima -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/mathematics/maths-b30-completing-square-parabola-minima.svg" aria-label="Open full-size diagram: maths-b30-completing-square-parabola-minima"><img src="/images/learning/mathematics/maths-b30-completing-square-parabola-minima.svg" width="1600" height="1050" alt="Completing the square gives x²−8x+3=(x−4)²−13 with minimum −13 at x=4, and 5x²+20x+7=5(x+2)²−13 with minimum −13 at x=−2." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Completing the square gives x²−8x+3=(x−4)²−13 with minimum −13 at x=4, and 5x²+20x+7=5(x+2)²−13 with minimum −13 at x=−2. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:maths-b30-completing-square-parabola-minima -->
+
+
 ```
 (a) half of -8 is -4
     (x - 4)^2 = x^2 - 8x + 16, so subtract 16

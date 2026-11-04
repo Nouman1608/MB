@@ -158,6 +158,14 @@ Similar shapes have equal matching angles and matching sides in the same ratio. 
 
 ## Enlargement
 
+<!-- marlbridge-diagram:math-b44-myp-enlargement-centre-scale-factor-three -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/mathematics/math-b44-myp-enlargement-centre-scale-factor-three.svg" aria-label="Open full-size diagram: math-b44-myp-enlargement-centre-scale-factor-three"><img src="/images/learning/mathematics/math-b44-myp-enlargement-centre-scale-factor-three.svg" width="1600" height="1050" alt="With centre C=(1,2), k=3 and A=(2,4), the displacement A−C=(1,2) triples to (3,6), so A′=C+3(A−C)=(4,8)." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>With centre C=(1,2), k=3 and A=(2,4), the displacement A−C=(1,2) triples to (3,6), so A′=C+3(A−C)=(4,8). Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:math-b44-myp-enlargement-centre-scale-factor-three -->
+
+
 The guide lists enlargements as standard and enlargement around a given point as extended, so the centre-based method below is extended.
 
 An enlargement is fixed by its centre C and scale factor k. Multiply the vector from C to P by k to reach the image: P′ = C + k(P − C).

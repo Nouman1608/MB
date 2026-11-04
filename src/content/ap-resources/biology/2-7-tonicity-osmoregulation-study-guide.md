@@ -27,7 +27,7 @@ next: "mb-ap-bio-2.7-practice"
 framework: { schoolYear: "2026-27", examSeries: "May 2027" }
 sources: ["ced-biology", "page-biology"]
 keyPoints:
-  - "Tonicity compares two solutions. Water moves by osmosis from the hypotonic side (fewer solute particles) to the hypertonic side (more solute particles). Isotonic means no net movement."
+  - "Tonicity compares effective, nonpenetrating solutes across a membrane. When pressure is equal, water tends to move from the hypotonic side toward the hypertonic side; pressure differences also affect the actual water-potential gradient."
   - "Water moves from higher water potential to lower water potential. Ψ = Ψp + Ψs, where Ψp is pressure potential and Ψs is solute potential."
   - "Solute potential is never positive: Ψs = −iCRT, with R = 0.0831 L bar mol⁻¹ K⁻¹ and T in kelvin. Pure water in an open container has Ψ = 0."
   - "A cell wall lets plant cells become turgid without bursting; animal cells and wall-less protists must control water balance in other ways, such as a contractile vacuole."
@@ -60,11 +60,11 @@ Why does adding solute make water "less free"? Dissolved particles attract water
 
 | Term | Meaning (solution compared with the cell) | Net water movement |
 |---|---|---|
-| **Hypotonic** | fewer dissolved solute particles than the cell | into the cell |
-| **Isotonic** | the same concentration of solute particles | no net movement (equal flow both ways) |
-| **Hypertonic** | more dissolved solute particles than the cell | out of the cell |
+| **Hypotonic** | lower effective concentration of nonpenetrating solutes than the cell | tends into the cell if pressure is equal |
+| **Isotonic** | equal effective concentrations of nonpenetrating solutes | no net osmotic tendency from tonicity alone |
+| **Hypertonic** | higher effective concentration of nonpenetrating solutes than the cell | tends out of the cell if pressure is equal |
 
-A short rule: **water moves from hypotonic to hypertonic**. In other words, it moves from the region of low solute concentration (low **osmolarity**, the total concentration of dissolved particles) to the region of high solute concentration.
+A short rule for equal-pressure comparisons: **water tends to move from hypotonic to hypertonic**, where tonicity is determined by effective, nonpenetrating solutes. Total osmolarity is a useful shortcut only when the solutes do not cross the membrane and pressure differences are negligible. For the actual direction of net water movement, compare water potentials, which include pressure as well as solute effects.
 
 The words only make sense as a pair. "The solution is hypertonic" means nothing until you say "hypertonic *to the cell*". If the solution is hypertonic to the cell, the cell is hypotonic to the solution.
 

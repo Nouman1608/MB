@@ -57,6 +57,14 @@ f′(x) = 12e^(3x) + 6/x + 2 sin 2x + 4 sec² 4x
 
 ## 4.2 Product, quotient and chain rules
 
+<!-- marlbridge-diagram:maths-b17-differentiation-rules -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/mathematics/maths-b17-differentiation-rules.svg" aria-label="Open full-size diagram: maths-b17-differentiation-rules"><img src="/images/learning/mathematics/maths-b17-differentiation-rules.svg" width="1600" height="1050" alt="Product, quotient and chain rule cards plus derivative of x squared times sine x." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Product, quotient and chain rule cards plus derivative of x squared times sine x. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:maths-b17-differentiation-rules -->
+
+
 ### Product rule
 
 If y = uv, then dy/dx = u′v + uv′. Use it when two functions of x are multiplied.
@@ -85,6 +93,14 @@ dy/dx = [2e^(2x)(x² + 1) − 2x e^(2x)] / (x² + 1)²
 The discriminant of x² − x + 1 is (−1)² − 4(1)(1) = −3, so x² − x + 1 is never zero. With e^(2x) never zero, dy/dx is never zero, so the curve has no stationary points.
 
 ### Chain rule
+
+<!-- marlbridge-diagram:maths-b22-chain-rule-cosine-power -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/mathematics/maths-b22-chain-rule-cosine-power.svg" aria-label="Open full-size diagram: maths-b22-chain-rule-cosine-power"><img src="/images/learning/mathematics/maths-b22-chain-rule-cosine-power.svg" width="1600" height="1050" alt="For y = cos⁴(3x), the outer power gives 4(cos 3x)³, differentiating cosine gives −sin 3x, and differentiating the inner 3x gives 3; multiplying gives dy/dx = −12 cos³(3x) sin(3x)." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>For y = cos⁴(3x), the outer power gives 4(cos 3x)³, differentiating cosine gives −sin 3x, and differentiating the inner 3x gives 3; multiplying gives dy/dx = −12 cos³(3x) sin(3x). Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:maths-b22-chain-rule-cosine-power -->
+
 
 If y is a function of u and u is a function of x, then dy/dx = (dy/du) × (du/dx). In practice: differentiate the outer function, leave the inside alone, then multiply by the derivative of the inside.
 

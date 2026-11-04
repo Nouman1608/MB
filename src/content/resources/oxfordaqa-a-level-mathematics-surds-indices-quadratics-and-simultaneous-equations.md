@@ -206,6 +206,14 @@ b² − 4ac = (2k)² − 4(1)(3k + 10) = 4k² − 12k − 40 = 4(k − 5)(k + 2)
 
 ## 6. Simultaneous equations by substitution
 
+<!-- marlbridge-diagram:math-b64-oxfordaqa-simultaneous-line-quadratic-intersections -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/public/images/learning/mathematics/math-b64-oxfordaqa-simultaneous-line-quadratic-intersections.svg" aria-label="Open full-size diagram: math-b64-oxfordaqa-simultaneous-line-quadratic-intersections"><img src="/public/images/learning/mathematics/math-b64-oxfordaqa-simultaneous-line-quadratic-intersections.svg" width="1528" height="940" alt="A line x=2y+1 intersects the ellipse x²−2xy+2y²=5 at (−3,−2) and (3,1), matching the two solutions found by substitution." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>A line x=2y+1 intersects the ellipse x²−2xy+2y²=5 at (−3,−2) and (3,1), matching the two solutions found by substitution.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:math-b64-oxfordaqa-simultaneous-line-quadratic-intersections -->
+
+
 When one equation is linear, rearrange it so that one variable stands alone, substitute that into the quadratic, solve, then return to the linear equation for the other variable. Do not use the quadratic for the second variable: it can create false pairs.
 
 **Worked example 12.** Solve x − 2y = 1 and x² − 2xy + 2y² = 5.

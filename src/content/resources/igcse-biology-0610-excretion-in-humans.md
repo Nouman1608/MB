@@ -60,9 +60,31 @@ Do not confuse excretion with **egestion**, which the syllabus defines as the re
 
 ### The kidneys
 
+<!-- marlbridge-diagram:bio-b34-cambridge-0610-urinary-system -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/biology/bio-b34-cambridge-0610-urinary-system.svg" aria-label="Open full-size diagram: human urinary system and kidney section"><img src="/images/learning/biology/bio-b34-cambridge-0610-urinary-system.svg" width="1528" height="871" alt="Human urinary system labels two kidneys, two ureters, bladder and one urethra; a kidney section identifies cortex, medulla and renal pelvis" loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Use this schematic to locate the urinary organs and kidney regions. It is a labelled study diagram, not an anatomical photograph. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:bio-b34-cambridge-0610-urinary-system -->
+
+<figure class="my-8" id="objective-bio-047b1901909f5872d009-photo"><img src="/images/learning/biology/bio-open-240-urinary-system-composite-cc0.jpg" alt="Photograph of a male torso with illustrative colour overlays showing the kidneys, ureters, bladder and urethra; the internal organs are drawn overlays, not visible tissue." width="2448" height="3264" loading="lazy" decoding="async" /><figcaption>Photographic context with digitally illustrated organ overlays. It is not a dissection or photograph of exposed organs. Image: Robystarm07, <a href="https://commons.wikimedia.org/wiki/File:Urinary_system.jpg">Wikimedia Commons</a>, CC0 1.0; Marlbridge watermark added.</figcaption></figure>
+
+**Photo identification practice:** Cover the labels on the right side of the photograph with a sheet of paper. Point to the two kidneys, follow each ureter to the bladder, then trace the single urethra to the outside. Write the route in order before uncovering the labels. This photograph uses illustrative overlays to show organ positions; it does not show an actual dissection.
+
+<details><summary>Check your answer</summary>
+
+There are two kidneys and two ureters, one bladder and one urethra. Urine flows kidney → ureter → bladder → urethra. The image is a torso photograph with digitally illustrated organs; the organs themselves are not visible tissue.
+
+</details>
+
 **The kidneys excrete urea and excess water and ions.** Together these make **urine**. The kidneys do not remove all the water and ions from the blood; they remove only the amounts that are in excess. That is why the volume and concentration of your urine change from day to day.
 
 ### The urinary system
+
+<figure class="my-8" id="objective-bio-open-239-pig-kidney" data-objective-id="BIO-OPEN-239"><img src="/images/learning/biology/bio-open-239-pig-kidney-cc-by3.jpg" alt="Opened pig kidney specimen with cut surface and internal tissue exposed; source identifies it as Sus scrofa domestica." width="2592" height="2100" loading="lazy" decoding="async" /><figcaption>Pig kidney, not human. P&ouml;ll&ouml;, <a href="https://commons.wikimedia.org/wiki/File:Kidney.JPG">Wikimedia Commons</a>, <a href="https://creativecommons.org/licenses/by/3.0/">CC BY 3.0</a>. Footer attribution added; specimen area not cropped.</figcaption></figure>
+
+<figure class="my-8" id="objective-bio-open-239-human-cortex" data-objective-id="BIO-OPEN-239"><img src="/images/learning/biology/bio-open-239-human-kidney-cortex-jpogi.jpg" alt="Human kidney cortex micrograph showing tubules and glomeruli; displayed left field excludes a thick black pointer." width="1350" height="2268" loading="lazy" decoding="async" /><figcaption>Human kidney cortex micrograph. Jpogi, <a href="https://commons.wikimedia.org/wiki/File:Kidney-Cortex.JPG">source record</a>, released into the public domain by author. Display crop uses left 1350 px of 2816 px field to exclude pointer; original unchanged. No scale stated.</figcaption></figure>
+
 
 You must identify four structures on a diagram or photograph:
 

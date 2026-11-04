@@ -194,6 +194,14 @@ Gradient 3/4, so the perpendicular gradient is −4/3
 
 ## The equation of a circle (7.01f, Higher tier only)
 
+<!-- marlbridge-diagram:math-b74-ocr-origin-circle-radius -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/public/images/learning/mathematics/math-b74-ocr-origin-circle-radius.svg" aria-label="Open full-size diagram: math-b74-ocr-origin-circle-radius"><img src="/public/images/learning/mathematics/math-b74-ocr-origin-circle-radius.svg" width="1528" height="940" alt="An origin-centred circle passes through (−5,12); the radius 13 follows from a right triangle and gives x²+y²=169." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>An origin-centred circle passes through (−5,12); the radius 13 follows from a right triangle and gives x²+y²=169.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:math-b74-ocr-origin-circle-radius -->
+
+
 A circle with centre at the origin (0, 0) and radius r has the equation
 
 x² + y² = r²
@@ -205,6 +213,14 @@ This comes from Pythagoras. Every point (x, y) on the circle lies at distance r 
 - To test a point, work out x² + y². The point is on the circle if the total equals r². It is inside if the total is less, and outside if it is more. For x² + y² = 40, the point (6, 2) gives 36 + 4 = 40, so it lies on the circle.
 
 ## Tangent to a circle (7.02b, Higher tier only)
+
+<!-- marlbridge-diagram:math-b40-ocr-j560-circle-tangent-perpendicular-radius -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/mathematics/math-b40-ocr-j560-circle-tangent-perpendicular-radius.svg" aria-label="Open full-size diagram: math-b40-ocr-j560-circle-tangent-perpendicular-radius"><img src="/images/learning/mathematics/math-b40-ocr-j560-circle-tangent-perpendicular-radius.svg" width="1600" height="1050" alt="Circle tangent: perpendicular to the radius at the contact point" loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Circle tangent: perpendicular to the radius at the contact point Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:math-b40-ocr-j560-circle-tangent-perpendicular-radius -->
+
 
 A **tangent** touches the circle at one point. It is perpendicular to the radius drawn to that point. So the method combines gradient, perpendicular gradient and a line equation.
 

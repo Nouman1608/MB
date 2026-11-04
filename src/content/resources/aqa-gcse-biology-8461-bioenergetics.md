@@ -78,13 +78,25 @@ something else has become limiting.
 
 ### Measuring the rate -- required practical 6
 
+
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <!-- marlbridge-diagram:pondweed-photosynthesis-rate --><a href="/images/learning/biology/pondweed-photosynthesis-rate.svg" aria-label="Open full-size diagram: Investigating photosynthesis with pondweed" title="Investigating photosynthesis with pondweed"><img src="/images/learning/biology/pondweed-photosynthesis-rate.svg" width="1528" height="760" alt="A two-panel plan for the pondweed photosynthesis practical. Panel A shows pondweed submerged in sodium hydrogencarbonate solution in a sealed vessel, connected through an airtight delivery tube to a gas syringe. A lamp is separated from the vessel by a beaker water heat shield; distance is measured from the lamp to the pondweed and a thermometer monitors temperature. Panel B identifies distance or intensity as the changed factor, oxygen volume per fixed time as the measurement, and controlled conditions, acclimation and repeats. The 6.0 cubic centimetre in 5 minutes example is labelled as worked-example data only; it is not a practical result." title="Investigating photosynthesis with pondweed" loading="lazy" decoding="async" style="display:block;width:100%;height:auto;" /></a>
+  <figcaption>Pondweed photosynthesis practical: control lamp distance and temperature, collect gas, acclimatise, repeat and calculate a rate per unit time. Select the diagram to enlarge it.</figcaption>
+</figure>
 The specification requires you to investigate the effect of light intensity on the rate of photosynthesis
 using an aquatic organism such as pondweed.
+
+<!-- marlbridge-diagram:photosynthesis-limiting-factors -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/biology/photosynthesis-limiting-factors.svg" aria-label="Open full-size diagram: identifying limiting factors in photosynthesis"><img src="/images/learning/biology/photosynthesis-limiting-factors.svg" width="1528" height="871" alt="Controlled light-intensity investigation with interpretation of plateaus, lamp heating, oxygen measurement, respiration and bubble-count limitations" loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Controlled investigation and measurement guide. A plateau alone does not identify the limiting factor. Select to enlarge.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:photosynthesis-limiting-factors -->
 
 1. Put a piece of pondweed in a boiling tube of water (often with sodium hydrogencarbonate added to supply CO₂).
 2. Place a lamp at a measured distance from the tube.
 3. Stand a large beaker of water between the lamp and tube as a **heat shield**, and check the temperature with a thermometer, so temperature stays constant.
-4. Leave the weed to adjust, then count the oxygen bubbles, or collect the gas in a syringe or measuring cylinder, for a fixed time.
+4. Leave the weed to adjust, then count the oxygen bubbles, or collect the gas in a syringe or measuring cylinder, for a fixed time. This measures net oxygen output because the plant also respires; keep temperature and other conditions controlled when comparing rates.
 5. Repeat at several distances, taking **multiple readings** at each distance.
 6. Plot a graph of light intensity (or distance) against rate.
 
@@ -102,11 +114,18 @@ State the unit. A rate is always "something per unit time".
 
 ### Interacting factors (Higher tier only)
 
+<!-- marlbridge-diagram:complete-bio-photosynthesis-rate-curves -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/biology/complete-bio-photosynthesis-rate-curves.svg" aria-label="Open full-size diagram: photosynthesis rate curves"><img src="/images/learning/biology/complete-bio-photosynthesis-rate-curves.svg" width="1600" height="1000" alt="Schematic light-response curves at different carbon dioxide concentrations and a temperature response curve with an optimum" loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Schematic curves show how light, carbon dioxide and temperature can interact; they are not measured data. Select to enlarge.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:complete-bio-photosynthesis-rate-curves -->
+
 The factors interact, and any one of them may be the limiting factor. Suppose rate is measured against light
 intensity at two CO₂ concentrations:
 
 - At low light intensity, both lines rise together. **Light** is limiting.
-- The low-CO₂ line levels off first. There, **CO₂** is limiting.
+- The low-CO₂ line levels off first. Where the two lines separate, raising CO₂ increases the rate, so **CO₂** is limiting there. A single plateau does not identify which other factor is limiting; test a candidate factor while controlling the rest.
 - The high-CO₂ line rises further, then levels off. Now **temperature** (or chlorophyll) may be limiting.
 
 To decide which factor is limiting at a point: if raising that factor would still raise the rate, it is the
@@ -120,8 +139,7 @@ Light intensity is **inversely proportional to the square of the distance** from
 light intensity ∝ 1 / distance²
 ```
 
-So doubling the distance cuts the light intensity to one quarter. In practical write-ups, 1/d² is often used
-as a measure of relative light intensity.
+For a small source treated as a point source and measured far enough away that light spreads over an expanding area, intensity follows this inverse-square relationship. So doubling the distance cuts the ideal intensity to one quarter. In practical write-ups, 1/d² is often used as a measure of relative light intensity; real lamps and nearby measurements may depart from the ideal model.
 
 **Worked example 2**
 
@@ -156,7 +174,7 @@ Lamps:    extra income = 20 × 2.40 = £48
           gain = 48 − 150 = −£102 a week  -> a loss
 ```
 
-The lamps add little yield because light is no longer the main limiting factor, so they are not cost effective.
+The figures show that the lamps increase yield by 20 kg, but the extra crop is worth only £48 while the lamps cost £150, so using them would reduce profit by £102 a week. This economic result does not show that light has no biological effect: it shows that the modelled yield increase is too small to pay for the lamps under these conditions.
 
 ## 4.4.1.3 Uses of glucose from photosynthesis
 
@@ -223,13 +241,9 @@ During exercise, muscles need more energy. The body responds:
 
 Together these supply the muscles with more **oxygenated blood** (and remove more CO₂).
 
-If not enough oxygen reaches the muscles, they respire **anaerobically**. The incomplete oxidation of glucose
-causes a **build-up of lactic acid** and creates an **oxygen debt**. During long periods of vigorous activity,
-muscles become **fatigued** and stop contracting efficiently.
+During vigorous activity, if insufficient oxygen is supplied to meet the muscles' energy demand, anaerobic respiration contributes to energy release and lactic acid builds up (the AQA GCSE model). Lactate can also be produced when oxygen is present. Fatigue has multiple contributing causes; lactate alone does not explain it.
 
-**(Higher tier only)** Blood flowing through the muscles transports the lactic acid to the **liver**, where it is
-converted back into glucose. **Oxygen debt** is the amount of extra oxygen the body needs after exercise to react
-with the accumulated lactic acid and remove it from the cells. This is why you keep breathing hard after you stop.
+**(Higher tier only)** Lactate is carried in the blood and can be used by tissues as a fuel or taken up by the **liver**, where some carbon can be used to make glucose. The AQA GCSE model describes **oxygen debt** as extra oxygen needed after exercise to remove accumulated lactic acid from cells; this is a simplified account, not one reaction in which oxygen converts all lactate directly to glucose. Recovery oxygen use supports several processes, including lactate oxidation and glucose production. Breathing and heart rate remain elevated while recovery takes place.
 
 **Worked example 4**
 
@@ -251,13 +265,13 @@ used for the continual, **enzyme-controlled** processes of metabolism that synth
 Metabolism includes:
 
 - converting glucose to **starch** (plants), **glycogen** (animals) and **cellulose** (plant cell walls);
-- forming a **lipid** molecule from **one glycerol and three fatty acids**;
+- forming a **triglyceride (a type of lipid)** from **one glycerol and three fatty acids**;
 - using **glucose and nitrate ions** to form **amino acids**, which are used to make **proteins**;
 - **respiration**;
-- breaking down excess proteins to form **urea** for excretion.
+- breaking down excess proteins into amino acids; excess amino acids are **deaminated in the liver**, and their nitrogen is converted to **urea** for excretion.
 
 The small units are the key: sugars build carbohydrates, amino acids build proteins, and fatty acids plus
-glycerol build lipids. Breaking the large molecules down releases the small units again.
+glycerol build triglycerides. Phospholipids and steroids are other types of lipid with different structures. Breaking the large molecules down releases the small units again.
 
 ## Common errors
 

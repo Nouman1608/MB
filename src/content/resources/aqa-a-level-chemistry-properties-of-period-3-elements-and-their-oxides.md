@@ -56,18 +56,21 @@ and test the pH of the resulting oxides (apparatus and techniques AT a, c and k;
 `2Na(s) + 2H₂O(l) → 2NaOH(aq) + H₂(g)`
 
 **Magnesium** reacts very slowly with cold water, giving a few bubbles of hydrogen. Magnesium hydroxide
-is only slightly soluble, so the solution is weakly alkaline (pH about 9 to 10).
+is only slightly soluble, so the suspension is weakly alkaline; the aqueous phase may have a pH around 9 to
+10 under the practical conditions used.
 
-`Mg(s) + 2H₂O(l) → Mg(OH)₂(aq) + H₂(g)`
+`Mg(s) + 2H₂O(l) → Mg(OH)₂(s) + H₂(g)`
 
 Magnesium reacts much faster with **steam**. It burns with a bright white flame and forms magnesium oxide,
 not the hydroxide.
 
 `Mg(s) + H₂O(g) → MgO(s) + H₂(g)`
 
-**Why sodium is more reactive.** In both reactions the metal atoms lose their outer electrons to form
-positive ions. A sodium atom loses one electron. A magnesium atom must lose two, and the second is removed
-from a positive ion, so much more energy is needed in total. Magnesium therefore reacts more slowly.
+**Why the observed rates differ.** Ionisation energies help describe the energetic cost of forming the ions,
+but they do not by themselves predict the reaction rate. Magnesium's slow reaction with cold water is also
+affected by the surface oxide/hydroxide layer and the activation barrier for reaction at the metal surface;
+the temperature and physical state of the water matter too. Do not explain the rate difference by simply
+summing the metals' ionisation energies.
 
 ## Reactions of the elements with oxygen
 
@@ -107,9 +110,11 @@ mass of Na₂O = 0.0500 × 62.0 = 3.10 g
 
 ## Melting points of the highest oxides
 
-The highest oxides are Na₂O, MgO, Al₂O₃, SiO₂, P₄O₁₀ and SO₃. Their melting points rise from Na₂O to
-MgO, stay high for Al₂O₃ and SiO₂, then fall sharply for P₄O₁₀ and SO₃. MgO has the highest melting point
-of the set. In order: MgO > Al₂O₃ > SiO₂ > Na₂O > P₄O₁₀ > SO₃.
+The highest oxides are Na₂O, MgO, Al₂O₃, SiO₂, P₄O₁₀ and SO₃. In the AQA course-level model, their melting
+points rise from Na₂O to MgO, stay high for Al₂O₃ and SiO₂, then fall for P₄O₁₀ and SO₃. The listed order
+is MgO > Al₂O₃ > SiO₂ > Na₂O > P₄O₁₀ > SO₃. Solid SO₃ occurs in different forms, so its observed melting
+point depends on phase; the simple-molecule model below is the course comparison, not a claim that every
+solid form of SO₃ has the same structure or melting point.
 
 | Oxide | Structure | Bonding broken on melting |
 |---|---|---|
@@ -117,6 +122,13 @@ of the set. In order: MgO > Al₂O₃ > SiO₂ > Na₂O > P₄O₁₀ > SO₃.
 | Al₂O₃ | giant ionic lattice with some covalent character | strong ionic attraction |
 | SiO₂ | macromolecular (giant covalent) | many strong covalent bonds |
 | P₄O₁₀, SO₃ (and SO₂) | simple molecular | weak intermolecular forces only |
+
+<!-- marlbridge-diagram:chem-b18-period3-oxide-structure-melting -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/chemistry/chem-b18-period3-oxide-structure-melting.svg" aria-label="Open full-size diagram: Period 3 oxide structures and melting-point pattern"><img src="/images/learning/chemistry/chem-b18-period3-oxide-structure-melting.svg" width="1528" height="940" alt="AQA course-level structural models compare giant ionic Na2O, MgO and Al2O3, giant covalent SiO2, and simple molecular P4O10 and SO3, with the interactions overcome on melting and the course-level melting point order. The models are schematic; solid SO3 structure depends on phase." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Course-level structural models link the melting trend to the interactions overcome. They are schematic rather than measured unit cells; solid SO₃ structure and melting point depend on phase.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:chem-b18-period3-oxide-structure-melting -->
 
 **Na₂O and MgO.** Both are giant ionic lattices. Mg²⁺ has a higher charge than Na⁺ and is smaller, so
 the attraction between Mg²⁺ and O²⁻ ions is stronger. More energy is needed to overcome it, so MgO melts
@@ -145,14 +157,20 @@ stronger and P₄O₁₀ melts at a higher temperature than SO₃. SO₂ melts l
 
 ## Reactions of the oxides with water
 
+The pH values below are **illustrative approximate readings**, not intrinsic constants for each oxide. They
+depend on the amount of oxide, water volume, temperature and conditions such as dissolved carbon dioxide.
+For MgO the mixture is a suspension of slightly soluble magnesium hydroxide; pH describes its aqueous
+phase. Insoluble Al₂O₃ and SiO₂ cause no appreciable pH change in clean water; “about 7” is a neutral-water
+reference, not a prediction that every sample reads exactly 7.
+
 | Oxide | Reaction with water | pH of solution (approx.) | Nature of oxide |
 |---|---|---|---|
 | Na₂O | `Na₂O + H₂O → 2NaOH` | 13 to 14 | basic |
 | MgO | `MgO + H₂O → Mg(OH)₂` | 9 to 10 | basic |
-| Al₂O₃ | insoluble, no reaction | 7 | amphoteric |
-| SiO₂ | insoluble, no reaction | 7 | acidic |
+| Al₂O₃ | insoluble, no reaction | about 7 (no appreciable change) | amphoteric |
+| SiO₂ | insoluble, no reaction | about 7 (no appreciable change) | acidic |
 | P₄O₁₀ | `P₄O₁₀ + 6H₂O → 4H₃PO₄` | 0 to 1 | acidic |
-| SO₂ | `SO₂ + H₂O → H₂SO₃` | 2 to 3 | acidic |
+| SO₂ | `SO₂ + H₂O ⇌ H₂SO₃` | 2 to 3 | acidic |
 | SO₃ | `SO₃ + H₂O → H₂SO₄` | 0 to 1 | acidic |
 
 **Explaining the trend by bonding.**
@@ -163,12 +181,21 @@ stronger and P₄O₁₀ melts at a higher temperature than SO₃. SO₂ melts l
 - **Al₂O₃** (ionic with covalent character) and **SiO₂** (macromolecular) have very strong bonding in
   giant structures and do not dissolve, so the water stays at pH 7.
 - **Simple molecular covalent oxides (P₄O₁₀, SO₂, SO₃)** react with water to form acids, which release
-  H⁺ ions. H₂SO₃ is a weak acid that only partly dissociates (`H₂SO₃ ⇌ H⁺ + HSO₃⁻`), so its pH is higher
-  than that of H₂SO₄.
+  H⁺ ions. The equation `SO₂ + H₂O ⇌ H₂SO₃` is a conventional simplified representation of hydrated
+  sulfur dioxide and its acid equilibria; it does not imply that one isolated H₂SO₃ molecular species
+  quantitatively dominates in solution. The sulfur(IV) solution is acidic but weaker than sulfuric acid,
+  so its pH depends on concentration and conditions.
 
 So across Period 3 the oxides change from basic (ionic) to amphoteric (Al₂O₃) to acidic (covalent).
 
 ## Structures of the acids and anions
+
+<!-- marlbridge-diagram:chem-b18-period3-oxoacid-anion-structures -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/chemistry/chem-b18-period3-oxoacid-anion-structures.svg" aria-label="Open full-size diagram: Phosphate, sulfite and sulfate: acid-to-anion structures"><img src="/images/learning/chemistry/chem-b18-period3-oxoacid-anion-structures.svg" width="1528" height="940" alt="Displayed structural formulas show the deprotonation series H3PO4, H2PO4−, HPO4²−, PO4³−; H2SO3, HSO3−, SO3²−; and H2SO4, HSO4−, SO4²−. Each H+ loss converts one O–H group into O−. Phosphorus(V) and sulfur(VI) centers are tetrahedral; sulfur(IV) has one lone pair and a pyramidal arrangement." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Displayed-formula convention follows the guide: negative charges sit on singly bonded oxygen atoms. Resonance/equivalent-bond representations may also be used for oxyanions. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:chem-b18-period3-oxoacid-anion-structures -->
 
 In the anions the negative charge is shown on single-bonded oxygen atoms.
 

@@ -156,6 +156,14 @@ If no single reflection, rotation or translation works (for example a reflection
 
 ### Worked example: parallel mirror lines
 
+<!-- marlbridge-diagram:math-b80-ocr-parallel-mirror-translation -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/mathematics/math-b80-ocr-parallel-mirror-translation.svg" aria-label="Open full-size diagram: math-b80-ocr-parallel-mirror-translation"><img src="/images/learning/mathematics/math-b80-ocr-parallel-mirror-translation.svg" width="1528" height="940" alt="A point reflects first across x=1 and then x=5, moving from −2 to 4 to 6 on the same horizontal line; the composition is a translation 8 units right." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>A point reflects first across x=1 and then x=5, moving from −2 to 4 to 6 on the same horizontal line; the composition is a translation 8 units right.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:math-b80-ocr-parallel-mirror-translation -->
+
+
 Reflect a shape in x = 1, then in x = 5. A vertex at (−2, 1) goes to (2(1) − (−2), 1) = (4, 1), then to (2(5) − 4, 1) = (6, 1). The shift is 8 to the right, and 8 = 2 × (5 − 1).
 
 The single transformation is a **translation by (8 over 0)**. No point is invariant.
@@ -219,6 +227,14 @@ Describe every side as a route through known vectors, simplify, and then read of
 - Ratio: if P is on AB with AP : PB = 2 : 3, then **AP** = (2/5)**AB**.
 
 ### Worked example: a trapezium
+
+<!-- marlbridge-diagram:math-b80-ocr-vector-trapezium-proof -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/mathematics/math-b80-ocr-vector-trapezium-proof.svg" aria-label="Open full-size diagram: math-b80-ocr-vector-trapezium-proof"><img src="/images/learning/mathematics/math-b80-ocr-vector-trapezium-proof.svg" width="1528" height="940" alt="A labelled quadrilateral realizes p and q as perpendicular unit vectors, showing DC twice AB in the same direction while the other pair is not parallel." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>A labelled quadrilateral realizes p and q as perpendicular unit vectors, showing DC twice AB in the same direction while the other pair is not parallel.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:math-b80-ocr-vector-trapezium-proof -->
+
 
 In quadrilateral ABCD, **AB** = **p** + 2**q**, **BC** = **q** − 3**p** and **CD** = −2**p** − 4**q**.
 

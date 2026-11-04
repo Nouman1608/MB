@@ -124,6 +124,12 @@ P(X = 3) = 7C3 × 0.4³ × 0.6⁴
 ```
 
 ## Rational powers (1.04c, A Level only)
+<!-- marlbridge-diagram:maths-b19-binomial-rational-powers -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/mathematics/maths-b19-binomial-rational-powers.svg" aria-label="Open full-size diagram: maths-b19-binomial-rational-powers"><img src="/images/learning/mathematics/maths-b19-binomial-rational-powers.svg" width="1600" height="1050" alt="The expansion (1+x)^(-1/2)=1−x/2+3x²/8−5x³/16+… is valid for |x|&lt;1; at x=.2 the cubic estimate is .9125." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>The expansion (1+x)^(-1/2)=1−x/2+3x²/8−5x³/16+… is valid for |x|&lt;1; at x=.2 the cubic estimate is .9125. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:maths-b19-binomial-rational-powers -->
 
 For any rational n (negative or fractional) and |x| < 1:
 

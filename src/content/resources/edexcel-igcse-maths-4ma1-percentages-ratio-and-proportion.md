@@ -239,6 +239,14 @@ Find the value of **one part**, then multiply. What the question gives you decid
 
 **Given the total.** Share 1260 in the ratio 2 : 3 : 4.
 
+<!-- marlbridge-diagram:maths-b29-sharing-a-total-in-a-ratio -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/mathematics/maths-b29-sharing-a-total-in-a-ratio.svg" aria-label="Open full-size diagram: maths-b29-sharing-a-total-in-a-ratio"><img src="/images/learning/mathematics/maths-b29-sharing-a-total-in-a-ratio.svg" width="1600" height="1050" alt="The ratio 2:3:4 has 9 equal parts. One part is 1260÷9=140, so the shares are 280, 420 and 560; their sum checks to 1260." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>The ratio 2:3:4 has 9 equal parts. One part is 1260÷9=140, so the shares are 280, 420 and 560; their sum checks to 1260. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:maths-b29-sharing-a-total-in-a-ratio -->
+
+
 ```
 total parts = 9
 one part = 1260 / 9 = 140

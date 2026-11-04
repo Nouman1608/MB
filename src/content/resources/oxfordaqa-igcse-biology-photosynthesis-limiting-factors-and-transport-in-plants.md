@@ -71,6 +71,9 @@ Plants absorb nitrate ions from the soil through their roots. Nitrate supplies t
 
 ## 3.2.1 c: Limiting factors
 
+![Two photosynthesis rate curves showing a plateau at low carbon dioxide and continued increase at higher carbon dioxide.](/images/learning/biology/bio-b16-photosynthesis-limiting-factors.svg)
+
+
 The rate of photosynthesis may be limited by low temperature, a shortage of carbon dioxide or a shortage of light. These factors interact: whichever is in shortest supply sets the maximum rate. Supplying more of that factor lifts the rate until a different factor takes over.
 
 - Light: rate rises as light intensity rises, then levels off.
@@ -168,6 +171,9 @@ A leafy shoot loses mass as water evaporates. Mass lost in 2 hours:
 Percentage increase from cool still to warm windy = (4.6 − 1.2) ÷ 1.2 × 100 = 283%. Per hour, warm windy air gives 2.3 g. Explanation: warmth speeds evaporation and wind removes the water vapour near the stomata, which keeps the concentration gradient steep.
 
 ## 3.2.2 f: Transport systems
+
+![Side-by-side xylem and phloem transport diagram showing upward water flow and two-way sugar movement from leaves to sinks.](/images/learning/biology/bio-b16-plant-xylem-phloem-transport.svg)
+
 
 Flowering plants have two separate transport tissues.
 

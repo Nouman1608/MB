@@ -46,6 +46,14 @@ The five principles were introduced in the [role of the accountant guide](/resou
 
 ### Threats and safeguards
 
+<!-- marlbridge-diagram:accounting-ethics-threat-response -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/accounting/accounting-ethics-threat-response.svg" aria-label="Open full-size diagram: accounting-ethics-threat-response"><img src="/images/learning/accounting/accounting-ethics-threat-response.svg" width="1600" height="1050" alt="Ethical response sequence identifies threats, evaluates significance, applies safeguards and resolves unacceptable threats." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Ethical response sequence identifies threats, evaluates significance, applies safeguards and resolves unacceptable threats. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:accounting-ethics-threat-response -->
+
+
 CIMA's Code of Ethics, aligned with the international code set by the International Ethics Standards Board for Accountants (IESBA), asks accountants to identify threats, evaluate them and address them. It names five categories of threat:
 
 - **Self-interest** -- a financial or other interest could sway you (a bonus linked to profit).

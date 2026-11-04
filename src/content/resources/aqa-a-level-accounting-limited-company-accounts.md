@@ -94,6 +94,14 @@ Profit for the year after tax
 
 ## The statement of changes in equity
 
+<!-- marlbridge-diagram:accounting-limited-company-statements -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/accounting/accounting-limited-company-statements.svg" aria-label="Open full-size diagram: accounting-limited-company-statements"><img src="/images/learning/accounting/accounting-limited-company-statements.svg" width="1600" height="1050" alt="Process diagram: income statement profit after tax → statement of changes in equity (opening balances, share issue, profit, dividends) → closing equity in statement of financial position." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Process diagram: income statement profit after tax → statement of changes in equity (opening balances, share issue, profit, dividends) → closing equity in statement of financial position. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:accounting-limited-company-statements -->
+
+
 This statement explains the movement in each part of equity between the start and the end of the year. Use one column per component and a total column.
 
 ```

@@ -212,6 +212,14 @@ and the [Algebra and graphs revision notes](/resources/igcse-mathematics-algebra
 
 ## How to approach it
 
+<!-- marlbridge-diagram:math-b53-algebra-graphs-learning-pathway -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/public/images/learning/mathematics/math-b53-algebra-graphs-learning-pathway.svg" aria-label="Open full-size diagram: math-b53-algebra-graphs-learning-pathway"><img src="/public/images/learning/mathematics/math-b53-algebra-graphs-learning-pathway.svg" width="1528" height="940" alt="A source-based pathway: secure manipulation, select equation methods by tier, inspect successive differences for sequences, separate graph reading from sketching, then practise function notation. Core and Extended scope is distinguished as in the source guide." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>A source-based pathway: secure manipulation, select equation methods by tier, inspect successive differences for sequences, separate graph reading from sketching, then practise function notation. Core and Extended scope is distinguished as in the source guide. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:math-b53-algebra-graphs-learning-pathway -->
+
+
 Treat C2.2 (algebraic manipulation) as the foundation to fix before
 anything else in this topic — every equation, inequality and sequence
 question depends on being able to expand, factorise and simplify

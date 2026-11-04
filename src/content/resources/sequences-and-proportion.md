@@ -57,6 +57,22 @@ required (2.8)
 
 ## Sequences
 
+<!-- marlbridge-diagram:math-sub-470-sequences -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/mathematics/math-sub-470-sequences.svg" aria-label="Open full-size diagram: math-sub-470-sequences"><img src="/images/learning/mathematics/math-sub-470-sequences.svg" width="1528" height="940" alt="Sequence number lines and first/second differences distinguish linear, quadratic and geometric patterns." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Classify a sequence before finding its nth term — Marlbridge Mathematics.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:math-sub-470-sequences -->
+
+
+<!-- marlbridge-diagram:math-final-470-linear-sequence-nth-term -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/mathematics/math-final-470-linear-sequence-nth-term.svg" aria-label="Open full-size diagram: math-final-470-linear-sequence-nth-term"><img src="/images/learning/mathematics/math-final-470-linear-sequence-nth-term.svg" width="1528" height="940" alt="Term table shows a constant difference of three, leading to nth term 3n+2 and checking the fifth term is 17." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Term table shows a constant difference of three, leading to nth term 3n+2 and checking the fifth term is 17.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:math-final-470-linear-sequence-nth-term -->
+
+
 Continuing a sequence or spotting its pattern starts with the
 **term-to-term rule** — how each term relates to the one before it (add a
 constant, multiply by a constant, and so on) — but 4024 also expects
@@ -93,6 +109,14 @@ The syllabus also expects **simple combinations** of these types — for
 instance a sequence whose nth term is a linear term plus a quadratic term.
 
 ## Direct and inverse proportion
+
+<!-- marlbridge-diagram:math-sub-470-proportion -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/mathematics/math-sub-470-proportion.svg" aria-label="Open full-size diagram: math-sub-470-proportion"><img src="/images/learning/mathematics/math-sub-470-proportion.svg" width="1528" height="940" alt="Direct square proportion rises with x while inverse proportion falls, with worked values." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Use the right model, then determine the constant k — Marlbridge Mathematics.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:math-sub-470-proportion -->
+
 
 Two quantities are in **direct proportion** if one is a constant multiple
 of the other — as one increases, the other increases at the same rate.

@@ -102,6 +102,13 @@ The period does not depend on Q₀. A circuit with more charge swings harder, bu
 
 ## Charge, current and energy against time
 
+<!-- marlbridge-diagram:physcem-b18-lc-energy-time-graph -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/physics/physcem-b18-lc-energy-time-graph.svg" aria-label="Open full-size diagram: energy in an LC oscillation"><img src="/images/learning/physics/physcem-b18-lc-energy-time-graph.svg" width="1600" height="1050" alt="Over one LC period, capacitor energy follows cos²(ωt), inductor energy follows sin²(ωt), and their sum remains constant for the worked values." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>As charge and current oscillate, energy moves between the capacitor’s electric field and the inductor’s magnetic field; the ideal circuit’s total energy stays constant. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:physcem-b18-lc-energy-time-graph -->
+
 If the capacitor starts fully charged with the current zero (φ = 0):
 
 - **q = Q₀ cos ωt**
@@ -180,6 +187,13 @@ The charge and current are a quarter-cycle out of step. When |q| is greatest, I 
 **Interpretation.** A bigger capacitor charged to the same voltage stores more energy and oscillates more slowly. Always ask what is held fixed, the charge or the voltage, before predicting a factor of change.
 
 ## Designing an experiment
+
+<!-- marlbridge-diagram:physcem-b18-lc-period-experiment-switch-schematic -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/physics/physcem-b18-lc-period-experiment-switch-schematic.svg" aria-label="Open full-size diagram: LC period experiment switching schematic"><img src="/images/learning/physics/physcem-b18-lc-period-experiment-switch-schematic.svg" width="1600" height="1050" alt="A two-way switch charges a capacitor from a battery, then isolates the source and connects the capacitor to a fixed inductor. A high-impedance sensor records capacitor voltage; plotting T² against C gives gradient 4π²L." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>The two-way switch first charges the capacitor, then disconnects the battery before connecting the LC loop. Measure several cycles and plot T² against C. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:physcem-b18-lc-period-experiment-switch-schematic -->
 
 To test T = 2π√(LC), you could connect a voltage sensor or oscilloscope across the capacitor. Charge the capacitor with a battery, then use a two-way switch to connect it across the inductor and record V_C against time.
 

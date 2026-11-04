@@ -1,0 +1,84 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1528 940" role="img" aria-labelledby="title desc">
+  <title id="title">Column chromatography: downward solvent flow and collected fractions</title>
+  <desc id="desc">A packed silica column is loaded with a mixture at its top. Solvent flows down; weakly retained K travels ahead of strongly retained J. Components leave at different times and are collected in separate fractions, with K first.</desc>
+  <defs>
+    <marker id="down" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto"><path d="M1 1 L11 6 L1 11 Z" fill="#147d82"/></marker>
+    <style>
+      text{font-family:Arial,"Liberation Sans",sans-serif;fill:#172b4d}.title{font-size:34px;font-weight:700}.sub{font-size:19px;fill:#475569}
+      .label{font-size:18px;font-weight:700}.small{font-size:16px;fill:#475569}.panel{fill:#fff;stroke:#cbd5e1;stroke-width:2}
+    </style>
+  </defs>
+  <rect width="1528" height="940" rx="24" fill="#f4f8fb"/>
+  <text class="title" x="54" y="62">Column chromatography</text>
+  <text class="sub" x="55" y="96">A liquid mobile phase carries the sample down through a packed solid stationary phase.</text>
+  <text x="1472" y="60" text-anchor="end" font-size="15" font-weight="700" fill="#0f766e">AQA A-LEVEL CHEMISTRY</text>
+
+  <rect class="panel" x="45" y="132" width="900" height="675" rx="18"/>
+  <text class="label" x="82" y="181">Packed column at the separation stage</text>
+
+  <!-- Reservoir and glass column -->
+  <path d="M382 214 L608 214 L608 572 L575 632 L415 632 L382 572 Z" fill="#e8f3f7" stroke="#334155" stroke-width="4" stroke-linejoin="round"/>
+  <ellipse cx="495" cy="214" rx="113" ry="20" fill="#fff" stroke="#334155" stroke-width="4"/>
+  <path d="M386 299 L604 299 L604 570 L575 625 L415 625 L386 570 Z" fill="#e6d7bb" opacity=".86"/>
+  <!-- stationary packing grains -->
+  <g fill="#b8a27d" opacity=".75">
+    <circle cx="414" cy="328" r="7"/><circle cx="447" cy="325" r="7"/><circle cx="481" cy="329" r="7"/><circle cx="515" cy="325" r="7"/><circle cx="550" cy="330" r="7"/><circle cx="584" cy="326" r="7"/>
+    <circle cx="430" cy="360" r="7"/><circle cx="465" cy="357" r="7"/><circle cx="500" cy="361" r="7"/><circle cx="535" cy="358" r="7"/><circle cx="570" cy="362" r="7"/>
+    <circle cx="413" cy="394" r="7"/><circle cx="448" cy="391" r="7"/><circle cx="483" cy="395" r="7"/><circle cx="518" cy="392" r="7"/><circle cx="553" cy="396" r="7"/><circle cx="585" cy="392" r="7"/>
+    <circle cx="430" cy="430" r="7"/><circle cx="465" cy="427" r="7"/><circle cx="500" cy="431" r="7"/><circle cx="535" cy="428" r="7"/><circle cx="570" cy="432" r="7"/>
+    <circle cx="413" cy="466" r="7"/><circle cx="448" cy="463" r="7"/><circle cx="483" cy="467" r="7"/><circle cx="518" cy="464" r="7"/><circle cx="553" cy="468" r="7"/><circle cx="585" cy="464" r="7"/>
+    <circle cx="430" cy="502" r="7"/><circle cx="465" cy="499" r="7"/><circle cx="500" cy="503" r="7"/><circle cx="535" cy="500" r="7"/><circle cx="570" cy="504" r="7"/>
+    <circle cx="413" cy="538" r="7"/><circle cx="448" cy="535" r="7"/><circle cx="483" cy="539" r="7"/><circle cx="518" cy="536" r="7"/><circle cx="553" cy="540" r="7"/><circle cx="585" cy="536" r="7"/>
+  </g>
+  <!-- bands separated by retention -->
+  <rect x="389" y="371" width="212" height="30" rx="12" fill="#267bb3" opacity=".88"/>
+  <text x="495" y="393" text-anchor="middle" font-size="18" font-weight="700" fill="#fff">J — more strongly retained</text>
+  <rect x="389" y="505" width="212" height="30" rx="12" fill="#d79532" opacity=".96"/>
+  <text x="495" y="527" text-anchor="middle" font-size="18" font-weight="700" fill="#fff">K — weakly retained</text>
+  <!-- applied sample and eluent -->
+  <rect x="421" y="235" width="148" height="32" rx="12" fill="#c4a7cd" stroke="#78558a" stroke-width="2"/>
+  <text class="small" x="495" y="257" text-anchor="middle">sample band J + K</text>
+  <path d="M440 281 L440 320 M495 281 L495 320 M550 281 L550 320" stroke="#147d82" stroke-width="3" marker-end="url(#down)"/>
+  <text class="small" x="495" y="687" text-anchor="middle">silica or alumina: stationary phase</text>
+  <!-- stopcock and outlet -->
+  <path d="M495 632 L495 672 M466 674 L524 674 M495 674 L495 707" stroke="#334155" stroke-width="5" stroke-linecap="round"/>
+  <path d="M478 674 L495 657 L512 674 L495 691 Z" fill="#dce7ec" stroke="#334155" stroke-width="3"/>
+  <path d="M495 708 L495 726" stroke="#147d82" stroke-width="4" marker-end="url(#down)"/>
+  <path d="M470 733 L520 733 L515 784 Q495 798 475 784 Z" fill="#fff" stroke="#334155" stroke-width="3"/>
+  <path d="M474 767 L516 767 L514 783 Q495 795 477 783 Z" fill="#f0c269"/>
+  <text class="small" x="495" y="827" text-anchor="middle">fraction 1: K leaves first</text>
+
+  <!-- Callouts -->
+  <text class="label" x="81" y="256">Load mixture</text>
+  <text class="small" x="81" y="281">in a narrow band</text>
+  <path d="M231 270 L407 252" stroke="#64748b" stroke-width="2" fill="none"/>
+  <text class="label" x="678" y="359">Solvent flows down</text>
+  <text class="small" x="678" y="385">mobile phase carries both</text>
+  <path d="M674 393 L604 410" stroke="#64748b" stroke-width="2" fill="none"/>
+  <text class="label" x="678" y="473">J interacts more</text>
+  <text class="small" x="678" y="499">with the stationary solid</text>
+  <path d="M674 487 L602 386" stroke="#64748b" stroke-width="2" fill="none"/>
+  <text class="label" x="678" y="567">K moves ahead</text>
+  <text class="small" x="678" y="593">more soluble and less retained</text>
+  <path d="M674 580 L603 522" stroke="#64748b" stroke-width="2" fill="none"/>
+
+  <rect class="panel" x="975" y="132" width="513" height="675" rx="18"/>
+  <text x="1017" y="183" font-size="25" font-weight="700" fill="#0f766e">What the fractions show</text>
+  <circle cx="1041" cy="244" r="19" fill="#d9f1ed"/><text x="1041" y="250" text-anchor="middle" font-size="18" font-weight="700">1</text>
+  <text class="label" x="1077" y="241">Components share two phases</text>
+  <text class="small" x="1077" y="270">Each dissolves in the solvent and is also</text>
+  <text class="small" x="1077" y="294">attracted to the packed stationary solid.</text>
+  <circle cx="1041" cy="354" r="19" fill="#d9f1ed"/><text x="1041" y="360" text-anchor="middle" font-size="18" font-weight="700">2</text>
+  <text class="label" x="1077" y="351">Less retained travels faster</text>
+  <text class="small" x="1077" y="380">K spends more time in the moving solvent</text>
+  <text class="small" x="1077" y="404">and reaches the outlet before J.</text>
+  <circle cx="1041" cy="465" r="19" fill="#d9f1ed"/><text x="1041" y="471" text-anchor="middle" font-size="18" font-weight="700">3</text>
+  <text class="label" x="1077" y="462">Collect fractions in order</text>
+  <text class="small" x="1077" y="491">Change the receiving tube as bands elute.</text>
+  <text class="small" x="1077" y="515">K is collected first; J follows later.</text>
+  <rect x="1017" y="572" width="430" height="126" rx="13" fill="#eef5f8"/>
+  <text class="label" x="1040" y="608">Flow direction</text>
+  <text class="small" x="1040" y="639">Column chromatography: down the column</text>
+  <text class="small" x="1040" y="666">TLC: up the plate. The phase balance is the same.</text>
+  <text x="1478" y="914" text-anchor="end" font-size="15" font-weight="700" fill="#47647b">MARLBRIDGE • STUDY RESOURCES</text>
+</svg>

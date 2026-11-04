@@ -79,6 +79,14 @@ Interest cover     = 1,488,000 / 188,000          = 7.91 times
 **Reading them.** EPS rose by half a cent, yet the share price fell, so price earnings dropped from 18.0 to 16.0: investors are less confident about growth. Dividends grew in line with profit, so cover held at 2.50. Interest cover fell because finance costs rose by 58,000 while operating profit rose by only 108,000.
 
 ## Interpreting management information
+<!-- marlbridge-diagram:ac-b15-interpretation-ratio-to-recommendation -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/accounting/ac-b15-interpretation-ratio-to-recommendation.svg" aria-label="Open full-size diagram: ac-b15-interpretation-ratio-to-recommendation">
+    <img src="/images/learning/accounting/ac-b15-interpretation-ratio-to-recommendation.svg" width="1600" height="1050" alt="Connect ratio evidence to business meaning, stakeholder impact, comparison limits and a justified recommendation." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" />
+  </a>
+  <figcaption>State the change, explain its implication, qualify the evidence and recommend a proportionate action. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:ac-b15-interpretation-ratio-to-recommendation -->
 
 The specification includes management information. A month's variance report from Ardleigh's foundry:
 
@@ -174,6 +182,13 @@ The disposal moves profit and cash in opposite directions; the revaluation impro
 Work through the financial case, each stakeholder, the local and national economy, the environment, then judge.
 
 ### Worked example: funding a new plant
+<!-- marlbridge-diagram:ac-b16-funding-plant-debt-or-rights -->
+<figure class="study-guide-figure">
+  <img src="/images/learning/accounting/ac-b16-funding-plant-debt-or-rights.svg" alt="For the $4,000,000 plant, debt gives EPS 16.6 cents, interest cover 4.03 times and gearing 45.13%; rights issue gives EPS 15.39 cents, cover 11.74 times and gearing 17.78%." loading="lazy" />
+  <figcaption>Debt raises forecast EPS but also increases gearing and reduces interest cover; judge the forecast risk.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:ac-b16-funding-plant-debt-or-rights -->
+
 
 Ardleigh's directors recommend building a 4,000,000 plant in a coastal town, financed by 9% debentures rather than a rights issue at 160 cents. They expect profit from operations to rise by 720,000. Tax is 20% of profit before tax.
 

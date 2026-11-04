@@ -87,11 +87,21 @@ Topic 1 content is the four sub-topics listed above.
 
 ## Order of operations and negative numbers
 
+<!-- marlbridge-diagram:math-final-345-bidmas-negative-signs -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/mathematics/math-final-345-bidmas-negative-signs.svg" aria-label="Open full-size diagram: math-final-345-bidmas-negative-signs"><img src="/images/learning/mathematics/math-final-345-bidmas-negative-signs.svg" width="1528" height="940" alt="Step-by-step BIDMAS calculation ending in 8 with a separate negative-number sign reminder." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Step-by-step BIDMAS calculation ending in 8 with a separate negative-number sign reminder.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:math-final-345-bidmas-negative-signs -->
+
+
 Calculations follow **BIDMAS**: brackets, indices, division and multiplication (left to right), then addition and subtraction (left to right). Division and multiplication rank equally, as do addition and subtraction — working strictly left to right within each pair is what prevents most errors.
 
 With negative numbers, two signs together combine: subtracting a negative is equivalent to adding, and multiplying or dividing two negatives gives a positive. An odd number of negative factors gives a negative product; an even number gives a positive.
 
 ## Factors, multiples and primes
+
+<figure class="learning-diagram" style="margin:1.5rem 0;"><a href="/public/images/learning/mathematics/math-sub-345-prime-factor-hcf-lcm.svg" aria-label="Open full-size diagram: math-sub-345-prime-factor-hcf-lcm"><img src="/public/images/learning/mathematics/math-sub-345-prime-factor-hcf-lcm.svg" width="1528" height="940" alt="Factor trees → prime powers → choose minimums for HCF, maximums for LCM 84 = 2² × 3 × 7; 120 = 2³ × 3 × 5; HCF = 2² × 3 = 12; LCM = 2³ × 3 × 5 × 7 = 840" loading="lazy" decoding="async" style="display:block;width:100%;height:auto;" /></a><figcaption>Prime factors reveal HCF and LCM — Marlbridge Mathematics</figcaption></figure>
 
 A **factor** divides exactly into a number; a **multiple** is in its times table; a **prime** has exactly two distinct factors, so 1 is not prime and 2 is the only even prime.
 
@@ -109,11 +119,15 @@ A useful check: HCF x LCM = product of the two numbers. Here 12 x 840 = 10 080 =
 
 ## Powers, roots and standard form (Topic 3)
 
+<figure class="learning-diagram" style="margin:1.5rem 0;"><a href="/public/images/learning/mathematics/math-sub-345-indices-standard-form.svg" aria-label="Open full-size diagram: math-sub-345-indices-standard-form"><img src="/public/images/learning/mathematics/math-sub-345-indices-standard-form.svg" width="1528" height="940" alt="Combine powers carefully; normalize the coefficient to 1 ≤ A < 10 3⁴ × 3² = 3⁶; (2³)² = 2⁶; 4.8 × 10⁵ × 2 × 10³; = 9.6 × 10⁸" loading="lazy" decoding="async" style="display:block;width:100%;height:auto;" /></a><figcaption>Index laws and standard form — Marlbridge Mathematics</figcaption></figure>
+
 Index laws: multiplying adds indices, dividing subtracts, a power of a power multiplies, anything to the power zero is 1, and a negative index gives the reciprocal (negative integer indices are Foundation, 3.01a). **(Higher tier only, 3.01a-b)** A fractional index is a root.
 
 Standard form is A x 10^n with 1 <= A < 10. When multiplying, multiply the numbers and add the indices; when dividing, divide and subtract. Always check the result is still in standard form and adjust if A has drifted outside the range.
 
 ## Rounding, estimation and error intervals (Topic 4)
+
+<figure class="learning-diagram" style="margin:1.5rem 0;"><a href="/public/images/learning/mathematics/math-sub-345-rounding-error-intervals.svg" aria-label="Open full-size diagram: math-sub-345-rounding-error-intervals"><img src="/public/images/learning/mathematics/math-sub-345-rounding-error-intervals.svg" width="1528" height="940" alt="A rounded measurement represents a half-open interval 6.3 cm to 1 d.p.; Lower bound: 6.25 cm (included); Upper bound: 6.35 cm (excluded); 6.25 ≤ length < 6.35" loading="lazy" decoding="async" style="display:block;width:100%;height:auto;" /></a><figcaption>Rounding, estimation and error intervals — Marlbridge Mathematics</figcaption></figure>
 
 Round to a given number of decimal places or significant figures, remembering that leading zeros are never significant. Estimate by rounding every value to 1 significant figure before calculating.
 
@@ -126,6 +140,8 @@ Round to a given number of decimal places or significant figures, remembering th
 The lower bound uses <= and the upper uses <, because 6.35 would round up. Writing an error interval is Foundation content (4.01c); calculating the upper and lower bounds of a calculation that uses rounded values is Higher tier only.
 
 ## Worked example
+
+<figure class="learning-diagram" style="margin:1.5rem 0;"><a href="/public/images/learning/mathematics/math-sub-345-lcm-bells.svg" aria-label="Open full-size diagram: math-sub-345-lcm-bells"><img src="/public/images/learning/mathematics/math-sub-345-lcm-bells.svg" width="1528" height="940" alt="Two bells ring every 84 s and 120 s; both ring together at 09:00. Choose LCM: coincidence means a common multiple; 84 = 2² × 3 × 7; 120 = 2³ × 3 × 5; LCM = 2³ × 3 × 5 × 7 = 840 seconds; 840 seconds = 14 minutes → next together at 09:14" loading="lazy" decoding="async" style="display:block;width:100%;height:auto;" /></a><figcaption>Use the LCM to predict when events coincide — Marlbridge Mathematics</figcaption></figure>
 
 Two bells ring at intervals of 84 seconds and 120 seconds. They ring together at 09:00. When do they next ring together?
 

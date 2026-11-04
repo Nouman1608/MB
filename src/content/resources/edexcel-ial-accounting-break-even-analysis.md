@@ -94,6 +94,14 @@ Showing contribution as a subtotal is the quickest route to every break-even fig
 
 ### Worked example 2: semi-fixed costs and more than one break-even point
 
+<!-- marlbridge-diagram:accounting-edexcel-step-cost-break-even -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/accounting/accounting-edexcel-step-cost-break-even.svg" aria-label="Open full-size diagram: accounting-edexcel-step-cost-break-even"><img src="/images/learning/accounting/accounting-edexcel-step-cost-break-even.svg" width="1600" height="1050" alt="Step-cost chart shows two break-even points and the fixed-cost rise at the press capacity threshold." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Step-cost chart shows two break-even points and the fixed-cost rise at the press capacity threshold. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:accounting-edexcel-step-cost-break-even -->
+
+
 Tolcarn Print Studio prints sports shirts. Each shirt earns a contribution of 6. With one press, fixed costs are 9,000 a month and capacity is 2,000 shirts. Above 2,000 shirts it must lease a second press and hire an operator, adding 4,200 a month (capacity 4,000 shirts).
 
 ```

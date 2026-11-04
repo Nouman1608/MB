@@ -88,6 +88,14 @@ intervention to address market failure (2.11.2).
 
 ## Building on Topic 1
 
+<!-- marlbridge-diagram:economics-cambridge-olevel-price-mechanism-shortage-surplus -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/economics/economics-cambridge-olevel-price-mechanism-shortage-surplus.svg" aria-label="Open full-size diagram: economics-cambridge-olevel-price-mechanism-shortage-surplus"><img src="/images/learning/economics/economics-cambridge-olevel-price-mechanism-shortage-surplus.svg" width="1600" height="1050" alt="Two demand and supply sketches show excess demand below equilibrium and excess supply above equilibrium, with the direction of price pressure clearly distinguished." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Two demand and supply sketches show excess demand below equilibrium and excess supply above equilibrium, with the direction of price pressure clearly distinguished. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:economics-cambridge-olevel-price-mechanism-shortage-surplus -->
+
+
 Topic 2 answers the question Topic 1 poses. The basic economic problem
 establishes that resources are finite while wants are unlimited, that
 every choice carries an opportunity cost, and — through production

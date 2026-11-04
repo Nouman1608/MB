@@ -189,6 +189,14 @@ Changes inside the brackets act on x and "do the opposite" of what you expect. C
 
 ## 7. Combinations of transformations (1.02x, Stage 2)
 
+<!-- marlbridge-diagram:math-b65-combined-transformations-point-mapping -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/public/images/learning/mathematics/math-b65-combined-transformations-point-mapping.svg" aria-label="Open full-size diagram: math-b65-combined-transformations-point-mapping"><img src="/public/images/learning/mathematics/math-b65-combined-transformations-point-mapping.svg" width="1528" height="940" alt="For y=3f(2x−4)+1, a point (p,q) maps to ((p+4)/2,3q+1). The source minimum (1,−2) maps to (5/2,−5); expansion confirms it." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>For y=3f(2x−4)+1, a point (p,q) maps to ((p+4)/2,3q+1). The source minimum (1,−2) maps to (5/2,−5); expansion confirms it. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:math-b65-combined-transformations-point-mapping -->
+
+
 The order matters. Take f(x), then add 2, then multiply by 3: that gives 3(f(x) + 2) = 3f(x) + 6. Multiply by 3 first, then add 2: 3f(x) + 2.
 
 **Tracking a point.** For y = 3f(2x − 4) + 1, a point (p, q) on y = f(x) goes to (X, Y) where 2X − 4 = p and Y = 3q + 1. So X = (p + 4)/2 and Y = 3q + 1.

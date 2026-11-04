@@ -14,7 +14,7 @@ prerequisiteResources: ["mb-ap-bio-2.4-study-guide"]
 learningObjectives:
   - "Explain how a selectively permeable membrane lets a cell build and keep concentration gradients"
   - "Describe passive transport as net movement down a concentration gradient with no direct metabolic energy"
-  - "Describe active transport as movement that needs a direct input of energy and can move substances from low to high concentration"
+  - "Describe active transport as energy-coupled movement across a membrane, distinguishing direct ATP-driven primary transport from secondary transport driven by an ion gradient"
   - "Describe how endocytosis and exocytosis move large substances, or large amounts of material, into and out of cells, and why they need energy"
   - "Use concentration data to decide whether a substance is moved passively or actively"
   - "Evaluate a transport experiment and propose a better investigation"
@@ -29,15 +29,15 @@ framework: { schoolYear: "2026-27", examSeries: "May 2027" }
 sources: ["ced-biology", "page-biology"]
 keyPoints:
   - "Because the membrane lets some substances through and blocks others, a cell can keep different concentrations inside and outside. These differences are concentration gradients."
-  - "Passive transport is net movement from high to low concentration. It needs no direct input of metabolic energy (no ATP)."
-  - "Active transport needs a direct input of energy, usually from ATP, and a membrane protein. It can move a substance from low to high concentration."
+  - "Passive transport needs no metabolic-energy input: uncharged solutes move down their concentration gradient, while ions move down their electrochemical gradient."
+  - "Active transport couples movement to an energy source: primary transport uses energy directly, commonly ATP hydrolysis; secondary transport uses an ion gradient established by primary transport."
   - "Endocytosis (into the cell) and exocytosis (out of the cell) move large molecules, particles or large amounts of material inside vesicles. Both need energy."
-  - "Evidence for active transport: the substance builds up above its outside concentration, and the build-up stops when ATP production is blocked."
+  - "Evidence for energy-dependent uptake can include accumulation against the relevant gradient and sensitivity to an energy-supply inhibitor; blocking ATP production directly tests ATP-driven primary transport, while secondary transport may continue temporarily on an existing ion gradient."
 faqs:
   - question: "Is osmosis passive or active transport?"
     answer: "Passive. Water moves down its own gradient without the cell spending ATP. You study osmosis and water potential in Topic 2.7."
   - question: "Does active transport always move substances against their gradient?"
-    answer: "No. The defining feature is the direct input of energy. Moving a substance from low to high concentration is the most common reason a cell uses it, but it is not part of the definition."
+    answer: "No. Active transport is energy-coupled: a primary transporter uses energy directly, while a secondary cotransporter uses an ion gradient. Moving a substance uphill is common, but it is not the whole definition."
 version: "1.0"
 publishedDate: 2026-10-05
 updatedDate: 2026-10-05
@@ -55,8 +55,8 @@ Gradients are possible because the plasma membrane is **selectively permeable** 
 
 This topic sorts the ways substances cross a membrane into three groups:
 
-1. **Passive transport**: movement down a gradient, with no direct use of metabolic energy.
-2. **Active transport**: movement that needs a direct input of energy, often against a gradient.
+1. **Passive transport**: movement down the relevant chemical or electrochemical gradient, with no metabolic-energy input.
+2. **Active transport**: movement coupled to an energy source, directly (primary) or through an ion gradient (secondary), often against the transported substance's gradient.
 3. **Bulk transport** (endocytosis and exocytosis): large substances or large amounts carried inside membrane vesicles, also using energy.
 
 ## Concentration gradients and diffusion
@@ -80,23 +80,23 @@ There are three types, and you meet two of them in more detail soon:
 - **Facilitated diffusion** through a channel or carrier protein, for ions and large polar molecules such as glucose. A protein is involved, but the process is still passive: it only works down the gradient (Topic 2.6).
 - **Osmosis**, the passive movement of water across a membrane (Topic 2.7).
 
-For an uncharged solute, passive transport can never build up the substance above its concentration on the other side. At best it brings the two sides to equal concentration. (For ions, the charge across the membrane also matters; see Topic 2.6.)
+For an uncharged solute at equilibrium, passive transport produces equal concentrations across the membrane. For ions, electrical potential also contributes: passive equilibrium is set by the electrochemical gradient and need not mean equal concentrations (Topic 2.6).
 
 ## Active transport
 
-**Active transport** moves substances across a membrane using a **direct input of energy**, usually from the hydrolysis of ATP. It always needs a specific **membrane protein**, often called a **pump**. In many cases, active transport moves a substance from a region of **low** concentration to a region of **high** concentration: against its gradient. This is how a cell can accumulate a nutrient it is short of, or remove a substance it must keep low.
+**Active transport** couples movement across a membrane to an energy source. **Primary active transport** uses energy directly, commonly by hydrolysing ATP in a membrane pump. **Secondary active transport** uses the energy stored in an ion gradient—often a proton or sodium gradient—to drive a different substance uphill through a cotransporter. Both require a specific membrane protein. They can accumulate a nutrient or maintain ion levels against the transported substance's electrochemical gradient.
 
 Examples you should recognise:
 
 - Root hair cells take up mineral ions such as nitrate from soil water in which they are already less concentrated than in the cell.
 - Animal cells use a pump that moves Na⁺ out and K⁺ in, keeping the gradients described at the start of this guide. You study how it works, and how it affects the charge across the membrane, in Topic 2.8.
 
-Because active transport depends on ATP, anything that stops ATP production (lack of oxygen for an aerobic cell, a metabolic poison, low temperature that slows respiration) slows or stops it. Passive transport carries on, as long as a gradient exists.
+Blocking ATP production slows or stops ATP-driven primary pumps. Secondary transport can continue temporarily while its coupled ion gradient remains, but it also declines as that gradient runs down unless primary pumps restore it. Passive transport continues while a relevant chemical or electrochemical gradient exists.
 
 <figure>
 <svg viewBox="0 0 760 370" role="img" aria-labelledby="mt-title mt-desc" xmlns="http://www.w3.org/2000/svg" font-family="system-ui, sans-serif">
 <title id="mt-title">Five ways substances cross the plasma membrane</title>
-<desc id="mt-desc">A horizontal band across the middle is the phospholipid bilayer; outside the cell is above, the cytoplasm is below. Panel 1, simple diffusion: five small dots above the band and one below, with an arrow passing straight through the bilayer from the crowded side to the sparse side. Panel 2, facilitated diffusion: a protein with a central gap spans the band; five dots above, one below, and the arrow passes through the gap from high to low concentration. Panel 3, active transport: a pump protein spans the band; two dots above and four below, and the arrow goes from the sparse outside to the crowded inside, labelled uses ATP, can go low to high. Panel 4, endocytosis: a large particle outside, an arrow down through the band into a vesicle that encloses it inside the cell. Panel 5, exocytosis: a vesicle inside holding three dots, an arrow up through the band, and three dots released outside.</desc>
+<desc id="mt-desc">A horizontal band across the middle is the phospholipid bilayer; outside the cell is above, the cytoplasm is below. Panel 1, simple diffusion: five small dots above the band and one below, with an arrow passing straight through the bilayer from the crowded side to the sparse side. Panel 2, facilitated diffusion: a protein with a central gap spans the band; five dots above, one below, and the arrow passes through the gap from high to low concentration. Panel 3, a primary active-transport example: a pump protein spans the band; two dots above and four below, and the arrow goes from the sparse outside to the crowded inside using ATP. Secondary active transport instead uses an ion gradient. Panel 4, endocytosis: a large particle outside, an arrow down through the band into a vesicle that encloses it inside the cell. Panel 5, exocytosis: a vesicle inside holding three dots, an arrow up through the band, and three dots released outside.</desc>
 <rect x="0" y="0" width="760" height="370" fill="#ffffff"/>
 <defs><marker id="mt-arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1d2b44"/></marker></defs>
 <text x="12" y="22" font-size="14" font-weight="600" fill="#1d2b44">Outside the cell</text>
@@ -124,7 +124,7 @@ Because active transport depends on ATP, anything that stops ATP production (lac
 <g font-size="13" fill="#1d2b44" text-anchor="middle">
 <text x="75" y="272" font-weight="600">Simple</text><text x="75" y="288" font-weight="600">diffusion</text><text x="75" y="304">passive,</text><text x="75" y="320">high → low</text>
 <text x="205" y="272" font-weight="600">Facilitated</text><text x="205" y="288" font-weight="600">diffusion</text><text x="205" y="304">passive,</text><text x="205" y="320">via a protein</text>
-<text x="335" y="272" font-weight="600">Active</text><text x="335" y="288" font-weight="600">transport</text><text x="335" y="304">uses ATP,</text><text x="335" y="320">can go low → high</text>
+<text x="335" y="272" font-weight="600">Primary active</text><text x="335" y="288" font-weight="600">transport</text><text x="335" y="304">uses ATP,</text><text x="335" y="320">can go low → high</text>
 <text x="465" y="272" font-weight="600">Endocytosis</text><text x="465" y="288">vesicle forms,</text><text x="465" y="304">needs energy</text>
 <text x="595" y="272" font-weight="600">Exocytosis</text><text x="595" y="288">vesicle fuses,</text><text x="595" y="304">needs energy</text>
 </g>
@@ -152,8 +152,8 @@ Both processes **need energy**. The cell uses ATP to reshape the membrane and to
 
 | Feature | Passive transport | Active transport | Endocytosis / exocytosis |
 |---|---|---|---|
-| Direction | high → low concentration only | can be low → high | in (endo) or out (exo), regardless of gradient |
-| Direct metabolic energy (ATP)? | no | yes | yes |
+| Direction | down the relevant chemical or electrochemical gradient | can move a substance against its relevant gradient | in (endo) or out (exo), regardless of gradient |
+| Direct metabolic energy (ATP)? | no | primary transport uses direct energy, commonly ATP; secondary transport uses an ion gradient | vesicle transport requires energy, commonly ATP |
 | Membrane protein needed? | only for facilitated diffusion | yes, a specific pump | vesicle formation uses proteins; cargo is not carried by a pump |
 | What moves | small molecules, ions, water | ions and small molecules | large molecules, particles, large amounts of fluid |
 | Example | O₂ into a respiring cell | mineral ions into root hair cells | white blood cell engulfing a bacterium; release of insulin |

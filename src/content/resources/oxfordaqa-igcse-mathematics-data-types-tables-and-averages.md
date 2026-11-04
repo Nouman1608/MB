@@ -211,6 +211,14 @@ A **percentile** divides the data into 100 parts. The 90th percentile is the val
 
 ### Worked example 7
 
+<!-- marlbridge-diagram:math-b62-oxfordaqa-quartiles-iqr-boxplot-eleven-values -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/public/images/learning/mathematics/math-b62-oxfordaqa-quartiles-iqr-boxplot-eleven-values.svg" aria-label="Open full-size diagram: math-b62-oxfordaqa-quartiles-iqr-boxplot-eleven-values"><img src="/public/images/learning/mathematics/math-b62-oxfordaqa-quartiles-iqr-boxplot-eleven-values.svg" width="1528" height="940" alt="An ordered dot strip and matching box plot for eleven values mark minimum 18, lower quartile 22, median 27, upper quartile 33, maximum 40, and IQR 11." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>An ordered dot strip and matching box plot for eleven values mark minimum 18, lower quartile 22, median 27, upper quartile 33, maximum 40, and IQR 11.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:math-b62-oxfordaqa-quartiles-iqr-boxplot-eleven-values -->
+
+
 Eleven values: 23, 31, 18, 27, 35, 29, 40, 22, 26, 33, 20.
 
 ```

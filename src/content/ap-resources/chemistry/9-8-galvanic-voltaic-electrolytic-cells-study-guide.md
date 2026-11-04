@@ -28,7 +28,7 @@ next: "mb-ap-chem-9.8-practice"
 framework: { schoolYear: "2026-27", examSeries: "May 2027" }
 sources: ["ced-chemistry", "page-chemistry"]
 keyPoints:
-  - "A galvanic (voltaic) cell runs a thermodynamically favourable redox reaction and produces electrical energy. An electrolytic cell uses electrical energy to drive an unfavourable one."
+  - "A galvanic (voltaic) cell runs a thermodynamically favourable redox reaction under its actual operating conditions and produces electrical energy. An electrolytic cell uses electrical energy to drive the reverse, unfavourable direction under those conditions."
   - "In every cell, oxidation happens at the anode and reduction happens at the cathode."
   - "Electrons flow through the external wire from the anode to the cathode. They never travel through the salt bridge or the solution."
   - "Ions carry the charge inside the cell: anions move towards the anode and cations move towards the cathode, keeping each half-cell electrically neutral."
@@ -53,7 +53,7 @@ In [Topic 9.7](/advanced-course-resources/chemistry/9-7-coupled-reactions-study-
 
 | | Galvanic (voltaic) cell | Electrolytic cell |
 |---|---|---|
-| Redox reaction | thermodynamically **favourable** (ΔG° < 0) | thermodynamically **unfavourable** (ΔG° > 0) |
+| Redox reaction under the actual cell conditions | thermodynamically **favourable** (ΔG < 0 for the operating direction) | the power supply drives a thermodynamically **unfavourable** direction (ΔG > 0) |
 | Energy change | chemical energy → electrical energy | electrical energy → chemical energy |
 | What is in the circuit | a voltmeter, bulb or other device that *uses* the current | a **power supply** (battery or DC source) that *pushes* the current |
 | Everyday example | a battery powering a torch | recharging that battery; electroplating; extracting reactive metals from molten salts |

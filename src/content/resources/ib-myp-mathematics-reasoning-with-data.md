@@ -82,6 +82,14 @@ than mechanical calculation.
 
 ## Choosing the right measure and representation
 
+<!-- marlbridge-diagram:math-b47-myp-data-measure-choice -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/mathematics/math-b47-myp-data-measure-choice.svg" aria-label="Open full-size diagram: math-b47-myp-data-measure-choice"><img src="/images/learning/mathematics/math-b47-myp-data-measure-choice.svg" width="1600" height="1050" alt="Three-way choice: categorical data → mode; roughly symmetric numerical data → mean; skewed data or outliers → median. A schematic box plot illustrates median, quartiles, whiskers and possible high outliers without implying unavailable raw values." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Three-way choice: categorical data → mode; roughly symmetric numerical data → mean; skewed data or outliers → median. A schematic box plot illustrates median, quartiles, whiskers and possible high outliers without implying unavailable raw values. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:math-b47-myp-data-measure-choice -->
+
+
 | Data shape | Best measure of centre | Why |
 |---|---|---|
 | Roughly symmetric | Mean | Uses every value, most sensitive to overall pattern |

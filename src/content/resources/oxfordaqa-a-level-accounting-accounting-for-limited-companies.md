@@ -102,6 +102,14 @@ Dr Accumulated depreciation: premises            57,600
 The reserve cannot fund a cash dividend because the gain is unrealised. A later fall in value is first set against that asset's revaluation reserve.
 
 ## Issue of shares, rights issues and bonus issues
+<!-- marlbridge-diagram:ac-b15-a-level-limited-company-share-issue -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/accounting/ac-b15-a-level-limited-company-share-issue.svg" aria-label="Open full-size diagram: ac-b15-a-level-limited-company-share-issue">
+    <img src="/images/learning/accounting/ac-b15-a-level-limited-company-share-issue.svg" width="1600" height="1050" alt="Show cash proceeds split between ordinary share capital at nominal value and share premium for the excess." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" />
+  </a>
+  <figcaption>A share premium is equity; distinguish it from nominal share capital and cash received. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:ac-b15-a-level-limited-company-share-issue -->
 
 | | Issue of shares | Rights issue | Bonus issue |
 |---|---|---|---|

@@ -174,6 +174,14 @@ Turning point: x = (4 + (−2))/2 = 1
 
 ### Roots that do not factorise (Higher tier only)
 
+<!-- marlbridge-diagram:math-b78-ocr-nonfactorising-quadratic-roots -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/public/images/learning/mathematics/math-b78-ocr-nonfactorising-quadratic-roots.svg" aria-label="Open full-size diagram: math-b78-ocr-nonfactorising-quadratic-roots"><img src="/public/images/learning/mathematics/math-b78-ocr-nonfactorising-quadratic-roots.svg" width="1528" height="940" alt="Graph of y=x²−6x+3 marks exact roots 3±√6 and decimal intercepts about 0.55 and 5.45, with minimum at (3,−6)." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Graph of y=x²−6x+3 marks exact roots 3±√6 and decimal intercepts about 0.55 and 5.45, with minimum at (3,−6).</figcaption>
+</figure>
+<!-- /marlbridge-diagram:math-b78-ocr-nonfactorising-quadratic-roots -->
+
+
 When a quadratic does not factorise, Higher tier candidates find the roots with the quadratic formula or by completing the square. These are algebraic methods, so exact answers use surds.
 
 **Worked example 3.** Solve x² − 6x + 3 = 0.

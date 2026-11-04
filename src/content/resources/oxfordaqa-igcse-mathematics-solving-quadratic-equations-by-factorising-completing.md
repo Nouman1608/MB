@@ -120,6 +120,14 @@ Read where the curve meets y = 0. A careful drawing gives about x = −1.4 and x
 
 ### Worked example 7: using a different line
 
+<!-- marlbridge-diagram:math-b52-oxfordaqa-quadratic-graph-horizontal-line -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/mathematics/math-b52-oxfordaqa-quadratic-graph-horizontal-line.svg" aria-label="Open full-size diagram: math-b52-oxfordaqa-quadratic-graph-horizontal-line"><img src="/images/learning/mathematics/math-b52-oxfordaqa-quadratic-graph-horizontal-line.svg" width="1528" height="940" alt="A plotted parabola y=x²−2x−5 intersects three horizontal lines: y=0 at about −1.4 and 3.4; y=−3 at about −0.7 and 2.7; y=3 at −2 and 4." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>A plotted parabola y=x²−2x−5 intersects three horizontal lines: y=0 at about −1.4 and 3.4; y=−3 at about −0.7 and 2.7; y=3 at −2 and 4.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:math-b52-oxfordaqa-quadratic-graph-horizontal-line -->
+
+
 The same graph can solve other equations. The method is to rearrange the new equation until one side matches the equation of the curve.
 
 Solve x² − 2x − 2 = 0 using the graph of y = x² − 2x − 5.

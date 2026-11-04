@@ -153,7 +153,15 @@ Both tiers:
 - Two tangents from an external point are equal in length.
 - The line from the centre perpendicular to a chord bisects the chord (and the converse).
 
-**Worked example.** A chord of length 16 cm is in a circle of radius 10 cm. How far is the chord from the centre? The perpendicular from the centre halves the chord to 8 cm, so the distance is √(10² − 8²) = √36 = **6 cm**.
+**Worked example.** A chord of length 16 cm is in a circle of radius 10 cm.
+
+<!-- marlbridge-diagram:maths-b27-circle-chord-perpendicular-bisector -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/mathematics/maths-b27-circle-chord-perpendicular-bisector.svg" aria-label="Open full-size diagram: maths-b27-circle-chord-perpendicular-bisector"><img src="/images/learning/mathematics/maths-b27-circle-chord-perpendicular-bisector.svg" width="1600" height="1050" alt="A chord of length 16 cm is 6 cm from the centre of a circle of radius 10 cm. The perpendicular from the centre bisects the chord, making a right triangle with hypotenuse 10 cm and half-chord 8 cm; distance √(10²−8²)=6 cm." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>A chord of length 16 cm is 6 cm from the centre of a circle of radius 10 cm. The perpendicular from the centre bisects the chord, making a right triangle with hypotenuse 10 cm and half-chord 8 cm; distance √(10²−8²)=6 cm. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:maths-b27-circle-chord-perpendicular-bisector -->
+ How far is the chord from the centre? The perpendicular from the centre halves the chord to 8 cm, so the distance is √(10² − 8²) = √36 = **6 cm**.
 
 ### Higher tier only
 

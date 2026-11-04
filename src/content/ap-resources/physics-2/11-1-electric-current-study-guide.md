@@ -13,7 +13,7 @@ prerequisites:
 prerequisiteResources: ["mb-ap-phys2-10.7-study-guide"]
 learningObjectives:
   - "Define current as the rate at which charge crosses a cross-section of a conductor and use I = ΔQ/Δt"
-  - "Explain that a potential difference (emf) from a source makes charge move around a circuit"
+  - "Explain how a source emf supplies energy per charge and how a terminal potential difference drives current in a connected circuit"
   - "Explain why zero current does not mean the charge carriers are at rest"
   - "Give the direction of conventional current and relate it to the motion of electrons or ions"
   - "Find the charge that passes a point from the area under a current–time graph"
@@ -28,7 +28,7 @@ framework: { schoolYear: "2026-27", examSeries: "May 2027" }
 sources: ["ced-physics-2", "clar-physics-2", "page-physics-2"]
 keyPoints:
   - "Current is the rate at which charge passes through a cross-section of a wire: I = ΔQ/Δt. 1 A = 1 C/s."
-  - "Charge moves around a circuit because a source, such as a battery, keeps a potential difference (emf) across it."
+  - "A source emf supplies energy per charge; a terminal potential difference drives current in a connected circuit."
   - "Zero current means zero net motion of charge. The carriers still move quickly in random directions."
   - "Current is a scalar, but it has a direction: conventional current is the way positive charge would move."
   - "In metal wires the carriers are electrons, so they actually move opposite to the conventional current."
@@ -66,11 +66,19 @@ Three points about the definition:
 
 A wire on its own, not connected to anything, carries no current. Charge moves around a circuit only when something keeps a **potential difference** across it. A battery does this. Chemical reactions inside it keep one terminal at a higher electric potential than the other.
 
-You met potential difference in Unit 10: it is the change in electric potential energy per unit charge, measured in volts (1 V = 1 J/C). The potential difference that a source such as a battery provides is often called its **electromotive force**, or **emf**, with the symbol ℰ. Despite its name, emf is **not a force**. It is energy per unit charge, in volts.
+You met potential difference in Unit 10: it is the change in electric potential energy per unit charge, measured in volts (1 V = 1 J/C). A source electromotive force, or **emf** ℰ, is the work supplied by the source per unit charge. It is not a force. For a real battery, the terminal potential difference while current flows can differ from its emf because of internal resistance; in the simple model, V_terminal = ℰ − Ir.
 
-When the wire is connected across the battery, an electric field is set up inside the wire, along its length. That field pushes on the charge carriers that are already in the wire, everywhere at once. The battery does not supply the charge. The carriers were in the wire all along. The battery supplies the **energy** that keeps them moving around the loop.
+When the wire is connected across the battery, an electromagnetic disturbance and electric field propagate through the circuit at a finite speed set by the circuit and surrounding materials. The field then acts on charge carriers already present throughout the wire; they do not have to travel from the battery to the lamp before current can begin. The battery supplies the **energy** that drives charge around the loop.
 
 ## Random motion and drift
+
+<!-- marlbridge-diagram:complete-phys-current-drift-microscopic -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/physics/complete-phys-current-drift-microscopic.svg" aria-label="Open full-size diagram: complete-phys-current-drift-microscopic"><img src="/images/learning/physics/complete-phys-current-drift-microscopic.svg" width="1520" height="940" alt="Two conductor views compare random thermal motion with random motion plus electron drift. Electron drift and conventional current are shown in opposite directions; the one-carrier magnitude relation is I = n|q|Avd." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Random carrier motion averages to zero; a small drift creates current. For electrons, conventional current is opposite the drift. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:complete-phys-current-drift-microscopic -->
+
 
 The free electrons in a metal are never still. Even in a wire with no current, they move in random directions at very high speeds, of the order of 10⁶ m/s, bouncing off the atoms of the metal. For every electron crossing a slice to the left, on average another crosses to the right. The net charge through the slice is zero, so the current is zero.
 
@@ -78,7 +86,7 @@ So **zero current does not mean the carriers are at rest**. It means their **net
 
 When a potential difference is applied, the electric field adds a small, steady motion in one direction on top of the random motion. This slow overall movement is called the **drift**. The current depends on the drift, not on the random motion, because only the drift carries net charge through a cross-section.
 
-**Background (not needed for the exam).** For a wire of cross-sectional area A, with n free carriers per cubic metre each of charge q, the drift speed is v = I / (nqA). Copper has about 8.5 × 10²⁸ free electrons per cubic metre. For a current of 2.0 A in a copper wire of cross-section 1.0 mm² (1.0 × 10⁻⁶ m²), v = 2.0 ÷ (8.5 × 10²⁸ × 1.60 × 10⁻¹⁹ × 1.0 × 10⁻⁶) = 1.5 × 10⁻⁴ m/s, about 0.15 mm/s. At that speed an electron would take about 1.9 hours to drift 1.0 m. Yet a lamp lights almost the moment you close the switch. The reason is that the field acts on carriers all along the wire at almost the same time, including those already inside the lamp. No electron has to travel from the battery to the lamp first.
+**Background (not needed for the exam).** For a wire of cross-sectional area A, with n free carriers per cubic metre each of charge q, the drift-speed magnitude is v_d = |I| / (n|q|A). The carrier-charge sign determines the drift direction relative to conventional current; it cannot make a speed negative. Copper has about 8.5 × 10²⁸ free electrons per cubic metre. For a current of 2.0 A in a copper wire of cross-section 1.0 mm² (1.0 × 10⁻⁶ m²), v = 2.0 ÷ (8.5 × 10²⁸ × 1.60 × 10⁻¹⁹ × 1.0 × 10⁻⁶) = 1.5 × 10⁻⁴ m/s, about 0.15 mm/s. At that speed an electron would take about 1.9 hours to drift 1.0 m. Yet a lamp lights almost the moment you close the switch. The reason is that the field acts on carriers all along the wire at almost the same time, including those already inside the lamp. No electron has to travel from the battery to the lamp first.
 
 ## Which way is the current?
 
@@ -212,10 +220,10 @@ Units check: A × s = (C/s) × s = C.
 - **"Current is used up by a lamp."** The charge that enters a lamp each second leaves it each second. Charge is conserved. What the lamp takes is energy, not charge or current.
 - **"The battery supplies the electrons."** The carriers are already in the wires and components. The battery keeps a potential difference that pushes them around the loop and supplies the energy.
 - **"No current means the electrons are not moving."** They move very fast in random directions. Zero current means zero **net** flow through a cross-section.
-- **"Electrons rush from the battery to the lamp at nearly the speed of light."** The drift is slow, often a fraction of a millimetre per second. The lamp lights quickly because the push acts on carriers everywhere in the loop almost at once.
+- **"Electrons rush from the battery to the lamp at nearly the speed of light."** The average drift is slow, often a fraction of a millimetre per second. A circuit responds quickly because the electromagnetic disturbance propagates through it at a finite speed, much faster than carrier drift in many ordinary circuits.
 - **"Current is a vector."** It has a direction along the wire, but it does not change when the wire bends, and currents combine as numbers, not as vectors.
 - **"Conventional current is wrong because electrons go the other way."** Negative charge moving one way is equivalent to positive charge moving the other way. The convention gives correct answers in every circuit.
-- **"emf is a force."** emf is a potential difference: energy per unit charge, measured in volts.
+- **"emf is a force."** emf is work supplied per unit charge by a source. In a real source, the terminal potential difference under load may differ from the emf.
 
 ## Where this leads
 

@@ -108,6 +108,14 @@ and physical distribution.
 
 ## How the three sub-topics build on each other
 
+<!-- marlbridge-diagram:business-marketing-research-segmentation-mix -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/business/business-marketing-research-segmentation-mix.svg" aria-label="Open full-size diagram: business-marketing-research-segmentation-mix"><img src="/images/learning/business/business-marketing-research-segmentation-mix.svg" width="1600" height="1050" alt="A connected process from market research through segmentation and positioning to a coordinated 4Ps marketing mix." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Marketing evidence should inform the target segment and the coordinated marketing mix. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:business-marketing-research-segmentation-mix -->
+
+
 3.1 gives you the concepts and vocabulary (orientation, segmentation,
 demand and supply); 3.2 gives you the method for finding out which of
 those concepts actually apply to a specific market; 3.3 gives you the

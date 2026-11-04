@@ -78,6 +78,14 @@ several individual terms.
 
 ## Worked example: calculating a binomial probability
 
+<!-- marlbridge-diagram:maths-oxfordaqa-binomial-trial-to-model -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/mathematics/maths-oxfordaqa-binomial-trial-to-model.svg" aria-label="Open full-size diagram: maths-oxfordaqa-binomial-trial-to-model"><img src="/images/learning/mathematics/maths-oxfordaqa-binomial-trial-to-model.svg" width="1600" height="1050" alt="The lesson example models 8 independent checks with defect probability 0.1; exact-two probability evaluates to 0.14880348, approximately 0.149." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>The lesson example models 8 independent checks with defect probability 0.1; exact-two probability evaluates to 0.14880348, approximately 0.149. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:maths-oxfordaqa-binomial-trial-to-model -->
+
+
 A factory tests components with a 0.1 probability of a randomly
 selected component being defective. In a sample of 8 components, find
 the probability that exactly 2 are defective.

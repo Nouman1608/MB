@@ -198,12 +198,28 @@ In Figure 1(b), +2q has sixteen lines and −q has eight. So only half of the li
 
 ## Fields of charged conductors and insulators
 
+<!-- marlbridge-diagram:phys-gap-8-3-conductor-insulator-cavity -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/physics/phys-gap-8-3-conductor-insulator-cavity.svg" aria-label="Open full-size diagram: phys-gap-8-3-conductor-insulator-cavity"><img src="/images/learning/physics/phys-gap-8-3-conductor-insulator-cavity.svg" width="1528" height="940" alt="Three cross-sections compare a charged conducting sphere with zero internal field, an insulating sphere with volume charge and nonzero internal field, and a conducting shell around an internal charge with induced negative charge on the cavity wall." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Three cross-sections compare a charged conducting sphere with zero internal field, an insulating sphere with volume charge and nonzero internal field, and a conducting shell around an internal charge with induced negative charge on the cavity wall. — Marlbridge Physics.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:phys-gap-8-3-conductor-insulator-cavity -->
+
+
+<!-- marlbridge-diagram:phys-apcem-b29-conductor-vs-insulator-spherical-field -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/physics/phys-apcem-b29-conductor-vs-insulator-spherical-field.svg" aria-label="Open full-size diagram: phys-apcem-b29-conductor-vs-insulator-spherical-field"><img src="/images/learning/physics/phys-apcem-b29-conductor-vs-insulator-spherical-field.svg" width="1600" height="1050" alt="Two isolated, positively charged spheres with the same total charge Q and radius R are compared. In the conducting sphere, excess charge is on the outer surface and the electrostatic field in the conducting material is zero; just outside the surface the field is perpendicular, and outside it is radial with magnitude kQ over r squared. In the uniformly charged insulating sphere, positive charge is distributed through its volume; its internal field is nonzero away from the centre, represented qualitatively by radial arrows increasing with distance from the centre. Outside, the field follows the same kQ over r squared relation. The conductor is assumed to have no charged object inside a cavity." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Two isolated, positively charged spheres with the same total charge Q and radius R are compared. In the conducting sphere, excess charge is on the outer surface and the electrostatic field in the conducting material is zero; just outside the surface the field is perpendicular, and outside it is radial with magnitude kQ over r squared. In the uniformly charged insulating sphere, positive charge is distributed through its volume; its internal field is nonzero away from the centre, represented qualitatively by radial arrows increasing with distance from the centre. Outside, the field follows the same kQ over r squared relation. The conductor is assumed to have no charged object inside a cavity. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:phys-apcem-b29-conductor-vs-insulator-spherical-field -->
+
+
 What happens to the field depends on whether charge can move.
 
 **Conductors in electrostatic equilibrium.** In a conductor, free charges move whenever there is a field inside to push them. "Equilibrium" means charges are no longer moving. So:
 
 - **E = 0 everywhere inside the conducting material.** If it were not zero, free charges would still be moving.
-- **Any excess charge sits on the surface.** Like charges push one another as far apart as they can, which means onto the outer surface.
+- **For an isolated conductor with no charged object inside a cavity, excess charge resides on the outer surface.** If a cavity contains charge, induced charge can also reside on its inner wall.
 - **Just outside the surface, E is perpendicular to the surface.** If E had a component along the surface, it would push surface charges sideways, so they would not be in equilibrium.
 
 **Insulators.** In an insulator, charges cannot move freely. Excess charge can stay wherever it was put: **throughout the inside** as well as on the surface. So the field inside a charged insulator **can be non-zero**.
@@ -334,7 +350,7 @@ You can design an experiment straight from the definition E = F/q₀. One possib
 ## Common misconceptions
 
 - **"The field depends on the test charge."** The force does; the field does not. E is set by the source charges.
-- **"Field lines are paths that charges follow."** A field line gives the direction of the force, which is the direction of the acceleration, not of the velocity. A charge released on a curved field line does not, in general, follow that line.
+- **"Field lines are paths that charges follow."** A field line gives the direction of the electric force and acceleration for a positive test charge, not its velocity. For a negative test charge, the electric force and acceleration point opposite to the field line. A charge released on a curved field line does not, in general, follow that line.
 - **"No line drawn means no field."** Lines are only a sample. The field exists between them.
 - **Adding magnitudes instead of vectors.** Two fields of 300 N/C and 140 N/C can give anything from 160 N/C to 440 N/C, depending on direction. Use components.
 - **Using the wrong distance.** Each kq/r² uses the distance from **that** charge to the point, not the distance between the charges.

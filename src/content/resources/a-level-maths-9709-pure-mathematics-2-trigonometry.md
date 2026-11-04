@@ -191,6 +191,14 @@ Given tan A = 2/3, find tan 2A: 2(2/3)/(1 − 4/9) = (4/3)/(5/9) = **12/5**.
 
 ## The R-form: a sin θ + b cos θ
 
+<!-- marlbridge-diagram:maths-p2-r-form-phase-shift -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/mathematics/maths-p2-r-form-phase-shift.svg" aria-label="Open full-size diagram: maths-p2-r-form-phase-shift"><img src="/images/learning/mathematics/maths-p2-r-form-phase-shift.svg" width="1600" height="1050" alt="R-form illustration from source example: √7 sinθ−3cosθ=4sin(θ−48.59°), with amplitude 4 and roots 78.6° and 198.6° for value 2." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>R-form illustration from source example: √7 sinθ−3cosθ=4sin(θ−48.59°), with amplitude 4 and roots 78.6° and 198.6° for value 2. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:maths-p2-r-form-phase-shift -->
+
+
 Any a sin θ + b cos θ can be written as a single sine or cosine wave. Method for R sin(θ − α):
 
 1. Expand: R sin(θ − α) = R sin θ cos α − R cos θ sin α.

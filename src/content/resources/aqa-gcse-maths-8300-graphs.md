@@ -95,6 +95,13 @@ The graph of y = ax² + bx + c is a parabola: U-shaped when a > 0 (a minimum), �
 
 **Worked example.** For y = x² − 2x − 8, find the roots, the y-intercept and the turning point.
 
+<!-- marlbridge-diagram:maths-b14-quadratic-graph-roots-vertex -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/mathematics/maths-b14-quadratic-graph-roots-vertex.svg" aria-label="Open full-size diagram: maths-b14-quadratic-graph-roots-vertex"><img src="/images/learning/mathematics/maths-b14-quadratic-graph-roots-vertex.svg" width="1600" height="1050" alt="Plots y = x² − 2x − 8 and labels roots (−2,0), (4,0), y-intercept (0,−8), and minimum (1,−9)." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Plots y = x² − 2x − 8 and labels roots (−2,0), (4,0), y-intercept (0,−8), and minimum (1,−9). Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:maths-b14-quadratic-graph-roots-vertex -->
+
 ```
 Roots:      x^2 - 2x - 8 = 0  ->  (x - 4)(x + 2) = 0  ->  x = 4 or x = -2
 Intercept:  x = 0 gives y = -8, so (0, -8)

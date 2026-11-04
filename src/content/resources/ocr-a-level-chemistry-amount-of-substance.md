@@ -134,17 +134,17 @@ calculation.
 
 ## Percentage yield and atom economy
 
+<!-- marlbridge-diagram:chem-obj-atom-economy-coefficients-reuse2 -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/chemistry/chem-obj-atom-economy-coefficients.svg" aria-label="Open full-size diagram: chem-obj-atom-economy-coefficients"><img src="/images/learning/chemistry/chem-obj-atom-economy-coefficients.svg" width="1528" height="940" alt="Atom economy uses coefficients: for 2C2H6+7O2→4CO2+6H2O, desired carbon dioxide mass is 4×44 and total reactant mass is 2×30+7×32, giving about 62.0%." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Calculate atom economy using stoichiometric coefficients — Marlbridge Chemistry.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:chem-obj-atom-economy-coefficients-reuse2 -->
+
+
 Two separate ideas, often confused:
 
-- **Percentage yield** = (actual yield ÷ theoretical yield) × 100. It
-measures how much *product you actually collected* compared with the
-maximum the stoichiometry allows — lost to side reactions, incomplete
-reactions, or purification losses.
-- **Atom economy** = (molar mass of desired product ÷ sum of molar masses of
-all reactants) × 100. It measures how much of the *mass of all the
-reactants* ends up in the useful product, rather than in waste by-products —
-a property of the reaction's stoichiometry itself, not of how carefully you
-carried it out.
+- **Atom economy** = (stoichiometric mass of desired product ÷ total stoichiometric mass of reactants) × 100. Use the balanced equation: multiply the desired product molar mass by its coefficient, and multiply each reactant molar mass by its own coefficient before adding the denominator. This theoretical percentage measures the fraction of reactant mass entering the desired product, rather than by-products; it is distinct from the experimentally collected percentage yield.
 
 A reaction can have 100% yield of a product but poor atom economy if most of
 the reactant mass ends up in a wasted by-product — which is why the

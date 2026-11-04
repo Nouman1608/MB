@@ -165,6 +165,14 @@ Say what type of number x is. D above contains every real number between 1 and 3
 
 ### Drawing a two-circle Venn diagram
 
+<!-- marlbridge-diagram:math-b76-ocr-venn-music-art -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/public/images/learning/mathematics/math-b76-ocr-venn-music-art.svg" aria-label="Open full-size diagram: math-b76-ocr-venn-music-art"><img src="/public/images/learning/mathematics/math-b76-ocr-venn-music-art.svg" width="1528" height="940" alt="Two overlapping sets place 9 in the intersection, then 15 music only, 8 art only and 8 outside; 8/40 learners take art only." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Two overlapping sets place 9 in the intersection, then 15 music only, 8 art only and 8 outside; 8/40 learners take art only.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:math-b76-ocr-venn-music-art -->
+
+
 Draw a rectangle for everything being considered. Draw two circles that overlap. The overlap holds items in both sets. Always fill in the overlap first, then the parts of each circle outside it, then the number outside both circles. The total of all four numbers must equal the size of the group.
 
 **Worked example 8.** Of 40 learners, 24 take music, 17 take art and 9 take both. Draw the Venn diagram and find the probability that a learner chosen at random takes art only.

@@ -105,6 +105,14 @@ to use.
 
 ## The double entry system and the accounting equation
 
+<!-- marlbridge-diagram:accounting-entities-equation -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/accounting/accounting-entities-equation.svg" aria-label="Open full-size diagram: accounting-entities-equation"><img src="/images/learning/accounting/accounting-entities-equation.svg" width="1600" height="1050" alt="Diagram links accounting equation and entity forms, contrasting ownership and liability." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Diagram links accounting equation and entity forms, contrasting ownership and liability. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:accounting-entities-equation -->
+
+
 **Double entry bookkeeping** records every transaction twice — once as a
 debit, once as a credit — so that the accounting records always stay in
 balance. This rests on the **accounting equation**:

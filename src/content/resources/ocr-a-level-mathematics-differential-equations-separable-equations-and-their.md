@@ -187,6 +187,14 @@ Distance: s = ∫₀² (3 − 3e^(−2t)) dt = [3t + 1.5e^(−2t)] from 0 to 2 =
 
 ## Interpreting the solution and its limitations
 
+<!-- marlbridge-diagram:math-b61-ode-model-interpretation -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/public/images/learning/mathematics/math-b61-ode-model-interpretation.svg" aria-label="Open full-size diagram: math-b61-ode-model-interpretation"><img src="/public/images/learning/mathematics/math-b61-ode-model-interpretation.svg" width="1528" height="940" alt="The source boat model has v=3−3e^(−2t): it begins at rest, rises towards 3 m s⁻¹, and acceleration 6−2v tends to zero. The curve and interpretation checklist connect initial value, long-term limit, rate and model assumptions." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>The source boat model has v=3−3e^(−2t): it begins at rest, rises towards 3 m s⁻¹, and acceleration 6−2v tends to zero. The curve and interpretation checklist connect initial value, long-term limit, rate and model assumptions. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:math-b61-ode-model-interpretation -->
+
+
 Whenever a question says "describe", "comment" or "interpret", turn the formula into a sentence about the situation. Check these in turn:
 
 - **Initial value.** Put t = 0 and say what it means.

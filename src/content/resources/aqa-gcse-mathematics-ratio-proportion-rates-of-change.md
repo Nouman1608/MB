@@ -63,6 +63,13 @@ AQA GCSE Mathematics (8300) specification, first teaching September 2015 --
 
 ## Direct vs inverse proportion, side by side
 
+<!-- marlbridge-diagram:maths-aqa-gcse-direct-inverse-proportion-graphs -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/mathematics/maths-aqa-gcse-direct-inverse-proportion-graphs.svg" aria-label="Open full-size diagram: maths-aqa-gcse-direct-inverse-proportion-graphs"><img src="/images/learning/mathematics/maths-aqa-gcse-direct-inverse-proportion-graphs.svg" width="1600" height="1050" alt="Graphs y = 4x and y = 24/x with sample points and checks the direct ratio y/x and inverse product xy, illustrating the source distinction." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Graphs y = 4x and y = 24/x with sample points and checks the direct ratio y/x and inverse product xy, illustrating the source distinction. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:maths-aqa-gcse-direct-inverse-proportion-graphs -->
+
 Direct proportion means two quantities increase or decrease together at a constant rate -- doubling one
 doubles the other -- and is written algebraically as y = kx, producing a straight-line graph through the
 origin. Inverse proportion means one quantity increases as the other decreases -- doubling one halves the

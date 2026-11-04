@@ -38,7 +38,17 @@ Hub page: [Edexcel A-Level Accounting](/boards/edexcel/a-level/accounting/). Pri
 Overhead absorption rates come from the [Unit 1 costing guide](/resources/edexcel-ial-accounting-introduction-to-costing/); contribution is defined in the [break-even analysis guide](/resources/edexcel-ial-accounting-break-even-analysis/).
 
 ## The two concepts (2.8.1)
-
+<!-- marlbridge-diagram:ac-edx-marginal-vs-absorption-costing -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/accounting/ac-edx-marginal-vs-absorption-costing.svg" aria-label="Open full-size diagram: ac-edx-marginal-vs-absorption-costing">
+    <picture>
+      <source media="(max-width: 640px)" srcset="/images/learning/accounting/ac-edx-marginal-vs-absorption-costing-mobile.svg" />
+      <img src="/images/learning/accounting/ac-edx-marginal-vs-absorption-costing.svg" width="1600" height="1050" alt="A worked comparison shows Ostrell’s $18 marginal and $26 absorption production costs and the $12,000 closing-inventory difference." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" />
+    </picture>
+  </a>
+  <figcaption>A worked comparison shows Ostrell’s $18 marginal and $26 absorption production costs and the $12,000 closing-inventory difference. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:ac-edx-marginal-vs-absorption-costing -->\n
 Both methods charge direct materials, direct labour and variable production overhead to each unit. They differ over **fixed production overhead**.
 
 - **Marginal costing** charges each unit with its variable production costs only. Fixed production overhead is a **period cost**: the whole amount is written off against that period's profit.

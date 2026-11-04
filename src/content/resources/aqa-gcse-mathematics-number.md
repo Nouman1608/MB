@@ -85,6 +85,13 @@ AQA GCSE Mathematics (8300) specification, for exams from May/June
 
 ## Types of number and place value
 
+<!-- marlbridge-diagram:maths-aqa-gcse-prime-factorisation-hcf-lcm -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/mathematics/maths-aqa-gcse-prime-factorisation-hcf-lcm.svg" aria-label="Open full-size diagram: maths-aqa-gcse-prime-factorisation-hcf-lcm"><img src="/images/learning/mathematics/maths-aqa-gcse-prime-factorisation-hcf-lcm.svg" width="1600" height="1050" alt="Compares the source factorizations 60 = 2²×3×5 and 72 = 2³×3², then builds HCF 12 from lower shared powers and LCM 360 from higher powers." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Compares the source factorizations 60 = 2²×3×5 and 72 = 2³×3², then builds HCF 12 from lower shared powers and LCM 360 from higher powers. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:maths-aqa-gcse-prime-factorisation-hcf-lcm -->
+
 Integers, factors, multiples, primes, squares and cubes underpin the whole topic. A **prime** has exactly two factors, so 1 is not prime and 2 is the only even prime.
 
 Every integer can be written as a **product of prime factors**, which is the fastest route to HCF and LCM:

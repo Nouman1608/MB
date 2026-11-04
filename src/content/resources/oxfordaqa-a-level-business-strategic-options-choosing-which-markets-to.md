@@ -109,6 +109,14 @@ The link runs both ways. What the functions can do limits which strategy is real
 
 ## 5. The Ansoff matrix
 
+<!-- marlbridge-diagram:business-oxfordaqa-ansoff-orrisdale-cycles -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/business/business-oxfordaqa-ansoff-orrisdale-cycles.svg" aria-label="Open full-size diagram: business-oxfordaqa-ansoff-orrisdale-cycles"><img src="/images/learning/business/business-oxfordaqa-ansoff-orrisdale-cycles.svg" width="1600" height="1050" alt="Classifies Orrisdale Cycles’ loyalty card, second-city branch, guided tours and café, then tests the 20% share target against next year’s market size." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Classifies Orrisdale Cycles’ loyalty card, second-city branch, guided tours and café, then tests the 20% share target against next year’s market size. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:business-oxfordaqa-ansoff-orrisdale-cycles -->
+
+
 The **Ansoff matrix** sets out four growth options by asking two questions: are the products existing or new, and are the markets existing or new?
 
 | | Existing products | New products |

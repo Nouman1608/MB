@@ -109,23 +109,23 @@ A voluntary response would add further synapses and processing in the brain, so 
 
 ## Required practical 10: animal movement
 
-You investigate the effect of an environmental variable on the movement of an animal using either a **choice chamber** or a **maze**. Typical animals are woodlice or fly larvae. A choice chamber has two or more linked sections with different conditions.
+You investigate the effect of one environmental variable on animal movement using a **choice chamber** or **maze**. Typical animals are woodlice or fly larvae. A choice chamber has linked sections; change one condition at a time and keep other conditions as similar as possible.
 
 - **Variable:** for example humidity (calcium chloride or silica gel for dry, damp filter paper for humid) or light (one half covered in black card or foil).
-- **Method:** put a set number of animals, such as 10, in the centre. Count how many are in each section at fixed intervals. Repeat several times, using a fresh group each time.
-- **Control variables:** temperature, time allowed, animal species and size, starting position, and the same lighting or humidity in the other variable.
-- **Reliability:** repeat, use many animals and calculate a mean. Let the animals settle before counting.
+- **Method:** place a fixed number of similar animals in the centre, allow them to settle, and count their positions at fixed intervals. Repeat in independent chambers with fresh groups; randomise which side has the treatment or swap the chamber orientation between trials.
+- **Control variables:** temperature, time allowed, animal species and size, starting position and handling. In a light test, check that the lamp does not also warm one side; in a humidity test, keep light and temperature similar.
+- **Reliability:** use independent replicate chambers, not just more animals in one chamber. Summarise the proportion choosing each condition across replicates and report variation. Let animals settle before counting.
 - **Ethics:** handle gently, avoid harmful extremes of dryness or light, keep the exposure short, and return them to where they were collected.
 
 ### Worked example 4: chi-squared on choice chamber data
 
-Fifty fly larvae start in the middle of a chamber with a light half and a dark half. After 10 minutes, 33 are in the dark half and 17 in the light half.
+In one illustrative chamber, 50 fly larvae start in the middle with a light half and a dark half. After 10 minutes, 33 are in the dark half and 17 in the light half. This single chamber demonstrates the calculation; it is not a set of 50 independent treatment replicates.
 
 Null hypothesis: the larvae distribute equally between dark and light, so any difference is due to chance. Expected = 50 / 2 = 25 in each half.
 
 χ² = Σ (O − E)² / E = (33 − 25)² / 25 + (17 − 25)² / 25 = 2.56 + 2.56 = **5.12**.
 
-Degrees of freedom = number of categories − 1 = **1**. The critical value at p = 0.05 is 3.84. As 5.12 > 3.84, you reject the null hypothesis. There is a significant difference: the larvae prefer the dark. Writing "significant at the 5% level" is better than stating a fact about all larvae.
+Degrees of freedom = number of categories − 1 = **1**. The critical value at p = 0.05 is 3.84. As 5.12 > 3.84, reject the equal-distribution null for this illustrative count, under the chi-square model's independence assumption. The result is evidence of an uneven distribution in this chamber, not a replicated population-level preference. It does not by itself distinguish taxis from kinesis or rule out side and temperature effects; replicated chambers and controlled side assignment are needed for that inference.
 
 ## Receptors and the Pacinian corpuscle (3.6.1.2)
 

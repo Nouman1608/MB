@@ -44,7 +44,17 @@ Investment ratios look at the business **from the shareholder's seat**. They ans
 Return on capital employed then shows how well management used all the long-term funds, from shareholders and lenders together. The main users are shareholders deciding whether to hold or sell and potential investors deciding whether to buy.
 
 ## The six formulae (2.2.1)
-
+<!-- marlbridge-diagram:ac-edx-investment-ratios-formula-map -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/accounting/ac-edx-investment-ratios-formula-map.svg" aria-label="Open full-size diagram: ac-edx-investment-ratios-formula-map">
+    <picture>
+      <source media="(max-width: 640px)" srcset="/images/learning/accounting/ac-edx-investment-ratios-formula-map-mobile.svg" />
+      <img src="/images/learning/accounting/ac-edx-investment-ratios-formula-map.svg" width="1600" height="1050" alt="A formula map summarises EPS, P/E, DPS, dividend yield, dividend cover and ROCE, with ordinary-share adjustments." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" />
+    </picture>
+  </a>
+  <figcaption>A formula map summarises EPS, P/E, DPS, dividend yield, dividend cover and ROCE, with ordinary-share adjustments. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:ac-edx-investment-ratios-formula-map -->\n
 Appendix 7 of the specification says its formulae are not given to you in the examinations: you must know them.
 
 | Ratio | Formula | Usual unit |

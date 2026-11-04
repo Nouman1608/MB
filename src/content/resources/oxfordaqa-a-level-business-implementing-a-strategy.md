@@ -112,6 +112,14 @@ The **critical path** runs through the activities with zero total float. It is t
 
 ### Worked example 2: Corrabine Studios opens a second studio
 
+<!-- marlbridge-diagram:business-oxfordaqa-network-corrabine-critical-path -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/business/business-oxfordaqa-network-corrabine-critical-path.svg" aria-label="Open full-size diagram: business-oxfordaqa-network-corrabine-critical-path"><img src="/images/learning/business/business-oxfordaqa-network-corrabine-critical-path.svg" width="1600" height="1050" alt="Maps Corrabine Studios&#x27; activity dependencies, EST/LFT event values, float and 16-week critical path." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Maps Corrabine Studios&#x27; activity dependencies, EST/LFT event values, float and 16-week critical path. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:business-oxfordaqa-network-corrabine-critical-path -->
+
+
 Corrabine Studios, a dance-fitness business, is opening a second studio as part of a market development strategy. Times are in weeks.
 
 | Activity | Description | Duration | Depends on | Nodes |

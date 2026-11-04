@@ -102,6 +102,14 @@ The revaluation reserve is not available for paying cash dividends, because the 
 
 ## Issue of shares, rights issues and bonus issues
 
+<!-- marlbridge-diagram:accounting-aqa-limited-company-rights-bonus-issues -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/accounting/accounting-aqa-limited-company-rights-bonus-issues.svg" aria-label="Open full-size diagram: accounting-aqa-limited-company-rights-bonus-issues"><img src="/images/learning/accounting/accounting-aqa-limited-company-rights-bonus-issues.svg" width="1600" height="1050" alt="Exact Ellerby rights and bonus issue calculations and equity effect." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Rights issue raises cash; bonus issue does not Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:accounting-aqa-limited-company-rights-bonus-issues -->
+
+
 Section 3.7 covers a share issue at a premium (Dr bank; Cr share capital at nominal value; Cr share premium with the excess). Section 3.16 adds two more kinds of issue.
 
 | | Issue of shares | Rights issue | Bonus issue |

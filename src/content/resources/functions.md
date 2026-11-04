@@ -166,6 +166,14 @@ restriction.
 
 ## Quick revision checklist
 
+<!-- marlbridge-diagram:math-b48-functions-workflow-quick-check -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/mathematics/math-b48-functions-workflow-quick-check.svg" aria-label="Open full-size diagram: math-b48-functions-workflow-quick-check"><img src="/images/learning/mathematics/math-b48-functions-workflow-quick-check.svg" width="1600" height="1050" alt="A function maps an allowed input to an output. In gf(x), apply f first, then g; an inverse rearranges input and output and is not the reciprocal. Domain restrictions exclude inputs that make a denominator zero or a square-root argument negative." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>A function maps an allowed input to an output. In gf(x), apply f first, then g; an inverse rearranges input and output and is not the reciprocal. Domain restrictions exclude inputs that make a denominator zero or a square-root argument negative. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:math-b48-functions-workflow-quick-check -->
+
+
 - Function notation f(x), and evaluating a function for a given input
 - Domain and range, and mapping diagrams, including one-to-one versus
 many-to-one

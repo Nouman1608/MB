@@ -70,6 +70,14 @@ The Unit 2 paper includes a calculation section (Section B, 10 marks), so the me
 
 ## 3.2.3.2 Break-even analysis
 
+<!-- marlbridge-diagram:business-oxfordaqa-break-even-emberfold-candles -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/business/business-oxfordaqa-break-even-emberfold-candles.svg" aria-label="Open full-size diagram: business-oxfordaqa-break-even-emberfold-candles"><img src="/images/learning/business/business-oxfordaqa-break-even-emberfold-candles.svg" width="1600" height="1050" alt="Plots Emberfold Candles&#x27; revenue and cost lines, marks break-even at 800 units, and calculates profit and margin of safety." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Plots Emberfold Candles&#x27; revenue and cost lines, marks break-even at 800 units, and calculates profit and margin of safety. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:business-oxfordaqa-break-even-emberfold-candles -->
+
+
 | Term | Calculation |
 |---|---|
 | Fixed costs | Do not change with output (rent, salaries) |

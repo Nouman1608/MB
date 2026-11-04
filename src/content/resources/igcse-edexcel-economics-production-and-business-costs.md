@@ -121,6 +121,14 @@ tertiary rather than secondary.
 
 ## Worked example: internal vs external economies
 
+<!-- marlbridge-diagram:economics-edexcel-lrac-scale -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/economics/economics-edexcel-lrac-scale.svg" aria-label="Open full-size diagram: economics-edexcel-lrac-scale"><img src="/images/learning/economics/economics-edexcel-lrac-scale.svg" width="1600" height="1050" alt="Four-part concept summary of LRAC economies and diseconomies, identifies minimum efficient scale and distinguishes benefits captured by one growing firm from industry-wide external economies." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>As a firm expands, average cost may fall to minimum efficient scale and rise beyond it. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:economics-edexcel-lrac-scale -->
+
+
 A car manufacturer opens a new factory in a region already known for
 vehicle parts suppliers and a large pool of engineering graduates.
 

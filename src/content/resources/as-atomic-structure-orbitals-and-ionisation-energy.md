@@ -118,8 +118,7 @@ arrow, with arrow direction representing spin. Electrons occupy separate orbital
 within a sub-shell, spins unpaired, before any orbital is doubly occupied — this
 minimises the repulsion between electrons of like charge, which is exactly the
 "inter-electron repulsion" reasoning the syllabus asks you to explain
-configurations with. For fluorine's 2p⁵: three 2p orbitals hold arrows pointing
-up in each, then a second arrow (opposite spin) doubles up in only one of them.
+configurations with. For fluorine's 2p⁵, put one electron in each of the three 2p orbitals, with parallel spins, then add two more electrons with opposite spin to pair two of those orbitals. The final occupancy is two paired orbitals and one singly occupied orbital: 2 + 2 + 1 = 5 electrons.
 
 ### Orbital shapes
 

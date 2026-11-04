@@ -14,7 +14,7 @@ learningObjectives:
   - "Calculate surface area, volume and surface area-to-volume ratio for cubes, spheres, rectangular solids and cylinders"
   - "Explain why a cell's exchange with its surroundings depends on surface area but its needs depend on volume"
   - "Explain how small size, flattened or long shapes and membrane folds such as microvilli raise the ratio"
-  - "Relate body size to the rate of heat exchange and to metabolic rate per unit body mass"
+  - "Relate surface-area-to-volume ratio to heat exchange, and compare typical metabolic rate per unit mass in mammals of different sizes"
   - "Use a supply-and-demand model to find the largest size a cell can reach"
 skills: ["2", "5", "6"]
 studyMinutes: 45
@@ -29,7 +29,7 @@ keyPoints:
   - "Materials enter and leave a cell through its surface, but every part of its volume uses them. So the surface area-to-volume ratio (SA/V) controls how well a cell can keep up."
   - "As a cell grows, volume rises faster than surface area, so SA/V falls. For a cube SA/V = 6/s; for a sphere SA/V = 3/r."
   - "Cells stay small, take flat or long shapes, or fold their membranes (microvilli, root hairs, cristae) to keep exchange fast enough."
-  - "Larger organisms have a lower SA/V, so they exchange heat with the environment more slowly in proportion to their mass. Smaller organisms usually have a higher metabolic rate per unit body mass."
+  - "For similarly shaped organisms, larger size lowers SA/V. Among mammals, smaller species typically have a higher metabolic rate per unit mass, in part because they lose heat faster relative to their mass; this is not a universal rule for all organisms."
 faqs:
   - question: "Do I need to memorise the area and volume formulas?"
     answer: "The course provides the formulas for spheres, cubes, rectangular solids and cylinders on its equation sheet. You still need to know which one to use, how to substitute and how to interpret the answer."
@@ -151,7 +151,7 @@ The same geometry applies to whole bodies. A larger organism has a **lower SA/V*
 - A small animal has a lot of surface for its mass, so it **gains or loses heat quickly**. For the same body temperature difference, a small mass exchanges **proportionally more heat** than a large mass.
 - As mass increases, SA/V **and** the rate of heat exchange per unit mass both decrease. A large animal holds its heat for longer.
 
-This links to **metabolic rate**, the rate at which an organism uses energy. In multicellular organisms there is a clear pattern: **the smaller the organism, the higher its metabolic rate per unit body mass**. A small mammal such as a shrew loses heat quickly through its relatively large surface, and it must release energy fast, for each gram of its body, to stay warm. A large mammal uses more energy in total but much less per gram.
+This links to **metabolic rate**, the rate at which an organism uses energy. Among mammals, smaller species typically have a higher metabolic rate per unit body mass. A small endotherm such as a shrew loses heat quickly relative to its body mass and must release energy rapidly to maintain body temperature. A large mammal uses more energy in total but typically less per gram. This comparison should not be generalized to every organism: body temperature, activity, physiology and environment also affect metabolic rate.
 
 ## Worked example 1: how big can a spherical cell grow?
 
@@ -197,7 +197,7 @@ The radius tripled, so SA rose 9 times (3²) and V rose 27 times (3³), and SA/V
 - **"Doubling the size halves the surface area."** Doubling the length multiplies SA by 4 and V by 8; it is the **ratio** that halves.
 - **"Big organisms are made of big cells."** Most of the extra size comes from more cells, each kept small.
 - **"Microvilli and root hairs help because they make the cell bigger."** They add surface while adding almost no volume, which raises SA/V.
-- **"Large animals have a higher metabolic rate per gram because they are bigger."** The reverse: smaller organisms typically have the higher rate per unit mass.
+- **"Large animals have a higher metabolic rate per gram because they are bigger."** Among mammals, smaller species typically have the higher rate per unit mass; do not extend this pattern to all organisms without considering their biology and environment.
 - **"A small animal loses heat slowly because it has a small surface."** Its total surface is small, but its surface **per unit mass** is large, so it loses heat quickly for its size.
 
 ## Where this leads

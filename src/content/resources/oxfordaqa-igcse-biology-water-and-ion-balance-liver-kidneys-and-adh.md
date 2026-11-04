@@ -98,6 +98,9 @@ Good answers to "why is the amount in sweat small?" say that most urea is remove
 
 ## The healthy kidney (3.4.3 d)
 
+![Kidney process flow: small molecules filter from blood, glucose and needed ions and water are reabsorbed, and urea plus excess ions and water form urine.](/images/learning/biology/bio-b16-kidney-filtration-reabsorption.svg)
+
+
 The kidney does five things, in this order of logic.
 
 | Step | What happens |
@@ -145,6 +148,9 @@ A volunteer stopped drinking for 3 hours. Urine volume fell from 60 cm³ per hou
 Link both observations to ADH. An answer that gives only the effect on the urine, without naming the hormone and the kidney, loses credit.
 
 ## Negative feedback (3.4.3 g)
+
+![Negative feedback diagram: high ADH when blood water is low and lower ADH when it is high, changing kidney water reabsorption and urine concentration.](/images/learning/biology/bio-b16-adh-negative-feedback.svg)
+
 
 A negative feedback mechanism reverses a change and returns the condition to its normal level. ADH control follows this loop:
 

@@ -130,6 +130,14 @@ Use a ruler for every straight edge and measure to the nearest millimetre. With 
 
 ### Constructing a triangle from three sides
 
+<!-- marlbridge-diagram:math-b49-0580-construct-triangle-three-sides -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/mathematics/math-b49-0580-construct-triangle-three-sides.svg" aria-label="Open full-size diagram: math-b49-0580-construct-triangle-three-sides"><img src="/images/learning/mathematics/math-b49-0580-construct-triangle-three-sides.svg" width="1600" height="1050" alt="A ruler-and-compasses construction shows AB=9 cm, then a 7.5 cm arc centred at A and a 6 cm arc centred at B crossing at C. Joining AC and BC forms the required triangle; the arcs remain visible." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>A ruler-and-compasses construction shows AB=9 cm, then a 7.5 cm arc centred at A and a 6 cm arc centred at B crossing at C. Joining AC and BC forms the required triangle; the arcs remain visible. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:math-b49-0580-construct-triangle-three-sides -->
+
+
 Use only a ruler and compasses, and show the construction arcs.
 
 **Worked example 2.** Construct triangle ABC with AB = 9 cm, AC = 7.5 cm and BC = 6 cm.

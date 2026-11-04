@@ -51,6 +51,14 @@ provided. Learn them.
 
 ## F1: The graphs of aˣ and eˣ
 
+<!-- marlbridge-diagram:maths-aqa-exponential-transform-asymptote -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/mathematics/maths-aqa-exponential-transform-asymptote.svg" aria-label="Open full-size diagram: maths-aqa-exponential-transform-asymptote"><img src="/images/learning/mathematics/maths-aqa-exponential-transform-asymptote.svg" width="1600" height="1050" alt="Source example y=3+2e^(−x) has y-intercept 5, decreases, remains above 3 and approaches asymptote y=3." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Source example y=3+2e^(−x) has y-intercept 5, decreases, remains above 3 and approaches asymptote y=3. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:maths-aqa-exponential-transform-asymptote -->
+
+
 For any positive a, the graph of y = aˣ:
 
 - passes through **(0, 1)**, because a⁰ = 1

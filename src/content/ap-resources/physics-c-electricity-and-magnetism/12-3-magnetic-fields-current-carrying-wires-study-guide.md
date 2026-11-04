@@ -67,7 +67,7 @@ where θ is the angle between dℓ and r̂. Three features matter:
 
 - **Inverse square.** Like Coulomb's law, each piece's field falls as 1/r².
 - **The sin θ factor.** A piece pointing straight at P (θ = 0 or 180°) contributes nothing.
-- **The cross product.** dB is perpendicular to both dℓ and r̂. So the field never points toward the wire, away from it, or along it.
+- **The cross product.** Each contribution dB is perpendicular to both its wire element dℓ and its direction r̂ to P. A total field from an arbitrary curved wire is the vector sum of these contributions and need not share that local orientation. For a long straight wire, symmetry makes the total field circle the wire.
 
 To find the total field B, add the contributions: B = ∫dB. In practice you choose a variable along the wire, write r and sin θ in terms of it, and integrate. When the contributions point in different directions, split them into components first and use symmetry to cancel what you can.
 
@@ -125,6 +125,21 @@ B = (μ₀Ia/4π) × 2 × (L/2) / [a²√(L²/4 + a²)]
 
 ## Loops and arcs
 
+<!-- marlbridge-diagram:phys-gap-12-3-loop-arc-biotsavart -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/physics/phys-gap-12-3-loop-arc-biotsavart.svg" aria-label="Open full-size diagram: phys-gap-12-3-loop-arc-biotsavart"><img src="/images/learning/physics/phys-gap-12-3-loop-arc-biotsavart.svg" width="1528" height="940" alt="Current loop and arc with right-hand-rule field at the centre, radial leads that contribute zero, and a nearby oppositely directed straight wire whose field cancels the loop field at the centre." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Current loop and arc with right-hand-rule field at the centre, radial leads that contribute zero, and a nearby oppositely directed straight wire whose field cancels the loop field at the centre. — Marlbridge Physics.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:phys-gap-12-3-loop-arc-biotsavart -->
+
+
+<!-- marlbridge-diagram:physcem-b15-current-loop-and-arc-centre-field -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/physics/physcem-b15-current-loop-and-arc-centre-field.svg" aria-label="Open full-size diagram: physcem-b15-current-loop-and-arc-centre-field"><img src="/images/learning/physics/physcem-b15-current-loop-and-arc-centre-field.svg" width="1600" height="1050" alt="A full loop, semicircle and quarter-circle current arc show the centre-field results μ₀I/(2R), μ₀I/(4R) and μ₀I/(8R). Radial leads aimed at the centre contribute zero because dℓ is parallel to r̂. Current direction shown gives B out of the page." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>A full loop, semicircle and quarter-circle current arc show the centre-field results μ₀I/(2R), μ₀I/(4R) and μ₀I/(8R). Radial leads aimed at the centre contribute zero because dℓ is parallel to r̂. Current direction shown gives B out of the page. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:physcem-b15-current-loop-and-arc-centre-field -->
+
 **Centre of a circular loop.** Every piece of a loop of radius R is the same distance R from the centre, and dℓ is always perpendicular to r̂, so sin θ = 1. Every contribution points the same way (along the loop's axis, by the right-hand rule). So:
 
 B = (μ₀I/4πR²) ∮dℓ = (μ₀I/4πR²)(2πR) → **B = μ₀I/(2R)**
@@ -134,6 +149,14 @@ B = (μ₀I/4πR²) ∮dℓ = (μ₀I/4πR²)(2πR) → **B = μ₀I/(2R)**
 **Straight leads aimed at the centre** add nothing, because dℓ is parallel to r̂ along them.
 
 ## The field on the axis of a loop
+
+<!-- marlbridge-diagram:physcem-b26-loop-axis-field-projection-geometry -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/physics/physcem-b26-loop-axis-field-projection-geometry.svg" aria-label="Open full-size diagram: physcem-b26-loop-axis-field-projection-geometry"><img src="/images/learning/physics/physcem-b26-loop-axis-field-projection-geometry.svg" width="1600" height="1050" alt="A circular current loop is viewed obliquely with its axis pointing to a point P at distance z. Matching current elements on opposite sides are the same distance r = square root of R squared plus z squared from P. Their magnetic field contributions tilt in opposite sideways directions, so transverse components cancel; both axial components point along the axis and add. Each axial projection is dB times R over r." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>A circular current loop is viewed obliquely with its axis pointing to a point P at distance z. Matching current elements on opposite sides are the same distance r = square root of R squared plus z squared from P. Their magnetic field contributions tilt in opposite sideways directions, so transverse components cancel; both axial components point along the axis and add. Each axial projection is dB times R over r. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:physcem-b26-loop-axis-field-projection-geometry -->
+
 
 Now put P on the central axis, a distance z from the centre of a loop of radius R. Each piece is a distance r = √(R² + z²) from P, and dℓ is still perpendicular to r̂, so dB = (μ₀I/4π) dℓ/(R² + z²).
 
@@ -179,6 +202,22 @@ B = ∮ (μ₀I/4π) × [dℓ/(R² + z²)] × [R/√(R² + z²)] = (μ₀IR/4π(
 </figure>
 
 ## Force on a current-carrying wire
+
+<!-- marlbridge-diagram:phys-gap-12-3-wire-force-components -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/physics/phys-gap-12-3-wire-force-components.svg" aria-label="Open full-size diagram: phys-gap-12-3-wire-force-components"><img src="/images/learning/physics/phys-gap-12-3-wire-force-components.svg" width="1528" height="940" alt="A semicircular wire in a uniform field with force equivalent to its endpoint chord, plus two parallel wires carrying 8 A and 5 A separated by 0.050 m and attracting." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>A semicircular wire in a uniform field with force equivalent to its endpoint chord, plus two parallel wires carrying 8 A and 5 A separated by 0.050 m and attracting. — Marlbridge Physics.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:phys-gap-12-3-wire-force-components -->
+
+
+<!-- marlbridge-diagram:physcem-b26-semicircle-wire-force-components -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/physics/physcem-b26-semicircle-wire-force-components.svg" aria-label="Open full-size diagram: physcem-b26-semicircle-wire-force-components"><img src="/images/learning/physics/physcem-b26-semicircle-wire-force-components.svg" width="1600" height="1050" alt="A semicircular wire of radius 0.12 m carries 2.5 A from left to right along its upper arc in a uniform magnetic field directed into the page. The magnetic forces on opposite halves have sideways components that cancel; their upward components add. The resultant equals the force on the straight chord joining the endpoints, with magnitude I times B times the 0.24 m chord, or 0.18 N." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>A semicircular wire of radius 0.12 m carries 2.5 A from left to right along its upper arc in a uniform magnetic field directed into the page. The magnetic forces on opposite halves have sideways components that cancel; their upward components add. The resultant equals the force on the straight chord joining the endpoints, with magnitude I times B times the 0.24 m chord, or 0.18 N. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:physcem-b26-semicircle-wire-force-components -->
+
 
 A wire carrying current contains moving charge, so a magnetic field pushes on it. Adding qv × B over all the moving charge in a length ℓ gives:
 

@@ -163,6 +163,14 @@ The curve is a ∪-shape cutting the line at x = 0 and x = 2, so it is below the
 
 ## 5. Inequalities with algebraic fractions
 
+<!-- marlbridge-diagram:maths-aqa-rational-inequality-sign-chart -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/mathematics/maths-aqa-rational-inequality-sign-chart.svg" aria-label="Open full-size diagram: maths-aqa-rational-inequality-sign-chart"><img src="/images/learning/mathematics/maths-aqa-rational-inequality-sign-chart.svg" width="1600" height="1050" alt="The source example 5/(x−2)&gt;3 reduces to (11−3x)/(x−2)&gt;0; critical values 2 and 11/3 yield solution 2&lt;x&lt;11/3." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>The source example 5/(x−2)&gt;3 reduces to (11−3x)/(x−2)&gt;0; critical values 2 and 11/3 yield solution 2&lt;x&lt;11/3. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:maths-aqa-rational-inequality-sign-chart -->
+
+
 **Do not multiply both sides by an expression such as (x − 2).** Its sign depends on x. If it is negative, the inequality should reverse, and you cannot tell which case applies. Two safe methods:
 
 - **Method A:** multiply both sides by the square of the denominator, which is never negative, so the sign stays. Take care with the excluded value, where the fraction is undefined.

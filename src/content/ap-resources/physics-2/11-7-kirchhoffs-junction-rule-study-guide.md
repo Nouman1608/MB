@@ -176,7 +176,7 @@ In this course every circuit you solve this way has one battery, or batteries in
 **Question.** A student puts an ammeter in each of the three wires at a junction. Each meter reads to the nearest 0.01 A. The readings are 0.48 A in, and 0.31 A and 0.16 A out. The student says: "Out is 0.47 A, so 0.01 A is lost at the junction. The junction rule fails." Evaluate the claim.
 
 1. Total out: 0.31 A + 0.16 A = 0.47 A. The difference from 0.48 A is 0.01 A, about 2% of the current in.
-2. Each reading could be off by up to about 0.01 A because of the meter's resolution. With three readings, the sums could differ by up to about 0.03 A even if the currents balance exactly.
+2. Rounding to the nearest 0.01 A alone permits a rounding error of up to 0.005 A per reading. The worst-case rounding bound for this three-reading balance is therefore 0.015 A. Additional instrument accuracy, calibration and noise would require a separate uncertainty estimate.
 3. A difference of 0.01 A is inside this range, so the data **agree** with the junction rule. They do not show that charge is lost.
 4. A real loss of charge would also need somewhere for the charge to go. A junction in a steady circuit has no way to store it.
 

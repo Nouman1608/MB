@@ -53,6 +53,14 @@ to save, independent of any change in current income itself.
 
 ## 3.3 Workers
 
+<!-- marlbridge-diagram:economics-cambridge-olevel-decision-makers-interactions -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/economics/economics-cambridge-olevel-decision-makers-interactions.svg" aria-label="Open full-size diagram: economics-cambridge-olevel-decision-makers-interactions"><img src="/images/learning/economics/economics-cambridge-olevel-decision-makers-interactions.svg" width="1600" height="1050" alt="A systems map places households, workers, unions, firms and banks around linked spending, labour, wage and finance flows; the central bank has a separate policy role." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>A systems map places households, workers, unions, firms and banks around linked spending, labour, wage and finance flows; the central bank has a separate policy role. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:economics-cambridge-olevel-decision-makers-interactions -->
+
+
 This is one of the largest sub-topics in Topic 3, covering four
 distinct areas:
 

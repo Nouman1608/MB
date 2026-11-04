@@ -70,14 +70,24 @@ Here K = ½mv² for each moving object, and U is the total of all the potential 
 
 ## The energy rule
 
+<!-- marlbridge-diagram:physics-ap-energy-system-boundary-transfers -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/physics/physics-ap-energy-system-boundary-transfers.svg" aria-label="Open full-size diagram: physics-ap-energy-system-boundary-transfers"><img src="/images/learning/physics/physics-ap-energy-system-boundary-transfers.svg" width="1600" height="1050" alt="Energy can convert inside a system or cross its boundary by work, heat or matter flow; the source equation requires work to be the only transfer." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Energy can convert inside a system or cross its boundary by work, heat or matter flow; the source equation requires work to be the only transfer. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:physics-ap-energy-system-boundary-transfers -->
+
+
 Energy is **conserved in every interaction**. It is never created or destroyed. It can only do two things:
 
 1. **Change form inside the system.** A drop in one type of energy is matched by an equal rise in other types. Falling: U_g goes down, K goes up by the same amount.
 2. **Cross the boundary.** When an outside force does work on the system, energy moves in (positive work) or out (negative work).
 
-Put together:
+For the **closed mechanical systems below**, neglect heat transfer, mass crossing the boundary and other external energy transfers. Energy can then cross the chosen boundary only as mechanical work:
 
 **ΔE_system = W (work done on the system by outside forces)**
+
+More generally, energy accounting must also include any heat or other energy transferred across the boundary.
 
 If W = 0, the system's total energy is constant. If W is not zero, the system's energy changes by exactly W. Energy is still conserved overall; it has simply moved between the system and its surroundings.
 

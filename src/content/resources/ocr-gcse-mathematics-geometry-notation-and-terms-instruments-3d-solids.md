@@ -203,6 +203,12 @@ S' = (3, -6).
 ```
 
 ## Plans and elevations (8.06b)
+<!-- marlbridge-diagram:maths-b19-plans-elevations -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/mathematics/maths-b19-plans-elevations.svg" aria-label="Open full-size diagram: maths-b19-plans-elevations"><img src="/images/learning/mathematics/maths-b19-plans-elevations.svg" width="1600" height="1050" alt="A 4×2×3 cuboid corresponds to plan 4×2, front elevation 4×3, and side elevation 2×3." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>A 4×2×3 cuboid corresponds to plan 4×2, front elevation 4×3, and side elevation 2×3. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:maths-b19-plans-elevations -->
 
 A plan is the view from directly above. An elevation is a view from the side: the front elevation looks from the front, the side elevation from a side. Mark the viewing direction with an arrow when a question asks you to.
 

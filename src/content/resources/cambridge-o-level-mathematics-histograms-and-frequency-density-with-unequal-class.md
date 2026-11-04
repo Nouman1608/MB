@@ -74,6 +74,13 @@ The lengths of 71 phone calls, in minutes, are summarised below. Find the freque
 The tallest bar is the class 2 ≤ t < 5, even though 20 calls is the largest frequency and sits in the next class. That is the point of the method: the bar height now describes how crowded each minute of the class is.
 
 ### Drawing the histogram
+<!-- marlbridge-diagram:maths-b20-unequal-width-histogram -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/mathematics/maths-b20-unequal-width-histogram.svg" aria-label="Open full-size diagram: maths-b20-unequal-width-histogram"><img src="/images/learning/mathematics/maths-b20-unequal-width-histogram.svg" width="1528" height="940" alt="A histogram of 71 phone calls has class boundaries 0, 2, 5, 10, 20 and 40 minutes. Bar heights are frequency densities 3, 5, 4, 1.8 and 0.6; bar areas give frequencies 6, 15, 20, 18 and 12." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>For continuous classes the bars have no gaps. The height is frequency density; width × height is the class frequency. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:maths-b20-unequal-width-histogram -->
+
 
 1. Draw the horizontal axis as a continuous scale for the variable (here t in minutes), marking the class boundaries 0, 2, 5, 10, 20, 40.
 2. Label the vertical axis **Frequency density**. This is the label the syllabus asks for.

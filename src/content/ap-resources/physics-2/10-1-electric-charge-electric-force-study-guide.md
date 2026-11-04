@@ -167,7 +167,7 @@ For an electron and a proton, the ratio of the two forces does not depend on the
 
 F_E / F_G = k e² / (G mₑ mₚ) = (9.0 × 10⁹)(1.60 × 10⁻¹⁹)² ÷ [(6.67 × 10⁻¹¹)(9.11 × 10⁻³¹)(1.67 × 10⁻²⁷)] ≈ 2.3 × 10³⁹
 
-So for charged particles the gravitational force is tiny by comparison. Why, then, does gravity hold planets in orbit? Because large objects are very close to **electrically neutral**. In a planet the positive and negative charges almost exactly cancel, so the net electric force on another planet is close to zero. Mass has only one sign, so gravitational forces never cancel. They add up, and over large distances and large masses gravity dominates.
+For an electron–proton pair, the gravitational force is tiny compared with the electric force. In ordinary bulk matter with little net charge, positive and negative charges nearly balance, so electric effects often cancel substantially at large scales. Gravitational contributions come from positive mass density, but the forces still add as vectors and can cancel directionally at a point. Gravity often controls the large-scale motion of nearly neutral planets and stars; charged bodies and plasmas can also have important electric effects.
 
 ### Everyday forces are electric underneath
 
@@ -175,9 +175,9 @@ The normal force from a table, friction, tension in a rope and the push of your 
 
 ## Permittivity and polarization
 
-Put a neutral material near a charge. The material's electrons are pulled one way and its nuclei the other. The electrons shift slightly, so one side of each atom or molecule becomes a little negative and the other side a little positive. This **polarization** is an induced separation of positive and negative charge inside the material. The material as a whole stays neutral.
+Put a neutral dielectric near a charge. Bound positive and negative charge can shift slightly relative to one another; pre-existing molecular dipoles can also change orientation. This creates a net dipole alignment, called polarization, while the body remains neutral overall. In a conductor, mobile carriers can instead redistribute across the object, leaving opposite surface charges without net charging. The processes are distinct, as the comparison diagram shows.
 
-**Electric permittivity** measures how strongly a material or medium polarizes in an electric field. It depends on how easily the electrons in the material can change their arrangement.
+**Electric permittivity** relates electric field and charge in a material model. In the simple linear dielectric model, its difference from the vacuum value reflects the material’s polarization response. This response can involve electron-cloud distortion, relative displacement of ions and reorientation of permanent molecular dipoles, depending on the material and conditions; it is not determined by electron rearrangement alone.
 
 - **Free space** (a vacuum) has a fixed permittivity, ε₀. It appears in Coulomb's law through k = 1/(4πε₀) and in later topics.
 - Matter has a permittivity different from ε₀, set by its composition and the way its particles are arranged.

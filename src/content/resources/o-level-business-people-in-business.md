@@ -44,6 +44,14 @@ which each qualification is available.
 
 ## 2.1 Motivating employees
 
+<!-- marlbridge-diagram:business-cambridge-olevel-motivation-theories-and-methods -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/business/business-cambridge-olevel-motivation-theories-and-methods.svg" aria-label="Open full-size diagram: business-cambridge-olevel-motivation-theories-and-methods"><img src="/images/learning/business/business-cambridge-olevel-motivation-theories-and-methods.svg" width="1600" height="1050" alt="Maslow needs hierarchy is contrasted with Taylor and Herzberg, with example motivation methods and outcomes named in the source." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Maslow needs hierarchy is contrasted with Taylor and Herzberg, with example motivation methods and outcomes named in the source. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:business-cambridge-olevel-motivation-theories-and-methods -->
+
+
 A business cannot rely on unmotivated staff to deliver good service or
 high productivity, so this sub-topic starts with **why** motivation
 matters before turning to **how** it is achieved.

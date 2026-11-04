@@ -127,6 +127,9 @@ A volunteer sits still at 25 °C, then in a cold room at 5 °C. Oxygen used by t
 
 ## 3.4.5 Control of blood glucose
 
+![Two opposing feedback pathways: insulin lowers high blood glucose by uptake and glycogen storage; glucagon raises low blood glucose by glycogen breakdown.](/images/learning/biology/bio-b16-blood-glucose-feedback.svg)
+
+
 The pancreas monitors and controls the concentration of glucose in the blood. Much of the glucose is stored as glycogen in the liver and muscles. When these stores are full, excess glucose is stored as lipid.
 
 ### Insulin (3.4.5 b)

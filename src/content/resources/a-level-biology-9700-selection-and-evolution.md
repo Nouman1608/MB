@@ -83,6 +83,11 @@ Seven classes already give a bell shape. With more genes and environmental effec
 
 ### The t-test
 
+
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <!-- marlbridge-diagram:biology-t-test-workflow --><a href="/images/learning/biology/biology-t-test-workflow.svg" aria-label="Open full-size diagram: Two-sample t-test workflow for Cambridge 9700" title="Two-sample t-test workflow for Cambridge 9700"><img src="/images/learning/biology/biology-t-test-workflow.svg" width="1600" height="1050" alt="Two-sample t-test workflow for Cambridge 9700. The figure checks test suitability, displays the course formula, and works through the exact plant-cutting height example in the source guide, including t=4.44, df=14, p=0.05 critical value 2.14 and conclusion. A companion panel gives a bounded decision workflow. Statistical significance does not by itself identify causation." title="Two-sample t-test workflow for Cambridge 9700" loading="lazy" decoding="async" style="display:block;width:100%;height:auto;" /></a>
+  <figcaption>Worked two-sample t-test workflow; check assumptions, calculate t and degrees of freedom, compare with the critical value, then interpret. Select the diagram to enlarge it.</figcaption>
+</figure>
 The t-test tells you whether the difference between two means is significant. Use it when:
 
 - the data are continuous

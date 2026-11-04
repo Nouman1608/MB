@@ -148,6 +148,14 @@ final answer.
 
 ## Set notation in brief
 
+<!-- marlbridge-diagram:math-b48-edexcel-set-notation-venn -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/mathematics/math-b48-edexcel-set-notation-venn.svg" aria-label="Open full-size diagram: math-b48-edexcel-set-notation-venn"><img src="/images/learning/mathematics/math-b48-edexcel-set-notation-venn.svg" width="1600" height="1050" alt="Within 𝓔={1,…,10}, let A={2,4,6,8,10} and B={3,6,9}. Then A∩B={6}, A∪B={2,3,4,6,8,9,10}, and A′={1,3,5,7,9}." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Within 𝓔={1,…,10}, let A={2,4,6,8,10} and B={3,6,9}. Then A∩B={6}, A∪B={2,3,4,6,8,9,10}, and A′={1,3,5,7,9}. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:math-b48-edexcel-set-notation-venn -->
+
+
 1.5 introduces set language that recurs in probability and statistics
 questions elsewhere on the paper: the universal set 𝓔 contains every
 element under consideration, A′ denotes the complement of set A (every

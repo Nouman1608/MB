@@ -178,13 +178,21 @@ yield = 2.79 ÷ 3.81 × 100 = 73.2 %
 
 ## Why the product can be a pair of enantiomers
 
+<!-- marlbridge-diagram:chem-obj-carbonyl-two-face-racemate -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/chemistry/chem-obj-carbonyl-two-face-racemate.svg" aria-label="Open full-size diagram: chem-obj-carbonyl-two-face-racemate"><img src="/images/learning/chemistry/chem-obj-carbonyl-two-face-racemate.svg" width="1528" height="940" alt="A planar carbonyl attacked from either face can produce mirror-image tetrahedral products if the new carbon has four different groups. A 50:50 racemate also requires achiral reagents and environment and equal face access." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Carbonyl addition from either face can form enantiomers — Marlbridge Chemistry.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:chem-obj-carbonyl-two-face-racemate -->
+
+
 From [optical isomerism](/resources/oxfordaqa-a-level-chemistry-optical-isomerism/) (section 3.3.7.1): an asymmetric carbon (one bonded to four different groups) is a chiral centre, its two non-superimposable mirror-image forms are enantiomers, and a mixture of equal amounts of them is a racemate that has no overall effect on plane-polarised light.
 
 **The explanation, point by point:**
 
 1. The carbonyl carbon and the three atoms joined to it lie in one plane.
 2. The cyanide ion can reach that carbon from above the plane or from below it.
-3. Neither face is favoured, so both approaches happen equally often.
+3. For an achiral starting system under achiral, non-enantioselective conditions, equivalent faces are not favoured differently, so both approaches occur equally often. Chiral reagents, catalysts or environments can change this balance.
 4. When the new C(OH)(CN) carbon ends up with four different groups, attack from the two faces gives the two enantiomers.
 5. The two enantiomers are made in a 50 : 50 ratio. That racemate has no net effect on plane-polarised light.
 

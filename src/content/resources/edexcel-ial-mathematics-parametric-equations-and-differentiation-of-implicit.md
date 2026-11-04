@@ -62,6 +62,14 @@ y = 2(x + 1)²/9 − 5(x + 1)/3
 
 ### Worked example 2: trig elimination
 
+<!-- marlbridge-diagram:maths-b23-parametric-ellipse-sin-cos -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/mathematics/maths-b23-parametric-ellipse-sin-cos.svg" aria-label="Open full-size diagram: maths-b23-parametric-ellipse-sin-cos"><img src="/images/learning/mathematics/maths-b23-parametric-ellipse-sin-cos.svg" width="1600" height="1050" alt="For x=2 sin t+1 and y=3 cos t−2, the identity sin²t+cos²t=1 gives ((x−1)/2)²+((y+2)/3)²=1, an ellipse centred at (1,−2), with horizontal semi-axis 2 and vertical semi-axis 3." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>For x=2 sin t+1 and y=3 cos t−2, the identity sin²t+cos²t=1 gives ((x−1)/2)²+((y+2)/3)²=1, an ellipse centred at (1,−2), with horizontal semi-axis 2 and vertical semi-axis 3. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:maths-b23-parametric-ellipse-sin-cos -->
+
+
 A curve has x = 2 sin t + 1 and y = 3 cos t − 2. Find its cartesian equation.
 
 ```

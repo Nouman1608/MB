@@ -85,6 +85,14 @@ Opportunity cost applies to all three economic agents: a consumer choosing betwe
 
 ## Factors of production
 
+<!-- marlbridge-diagram:economics-ocr-gcse-economic-agents-factors-of-production -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/economics/economics-ocr-gcse-economic-agents-factors-of-production.svg" aria-label="Open full-size diagram: economics-ocr-gcse-economic-agents-factors-of-production"><img src="/images/learning/economics/economics-ocr-gcse-economic-agents-factors-of-production.svg" width="1600" height="1050" alt="Land, labour, capital and enterprise are paired with their conventional factor incomes and linked to producers, consumers and government." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Land, labour, capital and enterprise are paired with their conventional factor incomes and linked to producers, consumers and government. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:economics-ocr-gcse-economic-agents-factors-of-production -->
+
+
 | Factor | Meaning | Reward |
 |---|---|---|
 | Land | All natural resources | Rent |

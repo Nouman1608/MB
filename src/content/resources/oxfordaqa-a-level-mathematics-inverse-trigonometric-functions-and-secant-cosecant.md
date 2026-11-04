@@ -141,6 +141,14 @@ So the solutions of cosec x = 2 are **x = π/6, 5π/6**, and only **5π/6** also
 
 ## Inverse trigonometric functions
 
+<!-- marlbridge-diagram:math-b68-oxfordaqa-inverse-trig-principal-range-graphs -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/public/images/learning/mathematics/math-b68-oxfordaqa-inverse-trig-principal-range-graphs.svg" aria-label="Open full-size diagram: math-b68-oxfordaqa-inverse-trig-principal-range-graphs"><img src="/public/images/learning/mathematics/math-b68-oxfordaqa-inverse-trig-principal-range-graphs.svg" width="1528" height="940" alt="Graphs of asin x and acos x on [−1,1], and atan x for all real x, with their principal ranges and tangent inverse asymptotes shown." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Graphs of asin x and acos x on [−1,1], and atan x for all real x, with their principal ranges and tangent inverse asymptotes shown.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:math-b68-oxfordaqa-inverse-trig-principal-range-graphs -->
+
+
 ### Why the domain must be restricted
 
 A function has an inverse only if each output comes from exactly one input. sin x takes the value 1/2 at x = π/6, 5π/6, 13π/6 and so on, so the full sine function has no inverse. To fix this, restrict sin x to an interval on which it is one-to-one and covers its whole range. The inverse is defined from that restricted piece.

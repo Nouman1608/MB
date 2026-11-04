@@ -151,6 +151,14 @@ spent," but specifically the next-best alternative use of that money.
 
 ## Production possibility curve diagrams
 
+<!-- marlbridge-diagram:economics-cambridge-olevel-scarcity-opportunity-cost-ppc -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/economics/economics-cambridge-olevel-scarcity-opportunity-cost-ppc.svg" aria-label="Open full-size diagram: economics-cambridge-olevel-scarcity-opportunity-cost-ppc"><img src="/images/learning/economics/economics-cambridge-olevel-scarcity-opportunity-cost-ppc.svg" width="1600" height="1050" alt="A production possibility curve distinguishes efficient, underused and currently unattainable points, shows movement along the frontier versus outward growth, and links the trade-off to opportunity cost." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>A production possibility curve distinguishes efficient, underused and currently unattainable points, shows movement along the frontier versus outward growth, and links the trade-off to opportunity cost. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:economics-cambridge-olevel-scarcity-opportunity-cost-ppc -->
+
+
 A **production possibility curve (PPC)** shows the maximum combinations
 of two goods (or categories of goods) an economy can produce with its
 existing resources and technology, assuming those resources are fully

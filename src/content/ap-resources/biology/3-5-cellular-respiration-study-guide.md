@@ -123,7 +123,7 @@ Think of NADH and FADH₂ as charged batteries. They carry electrons from the ea
 
 ### Stage 1: glycolysis (cytosol)
 
-Glycolysis happens in the cytosol of every cell. It splits one six-carbon glucose into **two three-carbon pyruvate** molecules. Along the way it makes ATP from ADP and Pᵢ, and reduces NAD⁺ to NADH. Per glucose the net gain is **2 ATP and 2 NADH**. Glycolysis needs no oxygen and no mitochondria, which is one reason it is thought to be the oldest part of the pathway.
+Glycolysis is widespread in living organisms and, in most glucose-catabolising cells, occurs in the cytosol. It splits one six-carbon glucose into **two three-carbon pyruvate** molecules. Along the way it makes ATP from ADP and Pᵢ, and reduces NAD⁺ to NADH. Per glucose the net gain is **2 ATP and 2 NADH**. Glycolysis needs no oxygen and no mitochondria, which is one reason it is thought to be the oldest part of the pathway.
 
 ### Stages 2 and 3: pyruvate oxidation and the Krebs cycle (mitochondrial matrix)
 
@@ -179,14 +179,14 @@ This is where most ATP is made. Figure 2 shows how.
 <text x="580" y="285" text-anchor="middle" font-size="13" fill="#1d2b44">ADP + Pᵢ → ATP</text>
 <text x="340" y="345" text-anchor="middle" font-size="14" font-weight="600" fill="#1d2b44">Matrix: low H⁺ concentration, higher pH</text>
 </svg>
-<figcaption>Figure 2. Electrons (dashed path) move from carrier to carrier and finally to oxygen. The energy released pumps protons up into the intermembrane space. Protons can only flow back down through ATP synthase, which uses that flow to make ATP. Carrier names are not needed.</figcaption>
+<figcaption>Figure 2. Electrons (dashed path) move from carrier to carrier and finally to oxygen. The energy released pumps protons up into the intermembrane space. In the coupled model shown, proton return through ATP synthase drives ATP production; proton leaks or uncoupling routes can return protons without making ATP. Carrier names are not needed.</figcaption>
 </figure>
 
 1. **Electron delivery.** NADH and FADH₂ give their electrons to the **electron transport chain (ETC)**, a series of proteins in the inner mitochondrial membrane. This oxidises them back to NAD⁺ and FAD, which return to glycolysis and the Krebs cycle.
 2. **Redox series.** Each carrier is reduced when it accepts electrons and oxidised when it passes them on. Each acceptor holds electrons more strongly than the one before, so energy is released in small steps.
 3. **Final acceptor.** At the end, **oxygen** accepts the electrons and combines with protons to form **water**. This is the only place oxygen is used. Aerobic prokaryotes also use oxygen; anaerobic prokaryotes use another acceptor, such as nitrate or sulfate.
 4. **Proton pumping.** The energy released moves protons (H⁺) from the matrix into the **intermembrane space**. This builds an **electrochemical gradient**: high H⁺ concentration (lower pH) outside the inner membrane, low H⁺ concentration (higher pH) inside, in the matrix.
-5. **Chemiosmosis.** The membrane is almost impermeable to H⁺, so protons can only flow back into the matrix through **ATP synthase**. Their flow turns part of the enzyme and drives **ADP + Pᵢ → ATP**. Making ATP this way, powered by electron transport to oxygen, is **oxidative phosphorylation**.
+5. **Chemiosmosis.** The lipid membrane has low H⁺ permeability. In the coupled model, the proton return through **ATP synthase** drives ATP production; leaks and uncoupling proteins provide additional return routes without making ATP. Their flow turns part of the enzyme and drives **ADP + Pᵢ → ATP**. Making ATP this way, powered by electron transport to oxygen, is **oxidative phosphorylation**.
 
 **Structure and function.** The inner membrane is folded into **cristae**. Folding gives more surface area for ETC proteins and ATP synthase, so more ATP can be made per mitochondrion. Cells with high energy demand, such as muscle cells, tend to have many mitochondria with densely packed cristae.
 
@@ -307,7 +307,7 @@ Fermentation itself makes **no extra ATP**. The cell gets only the **2 ATP per g
 
 (a) Explain the change in O₂ consumption and in ATP production. (b) Explain the change in lactate. (c) Using the model values of 6 O₂ and about 30 ATP per glucose for aerobic respiration, and 2 lactate and 2 ATP per glucose for fermentation, show that the ATP figures are consistent and find how glucose use changes.
 
-**(a)** With the last carrier blocked, electrons cannot reach O₂, so O₂ consumption falls by (0.6 − 12.0) ÷ 12.0 × 100 = **−95%**. Electrons back up along the chain, so no more protons are pumped. The proton gradient runs down, ATP synthase stops, and oxidative phosphorylation stops. ATP production falls by (43 − 64) ÷ 64 × 100 = **−33%**.
+**(a)** Compound K strongly inhibits electron delivery to O₂: consumption falls by (0.6 − 12.0) ÷ 12.0 × 100 = **−95%**. Reduced electron flow lowers proton pumping and oxidative phosphorylation. The residual O₂ consumption is nonzero, and the model calculation in part (c) assigns it residual aerobic ATP production. Total ATP production falls by (43 − 64) ÷ 64 × 100 = **−33%**; it does not stop.
 
 **(b)** NADH can no longer give its electrons to the ETC, so NAD⁺ runs short. The cells switch to **lactic acid fermentation**: NADH reduces pyruvate to lactate, regenerating NAD⁺ so that glycolysis continues. Lactate output rises **tenfold** (40 ÷ 4.0 = 10).
 
@@ -316,7 +316,7 @@ After K: aerobic glucose = 0.6 ÷ 6 = 0.1; fermented glucose = 40 ÷ 2 = 20. ATP
 
 So the cells use about **5 times** as much glucose (20.1 ÷ 4.0 ≈ 5.0) yet make a third less ATP. Fermentation keeps the cells alive for a while, but it is a costly back-up.
 
-**Interpretation.** The prediction rests on a chain of cause and effect: block electron transfer → no proton pumping → no gradient → no oxidative phosphorylation → NADH builds up → fermentation. In an exam, write every link; marks are usually lost by jumping from "ETC blocked" straight to "less ATP".
+**Interpretation.** For these partially inhibited data, the causal chain is reduced electron transfer → less proton pumping and oxidative phosphorylation → slower NADH reoxidation → greater reliance on fermentation to regenerate NAD⁺. Complete blockage is an idealised limiting case, not the observed nonzero residual state in this dataset.
 
 ## Common misconceptions
 

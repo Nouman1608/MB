@@ -31,7 +31,7 @@ keyPoints:
   - "Resistance R measures how strongly an object opposes the movement of charge. Unit: ohm, 1 Ω = 1 V/A."
   - "For a uniform conductor, R = ρL/A: longer means more resistance, thicker means less."
   - "Resistivity ρ belongs to the material, not the object. For most conductors it rises with temperature."
-  - "Ohm's law: I = ΔV/R. An ohmic element keeps the same R at every current."
+  - "At fixed temperature and other physical conditions, an ohmic element has I proportional to ΔV and a constant R over its stated operating range."
   - "On a graph of I against ΔV, the slope is 1/R. A straight line through the origin means the element is ohmic."
 faqs:
   - question: "What is the difference between resistance and resistivity?"
@@ -93,7 +93,7 @@ The resistivity of a conductor **typically increases with temperature**. In a ho
 
 **I = ΔV / R**
 
-Some materials keep the same resistance whatever the current. These are called **ohmic** materials. For an ohmic element, doubling ΔV doubles I, so I ∝ ΔV. In the model used in this course, the resistivity of an ohmic material stays constant regardless of temperature. Treat a "resistor" in a question as ohmic unless you are told otherwise.
+Some materials keep the same resistance whatever the current. These are called **ohmic** materials. For an ohmic element, doubling ΔV doubles I, so I ∝ ΔV. An ohmic element has a proportional current–voltage relation while temperature and other physical conditions are held fixed. Its resistance or resistivity can change when those conditions change. Treat a "resistor" in a question as ohmic unless you are told otherwise.
 
 Elements whose resistance changes with current are **non-ohmic**. The filament bulb is the standard example: a larger current heats the filament, the resistivity rises and so R rises. R = ΔV/I still gives the resistance at each moment. It just is not a constant.
 
@@ -155,7 +155,7 @@ To find the **resistivity** of a material, use a wire of that material with a kn
 
 **Answer.** (a) R = 13 Ω (13.4 Ω). (b) I = 0.89 A.
 
-**Check.** Units: (Ω·m)(m)/m² = Ω. A common slip is to use the diameter in place of the radius, which makes A four times too big and gives 3.4 Ω. A copper wire of the same size would have only 0.21 Ω. It would barely warm up, which is why heating elements use a high-resistivity alloy.
+**Check.** Units: (Ω·m)(m)/m² = Ω. A common slip is to use the diameter in place of the radius, which makes A four times too big and gives 3.4 Ω. A copper wire of the same size would have only about 0.21 Ω. At a fixed current it would dissipate less power than the nichrome wire. Across the same ideal 12 V supply, however, its smaller resistance would draw much more current and initially dissipate much more power (P = ΔV²/R); it must not be assumed to stay cool.
 
 ## Worked example 2: predicting a factor of change
 
@@ -222,7 +222,7 @@ To find the **resistivity** of a material, use a wire of that material with a kn
 
 **Answer.** ρ ≈ 1.0 × 10⁻⁶ Ω·m.
 
-**Interpretation and check.** The result is of the same order as nichrome (1.10 × 10⁻⁶ Ω·m), which is reasonable for a resistance alloy. Using the slope of a best-fit line is better than using one reading, because it averages out random errors in individual measurements. The line passes through the origin, so there is no sign of a systematic error such as contact resistance.
+**Interpretation and check.** The result is of the same order as nichrome (1.10 × 10⁻⁶ Ω·m), which is reasonable for a resistance alloy. Using the slope of a best-fit line is better than using one reading, because it averages out random errors in individual measurements. This drawn fit was constrained through the origin, so its zero intercept cannot test whether contact resistance is absent. To investigate an additive resistance, also fit an unconstrained intercept, examine its uncertainty and check the residuals.
 
 ## Common misconceptions
 

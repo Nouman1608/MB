@@ -183,6 +183,14 @@ The standard deviation is σ = √(npq). You need to know these formulae and use
 
 ### Worked example 6: finding μ and σ²
 
+<!-- marlbridge-diagram:maths-b38-binomial-mean-variance -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/mathematics/maths-b38-binomial-mean-variance.svg" aria-label="Open full-size diagram: maths-b38-binomial-mean-variance"><img src="/images/learning/mathematics/maths-b38-binomial-mean-variance.svg" width="1600" height="1050" alt="For X~B(80,0.35), q=0.65. The mean is μ=np=28, the variance is σ²=npq=18.2, and the standard deviation is √18.2≈4.27. A matching normal model is N(28,18.2)." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>For X~B(80,0.35), q=0.65. The mean is μ=np=28, the variance is σ²=npq=18.2, and the standard deviation is √18.2≈4.27. A matching normal model is N(28,18.2). Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:maths-b38-binomial-mean-variance -->
+
+
 X ~ B(80, 0.35).
 
 ```

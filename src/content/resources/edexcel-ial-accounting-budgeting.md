@@ -233,6 +233,14 @@ A **fixed budget** is set for one planned level of activity. If actual activity 
 
 ### Worked example 3: Tolvane Mouldings Ltd
 
+<!-- marlbridge-diagram:accounting-edexcel-flexed-budget-bridge -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/accounting/accounting-edexcel-flexed-budget-bridge.svg" aria-label="Open full-size diagram: accounting-edexcel-flexed-budget-bridge"><img src="/images/learning/accounting/accounting-edexcel-flexed-budget-bridge.svg" width="1600" height="1050" alt="Flexed budget bridge separates volume variance from flexed variances before reconciling actual profit." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Flexed budget bridge separates volume variance from flexed variances before reconciling actual profit. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:accounting-edexcel-flexed-budget-bridge -->
+
+
 Tolvane Mouldings Ltd budgeted to make and sell 20,000 crates at 9 each. Per crate: direct materials 2.40, direct labour 1.60, variable overheads 0.50. Maintenance is semi-variable: 6,000 a month plus 0.20 per crate. Fixed overheads are 36,000. It actually made and sold 22,000 crates.
 
 | | Fixed budget (20,000) | Flexible budget (22,000) | Actual (22,000) | Variance |

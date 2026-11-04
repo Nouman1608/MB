@@ -51,6 +51,14 @@ Three specific reasons are named:
 
 ## 3.2 Methods and effects of government intervention in markets
 
+<!-- marlbridge-diagram:economics-government-intervention-toolkit -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/economics/economics-government-intervention-toolkit.svg" aria-label="Open full-size diagram: economics-government-intervention-toolkit"><img src="/images/learning/economics/economics-government-intervention-toolkit.svg" width="1600" height="1050" alt="Six government intervention methods matched to the problem each addresses, including correct shortage and surplus outcomes." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Match the policy instrument to the market problem, then evaluate its effects. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:economics-government-intervention-toolkit -->
+
+
 This sub-topic covers six specific tools, each with its own
 mechanism and consequences:
 

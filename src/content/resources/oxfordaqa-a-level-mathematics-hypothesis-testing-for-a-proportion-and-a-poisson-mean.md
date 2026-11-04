@@ -125,6 +125,14 @@ Notice that the actual level is below 5%. The binomial distribution is discrete,
 
 ### Worked example 4: one-tailed
 
+<!-- marlbridge-diagram:math-b72-oxfordaqa-poisson-test-critical-region -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/public/images/learning/mathematics/math-b72-oxfordaqa-poisson-test-critical-region.svg" aria-label="Open full-size diagram: math-b72-oxfordaqa-poisson-test-critical-region"><img src="/public/images/learning/mathematics/math-b72-oxfordaqa-poisson-test-critical-region.svg" width="1528" height="940" alt="Poisson(10) probability bars mark the observed count 15 and the 5% upper critical region X≥16; the observed result is outside the critical region." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Poisson(10) probability bars mark the observed count 15 and the 5% upper critical region X≥16; the observed result is outside the critical region.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:math-b72-oxfordaqa-poisson-test-critical-region -->
+
+
 A helpline records a mean of 2.5 complaints per day. After a change of procedure, a manager fears complaints have risen. Over 4 days there are 15 complaints. Test at the 5% level.
 
 ```

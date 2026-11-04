@@ -58,7 +58,7 @@ Where is it? Every small piece of the tyre is moving in a circle. Each piece has
 
 Treat a rigid system as a set of small pieces with masses m₁, m₂, m₃ … at distances r₁, r₂, r₃ … from the axis. The system turns with one angular velocity ω, so every piece has the same ω. Its speed depends on its distance from the axis:
 
-**v = rω** (ω in rad/s)
+**Speed: v = r|ω|** (ω in rad/s). A signed tangential velocity component instead obeys v_t = rω. The squared energy terms below are the same in either convention, since |ω|² = ω².
 
 Now add the kinetic energies of all the pieces:
 

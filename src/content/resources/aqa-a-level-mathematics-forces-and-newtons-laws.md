@@ -60,6 +60,14 @@ The speed is not needed: any constant velocity means balanced forces.
 
 ## R2 and R3: Newton's second law and weight
 
+<!-- marlbridge-diagram:maths-aqa-force-vector-resultant -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/mathematics/maths-aqa-force-vector-resultant.svg" aria-label="Open full-size diagram: maths-aqa-force-vector-resultant"><img src="/images/learning/mathematics/maths-aqa-force-vector-resultant.svg" width="1600" height="1050" alt="The source worked example sums (5i+2j) N and (3i−8j) N, giving resultant (8i−6j) N and acceleration (2i−1.5j) m s⁻², magnitude 2.5." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>The source worked example sums (5i+2j) N and (3i−8j) N, giving resultant (8i−6j) N and acceleration (2i−1.5j) m s⁻², magnitude 2.5. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:maths-aqa-force-vector-resultant -->
+
+
 **Newton's second law:** the **resultant** force on a body equals mass × acceleration, **F = ma**, and the acceleration is in the direction of the resultant. Draw every force, choose a positive direction, then write "resultant force in that direction = ma".
 
 For 2D force vectors, a = F ÷ m component by component.

@@ -62,6 +62,14 @@ lone-pair-adjusted variants such as bent, pyramidal and see-saw
 shapes.
 
 ## Bond polarity
+<!-- marlbridge-diagram:chem-delta-electronegativity-dipole-definitions -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/chemistry/chem-delta-electronegativity-dipole-definitions.svg" aria-label="Open full-size diagram: chem-delta-electronegativity-dipole-definitions">
+    <img src="/images/learning/chemistry/chem-delta-electronegativity-dipole-definitions.svg" width="1528" height="940" alt="Electronegativity is an atom property; a difference polarises a bond and gives partial charges; molecular dipole is the vector sum of bond dipoles, nonzero for bent H₂O and cancelled in linear CO₂." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" />
+  </a>
+  <figcaption>Electronegativity, bond polarity and molecular dipoles. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:chem-delta-electronegativity-dipole-definitions -->
 
 You need to understand electronegativity as the power of an atom to
 attract the shared pair of electrons in a covalent bond. When two

@@ -71,7 +71,7 @@ double bond and the product is saturated.
 
 ## Electrophilic addition (3.3.4.2)
 
-Every mechanism in this section follows the same two steps.
+The following two-step carbocation outline is a simplified school model used here for HBr and sulfuric acid. The bromine subsection also labels its open-carbocation outline as simplified; a more complete mechanistic account uses a bridged bromonium ion opened by Br⁻.
 
 1. The electrophile accepts a pair of electrons from the C=C bond. A bond in the electrophile breaks
    heterolytically, and a **carbocation** (an ion with a positive carbon) forms with a negative ion.
@@ -95,7 +95,7 @@ Step 2   H₃C–CH₂⁺  +  :Br⁻   →   H₃C–CH₂Br   (bromoethane)
 
 ### With bromine, and the test for unsaturation
 
-Br₂ is not polar. As a bromine molecule approaches the high electron density of the double bond, the
+An isolated Br₂ molecule has no permanent dipole. The open-carbocation equation below is a simplified school outline; in the more complete pathway, a bridged bromonium ion forms and Br⁻ opens the ring in a non-nucleophilic medium. In bromine water, water can compete as nucleophile, so the qualitative decolourisation test does not establish a pure dibromide product. As a bromine molecule approaches the high electron density of the double bond, the
 electrons in Br–Br are repelled away from the nearer atom. This **induces a dipole**: the nearer Br atom
 becomes δ+ and acts as the electrophile.
 
@@ -107,9 +107,23 @@ Step 1   H₂C=CH₂  +  Brδ+–Brδ−   →   BrH₂C–CH₂⁺  +  Br⁻
 Step 2   BrH₂C–CH₂⁺  +  :Br⁻   →   BrH₂C–CH₂Br   (1,2-dibromoethane)
 ```
 
+<!-- marlbridge-diagram:as-bromine-ethene-complete-pair-mechanism -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/chemistry/as-bromine-ethene-complete-pair-mechanism.svg" aria-label="Open full-size diagram: Bromine and ethene: bromonium bridge mechanism"><picture><source media="(max-width: 800px)" srcset="/images/learning/chemistry/as-bromine-ethene-complete-pair-mechanism-mobile.svg" width="768" height="2849" /><img src="/images/learning/chemistry/as-bromine-ethene-complete-pair-mechanism.svg" width="1528" height="1515" alt="The full mechanism forms a bridged bromonium ion with three electron-pair arrows, then uses bromide to open the bridge with two arrows, giving 1,2-dibromoethane in a non-nucleophilic medium." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></picture></a>
+  <figcaption>Bromine addition to ethene through a bridged bromonium ion. The dibromide route assumes a non-nucleophilic medium; it is not a claim that bromine water gives only this product.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:as-bromine-ethene-complete-pair-mechanism -->
+
 **Test for unsaturation.** Shake the compound with bromine water at room temperature. An alkene
 decolourises it: **orange to colourless**, because the bromine is used up in addition. A saturated
 compound such as an alkane leaves the solution orange.
+
+<!-- marlbridge-diagram:as-bromine-medium-product-qualification -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/chemistry/as-bromine-medium-product-qualification.svg" aria-label="Open full-size diagram: Bromine addition products depend on the nucleophile in the medium"><picture><source media="(max-width: 800px)" srcset="/images/learning/chemistry/as-bromine-medium-product-qualification-mobile.svg" width="768" height="1561" /><img src="/images/learning/chemistry/as-bromine-medium-product-qualification.svg" width="1528" height="871" alt="Comparison of bromide capture in a non-nucleophilic medium, giving a vicinal dibromide, with water capture in aqueous bromine, which can form a bromohydrin." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></picture></a>
+  <figcaption>Bromide and water can compete to open the bromonium ion. The bromine-water colour change is the test observation; it does not alone identify a single product.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:as-bromine-medium-product-qualification -->
 
 ### With sulfuric acid
 

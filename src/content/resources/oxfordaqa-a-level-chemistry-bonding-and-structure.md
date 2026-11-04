@@ -41,6 +41,16 @@ determines a substance's macroscopic properties.
 
 ## Ionic bonding
 
+| Compound ion | Formula and charge | Charge-balanced example |
+|---|---:|---|
+| Sulfate | SO₄²⁻ | Na₂SO₄ |
+| Hydroxide | OH⁻ | Mg(OH)₂ |
+| Nitrate | NO₃⁻ | Ca(NO₃)₂ |
+| Carbonate | CO₃²⁻ | (NH₄)₂CO₃ |
+| Ammonium | NH₄⁺ | (NH₄)₂CO₃ |
+
+The brackets show that each subscript applies to the whole compound ion. Check that the total positive and negative charge is zero.
+
 You need to understand ionic bonding as electrostatic attraction
 between oppositely charged ions arranged in a lattice. This includes
 knowing the formulae of named compound ions -- sulfate, hydroxide,
@@ -67,6 +77,13 @@ delocalised electrons and positive ions arranged in a lattice. The
 metal's characteristic physical properties, covered next.
 
 ## Predicting ionic charge and constructing formulae
+
+<!-- marlbridge-diagram:chem-b16-polyatomic-ion-formula-builder -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/chemistry/chem-b16-polyatomic-ion-formula-builder.svg" aria-label="Open full-size diagram: Build ionic formulae by balancing charge"><img src="/images/learning/chemistry/chem-b16-polyatomic-ion-formula-builder.svg" width="1528" height="940" alt="Named polyatomic ions retain their grouped formula and charge. Worked charge-balance examples show Mg(OH)2, Ca(NO3)2, Na2CO3 and Al2(SO4)3, using brackets when more than one polyatomic ion is needed." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Build ionic formulae by balancing charge Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:chem-b16-polyatomic-ion-formula-builder -->
 
 Predicting an ion's charge from periodic table position follows a
 pattern: Group 1 elements typically form 1+ ions, Group 2 elements
@@ -96,6 +113,25 @@ diamond genuinely does require breaking covalent bonds, which is why
 its melting point is so much higher than a molecular substance's.
 
 ## The four crystal structure types
+
+<!-- marlbridge-diagram:chem-obj-six-crystal-structures -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/chemistry/chem-obj-six-crystal-structures.svg" aria-label="Open full-size diagram: chem-obj-six-crystal-structures"><img src="/images/learning/chemistry/chem-obj-six-crystal-structures.svg" width="1528" height="940" alt="Six structure diagrams: sodium chloride alternating ions, molecular iodine, hydrogen-bonded ice, three-dimensional diamond, layered graphite and metallic magnesium with delocalised electrons." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Six named crystal structures across four types — Marlbridge Chemistry.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:chem-obj-six-crystal-structures -->
+
+For particle-count sketches, label the **nearest neighbours** and distinguish bonds inside a molecule from forces between molecules:
+
+| Structure | Count around one chosen particle | What the count means |
+|---|---:|---|
+| Sodium chloride (rock-salt lattice) | 6 nearest opposite-charge ions | Each Na⁺ has 6 Cl⁻ neighbours and each Cl⁻ has 6 Na⁺ neighbours. |
+| Iodine crystal | 1 covalent partner per I atom | The I₂ molecule is the bonded pair; neighbouring molecules are held by intermolecular forces, not extra covalent bonds. |
+| Ice | 4 hydrogen-bond neighbours per H₂O molecule | Common tetrahedral model: 2 hydrogen bonds donated and 2 accepted. |
+| Diamond | 4 covalent neighbours per C atom | Each carbon is tetrahedrally bonded in a 3-D network. |
+| Graphite | 3 covalent neighbours per C atom | Each carbon has three in-plane bonds; the fourth valence electron is delocalised. |
+| Magnesium (hcp metal) | 12 nearest metal atoms | Close-packed coordination; delocalised electrons are not counted as neighbours. |
+
 
 The specification names four types of crystal structure -- **ionic**,
 **metallic**, **macromolecular (giant covalent)**, and **molecular**

@@ -142,6 +142,14 @@ Total      = 10x - 15 - 2x + 8
 
 ### Worked example 6: two brackets in one variable
 
+<!-- marlbridge-diagram:math-b49-0580-expand-two-brackets-one-variable -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/mathematics/math-b49-0580-expand-two-brackets-one-variable.svg" aria-label="Open full-size diagram: math-b49-0580-expand-two-brackets-one-variable"><img src="/images/learning/mathematics/math-b49-0580-expand-two-brackets-one-variable.svg" width="1600" height="1050" alt="A 2-by-2 multiplication grid expands (3x−2)(2x+5): cells are 6x², 15x, −4x and −10, which combine to 6x²+11x−10." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>A 2-by-2 multiplication grid expands (3x−2)(2x+5): cells are 6x², 15x, −4x and −10, which combine to 6x²+11x−10. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:math-b49-0580-expand-two-brackets-one-variable -->
+
+
 Expand and simplify (3x − 2)(2x + 5).
 
 ```
@@ -154,6 +162,14 @@ Total      = 6x^2 + 15x - 4x - 10
 A squared bracket is two brackets: (2x − 3)² = (2x − 3)(2x − 3) = 4x² − 6x − 6x + 9 = **4x² − 12x + 9**. Writing it as 4x² + 9 loses the middle term.
 
 ### Worked example 7: two variables (Extended)
+
+<!-- marlbridge-diagram:maths-b36-two-variable-bracket-expansion -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/mathematics/maths-b36-two-variable-bracket-expansion.svg" aria-label="Open full-size diagram: maths-b36-two-variable-bracket-expansion"><img src="/images/learning/mathematics/maths-b36-two-variable-bracket-expansion.svg" width="1600" height="1050" alt="Multiplying all four pairs gives 2x², 6xy, −xy, and −3y². Collecting like terms yields 2x²+5xy−3y²." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Multiplying all four pairs gives 2x², 6xy, −xy, and −3y². Collecting like terms yields 2x²+5xy−3y². Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:maths-b36-two-variable-bracket-expansion -->
+
 
 Expand and simplify (2x − y)(x + 3y).
 

@@ -105,6 +105,14 @@ communication causes, and how such barriers can be reduced or removed.
 
 ## How to approach it
 
+<!-- marlbridge-diagram:business-cambridge-igcse-people-case-decision-map -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/business/business-cambridge-igcse-people-case-decision-map.svg" aria-label="Open full-size diagram: business-cambridge-igcse-people-case-decision-map"><img src="/images/learning/business/business-cambridge-igcse-people-case-decision-map.svg" width="1600" height="1050" alt="Connects organisational roles and delegation to people-management options and a five-step case-based recommendation." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Connects organisational roles and delegation to people-management options and a five-step case-based recommendation. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:business-cambridge-igcse-people-case-decision-map -->
+
+
 This topic rewards precision about who does what and why, so build a
 clear map of the organisational hierarchy — director, manager,
 supervisor, other employees — before trying to answer questions about

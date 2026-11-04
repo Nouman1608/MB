@@ -243,6 +243,14 @@ Write u, v, du/dx and dv/dx down before you substitute. It keeps the signs under
 
 ## Common errors
 
+<!-- marlbridge-diagram:math-b41-differentiation-common-errors-corrections -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/mathematics/math-b41-differentiation-common-errors-corrections.svg" aria-label="Open full-size diagram: math-b41-differentiation-common-errors-corrections"><img src="/images/learning/mathematics/math-b41-differentiation-common-errors-corrections.svg" width="1600" height="1050" alt="Four common derivative errors are corrected: include the inner derivative for e^(3x), use both terms in the product rule, preserve the quotient-rule subtraction order, and differentiate cos x to −sin x." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Four common derivative errors are corrected: include the inner derivative for e^(3x), use both terms in the product rule, preserve the quotient-rule subtraction order, and differentiate cos x to −sin x. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:math-b41-differentiation-common-errors-corrections -->
+
+
 - Writing d/dx of cos x as sin x. The result is −sin x.
 - Forgetting the inside derivative: d/dx of e^(3x) is 3e^(3x), not e^(3x).
 - Differentiating a product by differentiating each factor and multiplying.

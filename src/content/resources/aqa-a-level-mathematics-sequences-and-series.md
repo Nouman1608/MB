@@ -158,6 +158,13 @@ Splitting also works: 3 × Σr + Σ2 = 3 × (20 × 21/2) + 20 × 2 = 630 + 40 = 
 
 ## D4 -- Arithmetic sequences and series
 
+<!-- marlbridge-diagram:maths-aqa-sequences-arithmetic-geometric-comparison -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/mathematics/maths-aqa-sequences-arithmetic-geometric-comparison.svg" aria-label="Open full-size diagram: maths-aqa-sequences-arithmetic-geometric-comparison"><img src="/images/learning/mathematics/maths-aqa-sequences-arithmetic-geometric-comparison.svg" width="1600" height="1050" alt="A side-by-side comparison gives the nth-term and sum rules, checks source-aligned arithmetic and geometric examples, and states the convergence condition for an infinite geometric series." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>A side-by-side comparison gives the nth-term and sum rules, checks source-aligned arithmetic and geometric examples, and states the convergence condition for an infinite geometric series. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:maths-aqa-sequences-arithmetic-geometric-comparison -->
+
 An arithmetic sequence has a common difference d. Using the specification's notation (a = first term, l = last term, Sₙ = sum to n terms):
 
 ```

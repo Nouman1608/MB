@@ -48,7 +48,15 @@ The number e is about 2.718. The graph of y = eˣ has four features to learn.
 
 **The family y = e^(ax + b) + c.** Read it as a sequence of changes to y = eˣ. The constant c lifts the whole curve, so the asymptote moves from y = 0 to y = c and the range becomes y > c. The constants a and b change the horizontal position and scale but do not change the asymptote. If a is negative, the curve is a mirror image and decreases.
 
-**Worked example 1.** Sketch the key features of y = e^(3x + 2) − 4.
+**Worked example 1.** Sketch the key features of
+
+<!-- marlbridge-diagram:maths-b25-shifted-exponential-asymptote-intercepts -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/mathematics/maths-b25-shifted-exponential-asymptote-intercepts.svg" aria-label="Open full-size diagram: maths-b25-shifted-exponential-asymptote-intercepts"><img src="/images/learning/mathematics/maths-b25-shifted-exponential-asymptote-intercepts.svg" width="1600" height="1050" alt="For y=e^(3x+2)−4, the horizontal asymptote is y=−4 and the range is y&gt;−4. The curve is increasing. Its y-intercept is e²−4≈3.389, and its x-intercept is (ln 4−2)/3≈−0.205." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>For y=e^(3x+2)−4, the horizontal asymptote is y=−4 and the range is y&gt;−4. The curve is increasing. Its y-intercept is e²−4≈3.389, and its x-intercept is (ln 4−2)/3≈−0.205. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:maths-b25-shifted-exponential-asymptote-intercepts -->
+ y = e^(3x + 2) − 4.
 
 ```
 Asymptote: y = −4, and the range is y > −4.

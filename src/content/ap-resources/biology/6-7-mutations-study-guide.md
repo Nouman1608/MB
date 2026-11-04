@@ -64,7 +64,7 @@ So a mutation can be **beneficial**, **detrimental** (harmful) or **neutral**. T
 
 ### Point mutations (substitutions)
 
-In a **point mutation**, one nucleotide is replaced by a different one. The reading frame stays the same, so at most one codon changes. That one codon can have three kinds of outcome:
+In a **point mutation**, one nucleotide is replaced by a different one. For a substitution within a translated coding region, the nucleotide count and reading frame stay the same, and the directly altered triplet is one codon. A substitution at a splice or regulatory site can have broader effects on the mature RNA or its amount. That one codon can have three kinds of outcome:
 
 | Outcome | What happens to the codon | Effect on the protein |
 |---|---|---|
@@ -78,7 +78,7 @@ A missense change is often small if the new amino acid has similar properties (f
 
 An **insertion** adds one or more nucleotides; a **deletion** removes them. Ribosomes read codons in fixed groups of three from the start codon, with no gaps. If the number of bases added or removed is **not a multiple of three**, every codon after the change is read in a new grouping. This is a **frameshift mutation**. Most amino acids after the change are different, and a stop codon usually appears early in the new frame, or the original stop is lost.
 
-If exactly three bases (or six, or nine) are inserted or deleted, the frame is kept: the protein gains or loses whole amino acids but the rest of the sequence is normal.
+Within a coding region, an insertion or deletion of a multiple of three preserves the downstream reading frame. It can add or remove residues and can change a junction codon if the break crosses a codon boundary; preserved frame does not guarantee normal protein function.
 
 <figure>
 <svg viewBox="0 0 640 300" role="img" aria-labelledby="rf-title rf-desc" xmlns="http://www.w3.org/2000/svg" font-family="system-ui, sans-serif">
@@ -127,13 +127,13 @@ The same kind of change has different effects in different places:
 
 - **Coding region, active site:** a missense change may stop the enzyme working.
 - **Coding region, surface loop:** a missense change may do almost nothing.
-- **Near the start of the gene:** a frameshift or nonsense change destroys almost the whole protein. Near the end, most of the chain is still made.
+- **Near the start of a coding sequence:** a frameshift or premature stop can alter much of the downstream protein sequence or reduce the amount of transcript. The outcome depends on transcript processing, alternative start sites, protein domains and cellular RNA-surveillance pathways; a change near the end can also disrupt an essential region.
 - **Promoter or other regulatory sequence:** the protein is normal, but the **amount** made changes.
 - **Third base of a codon:** substitutions here are often silent, because many codons for the same amino acid differ only in this position.
 
 ## What causes mutations
 
-Mutations happen **at random**. They are not produced because an organism "needs" a new trait. Their main causes:
+Mutations arise without regard to whether a change would benefit the organism; "random" does not mean every DNA site has equal mutation probability. Mutagens and sequence context can bias which changes occur. Mutations are not produced because an organism "needs" a new trait. Common causes include:
 
 - **Errors in DNA replication.** DNA polymerase occasionally pairs the wrong base. Proofreading and repair systems fix most errors, but not all.
 - **Failures of DNA repair.** If a repair system itself is faulty, errors build up faster.
@@ -199,12 +199,12 @@ During meiosis, homologous chromosomes (meiosis I) or sister chromatids (meiosis
 <text x="480" y="275" text-anchor="middle" font-size="13" fill="#1d2b44">2 of 4 gametes abnormal</text>
 <text x="320" y="315" text-anchor="middle" font-size="12" fill="#1d2b44">Bold labels = abnormal gamete. Dashed box = cell missing this chromosome.</text>
 </svg>
-<figcaption>Figure 2. Following one homologous pair. An error in meiosis I affects all four gametes; an error in meiosis II affects two of the four.</figcaption>
+<figcaption>Figure 2. Following one homologous pair with a single nondisjunction event and otherwise normal divisions. A meiosis I error affects all four products; a meiosis II error in one daughter affects two, leaving two normal-count products. Actual gamete function and outcomes depend on organism and cell type.</figcaption>
 </figure>
 
 Changes in chromosome number change the **dose** of hundreds of genes at once, so they often cause disorders with limits on growth and development. You do not need to name specific disorders.
 
-Errors in **mitosis** can also give cells with the wrong chromosome number. In animals these body cells are not passed to offspring, but they can change the phenotype of the tissue they form.
+Errors in **mitosis** can also give cells with the wrong chromosome number. Mutations confined to somatic (body) cells are generally not inherited by offspring, but germline precursor mutations in animals can be passed on. Somatic errors can change the phenotype of the tissue they form.
 
 ### Changes in chromosome structure
 
@@ -212,7 +212,7 @@ Breaks in chromosomes can be rejoined wrongly. A segment may be lost (**deletion
 
 ## Variation for natural selection to act on
 
-A change in genotype matters to evolution only if it changes a phenotype that affects survival or reproduction. Then the environment can **select for** it. Besides mutation, several processes add variation:
+For **natural selection**, a heritable genotype can affect evolution when it changes a phenotype that influences survival or reproduction in a particular environment. Neutral variants can also change in frequency through genetic drift. Besides mutation, several processes add variation:
 
 | Process | What happens | Where |
 |---|---|---|
@@ -223,6 +223,13 @@ A change in genotype matters to evolution only if it changes a phenotype that af
 | **Viral recombination** | related viruses infecting the same host cell swap genetic material | viruses |
 
 The first three are **horizontal gene transfer**: genes move between cells in the same generation, not from parent to offspring. This is one way antibiotic-resistance genes spread quickly between bacteria.
+
+<!-- marlbridge-diagram:bio-b20-horizontal-gene-transfer-routes -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/biology/bio-b20-horizontal-gene-transfer-routes.svg" aria-label="Open full-size diagram: bio-b20-horizontal-gene-transfer-routes"><img src="/images/learning/biology/bio-b20-horizontal-gene-transfer-routes.svg" width="1600" height="1000" alt="Three panels distinguish uptake of free DNA, bacteriophage-mediated DNA transfer and direct conjugation between bacterial cells." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Three panels distinguish uptake of free DNA, bacteriophage-mediated DNA transfer and direct conjugation between bacterial cells. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:bio-b20-horizontal-gene-transfer-routes -->
 
 Sexual reproduction (meiosis with crossing over, independent assortment and fertilisation) also increases variation. These processes are **evolutionarily conserved**: they are shared by a wide range of organisms, which suggests common ancestry.
 
@@ -260,13 +267,13 @@ In a second test without antibiotic, the resistant strain doubled every 36 min a
 
 (a) Describe the effect of UV dose. (b) Explain why resistant colonies appear at a dose of 0. (c) Use the growth data to explain why resistance is not simply "beneficial".
 
-**(a)** Mean resistant colonies rise with dose: 3.0 at 0, 15.0 at 10, 41.0 at 20 and 88.0 at 40 J m⁻², about 29 times the unexposed value (88.0 ÷ 3.0 = 29.3). The replicate ranges do not overlap, so the trend is unlikely to be chance. UV increases the **rate** of mutation.
+**(a)** Mean resistant colonies rise with dose: 3.0 at 0, 15.0 at 10, 41.0 at 20 and 88.0 at 40 J m⁻², about 29 times the unexposed value (88.0 ÷ 3.0 = 29.3). The replicate ranges are separated, which is a descriptive pattern, not a formal significance test. UV exposure is associated here with a higher frequency of resistant colonies per surviving cell. This assay does not directly estimate mutation rate; fluctuation or mutation-accumulation designs are needed to separate new mutation events from selection and survival effects.
 
 **(b)** The unexposed cells were never treated with UV and met the antibiotic only on the plate. Resistant mutants were already present, arising from replication errors. The antibiotic did not create the mutations; it **selected** the cells that already had them. Even at 40 J m⁻², the frequency is only 88 in 10⁸, or 8.8 × 10⁻⁷: UV made mutations more common but did not target the resistance gene.
 
 **(c)** In 300 min, the original strain completes 300 ÷ 30 = 10 doublings (1 cell → 2¹⁰ = 1024 cells). The resistant strain completes 300 ÷ 36 ≈ 8.3 doublings (about 322 cells). Without the drug, the original strain outgrows the resistant one about 3.2 to 1. With the drug, only the resistant strain grows. The same mutation is **detrimental** in one environment and **beneficial** in the other.
 
-**Limits.** The data support these conclusions for this fictional strain. They do not show which base changed; sequencing the gene (Topic 6.8) would.
+**Limits.** The data support these conclusions for this fictional strain. Resistant-colony frequency among survivors is not itself a direct mutation-rate estimate, and the ranges are not a formal test. They do not show which base changed; sequencing the gene (Topic 6.8) would.
 
 ## Common misconceptions
 

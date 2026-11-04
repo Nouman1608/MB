@@ -218,6 +218,14 @@ For an inequality, use the R-form: since sin x + cos x = √2 sin(x + π/4) and 
 
 ## 1.05q: modelling
 
+<!-- marlbridge-diagram:math-b71-trig-modelling-harbour-tide -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/public/images/learning/mathematics/math-b71-trig-modelling-harbour-tide.svg" aria-label="Open full-size diagram: math-b71-trig-modelling-harbour-tide"><img src="/public/images/learning/mathematics/math-b71-trig-modelling-harbour-tide.svg" width="1528" height="940" alt="Source tide model reduces to d=7+3sin(πt/6+0.6435): mean 7 m, amplitude 3 m, period 12 h, maximum 10 m at about 1.77 h, minimum 4 m at about 7.77 h; d=8.5 m at about 3.77 and 11.77 h." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Source tide model reduces to d=7+3sin(πt/6+0.6435): mean 7 m, amplitude 3 m, period 12 h, maximum 10 m at about 1.77 h, minimum 4 m at about 7.77 h; d=8.5 m at about 3.77 and 11.77 h. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:math-b71-trig-modelling-harbour-tide -->
+
+
 Periodic situations such as tides, sound waves and alternating quantities are modelled by a + R sin(kt + α). The constant a is the mean level, R is the amplitude and 2π/k is the period.
 
 **Worked example 12.** The depth of water, d metres, in a harbour t hours after midnight is d = 7 + 2.4 sin(πt/6) + 1.8 cos(πt/6). Find the greatest and least depths, and when the depth is 8.5 m for 0 ≤ t < 12.

@@ -214,6 +214,14 @@ acid, so it supplies few CN⁻ ions. KCN is ionic and supplies plenty of CN⁻ n
 
 ## Why the products can be racemic
 
+<!-- marlbridge-diagram:chem-obj-carbonyl-two-face-racemate-reuse2 -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/chemistry/chem-obj-carbonyl-two-face-racemate.svg" aria-label="Open full-size diagram: chem-obj-carbonyl-two-face-racemate"><img src="/images/learning/chemistry/chem-obj-carbonyl-two-face-racemate.svg" width="1528" height="940" alt="A planar carbonyl attacked from either face can produce mirror-image tetrahedral products if the new carbon has four different groups. A 50:50 racemate also requires achiral reagents and environment and equal face access." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Carbonyl addition from either face can form enantiomers — Marlbridge Chemistry.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:chem-obj-carbonyl-two-face-racemate-reuse2 -->
+
+
 You met chirality in optical isomerism (3.3.7). A carbon with four different groups is a chiral centre, and its
 two non-superimposable mirror images are **enantiomers**. A 50 : 50 mixture is a **racemic mixture (racemate)**
 and is optically inactive.
@@ -239,6 +247,11 @@ those two groups, plus OH and CN.
 
 This is why the specification says **aldehydes and unsymmetrical ketones** form mixtures of enantiomers.
 Methanal is the one aldehyde that does not, because its carbonyl carbon carries two H atoms.
+
+
+<!-- marlbridge-gap:chem-b12-carbonyl-face-racemate -->
+<figure class="lesson-diagram" style="margin:2rem 0"><a href="/images/learning/chemistry/chem-b12-carbonyl-face-racemate.svg" aria-label="Open full-size diagram: Two-face attack gives a racemate"><picture><source media="(max-width:800px)" srcset="/images/learning/chemistry/chem-b12-carbonyl-face-racemate-mobile.svg" width="768" height="1120"><img src="/images/learning/chemistry/chem-b12-carbonyl-face-racemate.svg" width="1528" height="870" alt="Ethanal carbonyl attacked from either face to form two enantiomeric alcohol products." loading="lazy" decoding="async" style="display:block;width:100%;height:auto"></picture></a><figcaption>Shows the ethanal-specific case: both faces yield enantiomers because the tetrahedral carbon has four different groups. Select the image to enlarge.</figcaption></figure>
+<!-- /marlbridge-gap:chem-b12-carbonyl-face-racemate -->
 
 ## Common errors
 

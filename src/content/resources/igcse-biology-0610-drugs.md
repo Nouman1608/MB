@@ -99,6 +99,11 @@ This is why a doctor will not prescribe antibiotics for a cold or flu, which are
 
 ## 15.1.3 Antibiotic resistance
 
+
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <!-- marlbridge-diagram:natural-selection-antibiotic-resistance --><a href="/images/learning/biology/natural-selection-antibiotic-resistance.svg" aria-label="Open full-size diagram: Natural selection and antibiotic resistance" title="Natural selection and antibiotic resistance"><img src="/images/learning/biology/natural-selection-antibiotic-resistance.svg" width="1528" height="1515" alt="A resistant variant exists before antibiotic treatment. Treatment removes susceptible bacteria preferentially, and surviving resistant bacteria reproduce, increasing resistance frequency in later generations." title="Natural selection and antibiotic resistance" loading="lazy" decoding="async" style="display:block;width:100%;height:auto;" /></a>
+  <figcaption>A resistant variant exists before treatment; antibiotics select among variants, and surviving resistant bacteria reproduce. Select the diagram to enlarge it.</figcaption>
+</figure>
 The Core statement is short:
 
 > Some bacteria are **resistant** to antibiotics, which **reduces the effectiveness** of antibiotics.

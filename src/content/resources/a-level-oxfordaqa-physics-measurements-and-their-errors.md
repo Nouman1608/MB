@@ -45,12 +45,16 @@ MEASUREMENTS AND THEIR ERRORS**
 
 - 3.1.1 Use of SI units and their prefixes — the base and derived SI
 units used throughout physics, and the prefixes (milli, kilo, mega and
-so on) used to express very small or very large quantities
+so on) used to express very small or very large quantities. See [SI
+units, prefixes and homogeneity](#si-units-prefixes-and-homogeneity).
 - 3.1.2 Limitation of physical measurements — understanding random and
 systematic errors, and how to express and combine measurement
-uncertainties
+uncertainties. See [random and systematic error](#random-and-systematic-error),
+[precision and accuracy](#precision-and-accuracy), [uncertainty](#uncertainty)
+and [uncertainty on a graph](#uncertainty-on-a-graph).
 - 3.1.3 Estimation of physical quantities — making sensible order-of-
-magnitude estimates for physical quantities using appropriate units
+magnitude estimates for physical quantities using appropriate units.
+See [estimation of physical quantities](#estimation-of-physical-quantities).
 
 ## How to approach it
 
@@ -111,6 +115,13 @@ Combining uncertainties:
 
 Error bars show the uncertainty in each plotted point. Drawing the steepest and shallowest lines that still pass through all the error bars gives a maximum and minimum gradient, and the uncertainty in the gradient is half their difference.
 
+<!-- marlbridge-diagram:phys-oxfordaqa-alevel-uncertainty-error-bars -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/physics/phys-oxfordaqa-alevel-uncertainty-error-bars.svg" aria-label="Open full-size diagram: uncertainty bars and gradient limits"><img src="/images/learning/physics/phys-oxfordaqa-alevel-uncertainty-error-bars.svg" width="1440" height="740" alt="A measurement graph with vertical uncertainty bars and best-fit, steepest and shallowest acceptable lines. The gradient uncertainty is half the difference between maximum and minimum gradient." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Use the error bars to find the range of acceptable gradients; half that range is the gradient uncertainty. — Marlbridge Physics.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:phys-oxfordaqa-alevel-uncertainty-error-bars -->
+
 ## Worked example
 
 A wire has length 0.850 m ± 0.001 m and diameter 0.36 mm ± 0.01 mm. Find the percentage uncertainty in the cross-sectional area.
@@ -127,6 +138,8 @@ The diameter dominates the uncertainty: the length is known to about 0.1%, so im
 ## Estimation of physical quantities
 
 Order-of-magnitude estimates are directly examinable. The method: state a **reasonable assumption** explicitly, use **round numbers**, and give the final answer to **one significant figure**. The marks are awarded for a **reasoned method**, not for numerical precision — a plausible but unstated assumption earns nothing, so the assumption itself must appear in the written working, not just the arithmetic that follows from it.
+
+**Worked estimate: mass of air in a classroom.** Assume a room is about 8 m long, 6 m wide and 3 m high, and take air density as roughly 1 kg/m³. Its volume is about 8 × 6 × 3 = 144 m³, which rounds to 1 × 10² m³. Therefore its air mass is approximately (1 kg/m³)(1 × 10² m³) = **1 × 10² kg**. The dimensions and density are estimates, so reporting 144 kg would imply unjustified precision.
 
 ## Common mistakes
 

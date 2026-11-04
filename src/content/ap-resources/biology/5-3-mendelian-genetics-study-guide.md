@@ -69,7 +69,7 @@ Crosses are labelled by generation. The **P generation** is the parents. Their o
 
 ## The law of segregation
 
-A diploid organism has two alleles of each gene, one on each chromosome of a homologous pair. In meiosis I the homologues separate, so **each gamete receives only one allele of each gene**. This is the **law of segregation**. An Aa individual makes two kinds of gamete, A and a, in equal numbers.
+A diploid organism has two alleles of each gene, one on each chromosome of a homologous pair. In meiosis I the homologues separate, so **each gamete receives only one allele of each gene**. This is the **law of segregation**. In the unbiased Mendelian model, an Aa individual transmits A or a with probability 1/2 each. These are expected frequencies across many products, not a requirement for exactly equal counts in every finite sample.
 
 At fertilization, two haploid gametes fuse. This restores the diploid number and brings two alleles together again, often in a new combination. Fertilization therefore adds to genetic variation in a population.
 
@@ -121,11 +121,11 @@ Now follow two genes. If they are on **different chromosomes**, the way one homo
 <figcaption>Figure 1. The long pair carries gene P and the short pair carries gene R. The dashed line is the metaphase plate. Both arrangements are equally likely, so a PpRr individual makes PR, Pr, pR and pr gametes in a 1 : 1 : 1 : 1 ratio.</figcaption>
 </figure>
 
-**The limit of the law.** Independent assortment applies to genes on **different** chromosomes. Two genes close together on the **same** chromosome tend to travel into gametes together. They are **genetically linked**, and their offspring do not fit Mendel's ratios. Topic 5.4 shows how to recognise and measure linkage.
+**The limit of the law.** Genes on different chromosomes assort independently in this model. Nearby loci on the same chromosome often show detectable linkage. Distant loci on one chromosome can approach 50% recombination and behave as genetically unlinked, so a Mendelian-looking ratio alone does not establish that two loci occupy different chromosomes. Topic 5.4 develops linkage.
 
 ## Punnett squares and genotypic versus phenotypic ratios
 
-A **Punnett square** lists one parent's gametes across the top and the other's down the side. Each box is one possible zygote, and every box is equally likely.
+A **Punnett square** lists one parent's gametes across the top and the other's down the side. Each box combines one gamete class from each parent. Its probability is the product of those gamete probabilities under independent fertilisation. In the Aa × Aa example below, each listed gamete class has probability 1/2, so each box has probability 1/4; equal box probabilities are not a universal rule.
 
 <figure>
 <svg viewBox="0 0 640 320" role="img" aria-labelledby="ps-title ps-desc" xmlns="http://www.w3.org/2000/svg" font-family="system-ui, sans-serif">
@@ -233,7 +233,7 @@ A **pedigree** is a family tree that shows who has a trait. Squares are males, c
 <figcaption>Figure 3. A fictional family. Two unaffected parents have two affected children, so the trait must be recessive. Affected individuals are also labelled in words.</figcaption>
 </figure>
 
-**Reading Figure 3.**
+**Reading Figure 3.** Assume a single locus, complete penetrance, correct parentage and no new mutation or phenocopy. The following deductions and pattern table apply within this simplified model; real pedigrees may require further evidence.
 
 1. Two unaffected parents have affected children. The allele must have been hidden in both parents, so it is **recessive**, and both parents are carriers (Aa).
 2. Could it be X-linked recessive? An affected daughter (II-2) would need a recessive allele on the X from her father. Her father would then be affected, but I-1 is not. So the allele is **autosomal**.
@@ -251,14 +251,14 @@ Genetically linked genes usually show up in cross data rather than pedigrees: so
 
 ## The chi-square test
 
-Real offspring counts never match a ratio exactly. Chance in fertilization makes them scatter. The **chi-square (χ²) test** asks whether the difference between observed (o) and expected (e) counts is small enough to be due to chance.
+Observed offspring counts can differ from a predicted ratio by sampling variation, although exact matches are also possible. The **chi-square (χ²) goodness-of-fit test** compares the observed departures with their distribution under the specified null model.
 
 1. **State the null hypothesis.** It links the experimental variables to a specific expectation, for example: "The two genes assort independently, so offspring phenotypes occur in a 9 : 3 : 3 : 1 ratio; any difference from this is due to chance."
-2. **Calculate expected counts** from the total number of offspring and the predicted ratio. Use counts, never percentages.
+2. **Calculate expected counts** from the total and the prespecified ratio. Use independent categorical observations and check that expected counts are adequate for the chi-square approximation (a common introductory rule is at least 5 per category). Use counts, not percentages. With fixed probabilities and no parameters estimated from the same data, degrees of freedom are categories minus one.
 3. **Calculate χ² = Σ (o − e)² ÷ e** over every category.
 4. **Degrees of freedom** = number of categories − 1.
 5. **Compare with the critical value** at p = 0.05 (given on the formula sheet: 3.84 for 1 degree of freedom, 5.99 for 2, 7.81 for 3).
-6. **Conclude.** If χ² is **greater** than the critical value, reject the null hypothesis: the difference is unlikely (less than 5% probability) to be chance alone. If χ² is **less than or equal to** it, fail to reject the null hypothesis.
+6. **Conclude.** Use the upper-tail probability under the null model: the probability of a statistic at least as large as the observed value, assuming the model holds. Reject at the selected 5% level when this probability is below 0.05 (equivalently, above the appropriate exact critical value). Otherwise fail to reject. The p-value is not the probability that the null is true or that chance caused the observed difference; printed critical values are rounded.
 
 Chi-square only fits **counts in categories**. It is not the right test for continuous measurements, such as plant heights.
 
@@ -319,7 +319,7 @@ The phenotypic ratio is **3 : 3 : 1 : 1**. It is not 9 : 3 : 3 : 1, because only
 
 **Step 6: interpret.** The differences are small enough to be explained by chance. The data are consistent with the two genes assorting independently with complete dominance. This supports, but does not prove, the hypothesis.
 
-**Predict a disruption.** If the two genes were in fact close together on the same chromosome, parental combinations (purple round and cream flat) would be much more common than 9 : 3 : 3 : 1 predicts. χ² would then be large, and you would reject the null hypothesis. You will analyse data like this in Topic 5.4.
+**Predict a disruption.** Detectable linkage can produce departures from 9 : 3 : 3 : 1. Which phenotype classes increase depends on parental allele phase and recombination frequency: coupling PR/pr and repulsion Pr/pR need not give the same excess classes. A finite test can also lack power to detect a real departure. Topic 5.4 develops these comparisons.
 
 ## Common misconceptions
 
@@ -327,7 +327,7 @@ The phenotypic ratio is **3 : 3 : 1 : 1**. It is not 9 : 3 : 3 : 1, because only
 - **"A 3 : 1 ratio means exactly three of every four children will show the trait."** Ratios are probabilities. Small families often differ from them, and each child is an independent event.
 - **"Genotypic and phenotypic ratios are the same thing."** For Aa × Aa the genotypic ratio is 1 : 2 : 1 and the phenotypic ratio is 3 : 1.
 - **"An unaffected child of two carriers has a 1/2 chance of being a carrier."** Once you know the child is unaffected, aa is ruled out. The chance is 2/3.
-- **"Independent assortment applies to all genes."** It applies to genes on different chromosomes. Linked genes do not assort independently.
+- **"Independent assortment applies to all genes."** Nearby linked loci usually show non-independent transmission; loci on different chromosomes, or sufficiently distant loci that behave as genetically unlinked, can give independent-looking ratios.
 - **"Degrees of freedom = number of offspring − 1."** It is the number of categories minus one.
 - **"Fail to reject means the hypothesis is proved."** It means the data are consistent with it. Rejecting means the difference is unlikely to be chance.
 - **"Use percentages in chi-square."** χ² must use actual counts. Percentages give the wrong value (too small whenever there are more than 100 offspring).

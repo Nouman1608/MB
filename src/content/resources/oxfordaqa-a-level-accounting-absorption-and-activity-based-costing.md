@@ -134,6 +134,14 @@ A single labour-hour or machine-hour rate assumes overheads rise with volume. Ma
 Direct costs are still **allocated** to products. For overheads: driver rate = pool cost ÷ total driver quantity; attribute rate × each product's driver use; divide each product's total by its output.
 
 ### Worked example 2: Hazelford Drinks
+<!-- marlbridge-diagram:ac-b14-abc-absorption-cost-comparison -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/accounting/ac-b14-abc-absorption-cost-comparison.svg" aria-label="Open full-size diagram: ac-b14-abc-absorption-cost-comparison">
+    <img src="/images/learning/accounting/ac-b14-abc-absorption-cost-comparison.svg" width="1600" height="1050" alt="Compare overhead per case for Classic and Botanical under absorption costing and ABC." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" />
+  </a>
+  <figcaption>A single labour-hour rate spreads $288,000 by volume; ABC attributes $147,000 to Classic and $141,000 to Botanical. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:ac-b14-abc-absorption-cost-comparison -->
 
 Hazelford bottles two cordials. Classic runs in long batches; Botanical is a small-batch range with many flavours. Production overheads total 288,000.
 

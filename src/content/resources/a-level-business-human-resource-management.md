@@ -145,6 +145,14 @@ questions.
 
 ## Worked example: applying recruitment to a scenario
 
+<!-- marlbridge-diagram:business-recruitment-internal-external -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/business/business-recruitment-internal-external.svg" aria-label="Open full-size diagram: business-recruitment-internal-external"><img src="/images/learning/business/business-recruitment-internal-external.svg" width="1600" height="1050" alt="Internal and external recruitment compared by speed, cost, skills pool and adjustment, applied to a business needing a specialist quickly." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Choose a recruitment route using the specific vacancy and business constraints. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:business-recruitment-internal-external -->
+
+
 A typical exam scenario gives a growing business that needs to fill a
 new, specialist role quickly. A strong answer does not simply define
 internal and external recruitment — it weighs both against the

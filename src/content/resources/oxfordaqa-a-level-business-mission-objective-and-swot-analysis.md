@@ -162,6 +162,14 @@ A wide margin of safety is a strength.
 
 ### Stakeholder mapping
 
+<!-- marlbridge-diagram:business-oxfordaqa-stakeholder-map-juniper-rail -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/business/business-oxfordaqa-stakeholder-map-juniper-rail.svg" aria-label="Open full-size diagram: business-oxfordaqa-stakeholder-map-juniper-rail"><img src="/images/learning/business/business-oxfordaqa-stakeholder-map-juniper-rail.svg" width="1600" height="1050" alt="Places the stakeholders in the Juniper Rail depot case on a power-interest grid and suggests source-aligned engagement actions." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Places the stakeholders in the Juniper Rail depot case on a power-interest grid and suggests source-aligned engagement actions. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:business-oxfordaqa-stakeholder-map-juniper-rail -->
+
+
 **Stakeholder mapping** places each group on a grid of **power** (ability to affect the business) against **interest** (how much it cares about a decision), to decide how much attention each needs:
 
 - high power, high interest: manage closely and involve in decisions

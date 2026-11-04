@@ -131,6 +131,14 @@ The rest of the reactant mass ends up in the by-product, sodium chloride.
 
 ## Substitution by cyanide ions: making a nitrile
 
+<!-- marlbridge-diagram:chem-obj-halogen-substitution-arrows -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/chemistry/chem-obj-halogen-substitution-arrows.svg" aria-label="Open full-size diagram: chem-obj-halogen-substitution-arrows"><img src="/images/learning/chemistry/chem-obj-halogen-substitution-arrows.svg" width="1528" height="940" alt="Cyanide attacks through its carbon lone pair as C–Br breaks; ammonia attacks through nitrogen, forms an ammonium intermediate, and a second ammonia removes H+." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Curly-arrow mechanisms: cyanide and ammonia substitution — Marlbridge Chemistry.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:chem-obj-halogen-substitution-arrows -->
+
+
 Heating a halogenoalkane under reflux with potassium cyanide dissolved in a mixture of ethanol and
 water gives a **nitrile**, R–C≡N. The nucleophile attacks through the **carbon** lone pair, so a new C–C
 bond forms and the carbon chain becomes one atom longer.
@@ -142,6 +150,14 @@ product, and describe the two curly arrows.*
 
 - Structure of the reactant: BrCH₂–CH(CH₃)–CH₂–CH₃.
 - Arrow 1: from the lone pair on the C of :CN⁻ to the δ+ CH₂ carbon. Arrow 2: from the C–Br bond to Br.
+
+<!-- marlbridge-diagram:chem-b34-oxfordaqa-cyanide-sn2-chain-extension -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/chemistry/chem-b34-oxfordaqa-cyanide-sn2-chain-extension.svg" aria-label="Open full-size diagram: chem-b34-oxfordaqa-cyanide-sn2-chain-extension"><img src="/images/learning/chemistry/chem-b34-oxfordaqa-cyanide-sn2-chain-extension.svg" width="1600" height="1050" alt="In the OxfordAQA example, carbon-end attack by CN− on the δ+ CH2 carbon of 1-bromo-2-methylbutane occurs as the C–Br bonding pair moves to bromine. Product: N≡C–CH2–CH(CH3)–CH2–CH3 plus Br−. The cyanide carbon becomes carbon 1 of the nitrile parent chain, giving 3-methylpentanenitrile." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>In the OxfordAQA example, carbon-end attack by CN− on the δ+ CH2 carbon of 1-bromo-2-methylbutane occurs as the C–Br bonding pair moves to bromine. Product: N≡C–CH2–CH(CH3)–CH2–CH3 plus Br−. The cyanide carbon becomes carbon 1 of the nitrile parent chain, giving 3-methylpentanenitrile. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:chem-b34-oxfordaqa-cyanide-sn2-chain-extension -->
+
 - Product: NC–CH₂–CH(CH₃)–CH₂–CH₃.
 - Naming: the nitrile carbon is carbon 1 of the main chain. Counting from it gives five carbons, with the
   methyl branch on carbon 3. Name: **3-methylpentanenitrile**.
@@ -153,11 +169,26 @@ because the new carbon becomes carbon 1.
 
 ## Substitution by ammonia: making a primary amine
 
+<!-- marlbridge-diagram:chem-obj-halogen-substitution-arrows-reuse2 -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/chemistry/chem-obj-halogen-substitution-arrows.svg" aria-label="Open full-size diagram: chem-obj-halogen-substitution-arrows"><img src="/images/learning/chemistry/chem-obj-halogen-substitution-arrows.svg" width="1528" height="940" alt="Cyanide attacks through its carbon lone pair as C–Br breaks; ammonia attacks through nitrogen, forms an ammonium intermediate, and a second ammonia removes H+." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Curly-arrow mechanisms: cyanide and ammonia substitution — Marlbridge Chemistry.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:chem-obj-halogen-substitution-arrows-reuse2 -->
+
+
 Ammonia is a neutral nucleophile. The halogenoalkane is heated with **excess** ammonia in ethanol in a
 sealed container. Two ammonia molecules are used for each halogenoalkane, so the mechanism has two
 stages.
 
 ### Worked example 4: 1-iodo-2-methylpropane and ammonia
+<!-- marlbridge-diagram:chem-b26-ammonia-halogenoalkane-two-stage-mechanism -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/chemistry/chem-b26-ammonia-halogenoalkane-two-stage-mechanism.svg" aria-label="Open full-size diagram: chem-b26-ammonia-halogenoalkane-two-stage-mechanism"><img src="/images/learning/chemistry/chem-b26-ammonia-halogenoalkane-two-stage-mechanism.svg" width="1528" height="940" alt="A nitrogen lone pair in ammonia attacks the delta-positive CH2 carbon in 1-iodo-2-methylpropane while the C-I bond pair moves to iodine, giving (CH3)2CHCH2NH3+ and I-. A second ammonia lone pair removes an N-H proton and the N-H bond pair returns to the attached nitrogen, forming (CH3)2CHCH2NH2 plus NH4I. The overall equation uses two ammonia molecules." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Stage 1 forms the protonated amine intermediate. Stage 2 removes its proton; excess ammonia favours the primary amine. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:chem-b26-ammonia-halogenoalkane-two-stage-mechanism -->
+
 
 *Outline the mechanism for the reaction of 1-iodo-2-methylpropane, (CH₃)₂CHCH₂I, with ammonia.*
 
@@ -203,6 +234,14 @@ Mean bond enthalpies differ slightly between data sources; use whatever values a
 
 ## 3.3.3.2 Elimination
 
+<!-- marlbridge-diagram:chem-obj-halogen-e2-three-arrows -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/chemistry/chem-obj-halogen-e2-three-arrows.svg" aria-label="Open full-size diagram: chem-obj-halogen-e2-three-arrows"><img src="/images/learning/chemistry/chem-obj-halogen-e2-three-arrows.svg" width="1528" height="940" alt="Three-arrow E2 mechanism: hydroxide removes a beta hydrogen, the C–H bond pair forms C=C, and the C–Br bond pair leaves. Hydroxide substitution also produces propan-2-ol." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>E2 elimination from 2-bromopropane: three electron shifts — Marlbridge Chemistry.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:chem-obj-halogen-e2-three-arrows -->
+
+
 The hydroxide ion can act in two ways at once. In the specification's example, 2-bromopropane heated
 with potassium hydroxide, two reactions run **concurrently** in the same flask:
 
@@ -240,6 +279,14 @@ carbons have two unlike groups attached (H with CH₃, and H with C₂H₅), so 
 - Arrow 1 shows OH⁻ acting as a base: it goes to a hydrogen.
 - Arrow 2 moves the C–H bonding pair into the C2–C3 region, where it becomes the extra bond of C=C.
 - Arrow 3 takes the C–Br bonding pair onto bromine.
+
+<!-- marlbridge-diagram:chem-b35-oxfordaqa-halide-e2-geometry-products -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/chemistry/chem-b35-oxfordaqa-halide-e2-geometry-products.svg" aria-label="Open full-size diagram: chem-b35-oxfordaqa-halide-e2-geometry-products"><img src="/images/learning/chemistry/chem-b35-oxfordaqa-halide-e2-geometry-products.svg" width="1600" height="1050" alt="The E2 elimination of 3-bromopentane is shown with beta H on C2 opposite Br on C3. OH− lone pair moves to H; the C2–H bond pair forms C2=C3 as the C3–Br pair moves to Br−. The product pent-2-ene is shown as E and Z isomers. No carbocation is formed." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>The E2 elimination of 3-bromopentane is shown with beta H on C2 opposite Br on C3. OH− lone pair moves to H; the C2–H bond pair forms C2=C3 as the C3–Br pair moves to Br−. The product pent-2-ene is shown as E and Z isomers. No carbocation is formed. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:chem-b35-oxfordaqa-halide-e2-geometry-products -->
+
 
 When the two neighbouring carbons are different, you can get structurally different alkenes. Check
 every carbon next to the C–X carbon that carries a hydrogen, then check each alkene for E–Z isomerism.

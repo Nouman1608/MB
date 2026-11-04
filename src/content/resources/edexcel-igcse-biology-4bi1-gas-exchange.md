@@ -46,7 +46,14 @@ Use it with the [gas exchange revision notes](/resources/edexcel-igcse-biology-4
 
 ### Diffusion does all the work (2.40B)
 
-Plants have no lungs and no ventilation. Every gas that enters or leaves a leaf moves by **diffusion**: the net movement of particles from a region of higher concentration to a region of lower concentration. Carbon dioxide and oxygen pass through the **stomata**, spread through the **air spaces** inside the leaf, dissolve in the thin film of water on the surface of the mesophyll cells and then diffuse across the cell wall and cell membrane.
+For the typical land-plant leaf model in this course, gas exchange across the leaf surface and between air spaces and mesophyll occurs by **diffusion**: net movement from higher to lower concentration. Carbon dioxide and oxygen pass through the **stomata**, spread through leaf **air spaces**, dissolve in the thin film of water on mesophyll cell surfaces and then diffuse across cell walls and membranes. This does not mean every gas movement in every plant organ or species uses diffusion only; bulk flow can move air through larger internal spaces, and aquatic plants may ventilate submerged tissues.
+
+<!-- marlbridge-diagram:bio-b27-edexcel-4bi1-leaf-gas-exchange -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/biology/bio-b27-edexcel-4bi1-leaf-gas-exchange.svg" aria-label="Open full-size diagram: bio-b27-edexcel-4bi1-leaf-gas-exchange"><img src="/images/learning/biology/bio-b27-edexcel-4bi1-leaf-gas-exchange.svg" width="1528" height="871" alt="Typical dicot leaf cross-section showing stomata, spongy mesophyll air spaces and the moist mesophyll surfaces along the gas diffusion route." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Typical flowering-plant leaf gas-exchange model; anatomy and gas movement vary among organs and species. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:bio-b27-edexcel-4bi1-leaf-gas-exchange -->
 
 Diffusion only works because cells keep the gradient going. A photosynthesising cell uses carbon dioxide, so the concentration inside the leaf stays lower than in the air outside, and carbon dioxide keeps diffusing in.
 
@@ -56,7 +63,7 @@ Two processes in leaf cells exchange the same two gases in opposite directions:
 
 | Process | When it happens | Gas taken in | Gas given out |
 |---|---|---|---|
-| Respiration | All the time, in every living cell | Oxygen | Carbon dioxide |
+| Aerobic respiration (standard model) | Plant cells respire in light and darkness | Oxygen | Carbon dioxide |
 | Photosynthesis | Only in the light, in cells with chloroplasts | Carbon dioxide | Oxygen |
 
 What you measure from a whole leaf is the **net** exchange: the result of both processes added together.
@@ -83,9 +90,17 @@ Respiration never stops. Photosynthesis depends on light. So the net exchange ch
 | Dim (one particular intensity) | Photosynthesis = respiration | No net exchange of either gas |
 | Bright | Photosynthesis > respiration | Carbon dioxide taken in, oxygen given out |
 
-Where the two rates are equal, the carbon dioxide made by respiration is used at once by photosynthesis, and vice versa for oxygen. Both processes continue; the *net* exchange with the air is zero.
+Where the two rates are equal, net exchange of each gas is zero over the measured interval. Both processes continue; this does not mean there is no molecular exchange. The table shows aerobic respiration; other metabolic pathways can occur under oxygen-limited conditions.
 
 ### Practical: hydrogen-carbonate indicator (2.45B)
+
+<!-- marlbridge-diagram:bio-b33-edexcel-4bi1-hydrogencarbonate-apparatus-detail -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/biology/bio-b33-edexcel-4bi1-hydrogencarbonate-apparatus-detail.svg" aria-label="Open full-size diagram: bio-b33-edexcel-4bi1-hydrogencarbonate-apparatus-detail"><img src="/images/learning/biology/bio-b33-edexcel-4bi1-hydrogencarbonate-apparatus-detail.svg" width="1528" height="940" alt="Hydrogen-carbonate indicator practical: controlled apparatus" loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Hydrogen-carbonate indicator practical: controlled apparatus Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:bio-b33-edexcel-4bi1-hydrogencarbonate-apparatus-detail -->
+
 
 Hydrogen-carbonate indicator changes colour with the carbon dioxide concentration of the air above it:
 
@@ -104,12 +119,14 @@ Hydrogen-carbonate indicator changes colour with the carbon dioxide concentratio
 5. Set up a control tube with no leaf.
 6. Keep all tubes the same distance from the lamp and at the same temperature, then compare colours after the same time.
 
+Use the no-leaf control at each illumination/temperature condition when needed to check that light or lamp heating did not change the indicator independently of the leaf.
+
 **Worked example 1: interpreting the tubes**
 
 After two hours the tubes look like this: foil-covered tube yellow; gauze-covered tube red; uncovered tube purple; no-leaf control red.
 
 - Foil: in the dark the leaf only respires. Carbon dioxide is added to the air in the tube, so the indicator turns **yellow**.
-- Gauze: respiration and photosynthesis happen at the same rate. There is no net change in carbon dioxide, so the indicator stays **red**.
+- Gauze: the indicator stays **red**, showing no detected net carbon-dioxide change over this interval. It does not prove that the instantaneous rates were exactly equal.
 - Uncovered: photosynthesis is faster than respiration. Carbon dioxide is removed, so the indicator turns **purple**.
 - Control: it stays **red**, which shows the colour changes were caused by the leaf and not by light or the tube itself.
 
@@ -121,6 +138,13 @@ Air enters through the nose and mouth and passes down the **trachea**. The trach
 
 The lungs sit inside the **ribcage**. The **intercostal muscles** run between the ribs. The **diaphragm** is a sheet of muscle that separates the thorax from the abdomen. Two **pleural membranes** line the outside of the lungs and the inside of the thorax, with a thin layer of fluid between them. The fluid reduces friction as the lungs move during breathing.
 
+<!-- marlbridge-diagram:bio-b18-pleural-membranes-thorax -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/biology/bio-b18-pleural-membranes-thorax.svg" aria-label="Open full-size diagram: bio-b18-pleural-membranes-thorax"><img src="/images/learning/biology/bio-b18-pleural-membranes-thorax.svg" width="1600" height="1000" alt="Thorax cutaway and magnified pleural space showing visceral pleura on the lung, pleural fluid, and parietal pleura lining the chest wall." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Pleural layers and fluid reduce friction as the lungs move against the thoracic wall. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:bio-b18-pleural-membranes-thorax -->
+
 ### Ventilation (2.47)
 
 Ventilation moves air in and out of the lungs. Air always moves from higher pressure to lower pressure.
@@ -131,12 +155,26 @@ Ventilation moves air in and out of the lungs. Air always moves from higher pres
 | Ribcage | Moves up and out | Moves down and in |
 | Diaphragm | Contracts and flattens | Relaxes and domes upwards |
 | Volume of thorax | Increases | Decreases |
-| Pressure inside thorax | Falls below atmospheric pressure | Rises above atmospheric pressure |
+| Alveolar (intrapulmonary) pressure | Briefly falls below atmospheric pressure as the thorax expands | Briefly rises above atmospheric pressure as thoracic volume decreases |
 | Air movement | Air is drawn in | Air is forced out |
+
+<!-- marlbridge-diagram:bio-b33-edexcel-4bi1-ventilation-pressure-changes -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/biology/bio-b33-edexcel-4bi1-ventilation-pressure-changes.svg" aria-label="Open full-size diagram: bio-b33-edexcel-4bi1-ventilation-pressure-changes"><img src="/images/learning/biology/bio-b33-edexcel-4bi1-ventilation-pressure-changes.svg" width="1528" height="871" alt="Ventilation: muscle actions change thoracic and lung volume, changing alveolar pressure relative to atmosphere; air flows down the pressure gradient." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Air movement follows the alveolar-to-atmospheric pressure gradient. Intrapleural pressure is a separate variable. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:bio-b33-edexcel-4bi1-ventilation-pressure-changes -->
+
+<!-- marlbridge-diagram:bio-b33-edexcel-4bi1-intercostal-layers -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/biology/bio-b33-edexcel-4bi1-intercostal-layers.svg" aria-label="Open full-size diagram: bio-b33-edexcel-4bi1-intercostal-layers"><img src="/images/learning/biology/bio-b33-edexcel-4bi1-intercostal-layers.svg" width="1528" height="871" alt="Intercostal muscles shown in depth between ribs, with external intercostals for inspiration and internal intercostals assisting forced expiration." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>External intercostals are nearer the skin; internal intercostals are deeper. Quiet expiration is mainly passive; internal intercostals assist forced expiration. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:bio-b33-edexcel-4bi1-intercostal-layers -->
 
 When you breathe out hard (during exercise, for example) the internal intercostal muscles also contract to pull the ribs down faster.
 
-Write the chain in order: muscles, volume, pressure, air movement.
+Write the chain in order: muscles, thoracic volume, alveolar pressure, air movement. Intrapleural pressure is a different variable; during quiet breathing it normally remains below atmospheric pressure and becomes more negative during inspiration.
 
 ### Alveoli (2.48)
 
@@ -165,10 +203,16 @@ Tobacco smoke harms both the lungs and the circulatory system.
 **Coronary heart disease.** The coronary arteries supply the heart muscle with oxygen and glucose. Smoking increases the risk that fatty deposits build up in their walls, narrowing them. A blood clot can then block a narrowed artery. The heart muscle beyond the blockage gets no oxygen, cannot respire aerobically, and may die: a heart attack. Carbon monoxide makes things worse because the blood that does reach the heart carries less oxygen.
 
 ### Practical: investigating breathing (2.50)
+<!-- marlbridge-diagram:bio-b34-edexcel-4bi1-limewater-routes -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/biology/bio-b34-edexcel-4bi1-limewater-routes.svg" aria-label="Open full-size diagram: bio-b34-edexcel-4bi1-limewater-routes"><img src="/images/learning/biology/bio-b34-edexcel-4bi1-limewater-routes.svg" width="1528" height="871" alt="Conceptual limewater apparatus compares inspired and expired air using separate one-way routes, equal reagent and a submerged inlet; a teacher-approved saliva trap and splash protection are required." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Comparing carbon dioxide in inspired and expired air. Conceptual route diagram only; use a teacher-approved protected setup.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:bio-b34-edexcel-4bi1-limewater-routes -->
 
-**Carbon dioxide release.** Air is breathed in through one tube of limewater and out through another, using a two-tube apparatus. The limewater that exhaled air bubbles through turns **cloudy (milky)** much sooner, which shows exhaled air contains more carbon dioxide. As a rough guide, inhaled air is about 21% oxygen and 0.04% carbon dioxide; exhaled air is about 16% oxygen and 4% carbon dioxide, and it is warmer and holds more water vapour.
+**Carbon dioxide release.** Compare inspired and expired air with the two one-way routes shown below. Use equal volumes and concentrations of fresh limewater, and compare clouding after the same measured total volume of air has passed through each tube. Expired air usually makes its limewater cloudy sooner because it contains more carbon dioxide; room air itself contains some CO₂. Use only a teacher-approved protected apparatus with a saliva trap and splash barrier; the diagram is conceptual and must not be treated as a complete build/safety instruction. Do not share mouthpieces. As a rough guide, inhaled air is about 21% oxygen and 0.04% carbon dioxide; exhaled air is about 16% oxygen and 4% carbon dioxide, and it is warmer and holds more water vapour.
 
-**Effect of exercise.** Count breaths per minute at rest, do a set exercise (for example, step-ups for two minutes), then count again straight away. Keep the type, length and intensity of exercise the same, and repeat to get a mean.
+**Effect of exercise.** Measure breathing rate at rest, immediately after a fixed exercise, and at set recovery times. Keep the same participant, exercise type, duration, step height/intensity, counting interval and posture; repeat trials and calculate means. This measures breathing frequency, not minute ventilation: minute ventilation also depends on tidal volume (air per breath). Do not claim ventilation has changed by the same percentage as breathing rate unless tidal volume is also measured.
 
 **Worked example 2: breathing-rate data**
 

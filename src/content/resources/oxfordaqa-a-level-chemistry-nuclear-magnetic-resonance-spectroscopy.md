@@ -115,8 +115,8 @@ Tetramethylsilane, **Si(CH₃)₄**, is added as the reference and its signal is
 be able to explain why it is suitable:
 
 - Its 12 H atoms are all equivalent, as are its 4 C atoms, so it gives **one sharp, intense signal**.
-- Its signal sits at the far right (low δ), clear of nearly every signal from organic compounds, so the
-  two **never clash**.
+- Its signal sits at the far right (low δ), well separated from most ordinary organic sample signals;
+  overlap is uncommon, though no reference signal is guaranteed to be separate from every possible sample.
 - It is **chemically inert**: the sample is left unchanged.
 - It is **volatile**: it boils off easily, so the sample can be recovered.
 
@@ -134,8 +134,10 @@ In the ¹³C spectra you meet, each carbon environment gives one line:
 - **number of lines = number of carbon environments**;
 - each line's δ shows the type of carbon.
 
-¹³C spectra are **simpler than ¹H spectra** because their lines are never split, and their δ range
-(about 0–220 ppm) is far wider than for ¹H (about 0–12 ppm), so lines rarely overlap.
+Routine broadband proton-decoupled ¹³C spectra are **simpler than ¹H spectra** because each carbon
+environment is usually shown as a singlet. Undecoupled ¹³C spectra, or spectra retaining coupling to other
+nuclei, can show splitting. The ¹³C δ range (about 0–220 ppm) is wider than for ¹H (about 0–12 ppm),
+so overlap is less common, though it can still occur.
 
 ### Worked example 1: four bromoalkanes, C₄H₉Br
 
@@ -194,9 +196,12 @@ height of 42 mm. Deduce its structure.
 
 ## Spin–spin splitting: the n+1 rule
 
-Non-equivalent H atoms on **neighbouring carbons** split a ¹H signal:
+For a simple first-order ¹H spectrum, one set of **n equivalent neighbouring protons** commonly splits
+a signal into **n + 1** peaks. This is the course-level rule for the stated aliphatic examples; signals
+affected by inequivalent coupling, exchangeable OH protons or more complex coupling may not follow a
+single total-n-plus-one pattern.
 
-> n such neighbouring H turn the signal into **n + 1** peaks.
+> n equivalent neighbouring H give an **n + 1** pattern in the simple case.
 
 | Pattern | Peaks | H on neighbouring carbons |
 |---|---|---|
@@ -209,7 +214,8 @@ You only need doublets, triplets and quartets, and only in aliphatic compounds. 
 
 - The splitting describes the **neighbours**, not the group itself.
 - **Equivalent H do not split each other**.
-- An H on a carbon whose neighbours carry no H (next to O, C=O or a carbon with no H) is a singlet.
+- In the simple first-order examples here, a proton group with no equivalent neighbouring H gives a
+  singlet. Exchangeable OH protons can broaden or behave differently depending on conditions.
 
 ### Worked example 4: two trichloroethanes
 
@@ -249,7 +255,8 @@ Deduce the structure.
 - Splitting a CH₃ that sits next to O or C=O. With no H on its neighbour it is a singlet.
 - Saying CDCl₃ is used "because it is inert". The point is that it gives **no ¹H signal**.
 - Giving "its signal is at zero" as a reason for TMS. Zero is a definition; the reasons are one intense
-  signal, no overlap, inertness and volatility.
+  signal, usually little overlap with ordinary organic samples (though not guaranteed for every sample),
+  inertness and volatility.
 
 ## Where to go next
 

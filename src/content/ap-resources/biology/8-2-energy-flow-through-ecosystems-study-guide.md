@@ -28,7 +28,7 @@ framework: { schoolYear: "2026-27", examSeries: "May 2027" }
 sources: ["ced-biology", "page-biology"]
 keyPoints:
   - "Energy flows one way: in as light (or chemical energy), out as heat. Matter cycles: atoms of carbon, nitrogen, phosphorus and water are reused again and again."
-  - "Endotherms use heat from their own metabolism to keep body temperature steady, so they need much more food than ectotherms of the same size. Ectotherms control temperature mainly by behaviour."
+  - "Endothermy and ectothermy describe the predominant source of body heat: internal metabolism or external surroundings. Body temperature can vary in endotherms and can be regulated behaviourally by ectotherms; energy demand depends on conditions and activity, not body mass alone."
   - "A net energy gain allows storage, growth and more reproduction; a net loss leads to loss of mass, less reproduction and eventually death."
   - "Only a small fraction (often about 10%) of the energy at one trophic level ends up in the next, so food chains are short and higher levels are small."
   - "Autotrophs capture energy from sunlight (photosynthesis) or from inorganic molecules (chemosynthesis). Heterotrophs get energy by eating organic matter that came from autotrophs."
@@ -56,10 +56,10 @@ Matter is different. The carbon, nitrogen, phosphorus and water in your body hav
 
 ### Endotherms and ectotherms
 
-- **Endotherms** (birds and mammals) use thermal energy released by their own metabolism to keep body temperature steady. In the cold, they raise their metabolic rate to make more heat. This costs a lot of food.
-- **Ectotherms** (most fish, amphibians, reptiles and invertebrates) do not have efficient internal ways of holding their body temperature steady. Body temperature tends to follow the surroundings. Many still regulate it **by behaviour**: basking in the sun, moving into shade, or clustering together.
+- **Endotherms** (including birds and mammals) rely predominantly on metabolic heat to warm the body. Many maintain body temperature within a relatively narrow range, though some vary it with time or conditions. In the cold, some raise metabolic heat production, which can increase energy demand.
+- **Ectotherms** (including most fish, amphibians, reptiles and invertebrates) rely predominantly on external heat sources. Their body temperature often responds to environmental conditions, but behaviour such as basking, moving into shade or clustering can regulate it and sometimes keep it relatively stable.
 
-Because an ectotherm does not pay to heat itself, it needs far less food than an endotherm of the same mass. Worked example 2 puts numbers on this.
+An ectotherm may have a lower energy demand than a similar-sized endotherm under some conditions, but the difference depends on temperature, activity, feeding and thermoregulatory strategy. Worked example 2 gives one fictional comparison, not a universal ratio.
 
 ### Energy budgets
 
@@ -94,7 +94,7 @@ A **trophic level** is a feeding position in a food chain or web.
 ### Autotrophs: where energy enters
 
 - **Photosynthetic** organisms (plants, algae, cyanobacteria) capture light energy. The rate at which they store energy in organic matter is **primary productivity**.
-- **Chemosynthetic** organisms (certain bacteria and archaea) capture energy from **small inorganic molecules** in their surroundings, such as hydrogen sulfide or ammonia. This can happen **without oxygen** and without light. Around deep-sea hydrothermal vents, whole communities depend on chemosynthetic microbes.
+- **Chemolithotrophic** organisms (certain bacteria and archaea) obtain energy by oxidising inorganic electron donors such as hydrogen sulfide or ammonia; the energy comes from redox reactions, not merely from the compounds being present. Depending on the pathway, oxygen or another electron acceptor may be used, so chemosynthesis is not always anaerobic. Some deep-sea vent communities depend on these microbes without sunlight.
 
 ### Heterotrophs: passing energy on
 
@@ -108,7 +108,7 @@ At each level, most energy does **not** become new biomass in the next level:
 - some biomass is never eaten (roots, wood, bones);
 - some eaten food is not absorbed and leaves as faeces, which goes to decomposers.
 
-On average only about **10%** passes on. This is why an **energy pyramid** always narrows upward, and why food chains rarely have more than four or five levels.
+About **10%** is a classroom rule of thumb, not a fixed transfer rate; measured efficiencies vary among ecosystems, organisms and trophic steps. Energy available per unit area and time often declines at higher trophic levels, which constrains food-chain length, but there is no universal maximum of four or five levels.
 
 <figure>
 <svg viewBox="0 0 660 300" role="img" aria-labelledby="ef-title ef-desc" xmlns="http://www.w3.org/2000/svg" font-family="system-ui, sans-serif">
@@ -156,10 +156,24 @@ On average only about **10%** passes on. This is why an **energy pyramid** alway
 A **biogeochemical cycle** moves an element or compound between **abiotic reservoirs** (air, water, rock, soil) and **biotic reservoirs** (living things). Each cycle conserves matter: atoms are moved, never made or destroyed. The cycles also depend on each other. Photosynthesis needs water and carbon dioxide, and producers can only build proteins, DNA and ATP if they have enough nitrogen and phosphorus.
 
 ### The water (hydrologic) cycle
+<!-- marlbridge-diagram:bio-b22-water-cycle -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/biology/bio-b22-water-cycle.svg" aria-label="Open full-size diagram: bio-b22-water-cycle"><img src="/images/learning/biology/bio-b22-water-cycle.svg" width="1528" height="940" alt="Water moves among the ocean, surface water, atmosphere and living organisms. Evaporation transfers liquid water to vapour; transpiration releases vapour from leaves; condensation forms cloud droplets; precipitation returns water as rain or snow." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>The figure follows the lesson’s four reservoirs and four processes. It leaves out runoff and infiltration. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:bio-b22-water-cycle -->
+
 
 Reservoirs: oceans, surface water, the atmosphere and living organisms. Processes: **evaporation** (liquid to vapour), **condensation** (vapour to droplets, forming clouds), **precipitation** (rain and snow) and **transpiration** (water vapour lost from leaves).
 
 ### The carbon cycle
+<!-- marlbridge-diagram:bio-b22-carbon-cycle -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/biology/bio-b22-carbon-cycle.svg" aria-label="Open full-size diagram: bio-b22-carbon-cycle"><img src="/images/learning/biology/bio-b22-carbon-cycle.svg" width="1528" height="940" alt="Atmospheric carbon dioxide is fixed into producer carbohydrates by photosynthesis. Consumers obtain carbon by feeding. Producers and consumers return carbon dioxide by cellular respiration. Dead matter and wastes are decomposed; decomposer respiration returns carbon dioxide. Combustion of wood and fossil fuels also returns stored carbon dioxide." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Photosynthesis removes CO₂ from the air; respiration, decomposition and combustion return it. The map follows the lesson’s four-process model. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:bio-b22-carbon-cycle -->
+
 
 Carbon moves from atmospheric CO₂ into organisms as carbohydrates and other organic molecules, and back again. At the largest scale, four processes are enough:
 
@@ -172,7 +186,7 @@ Carbon moves from atmospheric CO₂ into organisms as carbohydrates and other or
 
 ### The nitrogen cycle
 
-The largest nitrogen reservoir is the **atmosphere** (N₂ gas), but most organisms cannot use N₂ directly. Soil microorganisms carry out the conversions.
+The largest nitrogen reservoir is the **atmosphere** (N₂ gas), but most organisms cannot use N₂ directly. This figure shows a simplified **soil** cycle. Microbes mediate the conversions: bacteria are familiar examples, and archaea also contribute to nitrogen transformations. Similar processes occur in aquatic systems.
 
 <figure>
 <svg viewBox="0 0 640 380" role="img" aria-labelledby="nc-title nc-desc" xmlns="http://www.w3.org/2000/svg" font-family="system-ui, sans-serif">
@@ -209,26 +223,33 @@ The largest nitrogen reservoir is the **atmosphere** (N₂ gas), but most organi
 <text x="10" y="268" font-size="12" font-weight="600" fill="#1d2b44">③ Ammonification</text>
 <text x="10" y="284" font-size="11" fill="#1d2b44">decomposers (dashed)</text>
 </svg>
-<figcaption>Figure 2. The five steps of the nitrogen cycle, all carried out by soil microorganisms except plant uptake in assimilation. Numbers match the list below.</figcaption>
+<figcaption>Figure 2. A simplified soil nitrogen-cycle model. Microorganisms mediate the transformations; plants carry out assimilation. The pathways shown are representative, not an exhaustive list of organisms or environments. Numbers match the list below.</figcaption>
 </figure>
 
-1. **Nitrogen fixation**: bacteria convert N₂ into ammonia (NH₃), which picks up hydrogen ions from the soil solution to become **ammonium (NH₄⁺)**.
+1. **Nitrogen fixation**: nitrogen-fixing microbes, including many bacteria and some archaea, convert N₂ into ammonia (NH₃), which can become **ammonium (NH₄⁺)** in soil solution.
 2. **Assimilation**: plants take up ammonium or nitrate and build the nitrogen into amino acids, proteins and nucleic acids. Consumers get nitrogen by eating.
 3. **Ammonification**: decomposers break down dead matter and wastes, releasing ammonium.
-4. **Nitrification**: other bacteria convert ammonium to nitrite (NO₂⁻) and then nitrate (NO₃⁻).
-5. **Denitrification**: bacteria convert nitrate back to N₂, returning it to the atmosphere.
+4. **Nitrification**: ammonia-oxidizing bacteria and archaea convert ammonium/ammonia to nitrite (NO₂⁻); nitrite-oxidizing microbes then form nitrate (NO₃⁻). Some microorganisms can carry out both oxidation steps.
+5. **Denitrification**: denitrifying microorganisms (often bacteria) convert nitrate through intermediate nitrogen compounds back to N₂, returning it to the atmosphere.
 
 ### The phosphorus cycle
+<!-- marlbridge-diagram:bio-b22-phosphorus-cycle -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/biology/bio-b22-phosphorus-cycle.svg" aria-label="Open full-size diagram: bio-b22-phosphorus-cycle"><img src="/images/learning/biology/bio-b22-phosphorus-cycle.svg" width="1528" height="940" alt="Weathering releases phosphate PO4 3− from rock into soil and groundwater. Producers take it up and use phosphorus in nucleic acids, ATP and phospholipids. Consumers obtain phosphate by eating producers. Excretion and decomposition return phosphate to soil. Phosphorus has no major gaseous atmospheric reservoir; dust and aerosol transport are omitted from this simplified model." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>The simplified lesson model shows rock weathering, uptake, feeding, excretion and decomposition. Phosphorus lacks a major gaseous reservoir; dust and aerosol transport are omitted. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:bio-b22-phosphorus-cycle -->
 
-Phosphorus has no major atmospheric reservoir. **Weathering of rocks** releases **phosphate (PO₄³⁻)** into soil and groundwater. Producers take it up and build it into molecules such as nucleic acids, ATP and phospholipids. Consumers get it by eating producers. Phosphate returns to the soil through **excretion** and the **decomposition** of dead organisms. Because new phosphate only comes slowly from rock, it often limits producer growth.
+
+Phosphorus has no major **gaseous** atmospheric reservoir, although phosphate-bearing dust and aerosols can move through the air; this simplified figure omits that transport. **Weathering of rocks** releases **phosphate (PO₄³⁻)** into soil and groundwater. Producers take it up and build it into molecules such as nucleic acids, ATP and phospholipids. Consumers get it by eating producers. Phosphate returns to soil and water through **excretion** and the **decomposition** of dead organisms. Because new phosphate is released slowly from rock, it can limit producer growth.
 
 ## Changes in energy availability
 
-Energy supply sets the size of every level above it.
+Energy supply constrains the production and biomass that can be supported at higher trophic levels, but population responses depend on time, movement, stored energy and food-web interactions.
 
-- **Population size**: when food energy rises, more individuals gain net energy, breed and survive, so populations grow. When food energy falls, populations shrink.
-- **Sunlight**: less light (for example under a long period of cloud or ash) means less photosynthesis, less energy entering, and fewer or smaller trophic levels above.
-- **Producer biomass**: removing producers from an area (clearing, overgrazing, a crop failure) cuts the energy available to every consumer level. The top level is often lost first, because it was already the smallest.
+- **Population size**: a change in food energy can affect survival and reproduction, but population size may respond with a delay and also depends on immigration, emigration, stored reserves, alternative food and other feedbacks.
+- **Sunlight**: a sustained fall in light (for example under prolonged cloud or ash) can reduce photosynthesis and energy entering the food web; the size and timing of effects above producers depend on food-web links and stored resources.
+- **Producer biomass**: removing producers (through clearing, overgrazing or crop failure) can reduce energy entering the food web. Consumer production may fall, but alternative prey, imports, turnover and feedbacks can change which populations respond and when; the top trophic level is not inevitably lost first.
 
 ## Worked example 1: energy through a food chain
 
@@ -241,7 +262,7 @@ Energy supply sets the size of every level above it.
 3. Overall, only 12 ÷ 10 800 × 100 ≈ **0.11%** of producer energy reaches the tertiary level.
 4. **(c)** Producers: 10 800 × 0.70 = 7560. Assuming the same transfer efficiencies, every level falls by 30%: tertiary = 12 × 0.70 = **8.4 kJ m⁻² yr⁻¹**.
 
-**Interpretation.** A fifth level would receive roughly 10% of 12, about 1 kJ m⁻² yr⁻¹, too little to support a population. That is why chains are short. The 30% fall in sunlight-driven production may push the tertiary population below a viable size: the top level is the most vulnerable. In reality, consumers might switch prey, so the efficiencies could change.
+**Interpretation.** If the same approximate transfer continued, a hypothetical fifth level would receive roughly 1 kJ m⁻² yr⁻¹ in this example. That number alone cannot show whether a population could persist: area, body size, energy demand, turnover and imports also matter. The example illustrates how low transfer can constrain higher levels, not a fixed maximum chain length. A 30% fall in producer production gives 8.4 kJ m⁻² yr⁻¹ at tertiary consumers only under the stated unchanged-efficiency assumption; food-web responses could alter that result.
 
 ## Worked example 2: the cost of being warm
 
@@ -251,7 +272,7 @@ Energy supply sets the size of every level above it.
 
 1. **Mouse oxygen per day:** 3.6 × 20 g × 24 h = 1728 mL. Energy: 1728 × 20 J = 34 560 J = **34.6 kJ per day**. Food: 34.56 ÷ 17 = **2.0 g per day**.
 2. **Lizard oxygen per day:** 0.20 × 20 × 24 = 96 mL. Energy: 96 × 20 = 1920 J = **1.92 kJ per day**. Food: 1.92 ÷ 17 = **0.11 g per day**.
-3. The mouse uses 3.6 ÷ 0.20 = **18 times** as much energy, because it is generating heat to keep its body near 37 °C.
+3. In these fictional oxygen-use values, the mouse uses 3.6 ÷ 0.20 = **18 times** as much energy as the lizard at 20 °C. This is a model-specific comparison, not a universal food-demand ratio; activity, body size, temperature, feeding and thermoregulation also affect real energy budgets.
 4. **(b) Lizard:** 0.5 × 17 = 8.5 kJ taken in, 1.92 kJ used: a net gain of about **6.6 kJ per day**, available for storage, growth and reproduction.
 5. **Mouse:** 1.5 × 17 = 25.5 kJ taken in, 34.56 kJ used: a net loss of about **9.1 kJ per day**. It will use fat stores, lose mass and, if this continues, stop breeding and eventually die.
 
@@ -263,7 +284,7 @@ Energy supply sets the size of every level above it.
 - **"Ninety percent of energy is wasted as heat."** Heat is a large part, but some energy is also in uneaten biomass and faeces, which feed decomposers.
 - **"Ectotherms cannot control their temperature at all."** They regulate it by behaviour, such as basking or seeking shade.
 - **"Decomposers are not part of the food web."** They are a trophic role that receives energy from every level and releases nutrients.
-- **"Plants get nitrogen from the air."** Plants absorb ammonium and nitrate from the soil. Only certain bacteria fix N₂.
+- **"Plants get nitrogen from the air."** Plants usually absorb nitrogen as ammonium or nitrate. Nitrogen fixation is carried out by particular microorganisms, including bacteria and some archaea.
 - **"All producers need sunlight."** Chemosynthetic autotrophs use energy from inorganic molecules, even in darkness.
 - **"Phosphorus cycles through the atmosphere like carbon."** It has no major gas phase; it moves from rock to soil, organisms and back.
 

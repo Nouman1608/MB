@@ -145,7 +145,7 @@ The two enantiomers turn the plane of polarisation through equal angles but in o
 
 ### How racemates form
 
-A racemate forms when a reaction creates a new chiral centre at a carbon that was **planar** in the reactant or in an intermediate. The attacking species can approach either face of the planar carbon, and each face is **equally likely** to be attacked. Attack on one face gives one enantiomer and attack on the other face gives the other, so they form in equal amounts.
+For an achiral starting system under achiral, non-enantioselective conditions, equivalent faces of a planar group can be attacked equally. If this forms one new chiral centre, equal amounts of the two enantiomers give a racemate. A chiral reagent, catalyst or pre-existing chiral environment can favour one face, so planarity alone does not guarantee equal amounts.
 
 You meet two such reactions in this course.
 

@@ -50,6 +50,14 @@ In scope, the numerator is constant or linear and the denominator is made of lin
 
 ### Method in four steps
 
+<!-- marlbridge-diagram:maths-aqa-partial-fractions-substitution-check -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/mathematics/maths-aqa-partial-fractions-substitution-check.svg" aria-label="Open full-size diagram: maths-aqa-partial-fractions-substitution-check"><img src="/images/learning/mathematics/maths-aqa-partial-fractions-substitution-check.svg" width="1600" height="1050" alt="The source expression is decomposed by clearing denominators, substituting x=3 and x=−2, and recombining to verify coefficients A=5 and B=3." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>The source expression is decomposed by clearing denominators, substituting x=3 and x=−2, and recombining to verify coefficients A=5 and B=3. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:maths-aqa-partial-fractions-substitution-check -->
+
+
 1. Factorise the denominator fully.
 2. Write the form from the table with unknown constants.
 3. Multiply both sides by the denominator, giving an identity (≡) with no fractions.

@@ -77,6 +77,14 @@ Compare xₙ₊₁ = 2xₙ − 3, x₁ = 5: 5, 7, 11, 19, 35, ... The terms incr
 
 ## Sigma notation (1.04g)
 
+<!-- marlbridge-diagram:math-b71-sigma-notation-bounds-and-sum -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/public/images/learning/mathematics/math-b71-sigma-notation-bounds-and-sum.svg" aria-label="Open full-size diagram: math-b71-sigma-notation-bounds-and-sum"><img src="/public/images/learning/mathematics/math-b71-sigma-notation-bounds-and-sum.svg" width="1528" height="940" alt="For Σ(5r−3), r=4,…,12, there are 9 terms from 17 to 57, so the arithmetic sum is 9/2(17+57)=333. The source also matches 3+7+…+27 to Σ(4r−1), r=1,…,7." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>For Σ(5r−3), r=4,…,12, there are 9 terms from 17 to 57, so the arithmetic sum is 9/2(17+57)=333. The source also matches 3+7+…+27 to Σ(4r−1), r=1,…,7. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:math-b71-sigma-notation-bounds-and-sum -->
+
+
 Σ means "add up". The expression below reads: add the values of f(r) for r = m, m + 1, ..., k.
 
 ```
@@ -213,6 +221,14 @@ n > 7.08...
 Check: after 7 years the amount is £9973.51 and after 8 years it is £10 292.66. The answer is **8 years**. Dividing by ln 1.032 keeps the inequality direction because ln 1.032 is positive. If the ratio were below 1, the log would be negative and the inequality would reverse.
 
 ### Worked example 12: a loan
+
+<!-- marlbridge-diagram:maths-b38-loan-recurrence-payoff -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/mathematics/maths-b38-loan-recurrence-payoff.svg" aria-label="Open full-size diagram: maths-b38-loan-recurrence-payoff"><img src="/images/learning/mathematics/maths-b38-loan-recurrence-payoff.svg" width="1600" height="1050" alt="The balance follows B₀=£15,000 and Bₙ₊₁=1.04Bₙ−£2,400, giving Bₙ=60,000−45,000(1.04)ⁿ. The debt-clearing threshold gives n≥7.33, so eight payment dates are needed. After seven payments £783.07 remains; after interest £814.39 is due, which is the reduced final payment." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>The balance follows B₀=£15,000 and Bₙ₊₁=1.04Bₙ−£2,400, giving Bₙ=60,000−45,000(1.04)ⁿ. The debt-clearing threshold gives n≥7.33, so eight payment dates are needed. After seven payments £783.07 remains; after interest £814.39 is due, which is the reduced final payment. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:maths-b38-loan-recurrence-payoff -->
+
 
 £15 000 is borrowed at 4% a year. A payment of £2400 is made at the end of each year after interest is added. Let Bₙ be the amount owed after n payments.
 

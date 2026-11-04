@@ -47,6 +47,14 @@ Related pages: [revision notes](/resources/cambridge-o-level-mathematics-statist
 
 ## 9.1 Classifying and tabulating data
 
+<!-- marlbridge-diagram:maths-b17-statistics-data-summary -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/mathematics/maths-b17-statistics-data-summary.svg" aria-label="Open full-size diagram: maths-b17-statistics-data-summary"><img src="/images/learning/mathematics/maths-b17-statistics-data-summary.svg" width="1600" height="1050" alt="A three-step map matches categorical, discrete and continuous data with appropriate displays and summaries; grouped means use class midpoints." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>A three-step map matches categorical, discrete and continuous data with appropriate displays and summaries; grouped means use class midpoints. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:maths-b17-statistics-data-summary -->
+
+
 Data is either **categorical** (described in words, such as colour or transport type) or **numerical**. Numerical data is **discrete** if it can only take separate values (number of goals, shoe size) and **continuous** if it can take any value in a range (time, mass, length). The type of data decides which table and chart suit it.
 
 A **tally table** records raw data as strokes in groups of five. You then count each row to get a **frequency**. A **two-way table** classifies each item by two features at once, and its row and column totals must agree.

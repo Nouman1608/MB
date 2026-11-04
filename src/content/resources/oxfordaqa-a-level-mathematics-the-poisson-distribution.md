@@ -60,6 +60,14 @@ The values of e^(−λ) come from a calculator. The specification names this ski
 
 ### Worked example 1: using the formula
 
+<!-- marlbridge-diagram:math-b43-oxfordaqa-poisson-lambda-1-8-probabilities -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/mathematics/math-b43-oxfordaqa-poisson-lambda-1-8-probabilities.svg" aria-label="Open full-size diagram: math-b43-oxfordaqa-poisson-lambda-1-8-probabilities"><img src="/images/learning/mathematics/math-b43-oxfordaqa-poisson-lambda-1-8-probabilities.svg" width="1600" height="1050" alt="Poisson distribution: probability bars for a mean of 1.8" loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Poisson distribution: probability bars for a mean of 1.8 Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:math-b43-oxfordaqa-poisson-lambda-1-8-probabilities -->
+
+
 Typing errors in a printed report occur at random, independently, at a mean rate of 1.8 per page. Let X be the number of errors on one page. Find (a) P(X = 0), (b) P(X = 2), (c) P(X ≥ 1).
 
 ```
@@ -162,6 +170,14 @@ If X ~ Po(a) and Y ~ Po(b) are independent, then X + Y ~ Po(a + b). You use this
 This is also the reason rates scale with the interval in section 3. A count over 3 days is the sum of three daily counts.
 
 ### Worked example 6
+
+<!-- marlbridge-diagram:math-b64-oxfordaqa-poisson-independent-sum-faults -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/public/images/learning/mathematics/math-b64-oxfordaqa-poisson-independent-sum-faults.svg" aria-label="Open full-size diagram: math-b64-oxfordaqa-poisson-independent-sum-faults"><img src="/public/images/learning/mathematics/math-b64-oxfordaqa-poisson-independent-sum-faults.svg" width="1528" height="940" alt="Two independent sensor sets with Poisson rates 1.4 and 2.2 per day feed into a total Poisson rate 3.6; the chance of exactly five faults is 0.1377." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Two independent sensor sets with Poisson rates 1.4 and 2.2 per day feed into a total Poisson rate 3.6; the chance of exactly five faults is 0.1377.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:math-b64-oxfordaqa-poisson-independent-sum-faults -->
+
 
 Two independent sets of sensors detect faults. Faults in set A per day follow Po(1.4) and faults in set B per day follow Po(2.2). Find the probability that the total number of faults in one day is exactly 5.
 

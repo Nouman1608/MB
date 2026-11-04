@@ -58,6 +58,14 @@ series
 
 ## How to approach it
 
+<!-- marlbridge-diagram:maths-oxfordaqa-p1-concept-map -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/mathematics/maths-oxfordaqa-p1-concept-map.svg" aria-label="Open full-size diagram: maths-oxfordaqa-p1-concept-map"><img src="/images/learning/mathematics/maths-oxfordaqa-p1-concept-map.svg" width="1600" height="1050" alt="The concept map shows P1.1 algebra as the foundation, then the other P1 strands; it explicitly separates circle geometry and trigonometry as Unit PSM1 content." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>The concept map shows P1.1 algebra as the foundation, then the other P1 strands; it explicitly separates circle geometry and trigonometry as Unit PSM1 content. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:maths-oxfordaqa-p1-concept-map -->
+
+
 Algebra (P1.1) underpins every other sub-topic in this unit, so
 fluency here determines how quickly the rest of Unit P1 comes
 together. Differentiation and integration (P1.3-P1.4) are best learned

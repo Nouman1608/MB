@@ -151,6 +151,14 @@ So y = 5x/2 − 17/2. The gradient is the ratio of the direction components, 5/2
 
 ## Intersection, parallel and skew lines
 
+<!-- marlbridge-diagram:math-b62-oxfordaqa-3d-skew-lines-third-component-check -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/public/images/learning/mathematics/math-b62-oxfordaqa-3d-skew-lines-third-component-check.svg" aria-label="Open full-size diagram: math-b62-oxfordaqa-3d-skew-lines-third-component-check"><img src="/public/images/learning/mathematics/math-b62-oxfordaqa-3d-skew-lines-third-component-check.svg" width="1528" height="940" alt="An isometric 3D sketch shows two non-parallel lines with separate candidate points at the same x and y but z=−4 and z=2; this confirms the lines are skew." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>An isometric 3D sketch shows two non-parallel lines with separate candidate points at the same x and y but z=−4 and z=2; this confirms the lines are skew.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:math-b62-oxfordaqa-3d-skew-lines-third-component-check -->
+
+
 Take two lines r = a₁ + s b₁ and r = a₂ + t b₂. Use a different letter for each parameter, because the two lines reach the point at different parameter values.
 
 **Step 1.** Compare the direction vectors.

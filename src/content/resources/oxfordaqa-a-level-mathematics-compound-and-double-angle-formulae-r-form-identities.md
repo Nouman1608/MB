@@ -185,6 +185,14 @@ In every case r = √(a² + b²). Pick the form whose matching gives positive nu
 
 ### Worked example 9: finding r and α
 
+<!-- marlbridge-diagram:math-b41-r-form-find-r-and-alpha -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/mathematics/math-b41-r-form-find-r-and-alpha.svg" aria-label="Open full-size diagram: math-b41-r-form-find-r-and-alpha"><img src="/images/learning/mathematics/math-b41-r-form-find-r-and-alpha.svg" width="1600" height="1050" alt="Matching coefficients in r sin(θ−α) gives r cos α=3 and r sin α=8. Therefore r=√73 and α=arctan(8/3)≈69.4°, so the expression is √73 sin(θ−69.4°)." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Matching coefficients in r sin(θ−α) gives r cos α=3 and r sin α=8. Therefore r=√73 and α=arctan(8/3)≈69.4°, so the expression is √73 sin(θ−69.4°). Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:math-b41-r-form-find-r-and-alpha -->
+
+
 Express 3 sin θ − 8 cos θ in the form r sin(θ − α).
 
 Expand r sin(θ − α) = r cos α sin θ − r sin α cos θ. So r cos α = 3 and r sin α = 8.

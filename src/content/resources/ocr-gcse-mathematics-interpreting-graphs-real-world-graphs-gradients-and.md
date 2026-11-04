@@ -198,6 +198,14 @@ Tangent estimates depend on careful drawing. Show the two points you used.
 
 ## 4. Areas under graphs (7.04c, Higher tier only)
 
+<!-- marlbridge-diagram:math-b40-ocr-j560-velocity-time-distance-area -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/mathematics/math-b40-ocr-j560-velocity-time-distance-area.svg" aria-label="Open full-size diagram: math-b40-ocr-j560-velocity-time-distance-area"><img src="/images/learning/mathematics/math-b40-ocr-j560-velocity-time-distance-area.svg" width="1600" height="1050" alt="Velocity–time graph: gradients and distance from area" loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Velocity–time graph: gradients and distance from area Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:math-b40-ocr-j560-velocity-time-distance-area -->
+
+
 The area under a graph is (vertical quantity) × (horizontal quantity), so its units are the product of the axis units.
 
 | Graph | Area represents |
@@ -228,6 +236,14 @@ Total takings = 60 + 180 + 120 = £360.
 ```
 
 ### Estimating the area under a curve (Higher tier only)
+
+<!-- marlbridge-diagram:math-b80-ocr-trapezoidal-curve-area -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/mathematics/math-b80-ocr-trapezoidal-curve-area.svg" aria-label="Open full-size diagram: math-b80-ocr-trapezoidal-curve-area"><img src="/images/learning/mathematics/math-b80-ocr-trapezoidal-curve-area.svg" width="1528" height="940" alt="Four trapezia of width 3 s approximate the area beneath the concave velocity curve; the given table gives estimate 125.1 m, an underestimate." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Four trapezia of width 3 s approximate the area beneath the concave velocity curve; the given table gives estimate 125.1 m, an underestimate.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:math-b80-ocr-trapezoidal-curve-area -->
+
 
 Split the area into vertical strips and treat each as a trapezium. Use the table from example 9 with strips of width 3 s.
 

@@ -103,6 +103,14 @@ treating one as universally "better."
 
 ## 3.3 Marketing mix
 
+<!-- marlbridge-diagram:business-igcse-product-life-cycle-and-marketing-mix -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/business/business-igcse-product-life-cycle-and-marketing-mix.svg" aria-label="Open full-size diagram: business-igcse-product-life-cycle-and-marketing-mix"><img src="/images/learning/business/business-igcse-product-life-cycle-and-marketing-mix.svg" width="1600" height="1050" alt="Schematic product life cycle with the four Ps shown as connected decisions that may change by stage." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Schematic product life cycle with the four Ps shown as connected decisions that may change by stage. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:business-igcse-product-life-cycle-and-marketing-mix -->
+
+
 The marketing mix -- the four Ps -- is the centrepiece of this topic
 and the most heavily examined sub-topic in Marketing.
 

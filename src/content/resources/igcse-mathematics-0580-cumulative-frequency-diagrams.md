@@ -134,6 +134,14 @@ The quartiles are special percentiles: the lower quartile is the 25th percentile
 
 ### Worked example 3
 
+<!-- marlbridge-diagram:maths-b29-cumulative-frequency-percentile-reads -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/mathematics/maths-b29-cumulative-frequency-percentile-reads.svg" aria-label="Open full-size diagram: maths-b29-cumulative-frequency-percentile-reads"><img src="/images/learning/mathematics/maths-b29-cumulative-frequency-percentile-reads.svg" width="1600" height="1050" alt="For 120 students, the 10th percentile is at cumulative frequency 12 and reads about 14 minutes. The 90th percentile is at 108 and reads about 47 minutes; this identifies the slowest 10%." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>For 120 students, the 10th percentile is at cumulative frequency 12 and reads about 14 minutes. The 90th percentile is at 108 and reads about 47 minutes; this identifies the slowest 10%. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:maths-b29-cumulative-frequency-percentile-reads -->
+
+
 The school gives a certificate to the fastest 10% of students, and extra coaching to the slowest 10%. Using the curve with n = 120, estimate the time limits for each.
 
 ```

@@ -196,6 +196,13 @@ Note that the answer contains a rational part and a surd part. This **a + b√c*
 
 ## Rationalising the denominator
 
+<!-- marlbridge-diagram:maths-aqa-rational-indices-surds-map -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/mathematics/maths-aqa-rational-indices-surds-map.svg" aria-label="Open full-size diagram: maths-aqa-rational-indices-surds-map"><img src="/images/learning/mathematics/maths-aqa-rational-indices-surds-map.svg" width="1600" height="1050" alt="A compact concept map links fractional and negative indices with surd rules, exact simplification and rationalising simple and binomial denominators." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>A compact concept map links fractional and negative indices with surd rules, exact simplification and rationalising simple and binomial denominators. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:maths-aqa-rational-indices-surds-map -->
+
 To rationalise means to remove the surd from the denominator. Multiply the top and bottom by the same quantity. That is multiplying by 1, so the value does not change.
 
 ### Simple form: k/√a

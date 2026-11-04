@@ -29,8 +29,8 @@ framework: { schoolYear: "2026-27", examSeries: "May 2027" }
 sources: ["ced-physics-2", "clar-physics-2", "page-physics-2"]
 keyPoints:
   - "At a boundary between two media, a wave is partly reflected and partly transmitted."
-  - "If the wave slows down in the new medium, the reflected pulse is inverted. If it speeds up, the reflected pulse is upright."
-  - "The transmitted pulse is never inverted."
+  - "For transverse displacement pulses on two joined strings at the same tension, a slower second string gives an inverted reflection and a faster second string an upright reflection."
+  - "In the equal-tension string displacement model shown here, the transmitted pulse is upright."
   - "Frequency does not change at a boundary. The wavelength changes in proportion to the speed: λ₂/λ₁ = v₂/v₁."
   - "Only transverse waves can be polarized. Polarizing a wave usually reduces its intensity."
   - "Intensity is average power per unit area: I = P/A, in W/m²."
@@ -57,7 +57,7 @@ When a pulse reaches the boundary, two things usually happen at once:
 - part of the pulse is **reflected**: it travels back into the first medium;
 - part of the pulse is **transmitted**: it carries on into the second medium.
 
-The incident energy is shared between the two new pulses. So each of them carries less energy than the original pulse, and each has a smaller amplitude. How the energy is shared depends on the two media. The more different they are, the larger the share that is reflected. If the two media are identical, there is no real boundary and everything is transmitted.
+The incident energy is shared between the two new pulses. Energy conservation constrains the combined reflected and transmitted energy. The displacement amplitudes also depend on the impedances of the two strings; they need not both be smaller than the incident displacement amplitude. How the energy is shared depends on the two media. The more different they are, the larger the share that is reflected. If the two media are identical, there is no real boundary and everything is transmitted.
 
 Two limiting cases are worth knowing:
 
@@ -68,14 +68,14 @@ These are the extreme versions of "a much slower medium" and "a much faster medi
 
 ## Inverted or upright? Follow the speed
 
-The reflected pulse may come back the same way up as the incident pulse, or upside down. The deciding quantity is the **wave speed** on each side of the boundary.
+The reflected pulse may come back the same way up as the incident pulse, or upside down. For a transverse displacement pulse on two joined strings under equal tension, the deciding quantity is the **wave speed** on each side. This speed-only table is not a rule for every wave variable or interface.
 
-| Wave goes into a medium where its speed… | Reflected pulse | Transmitted pulse |
+| Wave goes into a string where its speed… | Reflected string displacement | Transmitted string displacement |
 |---|---|---|
 | decreases (for example light string → heavy string) | **inverted** | upright |
 | increases (for example heavy string → light string) | upright | upright |
 
-Notice the last column. The **transmitted pulse is never inverted**. The knot is pulled up by the incident pulse, so it pulls the second string up too.
+For this equal-tension string-displacement model, the **transmitted pulse is upright**: the knot is pulled up by the incident pulse, so it pulls the second string up too. Do not generalise that sign rule to sound pressure or electromagnetic fields.
 
 For strings, the speed comes from v = √(F_T/μ), where F_T is the tension and μ is the mass per unit length. Two strings tied together share the same tension, so the string with the larger μ is the slower one. A pulse going from light to heavy slows down, so its reflection is inverted.
 
@@ -107,7 +107,7 @@ For strings, the speed comes from v = √(F_T/μ), where F_T is the tension and 
 <figcaption>Figure 1. A pulse travels from a light string (thin line) into a heavy string (thick line) under the same tension. The wave slows down at the knot, so the reflected pulse is inverted. The transmitted pulse is upright and narrower, because it moves more slowly but takes the same time to pass a point.</figcaption>
 </figure>
 
-The same ideas apply to any wave. Sound passing from air into water, and light passing from air into glass, are both partly reflected and partly transmitted at the surface.
+Reflection and transmission also occur for sound and light, but the phase and amplitude rules depend on the relevant impedance, field variable and interface conditions. The speed-only inversion rule above is specifically the equal-tension string displacement result.
 
 ## Frequency stays the same; wavelength changes
 
@@ -128,14 +128,19 @@ The period T = 1/f does not change either. A single pulse takes the same time to
 
 In a transverse wave the disturbance is perpendicular to the direction of travel. But "perpendicular" still leaves a choice. Picture a long rope along the x-axis. You can shake it up and down (along y), side to side (along z), or in any direction in between.
 
-- A wave whose disturbance stays in **one direction** (so the rope moves in a single plane) is **polarized**. The direction of the disturbance is its **polarization direction**.
-- A wave whose disturbance keeps changing direction at random is **unpolarized**. Light from a hot filament or a flame is unpolarized.
+- A transverse wave whose disturbance oscillates along one fixed direction is **linearly polarized**; that direction is its **polarization direction**. Circularly and elliptically polarized waves have a changing transverse direction, so “polarized” is broader than “fixed in one direction.”
+- Light described as **unpolarized** has no stable preferred polarization direction over the averaging interval; ordinary sources such as a hot filament are often modelled this way.
 
-Now pass the rope through a narrow vertical slot. Up-and-down motion goes through the slot. Side-to-side motion is stopped. Whatever the rope was doing before, it moves only up and down after the slot: the slot has **polarized** the wave.
+Now pass the rope through a narrow vertical slot. Up-and-down motion goes through the slot. Side-to-side motion is stopped. Whatever the rope was doing before, it moves only up and down after the slot: the slot has **polarized** the wave. The light-filter discussion here uses an **ideal linear polarizer**; it does not model circular or elliptical analyzers.
 
 A **longitudinal** wave cannot be polarized. Its disturbance is along the direction of travel, so there is no sideways direction for a slot to pick out. Turning a slot in front of a loudspeaker makes no difference to what you hear. This gives a useful test. If rotating a filter changes how much of a wave gets through, the wave must be transverse. Light passes this test, so light is a transverse wave (Topic 14.4 shows what is oscillating).
 
 ### Three ways to polarize a wave
+
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <img src="/images/learning/physics/phys2-b21-polarisation-reflection-refraction.svg" width="1600" height="1050" alt="Schematic reflection and refraction in the plane of incidence, with E_p in the page, E_s out of the page, and angle-dependent partial polarisation." loading="lazy" decoding="async" style="display:block;width:100%;height:auto;" />
+  <figcaption>The page is the plane of incidence: E_p lies in the page perpendicular to each ray, while E_s is out of the page. Reflection and refraction may be partially polarised; the component fractions depend on angle and refractive indices, and no special Brewster angle is asserted.</figcaption>
+</figure>
 
 1. **Passing through a filter with a preferred direction.** A polarizing filter lets through the part of the wave oscillating along its **transmission axis** and blocks the part at right angles to it. This is the light version of the slot.
 2. **Reflection.** Light reflected from a flat surface such as water, a wet road or a glass window is partly polarized, mostly parallel to the surface. For a horizontal surface, the glare is mostly horizontally polarized. Sunglasses with a vertical transmission axis block much of that glare.
@@ -222,7 +227,7 @@ At angles in between, part of polarized light gets through: the closer the axis 
 
 - **"The frequency changes at a boundary."** The frequency is fixed by the source. The speed and the wavelength change; f and T do not.
 - **"The transmitted pulse can be inverted."** Only the reflected pulse can flip. The transmitted pulse is always upright.
-- **"Heavier always means inverted" without a reason.** The real rule is about speed. For strings at the same tension, heavier means slower, so it works there. For other waves, look at the speeds.
+- **"Heavier always means inverted" without a reason.** For transverse displacements on joined strings at the same tension, the heavier string is slower and has higher wave impedance, so the reflection is inverted. For other waves, use the appropriate impedance and measured field variable rather than speed alone.
 - **"The reflected pulse travels at a new speed."** The reflected pulse is back in the first medium, so it has the first medium's speed and its original width.
 - **"All of the wave is reflected (or all transmitted)."** At a real boundary between two media you usually get both. All of the wave is reflected only in special cases, such as a fixed or free end, or total internal reflection of light (Topic 13.3).
 - **"Sound can be polarized by a slit."** Sound is longitudinal, so it cannot be polarized. A slit may change how sound spreads, but that is diffraction, not polarization.

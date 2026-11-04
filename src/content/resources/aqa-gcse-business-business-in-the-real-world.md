@@ -124,6 +124,14 @@ profit in exchange for more sustainable sourcing.
 
 ## Business planning in more depth
 
+<!-- marlbridge-diagram:business-aqa-gcse-business-plan-financial-forecast -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/business/business-aqa-gcse-business-plan-financial-forecast.svg" aria-label="Open full-size diagram: business-aqa-gcse-business-plan-financial-forecast"><img src="/images/learning/business/business-aqa-gcse-business-plan-financial-forecast.svg" width="1600" height="1050" alt="Business plan flow from business idea and target market through objectives to forecasts, with the lesson’s £200 weekly profit example." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Business plan: connect the idea to financial viability Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:business-aqa-gcse-business-plan-financial-forecast -->
+
+
 3.1.6 covers why entrepreneurs write business plans and what a plan
 typically contains: a description of the business idea, its target
 market, how it will be marketed, its objectives, and financial

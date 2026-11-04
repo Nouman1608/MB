@@ -11,7 +11,7 @@ prerequisites:
   - "Setting up an ICE table and solving for x (Topic 7.7)"
 prerequisiteResources: ["mb-ap-chem-8.2-study-guide"]
 learningObjectives:
-  - "Explain why only a small fraction of a weak acid or weak base ionizes, and rank the concentrations of all species in its solution"
+  - "Explain how the ionized fraction of a weak acid or weak base depends on K and analytical concentration, and rank species for a specified solution"
   - "Write K_a and K_b expressions and convert between K and pK"
   - "Calculate the pH of a weak acid or weak base solution from its initial concentration and K_a, pK_a, K_b or pK_b"
   - "Calculate percent ionization from K and concentration, or from a measured pH, and explain how it changes on dilution"
@@ -27,7 +27,7 @@ next: "mb-ap-chem-8.3-practice"
 framework: { schoolYear: "2026-27", examSeries: "May 2027" }
 sources: ["ced-chemistry", "page-chemistry"]
 keyPoints:
-  - "A weak acid ionizes only slightly: [H₃O⁺] is much smaller than the starting acid concentration, and most HA molecules stay intact."
+  - "For a weak acid at a specified concentration, calculate the degree of ionization from K_a; common concentrations may be only slightly ionized, while sufficiently dilute solutions can have a substantial ionized fraction."
   - "K_a = [H₃O⁺][A⁻] / [HA] and K_b = [OH⁻][HB⁺] / [B]. A smaller K (larger pK) means a weaker acid or base."
   - "For a weak acid, x = [H₃O⁺] ≈ √(K_a × c) when x is under about 5% of c. For a weak base the same method gives [OH⁻]; then convert pOH to pH."
   - "Percent ionization = (x ÷ c) × 100%. It rises when the solution is diluted, although [H₃O⁺] falls."
@@ -52,11 +52,13 @@ In [Topic 8.2](/advanced-course-resources/chemistry/8-2-ph-poh-strong-acids-base
 
 HA(aq) + H₂O(l) ⇌ H₃O⁺(aq) + A⁻(aq)
 
-but the reaction reaches equilibrium when only a small percentage of the HA molecules have reacted. Three things follow:
+but its degree of ionization is set by both the acid ionization constant and the analytical concentration. In the ordinary examples where the concentration is large compared with K_a, only a small percentage ionizes:
 
-- [H₃O⁺] is **much less** than the starting concentration of HA.
-- Almost all of the acid is still present as un-ionized HA molecules.
-- The solution is an equilibrium mixture of HA and its conjugate base A⁻, so you need an equilibrium constant to find the pH.
+- [H₃O⁺] is then much less than the starting concentration of HA.
+- Most acid remains as un-ionized HA.
+- The equilibrium contains HA and its conjugate base A⁻, so its pH is found from an equilibrium calculation.
+
+These small-ionization statements are approximations to check, not a definition that holds at every dilution. A weak acid can become substantially ionized when sufficiently dilute.
 
 That constant is the **acid ionization constant**, K_a. Water is the solvent, so it is left out:
 

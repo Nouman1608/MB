@@ -93,6 +93,14 @@ have been developed and are specified alongside it.
 
 ## Worked example: identifying a recession from data
 
+<!-- marlbridge-diagram:economics-gdp-measurement-recession -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/economics/economics-gdp-measurement-recession.svg" aria-label="Open full-size diagram: economics-gdp-measurement-recession"><img src="/images/learning/economics/economics-gdp-measurement-recession.svg" width="1600" height="1050" alt="GDP measure comparisons and quarterly data showing recession defined as two consecutive quarters of negative growth." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Choose GDP measures carefully and apply the stated recession definition. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:economics-gdp-measurement-recession -->
+
+
 A country's real GDP growth rate is reported as +0.5% in Q1, −0.3% in
 Q2, and −0.6% in Q3 of the same year. Has the country entered a
 recession, and when?

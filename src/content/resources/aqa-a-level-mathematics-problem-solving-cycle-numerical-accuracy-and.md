@@ -78,6 +78,14 @@ A diagram does two jobs: it lets you extract information from a description, and
 
 ### Worked example 2: a bearings diagram
 
+<!-- marlbridge-diagram:maths-aqa-problem-solving-bearings-diagram-checks -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/mathematics/maths-aqa-problem-solving-bearings-diagram-checks.svg" aria-label="Open full-size diagram: maths-aqa-problem-solving-bearings-diagram-checks"><img src="/images/learning/mathematics/maths-aqa-problem-solving-bearings-diagram-checks.svg" width="1600" height="1050" alt="A schematic bearings illustration marks north, the clockwise angle and points A/B/C, paired with a structured modeling checklist." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>A schematic bearings illustration marks north, the clockwise angle and points A/B/C, paired with a structured modeling checklist. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:maths-aqa-problem-solving-bearings-diagram-checks -->
+
+
 A boat sails 11 km on a bearing of 035°, then 8 km on a bearing of 120°. Find its distance and bearing from the start.
 
 ```

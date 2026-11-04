@@ -49,13 +49,13 @@ author: "marlbridge-academic-team"
 
 ## Energy per coulomb
 
-In Topic 10.4 you found the electric potential energy U_E of a *system* of charges. That number depends on every charge in the system, including the one you just placed. It is useful to separate the two parts: what the fixed charges do to a point in space, and how much charge you put there.
+In Topic 10.4 you found the electric potential energy of a system of charges. To define the potential due to fixed source charges, separate the interaction energy added by a test charge q from any source–source energy already present. With the course reference V = 0 at infinity, the potential at a point is the change in electric potential energy per unit test charge when q is brought from infinity to that point.
 
-The **electric potential V** at a point is the electric potential energy per unit charge that a small test charge q would have at that point:
+The **electric potential V** at a point is the interaction energy between a small test charge q and the fixed source configuration, per unit test charge:
 
 **V = U_E / q**
 
-The unit is the **volt**: 1 V = 1 J/C. V is a property of the point, set by the charges around it. It does not depend on the test charge. Put a charge q at a point of potential V and the system's potential energy is U_E = qV.
+The unit is the **volt**: 1 V = 1 J/C. For fixed sources, V is a property of the point and does not depend on q. Adding a test charge q changes the system's interaction energy by ΔU_int = qV; the total energy of the assembly can also include the unchanged source–source energy.
 
 Two things to keep straight:
 
@@ -90,7 +90,7 @@ So when a charge q moves from A to B, the electric potential energy of the syste
 
 Watch the signs. A positive charge that moves to a lower potential (ΔV < 0) loses potential energy, because qΔV < 0. A negative charge that moves to a *higher* potential also loses potential energy: now q < 0 and ΔV > 0, so again qΔV < 0. Put the signs of both q and ΔV into the product every time, rather than relying on a rule you half remember.
 
-When ΔU_E < 0, the field does positive work on the charge, and the charge speeds up if nothing else acts on it. Positive charges, left alone, move toward lower potential. Negative charges move toward higher potential. (Topic 10.7 turns this into an energy calculation.)
+When ΔU_E < 0, the electric force does positive work on the charge. If released from rest and no other forces or energy transfers act, it initially accelerates in the direction of that force and gains kinetic energy. A charge already moving can initially move toward higher potential energy while slowing down. Thus the lower-potential direction for a positive charge and higher-potential direction for a negative charge describe the force direction, not the full motion of every charge.
 
 ### Batteries
 
@@ -223,7 +223,7 @@ A map of isolines tells you how a charged particle released at rest will start t
 - **"V = 0 means E = 0" (or the reverse).** Halfway between +q and −q, V = 0 but E is not. Inside a charged conducting shell, E = 0 but V is not zero; it equals the surface potential.
 - **Confusing V and U_E.** V is per coulomb and belongs to a point. U_E = qV belongs to the system and depends on the charge you place there.
 - **"Conductors in contact share charge equally."** They reach equal *potential*. A sphere of radius 0.10 m at 900 V holds kQ/R → Q = 1.0 × 10⁻⁸ C; a sphere twice as wide at the same potential holds twice the charge.
-- **Field pointing toward higher potential.** E always points toward *lower* V. A positive charge goes "downhill" in V; a negative charge goes "uphill".
+- **Field pointing toward higher potential.** E points toward *lower* V. For a charge released from rest with no other forces, the electric force gives a positive charge an initial acceleration toward lower V and a negative charge an initial acceleration toward higher V.
 - **Using the straight-line distance when it is not along the field.** In |E| = |ΔV/Δr|, Δr is measured along the field (across the isolines), and the result is an average.
 
 ## Where this leads

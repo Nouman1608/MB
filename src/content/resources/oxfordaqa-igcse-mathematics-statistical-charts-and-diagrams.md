@@ -183,6 +183,13 @@ Interquartile range: 40 − 22 = 18 minutes.
 To find how many waited more than 45 minutes, read the curve at 45. It is about 66, so 80 − 66 = 14 callers.
 
 ## 11. Box plots (Extension only)
+<!-- marlbridge-diagram:maths-b21-boxplot-five-number-summary -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/mathematics/maths-b21-boxplot-five-number-summary.svg" aria-label="Open full-size diagram: maths-b21-boxplot-five-number-summary"><img src="/images/learning/mathematics/maths-b21-boxplot-five-number-summary.svg" width="1528" height="940" alt="For the phone-queue waits, the five-number summary is minimum 3, lower quartile 22, median 30, upper quartile 40 and maximum 58 minutes. The box spans 22 to 40, the median is marked at 30, and whiskers extend to 3 and 58. IQR=40-22=18 minutes." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Read the median and spread separately: median 30 minutes, IQR 18 minutes. Whiskers show the given minimum and maximum. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:maths-b21-boxplot-five-number-summary -->
+
 
 A box plot shows five values on one scale: the minimum, lower quartile, median, upper quartile and maximum. Draw a box between the two quartiles and mark the median across it. Lines called whiskers then reach out to the smallest and largest values.
 

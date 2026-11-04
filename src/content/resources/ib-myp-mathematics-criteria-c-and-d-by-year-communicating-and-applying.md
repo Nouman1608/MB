@@ -153,6 +153,14 @@ Compare the answer with the real situation. In the tiling problem, 17 boxes is s
 
 ## Model validity
 
+<!-- marlbridge-diagram:math-b45-myp-candle-model-validity -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/mathematics/math-b45-myp-candle-model-validity.svg" aria-label="Open full-size diagram: math-b45-myp-candle-model-validity"><img src="/images/learning/mathematics/math-b45-myp-candle-model-validity.svg" width="1600" height="1050" alt="For h=24−1.5t, non-negative height restricts the model to 0≤t≤16. At t=2,6,10 the model predicts 21,15,9 cm versus measured 21.1,15.2,9.4; growing gaps of 0.1,0.2,0.4 cm mean it is a reasonable early estimate, not an exact long-term rate." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>For h=24−1.5t, non-negative height restricts the model to 0≤t≤16. At t=2,6,10 the model predicts 21,15,9 cm versus measured 21.1,15.2,9.4; growing gaps of 0.1,0.2,0.4 cm mean it is a reasonable early estimate, not an exact long-term rate. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:math-b45-myp-candle-model-validity -->
+
+
 The guide notes that extended writing on a modelling task may ask you to judge whether a mathematical model is valid. A model is a rule you use to represent the situation.
 
 **Worked example 4.** A candle is 24 cm tall and burns down at 1.5 cm per hour. Model: h = 24 − 1.5t, with h in cm and t in hours.

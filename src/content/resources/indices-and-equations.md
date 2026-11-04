@@ -191,6 +191,14 @@ twice — the subject must be isolated as a common factor first.
 
 ## Quick revision checklist
 
+<!-- marlbridge-diagram:math-b59-indices-common-base-equation -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/public/images/learning/mathematics/math-b59-indices-common-base-equation.svg" aria-label="Open full-size diagram: math-b59-indices-common-base-equation"><img src="/public/images/learning/mathematics/math-b59-indices-common-base-equation.svg" width="1528" height="940" alt="The source example rewrites 32 as 2⁵, giving (2⁵)ˣ=2¹, so 2⁵ˣ=2¹ and 5x=1; therefore x=1/5. Matching bases and then equating indices is the required method; logarithms are not needed." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>The source example rewrites 32 as 2⁵, giving (2⁵)ˣ=2¹, so 2⁵ˣ=2¹ and 5x=1; therefore x=1/5. Matching bases and then equating indices is the required method; logarithms are not needed. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:math-b59-indices-common-base-equation -->
+
+
 - The index rules, including zero, negative and fractional indices
 - Solving index equations by matching bases, then equating indices
 - Solving linear, fractional and simultaneous equations

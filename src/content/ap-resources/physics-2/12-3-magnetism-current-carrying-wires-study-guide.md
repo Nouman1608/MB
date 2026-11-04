@@ -40,7 +40,7 @@ faqs:
     answer: "The magnetic force acts on moving charges. In the wire only the conduction electrons drift along it, so they feel the force and pass it on to the metal. The stationary positive ions feel no magnetic force."
 version: "1.0"
 publishedDate: 2026-10-05
-updatedDate: 2026-10-05
+updatedDate: 2026-11-01
 editorialStatus: "drafted"
 checkedBy: "marlbridge-academic-team"
 checkedDate: 2026-10-05
@@ -114,11 +114,33 @@ Bend the wire into a circle. Every short piece of the loop makes a field that, a
 
 To find its direction, curl the fingers of your right hand around the loop in the direction of the current. Your thumb points along the field at the centre. A loop drawn on the page with an **anticlockwise** current has a field **out of the page** at its centre. A clockwise current gives a field into the page. You need only this direction in this topic, not a formula for the size.
 
+<!-- marlbridge-diagram:physcem-b15-current-loop-and-arc-centre-field -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/physics/physcem-b15-current-loop-and-arc-centre-field.svg" aria-label="Open full-size diagram: magnetic field at the centre of a loop and arcs"><img src="/images/learning/physics/physcem-b15-current-loop-and-arc-centre-field.svg" width="1600" height="1050" alt="A full loop, semicircle and quarter-circle current arc show centre-field results, while radial leads aimed at the centre contribute zero because dl is parallel to r-hat." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Each circular wire segment contributes along the loop axis; radial leads aimed at the centre contribute no field there. — Marlbridge Physics.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:physcem-b15-current-loop-and-arc-centre-field -->
+
 ## Fields from more than one wire
 
 Magnetic fields obey **superposition**. Find the field of each wire at the point as if it were alone (size from μ₀I/(2πr), direction from the right-hand rule), then add the vectors. Two wires can make fields that point the same way and add, or opposite ways and partly or fully cancel. Worked example 1 shows both.
 
+<!-- marlbridge-diagram:phys-gap-two-wire-field-superposition -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/physics/phys-gap-two-wire-field-superposition.svg" aria-label="Open full-size diagram: field superposition for two parallel wires"><img src="/images/learning/physics/phys-gap-two-wire-field-superposition.svg" width="1100" height="560" alt="At the midpoint between two equal parallel currents out of the page, the two field vectors point oppositely and cancel; outside the pair they point in the same direction and add." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Calculate each wire’s field at the point, then add the vectors with their directions. — Marlbridge Physics.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:phys-gap-two-wire-field-superposition -->
+
 ## The force on a current-carrying wire
+
+<!-- marlbridge-diagram:physcem-b16-force-on-a-current-carrying-wire -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/physics/physcem-b16-force-on-a-current-carrying-wire.svg" aria-label="Open full-size diagram: Force on a current-carrying wire"><img src="/images/learning/physics/physcem-b16-force-on-a-current-carrying-wire.svg" width="1600" height="1050" alt="An external magnetic field exerts force on the length of wire inside it. The force is perpendicular to current and field, scales with IℓB sin θ, is maximal at 90° and zero for parallel or antiparallel alignment." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Only the active wire length inside the magnetic field contributes. Use the right-hand rule for the force direction and IℓB sin θ for its magnitude. — Marlbridge Physics.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:physcem-b16-force-on-a-current-carrying-wire -->
+
 
 Now place a straight wire in a magnetic field B made by something else, such as a magnet. The field pushes on each drifting charge, and the wire as a whole feels a force:
 
@@ -149,6 +171,11 @@ Using both right-hand rules gives a short result:
 - currents in **opposite** directions: the wires **repel**.
 
 This is the reverse of the rule for charges, so learn it carefully. By Newton's third law the two forces are equal in size, even when one current is much larger than the other.
+
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <img src="/images/learning/physics/physcem-b20-parallel-wire-force-directions.svg" width="1600" height="1050" alt="Two panels label B1 at wire 2 and B2 at wire 1, then show equal and opposite forces F1 and F2: same-direction currents attract, opposite-direction currents repel." loading="lazy" decoding="async" style="display:block;width:100%;height:auto;" />
+  <figcaption>Each panel labels the source magnetic field at the other wire, then equal-and-opposite F1/F2 arrows. Same-direction currents attract; opposite currents repel. The numerical force-per-length example applies to the stated currents and separation.</figcaption>
+</figure>
 
 ## Worked example 1: two wires, one point
 

@@ -56,6 +56,14 @@ Take care with step 1. The opposite of "n is even" is "n is odd". The opposite o
 
 ### The irrationality of √2
 
+<!-- marlbridge-diagram:maths-b24-proof-irrationality-sqrt2 -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/mathematics/maths-b24-proof-irrationality-sqrt2.svg" aria-label="Open full-size diagram: maths-b24-proof-irrationality-sqrt2"><img src="/images/learning/mathematics/maths-b24-proof-irrationality-sqrt2.svg" width="1600" height="1050" alt="Assume √2=p/q in lowest terms with positive integers p and q. Squaring gives p²=2q², so p is even; writing p=2r then gives q²=2r², so q is even. Both p and q share factor 2, contradicting lowest terms; therefore √2 is irrational." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Assume √2=p/q in lowest terms with positive integers p and q. Squaring gives p²=2q², so p is even; writing p=2r then gives q²=2r², so q is even. Both p and q share factor 2, contradicting lowest terms; therefore √2 is irrational. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:maths-b24-proof-irrationality-sqrt2 -->
+
+
 ```
 Assume √2 is rational. Then √2 = p/q, where p and q are positive
 integers with no common factor.

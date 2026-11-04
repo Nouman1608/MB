@@ -37,6 +37,13 @@ A calculator is required in every 7357 paper, but it cannot prove anything. A ca
 
 ## The structure of a proof
 
+<!-- marlbridge-diagram:maths-aqa-proof-methods-selection -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/mathematics/maths-aqa-proof-methods-selection.svg" aria-label="Open full-size diagram: maths-aqa-proof-methods-selection"><img src="/images/learning/mathematics/maths-aqa-proof-methods-selection.svg" width="1600" height="1050" alt="A comparison of deduction, exhaustion, counter-example and contradiction, each illustrated with a source-aligned A-level proof example." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>A comparison of deduction, exhaustion, counter-example and contradiction, each illustrated with a source-aligned A-level proof example. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:maths-aqa-proof-methods-selection -->
+
 Every proof has three parts.
 
 1. **Assumptions.** What you are given, or what you may take as known. Write them down.

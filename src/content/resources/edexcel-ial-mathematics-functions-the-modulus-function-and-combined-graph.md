@@ -123,6 +123,14 @@ Always check each solution in the original equation. When you solve by branches,
 
 **Example 6.** Given f(x) = x² − 3x − 10, sketch y = |f(x)| and y = f(|x|).
 
+<!-- marlbridge-diagram:maths-b16-modulus-graph-transformations -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/mathematics/maths-b16-modulus-graph-transformations.svg" aria-label="Open full-size diagram: maths-b16-modulus-graph-transformations"><img src="/images/learning/mathematics/maths-b16-modulus-graph-transformations.svg" width="1600" height="1050" alt="Side-by-side graphs of |f(x)| and f(|x|) for f(x)=x²−3x−10, showing reflected negative parts, roots and different y-intercepts." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Side-by-side graphs of |f(x)| and f(|x|) for f(x)=x²−3x−10, showing reflected negative parts, roots and different y-intercepts. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:maths-b16-modulus-graph-transformations -->
+
+
 f(x) = (x − 5)(x + 2) has roots −2 and 5, y-intercept −10 and minimum point (3/2, −49/4).
 
 ```

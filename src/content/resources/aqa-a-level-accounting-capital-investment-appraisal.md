@@ -110,6 +110,14 @@ will not change if the press is bought. Kestrel has already paid £3 000 for a m
 
 ## 3. Payback
 
+<!-- marlbridge-diagram:accounting-investment-appraisal -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/accounting/accounting-investment-appraisal.svg" aria-label="Open full-size diagram: accounting-investment-appraisal"><img src="/images/learning/accounting/accounting-investment-appraisal.svg" width="1600" height="1050" alt="Alder pays back in 2 years 6 months with NPV £11,610; Birch pays back in 3 years 10 months with NPV £17,545. Payback favours Alder, NPV favours Birch." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Alder pays back in 2 years 6 months with NPV £11,610; Birch pays back in 3 years 10 months with NPV £17,545. Payback favours Alder, NPV favours Birch. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:accounting-investment-appraisal -->
+
+
 The **payback period** is the time a project's net cash inflows take to repay the initial outlay.
 Shorter is preferred, and a business may reject projects beyond a maximum (say three years).
 

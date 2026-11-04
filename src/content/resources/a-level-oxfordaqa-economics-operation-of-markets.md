@@ -260,6 +260,14 @@ Every high-band 9640 answer on intervention raises it.
 
 ## Worked example — an indirect tax on a demerit good
 
+<!-- marlbridge-diagram:economics-tax-incidence-inelastic-demerit-good -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/economics/economics-tax-incidence-inelastic-demerit-good.svg" aria-label="Open full-size diagram: economics-tax-incidence-inelastic-demerit-good"><img src="/images/learning/economics/economics-tax-incidence-inelastic-demerit-good.svg" width="1600" height="1050" alt="Supply shifts up by the specific $2 tax. Inelastic demand produces a small quantity reduction and a price wedge; evaluation notes revenue, welfare and regressivity." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Indirect tax on a demerit good: incidence and trade-offs Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:economics-tax-incidence-inelastic-demerit-good -->
+
+
 A government imposes a specific tax of $2 per unit on a good with
 PED = −0.3.
 

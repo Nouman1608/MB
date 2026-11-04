@@ -57,7 +57,7 @@ Balanced symbol equation:
 
 Check the balance: 6 C, 12 H and 18 O on each side.
 
-Why it matters: almost every food chain starts with a photosynthesising producer, so the chemical energy in your food came from light captured by plants. Photosynthesis also releases the oxygen that aerobic organisms use.
+Why it matters: most food energy in the ecosystems studied here enters food chains through photosynthesis, which stores light energy as chemical energy in plant biomass. Some ecosystems also have chemosynthetic producers, so this is not a claim about every food chain. Photosynthesis releases oxygen used by aerobic organisms.
 
 ## Factors affecting the rate (2.20)
 
@@ -65,7 +65,14 @@ Why it matters: almost every food chain starts with a photosynthesising producer
 - **Carbon dioxide concentration.** Carbon dioxide is a raw material. More carbon dioxide gives a faster rate, until something else runs short.
 - **Temperature.** The reactions are controlled by enzymes. Warming increases the rate up to an optimum. Above the optimum, the enzymes' active sites change shape and the rate falls quickly.
 
-A **limiting factor** is the one in shortest supply, holding the rate back. A graph of rate against light intensity rises, then levels off. On the rising part, light is limiting. On the flat part, carbon dioxide or temperature is.
+A **limiting factor** is a factor whose increase would raise the rate under the current conditions. A graph of rate against light intensity rises, then levels off. On the rising part, light is limiting. On a plateau, another factor or the system's capacity limits the rate; the plateau alone does not identify which one. Carbon dioxide or temperature may limit, but water, mineral supply, photoinhibition and other conditions can matter too.
+
+<!-- marlbridge-diagram:bio-edexcel-photosynthesis-limiting-factor-curves -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/biology/bio-edexcel-photosynthesis-limiting-factor-curves.svg" aria-label="Open full-size diagram: Edexcel photosynthesis limiting-factor curves"><img src="/images/learning/biology/bio-edexcel-photosynthesis-limiting-factor-curves.svg" width="1600" height="1050" alt="Schematic Edexcel photosynthesis curves: increasing light raises rate until another factor limits; higher carbon dioxide raises the plateau. A separate temperature curve rises to an optimum then falls. The diagram states that plateaus do not by themselves identify the limiting factor and that other variables must be controlled." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Photosynthesis: interpret limiting-factor curves — Edexcel IGCSE Biology 4BI1. Schematic, not measured data.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:bio-edexcel-photosynthesis-limiting-factor-curves -->
 
 ### Worked example: reading a limiting-factor graph
 
@@ -73,10 +80,15 @@ A graph shows rate against light intensity at 0.04% and at 0.4% carbon dioxide, 
 
 1. At low light intensity, both curves are the same, so carbon dioxide is not limiting there. **Light intensity is limiting.**
 2. On the flat part of the 0.04% curve, more light does nothing but more carbon dioxide raises the rate, so **carbon dioxide is limiting**.
-3. On the flat part of the 0.4% curve, light and carbon dioxide are both high, so the likely limiting factor is **temperature**.
+3. On the flat part of the 0.4% curve, light and carbon dioxide are plentiful, so temperature is one hypothesis. Test it by changing temperature while controlling light, carbon dioxide, water and other conditions; the plateau alone does not prove temperature is limiting.
 
 ## Leaf structure (2.21)
 
+
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <!-- marlbridge-diagram:leaf-structure-functions --><a href="/images/learning/biology/leaf-structure-functions.svg" aria-label="Open full-size diagram: Leaf structure: tissues and adaptations" title="Leaf structure: tissues and adaptations"><img src="/images/learning/biology/leaf-structure-functions.svg" width="1528" height="871" alt="The upper surface has a cuticle and epidermis. Palisade cells contain many chloroplasts; spongy mesophyll has air spaces. Guard cells surround a pore in the lower epidermis. Labels link these structures to photosynthesis and gas exchange." title="Leaf structure: tissues and adaptations" loading="lazy" decoding="async" style="display:block;width:100%;height:auto;" /></a>
+  <figcaption>Leaf tissues and adaptations: locate palisade and spongy mesophyll, stomata and guard cells, and relate them to photosynthesis and gas exchange. Select the diagram to enlarge it.</figcaption>
+</figure>
 | Feature | Adaptation for photosynthesis |
 |---|---|
 | Broad, flat shape | Large surface area to absorb light |
@@ -87,6 +99,11 @@ A graph shows rate against light intensity at 0.04% and at 0.4% carbon dioxide, 
 | Spongy mesophyll | Air spaces let carbon dioxide diffuse to the cells and oxygen diffuse out |
 | Stomata (mainly in the lower epidermis) | Let carbon dioxide in; guard cells open and close them |
 | Vascular bundle | Xylem brings water; phloem carries sugars away |
+
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <!-- marlbridge-diagram:complete-bio-vascular-sections --><a href="/images/learning/biology/complete-bio-vascular-sections.svg" aria-label="Open full-size diagram: Find xylem and phloem in a root, stem and leaf" title="Find xylem and phloem in a root, stem and leaf"><img src="/images/learning/biology/complete-bio-vascular-sections.svg" width="1528" height="871" alt="Simplified root has central cross-shaped xylem and phloem between the arms. Stem vascular bundles form a ring with xylem inward and phloem outward. Leaf-vein xylem lies above phloem; both epidermises identify the leaf orientation." title="Find xylem and phloem in a root, stem and leaf" loading="lazy" decoding="async" style="display:block;width:100%;height:auto;" /></a>
+  <figcaption>A companion plan-style model locates xylem and phloem in root, stem and leaf sections. The leaf-tissue diagram above focuses on mesophyll and gas exchange. Select the diagram to enlarge it.</figcaption>
+</figure>
 
 For 2.21, link each feature to light, carbon dioxide or water. Gas exchange in the leaf (2.40B–2.43B) is in sub-topic (g).
 
@@ -99,7 +116,15 @@ Plants also need **mineral ions**, absorbed from the soil by the roots.
 
 ## The photosynthesis practicals (2.23)
 
-**Oxygen from a water plant.** Put pondweed in water with some sodium hydrogencarbonate (a carbon dioxide source) and a lamp at a measured distance. After a few minutes, count bubbles per minute, or collect the gas in an inverted measuring cylinder. Repeat at other distances. The gas relights a glowing splint, so it is oxygen. A beaker of water between lamp and plant keeps the temperature steady.
+<!-- marlbridge-diagram:bio-b25-edexcel-photosynthesis-practical -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/biology/bio-b25-edexcel-photosynthesis-practical.svg" aria-label="Open full-size diagram: bio-b25-edexcel-photosynthesis-practical"><img src="/images/learning/biology/bio-b25-edexcel-photosynthesis-practical.svg" width="1600" height="1050" alt="Photosynthesis practicals: gas collection and leaf controls" loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Photosynthesis practicals: gas collection and leaf controls Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:bio-b25-edexcel-photosynthesis-practical -->
+
+
+**Oxygen from a water plant.** Put pondweed in water with some sodium hydrogencarbonate (a carbon dioxide source) and a lamp at a measured distance. After a few minutes, count bubbles per minute, or collect the gas in an inverted measuring cylinder. Repeat at other distances. The gas relights a glowing splint, so it is oxygen. A beaker of water between lamp and plant reduces direct radiant heating; it does not guarantee a constant temperature. Monitor the water temperature during the test and keep it as steady as practical.
 
 **Testing a leaf for starch.**
 
@@ -108,7 +133,7 @@ Plants also need **mineral ions**, absorbed from the soil by the roots.
 3. Rinse in warm water to soften it.
 4. Spread it on a white tile and add iodine solution. **Blue-black** shows starch; orange-brown shows no starch.
 
-**Destarching.** Keep the plant in the dark for about 48 hours first. It uses up its starch, so any starch found later was made during the experiment.
+**Destarching.** Keep the plant in the dark before the test until stored starch is used up. About 24–48 hours is a common starting point, but the time depends on plant species and conditions; check the method or confirm with a control leaf rather than assuming one duration always works.
 
 **Showing what is needed.**
 
@@ -140,15 +165,23 @@ A **balanced diet** contains carbohydrate, protein, lipid, vitamins, minerals, w
 | Calcium | Milk, cheese | Strong bones and teeth; blood clotting; muscle contraction |
 | Iron | Red meat, liver, spinach | Making haemoglobin in red blood cells; lack causes anaemia |
 | Water | Drinks, food | Solvent for reactions and transport; cooling by sweating |
-| Dietary fibre | Vegetables, wholegrain cereals | Adds bulk so food moves by peristalsis; prevents constipation |
+| Dietary fibre | Vegetables, wholegrain cereals | Adds bulk so food moves by peristalsis and helps reduce constipation risk |
 
 ## Energy requirements (2.26)
 
-- **Activity.** More activity means more respiration in muscles, so more energy is needed. A builder needs more than an office worker of the same age and size.
-- **Age.** Children and teenagers need a lot of energy for their size because they are growing. Older adults are usually less active and need less.
-- **Pregnancy.** A pregnant woman needs extra energy for the growing fetus and placenta and for carrying the extra mass.
+- **Activity and body size.** Greater activity and a larger body generally increase energy requirements; people of the same age can still differ.
+- **Age and growth.** Children and teenagers need energy for growth. Requirements vary with growth stage, body size and activity; they do not follow age alone.
+- **Pregnancy.** Energy requirements can rise as pregnancy progresses to support the fetus and maternal tissues, but the amount and timing vary. Pregnancy does not imply one uniform increase at every stage; this general course comparison is not individual dietary advice.
 
 ## The alimentary canal (2.27, 2.28)
+
+<!-- marlbridge-diagram:bio-b25-edexcel-alimentary-canal-peristalsis -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/biology/bio-b25-edexcel-alimentary-canal-peristalsis.svg" aria-label="Open full-size diagram: bio-b25-edexcel-alimentary-canal-peristalsis"><img src="/images/learning/biology/bio-b25-edexcel-alimentary-canal-peristalsis.svg" width="1600" height="1050" alt="Alimentary canal: organ positions and peristalsis" loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Alimentary canal: organ positions and peristalsis Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:bio-b25-edexcel-alimentary-canal-peristalsis -->
+
 
 | Part | Function |
 |---|---|
@@ -157,7 +190,8 @@ A **balanced diet** contains carbohydrate, protein, lipid, vitamins, minerals, w
 | Stomach | Churns food; protease digests protein; hydrochloric acid kills bacteria and suits the stomach protease |
 | Pancreas | Makes amylase, protease and lipase and releases them into the duodenum |
 | Duodenum (first part of small intestine) | Receives pancreatic juice and bile; digestion continues |
-| Ileum (rest of small intestine) | Digestion is completed; soluble products are absorbed into the blood |
+| Jejunum (middle part) | Digestion and absorption continue |
+| Ileum (final part) | Digestion is completed; soluble products are absorbed |
 | Colon (large intestine) | Absorbs water from undigested material |
 | Rectum | Stores faeces until they are egested through the anus |
 
@@ -177,9 +211,17 @@ Amylase (from the salivary glands and pancreas) breaks starch into maltose. **Ma
 
 ## Bile (2.30, 2.31)
 
+<!-- marlbridge-diagram:bio-b25-edexcel-bile-villus-microvilli -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/biology/bio-b25-edexcel-bile-villus-microvilli.svg" aria-label="Open full-size diagram: bio-b25-edexcel-bile-villus-microvilli"><img src="/images/learning/biology/bio-b25-edexcel-bile-villus-microvilli.svg" width="1600" height="1050" alt="Bile route and the villus brush border" loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Bile route and the villus brush border Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:bio-b25-edexcel-bile-villus-microvilli -->
+
+
 **Bile is produced by the liver and stored in the gall bladder.** It passes along the bile duct into the duodenum. Bile is not an enzyme. It does two jobs.
 
-1. **Neutralising stomach acid.** Bile is alkaline. It neutralises acid from the stomach, giving the slightly alkaline conditions the small intestine's enzymes work best in.
+1. **Helping neutralise stomach acid.** Bile is alkaline and contributes to neutralising acid from the stomach. Pancreatic juice supplies much of the bicarbonate that makes the small-intestinal contents suitable for its enzymes; bile is not the only source of alkali.
 2. **Emulsifying lipids.** Bile breaks large fat drops into tiny droplets, giving a larger surface area for lipase, so lipids are digested faster. No bonds are broken: the droplets are still lipid.
 
 ## Absorption in the small intestine (2.32)
@@ -189,11 +231,19 @@ The ileum is long and lined with millions of finger-like **villi**, covered in c
 - **Large surface area:** the length, the villi and the microvilli all increase it.
 - **Thin wall:** the villus surface is one cell thick, so the diffusion distance is short.
 - **Good blood supply:** a dense capillary network carries glucose and amino acids away, keeping a steep concentration gradient.
-- **Lacteal:** a lymph vessel in the centre of each villus absorbs fatty acids and glycerol.
+- **Lacteal:** in the simplified IGCSE model, products of lipid digestion enter the villus lacteal. In mammals, long-chain fatty acids are reassembled into triglycerides and packaged before entering lymph; glycerol and some short-chain fatty acids can enter blood capillaries instead.
 
 ## Practical: energy content of food (2.33B, Paper 2 only)
 
-Put a measured volume of water in a boiling tube and record its temperature. Weigh a piece of food, light it on a mounted needle and hold it under the tube until it is burnt completely. Record the highest temperature. Use 1 cm³ of water = 1 g, and 4.2 J to raise 1 g of water by 1 °C.
+<!-- marlbridge-diagram:bio-b25-edexcel-food-energy-calorimetry -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/biology/bio-b25-edexcel-food-energy-calorimetry.svg" aria-label="Open full-size diagram: bio-b25-edexcel-food-energy-calorimetry"><img src="/images/learning/biology/bio-b25-edexcel-food-energy-calorimetry.svg" width="1600" height="1050" alt="Food energy practical: heat transfer to water" loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Food energy practical: heat transfer to water Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:bio-b25-edexcel-food-energy-calorimetry -->
+
+
+Put a measured volume of water in a boiling tube and record its temperature. Weigh a piece of food, light it on a mounted needle and hold it under the tube. Record the highest water temperature and reweigh any residue: use the mass of food actually burned, not the starting mass, in the energy-per-gram calculation. Use 1 cm³ of water = 1 g, and 4.2 J to raise 1 g of water by 1 °C. Heat lost to the surroundings or incomplete combustion makes the measured heat transferred to water lower than the food's total energy; it is not a direct measure of metabolically available dietary energy.
 
 ```
 energy released (J) = mass of water (g) × 4.2 × temperature rise (°C)

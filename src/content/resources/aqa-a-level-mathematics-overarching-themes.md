@@ -96,6 +96,14 @@ Notation carries marks: **=>** for implies, **<=** for is implied by, and **<=>*
 
 ## Problem solving
 
+<!-- marlbridge-diagram:maths-aqa-modelling-problem-solving-cycle -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/mathematics/maths-aqa-modelling-problem-solving-cycle.svg" aria-label="Open full-size diagram: maths-aqa-modelling-problem-solving-cycle"><img src="/images/learning/mathematics/maths-aqa-modelling-problem-solving-cycle.svg" width="1600" height="1050" alt="A five-stage cycle connects defining, modelling, solving, checking and refining, returning to the model when evidence fails." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>A five-stage cycle connects defining, modelling, solving, checking and refining, returning to the model when evidence fails. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:maths-aqa-modelling-problem-solving-cycle -->
+
+
 Unstructured questions give no method. The reliable approach is to identify what is given and what is required, introduce clear notation for unknowns, connect the two with a known result, solve, then check the answer against the context — a negative length or a probability above 1 signals an error.
 
 Marks are available for setting the problem up even when the final answer is wrong, so writing down the model explicitly is always worth doing.

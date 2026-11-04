@@ -47,6 +47,8 @@ The specification places 3.1.4 in AS Paper 1 and AS Paper 2, and in A-level Pape
 A-level Paper 3 can test any content, including the practical work. At A-level, 3.1.8
 Thermodynamics (A-level only) builds directly on this topic.
 
+![Insulated-cup calorimetry setup showing reactant measurement, temperature recording, and q = mcΔT for the solution.](/images/learning/chemistry/chem-oxfordqa-calorimetry-cup-setup.svg)
+
 ## 3.1.4.1 Enthalpy change
 
 ### Exothermic and endothermic
@@ -106,7 +108,8 @@ With these units, q comes out in **joules**. Divide by 1000 for kJ.
 To turn q into a **molar enthalpy change**:
 
 ```
-ΔH = −q ÷ n        (q in kJ, n = moles of the reactant that limits the reaction)
+ΔrH = −q ÷ ξ       (q in kJ; ξ = reacted moles of a limiting reactant ÷ its equation coefficient)
+For a specifically named molar quantity, divide by its stated basis, such as moles of water formed for neutralisation.
 ```
 
 The minus sign is there because a temperature **rise** means heat has left the reaction (exothermic, ΔH
@@ -153,13 +156,10 @@ alcohols. For a reaction in solution, a typical method is:
    stability.
 2. Record its temperature every 30 seconds for a few minutes to get a steady starting value.
 3. At a recorded time, add the second reagent (or a weighed solid) and stir.
-4. Keep recording the temperature every 30 seconds until it has clearly peaked and started to fall.
-5. Plot temperature against time. Draw a best-fit line through the cooling points and **extrapolate
-   it back to the time of mixing**. The difference between this extrapolated value and the starting
-   temperature is ΔT.
+4. Keep recording every 30 seconds through the reaction and the subsequent recovery toward room temperature: cooling after an exothermic rise, or warming after an endothermic fall.
+5. Plot temperature against time. Fit the approximately linear post-reaction recovery region and extrapolate it back to the mixing time. Use ΔT = extrapolated temperature minus starting temperature, retaining its sign. If the baseline drifts, extrapolate the pre-reaction trend to the same time too. This is an approximate correction and requires a suitably short reaction and a justified fitting interval.
 
-Extrapolating corrects for heat lost while the mixture was heating up. The polystyrene and lid
-reduce heat transfer.
+Extrapolation estimates the temperature change with reduced bias from exchange with the surroundings during the reaction. It can estimate heat loss after an exothermic rise or heat gain after an endothermic fall; it is not an exact correction for arbitrary reaction times or curved recovery. The polystyrene cup and lid reduce unwanted heat exchange.
 
 ## 3.1.4.3 Applications of Hess's law
 

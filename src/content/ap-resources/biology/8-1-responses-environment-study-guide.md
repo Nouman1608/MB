@@ -30,7 +30,7 @@ keyPoints:
   - "Organisms respond to changes inside them (hunger, dehydration, hormones) and outside them (light, temperature, predators) with behavioural responses (what they do) and physiological responses (changes inside the body)."
   - "Taxis is movement directed toward or away from a stimulus. Kinesis is a change in speed or turning rate that is not directed."
   - "Organisms communicate with visual, sound, touch, electrical and chemical signals. Signals change the receiver's behaviour and can change who survives and reproduces."
-  - "Natural selection favours innate and learned behaviours that raise survival and reproduction. Cooperation often raises individual fitness and helps the population survive."
+  - "Natural selection can favour innate or learned behaviours when their heritable basis raises direct or inclusive reproductive success. Cooperation can benefit actors or relatives, but its costs, benefits and effects on group persistence vary."
   - "A good behaviour experiment changes one variable, counts or measures the response, and uses a control that rules out other explanations, such as a side bias in the apparatus."
 faqs:
   - question: "Do I need to know how each response works inside the body?"
@@ -118,7 +118,7 @@ Small animals often move toward good conditions or away from bad ones. They can 
 
 ## Innate and learned behaviour
 
-- **Innate behaviour** is inherited. It is performed correctly the first time, without practice, by every normal member of the species. Examples: a spider spinning its first web; a newborn mammal suckling.
+- **Innate behaviour** is inherited. It develops without the particular learning experience being studied, although its expression can vary and may require maturation or environmental input. Examples: a spider spinning its first web; a newborn mammal suckling.
 - **Learned behaviour** is changed by experience. Examples: young geese follow the first large moving object they see after hatching (**imprinting**); in many songbirds, young males learn their song by listening to adults; animals stop responding to a harmless, repeated stimulus, such as birds that ignore a scarecrow after a few days (**habituation**).
 
 Many behaviours mix both: a songbird inherits the tendency to sing, but learns the details. What matters for this topic is that **natural selection favours both innate and learned behaviours when they increase survival and reproductive success**. Innate behaviour is reliable when there is no time to learn (escaping a predator on the first meeting). Learning lets an animal adjust to local conditions.
@@ -156,7 +156,7 @@ You do not need the detailed workings of any of these systems. Focus on the **co
 - **Colonies of social insects** such as bees, ants and termites share food, defence and care of young.
 - **Kin selection**: helping close relatives can spread alleles you share with them, even if it costs you. An alarm call that draws a predator's attention can still be favoured if the animals it saves are relatives.
 
-In general, cooperative behaviour tends to raise the fitness of the individual **and** the survival of the population. Worked example 2 tests this with numbers.
+Cooperation can affect direct fitness (offspring produced by the actor), indirect or inclusive fitness (effects on relatives), and group persistence. Whether it benefits participants depends on costs to the actor, benefits, relatedness and reproductive share. Worked example 2 illustrates a possible association, not a universal outcome.
 
 ## Worked example 1: designing and analysing a choice-chamber experiment
 
@@ -175,17 +175,17 @@ In general, cooperative behaviour tends to raise the fitness of the individual *
 2. Dependent variable: number of flatworms in each half after 15 minutes.
 3. Controlled variables (any three): water temperature, water depth, the source and size of the flatworms, starting position (centre line), time before counting, and the dish shape and material. A heat filter or distant lamp keeps the lit half from also being warmer.
 
-**(b) Why the control dish?** If the flatworms gathered in one half for a reason unrelated to light (a slope in the bench, a draught, a vibration from one side), the experimental dish would mislead. The control dish has the **same apparatus with no light difference**. If animals spread evenly there, any uneven spread in the experimental dish can be put down to light.
+**(b) Why the control dish?** If the flatworms gathered in one half for a reason unrelated to light (a slope in the bench, a draught, a vibration from one side), the experimental dish would mislead. A matched control with no light difference can reveal some side bias, but one control dish cannot rule out every alternative. Repeat independent chamber trials, randomise which side is lit, and control lamp heating.
 
 **(c) Chi-square.**
 
 1. Null hypothesis: the flatworms have no preference, so they are equally likely to be in either half. Expected count = 40 ÷ 2 = 20 per half.
 2. Experimental dish: χ² = (29 − 20)² ÷ 20 + (11 − 20)² ÷ 20 = 81 ÷ 20 + 81 ÷ 20 = 4.05 + 4.05 = **8.1**.
 3. Degrees of freedom = 2 categories − 1 = **1**. Critical value at p = 0.05 is 3.84.
-4. 8.1 > 3.84, so **reject** the null hypothesis. The uneven spread (72.5% in the dark half) is unlikely to be chance alone.
-5. Control dish: χ² = (22 − 20)² ÷ 20 + (18 − 20)² ÷ 20 = 0.2 + 0.2 = **0.4**. 0.4 < 3.84, so **fail to reject**: no evidence of a side bias in the apparatus.
+4. 8.1 > 3.84, so under the simplified independence assumption **reject** the null hypothesis for these counts. The uneven spread (72.5% in the dark half) is unlikely under that simple null, but it is not a replicated test of a general light effect.
+5. Control dish: χ² = (22 − 20)² ÷ 20 + (18 − 20)² ÷ 20 = 0.2 + 0.2 = **0.4**. 0.4 < 3.84, so **fail to reject**: this single control gives no evidence of a side bias; a nonsignificant result does not prove all alternative biases are absent.
 
-**(d) Taxis?** Not yet. The counts show the flatworms **end up** in the dark, but both taxis and kinesis would give that result (Figure 1). To claim negative phototaxis she would need to track individual paths and show that animals move directly away from the light. Also, one trial of 40 animals supports the conclusion for these conditions; repeating with fresh animals would make it stronger.
+**(d) Taxis?** Not yet. The counts show the flatworms **end up** in the dark, but both taxis and kinesis would give that result (Figure 1). To claim negative phototaxis she would need to track individual paths and show that animals move directly away from the light. Also, this is one dish with 40 interacting animals: the dish is the treatment-level experimental unit, and the animals are not 40 independent treatment replicates. Treat the chi-square as a classroom illustration under an independence assumption; use replicated chambers/trials with randomized light side for stronger inference.
 
 <figure>
 <svg viewBox="0 0 620 230" role="img" aria-labelledby="cc-title cc-desc" xmlns="http://www.w3.org/2000/svg" font-family="system-ui, sans-serif">
@@ -234,7 +234,7 @@ In general, cooperative behaviour tends to raise the fitness of the individual *
 
 **(b) Pups per adult.** 1.0 ÷ 2 = **0.50**; 3.2 ÷ 4 = **0.80**; 4.4 ÷ 6 ≈ **0.73**; 4.8 ÷ 8 = **0.60**.
 
-**(c) Interpretation.** Moving from 2 to 4 adults raises food per member by 25% (30 to 37.5 kg) and pups per adult from 0.50 to 0.80. Cooperation lets the pack catch prey more reliably, so **each individual** eats better and raises more young: cooperation increases individual fitness. More surviving pups also help the **population** persist. Above about 4 to 6 adults, the gains level off: each extra hunter adds less success but another mouth to feed, so food per member falls back to 30 kg in a pack of 8. Larger packs still raise the most pups in total (4.8), perhaps because more adults guard the den.
+**(c) Interpretation.** Moving from 2 to 4 adults raises modeled food per adult by 25% (30 to 37.5 kg) and pups surviving per adult from 0.50 to 0.80. Pups per adult is a group-level proxy, not proof that each adult produces more of its own offspring; parentage, reproductive skew and relatedness are unknown. The fictional data are consistent with a benefit under these conditions, while costs, territory quality and who reproduces could change direct or inclusive fitness. Above 4 to 6 adults, food per adult falls in this model even though total pups increase.
 
 **Limitation.** This is an observational study. Larger packs might also hold better territories with more prey, a confounding variable. The data show a correlation between pack size and success, which supports, but does not prove, that cooperation causes it.
 

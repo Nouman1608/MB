@@ -100,6 +100,14 @@ An increase in demand means the curve shifts **right** — more is demanded at e
 
 ## Equilibrium and the price mechanism
 
+<!-- marlbridge-diagram:economics-price-mechanism-shortage-surplus -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/economics/economics-price-mechanism-shortage-surplus.svg" aria-label="Open full-size diagram: economics-price-mechanism-shortage-surplus"><img src="/images/learning/economics/economics-price-mechanism-shortage-surplus.svg" width="1600" height="1050" alt="A demand and supply diagram marks equilibrium, a below-equilibrium shortage with upward price pressure, and the general surplus adjustment." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Equilibrium and the price mechanism: how prices adjust Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:economics-price-mechanism-shortage-surplus -->
+
+
 **Equilibrium** occurs where demand equals supply, giving the market price and quantity.
 
 Above equilibrium there is **excess supply** (a surplus), and sellers cut prices to clear stock. Below it there is **excess demand** (a shortage), and prices are bid up. Either way the market moves back towards equilibrium — this self-correcting behaviour is the price mechanism.

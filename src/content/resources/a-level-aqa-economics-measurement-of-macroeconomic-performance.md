@@ -99,6 +99,14 @@ meaningful comparison of what income can actually buy in each country.
 
 ## Worked example: explaining a policy conflict
 
+<!-- marlbridge-diagram:economics-macro-objectives-tradeoffs -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/economics/economics-macro-objectives-tradeoffs.svg" aria-label="Open full-size diagram: economics-macro-objectives-tradeoffs"><img src="/images/learning/economics/economics-macro-objectives-tradeoffs.svg" width="1600" height="1050" alt="Four macroeconomic aims and a conditional chain showing expansionary policy may increase output and employment, while capacity pressure may raise inflation and imports." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Macroeconomic objectives and a conditional short-run policy chain. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:economics-macro-objectives-tradeoffs -->
+
+
 A question asks candidates to explain why the government's objectives
 of economic growth and a stable balance of payments might conflict in
 the short run.

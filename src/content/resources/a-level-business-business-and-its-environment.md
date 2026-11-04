@@ -138,6 +138,14 @@ make a plan outdated soon after it is written.
 
 ## Stakeholder conflict in more depth
 
+<!-- marlbridge-diagram:business-stakeholder-influence-interest -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/business/business-stakeholder-influence-interest.svg" aria-label="Open full-size diagram: business-stakeholder-influence-interest"><img src="/images/learning/business/business-stakeholder-influence-interest.svg" width="1600" height="1050" alt="A power-interest matrix places a regulator at high power and lower interest, a lender at high power and interest, employees at lower power and high interest, and a distant community at lower levels of both." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Stakeholder influence and interest. Reassess positions for the specific decision. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:business-stakeholder-influence-interest -->
+
+
 1.5 rewards being able to identify not just who a business's internal
 and external stakeholders are -- employees, managers and shareholders
 internally; customers, suppliers, government, the local community and

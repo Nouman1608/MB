@@ -119,6 +119,14 @@ For a satellite in a circular orbit, gravity is the only force and it points to 
 
 ### Worked example 4
 
+<!-- marlbridge-diagram:math-b62-oxfordaqa-satellite-orbit-gravity-speed-period -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/public/images/learning/mathematics/math-b62-oxfordaqa-satellite-orbit-gravity-speed-period.svg" aria-label="Open full-size diagram: math-b62-oxfordaqa-satellite-orbit-gravity-speed-period"><img src="/public/images/learning/mathematics/math-b62-oxfordaqa-satellite-orbit-gravity-speed-period.svg" width="1528" height="940" alt="A satellite on a circular orbit has tangential velocity and inward gravitational force. The visual distinguishes Earth radius R from orbit radius r and shows acceleration 4.014 m/s², speed about 6,340 m/s, and period about 2.75 hours." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>A satellite on a circular orbit has tangential velocity and inward gravitational force. The visual distinguishes Earth radius R from orbit radius r and shows acceleration 4.014 m/s², speed about 6,340 m/s, and period about 2.75 hours.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:math-b62-oxfordaqa-satellite-orbit-gravity-speed-period -->
+
+
 Model the Earth as a sphere of radius R = 6.4 × 10⁶ m, with gravitational acceleration at its surface g = 9.8 m s⁻². A satellite of mass m moves in a circular orbit of radius r = 1.0 × 10⁷ m. The gravitational force on it is mgR²/r². Find its speed and the time for one orbit.
 
 ```
@@ -179,6 +187,14 @@ At t = π/8, 4t = π/2, so a = −32j m s⁻². Check: a = rω² = 2 × 4² = 32
 If the speed is not constant, or the distance from the supposed centre changes, the motion is not uniform circular motion. For example, 4cos 3t i + 3sin 3t j has distance √(9 + 7cos²3t) from the origin, which varies, so it traces an ellipse.
 
 ## The conical pendulum
+
+<!-- marlbridge-diagram:math-b43-oxfordaqa-conical-pendulum-forces-radius -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/mathematics/math-b43-oxfordaqa-conical-pendulum-forces-radius.svg" aria-label="Open full-size diagram: math-b43-oxfordaqa-conical-pendulum-forces-radius"><img src="/images/learning/mathematics/math-b43-oxfordaqa-conical-pendulum-forces-radius.svg" width="1600" height="1050" alt="Conical pendulum: geometry, forces and circular motion" loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Conical pendulum: geometry, forces and circular motion Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:math-b43-oxfordaqa-conical-pendulum-forces-radius -->
+
 
 A particle of mass m is attached to a light inextensible string of length L. The other end is fixed. The particle moves in a horizontal circle at constant speed, so the string traces out a cone with its axis vertical.
 

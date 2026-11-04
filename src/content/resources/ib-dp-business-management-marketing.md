@@ -91,6 +91,14 @@ than asserting one approach is always superior.
 
 ## Worked example: distinguishing market and product orientation
 
+<!-- marlbridge-diagram:business-ibdp-market-vs-product-orientation -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/business/business-ibdp-market-vs-product-orientation.svg" aria-label="Open full-size diagram: business-ibdp-market-vs-product-orientation"><img src="/images/learning/business/business-ibdp-market-vs-product-orientation.svg" width="1600" height="1050" alt="Two distinct pathways show how customer-led design differs from starting with existing production capability." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Two distinct pathways show how customer-led design differs from starting with existing production capability. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:business-ibdp-market-vs-product-orientation -->
+
+
 A case study describes two competing businesses: one that surveys
 customers extensively before designing a new product, and one that
 develops a product based on its existing manufacturing expertise and

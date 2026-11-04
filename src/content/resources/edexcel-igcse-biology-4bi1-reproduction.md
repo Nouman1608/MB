@@ -50,10 +50,10 @@ Use it with the [revision notes](/resources/edexcel-igcse-biology-4bi1-reproduct
 |---|---|---|
 | Parents | Usually two | One |
 | Gametes | Made and fused | None |
-| Cell division used | Meiosis makes gametes; mitosis after fertilisation | Mitosis only |
+| Cell division used | Meiosis contributes to gamete formation (directly in animals; via spores in flowering-plant life cycles); mitosis after fertilisation | No gametes; mitosis makes new cells in the simple model. Plant life cycles can also include meiosis to form spores, followed by mitosis in the next generation. |
 | Offspring | Genetically different from each other and the parents | Genetically identical to the parent (clones) |
 
-Sexual reproduction gives **variation**, so some offspring may survive a change in the environment. Asexual reproduction is quick, but every offspring shares the same weaknesses.
+Sexual reproduction gives **variation**, so some offspring may survive a change in the environment. Asexual reproduction is often quick and produces offspring with little genetic variation; a disease or environmental change may therefore affect many of them. Mutations can still create variation, so it is not true that every clone must share every weakness or die from the same disease.
 
 **Fertilisation** is the fusion of a male gamete with a female gamete. The nuclei join to form a single cell, the **zygote**. The zygote divides by mitosis again and again, and the ball of cells develops into an **embryo**.
 
@@ -61,6 +61,11 @@ Sexual reproduction gives **variation**, so some offspring may survive a change 
 
 ### Flower structure and pollination (3.3)
 
+
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <!-- marlbridge-diagram:complete-bio-complete-flower-sections --><a href="/images/learning/biology/complete-bio-complete-flower-sections.svg" aria-label="Open full-size diagram: Flower structures: include sepals and compare pollination" title="Flower structures: include sepals and compare pollination"><img src="/images/learning/biology/complete-bio-complete-flower-sections.svg" width="1528" height="871" alt="A complete original flower section identifies stigma, style, ovary, ovules, anthers, filaments, petals and sepals. Paired insect/wind models contrast internal versus hanging anthers and internal versus exposed feathery stigma, with pollination-group qualifications." title="Flower structures: include sepals and compare pollination" loading="lazy" decoding="async" style="display:block;width:100%;height:auto;" /></a>
+  <figcaption>Locate the flower reproductive structures and compare insect- and wind-pollination adaptations. Select the diagram to enlarge it.</figcaption>
+</figure>
 - **Sepals** protect the bud; **petals** surround the sex organs.
 - **Stamen** (male) = **anther**, which makes pollen, on a stalk called the **filament**.
 - **Carpel** (female) = **stigma**, which receives pollen, a **style**, and an **ovary** containing one or more **ovules**.
@@ -86,10 +91,17 @@ Name the feature, then link it to the job. A feature alone earns nothing.
 
 ### From pollen tube to seed and fruit (3.4)
 
+<!-- marlbridge-diagram:bio-b15-pollen-tube-fertilisation-path -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/biology/bio-b15-pollen-tube-fertilisation-path.svg" aria-label="Open full-size diagram: pollen-tube path through the style into an ovule"><img src="/images/learning/biology/bio-b15-pollen-tube-fertilisation-path.svg" width="1600" height="960" alt="Longitudinal schematic of a carpel: pollen lands on the stigma, a tube grows down the style into the ovary and enters an ovule; male gamete nuclei move through the tube and one fuses with the egg nucleus. The ovule becomes a seed and ovary a fruit. The second fertilisation event is omitted at this IGCSE level." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Pollen tube growth and fertilisation — Marlbridge Biology. Simplified IGCSE schematic, not to scale.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:bio-b15-pollen-tube-fertilisation-path -->
+
 1. A compatible pollen grain lands on the stigma.
 2. A **pollen tube** grows out of the grain, down through the style to the ovary.
-3. The tube enters an ovule. The **male nucleus** moves down the tube.
-4. The male nucleus fuses with the **female nucleus** in the ovule. This is fertilisation, and it forms a zygote.
+3. The tube enters an ovule. The **male gamete nuclei** move down the tube.
+4. One male nucleus fuses with the **egg nucleus** in the ovule. This is fertilisation, and it forms a zygote. The second fusion in flowering plants is beyond this simplified IGCSE account.
 5. The zygote develops into the embryo plant.
 6. The **ovule becomes the seed** (its outer layer becomes the seed coat, or testa).
 7. The **ovary becomes the fruit**, which protects the seeds and often helps disperse them.
@@ -97,6 +109,14 @@ Name the feature, then link it to the job. A feature alone earns nothing.
 Keep the two terms apart: pollination moves pollen; fertilisation fuses nuclei.
 
 ### Practical: conditions for germination (3.5)
+
+<!-- marlbridge-diagram:bio-b26-edexcel-germination-fair-test -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/biology/bio-b26-edexcel-germination-fair-test.svg" aria-label="Open full-size diagram: bio-b26-edexcel-germination-fair-test"><img src="/images/learning/biology/bio-b26-edexcel-germination-fair-test.svg" width="1600" height="1050" alt="Germination practical: compare water and oxygen fairly" loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Germination practical: compare water and oxygen fairly Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:bio-b26-edexcel-germination-fair-test -->
+
 
 A seed needs three conditions to germinate:
 
@@ -115,6 +135,15 @@ The Topic 3 revision notes describe the classic set of tubes, each missing one c
 
 Control variables: species and age of seed, number of seeds, volume of water, time allowed. Light is not usually needed for germination, but keep it the same anyway.
 
+**Test water.** Divide the same batch of seeds between damp cotton wool and dry cotton wool. Keep temperature,
+oxygen access, seed number, species and time the same; repeat each condition. The dry treatment tests water
+availability, while the moist dish is the control.
+
+**Test oxygen.** Put the same seeds on equally moist cotton wool in a ventilated dish and in a validated,
+school-approved restricted-oxygen setup. Match species, age, temperature, water, light and time, and repeat.
+Change oxygen access only; do not improvise a sealed or hazardous setup. A seed that fails to germinate may
+also be dead or dormant, so a negative result alone does not identify which condition was missing.
+
 **Worked example -- percentage germination.** *60 seeds were set up at 20 °C and 51 germinated. Calculate the percentage germination.* [2]
 
 ```
@@ -125,15 +154,20 @@ percentage = (number germinated ÷ number set up) × 100
 
 ### How a germinating seed uses its food (3.6)
 
-A seed stores food in its **cotyledons** (or in an endosperm). The stores are mainly starch, with protein and in some seeds oil. When the seed takes up water, its enzymes become active:
+A seed stores food in its **cotyledons** (or in an endosperm). The reserve may contain carbohydrate, protein
+and oil in different proportions; the mix depends on the species. When the seed takes up water, its enzymes
+become active:
 
-- **amylase** breaks down starch into maltose, then glucose
+- **amylase** breaks starch into maltose; **maltase** then breaks maltose into glucose
 - **protease** breaks down proteins into amino acids
 - **lipase** breaks down lipids into fatty acids and glycerol.
 
 These soluble molecules move to the growing root and shoot. Glucose is used in **respiration** to release energy, and to make cellulose for cell walls. Amino acids make proteins for new cells.
 
-Until the first leaves open and start to photosynthesise, the seedling has no new source of food. Respiration uses up stored food, so the **dry mass falls**. Once photosynthesis makes more glucose than respiration uses, the dry mass **rises**.
+Early in germination, stored food is respired faster than photosynthesis replaces it, so the **dry mass falls**.
+As green tissue develops, photosynthesis increases; once it makes more organic material than respiration uses,
+the dry mass **rises**. The measured change is the net balance of carbon gained and lost, not a universal
+rule that photosynthesis starts only after every leaf has opened.
 
 **Worked example -- dry mass.** *The mean dry mass of a batch of bean seeds fell from 0.80 g to 0.62 g over the first five days of germination. Calculate the percentage change and explain it.* [4]
 
@@ -143,13 +177,20 @@ percentage change = (new − original) ÷ original × 100
                   = −22.5%   (a decrease of 22.5%)
 ```
 
-Explanation: stored starch is broken down and the glucose is respired [1], releasing carbon dioxide and water, so mass is lost [1]. The seedling cannot yet photosynthesise to replace it.
+Explanation: stored reserves are broken down and respired [1], releasing carbon dioxide (and water), so dry matter is lost [1]. Early on, photosynthesis does not yet replace the carbon lost in respiration.
 
 Dry mass is used because water uptake would hide the loss of food in fresh mass.
 
 ### Asexual reproduction in plants (3.7)
 
-**Runners (natural).** A strawberry plant grows side stems called runners along the soil surface. At points along a runner, new roots and shoots grow, forming a new plant that becomes independent when the runner dies or is cut. The new plants come from mitosis, so they are **genetically identical** to the parent.
+<!-- marlbridge-diagram:bio-b18-runners-cuttings -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/biology/bio-b18-runners-cuttings.svg" aria-label="Open full-size diagram: cloning by runners and cuttings"><img src="/images/learning/biology/bio-b18-runners-cuttings.svg" width="1600" height="1000" alt="A strawberry runner connects a parent plant to a new plant at a node where roots and a shoot form; four steps show cutting a shoot, removing lower leaves, applying rooting powder and planting in damp compost under a clear cover." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Runners are natural vegetative propagation; cuttings are prepared by a gardener. Clones usually share the parent's genotype, although mutation and environment can affect outcomes. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:bio-b18-runners-cuttings -->
+
+**Runners (natural).** A strawberry plant grows side stems called runners along the soil surface. At points along a runner, new roots and shoots grow, forming a new plant that becomes independent when the runner dies or is cut. The new plants form by mitosis and are usually **genetically identical** to the parent; a mutation can make a clone differ.
 
 **Cuttings (artificial).** A gardener:
 
@@ -158,11 +199,18 @@ Dry mass is used because water uptake would hide the loss of food in fresh mass.
 3. dips the cut end in rooting powder, which contains plant hormones that stimulate root growth
 4. plants it in damp compost and covers it with a clear plastic bag to keep the air humid.
 
-Cuttings give many identical plants quickly and cheaply, but all are vulnerable to the same disease.
+Cuttings can produce many plants quickly and cheaply. Clones usually share the same genotype, so they may share susceptibility to a pathogen; disease still depends on exposure and growing conditions.
 
 ## Humans
 
 ### Reproductive systems (3.8)
+
+<!-- marlbridge-diagram:bio-b20-edexcel-reproductive-anatomy -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/biology/bio-b20-edexcel-reproductive-anatomy.svg" aria-label="Open full-size diagram: male and female reproductive systems"><img src="/images/learning/biology/bio-b20-edexcel-reproductive-anatomy.svg" width="1600" height="1000" alt="Simplified sagittal views label testes, scrotum, sperm duct, seminal vesicle, prostate, urethra and penis, and ovaries, oviduct, uterus, cervix and vagina; arrows show sperm and egg routes." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Organ positions and routes are simplified and not to scale. The cervix is the narrow lower part of the uterus; it helps retain the fetus and dilates during birth. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:bio-b20-edexcel-reproductive-anatomy -->
 
 | Structure | Function | Adaptation |
 |---|---|---|
@@ -174,7 +222,7 @@ Cuttings give many identical plants quickly and cheaply, but all are vulnerable 
 | Ovaries | Release eggs; make oestrogen and progesterone | Contain many follicles, each able to mature an egg |
 | Oviduct | Carries the egg to the uterus; site of fertilisation | Lined with cilia that sweep the egg along |
 | Uterus | Where the embryo implants and develops | Thick muscular wall for birth; blood-rich lining for implantation |
-| Cervix | Ring of muscle at the neck of the uterus | Holds the fetus in the uterus; widens at birth |
+| Cervix | Narrow lower part of the uterus, opening into the vagina | Helps retain the fetus in the uterus; dilates during birth |
 | Vagina | Receives the penis and sperm; birth canal | Muscular and elastic |
 
 ### The menstrual cycle (3.9, 3.10B)
@@ -189,21 +237,30 @@ A typical cycle lasts about 28 days, starting on the first day of bleeding.
 
 **Paper 2 only (3.10B).** Two hormones from the **pituitary gland** control the ovary:
 
-- **FSH** (follicle-stimulating hormone) causes an egg to mature inside a follicle, and stimulates the ovary to produce oestrogen.
-- **LH** (luteinising hormone) peaks just before day 14 and triggers **ovulation**. It also causes the empty follicle to become the corpus luteum.
+- **FSH** (follicle-stimulating hormone) stimulates follicle development and ovarian oestrogen secretion.
+- **LH** (luteinising hormone) surges after oestrogen remains high for long enough; the surge triggers **ovulation** and formation of the corpus luteum.
 
-Rising oestrogen inhibits FSH, so no more eggs mature, and stimulates the LH surge. Progesterone inhibits both FSH and LH.
+At lower or early-cycle concentrations, oestrogen usually inhibits FSH and LH release. Sustained high oestrogen near the middle of the cycle switches to positive feedback and stimulates the LH surge. Progesterone from the corpus luteum then inhibits FSH and LH. Day 14 is approximate in a 28-day model; ovulation timing varies.
 
-**Worked example -- reading a pregnancy.** *A woman's progesterone level stays high after day 28 and she does not menstruate. Explain why.* [2]
+**Worked example -- interpreting a stated pregnancy.** *A pregnant woman's progesterone level stays high after day 28 and she does not menstruate. Explain why.* [2]
 
-- An embryo has implanted, so the corpus luteum does not break down and progesterone stays high [1]
+- In early pregnancy, embryonic hCG helps maintain the corpus luteum, so progesterone stays high [1]
 - progesterone maintains the uterus lining, so it does not break down and there is no bleeding [1].
+
+High progesterone and no bleeding alone are compatible with pregnancy but do not prove it.
 
 ### The placenta and nutrition (3.11)
 
-The **placenta** forms where the embryo attaches to the uterus wall. It is linked to the embryo by the **umbilical cord**. The blood of mother and embryo does not mix; the two are separated by a thin barrier.
+<!-- marlbridge-diagram:bio-b21-placental-villus-cross-section -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/biology/bio-b21-placental-villus-cross-section.svg" aria-label="Open full-size diagram: placental villus cross-section"><img src="/images/learning/biology/bio-b21-placental-villus-cross-section.svg" width="1600" height="1000" alt="Cross-section of a placental villus shows fetal capillaries within the villus, maternal blood in the surrounding intervillous space and a thin exchange barrier; arrows show exchange in both directions." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Maternal and fetal blood normally remain in separate spaces, close enough for exchange across the placental barrier. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:bio-b21-placental-villus-cross-section -->
 
-Substances cross by diffusion. Glucose, amino acids, fatty acids, minerals, vitamins, water and oxygen pass from mother to embryo; carbon dioxide and urea pass back.
+The **placenta** forms where the embryo attaches to the uterus wall. It is linked to the embryo by the **umbilical cord**. Maternal and fetal blood normally flow in separate spaces on opposite sides of a thin placental barrier. This keeps the main blood supplies separate while substances are exchanged across the barrier; it does not mean that every cell or molecule is absolutely prevented from crossing.
+
+Oxygen, carbon dioxide and urea cross mainly by diffusion. Glucose, amino acids and other nutrients cross by transport processes that can include facilitated diffusion or active transport; the mechanism depends on the substance. Oxygen and nutrients pass from mother to fetus; carbon dioxide and urea pass back.
 
 The placenta has a **large surface area** (many villi), a **thin barrier** for a short diffusion distance, and a **good blood supply** on both sides to keep concentration gradients steep.
 
@@ -213,12 +270,12 @@ The embryo develops inside a bag, the amnion, filled with **amniotic fluid**. Th
 
 ### Secondary sexual characteristics (3.13)
 
-At puberty, sex hormones bring about the secondary sexual characteristics.
+At puberty, sex hormones promote reproductive maturation and many secondary sexual characteristics. Timing and the pattern of changes vary between individuals.
 
-- **Testosterone** (from the testes): growth of the penis and testes, sperm production begins, facial and body hair grows, the voice deepens, muscles develop.
-- **Oestrogen** (from the ovaries): breasts develop, hips widen, the menstrual cycle begins.
+- **Testosterone** from the testes supports sperm production and reproductive-organ maturation; it also contributes to a deeper voice, increased muscle development and facial/body hair.
+- **Oestrogen** from the ovaries supports the menstrual cycle and contributes to breast development and widening hips.
 
-In both sexes, pubic and underarm hair grows during puberty.
+Pubic and underarm hair grows in many people of all sexes; adrenal androgens contribute. Growth of the penis and testes and the start of sperm production are primary reproductive changes, not secondary sexual characteristics.
 
 ## Common errors
 

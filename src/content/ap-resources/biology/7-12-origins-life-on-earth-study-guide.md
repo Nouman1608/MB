@@ -20,13 +20,13 @@ skills: ["1", "2", "3", "6"]
 studyMinutes: 35
 difficulty: "core"
 calculator: "four-function"
-calculatorNote: "Only subtraction, ratios and simple scaling are needed. Course dates: Earth formed about 4.6 billion years ago (bya); conditions became suitable about 3.9 bya; earliest fossil evidence about 3.5 bya"
+calculatorNote: "Only subtraction, ratios and simple scaling are needed. This guide uses an instructional model: Earth formed about 4.6 billion years ago (bya), a course timeline marks 3.9 bya as a possible habitability interval, and widely accepted fossil evidence is about 3.5 bya. These dates do not establish a global no-life boundary."
 related: ["mb-ap-bio-7.12-revision-notes", "mb-ap-bio-7.12-practice", "mb-ap-bio-7.12-checklist"]
 next: "mb-ap-bio-7.12-practice"
 framework: { schoolYear: "2026-27", examSeries: "May 2027" }
 sources: ["ced-biology", "page-biology"]
 keyPoints:
-  - "Earth formed about 4.6 billion years ago (bya). It was too hostile for life until about 3.9 bya. The earliest fossil evidence of life is about 3.5 bya."
+  - "Earth formed about 4.6 billion years ago (bya). A course timeline uses about 3.9 bya as a model marker for possible habitability; the oldest widely accepted fossil evidence is about 3.5 bya. Geological evidence does not prove that Earth was globally uninhabitable before 3.9 bya."
   - "Together these dates give a plausible window for the origin of life: roughly between 3.9 and 3.5 bya."
   - "The RNA world hypothesis proposes that RNA was the first genetic material, because RNA can both store information and catalyse reactions."
   - "Its three assumptions: RNA replication once carried genetic information between generations; that replication depended on base pairing; and genetically encoded proteins were not yet the catalysts."
@@ -48,7 +48,7 @@ author: "marlbridge-academic-team"
 
 No one watched life begin. So scientists build **models** of what might have happened and test them against evidence that survives today. Two kinds of evidence matter in this topic:
 
-- **Geological evidence**: the ages of rocks and what they show about early Earth's conditions, plus fossils preserved in those rocks. This tells you **when** life could have started.
+- **Geological evidence**: the ages of rocks and what they show about early Earth's conditions, plus fossils preserved in those rocks. This helps constrain when life was present and what environments may have been habitable; it does not set a single, known date when life began.
 - **Molecular evidence**: what the molecules of life can do, today and in the laboratory. This suggests **how** the first genetic system might have worked.
 
 ## Geological evidence: setting the time window
@@ -57,13 +57,13 @@ Three dates frame the story. Learn them as the course states them.
 
 | Date (approximate) | What happened | What it tells you |
 |---|---|---|
-| **4.6 bya** | Earth formed | nothing could live on Earth before this |
-| **4.6 to 3.9 bya** | the environment was too hostile for life | life could not have started and survived before about 3.9 bya |
+| **4.6 bya** | Earth formed | sets the earliest possible start for life on Earth |
+| **4.6 to 3.9 bya** | early conditions were changing; this course model marks 3.9 bya as a possible habitability point | this simplified interval is not proof that all of Earth was uninhabitable before 3.9 bya |
 | **3.5 bya** | earliest fossil evidence of life | life already existed by this time |
 
 (bya = billion years ago.)
 
-**Why hostile?** Young Earth was hot, and large asteroid and comet impacts were frequent. Big impacts released enough energy to melt rock and boil away surface water, so any early life could have been wiped out.
+**Why might early Earth have been challenging?** Earth was hot and experienced impacts, but conditions varied through time and place. Evidence from ancient zircons indicates liquid-water interaction by around 4.0 bya or earlier. This does not prove life was present, but it makes a single globally uninhabitable interval ending exactly at 3.9 bya too definite.
 
 **How are rocks dated?** Radioactive isotopes in minerals decay at known, steady rates. Measuring the ratio of a parent isotope to its decay product gives the age of the rock (radiometric dating).
 
@@ -72,7 +72,7 @@ Three dates frame the story. Learn them as the course states them.
 <figure>
 <svg viewBox="0 0 640 250" role="img" aria-labelledby="tl-title tl-desc" xmlns="http://www.w3.org/2000/svg" font-family="system-ui, sans-serif">
 <title id="tl-title">Timeline of early Earth and the window for the origin of life</title>
-<desc id="tl-desc">Horizontal timeline from 4.6 billion years ago on the left to the present day on the right, with ticks at 4, 3, 2, 1 and 0 billion years ago. A marker at 4.6 is labelled Earth forms. The section from 4.6 to 3.9 is drawn as a thick dotted bar labelled too hostile for life. The section from 3.9 to 3.5 is hatched and labelled plausible window for the origin of life. A marker at 3.5 is labelled earliest fossil evidence, stromatolites. From 3.5 to the present a solid bar is labelled life present.</desc>
+<desc id="tl-desc">Horizontal timeline from 4.6 billion years ago on the left to the present day on the right. A marker at 4.6 is labelled Earth forms. A dotted bar from 4.6 to 3.9 marks an instructional interval of uncertain habitability, not a global no-life boundary. The 3.9 to 3.5 segment is hatched and labelled course-model interval, not a proven origin window. A marker at 3.5 is labelled widely accepted fossil evidence, stromatolites; a solid bar after 3.5 indicates life is documented.</desc>
 <defs>
 <pattern id="tl-hatch" width="8" height="8" patternUnits="userSpaceOnUse" patternTransform="rotate(45)">
 <line x1="0" y1="0" x2="0" y2="8" stroke="#1d2b44" stroke-width="2"/>
@@ -99,22 +99,22 @@ Three dates frame the story. Learn them as the course states them.
 <text x="60" y="50" font-size="13" font-weight="600" fill="#1d2b44">Earth forms (4.6)</text>
 <line x1="64" y1="56" x2="64" y2="118" stroke="#1d2b44" stroke-width="1"/>
 <text x="72" y="92" font-size="12" fill="#1d2b44">Dotted:</text>
-<text x="72" y="106" font-size="12" fill="#1d2b44">too hostile</text>
-<text x="139" y="230" font-size="13" font-weight="600" fill="#1d2b44">Hatched: plausible window, 3.9 to 3.5</text>
+<text x="72" y="106" font-size="12" fill="#1d2b44">uncertain</text>
+<text x="139" y="230" font-size="13" font-weight="600" fill="#1d2b44">Course-model interval, 3.9 to 3.5</text>
 <line x1="160" y1="214" x2="160" y2="142" stroke="#1d2b44" stroke-width="1"/>
 <text x="200" y="76" font-size="13" font-weight="600" fill="#1d2b44">Earliest fossil evidence (3.5): stromatolites</text>
 <line x1="186" y1="80" x2="186" y2="118" stroke="#1d2b44" stroke-width="1"/>
 <text x="400" y="112" font-size="13" fill="#1d2b44">Solid: life present</text>
 </svg>
-<figcaption>Figure 1. The three course dates on one scale. Life could not have arisen and survived before about 3.9 bya, and it had certainly appeared by about 3.5 bya, so the origin of life most plausibly falls in the hatched window.</figcaption>
+<figcaption>Figure 1. The three approximate course dates on one scale. About 3.5 bya marks widely accepted fossil evidence, so life existed by then; its origin may be older. The hatched 3.9–3.5 bya segment is a course-model interval, not a proven boundary or the only possible origin window.</figcaption>
 </figure>
 
 **Reasoning with the dates.** The two kinds of evidence work from opposite ends:
 
-- The end of the hostile period gives the **earliest plausible date**: life could not have started and lasted before then.
+- The 3.9 bya marker is an **instructional estimate**, not a demonstrated end to global hostility or an earliest possible origin date. Early Earth environments varied and their habitability is reconstructed from incomplete evidence.
 - The oldest fossils give a **minimum age**: life must have existed by then, and it may well be older. Fossils of the very first cells, if any formed, are unlikely to survive billions of years of heat and pressure in rock.
 
-Taken together, they give a **plausible range** of dates, roughly 3.9 to 3.5 bya. Claims of even older signs of life exist, but they are disputed, because non-living processes can make similar layered shapes and chemical traces. That is why the course treats about 3.5 bya as the earliest fossil evidence.
+Taken together, the course model places its origin interval roughly between 3.9 and 3.5 bya, but this is not a firm scientific boundary. Evidence for liquid water has been reported from zircons older than 3.9 bya, while claims for life older than the widely accepted fossil record remain debated. The oldest widely accepted evidence is about 3.5 bya; the fossil record gives a minimum age, not the date life began.
 
 ## Background (beyond the required content): from simple molecules to building blocks
 
@@ -195,7 +195,7 @@ None of this proves that an RNA world existed. It shows that the idea is chemica
 
 ### Why DNA and proteins later took over
 
-If RNA came first, DNA and proteins must have taken over most of its jobs later. DNA is more stable (its sugar lacks the reactive –OH group that makes RNA easier to break), and its double strand allows damage to be repaired from the other strand. Proteins, built from 20 kinds of amino acid, can fold into a far wider range of shapes than RNA, so they make faster, more specific catalysts.
+If RNA came first, DNA and proteins must have taken over most of its jobs later. DNA is more stable (its sugar lacks the reactive –OH group that makes RNA easier to break), and its double strand allows damage to be repaired from the other strand. Proteins, built from 20 kinds of amino acid, offer a wide range of chemical groups and structures. Many enzymes catalyse reactions efficiently and specifically, but the relative speed and specificity depend on the reaction; RNA still catalyses reactions in modern cells, including peptide-bond formation at the ribosome.
 
 ## Worked example 1: putting the dates in proportion
 
@@ -234,12 +234,12 @@ If RNA came first, DNA and proteins must have taken over most of its jobs later.
 3. Tube 4 should stay at the tube 2 level, because no protein is involved (assumption 3).
 4. Tube 5 should fall to the tube 1 level, because copying depends on base pairing (assumption 2).
 
-**(c) Interpretation.** The results match every prediction. Tube 2 copies about 46 times as many templates as tube 1 (18.6 ÷ 0.4 = 46.5), so the null hypothesis is rejected. RNase removes the effect (0.5%) but protease does not (18.1%, about 97% of tube 2), so the catalyst is RNA, not a contaminating protein. Without base pairing (tube 5), almost nothing is copied. The data **support** two assumptions of the RNA world hypothesis. They do not show that such an RNA arose on early Earth: R7 was made in a modern laboratory, with purified ingredients.
+**(c) Interpretation.** The values follow the predictions in this fictional demonstration. Tube 2 copies about 46 times as many templates as tube 1 (18.6 ÷ 0.4 = 46.5), but without replicate measurements or an uncertainty model this difference is descriptive; it does not by itself justify a statistical rejection of the null hypothesis. The RNase result (0.5%) and protease result (18.1%, about 97% of tube 2) are consistent with an RNA catalyst only if the nuclease is removed or inactivated before the copying reaction and matched controls show it did not destroy the template or primer nonspecifically. Without base pairing (tube 5), little is copied. With those controls, the data would support two assumptions of the RNA-world hypothesis. They do not show that such an RNA arose on early Earth: R7 was made in a modern laboratory with purified ingredients.
 
 ## Common misconceptions
 
 - **"The fossils show exactly when life began."** Fossils give a minimum age. Life may be older than its oldest surviving fossils.
-- **"Earth was suitable for life as soon as it formed."** For several hundred million years it was too hostile: hot and frequently hit by large impacts.
+- **"Earth was suitable for life as soon as it formed."** Early Earth changed substantially, but geological evidence does not establish one global date when all environments first became habitable; about 3.9 bya is a course-model marker, not a proven no-life boundary.
 - **"The first genetic material was DNA."** The RNA world hypothesis proposes RNA, because RNA can both store information and catalyse reactions; DNA needs protein enzymes to be copied.
 - **"All biological catalysts are proteins."** Ribozymes are RNA catalysts, and the ribosome's core is one.
 - **"A hypothesis supported by evidence is proven."** The RNA world is a model supported by several lines of evidence, not a proven fact.

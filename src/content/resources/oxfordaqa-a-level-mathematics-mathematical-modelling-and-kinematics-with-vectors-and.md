@@ -41,6 +41,8 @@ Use it with the [revision notes](/resources/oxfordaqa-a-level-mathematics-mathem
 
 ## M2.1 Mathematical modelling
 
+<figure class="learning-diagram" style="margin:1.5rem 0;"><a href="/public/images/learning/mathematics/math-sub-415-mathematical-modelling-cycle.svg" aria-label="Open full-size diagram: math-sub-415-mathematical-modelling-cycle"><img src="/public/images/learning/mathematics/math-sub-415-mathematical-modelling-cycle.svg" width="1528" height="940" alt="Translate a situation into assumptions, solve, then compare against evidence Real situation → state assumptions; Form mathematical model → solve; Interpret answer in context; Compare prediction with observation → revise assumptions" loading="lazy" decoding="async" style="display:block;width:100%;height:auto;" /></a><figcaption>Build, test and refine a mathematical model — Marlbridge Mathematics</figcaption></figure>
+
 A model replaces a real situation by a simpler one you can solve. You make assumptions, solve the maths, then interpret the answer in context and ask whether it is believable. If the prediction and the evidence disagree, you adjust the assumptions and try again.
 
 You must be able to comment on these assumptions.
@@ -65,6 +67,14 @@ v = u + at = 9.8 × 2.4744… = 24.2 m s⁻¹ (3 s.f.)
 The model predicts 2.47 s, but the measured time is longer. That fits an assumption that ignores air resistance, which slows the fall. A refinement is to include a resistive force. Timing error is another source of difference, so you would repeat the timing before blaming the model.
 
 ## M2.2 Position, velocity and acceleration with calculus
+
+<!-- marlbridge-diagram:math-final-415-vector-position-velocity-acceleration -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/mathematics/math-final-415-vector-position-velocity-acceleration.svg" aria-label="Open full-size diagram: math-final-415-vector-position-velocity-acceleration"><img src="/images/learning/mathematics/math-final-415-vector-position-velocity-acceleration.svg" width="1528" height="940" alt="Position vector flows through first and second derivatives to velocity and acceleration, with the source example evaluated at t=5." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Position vector flows through first and second derivatives to velocity and acceleration, with the source example evaluated at t=5.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:math-final-415-vector-position-velocity-acceleration -->
+
 
 For a particle with position vector r relative to a fixed origin O, at time t:
 

@@ -109,6 +109,14 @@ You cannot use 1/2 here, because the two ways of landing are not equally likely.
 
 ## S10: expected frequency
 
+<!-- marlbridge-diagram:math-b56-oxfordaqa-spinner-expected-frequency -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/public/images/learning/mathematics/math-b56-oxfordaqa-spinner-expected-frequency.svg" aria-label="Open full-size diagram: math-b56-oxfordaqa-spinner-expected-frequency"><img src="/public/images/learning/mathematics/math-b56-oxfordaqa-spinner-expected-frequency.svg" width="1528" height="940" alt="A spinner has shaded probability 3/8. In 240 spins, eight equal blocks of 30 represent the trials; three shaded blocks give expected frequency 90, with an explicit note that a single run can differ." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>A spinner has shaded probability 3/8. In 240 spins, eight equal blocks of 30 represent the trials; three shaded blocks give expected frequency 90, with an explicit note that a single run can differ.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:math-b56-oxfordaqa-spinner-expected-frequency -->
+
+
 **Expected frequency** is how many times you expect an event to happen in a number of trials:
 
 ```

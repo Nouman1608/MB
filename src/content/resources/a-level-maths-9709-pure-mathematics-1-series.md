@@ -66,6 +66,14 @@ There are n + 1 terms. The general term is ⁿCᵣ aⁿ⁻ʳ bʳ. The powers of 
 
 **Worked example 1.** Find the first four terms, in ascending powers of x, of (3 + 2x)⁶.
 
+<!-- marlbridge-diagram:maths-b15-series-binomial-first-terms -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/mathematics/maths-b15-series-binomial-first-terms.svg" aria-label="Open full-size diagram: maths-b15-series-binomial-first-terms"><img src="/images/learning/mathematics/maths-b15-series-binomial-first-terms.svg" width="1600" height="1050" alt="Term-by-term expansion of (3 + 2x)^6 showing the first four terms 729 + 2916x + 4860x² + 4320x³." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Term-by-term expansion of (3 + 2x)^6 showing the first four terms 729 + 2916x + 4860x² + 4320x³. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:maths-b15-series-binomial-first-terms -->
+
+
 Here a = 3, b = 2x and n = 6. Put brackets round 2x so the 2 is raised to the power too.
 
 ```
@@ -187,6 +195,14 @@ r = ½  or  r = −3/2
 For a small number of terms, writing the terms out is simpler than using the Sₙ formula, which would give a cubic over (1 − r).
 
 ## 5. Convergence and the sum to infinity
+
+<!-- marlbridge-diagram:maths-p1-series-ap-gp-convergence -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/mathematics/maths-p1-series-ap-gp-convergence.svg" aria-label="Open full-size diagram: maths-p1-series-ap-gp-convergence"><img src="/images/learning/mathematics/maths-p1-series-ap-gp-convergence.svg" width="1600" height="1050" alt="Comparison of arithmetic and geometric progressions, with formulae and the necessary absolute-ratio condition for a sum to infinity." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Series: identify an AP or GP, then check convergence Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:maths-p1-series-ap-gp-convergence -->
+
 
 If |r| < 1, then rⁿ gets closer and closer to 0 as n increases. So Sₙ = a(1 − rⁿ)/(1 − r) approaches a fixed value, and the GP is **convergent**. Its **sum to infinity** is (in MF19):
 

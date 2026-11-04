@@ -111,7 +111,15 @@ Always check with the other particle. If the checks differ, one equation has a s
 
 If a string passes over a smooth fixed pulley or peg, the tension is the same on both sides. Each particle gets its own equation, and the acceleration has the same size for both. Take "positive" as the direction each particle moves in.
 
-**Example 4.** Particles of mass 7 kg and 4 kg hang at the ends of a light inextensible string over a smooth fixed pulley. They are released from rest with the 7 kg particle 1.5 m above the ground. Find the acceleration and the tension before the 7 kg particle lands.
+**Example 4.** Particles of mass 7 kg and 4 kg hang
+
+<!-- marlbridge-diagram:maths-b23-connected-particles-7kg-4kg -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/mathematics/maths-b23-connected-particles-7kg-4kg.svg" aria-label="Open full-size diagram: maths-b23-connected-particles-7kg-4kg"><img src="/images/learning/mathematics/maths-b23-connected-particles-7kg-4kg.svg" width="1600" height="1050" alt="A 7 kg mass descends and a 4 kg mass rises on a light inextensible string over a smooth fixed pulley. Both have acceleration magnitude a and the string tension is T. Equations 7g−T=7a and T−4g=4a give a=3g/11=2.67 m s⁻² and T=56g/11=49.9 N for g=9.8 m s⁻²." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>A 7 kg mass descends and a 4 kg mass rises on a light inextensible string over a smooth fixed pulley. Both have acceleration magnitude a and the string tension is T. Equations 7g−T=7a and T−4g=4a give a=3g/11=2.67 m s⁻² and T=56g/11=49.9 N for g=9.8 m s⁻². Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:maths-b23-connected-particles-7kg-4kg -->
+ at the ends of a light inextensible string over a smooth fixed pulley. They are released from rest with the 7 kg particle 1.5 m above the ground. Find the acceleration and the tension before the 7 kg particle lands.
 
 ```
 7 kg (moving down):  7g − T = 7a

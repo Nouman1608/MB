@@ -38,6 +38,14 @@ Irreducible quadratic factors are not tested. Domain, range, composite and inver
 
 ## Combining transformations
 
+<!-- marlbridge-diagram:math-sub-434-combine-transformations -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/mathematics/math-sub-434-combine-transformations.svg" aria-label="Open full-size diagram: math-sub-434-combine-transformations"><img src="/images/learning/mathematics/math-sub-434-combine-transformations.svg" width="1528" height="940" alt="Graph comparison shows why stretch then translate gives 3x²+2, while translate then stretch gives 3x²+6." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Apply transformations to the current equation in order — Marlbridge Mathematics.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:math-sub-434-combine-transformations -->
+
+
 Each single transformation changes the equation in one place.
 
 | Change to y = f(x) | Effect on the graph |
@@ -78,6 +86,14 @@ Write 3x − 6 = 3(x − 2). Solve the inside for the old x-value: 3x − 6 = 2 
 
 ## Factor Theorem and Remainder Theorem with (ax + b)
 
+<!-- marlbridge-diagram:math-sub-434-factor-remainder-theorem -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/mathematics/math-sub-434-factor-remainder-theorem.svg" aria-label="Open full-size diagram: math-sub-434-factor-remainder-theorem"><img src="/images/learning/mathematics/math-sub-434-factor-remainder-theorem.svg" width="1528" height="940" alt="Testing x=−b/a gives the remainder; zero remainder proves a factor. A second example forms simultaneous equations for p and q." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Evaluate the polynomial at the divisor root — Marlbridge Mathematics.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:math-sub-434-factor-remainder-theorem -->
+
+
 For a polynomial f(x) and a divisor (ax + b):
 
 - Remainder Theorem: the remainder on dividing f(x) by (ax + b) is f(−b/a).
@@ -105,6 +121,14 @@ Adding 2 × (second) to the first gives 5p = 5, so p = 1 and q = −2. Then f(x)
 
 ## Simplifying rational expressions
 
+<!-- marlbridge-diagram:math-sub-434-simplify-rational -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/mathematics/math-sub-434-simplify-rational.svg" aria-label="Open full-size diagram: math-sub-434-simplify-rational"><img src="/images/learning/mathematics/math-sub-434-simplify-rational.svg" width="1528" height="940" alt="A rational expression is factorised before cancelling; the original denominator still excludes x=3 and x=−3." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Cancel common factors, while preserving domain restrictions — Marlbridge Mathematics.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:math-sub-434-simplify-rational -->
+
+
 Factorise the numerator and the denominator completely, then cancel common factors. Never cancel terms that are added.
 
 **Example 7.** Simplify (3x³ + 4x² − 17x − 6)/(x² − 9).
@@ -124,6 +148,14 @@ The numerator is (3x + 1)(x − 2)(x + 3) from Example 5, and x² − 9 = (x −
 ```
 
 ## Algebraic division
+
+<!-- marlbridge-diagram:math-sub-434-polynomial-division -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/mathematics/math-sub-434-polynomial-division.svg" aria-label="Open full-size diagram: math-sub-434-polynomial-division"><img src="/images/learning/mathematics/math-sub-434-polynomial-division.svg" width="1528" height="940" alt="Long division of a cubic by a linear expression, with the quotient and remainder checked." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Polynomial long division: repeat divide, multiply, subtract — Marlbridge Mathematics.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:math-sub-434-polynomial-division -->
+
 
 Any correct method is accepted. Whichever you use, the aim is the identity
 
@@ -159,6 +191,22 @@ So (6x³ − 5x² − 14x + 9)/(2x − 3) = 3x² + 2x − 4 − 3/(2x − 3). Th
 Multiply through: 5x² ≡ A(x + 2)(x − 3) + Bx + C = A(x² − x − 6) + Bx + C. Matching x²: A = 5. Matching x: 0 = −A + B, so B = 5. Matching constants: 0 = −6A + C, so C = 30. The remainder part is (5x + 30)/((x + 2)(x − 3)).
 
 ## Partial fractions
+
+<!-- marlbridge-diagram:math-sub-434-partial-fractions -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/mathematics/math-sub-434-partial-fractions.svg" aria-label="Open full-size diagram: math-sub-434-partial-fractions"><img src="/images/learning/mathematics/math-sub-434-partial-fractions.svg" width="1528" height="940" alt="Distinct and repeated linear factors require different decompositions; divide first if the numerator degree is too large." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Choose the partial-fraction form from the denominator — Marlbridge Mathematics.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:math-sub-434-partial-fractions -->
+
+
+<!-- marlbridge-diagram:math-final-434-partial-fractions-distinct-factors -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/mathematics/math-final-434-partial-fractions-distinct-factors.svg" aria-label="Open full-size diagram: math-final-434-partial-fractions-distinct-factors"><img src="/images/learning/mathematics/math-final-434-partial-fractions-distinct-factors.svg" width="1528" height="940" alt="Factor-zero substitutions solve for A and B in a partial-fraction decomposition." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Factor-zero substitutions solve for A and B in a partial-fraction decomposition.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:math-final-434-partial-fractions-distinct-factors -->
+
 
 A fraction with a factorised denominator can be written as a sum of simpler fractions. The setup depends on the denominator.
 

@@ -150,7 +150,7 @@ The visible part is a narrow band in the middle. In order of decreasing waveleng
 <figcaption>Figure 2. The order of the electromagnetic spectrum from longest wavelength (left) to shortest (right), with the visible band expanded. The boxes have equal widths because only the order matters here. The real categories cover very different ranges and blend into each other at the edges.</figcaption>
 </figure>
 
-A memory aid that works in both directions: going from radio to gamma, wavelength goes **down** and frequency goes **up**. Within the visible band, red has the longest wavelength and the lowest frequency; violet has the shortest wavelength and the highest frequency. In Topic 14.2 you saw that the energy of a wave increases with frequency. Unit 15 makes this precise for light: it arrives in photons, and each photon of ultraviolet, X-ray or gamma radiation carries more energy than a photon of visible light or radio.
+A memory aid that works in both directions: going from radio to gamma, wavelength goes **down** and frequency goes **up**. Within the visible band, red has the longest wavelength and the lowest frequency; violet has the shortest wavelength and the highest frequency. For light, energy per photon increases with frequency (E = hf), as developed in Unit 15. This is different from the intensity or total energy of a classical beam, which also depends on field amplitude, photon flux and duration. A higher-frequency beam is not automatically a more intense beam.
 
 **Background (not assessed).** Visible light covers roughly 400 nm (violet) to 700 nm (red). You will not be asked for exact limits of any category, but this rough scale helps you check whether an answer is sensible.
 

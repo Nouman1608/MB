@@ -173,7 +173,7 @@ The satellite moves **fastest at its closest point** and slowest at its farthest
 
 ## Zero at infinity: bound and unbound
 
-Because U_g = 0 at infinity, the sign of E tells you whether the satellite can get away:
+With U_g = 0 at infinity, the sign of E tells you whether infinity is energetically accessible. The escape outcomes in the table assume an outward, collision-free trajectory that does not intersect the central body; sufficient energy alone does not prevent impact:
 
 | Total energy E | What happens |
 |---|---|
@@ -189,7 +189,7 @@ The **escape speed** from distance r is the speed that makes the total mechanica
 
 ½mv_esc² − GMm/r = 0, so **v_esc = √(2GM/r)**
 
-A satellite launched at exactly this speed, with only gravity acting, moves away forever. Its speed keeps falling and reaches zero only at an infinite distance.
+A satellite launched outward at exactly this speed, with only gravity acting and a trajectory that does not intersect the central body, can move away without returning. Its speed decreases toward zero only as the distance grows without limit.
 
 Three things to notice:
 

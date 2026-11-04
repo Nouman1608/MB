@@ -190,6 +190,14 @@ the variances together, and against their effect on profit.
 
 ## 4. Reconciliation statements
 
+<!-- marlbridge-diagram:accounting-standard-profit-reconciliation -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/accounting/accounting-standard-profit-reconciliation.svg" aria-label="Open full-size diagram: accounting-standard-profit-reconciliation"><img src="/images/learning/accounting/accounting-standard-profit-reconciliation.svg" width="1600" height="1050" alt="Reconciliation bridges budgeted profit to actual profit using favourable and adverse variances." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Reconciliation bridges budgeted profit to actual profit using favourable and adverse variances. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:accounting-standard-profit-reconciliation -->
+
+
 ### Budgeted cost and actual cost
 
 To reconcile cost, start from the **standard (budgeted) cost of the actual output**. Comparing the

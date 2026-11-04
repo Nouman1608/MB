@@ -67,7 +67,21 @@ When asked to explain the effect of a change, give a chain: change → what it d
 
 Photosynthetic organisms are the producers of biomass for life on Earth. Every food chain starts with a **producer** that synthesises molecules, usually a green plant or alga making glucose by photosynthesis. Producers are eaten by **primary consumers**, then **secondary** and **tertiary consumers**. Consumers that kill and eat other animals are **predators**; those eaten are **prey**.
 
-In a stable community, predator and prey numbers rise and fall in **cycles**. The predator peak comes after the prey peak: more prey means more food, so more predators survive and breed; more predators then eat more prey, so prey numbers fall; with less food, predator numbers fall, and the cycle repeats.
+<!-- marlbridge-diagram:food-web-arrow-direction -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/biology/food-web-arrow-direction.svg" aria-label="Open full-size diagram: food-web arrows and trophic levels"><img src="/images/learning/biology/food-web-arrow-direction.svg" width="1528" height="871" alt="Illustrative food web showing arrows from food organisms to consumers, with trophic level depending on the feeding route" loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Arrows point from the organism eaten to its consumer and show energy transfer. A consumer's trophic level can differ by feeding route. Select to enlarge.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:food-web-arrow-direction -->
+
+Predator and prey populations can rise and fall in cycles. In the simple pattern shown below, the prey peak comes before the predator peak: abundant prey can support predator survival and breeding; a rise in predators can then reduce prey numbers, followed by a fall in predator numbers as prey become less available. This is a conceptual pattern, not a rule for every ecosystem; cycles and the time lag vary.
+
+<!-- marlbridge-diagram:bio-b20-predator-prey-time-series -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/biology/bio-b20-predator-prey-time-series.svg" aria-label="Open full-size diagram: predator and prey population cycles"><img src="/images/learning/biology/bio-b20-predator-prey-time-series.svg" width="1600" height="1000" alt="Conceptual time-series graph with prey population peaks preceding predator population peaks; labelled as illustrative rather than real measurements" loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Conceptual curves only; real population cycles and time lags vary between ecosystems. Select to enlarge.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:bio-b20-predator-prey-time-series -->
 
 ### Required practical 9: sampling
 
@@ -75,6 +89,15 @@ You measure the population size of a common species and use sampling to investig
 
 - **Quadrats placed at random** (using coordinates from a random number generator on a grid) estimate **abundance**. Count the organisms in each quadrat, find the mean, scale up to the whole area.
 - A **transect** is a line (a tape) across a habitat where a factor changes, such as light from a hedge into a field. Place quadrats at regular intervals along it and record the species and an abiotic factor at each point. This shows **distribution**.
+
+Random coordinates reduce the chance of choosing places because they look representative; they do not remove every source of bias. Use enough quadrats to reflect the variation across the habitat, and consider clustering and the limits of the sampled area when judging an estimate.
+
+<!-- marlbridge-diagram:quadrat-transect-sampling -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/biology/quadrat-transect-sampling.svg" aria-label="Open full-size diagram: quadrat and transect sampling"><img src="/images/learning/biology/quadrat-transect-sampling.svg" width="1528" height="871" alt="Sampling guide showing random quadrats to estimate abundance and fixed-interval quadrats along a transect to investigate distribution across a gradient" loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Random quadrats estimate abundance; repeated transects show distribution along a gradient. Replication reveals variability. Select to enlarge.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:quadrat-transect-sampling -->
 
 You must understand **mean**, **median** and **mode**, calculate arithmetic means, and plot suitable graphs with sensible scales.
 
@@ -111,16 +134,23 @@ Many materials cycle through the abiotic and biotic parts of an ecosystem. All m
 
 ### Required practical 10: decay of milk
 
-You investigate the effect of temperature on the rate of decay of fresh milk by measuring pH change. As bacteria break down the milk, acid is produced, so the pH falls.
+In AQA's suggested required practical 10, milk is made alkaline and lipase is added. Lipase breaks milk fats into fatty acids, so the pH falls. Compare temperatures using the same milk, starting mixture, lipase volume and measurement method. A water bath helps set each temperature. Measure pH at consistent time intervals or use the same indicator end-point method throughout; follow the teacher-approved practical protocol.
+
+<!-- marlbridge-diagram:bio-b20-milk-decay-apparatus -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/biology/bio-b20-milk-decay-apparatus.svg" aria-label="Open full-size diagram: AQA required practical 10 milk decay"><img src="/images/learning/biology/bio-b20-milk-decay-apparatus.svg" width="1600" height="1000" alt="Three matched water-bath temperature conditions for the AQA milk-decay practical, with alkaline milk and indicator, a measured addition of lipase to start timing, and pH or colour-change measurements at a consistent endpoint" loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Lipase releases fatty acids from milk fats; the pH then falls. Keep volumes, starting mixture, timing and measurement method comparable. Select to enlarge.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:bio-b20-milk-decay-apparatus -->
 
 **Worked example 2.** At 30 °C, milk falls from pH 6.7 to pH 5.5 in 40 minutes.
 
 ```
 Change in pH = 6.7 − 5.5 = 1.2
-Rate = 1.2 ÷ 40 = 0.03 pH units per minute
+Average rate of pH change = 1.2 ÷ 40 = 0.03 pH units per minute
 ```
 
-The same idea works with mass: compost that falls from 800 g to 560 g in 12 weeks decays at (800 − 560) ÷ 12 = **20 g per week**.
+This is an average change in pH, not a direct measurement of acid concentration or enzyme rate: pH is logarithmic, and milk buffering affects the relationship between pH and acid produced. The same idea works with mass: compost that falls from 800 g to 560 g in 12 weeks decays at (800 − 560) ÷ 12 = **20 g per week**.
 
 ### Environmental change (4.7.2.4) -- Higher tier only
 
@@ -128,7 +158,7 @@ Changes in **temperature**, **availability of water** and **composition of atmos
 
 ## Biodiversity and human impact (4.7.3)
 
-**Biodiversity** is the variety of all the different species of organisms on Earth, or within an ecosystem. High biodiversity makes ecosystems stable by reducing the dependence of one species on another for food, shelter and maintenance of the physical environment.
+**Biodiversity** is the variety of all the different species of organisms on Earth, or within an ecosystem. Greater biodiversity can support ecosystem function and resilience to some disturbances, but it does not guarantee stability: the outcome depends on species' roles, their interactions and the disturbance.
 
 A growing human population and higher standard of living use more resources and make more waste.
 
@@ -159,22 +189,38 @@ Evaluation questions expect both sides: the benefit to biodiversity and the cost
 
 **Apex predators** are carnivores with no predators. **Decomposers** secrete enzymes into the environment; small soluble food molecules then diffuse into the microorganism.
 
-A **pyramid of biomass** has trophic level 1 at the bottom, with bar widths drawn to scale. Producers transfer about **1 %** of incident light energy for photosynthesis. Only about **10 %** of the biomass at each level passes to the level above. Biomass is lost because:
+A **pyramid of biomass** represents the standing biomass at each trophic level in a sampled area and time; trophic level 1 is at the bottom and bar widths represent the measured masses. It is a snapshot of biomass, not a rate of energy transfer per year. A small fraction of incident light energy is captured in photosynthesis; any percentage such as **1 %** is an approximate teaching value, not a universal constant. **About 10 %** is often used as a simplified estimate of biomass transfer to the next trophic level, but actual efficiency varies.
 
 - not all ingested material is absorbed -- some is egested as faeces
 - some absorbed material is lost as waste: carbon dioxide and water in respiration, water and urea in urine
 - large amounts of glucose are used in respiration.
 
-**Worked example 3.** Biomass: producers 5000 g/m², primary consumers 450 g/m², secondary consumers 40 g/m².
+<!-- marlbridge-diagram:bio-b18-biomass-pyramid-worked-example -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/biology/bio-b18-biomass-pyramid-worked-example.svg" aria-label="Open full-size diagram: worked pyramid of biomass"><img src="/images/learning/biology/bio-b18-biomass-pyramid-worked-example.svg" width="1600" height="1000" alt="Pyramid of standing biomass with producers 5000, primary consumers 450 and secondary consumers 40 grams per square metre, plus worked percentage transfers" loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Worked example uses the guide's standing-biomass snapshot. Bars show relative mass; the smallest bar has a visibility minimum noted in the figure. Adjacent-stock ratios are not transfer efficiencies unless the values represent production over the same interval.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:bio-b18-biomass-pyramid-worked-example -->
+
+**Worked example 3.** A snapshot records standing biomass of 5000 g/m² for producers, 450 g/m² for primary consumers and 40 g/m² for secondary consumers.
 
 ```
-Efficiency (level 1 → 2) = 450 ÷ 5000 × 100 = 9.0 %
-Efficiency (level 2 → 3) = 40 ÷ 450 × 100 = 8.9 % (2 s.f.)
+Adjacent standing-biomass ratio (level 1 → 2) = 450 ÷ 5000 × 100 = 9.0 %
+Adjacent standing-biomass ratio (level 2 → 3) = 40 ÷ 450 × 100 = 8.9 % (2 s.f.)
 ```
+
+These are ratios between standing stocks, not transfer efficiencies by themselves. To calculate biomass-transfer efficiency, the compared values must describe biomass produced or transferred over the same time interval.
 
 Because so little biomass passes up, less biomass is available at each higher level, so fewer organisms can be supported there.
 
 ## Food production (4.7.5)
+<!-- marlbridge-diagram:bio-b24-aqa-fusarium-fermenter -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/biology/bio-b24-aqa-fusarium-fermenter.svg" aria-label="Open full-size diagram: bio-b24-aqa-fusarium-fermenter"><img src="/images/learning/biology/bio-b24-aqa-fusarium-fermenter.svg" width="1528" height="940" alt="Glucose syrup and air supply an aerobic Fusarium culture in an agitated vessel. Temperature and pH are monitored, exhaust is filtered, and fungal biomass is harvested and purified into mycoprotein." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Fusarium grows on glucose syrup under aerobic conditions; biomass is harvested and purified. The diagram does not prescribe numerical operating conditions. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:bio-b24-aqa-fusarium-fermenter -->
+
 
 **Food security** means having enough food to feed a population. Threats: rising birth rate in some countries; changing diets in developed countries moving scarce food around the world; new pests and pathogens; environmental changes such as rains failing; the cost of agricultural inputs; conflicts affecting water or food.
 
@@ -182,7 +228,7 @@ Because so little biomass passes up, less biomass is available at each higher le
 
 **Sustainable fisheries.** Fish stocks are declining. **Control of net size** (larger mesh lets young fish escape to breed) and **fishing quotas** help keep stocks at a level where breeding continues.
 
-**Biotechnology.** The fungus *Fusarium* produces **mycoprotein**, a protein-rich food suitable for vegetarians; it is grown on glucose syrup in aerobic conditions and the biomass is harvested and purified. A genetically modified bacterium produces human insulin to treat diabetes. GM crops could give more food or food with better nutritional value, such as **golden rice**.
+**Biotechnology.** The fungus *Fusarium* produces **mycoprotein**, a protein-rich food suitable for vegetarians; it is grown on glucose syrup in aerobic conditions and the biomass is harvested and purified. A genetically modified bacterium produces human insulin to treat diabetes. GM crops could increase food production or nutritional value in particular settings. **Golden Rice** is engineered to produce beta-carotene, a precursor the body can convert to vitamin A; it is not preformed vitamin A, and its potential contribution depends on factors such as access, consumption and the wider diet.
 
 ## Common errors
 

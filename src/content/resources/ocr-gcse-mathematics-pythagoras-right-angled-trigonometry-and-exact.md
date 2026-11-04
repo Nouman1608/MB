@@ -221,6 +221,12 @@ tan θ = 12 / (5√2), so θ = 59.5° (1 d.p.)
 The angle between a sloping face and the base uses the perpendicular from the apex to the middle of a base edge instead: tan φ = 12/5, so φ = 67.4°. The slant height of that face is √(12² + 5²) = 13 cm.
 
 ## Exact trigonometric values (10.05c)
+<!-- marlbridge-diagram:maths-b19-special-trig-values -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/mathematics/maths-b19-special-trig-values.svg" aria-label="Open full-size diagram: maths-b19-special-trig-values"><img src="/images/learning/mathematics/maths-b19-special-trig-values.svg" width="1600" height="1050" alt="Special triangles have side ratios 1:√3:2 for 30°–60°–90° and 1:1:√2 for 45°–45°–90°." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Special triangles have side ratios 1:√3:2 for 30°–60°–90° and 1:1:√2 for 45°–45°–90°. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:maths-b19-special-trig-values -->
 
 Two triangles give every value you need.
 

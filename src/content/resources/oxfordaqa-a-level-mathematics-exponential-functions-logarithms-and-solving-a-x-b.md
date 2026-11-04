@@ -35,6 +35,8 @@ Use it with the [revision notes](/resources/oxfordaqa-a-level-mathematics-expone
 
 ## 1. The graph of y = a^x
 
+<figure class="learning-diagram" style="margin:1.5rem 0;"><a href="/public/images/learning/mathematics/math-sub-403-exponential-graphs.svg" aria-label="Open full-size diagram: math-sub-403-exponential-graphs"><img src="/public/images/learning/mathematics/math-sub-403-exponential-graphs.svg" width="1528" height="940" alt="Both curves pass (0,1) and approach y = 0 without touching it a > 1: increasing curve; 0 < a < 1: decreasing curve; 4ˣ: (−1,¼), (0,1), (1,4); (¼)ˣ = 4⁻ˣ: reflection in y-axis" loading="lazy" decoding="async" style="display:block;width:100%;height:auto;" /></a><figcaption>Compare increasing and decreasing exponentials — Marlbridge Mathematics</figcaption></figure>
+
 Take a > 0 and a ≠ 1. The graph of y = a^x always has these features.
 
 - The point (0, 1) is always on the curve, since a⁰ = 1.
@@ -54,6 +56,8 @@ The second row is the first row reversed. That is because (1/4)^x = 4^(−x), so
 Sketch description for y = 4^x: start just above the negative x-axis on the left, cross the y-axis at (0, 1), then climb steeply, passing (1, 4) and (2, 16). Label the intercept (0, 1) and say "asymptote y = 0".
 
 ### Laws of indices you will use
+
+<figure class="learning-diagram" style="margin:1.5rem 0;"><a href="/public/images/learning/mathematics/math-sub-403-index-laws-exponential-equations.svg" aria-label="Open full-size diagram: math-sub-403-index-laws-exponential-equations"><img src="/public/images/learning/mathematics/math-sub-403-index-laws-exponential-equations.svg" width="1528" height="940" alt="Rewrite both sides as powers of a common base before equating exponents 125^(x+1) = 25^(2x−1); 5^(3x+3) = 5^(4x−2); 3x + 3 = 4x − 2; x = 5" loading="lazy" decoding="async" style="display:block;width:100%;height:auto;" /></a><figcaption>Use index laws to match bases — Marlbridge Mathematics</figcaption></figure>
 
 ```
 a^m × a^n = a^(m+n)        a^m ÷ a^n = a^(m−n)
@@ -76,6 +80,8 @@ x = 5
 Check: 125⁶ = 5¹⁸ and 25⁹ = 5¹⁸. This only works when both sides can be written with the same base. When they cannot, you need logarithms (section 4).
 
 ## 2. Logarithms and the equivalence with indices
+
+<figure class="learning-diagram" style="margin:1.5rem 0;"><a href="/public/images/learning/mathematics/math-sub-403-logarithm-inverse.svg" aria-label="Open full-size diagram: math-sub-403-logarithm-inverse"><img src="/public/images/learning/mathematics/math-sub-403-logarithm-inverse.svg" width="1528" height="940" alt="A logarithm asks which exponent produces the stated value 2⁵ = 32; ⇕ equivalent statements; log₂ 32 = 5; logₐ y = x ⇔ aˣ = y" loading="lazy" decoding="async" style="display:block;width:100%;height:auto;" /></a><figcaption>Read logarithms as inverse powers — Marlbridge Mathematics</figcaption></figure>
 
 The logarithm answers the question "what power?". The two statements below say the same thing.
 
@@ -108,6 +114,8 @@ The method is always the same: write the logarithm equal to k, convert to index 
 (b) x = 2⁻³ = **1/8**.
 
 ## 3. The laws of logarithms
+
+<figure class="learning-diagram" style="margin:1.5rem 0;"><a href="/public/images/learning/mathematics/math-sub-403-log-laws.svg" aria-label="Open full-size diagram: math-sub-403-log-laws"><img src="/public/images/learning/mathematics/math-sub-403-log-laws.svg" width="1528" height="940" alt="All terms must share the same base logₐx + logₐy = logₐ(xy); logₐx − logₐy = logₐ(x/y); k logₐx = logₐ(xᵏ); 2 log₅10 − log₅4 = log₅25 = 2" loading="lazy" decoding="async" style="display:block;width:100%;height:auto;" /></a><figcaption>Combine logarithms using product, quotient and power laws — Marlbridge Mathematics</figcaption></figure>
 
 All three laws need the same base on every term.
 
@@ -148,6 +156,14 @@ x² − 2x − 8 = 0
 The roots are x = 4 and x = −2. Because log₂x needs x > 0, discard x = −2. The solution is **x = 4**. Check: log₂4 + log₂2 = 2 + 1 = 3.
 
 ## 4. Solving a^x = b
+
+<!-- marlbridge-diagram:math-final-403-logarithmic-equation-solve -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/mathematics/math-final-403-logarithmic-equation-solve.svg" aria-label="Open full-size diagram: math-final-403-logarithmic-equation-solve"><img src="/images/learning/mathematics/math-final-403-logarithmic-equation-solve.svg" width="1528" height="940" alt="Equation flow takes logarithms, brings down the exponent and solves to x about 0.315." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Equation flow takes logarithms, brings down the exponent and solves to x about 0.315.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:math-final-403-logarithmic-equation-solve -->
+
 
 When the bases will not match, take logarithms of both sides. You may choose any base for the logarithms provided both sides use the same one; the calculator's logarithm function then gives numerical values. The key step is the third law: it brings the unknown power down in front.
 
@@ -199,6 +215,8 @@ x = log 0.3 / log 0.8 = 5.40   (3 s.f.)
 Both logarithms are negative, so the quotient is positive. That agrees with the graph: 0.8^x falls, and it equals 0.3 at a positive x.
 
 ### Using this in context
+
+<figure class="learning-diagram" style="margin:1.5rem 0;"><a href="/public/images/learning/mathematics/math-sub-403-growth-context.svg" aria-label="Open full-size diagram: math-sub-403-growth-context"><img src="/public/images/learning/mathematics/math-sub-403-growth-context.svg" width="1528" height="940" alt="A colony grows from 800 cells by 15% each hour. Find when it reaches 5000. Model: 800 × 1.15ᵗ = 5000; Divide by 800: 1.15ᵗ = 6.25; Take logs: t log(1.15) = log(6.25); t = log(6.25) / log(1.15) ≈ 13.1 hours" loading="lazy" decoding="async" style="display:block;width:100%;height:auto;" /></a><figcaption>Solve an exponential growth model with logarithms — Marlbridge Mathematics</figcaption></figure>
 
 **Example 11.** A colony starts at 800 cells and grows by 15% each hour, so after t hours it has 800 × 1.15^t cells. When does it reach 5000?
 

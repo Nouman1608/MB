@@ -212,7 +212,7 @@ Connecting a meter the wrong way round in this sense causes trouble. An ammeter 
 
 ## Brightness of bulbs in compound circuits
 
-Topic 11.4 showed that bulb brightness rises with power, P = I²R = (ΔV)²/R. To predict brightness changes, follow this order: change in R_eq → change in total current → change in ΔV across each part → change in power of each bulb. With an **ideal** battery, adding a bulb in parallel directly across the battery leaves the other bulbs on that battery unchanged, because each still has ℰ across it. With a **real** battery, the extra current raises Ir, the terminal voltage falls, and every bulb dims slightly.
+Topic 11.4 showed that, for the same bulb type under comparable conditions, brightness generally rises with electrical power, P = I²R = (ΔV)²/R. To predict brightness changes, follow this order: change in R_eq → change in total current → change in ΔV across each part → change in power of each bulb. Comparisons between different bulb technologies also depend on luminous efficiency and spectrum. With an **ideal** battery, adding a bulb in parallel directly across the battery leaves the other bulbs on that battery unchanged, because each still has ℰ across it. With a **real** battery, the extra current raises Ir, the terminal voltage falls, and every bulb dims slightly.
 
 ## Common misconceptions
 

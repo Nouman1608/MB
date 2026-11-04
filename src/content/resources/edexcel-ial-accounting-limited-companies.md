@@ -107,7 +107,17 @@ The **Directors' Report** is written by the directors. Under UK company law it i
 A reserve is not cash.
 
 ## 2.1.6 to 2.1.8: Share capital, rights issues and bonus issues
-
+<!-- marlbridge-diagram:ac-edx-limited-companies-equity-flow -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/accounting/ac-edx-limited-companies-equity-flow.svg" aria-label="Open full-size diagram: ac-edx-limited-companies-equity-flow">
+    <picture>
+      <source media="(max-width: 640px)" srcset="/images/learning/accounting/ac-edx-limited-companies-equity-flow-mobile.svg" />
+      <img src="/images/learning/accounting/ac-edx-limited-companies-equity-flow.svg" width="1600" height="1050" alt="A company diagram traces profit and other comprehensive income into equity and contrasts cash-raising rights issues with bonus issues." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" />
+    </picture>
+  </a>
+  <figcaption>A company diagram traces profit and other comprehensive income into equity and contrasts cash-raising rights issues with bonus issues. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:ac-edx-limited-companies-equity-flow -->\n
 - **Authorised**: the maximum the company may issue (a note).
 - **Issued**: shares actually allotted.
 - **Called-up**: the part of the issue price asked for so far.

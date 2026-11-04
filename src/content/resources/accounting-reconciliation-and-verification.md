@@ -127,6 +127,14 @@ sub-topic requires you to:
 
 ## How the three procedures fit together
 
+<!-- marlbridge-diagram:accounting-cambridge-reconciliation-three-checks -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/accounting/accounting-cambridge-reconciliation-three-checks.svg" aria-label="Open full-size diagram: accounting-cambridge-reconciliation-three-checks"><img src="/images/learning/accounting/accounting-cambridge-reconciliation-three-checks.svg" width="1600" height="1050" alt="Cambridge 9706 trial-balance, bank-reconciliation and control-account checks." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Reconciliation: compare, explain, correct Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:accounting-cambridge-reconciliation-three-checks -->
+
+
 All three procedures in 1.4 share the same underlying logic: take two
 figures that should independently arrive at the same answer, compare
 them, and investigate any difference. What differs is the source of

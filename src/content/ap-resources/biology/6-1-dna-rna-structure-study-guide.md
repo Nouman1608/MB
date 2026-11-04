@@ -31,15 +31,15 @@ keyPoints:
   - "Hereditary information is stored in DNA in all cells. Some viruses use RNA as their genetic material instead."
   - "Prokaryotes typically have one circular chromosome. Eukaryotes typically have several linear chromosomes, wound around histone proteins so they fit in the nucleus."
   - "Plasmids are small, extra circles of DNA, separate from the chromosomes. They are common in bacteria and also occur in some eukaryotes, such as yeasts."
-  - "Purines (A, G) have a double ring; pyrimidines (C, T, U) have a single ring. Every base pair is one purine plus one pyrimidine: A with T (or U in RNA), G with C."
+  - "Purines (A, G) have a fused five- and six-membered ring; pyrimidines (C, T, U) have one six-membered ring. Canonical Watson–Crick pairs contain one purine plus one pyrimidine: A with T (or U in RNA), G with C."
   - "Purine–pyrimidine pairing keeps the double helix the same width all along and is shared by all known cellular life, which is evidence of common ancestry."
 faqs:
   - question: "Is a chromosome the same as a DNA molecule?"
     answer: "A chromosome is one long DNA molecule together with the proteins that pack it. A eukaryotic chromosome that has been copied before division contains two identical DNA molecules (sister chromatids) until they separate."
   - question: "Do I need to draw the ring structures of the bases?"
-    answer: "No. You need to know which bases are purines (double ring) and which are pyrimidines (single ring), and why a purine always pairs with a pyrimidine. The full chemical structures are not required."
+    answer: "No. You need to know which bases are purines (fused five- and six-membered rings) and which are pyrimidines (one six-membered ring), and why canonical Watson–Crick pairs contain one of each. The full chemical structures are not required."
   - question: "Do mitochondria and chloroplasts have their own DNA?"
-    answer: "Yes. Each has its own small circular DNA, similar to a bacterial chromosome. This is part of the evidence for endosymbiosis that you met in Topic 2.10."
+    answer: "Yes. Mitochondria and chloroplasts have their own DNA. Many teaching examples show small circular genomes, but size and physical form vary; some organelle genomes include linear or branched molecules. Similarities to bacteria are one line of evidence for endosymbiosis."
 version: "1.0"
 publishedDate: 2026-10-05
 updatedDate: 2026-10-05
@@ -78,7 +78,7 @@ A **chromosome** is a long DNA molecule together with the proteins that help to 
 
 Why do histones bind DNA so well? The phosphate groups in the DNA backbone carry **negative** charges. Histones contain many amino acids with **positively** charged side chains. Opposite charges attract, so DNA wraps tightly around them.
 
-The word **typically** matters. A few bacteria have linear chromosomes, and mitochondria and chloroplasts have their own small circular DNA. Exam questions will use the typical patterns unless they give you other information.
+The word **typically** matters. A few bacteria have linear chromosomes. Mitochondria and chloroplasts also have their own DNA; many have circular genome molecules, but size and physical forms vary among organisms and organelles. Exam questions will use the stated or typical model unless they give you other information.
 
 ### Plasmids
 
@@ -156,7 +156,7 @@ The bases fall into two groups by shape:
 
 Two common memory aids: "**Pur**e **A**s **G**old" for the purines (A, G), and "**CUT** the **py**" for the pyrimidines (C, U, T).
 
-Every base pair contains **one purine and one pyrimidine**:
+In the **canonical Watson–Crick pairs** used in this model, each base pair contains one purine and one pyrimidine:
 
 - **A pairs with T** in DNA (and **A with U** where RNA pairs).
 - **G pairs with C**.
@@ -164,24 +164,24 @@ Every base pair contains **one purine and one pyrimidine**:
 <figure>
 <svg viewBox="0 0 640 360" role="img" aria-labelledby="pp-title pp-desc" xmlns="http://www.w3.org/2000/svg" font-family="system-ui, sans-serif">
 <title id="pp-title">Why a purine must pair with a pyrimidine</title>
-<desc id="pp-desc">Three rows, each with two thick vertical lines standing for the two sugar-phosphate backbones, a fixed distance apart. Purines are drawn as two joined hexagons (double ring); pyrimidines as one hexagon (single ring). Row 1: adenine (double ring) paired with thymine (single ring) by a dashed line fits exactly between the backbones. Row 2: adenine paired with guanine, two double rings, is too wide and overlaps both backbones. Row 3: cytosine paired with thymine, two single rings, is too narrow and leaves gaps on both sides.</desc>
+<desc id="pp-desc">Three rows, each with two thick vertical lines standing for the sugar-phosphate backbones at a fixed distance apart. Each purine schematic is a fused five-membered and six-membered ring; each pyrimidine is one six-membered ring. Row 1: adenine paired with thymine by a dashed line fits between the backbones. Row 2: adenine paired with guanine is too wide in this model. Row 3: cytosine paired with thymine is too narrow in this model. These are canonical base-pair size comparisons, not depictions of mismatches or noncanonical RNA pairs.</desc>
 <rect x="0" y="0" width="640" height="360" fill="#ffffff"/>
 <line x1="150" y1="25" x2="150" y2="115" stroke="#1d2b44" stroke-width="6"/>
 <line x1="325" y1="25" x2="325" y2="115" stroke="#1d2b44" stroke-width="6"/>
-<polygon points="182.5,44.0 160.0,57.0 160.0,83.0 182.5,96.0 205.0,83.0 205.0,57.0" fill="#fdf6e3" stroke="#1d2b44" stroke-width="2"/>
-<polygon points="227.5,44.0 205.0,57.0 205.0,83.0 227.5,96.0 250.0,83.0 250.0,57.0" fill="#fdf6e3" stroke="#1d2b44" stroke-width="2"/>
-<text x="205.0" y="76" text-anchor="middle" font-size="18" font-weight="700" fill="#1d2b44">A</text>
+<polygon points="160.0,57.0 182.5,44.0 205.0,57.0 205.0,83.0 182.5,96.0" fill="#fdf6e3" stroke="#1d2b44" stroke-width="2"/>
+<polygon points="205.0,57.0 227.5,44.0 250.0,57.0 250.0,83.0 227.5,96.0 205.0,83.0" fill="#fdf6e3" stroke="#1d2b44" stroke-width="2"/>
+<text x="182.5" y="76" text-anchor="middle" font-size="18" font-weight="700" fill="#1d2b44">A</text>
 <polygon points="292.5,44.0 270.0,57.0 270.0,83.0 292.5,96.0 315.0,83.0 315.0,57.0" fill="#ffffff" stroke="#1d2b44" stroke-width="2"/>
 <text x="292.5" y="76" text-anchor="middle" font-size="18" font-weight="700" fill="#1d2b44">T</text>
 <line x1="252.0" y1="70" x2="268.0" y2="70" stroke="#1d2b44" stroke-width="2" stroke-dasharray="4 3"/>
 <line x1="150" y1="135" x2="150" y2="225" stroke="#1d2b44" stroke-width="6"/>
 <line x1="325" y1="135" x2="325" y2="225" stroke="#1d2b44" stroke-width="6"/>
-<polygon points="160.0,154.0 137.4,167.0 137.4,193.0 160.0,206.0 182.5,193.0 182.5,167.0" fill="#fdf6e3" stroke="#1d2b44" stroke-width="2"/>
-<polygon points="205.0,154.0 182.5,167.0 182.5,193.0 205.0,206.0 227.5,193.0 227.5,167.0" fill="#fdf6e3" stroke="#1d2b44" stroke-width="2"/>
-<text x="182.5" y="186" text-anchor="middle" font-size="18" font-weight="700" fill="#1d2b44">A</text>
-<polygon points="270.0,154.0 247.5,167.0 247.5,193.0 270.0,206.0 292.5,193.0 292.5,167.0" fill="#fdf6e3" stroke="#1d2b44" stroke-width="2"/>
-<polygon points="315.0,154.0 292.5,167.0 292.5,193.0 315.0,206.0 337.6,193.0 337.6,167.0" fill="#fdf6e3" stroke="#1d2b44" stroke-width="2"/>
-<text x="292.5" y="186" text-anchor="middle" font-size="18" font-weight="700" fill="#1d2b44">G</text>
+<polygon points="137.4,167.0 160.0,154.0 182.5,167.0 182.5,193.0 160.0,206.0" fill="#fdf6e3" stroke="#1d2b44" stroke-width="2"/>
+<polygon points="182.5,167.0 205.0,154.0 227.5,167.0 227.5,193.0 205.0,206.0 182.5,193.0" fill="#fdf6e3" stroke="#1d2b44" stroke-width="2"/>
+<text x="160.0" y="186" text-anchor="middle" font-size="18" font-weight="700" fill="#1d2b44">A</text>
+<polygon points="247.5,167.0 270.0,154.0 292.5,167.0 292.5,193.0 270.0,206.0" fill="#fdf6e3" stroke="#1d2b44" stroke-width="2"/>
+<polygon points="292.5,167.0 315.0,154.0 337.6,167.0 337.6,193.0 315.0,206.0 292.5,193.0" fill="#fdf6e3" stroke="#1d2b44" stroke-width="2"/>
+<text x="270.0" y="186" text-anchor="middle" font-size="18" font-weight="700" fill="#1d2b44">G</text>
 <line x1="229.5" y1="180" x2="245.5" y2="180" stroke="#1d2b44" stroke-width="2" stroke-dasharray="4 3"/>
 <line x1="150" y1="245" x2="150" y2="335" stroke="#1d2b44" stroke-width="6"/>
 <line x1="325" y1="245" x2="325" y2="335" stroke="#1d2b44" stroke-width="6"/>
@@ -197,16 +197,16 @@ Every base pair contains **one purine and one pyrimidine**:
 <text x="360" y="304" font-size="13" fill="#1d2b44">2 rings: too narrow, pinches the helix</text>
 <text x="237" y="352" text-anchor="middle" font-size="12" fill="#1d2b44">thick lines = backbones; dashed = hydrogen bonds</text>
 </svg>
-<figcaption>Figure 2. A simplified model. Two joined hexagons stand for a double-ring purine and one hexagon for a single-ring pyrimidine. Only a purine–pyrimidine pair spans the gap between the backbones exactly, so the helix keeps the same width (about 2 nm) all along its length.</figcaption>
+<figcaption>Figure 2. A simplified canonical-pair model. A fused five- and six-membered ring stand for a purine; one six-membered ring stands for a pyrimidine. Atom identities are omitted. In this idealised model, a purine–pyrimidine pair spans the gap, while purine–purine is too wide and pyrimidine–pyrimidine too narrow; mismatches and noncanonical RNA pairs are not represented.</figcaption>
 </figure>
 
 **Why this pairing matters.**
 
-1. **Constant width.** A purine–pyrimidine pair always contains three rings in total. So every rung of the ladder is the same length, and the double helix has the same width all along its length (about 2 nm). A purine–purine pair would bulge; a pyrimidine–pyrimidine pair would pinch.
+1. **Constant width in the canonical model.** Each canonical purine–pyrimidine pair contains three rings in total. This keeps the idealised double helix at a consistent width (about 2 nm). Mismatches and noncanonical RNA structures can depart from this model.
 2. **Specific partners.** Within the purine–pyrimidine rule, the hydrogen-bonding groups only line up for A with T (or U) and for G with C. So the sequence of one strand fixes the sequence of the other.
 3. **Conserved through evolution.** The same pairing rules are found in every known cellular organism, and in RNA as well as DNA. A feature shared by all known life is strong evidence that it was inherited from a common ancestor.
 
-A useful consequence: in any **double-stranded** molecule, the number of purines equals the number of pyrimidines. So purines make up 50% of the bases, whatever the species. The ratio of A + T to G + C, by contrast, varies from species to species, because different species have different sequences.
+A useful consequence for a **fully paired canonical duplex** is that each pair contributes one purine and one pyrimidine, so the total numbers are equal. This does not apply automatically to mismatches or every double-stranded RNA structure. In double-stranded DNA, the A + T to G + C ratio varies among species because their sequences differ.
 
 ## Worked example 1: testing the purine–pyrimidine rule with data
 

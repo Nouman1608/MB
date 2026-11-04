@@ -63,6 +63,14 @@ The guide prints the Criterion A descriptors with the same wording for Years 1, 
 
 ### Worked example 1 (Year 1 style, familiar)
 
+<!-- marlbridge-diagram:maths-b34-unit-rate-pencil-price -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/mathematics/maths-b34-unit-rate-pencil-price.svg" aria-label="Open full-size diagram: maths-b34-unit-rate-pencil-price"><img src="/images/learning/mathematics/maths-b34-unit-rate-pencil-price.svg" width="1600" height="1050" alt="At a constant rate, $6.60÷24=$0.275 per pencil; 40 pencils cost $0.275×40=$11.00. The scale factor check gives 40/24=5/3 and $6.60×5/3=$11.00." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>At a constant rate, $6.60÷24=$0.275 per pencil; 40 pencils cost $0.275×40=$11.00. The scale factor check gives 40/24=5/3 and $6.60×5/3=$11.00. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:maths-b34-unit-rate-pencil-price -->
+
+
 A pack of 24 pencils costs 6.60. How much would 40 pencils cost at the same rate?
 
 1. Select: the cost scales with the number of pencils, so use a unit rate.
@@ -93,6 +101,14 @@ A culture of 500 bacteria grows by 12% each hour. After how many whole hours doe
 5. Answer: **13 hours**. The check shows why 12.23 must be rounded up, not down.
 
 ## Criterion B: investigating patterns
+
+<!-- marlbridge-diagram:math-b45-myp-criterion-b-square-border-pattern -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/mathematics/math-b45-myp-criterion-b-square-border-pattern.svg" aria-label="Open full-size diagram: math-b45-myp-criterion-b-square-border-pattern"><img src="/images/learning/mathematics/math-b45-myp-criterion-b-square-border-pattern.svg" width="1600" height="1050" alt="The square pool border counts 8, 12, 16, 20, 24 for n=1 to 5; the constant difference is 4, suggesting 4n+4. Test n=7: four sides of 9 tiles with four shared corners gives 4×9−4=32, matching the rule." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>The square pool border counts 8, 12, 16, 20, 24 for n=1 to 5; the constant difference is 4, suggesting 4n+4. Test n=7: four sides of 9 tiles with four shared corners gives 4×9−4=32, matching the rule. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:math-b45-myp-criterion-b-square-border-pattern -->
+
 
 An investigation is open. You are given a situation, not a method. The guide says tasks that tell you which technique to use are too guided, which limits the level you can earn (see the table below). Teachers should still give enough direction for everyone to begin.
 
@@ -135,6 +151,14 @@ Year 1 follows the same shape with gentler wording: the 3-4 band is about recogn
 
 ### Worked example 4 (Year 1 style): the tile border
 
+<!-- marlbridge-diagram:maths-b34-square-tile-border-rule -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/mathematics/maths-b34-square-tile-border-rule.svg" aria-label="Open full-size diagram: maths-b34-square-tile-border-rule"><img src="/images/learning/mathematics/maths-b34-square-tile-border-rule.svg" width="1600" height="1050" alt="A one-tile border around an n×n pool has outer side n+2. Counting four sides and subtracting the four corners counted twice gives 4(n+2)−4=4n+4. For n=3 there are 16 border tiles; for n=7 there are 32." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>A one-tile border around an n×n pool has outer side n+2. Counting four sides and subtracting the four corners counted twice gives 4(n+2)−4=4n+4. For n=3 there are 16 border tiles; for n=7 there are 32. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:maths-b34-square-tile-border-rule -->
+
+
 A square pool with n tiles along each side is surrounded by a single row of border tiles, corners included. How many border tiles are needed?
 
 | Pool side n | 1 | 2 | 3 | 4 | 5 |
@@ -146,6 +170,14 @@ The border grows by 4 each time, so the rule begins "multiply n by 4". When n = 
 Verify with a new case. For n = 7 the rule gives 32. Drawing the pool, each side of the border has 9 tiles, with 4 corners shared: 4 × 9 − 4 = 32. The rule works.
 
 ### Worked example 5 (Year 3 style): diagonals of a polygon
+
+<!-- marlbridge-diagram:maths-b34-polygon-diagonal-rule -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/mathematics/maths-b34-polygon-diagonal-rule.svg" aria-label="Open full-size diagram: maths-b34-polygon-diagonal-rule"><img src="/images/learning/mathematics/maths-b34-polygon-diagonal-rule.svg" width="1600" height="1050" alt="Each of n vertices connects to n−3 non-neighbours, counting every diagonal twice. Thus d=n(n−3)/2. For n=6 this gives 9 diagonals; for n=9 it gives 27. The sequence for n=3 to 6 is 0,2,5,9." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Each of n vertices connects to n−3 non-neighbours, counting every diagonal twice. Thus d=n(n−3)/2. For n=6 this gives 9 diagonals; for n=9 it gives 27. The sequence for n=3 to 6 is 0,2,5,9. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:maths-b34-polygon-diagonal-rule -->
+
 
 How many diagonals does an n-sided polygon have?
 
@@ -160,6 +192,14 @@ Try d = n²/2 + bn + c. Using n = 3 (d = 0) and n = 4 (d = 2): 4.5 + 3b + c = 0 
 Test on a new case, n = 9: 9 × 6 ÷ 2 = 27, and the table's pattern continues 20, 27. For justification, each vertex joins to n − 3 others (not itself or its two neighbours). That gives n(n − 3) joins, and each diagonal is counted from both ends, so divide by 2. The structure forces the rule, which is the justification the 7-8 band asks for.
 
 ### Worked example 6 (Year 5 style): a proof
+
+<!-- marlbridge-diagram:maths-b34-four-factor-perfect-square-proof -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/mathematics/maths-b34-four-factor-perfect-square-proof.svg" aria-label="Open full-size diagram: maths-b34-four-factor-perfect-square-proof"><img src="/images/learning/mathematics/maths-b34-four-factor-perfect-square-proof.svg" width="1600" height="1050" alt="Let m=n²+3n=n(n+3); then (n+1)(n+2)=m+2. Therefore n(n+1)(n+2)(n+3)+1=m(m+2)+1=(m+1)²=(n²+3n+1)² for every n." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Let m=n²+3n=n(n+3); then (n+1)(n+2)=m+2. Therefore n(n+1)(n+2)(n+3)+1=m(m+2)+1=(m+1)²=(n²+3n+1)² for every n. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:maths-b34-four-factor-perfect-square-proof -->
+
 
 Evaluate n(n + 1)(n + 2)(n + 3) + 1 for n = 1, 2, 3.
 

@@ -78,6 +78,14 @@ the world are broadly sustainable, without a persistently large deficit.
 
 ## Cost-push vs demand-pull inflation
 
+<!-- marlbridge-diagram:economics-inflation-demand-pull-cost-push -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/economics/economics-inflation-demand-pull-cost-push.svg" aria-label="Open full-size diagram: economics-inflation-demand-pull-cost-push"><img src="/images/learning/economics/economics-inflation-demand-pull-cost-push.svg" width="1600" height="1050" alt="Two AD–AS sketches distinguish rising aggregate demand from a leftward short-run aggregate supply shock; both raise prices but output moves in opposite directions." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Inflation: distinguish demand-pull from cost-push Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:economics-inflation-demand-pull-cost-push -->
+
+
 Cost-push inflation arises when production costs rise (wages, raw materials, imported input prices),
 forcing businesses to raise prices to protect margins. Demand-pull inflation arises when total demand in
 the economy outstrips the economy's capacity to supply it, pulling prices up. The distinction matters

@@ -172,6 +172,14 @@ When asked what is wrong, name the feature, then say what effect it has: "The ve
 
 ## 12.03c Scatter graphs and correlation
 
+<!-- marlbridge-diagram:math-b75-scatter-correlation-interpolation-extrapolation -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/public/images/learning/mathematics/math-b75-scatter-correlation-interpolation-extrapolation.svg" aria-label="Open full-size diagram: math-b75-scatter-correlation-interpolation-extrapolation"><img src="/public/images/learning/mathematics/math-b75-scatter-correlation-interpolation-extrapolation.svg" width="1528" height="940" alt="Source car-age data show strong negative correlation. The approximate fit y=15.4−1.3x predicts ≈£9,550 at age 4.5 (interpolation), but −£200 at age 12, an impossible and unreliable extrapolation." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Source car-age data show strong negative correlation. The approximate fit y=15.4−1.3x predicts ≈£9,550 at age 4.5 (interpolation), but −£200 at age 12, an impossible and unreliable extrapolation. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:math-b75-scatter-correlation-interpolation-extrapolation -->
+
+
 A scatter graph plots pairs of values for two variables. **Correlation** describes the relationship:
 
 - **Positive:** as one variable increases, the other tends to increase.

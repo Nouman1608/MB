@@ -114,6 +114,14 @@ For this unit, x is an angle in degrees, and you are expected to recognise and s
 
 ### y = cos x
 
+<!-- marlbridge-diagram:math-b79-ocr-cosine-key-graph -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/public/images/learning/mathematics/math-b79-ocr-cosine-key-graph.svg" aria-label="Open full-size diagram: math-b79-ocr-cosine-key-graph"><img src="/public/images/learning/mathematics/math-b79-ocr-cosine-key-graph.svg" width="1528" height="940" alt="Cosine graph over 0° to 360° with maximum, zeros, minimum, period and range labeled." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Cosine graph over 0° to 360° with maximum, zeros, minimum, period and range labeled.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:math-b79-ocr-cosine-key-graph -->
+
+
 - Starts at (0, 1), falls to 0 at 90°, reaches the minimum −1 at 180°, returns to 0 at 270° and reaches 1 again at 360°.
 - Same period (360°) and same range (−1 to 1). It is the sine curve shifted 90° to the left.
 

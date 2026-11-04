@@ -97,6 +97,14 @@ intervention.
 
 ## How to approach it
 
+<!-- marlbridge-diagram:economics-igcse-allocation-price-mechanism -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/economics/economics-igcse-allocation-price-mechanism.svg" aria-label="Open full-size diagram: economics-igcse-allocation-price-mechanism"><img src="/images/learning/economics/economics-igcse-allocation-price-mechanism.svg" width="1600" height="1050" alt="Flow diagram: change in demand or supply leads to a price signal, then producers expand or consumers economise; a lower panel distinguishes own-price movement from a non-price curve shift." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Price signals coordinate resource allocation; elasticity affects the size of quantity and revenue responses. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:economics-igcse-allocation-price-mechanism -->
+
+
 Because this topic is diagram-heavy, the single best use of revision
 time is redrawing the demand and supply diagram from a blank page,
 repeatedly, until axis labels, curve direction and the vocabulary of

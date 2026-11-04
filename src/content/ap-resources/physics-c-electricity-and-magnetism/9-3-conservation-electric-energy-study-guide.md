@@ -181,12 +181,20 @@ Numbers: λ/(2πε₀) = (5.0 × 10⁻⁹) ÷ (2π × 8.85 × 10⁻¹²) = 89.9 
 
 ## Designing an experiment
 
+<!-- marlbridge-diagram:phys-gap-9-3-experiment-apparatus -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/physics/phys-gap-9-3-experiment-apparatus.svg" aria-label="Open full-size diagram: phys-gap-9-3-experiment-apparatus"><img src="/images/learning/physics/phys-gap-9-3-experiment-apparatus.svg" width="1528" height="940" alt="Apparatus sequence with a +12 V accelerating potential for an electron, plates, a field-free drift region and detector, plus the v² versus accelerating voltage relation." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Apparatus sequence with a +12 V accelerating potential for an electron, plates, a field-free drift region and detector, plus the v² versus accelerating voltage relation. — Marlbridge Physics.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:phys-gap-9-3-experiment-apparatus -->
+
+
 You may be asked to plan a procedure. Suppose the question is: "Does the kinetic energy a charged particle gains equal |q||ΔV|?"
 
 1. In a vacuum tube, release particles of known charge and mass (for example electrons from a heated filament) almost at rest. Accelerate them through an adjustable potential difference ΔV, read on a voltmeter.
 2. After the accelerating gap, let them travel through a field-free region of known length L. Measure the travel time t with two detectors, so v = L/t.
 3. Repeat for at least five values of ΔV, with several readings for each.
-4. Plot v² against ΔV. Energy conservation predicts ½mv² = |q|ΔV, so v² = (2|q|/m)ΔV: a straight line through the origin with gradient 2|q|/m.
+4. Plot v² against the magnitude |ΔV| of the accelerating potential difference, arranged to accelerate the chosen charge. For particles starting from rest, energy conservation gives ½mv² = |q||ΔV|, so v² = (2|q|/m)|ΔV|: a straight line through the origin with gradient 2|q|/m.
 5. Compare the measured gradient with the predicted one. A non-zero intercept would suggest the particles did not start from rest.
 
 Control variables: the same type of particle, the same path length L and a good vacuum, so that collisions with gas molecules do not remove energy. This is a reasoning exercise; it does not replace the hands-on laboratory work the course requires.

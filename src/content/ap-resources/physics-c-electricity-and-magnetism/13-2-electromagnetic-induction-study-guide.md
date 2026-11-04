@@ -69,6 +69,14 @@ In Topic 13.1 you learned to calculate magnetic flux, Φ_B = ∫B·dA. Faraday's
 
 ## Three ways to change the flux
 
+<!-- marlbridge-diagram:phys-gap-13-2-flux-change-methods -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/physics/phys-gap-13-2-flux-change-methods.svg" aria-label="Open full-size diagram: phys-gap-13-2-flux-change-methods"><img src="/images/learning/physics/phys-gap-13-2-flux-change-methods.svg" width="1528" height="940" alt="Three panels show changing magnetic-field strength, sliding a rod to change loop area, and rotating a coil to change the angle between its area vector and the field." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Three panels show changing magnetic-field strength, sliding a rod to change loop area, and rotating a coil to change the angle between its area vector and the field. — Marlbridge Physics.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:phys-gap-13-2-flux-change-methods -->
+
+
 For a flat loop in a uniform field, Φ_B = B A cos θ. Any of the three factors can change.
 
 | What changes | Size of the emf (one loop) | Example |
@@ -193,6 +201,13 @@ To go the other way, from an emf graph to the flux, use the area under the graph
 
 ## Induced electric fields
 
+<!-- marlbridge-diagram:physcem-b15-changing-solenoid-induced-electric-field -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/physics/physcem-b15-changing-solenoid-induced-electric-field.svg" aria-label="Open full-size diagram: physcem-b15-changing-solenoid-induced-electric-field"><img src="/images/learning/physics/physcem-b15-changing-solenoid-induced-electric-field.svg" width="1600" height="1050" alt="A uniform solenoid field increasing out of the page induces clockwise closed electric-field loops. Inside radius R, E=(r/2)dB/dt; outside, E=(R²/2r)dB/dt. The E field exists outside the solenoid even where B is nearly zero." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>A uniform solenoid field increasing out of the page induces clockwise closed electric-field loops. Inside radius R, E=(r/2)dB/dt; outside, E=(R²/2r)dB/dt. The E field exists outside the solenoid even where B is nearly zero. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:physcem-b15-changing-solenoid-induced-electric-field -->
+
 What pushes the charges round a loop when only B changes and nothing moves? A **changing magnetic field creates an electric field**. This is Maxwell's third equation, Faraday's law in field form:
 
 **∮ E·dl = −dΦ_B/dt**
@@ -218,7 +233,7 @@ You have now met all four of Maxwell's equations:
 | Equation | Meaning |
 |---|---|
 | ∮E·dA = q_enc/ε₀ | Gauss's law: charges create electric fields (Topic 8.6) |
-| ∮B·dA = 0 | No magnetic monopoles; field lines form closed loops (Topic 12.1) |
+| ∮B·dA = 0 | Gauss’s law for magnetism: net magnetic flux through any closed surface is zero; magnetic field lines have no sources or sinks and may close into loops or extend to infinity (Topic 12.1) |
 | ∮E·dl = −dΦ_B/dt | Faraday: a changing magnetic flux creates an electric field (this topic) |
 | ∮B·dl = μ₀I + μ₀ε₀ dΦ_E/dt | Ampère–Maxwell: currents and changing electric flux create magnetic fields (Topic 12.4) |
 
@@ -226,7 +241,14 @@ Together they predict that changing E and B fields can sustain each other and tr
 
 ## Measuring an induced emf
 
-A typical investigation: place a small flat search coil inside a long solenoid, with the axes lined up. Drive the solenoid with a current that rises at a steady, known rate, so that dB/dt = μ₀n dI/dt is known. Record the coil's emf with a voltmeter or data logger. Repeat for several ramp rates and plot ℰ against dB/dt. Faraday's law predicts a straight line through the origin with gradient NA, so the graph gives the number of turns or the area. Hold the angle and position of the coil fixed, and check that the emf drops to zero when the current is steady.
+<!-- marlbridge-diagram:physcem-b17-measuring-induced-emf-with-a-search-coil -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/physics/physcem-b17-measuring-induced-emf-with-a-search-coil.svg" aria-label="Open full-size diagram: measuring induced emf with a search coil"><img src="/images/learning/physics/physcem-b17-measuring-induced-emf-with-a-search-coil.svg" width="1600" height="1050" alt="A ramped solenoid field passes through an aligned N-turn search coil connected to a voltmeter. Plotting emf magnitude against |dB/dt| gives a straight line with slope NA; steady current gives zero induced emf." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>The search-coil axis is aligned with the solenoid field; the display plots emf magnitude against the field-change magnitude. A signed plot needs the stated coil-normal and meter-polarity convention. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:physcem-b17-measuring-induced-emf-with-a-search-coil -->
+
+A typical investigation: place a small flat search coil inside a long solenoid, with the axes lined up. Drive the solenoid with a current that rises at a steady, known rate, so that dB/dt = μ₀n dI/dt is known. Record the coil's emf with a voltmeter or data logger. Repeat for several ramp rates and plot the emf magnitude |ℰ| against |dB/dt|. For the fixed aligned coil, Faraday's law predicts a straight line through the origin with gradient NA, so the graph gives the number of turns or the area. A signed plot instead requires an explicitly stated coil-normal and meter-polarity convention. Hold the angle and position of the coil fixed, and check that the emf drops to zero when the current is steady.
 
 ## Common misconceptions
 

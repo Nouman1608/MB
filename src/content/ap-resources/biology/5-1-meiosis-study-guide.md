@@ -26,11 +26,11 @@ next: "mb-ap-bio-5.1-practice"
 framework: { schoolYear: "2026-27", examSeries: "May 2027" }
 sources: ["ced-biology", "page-biology"]
 keyPoints:
-  - "Meiosis makes haploid (n) cells from a diploid (2n) cell. In animals these cells become gametes, so fertilization restores the diploid number."
+  - "Meiosis reduces a diploid chromosome set to haploid products. Animal gametogenesis produces gametes, with unequal oogenesis also forming polar bodies. Fertilization restores the diploid number."
   - "DNA is copied once (in S phase before meiosis), but the cell divides twice. That is why chromosome number halves."
   - "Meiosis I separates homologous chromosomes: it is the division that halves the chromosome number. Sister chromatids stay joined."
   - "Meiosis II separates sister chromatids, much like mitosis. The result is four haploid cells, each chromosome with a single chromatid."
-  - "Mitosis and meiosis both use a spindle to move chromosomes, but mitosis gives two genetically identical diploid cells while meiosis gives four haploid cells that differ genetically."
+  - "Both use a spindle. Mitosis preserves parental ploidy and chromosome complement in the faithful-copying model; meiosis reduces a diploid set to haploid products with generally varied allele combinations."
 faqs:
   - question: "Is a cell at the end of meiosis I haploid, even though its chromosomes still have two chromatids?"
     answer: "Yes. Ploidy depends on the number of chromosome sets, not on chromatids. After meiosis I each cell has one member of each homologous pair, so it is haploid. Each chromosome is still duplicated until anaphase II."
@@ -51,7 +51,7 @@ author: "marlbridge-academic-team"
 
 Your body cells are **diploid (2n)**: they carry two full sets of chromosomes, one set from your mother and one from your father. In humans, 2n = 46. If an egg and a sperm were each diploid, the child would have 92 chromosomes, and the number would double again every generation.
 
-**Meiosis** prevents this. It is a pair of nuclear divisions that turns one diploid cell into four **haploid (n)** cells, each with one set of chromosomes. In humans, n = 23. In animals these haploid cells become **gametes** (eggs or sperm). At **fertilization**, two gametes fuse to form a diploid **zygote**, and the chromosome number is back to 2n. Meiosis and fertilization together keep the chromosome number constant from one generation to the next.
+**Meiosis** prevents this. It is a pair of nuclear divisions that turns one diploid cell into four **haploid (n)** cells, each with one set of chromosomes. In humans, n = 23. In animal gametogenesis, meiosis produces haploid cells. Sperm formation commonly gives four functional products, whereas oogenesis divides the cytoplasm unequally and produces one large egg lineage plus polar bodies. The four equal cells in Figure 1 are a chromosome-tracking model, not four functional eggs. At **fertilization**, two gametes fuse to form a diploid **zygote**, and the chromosome number is back to 2n. Meiosis and fertilization together keep the chromosome number constant from one generation to the next.
 
 You will often see the four products of meiosis called daughter cells. Whatever the name, the key outcome is the same: one set of chromosomes per cell, with one member of every homologous pair.
 
@@ -59,7 +59,7 @@ You will often see the four products of meiosis called daughter cells. Whatever 
 
 Most mistakes in this topic come from mixing up four words. Get these clear before you learn the stages.
 
-- **Chromosome**: one DNA molecule with its proteins. Count chromosomes by counting **centromeres**.
+- **Chromosome**: a DNA–protein structure. Before replication it contains one DNA molecule; after replication it contains two sister chromatids, each with one DNA molecule. In the standard models here, count a joined sister pair as one chromosome until the sisters separate.
 - **Sister chromatids**: the two identical copies of one chromosome made in S phase. They are joined at the centromere. A chromosome with two sister chromatids still counts as **one** chromosome.
 - **Homologous chromosomes (homologues)**: a pair of chromosomes, one inherited from each parent. They are the same length, have the centromere in the same place and carry the **same genes in the same order**. They may carry **different alleles** (versions) of those genes, so they are not identical.
 - **Ploidy**: the number of chromosome sets. A cell with both members of each pair is diploid (2n); a cell with one member of each pair is haploid (n).
@@ -70,10 +70,10 @@ One more point: DNA is copied **once**, in the S phase of interphase before meio
 
 Meiosis I is the **reduction division**. It halves the chromosome number by sending one member of each homologous pair to each new cell.
 
-- **Prophase I.** The duplicated chromosomes condense and become visible. Homologous chromosomes find each other and pair up along their length. This close pairing is called **synapsis**, and the paired homologues (four chromatids in all) are often called a **bivalent** or **tetrad**. Points called **chiasmata** may form where chromatids of the two homologues are linked (what happens there is the subject of Topic 5.2). Meanwhile the spindle starts to form, the centrosomes move to opposite poles and the nuclear envelope breaks down.
+- **Prophase I.** The duplicated chromosomes condense and become visible. Homologous chromosomes find each other and pair up along their length. This close pairing is called **synapsis**, and the paired homologues (four chromatids in all) are often called a **bivalent** or **tetrad**. Points called **chiasmata** may form where chromatids of the two homologues are linked (what happens there is the subject of Topic 5.2). Meanwhile the spindle starts to form and the nuclear envelope breaks down. In cells with canonical centrosomes, these organising sites move to opposite poles. Spindles can also form without canonical centrosomes, as in higher plants and many animal oocytes.
 - **Metaphase I.** Spindle fibres line up the homologous **pairs** at the equator of the cell, the metaphase plate. The two homologues of each pair face opposite poles.
 - **Anaphase I.** The homologues of each pair separate and are pulled to opposite poles. **Sister chromatids stay attached** at their centromeres. Whole duplicated chromosomes move, not single chromatids.
-- **Telophase I and cytokinesis.** The spindle breaks down and a nuclear envelope re-forms around each group of chromosomes. The cytoplasm divides: a cleavage furrow pinches an animal cell in two, and a cell plate forms across a plant cell. The result is **two haploid cells**. Each chromosome in them still has two chromatids.
+- **Telophase I and cytokinesis.** The separated chromosomes reach the poles. Depending on the organism, nuclear envelopes may re-form during telophase I or may remain absent between the divisions. The cytoplasm divides: a cleavage furrow pinches an animal cell in two, and a cell plate forms across a plant cell. The result is **two haploid cells**. Each chromosome in them still has two chromatids.
 
 ## Meiosis II: separating sister chromatids
 
@@ -147,7 +147,7 @@ Meiosis II follows without another round of DNA replication. Each of the two hap
 
 ## Tracking chromosomes and DNA
 
-Exam questions often ask you to count. Use this rule: **chromosomes = centromeres; DNA content = number of chromatids**. A chromatid is one DNA molecule.
+Exam questions often ask you to count. For these models, count a joined sister pair as one chromosome until the sisters separate; each chromatid contains one DNA molecule. Chromatid count therefore tracks DNA-molecule count. For DNA **mass**, use the supplied pg values and complete genome copies: different chromosomes need not contain equal amounts of DNA.
 
 <figure>
 <svg viewBox="0 0 700 370" role="img" aria-labelledby="dna-title dna-desc" xmlns="http://www.w3.org/2000/svg" font-family="system-ui, sans-serif">
@@ -187,7 +187,7 @@ Exam questions often ask you to count. Use this rule: **chromosomes = centromere
 <line x1="400" y1="68.3" x2="400" y2="90.3" stroke="#1d2b44" stroke-width="1"/>
 <line x1="580" y1="171.1" x2="580" y2="193.1" stroke="#1d2b44" stroke-width="1"/>
 </svg>
-<figcaption>Figure 2. Model DNA content per nucleus for a plant with 2n = 12, starting from 6 pg (picograms) in G1. The values are illustrative. "chr" = chromosomes.</figcaption>
+<figcaption>Figure 2. Illustrative DNA content per cell, starting from 6 pg in G1 in a 2n = 12 model. The curve assumes cytokinesis after each division and follows one descendant after each split, rather than adding DNA across all products. Nuclear and cytoplasmic division need not coincide in every organism. "chr" = chromosomes.</figcaption>
 </figure>
 
 **Reading Figure 2.** The DNA content doubles in S phase but the chromosome number does not change (12 chromosomes, now 24 chromatids). The first drop, at cytokinesis I, halves both the chromosome number and the DNA content. The second drop, at cytokinesis II, halves the DNA content again, but the chromosome number per cell stays at 6 because the chromatids that separated in anaphase II each became a chromosome.
@@ -205,8 +205,8 @@ Both processes move chromosomes with a spindle apparatus, both have prophase, me
 | What lines up at metaphase | single chromosomes (metaphase) | homologous pairs (metaphase I); single chromosomes (metaphase II) |
 | What separates at anaphase | sister chromatids | homologues (anaphase I); sister chromatids (anaphase II) |
 | Cells produced | 2 | 4 |
-| Chromosome number of daughter cells | same as parent (2n → 2n) | half the parent (2n → n) |
-| Genetic content of daughter cells | identical to each other and to the parent | different from the parent and from each other |
+| Chromosome number of daughter cells | same as parent (for example, 2n → 2n or n → n) | half the diploid parent (2n → n) |
+| Genetic content of daughter cells | copies of the parental chromosome complement in the faithful-replication/segregation model | usually different combinations of alleles; individual products need not all be genetically distinct |
 
 The last row needs a short explanation. Each cell from meiosis receives a different mix of maternal and paternal chromosomes, and chromatids can swap pieces before they separate. Topic 5.2 explains these sources of variation.
 

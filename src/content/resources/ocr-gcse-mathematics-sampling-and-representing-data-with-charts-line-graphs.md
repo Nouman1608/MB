@@ -157,6 +157,14 @@ Values read from a drawn curve are estimates. State "about" and show your readin
 
 ## Histograms (12.02b, Higher tier only)
 
+<!-- marlbridge-diagram:math-b76-ocr-unequal-class-histogram -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/public/images/learning/mathematics/math-b76-ocr-unequal-class-histogram.svg" aria-label="Open full-size diagram: math-b76-ocr-unequal-class-histogram"><img src="/public/images/learning/mathematics/math-b76-ocr-unequal-class-histogram.svg" width="1528" height="940" alt="Touching histogram bars have widths proportional to class intervals and heights 2, 3, 3.6, 1.5, 0.6; area represents frequency and the estimate for ages 25–40 is 51." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Touching histogram bars have widths proportional to class intervals and heights 2, 3, 3.6, 1.5, 0.6; area represents frequency and the estimate for ages 25–40 is 51.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:math-b76-ocr-unequal-class-histogram -->
+
+
 A **histogram** shows grouped continuous data. There are no gaps between bars. When class widths differ, the **area** of a bar represents the frequency, so the vertical axis is **frequency density**:
 
 ```

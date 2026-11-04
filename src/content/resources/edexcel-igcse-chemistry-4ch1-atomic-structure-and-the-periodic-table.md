@@ -63,6 +63,10 @@ An atom has a tiny central **nucleus** that contains **protons** and **neutrons*
 
 Almost all of an atom's mass is in the nucleus. An atom has **no overall charge** because it has equal numbers of protons and electrons.
 
+<!-- marlbridge-objective-update:as-atomic-scale-mass-charge -->
+<figure class="lesson-diagram" style="margin:2rem 0"><a href="/images/learning/chemistry/as-atomic-scale-mass-charge.svg" aria-label="Open full-size diagram: Where an atom keeps its mass and charge"><img src="/images/learning/chemistry/as-atomic-scale-mass-charge.svg" width="1528" height="871" alt="An enlarged nucleus within a schematic electron region is compared with illustrative atom/nucleus length scales; nucleus and electron-region boxes identify mass and charge carriers." loading="lazy" decoding="async" style="display:block;width:100%;height:auto"></a><figcaption>Where an atom keeps its mass and charge. Describe particles,isotopes,shell configurations and periodic position. Only the stated source learning clauses are assessed; diagram examples do not replace adjacent numerical data. Select the image to enlarge.</figcaption></figure>
+<!-- /marlbridge-objective-update:as-atomic-scale-mass-charge -->
+
 ### Atomic number, mass number and isotopes (1.16)
 
 - **Atomic number** (proton number): the number of protons in the nucleus of an atom. It identifies the element. In a neutral atom it also equals the number of electrons.
@@ -83,6 +87,10 @@ An atom is written with its mass number at the top left and its atomic number at
 An ion has the same nucleus as its atom; a 2+ ion has lost two electrons.
 
 Isotopes of an element have the same electron arrangement, so they react in the same way.
+
+<!-- marlbridge-objective-update:as-isotope-ion-particle-accounting -->
+<figure class="lesson-diagram" style="margin:2rem 0"><a href="/images/learning/chemistry/as-isotope-ion-particle-accounting.svg" aria-label="Open full-size diagram: Count protons, neutrons and electrons in ions"><img src="/images/learning/chemistry/as-isotope-ion-particle-accounting.svg" width="1528" height="871" alt="A labelled sodium-23 cation notation and worked sodium/chloride examples distinguish A, Z and charge, with a general electron-count rule using signed charge." loading="lazy" decoding="async" style="display:block;width:100%;height:auto"></a><figcaption>Count protons, neutrons and electrons in ions. Describe particles,isotopes,shell configurations and periodic position. Only the stated source learning clauses are assessed; diagram examples do not replace adjacent numerical data. Select the image to enlarge.</figcaption></figure>
+<!-- /marlbridge-objective-update:as-isotope-ion-particle-accounting -->
 
 ### Calculating relative atomic mass (1.17)
 
@@ -178,6 +186,13 @@ four shells       -> Period 4
 2 + 8 + 8 + 2 = 20 electrons -> atomic number 20 -> calcium
 ```
 
+<!-- marlbridge-diagram:electron-shells-period-group -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/chemistry/electron-shells-period-group.svg" aria-label="Open full-size diagram: Period and group: count the correct electrons"><img src="/images/learning/chemistry/electron-shells-period-group.svg" width="1528" height="871" alt="Chlorine has configuration 2,8,7, placing it in Period 3 and Group VII. Helium and neon have full outer shells and are in Group VIII despite helium having only two electrons." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Period and group: count the correct electrons. Core 0620; required 5070. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:electron-shells-period-group -->
+
 ### Metals and non-metals by position (1.21)
 
 Metals are on the left of the Periodic Table and in the centre block between Groups 2 and 3. Non-metals are on the right. A stepped (staircase) line separating the two runs from boron down towards the bottom right. Hydrogen is a non-metal, even though it is placed at the top of the table.
@@ -195,8 +210,12 @@ The specification asks you to classify an element from two kinds of evidence.
 
 **Acid–base character of the oxide.** Burn the element in oxygen to make its oxide, then test the oxide.
 
-- Metal oxides are **basic**. They react with acids to form a salt and water. A metal oxide that dissolves in water gives an alkaline solution (pH above 7), such as sodium oxide forming sodium hydroxide.
+- Many familiar metal oxides are **basic** and react with acids to form a salt and water. Some, including aluminium oxide and zinc oxide, are **amphoteric**: they also react with bases. An oxide such as sodium oxide reacts with water to form an alkaline solution (pH above 7). Use the stated reaction evidence and these exceptions rather than treating every metal oxide as exclusively basic.
 - Non-metal oxides are generally **acidic**. Those that dissolve in water give an acidic solution (pH below 7), such as sulfur dioxide and carbon dioxide.
+
+<!-- marlbridge-objective-update:acidic-basic-amphoteric-oxides -->
+<figure class="lesson-diagram" style="margin:2rem 0"><a href="/images/learning/chemistry/acidic-basic-amphoteric-oxides.svg" aria-label="Open full-size diagram: Oxides: acidic, basic or amphoteric?"><img src="/images/learning/chemistry/acidic-basic-amphoteric-oxides.svg" width="1528" height="871" alt="Copper(II) oxide reacts with acids as a basic oxide. Carbon dioxide reacts with bases as an acidic oxide. Aluminium oxide and zinc oxide react with both acids and bases and are amphoteric." loading="lazy" decoding="async" style="display:block;width:100%;height:auto"></a><figcaption>Oxides: acidic, basic or amphoteric?. Use acid/base oxide behaviour as a qualified classification clue. Only the stated source learning clauses are assessed; diagram examples do not replace adjacent numerical data. Select the image to enlarge.</figcaption></figure>
+<!-- /marlbridge-objective-update:acidic-basic-amphoteric-oxides -->
 
 **Worked example 7 — classifying from data.** Element E is a dull yellow solid. It does not conduct electricity. It burns to form an oxide that dissolves in water to give a solution of pH 3. Classify E.
 

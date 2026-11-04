@@ -21,15 +21,15 @@ skills: ["1", "2", "5", "6"]
 studyMinutes: 50
 difficulty: "core"
 calculator: "scientific"
-calculatorNote: "Recombination frequency = recombinant offspring ÷ total offspring × 100%; 1% = 1 map unit. Chi-square critical values at p = 0.05: 3.84 (1 df), 5.99 (2 df), 7.81 (3 df)"
+calculatorNote: "Recombination frequency = recombinant offspring ÷ total offspring × 100%; for short intervals, 1% estimates 1 map unit. Chi-square critical values at p = 0.05: 3.84 (1 df), 5.99 (2 df), 7.81 (3 df)"
 related: ["mb-ap-bio-5.4-revision-notes", "mb-ap-bio-5.4-practice", "mb-ap-bio-5.4-checklist"]
 next: "mb-ap-bio-5.4-practice"
 framework: { schoolYear: "2026-27", examSeries: "May 2027" }
 sources: ["ced-biology", "page-biology"]
 keyPoints:
   - "Many traits do not follow Mendel's ratios. You show this quantitatively: a chi-square test rejects the Mendelian expectation."
-  - "Genes close together on one chromosome are linked. Recombinant offspring come from crossing over; the percentage of recombinants gives the map distance (1% = 1 map unit)."
-  - "Incomplete dominance: the heterozygote is a blend. Codominance: the heterozygote shows both phenotypes. Both give a 1 : 2 : 1 phenotypic ratio from two heterozygotes."
+  - "Nearby loci can show linkage. In an appropriate test cross, recombinant frequency estimates map distance for short intervals; hidden multiple crossovers make the raw percentage underestimate longer map lengths."
+  - "Incomplete dominance gives an intermediate heterozygote phenotype; codominance expresses both alleles. Crossing two matching heterozygotes for the same pair of alleles gives 1 : 2 : 1 under the simple unbiased model."
   - "Males (XY) have one X, so X-linked recessive traits appear more often in males than in females. Birds (ZW) and bees (haplodiploidy) use other systems."
   - "Pleiotropy: one gene affects several traits. Mitochondrial and chloroplast genes are usually inherited only from the mother."
 faqs:
@@ -69,13 +69,13 @@ With complete dominance, Aa looks like AA. Two other kinds of allele interaction
 - **Incomplete dominance.** Neither allele masks the other, so the heterozygote is a **blend** of the two homozygous phenotypes. A classic example is snapdragon flower colour: red × white gives pink.
 - **Codominance.** **Both** alleles are fully expressed in the heterozygote. In the human ABO blood groups, alleles Iᴬ and Iᴮ are codominant: an IᴬIᴮ person has both A and B antigens on their red blood cells (blood group AB). A third allele, i, is recessive to both.
 
-Because the heterozygote has its own phenotype, a cross between two heterozygotes gives a **1 : 2 : 1 phenotypic ratio**, the same as the genotypic ratio. With complete dominance it would be 3 : 1.
+For two parents heterozygous for the **same pair of alleles**, with unbiased transmission, random fertilisation and equal offspring viability, incomplete dominance or codominance gives a **1 : 2 : 1 phenotypic ratio**. This matches the genotypic ratio. It is not a rule for every cross between different heterozygous genotypes; the ABO example below has a different pairing.
 
 **Codominance example.** A parent with genotype IᴬIᴮ has a child with a partner who is Iᴬi. The possible children are IᴬIᴬ, Iᴬi, IᴬIᴮ and Iᴮi, each with probability 1/4. So P(group A) = 1/4 + 1/4 = 1/2 (sum rule), P(group AB) = 1/4, P(group B) = 1/4, and P(group O) = 0.
 
 ## Linked genes and gene mapping
 
-Each chromosome carries many genes. Genes on the same chromosome are **genetically linked**: they tend to go into gametes together, so they do not assort independently.
+Each chromosome carries many genes. Nearby loci on the same chromosome can show **detectable genetic linkage**. Distant loci can approach 50% recombination and behave as genetically unlinked, despite sharing a chromosome.
 
 Linkage is not complete. In prophase I, non-sister chromatids exchange segments by **crossing over**. If a crossover happens between two linked genes, it produces chromosomes with **new combinations** of their alleles. Offspring carrying these are **recombinants**. Offspring with the original combinations are **parental types**.
 
@@ -83,13 +83,13 @@ The farther apart two genes are, the more likely a crossover falls between them.
 
 **Recombination frequency (%) = number of recombinant offspring ÷ total offspring × 100**
 
-**1% recombination = 1 map unit.** Using these distances to place genes in order along a chromosome is **gene mapping**.
+For short intervals where undetected multiple crossovers are negligible, **1% recombination estimates 1 map unit (1 cM)**. Recombination frequency alone underestimates longer map lengths because some multiple exchanges restore parental marker combinations. Mapping combines appropriately estimated intervals to infer gene order.
 
 How to spot linkage in a dihybrid test cross (AaBb × aabb):
 
 - Unlinked genes give four phenotypes in a 1 : 1 : 1 : 1 ratio.
 - Linked genes give two large classes (the parental types) and two small classes (the recombinants).
-- A chi-square test against 1 : 1 : 1 : 1 gives a large χ², so you reject the hypothesis of independent assortment.
+- Test the counts against 1 : 1 : 1 : 1. Detectable linkage can give a significant departure, but rejection is not guaranteed in every finite sample and does not uniquely establish linkage; the design must also consider viability and other possible biases.
 
 Recombination frequency cannot exceed about 50%. At that point, recombinants and parental types are equally common, which looks the same as independent assortment.
 
@@ -126,7 +126,7 @@ Recombination frequency cannot exceed about 50%. At that point, recombinants and
 
 ## Sex-linked traits
 
-In humans and other mammals, females are XX and males are XY. The X chromosome carries many genes; the small Y carries few. A gene on a sex chromosome is **sex-linked**.
+For the standard human XX/XY examples below, consider loci outside the regions shared by X and Y, and assume complete penetrance with no new mutation. These are simplified inheritance models rather than universal phenotype rules. A gene on a sex chromosome is **sex-linked**. Under this model, XX individuals carry two X copies and XY individuals one X and one Y.
 
 - **X-linked genes.** A male has one X, so he has only one allele for each X-linked gene. A single recessive allele is therefore expressed in a male. A female needs two copies. This is why X-linked recessive traits, such as red-green colour blindness and haemophilia, are **much more common in males**.
 - A father passes his X to **all his daughters** and his Y to **all his sons**. So an affected father never passes an X-linked trait to his sons.
@@ -171,23 +171,23 @@ Write X-linked genotypes with the allele as a superscript: Xᴮ for normal colou
 **Other sex-determination systems.** Not every species uses X and Y.
 
 - **Birds** use the **ZW** system: males are ZZ and females are ZW. Here the female has only one Z, so Z-linked recessive traits are more common in **females**.
-- **Bees** use **haplodiploidy**: females develop from fertilized eggs and are diploid; males develop from unfertilized eggs and are haploid. A male has no father and passes on his whole genome to every daughter.
+- In the **typical haplodiploid bee model**, females develop from fertilized diploid eggs and males from unfertilized haploid eggs. A haploid male has no father and contributes his haploid nuclear set to daughters. This is the introductory pattern; chromosome count alone does not describe every exception or sex-determining mechanism in all bees.
 
 ## Pleiotropy
 
-**Pleiotropy** is when one gene affects several traits. The best-known human example is the sickle-cell allele of the gene for a haemoglobin subunit. People with two copies make haemoglobin that makes red blood cells sickle-shaped. This one change causes anaemia, blocked small blood vessels, pain and organ damage. Heterozygotes are more resistant to malaria.
+**Pleiotropy** is when one gene affects several traits. The best-known human example is the sickle-cell allele of the gene for a haemoglobin subunit. People with two copies make haemoglobin that can cause red blood cells to sickle, leading to anaemia, blocked small blood vessels, pain and organ damage; severity varies. Heterozygotes can have partial protection against severe malaria in some settings, alongside possible health effects.
 
-Because all these effects come from one gene, they are **inherited together**. They cannot segregate independently, and crossing over can never separate them. This is how you tell pleiotropy from linkage: two linked genes are occasionally separated by crossing over, giving recombinants.
+The inherited variant affects several pathways: that is **pleiotropy**. Its downstream effects are not two independent loci that a crossover can separate. However, other genes, environment and tissue context can modify which effects appear and their severity. Linkage is different: recombination can reshuffle alleles at two separate loci. Phenotypic co-occurrence alone does not prove either mechanism.
 
 ## Non-nuclear inheritance
 
-Mitochondria and chloroplasts contain their own small circular DNA. Their genes follow different rules.
+Mitochondria and chloroplasts contain their own DNA, in addition to the nuclear genes needed for their function. Organelle genome sizes and physical forms vary; a circular map should not be treated as a universal physical structure. This section concerns organelle-encoded variants, whose transmission can differ from nuclear inheritance.
 
-- When a cell divides, its mitochondria and chloroplasts are shared out **at random** between daughter cells and gametes. So their traits do not follow Mendel's ratios. In some plants with variegated (patchy green and white) leaves, cells with mixed chloroplasts divide, and some cell lines end up with mostly faulty chloroplasts, giving white patches.
+- Organelle-genome replication and partitioning can have stochastic components that change variant proportions between cell lineages. The process is not universally a simple random allocation of whole organelles: organelle dynamics, regulation and selection also matter. In some plastid-genome models of variegation, sorting different plastid variants can contribute to green and pale cell-lineage sectors; not all leaf variegation has this cause.
 - In animals, the egg supplies the zygote's mitochondria; sperm usually contribute none. Traits coded by mitochondrial DNA are therefore **typically maternally inherited**: an affected mother can pass the trait to any of her children, while an affected father usually passes it to none. (How severely each child is affected can vary, because mitochondria are shared out at random.)
 - In plants, mitochondria and chloroplasts are usually passed on in the ovule, not the pollen, so their traits are also typically maternally inherited.
 
-**Reciprocal crosses** reveal this. Cross a female with trait X and a male without it, then the reverse. Nuclear genes (not sex-linked) give the same result both ways. Organelle genes follow the mother.
+**Reciprocal crosses** can provide evidence. Reverse which parental type supplies the egg and compare the outcomes. A maternal organelle marker follows the mother in the model used here, while ordinary autosomal Mendelian alleles predict matching reciprocal results under the same assumptions. A reciprocal difference alone is not uniquely diagnostic: nuclear parent-of-origin or maternal effects can also produce differences, and organelle transmission can be paternal or biparental in some organisms.
 
 ## Worked example 1: incomplete dominance and chi-square
 
@@ -222,7 +222,7 @@ Mitochondria and chloroplasts contain their own small circular DNA. Their genes 
 1. Parental types: black long and brown short (412 + 418 = 830).
 2. Recombinants: black short and brown long (87 + 83 = **170**).
 3. Recombination frequency = 170 ÷ 1000 × 100 = **17%**.
-4. Map distance = **17 map units**.
+4. With the introductory short-interval approximation, estimated map distance ≈ **17 map units**. The simple example neglects hidden multiple crossovers.
 
 **(c) Gene order.** B–E = 9 and E–L = 8. Since 9 + 8 = 17 = B–L, E must lie **between** B and L: the order is **B–E–L** (Figure 1). In general, the gene in the middle is the one whose two distances add up to the largest distance.
 

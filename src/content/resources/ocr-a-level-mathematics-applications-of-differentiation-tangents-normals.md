@@ -113,6 +113,14 @@ Use the sign of dy/dx. Where dy/dx > 0 the function is increasing; where dy/dx <
 
 ### Example 5
 
+<!-- marlbridge-diagram:math-b59-derivative-increasing-intervals -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/public/images/learning/mathematics/math-b59-derivative-increasing-intervals.svg" aria-label="Open full-size diagram: math-b59-derivative-increasing-intervals"><img src="/public/images/learning/mathematics/math-b59-derivative-increasing-intervals.svg" width="1528" height="940" alt="The source example has f′(x)=3x²−12x−15=3(x−5)(x+1). Its zeros are −1 and 5; because the quadratic opens upward, f′ is positive outside these roots and negative between them. Thus f increases for x&lt;−1 and x&gt;5." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>The source example has f′(x)=3x²−12x−15=3(x−5)(x+1). Its zeros are −1 and 5; because the quadratic opens upward, f′ is positive outside these roots and negative between them. Thus f increases for x&lt;−1 and x&gt;5. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:math-b59-derivative-increasing-intervals -->
+
+
 Find where f(x) = x³ − 6x² − 15x + 4 is increasing.
 
 ```

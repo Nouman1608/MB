@@ -116,6 +116,14 @@ OCR A Level Business (H431) specification —
 
 ## From mission to tactics
 
+<!-- marlbridge-diagram:business-ocr-a-level-mission-to-tactics-cascade -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/business/business-ocr-a-level-mission-to-tactics-cascade.svg" aria-label="Open full-size diagram: business-ocr-a-level-mission-to-tactics-cascade"><img src="/images/learning/business/business-ocr-a-level-mission-to-tactics-cascade.svg" width="1600" height="1050" alt="A cascade links purpose, measurable objectives, strategy and tactics, with source-described contextual shifts in objectives." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>A cascade links purpose, measurable objectives, strategy and tactics, with source-described contextual shifts in objectives. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:business-ocr-a-level-mission-to-tactics-cascade -->
+
+
 Strategic decisions cascade. **Mission** states purpose; **corporate objectives** set measurable targets; **strategy** is the long-term plan for reaching them; **tactics** are the short-term actions within the strategy.
 
 Objectives should be SMART, and they shift with circumstance: survival dominates in a downturn, growth in an expanding market, profit maximisation in a mature one. **Corporate social responsibility** objectives may reduce short-run profit while protecting long-run reputation and licence to operate.

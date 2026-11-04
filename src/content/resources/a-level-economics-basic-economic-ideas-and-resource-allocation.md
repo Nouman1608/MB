@@ -98,6 +98,14 @@ still disagreeing sharply about the right policy response.
 
 ## Production possibility curves — the three things to show
 
+<!-- marlbridge-diagram:economics-ppc-efficiency-opportunity-cost -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/economics/economics-ppc-efficiency-opportunity-cost.svg" aria-label="Open full-size diagram: economics-ppc-efficiency-opportunity-cost"><img src="/images/learning/economics/economics-ppc-efficiency-opportunity-cost.svg" width="1600" height="1050" alt="A production possibility curve shows efficient production on the frontier, underused resources inside it, and currently unattainable output outside it; movement along the frontier shows opportunity cost and an outward shift shows growth." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Production possibility curves: productive efficiency, opportunity cost and growth. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:economics-ppc-efficiency-opportunity-cost -->
+
+
 A PPC diagram needs to demonstrate three distinct ideas clearly, and exam mark schemes typically
 credit each separately: **any point on the curve** shows productive efficiency (all resources fully
 and efficiently employed); **a movement along the curve** from one point to another shows the

@@ -209,6 +209,14 @@ Park Gate    07 55   08 40   09 25   10 10
 
 ### Time zones and local time
 
+<!-- marlbridge-diagram:math-b51-time-zone-flight-timeline -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/public/images/learning/mathematics/math-b51-time-zone-flight-timeline.svg" aria-label="Open full-size diagram: math-b51-time-zone-flight-timeline"><img src="/public/images/learning/mathematics/math-b51-time-zone-flight-timeline.svg" width="1528" height="940" alt="Using the worked example: add 9 h 50 min to 01:20 in City X time to get 11:10; because City Y is 3 hours behind, subtract 3 hours to obtain 08:10 local time. The timeline separates duration arithmetic from the zone conversion." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Using the worked example: add 9 h 50 min to 01:20 in City X time to get 11:10; because City Y is 3 hours behind, subtract 3 hours to obtain 08:10 local time. The timeline separates duration arithmetic from the zone conversion. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:math-b51-time-zone-flight-timeline -->
+
+
 If a city is **ahead**, its clocks show a later time: **add** the difference. If it is **behind**, **subtract**. Work the journey in one city's time, then convert once at the end.
 
 *Worked example 10.* City Y is 3 hours behind City X. A flight leaves X at 01 20 local time and lasts 9 h 50 min. Find the local time in Y when it lands.

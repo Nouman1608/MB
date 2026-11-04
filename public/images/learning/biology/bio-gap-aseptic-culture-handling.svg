@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1000" viewBox="0 0 1600 1000" role="img" aria-labelledby="title desc">
+<title id="title">Aseptic culture handling overview</title>
+<desc id="desc">Four safety-aware panels show teacher-approved sterile equipment, cooling a flamed reusable loop before culture contact, small tape pieces that do not seal a Petri dish completely, and inverted incubation. A prominent note says never open incubated environmental or human cultures and to follow local risk assessment.</desc>
+<rect width="1600" height="1000" fill="#f3f7f6"/>
+<g font-family="Arial,sans-serif" fill="#18324b">
+<text x="800" y="58" text-anchor="middle" font-size="38" font-weight="700">Aseptic culture handling: key ideas</text>
+<text x="800" y="94" text-anchor="middle" font-size="18" fill="#526578">Marlbridge · schematic overview · follow the school's approved procedure</text>
+<g fill="#fff" stroke="#c9d8de" stroke-width="3">
+<rect x="45" y="130" width="735" height="330" rx="22"/><rect x="820" y="130" width="735" height="330" rx="22"/>
+<rect x="45" y="490" width="735" height="330" rx="22"/><rect x="820" y="490" width="735" height="330" rx="22"/>
+</g>
+<g font-size="24" font-weight="700"><text x="80" y="175">1 · Approved sterile equipment</text><text x="855" y="175">2 · Cool before culture contact</text><text x="80" y="535">3 · Secure, not fully sealed</text><text x="855" y="535">4 · Invert for incubation</text></g>
+<g font-size="18" fill="#526578"><text x="80" y="210">Teacher/technician selects the method under the local risk assessment.</text><text x="855" y="210">If a reusable loop is flamed, let it cool before touching a culture.</text><text x="80" y="570">Small tape pieces help stop accidental opening; do not tape all around.</text><text x="855" y="570">Use the temperature and time set by the approved school procedure.</text></g>
+<!-- panel 1 sterile tools -->
+<rect x="112" y="285" width="250" height="88" rx="14" fill="#e7f4f2" stroke="#087f8c" stroke-width="4"/><text x="237" y="321" text-anchor="middle" font-size="21" font-weight="700">Sterile plate</text><text x="237" y="350" text-anchor="middle" font-size="17">prepared media</text>
+<path d="M390 330h110" stroke="#087f8c" stroke-width="5"/><path d="M490 318l22 12-22 12" fill="none" stroke="#087f8c" stroke-width="5"/>
+<rect x="530" y="285" width="190" height="88" rx="14" fill="#fff7e3" stroke="#d5a52b" stroke-width="4"/><text x="625" y="321" text-anchor="middle" font-size="20" font-weight="700">Teacher-led</text><text x="625" y="350" text-anchor="middle" font-size="17">or pre-inoculated</text>
+<!-- panel 2 loop -->
+<path d="M925 365q0-72 54-72t54 72" fill="none" stroke="#526578" stroke-width="13" stroke-linecap="round"/><path d="M979 365v28" stroke="#526578" stroke-width="13"/>
+<path d="M955 270q24-42 48 0m-68-9q44-68 88 0" fill="none" stroke="#e79a3b" stroke-width="8" stroke-linecap="round"/><text x="979" y="420" text-anchor="middle" font-size="17">flame only if approved</text>
+<path d="M1065 330h72" stroke="#087f8c" stroke-width="5"/><path d="M1127 318l22 12-22 12" fill="none" stroke="#087f8c" stroke-width="5"/>
+<circle cx="1230" cy="330" r="55" fill="#e7f4f2" stroke="#087f8c" stroke-width="4"/><text x="1230" y="324" text-anchor="middle" font-size="18" font-weight="700">cool</text><text x="1230" y="350" text-anchor="middle" font-size="16">before contact</text>
+<text x="1390" y="320" text-anchor="middle" font-size="18" font-weight="700">Then transfer</text><text x="1390" y="350" text-anchor="middle" font-size="16">as instructed</text>
+<!-- panel 3 plate and tape -->
+<ellipse cx="280" cy="685" rx="150" ry="69" fill="#e7f4f2" stroke="#087f8c" stroke-width="5"/><ellipse cx="280" cy="685" rx="108" ry="43" fill="#f9e3bc" stroke="#c49b27" stroke-width="3"/><rect x="127" y="665" width="32" height="16" rx="3" fill="#f5cf62"/><rect x="401" y="665" width="32" height="16" rx="3" fill="#f5cf62"/><text x="280" y="785" text-anchor="middle" font-size="17">two small tape pieces · gaps remain</text>
+<circle cx="565" cy="685" r="58" fill="#fff2ee" stroke="#c55443" stroke-width="4"/><path d="M530 650l70 70m0-70l-70 70" stroke="#c55443" stroke-width="9"/><text x="650" y="675" font-size="17" font-weight="700">No continuous</text><text x="650" y="702" font-size="17">airtight seal</text>
+<!-- panel 4 inverted plate -->
+<path d="M1000 680h330q26 0 26 24t-26 24h-330q-26 0-26-24t26-24Z" fill="#e7f4f2" stroke="#087f8c" stroke-width="5"/><path d="M1000 675h330" stroke="#18324b" stroke-width="10"/><circle cx="1075" cy="706" r="8" fill="#d5a52b"/><circle cx="1135" cy="716" r="7" fill="#d5a52b"/><circle cx="1210" cy="700" r="9" fill="#d5a52b"/><path d="M1010 630v34m150-34v34m150-34v34" stroke="#087f8c" stroke-width="4"/><path d="M998 638l12 20 12-20m126 0l12 20 12-20m126 0l12 20 12-20" fill="none" stroke="#087f8c" stroke-width="4"/><text x="1165" y="770" text-anchor="middle" font-size="17">agar above · lid below</text>
+<text x="1410" y="680" text-anchor="middle" font-size="20" font-weight="700">25°C is a</text><text x="1410" y="710" text-anchor="middle" font-size="20" font-weight="700">common school</text><text x="1410" y="740" text-anchor="middle" font-size="20" font-weight="700">example</text>
+<rect x="45" y="850" width="1510" height="92" rx="18" fill="#fff2ee" stroke="#c55443" stroke-width="3"/><text x="800" y="888" text-anchor="middle" font-size="23" font-weight="700" fill="#8c342b">Never open incubated cultures grown from environmental or human samples.</text><text x="800" y="919" text-anchor="middle" font-size="18" fill="#526578">Follow teacher/technician instructions and local risk assessment for handling, incubation and disposal.</text>
+<text x="1515" y="980" text-anchor="end" font-size="16" fill="#728294">MARLBRIDGE · STUDY RESOURCES</text>
+</g></svg>

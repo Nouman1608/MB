@@ -163,6 +163,14 @@ Finish with a sentence in words: the vectors are parallel and share a point, so 
 
 ## 1.10g: problems in context, including forces
 
+<!-- marlbridge-diagram:math-b73-force-equilibrium-vector-resultant -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/public/images/learning/mathematics/math-b73-force-equilibrium-vector-resultant.svg" aria-label="Open full-size diagram: math-b73-force-equilibrium-vector-resultant"><img src="/public/images/learning/mathematics/math-b73-force-equilibrium-vector-resultant.svg" width="1528" height="940" alt="Source example: F₁=(6,2), F₂=(−9,7), so R=(−3,9); the balancing force is F₃=(3,−9), magnitude 3√10≈9.49 N, direction 288.4°." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Source example: F₁=(6,2), F₂=(−9,7), so R=(−3,9); the balancing force is F₃=(3,−9), magnitude 3√10≈9.49 N, direction 288.4°. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:math-b73-force-equilibrium-vector-resultant -->
+
+
 A force is a vector, so forces acting at a point combine by vector addition to give a **resultant**. A particle is in **equilibrium** if that resultant is the zero vector. Newton's second law, F = ma, also holds in vector form, so the resultant force and the acceleration point the same way.
 
 **Example 8.** Forces F₁ = (6i + 2j) N and F₂ = (−9i + 7j) N act on a particle. A third force F₃ keeps it in equilibrium. Find F₃, its magnitude and its direction.

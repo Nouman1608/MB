@@ -69,9 +69,9 @@ An **enhancer** is a regulatory DNA sequence that binds **activators**, the gene
 
 - They can be **far** from the gene, sometimes many thousands of base pairs away.
 - They can be **upstream** of the start site, **downstream** of it, or even inside an intron.
-- They still act on their own gene, because DNA is flexible.
+- Enhancers can regulate one or more target genes. Chromosome contacts, chromatin and cell context help determine which genes respond; proximity alone does not prove a target.
 
-**How a distant enhancer works.** The DNA between the enhancer and the promoter bends into a loop. This brings the activators on the enhancer into contact with a group of **mediator** proteins, which in turn contact the general transcription factors and RNA polymerase at the promoter (Figure 1). The activators help the whole complex assemble and start transcription much more often. More activator bound means a higher rate of transcription, more mRNA and, usually, more protein.
+**How a distant enhancer works.** The DNA between the enhancer and the promoter bends into a loop. This brings the activators on the enhancer into contact with a group of **mediator** proteins, which in turn contact the general transcription factors and RNA polymerase at the promoter (Figure 1). The activators help the whole complex assemble and start transcription much more often. Binding activators can raise the transcription rate, but the response may saturate and depends on cofactors, chromatin and cellular context. More mRNA often leads to more protein, although RNA turnover and translation also matter.
 
 <figure>
 <svg viewBox="0 0 640 350" role="img" aria-labelledby="loop-title loop-desc" xmlns="http://www.w3.org/2000/svg" font-family="system-ui, sans-serif">
@@ -226,11 +226,11 @@ The full-length construct gives 25 units in liver cells.
 
 1. **Promoter: essential.** Without it, activity falls to 0.2% (2 ÷ 1000 × 100). RNA polymerase and the general transcription factors have nowhere to assemble.
 2. **E1 and E2: enhancers.** Removing E1 cuts activity to 38%; removing E2 cuts it to 45%. Removing both leaves only 3.0%, near the basal level. So each region **raises** transcription.
-3. **The two enhancers work together.** If each enhancer multiplied the rate independently, removing both would leave about 0.38 × 0.45 = 0.171, or 17%, of full activity. The measured value, 3.0%, is far lower. Each enhancer is much more effective when the other is present.
+3. **The two enhancers work together.** If each enhancer multiplied the rate independently, removing both would leave about 0.38 × 0.45 = 0.171, or 17%, of full activity. The measured 3.0% is far below the simple independent-effect prediction. This is consistent with non-independent effects or other assay/context influences, but one estimate without replicate variation does not establish a statistical interaction.
 4. **E2 is downstream.** It lies inside an intron, yet it still enhances transcription. The position of an enhancer, upstream or downstream, does not stop it working.
 5. **R: silencer.** Removing R **raises** activity to 210% (2.1 times full-length). So R normally **lowers** transcription, most likely by binding a repressor.
 
-**(b) Tissue difference.** Liver cells give 25 units, only 2.5% of the kidney value, or 1/40. Both cell types received the same DNA. The difference must come from the proteins inside the cells: kidney cells contain the activators that bind E1 and E2; liver cells lack them, or contain more of the repressor that binds R. This is differential gene expression caused by different sets of transcription factors.
+**(b) Tissue difference.** Liver cells give 25 units, only 2.5% of the kidney value, or 1/40. Both cell types received the same construct. The reporter difference is consistent with tissue-specific regulation, including different transcription-factor activity, but the reporter data alone do not prove that mechanism. Chromatin context, transfection, reporter translation or stability, and RNA turnover can also affect measured light output.
 
 **Limits.** A reporter gene in a cell culture is a model. It shows what the control region *can* do, but the gene in its normal place on the chromosome may also be affected by chromatin packing.
 
@@ -250,7 +250,7 @@ Make a claim about how miR-X affects protein P, and support it with evidence and
 1. **Claim.** miR-X reduces the amount of protein P by base-pairing with P mRNA. It does this in two ways, to a similar extent: it blocks translation and it causes the mRNA to be broken down.
 2. **Evidence that miR-X is responsible.** Blocking miR-X raises P protein 4.2-fold. The unrelated control RNA has almost no effect (1.05), so the rise is not just a result of adding RNA to the cells.
 3. **Evidence that it acts on the mRNA itself.** Removing the binding site from P mRNA gives almost the same rise (4.0-fold) as blocking miR-X. miR-X needs to pair with that site to work.
-4. **Evidence for two effects.** P mRNA roughly doubles (1.9 and 2.0), so miR-X normally speeds up mRNA breakdown. But protein rises about **twice as much** as mRNA: protein per mRNA goes from 1.0 to 2.2 (4.2 ÷ 1.9) and 2.0 (4.0 ÷ 2.0). Each mRNA is translated about twice as often when miR-X cannot bind, so miR-X also blocks translation. The two effects are about equal (about 2-fold each), and together they multiply: 1.9 × 2.2 ≈ 4.2.
+4. **Evidence for two effects.** P mRNA roughly doubles (1.9 and 2.0), so miR-X normally speeds up mRNA breakdown. But protein rises about **twice as much** as mRNA: protein per mRNA goes from 1.0 to 2.2 (4.2 ÷ 1.9) and 2.0 (4.0 ÷ 2.0). The roughly doubled protein-to-mRNA abundance ratio is consistent with a translational contribution, provided protein stability and the measurement conditions are comparable. Direct translation and RNA-turnover measurements would separate the mechanisms more securely. The two effects are about equal (about 2-fold each), and together they multiply: 1.9 × 2.2 ≈ 4.2.
 5. **Reasoning.** Base-pairing between a small RNA and its target mRNA lowers gene expression after transcription. Muscle cells that make miR-X will therefore have less protein P than cells that do not, which is one way cell types differ even when both transcribe the same gene.
 
 ## Common misconceptions

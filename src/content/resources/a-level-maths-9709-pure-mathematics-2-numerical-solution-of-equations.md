@@ -66,6 +66,14 @@ A full answer has three parts: the two values of f (with their signs), the fact 
 
 Show that the equation eˣ + x² = 6 has exactly two real roots, and find the pair of consecutive integers between which each root lies.
 
+<!-- marlbridge-diagram:maths-b15-numerical-solution-sign-change -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/mathematics/maths-b15-numerical-solution-sign-change.svg" aria-label="Open full-size diagram: maths-b15-numerical-solution-sign-change"><img src="/images/learning/mathematics/maths-b15-numerical-solution-sign-change.svg" width="1600" height="1050" alt="Graph and endpoint sign table bracket the two roots of e^x + x² = 6 in (−3,−2) and (1,2)." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Graph and endpoint sign table bracket the two roots of e^x + x² = 6 in (−3,−2) and (1,2). Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:maths-b15-numerical-solution-sign-change -->
+
+
 Sketch y = eˣ and y = 6 − x². The exponential curve is always positive and increasing; the parabola has maximum point (0, 6) and crosses the x-axis at ±√6. At x = 0 the parabola (6) is above the exponential (1). Moving right, eˣ rises and 6 − x² falls, so they cross once. Moving left from 0, 6 − x² falls from 6 to large negative values while eˣ stays between 0 and 1, so they cross once. **Exactly two roots.**
 
 Now let f(x) = eˣ + x² − 6 and search integer values:
@@ -113,6 +121,14 @@ This means α is a root of the equation x = F(x). An iterative formula is theref
 To show which equation a given formula solves, replace both xₙ₊₁ and xₙ by α (or x) and rearrange back.
 
 ### Worked example 3: one equation, two rearrangements
+
+<!-- marlbridge-diagram:maths-p2-numerical-root-iteration -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/mathematics/maths-p2-numerical-root-iteration.svg" aria-label="Open full-size diagram: maths-p2-numerical-root-iteration"><img src="/images/learning/mathematics/maths-p2-numerical-root-iteration.svg" width="1600" height="1050" alt="Cambridge 9709 worked example brackets a root of 2x=3+ln x in (1,2), then applies the source iteration and rounds to 1.79 (2 d.p.)." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Cambridge 9709 worked example brackets a root of 2x=3+ln x in (1,2), then applies the source iteration and rounds to 1.79 (2 d.p.). Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:maths-p2-numerical-root-iteration -->
+
 
 The equation 2x = 3 + ln x has a root α between 1 and 2.
 

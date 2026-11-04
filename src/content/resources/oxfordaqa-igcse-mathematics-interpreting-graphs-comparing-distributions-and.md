@@ -179,6 +179,14 @@ A line of best fit is a straight line that follows the trend of the points.
 
 ### Worked example 5
 
+<!-- marlbridge-diagram:math-b58-oxfordaqa-revision-score-correlation-scatter -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/public/images/learning/mathematics/math-b58-oxfordaqa-revision-score-correlation-scatter.svg" aria-label="Open full-size diagram: math-b58-oxfordaqa-revision-score-correlation-scatter"><img src="/public/images/learning/mathematics/math-b58-oxfordaqa-revision-score-correlation-scatter.svg" width="1528" height="940" alt="A scatter plot of ten revision-hour/test-score pairs rises from bottom left to top right. A plausible red best-fit line y=6x+32 passes near the mean point (4.3,57.9); its 12-hour extrapolation to 104 marks is flagged as unreliable." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>A scatter plot of ten revision-hour/test-score pairs rises from bottom left to top right. A plausible red best-fit line y=6x+32 passes near the mean point (4.3,57.9); its 12-hour extrapolation to 104 marks is flagged as unreliable.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:math-b58-oxfordaqa-revision-score-correlation-scatter -->
+
+
 Ten pupils recorded hours of revision (x) and test score out of 100 (y).
 
 ```

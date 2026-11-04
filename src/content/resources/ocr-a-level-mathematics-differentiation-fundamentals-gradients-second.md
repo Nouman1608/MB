@@ -149,6 +149,14 @@ The cos x case follows the same steps from cos(x + h) = cos x cos h − sin x si
 
 ## 7. Differentiating xⁿ (1.07i)
 
+<!-- marlbridge-diagram:math-b61-power-rule-roots-reciprocals -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/public/images/learning/mathematics/math-b61-power-rule-roots-reciprocals.svg" aria-label="Open full-size diagram: math-b61-power-rule-roots-reciprocals"><img src="/public/images/learning/mathematics/math-b61-power-rule-roots-reciprocals.svg" width="1528" height="940" alt="The source rewrites (x²+3)/√x as x^(3/2)+3x^(−1/2), then differentiates to (3/2)x^(1/2)−(3/2)x^(−3/2). At x=4, this is 3−3/16=45/16." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>The source rewrites (x²+3)/√x as x^(3/2)+3x^(−1/2), then differentiates to (3/2)x^(1/2)−(3/2)x^(−3/2). At x=4, this is 3−3/16=45/16. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:math-b61-power-rule-roots-reciprocals -->
+
+
 For any rational n: **d/dx (xⁿ) = nxⁿ⁻¹**. Constant multiples stay in place, sums and differences are handled one term at a time, and a lone constant gives 0.
 
 The skill is rewriting first. Roots and reciprocals must become powers: √x = x^(1/2), 1/x³ = x⁻³, 1/√x = x^(−1/2). Split fractions that have a single term in the denominator.

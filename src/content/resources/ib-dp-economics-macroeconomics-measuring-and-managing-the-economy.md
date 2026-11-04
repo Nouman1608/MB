@@ -129,6 +129,14 @@ over generic theory on its own.
 
 ## Worked example
 
+<!-- marlbridge-diagram:economics-ib-macro-rates-levels -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/economics/economics-ib-macro-rates-levels.svg" aria-label="Open full-size diagram: economics-ib-macro-rates-levels"><img src="/images/learning/economics/economics-ib-macro-rates-levels.svg" width="1600" height="1050" alt="Four-step macroeconomics explainer distinguishes a fall in the growth rate from falling real output, separates inflation rate from price level, and cautions against overclaiming from a simple AD shift." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Growth slows from 4% to 1% while output may still rise; inflation accelerates from 2% to 6%. Interpret the rates separately. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:economics-ib-macro-rates-levels -->
+
+
 A data extract shows a country's real GDP growth *rate* falling from
 4% to 1% over two years (real output is still rising, just more
 slowly), while the inflation *rate* rises from 2% to 6% (the price

@@ -76,6 +76,14 @@ AQA A-level Accounting (7127) specification, first teaching September 2017 --
 
 ## The recording chain, source to statement
 
+<!-- marlbridge-diagram:accounting-double-entry-recording-chain -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/accounting/accounting-double-entry-recording-chain.svg" aria-label="Open full-size diagram: accounting-double-entry-recording-chain"><img src="/images/learning/accounting/accounting-double-entry-recording-chain.svg" width="1600" height="1050" alt="Flow diagram links source document, appropriate book of prime entry, receivables/payables/general ledger, trial balance and financial statements." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Flow diagram links source document, appropriate book of prime entry, receivables/payables/general ledger, trial balance and financial statements. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:accounting-double-entry-recording-chain -->
+
+
 Every transaction starts with a source document (an invoice, a till roll, a bank statement entry). It is
 first entered into a book of prime entry -- the appropriate journal or the three-column cash book -- and
 only from there posted into the double-entry ledger accounts. Ledger accounts are commonly subdivided

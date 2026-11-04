@@ -207,6 +207,14 @@ Always check that the limits do not make a bracket zero. Here x − 1 and x + 2 
 
 ## Volumes of revolution
 
+<!-- marlbridge-diagram:math-b70-oxfordaqa-volumes-of-revolution-x-axis -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/public/images/learning/mathematics/math-b70-oxfordaqa-volumes-of-revolution-x-axis.svg" aria-label="Open full-size diagram: math-b70-oxfordaqa-volumes-of-revolution-x-axis"><img src="/public/images/learning/mathematics/math-b70-oxfordaqa-volumes-of-revolution-x-axis.svg" width="1528" height="940" alt="A shaded profile under y=√(3x+1) is revolved about x-axis into a solid made of thin circular discs; exact volume 85π/2." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>A shaded profile under y=√(3x+1) is revolved about x-axis into a solid made of thin circular discs; exact volume 85π/2.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:math-b70-oxfordaqa-volumes-of-revolution-x-axis -->
+
+
 Rotate the region between a curve and an axis through 360° about that axis. The resulting solid is a volume of revolution. Slice it into thin discs. Each disc has radius equal to the curve's distance from the axis and thickness equal to the small step along the axis. Summing the discs gives:
 
 | Axis of revolution | Volume |

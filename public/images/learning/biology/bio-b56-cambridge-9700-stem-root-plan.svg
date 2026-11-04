@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1000" viewBox="0 0 1600 1000" role="img" aria-labelledby="title desc">
+  <title id="title">Plan diagrams of dicot root and stem transverse sections</title>
+  <desc id="desc">Two line-only transverse-section plan exemplars. The root shows epidermis, cortex, endodermis, central star-shaped xylem and phloem between its arms. The stem shows epidermis, cortex, a central pith and vascular bundles in a ring, with phloem toward the outside and xylem toward the centre.</desc>
+  <rect width="1600" height="1000" fill="#f5f8f7"/>
+  <text x="60" y="72" font-family="Arial,sans-serif" font-size="38" font-weight="700" fill="#10233f">Herbaceous dicot: root and stem plan diagrams</text>
+  <text x="62" y="112" font-family="Arial,sans-serif" font-size="20" fill="#536477">Transverse sections • tissue outlines only • schematic, not to scale</text>
+  <rect x="50" y="150" width="735" height="750" rx="16" fill="#fff" stroke="#cad5d9" stroke-width="2"/>
+  <rect x="815" y="150" width="735" height="750" rx="16" fill="#fff" stroke="#cad5d9" stroke-width="2"/>
+  <text x="417" y="205" text-anchor="middle" font-family="Arial,sans-serif" font-size="27" font-weight="700" fill="#10233f">ROOT • transverse section</text>
+  <text x="1182" y="205" text-anchor="middle" font-family="Arial,sans-serif" font-size="27" font-weight="700" fill="#10233f">STEM • transverse section</text>
+
+  <!-- Root plan: layered boundaries, central xylem and phloem between arms. -->
+  <g fill="none" stroke="#10233f" stroke-width="4" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="300" cy="555" r="188"/>
+    <circle cx="300" cy="555" r="160" stroke-width="2.5"/>
+    <circle cx="300" cy="555" r="92" stroke-width="3"/>
+    <path d="M286 493 L314 493 L320 535 L362 541 L362 569 L320 575 L314 617 L286 617 L280 575 L238 569 L238 541 L280 535 Z"/>
+    <ellipse cx="342" cy="513" rx="12" ry="18"/><ellipse cx="258" cy="513" rx="12" ry="18"/>
+    <ellipse cx="342" cy="597" rx="12" ry="18"/><ellipse cx="258" cy="597" rx="12" ry="18"/>
+    <path d="M486 367 L531 337" stroke-width="2.5"/><path d="M415 450 L531 435" stroke-width="2.5"/>
+    <path d="M393 555 L531 535" stroke-width="2.5"/><path d="M342 513 L531 615" stroke-width="2.5"/>
+    <path d="M362 555 L531 690" stroke-width="2.5"/>
+  </g>
+  <g font-family="Arial,sans-serif" fill="#10233f">
+    <text x="545" y="344" font-size="20" font-weight="700">Epidermis</text>
+    <text x="545" y="442" font-size="20" font-weight="700">Cortex</text>
+    <text x="545" y="542" font-size="20" font-weight="700">Endodermis</text>
+    <text x="545" y="622" font-size="20" font-weight="700">Phloem</text>
+    <text x="545" y="655" font-size="16" fill="#536477">between xylem arms</text>
+    <text x="545" y="697" font-size="20" font-weight="700">Xylem</text>
+    <text x="300" y="798" text-anchor="middle" font-size="18" fill="#536477">Central, star-shaped xylem; little or no central pith</text>
+  </g>
+
+  <!-- Stem plan: tissue boundary lines and a ring of open vascular bundles. -->
+  <g fill="none" stroke="#10233f" stroke-width="4" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="1065" cy="555" r="188"/>
+    <circle cx="1065" cy="555" r="156" stroke-width="2.5"/>
+    <circle cx="1065" cy="555" r="111" stroke-width="2.5"/>
+    <g>
+      <g transform="rotate(0 1065 555)"><ellipse cx="1065" cy="425" rx="23" ry="42"/><path d="M1042 425H1088"/><circle cx="1065" cy="400" r="8"/><circle cx="1065" cy="449" r="8"/></g>
+      <g transform="rotate(45 1065 555)"><ellipse cx="1065" cy="425" rx="23" ry="42"/><path d="M1042 425H1088"/><circle cx="1065" cy="400" r="8"/><circle cx="1065" cy="449" r="8"/></g>
+      <g transform="rotate(90 1065 555)"><ellipse cx="1065" cy="425" rx="23" ry="42"/><path d="M1042 425H1088"/><circle cx="1065" cy="400" r="8"/><circle cx="1065" cy="449" r="8"/></g>
+      <g transform="rotate(135 1065 555)"><ellipse cx="1065" cy="425" rx="23" ry="42"/><path d="M1042 425H1088"/><circle cx="1065" cy="400" r="8"/><circle cx="1065" cy="449" r="8"/></g>
+      <g transform="rotate(180 1065 555)"><ellipse cx="1065" cy="425" rx="23" ry="42"/><path d="M1042 425H1088"/><circle cx="1065" cy="400" r="8"/><circle cx="1065" cy="449" r="8"/></g>
+      <g transform="rotate(225 1065 555)"><ellipse cx="1065" cy="425" rx="23" ry="42"/><path d="M1042 425H1088"/><circle cx="1065" cy="400" r="8"/><circle cx="1065" cy="449" r="8"/></g>
+      <g transform="rotate(270 1065 555)"><ellipse cx="1065" cy="425" rx="23" ry="42"/><path d="M1042 425H1088"/><circle cx="1065" cy="400" r="8"/><circle cx="1065" cy="449" r="8"/></g>
+      <g transform="rotate(315 1065 555)"><ellipse cx="1065" cy="425" rx="23" ry="42"/><path d="M1042 425H1088"/><circle cx="1065" cy="400" r="8"/><circle cx="1065" cy="449" r="8"/></g>
+    </g>
+    <path d="M1200 410 L1302 337" stroke-width="2.5"/><path d="M1190 465 L1302 435" stroke-width="2.5"/>
+    <path d="M1220 555 L1302 535" stroke-width="2.5"/><path d="M1171 555 L1302 615" stroke-width="2.5"/>
+  </g>
+  <g font-family="Arial,sans-serif" fill="#10233f">
+    <text x="1316" y="344" font-size="20" font-weight="700">Epidermis</text>
+    <text x="1316" y="442" font-size="20" font-weight="700">Cortex</text>
+    <text x="1316" y="542" font-size="20" font-weight="700">Phloem</text>
+    <text x="1316" y="575" font-size="16" fill="#536477">outside each bundle</text>
+    <text x="1316" y="622" font-size="20" font-weight="700">Xylem</text>
+    <text x="1316" y="655" font-size="16" fill="#536477">toward the centre</text>
+    <text x="1065" y="798" text-anchor="middle" font-size="18" fill="#536477">Vascular bundles form a ring around the pith</text>
+  </g>
+
+  <text x="800" y="950" text-anchor="middle" font-family="Arial,sans-serif" font-size="22" font-weight="700" letter-spacing="4" fill="#10233f" opacity=".12">MARLBRIDGE STUDY RESOURCE</text>
+  <path d="M50 920H1550" stroke="#c9a227" stroke-width="2"/>
+  <text x="60" y="975" font-family="Arial,sans-serif" font-size="16" font-weight="700" fill="#10233f">MARLBRIDGE  •  STUDY RESOURCE</text>
+</svg>

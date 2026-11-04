@@ -61,8 +61,15 @@ Plants respond to stimuli by growing in a particular direction. A growth respons
 
 | Response | Stimulus | Stem (shoot) | Root |
 |---|---|---|---|
-| Phototropism | Light from one direction | Positive -- grows towards light | Negative -- grows away from light |
+| Phototropism | Light from one direction | Usually positive -- grows towards light | May be negative in some plants or conditions; not a universal root response |
 | Geotropism | Gravity | Negative -- grows upwards | Positive -- grows downwards |
+
+<!-- marlbridge-diagram:bio-b26-edexcel-4bi1-gravitropism-root-shoot -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/biology/bio-b26-aqa-gravitropism-root-shoot.svg" aria-label="Open full-size diagram: bio-b26-edexcel-4bi1-gravitropism-root-shoot"><img src="/images/learning/biology/bio-b26-aqa-gravitropism-root-shoot.svg" width="1528" height="940" alt="Paired gravitropism: a shoot bends upwards and a root bends downwards after a seedling is placed horizontally; auxin affects elongation differently in roots and shoots." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Paired root and shoot responses to gravity. The same auxin signal has different growth effects in roots and shoots. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:bio-b26-edexcel-4bi1-gravitropism-root-shoot -->
 
 These responses help survival. A shoot that grows towards light absorbs more light for photosynthesis. A root that grows down anchors the plant and reaches water and mineral ions.
 
@@ -86,6 +93,11 @@ A seedling grown in the dark, or lit evenly from above, grows straight up becaus
 
 ## 3. Nervous and hormonal communication (2.86–2.89)
 
+
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <!-- marlbridge-diagram:complete-bio-neurone-morphologies --><a href="/images/learning/biology/complete-bio-neurone-morphologies.svg" aria-label="Open full-size diagram: Sensory, relay and motor neurones: structure and direction" title="Sensory, relay and motor neurones: structure and direction"><img src="/images/learning/biology/complete-bio-neurone-morphologies.svg" width="1528" height="871" alt="Three actual cell sketches distinguish a sensory side-branch cell body, a short branched relay cell and a motor cell body with long axon. A separate receptor-CNS-effector map distinguishes structural drawings from functional arrows." title="Sensory, relay and motor neurones: structure and direction" loading="lazy" decoding="async" style="display:block;width:100%;height:auto;" /></a>
+  <figcaption>Compare sensory, relay and motor neurone structures and trace the receptor-to-CNS-to-effector pathway. Select the diagram to enlarge it.</figcaption>
+</figure>
 Humans co-ordinate responses in two ways.
 
 | Feature | Nervous | Hormonal |
@@ -105,11 +117,18 @@ Three types of neurone carry these impulses: **sensory** neurones (receptor to C
 Neurones do not touch. The small gap where one meets the next is a **synapse**.
 
 1. An impulse reaches the end of the first neurone.
-2. A chemical called a **neurotransmitter** is released into the gap.
-3. The neurotransmitter **diffuses** across the gap.
-4. It binds to receptors on the next neurone and starts a new impulse.
+2. At a **chemical synapse**, a chemical called a **neurotransmitter** is released into the **synaptic cleft** (the narrow gap between the two cell membranes).
+3. The neurotransmitter **diffuses** across the cleft and binds to specific receptors on the next neurone.
+4. This changes the postsynaptic membrane's activity; an excitatory transmitter may depolarise it enough to trigger an impulse, while an inhibitory effect can make firing less likely.
 
 Because neurotransmitter is released from one side only, impulses cross a synapse in **one direction**.
+
+<!-- marlbridge-diagram:bio-b20-edexcel-igcse-synapse-transmission -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/biology/bio-b20-edexcel-igcse-synapse-transmission.svg" aria-label="Open full-size diagram: bio-b20-edexcel-igcse-synapse-transmission"><img src="/images/learning/biology/bio-b20-edexcel-igcse-synapse-transmission.svg" width="1528" height="871" alt="Chemical synapse: neurotransmitter is released by the presynaptic neurone, crosses the synaptic cleft and can trigger a response at receptors on the postsynaptic membrane." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>A synapse is the junction; the synaptic cleft is its gap. Chemical transmission may trigger a postsynaptic impulse when threshold is reached. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:bio-b20-edexcel-igcse-synapse-transmission -->
 
 ## 4. The reflex arc (2.90)
 
@@ -153,6 +172,14 @@ The eye is a sense organ containing light receptors.
 
 ### Focusing (accommodation)
 
+<!-- marlbridge-diagram:bio-b32-edexcel-4bi1-eye-accommodation-ray-paths -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/biology/bio-b32-edexcel-4bi1-eye-accommodation-ray-paths.svg" aria-label="Open full-size diagram: bio-b32-edexcel-4bi1-eye-accommodation-ray-paths"><img src="/images/learning/biology/bio-b32-edexcel-4bi1-eye-accommodation-ray-paths.svg" width="1600" height="1050" alt="Eye accommodation: structure and light-ray paths" loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Eye accommodation: structure and light-ray paths Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:bio-b32-edexcel-4bi1-eye-accommodation-ray-paths -->
+
+
 | | Near object | Distant object |
 |---|---|---|
 | Ciliary muscle | Contracts | Relaxes |
@@ -164,7 +191,7 @@ The eye is a sense organ containing light receptors.
 
 The iris has **circular** and **radial** muscles.
 
-- **Bright light:** circular muscles contract, radial muscles relax, pupil gets **smaller**. Less light enters, so the retina is not damaged.
+- **Bright light:** circular muscles contract, radial muscles relax, pupil gets **smaller**. This reduces light entering the eye, but pupil constriction cannot guarantee protection from damagingly intense light.
 - **Dim light:** radial muscles contract, circular muscles relax, pupil gets **wider**. More light reaches the retina.
 
 ### Worked example 3
@@ -193,6 +220,11 @@ The blood vessels do not move up or down in the skin. The arterioles change thei
 
 ## 7. Hormones (2.94 and 2.95B)
 
+
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <!-- marlbridge-diagram:adh-water-feedback --><a href="/images/learning/biology/adh-water-feedback.svg" aria-label="Open full-size diagram: ADH adjusts collecting-duct water permeability" title="ADH adjusts collecting-duct water permeability"><img src="/images/learning/biology/adh-water-feedback.svg" width="1528" height="871" alt="Osmoreceptor to ADH to aquaporin feedback, including the reversed response after excess water intake." title="ADH adjusts collecting-duct water permeability" loading="lazy" decoding="async" style="display:block;width:100%;height:auto;" /></a>
+  <figcaption>ADH negative feedback: osmoreceptors change ADH release, collecting-duct permeability changes, and urine concentration responds. Select the diagram to enlarge it.</figcaption>
+</figure>
 A hormone is a chemical secreted by a gland into the blood, which carries it to target organs.
 
 | Hormone | Source | Role and effects |
@@ -210,6 +242,11 @@ A hormone is a chemical secreted by a gland into the blood, which carries it to 
 | ADH | Pituitary gland | Makes the collecting ducts of the kidney more permeable to water, so more water is reabsorbed into the blood; urine becomes smaller in volume and more concentrated |
 | FSH | Pituitary gland | Causes an egg to mature in the ovary; stimulates the ovaries to make oestrogen |
 | LH | Pituitary gland | Triggers ovulation (release of the egg) |
+
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <!-- marlbridge-diagram:menstrual-hormone-feedback --><a href="/images/learning/biology/menstrual-hormone-feedback.svg" aria-label="Open full-size diagram: Coordinate ovarian and uterine cycles" title="Coordinate ovarian and uterine cycles"><img src="/images/learning/biology/menstrual-hormone-feedback.svg" width="1528" height="871" alt="FSH, oestradiol, LH and progesterone pathways explicitly distinguish negative feedback from the pre-ovulatory positive feedback switch." title="Coordinate ovarian and uterine cycles" loading="lazy" decoding="async" style="display:block;width:100%;height:auto;" /></a>
+  <figcaption>Follow FSH, oestrogen, LH and progesterone through the ovarian cycle. The 28-day timeline is illustrative; cycle length and ovulation timing vary. Select the diagram to enlarge it.</figcaption>
+</figure>
 
 ADH links back to homeostasis of body water content. If the blood becomes too concentrated (after sweating heavily, for example), more ADH is released and less water is lost in urine. If you drink a lot, less ADH is released and more dilute urine is produced. The full menstrual cycle sequence belongs to Topic 3; see the [reproduction and inheritance revision notes](/resources/edexcel-igcse-biology-reproduction-inheritance-revision-notes/).
 

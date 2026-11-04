@@ -37,6 +37,14 @@ The specification also expects you to use the words integer, real, rational and 
 
 ## 1.01a Structure of a proof
 
+<!-- marlbridge-diagram:math-b69-proof-structure-consecutive-odds -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/public/images/learning/mathematics/math-b69-proof-structure-consecutive-odds.svg" aria-label="Open full-size diagram: math-b69-proof-structure-consecutive-odds"><img src="/public/images/learning/mathematics/math-b69-proof-structure-consecutive-odds.svg" width="1528" height="940" alt="For any integer n, the consecutive odd integers 2n+1 and 2n+3 have product 4(n+1)²−1. Since (n+1)² is an integer, the product is one less than a multiple of 4." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>For any integer n, the consecutive odd integers 2n+1 and 2n+3 have product 4(n+1)²−1. Since (n+1)² is an integer, the product is one less than a multiple of 4. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:math-b69-proof-structure-consecutive-odds -->
+
+
 A proof has three parts.
 
 1. **Assumptions.** Define your letters and say what they stand for.

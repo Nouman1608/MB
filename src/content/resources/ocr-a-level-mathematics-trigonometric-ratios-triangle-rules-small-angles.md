@@ -231,6 +231,14 @@ The small root is θ = 4 − 3.9497 = 0.0503. The other root, 7.95, is not small
 
 ## 7. Solving simple equations (1.05o)
 
+<!-- marlbridge-diagram:math-b73-cos-double-angle-all-solutions -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/public/images/learning/mathematics/math-b73-cos-double-angle-all-solutions.svg" aria-label="Open full-size diagram: math-b73-cos-double-angle-all-solutions"><img src="/public/images/learning/mathematics/math-b73-cos-double-angle-all-solutions.svg" width="1528" height="940" alt="For cos 2θ=0.3 on 0°≤θ&lt;360°, set φ=2θ so 0°≤φ&lt;720°. Four cosine solutions halve to θ≈36.3°, 143.7°, 216.3° and 323.7°." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>For cos 2θ=0.3 on 0°≤θ&lt;360°, set φ=2θ so 0°≤φ&lt;720°. Four cosine solutions halve to θ≈36.3°, 143.7°, 216.3° and 323.7°. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:math-b73-cos-double-angle-all-solutions -->
+
+
 Method for sin, cos or tan of a multiple of the unknown:
 
 1. Write the equation as sin(kθ) = c (or cos, tan).

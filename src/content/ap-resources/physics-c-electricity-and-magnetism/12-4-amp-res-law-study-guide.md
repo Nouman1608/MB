@@ -69,6 +69,22 @@ The r cancels, just as it did for flux in Gauss's law. The answer does not depen
 
 ## Choosing an Amperian loop
 
+<!-- marlbridge-diagram:phys-gap-12-4-amperian-paths -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/physics/phys-gap-12-4-amperian-paths.svg" aria-label="Open full-size diagram: phys-gap-12-4-amperian-paths"><img src="/images/learning/physics/phys-gap-12-4-amperian-paths.svg" width="1528" height="940" alt="Three Amperian-loop geometries showing a circular path around a long wire, a rectangular path straddling a current sheet and a rectangular path partly inside an ideal long solenoid." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Three Amperian-loop geometries showing a circular path around a long wire, a rectangular path straddling a current sheet and a rectangular path partly inside an ideal long solenoid. — Marlbridge Physics.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:phys-gap-12-4-amperian-paths -->
+
+
+<!-- marlbridge-diagram:physcem-b26-amperian-loop-wire-and-sheet-geometries -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/physics/physcem-b26-amperian-loop-wire-and-sheet-geometries.svg" aria-label="Open full-size diagram: physcem-b26-amperian-loop-wire-and-sheet-geometries"><img src="/images/learning/physics/physcem-b26-amperian-loop-wire-and-sheet-geometries.svg" width="1600" height="1050" alt="Two cross-sections compare Ampere loops. Around a long straight wire with current out of the page, a circular loop of radius r has a tangent magnetic field of constant magnitude, so the line integral is B times 2 pi r. Around a broad current sheet, a rectangle straddles the sheet with long horizontal sides parallel to the opposite magnetic fields above and below; the short sides are perpendicular and contribute zero, while the two long sides contribute 2 B times length." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Two cross-sections compare Ampere loops. Around a long straight wire with current out of the page, a circular loop of radius r has a tangent magnetic field of constant magnitude, so the line integral is B times 2 pi r. Around a broad current sheet, a rectangle straddles the sheet with long horizontal sides parallel to the opposite magnetic fields above and below; the short sides are perpendicular and contribute zero, while the two long sides contribute 2 B times length. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:physcem-b26-amperian-loop-wire-and-sheet-geometries -->
+
+
 Ampère's law is always true, but it only *gives* B easily when you can take B out of the integral. Choose a loop so that, on each part of it, B is either:
 
 - **parallel** to the path with **constant size**, so B·dℓ = B dℓ and the integral becomes B × length; or
@@ -138,6 +154,13 @@ Then use B(2πr) = μ₀I_enc(r) as before.
 
 ## Slabs and current sheets
 
+<!-- marlbridge-diagram:physcem-b15-uniform-current-slab-field-profile -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/physics/physcem-b15-uniform-current-slab-field-profile.svg" aria-label="Open full-size diagram: physcem-b15-uniform-current-slab-field-profile"><img src="/images/learning/physics/physcem-b15-uniform-current-slab-field-profile.svg" width="1600" height="1050" alt="A thick slab carries uniform current density J into the page. The magnetic field is zero at the mid-plane, grows linearly inside as B=μ₀Jz, and is constant in magnitude outside at μ₀Jt/2, with opposite directions above and below." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>A thick slab carries uniform current density J into the page. The magnetic field is zero at the mid-plane, grows linearly inside as B=μ₀Jz, and is constant in magnitude outside at μ₀Jt/2, with opposite directions above and below. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:physcem-b15-uniform-current-slab-field-profile -->
+
 A large flat slab of thickness t carries a uniform current density J parallel to its faces. By symmetry, B is parallel to the faces, perpendicular to J, and points in opposite directions on the two sides of the mid-plane.
 
 Use a rectangular Amperian loop of length ℓ (parallel to the faces, perpendicular to J), placed symmetrically about the mid-plane, with its long sides a distance z above and below it. The short sides are perpendicular to B and give nothing. So ∮B·dℓ = 2Bℓ.
@@ -203,6 +226,13 @@ The result does not depend on the solenoid's radius, or on where you put side 1 
 Fields from different currents add as **vectors**. Find each field separately (by Ampère's law or Biot-Savart), give each its direction from the right-hand grip rule, and add. Typical cases: two parallel wires, a wire inside a hollow tube, a wire along the axis of a solenoid, or a solid cylinder with a hole (treat it as a full cylinder plus a cylinder of opposite current filling the hole).
 
 ## Maxwell's addition: changing electric fields
+
+<!-- marlbridge-diagram:physcem-b17-charging-capacitor-equal-boundary-amp-rian-surfaces -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/physics/physcem-b17-charging-capacitor-equal-boundary-amp-rian-surfaces.svg" aria-label="Open full-size diagram: equal-boundary Ampèrian surfaces at a charging capacitor"><img src="/images/learning/physics/physcem-b17-charging-capacitor-equal-boundary-amp-rian-surfaces.svg" width="1600" height="1050" alt="A flat surface through the lead wire and a bulging surface between capacitor plates share the same circular boundary. Conduction current through one is matched by changing electric flux and displacement current through the other, giving consistent magnetic circulation." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>The two surfaces share one boundary: the wire carries conduction current through the flat surface, while changing electric flux supplies the matching displacement current through the surface between the plates. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:physcem-b17-charging-capacitor-equal-boundary-amp-rian-surfaces -->
 
 Ampère's law in its first form fails for a charging capacitor. Take a circular loop round the wire leading to one plate. A flat surface bounded by the loop is crossed by the wire's current I. But a bulging surface with the same edge can pass between the plates, where no charge flows. Both surfaces cannot be right.
 

@@ -164,7 +164,7 @@ Water movement through aquaporins is still passive. It is osmosis through a prot
 |---|---|---|---|
 | Protein needed | no | yes: channel or carrier | yes: pump |
 | Direction | down the gradient | down the gradient | can be against the gradient |
-| Energy from the cell | none | none | direct input (ATP) |
+| Energy from the cell | none | none | energy-coupled: direct input for primary transport; an ion gradient for secondary transport |
 | Levels off at high concentration? | no | yes (saturation) | yes |
 | Typical substances | O₂, CO₂ | ions, glucose, water (aquaporins) | ions, some nutrients |
 

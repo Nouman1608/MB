@@ -161,6 +161,14 @@ In a **quadratic sequence** the nth term looks like an² + bn + c, with a not ze
 
 ### Worked example 8: a positive a
 
+<!-- marlbridge-diagram:math-b54-oxfordaqa-quadratic-sequence-second-differences -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/public/images/learning/mathematics/math-b54-oxfordaqa-quadratic-sequence-second-differences.svg" aria-label="Open full-size diagram: math-b54-oxfordaqa-quadratic-sequence-second-differences"><img src="/public/images/learning/mathematics/math-b54-oxfordaqa-quadratic-sequence-second-differences.svg" width="1528" height="940" alt="A difference table for 4,12,26,46,72 shows first differences 8,14,20,26 and constant second differences 6. Halving gives a=3; subtracting 3n² leaves the linear sequence 1,0,−1,−2,−3, so Tₙ=3n²−n+2." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>A difference table for 4,12,26,46,72 shows first differences 8,14,20,26 and constant second differences 6. Halving gives a=3; subtracting 3n² leaves the linear sequence 1,0,−1,−2,−3, so Tₙ=3n²−n+2.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:math-b54-oxfordaqa-quadratic-sequence-second-differences -->
+
+
 Find the nth term of 4, 12, 26, 46, 72, ...
 
 ```

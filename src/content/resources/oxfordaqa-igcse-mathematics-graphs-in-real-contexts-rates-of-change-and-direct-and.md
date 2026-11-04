@@ -123,6 +123,14 @@ On a velocity-time graph the vertical axis is speed (or velocity). A horizontal 
 
 ### Worked example 5 (area part: Extension only)
 
+<!-- marlbridge-diagram:math-b60-oxfordaqa-train-velocity-time-area -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/public/images/learning/mathematics/math-b60-oxfordaqa-train-velocity-time-area.svg" aria-label="Open full-size diagram: math-b60-oxfordaqa-train-velocity-time-area"><img src="/public/images/learning/mathematics/math-b60-oxfordaqa-train-velocity-time-area.svg" width="1528" height="940" alt="Velocity-time graph rises from rest to 20 m/s in 40 s, stays constant for 100 s, then returns to zero in 60 s; triangle and rectangle areas total 3,000 m in 200 s." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Velocity-time graph rises from rest to 20 m/s in 40 s, stays constant for 100 s, then returns to zero in 60 s; triangle and rectangle areas total 3,000 m in 200 s.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:math-b60-oxfordaqa-train-velocity-time-area -->
+
+
 A train leaves a station. It speeds up uniformly from rest to 20 m/s in 40 s, runs at 20 m/s for 100 s, then slows uniformly to rest in 60 s.
 
 ```

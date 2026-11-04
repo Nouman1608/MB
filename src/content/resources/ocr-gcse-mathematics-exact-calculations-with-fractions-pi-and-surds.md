@@ -109,6 +109,14 @@ Answer: **56π m²**.
 
 ### Worked example 5: a cylinder
 
+<!-- marlbridge-diagram:math-b77-ocr-cylinder-volume-curved-area -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/public/images/learning/mathematics/math-b77-ocr-cylinder-volume-curved-area.svg" aria-label="Open full-size diagram: math-b77-ocr-cylinder-volume-curved-area"><img src="/public/images/learning/mathematics/math-b77-ocr-cylinder-volume-curved-area.svg" width="1528" height="940" alt="Cylinder labeled r=6 cm and h=7 cm, with exact volume 252π cm³ and curved surface area 84π cm²; the curved surface unwraps to a rectangle." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Cylinder labeled r=6 cm and h=7 cm, with exact volume 252π cm³ and curved surface area 84π cm²; the curved surface unwraps to a rectangle.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:math-b77-ocr-cylinder-volume-curved-area -->
+
+
 A tin is a cylinder with radius 6 cm and height 7 cm. Work out its volume and its curved surface area, both in terms of π.
 
 ```

@@ -126,6 +126,14 @@ Economic decisions are made **at the margin**: a rational consumer keeps buying 
 
 ## Market failure
 
+<!-- marlbridge-diagram:economics-ocr-a-level-micro-negative-production-externality -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/economics/economics-ocr-a-level-micro-negative-production-externality.svg" aria-label="Open full-size diagram: economics-ocr-a-level-micro-negative-production-externality"><img src="/images/learning/economics/economics-ocr-a-level-micro-negative-production-externality.svg" width="1600" height="1050" alt="A labelled external-cost diagram separates marginal private and social cost, marks market and efficient output, and shades the welfare loss for a negative production externality." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>A labelled external-cost diagram separates marginal private and social cost, marks market and efficient output, and shades the welfare loss for a negative production externality. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:economics-ocr-a-level-micro-negative-production-externality -->
+
+
 Market failure occurs when the free market misallocates resources.
 
 - **Externalities** — costs or benefits falling on third parties. Where negative externalities in production exist, marginal social cost exceeds marginal private cost and the market over-produces. Where positive externalities in consumption exist, as with education or vaccination, the market under-consumes.

@@ -156,6 +156,14 @@ The smallest angle is 80°. Check: 80 + 80 + 95 + 105 = 360.
 
 ## G4: Interior and exterior angles of polygons
 
+<!-- marlbridge-diagram:math-b62-oxfordaqa-polygon-interior-exterior-angles-nonagon -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/public/images/learning/mathematics/math-b62-oxfordaqa-polygon-interior-exterior-angles-nonagon.svg" aria-label="Open full-size diagram: math-b62-oxfordaqa-polygon-interior-exterior-angles-nonagon"><img src="/public/images/learning/mathematics/math-b62-oxfordaqa-polygon-interior-exterior-angles-nonagon.svg" width="1528" height="940" alt="A regular nonagon is triangulated from one vertex into seven triangles; callouts show interior sum 1,260°, centre/exterior angle 40°, and interior angle 140°." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>A regular nonagon is triangulated from one vertex into seven triangles; callouts show interior sum 1,260°, centre/exterior angle 40°, and interior angle 140°.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:math-b62-oxfordaqa-polygon-interior-exterior-angles-nonagon -->
+
+
 A polygon with n sides can be split into (n − 2) triangles from one vertex.
 
 | Result | Formula |

@@ -53,7 +53,7 @@ Constants used throughout: **k = 1/(4πε₀) = 8.99 × 10⁹ N·m²/C²**, ε�
 
 ## From potential energy to potential
 
-In Topic 9.1 the potential energy U belonged to a **system** of charges. Now fix some source charges and imagine a small test charge q at a point P. The energy U of the system depends on q. Divide it out:
+In Topic 9.1 the potential energy U belonged to a **system** of charges. Now fix some source charges and imagine a small test charge q at a point P. Let U denote the interaction energy associated with inserting the test charge q into the fixed source configuration, excluding the pre-existing source-source energy. This interaction energy is proportional to q. Divide it out:
 
 **V = U/q**
 
@@ -84,6 +84,14 @@ For several point charges, the potentials **add as numbers**:
 There are no components and no angles. Each r_i is just the distance from charge i to P. This is the main reason potential is easier to calculate than field.
 
 ## Continuous charge: integrate k dq/r
+
+<!-- marlbridge-diagram:phys-gap-9-2-continuous-charge-geometries -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/physics/phys-gap-9-2-continuous-charge-geometries.svg" aria-label="Open full-size diagram: phys-gap-9-2-continuous-charge-geometries"><img src="/images/learning/physics/phys-gap-9-2-continuous-charge-geometries.svg" width="1528" height="940" alt="Finite charged rod showing a variable element-to-point distance on the perpendicular bisector and an axial-distance rule, beside a charged arc whose every element is distance R from the centre." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Finite charged rod showing a variable element-to-point distance on the perpendicular bisector and an axial-distance rule, beside a charged arc whose every element is distance R from the centre. — Marlbridge Physics.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:phys-gap-9-2-continuous-charge-geometries -->
+
 
 Cut the object into pieces of charge dq, each acting like a point charge, and add:
 

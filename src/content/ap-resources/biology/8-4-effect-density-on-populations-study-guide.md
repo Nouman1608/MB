@@ -8,7 +8,7 @@ topics: ["8.4"]
 resourceType: "study-guide"
 prerequisites:
   - "Births, deaths and per capita growth rates (dN/dt = B − D)"
-  - "Exponential growth and the equation dN/dt = rₘₐₓN"
+  - "Exponential growth and the equation dN/dt = rN, where r is constant over the modelled interval"
 prerequisiteResources: ["mb-ap-bio-8.3-study-guide"]
 learningObjectives:
   - "Define population density and carrying capacity, and explain how resources set carrying capacity"
@@ -28,7 +28,7 @@ sources: ["ced-biology", "page-biology"]
 keyPoints:
   - "Population density is the number of individuals per unit area or volume. Resources set how many individuals an area can support, and density sets how much of each resource each individual gets."
   - "Carrying capacity (K) is the largest population size the environment's total resources can support in the long term."
-  - "Density-dependent factors (competition, predation, disease, waste) hit a larger fraction of the population as density rises. Density-independent factors (storms, frost, fire) hit about the same fraction at any density."
+  - "Classify a factor by its observed per-capita relationship with density: some effects strengthen as density rises, while others do not; factor names alone do not determine the pattern."
   - "As these limits take hold, growth usually becomes logistic: dN/dt = rₘₐₓN(K − N)/K. The curve is S-shaped, growth is fastest at N = K/2 and stops at N = K."
 faqs:
   - question: "Is carrying capacity a fixed number for a species?"
@@ -71,11 +71,11 @@ In the previous topic, the per capita growth rate stayed at its maximum, rₘₐ
 | | Density-dependent factors | Density-independent factors |
 |---|---|---|
 | **Key test** | the **fraction** affected rises as density rises | the **fraction** affected is about the same at any density |
-| **Examples** | competition for food, water, light or nest sites; predation; disease and parasites (spread more easily when crowded); build-up of toxic waste; stress and territorial fighting | frost, heat waves, storms, floods, drought, fire, some human disturbances |
+| **Examples** | competition for food, water, light or nest sites; predation, disease and parasites when their per-capita effects rise with density; build-up of toxic waste; stress and territorial fighting | frost, heat waves, storms, floods, drought, fire and some human disturbances when their per-capita effects do not rise with density |
 | **Effect on growth** | lowers per capita births and/or raises per capita deaths more strongly as N approaches K | knocks the population down by a set proportion, whatever its size |
 | **Can it hold N near K?** | yes: it pushes back harder the larger N gets | no: it does not "know" how large the population is |
 
-Notice the word **fraction**. A storm that kills 30% of a population kills more individuals in a dense population than in a sparse one, but the **percentage** is the same, so it is density-independent. A disease whose infection rate rises from 5% to 40% as crowding increases is density-dependent.
+Notice the word **fraction**. A storm that kills 30% of a population kills more individuals in a dense population than in a sparse one, but the **percentage** is the same in this example, so its effect is density-independent. A disease whose infection rate rises from 5% to 40% as crowding increases is density-dependent. These are observed relationships, not fixed labels: predation and disease can show different patterns in different systems, and weather or disturbance can interact with crowding.
 
 Both kinds of factor act together in real populations. A density-independent event, such as a hard frost, may cut a population far below K. Density-dependent factors then decide how quickly it recovers and where it levels off. A density-independent change, such as a long drought that reduces plant growth, can also lower K itself.
 
@@ -229,11 +229,11 @@ These four values are the circles in Figure 2.
 |---|---|---|---|---|
 | Total offspring per jar | 60.5 | 93 | 122 | 124 |
 
-The total rises at first but then levels off: doubling from 20 to 40 females adds almost nothing (122 to 124, under 2%). The fixed food supply limits how many offspring a jar can produce, however many females share it. This is carrying capacity in action: the jar's resources cap the population's growth.
+The total rises at first but then levels off: doubling from 20 to 40 females adds almost nothing (122 to 124, under 2%). In this 10-day setup, total offspring per jar appear constrained, but this short-run reproductive output is not a direct estimate of the population's long-term carrying capacity K.
 
 **(d)** **Density-dependent.** As density rises, the effect per individual grows: each female gets a smaller share of the same algae, so has less energy and matter for making eggs. The per capita birth rate falls as density rises, which is exactly the brake in the logistic equation.
 
-**How confident?** The three jars at each density agree closely (for example 2.8–3.3 at 40 per litre), and the ranges do not overlap between densities, so the pattern is unlikely to be chance. A further control, such as extra food at high density, would test whether food (and not, say, waste build-up) is the cause.
+**How confident?** The three jars per density show a consistent descriptive pattern (for example 2.8–3.3 offspring per female at 40 per litre), but non-overlapping ranges with only three jars are not by themselves a significance test. The jar is the treatment-level experimental unit; stronger inference needs independently replicated jars, random assignment and an analysis that accounts for uncertainty. Extra-food and waste-removal controls could help distinguish food limitation from waste build-up or other mechanisms.
 
 ## Common misconceptions
 

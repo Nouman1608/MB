@@ -52,7 +52,7 @@ This guide is for the **algebra-based Physics 1 course**. It uses algebra and gr
 
 ## The idea: a rotational version of momentum
 
-In Unit 4 you met linear momentum, p = mv, and the impulse–momentum theorem, FΔt = Δp. A force acting for a time changes an object's momentum.
+In Unit 4 you met linear momentum, p = mv, and the impulse–momentum theorem, F_avgΔt = Δp. Here F_avg is the interval-average net external force.
 
 Rotation has the same structure. Swap each linear quantity for its rotational partner:
 
@@ -62,10 +62,12 @@ Rotation has the same structure. Swap each linear quantity for its rotational pa
 | velocity v | angular velocity ω |
 | momentum p = mv | angular momentum L = Iω |
 | force F | torque τ |
-| impulse FΔt | angular impulse τΔt |
-| FΔt = Δp | τΔt = ΔL |
+| impulse F_avgΔt | angular impulse τ_avgΔt |
+| F_avgΔt = Δp | τ_avgΔt = ΔL |
 
 If you understand the left column, you already understand most of this topic. The new idea is that angular momentum is always measured **about an axis or a point**, and the value depends on that choice.
+
+In finite-interval products, τ_avg means the interval-average net external torque. If force or torque stays constant, that constant equals the corresponding average; otherwise use the signed graph area.
 
 ## Angular momentum of a rigid body
 
@@ -151,7 +153,9 @@ Three lessons come from this table.
 
 A torque that acts for a time interval delivers an **angular impulse**:
 
-**angular impulse = τΔt**
+**angular impulse = τ_avg Δt**
+
+Here τ_avg is the average torque over the stated interval. For a constant torque, τ_avg equals that constant. When torque varies, its signed torque–time area gives the angular impulse and its average value times the duration gives the same result.
 
 The unit is N·m·s, which is the same as kg·m²/s. The angular impulse has the same sign as the torque that delivers it. A large torque for a short time can give the same angular impulse as a small torque for a long time.
 
@@ -159,24 +163,20 @@ If the torque changes with time, use a graph. The angular impulse is the **area 
 
 ## The rotational impulse–momentum theorem
 
-Start from Newton's second law in rotational form, for a body whose rotational inertia I stays constant:
+For a body whose rotational inertia I about the stated fixed axis stays constant, the **interval-average net torque** obeys
 
-τ_net = Iα = I(Δω / Δt)
+**τ_avg, net = I(Δω/Δt)**.
 
-Multiply both sides by Δt:
+Multiplying by Δt gives
 
-τ_net Δt = IΔω = Iω − Iω₀ = L − L₀
+**τ_avg, net Δt = IΔω = Iω − Iω₀ = L − L₀ = ΔL**.
 
-So
+In words: the net external angular impulse equals the change in angular momentum, with ΔL = L_final − L_initial and one common sign convention. A constant net torque equals its interval average. For a varying torque, use its signed torque–time area or that interval average; do not multiply an arbitrary instantaneous torque by the whole duration.
 
-**τ_net Δt = ΔL**
+Two graph readings follow:
 
-In words: the net angular impulse on an object or rigid system equals its change in angular momentum. The change in angular momentum is found by comparing the final and initial values, ΔL = L − L₀, with signs.
-
-Two graph readings follow from this:
-
-- **Slope of an L–t graph = net torque.** Rearranging, τ_net = ΔL / Δt. A straight L–t line means constant net torque. A curved one means the torque is changing.
-- **Area under a τ_net–t graph = ΔL.** This is the graph form of the theorem.
+- The **tangent slope** of an L–t graph gives the **instantaneous** net torque. The secant slope ΔL/Δt between two times gives the **average** net torque over that interval. A straight L–t line has one constant slope and hence constant net torque.
+- The **signed area** under a net-torque–time graph gives ΔL.
 
 ### Reading an angular momentum–time graph
 

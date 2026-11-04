@@ -98,6 +98,14 @@ stakeholder-management question.
 
 ## Worked example: choosing a leadership style for a scenario
 
+<!-- marlbridge-diagram:business-aqa-leadership-style-context -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/business/business-aqa-leadership-style-context.svg" aria-label="Open full-size diagram: business-aqa-leadership-style-context"><img src="/images/learning/business/business-aqa-leadership-style-context.svg" width="1600" height="1050" alt="A contextual comparison of autocratic and democratic leadership for an urgent product decision, weighing speed, expertise and staff buy-in." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Leadership style: match the choice to the situation Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:business-aqa-leadership-style-context -->
+
+
 A rapidly growing technology start-up needs to make fast product
 decisions in a competitive market. Which leadership style suits this
 context, and why?

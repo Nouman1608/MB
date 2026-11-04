@@ -154,6 +154,13 @@ C₄H₉ and C₃H₇ are straight chains. The anhydride route makes propyl buta
 You must outline this mechanism for **acyl chlorides** with all four nucleophiles. The carbonyl carbon is strongly δ+ because O and Cl both draw electrons from it. The nucleophile attacks with a lone pair on O (water, alcohols) or N (ammonia, amines).
 
 ### Worked example 5: pentanoyl chloride and ethylamine
+<!-- marlbridge-diagram:chem-b26-pentanoyl-ethylamine-addition-elimination -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/chemistry/chem-b26-pentanoyl-ethylamine-addition-elimination.svg" aria-label="Open full-size diagram: chem-b26-pentanoyl-ethylamine-addition-elimination"><img src="/images/learning/chemistry/chem-b26-pentanoyl-ethylamine-addition-elimination.svg" width="1528" height="940" alt="Ethylamine attacks the carbonyl carbon of pentanoyl chloride as the C=O pi pair moves to oxygen. The tetrahedral intermediate C4H9-C(O-)(Cl)-N+H2Et collapses as O reforms C=O and C-Cl electrons move to chloride. A second ethylamine removes a proton to form N-ethylpentanamide and ethylammonium chloride." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>The nucleophilic addition–elimination mechanism accounts for the charged intermediate and the second ethylamine molecule needed to neutralise the acid by-product. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:chem-b26-pentanoyl-ethylamine-addition-elimination -->
+
 
 ```
 Addition
@@ -170,7 +177,7 @@ Elimination
   products:  C4H9CONHCH2CH3 (N-ethylpentanamide) + CH3CH2NH3⁺Cl⁻
 ```
 
-Each arrow begins at a bond or a lone pair. With water or an alcohol the steps are the same, but the positive charge sits on oxygen and Cl⁻ takes the H⁺ to give HCl.
+Each arrow begins at a bond or a lone pair. The same addition–elimination sequence applies to all four nucleophiles: a lone pair on O attacks for water or an alcohol, and a lone pair on N attacks for ammonia or a primary amine; the C=O π pair moves to O; O⁻ reforms C=O as the C–Cl bond pair leaves; then a proton is transferred from the oxonium/ammonium product. Water gives a carboxylic acid, an alcohol an ester, ammonia a primary amide and a primary amine an N-substituted amide. For water/alcohol reactions the proton transfer may be mediated by solvent or another base; the net by-product is HCl. For ammonia/amine reactions a second nucleophile molecule commonly removes the proton and binds HCl as its ammonium chloride salt. Do not treat free Cl⁻ as the only possible proton acceptor in every medium.
 
 ### Aspirin: why industry uses ethanoic anhydride
 
@@ -191,6 +198,20 @@ Ethanoic anhydride is preferred to ethanoyl chloride because it:
 The specification lists "Prepare a pure organic solid and test its purity" as required practical 10, and states that questions may be set on the practical or on the skills in it. Aspirin, made by the reaction above, is one solid you could prepare.
 
 ### Purifying by recrystallisation
+
+<!-- marlbridge-diagram:chem-aqa-required-practical-10-vacuum-filtration -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/chemistry/chem-aqa-required-practical-10-vacuum-filtration.svg" aria-label="Open full-size diagram: chem-aqa-required-practical-10-vacuum-filtration"><img src="/images/learning/chemistry/chem-aqa-required-practical-10-vacuum-filtration.svg" width="1528" height="940" alt="Büchner funnel with wetted paper on a side-arm flask connected to a vacuum pump; solid crystals remain on the paper and filtrate collects in the flask." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Reduced-pressure filtration collects and washes crystals — Marlbridge Chemistry.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:chem-aqa-required-practical-10-vacuum-filtration -->
+
+<!-- marlbridge-diagram:chem-obj-practical10-melting-point-setup -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/chemistry/chem-obj-practical10-melting-point-setup.svg" aria-label="Open full-size diagram: chem-obj-practical10-melting-point-setup"><img src="/images/learning/chemistry/chem-obj-practical10-melting-point-setup.svg" width="1528" height="940" alt="A sealed-end capillary containing dry crystals sits beside a thermometer bulb in a gently heated bath; record the temperature from first melt to fully liquid." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>A capillary and thermometer in a controlled bath show the melting range — Marlbridge Chemistry.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:chem-obj-practical10-melting-point-setup -->
 
 1. Filter off the crude solid under reduced pressure.
 2. Dissolve it in the **minimum volume of hot solvent**, so the solution is saturated and most product crystallises on cooling.

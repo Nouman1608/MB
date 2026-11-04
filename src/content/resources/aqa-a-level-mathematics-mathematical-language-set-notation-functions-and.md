@@ -73,6 +73,14 @@ So 2x² + 12x + 7 ≡ 2(x + 3)² − 11, and a = 2, b = 3, c = −11.
 
 ## 2. Set language and symbols (OT1.3)
 
+<!-- marlbridge-diagram:maths-aqa-set-notation-intersection-numberline -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/mathematics/maths-aqa-set-notation-intersection-numberline.svg" aria-label="Open full-size diagram: maths-aqa-set-notation-intersection-numberline"><img src="/images/learning/mathematics/maths-aqa-set-notation-intersection-numberline.svg" width="1600" height="1050" alt="The diagram solves x²−3x−18&gt;0 and intersects its solution with 2x−3≥0, highlighting the strict endpoint at 6." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>The diagram solves x²−3x−18&gt;0 and intersects its solution with 2x−3≥0, highlighting the strict endpoint at 6. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:maths-aqa-set-notation-intersection-numberline -->
+
+
 | Symbol | Meaning | Symbol | Meaning |
 |---|---|---|---|
 | ∈ | is an element of | ∪ | union |

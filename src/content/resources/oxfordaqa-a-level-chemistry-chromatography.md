@@ -40,7 +40,7 @@ Afterwards, the [revision notes](/resources/oxfordaqa-a-level-chemistry-chromato
 | 3.3.16.1 Identification | Compare retention times and Rf values with standards to identify different substances | International A-level only |
 | 3.3.16.1 GC-MS | Explain the use of mass spectrometry to analyse the components separated by GC | International A-level only |
 
-Two other sections feed into this one: 3.3.13.2 (amino acids separated by TLC, located with ninhydrin or ultraviolet light, identified by Rf values; see [amino acids and proteins](/resources/oxfordaqa-a-level-chemistry-amino-acids-and-proteins/)) and 3.3.6.2 (molecular formulae from precise masses).
+Two other sections feed into this one: 3.3.13.2 (amino acids separated by TLC, generally located with ninhydrin; UV location is suitable only for UV-absorbing compounds or derivatives on a fluorescent-indicator plate; see [amino acids and proteins](/resources/oxfordaqa-a-level-chemistry-amino-acids-and-proteins/)) and 3.3.6.2 (molecular formulae from precise masses).
 
 ## The two phases and why components separate
 
@@ -78,7 +78,7 @@ A TLC plate carries a thin, even layer of solid. To run it:
 2. Spot every sample and standard on the baseline, keeping the spots small, concentrated and well apart.
 3. Stand the plate in a covered container, with the solvent below the baseline so the spots are not washed into it.
 4. When the solvent is close to the top, lift the plate out and draw a pencil line at the solvent front before it evaporates.
-5. Make colourless spots visible. For amino acids, section 3.3.13.2 names ninhydrin as a developing agent; ultraviolet light is the other option it gives.
+5. Make colourless spots visible. For amino acids, ninhydrin is a suitable general locating reagent. UV viewing works only for compounds that absorb the lamp wavelength (or after suitable derivatisation) on a fluorescent-indicator plate; do not treat UV as a universal amino-acid detector.
 
 ### Calculating Rf values
 
@@ -120,6 +120,13 @@ An unlabelled bottle holds one of four amino acids. A solution of it is spotted 
 
 ## Column chromatography (CC)
 
+<!-- marlbridge-diagram:chem-b17-column-chromatography-flow -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/chemistry/chem-b17-column-chromatography-flow.svg" aria-label="Open full-size diagram: Column chromatography: bands become collected fractions"><img src="/images/learning/chemistry/chem-b17-column-chromatography-flow.svg" width="1528" height="940" alt="A packed polar stationary phase in a vertical column; a sample is loaded at the top, solvent flows down, separated bands travel at different speeds, and the outlet is collected in labelled fractions. The positions are schematic." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>A schematic normal-phase column: the more strongly retained component moves more slowly. Collect outlet fractions; confirm their contents separately, for example by TLC. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:chem-b17-column-chromatography-flow -->
+
 In column chromatography, a vertical column is packed with a solid. The mixture goes on at the top and solvent runs down through the solid. Components with a balance that favours the solvent move down faster and leave the bottom first. The liquid coming out is collected in a series of tubes (fractions), so the components end up in different containers. So CC can give you each component on its own, in larger amounts than a TLC plate holds.
 
 ### Worked example 4: checking the fractions
@@ -156,7 +163,14 @@ A matching retention time is strong evidence, not proof: different substances ma
 
 ## Mass spectrometry of the separated components (GC-MS)
 
-The specification includes using mass spectrometry to analyse the components separated by GC. The GC column's outlet feeds a mass spectrometer, which the separated components enter one after another, each giving a separate spectrum. Its molecular ion peak gives Mr, and a precise m/z value pins down the molecular formula. How a time of flight instrument works is covered in [atomic structure](/resources/oxfordaqa-a-level-chemistry-atomic-structure/), and the precise-mass method is taught in [organic analysis](/resources/oxfordaqa-a-level-chemistry-organic-analysis/).
+<!-- marlbridge-diagram:chem-b17-gc-ms-coupled-flow -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/chemistry/chem-b17-gc-ms-coupled-flow.svg" aria-label="Open full-size diagram: GC–MS: separate first, analyse resolved peaks"><img src="/images/learning/chemistry/chem-b17-gc-ms-coupled-flow.svg" width="1528" height="940" alt="A gas chromatograph separates a mixture into time-resolved peaks; the column outlet feeds a mass spectrometer. A resolved peak is analysed to produce a mass spectrum. Co-elution may produce a mixed spectrum." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>GC performs the separation; MS analyses material reaching the detector. This diagram assumes resolved peaks—co-eluting compounds can produce mixed spectra. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:chem-b17-gc-ms-coupled-flow -->
+
+The specification includes using mass spectrometry to analyse the components separated by GC. The GC column's outlet feeds a mass spectrometer. Well-resolved components can give spectra suitable for reference comparison, but co-eluting components can produce mixed spectra. An assigned molecular ion and charge state constrain molecular mass; precise m/z can distinguish candidate formulas within measurement uncertainty. Full identity normally needs additional spectral or reference evidence. How a time of flight instrument works is covered in [atomic structure](/resources/oxfordaqa-a-level-chemistry-atomic-structure/), and the precise-mass method is taught in [organic analysis](/resources/oxfordaqa-a-level-chemistry-organic-analysis/).
 
 ### Worked example 6: identifying the unknown peak
 

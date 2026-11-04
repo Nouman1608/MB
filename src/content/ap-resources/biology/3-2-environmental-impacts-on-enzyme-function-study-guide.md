@@ -220,7 +220,7 @@ An **inhibitor** is a molecule that binds to an enzyme and reduces its activity.
 <text x="560" y="282" text-anchor="middle" font-size="12" font-weight="600" fill="#1d2b44">3. Noncompetitive inhibitor</text>
 <text x="560" y="298" text-anchor="middle" font-size="12" fill="#1d2b44">binds an allosteric site</text>
 </svg>
-<figcaption>Figure 3. Substrates (S, white) and inhibitors (I, dark and labelled). A competitive inhibitor resembles the substrate and occupies the active site. A noncompetitive inhibitor binds elsewhere and changes the shape of the active site. Both bind reversibly.</figcaption>
+<figcaption>Figure 3. Substrates (S, white) and inhibitors (I, dark and labelled). A competitive inhibitor resembles the substrate and occupies the active site. The allosteric inhibitory model binds elsewhere and changes enzyme function. A binding cartoon alone does not establish pure noncompetitive kinetics: that case lowers Vmax without changing apparent Km. The illustrated interactions are reversible.</figcaption>
 </figure>
 
 **Competitive inhibitors**
@@ -230,11 +230,13 @@ An **inhibitor** is a molecule that binds to an enzyme and reduces its activity.
 - while an inhibitor occupies the active site, the substrate cannot bind;
 - their effect can be **overcome by adding more substrate**: with far more substrate than inhibitor, the substrate wins most of the competition.
 
-**Noncompetitive inhibitors**
+**Pure noncompetitive inhibition (the kinetic model used here)**
 
-- bind to a different place on the enzyme, an **allosteric site**;
-- change the shape of the enzyme, so the active site works less well or not at all;
-- their effect is **not overcome by more substrate**, because substrate and inhibitor are not competing for the same site.
+- the inhibitor binds equally well to free enzyme and the enzyme–substrate complex, at a site distinct from the substrate-binding site;
+- catalytic capacity (Vmax) falls while apparent Km is unchanged;
+- more substrate does not restore the uninhibited maximum rate.
+
+Allosteric binding means binding at a regulatory site and changing enzyme function. It can produce different kinetic patterns, so it is not automatically synonymous with pure noncompetitive inhibition.
 
 Cells use both kinds of binding to regulate their pathways. For example, the final product of a pathway can bind to an allosteric site on the first enzyme and slow the whole pathway when enough product has been made.
 
@@ -267,7 +269,7 @@ She then does two extra tests. Sample P is held at 60 °C for 10 minutes, then c
 
 **(d) Reversibility.**
 
-1. Sample P: 0.5 ÷ 7.6 × 100 = **6.6%** of the normal rate at 30 °C. Returning to 30 °C did **not** restore activity, so the enzyme was **permanently denatured** at 60 °C.
+1. Sample P: 0.5 ÷ 7.6 × 100 = **6.6%** of the normal rate at 30 °C. Returning to 30 °C did **not** restore substantial activity under the tested recovery conditions. This is consistent with persistent heat damage or denaturation; one recovery measurement does not establish irreversibility under every possible recovery protocol.
 2. Sample Q: 7.5 ÷ 7.6 × 100 = **98.7%** of the normal rate. Cold slowed the enzyme only while it was cold; its shape was kept, and activity returned on warming.
 
 **Check.** Both percentage changes use the starting value as the denominator. The conclusion about P relies on one sample; repeats would make it more secure.
@@ -352,7 +354,7 @@ She then does two extra tests. Sample P is held at 60 °C for 10 minutes, then c
 **(b) Identification.**
 
 1. **X is competitive.** Its effect shrinks as substrate increases (from 40% to 88% of normal). With more substrate, substrate molecules win the active site more often. The X line approaches the uninhibited line.
-2. **Y is noncompetitive.** It halves the rate at every substrate concentration, and the curve levels off at a lower value. Adding substrate does not help, because Y binds an allosteric site and changes the active site of the enzymes it binds, whatever the substrate concentration.
+2. **Y is consistent with the pure noncompetitive model used here.** It approximately halves the rate across the tested substrate concentrations: the inferred maximum falls while the half-maximum substrate concentration is unchanged. This rate pattern supports the kinetic classification; the data alone do not identify the physical binding site or prove a specific conformational change.
 
 **Interpretation.** To reduce the effect of a competitive inhibitor in a cell, raise the substrate concentration. That strategy fails for a noncompetitive inhibitor; there, only removing the inhibitor or making more enzyme helps.
 
@@ -365,7 +367,7 @@ She then does two extra tests. Sample P is held at 60 °C for 10 minutes, then c
 - **"Every enzyme has an optimum of 37 °C and pH 7."** Optima vary with where the enzyme works, such as pH 2 for a stomach protease.
 - **"The rate levels off at high substrate because the enzyme is used up."** It levels off because the active sites are all occupied (saturated).
 - **"Competitive inhibitors permanently destroy the active site."** They bind reversibly; enough substrate can outcompete them.
-- **"A noncompetitive inhibitor competes with the substrate."** It binds an allosteric site, not the active site, so it does not compete.
+- **"Any inhibitor binding away from the active site is pure noncompetitive."** Binding location alone does not establish a kinetic class. Pure noncompetitive inhibition has lower Vmax and unchanged apparent Km; other allosteric interactions can produce other patterns.
 
 ## Where this leads
 

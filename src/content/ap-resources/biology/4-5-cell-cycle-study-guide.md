@@ -103,7 +103,7 @@ Interphase is not a resting stage. The cell is busy making molecules and, in S p
 
 **S (synthesis).** The DNA, still in the form of chromatin, is **replicated**. Each chromosome is now two identical DNA molecules called **sister chromatids**, held together at a region called the **centromere**. The amount of DNA in the cell doubles, but the number of chromosomes does not change: a chromosome made of two sister chromatids still counts as one chromosome.
 
-**G2 (second gap).** The cell makes the proteins it will need for division, such as the tubulin that builds spindle fibres. It produces ATP in large quantities to pay for the work ahead. The **centrosome**, the structure that organises the spindle, is duplicated: copying begins around S phase and is complete before mitosis, so the cell enters mitosis with two centrosomes.
+**G2 (second gap).** The cell makes the proteins it will need for division, such as the tubulin that builds spindle fibres. It produces ATP in large quantities to pay for the work ahead. In the **animal-cell model** shown here, the centrosome organises the spindle. Centrosome duplication begins around S phase and is complete before mitosis, so the cell enters mitosis with two centrosomes. Higher-plant cells form a bipolar spindle without canonical centrosomes; the core chromosome-segregation sequence still applies.
 
 ### G0: leaving the cycle
 

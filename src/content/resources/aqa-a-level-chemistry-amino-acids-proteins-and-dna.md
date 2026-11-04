@@ -84,6 +84,13 @@ The overall charges are 0, +1 and −1.
 
 ### The peptide link
 
+<!-- marlbridge-diagram:chem-b23-tripeptide-connectivity -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/chemistry/chem-b23-tripeptide-connectivity.svg" aria-label="Open full-size diagram: Three amino acids form two peptide links"><img src="/images/learning/chemistry/chem-b23-tripeptide-connectivity.svg" width="1528" height="940" alt="Alanine, glycine and serine join from the N-terminus to the C-terminus. Two condensation steps remove two water molecules and form two peptide links, each with the sequence –C(=O)–NH–." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Each link is –C(=O)–NH–. The chain is written N-terminus to C-terminus; three residues require two condensation links. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:chem-b23-tripeptide-connectivity -->
+
 Proteins are sequences of amino acids joined by **peptide links**, –CO–NH–. The –COOH of one amino acid
 reacts with the –NH₂ of the next and water is lost (condensation).
 
@@ -96,6 +103,14 @@ reacts with the –NH₂ of the next and water is lost (condensation).
 Two different amino acids can join in two orders, giving two different dipeptides.
 
 ### Worked example 2: a dipeptide
+<!-- marlbridge-diagram:chem-delta-tripeptide -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/chemistry/chem-delta-tripeptide.svg" aria-label="Open full-size diagram: chem-delta-tripeptide">
+    <img src="/images/learning/chemistry/chem-delta-tripeptide.svg" width="1528" height="940" alt="A tripeptide chain with three amino-acid residues and two marked peptide links; each link is the C(=O)—NH unit." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" />
+  </a>
+  <figcaption>Reading a tripeptide and locating peptide links. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:chem-delta-tripeptide -->
 
 Alanine is H₂N–CH(CH₃)–COOH (Mr 89.0). Serine is H₂N–CH(CH₂OH)–COOH (Mr 105.0). Draw the dipeptide formed
 when the –COOH of alanine reacts with the –NH₂ of serine, and find its Mr.
@@ -115,6 +130,14 @@ aqueous sodium hydroxide, the products are carboxylate ions, H₂N–CHR–COO�
 
 ### Primary, secondary and tertiary structure
 
+<!-- marlbridge-diagram:chem-obj-protein-structure-levels-reuse2 -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/chemistry/chem-obj-protein-structure-levels.svg" aria-label="Open full-size diagram: chem-obj-protein-structure-levels"><img src="/images/learning/chemistry/chem-obj-protein-structure-levels.svg" width="1528" height="940" alt="Protein primary, secondary, tertiary and quaternary structure; schematic alpha helix and beta sheet show backbone hydrogen bonding, and a tertiary fold shows a side-chain disulfide link." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Protein structure: peptide sequence, folding and association — Marlbridge Chemistry.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:chem-obj-protein-structure-levels-reuse2 -->
+
+
 | Level | What it is | What holds it |
 |---|---|---|
 | Primary | The sequence of amino acids in the chain | Covalent peptide links |
@@ -133,6 +156,11 @@ tertiary structure.
 In a diagram: a list of amino acids in order is primary; a coil or a zig-zag sheet with hydrogen bonds
 between peptide links is secondary; the whole chain folded in 3D, with links between side chains, is
 tertiary.
+
+
+<!-- marlbridge-gap:chem-b12-protein-structure-levels -->
+<figure class="lesson-diagram" style="margin:2rem 0"><a href="/images/learning/chemistry/chem-b12-protein-structure-levels.svg" aria-label="Open full-size diagram: Protein structure: primary to tertiary"><picture><source media="(max-width:800px)" srcset="/images/learning/chemistry/chem-b12-protein-structure-levels-mobile.svg" width="768" height="1120"><img src="/images/learning/chemistry/chem-b12-protein-structure-levels.svg" width="1528" height="870" alt="Protein primary sequence, secondary alpha helix and beta sheet, and a folded tertiary structure with a disulfide link." loading="lazy" decoding="async" style="display:block;width:100%;height:auto"></picture></a><figcaption>Shows a sequence, representative helix/sheet hydrogen bonding and tertiary fold with cysteine disulfide link. Select the image to enlarge.</figcaption></figure>
+<!-- /marlbridge-gap:chem-b12-protein-structure-levels -->
 
 ### Thin-layer chromatography (TLC)
 
@@ -178,6 +206,11 @@ bind. The drug's shape and binding groups must fit the active site.
 Computers can model the shape of the active site and test how well possible molecules fit it. This helps
 chemists design such drugs before making them.
 
+
+<!-- marlbridge-gap:chem-b12-enzyme-stereospecific-inhibition -->
+<figure class="lesson-diagram" style="margin:2rem 0"><a href="/images/learning/chemistry/chem-b12-enzyme-stereospecific-inhibition.svg" aria-label="Open full-size diagram: Stereospecific enzyme binding and inhibition"><picture><source media="(max-width:800px)" srcset="/images/learning/chemistry/chem-b12-enzyme-stereospecific-inhibition-mobile.svg" width="768" height="1120"><img src="/images/learning/chemistry/chem-b12-enzyme-stereospecific-inhibition.svg" width="1528" height="870" alt="Stereospecific enzyme binding comparing a matching enantiomer, a mismatched mirror image and competitive inhibition." loading="lazy" decoding="async" style="display:block;width:100%;height:auto"></picture></a><figcaption>Compares complementary three-point stereospecific fit, mirror-image mismatch and active-site occupation by inhibitor. Select the image to enlarge.</figcaption></figure>
+<!-- /marlbridge-gap:chem-b12-enzyme-stereospecific-inhibition -->
+
 ## 3.3.13.4 DNA
 
 The structures of the phosphate ion, 2-deoxyribose (a pentose sugar) and the four bases adenine (A),
@@ -212,19 +245,29 @@ between the two strands.
 
 ## 3.3.13.5 Action of anticancer drugs
 
+<!-- marlbridge-diagram:chem-b21-cisplatin-guanine-crosslink -->
+<figure class="lesson-diagram" style="margin:2rem 0;">
+  <a href="/images/learning/chemistry/chem-b21-cisplatin-guanine-crosslink.svg" aria-label="Open full-size diagram: Cisplatin: a cis geometry links adjacent guanines"><img src="/images/learning/chemistry/chem-b21-cisplatin-guanine-crosslink.svg" width="1528" height="940" alt="The left panel compares square-planar cis-[Pt(NH3)2Cl2], with adjacent chloride leaving groups, to trans-[Pt(NH3)2Cl2], with chlorides opposite. The center shows a common cisplatin adduct: platinum remains coordinated to two NH3 ligands and binds the N7 atoms of two adjacent guanines on the same DNA strand after ligand replacement. The duplex is shown as distorted; the right panel shows that replication can be obstructed and that healthy cells may also be affected. It is a schematic, not an atomic-scale structure or a claim that every lesion prevents replication." loading="lazy" decoding="async" style="display:block;width:100%;height:auto" /></a>
+  <figcaption>Cis geometry permits a common 1,2-intrastrand guanine adduct. The drawing is schematic; cellular outcomes depend on lesion processing and are not universal. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:chem-b21-cisplatin-guanine-crosslink -->
+
 **Cisplatin** is a Pt(II) complex, cis-[Pt(NH₃)₂Cl₂], used as an anticancer drug. It is square planar, and
 the two Cl⁻ ligands sit next to each other (cis).
 
 **Why it prevents DNA replication.** Inside a cell, cisplatin takes part in a **ligand replacement
 reaction** with DNA. A chloride ligand is replaced, and a co-ordinate bond forms between platinum and a
 **nitrogen atom on guanine**. Because the two Cl⁻ ligands are cis, both can be replaced, so the platinum
-can bind to two guanines. This distorts the DNA. The two strands cannot separate and be copied normally,
-so the cancer cell cannot divide.
+can bind to two guanines. This distorts the DNA and can obstruct replication. Repair or bypass pathways
+may sometimes remove or tolerate a lesion, so an adduct does not prevent every replication event or cell
+division. Unrepaired DNA damage can block replication, trigger cell-cycle arrest or lead to cell death.
 
-**Why such drugs have adverse effects.** Cisplatin is not selective. It can bind to DNA in healthy cells
-too, which stops them dividing as well. It also reaches healthy tissues around the body, so it causes side
-effects; kidney damage and nausea are examples. Society has to weigh the benefit
-against these harmful effects.
+**Why such drugs have adverse effects.** Cisplatin is not selective: it can damage DNA in healthy cells
+too. This contributes to side effects such as kidney damage and nausea. Whether a particular exposed cell
+is injured, stops dividing or recovers depends on the damage and the cell's response. Society has to weigh
+the benefit against these harmful effects.
+
+
 
 ## Common errors
 

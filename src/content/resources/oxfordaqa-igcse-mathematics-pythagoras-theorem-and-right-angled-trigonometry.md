@@ -184,6 +184,14 @@ In a 3D figure you still use only right-angled triangles. The skill is to find t
 
 ### Lengths inside a cuboid
 
+<!-- marlbridge-diagram:math-b56-oxfordaqa-cuboid-space-diagonal-angle -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/public/images/learning/mathematics/math-b56-oxfordaqa-cuboid-space-diagonal-angle.svg" aria-label="Open full-size diagram: math-b56-oxfordaqa-cuboid-space-diagonal-angle"><img src="/public/images/learning/mathematics/math-b56-oxfordaqa-cuboid-space-diagonal-angle.svg" width="1528" height="940" alt="A 10 cm by 6 cm by 7 cm cuboid shows the base diagonal √136 and space diagonal √185. The angle between the space diagonal and its projection on the base is 31.0°." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>A 10 cm by 6 cm by 7 cm cuboid shows the base diagonal √136 and space diagonal √185. The angle between the space diagonal and its projection on the base is 31.0°.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:math-b56-oxfordaqa-cuboid-space-diagonal-angle -->
+
+
 A cuboid has length l, width w and height h. The diagonal across the base is √(l² + w²). The space diagonal, from one corner to the opposite corner, forms a second right-angled triangle with that base diagonal and the vertical edge:
 
 space diagonal² = l² + w² + h²

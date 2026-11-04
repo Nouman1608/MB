@@ -110,6 +110,22 @@
   :is(header, footer, .bg-navy-800, .bg-navy-900) :focus-visible { outline-color: var(--color-gold-500); }
   ::selection { background: var(--color-teal-100); color: var(--color-ink); }
   code, kbd, samp { font-family: var(--font-sans); font-variant-numeric: tabular-nums; }
+  /* Study resources use fenced blocks for equations and worked steps as well
+     as code. Present them on a light reading surface and wrap long lines. */
+  .resource-content pre.astro-code {
+    margin-block: 1rem;
+    overflow-x: auto;
+    padding: 0.75rem 1rem;
+    border: 1px solid var(--color-rule);
+    border-inline-start: 3px solid var(--color-teal-600);
+    border-radius: var(--radius-sm);
+    background-color: var(--color-ivory) !important;
+    color: var(--color-ink) !important;
+    white-space: pre-wrap;
+    overflow-wrap: anywhere;
+    font-size: 0.95em;
+    line-height: 1.65;
+  }
   img { max-width: 100%; height: auto; }
 }
 

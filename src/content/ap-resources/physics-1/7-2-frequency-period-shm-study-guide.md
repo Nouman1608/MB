@@ -64,7 +64,7 @@ Do not time a single cycle. Your reaction time when starting and stopping a stop
 
 Two more habits help:
 
-- Start and stop timing as the object passes through **equilibrium**. It moves fastest there, so the moment it passes is easy to judge.
+- Start and stop timing as the object passes through **equilibrium in the same direction** (for example, crossing equilibrium while moving upwards both times). One upward crossing to the next upward crossing is one full cycle; opposite-direction crossings are only half a cycle apart. It moves fastest at equilibrium, so the moment it passes is easy to judge.
 - Count "zero" as you start the watch, not "one". Otherwise you time one cycle fewer than you count.
 
 ## The object–spring oscillator

@@ -42,6 +42,14 @@ internal assessment, 20 / 20. Total teaching hours are 150 at SL and
 
 ## Unit 1 -- Introduction to business management (20 hours SL / 20 hours HL)
 
+<!-- marlbridge-diagram:business-ibdp-syllabus-units-and-hours -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/business/business-ibdp-syllabus-units-and-hours.svg" aria-label="Open full-size diagram: business-ibdp-syllabus-units-and-hours"><img src="/images/learning/business/business-ibdp-syllabus-units-and-hours.svg" width="1600" height="1050" alt="Syllabus map lists the five units with lesson-stated SL/HL hours and separates the toolkit and pre-released statement preparation." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Syllabus map lists the five units with lesson-stated SL/HL hours and separates the toolkit and pre-released statement preparation. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:business-ibdp-syllabus-units-and-hours -->
+
+
 - **1.1 What is a business?** -- the core purpose and activities that
   define an organization as a business.
 - **1.2 Types of business entities** -- sole traders, partnerships,

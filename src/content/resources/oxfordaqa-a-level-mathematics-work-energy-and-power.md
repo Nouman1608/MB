@@ -38,6 +38,14 @@ The specification lists work = Fd cos θ, GPE = mgh and KE = ½mv² among the fo
 
 ## 1. Work done by a constant force
 
+<!-- marlbridge-diagram:math-sub-438-work -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/mathematics/math-sub-438-work.svg" aria-label="Open full-size diagram: math-sub-438-work"><img src="/images/learning/mathematics/math-sub-438-work.svg" width="1528" height="940" alt="Force vector resolved parallel and perpendicular to displacement; work is Fs cos theta." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Only the component along displacement does work — Marlbridge Mathematics.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:math-sub-438-work -->
+
+
 A force does work when its point of application moves. For a constant force F (newtons) moving its point of application a distance d (metres) along a straight line, with θ the angle between the force and the direction of motion:
 
 ```
@@ -76,6 +84,14 @@ Check by energy: the crate gains GPE of 25 × 9.8 × (6 sin 20°) = 502.77... J 
 
 ## 2. Gravitational potential energy and kinetic energy
 
+<!-- marlbridge-diagram:math-sub-438-energy-stores -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/mathematics/math-sub-438-energy-stores.svg" aria-label="Open full-size diagram: math-sub-438-energy-stores"><img src="/images/learning/mathematics/math-sub-438-energy-stores.svg" width="1528" height="940" alt="Energy store formula cards and height datum for an object moving between levels." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Compare kinetic and gravitational energy changes — Marlbridge Mathematics.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:math-sub-438-energy-stores -->
+
+
 ```
 GPE = mgh      (h measured above any chosen zero level)
 KE  = ½ m v²
@@ -86,6 +102,14 @@ Only changes in GPE matter, so choose the lowest point as h = 0 to keep the arit
 Kinetic energy depends on speed squared and has no direction. Doubling the speed multiplies the KE by four.
 
 ## 3. The work-energy principle
+
+<!-- marlbridge-diagram:math-sub-438-work-energy -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/mathematics/math-sub-438-work-energy.svg" aria-label="Open full-size diagram: math-sub-438-work-energy"><img src="/images/learning/mathematics/math-sub-438-work-energy.svg" width="1528" height="940" alt="Energy flow equation from the work of all forces to the change in kinetic energy." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Net work equals the change in kinetic energy — Marlbridge Mathematics.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:math-sub-438-work-energy -->
+
 
 The work done by the resultant force on a particle equals the change in its kinetic energy:
 
@@ -114,6 +138,22 @@ v² = 46.97...      v = 6.85 m s⁻¹ (3 s.f.)
 4. Solve, then check the sign and size of the answer.
 
 ## 4. Conservation of mechanical energy
+
+<!-- marlbridge-diagram:math-sub-438-conservation -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/mathematics/math-sub-438-conservation.svg" aria-label="Open full-size diagram: math-sub-438-conservation"><img src="/images/learning/mathematics/math-sub-438-conservation.svg" width="1528" height="940" alt="Ball drops through height h: gravitational potential energy transfers to kinetic energy when resistance is absent." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Energy transfers between kinetic and gravitational stores — Marlbridge Mathematics.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:math-sub-438-conservation -->
+
+
+<!-- marlbridge-diagram:math-final-438-conservation-mechanical-energy -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/mathematics/math-final-438-conservation-mechanical-energy.svg" aria-label="Open full-size diagram: math-final-438-conservation-mechanical-energy"><img src="/images/learning/mathematics/math-final-438-conservation-mechanical-energy.svg" width="1528" height="940" alt="Energy bars show gravitational potential energy converting to kinetic energy while total energy stays 14.01 J." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Energy bars show gravitational potential energy converting to kinetic energy while total energy stays 14.01 J.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:math-final-438-conservation-mechanical-energy -->
+
 
 If the only forces that do work are gravity and conservative forces (no friction, drag or driving force), the total of KE and GPE stays constant:
 
@@ -145,6 +185,14 @@ R × 20 = 17          R = 0.85 N
 ```
 
 ## 5. Power
+
+<!-- marlbridge-diagram:math-sub-438-power -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/mathematics/math-sub-438-power.svg" aria-label="Open full-size diagram: math-sub-438-power"><img src="/images/learning/mathematics/math-sub-438-power.svg" width="1528" height="940" alt="Engine power flow showing P=Fv, speed calculation and separation of driving and resistive force." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Power links force, speed and work rate — Marlbridge Mathematics.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:math-sub-438-power -->
+
 
 Power is the rate at which a force does work. The unit is the watt, W (1 W = 1 J s⁻¹).
 

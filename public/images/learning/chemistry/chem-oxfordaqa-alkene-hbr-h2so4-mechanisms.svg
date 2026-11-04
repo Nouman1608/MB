@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1528 940" role="img" aria-labelledby="title desc">
+  <title id="title">Electrophilic addition of HBr and sulfuric acid to ethene</title>
+  <desc id="desc">Two full two-step mechanisms use ethene. HBr protonates the double bond, the H–Br pair moves to bromine, and bromide attacks the carbocation to form bromoethane. Sulfuric acid protonates the double bond, the O–H pair moves to oxygen, and hydrogensulfate attacks through oxygen to form ethyl hydrogensulfate.</desc>
+  <defs>
+    <marker id="arrow" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto"><path d="M1 1 L11 6 L1 11 Z" fill="#147d82"/></marker>
+    <marker id="arrow-blue" markerWidth="11" markerHeight="11" refX="9" refY="5.5" orient="auto"><path d="M1 1 L10 5.5 L1 10 Z" fill="#466b9e"/></marker>
+    <style>
+      text{font-family:Arial,"Liberation Sans",sans-serif;fill:#172b4d}.title{font-size:32px;font-weight:700}.sub{font-size:18px;fill:#475569}
+      .head{font-size:24px;font-weight:700;fill:#0f766e}.step{font-size:18px;font-weight:700}.chem{font-size:24px;font-weight:600}.small{font-size:16px;fill:#475569}
+      .panel{fill:#fff;stroke:#cbd5e1;stroke-width:2}
+    </style>
+  </defs>
+  <rect width="1528" height="940" rx="24" fill="#f4f8fb"/>
+  <text class="title" x="54" y="60">Electrophilic addition: HBr and H₂SO₄</text>
+  <text class="sub" x="55" y="94">Track the electron pair into the electrophile, then the anion's lone pair into C⁺.</text>
+  <text x="1472" y="60" text-anchor="end" font-size="15" font-weight="700" fill="#0f766e">OXFORDAQA A-LEVEL CHEMISTRY</text>
+
+  <rect class="panel" x="45" y="130" width="700" height="700" rx="18"/>
+  <rect class="panel" x="783" y="130" width="700" height="700" rx="18"/>
+
+  <text class="head" x="82" y="180">HBr → bromoethane</text>
+  <text class="small" x="82" y="211">Ethene is symmetrical, so there is only one orientation.</text>
+  <rect x="76" y="237" width="638" height="283" rx="14" fill="#f8fbfd" stroke="#d8e2e8" stroke-width="2"/>
+  <text class="step" x="101" y="275">1  Protonation and heterolysis</text>
+  <text class="chem" x="200" y="331" text-anchor="middle">H₂C=CH₂</text>
+  <text class="chem" x="526" y="331" text-anchor="middle">Hδ+—Brδ−</text>
+  <path d="M251 309 C302 269 394 269 466 309" fill="none" stroke="#147d82" stroke-width="4" marker-end="url(#arrow)"/>
+  <text class="small" x="359" y="282" text-anchor="middle">C=C pair → H</text>
+  <path d="M501 342 C518 372 544 372 560 342" fill="none" stroke="#466b9e" stroke-width="3" marker-end="url(#arrow-blue)"/>
+  <text class="small" x="590" y="397" text-anchor="middle">H–Br pair → Br</text>
+  <text class="small" x="395" y="444" text-anchor="middle">Intermediate: CH₃–CH₂⁺ + Br⁻</text>
+  <text class="small" x="395" y="476" text-anchor="middle">The positive charge is on carbon; bromide has the electron pair from H–Br.</text>
+
+  <rect x="76" y="540" width="638" height="222" rx="14" fill="#f8fbfd" stroke="#d8e2e8" stroke-width="2"/>
+  <text class="step" x="101" y="578">2  Nucleophilic attack</text>
+  <text class="small" x="395" y="612" text-anchor="middle">A lone pair on Br⁻ forms the C–Br bond to C⁺.</text>
+  <path d="M557 634 C511 666 447 666 401 634" fill="none" stroke="#147d82" stroke-width="4" marker-end="url(#arrow)"/>
+  <text class="small" x="478" y="677" text-anchor="middle">Br⁻ lone pair → C⁺</text>
+  <text class="chem" x="395" y="726" text-anchor="middle">CH₃–CH₂–Br</text>
+
+  <text class="head" x="820" y="180">H₂SO₄ → ethyl hydrogensulfate</text>
+  <text class="small" x="820" y="211">Hydrogensulfate attacks through its negatively charged oxygen.</text>
+  <rect x="814" y="237" width="638" height="283" rx="14" fill="#f8fbfd" stroke="#d8e2e8" stroke-width="2"/>
+  <text class="step" x="839" y="275">1  Protonation and heterolysis</text>
+  <text class="chem" x="945" y="331" text-anchor="middle">H₂C=CH₂</text>
+  <text class="chem" x="1245" y="331" text-anchor="middle">H–O–S(=O)₂–OH</text>
+  <path d="M994 309 C1030 269 1090 269 1149 309" fill="none" stroke="#147d82" stroke-width="4" marker-end="url(#arrow)"/>
+  <text class="small" x="1078" y="282" text-anchor="middle">C=C pair → H</text>
+  <path d="M1158 342 C1161 365 1174 365 1178 342" fill="none" stroke="#466b9e" stroke-width="3" marker-end="url(#arrow-blue)"/>
+  <text class="small" x="1172" y="397" text-anchor="middle">O–H pair → O</text>
+  <text class="small" x="1133" y="444" text-anchor="middle">CH₃–CH₂⁺ + ⁻O–S(=O)₂–OH</text>
+  <text class="small" x="1133" y="476" text-anchor="middle">The anion is hydrogensulfate (HSO₄⁻).</text>
+
+  <rect x="814" y="540" width="638" height="222" rx="14" fill="#f8fbfd" stroke="#d8e2e8" stroke-width="2"/>
+  <text class="step" x="839" y="578">2  Nucleophilic attack through oxygen</text>
+  <text class="small" x="1133" y="612" text-anchor="middle">The O⁻ lone pair on HSO₄⁻ forms the C–O bond to C⁺.</text>
+  <path d="M1323 634 C1280 666 1222 666 1177 634" fill="none" stroke="#147d82" stroke-width="4" marker-end="url(#arrow)"/>
+  <text class="small" x="1250" y="677" text-anchor="middle">HSO₄⁻ oxygen pair → C⁺</text>
+  <text class="chem" x="1133" y="726" text-anchor="middle">CH₃–CH₂–O–S(=O)₂–OH</text>
+
+  <rect x="45" y="842" width="1438" height="48" rx="12" fill="#e8f4f2"/>
+  <text class="small" x="764" y="872" text-anchor="middle">Curly-arrow tails start at an electron pair or bond. Unsymmetrical alkenes can form different carbocations; compare their stability before predicting the major product.</text>
+  <text x="1478" y="920" text-anchor="end" font-size="14" font-weight="700" fill="#47647b">MARLBRIDGE • STUDY RESOURCES</text>
+</svg>

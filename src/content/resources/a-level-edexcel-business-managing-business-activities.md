@@ -142,6 +142,14 @@ actually sit.
 
 ## Worked example
 
+<!-- marlbridge-diagram:business-edexcel-break-even-margin-safety -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/business/business-edexcel-break-even-margin-safety.svg" aria-label="Open full-size diagram: business-edexcel-break-even-margin-safety"><img src="/images/learning/business/business-edexcel-break-even-margin-safety.svg" width="1600" height="1050" alt="Break-even line chart and formula chain using $25 price, $15 variable cost, $40,000 fixed costs, 4,000-unit break-even and 1,000-unit margin of safety." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Calculate contribution, break-even output and margin of safety from the scenario. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:business-edexcel-break-even-margin-safety -->
+
+
 A business has fixed costs of $40,000, a selling price of $25 per
 unit, and a variable cost of $15 per unit. What is the break-even
 point?

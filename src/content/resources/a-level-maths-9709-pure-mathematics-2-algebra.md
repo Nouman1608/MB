@@ -96,6 +96,14 @@ Two linear cases (2x + 1 = x − 4 and 2x + 1 = −(x − 4)) give the same answ
 
 ### Equations with a modulus on one side only
 
+<!-- marlbridge-diagram:maths-p2-modulus-equation-intersection -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/mathematics/maths-p2-modulus-equation-intersection.svg" aria-label="Open full-size diagram: maths-p2-modulus-equation-intersection"><img src="/images/learning/mathematics/maths-p2-modulus-equation-intersection.svg" width="1600" height="1050" alt="Graph of |x−1| and 2x+4 has one intersection x=−1; case x=−5 is rejected because the non-modulus side is negative." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Modulus equations: solve cases and reject invalid roots Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:maths-p2-modulus-equation-intersection -->
+
+
 When the other side is an expression in x, it could be negative, and a modulus can never equal a negative number. Do **not** square blindly. Solve both linear cases and check each answer in the original equation.
 
 *Worked example 3.* Solve |x − 1| = 2x + 4.

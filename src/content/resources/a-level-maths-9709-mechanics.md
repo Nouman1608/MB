@@ -55,6 +55,14 @@ Course hub: [Cambridge A Level Mathematics](/boards/cambridge/a-level/mathematic
 
 ## 4.1 Forces and equilibrium
 
+<!-- marlbridge-diagram:maths-two-string-equilibrium -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/mathematics/maths-two-string-equilibrium.svg" aria-label="Open full-size diagram: maths-two-string-equilibrium"><img src="/images/learning/mathematics/maths-two-string-equilibrium.svg" width="1600" height="1050" alt="A particle in equilibrium is supported by strings at 30 and 60 degrees to the horizontal; resolved equations give tensions of 10 N and 10√3 N." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Resolve forces horizontally and vertically to verify equilibrium. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:maths-two-string-equilibrium -->
+
+
 Start every problem with a clear force diagram: weight, normal contact force, friction, tension or thrust, and any applied force. A force P at angle θ to a direction has component P cos θ along that direction and P sin θ perpendicular to it.
 
 A particle is in **equilibrium** when the resultant force is zero. In practice, resolve in two perpendicular directions and set each sum to zero. You must calculate; scale drawings earn nothing.
@@ -115,6 +123,14 @@ Take upwards as positive: s = −20, u = 15, a = −10. Then −20 = 15t − 5t�
 Momentum = mv. It is a vector, so in one dimension its sign gives its direction. In a direct impact between two bodies, total momentum before = total momentum after. If the bodies coalesce, they move on together with one common velocity. Impulse and the coefficient of restitution are not in this syllabus.
 
 *Worked example.* A (3 kg) moves at 5 m s⁻¹ towards B (2 kg), which moves at 4 m s⁻¹ towards A. After the impact A moves at 1 m s⁻¹ in its original direction. Find B's velocity after impact.
+
+<!-- marlbridge-diagram:maths-b15-mechanics-momentum-collision -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/mathematics/maths-b15-mechanics-momentum-collision.svg" aria-label="Open full-size diagram: maths-b15-mechanics-momentum-collision"><img src="/images/learning/mathematics/maths-b15-mechanics-momentum-collision.svg" width="1600" height="1050" alt="Before-and-after velocity diagram for a direct impact; conservation of momentum gives B velocity +2 m s⁻¹ in A’s original direction." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Before-and-after velocity diagram for a direct impact; conservation of momentum gives B velocity +2 m s⁻¹ in A’s original direction. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:maths-b15-mechanics-momentum-collision -->
+
 
 Take A's original direction as positive: 3(5) + 2(−4) = 3(1) + 2v. So 7 = 3 + 2v and v = 2 m s⁻¹. B now moves at 2 m s⁻¹ in A's original direction: its direction has reversed.
 

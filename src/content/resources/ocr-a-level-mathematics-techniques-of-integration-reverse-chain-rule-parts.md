@@ -53,6 +53,14 @@ Sum = Σ (3/n)(2 × 3r/n + 1)
 
 As n → ∞, 9/n → 0, so the area is 12. Check: ∫₀³ (2x + 1) dx = [x² + x]₀³ = 12.
 
+<!-- marlbridge-diagram:maths-b39-ocr-riemann-sum-limit -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/mathematics/maths-b39-ocr-riemann-sum-limit.svg" aria-label="Open full-size diagram: maths-b39-ocr-riemann-sum-limit"><img src="/images/learning/mathematics/maths-b39-ocr-riemann-sum-limit.svg" width="1600" height="1050" alt="The source sum simplifies to (3/n)(4n+3)=12+9/n." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>The source sum simplifies to (3/n)(4n+3)=12+9/n. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:maths-b39-ocr-riemann-sum-limit -->
+
+
 ## 1.09f Trapezium rule and rectangles
 
 With n strips of equal width h = (b − a)/n and ordinates y₀, y₁, …, yₙ:

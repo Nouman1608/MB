@@ -66,6 +66,14 @@ If there are no driving forces other than gravity and no resistance, mechanical 
 
 ### Worked example 1: constant force and resistance on a slope
 
+<!-- marlbridge-diagram:maths-b26-work-energy-rough-incline-90n -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/mathematics/maths-b26-work-energy-rough-incline-90n.svg" aria-label="Open full-size diagram: maths-b26-work-energy-rough-incline-90n"><img src="/images/learning/mathematics/maths-b26-work-energy-rough-incline-90n.svg" width="1600" height="1050" alt="A 12 kg crate is pulled from rest 15 m up a rough plane inclined at 20 degrees by a 90 N force parallel to the slope against 25 N resistance. Driving work is 1350 J, resistance work 375 J and gain in potential energy 603.3 J. Remaining kinetic energy is 371.7 J, giving v=7.87 m s⁻¹." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>A 12 kg crate is pulled from rest 15 m up a rough plane inclined at 20 degrees by a 90 N force parallel to the slope against 25 N resistance. Driving work is 1350 J, resistance work 375 J and gain in potential energy 603.3 J. Remaining kinetic energy is 371.7 J, giving v=7.87 m s⁻¹. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:maths-b26-work-energy-rough-incline-90n -->
+
+
 A crate of mass 12 kg is pulled from rest up a rough plane inclined at 20° to the horizontal, along the steepest direction. A constant force of 90 N acts parallel to the slope. The constant resistance to motion is 25 N. Find the speed of the crate after it has moved 15 m.
 
 ```

@@ -105,6 +105,14 @@ On Paper 1 and Paper 2 you cannot use a calculator, so questions are set with nu
 
 ### Pythagorean triples
 
+<!-- marlbridge-diagram:math-b51-pythagorean-triple-area-check -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/public/images/learning/mathematics/math-b51-pythagorean-triple-area-check.svg" aria-label="Open full-size diagram: math-b51-pythagorean-triple-area-check"><img src="/public/images/learning/mathematics/math-b51-pythagorean-triple-area-check.svg" width="1528" height="940" alt="The diagram verifies 8²+15²=64+225=289=17² by comparing the areas on the shorter sides with the hypotenuse square. It also identifies 17 as the longest side and notes that scaling all three lengths preserves the relation." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>The diagram verifies 8²+15²=64+225=289=17² by comparing the areas on the shorter sides with the hypotenuse square. It also identifies 17 as the longest side and notes that scaling all three lengths preserves the relation. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:math-b51-pythagorean-triple-area-check -->
+
+
 A Pythagorean triple is a set of three whole numbers that fit a² + b² = c². Learning the common ones turns many non-calculator questions into quick recognition.
 
 | Triple | Check |

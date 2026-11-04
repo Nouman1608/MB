@@ -73,7 +73,7 @@ Proteins are set into the bilayer. A protein's surface is made of the R groups (
 
 So a protein can be hydrophilic, hydrophobic, or both. Two types are worth naming:
 
-- **Integral (transmembrane) proteins** pass right through the bilayer. They have a hydrophobic middle section and hydrophilic ends on each side. Many contain an **α-helix** of about 20 or more mostly nonpolar amino acids that spans the hydrophobic interior.
+- **Integral proteins** are embedded in the bilayer; some cross it completely and are called **transmembrane proteins**. A transmembrane protein often has a hydrophobic region within the membrane and hydrophilic regions exposed to water. Many single-pass examples contain an **α-helix** of roughly 20 mostly nonpolar amino acids, but structures vary.
 - **Peripheral proteins** sit on one surface only. They attach to the heads or to an integral protein, and they do not enter the hydrophobic interior. Their surface is mostly hydrophilic.
 
 Membrane proteins do many jobs: **channels and carriers** move ions and polar molecules across; **receptors** detect signals; some are **enzymes**; others **anchor** the membrane to the cytoskeleton inside or to neighbouring cells.
@@ -300,7 +300,7 @@ The modern picture of the membrane is called the **fluid mosaic model**.
 | Component | Structure | Role in keeping the internal environment steady |
 |---|---|---|
 | **Phospholipids** | polar head, two nonpolar tails; bilayer | form the framework and the hydrophobic barrier that stops ions and polar molecules leaking across |
-| **Integral proteins** | hydrophobic middle in the tails, hydrophilic ends or pores | channels and carriers let specific hydrophilic substances cross; receptors pass on signals |
+| **Integral proteins** | embedded in the bilayer; transmembrane examples cross it and may form hydrophilic pores | some channels and carriers let specific hydrophilic substances cross; receptors pass on signals |
 | **Peripheral proteins** | hydrophilic, on one face only | enzymes, signalling, attachment to the cytoskeleton |
 | **Cholesterol** (vertebrate animals) | steroid; four fused rings, sits among the tails | helps keep the membrane stable and its fluidity within a working range as temperature changes |
 | **Glycoproteins** | protein with a carbohydrate chain on the outer face | cell recognition (for example, the immune system telling "self" from "non-self"), cell-to-cell adhesion, receiving signals |
@@ -314,7 +314,7 @@ Questions often give you a membrane diagram and ask you to describe it. Use thes
 
 1. **Which side is outside?** Carbohydrate chains point to the outside of the cell.
 2. **Which layer is which?** Heads (circles or blobs) face the water on each side. Tails (lines) meet in the middle.
-3. **Integral or peripheral?** If a protein passes through the tail region, it is integral. If it only touches one surface, it is peripheral.
+3. **Integral or peripheral?** A protein embedded in the bilayer is integral, whether or not it crosses the whole membrane. A protein attached at the surface without entering the hydrophobic interior is peripheral.
 4. **Hydrophobic or hydrophilic region?** Any part of a protein that touches the tails is hydrophobic. Any part facing the fluid on either side, or lining a pore, is hydrophilic.
 
 A diagram is a model, so know its limits. Figure 1 is not to scale (proteins vary greatly in size). It is a still picture of a membrane that is really moving all the time. It shows only a few proteins, whereas real membranes are crowded with them. It is also a flat slice of a curved, three-dimensional surface.
@@ -421,7 +421,7 @@ Before bleaching, every spot read 1000 units; just after bleaching, every spot r
 - **"The tails face the water and the heads face inwards."** Reversed. Heads are hydrophilic and face the watery fluid on both sides; tails are hydrophobic and face each other.
 - **"A plasma membrane is one layer of phospholipids."** It is two layers (a bilayer). Each layer has its heads facing a different fluid.
 - **"All of a membrane protein is hydrophobic."** Only the part touching the tails is. The ends that face the fluids and the lining of any pore are hydrophilic.
-- **"Proteins float on top of the membrane."** Peripheral proteins sit on a surface, but integral proteins pass right through the bilayer.
+- **"Proteins float on top of the membrane."** Peripheral proteins attach at a surface; integral proteins are embedded in the bilayer, and only some integral proteins pass right through it.
 - **"Fluid means the membrane is liquid and has no structure."** The membrane holds a stable bilayer shape. "Fluid" means its components can drift sideways within it.
 - **"Carbohydrate chains are on both faces."** In the plasma membrane they face the outside of the cell.
 - **"Cholesterol is found in every membrane."** Cholesterol is the membrane steroid of animal cells (the course names vertebrate animals). Plants and fungi use related sterols instead, and most bacteria have no sterols in their membranes at all.

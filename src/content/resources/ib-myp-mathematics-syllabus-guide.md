@@ -68,6 +68,14 @@ teaching topics in a purely abstract sequence.
 
 ## The four assessment criteria
 
+<!-- marlbridge-diagram:math-b47-myp-assessment-criteria-four -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/mathematics/math-b47-myp-assessment-criteria-four.svg" aria-label="Open full-size diagram: math-b47-myp-assessment-criteria-four"><img src="/images/learning/mathematics/math-b47-myp-assessment-criteria-four.svg" width="1600" height="1050" alt="Four equal criterion cards: A select/apply mathematics; B investigate patterns; C communicate with mathematical language and representations; D apply in real-life contexts and reflect on validity. Each scores 0–8, giving total 0–32; C appears across all three eAssessment tasks." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Four equal criterion cards: A select/apply mathematics; B investigate patterns; C communicate with mathematical language and representations; D apply in real-life contexts and reflect on validity. Each scores 0–8, giving total 0–32; C appears across all three eAssessment tasks. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:math-b47-myp-assessment-criteria-four -->
+
+
 - **Criterion A: Knowing and understanding** -- selecting and applying
   mathematics to solve problems in familiar and unfamiliar situations
   across the four branches.

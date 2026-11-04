@@ -105,6 +105,14 @@ market share = firm's sales / total market sales x 100
 
 ## Demand, supply and elasticity
 
+<!-- marlbridge-diagram:business-edexcel-ped-price-total-revenue -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/business/business-edexcel-ped-price-total-revenue.svg" aria-label="Open full-size diagram: business-edexcel-ped-price-total-revenue"><img src="/images/learning/business/business-edexcel-ped-price-total-revenue.svg" width="1600" height="1050" alt="Price elasticity of demand linked to total revenue changes for elastic, unit-elastic and inelastic demand." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Predict how a price change affects total revenue using PED. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:business-edexcel-ped-price-total-revenue -->
+
+
 Demand shifts with income, competitor prices and actions, demographics, fashion and seasonality. Supply shifts with costs, technology, government intervention and external shocks.
 
 ```

@@ -111,6 +111,13 @@ Both types happen in the thylakoids. In both, light causes **photoactivation of 
 
 ### Non-cyclic photophosphorylation
 
+<!-- marlbridge-diagram:bio-b17-photosynthesis-cyclic-vs-noncyclic -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/biology/bio-b17-photosynthesis-cyclic-vs-noncyclic.svg" aria-label="Open full-size diagram: Photophosphorylation: cyclic and non-cyclic electron flow"><img src="/images/learning/biology/bio-b17-photosynthesis-cyclic-vs-noncyclic.svg" width="1600" height="1000" alt="Compares PSI-only cyclic flow with PSII-to-PSI non-cyclic flow, showing ATP, reduced NADP and water photolysis outcomes." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Compares PSI-only cyclic flow with PSII-to-PSI non-cyclic flow, showing ATP, reduced NADP and water photolysis outcomes. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:bio-b17-photosynthesis-cyclic-vs-noncyclic -->
+
 - **Both PSII and PSI** are involved.
 - Electrons emitted from PSII pass along an electron transport chain to PSI.
 - Electrons emitted from PSI are used to **reduce NADP**, together with protons.
@@ -126,6 +133,13 @@ Both types happen in the thylakoids. In both, light causes **photoactivation of 
 This is the same mechanism as in mitochondria, but protons move into the thylakoid space rather than the intermembrane space. You do not need the names of the carriers or details of ATP synthase.
 
 ## The light-independent stage: the Calvin cycle
+
+<!-- marlbridge-diagram:bio-b17-calvin-cycle-carbon-balance -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/biology/bio-b17-calvin-cycle-carbon-balance.svg" aria-label="Open full-size diagram: Calvin cycle: carbon balance over three turns"><img src="/images/learning/biology/bio-b17-calvin-cycle-carbon-balance.svg" width="1600" height="1000" alt="Tracks the source’s three-turn carbon accounting: 18 carbons through GP and TP, 15 recycled to RuBP, and one three-carbon TP as net gain." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Tracks the source’s three-turn carbon accounting: 18 carbons through GP and TP, 15 recycled to RuBP, and one three-carbon TP as net gain. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:bio-b17-calvin-cycle-carbon-balance -->
 
 It happens in the **stroma** and has three main stages:
 

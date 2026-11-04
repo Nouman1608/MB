@@ -55,9 +55,9 @@ Both gases leave the leaf by **diffusion** through the **stomata**, when their c
 What leaves the leaf depends on the balance of the two processes:
 
 - **In the dark:** only respiration happens. Carbon dioxide builds up in the air spaces and diffuses out. Oxygen diffuses in.
-- **In bright light:** photosynthesis is faster than respiration. The plant uses all its own respiratory carbon dioxide and takes in more, and makes more oxygen than it uses. The extra oxygen diffuses out.
+- **In bright light:** if photosynthesis is faster than respiration, net carbon-dioxide uptake and net oxygen release occur. Some carbon dioxide produced by respiration may be used in photosynthesis, but the net model does not prove that no respiratory carbon-dioxide molecule diffuses out.
 
-In bright light, respiratory carbon dioxide is still produced. It is used straight away in photosynthesis, so it is not lost.
+In bright light, respiration still produces carbon dioxide. The rates of both processes determine net exchange; a net uptake does not mean every respiratory carbon-dioxide molecule is reused inside the leaf.
 
 ### Worked example 1
 
@@ -66,7 +66,9 @@ In bright light, respiratory carbon dioxide is still produced. It is used straig
 1. In bright light, the rate of photosynthesis is greater than the rate of respiration.
 2. So the leaf makes more oxygen than it uses. Oxygen is a waste product here and diffuses out through the stomata. The oxygen concentration rises.
 3. In darkness, photosynthesis stops but respiration continues.
-4. The leaf takes in oxygen through the stomata and gives out carbon dioxide, a waste product of respiration. The oxygen concentration falls.
+4. The leaf takes in oxygen through the stomata and gives out carbon dioxide from respiration. In this simplified sealed-container model, oxygen falls while respiration exceeds photosynthesis.
+
+**Model assumption:** a continued oxygen rise during illumination assumes enough carbon dioxide, suitable light and temperature, and no leak or other limiting change.
 
 Leaf structure and the hydrogen-carbonate indicator practical belong to sub-topic 2(g), Paper 2 only.
 
@@ -82,6 +84,11 @@ Urea is carried in the plasma (point 2.60) from the liver to the kidneys. Sweati
 
 ## 2.73B The urinary system (Paper 2 only)
 
+
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <!-- marlbridge-diagram:complete-bio-urinary-kidney-anatomy --><a href="/images/learning/biology/complete-bio-urinary-kidney-anatomy.svg" aria-label="Open full-size diagram: Urinary anatomy: follow urine and locate kidney regions" title="Urinary anatomy: follow urine and locate kidney regions"><img src="/images/learning/biology/complete-bio-urinary-kidney-anatomy.svg" width="1528" height="871" alt="Original simplified urinary-system diagram labels two kidneys, two ureters, bladder and single urethra with urine-flow arrows. A separate longitudinal kidney section distinguishes outer cortex, inner medullary pyramids and central renal pelvis leading to ureter." title="Urinary anatomy: follow urine and locate kidney regions" loading="lazy" decoding="async" style="display:block;width:100%;height:auto;" /></a>
+  <figcaption>Locate the kidneys, ureters, bladder and urethra, then distinguish cortex, medulla and renal pelvis in a kidney section. Select the diagram to enlarge it.</figcaption>
+</figure>
 Follow a molecule of urea from the blood to the outside:
 
 - The **renal artery** brings blood, including urea, to each **kidney**.
@@ -95,6 +102,13 @@ Ureter (two, kidney to bladder) and urethra (one, bladder to outside) are easy t
 Inside the kidney are an outer **cortex**, an inner **medulla** and the **pelvis**, where urine collects.
 
 ## 2.74B The nephron (Paper 2 only)
+
+<!-- marlbridge-diagram:bio-b18-nephron-segment-map -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/biology/bio-b18-nephron-segment-map.svg" aria-label="Open full-size diagram: bio-b18-nephron-segment-map"><img src="/images/learning/biology/bio-b18-nephron-segment-map.svg" width="1600" height="1050" alt="Nephron diagram labels Bowman’s capsule, glomerulus, proximal and distal convoluted tubules, loop of Henle, collecting duct, cortex, medulla and associated blood route." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>The nephron: filtrate route and blood supply; cortex–medulla layout is simplified and not to scale. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:bio-b18-nephron-segment-map -->
 
 Each kidney contains a very large number of tiny tubules called **nephrons**. In order, filtrate passes through:
 
@@ -110,14 +124,13 @@ The **glomerulus** is not part of the tubule itself. It is a knot of blood capil
 
 Ultrafiltration is filtration under **high pressure** in the glomerulus.
 
-- The vessel taking blood **into** the glomerulus is wider than the vessel taking blood **out**.
-- This builds up a high blood pressure in the glomerulus capillaries.
+- The afferent arteriole taking blood **into** the glomerulus is usually wider than the efferent arteriole taking blood **out**. This contributes to high hydrostatic pressure in glomerular capillaries relative to the capsule; it is a simplified account of the pressure balance.
 - Small molecules are forced out of the blood, through the capillary wall and the wall of Bowman's capsule, into the capsule.
 - The liquid in the capsule is the **glomerular filtrate**.
 
 **Composition of glomerular filtrate:** water, glucose, urea, ions (salts) and amino acids -- at about the same concentrations as in blood plasma.
 
-**Not in the filtrate:** red blood cells, white blood cells, platelets and plasma proteins. They are too large to pass through the filter, so they stay in the blood.
+**Normally mostly excluded from the filtrate:** blood cells and large plasma proteins are retained by the filtration barrier. Healthy glomerular filtrate has very little protein, rather than an absolute zero in every circumstance.
 
 ## 2.77B Selective reabsorption of glucose (Paper 2 only)
 
@@ -127,7 +140,7 @@ The filtrate contains useful substances as well as waste. Glucose is the key exa
 - **Where:** the **proximal convoluted tubule**. All of the glucose is normally reabsorbed here, so a healthy person's urine contains no glucose.
 - **How:** partly by **active transport**, which moves glucose against its concentration gradient and uses energy from respiration. The tubule cells have many mitochondria to supply this energy, and microvilli that give a large surface area.
 
-It is called **selective** because the tubule takes back particular substances, such as glucose, but leaves urea in the tubule.
+It is called **selective** because the tubule reabsorbs substances to different extents. In healthy kidneys at normal blood glucose levels, glucose is almost completely reabsorbed. Some urea is also reabsorbed and recycled, while the remainder is excreted in urine.
 
 If the blood glucose concentration is very high (for example in untreated diabetes), there is more glucose in the filtrate than the tubule can reabsorb, and some glucose appears in the urine.
 
@@ -141,15 +154,29 @@ If the blood glucose concentration is very high (for example in untreated diabet
 | Glucose | 1.0 | 1.0 | 0 |
 | Urea | 0.30 | 0.30 | 20 |
 
+The zero protein value in this example is an idealised school-level value; normal filtrate contains very little protein.
+
 *(a) Explain the figures for protein. (b) Explain the figures for glucose. (c) Calculate how many times more concentrated urea is in urine than in the filtrate, and explain the difference.*
 
 (a) Protein molecules are too large to be forced out of the glomerulus, so there is none in the filtrate or the urine.
 
 (b) Glucose is a small molecule, so it passes into the filtrate at the same concentration as in plasma. All of it is reabsorbed in the proximal convoluted tubule, so there is none in urine.
 
-(c) 20 ÷ 0.30 = **66.7 times**. Urea is not reabsorbed, but most of the water in the filtrate is reabsorbed. The same mass of urea ends up in a much smaller volume of water, so its concentration rises.
+(c) 20 ÷ 0.30 = **66.7 times**. Most filtered water is reabsorbed, so the urea remaining for excretion can become much more concentrated. Some urea is also reabsorbed and recycled. The concentration ratio alone does not show that the mass of urea stayed constant.
 
 ## 2.76B and 2.78B Water reabsorption and ADH (Paper 2 only)
+
+
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <!-- marlbridge-diagram:adh-water-feedback --><a href="/images/learning/biology/adh-water-feedback.svg" aria-label="Open full-size diagram: ADH adjusts collecting-duct water permeability" title="ADH adjusts collecting-duct water permeability"><img src="/images/learning/biology/adh-water-feedback.svg" width="1528" height="871" alt="Osmoreceptor to ADH to aquaporin feedback, including the reversed response after excess water intake." title="ADH adjusts collecting-duct water permeability" loading="lazy" decoding="async" style="display:block;width:100%;height:auto;" /></a>
+  <figcaption>ADH feedback links blood water status, collecting-duct permeability and urine volume/concentration. Select the diagram to enlarge it.</figcaption>
+</figure>
+<!-- marlbridge-diagram:bio-b18-adh-medullary-gradient -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/biology/bio-b18-adh-medullary-gradient.svg" aria-label="Open full-size diagram: bio-b18-adh-medullary-gradient"><img src="/images/learning/biology/bio-b18-adh-medullary-gradient.svg" width="1600" height="1050" alt="Diagram shows a high-solute gradient through the medulla, the collecting duct passing through it, and water reabsorption increasing when ADH makes the duct more permeable." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>ADH and the medullary gradient; conceptual gradient, not to scale. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:bio-b18-adh-medullary-gradient -->
 
 ### Water reabsorption from the collecting duct
 
@@ -157,6 +184,8 @@ If the blood glucose concentration is very high (for example in untreated diabet
 - The collecting duct carries filtrate down through this concentrated medulla.
 - Water moves out of the collecting duct by **osmosis**, from the dilute filtrate into the concentrated tissue, and then into the blood capillaries.
 - How much water leaves depends on how **permeable** the walls of the collecting duct are. ADH controls this.
+
+<figure class="my-8" id="objective-bio-open-185-collecting-duct-capillary" data-objective-id="BIO-OPEN-185"><img src="/images/learning/biology/bio-b38-collecting-duct-capillary-osmosis.svg" alt="Schematic nephron-medulla section: filtrate descends in the collecting duct; the medulla becomes more concentrated with depth; with more ADH, aquaporins increase duct permeability and water moves by osmosis through the interstitial fluid into adjacent blood capillaries. The loop of Henle helps establish the gradient. Not to scale." width="1600" height="1050" loading="lazy" decoding="async" /><figcaption>ADH increases collecting-duct permeability; water moves by osmosis from filtrate through medullary tissue into nearby blood capillaries. The loop of Henle contributes to the medullary ion gradient. Schematic and not to scale.</figcaption></figure>
 
 ### The role of ADH
 
@@ -184,7 +213,7 @@ Almost all the filtrate goes back into the blood.
 
 The kidney has two roles.
 
-- **Excretion:** it removes **urea** (from the breakdown of excess amino acids in the liver), so urea does not build up in the blood. Urea is filtered and not reabsorbed.
+- **Excretion:** it removes **urea** (from the breakdown of excess amino acids in the liver), so urea does not build up in the blood. Urea is filtered; some is reabsorbed and recycled, and the remainder is excreted in urine.
 - **Osmoregulation:** it controls the **water content** (and ion content) of the blood by changing how much water is reabsorbed in the collecting duct, under the control of ADH.
 
 **Urine** therefore contains **water, urea and ions** (2.79B). A healthy person's urine contains no glucose and no protein.

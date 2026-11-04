@@ -50,6 +50,14 @@ The International Code of Ethics for Professional Accountants, developed by the 
 | Professional behavior | Obey laws and regulations; do not discredit the profession | Would this embarrass the profession? |
 
 ### Threats, safeguards and the "third party" test
+<!-- marlbridge-diagram:ac-b15-ethics-threat-safeguard-response -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/accounting/ac-b15-ethics-threat-safeguard-response.svg" aria-label="Open full-size diagram: ac-b15-ethics-threat-safeguard-response">
+    <img src="/images/learning/accounting/ac-b15-ethics-threat-safeguard-response.svg" width="1600" height="1050" alt="Apply an ethical decision path: principle → threat → safeguard → independent test → escalation or withdrawal." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" />
+  </a>
+  <figcaption>If an informed third party would judge the threat unacceptable, decline, report or withdraw. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:ac-b15-ethics-threat-safeguard-response -->
 
 The IESBA Code asks accountants to **identify, evaluate and address** threats to the principles. It groups threats into five categories: **self-interest, self-review, advocacy, familiarity and intimidation**. To judge whether a threat is at an acceptable level, the Code uses the view of a **reasonable and informed third party**: someone who knows the facts and could weigh them impartially.
 

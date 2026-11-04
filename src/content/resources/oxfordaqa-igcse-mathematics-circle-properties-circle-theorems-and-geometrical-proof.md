@@ -36,6 +36,14 @@ Angle facts for triangles, parallel lines and polygons belong to other units. He
 
 ## Circle words and properties (G8, Core)
 
+<!-- marlbridge-diagram:math-sub-440-circle-terms -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/mathematics/math-sub-440-circle-terms.svg" aria-label="Open full-size diagram: math-sub-440-circle-terms"><img src="/images/learning/mathematics/math-sub-440-circle-terms.svg" width="1528" height="940" alt="Circle annotated with centre, radius, diameter, chord, arc, sector, segment and tangent." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Identify the key parts of a circle — Marlbridge Mathematics.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:math-sub-440-circle-terms -->
+
+
 | Term | Meaning |
 |---|---|
 | Centre | The fixed point, equidistant from every point on the circle |
@@ -58,6 +66,22 @@ Angle OAB = (180° − 112°) ÷ 2 = 34°
 ```
 
 ## The eight circle theorems (G8, Extension only)
+
+<!-- marlbridge-diagram:math-sub-440-eight-theorems -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/mathematics/math-sub-440-eight-theorems.svg" aria-label="Open full-size diagram: math-sub-440-eight-theorems"><img src="/images/learning/mathematics/math-sub-440-eight-theorems.svg" width="1528" height="940" alt="Circle geometry summary highlighting centre angle, same segment, cyclic quadrilateral, tangent, chord and alternate segment relationships." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Recognise each configuration to select the circle theorem — Marlbridge Mathematics.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:math-sub-440-eight-theorems -->
+
+
+<!-- marlbridge-diagram:math-final-440-circle-angle-at-centre -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/mathematics/math-final-440-circle-angle-at-centre.svg" aria-label="Open full-size diagram: math-final-440-circle-angle-at-centre"><img src="/images/learning/mathematics/math-final-440-circle-angle-at-centre.svg" width="1528" height="940" alt="Circle diagram shows angles at circumference and centre, then the isosceles triangle step to 37 degrees." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Circle diagram shows angles at circumference and centre, then the isosceles triangle step to 37 degrees.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:math-final-440-circle-angle-at-centre -->
+
 
 For each theorem, learn the reason as a short sentence you can write in words. A diagram alone is rarely enough when a question says "give a reason".
 
@@ -133,6 +157,14 @@ Angle BAC = 180° − 72° − 41° = 67°   (angles on a straight line at A: 72
 ```
 
 ## Geometrical reasoning and proof (G9, Extension only)
+
+<!-- marlbridge-diagram:math-sub-440-circle-proof -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/mathematics/math-sub-440-circle-proof.svg" aria-label="Open full-size diagram: math-sub-440-circle-proof"><img src="/images/learning/mathematics/math-sub-440-circle-proof.svg" width="1528" height="940" alt="Cyclic quadrilateral proof showing opposite angles sum to 180 degrees." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>A circle proof is a chain of statements and reasons — Marlbridge Mathematics.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:math-sub-440-circle-proof -->
+
 
 G9 asks you to use standard theorems to justify results. A proof is a chain: each line is a statement followed by the reason, and the last line is the thing you were asked to prove.
 

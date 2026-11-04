@@ -140,6 +140,14 @@ If the item is not put back, the second stage changes. The two stages are **not*
 
 ### Worked example 4: pens without replacement
 
+<!-- marlbridge-diagram:math-b43-oxfordaqa-igcse-pens-without-replacement-tree -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/mathematics/math-b43-oxfordaqa-igcse-pens-without-replacement-tree.svg" aria-label="Open full-size diagram: math-b43-oxfordaqa-igcse-pens-without-replacement-tree"><img src="/images/learning/mathematics/math-b43-oxfordaqa-igcse-pens-without-replacement-tree.svg" width="1600" height="1050" alt="Without replacement: a two-stage tree for coloured pens" loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Without replacement: a two-stage tree for coloured pens Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:math-b43-oxfordaqa-igcse-pens-without-replacement-tree -->
+
+
 A box holds 7 blue and 5 yellow pens. Two pens are drawn one after the other and kept out. Find the probability that
 
 (a) both are blue,
@@ -232,6 +240,14 @@ The order matters. P(Year 10 | walk) is 5/8, but P(walk | Year 10) = 25/55 = 5/1
 On a tree for dependent stages, the second-stage branches already show conditional probabilities. For example, the branch from "rain" to "late" carries P(late | rain).
 
 ### Worked example 7: weather and a late train
+
+<!-- marlbridge-diagram:math-b60-oxfordaqa-weather-late-conditional-tree -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/public/images/learning/mathematics/math-b60-oxfordaqa-weather-late-conditional-tree.svg" aria-label="Open full-size diagram: math-b60-oxfordaqa-weather-late-conditional-tree"><img src="/public/images/learning/mathematics/math-b60-oxfordaqa-weather-late-conditional-tree.svg" width="1528" height="940" alt="A two-stage probability tree shows rain/no rain then late/on-time outcomes; the two late paths total 0.22, so the conditional probability of rain given a late train is 15/22." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>A two-stage probability tree shows rain/no rain then late/on-time outcomes; the two late paths total 0.22, so the conditional probability of rain given a late train is 15/22.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:math-b60-oxfordaqa-weather-late-conditional-tree -->
+
 
 The probability of rain is 0.3. If it rains, the train is late with probability 0.5. If it does not rain, the train is late with probability 0.1.
 

@@ -169,9 +169,14 @@ there is no overall rotation.
 
 ### How racemates form
 
-A racemate forms when a reaction makes a new chiral centre from a **planar** carbon. The reagent can attack
-either face of the planar group, and each face is equally likely to be attacked, so equal amounts of the two
-enantiomers form.
+For an achiral starting system under achiral, non-enantioselective conditions, equivalent faces of a planar group can be attacked equally, giving equal amounts of two enantiomers when a new chiral centre forms. A chiral catalyst, reagent or pre-existing chiral environment can make the faces react differently, so planarity alone does not guarantee a racemate.
+
+<!-- marlbridge-diagram:chem-b12-carbonyl-face-racemate -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/chemistry/chem-b12-carbonyl-face-racemate.svg" aria-label="Open full-size diagram: two-face attack on ethanal and racemate formation"><img src="/images/learning/chemistry/chem-b12-carbonyl-face-racemate.svg" width="1528" height="870" alt="Cyanide attacks planar ethanal from either face under achiral conditions. The new carbon is attached to CH3, H, OH and CN, giving two mirror-image cyanohydrins in equal amounts and a racemate." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Equal face attack is expected only in an achiral, non-enantioselective environment where the two faces are equivalent.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:chem-b12-carbonyl-face-racemate -->
 
 **Nucleophilic addition to a carbonyl group (section 3.3.8).** The C=O carbon in an aldehyde or ketone is
 trigonal planar. In the reaction with KCN followed by dilute acid, the cyanide ion attacks the carbonyl

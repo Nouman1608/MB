@@ -57,6 +57,12 @@ The idea is to add or subtract the equations so that one letter disappears.
 6. Check both values in the equation you did not use in step 5.
 
 ### Worked example 1: add to eliminate
+<!-- marlbridge-diagram:maths-b28-simultaneous-equations-elimination-intersection -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/mathematics/maths-b28-simultaneous-equations-elimination-intersection.svg" aria-label="Open full-size diagram: maths-b28-simultaneous-equations-elimination-intersection"><img src="/images/learning/mathematics/maths-b28-simultaneous-equations-elimination-intersection.svg" width="1528" height="940" alt="Adding 4x+3y=26 and 2x−3y=4 eliminates y, giving 6x=30 and x=5. Substitution gives y=2; the graphed lines meet at (5,2)." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Opposite y coefficients cancel on addition. The graph confirms the common solution (5,2). Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:maths-b28-simultaneous-equations-elimination-intersection -->
 
 Solve 4x + 3y = 26 and 2x − 3y = 4.
 

@@ -145,6 +145,14 @@ If a body has an axis of symmetry, the centre of mass lies on it. For a rectangl
 
 ## Centre of mass of a system of particles
 
+<!-- marlbridge-diagram:math-b68-oxfordaqa-centre-mass-three-particles -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/public/images/learning/mathematics/math-b68-oxfordaqa-centre-mass-three-particles.svg" aria-label="Open full-size diagram: math-b68-oxfordaqa-centre-mass-three-particles"><img src="/public/images/learning/mathematics/math-b68-oxfordaqa-centre-mass-three-particles.svg" width="1528" height="940" alt="Coordinate plot of the three source particles, with their masses and the calculated centre of mass at (0.625, 0.5)." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Coordinate plot of the three source particles, with their masses and the calculated centre of mass at (0.625, 0.5).</figcaption>
+</figure>
+<!-- /marlbridge-diagram:math-b68-oxfordaqa-centre-mass-three-particles -->
+
+
 For particles of mass m₁, m₂, … at (x₁, y₁), (x₂, y₂), … the centre of mass (X, Y) satisfies:
 
 ```

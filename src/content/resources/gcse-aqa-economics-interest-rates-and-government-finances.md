@@ -81,6 +81,14 @@ the same economy at the same time.
 
 ## Worked example: calculating interest on savings
 
+<!-- marlbridge-diagram:economics-interest-rates-saving-borrowing -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/economics/economics-interest-rates-saving-borrowing.svg" aria-label="Open full-size diagram: economics-interest-rates-saving-borrowing"><img src="/images/learning/economics/economics-interest-rates-saving-borrowing.svg" width="1600" height="1050" alt="The lesson’s £1,800 at 5% example gives £90 simple annual interest; higher rates raise saving returns and borrowing costs for consumers and producers." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Interest rates: calculate the return and trace behaviour Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:economics-interest-rates-saving-borrowing -->
+
+
 A student deposits £1,800 in a savings account offering a 5% annual
 interest rate. Calculate the interest earned after one year, and
 explain how a rise in this interest rate might change the student's

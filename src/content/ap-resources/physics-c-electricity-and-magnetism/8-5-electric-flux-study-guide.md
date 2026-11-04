@@ -160,6 +160,13 @@ This is a **surface integral**. In this course you can turn it into an ordinary 
 
 The same steps work for a triangle or any shape whose strip length changes; the strip length then becomes a function of position.
 
+<!-- marlbridge-diagram:phys-gap-8-5-variable-field-flux-strips -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/physics/phys-gap-8-5-variable-field-flux-strips.svg" aria-label="Open full-size diagram: flux through a rectangle in a variable field"><img src="/images/learning/physics/phys-gap-8-5-variable-field-flux-strips.svg" width="1440" height="820" alt="A rectangle is divided into horizontal strips of area a dy. A normal field E(y)=by squared grows with height, so strip fluxes add to the surface integral." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Strip areas turn the variable-field surface integral into a one-dimensional integral. — Marlbridge Physics.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:phys-gap-8-5-variable-field-flux-strips -->
+
 ## Worked example 2: a field that grows across the surface
 
 **Question.** A rectangle lies in the xy-plane, with 0 ≤ x ≤ a and 0 ≤ y ≤ h. Its area vector is +k̂. In this region the field is E = b y² k̂, where b is a positive constant. (a) Find the flux in terms of a, b and h. (b) Evaluate it for b = 2.5 × 10⁴ N/(C·m²), a = 0.30 m and h = 0.20 m.

@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="720" viewBox="0 0 1280 720" role="img" aria-labelledby="title desc">
+  <title id="title">Saturated and unsaturated fatty acids: find the C=C bond</title>
+  <desc id="desc">Two side-by-side schematic fatty-acid chains. Stearic acid is saturated, with an unbranched chain containing only carbon-carbon single bonds and formula C18H36O2. Cis-oleic acid is monounsaturated, with one carbon-carbon double bond that creates a bend; its formula is C18H34O2. The chain segments are simplified, not drawn to scale.</desc>
+  <rect width="1280" height="720" fill="#F3F6F6"/>
+  <text x="60" y="60" font-family="Arial,sans-serif" font-size="34" font-weight="700" fill="#10233F">Fatty acid R-groups: saturated or unsaturated?</text>
+  <text x="62" y="96" font-family="Arial,sans-serif" font-size="18" fill="#5B6D80">Look for a carbon–carbon double bond in the hydrocarbon chain.</text>
+  <rect x="50" y="130" width="570" height="480" rx="18" fill="#FFFFFF" stroke="#D3DCE2" stroke-width="2"/>
+  <rect x="660" y="130" width="570" height="480" rx="18" fill="#FFFFFF" stroke="#D3DCE2" stroke-width="2"/>
+  <text x="335" y="176" text-anchor="middle" font-family="Arial,sans-serif" font-size="22" font-weight="700" fill="#315F86">SATURATED — STEARIC ACID (18:0)</text>
+  <text x="945" y="176" text-anchor="middle" font-family="Arial,sans-serif" font-size="22" font-weight="700" fill="#397D64">MONOUNSATURATED — cis-OLEIC ACID (18:1)</text>
+  <text x="90" y="220" font-family="Arial,sans-serif" font-size="17" fill="#20314B">CH₃–(CH₂)₁₆–COOH</text>
+  <text x="430" y="220" font-family="Arial,sans-serif" font-size="17" fill="#20314B">C₁₈H₃₆O₂</text>
+  <text x="700" y="220" font-family="Arial,sans-serif" font-size="17" fill="#20314B">cis-CH₃–(CH₂)₇–CH=CH–(CH₂)₇–COOH</text>
+  <text x="700" y="249" font-family="Arial,sans-serif" font-size="17" fill="#20314B">C₁₈H₃₄O₂</text>
+  <text x="90" y="282" font-family="Arial,sans-serif" font-size="15" fill="#5B6D80">Schematic chain segment (carbons at line ends and corners)</text>
+  <text x="700" y="282" font-family="Arial,sans-serif" font-size="15" fill="#5B6D80">Schematic cis double bond; simplified chain segment</text>
+  <path d="M105 365 L145 335 L185 365 L225 335 L265 365 L305 335 L345 365 L385 335 L425 365 L465 335 L505 365 L545 335" fill="none" stroke="#315F86" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="90" y="404" font-family="Arial,sans-serif" font-size="15" fill="#315F86">CH₃ end</text>
+  <text x="510" y="404" font-family="Arial,sans-serif" font-size="15" fill="#315F86">COOH end</text>
+  <text x="335" y="464" text-anchor="middle" font-family="Arial,sans-serif" font-size="20" font-weight="700" fill="#10233F">All C–C bonds are single.</text>
+  <text x="335" y="497" text-anchor="middle" font-family="Arial,sans-serif" font-size="16" fill="#5B6D80">The chain carries the maximum number of hydrogen atoms.</text>
+  <text x="335" y="548" text-anchor="middle" font-family="Arial,sans-serif" font-size="16" fill="#20314B">No C=C in the chain → saturated.</text>
+  <path d="M710 375 L755 340 L800 375 L845 340 L890 375 L925 348" fill="none" stroke="#397D64" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <line x1="925" y1="348" x2="985" y2="348" stroke="#C44949" stroke-width="5"/>
+  <line x1="925" y1="360" x2="985" y2="360" stroke="#C44949" stroke-width="5"/>
+  <path d="M985 348 L1030 375 L1075 340 L1120 375 L1165 340" fill="none" stroke="#397D64" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="955" y="327" text-anchor="middle" font-family="Arial,sans-serif" font-size="16" font-weight="700" fill="#C44949">C=C</text>
+  <text x="955" y="407" text-anchor="middle" font-family="Arial,sans-serif" font-size="15" fill="#C44949">one double bond</text>
+  <text x="945" y="464" text-anchor="middle" font-family="Arial,sans-serif" font-size="20" font-weight="700" fill="#10233F">One C=C means 2 fewer H atoms.</text>
+  <text x="945" y="497" text-anchor="middle" font-family="Arial,sans-serif" font-size="16" fill="#5B6D80">The cis bond bends the chain at that point.</text>
+  <text x="945" y="548" text-anchor="middle" font-family="Arial,sans-serif" font-size="16" fill="#20314B">At least one C=C → unsaturated.</text>
+  <text x="640" y="646" text-anchor="middle" font-family="Arial,sans-serif" font-size="14" letter-spacing="3" fill="#D3DCE2">MARLBRIDGE STUDY RESOURCE</text>
+  <line x1="52" y1="668" x2="1228" y2="668" stroke="#C9A227" stroke-width="2"/>
+  <text x="60" y="698" font-family="Arial,sans-serif" font-size="13" font-weight="700" fill="#10233F">MARLBRIDGE • BIOLOGY</text>
+  <text x="1218" y="698" text-anchor="end" font-family="Arial,sans-serif" font-size="13" font-weight="700" fill="#10233F">STRUCTURE DIAGRAM • SCHEMATIC, NOT TO SCALE</text>
+</svg>

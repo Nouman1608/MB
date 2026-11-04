@@ -81,6 +81,14 @@ changes reported profit — this comparison is a recurring exam angle.
 
 ## Worked example: double entry for a simple transaction
 
+<!-- marlbridge-diagram:accounting-credit-sale-double-entry -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/accounting/accounting-credit-sale-double-entry.svg" aria-label="Open full-size diagram: accounting-credit-sale-double-entry"><img src="/images/learning/accounting/accounting-credit-sale-double-entry.svg" width="1600" height="1050" alt="Balanced entries for a £500 credit service sale and later receipt: first debit receivables and credit sales, then debit cash and credit receivables." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>A credit service sale creates a receivable; the later receipt converts it to cash without recording revenue again. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:accounting-credit-sale-double-entry -->
+
+
 The double entry principle -- every transaction affects at least two
 accounts, with equal debits and credits -- is easiest to fix in memory
 through a concrete example. A business buys inventory for $500 cash:

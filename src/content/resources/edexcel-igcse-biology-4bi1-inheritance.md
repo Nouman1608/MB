@@ -45,7 +45,7 @@ Use it with the [Inheritance revision notes](/resources/edexcel-igcse-biology-4b
 
 ## Genes, chromosomes and the genome (3.14–3.15)
 
-The **genome** is the entire DNA of an organism. A **gene** is a section of a DNA molecule that codes for a specific protein. Each **chromosome** is one long DNA molecule, and genes sit at positions along it. Chromosomes are found in the **nucleus**.
+The **genome** is the entire DNA of an organism, including organelle DNA where present. A **gene** is a DNA sequence containing information used to produce a functional RNA or a protein product. For the protein-coding examples in this course, the gene specifies the amino-acid sequence of a polypeptide. Each unreplicated nuclear **chromosome** contains one long DNA molecule, with genes at positions along it. Eukaryotic nuclear chromosomes are in the **nucleus**; mitochondria and chloroplasts also contain DNA.
 
 ## DNA and RNA (3.16B–3.17B) -- Paper 2 only
 
@@ -75,8 +75,15 @@ DNA stays in the nucleus, but proteins are made on **ribosomes** in the cytoplas
 
 **Translation (at the ribosome)**
 
+<!-- marlbridge-diagram:bio-b18-edexcel-4bi1-translation-ribosome-codons -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/biology/bio-b18-edexcel-4bi1-translation-ribosome-codons.svg" aria-label="Open full-size diagram: translation at a ribosome"><img src="/images/learning/biology/bio-b18-edexcel-4bi1-translation-ribosome-codons.svg" width="1600" height="1000" alt="Translation at a ribosome: mRNA codons pair with tRNA anticodons carrying amino acids as the ribosome moves 5 prime to 3 prime." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Translation: codons, anticodons and the growing amino-acid chain.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:bio-b18-edexcel-4bi1-translation-ribosome-codons -->
+
 1. The mRNA attaches to a ribosome.
-2. The ribosome reads the mRNA three bases at a time. Each triplet of bases on the mRNA is a **codon**, which codes for one amino acid.
+2. The ribosome reads the mRNA three bases at a time. Each triplet is a **codon**; sense codons specify an amino acid, while stop codons signal termination and do not specify an amino acid.
 3. **Transfer RNA (tRNA)** molecules each carry a specific amino acid and have an **anticodon** of three bases, complementary to one codon.
 4. The anticodon pairs with its codon, bringing the correct amino acid into place.
 5. Neighbouring amino acids join, and the ribosome moves along to the next codon. The chain of amino acids folds to make the protein.
@@ -89,25 +96,25 @@ mRNA codons:      A U G   C C U   A A G    (T on DNA → A; A on DNA → U)
 tRNA anticodons:  U A C   G G A   U U C    (complementary to each codon)
 ```
 
-Three codons, so this section codes for **three amino acids**. Notice that the anticodons have the same sequence as the DNA template, but with U in place of T.
+These three **sense codons** specify three amino acids. A stop codon would end translation and would not bring in an amino acid on a tRNA anticodon. Notice that the anticodons have the same sequence as the DNA template in this example, but with U in place of T.
 
 ## Alleles and the key terms (3.19–3.21B)
 
-Genes exist in alternative forms called **alleles**. Different alleles give rise to differences in inherited characteristics. Body cells carry two alleles of each gene.
+Genes exist in alternative forms called **alleles**. Different alleles give rise to differences in inherited characteristics. In the simplified diploid autosomal model used for these examples, body cells carry two alleles at each locus. Other ploidy and chromosome arrangements can differ.
 
 | Term | Meaning |
 |---|---|
 | Genotype | The alleles an organism has, e.g. Bb |
 | Phenotype | The characteristic that is expressed, e.g. black fur |
 | Dominant | An allele expressed in the phenotype even when only one copy is present |
-| Recessive | An allele expressed only when two copies are present (no dominant allele) |
+| Recessive | In a specified diploid, complete-dominance model, an allele expressed in the homozygote when no dominant allele is present |
 | Homozygous | Two identical alleles, e.g. BB or bb |
 | Heterozygous | Two different alleles, e.g. Bb |
 | Codominance (Paper 2 only) | Both alleles in a heterozygote are fully expressed in the phenotype |
 
 ### Codominance -- Paper 2 only
 
-In a codominant heterozygote, neither allele masks the other. Both show. A standard example is coat colour in shorthorn cattle: a red parent (CR CR) crossed with a white parent (CW CW) gives roan calves (CR CW), which have both red hairs and white hairs.
+In a codominant heterozygote, neither allele masks the other. Both show. A standard example is coat colour in shorthorn cattle: at this single autosomal locus, a red parent (CR CR) crossed with a white parent (CW CW) gives roan calves (CR CW), which have both red hairs and white hairs. This model does not mean that all loci or traits follow codominance.
 
 **Worked example.** Two roan cattle are crossed.
 
@@ -127,7 +134,7 @@ The phenotype ratio is **1 : 2 : 1**, matching the genotype ratio, because each 
 
 ## Polygenic inheritance (3.22)
 
-Most phenotypic features are **polygenic**: they result from several genes acting together, not a single gene. Human height and skin colour are examples. Because many alleles add their effects, these features show a range of values rather than a few clear-cut types.
+Many phenotypic features are **polygenic**, with several genes contributing. Human height and skin pigmentation are examples, and environmental factors also affect their outcomes. Multiple alleles can produce a range of values, especially when effects are approximately additive; gene interactions and threshold effects mean polygenic traits are not always continuous or simply additive.
 
 ## Monohybrid crosses and probabilities (3.23, 3.25)
 
@@ -159,19 +166,27 @@ Give a probability as a fraction, decimal, percentage or "1 in 4"; a ratio such 
 
 ## Family pedigrees (3.24)
 
+<!-- marlbridge-diagram:bio-b29-edexcel-4bi1-family-pedigree-recessive -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/biology/bio-b29-edexcel-4bi1-family-pedigree-recessive.svg" aria-label="Open full-size diagram: bio-b29-edexcel-4bi1-family-pedigree-recessive"><img src="/images/learning/biology/bio-b29-edexcel-4bi1-family-pedigree-recessive.svg" width="1528" height="940" alt="Family pedigree: infer a recessive allele from one family" loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Family pedigree: infer a recessive allele from one family Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:bio-b29-edexcel-4bi1-family-pedigree-recessive -->
+
+
 A pedigree shows a characteristic through generations. Squares are males, circles are females, a shaded symbol is affected, and a horizontal line joins parents.
 
-**Worked example.** In a family, two unaffected parents (I-1 and I-2) have three children: II-1, an affected daughter; II-2, an unaffected son; II-3, an unaffected daughter.
+**Worked example (simplified model).** Assume one autosomal locus, complete penetrance, and no new mutation. In a family, two unaffected parents (I-1 and I-2) have three children: II-1, an affected daughter; II-2, an unaffected son; II-3, an unaffected daughter.
 
-1. **Is the allele dominant or recessive?** Two unaffected parents have an affected child. If the allele were dominant, at least one parent would be affected. So it is **recessive**.
+1. **Is the allele dominant or recessive in this model?** Two unaffected parents have an affected child. Under the stated assumptions, this supports a **recessive** allele; the inference is not universal if penetrance is incomplete, a new variant arose, or the trait is not the assumed single autosomal locus.
 2. **Parents' genotypes.** Let A be the dominant (unaffected) allele and a the recessive allele. II-1 is aa, so she received an a from each parent. Both parents are unaffected, so both are **Aa**.
 3. **Chance their next child is affected.** Aa × Aa gives 1 AA : 2 Aa : 1 aa, so the probability is **1/4**.
 
-Key clue: **two unaffected parents with an affected child means recessive**; two affected parents with an unaffected child means dominant.
+Key clue under a simple single-locus, complete-penetrance model: two unaffected parents with an affected child support recessive inheritance; two affected parents with an unaffected child support dominant inheritance.
 
 ## Sex determination (3.26–3.27)
 
-Sex is controlled by **one pair of chromosomes**: **XX in a female, XY in a male**. All eggs carry an X. Half of the sperm carry an X and half carry a Y, so the sperm decides the sex at fertilisation.
+**Simplified typical human chromosome model:** an XX egg-producing parent contributes an X chromosome, while an XY sperm-producing parent typically contributes an X- or Y-bearing sperm. The Punnett square below gives a 1/2 probability for each chromosome combination in this model. Human sex development is more varied than this classroom model; chromosome patterns and development can vary. The model describes chromosome contribution, not parental choice or blame.
 
 ```
 Parents:     female XX   ×   male XY
@@ -181,16 +196,23 @@ Gametes:     X, X            X, Y
    X         XX       XY
    X         XX       XY
 
-Offspring: 2 XX (female) : 2 XY (male)
+Offspring: 2 XX : 2 XY (chromosome combinations in this model)
 ```
 
-Probability of a boy = **1/2** at every fertilisation.
+Probability of an XY chromosome combination in this model = **1/2** at each fertilisation.
 
 ## Mitosis, meiosis and fertilisation (3.28–3.32)
 
-**Mitosis** divides a diploid cell into **two cells with identical sets of chromosomes**. It happens in **growth, repair, cloning and asexual reproduction**.
+<!-- marlbridge-diagram:bio-b29-edexcel-4bi1-mitosis-meiosis-chromosome-sets -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/biology/bio-b29-edexcel-4bi1-mitosis-meiosis-chromosome-sets.svg" aria-label="Open full-size diagram: compare mitosis and meiosis chromosome sets"><img src="/images/learning/biology/bio-b29-edexcel-4bi1-mitosis-meiosis-chromosome-sets.svg" width="1528" height="871" alt="Chromosome-set model comparing mitosis, which maintains chromosome number, with meiosis, which halves it in the standard diploid example." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Chromosome-number outcomes in the simplified diploid model.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:bio-b29-edexcel-4bi1-mitosis-meiosis-chromosome-sets -->
 
-**Meiosis** divides a cell into **four cells, each with half the number of chromosomes**. These are **haploid gametes**, and they are **genetically different** from each other.
+In the standard diploid body-cell model, **mitosis** divides one cell into **two cells with the same chromosome set** (apart from mutations). Mitosis can also occur in haploid cells. It supports **growth, repair and asexual reproduction**.
+
+In the standard animal model, **meiosis** has two divisions and produces four haploid products from one diploid cell, with chromosome number halved. These products are usually genetically varied. The four-functional-gamete outcome is not universal: plant meiosis produces spores, and animal oogenesis produces one large ovum plus polar bodies.
 
 **Random fertilisation**: any of many genetically different sperm can fuse with any genetically different egg, producing **genetic variation** among offspring of the same parents.
 
@@ -210,11 +232,18 @@ Variation within a species can be:
 - **environmental** -- e.g. a scar, or a language spoken
 - **a combination of both** -- e.g. height, where alleles set a potential range and diet affects where in that range a person ends up
 
-A **mutation** is a **rare, random change in genetic material that can be inherited**.
+A **mutation** is a change in genetic material. Mutations arise without being directed toward an adaptive need, although mutation rates differ across DNA sites and can change with conditions. A mutation in a **germ cell or its precursor** can be inherited; a mutation confined to a **somatic cell** is generally not passed to offspring.
 
-**Paper 2 only (3.35B–3.37B).** A change in the DNA base sequence can change a codon, so a different amino acid may be placed in the protein. The protein may fold into a different shape and work differently, which can change the phenotype. **Most mutations have no effect** on the phenotype, **some have a small effect**, and **rarely** do they have a **significant** effect. The rate of mutation is increased by **ionising radiation** (for example gamma rays, X-rays and ultraviolet rays) and by some **chemical mutagens** (for example chemicals in tobacco).
+**Paper 2 only (3.35B–3.37B).** A change in the DNA base sequence can change a codon, so a different amino acid may be placed in the protein. The protein may fold into a different shape and work differently, which can change the phenotype. **Most mutations have no effect** on the phenotype, **some have a small effect**, and **rarely** do they have a **significant** effect. The rate of mutation can be increased by **ionising radiation**, such as gamma rays and X-rays, by **ultraviolet radiation**, and by some **chemical mutagens**, such as chemicals in tobacco. The ultraviolet wavelengths normally discussed in this course are generally classed as non-ionising, but can still damage DNA.
 
 ## Natural selection and antibiotic resistance (3.38–3.39)
+
+<!-- marlbridge-diagram:bio-b29-edexcel-4bi1-natural-selection-antibiotic-resistance -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/biology/bio-b29-edexcel-4bi1-natural-selection-antibiotic-resistance.svg" aria-label="Open full-size diagram: natural selection and antibiotic resistance"><img src="/images/learning/biology/bio-b29-edexcel-4bi1-natural-selection-antibiotic-resistance.svg" width="1528" height="1515" alt="Simplified natural selection model: resistant bacteria are already present, susceptible bacteria are selected against, and resistance can increase across generations." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>A simplified selection pathway. Other mutation and gene-transfer routes can also contribute to resistance.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:bio-b29-edexcel-4bi1-natural-selection-antibiotic-resistance -->
 
 Darwin's theory of **evolution by natural selection**, in steps:
 
@@ -224,17 +253,17 @@ Darwin's theory of **evolution by natural selection**, in steps:
 4. They **pass on their alleles** to their offspring.
 5. Over many generations, the **advantageous allele becomes more common** in the population.
 
-**Antibiotic resistance** follows the same steps. A random mutation may make a bacterium resistant. When an antibiotic is used, non-resistant bacteria die, but resistant ones survive and divide, so the proportion of resistant bacteria rises. Infections caused by these bacteria are **difficult to control** because the antibiotic no longer kills them.
+**One route to antibiotic resistance** is selection of a pre-existing heritable variant: when an antibiotic is used, susceptible bacteria are reduced while resistant bacteria may survive and reproduce, increasing the resistant proportion. This is a simplified selection example, not the only origin or spread of resistance: stress can alter mutation rates, and resistance genes can move between bacteria by horizontal gene transfer. Resistance does not guarantee survival of every bacterium or treatment failure in every case; infections with resistant strains can be harder to treat.
 
 ## Common errors
 
 - Writing gametes with two alleles (Bb) instead of one (B or b).
 - Using different letters for the two alleles (T and s) instead of one letter in two cases.
 - Giving a ratio when the question asks for a probability.
-- Saying the mother decides the sex of a child. Eggs all carry X; the sperm decides.
-- Saying the antibiotic *causes* the mutation. The mutation was already there; the antibiotic selects it.
+- Treating the simplified XX/XY cross as a complete account of sex development or as assigning choice/blame to a parent.
+- In the simplified selection example, antibiotics select for heritable variants; do not assume this is the only source or spread route, since stress can alter mutation rates and resistance genes can spread horizontally.
 - Saying all mutations are harmful. Most have no effect.
-- Mixing up the products: mitosis gives two identical diploid cells; meiosis gives four different haploid cells.
+- Mixing up the products in the standard diploid animal model: mitosis maintains chromosome number; meiosis halves it and commonly yields genetically varied haploid products. Outcomes differ in other life cycles and in animal oogenesis.
 
 ## Official syllabus
 

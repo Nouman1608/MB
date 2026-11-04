@@ -114,6 +114,14 @@ Topic 5.
 
 ## Worked example: fraction of an amount versus fraction arithmetic
 
+<!-- marlbridge-diagram:math-b79-ocr-fraction-of-amount-versus-addition -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/public/images/learning/mathematics/math-b79-ocr-fraction-of-amount-versus-addition.svg" aria-label="Open full-size diagram: math-b79-ocr-fraction-of-amount-versus-addition"><img src="/public/images/learning/mathematics/math-b79-ocr-fraction-of-amount-versus-addition.svg" width="1528" height="940" alt="Side-by-side worked examples distinguish scaling an amount by a fraction from adding fractions using a common denominator." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Side-by-side worked examples distinguish scaling an amount by a fraction from adding fractions using a common denominator.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:math-b79-ocr-fraction-of-amount-versus-addition -->
+
+
 It is worth distinguishing two skills that both fall under 2.1 but are
 tested differently. Finding a fraction *of* a quantity -- for example,
 three-fifths of £45 -- is a division-then-multiplication calculation:

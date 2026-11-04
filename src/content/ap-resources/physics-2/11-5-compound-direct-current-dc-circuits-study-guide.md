@@ -128,6 +128,8 @@ A compound circuit mixes series and parallel connections. Reduce it in stages:
 3. Find the total current from the source: I = ℰ/R_eq.
 4. Work back out through your redrawn diagrams. Series parts share the same current; parallel parts share the same potential difference. Use ΔV = IR at each stage.
 
+**Check the balances.** At every junction, total current entering must equal total current leaving (charge conservation). Around each closed loop, the signed potential changes must add to zero (energy conservation). For an ideal source and resistors, the source power supplied also equals the total resistor power dissipated. Include internal resistance in the resistor total when the battery is not ideal.
+
 ## Real wires and real batteries
 
 ### Wires

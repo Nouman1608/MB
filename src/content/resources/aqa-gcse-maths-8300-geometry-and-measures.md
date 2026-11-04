@@ -109,7 +109,14 @@ Parts of a circle: centre, radius, chord, diameter, circumference, tangent, arc,
 7. The perpendicular from the centre to a chord bisects the chord.
 8. Alternate segment theorem: the angle between a tangent and a chord equals the angle in the alternate segment.
 
-**Worked example.** A, B and C lie on a circle with centre O. Angle AOC = 118°, and B is on the major arc. Angle ABC = 118° ÷ 2 = **59°**, because the angle at the centre is twice the angle at the circumference.
+**Worked example.** A, B and C lie on a circle with centre O. Angle AOC = 118°, and B is on the major arc.
+
+<!-- marlbridge-diagram:maths-b14-circle-theorem-centre-circumference -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/mathematics/maths-b14-circle-theorem-centre-circumference.svg" aria-label="Open full-size diagram: maths-b14-circle-theorem-centre-circumference"><img src="/images/learning/mathematics/maths-b14-circle-theorem-centre-circumference.svg" width="1600" height="1050" alt="Shows the source example: central angle AOC is 118°, so angle ABC at the circumference subtending the same minor arc is 59°." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Shows the source example: central angle AOC is 118°, so angle ABC at the circumference subtending the same minor arc is 59°. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:maths-b14-circle-theorem-centre-circumference --> Angle ABC = 118° ÷ 2 = **59°**, because the angle at the centre is twice the angle at the circumference.
 
 ## 3D shapes, measures and bearings (G12–G15)
 

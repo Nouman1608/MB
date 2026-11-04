@@ -99,6 +99,14 @@ answer: 7a² − 6ab + 3
 
 ## Expanding products
 
+<!-- marlbridge-diagram:maths-o-level-algebraic-manipulation-map -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/mathematics/maths-o-level-algebraic-manipulation-map.svg" aria-label="Open full-size diagram: maths-o-level-algebraic-manipulation-map"><img src="/images/learning/mathematics/maths-o-level-algebraic-manipulation-map.svg" width="1600" height="1050" alt="Four examples drawn from the Cambridge O Level Algebraic Manipulation guide show each operation and its result." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Four examples drawn from the Cambridge O Level Algebraic Manipulation guide show each operation and its result. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:maths-o-level-algebraic-manipulation-map -->
+
+
 Expanding means multiplying out brackets. Multiply every term inside the
 bracket by whatever sits outside it — and when two brackets are multiplied
 together, every term in the first multiplies every term in the second.

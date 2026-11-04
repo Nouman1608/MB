@@ -95,6 +95,14 @@ one topic -- they are meant to be argued together.
 
 ## Market structure and decision-making power
 
+<!-- marlbridge-diagram:business-ocr-a-level-market-structure-power -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/business/business-ocr-a-level-market-structure-power.svg" aria-label="Open full-size diagram: business-ocr-a-level-market-structure-power"><img src="/images/learning/business/business-ocr-a-level-market-structure-power.svg" width="1600" height="1050" alt="A qualitative market-structure continuum connects the named market types to decision-making freedom and case-based assessment of entry and exit barriers." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>A qualitative market-structure continuum connects the named market types to decision-making freedom and case-based assessment of entry and exit barriers. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:business-ocr-a-level-market-structure-power -->
+
+
 Monopolistic competition, oligopoly and monopoly are the three market
 structures named in the specification, and each is linked to a
 business's decision-making power and the barriers to entry and exit

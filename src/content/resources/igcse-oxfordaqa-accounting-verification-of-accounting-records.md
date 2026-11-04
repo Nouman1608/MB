@@ -101,6 +101,13 @@ account is also understated by $200. Sales is a credit balance and
 purchases a debit balance, so the credit side and the debit side of the
 trial balance are both $200 too low and still agree.
 
+<!-- marlbridge-diagram:ac-b16-igcse-compensating-error-trial-balance -->
+<figure class="study-guide-figure">
+  <img src="/images/learning/accounting/ac-b16-igcse-compensating-error-trial-balance.svg" alt="Sales credit and purchases debit are each understated by $200. Both trial balance totals fall by $200 and still agree; in this specific example the gross profit errors cancel." loading="lazy" />
+  <figcaption>A balanced trial balance does not prove that every transaction is correct.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:ac-b16-igcse-compensating-error-trial-balance -->
+
 ```
 Effect on trial balance: no imbalance shown -- debits still equal
                           credits, because both errors are the same

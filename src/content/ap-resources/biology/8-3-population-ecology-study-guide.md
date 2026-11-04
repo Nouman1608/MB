@@ -1,7 +1,7 @@
 ---
 resourceId: "mb-ap-bio-8.3-study-guide"
 title: "Population Ecology: Study Guide (Biology 8.3)"
-description: "Learn what a population is, how births, deaths and population size set its growth rate, how to use dN/dt = B − D and dN/dt = rₘₐₓN, and how to graph exponential growth."
+description: "Learn what a population is, how births, deaths and population size set its growth rate, how to use dN/dt = B − D and dN/dt = rN for exponential growth, and how to graph population data."
 course: "biology"
 unit: 8
 topics: ["8.3"]
@@ -14,7 +14,7 @@ learningObjectives:
   - "Define a population and describe how its members interact with each other and with their environment"
   - "Explain how birth rate, death rate and population size together set the rate of population growth"
   - "Use dN/dt = B − D and per capita rates to calculate and compare population growth"
-  - "Describe exponential growth, use dN/dt = rₘₐₓN and say when it applies"
+  - "Describe exponential growth, use dN/dt = rN and say when a constant per-capita rate is a reasonable model"
   - "Link adaptations for obtaining and using energy and matter to births and deaths"
   - "Construct a suitable graph of population data, including a log scale and error bars where appropriate"
 skills: ["1", "2", "4", "5", "6"]
@@ -29,7 +29,7 @@ sources: ["ced-biology", "page-biology"]
 keyPoints:
   - "A population is all the individuals of one species in one area that interact with each other and with their environment."
   - "Population growth depends on birth rate, death rate and population size: dN/dt = B − D, where B and D are births and deaths per unit time."
-  - "Per capita growth rate r = (B − D) ÷ N. With no limits on reproduction, r stays at its maximum, rₘₐₓ, and growth is exponential: dN/dt = rₘₐₓN."
+  - "Per capita growth rate r = (B − D) ÷ N. Exponential growth occurs when r is positive and approximately constant over the modelled interval: dN/dt = rN. Under ideal unconstrained conditions, r may approach rₘₐₓ."
   - "In exponential growth the population adds more individuals each time step, but the per capita rate and the doubling time stay constant. On a log scale the curve becomes a straight line."
   - "Births and deaths depend on how well organisms obtain and use energy and matter, so adaptations for feeding and energy use shape population growth."
 faqs:
@@ -128,23 +128,23 @@ So a change in the environment that changes food supply changes B and D, and thr
 
 ## Exponential growth
 
-Imagine a population with **no constraints on reproduction**: plenty of food, space and water, no build-up of waste and few predators or diseases. Each individual then reproduces at its highest possible rate. The per capita growth rate takes its largest value, called **rₘₐₓ** (the maximum per capita growth rate), and stays constant. The growth equation becomes:
+In the exponential model, the **per capita growth rate r is constant and positive** over the time interval being modelled. Under ideal, unconstrained conditions this rate may approach the population’s **rₘₐₓ** (maximum per capita growth rate), but an observed exponential pattern alone does not show that the population is at its physiological maximum. The growth equation is:
 
-**dN/dt = rₘₐₓN**
+**dN/dt = rN**
 
 This is **exponential growth**. Read the equation carefully:
 
-- rₘₐₓ is constant, so dN/dt is **proportional to N**. Double the population and you double the number added per unit time.
+- r is constant, so dN/dt is **proportional to N**. Double the population and you double the number added per unit time.
 - As N grows, dN/dt grows too, so the curve of N against time gets steeper and steeper. Its shape is often called a **J-shaped curve**.
 - Because the per capita rate is constant, the population takes the **same time to double**, whatever its size. A culture that doubles every 2 hours goes 1 → 2 → 4 → 8 → 16 units in 8 hours.
 
-Exponential growth happens when resources are, for a while, far more than the population needs. Examples include bacteria or yeast added to fresh nutrient medium, a species reaching a new habitat with no competitors, or a population recovering after a disaster. It **cannot continue forever**: resources run short. What happens then is the subject of the next topic.
+Exponential growth can describe a period when constraints have little effect and r remains approximately constant; abundant resources can help create those conditions but do not prove that r equals rₘₐₓ. Examples include bacteria or yeast in fresh nutrient medium or a population temporarily recovering after a disturbance. Exponential growth is a model for a bounded interval: constraints or changing conditions eventually make constant r a poor assumption.
 
 ## Representing population data on graphs
 
 Population data are usually counts at different times, so the natural choice is a **line graph** (or a scatter plot of points joined by a line or trend line):
 
-1. **Type of graph.** Time is continuous, so plot N against time as points joined by lines. Do not use a bar chart for a time series.
+1. **Type of graph.** Time is ordered and often continuous, so plot N against time as points joined by lines when showing a trend. A bar chart can suit separate, discrete counts when the task is to compare categories or distinct time points; choose the display that matches the question.
 2. **Axes and units.** Time on the x-axis (the independent variable), population size or density on the y-axis, each with a label and a unit, for example "Cell density / 10⁴ cells mL⁻¹". Add a legend if there is more than one data set.
 3. **Scaling.** Choose even steps that use most of the grid. For exponential data, a **log scale** on the y-axis (1, 10, 100, …) gives equal spacing to equal ratios, so steady doubling plots as a **straight line**.
 4. **Plotting.** Plot means. If you have repeated counts, add **error bars** (for example, showing the range, or a confidence interval as in later topics).
@@ -210,7 +210,7 @@ Population data are usually counts at different times, so the natural choice is 
 <text x="18" y="160" text-anchor="middle" font-size="13" fill="#1d2b44" transform="rotate(-90 18 160)">Cell density / 10⁴ cells mL⁻¹</text>
 <text x="338" y="165" text-anchor="middle" font-size="13" fill="#1d2b44" transform="rotate(-90 338 165)">Cell density / 10⁴ cells mL⁻¹ (log)</text>
 </svg>
-<figcaption>Figure 2. Fictional yeast data from Worked example 2. Panel A (circles, solid line) shows the J shape on a linear axis. Panel B (squares, dashed trend line) shows the same means on a log axis, where steady doubling gives a straight line. Vertical bars show the range of three flasks.</figcaption>
+<figcaption>Figure 2. Fictional yeast data from Worked example 2. Panel A (circles, solid line) shows the J shape on a linear axis. Panel B (squares, dashed trend line) shows the same means on a log axis, where steady doubling gives a straight line. The table supplies the range of three flasks at each time. Those ranges should be drawn as explicitly labelled error bars when making the uncertainty plot; they are not shown in this original figure.</figcaption>
 </figure>
 
 ## Worked example 1: births, deaths and growth in a beetle population
@@ -274,7 +274,7 @@ Each ratio is close to 2, so the culture doubles about every 2 hours. Over 10 h 
 2. Mean density over the interval = (15.9 + 32.3) ÷ 2 = 24.1 × 10⁴ cells mL⁻¹.
 3. Per capita growth rate ≈ 8.2 ÷ 24.1 = **0.34 per hour**.
 
-**Interpretation.** Between 0 and 2 h, dN/dt was only 0.55 × 10⁴ cells mL⁻¹ h⁻¹, but the per capita rate was similar (0.55 ÷ 1.55 ≈ 0.36 per hour). The absolute rate rose about 15-fold while the per capita rate stayed roughly constant: exactly what dN/dt = rₘₐₓN predicts. The sugar was plentiful, so rₘₐₓ ≈ 0.34–0.36 per hour for these conditions. With only three flasks and 10 hours of data, this is support, not proof; a longer run would show growth slowing as sugar runs out.
+**Interpretation.** Between 0 and 2 h, dN/dt was only 0.55 × 10⁴ cells mL⁻¹ h⁻¹, but the per capita rate was similar (0.55 ÷ 1.55 ≈ 0.36 per hour). The absolute rate rose about 15-fold while the per capita rate stayed roughly constant: consistent with dN/dt = rN over this interval. The estimated r of about 0.34–0.36 per hour describes these culture conditions; it does not by itself establish the physiological maximum rₘₐₓ. With only three flasks and 10 hours of data, this supports an approximately constant per-capita rate over the observed interval, not indefinite growth.
 
 ## Common misconceptions
 
@@ -285,7 +285,7 @@ Each ratio is close to 2, so the culture doubles about every 2 hours. Over 10 h 
 - **"Deaths stop a population growing."** The population still grows as long as B > D. It only shrinks when deaths outnumber births.
 - **"All the animals in a forest are a population."** Several species together form a community. A population is one species.
 - **"A straight line on a log graph means linear growth."** On a log scale, a straight line means steady multiplication, which is exponential growth.
-- **"Populations can grow exponentially forever."** Exponential growth needs unlimited resources. Sooner or later, food, space or other limits slow it down.
+- **"Populations can grow exponentially forever."** Exponential growth assumes a constant per-capita rate over the modelled interval. Resource limits often change that rate, as can other environmental changes.
 
 ## Where this leads
 

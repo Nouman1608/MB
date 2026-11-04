@@ -212,6 +212,14 @@ Look at the horizontal axis: x itself means y = k(aˣ); ln x means y = kxⁿ.
 
 ### Worked example 8: exponential model
 
+<!-- marlbridge-diagram:maths-p2-exponential-model-linearisation -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/mathematics/maths-p2-exponential-model-linearisation.svg" aria-label="Open full-size diagram: maths-p2-exponential-model-linearisation"><img src="/images/learning/mathematics/maths-p2-exponential-model-linearisation.svg" width="1600" height="1050" alt="Linearised exponential model using source points (1,1.8) and (4,3.0) on ln y against x; recovers a=1.49 and k=4.06." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Exponential models: read a and k from a straight-line graph Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:maths-p2-exponential-model-linearisation -->
+
+
 The variables x and y satisfy y = k(aˣ). The graph of ln y against x is a straight line through (1, 1.8) and (4, 3.0). Find k and a.
 
 ```

@@ -90,6 +90,14 @@ cut off), not just simpler compound shapes
 
 ## How to approach it
 
+<!-- marlbridge-diagram:math-b55-sector-area-nonfactor-angle -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/public/images/learning/mathematics/math-b55-sector-area-nonfactor-angle.svg" aria-label="Open full-size diagram: math-b55-sector-area-nonfactor-angle"><img src="/public/images/learning/mathematics/math-b55-sector-area-nonfactor-angle.svg" width="1528" height="940" alt="For source example radius 8 cm and sector angle 110°, the sector area is (110/360)π(8²)=176π/9≈61.4 cm² to 3 significant figures. The shaded sector visualises the angle fraction; the calculation retains π until the final approximation." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>For source example radius 8 cm and sector angle 110°, the sector area is (110/360)π(8²)=176π/9≈61.4 cm² to 3 significant figures. The shaded sector visualises the angle fraction; the calculation retains π until the final approximation. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:math-b55-sector-area-nonfactor-angle -->
+
+
 Because formulas for circles, arcs, sectors, and 3D surface area and
 volume are given in the List of formulas, the exam skill being tested
 is not memorising them but selecting the right one and substituting

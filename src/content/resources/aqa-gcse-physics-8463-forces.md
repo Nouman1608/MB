@@ -182,9 +182,19 @@ so atmospheric pressure decreases with height.
 
 ### Describing motion
 
+<!-- marlbridge-diagram:phys-aqa-gcse-b27-circular-motion-inward-resultant -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/physics/phys-aqa-gcse-b27-circular-motion-inward-resultant.svg" aria-label="Open full-size diagram: phys-aqa-gcse-b27-circular-motion-inward-resultant"><img src="/images/learning/physics/phys-aqa-gcse-b27-circular-motion-inward-resultant.svg" width="1600" height="1050" alt="A cyclist moves at constant speed around a circular path. At two points, equal-length velocity arrows are tangent to the path but point in different directions. At each point an acceleration and resultant-force arrow points inward toward the circle centre. The speed is unchanged while velocity changes direction." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>A cyclist moves at constant speed around a circular path. At two points, equal-length velocity arrows are tangent to the path but point in different directions. At each point an acceleration and resultant-force arrow points inward toward the circle centre. The speed is unchanged while velocity changes direction. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:phys-aqa-gcse-b27-circular-motion-inward-resultant -->
+
+
 Distance is a scalar; **displacement** is distance in a straight line from start to finish **plus
 direction**. Speed is a scalar; **velocity** is speed in a given direction. **Higher tier only:** an object
 moving in a circle at constant speed has a changing velocity, because its direction keeps changing.
+
+For uniform circular motion, velocity is tangent to the path. Even if speed stays constant, velocity changes direction, so the resultant force and acceleration point towards the centre.
 
 Typical speeds: walking about 1.5 m/s, running about 3 m/s, cycling about 6 m/s; sound in air about 330 m/s.
 

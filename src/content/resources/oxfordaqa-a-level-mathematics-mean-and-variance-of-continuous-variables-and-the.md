@@ -42,6 +42,8 @@ Finding probabilities from a pdf or cdf is taught separately in [Probability den
 
 ## 1. Mean and variance from a pdf
 
+<figure class="learning-diagram" style="margin:1.5rem 0;"><a href="/public/images/learning/mathematics/math-sub-416-pdf-mean-variance.svg" aria-label="Open full-size diagram: math-sub-416-pdf-mean-variance"><img src="/public/images/learning/mathematics/math-sub-416-pdf-mean-variance.svg" width="1528" height="940" alt="Integrate over support; variance is second moment minus squared mean E(X) = ∫x f(x) dx; E(X²) = ∫x² f(x) dx; Var(X) = E(X²) − [E(X)]²; For f=4x³/15 on [1,2]: E(X)=124/75" loading="lazy" decoding="async" style="display:block;width:100%;height:auto;" /></a><figcaption>Calculate moments from a probability density — Marlbridge Mathematics</figcaption></figure>
+
 For a continuous random variable X with pdf f(x), the integrals run over the range where f is non-zero.
 
 | Quantity | Formula |
@@ -70,6 +72,8 @@ Var(X) = 14/5 − (124/75)² = 14/5 − 15376/5625
 Check the pdf first if you are unsure: ∫ 4x³/15 dx from 1 to 2 is (16 − 1)/15 = 1. A mean outside the range of X means an arithmetic slip.
 
 ## 2. Functions of X
+
+<figure class="learning-diagram" style="margin:1.5rem 0;"><a href="/public/images/learning/mathematics/math-sub-416-functions-of-random-variable.svg" aria-label="Open full-size diagram: math-sub-416-functions-of-random-variable"><img src="/public/images/learning/mathematics/math-sub-416-functions-of-random-variable.svg" width="1528" height="940" alt="Linear transforms are simple; nonlinear expectations need their own integral E(aX+b)=aE(X)+b; Var(aX+b)=a²Var(X); E(g(X))=∫g(x)f(x)dx; Generally E(X²) ≠ [E(X)]²" loading="lazy" decoding="async" style="display:block;width:100%;height:auto;" /></a><figcaption>Transform means and variances correctly — Marlbridge Mathematics</figcaption></figure>
 
 **Linear functions.** For constants a and b:
 
@@ -104,6 +108,8 @@ Notice in (e) that the variance of a function needs E of the squared function. F
 
 ## 3. Sums and differences of independent variables
 
+<figure class="learning-diagram" style="margin:1.5rem 0;"><a href="/public/images/learning/mathematics/math-sub-416-independent-random-sums.svg" aria-label="Open full-size diagram: math-sub-416-independent-random-sums"><img src="/public/images/learning/mathematics/math-sub-416-independent-random-sums.svg" width="1528" height="940" alt="Means use signs; independent variances always add E(2X−3Y)=2E(X)−3E(Y); Var(2X−3Y)=4Var(X)+9Var(Y); For independent Xᵢ: E(sum)=sum E; Var(sum)=sum Var" loading="lazy" decoding="async" style="display:block;width:100%;height:auto;" /></a><figcaption>Combine independent random variables — Marlbridge Mathematics</figcaption></figure>
+
 If X and Y are independent continuous random variables:
 
 ```
@@ -133,6 +139,14 @@ Var(2X − 3Y) = 4(374/5625) + 9(2/75) = 1496/5625 + 1350/5625 = 2846/5625
 **Two readings of "twice".** Suppose a machine part has length X. Two independent parts laid end to end have total length X₁ + X₂, with variance 2Var(X). One part scaled to twice its size has length 2X, with variance 4Var(X). These are different situations. Write down which one the question describes.
 
 ## 4. The exponential distribution
+
+<!-- marlbridge-diagram:math-final-416-exponential-distribution-density-tail -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/mathematics/math-final-416-exponential-distribution-density-tail.svg" aria-label="Open full-size diagram: math-final-416-exponential-distribution-density-tail"><img src="/images/learning/mathematics/math-final-416-exponential-distribution-density-tail.svg" width="1528" height="940" alt="Right-skewed exponential density with a shaded survival tail and formula cards for mean and variance." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Right-skewed exponential density with a shaded survival tail and formula cards for mean and variance.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:math-final-416-exponential-distribution-density-tail -->
+
 
 **When it applies.** Suppose events occur at random, singly, independently and at a constant average rate λ per unit of time (or length). The number of events in an interval of length t then has a Poisson distribution with mean λt. The specification states the link: the lengths of intervals between Poisson events have an exponential distribution. So if X is the waiting time (or distance) from one event to the next, X is exponential with parameter λ. In notation, X ~ Exp(λ).
 

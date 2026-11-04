@@ -172,6 +172,14 @@ The area between y = f(x), the x-axis and the lines x = a and x = b is ∫ₐᵇ
 
 *Worked example 10.* Find the total area enclosed between y = x² − 3x, the x-axis and the line x = 4.
 
+<!-- marlbridge-diagram:maths-b15-integration-total-area-sign -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/mathematics/maths-b15-integration-total-area-sign.svg" aria-label="Open full-size diagram: maths-b15-integration-total-area-sign"><img src="/images/learning/mathematics/maths-b15-integration-total-area-sign.svg" width="1600" height="1050" alt="The graph y = x² − 3x crosses at 0 and 3; splitting gives areas 9/2 and 11/6, total 19/3 square units." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>The graph y = x² − 3x crosses at 0 and 3; splitting gives areas 9/2 and 11/6, total 19/3 square units. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:maths-b15-integration-total-area-sign -->
+
+
 ```
 Roots: x(x − 3) = 0 gives x = 0 and x = 3.
 Curve is below the axis for 0 < x < 3, above for 3 < x < 4.
@@ -195,6 +203,14 @@ For a region bounded by the curve, the y-axis and lines y = c and y = d, integra
 ```
 
 ### Between a curve and a line, or two curves
+
+<!-- marlbridge-diagram:maths-p1-integration-area-between-curves -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/mathematics/maths-p1-integration-area-between-curves.svg" aria-label="Open full-size diagram: maths-p1-integration-area-between-curves"><img src="/images/learning/mathematics/maths-p1-integration-area-between-curves.svg" width="1600" height="1050" alt="Schematic area between y=6x−x² and y=2x from x=0 to 4, with exact area 32/3 square units." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Integration: area between two curves Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:maths-p1-integration-area-between-curves -->
+
 
 Find where they meet. Then integrate (upper graph − lower graph) between those x-values. This one integral works even if part of the region is below the x-axis, because the subtraction handles the signs.
 

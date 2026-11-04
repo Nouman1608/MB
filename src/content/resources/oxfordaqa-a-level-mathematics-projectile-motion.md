@@ -87,6 +87,14 @@ Two consequences follow from this. The range is greatest when sin 2α = 1, so α
 
 ### Worked example 1
 
+<!-- marlbridge-diagram:math-b42-oxfordaqa-projectile-level-ground-trajectory -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/mathematics/math-b42-oxfordaqa-projectile-level-ground-trajectory.svg" aria-label="Open full-size diagram: math-b42-oxfordaqa-projectile-level-ground-trajectory"><img src="/images/learning/mathematics/math-b42-oxfordaqa-projectile-level-ground-trajectory.svg" width="1600" height="1050" alt="Projectile motion: components and parabolic trajectory" loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Projectile motion: components and parabolic trajectory Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:math-b42-oxfordaqa-projectile-level-ground-trajectory -->
+
+
 A ball is projected from level ground with speed 24 m/s at 50° above the horizontal. Find the time of flight, the greatest height and the range.
 
 ```
@@ -169,6 +177,14 @@ T² − 4T + 3 = 0
 So tan α = 1 or tan α = 3, giving α = **45°** or α = **71.6°** (1 d.p.). Two angles appear because the point can be reached on the way up or on the way down.
 
 ### Worked example 5 (clearing a wall)
+
+<!-- marlbridge-diagram:math-b66-oxfordaqa-projectile-wall-clearance -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/public/images/learning/mathematics/math-b66-oxfordaqa-projectile-wall-clearance.svg" aria-label="Open full-size diagram: math-b66-oxfordaqa-projectile-wall-clearance"><img src="/public/images/learning/mathematics/math-b66-oxfordaqa-projectile-wall-clearance.svg" width="1528" height="940" alt="A parabolic trajectory for a ball launched at 22 m/s and 30° crosses a 4 m wall 32 m from the launch point at height 4.65 m, clearing it by 0.65 m while descending." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>A parabolic trajectory for a ball launched at 22 m/s and 30° crosses a 4 m wall 32 m from the launch point at height 4.65 m, clearing it by 0.65 m while descending.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:math-b66-oxfordaqa-projectile-wall-clearance -->
+
 
 A ball is projected from level ground at 22 m/s at 30° above the horizontal. A vertical wall 4 m high stands 32 m from the launch point on the same level. Does the ball clear it?
 

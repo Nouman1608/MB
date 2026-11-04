@@ -206,6 +206,14 @@ Practical questions give you counts from a survey and ask for a count you are no
 
 **Worked example 5.** In a class of 40 students, 23 study French (F), 18 study Spanish (S) and 7 study neither. How many study both? Find n(F ∩ S′).
 
+<!-- marlbridge-diagram:maths-b29-venn-diagram-survey-counts -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/mathematics/maths-b29-venn-diagram-survey-counts.svg" aria-label="Open full-size diagram: maths-b29-venn-diagram-survey-counts"><img src="/images/learning/mathematics/maths-b29-venn-diagram-survey-counts.svg" width="1600" height="1050" alt="In a class of 40, seven study neither, so 33 study at least one. The overlap is 23+18−33=8; the regions are French only 15, both 8, Spanish only 10, neither 7. Thus n(F∩S′)=15." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>In a class of 40, seven study neither, so 33 study at least one. The overlap is 23+18−33=8; the regions are French only 15, both 8, Spanish only 10, neither 7. Thus n(F∩S′)=15. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:maths-b29-venn-diagram-survey-counts -->
+
+
 ```
 Students in at least one: n(F ∪ S) = 40 − 7 = 33
 Both: n(F ∩ S) = 23 + 18 − 33 = 8

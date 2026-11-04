@@ -102,7 +102,7 @@ A junction in an ideal wire holds no charge, so dq_inside/dt = 0 and the net cur
 
 **Same current along a branch.** A **branch** is a path between two junctions with no junction in the middle. Every element in a branch carries the same current. Use one symbol per branch, not one per element.
 
-**Closed regions.** The argument above works for any closed surface, not just one round a single point. So the total current into **any closed region** of a circuit equals the total current out. This is a quick check on a full solution: draw a boundary round part of the circuit and add the currents in the wires that cross it.
+**Closed regions.** The argument above works for any closed surface, not just one round a single point. For a closed region with no net charge accumulation, the total current in equals the total current out. In general, the difference between total inward and outward current equals dq_inside/dt; a region enclosing one charging capacitor plate need not have balanced conduction currents. This is a quick check on a full solution: draw a boundary round part of the circuit and add the currents in the wires that cross it.
 
 **How many equations?** A circuit with N junctions gives only **N − 1 independent** junction equations. The last one always follows from the others. If the circuit has B branches, you need B equations for the B unknown currents. The other B − (N − 1) come from the loop rule, one for each independent loop.
 

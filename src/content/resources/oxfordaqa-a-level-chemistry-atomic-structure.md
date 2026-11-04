@@ -96,18 +96,14 @@ skill -- not simply reciting configurations from memory.
 
 ## A worked example
 
-Magnesium's successive ionisation energies (in kJ mol⁻¹, first through
-twelfth) show a small but steady rise for the first two removals (from
-the 3s sub-shell), then a very large jump to the third ionisation
-energy (removing an electron from the full 2p sub-shell, much closer
-to the nucleus), a further large jump around the ninth removal (into
-the 2s sub-shell), and an enormous final jump for the last two
-removals (the 1s shell, closest to the nucleus). Three big jumps like
-this -- after 2 electrons, then again a little later, then again near
-the end -- are exactly the pattern expected for an element with
-electron configuration 1s² 2s² 2p⁶ 3s², and confirm magnesium sits in
-Group 2 with two outer-shell electrons available before the first
-large jump.
+<!-- marlbridge-diagram:chem-obj-magnesium-successive-ionisation-log -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/chemistry/chem-obj-magnesium-successive-ionisation-log.svg" aria-label="Open full-size diagram: chem-obj-magnesium-successive-ionisation-log"><img src="/images/learning/chemistry/chem-obj-magnesium-successive-ionisation-log.svg" width="1528" height="940" alt="Logarithmic plot of the twelve successive magnesium ionisation energies, based on NIST Atomic Spectra Database data. It highlights the principal-shell boundaries after removals 2 and 10, and notes that removal 9 changes from 2p to 2s within n equals 2." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Successive ionisation energies of magnesium on a logarithmic scale — [NIST Atomic Spectra Database values](https://physics.nist.gov/cgi-bin/ASD/ie.pl?at_num_out=on&biblio=on&e_out=0&el_name_out=on&format=1&level_out=on&seq_out=on&shells_out=on&spectra=Mg&unc_out=on&units=1), interpreted by shell and subshell — Marlbridge Chemistry.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:chem-obj-magnesium-successive-ionisation-log -->
+
+Magnesium starts with the ground-state configuration **1s² 2s² 2p⁶ 3s²**. The first two removals take the outer 3s electrons. The large increase from the second to the third ionisation energy marks entry into the n = 2 shell, supporting two outer electrons and Group 2. Removals 3–8 empty 2p; removals 9–10 empty 2s. The ninth removal changes sub-shell but remains in the same principal shell n = 2. The next very large principal-shell increase is from removal 10 to 11, when a 1s electron is removed. Thus the two principal-shell boundaries in the full twelve-removal sequence are **after 2 and after 10 electrons**. Read the graph and its scale rather than calling every sub-shell change an equivalent shell jump.
 
 ## How TOF mass spectrometry and electron configuration connect
 

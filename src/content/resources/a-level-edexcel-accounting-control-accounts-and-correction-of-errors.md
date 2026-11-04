@@ -84,6 +84,14 @@ each correction.
 
 ## Worked example: using a suspense account
 
+<!-- marlbridge-diagram:accounting-suspense-account-correction-workflow -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/accounting/accounting-suspense-account-correction-workflow.svg" aria-label="Open full-size diagram: accounting-suspense-account-correction-workflow"><img src="/images/learning/accounting/accounting-suspense-account-correction-workflow.svg" width="1600" height="1050" alt="Four-step suspense-account workflow with a balanced correcting journal and profit effect for the lesson example." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Open suspense only for a trial-balance difference, post the correction, and reconcile it to zero. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:accounting-suspense-account-correction-workflow -->
+
+
 A trial balance fails to balance by £150 (debit column short). It is
 later discovered that a payment of £150 for insurance was correctly
 entered in the cash book but was never posted to the insurance expense

@@ -121,6 +121,13 @@ Divide the numerator by the denominator and keep going until a remainder repeats
 
 ### Recurring decimal to fraction
 
+<!-- marlbridge-diagram:maths-aqa-gcse-recurring-decimal-to-fraction -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/mathematics/maths-aqa-gcse-recurring-decimal-to-fraction.svg" aria-label="Open full-size diagram: maths-aqa-gcse-recurring-decimal-to-fraction"><img src="/images/learning/mathematics/maths-aqa-gcse-recurring-decimal-to-fraction.svg" width="1600" height="1050" alt="Uses the source worked example x = 0.515151…, subtracts 99x = 51, and simplifies the result to 17/33 while highlighting why the repeat length matters." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Uses the source worked example x = 0.515151…, subtracts 99x = 51, and simplifies the result to 17/33 while highlighting why the repeat length matters. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:maths-aqa-gcse-recurring-decimal-to-fraction -->
+
 The method removes the recurring part by subtraction.
 
 1. Let x equal the decimal. Write out several repeats.

@@ -80,6 +80,12 @@ A **common denominator** is a number that every denominator divides into. The lo
 To **order fractions**, rewrite them all over a common denominator and compare numerators. Converting each to a decimal also works and is often quicker with a calculator.
 
 **Worked example 3.** Write 5/8, 7/12, 2/3 and 3/5 in order of size, smallest first.
+<!-- marlbridge-diagram:maths-b28-fraction-order-common-denominator -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/mathematics/maths-b28-fraction-order-common-denominator.svg" aria-label="Open full-size diagram: maths-b28-fraction-order-common-denominator"><img src="/images/learning/mathematics/maths-b28-fraction-order-common-denominator.svg" width="1528" height="940" alt="LCM(8,12,3,5)=120. The fractions become 75/120, 70/120, 80/120 and 72/120; compare numerators to get 7/12 &lt; 3/5 &lt; 5/8 &lt; 2/3." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Equivalent fractions share denominator 120; compare numerators to order the original values. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:maths-b28-fraction-order-common-denominator -->
 
 ```
 LCM of 8, 12, 3 and 5 is 120

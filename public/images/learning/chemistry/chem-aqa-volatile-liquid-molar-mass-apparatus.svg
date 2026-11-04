@@ -1,0 +1,88 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1528 940" role="img" aria-labelledby="title desc">
+  <title id="title">Measuring the molar mass of a volatile liquid with a heated gas syringe</title>
+  <desc id="desc">A gas syringe in a heated steam jacket is held above the volatile liquid boiling point. Record the initial reading, inject a weighed amount through a self-sealing cap, wait for complete vaporisation at steady temperature, then record the final reading. The vapour volume is final minus initial reading.</desc>
+  <defs>
+    <marker id="arrow" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto"><path d="M1 1 L11 6 L1 11 Z" fill="#147d82"/></marker>
+    <style>
+      text{font-family:Arial,"Liberation Sans",sans-serif;fill:#172b4d}.title{font-size:32px;font-weight:700}.sub{font-size:18px;fill:#475569}
+      .head{font-size:22px;font-weight:700;fill:#0f766e}.label{font-size:17px;font-weight:700}.small{font-size:15px;fill:#475569}.panel{fill:#fff;stroke:#cbd5e1;stroke-width:2}
+    </style>
+  </defs>
+  <rect width="1528" height="940" rx="24" fill="#f4f8fb"/>
+  <text class="title" x="54" y="60">Molar mass of a volatile liquid</text>
+  <text class="sub" x="55" y="94">Vaporise a known mass and measure the gas volume at a measured temperature and pressure.</text>
+  <text x="1472" y="60" text-anchor="end" font-size="14" font-weight="700" fill="#0f766e">AQA A-LEVEL CHEMISTRY</text>
+
+  <rect class="panel" x="42" y="128" width="900" height="680" rx="18"/>
+  <text class="head" x="78" y="176">Heated gas syringe</text>
+  <!-- steam jacket -->
+  <rect x="129" y="257" width="676" height="324" rx="30" fill="#fff4dc" stroke="#b7791f" stroke-width="4"/>
+  <path d="M164 288 C181 267 197 309 214 288 C231 267 247 309 264 288 M164 323 C181 302 197 344 214 323 C231 302 247 344 264 323" fill="none" stroke="#d79532" stroke-width="3"/>
+  <text class="small" x="467" y="294" text-anchor="middle">steam jacket / oven: steady temperature above the liquid's boiling point</text>
+  <!-- syringe barrel and plunger, oriented tip to right -->
+  <rect x="238" y="361" width="454" height="104" rx="15" fill="#eaf3f7" stroke="#334155" stroke-width="4"/>
+  <rect x="258" y="376" width="350" height="74" fill="#fbfdfe" stroke="#94a3b8" stroke-width="2"/>
+  <!-- final plunger, initial position dashed further toward nozzle -->
+  <line x1="500" y1="366" x2="500" y2="460" stroke="#94a3b8" stroke-width="3" stroke-dasharray="8 6"/>
+  <rect x="360" y="373" width="17" height="80" rx="5" fill="#657b8d"/>
+  <path d="M360 413 L206 413" stroke="#657b8d" stroke-width="12"/>
+  <rect x="182" y="386" width="24" height="54" rx="5" fill="#c9d7e2" stroke="#334155" stroke-width="3"/>
+  <!-- scale -->
+  <g stroke="#475569" stroke-width="2">
+    <line x1="279" y1="450" x2="279" y2="464"/><line x1="321" y1="450" x2="321" y2="459"/><line x1="363" y1="450" x2="363" y2="464"/><line x1="405" y1="450" x2="405" y2="459"/><line x1="447" y1="450" x2="447" y2="464"/><line x1="489" y1="450" x2="489" y2="459"/><line x1="531" y1="450" x2="531" y2="464"/><line x1="573" y1="450" x2="573" y2="459"/>
+  </g>
+  <text class="small" x="362" y="491" text-anchor="middle">gas syringe scale</text>
+  <path d="M500 341 L500 328 L558 328 L558 341" fill="none" stroke="#64748b" stroke-width="2" stroke-dasharray="6 5"/>
+  <text class="small" x="529" y="318" text-anchor="middle">initial Vᵢ</text>
+  <path d="M360 342 L360 330 L418 330 L418 342" fill="none" stroke="#147d82" stroke-width="2"/>
+  <text class="small" x="389" y="318" text-anchor="middle">final Vᶠ</text>
+  <path d="M493 519 L369 519" stroke="#147d82" stroke-width="3" marker-end="url(#arrow)"/>
+  <text class="small" x="431" y="547" text-anchor="middle">plunger moves outward as vapour forms</text>
+  <!-- self-sealing port at nozzle -->
+  <path d="M692 394 L745 394 L745 432 L692 432" fill="#d9edf4" stroke="#334155" stroke-width="4"/>
+  <rect x="745" y="397" width="18" height="32" rx="5" fill="#d79532" stroke="#8a5b10" stroke-width="2"/>
+  <path d="M850 337 L774 397" stroke="#334155" stroke-width="5"/>
+  <rect x="838" y="318" width="34" height="41" rx="7" fill="#dce7ec" stroke="#334155" stroke-width="2"/>
+  <path d="M774 397 L753 415" stroke="#334155" stroke-width="3"/>
+  <text class="label" x="798" y="281" text-anchor="middle">weighed liquid</text>
+  <text class="small" x="798" y="303" text-anchor="middle">in a small syringe</text>
+  <path d="M779 341 L755 393" stroke="#64748b" stroke-width="2"/>
+  <text class="label" x="743" y="505" text-anchor="middle">self-sealing cap</text>
+  <text class="small" x="743" y="526" text-anchor="middle">close after injection</text>
+  <path d="M745 485 L754 435" stroke="#64748b" stroke-width="2"/>
+  <!-- thermometer -->
+  <rect x="159" y="368" width="16" height="116" rx="8" fill="#fff" stroke="#334155" stroke-width="2"/>
+  <circle cx="167" cy="491" r="15" fill="#d95b55" stroke="#334155" stroke-width="2"/>
+  <line x1="167" y1="390" x2="167" y2="486" stroke="#d95b55" stroke-width="6"/>
+  <text class="label" x="174" y="529" text-anchor="middle">thermometer</text>
+  <text class="small" x="467" y="626" text-anchor="middle">Wait until the injected liquid has vaporised completely.</text>
+  <text class="small" x="467" y="650" text-anchor="middle">Record the final syringe reading only after the temperature is steady.</text>
+
+  <rect x="78" y="689" width="828" height="82" rx="13" fill="#e8f4f2"/>
+  <text x="102" y="721" font-size="19" font-weight="700" fill="#0f766e">Vapor volume = final reading − initial reading</text>
+  <text class="small" x="102" y="748">Use V in m³, T in K, p in Pa and mass in g with M = mRT / pV.</text>
+
+  <rect class="panel" x="970" y="128" width="518" height="680" rx="18"/>
+  <text x="1008" y="176" font-size="24" font-weight="700" fill="#0f766e">Measurement sequence</text>
+  <circle cx="1030" cy="236" r="19" fill="#d9f1ed"/><text x="1030" y="242" text-anchor="middle" font-size="18" font-weight="700">1</text>
+  <text class="label" x="1066" y="233">Heat and equilibrate</text>
+  <text class="small" x="1066" y="260">Keep the syringe above the liquid's boiling</text>
+  <text class="small" x="1066" y="282">point and wait for steady temperature.</text>
+  <circle cx="1030" cy="340" r="19" fill="#d9f1ed"/><text x="1030" y="346" text-anchor="middle" font-size="18" font-weight="700">2</text>
+  <text class="label" x="1066" y="337">Record initial volume</text>
+  <text class="small" x="1066" y="364">Read the plunger position before injection.</text>
+  <circle cx="1030" cy="426" r="19" fill="#d9f1ed"/><text x="1030" y="432" text-anchor="middle" font-size="18" font-weight="700">3</text>
+  <text class="label" x="1066" y="423">Inject a known mass</text>
+  <text class="small" x="1066" y="450">Weigh the small syringe before and after;</text>
+  <text class="small" x="1066" y="472">inject through the self-sealing cap.</text>
+  <circle cx="1030" cy="520" r="19" fill="#d9f1ed"/><text x="1030" y="526" text-anchor="middle" font-size="18" font-weight="700">4</text>
+  <text class="label" x="1066" y="517">Read final volume</text>
+  <text class="small" x="1066" y="544">After full vaporisation, note final V, T</text>
+  <text class="small" x="1066" y="566">and room pressure p.</text>
+  <rect x="1008" y="612" width="440" height="133" rx="13" fill="#fff4dc"/>
+  <text x="1032" y="650" font-size="18" font-weight="700" fill="#8a5b10">Safety and quality checks</text>
+  <text class="small" x="1032" y="679">Use a small amount of flammable liquid away from</text>
+  <text class="small" x="1032" y="701">ignition sources. Check for leaks, keep the cap sealed,</text>
+  <text class="small" x="1032" y="723">and ensure all liquid has vaporised before reading.</text>
+  <text x="1478" y="914" text-anchor="end" font-size="15" font-weight="700" fill="#47647b">MARLBRIDGE • STUDY RESOURCES</text>
+</svg>

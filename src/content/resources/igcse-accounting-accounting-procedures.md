@@ -173,6 +173,17 @@ motor vehicles $2,400); the $480 of depreciation charged on the repairs
 must then be removed as well.
 
 ## Worked example: three depreciation methods
+<!-- marlbridge-diagram:ac-igcse-year-end-procedures-map -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/accounting/ac-igcse-year-end-procedures-map.svg" aria-label="Open full-size diagram: ac-igcse-year-end-procedures-map">
+    <picture>
+      <source media="(max-width: 640px)" srcset="/images/learning/accounting/ac-igcse-year-end-procedures-map-mobile.svg" />
+      <img src="/images/learning/accounting/ac-igcse-year-end-procedures-map.svg" width="1600" height="1050" alt="A year-end procedures map distinguishes capital and revenue items, compares three depreciation methods, and routes adjustments to the statements." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" />
+    </picture>
+  </a>
+  <figcaption>A procedure map links capital/revenue classification to depreciation and year-end accrual, receivable and inventory adjustments. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:ac-igcse-year-end-procedures-map -->
 
 **Depreciation** is the part of the cost of a non-current asset that is
 used up in an accounting period, through wear and tear, the passage of

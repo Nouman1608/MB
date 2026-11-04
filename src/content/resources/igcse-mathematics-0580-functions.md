@@ -143,6 +143,14 @@ f⁻¹(x) = (3x + 7)/2
 
 ### Worked example 4: x in the denominator
 
+<!-- marlbridge-diagram:maths-b35-rational-function-inverse -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/mathematics/maths-b35-rational-function-inverse.svg" aria-label="Open full-size diagram: maths-b35-rational-function-inverse"><img src="/images/learning/mathematics/maths-b35-rational-function-inverse.svg" width="1600" height="1050" alt="Swapping x and y in y=4/(x−1) gives x=4/(y−1), so y=4/x+1 and g⁻¹(x)=4/x+1. The check g(3)=2 and g⁻¹(2)=3 confirms the inverse. Domain restrictions are x≠1 for g and x≠0 for its inverse." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Swapping x and y in y=4/(x−1) gives x=4/(y−1), so y=4/x+1 and g⁻¹(x)=4/x+1. The check g(3)=2 and g⁻¹(2)=3 confirms the inverse. Domain restrictions are x≠1 for g and x≠0 for its inverse. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:maths-b35-rational-function-inverse -->
+
+
 g(x) = 4/(x − 1), x ≠ 1. Find g⁻¹(x).
 
 ```

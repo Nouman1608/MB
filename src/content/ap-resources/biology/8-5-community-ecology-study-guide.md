@@ -152,7 +152,7 @@ A predator and its prey can affect each other's numbers in a cycle:
 <figcaption>Figure 1. Model data, not a real population. Prey (solid line, left axis) peak at years 2, 6 and 10. Predators (dashed line, right axis) peak one year later each time. Note the two different scales: there are always far fewer predators than prey.</figcaption>
 </figure>
 
-**Reading Figure 1.** The predator peak always comes **after** the prey peak. Predators need time to turn extra food into extra offspring. The predator line is also lower, because each predator needs many prey to supply its energy. Real populations are rarely this regular: weather, disease, other food sources and other predators also change the numbers.
+**Reading Figure 1.** The predator peak always comes **after** the prey peak. Predators need time to turn extra food into extra offspring. Read predator abundance from the right axis and prey abundance from the left. Their plotted line heights cannot be compared directly because the two axes use different scales. In this particular model, predator counts are lower, as the numerical scales show. Real populations are rarely this regular: weather, disease, other food sources and other predators also change the numbers.
 
 ### Competition and niche partitioning
 
@@ -168,6 +168,13 @@ Species with overlapping needs can still live together if they use the resource 
 Niche partitioning reduces competition between the species, so more species can share one community. It is one reason a community can be rich in species even when resources are limited.
 
 ### Trophic cascades
+<!-- marlbridge-diagram:bio-b22-trophic-cascade -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/biology/bio-b22-trophic-cascade.svg" aria-label="Open full-size diagram: bio-b22-trophic-cascade"><img src="/images/learning/biology/bio-b22-trophic-cascade.svg" width="1528" height="940" alt="In the lesson lake chain, large fish eat small fish, small fish eat zooplankton, and zooplankton graze algae. After large fish are removed: small fish increase, zooplankton decrease, and algae increase. Food-chain arrows are labelled “eats”; response arrows show the indirect alternating population changes." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>The upper arrows show who eats whom; the lower sequence shows population responses after top-fish removal. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:bio-b22-trophic-cascade -->
+
 
 A **trophic cascade** is a chain of effects that runs down a food chain when the top level changes. Picture a lake with this chain:
 
@@ -224,16 +231,16 @@ Calculate mean ± 2 SE for each group and decide whether removing Y changed the 
 
 **Decision.** The two intervals do not overlap (the control's top, 43.4, is well below the removal plots' bottom, 56.4). So the means are **probably different**: removing Y raised the mass of X by 50% ((60.0 − 40.0) ÷ 40.0 × 100). This supports the idea that Y competes with X, perhaps for light, since Y is tall.
 
-**A contrast.** In the same plots, a third species, Z, had means of 12.8 g m⁻² (control) and 13.8 g m⁻² (Y removed), with intervals 11.1–14.5 and 12.1–15.5. These overlap widely, so the data give **no evidence** that Y affects Z. That is not proof of no effect; a larger sample might reveal a small one.
+**A contrast.** In the same plots, a third species, Z, had means of 12.8 g m⁻² (control) and 13.8 g m⁻² (Y removed), with intervals 11.1–14.5 and 12.1–15.5. These intervals overlap widely, so this visual comparison alone is inconclusive about an effect on Z. Interval overlap is not a substitute for an appropriate statistical comparison. That is not proof of no effect; a larger sample might reveal a small one.
 
-**Limits.** Non-overlapping error bars suggest a real difference but are not a formal statistical test. Clearing Y also disturbs the soil, so a better control would disturb the soil in the control plots in the same way.
+**Limits.** These bars are mean ± 2 SE, not a formal test of the difference. With five independent plots per group, an exact normal-model 95% confidence interval for each mean would use a t multiplier rather than 2. Analyse the treatment contrast with its design and assumptions. Clearing Y also disturbs the soil, so a better control would disturb the soil in the control plots in the same way.
 
 ## Common misconceptions
 
 - **"A community is all the living and non-living things in an area."** That is an *ecosystem*. A community is only the interacting populations of different species.
 - **"More species always means a higher diversity index."** Evenness matters too. Five species with one dominant can score lower than three species in equal numbers.
 - **"Simpson's index: 1 − Σ(n/N), without squaring."** Without squaring, Σ(n/N) is always 1, so the index would always be 0.
-- **"Predators keep prey numbers low all the time."** Prey numbers rise and fall in a repeating cycle, and predator numbers follow the same cycle, with the predator peak lagging behind the prey peak.
+- **"Predators keep prey numbers low all the time."** In a simple predator–prey model, prey and predator numbers can rise and fall in cycles, with predator peaks lagging behind prey peaks. Real populations need not cycle regularly; weather, disease, alternative prey and other predators can change their patterns.
 - **"Commensalism and mutualism are the same."** In mutualism both species gain (+/+). In commensalism only one gains; the other is unaffected (+/0).
 - **"Parasites always kill their host."** Most parasites feed on a living host for a long time; killing it quickly would end their food supply.
 - **"Competition only happens between different species."** Members of the same species compete too (that was density dependence in Topic 8.4). This topic focuses on competition between species.

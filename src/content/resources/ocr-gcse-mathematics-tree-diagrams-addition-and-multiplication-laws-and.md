@@ -127,6 +127,14 @@ The same method extends. If each of three independent attempts succeeds with pro
 
 ### Dependent events
 
+<!-- marlbridge-diagram:math-b74-ocr-dependent-song-tree -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/public/images/learning/mathematics/math-b74-ocr-dependent-song-tree.svg" aria-label="Open full-size diagram: math-b74-ocr-dependent-song-tree"><img src="/public/images/learning/mathematics/math-b74-ocr-dependent-song-tree.svg" width="1528" height="940" alt="A two-draw tree for selecting two different songs from nine shows the changing second-draw fractions and highlights the RN and NR routes totalling 5/9." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>A two-draw tree for selecting two different songs from nine shows the changing second-draw fractions and highlights the RN and NR routes totalling 5/9.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:math-b74-ocr-dependent-song-tree -->
+
+
 Events are **dependent** when the first result changes the probability of the second. The usual cause is selecting without replacement, but a question can also state the changed probabilities directly.
 
 **Worked example 4.** A playlist holds 9 songs, 4 of them rock. Two different songs are played at random, one after the other. Find the probability that exactly one is rock.

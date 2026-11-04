@@ -280,7 +280,9 @@ reaction, a small fixed amount of a second substance removes the product until i
 sudden colour change appears. Time each run to that change.
 
 - Keep the total volume fixed with water, so concentration ∝ volume.
-- The same small amount of reaction has happened at each colour change, so **initial rate ∝ 1/t**.
+- Each colour change marks the same small, fixed extent of reaction. If that extent is sufficiently small
+  that the rate has changed little before the endpoint, **1/t is proportional to an estimate of the initial
+  rate**. It is a finite-time proxy, not an exact tangent rate.
 - Keep temperature and the other concentrations fixed. Plot 1/t against concentration.
 
 **Continuous monitoring method.** Follow one run over time: gas volume, mass loss, colorimeter

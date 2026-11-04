@@ -59,6 +59,14 @@ Work from **right to left**: find the expected value at each circle, then subtra
 
 ### Worked example: Kestrelby Coffee Roasters
 
+<!-- marlbridge-diagram:business-oxfordaqa-decision-tree-kestrelby -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/business/business-oxfordaqa-decision-tree-kestrelby.svg" aria-label="Open full-size diagram: business-oxfordaqa-decision-tree-kestrelby"><img src="/images/learning/business/business-oxfordaqa-decision-tree-kestrelby.svg" width="1600" height="1050" alt="Works through probabilities, payoffs, expected values, costs and net gains for Kestrelby&#x27;s two options." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Works through probabilities, payoffs, expected values, costs and net gains for Kestrelby&#x27;s two options. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:business-oxfordaqa-decision-tree-kestrelby -->
+
+
 Kestrelby roasts and sells coffee beans online. It has two growth options.
 
 - **Option A**: launch a monthly subscription service. Cost £45,000. There is a 0.65 chance it succeeds, earning £130,000, and a 0.35 chance it does poorly, earning £20,000.

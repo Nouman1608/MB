@@ -97,6 +97,14 @@ inputs.
 
 ## Classifying businesses by economic sector
 
+<!-- marlbridge-diagram:business-cambridge-olevel-economic-sectors -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/business/business-cambridge-olevel-economic-sectors.svg" aria-label="Open full-size diagram: business-cambridge-olevel-economic-sectors"><img src="/images/learning/business/business-cambridge-olevel-economic-sectors.svg" width="1600" height="1050" alt="Three sectors classify business activity: primary extraction/growing, secondary manufacturing/construction, tertiary services; includes the development trend." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Economic sectors: from raw materials to services Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:business-cambridge-olevel-economic-sectors -->
+
+
 Every business activity can be classified into one of three **economic
 sectors**, based on how far removed the activity is from raw materials:
 

@@ -143,7 +143,7 @@ Reading Figure 1:
 
 - **Value versus slope.** The force is the negative **slope**, not the height. At r₀ the like-charge curve has height +1 and a negative slope, so the force is outward (repulsive).
 - **1/r versus 1/r².** U ∝ 1/r, but F ∝ 1/r². Doubling r halves U and divides F by 4.
-- **Which way is "downhill"?** Left alone, a system moves towards lower U. Like charges fly apart (U falls towards 0). Unlike charges pull together (U becomes more negative).
+- **Which way is "downhill"?** Released from rest under the electrostatic interaction, the system initially accelerates towards lower U. An initially moving charge can instead move towards higher U while slowing down. Like charges fly apart (U falls towards 0). Unlike charges pull together (U becomes more negative).
 
 ## Systems of three or more charges
 

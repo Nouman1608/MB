@@ -37,6 +37,14 @@ Throughout, g = 9.8 m s⁻², the value the specification gives for M1.3. Forces
 
 ## 1. Force diagrams and modelling
 
+<!-- marlbridge-diagram:math-sub-428-free-body -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/mathematics/math-sub-428-free-body.svg" aria-label="Open full-size diagram: math-sub-428-free-body"><img src="/images/learning/mathematics/math-sub-428-free-body.svg" width="1528" height="940" alt="Free body diagram for a particle on an inclined plane, with correctly directed forces." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Draw forces from the particle, not from the surroundings — Marlbridge Mathematics.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:math-sub-428-free-body -->
+
+
 Draw a large diagram before any algebra. Show only the forces acting on the body you are studying, as arrows from the particle.
 
 | Force | Direction |
@@ -64,6 +72,14 @@ pull or push   : along the slope, or at the stated angle
 Mark the angle α between the slope and the horizontal, then check that the angle between the weight and the perpendicular to the slope is also α.
 
 ## 2. Forces as vectors
+
+<!-- marlbridge-diagram:math-sub-428-vector-sum -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/mathematics/math-sub-428-vector-sum.svg" aria-label="Open full-size diagram: math-sub-428-vector-sum"><img src="/images/learning/mathematics/math-sub-428-vector-sum.svg" width="1528" height="940" alt="Component addition and resultant vector triangle for three forces." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Find the resultant by summing perpendicular components — Marlbridge Mathematics.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:math-sub-428-vector-sum -->
+
 
 A force in two dimensions can be written as Xi + Yj, with i horizontal and j vertical (or any perpendicular pair). The **resultant** of several forces acting at a point is their vector sum: add the i-components, then add the j-components.
 
@@ -100,6 +116,22 @@ angle = arctan(16.853 / 13.857) = 50.6° above the positive x-axis
 
 ## 3. Resolving and equilibrium
 
+<!-- marlbridge-diagram:math-sub-428-equilibrium -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/mathematics/math-sub-428-equilibrium.svg" aria-label="Open full-size diagram: math-sub-428-equilibrium"><img src="/images/learning/mathematics/math-sub-428-equilibrium.svg" width="1528" height="940" alt="Free body diagram of a suspended particle between two inclined strings, with component-balance equations." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Equilibrium requires a zero force sum on both axes — Marlbridge Mathematics.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:math-sub-428-equilibrium -->
+
+
+<!-- marlbridge-diagram:math-final-428-two-string-equilibrium -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/mathematics/math-final-428-two-string-equilibrium.svg" aria-label="Open full-size diagram: math-final-428-two-string-equilibrium"><img src="/images/learning/mathematics/math-final-428-two-string-equilibrium.svg" width="1528" height="940" alt="Force diagram of a 3 kg mass supported by angled strings, with component-balance equations and solved tensions." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Force diagram of a 3 kg mass supported by angled strings, with component-balance equations and solved tensions.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:math-final-428-two-string-equilibrium -->
+
+
 A particle is in equilibrium when the resultant force on it is zero. In components, the forces sum to zero in every direction you choose. For a particle at rest, that is the whole of the condition.
 
 **Method**
@@ -113,6 +145,14 @@ A particle is in equilibrium when the resultant force on it is zero. In componen
 On an incline of angle α, resolve along and perpendicular to the slope. The weight has component mg sin α down the slope and mg cos α into the slope.
 
 **Example 3.** A 3 kg particle hangs from two light strings attached to a horizontal ceiling. The strings make 35° and 50° with the vertical, on opposite sides. Find the tensions T₁ and T₂.
+
+<!-- marlbridge-diagram:math-b42-oxfordaqa-two-string-particle-equilibrium -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/mathematics/math-b42-oxfordaqa-two-string-particle-equilibrium.svg" aria-label="Open full-size diagram: math-b42-oxfordaqa-two-string-particle-equilibrium"><img src="/images/learning/mathematics/math-b42-oxfordaqa-two-string-particle-equilibrium.svg" width="1600" height="1050" alt="Three-kilogram particle in equilibrium on two strings" loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Three-kilogram particle in equilibrium on two strings Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:math-b42-oxfordaqa-two-string-particle-equilibrium -->
+
 
 ```
 horizontal:  T₁ sin 35° = T₂ sin 50°
@@ -140,6 +180,14 @@ perpendicular:     R = 7g cos 34° + H sin 34°
 Check: R cos 34° = 68.6 = 7g, the weight, as the vertical resolution requires.
 
 ## 4. Friction
+
+<!-- marlbridge-diagram:math-sub-428-friction-range -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/mathematics/math-sub-428-friction-range.svg" aria-label="Open full-size diagram: math-sub-428-friction-range"><img src="/images/learning/mathematics/math-sub-428-friction-range.svg" width="1528" height="940" alt="Inclined particle free-body diagram and derivation of the admissible applied-force interval." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Friction creates a range of possible equilibrium forces — Marlbridge Mathematics.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:math-sub-428-friction-range -->
+
 
 Friction acts along the surface and opposes the motion, or the tendency to move. Its size is limited:
 

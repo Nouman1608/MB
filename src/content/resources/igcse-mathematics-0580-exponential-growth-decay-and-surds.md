@@ -43,6 +43,14 @@ Two related outcomes sit in other topics. Drawing and interpreting **graphs** of
 
 ## Exponential growth and decay (E1.17, Extended only)
 
+<!-- marlbridge-diagram:math-b50-cambridge-exponential-vs-linear-growth -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/mathematics/math-b50-cambridge-exponential-vs-linear-growth.svg" aria-label="Open full-size diagram: math-b50-cambridge-exponential-vs-linear-growth"><img src="/images/learning/mathematics/math-b50-cambridge-exponential-vs-linear-growth.svg" width="1528" height="940" alt="A town of 25,000 growing by 2.4% per year uses multiplier 1.024: after 8 years it is about 30,223. Adding a fixed 600 yearly gives 29,800 instead; the graph and comparison show the percentage is applied to the current amount." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>A town of 25,000 growing by 2.4% per year uses multiplier 1.024: after 8 years it is about 30,223. Adding a fixed 600 yearly gives 29,800 instead; the graph and comparison show the percentage is applied to the current amount. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:math-b50-cambridge-exponential-vs-linear-growth -->
+
+
 ### The idea
 
 A quantity grows or decays **exponentially** when it changes by the **same percentage** in every time period. Each period, the new value is the old value multiplied by the same number, called the **multiplier**.
@@ -104,6 +112,14 @@ amount = 640 x (1/2)^4 = 640 / 16 = 40
 
 ### Worked example 4: when does it pass a value? (calculator)
 
+<!-- marlbridge-diagram:maths-b31-exponential-decay-threshold -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/mathematics/maths-b31-exponential-decay-threshold.svg" aria-label="Open full-size diagram: maths-b31-exponential-decay-threshold"><img src="/images/learning/mathematics/maths-b31-exponential-decay-threshold.svg" width="1600" height="1050" alt="Each year the population is multiplied by 0.94. At year 9 it is about 2062.78, still above 2000; at year 10 it is about 1939.01, below 2000. Therefore the first complete year below the threshold is 10." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Each year the population is multiplied by 0.94. At year 9 it is about 2062.78, still above 2000; at year 10 it is about 1939.01, below 2000. Therefore the first complete year below the threshold is 10. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:maths-b31-exponential-decay-threshold -->
+
+
 The number of fish in a lake is 3600. It decreases by 6% each year. After how many complete years will the number first be below 2000?
 
 The multiplier is 0.94. Logarithms are not required in this syllabus, so try whole numbers of years.
@@ -116,6 +132,14 @@ n = 10:  3600 x 0.94^10 = 1939.01...   (below 2000)
 The number is first below 2000 after **10 years**. Always show the values for the years either side of the answer. That is the evidence that 10 is the first such year.
 
 ### Worked example 5: finding the original value
+
+<!-- marlbridge-diagram:maths-b35-reverse-depreciation-original-value -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/mathematics/maths-b35-reverse-depreciation-original-value.svg" aria-label="Open full-size diagram: maths-b35-reverse-depreciation-original-value"><img src="/images/learning/mathematics/maths-b35-reverse-depreciation-original-value.svg" width="1600" height="1050" alt="After three years, 6144=original×0.8³. Since 0.8³=0.512, the original value is 6144÷0.512=$12,000. Reversing step by step divides by 0.8 each year." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>After three years, 6144=original×0.8³. Since 0.8³=0.512, the original value is 6144÷0.512=$12,000. Reversing step by step divides by 0.8 each year. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:maths-b35-reverse-depreciation-original-value -->
+
 
 A van is worth $6144 after 3 years. Its value has fallen by 20% each year. Find its value when new.
 
@@ -130,6 +154,14 @@ original = 6144 / 0.512 = 12 000
 The van was worth **$12 000** when new. A common wrong answer multiplies by 1.2 three times. A 20% rise does not undo a 20% fall.
 
 ### Worked example 6: finding the rate
+
+<!-- marlbridge-diagram:maths-b33-exponential-growth-rate -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/mathematics/maths-b33-exponential-growth-rate.svg" aria-label="Open full-size diagram: maths-b33-exponential-growth-rate"><img src="/images/learning/mathematics/maths-b33-exponential-growth-rate.svg" width="1600" height="1050" alt="The multiplier satisfies 2000m³=2662, so m³=1.331 and m=1.1. The annual percentage rate is (1.1−1)×100%=10%. Check: 2000, 2200, 2420, 2662." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>The multiplier satisfies 2000m³=2662, so m³=1.331 and m=1.1. The annual percentage rate is (1.1−1)×100%=10%. Check: 2000, 2200, 2420, 2662. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:maths-b33-exponential-growth-rate -->
+
 
 An investment grows from 2000 to 2662 in 3 years, at the same percentage rate each year. Find the rate.
 

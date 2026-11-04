@@ -129,6 +129,14 @@ In (a), everyone inside the T circle plays tennis, so include the overlap.
 
 ### Worked example 4: three-set Venn diagram (Extended only)
 
+<!-- marlbridge-diagram:maths-b32-three-set-venn-probabilities -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/mathematics/maths-b32-three-set-venn-probabilities.svg" aria-label="Open full-size diagram: maths-b32-three-set-venn-probabilities"><img src="/images/learning/mathematics/maths-b32-three-set-venn-probabilities.svg" width="1600" height="1050" alt="The eight disjoint regions sum to 60. Exactly two clubs is 4+3+5=12, so probability 1/5. Set C contains 6+3+5+2=16; its complement is 44, giving probability 11/15." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>The eight disjoint regions sum to 60. Exactly two clubs is 4+3+5=12, so probability 1/5. Set C contains 6+3+5+2=16; its complement is 44, giving probability 11/15. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:maths-b32-three-set-venn-probabilities -->
+
+
 Core Venn diagrams here are limited to two sets; the Extended outcome has no such limit.
 
 A group of 60 students is surveyed on three clubs, A, B and C. The regions of the Venn diagram are:
@@ -167,6 +175,14 @@ P(A′) = 1 − P(A)            (Extended notation)
 So the probabilities of **all** the outcomes of one event add up to 1, which lets you find a missing value in a table.
 
 ### Worked example 5: missing probabilities (non-calculator)
+
+<!-- marlbridge-diagram:maths-b36-spinner-missing-probabilities -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/mathematics/maths-b36-spinner-missing-probabilities.svg" aria-label="Open full-size diagram: maths-b36-spinner-missing-probabilities"><img src="/images/learning/mathematics/maths-b36-spinner-missing-probabilities.svg" width="1600" height="1050" alt="Since probabilities sum to one, 0.35+0.2+x+2x=1, so 3x=0.45 and x=0.15. Therefore P(yellow)=2x=0.30. The final probabilities sum to 1." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Since probabilities sum to one, 0.35+0.2+x+2x=1, so 3x=0.45 and x=0.15. Therefore P(yellow)=2x=0.30. The final probabilities sum to 1. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:maths-b36-spinner-missing-probabilities -->
+
 
 A spinner can land on red, blue, green or yellow.
 
@@ -238,6 +254,14 @@ expected frequency = probability × number of trials
 This is what you expect **on average**; the real result will usually be close, not exact.
 
 ### Worked example 7: a fair dice (non-calculator)
+
+<!-- marlbridge-diagram:math-b50-cambridge-expected-multiples-of-three -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/mathematics/math-b50-cambridge-expected-multiples-of-three.svg" aria-label="Open full-size diagram: math-b50-cambridge-expected-multiples-of-three"><img src="/images/learning/mathematics/math-b50-cambridge-expected-multiples-of-three.svg" width="1528" height="940" alt="On a fair 10-sided die, three outcomes (3, 6, 9) out of ten are multiples of 3, so P=3/10. Across 150 rolls, expected frequency=(3/10)×150=45; this is an average prediction and not a guaranteed observed count." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>On a fair 10-sided die, three outcomes (3, 6, 9) out of ten are multiples of 3, so P=3/10. Across 150 rolls, expected frequency=(3/10)×150=45; this is an average prediction and not a guaranteed observed count. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:math-b50-cambridge-expected-multiples-of-three -->
+
 
 A fair ten-sided dice is numbered 1 to 10. It is rolled 150 times. Calculate the expected number of times the score is a multiple of 3.
 

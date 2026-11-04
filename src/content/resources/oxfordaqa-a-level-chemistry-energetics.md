@@ -68,6 +68,35 @@ combining q = mcΔT with a measured temperature change to find the
 heat released or absorbed, then converting to a molar quantity using
 the moles of substance reacted.
 
+<!-- marlbridge-diagram:chem-b17-calorimetry-heat-accounting -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/chemistry/chem-b17-calorimetry-heat-accounting.svg" aria-label="Open full-size diagram: calorimetry setup and worked heat-accounting example"><img src="/images/learning/chemistry/chem-b17-calorimetry-heat-accounting.svg" width="1528" height="940" alt="Insulated-cup calorimetry and a worked magnesium example: calculate solution heat from mass, specific heat capacity and temperature rise, reverse its sign for reaction heat, convert magnesium mass to moles, and calculate molar enthalpy." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Worked calorimetry example: the solution gains +2.30 kJ, so the exothermic reaction releases −2.30 kJ; divide by the limiting magnesium amount to obtain ΔH ≈ −466 kJ mol⁻¹. The simple calculation neglects cup heat capacity and heat loss.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:chem-b17-calorimetry-heat-accounting -->
+
+For an acid–metal experiment, measure the acid into the insulated cup, record its starting temperature,
+add a weighed amount of metal, replace the lid, stir gently and record the highest temperature. Use the
+mass of the reacting solution (often approximated from its volume using density 1.00 g cm⁻³) and the
+supplied specific heat capacity. The cup and lid reduce heat exchange; the thermometer bulb should remain
+in the liquid and clear of the cup wall and base.
+
+**Worked sign and mole example.** Suppose 0.120 g Mg reacts with 50.0 cm³ of excess 1.00 mol dm⁻³ HCl;
+the solution warms from 20.0 °C to 31.0 °C. Take the solution mass as 50.0 g and
+`c = 4.18 J g⁻¹ K⁻¹`:
+
+```
+q_solution = mcΔT = 50.0 × 4.18 × (31.0 − 20.0) = +2.30 kJ
+q_reaction ≈ −q_solution = −2.30 kJ       (the solution gains heat; reaction releases it)
+n(Mg) = 0.120 ÷ 24.3 = 0.00494 mol       (Mg is limiting; HCl is in excess)
+ΔH ≈ −2.30 ÷ 0.00494 = −466 kJ mol⁻¹
+```
+
+The minus sign belongs to the exothermic reaction. This estimate assumes the solution has water's density
+and heat capacity and neglects heat absorbed by the cup or lost to the surroundings. Heat loss makes the
+measured temperature rise too small, so the calculated exothermic enthalpy is usually less negative than
+the true value; a lid, insulation and prompt temperature readings reduce that error.
+
 ## Hess's law
 
 You need to use Hess's law to perform calculations, including
@@ -95,6 +124,21 @@ calculation using measured enthalpies of formation or combustion is
 specific to the actual compounds involved in that particular
 reaction, rather than an average taken across many different
 molecules.
+
+Mean bond enthalpy is the enthalpy change required to break one mole of a specified covalent bond in
+gaseous molecules, averaged over different gaseous compounds containing that bond. Bond breaking is
+endothermic, so these values are positive. Estimate a gas-phase reaction enthalpy by summing bonds broken
+and subtracting bonds formed:
+
+```
+H₂(g) + Cl₂(g) → 2HCl(g)
+broken: H–H (436) + Cl–Cl (243) = 679 kJ mol⁻¹
+formed: 2 × H–Cl (431) = 862 kJ mol⁻¹
+ΔH ≈ Σ(bonds broken) − Σ(bonds formed) = 679 − 862 = −183 kJ mol⁻¹
+```
+
+The result is for the reaction as written and is approximate because the tabulated H–H, Cl–Cl and H–Cl
+values are mean values, not exact bond enthalpies for only these reactants and product.
 
 ## A worked example
 

@@ -108,6 +108,14 @@ the exchange-rate movement reverses which side benefits.
 
 ## Worked example: interest rates and business decisions
 
+<!-- marlbridge-diagram:business-oxfordaqa-igcse-interest-rate-double-impact -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/business/business-oxfordaqa-igcse-interest-rate-double-impact.svg" aria-label="Open full-size diagram: business-oxfordaqa-igcse-interest-rate-double-impact"><img src="/images/learning/business/business-oxfordaqa-igcse-interest-rate-double-impact.svg" width="1600" height="1050" alt="The lesson example separates the business loan channel from the customer-spending channel after an interest-rate rise." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>The lesson example separates the business loan channel from the customer-spending channel after an interest-rate rise. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:business-oxfordaqa-igcse-interest-rate-double-impact -->
+
+
 A candidate is asked to analyse the impact of a rise in interest rates
 on a small manufacturing business that relies on a bank loan to fund new
 machinery.

@@ -235,6 +235,14 @@ For two sets, add the sizes of A and B, then take away the size of the overlap, 
 
 ### Solving problems with Venn diagrams
 
+<!-- marlbridge-diagram:math-b58-oxfordaqa-three-set-venn-club-members -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/public/images/learning/mathematics/math-b58-oxfordaqa-three-set-venn-club-members.svg" aria-label="Open full-size diagram: math-b58-oxfordaqa-three-set-venn-club-members"><img src="/public/images/learning/mathematics/math-b58-oxfordaqa-three-set-venn-club-members.svg" width="1528" height="940" alt="A three-circle Venn diagram for a 60-member club shows 4 in all three sets; exclusive pair regions 4, 5 and 3; only chess, acting and music counts 12, 9 and 10; 13 outside all circles." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>A three-circle Venn diagram for a 60-member club shows 4 in all three sets; exclusive pair regions 4, 5 and 3; only chess, acting and music counts 12, 9 and 10; 13 outside all circles.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:math-b58-oxfordaqa-three-set-venn-club-members -->
+
+
 Start with the most-overlapped region and work outwards. Fill the middle first, then subtract from each set total.
 
 **Worked example 24.** Of 40 students, 24 play football, 18 play tennis and 7 play neither. How many play both?

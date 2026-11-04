@@ -70,6 +70,12 @@ Seven points have x = −3, −2, −1, 0, 1, 2, 3 and y = 9, 4, 1, 0, 1, 4, 9, 
 So a coefficient near zero supports the statement "no linear correlation". It never supports "no relationship". Look at the scatter diagram before you trust any test based on r.
 
 ## 2.05g: the hypothesis test for correlation
+<!-- marlbridge-diagram:maths-b19-pearson-correlation-test -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/mathematics/maths-b19-pearson-correlation-test.svg" aria-label="Open full-size diagram: maths-b19-pearson-correlation-test"><img src="/images/learning/mathematics/maths-b19-pearson-correlation-test.svg" width="1600" height="1050" alt="At n=10 and 5% one-tailed significance, critical r is about 0.549; observed r=.68 exceeds the critical value, so reject H0." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>At n=10 and 5% one-tailed significance, critical r is about 0.549; observed r=.68 exceeds the critical value, so reject H0. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:maths-b19-pearson-correlation-test -->
 
 You have a sample of n pairs, and you want to know whether the correlation seen in the sample is evidence of correlation in the whole population. The sample coefficient is r. The population coefficient is written ρ (rho).
 

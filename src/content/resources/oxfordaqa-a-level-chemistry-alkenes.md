@@ -79,6 +79,13 @@ that bond. Each mechanism has the same shape:
    electrophile to its δ− atom. A **carbocation** (positive carbon) and a negative ion form.
 2. Arrow from one lone pair of the anion to C⁺.
 
+<!-- marlbridge-diagram:chem-oxfordaqa-alkene-hbr-h2so4-mechanisms -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/chemistry/chem-oxfordaqa-alkene-hbr-h2so4-mechanisms.svg" aria-label="Open full-size diagram: HBr and sulfuric-acid electrophilic addition to ethene"><img src="/images/learning/chemistry/chem-oxfordaqa-alkene-hbr-h2so4-mechanisms.svg" width="1528" height="940" alt="Two electrophilic-addition mechanisms using symmetrical ethene. With HBr, the C=C pair attacks Hδ+, the H–Br pair moves to Br, and Br− lone-pair attack forms bromoethane. With H₂SO₄, the C=C pair attacks an acid proton, the O–H pair moves to oxygen, and hydrogensulfate attacks the ethyl carbocation through oxygen to form ethyl hydrogensulfate." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Ethene gives one orientation in each example. For unsymmetrical alkenes, compare the possible carbocations; with sulfuric acid, hydrogensulfate bonds through oxygen.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:chem-oxfordaqa-alkene-hbr-h2so4-mechanisms -->
+
 ### Hydrogen bromide
 
 Bromine is more electronegative than hydrogen, so H–Br is polar, Hδ+–Brδ−. Cyclopentene is symmetrical,
@@ -95,7 +102,24 @@ Step 2   C₅H₉⁺  +  :Br⁻   →   C₅H₉Br   (bromocyclopentane)
 ### Bromine, and the test for unsaturation
 
 Br₂ is non-polar. Near the double bond, the high electron density repels the electrons in Br–Br, so the
-nearer Br becomes δ+ (an **induced dipole**) and acts as the electrophile.
+nearer Br becomes δ+ (an **induced dipole**) and acts as the electrophile. The open-carbocation steps in
+the worked outline below are a simplified A-level model; many alkene brominations are better described
+through a bridged bromonium ion. In aqueous bromine, water can compete with Br⁻ to open that intermediate
+and form a bromohydrin, so the dibromo product shown is not an inevitable product of every bromine-water test.
+
+<!-- marlbridge-diagram:as-bromine-ethene-complete-pair-mechanism-reuse -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/chemistry/as-bromine-ethene-complete-pair-mechanism.svg" aria-label="Open full-size diagram: bromonium-ion mechanism for ethene and bromine in a non-nucleophilic medium"><img src="/images/learning/chemistry/as-bromine-ethene-complete-pair-mechanism.svg" width="1528" height="940" alt="More complete bromine-addition pathway in a non-nucleophilic medium: three concerted electron-pair arrows form a cyclic bromonium ion and bromide; bromide opens the bridge from the opposite side to give 1,2-dibromoethane. The diagram states that this is not the product assumption for bromine water." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>The bridged bromonium pathway is a more complete model than the simplified open-carbocation outline. This figure assumes a non-nucleophilic medium.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:as-bromine-ethene-complete-pair-mechanism-reuse -->
+
+<!-- marlbridge-diagram:as-bromine-medium-product-qualification-reuse -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/chemistry/as-bromine-medium-product-qualification.svg" aria-label="Open full-size diagram: solvent effects on bromine-addition products"><img src="/images/learning/chemistry/as-bromine-medium-product-qualification.svg" width="1528" height="940" alt="Solvent-dependent bromonium opening: bromide capture in a non-nucleophilic medium gives a vicinal dibromide; water capture can give a bromohydrin. Bromine-water decolourisation does not by itself prove that the dibromide is the sole product." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Product identity depends on the nucleophile available to open the bromonium ion: bromide or water.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:as-bromine-medium-product-qualification-reuse -->
 
 **Worked example 1.** Outline the reaction of hept-1-ene with bromine.
 
@@ -188,8 +212,9 @@ number of monomer units per chain. (Ar values: N = 14.0, C = 12.0, H = 1.0)
 
 ### Why addition polymers are unreactive
 
-No C=C remains, so electrophiles have nothing to attack, and the backbone consists of strong C–C and C–H
-bonds with little or no polarity.
+The saturated polyalkene backbone has no C=C bond for electrophilic addition under the usual mild
+conditions discussed here; its C–C and C–H bonds are strong and have little polarity. This does not mean
+every addition polymer is universally inert: reactive side groups or other conditions can allow reactions.
 
 ### Forces between polyalkene chains
 
@@ -216,6 +241,14 @@ uses.
 
 ### Production and hazards
 
+<!-- marlbridge-diagram:chem-obj-epoxide-ring-strain-reuse2 -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/chemistry/chem-obj-epoxide-ring-strain.svg" aria-label="Open full-size diagram: chem-obj-epoxide-ring-strain"><img src="/images/learning/chemistry/chem-obj-epoxide-ring-strain.svg" width="1528" height="940" alt="Epoxyethane is a three-membered C–C–O ring with approximately 60-degree angles, much smaller than tetrahedral 109.5 degrees. Nucleophilic ring opening relieves angle strain." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Epoxyethane: ring geometry and strain release — Marlbridge Chemistry.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:chem-obj-epoxide-ring-strain-reuse2 -->
+
+
 Epoxyethane, C₂H₄O, is a three-membered ring of two CH₂ groups and an oxygen atom. It is made by the
 **partial oxidation of ethene** with oxygen over a **silver catalyst** at about 220–280 °C and 1–3 MPa:
 
@@ -232,11 +265,33 @@ Every reactant atom ends up in the product, so the atom economy is 100%. The haz
 
 ### Why epoxyethane is so reactive
 
+<!-- marlbridge-diagram:chem-obj-epoxide-ring-strain -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/chemistry/chem-obj-epoxide-ring-strain.svg" aria-label="Open full-size diagram: chem-obj-epoxide-ring-strain"><img src="/images/learning/chemistry/chem-obj-epoxide-ring-strain.svg" width="1528" height="940" alt="Epoxyethane is a three-membered C–C–O ring with approximately 60-degree angles, much smaller than tetrahedral 109.5 degrees. Nucleophilic ring opening relieves angle strain." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Epoxyethane: ring geometry and strain release — Marlbridge Chemistry.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:chem-obj-epoxide-ring-strain -->
+
+<!-- marlbridge-diagram:chem-b24-epoxyethane-ring-strain -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/chemistry/chem-b24-epoxyethane-ring-strain.svg" aria-label="Open full-size diagram: chem-b24-epoxyethane-ring-strain"><img src="/images/learning/chemistry/chem-b24-epoxyethane-ring-strain.svg" width="1528" height="940" alt="Epoxyethane is a three-membered ring of two CH2 groups and one oxygen. The bond angles are about 60 degrees, below tetrahedral 109.5 degrees. Polar C-O bonds make ring carbons susceptible to nucleophilic attack; opening a C-O bond relieves strain." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>The strained ring angle and polar C–O bonds help explain why epoxyethane reacts with nucleophiles. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:chem-b24-epoxyethane-ring-strain -->
+
+
 The ring forces the bond angles to about 60°, far below 109.5°, so the ring is strained and its C–O bonds
 are relatively weak. Each C–O bond is also polar (Cδ+–Oδ−), so the ring carbons attract nucleophiles.
 Breaking one C–O bond opens the ring and releases the strain.
 
 ### Reactions with water and alcohols
+<!-- marlbridge-diagram:chem-b24-epoxide-nucleophilic-opening -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/chemistry/chem-b24-epoxide-nucleophilic-opening.svg" aria-label="Open full-size diagram: chem-b24-epoxide-nucleophilic-opening"><img src="/images/learning/chemistry/chem-b24-epoxide-nucleophilic-opening.svg" width="1528" height="940" alt="In the simplified school mechanism for epoxyethane and alcohol ROH, a lone pair on alcohol oxygen attacks a ring carbon while the ring C-O bond pair moves to the ring oxygen. The charged intermediate RO(H)+-CH2-CH2-O- transfers a proton to give RO-CH2-CH2-OH. For water, R is H; dilute acid can catalyse the water reaction." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Formal neutral-nucleophile mechanism: alcohol oxygen attacks a ring carbon as a ring C–O pair moves to oxygen, followed by proton transfer. For water R = H; the industrial reaction is acid-catalysed. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:chem-b24-epoxide-nucleophilic-opening -->
+
 
 Water and alcohols have lone pairs on oxygen and add across the ring:
 
@@ -266,7 +321,8 @@ conversion? (Mr: C₂H₄O = 44.0, C₂H₆O₂ = 62.0)
 
 - **Ethane-1,2-diol** is used as **antifreeze** and engine coolant, and to make polyester such as PET.
   Most epoxyethane produced goes to make ethane-1,2-diol. It is toxic if swallowed, so spilled or dumped
-  coolant is a hazard, although it breaks down in the environment within weeks.
+  coolant is a hazard. Prevent release and follow local disposal guidance; environmental breakdown depends
+  on conditions, so do not assume it disappears within a fixed number of weeks.
 - **Glycol ethers** (such as 2-methoxyethanol) are solvents in paints and cleaners.
 - With a long-chain alcohol, several epoxyethane molecules add in turn:
   R–OH + nC₂H₄O → R–(OCH₂CH₂)ₙ–OH. The hydrocarbon tail is non-polar and the chain of ether groups ending

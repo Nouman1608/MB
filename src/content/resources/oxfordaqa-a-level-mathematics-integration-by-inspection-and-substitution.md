@@ -180,6 +180,14 @@ Replace u by 3x − 2 to finish: (3x − 2)⁶/54 + 2(3x − 2)⁵/45 + c.
 
 ### Example 7: a definite integral with changed limits
 
+<!-- marlbridge-diagram:math-b70-oxfordaqa-substitution-changed-limits -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/public/images/learning/mathematics/math-b70-oxfordaqa-substitution-changed-limits.svg" aria-label="Open full-size diagram: math-b70-oxfordaqa-substitution-changed-limits"><img src="/public/images/learning/mathematics/math-b70-oxfordaqa-substitution-changed-limits.svg" width="1528" height="940" alt="A step-by-step substitution changes x-limits 1 and 6 to u-limits 4 and 9, rewrites the integrand, and evaluates the exact result 20/3." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>A step-by-step substitution changes x-limits 1 and 6 to u-limits 4 and 9, rewrites the integrand, and evaluates the exact result 20/3.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:math-b70-oxfordaqa-substitution-changed-limits -->
+
+
 Evaluate ∫ from 1 to 6 of x/√(x + 3) dx using u = x + 3.
 
 ```

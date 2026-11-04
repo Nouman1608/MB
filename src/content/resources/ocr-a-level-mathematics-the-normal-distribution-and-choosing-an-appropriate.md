@@ -203,6 +203,14 @@ For X ~ B(240, 0.35): μ = 240 × 0.35 = 84 and σ² = 240 × 0.35 × 0.65 = 54.
 
 Calculations that explicitly require the approximation are excluded, so this is for understanding. The binomial counts whole numbers while the normal is continuous, so a **continuity correction** treats "X ≤ 90" as "X < 90.5". For the model above the exact binomial P(X ≤ 90) is 0.811. The normal without correction gives 0.792, and with the correction 0.810. The correction is close, which shows why it is taught.
 
+<!-- marlbridge-diagram:maths-b39-ocr-binomial-normal-correction -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/mathematics/maths-b39-ocr-binomial-normal-correction.svg" aria-label="Open full-size diagram: maths-b39-ocr-binomial-normal-correction"><img src="/images/learning/mathematics/maths-b39-ocr-binomial-normal-correction.svg" width="1600" height="1050" alt="μ=np=84; σ²=npq=54.6; σ≈7.39." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>μ=np=84; σ²=npq=54.6; σ≈7.39. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:maths-b39-ocr-binomial-normal-correction -->
+
+
 ## Common errors
 
 - Entering σ² instead of σ in the calculator.

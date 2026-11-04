@@ -170,7 +170,7 @@ The light reactions are a chain of coordinated steps across the thylakoid membra
 3. **Electrons pass along the electron transport chain (ETC).** The ETC is a series of proteins in the thylakoid membrane that connects photosystem II to photosystem I. Electrons move from carrier to carrier in **oxidation–reduction (redox) reactions**: each carrier is reduced when it gains electrons and oxidised when it passes them on. At each step the electrons lose a little energy. Some of that energy is used to **pump H⁺** from the stroma into the thylakoid space. (You do not need the names of the carriers.)
 4. **Light boosts the electrons again in photosystem I.** The electrons arrive with less energy than they started with. Light absorbed by photosystem I raises them to a high energy level once more.
 5. **NADP⁺ is reduced to NADPH.** The electrons from photosystem I are passed to **NADP⁺**, which also picks up H⁺, forming **NADPH** on the stroma side. NADPH carries high-energy electrons to the Calvin cycle.
-6. **The proton gradient makes ATP.** Water splitting and pumping leave a **high H⁺ concentration inside** the thylakoid and a **low concentration outside**, in the stroma. This electrochemical gradient stores energy. H⁺ ions can flow back out only through **ATP synthase**, a protein channel in the membrane. As they flow, ATP synthase joins ADP and Pᵢ into ATP. Making ATP by this flow of protons is **chemiosmosis**; when the energy came from light, the whole process is called **photophosphorylation**.
+6. **The proton gradient makes ATP.** Water splitting and pumping leave a **high H⁺ concentration inside** the thylakoid and a **low concentration outside**, in the stroma. This electrochemical gradient stores energy. In this coupled model, H⁺ return through **ATP synthase** provides the route that drives ATP production. Other proton conductance or leak can dissipate the gradient without producing ATP. As they flow, ATP synthase joins ADP and Pᵢ into ATP. Making ATP by this flow of protons is **chemiosmosis**; when the energy came from light, the whole process is called **photophosphorylation**.
 
 **Why two photosystems?** One light-driven boost does not give an electron enough energy to travel all the way from water to NADP⁺. Photosystem II takes electrons from water and powers the proton pumping; photosystem I gives the electrons the extra energy needed to reduce NADP⁺. Without both, the plant could not make both ATP and NADPH.
 
@@ -226,9 +226,9 @@ The two stages depend on each other. Without light, ATP and NADPH run out within
 
 **(c)**
 
-1. **Claim.** H stops carbohydrate production.
-2. **Evidence and reasoning, step by step.** Electrons cannot leave photosystem II, so it cannot accept more electrons from water. Water splitting stops, which is why O₂ release falls by 95%. With no electron flow along the ETC, no H⁺ is pumped and none is released from water, so the H⁺ gradient collapses (500 times → 2 times). Without the gradient, ATP synthase makes little ATP (9% of control). No electrons reach photosystem I, so no NADPH is made either.
-3. **Link to the Calvin cycle.** The Calvin cycle needs both ATP and NADPH to turn CO₂ into carbohydrate. With both missing, carbohydrate production stops, and the plant cannot store energy.
+1. **Claim.** H strongly inhibits the light reactions and is predicted to reduce carbohydrate production.
+2. **Evidence and reasoning.** The 95% fall in O₂ release indicates strong inhibition of water-derived electron flow. The H⁺ concentration ratio falls from about 500 to 2, and ATP production is 9% of control, supporting greatly reduced proton-gradient-driven ATP synthesis. Blocking electron transfer from photosystem II also predicts reduced delivery of electrons for NADPH formation.
+3. **Link to the Calvin cycle and limit.** The cycle requires ATP and NADPH, so carbon fixation is expected to fall. The nonzero O₂ and ATP values do not show complete cessation, and NADPH and carbohydrate production were not measured. These data support strong inhibition, rather than proving that all carbohydrate production has stopped.
 
 ## Common misconceptions
 

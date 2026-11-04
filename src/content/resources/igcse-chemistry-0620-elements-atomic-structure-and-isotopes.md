@@ -86,7 +86,7 @@ compounds: carbon dioxide (CO2); sodium chloride (NaCl) - fixed ratios
 mixtures:  air; sea water - substances not bonded, composition varies
 ```
 
-In a particle diagram, look at each separate particle. If every particle is identical and contains one kind of atom, it is an element. If every particle is identical but contains more than one kind of atom, it is a compound. If there is more than one kind of particle, it is a mixture.
+For diagrams of separate atoms and molecules, identify each particle and the elements it contains. One kind of atom or one kind of elemental molecule represents a pure element; one kind of molecule containing different elements represents a pure molecular compound. Different uncombined substances represent a mixture. Ionic compounds need a different check: a pure sodium chloride crystal contains both Na⁺ and Cl⁻ ions in one fixed-ratio lattice, so two ion species do not by themselves make a mixture. Check the substance and bonding pattern rather than counting particle kinds alone.
 
 ## 2.2 Atomic structure and the Periodic Table
 

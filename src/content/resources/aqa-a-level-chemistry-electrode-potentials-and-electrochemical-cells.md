@@ -66,7 +66,7 @@ Zn(s) | Zn²⁺(aq) || Cu²⁺(aq) | Cu(s)
 - Electrodes go on the outside. On each side, the species are ordered so that the change reads left to right across the line: on the left Zn → Zn²⁺ (oxidation); on the right Cu²⁺ → Cu (reduction).
 - Where both species are in the same solution, separate them with a comma and put platinum on the outside: `Pt(s) | Fe²⁺(aq), Fe³⁺(aq) ||`.
 
-**EMF = E⦵(right) − E⦵(left)**, which is the same as E⦵(positive electrode) − E⦵(negative electrode). Written correctly, a cell always has a positive EMF.
+**EMF = E⦵(right) − E⦵(left)**, which is the same as E⦵(positive electrode) − E⦵(negative electrode). In the spontaneous galvanic-cell orientation chosen here, the right-hand electrode is the positive cathode and the EMF is positive. More generally, the sign belongs to the cell reaction as written: E(right) − E(left) can be negative if that direction is nonspontaneous under the stated conditions.
 
 ### Worked example 1: the zinc–copper cell
 

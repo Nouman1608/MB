@@ -55,6 +55,14 @@ The syllabus says Paper 5 questions are mainly numerical and use no algebra beyo
 
 ## 5.1 Representation of data
 
+<!-- marlbridge-diagram:maths-ps1-histogram-frequency-density -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/mathematics/maths-ps1-histogram-frequency-density.svg" aria-label="Open full-size diagram: maths-ps1-histogram-frequency-density"><img src="/images/learning/mathematics/maths-ps1-histogram-frequency-density.svg" width="1600" height="1050" alt="Grouped-data display guide and histogram with frequency densities 3 and 4; bar areas are proportional to frequencies 30 and 20." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>For unequal class widths, use frequency density so histogram bar area represents frequency. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:maths-ps1-histogram-frequency-density -->
+
+
 ### Choosing a diagram
 
 - **Stem-and-leaf**: keeps every raw value; good for small data sets. A back-to-back diagram compares two sets on one shared stem. Always include a key, for example "3 | 7 means 37".
@@ -152,6 +160,14 @@ P(A | B) = P(A ∩ B) / P(B)
 This formula is not in MF19; learn it. Tree diagrams handle most questions.
 
 **Worked example.** On 30% of days it rains. On a rainy day, P(Ali is late) = 0.25. On a dry day, P(Ali is late) = 0.1.
+
+<!-- marlbridge-diagram:maths-b15-stats-conditional-probability-tree -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/mathematics/maths-b15-stats-conditional-probability-tree.svg" aria-label="Open full-size diagram: maths-b15-stats-conditional-probability-tree"><img src="/images/learning/mathematics/maths-b15-stats-conditional-probability-tree.svg" width="1600" height="1050" alt="Two-stage rain and lateness tree with joint probabilities; P(late)=0.145 and P(rain given late)=15/29≈0.517." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Two-stage rain and lateness tree with joint probabilities; P(late)=0.145 and P(rain given late)=15/29≈0.517. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:maths-b15-stats-conditional-probability-tree -->
+
 
 ```
 P(late) = 0.3 × 0.25 + 0.7 × 0.1 = 0.075 + 0.07 = 0.145

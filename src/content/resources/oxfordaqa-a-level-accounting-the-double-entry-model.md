@@ -62,6 +62,13 @@ Every transaction has an equal debit and credit. Debit an increase in an asset, 
 The three column cash book has discount, cash and bank columns on each side. Discounts allowed go in the debit-side discount column; discounts received go in the credit-side one. The discount columns are memorandum totals. They are not balanced. At the period end their totals are posted to the Discounts allowed account (debit) and the Discounts received account (credit).
 
 ### Worked example 1
+<!-- marlbridge-diagram:ac-b16-three-column-cash-book -->
+<figure class="study-guide-figure">
+  <img src="/images/learning/accounting/ac-b16-three-column-cash-book.svg" alt="The Ravelstone example records opening balances, customer and supplier discounts, cash sales, a standing order and wages; closing cash is $570 and bank is $2,427." loading="lazy" />
+  <figcaption>Cash and bank balances are balanced separately; discount columns are memorandum totals.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:ac-b16-three-column-cash-book -->
+
 
 Ravelstone Garden Supplies starts May with cash 380 and bank 2,150. In May:
 

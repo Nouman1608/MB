@@ -71,6 +71,13 @@ where Φ_B is the flux through one turn and N is the number of turns. For a coil
 
 ## The inductance of a long solenoid
 
+<!-- marlbridge-diagram:physcem-b18-long-solenoid-inductance-linkage -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/physics/physcem-b18-long-solenoid-inductance-linkage.svg" aria-label="Open full-size diagram: long-solenoid inductance and flux linkage"><img src="/images/learning/physics/physcem-b18-long-solenoid-inductance-linkage.svg" width="1600" height="1050" alt="A long air-core solenoid has an approximately uniform internal field B = μ₀NI/ℓ. Flux through one turn is BA; flux linkage NΦ gives L = μ₀N²A/ℓ." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>For a long air-core solenoid, the nearly uniform internal field sets the flux through each turn and the total flux linkage. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:physcem-b18-long-solenoid-inductance-linkage -->
+
 Take a long solenoid with N turns, length ℓ and cross-sectional area A, with no core (air or vacuum inside). Ampère's law gives the field inside:
 
 B = μ₀NI/ℓ
@@ -82,6 +89,8 @@ B = μ₀NI/ℓ
 The current cancels, as it should. If the solenoid is wound on a core of a magnetic material, replace μ₀ by the permeability of the core:
 
 **L_sol = μ_core N²A / ℓ**
+
+This replacement is an ideal model for a long solenoid filled by a homogeneous, linear, unsaturated core with approximately constant permeability. Real ferromagnetic cores can have field-dependent permeability and hysteresis; finite length, leakage and fringing also make the simple scaling approximate.
 
 A core of iron or a similar material has a permeability many times μ₀, so it raises the inductance by the same factor. This is why real inductors are often wound on a core.
 

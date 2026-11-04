@@ -82,6 +82,14 @@ Objectives differ by stage: a start-up prioritises **survival** and cash flow, w
 
 ## Ownership and stakeholders
 
+<!-- marlbridge-diagram:business-ocr-gcse-stakeholder-conflict-map -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/business/business-ocr-gcse-stakeholder-conflict-map.svg" aria-label="Open full-size diagram: business-ocr-gcse-stakeholder-conflict-map"><img src="/images/learning/business/business-ocr-gcse-stakeholder-conflict-map.svg" width="1600" height="1050" alt="A source-based stakeholder conflict map links a business decision to employees, owners, community and customers." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>A source-based stakeholder conflict map links a business decision to employees, owners, community and customers. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:business-ocr-gcse-stakeholder-conflict-map -->
+
+
 Sole traders and partnerships have **unlimited liability** — personal assets are at risk. Private and public limited companies have **limited liability**, so shareholders can lose only what they invested. That protection is what makes raising external capital feasible, and it is the most examined idea in the topic.
 
 Stakeholders — owners, employees, customers, suppliers, government and the local community — have interests that frequently conflict. Higher wages please employees but reduce profit; expansion pleases owners but may disturb the community.

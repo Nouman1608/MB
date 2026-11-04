@@ -12,7 +12,7 @@ prerequisites:
 prerequisiteResources: ["mb-ap-bio-2.7-study-guide"]
 learningObjectives:
   - "Compare simple diffusion, facilitated diffusion and active transport by energy use, direction and the proteins involved"
-  - "Explain why active transport needs membrane proteins and a direct input of metabolic energy such as ATP"
+  - "Explain how primary active transport couples a membrane pump directly to ATP, and how secondary active transport can use an ion gradient"
   - "Describe the steps of the sodium–potassium pump cycle and its 3 Na⁺ : 2 K⁺ : 1 ATP ratio"
   - "Explain what an electrochemical gradient is and how the pump helps maintain the membrane potential"
   - "Use pump stoichiometry to calculate ion movement and ATP use"
@@ -27,14 +27,14 @@ next: "mb-ap-bio-2.8-practice"
 framework: { schoolYear: "2026-27", examSeries: "May 2027" }
 sources: ["ced-biology", "page-biology"]
 keyPoints:
-  - "Active transport moves substances using a direct input of metabolic energy, usually ATP. It often moves ions against their concentration gradient, from low to high concentration."
+  - "Primary active transport uses energy directly, commonly ATP hydrolysis; secondary active transport uses an ion gradient as its immediate energy source. Both can move a substance against its own electrochemical gradient."
   - "Active transport always needs a membrane protein (a pump). The pump is specific and changes shape as it works."
   - "The sodium–potassium pump moves 3 Na⁺ out and 2 K⁺ in for every ATP. This keeps Na⁺ high outside and K⁺ high inside."
   - "An electrochemical gradient combines a concentration difference and a charge difference. The pump moves one net positive charge out per cycle, helping keep the inside of the cell negative (the membrane potential)."
   - "Stop the ATP supply and the pumps stop: gradients run down as ions leak back by passive transport."
 faqs:
   - question: "Does active transport always move substances against their gradient?"
-    answer: "Not always, but often. What defines active transport is the direct use of metabolic energy by a membrane protein. In some cases this energy is used to move a substance from low to high concentration, which passive transport can never do."
+    answer: "Not always, but often. Primary active transport uses energy directly, while secondary active transport uses an ion gradient through a cotransporter. Either can drive a substance against its own electrochemical gradient."
   - question: "Why does the cell spend so much ATP on pumping ions?"
     answer: "The gradients the pumps build are a store of energy and information. Cells use them to control volume, to send nerve signals, and to drive the uptake of other substances. Many cells spend a large share of their ATP on the sodium–potassium pump alone."
 version: "1.0"
@@ -48,23 +48,23 @@ author: "marlbridge-academic-team"
 
 ## Moving things the "wrong" way
 
-Diffusion always runs downhill: from high concentration to low concentration, until the two sides are equal (Topics 2.5 and 2.6). But living cells are full of ions at concentrations very different from their surroundings. A typical animal cell has far more potassium ions inside than outside, and far fewer sodium ions. Diffusion alone would erase these differences. So cells must be doing work to keep them. That work is **active transport**.
+For uncharged solutes, passive diffusion tends toward equal concentrations. For ions, passive equilibrium follows the electrochemical gradient and can occur at unequal concentrations. A typical animal cell has far more potassium ions inside than outside, and far fewer sodium ions. Cells use energy-coupled transport to maintain these ion gradients.
 
 ## Three ways across the membrane
 
 | Feature | Simple diffusion | Facilitated diffusion | Active transport |
 |---|---|---|---|
 | Direction | down the concentration gradient | down the gradient | can be against the gradient (low → high) |
-| Energy | none (passive) | none (passive) | **direct input of metabolic energy**, usually ATP |
+| Energy | no metabolic-energy input | no metabolic-energy input | primary transport uses direct energy, commonly ATP; secondary transport uses a stored ion gradient |
 | Protein needed? | no; crosses the bilayer | yes: a channel or carrier | **yes: a pump (carrier protein)** |
 | Typical substances | O₂, CO₂, other small nonpolar molecules | ions through channels; glucose; water through aquaporins | Na⁺, K⁺, H⁺, Ca²⁺ |
-| Stops when | concentrations are equal | concentrations are equal | the energy supply stops |
+| Net flux approaches zero when | the chemical gradient is exhausted (for uncharged solutes) | the relevant electrochemical gradient is exhausted | the coupled energy source or gradient can no longer drive net transport |
 
-Two features define active transport. First, **a membrane protein is necessary**. Ions are charged and cannot cross the hydrophobic interior of the bilayer, and only a protein can couple energy to their movement. Second, **energy is put in directly**, usually by breaking down ATP. Large particles moved by endocytosis and exocytosis also need energy (Topic 2.5), but those processes use vesicles, not pumps.
+Active transport uses a membrane protein to couple movement to energy. In **primary active transport**, a pump couples transport directly to ATP hydrolysis or another direct energy source. In **secondary active transport**, a cotransporter uses the energy stored in an ion gradient to move another substance. Large particles moved by endocytosis and exocytosis also need energy (Topic 2.5), but those processes use vesicles, not pumps.
 
 ## How a pump works
 
-A pump is a carrier protein that spans the membrane. It binds particular ions on one side, changes shape, and releases them on the other side. ATP provides the energy for the shape change. The pump is **specific**: its binding sites fit particular ions, just as an enzyme's active site fits its substrate. It is also **saturable**: when every pump is working at its top speed, adding more of the ion it carries does not increase the rate.
+The ATP-driven pump considered here is a carrier protein that spans the membrane. It binds particular ions on one side, changes shape, and releases them on the other side. ATP hydrolysis is coupled to the conformational cycle. The pump is **specific**: its binding sites fit particular ions, just as an enzyme's active site fits its substrate. It is also **saturable**: when every pump is working at its top speed, adding more of the ion it carries does not increase the rate.
 
 ### The sodium–potassium pump
 

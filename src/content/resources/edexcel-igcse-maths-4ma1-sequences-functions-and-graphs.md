@@ -159,6 +159,14 @@ The specification applies these to linear, quadratic, sine and cosine functions.
 
 **Worked example.** Find where y = x² − 4x + 1 meets y = 2x − 7.
 
+<!-- marlbridge-diagram:maths-b31-parabola-line-intersections -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/mathematics/maths-b31-parabola-line-intersections.svg" aria-label="Open full-size diagram: maths-b31-parabola-line-intersections"><img src="/images/learning/mathematics/maths-b31-parabola-line-intersections.svg" width="1600" height="1050" alt="Solving x²−4x+1=2x−7 gives (x−2)(x−4)=0, so x=2 or 4. Substituting into the line gives intersections (2,−3) and (4,1), shown on the graph." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Solving x²−4x+1=2x−7 gives (x−2)(x−4)=0, so x=2 or 4. Substituting into the line gives intersections (2,−3) and (4,1), shown on the graph. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:maths-b31-parabola-line-intersections -->
+
+
 ```
 x² − 4x + 1 = 2x − 7
 x² − 6x + 8 = 0

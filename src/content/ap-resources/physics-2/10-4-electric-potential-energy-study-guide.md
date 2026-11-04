@@ -119,7 +119,7 @@ Figure 1 shows U_E against r for two fixed charges. The pattern comes straight f
 </figure>
 
 - Both curves approach **zero** at large r, because U_E = 0 at infinite separation.
-- Both get very steep at small r. U_E grows without limit as the charges get very close.
+- Both get very steep at small r. The magnitude |U_E| grows without limit: U_E tends to positive infinity for like charges and negative infinity for unlike charges in the point-charge model.
 - The two curves are **mirror images** in the r-axis: swapping the sign of one charge flips the sign of U_E.
 - Moving to the right on the solid curve, U_E falls: the like charges lose energy as they separate. Moving to the right on the dashed curve, U_E rises toward zero: unlike charges gain energy as you pull them apart.
 

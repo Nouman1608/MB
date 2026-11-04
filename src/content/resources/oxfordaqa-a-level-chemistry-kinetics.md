@@ -73,10 +73,11 @@ collide for a reaction to occur.
 On an enthalpy profile (see [energetics](/resources/oxfordaqa-a-level-chemistry-energetics/)), Ea is the
 height of the barrier from the reactants to the top of the curve.
 
-**Why most collisions do not lead to a reaction.** In any sample, **most particles have less energy than
-Ea**. When two of them collide, the collision does not supply enough energy to break the bonds that need
-breaking, so the particles bounce apart unchanged. Only the small fraction of collisions with energy at or
-above Ea are **successful**.
+**Why most collisions do not lead to a reaction.** In the typical gas examples at this level, most particles
+have less energy than Ea, so many collisions cannot react. Energy at or above Ea is necessary but not
+sufficient: the particles must also collide in a suitable orientation. Thus not every collision above Ea is
+successful. The fraction below Ea depends on temperature and the barrier; it is not universal for every
+reaction and condition.
 
 Two quantities therefore control the rate:
 
@@ -168,20 +169,24 @@ Heating raises the average kinetic energy of the molecules, and this has two con
 The second effect dominates. Ea sits far out in the tail of the curve. When the curve shifts right, the small
 area beyond Ea grows by a large factor, so the number of successful collisions per second rises sharply.
 
-**Worked example 4 (why the energy effect dominates).** For a reaction with Ea = 50 kJ mol⁻¹, calculations
-of the kind you meet later in 3.1.11 give these figures for a rise from 295 K to 305 K:
+**Worked example 4 (a simple Arrhenius estimate).** For a reaction with Ea = 50 kJ mol⁻¹, estimate the
+rate-constant change from 295 K to 305 K using `k = A exp(−Ea/RT)` and assume the pre-exponential factor A
+is constant:
 
 | Quantity | Change from 295 K to 305 K |
 |---|---|
-| Mean molecular speed (so collision frequency) | rises by about 1.7 % |
-| Proportion of collisions with E ≥ Ea | about 1.95 times larger |
+| Arrhenius factor in k, with A held constant | about 1.95 times larger |
+| Mean molecular speed (a simple collision-frequency comparison) | rises by about 1.7 % |
 
-Step 1: the frequency effect alone would raise the rate by a factor of only about 1.017.
-Step 2: the energy effect raises it by about 1.95.
-Step 3: together the rate rises by about 1.017 × 1.95 ≈ 1.98, so it nearly doubles for a 10 K rise, and
-almost all of that comes from the larger proportion with E ≥ Ea.
+Step 1: `k₂/k₁ ≈ exp[(Ea/R)(1/295 − 1/305)] ≈ 1.95` under the stated constant-A approximation.
+Step 2: the separate mean-speed comparison is `√(305/295) ≈ 1.017`.
+Step 3: do **not** multiply these figures as independent corrections: the first is an Arrhenius rate-constant
+estimate, while the second is only a simple collision-frequency comparison. In collision-theory language,
+heating also increases the fraction of particles in the high-energy tail; the Maxwell–Boltzmann curve
+explains this qualitatively here, and its tail fraction is not separately calculated by the Arrhenius ratio.
 
-You do not need this calculation at International AS, only the explanation it supports.
+You do not need this calculation at International AS, only the explanation it supports. The numerical
+Arrhenius estimate is a simple model, not a separate exact measurement of the Maxwell–Boltzmann tail.
 
 ## 3.1.6.4 Effect of concentration and pressure
 

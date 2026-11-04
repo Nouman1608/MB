@@ -62,6 +62,11 @@ Because prokaryotes are small, their large surface area relative to volume lets 
 
 ## Inside a eukaryotic cell
 
+
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <!-- marlbridge-ap-figure:95f2c041b1a5f17d --><a href="/images/learning/biology/ap-95f2c041b1a5f17d.svg" aria-label="Open full-size diagram: Compartments in a eukaryotic animal cell" title="Compartments in a eukaryotic animal cell"><img src="/images/learning/biology/ap-95f2c041b1a5f17d.svg" width="660" height="400" alt="Simplified drawing of an animal cell inside a plasma membrane. On the left is a large nucleus drawn with two circles to show its double envelope. To its right are curved rough endoplasmic reticulum membranes dotted with ribosomes, then a stack of curved Golgi sacs with small round vesicles beside them. Near the bottom right is a small round lysosome labelled pH about 5, and at the bottom is a long mitochondrion with a zigzag line inside for its folded inner membrane. The fluid around the organelles is labelled cytosol, pH about 7.2. Labels on the right are joined to each structure by thin lines." title="Compartments in a eukaryotic animal cell" loading="lazy" decoding="async" style="display:block;width:100%;height:auto;" /></a>
+  <figcaption>Eukaryotic cells divide work among membrane-bound compartments; compare this labelled animal cell with the prokaryotic model and comparison table above. Select the diagram to enlarge it.</figcaption>
+</figure>
 Eukaryotic cells keep a whole system of internal membranes that **partition** the cell into regions, each specialized for particular jobs: the nucleus, the ER, the Golgi complex, vesicles, lysosomes and vacuoles, plus mitochondria and, in plants and algae, chloroplasts. As you saw in [Topic 2.9](/advanced-course-resources/biology/2-9-cell-compartmentalization-study-guide/), these membranes keep competing reactions apart and add surface area for membrane-bound reactions.
 
 | Feature | Prokaryotic cell | Eukaryotic cell |
@@ -78,12 +83,12 @@ Eukaryotic cells keep a whole system of internal membranes that **partition** th
 
 ## Endosymbiosis: where mitochondria and chloroplasts came from
 
-**Endosymbiosis** means one organism living inside the cell or body of another. In the case of these organelles, the partnership came to benefit both sides. The **endosymbiotic theory** states that mitochondria and chloroplasts evolved from prokaryotes that were once free-living. The American biologist Lynn Margulis set out the microbiological evidence for it in a 1967 paper, building on older ideas.
+**Endosymbiosis** means one organism living inside the cell or body of another. The **endosymbiotic theory** states that mitochondria and chloroplasts descend from prokaryotic endosymbionts that were once free-living. The partnership became integrated over evolutionary time; its exact early steps and the ancestry of individual membrane components are more complex than a single engulfment drawing. Lynn Margulis set out microbiological evidence in a 1967 paper, building on older ideas.
 
 <figure>
 <svg viewBox="0 0 700 290" role="img" aria-labelledby="endo-title endo-desc" xmlns="http://www.w3.org/2000/svg" font-family="system-ui, sans-serif">
 <title id="endo-title">The endosymbiotic origin of mitochondria and chloroplasts</title>
-<desc id="endo-desc">Four panels from left to right joined by arrows. Panel 1: a large round host cell with a small oval aerobic bacterium outside it. Panel 2: the bacterium is now inside the host cell, drawn as two nested ovals because it is wrapped in a membrane from the host. Panel 3: a later cell with a nucleus marked N and two small double-oval mitochondria; a cyanobacterium waits outside. Panel 4: a cell with a nucleus, a mitochondrion and a larger double-oval chloroplast with short lines inside for thylakoids. Captions under each panel describe the step.</desc>
+<desc id="endo-desc">Four panels show a simplified endosymbiotic model. Panel 1: a host cell and an aerobic bacterium. Panel 2: the bacterium is inside the host and is drawn with two boundary membranes; this schematic does not establish the ancestry of each membrane. Panel 3: a later cell with a nucleus and mitochondria; a cyanobacterium is shown outside. Panel 4: a cell with a mitochondrion and a chloroplast. The sequence summarizes the theory, not every disputed step in early eukaryote evolution.</desc>
 <rect x="0" y="0" width="700" height="290" fill="#ffffff"/>
 <circle cx="85" cy="140" r="55" fill="#fdf6e3" stroke="#1d2b44" stroke-width="2.5"/>
 <text x="85" y="145" text-anchor="middle" font-size="13" fill="#1d2b44">Host cell</text>
@@ -122,8 +127,8 @@ Eukaryotic cells keep a whole system of internal membranes that **partition** th
 <text x="85" y="226" text-anchor="middle" font-size="12" fill="#1d2b44">1. A host cell takes in</text>
 <text x="85" y="242" text-anchor="middle" font-size="12" fill="#1d2b44">an aerobic bacterium.</text>
 <text x="265" y="226" text-anchor="middle" font-size="12" fill="#1d2b44">2. It survives inside,</text>
-<text x="265" y="242" text-anchor="middle" font-size="12" fill="#1d2b44">wrapped in host membrane:</text>
-<text x="265" y="258" text-anchor="middle" font-size="12" fill="#1d2b44">two membranes.</text>
+<text x="265" y="242" text-anchor="middle" font-size="12" fill="#1d2b44">with two boundaries shown;</text>
+<text x="265" y="258" text-anchor="middle" font-size="12" fill="#1d2b44">ancestry is not inferred here.</text>
 <text x="445" y="226" text-anchor="middle" font-size="12" fill="#1d2b44">3. Its descendants become</text>
 <text x="445" y="242" text-anchor="middle" font-size="12" fill="#1d2b44">mitochondria. Later, one</text>
 <text x="445" y="258" text-anchor="middle" font-size="12" fill="#1d2b44">lineage takes in a cyanobacterium.</text>
@@ -131,7 +136,7 @@ Eukaryotic cells keep a whole system of internal membranes that **partition** th
 <text x="625" y="242" text-anchor="middle" font-size="12" fill="#1d2b44">chloroplast of algae</text>
 <text x="625" y="258" text-anchor="middle" font-size="12" fill="#1d2b44">and plants.</text>
 </svg>
-<figcaption>Figure 1. A simplified sequence, not to scale. Nested ovals show double membranes; N marks the nucleus. When the nucleus and the other internal membranes first appeared is still debated, so the drawing shows them only in the later panels.</figcaption>
+<figcaption>Figure 1. A simplified endosymbiotic model, not to scale. Nested ovals show two boundaries but do not assign the ancestry of each membrane. N marks the nucleus; its relationship in the sequence is still debated, so the drawing shows it only in later panels.</figcaption>
 </figure>
 
 The sequence explains a pattern you can see today. **Almost all eukaryotes have mitochondria** (or reduced remnants of them), but **only plants, algae and a few other protists have chloroplasts**. That fits mitochondria being acquired first, by the common ancestor of eukaryotes, and chloroplasts later, by one lineage that already had mitochondria. The partnership helped both sides: the host gained a very efficient way to make ATP (and later to capture light), and the guest gained a protected, food-rich home.
@@ -142,12 +147,12 @@ A strong claim rests on several **independent** lines of evidence. Each one belo
 
 | Observation about mitochondria and chloroplasts | Why it supports endosymbiosis |
 |---|---|
-| They have **two membranes**. | Fits a prokaryote (inner membrane) enclosed in a membrane from the host when it was taken in (outer membrane). |
+| They have **two boundary membranes**. | This is compatible with an endosymbiotic history, but membrane number alone does not identify the source of each membrane. Organelle membranes include bacterial-like components and mixed evolutionary contributions; avoid treating inner = bacterium and outer = host as a universal demonstrated mapping. |
 | They contain their **own DNA**, usually a small circular molecule, as bacteria do. | Free-living prokaryotes carry their own circular chromosome. Human mitochondrial DNA has 16,569 base pairs and 37 genes. |
 | They have their **own ribosomes**, which are more like bacterial ribosomes than like those in the eukaryotic cytosol. | Leftover protein-making machinery from the ancestor. Some antibiotics that act on bacterial ribosomes also slow protein synthesis inside mitochondria. |
 | New ones form only by **splitting** existing ones, in a way that resembles bacterial binary fission. | A cell cannot build a mitochondrion from scratch; it must inherit one, as you would expect from a former organism. |
 | Their **DNA sequences** are most similar to those of particular bacterial groups: mitochondria to a group called alphaproteobacteria, chloroplasts to cyanobacteria. | Sequence similarity shows shared ancestry, and it points to a specific ancestor for each organelle. |
-| Their inner membrane has proteins and enzymes similar to those in bacterial plasma membranes. | The inner membrane is the descendant of the ancestor's plasma membrane. |
+| Their inner membrane has proteins and enzymes similar to those in bacterial plasma membranes. | This supports descent from an endosymbiotic bacterium, while the exact ancestry of individual membrane components is more complex than a one-to-one mapping. |
 
 **Since then: dependence.** Over a very long time, most of the guest's genes moved to the host's nucleus or were lost. Human mitochondrial DNA now codes for just 13 proteins (its other genes code for RNA). Hundreds of the proteins a mitochondrion needs are coded in the nucleus, made in the cytosol and imported. That is why modern mitochondria and chloroplasts cannot live outside a cell, even though their ancestors did.
 

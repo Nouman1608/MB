@@ -12,8 +12,8 @@ prerequisites:
   - "Dot products and surface integrals over flat and curved surfaces"
 prerequisiteResources: ["mb-ap-physcem-11.8-study-guide"]
 learningObjectives:
-  - "Describe a magnetic field as a vector field and read or draw a field-line map for a magnet"
-  - "Use Gauss's law for magnetism to explain why field lines close and why poles always come in pairs"
+  - "Describe a magnetic field as a vector field and read or draw a field-line map for a bar magnet"
+  - "Use Gauss's law for magnetism to explain zero net flux through a closed surface, and explain why cutting an ordinary bar magnet yields two dipoles"
   - "Calculate the magnetic flux through parts of a closed surface and use the zero total to find a missing part"
   - "Explain permanent and induced magnetism, and ferromagnetic, paramagnetic and diamagnetic behaviour, in terms of dipole alignment"
   - "Describe Earth's field as a dipole field and explain what magnetic permeability measures and why it varies"
@@ -28,9 +28,9 @@ framework: { schoolYear: "2026-27", examSeries: "May 2027" }
 sources: ["ced-physics-c-electricity-and-magnetism", "clar-physics-c-electricity-and-magnetism", "page-physics-c-electricity-and-magnetism"]
 keyPoints:
   - "A magnetic field B is a vector field. It tells you the magnetic force on moving charges, currents and magnetic materials. Its unit is the tesla (T)."
-  - "There are no magnetic monopoles. Every source of B is a dipole or a set of dipoles, so north and south poles always come together."
-  - "Gauss's law for magnetism: ∮B·dA = 0 for every closed surface. Field lines form closed loops; outside a magnet they run from N to S, inside from S to N."
-  - "Magnetism in materials comes from the circulating and spinning motion of electrons. Aligned dipoles give permanent or induced magnetism."
+  - "No isolated magnetic monopole has been confirmed. Ordinary bar magnets have paired poles; currents and moving charges can produce magnetic-field geometries that are not point-dipole fields."
+  - "Gauss's law for magnetism: ∮B·dA = 0 for every closed surface. A bar-magnet dipole has loops from N to S outside and S to N inside; other field configurations need not close within the modeled region."
+  - "Orbital motion and intrinsic quantum angular momentum contribute magnetic moments; electron spin is not literal rotation of a charged ball. Bulk magnetisation depends on how atomic moments align."
   - "Permeability μ measures how strongly a material magnetises. Free space has the constant μ₀; for real materials μ is not a constant."
 faqs:
   - question: "If I cut a bar magnet in half, do I get a separate north pole and south pole?"
@@ -108,7 +108,7 @@ The simplest source of a magnetic field is a **magnetic dipole**: a bar magnet, 
 <text x="200" y="215">inside: S to N</text>
 </g>
 </svg>
-<figcaption>Figure 1. Field lines of a bar magnet. Outside the magnet the lines run from N to S; inside they run from S to N, so every line closes on itself. Every line that leaves the dashed closed surface around the N end also enters it again (inside the magnet), so the net magnetic flux through that surface is zero.</figcaption>
+<figcaption>Figure 1. Field lines in the bar-magnet dipole model run from N to S outside the magnet and return from S to N inside it. A closed surface around the N end has equal net inward and outward flux; magnetic fields have no local sources or sinks in this model.</figcaption>
 </figure>
 
 Three facts about dipoles that you must be able to use:
@@ -118,8 +118,15 @@ Three facts about dipoles that you must be able to use:
 3. **A dipole's field weakens with distance.** Far from a small magnet, B falls off quickly. *(Background, beyond this topic: far from a dipole B falls roughly as 1/r³, faster than the 1/r² of a point charge, because the fields of the two poles nearly cancel.)*
 
 ## No monopoles: Gauss's law for magnetism
+<!-- marlbridge-diagram:physcem-b24-magnetic-flux-dome-and-cylinder -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/physics/physcem-b24-magnetic-flux-dome-and-cylinder.svg" aria-label="Open full-size diagram: physcem-b24-magnetic-flux-dome-and-cylinder"><img src="/images/learning/physics/physcem-b24-magnetic-flux-dome-and-cylinder.svg" width="1600" height="1050" alt="Two closed-surface examples. A hemisphere and flat base in a uniform upward magnetic field have negative base flux and equal positive dome flux. A cylinder above a magnet pole has bottom flux −3.77 × 10⁻⁵ Wb, top flux +2.51 × 10⁻⁵ Wb and outward side flux +1.26 × 10⁻⁵ Wb, summing to zero." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Outward normals set the sign of each flux. The dome example balances one flat-base flux with dome flux; the cylinder example balances unequal end fluxes with side flux. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:physcem-b24-magnetic-flux-dome-and-cylinder -->
 
-An electric field can start on a positive charge and end on a negative charge. Nobody has ever found a **magnetic monopole**, an isolated N or S "magnetic charge". Every magnetic field is produced by dipoles, or by combinations of dipoles. If you cut a bar magnet in half, you get two shorter magnets, each with its own N and S pole.
+
+An electric field can start on positive charge and end on negative charge. No isolated magnetic monopole has been confirmed experimentally. In the classical no-monopole model, magnetic flux has no local source or sink; currents and moving charges can produce field geometries beyond the bar-magnet dipole. Cutting an ordinary bar magnet produces two smaller dipoles, each with north and south poles.
 
 The mathematical statement is **Gauss's law for magnetism**. **Maxwell's equations** are a set of four equations that together describe all of electromagnetism; Gauss's law for electric fields (Topic 8.6) is the first, and this law is the second:
 
@@ -130,31 +137,47 @@ As in Topic 8.6, the circle means a **closed** surface and dA points **outward**
 | | Electric field | Magnetic field |
 |---|---|---|
 | Gauss's law | ∮E·dA = q_enc/ε₀ | ∮B·dA = 0 |
-| Field lines | start on + charges, end on − charges | always closed loops |
-| Isolated "charge" | exists (an electron, a proton) | none: no monopoles |
+| Field lines | start on + charges, end on − charges | no local starts or ends; shown dipole lines close, while other configurations may extend beyond the modeled region |
+| Isolated "charge" | exists (an electron, a proton) | no isolated magnetic monopole has been confirmed |
 
 What the law tells you:
 
-- **Every field line that leaves a closed surface must re-enter it.** So the lines cannot start or stop anywhere. They form closed loops.
+- **Net magnetic flux through a closed surface is zero.** Flux entering and leaving balances; this does not require every field line to form a closed loop within the region being modeled.
 - **You can find a missing flux.** If you know the flux through every part of a closed surface except one, the last part must bring the total to zero.
-- **It holds for every closed surface, in every field**, uniform or not, near magnets or near currents.
+- The zero-flux law applies to every closed surface in the classical no-monopole model, including fields near magnets and current-carrying wires.
 
 The magnetic flux through an open surface (one face of a closed surface) is Φ_B = ∫B·dA, measured in webers. For a flat area A in a uniform field at angle θ to the normal, Φ_B = BA cos θ. You will use magnetic flux again in Unit 13 for induction.
 
 ## Where magnetism comes from
 
-Magnetic dipoles are produced by **circulating or spinning electric charge**. In atoms, the electrons' motion makes each atom a tiny dipole. *(Background: electrons also have an intrinsic magnetic moment, often linked to their "spin".)*
+<!-- marlbridge-diagram:phys2-b20-microscopic-moments-domains -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/physics/phys2-b20-microscopic-moments-domains.svg" aria-label="Open full-size diagram: phys2-b20-microscopic-moments-domains"><img src="/images/learning/physics/phys2-b20-microscopic-moments-domains.svg" width="1600" height="1050" alt="An electron’s intrinsic magnetic moment is shown as a quantum property; random atomic moments cancel while aligned domains create net magnetisation." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Separates individual microscopic magnetic moments from bulk magnetisation and avoids picturing quantum spin as literal mechanical rotation. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:phys2-b20-microscopic-moments-domains -->
+
+
+Magnetic moments arise from charged-particle orbital motion and intrinsic spin. Electron spin is quantum intrinsic angular momentum, not a literal rotation of the electron. Atomic electron and nuclear moments combine; a material has a net magnetisation when its microscopic moments do not cancel.
 
 In most materials these atomic dipoles point in random directions and their fields cancel. A material becomes magnetic when many dipoles **line up**:
 
 - **Permanent magnetism**: the dipoles stay aligned on their own, as in a bar magnet.
 - **Induced magnetism**: an external field lines the dipoles up while it is present. This is why a magnet attracts an unmagnetised iron nail: the magnet's field makes the nail a dipole, with its near end opposite in polarity to the magnet's nearby pole.
 
-Both are **system properties**. One atom is not "a magnet" in the everyday sense; the alignment of very many dipoles is.
+An atom can have a magnetic moment, but bulk magnetisation depends on the combined alignment and cancellation of many moments. Ferromagnetic domains can align collectively and may retain some alignment after an external field is removed.
 
 ## How materials respond to a field
 
-Every material falls into one of three types.
+<!-- marlbridge-diagram:physcem-b21-magnetic-material-responses -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/physics/physcem-b21-magnetic-material-responses.svg" aria-label="Open full-size diagram: physcem-b21-magnetic-material-responses"><img src="/images/learning/physics/physcem-b21-magnetic-material-responses.svg" width="1600" height="1050" alt="Paramagnetic dipoles weakly align, diamagnetic response opposes the field, and ferromagnetic domains align strongly with possible remanence." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Comparison of three common introductory magnetic material responses; scopes the classification and shows the ferromagnet’s nonlinear, saturating behavior qualitatively. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:physcem-b21-magnetic-material-responses -->
+
+
+Three common introductory responses are compared below; magnetic ordering also includes other classes, such as antiferromagnets and ferrimagnets.
 
 | Type | Examples | What the dipoles do in an external field | After the field is removed |
 |---|---|---|---|
@@ -167,6 +190,13 @@ Diamagnetism is present in **every** material. You only notice it when no strong
 A ferromagnet loses its ferromagnetism when it is heated above its Curie temperature (about 770 °C for iron), because thermal motion destroys the domains.
 
 ## Earth as a magnet
+
+<!-- marlbridge-diagram:physcem-b18-earth-dipole-compass -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/physics/physcem-b18-earth-dipole-compass.svg" aria-label="Open full-size diagram: Earth's magnetic dipole and compass components"><img src="/images/learning/physics/physcem-b18-earth-dipole-compass.svg" width="1600" height="1050" alt="Earth's magnetic dipole axis is tilted from its rotation axis; its magnetic south pole lies near geographic North, and a northern-hemisphere compass follows the horizontal field component." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Earth’s field is approximately dipolar; a flat compass follows its horizontal component while the field also has vertical inclination. — Marlbridge Physics.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:physcem-b18-earth-dipole-compass -->
 
 Earth's field can be modelled as the field of a **dipole** inside Earth, roughly lined up with the spin axis. A compass N end points (roughly) towards the geographic North Pole. Since unlike poles attract, the pole of Earth's dipole near the geographic North Pole is a magnetic **south** pole. Field lines leave Earth in the southern hemisphere and re-enter in the northern hemisphere.
 

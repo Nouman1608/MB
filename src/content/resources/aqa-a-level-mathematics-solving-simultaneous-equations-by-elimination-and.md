@@ -92,6 +92,13 @@ If the equations are multiples of each other with the same constant ratio (such 
 
 ## One linear and one quadratic equation
 
+<!-- marlbridge-diagram:maths-aqa-simultaneous-line-curve-intersections -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/mathematics/maths-aqa-simultaneous-line-curve-intersections.svg" aria-label="Open full-size diagram: maths-aqa-simultaneous-line-curve-intersections"><img src="/images/learning/mathematics/maths-aqa-simultaneous-line-curve-intersections.svg" width="1600" height="1050" alt="A labelled plot and exact algebra show how y=x+3 intersects y=x²−2x at two points; the matching plus/minus signs produce paired coordinates." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>A labelled plot and exact algebra show how y=x+3 intersects y=x²−2x at two points; the matching plus/minus signs produce paired coordinates. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:maths-aqa-simultaneous-line-curve-intersections -->
+
 Always substitute from the linear equation into the quadratic one. Rearranging the quadratic instead leads to messy square roots.
 
 1. Rearrange the linear equation so that one letter stands alone.

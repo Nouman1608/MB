@@ -80,6 +80,13 @@ A **marker gene** coding for a fluorescent product, such as green fluorescent pr
 
 ### The polymerase chain reaction (PCR)
 
+<!-- marlbridge-diagram:bio-b17-pcr-three-step-cycle -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/biology/bio-b17-pcr-three-step-cycle.svg" aria-label="Open full-size diagram: PCR: denature, anneal, extend"><img src="/images/learning/biology/bio-b17-pcr-three-step-cycle.svg" width="1600" height="1000" alt="Maps the three PCR temperatures and primer/Taq roles, then links repeated cycles to the source doubling rule." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Maps the three PCR temperatures and primer/Taq roles, then links repeated cycles to the source doubling rule. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:bio-b17-pcr-three-step-cycle -->
+
 PCR clones and amplifies a chosen length of DNA. The mixture contains template DNA, two **primers** (short single-stranded DNA complementary to the ends of the target), free DNA nucleotides and **Taq polymerase**, in a buffer. Each cycle has three steps:
 
 1. **Denaturation (about 95 °C):** hydrogen bonds between the strands break, giving single strands.
@@ -100,6 +107,13 @@ copies = 50 × 2²⁵
 ```
 
 ### Gel electrophoresis
+
+<!-- marlbridge-diagram:bio-b17-gel-electrophoresis-fragment-sizes -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/biology/bio-b17-gel-electrophoresis-fragment-sizes.svg" aria-label="Open full-size diagram: Gel electrophoresis: predict fragment migration"><img src="/images/learning/biology/bio-b17-gel-electrophoresis-fragment-sizes.svg" width="1600" height="1000" alt="Illustrates DNA moving from negative wells toward the positive electrode and the source linear-DNA example’s 1 200, 3 300 and 1 500 bp fragments." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Illustrates DNA moving from negative wells toward the positive electrode and the source linear-DNA example’s 1 200, 3 300 and 1 500 bp fragments. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:bio-b17-gel-electrophoresis-fragment-sizes -->
 
 1. DNA fragments (often cut with restriction enzymes) are loaded into wells at one end of an agarose gel in a buffer.
 2. A voltage is applied. DNA is **negatively charged** because of its phosphate groups, so it moves towards the **positive electrode (anode)**.

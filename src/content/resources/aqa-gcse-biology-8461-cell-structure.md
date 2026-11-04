@@ -41,9 +41,9 @@ The [Cell biology study guide](/resources/aqa-gcse-biology-cell-biology/) summar
 
 ## 4.1.1.1 Eukaryotes and prokaryotes
 
-**Eukaryotic cells** are plant and animal cells. They have a cell membrane, cytoplasm, and genetic material enclosed in a **nucleus**.
+**Eukaryotic cells** include plant and animal cells; fungi and protists are also eukaryotes. They have a cell membrane, cytoplasm, and genetic material enclosed in a **nucleus**.
 
-**Prokaryotic cells** are bacterial cells. They are much smaller. They have cytoplasm and a cell membrane, surrounded by a cell wall. The genetic material is **not** in a nucleus. It is a **single DNA loop**, and there may be one or more small rings of DNA called **plasmids**.
+**Prokaryotic cells** include bacteria; archaea are also prokaryotes. In the bacterial model used here, a cell has cytoplasm and a cell membrane, usually with a cell wall. Its genetic material is not enclosed in a nucleus and is usually one main circular DNA molecule; some bacteria differ. There may also be one or more small rings of DNA called **plasmids**.
 
 ### Scale, prefixes and standard form
 
@@ -74,7 +74,7 @@ The plant cell is 100 times longer: **two orders of magnitude**. Subtracting the
 
 ## 4.1.1.2 Animal and plant cells
 
-Most **animal cells** have a nucleus, cytoplasm, a cell membrane, mitochondria and ribosomes. **Plant cells** often have these plus **chloroplasts** and a **permanent vacuole filled with cell sap**. Plant and algal cells also have a **cell wall made of cellulose**, which strengthens the cell.
+Most **animal cells** have a nucleus, cytoplasm, a cell membrane, mitochondria and ribosomes. **Plant cells** often have these plus **chloroplasts** and a **permanent vacuole filled with cell sap**. Plant cells have a **cellulose cell wall**, which strengthens the cell. Algal cell-wall composition varies among groups; many have cellulose, but it is not universal.
 
 ### Structure related to function
 
@@ -87,7 +87,7 @@ Most **animal cells** have a nucleus, cytoplasm, a cell membrane, mitochondria a
 | Ribosomes | Where protein synthesis happens |
 | Chloroplasts (plants) | Contain chlorophyll, which absorbs light for photosynthesis |
 | Permanent vacuole (plants) | Filled with cell sap; helps keep the cell firm |
-| Cellulose cell wall (plants, algae) | Strengthens the cell |
+| Cellulose cell wall (plants; many algae) | Strengthens the cell |
 | Plasmids (bacteria) | Small rings of extra DNA, separate from the main DNA loop |
 
 For a 2-mark "explain", name the structure, then say what it does: "many mitochondria [1] release energy for contraction [1]".
@@ -108,6 +108,11 @@ Give these as "about 5 μm" and "about 750 μm²".
 
 ### Required practical 1: observing cells with a light microscope
 
+<figure class="my-8" id="objective-bio-open-149-elodea" data-objective-id="BIO-OPEN-149"><img src="/images/learning/biology/bio-open-149-elodea-cells-cc-by4.jpg" alt="Rows of turgid Elodea cells with green chloroplasts; displayed upper field is cropped to remove a large black pointer; source title states 400x." width="1705" height="1096" loading="lazy" decoding="async" /><figcaption>M. Aderholt, <a href="https://commons.wikimedia.org/wiki/File:Turgid_Elodea_Cells_under_400X_Magnification.jpg">Wikimedia Commons</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>. Display crop uses full width and upper 940 px to remove the pointer; original unchanged. Source states 400x but no physical scale calibration.</figcaption></figure>
+
+<figure class="my-8" id="objective-bio-open-149-cheek-cells" data-objective-id="BIO-OPEN-149"><img src="/images/learning/biology/bio-open-134-cheek-cell-cil12594.jpg" alt="Composite light micrographs of a human cheek squamous epithelial cell under bright-field, phase-contrast and differential-interference-contrast microscopy; source image includes a 15 um scale bar." width="1397" height="3281" loading="lazy" decoding="async" /><figcaption>Human cheek epithelial cell, CIL:12594. Graham Wright, Cell Image Library; <a href="https://www.cellimagelibrary.org/images/12594">source record</a>, <a href="https://www.cellimagelibrary.org/licensing">public domain</a>. This same authentic image is reused for A Level 1.2.2 micrograph interpretation; the original 15 um scale bar is retained.</figcaption></figure>
+
+
 1. Take a thin layer of cells, such as onion epidermis, so light passes through.
 2. Place it on a slide in a drop of stain (iodine solution for plant cells) to make the nucleus visible.
 3. Lower a coverslip at an angle to avoid trapping air bubbles.
@@ -117,8 +122,22 @@ Give these as "about 5 μm" and "about 750 μm²".
 7. Include a **magnification scale**, such as a scale bar.
 
 Total magnification = eyepiece lens magnification × objective lens magnification. A ×10 eyepiece with a ×40 objective gives ×400.
+<!-- marlbridge-diagram:bio-b57-aqa-cell-observation-scale-drawing -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/biology/bio-b57-aqa-cell-observation-scale-drawing.svg" aria-label="Open full-size worked cell-drawing and scale figure"><img src="/images/learning/biology/bio-b57-aqa-cell-observation-scale-drawing.svg" width="1600" height="900" alt="Worked model drawings of a cheek cell and Elodea cell, with labels and a 15 micrometre reference scale bar from the cheek-cell micrograph; the Elodea drawing is explicitly schematic and not calibrated" loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Worked examples for observation and drawing. The 15 μm bar is copied from the cheek-cell source micrograph and is a reference only; the schematic Elodea cell is not to scale because its source photograph has no calibration.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:bio-b57-aqa-cell-observation-scale-drawing -->
 
 ## 4.1.1.3 Cell specialisation
+
+<!-- marlbridge-diagram:bio-b18-specialised-cell-comparison -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/biology/bio-b18-specialised-cell-comparison.svg" aria-label="Open full-size diagram: bio-b18-specialised-cell-comparison"><img src="/images/learning/biology/bio-b18-specialised-cell-comparison.svg" width="1600" height="1000" alt="Six specialised-cell drawings: sperm head and flagellum, branched neurone, contractile muscle fibres, root-hair projection, xylem vessels with gold spiral lignin wall thickening around a hollow lumen, and phloem sieve tube beside a companion cell" loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Specialised cells matched to function. In the xylem panel, the gold spiral marks lignin thickening in the wall around the hollow water-conducting lumen. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:bio-b18-specialised-cell-comparison -->
+
 
 Specialised cells have structures that fit them to a job in a tissue, organ, organ system or whole organism. For an unfamiliar cell, give each feature, then what it allows.
 
@@ -129,7 +148,7 @@ Specialised cells have structures that fit them to a job in a tissue, organ, org
 | Muscle cell | Protein fibres that can contract; many mitochondria | Shortens to move bones or organs; energy for contraction |
 | Root hair cell | Long, thin projection | Large surface area for absorbing water and mineral ions from soil |
 | Xylem cell | Dead cells forming hollow tubes; walls strengthened with lignin | Water and mineral ions flow through freely; tubes do not collapse and support the plant |
-| Phloem cell | Cells joined end to end; end walls with pores | Dissolved sugars move from one cell to the next |
+| Phloem tissue | Sieve-tube elements joined end to end, with perforated end walls; companion cells alongside | Dissolved sugars are transported through the sieve tubes; companion cells support their function |
 
 ## 4.1.1.4 Cell differentiation
 
@@ -184,10 +203,20 @@ Uncontaminated cultures are needed to investigate the action of disinfectants an
 | Step | Reason |
 |---|---|
 | Sterilise Petri dishes and culture media before use | Kills any microorganisms already present, so only the chosen bacteria grow |
-| Pass the inoculating loop through a flame | Kills microorganisms on the loop before it is used to transfer bacteria |
-| Secure the lid with adhesive tape | Stops microorganisms from the air getting in, and stops the lid coming off |
+| Use sterile equipment and an approved aseptic method | Reduces contamination; the exact method and equipment are set by the teacher or technician using the school's risk assessment |
+| If a reusable loop is flamed, allow it to cool before touching a culture | A hot loop can kill the microorganisms being transferred; students should use this method only when directed and supervised |
+| Secure the lid with small pieces of tape, without sealing the dish completely | Helps prevent accidental opening while avoiding complete sealing; follow the current school procedure |
 | Store the dish upside down | Condensation does not drip onto the agar |
-| Incubate at 25°C in school labs | Lower temperatures make the growth of pathogens that could harm humans less likely |
+| Use the incubation conditions set by the approved school procedure (commonly 25°C in school practicals) | Lower temperatures reduce the likelihood of encouraging growth of organisms harmful to humans; follow the local risk assessment |
+
+Do not open an incubated plate that has grown from an environmental or human sample. Follow the teacher's instructions for handling and disposal. AQA's suggested method uses pre-inoculated plates and says students do not need to prepare plates themselves; the school is responsible for an appropriate risk assessment.
+
+<!-- marlbridge-diagram:bio-gap-aseptic-culture-handling -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/biology/bio-gap-aseptic-culture-handling.svg" aria-label="Open full-size diagram: bio-gap-aseptic-culture-handling"><img src="/images/learning/biology/bio-gap-aseptic-culture-handling.svg" width="1600" height="1000" alt="Aseptic culture handling overview: teacher-approved sterile equipment, cooling a flamed reusable loop before contact, small tape pieces that do not seal a plate completely, inverted incubation, and a warning not to open grown environmental or human cultures." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>Culture handling overview. The school risk assessment and teacher or technician instructions determine the approved procedure. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:bio-gap-aseptic-culture-handling -->
 
 ### Calculating bacterial numbers
 
@@ -195,6 +224,8 @@ Uncontaminated cultures are needed to investigate the action of disinfectants an
 number of divisions = time available / mean division time
 bacteria at end = bacteria at start × 2^(number of divisions)
 ```
+
+This calculation is an ideal model: it assumes a constant division time and no deaths, so real cultures may not follow it as nutrients and conditions change.
 
 **Worked example 5.** A culture starts with 150 bacteria. The mean division time is 30 minutes. How many bacteria are there after 3 hours?
 
@@ -219,13 +250,21 @@ area = π × 9² = 254.469... ≈ 254 mm²
 
 ### Required practical 2: antiseptics and zones of inhibition
 
-Spread bacteria evenly over an agar plate using aseptic technique. Add paper discs soaked in different antiseptics (or antibiotics), plus a control disc soaked in sterile water. Tape and incubate the plate. A clear **zone of inhibition** forms where bacteria are killed or stopped from growing. Measure each zone's diameter and find its area with πr². A larger area means a more effective antiseptic. Control disc size, soaking time, bacterium, temperature and incubation time.
+<!-- marlbridge-diagram:bio-b23-aqa-inhibition-zone-control-measurement -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/biology/bio-b23-aqa-inhibition-zone-control-measurement.svg" aria-label="Open full-size diagram: bio-b23-aqa-inhibition-zone-control-measurement"><img src="/images/learning/biology/bio-b23-aqa-inhibition-zone-control-measurement.svg" width="1528" height="940" alt="Top-view schematic with an even bacterial lawn, antiseptic disc and clear inhibition zone, sterile-water control, full-zone diameter measurement and notes about diffusion and area convention." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>The full measured diameter includes the disc footprint; subtract the disc area if calculating clear agar alone. Zone size also depends on diffusion. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:bio-b23-aqa-inhibition-zone-control-measurement -->
+
+
+Spread bacteria evenly over an agar plate using the approved aseptic method. Add paper discs soaked in different antiseptics (or antibiotics), plus a control disc soaked in sterile water. Incubate under the approved school conditions. A clear **zone of inhibition** forms where bacterial growth is stopped. Measure each zone's diameter and calculate its area with πr²; state whether your measurement includes the disc footprint. A larger zone can indicate greater inhibition when conditions are standardised, but zone size also depends on how readily the substance diffuses through agar. Do not use zone area alone to compare the intrinsic potency of different compounds. Control disc size, soaking time, bacterium, temperature and incubation time.
 
 ## Common errors
 
 - Writing that bacteria have "no DNA". They have DNA: a single loop, plus plasmids, but no nucleus.
 - Giving "vacuole" for plant cells without "permanent".
-- Giving bacteria a cellulose cell wall. Cellulose walls are in plant and algal cells only.
+- Giving bacteria a cellulose cell wall. Plant cell walls contain cellulose; algal wall composition varies, and prokaryotic walls are not made of cellulose.
 - Multiplying when you should divide in a unit conversion. mm → μm is ×1000; μm → mm is ÷1000.
 - Using the diameter instead of the radius in πr².
 - Treating magnification and resolution as the same.

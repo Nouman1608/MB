@@ -88,6 +88,14 @@ When two conditions must hold together, solve each separately and keep the value
 
 ## 1.8 Regions defined by inequalities
 
+<!-- marlbridge-diagram:maths-b25-inequality-region-parabola-line -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/mathematics/maths-b25-inequality-region-parabola-line.svg" aria-label="Open full-size diagram: maths-b25-inequality-region-parabola-line"><img src="/images/learning/mathematics/maths-b25-inequality-region-parabola-line.svg" width="1600" height="1050" alt="For y ≥ x²−4x and y &lt; x+6, the boundaries meet at (−1,5) and (6,12). The parabola boundary is solid because equality is included; the line is dashed because its inequality is strict. The valid region lies above the parabola and below the line between the intersections; the intersection points are excluded because they lie on the strict line." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>For y ≥ x²−4x and y &lt; x+6, the boundaries meet at (−1,5) and (6,12). The parabola boundary is solid because equality is included; the line is dashed because its inequality is strict. The valid region lies above the parabola and below the line between the intersections; the intersection points are excluded because they lie on the strict line. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:maths-b25-inequality-region-parabola-line -->
+
+
 1. Draw the boundary: y = x + c or y = ax² + bx + c.
 2. A strict inequality (< or >) has a dotted boundary. An inclusive one (≤ or ≥) has a solid boundary.
 3. Substitute a point that is off the boundary, and shade the side that makes the inequality true.

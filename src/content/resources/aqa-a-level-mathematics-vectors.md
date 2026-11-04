@@ -61,6 +61,13 @@ In 2D there is no k component. Every method on this page works in 2D and 3D, wit
 
 ## J2: magnitude and direction
 
+<!-- marlbridge-diagram:maths-aqa-vector-components-magnitude-direction -->
+<figure class="lesson-diagram" style="margin: 2rem 0;">
+  <a href="/images/learning/mathematics/maths-aqa-vector-components-magnitude-direction.svg" aria-label="Open full-size diagram: maths-aqa-vector-components-magnitude-direction"><img src="/images/learning/mathematics/maths-aqa-vector-components-magnitude-direction.svg" width="1600" height="1050" alt="A 3D component sketch for p = 2i − 3j + 6k supports the source calculation of its magnitude 7, unit vector and 31.0° angle to the positive z-axis." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
+  <figcaption>A 3D component sketch for p = 2i − 3j + 6k supports the source calculation of its magnitude 7, unit vector and 31.0° angle to the positive z-axis. Select the image to enlarge it.</figcaption>
+</figure>
+<!-- /marlbridge-diagram:maths-aqa-vector-components-magnitude-direction -->
+
 **Magnitude.** By Pythagoras, |xi + yj| = √(x² + y²), and in 3D |xi + yj + zk| = √(x² + y² + z²).
 
 **Unit vector.** Divide by the magnitude: â = a / |a|. Its magnitude is 1.

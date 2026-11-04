@@ -62,13 +62,11 @@ So almost every question in this topic comes down to one comparison: **which con
 
 ## Which hydrogens are acidic?
 
-A molecule can contain many hydrogen atoms but give away only some of them. The acidic hydrogens are usually bonded to a **highly electronegative atom**, most often oxygen or a halogen. The O–H or X–H bond is polar, and after the proton leaves, the electronegative atom keeps the pair of electrons and copes with the negative charge.
+A molecule can contain several chemically different hydrogen sites. For the familiar acids in this topic, begin by locating an O–H group, such as the carboxyl O–H of CH₃COOH, or the H–halogen bond of a hydrogen halide. Then consider whether loss of H⁺ leaves a suitably stabilized conjugate base.
 
-A hydrogen bonded to carbon is not acidic in water. Carbon and hydrogen have similar electronegativities, the C–H bond is barely polar, and a negative charge on carbon is very unstable.
+Acetic acid has four hydrogens, but in its ordinary aqueous acid–base chemistry the carboxyl O–H supplies the acidic proton. The three methyl C–H hydrogens are not removed in that process, so the acid is treated as monoprotic and its conjugate base is CH₃COO⁻.
 
-Look at acetic acid, CH₃COOH. It has four hydrogen atoms, but only **one** is acidic: the hydrogen on the O–H group. The three hydrogens on the CH₃ group stay put. So acetic acid is **monoprotic**, and its conjugate base is the acetate ion, CH₃COO⁻.
-
-This is the skill the exam asks for: look at the structure, find the H atoms on O (or on a halogen), and that tells you how many protons can take part in acid-base reactions.
+Do not turn this example into a universal rule that C–H hydrogens are never acidic or that only O–H and H–halogen sites matter. Some carbon acids have resonance-stabilized conjugate bases, and N–H sites can also donate protons. Use the actual structure and any supplied information; those additional families are context rather than extra memorization requirements here.
 
 ## The common strong acids and strong bases
 
